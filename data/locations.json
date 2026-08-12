@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "countries": [
+    {
+      "slug": "united_states",
+      "name": "United States",
+      "iso2": "US",
+      "aliases": ["united states", "usa", "u.s.a", "u.s.", "america", "united states of america"],
+      "cities": ["new york", "san francisco", "los angeles", "seattle", "austin", "chicago", "boston", "atlanta", "denver", "portland"],
+      "overrides": ["atlanta, georgia"]
+    },
+    {
+      "slug": "georgia",
+      "name": "Georgia",
+      "iso2": "GE",
+      "aliases": ["georgia"],
+      "cities": ["tbilisi", "batumi", "kutaisi", "rustavi"],
+      "overrides": ["paris, georgia"]
+    },
+    {
+      "slug": "france",
+      "name": "France",
+      "iso2": "FR",
+      "aliases": ["france"],
+      "cities": ["paris", "lyon", "marseille", "toulouse", "nantes", "lille", "bordeaux", "nice"],
+      "overrides": []
+    },
+    {
+      "slug": "bulgaria",
+      "name": "Bulgaria",
+      "iso2": "BG",
+      "aliases": ["bulgaria"],
+      "cities": ["sofia", "plovdiv", "varna", "burgas", "ruse"],
+      "overrides": []
+    },
+    {
+      "slug": "united_kingdom",
+      "name": "United Kingdom",
+      "iso2": "GB",
+      "aliases": ["united kingdom", "uk", "u.k.", "great britain", "england", "scotland", "wales", "northern ireland"],
+      "cities": ["london", "manchester", "birmingham", "edinburgh", "glasgow", "bristol", "leeds", "cambridge"],
+      "overrides": []
+    },
+    {
+      "slug": "germany",
+      "name": "Germany",
+      "iso2": "DE",
+      "aliases": ["germany", "deutschland"],
+      "cities": ["berlin", "munich", "hamburg", "cologne", "frankfurt", "stuttgart", "dresden", "leipzig"],
+      "overrides": []
+    },
+    {
+      "slug": "india",
+      "name": "India",
+      "iso2": "IN",
+      "aliases": ["india"],
+      "cities": ["bangalore", "bengaluru", "mumbai", "delhi", "new delhi", "hyderabad", "chennai", "pune", "kolkata"],
+      "overrides": []
+    },
+    {
+      "slug": "canada",
+      "name": "Canada",
+      "iso2": "CA",
+      "aliases": ["canada"],
+      "cities": ["toronto", "vancouver", "montreal", "calgary", "ottawa", "edmonton", "waterloo"],
+      "overrides": []
+    },
+    {
+      "slug": "australia",
+      "name": "Australia",
+      "iso2": "AU",
+      "aliases": ["australia"],
+      "cities": ["sydney", "melbourne", "brisbane", "perth", "adelaide", "canberra"],
+      "overrides": []
+    },
+    {
+      "slug": "brazil",
+      "name": "Brazil",
+      "iso2": "BR",
+      "aliases": ["brazil", "brasil"],
+      "cities": ["sao paulo", "são paulo", "rio de janeiro", "belo horizonte", "curitiba", "porto alegre", "recife"],
+      "overrides": []
+    },
+    {
+      "slug": "japan",
+      "name": "Japan",
+      "iso2": "JP",
+      "aliases": ["japan", "日本"],
+      "cities": ["tokyo", "osaka", "kyoto", "yokohama", "fukuoka"],
+      "overrides": []
+    },
+    {
+      "slug": "china",
+      "name": "China",
+      "iso2": "CN",
+      "aliases": ["china", "prc", "中国"],
+      "cities": ["beijing", "shanghai", "shenzhen", "guangzhou", "hangzhou", "chengdu"],
+      "overrides": []
+    },
+    {
+      "slug": "netherlands",
+      "name": "Netherlands",
+      "iso2": "NL",
+      "aliases": ["netherlands", "holland"],
+      "cities": ["amsterdam", "rotterdam", "utrecht", "eindhoven", "the hague"],
+      "overrides": []
+    },
+    {
+      "slug": "spain",
+      "name": "Spain",
+      "iso2": "ES",
+      "aliases": ["spain", "españa", "espana"],
+      "cities": ["madrid", "barcelona", "valencia", "seville", "sevilla", "bilbao"],
+      "overrides": []
+    },
+    {
+      "slug": "italy",
+      "name": "Italy",
+      "iso2": "IT",
+      "aliases": ["italy", "italia"],
+      "cities": ["rome", "roma", "milan", "milano", "turin", "torino", "naples", "napoli", "bologna"],
+      "overrides": []
+    },
+    {
+      "slug": "poland",
+      "name": "Poland",
+      "iso2": "PL",
+      "aliases": ["poland", "polska"],
+      "cities": ["warsaw", "warszawa", "krakow", "kraków", "wroclaw", "wrocław", "gdansk", "gdańsk", "poznan", "poznań"],
+      "overrides": []
+    },
+    {
+      "slug": "ukraine",
+      "name": "Ukraine",
+      "iso2": "UA",
+      "aliases": ["ukraine", "україна"],
+      "cities": ["kyiv", "kiev", "lviv", "kharkiv", "odesa", "odessa", "dnipro"],
+      "overrides": []
+    },
+    {
+      "slug": "russia",
+      "name": "Russia",
+      "iso2": "RU",
+      "aliases": ["russia", "russian federation", "россия"],
+      "cities": ["moscow", "saint petersburg", "st petersburg", "novosibirsk", "kazan", "yekaterinburg"],
+      "overrides": []
+    },
+    {
+      "slug": "turkey",
+      "name": "Turkey",
+      "iso2": "TR",
+      "aliases": ["turkey", "turkiye", "türkiye"],
+      "cities": ["istanbul", "ankara", "izmir", "bursa", "antalya"],
+      "overrides": []
+    },
+    {
+      "slug": "mexico",
+      "name": "Mexico",
+      "iso2": "MX",
+      "aliases": ["mexico", "méxico"],
+      "cities": ["mexico city", "ciudad de mexico", "guadalajara", "monterrey", "puebla", "queretaro"],
+      "overrides": []
+    }
+  ]
+}

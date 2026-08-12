@@ -1,0 +1,15 @@
+{
+  "name": "github-country-leaderboard",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "collect": "node src/cli/collect.js",
+    "generate": "node src/cli/generate.js",
+    "dry-run": "node src/cli/collect.js --dry-run --mock --max-queries 3",
+    "test": "node --test"
+  }
+}

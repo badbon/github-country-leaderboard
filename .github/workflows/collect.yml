@@ -1,0 +1,50 @@
+name: Collect leaderboards
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      max_queries:
+        description: "Maximum GitHub API queries for this run"
+        required: false
+        default: "120"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-leaderboards
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm test
+
+      - name: Collect users
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          MAX_QUERIES: ${{ inputs.max_queries || '120' }}
+        run: npm run collect -- --max-queries "$MAX_QUERIES"
+
+      - name: Commit generated data
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add cache data/state.json markdown
+            git commit -m "Update GitHub country leaderboards"
+            git push
+          else
+            echo "No generated changes"
+          fi

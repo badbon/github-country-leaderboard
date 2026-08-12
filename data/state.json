@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "queue": [],
+  "completed": {},
+  "lastRunStartedAt": null,
+  "lastRunFinishedAt": null,
+  "stats": {
+    "queries": 0,
+    "usersSeen": 0,
+    "usersKept": 0
+  }
+}

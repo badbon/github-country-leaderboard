@@ -1,0 +1,15 @@
+.codex/
+.openai/
+.claude/
+.cursor/
+AGENTS.md
+CLAUDE.md
+work/
+outputs/
+.env
+.env.*
+debug/
+tmp/
+*.log
+node_modules/
+.coverage/
