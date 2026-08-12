@@ -8,6 +8,7 @@ import { splitTask } from "./sharding.js";
 import { formatDate, monthsAgo, previousDate, rollingContributionWindow } from "./dates.js";
 import { shouldStopForBudget, waitForRateLimit, defaultSleep } from "./rate-limit.js";
 
+const PAGE_SIZE = 25;
 const DEFAULT_STATE = {
   version: 1,
   queue: [],
@@ -41,7 +42,7 @@ export async function collect({
     const query = buildSearchQuery(task);
     let firstPage;
     try {
-      firstPage = await requestWithBackoff(client, { query, first: 100, after: null, contributionWindow }, sleep);
+      firstPage = await requestWithBackoff(client, { query, first: PAGE_SIZE, after: null, contributionWindow }, sleep);
     } catch (error) {
       if (!shouldSplitAfterFailure(error)) throw error;
       state.queue.unshift(...splitTask(task));
@@ -63,7 +64,7 @@ export async function collect({
 
     while (pageInfo.hasNextPage && queries < maxQueries) {
       await sleep(1500);
-      const page = await requestWithBackoff(client, { query, first: 100, after: pageInfo.endCursor, contributionWindow }, sleep);
+      const page = await requestWithBackoff(client, { query, first: PAGE_SIZE, after: pageInfo.endCursor, contributionWindow }, sleep);
       queries += 1;
       lastRateLimit = page.rateLimit;
       users.push(...page.users);
@@ -142,7 +143,7 @@ async function requestWithBackoff(client, request, sleep) {
 }
 
 function shouldSplitAfterFailure(error) {
-  return error.status === 502 || error.status === 503 || error.status === 504;
+  return error.resourceLimit || error.status === 502 || error.status === 503 || error.status === 504;
 }
 
 async function persist(state, caches, dryRun) {

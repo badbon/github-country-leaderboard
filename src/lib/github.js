@@ -79,7 +79,9 @@ export class GitHubClient {
     const payload = await response.json();
     if (payload.errors?.length) {
       const rateLimit = payload.data?.rateLimit;
-      throw Object.assign(new Error(payload.errors.map((error) => error.message).join("; ")), {
+      const message = payload.errors.map((error) => error.message).join("; ");
+      throw Object.assign(new Error(message), {
+        resourceLimit: message.toLowerCase().includes("resource limits"),
         rateLimit
       });
     }
