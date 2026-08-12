@@ -75,8 +75,12 @@ export async function collect({
 
     const enriched = [];
     const logins = unique(search.users.map((user) => user.login));
+    let fullyEnriched = true;
     for (const batch of chunks(logins, ENRICH_BATCH_SIZE)) {
-      if (requests >= maxQueries) break;
+      if (requests >= maxQueries) {
+        fullyEnriched = false;
+        break;
+      }
       const response = await requestWithBackoff(() =>
         client.enrichUsers({ logins: batch, contributionWindow }), sleep);
       requests += 1;
@@ -91,7 +95,9 @@ export async function collect({
     state.stats.usersKept = Object.values(caches).reduce((total, list) => total + list.length, 0);
 
     const lastPage = Math.ceil(Math.min(search.total, SEARCH_RESULT_CAP) / SEARCH_PAGE_SIZE);
-    if (page < lastPage) {
+    if (!fullyEnriched) {
+      state.queue.unshift({ ...task, page });
+    } else if (page < lastPage) {
       state.queue.unshift({ ...task, page: page + 1 });
     } else {
       state.completed[key] = {
@@ -173,6 +179,7 @@ async function requestWithBackoff(request, sleep) {
       return await request();
     } catch (error) {
       if (shouldSplitAfterFailure(error)) throw error;
+      if (error.status && error.status !== 403 && error.status !== 429) throw error;
       attempt += 1;
       const waited = await waitForRateLimit(error, sleep);
       if (!waited && attempt >= 3) throw error;

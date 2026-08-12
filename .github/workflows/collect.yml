@@ -8,7 +8,11 @@ on:
       max_queries:
         description: "Maximum GitHub API requests for this run"
         required: false
-        default: "900"
+        default: "1200"
+      chunk_queries:
+        description: "Requests per committed chunk"
+        required: false
+        default: "250"
 
 permissions:
   contents: write
@@ -32,20 +36,35 @@ jobs:
 
       - run: npm test
 
-      - name: Collect users
+      - name: Collect and commit chunks
         env:
           GITHUB_TOKEN: ${{ github.token }}
-          MAX_QUERIES: ${{ inputs.max_queries || '900' }}
-        run: npm run collect -- --max-queries "$MAX_QUERIES"
-
-      - name: Commit generated data
+          MAX_QUERIES: ${{ inputs.max_queries || '1200' }}
+          CHUNK_QUERIES: ${{ inputs.chunk_queries || '250' }}
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add cache data/state.json markdown
-            git commit -m "Update GitHub country leaderboards"
-            git push
-          else
-            echo "No generated changes"
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          remaining="$MAX_QUERIES"
+          chunk_index=1
+          while [ "$remaining" -gt 0 ]; do
+            current="$CHUNK_QUERIES"
+            if [ "$remaining" -lt "$current" ]; then
+              current="$remaining"
+            fi
+
+            echo "Collecting chunk ${chunk_index} with ${current} requests remaining budget ${remaining}"
+            npm run collect -- --max-queries "$current"
+
+            if [ -n "$(git status --porcelain cache data/state.json markdown)" ]; then
+              git add cache data/state.json markdown
+              git commit -m "Update GitHub country leaderboards"
+              git pull --rebase
+              git push
+            else
+              echo "No generated changes for chunk ${chunk_index}"
+            fi
+
+            remaining=$((remaining - current))
+            chunk_index=$((chunk_index + 1))
+          done
