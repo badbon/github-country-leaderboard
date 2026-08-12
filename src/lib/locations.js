@@ -26,7 +26,7 @@ export function normalizeCountry(country) {
 }
 
 export function buildTerms(countries) {
-  return countries.flatMap((country) => {
+  const terms = countries.flatMap((country) => {
     const countryTerms = country.aliases.map((term) => ({
       country: country.slug,
       term,
@@ -39,8 +39,19 @@ export function buildTerms(countries) {
     }));
     return [...countryTerms, ...cityTerms];
   });
+  const byKey = new Map();
+  for (const term of terms) {
+    const key = `${term.country}|${term.kind}|${normalizeText(term.term)}`;
+    if (!byKey.has(key)) byKey.set(key, term);
+  }
+  return [...byKey.values()];
 }
 
 function unique(values) {
-  return [...new Set(values.map((value) => String(value).trim()).filter(Boolean))];
+  const byKey = new Map();
+  for (const value of values.map((item) => String(item).trim()).filter(Boolean)) {
+    const key = normalizeText(value);
+    if (!byKey.has(key)) byKey.set(key, value);
+  }
+  return [...byKey.values()];
 }

@@ -6,7 +6,7 @@ import { GitHubClient, MockGitHubClient } from "../lib/github.js";
 
 const args = parseArgs(process.argv.slice(2));
 const countries = await loadLocations();
-const maxQueries = Number(args["max-queries"] ?? process.env.MAX_QUERIES ?? 120);
+const maxQueries = Number(args["max-queries"] ?? process.env.MAX_QUERIES ?? 900);
 const dryRun = Boolean(args["dry-run"]);
 const client = args.mock
   ? new MockGitHubClient()
@@ -19,6 +19,6 @@ if (!dryRun) {
 
 console.log(JSON.stringify({
   dryRun,
-  queries: result.queries,
+  requests: result.queries,
   remainingTasks: result.remainingTasks
 }, null, 2));

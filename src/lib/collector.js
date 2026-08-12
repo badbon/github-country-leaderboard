@@ -6,23 +6,33 @@ import { dedupeUsers } from "./ranking.js";
 import { buildSearchQuery, FIRST_GITHUB_USER_DATE, SEARCH_RESULT_CAP, taskKey } from "./query.js";
 import { splitTask } from "./sharding.js";
 import { formatDate, monthsAgo, previousDate, rollingContributionWindow } from "./dates.js";
-import { shouldStopForBudget, waitForRateLimit, defaultSleep } from "./rate-limit.js";
+import { waitForRateLimit, defaultSleep } from "./rate-limit.js";
 
-const PAGE_SIZE = 25;
-const INITIAL_SHARD_DAYS = 90;
+const SEARCH_PAGE_SIZE = 100;
+const ENRICH_BATCH_SIZE = 20;
+const DISCOVERY_SHARD_DAYS = 365;
+const SEARCH_DELAY_MS = 2100;
+const ENRICH_DELAY_MS = 250;
+
 const DEFAULT_STATE = {
-  version: 1,
+  version: 2,
   queue: [],
   completed: {},
   lastRunStartedAt: null,
   lastRunFinishedAt: null,
-  stats: { queries: 0, usersSeen: 0, usersKept: 0 }
+  stats: {
+    searchRequests: 0,
+    enrichmentRequests: 0,
+    usersDiscovered: 0,
+    usersEnriched: 0,
+    usersKept: 0
+  }
 };
 
 export async function collect({
   countries,
   client,
-  maxQueries = 120,
+  maxQueries = 900,
   dryRun = false,
   now = new Date(),
   sleep = defaultSleep
@@ -30,91 +40,91 @@ export async function collect({
   const state = await loadState(countries, now);
   const caches = await loadCaches(countries);
   const contributionWindow = rollingContributionWindow(now);
-  let queries = 0;
-  let lastRateLimit = null;
+  let requests = 0;
   state.lastRunStartedAt = now.toISOString();
 
-  while (state.queue.length && queries < maxQueries) {
+  while (state.queue.length && requests < maxQueries) {
     const task = state.queue.shift();
     const key = taskKey(task);
-    if (state.completed[key]) continue;
+    if (state.completed[key] && !task.page) continue;
 
-    const queriesBeforeTask = queries;
     const query = buildSearchQuery(task);
-    console.log(`Collecting ${task.country} ${task.kind}:${task.term} created:${task.createdStart}..${task.createdEnd}`);
-    let firstPage;
+    const page = task.page ?? 1;
+    console.log(`Searching ${task.country} ${task.kind}:${task.term} created:${task.createdStart}..${task.createdEnd} page:${page}`);
+
+    let search;
     try {
-      firstPage = await requestWithBackoff(client, { query, first: PAGE_SIZE, after: null, contributionWindow }, sleep);
+      search = await requestWithBackoff(() =>
+        client.searchUsers({ query, page, perPage: SEARCH_PAGE_SIZE }), sleep);
     } catch (error) {
       if (!shouldSplitAfterFailure(error)) throw error;
       state.queue.unshift(...splitTask(task));
       await persist(state, caches, dryRun);
       continue;
     }
-    queries += 1;
-    lastRateLimit = firstPage.rateLimit;
 
-    if (firstPage.total > SEARCH_RESULT_CAP) {
-      state.stats.queries += queries - queriesBeforeTask;
+    requests += 1;
+    state.stats.searchRequests += 1;
+
+    if ((search.total > SEARCH_RESULT_CAP || search.incomplete) && page === 1) {
       state.queue.unshift(...splitTask(task));
       await persist(state, caches, dryRun);
+      await sleep(SEARCH_DELAY_MS);
       continue;
     }
 
-    let users = [...firstPage.users];
-    let pageInfo = firstPage.pageInfo;
-
-    while (pageInfo.hasNextPage && queries < maxQueries) {
-      await sleep(1500);
-      const page = await requestWithBackoff(client, { query, first: PAGE_SIZE, after: pageInfo.endCursor, contributionWindow }, sleep);
-      queries += 1;
-      lastRateLimit = page.rateLimit;
-      users.push(...page.users);
-      pageInfo = page.pageInfo;
-      if (shouldStopForBudget(lastRateLimit)) break;
+    const enriched = [];
+    const logins = unique(search.users.map((user) => user.login));
+    for (const batch of chunks(logins, ENRICH_BATCH_SIZE)) {
+      if (requests >= maxQueries) break;
+      const response = await requestWithBackoff(() =>
+        client.enrichUsers({ logins: batch, contributionWindow }), sleep);
+      requests += 1;
+      state.stats.enrichmentRequests += 1;
+      enriched.push(...response.users);
+      await sleep(ENRICH_DELAY_MS);
     }
 
-    mergeUsers(caches, countries, users);
-    if (pageInfo.hasNextPage) {
-      state.queue.unshift(task);
+    mergeUsers(caches, countries, enriched);
+    state.stats.usersDiscovered += search.users.length;
+    state.stats.usersEnriched += enriched.length;
+    state.stats.usersKept = Object.values(caches).reduce((total, list) => total + list.length, 0);
+
+    const lastPage = Math.ceil(Math.min(search.total, SEARCH_RESULT_CAP) / SEARCH_PAGE_SIZE);
+    if (page < lastPage) {
+      state.queue.unshift({ ...task, page: page + 1 });
     } else {
       state.completed[key] = {
         completedAt: new Date().toISOString(),
-        total: firstPage.total,
-        kept: users.length
+        total: search.total,
+        kept: enriched.length
       };
     }
-    state.stats.queries += queries - queriesBeforeTask;
-    state.stats.usersSeen += users.length;
-    state.stats.usersKept = Object.values(caches).reduce((total, list) => total + list.length, 0);
 
     await persist(state, caches, dryRun);
-    if (shouldStopForBudget(lastRateLimit)) break;
-    await sleep(1500);
+    await sleep(SEARCH_DELAY_MS);
   }
 
   state.lastRunFinishedAt = new Date().toISOString();
   await persist(state, caches, dryRun);
-  return { state, queries, remainingTasks: state.queue.length };
+  return { state, queries: requests, remainingTasks: state.queue.length };
 }
 
 async function loadState(countries, now) {
   const state = await readJson(STATE_PATH, DEFAULT_STATE);
   const cutoff = previousDate(formatDate(monthsAgo(now, 3)));
-  const hasQueue = Array.isArray(state.queue) && state.queue.length > 0;
-  const hasCompleted = state.completed && Object.keys(state.completed).length > 0;
+  if (state.version === 2 && (state.queue?.length || Object.keys(state.completed ?? {}).length)) {
+    return { ...DEFAULT_STATE, ...state };
+  }
 
-  if (hasQueue || hasCompleted) return { ...DEFAULT_STATE, ...state };
-
-  const queue = buildInitialQueue(countries, cutoff);
-  return { ...DEFAULT_STATE, ...state, queue };
+  return { ...DEFAULT_STATE, queue: buildInitialQueue(countries, cutoff) };
 }
 
 function buildInitialQueue(countries, cutoff) {
   const terms = buildTerms(countries)
     .filter((term) => term.term.trim().length > 2)
     .sort((a, b) => {
-      if (a.kind !== b.kind) return a.kind === "city" ? -1 : 1;
+      if (a.kind !== b.kind) return a.kind === "country" ? -1 : 1;
       return a.country.localeCompare(b.country) || a.term.localeCompare(b.term);
     });
   return dateRanges(FIRST_GITHUB_USER_DATE, cutoff).flatMap((range) =>
@@ -130,7 +140,7 @@ function dateRanges(start, end) {
   while (current <= final) {
     const shardStart = formatDate(current);
     const shardEndDate = new Date(current.getTime());
-    shardEndDate.setUTCDate(shardEndDate.getUTCDate() + INITIAL_SHARD_DAYS - 1);
+    shardEndDate.setUTCDate(shardEndDate.getUTCDate() + DISCOVERY_SHARD_DAYS - 1);
     const shardEnd = formatDate(new Date(Math.min(shardEndDate.getTime(), final.getTime())));
     ranges.push({ createdStart: shardStart, createdEnd: shardEnd });
     current = new Date(`${shardEnd}T00:00:00Z`);
@@ -156,11 +166,11 @@ function mergeUsers(caches, countries, users) {
   }
 }
 
-async function requestWithBackoff(client, request, sleep) {
+async function requestWithBackoff(request, sleep) {
   let attempt = 0;
   for (;;) {
     try {
-      return await client.searchUsers(request);
+      return await request();
     } catch (error) {
       if (shouldSplitAfterFailure(error)) throw error;
       attempt += 1;
@@ -181,4 +191,16 @@ async function persist(state, caches, dryRun) {
   for (const [slug, users] of Object.entries(caches)) {
     await writeJson(`${CACHE_DIR}/${slug}.json`, users);
   }
+}
+
+function chunks(values, size) {
+  const result = [];
+  for (let index = 0; index < values.length; index += size) {
+    result.push(values.slice(index, index + size));
+  }
+  return result;
+}
+
+function unique(values) {
+  return [...new Set(values.filter(Boolean))];
 }

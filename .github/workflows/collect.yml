@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       max_queries:
-        description: "Maximum GitHub API queries for this run"
+        description: "Maximum GitHub API requests for this run"
         required: false
-        default: "120"
+        default: "900"
 
 permissions:
   contents: write
@@ -20,6 +20,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
         with:
@@ -27,14 +28,14 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - run: npm test
 
       - name: Collect users
         env:
           GITHUB_TOKEN: ${{ github.token }}
-          MAX_QUERIES: ${{ inputs.max_queries || '120' }}
+          MAX_QUERIES: ${{ inputs.max_queries || '900' }}
         run: npm run collect -- --max-queries "$MAX_QUERIES"
 
       - name: Commit generated data

@@ -1,73 +1,104 @@
 const GRAPHQL_URL = "https://api.github.com/graphql";
+const REST_SEARCH_URL = "https://api.github.com/search/users";
 const REQUEST_TIMEOUT_MS = 20000;
 
-const SEARCH_QUERY = `
-query SearchUsers($query: String!, $first: Int!, $after: String, $from: DateTime!, $to: DateTime!) {
-  search(type: USER, query: $query, first: $first, after: $after) {
-    userCount
-    pageInfo {
-      hasNextPage
-      endCursor
-    }
-    nodes {
-      __typename
-      ... on User {
-        login
-        name
-        avatarUrl(size: 72)
-        location
-        company
-        twitterUsername
-        createdAt
-        followers {
-          totalCount
-        }
-        contributionsCollection(from: $from, to: $to) {
-          contributionCalendar {
-            totalContributions
-          }
-          restrictedContributionsCount
-        }
-      }
-    }
+const USER_FIELDS = `
+  login
+  name
+  avatarUrl(size: 72)
+  location
+  company
+  twitterUsername
+  createdAt
+  followers {
+    totalCount
   }
-  rateLimit {
-    cost
-    limit
-    remaining
-    resetAt
-  }
-}`;
+  contributionsCollection(from: $from, to: $to) {
+    contributionCalendar {
+      totalContributions
+    }
+    restrictedContributionsCount
+  }`;
 
 export class GitHubClient {
-  constructor({ token, fetchImpl = globalThis.fetch, now = () => new Date() }) {
+  constructor({ token, fetchImpl = globalThis.fetch }) {
     if (!token) throw new Error("GITHUB_TOKEN is required unless --mock is used");
     this.token = token;
     this.fetchImpl = fetchImpl;
-    this.now = now;
   }
 
-  async searchUsers({ query, first = 100, after = null, contributionWindow }) {
+  async searchUsers({ query, page = 1, perPage = 100 }) {
+    const url = new URL(REST_SEARCH_URL);
+    url.searchParams.set("q", query);
+    url.searchParams.set("per_page", String(perPage));
+    url.searchParams.set("page", String(page));
+
+    const payload = await this.requestJson(url, {
+      method: "GET",
+      headers: {
+        authorization: `Bearer ${this.token}`,
+        accept: "application/vnd.github+json",
+        "x-github-api-version": "2022-11-28"
+      }
+    });
+
+    return {
+      total: payload.body.total_count ?? 0,
+      incomplete: Boolean(payload.body.incomplete_results),
+      users: (payload.body.items ?? []).map((user) => ({
+        login: user.login,
+        avatarUrl: user.avatar_url ?? "",
+        htmlUrl: user.html_url ?? ""
+      })),
+      rateLimit: payload.rateLimit
+    };
+  }
+
+  async enrichUsers({ logins, contributionWindow }) {
+    if (!logins.length) {
+      return { users: [], rateLimit: null };
+    }
+
+    const query = buildUsersQuery(logins);
+    const payload = await this.requestJson(GRAPHQL_URL, {
+      method: "POST",
+      headers: {
+        authorization: `Bearer ${this.token}`,
+        accept: "application/vnd.github+json",
+        "content-type": "application/json"
+      },
+      body: JSON.stringify({
+        query,
+        variables: {
+          from: contributionWindow.from,
+          to: contributionWindow.to
+        }
+      })
+    });
+
+    if (payload.body.errors?.length) {
+      const rateLimit = payload.body.data?.rateLimit;
+      const message = payload.body.errors.map((error) => error.message).join("; ");
+      throw Object.assign(new Error(message), {
+        resourceLimit: message.toLowerCase().includes("resource limits"),
+        rateLimit
+      });
+    }
+
+    return {
+      users: Object.entries(payload.body.data)
+        .filter(([key, value]) => key.startsWith("u") && value)
+        .map(([, user]) => mapUser(user)),
+      rateLimit: payload.body.data.rateLimit
+    };
+  }
+
+  async requestJson(url, options) {
     let response;
     try {
-      response = await this.fetchImpl(GRAPHQL_URL, {
-        method: "POST",
-        signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
-        headers: {
-          authorization: `Bearer ${this.token}`,
-          accept: "application/vnd.github+json",
-          "content-type": "application/json"
-        },
-        body: JSON.stringify({
-          query: SEARCH_QUERY,
-          variables: {
-            query,
-            first,
-            after,
-            from: contributionWindow.from,
-            to: contributionWindow.to
-          }
-        })
+      response = await this.fetchImpl(url, {
+        ...options,
+        signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS)
       });
     } catch (error) {
       if (error.name === "TimeoutError" || error.name === "AbortError") {
@@ -78,50 +109,56 @@ export class GitHubClient {
       throw error;
     }
 
+    const rateLimit = {
+      limit: numberHeader(response, "x-ratelimit-limit"),
+      remaining: numberHeader(response, "x-ratelimit-remaining"),
+      reset: numberHeader(response, "x-ratelimit-reset"),
+      retryAfter: numberHeader(response, "retry-after")
+    };
+
     if (!response.ok) {
-      const retryAfter = response.headers.get("retry-after");
-      const reset = response.headers.get("x-ratelimit-reset");
       throw Object.assign(new Error(`GitHub API request failed: ${response.status}`), {
         status: response.status,
-        retryAfter,
-        reset
-      });
-    }
-
-    const payload = await response.json();
-    if (payload.errors?.length) {
-      const rateLimit = payload.data?.rateLimit;
-      const message = payload.errors.map((error) => error.message).join("; ");
-      throw Object.assign(new Error(message), {
-        resourceLimit: message.toLowerCase().includes("resource limits"),
-        rateLimit
+        retryAfter: rateLimit.retryAfter,
+        reset: rateLimit.reset
       });
     }
 
     return {
-      total: payload.data.search.userCount,
-      users: payload.data.search.nodes.filter((node) => node?.__typename === "User").map(mapUser),
-      pageInfo: payload.data.search.pageInfo,
-      rateLimit: payload.data.rateLimit
+      body: await response.json(),
+      rateLimit
     };
   }
 }
 
 export class MockGitHubClient {
-  async searchUsers({ query, after = null }) {
-    const users = after
+  async searchUsers({ query, page = 1 }) {
+    const users = page > 1
       ? []
       : [
-          mockUser("octocat", "San Francisco, CA", 999, 120),
-          mockUser("nino", "Tbilisi, Georgia", 42, 330),
-          mockUser("sofia-dev", "Sofia, Bulgaria", 7, 41)
-        ].filter((user) => query.toLowerCase().includes(user.location.split(",")[0].toLowerCase().split(" ")[0]));
+          { login: "octocat" },
+          { login: "nino" },
+          { login: "sofia-dev" }
+        ].filter((user) => query.toLowerCase().includes(user.login.split("-")[0]) || query.includes("location:"));
 
     return {
       total: users.length,
+      incomplete: false,
       users,
-      pageInfo: { hasNextPage: false, endCursor: null },
-      rateLimit: { cost: 1, limit: 1000, remaining: 999, resetAt: new Date(Date.now() + 3600000).toISOString() }
+      rateLimit: { remaining: 999, reset: Math.floor(Date.now() / 1000) + 3600 }
+    };
+  }
+
+  async enrichUsers({ logins }) {
+    const users = logins.map((login) => {
+      if (login === "nino") return mockUser("nino", "Tbilisi, Georgia", 42, 330);
+      if (login === "sofia-dev") return mockUser("sofia-dev", "Sofia, Bulgaria", 7, 41);
+      return mockUser(login, "San Francisco, CA", 999, 120);
+    });
+
+    return {
+      users,
+      rateLimit: { remaining: 999, resetAt: new Date(Date.now() + 3600000).toISOString() }
     };
   }
 }
@@ -141,6 +178,28 @@ export function mapUser(user) {
     publicContributions: Math.max(0, totalContributions - restricted),
     createdAt: user.createdAt
   };
+}
+
+function buildUsersQuery(logins) {
+  const users = logins.map((login, index) => {
+    return `u${index}: user(login: ${JSON.stringify(login)}) {${USER_FIELDS}}`;
+  }).join("\n");
+
+  return `
+query EnrichUsers($from: DateTime!, $to: DateTime!) {
+${users}
+  rateLimit {
+    cost
+    limit
+    remaining
+    resetAt
+  }
+}`;
+}
+
+function numberHeader(response, name) {
+  const value = response.headers.get(name);
+  return value === null ? null : Number(value);
 }
 
 function mockUser(login, location, followers, publicContributions) {
