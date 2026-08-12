@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "login": "Erik-Mund",
+    "name": "Erik Mundriievksyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271922164?s=72&v=4",
+    "location": "Burgas, Bulgaria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 69,
+    "createdAt": "2026-03-29T08:24:12Z"
+  },
+  {
+    "login": "YanaNestorova",
+    "name": "Yana Nestorova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275296206?s=72&v=4",
+    "location": "Plovdiv, Bulgaria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 7,
+    "publicContributions": 1,
+    "createdAt": "2026-04-11T13:07:34Z"
+  },
+  {
+    "login": "ba1chev",
+    "name": "Yoan Baychev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282053563?s=72&u=0a40ada0eaf05e049fbf6083d6da416bffad1222&v=4",
+    "location": "Sofia, Bulgaria",
+    "company": "SAP",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 979,
+    "createdAt": "2026-05-05T20:19:41Z"
+  },
+  {
+    "login": "chocho-vladovski",
+    "name": "Chocho Vladovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275240841?s=72&v=4",
+    "location": "Sofia, Bulgaria",
+    "company": "LogiLab Ltd.",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-04-11T06:34:50Z"
+  },
+  {
+    "login": "rumbezi",
+    "name": "Rumen Simov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272746473?s=72&u=f3c01690d80b56dca5e276a5167ea5031bb50e15&v=4",
+    "location": "Sofia, Bulgaria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-04-01T07:39:20Z"
+  },
+  {
+    "login": "Missha96",
+    "name": "Mihaela Petrova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283653234?s=72&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2026-05-11T12:02:13Z"
+  },
+  {
+    "login": "tanyo-cell",
+    "name": "Tanyo Gochev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273980850?s=72&u=4c577db7a0f45a7b831dfc5a0be80e38ce95db93&v=4",
+    "location": "Sofia Bulgaria",
+    "company": "The Demand Department",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2026-04-06T10:42:09Z"
+  },
+  {
+    "login": "zlatimirpetrov",
+    "name": "Zlatimir Petrov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280474806?s=72&u=1c4423a8a4b6ae4415e6669abfe851bd5846b901&v=4",
+    "location": "Varna, Bulgaria",
+    "company": "Zyntrae",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 94,
+    "createdAt": "2026-04-29T17:13:05Z"
+  }
+]

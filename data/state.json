@@ -2,76 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "country": "brazil",
-      "term": "são paulo",
-      "kind": "city",
-      "createdStart": "2026-03-27",
-      "createdEnd": "2026-05-11"
-    },
-    {
-      "country": "bulgaria",
-      "term": "burgas",
-      "kind": "city",
-      "createdStart": "2026-03-27",
-      "createdEnd": "2026-05-11"
-    },
-    {
-      "country": "bulgaria",
-      "term": "plovdiv",
-      "kind": "city",
-      "createdStart": "2026-03-27",
-      "createdEnd": "2026-05-11"
-    },
-    {
-      "country": "bulgaria",
-      "term": "ruse",
-      "kind": "city",
-      "createdStart": "2026-03-27",
-      "createdEnd": "2026-05-11"
-    },
-    {
-      "country": "bulgaria",
-      "term": "sofia",
-      "kind": "city",
-      "createdStart": "2026-03-27",
-      "createdEnd": "2026-05-11"
-    },
-    {
-      "country": "bulgaria",
-      "term": "varna",
-      "kind": "city",
-      "createdStart": "2026-03-27",
-      "createdEnd": "2026-05-11"
-    },
-    {
-      "country": "canada",
-      "term": "calgary",
-      "kind": "city",
-      "createdStart": "2026-03-27",
-      "createdEnd": "2026-05-11"
-    },
-    {
-      "country": "canada",
-      "term": "edmonton",
-      "kind": "city",
-      "createdStart": "2026-03-27",
-      "createdEnd": "2026-05-11"
-    },
-    {
-      "country": "canada",
-      "term": "montreal",
-      "kind": "city",
-      "createdStart": "2026-03-27",
-      "createdEnd": "2026-05-11"
-    },
-    {
-      "country": "canada",
-      "term": "ottawa",
-      "kind": "city",
-      "createdStart": "2026-03-27",
-      "createdEnd": "2026-05-11"
-    },
-    {
       "country": "canada",
       "term": "toronto",
       "kind": "city",
@@ -106028,13 +105958,63 @@
       "completedAt": "2026-08-12T20:46:49.968Z",
       "total": 5,
       "kept": 5
+    },
+    "brazil|city|são paulo|2026-03-27|2026-05-11||": {
+      "completedAt": "2026-08-12T20:50:28.227Z",
+      "total": 227,
+      "kept": 227
+    },
+    "bulgaria|city|burgas|2026-03-27|2026-05-11||": {
+      "completedAt": "2026-08-12T20:50:30.154Z",
+      "total": 1,
+      "kept": 1
+    },
+    "bulgaria|city|plovdiv|2026-03-27|2026-05-11||": {
+      "completedAt": "2026-08-12T20:50:32.123Z",
+      "total": 1,
+      "kept": 1
+    },
+    "bulgaria|city|ruse|2026-03-27|2026-05-11||": {
+      "completedAt": "2026-08-12T20:50:33.926Z",
+      "total": 0,
+      "kept": 0
+    },
+    "bulgaria|city|sofia|2026-03-27|2026-05-11||": {
+      "completedAt": "2026-08-12T20:50:36.242Z",
+      "total": 5,
+      "kept": 5
+    },
+    "bulgaria|city|varna|2026-03-27|2026-05-11||": {
+      "completedAt": "2026-08-12T20:50:38.144Z",
+      "total": 1,
+      "kept": 1
+    },
+    "canada|city|calgary|2026-03-27|2026-05-11||": {
+      "completedAt": "2026-08-12T20:50:40.869Z",
+      "total": 11,
+      "kept": 11
+    },
+    "canada|city|edmonton|2026-03-27|2026-05-11||": {
+      "completedAt": "2026-08-12T20:50:42.908Z",
+      "total": 3,
+      "kept": 3
+    },
+    "canada|city|montreal|2026-03-27|2026-05-11||": {
+      "completedAt": "2026-08-12T20:50:46.164Z",
+      "total": 13,
+      "kept": 13
+    },
+    "canada|city|ottawa|2026-03-27|2026-05-11||": {
+      "completedAt": "2026-08-12T20:50:49.145Z",
+      "total": 16,
+      "kept": 16
     }
   },
-  "lastRunStartedAt": "2026-08-12T20:45:42.300Z",
-  "lastRunFinishedAt": "2026-08-12T20:46:51.491Z",
+  "lastRunStartedAt": "2026-08-12T20:48:52.803Z",
+  "lastRunFinishedAt": "2026-08-12T20:50:56.056Z",
   "stats": {
-    "queries": 20,
-    "usersSeen": 324,
-    "usersKept": 324
+    "queries": 40,
+    "usersSeen": 627,
+    "usersKept": 627
   }
 }
