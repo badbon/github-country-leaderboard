@@ -54,7 +54,7 @@
     "location": "Brisbane, Australia",
     "company": "@EcoKure PtyLtd",
     "twitterUsername": "",
-    "followers": 2252,
+    "followers": 2253,
     "privateContributions": 18,
     "publicContributions": 126,
     "createdAt": "2026-04-19T19:42:04Z"
@@ -3598,5 +3598,17 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2026-01-21T13:01:36Z"
+  },
+  {
+    "login": "kevinluaus",
+    "name": "Kevin Lu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276122340?s=72&u=8c8417862615b055e5894e20789888fc2fc67ee2&v=4",
+    "location": "Melbourne, Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-04-14T21:53:31Z"
   }
 ]

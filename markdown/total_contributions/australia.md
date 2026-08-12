@@ -1,8 +1,8 @@
 # Total Contributions - Australia
 
-Generated: 2026-08-12T23:00:20.029Z
+Generated: 2026-08-12T23:37:02.259Z
 
-Users: 300
+Users: 301
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -187,122 +187,123 @@ Users: 300
 | 179 | [martin-lark](https://github.com/martin-lark) | Martin Lark | Lark Digital Studio |  | Brisbane, Australia | 8 |
 | 180 | [UnethicalOperator](https://github.com/UnethicalOperator) | PlsDntChase | River Run Cartel |  | Australia | 8 |
 | 181 | [BingeerrBongeerr](https://github.com/BingeerrBongeerr) | BingBong |  |  | Australia | 7 |
-| 182 | [NikhilJohnKenneth-Tech](https://github.com/NikhilJohnKenneth-Tech) | Nikhil John Kenneth |  |  | Melbourne, Australia | 7 |
-| 183 | [sukanya-devo](https://github.com/sukanya-devo) | Sukanya Gogulamudi |  |  | Sydney, Australia | 7 |
-| 184 | [tabithabyron](https://github.com/tabithabyron) | Tabitha |  |  | Australia | 7 |
-| 185 | [xiaolyn2026](https://github.com/xiaolyn2026) | 小淋 (Xiaolyn) |  | xiaolyn_ai | Brisbane, Australia (inside a Pi) | 7 |
-| 186 | [apateuDefender](https://github.com/apateuDefender) | jonathan.exe |  |  | Western Australia | 6 |
-| 187 | [Armydun1](https://github.com/Armydun1) | SANGHUN SHIN | Swinburne University |  | Melbourne, Australia | 6 |
-| 188 | [binh-lgtm](https://github.com/binh-lgtm) | Binh Nguyen | Space Machines Company |  | Sydney | 6 |
-| 189 | [MingiKim-dev](https://github.com/MingiKim-dev) | Mingi Kim |  |  | Brisbane, QLD, Australia | 6 |
-| 190 | [myjikimi](https://github.com/myjikimi) | jikimi | Jikimi |  | Australia | 6 |
-| 191 | [sigwaam](https://github.com/sigwaam) | walker mcdonnel |  |  | Australia | 6 |
-| 192 | [advateklabs3](https://github.com/advateklabs3) | AdvatekLabs | Advatek Lighting |  | Melbourne | 5 |
-| 193 | [genesisprime01](https://github.com/genesisprime01) | Hasan Quaium Mitul | Nexis365 |  | Sydney, Australia | 5 |
-| 194 | [JerryChen9105](https://github.com/JerryChen9105) | JerryChen |  |  | Australia Melbourne | 5 |
-| 195 | [RichSequeira](https://github.com/RichSequeira) | Richard |  |  | Melbourne, Australia | 5 |
-| 196 | [sboyard-lgtm](https://github.com/sboyard-lgtm) | Sam |  |  | Perth | 5 |
-| 197 | [centerlynx](https://github.com/centerlynx) | centerlynx |  |  | Australia | 4 |
-| 198 | [Dangardner007](https://github.com/Dangardner007) | Dan Gardner  | QUT |  | Brisbane | 4 |
-| 199 | [evareenetech](https://github.com/evareenetech) | Evareene Tech |  |  | Australia | 4 |
-| 200 | [joelspear](https://github.com/joelspear) | joelspear | Fuel My Social |  | Adelaide, South Australia | 4 |
-| 201 | [oddy-coder](https://github.com/oddy-coder) | Oddy Putra | Freelance |  | Melbourne | 4 |
-| 202 | [zabre19](https://github.com/zabre19) | Jamie Wilson | Independent Developer |  | Melbourne, Australia | 4 |
-| 203 | [helikona1](https://github.com/helikona1) | Derek Laney | Helikona |  | Australia | 3 |
-| 204 | [pnari34](https://github.com/pnari34) |  Lyra |  |  | Perth | 3 |
-| 205 | [pravidhipvtltd](https://github.com/pravidhipvtltd) | Pravidhi Pvt Ltd |  |  | Australia | 3 |
-| 206 | [ric-bell](https://github.com/ric-bell) | Ric Bell | ShieldStage |  | Australia | 3 |
-| 207 | [Rodrigo-BN](https://github.com/Rodrigo-BN) | 077d |  |  | Sydney, Australia | 3 |
-| 208 | [UI-Kita](https://github.com/UI-Kita) | Kita | VoidSoul Studio |  | Australia | 3 |
-| 209 | [YarrowMeng](https://github.com/YarrowMeng) | Yarrow Meng |  |  | Brisbane, Australia | 3 |
-| 210 | [AadilSyedDXC](https://github.com/AadilSyedDXC) | Aadil Syed | @dxc-technology |  | Macquarie Park, NSW, Australia | 2 |
-| 211 | [adrleb](https://github.com/adrleb) | Adrian Lebmeier | Technical University of Applied Sciences Augsburg |  | Sydney, NSW, Australia | 2 |
-| 212 | [cranngarth](https://github.com/cranngarth) | Kevin O'Gorman |  |  | Wollongong NSW Australia | 2 |
-| 213 | [ErnestGildaly](https://github.com/ErnestGildaly) | Ernest Gildaly |  |  | Sydney, Australia | 2 |
-| 214 | [jarrod-ward](https://github.com/jarrod-ward) | Jarrod Ward | Briefly Daily AI |  | Brisbane, Australia | 2 |
-| 215 | [kindredsoftworks](https://github.com/kindredsoftworks) | Kindred Softworks |  |  | Melbourne, Australia | 2 |
-| 216 | [mariambafit](https://github.com/mariambafit) | Mariam Bafit |  |  | Melbourne, Australia | 2 |
-| 217 | [ParlibSA](https://github.com/ParlibSA) | South Australian Parliament Research Library |  |  | South Australia, Australia | 2 |
-| 218 | [RealSivor](https://github.com/RealSivor) | Seth Maddern |  |  | Australia | 2 |
-| 219 | [ryanwconlan](https://github.com/ryanwconlan) | Ryan Conlan | Fluxium AI | ryanwconlan | Sydney, Australia | 2 |
-| 220 | [Scadows](https://github.com/Scadows) | Oscar Babeck | New Energy Transport |  | Sydney, Australia | 2 |
-| 221 | [z5725828](https://github.com/z5725828) | Tan Panichuttra |  |  | Sydney, Australia | 2 |
-| 222 | [abhijeetanand-codezenithau](https://github.com/abhijeetanand-codezenithau) | Abhijeet Anand | Code Zenith |  | Sydney | 1 |
-| 223 | [acestrategies-au](https://github.com/acestrategies-au) | Matt Neagle | Ace Strategies™ |  | Adelaide, South Australia | 1 |
-| 224 | [addinexpert](https://github.com/addinexpert) | Addin Expert |  | AddinExpert | Australia & Pakistan | 1 |
-| 225 | [admirec-code](https://github.com/admirec-code) | Adi | @domboresources |  | Queensland, Australia | 1 |
-| 226 | [adrianpopescu-8x8](https://github.com/adrianpopescu-8x8) | Adrian Popescu | 8x8 |  | Sydney, Australia | 1 |
-| 227 | [agileconsultingengineers](https://github.com/agileconsultingengineers) | Agile Consulting Engineers | Agile Consulting Engineers |  | 34 McLachlan St, Darwin City NT 0800, Australia | 1 |
-| 228 | [akahungryy](https://github.com/akahungryy) | Paul Robson | Open Scripture |  | Newcastle, Australia | 1 |
-| 229 | [aKrabvirus](https://github.com/aKrabvirus) | aKrabvirus |  |  | Australia | 1 |
-| 230 | [alyssawky](https://github.com/alyssawky) | Keyu Wang | University of New South Wales |  | Sydney,NSW,Australia | 1 |
-| 231 | [AMG-3D](https://github.com/AMG-3D) |  |  |  | Australia | 1 |
-| 232 | [bakedlami](https://github.com/bakedlami) |  |  |  | Sydney, Australia | 1 |
-| 233 | [BLINKauthority](https://github.com/BLINKauthority) | BLINK | BLINK authority |  | Australia | 1 |
-| 234 | [bluwingslab](https://github.com/bluwingslab) | Bluwing | Bluwing Labs | BluBossman | Australia | 1 |
-| 235 | [borlandarchitectureaus](https://github.com/borlandarchitectureaus) | Borland Architecture |  |  | 214 Bay St, Brighton, VIC, 3186, Australia | 1 |
-| 236 | [brigilewis](https://github.com/brigilewis) |  |  |  | Melbourne, Australia | 1 |
-| 237 | [brunocechella](https://github.com/brunocechella) | Bruno Cechella | Fujitsu |  | Brisbane, Australia | 1 |
-| 238 | [catalinakitchen](https://github.com/catalinakitchen) | Catalina Kitchen |  |  | australia | 1 |
-| 239 | [cubix-IT](https://github.com/cubix-IT) | Cubix IT Solutions | Cubix IT Solutions |  | Melbourne, Victoria | 1 |
-| 240 | [CupcakeCentralBakery](https://github.com/CupcakeCentralBakery) | CUPCAKE CENTRAL - OFFICIAL | CUPCAKE CENTRAL BAKERY |  | CC Headquarters - Melbourne | 1 |
-| 241 | [danielmellish-mobilise](https://github.com/danielmellish-mobilise) | Danie Mellish | We Are Mobilise |  | Melbourne, Australia | 1 |
-| 242 | [DarrenMotec](https://github.com/DarrenMotec) | Darren Reynolds | Motec |  | Australia | 1 |
-| 243 | [Debszabo](https://github.com/Debszabo) | Deb Szabo |  |  | Newcastle Australia | 1 |
-| 244 | [dekopon-chan](https://github.com/dekopon-chan) | Jack B |  |  | Australia | 1 |
-| 245 | [doruk-seek](https://github.com/doruk-seek) | Doruk Demircioglu | SEEK |  | Sydney, Australia | 1 |
-| 246 | [finlotechnologies](https://github.com/finlotechnologies) | Finlo Technologies | Finlo Technologies |  | Sydney | 1 |
-| 247 | [flightshubau](https://github.com/flightshubau) | The Flightshub AU | The Flightshub AU | TheFlightshubAu | * 3 Bullion Avenue, Wollert, Victoria 3750, Australia  | 1 |
-| 248 | [flippingisfun](https://github.com/flippingisfun) | Waffles |  |  | Australia | 1 |
-| 249 | [Forward4x](https://github.com/Forward4x) | Forward |  |  | Australia | 1 |
-| 250 | [genericmedsau-hub](https://github.com/genericmedsau-hub) | Generic Meds | genericmedsaustralia | genericmedsaus | australia | 1 |
-| 251 | [Global-Peptide-Sciences](https://github.com/Global-Peptide-Sciences) | Global Peptide Sciences |  |  | Australia | 1 |
-| 252 | [GoldenGuysPainting](https://github.com/GoldenGuysPainting) | Golden Guys Painting  | Golden Guys Painting  |  | Melbourne | 1 |
-| 253 | [graceleo2026](https://github.com/graceleo2026) | Grace Leo | WiseTech Global |  | Sydney, Australia | 1 |
-| 254 | [housemeqld-byte](https://github.com/housemeqld-byte) | Paul Cregene Lucock  | A2Z-IT |  | Gold Coast Queensland Australia  | 1 |
-| 255 | [igsirbu](https://github.com/igsirbu) |  |  |  | Australia, Wollongong | 1 |
-| 256 | [Isaac-of-the-Wild](https://github.com/Isaac-of-the-Wild) | Isaac |  |  | South Australia | 1 |
-| 257 | [Itsalluptoyou](https://github.com/Itsalluptoyou) | SillySin | Undertale artist/AU creator | ICantWakeUp123 | Australia | 1 |
-| 258 | [itspasanfernando](https://github.com/itspasanfernando) | Pasan Fernando |  |  | Melbourne, Australia | 1 |
-| 259 | [JustAdequateJDavies](https://github.com/JustAdequateJDavies) |  | dumb car shop |  | Australia | 1 |
-| 260 | [KestralEllen](https://github.com/KestralEllen) | Ellen Dowling | Kestral Computing |  | Melbourne, Australia | 1 |
-| 261 | [kindclothco](https://github.com/kindclothco) | KindClothCo  |  |  | Australia | 1 |
-| 262 | [lorenawebster651-web](https://github.com/lorenawebster651-web) | Lorena Emily Webster |  |  | Adelaide South Australia  | 1 |
-| 263 | [lucyking1](https://github.com/lucyking1) | Lucy King |  |  | Perth | 1 |
-| 264 | [Lukisquez](https://github.com/Lukisquez) | Lukisquez |  |  | Australia | 1 |
-| 265 | [lzorbas](https://github.com/lzorbas) | Luke Zorbas |  |  | Australia | 1 |
-| 266 | [markbutlarr-ops](https://github.com/markbutlarr-ops) | Mark Butlar |  |  | australia | 1 |
-| 267 | [Miles-Gammon](https://github.com/Miles-Gammon) | Gammon Creations |  |  | Australia | 1 |
-| 268 | [MistSylph](https://github.com/MistSylph) | MistSylph |  |  | Melbourne, Australia | 1 |
-| 269 | [modularsolutions-au](https://github.com/modularsolutions-au) | Modular Solutions | Modular Business Solutions |  | Perth, Australia | 1 |
-| 270 | [mstasma34444433-coder](https://github.com/mstasma34444433-coder) | Aus Auto Store | Aus Auto Store |  | Australia | 1 |
-| 271 | [mxdmxx1](https://github.com/mxdmxx1) | Innobino7 |  |  | Australia | 1 |
-| 272 | [naughtybutniceau](https://github.com/naughtybutniceau) | Naughty But Nice | Naughty But Nice |  | Australia  | 1 |
-| 273 | [nick-podopryhora](https://github.com/nick-podopryhora) | Nick Podopryhora | Canva |  | Sydney | 1 |
-| 274 | [onestopgadgets](https://github.com/onestopgadgets) | OneStopGadgets  |  |  | Australia  | 1 |
-| 275 | [Oystershuckermelbourne](https://github.com/Oystershuckermelbourne) | Oyster Shucker Melbourne |  | Shucker3000 | 124 Exhibition St Melbourne, VIC 3000 | 1 |
-| 276 | [papaquake](https://github.com/papaquake) | Frank Papa | Spacelink Consulting (Australia) |  | Melbourne Australia | 1 |
-| 277 | [prabathrupasinghe80](https://github.com/prabathrupasinghe80) | Prabath Lakmal Rupasinghe | Curtin University |  | Perth Australia | 1 |
-| 278 | [qibao-q](https://github.com/qibao-q) | Yanqi Liu | University of Melbourne |  | 800 Swanston Street Melbourne VIC 3053 | 1 |
-| 279 | [reporyan](https://github.com/reporyan) | Ryan Weber |  |  | Australia | 1 |
-| 280 | [Rhennie91](https://github.com/Rhennie91) | Ruiya Zheng | University of Melbourne |  | The University of Melbourne, Grattan Street, Parkville, VIC 3010, Australia | 1 |
-| 281 | [s4226718](https://github.com/s4226718) | Tristan | RMIT |  | Australia | 1 |
-| 282 | [s4244222](https://github.com/s4244222) | Isaac Dadulo | RMIT |  | Australia | 1 |
-| 283 | [Sammy59722](https://github.com/Sammy59722) | Sammy  | TessellationLabs |  | Australia | 1 |
-| 284 | [shoppingempirekids](https://github.com/shoppingempirekids) | Shopping Empire Kids | Shopping Empire Kids |  | 640 Archer Rd, Kialla East, VIC, Australia, Victoria | 1 |
-| 285 | [SlimTimJimbo](https://github.com/SlimTimJimbo) | Timothy Powell |  |  | Brisbane | 1 |
-| 286 | [SorenAgent](https://github.com/SorenAgent) | Soren |  |  | Brisbane, Australia | 1 |
-| 287 | [stuuuaaa](https://github.com/stuuuaaa) |  |  |  | Brisbane, Queensland | 1 |
-| 288 | [thacscroydon](https://github.com/thacscroydon) | Tailored Heating & Cooling Solutions |  |  | 7/54 Merrindale Dr, Croydon South VIC 3136, Australia | 1 |
-| 289 | [thepeptideco](https://github.com/thepeptideco) | The Peptide Co | The Peptide Co |  | Australia | 1 |
-| 290 | [tobynancs-creator](https://github.com/tobynancs-creator) | Toby J. Nancarrow | ARCHIMEDES CORPORATION PTY. LIMITED  |  | Australia | 1 |
-| 291 | [tonyngy](https://github.com/tonyngy) | tony nguyen | @Clearstack26 |  | brisbane, australia | 1 |
-| 292 | [TungTungTungSarah](https://github.com/TungTungTungSarah) | Sarah Howson | SA Health |  | Adelaide | 1 |
-| 293 | [ven615-01](https://github.com/ven615-01) | VenaticSix15 |  |  | Australia | 1 |
-| 294 | [vikybomi-builder](https://github.com/vikybomi-builder) | VikyBuilder | Vikybomi Aus |  | Australia | 1 |
-| 295 | [waxonwrapout](https://github.com/waxonwrapout) | Reliable Paint Protection Adelaide – Trust Wax On Wrap Out for Long-Lasting Vehicle Shine | waxonwrapout |  | 29 Circuit Dr, Hendon SA 5014, Australia | 1 |
-| 296 | [yeison-vargas](https://github.com/yeison-vargas) | Yeison Vargas |  |  | Melbourne, Australia | 1 |
-| 297 | [yubikhadka](https://github.com/yubikhadka) | Yubi Khadka | Future Secure AI |  | Melbourne | 1 |
-| 298 | [ZAEHER](https://github.com/ZAEHER) | Vikas Tewatia |  |  | Australia | 1 |
-| 299 | [zerotoai-dev](https://github.com/zerotoai-dev) | ZeroToAI |  |  | Australia | 1 |
-| 300 | [ZoeSterling](https://github.com/ZoeSterling) | Zoe Sterling | Sotohire | zoessterling | Sydney, Australia | 1 |
+| 182 | [kevinluaus](https://github.com/kevinluaus) | Kevin Lu |  |  | Melbourne, Australia | 7 |
+| 183 | [NikhilJohnKenneth-Tech](https://github.com/NikhilJohnKenneth-Tech) | Nikhil John Kenneth |  |  | Melbourne, Australia | 7 |
+| 184 | [sukanya-devo](https://github.com/sukanya-devo) | Sukanya Gogulamudi |  |  | Sydney, Australia | 7 |
+| 185 | [tabithabyron](https://github.com/tabithabyron) | Tabitha |  |  | Australia | 7 |
+| 186 | [xiaolyn2026](https://github.com/xiaolyn2026) | 小淋 (Xiaolyn) |  | xiaolyn_ai | Brisbane, Australia (inside a Pi) | 7 |
+| 187 | [apateuDefender](https://github.com/apateuDefender) | jonathan.exe |  |  | Western Australia | 6 |
+| 188 | [Armydun1](https://github.com/Armydun1) | SANGHUN SHIN | Swinburne University |  | Melbourne, Australia | 6 |
+| 189 | [binh-lgtm](https://github.com/binh-lgtm) | Binh Nguyen | Space Machines Company |  | Sydney | 6 |
+| 190 | [MingiKim-dev](https://github.com/MingiKim-dev) | Mingi Kim |  |  | Brisbane, QLD, Australia | 6 |
+| 191 | [myjikimi](https://github.com/myjikimi) | jikimi | Jikimi |  | Australia | 6 |
+| 192 | [sigwaam](https://github.com/sigwaam) | walker mcdonnel |  |  | Australia | 6 |
+| 193 | [advateklabs3](https://github.com/advateklabs3) | AdvatekLabs | Advatek Lighting |  | Melbourne | 5 |
+| 194 | [genesisprime01](https://github.com/genesisprime01) | Hasan Quaium Mitul | Nexis365 |  | Sydney, Australia | 5 |
+| 195 | [JerryChen9105](https://github.com/JerryChen9105) | JerryChen |  |  | Australia Melbourne | 5 |
+| 196 | [RichSequeira](https://github.com/RichSequeira) | Richard |  |  | Melbourne, Australia | 5 |
+| 197 | [sboyard-lgtm](https://github.com/sboyard-lgtm) | Sam |  |  | Perth | 5 |
+| 198 | [centerlynx](https://github.com/centerlynx) | centerlynx |  |  | Australia | 4 |
+| 199 | [Dangardner007](https://github.com/Dangardner007) | Dan Gardner  | QUT |  | Brisbane | 4 |
+| 200 | [evareenetech](https://github.com/evareenetech) | Evareene Tech |  |  | Australia | 4 |
+| 201 | [joelspear](https://github.com/joelspear) | joelspear | Fuel My Social |  | Adelaide, South Australia | 4 |
+| 202 | [oddy-coder](https://github.com/oddy-coder) | Oddy Putra | Freelance |  | Melbourne | 4 |
+| 203 | [zabre19](https://github.com/zabre19) | Jamie Wilson | Independent Developer |  | Melbourne, Australia | 4 |
+| 204 | [helikona1](https://github.com/helikona1) | Derek Laney | Helikona |  | Australia | 3 |
+| 205 | [pnari34](https://github.com/pnari34) |  Lyra |  |  | Perth | 3 |
+| 206 | [pravidhipvtltd](https://github.com/pravidhipvtltd) | Pravidhi Pvt Ltd |  |  | Australia | 3 |
+| 207 | [ric-bell](https://github.com/ric-bell) | Ric Bell | ShieldStage |  | Australia | 3 |
+| 208 | [Rodrigo-BN](https://github.com/Rodrigo-BN) | 077d |  |  | Sydney, Australia | 3 |
+| 209 | [UI-Kita](https://github.com/UI-Kita) | Kita | VoidSoul Studio |  | Australia | 3 |
+| 210 | [YarrowMeng](https://github.com/YarrowMeng) | Yarrow Meng |  |  | Brisbane, Australia | 3 |
+| 211 | [AadilSyedDXC](https://github.com/AadilSyedDXC) | Aadil Syed | @dxc-technology |  | Macquarie Park, NSW, Australia | 2 |
+| 212 | [adrleb](https://github.com/adrleb) | Adrian Lebmeier | Technical University of Applied Sciences Augsburg |  | Sydney, NSW, Australia | 2 |
+| 213 | [cranngarth](https://github.com/cranngarth) | Kevin O'Gorman |  |  | Wollongong NSW Australia | 2 |
+| 214 | [ErnestGildaly](https://github.com/ErnestGildaly) | Ernest Gildaly |  |  | Sydney, Australia | 2 |
+| 215 | [jarrod-ward](https://github.com/jarrod-ward) | Jarrod Ward | Briefly Daily AI |  | Brisbane, Australia | 2 |
+| 216 | [kindredsoftworks](https://github.com/kindredsoftworks) | Kindred Softworks |  |  | Melbourne, Australia | 2 |
+| 217 | [mariambafit](https://github.com/mariambafit) | Mariam Bafit |  |  | Melbourne, Australia | 2 |
+| 218 | [ParlibSA](https://github.com/ParlibSA) | South Australian Parliament Research Library |  |  | South Australia, Australia | 2 |
+| 219 | [RealSivor](https://github.com/RealSivor) | Seth Maddern |  |  | Australia | 2 |
+| 220 | [ryanwconlan](https://github.com/ryanwconlan) | Ryan Conlan | Fluxium AI | ryanwconlan | Sydney, Australia | 2 |
+| 221 | [Scadows](https://github.com/Scadows) | Oscar Babeck | New Energy Transport |  | Sydney, Australia | 2 |
+| 222 | [z5725828](https://github.com/z5725828) | Tan Panichuttra |  |  | Sydney, Australia | 2 |
+| 223 | [abhijeetanand-codezenithau](https://github.com/abhijeetanand-codezenithau) | Abhijeet Anand | Code Zenith |  | Sydney | 1 |
+| 224 | [acestrategies-au](https://github.com/acestrategies-au) | Matt Neagle | Ace Strategies™ |  | Adelaide, South Australia | 1 |
+| 225 | [addinexpert](https://github.com/addinexpert) | Addin Expert |  | AddinExpert | Australia & Pakistan | 1 |
+| 226 | [admirec-code](https://github.com/admirec-code) | Adi | @domboresources |  | Queensland, Australia | 1 |
+| 227 | [adrianpopescu-8x8](https://github.com/adrianpopescu-8x8) | Adrian Popescu | 8x8 |  | Sydney, Australia | 1 |
+| 228 | [agileconsultingengineers](https://github.com/agileconsultingengineers) | Agile Consulting Engineers | Agile Consulting Engineers |  | 34 McLachlan St, Darwin City NT 0800, Australia | 1 |
+| 229 | [akahungryy](https://github.com/akahungryy) | Paul Robson | Open Scripture |  | Newcastle, Australia | 1 |
+| 230 | [aKrabvirus](https://github.com/aKrabvirus) | aKrabvirus |  |  | Australia | 1 |
+| 231 | [alyssawky](https://github.com/alyssawky) | Keyu Wang | University of New South Wales |  | Sydney,NSW,Australia | 1 |
+| 232 | [AMG-3D](https://github.com/AMG-3D) |  |  |  | Australia | 1 |
+| 233 | [bakedlami](https://github.com/bakedlami) |  |  |  | Sydney, Australia | 1 |
+| 234 | [BLINKauthority](https://github.com/BLINKauthority) | BLINK | BLINK authority |  | Australia | 1 |
+| 235 | [bluwingslab](https://github.com/bluwingslab) | Bluwing | Bluwing Labs | BluBossman | Australia | 1 |
+| 236 | [borlandarchitectureaus](https://github.com/borlandarchitectureaus) | Borland Architecture |  |  | 214 Bay St, Brighton, VIC, 3186, Australia | 1 |
+| 237 | [brigilewis](https://github.com/brigilewis) |  |  |  | Melbourne, Australia | 1 |
+| 238 | [brunocechella](https://github.com/brunocechella) | Bruno Cechella | Fujitsu |  | Brisbane, Australia | 1 |
+| 239 | [catalinakitchen](https://github.com/catalinakitchen) | Catalina Kitchen |  |  | australia | 1 |
+| 240 | [cubix-IT](https://github.com/cubix-IT) | Cubix IT Solutions | Cubix IT Solutions |  | Melbourne, Victoria | 1 |
+| 241 | [CupcakeCentralBakery](https://github.com/CupcakeCentralBakery) | CUPCAKE CENTRAL - OFFICIAL | CUPCAKE CENTRAL BAKERY |  | CC Headquarters - Melbourne | 1 |
+| 242 | [danielmellish-mobilise](https://github.com/danielmellish-mobilise) | Danie Mellish | We Are Mobilise |  | Melbourne, Australia | 1 |
+| 243 | [DarrenMotec](https://github.com/DarrenMotec) | Darren Reynolds | Motec |  | Australia | 1 |
+| 244 | [Debszabo](https://github.com/Debszabo) | Deb Szabo |  |  | Newcastle Australia | 1 |
+| 245 | [dekopon-chan](https://github.com/dekopon-chan) | Jack B |  |  | Australia | 1 |
+| 246 | [doruk-seek](https://github.com/doruk-seek) | Doruk Demircioglu | SEEK |  | Sydney, Australia | 1 |
+| 247 | [finlotechnologies](https://github.com/finlotechnologies) | Finlo Technologies | Finlo Technologies |  | Sydney | 1 |
+| 248 | [flightshubau](https://github.com/flightshubau) | The Flightshub AU | The Flightshub AU | TheFlightshubAu | * 3 Bullion Avenue, Wollert, Victoria 3750, Australia  | 1 |
+| 249 | [flippingisfun](https://github.com/flippingisfun) | Waffles |  |  | Australia | 1 |
+| 250 | [Forward4x](https://github.com/Forward4x) | Forward |  |  | Australia | 1 |
+| 251 | [genericmedsau-hub](https://github.com/genericmedsau-hub) | Generic Meds | genericmedsaustralia | genericmedsaus | australia | 1 |
+| 252 | [Global-Peptide-Sciences](https://github.com/Global-Peptide-Sciences) | Global Peptide Sciences |  |  | Australia | 1 |
+| 253 | [GoldenGuysPainting](https://github.com/GoldenGuysPainting) | Golden Guys Painting  | Golden Guys Painting  |  | Melbourne | 1 |
+| 254 | [graceleo2026](https://github.com/graceleo2026) | Grace Leo | WiseTech Global |  | Sydney, Australia | 1 |
+| 255 | [housemeqld-byte](https://github.com/housemeqld-byte) | Paul Cregene Lucock  | A2Z-IT |  | Gold Coast Queensland Australia  | 1 |
+| 256 | [igsirbu](https://github.com/igsirbu) |  |  |  | Australia, Wollongong | 1 |
+| 257 | [Isaac-of-the-Wild](https://github.com/Isaac-of-the-Wild) | Isaac |  |  | South Australia | 1 |
+| 258 | [Itsalluptoyou](https://github.com/Itsalluptoyou) | SillySin | Undertale artist/AU creator | ICantWakeUp123 | Australia | 1 |
+| 259 | [itspasanfernando](https://github.com/itspasanfernando) | Pasan Fernando |  |  | Melbourne, Australia | 1 |
+| 260 | [JustAdequateJDavies](https://github.com/JustAdequateJDavies) |  | dumb car shop |  | Australia | 1 |
+| 261 | [KestralEllen](https://github.com/KestralEllen) | Ellen Dowling | Kestral Computing |  | Melbourne, Australia | 1 |
+| 262 | [kindclothco](https://github.com/kindclothco) | KindClothCo  |  |  | Australia | 1 |
+| 263 | [lorenawebster651-web](https://github.com/lorenawebster651-web) | Lorena Emily Webster |  |  | Adelaide South Australia  | 1 |
+| 264 | [lucyking1](https://github.com/lucyking1) | Lucy King |  |  | Perth | 1 |
+| 265 | [Lukisquez](https://github.com/Lukisquez) | Lukisquez |  |  | Australia | 1 |
+| 266 | [lzorbas](https://github.com/lzorbas) | Luke Zorbas |  |  | Australia | 1 |
+| 267 | [markbutlarr-ops](https://github.com/markbutlarr-ops) | Mark Butlar |  |  | australia | 1 |
+| 268 | [Miles-Gammon](https://github.com/Miles-Gammon) | Gammon Creations |  |  | Australia | 1 |
+| 269 | [MistSylph](https://github.com/MistSylph) | MistSylph |  |  | Melbourne, Australia | 1 |
+| 270 | [modularsolutions-au](https://github.com/modularsolutions-au) | Modular Solutions | Modular Business Solutions |  | Perth, Australia | 1 |
+| 271 | [mstasma34444433-coder](https://github.com/mstasma34444433-coder) | Aus Auto Store | Aus Auto Store |  | Australia | 1 |
+| 272 | [mxdmxx1](https://github.com/mxdmxx1) | Innobino7 |  |  | Australia | 1 |
+| 273 | [naughtybutniceau](https://github.com/naughtybutniceau) | Naughty But Nice | Naughty But Nice |  | Australia  | 1 |
+| 274 | [nick-podopryhora](https://github.com/nick-podopryhora) | Nick Podopryhora | Canva |  | Sydney | 1 |
+| 275 | [onestopgadgets](https://github.com/onestopgadgets) | OneStopGadgets  |  |  | Australia  | 1 |
+| 276 | [Oystershuckermelbourne](https://github.com/Oystershuckermelbourne) | Oyster Shucker Melbourne |  | Shucker3000 | 124 Exhibition St Melbourne, VIC 3000 | 1 |
+| 277 | [papaquake](https://github.com/papaquake) | Frank Papa | Spacelink Consulting (Australia) |  | Melbourne Australia | 1 |
+| 278 | [prabathrupasinghe80](https://github.com/prabathrupasinghe80) | Prabath Lakmal Rupasinghe | Curtin University |  | Perth Australia | 1 |
+| 279 | [qibao-q](https://github.com/qibao-q) | Yanqi Liu | University of Melbourne |  | 800 Swanston Street Melbourne VIC 3053 | 1 |
+| 280 | [reporyan](https://github.com/reporyan) | Ryan Weber |  |  | Australia | 1 |
+| 281 | [Rhennie91](https://github.com/Rhennie91) | Ruiya Zheng | University of Melbourne |  | The University of Melbourne, Grattan Street, Parkville, VIC 3010, Australia | 1 |
+| 282 | [s4226718](https://github.com/s4226718) | Tristan | RMIT |  | Australia | 1 |
+| 283 | [s4244222](https://github.com/s4244222) | Isaac Dadulo | RMIT |  | Australia | 1 |
+| 284 | [Sammy59722](https://github.com/Sammy59722) | Sammy  | TessellationLabs |  | Australia | 1 |
+| 285 | [shoppingempirekids](https://github.com/shoppingempirekids) | Shopping Empire Kids | Shopping Empire Kids |  | 640 Archer Rd, Kialla East, VIC, Australia, Victoria | 1 |
+| 286 | [SlimTimJimbo](https://github.com/SlimTimJimbo) | Timothy Powell |  |  | Brisbane | 1 |
+| 287 | [SorenAgent](https://github.com/SorenAgent) | Soren |  |  | Brisbane, Australia | 1 |
+| 288 | [stuuuaaa](https://github.com/stuuuaaa) |  |  |  | Brisbane, Queensland | 1 |
+| 289 | [thacscroydon](https://github.com/thacscroydon) | Tailored Heating & Cooling Solutions |  |  | 7/54 Merrindale Dr, Croydon South VIC 3136, Australia | 1 |
+| 290 | [thepeptideco](https://github.com/thepeptideco) | The Peptide Co | The Peptide Co |  | Australia | 1 |
+| 291 | [tobynancs-creator](https://github.com/tobynancs-creator) | Toby J. Nancarrow | ARCHIMEDES CORPORATION PTY. LIMITED  |  | Australia | 1 |
+| 292 | [tonyngy](https://github.com/tonyngy) | tony nguyen | @Clearstack26 |  | brisbane, australia | 1 |
+| 293 | [TungTungTungSarah](https://github.com/TungTungTungSarah) | Sarah Howson | SA Health |  | Adelaide | 1 |
+| 294 | [ven615-01](https://github.com/ven615-01) | VenaticSix15 |  |  | Australia | 1 |
+| 295 | [vikybomi-builder](https://github.com/vikybomi-builder) | VikyBuilder | Vikybomi Aus |  | Australia | 1 |
+| 296 | [waxonwrapout](https://github.com/waxonwrapout) | Reliable Paint Protection Adelaide – Trust Wax On Wrap Out for Long-Lasting Vehicle Shine | waxonwrapout |  | 29 Circuit Dr, Hendon SA 5014, Australia | 1 |
+| 297 | [yeison-vargas](https://github.com/yeison-vargas) | Yeison Vargas |  |  | Melbourne, Australia | 1 |
+| 298 | [yubikhadka](https://github.com/yubikhadka) | Yubi Khadka | Future Secure AI |  | Melbourne | 1 |
+| 299 | [ZAEHER](https://github.com/ZAEHER) | Vikas Tewatia |  |  | Australia | 1 |
+| 300 | [zerotoai-dev](https://github.com/zerotoai-dev) | ZeroToAI |  |  | Australia | 1 |
+| 301 | [ZoeSterling](https://github.com/ZoeSterling) | Zoe Sterling | Sotohire | zoessterling | Sydney, Australia | 1 |
