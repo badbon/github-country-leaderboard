@@ -39,7 +39,15 @@ export async function collect({
 
     const queriesBeforeTask = queries;
     const query = buildSearchQuery(task);
-    const firstPage = await requestWithBackoff(client, { query, first: 100, after: null, contributionWindow }, sleep);
+    let firstPage;
+    try {
+      firstPage = await requestWithBackoff(client, { query, first: 100, after: null, contributionWindow }, sleep);
+    } catch (error) {
+      if (!shouldSplitAfterFailure(error)) throw error;
+      state.queue.unshift(...splitTask(task));
+      await persist(state, caches, dryRun);
+      continue;
+    }
     queries += 1;
     lastRateLimit = firstPage.rateLimit;
 
@@ -131,6 +139,10 @@ async function requestWithBackoff(client, request, sleep) {
       if (!waited) await sleep(2 ** attempt * 1000);
     }
   }
+}
+
+function shouldSplitAfterFailure(error) {
+  return error.status === 502 || error.status === 503 || error.status === 504;
 }
 
 async function persist(state, caches, dryRun) {

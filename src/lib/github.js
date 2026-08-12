@@ -70,6 +70,7 @@ export class GitHubClient {
       const retryAfter = response.headers.get("retry-after");
       const reset = response.headers.get("x-ratelimit-reset");
       throw Object.assign(new Error(`GitHub API request failed: ${response.status}`), {
+        status: response.status,
         retryAfter,
         reset
       });
