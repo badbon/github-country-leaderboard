@@ -1,4 +1,5 @@
 const GRAPHQL_URL = "https://api.github.com/graphql";
+const REQUEST_TIMEOUT_MS = 20000;
 
 const SEARCH_QUERY = `
 query SearchUsers($query: String!, $first: Int!, $after: String, $from: DateTime!, $to: DateTime!) {
@@ -47,24 +48,35 @@ export class GitHubClient {
   }
 
   async searchUsers({ query, first = 100, after = null, contributionWindow }) {
-    const response = await this.fetchImpl(GRAPHQL_URL, {
-      method: "POST",
-      headers: {
-        authorization: `Bearer ${this.token}`,
-        accept: "application/vnd.github+json",
-        "content-type": "application/json"
-      },
-      body: JSON.stringify({
-        query: SEARCH_QUERY,
-        variables: {
-          query,
-          first,
-          after,
-          from: contributionWindow.from,
-          to: contributionWindow.to
-        }
-      })
-    });
+    let response;
+    try {
+      response = await this.fetchImpl(GRAPHQL_URL, {
+        method: "POST",
+        signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
+        headers: {
+          authorization: `Bearer ${this.token}`,
+          accept: "application/vnd.github+json",
+          "content-type": "application/json"
+        },
+        body: JSON.stringify({
+          query: SEARCH_QUERY,
+          variables: {
+            query,
+            first,
+            after,
+            from: contributionWindow.from,
+            to: contributionWindow.to
+          }
+        })
+      });
+    } catch (error) {
+      if (error.name === "TimeoutError" || error.name === "AbortError") {
+        throw Object.assign(new Error(`GitHub API request timed out after ${REQUEST_TIMEOUT_MS}ms`), {
+          timeout: true
+        });
+      }
+      throw error;
+    }
 
     if (!response.ok) {
       const retryAfter = response.headers.get("retry-after");

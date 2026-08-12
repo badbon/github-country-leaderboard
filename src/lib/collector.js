@@ -162,6 +162,7 @@ async function requestWithBackoff(client, request, sleep) {
     try {
       return await client.searchUsers(request);
     } catch (error) {
+      if (shouldSplitAfterFailure(error)) throw error;
       attempt += 1;
       const waited = await waitForRateLimit(error, sleep);
       if (!waited && attempt >= 3) throw error;
@@ -171,7 +172,7 @@ async function requestWithBackoff(client, request, sleep) {
 }
 
 function shouldSplitAfterFailure(error) {
-  return error.resourceLimit || error.status === 502 || error.status === 503 || error.status === 504;
+  return error.timeout || error.resourceLimit || error.status === 502 || error.status === 503 || error.status === 504;
 }
 
 async function persist(state, caches, dryRun) {
