@@ -9,6 +9,7 @@ import { formatDate, monthsAgo, previousDate, rollingContributionWindow } from "
 import { shouldStopForBudget, waitForRateLimit, defaultSleep } from "./rate-limit.js";
 
 const PAGE_SIZE = 25;
+const INITIAL_SHARD_DAYS = 90;
 const DEFAULT_STATE = {
   version: 1,
   queue: [],
@@ -40,6 +41,7 @@ export async function collect({
 
     const queriesBeforeTask = queries;
     const query = buildSearchQuery(task);
+    console.log(`Collecting ${task.country} ${task.kind}:${task.term} created:${task.createdStart}..${task.createdEnd}`);
     let firstPage;
     try {
       firstPage = await requestWithBackoff(client, { query, first: PAGE_SIZE, after: null, contributionWindow }, sleep);
@@ -104,12 +106,38 @@ async function loadState(countries, now) {
 
   if (hasQueue || hasCompleted) return { ...DEFAULT_STATE, ...state };
 
-  const queue = buildTerms(countries).map((term) => ({
-    ...term,
-    createdStart: FIRST_GITHUB_USER_DATE,
-    createdEnd: cutoff
-  }));
+  const queue = buildInitialQueue(countries, cutoff);
   return { ...DEFAULT_STATE, ...state, queue };
+}
+
+function buildInitialQueue(countries, cutoff) {
+  const terms = buildTerms(countries)
+    .filter((term) => term.term.trim().length > 2)
+    .sort((a, b) => {
+      if (a.kind !== b.kind) return a.kind === "city" ? -1 : 1;
+      return a.country.localeCompare(b.country) || a.term.localeCompare(b.term);
+    });
+  return dateRanges(FIRST_GITHUB_USER_DATE, cutoff).flatMap((range) =>
+    terms.map((term) => ({ ...term, ...range }))
+  );
+}
+
+function dateRanges(start, end) {
+  const ranges = [];
+  let current = new Date(`${start}T00:00:00Z`);
+  const final = new Date(`${end}T00:00:00Z`);
+
+  while (current <= final) {
+    const shardStart = formatDate(current);
+    const shardEndDate = new Date(current.getTime());
+    shardEndDate.setUTCDate(shardEndDate.getUTCDate() + INITIAL_SHARD_DAYS - 1);
+    const shardEnd = formatDate(new Date(Math.min(shardEndDate.getTime(), final.getTime())));
+    ranges.push({ createdStart: shardStart, createdEnd: shardEnd });
+    current = new Date(`${shardEnd}T00:00:00Z`);
+    current.setUTCDate(current.getUTCDate() + 1);
+  }
+
+  return ranges.reverse();
 }
 
 async function loadCaches(countries) {
