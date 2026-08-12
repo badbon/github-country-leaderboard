@@ -11,7 +11,7 @@ export async function loadLocations(path = LOCATIONS_PATH) {
 }
 
 export function normalizeCountry(country) {
-  const aliases = unique([country.name, country.iso2, ...(country.aliases ?? [])]);
+  const aliases = unique([country.name, ...(country.aliases ?? [])]);
   const cities = unique(country.cities ?? []);
   const overrides = unique(country.overrides ?? []);
   return {

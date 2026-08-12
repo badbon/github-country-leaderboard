@@ -9,4 +9,5 @@ test("classifies required location examples", async () => {
   assert.equal(classifyLocation("Georgia", countries), "georgia");
   assert.equal(classifyLocation("Paris, Georgia", countries), "georgia");
   assert.equal(classifyLocation("France, Tbilisi", countries), "france");
+  assert.equal(classifyLocation("Rio de Janeiro, Brazil", countries), "brazil");
 });
