@@ -17,4 +17,3 @@ If your location says you are from "Georgia"
 That means you are from country of Georgia, as country names are always interpreted as country names.
 
 Non-major cities and typos are ignored.
-Of course, if you got better suggestions, PR or issue is welcome! :D
