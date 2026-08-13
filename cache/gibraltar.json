@@ -94,5 +94,41 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2024-08-21T09:02:43Z"
+  },
+  {
+    "login": "crpol",
+    "name": "Cesar Rosa Polanco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125162293?s=72&u=6c75351905184d2b72f286e16677005824f12351&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "cesarrpol",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 202,
+    "createdAt": "2023-02-11T22:50:42Z"
+  },
+  {
+    "login": "Nocchi66",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154032639?s=72&v=4",
+    "location": "Gibraltar ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-12-17T01:43:22Z"
+  },
+  {
+    "login": "Ahidlop",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145803894?s=72&u=98678c09ab5de9c7200e162b3a1841fee5acaf6f&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2023-09-22T19:09:59Z"
   }
 ]
