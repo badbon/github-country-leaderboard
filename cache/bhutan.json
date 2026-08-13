@@ -199,7 +199,7 @@
     "company": "Selise Group",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 134,
+    "privateContributions": 139,
     "publicContributions": 406,
     "createdAt": "2024-03-05T09:10:09Z"
   },
@@ -382,5 +382,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-14T08:09:14Z"
+  },
+  {
+    "login": "SonamWangchuk77jr",
+    "name": "Sonam Wangchuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170754290?s=72&u=e94c639f47a9860de1f1b98bd001c7b586c8aeea&v=4",
+    "location": "Thimphu",
+    "company": "@ROMx-Tech ",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1504,
+    "publicContributions": 23,
+    "createdAt": "2024-05-24T17:23:03Z"
+  },
+  {
+    "login": "pemachozom",
+    "name": "Pema Chozom",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170815863?s=72&u=38160287380d7a2f00275df0cab76fe57e033e01&v=4",
+    "location": "Kabjisa, Thimphu",
+    "company": "Gyalpozhing College of Information Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2024-05-25T15:10:37Z"
   }
 ]

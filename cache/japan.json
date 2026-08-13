@@ -4090,5 +4090,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-12T12:52:37Z"
+  },
+  {
+    "login": "yakamanawa",
+    "name": "Yuki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275059557?s=72&u=01fb0f563e0c3cd3f15120740f9ba85760e9c018&v=4",
+    "location": "Kyoto",
+    "company": "Netigate",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-04-10T11:32:27Z"
+  },
+  {
+    "login": "yuto-code721",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/251708004?s=72&u=9322f220ce7bae2ad4b37bedc98c98819dfb5b87&v=4",
+    "location": "Kyoto",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 88,
+    "createdAt": "2025-12-27T09:02:09Z"
+  },
+  {
+    "login": "FloristCafe",
+    "name": "Florist Cafe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263953802?s=72&u=ae3f7e330270e29264145494c568792214e04535&v=4",
+    "location": "Kyoto-shi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 114,
+    "createdAt": "2026-02-25T16:00:48Z"
+  },
+  {
+    "login": "4ltena",
+    "name": "Altena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262494738?s=72&u=0ef38222f0900dd09401ebbb7e1a74fccead10a2&v=4",
+    "location": "Kyoto",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 538,
+    "publicContributions": 457,
+    "createdAt": "2026-02-19T04:23:27Z"
+  },
+  {
+    "login": "jonbxuxui",
+    "name": "Santorini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276171081?s=72&u=bcc377f7335c0ddbe14dfc5a0b3ed6c5de720cf2&v=4",
+    "location": "Kyoto",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-04-15T03:35:58Z"
+  },
+  {
+    "login": "nuruyoug",
+    "name": "nuru",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261112133?s=72&u=58e503ab40e7ba8791a02899afca9f5baa19cef6&v=4",
+    "location": "Kyoto ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-02-12T04:51:52Z"
   }
 ]

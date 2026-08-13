@@ -130,5 +130,53 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2024-11-13T21:06:18Z"
+  },
+  {
+    "login": "kathigg",
+    "name": "Kathleen Higgins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179648516?s=72&u=6f42ff4e31699eb9a400397ae0241a8968420ee9&v=4",
+    "location": "Georgetown University",
+    "company": "Johns Hopkins Applied Physics Lab",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 500,
+    "publicContributions": 767,
+    "createdAt": "2024-08-27T21:47:05Z"
+  },
+  {
+    "login": "kev-mb",
+    "name": "Kevin Martinez Bautista",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165210751?s=72&v=4",
+    "location": "Georgetown, Texas",
+    "company": "SenSimTek",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1179,
+    "publicContributions": 1,
+    "createdAt": "2024-03-27T20:03:45Z"
+  },
+  {
+    "login": "Kristen-T-Adams",
+    "name": "Kristen T. Adams",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171081196?s=72&u=a4132f402deedc8b729cc5975bbc78cb5134d177&v=4",
+    "location": "Georgetown, TX",
+    "company": "GTX Teen Therapy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-28T18:32:11Z"
+  },
+  {
+    "login": "cvlinensgeorgetowntexas",
+    "name": "CV Linens",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163550347?s=72&v=4",
+    "location": "205 Blue Ridge Drive, Bldg 1 Georgetown,  TX  78626",
+    "company": "CV Linens",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-15T13:57:52Z"
   }
 ]

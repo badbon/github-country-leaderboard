@@ -130,5 +130,65 @@
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2023-09-22T19:09:59Z"
+  },
+  {
+    "login": "chekhlolz",
+    "name": "Emily Coleman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112766735?s=72&v=4",
+    "location": "West Antonioville, Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 135,
+    "createdAt": "2022-09-03T14:19:04Z"
+  },
+  {
+    "login": "jonathanpennell",
+    "name": "Jonathan Pennell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110996916?s=72&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2022-08-10T15:31:01Z"
+  },
+  {
+    "login": "SanduBota",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100947160?s=72&u=969565cc9e60a25dcaa2a574f12bcd1bc001d9ec&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-04T13:54:51Z"
+  },
+  {
+    "login": "RJHug00",
+    "name": "Randy H",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110546882?s=72&v=4",
+    "location": "Gibraltar, PA, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2022-08-03T13:56:22Z"
+  },
+  {
+    "login": "Miya-Gawa",
+    "name": "miyadesu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112999327?s=72&u=167bd7e0730734b21b5e5606baf98d65cc60d2ba&v=4",
+    "location": "Gibraltar",
+    "company": "黒田の組織",
+    "twitterUsername": "oddtaxi_",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-07T03:08:57Z"
   }
 ]

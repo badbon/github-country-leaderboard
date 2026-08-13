@@ -1363,7 +1363,7 @@
     "company": "Axum Strategic",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 556,
+    "privateContributions": 558,
     "publicContributions": 114,
     "createdAt": "2026-03-13T21:52:07Z"
   },
@@ -1999,7 +1999,7 @@
     "company": "ITSM Cosmology",
     "twitterUsername": "ITSM_Cosmology",
     "followers": 1,
-    "privateContributions": 510,
+    "privateContributions": 512,
     "publicContributions": 58,
     "createdAt": "2026-02-14T10:46:44Z"
   },
@@ -3994,5 +3994,89 @@
     "privateContributions": 200,
     "publicContributions": 69,
     "createdAt": "2025-03-05T09:56:48Z"
+  },
+  {
+    "login": "77k8mp4867-gif",
+    "name": "Michelle  Winkelman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265521499?s=72&v=4",
+    "location": "Perth",
+    "company": "Off the Wall",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-03-04T11:51:19Z"
+  },
+  {
+    "login": "VVorotilov-AI-AU",
+    "name": "Vladimir Vorotilov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254063053?s=72&u=30b213b94125c777fb2a14098a0b77c19090c155&v=4",
+    "location": "Perth, WA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2026-01-10T05:44:51Z"
+  },
+  {
+    "login": "TamekaCarmichael",
+    "name": "Tameka Carmichael",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266428851?s=72&u=8588ac090f2b6394bc640e38ef7abda674627138&v=4",
+    "location": "Perth, WA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-03-08T05:27:27Z"
+  },
+  {
+    "login": "inkorp87",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266983184?s=72&v=4",
+    "location": "Perth, AU",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-03-10T09:05:56Z"
+  },
+  {
+    "login": "pierresauvignon-ai",
+    "name": "Pierre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265648850?s=72&u=12c485b35dc2ef92c8647c0a66f82ef33ff28e32&v=4",
+    "location": "Perth",
+    "company": "Respondent",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-04T21:29:39Z"
+  },
+  {
+    "login": "mocthemocc",
+    "name": "Bui Duc Minh Cao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267025337?s=72&u=895568c2b5901e4b9bcaaf4d131d6a4b5dfc1baa&v=4",
+    "location": "Perth ",
+    "company": "Curtin University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-03-10T11:56:49Z"
+  },
+  {
+    "login": "xwang4-svg",
+    "name": "Xuan-Ce Wang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261591073?s=72&v=4",
+    "location": "wa,Perth",
+    "company": "LynAI Mines",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-02-14T10:13:57Z"
   }
 ]

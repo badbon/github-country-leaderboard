@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "Xenon0001",
+    "name": "Luis Rafael Eyoma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171175868?s=72&u=7e66a8efb0129468629068340b2cc8bad30441d5&v=4",
+    "location": "Bata, Equatorial Guinea",
+    "company": "Xenon.py",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 160,
+    "createdAt": "2024-05-29T16:52:36Z"
+  },
+  {
+    "login": "petr2rzu",
+    "name": "Javier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166865183?s=72&v=4",
+    "location": " Equatorial Guinea",
+    "company": " Ramsey-Williams",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-12T19:18:36Z"
+  }
+]

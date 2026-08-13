@@ -4366,5 +4366,53 @@
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2026-03-10T16:16:39Z"
+  },
+  {
+    "login": "harimations-git",
+    "name": "Harry Horder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197794000?s=72&u=af2f967e55f2603279db895595db5f2a4ea29299&v=4",
+    "location": "Northern Ireland | Belfast",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 117,
+    "createdAt": "2025-02-04T16:37:48Z"
+  },
+  {
+    "login": "joelmcclean",
+    "name": "Joel McClean",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195768707?s=72&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-01-20T13:16:49Z"
+  },
+  {
+    "login": "jasonkellyy",
+    "name": "Jason",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195807360?s=72&u=eb08e7ec17730cdec799dc6d6a28bce33d1cb9d5&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2025-01-20T18:38:15Z"
+  },
+  {
+    "login": "davidkirkpatrick421",
+    "name": "David Kirkpatrick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231060722?s=72&u=217bfc0f3e360976f553d9ab25b0c1d325bff6e8&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 23,
+    "publicContributions": 154,
+    "createdAt": "2025-09-08T15:51:44Z"
   }
 ]

@@ -355,7 +355,7 @@
     "company": "Shopify",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 759,
+    "privateContributions": 763,
     "publicContributions": 7,
     "createdAt": "2026-03-31T01:15:41Z"
   },
@@ -6130,5 +6130,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-26T19:36:00Z"
+  },
+  {
+    "login": "APHCanada",
+    "name": "Great White North",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257265375?s=72&u=8266901787732b2ac205114e9ccf7af5851b202b&v=4",
+    "location": "Ottawa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-26T09:12:33Z"
+  },
+  {
+    "login": "eethman",
+    "name": "Ethan Mclean",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259454773?s=72&u=cb53dc8778e4131a2994490993804dd9e4ef6c04&v=4",
+    "location": "Ottawa, Ontario",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-02-04T22:53:45Z"
+  },
+  {
+    "login": "XinyiZhao-cloud",
+    "name": "Xinyi Zhao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255022494?s=72&v=4",
+    "location": "Ottawa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 409,
+    "createdAt": "2026-01-15T01:09:44Z"
+  },
+  {
+    "login": "ieee-webmaster",
+    "name": "IEEE Webmaster",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254340323?s=72&u=1fbb031c84bc2388fe8639833511b141be16110e&v=4",
+    "location": "Ottawa",
+    "company": "IEEE uOttawa Student Branch",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 70,
+    "createdAt": "2026-01-11T22:35:49Z"
+  },
+  {
+    "login": "nickroy312",
+    "name": "Nick Roy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264635923?s=72&v=4",
+    "location": "Ottawa, ON",
+    "company": "TRALO",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-28T14:01:29Z"
+  },
+  {
+    "login": "mjashong",
+    "name": "Michael Jeffrey Ashong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255870212?s=72&u=e1c136ac53694d7e18109ce75843ae1cd2ef206f&v=4",
+    "location": "Ottawa, ON",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-01-19T11:54:53Z"
+  },
+  {
+    "login": "uofpga-collab",
+    "name": "uOttawa Digital Design Club",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258329079?s=72&u=413a1a9e8b86e6fcdebbb4750e429bb813be5c33&v=4",
+    "location": "Ottawa",
+    "company": "Student Organization",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-01-30T22:05:58Z"
+  },
+  {
+    "login": "hhuijer",
+    "name": "Hadiya Huijer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253101255?s=72&u=b9a748c7d6a79e5b083ff61ff5acf3abab3b874d&v=4",
+    "location": "Ottawa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-01-05T16:03:52Z"
+  },
+  {
+    "login": "Zintrivious",
+    "name": "Musa El Kholy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261068302?s=72&v=4",
+    "location": "Ottawa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-11T23:21:59Z"
   }
 ]

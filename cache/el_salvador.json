@@ -1426,5 +1426,29 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-09-11T16:25:39Z"
+  },
+  {
+    "login": "tsuchinaka",
+    "name": "Haruki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202475766?s=72&u=61b732afdaacb9bd4586263069d5d655c9dd0d22&v=4",
+    "location": "San Salvador",
+    "company": "@byteboxhq",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2025-03-09T03:59:30Z"
+  },
+  {
+    "login": "oscxrlpz",
+    "name": "Oscar Remberto Soriano Lopez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225654911?s=72&u=ee381b154c45bec2ba02c809eb4f8e7459f449c5&v=4",
+    "location": "Av. Dr. Jose Antonio Rodriguez Porth, San Salvador CP 1101",
+    "company": "Grupo Resurrección",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 75,
+    "publicContributions": 2,
+    "createdAt": "2025-08-10T06:22:35Z"
   }
 ]

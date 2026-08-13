@@ -487,7 +487,7 @@
     "company": "KLabTech Innovations",
     "twitterUsername": "2kdarki",
     "followers": 14,
-    "privateContributions": 1329,
+    "privateContributions": 1335,
     "publicContributions": 260,
     "createdAt": "2025-07-11T08:14:50Z"
   },
@@ -1448,7 +1448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 17,
     "createdAt": "2025-10-13T11:45:27Z"
   },
   {
@@ -1666,5 +1666,137 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2025-02-21T15:07:30Z"
+  },
+  {
+    "login": "Stencilus",
+    "name": "Tavonga Stencilus Dube",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234830907?s=72&u=4950ae96fe77bf32492280829b11c1e61d8ef6fe&v=4",
+    "location": "Harare",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2025-09-27T19:27:01Z"
+  },
+  {
+    "login": "ebenjonathan",
+    "name": "Jonathan Mupini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224844913?s=72&u=9543513bb70dd064b5f04a54bfc77e7516137b1a&v=4",
+    "location": "Harare",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 120,
+    "publicContributions": 47,
+    "createdAt": "2025-08-05T17:19:27Z"
+  },
+  {
+    "login": "creedtanyaradzwa",
+    "name": "Credence Tanyaradzwa Buzuzi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/244247228?s=72&v=4",
+    "location": "Harare",
+    "company": "theeye",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2025-11-15T22:25:59Z"
+  },
+  {
+    "login": "chiefmutsiwegota-dev",
+    "name": "Chief Mutsiwegota",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232317218?s=72&v=4",
+    "location": "Harare",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-09-15T07:29:10Z"
+  },
+  {
+    "login": "baobabstack-code",
+    "name": "Nyasha Shepard Ushewokunze",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233315448?s=72&u=78a49a8282ad66fb455e5e044d076b3fe6e3ff2a&v=4",
+    "location": "Harare",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 914,
+    "publicContributions": 341,
+    "createdAt": "2025-09-19T16:05:14Z"
+  },
+  {
+    "login": "antonychigz-boop",
+    "name": "simbarashe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/228179026?s=72&v=4",
+    "location": "Harare",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 113,
+    "createdAt": "2025-08-23T09:29:02Z"
+  },
+  {
+    "login": "blurred-sunshine",
+    "name": "Anesu Nyamajiwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/230535017?s=72&u=b55ca401186bcbbcb7590d7fde3023d58a66b8bc&v=4",
+    "location": "Harare",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-09-05T09:42:40Z"
+  },
+  {
+    "login": "takubandasaidi",
+    "name": "Takudzwa Banda-Saidi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/237010209?s=72&u=1dec8bb38d47038f1721449374fe92483e9c7b5c&v=4",
+    "location": "Harare ",
+    "company": "Inspire Consulting",
+    "twitterUsername": "tbandasaidi",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2025-10-09T10:01:47Z"
+  },
+  {
+    "login": "mutsotsob",
+    "name": "BLESSWARD MUTSOTSO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/223301413?s=72&v=4",
+    "location": "Harare",
+    "company": "acrn health",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 77,
+    "createdAt": "2025-07-28T14:35:59Z"
+  },
+  {
+    "login": "semieveer-stack",
+    "name": "𝙎𝙚𝙢𝙞𝙚 𝙫𝙚𝙚𝙧 𝙢𝙙",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/228004921?s=72&u=d1cf80f1a234071cef9b6a59e9f0180f0994fa8a&v=4",
+    "location": "Harare",
+    "company": "Econet",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2025-08-22T11:39:32Z"
+  },
+  {
+    "login": "mmussollini-dotcom",
+    "name": "Mussollini Salem Mugumbate ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245765176?s=72&u=fe7267ba0632e8807d3fa6aa1bb49e19849805cf&v=4",
+    "location": "Harare",
+    "company": "Children of the Digital Age Zimbabwe ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-11-23T23:16:54Z"
   }
 ]

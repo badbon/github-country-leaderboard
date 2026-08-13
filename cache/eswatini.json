@@ -22,5 +22,41 @@
     "privateContributions": 0,
     "publicContributions": 42,
     "createdAt": "2026-01-16T11:16:37Z"
+  },
+  {
+    "login": "Sibakhe-Nyembe",
+    "name": "SIBAKHE N.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219303224?s=72&u=54f10e895f2b963220f426debc36d1538dedf32b&v=4",
+    "location": "Eswatini, Mbabane, Sidvwashini",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2025-07-04T14:03:37Z"
+  },
+  {
+    "login": "mpendulo-codder",
+    "name": "Mpendulo N Fakudze",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217781889?s=72&v=4",
+    "location": "Eswatini",
+    "company": "BYTECH",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-06-24T14:54:32Z"
+  },
+  {
+    "login": "SwaziJiveAI",
+    "name": "Swazi Jive AI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197631570?s=72&u=53a3331bb5d183701ce3de51c52d5e8f61666a76&v=4",
+    "location": "Eswatini",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 28,
+    "publicContributions": 0,
+    "createdAt": "2025-02-03T15:02:57Z"
   }
 ]

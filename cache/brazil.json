@@ -11048,7 +11048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 126,
-    "publicContributions": 65,
+    "publicContributions": 66,
     "createdAt": "2026-02-04T19:46:06Z"
   },
   {
@@ -11228,7 +11228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 62,
     "createdAt": "2026-02-19T21:47:11Z"
   },
   {
@@ -11395,7 +11395,7 @@
     "company": "Abreu Agrobusiness",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1165,
+    "privateContributions": 1167,
     "publicContributions": 6,
     "createdAt": "2026-01-16T19:18:30Z"
   },
@@ -27394,5 +27394,29 @@
     "privateContributions": 0,
     "publicContributions": 70,
     "createdAt": "2024-04-28T13:27:15Z"
+  },
+  {
+    "login": "raoni07",
+    "name": "Robadel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256485542?s=72&v=4",
+    "location": "São Paulo, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-01-22T04:38:11Z"
+  },
+  {
+    "login": "aureoandradedev",
+    "name": "Aureo Andrade",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258068834?s=72&u=5ebba1105ecd31db75ec9da79e02d482c37fa9fc&v=4",
+    "location": "Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 119,
+    "createdAt": "2026-01-29T17:36:09Z"
   }
 ]

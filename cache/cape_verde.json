@@ -442,5 +442,41 @@
     "privateContributions": 0,
     "publicContributions": 30,
     "createdAt": "2025-08-22T18:45:32Z"
+  },
+  {
+    "login": "GiovaniSantos9",
+    "name": "GiovaniSantosDev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168835162?s=72&u=ba81d4b7727d0344ee7a52b8abd6829db2d6ea2e&v=4",
+    "location": "Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 51,
+    "publicContributions": 7,
+    "createdAt": "2024-05-03T12:56:11Z"
+  },
+  {
+    "login": "Yasuhiii",
+    "name": "Eric Costa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/188174603?s=72&u=88b532e8645ee9d37b468baa0137aea963af3ed6&v=4",
+    "location": "Mindelo, Cape Verde",
+    "company": "",
+    "twitterUsername": "_mr_reis_",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 80,
+    "createdAt": "2024-11-12T09:32:12Z"
+  },
+  {
+    "login": "Saturnino4",
+    "name": "Saturnino Moreira Mendes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159030396?s=72&u=a40ef5d1d3e95a6999fffef02ce80b29de37a26d&v=4",
+    "location": "Praia, Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 9,
+    "publicContributions": 1,
+    "createdAt": "2024-02-05T13:08:36Z"
   }
 ]
