@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "login": "Jovite-COMPAORE",
+    "name": "Jovite COMPAORE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274725612?s=72&v=4",
+    "location": "Burkina Faso",
+    "company": "Hakili Lab",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-04-09T06:24:29Z"
+  },
+  {
+    "login": "OsW9",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282670139?s=72&v=4",
+    "location": "burkina faso",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2026-05-07T18:08:23Z"
+  },
+  {
+    "login": "Stusito",
+    "name": "stusito",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266583909?s=72&v=4",
+    "location": "Burkina Faso",
+    "company": "capo´s companyu",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-08T23:03:31Z"
+  },
+  {
+    "login": "adamsangare668-max",
+    "name": "ADAM SANGARE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281927384?s=72&u=efd0c76f62a700bafa8cca43204b090e397b7e28&v=4",
+    "location": "Burkina Faso",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2026-05-05T12:03:31Z"
+  },
+  {
+    "login": "Franck-Sawadogo77",
+    "name": "Franck-Sawadogo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266111242?s=72&u=d2a49f3d1110f905aeb360b3fc5d70012b7b256e&v=4",
+    "location": "Ouagadougou, Burkina Faso",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 146,
+    "createdAt": "2026-03-06T15:52:16Z"
+  },
+  {
+    "login": "J0su3Code",
+    "name": "J0su3Code",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255941878?s=72&u=824364bcdfa1280c68ef5133a2d2dcde8f9c4f67&v=4",
+    "location": "Burkina Faso",
+    "company": "J0su3Code",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2026-01-19T18:01:16Z"
+  },
+  {
+    "login": "EstherOuedraogo",
+    "name": "Bowend-yaam Esther Ouedraogo ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283034246?s=72&u=e2461210d212a4f530bfda707341957f795b218b&v=4",
+    "location": "Burkina Faso",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2026-05-08T23:58:13Z"
+  }
+]

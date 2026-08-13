@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "login": "Diandra-Sherman",
+    "name": "Diandra Sherman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255938823?s=72&u=e2131b3030dd199b422037b13e8e809088f6327f&v=4",
+    "location": "The Bahamas",
+    "company": "Dept. of Information & Communication Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-01-19T17:43:08Z"
+  },
+  {
+    "login": "lucayantechnology",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269673694?s=72&u=70cbbe274032e2eeb63be837c235b0890b808dbc&v=4",
+    "location": "Tampa, FL, USA / Nassau, Bahamas",
+    "company": "Lucayan Technology LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-03-20T08:15:09Z"
+  },
+  {
+    "login": "wilsoncindy1975-oss",
+    "name": "Cindy Wilson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267187481?s=72&v=4",
+    "location": "Bahamas",
+    "company": "First Project Github",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-03-11T00:05:47Z"
+  }
+]

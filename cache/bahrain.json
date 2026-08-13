@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "login": "sharifamubarak92-ui",
+    "name": "Sharifa Mubarak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253123611?s=72&v=4",
+    "location": "Bahrain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2026-01-05T18:12:08Z"
+  },
+  {
+    "login": "Fatema-Alhelli",
+    "name": "Fatema Ali Alhelli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271979880?s=72&u=3108d10055f3af3167552ab35df774fc437c3b54&v=4",
+    "location": "Bahrain",
+    "company": "University of Bahrain",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 59,
+    "createdAt": "2026-03-29T14:14:55Z"
+  },
+  {
+    "login": "hussain-alsaibai",
+    "name": "Hussain Alsaibai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261726991?s=72&u=3164597857a87e3563ef97a0ddda176e17452bd0&v=4",
+    "location": "Bahrain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 495,
+    "createdAt": "2026-02-15T08:57:18Z"
+  },
+  {
+    "login": "Alhomaidi1",
+    "name": "Abdulrahman Alhomaidi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257457520?s=72&u=ef467a3f478dc56b563e2d6c9e208d8579226318&v=4",
+    "location": "Bahrain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-01-27T05:58:51Z"
+  },
+  {
+    "login": "QualitasData",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258855657?s=72&u=c1760b2983ddbe9479a440f964a8d5e895b05528&v=4",
+    "location": "Bahrain",
+    "company": "Qualitas Data",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-02T15:05:53Z"
+  },
+  {
+    "login": "daytoday-hypermarket",
+    "name": "Day to Day Hypermarket Bahrain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266261460?s=72&u=1457248ca2bf7ae579d1d96cbda324837a0140f4&v=4",
+    "location": "Bahrain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 10,
+    "publicContributions": 1,
+    "createdAt": "2026-03-07T09:20:19Z"
+  }
+]

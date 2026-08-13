@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "login": "a-sehic-dev",
+    "name": "Sedin Šehić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258094647?s=72&u=f39b87cae05ff988c09a17abffcc15a9f7dc8604&v=4",
+    "location": "Bosnia and Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 93,
+    "privateContributions": 0,
+    "publicContributions": 127,
+    "createdAt": "2026-01-29T20:08:49Z"
+  },
+  {
+    "login": "jednazlonestamp",
+    "name": "Jednaz Lonestamp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259805106?s=72&u=160a0e2a4946a50c660f66c30b577e5508f2d1e5&v=4",
+    "location": "Bosnia and Herzegovina",
+    "company": "@BlackBlazent",
+    "twitterUsername": "",
+    "followers": 46,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-02-06T07:35:56Z"
+  },
+  {
+    "login": "sadin-pita",
+    "name": "Sadin Pita",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259551120?s=72&u=3bd89ef82c25d92b43f38abd62225670c6df4dd9&v=4",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "company": "Galeyo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-05T10:02:37Z"
+  },
+  {
+    "login": "rijad21",
+    "name": "Rijad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258695183?s=72&u=eb03a3cccbdfa7f70a9908719b2cdc13387d8cf2&v=4",
+    "location": "Bosnia and Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-01T23:30:01Z"
+  },
+  {
+    "login": "branelo-byte",
+    "name": "Branimir Stojanovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261290250?s=72&v=4",
+    "location": "Bosnia and Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-12T20:20:20Z"
+  },
+  {
+    "login": "HisteriA13",
+    "name": "Hilda Hadžić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281845919?s=72&u=2d9bbdb008229f3c7a43259bfb702fe7ffb53c9f&v=4",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 77,
+    "createdAt": "2026-05-05T06:15:50Z"
+  },
+  {
+    "login": "ediiin",
+    "name": "Edin Alibegović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264687759?s=72&u=0caaa481c61174ef1a382066ee10ec6d37bb8581&v=4",
+    "location": "Bosnia and Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 55,
+    "createdAt": "2026-02-28T20:15:27Z"
+  }
+]
