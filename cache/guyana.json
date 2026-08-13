@@ -34,5 +34,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-08-11T15:00:37Z"
+  },
+  {
+    "login": "derianyew",
+    "name": "Dérian Yew",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200242056?s=72&v=4",
+    "location": "Georgetown, Penang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2025-02-21T14:33:53Z"
+  },
+  {
+    "login": "Jacopoo0",
+    "name": "Nennus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205899603?s=72&u=9a635225beb346cecec9e143d4d0e18161669eca&v=4",
+    "location": "Washington, GeorgeTown",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2025-04-02T08:23:20Z"
+  },
+  {
+    "login": "IkmalAzis",
+    "name": "Muhammad Ikmal Bin Azis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216807717?s=72&u=74fe3bdf0bbeae93b7a8cfa52b8435a4c8eb3c62&v=4",
+    "location": "Georgetown, Pulau Pinang.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2025-06-18T01:53:29Z"
+  },
+  {
+    "login": "JocelynM8137",
+    "name": "Jocelyn ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205454000?s=72&u=81997c6cdf429b01c09e8bda86cd662dcbe20ad3&v=4",
+    "location": "Georgetown, SC",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2025-03-29T18:17:17Z"
+  },
+  {
+    "login": "AWTX300",
+    "name": "Avery Walker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/247289483?s=72&v=4",
+    "location": "Georgetown Texas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2025-12-02T03:14:35Z"
   }
 ]
