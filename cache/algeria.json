@@ -970,5 +970,77 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-03-03T01:21:44Z"
+  },
+  {
+    "login": "Ouaelkk",
+    "name": "Brat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259363767?s=72&u=f406a01e43b84aa921c0fa8f858fa79c222e5c91&v=4",
+    "location": "Algiers",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-02-04T14:37:47Z"
+  },
+  {
+    "login": "tassnim-rgb",
+    "name": "BELAGHIT Tassnim Alla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256780037?s=72&u=360616046d7cdccd4d823cd9260d1c51d55d4a34&v=4",
+    "location": "Algiers",
+    "company": "National Higher School of Mathematics",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2026-01-23T12:03:37Z"
+  },
+  {
+    "login": "oxtknight",
+    "name": "tk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270287892?s=72&u=63dd4ae1f6a7e773a00e1da85bdf52ffc6a95988&v=4",
+    "location": "Algiers ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 147,
+    "createdAt": "2026-03-23T07:38:46Z"
+  },
+  {
+    "login": "yasminemeknes",
+    "name": "Yasmine Meknes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266310744?s=72&v=4",
+    "location": "ALGIERS",
+    "company": "USTHB",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-03-07T14:31:43Z"
+  },
+  {
+    "login": "yacinesaad",
+    "name": "yacine saad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261658410?s=72&u=2abc062122506abc2e4b6fa5867e12ac44b982aa&v=4",
+    "location": "algiers",
+    "company": "nimoxis",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-14T19:20:30Z"
+  },
+  {
+    "login": "abderahmenhebrih",
+    "name": "ABDOU HEBRIH ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283946343?s=72&u=0b5234e10e0511886ca053e8cc4f5f55aa76238c&v=4",
+    "location": "Rouiba - Algiers",
+    "company": "@gomycode",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 62,
+    "createdAt": "2026-05-12T09:43:57Z"
   }
 ]

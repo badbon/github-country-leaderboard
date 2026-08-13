@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "oleg-balandin-paf",
+    "name": "Oleg Balandin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263367260?s=72&u=5b4143d36e7f26e81770ccd54d69d44d29e3ba20&v=4",
+    "location": "Mariehamn",
+    "company": "Paf",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-23T12:22:46Z"
+  },
+  {
+    "login": "CraisoD",
+    "name": "Christoffer Dahlström",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257851031?s=72&u=97099da00bf637f35f2dcbce9779405025132779&v=4",
+    "location": "Mariehamn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-01-28T18:46:45Z"
+  }
+]

@@ -286,5 +286,53 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-03-06T01:17:39Z"
+  },
+  {
+    "login": "enisdairon7-lgtm",
+    "name": "Emach-N",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259432997?s=72&v=4",
+    "location": "Montevideo ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-02-04T20:14:53Z"
+  },
+  {
+    "login": "santurronnn",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258119008?s=72&u=aed4fa2a1b28720cc872f71489cd7cc4904ffe8c&v=4",
+    "location": "Montevideo",
+    "company": "Montes del Plata",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-29T23:31:59Z"
+  },
+  {
+    "login": "SantiagoLaborda",
+    "name": "Santiago Laborda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271031626?s=72&u=ec9b203bfcdb5b98d1353aab4542b09cd9d179b2&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-25T17:44:34Z"
+  },
+  {
+    "login": "nlagrotta",
+    "name": "Nicolás Lagrotta ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278537268?s=72&u=6d838637d885c1534f1dfd2c68cb2c8d97b61978&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-22T23:13:32Z"
   }
 ]
