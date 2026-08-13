@@ -70,5 +70,65 @@
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2026-01-23T16:26:42Z"
+  },
+  {
+    "login": "tedrimeyot",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270768342?s=72&v=4",
+    "location": "Ivory Coast",
+    "company": "Trilley",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-03-24T20:22:48Z"
+  },
+  {
+    "login": "chemteqservices-commits",
+    "name": "SpinaL360",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272706320?s=72&u=06dd49509d1da71f9d834681dd23ccdb7f7f9b81&v=4",
+    "location": "ivory coast",
+    "company": "chemteq",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-01T04:31:27Z"
+  },
+  {
+    "login": "zakbot-agent",
+    "name": "ZakBot Agent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270637449?s=72&u=84cd41dd78854cd146b54ef4c8659a9b296ac499&v=4",
+    "location": "Ivory Coast",
+    "company": "Zakone",
+    "twitterUsername": "zakariadev000",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 168,
+    "createdAt": "2026-03-24T11:31:06Z"
+  },
+  {
+    "login": "richmndk",
+    "name": " Richmndk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272902488?s=72&v=4",
+    "location": "Ivory coast",
+    "company": "",
+    "twitterUsername": "Richmndkn",
+    "followers": 2,
+    "privateContributions": 4,
+    "publicContributions": 38,
+    "createdAt": "2026-04-01T18:08:13Z"
+  },
+  {
+    "login": "kalodu",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268690584?s=72&u=1ba68cf1f2555448c0665377aecd09827bc9007a&v=4",
+    "location": "Ivory Coast",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-03-16T17:33:14Z"
   }
 ]

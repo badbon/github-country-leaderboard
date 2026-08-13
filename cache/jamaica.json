@@ -94,5 +94,41 @@
     "privateContributions": 1310,
     "publicContributions": 1,
     "createdAt": "2026-04-05T18:54:49Z"
+  },
+  {
+    "login": "wulinsuo",
+    "name": "Wulin Suo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279845520?s=72&u=1673b91581b36eea2b053f795a96da063e3cfdd9&v=4",
+    "location": "Kingston, Ontario",
+    "company": "Queen's University ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-04-27T21:21:22Z"
+  },
+  {
+    "login": "Duru-E",
+    "name": "Duru Elli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254750803?s=72&v=4",
+    "location": "Kingston Ontario",
+    "company": "St. Lawrence College",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2026-01-13T18:42:51Z"
+  },
+  {
+    "login": "queenshpc",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272944959?s=72&v=4",
+    "location": "Kingston, Ontario",
+    "company": "@Queen-s-High-Performance-Computing ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-04-01T22:14:09Z"
   }
 ]

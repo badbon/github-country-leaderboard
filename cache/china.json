@@ -1270,5 +1270,29 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2026-02-23T04:16:45Z"
+  },
+  {
+    "login": "NewGlobalElectronics",
+    "name": "New Global Electronics",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269371219?s=72&u=401dd6ba607573c4ac20f673c2292dea74d3a60e&v=4",
+    "location": "China, Tunisia, France, Morocco, India",
+    "company": "New Global Electronics",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 70,
+    "createdAt": "2026-03-19T04:27:37Z"
+  },
+  {
+    "login": "friedrichquant",
+    "name": "Friedrich Schindelbeck",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261482801?s=72&u=f4c1c758dd45a63617d02f460829efbdd0de7eee&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "ETH Zurich ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 157,
+    "publicContributions": 75,
+    "createdAt": "2026-02-13T17:59:02Z"
   }
 ]
