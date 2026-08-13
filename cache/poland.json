@@ -2386,5 +2386,53 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2026-03-08T17:36:59Z"
+  },
+  {
+    "login": "devbyreqqel",
+    "name": "reqqel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258330166?s=72&u=bc4798ac466d7ffa62469f62c7d8d64e39540696&v=4",
+    "location": "Poland",
+    "company": "iTVT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2026-01-30T22:15:02Z"
+  },
+  {
+    "login": "yaren-atici",
+    "name": "Yaren Atıcı",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277343957?s=72&u=97d6ec3b62997345a442d997360418564eb23ba0&v=4",
+    "location": "Gdańsk, Poland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2026-04-18T21:25:59Z"
+  },
+  {
+    "login": "witoldwozniak",
+    "name": "Witold Wozniak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257405385?s=72&u=49c3ee5f0186eb657eba2e3aa4a299cd34cd0b29&v=4",
+    "location": "Poland",
+    "company": "@Vonage",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 417,
+    "publicContributions": 60,
+    "createdAt": "2026-01-26T22:36:49Z"
+  },
+  {
+    "login": "toniaczlog",
+    "name": "Toniacz.log",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256210753?s=72&u=00c986731ed78ebe5ff28648b1953edfe081f4ff&v=4",
+    "location": "Poland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 95,
+    "createdAt": "2026-01-20T21:47:51Z"
   }
 ]

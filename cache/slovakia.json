@@ -346,5 +346,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-23T09:43:24Z"
+  },
+  {
+    "login": "aisystems-company",
+    "name": "AISYSTEMS s.r.o.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274740216?s=72&u=64e89647c7c1df66557604bc00ab75ccd98048dd&v=4",
+    "location": "Brezno, Slovenská republika",
+    "company": "AISYSTEMS s. r. o.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 42,
+    "publicContributions": 1,
+    "createdAt": "2026-04-09T07:28:05Z"
   }
 ]

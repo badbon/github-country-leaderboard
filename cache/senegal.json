@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "login": "samuelmashika",
+    "name": "Kasongo Mashika Samuel Evariste",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273365561?s=72&u=15a78a2ec704085c5641dd731fa36523bf8eef30&v=4",
+    "location": "Dakar, Senegal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-04-03T13:34:52Z"
+  },
+  {
+    "login": "khadimshiny2-beep",
+    "name": "metalFaceKhadim-py",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254786202?s=72&u=4518267e84724371b801aa0490820231e63cd252&v=4",
+    "location": "Senegal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2026-01-13T22:43:54Z"
+  },
+  {
+    "login": "momojoop84-wq",
+    "name": "Mouhameth Diop",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270322608?s=72&v=4",
+    "location": "Senegal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2026-03-23T10:15:13Z"
+  },
+  {
+    "login": "nianglaye221-crypto",
+    "name": "Niang Abdoulaye ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263031843?s=72&u=c8155826d04148d881867b4bbbb6509795ca8de8&v=4",
+    "location": "Senegal ,DAKAR ",
+    "company": "bigboss_on_the_tech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-02-21T16:50:31Z"
+  },
+  {
+    "login": "chris-precious",
+    "name": "Chris Precieux LOUNKANA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269452325?s=72&u=c652f1510db86e9664cc669d06cfbdc0dea994fe&v=4",
+    "location": "Senegal",
+    "company": "Wiimood",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-19T11:56:15Z"
+  },
+  {
+    "login": "adisonray",
+    "name": "addison ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270346262?s=72&u=b933dfe06425e2e47cda53ef22f9f2928301ac79&v=4",
+    "location": "Senegal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2026-03-23T12:03:58Z"
+  }
+]

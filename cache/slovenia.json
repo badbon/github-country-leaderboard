@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "turk314",
+    "name": "Toni K. Turk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258315252?s=72&v=4",
+    "location": "Ljubljana, Slovenia",
+    "company": "JT Digital",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-01-30T20:23:28Z"
+  },
+  {
+    "login": "deniskolarr",
+    "name": "Denis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273815345?s=72&v=4",
+    "location": "Slovenia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-05T15:40:26Z"
+  }
+]
