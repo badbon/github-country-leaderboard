@@ -130,5 +130,53 @@
     "privateContributions": 0,
     "publicContributions": 84,
     "createdAt": "2024-07-04T05:14:31Z"
+  },
+  {
+    "login": "torik988",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136936205?s=72&u=c980e80aea9213f390a181db01f6348fe1254c41&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 190,
+    "publicContributions": 22,
+    "createdAt": "2023-06-17T22:38:30Z"
+  },
+  {
+    "login": "TooFuW",
+    "name": "Eyrian Muet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137835885?s=72&u=50719696665b8813116ab58e72194375a5db7a0e&v=4",
+    "location": "New- Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 618,
+    "publicContributions": 232,
+    "createdAt": "2023-06-26T21:29:11Z"
+  },
+  {
+    "login": "hde08",
+    "name": "Hugo D ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148919113?s=72&u=bc22701ea3b7af6afdfe3ab099dbcc046d2bf069&v=4",
+    "location": "Noumea, New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2023-10-24T22:37:44Z"
+  },
+  {
+    "login": "onlinepacific",
+    "name": "Online Pacific",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147449565?s=72&u=cb59d4cf92647a08db6467b5de5b75050aa8a916&v=4",
+    "location": "New Caledonia",
+    "company": "Online NC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-09T21:53:43Z"
   }
 ]

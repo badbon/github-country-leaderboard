@@ -46,5 +46,29 @@
     "privateContributions": 0,
     "publicContributions": 221,
     "createdAt": "2026-05-05T07:01:14Z"
+  },
+  {
+    "login": "copilotuser713",
+    "name": "Simon K. Penny",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271062983?s=72&v=4",
+    "location": "Pyongyang",
+    "company": "@billnye",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-03-25T20:02:54Z"
+  },
+  {
+    "login": "MaximePichavant",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256084285?s=72&u=2b8c8d0fdcac4ba5a7e7388999ac5b82cf27d6a3&v=4",
+    "location": "Pyongyang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-20T10:40:28Z"
   }
 ]
