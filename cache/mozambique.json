@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "login": "Michelle-Tembe",
+    "name": "Michelle Tembe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253946944?s=72&u=a141df04ceb966e09069274a8743ef32469e1d3c&v=4",
+    "location": "Mozambique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2026-01-09T14:21:38Z"
+  },
+  {
+    "login": "nicolematimbe07-droid",
+    "name": "Nicole Matimbe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280045459?s=72&u=35c66c256453f93b1996560da8d0fb812d5601c8&v=4",
+    "location": "Maputo, Mozambique ",
+    "company": "@Build-Learn-TI ",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 1,
+    "publicContributions": 11,
+    "createdAt": "2026-04-28T14:09:00Z"
+  },
+  {
+    "login": "Marlon575",
+    "name": "Marlon_Baptista_Muchanga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264087129?s=72&u=d30c0368fbedbc5d8f25c3c1b3e9bec28d2bc4bb&v=4",
+    "location": "Mozambique ",
+    "company": "Autónomo",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 134,
+    "createdAt": "2026-02-26T06:09:40Z"
+  },
+  {
+    "login": "zerosatus",
+    "name": "zerosatus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259574112?s=72&u=b687570f207aa27701e84808c2c6f474c1e85f09&v=4",
+    "location": "Mozambique",
+    "company": "Zerosatus",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 884,
+    "createdAt": "2026-02-05T12:07:48Z"
+  },
+  {
+    "login": "eloid-novela",
+    "name": "Eloid Novela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261226978?s=72&u=81ea7cc995b5e359852376788049d07d0db8357b&v=4",
+    "location": "Beira, Mozambique",
+    "company": "null",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 69,
+    "publicContributions": 57,
+    "createdAt": "2026-02-12T14:45:05Z"
+  },
+  {
+    "login": "Momade-Ibraimo",
+    "name": "Momade Ibraimo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263016387?s=72&v=4",
+    "location": "Mozambique",
+    "company": "Full Stack Developer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 220,
+    "createdAt": "2026-02-21T15:02:23Z"
+  },
+  {
+    "login": "alfredomachono-dev",
+    "name": "Alfredo Francisco Victor Machono",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272920996?s=72&u=18e75d2e28735cccceb6ce144e41b8ce996762df&v=4",
+    "location": "Mozambique,Maputo",
+    "company": "Maputo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-04-01T19:44:54Z"
+  }
+]

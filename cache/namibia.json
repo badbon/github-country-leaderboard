@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "Inga24H",
+    "name": "TSHIVOLO DAMOMWENE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271714716?s=72&u=57666b8fe10de3d41feaaac623525dedc74c9e99&v=4",
+    "location": "NAMIBIA",
+    "company": "BLASTX",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-03-28T07:54:23Z"
+  },
+  {
+    "login": "holgarkotze-commits",
+    "name": "STITCH WORX INC.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260594693?s=72&u=e1a4c5f4aeeb1f1c14b6dc6788a5240bf5a164d0&v=4",
+    "location": "NAMIBIA",
+    "company": "STITCH WORX",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 185,
+    "createdAt": "2026-02-10T06:33:19Z"
+  }
+]

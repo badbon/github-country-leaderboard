@@ -10,5 +10,65 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-26T08:25:57Z"
+  },
+  {
+    "login": "HermyRivas",
+    "name": "Hermy Rivas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276449377?s=72&u=b037f4b8bcae342d9680e5a7a06da771aab2588b&v=4",
+    "location": "El Congo",
+    "company": "MINEDUCYT",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2026-04-16T01:06:50Z"
+  },
+  {
+    "login": "jacques-imani",
+    "name": "Jacques Imanirakiza Hitimana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262496269?s=72&v=4",
+    "location": "Goma, Nord-Kivu, D.R. Congo",
+    "company": "Médecin Sans Frontières",
+    "twitterUsername": "IMHJacques1",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-02-19T04:35:54Z"
+  },
+  {
+    "login": "emmanuel-silicon",
+    "name": "Emmanuel BILOMBO-SILAHO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271759509?s=72&u=c39a2e63e723fef41433346ace885f83b36cf87e&v=4",
+    "location": "brazzaville, congo république",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2026-03-28T12:38:12Z"
+  },
+  {
+    "login": "elengamessisoleil-hash",
+    "name": "Soleil Ultra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261814584?s=72&u=0904b032df7b49bb8bcbe00a80a70590c87caf84&v=4",
+    "location": "Brazzaville République du Congo",
+    "company": "@Akieni Academy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2026-02-15T21:39:00Z"
+  },
+  {
+    "login": "arsene-akiana",
+    "name": "Arsène Gloire AKIANA ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282907501?s=72&u=fe9ad34680e0a5c579d485cf4ccca98c718b7736&v=4",
+    "location": "Brazzaville, Congo",
+    "company": "",
+    "twitterUsername": "AkianaArsene",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 127,
+    "createdAt": "2026-05-08T13:34:02Z"
   }
 ]

@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "login": "14BryanEspinoza",
+    "name": "Bryan Espinoza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252781788?s=72&u=33925d5aae37468293172388241d03eafbff4a41&v=4",
+    "location": "Nicaragua",
+    "company": "",
+    "twitterUsername": "14BryanEspinoza",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 213,
+    "createdAt": "2026-01-03T18:52:31Z"
+  },
+  {
+    "login": "rafcast79",
+    "name": "Junior Olivas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279293853?s=72&u=f1e3ea0e50639220e13e7a34325362a23ad25d7c&v=4",
+    "location": "Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 3,
+    "publicContributions": 12,
+    "createdAt": "2026-04-25T16:15:46Z"
+  },
+  {
+    "login": "Salomon-Mayorga",
+    "name": "Salomón Mayorga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279805245?s=72&v=4",
+    "location": "Managua, Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-04-27T18:11:35Z"
+  },
+  {
+    "login": "Walnnergit",
+    "name": "Walnner Miranda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279556099?s=72&u=032358b334636a1c29c75b74d1170979d508c703&v=4",
+    "location": "Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-04-26T22:42:40Z"
+  },
+  {
+    "login": "missaeljjj",
+    "name": "missael",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/251914736?s=72&v=4",
+    "location": "NICARAGUA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2025-12-28T21:17:09Z"
+  },
+  {
+    "login": "JosueLagu",
+    "name": "Info-kun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263114719?s=72&u=ddc93752e28caa3b58bf92e4c6cf8d50fe0fb8af&v=4",
+    "location": "Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2026-02-22T05:55:31Z"
+  }
+]

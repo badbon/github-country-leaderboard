@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "login": "TeodorTodorovski01",
+    "name": "Teodor Todorovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266360995?s=72&u=b9509f4cd98d5fefce870053f0de14289360710f&v=4",
+    "location": "Macedonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2026-03-07T19:44:34Z"
+  },
+  {
+    "login": "IlinaNajdoska",
+    "name": "Ilina Najdoska",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268387871?s=72&v=4",
+    "location": "Skopje, Macedonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2026-03-15T14:51:07Z"
+  },
+  {
+    "login": "ShaggyCrow",
+    "name": "Crow",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266501258?s=72&u=73ec24a6103b62dc8e2c137aa2f9bb0a16fe748c&v=4",
+    "location": "Skopje, Macedonia",
+    "company": "International Slavic University Saint Nicholas",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-03-08T13:33:23Z"
+  },
+  {
+    "login": "kostovskidimi",
+    "name": "Dimitar Kostovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275263664?s=72&v=4",
+    "location": "Skopje, Macedonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-11T09:22:02Z"
+  },
+  {
+    "login": "flamurrecica",
+    "name": "Flamur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255979255?s=72&u=556dd28f06f29a5b7db907421961c52bb55d058d&v=4",
+    "location": "Skopje, North Macedonia",
+    "company": "Oninova",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 448,
+    "publicContributions": 3,
+    "createdAt": "2026-01-19T21:52:13Z"
+  },
+  {
+    "login": "Damianfate",
+    "name": "Damjan Dimovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278784696?s=72&v=4",
+    "location": "Skopje, North Macedonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 102,
+    "createdAt": "2026-04-23T18:49:01Z"
+  },
+  {
+    "login": "MargaritaLazevska",
+    "name": "Margarita Lazevska",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257738176?s=72&u=c5eb3d8d2c1ec66a55e68448befd20dc0eb42c5d&v=4",
+    "location": "Macedonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-28T09:21:44Z"
+  }
+]

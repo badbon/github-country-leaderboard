@@ -22,5 +22,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-15T08:48:36Z"
+  },
+  {
+    "login": "andrekabembatambwe",
+    "name": "André Kabemba Tambwe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279051170?s=72&u=7bc8c624b9a5608205cfc54553d617205d9f58ef&v=4",
+    "location": "Bunia, Democratic Republic Of Congo",
+    "company": "Basje Innovations",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-24T16:36:47Z"
+  },
+  {
+    "login": "tresorvakekya-ux",
+    "name": "Trésor Vakekya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261726225?s=72&u=b92fdf74d63618e8bab15ba680e8b8624f999ea2&v=4",
+    "location": "DR Congo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-02-15T08:49:43Z"
+  },
+  {
+    "login": "berthollet-mun",
+    "name": "Berthollet Munihire",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257376958?s=72&v=4",
+    "location": "Democratic Republic of the Congo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 88,
+    "publicContributions": 160,
+    "createdAt": "2026-01-26T19:20:42Z"
   }
 ]
