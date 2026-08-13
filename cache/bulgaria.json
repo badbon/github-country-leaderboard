@@ -3106,5 +3106,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-10-06T08:38:51Z"
+  },
+  {
+    "login": "orion877",
+    "name": "Zhivko Georgiev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/242933563?s=72&u=14e8a4bfaaf61aadc03864a7c1c602850a03678f&v=4",
+    "location": "Burgas",
+    "company": "Vi Team Security Group ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2025-11-09T11:13:54Z"
+  },
+  {
+    "login": "ITGeorgiev24",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207976235?s=72&u=f0617e18730f6311d317d2fa869b43fa24c1e26a&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 36,
+    "publicContributions": 106,
+    "createdAt": "2025-04-17T06:04:29Z"
+  },
+  {
+    "login": "DarkFlameSoldier",
+    "name": "Ivo Dimov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205180951?s=72&u=d631503bb7c62b12568d5c6d0291bfc075e6b6af&v=4",
+    "location": "Varna, Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2025-03-27T12:56:12Z"
+  },
+  {
+    "login": "sldimitrov3",
+    "name": "Slavi Dimitrov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224576243?s=72&u=8b9effb9305f7933f0f4ef90489f697bf2e25e8c&v=4",
+    "location": "Burgas",
+    "company": "@HackSoftware",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-08-04T12:13:17Z"
   }
 ]

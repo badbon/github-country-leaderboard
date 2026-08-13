@@ -418,5 +418,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-14T14:18:42Z"
+  },
+  {
+    "login": "adriankuklinski",
+    "name": "Adrian Kuklinski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74272632?s=72&u=0b6d6f90b04ed7e934003c52578a56b027cc3c89&v=4",
+    "location": "George Town, Cayman Islands",
+    "company": "Tenet Bank",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 9,
+    "publicContributions": 0,
+    "createdAt": "2020-11-10T22:15:27Z"
+  },
+  {
+    "login": "evandrosaturnino",
+    "name": "Evandro Saturnino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60587527?s=72&u=37d4271879a6dd4befd87785bec02dde7278f34c&v=4",
+    "location": "Cayman Islands",
+    "company": "@etherfi-protocol",
+    "twitterUsername": "evandro_saturn",
+    "followers": 5,
+    "privateContributions": 5193,
+    "publicContributions": 101,
+    "createdAt": "2020-02-03T00:22:42Z"
+  },
+  {
+    "login": "enelmes-godaddy",
+    "name": "Elena Nelmes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72561758?s=72&u=674288b926a96f2a24e93fca42761414ff3a39a9&v=4",
+    "location": "George Town, Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-08T13:56:06Z"
+  },
+  {
+    "login": "aaron-cov",
+    "name": "Aaron Vaitekunas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65589943?s=72&u=b349aff6eb94b3b8194d9daa9a23d22b0e7649e7&v=4",
+    "location": "Cayman Islands",
+    "company": "Covalis Capital",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-19T07:07:28Z"
+  },
+  {
+    "login": "fresh-y",
+    "name": "freshy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73777643?s=72&u=ac45615725251a48f595a9248e93b8871e4ab1b3&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-01T10:25:35Z"
   }
 ]

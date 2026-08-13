@@ -2864,7 +2864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 55,
     "createdAt": "2025-05-13T20:56:56Z"
   },
   {
@@ -3370,5 +3370,29 @@
     "privateContributions": 2167,
     "publicContributions": 16,
     "createdAt": "2025-06-16T18:34:37Z"
+  },
+  {
+    "login": "marcosediniz",
+    "name": "Marcos Diniz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/236068984?s=72&u=4a67402fbbbc24740aaef971645d4aa22b4116e3&v=4",
+    "location": "Talatona, Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2025-10-04T14:38:28Z"
+  },
+  {
+    "login": "GSQUOTZ23",
+    "name": "GS QUOTZ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201370766?s=72&u=e89c70059b55d5259e167552d305ce86333fd0c2&v=4",
+    "location": "LUANDA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2025-03-01T16:00:57Z"
   }
 ]

@@ -1774,5 +1774,29 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2025-08-18T07:31:43Z"
+  },
+  {
+    "login": "iAMgarbagecollector",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224006182?s=72&u=adfc9e74af1618edac728a400c26c135ccca1f52&v=4",
+    "location": "Ginevra, Svizzera",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2025-08-01T06:43:42Z"
+  },
+  {
+    "login": "hacknowmintwallet",
+    "name": "HackNOW",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214172542?s=72&u=0ed1e022d4ea6e388de812de7ec1b1b816f17459&v=4",
+    "location": "🇨🇭 Svizzera",
+    "company": "HacKNOW",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2025-05-30T19:05:05Z"
   }
 ]

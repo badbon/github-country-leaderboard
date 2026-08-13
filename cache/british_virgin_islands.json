@@ -70,5 +70,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-26T09:12:33Z"
+  },
+  {
+    "login": "taginternet-opensource",
+    "name": "TAGInternet Opensource",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132246237?s=72&u=0a584202fa0b426702679a38e936fa904a0df0b4&v=4",
+    "location": "British Virgin Islands",
+    "company": "TAGInternet Limited",
+    "twitterUsername": "InternetTag",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-01T04:20:56Z"
+  },
+  {
+    "login": "Fraodd",
+    "name": "Fraodd",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153751665?s=72&u=1ec7187e4a562b9db1c4a47f607f7576589a3bc5&v=4",
+    "location": "Tortola, British Virgin Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2023-12-13T15:28:23Z"
   }
 ]

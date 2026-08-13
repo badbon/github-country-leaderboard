@@ -152,7 +152,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6304,
+    "publicContributions": 6312,
     "createdAt": "2026-01-19T11:24:45Z"
   },
   {
@@ -836,7 +836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 246,
+    "publicContributions": 249,
     "createdAt": "2026-04-19T20:23:46Z"
   },
   {
@@ -1438,5 +1438,161 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-12-28T00:55:34Z"
+  },
+  {
+    "login": "austriagoverment",
+    "name": "Vlad DIdyk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275257252?s=72&u=d6374e59ae9f37e15e31eefe0c67dbcf2decb18a&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 14,
+    "publicContributions": 37,
+    "createdAt": "2026-04-11T08:36:54Z"
+  },
+  {
+    "login": "CWfrodz",
+    "name": "Пархоменко Олексій",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255468812?s=72&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2026-01-17T03:44:31Z"
+  },
+  {
+    "login": "ajax-slyshyk-o",
+    "name": "Oleksii Slyshyk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257489640?s=72&u=cac2df845f80f1e9f475dc364c208bcc1d306772&v=4",
+    "location": "Kyiv",
+    "company": "Ajax",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2026-01-27T09:03:37Z"
+  },
+  {
+    "login": "kartem8",
+    "name": "Artem Kornieiev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261950346?s=72&u=78f4577cc65a7116b4d9c0402e55f64d3ce2c659&v=4",
+    "location": "Kyiv",
+    "company": "Tusella",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-16T15:27:14Z"
+  },
+  {
+    "login": "mhorbareko",
+    "name": "Mariia Horbarenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279657227?s=72&v=4",
+    "location": "Kyiv",
+    "company": "KPMG Ukraine",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-27T08:40:15Z"
+  },
+  {
+    "login": "vguliai",
+    "name": "Vitalii Guliai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267019829?s=72&u=6651a8e1149753663d807a4392c65c955d9f8579&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-10T11:32:46Z"
+  },
+  {
+    "login": "chshr247",
+    "name": "Viacheslav Mokliak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254565349?s=72&u=82050fec234463567e90602f7557d7239f890706&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 518,
+    "publicContributions": 358,
+    "createdAt": "2026-01-12T23:12:15Z"
+  },
+  {
+    "login": "OleksiiVol",
+    "name": "Oleksii Voloshchuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273609999?s=72&u=14c439aedc0fe30fef257d031c13e27566e84f51&v=4",
+    "location": "Kyiv",
+    "company": " National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-04T17:29:38Z"
+  },
+  {
+    "login": "0xSAMMYx0",
+    "name": "Serhiy Lukin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270211425?s=72&u=3202a03808b0fb3648f451bcdf7b101c6e9cc132&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 8,
+    "publicContributions": 11,
+    "createdAt": "2026-03-22T22:42:06Z"
+  },
+  {
+    "login": "sonik-boom71",
+    "name": "maximko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258184758?s=72&u=6c0ef74ff9cdc4ca4ee9e6e76a3471be2d9df3a4&v=4",
+    "location": "Kyiv",
+    "company": "IT-Friends",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 286,
+    "createdAt": "2026-01-30T08:16:33Z"
+  },
+  {
+    "login": "LisovaAnalyst",
+    "name": "Olena Lisova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278885861?s=72&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2026-04-24T05:32:36Z"
+  },
+  {
+    "login": "epam-lahovskyiadam",
+    "name": "Adam Lahovskyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259292147?s=72&v=4",
+    "location": "Kyiv",
+    "company": "EPAM",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-02-04T08:55:25Z"
+  },
+  {
+    "login": "olenasikoza",
+    "name": "Olena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257110912?s=72&u=835dc306644046ef5742cf7d7d2be57ebf370d93&v=4",
+    "location": "Kyiv",
+    "company": "@Bookimed",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-01-25T12:40:02Z"
   }
 ]

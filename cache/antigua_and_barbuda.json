@@ -58,5 +58,29 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2021-05-04T17:50:17Z"
+  },
+  {
+    "login": "lerontonge",
+    "name": "Leron T",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73184944?s=72&v=4",
+    "location": "Antigua and Barbuda",
+    "company": "\\\\",
+    "twitterUsername": "UnderpaidDev",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-10-20T15:16:26Z"
+  },
+  {
+    "login": "nucleuskore",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64737866?s=72&v=4",
+    "location": "Antigua and Barbuda",
+    "company": "American University of Antigua College of Medicine",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-03T13:46:49Z"
   }
 ]

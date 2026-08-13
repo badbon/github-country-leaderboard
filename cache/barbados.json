@@ -502,5 +502,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-30T21:01:07Z"
+  },
+  {
+    "login": "sramharack",
+    "name": "Shankar Ramharack",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61942664?s=72&u=fee90f9b82bbf0e6a87e7bfb0819a64912b330df&v=4",
+    "location": "St. Phillips, Barbados, W.I.",
+    "company": "M&E Partners Limited",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 9,
+    "publicContributions": 88,
+    "createdAt": "2020-03-08T15:38:40Z"
+  },
+  {
+    "login": "dario-j-c",
+    "name": "Dario J C",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70281924?s=72&u=07bd02cfca0e85735ab0cd036968caec8b833233&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1363,
+    "publicContributions": 86,
+    "createdAt": "2020-08-26T16:09:40Z"
+  },
+  {
+    "login": "kcrtr",
+    "name": "Karry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75222674?s=72&u=8f17a58c078d826a61af99f640bbcbc28caeb635&v=4",
+    "location": "Barbados",
+    "company": "@bytebottech",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-29T20:14:41Z"
+  },
+  {
+    "login": "baebranch",
+    "name": "Brian Branch",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66740223?s=72&u=c7704cbda9a29fca903b1f73d7ace505222ece3c&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "baebranch",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 79,
+    "createdAt": "2020-06-10T15:25:17Z"
+  },
+  {
+    "login": "kkirpalani90",
+    "name": "Kumar Kirpalani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69134889?s=72&v=4",
+    "location": "Bridgetown, Barbados",
+    "company": "",
+    "twitterUsername": "KumarKirpalani1",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-03T04:51:01Z"
+  },
+  {
+    "login": "hpgDesigns",
+    "name": "Hugar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75296992?s=72&u=e5da05a5ecc55dcb0c29bb63e33aa1301e3804de&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "Patrick21019265",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-01T06:32:41Z"
+  },
+  {
+    "login": "cdemageocris",
+    "name": "cdemageocris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64660952?s=72&u=422c9e8d43b7f579b5df7994cedb9397590c8c44&v=4",
+    "location": "Barbados",
+    "company": "Caribbean Disaster Emergency Management Agency",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-01T19:16:21Z"
+  },
+  {
+    "login": "hakeemt246",
+    "name": "HakeemT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72480210?s=72&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-07T01:55:58Z"
   }
 ]

@@ -1999,7 +1999,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 4955,
+    "privateContributions": 5073,
     "publicContributions": 42,
     "createdAt": "2024-02-02T06:29:22Z"
   },
@@ -2806,5 +2806,89 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-02-05T16:45:43Z"
+  },
+  {
+    "login": "SuperiomEx",
+    "name": "Anthoan de Jesus Linea Perez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166497873?s=72&u=bac861d82c3f26c6113f386f75c2bc21ab51a88f&v=4",
+    "location": "La Havana",
+    "company": "@Digital-Revolution-Cuba ",
+    "twitterUsername": "superionix",
+    "followers": 23,
+    "privateContributions": 262,
+    "publicContributions": 550,
+    "createdAt": "2024-04-09T09:08:47Z"
+  },
+  {
+    "login": "G153LL3",
+    "name": "Yisell Velázquez Ochoa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176239413?s=72&v=4",
+    "location": "Havana",
+    "company": "University of Havana",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2024-07-21T18:44:12Z"
+  },
+  {
+    "login": "HarolMolina",
+    "name": "Harol",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177269038?s=72&u=bcc32d72cf0ad5ffda4f940490e43be264d1f161&v=4",
+    "location": "havana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2024-08-01T20:27:50Z"
+  },
+  {
+    "login": "coquitott",
+    "name": "Keylan Valdés García",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157508589?s=72&u=22b34025dfcb384cbfb29a3fefe05d8935ba68f9&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2024-01-23T15:34:44Z"
+  },
+  {
+    "login": "mandito02",
+    "name": "Jose Armando Diaz Llerena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155505826?s=72&u=362f4a94df58ebf24ea4f87c3725811df7805ef4&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-03T03:10:40Z"
+  },
+  {
+    "login": "tax-evasionmaster33",
+    "name": "...",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170672734?s=72&u=d962828e49b1f2385364380893f102c6d159d0cd&v=4",
+    "location": "Havana",
+    "company": "Universidad de la Habana",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2024-05-23T20:05:02Z"
+  },
+  {
+    "login": "rlacoste05",
+    "name": "René ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163374106?s=72&u=8933879efd428d723fcf98f086a60ed5d9d7d4dc&v=4",
+    "location": "La Havana",
+    "company": "Tidee",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-14T03:26:12Z"
   }
 ]

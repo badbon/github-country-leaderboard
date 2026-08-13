@@ -1160,7 +1160,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 302,
+    "publicContributions": 334,
     "createdAt": "2026-05-07T10:32:36Z"
   },
   {
@@ -4918,5 +4918,149 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-25T17:33:04Z"
+  },
+  {
+    "login": "dgdev25",
+    "name": "Lyle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269683623?s=72&u=de611ce582a2a7661f882a0dc0eb5aff2fb5e5bf&v=4",
+    "location": "Bristol, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 683,
+    "createdAt": "2026-03-20T09:11:01Z"
+  },
+  {
+    "login": "Francaedoga",
+    "name": "Franca Edoga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259711740?s=72&u=36d0de29b58e7ce23e103a9810449e3c6e62d778&v=4",
+    "location": "Bristol",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2026-02-05T21:21:36Z"
+  },
+  {
+    "login": "vexidus-labs",
+    "name": "Vexidus Labs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266858061?s=72&u=adc3f94e9e72244395dbc45b254036aba312f4ff&v=4",
+    "location": "Bristol, UK",
+    "company": "Vexidus Labs Ltd",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-03-09T21:27:54Z"
+  },
+  {
+    "login": "Suki0515",
+    "name": "Suki Dai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257459041?s=72&u=d7e1fecdf6540ce218025f89b49f0ab04931821b&v=4",
+    "location": "bristol",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2026-01-27T06:09:21Z"
+  },
+  {
+    "login": "L0RDVOLDERMOT",
+    "name": "Chibuike Ojukwu Clement",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275173212?s=72&v=4",
+    "location": "Bristol, TN",
+    "company": "Kingspan Data Solutions (Tate Global)",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-04-10T20:14:53Z"
+  },
+  {
+    "login": "seabbs-bot",
+    "name": "Sam Abbott (bot)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256795758?s=72&u=93f77f6aa72ea04222c2d35599e7e6a5f53cae18&v=4",
+    "location": "Bristol",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6041,
+    "createdAt": "2026-01-23T13:36:14Z"
+  },
+  {
+    "login": "ahmadforoutankalourazi",
+    "name": "Ahmad Foroutan Kalourazi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273135550?s=72&u=2baa9fe404cedcd6753679ee61783ff834879d5f&v=4",
+    "location": "Bristol, UK",
+    "company": "Universiy of Bristol",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2026-04-02T14:48:17Z"
+  },
+  {
+    "login": "shiqianme",
+    "name": "shiqian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281494920?s=72&v=4",
+    "location": "Bristol ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-04T00:29:55Z"
+  },
+  {
+    "login": "engineerammarhashim",
+    "name": "Ammar Hashim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284149791?s=72&u=8ce087cc13ff24981094c4dd9a3de0c73bdabb69&v=4",
+    "location": "Bristol, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-05-12T23:26:10Z"
+  },
+  {
+    "login": "AneaGarcia",
+    "name": "Alan Cook",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277619716?s=72&u=85ad43bf42d2138ac4b2ef2d7a7de5df82b84134&v=4",
+    "location": "Parker Road, Bristol UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-04-20T04:14:29Z"
+  },
+  {
+    "login": "Jizhe-Jin",
+    "name": "JIZHE JIN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256140157?s=72&v=4",
+    "location": "Bristol",
+    "company": "University of bristol",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2026-01-20T15:20:40Z"
+  },
+  {
+    "login": "deancooke05",
+    "name": "Dean Cooke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254965692?s=72&u=bcd1c8e0ef7e80eb08c52c9bd8043736f21f9deb&v=4",
+    "location": "bristol",
+    "company": "UWE student",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 68,
+    "createdAt": "2026-01-14T17:50:51Z"
   }
 ]

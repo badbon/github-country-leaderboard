@@ -320,7 +320,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 65,
     "createdAt": "2025-09-12T11:04:09Z"
   },
   {
@@ -4126,5 +4126,125 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-12T06:48:12Z"
+  },
+  {
+    "login": "YslamB",
+    "name": "Yslam Berdaliyev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77550435?s=72&u=401358ad809d979456ac5d9ea0757aca47392f18&v=4",
+    "location": "Ashgabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 42,
+    "privateContributions": 1440,
+    "publicContributions": 177,
+    "createdAt": "2021-01-16T19:32:38Z"
+  },
+  {
+    "login": "danifdev",
+    "name": "danisultan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90039480?s=72&u=61793a6617538877368ba332a73483161b1bd597&v=4",
+    "location": "Ashgabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 182,
+    "publicContributions": 6,
+    "createdAt": "2021-09-03T10:32:19Z"
+  },
+  {
+    "login": "rasulow",
+    "name": "Arslan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91959072?s=72&u=5daaa6d707fcba5bf6f437a48cd74a90f234b0f0&v=4",
+    "location": "Ashgabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 121,
+    "createdAt": "2021-10-05T12:44:01Z"
+  },
+  {
+    "login": "enzadevs",
+    "name": "Enza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79910926?s=72&u=cc7005977f05fa9eaf7442bda7669f9001421989&v=4",
+    "location": "Ashgabat",
+    "company": "\"Alem Tilsimat\" HJ",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-03-02T11:11:06Z"
+  },
+  {
+    "login": "azamatos",
+    "name": "Azamat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87179356?s=72&u=24dd45200caba1c66a5f3dc0d5e83237eaba9aa9&v=4",
+    "location": "Ashgabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2021-07-09T09:45:32Z"
+  },
+  {
+    "login": "EmranP",
+    "name": "Emran",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91694053?s=72&u=8cc3bae6a94bad4b1b0ba33024acf3da1977d08f&v=4",
+    "location": "Ashgabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 24,
+    "publicContributions": 176,
+    "createdAt": "2021-09-30T18:13:44Z"
+  },
+  {
+    "login": "Muhammedalihudaybergenow",
+    "name": "DevMuhammedali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94282427?s=72&v=4",
+    "location": "Ashgabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 83,
+    "createdAt": "2021-11-14T07:30:11Z"
+  },
+  {
+    "login": "babo-dev",
+    "name": "Babo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78541699?s=72&v=4",
+    "location": "Ashgabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2021-02-04T12:06:16Z"
+  },
+  {
+    "login": "sapar2003",
+    "name": "sapar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87119344?s=72&u=b0e193aaf698536889f8e51d650ae79cd4addcb8&v=4",
+    "location": "Ashgabat",
+    "company": "Bezen",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-07-08T08:30:39Z"
+  },
+  {
+    "login": "Iska0910",
+    "name": "Ysmayyl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93720725?s=72&v=4",
+    "location": "Ashgabat",
+    "company": "TP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-04T14:08:39Z"
   }
 ]
