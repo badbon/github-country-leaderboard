@@ -934,5 +934,41 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2025-06-30T16:00:12Z"
+  },
+  {
+    "login": "RolandoCentu",
+    "name": "Rolando Centurión",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/239424116?s=72&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 94,
+    "createdAt": "2025-10-21T18:41:53Z"
+  },
+  {
+    "login": "PAPiRECA",
+    "name": "Enzo Recalde",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232697586?s=72&v=4",
+    "location": "Asunción",
+    "company": "Eglobalt S.A",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 47,
+    "createdAt": "2025-09-16T23:29:33Z"
+  },
+  {
+    "login": "kevinmzte",
+    "name": "Kevin Mazacote",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/223530544?s=72&u=dfc265d19186493757ff4fb900bbb8cd190c09c9&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2025-07-29T17:32:44Z"
   }
 ]

@@ -190,5 +190,41 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2022-07-11T02:34:21Z"
+  },
+  {
+    "login": "BJ-Cochrane",
+    "name": "Ben Cochrane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100991679?s=72&u=555ba9484e4f0b42164083dd0c6954aa16fd89a7&v=4",
+    "location": "Nouméa",
+    "company": "Pacific Community | Communauté de Pacifique",
+    "twitterUsername": "BenCochraneR",
+    "followers": 4,
+    "privateContributions": 479,
+    "publicContributions": 83,
+    "createdAt": "2022-03-05T07:57:45Z"
+  },
+  {
+    "login": "morgancarre",
+    "name": "CARRE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113399166?s=72&u=a3117b74d25d9fb3bc684d966a626fd0fb134ffc&v=4",
+    "location": "Nouméa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2022-09-13T00:34:45Z"
+  },
+  {
+    "login": "nicolasfaure988",
+    "name": "Nicolas FAURE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97413999?s=72&v=4",
+    "location": "Nouméa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-09T23:08:30Z"
   }
 ]

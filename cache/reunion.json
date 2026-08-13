@@ -166,5 +166,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-08-28T20:31:03Z"
+  },
+  {
+    "login": "Titide42",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147083993?s=72&u=a4d1e0e6b2d7f3b141e11b5637a100cbf04dc0a6&v=4",
+    "location": "Réunion",
+    "company": "Digitalntech",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2023-10-05T16:03:17Z"
+  },
+  {
+    "login": "shiguxx0",
+    "name": "Shigu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147331816?s=72&u=92c731f7448e2422c272a0e03bb6052a8197238d&v=4",
+    "location": "France, Réunion Island",
+    "company": "",
+    "twitterUsername": "shiguxx0",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-10-08T15:36:17Z"
+  },
+  {
+    "login": "gfo974",
+    "name": "Geoffrey Fournier ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130528823?s=72&u=dcb258cfccd574268bac2613370cdba9b3039eca&v=4",
+    "location": "Réunion Island",
+    "company": "@arribada ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 401,
+    "publicContributions": 482,
+    "createdAt": "2023-04-12T03:43:23Z"
+  },
+  {
+    "login": "mondial974",
+    "name": "Jérôme Fontaine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141268630?s=72&v=4",
+    "location": "Sainte Suzanne (Réunion)",
+    "company": "INFRABAT INGENIERIE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-08-02T18:06:59Z"
+  },
+  {
+    "login": "GITKLM",
+    "name": "KLM PRT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152407061?s=72&v=4",
+    "location": "Saint-Denis, La Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-29T13:55:13Z"
+  },
+  {
+    "login": "R3C0N3RR0R",
+    "name": "NNBB",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/140954040?s=72&u=bbb0eb2e4f161e12b7697e422f26d9d321bf7f28&v=4",
+    "location": "Réunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2023-07-30T12:00:23Z"
+  },
+  {
+    "login": "vincent-alxr",
+    "name": "Vincent HERMANN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126672324?s=72&u=d29ce523b177bb604ff2a341fcf6051608b53b3d&v=4",
+    "location": "Réunion",
+    "company": "@Alixir-studio ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-01T11:10:42Z"
+  },
+  {
+    "login": "WD3-Steven",
+    "name": "Steven ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147190886?s=72&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-06T17:30:35Z"
   }
 ]

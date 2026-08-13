@@ -258,7 +258,7 @@
     "location": "str. 31 August 1989, 127, Chișinău, Moldova",
     "company": "maib",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-12-17T06:42:06Z"
@@ -706,5 +706,29 @@
     "privateContributions": 442,
     "publicContributions": 97,
     "createdAt": "2025-07-13T17:46:45Z"
+  },
+  {
+    "login": "Dan0MD",
+    "name": "Dan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235453326?s=72&u=08d4ce881503b9b61792180a32c1d299bc73f8c1&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 85,
+    "createdAt": "2025-10-01T07:10:42Z"
+  },
+  {
+    "login": "DumitruBufteag",
+    "name": "Dumitru Bufteag",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216544644?s=72&u=5e0e1b4d8f3c1dbbc2bedbd10ca1feabcac8c504&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 98,
+    "createdAt": "2025-06-16T13:04:23Z"
   }
 ]

@@ -2446,5 +2446,41 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-04-29T14:21:38Z"
+  },
+  {
+    "login": "naturedesk",
+    "name": "NatureDesk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273991865?s=72&u=7f163a1fff190563ca367bf7cfc7330bc7531d06&v=4",
+    "location": "The Hague",
+    "company": "Nature AI Governance Lab",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2026-04-06T11:38:43Z"
+  },
+  {
+    "login": "ethan-rey",
+    "name": "Ethan Rey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280064435?s=72&u=2bf6d3ca45a846c8cfaeea0882c7b337137b020a&v=4",
+    "location": "The Hague",
+    "company": "@Dancify-Official",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-28T15:15:05Z"
+  },
+  {
+    "login": "BulutCNR",
+    "name": "Bulut Caner",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256140100?s=72&u=bc5284e4d0f3271aabaa74d4caea50104404c724&v=4",
+    "location": "The Hague",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 70,
+    "createdAt": "2026-01-20T15:20:28Z"
   }
 ]

@@ -34,5 +34,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-30T12:17:53Z"
+  },
+  {
+    "login": "archham",
+    "name": "Nicolas Eberle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166602325?s=72&u=764c973fc98244b88f6f09b4e0aba2f9169e4471&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 3,
+    "publicContributions": 389,
+    "createdAt": "2024-04-10T09:06:24Z"
+  },
+  {
+    "login": "silvermono",
+    "name": "Simonna Monte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190155293?s=72&u=269bcc0e71d669ce4458100adae2201b3058dce0&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2024-11-30T03:27:42Z"
   }
 ]

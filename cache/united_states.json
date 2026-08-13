@@ -32527,8 +32527,8 @@
     "company": "Critical Mass Labs",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 1553,
-    "publicContributions": 285,
+    "privateContributions": 1556,
+    "publicContributions": 292,
     "createdAt": "2026-01-20T00:42:15Z"
   },
   {
@@ -39274,5 +39274,113 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-25T19:21:41Z"
+  },
+  {
+    "login": "Siddhachalam",
+    "name": "Siddhachalam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232479365?s=72&u=98db28f762c921e230672a8d7c060e9d5c41adba&v=4",
+    "location": "New Jersey, USA",
+    "company": "@International-Mahavira-Jain-Mission ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-09-16T00:32:08Z"
+  },
+  {
+    "login": "ub01root",
+    "name": "Root",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225293763?s=72&u=d6f02ef599bc97a1e1b3079172ea776a5c9349a4&v=4",
+    "location": "United States, New jersey",
+    "company": "SecurityX",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 90,
+    "createdAt": "2025-08-08T00:09:13Z"
+  },
+  {
+    "login": "noel-esg-plbk",
+    "name": "Noel ESG Dev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/220192045?s=72&v=4",
+    "location": "New Jersey, USA",
+    "company": "ESG Playbook App",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-07-10T12:03:58Z"
+  },
+  {
+    "login": "omanishay-cyber",
+    "name": "Anish Trivedi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229182351?s=72&u=5fddb7f49034dee8c8c2674fe43e5bf64fc75dd8&v=4",
+    "location": "New Jersey, USA",
+    "company": "GraphicsDoor",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 497,
+    "createdAt": "2025-08-28T17:48:35Z"
+  },
+  {
+    "login": "mehrwanhashmi-cloud",
+    "name": "Mehrwan_W_Hashmi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/240196602?s=72&u=62d63b5a14d2048474a095c4eb41478e1dbe59f7&v=4",
+    "location": "New Jersey, United States",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 79,
+    "createdAt": "2025-10-25T16:04:33Z"
+  },
+  {
+    "login": "Mariamzoair",
+    "name": "Mariam Zoair",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217856618?s=72&u=4601c9d09df8951bd4dbc3064c3da6c03f4a85a4&v=4",
+    "location": "New Jersey / New York ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2025-06-25T02:46:13Z"
+  },
+  {
+    "login": "themory74",
+    "name": "Mory Doukoure",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/240804714?s=72&u=0b71c12e015e3ed623827bae4ef5cc9724b9ad4a&v=4",
+    "location": "New Jersey, USA",
+    "company": "True Prime Digital",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-10-28T22:19:22Z"
+  },
+  {
+    "login": "pylajitendra",
+    "name": "Jitendra Pyla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99509069?s=72&v=4",
+    "location": "Plymouth, MN, USA.",
+    "company": "",
+    "twitterUsername": "jitendra_pyla",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2022-02-11T20:21:30Z"
+  },
+  {
+    "login": "sqrt42",
+    "name": "√42",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102050884?s=72&u=f812c5b45d598b6b4fc25d31bd2f38502a73b559&v=4",
+    "location": "Plymouth, New Hampshire, United States",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-21T16:10:36Z"
   }
 ]

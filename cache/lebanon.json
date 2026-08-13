@@ -499,7 +499,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1367,
+    "privateContributions": 1388,
     "publicContributions": 41,
     "createdAt": "2025-07-24T07:10:50Z"
   },
@@ -1774,5 +1774,113 @@
     "privateContributions": 0,
     "publicContributions": 224,
     "createdAt": "2025-03-02T04:11:01Z"
+  },
+  {
+    "login": "mostafam23",
+    "name": "Mostafa El Mohammad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227601896?s=72&u=5094a10b7d29ccc73768a5fb0018e78aeb179127&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 111,
+    "createdAt": "2025-08-20T12:46:06Z"
+  },
+  {
+    "login": "hamzehabbass",
+    "name": "Hamza A.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245740064?s=72&u=c019523553e5f91826a39aaa0877d964d33d348b&v=4",
+    "location": "Beirut,Leb",
+    "company": "VerixDev",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2025-11-23T18:47:37Z"
+  },
+  {
+    "login": "NadimPy",
+    "name": "Nadim Chendy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196479572?s=72&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 72,
+    "publicContributions": 125,
+    "createdAt": "2025-01-25T20:38:22Z"
+  },
+  {
+    "login": "foufafd6-web",
+    "name": "foufa-thelazycoder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233411394?s=72&v=4",
+    "location": "beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2025-09-20T08:22:18Z"
+  },
+  {
+    "login": "ahmadalsaghir605-png",
+    "name": "Ahmad Al Saghir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232363548?s=72&u=59998e061d560a99673b2a3fff2aa58c9c1d89de&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-09-15T11:51:08Z"
+  },
+  {
+    "login": "ahmad-jaffal-ev",
+    "name": "Ahmad Jaffal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201557188?s=72&u=79b6fc3e6e9d52a7e51feffc154b6abbd87b9502&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2322,
+    "publicContributions": 1,
+    "createdAt": "2025-03-03T08:32:32Z"
+  },
+  {
+    "login": "zainabkanaan29-ui",
+    "name": "Zainab Kanaan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232166968?s=72&v=4",
+    "location": "Beirut",
+    "company": "#",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-09-14T08:06:07Z"
+  },
+  {
+    "login": "Mazen-k",
+    "name": "Mazen Kaikaty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193370132?s=72&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2025-01-01T01:14:36Z"
+  },
+  {
+    "login": "Taha-Ajouz",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/237077815?s=72&u=7c9b1b07ce8c04a58e0c1e5e1a2cef4963b294dd&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2025-10-09T15:45:29Z"
   }
 ]

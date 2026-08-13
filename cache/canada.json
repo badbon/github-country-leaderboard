@@ -7030,5 +7030,53 @@
     "privateContributions": 0,
     "publicContributions": 47,
     "createdAt": "2022-01-16T09:18:59Z"
+  },
+  {
+    "login": "nawfallodhi",
+    "name": "Nawfal Lodhi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235422290?s=72&u=f09eba5dde8a7f066774f3c5ffd53ea78ef4a65f&v=4",
+    "location": "Victoria, British Columbia, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 159,
+    "createdAt": "2025-10-01T02:31:31Z"
+  },
+  {
+    "login": "urielconod",
+    "name": "Uriel Conod",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197137144?s=72&u=5d609b3fb68df15192ab3684cdc4ecf33b216f98&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "University of British Columbia, National Research Council Canada",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 15,
+    "publicContributions": 0,
+    "createdAt": "2025-01-30T21:01:50Z"
+  },
+  {
+    "login": "westendorfcole",
+    "name": "Cole Westendorf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195835934?s=72&u=1fe8b0705439f91c770799a15e415c46f4c27537&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-01-21T01:05:16Z"
+  },
+  {
+    "login": "sfc-gh-pramsey",
+    "name": "Paul Ramsey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215595847?s=72&u=bb1c659bb027e6095fbb1379724767085c658e30&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "@snowflakedb ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2025-06-09T23:00:08Z"
   }
 ]

@@ -5026,5 +5026,53 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2026-02-10T15:52:38Z"
+  },
+  {
+    "login": "kkerembeyaz",
+    "name": "Kerem Beyaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280639600?s=72&v=4",
+    "location": "Bursa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-04-30T08:32:19Z"
+  },
+  {
+    "login": "BLT-PROJECT",
+    "name": "Beyond Limits Group",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254447607?s=72&u=af4401a034293c8e65faba11c21fcba44309ad15&v=4",
+    "location": "Bursa",
+    "company": "Beyond Limits Group",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 41,
+    "publicContributions": 1,
+    "createdAt": "2026-01-12T11:55:22Z"
+  },
+  {
+    "login": "zehrakaya1928-hue",
+    "name": "Zehra Kaya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277883419?s=72&u=e46ef8b10bb1d834bc13f4c7f6c9a8fafce4877c&v=4",
+    "location": "Bursa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-04-20T20:33:29Z"
+  },
+  {
+    "login": "0x81han",
+    "name": "Emirhan Yeşildağ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273422136?s=72&u=0a7a876ad8ac871012f0eb4541aaaf35557c75c8&v=4",
+    "location": "Bursa/Türkiye",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-03T18:27:11Z"
   }
 ]

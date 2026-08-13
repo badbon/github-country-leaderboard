@@ -2998,5 +2998,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-10-19T21:48:07Z"
+  },
+  {
+    "login": "latstanislav",
+    "name": "Stanislav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/218364492?s=72&u=2212b3ae580cc84478c842dd0c344733cfec52ca&v=4",
+    "location": "Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 154,
+    "publicContributions": 37,
+    "createdAt": "2025-06-28T11:21:12Z"
+  },
+  {
+    "login": "bayskak",
+    "name": "byskak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/226861400?s=72&u=babc6a61e89f7f2ac02eb86120ea0c46dd19b4c5&v=4",
+    "location": "Astana, Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 278,
+    "createdAt": "2025-08-16T12:16:25Z"
+  },
+  {
+    "login": "gragonlab",
+    "name": "Gragon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214110830?s=72&u=9dfa2175339c66d4ada82bac42846228a979cffa&v=4",
+    "location": "Kazakhstan  ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-05-30T10:37:15Z"
+  },
+  {
+    "login": "Bakhyzh",
+    "name": "Bakhyt Zharkynbek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208457023?s=72&u=036deb54c5cd103239de6b7ccd901c445b2ebd2d&v=4",
+    "location": "Kazakhstan / Almaty",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 231,
+    "createdAt": "2025-04-21T09:24:01Z"
   }
 ]

@@ -5782,5 +5782,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-14T08:52:06Z"
+  },
+  {
+    "login": "Yipno",
+    "name": "Aubry Gamard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142684910?s=72&u=62aaa5a3fa0d5058c1777ee09c054a2a82783961&v=4",
+    "location": "Saint-Paul, La Réunion, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 230,
+    "createdAt": "2023-08-19T17:02:42Z"
+  },
+  {
+    "login": "TrebleBleed",
+    "name": "Spirals Lab.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148644380?s=72&u=03ad22890c6d0bf10f86becb5f2e0a93fe6f51fe&v=4",
+    "location": "La Réunion, France",
+    "company": "Spirals Lab.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-21T16:25:50Z"
   }
 ]
