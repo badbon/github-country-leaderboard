@@ -130,5 +130,53 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-03-17T18:12:21Z"
+  },
+  {
+    "login": "berbicanes",
+    "name": "Anes Berbic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259765224?s=72&u=c4ffd0f966a20bfef835220dcb02263761c9817c&v=4",
+    "location": "Sarajevo",
+    "company": "Dispatch Integration",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 0,
+    "publicContributions": 362,
+    "createdAt": "2026-02-06T03:16:33Z"
+  },
+  {
+    "login": "bakirgdev-symphony",
+    "name": "Bakir Gracic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268605636?s=72&u=285e2aad598a708ce51f1262eb1123b4161a413c&v=4",
+    "location": "Sarajevo, Bosnia (Greenpark Hub)",
+    "company": "@SymphonyGroup (Symphony.is)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 566,
+    "publicContributions": 93,
+    "createdAt": "2026-03-16T12:03:55Z"
+  },
+  {
+    "login": "amarcosic7",
+    "name": "Amar Cosic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275467100?s=72&u=47a68ff8102b268e1f79169a3312139daee73341&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 150,
+    "createdAt": "2026-04-12T12:01:16Z"
+  },
+  {
+    "login": "Antares-rising-star",
+    "name": "Antares | Rising star",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283143709?s=72&u=9a76f2e8d3b260cbb220587caa576ffa8910f8ea&v=4",
+    "location": "Sarajevo",
+    "company": "Antares d.o.o.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 396,
+    "createdAt": "2026-05-09T11:12:53Z"
   }
 ]

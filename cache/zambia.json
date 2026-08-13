@@ -18,7 +18,7 @@
     "location": "Lusaka , Zambia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 68,
     "createdAt": "2026-01-02T12:29:53Z"
@@ -178,5 +178,41 @@
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2026-04-10T18:38:27Z"
+  },
+  {
+    "login": "tomyxlungu",
+    "name": "Tom",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253957336?s=72&u=71bcd0d3fdc9d1bb19fdb148247ffdc9f427d625&v=4",
+    "location": "Lusaka ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 54,
+    "createdAt": "2026-01-09T15:18:02Z"
+  },
+  {
+    "login": "saraii03",
+    "name": "saraii03",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259613029?s=72&u=e2288762ca9fdbf282c4aa1a1634f18c9f8c1e67&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2026-02-05T15:12:32Z"
+  },
+  {
+    "login": "botcreationambit",
+    "name": "ONYX KISENGA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274913678?s=72&v=4",
+    "location": "Lusaka ",
+    "company": "Fixit",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-04-09T20:29:37Z"
   }
 ]
