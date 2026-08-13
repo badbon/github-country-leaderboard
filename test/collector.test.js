@@ -80,6 +80,48 @@ test("requeues the same page when request budget ends mid-enrichment", async () 
   }
 });
 
+test("requeues the same page when enrichment has transient GitHub failures", async () => {
+  const originalCwd = process.cwd();
+  const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-collector-"));
+  process.chdir(tempDir);
+
+  try {
+    const countries = testCountries(["testland"]);
+    let enrichCalls = 0;
+
+    const client = {
+      async searchUsers() {
+        return {
+          total: 1,
+          incomplete: false,
+          users: [{ login: "retry-me" }],
+          rateLimit: { remaining: 20 }
+        };
+      },
+      async enrichUsers() {
+        enrichCalls += 1;
+        throw Object.assign(new Error("GitHub API request failed: 504"), { status: 504 });
+      }
+    };
+
+    const result = await collect({
+      countries,
+      client,
+      maxQueries: 2,
+      now: new Date("2026-08-13T00:00:00Z"),
+      sleep: async () => {}
+    });
+
+    assert.ok(enrichCalls > 0);
+    assert.equal(result.state.countries.testland.queue[0].page, 1);
+    assert.equal(Object.keys(result.state.countries.testland.completed).length, 0);
+    assert.equal(result.state.stats.usersKept, 0);
+  } finally {
+    process.chdir(originalCwd);
+    await rm(tempDir, { recursive: true, force: true });
+  }
+});
+
 test("migrates v2 state to v3 country state and preserves cache users", async () => {
   const originalCwd = process.cwd();
   const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-collector-"));

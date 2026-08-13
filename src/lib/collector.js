@@ -91,8 +91,15 @@ export async function collect({
         fullyEnriched = false;
         break;
       }
-      const response = await requestWithBackoff(() =>
-        client.enrichUsers({ logins: batch, contributionWindow }), sleep);
+      let response;
+      try {
+        response = await requestWithBackoff(() =>
+          client.enrichUsers({ logins: batch, contributionWindow }), sleep);
+      } catch (error) {
+        if (!isRetryableApiError(error)) throw error;
+        fullyEnriched = false;
+        break;
+      }
       requests += 1;
       state.stats.enrichmentRequests += 1;
       countryState.stats.enrichmentRequests += 1;
@@ -288,8 +295,7 @@ async function requestWithBackoff(request, sleep) {
     try {
       return await request();
     } catch (error) {
-      if (shouldSplitAfterFailure(error)) throw error;
-      if (error.status && error.status !== 403 && error.status !== 429) throw error;
+      if (!isRetryableApiError(error)) throw error;
       attempt += 1;
       const waited = await waitForRateLimit(error, sleep);
       if (!waited && attempt >= 3) throw error;
@@ -300,6 +306,16 @@ async function requestWithBackoff(request, sleep) {
 
 function shouldSplitAfterFailure(error) {
   return error.timeout || error.resourceLimit || error.status === 502 || error.status === 503 || error.status === 504;
+}
+
+function isRetryableApiError(error) {
+  return Boolean(
+    error.timeout ||
+    error.resourceLimit ||
+    error.status === 403 ||
+    error.status === 429 ||
+    (error.status >= 500 && error.status < 600)
+  );
 }
 
 async function persist(state, caches, dryRun) {
