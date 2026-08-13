@@ -1,5 +1,125 @@
 [
   {
+    "login": "CamronJones15",
+    "name": "Camron Jones",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202558546?s=72&u=e4e8f8b23d26055a7a9f107e68844406ff5d78be&v=4",
+    "location": "Athens Georgia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2025-03-09T22:08:48Z"
+  },
+  {
+    "login": "Nic-Polumeyv",
+    "name": "Nic Polumeyv",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162764842?s=72&v=4",
+    "location": "University of Georgia, Athens, GA",
+    "company": "@polumeyv ",
+    "twitterUsername": "polumeyv",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 937,
+    "createdAt": "2024-03-09T00:44:11Z"
+  },
+  {
+    "login": "m0p4rk",
+    "name": "Mose Park",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154101651?s=72&u=afab7609fc1ca2c55bd55a580e5345585b3d1542&v=4",
+    "location": "Athens, Georgia 30602",
+    "company": "University of Georgia",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 2946,
+    "publicContributions": 2,
+    "createdAt": "2023-12-18T00:30:19Z"
+  },
+  {
+    "login": "BrendaMonis",
+    "name": "Brenda Monis Moreno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91157764?s=72&u=5cbf48199879b931d211c0f078083be9367d7ff8&v=4",
+    "location": "Athens - Georgia/EUA",
+    "company": "University of Georgia ",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 5,
+    "publicContributions": 0,
+    "createdAt": "2021-09-21T19:54:01Z"
+  },
+  {
+    "login": "VictorOJ",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66585135?s=72&u=a4f23d0b2e9de3a6de3ec14f39fbce0ac88d6ffd&v=4",
+    "location": "Athens Georgia",
+    "company": "University of Georgia",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-08T04:55:11Z"
+  },
+  {
+    "login": "mattgehr94",
+    "name": "Matthew Gehr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59845253?s=72&u=ccaa9ed944accb58aef4fdf01db93325e38cbce4&v=4",
+    "location": "Athens Georgia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-13T19:29:14Z"
+  },
+  {
+    "login": "mtempleton1",
+    "name": "Matt Templeton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26149060?s=72&v=4",
+    "location": "Athens Georgia",
+    "company": "@origami-medical ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-02T19:31:38Z"
+  },
+  {
+    "login": "autumnboo90",
+    "name": "autumn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19299830?s=72&u=819342cc8cd1c238e191628142fbacd5b8da2daa&v=4",
+    "location": "athens georgia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-11T05:39:12Z"
+  },
+  {
+    "login": "LincolnLedet",
+    "name": "Lincoln Ledet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14131696?s=72&u=392553076ddcba0f2c0943f96fd3789ebad096de&v=4",
+    "location": "Athens Georgia",
+    "company": "OrderIQ",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 701,
+    "publicContributions": 41,
+    "createdAt": "2015-09-04T20:31:38Z"
+  },
+  {
+    "login": "jhroach14",
+    "name": "James Roach",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12089258?s=72&u=bd644ee49c04716d442de47b76cafbc96d35fd79&v=4",
+    "location": "Athens Georgia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-23T19:03:07Z"
+  },
+  {
     "login": "ejentum",
     "name": "ejentum.com",
     "avatarUrl": "https://avatars.githubusercontent.com/u/269941780?s=72&u=e17294515082151459040de266c0c361335ef99f&v=4",
@@ -82,18 +202,6 @@
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2026-02-14T16:02:09Z"
-  },
-  {
-    "login": "alexgala7",
-    "name": "Alexandros Galazoulas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262986302?s=72&v=4",
-    "location": "Thessaloniki Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 307,
-    "createdAt": "2026-02-21T11:19:47Z"
   },
   {
     "login": "nekrosnagou",
@@ -370,18 +478,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-17T12:04:38Z"
-  },
-  {
-    "login": "devartgr",
-    "name": "Stathopoulos Kostas - DevArt",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278919053?s=72&u=bd63eb5f0720e8fca967ffa69828f129c63ade94&v=4",
-    "location": "Kalamata Greece",
-    "company": "Stathopoulos Kostas - DevArt",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 415,
-    "createdAt": "2026-04-24T08:12:31Z"
   },
   {
     "login": "SozonDev",
@@ -1222,18 +1318,6 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2025-03-23T18:47:11Z"
-  },
-  {
-    "login": "haris-p-dev",
-    "name": "Haris Patsouras",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209466705?s=72&u=d467510f5888d105decc89bfde819cfde7e788e3&v=4",
-    "location": "Greece   Thessaloniki",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 5,
-    "publicContributions": 120,
-    "createdAt": "2025-04-28T10:43:19Z"
   },
   {
     "login": "vastriantafyllou",
@@ -2242,18 +2326,6 @@
     "privateContributions": 77,
     "publicContributions": 9,
     "createdAt": "2025-03-07T14:40:26Z"
-  },
-  {
-    "login": "Tsikrikes",
-    "name": "Dokusen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/199355327?s=72&u=a5189014e47e8fed2b089c64be7bc41611708293&v=4",
-    "location": "Thessaloniki - Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 53,
-    "createdAt": "2025-02-15T11:07:38Z"
   },
   {
     "login": "NikosSpace25",

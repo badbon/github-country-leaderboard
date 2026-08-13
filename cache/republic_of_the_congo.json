@@ -1,41 +1,5 @@
 [
   {
-    "login": "EsikaGroupe",
-    "name": "Esika Groupe ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/271185885?s=72&u=a077df1b1de601a844c67a9587c05cc85d618175&v=4",
-    "location": "Kinshasa république démocratique du Congo ",
-    "company": "Entreprise informatique ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-26T08:25:57Z"
-  },
-  {
-    "login": "HermyRivas",
-    "name": "Hermy Rivas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276449377?s=72&u=b037f4b8bcae342d9680e5a7a06da771aab2588b&v=4",
-    "location": "El Congo",
-    "company": "MINEDUCYT",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 29,
-    "createdAt": "2026-04-16T01:06:50Z"
-  },
-  {
-    "login": "jacques-imani",
-    "name": "Jacques Imanirakiza Hitimana",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262496269?s=72&v=4",
-    "location": "Goma, Nord-Kivu, D.R. Congo",
-    "company": "Médecin Sans Frontières",
-    "twitterUsername": "IMHJacques1",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2026-02-19T04:35:54Z"
-  },
-  {
     "login": "emmanuel-silicon",
     "name": "Emmanuel BILOMBO-SILAHO",
     "avatarUrl": "https://avatars.githubusercontent.com/u/271759509?s=72&u=c39a2e63e723fef41433346ace885f83b36cf87e&v=4",
@@ -132,18 +96,6 @@
     "createdAt": "2025-05-24T10:45:47Z"
   },
   {
-    "login": "SiegK18",
-    "name": "Victoire Kat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/215106244?s=72&u=8756113fd254d7b31b0b919b4c0e374614765749&v=4",
-    "location": "Avenue Industrielle, Quartier Industriel, Lubumbashi, Haut-Katanga, République Démocratique du Congo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1241,
-    "publicContributions": 5,
-    "createdAt": "2025-06-06T05:21:37Z"
-  },
-  {
     "login": "leloeduk",
     "name": "Lelo ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/201268529?s=72&u=d70455a3e7be91c5b08eda825934be8de34fe264&v=4",
@@ -156,18 +108,6 @@
     "createdAt": "2025-02-28T17:55:24Z"
   },
   {
-    "login": "exauceaniti",
-    "name": "Exauce Aniti",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216037871?s=72&u=1d447d1ec9c8522a0b2cf6e7e8ae82afbb2eb7c0&v=4",
-    "location": "R.D Congo Butembo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 143,
-    "createdAt": "2025-06-12T14:49:19Z"
-  },
-  {
     "login": "Danielthassi",
     "name": "Daniel Thassi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/228965901?s=72&v=4",
@@ -178,18 +118,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-08-27T15:58:22Z"
-  },
-  {
-    "login": "THALY-NGORO",
-    "name": "𝐓𝐇𝐀𝐋𝐘⚜️",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217209953?s=72&u=af3b8cff89dfcfb2f209c0b249e04eb2aa92191e&v=4",
-    "location": "République du Congo , Pointe-Noire Tchimbamba vers le Diplomate",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2025-06-20T13:11:46Z"
   },
   {
     "login": "TyronMbl",
@@ -216,18 +144,6 @@
     "createdAt": "2025-07-21T10:57:32Z"
   },
   {
-    "login": "Succes719",
-    "name": "Success__glr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205409822?s=72&u=dedecfa809b60534a14cd17eea01d8f365883499&v=4",
-    "location": "Lubumbashi, RD Congo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 171,
-    "publicContributions": 43,
-    "createdAt": "2025-03-29T08:35:58Z"
-  },
-  {
     "login": "1blessoff",
     "name": "Christ kouka ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/200461928?s=72&u=52bc664352e52a25d586e8a54ff94ceff8821629&v=4",
@@ -238,18 +154,6 @@
     "privateContributions": 0,
     "publicContributions": 123,
     "createdAt": "2025-02-23T06:37:19Z"
-  },
-  {
-    "login": "vincie236",
-    "name": "Jolly KETA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194841981?s=72&u=199d83023e0c5eebd4996183b809992eb560dd05&v=4",
-    "location": "Pointe Noire, République du Congo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 7,
-    "publicContributions": 1,
-    "createdAt": "2025-01-13T19:26:29Z"
   },
   {
     "login": "LORDMINATODEV",
@@ -336,18 +240,6 @@
     "createdAt": "2025-06-21T17:37:43Z"
   },
   {
-    "login": "elmascapito13565689",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203027428?s=72&u=ba156947afc8a0c1ad8f2a1a166cba380f44f029&v=4",
-    "location": "Republica del Congo",
-    "company": "El Pollo Brujo",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-03-12T22:16:55Z"
-  },
-  {
     "login": "DanielDegina",
     "name": "Daniel.Degina",
     "avatarUrl": "https://avatars.githubusercontent.com/u/219461154?s=72&v=4",
@@ -370,18 +262,6 @@
     "privateContributions": 0,
     "publicContributions": 76,
     "createdAt": "2025-01-02T13:34:16Z"
-  },
-  {
-    "login": "Ivan-Edivap",
-    "name": "Ivan Edivap",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/243570000?s=72&u=b8bbd918bb5f3379fd5512c6003c26d20300ecc1&v=4",
-    "location": "République Démocratique du Congo",
-    "company": "Ivan Tech Solutions",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 26,
-    "createdAt": "2025-11-12T13:21:02Z"
   },
   {
     "login": "Kefrene",
@@ -408,18 +288,6 @@
     "createdAt": "2025-07-02T12:35:25Z"
   },
   {
-    "login": "fayasgracias792-spec",
-    "name": "faya gracia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229735708?s=72&v=4",
-    "location": "congo ituri bunia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2025-09-01T09:42:11Z"
-  },
-  {
     "login": "placide242",
     "name": "Placide LOEMBA",
     "avatarUrl": "https://avatars.githubusercontent.com/u/213179956?s=72&u=965852812dac8aeae83058ccdf199949137cf9b9&v=4",
@@ -430,18 +298,6 @@
     "privateContributions": 287,
     "publicContributions": 73,
     "createdAt": "2025-05-24T10:29:31Z"
-  },
-  {
-    "login": "0bandev",
-    "name": "Bertin NGONGO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200149927?s=72&u=8fcb6c14e8eaeb4da302d2e7efcbe28ccbef6a63&v=4",
-    "location": "RD Congo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-02-20T22:30:51Z"
   },
   {
     "login": "yota-E363",
@@ -492,18 +348,6 @@
     "createdAt": "2025-12-08T13:26:29Z"
   },
   {
-    "login": "hrmano2019",
-    "name": "BADETE HERMANO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/214222234?s=72&u=85106695f0f963a7e5dbc03d35bd325b6ca479f4&v=4",
-    "location": "Congo democratic ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2025-05-31T07:02:39Z"
-  },
-  {
     "login": "patrickmutombo",
     "name": "PATRICK MUTOMBO",
     "avatarUrl": "https://avatars.githubusercontent.com/u/217108449?s=72&u=82426a15f13cb3e2002f85b9d4f987554bacfc02&v=4",
@@ -526,18 +370,6 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2025-01-09T10:11:36Z"
-  },
-  {
-    "login": "franckhabamungu",
-    "name": "Franck HAB",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/250660181?s=72&v=4",
-    "location": "République Démocratique du Congo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-12-20T07:26:00Z"
   },
   {
     "login": "IsraelMabanza",
@@ -574,42 +406,6 @@
     "privateContributions": 6,
     "publicContributions": 89,
     "createdAt": "2025-09-10T12:34:10Z"
-  },
-  {
-    "login": "ArseneBengehya",
-    "name": "Cubaka Bengehya Arsène",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205295925?s=72&u=88160558337af5fcc040f90731fb740c602aab63&v=4",
-    "location": "République démocratique du Congo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2025-03-28T09:28:13Z"
-  },
-  {
-    "login": "nzanzu-sart",
-    "name": "Nzanzu Saruti",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207105412?s=72&u=70e754b173649130ba28b8ef57ec57a150f6c3b3&v=4",
-    "location": "Congo république démocratique  ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-04-10T21:47:46Z"
-  },
-  {
-    "login": "bl1de27",
-    "name": "BladeSecDev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206039118?s=72&u=cc6cf9fd5981d7cdc604a75eb485ad8ebb82a793&v=4",
-    "location": "République démocratique du Congo ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-04-03T07:07:31Z"
   },
   {
     "login": "afreedata",

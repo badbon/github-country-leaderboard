@@ -1,5 +1,17 @@
 [
   {
+    "login": "marcus-tenuni",
+    "name": "Marcus Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264374183?s=72&u=e21feb5a8fa712115a351f23177c989f31a425c2&v=4",
+    "location": "London, Singapore & Malaysia",
+    "company": "Tenuni Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-02-27T09:36:09Z"
+  },
+  {
     "login": "Victor-yc",
     "name": "Mr.cheng",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255859272?s=72&u=a94b4da1115d1d9ff18f3d895f4b5649237380ba&v=4",
@@ -2062,17 +2074,5 @@
     "privateContributions": 0,
     "publicContributions": 801,
     "createdAt": "2026-03-17T18:36:36Z"
-  },
-  {
-    "login": "Zimo821185982",
-    "name": "ZIMO PARTY STAR",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282488621?s=72&u=57ccb1588e12f08a035b1784200de7831b94e48e&v=4",
-    "location": "1 Paya Lebar Link, #02-01 PLQ 1, Singapura 408533",
-    "company": "Ola Party Pte Ltd",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2026-05-07T06:59:45Z"
   }
 ]

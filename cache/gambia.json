@@ -12,42 +12,6 @@
     "createdAt": "2026-04-20T07:36:03Z"
   },
   {
-    "login": "integifysms",
-    "name": "Integify Sms",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278173603?s=72&u=f00d1f55f6706c7e4b97dadfbd602f8e504e45eb&v=4",
-    "location": "The Gambia",
-    "company": "@Integify",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-21T18:13:21Z"
-  },
-  {
-    "login": "pascal-baobab",
-    "name": "Superlumo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252926003?s=72&u=3ba611777f77b6ef8b4093d11735fb25ec7fae41&v=4",
-    "location": "The Gambia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 24,
-    "createdAt": "2026-01-04T18:42:52Z"
-  },
-  {
-    "login": "lamal-debug",
-    "name": "Lamin Saidy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270674333?s=72&v=4",
-    "location": "Serrekunda, The Gambia",
-    "company": "Infinitum Computer Company (or ICC",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 30,
-    "createdAt": "2026-03-24T13:58:22Z"
-  },
-  {
     "login": "bahsulayman689-hash",
     "name": "sulayman bah",
     "avatarUrl": "https://avatars.githubusercontent.com/u/266060040?s=72&u=60d7c74ea3bc17adfd8ed118553a67b4eada5a65&v=4",
@@ -84,78 +48,6 @@
     "createdAt": "2025-06-24T02:19:17Z"
   },
   {
-    "login": "gambiaplay",
-    "name": "Gambia Play",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197351583?s=72&u=5f2c510eb2d0d3a5a36b608b570a005143aa8e16&v=4",
-    "location": "Banjulinding, The Gambia",
-    "company": "GamGaming",
-    "twitterUsername": "gambiaplay",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-02-01T05:23:21Z"
-  },
-  {
-    "login": "Ass-Gaye",
-    "name": "Ass_Gaye",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204865216?s=72&u=ffe6068dfd1434c12608b927aee8e7320e438f21&v=4",
-    "location": "Nema Nasir, The Gambia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 141,
-    "createdAt": "2025-03-25T11:15:42Z"
-  },
-  {
-    "login": "ModouLaminJoof",
-    "name": "Modou Lamin Joof",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207341285?s=72&u=5e6d2f9306bc8a554c6a425150eabc38bbdea223&v=4",
-    "location": "Amdallai, The Gambia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 20,
-    "createdAt": "2025-04-12T13:34:34Z"
-  },
-  {
-    "login": "delightverse",
-    "name": "Ubah Delight Godson Okechukwu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200130697?s=72&u=2f9cb7f0c20ce333066efbef167a427ccc4ab091&v=4",
-    "location": "The Gambia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 37,
-    "createdAt": "2025-02-20T18:54:22Z"
-  },
-  {
-    "login": "ndenneh-2025",
-    "name": "Ndenneh Chubu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/236367997?s=72&u=2989cfb56fd4c0d409a837c33e922944c2313d7c&v=4",
-    "location": "The Gambia, Kairaba Avenue, Serekunda",
-    "company": "Nafa Financial Services",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2025-10-06T11:12:19Z"
-  },
-  {
-    "login": "aixrichlian",
-    "name": "AIxRichlian 🇬🇲",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/242755549?s=72&u=f1d9cb0145846537c532e0d763967a541f9648fe&v=4",
-    "location": "The Gambia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2025-11-08T07:08:54Z"
-  },
-  {
     "login": "GeePersonal",
     "name": "Gibril Alafia Crookes",
     "avatarUrl": "https://avatars.githubusercontent.com/u/234981496?s=72&v=4",
@@ -166,18 +58,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-09-28T20:08:47Z"
-  },
-  {
-    "login": "SOBA878",
-    "name": "sanyang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201600422?s=72&v=4",
-    "location": "The Gambia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 35,
-    "createdAt": "2025-03-03T13:53:46Z"
   },
   {
     "login": "tinkoprofnew",
@@ -192,18 +72,6 @@
     "createdAt": "2025-06-20T12:43:43Z"
   },
   {
-    "login": "Dev-Sheikh-551",
-    "name": "Sheikh Tijan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203988940?s=72&v=4",
-    "location": "Serrekunda, The Gambia.",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 42,
-    "createdAt": "2025-03-19T10:35:57Z"
-  },
-  {
     "login": "dawdambowe91-beep",
     "name": "dawda",
     "avatarUrl": "https://avatars.githubusercontent.com/u/238274300?s=72&u=5f2312987559b7b1818d5fb1f0218486a401f1d7&v=4",
@@ -214,54 +82,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-10-15T14:53:50Z"
-  },
-  {
-    "login": "utg-itca",
-    "name": "Information Technology Communication Association (ITCA)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224470596?s=72&u=31445b456a3fe85b2c563cccecb80960352041d6&v=4",
-    "location": "The Gambia",
-    "company": "",
-    "twitterUsername": "utg_itca",
-    "followers": 1,
-    "privateContributions": 11,
-    "publicContributions": 19,
-    "createdAt": "2025-08-03T23:39:54Z"
-  },
-  {
-    "login": "Musbi8788",
-    "name": "Musa Jawo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187058040?s=72&u=05b021691b65274287c80e7ef8f5a1c0ec72cf03&v=4",
-    "location": "The Gambia",
-    "company": "@attendancegm ",
-    "twitterUsername": "musbi90",
-    "followers": 43,
-    "privateContributions": 3378,
-    "publicContributions": 427,
-    "createdAt": "2024-11-01T19:32:38Z"
-  },
-  {
-    "login": "tamsirdev",
-    "name": "Tamsir Njie",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176211507?s=72&u=0af4b0a7307b2f0890d91e7a2555922b876496b3&v=4",
-    "location": "The Gambia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 65,
-    "publicContributions": 56,
-    "createdAt": "2024-07-21T10:01:43Z"
-  },
-  {
-    "login": "molaminJabbi",
-    "name": "Muhammed Lamin Jabbi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178023784?s=72&u=8d514d193888b8d204ce543945fc4eba7b5031ee&v=4",
-    "location": "Faraba, WCR, The Gambia",
-    "company": "University of The Gambia",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 28,
-    "createdAt": "2024-08-10T13:38:16Z"
   },
   {
     "login": "Juniorbarry26",
@@ -288,18 +108,6 @@
     "createdAt": "2024-12-16T23:38:57Z"
   },
   {
-    "login": "Mamadou8bah",
-    "name": "Mamadou Bah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167534888?s=72&u=1a1a4245b13755794ad94eb2713565e23bd1e03f&v=4",
-    "location": "Lamin Kerewan, Western Gambia",
-    "company": "PayGam",
-    "twitterUsername": "mrmamadoubah",
-    "followers": 5,
-    "privateContributions": 258,
-    "publicContributions": 570,
-    "createdAt": "2024-04-19T12:21:56Z"
-  },
-  {
     "login": "mustaphaDarbo",
     "name": "Mustapha_Darboe",
     "avatarUrl": "https://avatars.githubusercontent.com/u/167697460?s=72&u=dfabc90880bbbea0e406f15cc16482f2eb12c1e6&v=4",
@@ -310,18 +118,6 @@
     "privateContributions": 0,
     "publicContributions": 44,
     "createdAt": "2024-04-21T15:12:04Z"
-  },
-  {
-    "login": "assanlaye",
-    "name": "Alassan Saine",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187187735?s=72&u=7409759c6000ffaec2a2731fd6b0691239126d0e&v=4",
-    "location": "The Gambia",
-    "company": "@KuntaKode ",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 181,
-    "createdAt": "2024-11-03T12:55:00Z"
   },
   {
     "login": "yusjeng21",

@@ -1,5 +1,29 @@
 [
   {
+    "login": "SSIT-hub",
+    "name": "SSIT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201633671?s=72&u=8ac24ed1cc514fc101584fe409ebe295ed7c81ea&v=4",
+    "location": "18 Road 18M, Mo Lao, Ha Dong, Hanoi, Vietnam",
+    "company": "Ss It Joint Stock Company",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-03-03T17:55:39Z"
+  },
+  {
+    "login": "masterdev195",
+    "name": "Hoang Duc Tai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210311883?s=72&u=fb83a4fbedd13eb7ef091fb223b3605d07ed2f3b&v=4",
+    "location": "96A Đ. Trần Phú, P. Mộ Lao, Hà Đông, Hà Nội, Việt Nam",
+    "company": "Posts and Telecommunication institute of Technology,",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 105,
+    "createdAt": "2025-05-05T04:02:26Z"
+  },
+  {
     "login": "mrbit-dev",
     "name": "DEVKIT-ai",
     "avatarUrl": "https://avatars.githubusercontent.com/u/275611600?s=72&u=5c03e3f6cf8b2a1001b0c25acc5712b2920d5510&v=4",
@@ -264,18 +288,6 @@
     "createdAt": "2026-05-03T09:23:02Z"
   },
   {
-    "login": "PhNghiahHai12",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257117116?s=72&v=4",
-    "location": "Ha Noi - Viet Nam",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-01-25T13:25:48Z"
-  },
-  {
     "login": "jackytech111",
     "name": "Jacky Tech 111",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255961559?s=72&u=9db5556da3328996322d4238728e8d21a471ada2&v=4",
@@ -298,18 +310,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-01-01T18:41:21Z"
-  },
-  {
-    "login": "jamesng16",
-    "name": "James Nguyen ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/260925849?s=72&u=decfa3aaa42e4b39c2c4e31195d515171bb6a123&v=4",
-    "location": "Ho Chi Minh - Viet Nam ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 80,
-    "createdAt": "2026-02-11T14:15:24Z"
   },
   {
     "login": "dtbao-embedded-dev",
@@ -478,18 +478,6 @@
     "privateContributions": 0,
     "publicContributions": 40,
     "createdAt": "2026-04-10T05:34:52Z"
-  },
-  {
-    "login": "t11ytech",
-    "name": "say lovely again ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255310406?s=72&u=b74e6577d1de596cc0dd6f379249350232501fe6&v=4",
-    "location": "vietnam#1 & sever safe",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 52,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2026-01-16T08:48:33Z"
   },
   {
     "login": "tuankhi615ghi",
@@ -2638,18 +2626,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-21T16:27:10Z"
-  },
-  {
-    "login": "khiemha229-dev",
-    "name": "KCm",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263105723?s=72&v=4",
-    "location": "Vietnam Nam ",
-    "company": "",
-    "twitterUsername": "KhiemHa330175",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2026-02-22T04:22:49Z"
   },
   {
     "login": "rapichatigny4-beep",

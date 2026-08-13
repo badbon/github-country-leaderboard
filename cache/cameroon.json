@@ -60,18 +60,6 @@
     "createdAt": "2026-04-26T03:07:40Z"
   },
   {
-    "login": "larrytech04",
-    "name": "Larry Technologies",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252562297?s=72&u=a65f43b9836314a3377c4f05218d7aab82e016a4&v=4",
-    "location": "Limbe. Cameroon",
-    "company": "larrytechnologies.com",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 50,
-    "createdAt": "2026-01-02T09:24:29Z"
-  },
-  {
     "login": "Bouba-Tidjani-dev",
     "name": "Bouba Tidjani",
     "avatarUrl": "https://avatars.githubusercontent.com/u/252724701?s=72&u=351d65c7e86ef7feafff11b01fbf0b941e40a671&v=4",
@@ -228,18 +216,6 @@
     "createdAt": "2026-02-23T01:02:31Z"
   },
   {
-    "login": "Clinton-asa",
-    "name": "EDJUA CLINTON ASA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/265374128?s=72&v=4",
-    "location": "BUEA CAMEROON, SOUTH WEST REGION ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2026-03-03T20:49:03Z"
-  },
-  {
     "login": "dahlinn-quamtechs",
     "name": "Dahlin'n Loic Tchoukeu Nyassi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/278920173?s=72&v=4",
@@ -274,18 +250,6 @@
     "privateContributions": 0,
     "publicContributions": 82,
     "createdAt": "2026-03-06T06:33:41Z"
-  },
-  {
-    "login": "FuhcheValentine",
-    "name": "Fuhche Valentine",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282568105?s=72&v=4",
-    "location": "Buea, Southwest region of Cameroon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2026-05-07T11:50:28Z"
   },
   {
     "login": "AaronTchoffo",
@@ -612,18 +576,6 @@
     "createdAt": "2025-02-20T12:21:34Z"
   },
   {
-    "login": "WIRNKAR",
-    "name": "Wirnkar Meekness",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195615439?s=72&u=1fa7144dcf1fa0fc0a0d198af588a939c81db01e&v=4",
-    "location": "Cameroon Douala",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2025-01-19T03:02:46Z"
-  },
-  {
     "login": "speedy143-npm",
     "name": "Boma Florent",
     "avatarUrl": "https://avatars.githubusercontent.com/u/196196152?s=72&v=4",
@@ -792,30 +744,6 @@
     "createdAt": "2025-08-06T09:21:20Z"
   },
   {
-    "login": "Ashuembomstephenakembom",
-    "name": "ASA DIGITAL SOLUTIONS",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197742624?s=72&u=143d75c2e7127c871e0c2a8a93691be4e41a7fc2&v=4",
-    "location": "Cameroon Douala",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 160,
-    "createdAt": "2025-02-04T10:01:32Z"
-  },
-  {
-    "login": "mebune24",
-    "name": "Mebune",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/250997909?s=72&u=e4a426c6ce16d1fd8f1b1817cc3292e7c84e3916&v=4",
-    "location": "biscuterie-cameroon",
-    "company": "crestlancing.ltd",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 48,
-    "publicContributions": 182,
-    "createdAt": "2025-12-22T13:10:18Z"
-  },
-  {
     "login": "justasakon",
     "name": "akongnwi_Justas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/203417962?s=72&u=29646c49c4f1cef7a6203eb6cfa1fc27f0c04dde&v=4",
@@ -850,18 +778,6 @@
     "privateContributions": 1,
     "publicContributions": 135,
     "createdAt": "2025-08-27T15:13:48Z"
-  },
-  {
-    "login": "Lesley-debug",
-    "name": "Lesley Tabi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201224785?s=72&u=bc899121bbc5601dae2158eaef3e89f465582c15&v=4",
-    "location": "Bamenda Cameroon ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 166,
-    "createdAt": "2025-02-28T11:11:34Z"
   },
   {
     "login": "Emmanuel-Lvr",
@@ -1066,18 +982,6 @@
     "privateContributions": 86,
     "publicContributions": 271,
     "createdAt": "2025-01-18T15:20:30Z"
-  },
-  {
-    "login": "DUOmatrix-dev",
-    "name": "OKU DEREK-DUO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198045793?s=72&u=a20940dfad20f6e959514460ddcad5b3d693f1c8&v=4",
-    "location": "Bamenda-Cameroon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 34,
-    "createdAt": "2025-02-06T09:31:41Z"
   },
   {
     "login": "noavatechnologies",
@@ -1296,18 +1200,6 @@
     "createdAt": "2025-01-24T21:59:27Z"
   },
   {
-    "login": "ngolequintus",
-    "name": "NgoleQuintus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198038350?s=72&u=e30c6c342c5acf82afafab7bced5c18084a3ab7e&v=4",
-    "location": "Douala Cameroon",
-    "company": "Metaspoilt Security",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-02-06T08:28:49Z"
-  },
-  {
     "login": "oberlinkeyanfe-ops",
     "name": "Oberlin KEYANFE",
     "avatarUrl": "https://avatars.githubusercontent.com/u/244249899?s=72&v=4",
@@ -1366,18 +1258,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-06-26T17:20:56Z"
-  },
-  {
-    "login": "chuyongglean",
-    "name": "Chuyong Glean",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/215450225?s=72&v=4",
-    "location": "North West Cameroon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 307,
-    "publicContributions": 223,
-    "createdAt": "2025-06-09T03:56:46Z"
   },
   {
     "login": "Tanko99",
@@ -1452,18 +1332,6 @@
     "createdAt": "2025-07-04T19:45:42Z"
   },
   {
-    "login": "Promise-ctrl",
-    "name": "promise",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/221316396?s=72&u=bda9ccad44f9f5c0eeba249161231a495d9ed238&v=4",
-    "location": "buea-cameroon",
-    "company": "PromiseTech",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-07-17T09:15:45Z"
-  },
-  {
     "login": "marco903-cyber",
     "name": "Marc-evy Misseke",
     "avatarUrl": "https://avatars.githubusercontent.com/u/230341515?s=72&v=4",
@@ -1498,18 +1366,6 @@
     "privateContributions": 0,
     "publicContributions": 150,
     "createdAt": "2025-01-31T16:25:34Z"
-  },
-  {
-    "login": "bih-esther",
-    "name": "Tal Esther Bih",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/248580037?s=72&v=4",
-    "location": "Douala Cameroon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2025-12-09T01:05:59Z"
   },
   {
     "login": "ndi-tech",
@@ -1666,18 +1522,6 @@
     "privateContributions": 0,
     "publicContributions": 56,
     "createdAt": "2025-11-07T19:28:34Z"
-  },
-  {
-    "login": "solviahub",
-    "name": "SolviaHub",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/233885149?s=72&u=e22ac9fcacb1a7c925f6c570ef01a7018f1101a9&v=4",
-    "location": "Douala-Cameroon",
-    "company": "SolviaHub Systems SARL",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 13,
-    "createdAt": "2025-09-23T02:56:10Z"
   },
   {
     "login": "KerenJavnyuyBensa",
@@ -1884,18 +1728,6 @@
     "createdAt": "2025-03-08T10:56:33Z"
   },
   {
-    "login": "asonganyidestiny2",
-    "name": "Asonganyi Destiny savior",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219338115?s=72&u=d343e4628cabb927d9a2dd3f8230a21f391e1cb1&v=4",
-    "location": "Buea Cameroon ",
-    "company": "AD NET TECH ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2025-07-04T19:13:05Z"
-  },
-  {
     "login": "njiekouzidane7-wq",
     "name": "Njiekou Zidane",
     "avatarUrl": "https://avatars.githubusercontent.com/u/248843510?s=72&v=4",
@@ -2028,18 +1860,6 @@
     "createdAt": "2025-07-30T10:41:14Z"
   },
   {
-    "login": "Josephineeho",
-    "name": "Eho Josephine Nkombi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200194361?s=72&u=047d9dd39191eab9dcd28606014a2a4f63439141&v=4",
-    "location": "Buea Cameroon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 127,
-    "createdAt": "2025-02-21T07:48:38Z"
-  },
-  {
     "login": "DengningSamuel",
     "name": "DENGNING SAMUEL",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193652880?s=72&v=4",
@@ -2050,30 +1870,6 @@
     "privateContributions": 0,
     "publicContributions": 65,
     "createdAt": "2025-01-03T23:18:43Z"
-  },
-  {
-    "login": "MBOCKE",
-    "name": "MBOCKE Gabriel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197610464?s=72&v=4",
-    "location": "Doula - CAMEROON",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 90,
-    "createdAt": "2025-02-03T12:38:16Z"
-  },
-  {
-    "login": "clinton450",
-    "name": "ghost_cyber",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225502846?s=72&v=4",
-    "location": "Douala Cameroon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 43,
-    "createdAt": "2025-08-09T03:08:37Z"
   },
   {
     "login": "Degrando-21",

@@ -1,5 +1,17 @@
 [
   {
+    "login": "faye1003",
+    "name": "RUNXIN LIU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274723013?s=72&v=4",
+    "location": "taipa, macau, China SAR",
+    "company": "University of Macau",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-09T06:11:41Z"
+  },
+  {
     "login": "noah200910070082-dotcom",
     "name": "Noah_Xu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/259320399?s=72&u=0f0ea932ff1f81d57a9dc16a488b96639749f6e2&v=4",
@@ -10,18 +22,6 @@
     "privateContributions": 0,
     "publicContributions": 171,
     "createdAt": "2026-02-04T11:09:23Z"
-  },
-  {
-    "login": "JosephHu04",
-    "name": "Zixi Hu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254410017?s=72&u=acadfdb0c72b0bbd5a8822b65e7be69b5d40792f&v=4",
-    "location": "Macau University of Science and Technology",
-    "company": "Macau University of Science and Technology",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 54,
-    "createdAt": "2026-01-12T08:29:22Z"
   },
   {
     "login": "Darker574",
@@ -82,18 +82,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-01-19T16:20:36Z"
-  },
-  {
-    "login": "kiwiwu02",
-    "name": "Kiwi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229550262?s=72&u=e2f06f8665d49e0b57dbaa6c88d7b8acc439a5c4&v=4",
-    "location": "University of Macau Graduate Dormitory S9, Taipa, Macao Special Administrative Region",
-    "company": "University of Macau",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 191,
-    "createdAt": "2025-08-31T03:49:14Z"
   },
   {
     "login": "Ivyhutting",

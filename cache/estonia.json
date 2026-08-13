@@ -12,18 +12,6 @@
     "createdAt": "2026-02-27T23:43:51Z"
   },
   {
-    "login": "EspaEternals",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/268440450?s=72&u=12fc3ff651f16f654038824e9a660d9e842dbdbe&v=4",
-    "location": "Estonia - Tallin",
-    "company": "",
-    "twitterUsername": "EEEspa",
-    "followers": 29,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2026-03-15T20:09:11Z"
-  },
-  {
     "login": "ngogibackdp",
     "name": "Daniel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/261712415?s=72&v=4",
@@ -298,18 +286,6 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-01-14T08:28:14Z"
-  },
-  {
-    "login": "alistairozdemir-architect",
-    "name": "Alistair Ozdemir",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256173852?s=72&u=c2a4b753f821860fac58ceb90bf2619fd64ee947&v=4",
-    "location": "Estonia - Talinn",
-    "company": "Alistair Beaumont",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 70,
-    "createdAt": "2026-01-20T18:06:23Z"
   },
   {
     "login": "teklarelikaani-dev",

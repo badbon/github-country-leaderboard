@@ -1,5 +1,17 @@
 [
   {
+    "login": "kaiste99",
+    "name": "Stefan Kaiser",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/237565944?s=72&v=4",
+    "location": "Switzerland, Lithuania and sometime sGermany and Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2025-10-12T10:38:23Z"
+  },
+  {
     "login": "OpenCow42",
     "name": "Stitch",
     "avatarUrl": "https://avatars.githubusercontent.com/u/281361926?s=72&u=37ab1aacc541663f30a15a24ec7e3b9e0602f771&v=4",
@@ -684,18 +696,6 @@
     "createdAt": "2026-03-03T19:22:46Z"
   },
   {
-    "login": "codibrahim",
-    "name": "ibrahim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/265101547?s=72&u=4f62aa4ec312ac382a0dd9350b0c616ff945524a&v=4",
-    "location": "Switzerland 🇨🇭 Lausanne",
-    "company": "@PowerCoders",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 204,
-    "createdAt": "2026-03-02T19:15:20Z"
-  },
-  {
     "login": "Lopicic-J",
     "name": "Julijan Lopicic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/264508613?s=72&u=1e324e5a32750a07f39d5b1c36796d4cd1c06d11&v=4",
@@ -924,18 +924,6 @@
     "createdAt": "2026-02-19T15:17:01Z"
   },
   {
-    "login": "MAGNUSPROTOCOLWORLD",
-    "name": " MAGNUS PROTOCOL WORLD",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/277880408?s=72&u=1cc4fa082d2075bcc3393c004f3a457d983aa4fa&v=4",
-    "location": "Switzerland - Global Infrastructure",
-    "company": "Magnus Protocol",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 13,
-    "createdAt": "2026-04-20T20:19:01Z"
-  },
-  {
     "login": "hedge3o",
     "name": "hedge3o",
     "avatarUrl": "https://avatars.githubusercontent.com/u/274793882?s=72&u=936177b5b54af06d530a9dd778a639580dfcfc39&v=4",
@@ -1078,18 +1066,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-12T07:44:32Z"
-  },
-  {
-    "login": "spreckels-dev",
-    "name": "spreckels-dev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/268234539?s=72&u=840a7611ff1cf3900711ec5d3c071058278b0049&v=4",
-    "location": "Switzerland & Palo Alto, California",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2026-03-14T19:16:00Z"
   },
   {
     "login": "Leonidasportmann",
@@ -1354,18 +1330,6 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-04-01T09:04:07Z"
-  },
-  {
-    "login": "cympad",
-    "name": "cympad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/275743005?s=72&v=4",
-    "location": "Cympad P.O. Box 34 2555 Brügg Switzerland",
-    "company": "Cympad",
-    "twitterUsername": "cympad_usa",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-13T14:51:09Z"
   },
   {
     "login": "smemusha",

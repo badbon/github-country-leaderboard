@@ -1,5 +1,17 @@
 [
   {
+    "login": "Jpowell94",
+    "name": "Jesse Powell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16884250?s=72&u=a2c17ef52daade3ba437640a58bc78c2c626ff53&v=4",
+    "location": "Dublin Georgia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-25T17:40:29Z"
+  },
+  {
     "login": "shivtcdfinance",
     "name": "Shiv Rao",
     "avatarUrl": "https://avatars.githubusercontent.com/u/259871773?s=72&u=4971e10930e3e8c0df7b3d1e33df37f7a19e2919&v=4",
@@ -528,30 +540,6 @@
     "createdAt": "2026-02-01T13:31:09Z"
   },
   {
-    "login": "Liminality197",
-    "name": "Ethan Lacey",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258500540?s=72&u=700d33fd0e05d4688c6911d8e1ae7d6eb0e75aeb&v=4",
-    "location": "United Kingdom (Northern Ireland)",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-01-31T21:00:22Z"
-  },
-  {
-    "login": "mikedrobinson",
-    "name": "Mike",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258316695?s=72&v=4",
-    "location": "Belfast, Northern Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 755,
-    "publicContributions": 94,
-    "createdAt": "2026-01-30T20:33:24Z"
-  },
-  {
     "login": "linnarts-q",
     "name": "Ivan Semenov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/262617800?s=72&u=62df9a4f4da50f20480adbdc3c1f2c050464f893&v=4",
@@ -768,18 +756,6 @@
     "createdAt": "2026-04-06T09:06:13Z"
   },
   {
-    "login": "Peak-Design",
-    "name": "Oskaras Spalvys",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269037624?s=72&u=92d9ef500ee367b6085ba868886fb056163e284f&v=4",
-    "location": "Dungannon, Northern Ireland",
-    "company": "Peak Design Services Ltd.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 61,
-    "createdAt": "2026-03-17T22:00:39Z"
-  },
-  {
     "login": "Dariana888",
     "name": "Dariana",
     "avatarUrl": "https://avatars.githubusercontent.com/u/258312553?s=72&u=62976d94b33f0bd1406d50fc5875eebd8e2ce24f&v=4",
@@ -946,18 +922,6 @@
     "privateContributions": 6,
     "publicContributions": 31,
     "createdAt": "2026-03-10T23:23:57Z"
-  },
-  {
-    "login": "avrajj",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252653408?s=72&v=4",
-    "location": "United Kingdom of Great Britain and Northern Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 24,
-    "createdAt": "2026-01-02T21:02:33Z"
   },
   {
     "login": "buttermilkjebus",
@@ -1344,18 +1308,6 @@
     "createdAt": "2025-05-06T01:47:34Z"
   },
   {
-    "login": "1042025104687-cmyk",
-    "name": "Dualtach Conaghan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232576755?s=72&u=2cdbb6d67961eb474baf7757ab2ea0afcf003f5b&v=4",
-    "location": "Donegal Ireland ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 45,
-    "privateContributions": 0,
-    "publicContributions": 36,
-    "createdAt": "2025-09-16T11:26:28Z"
-  },
-  {
     "login": "red-milonga",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/215055581?s=72&u=3bd98265110302b979eb0bbaae65d7206a3c8f7e&v=4",
@@ -1524,18 +1476,6 @@
     "createdAt": "2025-09-29T13:48:57Z"
   },
   {
-    "login": "Astro-15",
-    "name": "Astro-15",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224300937?s=72&u=75a4544f1532562ec55268446528ced90c353eff&v=4",
-    "location": "Northern Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 1028,
-    "createdAt": "2025-08-02T16:58:27Z"
-  },
-  {
     "login": "shellworlds",
     "name": "Raja Ram M",
     "avatarUrl": "https://avatars.githubusercontent.com/u/249105813?s=72&u=2ba07ba5a6c5de768f53fbcd06c3a9b2a4fac48c&v=4",
@@ -1642,18 +1582,6 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2025-01-25T16:24:45Z"
-  },
-  {
-    "login": "Nazzal-hmm",
-    "name": "Nazzal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193905713?s=72&u=71ba269ad30079eda2707788b8638733a8b38842&v=4",
-    "location": "Belfast, Northern Ireland",
-    "company": "Queen's University Belfast",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 8,
-    "publicContributions": 28,
-    "createdAt": "2025-01-06T12:27:32Z"
   },
   {
     "login": "sannafarias",
@@ -2326,18 +2254,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-02-02T11:23:47Z"
-  },
-  {
-    "login": "plasticity-cloud",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193430293?s=72&v=4",
-    "location": "Athlone Ireland",
-    "company": "Plasticity.Cloud",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1549,
-    "createdAt": "2025-01-01T19:16:05Z"
   },
   {
     "login": "woodsol",

@@ -1,5 +1,17 @@
 [
   {
+    "login": "yankeemorla01",
+    "name": "Jean Carlos Morla ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215867652?s=72&u=8e5fe95c3d8041354976569023dfd3768653143d&v=4",
+    "location": "Dominican Republic/ Canada",
+    "company": "Conditec",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2495,
+    "publicContributions": 73,
+    "createdAt": "2025-06-11T14:44:44Z"
+  },
+  {
     "login": "JoelAlBenitez",
     "name": "Joel Alberto B.V.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/278460652?s=72&u=5c9b813a6516d1c9500e85a69d05b3195721a93b&v=4",
@@ -502,18 +514,6 @@
     "privateContributions": 0,
     "publicContributions": 150,
     "createdAt": "2025-02-21T15:49:30Z"
-  },
-  {
-    "login": "WilfryDev",
-    "name": "Willfry Dev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230766356?s=72&u=fa091d32af1e3c4d79602d03c81562c8fad14a00&v=4",
-    "location": "Dominican Republic STG",
-    "company": "xPlugins",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 100,
-    "createdAt": "2025-09-06T19:26:46Z"
   },
   {
     "login": "nurbansoft",
@@ -1786,18 +1786,6 @@
     "privateContributions": 272,
     "publicContributions": 215,
     "createdAt": "2024-03-29T16:26:29Z"
-  },
-  {
-    "login": "DarianR0410",
-    "name": "Darian E. Ramos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175054534?s=72&u=b9150fbaaff0a1a61d1fdcc224475a24628677b6&v=4",
-    "location": "Dominican Republic - SDE",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 33,
-    "publicContributions": 60,
-    "createdAt": "2024-07-08T18:58:40Z"
   },
   {
     "login": "AGBerserk2",
@@ -3622,5 +3610,17 @@
     "privateContributions": 0,
     "publicContributions": 59,
     "createdAt": "2024-07-10T14:04:20Z"
+  },
+  {
+    "login": "OlimPushFacturacion",
+    "name": "OlimPush Facturación Electrónica",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259761516?s=72&u=2ecc6a14ee9aa060490289232cb95f46d5535fbe&v=4",
+    "location": "Ecuador - Santo Domingo",
+    "company": "OlimPush",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-02-06T02:45:12Z"
   }
 ]

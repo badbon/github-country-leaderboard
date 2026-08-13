@@ -1,5 +1,17 @@
 [
   {
+    "login": "JoelNunez-Dev",
+    "name": "Joel Nuñez de Leon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263977999?s=72&u=5666ce4dc06a7a3688afcf9d80115a183d323f88&v=4",
+    "location": "Canary Island, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2026-02-25T17:54:12Z"
+  },
+  {
     "login": "luciallaneza",
     "name": "Lucía Llaneza",
     "avatarUrl": "https://avatars.githubusercontent.com/u/258802531?s=72&u=78fc2da14b32661edc2d6d1324d18d75d65aed87&v=4",
@@ -22,18 +34,6 @@
     "privateContributions": 0,
     "publicContributions": 116,
     "createdAt": "2026-01-22T18:41:00Z"
-  },
-  {
-    "login": "pablocasado92-dev",
-    "name": "Pablo Casado",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262757824?s=72&u=84cc53e1713fae9f948b62152dcd64c7a796430b&v=4",
-    "location": "Guadalajara España",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 92,
-    "createdAt": "2026-02-20T07:56:39Z"
   },
   {
     "login": "Julia509-coll",
@@ -130,18 +130,6 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2026-02-09T12:01:50Z"
-  },
-  {
-    "login": "Asenjo76",
-    "name": "Iván González Asenjo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259836908?s=72&u=ffa68eb024f021a4ecf8f4d25abd31e52cc9850b&v=4",
-    "location": "Langreo-Asturias-España",
-    "company": "Oficina de empleo",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 80,
-    "createdAt": "2026-02-06T10:08:42Z"
   },
   {
     "login": "ceciliaquaresma",
@@ -346,18 +334,6 @@
     "privateContributions": 0,
     "publicContributions": 77,
     "createdAt": "2026-04-23T08:34:57Z"
-  },
-  {
-    "login": "Newsian",
-    "name": "News",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/274719583?s=72&u=a2b2cd164d7a719f3e73db2171509e423b10e1af&v=4",
-    "location": "Casa de Gatos, Valladolid, Virreinato de Nueva España",
-    "company": "Cartógraphos Reales, Valladolid, Virreinato de Nueva España",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-09T05:54:06Z"
   },
   {
     "login": "carlosematapdev",
@@ -934,18 +910,6 @@
     "privateContributions": 0,
     "publicContributions": 81,
     "createdAt": "2026-02-26T09:36:52Z"
-  },
-  {
-    "login": "AndorinaAI",
-    "name": "Jorge G. Formoso",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282859841?s=72&u=b227017a5bc8c7bf3d3eccfe3095ff71d2d87106&v=4",
-    "location": "Galicia - Spain",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 200,
-    "createdAt": "2026-05-08T10:14:11Z"
   },
   {
     "login": "willythecreator",
@@ -3612,18 +3576,6 @@
     "createdAt": "2025-12-30T14:15:31Z"
   },
   {
-    "login": "imanolmzd-svg",
-    "name": "Imanol Maiztegui",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255114179?s=72&u=6d2eb7011bc31be8b815ed28adc2a57ae27d19c8&v=4",
-    "location": "Spain - UK",
-    "company": "",
-    "twitterUsername": "imanol_mzd",
-    "followers": 1,
-    "privateContributions": 749,
-    "publicContributions": 1140,
-    "createdAt": "2026-01-15T11:57:12Z"
-  },
-  {
     "login": "GonzaloBeato",
     "name": "Gonzalo Beato Parra",
     "avatarUrl": "https://avatars.githubusercontent.com/u/254249654?s=72&u=686f032574962398a2c879704b3975fcd64634ea&v=4",
@@ -4186,18 +4138,6 @@
     "privateContributions": 0,
     "publicContributions": 649,
     "createdAt": "2026-04-23T07:23:02Z"
-  },
-  {
-    "login": "PGH96",
-    "name": "Pablo Guerra Henares",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282495106?s=72&v=4",
-    "location": "Remote Spain",
-    "company": "Infios",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-05-07T07:22:19Z"
   },
   {
     "login": "iromanmixreal",

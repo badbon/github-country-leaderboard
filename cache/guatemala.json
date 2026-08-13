@@ -1,5 +1,17 @@
 [
   {
+    "login": "PerezAmnerJr",
+    "name": "PerezAmnerJr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/223188121?s=72&u=0b83f86be3131ce710b2c18aef7766ee9fffabe0&v=4",
+    "location": "Guatemala, Carretera hacia el salvador km16.5",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 92,
+    "createdAt": "2025-07-28T01:56:40Z"
+  },
+  {
     "login": "atziry-cuxil",
     "name": "Atziry Cuxil",
     "avatarUrl": "https://avatars.githubusercontent.com/u/282979459?s=72&u=c8160067c78f4ca3762a054af9c56c21eb1edca9&v=4",
@@ -22,18 +34,6 @@
     "privateContributions": 0,
     "publicContributions": 155,
     "createdAt": "2026-05-08T18:17:58Z"
-  },
-  {
-    "login": "joelArchila-2022283",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256124230?s=72&u=94fa131a641886c9c9c7a7218555a0e614b18c7d&v=4",
-    "location": "Ciudad de Guatemala",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 188,
-    "createdAt": "2026-01-20T14:06:49Z"
   },
   {
     "login": "kevin-villatoro-dev",
@@ -142,18 +142,6 @@
     "privateContributions": 0,
     "publicContributions": 186,
     "createdAt": "2026-03-17T14:45:10Z"
-  },
-  {
-    "login": "SamDurin",
-    "name": "Samuel López",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279592043?s=72&u=9fa1e5fd6e92b77852f15a43c2368846ee328e5a&v=4",
-    "location": "Guatemala town",
-    "company": "",
-    "twitterUsername": "Sam_garascia",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-27T03:12:47Z"
   },
   {
     "login": "diegoillescas13",
@@ -408,18 +396,6 @@
     "createdAt": "2025-03-01T17:37:40Z"
   },
   {
-    "login": "antiguatechlabs",
-    "name": "Antigua Tech Labs",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224181724?s=72&u=58d60c7c33e94790690f4a262aa1994eea9ef045&v=4",
-    "location": "Antigua Guatemala",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2025-08-01T23:33:42Z"
-  },
-  {
     "login": "M4nu3l202400653",
     "name": "Manuel Orlando",
     "avatarUrl": "https://avatars.githubusercontent.com/u/198299692?s=72&u=79a684d17743e307daffa136d4281141fcde371f&v=4",
@@ -466,18 +442,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-02-15T05:01:55Z"
-  },
-  {
-    "login": "pabdan2003",
-    "name": "Pablo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/238557725?s=72&u=2551518daa9c93afa1d4a94721551112beedcf75&v=4",
-    "location": "Ciudad de Guatemala",
-    "company": "-",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 43,
-    "createdAt": "2025-10-16T19:26:07Z"
   },
   {
     "login": "Frnn-droid",
@@ -600,18 +564,6 @@
     "createdAt": "2025-06-18T14:01:13Z"
   },
   {
-    "login": "Dajogole",
-    "name": "Danny Josué González Lémus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195997313?s=72&u=095ff588aaf511633a68b47e59b8328a3f6b5436&v=4",
-    "location": "Ciudad de Guatemala ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 56,
-    "createdAt": "2025-01-22T03:26:29Z"
-  },
-  {
     "login": "angel-tutto",
     "name": "Angel Barrios",
     "avatarUrl": "https://avatars.githubusercontent.com/u/194832718?s=72&v=4",
@@ -670,18 +622,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-06T01:57:12Z"
-  },
-  {
-    "login": "kam3dev",
-    "name": "Kam3 IT",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/237111837?s=72&u=b74ee2a5a68bfdddceae2bf25c38e21230a0130a&v=4",
-    "location": "Cuidad de Guatemala",
-    "company": "Kam3 IT",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-10-09T19:12:18Z"
   },
   {
     "login": "Ssmokegt",
@@ -1104,30 +1044,6 @@
     "createdAt": "2025-05-15T22:08:47Z"
   },
   {
-    "login": "AlejandroSagastume",
-    "name": "José Alejandro Sagastume Valey",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223185542?s=72&v=4",
-    "location": "18 Avenida 11-95 Guatemala, Interior UVG, Cdad. de Guatemala 01015",
-    "company": "Universidad del Valle de Guatemala",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 77,
-    "createdAt": "2025-07-28T01:28:37Z"
-  },
-  {
-    "login": "atun-2021469",
-    "name": "atun-2021469",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216909324?s=72&u=279d5ee2103b05db741067b7615cd51677bd1ea8&v=4",
-    "location": "Ciudad de Guatemala",
-    "company": "Centro Educativo Técnico Laboral Kinal.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 82,
-    "createdAt": "2025-06-18T14:54:42Z"
-  },
-  {
     "login": "richar-Del-Aguila",
     "name": "Richar Del Aguila",
     "avatarUrl": "https://avatars.githubusercontent.com/u/216981089?s=72&u=0e62db209f3fa5d76b1c6bddacf61c4e968a3c32&v=4",
@@ -1426,18 +1342,6 @@
     "privateContributions": 0,
     "publicContributions": 671,
     "createdAt": "2024-04-16T21:39:55Z"
-  },
-  {
-    "login": "hrodriguez3278",
-    "name": "Harol Rodriguez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169855213?s=72&u=99124159fb6af2d0d5c84fa94d406b2bffeef1da&v=4",
-    "location": "Ciudad de Guatemala",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 90,
-    "createdAt": "2024-05-14T22:44:01Z"
   },
   {
     "login": "Sebaaasg",
@@ -1872,18 +1776,6 @@
     "createdAt": "2024-05-01T19:22:02Z"
   },
   {
-    "login": "Benjamin-Ruiz",
-    "name": "BENJI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158377739?s=72&u=77dfc940f098b58f6fdf2b344853024b5041414e&v=4",
-    "location": "Quiché-Guatemala",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 80,
-    "createdAt": "2024-02-01T00:03:06Z"
-  },
-  {
     "login": "echicasprado",
     "name": "Ever Chicas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/158104368?s=72&u=f5785a3846f657197f401632c6074eb3db31d92e&v=4",
@@ -2086,18 +1978,6 @@
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2024-01-23T14:02:42Z"
-  },
-  {
-    "login": "julian-orellana",
-    "name": "Julian Orellana ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170840484?s=72&v=4",
-    "location": "Ciudad de Guatemala",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 141,
-    "publicContributions": 680,
-    "createdAt": "2024-05-26T01:26:55Z"
   },
   {
     "login": "afmatul",
@@ -2398,18 +2278,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-13T04:35:45Z"
-  },
-  {
-    "login": "c-aperez",
-    "name": "César A. Pérez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182577227?s=72&u=0c00143dbc5026ee79be08e69529c5bd81d6e2fc&v=4",
-    "location": "Ciudad de Guatemala",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2024-09-24T00:17:59Z"
   },
   {
     "login": "MMarcos00",

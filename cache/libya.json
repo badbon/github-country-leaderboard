@@ -1,5 +1,29 @@
 [
   {
+    "login": "hussein-shihap",
+    "name": "Hussein Shihab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219663995?s=72&u=f06c264377f13275d58d6802177112eacd1c042e&v=4",
+    "location": "North Lebanon -Tripoli",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 81,
+    "createdAt": "2025-07-07T11:24:38Z"
+  },
+  {
+    "login": "jobitmanagment-netizen",
+    "name": "Jihad obeid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224463089?s=72&v=4",
+    "location": "tripoli lebanon",
+    "company": "CCS Technology ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2025-08-03T21:47:18Z"
+  },
+  {
     "login": "AbdulHafith169",
     "name": "HafithRootUsr",
     "avatarUrl": "https://avatars.githubusercontent.com/u/265772923?s=72&u=c9bc2fb1d44a4ae50d4c3142e48bb26bc58e4a66&v=4",
@@ -12,18 +36,6 @@
     "createdAt": "2026-03-05T10:04:33Z"
   },
   {
-    "login": "mohammed2-006x",
-    "name": "Mohammed Taher",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/274583172?s=72&u=cc567143cf891a49982068b452e1b75632bf7920&v=4",
-    "location": "Misurata - Libya",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 40,
-    "createdAt": "2026-04-08T16:50:50Z"
-  },
-  {
     "login": "alaa4435-lgtm",
     "name": "ALaa Abojazia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/252435277?s=72&v=4",
@@ -34,18 +46,6 @@
     "privateContributions": 33,
     "publicContributions": 30,
     "createdAt": "2026-01-01T10:32:25Z"
-  },
-  {
-    "login": "mawaddaalwirfalli",
-    "name": "mawadda Alwirfalli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266563245?s=72&u=5d5a4f7c46910ecf665f62c3e960291462e7c822&v=4",
-    "location": "Libya - Benghazi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-08T20:11:17Z"
   },
   {
     "login": "Uldy-USDBOT",
@@ -288,18 +288,6 @@
     "createdAt": "2025-03-10T01:07:04Z"
   },
   {
-    "login": "OMAR-ALASHLEM",
-    "name": "Omar Wesam Alashlem ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/212981482?s=72&u=80c715fbedfebc9bd38179c6794f58c209deed17&v=4",
-    "location": "Misurata - Libya",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 273,
-    "publicContributions": 104,
-    "createdAt": "2025-05-23T00:23:16Z"
-  },
-  {
     "login": "jammievae",
     "name": "Felon",
     "avatarUrl": "https://avatars.githubusercontent.com/u/209851021?s=72&u=45ab91174a07be5f258babfbd4c2efe14b72ea8d&v=4",
@@ -360,18 +348,6 @@
     "createdAt": "2025-08-06T14:58:50Z"
   },
   {
-    "login": "moskah2024",
-    "name": "Moskah Co.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/218075945?s=72&u=68462e260a82ff559bbd82f8e585e00edfb82317&v=4",
-    "location": "Misurata-Libya",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-06-26T10:53:42Z"
-  },
-  {
     "login": "Kaleh7",
     "name": "Omar Elkaleh",
     "avatarUrl": "https://avatars.githubusercontent.com/u/236272853?s=72&v=4",
@@ -394,18 +370,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-25T22:53:30Z"
-  },
-  {
-    "login": "mohamed5013-gif",
-    "name": "محمد الورفلي ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231006115?s=72&u=c4e65668971991f9b9a8df8799c5aa7de129a84f&v=4",
-    "location": "Libya Libyan International Medical University",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-09-08T10:57:39Z"
   },
   {
     "login": "AbdoElosta03",
@@ -490,18 +454,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-06T20:55:48Z"
-  },
-  {
-    "login": "yousefabudabos",
-    "name": "Yousef Abudabos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209338648?s=72&v=4",
-    "location": "libya - Misurata",
-    "company": "Libyan Iron and Steel company",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2025-04-27T10:19:47Z"
   },
   {
     "login": "Ahmed-Arebi",

@@ -1,5 +1,29 @@
 [
   {
+    "login": "danielterry2121",
+    "name": "Daniel Terry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64623822?s=72&u=078940fc89e45b4c37bcfaebf722e95e5c9f3f42&v=4",
+    "location": "Rome Georgia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-05-01T02:23:17Z"
+  },
+  {
+    "login": "tb199",
+    "name": "T. Andrew Barrett",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1776116?s=72&u=a8e15c8403c5a743908e87bd2afd964a8a7ba5aa&v=4",
+    "location": "Rome Georgia 30161",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-05-25T00:05:17Z"
+  },
+  {
     "login": "aleromani04",
     "name": "Alessandro Romani",
     "avatarUrl": "https://avatars.githubusercontent.com/u/264235999?s=72&u=193c719c163621410a1d6bfa843c89fbae2828c1&v=4",
@@ -322,18 +346,6 @@
     "privateContributions": 603,
     "publicContributions": 117,
     "createdAt": "2026-01-09T22:11:07Z"
-  },
-  {
-    "login": "felibyers",
-    "name": "' feli  /  mat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258757722?s=72&u=44dd10f6b16e4201240dc33a437f000500e3258c&v=4",
-    "location": "aph italy yume ꪆৎ",
-    "company": "usually w2i | @willthewiser @funshinecarebearreal < - - oomfs",
-    "twitterUsername": "fujofeli",
-    "followers": 26,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-02-02T07:25:28Z"
   },
   {
     "login": "Yog-Sotho",
@@ -744,18 +756,6 @@
     "createdAt": "2026-02-23T19:28:43Z"
   },
   {
-    "login": "AMV-Team",
-    "name": "AMV Software Dev Team",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269708686?s=72&u=19b140300518fd74f4ac1258ed93828f32ca8257&v=4",
-    "location": "ITALY - Ronchi dei Legionari (GO)",
-    "company": "AMV Software Company",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 101,
-    "createdAt": "2026-03-20T11:25:48Z"
-  },
-  {
     "login": "apgrimaldi",
     "name": "annapaola grimaldi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/275042187?s=72&v=4",
@@ -910,18 +910,6 @@
     "privateContributions": 0,
     "publicContributions": 47,
     "createdAt": "2026-01-17T11:48:25Z"
-  },
-  {
-    "login": "carlinomarco",
-    "name": "Marco Carlino",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266057363?s=72&v=4",
-    "location": "Bolzano, Italy → Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 17,
-    "createdAt": "2026-03-06T11:40:35Z"
   },
   {
     "login": "Hangama-Farahmand",
@@ -1344,18 +1332,6 @@
     "createdAt": "2026-05-01T21:45:40Z"
   },
   {
-    "login": "Dodojak",
-    "name": "IN1945",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/280334637?s=72&u=1467278e734bbd7e5041616fa25af6b556fe548f&v=4",
-    "location": "ㅤㅤ Northern Italy ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-04-29T10:09:47Z"
-  },
-  {
     "login": "mariamecca",
     "name": "Maria Mecca",
     "avatarUrl": "https://avatars.githubusercontent.com/u/252208266?s=72&u=d132f9cd471d32d5d83db620e708b0defa6e99ba&v=4",
@@ -1534,18 +1510,6 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-04-26T14:52:58Z"
-  },
-  {
-    "login": "ilquadernodellaprof",
-    "name": "Lucia Capurri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263196713?s=72&u=0df1e2c9e7b7559e06329afca9ae6816c4a73c9e&v=4",
-    "location": "NW Italy",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 386,
-    "createdAt": "2026-02-22T16:32:03Z"
   },
   {
     "login": "simonemuscolino",
@@ -2134,18 +2098,6 @@
     "privateContributions": 0,
     "publicContributions": 42,
     "createdAt": "2026-01-27T17:13:02Z"
-  },
-  {
-    "login": "ballanfe-atlix",
-    "name": "Federico Ballan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/260382066?s=72&u=ac38a206d388973c513ed9bebef2cb20bebe1aa0&v=4",
-    "location": "Schio - Italy",
-    "company": "Atlix",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-02-09T08:42:43Z"
   },
   {
     "login": "giacomo-scaglia",
@@ -3264,18 +3216,6 @@
     "createdAt": "2026-01-27T17:01:25Z"
   },
   {
-    "login": "dhiabekri4-blip",
-    "name": "Dhia bekri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/260069237?s=72&u=5ea0c8a5bc6e4e970f502259232222562face4e8&v=4",
-    "location": "Padova italy",
-    "company": "university of padova",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2026-02-07T13:43:10Z"
-  },
-  {
     "login": "coco-claudio-pattarello",
     "name": "Claudio Pattarello",
     "avatarUrl": "https://avatars.githubusercontent.com/u/263765701?s=72&v=4",
@@ -3298,18 +3238,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-05-09T19:28:27Z"
-  },
-  {
-    "login": "giorgioroth",
-    "name": "Giorgio Roth",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/245667671?s=72&u=d5a5dfc4d436f65e04a81411eb97f983d76bebd5&v=4",
-    "location": "Romania - Italy",
-    "company": "",
-    "twitterUsername": "GiorgioRoth",
-    "followers": 34,
-    "privateContributions": 0,
-    "publicContributions": 594,
-    "createdAt": "2025-11-23T09:08:54Z"
   },
   {
     "login": "pariyade",

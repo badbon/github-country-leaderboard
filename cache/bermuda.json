@@ -1,17 +1,5 @@
 [
   {
-    "login": "313jslee",
-    "name": "Jason",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276667435?s=72&v=4",
-    "location": "Bermuda Dunes, California",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2026-04-16T16:23:36Z"
-  },
-  {
     "login": "jehynds",
     "name": "Janna Hynds",
     "avatarUrl": "https://avatars.githubusercontent.com/u/240932243?s=72&u=a9c8e47a2f50e14f362c3e10f7cc87e7ee7a43a9&v=4",
@@ -118,30 +106,6 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2026-05-04T21:12:05Z"
-  },
-  {
-    "login": "the-lust",
-    "name": "Ken Kaneki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/227962807?s=72&u=7c719f95a005086108883e54dc111424c3297558&v=4",
-    "location": "Bermuda Triangle",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 89,
-    "publicContributions": 414,
-    "createdAt": "2025-08-22T07:03:10Z"
-  },
-  {
-    "login": "GO-p-max",
-    "name": "MG coin !",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196520694?s=72&u=95127bd4c34c7676c9c91a9061c4c4f447d96707&v=4",
-    "location": "Bermuda Triangle",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 29,
-    "createdAt": "2025-01-26T09:46:48Z"
   },
   {
     "login": "reddy-eimann",

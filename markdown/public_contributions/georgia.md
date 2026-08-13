@@ -1,8 +1,8 @@
 # Public Contributions - Georgia
 
-Generated: 2026-08-13T09:06:55.109Z
+Generated: 2026-08-13T12:00:36.879Z
 
-Users: 7889
+Users: 6936
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,14 +15,14 @@ Users: 7889
 | 7 | [smira](https://github.com/smira) | Andrey Smirnov | @siderolabs  | smira | Georgia | 4573 |
 | 8 | [Komzpa](https://github.com/Komzpa) | Darafei Praliaskouski |  |  | Batumi, Georgia | 4348 |
 | 9 | [lperto](https://github.com/lperto) | Lasha Pertakhia |  | lpertakhia | Tbilisi | 4244 |
-| 10 | [FuzzysTodd](https://github.com/FuzzysTodd) | Todd Anthony Stephens | Additive mfg |  | UnitedStates Georgia | 4187 |
-| 11 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs |  | prolix_gg | Georgia | 3756 |
-| 12 | [explosivebit](https://github.com/explosivebit) | Eli Rum | ForgePlan |  | Tbilisi | 3746 |
-| 13 | [jvxz](https://github.com/jvxz) | Jamie |  |  | north georgia | 3653 |
-| 14 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Freelancer |  | Tbilisi | 3458 |
-| 15 | [0pensrcerer](https://github.com/0pensrcerer) | Benjamin Simpson | DevUnderMountain |  | Georgia, USA | 3353 |
-| 16 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3259 |
-| 17 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | @composioHQ | jkomyno | Tbilisi, Georgia | 3213 |
-| 18 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet |  | Tbilisi | 3124 |
-| 19 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 3051 |
-| 20 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 2949 |
+| 10 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs |  | prolix_gg | Georgia | 3756 |
+| 11 | [explosivebit](https://github.com/explosivebit) | Eli Rum | ForgePlan |  | Tbilisi | 3746 |
+| 12 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Freelancer |  | Tbilisi | 3458 |
+| 13 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3259 |
+| 14 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | @composioHQ | jkomyno | Tbilisi, Georgia | 3213 |
+| 15 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet |  | Tbilisi | 3124 |
+| 16 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 3051 |
+| 17 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 2949 |
+| 18 | [Mamaduka](https://github.com/Mamaduka) | George Mamadashvili |  | Mamaduka | Tbilisi, Georgia | 2860 |
+| 19 | [roxblnfk](https://github.com/roxblnfk) | Aleksei Gagarin | Buhta | roxblnfk | Batumi, Georgia | 2785 |
+| 20 | [andrewallenbruce](https://github.com/andrewallenbruce) | Andrew Allen Bruce |  | andrewallbruce | Georgia | 2414 |

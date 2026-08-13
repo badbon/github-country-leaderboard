@@ -1,5 +1,17 @@
 [
   {
+    "login": "anafilipavieira",
+    "name": "Ana Filipa Vieira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/222122575?s=72&u=ace49de85023f1b3128fc61537e7cc2134d97f5e&v=4",
+    "location": "Oslo, Norway and Mira de Aire, Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-07-22T00:09:55Z"
+  },
+  {
     "login": "infinityabundance",
     "name": "riaan de beer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255699974?s=72&u=3513d756caf01f213555aee03d9270dfa20c8d1e&v=4",
@@ -240,18 +252,6 @@
     "createdAt": "2026-03-19T16:29:14Z"
   },
   {
-    "login": "mohamedsillahhh-cloud",
-    "name": "Mohamed sillah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253965853?s=72&u=2d4b0209d41dc1946bef3bdc0e3f39dd46868855&v=4",
-    "location": "Cabo Verde - Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 42,
-    "publicContributions": 26,
-    "createdAt": "2026-01-09T16:03:13Z"
-  },
-  {
     "login": "ninofernando",
     "name": "Nino Fernando",
     "avatarUrl": "https://avatars.githubusercontent.com/u/273643343?s=72&u=74dd12f71cf474771240e01a6df9c5230ee5ee40&v=4",
@@ -478,18 +478,6 @@
     "privateContributions": 0,
     "publicContributions": 178,
     "createdAt": "2026-03-09T14:53:29Z"
-  },
-  {
-    "login": "acpsoutto",
-    "name": "Ana Clara Souto",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/274772456?s=72&u=01108a58fda70c9dbdd1dcdef4891e911c2849eb&v=4",
-    "location": "Porto - Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 46,
-    "createdAt": "2026-04-09T09:49:40Z"
   },
   {
     "login": "rodrigo-andradee",
@@ -1752,18 +1740,6 @@
     "createdAt": "2026-03-16T13:40:23Z"
   },
   {
-    "login": "micasvalterv",
-    "name": "Valter Micas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258965570?s=72&u=475f2199816507e112151b968446d59c1e4744d8&v=4",
-    "location": "Porto - Portugal",
-    "company": "Pakela",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 17,
-    "createdAt": "2026-02-03T01:55:26Z"
-  },
-  {
     "login": "rafaelcarvalho1324",
     "name": "Rafael Carvalho",
     "avatarUrl": "https://avatars.githubusercontent.com/u/265258325?s=72&u=aea6fdd16908f6a25a9fb7c22479fad15d162ba9&v=4",
@@ -2376,18 +2352,6 @@
     "createdAt": "2025-02-24T19:47:18Z"
   },
   {
-    "login": "pablovqueiroz",
-    "name": "Pablo Queiroz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/242173694?s=72&u=dc3398c3bd74ff98ff43365ac7369b86fc716d8b&v=4",
-    "location": "Porto - Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 509,
-    "publicContributions": 482,
-    "createdAt": "2025-11-05T10:05:18Z"
-  },
-  {
     "login": "bertollimb",
     "name": "Matheus bertolli",
     "avatarUrl": "https://avatars.githubusercontent.com/u/211390593?s=72&u=f1fbe11673eddc0f01d3ac9cb1a8e00b773a1be5&v=4",
@@ -2482,18 +2446,6 @@
     "privateContributions": 0,
     "publicContributions": 106,
     "createdAt": "2025-04-28T18:49:21Z"
-  },
-  {
-    "login": "IvoneteAlves",
-    "name": "Nete Alves",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194560104?s=72&u=414fb21b3ffc48cd293980e31e463d48b07a648e&v=4",
-    "location": "Lisboa - Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-01-11T00:50:53Z"
   },
   {
     "login": "wlucas-f",
@@ -2602,18 +2554,6 @@
     "privateContributions": 0,
     "publicContributions": 80,
     "createdAt": "2025-10-06T17:01:17Z"
-  },
-  {
-    "login": "jppedrosa0704",
-    "name": "Hi there! I'm João Paulo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/199387516?s=72&u=4cee49d8fdf2b849618e2ba99471b09b937dad4c&v=4",
-    "location": "Porto - Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 0,
-    "publicContributions": 754,
-    "createdAt": "2025-02-15T16:59:06Z"
   },
   {
     "login": "Ezekcunha",
@@ -2820,18 +2760,6 @@
     "createdAt": "2025-07-02T08:25:45Z"
   },
   {
-    "login": "apatriciamachado",
-    "name": "Patrícia Machado ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/234930427?s=72&u=de9595a54c516b0aa63c65e9dd4ddc395b23d980&v=4",
-    "location": "Braga - Portugal",
-    "company": "Universidade do Minho",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-09-28T13:07:21Z"
-  },
-  {
     "login": "Vgrunha",
     "name": "Vgrunha",
     "avatarUrl": "https://avatars.githubusercontent.com/u/216299114?s=72&u=a45700bcbc86ef75801bc7a9ef9243af5248d450&v=4",
@@ -3022,18 +2950,6 @@
     "privateContributions": 0,
     "publicContributions": 45,
     "createdAt": "2025-12-09T13:10:49Z"
-  },
-  {
-    "login": "Jokacar10",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204064734?s=72&v=4",
-    "location": "Vila ruiva Portugal ",
-    "company": "JOKACAR ",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 10,
-    "publicContributions": 571,
-    "createdAt": "2025-03-19T17:16:40Z"
   },
   {
     "login": "ClaFernandes",

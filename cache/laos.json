@@ -12,18 +12,6 @@
     "createdAt": "2026-01-01T05:28:39Z"
   },
   {
-    "login": "Hacke4r4-alt",
-    "name": "CodeForge Dev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/273463628?s=72&u=3abca3aa8042e0f0c6fedd96ea82b3af8a3b7ce8&v=4",
-    "location": "Laos P.D.R",
-    "company": "CodeForge",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 11,
-    "publicContributions": 19,
-    "createdAt": "2026-04-03T23:42:38Z"
-  },
-  {
     "login": "pheangphxnwili445-code",
     "name": "Broken",
     "avatarUrl": "https://avatars.githubusercontent.com/u/278324709?s=72&v=4",
@@ -48,18 +36,6 @@
     "createdAt": "2026-03-30T08:32:50Z"
   },
   {
-    "login": "SSIT-hub",
-    "name": "SSIT",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201633671?s=72&u=8ac24ed1cc514fc101584fe409ebe295ed7c81ea&v=4",
-    "location": "18 Road 18M, Mo Lao, Ha Dong, Hanoi, Vietnam",
-    "company": "Ss It Joint Stock Company",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-03-03T17:55:39Z"
-  },
-  {
     "login": "rampheng27-byte",
     "name": "PHENG",
     "avatarUrl": "https://avatars.githubusercontent.com/u/224184830?s=72&u=80d5c6a0e7cc2b1853a94cc9b25fcd9f1e591784&v=4",
@@ -70,17 +46,5 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2025-08-02T00:19:14Z"
-  },
-  {
-    "login": "masterdev195",
-    "name": "Hoang Duc Tai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/210311883?s=72&u=fb83a4fbedd13eb7ef091fb223b3605d07ed2f3b&v=4",
-    "location": "96A Đ. Trần Phú, P. Mộ Lao, Hà Đông, Hà Nội, Việt Nam",
-    "company": "Posts and Telecommunication institute of Technology,",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 105,
-    "createdAt": "2025-05-05T04:02:26Z"
   }
 ]

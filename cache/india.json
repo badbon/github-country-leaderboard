@@ -1,17 +1,5 @@
 [
   {
-    "login": "NeuralDarsh",
-    "name": "Darshan Chidanand Bagale",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257315000?s=72&u=ea8239a15040a0bfba327e26f9509a66b43c6c5e&v=4",
-    "location": "Kolhapur, India ➡️ Japan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 524,
-    "createdAt": "2026-01-26T13:55:45Z"
-  },
-  {
     "login": "maheshofficial0011",
     "name": "Mahesh",
     "avatarUrl": "https://avatars.githubusercontent.com/u/283988710?s=72&v=4",
@@ -34,18 +22,6 @@
     "privateContributions": 355,
     "publicContributions": 20,
     "createdAt": "2026-02-04T13:01:06Z"
-  },
-  {
-    "login": "EtreResearch",
-    "name": "Être Research",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282426372?s=72&u=d1d9da98062b12dd4bf6520271b28f80787ab14a&v=4",
-    "location": "India & U.S.A",
-    "company": "Être Research",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 560,
-    "publicContributions": 67,
-    "createdAt": "2026-05-07T02:05:39Z"
   },
   {
     "login": "ashilohfaith-debug",
@@ -502,18 +478,6 @@
     "privateContributions": 65,
     "publicContributions": 155,
     "createdAt": "2025-12-29T11:47:51Z"
-  },
-  {
-    "login": "BairaboinaLokeshKumarYadav",
-    "name": "Bairaboina Lokesh Kumar Yadav",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254241432?s=72&u=47b7620a56d00197361cd41a45e0f8f4dc4812c1&v=4",
-    "location": "Hydrabad, Telangana - India",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 41,
-    "createdAt": "2026-01-11T08:58:35Z"
   },
   {
     "login": "sagarikasync",
@@ -1080,18 +1044,6 @@
     "createdAt": "2026-01-02T18:41:03Z"
   },
   {
-    "login": "sakilhoque8-commits",
-    "name": "MD SAKIL HOQUE",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254159469?s=72&v=4",
-    "location": "India west bengal Malda ",
-    "company": "@sakilhoque8",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 20,
-    "createdAt": "2026-01-10T18:49:16Z"
-  },
-  {
     "login": "prithwish-banerjee",
     "name": "Prithwish Banerjee",
     "avatarUrl": "https://avatars.githubusercontent.com/u/251812869?s=72&u=4914093b9284bae647d712f291e1c20c79805727&v=4",
@@ -1318,18 +1270,6 @@
     "privateContributions": 0,
     "publicContributions": 53,
     "createdAt": "2026-01-04T07:38:24Z"
-  },
-  {
-    "login": "UdaybhanRaj-Dev",
-    "name": "Udaybhan Raj",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253285297?s=72&u=6af1173b17b71a8aecdc9e545159a861bfdb60b9&v=4",
-    "location": "Uttar Pradesh India 222001",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2026-01-06T12:54:14Z"
   },
   {
     "login": "vanshitasharma-works",
@@ -2148,18 +2088,6 @@
     "createdAt": "2025-12-30T12:43:08Z"
   },
   {
-    "login": "hardik-srivastava01",
-    "name": "Hardik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253108243?s=72&u=4eba02e7dbfe4582aa86d9b13056903a19bca7f7&v=4",
-    "location": "Kanpur Nagar,Uttar Pradesh India",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 16,
-    "publicContributions": 109,
-    "createdAt": "2026-01-05T16:42:56Z"
-  },
-  {
     "login": "Veloce-AI",
     "name": "VeloceAI",
     "avatarUrl": "https://avatars.githubusercontent.com/u/254230236?s=72&u=75cb56e67033e7e8ce278eddd3b5c063d66dbdae&v=4",
@@ -2484,15 +2412,27 @@
     "createdAt": "2025-02-09T18:17:39Z"
   },
   {
-    "login": "Statisticsage",
-    "name": "databaysah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182382317?s=72&u=49cd08ac794e208a802d5b6e112f39306c5fc635&v=4",
-    "location": "Punjab, India 🇮🇳 · From Liberia 🇱🇷",
-    "company": "Freelencer",
+    "login": "aamirstack-commits",
+    "name": "Aamir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259793349?s=72&u=99dca61fd45efff59625c764bc5487df3e47c81e&v=4",
+    "location": "Hyderabad Sindh Pakistan",
+    "company": "Freelance",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 45,
-    "createdAt": "2024-09-22T00:21:06Z"
+    "publicContributions": 62,
+    "createdAt": "2026-02-06T06:18:15Z"
+  },
+  {
+    "login": "Aasha2492",
+    "name": "Aashamalhi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271495905?s=72&v=4",
+    "location": "Hyderabad Sindh Pakistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2026-03-27T10:33:39Z"
   }
 ]

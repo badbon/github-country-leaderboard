@@ -1,15 +1,147 @@
 [
   {
-    "login": "jackng-wq",
-    "name": "Jack Ng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/275991909?s=72&u=ead59c00b72b23f6b174250c2f15ce97fbdf03d9&v=4",
-    "location": "Hong Kong and Toronto",
-    "company": "Votee AI",
+    "login": "vincichan1089",
+    "name": "Vinci Chan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261729134?s=72&u=187c06bb5c221255a5bc5ebf426855ffe5c4bde7&v=4",
+    "location": "Hong Kong, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 11,
+    "publicContributions": 30,
+    "createdAt": "2026-02-15T09:17:49Z"
+  },
+  {
+    "login": "eculoni",
+    "name": "Evan Chen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262602981?s=72&u=04e5ae10783ecc302eaaca6761e369db7e5c92d2&v=4",
+    "location": "Hong Kong, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 66,
+    "createdAt": "2026-02-19T14:42:34Z"
+  },
+  {
+    "login": "bunnyera-global-admin",
+    "name": "BunnyEra-Global",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257604439?s=72&u=6d1dc41fdb635361e3359b6350b0f839986b62ce&v=4",
+    "location": "Hong Kong, China — operating globally",
+    "company": "@bunnyera-org",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
-    "createdAt": "2026-04-14T12:08:57Z"
+    "publicContributions": 40,
+    "createdAt": "2026-01-27T18:17:13Z"
+  },
+  {
+    "login": "UzawaReisaQwQ",
+    "name": "玲羽",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195327324?s=72&u=9f9d82d06a01ce5a2b5fd0934b1fed362a9bac69&v=4",
+    "location": "Hong Kong, China",
+    "company": "Guangzhou Xinghui Network",
+    "twitterUsername": "ZeroNight2024",
+    "followers": 24,
+    "privateContributions": 22,
+    "publicContributions": 56,
+    "createdAt": "2025-01-16T15:57:40Z"
+  },
+  {
+    "login": "YitaoXU",
+    "name": "XU Yitao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198423858?s=72&u=b899e0a0440109b3067cd829a49f2c283b1437a8&v=4",
+    "location": "Hong Kong, China",
+    "company": "Chinese Unversity of Hong Kong",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 47,
+    "createdAt": "2025-02-09T05:55:39Z"
+  },
+  {
+    "login": "Meldrum-AI",
+    "name": "Meikaku Saki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198031568?s=72&u=5a5bc789509ca32803c03589dcd1bdd832a3eab1&v=4",
+    "location": "Hong Kong, China",
+    "company": "Chinese University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2025-02-06T07:25:25Z"
+  },
+  {
+    "login": "hinhoandy30",
+    "name": "WONG, Hin Ho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245410195?s=72&v=4",
+    "location": "Hong Kong, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2025-11-21T15:23:59Z"
+  },
+  {
+    "login": "SenDuLuke",
+    "name": "Sen Du",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/241070881?s=72&u=653829db1931fc52523706cd68a0ef5608038714&v=4",
+    "location": "Hong Kong, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2025-10-30T07:29:12Z"
+  },
+  {
+    "login": "Steph-Kwan",
+    "name": "Stephen Kwan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198049708?s=72&v=4",
+    "location": "Hong Kong, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2025-02-06T10:03:27Z"
+  },
+  {
+    "login": "hkebus",
+    "name": "HKeBus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204831413?s=72&u=11598ea70adacf9b793832f0df3e501d72f9af38&v=4",
+    "location": "Room ZN618, 6/F, North Wing, Block Z, Phase 8, 181 Chatham Road South, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong, China",
+    "company": "@HKPolyu",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-03-25T06:36:04Z"
+  },
+  {
+    "login": "zheming1210",
+    "name": "zzm",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232017454?s=72&u=66d660b08df5deda1f1432ea4e86f5688551174d&v=4",
+    "location": "HONG KONG, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2025-09-13T05:52:14Z"
+  },
+  {
+    "login": "Chengeat",
+    "name": "Chengeat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/220852370?s=72&u=6806da28858cbef5089dcc8131b38fd20037cd07&v=4",
+    "location": "Hong Kong,China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2025-07-15T08:06:11Z"
   },
   {
     "login": "Lukatrum",
@@ -106,18 +238,6 @@
     "privateContributions": 0,
     "publicContributions": 153,
     "createdAt": "2026-03-28T07:34:04Z"
-  },
-  {
-    "login": "tigerdyger",
-    "name": "LI Shaokang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259780095?s=72&u=f7c6544cc536a6ea1ee046a146028416be090ded&v=4",
-    "location": "Hong Kong SAR",
-    "company": "HKUST",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 144,
-    "publicContributions": 16,
-    "createdAt": "2026-02-06T05:18:48Z"
   },
   {
     "login": "iam-kristie",
@@ -324,18 +444,6 @@
     "createdAt": "2026-02-22T08:17:06Z"
   },
   {
-    "login": "bryantyugenius",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267617063?s=72&u=cca166847116d392e29f8e6dc9a13668da9b21f8&v=4",
-    "location": "Guangzhou, Shenzhen & Hong Kong",
-    "company": "Allegrow Biotech",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 20,
-    "createdAt": "2026-03-12T10:08:27Z"
-  },
-  {
     "login": "NOOUBY-DEV",
     "name": "NOOUBY-DEV",
     "avatarUrl": "https://avatars.githubusercontent.com/u/252329711?s=72&u=74d9c2bef773c9c51ca5cd2b7dbfbf8f1f4112a1&v=4",
@@ -370,18 +478,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-15T11:10:19Z"
-  },
-  {
-    "login": "zihim-mok",
-    "name": "Sam Mo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264749158?s=72&u=8c7187bf32a2f08811338a2460d514d5535162bb&v=4",
-    "location": "Guangdong-Hong Kong-Macau GBA",
-    "company": "SCUT, Canton",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 56,
-    "createdAt": "2026-03-01T06:19:08Z"
   },
   {
     "login": "Minio3",
@@ -660,18 +756,6 @@
     "createdAt": "2026-02-23T08:12:38Z"
   },
   {
-    "login": "ChenCheng0529",
-    "name": "CHEN, Cheng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281344536?s=72&v=4",
-    "location": "The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kon",
-    "company": "HKUST",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-05-03T09:06:09Z"
-  },
-  {
     "login": "ts990303",
     "name": "林允",
     "avatarUrl": "https://avatars.githubusercontent.com/u/281576219?s=72&u=c2b59920ce255084b53e56ff91aae3a71beedd1f&v=4",
@@ -706,18 +790,6 @@
     "privateContributions": 0,
     "publicContributions": 35,
     "createdAt": "2026-03-23T11:12:21Z"
-  },
-  {
-    "login": "pxq-u1u1",
-    "name": "pxq_u1u1",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253321603?s=72&u=1375a62e706c932d87bcff5bc4753d6594ead27f&v=4",
-    "location": "Hong Kong SAR",
-    "company": "The Hong Kong University of Science and Technology",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 69,
-    "createdAt": "2026-01-06T15:53:24Z"
   },
   {
     "login": "ZiShuoguo",
@@ -840,18 +912,6 @@
     "createdAt": "2026-01-19T14:00:53Z"
   },
   {
-    "login": "jason8-8",
-    "name": "Jason Cheng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257620958?s=72&u=534a6673877a4d25e89527c6c01a3ebb86f6480a&v=4",
-    "location": "United Kingdom & Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 29,
-    "createdAt": "2026-01-27T19:50:06Z"
-  },
-  {
     "login": "DLITHK",
     "name": "Kashif Dar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255432360?s=72&u=86ee28dbdbb51dc231683ae9f4fa127a08cef9c6&v=4",
@@ -862,18 +922,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-16T21:03:17Z"
-  },
-  {
-    "login": "shiuhou",
-    "name": "SHI UHou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279755576?s=72&v=4",
-    "location": "No. 1, Duxue Road, Nansha District, Guangzhou, Guangdong . Hong Kong University of science and technology ( guangzhou campus)",
-    "company": "Hong Kong University of science and technology ( guangzhou )",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 40,
-    "createdAt": "2026-04-27T15:00:08Z"
   },
   {
     "login": "LP1030",
@@ -1306,18 +1354,6 @@
     "privateContributions": 0,
     "publicContributions": 593,
     "createdAt": "2025-01-04T14:56:22Z"
-  },
-  {
-    "login": "Neutralmilkzzz",
-    "name": "Zihao Zhao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216463318?s=72&u=2656f3dbe27daf820676f297c04dbb76c86affb8&v=4",
-    "location": "Hong Kong & Shanghai",
-    "company": "The University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 0,
-    "publicContributions": 388,
-    "createdAt": "2025-06-16T01:33:10Z"
   },
   {
     "login": "SARANGIVenkateshwarlu",
@@ -1788,18 +1824,6 @@
     "createdAt": "2025-03-03T15:23:52Z"
   },
   {
-    "login": "CharlesXmf",
-    "name": "Charles",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196601209?s=72&u=e4463dabecaf83ad2924025c5f488daa8f02c82f&v=4",
-    "location": "Hong Kong SAR",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 65,
-    "publicContributions": 74,
-    "createdAt": "2025-01-27T05:31:14Z"
-  },
-  {
     "login": "Hjcho123",
     "name": "Heejae ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/200781138?s=72&u=4bb7bfbcc598385eddbc3ee5d0fec927fca07174&v=4",
@@ -1858,18 +1882,6 @@
     "privateContributions": 0,
     "publicContributions": 48,
     "createdAt": "2025-11-19T02:36:56Z"
-  },
-  {
-    "login": "Baoshan-Song",
-    "name": "Baoshan Song",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207299603?s=72&u=e54995439a85363fe763f4e0d592602eea57aa64&v=4",
-    "location": "Hong Kong SAR",
-    "company": "The Hong Kong Polytechnic University",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 50,
-    "createdAt": "2025-04-12T04:47:50Z"
   },
   {
     "login": "Tony123-tech",
@@ -2664,18 +2676,6 @@
     "createdAt": "2025-01-17T04:07:45Z"
   },
   {
-    "login": "glowplug-studio",
-    "name": "Glowplug",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/215345885?s=72&u=6eac6e7057f8df28ac936b4bbd5c710e45e66f58&v=4",
-    "location": "Hong Kong and Worldwide",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 66,
-    "createdAt": "2025-06-08T05:30:44Z"
-  },
-  {
     "login": "edyou25",
     "name": "Edward",
     "avatarUrl": "https://avatars.githubusercontent.com/u/209897728?s=72&v=4",
@@ -2772,18 +2772,6 @@
     "createdAt": "2025-03-17T07:06:43Z"
   },
   {
-    "login": "kayla-maker",
-    "name": "kayla wang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/227509945?s=72&v=4",
-    "location": "Hong Kong SAR",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-08-20T02:35:03Z"
-  },
-  {
     "login": "fancecy",
     "name": "Yufan Guo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/216268651?s=72&u=3f145cc6624ca03edd5180a9c917b3cc42fdd265&v=4",
@@ -2806,18 +2794,6 @@
     "privateContributions": 0,
     "publicContributions": 93,
     "createdAt": "2025-01-03T06:02:06Z"
-  },
-  {
-    "login": "chunlokk",
-    "name": "Kwong Chun Lok",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198049627?s=72&v=4",
-    "location": "University of Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2025-02-06T10:02:49Z"
   },
   {
     "login": "awang-posley",
@@ -2928,18 +2904,6 @@
     "createdAt": "2025-09-21T04:10:09Z"
   },
   {
-    "login": "weicwang6",
-    "name": "WANG Weicheng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230504643?s=72&v=4",
-    "location": "83 Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong SAR",
-    "company": "City University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-09-05T06:16:00Z"
-  },
-  {
     "login": "yanyan1115",
     "name": "Clear",
     "avatarUrl": "https://avatars.githubusercontent.com/u/250149311?s=72&u=81b836334765ad5a16998f9abefa587fbaac0e41&v=4",
@@ -2950,18 +2914,6 @@
     "privateContributions": 261,
     "publicContributions": 132,
     "createdAt": "2025-12-17T13:03:19Z"
-  },
-  {
-    "login": "raymondskkwong912615",
-    "name": "Raymond Kwong",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230135079?s=72&v=4",
-    "location": "Hong Kong SAR",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2025-09-03T10:01:17Z"
   },
   {
     "login": "gettempdir",
@@ -3108,18 +3060,6 @@
     "createdAt": "2025-03-18T06:01:20Z"
   },
   {
-    "login": "atouyang2084-stack",
-    "name": "OUYANG Yuhang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/243548526?s=72&u=259d0a79a2d20bdb42f9eee11047aec7b66a35c9&v=4",
-    "location": "The Hong Kong Polytechnic University 11 Yuk Choi Road Hung Hom, Kowloon Hong Kong",
-    "company": "The Hong Kong Polytechnic University",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 43,
-    "createdAt": "2025-11-12T11:23:04Z"
-  },
-  {
     "login": "yyyhh-jch",
     "name": "YYYHH & JCH",
     "avatarUrl": "https://avatars.githubusercontent.com/u/224996849?s=72&u=2f58b30c731e272f55d25b57fafedf6471cc1a61&v=4",
@@ -3264,18 +3204,6 @@
     "createdAt": "2025-10-13T13:54:30Z"
   },
   {
-    "login": "Cassopi2",
-    "name": "Casso Pi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197371307?s=72&u=5aba06e93fb2015d77d2715ce33ec732366b581c&v=4",
-    "location": "Hong Kong SAR",
-    "company": "HELLO Trust",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-02-01T09:53:00Z"
-  },
-  {
     "login": "BaiYinhuchi233",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/226288581?s=72&u=d2c5f0e39c87ce7cd1dc2ff17cf458e832591fa0&v=4",
@@ -3310,18 +3238,6 @@
     "privateContributions": 0,
     "publicContributions": 31,
     "createdAt": "2025-06-20T09:59:44Z"
-  },
-  {
-    "login": "sherry-cheungky",
-    "name": "Sherry Cheung ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197853718?s=72&u=0ab5918563466e188b0f0e9d039b8f3245d553bb&v=4",
-    "location": "Hong Kong SAR",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2025-02-05T02:45:12Z"
   },
   {
     "login": "Haizhou-Xu",
@@ -3420,18 +3336,6 @@
     "createdAt": "2025-07-31T02:17:16Z"
   },
   {
-    "login": "CoALesterChan",
-    "name": "CoALesterChan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/246461537?s=72&u=3c11dc53d126a48451bb3ec67eee44fce288242d&v=4",
-    "location": "Hong Kong SAR",
-    "company": "HKU",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2025-11-27T09:25:29Z"
-  },
-  {
     "login": "Captainnomis",
     "name": "TeCN",
     "avatarUrl": "https://avatars.githubusercontent.com/u/210457867?s=72&u=9d3f06695b63f60fc26a070404e0000d23b5486a&v=4",
@@ -3466,18 +3370,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-09-09T06:34:48Z"
-  },
-  {
-    "login": "aza1re",
-    "name": "Solomon Kim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205537048?s=72&u=dea2e9b570e68e1ab785ae8812b55c63d0d1db6a&v=4",
-    "location": "Sai Kung, Hong Kong SAR",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 117,
-    "publicContributions": 115,
-    "createdAt": "2025-03-30T16:54:23Z"
   },
   {
     "login": "heisenberg0020",
@@ -3562,18 +3454,6 @@
     "privateContributions": 0,
     "publicContributions": 1574,
     "createdAt": "2025-03-17T06:28:39Z"
-  },
-  {
-    "login": "Amelia-Wang-Hanyu",
-    "name": "Hanyu Wang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206801359?s=72&u=6e8d10b57310adcf1472f06cec3127cdfdf41416&v=4",
-    "location": "The University of Hong Kong, Pok Fu Lam Road, Hong Kong SAR",
-    "company": "The University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 38,
-    "publicContributions": 64,
-    "createdAt": "2025-04-09T03:11:52Z"
   },
   {
     "login": "theobpo",
@@ -3744,18 +3624,6 @@
     "createdAt": "2025-10-17T03:48:31Z"
   },
   {
-    "login": "soshk-csu",
-    "name": "SOSHK - Cyber Security Unit",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/247122502?s=72&v=4",
-    "location": "Hong Kong SAR",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 69,
-    "createdAt": "2025-12-01T08:54:28Z"
-  },
-  {
     "login": "lcweden",
     "name": "EDEN",
     "avatarUrl": "https://avatars.githubusercontent.com/u/198768181?s=72&u=9da116a7824f132a214e8fd1788f131ba9713dd9&v=4",
@@ -3766,18 +3634,6 @@
     "privateContributions": 2,
     "publicContributions": 289,
     "createdAt": "2025-02-11T14:14:20Z"
-  },
-  {
-    "login": "Foster1202",
-    "name": "FANG Ziwei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/236170867?s=72&u=c2c0b36763aacdf4e6ace475ac6f58a30a3f581d&v=4",
-    "location": "Hong Kong SAR",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2025-10-05T08:29:45Z"
   },
   {
     "login": "l1juntao",
@@ -3826,18 +3682,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-31T11:10:09Z"
-  },
-  {
-    "login": "Percy-WONG-0328",
-    "name": "PercyWANG",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216367471?s=72&u=1cb643dee23b3aa4c30131be0dd008905f376cc9&v=4",
-    "location": "Hong Kong SAR",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 63,
-    "createdAt": "2025-06-15T04:39:02Z"
   },
   {
     "login": "martinmtt0902",
@@ -4104,18 +3948,6 @@
     "createdAt": "2025-11-19T11:13:35Z"
   },
   {
-    "login": "mohaohong77-hue",
-    "name": "Moehorn",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/243729856?s=72&u=b9599748c5b17fbac8f2052cb4c49335e8fab436&v=4",
-    "location": "No. 8 Gaoxiong Road, Songshan Lake, Dongguan, Guangdong, City University of Hong Kong (Dongguan)",
-    "company": "City University of Hong Kong (Dongguan)",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 11,
-    "createdAt": "2025-11-13T07:44:28Z"
-  },
-  {
     "login": "auyeungpuikit",
     "name": "Tom AuYeung",
     "avatarUrl": "https://avatars.githubusercontent.com/u/239180626?s=72&u=a4c6561ea1b2f93b50c20b4425639974218a7881&v=4",
@@ -4150,18 +3982,6 @@
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2025-08-27T04:18:20Z"
-  },
-  {
-    "login": "FAN-529",
-    "name": "FAN Yucheng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230529928?s=72&u=31ada9b7bf738af3b23bc858f8f7ad9681a2b89d&v=4",
-    "location": "Hong Kong SAR",
-    "company": "The Hong Kong Polytechnic University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 30,
-    "createdAt": "2025-09-05T09:11:53Z"
   },
   {
     "login": "EnochCHIU-polyu",
@@ -4258,18 +4078,6 @@
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2025-04-23T05:33:38Z"
-  },
-  {
-    "login": "WUTingxuan",
-    "name": "XiaoWu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211629943?s=72&v=4",
-    "location": "THE HONG KONG POLYTECHNIC UNIVERSITY 11 YUK CHOI ROAD YAU TSIM MONG DISTRICT KOWLOON",
-    "company": "The Hong Kong Polytechnic University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2025-05-14T06:47:07Z"
   },
   {
     "login": "WhatsAppr",
@@ -4402,18 +4210,6 @@
     "privateContributions": 2952,
     "publicContributions": 19,
     "createdAt": "2025-09-28T10:09:52Z"
-  },
-  {
-    "login": "asas4766",
-    "name": "SIDDIQUI Owais Ahmed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231973521?s=72&v=4",
-    "location": "Hong Kong SAR",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2025-09-12T21:18:47Z"
   },
   {
     "login": "Riotonsi9",

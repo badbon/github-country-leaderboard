@@ -1,5 +1,17 @@
 [
   {
+    "login": "AlexCzar",
+    "name": "Alex Czar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1010298?s=72&u=a59eafafa1d0d6dc9b784462ef3eb1a4ba182217&v=4",
+    "location": "Prague, Czech Republic | Tbilisi, Georgia",
+    "company": "@purestorage",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 1,
+    "publicContributions": 12,
+    "createdAt": "2011-08-28T18:15:59Z"
+  },
+  {
     "login": "kub-inu",
     "name": "Jakub Zálešák",
     "avatarUrl": "https://avatars.githubusercontent.com/u/262540074?s=72&u=ed46ce77aa11f6fdac3f48659993270227784758&v=4",
@@ -34,18 +46,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-04-21T09:54:43Z"
-  },
-  {
-    "login": "jimmy-claw",
-    "name": "Jimmy 🦞",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261145897?s=72&u=92c37be3f861badf8975d76a8b4961c4f904b9cd&v=4",
-    "location": "The cloud (but mostly a Pi5 in Czech Republic)",
-    "company": "@logos-co",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 1480,
-    "createdAt": "2026-02-12T08:19:12Z"
   },
   {
     "login": "MartinBeness",
@@ -394,18 +394,6 @@
     "privateContributions": 13,
     "publicContributions": 114,
     "createdAt": "2026-04-01T07:31:36Z"
-  },
-  {
-    "login": "Shirendev1",
-    "name": "Shirendev Enkhtsetseg",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/214947015?s=72&v=4",
-    "location": "Czech Republic  Mongolia",
-    "company": "World Love",
-    "twitterUsername": "enjii0728",
-    "followers": 25,
-    "privateContributions": 9,
-    "publicContributions": 392,
-    "createdAt": "2025-06-05T05:29:17Z"
   },
   {
     "login": "LeafyShadow696",
@@ -922,17 +910,5 @@
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2025-01-10T22:30:11Z"
-  },
-  {
-    "login": "Dropy19",
-    "name": "Adam Strmiska",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207373734?s=72&v=4",
-    "location": "Orlová Česká republika",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-04-12T19:49:25Z"
   }
 ]

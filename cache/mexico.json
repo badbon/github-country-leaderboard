@@ -1,17 +1,5 @@
 [
   {
-    "login": "AmeG0d",
-    "name": "Bushid0C0der",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264474804?s=72&u=58129637ed7600d111b7a4a6f22135dd908d8de5&v=4",
-    "location": "Peru-México",
-    "company": "Infinitia",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2026-02-27T17:56:27Z"
-  },
-  {
     "login": "Rust-Monster",
     "name": "Alejandro Mendoza",
     "avatarUrl": "https://avatars.githubusercontent.com/u/253142754?s=72&u=1f79adab0971999b1dc9b3d6f0010babb8af725d&v=4",
@@ -34,18 +22,6 @@
     "privateContributions": 6,
     "publicContributions": 92,
     "createdAt": "2026-02-21T15:55:59Z"
-  },
-  {
-    "login": "CTO92",
-    "name": "CTO92",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/251668404?s=72&u=1755a687d154fff6f85818b8ebf75684c2b1a857&v=4",
-    "location": "New Mexico",
-    "company": "OA Quantum Labs",
-    "twitterUsername": "dannywall92",
-    "followers": 30,
-    "privateContributions": 0,
-    "publicContributions": 20,
-    "createdAt": "2025-12-27T01:12:25Z"
   },
   {
     "login": "freenet-for-poor",
@@ -132,18 +108,6 @@
     "createdAt": "2026-04-21T07:52:40Z"
   },
   {
-    "login": "annaastrs-svg",
-    "name": "Anna Antunez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264275247?s=72&u=bf16d5ea9a3d53ccf0dc29b3227da2eb54b37f41&v=4",
-    "location": "Mexico MTY ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 421,
-    "createdAt": "2026-02-26T22:27:29Z"
-  },
-  {
     "login": "Avila-Carlos",
     "name": "Carlos Avila",
     "avatarUrl": "https://avatars.githubusercontent.com/u/283529278?s=72&v=4",
@@ -228,18 +192,6 @@
     "createdAt": "2026-04-30T19:15:29Z"
   },
   {
-    "login": "EtecVAV26-1C2-LosPollos",
-    "name": "Los Pollos Del C - Arthur, Caio, Rodrigo, Lukas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266051914?s=72&u=481cca2f4225be406d075415acd81d0085bb7cb5&v=4",
-    "location": "New Mexico",
-    "company": "Los Pollos Hermanos",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-06T11:12:40Z"
-  },
-  {
     "login": "imcoronadev",
     "name": "Corona",
     "avatarUrl": "https://avatars.githubusercontent.com/u/256532313?s=72&u=af675e299f0fcc38e57ea42abb57d18b8affb36c&v=4",
@@ -310,18 +262,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-17T12:01:26Z"
-  },
-  {
-    "login": "MacizoMediaMexico",
-    "name": "Macizo Media Mexico",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283536810?s=72&v=4",
-    "location": "Merida Yucatan Mexico",
-    "company": "Macizo Media Mexico",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2026-05-11T04:00:37Z"
   },
   {
     "login": "FranciskoNT",
@@ -444,18 +384,6 @@
     "createdAt": "2026-04-23T21:41:39Z"
   },
   {
-    "login": "Juanitopilllo",
-    "name": "JUANITOPILLOCODING",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281107592?s=72&u=3de9eed807740ba78b8d2bbbaea83282d8e0d033&v=4",
-    "location": "HERMOSILLO SONORA MEXICO",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 7,
-    "publicContributions": 8,
-    "createdAt": "2026-05-02T05:30:28Z"
-  },
-  {
     "login": "Tutanka4781",
     "name": "Tutanka",
     "avatarUrl": "https://avatars.githubusercontent.com/u/264712473?s=72&u=78aa1293c94580d6f6cc628f3248009053cdcfbf&v=4",
@@ -576,18 +504,6 @@
     "createdAt": "2026-01-31T16:06:52Z"
   },
   {
-    "login": "bubaaliyu32-tech",
-    "name": "A. Mahdi Greenhost",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278658116?s=72&v=4",
-    "location": "New Mexico USA",
-    "company": "X Centicom Megatron Company ",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-23T10:13:41Z"
-  },
-  {
     "login": "karolaherrerasoto",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/257391265?s=72&u=b69d7e6eba2dd68c13cb7aa00d9196dd12621070&v=4",
@@ -622,30 +538,6 @@
     "privateContributions": 0,
     "publicContributions": 139,
     "createdAt": "2026-01-19T16:29:27Z"
-  },
-  {
-    "login": "lopezaragondanielalexis94-cmyk",
-    "name": "Daniel alexis lopez aragon ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270167781?s=72&v=4",
-    "location": "Mexico cdmx",
-    "company": "Workhop worxolotl creative ",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2026-03-22T17:08:37Z"
-  },
-  {
-    "login": "rabcyr-alt",
-    "name": "ashley willis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/268994903?s=72&u=cc993ff3458259e3799007cfcbf29c050b713673&v=4",
-    "location": "new mexico",
-    "company": "",
-    "twitterUsername": "rabcyr_alt",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 89,
-    "createdAt": "2026-03-17T18:18:33Z"
   },
   {
     "login": "JuanMorales-326",
@@ -936,18 +828,6 @@
     "createdAt": "2026-03-19T20:19:07Z"
   },
   {
-    "login": "nodogroup",
-    "name": "Henry I. Ortega",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263992083?s=72&u=3c1d1bc5bb86ccf78a5ef3fb4ab2b6a9faf2ab82&v=4",
-    "location": "Tijuana, Baja California Mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 20,
-    "createdAt": "2026-02-25T19:07:58Z"
-  },
-  {
     "login": "carlosmorales-dev-mx",
     "name": "Carlos Morales",
     "avatarUrl": "https://avatars.githubusercontent.com/u/266950809?s=72&u=c8d3444f2bfa2a1bfb976575ae188bf14e7e7634&v=4",
@@ -1032,18 +912,6 @@
     "createdAt": "2026-04-03T14:41:48Z"
   },
   {
-    "login": "heraldstack",
-    "name": "harald & the heraldstack",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/271993521?s=72&u=fe313f5fb8f47662e0cffc7213446c904c01b247&v=4",
-    "location": "Sunspot, New Mexico",
-    "company": "Cloudcroft Cloud Company",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 581,
-    "createdAt": "2026-03-29T15:25:40Z"
-  },
-  {
     "login": "iqdiego623",
     "name": "DiegoPérezS",
     "avatarUrl": "https://avatars.githubusercontent.com/u/275375306?s=72&u=aca04b656ca66ddbba5f8d84742219e0ab072a3b&v=4",
@@ -1054,18 +922,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-04-11T22:50:02Z"
-  },
-  {
-    "login": "rodr1gu3zjade-Ra1n3",
-    "name": "Rena Rodriguez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252726109?s=72&v=4",
-    "location": "taos new mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 42,
-    "createdAt": "2026-01-03T11:01:58Z"
   },
   {
     "login": "marianahdez1820-bot",
@@ -1368,18 +1224,6 @@
     "createdAt": "2026-03-30T22:13:01Z"
   },
   {
-    "login": "Spyder-CEO",
-    "name": "Ian Patel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270138607?s=72&u=ac04c3fb32d9f728d823129a915654e5f0941ab1&v=4",
-    "location": "New Mexico, USA",
-    "company": "Spyder Global Group LLC",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2026-03-22T14:15:10Z"
-  },
-  {
     "login": "MidoriVal",
     "name": "Vale",
     "avatarUrl": "https://avatars.githubusercontent.com/u/280557764?s=72&u=6f636b29033d9c5615f5507799f2f6c5f9686ead&v=4",
@@ -1500,18 +1344,6 @@
     "createdAt": "2026-01-03T16:46:01Z"
   },
   {
-    "login": "desarrolloprofesional81",
-    "name": "Desarrollo tecnologico profesional",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252906684?s=72&v=4",
-    "location": "Mexico Ciudad",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 33,
-    "createdAt": "2026-01-04T16:01:46Z"
-  },
-  {
     "login": "Jonathan-TrejoR",
     "name": "Jonathan Trejo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/270953292?s=72&u=3cfa6d66d24a7fec029a1336834c4660c0264f5f&v=4",
@@ -1560,18 +1392,6 @@
     "createdAt": "2026-03-22T17:26:36Z"
   },
   {
-    "login": "Cryovenator",
-    "name": "Kyle \"Krazy Kamomile\" O'McFitzson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282634191?s=72&u=ac28cea2ff832df46343748ed4481e05de5c54f7&v=4",
-    "location": "308 Negra Arroyo Lane, Albuquerque, New Mexico 87104",
-    "company": "Palantir",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-05-07T15:45:42Z"
-  },
-  {
     "login": "angel224romero-blip",
     "name": "Angel Romero ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/271102475?s=72&v=4",
@@ -1582,18 +1402,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-26T00:20:48Z"
-  },
-  {
-    "login": "BugFriendlyGarden",
-    "name": "Bryan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282997227?s=72&u=40f2282f95ecdc447388099c1874a8942decd7c6&v=4",
-    "location": "Albuquerque, New Mexico, USA",
-    "company": "Sandia National Labs",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2026-05-08T19:53:19Z"
   },
   {
     "login": "carlosagomeze",
@@ -1714,18 +1522,6 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-04-30T03:08:55Z"
-  },
-  {
-    "login": "magicommando",
-    "name": "Corbin Simplicio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/275841516?s=72&u=aa425593f61a178988837774e5d91cfd289c14cd&v=4",
-    "location": "New Mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 201,
-    "createdAt": "2026-04-13T23:22:34Z"
   },
   {
     "login": "DocP92",
@@ -1918,5 +1714,17 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2026-04-20T21:25:32Z"
+  },
+  {
+    "login": "pablocasado92-dev",
+    "name": "Pablo Casado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262757824?s=72&u=84cc53e1713fae9f948b62152dcd64c7a796430b&v=4",
+    "location": "Guadalajara España",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 92,
+    "createdAt": "2026-02-20T07:56:39Z"
   }
 ]

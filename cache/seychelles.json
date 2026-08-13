@@ -1,5 +1,17 @@
 [
   {
+    "login": "davedon008-debug",
+    "name": "THE DON",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/242770005?s=72&u=e1b7b1a7c6906e76e9dc418e711b5ff7aa52b506&v=4",
+    "location": "Lekki Phase 1, Victoria Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 54,
+    "createdAt": "2025-11-08T09:14:58Z"
+  },
+  {
     "login": "ima17nepomuceno-spec",
     "name": "Fatima Nepomuceno",
     "avatarUrl": "https://avatars.githubusercontent.com/u/259114242?s=72&u=74118e62ce3c777765ae4cc5ee4259883832bbbb&v=4",
@@ -58,5 +70,17 @@
     "privateContributions": 0,
     "publicContributions": 58,
     "createdAt": "2026-04-08T14:11:26Z"
+  },
+  {
+    "login": "thando544",
+    "name": "thando mpofu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208626936?s=72&u=9ff5fd4820ad6af2238480598f4d2941cc3348cb&v=4",
+    "location": "victoria falls zimbabwe",
+    "company": "thandompofu",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2025-04-22T11:22:47Z"
   }
 ]

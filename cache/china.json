@@ -1,53 +1,5 @@
 [
   {
-    "login": "vincichan1089",
-    "name": "Vinci Chan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261729134?s=72&u=187c06bb5c221255a5bc5ebf426855ffe5c4bde7&v=4",
-    "location": "Hong Kong, China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 11,
-    "publicContributions": 30,
-    "createdAt": "2026-02-15T09:17:49Z"
-  },
-  {
-    "login": "eculoni",
-    "name": "Evan Chen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262602981?s=72&u=04e5ae10783ecc302eaaca6761e369db7e5c92d2&v=4",
-    "location": "Hong Kong, China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 66,
-    "createdAt": "2026-02-19T14:42:34Z"
-  },
-  {
-    "login": "JohnnyKong94",
-    "name": "Hongyi Jiang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276222918?s=72&v=4",
-    "location": "The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR, The People's Republic of China",
-    "company": "The Chinese University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-15T07:53:57Z"
-  },
-  {
-    "login": "bunnyera-global-admin",
-    "name": "BunnyEra-Global",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257604439?s=72&u=6d1dc41fdb635361e3359b6350b0f839986b62ce&v=4",
-    "location": "Hong Kong, China — operating globally",
-    "company": "@bunnyera-org",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 40,
-    "createdAt": "2026-01-27T18:17:13Z"
-  },
-  {
     "login": "tamyu321-source",
     "name": "Yorke Tang (Hsu)",
     "avatarUrl": "https://avatars.githubusercontent.com/u/272126479?s=72&v=4",
@@ -144,30 +96,6 @@
     "createdAt": "2026-03-02T12:50:52Z"
   },
   {
-    "login": "wilingna",
-    "name": "wilingna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264729697?s=72&u=50f3ed207e5a8a22cdd668926297430197b724d2&v=4",
-    "location": "China · Global",
-    "company": "AHA AI Studio",
-    "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 0,
-    "publicContributions": 158,
-    "createdAt": "2026-03-01T03:14:27Z"
-  },
-  {
-    "login": "Lalala777la",
-    "name": "Li",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259257840?s=72&u=744e057dbb2f2125f68e2ab017f0f75230dec624&v=4",
-    "location": "xuzhou，China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2026-02-04T05:41:20Z"
-  },
-  {
     "login": "TR114514-QwQ",
     "name": "TR114514",
     "avatarUrl": "https://avatars.githubusercontent.com/u/259224162?s=72&u=13caa2236b517618d1a356fe3a2535d06b4f4315&v=4",
@@ -250,30 +178,6 @@
     "privateContributions": 0,
     "publicContributions": 85,
     "createdAt": "2026-01-19T15:07:31Z"
-  },
-  {
-    "login": "quantai1314",
-    "name": "Quantai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263023465?s=72&u=efbf2e84840b144cee02f5a9712e77b7ddd4cf98&v=4",
-    "location": "No.96, JinZhai Road, Baohe District, Hefei, Anhui, P.R. China",
-    "company": "University of Science and Technology of China",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 33,
-    "createdAt": "2026-02-21T15:51:13Z"
-  },
-  {
-    "login": "suxiangyu138",
-    "name": "苏巷雨",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256418973?s=72&u=a1bc0d97418f963f3d32a9cee584113d5839c730&v=4",
-    "location": "Anhui Heifei China",
-    "company": "I am just a student",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 1639,
-    "publicContributions": 27,
-    "createdAt": "2026-01-21T19:14:39Z"
   },
   {
     "login": "SteadyLiu85",
@@ -394,30 +298,6 @@
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2026-03-01T15:08:58Z"
-  },
-  {
-    "login": "wengzige",
-    "name": "Anger",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/260234670?s=72&v=4",
-    "location": "Tianjin University (Beiyangyuan Campus), No.135 Yaguan Road, Haihe Education Park, Jinnan District, Tianjin 300354, P.R. China",
-    "company": "Tianjin University",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 223,
-    "createdAt": "2026-02-08T13:29:12Z"
-  },
-  {
-    "login": "YuxuanGao0822",
-    "name": "Yuxuan Gao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258606327?s=72&u=53e739010f612bb7a78dfd6b197231f3c83f87ae&v=4",
-    "location": "University of Science and Technology of China, No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.",
-    "company": "University of Science and Technology of China",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 61,
-    "createdAt": "2026-02-01T12:39:14Z"
   },
   {
     "login": "XiuFan719",
@@ -768,18 +648,6 @@
     "createdAt": "2026-01-08T08:58:58Z"
   },
   {
-    "login": "PWJCSqiushan",
-    "name": "PWJCSqiushan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258035816?s=72&u=2e44ac01a561904207979feb26a3a40cd17e7f6a&v=4",
-    "location": "Jilin China",
-    "company": "Jilin University",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 109,
-    "publicContributions": 160,
-    "createdAt": "2026-01-29T14:56:32Z"
-  },
-  {
     "login": "DannylydST",
     "name": "Danny Liu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/263130025?s=72&u=01afb737340c989d0fa48b8c91a30b5423cbc3e0&v=4",
@@ -790,18 +658,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-02-22T08:16:11Z"
-  },
-  {
-    "login": "Hank7890",
-    "name": "Sihan Hou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257133438?s=72&u=18878449eed06b8d5f3cb4d8d9b143df529f2833&v=4",
-    "location": "Tianjin China",
-    "company": "Nankai University",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2026-01-25T15:19:09Z"
   },
   {
     "login": "zixuanma-tech",
@@ -828,18 +684,6 @@
     "createdAt": "2026-03-05T13:17:24Z"
   },
   {
-    "login": "zhouyifan007",
-    "name": "Yifan Zhou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/260085197?s=72&v=4",
-    "location": "No. 300, Xueshi Road, Hanpu Science and Education Park, Yuelu District, Changsha City, Hunan Province, P.R. China",
-    "company": "Hunan University of Chinese Medicine",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2026-02-07T15:28:38Z"
-  },
-  {
     "login": "luskB",
     "name": "Jiabao Shang ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/254248570?s=72&v=4",
@@ -862,18 +706,6 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-03-03T08:08:52Z"
-  },
-  {
-    "login": "wangchengguo727",
-    "name": "王成果",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257106283?s=72&u=c6b14d55ef8bd003feab0fb4638a04c3c411d62d&v=4",
-    "location": "China Tianjin",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 47,
-    "createdAt": "2026-01-25T12:03:34Z"
   },
   {
     "login": "CrazySue",
@@ -1030,18 +862,6 @@
     "privateContributions": 0,
     "publicContributions": 91,
     "createdAt": "2026-01-04T23:48:05Z"
-  },
-  {
-    "login": "zyqxx998",
-    "name": "Zhang Yinqiu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264650025?s=72&v=4",
-    "location": "Wuhan University No. 299, Bayi Road Wuchang District Wuhan, Hubei Province 430072 China",
-    "company": "Wuhan University",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 17,
-    "createdAt": "2026-02-28T15:35:05Z"
   },
   {
     "login": "manhandley",
@@ -1308,18 +1128,6 @@
     "createdAt": "2026-03-18T12:12:56Z"
   },
   {
-    "login": "Tic-Cao",
-    "name": "Tic Cao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283930595?s=72&u=0f85f93a53bc806aaec75b769ce4b07916284d49&v=4",
-    "location": "The People's Republic of CHINA",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2026-05-12T08:44:29Z"
-  },
-  {
     "login": "qkkrran",
     "name": "Chen Wenjia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/259888026?s=72&u=ac32736269b37b188f8bf3fe4eeff4ded5e36b4f&v=4",
@@ -1330,30 +1138,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-02-06T14:50:14Z"
-  },
-  {
-    "login": "eraserzz",
-    "name": "Xinbo Zhang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267846638?s=72&v=4",
-    "location": "Southeast University No. 2 Sipailou, Xuanwu District Nanjing, Jiangsu 210096 People's Republic of China",
-    "company": "Southeast University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-13T05:42:25Z"
-  },
-  {
-    "login": "alexopenfan-xiaxin",
-    "name": "alex.xin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267281196?s=72&u=f4e78273e1c928db3d6c9e817aece47010a8478d&v=4",
-    "location": "The People's Republic of China.",
-    "company": "",
-    "twitterUsername": "openfan_Alex",
-    "followers": 1,
-    "privateContributions": 863,
-    "publicContributions": 395,
-    "createdAt": "2026-03-11T08:44:26Z"
   },
   {
     "login": "chen9775",
@@ -1416,18 +1200,6 @@
     "createdAt": "2026-01-10T14:30:10Z"
   },
   {
-    "login": "XingranWang-ai",
-    "name": "Xingran Wang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258524880?s=72&u=8cfb70b2cd6eb756f1c99199d258ba58e4306f80&v=4",
-    "location": "Liaoning .China",
-    "company": "BOHAI UNIVERSITY",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 66,
-    "createdAt": "2026-02-01T01:16:56Z"
-  },
-  {
     "login": "haocake",
     "name": "strawberry cake 王浩 ♡",
     "avatarUrl": "https://avatars.githubusercontent.com/u/256231860?s=72&u=8c9ae88a511e6a3bea874177fd17bde668da5626&v=4",
@@ -1450,18 +1222,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-18T23:46:17Z"
-  },
-  {
-    "login": "yunduohan",
-    "name": "Han Yunduo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252587509?s=72&u=ca4bde019981a42277047d26fcd2dcfc48f6bf78&v=4",
-    "location": "No. 555 Wangjiang West Road, Shushan District, Hefei, Anhui 230088, P. R. China",
-    "company": "Hangzhou Dianzi University",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-01-02T12:38:54Z"
   },
   {
     "login": "jiale-li-orion",
@@ -1824,18 +1584,6 @@
     "createdAt": "2026-01-11T00:10:36Z"
   },
   {
-    "login": "syqkzw-dev",
-    "name": "liuxu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256025178?s=72&v=4",
-    "location": "China AnHui",
-    "company": "Anhui Normal University",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-01-20T04:50:15Z"
-  },
-  {
     "login": "jsripaer",
     "name": "Nimo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255457017?s=72&u=9c846a61290bd5ddbe4d295f7a6be7be01b14f7f&v=4",
@@ -2076,30 +1824,6 @@
     "createdAt": "2026-02-05T13:15:25Z"
   },
   {
-    "login": "Mendel-Peas",
-    "name": "MendelPeas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252144601?s=72&u=bca50d22dd8a737656d43332f1f953056095aaba&v=4",
-    "location": "China Henan Province",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2025-12-30T08:27:30Z"
-  },
-  {
-    "login": "faye1003",
-    "name": "RUNXIN LIU",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/274723013?s=72&v=4",
-    "location": "taipa, macau, China SAR",
-    "company": "University of Macau",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-09T06:11:41Z"
-  },
-  {
     "login": "tina20011008",
     "name": "Tianyue Feng",
     "avatarUrl": "https://avatars.githubusercontent.com/u/274994863?s=72&v=4",
@@ -2182,18 +1906,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-10T20:52:10Z"
-  },
-  {
-    "login": "cyx034",
-    "name": "陈雨欣（Chen Yuxin）",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252107457?s=72&v=4",
-    "location": "No. 37, University Town Middle Road, Shapingba District, Chongqing, P. R. China",
-    "company": "Chongqing Normal University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 47,
-    "createdAt": "2025-12-30T02:57:49Z"
   },
   {
     "login": "Eloise-Gao",
@@ -2376,18 +2088,6 @@
     "createdAt": "2025-12-27T07:32:42Z"
   },
   {
-    "login": "yichen-kong",
-    "name": "LapLab",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/251948120?s=72&u=e7361c7ee0ae9ef4863626e5cf037bcba43af890&v=4",
-    "location": "Xining Qinhai China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 46,
-    "createdAt": "2025-12-29T04:23:15Z"
-  },
-  {
     "login": "haopenglau",
     "name": "haopeng.liu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/263208104?s=72&u=ca586ef5947fb623dddc3b5cdeac5e1edd15f3c0&v=4",
@@ -2508,18 +2208,6 @@
     "createdAt": "2026-01-18T18:27:11Z"
   },
   {
-    "login": "chengyk-pnprobotics",
-    "name": "Chengyk@PNPRobotics",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257240286?s=72&u=44277d13d1f9d49752276d2684a5bba094d3ec8e&v=4",
-    "location": "Suzhou China",
-    "company": "Plug and Play Robotics (Suzhou) Co., Ltd.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-01-26T06:35:08Z"
-  },
-  {
     "login": "JusticeAudrey",
     "name": "li jiayu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/258387989?s=72&u=8f5f2b481f3d643e2da5255584d567d835931764&v=4",
@@ -2542,18 +2230,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-02-22T12:15:38Z"
-  },
-  {
-    "login": "JinsSue",
-    "name": "Jins Sue",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252444662?s=72&u=280468e3e1af0232581af58e41b6dd7fcf317ff1&v=4",
-    "location": "China-Hebei",
-    "company": "Crazy Sue Team",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2026-01-01T12:11:02Z"
   },
   {
     "login": "zhaoxiao5174-beep",
@@ -2602,18 +2278,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-09T09:41:10Z"
-  },
-  {
-    "login": "twenhui2-afk",
-    "name": "Tang Wenhui",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258972242?s=72&v=4",
-    "location": "Xuefu Xinyuan, No. 3 Luoshi Road, Luonan Sub-district, Hongshan District, Wuhan City, Hubei Province, P.R. China",
-    "company": "Wuhan University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2026-02-03T02:42:59Z"
   },
   {
     "login": "JonathaDick",
@@ -2856,30 +2520,6 @@
     "createdAt": "2025-12-30T07:10:07Z"
   },
   {
-    "login": "soyorin01",
-    "name": "Wang Sai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256533359?s=72&v=4",
-    "location": "No. 555 Wangjiang West Road, Shushan District, Hefei, Anhui 230088, P. R. China",
-    "company": "Hangzhou Dianzi University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2026-01-22T09:44:04Z"
-  },
-  {
-    "login": "T1CK077",
-    "name": "TICK",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257963011?s=72&u=8411914322263370a160cac6bd7ed0f53891c5ca&v=4",
-    "location": "Guangxi, China Mainland",
-    "company": "Guangxi University of Foreign Languages",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2026-01-29T08:42:21Z"
-  },
-  {
     "login": "davinwoo",
     "name": "Davin Wu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/261633444?s=72&v=4",
@@ -2914,18 +2554,6 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2026-02-05T05:55:40Z"
-  },
-  {
-    "login": "Eind-zd",
-    "name": "Zidan Ye",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264404931?s=72&u=2e54cf9ef5c4ebb73b9ee08fc108cbcd3777f27d&v=4",
-    "location": "Aberdeen Institute of Data Science and Artificial Intelligence, South China Normal University, Shishan Town, Nanhai District, Foshan, Guangdong, P.R. China, Postal Code: 528225",
-    "company": "South China Normal University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2026-02-27T12:12:46Z"
   },
   {
     "login": "Jpy20070309",
@@ -3130,18 +2758,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-01-02T23:52:37Z"
-  },
-  {
-    "login": "19959847099-sudo",
-    "name": "Adrian Hu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/251827589?s=72&u=11808296417738ebd6866d067eeb3855a94a4522&v=4",
-    "location": "China Fujian",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 24,
-    "createdAt": "2025-12-28T07:29:55Z"
   },
   {
     "login": "qingzhizhu517-rgb",
@@ -3372,18 +2988,6 @@
     "createdAt": "2026-01-04T11:09:43Z"
   },
   {
-    "login": "nyxx2026",
-    "name": "Rui Peng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255807719?s=72&v=4",
-    "location": "No. 555 Wangjiang West Road, Shushan District, Hefei, Anhui 230088, P. R. China",
-    "company": "Zhejiang Agriculture and Forestry University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-01-19T06:07:19Z"
-  },
-  {
     "login": "OtterOpenClaw",
     "name": "OtterOpenClaw",
     "avatarUrl": "https://avatars.githubusercontent.com/u/264545380?s=72&u=480ffff7db625798427de4f2df15412ffdd901a8&v=4",
@@ -3490,18 +3094,6 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-01-10T11:37:36Z"
-  },
-  {
-    "login": "aining0608-afk",
-    "name": "AiNing",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257233936?s=72&u=7877c76e9799d0e8b1632da235680a7c19bb982a&v=4",
-    "location": "ChongQing China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2026-01-26T05:47:31Z"
   },
   {
     "login": "MinkuGechev",
@@ -3622,18 +3214,6 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2026-03-05T15:23:25Z"
-  },
-  {
-    "login": "lijiatu-1",
-    "name": "Wang Xuntong",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256724701?s=72&u=5c43ff4993f6c1e9c33fdb7b7c5ecd233dc143b0&v=4",
-    "location": "- Address: Hubei University of Economics, Canglongdao Campus ​ - City: Wuhan ​ - State: Hubei ​ - ZIP: 430205 ​ - Country: China",
-    "company": "Hubei University of Economics",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2026-01-23T06:18:28Z"
   },
   {
     "login": "kanghan-ai",
@@ -3864,30 +3444,6 @@
     "createdAt": "2026-01-06T02:21:46Z"
   },
   {
-    "login": "UzawaReisaQwQ",
-    "name": "玲羽",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195327324?s=72&u=9f9d82d06a01ce5a2b5fd0934b1fed362a9bac69&v=4",
-    "location": "Hong Kong, China",
-    "company": "Guangzhou Xinghui Network",
-    "twitterUsername": "ZeroNight2024",
-    "followers": 24,
-    "privateContributions": 22,
-    "publicContributions": 56,
-    "createdAt": "2025-01-16T15:57:40Z"
-  },
-  {
-    "login": "sweetsky123",
-    "name": "花生莲子粥",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/218804749?s=72&u=245baf699e930eaacb194901940a9551abfe9df7&v=4",
-    "location": "Hong Kong China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 28,
-    "publicContributions": 229,
-    "createdAt": "2025-07-01T15:37:50Z"
-  },
-  {
     "login": "M-Patek",
     "name": "M-I3reak",
     "avatarUrl": "https://avatars.githubusercontent.com/u/231604016?s=72&u=c269556da3531bd32c26a9bd22a6e37f82af2ed3&v=4",
@@ -3910,42 +3466,6 @@
     "privateContributions": 0,
     "publicContributions": 133,
     "createdAt": "2025-01-19T09:13:59Z"
-  },
-  {
-    "login": "YitaoXU",
-    "name": "XU Yitao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198423858?s=72&u=b899e0a0440109b3067cd829a49f2c283b1437a8&v=4",
-    "location": "Hong Kong, China",
-    "company": "Chinese Unversity of Hong Kong",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 47,
-    "createdAt": "2025-02-09T05:55:39Z"
-  },
-  {
-    "login": "Meldrum-AI",
-    "name": "Meikaku Saki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198031568?s=72&u=5a5bc789509ca32803c03589dcd1bdd832a3eab1&v=4",
-    "location": "Hong Kong, China",
-    "company": "Chinese University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2025-02-06T07:25:25Z"
-  },
-  {
-    "login": "innalhy",
-    "name": "harpernomath",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195944487?s=72&u=5f063320bcf9753f34ee6d7b3075c4ea6ac3e4ec&v=4",
-    "location": "Hong Kong SAR China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 104,
-    "publicContributions": 32,
-    "createdAt": "2025-01-21T17:16:33Z"
   },
   {
     "login": "x1aomuchong",
@@ -4224,18 +3744,6 @@
     "createdAt": "2026-01-13T05:45:06Z"
   },
   {
-    "login": "kinogram",
-    "name": "Kinogram",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253527906?s=72&u=748830f9cf45e3720867e03b0d3c5d00671f8e75&v=4",
-    "location": "china jiangsu",
-    "company": "middle school",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 293,
-    "createdAt": "2026-01-07T15:05:42Z"
-  },
-  {
     "login": "shengwenxiao8",
     "name": "Xiao ShengWen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/265480057?s=72&u=f0fc0788253a0b2ebc5cd8b5406473022bc9f3c1&v=4",
@@ -4356,18 +3864,6 @@
     "createdAt": "2026-01-29T09:02:59Z"
   },
   {
-    "login": "HorizonCCCC",
-    "name": "Cai Zhongyao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264122871?s=72&v=4",
-    "location": "No. 555 Wangjiang West Road, Shushan District, Hefei, Anhui 230088, P. R. China",
-    "company": "Shanghai Jiao Tong University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-02-26T09:18:00Z"
-  },
-  {
     "login": "CHYU-05",
     "name": "HAOYU CHENG",
     "avatarUrl": "https://avatars.githubusercontent.com/u/258409515?s=72&v=4",
@@ -4414,18 +3910,6 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2026-01-27T11:24:33Z"
-  },
-  {
-    "login": "UnsettingGalaxy",
-    "name": "wcx",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255911665?s=72&u=52de1ebae9271852fba9d134b72d8bcfc2039907&v=4",
-    "location": "Peking China",
-    "company": "PKU",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 36,
-    "createdAt": "2026-01-19T15:22:12Z"
   },
   {
     "login": "duxueyi",
@@ -4956,18 +4440,6 @@
     "createdAt": "2026-01-27T09:52:03Z"
   },
   {
-    "login": "caobotao1234-star",
-    "name": "bottlecao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263890617?s=72&v=4",
-    "location": "Qingdao Shandong China",
-    "company": "Haier",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 34,
-    "createdAt": "2026-02-25T11:05:51Z"
-  },
-  {
     "login": "xibei0422",
     "name": "Junjie Jia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/262255890?s=72&u=916b1c844784cc631565ca6b30cd205f3477a58f&v=4",
@@ -5136,30 +4608,6 @@
     "createdAt": "2026-03-04T07:34:19Z"
   },
   {
-    "login": "newxspace",
-    "name": "newx",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/265010959?s=72&u=b0e373e6862dd603d19567ae3b77c863054f6c41&v=4",
-    "location": "Guangdong China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2026-03-02T12:24:44Z"
-  },
-  {
-    "login": "pp629",
-    "name": "YaQi Pan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252536027?s=72&u=e244be1cd4fee919cf664b8e9313ba49b8374713&v=4",
-    "location": "No. 932 South Lushan Road, Yuelu District, Changsha, Hunan 410083, P.R. China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2026-01-02T05:34:36Z"
-  },
-  {
     "login": "991ZGR",
     "name": "91ZGR",
     "avatarUrl": "https://avatars.githubusercontent.com/u/256015699?s=72&u=fa2cbd5a43e0a095cee54e5395446e72ec22a9c4&v=4",
@@ -5194,54 +4642,6 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-01-29T11:59:17Z"
-  },
-  {
-    "login": "hinhoandy30",
-    "name": "WONG, Hin Ho",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/245410195?s=72&v=4",
-    "location": "Hong Kong, China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2025-11-21T15:23:59Z"
-  },
-  {
-    "login": "Axhuoga3",
-    "name": "Zhang_Xu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197858549?s=72&u=82ee79ab7491b201ffe38605a591454911cb6f28&v=4",
-    "location": "China Hong Kong",
-    "company": "",
-    "twitterUsername": "axihuoga1203",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-02-05T03:40:38Z"
-  },
-  {
-    "login": "SenDuLuke",
-    "name": "Sen Du",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/241070881?s=72&u=653829db1931fc52523706cd68a0ef5608038714&v=4",
-    "location": "Hong Kong, China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2025-10-30T07:29:12Z"
-  },
-  {
-    "login": "Steph-Kwan",
-    "name": "Stephen Kwan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198049708?s=72&v=4",
-    "location": "Hong Kong, China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2025-02-06T10:03:27Z"
   },
   {
     "login": "rootsteven",
@@ -5292,18 +4692,6 @@
     "createdAt": "2025-12-07T08:47:50Z"
   },
   {
-    "login": "HuanruiYang",
-    "name": "Yang Huanrui",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258004946?s=72&u=efcd0b44dd14bde5638f49d0a31a130fee83c309&v=4",
-    "location": "Renmin University of China",
-    "company": "Renmin University of China",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 33,
-    "createdAt": "2026-01-29T12:25:48Z"
-  },
-  {
     "login": "Traneasy-official",
     "name": "Traneasy - Professional AI Translation Solutions",
     "avatarUrl": "https://avatars.githubusercontent.com/u/259996660?s=72&u=93b75a41f56656a584aec2ac5d8718c74cec9b66&v=4",
@@ -5350,18 +4738,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-26T18:34:54Z"
-  },
-  {
-    "login": "boluodehai66",
-    "name": "Liang Yiming",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263842672?s=72&v=4",
-    "location": "No. 555 Wangjiang West Road, Shushan District, Hefei, Anhui 230088, P. R. China",
-    "company": "Xinjiang University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 40,
-    "createdAt": "2026-02-25T06:58:58Z"
   },
   {
     "login": "weigoing451-code",
@@ -5496,18 +4872,6 @@
     "createdAt": "2026-01-10T10:44:30Z"
   },
   {
-    "login": "pine-zha",
-    "name": "Zha Wanrong",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252159991?s=72&v=4",
-    "location": "999 Xuefu Road, Honggutan District, Nanchang, Jiangxi, P. R. China",
-    "company": "NanCangUniversity",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-12-30T10:25:32Z"
-  },
-  {
     "login": "matFoolCode",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/262268165?s=72&u=cc90047011994e4a7e6a6c1243695277112e7b1a&v=4",
@@ -5592,18 +4956,6 @@
     "createdAt": "2026-02-08T12:38:58Z"
   },
   {
-    "login": "Jake-Faulkner",
-    "name": "Jake Faulkner ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258997434?s=72&v=4",
-    "location": "Jiangsu China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-02-03T05:29:17Z"
-  },
-  {
     "login": "Demonartes",
     "name": "Vladislav",
     "avatarUrl": "https://avatars.githubusercontent.com/u/259053261?s=72&v=4",
@@ -5614,18 +4966,6 @@
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2026-02-03T09:59:23Z"
-  },
-  {
-    "login": "NatsuHiko0707",
-    "name": "Qian Bingzhang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259902856?s=72&v=4",
-    "location": "China，Fujian，Fu Zhou University",
-    "company": "Fu Zhou University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2026-02-06T15:59:16Z"
   },
   {
     "login": "dht6218",
@@ -5722,18 +5062,6 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-02-26T17:06:33Z"
-  },
-  {
-    "login": "triple-gold-wang",
-    "name": "Xinyang wang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252151305?s=72&v=4",
-    "location": "Hunan University, 2 Lushan South Road, Yuelu District, Changsha, Hunan 410082, P.R. China",
-    "company": "Hunan University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2025-12-30T09:18:33Z"
   },
   {
     "login": "damingishere-coder",
@@ -5976,54 +5304,6 @@
     "createdAt": "2026-03-05T13:36:30Z"
   },
   {
-    "login": "taddyting-commitsbear",
-    "name": "Ting Chun Hei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232515110?s=72&u=a91e2a5fff6b828b010afcdca7e0420892bcc30f&v=4",
-    "location": "Hong Kong SAR of China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 64,
-    "createdAt": "2025-09-16T05:50:50Z"
-  },
-  {
-    "login": "hkebus",
-    "name": "HKeBus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204831413?s=72&u=11598ea70adacf9b793832f0df3e501d72f9af38&v=4",
-    "location": "Room ZN618, 6/F, North Wing, Block Z, Phase 8, 181 Chatham Road South, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong, China",
-    "company": "@HKPolyu",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-03-25T06:36:04Z"
-  },
-  {
-    "login": "zheming1210",
-    "name": "zzm",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232017454?s=72&u=66d660b08df5deda1f1432ea4e86f5688551174d&v=4",
-    "location": "HONG KONG, China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2025-09-13T05:52:14Z"
-  },
-  {
-    "login": "Chengeat",
-    "name": "Chengeat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/220852370?s=72&u=6806da28858cbef5089dcc8131b38fd20037cd07&v=4",
-    "location": "Hong Kong,China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2025-07-15T08:06:11Z"
-  },
-  {
     "login": "mzhouap",
     "name": "Monterey Zhou",
     "avatarUrl": "https://avatars.githubusercontent.com/u/194500253?s=72&v=4",
@@ -6082,5 +5362,41 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-04-03T23:08:15Z"
+  },
+  {
+    "login": "bryantyugenius",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267617063?s=72&u=cca166847116d392e29f8e6dc9a13668da9b21f8&v=4",
+    "location": "Guangzhou, Shenzhen & Hong Kong",
+    "company": "Allegrow Biotech",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2026-03-12T10:08:27Z"
+  },
+  {
+    "login": "shiuhou",
+    "name": "SHI UHou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279755576?s=72&v=4",
+    "location": "No. 1, Duxue Road, Nansha District, Guangzhou, Guangdong . Hong Kong University of science and technology ( guangzhou campus)",
+    "company": "Hong Kong University of science and technology ( guangzhou )",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2026-04-27T15:00:08Z"
+  },
+  {
+    "login": "Neutralmilkzzz",
+    "name": "Zihao Zhao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216463318?s=72&u=2656f3dbe27daf820676f297c04dbb76c86affb8&v=4",
+    "location": "Hong Kong & Shanghai",
+    "company": "The University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 388,
+    "createdAt": "2025-06-16T01:33:10Z"
   }
 ]

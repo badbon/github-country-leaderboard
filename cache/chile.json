@@ -540,18 +540,6 @@
     "createdAt": "2026-03-12T17:19:01Z"
   },
   {
-    "login": "mxrtnn",
-    "name": "Martin Jara",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270465899?s=72&u=6fa1598e4007e07a2531fc7875664f9c1b867cf8&v=4",
-    "location": "Quilpue - Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 98,
-    "createdAt": "2026-03-23T20:24:39Z"
-  },
-  {
     "login": "cibertechsecure",
     "name": "CIBERTECHSECURE",
     "avatarUrl": "https://avatars.githubusercontent.com/u/257538771?s=72&u=65b701c11ddb39f28ccd9849d85fd68991b4f023&v=4",
@@ -1764,18 +1752,6 @@
     "createdAt": "2026-03-27T01:46:28Z"
   },
   {
-    "login": "bitcoppertech-collab",
-    "name": "Bitcopper Tech",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262457853?s=72&u=91f1651817aa155aefe59aea3146e8924f0c4b6c&v=4",
-    "location": "Calama, Chile · Cheyenne, WY",
-    "company": "Bitcopper Technologies LLC · Wyoming",
-    "twitterUsername": "Cupr_29",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 237,
-    "createdAt": "2026-02-18T23:01:41Z"
-  },
-  {
     "login": "miguelrs-dev",
     "name": "MiguelDev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/253848882?s=72&v=4",
@@ -2256,18 +2232,6 @@
     "createdAt": "2025-05-28T02:32:10Z"
   },
   {
-    "login": "NattyPavez",
-    "name": "Natalia ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196650699?s=72&u=1f1cb4e63dffa3327d39294bed185e36223b348e&v=4",
-    "location": "Puerto Varas - Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2025-01-27T13:22:58Z"
-  },
-  {
     "login": "Gonzalo-Gonzalez-A",
     "name": "Gonzalo Gonzalez Arostegui",
     "avatarUrl": "https://avatars.githubusercontent.com/u/213811796?s=72&u=200e8fba3f35fe027f93971df3580e52e3528f3d&v=4",
@@ -2674,18 +2638,6 @@
     "privateContributions": 688,
     "publicContributions": 29,
     "createdAt": "2025-03-14T00:54:24Z"
-  },
-  {
-    "login": "ZzRszgoutsS",
-    "name": "z ZtheRsxz4756🔥zZ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/221396984?s=72&v=4",
-    "location": "Chile Purranque ",
-    "company": "Ninguna ",
-    "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-07-17T17:25:50Z"
   },
   {
     "login": "CyCklop",
@@ -3588,18 +3540,6 @@
     "createdAt": "2025-09-01T00:00:28Z"
   },
   {
-    "login": "Bazzty",
-    "name": "Bastian Contreras",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/220558484?s=72&u=8ecaff624c1c451d7f951f3e3038f7da175980ab&v=4",
-    "location": "Chile - Puerto Montt",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 348,
-    "createdAt": "2025-07-13T05:22:34Z"
-  },
-  {
     "login": "SheoInformatic",
     "name": "Sheo Engineer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/207281485?s=72&u=bd7ad9d87e37a3945c018bbdadbf73a3d110716b&v=4",
@@ -4030,18 +3970,6 @@
     "privateContributions": 0,
     "publicContributions": 124,
     "createdAt": "2025-09-02T00:10:03Z"
-  },
-  {
-    "login": "ilSktty",
-    "name": "Sktty",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/210785024?s=72&u=e679d5ad16f022d95718655d62d8c8815e89c894&v=4",
-    "location": "Pontificia Universidad Católica de Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 26,
-    "createdAt": "2025-05-08T01:10:47Z"
   },
   {
     "login": "meriadox",
@@ -4570,5 +4498,29 @@
     "privateContributions": 0,
     "publicContributions": 220,
     "createdAt": "2025-01-17T12:17:40Z"
+  },
+  {
+    "login": "humbertovvaronafong",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211535104?s=72&u=6adbb954661ff5ea9f052a9fc726d1044869ab1f&v=4",
+    "location": "Santiago de Cuba",
+    "company": "Hospital Psiquiatrico Provincial Docente Gustavo Machin",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2025-05-13T15:00:27Z"
+  },
+  {
+    "login": "DerejSoftt",
+    "name": "DerejSoft",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203043156?s=72&u=f9adcad318f99abe585ba45bdd0080d4a15ba62d&v=4",
+    "location": "Santiago❤️ Republica Dominica.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 190,
+    "createdAt": "2025-03-13T02:02:22Z"
   }
 ]

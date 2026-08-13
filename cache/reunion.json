@@ -1,15 +1,39 @@
 [
   {
-    "login": "spartan-systems-ai",
-    "name": "Spartan Systems",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203617847?s=72&u=4bbaa69b425119c512b85abb7f04ec014dbc0044&v=4",
-    "location": "Ile de la Réunion",
+    "login": "bourgault314",
+    "name": "Gwenaël Bourgault",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229438633?s=72&u=2ff937a83c141c3d543f2f12b821901115db3621&v=4",
+    "location": "Réunion island ",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2025-03-17T08:11:19Z"
+    "publicContributions": 3103,
+    "createdAt": "2025-08-30T06:22:24Z"
+  },
+  {
+    "login": "Gabouin",
+    "name": "Gabouin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/249421334?s=72&u=f91b896c6334325c74299c35f08e9dd4fd258292&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 18,
+    "publicContributions": 1463,
+    "createdAt": "2025-12-13T09:10:27Z"
+  },
+  {
+    "login": "DeiTsukiii",
+    "name": "DeiTsuki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193235192?s=72&u=ef318d88a4782b1ab8ddbe08be6910034ec79fdb&v=4",
+    "location": "Reunion Island",
+    "company": "DeiTsuki corp",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 541,
+    "createdAt": "2024-12-30T12:45:48Z"
   },
   {
     "login": "Karl97490",
@@ -24,54 +48,6 @@
     "createdAt": "2025-10-10T07:54:53Z"
   },
   {
-    "login": "etoilary974-ship-it",
-    "name": "Creville Loewen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/227222486?s=72&v=4",
-    "location": "La réunion ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2025-08-18T16:15:17Z"
-  },
-  {
-    "login": "AquaLab974",
-    "name": "AQUA LAB",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203631637?s=72&u=e23e625f6b27a7d10075a784b8df19020022f448&v=4",
-    "location": "Ile de la réunion",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2025-03-17T10:00:06Z"
-  },
-  {
-    "login": "cassydjye",
-    "name": "Seedjye",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182767770?s=72&u=26a85ff7f31df80147411fe8f3e3b6b411e2ba47&v=4",
-    "location": "La Réunion",
-    "company": "Stage mairie",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 94,
-    "createdAt": "2024-09-25T11:59:50Z"
-  },
-  {
-    "login": "Say-Goodbi",
-    "name": "Lucien Rivière",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182765904?s=72&v=4",
-    "location": "Île de La Réunion",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 742,
-    "publicContributions": 139,
-    "createdAt": "2024-09-25T11:41:59Z"
-  },
-  {
     "login": "arthur-girardin-calbe",
     "name": "Arthur Girardin--Calbe",
     "avatarUrl": "https://avatars.githubusercontent.com/u/159119425?s=72&u=6c7be68e6e304e04f1b4905923b62be27a8a0ebe&v=4",
@@ -82,29 +58,5 @@
     "privateContributions": 916,
     "publicContributions": 95,
     "createdAt": "2024-02-06T08:22:56Z"
-  },
-  {
-    "login": "MaximeRougemont",
-    "name": "DAMOUR ROUGEMONT Maxime",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187209422?s=72&u=04a9f226f4572a9e999bd311fbb107eb71803664&v=4",
-    "location": "La Réunion",
-    "company": "@EpitechPGE1-2025 ",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 714,
-    "publicContributions": 15,
-    "createdAt": "2024-11-03T18:32:02Z"
-  },
-  {
-    "login": "AnthonyTurpinDev",
-    "name": "zero.dev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189956733?s=72&u=4dbd8730973b0079ffd6972dfc074120563184e8&v=4",
-    "location": "La Réunion",
-    "company": "Saint-Denis",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 56,
-    "createdAt": "2024-11-28T06:40:07Z"
   }
 ]

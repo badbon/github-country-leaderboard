@@ -1,5 +1,41 @@
 [
   {
+    "login": "aminentezarim",
+    "name": "Amin Entezari Maleki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199664720?s=72&u=ed3a60b810b88a7a03ca89d9eca5b379efa7a747&v=4",
+    "location": "Malekan County, East Azerbaijan province, Iran ",
+    "company": "Azarbijan Shahid Madani University ",
+    "twitterUsername": "aminentezarim",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-02-17T19:41:05Z"
+  },
+  {
+    "login": "ariandelir",
+    "name": "Arian Delir G.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/218389057?s=72&u=89fa23102daf6b4a9ad580b86ba2cf739877987b&v=4",
+    "location": "Tabriz, East Azerbaijan Province, Iran",
+    "company": "4ZGames",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2025-06-28T16:07:18Z"
+  },
+  {
+    "login": "omidgalaxy3-code",
+    "name": "omid babazadeh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245528318?s=72&u=f7f30eab07f868611c7d1796b1952a7ecd71b52b&v=4",
+    "location": "West Azerbaijan Province, Shout, North Motahari Street, Iran",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-11-22T09:50:00Z"
+  },
+  {
     "login": "Paradoxel",
     "name": "Mohammadreza ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/275289806?s=72&v=4",
@@ -22,18 +58,6 @@
     "privateContributions": 0,
     "publicContributions": 118,
     "createdAt": "2026-01-29T19:17:21Z"
-  },
-  {
-    "login": "AlirezaRezaeipour",
-    "name": "Alireza Rezaeipour",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/251731417?s=72&u=dfd4462f92e932f480a31a059449dec959e08055&v=4",
-    "location": "Iran Guilan Rasht",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 72,
-    "privateContributions": 0,
-    "publicContributions": 36,
-    "createdAt": "2025-12-27T12:55:57Z"
   },
   {
     "login": "AriPath",
@@ -166,18 +190,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-12-27T06:38:47Z"
-  },
-  {
-    "login": "mehdimauron",
-    "name": "Mehdi MAURON",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253372671?s=72&u=5e30d9fad41f96a5d0afeb0b84e5a8cbd78e6377&v=4",
-    "location": "IRAN - Tabriz",
-    "company": "No Avaran",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 30,
-    "createdAt": "2026-01-06T21:16:17Z"
   },
   {
     "login": "fatemehamanollahi698-gif",
@@ -468,18 +480,6 @@
     "createdAt": "2026-01-28T21:48:04Z"
   },
   {
-    "login": "amirdoosti377",
-    "name": "Amir Doosti",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263836606?s=72&u=5fc43692087ca2f6a2d33bd7384c7ac987f82a0a&v=4",
-    "location": "Iran Tabriz",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2026-02-25T06:25:07Z"
-  },
-  {
     "login": "AliJahdkaran",
     "name": "Ali Jahdkaran",
     "avatarUrl": "https://avatars.githubusercontent.com/u/277330408?s=72&u=0749628c8c8e540eddcfd0734bbc417236b8c502&v=4",
@@ -564,18 +564,6 @@
     "createdAt": "2026-02-20T11:29:06Z"
   },
   {
-    "login": "hamidrezaazarnia366-lgtm",
-    "name": "Hamidreza_Azarniya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259391137?s=72&u=346da6d64c03955175b9a36062e28fb365f8660a&v=4",
-    "location": "Iran-Tabriz",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2026-02-04T16:37:38Z"
-  },
-  {
     "login": "mohammad-vtnkhah",
     "name": "Mohammad Vatankhah",
     "avatarUrl": "https://avatars.githubusercontent.com/u/284028522?s=72&u=16a1fba639ab5206e1e635c067c3ae73d00caecc&v=4",
@@ -612,18 +600,6 @@
     "createdAt": "2026-02-08T06:36:55Z"
   },
   {
-    "login": "amirriza-eft",
-    "name": "AmirrizaEft",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263014878?s=72&u=f4bf922c7298927a788b216343ea610dcfdf88f5&v=4",
-    "location": "Iran-Tabriz",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 127,
-    "publicContributions": 1,
-    "createdAt": "2026-02-21T14:51:39Z"
-  },
-  {
     "login": "HananehDev",
     "name": "𝐇𝐚𝐧𝐚𝐧𝐞𝐡 𝐑𝐚𝐧𝐣𝐛𝐚𝐫𝐚𝐧",
     "avatarUrl": "https://avatars.githubusercontent.com/u/251715358?s=72&v=4",
@@ -634,18 +610,6 @@
     "privateContributions": 0,
     "publicContributions": 95,
     "createdAt": "2025-12-27T10:15:12Z"
-  },
-  {
-    "login": "sepideh-mehranfar",
-    "name": "Sepideh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263725261?s=72&v=4",
-    "location": "Iran Hamedan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 38,
-    "createdAt": "2026-02-24T18:01:57Z"
   },
   {
     "login": "nurollah-g",
@@ -756,18 +720,6 @@
     "createdAt": "2026-02-12T20:55:51Z"
   },
   {
-    "login": "amin-ranjbar1133",
-    "name": "AminRanjbar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261515326?s=72&v=4",
-    "location": "Kermanshahe iran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2026-02-13T21:36:10Z"
-  },
-  {
     "login": "prodi-coder",
     "name": "Mohammad Mehdi Abasian ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/263578345?s=72&u=334b191deabc6107a8fb31164cd62bfbfc9584b3&v=4",
@@ -778,18 +730,6 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2026-02-24T08:33:59Z"
-  },
-  {
-    "login": "24sevenrec",
-    "name": "24 Seven Recruitment",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281171335?s=72&u=623937a4a0d2c59cffa7edc9407c658fcf0fb6c5&v=4",
-    "location": "Suit # 01, 2nd floor, Tokyo Centre, Iran Road, Satellite Town, Rawalpindi",
-    "company": "24 Seven Recruitment Agency",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-05-02T12:31:59Z"
   },
   {
     "login": "AF-IR",
@@ -900,18 +840,6 @@
     "createdAt": "2026-02-10T16:48:27Z"
   },
   {
-    "login": "itarmin",
-    "name": "Armin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279153976?s=72&u=345262d0ad47d56ee91eedd0f00f9d77d66d81f7&v=4",
-    "location": "old iran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-25T00:41:01Z"
-  },
-  {
     "login": "Arianp89",
     "name": "Arian",
     "avatarUrl": "https://avatars.githubusercontent.com/u/281228128?s=72&u=b205e9e8e552e07471c804591ddde653e68e226b&v=4",
@@ -994,18 +922,6 @@
     "privateContributions": 0,
     "publicContributions": 60,
     "createdAt": "2026-01-02T19:13:16Z"
-  },
-  {
-    "login": "AmirmoZarifi-DEV",
-    "name": ":)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262186074?s=72&u=d24dba25d145c33d5ab732c6860e293dcc2d1e2e&v=4",
-    "location": "Iran  - Tabriz",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2026-02-17T18:12:08Z"
   },
   {
     "login": "aminranjibar2007",

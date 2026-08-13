@@ -1,5 +1,113 @@
 [
   {
+    "login": "SistaSoul",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35440620?s=72&v=4",
+    "location": "United Kingdom, Germany, Georgia, Caribbean",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-15T03:03:48Z"
+  },
+  {
+    "login": "Liminality197",
+    "name": "Ethan Lacey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258500540?s=72&u=700d33fd0e05d4688c6911d8e1ae7d6eb0e75aeb&v=4",
+    "location": "United Kingdom (Northern Ireland)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-31T21:00:22Z"
+  },
+  {
+    "login": "mikedrobinson",
+    "name": "Mike",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258316695?s=72&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 755,
+    "publicContributions": 94,
+    "createdAt": "2026-01-30T20:33:24Z"
+  },
+  {
+    "login": "Peak-Design",
+    "name": "Oskaras Spalvys",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269037624?s=72&u=92d9ef500ee367b6085ba868886fb056163e284f&v=4",
+    "location": "Dungannon, Northern Ireland",
+    "company": "Peak Design Services Ltd.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 61,
+    "createdAt": "2026-03-17T22:00:39Z"
+  },
+  {
+    "login": "avrajj",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252653408?s=72&v=4",
+    "location": "United Kingdom of Great Britain and Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 24,
+    "createdAt": "2026-01-02T21:02:33Z"
+  },
+  {
+    "login": "Astro-15",
+    "name": "Astro-15",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224300937?s=72&u=75a4544f1532562ec55268446528ced90c353eff&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 1028,
+    "createdAt": "2025-08-02T16:58:27Z"
+  },
+  {
+    "login": "Nazzal-hmm",
+    "name": "Nazzal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193905713?s=72&u=71ba269ad30079eda2707788b8638733a8b38842&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "Queen's University Belfast",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 8,
+    "publicContributions": 28,
+    "createdAt": "2025-01-06T12:27:32Z"
+  },
+  {
+    "login": "Iamengndegwa",
+    "name": "Henry Njuguna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246887466?s=72&u=e4c74f3dca11c09544bbb42c25e04ee59c9e48de&v=4",
+    "location": "Manchester and New Zealand",
+    "company": "Aidigi Limited (Co-Founder)",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2025-11-29T18:04:25Z"
+  },
+  {
+    "login": "JacobsenAess",
+    "name": "Vincent Reed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278977770?s=72&u=7107de0b7ec772e1b6e7bbdc92be2dd4bb0c2a3d&v=4",
+    "location": "Bristol Lane, Malmo Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-04-24T12:38:21Z"
+  },
+  {
     "login": "bisquebunnies",
     "name": "dolly ꨄᵎᵎֶָ֢",
     "avatarUrl": "https://avatars.githubusercontent.com/u/257114233?s=72&u=4684de98135e88f640a13c4764da9ef6e08dca98&v=4",
@@ -444,18 +552,6 @@
     "createdAt": "2026-04-04T06:52:05Z"
   },
   {
-    "login": "MOEctu",
-    "name": "Group#8 (Airline Reservation System)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254169033?s=72&u=a3d63cbaaf5e3d36a9a088cb64d5320f6f853f54&v=4",
-    "location": "New England",
-    "company": "Group8 (Airline Reservation System)",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2026-01-10T20:20:30Z"
-  },
-  {
     "login": "ryanwillis-finnerty",
     "name": "Ryan Willis Finnerty",
     "avatarUrl": "https://avatars.githubusercontent.com/u/259440240?s=72&u=b57b202bb640cfb490e4683422cfacabb05afd35&v=4",
@@ -528,18 +624,6 @@
     "createdAt": "2026-04-15T10:21:40Z"
   },
   {
-    "login": "kbpaesthetics",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/273315601?s=72&v=4",
-    "location": "Sheerness England United Kingdom",
-    "company": "KBP AESTHETICS HEALTH & BEAUTY CLINIC LTD",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-03T08:57:47Z"
-  },
-  {
     "login": "Fallen-Angel161",
     "name": "Archangel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/279366220?s=72&u=58ba96c9a9dbb0f9985e89ec7f8ffa53f3023cb0&v=4",
@@ -586,18 +670,6 @@
     "privateContributions": 0,
     "publicContributions": 37,
     "createdAt": "2026-01-20T11:24:40Z"
-  },
-  {
-    "login": "ba0v",
-    "name": "bảø",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254809568?s=72&u=edea065a07c8415a2d19e58c6ed8b148d32f40e1&v=4",
-    "location": "new england",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 169,
-    "publicContributions": 65,
-    "createdAt": "2026-01-14T02:00:49Z"
   },
   {
     "login": "StevenTapscott",
@@ -1618,18 +1690,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-05T12:19:23Z"
-  },
-  {
-    "login": "Tenda1",
-    "name": "Tendai Ntuli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267092135?s=72&u=7c3791a6320102a6a8c42c7fce5d893f7566b9b5&v=4",
-    "location": "Johannesburg & United Kingdom",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-03-10T16:06:43Z"
   },
   {
     "login": "Welddevelopment",

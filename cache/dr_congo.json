@@ -288,18 +288,6 @@
     "createdAt": "2025-12-04T13:01:12Z"
   },
   {
-    "login": "omangaben",
-    "name": "Ben",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200370649?s=72&u=299c0902d4a3ebf3b1eaebc5ea8aef0eb61c552b&v=4",
-    "location": "Goma DR Congo",
-    "company": "@sofiatechnology",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-02-22T11:26:16Z"
-  },
-  {
     "login": "jess-tech-dev",
     "name": "Jessy Kalanga ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/207659986?s=72&u=300498183fdbe4be6298679e4abafc9f68366b29&v=4",
@@ -514,5 +502,17 @@
     "privateContributions": 0,
     "publicContributions": 28,
     "createdAt": "2026-04-08T09:40:13Z"
+  },
+  {
+    "login": "EsikaGroupe",
+    "name": "Esika Groupe ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271185885?s=72&u=a077df1b1de601a844c67a9587c05cc85d618175&v=4",
+    "location": "Kinshasa république démocratique du Congo ",
+    "company": "Entreprise informatique ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-26T08:25:57Z"
   }
 ]

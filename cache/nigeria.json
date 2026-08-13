@@ -1,5 +1,101 @@
 [
   {
+    "login": "otiebhoriabenedicta-ctrl",
+    "name": "Otiebhoria Benedicta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277787145?s=72&u=369161077581b1458b586e7748152c5ea2fa4287&v=4",
+    "location": "Benin City, Nigeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2026-04-20T14:28:26Z"
+  },
+  {
+    "login": "kizod",
+    "name": "Kizod Technology",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270165656?s=72&u=6bbc48f717d993a47edf11812d8ea96228385677&v=4",
+    "location": "Benin City, Nigeria ",
+    "company": "Kizod Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-22T16:56:22Z"
+  },
+  {
+    "login": "lily1410",
+    "name": "Dev-lily",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210900968?s=72&u=40e27f56ada5b73d73ddfcafc5909be0cea5b935&v=4",
+    "location": "Benin-City, Nigeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2025-05-08T17:57:18Z"
+  },
+  {
+    "login": "jerryDev2",
+    "name": "Ehigiator Osaivbie Jerry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199095485?s=72&u=f80902c26799ea3af76d795d9888dae89d3fbd32&v=4",
+    "location": "Benin City, Nigeria",
+    "company": "",
+    "twitterUsername": "jerryscode",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 169,
+    "createdAt": "2025-02-13T13:17:13Z"
+  },
+  {
+    "login": "godsdelight-hub",
+    "name": "Martins Yakubu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238933219?s=72&v=4",
+    "location": "Benin City, Edo State, Nigeria",
+    "company": "Zoe Global Tech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-10-19T02:59:50Z"
+  },
+  {
+    "login": "famenaghawon",
+    "name": "Freedom Amenaghawon ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245344409?s=72&u=924d011c27867eaaa19cf5926350601439d31a1e&v=4",
+    "location": "Benin City, Nigeria",
+    "company": "@BioCompute-Nexus ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 42,
+    "createdAt": "2025-11-21T08:45:15Z"
+  },
+  {
+    "login": "Sirjoe311",
+    "name": "Jonathan Omhans Okhunkhun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213853624?s=72&u=9ba2bed75b06be3bff6bf956199081452680bb0a&v=4",
+    "location": "Lagos Island, Nigeria ",
+    "company": "Starship Insurance Brokers Ltd.",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-05-28T18:42:51Z"
+  },
+  {
+    "login": "shadowboy-tech",
+    "name": "Muhammad Inuwa Muhammad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215988838?s=72&u=e719b26b49bf88d213d7403e2adbbebe506706b6&v=4",
+    "location": "Federal University Of Technology Minna, Niger State, Nigeria.",
+    "company": "Federal University Of Technology, Minna",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2025-06-12T09:30:53Z"
+  },
+  {
     "login": "jude-uloko",
     "name": "Uloko Jude Ngbede ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/253105294?s=72&u=29293452119100297a7bd60d4bc7cbb82168b35e&v=4",
@@ -396,18 +492,6 @@
     "createdAt": "2026-02-25T10:51:36Z"
   },
   {
-    "login": "OfficialChizaramPrecious",
-    "name": "Chizaram Precious",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261632880?s=72&u=c7ec12b4b2b5f01f727f9e64c6365f57caa5bd6c&v=4",
-    "location": "Lagos State Nigeria",
-    "company": "Eworld Fortress",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 40,
-    "createdAt": "2026-02-14T15:54:23Z"
-  },
-  {
     "login": "Liamscodes01",
     "name": "LiamsCode",
     "avatarUrl": "https://avatars.githubusercontent.com/u/254334719?s=72&u=97986ca0de375873c0af95fa472639824a14d3d6&v=4",
@@ -468,18 +552,6 @@
     "createdAt": "2026-03-18T21:15:42Z"
   },
   {
-    "login": "shefzy-tech",
-    "name": "Shefzy  Tech",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279478122?s=72&v=4",
-    "location": " Lagos Nigeria",
-    "company": "Michiko Bot Inc.",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2026-04-26T14:27:14Z"
-  },
-  {
     "login": "BimbsyStats",
     "name": "Oladapo Abimbola",
     "avatarUrl": "https://avatars.githubusercontent.com/u/272522447?s=72&u=8233d12e66c7f5d1baee677a8be778b42602545b&v=4",
@@ -490,18 +562,6 @@
     "privateContributions": 0,
     "publicContributions": 46,
     "createdAt": "2026-03-31T12:41:04Z"
-  },
-  {
-    "login": "taiwoolafortune",
-    "name": "Taiwo Olaide Afolabi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255316582?s=72&u=110b3a4ef00cc38bdca9ea1fb02db00767056834&v=4",
-    "location": "Lagos Nigeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 52,
-    "createdAt": "2026-01-16T09:24:13Z"
   },
   {
     "login": "joshwilsonwill-boop",
@@ -574,18 +634,6 @@
     "privateContributions": 0,
     "publicContributions": 52,
     "createdAt": "2026-03-14T13:31:41Z"
-  },
-  {
-    "login": "collins3290",
-    "name": "Olatunji Collins Olorunda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253500979?s=72&u=ef8b7830c052bb3251e79865b63c0ebd0fbcd06d&v=4",
-    "location": "Lagos Nigeria ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2026-01-07T12:45:18Z"
   },
   {
     "login": "jirinsolaolaleye26-png",
@@ -960,18 +1008,6 @@
     "createdAt": "2026-04-09T12:27:25Z"
   },
   {
-    "login": "oriolaabidoye-design",
-    "name": "Abidoye Ibrahim Oriola",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278498948?s=72&v=4",
-    "location": "Osun osogbo Nigeria ",
-    "company": "God's Heritage Ventures Nigeria Ltd ",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-22T19:18:59Z"
-  },
-  {
     "login": "CyberPon",
     "name": "Ponsel Iliya",
     "avatarUrl": "https://avatars.githubusercontent.com/u/262234959?s=72&u=bd03cd0c0d1fd2a4bf293790384ed1c106e62bb3&v=4",
@@ -1068,18 +1104,6 @@
     "createdAt": "2026-01-26T10:56:27Z"
   },
   {
-    "login": "walkeerdoorayya1",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261660085?s=72&u=43feb045791bfdddfc05e2cb2198b2874a489bce&v=4",
-    "location": "No7 safele street sabon gari zaria Kaduna state Nigeria ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 33,
-    "createdAt": "2026-02-14T19:36:22Z"
-  },
-  {
     "login": "abdulwahabbadmus001-creator",
     "name": "Wahab Opeyemi Badmus",
     "avatarUrl": "https://avatars.githubusercontent.com/u/268027566?s=72&u=9fbceb556bbb40aa554d7405193c5145b9da9edd&v=4",
@@ -1174,18 +1198,6 @@
     "privateContributions": 0,
     "publicContributions": 264,
     "createdAt": "2026-02-23T14:18:31Z"
-  },
-  {
-    "login": "miraclengwan47",
-    "name": "Ngwan Nenwarrangdung",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255333128?s=72&u=99cc000fb864685a10b3ec0553f6726cabc32bc4&v=4",
-    "location": "plateau Jos Nigeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 77,
-    "createdAt": "2026-01-16T10:59:49Z"
   },
   {
     "login": "bensxnisaac",
@@ -1440,18 +1452,6 @@
     "createdAt": "2026-02-13T16:37:43Z"
   },
   {
-    "login": "N742-sso",
-    "name": "Blessing otaikbor ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264911945?s=72&v=4",
-    "location": "Boji boji owa AGBor delta state Nigeria ",
-    "company": "Google drive email worker",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2026-03-02T03:35:12Z"
-  },
-  {
     "login": "anokwukimberly-spec",
     "name": "kim",
     "avatarUrl": "https://avatars.githubusercontent.com/u/266698145?s=72&u=6ee8a0208bb827224ed4c3cee66733f0a7435345&v=4",
@@ -1618,18 +1618,6 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2026-03-19T11:06:21Z"
-  },
-  {
-    "login": "christianaferan15-create",
-    "name": "Matti Oluwaferanmi ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279261757?s=72&v=4",
-    "location": "Lagos Nigeria ",
-    "company": "",
-    "twitterUsername": "MattiOlasu67538",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2026-04-25T13:25:11Z"
   },
   {
     "login": "tomblakeasaah196",
@@ -1800,18 +1788,6 @@
     "createdAt": "2026-03-11T18:24:35Z"
   },
   {
-    "login": "Desmond0808",
-    "name": "Terungwa Desmond Vershima",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262872155?s=72&v=4",
-    "location": "Lagos Nigeria ",
-    "company": "Desmond integrated Agro Ventures ",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2026-02-20T18:42:29Z"
-  },
-  {
     "login": "Beenuella",
     "name": "Atanmoh Ekwi Blessing",
     "avatarUrl": "https://avatars.githubusercontent.com/u/283664500?s=72&u=4deee8bab9a1e8df2e3a7b709cb38241a8da6837&v=4",
@@ -1860,18 +1836,6 @@
     "createdAt": "2026-03-03T23:09:18Z"
   },
   {
-    "login": "gnagalicious",
-    "name": "gnaga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258549199?s=72&u=ca79645c0053e8a5a449b1ff314f5cd7f7d31907&v=4",
-    "location": "nigeria - nigeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-02-01T05:24:14Z"
-  },
-  {
     "login": "sakavictor686-cell",
     "name": "Martin nectar ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/269624470?s=72&v=4",
@@ -1882,18 +1846,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-03-20T02:44:54Z"
-  },
-  {
-    "login": "active-X1",
-    "name": "Cyrus Akacha",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253447077?s=72&u=bfdb3ca6f485456de67b6f8aa1293432f5f280ed&v=4",
-    "location": "Adamawa state Nigeria ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 64,
-    "createdAt": "2026-01-07T07:35:33Z"
   },
   {
     "login": "watubu",
@@ -1978,18 +1930,6 @@
     "privateContributions": 0,
     "publicContributions": 63,
     "createdAt": "2026-04-30T00:52:31Z"
-  },
-  {
-    "login": "adamajohnpromise-beep",
-    "name": "John Adama",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256404822?s=72&u=33db3c8428c35074c1d29bfbb2e834d80e29c108&v=4",
-    "location": "Kano Nigeria ",
-    "company": "Vava furniture ",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-01-21T17:55:27Z"
   },
   {
     "login": "granttheemperor0007",
@@ -2146,18 +2086,6 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2026-03-02T16:14:16Z"
-  },
-  {
-    "login": "AA-Abiola",
-    "name": "Augustine L.Sangodare",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/265266570?s=72&u=1f37f0b867fa7fca0b5f7398cd34b7c80d932200&v=4",
-    "location": "Ogbomosho,Oyo state Nigeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 30,
-    "createdAt": "2026-03-03T11:54:17Z"
   },
   {
     "login": "OnyinyechiEkeneme",
@@ -2760,42 +2688,6 @@
     "createdAt": "2026-05-02T11:42:55Z"
   },
   {
-    "login": "AbdulhaqIbrahimabubakar",
-    "name": "Abdulhaq Ibrahim Abubakar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252228453?s=72&u=374eb047de6910dd76f1ba988d9d750f1ae4daac&v=4",
-    "location": "Barnawa, Kaduna Nigeria.",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2025-12-30T18:57:13Z"
-  },
-  {
-    "login": "GLORYWEB",
-    "name": "Glory F",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267270717?s=72&u=fe30ea971a8c5c2b82885c7cd2b30d90da72fdb5&v=4",
-    "location": "Ado Ekiti Nigeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-11T07:58:59Z"
-  },
-  {
-    "login": "aondoyilavincent-svg",
-    "name": "Aondoyila Vincent ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270191817?s=72&v=4",
-    "location": "Tse ikyegh mbalagh-tombo Buruku Benue state-Nigeria ",
-    "company": "Fortress-pro ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-22T19:56:28Z"
-  },
-  {
     "login": "ChinazaUmeaku",
     "name": "Umeaku Chinaza ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/270196762?s=72&u=fb316f19137ea8245ef344f213d0662fc6db3a68&v=4",
@@ -2866,30 +2758,6 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-02-03T16:45:12Z"
-  },
-  {
-    "login": "saeedzct59-wq",
-    "name": "Sa'eed Ahmad ALBANIY ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262057923?s=72&v=4",
-    "location": "Zaria city Kaduna state Nigeria ",
-    "company": "S.Albaniy Global Resources ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-02-17T05:52:13Z"
-  },
-  {
-    "login": "2faced-king",
-    "name": "David KING",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252733831?s=72&u=04cfac1c80107e363585fbcb954f8f48a0d4a49e&v=4",
-    "location": "Currently in NIGERIA",
-    "company": "OZONE",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-01-03T12:13:38Z"
   },
   {
     "login": "passionmoon95-alt",
@@ -2974,18 +2842,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-24T18:52:43Z"
-  },
-  {
-    "login": "Tonio-Odey",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269892582?s=72&u=9a456d8148e230b6fb4fe952f11251422e975ccc&v=4",
-    "location": "Lagos Nigeria ",
-    "company": "",
-    "twitterUsername": "Tech_Tonio",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 124,
-    "createdAt": "2026-03-21T07:37:00Z"
   },
   {
     "login": "albennxxx",
@@ -3288,18 +3144,6 @@
     "createdAt": "2026-05-09T19:25:52Z"
   },
   {
-    "login": "okiwelumarieterese23-droid",
-    "name": "Okiwelu Marie-Terese Chinwe ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254497845?s=72&u=08670869a48227e4c8b248b5a14806aa09a5eb9b&v=4",
-    "location": "Lagos Nigeria ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 17,
-    "createdAt": "2026-01-12T16:10:44Z"
-  },
-  {
     "login": "emmanuell-dev",
     "name": "Emmanuel Etiemonu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/253819342?s=72&v=4",
@@ -3528,18 +3372,6 @@
     "createdAt": "2026-05-09T11:28:09Z"
   },
   {
-    "login": "peterayeni70",
-    "name": "Peter Ayeni",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281830584?s=72&u=68a99d3f3a1dd09f29a91fbb45010712f3ad1d63&v=4",
-    "location": "Lagos nigeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 42,
-    "createdAt": "2026-05-05T04:46:20Z"
-  },
-  {
     "login": "JavaHvx",
     "name": "Adeniran Adebayo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/263956501?s=72&v=4",
@@ -3562,18 +3394,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-14T16:04:38Z"
-  },
-  {
-    "login": "mactechglobalhq",
-    "name": "MacTech Global Ventures Ltd.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259111986?s=72&u=6718447c629dc579fffba37e99d8530e514619b0&v=4",
-    "location": "Operating from Sheffield, UK 🇬🇧 and Nigeria 🇳🇬",
-    "company": "MacTech Global Ventures Ltd.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-02-03T14:20:35Z"
   },
   {
     "login": "engrahmadmuhammad",
@@ -3742,18 +3562,6 @@
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2026-03-19T23:10:51Z"
-  },
-  {
-    "login": "ChiDevsBckEng",
-    "name": "ChiDevsBckEng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266511611?s=72&v=4",
-    "location": "Lagos Nigeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2026-03-08T14:33:28Z"
   },
   {
     "login": "ShinaOwolabi",
@@ -4030,18 +3838,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-20T20:35:10Z"
-  },
-  {
-    "login": "mikeldiangelo",
-    "name": "Mikel Di Angelo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283062995?s=72&u=29959ba614473b8c5b8dcbf20b767dce0029aab6&v=4",
-    "location": "Lagos Nigeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2026-05-09T03:21:40Z"
   },
   {
     "login": "zion-robotics",
@@ -4368,18 +4164,6 @@
     "createdAt": "2026-02-25T08:38:27Z"
   },
   {
-    "login": "programmer-xx",
-    "name": "ISAAC WINNER ONYEKA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/274596813?s=72&v=4",
-    "location": "Federal University of Technology Owerri, Imo state Nigeria.",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-08T17:52:33Z"
-  },
-  {
     "login": "DavidOG102",
     "name": "ISRAEL-OGIRIBO DAVID EJIRO",
     "avatarUrl": "https://avatars.githubusercontent.com/u/274598173?s=72&v=4",
@@ -4438,18 +4222,6 @@
     "privateContributions": 16,
     "publicContributions": 133,
     "createdAt": "2026-02-08T21:44:15Z"
-  },
-  {
-    "login": "jamessmith45888-create",
-    "name": "jamesbuilds",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282690205?s=72&u=581ecb60a3e5840c26446901028148ebb75150b7&v=4",
-    "location": "lagos nigeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 13,
-    "createdAt": "2026-05-07T19:39:40Z"
   },
   {
     "login": "toperotimi",
@@ -4764,18 +4536,6 @@
     "createdAt": "2025-03-02T21:04:22Z"
   },
   {
-    "login": "Samuelakorede7",
-    "name": "Akorede Samuel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/275685971?s=72&u=5defb04cc11d9cbcfeae9c151514a9ee1e423cd6&v=4",
-    "location": "Lagos Nigeria ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-04-13T11:03:36Z"
-  },
-  {
     "login": "QuadriSodiq02",
     "name": "Quadri Sodiq",
     "avatarUrl": "https://avatars.githubusercontent.com/u/274971127?s=72&u=cfd04abfffa49b5eb0b9d5c5f877440eb2fe17e2&v=4",
@@ -4798,30 +4558,6 @@
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2026-04-11T06:19:28Z"
-  },
-  {
-    "login": "bhadmusmariam-ds",
-    "name": "Bhadmus Mariam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/273444725?s=72&u=ef6302a94bea43bc9dc0027b124222d72fee35cf&v=4",
-    "location": "Lagos Nigeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2026-04-03T20:51:49Z"
-  },
-  {
-    "login": "Ohlie-Dev",
-    "name": "Olivia James",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263311526?s=72&u=ee516ba6e6bcf109103e461cfff3c524396e2c12&v=4",
-    "location": "Lagos Nigeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 173,
-    "createdAt": "2026-02-23T07:31:33Z"
   },
   {
     "login": "Nova-2008",
@@ -4932,18 +4668,6 @@
     "createdAt": "2026-02-09T08:40:52Z"
   },
   {
-    "login": "bigbulger001-eng",
-    "name": "Ojobor Kenneth Uchenna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/265415617?s=72&v=4",
-    "location": "Nigeria Enugu state ",
-    "company": "POP ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-03-04T01:51:51Z"
-  },
-  {
     "login": "AzOnWeb",
     "name": "Azeez Hakeem",
     "avatarUrl": "https://avatars.githubusercontent.com/u/252398892?s=72&u=f293c3f3eb5a3cdd608874a9035a6f2a58c8b467&v=4",
@@ -5002,18 +4726,6 @@
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2026-03-07T00:13:28Z"
-  },
-  {
-    "login": "aliyubussinessservices-cyber",
-    "name": "Aliyu Business services bio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281212352?s=72&v=4",
-    "location": "Lagos and kano Nigeria ",
-    "company": "Aliyu business services ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2026-05-02T16:13:21Z"
   },
   {
     "login": "pdadah",

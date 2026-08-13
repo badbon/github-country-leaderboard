@@ -1,5 +1,17 @@
 [
   {
+    "login": "yannn2609-prog",
+    "name": "Yan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283921610?s=72&u=db8da4889eb61d2e53a337c0f9e84994b3d1410f&v=4",
+    "location": "Monash University, Wellington Rd, Clayton, VIC, 3800 Australia",
+    "company": "Monash University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-12T08:11:24Z"
+  },
+  {
     "login": "Poisonfrog222",
     "name": "allen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/256298178?s=72&u=fe7dc2842a5202b3316e11a7d1824ea19e59a8bf&v=4",
@@ -46,18 +58,6 @@
     "privateContributions": 0,
     "publicContributions": 431,
     "createdAt": "2026-01-31T22:17:41Z"
-  },
-  {
-    "login": "lorddangerous197",
-    "name": "Aaron",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/274347352?s=72&v=4",
-    "location": "54 South Rd, Manaia New Zealand.",
-    "company": "Paneke_github-pages-challenge-lorddangerous197@.k4a60e-ih.myshopify.com",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 7,
-    "publicContributions": 7,
-    "createdAt": "2026-04-07T22:51:27Z"
   },
   {
     "login": "NovaAsterX",
@@ -1200,18 +1200,6 @@
     "createdAt": "2025-03-20T00:13:11Z"
   },
   {
-    "login": "jemsmnn",
-    "name": "Jem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209843910?s=72&u=7650eac10083b3db64bea0d17efa313c8c96c4ae&v=4",
-    "location": "Auckland New Zealand ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 2,
-    "publicContributions": 1,
-    "createdAt": "2025-04-30T21:11:36Z"
-  },
-  {
     "login": "bitbangbill",
     "name": "Will",
     "avatarUrl": "https://avatars.githubusercontent.com/u/204442434?s=72&v=4",
@@ -1932,18 +1920,6 @@
     "createdAt": "2025-03-13T03:44:51Z"
   },
   {
-    "login": "Iamengndegwa",
-    "name": "Henry Njuguna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/246887466?s=72&u=e4c74f3dca11c09544bbb42c25e04ee59c9e48de&v=4",
-    "location": "Manchester and New Zealand",
-    "company": "Aidigi Limited (Co-Founder)",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2025-11-29T18:04:25Z"
-  },
-  {
     "login": "Drgeeda",
     "name": "Gerard Katu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/226942799?s=72&v=4",
@@ -2040,18 +2016,6 @@
     "createdAt": "2025-02-22T22:20:55Z"
   },
   {
-    "login": "Joshua-Systems",
-    "name": "Joshua Leevers",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201306473?s=72&v=4",
-    "location": "Auckland New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 176,
-    "publicContributions": 123,
-    "createdAt": "2025-03-01T02:46:29Z"
-  },
-  {
     "login": "hannah-portainer",
     "name": "Hannah Cooper",
     "avatarUrl": "https://avatars.githubusercontent.com/u/228626447?s=72&u=4873852d80517a605c428856a027490e04128997&v=4",
@@ -2062,18 +2026,6 @@
     "privateContributions": 77,
     "publicContributions": 115,
     "createdAt": "2025-08-26T02:08:06Z"
-  },
-  {
-    "login": "fivepanelhat",
-    "name": "WR",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/218020597?s=72&v=4",
-    "location": "Taranaki New Zealand",
-    "company": "Coastal Alpine Tech",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1,
-    "publicContributions": 1117,
-    "createdAt": "2025-06-26T02:49:58Z"
   },
   {
     "login": "Dylan-Watt",
@@ -2110,18 +2062,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-17T02:48:34Z"
-  },
-  {
-    "login": "NZjah",
-    "name": "Jahmen L Soprano ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217443844?s=72&v=4",
-    "location": "Auckland New Zealand ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-06-22T10:11:05Z"
   },
   {
     "login": "Piro2maniC",
@@ -2194,18 +2134,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-10-01T23:18:52Z"
-  },
-  {
-    "login": "luisgongorag1",
-    "name": "LUIS GONGORA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/236487222?s=72&v=4",
-    "location": "Auckland New Zealand",
-    "company": "The AI Automation",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 17,
-    "createdAt": "2025-10-06T22:58:47Z"
   },
   {
     "login": "oscar-randall",
@@ -2484,18 +2412,6 @@
     "createdAt": "2025-08-19T05:46:47Z"
   },
   {
-    "login": "MartinL-NZ",
-    "name": "MartinL",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/239512989?s=72&u=2a845461e1e2d5a321a9deb2419f03590567d233&v=4",
-    "location": "Ashburton New Zealand",
-    "company": "Midlands Seed Ltd",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2025-10-22T04:08:26Z"
-  },
-  {
     "login": "youngryou",
     "name": "Young Ryou",
     "avatarUrl": "https://avatars.githubusercontent.com/u/242097109?s=72&u=6cf24c5a1d488e50fa30f3afc1480066ed90bf4a&v=4",
@@ -2664,18 +2580,6 @@
     "createdAt": "2025-10-02T09:01:50Z"
   },
   {
-    "login": "Lotfan",
-    "name": "Sana Wahab",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/220654592?s=72&u=da643f5a56ca832b02a31dca30ca6d311d954c22&v=4",
-    "location": "Auckland New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 66,
-    "createdAt": "2025-07-14T02:24:11Z"
-  },
-  {
     "login": "Harrycm1",
     "name": "Harry Moore",
     "avatarUrl": "https://avatars.githubusercontent.com/u/214561793?s=72&u=6d2f724505bc36cc379553bb06cb5981a2ace20a&v=4",
@@ -2796,18 +2700,6 @@
     "createdAt": "2025-05-29T08:22:04Z"
   },
   {
-    "login": "C3POAdmin",
-    "name": "Christopher Trigg",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/221925412?s=72&u=eddd20c8740eb6694c894a446b283ee7a231c4d2&v=4",
-    "location": "Auckland New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 211,
-    "createdAt": "2025-07-21T03:06:38Z"
-  },
-  {
     "login": "LuizSTG",
     "name": "Luiz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/225369828?s=72&u=4a204fd643b8c4bcaeef26f58c9a4439a06cf244&v=4",
@@ -2914,18 +2806,6 @@
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2025-02-17T01:58:12Z"
-  },
-  {
-    "login": "penpcol",
-    "name": "Jack Penman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/199026072?s=72&v=4",
-    "location": "Paraparaumu College New Zealand",
-    "company": "Paraparaumu College New Zealand",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-02-13T03:36:52Z"
   },
   {
     "login": "Ysoseri1224",

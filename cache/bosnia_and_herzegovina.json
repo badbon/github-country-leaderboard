@@ -288,18 +288,6 @@
     "createdAt": "2025-03-10T20:46:37Z"
   },
   {
-    "login": "EmirhanEkinci",
-    "name": "Emirhan Ekinci",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/221895187?s=72&u=e07eae55b14e4dc009a3e8706f10ed649c049c60&v=4",
-    "location": "Sarajevo/Bosnia and Herzegovina and Gebze,Istanbul/Türkiye",
-    "company": "Dyor Bilişim",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-07-20T20:37:29Z"
-  },
-  {
     "login": "HamzaCutuna",
     "name": "Hamza Čutuna",
     "avatarUrl": "https://avatars.githubusercontent.com/u/202637852?s=72&u=52093b0da4728b11c0ce297ee69a2450a2bc7e86&v=4",
@@ -394,18 +382,6 @@
     "privateContributions": 4,
     "publicContributions": 25,
     "createdAt": "2025-12-18T14:50:18Z"
-  },
-  {
-    "login": "muharemhuskic955-source",
-    "name": "Muharem Huskić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/249439905?s=72&u=f1d17fe25181ef26069260d019b1e8a9f255faf2&v=4",
-    "location": "Bihac, Federation of Bosnia and Herzegovina",
-    "company": "Basebook Social Network",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 148,
-    "createdAt": "2025-12-13T12:04:16Z"
   },
   {
     "login": "ammarudink",
@@ -514,5 +490,17 @@
     "privateContributions": 0,
     "publicContributions": 55,
     "createdAt": "2025-12-12T16:30:12Z"
+  },
+  {
+    "login": "ozlosch",
+    "name": "Ödül Özlem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276087517?s=72&u=00aaa1747eb608ea698c0f67556aea34785960bc&v=4",
+    "location": "İzmir/Türkiye-Sarajevo/Bosnia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-04-14T18:32:56Z"
   }
 ]

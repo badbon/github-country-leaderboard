@@ -1,5 +1,17 @@
 [
   {
+    "login": "UlyanYunakh",
+    "name": "Ullian Yunakh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44743429?s=72&u=82beb55e82815e21ce6c482052f73f1fcc10ea39&v=4",
+    "location": "Batumi, Georgia \\ Minsk, Belarus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 258,
+    "publicContributions": 35,
+    "createdAt": "2018-11-04T09:07:08Z"
+  },
+  {
     "login": "artwopen",
     "name": "Kar Avagyan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/282143386?s=72&u=4dbdf215ef701942c164cd8ac9ea1cc5f27820cb&v=4",
@@ -1260,18 +1272,6 @@
     "createdAt": "2025-07-23T18:20:18Z"
   },
   {
-    "login": "GSavelii",
-    "name": "Savelii",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232465135?s=72&u=eb08d28cc666d510a8641742993e035b1d587649&v=4",
-    "location": "Country: Belarus, region: Vitebsk",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 158,
-    "publicContributions": 92,
-    "createdAt": "2025-09-15T21:52:27Z"
-  },
-  {
     "login": "Dzemiashkevich",
     "name": "Ulad Dzemiashkevich ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/203847741?s=72&u=7c4bc079a172388fb49c288289c68fb107a6372f&v=4",
@@ -1536,18 +1536,6 @@
     "createdAt": "2025-10-23T12:15:34Z"
   },
   {
-    "login": "YuryBascharumay",
-    "name": "Юрий Сергеевич Башаримов",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223515310?s=72&u=fe9e3aeca76ee1537e030593ea373fdda4f0499c&v=4",
-    "location": "Gomel, Republic Belarus",
-    "company": "ГГТУ(GSTU)",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2025-07-29T15:59:13Z"
-  },
-  {
     "login": "dertonware",
     "name": "derton",
     "avatarUrl": "https://avatars.githubusercontent.com/u/200644868?s=72&u=4e71c5203dc1a940047d1d962f9ad0e788335476&v=4",
@@ -1678,18 +1666,6 @@
     "privateContributions": 0,
     "publicContributions": 79,
     "createdAt": "2025-11-07T15:03:17Z"
-  },
-  {
-    "login": "antony502189-max",
-    "name": "Anton Gameza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/239196948?s=72&v=4",
-    "location": "Belarus • Open to Remote",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3827,
-    "createdAt": "2025-10-20T16:23:05Z"
   },
   {
     "login": "JarinGleb",

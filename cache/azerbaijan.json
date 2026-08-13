@@ -1,17 +1,5 @@
 [
   {
-    "login": "IlyaSergeev",
-    "name": "Ilya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1174100?s=72&v=4",
-    "location": "Azerbaijan Tbilisi",
-    "company": "Hoodies",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2011-11-05T09:43:33Z"
-  },
-  {
     "login": "quantferox",
     "name": "Murad Gazymagomedov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/280979109?s=72&u=022f3f288dd7af7c56ac2af739f9b8364dcf5eb6&v=4",
@@ -1752,18 +1740,6 @@
     "createdAt": "2025-09-15T12:52:11Z"
   },
   {
-    "login": "aminentezarim",
-    "name": "Amin Entezari Maleki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/199664720?s=72&u=ed3a60b810b88a7a03ca89d9eca5b379efa7a747&v=4",
-    "location": "Malekan County, East Azerbaijan province, Iran ",
-    "company": "Azarbijan Shahid Madani University ",
-    "twitterUsername": "aminentezarim",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-02-17T19:41:05Z"
-  },
-  {
     "login": "AliyeHuseynova",
     "name": "Aliya Huseynova",
     "avatarUrl": "https://avatars.githubusercontent.com/u/222381569?s=72&u=e32d1f0e0c469a23476aa46c8171acd9f97dbf39&v=4",
@@ -2328,18 +2304,6 @@
     "createdAt": "2025-04-03T09:53:33Z"
   },
   {
-    "login": "bahad1rl1umud",
-    "name": "UmudBahadirli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/246253897?s=72&v=4",
-    "location": "Azerbaijan Sumqait",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2025-11-26T09:06:30Z"
-  },
-  {
     "login": "kkerneldev",
     "name": "Denis Hetemov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/250387405?s=72&u=9e0aec13cb369e8dadc5f84d4f625b2b6558d108&v=4",
@@ -2626,18 +2590,6 @@
     "privateContributions": 287,
     "publicContributions": 0,
     "createdAt": "2025-04-18T15:01:20Z"
-  },
-  {
-    "login": "ariandelir",
-    "name": "Arian Delir G.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/218389057?s=72&u=89fa23102daf6b4a9ad580b86ba2cf739877987b&v=4",
-    "location": "Tabriz, East Azerbaijan Province, Iran",
-    "company": "4ZGames",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 43,
-    "createdAt": "2025-06-28T16:07:18Z"
   },
   {
     "login": "Rafiq-Script",
@@ -3192,18 +3144,6 @@
     "createdAt": "2025-10-19T05:58:05Z"
   },
   {
-    "login": "amirreza-sharifzadeh",
-    "name": "Amirreza sharifzadeh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206349859?s=72&u=3292f2109afe3285522e26f5ea7da1e04c6e6de3&v=4",
-    "location": "Iran - East Azerbaijan - Tabriz",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-04-05T16:06:14Z"
-  },
-  {
     "login": "amak-datacenter",
     "name": "AMAK DataCenter",
     "avatarUrl": "https://avatars.githubusercontent.com/u/213954793?s=72&u=9ed6a1c4ebf778b0545a718541a1e426e47bba3c&v=4",
@@ -3334,18 +3274,6 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2025-09-02T17:22:36Z"
-  },
-  {
-    "login": "omidgalaxy3-code",
-    "name": "omid babazadeh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/245528318?s=72&u=f7f30eab07f868611c7d1796b1952a7ecd71b52b&v=4",
-    "location": "West Azerbaijan Province, Shout, North Motahari Street, Iran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-11-22T09:50:00Z"
   },
   {
     "login": "Sevinc001",
@@ -3562,30 +3490,6 @@
     "privateContributions": 0,
     "publicContributions": 28,
     "createdAt": "2025-09-17T14:41:01Z"
-  },
-  {
-    "login": "ArshiaZareH",
-    "name": "Arshia Zare",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/212961889?s=72&u=8f52a08ef6c9f45ad1d7bbba57b2df44c2fb2f4e&v=4",
-    "location": "Iran-West Azerbaijan-Urmia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-05-22T21:27:26Z"
-  },
-  {
-    "login": "KianBA-dev",
-    "name": "Kian Bagheri Asl",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/248486400?s=72&v=4",
-    "location": "Iran-west Azerbaijan province-Urmia",
-    "company": "freelancer",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 24,
-    "createdAt": "2025-12-08T13:53:21Z"
   },
   {
     "login": "svncablva",

@@ -1,5 +1,17 @@
 [
   {
+    "login": "oaisis-app",
+    "name": "Oasis East App",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200517371?s=72&u=42c1b310de64eaf8872b0f1c4469fe21c1f02435&v=4",
+    "location": "Canada / Costa Rica",
+    "company": "@pau-creates",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-02-23T18:35:23Z"
+  },
+  {
     "login": "Crisrod0912",
     "name": "Cristopher Rodríguez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255913826?s=72&u=89aaba45f7d4415c52bd283e66b6e2962f739688&v=4",
@@ -132,18 +144,6 @@
     "createdAt": "2026-02-05T19:23:22Z"
   },
   {
-    "login": "JaviGarita",
-    "name": "Javier Garita Granados",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263272931?s=72&v=4",
-    "location": "Heredia Costa Rica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2026-02-23T03:11:46Z"
-  },
-  {
     "login": "randyap8-wq",
     "name": "Randy AP",
     "avatarUrl": "https://avatars.githubusercontent.com/u/270813013?s=72&u=30b8497b8a71882b614572fdd6229f34449820b1&v=4",
@@ -180,18 +180,6 @@
     "createdAt": "2026-04-13T23:41:40Z"
   },
   {
-    "login": "Javier-JBF",
-    "name": "Javier BF",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263781887?s=72&u=2aa25453b5422b7fba2a7b4175fa9c57eb3a2268&v=4",
-    "location": "Heredia - Costa Rica",
-    "company": "@Universidad Nacional",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 29,
-    "createdAt": "2026-02-24T23:52:46Z"
-  },
-  {
     "login": "Daniel-Fernandez11",
     "name": "Jose Daniel Fernandez R",
     "avatarUrl": "https://avatars.githubusercontent.com/u/262924017?s=72&u=324c5ff90fcc059a50dd29a057d96c32328d83d5&v=4",
@@ -214,18 +202,6 @@
     "privateContributions": 0,
     "publicContributions": 107,
     "createdAt": "2026-03-02T22:29:42Z"
-  },
-  {
-    "login": "ignacio-MC-417",
-    "name": "Ignacio Mejía Cascante",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256702965?s=72&u=5f164f114c2f3ac3dd67a1763cf749f9683947f3&v=4",
-    "location": "San Pablo - Costa Rica",
-    "company": " AI Implementer | SQL Server Manager and Developer",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2026-01-23T03:27:42Z"
   },
   {
     "login": "carlosvarg19932-eng",
@@ -684,18 +660,6 @@
     "createdAt": "2025-12-16T17:54:59Z"
   },
   {
-    "login": "Finn-McNamara",
-    "name": "ｎａｃｈ 𑄝 ｓ  ᵎᵎ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231886063?s=72&u=38d6bb3ff831d657bce55eae750e0c17516a9679&v=4",
-    "location": "Beach House in Costa-Rica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-09-12T11:34:07Z"
-  },
-  {
     "login": "lorensfs",
     "name": "Lorenzo Fuentes Soto",
     "avatarUrl": "https://avatars.githubusercontent.com/u/201248274?s=72&u=a1ccb34185dce06e0bd2776f7dd8a9e4b205a7ea&v=4",
@@ -910,18 +874,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-09-09T22:16:11Z"
-  },
-  {
-    "login": "OliviercodeX",
-    "name": "Mainor-Martinez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204361904?s=72&u=a113a4a414ee22f601392cc1ff223b6557604776&v=4",
-    "location": "Ciudad Quesada, San Carlos, Alajuela from Costa Rica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 73,
-    "createdAt": "2025-03-21T14:20:21Z"
   },
   {
     "login": "Jennmml",
@@ -1222,18 +1174,6 @@
     "privateContributions": 0,
     "publicContributions": 109,
     "createdAt": "2025-09-10T19:05:39Z"
-  },
-  {
-    "login": "Rodney-1520",
-    "name": "Rodney Solís Sánchez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201526826?s=72&u=fedeb1d6e08df636d9912ad31686c39bfe3a835f&v=4",
-    "location": "Limón Costa Rica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2025-03-03T03:47:27Z"
   },
   {
     "login": "Mapachiiin",
@@ -2124,18 +2064,6 @@
     "createdAt": "2025-06-11T20:25:50Z"
   },
   {
-    "login": "LuisOviedo08",
-    "name": "Luis Oviedo Matamoros",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223950410?s=72&u=f0d55087f715d42749cd807dcb52c75a65cb06cf&v=4",
-    "location": "San Ramón Costa Rica",
-    "company": "Universidad Nacional De Costa Rica",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2025-07-31T21:43:56Z"
-  },
-  {
     "login": "CodelliStudio",
     "name": "Codelli Studio",
     "avatarUrl": "https://avatars.githubusercontent.com/u/230950907?s=72&u=58a54217253fa729463b93ac9dfa5bf843008660&v=4",
@@ -2686,18 +2614,6 @@
     "privateContributions": 0,
     "publicContributions": 113,
     "createdAt": "2025-11-10T21:27:34Z"
-  },
-  {
-    "login": "Fabian-1719",
-    "name": "Fabian Aragon Arce",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203731906?s=72&v=4",
-    "location": "Santa clara costa rica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2025-03-18T00:34:29Z"
   },
   {
     "login": "frans-ixpantia",
