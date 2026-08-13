@@ -586,5 +586,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-09-12T17:21:07Z"
+  },
+  {
+    "login": "arturlamparter",
+    "name": "Artur Lamparter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215319452?s=72&u=3dbf3af6ccebc0d521b31e007a84b36a8d352360&v=4",
+    "location": "Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-06-07T21:27:13Z"
+  },
+  {
+    "login": "islanderdeveloper",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229210324?s=72&u=ab8cb97854ff0c1eb84e8b791e8a311c662e6a66&v=4",
+    "location": "Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-08-28T20:30:17Z"
   }
 ]

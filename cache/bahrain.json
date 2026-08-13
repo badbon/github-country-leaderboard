@@ -260,7 +260,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 728,
-    "publicContributions": 35,
+    "publicContributions": 37,
     "createdAt": "2025-09-09T17:26:00Z"
   },
   {
@@ -778,5 +778,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-09T20:24:08Z"
+  },
+  {
+    "login": "sreegiri-x",
+    "name": "Giri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200384519?s=72&u=251a03776183167103e30d10ea0410330df6e5bc&v=4",
+    "location": "Kochi|Manama|Patna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 2,
+    "publicContributions": 108,
+    "createdAt": "2025-02-22T14:17:27Z"
   }
 ]

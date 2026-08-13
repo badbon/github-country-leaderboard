@@ -9872,7 +9872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 13,
     "createdAt": "2026-02-26T23:30:06Z"
   },
   {
@@ -10304,7 +10304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 214,
+    "publicContributions": 216,
     "createdAt": "2025-12-31T04:09:31Z"
   },
   {
@@ -16736,7 +16736,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 49,
-    "publicContributions": 19,
+    "publicContributions": 20,
     "createdAt": "2026-03-05T18:06:22Z"
   },
   {
@@ -27286,5 +27286,89 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-12-29T12:35:57Z"
+  },
+  {
+    "login": "victorbitar-mverickx",
+    "name": "Victor Bitar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196554433?s=72&u=27c2ca11cf79016cd3b266528764db0d023803da&v=4",
+    "location": "Praia Grande-SP, Brasil",
+    "company": "",
+    "twitterUsername": "mverickz",
+    "followers": 84,
+    "privateContributions": 59,
+    "publicContributions": 16,
+    "createdAt": "2025-01-26T17:00:35Z"
+  },
+  {
+    "login": "Henrique-Handlovics",
+    "name": "Henrique Handlovics",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198666222?s=72&u=c65c26e882d2b6cd68916306f556d8d3dea413cd&v=4",
+    "location": "Praia Grande, SP, Brazil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 153,
+    "createdAt": "2025-02-10T23:02:38Z"
+  },
+  {
+    "login": "CristianLira-dev",
+    "name": "Cristian Lira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234093608?s=72&u=110daa318dc4db86b2892eecf4d31d6f8e58cfec&v=4",
+    "location": "Praia Grande, São Paulo (Open to Remote)",
+    "company": "Open to Work",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 395,
+    "createdAt": "2025-09-24T01:38:53Z"
+  },
+  {
+    "login": "aln-milena",
+    "name": "Milena Nunes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207744517?s=72&u=3e903e5beb399204c5bc185e6204a6769338cd7a&v=4",
+    "location": "Praia Grande, São Paulo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-04-15T15:48:02Z"
+  },
+  {
+    "login": "bimadevfull",
+    "name": "ABIMAEL DE MENEZES PEDRO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193080427?s=72&u=82f44158736d4deb8ab5d8b1cc1f3136ac778060&v=4",
+    "location": "Praia grande, São paulo, Brasil.",
+    "company": "BIMA TECH",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 120,
+    "createdAt": "2024-12-28T16:41:58Z"
+  },
+  {
+    "login": "MatheusGonzag4",
+    "name": "Matheus Gonzaga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229173559?s=72&u=1ede7c6153099717ca126755722d6ff0fc6dea51&v=4",
+    "location": "Praia Grande, SP, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2025-08-28T16:57:13Z"
+  },
+  {
+    "login": "devhelenaneves",
+    "name": "Helena Neves",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204929524?s=72&u=bbb78271c140856a986ffb4c497488c06e3e8ccb&v=4",
+    "location": "Praia Grande, São Paulo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 235,
+    "createdAt": "2025-03-25T19:37:37Z"
   }
 ]

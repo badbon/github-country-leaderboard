@@ -558,7 +558,7 @@
     "location": "Gaborone, Botswana",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 77,
     "createdAt": "2025-12-17T15:18:23Z"
@@ -598,5 +598,41 @@
     "privateContributions": 496,
     "publicContributions": 101,
     "createdAt": "2025-07-25T09:04:38Z"
+  },
+  {
+    "login": "neelomimipilane",
+    "name": "Neelo Mimi Pilane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198040816?s=72&u=52c429ef93c4a429b3a46b45ee24ff7c5930b1c4&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 101,
+    "createdAt": "2025-02-06T08:50:24Z"
+  },
+  {
+    "login": "atangKotomwa",
+    "name": "atangKotomwa ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207576649?s=72&v=4",
+    "location": "gaborone ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-04-14T14:28:48Z"
+  },
+  {
+    "login": "Cybernails1",
+    "name": "Mompati Oscar Mfila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215923606?s=72&u=19c5ae360b4a2b31a9cf2add942bf70973f19c5e&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2025-06-11T22:40:58Z"
   }
 ]

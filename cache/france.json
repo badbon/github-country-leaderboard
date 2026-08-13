@@ -4496,7 +4496,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 367,
+    "publicContributions": 377,
     "createdAt": "2026-03-20T13:24:09Z"
   },
   {
@@ -5242,5 +5242,113 @@
     "privateContributions": 0,
     "publicContributions": 42,
     "createdAt": "2023-02-10T23:21:50Z"
+  },
+  {
+    "login": "olidev10",
+    "name": "Olivier Kouassi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260631657?s=72&u=7a51ad660372ab5cc93255ef4f16cf80c65d241d&v=4",
+    "location": "Bordeaux",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 115,
+    "createdAt": "2026-02-10T09:44:57Z"
+  },
+  {
+    "login": "Alm0stSurely",
+    "name": "P. Clawmogorov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262173731?s=72&u=872927790c5a302dcdc83ac99a5c2dc9a701bb80&v=4",
+    "location": "Bordeaux, FR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 2,
+    "publicContributions": 662,
+    "createdAt": "2026-02-17T17:04:44Z"
+  },
+  {
+    "login": "pierrickvernet",
+    "name": "Pierrick Vernet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270472416?s=72&u=6ffb654cf79d4f2ccea542723cd709ce9a4efd1d&v=4",
+    "location": "bordeaux",
+    "company": "Université de bordeaux",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 238,
+    "createdAt": "2026-03-23T21:01:04Z"
+  },
+  {
+    "login": "ConsultantEnR",
+    "name": "Nicolas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262591989?s=72&v=4",
+    "location": "Bordeaux",
+    "company": "8p2 Advisory",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-19T13:51:22Z"
+  },
+  {
+    "login": "JoannaLlne",
+    "name": "Joanna Lalanne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275658564?s=72&u=3d93d474d4f672fcecfae182e2f156cc8b8de940&v=4",
+    "location": "Bordeaux",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 117,
+    "createdAt": "2026-04-13T09:08:03Z"
+  },
+  {
+    "login": "yassinemouhetta1-design",
+    "name": "Yassine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268387460?s=72&v=4",
+    "location": "Bordeaux",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 59,
+    "createdAt": "2026-03-15T14:48:37Z"
+  },
+  {
+    "login": "jeremyschmitt33",
+    "name": "jeremy schmitt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270881601?s=72&v=4",
+    "location": "bordeaux",
+    "company": "Jérémy Schmitt SEO",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 738,
+    "createdAt": "2026-03-25T07:54:05Z"
+  },
+  {
+    "login": "anthony-roque",
+    "name": "Anthony Roque",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279305017?s=72&u=552846a96af750f66e482381252a9a73c0be5d24&v=4",
+    "location": "Bordeaux",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-04-25T17:21:25Z"
+  },
+  {
+    "login": "Ordesoft",
+    "name": "Team ORDéSOFT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275660794?s=72&v=4",
+    "location": "Bordeaux",
+    "company": "@ordesoft",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-13T09:16:15Z"
   }
 ]

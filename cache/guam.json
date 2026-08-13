@@ -22,5 +22,101 @@
     "privateContributions": 5,
     "publicContributions": 1,
     "createdAt": "2025-09-19T06:04:19Z"
+  },
+  {
+    "login": "justjohnnyj",
+    "name": "Johnny T",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177209891?s=72&u=21ebf4b03464231866091ba1ff712126956cbd0e&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2024-08-01T09:39:37Z"
+  },
+  {
+    "login": "dananreginald",
+    "name": "Reginald Jasper Danan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179677647?s=72&u=125983eb4f282548bc72ee27b274957a623345eb&v=4",
+    "location": "Mangilao, Guam",
+    "company": "University of Guam",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-08-28T05:57:27Z"
+  },
+  {
+    "login": "Ritan671",
+    "name": "Ritan M Borja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183661482?s=72&v=4",
+    "location": "Guam ",
+    "company": "KurasonGuahan Wallet ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2024-10-02T21:22:46Z"
+  },
+  {
+    "login": "tashxlyn",
+    "name": "Natasha Glaude",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167308753?s=72&v=4",
+    "location": "Guam",
+    "company": "IT&E ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-17T10:47:09Z"
+  },
+  {
+    "login": "jlongus",
+    "name": "josiah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183804594?s=72&u=6aafaead07ae1b4a5b39065244857c02ece33778&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 65,
+    "createdAt": "2024-10-04T07:42:14Z"
+  },
+  {
+    "login": "Ray2407",
+    "name": "Clifford Ray Hackett",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176625588?s=72&v=4",
+    "location": "guam",
+    "company": "nv",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-07-25T20:15:08Z"
+  },
+  {
+    "login": "changhochoe",
+    "name": "최창호",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180016043?s=72&u=60f0e075ea0512c81f81185bda99ca508f04775e&v=4",
+    "location": "Dededo,  Guam",
+    "company": "옹키피디아 1인 개발자",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-08-31T10:40:07Z"
+  },
+  {
+    "login": "cast671",
+    "name": "Cast671",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167273334?s=72&v=4",
+    "location": "Guam ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-17T03:12:22Z"
   }
 ]

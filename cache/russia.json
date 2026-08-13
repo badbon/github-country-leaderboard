@@ -3214,5 +3214,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-08T14:14:37Z"
+  },
+  {
+    "login": "antontalankin",
+    "name": "Anton Talankin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197238847?s=72&u=c09097d0ca4036a1cf6d5ce90e7bf6ada9208e9b&v=4",
+    "location": "Sakhalin Island, Russia",
+    "company": "Sakhalin Energy",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-01-31T09:03:00Z"
+  },
+  {
+    "login": "RomanGleyzer",
+    "name": "Roman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/221860483?s=72&u=cb5378b2453749885adf0d0f5d0199ffbce935a0&v=4",
+    "location": "Rudny, Kazakhstan - Ekaterinburg, Russia",
+    "company": "UrFU",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 46,
+    "publicContributions": 56,
+    "createdAt": "2025-07-20T15:03:51Z"
   }
 ]

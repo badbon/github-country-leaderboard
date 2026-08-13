@@ -1352,7 +1352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 32,
     "createdAt": "2026-04-13T10:51:51Z"
   },
   {
@@ -3260,7 +3260,7 @@
     "twitterUsername": "thegreatkiumbes",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 405,
+    "publicContributions": 406,
     "createdAt": "2026-05-10T07:17:35Z"
   },
   {
@@ -3406,5 +3406,137 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-03T09:58:01Z"
+  },
+  {
+    "login": "Medevice-RND",
+    "name": "MEDevice Africa RnD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275032092?s=72&u=251026e61ffc68e94000049f5dac56e3841005f5&v=4",
+    "location": "Nairobi",
+    "company": "MEDevice Africa",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-10T09:14:39Z"
+  },
+  {
+    "login": "PapaDanico",
+    "name": "Dan Ng'ong'a",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280915488?s=72&u=14ba92f0370f6aa8c6a5b893498d536cbc4b1d0f&v=4",
+    "location": "Nairobi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 689,
+    "createdAt": "2026-05-01T09:29:04Z"
+  },
+  {
+    "login": "omindeagrey204-eng",
+    "name": "The Ones",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262680194?s=72&u=255a1cd2fc5e4db80281d04031eb79e0aab21e15&v=4",
+    "location": "Lumumba Dr, Nairobi",
+    "company": "Map of Fashion",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2026-02-19T22:05:20Z"
+  },
+  {
+    "login": "liam-ux1",
+    "name": "Johnson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265739630?s=72&v=4",
+    "location": "Nairobi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-03-05T07:31:33Z"
+  },
+  {
+    "login": "mulid4155-cmd",
+    "name": "Daniel mwaura",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260202265?s=72&u=b4ddf565ba0321af7449bb1ff0f98912211e04dd&v=4",
+    "location": " Nairobi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2026-02-08T09:16:52Z"
+  },
+  {
+    "login": "igonsmarttv-rgb",
+    "name": "oxalis_dev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281401228?s=72&u=893a453ef9cbbf6cbc0956290cae632b68fd91b5&v=4",
+    "location": "Nairobi",
+    "company": "Oxalis Developer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-03T14:38:53Z"
+  },
+  {
+    "login": "warugurujoan",
+    "name": "Joanne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257507650?s=72&u=89f58c4d9009aa37b5984514a03d041f3c22bea2&v=4",
+    "location": "Karen Nairobi ",
+    "company": "Cyber security ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2026-01-27T10:37:21Z"
+  },
+  {
+    "login": "arapsum",
+    "name": "Kibet Bitok arap Sum",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262802555?s=72&u=960e15e6f1e5bd160313e1c64119773daa571ec1&v=4",
+    "location": "Nairobi",
+    "company": "Bit-Tech",
+    "twitterUsername": "herefordfanboy",
+    "followers": 1,
+    "privateContributions": 2807,
+    "publicContributions": 677,
+    "createdAt": "2026-02-20T12:24:07Z"
+  },
+  {
+    "login": "mwangangijemmimah-source",
+    "name": "Jemmimah Mwangangi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281891254?s=72&u=5aa227dbb50ac6f56be9c96605239f3a1d24d4cc&v=4",
+    "location": "Nairobi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2026-05-05T09:34:00Z"
+  },
+  {
+    "login": "jlangat103-wq",
+    "name": "Joy Maritim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254092362?s=72&v=4",
+    "location": "Nairobi",
+    "company": "@LuxDevHQ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-01-10T10:10:40Z"
+  },
+  {
+    "login": "malaso-k",
+    "name": "Malaso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256774088?s=72&u=188004925e6fed02f3cf26eca15ef0a2474aad87&v=4",
+    "location": "Nairobi",
+    "company": "NONE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-01-23T11:25:25Z"
   }
 ]

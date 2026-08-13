@@ -910,5 +910,113 @@
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2025-01-10T22:30:11Z"
+  },
+  {
+    "login": "radimgrobar",
+    "name": "Radim Grobár",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/248420541?s=72&v=4",
+    "location": "Česko",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2025-12-08T07:31:12Z"
+  },
+  {
+    "login": "IvoFaltus",
+    "name": "Ivo Faltus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197053682?s=72&u=e4696320bba9d5ec8c7a79e9879345c80a7a9341&v=4",
+    "location": "Česko",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 88,
+    "createdAt": "2025-01-30T08:33:01Z"
+  },
+  {
+    "login": "krystofchladeks-lgtm",
+    "name": "krystof chladek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232528058?s=72&v=4",
+    "location": "Česko",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2025-09-16T07:10:16Z"
+  },
+  {
+    "login": "LukasDrbo",
+    "name": "Lukas Drbohlav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/218952324?s=72&u=d71b4db9e38b4a302b7ab28fbed08ecae2a6c799&v=4",
+    "location": "Česko",
+    "company": "GZ Media",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-07-02T10:04:14Z"
+  },
+  {
+    "login": "MakeSxnse",
+    "name": "sxnse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201424859?s=72&u=f7ec487a0f3f529c44b27e93ecaca8a1143aad23&v=4",
+    "location": "Česko",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 83,
+    "createdAt": "2025-03-02T06:03:31Z"
+  },
+  {
+    "login": "mathorn1973",
+    "name": "A. M. Thorn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/221838986?s=72&u=ca15719e59bcaccda03f9b2d66e1ea88a2f4272a&v=4",
+    "location": "Česko",
+    "company": "",
+    "twitterUsername": "amthorn73",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1239,
+    "createdAt": "2025-07-20T11:56:40Z"
+  },
+  {
+    "login": "RodinaKPM",
+    "name": "RodinaKPM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214252231?s=72&u=4bfe2494f82008850e9027f52592b834cd375edf&v=4",
+    "location": "Česko",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2025-05-31T12:53:47Z"
+  },
+  {
+    "login": "DronSofiia",
+    "name": "Sofiia Dron",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219122560?s=72&v=4",
+    "location": "Česko",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 234,
+    "createdAt": "2025-07-03T10:36:50Z"
+  },
+  {
+    "login": "kubicekkubajz-coder",
+    "name": "Martin Kubíček",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/247865251?s=72&v=4",
+    "location": "Česko",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2025-12-04T19:06:03Z"
   }
 ]

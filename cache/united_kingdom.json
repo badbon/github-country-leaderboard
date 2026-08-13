@@ -3382,5 +3382,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-07T13:02:41Z"
+  },
+  {
+    "login": "kypknowyourpart",
+    "name": "KYP Know Your Partner",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214983008?s=72&u=773562e0e7e0eb79fad782156ba8402d7c9224c9&v=4",
+    "location": "Stanley,England",
+    "company": "KYP Know Your Partner",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-06-05T10:04:38Z"
+  },
+  {
+    "login": "jbkeown1704",
+    "name": "James Keown",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196169900?s=72&u=5e8cb7578433188802c1326c81dc86af92763142&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "Randox",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2025-01-23T09:17:20Z"
+  },
+  {
+    "login": "milnee",
+    "name": "millen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235114592?s=72&u=c788f38d69d0143193d770da48ae23cb2d131e38&v=4",
+    "location": "northern ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 160,
+    "createdAt": "2025-09-29T13:30:52Z"
+  },
+  {
+    "login": "JP6070",
+    "name": "Josh Preston",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205772530?s=72&u=53531667c62b2e02ca514ea22f509418b1e6478f&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2025-04-01T11:42:51Z"
   }
 ]

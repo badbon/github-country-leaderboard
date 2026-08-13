@@ -4018,5 +4018,77 @@
     "privateContributions": 0,
     "publicContributions": 119,
     "createdAt": "2026-04-14T06:50:23Z"
+  },
+  {
+    "login": "Michalia-Lewis",
+    "name": "Michalia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196709258?s=72&u=62d8b0e1c1cbe952ff9f9d88cc6460143a0627b7&v=4",
+    "location": "Awaji Island, Japan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 136,
+    "publicContributions": 93,
+    "createdAt": "2025-01-27T21:00:47Z"
+  },
+  {
+    "login": "CraftOS-dev",
+    "name": "CraftOS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262945503?s=72&u=632a9d1dabdaa00894103d3ac28822dbcdf4317f&v=4",
+    "location": "Fukuoka",
+    "company": "CraftOS",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 93,
+    "createdAt": "2026-02-21T05:27:33Z"
+  },
+  {
+    "login": "Zhangjianqiao-jp",
+    "name": "Ryo-jp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275051767?s=72&u=7bc00480d6253820449cd349ea3e1d5b9cce2459&v=4",
+    "location": "Fukuoka/NanJing",
+    "company": "Kyushu University/Southeast University",
+    "twitterUsername": "kawayiizjqqqq",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 54,
+    "createdAt": "2026-04-10T10:51:11Z"
+  },
+  {
+    "login": "darilquervodev-spec",
+    "name": "Daril Quervo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258031119?s=72&u=31c7a4adc9da06bf6b10f798b700992a5b1bd9d6&v=4",
+    "location": "Fukuoka, Japan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 206,
+    "createdAt": "2026-01-29T14:34:36Z"
+  },
+  {
+    "login": "krishnaharry208",
+    "name": "  KrishnaHarry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267707471?s=72&u=e109407a1f0e45c0932fce9bf6029a5b5d3345c2&v=4",
+    "location": "Fukuoka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 122,
+    "createdAt": "2026-03-12T16:17:35Z"
+  },
+  {
+    "login": "D-Momosaki",
+    "name": "Dred Momosaki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283996262?s=72&u=a5ea1c79cd7a669345ac3f76b65a54ba494930cc&v=4",
+    "location": "Fukuoka→Kyoto",
+    "company": "",
+    "twitterUsername": "Dred100_",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-12T12:52:37Z"
   }
 ]

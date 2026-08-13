@@ -94,5 +94,41 @@
     "privateContributions": 0,
     "publicContributions": 30,
     "createdAt": "2025-12-02T03:14:35Z"
+  },
+  {
+    "login": "xbze3",
+    "name": "Ezra Minty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155508437?s=72&u=cc5562a3c2ae84ed3fe0b30ee3aaab035546cbea&v=4",
+    "location": "Guyana",
+    "company": "@MintLeaf-Tech ",
+    "twitterUsername": "",
+    "followers": 236,
+    "privateContributions": 754,
+    "publicContributions": 598,
+    "createdAt": "2024-01-03T04:00:13Z"
+  },
+  {
+    "login": "somenewbie17",
+    "name": "Damethri George",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171102343?s=72&v=4",
+    "location": "Georgetown, Guyana",
+    "company": "TG MEDIA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 18,
+    "publicContributions": 15,
+    "createdAt": "2024-05-29T00:47:36Z"
+  },
+  {
+    "login": "RavindraPersaud",
+    "name": "Ravindra Persaud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/188388969?s=72&v=4",
+    "location": "Guyana",
+    "company": "University of Guyana",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2024-11-13T21:06:18Z"
   }
 ]

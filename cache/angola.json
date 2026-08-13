@@ -3082,5 +3082,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-21T12:08:29Z"
+  },
+  {
+    "login": "alvaro-0706",
+    "name": "Álvaro António",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225063939?s=72&v=4",
+    "location": "Angola",
+    "company": "kima kua",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-08-06T18:40:29Z"
+  },
+  {
+    "login": "Adelina-Nguinamau",
+    "name": "Adelina Nguinamau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225468715?s=72&u=4899ae3bb86232f4e2db557ca08ba1d25c3da470&v=4",
+    "location": "Angola",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2025-08-08T20:27:09Z"
+  },
+  {
+    "login": "TheCodeMinds",
+    "name": "The Code Minds",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211110606?s=72&u=9b687b94b040476388fb3df57db1777eb30ae002&v=4",
+    "location": "Angola, Luanda",
+    "company": "@thecodeminds2023",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2025-05-10T10:09:58Z"
+  },
+  {
+    "login": "Denari-ux",
+    "name": "Denari-ux",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215530103?s=72&u=13fb1a5fd7f4a38eba0827f9fe749e02f398ed59&v=4",
+    "location": "Angola",
+    "company": "@techj.innovation.solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2025-06-09T14:50:21Z"
   }
 ]

@@ -214,5 +214,41 @@
     "privateContributions": 0,
     "publicContributions": 53,
     "createdAt": "2025-04-24T10:53:42Z"
+  },
+  {
+    "login": "fremixd",
+    "name": "fremixd_2",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246256552?s=72&u=956df104f725b8b86c62bfbce2f096cf29e40c44&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2025-11-26T09:21:43Z"
+  },
+  {
+    "login": "MarcFerdin",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197064756?s=72&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-01-30T10:13:49Z"
+  },
+  {
+    "login": "DesirNodj",
+    "name": "DJ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203673244?s=72&u=8255f1387d741381e4bddbcf78d97addc4bb4416&v=4",
+    "location": "Libreville",
+    "company": "Monsieur le coq management",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-03-17T15:06:06Z"
   }
 ]
