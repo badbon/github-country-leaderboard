@@ -2086,5 +2086,53 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-12-30T08:27:30Z"
+  },
+  {
+    "login": "faye1003",
+    "name": "RUNXIN LIU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274723013?s=72&v=4",
+    "location": "taipa, macau, China SAR",
+    "company": "University of Macau",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-09T06:11:41Z"
+  },
+  {
+    "login": "tina20011008",
+    "name": "Tianyue Feng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274994863?s=72&v=4",
+    "location": "University of Macau Avenida da Universidade Taipa, Macau, China",
+    "company": "University of Macau",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-10T06:13:12Z"
+  },
+  {
+    "login": "codemmash",
+    "name": "Chen Hao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252627624?s=72&u=73abbc7f4b5ac2a713654f670e8bbc55560a49cc&v=4",
+    "location": "Macau, China",
+    "company": "@University-of-Macau",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2,
+    "publicContributions": 39,
+    "createdAt": "2026-01-02T17:20:29Z"
+  },
+  {
+    "login": "David-CB666",
+    "name": "Mike",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273500482?s=72&v=4",
+    "location": "Macau SAR, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-04-04T05:27:41Z"
   }
 ]

@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "login": "noah200910070082-dotcom",
+    "name": "Noah_Xu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259320399?s=72&u=0f0ea932ff1f81d57a9dc16a488b96639749f6e2&v=4",
+    "location": "Macau",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 171,
+    "createdAt": "2026-02-04T11:09:23Z"
+  },
+  {
+    "login": "JosephHu04",
+    "name": "Zixi Hu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254410017?s=72&u=acadfdb0c72b0bbd5a8822b65e7be69b5d40792f&v=4",
+    "location": "Macau University of Science and Technology",
+    "company": "Macau University of Science and Technology",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 54,
+    "createdAt": "2026-01-12T08:29:22Z"
+  },
+  {
+    "login": "Darker574",
+    "name": "darker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257126568?s=72&u=738701ff100e6c4526ae63631a993c4d619d258b&v=4",
+    "location": "Macau",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-01-25T14:31:36Z"
+  },
+  {
+    "login": "danieisere",
+    "name": "D. S. Tay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256061954?s=72&v=4",
+    "location": "Macau",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2026-01-20T08:42:05Z"
+  },
+  {
+    "login": "M1kywuu",
+    "name": "GAN WUFENGZHOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274879000?s=72&u=afbd0d76ebe79846711d9df6517173fd79b6b865&v=4",
+    "location": "Macau",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 106,
+    "publicContributions": 1,
+    "createdAt": "2026-04-09T17:22:08Z"
+  },
+  {
+    "login": "MarcZhuYY",
+    "name": "MarcZhuY_Y",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259378652?s=72&u=06e9d99ca9349ea12ed72c731c403d934913cd49&v=4",
+    "location": "Macau",
+    "company": "HomeLand",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-02-04T15:41:31Z"
+  },
+  {
+    "login": "Attilio-Regolo",
+    "name": "Attilio Regolo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255923533?s=72&u=c5f6affe8af13671c58949629d05dec41ebb39cb&v=4",
+    "location": "Macau",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-01-19T16:20:36Z"
+  }
+]
