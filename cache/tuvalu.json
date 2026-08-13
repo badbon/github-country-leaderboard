@@ -58,5 +58,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-05T02:16:13Z"
+  },
+  {
+    "login": "sygau",
+    "name": "jtv",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75655210?s=72&v=4",
+    "location": "Tuvalu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2020-12-08T03:40:57Z"
+  },
+  {
+    "login": "yorkwang99",
+    "name": "York Freiherr von Wangenheim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70343149?s=72&v=4",
+    "location": "Tuvalu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-27T18:33:19Z"
   }
 ]

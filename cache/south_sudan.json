@@ -428,7 +428,7 @@
     "twitterUsername": "",
     "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 229,
+    "publicContributions": 231,
     "createdAt": "2023-08-03T21:15:01Z"
   },
   {
@@ -694,5 +694,29 @@
     "privateContributions": 0,
     "publicContributions": 270,
     "createdAt": "2023-02-16T06:50:06Z"
+  },
+  {
+    "login": "Nyok455",
+    "name": "Nyok Wuor Miyar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132761125?s=72&u=c81921f1b1eef9b0a00e77b058bf67320f0fe6dc&v=4",
+    "location": "Juba",
+    "company": "QuireBye PetroVision",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 50,
+    "publicContributions": 39,
+    "createdAt": "2023-05-06T13:26:29Z"
+  },
+  {
+    "login": "Jmnb2023",
+    "name": "James Maluak ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127028099?s=72&v=4",
+    "location": "Juba",
+    "company": "Media news company ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-05T12:35:41Z"
   }
 ]

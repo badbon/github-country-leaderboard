@@ -58,5 +58,41 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2021-07-06T11:47:09Z"
+  },
+  {
+    "login": "thisisjoshu",
+    "name": "Joshua Zobule",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64586778?s=72&u=b1b0d0396c4560d4997b2b9aadaf30d418737ec5&v=4",
+    "location": "Solomon Islands",
+    "company": "@flysolomons",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 1198,
+    "publicContributions": 131,
+    "createdAt": "2020-04-30T10:20:08Z"
+  },
+  {
+    "login": "gsaemane",
+    "name": "Geolynx Saemane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66709306?s=72&u=35f7bf0533215dcca53ca6eddd558f1d573b6bb1&v=4",
+    "location": "Solomon Islands",
+    "company": "Genisys Solomons | Rebays | Datanautica",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 251,
+    "publicContributions": 321,
+    "createdAt": "2020-06-10T02:24:44Z"
+  },
+  {
+    "login": "token-ek",
+    "name": "ekausimae",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73762526?s=72&u=b32856d0ef13094575ca71a7df5e9c1c1d53b24d&v=4",
+    "location": "Solomon Islands",
+    "company": "@tokenenterprise ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-31T22:53:15Z"
   }
 ]

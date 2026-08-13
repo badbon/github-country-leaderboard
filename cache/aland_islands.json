@@ -34,5 +34,65 @@
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2025-02-13T10:28:54Z"
+  },
+  {
+    "login": "fatemekh78",
+    "name": "Fatemeh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169391217?s=72&u=cf6b1998805a76eb332455357552c619cb1938bb&v=4",
+    "location": "Mariehamn, Åland islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 141,
+    "createdAt": "2024-05-09T18:01:42Z"
+  },
+  {
+    "login": "karusmari",
+    "name": "Maris Karu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180261400?s=72&u=fe5f31d8cce53a480a748a6fba6a18e8939f5dd5&v=4",
+    "location": "Åland Islands",
+    "company": "Gritlab",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 488,
+    "createdAt": "2024-09-03T07:09:26Z"
+  },
+  {
+    "login": "natkimPAF",
+    "name": "Natalia Kim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160499410?s=72&u=6c2f8bc9e1dc418dd186a044e202c03e59d7fc9d&v=4",
+    "location": "Mariehamn, Åland Islands",
+    "company": "@pafcloud ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-19T13:11:13Z"
+  },
+  {
+    "login": "taneli-paf",
+    "name": "Taneli Mäkihannu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160502621?s=72&u=18ae9a52297c5388df6a065f64918fdd97b5f503&v=4",
+    "location": "Mariehamn, Åland Islands",
+    "company": "@pafcloud",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 789,
+    "publicContributions": 0,
+    "createdAt": "2024-02-19T13:43:08Z"
+  },
+  {
+    "login": "VictorCavalcantiF",
+    "name": "Victor Cavalcanti ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160930758?s=72&u=f8a83f695b40a6e323d1d7af09568c21a8083c6f&v=4",
+    "location": "Åland Islands ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-22T18:15:42Z"
   }
 ]

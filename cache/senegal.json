@@ -1855,7 +1855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 177,
+    "privateContributions": 179,
     "publicContributions": 45,
     "createdAt": "2024-07-11T14:25:38Z"
   },
@@ -2698,5 +2698,41 @@
     "privateContributions": 0,
     "publicContributions": 117,
     "createdAt": "2024-09-04T22:37:14Z"
+  },
+  {
+    "login": "abdibasidadan-byte",
+    "name": "Abdi-Basid IBRAHIM ADAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183216183?s=72&u=96abe38f7c5009c4c4d4bdf0ff1c0b54c8e12542&v=4",
+    "location": "Dakar",
+    "company": " @theabdibasidcoursesintitute",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2024-09-28T14:16:36Z"
+  },
+  {
+    "login": "Doudousmyle42",
+    "name": "MAMFOUMBI FALL Doudou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190958541?s=72&u=f33aba4c9710265835bfa979b3ac6ff5e5697de9&v=4",
+    "location": "Dakar, Sénégal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2024-12-07T16:41:14Z"
+  },
+  {
+    "login": "cdjarabe07",
+    "name": "Caleb Djarabé",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180235585?s=72&u=5904a867a3f8355a7c14412b03b06c07f321fcee&v=4",
+    "location": "Dakar, Sénégal",
+    "company": "",
+    "twitterUsername": "cdjarabe",
+    "followers": 1,
+    "privateContributions": 55,
+    "publicContributions": 196,
+    "createdAt": "2024-09-03T00:50:58Z"
   }
 ]

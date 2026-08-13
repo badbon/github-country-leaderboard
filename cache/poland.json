@@ -572,7 +572,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 428,
+    "publicContributions": 430,
     "createdAt": "2026-03-11T15:44:18Z"
   },
   {
@@ -608,7 +608,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1856,
+    "publicContributions": 1859,
     "createdAt": "2026-03-20T11:51:13Z"
   },
   {
@@ -2962,5 +2962,65 @@
     "privateContributions": 0,
     "publicContributions": 126,
     "createdAt": "2026-01-27T13:10:19Z"
+  },
+  {
+    "login": "MathewCrow",
+    "name": "MathewCrow",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254350140?s=72&u=9b5835979c972ff4b3b95f371542ba6372f6d62a&v=4",
+    "location": "Wrocław",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-01-12T00:38:38Z"
+  },
+  {
+    "login": "Firma-Konzarz",
+    "name": "Firma Konzarz / KZ Company",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279856591?s=72&u=2e207c758f136c7e0d21402e63812b27be6b74e9&v=4",
+    "location": "Wrocław ",
+    "company": "Firma Konzarz / KZ Company",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2026-04-27T22:33:58Z"
+  },
+  {
+    "login": "gregnorwag",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282544174?s=72&u=6fdce99bc56e35960184648499cacc0088c7b404&v=4",
+    "location": "Wrocław",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-07T10:13:09Z"
+  },
+  {
+    "login": "arturkrawczyk124-design",
+    "name": "ArturProBearskin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/251726237?s=72&u=4012b18dede20fb6d8c73da6363231cc3c800ca2&v=4",
+    "location": "Wrocław",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-12-27T12:07:03Z"
+  },
+  {
+    "login": "biszoq333444",
+    "name": "Jagoda Kowalska",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275051199?s=72&v=4",
+    "location": "Wrocław",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-10T10:48:07Z"
   }
 ]

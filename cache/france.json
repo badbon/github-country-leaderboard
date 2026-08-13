@@ -6046,5 +6046,41 @@
     "privateContributions": 0,
     "publicContributions": 221,
     "createdAt": "2023-10-02T07:44:17Z"
+  },
+  {
+    "login": "bastienird",
+    "name": "bastienird",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98462325?s=72&u=1142943ccfaf9f9c18f2a27df81dd7d4febb7b64&v=4",
+    "location": "Saint-Denis, La réunion, France",
+    "company": "French Institute for the Development (IRD)",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 578,
+    "createdAt": "2022-01-26T11:46:45Z"
+  },
+  {
+    "login": "sasha17demin",
+    "name": "Sasha Demin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/236037205?s=72&u=0009505e48401cf54833b8a43092b4720ba44293&v=4",
+    "location": "Belgrade - Paris",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 4196,
+    "publicContributions": 208,
+    "createdAt": "2025-10-04T10:29:31Z"
+  },
+  {
+    "login": "sagalou",
+    "name": "Sagal-Louise HAIDER",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227455588?s=72&u=c35437ec1a23fcc9d77798d7f88313d77c7e61fe&v=4",
+    "location": "Paris, Birmingham, Nancy, Nairobi, Mogadishu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 1066,
+    "createdAt": "2025-08-19T18:32:04Z"
   }
 ]

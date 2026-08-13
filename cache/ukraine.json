@@ -1594,5 +1594,41 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2026-01-25T12:40:02Z"
+  },
+  {
+    "login": "FredK8",
+    "name": "Andrew",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264011841?s=72&v=4",
+    "location": "Lviv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-25T20:58:53Z"
+  },
+  {
+    "login": "FedoliakLA",
+    "name": "Liubomyr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256361555?s=72&u=c1a0431a1b5bba9a196b4950310bacb3a2c8918b&v=4",
+    "location": "Lviv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2026-01-21T14:22:17Z"
+  },
+  {
+    "login": "RaSlabsaDv",
+    "name": "Maksym",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264391895?s=72&u=5ec5fd5f48eab7cfeef6ba5bf5d9f4b5e61ce326&v=4",
+    "location": "Lviv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 334,
+    "createdAt": "2026-02-27T11:03:42Z"
   }
 ]

@@ -310,5 +310,77 @@
     "privateContributions": 193,
     "publicContributions": 3,
     "createdAt": "2023-05-09T10:28:54Z"
+  },
+  {
+    "login": "krys410",
+    "name": "Christophe Grondin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110973411?s=72&u=d91597afc8377ad0f5defc72c4e4b41d370b26df&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-10T09:23:38Z"
+  },
+  {
+    "login": "Arro38",
+    "name": "Etienne VAYTILINGOM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115499486?s=72&u=7eaef19da29322e862b16df61965ed6898515f6f&v=4",
+    "location": "Réunion",
+    "company": "Coding974",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 543,
+    "publicContributions": 11,
+    "createdAt": "2022-10-10T18:42:35Z"
+  },
+  {
+    "login": "joshhoa",
+    "name": "Joshua Hoareau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108173176?s=72&u=ca25c8a12a756c48006a2b3554b248c4890e0760&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "joshhoa_io",
+    "followers": 4,
+    "privateContributions": 6,
+    "publicContributions": 0,
+    "createdAt": "2022-06-25T07:57:15Z"
+  },
+  {
+    "login": "Alpaga-Kun",
+    "name": "Alpaga-Kun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102417356?s=72&u=484ea24c8d8e3e8c1b7f61635d53bf8f7368667e&v=4",
+    "location": "Réunion ",
+    "company": "EPITECH",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-26T12:10:39Z"
+  },
+  {
+    "login": "OrionTheDev",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113329513?s=72&u=355f0025705c9d8041720744ade97cc19709e4c3&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-12T05:24:05Z"
+  },
+  {
+    "login": "apanchoo",
+    "name": "Ashvin Panchoo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117252314?s=72&u=5aa028674c79fa38dad19e34b55314a1ef81290e&v=4",
+    "location": "Réunion, Tampon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 6,
+    "publicContributions": 60,
+    "createdAt": "2022-11-02T04:53:41Z"
   }
 ]
