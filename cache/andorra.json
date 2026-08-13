@@ -34,5 +34,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-06T14:34:00Z"
+  },
+  {
+    "login": "KaratelSH",
+    "name": "Karatel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195018478?s=72&u=77d56b6d26b3adfb6a02a423747ec474805fac5d&v=4",
+    "location": "Andorra",
+    "company": "Atlas LTD",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-01-14T19:37:15Z"
+  },
+  {
+    "login": "linkertnetankist18",
+    "name": "Krista Fisher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234328341?s=72&v=4",
+    "location": "West Kellyside, Andorra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 136,
+    "createdAt": "2025-09-25T04:26:00Z"
+  },
+  {
+    "login": "ciberseguret",
+    "name": "Ciberseguretat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209025101?s=72&u=c1d13f1cd30b5212ef1791bfe3e20efa2b869520&v=4",
+    "location": "Andorra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-04-24T19:43:41Z"
+  },
+  {
+    "login": "Dinis-17",
+    "name": "Dinis Medeiros",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194348735?s=72&u=8aaa415c06f6347d3873ca7eefbfe885f8c61dd0&v=4",
+    "location": "Andorra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2025-01-09T07:39:07Z"
   }
 ]

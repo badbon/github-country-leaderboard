@@ -730,5 +730,41 @@
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2026-02-17T23:46:36Z"
+  },
+  {
+    "login": "daniel-sotomayor",
+    "name": "Daniel Sotomayor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268192594?s=72&u=dce99cfd61908d4214c9fe8c6fa2e6071e5412de&v=4",
+    "location": "Caracas",
+    "company": "DTSR",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 46,
+    "publicContributions": 83,
+    "createdAt": "2026-03-14T15:00:04Z"
+  },
+  {
+    "login": "oscarverdu81-source",
+    "name": "Osca Rafael Verdu Marquez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275543858?s=72&u=bda51fac10a6bb8922a524636d00ff625fe95114&v=4",
+    "location": "Caracas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-04-12T20:10:33Z"
+  },
+  {
+    "login": "alejandrosalas-SA",
+    "name": "Alejandro Salas-Seguros Altamira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258868104?s=72&u=b8c22fa13b3314236b7a7ede963c065f87cb19ee&v=4",
+    "location": "Avenida Libertador, pisos 2, Caracas, Miranda",
+    "company": "Seguros Altamira",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-02-02T15:59:37Z"
   }
 ]

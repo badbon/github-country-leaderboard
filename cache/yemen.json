@@ -442,5 +442,41 @@
     "privateContributions": 0,
     "publicContributions": 126,
     "createdAt": "2026-03-11T00:41:48Z"
+  },
+  {
+    "login": "mnabil-alareqi",
+    "name": "Eng. Mohammed N. Al-Areqi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279513615?s=72&u=d9fc45c2bf8df4ef502167a89619cd128304096d&v=4",
+    "location": "Sana'a",
+    "company": "University of Science & Technology",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-04-26T17:44:47Z"
+  },
+  {
+    "login": "eng-rayash",
+    "name": "Rayash Faisal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275202878?s=72&u=646a902b282c836592ed5a73e82e30d74e425262&v=4",
+    "location": "Sana'a",
+    "company": "Yemen",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 112,
+    "createdAt": "2026-04-11T00:38:13Z"
+  },
+  {
+    "login": "somaihalsanhany",
+    "name": "Somaih Alsanhany",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255436350?s=72&v=4",
+    "location": "Sana'a Yamene",
+    "company": "Student",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-16T21:38:08Z"
   }
 ]
