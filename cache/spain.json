@@ -750,9 +750,9 @@
     "location": "Seville, Spain",
     "company": "",
     "twitterUsername": "santifer",
-    "followers": 3099,
+    "followers": 3103,
     "privateContributions": 643,
-    "publicContributions": 1757,
+    "publicContributions": 1772,
     "createdAt": "2026-01-23T18:25:51Z"
   },
   {
@@ -7534,5 +7534,53 @@
     "privateContributions": 26,
     "publicContributions": 12,
     "createdAt": "2026-03-03T07:12:36Z"
+  },
+  {
+    "login": "FranBonillaa",
+    "name": "Francisco Bonilla Varo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254096997?s=72&u=1072c133789ef4cbe493bdf31132282a198c2f85&v=4",
+    "location": "Dos Hermanas, Seville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 252,
+    "publicContributions": 217,
+    "createdAt": "2026-01-10T10:49:02Z"
+  },
+  {
+    "login": "infopixelstudio-afk",
+    "name": "Christophe_palmiero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274609626?s=72&u=62409540471afe3557e79a06ca71fec3d4bc49c1&v=4",
+    "location": "Seville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2026-04-08T18:50:12Z"
+  },
+  {
+    "login": "veromas91",
+    "name": "Veronica Martinez Solorzano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254660573?s=72&u=cb4aee641a5634de9c5f122a4e7fa317aac46436&v=4",
+    "location": "Seville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-01-13T10:45:48Z"
+  },
+  {
+    "login": "owqlo",
+    "name": "Owqlo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181078051?s=72&u=70dcfe77a3fcb25f5c4d8e627e572684ccda8750&v=4",
+    "location": "New York, Abu Dhabi & Madrid",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-09-10T08:39:54Z"
   }
 ]

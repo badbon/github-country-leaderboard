@@ -46,5 +46,65 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2026-02-22T02:21:48Z"
+  },
+  {
+    "login": "abindacarmo",
+    "name": "Brigida de Carvalho Carmo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216846468?s=72&u=cf2e158357d2824a7809bed9351c6915f3e6db83&v=4",
+    "location": "Timor-Leste",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 685,
+    "createdAt": "2025-06-18T07:45:01Z"
+  },
+  {
+    "login": "JabesNelma",
+    "name": "Jay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211218107?s=72&u=1aee6ab1471f011e5b56d7d3e3d917a971617784&v=4",
+    "location": "Dili, Timor-Leste",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 130,
+    "publicContributions": 169,
+    "createdAt": "2025-05-11T12:38:04Z"
+  },
+  {
+    "login": "juliao-martins-dev",
+    "name": "Julião Martins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/240831788?s=72&u=f93e08f30d29df776a227f5ff31f5bb4bde3af08&v=4",
+    "location": "Dili, Timor-Leste",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 874,
+    "createdAt": "2025-10-29T02:55:31Z"
+  },
+  {
+    "login": "JtnewtrongRental",
+    "name": "Jerry Tou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202096090?s=72&u=c633db4bb02d79ad2aeb3570d84411bb477d1776&v=4",
+    "location": "Timor-Leste",
+    "company": "Jtnewtrong, Unipessoal, Lda",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-03-06T09:40:22Z"
+  },
+  {
+    "login": "revolta12",
+    "name": "NizioDevT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203135390?s=72&u=a4c83346517d146abc55beca2c9fa20e3fa883db&v=4",
+    "location": "Dili, Timor-Leste",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2025-03-13T15:51:38Z"
   }
 ]

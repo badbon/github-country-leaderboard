@@ -94,5 +94,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-22T18:15:42Z"
+  },
+  {
+    "login": "MarkusYPA",
+    "name": "Markus Amberla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180583881?s=72&u=585bd2484e2002dc47d47cdc5a6886a0d90f47c1&v=4",
+    "location": "Mariehamn and Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 1291,
+    "publicContributions": 906,
+    "createdAt": "2024-09-05T19:30:36Z"
+  },
+  {
+    "login": "giAddams",
+    "name": "Geraldine Addamo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181845963?s=72&u=836c0b1b04ed03b97ab0cff3183312f5821e7134&v=4",
+    "location": "Mariehamn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 81,
+    "createdAt": "2024-09-17T11:29:52Z"
+  },
+  {
+    "login": "olegamobile",
+    "name": "Oleg Balandin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167710198?s=72&u=b27dcdb0bfe80132e63ca6441c9c6aaa779bdc5d&v=4",
+    "location": "Mariehamn",
+    "company": "Grit:lab",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 1335,
+    "publicContributions": 220,
+    "createdAt": "2024-04-21T19:04:28Z"
+  },
+  {
+    "login": "fannielf",
+    "name": "Fanni Vesanen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180291451?s=72&u=13a4ef872e676d11ff1d09c7d7f8a222e58f47eb&v=4",
+    "location": "Mariehamn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 535,
+    "createdAt": "2024-09-03T12:09:02Z"
+  },
+  {
+    "login": "borsokman",
+    "name": "Sagyn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169916848?s=72&u=8dff5792d8048ce1fe4ffd410a77747eb0646877&v=4",
+    "location": "Mariehamn & Stockholm ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2024-05-15T14:14:29Z"
   }
 ]

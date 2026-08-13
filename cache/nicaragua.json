@@ -3070,5 +3070,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-27T21:40:26Z"
+  },
+  {
+    "login": "DuilioPerez",
+    "name": "Duilio Pérez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135564120?s=72&v=4",
+    "location": "Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2023-06-05T01:17:32Z"
+  },
+  {
+    "login": "56ibarra89",
+    "name": "Francisco Javier Ibarra Valle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125105276?s=72&u=7067e4f3e5b54d44da9d3ef23406fd930b44c268&v=4",
+    "location": "Carazo, Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 188,
+    "createdAt": "2023-02-11T02:15:43Z"
+  },
+  {
+    "login": "Imandro",
+    "name": "Mario A. Ruiz Alvarez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148641475?s=72&u=170724efbe6bdb298b8c4f19b87a40701bdfd352&v=4",
+    "location": "Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 58,
+    "createdAt": "2023-10-21T15:36:45Z"
+  },
+  {
+    "login": "JosueOmar320",
+    "name": "Josue Flores",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123602938?s=72&v=4",
+    "location": "Managua, Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 77,
+    "createdAt": "2023-01-25T23:00:35Z"
+  },
+  {
+    "login": "Hathan31",
+    "name": "Jonathan Sampera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143293293?s=72&u=02546c2879c112be79ae8780b7ce6e0076c18cc4&v=4",
+    "location": "Managua, Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-26T20:43:12Z"
   }
 ]

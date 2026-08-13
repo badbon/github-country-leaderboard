@@ -478,5 +478,77 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-11-09T18:47:13Z"
+  },
+  {
+    "login": "BernardSeychelles",
+    "name": "Bernard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157277780?s=72&u=78d5bf6ddab3352de182e130639668593bc41378&v=4",
+    "location": "Seychelles",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 354,
+    "createdAt": "2024-01-21T09:05:41Z"
+  },
+  {
+    "login": "ebooNick",
+    "name": "ebooNick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159126615?s=72&v=4",
+    "location": "Victoria, Mahe, Seychelles",
+    "company": "Nebula FinTech Limited",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2024-02-06T09:37:16Z"
+  },
+  {
+    "login": "Ebixx-Dracion",
+    "name": "Ebixx",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/192394520?s=72&u=b09c372af9bafccd6694d6544a82154cf3365c9b&v=4",
+    "location": "Seychelles",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2024-12-21T03:08:44Z"
+  },
+  {
+    "login": "Fkinsendit",
+    "name": "Fkinsend.it",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164670262?s=72&u=d8b0ce765c87e826ec02bcfeee777169d59e1c1c&v=4",
+    "location": "Seychelles",
+    "company": "Fkinsend.it",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-23T18:07:50Z"
+  },
+  {
+    "login": "LouysBelleJr",
+    "name": "Louys Belle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156012476?s=72&u=7e9bddc851f0bb5cffeb63737d79f7756dfaa349&v=4",
+    "location": "Seychelles",
+    "company": "Mavericks PTY LTD",
+    "twitterUsername": "Blvck_asian_",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-08T18:49:22Z"
+  },
+  {
+    "login": "stevenh-winfrasoft",
+    "name": "Steven Hope",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178512905?s=72&u=fc9bcd161a0162e7632485569c3e53bd3f7adcd8&v=4",
+    "location": "Seychelles",
+    "company": "Winfrasoft Corporation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2024-08-15T18:42:18Z"
   }
 ]

@@ -550,5 +550,89 @@
     "privateContributions": 0,
     "publicContributions": 338,
     "createdAt": "2025-12-20T21:32:00Z"
+  },
+  {
+    "login": "alanmusli",
+    "name": "Alan Musli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217341379?s=72&v=4",
+    "location": "Skopje",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-06-21T12:41:41Z"
+  },
+  {
+    "login": "bojananaumovska",
+    "name": "Bojana Naumovska",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209760714?s=72&v=4",
+    "location": "Skopje",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 27,
+    "publicContributions": 46,
+    "createdAt": "2025-04-30T08:55:08Z"
+  },
+  {
+    "login": "ivanmitkovski",
+    "name": "Ivan Mitkovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238001862?s=72&u=ac191791165e86060e2a9e1f65a24678ff40bf7a&v=4",
+    "location": "Skopje",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 9,
+    "publicContributions": 557,
+    "createdAt": "2025-10-14T12:44:38Z"
+  },
+  {
+    "login": "mishevskai",
+    "name": "Ivana Mishevska",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202623790?s=72&u=230005dfcc41bb4deb4894bfc6f800deedf5cbed&v=4",
+    "location": "Skopje ",
+    "company": "ATI",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2025-03-10T10:08:06Z"
+  },
+  {
+    "login": "husnuefeyatagan-crypto",
+    "name": "Husnu Efe Yatagan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/243227982?s=72&v=4",
+    "location": "skopje",
+    "company": "Finki",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2025-11-10T22:27:34Z"
+  },
+  {
+    "login": "ostarev",
+    "name": "Filip Mladenovik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/192971981?s=72&v=4",
+    "location": "Skopje",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2024-12-27T11:52:49Z"
+  },
+  {
+    "login": "stens22",
+    "name": "Stanislav Pachukov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195592617?s=72&u=cf10b94605df2853a2aecd89753dcefa162f07dc&v=4",
+    "location": "Skopje",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2025-01-18T20:09:11Z"
   }
 ]

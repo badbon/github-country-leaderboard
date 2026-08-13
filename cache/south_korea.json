@@ -5312,7 +5312,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 423,
+    "publicContributions": 424,
     "createdAt": "2025-01-10T13:20:39Z"
   },
   {
@@ -5323,7 +5323,7 @@
     "company": "Dankook University",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 584,
+    "privateContributions": 585,
     "publicContributions": 111,
     "createdAt": "2025-11-07T13:47:32Z"
   },
@@ -5504,7 +5504,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 51,
     "createdAt": "2025-12-25T13:56:15Z"
   },
   {
@@ -5671,7 +5671,7 @@
     "company": "K-PMC ㏇",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 702,
+    "privateContributions": 703,
     "publicContributions": 1,
     "createdAt": "2025-10-21T00:39:30Z"
   },
@@ -6152,7 +6152,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 93,
-    "publicContributions": 969,
+    "publicContributions": 973,
     "createdAt": "2025-10-15T08:50:28Z"
   },
   {
@@ -6406,5 +6406,17 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-07-25T23:01:56Z"
+  },
+  {
+    "login": "bsjjay20060u14-debug",
+    "name": "Seungjae Bae (배승재)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/237576588?s=72&u=326e496f2830bcf68e68cb2a35a5865a7146c567&v=4",
+    "location": "Republic of Korea (South Korea)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 85,
+    "createdAt": "2025-10-12T12:08:59Z"
   }
 ]

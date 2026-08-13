@@ -418,5 +418,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-17T20:34:28Z"
+  },
+  {
+    "login": "AntoineArthurG",
+    "name": "Antoine Arthur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71214784?s=72&u=f4ece75d6d5cdcb88bc795cc2ab152757093eacc&v=4",
+    "location": "Nouméa, Nouvelle-Calédonie",
+    "company": "SLN Le Nickel ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-13T11:11:25Z"
+  },
+  {
+    "login": "pluaki",
+    "name": "Pipiena LUAKI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62574957?s=72&u=ac821d09300cc322936e36ea3c2ff92c0555cbe9&v=4",
+    "location": "Nouméa",
+    "company": "ATOS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2020-03-23T22:34:40Z"
   }
 ]
