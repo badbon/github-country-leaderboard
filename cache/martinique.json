@@ -70,5 +70,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-08-21T13:24:36Z"
+  },
+  {
+    "login": "LePtitBiscuit",
+    "name": "LePtitBiscuit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131910408?s=72&u=ca3c2f5d09651df5e498ce5fb35bbc802b7a9a56&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 136,
+    "publicContributions": 30,
+    "createdAt": "2023-04-26T18:52:47Z"
+  },
+  {
+    "login": "Rachellelaubo",
+    "name": "Rachel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/140562356?s=72&u=8dc71110f19ce0bc4dcf3bc1ce4125e46c69e6b9&v=4",
+    "location": "Martinique ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-25T22:18:44Z"
+  },
+  {
+    "login": "mathiseld",
+    "name": "ELOIDIN--MICHANOL Mathis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149072752?s=72&u=307f3611330a5154c308db67aa17b4e1bd4eddcb&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1,
+    "publicContributions": 3,
+    "createdAt": "2023-10-26T12:10:34Z"
+  },
+  {
+    "login": "esrid",
+    "name": "ADS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132313796?s=72&u=c6accf3b25284063d2f2fa7d744964e2d9865a92&v=4",
+    "location": "Martinique",
+    "company": "none",
+    "twitterUsername": "as_esrid",
+    "followers": 2,
+    "privateContributions": 436,
+    "publicContributions": 373,
+    "createdAt": "2023-05-02T00:15:44Z"
+  },
+  {
+    "login": "StephDev-tech",
+    "name": "Stéphane.H",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149971596?s=72&u=8dbb6cf2cdcc366e82e75360cdce4c3582825781&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-05T20:37:58Z"
   }
 ]

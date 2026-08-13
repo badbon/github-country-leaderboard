@@ -5374,5 +5374,41 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-01-31T17:42:22Z"
+  },
+  {
+    "login": "hassandaher1",
+    "name": "hassandaher1",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/220705942?s=72&u=a70d841ed0abb0a3dee2c8ea456acd9a158ccc44&v=4",
+    "location": "France / Lebanon",
+    "company": "",
+    "twitterUsername": "hassandaher_11",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2025-07-14T09:51:30Z"
+  },
+  {
+    "login": "MaslowCorporation",
+    "name": "MaslowCorporation",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150598423?s=72&u=3c3e3db47125626355766ee1a5f4793372599333&v=4",
+    "location": "Fort De France, Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-12T13:16:19Z"
+  },
+  {
+    "login": "SoKey7",
+    "name": "A N D Y",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125098656?s=72&u=a049476c8ddb951990f442d08fd0e5232058486c&v=4",
+    "location": "Fort-de-France, Martinique, France",
+    "company": "Martinique Transport",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2023-02-10T23:21:50Z"
   }
 ]

@@ -238,5 +238,41 @@
     "privateContributions": 0,
     "publicContributions": 31,
     "createdAt": "2024-09-06T14:37:25Z"
+  },
+  {
+    "login": "asans-go",
+    "name": "Alba Sans Gonell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145647416?s=72&u=f76663eb75623a7c4f6ff97047c45bc05cf9aca3&v=4",
+    "location": "Olesa de Montserrat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-21T06:39:56Z"
+  },
+  {
+    "login": "holat6",
+    "name": "Norma Green",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143843676?s=72&u=fd52203e2a561c7dcb456384d5041294d7012101&v=4",
+    "location": "Port Jonathan, Montserrat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 135,
+    "createdAt": "2023-09-01T20:04:59Z"
+  },
+  {
+    "login": "vanessaovmark",
+    "name": "Vanessa O. V. Mark",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/140357191?s=72&u=318753a175cb70274f6b2eaf4c56f731d2b6559c&v=4",
+    "location": "Montserrat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-24T00:22:58Z"
   }
 ]
