@@ -34,5 +34,53 @@
     "privateContributions": 0,
     "publicContributions": 203,
     "createdAt": "2025-11-04T18:00:02Z"
+  },
+  {
+    "login": "Gise345",
+    "name": "Giselle Johnson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165144397?s=72&u=9d2cd302afc9169b192813cd24d901d74a3aab65&v=4",
+    "location": "Cayman Islands",
+    "company": "https://invovibetech.com/",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 417,
+    "publicContributions": 48,
+    "createdAt": "2024-03-27T08:55:39Z"
+  },
+  {
+    "login": "faziberi",
+    "name": "Fidel Aziberi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159703270?s=72&u=dc5528b2959611a2d74435ccf7b3aa052e38bdf3&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-11T13:48:11Z"
+  },
+  {
+    "login": "amorya-crawford",
+    "name": "Amorya Crawford",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164924624?s=72&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-25T17:45:48Z"
+  },
+  {
+    "login": "BellRockCayman",
+    "name": "Bell Rock Group - Cayman ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165218624?s=72&u=888513ae874cc3d7f60853d0cb9afdeec7355a6f&v=4",
+    "location": "Cayman Islands ",
+    "company": "Bell Rock Group ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-27T22:03:00Z"
   }
 ]

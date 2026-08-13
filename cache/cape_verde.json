@@ -82,5 +82,65 @@
     "privateContributions": 0,
     "publicContributions": 51,
     "createdAt": "2026-05-03T19:53:34Z"
+  },
+  {
+    "login": "Jorgegabrielsantos",
+    "name": "Jorge Gabriel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214547348?s=72&u=3e9409574f0ef8cdd7f8e9b524abde250aa4530e&v=4",
+    "location": "Cape Verde,Praia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 372,
+    "privateContributions": 20,
+    "publicContributions": 245,
+    "createdAt": "2025-06-02T18:50:33Z"
+  },
+  {
+    "login": "carlosadcaraujo",
+    "name": "Carlos Alberto da Conceição Araújo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215700434?s=72&v=4",
+    "location": "Cape Verde",
+    "company": "Self-employed",
+    "twitterUsername": "carlosadcaraujo",
+    "followers": 27,
+    "privateContributions": 1083,
+    "publicContributions": 100,
+    "createdAt": "2025-06-10T14:31:20Z"
+  },
+  {
+    "login": "Yannick463",
+    "name": "Yannick Martins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205258475?s=72&v=4",
+    "location": "Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2025-03-28T02:17:38Z"
+  },
+  {
+    "login": "dameondas",
+    "name": "Wilson Santos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193454223?s=72&u=cbf3ca010b4ca768e7d5c28c6860362139966eb0&v=4",
+    "location": "Cape Verde",
+    "company": "",
+    "twitterUsername": "_wilonearth",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-01-02T03:45:14Z"
+  },
+  {
+    "login": "codewrldniclas",
+    "name": "Nicholas Alves",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199544714?s=72&u=6472efac9c4164da65ecad694fb6e6a9c2484ab5&v=4",
+    "location": "Praia, Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1235,
+    "createdAt": "2025-02-17T02:49:02Z"
   }
 ]
