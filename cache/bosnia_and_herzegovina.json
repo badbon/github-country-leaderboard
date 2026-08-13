@@ -271,7 +271,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 159,
+    "privateContributions": 160,
     "publicContributions": 63,
     "createdAt": "2025-08-18T04:33:36Z"
   },
@@ -442,5 +442,77 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2025-11-24T18:38:48Z"
+  },
+  {
+    "login": "Hardaistee",
+    "name": "Harda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208876975?s=72&u=8225a3171aa1f0e615a2de2e6e09d8517ec3a81a&v=4",
+    "location": "Bosnia-Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 707,
+    "publicContributions": 73,
+    "createdAt": "2025-04-23T21:17:54Z"
+  },
+  {
+    "login": "rico-77",
+    "name": "Riyad H",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196387448?s=72&u=5c9470a34dd8bd6f594b1464a757b1a8e0093f64&v=4",
+    "location": "Bosnia&Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 237,
+    "createdAt": "2025-01-24T22:02:59Z"
+  },
+  {
+    "login": "alimehic778-sketch",
+    "name": "Ali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225188489?s=72&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2025-08-07T11:38:48Z"
+  },
+  {
+    "login": "njanjahier",
+    "name": "Sanja Savic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219719164?s=72&u=6cb533a43c108c40168dc2ba867f1b39f3871972&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 60,
+    "createdAt": "2025-07-07T17:17:59Z"
+  },
+  {
+    "login": "makimaaki79",
+    "name": "Maki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246757228?s=72&u=cd8cec87b4f62a50eba8e766f258c384310fb777&v=4",
+    "location": "Bosnia-Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-11-28T20:30:43Z"
+  },
+  {
+    "login": "semihaseker",
+    "name": "Semiha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/249323899?s=72&u=9eedb5a44a22827aa6af3839da614acb04d9f836&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2025-12-12T16:30:12Z"
   }
 ]

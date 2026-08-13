@@ -5578,5 +5578,89 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-02-23T18:35:23Z"
+  },
+  {
+    "login": "Ayo-Fam",
+    "name": "Ayo Famuagun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260776527?s=72&u=2e5be2cbbeec66f5c14bae88d394c2d4d1f50c83&v=4",
+    "location": "Calgary, Alberta",
+    "company": "@apexradius",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2026-02-10T22:16:36Z"
+  },
+  {
+    "login": "oberg3733",
+    "name": "Owen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253578993?s=72&u=fc8ab88712affef6db1b29688f15f2ba2724d47a&v=4",
+    "location": "Calgary",
+    "company": "Kiewit Infrastructure Engineers",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-07T19:45:40Z"
+  },
+  {
+    "login": "suderbot",
+    "name": "Jon Suderbot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258685725?s=72&u=aa823b62ec76ef3f0c64b744b9ed45c4a885b722&v=4",
+    "location": "Calgary, AB",
+    "company": "",
+    "twitterUsername": "suderbot",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-02-01T21:53:09Z"
+  },
+  {
+    "login": "reginaldjvs",
+    "name": "Reginald Jeeves",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263750493?s=72&u=b559e57eb0e18eb97c0fe40d9ddf05f532d2cf43&v=4",
+    "location": "Calgary, AB",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 140,
+    "createdAt": "2026-02-24T20:16:33Z"
+  },
+  {
+    "login": "CrownOpsEng",
+    "name": "Chris Wright",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265925262?s=72&v=4",
+    "location": "Calgary, Alberta",
+    "company": "CrownOps Engineering",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 988,
+    "createdAt": "2026-03-05T22:43:11Z"
+  },
+  {
+    "login": "LesleyMurfin",
+    "name": "Lesley Murfin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260182349?s=72&u=d4d080579e5022c537869f1950b560310f4d3123&v=4",
+    "location": "Calgary",
+    "company": "Revive Business Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 441,
+    "createdAt": "2026-02-08T06:22:22Z"
+  },
+  {
+    "login": "LucanRallyad",
+    "name": "Lucan Marsh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252949348?s=72&v=4",
+    "location": "Calgary, AB",
+    "company": "RallyAd Media",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 128,
+    "createdAt": "2026-01-04T22:56:16Z"
   }
 ]
