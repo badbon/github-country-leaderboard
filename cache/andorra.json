@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "login": "maximecernot-crypto",
+    "name": "Antica",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266327033?s=72&v=4",
+    "location": "Andorra",
+    "company": "Antica",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-07T16:04:05Z"
+  },
+  {
+    "login": "xavipro21",
+    "name": "xavi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275979989?s=72&u=ef3bb25ee2a4f215d30481985c08aa7f7d651ca1&v=4",
+    "location": "andorra",
+    "company": "lui borgue inc",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-04-14T11:18:36Z"
+  },
+  {
+    "login": "mfoix",
+    "name": "Marc Foix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266093389?s=72&v=4",
+    "location": "Andorra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-06T14:34:00Z"
+  }
+]

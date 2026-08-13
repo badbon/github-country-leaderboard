@@ -922,5 +922,53 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-04-23T08:18:17Z"
+  },
+  {
+    "login": "alisalia-44",
+    "name": "Ali Salia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258341051?s=72&u=0b160d7511fe8d032d1c54984195b83f7ff3b524&v=4",
+    "location": "Alger, Algérie",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 58,
+    "createdAt": "2026-01-31T00:02:23Z"
+  },
+  {
+    "login": "lisazarif8-cpu",
+    "name": "Lisa. Zarif ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257951238?s=72&v=4",
+    "location": "Algérie ",
+    "company": "TechInnov Solutions",
+    "twitterUsername": "Lisa87990",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2026-01-29T07:35:21Z"
+  },
+  {
+    "login": "Rayane-ghebrioua",
+    "name": "Rayane GHEBRIOUA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260507074?s=72&v=4",
+    "location": "Bejaia Algérie ",
+    "company": "Université de bejaia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-09T19:43:10Z"
+  },
+  {
+    "login": "foodglobalindustrie-glitch",
+    "name": "Ayat ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265154567?s=72&v=4",
+    "location": "Algérie, Constantine ",
+    "company": "Food global industrie ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-03-03T01:21:44Z"
   }
 ]

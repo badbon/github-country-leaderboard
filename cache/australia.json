@@ -2443,7 +2443,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 427,
+    "privateContributions": 428,
     "publicContributions": 84,
     "createdAt": "2025-12-28T16:08:27Z"
   },
@@ -2779,7 +2779,7 @@
     "company": "Relevance AI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1069,
+    "privateContributions": 1077,
     "publicContributions": 2,
     "createdAt": "2026-01-29T00:10:05Z"
   },
@@ -3007,7 +3007,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 94,
+    "privateContributions": 95,
     "publicContributions": 1,
     "createdAt": "2026-03-15T04:12:55Z"
   },
@@ -3622,5 +3622,29 @@
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2026-01-23T23:03:16Z"
+  },
+  {
+    "login": "yannn2609-prog",
+    "name": "Yan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283921610?s=72&u=db8da4889eb61d2e53a337c0f9e84994b3d1410f&v=4",
+    "location": "Monash University, Wellington Rd, Clayton, VIC, 3800 Australia",
+    "company": "Monash University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-12T08:11:24Z"
+  },
+  {
+    "login": "astarexecutive",
+    "name": "ASTAR Executive",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283939504?s=72&u=eaf0ee24d46db8dab097bcaecbe50804a55a211a&v=4",
+    "location": "Australia",
+    "company": "ASTAR Executive",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-12T09:17:28Z"
   }
 ]

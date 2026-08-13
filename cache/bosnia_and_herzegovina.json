@@ -82,5 +82,53 @@
     "privateContributions": 1,
     "publicContributions": 55,
     "createdAt": "2026-02-28T20:15:27Z"
+  },
+  {
+    "login": "djuuuma",
+    "name": "Anes Djumisic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259216548?s=72&u=59915341b3ff3841009e6450e8c9fba47bef3298&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2026-02-03T23:55:03Z"
+  },
+  {
+    "login": "4npdev",
+    "name": "4NP",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254273844?s=72&u=686f1695cbeb42c7ab1ead5ab758a4629997173c&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2026-01-11T13:15:12Z"
+  },
+  {
+    "login": "elmasoftic-alt",
+    "name": "Elma Softic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262534023?s=72&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "Symphony",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-02-19T08:35:57Z"
+  },
+  {
+    "login": "sabitvw-code",
+    "name": "Sabit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268993676?s=72&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "Autoservis Vehabovic",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-03-17T18:12:21Z"
   }
 ]
