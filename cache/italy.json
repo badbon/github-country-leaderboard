@@ -3283,7 +3283,7 @@
     "company": "COCO GROUP",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1158,
+    "privateContributions": 1173,
     "publicContributions": 1,
     "createdAt": "2026-02-24T21:50:38Z"
   },
@@ -3310,5 +3310,53 @@
     "privateContributions": 0,
     "publicContributions": 594,
     "createdAt": "2025-11-23T09:08:54Z"
+  },
+  {
+    "login": "pariyade",
+    "name": "pari yadegari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255719712?s=72&v=4",
+    "location": "Bologna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-01-18T16:56:17Z"
+  },
+  {
+    "login": "lmmarchesiluca-collab",
+    "name": "lucamarchesi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/251878302?s=72&u=2927e56a51fcffc619b15d0baa0ad23e95e89257&v=4",
+    "location": "Bologna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 71,
+    "createdAt": "2025-12-28T15:21:56Z"
+  },
+  {
+    "login": "felixpin99-netizen",
+    "name": "Felix Pinerolo de Septis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268847067?s=72&v=4",
+    "location": "Bologna",
+    "company": "UniBo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-17T08:27:12Z"
+  },
+  {
+    "login": "ypezzanod",
+    "name": "Daniele",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282841017?s=72&u=f621c26aa67ae63f60566d7af821943e89650b62&v=4",
+    "location": "Bologna",
+    "company": "YOOX",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-08T08:54:15Z"
   }
 ]

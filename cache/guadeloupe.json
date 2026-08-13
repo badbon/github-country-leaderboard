@@ -46,5 +46,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-11T13:11:30Z"
+  },
+  {
+    "login": "leho971",
+    "name": "ZOZO Léo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167489661?s=72&u=5c2c2e772451acdcefdde7a6fdc30597e6c15fa1&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2024-04-19T01:04:50Z"
+  },
+  {
+    "login": "LyohRyoh",
+    "name": "Lionel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189013102?s=72&u=33e40cfffd26f34e81e98f91d4e607d49ade7efc&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-11-19T15:02:10Z"
+  },
+  {
+    "login": "Rangassamy",
+    "name": "Rangassamy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162192480?s=72&u=34894d68f7fd02ff00f7f1c17f21fbe2a3c29b43&v=4",
+    "location": "Guadeloupe",
+    "company": "Rangassamy Agency",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2024-03-04T20:04:45Z"
+  },
+  {
+    "login": "WeDoHosting",
+    "name": "WDH",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155404747?s=72&u=5f65414c915b4b3ee5c1bed23f6a7900977ccd3b&v=4",
+    "location": "Guadeloupe",
+    "company": "WeDoHosting SAS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-02T01:29:17Z"
   }
 ]

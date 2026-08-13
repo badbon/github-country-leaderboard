@@ -3010,5 +3010,29 @@
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2025-02-02T15:10:02Z"
+  },
+  {
+    "login": "shaharcohenn1",
+    "name": "Shahar Cohen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234886455?s=72&u=d853a5a4bd0231244d216b32f6f05af80f86310f&v=4",
+    "location": "Holon,Israel",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2025-09-28T06:49:10Z"
+  },
+  {
+    "login": "Nadav-Salomon",
+    "name": "Nadav Salomon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215353576?s=72&v=4",
+    "location": "Israel",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-06-08T07:27:04Z"
   }
 ]

@@ -418,5 +418,65 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-07-05T22:56:20Z"
+  },
+  {
+    "login": "0x77chris",
+    "name": "chris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193618895?s=72&u=708bf5fe9d1887323323e9254aeda228c37d79df&v=4",
+    "location": "Ivory Coast",
+    "company": "the bedroom",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-01-03T15:30:29Z"
+  },
+  {
+    "login": "tanguykonan",
+    "name": "Ulrich Tanguy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234080428?s=72&u=80e766774532ddb8c41795a77d5305ba6b73e4b0&v=4",
+    "location": "Ivory Coast, Multiverse",
+    "company": "CareerLens",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 414,
+    "publicContributions": 124,
+    "createdAt": "2025-09-23T23:19:06Z"
+  },
+  {
+    "login": "attobraprince34-sketch",
+    "name": "ATTOBRA PRINCE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233575012?s=72&u=d3c9f56bc468fcf9bd8eab1b1d409f454a339713&v=4",
+    "location": "IVORY-COAST",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 103,
+    "createdAt": "2025-09-21T12:27:52Z"
+  },
+  {
+    "login": "devMarco12-maker",
+    "name": "Axel Marc-élie Mominé",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224685425?s=72&u=49a93936715318fb1cd11dca5a0a88f63a20c1be&v=4",
+    "location": "Ivory Coast",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-08-05T00:25:02Z"
+  },
+  {
+    "login": "angetraore0FF",
+    "name": "Traoré Ange",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204403748?s=72&u=56ca91c789a2aecd982af0fbc8b524c6464a66b7&v=4",
+    "location": "Ivory Coast",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 54,
+    "createdAt": "2025-03-21T20:56:02Z"
   }
 ]
