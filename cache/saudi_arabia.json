@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "login": "Ruqayah0",
+    "name": "Ruqayah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253781529?s=72&v=4",
+    "location": "Kingdom of Saudi Arabia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-08T18:09:37Z"
+  },
+  {
+    "login": "ObadahKAUST",
+    "name": "Obadah A Wali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273933750?s=72&v=4",
+    "location": "4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Kingdom of Saudi Arabia",
+    "company": "King Abdullah University of Science and Technology ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-06T06:38:39Z"
+  },
+  {
+    "login": "rahaf-kalad",
+    "name": "rahaf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258286905?s=72&u=b94236a22a700bda9ed6124c8dbb6f8f4bfea59c&v=4",
+    "location": "Kingdom of Saudi Arabia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2026-01-30T17:27:01Z"
+  },
+  {
+    "login": "BasselAljazzaa",
+    "name": "Bassel Aljazzaa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257757326?s=72&u=d9bfcf693f50d60d8807977a31de32dbd1a9f4c1&v=4",
+    "location": "Kingdom of Saudi Arabia.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-01-28T11:01:05Z"
+  },
+  {
+    "login": "royy-1",
+    "name": "Rashid Alotaibi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272866546?s=72&u=39eaf0f9544e52dd59fdc65e3a997eebf80d7d2b&v=4",
+    "location": "Kingdom of Saudi Arabia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-04-01T15:31:44Z"
+  }
+]
