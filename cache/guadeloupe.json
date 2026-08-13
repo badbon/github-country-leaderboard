@@ -274,5 +274,29 @@
     "privateContributions": 107,
     "publicContributions": 1,
     "createdAt": "2023-05-24T14:10:15Z"
+  },
+  {
+    "login": "JoDrm",
+    "name": "Jodrm",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105506527?s=72&u=2a50dd33faa7ebf1b14901082e6e10ac566e3442&v=4",
+    "location": "Guadeloupe",
+    "company": "Freelance",
+    "twitterUsername": "DarmaJoachim",
+    "followers": 3,
+    "privateContributions": 2218,
+    "publicContributions": 24,
+    "createdAt": "2022-05-13T15:02:45Z"
+  },
+  {
+    "login": "MelissaAutodidact",
+    "name": "Melissa B. Amort",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117417213?s=72&u=3b0344437a5cab387c93a3ad3acc1c3e58b48d7c&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "MeliAutodidact",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-04T01:21:05Z"
   }
 ]

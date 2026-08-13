@@ -430,5 +430,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-27T14:40:10Z"
+  },
+  {
+    "login": "anthony-nosibor",
+    "name": "Anthony nosibor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64765109?s=72&u=57966954116774b236eede56b4d65a873ed6506e&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2020-05-04T04:13:04Z"
+  },
+  {
+    "login": "phnxtrill",
+    "name": "Quentin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67480068?s=72&u=6747c10b256792005c1551daf04ebec323df633c&v=4",
+    "location": "Fort-de-France, Martinique",
+    "company": "Université des Antilles",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2020-06-26T17:58:32Z"
   }
 ]

@@ -5062,5 +5062,29 @@
     "privateContributions": 0,
     "publicContributions": 68,
     "createdAt": "2026-01-14T17:50:51Z"
+  },
+  {
+    "login": "jonniecumming",
+    "name": "Jonathan Cumming",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195327074?s=72&u=e1c458479219fd0c9b61aad401a8ca048ee97ca5&v=4",
+    "location": "Birmingham, UK / Dublin, IE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 355,
+    "createdAt": "2025-01-16T15:55:33Z"
+  },
+  {
+    "login": "darrylnoakes",
+    "name": "Darryl Noakes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67335139?s=72&v=4",
+    "location": "Mandeville, Manchester, Jamaica W.I.",
+    "company": "",
+    "twitterUsername": "darryl_noakes",
+    "followers": 13,
+    "privateContributions": 298,
+    "publicContributions": 17,
+    "createdAt": "2020-06-23T16:56:39Z"
   }
 ]

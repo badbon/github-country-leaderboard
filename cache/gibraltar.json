@@ -226,5 +226,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-04T12:33:06Z"
+  },
+  {
+    "login": "BeyondZ",
+    "name": "Beyond Zuo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63467300?s=72&u=e86b9a8a7bab73b730a7621a36e8e76b26de4316&v=4",
+    "location": "Gibraltar",
+    "company": "@ThingW ",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-10T16:42:36Z"
+  },
+  {
+    "login": "sTevoFort",
+    "name": "Stephen Fortunato",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73440050?s=72&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 303,
+    "publicContributions": 0,
+    "createdAt": "2020-10-25T17:57:33Z"
   }
 ]

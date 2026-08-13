@@ -742,5 +742,41 @@
     "privateContributions": 0,
     "publicContributions": 51,
     "createdAt": "2024-08-19T10:38:37Z"
+  },
+  {
+    "login": "mamadou6c",
+    "name": "Mamadou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154639855?s=72&u=eb63162db8ea623bb9eb914c3ded47b89c2af7ff&v=4",
+    "location": "Guinea",
+    "company": "Haven",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 439,
+    "publicContributions": 41,
+    "createdAt": "2023-12-22T22:46:29Z"
+  },
+  {
+    "login": "daosafi",
+    "name": "DIALLO ALPHA OUSMANE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123077046?s=72&u=de1999ff0442dc55a464e8086fc7abfb5203e8e2&v=4",
+    "location": "GUINEA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-19T11:26:11Z"
+  },
+  {
+    "login": "CellouCS",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151859333?s=72&u=b2427d20375031c272feb0879f83d7c2d4b20bfb&v=4",
+    "location": "Guinea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-23T15:28:39Z"
   }
 ]

@@ -322,5 +322,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-02T02:36:42Z"
+  },
+  {
+    "login": "stoyann-open-classrooms",
+    "name": "Stoyann Velten",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73643319?s=72&u=fc0b3ccc15f27a9f643a9594033b05530af2d776&v=4",
+    "location": "Nouméa (New Caledonia)",
+    "company": "@KRYSTO-NC ",
+    "twitterUsername": "DevStoyann",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-29T10:46:34Z"
+  },
+  {
+    "login": "nwdaudt",
+    "name": "Nicholas W Daudt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72047174?s=72&u=94846d7d5b495f892a87957dcea66a82f9e07f1e&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2020-09-28T20:44:27Z"
+  },
+  {
+    "login": "sidneywm",
+    "name": "Sidney Wimart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70834356?s=72&u=40a9a23b6bc29632bbc0fb223ab1a2c092eae3ff&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-06T06:26:36Z"
+  },
+  {
+    "login": "davidfevre-gouv-nc",
+    "name": "David FEVRE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62677553?s=72&u=122f46945bf1bfe149465f3d05721de440d78d12&v=4",
+    "location": "Nouméa, New Caledonia",
+    "company": "@gouv-nc ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1411,
+    "publicContributions": 4,
+    "createdAt": "2020-03-25T23:47:55Z"
+  },
+  {
+    "login": "CaruzzoC",
+    "name": "Caruzzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61996214?s=72&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-09T23:36:15Z"
+  },
+  {
+    "login": "Phoemerrion",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63208651?s=72&u=b8331afd587ca7a8d4438b58cce08f424d0a83b8&v=4",
+    "location": "New Caledonia",
+    "company": "QuantiQ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-05T19:54:48Z"
+  },
+  {
+    "login": "trara538",
+    "name": "Rara Soro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60901974?s=72&u=d2ffe221b07defe2a4d5913757be43ef853f75fc&v=4",
+    "location": "Noumea, New Caledonia",
+    "company": "South Pacific Community ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 142,
+    "createdAt": "2020-02-10T22:00:17Z"
+  },
+  {
+    "login": "christophemenkes",
+    "name": "MENKES",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65510794?s=72&u=83cd061fea9c71c9f8e545ad72d0178e9fb1de69&v=4",
+    "location": "New Caledonia",
+    "company": "IRD",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-17T20:34:28Z"
   }
 ]

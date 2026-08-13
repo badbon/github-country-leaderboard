@@ -2659,7 +2659,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 247,
+    "privateContributions": 249,
     "publicContributions": 62,
     "createdAt": "2023-04-25T13:41:17Z"
   },
@@ -2780,7 +2780,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 66,
     "createdAt": "2023-09-28T19:43:22Z"
   },
   {
@@ -3538,5 +3538,137 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-28T02:41:57Z"
+  },
+  {
+    "login": "Kennie265",
+    "name": "Kennedy Phiri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142240978?s=72&u=63f8168448fe1362ceca9b7988b7645e03fb1a5a&v=4",
+    "location": "Lilongwe ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-14T14:50:20Z"
+  },
+  {
+    "login": "St3Alth31",
+    "name": "St3alth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134453280?s=72&u=45f1743edea58ec6a39516a9e8891f3f8b49fa5f&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2023-05-23T22:23:40Z"
+  },
+  {
+    "login": "Mosoulin9",
+    "name": "Mosoulin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135786672?s=72&u=24727cfae6c5d36dc295d7b9eda079c202082fe8&v=4",
+    "location": "Area 47, Lilongwe",
+    "company": "NM-ByteLab",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2023-06-07T02:00:45Z"
+  },
+  {
+    "login": "ishmaiah-ih",
+    "name": "Ishmael-Integral",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131896538?s=72&u=8af68ec4e6c05615144bea890b63a9fdc96f31c4&v=4",
+    "location": "Lilongwe",
+    "company": "Standard Bank of Malawi",
+    "twitterUsername": "IshmaelMwa85865",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-04-26T15:48:49Z"
+  },
+  {
+    "login": "onesimuskalindawalo",
+    "name": "Onesimus Kalindawalo ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147600273?s=72&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2023-10-11T08:47:57Z"
+  },
+  {
+    "login": "chikuchirwa",
+    "name": "chiku chirwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129788523?s=72&u=e8e0c9871742ae7b0c6a57e7e8e8630f81220e60&v=4",
+    "location": "Lilongwe",
+    "company": "Electricity Supply Corporation of malawi",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-03T18:35:18Z"
+  },
+  {
+    "login": "andrewfrontend",
+    "name": "Andrew Kaunda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130128512?s=72&u=5c2a07be7b6851ef4ac1d0259ed015aaea926859&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "265Andre",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2023-04-07T05:44:44Z"
+  },
+  {
+    "login": "MussaMilanzi",
+    "name": "Mussa Milanzi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123800881?s=72&u=6992aad681af4b8a78e4c50163a8aab3a4051eb9&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "MussaMilanzi5",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-28T07:57:12Z"
+  },
+  {
+    "login": "derek-8642",
+    "name": "Derek Prince",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133369677?s=72&u=ab10feeba54d973d084df3ccab26f723d847679c&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-12T12:49:01Z"
+  },
+  {
+    "login": "Chite-17",
+    "name": "Ch1t3",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145149531?s=72&u=41534a6a9f69f941bc97c2cf6f7f436be48e39f0&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 17,
+    "publicContributions": 3,
+    "createdAt": "2023-09-15T16:56:59Z"
+  },
+  {
+    "login": "TimChaw",
+    "name": "Timothy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122877192?s=72&v=4",
+    "location": "Lilongwe",
+    "company": "@mawacreativeagency",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-17T10:50:05Z"
   }
 ]

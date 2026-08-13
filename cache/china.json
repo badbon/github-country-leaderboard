@@ -12550,5 +12550,113 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-07T06:01:44Z"
+  },
+  {
+    "login": "Andy-Zyk",
+    "name": "Andy Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181692082?s=72&u=3f2fe74c5c03acaa8da8098d4b60b375e5fa2185&v=4",
+    "location": "The Chinese University of Hong Kong, Shenzhen",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2024-09-16T04:59:10Z"
+  },
+  {
+    "login": "wanglabhku",
+    "name": "Junwen Wang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167722281?s=72&u=d7c0e7873936a0c73e434b759a0dd7381c89b2d4&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "HKU",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2024-04-21T23:36:22Z"
+  },
+  {
+    "login": "siujamo",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168176399?s=72&u=0ec90eb3d6fdd876ce617981da2e77901969afe4&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2024-04-26T08:28:23Z"
+  },
+  {
+    "login": "y-cg",
+    "name": "YCG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159802291?s=72&u=a222cb36566f09c75309a1407e46543dfa2d5a93&v=4",
+    "location": "Hong Kong SAR ⇌ Shenzhen, China",
+    "company": "CSE@HKUST",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1035,
+    "publicContributions": 442,
+    "createdAt": "2024-02-12T15:51:04Z"
+  },
+  {
+    "login": "Rain-YC-JIANG",
+    "name": "JIANG, Yuchao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179362644?s=72&v=4",
+    "location": "Taipa, Macau, China",
+    "company": "University of Macau",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 75,
+    "publicContributions": 0,
+    "createdAt": "2024-08-25T04:02:00Z"
+  },
+  {
+    "login": "GriziMessi",
+    "name": "Qishu Wen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179375644?s=72&v=4",
+    "location": "Macau, China",
+    "company": "University of Macau",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-08-25T09:17:42Z"
+  },
+  {
+    "login": "ShaozeSu",
+    "name": "宿韶澤(SU SHAOZE)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179851657?s=72&v=4",
+    "location": "W32 Postgraduated House, University of Macau Avenida da Universidade Taipa, Macau, China",
+    "company": "University of Macao",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-08-29T15:52:16Z"
+  },
+  {
+    "login": "lihaicheng7003",
+    "name": "shuaizhou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61043072?s=72&u=d1697b8605b972377dbbb0c1339ae7482ea363e5&v=4",
+    "location": "Hohhot, Inner Mongolia , China",
+    "company": "Inner Mongolia University",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 1,
+    "publicContributions": 17,
+    "createdAt": "2020-02-14T07:33:43Z"
+  },
+  {
+    "login": "dotbydot",
+    "name": "Guolibiao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60051407?s=72&v=4",
+    "location": "Hohhot, Inner Mongolia, China",
+    "company": "IGRCAAS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-19T01:00:30Z"
   }
 ]

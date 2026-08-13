@@ -1675,7 +1675,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 234,
+    "privateContributions": 236,
     "publicContributions": 207,
     "createdAt": "2025-01-07T17:51:25Z"
   },
@@ -3658,5 +3658,41 @@
     "privateContributions": 0,
     "publicContributions": 135,
     "createdAt": "2025-01-13T09:32:33Z"
+  },
+  {
+    "login": "jortsupetterson",
+    "name": "Jori Lehtinen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208110781?s=72&u=671b53cd6ef6359182b0ca76b4c0db3a8f72e672&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "jortsupetterson",
+    "followers": 4,
+    "privateContributions": 39,
+    "publicContributions": 2902,
+    "createdAt": "2025-04-18T05:05:15Z"
+  },
+  {
+    "login": "paavo-tsupari",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/221706221?s=72&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2025-07-19T12:31:59Z"
+  },
+  {
+    "login": "Nanq666",
+    "name": "Annika Törnberg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231859506?s=72&u=1886bd277520750dae8574009289f8b0f1c5006b&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2025-09-12T08:56:21Z"
   }
 ]
