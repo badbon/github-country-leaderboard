@@ -70,5 +70,29 @@
     "privateContributions": 4,
     "publicContributions": 40,
     "createdAt": "2025-09-19T10:43:27Z"
+  },
+  {
+    "login": "docziegler",
+    "name": "star",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182004180?s=72&u=8b3d2c216b5ebbbd9ba7afd7c6e7049353796172&v=4",
+    "location": "watchpoint gibraltar",
+    "company": "overwatch",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-09-18T17:26:14Z"
+  },
+  {
+    "login": "nilmonreal",
+    "name": "Nil Monreal ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178990943?s=72&u=4db5b147cf91d133b4008e669a160aa4c209e4eb&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2024-08-21T09:02:43Z"
   }
 ]

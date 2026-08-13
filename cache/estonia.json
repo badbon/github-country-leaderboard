@@ -55,7 +55,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 6689,
+    "privateContributions": 6731,
     "publicContributions": 507,
     "createdAt": "2026-04-03T08:42:45Z"
   },
@@ -382,5 +382,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-14T11:06:27Z"
+  },
+  {
+    "login": "KairiMerila",
+    "name": "Kairi Merila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279946347?s=72&u=067cf104f8a886cee5b506da04fc86bc1d108983&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 197,
+    "createdAt": "2026-04-28T07:33:58Z"
+  },
+  {
+    "login": "Dario-Chang",
+    "name": "dario chang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277477225?s=72&u=a6fb8cda0bbf413fc984af310bfd6a912e956fb1&v=4",
+    "location": "Miami-Tallinn",
+    "company": "Ruutli Roosmari OU/ Zonalibre pty LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2026-04-19T13:48:38Z"
+  },
+  {
+    "login": "reifam-dev",
+    "name": "Jevgeni Ragalevits",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274923814?s=72&u=a2cbf0fbdbd870df0fbb0b2239ff47cb98f53b1c&v=4",
+    "location": "London / Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 325,
+    "createdAt": "2026-04-09T21:32:30Z"
+  },
+  {
+    "login": "tssd-kickflip",
+    "name": "Thomas Danielsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268978286?s=72&u=31800d8a670bfd5e6476b754aa001d40d6d15d12&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 479,
+    "publicContributions": 1,
+    "createdAt": "2026-03-17T17:03:40Z"
   }
 ]

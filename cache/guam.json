@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "alliahdavid",
+    "name": "Alliah Czarielle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233296123?s=72&u=e6e15bbe48dffe4471481dc450325d381b21c090&v=4",
+    "location": "Guam",
+    "company": "Guam Community College — Majoring in Information Technology ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2025-09-19T14:12:08Z"
+  },
+  {
+    "login": "StoneyTi",
+    "name": "Tim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233216091?s=72&u=fc11c3ffedf12990b0696b084be03ee1eb121f53&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5,
+    "publicContributions": 1,
+    "createdAt": "2025-09-19T06:04:19Z"
+  }
+]
