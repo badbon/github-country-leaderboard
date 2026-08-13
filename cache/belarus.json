@@ -334,5 +334,77 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2025-12-27T11:07:00Z"
+  },
+  {
+    "login": "mjxqq111",
+    "name": "Ivan Morozov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263817682?s=72&v=4",
+    "location": "Minsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2026-02-25T04:24:21Z"
+  },
+  {
+    "login": "itxwomen",
+    "name": "Daria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255922554?s=72&v=4",
+    "location": "Minsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-01-19T16:15:29Z"
+  },
+  {
+    "login": "tuwulalo",
+    "name": "Tuwulalo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252037247?s=72&u=c579ed8450593741f8c9ecdb3fe632701d6dbb84&v=4",
+    "location": "Minsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 90,
+    "createdAt": "2025-12-29T15:37:56Z"
+  },
+  {
+    "login": "dariazavatska",
+    "name": "Daria Zavatska",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277782877?s=72&u=8f52b8139ca55232403b3ddb95f4034c9a3b6436&v=4",
+    "location": "Minsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2026-04-20T14:13:41Z"
+  },
+  {
+    "login": "lerawhite",
+    "name": "Vlad Dvoryakov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254004375?s=72&u=887d8d3861b689987422078bc07daff7dd8d99d1&v=4",
+    "location": "Europe, Minsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-01-09T19:52:40Z"
+  },
+  {
+    "login": "aniram42",
+    "name": "Maryna Yarosh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260658547?s=72&u=35e9e5df477163ebb9b2b376127f15254b141b35&v=4",
+    "location": "Minsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 87,
+    "createdAt": "2026-02-10T11:56:53Z"
   }
 ]
