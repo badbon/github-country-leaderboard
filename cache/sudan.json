@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "login": "aimankassir",
+    "name": "Aiman Kassir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259314138?s=72&u=34f43c673a688edac035b042b250cb33803b3437&v=4",
+    "location": "Khartoum Sudan",
+    "company": "Resonance Power Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-02-04T10:36:54Z"
+  },
+  {
+    "login": "bambi2100",
+    "name": "Reem Mustafa El-bashir Dafaalla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268124683?s=72&v=4",
+    "location": "Sudan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-14T07:57:24Z"
+  },
+  {
+    "login": "daoudtajeldeinn-png",
+    "name": "Daoud Tajeldeinn Ahmed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255955092?s=72&u=5a2ae0b675761b22b4cc3154bd8701f5c31d6961&v=4",
+    "location": "sudan -khartoum",
+    "company": "Sudanese Chemical Industeis ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 788,
+    "createdAt": "2026-01-19T19:15:14Z"
+  }
+]

@@ -24106,5 +24106,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-23T01:05:58Z"
+  },
+  {
+    "login": "Lemonsandlimez",
+    "name": "Lemonsandlimez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255450160?s=72&u=61d63b98fa6e919d373ee8f032318602126a7a32&v=4",
+    "location": "U.S.A New York",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 105,
+    "createdAt": "2026-01-17T00:03:34Z"
+  },
+  {
+    "login": "MikeTheElderMillenial",
+    "name": "Mike@CanyonData",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268264211?s=72&u=b67c5bf6f06b5993d22b5978c6b6786d19787ae8&v=4",
+    "location": "Denver, Colorado, U.S.A.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-14T23:15:29Z"
+  },
+  {
+    "login": "chasebrowndev",
+    "name": "Chase Brown",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267080205?s=72&u=6636808f73afe830bd7a418dcc19d998f4b2441c&v=4",
+    "location": "Maryland, U.S.A.",
+    "company": "Harford Community College",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 108,
+    "createdAt": "2026-03-10T15:20:44Z"
+  },
+  {
+    "login": "rashonmassey",
+    "name": "Rashon A. Massey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279314871?s=72&u=901d1607643baef9fb29a84a5edd2b3f1088d37a&v=4",
+    "location": "Michigan, U.S.A.",
+    "company": "MICOPEIA LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-04-25T18:20:55Z"
   }
 ]
