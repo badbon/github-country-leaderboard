@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "login": "vincichan1089",
+    "name": "Vinci Chan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261729134?s=72&u=187c06bb5c221255a5bc5ebf426855ffe5c4bde7&v=4",
+    "location": "Hong Kong, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 11,
+    "publicContributions": 30,
+    "createdAt": "2026-02-15T09:17:49Z"
+  },
+  {
+    "login": "eculoni",
+    "name": "Evan Chen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262602981?s=72&u=04e5ae10783ecc302eaaca6761e369db7e5c92d2&v=4",
+    "location": "Hong Kong, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 66,
+    "createdAt": "2026-02-19T14:42:34Z"
+  },
+  {
+    "login": "JohnnyKong94",
+    "name": "Hongyi Jiang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276222918?s=72&v=4",
+    "location": "The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR, The People's Republic of China",
+    "company": "The Chinese University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-15T07:53:57Z"
+  },
+  {
+    "login": "bunnyera-global-admin",
+    "name": "BunnyEra-Global",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257604439?s=72&u=6d1dc41fdb635361e3359b6350b0f839986b62ce&v=4",
+    "location": "Hong Kong, China — operating globally",
+    "company": "@bunnyera-org",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2026-01-27T18:17:13Z"
+  },
+  {
+    "login": "tamyu321-source",
+    "name": "Yorke Tang (Hsu)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272126479?s=72&v=4",
+    "location": "Shanghai, China | Open to Hong Kong",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2026-03-30T06:32:29Z"
+  },
+  {
+    "login": "zeyangwuS",
+    "name": "WU Zeyang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276201350?s=72&v=4",
+    "location": "18 Tat Hong Ave Shek Kip Mei Kowloon Hong Kong SAR, China",
+    "company": "City University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-15T06:24:14Z"
+  },
+  {
+    "login": "FrancisOnthewood",
+    "name": "Haozhe Li",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272975747?s=72&u=d631307b9f80efeaa4927c420a5d70373e96ddba&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 69,
+    "createdAt": "2026-04-02T01:54:26Z"
+  }
+]

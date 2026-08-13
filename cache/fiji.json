@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "sleweniqila",
+    "name": "SBulewa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278231380?s=72&v=4",
+    "location": "Fiji",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-04-21T23:34:10Z"
+  },
+  {
+    "login": "MiausiDEV",
+    "name": "MiauDEV",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272648502?s=72&u=0c5ecda33314f73c7fa6af1ad002b2cfdb6f8c4e&v=4",
+    "location": "fiji",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-31T22:12:43Z"
+  }
+]
