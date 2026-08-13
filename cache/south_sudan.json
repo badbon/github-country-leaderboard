@@ -238,5 +238,53 @@
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2025-05-04T09:27:32Z"
+  },
+  {
+    "login": "Mayol17",
+    "name": "Isaac Arou Mayol",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238962695?s=72&u=6dc2f10f20a73870237501521053dfed27a1dcff&v=4",
+    "location": "Juba",
+    "company": "South Sudan Revenue Authority ",
+    "twitterUsername": "Aroupiok",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-10-19T08:31:25Z"
+  },
+  {
+    "login": "Tewyam2",
+    "name": "Taluga Robin Druku",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214034059?s=72&v=4",
+    "location": "Juba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2025-05-29T21:00:57Z"
+  },
+  {
+    "login": "joseph-akaro",
+    "name": "Joseph Akaro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207745250?s=72&u=2726991457c849dc7748fa2a60b1914367f15ff7&v=4",
+    "location": "Juba",
+    "company": "Turning Point Innovation Limited",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 34,
+    "publicContributions": 217,
+    "createdAt": "2025-04-15T15:54:05Z"
+  },
+  {
+    "login": "kuch-m",
+    "name": "Kuch Makuer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238436352?s=72&u=648f821fc731f70650f52f32cb923202cb00a2dc&v=4",
+    "location": "Juba - SSD",
+    "company": "South Sudan Revenue Authority",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-10-16T08:13:50Z"
   }
 ]

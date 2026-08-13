@@ -46,5 +46,53 @@
     "privateContributions": 2,
     "publicContributions": 21,
     "createdAt": "2024-10-25T18:17:24Z"
+  },
+  {
+    "login": "NMonKLabs77",
+    "name": "Nehemiah Monrose",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139259756?s=72&u=bf02da33fa4eb3fd973bed0bb0f45853be856e31&v=4",
+    "location": "Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-11T17:05:42Z"
+  },
+  {
+    "login": "granges0storage",
+    "name": "Lidia St",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151681115?s=72&u=59722472cda4c153d5d3cc56ac1c56042ae2d61b&v=4",
+    "location": "Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2023-11-21T20:32:51Z"
+  },
+  {
+    "login": "mb-felix",
+    "name": "Makeba B. Felix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137928323?s=72&v=4",
+    "location": "Saint Lucia",
+    "company": "Department of Fisheries, Saint Lucia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-27T18:19:12Z"
+  },
+  {
+    "login": "Orbtronics-Admin",
+    "name": "Orbtronics",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124385277?s=72&u=29ebd91bd9a4681a26ef1841aec9e77f1257f098&v=4",
+    "location": "Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2023-02-03T16:44:24Z"
   }
 ]
