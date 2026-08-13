@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "login": "luizfabiocode",
+    "name": "luiz fabio camargo de oliveira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268296800?s=72&u=ec73d4226e244ec00e7817867c5a415bf062625f&v=4",
+    "location": "Praia Grande, SP",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2026-03-15T04:27:40Z"
+  },
+  {
+    "login": "ramosrayanne",
+    "name": "Rayanne Ramos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279857480?s=72&u=221da635cf16b18877afde68c2745d52f53019ea&v=4",
+    "location": "Praia Grande - SP",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-04-27T22:40:36Z"
+  },
+  {
+    "login": "felipe-infosec",
+    "name": "Felipe de Jesus Andrade",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266181815?s=72&u=7362875cf930a1c5a4b6ce1c011240b029ec849f&v=4",
+    "location": "Praia Grande - SP",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-03-06T22:57:32Z"
+  },
+  {
+    "login": "antonio-marchiori-smartfit",
+    "name": "Antonio Marchiori",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265525607?s=72&u=28aa7fcafb5951dd895bf9cd9d2446be0a92d874&v=4",
+    "location": "Praia Grande - Sp",
+    "company": "Smart Fitt",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-04T12:14:14Z"
+  },
+  {
+    "login": "wendellrmessias-debug",
+    "name": "Wendell Roberto Messias da Silva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279850902?s=72&v=4",
+    "location": "Praia Grande, SP",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-04-27T21:55:49Z"
+  },
+  {
+    "login": "malluregio",
+    "name": "Mallu Régio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279149152?s=72&u=c66a9babfef0178f0ec54086a4f623ac17a9906f&v=4",
+    "location": "Praia Grande, SP",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-04-24T23:56:40Z"
+  },
+  {
+    "login": "EDX717",
+    "name": "EduTech | Web Developer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281460403?s=72&u=66942ca531d9ce11394edf67a865463c61eae49d&v=4",
+    "location": "Praia Grande - SP | BR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2026-05-03T19:53:34Z"
+  }
+]

@@ -442,5 +442,53 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2026-05-06T02:51:30Z"
+  },
+  {
+    "login": "Alex121122",
+    "name": "Alex Fabian Alvarado Sosa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273886314?s=72&u=3fd50ea2d4c8b6aac9dbb973edf5b4104541510d&v=4",
+    "location": "Quito",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-06T01:10:09Z"
+  },
+  {
+    "login": "carlodaniel-dev",
+    "name": "Carlos Daniel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261476038?s=72&u=bf59e32807c5a782ae20dfa82c10f31b587c349f&v=4",
+    "location": "Quito, Ecaudor",
+    "company": "",
+    "twitterUsername": "CalosDaniel03",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 117,
+    "createdAt": "2026-02-13T17:20:16Z"
+  },
+  {
+    "login": "mayterivass",
+    "name": "Annabella Mayte Orbea Rivas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257046034?s=72&u=fc565d9f42dbd3fb415347bdef250b767d3274c8&v=4",
+    "location": "Quito",
+    "company": "@NytroBoost",
+    "twitterUsername": "mayggvlr",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-25T02:17:35Z"
+  },
+  {
+    "login": "Bethyuri",
+    "name": "Yuri Narea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255551039?s=72&u=b74b9535bcbf510dd82e07f12be285f6616ba78d&v=4",
+    "location": "Quito",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2026-01-17T15:34:03Z"
   }
 ]

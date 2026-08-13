@@ -29566,5 +29566,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-02T23:34:47Z"
+  },
+  {
+    "login": "guiabreu-leite",
+    "name": "Guilherme de Abreu Leite",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274711385?s=72&u=629e8e290e1600306580735f25b538403ac42a95&v=4",
+    "location": "Praia Grande/SP - Brazil ",
+    "company": "GLA Tecnologias ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-09T05:04:58Z"
+  },
+  {
+    "login": "gallodev1994",
+    "name": "Christian Braz Gallo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267454733?s=72&u=c27bca4b2a3ccea87614442732cbf5c450e49d57&v=4",
+    "location": "Praia Grande | São Paulo",
+    "company": "Brazil",
+    "twitterUsername": "gallodev1994",
+    "followers": 1,
+    "privateContributions": 166,
+    "publicContributions": 55,
+    "createdAt": "2026-03-11T20:49:36Z"
   }
 ]

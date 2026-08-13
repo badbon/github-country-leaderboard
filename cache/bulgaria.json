@@ -682,5 +682,29 @@
     "privateContributions": 0,
     "publicContributions": 177,
     "createdAt": "2026-01-21T10:35:39Z"
+  },
+  {
+    "login": "BBIvanov25",
+    "name": "Borislav Ivanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261382045?s=72&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-13T08:38:19Z"
+  },
+  {
+    "login": "aristander5-bit",
+    "name": "Daniel Tsakov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252329271?s=72&u=c6d5d0c324fc432cca7abd1772c9f55bd4cdcb34&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2025-12-31T11:57:11Z"
   }
 ]
