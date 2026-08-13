@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "GiovanniGBF",
+    "name": "Giovanni Gustavo Baticã Ferreira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261033380?s=72&u=a2463034b09b692f1b1edc561b5dbaee19b17850&v=4",
+    "location": "Bissau",
+    "company": "ULG & Curso em Video",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-02-11T20:40:24Z"
+  },
+  {
+    "login": "baribucirio-cmyk",
+    "name": "Bucirio Bari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268121566?s=72&u=7bd8e0872013ee1ead31fe2ace694ea5f95e9260&v=4",
+    "location": "Guiné-Bissau",
+    "company": "Estudante",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 56,
+    "createdAt": "2026-03-14T07:36:09Z"
+  }
+]

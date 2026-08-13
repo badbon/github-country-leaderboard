@@ -10,5 +10,29 @@
     "privateContributions": 12,
     "publicContributions": 15,
     "createdAt": "2026-02-03T19:19:12Z"
+  },
+  {
+    "login": "seyken971",
+    "name": "Andy Zébus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193757745?s=72&u=7c27bfb4d7d22f6b67df45645f12513c12674aac&v=4",
+    "location": "Guadeloupe",
+    "company": "PXLC",
+    "twitterUsername": "seyken971",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 530,
+    "createdAt": "2025-01-05T01:26:26Z"
+  },
+  {
+    "login": "Lilian-IncTys",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202429231?s=72&v=4",
+    "location": "Guadeloupe",
+    "company": "Inc'Tys",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-03-08T15:32:49Z"
   }
 ]
