@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "login": "OpenCow42",
+    "name": "Stitch",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281361926?s=72&u=37ab1aacc541663f30a15a24ec7e3b9e0602f771&v=4",
+    "location": "Schweiz",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1153,
+    "createdAt": "2026-05-03T10:55:47Z"
+  },
+  {
+    "login": "christianmueller-com",
+    "name": "Chris Mueller",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282206985?s=72&u=5fc69d06af544c10bfaeca4de62fffbec8c68ca3&v=4",
+    "location": "Schweiz",
+    "company": "Comarch Swiss AG",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-06T09:47:18Z"
+  },
+  {
+    "login": "neubergerjakob52-creator",
+    "name": "Jakob Neuberger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273643414?s=72&u=656acd9f332c3ffd5acb7e94c17f8a42db13fc8b&v=4",
+    "location": "Schweiz",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-04T21:42:35Z"
+  },
+  {
+    "login": "Audio-Jo",
+    "name": "Josh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271829015?s=72&v=4",
+    "location": "Schweiz",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-28T19:15:01Z"
+  },
+  {
+    "login": "hotiegzon",
+    "name": "Egzon Hoti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253527566?s=72&v=4",
+    "location": "Schweiz",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-07T15:03:56Z"
+  }
+]

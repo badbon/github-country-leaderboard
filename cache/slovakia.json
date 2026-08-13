@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "krol-xd",
+    "name": "Savvatiy Zakrevskiy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259935010?s=72&u=49f935bd7dc0721fb384c9f80561e0928b561c80&v=4",
+    "location": "Bratislava, Slovak Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-02-06T18:33:21Z"
+  },
+  {
+    "login": "Femorin",
+    "name": "Fug_Fug",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266524747?s=72&u=eaf716adcdc14e38e52e068fa5e7021541d551f1&v=4",
+    "location": "Slovakia, Košice {Ukraine, Kiyv}",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2026-03-08T15:50:42Z"
+  }
+]

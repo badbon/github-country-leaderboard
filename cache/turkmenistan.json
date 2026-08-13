@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "login": "fuff130",
+    "name": "fuff130",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278602177?s=72&u=8d96478f6833a701d2a43974d24f32b60548bc37&v=4",
+    "location": "Turkmenistan",
+    "company": "KIDRA inc",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-23T06:13:39Z"
+  },
+  {
+    "login": "ybrayymgurbanow884-droid",
+    "name": "Ruling ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254149204?s=72&u=f083fb99da95b890ca4d1b25344896584756ca9d&v=4",
+    "location": "Turkmenistan ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-01-10T17:25:24Z"
+  },
+  {
+    "login": "suncudo",
+    "name": "Alex Mirz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274212431?s=72&u=1d46b594c85fc88645c8b087131b318a4bf71060&v=4",
+    "location": "Turkmenistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 61,
+    "createdAt": "2026-04-07T08:39:41Z"
+  },
+  {
+    "login": "menzil-orazdurdyyew",
+    "name": "Menzil Orazdurdyyew",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261427080?s=72&u=ff532794b5ad1e542b2c214eab501dbce8bdd930&v=4",
+    "location": "Ashgabat, Turkmenistan",
+    "company": "Freelance AI-Native Developer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2026-02-13T13:07:01Z"
+  },
+  {
+    "login": "hudayberdipolat",
+    "name": "Hudayberdi Polatov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271808974?s=72&u=37fa08b3de5fdad1c5b4d6cc8fac9bb3004a0b0b&v=4",
+    "location": "Turkmenistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-03-28T17:11:13Z"
+  }
+]
