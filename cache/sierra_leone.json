@@ -322,5 +322,41 @@
     "privateContributions": 70,
     "publicContributions": 40,
     "createdAt": "2025-01-16T12:19:42Z"
+  },
+  {
+    "login": "abdulaibahh",
+    "name": "Abdulai Bah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/239658996?s=72&u=fd39fe1f4de8018b23b1efdff21d930728a19d3f&v=4",
+    "location": "Freetown",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2025-10-22T19:12:27Z"
+  },
+  {
+    "login": "rainbowsolar",
+    "name": "Aram Lang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203371606?s=72&v=4",
+    "location": "Freetown",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-03-15T00:49:44Z"
+  },
+  {
+    "login": "abdulbannister",
+    "name": "Abdul Bannister Fatorma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195641089?s=72&u=e7a404f9963bcc0240b091a509ef3917987be681&v=4",
+    "location": "12 BEACH ROAD, LUMLEY FREETOWN",
+    "company": "ABDULTECH INNOVATIONS (SL) LIMITED",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-01-19T10:29:54Z"
   }
 ]

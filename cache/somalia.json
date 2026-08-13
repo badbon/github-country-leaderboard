@@ -226,5 +226,89 @@
     "privateContributions": 0,
     "publicContributions": 48,
     "createdAt": "2026-03-07T13:16:58Z"
+  },
+  {
+    "login": "siiv-group",
+    "name": "siiv group company",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270614480?s=72&u=7ddaf9a36860870a61d5fee6b42f6cdc72834340&v=4",
+    "location": "mogadishu",
+    "company": "technology company",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-24T10:00:20Z"
+  },
+  {
+    "login": "abdiasiismcdev",
+    "name": "Abdiasiis Mohamed Abdirahman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282492599?s=72&u=589aa33f08c6a5064ccd1b66070af40c8637070e&v=4",
+    "location": "Mogadishu",
+    "company": "Datasom",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-07T07:13:40Z"
+  },
+  {
+    "login": "Apdi-shakuur",
+    "name": "Apdi shakuur ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281200651?s=72&u=0ae5407ae64db0c31120a629648a13b1c8cbb2a8&v=4",
+    "location": "mogadishu",
+    "company": "personal",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-05-02T15:11:30Z"
+  },
+  {
+    "login": "engrashka88-source",
+    "name": "engr rashka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283564214?s=72&v=4",
+    "location": "MOGADISHU",
+    "company": "ASAL SIGN",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2026-05-11T06:28:10Z"
+  },
+  {
+    "login": "axmed12-sudo",
+    "name": "AHMEDD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264169772?s=72&u=a40d9c2e2b14a4caf240b9dfd9d7c79e9cb010c4&v=4",
+    "location": "MOGADISHU",
+    "company": "HORMUUD",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 52,
+    "publicContributions": 2,
+    "createdAt": "2026-02-26T13:15:28Z"
+  },
+  {
+    "login": "aliomiye-ux",
+    "name": "Eng ali omiye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255693337?s=72&v=4",
+    "location": "Mogadishu ",
+    "company": "Zaman skills and freelancer hub ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-01-18T14:00:49Z"
+  },
+  {
+    "login": "sayidlibaax",
+    "name": "Sayid ALi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268742215?s=72&u=48bcd78c7bdfb84b93c6989c5c1576d758428914&v=4",
+    "location": "Somali Mogadishu ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2,
+    "publicContributions": 25,
+    "createdAt": "2026-03-16T21:55:47Z"
   }
 ]

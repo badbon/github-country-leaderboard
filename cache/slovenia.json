@@ -34,5 +34,53 @@
     "privateContributions": 0,
     "publicContributions": 168,
     "createdAt": "2026-02-17T20:37:08Z"
+  },
+  {
+    "login": "jer-neja",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273106489?s=72&v=4",
+    "location": "Ljubljana",
+    "company": "Jozef Stefan Institute",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-04-02T12:53:02Z"
+  },
+  {
+    "login": "aljazlavrisa",
+    "name": "Aljaž Lavriša",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274304820?s=72&v=4",
+    "location": "Ljubljana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-07T18:41:01Z"
+  },
+  {
+    "login": "mirjanadelic",
+    "name": "Zdravljenje, svetovanje in izobraževanje, Mirjana Delić s.p.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276714832?s=72&v=4",
+    "location": "Ljubljana",
+    "company": "Zdravljenje, svetovanje in izobraževanje, Mirjana Delić s.p.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-04-16T19:50:35Z"
+  },
+  {
+    "login": "gasperrus-a11y",
+    "name": "dopaminehero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275453371?s=72&u=cbf9f59bc7b32d75f0b3190131a829b783612e7f&v=4",
+    "location": "Ljubljana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-04-12T10:26:04Z"
   }
 ]

@@ -5338,5 +5338,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-06T13:15:42Z"
+  },
+  {
+    "login": "Lucas-Mesa-Casellas",
+    "name": "Lucas Mesa Casellas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246054014?s=72&u=5b3dc65da0f4d16baa9c6311bf04072ce4149af9&v=4",
+    "location": "France/UK/Spain/Qatar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 136,
+    "publicContributions": 231,
+    "createdAt": "2025-11-25T09:54:36Z"
+  },
+  {
+    "login": "dev-i2n-france",
+    "name": "I2N",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217753404?s=72&u=94237bb528257f5d127455ea0f48571d4274062e&v=4",
+    "location": "Saint-Pierre-Quiberon, Bretagne, France",
+    "company": "@i2n-france",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-06-24T11:46:14Z"
   }
 ]

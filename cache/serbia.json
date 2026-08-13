@@ -91,7 +91,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 299,
+    "privateContributions": 300,
     "publicContributions": 58,
     "createdAt": "2026-04-10T14:58:33Z"
   },
@@ -370,5 +370,89 @@
     "privateContributions": 0,
     "publicContributions": 250,
     "createdAt": "2026-02-01T16:36:30Z"
+  },
+  {
+    "login": "danilotools",
+    "name": "Danilo Hinic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266477615?s=72&u=d65d703187e2433886c776108310ea3e09df273d&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-03-08T11:04:36Z"
+  },
+  {
+    "login": "Ognjen-T",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252164440?s=72&u=6507c6947813b38703bc0f9c38bccd9402d91588&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2025-12-30T11:00:27Z"
+  },
+  {
+    "login": "diceteachbeograd-Team",
+    "name": "DiceTeachTeam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265615478?s=72&u=7b45061ea7a53c2e2032f3839ecc63c5c43de319&v=4",
+    "location": "Belgrade",
+    "company": "Diceteach",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 128,
+    "createdAt": "2026-03-04T18:12:16Z"
+  },
+  {
+    "login": "miticc31",
+    "name": "Marko Mitić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253069540?s=72&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2026-01-05T13:19:20Z"
+  },
+  {
+    "login": "jugofuturizam",
+    "name": "Nikola",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255605989?s=72&u=85c915b980647179b350caf206b15398725220b3&v=4",
+    "location": "Belgrade",
+    "company": "rebra studio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-18T00:02:15Z"
+  },
+  {
+    "login": "kostaraj",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282979156?s=72&u=fd073f3664f42bfb045a38b82c336ce3d41d604c&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-05-08T18:20:49Z"
+  },
+  {
+    "login": "kgrujcic-tt",
+    "name": "Kosta Grujcic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258820532?s=72&u=3aa651084d8629a6174dca70ddac74673feb53c1&v=4",
+    "location": "Belgrade",
+    "company": "Tenstorrent",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 185,
+    "createdAt": "2026-02-02T12:32:04Z"
   }
 ]
