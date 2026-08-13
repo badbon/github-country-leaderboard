@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "login": "Chmod666music",
+    "name": "Chmod 666",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253575702?s=72&u=1adc9ba9af88c1bcd50b573bdd6a2673a2cd6f83&v=4",
+    "location": "Danmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-01-07T19:24:58Z"
+  },
+  {
+    "login": "Morrizi",
+    "name": "Ismail Iqbal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258852842?s=72&u=60b4513cef9de1cd0884001a2ecdd6e82b665bcf&v=4",
+    "location": "Danmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-02-02T14:53:44Z"
+  },
+  {
+    "login": "BennyJazz",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263245410?s=72&v=4",
+    "location": "Danmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-02-22T22:50:31Z"
+  },
+  {
+    "login": "njna88",
+    "name": "! 𝒩.𝒿",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252254764?s=72&u=09b29f44e462e50b73eb414d07553aacf26874fb&v=4",
+    "location": "Danmark",
+    "company": "ScriptCore | Denmark ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2025-12-30T23:51:49Z"
+  }
+]

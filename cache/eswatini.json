@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "benele-m",
+    "name": "Benele Mamba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259622962?s=72&u=f8e99b143c7b4ef2ab56b175deff9f8d22153dcb&v=4",
+    "location": "Eswatini,",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2026-02-05T15:57:41Z"
+  },
+  {
+    "login": "samkelogwebu1569-hub",
+    "name": "Gemini Mbhele",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255335737?s=72&u=84cd4fdc5f5dd66dbd9999aa03e27e6c739d5119&v=4",
+    "location": "Eswatini, Mbabane",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2026-01-16T11:16:37Z"
+  }
+]

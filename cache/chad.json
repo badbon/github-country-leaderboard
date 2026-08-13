@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "login": "ticcyberchad",
+    "name": "TIC&CYBER CHAD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259951445?s=72&u=88f1c5c4a5cb951c7d9d4f8917e561e9836e07d2&v=4",
+    "location": "Chad",
+    "company": "",
+    "twitterUsername": "CyberTchad",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-02-06T20:23:08Z"
+  },
+  {
+    "login": "Nankler",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270569691?s=72&v=4",
+    "location": "Chad",
+    "company": "Gaz",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-03-24T07:05:36Z"
+  },
+  {
+    "login": "mkadembabarde-source",
+    "name": "Kademba Mahamat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282179093?s=72&v=4",
+    "location": "n'djamena chad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-06T08:00:00Z"
+  }
+]

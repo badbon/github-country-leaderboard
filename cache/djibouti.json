@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "rahimamem03-debug",
+    "name": "Rahima Moussoulouhou Eddine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/251786027?s=72&u=a929dbeb5d87b08153b8bb08479695300e567026&v=4",
+    "location": "Djibouti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2025-12-27T21:48:16Z"
+  },
+  {
+    "login": "abdowi1290-a11y",
+    "name": "Abdo Idris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253414802?s=72&u=e41457647b37f2c14243b77d55a3dd3921a63b72&v=4",
+    "location": "Djibouti",
+    "company": "@AIdrisz",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-07T03:44:32Z"
+  }
+]
