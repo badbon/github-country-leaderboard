@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "TechNerdSam",
+    "name": "Samyn-Antoy ABASSE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127604727?s=72&u=bb8954c47c3dc310853b71ab6f3b2ad1afb9b469&v=4",
+    "location": "mayotte",
+    "company": "Samyn-Antoy Pro Entreprise",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 391,
+    "createdAt": "2023-03-11T13:03:31Z"
+  },
+  {
+    "login": "podicarl",
+    "name": "student SAYNA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141029049?s=72&u=daaafb39e5a05f435dfc074548c430dce9e7f4e1&v=4",
+    "location": "mayotte",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-31T11:00:44Z"
+  }
+]

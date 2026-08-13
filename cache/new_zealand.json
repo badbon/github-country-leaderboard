@@ -7582,5 +7582,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-15T22:43:59Z"
+  },
+  {
+    "login": "ciaaic",
+    "name": "Alicia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143462600?s=72&u=97419a0e015bed1ea9c92bb510f6d1ed93f07e48&v=4",
+    "location": "Aotearoa, New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-29T00:06:48Z"
+  },
+  {
+    "login": "SimulCat",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135824780?s=72&u=7730230a89b55027d78e7e666dfd374b706e573d&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-07T09:55:01Z"
+  },
+  {
+    "login": "kiwijc",
+    "name": "Mina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146684272?s=72&u=c362c841b9ac3a8fcf6c60fbe8cfa60a9c16a879&v=4",
+    "location": "Urenui, Taranaki, Aotearoa",
+    "company": "The Company",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-10-02T01:06:39Z"
   }
 ]

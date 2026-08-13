@@ -418,5 +418,41 @@
     "privateContributions": 543,
     "publicContributions": 7,
     "createdAt": "2024-07-10T13:05:32Z"
+  },
+  {
+    "login": "AurelienPREVOST",
+    "name": "PREVOST Aurelien",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102169301?s=72&u=24f84436b103d78eaf71272dcff9d96dad4e488c&v=4",
+    "location": "Saint-Denis (93)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 43,
+    "publicContributions": 2,
+    "createdAt": "2022-03-22T15:00:07Z"
+  },
+  {
+    "login": "Meh10t",
+    "name": "Mehdi Ait kajaoud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102723977?s=72&v=4",
+    "location": "Saint-Denis, 93200",
+    "company": "",
+    "twitterUsername": "Meh10_akjd",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2022-03-31T07:56:34Z"
+  },
+  {
+    "login": "oshio10",
+    "name": "Patrick Chen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99191550?s=72&u=afb54af21141cced92765120a2121e57d7b23723&v=4",
+    "location": "Saint-Denis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-07T13:49:44Z"
   }
 ]

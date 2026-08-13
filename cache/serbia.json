@@ -3022,5 +3022,29 @@
     "privateContributions": 0,
     "publicContributions": 74,
     "createdAt": "2025-04-13T13:15:51Z"
+  },
+  {
+    "login": "GrujicFilipRS",
+    "name": "Filip Grujic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166260749?s=72&u=6ac462dbf4966c8e7df07473dc15b4d90827105a&v=4",
+    "location": "Novi Sad, Republic of Serbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 265,
+    "publicContributions": 959,
+    "createdAt": "2024-04-06T22:45:54Z"
+  },
+  {
+    "login": "miliczivojin",
+    "name": "Živojin Milić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175630480?s=72&u=e7b3a203a1b68b113542db307cb21ee187d561bd&v=4",
+    "location": "Nish, Republic of Serbia",
+    "company": "Faculty of Organizational Sciences",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2024-07-15T15:08:54Z"
   }
 ]

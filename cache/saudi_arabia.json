@@ -2923,7 +2923,7 @@
     "company": "SKAWR",
     "twitterUsername": "abdulrahmanhmb",
     "followers": 2,
-    "privateContributions": 92,
+    "privateContributions": 93,
     "publicContributions": 59,
     "createdAt": "2025-06-04T23:43:04Z"
   },
@@ -3055,7 +3055,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 286,
+    "privateContributions": 292,
     "publicContributions": 259,
     "createdAt": "2025-10-30T00:42:45Z"
   },
@@ -3151,7 +3151,7 @@
     "company": "Helix AI",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 671,
+    "privateContributions": 680,
     "publicContributions": 1,
     "createdAt": "2025-11-16T14:11:54Z"
   },
@@ -3583,7 +3583,7 @@
     "company": "Astrolabs | ProductBox",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3617,
+    "privateContributions": 3622,
     "publicContributions": 0,
     "createdAt": "2025-03-10T06:13:10Z"
   },
@@ -5386,5 +5386,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-21T08:16:16Z"
+  },
+  {
+    "login": "encode-ksa",
+    "name": "Encode Company",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200911026?s=72&u=8acce5baa8398e2a134e4d261f26fd2881842b92&v=4",
+    "location": "Riyadh, Saudi Arabia",
+    "company": "Encode Company",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-02-26T08:24:33Z"
+  },
+  {
+    "login": "Usama-Jazalla",
+    "name": "Usama",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/244534647?s=72&u=401685852a0ec28729c8144cd53f6afd93d6d82e&v=4",
+    "location": "Saudi Arabia",
+    "company": "Jazalla - Tamara Group",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 303,
+    "publicContributions": 1,
+    "createdAt": "2025-11-17T14:33:25Z"
+  },
+  {
+    "login": "Ralharbi87",
+    "name": "Raed Ali Alharbi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217124194?s=72&u=5c64dc30b8ccd170778b1034be9b06762cc5a858&v=4",
+    "location": "Riyadh, Saudi `Arabia ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-06-19T22:58:32Z"
   }
 ]

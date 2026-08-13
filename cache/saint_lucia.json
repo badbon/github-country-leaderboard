@@ -190,5 +190,53 @@
     "privateContributions": 15,
     "publicContributions": 1,
     "createdAt": "2020-04-14T13:50:30Z"
+  },
+  {
+    "login": "swelanauguste",
+    "name": "Swelan R. Auguste",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51264116?s=72&u=553fe6dd18d821933f7978407663940f33307364&v=4",
+    "location": "Saint Lucia",
+    "company": "kingship",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2019-06-01T12:16:54Z"
+  },
+  {
+    "login": "antonio-agiste",
+    "name": "Antonio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52939837?s=72&u=fdbb75a8463dabfaddddea985521396e13ca5020&v=4",
+    "location": "Saint Lucia",
+    "company": "",
+    "twitterUsername": "bxnes_97",
+    "followers": 4,
+    "privateContributions": 114,
+    "publicContributions": 0,
+    "createdAt": "2019-07-15T23:26:41Z"
+  },
+  {
+    "login": "xavier-1-tech",
+    "name": "Xavier Henry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53019832?s=72&u=4dc1393d35ccd9340fb7236880fbde49b63a6e01&v=4",
+    "location": "Saint Lucia",
+    "company": "eMagine Solutions Inc.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2019-07-17T20:01:10Z"
+  },
+  {
+    "login": "Sjnfrancois",
+    "name": "Sigidi Jn Francois",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52932247?s=72&v=4",
+    "location": "Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-15T18:02:02Z"
   }
 ]

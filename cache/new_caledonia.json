@@ -442,5 +442,89 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2020-03-23T22:34:40Z"
+  },
+  {
+    "login": "soanakolokimoana",
+    "name": "soanakolokimoana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48263792?s=72&u=e0b6a63c2d8e8a5990ec8e8ce6e108b9aa545366&v=4",
+    "location": "New-Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-05T23:10:17Z"
+  },
+  {
+    "login": "kyuhank",
+    "name": "Kyuhan Kim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51262923?s=72&u=c6809b5dd2723b9b6bfbf224eb348be30a272957&v=4",
+    "location": "Noumea, New Caledonia",
+    "company": "SPC",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 2081,
+    "publicContributions": 2577,
+    "createdAt": "2019-06-01T11:17:10Z"
+  },
+  {
+    "login": "gchenu",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49132922?s=72&u=8f0f94b02fcc81224bd7bb21058cc031b0adcaa6&v=4",
+    "location": "New-Caledonia",
+    "company": "CODEWAVE SARL",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2019-03-31T23:58:30Z"
+  },
+  {
+    "login": "LudovicTronel",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55167657?s=72&u=f4891833029ba6726e96d2145bc9e9162a403c8a&v=4",
+    "location": "New Caledonia",
+    "company": "University of New Caledonia",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-11T00:36:03Z"
+  },
+  {
+    "login": "marcgspc",
+    "name": "Marc Ghergariu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48195387?s=72&u=e8044850b79d73103063ca9ecdf42e6d19e7d7d5&v=4",
+    "location": "Nouméa, New Caledonia",
+    "company": "@PacificCommunity",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2019-03-04T03:53:14Z"
+  },
+  {
+    "login": "SolvedNC",
+    "name": "Solved",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47328611?s=72&u=251e5e2f8765059f988729eae29e8080f562c051&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-04T16:07:28Z"
+  },
+  {
+    "login": "arianeBC",
+    "name": "Ariane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58924736?s=72&u=01c4a5d3b8527ee15bd60b6b86cf6b0718b44a7e&v=4",
+    "location": "New-Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-16T03:01:15Z"
   }
 ]

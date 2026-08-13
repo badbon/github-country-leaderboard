@@ -823,7 +823,7 @@
     "company": "amberpixels.io",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1694,
+    "privateContributions": 1705,
     "publicContributions": 727,
     "createdAt": "2024-02-27T13:13:05Z"
   },
@@ -1546,5 +1546,17 @@
     "privateContributions": 3851,
     "publicContributions": 1,
     "createdAt": "2024-02-20T13:59:08Z"
+  },
+  {
+    "login": "stanislav-ciobanu",
+    "name": "Ciobanu Stanislav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173714755?s=72&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 231,
+    "createdAt": "2024-06-24T16:25:46Z"
   }
 ]

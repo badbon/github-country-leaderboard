@@ -13870,5 +13870,53 @@
     "privateContributions": 0,
     "publicContributions": 100,
     "createdAt": "2024-02-19T02:01:57Z"
+  },
+  {
+    "login": "dabaizuihei",
+    "name": "大白最黑",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47694119?s=72&u=701ebd0472868905d5cc163a8deced0988e56000&v=4",
+    "location": "Hohhot, Inner Mongolia, China",
+    "company": "Qiushi_Studio",
+    "twitterUsername": "dabaizuihei",
+    "followers": 11,
+    "privateContributions": 3,
+    "publicContributions": 9,
+    "createdAt": "2019-02-16T14:54:37Z"
+  },
+  {
+    "login": "wbChang233",
+    "name": "wenbo Chang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53245630?s=72&u=b02c4bcadc174bc09fc77d3c081eecba4b991533&v=4",
+    "location": "No. 235 West University StreetSaihan District, HohhotInner Mongolia Autonomous Region, China",
+    "company": "Inner Mongolia university",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-24T02:54:02Z"
+  },
+  {
+    "login": "IMUJason",
+    "name": "Jinxin Cao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49358241?s=72&v=4",
+    "location": "Hohhot, Inner Mongolia, China",
+    "company": "Transportation Institute of Inner Mongolia University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 66,
+    "createdAt": "2019-04-07T05:49:02Z"
+  },
+  {
+    "login": "DaleSongCN",
+    "name": "Dale Song",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58251187?s=72&u=575d3704edaac9274501f2341e03042688a7ba3d&v=4",
+    "location": "Hohhot,Inner Mongolia,China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-27T08:35:25Z"
   }
 ]

@@ -10234,5 +10234,89 @@
     "privateContributions": 71,
     "publicContributions": 4,
     "createdAt": "2019-02-02T03:01:35Z"
+  },
+  {
+    "login": "Munroe-Parlee",
+    "name": "F. Munroe Parlee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182711937?s=72&u=2a50f92870bd5668dc86974f5c0572982adb9f29&v=4",
+    "location": "University of Victoria, Victoria, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2024-09-25T01:28:29Z"
+  },
+  {
+    "login": "Fabricio-ESP",
+    "name": "Fabricio Ribeiro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179241841?s=72&u=51cc20aed0771ae2fb06125f646fc5798c35cc6f&v=4",
+    "location": "Victoria, Canada",
+    "company": "@Espressif",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 180,
+    "createdAt": "2024-08-23T14:54:37Z"
+  },
+  {
+    "login": "t-devansh",
+    "name": "Devansh Tandon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186077081?s=72&u=ebdb3889d8f748404ccf83ba509e12b3a15a9fcf&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 148,
+    "publicContributions": 213,
+    "createdAt": "2024-10-23T16:17:46Z"
+  },
+  {
+    "login": "ONC-KWright",
+    "name": "Keegan Wright",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179886109?s=72&u=fda137f88f4f3d1ee80becde443b53aeae039b6f&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "Ocean Networks Canada",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2024-08-29T23:17:39Z"
+  },
+  {
+    "login": "dylanpugh1",
+    "name": "Dylan Pugh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181492930?s=72&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-09-13T14:36:16Z"
+  },
+  {
+    "login": "truefoxaiinc",
+    "name": "Truefox AI Inc.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190226669?s=72&u=9f5b33709cf2236f67ab5221cf98f15c310c65b8&v=4",
+    "location": "72 Victoria St S, Kitchener, ON N2G 4Y9, Canada",
+    "company": "Truefox AI Inc",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2024-11-30T22:32:08Z"
+  },
+  {
+    "login": "ThomasRoyProjects",
+    "name": "Thomas Roy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171293353?s=72&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 332,
+    "publicContributions": 53,
+    "createdAt": "2024-05-30T21:25:54Z"
   }
 ]

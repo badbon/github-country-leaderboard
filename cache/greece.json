@@ -5890,5 +5890,29 @@
     "privateContributions": 15,
     "publicContributions": 4,
     "createdAt": "2024-04-23T03:27:36Z"
+  },
+  {
+    "login": "Giachasidis",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157753309?s=72&u=e81a9bf07b28f1aac62e2a885555c8aa5a9cc706&v=4",
+    "location": "Macedonia, Greece",
+    "company": "Freelance Developer",
+    "twitterUsername": "",
+    "followers": 564,
+    "privateContributions": 206,
+    "publicContributions": 438,
+    "createdAt": "2024-01-25T20:48:43Z"
+  },
+  {
+    "login": "ImZaharias",
+    "name": "Zacharias Polytseris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160525279?s=72&u=b71d03d54f2aa60096ea060faac863f832c6a7d2&v=4",
+    "location": "Thessaloniki, Central Macedonia, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 88,
+    "createdAt": "2024-02-19T16:54:48Z"
   }
 ]

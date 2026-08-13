@@ -7462,5 +7462,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-12T10:05:05Z"
+  },
+  {
+    "login": "Hezaerd",
+    "name": "Hezaerd",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56612709?s=72&u=d7eecf3d740375b3a2ec610c7cc1e1573e83c1ad&v=4",
+    "location": "Martinique, France",
+    "company": "",
+    "twitterUsername": "Hezaerd2",
+    "followers": 15,
+    "privateContributions": 679,
+    "publicContributions": 473,
+    "createdAt": "2019-10-15T22:33:41Z"
+  },
+  {
+    "login": "Isekku",
+    "name": "Sekou Cissé",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98271671?s=72&u=ca825df3a62e76c8f5a1bef467c770409291edad&v=4",
+    "location": "La Plaine Saint-Denis, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2022-01-23T15:09:53Z"
+  },
+  {
+    "login": "robin6717",
+    "name": "Robin van Steenbergen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97845123?s=72&u=7b367b2d414451733bdae078c74087fe911fcb64&v=4",
+    "location": "Saint-Denis, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-16T16:44:56Z"
   }
 ]

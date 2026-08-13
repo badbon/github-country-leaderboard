@@ -10558,5 +10558,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-15T02:34:00Z"
+  },
+  {
+    "login": "Azmodan506",
+    "name": "Gustavo Gajardo Hurtado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162853137?s=72&u=11c7dd6a2b39fcaa6200c0e4e58b1cebcc9abfa3&v=4",
+    "location": "santa victoria 492 / santiago de chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2024-03-10T02:40:02Z"
+  },
+  {
+    "login": "m4c4c0-spec",
+    "name": "M4c4c0",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184534743?s=72&u=c7bf64820c004abc11ef4edfdee620570e7deaf0&v=4",
+    "location": "Victoria,Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 308,
+    "createdAt": "2024-10-10T15:19:33Z"
   }
 ]
