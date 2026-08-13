@@ -1210,5 +1210,53 @@
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2024-08-29T23:35:34Z"
+  },
+  {
+    "login": "TrumanHernan",
+    "name": "Truman Castañeda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164467016?s=72&u=cd219e7857e1ad7cf5113096fd8ecd0d70fd8810&v=4",
+    "location": "Tegucigalpa",
+    "company": "UTH",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2024-03-22T06:04:54Z"
+  },
+  {
+    "login": "LudwigRoderich",
+    "name": "Luis F. Rodríguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185240936?s=72&u=e4fa4c0ad994c2b3e49b7b20917f821757fe1ae7&v=4",
+    "location": "Tegucigalpa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 78,
+    "createdAt": "2024-10-16T16:13:03Z"
+  },
+  {
+    "login": "flyght7-admin",
+    "name": "FLYGHT7_admin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179421272?s=72&u=0008236ee6cf3950a01c45130e820d10e0e0aed1&v=4",
+    "location": "Tegucigalpa",
+    "company": "",
+    "twitterUsername": "_flyght7",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 80,
+    "createdAt": "2024-08-26T01:32:20Z"
+  },
+  {
+    "login": "lazarohernan",
+    "name": "Hernan Lazaro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190768620?s=72&u=6a6fca26bf886804a1943212c0338a1bcf1d2e0a&v=4",
+    "location": "Tegucigalpa, Hn",
+    "company": "uphn.net",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 167,
+    "createdAt": "2024-12-05T18:27:25Z"
   }
 ]

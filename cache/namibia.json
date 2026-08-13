@@ -463,7 +463,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 819,
+    "privateContributions": 827,
     "publicContributions": 478,
     "createdAt": "2024-08-11T05:44:04Z"
   },
@@ -475,7 +475,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 256,
+    "privateContributions": 258,
     "publicContributions": 146,
     "createdAt": "2024-05-04T09:43:35Z"
   },
@@ -898,5 +898,41 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2024-09-11T16:13:11Z"
+  },
+  {
+    "login": "ChitaPaulinus",
+    "name": "Iyaloo Shalumbu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163024198?s=72&v=4",
+    "location": "Windhoek",
+    "company": "City of Windhoek",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 54,
+    "publicContributions": 0,
+    "createdAt": "2024-03-11T16:20:07Z"
+  },
+  {
+    "login": "vanniekerkcf",
+    "name": "Mielie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177086797?s=72&v=4",
+    "location": "Windhoek`",
+    "company": "Tephcor",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2024-07-31T04:06:37Z"
+  },
+  {
+    "login": "Meisie123",
+    "name": "Emilia ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180255389?s=72&v=4",
+    "location": "Windhoek ",
+    "company": "Virtua Technologies ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-09-03T06:06:21Z"
   }
 ]

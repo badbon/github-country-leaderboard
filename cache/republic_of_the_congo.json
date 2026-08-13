@@ -523,7 +523,7 @@
     "company": "AKIENI ACADEMY",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 177,
+    "privateContributions": 180,
     "publicContributions": 164,
     "createdAt": "2024-03-05T11:32:49Z"
   },
@@ -656,7 +656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 6,
     "createdAt": "2024-03-18T11:13:36Z"
   },
   {
@@ -694,5 +694,89 @@
     "privateContributions": 0,
     "publicContributions": 48,
     "createdAt": "2024-10-29T15:32:13Z"
+  },
+  {
+    "login": "RodrigueNzomo",
+    "name": "Rodrigue Nzogang Nzomo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167127456?s=72&u=546ad1864ec249c7a926a173f6109a2f1dd75b1d&v=4",
+    "location": "Brazzaville",
+    "company": "TMR COMPUTING CONGO SARL",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-15T18:23:49Z"
+  },
+  {
+    "login": "Flammeduciel",
+    "name": "Flamme Du Ciel WASS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187904627?s=72&u=ad3d78e5477eae6cf160cbb4338eb932393a0d0f&v=4",
+    "location": "Brazzaville CG",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 170,
+    "publicContributions": 139,
+    "createdAt": "2024-11-09T21:07:03Z"
+  },
+  {
+    "login": "liephee266",
+    "name": "Orphée Lié",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179157419?s=72&u=4b9e33a13addcb7428914d1127cf13dcb2b81cf0&v=4",
+    "location": "Brazzaville",
+    "company": "Elikia",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 34,
+    "publicContributions": 38,
+    "createdAt": "2024-08-22T17:00:55Z"
+  },
+  {
+    "login": "Devopsawsapi",
+    "name": "Basile Marius NGASSAKI ZONI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157269031?s=72&v=4",
+    "location": "Brazzaville",
+    "company": "Congopay",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 156,
+    "createdAt": "2024-01-21T05:56:38Z"
+  },
+  {
+    "login": "Aldy150",
+    "name": "Tiif",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177774011?s=72&u=e546a70fe3f16e6309ef1bf48e70f8d1b437d3f3&v=4",
+    "location": "Brazzaville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 83,
+    "publicContributions": 71,
+    "createdAt": "2024-08-07T17:22:55Z"
+  },
+  {
+    "login": "KTgDeveloperTech",
+    "name": "golvic KOUKOUTHA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159452845?s=72&u=86b2f9cb59d6b7b3716b5570f6ba5a2eb4b710fa&v=4",
+    "location": "Brazzaville",
+    "company": "KTG Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-08T14:05:19Z"
+  },
+  {
+    "login": "Ackacia",
+    "name": "Flo.305",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170794897?s=72&u=092acbbe0cd4a20c390d19e3978a1fcec2acbbac&v=4",
+    "location": "Brazzaville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-25T08:16:51Z"
   }
 ]

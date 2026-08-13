@@ -451,7 +451,7 @@
     "company": "LoneScore",
     "twitterUsername": "daddys_boy_21",
     "followers": 6,
-    "privateContributions": 564,
+    "privateContributions": 569,
     "publicContributions": 60,
     "createdAt": "2023-01-18T18:15:24Z"
   },
@@ -610,5 +610,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-09-26T12:34:02Z"
+  },
+  {
+    "login": "amaramtrawally",
+    "name": "Amara M. Trawally",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130110332?s=72&u=f87b36ea4aa2555b09ea281e73a61d39b3f6b7fa&v=4",
+    "location": "Monrovia",
+    "company": "iBenz INC",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-06T23:19:08Z"
+  },
+  {
+    "login": "dereckdemesa",
+    "name": "Dereck De Mesa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148739753?s=72&u=702b7721cac672a9e9ba20e8f3e641ee1e95fa81&v=4",
+    "location": "Monrovia, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-23T04:19:13Z"
+  },
+  {
+    "login": "kawalaseania",
+    "name": "Tarnue Pythagoras Borbor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135295748?s=72&u=4bff563d78aabe2e8100951137d09b240b7bc819&v=4",
+    "location": "Monrovia, RL",
+    "company": "diverseTec",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-02T03:04:13Z"
   }
 ]

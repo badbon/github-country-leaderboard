@@ -610,5 +610,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-08-28T20:30:17Z"
+  },
+  {
+    "login": "yuduo-hue",
+    "name": "Yuduo Liu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/220884511?s=72&u=0fef1093c4b3c316717cd84114003d3bf6040d28&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2025-07-15T10:50:42Z"
+  },
+  {
+    "login": "Iamangina",
+    "name": "Iamangina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203669321?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 146,
+    "createdAt": "2025-03-17T14:40:31Z"
+  },
+  {
+    "login": "kristofer-atlas",
+    "name": "Kris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/239639869?s=72&u=d3ee3d3289cbfb1f4a506776216489ed011af6fe&v=4",
+    "location": "Reykjavik",
+    "company": "@RunAtlas-is ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1174,
+    "publicContributions": 40,
+    "createdAt": "2025-10-22T17:13:47Z"
+  },
+  {
+    "login": "HelgiSteinarr-mila",
+    "name": "Helgi Steinarr Júlíusson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214524937?s=72&u=cf99522828d462d5c89adfae167323c42fb67001&v=4",
+    "location": "Reykjavik",
+    "company": "@mila-ehf ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 532,
+    "publicContributions": 4,
+    "createdAt": "2025-06-02T16:01:55Z"
   }
 ]

@@ -4822,5 +4822,101 @@
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2026-04-27T16:52:14Z"
+  },
+  {
+    "login": "yud08",
+    "name": "Duy Nguyen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89941552?s=72&u=edef859b243087273996054d545e5d4038e86b4e&v=4",
+    "location": "Kingston, United Kingdom",
+    "company": "Tiffin School",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2021-09-01T19:51:39Z"
+  },
+  {
+    "login": "MstrFunkBass",
+    "name": "Aaron Grove",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78655371?s=72&u=9de6637dde895b741bb2f55f858deb36b93479d8&v=4",
+    "location": "Plymouth, UK",
+    "company": "British Red Cross",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-06T16:27:08Z"
+  },
+  {
+    "login": "MattyLake",
+    "name": "Matthew Lakin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90321074?s=72&u=a96a2b1900430f1a1671fb58b8560d4aadec5645&v=4",
+    "location": "Plymouth, United Kingdom",
+    "company": "NHS University Hospitals Plymouth",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2021-09-08T11:02:59Z"
+  },
+  {
+    "login": "willjayeo",
+    "name": "William Jay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82171475?s=72&u=f6d508cb7538fe1bc4bf68a3eca41286676ab451&v=4",
+    "location": "Plymouth, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2021-04-08T16:34:17Z"
+  },
+  {
+    "login": "dancottam",
+    "name": "Dan Cottam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91410112?s=72&v=4",
+    "location": "Plymouth, UK",
+    "company": "",
+    "twitterUsername": "d4nc0tt4m",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-09-26T08:28:42Z"
+  },
+  {
+    "login": "JamesFogwill",
+    "name": "James Fogwill",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78323629?s=72&u=e6475f689b578d7463b12cd04e2f08f3f5be5cd2&v=4",
+    "location": "Plymouth, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 4,
+    "publicContributions": 5,
+    "createdAt": "2021-01-31T21:32:26Z"
+  },
+  {
+    "login": "U53RNAM3-0109",
+    "name": "Morgan Thomas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95925165?s=72&u=6176477f97ead5bd1b04a36c89e78292c5309cfb&v=4",
+    "location": "Plymouth, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 13,
+    "publicContributions": 2,
+    "createdAt": "2021-12-10T14:40:35Z"
+  },
+  {
+    "login": "Dishwasher0920",
+    "name": "Dishwasher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95046525?s=72&u=c973c88557d01822ac20afb858019b9d31e11af5&v=4",
+    "location": "Plymouth, England",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-25T17:33:04Z"
   }
 ]

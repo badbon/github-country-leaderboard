@@ -728,7 +728,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3107,
+    "publicContributions": 3111,
     "createdAt": "2025-08-15T07:00:55Z"
   },
   {
@@ -1618,5 +1618,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-08-06T03:34:05Z"
+  },
+  {
+    "login": "MgThiha-Coding",
+    "name": "Min Thiha Aung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155175594?s=72&u=12577aa8628ef9421a05b611739c40b71924b65e&v=4",
+    "location": "Mandalay , Burma",
+    "company": "NexaLogic",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2023-12-29T15:08:25Z"
+  },
+  {
+    "login": "1leftips",
+    "name": "2tips",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168915057?s=72&u=8d2e3208ab4c24b0d1636ffc722049c2c6472294&v=4",
+    "location": "Hpa Aung Wea Road, Daik-U, Nyaunglybin District, East Bago Region, Myanmar (Burma)",
+    "company": "2tips",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-04T13:52:47Z"
+  },
+  {
+    "login": "KiloMikeTango",
+    "name": "Kaung Myat Thu 🇲🇲",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161342107?s=72&u=c18d5341f504903c9d014574cdbbd0c959cf3ecc&v=4",
+    "location": "Myanmar (Burma)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 175,
+    "createdAt": "2024-02-26T15:19:55Z"
   }
 ]

@@ -286,5 +286,41 @@
     "privateContributions": 106,
     "publicContributions": 9,
     "createdAt": "2021-06-10T02:27:58Z"
+  },
+  {
+    "login": "cassandra03",
+    "name": "Cassandra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94151713?s=72&u=85f62f78ca4fa6ca2c2ef2fa98fc777047745c61&v=4",
+    "location": "Nouméa, Nouvelle-Calédonie",
+    "company": "OPT-NC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-12T01:41:22Z"
+  },
+  {
+    "login": "tguyader",
+    "name": "Thomas Guyader",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84302977?s=72&v=4",
+    "location": "Nouméa, New Calédonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2021-05-17T04:14:52Z"
+  },
+  {
+    "login": "galinclementine",
+    "name": "Clémentine Galin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79886829?s=72&u=546c9825f014e9059576f6624c883a7e6a3e0fee&v=4",
+    "location": "Nouméa, Nouvelle-Calédonie",
+    "company": "student",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-02T02:36:42Z"
   }
 ]

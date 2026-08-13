@@ -942,8 +942,8 @@
     "location": "Doha, Qatar",
     "company": "@mzieos",
     "twitterUsername": "",
-    "followers": 93,
-    "privateContributions": 2117,
+    "followers": 92,
+    "privateContributions": 2124,
     "publicContributions": 751,
     "createdAt": "2024-02-17T05:37:56Z"
   },
@@ -1050,7 +1050,7 @@
     "location": "Doha, Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-01T14:42:40Z"
@@ -1966,5 +1966,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-07T07:45:36Z"
+  },
+  {
+    "login": "syedahmedkhaderi",
+    "name": "Syed Ahmed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176927193?s=72&u=70827c2deda0ec8d4e045aac8b5978f1258bbc78&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 101,
+    "publicContributions": 702,
+    "createdAt": "2024-07-29T14:29:11Z"
+  },
+  {
+    "login": "OfficialHamoud",
+    "name": "Yusuf Abdullah olamide",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174094364?s=72&u=ddecf2e617fe42c1dad422acb6a71b20a7f4f3f6&v=4",
+    "location": "Doha",
+    "company": "EFASROW",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-06-28T07:20:41Z"
+  },
+  {
+    "login": "amerruki",
+    "name": "amerruki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160704672?s=72&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 422,
+    "publicContributions": 63,
+    "createdAt": "2024-02-21T06:06:04Z"
+  },
+  {
+    "login": "Niq256",
+    "name": "Niclous",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/188102559?s=72&u=ec3f4508795f7cf1118aa7afcf42f991a784f63c&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2024-11-11T19:18:53Z"
+  },
+  {
+    "login": "nadunjayathunga",
+    "name": "Nadun Darshana Jayathunga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156461464?s=72&u=56dda5ceaa63383d3e05236e44728e1182aef4af&v=4",
+    "location": "Doha",
+    "company": "Gulf Helicopters Company",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-12T17:55:32Z"
+  },
+  {
+    "login": "AbdelrahmanSaeyeldin",
+    "name": "Abdelrahman Saeyeldin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162942172?s=72&u=295316310812b17d5d1d7bed108daad210426bfe&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2024-03-11T02:58:31Z"
   }
 ]

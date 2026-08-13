@@ -1882,5 +1882,65 @@
     "privateContributions": 0,
     "publicContributions": 72,
     "createdAt": "2025-10-09T15:45:29Z"
+  },
+  {
+    "login": "OMAR-DIB",
+    "name": "Omar Dib",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157814977?s=72&u=39cc2e56b42e8ba9e1b4fbf490883f6e7f1352f4&v=4",
+    "location": "Tripoli / Lebanon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 21,
+    "publicContributions": 80,
+    "createdAt": "2024-01-26T14:08:29Z"
+  },
+  {
+    "login": "4d4mj",
+    "name": "Adam Jabado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172446726?s=72&u=04d4170a507ca892b1ccc241a9b1cad4ad461ace&v=4",
+    "location": "Tripoli, Lebanon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2024-06-11T22:19:47Z"
+  },
+  {
+    "login": "MohamadObeid9",
+    "name": "Mohamad Obeid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155927419?s=72&u=87300f3a28513330152a84f69fbc59387edff573&v=4",
+    "location": "Tripoli , Lebanon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 2,
+    "publicContributions": 102,
+    "createdAt": "2024-01-08T00:31:13Z"
+  },
+  {
+    "login": "LamiaEid1",
+    "name": "Lamia Eid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180179523?s=72&v=4",
+    "location": "Lebanon/tripoli",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 93,
+    "createdAt": "2024-09-02T11:42:51Z"
+  },
+  {
+    "login": "mohamad473",
+    "name": "Mohamad AbdulHadi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159455125?s=72&u=e7321ead92e19d1b69ecbfa6f5f72d7a85790fc1&v=4",
+    "location": "Tripoli, Lebanon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 964,
+    "publicContributions": 47,
+    "createdAt": "2024-02-08T14:27:36Z"
   }
 ]

@@ -1615,8 +1615,8 @@
     "company": "ProofX",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 153,
-    "publicContributions": 1564,
+    "privateContributions": 155,
+    "publicContributions": 1565,
     "createdAt": "2024-07-10T10:35:51Z"
   },
   {
@@ -2563,7 +2563,7 @@
     "company": "Easyenv.io",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 734,
+    "privateContributions": 739,
     "publicContributions": 130,
     "createdAt": "2024-10-28T08:48:42Z"
   },
@@ -2686,5 +2686,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-08T17:07:00Z"
+  },
+  {
+    "login": "Almohanad98",
+    "name": "Almohanad Alfarei",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163166821?s=72&u=6fa73e317efc6b159c7c2c5dff9eaa7e7fb4ca60&v=4",
+    "location": "muscat",
+    "company": "Sultan Qaboos University ",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-12T16:24:38Z"
+  },
+  {
+    "login": "MoeAnghabo",
+    "name": "MohAnghabo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160457396?s=72&u=feffedc5c89d43c748edc01a76852684e77355b5&v=4",
+    "location": "Muscat",
+    "company": "@PhazeRoOman ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 6,
+    "publicContributions": 0,
+    "createdAt": "2024-02-19T05:19:24Z"
+  },
+  {
+    "login": "Rawida-AlShereiqi",
+    "name": "Rawida AlShereiqi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161161767?s=72&u=fe79b567567dad425bfb04e4f675d721203afb37&v=4",
+    "location": "Muscat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-24T19:33:49Z"
+  },
+  {
+    "login": "AzhaarAlSiyabi",
+    "name": "Azhaar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167751902?s=72&u=7da74aaee4f9412d0d63e6b57e98f6424fc0b2c3&v=4",
+    "location": "Muscat",
+    "company": "Rihal Data Migration ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-22T08:18:15Z"
   }
 ]

@@ -235,7 +235,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3192,
+    "privateContributions": 3193,
     "publicContributions": 280,
     "createdAt": "2024-08-04T14:08:06Z"
   },
@@ -454,5 +454,77 @@
     "privateContributions": 0,
     "publicContributions": 55,
     "createdAt": "2024-07-04T21:30:46Z"
+  },
+  {
+    "login": "Tiefing",
+    "name": "Tiefing",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167345304?s=72&v=4",
+    "location": "bamako",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-17T16:54:18Z"
+  },
+  {
+    "login": "ZaharaD",
+    "name": "Zahara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182957250?s=72&v=4",
+    "location": "Bamako",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2024-09-26T15:00:18Z"
+  },
+  {
+    "login": "emomar",
+    "name": "Emomar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158565509?s=72&u=3691bfbbfcbbed16af46a9d582ac9f96071916f0&v=4",
+    "location": "Bamako",
+    "company": "Emomar",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-02T09:50:00Z"
+  },
+  {
+    "login": "Komacaille79",
+    "name": "Koma caille",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155504653?s=72&v=4",
+    "location": "Bamako",
+    "company": "Koma caille ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-03T02:47:27Z"
+  },
+  {
+    "login": "AlyibnAlpha",
+    "name": "Aly Yahiya Diallo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159886563?s=72&u=9ef8223bd289e1b9b00e6a005456be59b9237005&v=4",
+    "location": "Bamako",
+    "company": "Saer-Emploi",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-02-13T08:34:03Z"
+  },
+  {
+    "login": "techzenithoff",
+    "name": "TechZenith Technologies SARL",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166505925?s=72&v=4",
+    "location": "Bamako",
+    "company": "techzenith",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-09T10:44:55Z"
   }
 ]

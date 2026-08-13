@@ -1210,5 +1210,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-10T22:05:45Z"
+  },
+  {
+    "login": "08-belle",
+    "name": "Olivia Jeison",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152225033?s=72&u=4cb4c39a81dc8d63690e74d83f3477d7a5a871f1&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2023-11-27T21:40:47Z"
+  },
+  {
+    "login": "PopovicJovan",
+    "name": "Popović Jovan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143738388?s=72&u=2f0af8277c704ef8442c7cf286531165fbedcf9c&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 4,
+    "publicContributions": 0,
+    "createdAt": "2023-08-31T16:27:56Z"
+  },
+  {
+    "login": "Milovan1995",
+    "name": "Antic Milovan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125225532?s=72&u=11f555f303d21db9c57902be8c13b0a542afc10e&v=4",
+    "location": "Podgorica",
+    "company": "Logate",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 33,
+    "publicContributions": 72,
+    "createdAt": "2023-02-12T23:42:38Z"
+  },
+  {
+    "login": "lanasundic",
+    "name": "Lana Sundic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153457173?s=72&u=1171dfaca886b6676617df095ae2c7f914683dce&v=4",
+    "location": "Podgorica",
+    "company": "University of Montenegro",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 3,
+    "publicContributions": 29,
+    "createdAt": "2023-12-10T19:08:34Z"
+  },
+  {
+    "login": "ksenijaacimovic",
+    "name": "Ksenija Acimovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144005830?s=72&u=3b3a7094f16cefd3f76bf585381331483f3e3e6f&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-04T08:37:07Z"
+  },
+  {
+    "login": "DinaK9",
+    "name": "Dina Korolyova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137406844?s=72&u=22300d9daabdb2c37f2adc8de2d81ce970883278&v=4",
+    "location": "Podgorica",
+    "company": "Playrix",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-22T12:00:26Z"
+  },
+  {
+    "login": "TheOlivegarden",
+    "name": "Ognjen Popovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137838454?s=72&u=1d9b59492692a69c34b21450cd45282d17d2225a&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "Ponje13",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2023-06-26T22:24:44Z"
+  },
+  {
+    "login": "MirojeS",
+    "name": "Miroje",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123632841?s=72&u=152a1f225db388e270f7e2516328713f29074de2&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-26T10:15:33Z"
   }
 ]

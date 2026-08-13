@@ -3850,5 +3850,65 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-08T15:26:24Z"
+  },
+  {
+    "login": "AJSubrizi",
+    "name": "AJSubrizi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281789377?s=72&u=886290650d5e785606389796bee118d68491ff77&v=4",
+    "location": "Roma",
+    "company": "",
+    "twitterUsername": "AJSubrizi",
+    "followers": 24,
+    "privateContributions": 699,
+    "publicContributions": 299,
+    "createdAt": "2026-05-04T23:56:22Z"
+  },
+  {
+    "login": "lucaccc1",
+    "name": "Luca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266327826?s=72&v=4",
+    "location": "Roma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 266,
+    "publicContributions": 35,
+    "createdAt": "2026-03-07T16:08:57Z"
+  },
+  {
+    "login": "Alexander-701",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258404997?s=72&u=da1f115ce8320382b4aeaa411d5fe408135db5ea&v=4",
+    "location": "Roma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-01-31T09:38:14Z"
+  },
+  {
+    "login": "wmertakkaya",
+    "name": "mert akkaya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271524261?s=72&v=4",
+    "location": "roma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-27T12:46:58Z"
+  },
+  {
+    "login": "giuliamgc95",
+    "name": "Giulia Consorti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255914616?s=72&u=625120e70947d63580aa1d8724a9eeaaef902949&v=4",
+    "location": "Roma",
+    "company": "SIAE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-19T15:36:25Z"
   }
 ]

@@ -1064,7 +1064,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 53,
-    "publicContributions": 512,
+    "publicContributions": 523,
     "createdAt": "2024-05-07T16:22:51Z"
   },
   {
@@ -1340,7 +1340,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 611,
+    "publicContributions": 616,
     "createdAt": "2024-03-29T05:18:03Z"
   },
   {
@@ -1735,7 +1735,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 36,
+    "privateContributions": 38,
     "publicContributions": 122,
     "createdAt": "2024-01-20T01:56:37Z"
   },
@@ -1786,5 +1786,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-06T03:16:57Z"
+  },
+  {
+    "login": "spasquier",
+    "name": "Salvador Pasquier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170959417?s=72&u=3631f30bce012ba6a70f69ddae58b960bf469a3f&v=4",
+    "location": "Managua",
+    "company": "PatentVest",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 46,
+    "publicContributions": 181,
+    "createdAt": "2024-05-27T14:59:45Z"
+  },
+  {
+    "login": "jadg13-uam",
+    "name": "José Durán",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162482782?s=72&v=4",
+    "location": "Managua",
+    "company": "UAM",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 75,
+    "createdAt": "2024-03-06T16:48:25Z"
+  },
+  {
+    "login": "Fergago20",
+    "name": "Fernando Gabriel Gomez Gazo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165973255?s=72&u=26b19c0c9bebd4cd98735d646916afedaa22ef11&v=4",
+    "location": "Managua",
+    "company": "UAM",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 206,
+    "createdAt": "2024-04-04T01:35:25Z"
+  },
+  {
+    "login": "InNUenD00",
+    "name": "Ernesto A Torrez M",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170156300?s=72&u=3af6bf015e0ff02d0b0715c30f24a895bfb4a2e0&v=4",
+    "location": "Managua",
+    "company": "ULSA",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 65,
+    "createdAt": "2024-05-18T03:22:28Z"
+  },
+  {
+    "login": "EliosL0",
+    "name": "Marcelo Gutiérrez ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175056943?s=72&u=a5858a1ff86267b22ed5a6fe24097026ed9fd46d&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2024-07-08T19:36:21Z"
+  },
+  {
+    "login": "dev-chris015",
+    "name": "Chris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186770006?s=72&u=346cb5cba78504bf960aed6c7294854eeda172a5&v=4",
+    "location": "Managua, Nic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 260,
+    "publicContributions": 170,
+    "createdAt": "2024-10-29T23:56:55Z"
+  },
+  {
+    "login": "manuelmj13",
+    "name": "Moto 🏍️",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165457662?s=72&u=88e94d19bcda8379281711c3fe1e91330f9087d3&v=4",
+    "location": "Managua",
+    "company": "Universidad Americana",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2024-03-30T06:09:16Z"
+  },
+  {
+    "login": "eliasmarin2390",
+    "name": "Elias Marin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165837117?s=72&v=4",
+    "location": "Managua",
+    "company": "Universidad Americana (UAM)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 86,
+    "createdAt": "2024-04-02T19:20:07Z"
+  },
+  {
+    "login": "rsanchezd",
+    "name": "Ricardo Sánchez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171722790?s=72&v=4",
+    "location": "MANAGUA",
+    "company": "MACESA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-06-04T17:00:23Z"
   }
 ]

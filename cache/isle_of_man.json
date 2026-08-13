@@ -22,5 +22,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-06T13:29:45Z"
+  },
+  {
+    "login": "torquuato",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158479344?s=72&u=a4c7f076bb3f74ecdf0a103bc34b4a5afdd7fc16&v=4",
+    "location": "Isle of Man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 557,
+    "createdAt": "2024-02-01T13:40:50Z"
+  },
+  {
+    "login": "jamesharrison2005",
+    "name": "James Harrison",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170635632?s=72&u=423e7bcf76ac1f95b70ca509fc71c6d8bbdc5280&v=4",
+    "location": "Isle of Man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 286,
+    "createdAt": "2024-05-23T12:54:45Z"
+  },
+  {
+    "login": "K1erans",
+    "name": "Kieran",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178052660?s=72&u=c7dc390cfbc1b0d46d8be74c06a6351bfb158518&v=4",
+    "location": "Isle of man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 127,
+    "publicContributions": 92,
+    "createdAt": "2024-08-10T23:45:54Z"
+  },
+  {
+    "login": "Cyjann",
+    "name": "Silly french car",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164628826?s=72&u=561619b6e480a7d6521a5d1fb3e8780f082619ad&v=4",
+    "location": "Isle of Man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-23T10:59:47Z"
   }
 ]

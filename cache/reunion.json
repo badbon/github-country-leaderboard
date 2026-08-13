@@ -262,5 +262,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-06T17:30:35Z"
+  },
+  {
+    "login": "ChaffyLace",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132900529?s=72&u=94e05dde57763fa91ad84bce9792d8ec9270fc22&v=4",
+    "location": "Saint Denis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1109,
+    "createdAt": "2023-05-08T10:52:04Z"
+  },
+  {
+    "login": "OrianeORDS",
+    "name": "Oriane ORDS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128829534?s=72&u=3700a27b12455a105032767f1370fee203877397&v=4",
+    "location": "Saint-Denis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-24T15:34:56Z"
+  },
+  {
+    "login": "dada416-lebg",
+    "name": "Yanis Fronteau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127610636?s=72&u=00a67dd41e4b0493b9d34ec7340f2a2798c353bc&v=4",
+    "location": "Saint Denis",
+    "company": "Paris 8",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2023-03-11T14:37:51Z"
+  },
+  {
+    "login": "Knickss",
+    "name": "PerfectMoon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133003858?s=72&u=38bd664b342f90b72656802572012bf68d6ecbfb&v=4",
+    "location": "saint denis",
+    "company": "Centro Escolar University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 193,
+    "publicContributions": 3,
+    "createdAt": "2023-05-09T10:28:54Z"
   }
 ]
