@@ -826,5 +826,65 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-04-26T11:22:52Z"
+  },
+  {
+    "login": "johnny-cassin",
+    "name": "Johnny Cassin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252690236?s=72&u=5612db17965dc6c77a0403176af4fec3043958b6&v=4",
+    "location": "Wellington, NZ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-01-03T04:51:08Z"
+  },
+  {
+    "login": "zoechelfyn",
+    "name": "zoechelfyn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253307436?s=72&u=4548c1d5ec2066df22cf69c04de346ca2575697e&v=4",
+    "location": "Wellington",
+    "company": "Glass Hammer Industries",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-01-06T14:43:39Z"
+  },
+  {
+    "login": "spaceown",
+    "name": "spaceon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266299830?s=72&u=b8bff1c4185ea430740209bf575750c3e8fb94bf&v=4",
+    "location": "Wellington",
+    "company": "@osndot",
+    "twitterUsername": "spaceownn",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-03-07T13:30:20Z"
+  },
+  {
+    "login": "puddalt",
+    "name": "Luna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256470033?s=72&u=6ea4891a296ab58aed5f9d50dafe872787a5f923&v=4",
+    "location": "Wellington, NZ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2026-01-22T02:26:34Z"
+  },
+  {
+    "login": "Janette0924",
+    "name": "Juan LUO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273851813?s=72&v=4",
+    "location": "Wellington",
+    "company": "Victoria University of Wellington",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-04-05T19:48:30Z"
   }
 ]

@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "medsalem-code",
+    "name": "Med salem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262008441?s=72&v=4",
+    "location": "Mauritania",
+    "company": "Student at SupNum",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2026-02-16T21:23:48Z"
+  },
+  {
+    "login": "welidkh05-create",
+    "name": "Abderahman afane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279442428?s=72&u=f799d0900f5fdb480abc92327b6d95110386b54c&v=4",
+    "location": "Mauritania ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-04-26T11:02:59Z"
+  }
+]

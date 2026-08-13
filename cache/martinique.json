@@ -10,5 +10,41 @@
     "privateContributions": 0,
     "publicContributions": 160,
     "createdAt": "2026-01-22T11:09:27Z"
+  },
+  {
+    "login": "Bassignac",
+    "name": "Bassignac Lab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/220147458?s=72&u=65a9f845b0e1a54893a73984c3044d81f6aca6e2&v=4",
+    "location": "Martinique",
+    "company": "Bassignac Lab SASU",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-07-10T06:55:16Z"
+  },
+  {
+    "login": "jnnkp",
+    "name": "jnnkp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211108857?s=72&u=274544ad58f758a242b62f06d0848d39d5f162d7&v=4",
+    "location": "Martinique",
+    "company": "@pngrtz",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 43,
+    "publicContributions": 3,
+    "createdAt": "2025-05-10T09:48:32Z"
+  },
+  {
+    "login": "marieangeliquepied",
+    "name": "Marie-Angélique PIED",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208732229?s=72&u=431465345f2a3f1dc46962d893e5a2b2ca5c64cb&v=4",
+    "location": "Martinique ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 115,
+    "createdAt": "2025-04-23T00:50:49Z"
   }
 ]
