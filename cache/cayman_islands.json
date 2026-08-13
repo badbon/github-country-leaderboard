@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "login": "neurolover-britt",
+    "name": "Brittney Wright",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225086981?s=72&u=c2800ad4f0b4a9504f2acba65137e484ca50f8e9&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-08-06T22:00:08Z"
+  },
+  {
+    "login": "matej5052",
+    "name": "Matej Hala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199733053?s=72&v=4",
+    "location": "cayman islands",
+    "company": "Danove uniky s.r.o",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-02-18T08:13:56Z"
+  },
+  {
+    "login": "Adedamola18",
+    "name": "Damola Olutoke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/242042713?s=72&v=4",
+    "location": "Cayman Islands",
+    "company": "IQ",
+    "twitterUsername": "adedamola_dee",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 203,
+    "createdAt": "2025-11-04T18:00:02Z"
+  }
+]

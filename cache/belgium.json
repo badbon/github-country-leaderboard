@@ -58,5 +58,41 @@
     "privateContributions": 4,
     "publicContributions": 116,
     "createdAt": "2026-02-06T09:39:37Z"
+  },
+  {
+    "login": "kevingonzo1981-lab",
+    "name": "kevin ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256878333?s=72&v=4",
+    "location": "belgique ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-23T21:50:38Z"
+  },
+  {
+    "login": "randykratos4-stack",
+    "name": "WAFFO DARELL",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268876425?s=72&u=cb7467dad9c3d330d545c28cc6535dd28aae74e9&v=4",
+    "location": "Gembloux,Belgique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-03-17T10:22:56Z"
+  },
+  {
+    "login": "Christophevanengelen",
+    "name": "Christophe Van Engelen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253404823?s=72&u=349361c84fa9b8d87cc505d0e5c9dee36cb0f2fb&v=4",
+    "location": "Belgique",
+    "company": "Consultant",
+    "twitterUsername": "van_christophe",
+    "followers": 1,
+    "privateContributions": 173,
+    "publicContributions": 275,
+    "createdAt": "2026-01-07T02:19:32Z"
   }
 ]
