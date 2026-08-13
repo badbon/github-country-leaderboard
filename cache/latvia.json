@@ -274,5 +274,89 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2026-02-03T20:23:47Z"
+  },
+  {
+    "login": "Markussiin",
+    "name": "Markuss",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279779879?s=72&u=b510e932e6a47bcc3e052529604179b54e4e0113&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2026-04-27T16:31:31Z"
+  },
+  {
+    "login": "0xdilshan",
+    "name": "Dilshan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257371012?s=72&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 174,
+    "createdAt": "2026-01-26T18:44:43Z"
+  },
+  {
+    "login": "AAvlasins-dev",
+    "name": "Andrejs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257751497?s=72&u=8e8b24fba5cf3458dc07806c46fc3ee504cf40f4&v=4",
+    "location": "riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 105,
+    "createdAt": "2026-01-28T10:29:44Z"
+  },
+  {
+    "login": "gideonheart",
+    "name": "Gideon Heart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260780107?s=72&u=f82176d89a9b3f4324a73ac9e4d7887eb5ab7ece&v=4",
+    "location": "Riga",
+    "company": "@LOGIN GRUPA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-02-10T22:44:32Z"
+  },
+  {
+    "login": "yuanjuque",
+    "name": "Wanderly ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279467636?s=72&u=98f838b4241e4ed14ed73af7a69a6fa9086ac49b&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-04-26T13:31:27Z"
+  },
+  {
+    "login": "aleks-at-levelpath",
+    "name": "Aleks Grisins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255837031?s=72&u=e33e73e93ccdf16cba5cf3b75b13d8137169815b&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1071,
+    "publicContributions": 1,
+    "createdAt": "2026-01-19T09:00:55Z"
+  },
+  {
+    "login": "saaprikins",
+    "name": "Artjoms Saprikins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257594656?s=72&u=9285f694740f2700292386be93b2e40e11f8ac0c&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 66,
+    "createdAt": "2026-01-27T17:26:26Z"
   }
 ]

@@ -115,7 +115,7 @@
     "company": "M10C",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 149,
+    "privateContributions": 150,
     "publicContributions": 8,
     "createdAt": "2026-01-22T15:22:02Z"
   },
@@ -130,5 +130,65 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2026-03-23T23:11:14Z"
+  },
+  {
+    "login": "lukasstasytis19-collab",
+    "name": "Lukas Stasytis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266816305?s=72&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-09T17:51:02Z"
+  },
+  {
+    "login": "ohelka",
+    "name": "Olga Kukushkina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258438914?s=72&u=d533c3582af9c044e717fb15ecbc337dc88b4e99&v=4",
+    "location": "Vilnius",
+    "company": "Planner 5D",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2026-01-31T13:46:00Z"
+  },
+  {
+    "login": "ssuzcrocz",
+    "name": "Sushyanth Gali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268052616?s=72&u=75853a251b05a8cebcd6c94f418693ed33d805a7&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2026-03-13T22:23:37Z"
+  },
+  {
+    "login": "gigabrain-observer",
+    "name": "Dave @ Gigabrain Observer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263052121?s=72&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-02-21T19:17:40Z"
+  },
+  {
+    "login": "igorsatsyuk",
+    "name": "Ihar Satsiuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252654804?s=72&u=17c133c5930fc6da2fd93beccc9331486e21a619&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1621,
+    "createdAt": "2026-01-02T21:16:11Z"
   }
 ]

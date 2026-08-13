@@ -370,5 +370,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-18T06:07:23Z"
+  },
+  {
+    "login": "TonyDoesLinux",
+    "name": "Tony",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276988250?s=72&u=9ce5466f358f7b1228de8f261c0955a5f661b0bf&v=4",
+    "location": "Beirut",
+    "company": "SMS NOC Engineer @ TXTBridge",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-04-17T12:46:04Z"
+  },
+  {
+    "login": "ralfaouad-TL",
+    "name": "Ralf Aouad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272892971?s=72&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-01T17:24:09Z"
+  },
+  {
+    "login": "umakarem82",
+    "name": "sami",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278497437?s=72&v=4",
+    "location": "beirut ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2026-04-22T19:11:28Z"
+  },
+  {
+    "login": "dabbousbasta",
+    "name": "دبوس البسطة",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262970783?s=72&u=b314f0da3e64c015ac66e742624847ad5e91d0d4&v=4",
+    "location": "Beirut",
+    "company": "مؤسسة دبوس البسطة",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 704,
+    "createdAt": "2026-02-21T09:10:42Z"
   }
 ]
