@@ -12403,7 +12403,7 @@
     "company": "CitizenGo",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 204,
+    "privateContributions": 206,
     "publicContributions": 1,
     "createdAt": "2025-02-25T22:20:48Z"
   },
@@ -12682,5 +12682,29 @@
     "privateContributions": 0,
     "publicContributions": 239,
     "createdAt": "2025-03-21T01:45:24Z"
+  },
+  {
+    "login": "BrunoErgang",
+    "name": "Bruno Ergang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201398392?s=72&u=566e05f3218e02fccb680670f7b4b368654e97ac&v=4",
+    "location": "Buenos Aires, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1424,
+    "publicContributions": 0,
+    "createdAt": "2025-03-01T22:29:11Z"
+  },
+  {
+    "login": "FDiazPPLD",
+    "name": "Federico Diaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210850875?s=72&v=4",
+    "location": "Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 19,
+    "publicContributions": 609,
+    "createdAt": "2025-05-08T11:35:22Z"
   }
 ]

@@ -298,5 +298,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-04T01:21:05Z"
+  },
+  {
+    "login": "liobrasil",
+    "name": "Lionel LIMOL",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86023228?s=72&u=1a9d866467875da2c643daa54b0124cd47c1db01&v=4",
+    "location": "Guadeloupe",
+    "company": "Blockchain Xpert Solutions",
+    "twitterUsername": "lionel_limol",
+    "followers": 75,
+    "privateContributions": 271,
+    "publicContributions": 613,
+    "createdAt": "2021-06-16T20:16:02Z"
+  },
+  {
+    "login": "RomainLAU",
+    "name": "Romain LAURENT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91966189?s=72&u=9f521392cd4643a1c6bafa56c56c80f765e587c5&v=4",
+    "location": "Baie-Mahault, Guadeloupe",
+    "company": "Sofy",
+    "twitterUsername": "AdibLeRoi",
+    "followers": 9,
+    "privateContributions": 1,
+    "publicContributions": 56,
+    "createdAt": "2021-10-05T14:30:49Z"
+  },
+  {
+    "login": "L-Dev31",
+    "name": "Léo TOSKU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86838693?s=72&u=49a01cb1761a880033743a01d428199fc03ee1ed&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 167,
+    "publicContributions": 535,
+    "createdAt": "2021-07-02T13:20:27Z"
+  },
+  {
+    "login": "AlbertKloster",
+    "name": "Albert Kloster",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81373895?s=72&u=688b2c582379a960f6ec169857846408ca7f8b9b&v=4",
+    "location": "Petit-Canal, Guadeloupe",
+    "company": "AK-i.tech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-25T14:52:38Z"
+  },
+  {
+    "login": "DOU9DC",
+    "name": "Desnos-Cosse Douglas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79149600?s=72&u=163c347cd245a954b0968c528bd26e7aec952e73&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-16T13:27:13Z"
+  },
+  {
+    "login": "SophieGodard",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81890311?s=72&u=b9780aedbea0274a79fe144da9347b0d3dccbef4&v=4",
+    "location": "Guadeloupe",
+    "company": "So Web",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-04T02:22:15Z"
+  },
+  {
+    "login": "ygrillon",
+    "name": "Yannick Grillon-Mixtur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86017932?s=72&u=9ac6dde9183aa4a1569f3e9802490f1f3719089b&v=4",
+    "location": "Guadeloupe",
+    "company": "Connect Outremer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-16T17:53:16Z"
   }
 ]

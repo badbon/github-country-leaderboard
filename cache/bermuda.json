@@ -778,5 +778,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-11-15T13:01:45Z"
+  },
+  {
+    "login": "atheop1337",
+    "name": "atheop",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133809614?s=72&u=95f2d20460686f0bb44dbde61749ad1c3800038e&v=4",
+    "location": "101 Coral Lane, Hamilton Parish, Bermuda",
+    "company": "@TFZO 💕",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 129,
+    "publicContributions": 32,
+    "createdAt": "2023-05-16T19:03:07Z"
+  },
+  {
+    "login": "bugcowboy",
+    "name": "Tobias Kessler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127704372?s=72&u=572a177055d0584580565180621d6130e2761abe&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2023-03-13T01:23:14Z"
   }
 ]

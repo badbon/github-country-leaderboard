@@ -11482,5 +11482,77 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2023-12-29T16:38:36Z"
+  },
+  {
+    "login": "SebastianNiegel",
+    "name": "Sebastian Niegel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274447260?s=72&v=4",
+    "location": "Dresden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-04-08T07:57:44Z"
+  },
+  {
+    "login": "Ghost-Freeze",
+    "name": "Paul",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268830972?s=72&u=a79e41416bfc6c85bca68c05b6ca9fabfedeb75c&v=4",
+    "location": "Dresden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2026-03-17T07:12:21Z"
+  },
+  {
+    "login": "andreasthom",
+    "name": "Andreas Thom",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256189224?s=72&u=8532651e96839c44b3ff24dfccb3de8e1acc6f5d&v=4",
+    "location": "Dresden",
+    "company": "TU Dresden",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 79,
+    "createdAt": "2026-01-20T19:27:29Z"
+  },
+  {
+    "login": "SabineUX",
+    "name": "Sabine Grieger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259846090?s=72&v=4",
+    "location": "Dresden",
+    "company": "GoTo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-06T11:02:16Z"
+  },
+  {
+    "login": "lxc-ht",
+    "name": "Loc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271242847?s=72&v=4",
+    "location": "Dresden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-26T12:28:28Z"
+  },
+  {
+    "login": "hundert07",
+    "name": "hundertsieben",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256540518?s=72&u=7009b4fcaf5b2d8f1254bfc5604ba93a4862c9f8&v=4",
+    "location": "Dresden",
+    "company": "TU Dresden",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-01-22T10:22:48Z"
   }
 ]

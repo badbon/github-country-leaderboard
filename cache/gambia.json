@@ -418,5 +418,77 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2022-06-11T16:45:02Z"
+  },
+  {
+    "login": "PaAmatJow",
+    "name": "Pa Amat Jow",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87549430?s=72&u=57635b01ffcb6b650932138d23c4aa852d1e0005&v=4",
+    "location": "Banjul, The Gambia.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 90,
+    "publicContributions": 0,
+    "createdAt": "2021-07-16T21:48:39Z"
+  },
+  {
+    "login": "Karim-Mane",
+    "name": "Karim MANE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84502011?s=72&u=228e2c85d83394cc284f3a0ebdcd644e4b926e45&v=4",
+    "location": "Gambia",
+    "company": "Medical Research Council The Gambia Unit at London School of Hygiene and Tropical medicine",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 223,
+    "createdAt": "2021-05-20T09:00:59Z"
+  },
+  {
+    "login": "cheboy14",
+    "name": "Cherno Omar Senghore",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93978877?s=72&u=5664b6ffc0caf29114f9d8e574e7a9d869c7a0fa&v=4",
+    "location": "Banjul, The Gambia",
+    "company": "@InSIST-Global-Ltd ",
+    "twitterUsername": "CSenghore",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-09T09:47:44Z"
+  },
+  {
+    "login": "JonMonday",
+    "name": "JohnMonday",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79201337?s=72&u=7011dd7df496ea7401765d201b9f7c05911660db&v=4",
+    "location": "Banjul, The Gambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 93,
+    "publicContributions": 68,
+    "createdAt": "2021-02-17T11:41:50Z"
+  },
+  {
+    "login": "kemoh6",
+    "name": "kemoh6",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84072906?s=72&u=238e49956638793edc49e82a50e71cd3499fdad8&v=4",
+    "location": "Banjul, The Gambia.",
+    "company": "",
+    "twitterUsername": "WhyzeKing",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-12T09:34:05Z"
+  },
+  {
+    "login": "mo-dark",
+    "name": "Mo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89653460?s=72&v=4",
+    "location": "Gambia",
+    "company": "@Assutech",
+    "twitterUsername": "mmodoucham",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-27T15:46:50Z"
   }
 ]
