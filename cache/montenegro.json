@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "anunnaki7",
+    "name": "Nikola",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257572817?s=72&u=8243f64d6f6ef7fb9ed752146b1cd92427c0be4e&v=4",
+    "location": "Montenegro",
+    "company": "",
+    "twitterUsername": "anunnakifox7",
+    "followers": 5,
+    "privateContributions": 2,
+    "publicContributions": 348,
+    "createdAt": "2026-01-27T15:46:32Z"
+  },
+  {
+    "login": "talia-protasova",
+    "name": "Talia Protasova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268839769?s=72&u=752c7ea1a554c22228426e5d3ca70efbb63f28ee&v=4",
+    "location": "Montenegro",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 12,
+    "publicContributions": 93,
+    "createdAt": "2026-03-17T07:53:53Z"
+  }
+]

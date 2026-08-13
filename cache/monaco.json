@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "login": "fedecarz",
+    "name": "fedecarz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257547412?s=72&v=4",
+    "location": "Monaco",
+    "company": "International University of Monaco - IUM",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 99,
+    "createdAt": "2026-01-27T14:05:21Z"
+  },
+  {
+    "login": "Vik-tec",
+    "name": "Vik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271997307?s=72&v=4",
+    "location": "Monaco",
+    "company": "by himself",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-03-29T15:45:56Z"
+  },
+  {
+    "login": "QmcLabOfficial",
+    "name": "QmcLab officierl GitHub",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257137261?s=72&u=9199960f159969481525d753547f6f46812723d9&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-01-25T15:45:34Z"
+  }
+]

@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "login": "islavikfx",
+    "name": "iSlavik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265895212?s=72&u=086655899045aecfb9c6868a89c12e11c768529c&v=4",
+    "location": "Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-03-05T19:38:31Z"
+  },
+  {
+    "login": "NorthShift",
+    "name": "Emil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254413827?s=72&u=75efba9c1aef8e61b74eff1bc67b0d35df9461c2&v=4",
+    "location": "Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 69,
+    "createdAt": "2026-01-12T08:50:21Z"
+  },
+  {
+    "login": "volhamelko1",
+    "name": "Olga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253935353?s=72&u=f064ab36ec055f5e0ea0c91edb7a882dff93e68f&v=4",
+    "location": "Lithuania",
+    "company": "EPAM",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-01-09T13:19:46Z"
+  },
+  {
+    "login": "SauliusZenkevic",
+    "name": "Saulius Zenkevič",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277342452?s=72&v=4",
+    "location": "Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2026-04-18T21:13:20Z"
+  },
+  {
+    "login": "peculiaroyekola",
+    "name": "peculiar oyekola",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266048434?s=72&v=4",
+    "location": "Vilnius, Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2026-03-06T10:54:18Z"
+  },
+  {
+    "login": "egor-a10-clips",
+    "name": "Egor Stoliarov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272517141?s=72&u=d3d085d51c3b158760856982e1d127df655bebd3&v=4",
+    "location": "Vilnius, Lithuania",
+    "company": "XM Textiles",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-31T12:19:10Z"
+  },
+  {
+    "login": "Rugile8",
+    "name": "Rugilė Gelčiūtė",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276032780?s=72&u=c3b7c6336e620b5bf20f89eecdb131338f979aaa&v=4",
+    "location": "Kaunas, Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-04-14T14:39:19Z"
+  },
+  {
+    "login": "LPatriotPlayground",
+    "name": "LPatriot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274598585?s=72&u=74607721d1153208629f57258588f7ff38989c4a&v=4",
+    "location": "Palanga, Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-04-08T18:00:53Z"
+  },
+  {
+    "login": "Kro2er",
+    "name": "Karolis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277779250?s=72&u=78aba4831d0d54ad16a8523f2ceb9567d579daea&v=4",
+    "location": "Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-20T14:02:16Z"
+  },
+  {
+    "login": "pauleveris",
+    "name": "Paulius Leveris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256595700?s=72&v=4",
+    "location": "Vilnius, Lithuania",
+    "company": "M10C",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 149,
+    "publicContributions": 8,
+    "createdAt": "2026-01-22T15:22:02Z"
+  },
+  {
+    "login": "mehakjain07",
+    "name": "Mehak Jain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270492144?s=72&u=ea4d4f1fc1ded9134c362ed4329d0484a991db31&v=4",
+    "location": "Vilnius, Vilniaus, Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-03-23T23:11:14Z"
+  }
+]
