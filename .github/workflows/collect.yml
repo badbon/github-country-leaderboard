@@ -8,11 +8,11 @@ on:
       max_queries:
         description: "Maximum GitHub API requests for this run"
         required: false
-        default: "1200"
+        default: "4800"
       chunk_queries:
         description: "Requests per committed chunk"
         required: false
-        default: "75"
+        default: "300"
 
 permissions:
   contents: write
@@ -39,8 +39,8 @@ jobs:
       - name: Collect and commit chunks
         env:
           GITHUB_TOKEN: ${{ github.token }}
-          MAX_QUERIES: ${{ inputs.max_queries || '1200' }}
-          CHUNK_QUERIES: ${{ inputs.chunk_queries || '75' }}
+          MAX_QUERIES: ${{ inputs.max_queries || '4800' }}
+          CHUNK_QUERIES: ${{ inputs.chunk_queries || '300' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
