@@ -1,6 +1,6 @@
 # Total Contributions - Georgia
 
-Generated: 2026-08-13T08:15:40.957Z
+Generated: 2026-08-13T08:20:47.122Z
 
 Users: 7889
 

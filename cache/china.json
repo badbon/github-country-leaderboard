@@ -5242,5 +5242,53 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-02-06T10:03:27Z"
+  },
+  {
+    "login": "rootsteven",
+    "name": "Steven",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246058052?s=72&u=0166c66afd95ed03752fab0648c6e2fca66b0dba&v=4",
+    "location": "Macao,China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-11-25T10:17:25Z"
+  },
+  {
+    "login": "AGD-h",
+    "name": "ZEREN HAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210112987?s=72&u=4cb026ef3c2582703ae90a42f6e1d471c602170f&v=4",
+    "location": "Macao Polytechnic University Rua de Luís Gonzaga Gomes, Macau, China",
+    "company": "Macao Polytechnic University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2025-05-03T04:15:21Z"
+  },
+  {
+    "login": "CocoLeeeeee",
+    "name": "Zizhi Li",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/221840411?s=72&u=2514a99a095bba66f01192cdf845f966aaa7def0&v=4",
+    "location": "Macao SAR, China",
+    "company": "City University of Macau",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2025-07-20T12:10:09Z"
+  },
+  {
+    "login": "Tayakr2009",
+    "name": "田若瑶Tayakr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/248272425?s=72&u=48cf477cf46fb9caf53148989743cd2f5ccec70e&v=4",
+    "location": "Macao,China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2025-12-07T08:47:50Z"
   }
 ]

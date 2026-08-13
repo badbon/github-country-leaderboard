@@ -247,7 +247,7 @@
     "company": "Veigatec",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 2283,
+    "privateContributions": 2286,
     "publicContributions": 251,
     "createdAt": "2025-04-10T07:20:03Z"
   },
@@ -1018,5 +1018,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-08-19T16:49:58Z"
+  },
+  {
+    "login": "Nathan-kasambara",
+    "name": "NATHAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207246489?s=72&u=d5b46f16ff063c3eb5b0d1f7c74837d31582f8ed&v=4",
+    "location": "Lilongwe",
+    "company": "University of Livingstonia",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2025-04-11T16:58:35Z"
+  },
+  {
+    "login": "Tino-06",
+    "name": "Tinotenda Masoakhumbira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203643856?s=72&u=afab367ab63950b58c424d90ebc2dbbc885e57ee&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2025-03-17T11:38:33Z"
+  },
+  {
+    "login": "felie98",
+    "name": "Felicity kadyampakeni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210682213?s=72&v=4",
+    "location": "lilongwe",
+    "company": "ministry of health",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-05-07T09:58:18Z"
+  },
+  {
+    "login": "LORGODAN",
+    "name": "TECHNINJA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207203228?s=72&u=562f0d1c472fa3bc98ce54ea0659087d99f24657&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 187,
+    "createdAt": "2025-04-11T12:34:13Z"
   }
 ]

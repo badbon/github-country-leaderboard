@@ -1282,5 +1282,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-17T11:34:54Z"
+  },
+  {
+    "login": "samoheen",
+    "name": "Sammy O'Heen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197554698?s=72&u=3bfdc09b119bc963a2e4f883a3c1d24bb526fb3a&v=4",
+    "location": "Éire, Gaillimh",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 101,
+    "createdAt": "2025-02-03T04:20:51Z"
+  },
+  {
+    "login": "siog-dev",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202557177?s=72&u=067ff28e48507d4129b2921c5f7a4d28967fa33b&v=4",
+    "location": "Éire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 128,
+    "createdAt": "2025-03-09T21:43:28Z"
   }
 ]
