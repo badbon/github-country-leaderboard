@@ -82,5 +82,53 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2026-05-08T23:58:13Z"
+  },
+  {
+    "login": "HAMADOU131",
+    "name": "Barry Shop ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269313169?s=72&u=c2e2d8b71462f6643b034afafc699ade7c1524a2&v=4",
+    "location": "Ouagadougou ",
+    "company": "Barry Shop ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-03-18T21:32:59Z"
+  },
+  {
+    "login": "nanaatif8-art",
+    "name": "Nana groupe ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267383034?s=72&v=4",
+    "location": "Ouagadougou ",
+    "company": "Nana groupe ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-03-11T15:42:17Z"
+  },
+  {
+    "login": "credibletechbf",
+    "name": "Donatien Kaboré",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262617690?s=72&v=4",
+    "location": "Ouagadougou",
+    "company": "Credible-tech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-19T15:53:20Z"
+  },
+  {
+    "login": "zong57",
+    "name": "Abdoulk Diodoi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261260174?s=72&u=2cc0a3a0167c4885cea7b25ae13e61468b86077f&v=4",
+    "location": "Ouagadougou ",
+    "company": "Xonaba",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 141,
+    "createdAt": "2026-02-12T17:17:17Z"
   }
 ]
