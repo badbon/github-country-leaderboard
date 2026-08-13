@@ -94,5 +94,41 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-01-11T08:31:52Z"
+  },
+  {
+    "login": "aibarda25-png",
+    "name": "Aibar Diushenov ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261180534?s=72&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 47,
+    "createdAt": "2026-02-12T11:12:23Z"
+  },
+  {
+    "login": "Dasanovdesign-web",
+    "name": "Daniar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252473696?s=72&u=43ae680feafd246a9542f0447a57b494fb2d7c9f&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2026-01-01T16:45:31Z"
+  },
+  {
+    "login": "mdaryger",
+    "name": "MDaryger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255682386?s=72&u=fc8ef0d7e9b2ce2d4b4784e26ca9339e59119e29&v=4",
+    "location": "Bishkek",
+    "company": "MDaryger",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-01-18T12:42:52Z"
   }
 ]
