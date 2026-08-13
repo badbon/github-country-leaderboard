@@ -4234,5 +4234,53 @@
     "privateContributions": 0,
     "publicContributions": 620,
     "createdAt": "2026-03-18T10:40:42Z"
+  },
+  {
+    "login": "sleepingpinknoise",
+    "name": "dreamy orange",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277650794?s=72&u=b4f8a7d5a1530053dd3475804326ffd33fe98b6e&v=4",
+    "location": "Osaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 66,
+    "createdAt": "2026-04-20T06:40:31Z"
+  },
+  {
+    "login": "yuki-takana",
+    "name": "Yuki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274099662?s=72&u=ff5502e42ab5f11ca9c297b024665d04b96183ed&v=4",
+    "location": "Osaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 69,
+    "createdAt": "2026-04-06T19:46:43Z"
+  },
+  {
+    "login": "ponzu222",
+    "name": "Ponzu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265065886?s=72&u=bd6b69b5f3144091b336d3481da917b43645c226&v=4",
+    "location": "Osaka, eating takoyaki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2026-03-02T16:20:54Z"
+  },
+  {
+    "login": "AsagaM",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255822535?s=72&v=4",
+    "location": "Osaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-01-19T07:39:15Z"
   }
 ]

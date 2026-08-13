@@ -4150,5 +4150,113 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-11-06T09:20:16Z"
+  },
+  {
+    "login": "marnissi-nour",
+    "name": "Nour Marnissi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/240189079?s=72&u=6e59446428c74216020dce5667f7f049744ab293&v=4",
+    "location": "Tunis, Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2025-10-25T15:09:13Z"
+  },
+  {
+    "login": "mouhamed-achiche",
+    "name": "Mouhamed Achiche",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/242785882?s=72&u=3742755e1aabdbda7da1fbe0b814bb6439a0c0d6&v=4",
+    "location": "Tunisia 🇹🇳",
+    "company": "Individual",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2025-11-08T11:30:34Z"
+  },
+  {
+    "login": "ahmedbouhastine-arch",
+    "name": "Ahmed-Bh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/243862558?s=72&u=5b4b164a9a516fe94724aa831c4acedbb975ba69&v=4",
+    "location": "Tunisia, Tunis",
+    "company": "Vanguard Aviation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1306,
+    "createdAt": "2025-11-13T20:17:51Z"
+  },
+  {
+    "login": "eya-lachhab",
+    "name": "Eya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/249172250?s=72&u=f2d7e4cb6fbb35a7c5baa254ab9d41a930408aa1&v=4",
+    "location": "Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2025-12-11T20:41:37Z"
+  },
+  {
+    "login": "eya-mdemagh",
+    "name": "Eya Mdemagh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213670215?s=72&u=c2e9efbaf74d61c3650c16e362575f4e1690406c&v=4",
+    "location": "Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-05-27T17:07:00Z"
+  },
+  {
+    "login": "IT-Tunsa-TL",
+    "name": "IT-Tunsa-TL",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227999889?s=72&u=4b055a59ea11da47cd725997e48573c976ce6b9a&v=4",
+    "location": "Tunisia",
+    "company": "Tunsa",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-08-22T11:04:06Z"
+  },
+  {
+    "login": "ayagribi55-bot",
+    "name": "Gribi Aya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224397633?s=72&u=aebfbf9434337d29d8989e301f144f88a8fae255&v=4",
+    "location": "Tunis / Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 14,
+    "publicContributions": 22,
+    "createdAt": "2025-08-03T11:33:04Z"
+  },
+  {
+    "login": "HasseneGhariani",
+    "name": "Hassene Ghariani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198091067?s=72&u=d1db732e804573622d43f03d07f53d9d4e2d8044&v=4",
+    "location": "Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2025-02-06T15:36:04Z"
+  },
+  {
+    "login": "Hedi808",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198041195?s=72&v=4",
+    "location": "tunisia",
+    "company": "esprit",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 103,
+    "createdAt": "2025-02-06T08:54:00Z"
   }
 ]

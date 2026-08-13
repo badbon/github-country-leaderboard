@@ -2482,5 +2482,29 @@
     "privateContributions": 349,
     "publicContributions": 81,
     "createdAt": "2025-05-12T19:39:14Z"
+  },
+  {
+    "login": "mvxv0",
+    "name": "Milos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217743562?s=72&u=4112682d4ce1aed140fd571fa9d922a3443c88a8&v=4",
+    "location": "Novi Sad, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2025-06-24T10:23:55Z"
+  },
+  {
+    "login": "Marko-05",
+    "name": "Marko Đorđević",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215998347?s=72&u=bf4bf28d749d20cd3f576efc5471183c0807af1e&v=4",
+    "location": "Beograd, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2025-06-12T10:39:10Z"
   }
 ]

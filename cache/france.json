@@ -5902,5 +5902,29 @@
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2026-02-11T12:38:12Z"
+  },
+  {
+    "login": "mtsolution-git",
+    "name": "MT Solution",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/247863298?s=72&u=a1ab1dc352ab53480711f27c014dacc599e09658&v=4",
+    "location": "France/Luxembourg",
+    "company": "MT Solution",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 86,
+    "publicContributions": 5,
+    "createdAt": "2025-12-04T18:52:07Z"
+  },
+  {
+    "login": "whyneedd",
+    "name": "Jordan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82006962?s=72&u=b815df4724face4fbd4f988cfe3d3f1c37995a76&v=4",
+    "location": "France, Martinique",
+    "company": "@flashdev",
+    "twitterUsername": "",
+    "followers": 382,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-06T01:28:00Z"
   }
 ]

@@ -370,5 +370,77 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-04-26T15:35:15Z"
+  },
+  {
+    "login": "StellASIC",
+    "name": "#3787",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174938179?s=72&u=4b3902f9f94824b89444d2ca07f9f24432186152&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2024-07-07T10:47:31Z"
+  },
+  {
+    "login": "LiXu-cloud",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177731090?s=72&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2024-08-07T09:14:39Z"
+  },
+  {
+    "login": "Createch-Rex",
+    "name": "Rex Chio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155050169?s=72&u=999229fc1116cfe4277c46cff1ce91d85b00bf4d&v=4",
+    "location": "Macao",
+    "company": "Createch Innovations",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 807,
+    "publicContributions": 0,
+    "createdAt": "2023-12-28T06:25:34Z"
+  },
+  {
+    "login": "EthanChan050430",
+    "name": "EthanChan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165824891?s=72&u=3bf9991b2cf4ad40730f072fc0c69fa8d7f7046b&v=4",
+    "location": "Macao",
+    "company": "City University of Macau",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2024-04-02T16:58:54Z"
+  },
+  {
+    "login": "zouningcan",
+    "name": "Math_lover",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189433611?s=72&u=c4afa693fe9390644b155854bd88c70cab25e499&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-11-23T07:39:01Z"
+  },
+  {
+    "login": "BigDataResearchGroup",
+    "name": "MPU_BigDataResearchGroup",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180293291?s=72&u=80ea0456e527a563a9a56a85a8a3626a9de3c885&v=4",
+    "location": "Macao",
+    "company": "Macao Polytechnic University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2024-09-03T12:25:32Z"
   }
 ]

@@ -82,5 +82,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-11-18T21:30:52Z"
+  },
+  {
+    "login": "ScubaSourceCode",
+    "name": "Noel Adams",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79027847?s=72&v=4",
+    "location": "Saint Vincent and the Grenadines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-13T23:13:05Z"
+  },
+  {
+    "login": "dellon28",
+    "name": "Dellonte Boucher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88873783?s=72&u=0d5fd981637fa9a80660bac4fb52d5e36a18cbe5&v=4",
+    "location": "Saint Vincent and the Grenadines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2021-08-13T05:42:34Z"
   }
 ]

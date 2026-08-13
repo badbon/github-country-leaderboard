@@ -130,5 +130,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-14T17:10:55Z"
+  },
+  {
+    "login": "LDECODES",
+    "name": "Leon Evans",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94532389?s=72&v=4",
+    "location": "Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2021-11-17T11:04:20Z"
+  },
+  {
+    "login": "denzel-gustave",
+    "name": "Denzel Gustave",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87156086?s=72&u=bae14131f2f7888ed8760993c18d96f6aaecf758&v=4",
+    "location": "Saint Lucia",
+    "company": "Organization of Eastern Caribbean States Commission",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-09T00:02:46Z"
+  },
+  {
+    "login": "PGPillar",
+    "name": "H",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81403084?s=72&v=4",
+    "location": "Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2021-03-26T04:47:55Z"
   }
 ]

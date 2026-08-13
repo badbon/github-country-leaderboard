@@ -226,5 +226,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-09T23:08:30Z"
+  },
+  {
+    "login": "andymalo43",
+    "name": "Andy MALO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87163807?s=72&u=9c1524e42b005bd3a980371594ba419af980762a&v=4",
+    "location": "New-Caledonia",
+    "company": "CAFAT",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2021-07-09T04:36:14Z"
+  },
+  {
+    "login": "hermitoff",
+    "name": "Élodie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82811865?s=72&u=5e0374684bbe25c8741c0a296abdb85db3435536&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 9,
+    "publicContributions": 7,
+    "createdAt": "2021-04-19T10:37:02Z"
+  },
+  {
+    "login": "Eli0uce",
+    "name": "Eli0uce",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93868767?s=72&u=37335104972ad622ebd1dc3d1d2674829e7aedb9&v=4",
+    "location": "New-Caledonia",
+    "company": "Bebunk IT",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 68,
+    "createdAt": "2021-11-07T13:26:35Z"
+  },
+  {
+    "login": "Saimoen",
+    "name": "Grégory",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87112706?s=72&u=c4adce4ccaff49974c3616761ea12b60354ccfda&v=4",
+    "location": "Nouméa, New-Caledonia",
+    "company": "",
+    "twitterUsername": "GreksO_",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2021-07-08T05:59:54Z"
+  },
+  {
+    "login": "tamere-allo-peter",
+    "name": "Jérôme Alet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85658105?s=72&u=bac8513d618c3c2d5fc3af28fc628ce1a9aa5ed9&v=4",
+    "location": "New Caledonia",
+    "company": "OPT-NC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 106,
+    "publicContributions": 9,
+    "createdAt": "2021-06-10T02:27:58Z"
   }
 ]

@@ -2482,5 +2482,89 @@
     "privateContributions": 0,
     "publicContributions": 70,
     "createdAt": "2026-01-20T15:20:28Z"
+  },
+  {
+    "login": "ToniAms",
+    "name": "Toni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256755313?s=72&v=4",
+    "location": "Utrecht",
+    "company": "Utrecht University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-01-23T09:30:56Z"
+  },
+  {
+    "login": "BramLambertJansen",
+    "name": "Bram Jansen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282014853?s=72&v=4",
+    "location": "Utrecht",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 676,
+    "createdAt": "2026-05-05T17:24:39Z"
+  },
+  {
+    "login": "thijs-mogelijk",
+    "name": "Thijs Baars",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270381280?s=72&v=4",
+    "location": "Utrecht",
+    "company": "Mogelijk",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 732,
+    "publicContributions": 1,
+    "createdAt": "2026-03-23T14:20:56Z"
+  },
+  {
+    "login": "noahbishoppp",
+    "name": "Noah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274744172?s=72&v=4",
+    "location": "Utrecht",
+    "company": "Proton",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-09T07:45:50Z"
+  },
+  {
+    "login": "NetGnarus",
+    "name": "Joe Cordoba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282912698?s=72&v=4",
+    "location": "IJsselstein , Utrecht, NL",
+    "company": "IntentGate B.V.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 320,
+    "createdAt": "2026-05-08T13:51:58Z"
+  },
+  {
+    "login": "tapmaurer-repo",
+    "name": "Tim Maurer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274465116?s=72&u=696e8dc36d5e93a0f21084cd230df66b147e4b19&v=4",
+    "location": "Utrecht",
+    "company": "Aiden",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 14,
+    "publicContributions": 22,
+    "createdAt": "2026-04-08T09:07:39Z"
+  },
+  {
+    "login": "jochemwtf",
+    "name": "Jochem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253735326?s=72&u=b0c9c8d780db08aa62a6a737411ff0aace548456&v=4",
+    "location": "Utrecht",
+    "company": "@ordnary-com ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-08T14:11:55Z"
   }
 ]

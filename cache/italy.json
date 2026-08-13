@@ -3826,5 +3826,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-15T20:27:08Z"
+  },
+  {
+    "login": "TheRedKardinal",
+    "name": "RedKardinal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276544352?s=72&u=cff74481c88d833be7bc7404c0eff6d6e9959b37&v=4",
+    "location": "Napoli",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 536,
+    "createdAt": "2026-04-16T08:44:50Z"
+  },
+  {
+    "login": "pasuwlslew",
+    "name": "Pasquale Fontanella",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253750384?s=72&u=fa379ea12fa347709a53774bb152f1c0c92ef2ef&v=4",
+    "location": "Napoli",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-08T15:26:24Z"
   }
 ]
