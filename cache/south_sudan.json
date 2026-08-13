@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "login": "Drago-cod",
+    "name": "Drago Samuel Jared",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264761673?s=72&u=47708d910e4737bb975bf684663c47595919f685&v=4",
+    "location": "Juba, South Sudan",
+    "company": "",
+    "twitterUsername": "DragoSamuel2",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 116,
+    "createdAt": "2026-03-01T08:07:28Z"
+  },
+  {
+    "login": "david-Coder211",
+    "name": "David Mayak ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267279466?s=72&u=63a41f8d423b0b2f71b73fb808e596123dc7cc80&v=4",
+    "location": "South Sudan ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-11T08:37:37Z"
+  },
+  {
+    "login": "Yel-Mangok",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256357623?s=72&u=b48f4e4cac0cd13dd791d0a2257ce34efe6bcdce&v=4",
+    "location": "South Sudan",
+    "company": "TechPro",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 271,
+    "createdAt": "2026-01-21T14:03:11Z"
+  },
+  {
+    "login": "NebuTNBMiner",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261852673?s=72&u=1a20e121f106691a5bbf0eef75ab30857939916d&v=4",
+    "location": "South Sudan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 118,
+    "createdAt": "2026-02-16T04:49:12Z"
+  },
+  {
+    "login": "Charles-Machar1",
+    "name": "Charles Machar Nhial",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271168322?s=72&u=c208bfe8d9b8cf991778f749d9289c4fe161a104&v=4",
+    "location": "Juba-South Sudan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-03-26T07:02:57Z"
+  }
+]

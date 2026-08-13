@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "login": "ASSIKPAIzandine-dev",
+    "name": "ASSIKPA-Izandine-dev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276687727?s=72&u=13c1d836cc0df0fe68fab828a982dfd3ae0195d4&v=4",
+    "location": "Sokodé-Togo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-04-16T17:46:08Z"
+  },
+  {
+    "login": "ALBAN3886",
+    "name": "AET Technology ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268415107?s=72&u=afd3c04c88d88ddaed3113c5c5e4d26b720b0f88&v=4",
+    "location": "Togo",
+    "company": "AET Technology",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 1442,
+    "createdAt": "2026-03-15T17:25:51Z"
+  },
+  {
+    "login": "ablamkoumekpo28-maker",
+    "name": "KOUMEKPO Rodrigue",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269803623?s=72&u=86d4ee825ebe1dca4ce677c578c472d389e859cd&v=4",
+    "location": "Lomé,Togo",
+    "company": "IPNET",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-03-20T19:37:03Z"
+  },
+  {
+    "login": "flex68016-del",
+    "name": "Duah Prince Yao AMANKWAAH",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278218832?s=72&v=4",
+    "location": "Lome, TOGO",
+    "company": "",
+    "twitterUsername": "duah_princo",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 77,
+    "createdAt": "2026-04-21T22:02:22Z"
+  },
+  {
+    "login": "mathiawelia-cyber",
+    "name": "Mathias Ewakina AWELI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269928531?s=72&u=a9b909bd40923200a139bc4e4af10237d7013306&v=4",
+    "location": "Togo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-03-21T11:51:06Z"
+  },
+  {
+    "login": "Nissou-stalk",
+    "name": "N'DITSI Denise ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274211798?s=72&u=34aca94209a06e6e4208ee937f4052cf7f436af0&v=4",
+    "location": "Lomé Togo ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-07T08:34:30Z"
+  }
+]

@@ -58,5 +58,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-07T15:03:56Z"
+  },
+  {
+    "login": "SwisGeek",
+    "name": "SwissGeek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257275236?s=72&v=4",
+    "location": "Suisse",
+    "company": "Conception et développement web",
+    "twitterUsername": "adpixnet",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-26T10:05:16Z"
+  },
+  {
+    "login": "Minebob09",
+    "name": "Sevan Dal Mas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260205708?s=72&u=711a8178f45a6ad74bd54f28bbfa99022c894183&v=4",
+    "location": "Saint-Maurice, Suisse",
+    "company": "sev-lab",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-08T09:43:46Z"
   }
 ]
