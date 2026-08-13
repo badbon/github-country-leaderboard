@@ -1028,7 +1028,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 61,
     "createdAt": "2026-04-06T11:44:31Z"
   },
   {
@@ -1495,7 +1495,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2009,
+    "privateContributions": 2036,
     "publicContributions": 1,
     "createdAt": "2026-04-20T15:03:38Z"
   },
@@ -13446,7 +13446,7 @@
     "location": "Manaus, Brasil",
     "company": "Tendoshk Deva Path",
     "twitterUsername": "",
-    "followers": 115,
+    "followers": 116,
     "privateContributions": 4310,
     "publicContributions": 236,
     "createdAt": "2026-03-24T19:53:42Z"
@@ -13458,7 +13458,7 @@
     "location": "Brasil",
     "company": "@inova-mind ",
     "twitterUsername": "",
-    "followers": 92,
+    "followers": 93,
     "privateContributions": 0,
     "publicContributions": 254,
     "createdAt": "2026-03-11T22:57:09Z"
@@ -13808,7 +13808,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 573,
+    "publicContributions": 578,
     "createdAt": "2026-03-19T18:58:00Z"
   },
   {
@@ -13830,7 +13830,7 @@
     "location": "Brasil",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 4,
     "publicContributions": 147,
     "createdAt": "2026-03-18T21:51:51Z"
@@ -13952,7 +13952,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 141,
     "createdAt": "2026-03-06T23:11:49Z"
   },
   {
@@ -13976,7 +13976,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1045,
+    "publicContributions": 1046,
     "createdAt": "2026-05-11T17:33:41Z"
   },
   {
@@ -13994,13 +13994,13 @@
   {
     "login": "Milkaarz",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269610180?s=72&u=c059df580dfd3029ec23c5f42b24043354ddfa41&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269610180?s=72&u=8c68346ad795cad1def14bd734ec7a70ecc2dbec&v=4",
     "location": "Brasil",
     "company": "Fatec",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 61,
     "createdAt": "2026-03-20T00:54:00Z"
   },
   {
@@ -14036,7 +14036,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 56,
     "createdAt": "2026-03-10T13:01:40Z"
   },
   {
@@ -14048,7 +14048,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 150,
     "createdAt": "2026-04-16T09:35:16Z"
   },
   {
@@ -14190,8 +14190,8 @@
     "location": "Paranavaí, Paraná, Brasil",
     "company": " Suco Prat's",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 237,
+    "followers": 7,
+    "privateContributions": 245,
     "publicContributions": 20,
     "createdAt": "2026-03-24T23:45:23Z"
   },
@@ -27490,5 +27490,197 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-04-13T01:28:21Z"
+  },
+  {
+    "login": "isabelly-f-lara",
+    "name": "Isabelly Lara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283971803?s=72&u=4b3344b4422051d819e0028bf15f5630c0a94b7c&v=4",
+    "location": "São Paulo, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-12T11:23:25Z"
+  },
+  {
+    "login": "filhodepeterpan",
+    "name": "Douglas Soares",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157928162?s=72&u=d987f4798862d627bfdfcf77df4d07a5d8e1c49c&v=4",
+    "location": "Praia Grande - SP, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 516,
+    "createdAt": "2024-01-27T23:12:27Z"
+  },
+  {
+    "login": "rafaelmaia-dev",
+    "name": "Rafael Neto Maia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186657454?s=72&u=1aae530dc5aece424aec668a18a9867020ba27ec&v=4",
+    "location": "Praia Grande, São Paulo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 567,
+    "createdAt": "2024-10-29T02:39:42Z"
+  },
+  {
+    "login": "luanfelixcoding",
+    "name": "luan felix pereira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177491881?s=72&u=25c5005cdc66556d9acc35b6a189dfca6307135d&v=4",
+    "location": "Praia Grande, Brazil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 60,
+    "createdAt": "2024-08-05T00:40:17Z"
+  },
+  {
+    "login": "PedroDJesus",
+    "name": "Pedro de Jesus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183165577?s=72&u=964cda0cdf62b8bc71fd285af60d7a86d36690fc&v=4",
+    "location": "Praia Grande - São Paulo, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2024-09-28T01:40:19Z"
+  },
+  {
+    "login": "levizzzx",
+    "name": "Levi Oliveira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178173865?s=72&u=dfdbaecff44f01299e449f80dc9349fc96f7488a&v=4",
+    "location": "Praia Grande, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 10,
+    "publicContributions": 2,
+    "createdAt": "2024-08-12T13:19:03Z"
+  },
+  {
+    "login": "davigrecco",
+    "name": "Davi Grecco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166561650?s=72&u=bf370ba91cc71d3084caac4a8fb4434e2da13fa5&v=4",
+    "location": "Praia Grande, São Paulo, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-09T21:43:47Z"
+  },
+  {
+    "login": "Spiderigor12",
+    "name": "Igor Silva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178384806?s=72&u=eaf49fdd0b266025a4190f9e785336853066ea9c&v=4",
+    "location": "Praia Grande, São Paulo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2024-08-14T10:52:18Z"
+  },
+  {
+    "login": "PedroRomeroDev",
+    "name": "Pedro Romero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172616244?s=72&u=cdcde4bd016109d222b0fa035830d8231b100cfd&v=4",
+    "location": "Praia Grande, São Paulo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2024-06-13T14:38:50Z"
+  },
+  {
+    "login": "Esdras34",
+    "name": "Esdras Reis ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189771910?s=72&u=44f1178134571970ca1506e9a7e8f8ad9afd6b91&v=4",
+    "location": "são paulo, Praia grande.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2024-11-26T17:00:53Z"
+  },
+  {
+    "login": "maiamilena",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157393324?s=72&u=aa3bca288ab62ac4dfb23a16481be7d1c2f52746&v=4",
+    "location": "Praia da Pipa, (RN), Brazil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2024-01-22T15:23:36Z"
+  },
+  {
+    "login": "jeannecaputo",
+    "name": "Jeanne Caputo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170570690?s=72&u=61796184975b66f21d27f7a4f11d518beacb0811&v=4",
+    "location": "Praia Grande (SP) - Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 21,
+    "publicContributions": 23,
+    "createdAt": "2024-05-22T19:54:06Z"
+  },
+  {
+    "login": "Nicolaswkz",
+    "name": "Nicolas Andrade",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185417282?s=72&u=be467edeb070bd2321e9c615bb4d492780292838&v=4",
+    "location": "Praia Grande, sp, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-10-17T18:43:41Z"
+  },
+  {
+    "login": "Pedro-Office",
+    "name": "DevAdolescente",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177142041?s=72&u=857a48010f42812e4b266aaed36ac0cced4d6f79&v=4",
+    "location": "Praia Grande, São Paulo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-07-31T15:41:25Z"
+  },
+  {
+    "login": "Lucas-S-De-Souza",
+    "name": "Lucas Santana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171101119?s=72&u=dcc90ed60d83ee57fbff9e20b09b5a8d844248b2&v=4",
+    "location": "Praia Grande, SP, Brazil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2024-05-29T00:20:53Z"
+  },
+  {
+    "login": "EduardoL07",
+    "name": "Eduardo Lessa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171292200?s=72&u=6cdcc7a5e6f7120ecd969b31efb1465392e20650&v=4",
+    "location": "Praia Grande, São Paulo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2024-05-30T21:00:53Z"
   }
 ]

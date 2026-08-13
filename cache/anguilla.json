@@ -34,5 +34,29 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2021-04-21T21:29:09Z"
+  },
+  {
+    "login": "mikecalendo",
+    "name": "Mike Calendo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86505101?s=72&u=6305205b21aa843500a37cd607b44c18592244d5&v=4",
+    "location": "The Valley, Arizona",
+    "company": "@buildfunctions",
+    "twitterUsername": "mikecalendo",
+    "followers": 3,
+    "privateContributions": 2018,
+    "publicContributions": 102,
+    "createdAt": "2021-06-26T02:44:29Z"
+  },
+  {
+    "login": "Ugly8",
+    "name": "Martin Boone",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93706618?s=72&u=db18148b6724ecd138b089a74db66fb38bd02197&v=4",
+    "location": "The Valley of the Sun",
+    "company": "thekryptikyeti.Wordpress.com ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-04T09:06:33Z"
   }
 ]

@@ -5926,5 +5926,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-06T01:28:00Z"
+  },
+  {
+    "login": "thomasefevre",
+    "name": "Thomas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262282784?s=72&v=4",
+    "location": "Nantes",
+    "company": "Mathius",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-18T06:55:03Z"
+  },
+  {
+    "login": "Mbhnnn",
+    "name": "Matthieu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255533726?s=72&u=61a8e3e4f72603ae8fb7d2316addab604b841cef&v=4",
+    "location": "Nantes",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-01-17T13:27:49Z"
+  },
+  {
+    "login": "felixhennequin-gif",
+    "name": "Félix Hennequin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267384543?s=72&u=b02eb2ab2d53e78e682b58fb90db3eed2a8a936b&v=4",
+    "location": "Nantes",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 385,
+    "publicContributions": 547,
+    "createdAt": "2026-03-11T15:47:57Z"
   }
 ]

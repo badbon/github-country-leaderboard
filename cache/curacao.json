@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "activitiescuracao",
+    "name": "Activities Curacao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/250666781?s=72&v=4",
+    "location": "Dr. Martin Luther King Blvd zn, Cornelisbay BaporKibra, Willemstad, Curacao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-12-20T08:25:39Z"
+  },
+  {
+    "login": "agenteardilla47",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/221435998?s=72&v=4",
+    "location": "willemstad",
+    "company": "Antheus",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2025-07-17T23:29:03Z"
+  }
+]

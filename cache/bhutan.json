@@ -427,7 +427,7 @@
     "company": "Selise Bhutan",
     "twitterUsername": "TsherinDendup77",
     "followers": 101,
-    "privateContributions": 1187,
+    "privateContributions": 1188,
     "publicContributions": 0,
     "createdAt": "2023-03-01T13:03:18Z"
   },
@@ -499,7 +499,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2097,
+    "privateContributions": 2098,
     "publicContributions": 11,
     "createdAt": "2023-02-22T06:26:14Z"
   },
@@ -694,5 +694,89 @@
     "privateContributions": 0,
     "publicContributions": 42,
     "createdAt": "2023-02-09T03:20:14Z"
+  },
+  {
+    "login": "AmitPokhrel05082002",
+    "name": "Amit Sharma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129354623?s=72&u=e00a5e90751e8138a55513de2623523a65c46302&v=4",
+    "location": "Babesa, Thimphu",
+    "company": "NGN Technologies Pvt.Ltd",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 891,
+    "publicContributions": 118,
+    "createdAt": "2023-03-30T03:31:28Z"
+  },
+  {
+    "login": "Choedra",
+    "name": "Choedra Gyamtsho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152841104?s=72&u=a8203ccbc5965782be5b7c79e08ebb4fad813b94&v=4",
+    "location": "Chubachu, Thimphu",
+    "company": "Light Webx",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 390,
+    "createdAt": "2023-12-04T05:58:54Z"
+  },
+  {
+    "login": "namgaytobden",
+    "name": "Namgay Tobden",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121597739?s=72&v=4",
+    "location": "Thimphu",
+    "company": "@selisebt",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1928,
+    "publicContributions": 4,
+    "createdAt": "2022-12-29T05:41:19Z"
+  },
+  {
+    "login": "sujan-selise",
+    "name": "Sujan Mongar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126673079?s=72&u=d4856abd0b640fb07499e4d21f536bf6b6ea7339&v=4",
+    "location": "Thimphu",
+    "company": "Selise Bhutan",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-01T11:20:05Z"
+  },
+  {
+    "login": "dependrabas",
+    "name": "Dependra Basnet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126497750?s=72&u=8d143451c231f49b3dbd29527aa5a0eed4e27c21&v=4",
+    "location": "Thimphu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 92,
+    "publicContributions": 32,
+    "createdAt": "2023-02-27T15:53:05Z"
+  },
+  {
+    "login": "lhatshoks",
+    "name": "lhatsho melam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142734584?s=72&u=568d1657748565a033f8d32048eac6ddaf86992c&v=4",
+    "location": "Thimphu",
+    "company": "Selise Digital Platforms",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-20T14:29:23Z"
+  },
+  {
+    "login": "ChogyelXplore",
+    "name": "Yeshi Chogyel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127821844?s=72&v=4",
+    "location": "Kabjisa, Thimphu",
+    "company": "Gyalpozhing College of Information Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-14T05:19:05Z"
   }
 ]

@@ -2026,5 +2026,41 @@
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2024-03-14T20:46:51Z"
+  },
+  {
+    "login": "klarakrnjic",
+    "name": "Klara Krnjić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190013893?s=72&u=ff82caa19b7db925be05b32772833b7d3a470452&v=4",
+    "location": "Kutina, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 54,
+    "createdAt": "2024-11-28T16:33:04Z"
+  },
+  {
+    "login": "bernardkrehula",
+    "name": "Bernard Krehula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182347720?s=72&u=092e27834ad6cebf30c63852c98b35d8168ecaba&v=4",
+    "location": "Varaždin, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1288,
+    "createdAt": "2024-09-21T13:25:07Z"
+  },
+  {
+    "login": "KristijanTV",
+    "name": "Kristijan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158732651?s=72&u=578c634cdb390080f7de9ebe9868bf12c128e5f8&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 645,
+    "createdAt": "2024-02-03T10:30:45Z"
   }
 ]

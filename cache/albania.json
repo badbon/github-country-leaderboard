@@ -595,7 +595,7 @@
     "company": "@Digital-Euphoria ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 381,
+    "privateContributions": 385,
     "publicContributions": 0,
     "createdAt": "2025-08-01T13:38:41Z"
   },
@@ -730,5 +730,113 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-08-15T16:31:36Z"
+  },
+  {
+    "login": "Enes-Stastoli",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207348319?s=72&u=28ef3979b0bf25f6c05084acec1a5c18d6487d4f&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2025-04-12T14:49:05Z"
+  },
+  {
+    "login": "KimberliGjergjani",
+    "name": "Kimberli Gjergjani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/241719004?s=72&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2025-11-03T09:04:04Z"
+  },
+  {
+    "login": "atisalbania",
+    "name": "ATIS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199622019?s=72&u=a263676868b18a14dbecf054dd092cb774348736&v=4",
+    "location": "Tirana",
+    "company": "ATIS",
+    "twitterUsername": "ATIS_Shpk",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-02-17T13:55:19Z"
+  },
+  {
+    "login": "nergjoni",
+    "name": "Gentjan Nergjoni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238447060?s=72&u=b1716fe3311c2190dfad75ca2cf5a98561362aa2&v=4",
+    "location": "Tirana",
+    "company": "LocalWeb",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2025-10-16T09:10:08Z"
+  },
+  {
+    "login": "iris18102006",
+    "name": "iris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238843251?s=72&u=46bc644d697c09c71aa2d4f7df7e8a1c6327f615&v=4",
+    "location": "tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 101,
+    "createdAt": "2025-10-18T11:38:31Z"
+  },
+  {
+    "login": "DarjolLala",
+    "name": "Darjol Lala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/241339306?s=72&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2025-10-31T16:38:19Z"
+  },
+  {
+    "login": "eneacangoja",
+    "name": "Enea Cangoja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208020129?s=72&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-04-17T12:15:02Z"
+  },
+  {
+    "login": "CONNXTA",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232564503?s=72&v=4",
+    "location": "Tirana",
+    "company": "CONNXTA sh.p.k",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2025-09-16T10:16:35Z"
+  },
+  {
+    "login": "esmeraldahasa1",
+    "name": "Esmeralda Hasa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211062096?s=72&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2025-05-09T21:41:00Z"
   }
 ]

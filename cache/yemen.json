@@ -487,7 +487,7 @@
     "company": "Trades",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 5426,
+    "privateContributions": 5473,
     "publicContributions": 128,
     "createdAt": "2025-10-10T18:27:45Z"
   },
@@ -2014,5 +2014,65 @@
     "privateContributions": 234,
     "publicContributions": 106,
     "createdAt": "2025-01-14T21:41:15Z"
+  },
+  {
+    "login": "manafkemo",
+    "name": "Manaf Kemo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238896470?s=72&u=6e6d1fb45eb01805d7df51a798879d80d2ee2bda&v=4",
+    "location": "Sana'a",
+    "company": "",
+    "twitterUsername": "manafkemo",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 58,
+    "createdAt": "2025-10-18T18:49:45Z"
+  },
+  {
+    "login": "SaeedAl-Mamari",
+    "name": "Saeed Al-Mamari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195216114?s=72&v=4",
+    "location": "Sana'a",
+    "company": "Jood Towers",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-01-15T22:00:47Z"
+  },
+  {
+    "login": "Badr-Al-Zekri",
+    "name": "Badr Basem Abbass Othman Al-Zekri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/223092559?s=72&v=4",
+    "location": "Hail street, sana'a",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2025-07-27T10:09:38Z"
+  },
+  {
+    "login": "mohbds1",
+    "name": "Mohammed Bader",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219924123?s=72&u=ff2135a84bb37f5ac7d5b38c2c7d387ab3854eab&v=4",
+    "location": "Sana'a",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 108,
+    "createdAt": "2025-07-08T22:43:10Z"
+  },
+  {
+    "login": "AbdullehSallamAlQadry",
+    "name": "Abdulleh Sallam AL-Qadri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197631372?s=72&v=4",
+    "location": "Sana'a",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2025-02-03T15:01:31Z"
   }
 ]
