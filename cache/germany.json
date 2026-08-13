@@ -787,7 +787,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1650,
+    "privateContributions": 1677,
     "publicContributions": 2697,
     "createdAt": "2026-01-15T21:24:44Z"
   },
@@ -5228,7 +5228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 276,
+    "publicContributions": 280,
     "createdAt": "2026-01-29T12:42:54Z"
   },
   {
@@ -11398,5 +11398,77 @@
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2024-03-16T13:32:35Z"
+  },
+  {
+    "login": "anil-eser",
+    "name": "Anil ESER",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255178690?s=72&u=6003ba42f17cabe30217d4fdf1d8503ced9bb500&v=4",
+    "location": "Cologne",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2026-01-15T17:44:12Z"
+  },
+  {
+    "login": "LukascKuehne",
+    "name": "Lukas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269701089?s=72&u=ee3e035e34a9399f996b23fe78401c947b2baa97&v=4",
+    "location": "Cologne/Düsseldorf",
+    "company": "@mmkts-copilot ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-20T10:45:17Z"
+  },
+  {
+    "login": "gero-duppel-dl",
+    "name": "Gero Duppel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258871639?s=72&u=a0e15f4fb3dad1f0809caa9dc9837ebcc4957971&v=4",
+    "location": "Cologne",
+    "company": "Digitale Leute School",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-02-02T16:14:37Z"
+  },
+  {
+    "login": "ewermes",
+    "name": "Eike Andre Wermes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275949868?s=72&u=180546796c0782250d17d9884bd2682d08561280&v=4",
+    "location": "Cologne",
+    "company": "@deloitte",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 10,
+    "publicContributions": 1,
+    "createdAt": "2026-04-14T09:10:16Z"
+  },
+  {
+    "login": "oezercet",
+    "name": "Özer  Cet (Jaseph)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255506906?s=72&u=77b7b85b3b140efc22937015890282db7e0e8d7e&v=4",
+    "location": "Cologne",
+    "company": "",
+    "twitterUsername": "jaseph_",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-01-17T09:42:36Z"
+  },
+  {
+    "login": "simontoronto",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270644868?s=72&u=8965719b32877d9a3aed6a6c78da6bb88e04bea6&v=4",
+    "location": "Cologne",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-24T12:03:42Z"
   }
 ]

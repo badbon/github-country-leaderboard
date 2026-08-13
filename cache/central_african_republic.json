@@ -70,5 +70,29 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-12-03T11:18:48Z"
+  },
+  {
+    "login": "Nanobolide",
+    "name": "Geoffroy Maidou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98744324?s=72&u=c617e00e00dfd6512459c011ee1fbf2ff32d9f76&v=4",
+    "location": "Remote ,Bangui , Centrafrique 🇨🇫 ;",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 241,
+    "publicContributions": 127,
+    "createdAt": "2022-01-31T10:58:11Z"
+  },
+  {
+    "login": "tacopola",
+    "name": "polaDev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100738110?s=72&u=0fd4b055c9eeea298c24a22908a05e47003e6d71&v=4",
+    "location": "Bangui",
+    "company": "Google",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2022-03-02T00:57:59Z"
   }
 ]

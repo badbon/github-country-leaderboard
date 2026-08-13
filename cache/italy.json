@@ -4294,5 +4294,29 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-03-20T14:20:02Z"
+  },
+  {
+    "login": "gianluca-demichelis-eng",
+    "name": "Gian Luca De Michelis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282509487?s=72&u=89c3411eca6d15f922d1758a32edbb0f4b0dda7d&v=4",
+    "location": "Turin",
+    "company": "Engineering Ingegneria Informatica S.p.A. @DevExpPlatform ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-07T08:14:46Z"
+  },
+  {
+    "login": "antonioduch",
+    "name": "Antonio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261415320?s=72&u=fd612bdf80be246610e43b2944fdc7a926911c4f&v=4",
+    "location": "Turin 📍",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2026-02-13T11:56:21Z"
   }
 ]

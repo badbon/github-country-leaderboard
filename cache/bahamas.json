@@ -694,5 +694,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-12T22:27:36Z"
+  },
+  {
+    "login": "aamasse16",
+    "name": "Aaron Masse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112958171?s=72&u=f1b2f87621067c103a91520828b21867e80af710&v=4",
+    "location": "Nassau, NY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-06T14:01:40Z"
+  },
+  {
+    "login": "Umorilol",
+    "name": "Jacob Gallucci",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99937650?s=72&v=4",
+    "location": "Nassau, NY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2022-02-18T03:01:43Z"
   }
 ]

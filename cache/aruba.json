@@ -130,5 +130,29 @@
     "privateContributions": 89,
     "publicContributions": 83,
     "createdAt": "2020-03-15T19:23:20Z"
+  },
+  {
+    "login": "EstherPlomp",
+    "name": "Esther Plomp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46314469?s=72&u=18af485b95e8d7c361387719f71b754a22e731f1&v=4",
+    "location": "Aruba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 67,
+    "privateContributions": 0,
+    "publicContributions": 486,
+    "createdAt": "2019-01-02T08:55:11Z"
+  },
+  {
+    "login": "Antoine0823",
+    "name": "N21",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52585160?s=72&u=ecb9d4a3fd46256880f4d65d35b6b14789b595ff&v=4",
+    "location": "Aruba",
+    "company": "Brittec",
+    "twitterUsername": "BrittenAntoine",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-05T22:30:53Z"
   }
 ]

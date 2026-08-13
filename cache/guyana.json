@@ -238,5 +238,53 @@
     "privateContributions": 144,
     "publicContributions": 49,
     "createdAt": "2022-03-22T22:59:35Z"
+  },
+  {
+    "login": "DanielleSison",
+    "name": "Danielle Sison",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118702217?s=72&u=43f2ad8967717478e73a81733bdad5e96874e71d&v=4",
+    "location": "Georgetown, TX",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-21T02:07:55Z"
+  },
+  {
+    "login": "cadenk0",
+    "name": "Caden Khuu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117611429?s=72&v=4",
+    "location": "Georgetown University",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2022-11-07T01:34:22Z"
+  },
+  {
+    "login": "jucax",
+    "name": "Juan Carlos Martinez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98626897?s=72&u=a60b518dc0d67b1033f5854e0e7560c8234244f2&v=4",
+    "location": "Georgetown, TX",
+    "company": "Southwestern University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 193,
+    "createdAt": "2022-01-29T01:27:08Z"
+  },
+  {
+    "login": "LAlmeida5",
+    "name": "Luis Almeida",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103457220?s=72&u=ad49afff9a4bd5612509dd8f4bf4fa636a5c3b83&v=4",
+    "location": "Georgetown, TX",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-11T19:45:02Z"
   }
 ]

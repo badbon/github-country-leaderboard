@@ -7582,5 +7582,41 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-09-10T08:39:54Z"
+  },
+  {
+    "login": "agarenhas",
+    "name": "Álvaro García",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231532056?s=72&u=06d790dd6dd1701af872366840641f1fd8088217&v=4",
+    "location": "Santiago de Compostela, Galicia, Spain",
+    "company": "Universidade de Santiago de Compostela",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2025-09-10T16:52:18Z"
+  },
+  {
+    "login": "adrianrguez314",
+    "name": "Adrian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177678808?s=72&u=16fcfb3d657d96a300d2a4ad77b789072c031809&v=4",
+    "location": "Tenerife, Canary Island, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 130,
+    "createdAt": "2024-08-06T19:48:06Z"
+  },
+  {
+    "login": "MarioHB25",
+    "name": "Mario Hidalgo Berrocal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182207286?s=72&u=4eeb4cd67bf2f6d8f11eedad72907a49276e19b2&v=4",
+    "location": "Tenerife island, Canary islands, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-09-20T08:00:09Z"
   }
 ]

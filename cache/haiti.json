@@ -586,5 +586,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-17T16:33:25Z"
+  },
+  {
+    "login": "CalvertWanguy",
+    "name": "Wanguy Calvert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157548722?s=72&u=b082a1648e222dbe8e45b3ba2bb21c2a42fae48e&v=4",
+    "location": "Port-Au-Prince",
+    "company": "Reves & Voyages",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 139,
+    "createdAt": "2024-01-24T00:27:05Z"
+  },
+  {
+    "login": "TchoucoPeter",
+    "name": "Patrick TELEMAQUE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164587182?s=72&u=c51c7b0bba31655e1c3205bc5cd6ce234e283ff8&v=4",
+    "location": "Port-au-Prince, Haïti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-23T01:18:47Z"
   }
 ]

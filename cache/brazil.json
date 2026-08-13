@@ -3896,7 +3896,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 79,
-    "publicContributions": 142,
+    "publicContributions": 144,
     "createdAt": "2026-04-06T02:09:04Z"
   },
   {
@@ -16016,7 +16016,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 40,
     "createdAt": "2026-04-29T23:51:54Z"
   },
   {
@@ -16076,7 +16076,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 92,
     "createdAt": "2026-03-17T13:36:28Z"
   },
   {
@@ -16808,7 +16808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 26,
     "createdAt": "2026-03-11T01:57:19Z"
   },
   {
@@ -16820,7 +16820,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 81,
     "createdAt": "2026-04-05T11:06:48Z"
   },
   {
@@ -16831,8 +16831,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 21,
-    "publicContributions": 24,
+    "privateContributions": 26,
+    "publicContributions": 29,
     "createdAt": "2026-04-12T18:03:37Z"
   },
   {
@@ -27706,5 +27706,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-05T14:10:12Z"
+  },
+  {
+    "login": "OtavioGomes7",
+    "name": "Otavio Gomes de Oliveira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283985018?s=72&u=fe910e4be069434c9b98cd75de6086800858af87&v=4",
+    "location": "Brasil — São Paulo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2026-05-12T12:13:12Z"
+  },
+  {
+    "login": "alexandregial-cmd",
+    "name": "Alexandre Gianneff Loureiro Alves",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273895934?s=72&u=9aa18fcf3afdc6700afd44a700ee111451f24021&v=4",
+    "location": "São Paulo, SP, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-04-06T02:24:34Z"
+  },
+  {
+    "login": "aureliofaria",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284100184?s=72&v=4",
+    "location": "Belo Horizonte, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-12T18:50:17Z"
+  },
+  {
+    "login": "lucaspradoeng-data",
+    "name": "Lucas Prado Siqueira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278096974?s=72&u=f51663329732d44b0055ae1b67c85fc3e96068eb&v=4",
+    "location": "Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 67,
+    "createdAt": "2026-04-21T13:28:06Z"
   }
 ]

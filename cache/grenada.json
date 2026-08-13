@@ -238,5 +238,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-16T18:21:10Z"
+  },
+  {
+    "login": "kranks40",
+    "name": "Oketo Peters",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57330406?s=72&v=4",
+    "location": "Grenada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2019-11-03T20:35:20Z"
+  },
+  {
+    "login": "AlexS473",
+    "name": "Shereece Victor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46582048?s=72&u=7c40702d63f4ba40977f342f6aa0f424250a2bb1&v=4",
+    "location": "Grenada",
+    "company": "@Totally-Random-Productions ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 88,
+    "publicContributions": 3,
+    "createdAt": "2019-01-11T00:35:25Z"
   }
 ]

@@ -9730,5 +9730,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-11T01:26:56Z"
+  },
+  {
+    "login": "elephantabo0",
+    "name": "Brenda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115074347?s=72&u=9545b4ea36ebd06cea385b0dbce845a74ed56487&v=4",
+    "location": "Santo domingo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-10-05T09:27:33Z"
+  },
+  {
+    "login": "RicoAndWise",
+    "name": "Leonardo J",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100172424?s=72&u=897b623ddb703fc39551285365117e2e01679842&v=4",
+    "location": "Santo Domingo, DN.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-22T00:12:02Z"
+  },
+  {
+    "login": "SamirMoammer",
+    "name": "Samir Moammer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107196065?s=72&v=4",
+    "location": "Santo Domingo Distrito Nacional",
+    "company": "Mobe Industrial SRL",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-06-09T13:38:03Z"
+  },
+  {
+    "login": "juventudesgto",
+    "name": "JuventudEsGto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108900455?s=72&v=4",
+    "location": "C. Fray Martin de Valencia 102, Santo Domingo, 37557 León, Gto.",
+    "company": "JuventudEsGto",
+    "twitterUsername": "JuventudEsGto",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-07T20:26:52Z"
   }
 ]
