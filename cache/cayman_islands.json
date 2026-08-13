@@ -82,5 +82,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-27T22:03:00Z"
+  },
+  {
+    "login": "dearlyzin",
+    "name": "d",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148608449?s=72&u=c92460420e9e9d61601f27ccfbde62e9600db4d4&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2023-10-21T05:24:52Z"
+  },
+  {
+    "login": "restaking-cloud",
+    "name": "Restaking Cloud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147556181?s=72&u=fa1911bd6faab81e9fa28d3fcef17cf683464e53&v=4",
+    "location": "Cayman Islands",
+    "company": "Abstract Systems",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-10T20:34:12Z"
+  },
+  {
+    "login": "s95268",
+    "name": "s95",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138327769?s=72&u=31eeb64fddfdef33d12cbee137a6f6011354ed9a&v=4",
+    "location": "Cayman Islands",
+    "company": "SafetyNet",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 35,
+    "publicContributions": 0,
+    "createdAt": "2023-07-01T19:39:17Z"
+  },
+  {
+    "login": "Bitloanscapital",
+    "name": "Bitloanscapital",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136722015?s=72&u=7630e41bd3219956732b5f2e57dd1ea7e9f1c44e&v=4",
+    "location": "161 Shedden Rd, George Town 1105, Cayman Islands",
+    "company": "Bitloanscapital",
+    "twitterUsername": "Bitloanscapital",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-15T14:04:22Z"
+  },
+  {
+    "login": "triplebeamdream",
+    "name": "triplebeamdream",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145105287?s=72&u=b24971cd1441c32d2ab3bdf1dab0957d65632e90&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-15T07:47:56Z"
+  },
+  {
+    "login": "Bazaar-ky",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131716957?s=72&u=500ae6978b90d8606e0d5e9bd5712b866ef6422b&v=4",
+    "location": "Grand Cayman, Cayman Islands",
+    "company": "Bazaar",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-24T20:55:58Z"
+  },
+  {
+    "login": "ExitLabs",
+    "name": "EXIT Labs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132615941?s=72&u=8750d40fd25e5c2e81e3ab0c8eccf9eeaddd12f1&v=4",
+    "location": "Cayman Islands",
+    "company": "Exit Labs",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-04T20:17:46Z"
   }
 ]

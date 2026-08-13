@@ -139,8 +139,8 @@
     "company": "[Redacted]",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 296,
-    "publicContributions": 1529,
+    "privateContributions": 298,
+    "publicContributions": 1541,
     "createdAt": "2026-05-03T17:37:00Z"
   },
   {
@@ -5383,7 +5383,7 @@
     "company": "SheQAI Research",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2796,
+    "privateContributions": 2797,
     "publicContributions": 121,
     "createdAt": "2026-02-20T19:13:43Z"
   },
@@ -5794,5 +5794,89 @@
     "privateContributions": 0,
     "publicContributions": 85,
     "createdAt": "2024-02-27T10:34:42Z"
+  },
+  {
+    "login": "SturkaCircutz",
+    "name": "sturka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254088624?s=72&u=07770dedb5fece70950cbfdea3297a1895da2f0b&v=4",
+    "location": "Edmonton, AB",
+    "company": "circutzflow",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 37,
+    "publicContributions": 793,
+    "createdAt": "2026-01-10T09:37:51Z"
+  },
+  {
+    "login": "eric-spink-agile",
+    "name": "Eric Spink",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263420181?s=72&u=98cbdafa62f83c7805c50be6cce044322f3f6193&v=4",
+    "location": "Edmonton, Alberta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2026-02-23T16:24:03Z"
+  },
+  {
+    "login": "jacob-ualberta",
+    "name": "Jacob Smith",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263782577?s=72&u=7749b60a6d5d2b124cb5c464c4a224e88f255b20&v=4",
+    "location": "Edmonton, Alberta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-24T23:58:37Z"
+  },
+  {
+    "login": "suka-r",
+    "name": "Salma Radwan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252702715?s=72&v=4",
+    "location": "Edmonton, AB",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-01-03T07:03:54Z"
+  },
+  {
+    "login": "rachelbotley",
+    "name": "Rachel Botley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268250971?s=72&u=caa3ee9ffcd1da8d6dafc4c151c77de8a7dd8988&v=4",
+    "location": "Edmonton, AB",
+    "company": "@fullspecsystems",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-03-14T21:21:08Z"
+  },
+  {
+    "login": "robin-marv",
+    "name": "Marv",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264330478?s=72&u=8121c3ed3fa3b5fc67d488e56cc03376364e280e&v=4",
+    "location": "Edmonton, AB",
+    "company": "Robin",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1188,
+    "publicContributions": 99,
+    "createdAt": "2026-02-27T05:25:25Z"
+  },
+  {
+    "login": "NoorMathematica",
+    "name": "Lina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263778578?s=72&u=1646dcf9e62463e9c27fc501fe77069213ef00b0&v=4",
+    "location": "Edmonton, Alberta",
+    "company": "Noor Research Collective",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 137,
+    "createdAt": "2026-02-24T23:25:20Z"
   }
 ]

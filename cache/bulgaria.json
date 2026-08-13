@@ -595,7 +595,7 @@
     "company": "Vectorworks",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 640,
+    "privateContributions": 642,
     "publicContributions": 1,
     "createdAt": "2026-03-23T08:39:43Z"
   },
@@ -718,5 +718,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-22T19:32:37Z"
+  },
+  {
+    "login": "david-garabedyan",
+    "name": "David Garabedyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257710878?s=72&u=87c3f7337e8cf027bd9a868947f52e38e32aa201&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-01-28T06:54:21Z"
+  },
+  {
+    "login": "hpetkov",
+    "name": "Hrisian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264374497?s=72&u=38e2bf0925f9b410ca7f3c61ec58977857a23de7&v=4",
+    "location": "Sofia",
+    "company": "VPS.BG Ltd.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2026-02-27T09:37:44Z"
+  },
+  {
+    "login": "RaliHristova",
+    "name": "RalitsaHristova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262541753?s=72&u=9b0856c640bf55994393abb5af7d95a1769dbe37&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-02-19T09:19:06Z"
+  },
+  {
+    "login": "elena-petrov",
+    "name": "Elena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261091709?s=72&v=4",
+    "location": "Sofia",
+    "company": "Doten",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-12T02:05:37Z"
+  },
+  {
+    "login": "dax-uktc",
+    "name": "Yordan Naydenov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260873972?s=72&v=4",
+    "location": "Sofia",
+    "company": "Melexis Bulgaria Ltd.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 3,
+    "createdAt": "2026-02-11T09:57:44Z"
+  },
+  {
+    "login": "KrasimirPetkovPetkovvv",
+    "name": "Krasimir Petkov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264233951?s=72&u=02bf8ff610df96eef9f8506162786d6ceebbf9a4&v=4",
+    "location": "Sofia",
+    "company": "A1",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2026-02-26T18:13:11Z"
   }
 ]
