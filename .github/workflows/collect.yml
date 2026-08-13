@@ -12,7 +12,7 @@ on:
       chunk_queries:
         description: "Requests per committed chunk"
         required: false
-        default: "250"
+        default: "75"
 
 permissions:
   contents: write
@@ -24,7 +24,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 330
     steps:
       - uses: actions/checkout@v4
         with:
@@ -40,7 +40,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
           MAX_QUERIES: ${{ inputs.max_queries || '1200' }}
-          CHUNK_QUERIES: ${{ inputs.chunk_queries || '250' }}
+          CHUNK_QUERIES: ${{ inputs.chunk_queries || '75' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

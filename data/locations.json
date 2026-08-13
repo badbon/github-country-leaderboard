@@ -1,164 +1,3686 @@
 {
-  "version": 1,
+  "version": 2,
   "countries": [
-    {
-      "slug": "united_states",
-      "name": "United States",
-      "iso2": "US",
-      "aliases": ["united states", "usa", "u.s.a", "u.s.", "america", "united states of america"],
-      "cities": ["new york", "san francisco", "los angeles", "seattle", "austin", "chicago", "boston", "atlanta", "denver", "portland"],
-      "overrides": ["atlanta, georgia"]
-    },
     {
       "slug": "georgia",
       "name": "Georgia",
       "iso2": "GE",
-      "aliases": ["georgia"],
-      "cities": ["tbilisi", "batumi", "kutaisi", "rustavi"],
-      "overrides": ["paris, georgia"]
+      "aliases": [
+        "Georgia",
+        "Sakartvelo",
+        "საქართველო"
+      ],
+      "cities": [
+        "Tbilisi",
+        "batumi",
+        "kutaisi",
+        "rustavi",
+        "Zugdidi",
+        "Gori"
+      ],
+      "overrides": [
+        "paris, georgia"
+      ]
     },
     {
-      "slug": "france",
-      "name": "France",
-      "iso2": "FR",
-      "aliases": ["france"],
-      "cities": ["paris", "lyon", "marseille", "toulouse", "nantes", "lille", "bordeaux", "nice"],
+      "slug": "afghanistan",
+      "name": "Afghanistan",
+      "iso2": "AF",
+      "aliases": [
+        "Afghanistan",
+        "Islamic Republic of Afghanistan",
+        "Afġānistān"
+      ],
+      "cities": [
+        "Kabul"
+      ],
       "overrides": []
     },
     {
-      "slug": "bulgaria",
-      "name": "Bulgaria",
-      "iso2": "BG",
-      "aliases": ["bulgaria"],
-      "cities": ["sofia", "plovdiv", "varna", "burgas", "ruse"],
+      "slug": "aland_islands",
+      "name": "Åland Islands",
+      "iso2": "AX",
+      "aliases": [
+        "Åland Islands",
+        "Aaland",
+        "Aland",
+        "Ahvenanmaa"
+      ],
+      "cities": [
+        "Mariehamn"
+      ],
       "overrides": []
     },
     {
-      "slug": "united_kingdom",
-      "name": "United Kingdom",
-      "iso2": "GB",
-      "aliases": ["united kingdom", "uk", "u.k.", "great britain", "england", "scotland", "wales", "northern ireland"],
-      "cities": ["london", "manchester", "birmingham", "edinburgh", "glasgow", "bristol", "leeds", "cambridge"],
+      "slug": "albania",
+      "name": "Albania",
+      "iso2": "AL",
+      "aliases": [
+        "Albania",
+        "Republic of Albania",
+        "Shqipëri",
+        "Shqipëria",
+        "Shqipnia"
+      ],
+      "cities": [
+        "Tirana"
+      ],
       "overrides": []
     },
     {
-      "slug": "germany",
-      "name": "Germany",
-      "iso2": "DE",
-      "aliases": ["germany", "deutschland"],
-      "cities": ["berlin", "munich", "hamburg", "cologne", "frankfurt", "stuttgart", "dresden", "leipzig"],
+      "slug": "algeria",
+      "name": "Algeria",
+      "iso2": "DZ",
+      "aliases": [
+        "Algeria",
+        "People's Democratic Republic of Algeria",
+        "Dzayer",
+        "Algérie"
+      ],
+      "cities": [
+        "Algiers"
+      ],
       "overrides": []
     },
     {
-      "slug": "india",
-      "name": "India",
-      "iso2": "IN",
-      "aliases": ["india"],
-      "cities": ["bangalore", "bengaluru", "mumbai", "delhi", "new delhi", "hyderabad", "chennai", "pune", "kolkata"],
+      "slug": "american_samoa",
+      "name": "American Samoa",
+      "iso2": "AS",
+      "aliases": [
+        "American Samoa",
+        "Amerika Sāmoa",
+        "Amelika Sāmoa",
+        "Sāmoa Amelika"
+      ],
+      "cities": [
+        "Pago Pago"
+      ],
       "overrides": []
     },
     {
-      "slug": "canada",
-      "name": "Canada",
-      "iso2": "CA",
-      "aliases": ["canada"],
-      "cities": ["toronto", "vancouver", "montreal", "calgary", "ottawa", "edmonton", "waterloo"],
+      "slug": "andorra",
+      "name": "Andorra",
+      "iso2": "AD",
+      "aliases": [
+        "Andorra",
+        "Principality of Andorra",
+        "Principat d'Andorra"
+      ],
+      "cities": [
+        "Andorra la Vella"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "angola",
+      "name": "Angola",
+      "iso2": "AO",
+      "aliases": [
+        "Angola",
+        "Republic of Angola",
+        "República de Angola",
+        "ʁɛpublika de an'ɡɔla"
+      ],
+      "cities": [
+        "Luanda"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "anguilla",
+      "name": "Anguilla",
+      "iso2": "AI",
+      "aliases": [
+        "Anguilla"
+      ],
+      "cities": [
+        "The Valley"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "antarctica",
+      "name": "Antarctica",
+      "iso2": "AQ",
+      "aliases": [
+        "Antarctica"
+      ],
+      "cities": [],
+      "overrides": []
+    },
+    {
+      "slug": "antigua_and_barbuda",
+      "name": "Antigua and Barbuda",
+      "iso2": "AG",
+      "aliases": [
+        "Antigua and Barbuda"
+      ],
+      "cities": [
+        "Saint John's"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "argentina",
+      "name": "Argentina",
+      "iso2": "AR",
+      "aliases": [
+        "Argentina",
+        "Argentine Republic",
+        "República Argentina"
+      ],
+      "cities": [
+        "Buenos Aires"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "armenia",
+      "name": "Armenia",
+      "iso2": "AM",
+      "aliases": [
+        "Armenia",
+        "Republic of Armenia",
+        "Hayastan",
+        "Հայաստանի Հանրապետություն"
+      ],
+      "cities": [
+        "Yerevan"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "aruba",
+      "name": "Aruba",
+      "iso2": "AW",
+      "aliases": [
+        "Aruba"
+      ],
+      "cities": [
+        "Oranjestad"
+      ],
       "overrides": []
     },
     {
       "slug": "australia",
       "name": "Australia",
       "iso2": "AU",
-      "aliases": ["australia"],
-      "cities": ["sydney", "melbourne", "brisbane", "perth", "adelaide", "canberra"],
+      "aliases": [
+        "Australia",
+        "Commonwealth of Australia"
+      ],
+      "cities": [
+        "Canberra",
+        "sydney",
+        "melbourne",
+        "brisbane",
+        "perth",
+        "adelaide"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "austria",
+      "name": "Austria",
+      "iso2": "AT",
+      "aliases": [
+        "Austria",
+        "Republic of Austria",
+        "Osterreich",
+        "Oesterreich"
+      ],
+      "cities": [
+        "Vienna"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "azerbaijan",
+      "name": "Azerbaijan",
+      "iso2": "AZ",
+      "aliases": [
+        "Azerbaijan",
+        "Republic of Azerbaijan",
+        "Azərbaycan Respublikası"
+      ],
+      "cities": [
+        "Baku"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "bahamas",
+      "name": "Bahamas",
+      "iso2": "BS",
+      "aliases": [
+        "Bahamas",
+        "Commonwealth of the Bahamas"
+      ],
+      "cities": [
+        "Nassau"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "bahrain",
+      "name": "Bahrain",
+      "iso2": "BH",
+      "aliases": [
+        "Bahrain",
+        "Kingdom of Bahrain",
+        "Mamlakat al-Baḥrayn"
+      ],
+      "cities": [
+        "Manama"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "bangladesh",
+      "name": "Bangladesh",
+      "iso2": "BD",
+      "aliases": [
+        "Bangladesh",
+        "People's Republic of Bangladesh",
+        "Gônôprôjatôntri Bangladesh"
+      ],
+      "cities": [
+        "Dhaka"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "barbados",
+      "name": "Barbados",
+      "iso2": "BB",
+      "aliases": [
+        "Barbados"
+      ],
+      "cities": [
+        "Bridgetown"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "belarus",
+      "name": "Belarus",
+      "iso2": "BY",
+      "aliases": [
+        "Belarus",
+        "Republic of Belarus",
+        "Bielaruś",
+        "Белоруссия",
+        "Республика Белоруссия"
+      ],
+      "cities": [
+        "Minsk"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "belgium",
+      "name": "Belgium",
+      "iso2": "BE",
+      "aliases": [
+        "Belgium",
+        "Kingdom of Belgium",
+        "België",
+        "Belgien",
+        "Belgique",
+        "Koninkrijk België",
+        "Royaume de Belgique",
+        "Königreich Belgien"
+      ],
+      "cities": [
+        "Brussels"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "belize",
+      "name": "Belize",
+      "iso2": "BZ",
+      "aliases": [
+        "Belize"
+      ],
+      "cities": [
+        "Belmopan"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "benin",
+      "name": "Benin",
+      "iso2": "BJ",
+      "aliases": [
+        "Benin",
+        "Republic of Benin",
+        "République du Bénin"
+      ],
+      "cities": [
+        "Porto-Novo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "bermuda",
+      "name": "Bermuda",
+      "iso2": "BM",
+      "aliases": [
+        "Bermuda",
+        "The Islands of Bermuda",
+        "The Bermudas",
+        "Somers Isles"
+      ],
+      "cities": [
+        "Hamilton"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "bhutan",
+      "name": "Bhutan",
+      "iso2": "BT",
+      "aliases": [
+        "Bhutan",
+        "Kingdom of Bhutan"
+      ],
+      "cities": [
+        "Thimphu"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "bolivia",
+      "name": "Bolivia",
+      "iso2": "BO",
+      "aliases": [
+        "Bolivia",
+        "Plurinational State of Bolivia",
+        "Buliwya",
+        "Wuliwya",
+        "Bolivia, Plurinational State of",
+        "Estado Plurinacional de Bolivia",
+        "Buliwya Mamallaqta",
+        "Wuliwya Suyu",
+        "Tetã Volívia"
+      ],
+      "cities": [
+        "Sucre"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "bosnia_and_herzegovina",
+      "name": "Bosnia and Herzegovina",
+      "iso2": "BA",
+      "aliases": [
+        "Bosnia and Herzegovina",
+        "Bosnia-Herzegovina",
+        "Босна и Херцеговина"
+      ],
+      "cities": [
+        "Sarajevo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "botswana",
+      "name": "Botswana",
+      "iso2": "BW",
+      "aliases": [
+        "Botswana",
+        "Republic of Botswana",
+        "Lefatshe la Botswana"
+      ],
+      "cities": [
+        "Gaborone"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "bouvet_island",
+      "name": "Bouvet Island",
+      "iso2": "BV",
+      "aliases": [
+        "Bouvet Island",
+        "Bouvetøya",
+        "Bouvet-øya"
+      ],
+      "cities": [],
       "overrides": []
     },
     {
       "slug": "brazil",
       "name": "Brazil",
       "iso2": "BR",
-      "aliases": ["brazil", "brasil"],
-      "cities": ["sao paulo", "são paulo", "rio de janeiro", "belo horizonte", "curitiba", "porto alegre", "recife"],
+      "aliases": [
+        "Brazil",
+        "Federative Republic of Brazil",
+        "Brasil",
+        "República Federativa do Brasil"
+      ],
+      "cities": [
+        "Brasília",
+        "sao paulo",
+        "rio de janeiro",
+        "belo horizonte",
+        "curitiba",
+        "porto alegre",
+        "recife"
+      ],
       "overrides": []
     },
     {
-      "slug": "japan",
-      "name": "Japan",
-      "iso2": "JP",
-      "aliases": ["japan", "日本"],
-      "cities": ["tokyo", "osaka", "kyoto", "yokohama", "fukuoka"],
+      "slug": "british_indian_ocean_territory",
+      "name": "British Indian Ocean Territory",
+      "iso2": "IO",
+      "aliases": [
+        "British Indian Ocean Territory"
+      ],
+      "cities": [
+        "Diego Garcia"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "british_virgin_islands",
+      "name": "British Virgin Islands",
+      "iso2": "VG",
+      "aliases": [
+        "British Virgin Islands",
+        "Virgin Islands",
+        "Virgin Islands, British"
+      ],
+      "cities": [
+        "Road Town"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "brunei",
+      "name": "Brunei",
+      "iso2": "BN",
+      "aliases": [
+        "Brunei",
+        "Nation of Brunei, Abode of Peace",
+        "Brunei Darussalam",
+        "Nation of Brunei",
+        "the Abode of Peace"
+      ],
+      "cities": [
+        "Bandar Seri Begawan"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "bulgaria",
+      "name": "Bulgaria",
+      "iso2": "BG",
+      "aliases": [
+        "Bulgaria",
+        "Republic of Bulgaria",
+        "Република България"
+      ],
+      "cities": [
+        "Sofia",
+        "plovdiv",
+        "varna",
+        "burgas",
+        "ruse"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "burkina_faso",
+      "name": "Burkina Faso",
+      "iso2": "BF",
+      "aliases": [
+        "Burkina Faso"
+      ],
+      "cities": [
+        "Ouagadougou"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "burundi",
+      "name": "Burundi",
+      "iso2": "BI",
+      "aliases": [
+        "Burundi",
+        "Republic of Burundi",
+        "Republika y'Uburundi",
+        "République du Burundi"
+      ],
+      "cities": [
+        "Gitega"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "cambodia",
+      "name": "Cambodia",
+      "iso2": "KH",
+      "aliases": [
+        "Cambodia",
+        "Kingdom of Cambodia"
+      ],
+      "cities": [
+        "Phnom Penh"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "cameroon",
+      "name": "Cameroon",
+      "iso2": "CM",
+      "aliases": [
+        "Cameroon",
+        "Republic of Cameroon",
+        "République du Cameroun"
+      ],
+      "cities": [
+        "Yaoundé"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "canada",
+      "name": "Canada",
+      "iso2": "CA",
+      "aliases": [
+        "Canada"
+      ],
+      "cities": [
+        "Ottawa",
+        "toronto",
+        "vancouver",
+        "montreal",
+        "calgary",
+        "edmonton",
+        "waterloo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "cape_verde",
+      "name": "Cape Verde",
+      "iso2": "CV",
+      "aliases": [
+        "Cape Verde",
+        "Republic of Cabo Verde",
+        "República de Cabo Verde"
+      ],
+      "cities": [
+        "Praia"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "caribbean_netherlands",
+      "name": "Caribbean Netherlands",
+      "iso2": "BQ",
+      "aliases": [
+        "Caribbean Netherlands",
+        "Bonaire, Sint Eustatius and Saba",
+        "BES islands",
+        "Bonaire Sint Eustatius and Saba"
+      ],
+      "cities": [
+        "Kralendijk",
+        "Oranjestad",
+        "The Bottom"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "cayman_islands",
+      "name": "Cayman Islands",
+      "iso2": "KY",
+      "aliases": [
+        "Cayman Islands"
+      ],
+      "cities": [
+        "George Town"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "central_african_republic",
+      "name": "Central African Republic",
+      "iso2": "CF",
+      "aliases": [
+        "Central African Republic",
+        "République centrafricaine"
+      ],
+      "cities": [
+        "Bangui"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "chad",
+      "name": "Chad",
+      "iso2": "TD",
+      "aliases": [
+        "Chad",
+        "Republic of Chad",
+        "Tchad",
+        "République du Tchad"
+      ],
+      "cities": [
+        "N'Djamena"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "chile",
+      "name": "Chile",
+      "iso2": "CL",
+      "aliases": [
+        "Chile",
+        "Republic of Chile",
+        "República de Chile"
+      ],
+      "cities": [
+        "Santiago"
+      ],
       "overrides": []
     },
     {
       "slug": "china",
       "name": "China",
       "iso2": "CN",
-      "aliases": ["china", "prc", "中国"],
-      "cities": ["beijing", "shanghai", "shenzhen", "guangzhou", "hangzhou", "chengdu"],
+      "aliases": [
+        "China",
+        "People's Republic of China",
+        "Zhōngguó",
+        "Zhonghua",
+        "中华人民共和国",
+        "Zhōnghuá Rénmín Gònghéguó",
+        "prc",
+        "中国"
+      ],
+      "cities": [
+        "Beijing",
+        "shanghai",
+        "shenzhen",
+        "guangzhou",
+        "hangzhou",
+        "chengdu"
+      ],
       "overrides": []
     },
     {
-      "slug": "netherlands",
-      "name": "Netherlands",
-      "iso2": "NL",
-      "aliases": ["netherlands", "holland"],
-      "cities": ["amsterdam", "rotterdam", "utrecht", "eindhoven", "the hague"],
+      "slug": "christmas_island",
+      "name": "Christmas Island",
+      "iso2": "CX",
+      "aliases": [
+        "Christmas Island",
+        "Territory of Christmas Island"
+      ],
+      "cities": [
+        "Flying Fish Cove"
+      ],
       "overrides": []
     },
     {
-      "slug": "spain",
-      "name": "Spain",
-      "iso2": "ES",
-      "aliases": ["spain", "españa", "espana"],
-      "cities": ["madrid", "barcelona", "valencia", "seville", "sevilla", "bilbao"],
+      "slug": "cocos_keeling_islands",
+      "name": "Cocos (Keeling) Islands",
+      "iso2": "CC",
+      "aliases": [
+        "Cocos (Keeling) Islands",
+        "Territory of the Cocos (Keeling) Islands",
+        "Keeling Islands",
+        "Cocos Islands"
+      ],
+      "cities": [
+        "West Island"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "colombia",
+      "name": "Colombia",
+      "iso2": "CO",
+      "aliases": [
+        "Colombia",
+        "Republic of Colombia",
+        "República de Colombia"
+      ],
+      "cities": [
+        "Bogotá"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "comoros",
+      "name": "Comoros",
+      "iso2": "KM",
+      "aliases": [
+        "Comoros",
+        "Union of the Comoros",
+        "Union des Comores",
+        "Udzima wa Komori",
+        "al-Ittiḥād al-Qumurī"
+      ],
+      "cities": [
+        "Moroni"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "cook_islands",
+      "name": "Cook Islands",
+      "iso2": "CK",
+      "aliases": [
+        "Cook Islands",
+        "Kūki 'Āirani"
+      ],
+      "cities": [
+        "Avarua"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "costa_rica",
+      "name": "Costa Rica",
+      "iso2": "CR",
+      "aliases": [
+        "Costa Rica",
+        "Republic of Costa Rica",
+        "República de Costa Rica"
+      ],
+      "cities": [
+        "San José"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "croatia",
+      "name": "Croatia",
+      "iso2": "HR",
+      "aliases": [
+        "Croatia",
+        "Republic of Croatia",
+        "Hrvatska",
+        "Republika Hrvatska"
+      ],
+      "cities": [
+        "Zagreb"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "cuba",
+      "name": "Cuba",
+      "iso2": "CU",
+      "aliases": [
+        "Cuba",
+        "Republic of Cuba",
+        "República de Cuba"
+      ],
+      "cities": [
+        "Havana"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "curacao",
+      "name": "Curaçao",
+      "iso2": "CW",
+      "aliases": [
+        "Curaçao",
+        "Country of Curaçao",
+        "Kòrsou",
+        "Land Curaçao",
+        "Pais Kòrsou"
+      ],
+      "cities": [
+        "Willemstad"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "cyprus",
+      "name": "Cyprus",
+      "iso2": "CY",
+      "aliases": [
+        "Cyprus",
+        "Republic of Cyprus",
+        "Kýpros",
+        "Kıbrıs",
+        "Κυπριακή Δημοκρατία",
+        "Kıbrıs Cumhuriyeti"
+      ],
+      "cities": [
+        "Nicosia"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "czechia",
+      "name": "Czechia",
+      "iso2": "CZ",
+      "aliases": [
+        "Czechia",
+        "Czech Republic",
+        "Česká republika",
+        "Česko"
+      ],
+      "cities": [
+        "Prague"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "denmark",
+      "name": "Denmark",
+      "iso2": "DK",
+      "aliases": [
+        "Denmark",
+        "Kingdom of Denmark",
+        "Danmark",
+        "Kongeriget Danmark"
+      ],
+      "cities": [
+        "Copenhagen"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "djibouti",
+      "name": "Djibouti",
+      "iso2": "DJ",
+      "aliases": [
+        "Djibouti",
+        "Republic of Djibouti",
+        "Jabuuti",
+        "Gabuuti",
+        "République de Djibouti",
+        "Gabuutih Ummuuno",
+        "Jamhuuriyadda Jabuuti"
+      ],
+      "cities": [
+        "Djibouti"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "dominica",
+      "name": "Dominica",
+      "iso2": "DM",
+      "aliases": [
+        "Dominica",
+        "Commonwealth of Dominica",
+        "Dominique",
+        "Wai‘tu kubuli"
+      ],
+      "cities": [
+        "Roseau"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "dominican_republic",
+      "name": "Dominican Republic",
+      "iso2": "DO",
+      "aliases": [
+        "Dominican Republic"
+      ],
+      "cities": [
+        "Santo Domingo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "dr_congo",
+      "name": "DR Congo",
+      "iso2": "CD",
+      "aliases": [
+        "DR Congo",
+        "Democratic Republic of the Congo",
+        "Congo-Kinshasa",
+        "Congo, the Democratic Republic of the",
+        "Democratic Republic of Congo"
+      ],
+      "cities": [
+        "Kinshasa"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "ecuador",
+      "name": "Ecuador",
+      "iso2": "EC",
+      "aliases": [
+        "Ecuador",
+        "Republic of Ecuador",
+        "República del Ecuador"
+      ],
+      "cities": [
+        "Quito"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "egypt",
+      "name": "Egypt",
+      "iso2": "EG",
+      "aliases": [
+        "Egypt",
+        "Arab Republic of Egypt"
+      ],
+      "cities": [
+        "Cairo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "el_salvador",
+      "name": "El Salvador",
+      "iso2": "SV",
+      "aliases": [
+        "El Salvador",
+        "Republic of El Salvador",
+        "República de El Salvador"
+      ],
+      "cities": [
+        "San Salvador"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "equatorial_guinea",
+      "name": "Equatorial Guinea",
+      "iso2": "GQ",
+      "aliases": [
+        "Equatorial Guinea",
+        "Republic of Equatorial Guinea",
+        "República de Guinea Ecuatorial",
+        "République de Guinée équatoriale",
+        "República da Guiné Equatorial"
+      ],
+      "cities": [
+        "Malabo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "eritrea",
+      "name": "Eritrea",
+      "iso2": "ER",
+      "aliases": [
+        "Eritrea",
+        "State of Eritrea",
+        "ሃገረ ኤርትራ",
+        "Dawlat Iritriyá",
+        "ʾErtrā",
+        "Iritriyā"
+      ],
+      "cities": [
+        "Asmara"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "estonia",
+      "name": "Estonia",
+      "iso2": "EE",
+      "aliases": [
+        "Estonia",
+        "Republic of Estonia",
+        "Eesti",
+        "Eesti Vabariik"
+      ],
+      "cities": [
+        "Tallinn"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "eswatini",
+      "name": "Eswatini",
+      "iso2": "SZ",
+      "aliases": [
+        "Eswatini",
+        "Kingdom of Eswatini",
+        "Swaziland",
+        "weSwatini",
+        "Swatini",
+        "Ngwane",
+        "Umbuso weSwatini"
+      ],
+      "cities": [
+        "Lobamba"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "ethiopia",
+      "name": "Ethiopia",
+      "iso2": "ET",
+      "aliases": [
+        "Ethiopia",
+        "Federal Democratic Republic of Ethiopia",
+        "ʾĪtyōṗṗyā",
+        "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+      ],
+      "cities": [
+        "Addis Ababa"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "falkland_islands",
+      "name": "Falkland Islands",
+      "iso2": "FK",
+      "aliases": [
+        "Falkland Islands",
+        "Islas Malvinas",
+        "Falkland Islands (Malvinas)"
+      ],
+      "cities": [
+        "Stanley"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "faroe_islands",
+      "name": "Faroe Islands",
+      "iso2": "FO",
+      "aliases": [
+        "Faroe Islands",
+        "Føroyar",
+        "Færøerne",
+        "Faeroe Islands"
+      ],
+      "cities": [
+        "Tórshavn"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "fiji",
+      "name": "Fiji",
+      "iso2": "FJ",
+      "aliases": [
+        "Fiji",
+        "Republic of Fiji",
+        "Viti",
+        "Matanitu ko Viti",
+        "Fijī Gaṇarājya"
+      ],
+      "cities": [
+        "Suva"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "finland",
+      "name": "Finland",
+      "iso2": "FI",
+      "aliases": [
+        "Finland",
+        "Republic of Finland",
+        "Suomi",
+        "Suomen tasavalta",
+        "Republiken Finland"
+      ],
+      "cities": [
+        "Helsinki"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "france",
+      "name": "France",
+      "iso2": "FR",
+      "aliases": [
+        "France",
+        "French Republic",
+        "République française"
+      ],
+      "cities": [
+        "Paris",
+        "lyon",
+        "marseille",
+        "toulouse",
+        "nantes",
+        "lille",
+        "bordeaux",
+        "nice"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "french_guiana",
+      "name": "French Guiana",
+      "iso2": "GF",
+      "aliases": [
+        "French Guiana",
+        "Guiana",
+        "Guyane"
+      ],
+      "cities": [
+        "Cayenne"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "french_polynesia",
+      "name": "French Polynesia",
+      "iso2": "PF",
+      "aliases": [
+        "French Polynesia",
+        "Polynésie française",
+        "Pōrīnetia Farāni"
+      ],
+      "cities": [
+        "Papeetē"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "french_southern_and_antarctic_lands",
+      "name": "French Southern and Antarctic Lands",
+      "iso2": "TF",
+      "aliases": [
+        "French Southern and Antarctic Lands",
+        "Territory of the French Southern and Antarctic Lands",
+        "French Southern Territories"
+      ],
+      "cities": [
+        "Port-aux-Français"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "gabon",
+      "name": "Gabon",
+      "iso2": "GA",
+      "aliases": [
+        "Gabon",
+        "Gabonese Republic",
+        "République Gabonaise"
+      ],
+      "cities": [
+        "Libreville"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "gambia",
+      "name": "Gambia",
+      "iso2": "GM",
+      "aliases": [
+        "Gambia",
+        "Republic of the Gambia"
+      ],
+      "cities": [
+        "Banjul"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "germany",
+      "name": "Germany",
+      "iso2": "DE",
+      "aliases": [
+        "Germany",
+        "Federal Republic of Germany",
+        "Bundesrepublik Deutschland",
+        "deutschland"
+      ],
+      "cities": [
+        "Berlin",
+        "munich",
+        "hamburg",
+        "cologne",
+        "frankfurt",
+        "stuttgart",
+        "dresden",
+        "leipzig"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "ghana",
+      "name": "Ghana",
+      "iso2": "GH",
+      "aliases": [
+        "Ghana",
+        "Republic of Ghana"
+      ],
+      "cities": [
+        "Accra"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "gibraltar",
+      "name": "Gibraltar",
+      "iso2": "GI",
+      "aliases": [
+        "Gibraltar"
+      ],
+      "cities": [
+        "Gibraltar"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "greece",
+      "name": "Greece",
+      "iso2": "GR",
+      "aliases": [
+        "Greece",
+        "Hellenic Republic",
+        "Elláda",
+        "Ελληνική Δημοκρατία"
+      ],
+      "cities": [
+        "Athens"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "greenland",
+      "name": "Greenland",
+      "iso2": "GL",
+      "aliases": [
+        "Greenland",
+        "Grønland"
+      ],
+      "cities": [
+        "Nuuk"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "grenada",
+      "name": "Grenada",
+      "iso2": "GD",
+      "aliases": [
+        "Grenada"
+      ],
+      "cities": [
+        "St. George's"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "guadeloupe",
+      "name": "Guadeloupe",
+      "iso2": "GP",
+      "aliases": [
+        "Guadeloupe",
+        "Gwadloup"
+      ],
+      "cities": [
+        "Basse-Terre"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "guam",
+      "name": "Guam",
+      "iso2": "GU",
+      "aliases": [
+        "Guam",
+        "Guåhån"
+      ],
+      "cities": [
+        "Hagåtña"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "guatemala",
+      "name": "Guatemala",
+      "iso2": "GT",
+      "aliases": [
+        "Guatemala",
+        "Republic of Guatemala"
+      ],
+      "cities": [
+        "Guatemala City"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "guernsey",
+      "name": "Guernsey",
+      "iso2": "GG",
+      "aliases": [
+        "Guernsey",
+        "Bailiwick of Guernsey",
+        "Bailliage de Guernesey"
+      ],
+      "cities": [
+        "St. Peter Port"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "guinea",
+      "name": "Guinea",
+      "iso2": "GN",
+      "aliases": [
+        "Guinea",
+        "Republic of Guinea",
+        "République de Guinée"
+      ],
+      "cities": [
+        "Conakry"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "guinea_bissau",
+      "name": "Guinea-Bissau",
+      "iso2": "GW",
+      "aliases": [
+        "Guinea-Bissau",
+        "Republic of Guinea-Bissau",
+        "República da Guiné-Bissau"
+      ],
+      "cities": [
+        "Bissau"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "guyana",
+      "name": "Guyana",
+      "iso2": "GY",
+      "aliases": [
+        "Guyana",
+        "Co-operative Republic of Guyana"
+      ],
+      "cities": [
+        "Georgetown"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "haiti",
+      "name": "Haiti",
+      "iso2": "HT",
+      "aliases": [
+        "Haiti",
+        "Republic of Haiti",
+        "République d'Haïti",
+        "Repiblik Ayiti"
+      ],
+      "cities": [
+        "Port-au-Prince"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "heard_island_and_mcdonald_islands",
+      "name": "Heard Island and McDonald Islands",
+      "iso2": "HM",
+      "aliases": [
+        "Heard Island and McDonald Islands"
+      ],
+      "cities": [],
+      "overrides": []
+    },
+    {
+      "slug": "honduras",
+      "name": "Honduras",
+      "iso2": "HN",
+      "aliases": [
+        "Honduras",
+        "Republic of Honduras",
+        "República de Honduras"
+      ],
+      "cities": [
+        "Tegucigalpa"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "hong_kong",
+      "name": "Hong Kong",
+      "iso2": "HK",
+      "aliases": [
+        "Hong Kong",
+        "Hong Kong Special Administrative Region of the People's Republic of China"
+      ],
+      "cities": [
+        "City of Victoria"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "hungary",
+      "name": "Hungary",
+      "iso2": "HU",
+      "aliases": [
+        "Hungary"
+      ],
+      "cities": [
+        "Budapest"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "iceland",
+      "name": "Iceland",
+      "iso2": "IS",
+      "aliases": [
+        "Iceland",
+        "Island",
+        "Republic of Iceland",
+        "Lýðveldið Ísland"
+      ],
+      "cities": [
+        "Reykjavik"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "india",
+      "name": "India",
+      "iso2": "IN",
+      "aliases": [
+        "India",
+        "Republic of India",
+        "Bhārat",
+        "Bharat Ganrajya",
+        "இந்தியா"
+      ],
+      "cities": [
+        "New Delhi",
+        "bangalore",
+        "bengaluru",
+        "mumbai",
+        "delhi",
+        "hyderabad",
+        "chennai",
+        "pune",
+        "kolkata"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "indonesia",
+      "name": "Indonesia",
+      "iso2": "ID",
+      "aliases": [
+        "Indonesia",
+        "Republic of Indonesia",
+        "Republik Indonesia"
+      ],
+      "cities": [
+        "Jakarta"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "iran",
+      "name": "Iran",
+      "iso2": "IR",
+      "aliases": [
+        "Iran",
+        "Islamic Republic of Iran",
+        "Iran, Islamic Republic of",
+        "Jomhuri-ye Eslāmi-ye Irān"
+      ],
+      "cities": [
+        "Tehran"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "iraq",
+      "name": "Iraq",
+      "iso2": "IQ",
+      "aliases": [
+        "Iraq",
+        "Republic of Iraq",
+        "Jumhūriyyat al-‘Irāq"
+      ],
+      "cities": [
+        "Baghdad"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "ireland",
+      "name": "Ireland",
+      "iso2": "IE",
+      "aliases": [
+        "Ireland",
+        "Republic of Ireland",
+        "Éire",
+        "Poblacht na hÉireann"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "isle_of_man",
+      "name": "Isle of Man",
+      "iso2": "IM",
+      "aliases": [
+        "Isle of Man",
+        "Ellan Vannin",
+        "Mann",
+        "Mannin"
+      ],
+      "cities": [
+        "Douglas"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "israel",
+      "name": "Israel",
+      "iso2": "IL",
+      "aliases": [
+        "Israel",
+        "State of Israel",
+        "Medīnat Yisrā'el"
+      ],
+      "cities": [
+        "Jerusalem"
+      ],
       "overrides": []
     },
     {
       "slug": "italy",
       "name": "Italy",
       "iso2": "IT",
-      "aliases": ["italy", "italia"],
-      "cities": ["rome", "roma", "milan", "milano", "turin", "torino", "naples", "napoli", "bologna"],
+      "aliases": [
+        "Italy",
+        "Italian Republic",
+        "Repubblica italiana",
+        "italia"
+      ],
+      "cities": [
+        "Rome",
+        "roma",
+        "milan",
+        "milano",
+        "turin",
+        "torino",
+        "naples",
+        "napoli",
+        "bologna"
+      ],
       "overrides": []
     },
     {
-      "slug": "poland",
-      "name": "Poland",
-      "iso2": "PL",
-      "aliases": ["poland", "polska"],
-      "cities": ["warsaw", "warszawa", "krakow", "kraków", "wroclaw", "wrocław", "gdansk", "gdańsk", "poznan", "poznań"],
+      "slug": "ivory_coast",
+      "name": "Ivory Coast",
+      "iso2": "CI",
+      "aliases": [
+        "Ivory Coast",
+        "Republic of Côte d'Ivoire",
+        "Côte d'Ivoire",
+        "République de Côte d'Ivoire"
+      ],
+      "cities": [
+        "Yamoussoukro"
+      ],
       "overrides": []
     },
     {
-      "slug": "ukraine",
-      "name": "Ukraine",
-      "iso2": "UA",
-      "aliases": ["ukraine", "україна"],
-      "cities": ["kyiv", "kiev", "lviv", "kharkiv", "odesa", "odessa", "dnipro"],
+      "slug": "jamaica",
+      "name": "Jamaica",
+      "iso2": "JM",
+      "aliases": [
+        "Jamaica"
+      ],
+      "cities": [
+        "Kingston"
+      ],
       "overrides": []
     },
     {
-      "slug": "russia",
-      "name": "Russia",
-      "iso2": "RU",
-      "aliases": ["russia", "russian federation", "россия"],
-      "cities": ["moscow", "saint petersburg", "st petersburg", "novosibirsk", "kazan", "yekaterinburg"],
+      "slug": "japan",
+      "name": "Japan",
+      "iso2": "JP",
+      "aliases": [
+        "Japan",
+        "Nippon",
+        "Nihon",
+        "日本"
+      ],
+      "cities": [
+        "Tokyo",
+        "osaka",
+        "kyoto",
+        "yokohama",
+        "fukuoka"
+      ],
       "overrides": []
     },
     {
-      "slug": "turkey",
-      "name": "Turkey",
-      "iso2": "TR",
-      "aliases": ["turkey", "turkiye", "türkiye"],
-      "cities": ["istanbul", "ankara", "izmir", "bursa", "antalya"],
+      "slug": "jersey",
+      "name": "Jersey",
+      "iso2": "JE",
+      "aliases": [
+        "Jersey",
+        "Bailiwick of Jersey",
+        "Bailliage de Jersey",
+        "Bailliage dé Jèrri"
+      ],
+      "cities": [
+        "Saint Helier"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "jordan",
+      "name": "Jordan",
+      "iso2": "JO",
+      "aliases": [
+        "Jordan",
+        "Hashemite Kingdom of Jordan",
+        "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
+      ],
+      "cities": [
+        "Amman"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "kazakhstan",
+      "name": "Kazakhstan",
+      "iso2": "KZ",
+      "aliases": [
+        "Kazakhstan",
+        "Republic of Kazakhstan",
+        "Qazaqstan",
+        "Казахстан",
+        "Қазақстан Республикасы",
+        "Qazaqstan Respublïkası",
+        "Республика Казахстан",
+        "Respublika Kazakhstan"
+      ],
+      "cities": [
+        "Astana"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "kenya",
+      "name": "Kenya",
+      "iso2": "KE",
+      "aliases": [
+        "Kenya",
+        "Republic of Kenya",
+        "Jamhuri ya Kenya"
+      ],
+      "cities": [
+        "Nairobi"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "kiribati",
+      "name": "Kiribati",
+      "iso2": "KI",
+      "aliases": [
+        "Kiribati",
+        "Independent and Sovereign Republic of Kiribati",
+        "Republic of Kiribati",
+        "Ribaberiki Kiribati"
+      ],
+      "cities": [
+        "South Tarawa"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "kuwait",
+      "name": "Kuwait",
+      "iso2": "KW",
+      "aliases": [
+        "Kuwait",
+        "State of Kuwait",
+        "Dawlat al-Kuwait"
+      ],
+      "cities": [
+        "Kuwait City"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "kyrgyzstan",
+      "name": "Kyrgyzstan",
+      "iso2": "KG",
+      "aliases": [
+        "Kyrgyzstan",
+        "Kyrgyz Republic",
+        "Киргизия",
+        "Кыргыз Республикасы",
+        "Kyrgyz Respublikasy"
+      ],
+      "cities": [
+        "Bishkek"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "laos",
+      "name": "Laos",
+      "iso2": "LA",
+      "aliases": [
+        "Laos",
+        "Lao People's Democratic Republic",
+        "Lao",
+        "Sathalanalat Paxathipatai Paxaxon Lao"
+      ],
+      "cities": [
+        "Vientiane"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "latvia",
+      "name": "Latvia",
+      "iso2": "LV",
+      "aliases": [
+        "Latvia",
+        "Republic of Latvia",
+        "Latvijas Republika"
+      ],
+      "cities": [
+        "Riga"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "lebanon",
+      "name": "Lebanon",
+      "iso2": "LB",
+      "aliases": [
+        "Lebanon",
+        "Lebanese Republic",
+        "Al-Jumhūrīyah Al-Libnānīyah"
+      ],
+      "cities": [
+        "Beirut"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "lesotho",
+      "name": "Lesotho",
+      "iso2": "LS",
+      "aliases": [
+        "Lesotho",
+        "Kingdom of Lesotho",
+        "Muso oa Lesotho"
+      ],
+      "cities": [
+        "Maseru"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "liberia",
+      "name": "Liberia",
+      "iso2": "LR",
+      "aliases": [
+        "Liberia",
+        "Republic of Liberia"
+      ],
+      "cities": [
+        "Monrovia"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "libya",
+      "name": "Libya",
+      "iso2": "LY",
+      "aliases": [
+        "Libya",
+        "State of Libya",
+        "Dawlat Libya"
+      ],
+      "cities": [
+        "Tripoli"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "liechtenstein",
+      "name": "Liechtenstein",
+      "iso2": "LI",
+      "aliases": [
+        "Liechtenstein",
+        "Principality of Liechtenstein",
+        "Fürstentum Liechtenstein"
+      ],
+      "cities": [
+        "Vaduz"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "lithuania",
+      "name": "Lithuania",
+      "iso2": "LT",
+      "aliases": [
+        "Lithuania",
+        "Republic of Lithuania",
+        "Lietuvos Respublika"
+      ],
+      "cities": [
+        "Vilnius"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "luxembourg",
+      "name": "Luxembourg",
+      "iso2": "LU",
+      "aliases": [
+        "Luxembourg",
+        "Grand Duchy of Luxembourg",
+        "Grand-Duché de Luxembourg",
+        "Großherzogtum Luxemburg",
+        "Groussherzogtum Lëtzebuerg"
+      ],
+      "cities": [
+        "Luxembourg"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "macau",
+      "name": "Macau",
+      "iso2": "MO",
+      "aliases": [
+        "Macau",
+        "Macao Special Administrative Region of the People's Republic of China",
+        "Macao",
+        "中華人民共和國澳門特別行政區",
+        "Região Administrativa Especial de Macau da República Popular da China"
+      ],
+      "cities": [],
+      "overrides": []
+    },
+    {
+      "slug": "madagascar",
+      "name": "Madagascar",
+      "iso2": "MG",
+      "aliases": [
+        "Madagascar",
+        "Republic of Madagascar",
+        "Repoblikan'i Madagasikara",
+        "République de Madagascar"
+      ],
+      "cities": [
+        "Antananarivo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "malawi",
+      "name": "Malawi",
+      "iso2": "MW",
+      "aliases": [
+        "Malawi",
+        "Republic of Malawi"
+      ],
+      "cities": [
+        "Lilongwe"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "malaysia",
+      "name": "Malaysia",
+      "iso2": "MY",
+      "aliases": [
+        "Malaysia"
+      ],
+      "cities": [
+        "Kuala Lumpur"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "maldives",
+      "name": "Maldives",
+      "iso2": "MV",
+      "aliases": [
+        "Maldives",
+        "Republic of the Maldives",
+        "Maldive Islands",
+        "Dhivehi Raajjeyge Jumhooriyya"
+      ],
+      "cities": [
+        "Malé"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "mali",
+      "name": "Mali",
+      "iso2": "ML",
+      "aliases": [
+        "Mali",
+        "Republic of Mali",
+        "République du Mali"
+      ],
+      "cities": [
+        "Bamako"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "malta",
+      "name": "Malta",
+      "iso2": "MT",
+      "aliases": [
+        "Malta",
+        "Republic of Malta",
+        "Repubblika ta' Malta"
+      ],
+      "cities": [
+        "Valletta"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "marshall_islands",
+      "name": "Marshall Islands",
+      "iso2": "MH",
+      "aliases": [
+        "Marshall Islands",
+        "Republic of the Marshall Islands",
+        "Aolepān Aorōkin M̧ajeļ"
+      ],
+      "cities": [
+        "Majuro"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "martinique",
+      "name": "Martinique",
+      "iso2": "MQ",
+      "aliases": [
+        "Martinique"
+      ],
+      "cities": [
+        "Fort-de-France"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "mauritania",
+      "name": "Mauritania",
+      "iso2": "MR",
+      "aliases": [
+        "Mauritania",
+        "Islamic Republic of Mauritania",
+        "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
+      ],
+      "cities": [
+        "Nouakchott"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "mauritius",
+      "name": "Mauritius",
+      "iso2": "MU",
+      "aliases": [
+        "Mauritius",
+        "Republic of Mauritius",
+        "République de Maurice"
+      ],
+      "cities": [
+        "Port Louis"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "mayotte",
+      "name": "Mayotte",
+      "iso2": "YT",
+      "aliases": [
+        "Mayotte",
+        "Department of Mayotte",
+        "Département de Mayotte"
+      ],
+      "cities": [
+        "Mamoudzou"
+      ],
       "overrides": []
     },
     {
       "slug": "mexico",
       "name": "Mexico",
       "iso2": "MX",
-      "aliases": ["mexico", "méxico"],
-      "cities": ["mexico city", "ciudad de mexico", "guadalajara", "monterrey", "puebla", "queretaro"],
+      "aliases": [
+        "Mexico",
+        "United Mexican States",
+        "Mexicanos",
+        "Estados Unidos Mexicanos"
+      ],
+      "cities": [
+        "Mexico City",
+        "ciudad de mexico",
+        "guadalajara",
+        "monterrey",
+        "puebla",
+        "queretaro"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "micronesia",
+      "name": "Micronesia",
+      "iso2": "FM",
+      "aliases": [
+        "Micronesia",
+        "Federated States of Micronesia",
+        "Micronesia, Federated States of"
+      ],
+      "cities": [
+        "Palikir"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "moldova",
+      "name": "Moldova",
+      "iso2": "MD",
+      "aliases": [
+        "Moldova",
+        "Republic of Moldova",
+        "Moldova, Republic of",
+        "Republica Moldova"
+      ],
+      "cities": [
+        "Chișinău"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "monaco",
+      "name": "Monaco",
+      "iso2": "MC",
+      "aliases": [
+        "Monaco",
+        "Principality of Monaco",
+        "Principauté de Monaco"
+      ],
+      "cities": [
+        "Monaco"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "mongolia",
+      "name": "Mongolia",
+      "iso2": "MN",
+      "aliases": [
+        "Mongolia"
+      ],
+      "cities": [
+        "Ulan Bator"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "montenegro",
+      "name": "Montenegro",
+      "iso2": "ME",
+      "aliases": [
+        "Montenegro",
+        "Crna Gora"
+      ],
+      "cities": [
+        "Podgorica"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "montserrat",
+      "name": "Montserrat",
+      "iso2": "MS",
+      "aliases": [
+        "Montserrat"
+      ],
+      "cities": [
+        "Plymouth"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "morocco",
+      "name": "Morocco",
+      "iso2": "MA",
+      "aliases": [
+        "Morocco",
+        "Kingdom of Morocco",
+        "Al-Mamlakah al-Maġribiyah"
+      ],
+      "cities": [
+        "Rabat"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "mozambique",
+      "name": "Mozambique",
+      "iso2": "MZ",
+      "aliases": [
+        "Mozambique",
+        "Republic of Mozambique",
+        "República de Moçambique"
+      ],
+      "cities": [
+        "Maputo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "myanmar",
+      "name": "Myanmar",
+      "iso2": "MM",
+      "aliases": [
+        "Myanmar",
+        "Republic of the Union of Myanmar",
+        "Burma",
+        "Pyidaunzu Thanmăda Myăma Nainngandaw"
+      ],
+      "cities": [
+        "Naypyidaw"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "namibia",
+      "name": "Namibia",
+      "iso2": "NA",
+      "aliases": [
+        "Namibia",
+        "Republic of Namibia",
+        "Namibië"
+      ],
+      "cities": [
+        "Windhoek"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "nauru",
+      "name": "Nauru",
+      "iso2": "NR",
+      "aliases": [
+        "Nauru",
+        "Republic of Nauru",
+        "Naoero",
+        "Pleasant Island",
+        "Ripublik Naoero"
+      ],
+      "cities": [
+        "Yaren"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "nepal",
+      "name": "Nepal",
+      "iso2": "NP",
+      "aliases": [
+        "Nepal",
+        "Federal Democratic Republic of Nepal",
+        "Loktāntrik Ganatantra Nepāl"
+      ],
+      "cities": [
+        "Kathmandu"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "netherlands",
+      "name": "Netherlands",
+      "iso2": "NL",
+      "aliases": [
+        "Netherlands",
+        "Kingdom of the Netherlands",
+        "Holland",
+        "Nederland",
+        "The Netherlands"
+      ],
+      "cities": [
+        "Amsterdam",
+        "rotterdam",
+        "utrecht",
+        "eindhoven",
+        "the hague"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "new_caledonia",
+      "name": "New Caledonia",
+      "iso2": "NC",
+      "aliases": [
+        "New Caledonia"
+      ],
+      "cities": [
+        "Nouméa"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "new_zealand",
+      "name": "New Zealand",
+      "iso2": "NZ",
+      "aliases": [
+        "New Zealand",
+        "Aotearoa"
+      ],
+      "cities": [
+        "Wellington"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "nicaragua",
+      "name": "Nicaragua",
+      "iso2": "NI",
+      "aliases": [
+        "Nicaragua",
+        "Republic of Nicaragua",
+        "República de Nicaragua"
+      ],
+      "cities": [
+        "Managua"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "niger",
+      "name": "Niger",
+      "iso2": "NE",
+      "aliases": [
+        "Niger",
+        "Republic of Niger",
+        "Nijar"
+      ],
+      "cities": [
+        "Niamey"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "nigeria",
+      "name": "Nigeria",
+      "iso2": "NG",
+      "aliases": [
+        "Nigeria",
+        "Federal Republic of Nigeria",
+        "Nijeriya",
+        "Naíjíríà"
+      ],
+      "cities": [
+        "Abuja"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "niue",
+      "name": "Niue",
+      "iso2": "NU",
+      "aliases": [
+        "Niue"
+      ],
+      "cities": [
+        "Alofi"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "norfolk_island",
+      "name": "Norfolk Island",
+      "iso2": "NF",
+      "aliases": [
+        "Norfolk Island",
+        "Territory of Norfolk Island",
+        "Teratri of Norf'k Ailen"
+      ],
+      "cities": [
+        "Kingston"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "north_korea",
+      "name": "North Korea",
+      "iso2": "KP",
+      "aliases": [
+        "North Korea",
+        "Democratic People's Republic of Korea",
+        "DPRK",
+        "조선민주주의인민공화국",
+        "Chosŏn Minjujuŭi Inmin Konghwaguk",
+        "Korea, Democratic People's Republic of",
+        "북조선"
+      ],
+      "cities": [
+        "Pyongyang"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "north_macedonia",
+      "name": "North Macedonia",
+      "iso2": "MK",
+      "aliases": [
+        "North Macedonia",
+        "Republic of North Macedonia",
+        "The former Yugoslav Republic of Macedonia",
+        "Macedonia, The Former Yugoslav Republic of",
+        "Република Северна Македонија",
+        "Macedonia"
+      ],
+      "cities": [
+        "Skopje"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "northern_mariana_islands",
+      "name": "Northern Mariana Islands",
+      "iso2": "MP",
+      "aliases": [
+        "Northern Mariana Islands",
+        "Commonwealth of the Northern Mariana Islands",
+        "Sankattan Siha Na Islas Mariånas"
+      ],
+      "cities": [
+        "Saipan"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "norway",
+      "name": "Norway",
+      "iso2": "NO",
+      "aliases": [
+        "Norway",
+        "Kingdom of Norway",
+        "Norge",
+        "Noreg",
+        "Kongeriket Norge",
+        "Kongeriket Noreg"
+      ],
+      "cities": [
+        "Oslo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "oman",
+      "name": "Oman",
+      "iso2": "OM",
+      "aliases": [
+        "Oman",
+        "Sultanate of Oman",
+        "Salṭanat ʻUmān"
+      ],
+      "cities": [
+        "Muscat"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "pakistan",
+      "name": "Pakistan",
+      "iso2": "PK",
+      "aliases": [
+        "Pakistan",
+        "Islamic Republic of Pakistan",
+        "Islāmī Jumhūriya'eh Pākistān"
+      ],
+      "cities": [
+        "Islamabad"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "palau",
+      "name": "Palau",
+      "iso2": "PW",
+      "aliases": [
+        "Palau",
+        "Republic of Palau",
+        "Beluu er a Belau"
+      ],
+      "cities": [
+        "Ngerulmud"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "palestine",
+      "name": "Palestine",
+      "iso2": "PS",
+      "aliases": [
+        "Palestine",
+        "State of Palestine",
+        "Palestine, State of",
+        "Dawlat Filasṭin"
+      ],
+      "cities": [
+        "Ramallah"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "panama",
+      "name": "Panama",
+      "iso2": "PA",
+      "aliases": [
+        "Panama",
+        "Republic of Panama",
+        "República de Panamá"
+      ],
+      "cities": [
+        "Panama City"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "papua_new_guinea",
+      "name": "Papua New Guinea",
+      "iso2": "PG",
+      "aliases": [
+        "Papua New Guinea",
+        "Independent State of Papua New Guinea",
+        "Independen Stet bilong Papua Niugini"
+      ],
+      "cities": [
+        "Port Moresby"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "paraguay",
+      "name": "Paraguay",
+      "iso2": "PY",
+      "aliases": [
+        "Paraguay",
+        "Republic of Paraguay",
+        "República del Paraguay",
+        "Tetã Paraguái"
+      ],
+      "cities": [
+        "Asunción"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "peru",
+      "name": "Peru",
+      "iso2": "PE",
+      "aliases": [
+        "Peru",
+        "Republic of Peru",
+        "República del Perú"
+      ],
+      "cities": [
+        "Lima"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "philippines",
+      "name": "Philippines",
+      "iso2": "PH",
+      "aliases": [
+        "Philippines",
+        "Republic of the Philippines",
+        "Repúblika ng Pilipinas"
+      ],
+      "cities": [
+        "Manila"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "pitcairn_islands",
+      "name": "Pitcairn Islands",
+      "iso2": "PN",
+      "aliases": [
+        "Pitcairn Islands",
+        "Pitcairn Group of Islands",
+        "Pitcairn",
+        "Pitcairn Henderson Ducie and Oeno Islands"
+      ],
+      "cities": [
+        "Adamstown"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "poland",
+      "name": "Poland",
+      "iso2": "PL",
+      "aliases": [
+        "Poland",
+        "Republic of Poland",
+        "Rzeczpospolita Polska",
+        "polska"
+      ],
+      "cities": [
+        "Warsaw",
+        "warszawa",
+        "krakow",
+        "wroclaw",
+        "wrocław",
+        "gdansk",
+        "poznan"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "portugal",
+      "name": "Portugal",
+      "iso2": "PT",
+      "aliases": [
+        "Portugal",
+        "Portuguese Republic",
+        "Portuguesa",
+        "República Portuguesa"
+      ],
+      "cities": [
+        "Lisbon"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "puerto_rico",
+      "name": "Puerto Rico",
+      "iso2": "PR",
+      "aliases": [
+        "Puerto Rico",
+        "Commonwealth of Puerto Rico",
+        "Estado Libre Asociado de Puerto Rico"
+      ],
+      "cities": [
+        "San Juan"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "qatar",
+      "name": "Qatar",
+      "iso2": "QA",
+      "aliases": [
+        "Qatar",
+        "State of Qatar",
+        "Dawlat Qaṭar"
+      ],
+      "cities": [
+        "Doha"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "republic_of_the_congo",
+      "name": "Republic of the Congo",
+      "iso2": "CG",
+      "aliases": [
+        "Republic of the Congo",
+        "Congo",
+        "Congo-Brazzaville"
+      ],
+      "cities": [
+        "Brazzaville"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "reunion",
+      "name": "Réunion",
+      "iso2": "RE",
+      "aliases": [
+        "Réunion",
+        "Réunion Island"
+      ],
+      "cities": [
+        "Saint-Denis"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "romania",
+      "name": "Romania",
+      "iso2": "RO",
+      "aliases": [
+        "Romania",
+        "Rumania",
+        "Roumania"
+      ],
+      "cities": [
+        "Bucharest"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "russia",
+      "name": "Russia",
+      "iso2": "RU",
+      "aliases": [
+        "Russia",
+        "Russian Federation",
+        "Российская Федерация",
+        "россия"
+      ],
+      "cities": [
+        "Moscow",
+        "saint petersburg",
+        "st petersburg",
+        "novosibirsk",
+        "kazan",
+        "yekaterinburg"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "rwanda",
+      "name": "Rwanda",
+      "iso2": "RW",
+      "aliases": [
+        "Rwanda",
+        "Republic of Rwanda",
+        "Repubulika y'u Rwanda",
+        "République du Rwanda"
+      ],
+      "cities": [
+        "Kigali"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "saint_barthelemy",
+      "name": "Saint Barthélemy",
+      "iso2": "BL",
+      "aliases": [
+        "Saint Barthélemy",
+        "Collectivity of Saint Barthélemy",
+        "St. Barthelemy",
+        "Collectivité de Saint-Barthélemy"
+      ],
+      "cities": [
+        "Gustavia"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "saint_helena_ascension_and_tristan_da_cunha",
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "iso2": "SH",
+      "aliases": [
+        "Saint Helena, Ascension and Tristan da Cunha",
+        "Saint Helena",
+        "St. Helena, Ascension and Tristan da Cunha"
+      ],
+      "cities": [
+        "Jamestown"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "saint_kitts_and_nevis",
+      "name": "Saint Kitts and Nevis",
+      "iso2": "KN",
+      "aliases": [
+        "Saint Kitts and Nevis",
+        "Federation of Saint Christopher and Nevis"
+      ],
+      "cities": [
+        "Basseterre"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "saint_lucia",
+      "name": "Saint Lucia",
+      "iso2": "LC",
+      "aliases": [
+        "Saint Lucia"
+      ],
+      "cities": [
+        "Castries"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "saint_martin",
+      "name": "Saint Martin",
+      "iso2": "MF",
+      "aliases": [
+        "Saint Martin",
+        "Collectivity of Saint Martin",
+        "Collectivité de Saint-Martin",
+        "Saint Martin (French part)"
+      ],
+      "cities": [
+        "Marigot"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "saint_pierre_and_miquelon",
+      "name": "Saint Pierre and Miquelon",
+      "iso2": "PM",
+      "aliases": [
+        "Saint Pierre and Miquelon",
+        "Collectivité territoriale de Saint-Pierre-et-Miquelon"
+      ],
+      "cities": [
+        "Saint-Pierre"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "saint_vincent_and_the_grenadines",
+      "name": "Saint Vincent and the Grenadines",
+      "iso2": "VC",
+      "aliases": [
+        "Saint Vincent and the Grenadines"
+      ],
+      "cities": [
+        "Kingstown"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "samoa",
+      "name": "Samoa",
+      "iso2": "WS",
+      "aliases": [
+        "Samoa",
+        "Independent State of Samoa",
+        "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+      ],
+      "cities": [
+        "Apia"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "san_marino",
+      "name": "San Marino",
+      "iso2": "SM",
+      "aliases": [
+        "San Marino",
+        "Most Serene Republic of San Marino",
+        "Republic of San Marino",
+        "Repubblica di San Marino"
+      ],
+      "cities": [
+        "City of San Marino"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "sao_tome_and_principe",
+      "name": "São Tomé and Príncipe",
+      "iso2": "ST",
+      "aliases": [
+        "São Tomé and Príncipe",
+        "Democratic Republic of São Tomé and Príncipe",
+        "República Democrática de São Tomé e Príncipe"
+      ],
+      "cities": [
+        "São Tomé"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "saudi_arabia",
+      "name": "Saudi Arabia",
+      "iso2": "SA",
+      "aliases": [
+        "Saudi Arabia",
+        "Kingdom of Saudi Arabia",
+        "Saudi",
+        "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
+      ],
+      "cities": [
+        "Riyadh"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "senegal",
+      "name": "Senegal",
+      "iso2": "SN",
+      "aliases": [
+        "Senegal",
+        "Republic of Senegal",
+        "République du Sénégal"
+      ],
+      "cities": [
+        "Dakar"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "serbia",
+      "name": "Serbia",
+      "iso2": "RS",
+      "aliases": [
+        "Serbia",
+        "Republic of Serbia",
+        "Srbija",
+        "Republika Srbija",
+        "Србија",
+        "Република Србија"
+      ],
+      "cities": [
+        "Belgrade"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "seychelles",
+      "name": "Seychelles",
+      "iso2": "SC",
+      "aliases": [
+        "Seychelles",
+        "Republic of Seychelles",
+        "Repiblik Sesel",
+        "République des Seychelles"
+      ],
+      "cities": [
+        "Victoria"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "sierra_leone",
+      "name": "Sierra Leone",
+      "iso2": "SL",
+      "aliases": [
+        "Sierra Leone",
+        "Republic of Sierra Leone"
+      ],
+      "cities": [
+        "Freetown"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "singapore",
+      "name": "Singapore",
+      "iso2": "SG",
+      "aliases": [
+        "Singapore",
+        "Republic of Singapore",
+        "Singapura",
+        "Republik Singapura",
+        "新加坡共和国"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "sint_maarten",
+      "name": "Sint Maarten",
+      "iso2": "SX",
+      "aliases": [
+        "Sint Maarten",
+        "Sint Maarten (Dutch part)"
+      ],
+      "cities": [
+        "Philipsburg"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "slovakia",
+      "name": "Slovakia",
+      "iso2": "SK",
+      "aliases": [
+        "Slovakia",
+        "Slovak Republic",
+        "Slovenská republika"
+      ],
+      "cities": [
+        "Bratislava"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "slovenia",
+      "name": "Slovenia",
+      "iso2": "SI",
+      "aliases": [
+        "Slovenia",
+        "Republic of Slovenia",
+        "Republika Slovenija"
+      ],
+      "cities": [
+        "Ljubljana"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "solomon_islands",
+      "name": "Solomon Islands",
+      "iso2": "SB",
+      "aliases": [
+        "Solomon Islands"
+      ],
+      "cities": [
+        "Honiara"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "somalia",
+      "name": "Somalia",
+      "iso2": "SO",
+      "aliases": [
+        "Somalia",
+        "Federal Republic of Somalia",
+        "aṣ-Ṣūmāl",
+        "Jamhuuriyadda Federaalka Soomaaliya",
+        "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya"
+      ],
+      "cities": [
+        "Mogadishu"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "south_africa",
+      "name": "South Africa",
+      "iso2": "ZA",
+      "aliases": [
+        "South Africa",
+        "Republic of South Africa",
+        "Suid-Afrika"
+      ],
+      "cities": [
+        "Pretoria",
+        "Bloemfontein",
+        "Cape Town"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "south_georgia",
+      "name": "South Georgia",
+      "iso2": "GS",
+      "aliases": [
+        "South Georgia",
+        "South Georgia and the South Sandwich Islands"
+      ],
+      "cities": [
+        "King Edward Point"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "south_korea",
+      "name": "South Korea",
+      "iso2": "KR",
+      "aliases": [
+        "South Korea",
+        "Republic of Korea",
+        "Korea, Republic of",
+        "남조선"
+      ],
+      "cities": [
+        "Seoul"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "south_sudan",
+      "name": "South Sudan",
+      "iso2": "SS",
+      "aliases": [
+        "South Sudan",
+        "Republic of South Sudan"
+      ],
+      "cities": [
+        "Juba"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "spain",
+      "name": "Spain",
+      "iso2": "ES",
+      "aliases": [
+        "Spain",
+        "Kingdom of Spain",
+        "Reino de España",
+        "españa"
+      ],
+      "cities": [
+        "Madrid",
+        "barcelona",
+        "valencia",
+        "seville",
+        "sevilla",
+        "bilbao"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "sri_lanka",
+      "name": "Sri Lanka",
+      "iso2": "LK",
+      "aliases": [
+        "Sri Lanka",
+        "Democratic Socialist Republic of Sri Lanka",
+        "ilaṅkai"
+      ],
+      "cities": [
+        "Colombo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "sudan",
+      "name": "Sudan",
+      "iso2": "SD",
+      "aliases": [
+        "Sudan",
+        "Republic of the Sudan",
+        "Jumhūrīyat as-Sūdān"
+      ],
+      "cities": [
+        "Khartoum"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "suriname",
+      "name": "Suriname",
+      "iso2": "SR",
+      "aliases": [
+        "Suriname",
+        "Republic of Suriname",
+        "Sarnam",
+        "Sranangron",
+        "Republiek Suriname"
+      ],
+      "cities": [
+        "Paramaribo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "svalbard_and_jan_mayen",
+      "name": "Svalbard and Jan Mayen",
+      "iso2": "SJ",
+      "aliases": [
+        "Svalbard and Jan Mayen",
+        "Svalbard og Jan Mayen",
+        "Svalbard and Jan Mayen Islands"
+      ],
+      "cities": [
+        "Longyearbyen"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "sweden",
+      "name": "Sweden",
+      "iso2": "SE",
+      "aliases": [
+        "Sweden",
+        "Kingdom of Sweden",
+        "Konungariket Sverige"
+      ],
+      "cities": [
+        "Stockholm"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "switzerland",
+      "name": "Switzerland",
+      "iso2": "CH",
+      "aliases": [
+        "Switzerland",
+        "Swiss Confederation",
+        "Schweiz",
+        "Suisse",
+        "Svizzera",
+        "Svizra"
+      ],
+      "cities": [
+        "Bern"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "syria",
+      "name": "Syria",
+      "iso2": "SY",
+      "aliases": [
+        "Syria",
+        "Syrian Arab Republic",
+        "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
+      ],
+      "cities": [
+        "Damascus"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "taiwan",
+      "name": "Taiwan",
+      "iso2": "TW",
+      "aliases": [
+        "Taiwan",
+        "Republic of China (Taiwan)",
+        "Republic of China",
+        "中華民國",
+        "Zhōnghuá Mínguó",
+        "Chinese Taipei"
+      ],
+      "cities": [
+        "Taipei"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "tajikistan",
+      "name": "Tajikistan",
+      "iso2": "TJ",
+      "aliases": [
+        "Tajikistan",
+        "Republic of Tajikistan",
+        "Toçikiston",
+        "Ҷумҳурии Тоҷикистон",
+        "Çumhuriyi Toçikiston"
+      ],
+      "cities": [
+        "Dushanbe"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "tanzania",
+      "name": "Tanzania",
+      "iso2": "TZ",
+      "aliases": [
+        "Tanzania",
+        "United Republic of Tanzania",
+        "Tanzania, United Republic of",
+        "Jamhuri ya Muungano wa Tanzania"
+      ],
+      "cities": [
+        "Dodoma"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "thailand",
+      "name": "Thailand",
+      "iso2": "TH",
+      "aliases": [
+        "Thailand",
+        "Kingdom of Thailand",
+        "Prathet",
+        "Thai",
+        "ราชอาณาจักรไทย",
+        "Ratcha Anachak Thai"
+      ],
+      "cities": [
+        "Bangkok"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "timor_leste",
+      "name": "Timor-Leste",
+      "iso2": "TL",
+      "aliases": [
+        "Timor-Leste",
+        "Democratic Republic of Timor-Leste",
+        "East Timor",
+        "Timor",
+        "República Democrática de Timor-Leste",
+        "Repúblika Demokrátika Timór-Leste",
+        "Timór Lorosa'e",
+        "Timor Lorosae"
+      ],
+      "cities": [
+        "Dili"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "togo",
+      "name": "Togo",
+      "iso2": "TG",
+      "aliases": [
+        "Togo",
+        "Togolese Republic",
+        "Togolese",
+        "République Togolaise"
+      ],
+      "cities": [
+        "Lomé"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "tokelau",
+      "name": "Tokelau",
+      "iso2": "TK",
+      "aliases": [
+        "Tokelau"
+      ],
+      "cities": [
+        "Fakaofo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "tonga",
+      "name": "Tonga",
+      "iso2": "TO",
+      "aliases": [
+        "Tonga",
+        "Kingdom of Tonga"
+      ],
+      "cities": [
+        "Nuku'alofa"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "trinidad_and_tobago",
+      "name": "Trinidad and Tobago",
+      "iso2": "TT",
+      "aliases": [
+        "Trinidad and Tobago",
+        "Republic of Trinidad and Tobago"
+      ],
+      "cities": [
+        "Port of Spain"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "tunisia",
+      "name": "Tunisia",
+      "iso2": "TN",
+      "aliases": [
+        "Tunisia",
+        "Tunisian Republic",
+        "Republic of Tunisia",
+        "al-Jumhūriyyah at-Tūnisiyyah"
+      ],
+      "cities": [
+        "Tunis"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "turkey",
+      "name": "Turkey",
+      "iso2": "TR",
+      "aliases": [
+        "Türkiye",
+        "Republic of Türkiye",
+        "Republic of Turkey",
+        "Türkiye Cumhuriyeti",
+        "turkey"
+      ],
+      "cities": [
+        "Ankara",
+        "istanbul",
+        "izmir",
+        "bursa",
+        "antalya"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "turkmenistan",
+      "name": "Turkmenistan",
+      "iso2": "TM",
+      "aliases": [
+        "Turkmenistan"
+      ],
+      "cities": [
+        "Ashgabat"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "turks_and_caicos_islands",
+      "name": "Turks and Caicos Islands",
+      "iso2": "TC",
+      "aliases": [
+        "Turks and Caicos Islands"
+      ],
+      "cities": [
+        "Cockburn Town"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "tuvalu",
+      "name": "Tuvalu",
+      "iso2": "TV",
+      "aliases": [
+        "Tuvalu"
+      ],
+      "cities": [
+        "Funafuti"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "uganda",
+      "name": "Uganda",
+      "iso2": "UG",
+      "aliases": [
+        "Uganda",
+        "Republic of Uganda",
+        "Jamhuri ya Uganda"
+      ],
+      "cities": [
+        "Kampala"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "ukraine",
+      "name": "Ukraine",
+      "iso2": "UA",
+      "aliases": [
+        "Ukraine",
+        "Ukrayina",
+        "україна"
+      ],
+      "cities": [
+        "Kyiv",
+        "kiev",
+        "lviv",
+        "kharkiv",
+        "odesa",
+        "odessa",
+        "dnipro"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "united_arab_emirates",
+      "name": "United Arab Emirates",
+      "iso2": "AE",
+      "aliases": [
+        "United Arab Emirates",
+        "Emirates"
+      ],
+      "cities": [
+        "Abu Dhabi"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "united_kingdom",
+      "name": "United Kingdom",
+      "iso2": "GB",
+      "aliases": [
+        "United Kingdom",
+        "United Kingdom of Great Britain and Northern Ireland",
+        "Great Britain",
+        "uk",
+        "u.k.",
+        "england",
+        "scotland",
+        "wales",
+        "northern ireland"
+      ],
+      "cities": [
+        "London",
+        "manchester",
+        "birmingham",
+        "edinburgh",
+        "glasgow",
+        "bristol",
+        "leeds",
+        "cambridge"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "united_states",
+      "name": "United States",
+      "iso2": "US",
+      "aliases": [
+        "United States",
+        "United States of America",
+        "usa",
+        "u.s.a",
+        "u.s.",
+        "america"
+      ],
+      "cities": [
+        "Washington D.C.",
+        "new york",
+        "san francisco",
+        "los angeles",
+        "seattle",
+        "austin",
+        "chicago",
+        "boston",
+        "atlanta",
+        "denver",
+        "portland"
+      ],
+      "overrides": [
+        "atlanta, georgia"
+      ]
+    },
+    {
+      "slug": "united_states_minor_outlying_islands",
+      "name": "United States Minor Outlying Islands",
+      "iso2": "UM",
+      "aliases": [
+        "United States Minor Outlying Islands"
+      ],
+      "cities": [],
+      "overrides": []
+    },
+    {
+      "slug": "united_states_virgin_islands",
+      "name": "United States Virgin Islands",
+      "iso2": "VI",
+      "aliases": [
+        "United States Virgin Islands",
+        "Virgin Islands of the United States",
+        "Virgin Islands, U.S."
+      ],
+      "cities": [
+        "Charlotte Amalie"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "uruguay",
+      "name": "Uruguay",
+      "iso2": "UY",
+      "aliases": [
+        "Uruguay",
+        "Oriental Republic of Uruguay",
+        "República Oriental del Uruguay"
+      ],
+      "cities": [
+        "Montevideo"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "uzbekistan",
+      "name": "Uzbekistan",
+      "iso2": "UZ",
+      "aliases": [
+        "Uzbekistan",
+        "Republic of Uzbekistan",
+        "O‘zbekiston Respublikasi",
+        "Ўзбекистон Республикаси"
+      ],
+      "cities": [
+        "Tashkent"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "vanuatu",
+      "name": "Vanuatu",
+      "iso2": "VU",
+      "aliases": [
+        "Vanuatu",
+        "Republic of Vanuatu",
+        "Ripablik blong Vanuatu",
+        "République de Vanuatu"
+      ],
+      "cities": [
+        "Port Vila"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "vatican_city",
+      "name": "Vatican City",
+      "iso2": "VA",
+      "aliases": [
+        "Vatican City",
+        "Vatican City State",
+        "Holy See (Vatican City State)",
+        "Vatican",
+        "Stato della Città del Vaticano"
+      ],
+      "cities": [
+        "Vatican City"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "venezuela",
+      "name": "Venezuela",
+      "iso2": "VE",
+      "aliases": [
+        "Venezuela",
+        "Bolivarian Republic of Venezuela",
+        "Venezuela, Bolivarian Republic of",
+        "República Bolivariana de Venezuela"
+      ],
+      "cities": [
+        "Caracas"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "vietnam",
+      "name": "Vietnam",
+      "iso2": "VN",
+      "aliases": [
+        "Vietnam",
+        "Socialist Republic of Vietnam",
+        "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+        "Viet Nam"
+      ],
+      "cities": [
+        "Hanoi"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "wallis_and_futuna",
+      "name": "Wallis and Futuna",
+      "iso2": "WF",
+      "aliases": [
+        "Wallis and Futuna",
+        "Territory of the Wallis and Futuna Islands",
+        "Territoire des îles Wallis et Futuna"
+      ],
+      "cities": [
+        "Mata-Utu"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "western_sahara",
+      "name": "Western Sahara",
+      "iso2": "EH",
+      "aliases": [
+        "Western Sahara",
+        "Sahrawi Arab Democratic Republic",
+        "Taneẓroft Tutrimt"
+      ],
+      "cities": [
+        "El Aaiún"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "yemen",
+      "name": "Yemen",
+      "iso2": "YE",
+      "aliases": [
+        "Yemen",
+        "Republic of Yemen",
+        "Yemeni Republic",
+        "al-Jumhūriyyah al-Yamaniyyah"
+      ],
+      "cities": [
+        "Sana'a"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "zambia",
+      "name": "Zambia",
+      "iso2": "ZM",
+      "aliases": [
+        "Zambia",
+        "Republic of Zambia"
+      ],
+      "cities": [
+        "Lusaka"
+      ],
+      "overrides": []
+    },
+    {
+      "slug": "zimbabwe",
+      "name": "Zimbabwe",
+      "iso2": "ZW",
+      "aliases": [
+        "Zimbabwe",
+        "Republic of Zimbabwe"
+      ],
+      "cities": [
+        "Harare"
+      ],
       "overrides": []
     }
   ]

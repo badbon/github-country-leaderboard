@@ -1,26 +1,38 @@
-import { CACHE_DIR, MARKDOWN_DIRS } from "./paths.js";
-import { readJson, writeJson, writeText } from "./storage.js";
+import { CACHE_DIR, MARKDOWN_DIRS, STATE_PATH } from "./paths.js";
+import { readJson, removeFile, writeJson, writeText } from "./storage.js";
 import { renderLeaderboard } from "./render.js";
 import { classifyLocation } from "./classifier.js";
 import { dedupeUsers } from "./ranking.js";
 
-export async function generateMarkdown({ countries, generatedAt = new Date().toISOString() }) {
+export async function generateMarkdown({ countries, generatedAt = new Date().toISOString(), state = null }) {
+  const effectiveState = state ?? await readJson(STATE_PATH, null);
   const caches = await normalizeCaches(countries);
   for (const country of countries) {
+    const paths = markdownPaths(country.slug);
+    if (!isComplete(effectiveState, country.slug)) {
+      await removeFile(paths.publicContributions);
+      await removeFile(paths.totalContributions);
+      await removeFile(paths.followers);
+      continue;
+    }
+
     const users = caches[country.slug] ?? [];
-    await writeText(
-      `${MARKDOWN_DIRS.publicContributions}/${country.slug}.md`,
-      renderLeaderboard({ country, users, category: "publicContributions", generatedAt })
-    );
-    await writeText(
-      `${MARKDOWN_DIRS.totalContributions}/${country.slug}.md`,
-      renderLeaderboard({ country, users, category: "totalContributions", generatedAt })
-    );
-    await writeText(
-      `${MARKDOWN_DIRS.followers}/${country.slug}.md`,
-      renderLeaderboard({ country, users, category: "followers", generatedAt })
-    );
+    await writeText(paths.publicContributions, renderLeaderboard({ country, users, category: "publicContributions", generatedAt }));
+    await writeText(paths.totalContributions, renderLeaderboard({ country, users, category: "totalContributions", generatedAt }));
+    await writeText(paths.followers, renderLeaderboard({ country, users, category: "followers", generatedAt }));
   }
+}
+
+function isComplete(state, slug) {
+  return state?.version === 3 && state.countries?.[slug]?.status === "complete";
+}
+
+function markdownPaths(slug) {
+  return {
+    publicContributions: `${MARKDOWN_DIRS.publicContributions}/${slug}.md`,
+    totalContributions: `${MARKDOWN_DIRS.totalContributions}/${slug}.md`,
+    followers: `${MARKDOWN_DIRS.followers}/${slug}.md`
+  };
 }
 
 async function normalizeCaches(countries) {

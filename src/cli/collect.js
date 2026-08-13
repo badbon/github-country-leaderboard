@@ -14,7 +14,7 @@ const client = args.mock
 
 const result = await collect({ countries, client, maxQueries, dryRun });
 if (!dryRun) {
-  await generateMarkdown({ countries });
+  await generateMarkdown({ countries, state: result.state });
 }
 
 console.log(JSON.stringify({

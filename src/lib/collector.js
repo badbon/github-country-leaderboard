@@ -13,11 +13,12 @@ const ENRICH_BATCH_SIZE = 20;
 const DISCOVERY_SHARD_DAYS = 365;
 const SEARCH_DELAY_MS = 2100;
 const ENRICH_DELAY_MS = 250;
+export const STATE_VERSION = 3;
 
 const DEFAULT_STATE = {
-  version: 2,
-  queue: [],
-  completed: {},
+  version: STATE_VERSION,
+  countries: {},
+  nextCountryIndex: 0,
   lastRunStartedAt: null,
   lastRunFinishedAt: null,
   stats: {
@@ -43,10 +44,14 @@ export async function collect({
   let requests = 0;
   state.lastRunStartedAt = now.toISOString();
 
-  while (state.queue.length && requests < maxQueries) {
-    const task = state.queue.shift();
+  while (requests < maxQueries) {
+    const countryState = selectNextCountry(state, countries);
+    if (!countryState) break;
+
+    const task = countryState.queue.shift();
     const key = taskKey(task);
-    if (state.completed[key] && !task.page) continue;
+    if (countryState.completed[key] && !task.page) continue;
+    countryState.status = "discovering";
 
     const query = buildSearchQuery(task);
     const page = task.page ?? 1;
@@ -57,17 +62,22 @@ export async function collect({
       search = await requestWithBackoff(() =>
         client.searchUsers({ query, page, perPage: SEARCH_PAGE_SIZE }), sleep);
     } catch (error) {
-      if (!shouldSplitAfterFailure(error)) throw error;
-      state.queue.unshift(...splitTask(task));
+      if (!shouldSplitAfterFailure(error)) {
+        markFailed(countryState, error);
+        await persist(state, caches, dryRun);
+        throw error;
+      }
+      countryState.queue.unshift(...splitTask(task));
       await persist(state, caches, dryRun);
       continue;
     }
 
     requests += 1;
     state.stats.searchRequests += 1;
+    countryState.stats.searchRequests += 1;
 
     if ((search.total > SEARCH_RESULT_CAP || search.incomplete) && page === 1) {
-      state.queue.unshift(...splitTask(task));
+      countryState.queue.unshift(...splitTask(task));
       await persist(state, caches, dryRun);
       await sleep(SEARCH_DELAY_MS);
       continue;
@@ -85,6 +95,7 @@ export async function collect({
         client.enrichUsers({ logins: batch, contributionWindow }), sleep);
       requests += 1;
       state.stats.enrichmentRequests += 1;
+      countryState.stats.enrichmentRequests += 1;
       enriched.push(...response.users);
       await sleep(ENRICH_DELAY_MS);
     }
@@ -93,41 +104,98 @@ export async function collect({
     state.stats.usersDiscovered += search.users.length;
     state.stats.usersEnriched += enriched.length;
     state.stats.usersKept = Object.values(caches).reduce((total, list) => total + list.length, 0);
+    countryState.stats.usersDiscovered += search.users.length;
+    countryState.stats.usersEnriched += enriched.length;
+    countryState.stats.usersKept = caches[task.country]?.length ?? 0;
+    countryState.lastDiscoveryAt = new Date().toISOString();
 
     const lastPage = Math.ceil(Math.min(search.total, SEARCH_RESULT_CAP) / SEARCH_PAGE_SIZE);
     if (!fullyEnriched) {
-      state.queue.unshift({ ...task, page });
+      countryState.queue.unshift({ ...task, page });
     } else if (page < lastPage) {
-      state.queue.unshift({ ...task, page: page + 1 });
+      countryState.queue.unshift({ ...task, page: page + 1 });
     } else {
-      state.completed[key] = {
+      countryState.completed[key] = {
         completedAt: new Date().toISOString(),
         total: search.total,
         kept: enriched.length
       };
     }
 
+    markCompleteIfDone(countryState);
     await persist(state, caches, dryRun);
     await sleep(SEARCH_DELAY_MS);
   }
 
   state.lastRunFinishedAt = new Date().toISOString();
   await persist(state, caches, dryRun);
-  return { state, queries: requests, remainingTasks: state.queue.length };
+  return { state, queries: requests, remainingTasks: remainingTasks(state) };
 }
 
 async function loadState(countries, now) {
   const state = await readJson(STATE_PATH, DEFAULT_STATE);
-  const cutoff = previousDate(formatDate(monthsAgo(now, 3)));
-  if (state.version === 2 && (state.queue?.length || Object.keys(state.completed ?? {}).length)) {
-    return { ...DEFAULT_STATE, ...state };
-  }
-
-  return { ...DEFAULT_STATE, queue: buildInitialQueue(countries, cutoff) };
+  if (state?.version !== STATE_VERSION) return createInitialState(countries, now);
+  return normalizeState(state, countries, now);
 }
 
-function buildInitialQueue(countries, cutoff) {
-  const terms = buildTerms(countries)
+export function createInitialState(countries, now = new Date()) {
+  const cutoff = previousDate(formatDate(monthsAgo(now, 3)));
+  return {
+    ...DEFAULT_STATE,
+    countries: Object.fromEntries(countries.map((country) => [
+      country.slug,
+      createCountryState(country, cutoff)
+    ]))
+  };
+}
+
+function normalizeState(state, countries, now) {
+  const initial = createInitialState(countries, now);
+  const normalized = {
+    ...DEFAULT_STATE,
+    ...state,
+    version: STATE_VERSION,
+    countries: {}
+  };
+
+  for (const country of countries) {
+    normalized.countries[country.slug] = state.countries?.[country.slug]
+      ? { ...initial.countries[country.slug], ...state.countries[country.slug] }
+      : initial.countries[country.slug];
+    normalized.countries[country.slug].stats = {
+      ...initial.countries[country.slug].stats,
+      ...(state.countries?.[country.slug]?.stats ?? {})
+    };
+    normalized.countries[country.slug].completed = state.countries?.[country.slug]?.completed ?? {};
+    normalized.countries[country.slug].queue = state.countries?.[country.slug]?.queue ?? initial.countries[country.slug].queue;
+    markCompleteIfDone(normalized.countries[country.slug]);
+  }
+
+  return normalized;
+}
+
+function createCountryState(country, cutoff) {
+  return {
+    slug: country.slug,
+    status: "pending",
+    queue: buildCountryQueue(country, cutoff),
+    completed: {},
+    lastDiscoveryAt: null,
+    lastDiscoveryCompletedAt: null,
+    lastContributionRefreshAt: null,
+    lastError: null,
+    stats: {
+      searchRequests: 0,
+      enrichmentRequests: 0,
+      usersDiscovered: 0,
+      usersEnriched: 0,
+      usersKept: 0
+    }
+  };
+}
+
+function buildCountryQueue(country, cutoff) {
+  const terms = buildTerms([country])
     .filter((term) => term.term.trim().length > 2)
     .sort((a, b) => {
       if (a.kind !== b.kind) return a.kind === "country" ? -1 : 1;
@@ -136,6 +204,26 @@ function buildInitialQueue(countries, cutoff) {
   return dateRanges(FIRST_GITHUB_USER_DATE, cutoff).flatMap((range) =>
     terms.map((term) => ({ ...term, ...range }))
   );
+}
+
+export function selectNextCountry(state, countries) {
+  const georgia = state.countries.georgia;
+  if (georgia?.status !== "complete" && georgia?.queue?.length) return georgia;
+
+  const rotating = countries
+    .map((country) => country.slug)
+    .filter((slug) => slug !== "georgia");
+
+  for (let offset = 0; offset < rotating.length; offset += 1) {
+    const index = (state.nextCountryIndex + offset) % rotating.length;
+    const countryState = state.countries[rotating[index]];
+    if (countryState?.status !== "complete" && countryState?.queue?.length) {
+      state.nextCountryIndex = (index + 1) % rotating.length;
+      return countryState;
+    }
+  }
+
+  return null;
 }
 
 function dateRanges(start, end) {
@@ -170,6 +258,28 @@ function mergeUsers(caches, countries, users) {
     if (!slug) continue;
     caches[slug] = dedupeUsers([...(caches[slug] ?? []), user]);
   }
+}
+
+function markCompleteIfDone(countryState) {
+  if (!countryState.queue.length && countryState.status !== "complete") {
+    countryState.status = "complete";
+    countryState.lastDiscoveryCompletedAt = new Date().toISOString();
+    countryState.lastError = null;
+  }
+}
+
+function markFailed(countryState, error) {
+  countryState.status = "failed";
+  countryState.lastError = {
+    message: error.message,
+    status: error.status ?? null,
+    at: new Date().toISOString()
+  };
+}
+
+function remainingTasks(state) {
+  return Object.values(state.countries ?? {}).reduce((total, countryState) =>
+    total + (countryState.queue?.length ?? 0), 0);
 }
 
 async function requestWithBackoff(request, sleep) {

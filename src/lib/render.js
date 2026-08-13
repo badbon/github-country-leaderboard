@@ -19,7 +19,7 @@ const CATEGORY_META = {
 export function renderLeaderboard({ country, users, category, generatedAt }) {
   const meta = CATEGORY_META[category];
   const value = valueForCategory(category);
-  const rows = sortForCategory(users, category).slice(0, 1000);
+  const rows = sortForCategory(users, category).slice(0, 20);
   const lines = [
     `# ${meta.title} - ${country.name}`,
     "",
