@@ -118,5 +118,53 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2025-06-22T16:33:50Z"
+  },
+  {
+    "login": "SoumailaKanfana",
+    "name": "Soumaila Kanfana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/220211197?s=72&u=b75b802b245414de78847a566cbeb076d4f955c1&v=4",
+    "location": "Bamako",
+    "company": "CAGESI",
+    "twitterUsername": "jaimeleomessi",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 82,
+    "createdAt": "2025-07-10T14:11:03Z"
+  },
+  {
+    "login": "Aicha-Dembele",
+    "name": "Aicha Dembele",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/223644105?s=72&v=4",
+    "location": "Bamako ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2025-07-30T09:22:16Z"
+  },
+  {
+    "login": "BoubacarBrehimaCoulibaly",
+    "name": "Boubacar Brehima Coulibaly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/226677458?s=72&v=4",
+    "location": "Bamako",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-08-15T08:39:14Z"
+  },
+  {
+    "login": "journalechosmedias-a11y",
+    "name": "Groupe ÉchosMédias SARL ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232718736?s=72&v=4",
+    "location": "Magnambougou projet Rue:411, Porte:598 Bamako ",
+    "company": "Groupe ÉchosMédias SARL ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-09-17T02:40:25Z"
   }
 ]

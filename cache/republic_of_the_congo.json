@@ -478,5 +478,41 @@
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2025-04-19T11:24:49Z"
+  },
+  {
+    "login": "Nianga-hussein",
+    "name": "NIANGA Claude Hussein",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200837714?s=72&u=c9e839974b4529df5d698c0caf75121f493f5df8&v=4",
+    "location": "Brazzaville",
+    "company": "NOVATECH",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 871,
+    "publicContributions": 171,
+    "createdAt": "2025-02-25T19:11:37Z"
+  },
+  {
+    "login": "gedeon2306",
+    "name": "JihrelDev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193806995?s=72&u=1ad1af88bd7df5dc701410097fa48bcc58869859&v=4",
+    "location": "Brazzaville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1571,
+    "createdAt": "2025-01-05T15:15:11Z"
+  },
+  {
+    "login": "lafondcodeur",
+    "name": "MACK LAFOND De Boumas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209613762?s=72&u=662d5bbdd1763ed5f66cf24846756324f3bfcff3&v=4",
+    "location": "Brazzaville",
+    "company": "PossaCode",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 156,
+    "publicContributions": 322,
+    "createdAt": "2025-04-29T09:17:56Z"
   }
 ]

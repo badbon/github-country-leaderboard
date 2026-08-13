@@ -5350,5 +5350,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-13T09:16:15Z"
+  },
+  {
+    "login": "RavieLououadi",
+    "name": "LOURA_YADE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193235380?s=72&u=73858f4c371d73dd400a3604f9baefb5ef9d9afa&v=4",
+    "location": "Brazzaville, France",
+    "company": "ECES, ECAR student",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-12-30T12:48:22Z"
+  },
+  {
+    "login": "Rrs-Hum",
+    "name": "Rares P. Lascau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195936529?s=72&u=13fdee09d5e719d139475b1b19dee406dd5e8ce7&v=4",
+    "location": "France/Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 68,
+    "createdAt": "2025-01-21T16:14:31Z"
+  },
+  {
+    "login": "abstractn0nsense",
+    "name": "Seungho Kang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280307328?s=72&u=b3f1687bfcd597ea7860f2f8f268e2e9122a6238&v=4",
+    "location": "Seoul and somtimes Paris",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 165,
+    "createdAt": "2026-04-29T08:43:18Z"
   }
 ]

@@ -4414,5 +4414,101 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2025-02-06T04:09:56Z"
+  },
+  {
+    "login": "HuamanNicolas",
+    "name": "Huaman Ortiz Nicolas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217599784?s=72&v=4",
+    "location": "Argentina, San Juan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2025-06-23T12:50:37Z"
+  },
+  {
+    "login": "juanmartinlopez",
+    "name": "Juan Martin Lopez Frau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201628156?s=72&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2025-03-03T17:08:42Z"
+  },
+  {
+    "login": "masterkprod",
+    "name": "Gonzalo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224143239?s=72&u=375bcb9dd8e6304c38e05cb38807952df01af98e&v=4",
+    "location": "Argentina, San Juan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 992,
+    "publicContributions": 86,
+    "createdAt": "2025-08-01T17:44:08Z"
+  },
+  {
+    "login": "eormeno-idei",
+    "name": "Emilio Gustavo Ormeno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205173727?s=72&u=27e783b2fec5884b91d2588c6822159e0a95df3c&v=4",
+    "location": "San Juan, Argentina",
+    "company": "National University of San Juan",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 501,
+    "createdAt": "2025-03-27T11:55:48Z"
+  },
+  {
+    "login": "leticiamamani",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/228602604?s=72&u=29cc756572d5547e53e25016f32d1a5822ad8ff8&v=4",
+    "location": "Argentina, San Juan ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2025-08-25T22:09:22Z"
+  },
+  {
+    "login": "FacundoR26",
+    "name": "Facundo Ruarte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216799258?s=72&u=3adb463c61f6f4d24920e21f240ac6573c411863&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2025-06-18T00:08:29Z"
+  },
+  {
+    "login": "AlejoSavall",
+    "name": "Alejo Savall",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203048707?s=72&u=381d9a00a8d9c08f255b5d383c922cf0a1939453&v=4",
+    "location": "San Juan, Argentina",
+    "company": "UNSJ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2025-03-13T03:11:08Z"
+  },
+  {
+    "login": "TheMaxi18",
+    "name": "Máximo Supreme",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199115968?s=72&v=4",
+    "location": "Rivadavia / San Juan / Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2025-02-13T15:32:03Z"
   }
 ]

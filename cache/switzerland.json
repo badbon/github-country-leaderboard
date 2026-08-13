@@ -1366,5 +1366,41 @@
     "privateContributions": 0,
     "publicContributions": 516,
     "createdAt": "2026-01-06T08:33:01Z"
+  },
+  {
+    "login": "neoc-sys",
+    "name": "NEOC SYS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280687988?s=72&u=e28a68d29384ea6d0daca88ad090412097bd7fac&v=4",
+    "location": "BERN",
+    "company": "The National Emergency Operations Centre (NEOC) Switzerland",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-04-30T12:08:46Z"
+  },
+  {
+    "login": "AndrinAAF",
+    "name": "Andrin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253728423?s=72&u=2df442d814211a969989a318bb739c481f7b888e&v=4",
+    "location": "Bern (CH)",
+    "company": "Swiss Post",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-01-08T13:36:40Z"
+  },
+  {
+    "login": "shanbria",
+    "name": "Shanbria Laratta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270528353?s=72&u=4102e3baaad2103490b8488a4197253263a06f87&v=4",
+    "location": "Bern, Bern",
+    "company": "Tech Company",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-03-24T03:15:28Z"
   }
 ]

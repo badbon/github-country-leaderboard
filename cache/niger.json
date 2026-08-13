@@ -154,5 +154,29 @@
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2025-02-17T06:29:42Z"
+  },
+  {
+    "login": "oxy227",
+    "name": "Ayouba Issoufou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198197421?s=72&u=b0cd0674b588899d3542dbc8b3114c3927702099&v=4",
+    "location": "Niamey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 653,
+    "publicContributions": 0,
+    "createdAt": "2025-02-07T10:04:25Z"
+  },
+  {
+    "login": "certify227",
+    "name": "NigerCertify-offensive-lab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213706328?s=72&u=eeea895230b683bde05b9f29eba793fd108f4dc4&v=4",
+    "location": "Niamey",
+    "company": "Niger Certify",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2025-05-27T22:09:07Z"
   }
 ]

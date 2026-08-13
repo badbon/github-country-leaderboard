@@ -258,7 +258,7 @@
     "location": "Doha, Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-12-30T07:41:36Z"
@@ -898,5 +898,41 @@
     "privateContributions": 311,
     "publicContributions": 9,
     "createdAt": "2025-10-20T04:22:37Z"
+  },
+  {
+    "login": "gravemont-technologies",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/237687609?s=72&v=4",
+    "location": "Doha",
+    "company": "Gravemont",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2025-10-13T05:05:15Z"
+  },
+  {
+    "login": "Linodefi",
+    "name": "Lino Defi ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205420562?s=72&u=a9c353cac59fd0c635ace60623423960ceca47f5&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "Linodefi1",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2025-03-29T11:06:44Z"
+  },
+  {
+    "login": "ballack-dev",
+    "name": "Justin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193232949?s=72&v=4",
+    "location": "Doha",
+    "company": "Freelancing",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-12-30T12:16:07Z"
   }
 ]

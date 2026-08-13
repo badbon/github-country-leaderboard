@@ -166,5 +166,53 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2025-09-09T11:06:31Z"
+  },
+  {
+    "login": "KOLIPAIS",
+    "name": "akdeveloper",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204135345?s=72&v=4",
+    "location": "Port Moresby",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2025-03-20T05:22:50Z"
+  },
+  {
+    "login": "myitsolutionspg",
+    "name": "Melky Warinak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/228201899?s=72&u=0bb167cd100202a06227748a7489247a42c2979b&v=4",
+    "location": "Port Moresby",
+    "company": "My IT Solutions",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 2,
+    "publicContributions": 2346,
+    "createdAt": "2025-08-23T12:54:19Z"
+  },
+  {
+    "login": "DEVE123-dev",
+    "name": "Benjamin deve Bino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209603338?s=72&u=c8fe4a6990186fc3b88f9bd0e89f1651ce718c6b&v=4",
+    "location": "Port Moresby, NCDC",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 216,
+    "createdAt": "2025-04-29T07:54:25Z"
+  },
+  {
+    "login": "zincMeta",
+    "name": "ZINC ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195463333?s=72&u=a3c68402e816678e4d2bc83bbc8aa302e373c85b&v=4",
+    "location": "Port Moresby (NCD)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-01-17T14:59:11Z"
   }
 ]

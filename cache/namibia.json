@@ -358,5 +358,89 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2025-07-30T11:15:20Z"
+  },
+  {
+    "login": "MarthaTN",
+    "name": "Martha Taukuheke Nambahu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208054427?s=72&u=22d850d58525a7dc7f7ab36c4e844c5e75c9f064&v=4",
+    "location": "Windhoek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 111,
+    "createdAt": "2025-04-17T16:42:04Z"
+  },
+  {
+    "login": "Pandu3258",
+    "name": "H.Tumweneni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233276505?s=72&u=e92d5cf230797c7cb008a9819d5c6f42c0d3cd3d&v=4",
+    "location": "Windhoek",
+    "company": "#404Error",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2025-09-19T12:24:56Z"
+  },
+  {
+    "login": "DonConsultingServices",
+    "name": "DCS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208473321?s=72&u=5c35c36e4ef69a6015fece01741098582e0328d5&v=4",
+    "location": "Windhoek",
+    "company": "DCS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2025-04-21T11:56:47Z"
+  },
+  {
+    "login": "Adam-Noa-Dev",
+    "name": "Adam Noa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214631095?s=72&v=4",
+    "location": "Windhoek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2025-06-03T09:11:04Z"
+  },
+  {
+    "login": "douglasadaire",
+    "name": "Douglas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214658264?s=72&v=4",
+    "location": "Windhoek",
+    "company": "Adaire",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-06-03T12:37:36Z"
+  },
+  {
+    "login": "nashilongojose",
+    "name": "Josephine Angula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233489516?s=72&u=f2cfbe838fe8260f20dc169e0657139614958c8c&v=4",
+    "location": "Windhoek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-09-20T19:53:36Z"
+  },
+  {
+    "login": "booisbrendon31",
+    "name": "Rupert Brendon Boois",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207870651?s=72&u=7e9c3de95835ecca890fca183a18c0c2427739ea&v=4",
+    "location": "Windhoek",
+    "company": "Root View Security",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 97,
+    "createdAt": "2025-04-16T12:41:19Z"
   }
 ]

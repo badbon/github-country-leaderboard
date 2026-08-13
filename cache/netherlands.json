@@ -2206,5 +2206,101 @@
     "privateContributions": 209,
     "publicContributions": 87,
     "createdAt": "2026-03-11T10:52:53Z"
+  },
+  {
+    "login": "captainyorgen",
+    "name": "Captainyorgen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269823028?s=72&u=fe11f007fee226dc7f13194a1785f4fd2a95e446&v=4",
+    "location": "Eindhoven",
+    "company": "HAR agency",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 245,
+    "publicContributions": 6,
+    "createdAt": "2026-03-20T21:54:36Z"
+  },
+  {
+    "login": "josemacontrerasp-arch",
+    "name": "Jose Contreras",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260384678?s=72&v=4",
+    "location": "Eindhoven",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2026-02-09T08:56:27Z"
+  },
+  {
+    "login": "alkhalafa377-stack",
+    "name": "ahmed alkhalaf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266582820?s=72&u=0d7ea28e119fa7fddf1c6c9924e6ffdf7ffba156&v=4",
+    "location": "Eindhoven",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-03-08T22:53:28Z"
+  },
+  {
+    "login": "daand-vitalwear",
+    "name": "Daan Dieteren",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274814706?s=72&v=4",
+    "location": "Eindhoven",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-09T12:50:46Z"
+  },
+  {
+    "login": "yanyifanliao",
+    "name": "Yanyifan Liao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266683315?s=72&u=c88928de5ebf5a466070e4217e08343c8706a140&v=4",
+    "location": "Eindhoven HTC 36",
+    "company": "Philips Healthcare",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-09T09:00:05Z"
+  },
+  {
+    "login": "shuheihagiwara",
+    "name": "Shuhei Hagiwara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265847799?s=72&u=c33de857e1a89ef1bf4e9e90339cd2d09f4c3136&v=4",
+    "location": "Eindhoven - HTC36",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-05T15:39:32Z"
+  },
+  {
+    "login": "sabribendjebbar7-source",
+    "name": "Sabri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282240804?s=72&v=4",
+    "location": "eindhoven",
+    "company": "Alten",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-06T12:05:56Z"
+  },
+  {
+    "login": "levibaruch",
+    "name": "Levi Baruch",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258790603?s=72&u=8a1437de4d3e458ac5c82cb9ea3a4ce01eeaa1e0&v=4",
+    "location": "Eindhoven",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 322,
+    "publicContributions": 191,
+    "createdAt": "2026-02-02T10:05:08Z"
   }
 ]
