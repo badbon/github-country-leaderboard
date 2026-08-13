@@ -154,5 +154,29 @@
     "privateContributions": 0,
     "publicContributions": 51,
     "createdAt": "2026-01-20T16:10:15Z"
+  },
+  {
+    "login": "MateoParedes2004",
+    "name": "Mateo Paredes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265903271?s=72&u=53da18eccf59aade10a74829185e38697550b1f8&v=4",
+    "location": "Asunción, PY",
+    "company": "LT Recepciones",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-03-05T20:25:50Z"
+  },
+  {
+    "login": "navixsoft",
+    "name": "Navixsoft",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283820876?s=72&u=595a00b8e662d66bed8bf89e6cfab8c5753d3da5&v=4",
+    "location": "Asunción Py",
+    "company": "Software",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-11T23:30:15Z"
   }
 ]

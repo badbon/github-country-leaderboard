@@ -442,5 +442,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-21T13:58:11Z"
+  },
+  {
+    "login": "nancysamhan22-droid",
+    "name": "Nancy Samhan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252382926?s=72&v=4",
+    "location": "Ramallah",
+    "company": " Birzeit University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2025-12-31T21:17:42Z"
+  },
+  {
+    "login": "yazannasser004",
+    "name": "Yazan Nasser",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261522144?s=72&u=ba59fe9d7ef4c2380a532c846a4ce570b67f9388&v=4",
+    "location": "Ramallah ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2026-02-13T22:37:13Z"
   }
 ]

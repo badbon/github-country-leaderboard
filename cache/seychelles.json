@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "login": "ima17nepomuceno-spec",
+    "name": "Fatima Nepomuceno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259114242?s=72&u=74118e62ce3c777765ae4cc5ee4259883832bbbb&v=4",
+    "location": "San Francisco  Victoria, Laguna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-02-03T14:29:29Z"
+  },
+  {
+    "login": "elle-aoun",
+    "name": "elle aoun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254595243?s=72&u=ba325070a0fa95cfcd4ab4093ff17546e99ce136&v=4",
+    "location": "Victoria, BC",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-13T03:48:47Z"
+  },
+  {
+    "login": "HenryJess2026",
+    "name": "Henry Jess",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253565280?s=72&v=4",
+    "location": "Victoria, BC",
+    "company": "PSII",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-07T18:17:17Z"
+  },
+  {
+    "login": "stenagmois-byte",
+    "name": "Bob MacDonald",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280545729?s=72&v=4",
+    "location": "Victoria, BC",
+    "company": "Anthony MacAuley Associates",
+    "twitterUsername": "drmacdonald",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 202,
+    "createdAt": "2026-04-29T23:32:23Z"
+  },
+  {
+    "login": "mmalvicjunior-ship-it",
+    "name": "Malvic Junior Moyo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274540972?s=72&v=4",
+    "location": "Victoria falls",
+    "company": "uncommon.org",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 58,
+    "createdAt": "2026-04-08T14:11:26Z"
+  }
+]
