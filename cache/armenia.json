@@ -416,7 +416,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 1379,
-    "publicContributions": 64,
+    "publicContributions": 71,
     "createdAt": "2025-03-12T17:42:48Z"
   },
   {
@@ -536,7 +536,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 158,
-    "publicContributions": 85,
+    "publicContributions": 91,
     "createdAt": "2025-11-14T17:48:12Z"
   },
   {
@@ -776,7 +776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1335,
+    "publicContributions": 1340,
     "createdAt": "2025-04-14T10:37:32Z"
   },
   {
@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1379,
-    "publicContributions": 224,
+    "publicContributions": 225,
     "createdAt": "2025-06-09T11:51:11Z"
   },
   {
@@ -1066,5 +1066,137 @@
     "privateContributions": 0,
     "publicContributions": 51,
     "createdAt": "2024-03-09T22:39:30Z"
+  },
+  {
+    "login": "Grey0ne-dev",
+    "name": "Sergei",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195484701?s=72&u=7e37d80f32cf2d8a3602cfa030906494ba2f16ba&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 9,
+    "publicContributions": 136,
+    "createdAt": "2025-01-17T18:22:46Z"
+  },
+  {
+    "login": "Udumyan",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235378893?s=72&u=1a34eaea1b26a58c91e1d1688b73f9d5b5606306&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2025-09-30T19:19:53Z"
+  },
+  {
+    "login": "nunedally4",
+    "name": "Nune Dallakyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193228949?s=72&v=4",
+    "location": "Yerevan",
+    "company": "Fast Bank",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2024-12-30T11:20:52Z"
+  },
+  {
+    "login": "sashay29",
+    "name": "Sasha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198800043?s=72&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-02-11T17:54:14Z"
+  },
+  {
+    "login": "khachatryanDavid",
+    "name": "David Khachatryan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219397671?s=72&u=b95b5bca1f554e226cc1380ef0df96aaf5ea15bf&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2025-07-05T08:18:37Z"
+  },
+  {
+    "login": "monte-231218",
+    "name": "Lusine Mehrabyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246520484?s=72&u=399629582848b27c397dcff1c082ce9392b09396&v=4",
+    "location": "Yerevan, AM",
+    "company": "Converse Bank",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2025-11-27T15:07:43Z"
+  },
+  {
+    "login": "rastuhacode",
+    "name": "Rasten Remizov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224317650?s=72&u=b263c754a1587db04fab6811703204687138af14&v=4",
+    "location": "Yerevan",
+    "company": "ASTRA Group",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5,
+    "publicContributions": 359,
+    "createdAt": "2025-08-02T19:40:38Z"
+  },
+  {
+    "login": "Arsen1302",
+    "name": "Arsen Sirunyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219812110?s=72&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2025-07-08T08:29:28Z"
+  },
+  {
+    "login": "melikedo1337",
+    "name": "Eduard Melikyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209616874?s=72&u=7d9a1707675ae19902a49253c45b2f89b3cd9632&v=4",
+    "location": "Yerevan",
+    "company": "Boo Vision",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2025-04-29T09:41:02Z"
+  },
+  {
+    "login": "taronmnats-emerson",
+    "name": "Taron Mnatsakanyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199571670?s=72&u=3af3232c3f0e7125ca0951cee4effdab49ef11d9&v=4",
+    "location": "Yerevan",
+    "company": "Emerson",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-02-17T07:29:53Z"
+  },
+  {
+    "login": "Shavo87",
+    "name": "Shavo Grigoryan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198793897?s=72&u=ecb720888822ff83987837753c6fb07336318c72&v=4",
+    "location": "Yerevan",
+    "company": "Freelance",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-02-11T17:09:07Z"
   }
 ]

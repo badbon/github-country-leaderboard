@@ -190,5 +190,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-07T03:08:57Z"
+  },
+  {
+    "login": "kierennicolas",
+    "name": "Kieren",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80259320?s=72&u=f23be60c1382a9787b5a0573b2e52f0dd5d791a8&v=4",
+    "location": "Gibraltar, Gibraltar",
+    "company": "",
+    "twitterUsername": "kierennicolas",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2021-03-08T11:53:11Z"
+  },
+  {
+    "login": "JPMM-2",
+    "name": "JPMM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84038900?s=72&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-11T17:54:33Z"
+  },
+  {
+    "login": "AtlantisGawrGura",
+    "name": "Gawr Gura",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91890029?s=72&u=269caf2948850e6c8750e8337f3075426b55fd87&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-04T12:33:06Z"
   }
 ]

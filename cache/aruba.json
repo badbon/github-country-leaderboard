@@ -46,5 +46,53 @@
     "privateContributions": 848,
     "publicContributions": 0,
     "createdAt": "2022-12-12T16:45:30Z"
+  },
+  {
+    "login": "JunTechWebSolutions",
+    "name": "Juny Engelhart (AWS Aruba)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87913699?s=72&u=fd511a7ce754c8281c75d18ba34d4f6077ec8a1a&v=4",
+    "location": "Oranjestad, Aruba",
+    "company": "Lead Web Designer @AWSAruba",
+    "twitterUsername": "JWSARUBA",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2021-07-24T19:46:45Z"
+  },
+  {
+    "login": "juntechpcaruba",
+    "name": "Juny Engelhart (AWS Aruba)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78127636?s=72&u=74957d5bb411c0b49dbf7cdff62c5c61574655f4&v=4",
+    "location": "Aruba",
+    "company": "⟨Amazing Web Solutions Aruba⟩",
+    "twitterUsername": "JWSARUBA",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-28T03:00:06Z"
+  },
+  {
+    "login": "JunyEngelhart",
+    "name": "JunTech  (AWS Aruba)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79956978?s=72&u=56e5b2904eb17e5eca9b76c471fd2b57c0345130&v=4",
+    "location": "Oranjestad, Aruba",
+    "company": "Amazing Web Solutions Aruba",
+    "twitterUsername": "JWSARUBA",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-03T04:07:50Z"
+  },
+  {
+    "login": "IzaroHH",
+    "name": "Izaro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77403726?s=72&u=5251c593e4b6b6da9b0ab416082f167218debfcd&v=4",
+    "location": "Aruba",
+    "company": "Tedu Trainee",
+    "twitterUsername": "hh666_19",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-13T16:36:04Z"
   }
 ]

@@ -5806,5 +5806,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-21T16:25:50Z"
+  },
+  {
+    "login": "beaverr09",
+    "name": "Luca Accornero-Picon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282187275?s=72&u=cc22327737ea6824b65d61d1ed5619e95db917e7&v=4",
+    "location": "Marseille",
+    "company": "amU",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-05-06T08:32:11Z"
+  },
+  {
+    "login": "cedricbedu",
+    "name": "Bud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260394972?s=72&u=e0ae572376bf826bf4fa7d4f342149fcc9137ff4&v=4",
+    "location": "Marseille",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 141,
+    "createdAt": "2026-02-09T09:47:36Z"
+  },
+  {
+    "login": "Zonementale",
+    "name": "Gaetan Loubiere",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261512097?s=72&v=4",
+    "location": "Marseille",
+    "company": "zonementale",
+    "twitterUsername": "zonementale",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2026-02-13T21:10:10Z"
+  },
+  {
+    "login": "eyealion",
+    "name": "Arnaud Mobillion",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262585421?s=72&v=4",
+    "location": "marseille",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-02-19T13:17:41Z"
+  },
+  {
+    "login": "anna-glb",
+    "name": "Anna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268166486?s=72&u=9909b29dfde9f651f135fdc5b7fca23b6942c521&v=4",
+    "location": "Marseille ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-14T12:31:19Z"
+  },
+  {
+    "login": "unicornwhodev-afk",
+    "name": "Unicorn-Who-dev-public",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267779080?s=72&v=4",
+    "location": "marseille",
+    "company": "unicornwhodev",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-03-12T22:16:42Z"
+  },
+  {
+    "login": "romainmailliu",
+    "name": "Romain Mailliu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252201772?s=72&u=ecaf28641f1b0be8373c851c76e89451c3b22e53&v=4",
+    "location": "Marseille",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 149,
+    "createdAt": "2025-12-30T15:31:37Z"
+  },
+  {
+    "login": "Sabo167-exe",
+    "name": "Adrien",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260904725?s=72&u=a5c2c3d93e33dfc2443974456f3d7444ca126004&v=4",
+    "location": "Marseille",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2026-02-11T12:38:12Z"
   }
 ]

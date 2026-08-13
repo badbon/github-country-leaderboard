@@ -4066,5 +4066,29 @@
     "privateContributions": 0,
     "publicContributions": 153,
     "createdAt": "2025-02-17T11:02:24Z"
+  },
+  {
+    "login": "talentsache",
+    "name": "Mario Simic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184568179?s=72&u=52b298fd069a617a7442bb598114d40992baef70&v=4",
+    "location": "Austria / Croatia / Europe",
+    "company": "",
+    "twitterUsername": "talentsache",
+    "followers": 37,
+    "privateContributions": 2741,
+    "publicContributions": 452,
+    "createdAt": "2024-10-10T22:01:43Z"
+  },
+  {
+    "login": "mezoabris",
+    "name": "Abris Mezo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/140160643?s=72&v=4",
+    "location": "Austria, Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 130,
+    "publicContributions": 174,
+    "createdAt": "2023-07-21T09:55:13Z"
   }
 ]

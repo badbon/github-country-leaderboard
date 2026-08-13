@@ -406,5 +406,101 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-11-15T22:41:39Z"
+  },
+  {
+    "login": "fibini",
+    "name": "Fabien Brathwaite",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96378044?s=72&u=f977d71f108f04f5d0fb0285b6c5499ce027e9d6&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "Onenewpage1",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-19T12:40:03Z"
+  },
+  {
+    "login": "pauly277",
+    "name": "Paul Doyle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93150564?s=72&u=7c95eaf504cd08b61c653f5dd92645a348cf5abf&v=4",
+    "location": "Barbados",
+    "company": "Pride & Purity",
+    "twitterUsername": "PaulyD277",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-25T16:53:22Z"
+  },
+  {
+    "login": "mr-emreerturk",
+    "name": "Emre Ertürk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89454174?s=72&u=53599eca923ba3c84c4d0c088946e7cf5ca70ca1&v=4",
+    "location": "Bridgetown, Barbados",
+    "company": "EMF",
+    "twitterUsername": "mr_emreerturk",
+    "followers": 18,
+    "privateContributions": 13,
+    "publicContributions": 0,
+    "createdAt": "2021-08-24T10:00:13Z"
+  },
+  {
+    "login": "Drew246",
+    "name": "Andrew McCollin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81271886?s=72&u=1e843af5115b0a70f108aee6b9b9b12b92c134c1&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2021-03-24T00:41:31Z"
+  },
+  {
+    "login": "idbrooker",
+    "name": "Isaac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89042563?s=72&u=ab071ca1af536a746937ef094dcaa33a5ca28a8e&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-16T19:39:35Z"
+  },
+  {
+    "login": "kac246",
+    "name": "Krystal Clarke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84393629?s=72&u=56911afdca0961df7ed2d57cb45e52f6242d680b&v=4",
+    "location": "Bridgetown, Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-18T13:43:57Z"
+  },
+  {
+    "login": "JazzDev26",
+    "name": "Jasmine Greene",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93969576?s=72&u=0dc52a5910a3c20ff4e418fb9a19cf1c3466370a&v=4",
+    "location": "Barbados",
+    "company": "Private Caribbean Study Goals ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-09T06:44:13Z"
+  },
+  {
+    "login": "NathanAgard",
+    "name": "Nathan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93452140?s=72&u=bf90ff850ca0e464cc4c5c45c00405283b130555&v=4",
+    "location": "Bridgetown, Barbados",
+    "company": "Innovai Technologies",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-30T21:01:07Z"
   }
 ]

@@ -70,5 +70,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-02T02:52:03Z"
+  },
+  {
+    "login": "al-latte",
+    "name": "Karlisha Roberts",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90575629?s=72&u=c3373813b8d3010d165611845eb9704e71c8a625&v=4",
+    "location": "Grenada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2021-09-12T19:41:52Z"
+  },
+  {
+    "login": "SeanPrice13",
+    "name": "Bentley Price",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82528086?s=72&u=8846423acecbbfb9798f8a99ae1968c228b840e2&v=4",
+    "location": "Grand Anse, St. George's, Grenada",
+    "company": "Sean's Computer Services",
+    "twitterUsername": "SeanPrice13_YT",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-04-14T15:35:58Z"
+  },
+  {
+    "login": "leo-the-dev",
+    "name": "Leo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84322072?s=72&u=685259f41b5f7eb38ac8cf7753755b0ed8abd4ab&v=4",
+    "location": "Grenada",
+    "company": "LP Design Studio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-05-17T11:07:41Z"
+  },
+  {
+    "login": "kafialsa",
+    "name": "Kafi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84738506?s=72&v=4",
+    "location": "Grenada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-24T18:26:26Z"
   }
 ]

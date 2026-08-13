@@ -1654,5 +1654,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-01T16:00:55Z"
+  },
+  {
+    "login": "Supipoisid84",
+    "name": "Alex Kreimann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181458229?s=72&u=1bcbe6c1903add7d0b1086b057026fa9c32fb926&v=4",
+    "location": "Tallinn, Harjumaa, Eesti.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 87,
+    "createdAt": "2024-09-13T08:28:52Z"
+  },
+  {
+    "login": "torgal-dog",
+    "name": "Torgal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178887924?s=72&u=71aba36b30f0b3a7db7a77cc26469ad5f9e0f508&v=4",
+    "location": "Eesti 🇪🇪",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 28,
+    "publicContributions": 22,
+    "createdAt": "2024-08-20T09:40:21Z"
   }
 ]
