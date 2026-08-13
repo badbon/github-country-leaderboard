@@ -358,5 +358,53 @@
     "privateContributions": 42,
     "publicContributions": 1,
     "createdAt": "2026-04-09T07:28:05Z"
+  },
+  {
+    "login": "fastasyncworldedit",
+    "name": "FAWE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260934627?s=72&u=07f2a8da031d3b3c24e72196ff99f6e4083d2c43&v=4",
+    "location": "Bratislava",
+    "company": "FAWE",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-02-11T14:51:32Z"
+  },
+  {
+    "login": "juromartyscak",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283097163?s=72&v=4",
+    "location": "Bratislava ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-09T06:57:41Z"
+  },
+  {
+    "login": "hlinikove-pergoly",
+    "name": "Hliníkové Pergoly - Gazebo s.r.o.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273918723?s=72&u=e4ca33dea9d0f37934828cda7d71f6f0c170155d&v=4",
+    "location": "Pri hrádzi 10346/3, 821 06 Bratislava",
+    "company": "Hliníkové Pergoly - Gazebo s.r.o.",
+    "twitterUsername": "HlinikovePergo",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-06T05:08:46Z"
+  },
+  {
+    "login": "dzeleeeweb",
+    "name": "Tahirović Dževad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262544762?s=72&u=eeafdcdab96e502d9fa168e373d85fb6b40c1338&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-02-19T09:35:08Z"
   }
 ]

@@ -550,5 +550,53 @@
     "privateContributions": 957,
     "publicContributions": 480,
     "createdAt": "2026-02-16T15:33:20Z"
+  },
+  {
+    "login": "AdnanAlkrde",
+    "name": "Adnan Alkrde",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281955455?s=72&u=614d613d070f94729d15aa0b42872f730e539b24&v=4",
+    "location": "Damascus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2026-05-05T13:46:26Z"
+  },
+  {
+    "login": "ra5881322-dot",
+    "name": "Raghad Ahmad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252335188?s=72&u=5254ba07d924be2919c36dce64465c61e81ce59f&v=4",
+    "location": "Damascus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2025-12-31T12:53:57Z"
+  },
+  {
+    "login": "13fmbh-ui",
+    "name": "Mohammed hamza Raweh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277209864?s=72&u=7f3e4f6bb6bc910f7a87c98b35203f8b31329850&v=4",
+    "location": "Damascus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2026-04-18T07:29:45Z"
+  },
+  {
+    "login": "Rahafshhadih",
+    "name": "Rahaf Shhada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266384947?s=72&v=4",
+    "location": "Damascus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-07T22:57:03Z"
   }
 ]
