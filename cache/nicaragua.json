@@ -70,5 +70,65 @@
     "privateContributions": 0,
     "publicContributions": 41,
     "createdAt": "2026-02-22T05:55:31Z"
+  },
+  {
+    "login": "Cupena",
+    "name": "Carlos Uriel Peña Méndez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269819792?s=72&v=4",
+    "location": "Managua",
+    "company": "@uam",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2026-03-20T21:30:20Z"
+  },
+  {
+    "login": "magvegacruz-hue",
+    "name": "Miguel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279070700?s=72&v=4",
+    "location": "Managua",
+    "company": "@uam",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2026-04-24T17:39:53Z"
+  },
+  {
+    "login": "lcrodriguez-droid",
+    "name": "Luis Carlos Rodriguez Rodriguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279754581?s=72&v=4",
+    "location": "managua",
+    "company": "@uam",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-04-27T14:56:34Z"
+  },
+  {
+    "login": "jamesjsfouam",
+    "name": "James Santiago Fernández Obregón",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279070650?s=72&u=41f79b01e30d342b9b7dd835764265693154e0d2&v=4",
+    "location": "Managua",
+    "company": "@UAM",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2026-04-24T17:39:39Z"
+  },
+  {
+    "login": "emmanuelcucalon-max",
+    "name": "Emmanuel Ramsés Cucalon Mendieta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279079957?s=72&v=4",
+    "location": "Managua",
+    "company": "@UAM",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2026-04-24T18:07:13Z"
   }
 ]

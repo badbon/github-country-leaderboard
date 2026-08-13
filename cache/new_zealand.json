@@ -886,5 +886,41 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-04-05T19:48:30Z"
+  },
+  {
+    "login": "just-8080",
+    "name": "justin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196601852?s=72&u=05fb5866f6f66477ccda94546215be8db6672946&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2025-01-27T05:39:11Z"
+  },
+  {
+    "login": "lllons",
+    "name": "Liam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229015767?s=72&u=84f075ad55f1b9f003c85ddc03c646abd0303bed&v=4",
+    "location": "Aotearoa ",
+    "company": "LLLons",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 33,
+    "publicContributions": 157,
+    "createdAt": "2025-08-27T21:18:45Z"
+  },
+  {
+    "login": "ihategazami",
+    "name": "Lucas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/221424398?s=72&u=5427a7dac3e88a736dea08da3a5214a806f691c3&v=4",
+    "location": "Waitaha, Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 472,
+    "publicContributions": 61,
+    "createdAt": "2025-07-17T21:07:00Z"
   }
 ]

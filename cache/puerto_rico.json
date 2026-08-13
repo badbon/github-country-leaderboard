@@ -106,5 +106,53 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-03-16T20:12:52Z"
+  },
+  {
+    "login": "sunsetvibe",
+    "name": "Abraham Mateo Aquino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265953108?s=72&u=25b1822c543cf7e284d34de526d2892475850593&v=4",
+    "location": "San Juan de la Maguana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 68,
+    "createdAt": "2026-03-06T02:11:03Z"
+  },
+  {
+    "login": "FerTej",
+    "name": "Fernando Tejero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275789268?s=72&v=4",
+    "location": "Alcázar de San Juan",
+    "company": "IES Juan Bosco",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-13T18:17:05Z"
+  },
+  {
+    "login": "DanoFR",
+    "name": "Daniel Flores",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264221847?s=72&v=4",
+    "location": "San Juan del Río Qro.",
+    "company": "Imbera",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-26T17:12:30Z"
+  },
+  {
+    "login": "salvioqt-jbosco",
+    "name": "Salvio QT at jbosco dot es",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275684866?s=72&u=f0bd3a87cb764c95c51618482c448018471963e9&v=4",
+    "location": "Alcázar de San Juan",
+    "company": "IES JUAN BOSCO",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-04-13T10:58:29Z"
   }
 ]

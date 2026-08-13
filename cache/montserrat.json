@@ -10,5 +10,101 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-10-22T13:01:07Z"
+  },
+  {
+    "login": "takamiko8",
+    "name": "José Ignacio Quevedo Gómez.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/248920116?s=72&u=18a2bc768c825dee1fe216d505530ebf8f7f7285&v=4",
+    "location": "plymouth",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2025-12-10T16:00:20Z"
+  },
+  {
+    "login": "Automater89",
+    "name": "Wes Shelton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/237068751?s=72&u=9f78bd3afba4b4f87fcc99ad2a994e7ba6578b92&v=4",
+    "location": "Plymouth, MI",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 101,
+    "publicContributions": 68,
+    "createdAt": "2025-10-09T14:58:43Z"
+  },
+  {
+    "login": "lunatech-3d",
+    "name": "LunaTech 3D",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198293554?s=72&u=8910ddd11d4894b29e4c3275f02b9c6de4d28ac6&v=4",
+    "location": "Plymouth, Wayne, MI",
+    "company": "LunaTech 3D",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1382,
+    "createdAt": "2025-02-08T02:41:57Z"
+  },
+  {
+    "login": "gjbauer",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199681356?s=72&u=db88c0b896ce6f2715b098b976af00fd87c17fda&v=4",
+    "location": "Plymouth, NH",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 977,
+    "createdAt": "2025-02-17T23:18:26Z"
+  },
+  {
+    "login": "iiGibbyz29",
+    "name": "Daisy Gibson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234055706?s=72&u=eca5af798e50c97693604b97ae4858f391e32849&v=4",
+    "location": "Plymouth",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-09-23T19:27:26Z"
+  },
+  {
+    "login": "OCNGill",
+    "name": "Stephen Gill",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235208795?s=72&u=7479033367292500703a9fd1563912216bc9f7a9&v=4",
+    "location": "Plymouth, MA 02360",
+    "company": "Gillsystems.net",
+    "twitterUsername": "uknowGill",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 306,
+    "createdAt": "2025-09-30T00:21:59Z"
+  },
+  {
+    "login": "DanielFlorescu",
+    "name": "Daniel Florescu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234059822?s=72&u=e8a6b416785494b86d960ac0b216e48c02b75c5f&v=4",
+    "location": "Plymouth",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-09-23T19:58:37Z"
+  },
+  {
+    "login": "LoganPly",
+    "name": "Logan Munday",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201571942?s=72&u=c37977ef031d0a487a59a3dd9edc155bea237e8c&v=4",
+    "location": "University of Plymouth",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-03-03T10:13:55Z"
   }
 ]

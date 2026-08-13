@@ -70,5 +70,29 @@
     "privateContributions": 0,
     "publicContributions": 127,
     "createdAt": "2026-05-08T13:34:02Z"
+  },
+  {
+    "login": "akianadanielleb-ops",
+    "name": "Danielle Benicia  AKIANA ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271287972?s=72&v=4",
+    "location": "Brazzaville ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2026-03-26T15:13:08Z"
+  },
+  {
+    "login": "Barlot-Maker",
+    "name": "Romeldy-Barlot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280057301?s=72&v=4",
+    "location": "Brazzaville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-28T14:49:21Z"
   }
 ]

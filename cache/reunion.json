@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "login": "spartan-systems-ai",
+    "name": "Spartan Systems",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203617847?s=72&u=4bbaa69b425119c512b85abb7f04ec014dbc0044&v=4",
+    "location": "Ile de la Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2025-03-17T08:11:19Z"
+  },
+  {
+    "login": "Karl97490",
+    "name": "Karl Pery-Potonie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/237198641?s=72&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 486,
+    "createdAt": "2025-10-10T07:54:53Z"
+  },
+  {
+    "login": "etoilary974-ship-it",
+    "name": "Creville Loewen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227222486?s=72&v=4",
+    "location": "La réunion ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2025-08-18T16:15:17Z"
+  },
+  {
+    "login": "AquaLab974",
+    "name": "AQUA LAB",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203631637?s=72&u=e23e625f6b27a7d10075a784b8df19020022f448&v=4",
+    "location": "Ile de la réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-03-17T10:00:06Z"
+  }
+]

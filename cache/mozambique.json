@@ -82,5 +82,65 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-04-01T19:44:54Z"
+  },
+  {
+    "login": "nilton-matias",
+    "name": "Nilton Matias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260443295?s=72&u=4ab5931365a9cfd6a0a4d4c5983416d212781435&v=4",
+    "location": "Moçambique, Maputo Cidade",
+    "company": "@Entretech-lda",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 747,
+    "publicContributions": 40,
+    "createdAt": "2026-02-09T13:51:21Z"
+  },
+  {
+    "login": "Umohau",
+    "name": "Umohau Haraba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261008942?s=72&v=4",
+    "location": "Maputo, moamba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 15,
+    "publicContributions": 247,
+    "createdAt": "2026-02-11T18:56:40Z"
+  },
+  {
+    "login": "VanitoJocene",
+    "name": "Vanito Jocene ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262176417?s=72&u=9e48aa300fa9085aa9966952abb386bae5cccea8&v=4",
+    "location": "Cidade de Maputo, Moçambique ",
+    "company": "Script Wise",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-02-17T17:17:52Z"
+  },
+  {
+    "login": "IlsseDevz",
+    "name": "Ilsse Zita",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267038597?s=72&v=4",
+    "location": "Maputo ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-03-10T12:51:20Z"
+  },
+  {
+    "login": "ScriptWiseAgency",
+    "name": "Script Wise ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262086386?s=72&u=1892484b043531121f299e16f536df078f4c7088&v=4",
+    "location": "Matola, Maputo-Moçambique ",
+    "company": "Script wise ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-17T09:13:49Z"
   }
 ]
