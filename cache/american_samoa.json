@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "lazzydisa",
+    "name": "lazzy DiSa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210579037?s=72&u=310f5ec199510800c187443d00d9d6ee14dc8798&v=4",
+    "location": "American Samoa",
+    "company": "cream pie factory",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 132,
+    "createdAt": "2025-05-06T16:58:05Z"
+  },
+  {
+    "login": "Ban-Brian",
+    "name": "Brian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201294812?s=72&u=6d9c89a09d688875fa5471e1d0bd644330fb9c6b&v=4",
+    "location": "American Samoa / San Diego / DC",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 115,
+    "createdAt": "2025-02-28T23:13:54Z"
+  }
+]

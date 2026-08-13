@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "autumnToT",
+    "name": "Autumn M. Charles",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144826429?s=72&v=4",
+    "location": "Antigua and Barbuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2023-09-12T15:50:32Z"
+  },
+  {
+    "login": "JanetAdeline",
+    "name": "Janet Adeline",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144493449?s=72&u=19fe9213804c2cf07fbf6d3a1f62263e899c16d0&v=4",
+    "location": "Saint John's, Antigua and Barbuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-08T21:11:25Z"
+  }
+]
