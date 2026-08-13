@@ -70,5 +70,53 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2025-02-07T06:24:51Z"
+  },
+  {
+    "login": "ahyolia",
+    "name": "Camélia AMIN HANDOYO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176019406?s=72&u=052411aae76e6f74a31a61940bab3e6e91fc8172&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 137,
+    "createdAt": "2024-07-19T08:18:41Z"
+  },
+  {
+    "login": "nevizsh",
+    "name": "Nevi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181438138?s=72&u=10738991edb0d2d37aa709978d9373b421f4c5a3&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 119,
+    "createdAt": "2024-09-13T04:10:07Z"
+  },
+  {
+    "login": "SqrrtSqrrt",
+    "name": "Hugo Fantin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/188806170?s=72&v=4",
+    "location": "New Caledonia ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 32,
+    "publicContributions": 20,
+    "createdAt": "2024-11-18T00:18:35Z"
+  },
+  {
+    "login": "melvind94",
+    "name": "Melvin Deplanque",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178064996?s=72&u=e4c65285f47618d287d074735ca37178fb6cbd81&v=4",
+    "location": "Nouméa, New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-08-11T05:38:40Z"
   }
 ]

@@ -1474,5 +1474,101 @@
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2026-04-25T09:49:03Z"
+  },
+  {
+    "login": "Aicha-Laribia",
+    "name": "AICHA LARIBIA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261724044?s=72&u=f402d1da3aafe91f5ecab1c69770cb6cfcae8b66&v=4",
+    "location": "RABAT",
+    "company": "INSEA",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 111,
+    "createdAt": "2026-02-15T08:27:33Z"
+  },
+  {
+    "login": "oldskulclaud",
+    "name": "soft dude",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274522987?s=72&u=002ecfea1c82573de2993195db2c65cfb37085ca&v=4",
+    "location": "Rabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-04-08T13:06:15Z"
+  },
+  {
+    "login": "doha-nekro",
+    "name": "Doha NEKRO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265125943?s=72&v=4",
+    "location": "Rabat-Salé-Kénitra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2026-03-02T21:42:51Z"
+  },
+  {
+    "login": "club-innov",
+    "name": "Club innovation EMSI Rabat ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272601000?s=72&u=9a6bccc982abeda17ff230e1256c994a0ba1eb0c&v=4",
+    "location": "Rabat",
+    "company": "SMARTiLab",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-03-31T17:57:49Z"
+  },
+  {
+    "login": "Creafters-official",
+    "name": "Creafters",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265686927?s=72&u=ed69fb3526898c2212eafd796ad0c6cef3bb25e8&v=4",
+    "location": "Rabat, Hassan",
+    "company": "",
+    "twitterUsername": "creafters",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-03-05T02:08:18Z"
+  },
+  {
+    "login": "AchrafBelfkih-Eng",
+    "name": "Achraf Belfkih",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271374528?s=72&v=4",
+    "location": "Rabat-Salé-Kénitra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-26T22:18:44Z"
+  },
+  {
+    "login": "elmalekyoussra3-png",
+    "name": "El Malek Youssra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273098455?s=72&u=cd576e55647bf80f3ed47c9b03f43f81651cf688&v=4",
+    "location": "Rabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-04-02T12:18:29Z"
+  },
+  {
+    "login": "tahayacinesalim-arch",
+    "name": "TAHA YACINE SALIM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262383427?s=72&u=460f8e36e400f3ffb3ba38f643737e2cb5004e4f&v=4",
+    "location": "Temara,Rabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-02-18T15:44:33Z"
   }
 ]

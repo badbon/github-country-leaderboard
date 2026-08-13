@@ -178,5 +178,29 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2026-04-21T11:32:55Z"
+  },
+  {
+    "login": "AnneXoj",
+    "name": "Secara Ana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261893531?s=72&u=3037e62bc542ad36e755a126ae532e7f7c4ef630&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-16T09:52:25Z"
+  },
+  {
+    "login": "demir-xcc",
+    "name": "Demir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255450919?s=72&u=d011525882fae078391f1b4a76edda253f675abc&v=4",
+    "location": "Chișinău",
+    "company": "Liudistok Coal Co.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 74,
+    "createdAt": "2026-01-17T00:12:51Z"
   }
 ]

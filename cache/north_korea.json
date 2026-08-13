@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "login": "Clandestinos2C1",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271503802?s=72&u=488ddeca36bf6229eba69c89bbab6e61a104da20&v=4",
+    "location": "Pyongyang, North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-03-27T11:11:19Z"
+  },
+  {
+    "login": "stroopwafel-gaming",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283983908?s=72&u=0e38e1ab1179d2b2c638898cdd0d7ea4eef0c7e3&v=4",
+    "location": "Pyongyang, North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-05-12T12:09:01Z"
+  },
+  {
+    "login": "HuohuoPlaysOpenBSD",
+    "name": "HuohuoPlaysBSD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257055228?s=72&u=c1e08795281ca294d44ee736dc9edf7e44d1674d&v=4",
+    "location": "Pyongyang, North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-01-25T04:20:57Z"
+  },
+  {
+    "login": "QinAnze",
+    "name": "🌈沢",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281855325?s=72&u=c8290a0107faebd2ad410dce9499ca28868c0048&v=4",
+    "location": "North Korea",
+    "company": "Kim Il Sung University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 221,
+    "createdAt": "2026-05-05T07:01:14Z"
+  }
+]
