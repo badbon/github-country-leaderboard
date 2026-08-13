@@ -1006,5 +1006,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-18T22:37:17Z"
+  },
+  {
+    "login": "Martenee",
+    "name": "Temitayo Martins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156317475?s=72&u=41c991c674d6e3d0afd02bae09cf37d2f760c58d&v=4",
+    "location": "Plymouth, United Kingdom",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2024-01-11T11:56:04Z"
+  },
+  {
+    "login": "Anjana-Sk00",
+    "name": "Anjana Sreekumar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162719654?s=72&u=06a001eb422b860d74062927a9e8a2e2054c5eba&v=4",
+    "location": "Plymouth,Uk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-03-08T14:27:49Z"
+  },
+  {
+    "login": "LeeMStevenson",
+    "name": "Lee Stevenson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190508922?s=72&u=cee820ea1e10e4160ead34b8db0d1c215cb0daa1&v=4",
+    "location": "Plymouth, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-12-03T14:58:22Z"
   }
 ]

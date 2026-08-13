@@ -1150,5 +1150,29 @@
     "privateContributions": 233,
     "publicContributions": 14,
     "createdAt": "2024-05-09T04:11:54Z"
+  },
+  {
+    "login": "godless-developer",
+    "name": "T U K A",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186210027?s=72&u=6e6176a53a8829098fa8a5fef923204e5dd28f76&v=4",
+    "location": "Ulan-bator",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 137,
+    "publicContributions": 13,
+    "createdAt": "2024-10-24T17:42:17Z"
+  },
+  {
+    "login": "Nuzl",
+    "name": "nuzl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165253169?s=72&u=f8d9053a06bfc9ee572005abe91c60283352d1d4&v=4",
+    "location": "Ulan Bator",
+    "company": "amazon",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-03-28T07:00:55Z"
   }
 ]

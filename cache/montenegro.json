@@ -262,5 +262,89 @@
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2025-06-27T08:20:21Z"
+  },
+  {
+    "login": "ald-doda",
+    "name": "aldin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/242315979?s=72&u=44eb710887611142e51d31aecb9f4b114aa8508c&v=4",
+    "location": "Podgorica",
+    "company": "University of Montenegro",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 216,
+    "createdAt": "2025-11-06T01:28:13Z"
+  },
+  {
+    "login": "nburic25",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207334481?s=72&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2025-04-12T12:17:36Z"
+  },
+  {
+    "login": "dandysuper",
+    "name": "Dan Burykin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232385700?s=72&u=138d5f9fa14ee3e1ae6e65b5d4be0c32104595ec&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 14,
+    "publicContributions": 106,
+    "createdAt": "2025-09-15T13:45:37Z"
+  },
+  {
+    "login": "veilaris",
+    "name": "veilaris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/249164270?s=72&u=f0f223a6380db9ab3c164819254477c3a87c83cb&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2025-12-11T19:35:30Z"
+  },
+  {
+    "login": "antongj2000",
+    "name": "Anton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204885029?s=72&u=b61b01e38c7d21291ab1472ef74f49a7c3f984ba&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2025-03-25T13:43:14Z"
+  },
+  {
+    "login": "mehlikaiclal",
+    "name": "Mehlika iclal Atmaca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/248739576?s=72&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2025-12-09T18:04:31Z"
+  },
+  {
+    "login": "tinkyywiinkyyy",
+    "name": "Kristina Keković",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193957433?s=72&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-01-06T19:05:17Z"
   }
 ]

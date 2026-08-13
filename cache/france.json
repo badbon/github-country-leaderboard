@@ -5302,5 +5302,41 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2024-02-18T14:31:34Z"
+  },
+  {
+    "login": "GuillaumeBld",
+    "name": "Guillaume Bolivard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181293126?s=72&v=4",
+    "location": "Chicago / Fort-de-France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 1200,
+    "publicContributions": 529,
+    "createdAt": "2024-09-11T23:16:50Z"
+  },
+  {
+    "login": "addoc81",
+    "name": "Messaoudi Adel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158786206?s=72&v=4",
+    "location": "Fort de France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2024-02-04T00:14:03Z"
+  },
+  {
+    "login": "HMIMFPA972",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171943723?s=72&v=4",
+    "location": "FORT-DE-FRANCE",
+    "company": "IMFPA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-06-06T13:15:42Z"
   }
 ]

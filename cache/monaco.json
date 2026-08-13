@@ -34,5 +34,41 @@
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2026-01-25T15:45:34Z"
+  },
+  {
+    "login": "AtomCenter",
+    "name": "Atom Center",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210865236?s=72&u=cbffb16450eb833871fd1aa48084dd71525fcecf&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-05-08T13:26:16Z"
+  },
+  {
+    "login": "scribelia-anthony",
+    "name": "Anthony",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/241801795?s=72&u=425a6d84f5dc65a81fac576c3ce23aed5973d9f2&v=4",
+    "location": "Monaco",
+    "company": "Scribelia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2025-11-03T16:34:44Z"
+  },
+  {
+    "login": "drligder",
+    "name": "Dr. Ligder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246571360?s=72&u=548375856f1c699caf7bab566bed91591f30817e&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-11-27T21:23:19Z"
   }
 ]
