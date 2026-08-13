@@ -190,5 +190,53 @@
     "privateContributions": 219,
     "publicContributions": 154,
     "createdAt": "2023-09-11T19:14:17Z"
+  },
+  {
+    "login": "ClintonYounge",
+    "name": "Clinton Younge",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118696200?s=72&u=8aa8ad6e388852f70b829b19d3df961b71afc092&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "YoungeCjay",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-20T22:51:53Z"
+  },
+  {
+    "login": "adi-pr",
+    "name": "Aditya (Ruben) Prasad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108494423?s=72&u=d1cc43eec99d957cca91e8b95e83eb92d8e9417e&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 116,
+    "publicContributions": 134,
+    "createdAt": "2022-06-30T21:15:18Z"
+  },
+  {
+    "login": "nickelcy",
+    "name": "Nickelcy Francois",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103332853?s=72&u=52d5eefdafdd7900c9a4dbeee2ecaae39154d8d1&v=4",
+    "location": "Georgetown, Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 47,
+    "publicContributions": 77,
+    "createdAt": "2022-04-09T18:45:09Z"
+  },
+  {
+    "login": "RolexAlexander",
+    "name": "Rolex Alexander",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102192701?s=72&u=bc34edcef1bdad1f06c8d95b0cef7c31f927b389&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 144,
+    "publicContributions": 49,
+    "createdAt": "2022-03-22T22:59:35Z"
   }
 ]

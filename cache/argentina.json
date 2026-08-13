@@ -11518,5 +11518,53 @@
     "privateContributions": 0,
     "publicContributions": 101,
     "createdAt": "2025-05-26T14:37:46Z"
+  },
+  {
+    "login": "EnzoZambon",
+    "name": "Enzo Zambon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178334671?s=72&u=c540923313cec2e9a2b8cd470d2681203e1cce26&v=4",
+    "location": "San Salvador, Entre Ríos, Argentina.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 394,
+    "createdAt": "2024-08-13T21:16:33Z"
+  },
+  {
+    "login": "QuirogaIrene",
+    "name": "Quiroga Irene del Rosario Yolanda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166184285?s=72&u=30f37e57527cc9af5a0003b0db1f4704273f3a68&v=4",
+    "location": "Argentina, San Salvador de Jujuy",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2024-04-05T23:47:06Z"
+  },
+  {
+    "login": "LCymba",
+    "name": "Luz Cymbaluk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174218864?s=72&u=ae57c30f13e4b9b1f25616711c194d55c596c819&v=4",
+    "location": "San Salvador, Entre Rios, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2024-06-29T23:32:56Z"
+  },
+  {
+    "login": "Ceci4774",
+    "name": "Cecilia Inés Sevilla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173214010?s=72&u=353f5998d4263b0047197586f682ac88e78eb947&v=4",
+    "location": "San Salvador de Jujuy, Jujuy, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-06-18T23:56:19Z"
   }
 ]

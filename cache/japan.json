@@ -5254,5 +5254,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-09T15:34:43Z"
+  },
+  {
+    "login": "kenjiyoshidahome2026-bit",
+    "name": "Kenji Yoshida",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266179802?s=72&u=233a5b215adb0fc35a418416c7f13013a242d635&v=4",
+    "location": "Yokohama",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1532,
+    "createdAt": "2026-03-06T22:40:43Z"
+  },
+  {
+    "login": "caio550729",
+    "name": "Kuroda Daiki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252423624?s=72&v=4",
+    "location": "1221-1 Kamoshida-cho, Aoba-ku, Yokohama, Kanagawa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-01-01T08:16:29Z"
   }
 ]

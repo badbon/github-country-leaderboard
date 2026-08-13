@@ -42742,5 +42742,53 @@
     "privateContributions": 475,
     "publicContributions": 0,
     "createdAt": "2015-06-11T00:28:40Z"
+  },
+  {
+    "login": "jimmypeterson1investor90",
+    "name": "Jimmy Peterson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143514697?s=72&u=695b4006e74632890718e1b287bcdf5b181778b3&v=4",
+    "location": "New York, Cuba. USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-29T12:54:47Z"
+  },
+  {
+    "login": "sandstorm791",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167101956?s=72&u=5625ec009a5dc5e955128c1e6d0bf1bd0bbb0b37&v=4",
+    "location": "rhode island, usa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 151,
+    "createdAt": "2024-04-15T13:53:16Z"
+  },
+  {
+    "login": "AlexandruSoroiu",
+    "name": "Alexandru Soroiu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157845096?s=72&u=20524f6e162a164fa0a44562c14606f8d28b236f&v=4",
+    "location": "Staten Island, New York",
+    "company": "Robin Hood Foundation",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2024-01-26T20:16:39Z"
+  },
+  {
+    "login": "carledwardm",
+    "name": "Carl Millard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186229189?s=72&u=f5c4ddc7eedb26746a68b6da4acd8ff23dc85bfa&v=4",
+    "location": "Long Island, New York",
+    "company": "Freelance Developer",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 829,
+    "createdAt": "2024-10-24T20:59:24Z"
   }
 ]

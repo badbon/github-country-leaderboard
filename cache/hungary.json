@@ -10198,5 +10198,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-29T10:42:50Z"
+  },
+  {
+    "login": "krisztianpletser",
+    "name": "Krisztian Pletser",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131591171?s=72&u=aa96d3b9ee1589ce009f5c7218638666d1f50bb3&v=4",
+    "location": "Hungary, Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-23T11:17:35Z"
+  },
+  {
+    "login": "DN205",
+    "name": "HDan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122308921?s=72&u=bf6ba47ed17e524ba31ee35ab85b274cfbafdf6f&v=4",
+    "location": "Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 10,
+    "publicContributions": 3,
+    "createdAt": "2023-01-09T18:42:27Z"
+  },
+  {
+    "login": "atee11",
+    "name": "Tomán Attila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127214228?s=72&u=07eff9f368871751d5c9b55a39898584cd537896&v=4",
+    "location": "Budapest, Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2023-03-07T13:25:31Z"
+  },
+  {
+    "login": "spilo-music",
+    "name": "SPILO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141732426?s=72&u=dc2218fe2244a6618418c86c24045f12f2a014d2&v=4",
+    "location": "Hungary",
+    "company": "Project OpenFive",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2023-08-08T11:05:25Z"
+  },
+  {
+    "login": "PufferfishGaming",
+    "name": "ThePufferfishGaming",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152496906?s=72&u=5bc41fbb65b69ed6d3f4c698b5cb1a2f749f5afc&v=4",
+    "location": "Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2023-11-30T11:45:32Z"
+  },
+  {
+    "login": "aron72",
+    "name": "MezeiAron",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144037354?s=72&u=f5c5f176be2b648f0fc13f59528895f714db6f34&v=4",
+    "location": "Hungary",
+    "company": "Y-Utomunka Kft.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-04T14:07:50Z"
   }
 ]

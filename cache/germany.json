@@ -11290,5 +11290,101 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-02-27T13:10:47Z"
+  },
+  {
+    "login": "lathippe",
+    "name": "Alfia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278448867?s=72&u=f17a9e6b41c041955b7932571ad7403682c70964&v=4",
+    "location": "Berlin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 410,
+    "publicContributions": 2,
+    "createdAt": "2026-04-22T15:48:49Z"
+  },
+  {
+    "login": "israrsadaq057-art",
+    "name": "Israr Sadaq",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252570478?s=72&u=f558e15fe5ab3e64ae4cc260f7dc626617479ca2&v=4",
+    "location": "Berlin",
+    "company": "Fraunhofer HHI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 219,
+    "createdAt": "2026-01-02T10:31:03Z"
+  },
+  {
+    "login": "ralfherbrich-brenniq",
+    "name": "Ralf Herbrich",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276903170?s=72&u=fcc5f06da3f74c4c30a610af3f90f48d5c44e82b&v=4",
+    "location": "Berlin",
+    "company": "Brenniq",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-17T07:43:27Z"
+  },
+  {
+    "login": "DSSG-Berlin-Team",
+    "name": "DSSG Berlin Team",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277230394?s=72&u=cab45a639749f8fca2c2e9d712aa358dd2d52bde&v=4",
+    "location": "Berlin",
+    "company": "@dssg-berlin",
+    "twitterUsername": "dssgber",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-04-18T09:38:52Z"
+  },
+  {
+    "login": "zeroshotstudio",
+    "name": "Zero Shot Studio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256514283?s=72&u=67bd9ec3d282a795b7c85acde2e2bc1ac2c70199&v=4",
+    "location": "Berlin",
+    "company": "ZeroShot Studio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1541,
+    "publicContributions": 47,
+    "createdAt": "2026-01-22T07:56:08Z"
+  },
+  {
+    "login": "DreiStern-Berlin",
+    "name": "3Stern ⭐⭐⭐",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277474432?s=72&u=7a73fccf28707ef5d5b2c19d95f0a3aa6b837e2b&v=4",
+    "location": "Berlin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-04-19T13:33:45Z"
+  },
+  {
+    "login": "nirvanjhurree-audi",
+    "name": "NCUJ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264135187?s=72&u=d659b12dd7d352dd95cbd9a8e4703bb7f68d52e0&v=4",
+    "location": "Berlin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-26T10:19:14Z"
+  },
+  {
+    "login": "ZIA-MH",
+    "name": "Michael Hellwig",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255078694?s=72&u=08cbfaa938991b3bf1f8a4cb9df77eeae8d5839f&v=4",
+    "location": "Berlin",
+    "company": "Zentraler Immobilien Ausschuss e.V.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-15T08:29:41Z"
   }
 ]

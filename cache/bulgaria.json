@@ -3154,5 +3154,41 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-08-04T12:13:17Z"
+  },
+  {
+    "login": "Fredrickiansmann",
+    "name": "Fredrickiansmann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/230346411?s=72&u=676627921fc3233971104b9226bc3d388317ee75&v=4",
+    "location": "Plovdiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2025-09-04T10:22:37Z"
+  },
+  {
+    "login": "BobiBash",
+    "name": "Bobi Bashev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199856799?s=72&u=643a889a207f15c8adf0c6c53e7e4cab4dc05d23&v=4",
+    "location": "Plovdiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 302,
+    "createdAt": "2025-02-19T01:23:07Z"
+  },
+  {
+    "login": "ismailbimbashov",
+    "name": "Ismail Bimbashov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205781974?s=72&u=e8b29807818691b6609b89ff745e373f665d7a6d&v=4",
+    "location": "Plovdiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2025-04-01T12:57:07Z"
   }
 ]

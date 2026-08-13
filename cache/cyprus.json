@@ -1090,5 +1090,41 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2025-11-17T19:24:38Z"
+  },
+  {
+    "login": "Andrei-Rizz",
+    "name": "Andrei Rizea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214620039?s=72&u=15d2d254d1910460444299f592ea13979d7c5b00&v=4",
+    "location": "Nicosia",
+    "company": "Exelia Technologies",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 538,
+    "publicContributions": 0,
+    "createdAt": "2025-06-03T07:49:27Z"
+  },
+  {
+    "login": "olivier-leblanc997",
+    "name": "Olivier Leblanc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201511198?s=72&u=e6cf83a4bd4b8e7feffb3d9f37520c1c40656aa7&v=4",
+    "location": "Nicosia",
+    "company": "Cyprus",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 66,
+    "createdAt": "2025-03-03T00:29:21Z"
+  },
+  {
+    "login": "Miracle-003",
+    "name": "Miracle Curthbet Chenda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197270551?s=72&v=4",
+    "location": "Nicosia , TRNC",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 109,
+    "publicContributions": 294,
+    "createdAt": "2025-01-31T13:30:59Z"
   }
 ]

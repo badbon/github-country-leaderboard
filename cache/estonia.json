@@ -2866,5 +2866,65 @@
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2024-06-12T06:00:51Z"
+  },
+  {
+    "login": "MaiaLabsNet",
+    "name": "MaiaLabsNet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186261604?s=72&v=4",
+    "location": "Estonia",
+    "company": "MaiaLabsNet",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-10-25T06:23:26Z"
+  },
+  {
+    "login": "ivinapro",
+    "name": "Ivina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158284264?s=72&u=d6385cbd26dcd91ad8b06ecf10a39dcb6bce99fa&v=4",
+    "location": "Estonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-31T11:32:07Z"
+  },
+  {
+    "login": "kristokontse",
+    "name": "Kristo Kontse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185368925?s=72&v=4",
+    "location": "Tartu, Estonia",
+    "company": "Tartu University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 70,
+    "createdAt": "2024-10-17T12:12:53Z"
+  },
+  {
+    "login": "veronicavinkler",
+    "name": "Veronica Vinkler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161318939?s=72&v=4",
+    "location": "estonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 348,
+    "createdAt": "2024-02-26T11:55:58Z"
+  },
+  {
+    "login": "blocktech-lab",
+    "name": "Blocktech Lab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174688253?s=72&v=4",
+    "location": "Estonia, Tallinn",
+    "company": "Blocktech OÜ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-07-04T07:04:52Z"
   }
 ]

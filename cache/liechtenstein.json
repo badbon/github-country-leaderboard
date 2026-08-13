@@ -58,5 +58,89 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2024-11-30T03:27:42Z"
+  },
+  {
+    "login": "Bastheblackdachshund",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144002097?s=72&u=bdcd3f35ac16befdae12362d755ea28714d840bd&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2023-09-04T07:57:14Z"
+  },
+  {
+    "login": "meretracz",
+    "name": "Meret",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136455609?s=72&u=e3953ad9c437eb0955c109cf2c472a1c4fbcdee8&v=4",
+    "location": "Liechtenstein",
+    "company": "m-modula",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2023-06-13T10:59:56Z"
+  },
+  {
+    "login": "menotte",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139005962?s=72&u=53563764a2d5e4e66e629c028758d148943a04e7&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-08T17:53:26Z"
+  },
+  {
+    "login": "gralhagrazie",
+    "name": "Graziela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152631671?s=72&v=4",
+    "location": "Liechtenstein",
+    "company": "Logica",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2023-12-01T15:02:43Z"
+  },
+  {
+    "login": "AndreaBirigtte",
+    "name": "Andrea Birigtte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141651813?s=72&u=f15723214b35d02d45d4d4940c9cf5c2e3e6776c&v=4",
+    "location": "Vaduz, Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-07T14:31:09Z"
+  },
+  {
+    "login": "ssh-seth",
+    "name": "indexyml",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126013037?s=72&u=c05d861b4866b3f0152b83bb6b37779323c7d421&v=4",
+    "location": "Liechtenstein, Vaduz",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-21T18:17:20Z"
+  },
+  {
+    "login": "ArtifexIlya",
+    "name": "Ilusha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142724690?s=72&u=c2870cc5bd898ad99169bd431c7931893342b379&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-20T11:13:38Z"
   }
 ]

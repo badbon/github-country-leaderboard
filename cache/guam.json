@@ -166,5 +166,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-01T00:23:48Z"
+  },
+  {
+    "login": "nanodavinci",
+    "name": "leo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115047648?s=72&u=fcd86ad64cf67dccad8544487d7f8eeba88a81f8&v=4",
+    "location": "Hagåtña, Guam",
+    "company": "Muy Dibujo LTD.",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 280,
+    "publicContributions": 10,
+    "createdAt": "2022-10-04T22:49:27Z"
+  },
+  {
+    "login": "KAQT",
+    "name": "Kevin Terlaje",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97126176?s=72&v=4",
+    "location": "Guam",
+    "company": "Self",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-04T19:36:37Z"
   }
 ]

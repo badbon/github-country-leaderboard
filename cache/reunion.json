@@ -382,5 +382,29 @@
     "privateContributions": 6,
     "publicContributions": 60,
     "createdAt": "2022-11-02T04:53:41Z"
+  },
+  {
+    "login": "MSM974",
+    "name": "Mathilde S",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/191942528?s=72&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-12-17T04:37:33Z"
+  },
+  {
+    "login": "aurelien-loyer",
+    "name": "LOYER Aurélien",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182765671?s=72&u=d9b1c552e30dc85c5d18b60f4c8dc7a01374434d&v=4",
+    "location": "Reunion Island",
+    "company": "EPITECH",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 67,
+    "createdAt": "2024-09-25T11:39:46Z"
   }
 ]
