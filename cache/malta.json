@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "login": "BISAM20",
+    "name": "Bishoy Samaan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266363764?s=72&u=f42ddc43673290c9e7e4352339c6a35a93ba6e7c&v=4",
+    "location": "Malta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 84,
+    "createdAt": "2026-03-07T20:05:18Z"
+  },
+  {
+    "login": "galin-cho",
+    "name": "Galin Genov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262104956?s=72&u=c290aea855058bc3bbc658133c980871ff29077e&v=4",
+    "location": "Malta",
+    "company": "Hireroo",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-17T11:04:43Z"
+  },
+  {
+    "login": "jerrywang33",
+    "name": "JerryWang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252975420?s=72&u=9dd3d674f7572f919f52f5d751f1c70082fd8b94&v=4",
+    "location": "Malta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 284,
+    "createdAt": "2026-01-05T03:30:38Z"
+  },
+  {
+    "login": "djshababkhan",
+    "name": "Shabab Khan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261331867?s=72&u=473bda2edea346c655c937e160ce183165654ca0&v=4",
+    "location": "Malta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2026-02-13T01:56:06Z"
+  },
+  {
+    "login": "salitronic",
+    "name": "George Saliba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276628962?s=72&u=23ae7e1cc3c014672b309cef32b07b1e3d7216fe&v=4",
+    "location": "Malta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2026-04-16T14:07:00Z"
+  },
+  {
+    "login": "banozz0",
+    "name": "banozz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263121691?s=72&u=8914026fd6b7583413425ee2108d1a6988e9b274&v=4",
+    "location": "  Malta   ",
+    "company": "",
+    "twitterUsername": "Banozz_",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 129,
+    "createdAt": "2026-02-22T07:02:20Z"
+  },
+  {
+    "login": "kiraxbt",
+    "name": "KIra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274594809?s=72&u=fbd32d33050118e692099b0eeabac815f35c3318&v=4",
+    "location": "Malta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-04-08T17:43:41Z"
+  },
+  {
+    "login": "mmnjoseph10-dev",
+    "name": "Kaftan Factory ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256449921?s=72&v=4",
+    "location": "Malta",
+    "company": "Kaftan Factory ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-01-21T23:12:46Z"
+  },
+  {
+    "login": "Richpet",
+    "name": "Peter Iregbeyen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269681609?s=72&v=4",
+    "location": "Malta",
+    "company": "University of Malta",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-03-20T09:00:11Z"
+  },
+  {
+    "login": "Whitn3y-mbs",
+    "name": "Whitney-MBS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254883194?s=72&u=849965b03edbdba58fa9f2410a5b7099f9760e44&v=4",
+    "location": "Malta",
+    "company": "KPMG Microsoft Business Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-01-14T10:38:59Z"
+  },
+  {
+    "login": "JumpEurope",
+    "name": "Jump Europe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270464401?s=72&u=663b306f8b2d1e459c21578ef7d5249b0b5a3093&v=4",
+    "location": "Malta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-03-23T20:16:10Z"
+  }
+]

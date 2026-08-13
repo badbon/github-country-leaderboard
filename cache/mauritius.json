@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "login": "azhar-paraouty",
+    "name": "Azhar Paraouty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256339775?s=72&u=1dba73f1bfe60bbf17b2798ad615182c0095e58b&v=4",
+    "location": "Mauritius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2026-01-21T12:29:51Z"
+  },
+  {
+    "login": "otooanita86-netizen",
+    "name": "Anita Otoo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279204632?s=72&u=770edc0e1df3982c3d6f55e89deeeed404739009&v=4",
+    "location": "Mauritius ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-04-25T07:25:05Z"
+  },
+  {
+    "login": "PamelaNMM",
+    "name": "Pamela Nothando",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275894357?s=72&v=4",
+    "location": "Mauritius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 47,
+    "createdAt": "2026-04-14T05:22:37Z"
+  },
+  {
+    "login": "Raskouyon",
+    "name": "David De Gaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281870263?s=72&u=55aae3d56e66d007e5b7038de16125d88145723b&v=4",
+    "location": "Mauritius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-05T08:07:54Z"
+  },
+  {
+    "login": "Saneeya27",
+    "name": "Amirah Bibi Saneeya Goonajee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276213105?s=72&u=ed9e17cb0ecf7c2fb2562c81b2ba7d9e733173e7&v=4",
+    "location": "Mauritius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-04-15T07:14:43Z"
+  }
+]

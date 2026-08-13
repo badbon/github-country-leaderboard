@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "login": "ephrem-kadja",
+    "name": "EPHREM KADJA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269735469?s=72&u=a41cb454a31319d2bc55a892b83119cbf3e2a384&v=4",
+    "location": "Côte d'Ivoire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2026-03-20T13:43:33Z"
+  },
+  {
+    "login": "itsketii",
+    "name": "Kouadio Ketsia Marie-Aude Affoua",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260279161?s=72&u=8440f0872bea3464530051d81711c003cb8b6c26&v=4",
+    "location": "Grand-Bassam, Côte d'Ivoire",
+    "company": "IIT",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 16,
+    "publicContributions": 128,
+    "createdAt": "2026-02-08T18:26:21Z"
+  },
+  {
+    "login": "jathekouame-afk",
+    "name": "Jathe-Kouamé",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254583851?s=72&v=4",
+    "location": "Côte d'Ivoire",
+    "company": "jxk",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-01-13T02:13:45Z"
+  },
+  {
+    "login": "MouradSmiffy",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257547357?s=72&u=88cc0a8a3e198da3ce2b075944dfc0cfa8b42ef0&v=4",
+    "location": "Abidjan, CÔTE D'IVOIRE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 513,
+    "publicContributions": 1,
+    "createdAt": "2026-01-27T14:05:03Z"
+  },
+  {
+    "login": "secureinvestci-oss",
+    "name": "Secure Invest Côte d'Ivoire ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283456979?s=72&v=4",
+    "location": "Abidjan, Côte d'Ivoire ",
+    "company": "Cabinet ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-10T18:32:14Z"
+  },
+  {
+    "login": "ElsaRabe",
+    "name": "RABE Elsa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256828168?s=72&u=3a7d2e044b357ce6b1043af1b3faa3e9cbfcf45e&v=4",
+    "location": "Abidjan, Côte d'Ivoire 🇨🇮",
+    "company": "We.Code Data & AI | UVCI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2026-01-23T16:26:42Z"
+  }
+]
