@@ -586,5 +586,89 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-01-18T11:21:41Z"
+  },
+  {
+    "login": "integrationmbm",
+    "name": "MBM ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258208061?s=72&u=38a1ec4eb5276e8f3a4a199c08b69bc01250ca62&v=4",
+    "location": "tunis ",
+    "company": "Group MBM ",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-01-30T10:24:56Z"
+  },
+  {
+    "login": "ademsaccount",
+    "name": "adem seddik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253768554?s=72&u=95624ed90d743e60875db25e4a40ff7e959e4836&v=4",
+    "location": "tunis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2026-01-08T16:57:31Z"
+  },
+  {
+    "login": "adamfatnatan20-max",
+    "name": "Adam Fatnassi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261935395?s=72&u=d7352133f9ea9eee0aea4d75af82a1e320740456&v=4",
+    "location": "tunis",
+    "company": "orbiaAI",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-02-16T14:06:40Z"
+  },
+  {
+    "login": "Lavandev-Co",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278478938?s=72&u=d61c4ccc19e1014885664342e709e802ab930eba&v=4",
+    "location": "Sousse, Tunis ",
+    "company": "Lavandev",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-04-22T17:46:39Z"
+  },
+  {
+    "login": "MedAli-99",
+    "name": "MedAli Bouhaouala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253470995?s=72&v=4",
+    "location": "Tunis",
+    "company": "NobleMind",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 404,
+    "publicContributions": 1,
+    "createdAt": "2026-01-07T09:51:10Z"
+  },
+  {
+    "login": "eyaabbes",
+    "name": "eya abbes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255918989?s=72&u=55699765a190b387394dced7b54c6135727d7534&v=4",
+    "location": "Tunis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 177,
+    "createdAt": "2026-01-19T15:57:48Z"
+  },
+  {
+    "login": "MohamedSalimJebri",
+    "name": "MOHAMED SALIM JEBRI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272495005?s=72&u=6abad42ac3f53016722e9582edb940aa27de0f69&v=4",
+    "location": "Tunis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-03-31T10:43:56Z"
   }
 ]

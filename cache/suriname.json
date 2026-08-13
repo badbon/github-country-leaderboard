@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "login": "Adventurekid14",
+    "name": "Sushil Ramlal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276662089?s=72&v=4",
+    "location": "Suriname",
+    "company": "Travel The Guianas",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-04-16T16:01:26Z"
+  },
+  {
+    "login": "shenayasitaldien-creator",
+    "name": "papaya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254823125?s=72&u=f6d31536ea3f4573e1f29eeb9bc3b1ef7591ed23&v=4",
+    "location": "suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 74,
+    "createdAt": "2026-01-14T03:54:06Z"
+  },
+  {
+    "login": "chenine-rgb",
+    "name": "Chenine Bipat ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254136510?s=72&u=6d0250ea30270425ea42b055c092db450ffefa4b&v=4",
+    "location": "Suriname ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-01-10T15:51:03Z"
+  }
+]

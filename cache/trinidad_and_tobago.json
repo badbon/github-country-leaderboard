@@ -22,5 +22,65 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-30T18:44:52Z"
+  },
+  {
+    "login": "Arielle-code-studio",
+    "name": "arielle-code-studio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203143379?s=72&u=a8be1d5e3027262835a27769528b6996dabe0f7a&v=4",
+    "location": "Trinidad and Tobago",
+    "company": "@arielle-code-studio",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2025-03-13T16:55:36Z"
+  },
+  {
+    "login": "DiamondAurumFox",
+    "name": "Diamond",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206591936?s=72&u=6d905737f2d5bd99f068fc61c6f522004e83a68f&v=4",
+    "location": "Trinidad and Tobago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-04-07T17:02:29Z"
+  },
+  {
+    "login": "0xNick404",
+    "name": "Nicholas Grimes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196350976?s=72&u=255daff902bc33d51650f27303740ccfe76258d2&v=4",
+    "location": "Trinidad and Tobago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 26,
+    "publicContributions": 253,
+    "createdAt": "2025-01-24T16:22:44Z"
+  },
+  {
+    "login": "Somi-Project",
+    "name": "Somi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203526856?s=72&u=e072c8fcebb7cff82cb9e8138c4bcdf57053b06f&v=4",
+    "location": "Trinidad And Tobago",
+    "company": "",
+    "twitterUsername": "SomiProject",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 363,
+    "createdAt": "2025-03-16T13:07:47Z"
+  },
+  {
+    "login": "Xysmix",
+    "name": "Xysmix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231484126?s=72&u=bb74dcba8c9e80ac6243f90bc8fca99c1cce522f&v=4",
+    "location": "Trinidad and Tobago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2025-09-10T12:37:50Z"
   }
 ]

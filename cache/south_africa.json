@@ -2182,5 +2182,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-05T15:03:54Z"
+  },
+  {
+    "login": "Mihlali-Mabaso",
+    "name": "Teddy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264801740?s=72&u=e7865021104161e5be09787224a7d06696c8097a&v=4",
+    "location": "Bloemfontein ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 81,
+    "createdAt": "2026-03-01T13:17:39Z"
+  },
+  {
+    "login": "Oranotse",
+    "name": "Oranotse Gaolojwe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257250807?s=72&u=37dde14bba4aee18611645d454f296ba432a8e0e&v=4",
+    "location": "Bloemfontein, Free State",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 154,
+    "createdAt": "2026-01-26T07:47:30Z"
+  },
+  {
+    "login": "katlehoMalekeCUT",
+    "name": "Terrence KT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265859033?s=72&u=0b7e1d2017b6eb1a9e0231a3b15350d10e1970be&v=4",
+    "location": "Bloemfontein FS",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 117,
+    "publicContributions": 25,
+    "createdAt": "2026-03-05T16:31:05Z"
+  },
+  {
+    "login": "saliwasiphu-creator",
+    "name": "Siphumelele Saliwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269301862?s=72&u=43414cdaa639fa6d51f00258c20663e79aeb56c3&v=4",
+    "location": "Bloemfontein ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-03-18T20:22:42Z"
   }
 ]
