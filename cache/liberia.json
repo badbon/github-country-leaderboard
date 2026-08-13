@@ -56,7 +56,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 100,
     "createdAt": "2025-10-19T10:49:40Z"
   },
   {
@@ -222,7 +222,7 @@
     "location": "Monrovia, Liberia",
     "company": "@Iskalo-Tech ",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-12T14:24:29Z"
@@ -358,5 +358,41 @@
     "privateContributions": 0,
     "publicContributions": 288,
     "createdAt": "2024-10-23T04:29:23Z"
+  },
+  {
+    "login": "gabkoi21",
+    "name": "Gabriel Akoi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181592947?s=72&u=5564f2c8d93909ee148f7a9abfc3466612876094&v=4",
+    "location": "Monrovia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2024-09-14T17:51:27Z"
+  },
+  {
+    "login": "vargasrob26",
+    "name": "Robbie ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167190586?s=72&v=4",
+    "location": "Monrovia ",
+    "company": "So fresh n so clean",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-16T09:51:12Z"
+  },
+  {
+    "login": "ashleyspencer89",
+    "name": "Ashley Spencer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167598299?s=72&u=3e1824032410ff93e8b867f86c00c7c2db2901a4&v=4",
+    "location": "Monrovia ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-20T04:13:49Z"
   }
 ]

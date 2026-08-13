@@ -94,5 +94,77 @@
     "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2025-03-09T17:58:41Z"
+  },
+  {
+    "login": "GagnereGeorges",
+    "name": "Georges Gagneré",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177823770?s=72&u=28f6d3f6375b9c804f661448b1e1ea1597ed5117&v=4",
+    "location": "Saint-Denis",
+    "company": "Paris 8 University",
+    "twitterUsername": "",
+    "followers": 59,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2024-08-08T07:42:57Z"
+  },
+  {
+    "login": "itskanoute",
+    "name": "Kanoute ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174029892?s=72&v=4",
+    "location": "Ile-de-France, Saint-Denis ",
+    "company": "Etudiante à l'ECE de Paris ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2024-06-27T14:20:14Z"
+  },
+  {
+    "login": "ezyou95",
+    "name": "ezyou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187666590?s=72&u=2f2392f7c0897750d469f94b60143b0723d0581e&v=4",
+    "location": "Saint Denis",
+    "company": "Back To RolePlay",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2024-11-07T17:26:19Z"
+  },
+  {
+    "login": "XavierdlH",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167059115?s=72&v=4",
+    "location": "Saint-Denis",
+    "company": "University of Réunion Island",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-15T06:08:54Z"
+  },
+  {
+    "login": "assalasArab",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159444390?s=72&u=fd67aa6ae3c76d3c96d749b243431056a1321ceb&v=4",
+    "location": "Saint-Denis",
+    "company": "Université Paris 8 | Vincennes ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2024-02-08T12:34:15Z"
+  },
+  {
+    "login": "GildasCouillard",
+    "name": "GildasCouillard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179759242?s=72&u=18f9f4be1a868b735ca3a1d4229d6dc3c8c22890&v=4",
+    "location": "Saint-Denis",
+    "company": "Spie",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-08-28T20:31:03Z"
   }
 ]

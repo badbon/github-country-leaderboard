@@ -766,5 +766,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-10-08T03:47:08Z"
+  },
+  {
+    "login": "alhajisesay-a",
+    "name": "Alhaji Sesay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186411214?s=72&u=6ea8ad577551076cd2b94ca681fc26258b85cca8&v=4",
+    "location": "Freetown",
+    "company": "Windro Power Solutions",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2024-10-26T16:44:14Z"
+  },
+  {
+    "login": "AbuJrVandi",
+    "name": "ABU JUNIOR VANDI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173740671?s=72&u=c2169943c4f6d4c0181f1ab62f0637057a85b5d9&v=4",
+    "location": "Freetown",
+    "company": "Njala University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 55,
+    "publicContributions": 44,
+    "createdAt": "2024-06-24T23:06:17Z"
+  },
+  {
+    "login": "Viper973",
+    "name": "Viper973",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155451042?s=72&u=f9e319d5665384b18f5cf3f4d0e58283348d829d&v=4",
+    "location": "FREETOWN",
+    "company": "",
+    "twitterUsername": "_Viper973",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-02T13:01:08Z"
+  },
+  {
+    "login": "InaConteh",
+    "name": "Ina Moses Conteh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172533523?s=72&u=742c64f95b8618919bf65ca2049a7dba694d5b6b&v=4",
+    "location": "89main road Congotown,Freetown,SierraLeone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 45,
+    "publicContributions": 107,
+    "createdAt": "2024-06-12T17:45:35Z"
+  },
+  {
+    "login": "Abduljameskoroma",
+    "name": "Abdul R Koroma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157313194?s=72&u=a1bdad669c9893471316d512ac5fc5fc4a811a45&v=4",
+    "location": "freetown",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2024-01-21T18:52:22Z"
+  },
+  {
+    "login": "mikell-code",
+    "name": "Kelly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179850313?s=72&u=41c888b46b61ce306015df19a1928ae47996cf70&v=4",
+    "location": "Freetown, Sierraleone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2024-08-29T15:38:31Z"
   }
 ]

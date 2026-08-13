@@ -142,5 +142,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-07-04T10:12:43Z"
+  },
+  {
+    "login": "dhxhxx",
+    "name": "dhu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199784239?s=72&v=4",
+    "location": "Seychelles",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-02-18T14:15:35Z"
+  },
+  {
+    "login": "OWMarkets",
+    "name": "OW Markets",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207435718?s=72&u=bdb5723fb85426a6905c09ca5a114518f71cd89e&v=4",
+    "location": "Seychelles",
+    "company": "OW Markets",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-04-13T13:05:18Z"
+  },
+  {
+    "login": "neowebsphere",
+    "name": "websphera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234758702?s=72&u=715ac981b6e6bc5e002947f635980e4f7e503f8d&v=4",
+    "location": "Seychelles",
+    "company": "Neowebsphera",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2025-09-27T09:39:47Z"
+  },
+  {
+    "login": "cyberfantomo",
+    "name": "CyberFantomo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/244852568?s=72&v=4",
+    "location": "Seychelles",
+    "company": "CyberFantomo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 148,
+    "createdAt": "2025-11-19T01:18:52Z"
   }
 ]

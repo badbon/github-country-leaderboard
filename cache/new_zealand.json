@@ -3562,5 +3562,29 @@
     "privateContributions": 61,
     "publicContributions": 0,
     "createdAt": "2025-05-11T09:03:42Z"
+  },
+  {
+    "login": "aimee-mcneil-melville",
+    "name": "Aimee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163234798?s=72&u=2dd54b40cb11e685a2d45d5d903f94c7b82c7f8e&v=4",
+    "location": "Auckland, Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 498,
+    "publicContributions": 1170,
+    "createdAt": "2024-03-13T05:13:59Z"
+  },
+  {
+    "login": "grubbyTimes",
+    "name": "GBPigeon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174255086?s=72&u=eb3f4f9249965edeecb00d38d34b7e8f70408ab5&v=4",
+    "location": "New Zealand/Aotearoa",
+    "company": "",
+    "twitterUsername": "GrubbyPigeon",
+    "followers": 1,
+    "privateContributions": 75,
+    "publicContributions": 8,
+    "createdAt": "2024-06-30T13:08:16Z"
   }
 ]

@@ -1726,5 +1726,53 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2025-10-01T18:18:14Z"
+  },
+  {
+    "login": "paradoxghost",
+    "name": "vitorio kassis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208006055?s=72&v=4",
+    "location": "lebanon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2025-04-17T10:06:18Z"
+  },
+  {
+    "login": "YasmineMakhlouf",
+    "name": "Yasmine Makhlouf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201724383?s=72&v=4",
+    "location": "Lebanon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2025-03-04T09:10:51Z"
+  },
+  {
+    "login": "jabakali444-del",
+    "name": "Ali jabak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/241427764?s=72&u=4c67f03a1e075944fbfea22317873d7f320a9665&v=4",
+    "location": "lebanon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2025-11-01T09:26:50Z"
+  },
+  {
+    "login": "husseinkazoun",
+    "name": "hussein kazoun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201417104?s=72&u=95992b4b3121d24af3026ee25b0d799813de963c&v=4",
+    "location": "lebanon",
+    "company": "Nation Station",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 224,
+    "createdAt": "2025-03-02T04:11:01Z"
   }
 ]

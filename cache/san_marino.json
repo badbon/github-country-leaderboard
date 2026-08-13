@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "login": "calebnewtonusc",
+    "name": "Caleb Newton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/228436507?s=72&u=bcb09a237d36c54b310f4707d4f8ac501f34532a&v=4",
+    "location": "San Marino, CA",
+    "company": "AINA Tech",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 3453,
+    "publicContributions": 4039,
+    "createdAt": "2025-08-25T05:23:18Z"
+  },
+  {
+    "login": "gerza-lab",
+    "name": "adam gerza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203333663?s=72&u=90bd8f306c9ba0961ce215cc91db7b9ea357127a&v=4",
+    "location": "San Marino, CA",
+    "company": "",
+    "twitterUsername": "adamgerza",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2025-03-14T16:41:13Z"
+  },
+  {
+    "login": "elena-sarti",
+    "name": "Elena Sarti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233401460?s=72&u=a7346a58212be99cc7d7c656fa3be3022e567973&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 197,
+    "createdAt": "2025-09-20T06:44:51Z"
+  },
+  {
+    "login": "zet-ka",
+    "name": "Zet Ka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245728386?s=72&u=d757309e1381c7d6de43e89c59cd689a2c7c36fe&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-11-23T17:10:45Z"
+  },
+  {
+    "login": "salugea",
+    "name": "Salugea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/239292711?s=72&u=5175be56fc53a18466a031e903a2f77291e0c2e8&v=4",
+    "location": "San Marino",
+    "company": "Salugea",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2025-10-21T06:09:48Z"
+  }
+]

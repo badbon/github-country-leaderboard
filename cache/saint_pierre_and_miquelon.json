@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "Antonin-crypto",
+    "name": "Antonin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157812634?s=72&u=67e1932140e7e2b90fee6f5df3053c6f81577339&v=4",
+    "location": "Saint pierre des landes",
+    "company": "Holberton School",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 66,
+    "createdAt": "2024-01-26T13:39:49Z"
+  },
+  {
+    "login": "visualAngus",
+    "name": "Gael Pupin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164644796?s=72&u=d2413e6e2b49ea2554e96b618e420e49824ee77a&v=4",
+    "location": "Franqueville Saint Pierre",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 661,
+    "publicContributions": 172,
+    "createdAt": "2024-03-23T13:58:02Z"
+  }
+]

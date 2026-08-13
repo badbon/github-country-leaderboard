@@ -94,5 +94,41 @@
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2023-02-03T16:44:24Z"
+  },
+  {
+    "login": "cmbengue-ec-intl",
+    "name": "Cheikh Mbengue",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97647866?s=72&u=5c659ea8d3e648b89d5f25f440a2ee163fdb991a&v=4",
+    "location": "Castries, Saint Lucia",
+    "company": "@ec-intl @CliMA @utatulc ",
+    "twitterUsername": "combengue",
+    "followers": 10,
+    "privateContributions": 572,
+    "publicContributions": 114,
+    "createdAt": "2022-01-13T02:01:57Z"
+  },
+  {
+    "login": "Azendae-Popo",
+    "name": "Azendae Popo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97713029?s=72&u=a5f81ef617c35bee2bec87416e1b15d1c516becc&v=4",
+    "location": "Castries, Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2022-01-14T01:19:54Z"
+  },
+  {
+    "login": "lawann",
+    "name": "Lawann Andrew",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101588652?s=72&u=1cdec2eff920b0be12231163335f59429f3a18de&v=4",
+    "location": "Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-14T17:10:55Z"
   }
 ]

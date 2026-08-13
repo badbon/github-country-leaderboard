@@ -415,7 +415,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 388,
+    "privateContributions": 407,
     "publicContributions": 3,
     "createdAt": "2024-09-10T16:17:01Z"
   },
@@ -634,5 +634,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-16T20:53:17Z"
+  },
+  {
+    "login": "milan-bulatovic",
+    "name": "Milan Bulatovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167520854?s=72&v=4",
+    "location": "Podgorica",
+    "company": "Codepixel",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-19T09:20:08Z"
+  },
+  {
+    "login": "Lukaa21",
+    "name": "Luka Dragićević",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176032913?s=72&u=d6331d40e2a5d679a9a90cc1d84400590b1fc9a1&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 64,
+    "publicContributions": 311,
+    "createdAt": "2024-07-19T11:09:04Z"
+  },
+  {
+    "login": "aleksandrivichev",
+    "name": "Alexander Ivichev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163528831?s=72&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-15T11:02:05Z"
   }
 ]
