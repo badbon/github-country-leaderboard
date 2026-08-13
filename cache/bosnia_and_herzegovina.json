@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 111,
-    "publicContributions": 6455,
+    "publicContributions": 6456,
     "createdAt": "2024-02-01T11:26:57Z"
   },
   {
@@ -1174,5 +1174,53 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2024-12-06T20:36:53Z"
+  },
+  {
+    "login": "themane23",
+    "name": "themane23",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155780409?s=72&u=c8d88f0c4ceb9c29514731521124d48fdb4131fa&v=4",
+    "location": "Central Europe, Bosnia&Herzegovina, Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-05T21:56:57Z"
+  },
+  {
+    "login": "Z4ir",
+    "name": "Zeir Mašić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185922744?s=72&u=2581856ec3234689d853f703850e2bd5eaf1353a&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2024-10-22T12:15:09Z"
+  },
+  {
+    "login": "Ledoslav",
+    "name": "Edin Tabak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186972312?s=72&u=636d89af7aa8e52bcfc84b98215418175c56cbcf&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2024-10-31T21:16:45Z"
+  },
+  {
+    "login": "faaruksmajic",
+    "name": "Faruk Smajić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160597083?s=72&u=84f2e8f820bc9c5ccfe06716fa4214f08dc1d5f0&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "Lupon Ventures",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2024-02-20T10:27:16Z"
   }
 ]

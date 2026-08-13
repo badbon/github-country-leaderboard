@@ -4414,5 +4414,65 @@
     "privateContributions": 23,
     "publicContributions": 154,
     "createdAt": "2025-09-08T15:51:44Z"
+  },
+  {
+    "login": "ndmatev",
+    "name": "Nikolay Matev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197742046?s=72&u=d87db6c89172e2d379e86b710b67476c753b6d9f&v=4",
+    "location": "United Kingdom / Bulgaria",
+    "company": "University of Nottingham",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2025-02-04T09:56:45Z"
+  },
+  {
+    "login": "Krystal-Chloe",
+    "name": "Dr. Krystal Chloe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238182699?s=72&u=b2044b10a0cfff3acb9a62ef21f3c606e0c9f597&v=4",
+    "location": "Belfast, Northern Ireland, United Kingdom",
+    "company": "Queen's University Belfast",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-10-15T08:43:06Z"
+  },
+  {
+    "login": "Shevy2791",
+    "name": "Paul Shevlin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201291222?s=72&v=4",
+    "location": "Magheramorne, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-02-28T22:17:38Z"
+  },
+  {
+    "login": "202219807",
+    "name": "Ronnie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114568786?s=72&u=491e93e89753fa13b47673671c955254fcbf1dfc&v=4",
+    "location": "Kingston Upon Hull, United Kingdom ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-28T08:18:11Z"
+  },
+  {
+    "login": "George-sai",
+    "name": "George ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104988881?s=72&u=dc31f5d732af762810bd5e81fa6d698638e08daf&v=4",
+    "location": "Kingston upon Hull, England, United Kingdom",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2022-05-05T12:15:19Z"
   }
 ]

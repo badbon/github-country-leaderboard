@@ -106,5 +106,41 @@
     "privateContributions": 123,
     "publicContributions": 745,
     "createdAt": "2024-09-17T10:50:14Z"
+  },
+  {
+    "login": "FandyHanz",
+    "name": "General Tenzen Yamauchi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144306680?s=72&u=fd659b718b9bdb63ba3bedc8adf5a1dad3f39c13&v=4",
+    "location": "Fjord Dickson, Greenland",
+    "company": "Early Warning System Glacier Greenland Search And Rescue",
+    "twitterUsername": "",
+    "followers": 43,
+    "privateContributions": 0,
+    "publicContributions": 192,
+    "createdAt": "2023-09-07T04:37:22Z"
+  },
+  {
+    "login": "yuzujam",
+    "name": "yuzujam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129248765?s=72&u=cac62e813a07fc74fca369a336cd5620b4c811c4&v=4",
+    "location": "Nuuk,Greenland",
+    "company": "",
+    "twitterUsername": "yuzujam",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-29T03:49:26Z"
+  },
+  {
+    "login": "Guccided96",
+    "name": "Smoryla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137987264?s=72&u=3be9a7ce50d290e34836dee1de1ace2b9a88a10c&v=4",
+    "location": "Greenland",
+    "company": "My own",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-28T06:50:08Z"
   }
 ]

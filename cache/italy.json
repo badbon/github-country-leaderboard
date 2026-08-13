@@ -3754,5 +3754,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-02T22:28:31Z"
+  },
+  {
+    "login": "kairosci",
+    "name": "Alessio Attilio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252924706?s=72&u=50f3d1ee43dc1fdd77438bb5cde56e926aa6d467&v=4",
+    "location": "Naples, IT",
+    "company": "@uniparthenope",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1591,
+    "publicContributions": 1737,
+    "createdAt": "2026-01-04T18:30:55Z"
+  },
+  {
+    "login": "PooyaBaravati",
+    "name": "Pooya Zare Baravati",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282337787?s=72&u=2160cf32595773daaba44ed98a94bd08b6958d50&v=4",
+    "location": "Naples",
+    "company": "Federico II University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2026-05-06T17:56:33Z"
+  },
+  {
+    "login": "angelorusso-1",
+    "name": "Angelo Russo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254751787?s=72&u=01e9c5cc1f5043a7e4f99719893ce964e3c4ee35&v=4",
+    "location": "Naples",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-01-13T18:49:06Z"
+  },
+  {
+    "login": "vincenzogiancone-source",
+    "name": "Vincent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277470928?s=72&u=398706ec5e2b2c25fd128cbcc28b30cd1f343253&v=4",
+    "location": "Naples",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2026-04-19T13:15:05Z"
+  },
+  {
+    "login": "GiovanniCozzolino2005",
+    "name": "Giovanni Cozzolino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254679298?s=72&v=4",
+    "location": "Naples",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-01-13T12:34:28Z"
+  },
+  {
+    "login": "courtney-fisher",
+    "name": "Courtney Fisher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276409295?s=72&u=1c21625b5d959dab90745b616378d52adb93df81&v=4",
+    "location": "Naples, FL",
+    "company": "Inca Digital",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-15T20:27:08Z"
   }
 ]

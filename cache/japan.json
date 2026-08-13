@@ -4162,5 +4162,77 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-02-12T04:51:52Z"
+  },
+  {
+    "login": "Sar7dayo",
+    "name": "Sar7",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268067524?s=72&u=20f9ef3dc0fa8b9951c006f5f5c5ffda50e6582a&v=4",
+    "location": "Osaka",
+    "company": "OnAnChinMan",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-14T00:32:36Z"
+  },
+  {
+    "login": "rmo0",
+    "name": "うし",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258056469?s=72&u=fa90af5eee28fb56c5392a7189e0dd72eb74fcbb&v=4",
+    "location": "Osaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 2,
+    "publicContributions": 150,
+    "createdAt": "2026-01-29T16:33:57Z"
+  },
+  {
+    "login": "micheleqaq",
+    "name": "Michele",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261914844?s=72&u=e5e4d67853f8fb865e85c644a3c066fa9f56c038&v=4",
+    "location": "Osaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-02-16T12:05:29Z"
+  },
+  {
+    "login": "tanzhonghua55",
+    "name": "KarolineNilsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273258279?s=72&u=e521b983a70608d540b3e6c0e3a4b65da29e9515&v=4",
+    "location": "Osaka University",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-04-03T03:09:38Z"
+  },
+  {
+    "login": "yukiturbo1215-cmyk",
+    "name": "Turboyuki18",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277641437?s=72&v=4",
+    "location": "Osaka",
+    "company": "Ritsumeikan",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-20T06:03:44Z"
+  },
+  {
+    "login": "PCCPMDEV",
+    "name": "MATSUYOSHI Y",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269169466?s=72&u=3bfa776d340db9e648119ad90cdfa205cc74741f&v=4",
+    "location": "Osaka",
+    "company": "PCC Development",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 620,
+    "createdAt": "2026-03-18T10:40:42Z"
   }
 ]

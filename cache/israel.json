@@ -2962,5 +2962,77 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-06-08T07:27:04Z"
+  },
+  {
+    "login": "6x-u",
+    "name": "MERO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225101921?s=72&u=b277191609d3b830bd271350a3e9b18995ebe3d2&v=4",
+    "location": "Jerusalem",
+    "company": "ps",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 176,
+    "createdAt": "2025-08-07T00:53:07Z"
+  },
+  {
+    "login": "qfiber",
+    "name": "qFiber LTD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216698196?s=72&u=bc660593bb28437ab9ca5bdedff5507430e353d4&v=4",
+    "location": "Jerusalem",
+    "company": "qFiber LTD",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 780,
+    "publicContributions": 832,
+    "createdAt": "2025-06-17T10:42:52Z"
+  },
+  {
+    "login": "IdoShalit-design",
+    "name": "Ido Shalit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/242850488?s=72&v=4",
+    "location": "Jerusalem",
+    "company": "Intel",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 172,
+    "createdAt": "2025-11-08T20:03:45Z"
+  },
+  {
+    "login": "EstherLiberman",
+    "name": "Esther",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209706172?s=72&v=4",
+    "location": "Jerusalem",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-04-29T21:58:37Z"
+  },
+  {
+    "login": "mjdkarem",
+    "name": "Majd Sidawi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204706867?s=72&v=4",
+    "location": "Jerusalem",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-03-24T10:46:53Z"
+  },
+  {
+    "login": "sadeenfaqeeh09-svg",
+    "name": "Sadeen Faqih",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/247166633?s=72&u=bd35e9f453ba7fe2977ab7c877ab6137019adf1f&v=4",
+    "location": "Jerusalem",
+    "company": "Birzeit University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 4,
+    "publicContributions": 87,
+    "createdAt": "2025-12-01T12:59:15Z"
   }
 ]
