@@ -10666,5 +10666,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-30T19:00:12Z"
+  },
+  {
+    "login": "ivan-k-zakharov",
+    "name": "Ivan Zakharov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98258202?s=72&u=c1dea70f84338ebeac20153e93f56cdf389f7d08&v=4",
+    "location": "Yerevan",
+    "company": "Blask",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 100,
+    "publicContributions": 32,
+    "createdAt": "2022-01-23T10:07:45Z"
+  },
+  {
+    "login": "lmond",
+    "name": "Lmond",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102383061?s=72&u=c053d6aad091d077b6047d89916d187753bf0e98&v=4",
+    "location": "Yerevan, RA",
+    "company": "Lmond LLC",
+    "twitterUsername": "lmond_llc",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-25T18:15:51Z"
+  },
+  {
+    "login": "HaikAsatryan",
+    "name": "Haik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106117370?s=72&u=1bc58d6f52522bbe877b91e4f13a315f75964ef5&v=4",
+    "location": "Yerevan",
+    "company": "PandaTech LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1937,
+    "publicContributions": 492,
+    "createdAt": "2022-05-23T20:50:09Z"
   }
 ]

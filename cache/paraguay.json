@@ -6907,7 +6907,7 @@
     "company": "@RoyalFlushGames",
     "twitterUsername": "JiGaMoVe",
     "followers": 8,
-    "privateContributions": 201,
+    "privateContributions": 202,
     "publicContributions": 0,
     "createdAt": "2021-01-11T12:04:54Z"
   },
@@ -8242,5 +8242,77 @@
     "privateContributions": 33,
     "publicContributions": 0,
     "createdAt": "2021-10-30T15:39:15Z"
+  },
+  {
+    "login": "Naramongelos",
+    "name": "Nara Mongelós ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84806506?s=72&u=fa86dc29f839aace303d48d64135131505139fe5&v=4",
+    "location": "Asunción ",
+    "company": "www.oktana.com/careers/paraguay",
+    "twitterUsername": "MongelosNara",
+    "followers": 77,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-25T18:28:01Z"
+  },
+  {
+    "login": "luceldasilva",
+    "name": "Lucel Da Silva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81886133?s=72&u=7c04da9cb489b4ce432ec7f7d45255b16d05aed8&v=4",
+    "location": "Asunción PY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 0,
+    "publicContributions": 151,
+    "createdAt": "2021-04-03T23:42:56Z"
+  },
+  {
+    "login": "danusitacm",
+    "name": "Daniela Cristaldo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89223540?s=72&u=1661978ec4394dbe3dfaa403774c55ed2244f24e&v=4",
+    "location": "Asunción ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2021-08-19T20:33:10Z"
+  },
+  {
+    "login": "FranciscoPintos",
+    "name": "Francisco Javier Pintos Villar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88469649?s=72&u=c87e1e340f4ae6278f5f340ec800ea100f98d744&v=4",
+    "location": "Asunción-PY",
+    "company": "FPUNA",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-05T02:33:35Z"
+  },
+  {
+    "login": "alienatedentity",
+    "name": "Miguel Giménez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88988633?s=72&u=5c9ed12a27bb8b80d8a1727b0ff59e45fa789171&v=4",
+    "location": "Asunción,  PY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-15T21:22:09Z"
+  },
+  {
+    "login": "shini66",
+    "name": "Carlos Manuel Vargas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92591127?s=72&u=a726ed475c878675319d468dca7ccba2d01367b1&v=4",
+    "location": "Luque-Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1034,
+    "publicContributions": 206,
+    "createdAt": "2021-10-15T14:40:18Z"
   }
 ]

@@ -286,5 +286,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2011-02-12T16:34:54Z"
+  },
+  {
+    "login": "kknee",
+    "name": "Kelly Knee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196868?s=72&v=4",
+    "location": "South Kingstown, RI",
+    "company": "RPS ASA",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-02-04T16:49:31Z"
+  },
+  {
+    "login": "blazetopher",
+    "name": "Christopher Mueller",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/302073?s=72&u=58e7bea77c96eccfddb2d1cd1f24d90d62f366aa&v=4",
+    "location": "North Kingstown, RI",
+    "company": "Maritime Planning Associates",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 484,
+    "publicContributions": 0,
+    "createdAt": "2010-06-10T17:38:33Z"
+  },
+  {
+    "login": "tplarocque",
+    "name": "Timothy P LaRocque",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/459503?s=72&v=4",
+    "location": "South Kingstown, RI",
+    "company": "Applied Science Associates Inc.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-29T13:23:59Z"
   }
 ]

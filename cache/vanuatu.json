@@ -46,5 +46,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-22T10:36:39Z"
+  },
+  {
+    "login": "opalcoinnet",
+    "name": "OpalCoin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69686905?s=72&u=e882d8b1bc37750feabfc30818b899c6367ce81f&v=4",
+    "location": "Vanuatu",
+    "company": "australian opalcoin",
+    "twitterUsername": "opalcoinnet",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-14T15:27:07Z"
+  },
+  {
+    "login": "jah-ky",
+    "name": "Jackson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66281541?s=72&u=48b7bbc05424ed86c7c714d39bb6d1ee616e1398&v=4",
+    "location": "Port Vila (Vanuatu)",
+    "company": "VNSO",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 471,
+    "createdAt": "2020-06-01T22:34:40Z"
+  },
+  {
+    "login": "malveremaito",
+    "name": "Maltalie Veremaito",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72738903?s=72&v=4",
+    "location": "Vanuatu",
+    "company": "Reserve Bank of Vanuatu",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-12T10:34:52Z"
+  },
+  {
+    "login": "abanga851720",
+    "name": "Adrian Banga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64563199?s=72&u=22256599778a3f5248abf8041e46aa260496780c&v=4",
+    "location": "Vanuatu",
+    "company": "Matui Tech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-29T23:16:20Z"
   }
 ]

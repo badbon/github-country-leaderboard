@@ -1186,5 +1186,77 @@
     "privateContributions": 353,
     "publicContributions": 8,
     "createdAt": "2021-10-13T07:57:31Z"
+  },
+  {
+    "login": "Skiwa",
+    "name": "Julien Haegman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15804675?s=72&u=6bd366dd79a83a063a61d4692e83d0438aae804d&v=4",
+    "location": "Saint-Denis, Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 1904,
+    "publicContributions": 27,
+    "createdAt": "2015-11-11T18:22:28Z"
+  },
+  {
+    "login": "pmialhe",
+    "name": "Pauline Mialhe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12606356?s=72&v=4",
+    "location": "Saint Denis, La Réunion ",
+    "company": "Université de La Réunion - LE²P",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-26T07:04:55Z"
+  },
+  {
+    "login": "lpartal",
+    "name": "Laurent Partal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12540022?s=72&u=91d9c4e6bc35fe08712f4f0cb58d75b62f1af019&v=4",
+    "location": "Saint Denis, La Réunion",
+    "company": "Université de La Réunion - LE²P",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-21T05:53:38Z"
+  },
+  {
+    "login": "Mortred974",
+    "name": "Rivière Serge",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12080698?s=72&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-23T07:48:14Z"
+  },
+  {
+    "login": "courdier",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12625316?s=72&u=31d271035a93fd1a8cbc7de16c74f18f9bb6eecb&v=4",
+    "location": "Saint-Denis, réunion Island, France",
+    "company": "University of Réunion Island",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2015-05-27T10:37:18Z"
+  },
+  {
+    "login": "ptournou",
+    "name": "Pierre Tournoux",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11721036?s=72&v=4",
+    "location": "Réunion Island",
+    "company": "UR",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-30T14:04:24Z"
   }
 ]

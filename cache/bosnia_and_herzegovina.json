@@ -8935,7 +8935,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 471,
+    "privateContributions": 473,
     "publicContributions": 0,
     "createdAt": "2020-06-15T11:39:14Z"
   },
@@ -10042,5 +10042,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-07T09:44:00Z"
+  },
+  {
+    "login": "chili-chips-ba",
+    "name": "Chili.CHIPS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67533663?s=72&u=e274565302967bd1d163d7c32e17bf6567c499c7&v=4",
+    "location": "Bosnia-Herzegovina",
+    "company": "Chili.CHIPS*ba",
+    "twitterUsername": "",
+    "followers": 160,
+    "privateContributions": 0,
+    "publicContributions": 320,
+    "createdAt": "2020-06-28T05:56:09Z"
+  },
+  {
+    "login": "Mirza-Krnjic",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66373315?s=72&u=05d57f2ddfce435e71ba7ffc0c8395359d107ab7&v=4",
+    "location": "Mostar, Bosnia&Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 1450,
+    "publicContributions": 6,
+    "createdAt": "2020-06-03T14:20:22Z"
+  },
+  {
+    "login": "TRedzepagic",
+    "name": "Tarik Redžepagić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60881144?s=72&u=a4eb825026c60afc44cbaf277c4d5ffc3dc0d6e8&v=4",
+    "location": "Tuzla, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 268,
+    "publicContributions": 18,
+    "createdAt": "2020-02-10T12:17:57Z"
+  },
+  {
+    "login": "TarikKarahodzic",
+    "name": "Tarik Karahodžić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72651758?s=72&u=49bc80a047d239db5d0f8ad31b1dfb49db195e9e&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 157,
+    "createdAt": "2020-10-10T10:13:14Z"
+  },
+  {
+    "login": "OPetricevic",
+    "name": "Omar Petričević",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74320596?s=72&u=c9254c31ba6d74bf602263cb6e349d9d3a8a2df6&v=4",
+    "location": "Tuzla, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 608,
+    "publicContributions": 68,
+    "createdAt": "2020-11-11T18:19:27Z"
+  },
+  {
+    "login": "Erniskucuk",
+    "name": "Ernis Kucuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66641659?s=72&u=1578173eaee018351372bbadc21e002b2d8152b2&v=4",
+    "location": "Sarajevo,Bosnia nad Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-08T18:38:40Z"
+  },
+  {
+    "login": "Marki2019",
+    "name": "Marki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61920629?s=72&u=bf64dffd75cdc55a6b163bedb5e8b5704b389cf9&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "Marki2019",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-07T21:13:00Z"
   }
 ]

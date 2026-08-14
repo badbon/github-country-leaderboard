@@ -322,5 +322,53 @@
     "privateContributions": 0,
     "publicContributions": 397,
     "createdAt": "2020-09-03T17:43:43Z"
+  },
+  {
+    "login": "mareerray",
+    "name": "Mayuree Reunsati",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61106679?s=72&u=c867f78068835f0d8c59cc513ca97f3b8759a9ec&v=4",
+    "location": "Mariehamn, Åland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 1041,
+    "createdAt": "2020-02-16T08:16:14Z"
+  },
+  {
+    "login": "SaddamHosyn",
+    "name": "Hussain Saddam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66473521?s=72&u=2a7a6677f455291e71cc85d53cd32d0f5e54d6c6&v=4",
+    "location": "Mariehamn, Åland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 43,
+    "publicContributions": 965,
+    "createdAt": "2020-06-05T11:33:49Z"
+  },
+  {
+    "login": "npunzalan",
+    "name": "Nico Punzalan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69893483?s=72&v=4",
+    "location": "Mariehamn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 3445,
+    "publicContributions": 0,
+    "createdAt": "2020-08-19T07:49:23Z"
+  },
+  {
+    "login": "Sofiaiia",
+    "name": "Sofia Södergårdh ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67481446?s=72&u=8902f011ba88a2f2e57463d7ae64f2b691cc0404&v=4",
+    "location": "Mariehamn, Åland, Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-26T18:41:03Z"
   }
 ]
