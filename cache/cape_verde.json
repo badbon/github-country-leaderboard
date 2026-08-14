@@ -3670,5 +3670,53 @@
     "privateContributions": 528,
     "publicContributions": 4,
     "createdAt": "2021-03-08T14:58:29Z"
+  },
+  {
+    "login": "Fesantos12",
+    "name": "Fellipe Santos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88989623?s=72&u=1a0b48c975379ead10b514597296d3adba9afa06&v=4",
+    "location": "Praia Grande",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2021-08-15T22:08:34Z"
+  },
+  {
+    "login": "Madbug1401",
+    "name": "Nicolay Santos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88629373?s=72&u=f08254c7337e6125df57d891fc6c2fafa173a662&v=4",
+    "location": "Praia, Cabo Verde",
+    "company": "FreeLancer",
+    "twitterUsername": "Buggzz_01",
+    "followers": 1,
+    "privateContributions": 4,
+    "publicContributions": 2,
+    "createdAt": "2021-08-08T18:03:47Z"
+  },
+  {
+    "login": "erickrbro",
+    "name": "Erick Ribeiro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79666902?s=72&u=69637df1b480a59caed52f9121cb84c5dcf46db2&v=4",
+    "location": "Praia Grande - SP",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-25T20:34:26Z"
+  },
+  {
+    "login": "Guischiano",
+    "name": "Gui Schiano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86378979?s=72&v=4",
+    "location": "Praia Grande, SP",
+    "company": "",
+    "twitterUsername": "guischiano",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-23T19:19:02Z"
   }
 ]

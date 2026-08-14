@@ -118,5 +118,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-13T23:56:25Z"
+  },
+  {
+    "login": "Zakanawaner",
+    "name": "MarioCarballo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62384918?s=72&u=b9adbcd08046f6b5370d9f66f9d1dae079e921d7&v=4",
+    "location": "Kourou, French Guiana",
+    "company": "",
+    "twitterUsername": "NnzaksnN",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-19T12:24:39Z"
+  },
+  {
+    "login": "jonathanValere",
+    "name": "Jonathan VALERE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66170686?s=72&u=7f6fabe8405aa52878ebc3e18e4a718a304a6208&v=4",
+    "location": "French-Guiana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-30T13:42:53Z"
   }
 ]

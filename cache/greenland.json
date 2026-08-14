@@ -322,5 +322,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-11T19:32:31Z"
+  },
+  {
+    "login": "Sniperkaos",
+    "name": "cworldstar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40675557?s=72&u=a294dfc834e8603327651b9a5948a4683d046108&v=4",
+    "location": "Qaqortoq, Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 2,
+    "publicContributions": 18,
+    "createdAt": "2018-06-28T20:56:59Z"
+  },
+  {
+    "login": "Lorenzmeire",
+    "name": "Lorenz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36693184?s=72&v=4",
+    "location": "Nuuk, Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-21T08:34:10Z"
+  },
+  {
+    "login": "eowen007",
+    "name": "Eowen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38041844?s=72&u=2770c421f9d44cb71f8d76da0ec159d47e86ee64&v=4",
+    "location": "Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-03T13:31:41Z"
   }
 ]

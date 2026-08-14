@@ -106,5 +106,65 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-10-19T06:17:19Z"
+  },
+  {
+    "login": "BrianMsane",
+    "name": "Brian Msane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154548195?s=72&u=d97a2ed1948b28a8e5266edf7e885b12811bb812&v=4",
+    "location": "Manzini, Eswatini",
+    "company": "University Of Eswatini",
+    "twitterUsername": "msanebrianboss",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 73,
+    "createdAt": "2023-12-21T17:59:51Z"
+  },
+  {
+    "login": "sanele176",
+    "name": "Mancoba Dlamini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125465253?s=72&u=3fae6192861c84ca5392c9ae83ae6d10b8181a78&v=4",
+    "location": "Eswatini",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 60,
+    "createdAt": "2023-02-15T12:27:53Z"
+  },
+  {
+    "login": "Liso123",
+    "name": "Saneliso Surtee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132002540?s=72&u=d2327b0fe68cd2a62387ff0a7f987a1416bf435e&v=4",
+    "location": "Eswatini",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-27T17:23:35Z"
+  },
+  {
+    "login": "Celumusa91",
+    "name": "Celumusa Fakudze ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122416958?s=72&u=a22a8cd977705e538375ad055cb84f96c4410da2&v=4",
+    "location": "Eswatini ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 56,
+    "createdAt": "2023-01-11T01:42:46Z"
+  },
+  {
+    "login": "Sandziso",
+    "name": "Sandziso Mamba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130578226?s=72&u=7fd5369e38a7b4bec49296c4b4e9ede2934d1e15&v=4",
+    "location": " Eswatini",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 69,
+    "createdAt": "2023-04-12T14:28:43Z"
   }
 ]

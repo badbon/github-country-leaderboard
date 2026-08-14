@@ -7594,5 +7594,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-22T20:48:48Z"
+  },
+  {
+    "login": "bojosipa",
+    "name": "Josipa Bošnjak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118299503?s=72&u=927285dd047d6a1f1e7a9be5c2e039edebf68eb9&v=4",
+    "location": "Zagreb, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-11-15T17:31:48Z"
+  },
+  {
+    "login": "PolarnaVidra",
+    "name": "Frko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105511202?s=72&u=b9785e78101172875ca106ff766962e5057692f1&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-13T16:36:46Z"
+  },
+  {
+    "login": "1Josip",
+    "name": "Josip",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99977493?s=72&u=c952b5c9a487858ede2d9eae3d1da02f783a87a6&v=4",
+    "location": "Zagreb, Republika Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-18T14:42:42Z"
   }
 ]

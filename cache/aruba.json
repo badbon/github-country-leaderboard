@@ -346,5 +346,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-09-17T21:17:35Z"
+  },
+  {
+    "login": "waterkip",
+    "name": "Wesley Schwengle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6317502?s=72&u=0d7474e5d2d3f2aaf97faf4b6b5233050b04e8e9&v=4",
+    "location": "Aruba",
+    "company": "wdms",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2014-01-04T12:05:07Z"
+  },
+  {
+    "login": "blonkm",
+    "name": "Michiel van der Blonk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9397116?s=72&u=8b51137b1476cb3fdf888070de5d4a56dd85146a&v=4",
+    "location": "Oranjestad, Aruba",
+    "company": "BlueKoala",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 268,
+    "createdAt": "2014-10-25T19:07:43Z"
+  },
+  {
+    "login": "Vortex93",
+    "name": "Derwin Tromp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10325225?s=72&u=5012c62f7de37c5732ecbfbed03b67a7c9edbe01&v=4",
+    "location": "Oranjestad, Aruba",
+    "company": "AIB, UTwente",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2014-12-27T19:01:20Z"
   }
 ]

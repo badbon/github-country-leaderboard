@@ -1148,7 +1148,7 @@
     "twitterUsername": "AndyHabyarimana",
     "followers": 7,
     "privateContributions": 271,
-    "publicContributions": 153,
+    "publicContributions": 154,
     "createdAt": "2022-03-21T14:47:57Z"
   },
   {
@@ -1438,5 +1438,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-09T10:12:25Z"
+  },
+  {
+    "login": "MandelaFanuel",
+    "name": "Fanuel045_Dev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118272626?s=72&u=3ced36dd1ac37892409d5038734c409c3ccac8dd&v=4",
+    "location": "Gitega",
+    "company": "https://rundinova.com",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2022-11-15T11:55:32Z"
   }
 ]

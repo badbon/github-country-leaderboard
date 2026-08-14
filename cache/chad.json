@@ -1090,5 +1090,53 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-04-27T00:36:33Z"
+  },
+  {
+    "login": "ibnuasa",
+    "name": "ADAM MAHAMAT MOUSSA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104583648?s=72&v=4",
+    "location": "N'Djamena",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-28T15:58:21Z"
+  },
+  {
+    "login": "ndilnodji",
+    "name": "Ndilnodji Djimadoumbaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121158726?s=72&u=08dfbb4f40a6ab743d4bef7bc554d2a285fddf20&v=4",
+    "location": "N'djamena",
+    "company": "@univerité de N'djamena",
+    "twitterUsername": "ndilnojiblaise",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-21T08:40:04Z"
+  },
+  {
+    "login": "allahasra-gif",
+    "name": "bemadjibeye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110389547?s=72&v=4",
+    "location": "N'Djamena",
+    "company": "Cellule Filets Sociaux",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-01T10:09:20Z"
+  },
+  {
+    "login": "Momadje",
+    "name": "Edga Momadje",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99184771?s=72&v=4",
+    "location": "N'djamena",
+    "company": "Imperial brands ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-07T12:09:50Z"
   }
 ]

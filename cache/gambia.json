@@ -658,5 +658,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-07-12T19:43:04Z"
+  },
+  {
+    "login": "kamariana",
+    "name": "A Kamariana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35754018?s=72&u=248bcf099f886ca0cfec93c0ceb80e54e6f5b96a&v=4",
+    "location": "Brikama, Gambia",
+    "company": "@sisaydimba ",
+    "twitterUsername": "kamariana40",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2018-01-24T03:49:35Z"
+  },
+  {
+    "login": "ndimzKM",
+    "name": "Alieu Ndimbalane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36171086?s=72&v=4",
+    "location": "Gambia",
+    "company": "",
+    "twitterUsername": "alieundimz",
+    "followers": 14,
+    "privateContributions": 1384,
+    "publicContributions": 2,
+    "createdAt": "2018-02-05T19:37:09Z"
+  },
+  {
+    "login": "faderrblak",
+    "name": "Faderr Blak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42776617?s=72&u=9c215fb9afa42383c68b3fe3b08b43aede7cc171&v=4",
+    "location": "Banjul, The Gambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-08-28T14:45:21Z"
+  },
+  {
+    "login": "mikel189",
+    "name": "Ibrahim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34961736?s=72&u=ea9bf752c5d6803adede24a287fcbc7b043bcb46&v=4",
+    "location": "Gambia",
+    "company": "Assutech",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-30T13:32:14Z"
+  },
+  {
+    "login": "obensouda",
+    "name": "Seedy Omar Bensouda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41966477?s=72&v=4",
+    "location": "gambia",
+    "company": "InSIST Global",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-07-31T16:31:46Z"
+  },
+  {
+    "login": "BinaD",
+    "name": "Anne B.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36233246?s=72&u=2a154fcb830e4d12b49d2220dd429e0341b23b85&v=4",
+    "location": "Gambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-07T13:45:20Z"
+  },
+  {
+    "login": "poeteebah",
+    "name": "Mohamed Manzur Bah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43929009?s=72&u=1d4841e2727d49029cfc21efb0d15c67428ddeec&v=4",
+    "location": "Gambia",
+    "company": "librarian in As-Salam Senior Secondary School  ",
+    "twitterUsername": "manzurbah",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-07T12:07:25Z"
   }
 ]

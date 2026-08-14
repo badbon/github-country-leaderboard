@@ -790,5 +790,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-02-18T08:16:16Z"
+  },
+  {
+    "login": "grantmk",
+    "name": "Grant Klimaytys",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10253502?s=72&u=03eddea5b0e5ca4de695fd76a2c41a4274162ce4&v=4",
+    "location": "Gibraltar",
+    "company": "iAmDev",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 2904,
+    "publicContributions": 9,
+    "createdAt": "2014-12-20T15:11:46Z"
+  },
+  {
+    "login": "vizcosity",
+    "name": "Aaron Baw",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8880289?s=72&u=57fd5b78198118863d9668401819cc09f86b56a5&v=4",
+    "location": "Gibraltar",
+    "company": "@bazel-uk ",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 139,
+    "publicContributions": 41,
+    "createdAt": "2014-09-23T15:51:03Z"
+  },
+  {
+    "login": "dutchn0mad",
+    "name": "PJ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8864052?s=72&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-22T17:02:56Z"
+  },
+  {
+    "login": "mnunes01",
+    "name": "Mario Nunes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6908949?s=72&u=d87d15d8a0fa2e80a7629fd21d175e708a05e89f&v=4",
+    "location": "Gibraltar",
+    "company": "Lottoland",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 112,
+    "publicContributions": 1,
+    "createdAt": "2014-03-10T15:42:03Z"
+  },
+  {
+    "login": "HighlyAGaming",
+    "name": "Douglas Attard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7946340?s=72&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-20T20:12:06Z"
+  },
+  {
+    "login": "pmozdzynski",
+    "name": "P.S. Mozdzynski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7669923?s=72&u=001f7ae5085e56562c0771f85459f752e86c36f1&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 38,
+    "publicContributions": 85,
+    "createdAt": "2014-05-22T14:03:13Z"
+  },
+  {
+    "login": "fonziemedia",
+    "name": "Fonziemedia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9273990?s=72&u=0dcbcbcce17104f9575898d407a146c5e7ea4515&v=4",
+    "location": "Gibraltar",
+    "company": "Fonziemedia",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2014-10-16T21:00:04Z"
+  },
+  {
+    "login": "LudoLeroy",
+    "name": "Ludovic Leroy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10143434?s=72&v=4",
+    "location": "Gibraltar",
+    "company": "Newton Systems Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-10T14:54:44Z"
+  },
+  {
+    "login": "nevesmarcio",
+    "name": "Márcio Neves",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6610520?s=72&v=4",
+    "location": "Gibraltar",
+    "company": "BetVictor",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-06T23:20:53Z"
   }
 ]

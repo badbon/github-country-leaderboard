@@ -130,5 +130,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-26T22:51:47Z"
+  },
+  {
+    "login": "jade-md",
+    "name": "Jade MS Delevaux",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61438952?s=72&u=ff320e247634fc663a418c081a653bc1baf6f62e&v=4",
+    "location": "French Polynesia",
+    "company": "Seascape Solutions",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-02-24T23:48:00Z"
+  },
+  {
+    "login": "DLTBryan",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70251144?s=72&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2020-08-26T03:58:35Z"
+  },
+  {
+    "login": "Apollo987",
+    "name": "Jerome B",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64499208?s=72&u=acff0749f13c5a3147bf09b307e96a9f7cde343f&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 64,
+    "publicContributions": 0,
+    "createdAt": "2020-04-28T20:03:37Z"
+  },
+  {
+    "login": "hraffaelli",
+    "name": "Heremoana Raffaelli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74125434?s=72&u=dd657d35cdbc163bad086db3a9333afb3359b422&v=4",
+    "location": "French Polynesia, Tahiti, Papeete",
+    "company": "Boss Pacific",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-08T03:49:31Z"
+  },
+  {
+    "login": "slkrck85",
+    "name": "Philippe Richard (Slovak)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66744378?s=72&u=5aea3dbde018fe7b321c4237c35bd412e4a069ca&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-10T17:05:44Z"
+  },
+  {
+    "login": "tfabrice987",
+    "name": "Tirolien Fabrice",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60195857?s=72&u=29c851a08303b8052a20f2d7612f660518c97ae4&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-22T19:08:19Z"
   }
 ]

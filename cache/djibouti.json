@@ -202,5 +202,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-13T07:37:49Z"
+  },
+  {
+    "login": "hamoudabass",
+    "name": "Hamoud Abass ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137313862?s=72&u=9095eae6af8083ea12e14a059464452b69246b7e&v=4",
+    "location": "Djibouti",
+    "company": "Teacher at MENFOP",
+    "twitterUsername": "YoungAssajog",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 265,
+    "createdAt": "2023-06-21T15:24:54Z"
+  },
+  {
+    "login": "zeynabhabib",
+    "name": "Zeinab Habib Hassan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124172575?s=72&u=f2705a248684a329af598a07cfb8d4f519416130&v=4",
+    "location": "Djibouti",
+    "company": "Université de Djibouti",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-01T14:38:47Z"
+  },
+  {
+    "login": "Obelisk999",
+    "name": "Abdoulrazak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127316981?s=72&u=640caca9c516bf2b88db0f65b3f6e962ac6592d5&v=4",
+    "location": "Djibouti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 133,
+    "publicContributions": 156,
+    "createdAt": "2023-03-08T13:37:24Z"
+  },
+  {
+    "login": "DrPower01",
+    "name": "Wilsan yahya Mohamed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123318748?s=72&u=f9dc2028977cdaef8666aabaaee64cafc4a3a120&v=4",
+    "location": "Djibouti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-22T16:47:37Z"
+  },
+  {
+    "login": "Ismael9-web",
+    "name": "Ismael Ladieh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147928267?s=72&u=7e19b3f68149c59b61f0df6b424dc32322a799d4&v=4",
+    "location": "Djibouti",
+    "company": "@djib-dsi-budget ",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 634,
+    "publicContributions": 19,
+    "createdAt": "2023-10-14T13:34:41Z"
   }
 ]

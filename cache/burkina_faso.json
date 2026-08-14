@@ -5506,5 +5506,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-04-08T10:16:18Z"
+  },
+  {
+    "login": "amonmoce",
+    "name": "Amon Moce Rodolphe BAZONGO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7223550?s=72&u=ff7cf041455023f3ff6293d066aef2994514136b&v=4",
+    "location": "Ouagadougou, Burkina Faso",
+    "company": "",
+    "twitterUsername": "amonmoce",
+    "followers": 26,
+    "privateContributions": 142,
+    "publicContributions": 11,
+    "createdAt": "2014-04-08T09:51:06Z"
+  },
+  {
+    "login": "time-bandite",
+    "name": "André Sékou ZONGO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6539924?s=72&u=bc1bb80adf6ff2a14a69c30e05cc7a61c1ba7b78&v=4",
+    "location": "Avenue de la Nation, Bobo-Dioulasso, Burkina Faso",
+    "company": "@initltd",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2014-01-29T23:37:45Z"
+  },
+  {
+    "login": "ISSAKAO",
+    "name": "Issaka OUEDRAOGO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7040192?s=72&u=b0445238df19f0ec27cbb537ec451fc0570192ea&v=4",
+    "location": "Bobo-Dioulasso (Burkina Faso)",
+    "company": "Agence de Médecince préventive (AMP)",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2014-03-23T18:21:52Z"
+  },
+  {
+    "login": "bysmo",
+    "name": "Modeste Marie BEGNINE SOMDA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9720876?s=72&v=4",
+    "location": "Burkina Faso",
+    "company": "@softoneburkina",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 531,
+    "createdAt": "2014-11-13T14:30:12Z"
+  },
+  {
+    "login": "Mahamadi",
+    "name": "Mahamadi ROUAMBA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10007528?s=72&u=97c7dc1f6bd1f919bd835ea7d13231ff32a5be2b&v=4",
+    "location": "Burkina Faso",
+    "company": "ticanalyse ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-30T07:31:35Z"
+  },
+  {
+    "login": "itsburkina",
+    "name": "Cees Wanrooij",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9073737?s=72&u=7b732676fc02abc857dd2c131909a93060b1ec9f&v=4",
+    "location": "Burkina Faso",
+    "company": "ITS Burkina",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-08T08:54:47Z"
+  },
+  {
+    "login": "chriskabore",
+    "name": "Sidnooma Christian Kabore",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7938846?s=72&u=56f846da71da58c5db9889505b8cb1a46b258c21&v=4",
+    "location": "Burkina Faso",
+    "company": "beogotech",
+    "twitterUsername": "chriskabor",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-20T01:40:55Z"
+  },
+  {
+    "login": "kaagny",
+    "name": "Drissa COULIBALY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8639750?s=72&u=5d436c1322d6c56887621ab9a145902bbf47aaf0&v=4",
+    "location": "Ouagadougou, Burkina Faso",
+    "company": "E-CONSULTING",
+    "twitterUsername": "kaagnyt",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-03T08:49:30Z"
+  },
+  {
+    "login": "eliezerkiera",
+    "name": "Eliezer Boonsdawende KIERA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7459628?s=72&v=4",
+    "location": "Ouagadougou (Burkina Faso)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2014-05-01T15:36:39Z"
   }
 ]

@@ -11938,5 +11938,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-31T13:55:40Z"
+  },
+  {
+    "login": "jessusgarciar",
+    "name": "jesus garcia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144823349?s=72&u=d8882dade73bb04aa53cc1e9d6c3fbb63c7290fa&v=4",
+    "location": "San José de Gracia, Aguascalientes.",
+    "company": "TecNM Pabellon de Arteaga.",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 77,
+    "publicContributions": 61,
+    "createdAt": "2023-09-12T15:20:49Z"
+  },
+  {
+    "login": "jesusabavaresco",
+    "name": "Jesus Bavaresco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122236938?s=72&u=d7785dba07334aedcd564093cc5b0f3b494c0934&v=4",
+    "location": "San José - CR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-08T22:32:33Z"
+  },
+  {
+    "login": "xborderMaske",
+    "name": "Diego Mascheroni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125396359?s=72&u=a8c213c8093f95fe7d40b4c788c68393c276830d&v=4",
+    "location": "San José de Mayo",
+    "company": "tiendamia",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-14T18:03:01Z"
+  },
+  {
+    "login": "kbarrientosm",
+    "name": "Keyla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137212263?s=72&v=4",
+    "location": "San José ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2023-06-20T17:51:19Z"
   }
 ]

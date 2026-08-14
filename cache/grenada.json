@@ -346,5 +346,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-01-21T12:35:24Z"
+  },
+  {
+    "login": "kerrongordon",
+    "name": "kerron gordon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6483157?s=72&u=13132cd100fe634a730bfcae67844921c13fdf29&v=4",
+    "location": "Grenada",
+    "company": "@kerrongordon",
+    "twitterUsername": "kerrongordon",
+    "followers": 17,
+    "privateContributions": 1207,
+    "publicContributions": 26,
+    "createdAt": "2014-01-23T15:54:33Z"
+  },
+  {
+    "login": "davethedevofficial",
+    "name": "DaveTheDev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7711749?s=72&v=4",
+    "location": "Grenada",
+    "company": "Pierre Solutions",
+    "twitterUsername": "Davethedev",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-27T09:01:50Z"
+  },
+  {
+    "login": "ckpd",
+    "name": "Charlie DeRiggs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8021563?s=72&u=4a2248dc1a6e039c8edd022b4be5fca61361e80c&v=4",
+    "location": "Grenada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-30T01:07:31Z"
+  },
+  {
+    "login": "OmariCelestine",
+    "name": "Omari Celestine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7303157?s=72&u=6eb20d7a65062c61576bd572ea80ec46a89b1fa6&v=4",
+    "location": "Grenada",
+    "company": "",
+    "twitterUsername": "OmariCelestine",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-15T13:50:47Z"
+  },
+  {
+    "login": "Dassterdly",
+    "name": "Damione J Darbeau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9803556?s=72&v=4",
+    "location": "Grenada",
+    "company": "None",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-17T15:52:09Z"
+  },
+  {
+    "login": "DamioneJDARBEAU",
+    "name": "Damione Darbeau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8793950?s=72&u=7fb6bbce71c01087e66bcf2c418da3f3bc35620f&v=4",
+    "location": "Grenada ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2014-09-16T14:39:45Z"
   }
 ]

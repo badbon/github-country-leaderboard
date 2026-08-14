@@ -226,5 +226,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-04T18:50:38Z"
+  },
+  {
+    "login": "ucoincurrency",
+    "name": "ucoincurrency",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70911782?s=72&u=55a3db803387cd716e2cd84ca37ed46b087355ce&v=4",
+    "location": "British Virgin Islands",
+    "company": "Universal Coin International Inc.",
+    "twitterUsername": "ucoincurrency",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-07T17:25:46Z"
+  },
+  {
+    "login": "wink-github",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59687634?s=72&v=4",
+    "location": "Craigmuir Chambers, Road Town, Tortola, VG 1110, British Virgin Islands",
+    "company": "Black Anthem Limited",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-09T09:42:55Z"
+  },
+  {
+    "login": "Rhohani-H",
+    "name": "Rhohani Hypolite",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74636461?s=72&u=2d9d40aba9c51335ce5c8727c66656b64a6c9e11&v=4",
+    "location": "British Virgin Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-18T02:39:26Z"
   }
 ]

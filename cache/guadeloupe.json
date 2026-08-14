@@ -562,5 +562,89 @@
     "privateContributions": 0,
     "publicContributions": 38,
     "createdAt": "2019-07-03T12:33:32Z"
+  },
+  {
+    "login": "BLVCK971",
+    "name": "Yoel Pépin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40273232?s=72&u=464233ba84371962c399d74940bd107103e39cb9&v=4",
+    "location": "Le Moule, GUADELOUPE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-14T16:02:39Z"
+  },
+  {
+    "login": "fg8oj",
+    "name": "Bertrand Demarcq FG8OJ/AG8OJ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41483500?s=72&u=ab7d49e0da5aefc8fc147882112d7fd522651528&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-07-20T15:42:31Z"
+  },
+  {
+    "login": "mrv971",
+    "name": "Marvrick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45149451?s=72&u=2fafc4db780e44070b4ea891856dd7be9eee9b0b&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-18T18:02:40Z"
+  },
+  {
+    "login": "ELITEindev",
+    "name": "Ethan Lacoste",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44844449?s=72&u=74ec10423df6ceccede24003d3bb1ac1e38e210a&v=4",
+    "location": "Guadeloupe",
+    "company": "Axial-Host",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 81,
+    "publicContributions": 10,
+    "createdAt": "2018-11-07T16:19:13Z"
+  },
+  {
+    "login": "DavidNaigre",
+    "name": "David Naigre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38391151?s=72&u=cbb6f724c7303323f6b2f469e62dc3c870889188&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-15T03:38:23Z"
+  },
+  {
+    "login": "ntxsay",
+    "name": "Loïc Bastaraud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39699697?s=72&u=3c8c3b3abc7e2044e75510d6111af8b4e76a5ba1&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2018-05-28T12:22:47Z"
+  },
+  {
+    "login": "mbonneau13",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39057390?s=72&u=6be4234922e99282c106333ec76119a3b8047841&v=4",
+    "location": "Guadeloupe",
+    "company": "INRAE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-07T13:40:33Z"
   }
 ]

@@ -17398,5 +17398,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-07-17T21:27:56Z"
+  },
+  {
+    "login": "rdelvillara",
+    "name": "Raynier del Villar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66985021?s=72&u=fe0aab2300be7be61637dbdc3fe08b42952d5464&v=4",
+    "location": "Santo Domingo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2020-06-16T03:20:00Z"
+  },
+  {
+    "login": "TheFSR08",
+    "name": "Franyel Sanchez Ramirez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62087892?s=72&u=ac05783a8d0ce362f5390591ff1741ff4c712eaa&v=4",
+    "location": "Santo Domingo ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-12T04:12:29Z"
+  },
+  {
+    "login": "josequez",
+    "name": "Jose Quezada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64416608?s=72&v=4",
+    "location": "Santo Domingo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-04-27T12:47:56Z"
+  },
+  {
+    "login": "x4rvm",
+    "name": "x4mv",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67471638?s=72&u=ee2ef07d6b7041680c0f6f6ca2d691d026b6fa78&v=4",
+    "location": "Santo Domingo, Dominican Repulbic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-26T14:06:17Z"
+  },
+  {
+    "login": "nerdlyticsdo",
+    "name": "NERDLYTICS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69704557?s=72&u=191285373c89d91779a0ce3222aef133e39ad227&v=4",
+    "location": "Santo Domingo ",
+    "company": "NERDLYTICS",
+    "twitterUsername": "nerdlytics",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-15T02:50:42Z"
+  },
+  {
+    "login": "frantf04",
+    "name": "Johan Olmos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76259577?s=72&u=31579cc5dfbcd70025293fd9bbc32dae8011f08b&v=4",
+    "location": "Santo Domingo, Republica Dominicana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-19T16:49:00Z"
+  },
+  {
+    "login": "ReneciFrias19",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76460709?s=72&u=92b896266c4fbe4aaa85b564f9765fa1e2bd0328&v=4",
+    "location": "santo domingo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-22T02:27:33Z"
+  },
+  {
+    "login": "JendersonAntigua",
+    "name": "Jenderson Antigua",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66757920?s=72&u=dbe7bf4f04a934a8a4a05ac54137db545498c5f9&v=4",
+    "location": "Santo Domingo",
+    "company": "Instituto Tecnologico De Las Americas",
+    "twitterUsername": "jenderson_17",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-11T00:40:14Z"
   }
 ]
