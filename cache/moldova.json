@@ -2878,5 +2878,41 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2023-01-23T19:50:14Z"
+  },
+  {
+    "login": "diana7376",
+    "name": "Iachim Diana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145869664?s=72&u=2a9f50b7ee5dfce5825eb5d1c8d288bf85fc9faf&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1,
+    "publicContributions": 165,
+    "createdAt": "2023-09-23T19:10:48Z"
+  },
+  {
+    "login": "emmy10yes",
+    "name": "Emanoel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123020330?s=72&u=ff8b9317c45f9f64a137583a4f08f39d92e6781d&v=4",
+    "location": "Chișinău ",
+    "company": "Vofflight srl",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-18T19:51:48Z"
+  },
+  {
+    "login": "ionnelli",
+    "name": "Daranuța Ion",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149693897?s=72&u=4694a255fa5df56aecdbf88d33a6a11f2df3da60&v=4",
+    "location": "Chișinău",
+    "company": "Ioneli Development SRL",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-02T14:12:37Z"
   }
 ]

@@ -298,5 +298,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-03-04T21:01:29Z"
+  },
+  {
+    "login": "fontius",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19306760?s=72&u=62d0c4204905c5789cf5edde030811d24dfb91a8&v=4",
+    "location": "Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2016-05-11T12:54:12Z"
+  },
+  {
+    "login": "leadegroot",
+    "name": "Lea de Groot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18671341?s=72&u=adc5da998e2d9d798c3d801a9237509ac7634f09&v=4",
+    "location": "Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 84,
+    "publicContributions": 277,
+    "createdAt": "2016-04-26T02:44:01Z"
   }
 ]

@@ -1582,5 +1582,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-05-12T10:54:56Z"
+  },
+  {
+    "login": "weimufeng",
+    "name": "Mufeng Wei",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61162791?s=72&v=4",
+    "location": "Monrovia",
+    "company": "LiNova Energy Inc.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 46,
+    "publicContributions": 47,
+    "createdAt": "2020-02-17T19:10:50Z"
+  },
+  {
+    "login": "sami-abdelghani",
+    "name": "Sami Ali Abdelghani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62582814?s=72&u=c301d4bc2a8d75a28875694b9f67d70ca79cd673&v=4",
+    "location": "Monrovia, California 91016",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-24T03:21:23Z"
+  },
+  {
+    "login": "DanEra1998",
+    "name": "Daniel Herrera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70177673?s=72&u=a00635cdac05054c0078326fc7f7fb2eb1b1064c&v=4",
+    "location": "Monrovia, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 8,
+    "publicContributions": 52,
+    "createdAt": "2020-08-24T22:38:44Z"
+  },
+  {
+    "login": "josephmadison",
+    "name": "Matthias M JOSEPH",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67426972?s=72&v=4",
+    "location": "Monrovia",
+    "company": "Ecobank Liberia Limited",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-25T14:27:20Z"
   }
 ]

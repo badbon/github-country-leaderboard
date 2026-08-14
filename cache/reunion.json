@@ -730,5 +730,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-14T20:28:05Z"
+  },
+  {
+    "login": "digikaizen",
+    "name": "DigiKaizen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62054940?s=72&u=f76fce9e84f530a9cd9be19beb8e45416862e58b&v=4",
+    "location": "Saint-Denis",
+    "company": "DigiKaizen",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5881,
+    "publicContributions": 1,
+    "createdAt": "2020-03-11T09:24:05Z"
+  },
+  {
+    "login": "Nicolas-Begue",
+    "name": "Nicolas BEGUE 🐱‍👤",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64871356?s=72&v=4",
+    "location": "Saint-Denis",
+    "company": "Skydo Digital Studio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1451,
+    "publicContributions": 17,
+    "createdAt": "2020-05-05T21:51:43Z"
   }
 ]

@@ -130,5 +130,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-12-17T09:50:27Z"
+  },
+  {
+    "login": "lininn",
+    "name": "Emerson Towne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22441187?s=72&v=4",
+    "location": "029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands",
+    "company": "Hamill-Bechtelar",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 218,
+    "createdAt": "2016-09-26T06:44:24Z"
+  },
+  {
+    "login": "seishimaybeC",
+    "name": "Saria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18252487?s=72&u=02c6bff740c9d901e90a99661d29a9ccdab4df2d&v=4",
+    "location": "Solomon Islands",
+    "company": "Super Mana Potion",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-04T00:36:21Z"
   }
 ]

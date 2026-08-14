@@ -4090,5 +4090,113 @@
     "privateContributions": 1225,
     "publicContributions": 2,
     "createdAt": "2020-01-17T20:05:36Z"
+  },
+  {
+    "login": "deniskarovic",
+    "name": "Denis Karovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69091718?s=72&v=4",
+    "location": "Podgorica",
+    "company": "Softnex",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 73,
+    "publicContributions": 0,
+    "createdAt": "2020-08-01T21:03:38Z"
+  },
+  {
+    "login": "drahil",
+    "name": "Omar Djecevic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74052766?s=72&u=cd7c992fa1c844e9832980cbe240d12ec21e37c3&v=4",
+    "location": "Podgorica",
+    "company": "Prime Insights",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 672,
+    "publicContributions": 219,
+    "createdAt": "2020-11-06T11:39:08Z"
+  },
+  {
+    "login": "laxon17",
+    "name": "Lazar Lalovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75807544?s=72&u=b25159194d733d77a9ca88d5036421aa01cab0f2&v=4",
+    "location": "Podgorica",
+    "company": "Codeus",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 2257,
+    "publicContributions": 0,
+    "createdAt": "2020-12-10T18:58:41Z"
+  },
+  {
+    "login": "StefanBraunovic",
+    "name": "Stefan Braunovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61466294?s=72&u=ba1d12c13103ad6a1b1c727f23082f7673e5a66d&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 29,
+    "publicContributions": 0,
+    "createdAt": "2020-02-25T14:57:11Z"
+  },
+  {
+    "login": "zeljkoberatovic",
+    "name": "Željko Beratović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65452618?s=72&u=fbe77465d6e974b10a30e773de6e608d6ffca328&v=4",
+    "location": "Podgorica",
+    "company": "Web Centar",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 235,
+    "publicContributions": 177,
+    "createdAt": "2020-05-16T13:13:05Z"
+  },
+  {
+    "login": "PeacefulNoob",
+    "name": "Cikic Filip",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59912238?s=72&u=4b90559b902ad893cf83f9b4184468a854f35056&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2020-01-15T08:20:56Z"
+  },
+  {
+    "login": "nedoder",
+    "name": "Tatjana Doderovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67913161?s=72&u=f58751fb296bb04ae2788ff5890c65d48c884d71&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 5,
+    "publicContributions": 2,
+    "createdAt": "2020-07-06T14:25:54Z"
+  },
+  {
+    "login": "dragandjuras",
+    "name": "Dragan Djurasovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64488813?s=72&u=16ea76c1d1bca2002d4d878de06ca6386f9724bb&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-28T16:15:41Z"
+  },
+  {
+    "login": "Walltor",
+    "name": "Miloš",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71916145?s=72&u=decf32bcdeb142b18496430008fa4160d327fd68&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-26T04:50:02Z"
   }
 ]

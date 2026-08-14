@@ -12394,5 +12394,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-17T14:02:19Z"
+  },
+  {
+    "login": "webplusmultimedia",
+    "name": "Daniel RAMESAY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17431035?s=72&u=07d467a1966c547dc86c6ae75c5edcd74922984e&v=4",
+    "location": "Martinique (France)",
+    "company": "Webplus Multimédia",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 67,
+    "createdAt": "2016-02-23T13:35:14Z"
+  },
+  {
+    "login": "NicoNes",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19169964?s=72&u=dba4b9865b847b16b783f61fc8c05f2b4b605a77&v=4",
+    "location": "Martinique (France)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-03T13:45:54Z"
+  },
+  {
+    "login": "WestleyB",
+    "name": "Wez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22403106?s=72&u=d630c0ae0f168751a93bb0fa01a7d232dbce2a54&v=4",
+    "location": "Paris - Martinique - London",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-23T19:56:29Z"
+  },
+  {
+    "login": "HelifeWasTaken",
+    "name": "Mattis DALLEAU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62753801?s=72&u=e7e68b54e8da72bfcd6ac3bed9ceb782bec72854&v=4",
+    "location": "東京 (JPN), 대구 (KR), Paris (FRA),  Saint-Denis (RUN) - Moving constantly",
+    "company": "@GitGuardian (@mattisdalleau-gg)",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 21,
+    "publicContributions": 20,
+    "createdAt": "2020-03-27T13:27:39Z"
+  },
+  {
+    "login": "devsfunamazing",
+    "name": "Kouame Gerard Kodjo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107117445?s=72&v=4",
+    "location": "Paris/Dakar",
+    "company": "Fam Digitale",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-06-08T11:51:02Z"
   }
 ]

@@ -574,5 +574,101 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2017-05-02T12:42:42Z"
+  },
+  {
+    "login": "p4cm4n972",
+    "name": "Manuel ADELE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22406456?s=72&u=7736669045143a8d3a2dedd5e79ba4683564e4c6&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 389,
+    "publicContributions": 768,
+    "createdAt": "2016-09-24T01:32:22Z"
+  },
+  {
+    "login": "blazux",
+    "name": "Vincent B.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16634590?s=72&u=114bfb76d2db0324251367b6fd9146e690dd7b74&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 39,
+    "publicContributions": 242,
+    "createdAt": "2016-01-10T14:30:34Z"
+  },
+  {
+    "login": "jhonore",
+    "name": "Judes HONORE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18578614?s=72&u=7fb91fdb71f84ec59c7071f5d1607ea257d72107&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2016-04-20T16:05:56Z"
+  },
+  {
+    "login": "Ulrico972",
+    "name": "Ulrich Giberné",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24393953?s=72&u=43843c7210334f84f793ef01a6fcececbbeaed20&v=4",
+    "location": "Martinique",
+    "company": "Airship",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 70,
+    "createdAt": "2016-12-05T17:25:14Z"
+  },
+  {
+    "login": "lucasfnts",
+    "name": "Lucas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24755810?s=72&u=78ab32420c8edc2705a9dbd502ff739a21882c9c&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-24T17:04:06Z"
+  },
+  {
+    "login": "nvidot",
+    "name": "Nicolas Vidot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23439719?s=72&u=f4821c898123db579a0bb8a4e4527d2ef6ab0d2f&v=4",
+    "location": "Fort-de-France, Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 14,
+    "publicContributions": 3,
+    "createdAt": "2016-11-13T21:20:49Z"
+  },
+  {
+    "login": "natdev",
+    "name": "Nathanaël Dordonne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24758961?s=72&u=6125b1c8d9447aac625123340caf746938b909f6&v=4",
+    "location": "martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2016-12-25T01:18:15Z"
+  },
+  {
+    "login": "mriam123456",
+    "name": "Manuel RIAM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23733461?s=72&u=70ea4a325486ab39b643f996d7fcc0b2cb05a134&v=4",
+    "location": "Martinique",
+    "company": "CTM",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-25T05:21:04Z"
   }
 ]

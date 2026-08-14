@@ -1042,5 +1042,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-16T20:11:28Z"
+  },
+  {
+    "login": "PakHeiPoon",
+    "name": "0xTheo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108774643?s=72&u=ac7468fa84f579e0145e62686d61ee41c90406a2&v=4",
+    "location": "Macao",
+    "company": "MUST",
+    "twitterUsername": "PakHeiPoon",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2022-07-06T01:39:12Z"
+  },
+  {
+    "login": "codeofwhite",
+    "name": "Hejun Zhang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107248108?s=72&u=c0fca7d2374c8916129a61daf0c6b46ceba56b5c&v=4",
+    "location": "澳门 Macao",
+    "company": "Peking University Shenzhen Graduate School",
+    "twitterUsername": "codeofwhite",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 195,
+    "createdAt": "2022-06-10T09:11:39Z"
+  },
+  {
+    "login": "tianlinliang",
+    "name": "tianlinliang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103716090?s=72&u=f6fc1dc08c437d2b8928a577b9aa2a7af49dae27&v=4",
+    "location": "Macao",
+    "company": "Macao Polytechnic University",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-15T03:14:45Z"
+  },
+  {
+    "login": "luliyaoLeo",
+    "name": "Leo_luliyao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107264093?s=72&u=d665813e98ad70c52a99ed03118a4d16aab41625&v=4",
+    "location": "Macao",
+    "company": "Macau University of Science and Technology",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-06-10T14:33:15Z"
+  },
+  {
+    "login": "macausamio2022",
+    "name": "Samiomacau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111630113?s=72&u=1597547faec969490a17d37c3e7f5dd3752a1195&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-20T06:59:14Z"
+  },
+  {
+    "login": "FALLfield",
+    "name": "FallField",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120699412?s=72&u=90dd710cbaf63f51fdb9328350a4ae047522a442&v=4",
+    "location": "Macao",
+    "company": "MPU",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2022-12-16T03:36:01Z"
   }
 ]
