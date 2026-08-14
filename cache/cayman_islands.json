@@ -1402,5 +1402,65 @@
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2012-12-06T21:30:01Z"
+  },
+  {
+    "login": "tmancey",
+    "name": "Terry Mancey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1188719?s=72&u=8e891fba7e51cfb79a8df8eb5eaa9a6ad81a7c07&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 0,
+    "publicContributions": 947,
+    "createdAt": "2011-11-11T15:15:52Z"
+  },
+  {
+    "login": "sharkzp",
+    "name": "Alex Topalov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/594960?s=72&u=497a66999d12bfc5eacf3529e94ac43546146bf0&v=4",
+    "location": "Cayman Islands",
+    "company": "@Slice",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 771,
+    "publicContributions": 0,
+    "createdAt": "2011-02-01T15:16:39Z"
+  },
+  {
+    "login": "alow",
+    "name": "Amir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/597668?s=72&u=f7ad2ca79a42f1999da2e0dcb9607996bcd1538e&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 428,
+    "publicContributions": 2,
+    "createdAt": "2011-02-02T22:44:30Z"
+  },
+  {
+    "login": "Senso",
+    "name": "Manuel Lanctot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1104449?s=72&u=78aaf58c63512e24163c8ff39c023667b0799eb8&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-05T10:12:48Z"
+  },
+  {
+    "login": "kstalledo",
+    "name": "Kahlil Erwin Talledo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/705908?s=72&v=4",
+    "location": "Grand Cayman, Cayman Islands",
+    "company": "Binary Salad Inc.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-02T20:57:03Z"
   }
 ]

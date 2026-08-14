@@ -1486,5 +1486,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-12-21T23:32:23Z"
+  },
+  {
+    "login": "stephen-morlex",
+    "name": "Stephen Victor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27579780?s=72&u=1cba7fab3be14ffc8f41b73306e180c5196f2a60&v=4",
+    "location": "Juba, South Sudan",
+    "company": "Freelancer",
+    "twitterUsername": "stephen_morlex",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2017-04-15T20:07:02Z"
+  },
+  {
+    "login": "cholg2003",
+    "name": "Chol",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32926634?s=72&u=a411657c770fbadbb1e079402b68cf56f8cfd652&v=4",
+    "location": "South Sudan",
+    "company": "Xhollo",
+    "twitterUsername": "cholg2003",
+    "followers": 19,
+    "privateContributions": 20,
+    "publicContributions": 0,
+    "createdAt": "2017-10-19T09:13:30Z"
+  },
+  {
+    "login": "WANI12",
+    "name": "wani geoffrey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26743344?s=72&u=e3354622711f05e3780939086cfb3c09d3110b95&v=4",
+    "location": "Juba, South Sudan",
+    "company": "@open-southsudan ",
+    "twitterUsername": "GeoffreyWani",
+    "followers": 11,
+    "privateContributions": 128,
+    "publicContributions": 335,
+    "createdAt": "2017-03-28T14:17:46Z"
+  },
+  {
+    "login": "magienol",
+    "name": "James Poijo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31886366?s=72&u=a6cf917b74e7599d5415da8be65fe67405a78c36&v=4",
+    "location": "Juba, South Sudan ",
+    "company": "HISP South Sudan ",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2017-09-12T10:30:26Z"
+  },
+  {
+    "login": "alayyo-south-sudan",
+    "name": "kevin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25363008?s=72&u=95a397575f0ea1562a2ae8a239d473bf0f7ef8b0&v=4",
+    "location": "Juba, South Sudan",
+    "company": "AlayyoCSTech",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-26T09:11:29Z"
   }
 ]

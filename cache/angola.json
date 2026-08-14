@@ -10424,7 +10424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 199,
+    "publicContributions": 200,
     "createdAt": "2023-10-22T11:48:52Z"
   },
   {
@@ -11242,5 +11242,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-11T10:15:35Z"
+  },
+  {
+    "login": "Joaquim-Quiteque",
+    "name": "Joaquim-Quiteque",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122446972?s=72&u=0efe1802db8a38e8ed64034880fbbf165c460cb2&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "QuitequeJoaquim",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-11T10:56:15Z"
+  },
+  {
+    "login": "Al360Line",
+    "name": "Alberto António ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127844658?s=72&u=37d52429ddd95a8bb0b71c0fda91276961372b12&v=4",
+    "location": "Cidade de Luanda ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-14T10:21:22Z"
+  },
+  {
+    "login": "albanojoaoalberto",
+    "name": "Albano Alberto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154712167?s=72&u=7d24c4a946b6a18a8622a76a72036f35dfd8992d&v=4",
+    "location": "Luanda",
+    "company": "Albano Alberto",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 33,
+    "publicContributions": 38,
+    "createdAt": "2023-12-24T00:22:17Z"
+  },
+  {
+    "login": "FraneoJJ",
+    "name": "Franeojosejoao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133277824?s=72&u=2f52040e1603759e13f38eb99c766fd0e04bc2b7&v=4",
+    "location": "Luanda",
+    "company": "SPARCK TECH",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 209,
+    "createdAt": "2023-05-11T20:51:29Z"
+  },
+  {
+    "login": "Dennykriativo9",
+    "name": "Denny Salgueiro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147348390?s=72&u=45d67794b600babb6c2445811628b7411f9590cb&v=4",
+    "location": "Luanda",
+    "company": "Tecmicro Lda",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 17,
+    "publicContributions": 12,
+    "createdAt": "2023-10-08T21:13:21Z"
+  },
+  {
+    "login": "ANTONIO-DASILVA",
+    "name": "António da SIlva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147283048?s=72&u=0f33bafffcd8efaac359b7ca80808cc6be323629&v=4",
+    "location": "LUANDA",
+    "company": "ITEL",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-07T22:15:57Z"
+  },
+  {
+    "login": "dpedro5",
+    "name": "Destino António Pedro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121615814?s=72&u=19544bc6165ee797ade03188baf0cb9a42c527a0&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 359,
+    "publicContributions": 1,
+    "createdAt": "2022-12-29T12:20:17Z"
+  },
+  {
+    "login": "Manuzau",
+    "name": "manuelzau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138143069?s=72&u=285509bb2ca9765112867706a5693d34b13eef09&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 160,
+    "createdAt": "2023-06-29T15:47:41Z"
   }
 ]

@@ -1522,5 +1522,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-05-09T10:54:04Z"
+  },
+  {
+    "login": "jasonals",
+    "name": "Jason Als",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/589928?s=72&u=93debf88142e54b32bfd62e4faff1134f594331c&v=4",
+    "location": "Barbados",
+    "company": "@mMoneyBB",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 4084,
+    "publicContributions": 6,
+    "createdAt": "2011-01-29T14:04:31Z"
+  },
+  {
+    "login": "princebazawule",
+    "name": "prince bazawule",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/578763?s=72&u=966748d6275aebbb7c85987ea620087063f677a4&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "princebazawule",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2011-01-23T02:50:08Z"
   }
 ]

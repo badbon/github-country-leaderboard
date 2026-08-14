@@ -5794,5 +5794,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-13T09:32:40Z"
+  },
+  {
+    "login": "Yonaba",
+    "name": "Roland",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/884058?s=72&v=4",
+    "location": "Ouagadougou (Burkina Faso)",
+    "company": "2iE",
+    "twitterUsername": "RYonaba",
+    "followers": 377,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2011-06-29T13:39:44Z"
+  },
+  {
+    "login": "cedricbere",
+    "name": "cedricbere",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1208618?s=72&u=a1f56ff20f70c119305644733cd0e2f648a65a21&v=4",
+    "location": "Burkina Faso",
+    "company": "Université Ouaga 1 Pr Joseph Ki ZERBO",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2011-11-20T17:38:40Z"
   }
 ]

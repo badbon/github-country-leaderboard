@@ -356,7 +356,7 @@
     "twitterUsername": "Giannisanii",
     "followers": 20,
     "privateContributions": 150,
-    "publicContributions": 482,
+    "publicContributions": 484,
     "createdAt": "2022-10-15T02:37:09Z"
   },
   {
@@ -454,5 +454,17 @@
     "privateContributions": 3,
     "publicContributions": 6,
     "createdAt": "2022-06-15T07:00:52Z"
+  },
+  {
+    "login": "ShivanMavaCore369",
+    "name": "Shivan Soeradj Angnoe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104573016?s=72&u=d93f720fd31dae0861a55b65afd329d40f525673&v=4",
+    "location": "Paramaribo",
+    "company": "MavaCore369",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-28T13:03:06Z"
   }
 ]

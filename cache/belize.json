@@ -1102,5 +1102,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-07-11T20:27:07Z"
+  },
+  {
+    "login": "cruzer45",
+    "name": "Maurice Rogers",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1108607?s=72&u=a2b05b75b1722ba85232b69fd0a1f6644509522c&v=4",
+    "location": "Belize ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 308,
+    "publicContributions": 9,
+    "createdAt": "2011-10-06T20:26:14Z"
+  },
+  {
+    "login": "freshtranslation",
+    "name": "Fresh Translation",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/695278?s=72&v=4",
+    "location": "Belize",
+    "company": "Fresh Translation Right Here Inc.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-28T15:02:32Z"
   }
 ]
