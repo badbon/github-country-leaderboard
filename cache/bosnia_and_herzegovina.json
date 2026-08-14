@@ -10126,5 +10126,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-07T21:13:00Z"
+  },
+  {
+    "login": "ammar-mop",
+    "name": "Ammar Arnautovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64066936?s=72&u=9e9913e564ea31661645e804bb01d2950337c802&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "Ministry of Programming",
+    "twitterUsername": "ArnautovicAmmar",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-21T07:50:42Z"
+  },
+  {
+    "login": "tarikstupac",
+    "name": "Tarik Stupac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69973823?s=72&v=4",
+    "location": "Mostar, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2020-08-20T13:40:20Z"
+  },
+  {
+    "login": "nlomerowitz",
+    "name": "Zlatan Omerović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69789695?s=72&u=4644819c450cde6768aacb0eb2ffd2797f13b4ca&v=4",
+    "location": "Mostar, Bosnia-Herzegovina",
+    "company": "NeuraLegion",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-17T08:17:55Z"
+  },
+  {
+    "login": "nesimi96",
+    "name": "Nezir Nesimi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66214106?s=72&u=707b987e38b7bf940e30183eecfcdcdc738ce08a&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-31T15:55:02Z"
+  },
+  {
+    "login": "Imran-Sehic",
+    "name": "Imran",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62380066?s=72&u=5e7b9a796e16e9054d9cbb348f0b5b16f436f2b4&v=4",
+    "location": "Zavidovići, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 14,
+    "publicContributions": 0,
+    "createdAt": "2020-03-19T10:13:59Z"
   }
 ]

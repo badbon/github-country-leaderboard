@@ -9476,7 +9476,7 @@
     "twitterUsername": "NaDie",
     "followers": 48,
     "privateContributions": 1832,
-    "publicContributions": 387,
+    "publicContributions": 388,
     "createdAt": "2020-06-19T13:28:02Z"
   },
   {
@@ -10930,5 +10930,89 @@
     "privateContributions": 664,
     "publicContributions": 90,
     "createdAt": "2020-10-16T19:03:11Z"
+  },
+  {
+    "login": "aferranperez",
+    "name": "Ale_Ferran98",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62674195?s=72&u=69b625a4175e2d275fa2ef1388e9af9aa90c4386&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2020-03-25T21:39:44Z"
+  },
+  {
+    "login": "ClaudiaOM",
+    "name": "Claudia Olavarrieta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62112355?s=72&u=1e65496ed1c3676ffd6b3025d47f6bb6d53491db&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "ClauditaOM_",
+    "followers": 10,
+    "privateContributions": 84,
+    "publicContributions": 0,
+    "createdAt": "2020-03-12T16:46:46Z"
+  },
+  {
+    "login": "RoswellCR",
+    "name": "Rosbel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60379505?s=72&u=9e47b606a0469a32444ed8da1e02b2f269e4a7a0&v=4",
+    "location": "Havana",
+    "company": "@EnjoyTravelHolding",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 425,
+    "publicContributions": 2,
+    "createdAt": "2020-01-28T06:34:59Z"
+  },
+  {
+    "login": "m00-copincha",
+    "name": "Maurice Haedo Sanabria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72937962?s=72&u=8f6ef6c324175b1d5c2d5d5893013fbc84e95704&v=4",
+    "location": "Havana",
+    "company": "copincha",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-15T16:44:06Z"
+  },
+  {
+    "login": "damederos",
+    "name": "Dayron",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67265113?s=72&u=d19c04dc24d3c58aa3d0741deeabc7b63c06483c&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "damederosr",
+    "followers": 3,
+    "privateContributions": 64,
+    "publicContributions": 13,
+    "createdAt": "2020-06-22T09:30:28Z"
+  },
+  {
+    "login": "OrlandoNatsu",
+    "name": "Ing. Orlando García",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63603403?s=72&u=342a8b2045ee886716ddcce5841a318afc91513d&v=4",
+    "location": "Havana",
+    "company": "GravitySoftware",
+    "twitterUsername": "OrlandoNatsu",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2020-04-13T16:15:26Z"
+  },
+  {
+    "login": "N34R97",
+    "name": "Mauro Sergio Sotolongo Montes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64933674?s=72&u=daf451ad78f4970fecfeb5f60c6c3b080d5ec2c7&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-06T23:10:00Z"
   }
 ]

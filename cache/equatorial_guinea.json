@@ -166,5 +166,29 @@
     "privateContributions": 0,
     "publicContributions": 31,
     "createdAt": "2018-05-21T15:29:56Z"
+  },
+  {
+    "login": "alexis-ngoyi",
+    "name": "Alexis Ngoyi M.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93914013?s=72&u=592128c699b15821cea4243fe414880b8dbf8238&v=4",
+    "location": "Guinee Equatoriale, Malabo",
+    "company": "Qirah",
+    "twitterUsername": "alexisNgoyi",
+    "followers": 3,
+    "privateContributions": 229,
+    "publicContributions": 51,
+    "createdAt": "2021-11-08T10:17:10Z"
+  },
+  {
+    "login": "arongesono12",
+    "name": "Aron Esono Ondo Eyang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83230446?s=72&u=6b784c635460f169e9471ce9f55fc19dc23a7ab7&v=4",
+    "location": "Malabo",
+    "company": "@SEGESA",
+    "twitterUsername": "aronesono",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 198,
+    "createdAt": "2021-04-26T14:42:01Z"
   }
 ]

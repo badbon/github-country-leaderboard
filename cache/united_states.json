@@ -63802,5 +63802,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-05T20:18:30Z"
+  },
+  {
+    "login": "JohnMBond-work",
+    "name": "John M. Bond",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73481353?s=72&u=ce74642342834a21e7d71a08ffd35105778a595c&v=4",
+    "location": "Hamilton, Ohio, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-26T13:58:52Z"
+  },
+  {
+    "login": "jlavery",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79539724?s=72&v=4",
+    "location": "Long Island, New York",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-23T19:08:32Z"
+  },
+  {
+    "login": "kfremgen",
+    "name": "Kevin Fremgen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78449836?s=72&u=dff082aa9aad6065002c36c4a55eb229e0cd4a3e&v=4",
+    "location": "Staten Island,New York",
+    "company": "The Athletic",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 526,
+    "publicContributions": 2,
+    "createdAt": "2021-02-02T22:04:32Z"
+  },
+  {
+    "login": "stevenecrocker",
+    "name": "Steven Crocker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78985823?s=72&u=f2082223f6cad1f6342029251cb1b17ef654e723&v=4",
+    "location": "Rhode Island, USA",
+    "company": "University of Rhode Island",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-12T21:54:13Z"
+  },
+  {
+    "login": "Jadacakici",
+    "name": "Jada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91645214?s=72&v=4",
+    "location": "Long Island, New York",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2021-09-30T02:10:41Z"
+  },
+  {
+    "login": "ShredSteezy",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77371591?s=72&v=4",
+    "location": "Long Island, New York",
+    "company": "",
+    "twitterUsername": "Chris__Dana",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2021-01-13T03:03:28Z"
   }
 ]

@@ -2794,5 +2794,101 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2018-04-17T11:23:39Z"
+  },
+  {
+    "login": "NZOLO",
+    "name": "NZOLO MINKO Michel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39587265?s=72&u=2b57767c6eed215116e56ef3e4afc40a8f9c3a12&v=4",
+    "location": "Libreville",
+    "company": "MYTECH GAB'ON",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-24T10:05:23Z"
+  },
+  {
+    "login": "BriceHache",
+    "name": "Hilarion KUASSIA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35991565?s=72&u=6496e004b355f1af40cb4ff6a310656fe415f812&v=4",
+    "location": "Libreville",
+    "company": "EASYTECH AFRICA",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2018-01-31T08:23:15Z"
+  },
+  {
+    "login": "jobsconseil",
+    "name": "Jobs Conseil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39706130?s=72&u=6df2348a1fab6298fed2fbe9a1a909384673139c&v=4",
+    "location": "Libreville",
+    "company": "JOBS CONSEIL",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-28T16:18:29Z"
+  },
+  {
+    "login": "Mbaiwodji",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41707474?s=72&u=3e2795f521d366a8c1793c88488ee3ece8f6912d&v=4",
+    "location": "Libreville",
+    "company": "IT CORP",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-07-25T22:00:58Z"
+  },
+  {
+    "login": "bonachy",
+    "name": "bonachy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38384954?s=72&v=4",
+    "location": "Libreville",
+    "company": "@ARIAGABON ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-14T18:50:51Z"
+  },
+  {
+    "login": "Bsdev23",
+    "name": "Bacar Sylla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37479417?s=72&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-17T15:21:13Z"
+  },
+  {
+    "login": "Artan-THP",
+    "name": "Artan de Ndzile",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46030237?s=72&v=4",
+    "location": "Libreville",
+    "company": "Ndzile",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-20T16:52:16Z"
+  },
+  {
+    "login": "yanpro-io",
+    "name": "Noubissi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44781149?s=72&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-05T16:31:11Z"
   }
 ]

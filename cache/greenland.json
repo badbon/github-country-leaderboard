@@ -550,5 +550,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-12-05T16:38:18Z"
+  },
+  {
+    "login": "aqqaluk",
+    "name": "Aqqaluk Holm",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15785255?s=72&u=8bcd3753e8e06a706fa6b3c8e7cb54fce0a5915e&v=4",
+    "location": "Nuuk",
+    "company": "INUATA.org",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-10T14:58:41Z"
+  },
+  {
+    "login": "Angut1983",
+    "name": "Angut1983",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13824609?s=72&u=16b4a1c0df5904c80afe31b4110550b4ea0dfc73&v=4",
+    "location": "Nuuk",
+    "company": "Greenland",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-17T00:12:55Z"
   }
 ]

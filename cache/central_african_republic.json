@@ -118,5 +118,17 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2017-02-04T11:30:33Z"
+  },
+  {
+    "login": "nguereza-tony",
+    "name": "Tony NGUEREZA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16177981?s=72&u=dce350d9160b2a601cf10171c58752bdc1580736&v=4",
+    "location": "Bangui",
+    "company": "Platine PHP",
+    "twitterUsername": "NGUEREZATony",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 274,
+    "createdAt": "2015-12-06T16:01:46Z"
   }
 ]

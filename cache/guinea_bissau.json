@@ -190,5 +190,41 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2019-06-14T08:19:45Z"
+  },
+  {
+    "login": "etiandroucha",
+    "name": "Etiandro Ucha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45241331?s=72&u=badce60a50d7dacdbf339de636437b2de60f22af&v=4",
+    "location": "Guiné-Bissau",
+    "company": "Growth.gw",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-21T18:05:11Z"
+  },
+  {
+    "login": "NB-17-lab",
+    "name": "NB",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44978911?s=72&u=d744fe00f7782beaeed7a2df30d985e7b9335d28&v=4",
+    "location": "Bissau/Guiné-Bissau",
+    "company": "DGCI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-12T17:06:56Z"
+  },
+  {
+    "login": "mamadudarame",
+    "name": "Mamadu Darame",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39845955?s=72&v=4",
+    "location": "Bissau-Guiné-Bissau 🇬🇼 ",
+    "company": "Mercado Bissau ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2018-06-02T01:42:16Z"
   }
 ]

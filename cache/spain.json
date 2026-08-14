@@ -26446,5 +26446,29 @@
     "privateContributions": 0,
     "publicContributions": 279,
     "createdAt": "2025-11-09T18:17:51Z"
+  },
+  {
+    "login": "OmarRodriguezLopez1398",
+    "name": "Omar Rodríguez López",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158471690?s=72&u=c24f9635646c31dae286445c38669e3786870b68&v=4",
+    "location": "Santiago de Compostela, Spain",
+    "company": "Universidade de Santiago de Compostela",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 31,
+    "publicContributions": 276,
+    "createdAt": "2024-02-01T12:15:24Z"
+  },
+  {
+    "login": "ivan-cuntin",
+    "name": "Iván Cuntín",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167176004?s=72&v=4",
+    "location": "Santiago de Compostela (Galicia, Spain)",
+    "company": "Instituto Galego de Física de Altas Enerxías (IGFAE)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-16T07:28:28Z"
   }
 ]
