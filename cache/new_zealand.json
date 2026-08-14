@@ -20266,5 +20266,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-24T07:05:56Z"
+  },
+  {
+    "login": "Amekn",
+    "name": "Kang Zhou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78067351?s=72&u=0d7daf3d2b168ccf27698daa7c0ad600ffdad030&v=4",
+    "location": "Hamilton, Waikato, New Zealand",
+    "company": "University of Waikato",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 73,
+    "publicContributions": 196,
+    "createdAt": "2021-01-27T05:23:21Z"
+  },
+  {
+    "login": "VerenVillegas",
+    "name": "Veren Villegas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81606492?s=72&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "University of Waikato",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2021-03-30T04:27:22Z"
+  },
+  {
+    "login": "Carl153",
+    "name": "Carl Stewart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88987182?s=72&u=a874e5af3ddfc96d32980b9900ff99969b0f301a&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-15T20:15:32Z"
+  },
+  {
+    "login": "Sabuzxide",
+    "name": "Sabuz Ahmed ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87293598?s=72&u=1320bfc30f848f25ded9ca0df0ef7c2bf67a9a0e&v=4",
+    "location": "Hamilton, New Zealand ",
+    "company": "University of Waikato ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2021-07-12T04:29:05Z"
+  },
+  {
+    "login": "shippi",
+    "name": "David Nguyen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93749008?s=72&u=bcafef379ea478dafc457a5726c543ac9b1c22b2&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 328,
+    "publicContributions": 2,
+    "createdAt": "2021-11-05T01:25:11Z"
+  },
+  {
+    "login": "iamthebread",
+    "name": "Matthys Zondagh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94990511?s=72&u=5580bb294799f7fd6af1abeeac7290c4e6304ebb&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "@CocoBread-Enterprises ",
+    "twitterUsername": "MatthysZondagh",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-24T18:07:40Z"
   }
 ]

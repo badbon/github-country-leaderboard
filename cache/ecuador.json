@@ -16342,5 +16342,101 @@
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2022-08-30T23:13:32Z"
+  },
+  {
+    "login": "jaz1jaz",
+    "name": "Jazmín Sánchez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117796496?s=72&u=e1d2d267dcc403d6b6f39c8012a81d71ab3291d1&v=4",
+    "location": "Ecuador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-09T03:59:29Z"
+  },
+  {
+    "login": "Leonel90",
+    "name": "Leonel Sangolquiza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97122219?s=72&u=d0f2f14875200cd7aff6405c7a1dfdf5eb82a4e3&v=4",
+    "location": "Ecuador-Pichincha-Quito",
+    "company": "",
+    "twitterUsername": "lomar57",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-01-04T18:11:58Z"
+  },
+  {
+    "login": "IanCruz2271",
+    "name": "Ian Cruz Tamayo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97977412?s=72&u=8f1776689f8e65df2bf32be24dd5c5c38469c351&v=4",
+    "location": "Quito - Ecuador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-18T17:21:00Z"
+  },
+  {
+    "login": "Patt3490",
+    "name": "Patt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100046904?s=72&u=edf6f63048a864559d7c90179080989a8fbe6ac5&v=4",
+    "location": "Manta, Ecuador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-19T20:25:49Z"
+  },
+  {
+    "login": "teoortizm",
+    "name": "Mateo Ortiz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108639954?s=72&u=1b1dedde965adf8067de0d572308ad77836402c8&v=4",
+    "location": "Ecuador",
+    "company": "STARINN LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2022-07-04T01:25:35Z"
+  },
+  {
+    "login": "LeslieRojas631",
+    "name": "Leslie Rojas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107520963?s=72&u=e72d331ab2154178b7ec7763a0d704fabc63be58&v=4",
+    "location": "Quito, Ecuador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 11,
+    "createdAt": "2022-06-15T01:11:54Z"
+  },
+  {
+    "login": "wadiaz98",
+    "name": "Willan Diaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117785203?s=72&u=5d631b8c33a4e4e29913361bab6e73e22ab9f390&v=4",
+    "location": "Quito - Ecuador",
+    "company": "Universidad Central del Ecuador",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2022-11-08T23:44:55Z"
+  },
+  {
+    "login": "GeovannyMolina25",
+    "name": "Nelson Geovanny Molina Sangucho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108442886?s=72&u=f08ab4fb4e89da59b472556d3dae9797cd804030&v=4",
+    "location": "Quito-Ecuador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2022-06-30T02:13:44Z"
   }
 ]

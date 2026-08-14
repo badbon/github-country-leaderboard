@@ -58114,5 +58114,77 @@
     "privateContributions": 0,
     "publicContributions": 74,
     "createdAt": "2026-02-20T02:35:08Z"
+  },
+  {
+    "login": "BrunoInDev",
+    "name": "Bruno Alarcón",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175510773?s=72&u=3a9028f7f30f19cd9f08a714367edf2472e59d77&v=4",
+    "location": "Los Ángeles-Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-07-13T21:38:45Z"
+  },
+  {
+    "login": "suhaskollur",
+    "name": "Suhas Kollur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110398602?s=72&u=9b046b690335003b4c1ae245a1f1bc4c684d3cd5&v=4",
+    "location": "New Jersey, USA",
+    "company": "Rutgers University, Department of Psychology, Rutgers Center for Cognitive Science (RuCCS) ",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2022-08-01T12:29:05Z"
+  },
+  {
+    "login": "MinaGirgis2000",
+    "name": "Mina Girgis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106325900?s=72&u=6c17b1d0dfc322947b1297c886cfc6bedf64fa62&v=4",
+    "location": "New Jersey, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-26T13:30:45Z"
+  },
+  {
+    "login": "NerdyPro56",
+    "name": "Taurox Chao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110931677?s=72&u=5b6343dcbfe73019707403ce5baaff4a5e1d23bc&v=4",
+    "location": "United States, New Jersey",
+    "company": "Myself",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2022-08-09T18:09:10Z"
+  },
+  {
+    "login": "armaan-25",
+    "name": "Armaan Agrawal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98570434?s=72&u=358f1d1fb13b25ce822fc3c9542201e2015fd702&v=4",
+    "location": "New Jersey, United States",
+    "company": "Columbia University",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 382,
+    "createdAt": "2022-01-28T03:21:44Z"
+  },
+  {
+    "login": "sworupkhadka",
+    "name": "Sworup Khadka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117503676?s=72&v=4",
+    "location": "New Jersey,USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 112,
+    "createdAt": "2022-11-05T06:10:15Z"
   }
 ]

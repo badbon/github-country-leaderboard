@@ -15706,5 +15706,77 @@
     "privateContributions": 0,
     "publicContributions": 31,
     "createdAt": "2025-03-07T19:43:52Z"
+  },
+  {
+    "login": "JoshJones5021",
+    "name": "Kermit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131287615?s=72&u=4b88dbfb9dc11f888ed11326ef9bbd90b3a04dd2&v=4",
+    "location": "Lisburn, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1849,
+    "publicContributions": 0,
+    "createdAt": "2023-04-19T16:18:10Z"
+  },
+  {
+    "login": "Jameslaw194",
+    "name": "James",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138827786?s=72&v=4",
+    "location": "Ulster University, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 74,
+    "createdAt": "2023-07-06T22:03:47Z"
+  },
+  {
+    "login": "areidmall",
+    "name": "Andrew Reid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144154816?s=72&v=4",
+    "location": "Northern Ireland",
+    "company": "Mallaghan Group",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2023-09-05T16:22:10Z"
+  },
+  {
+    "login": "Conn-Finnegan",
+    "name": "Conn Finnegan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152865430?s=72&u=448d253ffa07d16d2e045bf17ce07ebb54beaa23&v=4",
+    "location": "Northern Ireland",
+    "company": "SOMA",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-12-04T10:57:10Z"
+  },
+  {
+    "login": "inabubblewithyou",
+    "name": "Paul Lawlor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123764794?s=72&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "Version 1",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2023-01-27T17:49:41Z"
+  },
+  {
+    "login": "S3pHiRoTh",
+    "name": "A.Taylor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2265211?s=72&v=4",
+    "location": "Kingston Upon Hull, UK",
+    "company": "Taylor Studios",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-02T13:21:41Z"
   }
 ]

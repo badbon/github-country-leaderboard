@@ -4570,5 +4570,53 @@
     "privateContributions": 0,
     "publicContributions": 64,
     "createdAt": "2020-01-21T14:14:57Z"
+  },
+  {
+    "login": "Dnuns",
+    "name": "David Nunes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51808846?s=72&u=4b33b2bf86053e61c4369c99731e7fdb3aafad56&v=4",
+    "location": "Cape Verde",
+    "company": "@academia-de-codigo",
+    "twitterUsername": "DavidFNunes",
+    "followers": 212,
+    "privateContributions": 3,
+    "publicContributions": 0,
+    "createdAt": "2019-06-14T02:43:17Z"
+  },
+  {
+    "login": "eric-martial",
+    "name": "Eric Tavares",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47213032?s=72&v=4",
+    "location": "Cape-Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 48,
+    "publicContributions": 0,
+    "createdAt": "2019-01-31T11:38:14Z"
+  },
+  {
+    "login": "claud10-m",
+    "name": "Cláudio Michael",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51410972?s=72&u=9d8d9f5d32b417c3264584a2b49fe405e288b02f&v=4",
+    "location": "Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 27,
+    "publicContributions": 3,
+    "createdAt": "2019-06-05T14:09:36Z"
+  },
+  {
+    "login": "mkanutos",
+    "name": "Michel Canuto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53431637?s=72&u=32da54373187d613ae6832b59886312d089cb4c2&v=4",
+    "location": "Cidade da Praia - Cape Verde",
+    "company": "NOSI - Núcleo Operacional da Sociedade de Informação",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-29T11:01:31Z"
   }
 ]

@@ -2371,7 +2371,7 @@
     "company": "mvutano",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 3155,
+    "privateContributions": 3199,
     "publicContributions": 538,
     "createdAt": "2023-05-10T21:50:44Z"
   },
@@ -3898,5 +3898,53 @@
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2023-08-15T07:22:41Z"
+  },
+  {
+    "login": "simakelvinpeter",
+    "name": "Sima Kelvin Peter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131648909?s=72&u=e0c9bf179c530e50733f6cb851d79b27bb9dd71f&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2023-04-24T07:09:20Z"
+  },
+  {
+    "login": "sarmostis",
+    "name": "Spyros Armostis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137832964?s=72&v=4",
+    "location": "Nicosia",
+    "company": "University of Cyprus",
+    "twitterUsername": "spyrosarmostis",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-26T20:37:22Z"
+  },
+  {
+    "login": "masood-zamani",
+    "name": "Masood Zamani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123163669?s=72&v=4",
+    "location": "Nicosia",
+    "company": "Creatingly",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2023-01-20T10:33:18Z"
+  },
+  {
+    "login": "ernsezer",
+    "name": "Eren Sezer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139128215?s=72&u=4e0ce68dd41d6b0c7bf03b1c29505f3cba95b9c0&v=4",
+    "location": "Nicosia ",
+    "company": "",
+    "twitterUsername": "erensezer25",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-10T11:12:24Z"
   }
 ]

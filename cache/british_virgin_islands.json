@@ -286,5 +286,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-16T12:51:45Z"
+  },
+  {
+    "login": "Chezo25",
+    "name": "Chezley Stoddard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47767271?s=72&u=ee651648926380fc6ece2a15b5831645f3fe9cb6&v=4",
+    "location": "Virgin Islands",
+    "company": "Mongoose Academy",
+    "twitterUsername": "chezling",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2019-02-19T03:41:30Z"
+  },
+  {
+    "login": "SaudAlshamsi",
+    "name": "Saud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57966390?s=72&u=81063c9ae1a445c1e0a0a365e49da8fb736720e2&v=4",
+    "location": "Virgin Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-19T21:20:32Z"
+  },
+  {
+    "login": "Computerfile",
+    "name": "Stigma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55207418?s=72&u=056cc1ecddd24ab8b767d0f5653d418fac20f8f9&v=4",
+    "location": "Virgin Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 40,
+    "publicContributions": 27,
+    "createdAt": "2019-09-11T18:08:54Z"
+  },
+  {
+    "login": "divyansh2681",
+    "name": "Divyansh Agrawal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46630567?s=72&u=cae6f29e35dfcd0e0646c184712d7fbf7ca434c0&v=4",
+    "location": "Virgin Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 297,
+    "publicContributions": 0,
+    "createdAt": "2019-01-12T17:15:27Z"
   }
 ]

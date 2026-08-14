@@ -2707,7 +2707,7 @@
     "company": "NGN Technologies Private Limited",
     "twitterUsername": "ugyen_gyalpo97",
     "followers": 3,
-    "privateContributions": 290,
+    "privateContributions": 291,
     "publicContributions": 4,
     "createdAt": "2017-07-29T19:28:25Z"
   },
@@ -2794,5 +2794,17 @@
     "privateContributions": 0,
     "publicContributions": 920,
     "createdAt": "2017-09-20T08:48:37Z"
+  },
+  {
+    "login": "teknatha136",
+    "name": "Tek Nath",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31593478?s=72&u=3f4c11048391d3033178daf01f6f52a3838408a1&v=4",
+    "location": "Thimphu",
+    "company": "@SELISEdigitalplatforms ",
+    "twitterUsername": "",
+    "followers": 37,
+    "privateContributions": 3276,
+    "publicContributions": 125,
+    "createdAt": "2017-09-03T15:39:02Z"
   }
 ]

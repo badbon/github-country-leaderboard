@@ -7375,7 +7375,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1396,
+    "privateContributions": 1401,
     "publicContributions": 1,
     "createdAt": "2024-02-01T10:21:39Z"
   },
@@ -7412,7 +7412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3627,
+    "publicContributions": 3704,
     "createdAt": "2024-10-29T13:39:36Z"
   },
   {
@@ -9034,5 +9034,29 @@
     "privateContributions": 0,
     "publicContributions": 45,
     "createdAt": "2024-06-02T14:36:38Z"
+  },
+  {
+    "login": "yanislavpanayotov1",
+    "name": "Yanislav Panayotov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187516726?s=72&u=0ce6e6db8591a7229715a29338391eb7cd77548d&v=4",
+    "location": "Sofia",
+    "company": "GTT Communications",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 102,
+    "createdAt": "2024-11-06T12:17:44Z"
+  },
+  {
+    "login": "greta-pavlova",
+    "name": "Greta Pavlova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187038222?s=72&u=321a9d44e90da7eb5cd0a16ec45466038cf20bee&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2024-11-01T15:00:50Z"
   }
 ]
