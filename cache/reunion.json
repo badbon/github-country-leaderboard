@@ -1102,5 +1102,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-11-22T03:55:31Z"
+  },
+  {
+    "login": "John361",
+    "name": "John",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20155208?s=72&u=7db4902a1e60af8103d02ab7f1d66e4e4c925924&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1172,
+    "publicContributions": 28,
+    "createdAt": "2016-06-26T18:32:07Z"
+  },
+  {
+    "login": "kaboumk",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24787540?s=72&v=4",
+    "location": "Saint Leu, Réunion ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-27T06:32:46Z"
   }
 ]

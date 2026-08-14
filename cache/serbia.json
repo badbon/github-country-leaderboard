@@ -12370,5 +12370,53 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2023-10-20T19:09:51Z"
+  },
+  {
+    "login": "alminabecirovic",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139389732?s=72&u=183643b3227dacdcbca511bc35de409991885915&v=4",
+    "location": "Tutin, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 3,
+    "publicContributions": 4,
+    "createdAt": "2023-07-12T19:22:10Z"
+  },
+  {
+    "login": "vukedd",
+    "name": "Vukasin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137070008?s=72&u=d63e0d41217b3b0b8e3be515923872854407a2ab&v=4",
+    "location": "Novi Sad, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 153,
+    "publicContributions": 186,
+    "createdAt": "2023-06-19T12:14:31Z"
+  },
+  {
+    "login": "Marko038",
+    "name": "Marko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130600908?s=72&u=60838806e8d38105316b29eb94a0c8c46d6ff695&v=4",
+    "location": "Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-12T19:06:57Z"
+  },
+  {
+    "login": "Lemi1991",
+    "name": "Miloš Radovanović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154697729?s=72&u=f5b4816d7ad7c46dbab329b28b89949c47b13691&v=4",
+    "location": "Despotovac, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-12-23T18:03:18Z"
   }
 ]

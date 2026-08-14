@@ -3142,5 +3142,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-07T09:25:49Z"
+  },
+  {
+    "login": "Venderbad",
+    "name": "Zed L",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70248957?s=72&u=6b94092852f8fe9b4aed1e02761af6ca23c01cc7&v=4",
+    "location": "Bermuda, Under The Sea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2020-08-26T02:56:29Z"
+  },
+  {
+    "login": "aislinnsmyth",
+    "name": "Aislinn Addison-Smyth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72949599?s=72&v=4",
+    "location": "Dublin, Ireland and Hamilton, Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-15T22:05:09Z"
+  },
+  {
+    "login": "ludicoloxbt",
+    "name": "Ludicolo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62918626?s=72&u=f5229e031dff3832083d0a9d4581be59ee8e1952&v=4",
+    "location": "Bermuda",
+    "company": "@TerseLabs ",
+    "twitterUsername": "ludicoloxbt",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2020-03-31T01:37:20Z"
+  },
+  {
+    "login": "tinashe404",
+    "name": "Tinashe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69275762?s=72&u=1db7372bdf897757625f2490749448ce0aabc7f4&v=4",
+    "location": "Bermuda",
+    "company": "Atsign",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 83,
+    "publicContributions": 25,
+    "createdAt": "2020-08-05T21:24:23Z"
+  },
+  {
+    "login": "emmatrain",
+    "name": "Emma Train",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74253143?s=72&u=a9e0d5c911e471802916b55627351ba592f0afa0&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "emma_train_",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-10T14:25:53Z"
+  },
+  {
+    "login": "abbyex",
+    "name": "Abigail Exon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72809224?s=72&u=79eb284c4a83b15106bcbc523dacd82ccbb16d81&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-13T14:26:55Z"
+  },
+  {
+    "login": "dagbermuda",
+    "name": "David A. Gibbons",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72572372?s=72&u=b1bda579a12c80b142565e3e4aa79b490cbfa9e4&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "bdatryangle",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-08T17:38:19Z"
+  },
+  {
+    "login": "cyly-afk",
+    "name": "Yakumo Shiro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72613563?s=72&u=7a27f623ae4e685375d9a921348c0f4ee18362b7&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-09T13:35:57Z"
+  },
+  {
+    "login": "josefloresfrey",
+    "name": "Jose Frey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69648388?s=72&u=70a8c900fedc71f687f3c2ab431909780807242e&v=4",
+    "location": "Bermuda",
+    "company": "Bermuda Monetary Authority",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-13T18:48:47Z"
   }
 ]

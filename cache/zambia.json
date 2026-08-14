@@ -11182,5 +11182,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-07T13:26:45Z"
+  },
+  {
+    "login": "abmis89",
+    "name": "Simba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51338124?s=72&u=b2cc02a2bfb2ef96448064a0ada27f2c8809bb7c&v=4",
+    "location": "Lusaka, Zambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-03T18:51:30Z"
+  },
+  {
+    "login": "MULENGACORP",
+    "name": "Preto Technologies",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54419017?s=72&v=4",
+    "location": "Zambia",
+    "company": "Preto Investment Group",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-22T20:43:54Z"
+  },
+  {
+    "login": "Tresford",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57693524?s=72&v=4",
+    "location": "Zambia",
+    "company": "Kuni",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-13T01:58:37Z"
+  },
+  {
+    "login": "Ensayne",
+    "name": "Elijah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48282484?s=72&u=d79b3c11c7ed9eba1ba061acd8a638ccf13aac63&v=4",
+    "location": "lusaka,zambia",
+    "company": "shanyos limited zambia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-06T11:47:07Z"
+  },
+  {
+    "login": "schultzCG",
+    "name": "SchultzCG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53646299?s=72&v=4",
+    "location": "Zambia, Lusaka",
+    "company": "Exsae Technologies",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-03T09:32:09Z"
+  },
+  {
+    "login": "TedorLupaka",
+    "name": "Tedor Lupaka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47496773?s=72&u=736a1d9893ef5c7242d57512ccd0840000c20085&v=4",
+    "location": "Zambia",
+    "company": "",
+    "twitterUsername": "Lupakatedor",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2019-02-10T11:26:23Z"
   }
 ]

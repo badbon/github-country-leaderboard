@@ -24166,5 +24166,41 @@
     "privateContributions": 27,
     "publicContributions": 43,
     "createdAt": "2019-12-28T17:13:45Z"
+  },
+  {
+    "login": "RAPCM",
+    "name": "Ricardo Martins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180216607?s=72&u=f679c0c6838e1fdcce20fd381e2e5a3b8c6487c8&v=4",
+    "location": "Portugal | France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 24,
+    "publicContributions": 30,
+    "createdAt": "2024-09-02T18:37:25Z"
+  },
+  {
+    "login": "SaadiKarim",
+    "name": "Karim Saadi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21263597?s=72&u=54655100ae89a67df6b8385b70fb2d0e767a8911&v=4",
+    "location": "Saint-Denis, Réunion, France",
+    "company": "Blacksmith",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-26T14:23:10Z"
+  },
+  {
+    "login": "ValentinDouvry",
+    "name": "Douvry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22919549?s=72&u=a9651b866b9b4750aa40168f275a880ee8fa1b9d&v=4",
+    "location": "Île de la Réunion, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-18T18:23:11Z"
   }
 ]
