@@ -5458,5 +5458,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-11-02T12:58:44Z"
+  },
+  {
+    "login": "kulturman",
+    "name": "Arnaud Bakyono ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11850979?s=72&u=db190b39e8bcdb9c827cb698e28d37b4d5611a56&v=4",
+    "location": "Ouagadougou",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 41,
+    "privateContributions": 3903,
+    "publicContributions": 194,
+    "createdAt": "2015-04-08T09:30:26Z"
+  },
+  {
+    "login": "Vandeabdou",
+    "name": "Kaboré Abdou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12547693?s=72&u=eadd5ba77217d6c86eeabf215d889b16be7105c0&v=4",
+    "location": "Ouagadougou",
+    "company": "Ticanalyse",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-21T15:57:18Z"
+  },
+  {
+    "login": "TOUGMA",
+    "name": "TOUGMA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11854595?s=72&v=4",
+    "location": "Ouagadougou",
+    "company": "INSD",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-04-08T13:44:03Z"
+  },
+  {
+    "login": "ToeChriss",
+    "name": "Christian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11851655?s=72&u=158286afe3a833ef443f6fb3872feb671bd8c3a3&v=4",
+    "location": "Ouagadougou",
+    "company": "Laafi Concept",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-08T10:16:18Z"
   }
 ]

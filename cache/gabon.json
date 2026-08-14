@@ -1614,7 +1614,7 @@
     "location": "Libreville, Gabon",
     "company": "lm louis",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 0,
     "publicContributions": 171,
     "createdAt": "2021-03-16T16:20:08Z"
@@ -1774,5 +1774,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-20T15:01:59Z"
+  },
+  {
+    "login": "yveslegrand",
+    "name": "Abdou AMADOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81905264?s=72&v=4",
+    "location": "Libreville",
+    "company": "Yves Le Grand",
+    "twitterUsername": "yveslegrand84",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-04-04T10:01:10Z"
+  },
+  {
+    "login": "groupecodon",
+    "name": "Cod'On",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77277587?s=72&v=4",
+    "location": "Libreville",
+    "company": "Cod'On",
+    "twitterUsername": "CodOnEvent",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-11T12:23:02Z"
+  },
+  {
+    "login": "samnklcf",
+    "name": "Samuel Nkenke Eyebe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78751415?s=72&u=bee6d5b5b981e42242e61b26cc36155f4d81bffd&v=4",
+    "location": "Libreville",
+    "company": "Alissa ia",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2021-02-08T17:05:51Z"
+  },
+  {
+    "login": "davidclaverie",
+    "name": "DAVID",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78086564?s=72&v=4",
+    "location": "Libreville",
+    "company": "ON AIR",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2021-01-27T12:43:59Z"
+  },
+  {
+    "login": "robiking22",
+    "name": "Ndabigoura",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78202121?s=72&u=80501aaa71b5c4671ba58cfd78d3416f90c53fa9&v=4",
+    "location": "Libreville",
+    "company": "Ciatel Inc",
+    "twitterUsername": "RobKing100M3N3",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-29T08:50:10Z"
+  },
+  {
+    "login": "Corresch",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92673408?s=72&u=fdefee5f0e0d3f02757263656fbb6e3132175000&v=4",
+    "location": "Libreville",
+    "company": "Enseignant Maths/Ing GC/",
+    "twitterUsername": "otounga",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-17T11:27:39Z"
+  },
+  {
+    "login": "edoumartial",
+    "name": "Sirick Martial EDOU NDONG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79052026?s=72&u=241063618b909e0aef1ceeed6bdb963a2b9a83dc&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2021-02-14T15:37:37Z"
   }
 ]

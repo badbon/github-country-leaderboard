@@ -606,7 +606,7 @@
     "location": "Banjul,THE GAMBIA",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-21T21:28:10Z"
@@ -634,5 +634,29 @@
     "privateContributions": 0,
     "publicContributions": 406,
     "createdAt": "2019-05-14T03:16:08Z"
+  },
+  {
+    "login": "harunaabaldeh",
+    "name": "Haruna A Baldeh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49987952?s=72&v=4",
+    "location": "Banjul",
+    "company": "Kendesoft",
+    "twitterUsername": "farmerscoder",
+    "followers": 26,
+    "privateContributions": 912,
+    "publicContributions": 108,
+    "createdAt": "2019-04-25T14:04:24Z"
+  },
+  {
+    "login": "Brezesky",
+    "name": "Brezesky Kotanmi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52838049?s=72&v=4",
+    "location": "Banjul",
+    "company": "MRC Unit The Gambia at LSHTM",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-12T19:43:04Z"
   }
 ]

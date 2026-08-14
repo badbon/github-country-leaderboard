@@ -2827,7 +2827,7 @@
     "company": "imbra",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 7523,
+    "privateContributions": 7524,
     "publicContributions": 74,
     "createdAt": "2021-06-11T07:37:30Z"
   },
@@ -2839,7 +2839,7 @@
     "company": "@africacodeacademy @wholeapp ",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 2392,
+    "privateContributions": 2393,
     "publicContributions": 2,
     "createdAt": "2021-02-10T21:24:33Z"
   },
@@ -3262,5 +3262,125 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-24T11:45:28Z"
+  },
+  {
+    "login": "fmroster",
+    "name": "Frankie Mooketsi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84230693?s=72&u=cbb71a36a038187a6a97936228360d8db7eaae5c&v=4",
+    "location": "Gaborone",
+    "company": "Fmroster",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 406,
+    "publicContributions": 53,
+    "createdAt": "2021-05-15T11:28:53Z"
+  },
+  {
+    "login": "gala-m",
+    "name": "Gala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76803540?s=72&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-31T05:33:28Z"
+  },
+  {
+    "login": "machetedropout",
+    "name": "Oduetse Machete",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92019820?s=72&u=7d6369e23bad1f7519faa3f4fb0e530bd13f1b7c&v=4",
+    "location": "Gaborone",
+    "company": "School Of Dropouts",
+    "twitterUsername": "chiefdropout",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2021-10-06T08:33:49Z"
+  },
+  {
+    "login": "GreggIsGreat",
+    "name": "Thabang Teddy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80446236?s=72&u=1f1e3fc3150b1372ab8c0427dcf450e920997894&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 64,
+    "createdAt": "2021-03-11T06:36:13Z"
+  },
+  {
+    "login": "pelonomiken",
+    "name": "Aobakwe Robyn P Kenosi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83786404?s=72&u=d2adfa2b614ac6560b9186c816078aa4b07b3dce&v=4",
+    "location": "Gaborone",
+    "company": "TechnoFairy",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 121,
+    "publicContributions": 4,
+    "createdAt": "2021-05-06T19:40:41Z"
+  },
+  {
+    "login": "Zankere",
+    "name": "Tshiamo Zankere",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81336246?s=72&u=d362d185f7dfd963459031bc51b7427259efd79d&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-25T00:05:06Z"
+  },
+  {
+    "login": "0221PHENYO",
+    "name": "Phenyo Othusitse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78830354?s=72&u=0788e258cc2586a5b91fe17f98683607955e3a95&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-10T00:12:46Z"
+  },
+  {
+    "login": "loitijoseph",
+    "name": "Kebafilwe Joseph Loiti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93574903?s=72&u=aa021c743e6b8c7aadfd24c6bb9af7e95631406d&v=4",
+    "location": "Gaborone",
+    "company": "Bigjoe Codes",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-02T07:23:38Z"
+  },
+  {
+    "login": "EmmanuelNtwaetsile",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90899004?s=72&u=68d6b6404f698ba220808b886e103160ecc132c5&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "emmex_Bw",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-17T08:43:40Z"
+  },
+  {
+    "login": "abaleng233",
+    "name": "Abaleng Mothudi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77266425?s=72&u=865820eb578cd7cd420489f5f15ba33e13402c09&v=4",
+    "location": "Gaborone",
+    "company": "BITRI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-11T08:06:08Z"
   }
 ]

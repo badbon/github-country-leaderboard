@@ -1558,5 +1558,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-03-22T18:28:40Z"
+  },
+  {
+    "login": "asgerdur03",
+    "name": "Ásgerður Júlía Gunnarsdóttir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123699365?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2023-01-26T21:58:16Z"
+  },
+  {
+    "login": "CatMLima",
+    "name": "Catarina (Cat) Lima",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123655795?s=72&u=548bb78394fcc13c992a6e0e98bf68382ab52eb2&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 58,
+    "publicContributions": 11,
+    "createdAt": "2023-01-26T15:58:14Z"
+  },
+  {
+    "login": "haukurbjarnas",
+    "name": "Haukur G. Bjarnason",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144111338?s=72&u=fc79db9ff6a60655ee0e26bda26cf3abd534aa5d&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2023-09-05T09:03:37Z"
+  },
+  {
+    "login": "yuliiapiharieva",
+    "name": "Yuliya Piharieva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126576434?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "Juni",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-28T12:25:52Z"
   }
 ]

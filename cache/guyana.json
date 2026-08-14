@@ -694,5 +694,101 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2019-09-26T00:14:19Z"
+  },
+  {
+    "login": "NathanMLu",
+    "name": "Nathan Lu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46687828?s=72&u=a4ae967321a0bcfbdc3a21e7b66006d0197f0f81&v=4",
+    "location": "Georgetown, Texas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 317,
+    "publicContributions": 2,
+    "createdAt": "2019-01-14T18:38:06Z"
+  },
+  {
+    "login": "hazirahindra",
+    "name": "NURUL HAZIRAH ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58581460?s=72&u=7760e9e6eec0b0da3bdb85683d142848bcae7fe9&v=4",
+    "location": "Georgetown, Penang",
+    "company": "Skymind",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-06T04:05:32Z"
+  },
+  {
+    "login": "chrislopesdev",
+    "name": "Christopher Lopes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46649020?s=72&u=7f486ab28c2ce9e3d1341667ad9a9730d7e1110e&v=4",
+    "location": "Georgetown, ON",
+    "company": "",
+    "twitterUsername": "chrislopesdev",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-13T13:41:54Z"
+  },
+  {
+    "login": "cheahpc",
+    "name": "Cheah Pin Chee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55807625?s=72&u=0c421c0cbbcfae2460a287af20f7a8c5ab95b2f1&v=4",
+    "location": "Georgetown, Penang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2019-09-25T17:57:53Z"
+  },
+  {
+    "login": "masterv78",
+    "name": "Robert Varner",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48835737?s=72&v=4",
+    "location": "Georgetown, Indiana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-22T15:52:51Z"
+  },
+  {
+    "login": "waterylime",
+    "name": "Shauna N Larkin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52079127?s=72&u=815ccf4ef9924a46bc6bb308824199b39f259bfb&v=4",
+    "location": "Georgetown, Colorado ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-21T15:15:20Z"
+  },
+  {
+    "login": "omarbarbosa06",
+    "name": "Omar Barbosa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50928727?s=72&v=4",
+    "location": "Georgetown, Texas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2019-05-22T20:03:16Z"
+  },
+  {
+    "login": "leelemus",
+    "name": "Lee Lemus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50090340?s=72&u=aed2dee60417fe45acce6d90bf258996d012b7a6&v=4",
+    "location": "Georgetown, TX",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-29T02:05:56Z"
   }
 ]
