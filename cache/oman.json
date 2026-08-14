@@ -5984,7 +5984,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 152,
-    "publicContributions": 199,
+    "publicContributions": 200,
     "createdAt": "2021-09-09T08:28:49Z"
   },
   {
@@ -6115,7 +6115,7 @@
     "company": "Stirling University",
     "twitterUsername": "AhmedAlkhdour",
     "followers": 12,
-    "privateContributions": 2342,
+    "privateContributions": 2347,
     "publicContributions": 38,
     "createdAt": "2021-11-17T10:03:36Z"
   },
@@ -6778,5 +6778,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-17T10:12:00Z"
+  },
+  {
+    "login": "code-ze",
+    "name": "Amjad Al Kharusi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77895498?s=72&v=4",
+    "location": "Muscat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2021-01-23T17:54:30Z"
+  },
+  {
+    "login": "MRafay620",
+    "name": "Muhammad Rafay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93040889?s=72&u=dd903cee77c362c5198eeb6b37b63b4e46a77936&v=4",
+    "location": "Muscat",
+    "company": "Student",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 301,
+    "publicContributions": 5,
+    "createdAt": "2021-10-23T12:56:13Z"
+  },
+  {
+    "login": "MostafaZeinali",
+    "name": "Mostafa Zeinali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80825855?s=72&u=7e9b3d1856e095da6c11dbd43246c7542e533266&v=4",
+    "location": "Muscat",
+    "company": "Target Information Solutions",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-17T11:20:35Z"
+  },
+  {
+    "login": "anurag-sukumaran",
+    "name": "Anurag Sukumaran",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81871825?s=72&u=2a869c859255a62b617aeb429a331c84d04f5d8e&v=4",
+    "location": "Muscat",
+    "company": "@asyncsolution ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-03T16:27:47Z"
+  },
+  {
+    "login": "mohamedsamir77",
+    "name": "Mohamed Samir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79877083?s=72&u=c029682a802c2575fce90a49839b5c4da870bcdb&v=4",
+    "location": "muscat",
+    "company": "OmanSea Petroservices LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2021-03-01T22:00:14Z"
+  },
+  {
+    "login": "SajidaSalam",
+    "name": "Sajida Salam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85668196?s=72&u=ff707129c6ec6ffd6d213cd4766e9aec1acc335e&v=4",
+    "location": "Muscat, Omab",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-10T06:49:39Z"
+  },
+  {
+    "login": "The-Tech-Boi",
+    "name": "Mir Husain Ali Mohammed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95189762?s=72&u=897c2efbe4ea9cddd5c00291b5bd94b5fb1a87b3&v=4",
+    "location": "Muscat",
+    "company": "Async Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 16,
+    "publicContributions": 9,
+    "createdAt": "2021-11-28T20:50:31Z"
   }
 ]

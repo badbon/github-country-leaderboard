@@ -22,5 +22,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-23T02:14:08Z"
+  },
+  {
+    "login": "Muchiachio",
+    "name": "Muchiachio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6647444?s=72&u=bc7c1e53d574168e4723d939e807c0f94939252e&v=4",
+    "location": "Niue",
+    "company": "NonFactors",
+    "twitterUsername": "",
+    "followers": 130,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-11T07:04:44Z"
+  },
+  {
+    "login": "Kasp42",
+    "name": "Vladislav Kasperov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9061079?s=72&u=5ef5eb41243681b098a0d59dcacefdab77a5f554&v=4",
+    "location": "Niue",
+    "company": "Kasp.Me",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 167,
+    "publicContributions": 128,
+    "createdAt": "2014-10-07T22:22:56Z"
   }
 ]

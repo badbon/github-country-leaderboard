@@ -6382,5 +6382,89 @@
     "privateContributions": 493,
     "publicContributions": 6,
     "createdAt": "2023-06-26T09:09:32Z"
+  },
+  {
+    "login": "ElizarAitbek",
+    "name": "Michael Scott",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97298827?s=72&u=d47278d766499367b89070f6ec05b1acad84f684&v=4",
+    "location": "Bishkek, Kyrgyz Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 11,
+    "publicContributions": 15,
+    "createdAt": "2022-01-07T14:46:24Z"
+  },
+  {
+    "login": "emmarrat",
+    "name": "Emir Marat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99384076?s=72&u=e19365e1fee6c0b770a19261ad7abf46baef73e1&v=4",
+    "location": "Bishkek, Kyrgyz Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 60,
+    "createdAt": "2022-02-10T05:50:33Z"
+  },
+  {
+    "login": "urmat-bek",
+    "name": "Urmatbek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116092276?s=72&u=093cc630707ba41067f0f337bc8f9c704e52cdd6&v=4",
+    "location": "Kyrgyz Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2022-10-18T14:13:57Z"
+  },
+  {
+    "login": "DastanTA",
+    "name": "Dastan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103446272?s=72&u=5620bd579bf0b683f03c219c46d0de7406c57829&v=4",
+    "location": "Bishkek, Kyrgyz Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-11T16:36:19Z"
+  },
+  {
+    "login": "aslanaj",
+    "name": "Aslan AJ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106377577?s=72&u=3d389089428fa8a319fecc30af7e9d0e57745860&v=4",
+    "location": "Bishkek, Kyrgyz Republic",
+    "company": "",
+    "twitterUsername": "Aslan_aj",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-27T09:15:11Z"
+  },
+  {
+    "login": "MagdelFrost",
+    "name": "Savely",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110167892?s=72&u=f98b55044baef4f7e878c790c1db6f5aa6f6a288&v=4",
+    "location": "Kyrgyz Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-28T10:23:45Z"
+  },
+  {
+    "login": "SomeQu",
+    "name": "Aidar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117773564?s=72&u=2d9ecbc6b0ea9a69184039bc321ea69905bd7f59&v=4",
+    "location": "Bishkek, Kyrgyz Republic",
+    "company": "@burning-buttons ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2022-11-08T19:42:39Z"
   }
 ]

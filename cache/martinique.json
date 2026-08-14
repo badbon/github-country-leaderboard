@@ -694,5 +694,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-05-05T09:28:15Z"
+  },
+  {
+    "login": "jsrdescamps",
+    "name": "Julien Descamps",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9206648?s=72&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-14T02:28:44Z"
+  },
+  {
+    "login": "glefait",
+    "name": "Guillem Lefait",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7490317?s=72&u=3d58f6f8fabc46f66b2fc05c32aba737b9b1c22a&v=4",
+    "location": "Fort-de-France, Martinique",
+    "company": "@Holimetrix @tvty-official ",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 15,
+    "publicContributions": 5205,
+    "createdAt": "2014-05-05T15:39:14Z"
+  },
+  {
+    "login": "sanimation",
+    "name": "sandrine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6586984?s=72&u=5dc36186ad56c317178d16bb62ace707c3bb3218&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-04T17:32:29Z"
+  },
+  {
+    "login": "Calvindevelopinghere",
+    "name": "Calvin H. Edward",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9201580?s=72&u=7eab20f924c3ab33572cc43ebe12d3436b799976&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-13T18:16:13Z"
   }
 ]

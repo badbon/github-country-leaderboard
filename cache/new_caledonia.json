@@ -982,5 +982,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-07-19T21:16:08Z"
+  },
+  {
+    "login": "pmietlicki",
+    "name": "Pascal MIETLICKI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6612042?s=72&u=26f6985cb683aac3ab940b7712d1ae922908b318&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 172,
+    "createdAt": "2014-02-07T03:37:46Z"
+  },
+  {
+    "login": "TiffanyVidal",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7649448?s=72&u=15f8b220aab21e87f0b5888a825842aaa9c7da19&v=4",
+    "location": "Noumea, New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2014-05-20T21:46:13Z"
+  },
+  {
+    "login": "MelanieGault",
+    "name": "Mélanie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7109856?s=72&u=c80608db686a07a96f4bd9b080dea144764ba8e7&v=4",
+    "location": "New Caledonia",
+    "company": "Stratégie Zen IT",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 7844,
+    "publicContributions": 1058,
+    "createdAt": "2014-03-30T21:33:59Z"
+  },
+  {
+    "login": "xfouloux",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9778409?s=72&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-16T02:37:52Z"
+  },
+  {
+    "login": "badmonster-nc",
+    "name": "Franck PIOCHAUD (perso)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8391555?s=72&u=7168570856b9cdd846f498bb517799f67bb5a6ee&v=4",
+    "location": "new caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-08T04:59:18Z"
+  },
+  {
+    "login": "Tyvain",
+    "name": "Tyvain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7066226?s=72&u=b5554172ca18e56f607dd0e58a5951c61de7100b&v=4",
+    "location": "New-Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2014-03-26T05:10:42Z"
   }
 ]

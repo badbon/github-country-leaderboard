@@ -334,5 +334,53 @@
     "privateContributions": 1006,
     "publicContributions": 0,
     "createdAt": "2015-10-18T13:58:30Z"
+  },
+  {
+    "login": "UVLabs",
+    "name": "Uriahs Victor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10324144?s=72&u=ce313142e6af9b9c494643dbe14962819b978e0b&v=4",
+    "location": "Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 49,
+    "privateContributions": 2217,
+    "publicContributions": 37,
+    "createdAt": "2014-12-27T15:44:49Z"
+  },
+  {
+    "login": "wilsonwolf",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9029443?s=72&v=4",
+    "location": "Castries, Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 2729,
+    "publicContributions": 69,
+    "createdAt": "2014-10-05T22:03:45Z"
+  },
+  {
+    "login": "RandelCode",
+    "name": "Randel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8147967?s=72&u=f0c6ac3fa9ca9aab04fb92e1c2e928576be19406&v=4",
+    "location": "Castries, Saint Lucia",
+    "company": "hiRank Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-13T05:41:12Z"
+  },
+  {
+    "login": "fabianglace",
+    "name": "Fabian Glace",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6629485?s=72&u=fe07980940962100abcef848a7eeb82181500793&v=4",
+    "location": "Saint Lucia",
+    "company": "Glace Web",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-09T07:24:47Z"
   }
 ]
