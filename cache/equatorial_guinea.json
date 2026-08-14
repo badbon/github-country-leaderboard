@@ -130,5 +130,41 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2019-03-10T03:34:41Z"
+  },
+  {
+    "login": "seamuddin",
+    "name": "Seam uddin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38663656?s=72&u=e2a1a23a646de906a8bc615002d4ad3b057cfb23&v=4",
+    "location": "Malabo, Equatorial guinea",
+    "company": "Rosa Money SL",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 116,
+    "publicContributions": 8,
+    "createdAt": "2018-04-23T15:19:05Z"
+  },
+  {
+    "login": "clinton341",
+    "name": "Clinton Ezeronye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46147913?s=72&u=fc08579061699a9132bc488d6de0a4725d837ea1&v=4",
+    "location": "Malabo, Equatorial Guinea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2018-12-26T04:15:15Z"
+  },
+  {
+    "login": "sersobrenatural",
+    "name": "Santiago Gabriel Micha Ndong Obiang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39493303?s=72&v=4",
+    "location": "Equatorial Guinea ",
+    "company": "ConocoPhillips",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2018-05-21T15:29:56Z"
   }
 ]

@@ -1054,5 +1054,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-03-28T22:50:04Z"
+  },
+  {
+    "login": "carribus",
+    "name": "Peter Mares",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214218?s=72&u=f3d85dec807f1af5221fb2e9da4bb0388d0fb893&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-02T21:17:02Z"
+  },
+  {
+    "login": "vishco",
+    "name": "Vishal Patel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209035?s=72&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2010-02-23T09:49:09Z"
+  },
+  {
+    "login": "leighadnett",
+    "name": "Leigh Adnett",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/221542?s=72&u=fe055145abfed487f222ca0549ba296c10218d98&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-12T19:28:19Z"
+  },
+  {
+    "login": "padreputativo",
+    "name": "Padre Putativo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/495093?s=72&u=4e6e09c3e7385247eff532d504724db566a05e6b&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-24T14:59:10Z"
   }
 ]

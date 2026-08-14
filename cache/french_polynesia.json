@@ -238,5 +238,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-08T08:27:01Z"
+  },
+  {
+    "login": "lauramikula",
+    "name": "Laura Mikula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42273914?s=72&u=fac7cd7c7e39c14a182f9185b56ec4005b302d5d&v=4",
+    "location": "Tahiti, French Polynesia",
+    "company": "York University",
+    "twitterUsername": "MikulaLaura",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-08-10T13:45:27Z"
+  },
+  {
+    "login": "VipaPR2",
+    "name": "Vipa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35780484?s=72&u=27b3100e2888d803dadd5399dc974b61ba3f36ff&v=4",
+    "location": "French Polynesia",
+    "company": "@PlatformRacing2",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-24T19:45:33Z"
+  },
+  {
+    "login": "Teraitea",
+    "name": "TARIHAA Teraitea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35317232?s=72&v=4",
+    "location": "French Polynesia",
+    "company": "@vini",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-11T00:51:27Z"
   }
 ]

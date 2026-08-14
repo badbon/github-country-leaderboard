@@ -2422,5 +2422,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-02-17T02:59:46Z"
+  },
+  {
+    "login": "thebestofAKB",
+    "name": "Abdoul Karim Baldé",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37492673?s=72&u=dbdd11af7a48f4e806b1d5ed762ede7e10376a5e&v=4",
+    "location": "Conakry, Guinea",
+    "company": "Freelance",
+    "twitterUsername": "abdoulkarimbal9",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2018-03-18T03:22:37Z"
+  },
+  {
+    "login": "medkissi",
+    "name": "Mohamed Kissi Camara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41199037?s=72&u=e3812d493552dd4f9b80c52246f4960fcb50f3f7&v=4",
+    "location": "Guinea,Conakry",
+    "company": "",
+    "twitterUsername": "_medkissi",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2018-07-13T14:35:35Z"
+  },
+  {
+    "login": "layesheva",
+    "name": "layesheva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40866082?s=72&u=81e1d817bdb16babd9905c3f41ffdf5c8189633e&v=4",
+    "location": "Guinea",
+    "company": "",
+    "twitterUsername": "layesheva",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-07-05T16:06:57Z"
+  },
+  {
+    "login": "pathtoscience",
+    "name": "@MFoula_LY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38759509?s=72&u=a12fa690dad74afe3dcd2d9e85f01b2c67f76470&v=4",
+    "location": "Guinea",
+    "company": "@PATHplus-Technologies",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2018-04-26T14:00:17Z"
+  },
+  {
+    "login": "nikavogui",
+    "name": "Jean Michel NIKAVOGUI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38218774?s=72&u=65079c220a3caa3233edbdc005739736a8b3302d&v=4",
+    "location": "Guinea",
+    "company": "NIKAVOGUI DEV",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-09T14:30:40Z"
   }
 ]

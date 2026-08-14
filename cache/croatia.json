@@ -12094,5 +12094,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-22T09:59:58Z"
+  },
+  {
+    "login": "penovic",
+    "name": "Ivan Penovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80963198?s=72&u=fe5b721088442c1d85b33168a03b1199916607b7&v=4",
+    "location": "Split, Croatia",
+    "company": "Undabot",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-19T12:58:59Z"
+  },
+  {
+    "login": "viktorlesic-fb",
+    "name": "Viktor Lesic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82579741?s=72&u=23397d850d42306193df8e237d41946b1fb32075&v=4",
+    "location": "Split, Croatia",
+    "company": "Team Edge",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-15T09:49:40Z"
+  },
+  {
+    "login": "antoniohofsuster",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83244877?s=72&u=61780c1bd95ed9cd38351ccce43e016553b73c25&v=4",
+    "location": "Croatia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-26T19:16:21Z"
+  },
+  {
+    "login": "Barjaktarevic",
+    "name": "Uroš Barjaktarević",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88340010?s=72&u=74a0a5626b7b2f4cea3e47be1725d96392ba3476&v=4",
+    "location": "Croatia",
+    "company": "Mono Software",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-02T16:53:34Z"
+  },
+  {
+    "login": "Albinax",
+    "name": "Albina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89487501?s=72&v=4",
+    "location": "Croatia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-24T21:04:40Z"
   }
 ]

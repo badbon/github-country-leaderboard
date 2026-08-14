@@ -202,5 +202,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-06-03T13:31:20Z"
+  },
+  {
+    "login": "ArianeMirabel",
+    "name": "Ariane Mirabel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35772174?s=72&u=8cfbc494c1cd87c8f681ed1bfd5dd14b7ff6f8e3&v=4",
+    "location": "French Guiana",
+    "company": "Cirad",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-24T15:00:58Z"
+  },
+  {
+    "login": "EmiDt",
+    "name": "Emilie Ducouret",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37191141?s=72&u=cfffcb7ef3e9e5370e382f4fbf32eb2f68e4823a&v=4",
+    "location": "French Guiana",
+    "company": "Mrs",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-08T18:42:19Z"
   }
 ]

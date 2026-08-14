@@ -1546,5 +1546,41 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2011-01-23T02:50:08Z"
+  },
+  {
+    "login": "adevbuildingstuff",
+    "name": "Owan Hunte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/455028?s=72&u=055635313529ef659ffba48d5cffd37422d92c26&v=4",
+    "location": "Barbados",
+    "company": "@everos-labs",
+    "twitterUsername": "owanhunte",
+    "followers": 48,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2010-10-26T17:45:00Z"
+  },
+  {
+    "login": "jnthnclrk",
+    "name": "Jonathan Clarke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/498192?s=72&v=4",
+    "location": "Barbados",
+    "company": "@MonkeyMedia ",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2010-11-26T18:30:46Z"
+  },
+  {
+    "login": "Taggs",
+    "name": "Neil Taggart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/477924?s=72&u=d399ee585cc9aafa64874d2f29fb4120dba27379&v=4",
+    "location": "(London || Barbados) && Cloud",
+    "company": "Adaptive Consulting",
+    "twitterUsername": "neiltaggart",
+    "followers": 2,
+    "privateContributions": 905,
+    "publicContributions": 41,
+    "createdAt": "2010-11-11T21:11:04Z"
   }
 ]

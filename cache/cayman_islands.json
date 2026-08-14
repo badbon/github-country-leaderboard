@@ -1462,5 +1462,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-02T20:57:03Z"
+  },
+  {
+    "login": "paulofierro",
+    "name": "Paulo Fierro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254054?s=72&u=7216aa01117316718f5c59a95622da2180b47095&v=4",
+    "location": "Cayman Islands",
+    "company": "jadehopper ltd.",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 1128,
+    "publicContributions": 125,
+    "createdAt": "2010-04-27T07:09:36Z"
+  },
+  {
+    "login": "mickfarrow",
+    "name": "Mick Farrow",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/359759?s=72&u=1f4e0ca9fa083e1a53114c6bb47daaf0f4146e2f&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-10T13:05:01Z"
   }
 ]
