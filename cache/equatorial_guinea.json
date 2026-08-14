@@ -94,5 +94,41 @@
     "privateContributions": 0,
     "publicContributions": 85,
     "createdAt": "2020-03-13T21:45:38Z"
+  },
+  {
+    "login": "vicentehmba",
+    "name": "VIcente H. Mba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48937437?s=72&u=e16565f8107be6d68cd33e3a3fea1b5b44760088&v=4",
+    "location": "Equatorial Guinea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 2825,
+    "publicContributions": 53,
+    "createdAt": "2019-03-26T03:49:30Z"
+  },
+  {
+    "login": "Soniangomo",
+    "name": "Sonia NGOMO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56386961?s=72&u=4151152a4527b305bcdd7f8e7bd2393a215a3aff&v=4",
+    "location": "MALABO- EQUATORIAL GUINEA",
+    "company": "CFAO MOBILITY",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2019-10-10T08:28:14Z"
+  },
+  {
+    "login": "melitonio",
+    "name": "Meliton Pablo Mangue Mañana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48398900?s=72&v=4",
+    "location": "Malabo, Guinea Ecuatorial",
+    "company": "MAIT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2019-03-10T03:34:41Z"
   }
 ]

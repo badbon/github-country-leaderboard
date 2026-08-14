@@ -202,5 +202,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-22T19:08:19Z"
+  },
+  {
+    "login": "N1coc4colA",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50690360?s=72&u=77dfe7cce426609a10ba3230a0da045520e466f2&v=4",
+    "location": "French Polynesia",
+    "company": "The Community",
+    "twitterUsername": "n1coc4cola",
+    "followers": 20,
+    "privateContributions": 110,
+    "publicContributions": 338,
+    "createdAt": "2019-05-16T04:51:19Z"
+  },
+  {
+    "login": "Rautea-Bruno-Paofai",
+    "name": "Rautea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52941575?s=72&u=398eea9db7a196163d99ea2ab590a4b10a7a1418&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 10,
+    "publicContributions": 0,
+    "createdAt": "2019-07-16T01:01:45Z"
   }
 ]

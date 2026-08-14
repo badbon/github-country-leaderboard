@@ -958,5 +958,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-03-10T20:18:19Z"
+  },
+  {
+    "login": "multicharts",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2698883?s=72&u=18690540de81aefac7a4f8f9453d25fa594f765f&v=4",
+    "location": "Gibraltar",
+    "company": "MCT LTD.",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-01T13:04:35Z"
+  },
+  {
+    "login": "baileys",
+    "name": "Stephen Bailey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1382191?s=72&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-26T14:47:55Z"
+  },
+  {
+    "login": "dlicudi",
+    "name": "Duane Licudi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2129148?s=72&u=daabf3b0de4bcdadcc452833e4f82e81baaeb3d8&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 625,
+    "publicContributions": 486,
+    "createdAt": "2012-08-10T10:30:44Z"
+  },
+  {
+    "login": "ernestojpg",
+    "name": "Ernesto J. Perez Garcia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2565383?s=72&v=4",
+    "location": "Gibraltar",
+    "company": "BoldPlay",
+    "twitterUsername": "ernestojpg",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-15T15:53:17Z"
+  },
+  {
+    "login": "psamagal",
+    "name": "Paulo Sérgio Magalhães",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2006092?s=72&v=4",
+    "location": "Gibraltar",
+    "company": "@BetVictor",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-07-19T15:42:05Z"
+  },
+  {
+    "login": "dirimir",
+    "name": "Cristian H. Gomez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3141058?s=72&u=f9d9067feb1ff7056a05ea5dc6eaf18898142073&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-28T10:21:09Z"
+  },
+  {
+    "login": "petermares",
+    "name": "Peter Mares",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2192300?s=72&u=6c2ac1f337c91f42554bbf7161a969df06d5641e&v=4",
+    "location": "Gibraltar",
+    "company": "Odobo",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-21T21:21:54Z"
+  },
+  {
+    "login": "pjjesus",
+    "name": "Paulo Jesus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1585196?s=72&u=c2c7cfe109e357d929f4e99af7905578af3826d8&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-28T22:50:04Z"
   }
 ]

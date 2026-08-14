@@ -94,5 +94,29 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2022-09-20T14:07:56Z"
+  },
+  {
+    "login": "carterroger",
+    "name": "Carter Roger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105136729?s=72&u=3f87e68444f1342c492b24e0a3c23d758adc13c1&v=4",
+    "location": "Jersey, NJ",
+    "company": "My Home",
+    "twitterUsername": "roger_carter1",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-08T01:46:19Z"
+  },
+  {
+    "login": "FT1006",
+    "name": "Frank Tang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111700930?s=72&u=60a2b28093aae50c51e1b26b0f154d67d95fc54d&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 124,
+    "createdAt": "2022-08-21T17:11:51Z"
   }
 ]

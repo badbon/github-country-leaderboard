@@ -1066,5 +1066,89 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2018-09-28T13:56:34Z"
+  },
+  {
+    "login": "ridwanazeez",
+    "name": "Ridwan Azeez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33818404?s=72&u=0428f7e2a2adbe093ef73e7777d6ad886fcec965&v=4",
+    "location": "Georgetown, Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 384,
+    "publicContributions": 70,
+    "createdAt": "2017-11-20T02:13:54Z"
+  },
+  {
+    "login": "KJF-dev",
+    "name": "KJF",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28689804?s=72&v=4",
+    "location": "Georgetown, Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 50,
+    "publicContributions": 16,
+    "createdAt": "2017-05-14T16:57:45Z"
+  },
+  {
+    "login": "dominicbraam",
+    "name": "Dominic Braam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29141791?s=72&u=3c5e7b7be22cf44ae4306885ad665617f4554497&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 4,
+    "publicContributions": 82,
+    "createdAt": "2017-06-02T08:59:15Z"
+  },
+  {
+    "login": "devonwintz",
+    "name": "Devon Wintz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31863401?s=72&v=4",
+    "location": "Georgetown, Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 28,
+    "publicContributions": 3,
+    "createdAt": "2017-09-11T18:44:28Z"
+  },
+  {
+    "login": "scaple99",
+    "name": "Shemroy Caple",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26511109?s=72&u=2e83fb4d3184011c10084438137aca45de5789a5&v=4",
+    "location": "Soesdyke, Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-18T20:52:36Z"
+  },
+  {
+    "login": "le-travie",
+    "name": "Jaime Kingston",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30028610?s=72&u=efe7dc3f7bdd171e8c3bf4809716ea8217ad732f&v=4",
+    "location": "Georgetown, Guyana, S.A.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 83,
+    "publicContributions": 0,
+    "createdAt": "2017-07-09T20:39:51Z"
+  },
+  {
+    "login": "vidash2323",
+    "name": "Vidash Khelawan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34896354?s=72&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-27T19:33:16Z"
   }
 ]

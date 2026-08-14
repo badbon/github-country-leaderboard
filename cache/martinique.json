@@ -778,5 +778,89 @@
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2013-05-18T17:33:47Z"
+  },
+  {
+    "login": "b1nj",
+    "name": "B1nj",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1835874?s=72&v=4",
+    "location": "Martinique",
+    "company": "pixellweb.com",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 160,
+    "createdAt": "2012-06-10T15:52:12Z"
+  },
+  {
+    "login": "Artnforces",
+    "name": "SimpleFX",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2866191?s=72&u=b1f3bbd312c0c7c9ec156706b86b3dab5a4ee2d8&v=4",
+    "location": "Martinique",
+    "company": "CTM - Artnforces - BBConcept - brand Kribbean",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-22T21:12:56Z"
+  },
+  {
+    "login": "vevedh",
+    "name": "Hervé de CHAVIGNY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1430389?s=72&u=cc3157a397ad06c57f511c9c0d8ce5d11949310e&v=4",
+    "location": "Martinique",
+    "company": "@phasme",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 621,
+    "publicContributions": 201,
+    "createdAt": "2012-02-12T07:13:15Z"
+  },
+  {
+    "login": "tolobial",
+    "name": "Patrick PLACIDE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2273317?s=72&u=de455c796646a12b1535597a0c896831c380a83b&v=4",
+    "location": "Martinique",
+    "company": "université des Antilles",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2012-09-03T20:56:43Z"
+  },
+  {
+    "login": "sylvaingd",
+    "name": "Sylvain GROS-DESORMEAUX",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2480495?s=72&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-03T16:36:33Z"
+  },
+  {
+    "login": "yannou788",
+    "name": "Luccin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2045017?s=72&u=3cbf9ffb6bd5e258204a29e9e78e8bef775301fd&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-26T07:33:26Z"
+  },
+  {
+    "login": "laetigit",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2677230?s=72&u=3a646322b3306f728ec7ece8819634f001f1e369&v=4",
+    "location": "Martinique",
+    "company": "@lgs-martinique ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2012-10-29T17:31:11Z"
   }
 ]

@@ -322,5 +322,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-10-04T09:27:18Z"
+  },
+  {
+    "login": "jctiru",
+    "name": "Jonathan Christian S. Tiru",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34016067?s=72&v=4",
+    "location": "Harmon, Guam, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-27T02:28:03Z"
+  },
+  {
+    "login": "ThaumX",
+    "name": "ThaumX",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30677680?s=72&u=3a1592d4c3369a646a63e6ae4af45a3eb4b07e62&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 470,
+    "publicContributions": 10,
+    "createdAt": "2017-08-03T01:58:32Z"
   }
 ]

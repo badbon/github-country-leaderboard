@@ -142,5 +142,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-30T13:42:53Z"
+  },
+  {
+    "login": "Saint-Paulin",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56250140?s=72&u=c42d2e1ccbb1f0388e3faeac512984869206683f&v=4",
+    "location": "Kourou, french guiana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2019-10-07T08:03:32Z"
+  },
+  {
+    "login": "rebbecaschloss",
+    "name": "Rebbeca Schloss ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47905546?s=72&v=4",
+    "location": "Cayenne, French Guiana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-22T23:34:57Z"
+  },
+  {
+    "login": "Ludoc0de",
+    "name": "Ludocode",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46927766?s=72&u=2ac2517cd9bb94021db4aac62263b67a2e40309e&v=4",
+    "location": "French Guiana",
+    "company": "@100Devs",
+    "twitterUsername": "ludoC0de",
+    "followers": 1,
+    "privateContributions": 281,
+    "publicContributions": 9,
+    "createdAt": "2019-01-22T13:12:28Z"
   }
 ]

@@ -2254,5 +2254,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-07-10T12:04:10Z"
+  },
+  {
+    "login": "seriadiallo",
+    "name": "Sadialiou Diallo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46747970?s=72&u=b8566ccad79f90663c378e801bc74fbd6807022a&v=4",
+    "location": "Guinea",
+    "company": "Eight Technology",
+    "twitterUsername": "seriadiallo",
+    "followers": 10,
+    "privateContributions": 261,
+    "publicContributions": 2,
+    "createdAt": "2019-01-16T11:47:54Z"
+  },
+  {
+    "login": "mousto1997",
+    "name": "Mous Tapha Barry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55794218?s=72&u=1e145ba37c607f7843cbe7fa1cf0cb95d67d8a5c&v=4",
+    "location": "Conakry - Guinea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-25T12:25:54Z"
+  },
+  {
+    "login": "s17-git",
+    "name": "ghostG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54843046?s=72&v=4",
+    "location": "Guinea Conakry",
+    "company": "BeeKaranta",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2019-09-03T10:23:59Z"
+  },
+  {
+    "login": "mamady1999",
+    "name": "Mamady Konaté",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49819591?s=72&u=e37f4e09ebcdc047453b18e9abf781855d2c2afe&v=4",
+    "location": "Guinea, Conakry",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2019-04-20T18:35:07Z"
+  },
+  {
+    "login": "a1bah",
+    "name": "Abdoulaye Bah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58641467?s=72&u=d603ebbcb6f572823a6f93e7784ed1f66a2e2040&v=4",
+    "location": "Conakry, Guinea",
+    "company": "Institut Marc Gentilini des Maladies Tropicales",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-07T21:49:27Z"
+  },
+  {
+    "login": "Aiilas",
+    "name": "Salia Camara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56560547?s=72&v=4",
+    "location": "Guinea-Conakry",
+    "company": "224devsign",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-14T18:53:18Z"
   }
 ]
