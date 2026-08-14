@@ -32530,5 +32530,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-11T19:26:30Z"
+  },
+  {
+    "login": "wangpaopao-lei",
+    "name": "Lei Wang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85596581?s=72&u=8c40453ca70fbd14b869d7c7679c54c066c3cd4a&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "BUPT, UVIC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 60,
+    "createdAt": "2021-06-09T02:06:19Z"
+  },
+  {
+    "login": "TutelaTec",
+    "name": "Mark Morrill",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93394740?s=72&u=a4c32112f76ac5df04d86927c432b8d9055d7bdd&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "Opensignal",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-29T15:26:40Z"
+  },
+  {
+    "login": "aqeelmozumder",
+    "name": "Aqeel Mozumder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80500844?s=72&u=5cb91441eae96c48754bcad99cf3ceca83a1d5f0&v=4",
+    "location": "Victoria, Canada",
+    "company": "Brentwood College School",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 8,
+    "publicContributions": 16,
+    "createdAt": "2021-03-12T03:23:00Z"
+  },
+  {
+    "login": "digsc",
+    "name": "Daniel Brachman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91846017?s=72&u=f2c18c20d4fea175bd058af24addcde8169aa22f&v=4",
+    "location": "Victoria, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-03T18:27:21Z"
   }
 ]

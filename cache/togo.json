@@ -6334,5 +6334,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-22T10:27:27Z"
+  },
+  {
+    "login": "Einswilli",
+    "name": "#Einswilli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61468993?s=72&u=36a01fb1d8b2f02b0f8b14ba450228c5153f05e2&v=4",
+    "location": "Lomé",
+    "company": "@AllDotPy @Digital-Keys",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 1786,
+    "publicContributions": 1382,
+    "createdAt": "2020-02-25T16:09:34Z"
+  },
+  {
+    "login": "MathiasATTIKPO",
+    "name": "Mathias ATTIKPO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75087437?s=72&v=4",
+    "location": "lomé",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 122,
+    "createdAt": "2020-11-26T16:10:03Z"
+  },
+  {
+    "login": "novenopatch",
+    "name": "LanzaDelRelampago",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59964509?s=72&u=764320ec4cbb17b779ae41dd9aabc9f645ea21a6&v=4",
+    "location": "Lomé ",
+    "company": "BlueTech,tdev,dotpy",
+    "twitterUsername": "Jerrykel_j",
+    "followers": 10,
+    "privateContributions": 569,
+    "publicContributions": 51,
+    "createdAt": "2020-01-16T13:34:44Z"
+  },
+  {
+    "login": "codinglab33",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64631871?s=72&u=54f83b48b6758c4bf23509a7ad424cf257b40790&v=4",
+    "location": "Lomé",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-01T07:13:06Z"
+  },
+  {
+    "login": "Mina0120",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75832286?s=72&u=a1122a24cb60e3cc51386645eb79fbe607610121&v=4",
+    "location": "Hedjranawoe- Lomé ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-11T08:27:52Z"
+  },
+  {
+    "login": "mdzagli",
+    "name": "Milohum Mikesokpo DZAGLI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63472147?s=72&v=4",
+    "location": "Lomé",
+    "company": "University of Lomé",
+    "twitterUsername": "Mdzagli",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-10T18:46:00Z"
+  },
+  {
+    "login": "tsetsekosssi",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74547164?s=72&v=4",
+    "location": "Lomé on-line 0652/2006/ccit",
+    "company": "En DIEU NOUS CROYONS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-16T13:24:37Z"
+  },
+  {
+    "login": "leneon",
+    "name": "Kamal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72993570?s=72&u=c2f97eb57b21169bce15991947cdcee95d6b7dc7&v=4",
+    "location": "Lomé",
+    "company": "CAGECFI SA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2020-10-16T17:39:46Z"
+  },
+  {
+    "login": "julesledev",
+    "name": "Jules le dev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71714827?s=72&u=ecb3fcbc93f98c94d71fc702ae12f3c72814a9a6&v=4",
+    "location": "Lomé",
+    "company": "Maison Phone Informatique",
+    "twitterUsername": "julesledev",
+    "followers": 1,
+    "privateContributions": 342,
+    "publicContributions": 2,
+    "createdAt": "2020-09-22T14:30:41Z"
   }
 ]

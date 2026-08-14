@@ -27118,5 +27118,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-23T00:52:31Z"
+  },
+  {
+    "login": "ciroleguia",
+    "name": "Ciro Leguía",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67976037?s=72&u=836564c5b1d14d66dd0c2417a0f9df9bba7804c9&v=4",
+    "location": "Argentina / Paraguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 39,
+    "publicContributions": 9,
+    "createdAt": "2020-07-07T18:34:31Z"
+  },
+  {
+    "login": "0restess",
+    "name": "Orestes Cattaneo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109423970?s=72&v=4",
+    "location": "Concepcion del Uruguay, Entre Rios, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-16T13:49:12Z"
+  },
+  {
+    "login": "SebaCuore",
+    "name": "Sebastian Castillo Juriol",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116965608?s=72&v=4",
+    "location": "Concepción del Uruguay, Entre Ríos, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 19,
+    "publicContributions": 72,
+    "createdAt": "2022-10-29T15:23:38Z"
+  },
+  {
+    "login": "FZ-developer",
+    "name": "Luciano Fernández",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98769385?s=72&u=0c0dcae7037422ec36f6f4c7a1884497305daa7f&v=4",
+    "location": "Concepción del Uruguay, Entre Ríos, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-31T17:56:42Z"
   }
 ]

@@ -21130,5 +21130,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-25T12:28:33Z"
+  },
+  {
+    "login": "hyperclassteam",
+    "name": "HyperClassTeam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150426497?s=72&u=a381b3a4207ed276ce9c57fb9c67e96a320f061f&v=4",
+    "location": "Bucharest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-10T08:10:45Z"
+  },
+  {
+    "login": "vladt99",
+    "name": "Vlad T",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130350424?s=72&u=e2f2bf6f04ccf83fbce80016750749bcf67d95f8&v=4",
+    "location": "Bucharest, RO",
+    "company": "@HyperSense-Software ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2587,
+    "publicContributions": 7,
+    "createdAt": "2023-04-10T08:07:33Z"
+  },
+  {
+    "login": "MihaiStinga",
+    "name": "Mihai Stinga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130763873?s=72&u=6c27427b8a9f847868f597197d0a3850103c8fcf&v=4",
+    "location": "Bucharest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-14T12:48:31Z"
   }
 ]

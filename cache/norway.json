@@ -11086,5 +11086,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-02T11:16:25Z"
+  },
+  {
+    "login": "LeahJKH",
+    "name": "Leah Y",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137153158?s=72&u=d720d172afa263b0c2916e6b4d7f2401ec1dbb06&v=4",
+    "location": "Norge",
+    "company": "Jobloop AS Lærling // Nordev AS ",
+    "twitterUsername": "",
+    "followers": 59,
+    "privateContributions": 65,
+    "publicContributions": 228,
+    "createdAt": "2023-06-20T07:25:50Z"
+  },
+  {
+    "login": "magnus-lower",
+    "name": "Magnus Løwer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148643539?s=72&u=e2efb6509793c69c73a677046f98d86e8ab30d30&v=4",
+    "location": "Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 606,
+    "publicContributions": 273,
+    "createdAt": "2023-10-21T16:11:44Z"
+  },
+  {
+    "login": "jonatan-dam",
+    "name": "Jonatan Dam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142307949?s=72&u=e462fe04792e36d474e906d564c8e88d5222053f&v=4",
+    "location": "Sandnes, Rogaland, Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2023-08-15T10:10:10Z"
+  },
+  {
+    "login": "Mythicle",
+    "name": "Morgan Porsmyr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123519730?s=72&v=4",
+    "location": "Drammen, Norge",
+    "company": "Vestre Viken HF",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2023-01-24T23:59:57Z"
+  },
+  {
+    "login": "LA9IHA",
+    "name": "Ottar Kvindesland",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149434896?s=72&u=5621a56ed35f39d7869580e4a2e3f1c5756917e5&v=4",
+    "location": "Sandnes, Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-30T20:41:52Z"
+  },
+  {
+    "login": "liam-rar",
+    "name": "liam.rar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128763862?s=72&u=96331ee8f5c60b4abdbdcad4036168ef04cc76fa&v=4",
+    "location": "Harstad, Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 39,
+    "publicContributions": 4,
+    "createdAt": "2023-03-24T01:30:02Z"
   }
 ]

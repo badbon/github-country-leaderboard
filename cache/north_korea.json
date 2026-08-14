@@ -1078,5 +1078,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-19T20:27:15Z"
+  },
+  {
+    "login": "1zumiSagiri",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120144270?s=72&u=1a5b641d577f2d53c6297059cc6e4fd77e0594b1&v=4",
+    "location": "Pyongyang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 503,
+    "publicContributions": 82,
+    "createdAt": "2022-12-08T23:40:55Z"
+  },
+  {
+    "login": "giuseppedifilippo",
+    "name": "DifilippoIndustries",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98238828?s=72&u=30412a3db6396e5253f9f4b641ce4cec4a3d6f55&v=4",
+    "location": "Pyongyang",
+    "company": "Difilippo Industries",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2022-01-22T22:02:59Z"
+  },
+  {
+    "login": "X1r0s",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99541284?s=72&v=4",
+    "location": "Pyongyang ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-12T13:06:42Z"
+  },
+  {
+    "login": "BattleShit",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120676439?s=72&u=5483a0fdc811090280ec1d0282f86ea80d97f261&v=4",
+    "location": "Pyongyang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-15T18:19:40Z"
   }
 ]

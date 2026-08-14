@@ -13086,7 +13086,7 @@
     "location": "Sidi moussa , Algiers, algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 335,
+    "followers": 336,
     "privateContributions": 560,
     "publicContributions": 40,
     "createdAt": "2023-02-24T13:06:44Z"
@@ -13098,7 +13098,7 @@
     "location": "Algiers-Algeria",
     "company": "Ecole Nationale Superieure d'Informatique",
     "twitterUsername": "",
-    "followers": 307,
+    "followers": 308,
     "privateContributions": 153,
     "publicContributions": 383,
     "createdAt": "2023-03-05T19:55:08Z"
@@ -13170,7 +13170,7 @@
     "location": "Algiers, Algeria",
     "company": "Ecole nationale Supérieure d'Informatique d'Alger",
     "twitterUsername": "thatguyrahim",
-    "followers": 187,
+    "followers": 188,
     "privateContributions": 202,
     "publicContributions": 68,
     "createdAt": "2023-11-01T17:49:06Z"
@@ -13903,7 +13903,7 @@
     "company": "USTHB",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 639,
+    "privateContributions": 650,
     "publicContributions": 603,
     "createdAt": "2023-07-30T08:56:05Z"
   },
@@ -14143,7 +14143,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 1626,
+    "privateContributions": 1650,
     "publicContributions": 287,
     "createdAt": "2023-12-07T21:32:16Z"
   },
@@ -14383,7 +14383,7 @@
     "company": "ESI [Ecole nationale superieur d'informatique]",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 12,
+    "privateContributions": 16,
     "publicContributions": 3,
     "createdAt": "2023-09-22T08:35:25Z"
   },
@@ -20818,5 +20818,137 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-31T02:43:54Z"
+  },
+  {
+    "login": "Mo-Ouail-Ocf",
+    "name": "Ouail Mohammed Oucherif",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124390612?s=72&u=aa407b4c0540a6f157eac6ee7bdabe31ec3c81f7&v=4",
+    "location": "Algiers",
+    "company": "Ecole Nationale Supérieure d'Informatique (ESI ex.INI) - Alger.",
+    "twitterUsername": "ouail_oucherif",
+    "followers": 64,
+    "privateContributions": 0,
+    "publicContributions": 67,
+    "createdAt": "2023-02-03T17:53:32Z"
+  },
+  {
+    "login": "abdelhak-k",
+    "name": "Kadouci Abdelhak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152446357?s=72&u=13ac40e95f959884067bbdc38e06f46e514df711&v=4",
+    "location": "Algiers, Sidi Abdellah",
+    "company": "ENSIA",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 496,
+    "publicContributions": 154,
+    "createdAt": "2023-11-29T21:45:36Z"
+  },
+  {
+    "login": "ademboukabes",
+    "name": "adem boukabes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142881379?s=72&u=27cacfec407afcf77b77aa6de0cf78c3e2d07f40&v=4",
+    "location": "Algiers",
+    "company": "USTHB",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 188,
+    "publicContributions": 297,
+    "createdAt": "2023-08-22T08:03:01Z"
+  },
+  {
+    "login": "khadidja2005",
+    "name": "Khadidja225",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128157685?s=72&u=69be470a93a129849d09ff531db0310e90db48f0&v=4",
+    "location": "algiers",
+    "company": "ESI_Algiers",
+    "twitterUsername": "",
+    "followers": 35,
+    "privateContributions": 218,
+    "publicContributions": 119,
+    "createdAt": "2023-03-17T13:48:05Z"
+  },
+  {
+    "login": "61j3t",
+    "name": "Abdessamed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126618886?s=72&u=6e4ab903de50d60159d988b50030aaff96a51d57&v=4",
+    "location": "Algiers",
+    "company": "@ENSIA-AI",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 3161,
+    "publicContributions": 110,
+    "createdAt": "2023-02-28T20:53:47Z"
+  },
+  {
+    "login": "MOHAMEDB999",
+    "name": "Mohamed_Ben",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127502254?s=72&u=bf5599060fff97590ca18ded04e0d56fe796b93a&v=4",
+    "location": "Bab Ezzouar, Algiers 🇩🇿",
+    "company": "University of Science and Technology Houari Boumediene",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 0,
+    "publicContributions": 619,
+    "createdAt": "2023-03-10T11:54:25Z"
+  },
+  {
+    "login": "Mezghenna-Mohanned",
+    "name": "Mezghenna Mohanned",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154748750?s=72&u=aba2aeacb8444aaeff26b1e064eacc4c88502629&v=4",
+    "location": "Algiers",
+    "company": "USTHB",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2023-12-24T15:39:48Z"
+  },
+  {
+    "login": "Dhia0Eddine",
+    "name": "Guerfi Dhia Eddine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144676372?s=72&v=4",
+    "location": "Algiers",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 311,
+    "publicContributions": 168,
+    "createdAt": "2023-09-11T09:49:58Z"
+  },
+  {
+    "login": "bouchrabenkhelifa",
+    "name": "Bouchra Benkhelifa ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142149802?s=72&u=93d60f1ae131e2953428e8c9cd9d346adf5f783f&v=4",
+    "location": "Algiers ",
+    "company": "Esi",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 41,
+    "publicContributions": 191,
+    "createdAt": "2023-08-13T10:29:13Z"
+  },
+  {
+    "login": "moudjou",
+    "name": "MOUDA Abdelmoudjib",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144624556?s=72&u=a4a3bcf46e01bd9229dcfdce7e89b1553ca21835&v=4",
+    "location": "Algiers",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 171,
+    "publicContributions": 27,
+    "createdAt": "2023-09-10T19:21:28Z"
+  },
+  {
+    "login": "wb21cs",
+    "name": "Abdelouakil BENTERKI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124548980?s=72&u=669b4d15a643676b78f5c4edcf30c6a45a164042&v=4",
+    "location": "Algiers",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 9,
+    "publicContributions": 34,
+    "createdAt": "2023-02-06T04:35:01Z"
   }
 ]

@@ -22810,5 +22810,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-15T06:59:25Z"
+  },
+  {
+    "login": "shami-momo",
+    "name": "Hojun Yoo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158045198?s=72&u=51aa18835b33dbe77515681a490481ce03c258fd&v=4",
+    "location": "Seoul, Republic of Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2024-01-29T11:08:08Z"
+  },
+  {
+    "login": "820nam",
+    "name": "LEE GILNAM 이길남",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167866330?s=72&u=50a37d14f2b818fb46c16f78ea91267bdcfa4edf&v=4",
+    "location": "Seoul, Republic of Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 84,
+    "createdAt": "2024-04-23T10:03:48Z"
+  },
+  {
+    "login": "sossong",
+    "name": "Junga Song",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165165449?s=72&v=4",
+    "location": "Busan, Republic of Korea",
+    "company": "Pukyong National University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2024-03-27T12:32:53Z"
+  },
+  {
+    "login": "himinwoo",
+    "name": "Lee Minwoo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182849789?s=72&u=53363dc1b55fbca12509191d050a5534eac2673d&v=4",
+    "location": "Republic of Korea",
+    "company": "Kookmin University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 712,
+    "publicContributions": 16,
+    "createdAt": "2024-09-26T05:26:39Z"
+  },
+  {
+    "login": "Sheep-heee",
+    "name": "Yang Heejin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172880030?s=72&u=be5c4f52951b27b6eecbf4c9e0579616c103f02e&v=4",
+    "location": "Suwon-si, Gyeonggi-do, Republic of Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2024-06-15T05:46:37Z"
+  },
+  {
+    "login": "starpia-forge",
+    "name": "Starpia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157299292?s=72&u=926dab90eaab4ca6aaa1041ec6c6d93aa4911ae2&v=4",
+    "location": "Republic of Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 997,
+    "publicContributions": 526,
+    "createdAt": "2024-01-21T15:21:59Z"
   }
 ]

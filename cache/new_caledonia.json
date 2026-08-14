@@ -1294,5 +1294,29 @@
     "privateContributions": 337,
     "publicContributions": 5,
     "createdAt": "2010-06-30T15:47:19Z"
+  },
+  {
+    "login": "loxK",
+    "name": "Laurent Dinclaux",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136687?s=72&u=47cbd7bbb1a431c77fff2d7f5432fea6576f78c4&v=4",
+    "location": "New Caledonia",
+    "company": "Gecka Apps",
+    "twitterUsername": "",
+    "followers": 57,
+    "privateContributions": 0,
+    "publicContributions": 213,
+    "createdAt": "2009-10-08T05:44:26Z"
+  },
+  {
+    "login": "Traz",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89697?s=72&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-05-28T21:26:11Z"
   }
 ]
