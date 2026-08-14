@@ -3010,5 +3010,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-03T10:02:21Z"
+  },
+  {
+    "login": "Rudolph404",
+    "name": "Rudolph",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187101447?s=72&u=086e637cb08c612bdea314c60bb9845983997df8&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-11-02T10:13:39Z"
+  },
+  {
+    "login": "Sezim22",
+    "name": "Sezim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/191229524?s=72&v=4",
+    "location": "Asia/Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2024-12-10T10:02:12Z"
   }
 ]

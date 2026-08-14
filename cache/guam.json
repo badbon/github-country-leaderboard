@@ -190,5 +190,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-04T19:36:37Z"
+  },
+  {
+    "login": "ReyBan82",
+    "name": "Renante B Baniaga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91646027?s=72&u=d077fa808769ea037d6ca21d23d85ba83faef236&v=4",
+    "location": "Guam, United, States",
+    "company": "AnT1nG Marketing Guam",
+    "twitterUsername": "TweetApp07",
+    "followers": 66,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2021-09-30T02:34:27Z"
+  },
+  {
+    "login": "nshoemake",
+    "name": "Nick Shoemake",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90182862?s=72&u=55a2c4d286013522b2c8b6d24fa765006ad4fe96&v=4",
+    "location": "Guam",
+    "company": "100Devs, NTT Docomo Pacific",
+    "twitterUsername": "nshoemake_",
+    "followers": 3,
+    "privateContributions": 24,
+    "publicContributions": 0,
+    "createdAt": "2021-09-06T08:39:00Z"
   }
 ]

@@ -490,5 +490,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-05T12:25:32Z"
+  },
+  {
+    "login": "R3tr8",
+    "name": "Franck-Emmanuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39610870?s=72&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "R3tr8",
+    "followers": 7,
+    "privateContributions": 320,
+    "publicContributions": 4,
+    "createdAt": "2018-05-25T04:03:23Z"
+  },
+  {
+    "login": "anthonyrenard",
+    "name": "Anthony Renard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40007058?s=72&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-06T20:57:14Z"
+  },
+  {
+    "login": "aldofwi",
+    "name": "Dominique ALMANDIN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42814580?s=72&u=af24853f7c5f08390e4f0f0437239f46e3326aea&v=4",
+    "location": "Martinique",
+    "company": "ΛDHD",
+    "twitterUsername": "aldofwi",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 98,
+    "createdAt": "2018-08-29T17:24:42Z"
   }
 ]

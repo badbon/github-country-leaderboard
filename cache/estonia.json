@@ -3322,5 +3322,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-12T10:37:43Z"
+  },
+  {
+    "login": "LuureAmet",
+    "name": "TeabeAmet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130771054?s=72&u=c5d2dbc75a522bf9ccf830eee68f68eb8103c568&v=4",
+    "location": "Eesti VabaRiik",
+    "company": "ArvutiMinisteerium",
+    "twitterUsername": "LuureAmet",
+    "followers": 7,
+    "privateContributions": 1,
+    "publicContributions": 17,
+    "createdAt": "2023-04-14T14:11:58Z"
+  },
+  {
+    "login": "yefrosynii-piar",
+    "name": "Yefrosynii K.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138483859?s=72&u=99d38ff7706e6d273f4e884c64a8c2769646dd4c&v=4",
+    "location": "Tallinn, Eesti",
+    "company": "@piar-ee ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 309,
+    "publicContributions": 0,
+    "createdAt": "2023-07-03T11:40:38Z"
   }
 ]

@@ -286,5 +286,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-11T19:45:02Z"
+  },
+  {
+    "login": "Ddenobrega",
+    "name": "Daryl C. DeNobrega",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80586472?s=72&u=418cd6f2dec3bfd03ff4aac856f222b2a3b2a678&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "dcdenobrega",
+    "followers": 14,
+    "privateContributions": 7,
+    "publicContributions": 0,
+    "createdAt": "2021-03-13T13:51:39Z"
+  },
+  {
+    "login": "aG00Dtime",
+    "name": "David Henry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77511476?s=72&u=697ecedc343e5b1c4c2999691dcb1715cbc8febb&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 196,
+    "publicContributions": 272,
+    "createdAt": "2021-01-15T20:24:23Z"
+  },
+  {
+    "login": "1-2cloud",
+    "name": "Tamara Benjamin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84244210?s=72&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-15T17:24:00Z"
   }
 ]

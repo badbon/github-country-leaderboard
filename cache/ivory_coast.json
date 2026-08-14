@@ -1138,5 +1138,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-24T17:02:28Z"
+  },
+  {
+    "login": "Shadracthechosenone",
+    "name": "Shadrac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136488113?s=72&u=ce8014e81145d21bad8e06e4ea2f30f5ebf31a5c&v=4",
+    "location": "Ivory Coast",
+    "company": "",
+    "twitterUsername": "ShadracBodjui",
+    "followers": 68,
+    "privateContributions": 0,
+    "publicContributions": 68,
+    "createdAt": "2023-06-13T15:55:34Z"
+  },
+  {
+    "login": "SonofZion1996",
+    "name": "Euloge KONAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123160640?s=72&v=4",
+    "location": "Ivory Coast",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-20T09:50:52Z"
+  },
+  {
+    "login": "SaoureT13",
+    "name": "Saoure Kouamé",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129400114?s=72&u=89d76656e922cff72db633739c7559321db6ef29&v=4",
+    "location": "Ivory Coast, Abidjan, Vridi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2023-03-30T13:11:08Z"
+  },
+  {
+    "login": "zoyahammad",
+    "name": "Zoya Hammad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134557773?s=72&v=4",
+    "location": "Abidjan, Ivory Coast",
+    "company": "ICSA",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-24T21:56:35Z"
+  },
+  {
+    "login": "Marningstar-Diaries",
+    "name": "Marningstar Diaries",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145899568?s=72&u=dde1f3eb1f6b736149c195987cedeb345e80ed57&v=4",
+    "location": "Abidjan, Ivory Coast",
+    "company": "Marningstar",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2023-09-24T09:05:03Z"
+  },
+  {
+    "login": "Bcd7224",
+    "name": "Ben Chérif",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122676742?s=72&u=bc52b886388174e249d0c7a69b96ade0bf0a7ce5&v=4",
+    "location": "Ivory Coast",
+    "company": "",
+    "twitterUsername": "dev_learner98",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-14T12:05:02Z"
+  },
+  {
+    "login": "pyheinrich",
+    "name": "Heinrich.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149265664?s=72&v=4",
+    "location": "Abidjan, Ivory Coast.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-28T18:22:32Z"
   }
 ]

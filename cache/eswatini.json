@@ -58,5 +58,41 @@
     "privateContributions": 28,
     "publicContributions": 0,
     "createdAt": "2025-02-03T15:02:57Z"
+  },
+  {
+    "login": "Dwaynemaster007",
+    "name": "Thubelihle Dlamini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174906480?s=72&u=6b13fd3037eec550c5d1c735021b786a8dad150a&v=4",
+    "location": "Eswatini",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 789,
+    "createdAt": "2024-07-06T20:19:03Z"
+  },
+  {
+    "login": "CBahtaria",
+    "name": "Charles Bartaria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177159236?s=72&v=4",
+    "location": "Manzini, Kingdom of Eswatini",
+    "company": "BRT Inc.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 259,
+    "publicContributions": 664,
+    "createdAt": "2024-07-31T19:22:35Z"
+  },
+  {
+    "login": "swazibandag",
+    "name": "Bandag IT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180383003?s=72&u=ab94f6c1590eb5f2b5dda00fdc13e10d120c32e3&v=4",
+    "location": "Matsapha, Eswatini",
+    "company": "Swazi Bandag",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-09-04T06:46:52Z"
   }
 ]

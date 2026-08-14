@@ -550,5 +550,89 @@
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2019-01-13T21:16:23Z"
+  },
+  {
+    "login": "Dougniel",
+    "name": "Daniel Santos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39691264?s=72&u=2b8000e562940e1e59385034e74ecbadaada99f6&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 1399,
+    "publicContributions": 2,
+    "createdAt": "2018-05-28T07:17:46Z"
+  },
+  {
+    "login": "calonnet",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37125089?s=72&u=3ff538a946d6de377e4f0a86a45a0ad28cc53429&v=4",
+    "location": "New-Caledonia",
+    "company": "CAFAT",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-06T22:33:53Z"
+  },
+  {
+    "login": "sammoorlando",
+    "name": "Sammo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42715847?s=72&u=7694ac97109a2574faabe40c739f9f88e27e2335&v=4",
+    "location": "France / New Caledonia",
+    "company": "GDP",
+    "twitterUsername": "sammotv",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-08-26T13:36:41Z"
+  },
+  {
+    "login": "savarycl",
+    "name": "Clara Savary",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36240241?s=72&u=fa8ba80b07415605a1b814008508bf2d491aaef3&v=4",
+    "location": "Nouméa, New Caledonia",
+    "company": "OmixAnalytics",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2018-02-07T17:38:13Z"
+  },
+  {
+    "login": "bductane",
+    "name": "Benoit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41887465?s=72&u=194091923ee959a0f790e043431b385507206b84&v=4",
+    "location": "Noumea, New Caledonia",
+    "company": "INVT",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 44,
+    "publicContributions": 0,
+    "createdAt": "2018-07-30T05:23:47Z"
+  },
+  {
+    "login": "mogwaii",
+    "name": "Pierre Hénaff",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36461490?s=72&u=0e834c876a99904ae55019c88a74064f6da4d4e8&v=4",
+    "location": "Noumea, New Caledonia",
+    "company": "ONE SHOT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-14T00:07:27Z"
+  },
+  {
+    "login": "Zebio21",
+    "name": "Sébastien Boulanger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43841412?s=72&u=132626ad9fa4571aa2dd614e78a21ed6cd2abc15&v=4",
+    "location": "Nouméa, New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-04T06:45:14Z"
   }
 ]
