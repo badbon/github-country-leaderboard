@@ -8902,5 +8902,29 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2025-02-02T14:41:53Z"
+  },
+  {
+    "login": "xfain",
+    "name": "Xavier Faïn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144432408?s=72&v=4",
+    "location": " Saint-Martin-d'Hères, France",
+    "company": "Institut des Géosciences de l'Environnement (IGE)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2023-09-08T08:31:52Z"
+  },
+  {
+    "login": "maham-kayani",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136902311?s=72&v=4",
+    "location": "292 Rue Saint-Martin, 75003 Paris",
+    "company": "Le CNAM",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-17T12:19:36Z"
   }
 ]

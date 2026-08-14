@@ -103,7 +103,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 2460,
+    "privateContributions": 2464,
     "publicContributions": 68,
     "createdAt": "2024-03-04T20:46:44Z"
   },
@@ -142,5 +142,29 @@
     "privateContributions": 5,
     "publicContributions": 5,
     "createdAt": "2024-06-10T14:41:18Z"
+  },
+  {
+    "login": "Nikhcodes",
+    "name": "Nikhcodes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183808393?s=72&u=389aba2a97725b5a15ac1988103694adafd8567c&v=4",
+    "location": "Paramaribo",
+    "company": "NikhStudios",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 89,
+    "publicContributions": 110,
+    "createdAt": "2024-10-04T08:27:02Z"
+  },
+  {
+    "login": "maartennarain",
+    "name": "Maarten Narain UNASAT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162338490?s=72&u=7e7f64af4a7e26bc9380ed6d8713c97c10515c5d&v=4",
+    "location": "Paramaribo, uriname",
+    "company": "https://unasat.net/",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-05T14:47:01Z"
   }
 ]

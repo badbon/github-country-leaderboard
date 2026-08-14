@@ -634,5 +634,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-10-04T06:45:14Z"
+  },
+  {
+    "login": "fabricedujardinportfolio",
+    "name": "Fabrice DUJARDIN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44850811?s=72&u=834a9a4ef62577590f9380e7ca1167a6bc517540&v=4",
+    "location": "Nouméa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-07T21:15:06Z"
+  },
+  {
+    "login": "Zikmiti",
+    "name": "Florian URENA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41624992?s=72&u=86d2a539149d8404c63f5b755e76190992d2f65f&v=4",
+    "location": "Nouméa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-07-24T10:42:38Z"
   }
 ]

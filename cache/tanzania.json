@@ -2262,7 +2262,7 @@
     "location": "DODOMA -TANZANIA",
     "company": "",
     "twitterUsername": "",
-    "followers": 111,
+    "followers": 112,
     "privateContributions": 0,
     "publicContributions": 2443,
     "createdAt": "2024-11-27T12:13:44Z"
@@ -4534,5 +4534,113 @@
     "privateContributions": 0,
     "publicContributions": 67,
     "createdAt": "2024-03-30T02:05:58Z"
+  },
+  {
+    "login": "Mrhanstz",
+    "name": "HANSTZ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/188723470?s=72&u=3e4d440508368d99a6484bff260a2e6beb22e5c9&v=4",
+    "location": "Africa Dodoma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 175,
+    "privateContributions": 0,
+    "publicContributions": 121,
+    "createdAt": "2024-11-17T00:26:36Z"
+  },
+  {
+    "login": "Lazack28",
+    "name": "Lazack",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164275612?s=72&u=7474e4473bd2f996a3c46333c86c462582b30222&v=4",
+    "location": "DODOMA",
+    "company": "LAZACK_28",
+    "twitterUsername": "",
+    "followers": 72,
+    "privateContributions": 1323,
+    "publicContributions": 455,
+    "createdAt": "2024-03-21T00:29:23Z"
+  },
+  {
+    "login": "DeveloperBhin",
+    "name": "Norbeth Mwalongo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169683789?s=72&u=6c68796e96af23e41a38a7153c7fa00540eebc78&v=4",
+    "location": "DODOMA",
+    "company": "TARI HQ",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 715,
+    "publicContributions": 316,
+    "createdAt": "2024-05-13T14:45:51Z"
+  },
+  {
+    "login": "Mahona03",
+    "name": "Emmanuel Mahona",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172269621?s=72&v=4",
+    "location": "Dodoma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2024-06-10T11:23:45Z"
+  },
+  {
+    "login": "Kawawa12",
+    "name": "Jackson Kawawa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171943920?s=72&u=6b93f0ca29d477b1a1d4dde05a3468687b77d586&v=4",
+    "location": "Dodoma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2024-06-06T13:17:32Z"
+  },
+  {
+    "login": "Lazackdevs",
+    "name": "Lazack_28",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187756883?s=72&u=60a7c0abd23ad39c526dc6ca79f45a1b7facf032&v=4",
+    "location": "dodoma",
+    "company": "lazack organization",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4316,
+    "createdAt": "2024-11-08T11:34:40Z"
+  },
+  {
+    "login": "Lazaromarco1305",
+    "name": "Lazaro M.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163631849?s=72&v=4",
+    "location": "Dodoma",
+    "company": "Home Library ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2024-03-16T07:17:49Z"
+  },
+  {
+    "login": "JackDidas",
+    "name": "Jackson Didas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180660525?s=72&u=73e38d9303ad3c3842ab4c8f966363a29df68d0c&v=4",
+    "location": "Dodoma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-09-06T12:14:57Z"
+  },
+  {
+    "login": "jroot23",
+    "name": "jroot23",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177011149?s=72&u=18211f05e86af0bbc6e5973118524449d2709683&v=4",
+    "location": "Dodoma",
+    "company": "Tanzania   e-Government Authority",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-07-30T10:59:33Z"
   }
 ]

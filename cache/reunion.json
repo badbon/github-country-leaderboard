@@ -562,5 +562,53 @@
     "privateContributions": 0,
     "publicContributions": 79,
     "createdAt": "2021-10-31T08:01:50Z"
+  },
+  {
+    "login": "x0ld",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81380423?s=72&u=eab295ad3bb0a3d11713031999690f2ccca236cd&v=4",
+    "location": "Seine-Saint-Denis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-25T17:04:52Z"
+  },
+  {
+    "login": "dancodeur",
+    "name": "Dan Elenga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93740010?s=72&v=4",
+    "location": " 93210, Saint-Denis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 119,
+    "publicContributions": 276,
+    "createdAt": "2021-11-04T21:08:08Z"
+  },
+  {
+    "login": "Chappellier-cyril",
+    "name": "Cyril-Dev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80694867?s=72&u=57411d62a7e6971a6319d6b7843a9a61e1f24520&v=4",
+    "location": "Seine Saint Denis France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-15T13:43:39Z"
+  },
+  {
+    "login": "sihambordjah",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92516664?s=72&u=5852ce23d939949626568d768e99271e9a7aedd9&v=4",
+    "location": "70 rue bonnevide, 93200 saint denis",
+    "company": "",
+    "twitterUsername": "BordjahSiham",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 94,
+    "createdAt": "2021-10-14T09:32:42Z"
   }
 ]

@@ -2410,5 +2410,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-01T17:53:50Z"
+  },
+  {
+    "login": "pythonnelson",
+    "name": "Isaac NSB Kargbo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77267910?s=72&u=b86824f40ca70f2d5b7f8d34000d379ffb709457&v=4",
+    "location": "Freetown",
+    "company": "CIO and Founder of Oversight Innovative Technologies",
+    "twitterUsername": "pythonnelson",
+    "followers": 34,
+    "privateContributions": 1102,
+    "publicContributions": 40,
+    "createdAt": "2021-01-11T08:42:10Z"
+  },
+  {
+    "login": "philipbangs",
+    "name": "Dev_Philp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91394900?s=72&u=db361d6c9551a0dd0c9d559f6f2d5cadbcfa3234&v=4",
+    "location": "Freetown",
+    "company": "",
+    "twitterUsername": "ProxyPhilip",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-25T22:20:10Z"
+  },
+  {
+    "login": "mohamedadamssesay",
+    "name": "Mohamed Adams Sesay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77305229?s=72&u=d30ce58e9965e4c1363008970411394bc4467ca5&v=4",
+    "location": "Freetown",
+    "company": "Chozen Generation Sierra Leone",
+    "twitterUsername": "sesay_adams",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-11T23:07:44Z"
+  },
+  {
+    "login": "DevClass2023",
+    "name": "Devs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82089844?s=72&u=a551ac82cabfd998a8cbbdf4d5cb8153a8746939&v=4",
+    "location": "FREETOWN",
+    "company": "YESTECHSOLUTIONS.SL",
+    "twitterUsername": "BAKARR",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2021-04-07T09:41:47Z"
   }
 ]

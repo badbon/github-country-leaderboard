@@ -478,5 +478,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-08T07:35:00Z"
+  },
+  {
+    "login": "KevinGiampaolo",
+    "name": "Bepo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100704663?s=72&u=262c56e11b98f824fa8959b4d3dd0ac293944087&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2022-03-01T15:03:04Z"
+  },
+  {
+    "login": "rodriguezarthur",
+    "name": "Arthur Rodriguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110430299?s=72&u=4362cd7c439cf7746a8417fdefd8ad6ff22852d3&v=4",
+    "location": "Monaco",
+    "company": "Monaco Digital",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 8,
+    "publicContributions": 6,
+    "createdAt": "2022-08-01T22:10:39Z"
+  },
+  {
+    "login": "NSH-9",
+    "name": "NSH-9",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102466716?s=72&u=c1ae795fac16346e90cab4b6d07c0009af4f6893&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-27T11:21:36Z"
+  },
+  {
+    "login": "Elysys",
+    "name": "Elysys SARL",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110692417?s=72&u=ae021c9e474ff26fa7d89bc4cc3d60844c7dafb4&v=4",
+    "location": "Monaco",
+    "company": "Elysys SARL",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-05T18:30:05Z"
+  },
+  {
+    "login": "L0cky-19",
+    "name": "L0cky19",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104598444?s=72&u=a57b883c20bfce40b417fdc7ab962c3b0761542c&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 70,
+    "publicContributions": 4,
+    "createdAt": "2022-04-28T21:17:31Z"
+  },
+  {
+    "login": "SaiyanDionysus",
+    "name": "Denis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110183132?s=72&u=fe19dbc26dc9a7ee9783beda200c5a34eb6cfd5c&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 32,
+    "publicContributions": 4,
+    "createdAt": "2022-07-28T14:39:00Z"
   }
 ]

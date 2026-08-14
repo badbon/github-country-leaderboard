@@ -14290,5 +14290,77 @@
     "privateContributions": 0,
     "publicContributions": 38,
     "createdAt": "2024-12-20T12:44:11Z"
+  },
+  {
+    "login": "YizheXie",
+    "name": "Yizhe Xie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147801954?s=72&u=eec2bd805362f36233cd5db295983f60e6b53e98&v=4",
+    "location": "Macau, China",
+    "company": "City University of Macau",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2023-10-13T07:05:39Z"
+  },
+  {
+    "login": "chnyutao",
+    "name": "Yutao Chen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143675843?s=72&u=17440556c0fccc035d29af5b213cb46f4b8ad357&v=4",
+    "location": "Macau SAR, China",
+    "company": "University of Macau",
+    "twitterUsername": "chnyutao",
+    "followers": 5,
+    "privateContributions": 160,
+    "publicContributions": 66,
+    "createdAt": "2023-08-31T02:40:24Z"
+  },
+  {
+    "login": "ChenHuangMUST",
+    "name": "Huang Chen's lab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135127832?s=72&v=4",
+    "location": "Avenida Wai Long, Taipa, Macau, China",
+    "company": "Macau University of Sciences and Technology",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2023-05-31T12:04:06Z"
+  },
+  {
+    "login": "Gracebio",
+    "name": "Grace",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131348241?s=72&u=bf78d40853a2b67558380fc951df479b25c44932&v=4",
+    "location": "Macau, China",
+    "company": "University of Macau",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-20T08:33:08Z"
+  },
+  {
+    "login": "tuzibr",
+    "name": "tuzibr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/140164137?s=72&u=9f0a147faf03cced96da87cc72e08e9ba2de7e87&v=4",
+    "location": "Macau, China",
+    "company": "University of Macau",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2023-07-21T10:33:42Z"
+  },
+  {
+    "login": "wolf111108",
+    "name": "Wang Lianfeng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144582123?s=72&v=4",
+    "location": "University of Macau Avenida da Universidade Taipa, Macau, China",
+    "company": "University of Macau",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-10T06:17:38Z"
   }
 ]
