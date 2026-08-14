@@ -5251,7 +5251,7 @@
     "company": "Antena 1",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 108,
+    "privateContributions": 224,
     "publicContributions": 2,
     "createdAt": "2026-05-04T14:48:43Z"
   },
@@ -18680,7 +18680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 22,
     "createdAt": "2026-04-14T18:55:15Z"
   },
   {
@@ -18872,7 +18872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 131,
     "createdAt": "2026-03-10T12:23:36Z"
   },
   {
@@ -18883,7 +18883,7 @@
     "company": "@TeachLabs ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1639,
+    "privateContributions": 1650,
     "publicContributions": 15,
     "createdAt": "2026-04-24T21:55:23Z"
   },
@@ -18895,8 +18895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 334,
-    "publicContributions": 10,
+    "privateContributions": 346,
+    "publicContributions": 11,
     "createdAt": "2026-03-14T09:20:27Z"
   },
   {
@@ -19064,7 +19064,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 49,
     "createdAt": "2026-04-09T14:31:41Z"
   },
   {
@@ -19484,7 +19484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 24,
     "createdAt": "2026-03-16T02:59:24Z"
   },
   {
@@ -28030,5 +28030,41 @@
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2024-04-08T12:20:35Z"
+  },
+  {
+    "login": "joaolucasoliveiradev",
+    "name": "Lucas Oliveira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266768025?s=72&u=38cb01a0081a1a3af3b239fbdacead455471445b&v=4",
+    "location": "Patos, Paraíba, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2026-03-09T14:40:05Z"
+  },
+  {
+    "login": "LuizFelipeCouto",
+    "name": "Luiz Couto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284012054?s=72&u=33ca7885d6d1b236080a476956b3592b602ae7a9&v=4",
+    "location": "Brasil",
+    "company": "@SumUp",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-12T13:46:46Z"
+  },
+  {
+    "login": "bomrillaz",
+    "name": "João Victor ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284073692?s=72&u=06e102e2c31677aa51e82d4a9cb0bdf6ea1387ed&v=4",
+    "location": "Brasil",
+    "company": "JhoonnVictor",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 294,
+    "createdAt": "2026-05-12T17:02:05Z"
   }
 ]

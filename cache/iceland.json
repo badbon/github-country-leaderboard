@@ -1030,5 +1030,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-02-09T23:46:23Z"
+  },
+  {
+    "login": "MiladKowsari",
+    "name": "Milad Kowsari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167074821?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "University of Iceland",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-15T09:09:47Z"
+  },
+  {
+    "login": "avivasachs",
+    "name": "Aviva Sachs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167924539?s=72&u=9ba7d9f5529b75da75277d58daf535b3225e2bdd&v=4",
+    "location": "minnesota, boston, reykjavik ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2024-04-23T21:34:04Z"
   }
 ]

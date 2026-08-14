@@ -3895,7 +3895,7 @@
     "company": "NTSprint",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 941,
+    "privateContributions": 945,
     "publicContributions": 3,
     "createdAt": "2023-08-31T20:20:15Z"
   },
@@ -4786,5 +4786,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-19T23:51:28Z"
+  },
+  {
+    "login": "Alanpro204",
+    "name": "Alain Torres Rodriguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142280726?s=72&u=ba5878b5073bd8a9ad35481e76ca9828d1015a11&v=4",
+    "location": "Havana",
+    "company": "Alanprodev",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2023-08-15T01:55:03Z"
+  },
+  {
+    "login": "carloshdez522",
+    "name": "Carlos Hernández",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138955205?s=72&u=4500ff7166d4c0f9d7fadfc75a8e70a588dc84ec&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "CHdez_522",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 87,
+    "createdAt": "2023-07-08T03:24:24Z"
+  },
+  {
+    "login": "HurshelDeSouza",
+    "name": "Hurshel DeSouza Noguera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136677084?s=72&u=917a4a17bcfde6b61f5544feddbca4e36b625f31&v=4",
+    "location": "La Havana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 118,
+    "createdAt": "2023-06-15T05:40:14Z"
+  },
+  {
+    "login": "josej44",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145468900?s=72&v=4",
+    "location": "Havana",
+    "company": "University of Havana",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2023-09-19T13:54:31Z"
+  },
+  {
+    "login": "Gui2258",
+    "name": "Guido",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128822986?s=72&u=b8cfb136b45788a330f35cbcaebf2f9e43d225ba&v=4",
+    "location": "Havana",
+    "company": "Tecopos",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1821,
+    "publicContributions": 9,
+    "createdAt": "2023-03-24T14:25:14Z"
+  },
+  {
+    "login": "JackNegro",
+    "name": "Christian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147460406?s=72&u=4b3f39cb5f2a551d759be71869019f6b2d8e56e1&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-10T02:11:47Z"
   }
 ]

@@ -322,5 +322,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-15T17:24:00Z"
+  },
+  {
+    "login": "codyregis6891",
+    "name": "Cody Regis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78313275?s=72&u=9ce46371e14157433ca2b7508629335c5e5cbf0b&v=4",
+    "location": "Georgetown, Kentucky",
+    "company": "Tyler Technologies",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 930,
+    "publicContributions": 0,
+    "createdAt": "2021-01-31T16:24:31Z"
+  },
+  {
+    "login": "StevenSchmidtAusTex",
+    "name": "Steven Schmidt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94488329?s=72&u=8b09d783c758c2ba15134b12adb9bebed50e36ec&v=4",
+    "location": "Georgetown, TX",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2021-11-16T20:47:10Z"
+  },
+  {
+    "login": "ErinBorbee",
+    "name": "Erin Borbee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83471431?s=72&u=b156859974971cdcdd1c7c5ffe1f37b711179657&v=4",
+    "location": "Georgetown, TX",
+    "company": "Southwestern University",
+    "twitterUsername": "ErinBorbee",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2021-04-30T18:17:05Z"
+  },
+  {
+    "login": "joelecooper",
+    "name": "Joel Cooper",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79475474?s=72&u=a85274c67a5a7ddd1a98032fd68ca39b3eeeee7f&v=4",
+    "location": "Georgetown, Texas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-22T18:30:22Z"
+  },
+  {
+    "login": "Shaurya1505",
+    "name": "Shaurya Guliani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77247679?s=72&u=459a14388029265546433291814160949b37b363&v=4",
+    "location": "Georgetown, Ontario",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-10T20:32:04Z"
   }
 ]

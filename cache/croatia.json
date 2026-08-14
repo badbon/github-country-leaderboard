@@ -4426,5 +4426,65 @@
     "privateContributions": 60,
     "publicContributions": 9,
     "createdAt": "2023-04-18T10:11:48Z"
+  },
+  {
+    "login": "gatotobi",
+    "name": "tobias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127202109?s=72&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2023-03-07T10:59:10Z"
+  },
+  {
+    "login": "dblazevic21",
+    "name": "dblazevic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126473943?s=72&u=b801a8c7e40cdf8a4cf26114fd355c3b0feb864c&v=4",
+    "location": "Hrvatska",
+    "company": "@foivz",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 60,
+    "publicContributions": 140,
+    "createdAt": "2023-02-27T11:57:50Z"
+  },
+  {
+    "login": "pukzyz-wyKru6-vemcas",
+    "name": "IgorOgor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126534939?s=72&v=4",
+    "location": "Hrvatska Zagreb ",
+    "company": "Comitet suicid",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-28T02:02:20Z"
+  },
+  {
+    "login": "lukaanicantic",
+    "name": "lukaanicantic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146169909?s=72&u=0ca4364f150b9883016e9c1012dec9a50835abac&v=4",
+    "location": "Zagreb, Hrvatska",
+    "company": "Eskalacija tisine",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2023-09-27T07:16:48Z"
+  },
+  {
+    "login": "scoteka",
+    "name": "Stefani Zustovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136121947?s=72&u=5b53872225c52f49fd94b16b2b68a18553f0be0a&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-09T19:37:30Z"
   }
 ]

@@ -754,5 +754,29 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2018-08-29T15:01:43Z"
+  },
+  {
+    "login": "Naseconox",
+    "name": "Eugene Radionov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39647233?s=72&v=4",
+    "location": "George Town, MY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-26T10:20:22Z"
+  },
+  {
+    "login": "elenanelmes",
+    "name": "Elena Nelmes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37127745?s=72&v=4",
+    "location": "George Town, KY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-07T01:18:49Z"
   }
 ]

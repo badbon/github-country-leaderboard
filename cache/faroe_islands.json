@@ -22,5 +22,41 @@
     "privateContributions": 0,
     "publicContributions": 127,
     "createdAt": "2024-04-02T12:17:30Z"
+  },
+  {
+    "login": "florisflq",
+    "name": "Fludon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130797064?s=72&u=16a1de63da60af8d59e677dea9c2baa73f8d837b&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-14T20:22:04Z"
+  },
+  {
+    "login": "michaelgyp",
+    "name": "Michael Gusti Yanu Putra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137516611?s=72&u=2e6e11d35ef8deffa5c2f8797712e06070f3dbba&v=4",
+    "location": "Faroe Islands",
+    "company": "BitImpact",
+    "twitterUsername": "the_mgyp",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 167,
+    "createdAt": "2023-06-23T13:45:09Z"
+  },
+  {
+    "login": "HansK-ETV",
+    "name": "Hans Kristian Eyðunsson Hansen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121866367?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "ETV.fo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-03T11:18:53Z"
   }
 ]
