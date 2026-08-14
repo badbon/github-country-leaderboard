@@ -250,5 +250,53 @@
     "privateContributions": 35,
     "publicContributions": 12,
     "createdAt": "2022-03-22T19:13:31Z"
+  },
+  {
+    "login": "tvntvn13",
+    "name": "Taneli Mäkihannu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88155130?s=72&u=4b97e5ef035e755d24531d3cd175c2d0043a9feb&v=4",
+    "location": "Mariehamn, Åland Islands",
+    "company": "@pafcloud",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 38,
+    "publicContributions": 2,
+    "createdAt": "2021-07-29T15:56:17Z"
+  },
+  {
+    "login": "dianabelled",
+    "name": "Diana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93764287?s=72&v=4",
+    "location": "Åland Islands, Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-05T08:44:19Z"
+  },
+  {
+    "login": "georg-tsonoulis",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78323886?s=72&v=4",
+    "location": "Åland Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-31T21:42:06Z"
+  },
+  {
+    "login": "j-malmlund",
+    "name": "Joachim Malmlund",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78237011?s=72&v=4",
+    "location": "Åland Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-29T21:59:23Z"
   }
 ]

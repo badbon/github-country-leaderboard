@@ -226,5 +226,29 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2013-03-06T04:14:32Z"
+  },
+  {
+    "login": "bryanrscott",
+    "name": "Bryan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4473505?s=72&u=3c9d7d83f25f2f3f574a01df3a4030116dac5d56&v=4",
+    "location": "Honiara",
+    "company": "FFA",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-05-19T21:54:32Z"
+  },
+  {
+    "login": "filimoni",
+    "name": "filimoni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5733087?s=72&u=9ccc14950b38d16f664d1d20690c0feb7db0b7ae&v=4",
+    "location": "Honiara",
+    "company": "FFA",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 3569,
+    "publicContributions": 0,
+    "createdAt": "2013-10-20T23:12:59Z"
   }
 ]

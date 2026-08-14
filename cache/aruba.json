@@ -430,5 +430,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-04-11T03:18:49Z"
+  },
+  {
+    "login": "voedito",
+    "name": "Voedito",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1949793?s=72&u=859e8d6ad7684441c5a373c6d1dfea66b2c97e1f&v=4",
+    "location": "Aruba",
+    "company": "BIVI Business Solutions",
+    "twitterUsername": "voedito",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-10T13:05:09Z"
+  },
+  {
+    "login": "ivanfeli",
+    "name": "Ivan Feliciano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1448157?s=72&u=b43b24dac412c9f08aa020c1273cc4c2b8e32a8b&v=4",
+    "location": "Aruba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-02-18T00:22:21Z"
   }
 ]

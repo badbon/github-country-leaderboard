@@ -1066,5 +1066,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2013-10-28T17:54:27Z"
+  },
+  {
+    "login": "jimidle",
+    "name": "Jim Idle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1309104?s=72&u=2c4bdd6ed6c02708c8a2e6ef5a44034e7cd89777&v=4",
+    "location": "Hopkins, Belize",
+    "company": "@databrickslabs ",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 1531,
+    "publicContributions": 84,
+    "createdAt": "2012-01-06T10:31:42Z"
+  },
+  {
+    "login": "happyherp",
+    "name": "Carlos Freund",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2945814?s=72&v=4",
+    "location": "Belize",
+    "company": "Self Employed",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 165,
+    "publicContributions": 758,
+    "createdAt": "2012-12-02T18:46:21Z"
+  },
+  {
+    "login": "superfantasticawesome",
+    "name": "Gerard Ryan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1958900?s=72&u=a1d0dd748a77b1e0a73af6405fcbac005b8de653&v=4",
+    "location": "Belize",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-11T20:27:07Z"
   }
 ]

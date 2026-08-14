@@ -10222,5 +10222,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-12T06:06:49Z"
+  },
+  {
+    "login": "wares-10",
+    "name": "Wares Ghani Zada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112744559?s=72&u=cbc6af191a14ffc1d0ecaf71c1c7dab42a5269f9&v=4",
+    "location": "Kabul",
+    "company": "Afghan House Group",
+    "twitterUsername": "wares_10",
+    "followers": 1,
+    "privateContributions": 413,
+    "publicContributions": 18,
+    "createdAt": "2022-09-03T05:10:05Z"
+  },
+  {
+    "login": "Kkushyar",
+    "name": "فقط خدا",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99718409?s=72&u=52bf1f6b9507eda1f6f74acacd6ce187a9eb2f2b&v=4",
+    "location": "New Kabul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-15T08:09:12Z"
+  },
+  {
+    "login": "mjb100rahman",
+    "name": "mjb rahman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114256385?s=72&u=2ed810db127c861b76756230ce43f7c2991d2c32&v=4",
+    "location": "afghanIstanbul kabul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-23T18:43:14Z"
   }
 ]

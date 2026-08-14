@@ -10102,5 +10102,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-16T12:48:01Z"
+  },
+  {
+    "login": "patrikcelko",
+    "name": "Patrik Čelko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78399435?s=72&u=65658757ddb4ee372b2fd51ea041c6f5345397e9&v=4",
+    "location": "Slovak Republic (Slovakia)",
+    "company": "@mergado",
+    "twitterUsername": "PatrikCelko",
+    "followers": 3,
+    "privateContributions": 514,
+    "publicContributions": 186,
+    "createdAt": "2021-02-02T04:28:15Z"
+  },
+  {
+    "login": "meritamas",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87375070?s=72&v=4",
+    "location": "Komárno, Slovak Republic",
+    "company": "MT & M Enterprises",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-13T13:08:04Z"
   }
 ]

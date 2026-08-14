@@ -1342,5 +1342,65 @@
     "privateContributions": 0,
     "publicContributions": 74,
     "createdAt": "2013-12-12T14:58:18Z"
+  },
+  {
+    "login": "garthhumphreys",
+    "name": "Garth Humphreys",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1590401?s=72&u=527e7137bf4b30cae060f042fc4a19b729445d15&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "garthhumphreys",
+    "followers": 18,
+    "privateContributions": 211,
+    "publicContributions": 1,
+    "createdAt": "2012-03-30T12:57:31Z"
+  },
+  {
+    "login": "krciga22",
+    "name": "Andrew Forster",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1588202?s=72&u=2036ca9e20a12c37880452f38774a8b21e731414&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 466,
+    "createdAt": "2012-03-29T19:09:10Z"
+  },
+  {
+    "login": "twhittakerdev",
+    "name": "Thomas Whittaker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1518412?s=72&v=4",
+    "location": "Cayman Islands",
+    "company": "Systems Engineer",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-09T01:25:39Z"
+  },
+  {
+    "login": "MarcGervais",
+    "name": "Marc Gervais",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1890204?s=72&u=79b87bc360350aecf61b1aefdb95efc3f526e195&v=4",
+    "location": "Cayman Islands",
+    "company": "Marc Gervais",
+    "twitterUsername": "MarcGervais97",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-06-25T15:24:28Z"
+  },
+  {
+    "login": "aramir",
+    "name": "Anton Parygin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2984000?s=72&u=314501e53dfec2468f29275f6953f873cace2954&v=4",
+    "location": "George Town, Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2012-12-06T21:30:01Z"
   }
 ]

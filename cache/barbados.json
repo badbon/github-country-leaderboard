@@ -1474,5 +1474,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-06-25T23:01:33Z"
+  },
+  {
+    "login": "lukehefson",
+    "name": "Luke Hefson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1469659?s=72&u=979ff49dcce9373d449a909041932b96d44267e8&v=4",
+    "location": "Barbados",
+    "company": "@workbrew",
+    "twitterUsername": "lukehefson",
+    "followers": 273,
+    "privateContributions": 709,
+    "publicContributions": 190,
+    "createdAt": "2012-02-24T13:54:44Z"
+  },
+  {
+    "login": "hammertoe",
+    "name": "Matt Hamilton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1651303?s=72&u=973521d652b461d44beeeb5c852504f226656c29&v=4",
+    "location": "Barbados",
+    "company": "Dharach ",
+    "twitterUsername": "hammertoe",
+    "followers": 84,
+    "privateContributions": 3895,
+    "publicContributions": 723,
+    "createdAt": "2012-04-17T10:02:18Z"
+  },
+  {
+    "login": "EnSabanNur",
+    "name": "Ben Clark",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1994455?s=72&u=b7c6f51cb667e453816898fa97dffbf0e6393bfb&v=4",
+    "location": "Christ Church, Barbados",
+    "company": "@smithai ",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 238,
+    "publicContributions": 0,
+    "createdAt": "2012-07-17T22:15:07Z"
+  },
+  {
+    "login": "BarbadosPropertyList",
+    "name": "Barbados Property List",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1721300?s=72&v=4",
+    "location": "Barbados",
+    "company": "Barbados Property List",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-05-09T10:54:04Z"
   }
 ]

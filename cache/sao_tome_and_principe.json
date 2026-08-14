@@ -142,5 +142,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-14T16:11:11Z"
+  },
+  {
+    "login": "nevesade",
+    "name": " NEVES ADENASIO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72794494?s=72&v=4",
+    "location": "São Tomé e Príncipe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2020-10-13T09:39:28Z"
+  },
+  {
+    "login": "JoaoNoel",
+    "name": "JoaoNoel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67752072?s=72&u=8a0ddd7c8b66f6adac36899a6975d023e904152d&v=4",
+    "location": "São Tomé e Príncipe",
+    "company": "Ministério da Educação e Ensino Superior",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-07-02T15:49:21Z"
+  },
+  {
+    "login": "joaopontifice",
+    "name": "John",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71882287?s=72&u=3cdeb3fc32ae0c2d273d6e63f03a868a34e50fa0&v=4",
+    "location": "Água Grande, São Tomé e Príncipe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 127,
+    "publicContributions": 2,
+    "createdAt": "2020-09-25T11:49:29Z"
+  },
+  {
+    "login": "Jivaldo-Cruz",
+    "name": "Jivaldo Da Cruz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62484540?s=72&u=f12d1a7c7df279941064791924f616adce20a695&v=4",
+    "location": "São Tomé e Principe",
+    "company": "SanCode",
+    "twitterUsername": "Jivaldo67839615",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-21T20:41:21Z"
+  },
+  {
+    "login": "Andre-Dalva",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68297104?s=72&v=4",
+    "location": "São Tomé e Principe ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 65,
+    "createdAt": "2020-07-14T18:10:15Z"
   }
 ]
