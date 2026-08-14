@@ -15922,5 +15922,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-08-19T08:29:30Z"
+  },
+  {
+    "login": "PL00T00",
+    "name": "Jame",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206479197?s=72&v=4",
+    "location": "Canberra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 490,
+    "createdAt": "2025-04-07T00:11:05Z"
+  },
+  {
+    "login": "sheinyuri",
+    "name": "Yuri Sheinker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201752137?s=72&u=c33e0fdb94eace1587ecf0af7b51c1e3631778fa&v=4",
+    "location": "Canberra",
+    "company": "Australian National University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2025-03-04T12:49:14Z"
+  },
+  {
+    "login": "sal3190570",
+    "name": "Salman Awal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194859390?s=72&u=5daacc0c398221e06eaae34c48772c67a4715863&v=4",
+    "location": "Canberra, ACT",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 29,
+    "publicContributions": 1575,
+    "createdAt": "2025-01-13T22:59:13Z"
+  },
+  {
+    "login": "RossHat",
+    "name": "Rose",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/249543952?s=72&v=4",
+    "location": "Canberra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-12-14T07:01:07Z"
+  },
+  {
+    "login": "adammazechen",
+    "name": "Adam Ma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238811307?s=72&u=f3859900c726852e254c800211788d8fc26e0877&v=4",
+    "location": "Canberra, ACT",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2025-10-18T06:47:33Z"
+  },
+  {
+    "login": "IngSoc1984NewHope",
+    "name": "Yaan Song",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195250085?s=72&u=6a6a940ee48c9d6648a2a1719eb56a830bfefa69&v=4",
+    "location": "Canberra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2,
+    "publicContributions": 2,
+    "createdAt": "2025-01-16T02:23:09Z"
   }
 ]

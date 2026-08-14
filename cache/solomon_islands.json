@@ -154,5 +154,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-04-04T00:36:21Z"
+  },
+  {
+    "login": "anikwai",
+    "name": "Watson  Cyrus Anikwai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15828026?s=72&u=db9e5641628235a01b29ebb6aa94c9dc9a117d57&v=4",
+    "location": "Solomon Islands",
+    "company": "Our Telekom",
+    "twitterUsername": "wanikwai",
+    "followers": 32,
+    "privateContributions": 7718,
+    "publicContributions": 34,
+    "createdAt": "2015-11-13T04:57:37Z"
+  },
+  {
+    "login": "masachi",
+    "name": "YukinoshitaKyaru",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16058804?s=72&u=0f55e35b3080dc4dc0d634e159f384121423f948&v=4",
+    "location": "Solomon Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2015-11-28T13:18:13Z"
   }
 ]

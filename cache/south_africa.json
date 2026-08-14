@@ -14830,5 +14830,65 @@
     "privateContributions": 899,
     "publicContributions": 0,
     "createdAt": "2025-03-10T11:01:22Z"
+  },
+  {
+    "login": "Thabile05",
+    "name": "Thabile Serepo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211827242?s=72&v=4",
+    "location": "Pretoria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-05-15T12:31:56Z"
+  },
+  {
+    "login": "SentriKasi",
+    "name": "Mxolisi Masango",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211953617?s=72&v=4",
+    "location": "Pretoria ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2025-05-16T08:24:30Z"
+  },
+  {
+    "login": "GivenMoreke",
+    "name": "Reitumetse Given Moreke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214722026?s=72&v=4",
+    "location": "Pretoria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2025-06-03T20:03:45Z"
+  },
+  {
+    "login": "Grandgather",
+    "name": "Grand Gather Registry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/218309574?s=72&u=ae6bad5386a2e67b136f83ac4e2c0eecdedf7a4c&v=4",
+    "location": "Pretoria",
+    "company": "Grand Gather Registry",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-06-27T22:02:37Z"
+  },
+  {
+    "login": "jony4sure",
+    "name": "Thobani Mhlongo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211329335?s=72&v=4",
+    "location": "Pretoria",
+    "company": "Universiteit Hasselt",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-05-12T10:44:51Z"
   }
 ]

@@ -178,5 +178,53 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-09-13T08:13:42Z"
+  },
+  {
+    "login": "Ramona-Ekanayake",
+    "name": "Ramona Ekanayake",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120604405?s=72&u=859f2534d4b794fb885cbb57e436bcd39e7a7961&v=4",
+    "location": "Åland Islands",
+    "company": "grit:lab",
+    "twitterUsername": "Ramzy_dev",
+    "followers": 60,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-14T21:47:21Z"
+  },
+  {
+    "login": "cenk-idris",
+    "name": "Cenk İdris İncirkuş",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114963355?s=72&u=47ca111526be4d75376d606bfc810c04541fd56e&v=4",
+    "location": "Åland Islands, Finland",
+    "company": "grit:lab",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 62,
+    "publicContributions": 0,
+    "createdAt": "2022-10-04T00:04:58Z"
+  },
+  {
+    "login": "ejmilli",
+    "name": "eliza john",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112093038?s=72&v=4",
+    "location": " Åland Islands, Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 187,
+    "publicContributions": 46,
+    "createdAt": "2022-08-25T13:11:18Z"
+  },
+  {
+    "login": "FuscusLucian",
+    "name": "Lucian Svelic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121014288?s=72&v=4",
+    "location": "Finland, Åland Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-12-19T08:43:16Z"
   }
 ]

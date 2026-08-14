@@ -18214,5 +18214,41 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2025-07-30T09:02:54Z"
+  },
+  {
+    "login": "pardis-mdd",
+    "name": "Pardis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154790380?s=72&v=4",
+    "location": "Urmia, West Azerbaijan Province, Iran",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 1390,
+    "publicContributions": 0,
+    "createdAt": "2023-12-25T07:01:45Z"
+  },
+  {
+    "login": "amirBDizaji",
+    "name": "Amir Bagherzadeh Dizaji",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134970978?s=72&u=1613fa05f2eb9ac94de7ac666f0bc0c34d52858b&v=4",
+    "location": "Iran, East Azerbaijan Province, Azarshahr",
+    "company": "Afra Pardazesh Kara Co.",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2023-05-29T20:18:59Z"
+  },
+  {
+    "login": "arian2789a",
+    "name": "Arian_Abbaszadeh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138102389?s=72&u=5119a7db1e13e33004b3a2e4341b8e6122337494&v=4",
+    "location": "Iran, East Azerbaijan Province, Tabriz",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 42,
+    "publicContributions": 14,
+    "createdAt": "2023-06-29T07:19:50Z"
   }
 ]
