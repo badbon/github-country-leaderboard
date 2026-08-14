@@ -22135,7 +22135,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
+    "privateContributions": 500,
     "publicContributions": 3,
     "createdAt": "2026-01-14T16:56:21Z"
   },
@@ -22196,7 +22196,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 27,
     "createdAt": "2026-02-26T16:38:07Z"
   },
   {
@@ -22435,7 +22435,7 @@
     "company": "@grupovoetur",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 34,
+    "privateContributions": 35,
     "publicContributions": 1,
     "createdAt": "2026-02-27T16:23:25Z"
   },
@@ -22615,7 +22615,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 121,
+    "privateContributions": 124,
     "publicContributions": 23,
     "createdAt": "2026-01-17T14:18:53Z"
   },
@@ -22868,7 +22868,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2026-01-05T13:27:28Z"
   },
   {
@@ -22879,8 +22879,8 @@
     "company": "Prisma Stack Studio",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2194,
-    "publicContributions": 138,
+    "privateContributions": 2217,
+    "publicContributions": 136,
     "createdAt": "2025-12-29T22:48:02Z"
   },
   {
@@ -23048,7 +23048,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 21,
-    "publicContributions": 84,
+    "publicContributions": 91,
     "createdAt": "2026-01-23T03:37:16Z"
   },
   {
@@ -23083,7 +23083,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 6411,
+    "privateContributions": 6436,
     "publicContributions": 489,
     "createdAt": "2026-02-20T17:01:21Z"
   },
@@ -23130,7 +23130,7 @@
     "location": "Brazil",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 55,
     "createdAt": "2026-01-16T03:14:42Z"
@@ -28534,5 +28534,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-09T13:52:42Z"
+  },
+  {
+    "login": "Dexart2026",
+    "name": "Dexart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265813791?s=72&u=b7a8af88eb9bef6d0e91c65fb8722f0e7cf8b9ff&v=4",
+    "location": "Brazil 🇧🇷",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2026-03-05T13:15:45Z"
+  },
+  {
+    "login": "RodrigoFariassilva",
+    "name": "Rodrigo Farias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166635869?s=72&u=f3eca859373b121a01b75f4b1ab05ba636b6ef0f&v=4",
+    "location": "Avenida República do Chile - Centro - Rio de Janeiro, RJ",
+    "company": "Banco do Brasil",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 66,
+    "createdAt": "2024-04-10T15:24:31Z"
   }
 ]

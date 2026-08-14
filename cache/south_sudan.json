@@ -1270,5 +1270,41 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2020-02-29T09:16:47Z"
+  },
+  {
+    "login": "DalsinaLorda",
+    "name": "Dhieu Azuma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67822643?s=72&u=e064d370edeb4a0e428bced42c1d910678d4aed7&v=4",
+    "location": "juba",
+    "company": "deepdream tech",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2020-07-04T08:51:54Z"
+  },
+  {
+    "login": "ayudmin",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60848250?s=72&u=5ccbaa962be665189b95da05766cd5adb865c113&v=4",
+    "location": "Juba ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2020-02-09T14:38:26Z"
+  },
+  {
+    "login": "29CeeJee",
+    "name": "Chris Abaha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61116353?s=72&u=8ddbc13e23e68d1ab656369d99c773efedb46dc4&v=4",
+    "location": "Juba ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-02-16T14:58:35Z"
   }
 ]

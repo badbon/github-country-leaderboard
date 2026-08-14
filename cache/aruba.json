@@ -298,5 +298,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-03-31T08:36:54Z"
+  },
+  {
+    "login": "rendell",
+    "name": "Rendell de Kort",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10668732?s=72&u=d006f3721b1a56b09ee2b11d546b6009e1d1aa61&v=4",
+    "location": "Aruba",
+    "company": "Cornerstone Economics / Lovely Data",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 487,
+    "createdAt": "2015-01-23T10:46:11Z"
+  },
+  {
+    "login": "DushiRox",
+    "name": "Roxana Rodriguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16126066?s=72&u=aac09c54a442bd099aee0497c2a1b8e47001f161&v=4",
+    "location": "Oranjestad, Aruba",
+    "company": "NotionFlows",
+    "twitterUsername": "notionflows",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-02T23:38:56Z"
+  },
+  {
+    "login": "StephanZaat",
+    "name": "Stephan Zaat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15195218?s=72&u=83ec7b705f16983dbd9a640f3f2fdc2f0a7c631b&v=4",
+    "location": "Aruba",
+    "company": "ZOS Consultancy",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 84,
+    "createdAt": "2015-10-19T12:16:13Z"
+  },
+  {
+    "login": "Eastsideboy",
+    "name": "Marc-Ant H.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14337897?s=72&u=81285ac0371ac59836f020492b3dedd62ac6c2ce&v=4",
+    "location": "Aruba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-17T21:17:35Z"
   }
 ]

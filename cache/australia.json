@@ -15838,5 +15838,89 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-09-22T09:17:54Z"
+  },
+  {
+    "login": "LouisWCodes",
+    "name": "Louis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217189417?s=72&u=d76a4f9834132be0d6d1fe0f603a10b4bf290285&v=4",
+    "location": "Brisbane",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2025-06-20T10:21:07Z"
+  },
+  {
+    "login": "VarshniNagarajan29",
+    "name": "VarshniNagarajan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219844083?s=72&v=4",
+    "location": "Brisbane, QLD",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2025-07-08T12:16:12Z"
+  },
+  {
+    "login": "pickledsolutions",
+    "name": "Pete Langshaw",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235249811?s=72&u=194b21e1c0f49449adb3db6a1141b190161794c0&v=4",
+    "location": "Brisbane, QLD",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2025-09-30T06:36:20Z"
+  },
+  {
+    "login": "jason-cairns",
+    "name": "Jason Cairns",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219945641?s=72&u=2abb05c4ae52ad8bb4e1d94ec17069abcb7c447a&v=4",
+    "location": "Brisbane, QLD",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 479,
+    "publicContributions": 249,
+    "createdAt": "2025-07-09T03:11:57Z"
+  },
+  {
+    "login": "thisiskaysis",
+    "name": "Kaycee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229483552?s=72&u=0a7a9f73eaf436380c89654937a99f24ca6d29dc&v=4",
+    "location": "Brisbane, AU",
+    "company": "@SheCodesAus ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 741,
+    "createdAt": "2025-08-30T13:56:21Z"
+  },
+  {
+    "login": "DazzaF0Day",
+    "name": "DazzaF0Day",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209594096?s=72&u=f8bf9ce64f2456ead607bbbe2a8a7edc72a181e3&v=4",
+    "location": "Brisbane City, Queensland",
+    "company": "EzyCredit&Loans",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-04-29T06:38:28Z"
+  },
+  {
+    "login": "kazi-tabriz-nexz",
+    "name": "Kazi Tabriz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227350012?s=72&v=4",
+    "location": "Brisbane",
+    "company": "Nexz",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-08-19T08:29:30Z"
   }
 ]

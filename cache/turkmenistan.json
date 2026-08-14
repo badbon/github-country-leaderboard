@@ -5722,5 +5722,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-09-17T07:07:23Z"
+  },
+  {
+    "login": "MerlinEmris",
+    "name": "Merdan Chariyarov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24506754?s=72&u=b003e228271724862e0ca9cae33db4bea2974bd9&v=4",
+    "location": "Ashgabat",
+    "company": "IQFulfillment",
+    "twitterUsername": "marylydev",
+    "followers": 64,
+    "privateContributions": 371,
+    "publicContributions": 34,
+    "createdAt": "2016-12-11T12:52:16Z"
+  },
+  {
+    "login": "polatechno",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22784151?s=72&u=821ae75494d23586c0865a18a5207fb56940c2ad&v=4",
+    "location": "Ashgabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 141,
+    "publicContributions": 0,
+    "createdAt": "2016-10-12T03:50:43Z"
   }
 ]
