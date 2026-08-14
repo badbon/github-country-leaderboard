@@ -658,5 +658,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-07-24T10:42:38Z"
+  },
+  {
+    "login": "FreddieJH",
+    "name": "Freddie J. Heather",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30920629?s=72&u=4b943b8827834884c8e5cae4162acd3b03da6299&v=4",
+    "location": "Noumea, New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 257,
+    "publicContributions": 164,
+    "createdAt": "2017-08-11T05:51:55Z"
+  },
+  {
+    "login": "lschaeffer313",
+    "name": "Laurent Schaeffer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28922072?s=72&u=1d66c10462c98f37cc6063c30b05aad207b56f23&v=4",
+    "location": "New-Caledonia",
+    "company": "Gouvernement de la Nouvelle-Calédonie",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 782,
+    "publicContributions": 19,
+    "createdAt": "2017-05-24T10:29:19Z"
+  },
+  {
+    "login": "6pheR",
+    "name": "CipheR_",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26140030?s=72&u=64d759d5f217502926c4f91f09430c87d9e759af&v=4",
+    "location": "New Caledonia",
+    "company": "Mineria",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1348,
+    "publicContributions": 38,
+    "createdAt": "2017-03-02T12:08:25Z"
+  },
+  {
+    "login": "StefanSpeter",
+    "name": "Stefan Speter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32258096?s=72&u=5b763a031c0bd5bf539ff75a402d4da436511af0&v=4",
+    "location": "Nouméa (New Caledonia)",
+    "company": "",
+    "twitterUsername": "StefanSpeterDev",
+    "followers": 7,
+    "privateContributions": 135,
+    "publicContributions": 6,
+    "createdAt": "2017-09-25T07:10:54Z"
+  },
+  {
+    "login": "SoleneDerville",
+    "name": "Solène Derville",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33154773?s=72&u=abe8ccb27a706bb2cfe5c79baa412c147ba7f016&v=4",
+    "location": "Nouméa, New Caledonia",
+    "company": "UMR ENTROPIE, French Research Institute for Sustainable Development",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-27T12:54:48Z"
+  },
+  {
+    "login": "Julien-Fruteau",
+    "name": "Julien",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25820123?s=72&u=09794e10127c1e723dd04ae253d383cba871f7f7&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "jfruteau",
+    "followers": 2,
+    "privateContributions": 1013,
+    "publicContributions": 96,
+    "createdAt": "2017-02-16T12:40:29Z"
+  },
+  {
+    "login": "jlefur",
+    "name": "Jean LE FUR",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28783116?s=72&v=4",
+    "location": "New Caledonia",
+    "company": "IRD (Institut de Recherche pour le Développement) - France",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 59,
+    "createdAt": "2017-05-18T13:12:32Z"
+  },
+  {
+    "login": "ioanadraghici",
+    "name": "Ioana Draghici",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32151131?s=72&u=e5f6379e856c5ba24b5b467f147416ff94e26221&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-21T02:15:32Z"
   }
 ]

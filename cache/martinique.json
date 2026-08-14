@@ -526,5 +526,53 @@
     "privateContributions": 0,
     "publicContributions": 98,
     "createdAt": "2018-08-29T17:24:42Z"
+  },
+  {
+    "login": "jucollet972",
+    "name": "Julien COLLET",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33122625?s=72&u=988dd41b46d6d4200b79b3714d9758d6961aab75&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-26T11:44:01Z"
+  },
+  {
+    "login": "barbaracoding",
+    "name": "Barbara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30812995?s=72&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-07T22:06:03Z"
+  },
+  {
+    "login": "saya972",
+    "name": "SAYA972",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30759074?s=72&v=4",
+    "location": "MARTINIQUE",
+    "company": "SAYA CONCEPTION",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-05T21:14:34Z"
+  },
+  {
+    "login": "GenussDev",
+    "name": "Jeremy Lagier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28300013?s=72&u=b727b3b6c93097fc2f76e11bef35fc55aaddd7c2&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2017-05-02T12:42:42Z"
   }
 ]

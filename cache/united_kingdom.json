@@ -8470,5 +8470,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-27T15:08:35Z"
+  },
+  {
+    "login": "fenrissa92",
+    "name": "Samantha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178785253?s=72&u=af776ff37408451a5b728d8ef28234d23c86fafc&v=4",
+    "location": "Northern Ireland 💗",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-08-19T10:15:53Z"
+  },
+  {
+    "login": "chill-qub",
+    "name": "Claire Hill",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172262643?s=72&u=f0316ebb0926c1ce7420e8011f12f9377eeb6ea0&v=4",
+    "location": "Northern Ireland",
+    "company": "Queen's University Belfast",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-06-10T09:57:20Z"
+  },
+  {
+    "login": "andrewgrainger",
+    "name": "Andrew Grainger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185360852?s=72&u=9b53b592fe0b2b9726cc2c6a51004766dab2483c&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "MHS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-10-17T11:01:33Z"
+  },
+  {
+    "login": "sean17stephens",
+    "name": "Sean Stephens",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172515802?s=72&u=fb95c8d1550c8ca9de28ee34e66b0d7c4e8fe9d2&v=4",
+    "location": "Mullaghbawn, Armagh, Northern Ireland",
+    "company": "EOS IT Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-06-12T14:29:39Z"
+  },
+  {
+    "login": "kenitohenry",
+    "name": "Kenito Henry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32582494?s=72&u=60c7edb5e4cd7fb7fba219068db4c3277c915c93&v=4",
+    "location": "Manchester Jamaica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-06T21:11:26Z"
+  },
+  {
+    "login": "RafifAljuraybah",
+    "name": "Rafif Aljuraybah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199400463?s=72&u=ec7cf4ebba5ce046e50bcf87a580ba9ed2db8049&v=4",
+    "location": "Riyadh, KSA | Sheffield, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2025-02-15T19:16:09Z"
   }
 ]

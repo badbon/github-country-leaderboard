@@ -610,5 +610,89 @@
     "privateContributions": 0,
     "publicContributions": 94,
     "createdAt": "2021-10-14T09:32:42Z"
+  },
+  {
+    "login": "NotaSurgele",
+    "name": "Alexis Picard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69953258?s=72&u=435cac541121ba7b6c740ce0833d65f7365826b8&v=4",
+    "location": "Réunion",
+    "company": "Epitech",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 358,
+    "publicContributions": 22,
+    "createdAt": "2020-08-20T05:40:24Z"
+  },
+  {
+    "login": "r-fernandezz",
+    "name": "Romain Fernandez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64659994?s=72&u=2e6dda3ca079aa37253ea8be6db815d53fa2b045&v=4",
+    "location": "Réunion island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 109,
+    "publicContributions": 132,
+    "createdAt": "2020-05-01T18:49:55Z"
+  },
+  {
+    "login": "walcotty97",
+    "name": "walcotty97",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72802643?s=72&u=c96dac7601b7d5b725ee7d6220ed97b734fd82ee&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "rajao974",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-13T12:28:35Z"
+  },
+  {
+    "login": "FlaZSelo",
+    "name": "Holsteing Andy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61849714?s=72&u=8270d59ae8ec0acb03c227f0ee233d7219359c17&v=4",
+    "location": "Réunion",
+    "company": "Orange",
+    "twitterUsername": "FlaZSelo",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-05T20:50:46Z"
+  },
+  {
+    "login": "ludovicplt",
+    "name": "Ludovic PELTIER",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72000341?s=72&u=66ef334be5fdbde8f665ee88fff5f596f5081e6f&v=4",
+    "location": "Saint-Denis de la réunion",
+    "company": "EPITECH",
+    "twitterUsername": "ludopel20",
+    "followers": 2,
+    "privateContributions": 17,
+    "publicContributions": 9,
+    "createdAt": "2020-09-28T04:14:43Z"
+  },
+  {
+    "login": "Anderson-974",
+    "name": "Anderson Lebon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59648347?s=72&v=4",
+    "location": "Saint Denis, La Réunion",
+    "company": "University of Reunion Island",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-08T11:04:21Z"
+  },
+  {
+    "login": "theotrp",
+    "name": "Théo TURPIN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71956909?s=72&u=f677676a2190852112b206073e2144efc0aab8f9&v=4",
+    "location": "Réunion",
+    "company": "Unicorn Army",
+    "twitterUsername": "Shinobigames974",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-27T04:36:57Z"
   }
 ]

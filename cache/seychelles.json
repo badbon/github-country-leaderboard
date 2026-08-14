@@ -1006,5 +1006,41 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-01-10T05:19:04Z"
+  },
+  {
+    "login": "Denisu-San",
+    "name": "Denis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143231400?s=72&u=d6af850d08e7f6d80d21e6e05f44e701610a6af0&v=4",
+    "location": "Seychelles",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 84,
+    "publicContributions": 22,
+    "createdAt": "2023-08-25T23:28:01Z"
+  },
+  {
+    "login": "robin-lee-hamaty",
+    "name": "Robin Lee Hamaty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128592137?s=72&v=4",
+    "location": "Seychelles",
+    "company": "IT Sol",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2023-03-22T10:11:25Z"
+  },
+  {
+    "login": "AbbeyKimora",
+    "name": "Abbey Kimora",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142593821?s=72&u=3c6bbcc35657d8f44c980960e7f79e4195431500&v=4",
+    "location": "Victoria, Seychelles",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-18T11:39:40Z"
   }
 ]
