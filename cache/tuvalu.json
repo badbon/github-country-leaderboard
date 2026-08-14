@@ -118,5 +118,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-05-14T19:58:19Z"
+  },
+  {
+    "login": "enaros",
+    "name": "Emiliano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4212467?s=72&u=0a6b687e37a4c1a0507d75910b990719ee2c9e15&v=4",
+    "location": "Tuvalu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 849,
+    "publicContributions": 0,
+    "createdAt": "2013-04-20T20:49:30Z"
+  },
+  {
+    "login": "xubeiyan",
+    "name": "xubeiyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4469398?s=72&v=4",
+    "location": "Chenhai, Tuvalu(图瓦卢，辰海市)",
+    "company": "Moonsea Research Center of Chenhai University(辰海大学月海研究中心)",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 10,
+    "publicContributions": 88,
+    "createdAt": "2013-05-19T07:10:19Z"
   }
 ]

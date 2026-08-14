@@ -1066,5 +1066,101 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-06-04T16:49:53Z"
+  },
+  {
+    "login": "adriens",
+    "name": "SALES",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5235127?s=72&v=4",
+    "location": "Nouméa, New-Caledonia",
+    "company": "OPT-NC",
+    "twitterUsername": "rastadidi",
+    "followers": 75,
+    "privateContributions": 1021,
+    "publicContributions": 3447,
+    "createdAt": "2013-08-15T06:00:19Z"
+  },
+  {
+    "login": "gvdr",
+    "name": "Giulio Valentino Dalla Riva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4627111?s=72&v=4",
+    "location": "Noumea, New Caledonia",
+    "company": "Pacific Community | Communauté du Pacifique",
+    "twitterUsername": "",
+    "followers": 55,
+    "privateContributions": 0,
+    "publicContributions": 658,
+    "createdAt": "2013-06-06T04:08:32Z"
+  },
+  {
+    "login": "gronono",
+    "name": "Arnaud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5019335?s=72&u=8ceea8b89ac3f7e14c1cf764e375b0e66d1cb3b9&v=4",
+    "location": "New Caledonia",
+    "company": "University of New Caledonia",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-16T06:34:39Z"
+  },
+  {
+    "login": "Nem0oo",
+    "name": "Guillaume COURTOT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3356265?s=72&u=b64b4196ca3e4b98373292154ec34b19b5c7cf68&v=4",
+    "location": "New-Caledonia",
+    "company": "none",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 406,
+    "createdAt": "2013-01-23T15:47:52Z"
+  },
+  {
+    "login": "etiennetack",
+    "name": "Etienne Tack",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5456949?s=72&u=ba6738085ade14d11bc7073b203aae0b5338b06f&v=4",
+    "location": "New Caledonia",
+    "company": "University of New Caledonia",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 42,
+    "publicContributions": 1,
+    "createdAt": "2013-09-14T06:54:22Z"
+  },
+  {
+    "login": "120dev",
+    "name": "120",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4286701?s=72&v=4",
+    "location": "NEW CALEDONIA",
+    "company": "120DEV",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 948,
+    "publicContributions": 11,
+    "createdAt": "2013-04-29T07:04:01Z"
+  },
+  {
+    "login": "fabricebouye",
+    "name": "Fabrice Bouyé",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3598388?s=72&v=4",
+    "location": "Nouméa, New Caledonia",
+    "company": "Pacific Community",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 43,
+    "publicContributions": 1,
+    "createdAt": "2013-02-14T23:58:42Z"
+  },
+  {
+    "login": "Lowouik",
+    "name": "Loïc Basset",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5441099?s=72&v=4",
+    "location": "Noumea - New Caledonia",
+    "company": "Government of New Caledonia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-12T03:51:01Z"
   }
 ]

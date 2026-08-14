@@ -922,5 +922,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-04-05T08:27:59Z"
+  },
+  {
+    "login": "loupirl",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45992098?s=72&u=0690b7210b4d7870cc10fb9712a455eadc35fff6&v=4",
+    "location": "Saint-Ouen-sur-Seine, Saint-Denis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-19T08:47:22Z"
+  },
+  {
+    "login": "paris8-gsi",
+    "name": "Paris8 GSI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36765416?s=72&v=4",
+    "location": "Saint-Denis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-23T13:13:15Z"
   }
 ]

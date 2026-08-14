@@ -742,5 +742,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-10-13T18:16:13Z"
+  },
+  {
+    "login": "thetispro",
+    "name": "Leroy Eric",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3465383?s=72&u=4e52843c65499147bfed304cc062dd716101e1d7&v=4",
+    "location": "Martinique",
+    "company": "Gondwana Editions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-03T19:21:57Z"
+  },
+  {
+    "login": "mcserveur",
+    "name": "Constantin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4734054?s=72&v=4",
+    "location": "Martinique",
+    "company": "mc",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-19T02:10:03Z"
   }
 ]

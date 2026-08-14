@@ -106,5 +106,41 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-09-30T10:37:10Z"
+  },
+  {
+    "login": "iwtem",
+    "name": "Iwtem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76606053?s=72&u=f7287af9004e82cc525f6f2314423ba2deacb1e4&v=4",
+    "location": "Samoa",
+    "company": "American",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 31,
+    "publicContributions": 74,
+    "createdAt": "2020-12-26T04:10:36Z"
+  },
+  {
+    "login": "shifu-lin",
+    "name": "Chia Chen Lin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64111316?s=72&u=a304f2a5ef0c8071589abde2ef1b31752f3a9c61&v=4",
+    "location": "Apia, Samoa",
+    "company": "Computer Services Limited",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-21T23:58:45Z"
+  },
+  {
+    "login": "Tui-Vao",
+    "name": "Pompiliadae",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75277342?s=72&u=66bebe5538e14bba60007e26ae62f94c198cbf10&v=4",
+    "location": "Samoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-30T20:23:35Z"
   }
 ]

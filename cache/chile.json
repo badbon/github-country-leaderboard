@@ -10676,7 +10676,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 103,
     "createdAt": "2025-06-11T12:52:38Z"
   },
   {
@@ -21490,5 +21490,17 @@
     "privateContributions": 0,
     "publicContributions": 109,
     "createdAt": "2021-08-23T21:43:22Z"
+  },
+  {
+    "login": "VladimirMMS",
+    "name": "Vladimir Mercado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61054610?s=72&u=b9cdce739bf049d2980d206be6dd2ec64a413e04&v=4",
+    "location": "C. Puerto Rico 26, Santiago De Los Caballeros 51000",
+    "company": "Babel",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2020-02-14T13:48:01Z"
   }
 ]

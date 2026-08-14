@@ -1402,5 +1402,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-18T06:38:39Z"
+  },
+  {
+    "login": "bearded7",
+    "name": "XaLabs03",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43548354?s=72&u=a66fc6d46b88745aaa5e8778bb227ec1edfe887c&v=4",
+    "location": "Juba, South Sudan",
+    "company": "Xalabs03 ",
+    "twitterUsername": "_oriba",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 97,
+    "createdAt": "2018-09-24T16:38:35Z"
+  },
+  {
+    "login": "deng-joe",
+    "name": "Joe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39078169?s=72&u=c11cb4a1ee20571ff4bf7c3c69db09f84ceda72a&v=4",
+    "location": "Juba, CE, South Sudan",
+    "company": "MTN South Sudan",
+    "twitterUsername": "joedeng_",
+    "followers": 5,
+    "privateContributions": 320,
+    "publicContributions": 0,
+    "createdAt": "2018-05-08T05:42:56Z"
+  },
+  {
+    "login": "JackPhilpott",
+    "name": "Jack Philpott",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35699609?s=72&u=a7b956cd2186fcc0a786e90de99e762194cf17b6&v=4",
+    "location": "Juba, South Sudan",
+    "company": "Impact Initiatsive",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2018-01-22T16:39:39Z"
+  },
+  {
+    "login": "DutM",
+    "name": "Dut Majak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42735905?s=72&u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4",
+    "location": "South Sudan",
+    "company": "SSICI Project",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-08-27T09:26:15Z"
+  },
+  {
+    "login": "kevinwekulo",
+    "name": "Kevin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44907984?s=72&u=4cd4fe5399f5a6ded6a9dbdd4793f6a028a6d523&v=4",
+    "location": "Juba, South Sudan",
+    "company": "TD Travel Agency",
+    "twitterUsername": "kwekulo",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-09T19:21:06Z"
+  },
+  {
+    "login": "wellawet",
+    "name": "Wella Awet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37884745?s=72&u=8c02e9425cdf6bab12144e8fbe91e2dbca52ff3b&v=4",
+    "location": "South Sudan",
+    "company": "Kudual Systems",
+    "twitterUsername": "wellawet",
+    "followers": 2,
+    "privateContributions": 704,
+    "publicContributions": 1,
+    "createdAt": "2018-03-28T22:03:43Z"
+  },
+  {
+    "login": "alorarop",
+    "name": "Alor Arop",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46059347?s=72&u=65ba7538e19370030b9fe9b679b4fd4b51b508cf&v=4",
+    "location": "Juba -South sudan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-21T23:32:23Z"
   }
 ]

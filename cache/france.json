@@ -19438,5 +19438,29 @@
     "privateContributions": 354,
     "publicContributions": 163,
     "createdAt": "2025-04-20T09:49:38Z"
+  },
+  {
+    "login": "M0urad",
+    "name": "Mourad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37544968?s=72&u=52a797db96f53158a2fbd31b05f4966dd61fefec&v=4",
+    "location": "Saint-Denis, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-19T14:11:21Z"
+  },
+  {
+    "login": "jlavauzelle",
+    "name": "Julien Lavauzelle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35582506?s=72&v=4",
+    "location": "Saint-Denis, France",
+    "company": "University Paris 8",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-18T23:30:47Z"
   }
 ]

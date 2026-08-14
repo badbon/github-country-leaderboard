@@ -5431,7 +5431,7 @@
     "company": "@snyk",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 93,
+    "privateContributions": 94,
     "publicContributions": 0,
     "createdAt": "2018-09-07T11:49:30Z"
   },
@@ -5854,5 +5854,101 @@
     "privateContributions": 348,
     "publicContributions": 302,
     "createdAt": "2018-08-29T09:43:23Z"
+  },
+  {
+    "login": "ivanakonatar",
+    "name": "Ivana Konatar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36368907?s=72&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-11T13:10:46Z"
+  },
+  {
+    "login": "Dach0",
+    "name": "Damjan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40193265?s=72&u=21069166582c2326c5e9c15a2201a4cea2813ea5&v=4",
+    "location": "Podgorica, MNE",
+    "company": "CGES",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 470,
+    "publicContributions": 1,
+    "createdAt": "2018-06-12T05:41:42Z"
+  },
+  {
+    "login": "ivanaica",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38052523?s=72&u=3d84be363e3ce938322b7a2ca32ddf0a7f6653f2&v=4",
+    "location": "Podgorica ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-03T20:15:47Z"
+  },
+  {
+    "login": "bakero98",
+    "name": "Balsa Mugosa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43292164?s=72&u=2c9e589ea8832d4f43289c8ad2d190ed4be9e620&v=4",
+    "location": "Podgorica",
+    "company": "@infinum",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 7,
+    "publicContributions": 0,
+    "createdAt": "2018-09-15T09:17:04Z"
+  },
+  {
+    "login": "aco228",
+    "name": "Aleksandar Konatar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35331284?s=72&u=d1f7064de7a33e2823fe3e90f637f52d9cad1c0e&v=4",
+    "location": "Podgorica",
+    "company": "Likvido",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 4131,
+    "publicContributions": 711,
+    "createdAt": "2018-01-11T10:06:46Z"
+  },
+  {
+    "login": "labanmne",
+    "name": "Bogdan Laban",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44278130?s=72&u=f91b1bf997020129190d80160334c97e2bfcfb14&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 219,
+    "publicContributions": 2,
+    "createdAt": "2018-10-18T22:35:04Z"
+  },
+  {
+    "login": "IvanRadovic",
+    "name": "Ivek ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45855114?s=72&u=6892ea6a27f475d0f4f225498c8c4fd18ce63aec&v=4",
+    "location": "Podgorica",
+    "company": "B-ONE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 482,
+    "publicContributions": 50,
+    "createdAt": "2018-12-13T16:27:09Z"
+  },
+  {
+    "login": "NikitaKirav",
+    "name": "Nikita Kirav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35759948?s=72&u=5a69cb7ab7a15a018debce7d4d6005d5f19abef6&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 947,
+    "publicContributions": 0,
+    "createdAt": "2018-01-24T07:55:29Z"
   }
 ]

@@ -3619,7 +3619,7 @@
     "company": "Eventino",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3459,
+    "privateContributions": 3477,
     "publicContributions": 54,
     "createdAt": "2022-07-14T17:57:26Z"
   },
@@ -4738,5 +4738,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-09T11:56:22Z"
+  },
+  {
+    "login": "dragoschisca",
+    "name": "Dragoș Chișca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114307260?s=72&u=10cdb97ea79481dc9cb734e3626784e2225182b2&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 59,
+    "publicContributions": 400,
+    "createdAt": "2022-09-24T17:25:07Z"
+  },
+  {
+    "login": "DrVa97",
+    "name": "Vasile Drumea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117915548?s=72&u=3a45aa9cacbe62d4104d78b9a1da259fe87ba16b&v=4",
+    "location": "Chișinău",
+    "company": "Grid Dynamics",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-10T12:40:00Z"
+  },
+  {
+    "login": "lyaciocarlia",
+    "name": "Iuliana Stecalovici",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109204977?s=72&u=51becb6dec68d834b4ef1dc45d4fd26ad4818a68&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2022-07-13T07:15:47Z"
+  },
+  {
+    "login": "danielpoverjuc",
+    "name": "Daniel Poverjuc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104770892?s=72&u=e5fdfe6845507e1f7d5d3028af2e2830f10b6e9c&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 96,
+    "publicContributions": 8,
+    "createdAt": "2022-05-02T12:38:32Z"
+  },
+  {
+    "login": "BCristin",
+    "name": "Cristin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117107236?s=72&v=4",
+    "location": "Chișinău ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 186,
+    "publicContributions": 16,
+    "createdAt": "2022-10-31T16:48:28Z"
+  },
+  {
+    "login": "hodorojasorin",
+    "name": "Sorin Hodoroja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117478156?s=72&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 212,
+    "createdAt": "2022-11-04T18:36:22Z"
   }
 ]
