@@ -670,5 +670,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-11-25T05:21:04Z"
+  },
+  {
+    "login": "Ro-PG",
+    "name": "Rocio Prieto Gonzalez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13536909?s=72&u=62d55f7b269f2fe23ac86c06c557180a65aaa0ae&v=4",
+    "location": "Martinique",
+    "company": "Counting Whales",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-07-28T10:14:14Z"
+  },
+  {
+    "login": "rico97232",
+    "name": "Eric CRISPIN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12249859?s=72&v=4",
+    "location": "Martinique",
+    "company": "EASYVOX",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-05T09:28:15Z"
   }
 ]

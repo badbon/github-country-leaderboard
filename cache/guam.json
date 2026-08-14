@@ -250,5 +250,29 @@
     "privateContributions": 511,
     "publicContributions": 146,
     "createdAt": "2020-09-16T03:40:23Z"
+  },
+  {
+    "login": "guamencja",
+    "name": "guam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56258709?s=72&u=4fa850318428501223e78c23bf25555c49dc7ceb&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 29,
+    "publicContributions": 3,
+    "createdAt": "2019-10-07T12:05:45Z"
+  },
+  {
+    "login": "jes00001",
+    "name": "Jim Smith",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55214312?s=72&u=6e8dbbae2120a8c141bb0f377e73b2504c6a056a&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-11T22:02:50Z"
   }
 ]

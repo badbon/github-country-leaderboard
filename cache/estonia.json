@@ -5758,5 +5758,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-03T09:02:59Z"
+  },
+  {
+    "login": "plosee",
+    "name": "Marten Laane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113144588?s=72&v=4",
+    "location": "Haapsalu, Eesti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-08T21:47:12Z"
+  },
+  {
+    "login": "bigthor69",
+    "name": "aatu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120378685?s=72&u=73cb90bb3fd377f05d1c443debfcde6c280bffbc&v=4",
+    "location": "eesti",
+    "company": "big boy",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-12T10:54:52Z"
+  },
+  {
+    "login": "pruunsuhkur",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102798168?s=72&u=504be83b22889343ceb5093c825852ec1f6e70c6&v=4",
+    "location": "Eesti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-01T09:42:59Z"
   }
 ]

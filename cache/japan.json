@@ -13390,5 +13390,29 @@
     "privateContributions": 3118,
     "publicContributions": 30,
     "createdAt": "2025-04-29T10:59:26Z"
+  },
+  {
+    "login": "shizukutanaka",
+    "name": "Shizuku Tanaka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205780608?s=72&v=4",
+    "location": "Japan",
+    "company": "",
+    "twitterUsername": "mizu_no_ke",
+    "followers": 1,
+    "privateContributions": 465,
+    "publicContributions": 1057,
+    "createdAt": "2025-04-01T12:47:06Z"
+  },
+  {
+    "login": "lit-kei",
+    "name": "Kei",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205056849?s=72&v=4",
+    "location": "Tottori, Japan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 361,
+    "createdAt": "2025-03-26T16:26:53Z"
   }
 ]

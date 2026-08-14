@@ -6547,7 +6547,7 @@
     "company": "Chili Labs",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 480,
+    "privateContributions": 482,
     "publicContributions": 12,
     "createdAt": "2022-10-17T09:23:33Z"
   },
@@ -7006,5 +7006,101 @@
     "privateContributions": 232,
     "publicContributions": 33,
     "createdAt": "2022-03-26T17:47:17Z"
+  },
+  {
+    "login": "PolikVirus",
+    "name": "Polik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97595663?s=72&u=000497c5e8ef5c8bb5e3238b145aad1cd57476e1&v=4",
+    "location": "Riga",
+    "company": "@EpicGames",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 151,
+    "createdAt": "2022-01-12T09:23:39Z"
+  },
+  {
+    "login": "Fek1r",
+    "name": "Sergejs Krasikovs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120334021?s=72&u=f612cfd4212bad33147c5b6979b9777fe27fe213&v=4",
+    "location": "Riga",
+    "company": "Vocational School \"Victoria\"",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2022-12-11T18:48:50Z"
+  },
+  {
+    "login": "BaibaCi",
+    "name": "Baiba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108686537?s=72&u=b6ebec0a2598a55d83015f086670b189879f5f40&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-04T16:10:05Z"
+  },
+  {
+    "login": "MahammadH",
+    "name": "Mahammad Hashimov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113732562?s=72&v=4",
+    "location": "riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2022-09-16T22:34:33Z"
+  },
+  {
+    "login": "Oldoge",
+    "name": "Ēriks Olavs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107434427?s=72&u=c6017a901466cd088c894d82c731cd5e0659b6e1&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "Oldoge228",
+    "followers": 1,
+    "privateContributions": 367,
+    "publicContributions": 34,
+    "createdAt": "2022-06-13T19:19:11Z"
+  },
+  {
+    "login": "binancevent",
+    "name": "Bruno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104117273?s=72&u=d13981a92e62df4611d012ad1c595cf9adcee415&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-21T03:05:21Z"
+  },
+  {
+    "login": "Saphartron",
+    "name": "Emīls Sokolovs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114657109?s=72&v=4",
+    "location": "Riga",
+    "company": "Riga Technical University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2022-09-29T09:34:18Z"
+  },
+  {
+    "login": "StanislavIvkin",
+    "name": "s.ivkin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100779957?s=72&u=a833454b6a367708ce804c3a166da24b495ef02f&v=4",
+    "location": "Riga",
+    "company": "@pixelplex",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-02T13:50:15Z"
   }
 ]

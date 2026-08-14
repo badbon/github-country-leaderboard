@@ -70,5 +70,41 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2023-01-09T08:59:29Z"
+  },
+  {
+    "login": "MaterBater",
+    "name": "Mater",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100362062?s=72&u=e9afc8c64a3a67d688e57da43a68ebe6761737ce&v=4",
+    "location": "Faroe Islands",
+    "company": "@HypixelDev",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1235,
+    "publicContributions": 11,
+    "createdAt": "2022-02-24T14:06:27Z"
+  },
+  {
+    "login": "BergurDavidsen",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98157384?s=72&u=9b40c823101548cf558d0abd14cefe474d7e2d6c&v=4",
+    "location": "Faroe Islands",
+    "company": "@flowcore-io",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 275,
+    "publicContributions": 107,
+    "createdAt": "2022-01-21T10:33:55Z"
+  },
+  {
+    "login": "fruimundur",
+    "name": "Fríðmundur Nattestad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109557498?s=72&u=d30cb8e1d0a3d69f2e970cf55a53a1c505e16277&v=4",
+    "location": "Tórshavn, Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-18T22:04:58Z"
   }
 ]

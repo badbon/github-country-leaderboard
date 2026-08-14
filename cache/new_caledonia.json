@@ -874,5 +874,89 @@
     "privateContributions": 0,
     "publicContributions": 46,
     "createdAt": "2016-01-07T05:38:03Z"
+  },
+  {
+    "login": "AkiraLaine",
+    "name": "Akira Laine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11958359?s=72&u=f4b3e2d72376d86b6e381d9697daba193512f82d&v=4",
+    "location": "Noumea, New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 261,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-15T08:47:59Z"
+  },
+  {
+    "login": "ZoeThivet",
+    "name": "Zoé",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15658793?s=72&u=76617a9ec75b7c69930bb6fb77e0371e0289d882&v=4",
+    "location": "Nouméa, New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-04T19:42:30Z"
+  },
+  {
+    "login": "sio-spc",
+    "name": "Sioeli Tonga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15083477?s=72&u=19cf8c20f534484b2ba2c24cc1dd310737ec7e7c&v=4",
+    "location": "New Caledonia",
+    "company": "Pacific Community (SPC)",
+    "twitterUsername": "sio_nc",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2015-10-12T05:28:46Z"
+  },
+  {
+    "login": "sschorgen",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11071408?s=72&u=7c310e75be98142b8b99d77a501de7a21513fb3e&v=4",
+    "location": "New Caledonia",
+    "company": "SF2i",
+    "twitterUsername": "sylver_schorgen",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-19T07:56:41Z"
+  },
+  {
+    "login": "Couldosh",
+    "name": "Fabrice",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12744665?s=72&u=fc7742a01c85420ca0c5b347fe95cc9ee882b23e&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2015-06-04T08:50:41Z"
+  },
+  {
+    "login": "romainzanon",
+    "name": "Romain ZANON",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14172239?s=72&u=93b3cf3163e40543bf4cb3c9c9108cb47c54ec1c&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-08T02:57:19Z"
+  },
+  {
+    "login": "heniiix",
+    "name": "Hugo ANTHOFER",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16402058?s=72&u=da13e2be9d8739a89283d54c0e365c787f5192b2&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-22T13:59:35Z"
   }
 ]

@@ -7234,5 +7234,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-30T22:54:43Z"
+  },
+  {
+    "login": "deadex-ng",
+    "name": "Fumbani Banda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60394916?s=72&u=df1d719a01abe67f14f4398e593bf953201e51e9&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 14,
+    "publicContributions": 104,
+    "createdAt": "2020-01-28T14:37:40Z"
+  },
+  {
+    "login": "asherziba",
+    "name": "Asher Ziba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71532600?s=72&u=00da98991ae613d6decef0a8d1d055fc5ef46cd1&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-09-18T23:31:16Z"
+  },
+  {
+    "login": "Jessica1199",
+    "name": "Jessica Kamwana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60351683?s=72&u=7182ce1a11d4485dac6ae868c6bbbd8b4c0a27c3&v=4",
+    "location": "Lilongwe",
+    "company": "Baobab Health Trust ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-27T14:14:04Z"
+  },
+  {
+    "login": "Zionie111",
+    "name": "Zione Kamtambe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61716952?s=72&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 99,
+    "publicContributions": 16,
+    "createdAt": "2020-03-02T23:50:40Z"
+  },
+  {
+    "login": "Chatz102",
+    "name": "Chatonda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59555994?s=72&u=54c1300d67179449992ea3564be7c5b34dcd1f31&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-06T07:57:50Z"
+  },
+  {
+    "login": "MabuLie",
+    "name": "Nathan Kaunda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66443340?s=72&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-04T20:42:40Z"
+  },
+  {
+    "login": "KelCapiten",
+    "name": "Kelvin Tumbikani Munyimbili",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73932604?s=72&u=4c1f0eca441a200f9ec9629a3a8b2f515710a649&v=4",
+    "location": "Lilongwe",
+    "company": "Luke International",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 813,
+    "publicContributions": 51,
+    "createdAt": "2020-11-04T08:10:55Z"
   }
 ]
