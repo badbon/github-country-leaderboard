@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "login": "Agaoudi",
+    "name": "Mohamed Elamine Gaoudi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116273877?s=72&v=4",
+    "location": "Western Sahara",
+    "company": "Wazuh Inc",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-10-20T11:11:35Z"
+  },
+  {
+    "login": "LevKotly",
+    "name": "Lev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113391800?s=72&u=3b1607f4d9f239f8c5242899cbbdb1846fe52d8e&v=4",
+    "location": "Laayoune, Western Sahara",
+    "company": "mysterious shadowy organization",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-12T21:24:47Z"
+  }
+]

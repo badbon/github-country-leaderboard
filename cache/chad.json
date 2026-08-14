@@ -742,5 +742,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-01T11:35:06Z"
+  },
+  {
+    "login": "Baharmohamed98",
+    "name": "BAHAR",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/140160837?s=72&v=4",
+    "location": "n'djamena",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-21T09:58:01Z"
+  },
+  {
+    "login": "Charlesjami",
+    "name": "Charles Jamison",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155015393?s=72&v=4",
+    "location": "N'djamena",
+    "company": "Université de Hec-Tchad",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-12-27T19:04:46Z"
   }
 ]

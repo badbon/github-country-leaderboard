@@ -8155,7 +8155,7 @@
     "company": "@talabat-dhme @deliveryhero @lumingon",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2445,
+    "privateContributions": 2446,
     "publicContributions": 0,
     "createdAt": "2023-09-21T06:19:36Z"
   },
@@ -8758,5 +8758,29 @@
     "privateContributions": 0,
     "publicContributions": 186,
     "createdAt": "2023-09-13T13:42:45Z"
+  },
+  {
+    "login": "noora-a",
+    "name": "Noora Abubakar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130226099?s=72&u=d84c59f8be681e1d109e11776f561fec650e25f5&v=4",
+    "location": "United Arab Emirates",
+    "company": "Ajman University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-08T12:23:20Z"
+  },
+  {
+    "login": "schoolofiris",
+    "name": "Mohammed Iris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128782836?s=72&u=ca8fdfcf6c58bb0cb4f8dc974d106213d509f583&v=4",
+    "location": "United Arab Emirates",
+    "company": "Etimad Strategic Security Solutions, Abu Dhabi",
+    "twitterUsername": "mohammedIrisa",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-24T06:38:09Z"
   }
 ]

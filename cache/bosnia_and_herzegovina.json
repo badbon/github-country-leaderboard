@@ -4942,5 +4942,101 @@
     "privateContributions": 68,
     "publicContributions": 77,
     "createdAt": "2022-10-21T20:29:58Z"
+  },
+  {
+    "login": "SafetImamovic",
+    "name": "Safet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115734903?s=72&u=662823e6b2bc2c1c232fc69359341308ec4256e4&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 1249,
+    "publicContributions": 358,
+    "createdAt": "2022-10-13T17:48:20Z"
+  },
+  {
+    "login": "nkadric1",
+    "name": "Kadric Nerma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115932216?s=72&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "Student",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1,
+    "publicContributions": 34,
+    "createdAt": "2022-10-16T12:51:58Z"
+  },
+  {
+    "login": "MMahmutovicc",
+    "name": "Mirza Mahmutovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97639413?s=72&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 423,
+    "publicContributions": 0,
+    "createdAt": "2022-01-12T22:29:31Z"
+  },
+  {
+    "login": "kenansultanic",
+    "name": "Kenan Sultanić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111312449?s=72&v=4",
+    "location": "Konjic, Bosnia & Herzegovina",
+    "company": "PING",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-08-15T19:54:22Z"
+  },
+  {
+    "login": "nedim-basic",
+    "name": "NedimBašić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117400053?s=72&v=4",
+    "location": "Zenica, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-03T21:06:22Z"
+  },
+  {
+    "login": "gakovickaca",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112561769?s=72&u=c8bf6d09c719cf393b82a204d49b0cbd646feaf1&v=4",
+    "location": "Banja Luka, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "27521k",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-31T13:27:59Z"
+  },
+  {
+    "login": "innabc",
+    "name": "Zerina Babić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119134721?s=72&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-26T20:21:10Z"
+  },
+  {
+    "login": "Kupreon",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120115195?s=72&u=a8e401edcab60eed23bf7d4083c218a9dfee4629&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-08T14:52:12Z"
   }
 ]

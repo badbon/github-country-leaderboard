@@ -10,5 +10,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-09-04T02:28:58Z"
+  },
+  {
+    "login": "VanuatuParliament",
+    "name": "National Parliament of Vanuatu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135688732?s=72&u=9e300789d3d5a2119ec56057ce892d4058589563&v=4",
+    "location": "Port-Vila, Vanuatu",
+    "company": "",
+    "twitterUsername": "VanParliament",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-06T05:50:33Z"
+  },
+  {
+    "login": "EmeleHana",
+    "name": "Emele Hana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141490607?s=72&u=71afbc306b7c9ade6949d96405f34a4007c3ece5&v=4",
+    "location": "Port Vila, Vanuatu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-05T10:23:01Z"
   }
 ]

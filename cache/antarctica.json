@@ -5590,5 +5590,29 @@
     "privateContributions": 937,
     "publicContributions": 252,
     "createdAt": "2010-02-21T22:03:38Z"
+  },
+  {
+    "login": "kura",
+    "name": "Kura",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109507?s=72&u=c902c5882e193945b00d0a270efa7a67859c7552&v=4",
+    "location": "Halley Research Station, Antarctica",
+    "company": "@bbc ",
+    "twitterUsername": "",
+    "followers": 201,
+    "privateContributions": 159,
+    "publicContributions": 195,
+    "createdAt": "2009-07-28T16:28:57Z"
+  },
+  {
+    "login": "isomorphisms",
+    "name": "i",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170678?s=72&v=4",
+    "location": "Antarctica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 73,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2009-12-21T21:23:03Z"
   }
 ]
