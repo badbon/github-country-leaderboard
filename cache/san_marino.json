@@ -130,5 +130,89 @@
     "privateContributions": 0,
     "publicContributions": 1068,
     "createdAt": "2022-11-07T20:55:31Z"
+  },
+  {
+    "login": "stfDeveloper",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91994473?s=72&u=1138d665057da073d2d98f705bb33a3b1a31e583&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 4,
+    "publicContributions": 0,
+    "createdAt": "2021-10-05T22:05:33Z"
+  },
+  {
+    "login": "LadyMatteini",
+    "name": "Júlia Mateini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94371053?s=72&u=d45f74cfe57e7bb64de3021f70b22dda625d3315&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 137,
+    "createdAt": "2021-11-15T12:44:15Z"
+  },
+  {
+    "login": "deBrian07",
+    "name": "Brian C.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94733710?s=72&u=b2073f03b7b034c23725d158aca4f20c898c3fed&v=4",
+    "location": "San Marino, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1067,
+    "publicContributions": 480,
+    "createdAt": "2021-11-20T06:14:41Z"
+  },
+  {
+    "login": "decDaytype",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79137820?s=72&u=8ba587802baa547e33693931839c33743252b8e7&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-16T09:03:41Z"
+  },
+  {
+    "login": "maximtchmil",
+    "name": "STIMA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94842267?s=72&u=34e4b8b34aa3c8d81dc50de40f08d589f20b88e5&v=4",
+    "location": "San Marino",
+    "company": "STIMA",
+    "twitterUsername": "Stima_io",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-11-22T12:20:01Z"
+  },
+  {
+    "login": "xStaqed",
+    "name": "xStaqed_",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89659872?s=72&u=5a11e5484e4d6d2d69d9d1b8981a3731b2c6539a&v=4",
+    "location": "San Marino",
+    "company": "School",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-27T18:14:33Z"
+  },
+  {
+    "login": "Anna-Kostiuk",
+    "name": "Anna Kostiuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81385552?s=72&u=1641e93f0a4d64fa1c1d1f148e38ad36a3a46806&v=4",
+    "location": "San Marino",
+    "company": "IT-RAT",
+    "twitterUsername": "AnnKostiuk",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-25T19:01:28Z"
   }
 ]

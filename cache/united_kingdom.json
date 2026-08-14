@@ -15670,5 +15670,41 @@
     "privateContributions": 95,
     "publicContributions": 0,
     "createdAt": "2021-10-26T02:07:26Z"
+  },
+  {
+    "login": "Bexin3",
+    "name": "Benjamin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88098139?s=72&u=e6f839a0bab5ae08710bedd53693748f33240b08&v=4",
+    "location": "United Kingdom / Slovakia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-07-28T14:22:38Z"
+  },
+  {
+    "login": "AnushkaGupta1001",
+    "name": "Anushka Gupta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200396544?s=72&u=088718ea7f0b9444a13ca50df2851fc1f212bcb1&v=4",
+    "location": "Nottingham, U.K",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-02-22T16:30:26Z"
+  },
+  {
+    "login": "BSchelpe",
+    "name": "Arabella Schelpe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202340538?s=72&v=4",
+    "location": "Cambridge, U.K.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2025-03-07T19:43:52Z"
   }
 ]

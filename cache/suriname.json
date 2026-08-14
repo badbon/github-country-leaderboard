@@ -346,5 +346,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-25T14:10:41Z"
+  },
+  {
+    "login": "giannisanni",
+    "name": "Gianni Sanrochman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115853836?s=72&u=c785971ca017be819363616ed9c04ab5528a8f18&v=4",
+    "location": "Paramaribo, Suriname",
+    "company": "",
+    "twitterUsername": "Giannisanii",
+    "followers": 20,
+    "privateContributions": 150,
+    "publicContributions": 482,
+    "createdAt": "2022-10-15T02:37:09Z"
+  },
+  {
+    "login": "JoshKarta",
+    "name": "Josh K",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100480986?s=72&u=658a1fec4abfba95ffa77d509545d16c8c2e0802&v=4",
+    "location": "Paramaribo, Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 314,
+    "publicContributions": 54,
+    "createdAt": "2022-02-26T15:26:02Z"
+  },
+  {
+    "login": "nancysilvalearns",
+    "name": "Nancy Silva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112790079?s=72&u=4b8f3f5ee00858cf39d815de62cf46b55d330017&v=4",
+    "location": "Paramaribo, Suriname",
+    "company": "Sranan Force",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-04T02:55:12Z"
+  },
+  {
+    "login": "Luskafe",
+    "name": "Luskafe ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104117192?s=72&v=4",
+    "location": "Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-21T03:03:02Z"
+  },
+  {
+    "login": "bismillahjphard",
+    "name": "Hope",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117662171?s=72&u=3bbe413cf3dc6011310d9ec902ddaf9b95300ebe&v=4",
+    "location": "Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 25,
+    "publicContributions": 7,
+    "createdAt": "2022-11-07T14:57:16Z"
+  },
+  {
+    "login": "KingKolya",
+    "name": "Kyle Krolis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104939494?s=72&u=afd092de2ff847b0689e5b9debbfdc7d98e4e8e9&v=4",
+    "location": "Paramaribo, Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-04T20:16:43Z"
+  },
+  {
+    "login": "BeefyDrewy",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113204351?s=72&v=4",
+    "location": "Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2022-09-09T17:47:46Z"
+  },
+  {
+    "login": "JamilKasan",
+    "name": "Jamil Kasan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96841726?s=72&u=28906573c2adbacdd2d6b91f960bbba736d5d37e&v=4",
+    "location": "Suriname",
+    "company": "Cronus Global Tech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 455,
+    "publicContributions": 0,
+    "createdAt": "2021-12-29T18:53:37Z"
+  },
+  {
+    "login": "bombelman",
+    "name": "bombelman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107536852?s=72&u=d046dc8c21239d987877d609b8a7c316a8179d89&v=4",
+    "location": "Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 6,
+    "createdAt": "2022-06-15T07:00:52Z"
   }
 ]

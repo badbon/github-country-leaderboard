@@ -1186,5 +1186,53 @@
     "privateContributions": 0,
     "publicContributions": 113,
     "createdAt": "2013-08-08T15:10:39Z"
+  },
+  {
+    "login": "maitredede",
+    "name": "Damien DALY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1765408?s=72&v=4",
+    "location": "Nouméa, New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 1962,
+    "publicContributions": 124,
+    "createdAt": "2012-05-22T14:47:29Z"
+  },
+  {
+    "login": "f-k-z",
+    "name": "François",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2404347?s=72&v=4",
+    "location": "Noumea, New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-09-23T11:24:57Z"
+  },
+  {
+    "login": "HakumenNC",
+    "name": "Ronny.S",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2644417?s=72&u=97aa484804250010faae618e5aa993f1435c0cc4&v=4",
+    "location": "New Caledonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2012-10-24T22:03:01Z"
+  },
+  {
+    "login": "jcornet",
+    "name": "Jeremie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2607321?s=72&v=4",
+    "location": "New Caledonia",
+    "company": "MAGIS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-20T16:14:26Z"
   }
 ]

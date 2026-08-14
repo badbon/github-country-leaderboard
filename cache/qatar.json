@@ -5791,7 +5791,7 @@
     "company": "University of Doha for Science and Technology",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 658,
+    "privateContributions": 659,
     "publicContributions": 105,
     "createdAt": "2020-04-06T08:55:33Z"
   },
@@ -7126,5 +7126,113 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2020-11-05T05:07:05Z"
+  },
+  {
+    "login": "Omar125X",
+    "name": "Omar Elshenhabi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63269388?s=72&u=b9ed5cef136672e0d81691c1e73ba5126852380f&v=4",
+    "location": "Doha",
+    "company": "Simitai",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2020-04-07T00:09:23Z"
+  },
+  {
+    "login": "ashiqueemhd",
+    "name": "muhammed ashiq",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68458609?s=72&v=4",
+    "location": "doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 92,
+    "publicContributions": 0,
+    "createdAt": "2020-07-18T06:41:07Z"
+  },
+  {
+    "login": "amehrez",
+    "name": "Ahmed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65740960?s=72&u=280a684fe6fb6451ea7345bd6440b84b5ad597a3&v=4",
+    "location": "Doha",
+    "company": "AZR Software Solutions",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2020-05-21T22:33:52Z"
+  },
+  {
+    "login": "HanzalaKhamkar",
+    "name": "Hanzala.sak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66768570?s=72&u=ea5ee7e2214233c70f20f5c725b19532412fa189&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 135,
+    "publicContributions": 0,
+    "createdAt": "2020-06-11T06:22:52Z"
+  },
+  {
+    "login": "abanerjee-06",
+    "name": "Aritra Banerjee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60221627?s=72&u=7425d304e1bd97ec1c40f5b115c142ac840303e6&v=4",
+    "location": "Doha",
+    "company": "IIIT-Hyderabad",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-23T12:37:15Z"
+  },
+  {
+    "login": "MohammedAbdulMuqeeth",
+    "name": "Mohammed Abdul Muqeeth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63465898?s=72&v=4",
+    "location": "Doha",
+    "company": "Al-Jazeera Media Network",
+    "twitterUsername": "iamafnaan",
+    "followers": 3,
+    "privateContributions": 55,
+    "publicContributions": 3,
+    "createdAt": "2020-04-10T16:09:16Z"
+  },
+  {
+    "login": "khalid-dhereeye",
+    "name": "kalid-omer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59772741?s=72&u=bcb8c69ad9aaddbac11f436aed9a27f113d21860&v=4",
+    "location": "doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-11T16:53:16Z"
+  },
+  {
+    "login": "mustafaalam1991",
+    "name": "Mustafa Alam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59471591?s=72&u=71a563b01e74ad3dd1f2a7a3d438230aaf99fd03&v=4",
+    "location": "Doha",
+    "company": "Nokia",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2020-01-03T09:45:21Z"
+  },
+  {
+    "login": "saraalmaadeed",
+    "name": "Sara Al-Maadeed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68820968?s=72&u=3f4e1109429ce951a57688ae283524ec68bb5256&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2020-07-26T16:56:10Z"
   }
 ]

@@ -11914,5 +11914,53 @@
     "privateContributions": 47,
     "publicContributions": 70,
     "createdAt": "2024-10-02T05:35:51Z"
+  },
+  {
+    "login": "IsaacIsaias",
+    "name": "Isaac Isaías",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72025236?s=72&u=965d4e234a5ffb49ba1369d52ac9a18906e13b98&v=4",
+    "location": "San Juan del Río, Querétaro, México",
+    "company": "Universidad Tecnológica de San Juan del Río",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-28T13:14:18Z"
+  },
+  {
+    "login": "Danielx80",
+    "name": "Daniel Mondragón",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70590644?s=72&u=02445dd7273071e1c2e9b63295e138feca4f7b3f&v=4",
+    "location": "Querétaro, San Juan del Río",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2020-09-01T14:56:45Z"
+  },
+  {
+    "login": "ecolin100",
+    "name": "Eduardo Colín Morales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62725879?s=72&u=6c5941678a854c3bbd693cf203d985b62ac55a2f&v=4",
+    "location": "San Juan Del Río, Querétaro, México",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-26T22:12:18Z"
+  },
+  {
+    "login": "GiovanniLArt",
+    "name": "GIOVANNI LOPEZ ARTEAGA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69914792?s=72&u=009f5a414ff47aae7109714bf77666207ae96f2a&v=4",
+    "location": "San Juan del Río, Querétaro",
+    "company": "LOAG031230HQTPRVA1",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2020-08-19T16:08:05Z"
   }
 ]
