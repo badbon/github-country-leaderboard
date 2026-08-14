@@ -14926,5 +14926,53 @@
     "privateContributions": 3795,
     "publicContributions": 2,
     "createdAt": "2024-02-12T12:33:45Z"
+  },
+  {
+    "login": "DiweiQuantum",
+    "name": "Diwei Zou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143874188?s=72&u=8feeb77cd98e11421ca1c519c268b39d69edea70&v=4",
+    "location": "Kowloon, Hong Kong SAR, People's Republic of China",
+    "company": "The Hong Kong University of Science and Technology",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-02T09:10:50Z"
+  },
+  {
+    "login": "yang11456",
+    "name": "Yizhou Yang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148040765?s=72&v=4",
+    "location": "The Chinese University of Hong Kong, Shenzhen2001 Longxiang Road, Longgang District, Shenzhen, China",
+    "company": "he Chinese University of Hong Kong, Shenzhen",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-16T06:29:34Z"
+  },
+  {
+    "login": "weiliangliu0",
+    "name": "Weiliang Liu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134031895?s=72&u=1c8ab9b1111eea920f3662b83ffde2a8594e9753&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 78,
+    "createdAt": "2023-05-19T03:41:08Z"
+  },
+  {
+    "login": "centraler",
+    "name": "sky",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125339329?s=72&u=831eb87e546cdb7474183b20e49fd0694ad1d0e6&v=4",
+    "location": "No. 132, East Waihuan Road, Xiaoguwei Island, Panyu District, Guangzhou City, Guangdong Province, P.R. China",
+    "company": "Sun Yat-sen University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2023-02-14T05:36:51Z"
   }
 ]

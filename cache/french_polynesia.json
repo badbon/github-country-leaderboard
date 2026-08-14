@@ -94,5 +94,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-25T01:52:32Z"
+  },
+  {
+    "login": "MartinBINARD",
+    "name": "Martin Binard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78610464?s=72&u=745db9c7870f16ade2f9e379572d871a1f2c13a7&v=4",
+    "location": "Tahiti, French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-02-05T16:25:52Z"
+  },
+  {
+    "login": "Pacific-ERP",
+    "name": "Gaëtan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80715929?s=72&u=126b373ebcc1546e7a6b2926c8085a0718b68f2a&v=4",
+    "location": "french polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-15T19:29:30Z"
+  },
+  {
+    "login": "69-kyle-69",
+    "name": "kyle_69",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78053987?s=72&u=6b7b13d83f2bc8736548b188fce1ae27a5d413a5&v=4",
+    "location": "Tahiti, French Polynesia",
+    "company": "",
+    "twitterUsername": "Kyle78183289",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-26T22:51:47Z"
   }
 ]

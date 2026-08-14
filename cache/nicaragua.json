@@ -4990,5 +4990,29 @@
     "privateContributions": 1069,
     "publicContributions": 370,
     "createdAt": "2022-05-05T05:44:04Z"
+  },
+  {
+    "login": "Elliam-Sanchez510",
+    "name": "Elliam Sánchez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88247130?s=72&u=9eb80f5854fa8cb42af3cfd96b015190a6a00ea2&v=4",
+    "location": "Nueva Guinea, Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 138,
+    "publicContributions": 258,
+    "createdAt": "2021-07-31T16:52:23Z"
+  },
+  {
+    "login": "Requenez-Diaz",
+    "name": "Requenez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95236561?s=72&u=b199b7b3529eaa3d2897615a225e601a02abb2cf&v=4",
+    "location": "Nueva Guinea, RAAS, Nicaragua",
+    "company": "Frontend Developer",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 24,
+    "publicContributions": 408,
+    "createdAt": "2021-11-29T15:44:46Z"
   }
 ]

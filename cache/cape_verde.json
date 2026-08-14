@@ -2674,5 +2674,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-23T21:05:29Z"
+  },
+  {
+    "login": "thismoon44",
+    "name": "Sandro Fonseca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79278824?s=72&u=0507cfed338ec682605742bb1766d81e5bba9a80&v=4",
+    "location": "Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2021-02-18T18:35:03Z"
+  },
+  {
+    "login": "Leonardo-Sabino",
+    "name": "Leonardo Sabino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82778952?s=72&u=80429e0028aebbee5bb8b78a93d57cb6f6304cc7&v=4",
+    "location": "Cape Verde",
+    "company": "B.Systems, AfricanDev",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 651,
+    "publicContributions": 1,
+    "createdAt": "2021-04-18T19:56:41Z"
+  },
+  {
+    "login": "PoliciaNacional",
+    "name": "Policia Nacional",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88493876?s=72&u=5187699f6be1d7283420f278e65107380ad1b3b8&v=4",
+    "location": "Cape Verde, Santiago, Praia",
+    "company": "Policia Nacional",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-05T12:49:16Z"
+  },
+  {
+    "login": "EliasTuga98",
+    "name": "Elias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96592313?s=72&u=e8e687c536b0e3ce7703620b8b24a029b39f1216&v=4",
+    "location": "Cape Verde",
+    "company": "NOSi",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-23T18:01:42Z"
+  },
+  {
+    "login": "william-monteiro08",
+    "name": "William Monteiro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76825963?s=72&u=fb8ca30ea4f2180093fad7d2da9e9c67858cde12&v=4",
+    "location": "Mindelo, Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2020-12-31T22:04:27Z"
+  },
+  {
+    "login": "Denio26",
+    "name": "Dénio Melo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93790860?s=72&u=0ca21610b68edd5090e60c8c2a14c1008ef58c2a&v=4",
+    "location": "Cape Verde",
+    "company": "@DevMasters-Lda",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 905,
+    "publicContributions": 40,
+    "createdAt": "2021-11-05T18:14:31Z"
+  },
+  {
+    "login": "GiiO01",
+    "name": "GiiO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80856751?s=72&u=d170659a1c8a2ea71d63858890ca87dbd901bc5d&v=4",
+    "location": "Cape Verde, Mindelo",
+    "company": "",
+    "twitterUsername": "SAD_GiiO",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-17T20:58:38Z"
+  },
+  {
+    "login": "s7ephan",
+    "name": "Stephan dos Santos Soares",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93203037?s=72&v=4",
+    "location": "São Vicente, Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-26T13:26:07Z"
   }
 ]

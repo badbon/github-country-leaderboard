@@ -12490,5 +12490,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-30T10:04:55Z"
+  },
+  {
+    "login": "JericoLuzardoMiranda",
+    "name": "Jericó Luzardo Miranda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125827592?s=72&u=0ffe8f585dcf92d9a724a7f826ba0d3762a034c8&v=4",
+    "location": "Canary Island, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 217,
+    "createdAt": "2023-02-19T19:18:58Z"
+  },
+  {
+    "login": "kevinPolania",
+    "name": "Kevin Polania Narvaez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131593041?s=72&v=4",
+    "location": "Canary Island, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-23T11:55:12Z"
+  },
+  {
+    "login": "AlvaroRodriguezMiranda",
+    "name": "Álvaro Rodríguez Miranda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147083361?s=72&v=4",
+    "location": "Canary Island, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2023-10-05T15:56:09Z"
   }
 ]

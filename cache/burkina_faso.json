@@ -5266,5 +5266,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-10-12T01:44:41Z"
+  },
+  {
+    "login": "rikudosama",
+    "name": "Lengam jean bonaventure",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20500592?s=72&u=357a216f417bd3347b2602f7a9fa8b8efdca31bf&v=4",
+    "location": "Ouagadougou, Burkina Faso",
+    "company": "Taariam technologie",
+    "twitterUsername": "rikudosama",
+    "followers": 11,
+    "privateContributions": 869,
+    "publicContributions": 3,
+    "createdAt": "2016-07-17T10:58:40Z"
+  },
+  {
+    "login": "Eff4real",
+    "name": "Effren Ouedraogo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19754488?s=72&u=2946fac59519f4c59d73c2ee26d4334e9b93d8ff&v=4",
+    "location": "Burkina Faso",
+    "company": "",
+    "twitterUsername": "TheRealEffren",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-06-04T23:44:23Z"
+  },
+  {
+    "login": "woumtana",
+    "name": "Woumtana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23029482?s=72&u=721d492bf61d9bb60ca6099f75cf7f397be14fe7&v=4",
+    "location": "Burkina Faso, Ouagadougou",
+    "company": "HEVEN TECH SARL",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-24T10:51:25Z"
+  },
+  {
+    "login": "TANNKOANO",
+    "name": "T-SI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16557607?s=72&u=18f355ff83aa52d73dfff6435c1b543a67897639&v=4",
+    "location": "Burkina Faso",
+    "company": "TANKOANO Systèmes Informatiques",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-05T11:40:59Z"
+  },
+  {
+    "login": "TOGUIYENI",
+    "name": "Seydou TOGUIYENI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18721096?s=72&u=1fa6039950f7516a9f11dfd02dbc435c7a10d4d7&v=4",
+    "location": "Ouagadougou, Burkina Faso",
+    "company": "Consultant ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-28T13:39:41Z"
+  },
+  {
+    "login": "SaoLab-Dev",
+    "name": "pascal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22986069?s=72&u=4a52cded0b2cbfd2a5f80919225d53056820d335&v=4",
+    "location": "Burkina Faso, Ouagadougou",
+    "company": "TAMICOM Technologies",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-21T17:48:18Z"
+  },
+  {
+    "login": "saifonglee",
+    "name": "Saïfonglee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20534640?s=72&u=72440e75c87dc0b306c5fd2549e805041c2f746d&v=4",
+    "location": "Burkina Faso, Ouagadougou",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-19T09:09:56Z"
   }
 ]

@@ -5026,5 +5026,89 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2025-06-06T17:29:38Z"
+  },
+  {
+    "login": "akdenis-niaziev",
+    "name": "Akdenis Niaziev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182627632?s=72&u=62483b115c974da2067c2cb7ba85443d329d098a&v=4",
+    "location": "Gent, België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2024-09-24T10:09:25Z"
+  },
+  {
+    "login": "ItsC3C",
+    "name": "Cédric Van Hoorebeke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175482474?s=72&u=e575649e014b537a5655e703c3e017b023dc978a&v=4",
+    "location": "Gent, België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2024-07-13T10:59:19Z"
+  },
+  {
+    "login": "SegeKea26",
+    "name": "Keano Segers",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187491696?s=72&u=8fbf96de2d6e86d66e6d1ed73a3526179f7ffa97&v=4",
+    "location": "België, 9220 Hamme ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2024-11-06T07:52:22Z"
+  },
+  {
+    "login": "alexdelvoye",
+    "name": "Alex Delvoye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185471458?s=72&u=2514c89e07cbbdde5b1f5286f0d758b6bb4d3329&v=4",
+    "location": "Sint-Lievens-Houtem, Vlaanderen, België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 93,
+    "createdAt": "2024-10-18T06:46:44Z"
+  },
+  {
+    "login": "JensFripontPXL",
+    "name": "Jens Fripont",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185052801?s=72&u=d68f7af7f5140010f2e120ed8c6b6475a44a1898&v=4",
+    "location": "België",
+    "company": "PXL",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-10-15T09:02:50Z"
+  },
+  {
+    "login": "SverreBaeke",
+    "name": "Sverre Baeke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187491234?s=72&u=f80af7d577f581fe0e9a822ec2eb00ed0c1fbef5&v=4",
+    "location": "Schorissestraat 19 - 9688 Maarkedal | België",
+    "company": "ArteveldeHogeschool",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2024-11-06T07:47:14Z"
+  },
+  {
+    "login": "Pino-Pistool",
+    "name": "Pino Pistool",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183406382?s=72&u=9e3d7c96bffa7e2c9fb113029fdf3579699bb66a&v=4",
+    "location": "België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2024-09-30T15:57:11Z"
   }
 ]

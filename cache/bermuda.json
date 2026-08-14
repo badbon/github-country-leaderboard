@@ -1606,5 +1606,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-03T03:59:06Z"
+  },
+  {
+    "login": "littleblack111",
+    "name": "littleblack111",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97672521?s=72&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 701,
+    "publicContributions": 562,
+    "createdAt": "2022-01-13T11:24:03Z"
+  },
+  {
+    "login": "simrett",
+    "name": "Simret ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119438680?s=72&v=4",
+    "location": "Hamilton, Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-29T16:36:39Z"
   }
 ]

@@ -2686,5 +2686,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-21T12:06:58Z"
+  },
+  {
+    "login": "ChristianTosse",
+    "name": "Christian D.C. TOSSE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98334541?s=72&v=4",
+    "location": "Porto-Novo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2022-01-24T15:21:04Z"
+  },
+  {
+    "login": "Credo-meta",
+    "name": "Crédo HOUETO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113352991?s=72&u=2b550a061c94c66019cead7d111a5c2689e63bca&v=4",
+    "location": "Bénin-Porto-Novo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-12T11:39:52Z"
   }
 ]

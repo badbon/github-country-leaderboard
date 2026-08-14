@@ -1090,5 +1090,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-09-16T09:32:46Z"
+  },
+  {
+    "login": "intricate",
+    "name": "Luke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19835357?s=72&v=4",
+    "location": "Barbados",
+    "company": "@MercuryTechnologies",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 350,
+    "publicContributions": 31,
+    "createdAt": "2016-06-09T09:33:22Z"
+  },
+  {
+    "login": "diondree",
+    "name": "Diondre Edwards",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20101862?s=72&u=097bb47a5cb6057485bdd8ba3b9fb7b624dfeae4&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "diondredev",
+    "followers": 9,
+    "privateContributions": 346,
+    "publicContributions": 1,
+    "createdAt": "2016-06-23T02:46:19Z"
+  },
+  {
+    "login": "caritechsolutions",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20524583?s=72&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 352,
+    "createdAt": "2016-07-18T20:31:33Z"
+  },
+  {
+    "login": "javonwebster",
+    "name": "Javon Webster",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17675880?s=72&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-05T16:37:46Z"
+  },
+  {
+    "login": "PrinceJoshua",
+    "name": "Joshua",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23250284?s=72&u=ae64c22818a5bd919ee0290fe6be41bfc6803be5&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-04T01:38:19Z"
+  },
+  {
+    "login": "nakeshialorde",
+    "name": "Nakeshia Lorde",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24622014?s=72&u=4bd96dc83c1c6e1e4e239dc25863086ac1dc4ff0&v=4",
+    "location": "Bridgetown, Barbados",
+    "company": "Technation246",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-17T12:57:48Z"
+  },
+  {
+    "login": "BrokenTrident",
+    "name": "Christopher Gill",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19743137?s=72&u=f3fe4f2ef25ee6be03406e9c07c3da3487abaac4&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 312,
+    "publicContributions": 13,
+    "createdAt": "2016-06-04T06:07:12Z"
+  },
+  {
+    "login": "DariusThorpe",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23128196?s=72&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2016-10-28T20:24:56Z"
   }
 ]

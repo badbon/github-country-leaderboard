@@ -478,5 +478,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-17T16:14:38Z"
+  },
+  {
+    "login": "ryanrotman",
+    "name": "Ryan Rotman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67814115?s=72&u=379373c31e7b7cf2c0feac50c37cd9470930ffed&v=4",
+    "location": "Georgetown, TX",
+    "company": "YETI",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-07-04T03:08:09Z"
+  },
+  {
+    "login": "JohnnyMcGee",
+    "name": "Johnny McGee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76253881?s=72&u=0f7a00fd17cd44d0640c161bc0670d039be0ec45&v=4",
+    "location": "Georgetown, TX",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 1817,
+    "publicContributions": 47,
+    "createdAt": "2020-12-19T13:47:05Z"
+  },
+  {
+    "login": "SmasherCoder",
+    "name": "Travis Helms",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61371499?s=72&u=1ed8126dc9a64f2a43cc5282bbd749adbd935929&v=4",
+    "location": "Georgetown, Tx",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-02-23T05:37:23Z"
+  },
+  {
+    "login": "dianecandler",
+    "name": "Diane Candler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63519355?s=72&u=d0b0c8fd66a3022dc5c0ecfd7f51a0a8931dc96e&v=4",
+    "location": "North of Georgetown, TX",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-11T20:35:50Z"
+  },
+  {
+    "login": "chris-tatlonghari",
+    "name": "Chris Tatlonghari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60680954?s=72&u=82ab4ecceaff577cb0e72046d19509b01a823e45&v=4",
+    "location": "Georgetown, Kentucky (Remote)",
+    "company": "Underdog Fantasy",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 71,
+    "createdAt": "2020-02-05T03:07:28Z"
+  },
+  {
+    "login": "brianjrayjr",
+    "name": "Brian Raybourne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74023441?s=72&v=4",
+    "location": "Georgetown, Kentucky",
+    "company": "Georgetown College",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-05T21:08:49Z"
+  },
+  {
+    "login": "KofiZ",
+    "name": "Nkofi Cromwell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71864686?s=72&u=bae401a44051f57844770c7962f89605762b9cbc&v=4",
+    "location": "Georgetown",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-25T04:32:21Z"
+  },
+  {
+    "login": "LitlGrrnMan",
+    "name": "Daniel William Foxworth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64471291?s=72&v=4",
+    "location": "Georgetown, KY",
+    "company": "Foxes Development",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-28T10:42:35Z"
   }
 ]

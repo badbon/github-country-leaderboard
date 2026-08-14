@@ -250,5 +250,53 @@
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2017-02-07T18:23:23Z"
+  },
+  {
+    "login": "Rhynco297",
+    "name": "Rhynco297",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16833496?s=72&v=4",
+    "location": "Aruba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-22T08:13:26Z"
+  },
+  {
+    "login": "sparkskraps",
+    "name": "friendsocket",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23444824?s=72&u=5f3a11f48275fc51f28a6574ab03b0f5d4686715&v=4",
+    "location": "Aruba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-14T04:42:14Z"
+  },
+  {
+    "login": "aarends",
+    "name": "Alan A.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19356060?s=72&v=4",
+    "location": "Aruba",
+    "company": "Erelis Digital Marketing & Web Design",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-05-14T03:04:00Z"
+  },
+  {
+    "login": "ArubaTourismAuthority",
+    "name": "Aruba Tourism Authority",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18186193?s=72&u=89f4f775e4e3eef4dedf7719b7089ef78c639ab7&v=4",
+    "location": "Aruba",
+    "company": "Aruba Tourism Authority",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-31T08:36:54Z"
   }
 ]
