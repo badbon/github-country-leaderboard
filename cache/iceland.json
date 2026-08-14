@@ -2326,5 +2326,29 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-03-14T12:27:30Z"
+  },
+  {
+    "login": "omg-xtao",
+    "name": "omg-xtao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100690902?s=72&u=bd74ba35df685e81bfeba1322c0a0917ae09680e&v=4",
+    "location": "Island",
+    "company": "Xtao-Labs",
+    "twitterUsername": "xtaodada",
+    "followers": 169,
+    "privateContributions": 0,
+    "publicContributions": 1013,
+    "createdAt": "2022-03-01T11:50:39Z"
+  },
+  {
+    "login": "hoffmanator",
+    "name": "karma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98447262?s=72&u=1412374ae8b8cb8a248af564eeadad89180249a1&v=4",
+    "location": "docks / island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-26T06:17:01Z"
   }
 ]

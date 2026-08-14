@@ -1498,5 +1498,77 @@
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2022-11-07T08:07:39Z"
+  },
+  {
+    "login": "linfei-mise",
+    "name": "Free Lam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91515869?s=72&u=4967d1380780c8bf9007d912916d7407c2e6489e&v=4",
+    "location": "Macao",
+    "company": "Macao Institute of System Engineering",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2021-09-28T03:46:35Z"
+  },
+  {
+    "login": "TonyLiangP2010405",
+    "name": "Tony Liang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86188856?s=72&u=6e2a9cd17c11cdf17c2cc240e2edf304eb5955bd&v=4",
+    "location": "Macao",
+    "company": "个人",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 155,
+    "createdAt": "2021-06-20T10:59:16Z"
+  },
+  {
+    "login": "wang-wenmin",
+    "name": "Wenmin Wang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78136753?s=72&u=6a031b89f5022a5f7b1b512af5d218c69c6920d9&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-28T07:05:40Z"
+  },
+  {
+    "login": "cmz269",
+    "name": "miaozhe cai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80191756?s=72&u=bcce44f8cf52188cb4da728e8756a21f8b498638&v=4",
+    "location": "Macao ",
+    "company": "Macao polytechnic university ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-07T07:10:34Z"
+  },
+  {
+    "login": "Kinel-Zhu",
+    "name": "Jinying",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84111215?s=72&u=2cb80a7b20e4ff2fafb8ab52eaed04598f352bf0&v=4",
+    "location": "Taipa, Macao",
+    "company": "University of Macao",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-05-13T01:37:39Z"
+  },
+  {
+    "login": "ZJUStevenU",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87253084?s=72&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-11T03:11:43Z"
   }
 ]

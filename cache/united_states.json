@@ -54142,5 +54142,77 @@
     "privateContributions": 176,
     "publicContributions": 48,
     "createdAt": "2026-02-20T19:09:34Z"
+  },
+  {
+    "login": "muturikaranja",
+    "name": "Muturi Karanja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98111755?s=72&v=4",
+    "location": "Rhode Island, United States",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 42,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-20T16:24:15Z"
+  },
+  {
+    "login": "lyfeyvutha",
+    "name": "Chealyfey Vutha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99248441?s=72&u=1a8d5154238cc62d9e7752a8b33a714273cb4e96&v=4",
+    "location": "Rhode Island, United States",
+    "company": "Brown University",
+    "twitterUsername": "lyfeyvutha",
+    "followers": 21,
+    "privateContributions": 131,
+    "publicContributions": 75,
+    "createdAt": "2022-02-08T08:59:34Z"
+  },
+  {
+    "login": "hartmeyer",
+    "name": "Jennifer Hartmeyer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100317004?s=72&u=37fefff143e9ec5a2f4593bd3571ab2eb9d83ec1&v=4",
+    "location": "Merritt Island, FL, USA",
+    "company": "@integralthread",
+    "twitterUsername": "jhartme",
+    "followers": 17,
+    "privateContributions": 458,
+    "publicContributions": 0,
+    "createdAt": "2022-02-23T20:38:59Z"
+  },
+  {
+    "login": "Windshield-Viper",
+    "name": "Siddharth Gupta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109366063?s=72&u=55a522c3d1e3ba9e7cd4399b4be9c4aa89681b5c&v=4",
+    "location": "Rhode Island, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2022-07-15T15:56:10Z"
+  },
+  {
+    "login": "AlparslanKilinc",
+    "name": "Alparslan Kilinc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100721307?s=72&u=318e83e9faf473c55aae23aba0abd9f16a5c3023&v=4",
+    "location": "Long Island, New York",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-01T18:55:49Z"
+  },
+  {
+    "login": "johnhays",
+    "name": "John Hays (K7VE)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6550650?s=72&v=4",
+    "location": "Kingston, WA, United States",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-01-31T03:49:37Z"
   }
 ]

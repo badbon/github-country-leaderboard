@@ -274,5 +274,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-11T22:02:50Z"
+  },
+  {
+    "login": "mandoiwanaga",
+    "name": "Mando Iwanaga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45728904?s=72&u=1faae35507c72e18746b4aed7e706450ecc31413&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-09T07:55:17Z"
+  },
+  {
+    "login": "cthulhu-uu",
+    "name": "Sky Resendez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38203673?s=72&v=4",
+    "location": "Tamuning, Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-09T06:42:31Z"
+  },
+  {
+    "login": "V90z",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46094463?s=72&u=cbd46050dfee7512bb05367f2e792ef85d298b60&v=4",
+    "location": "Hagåtña, Guam",
+    "company": "@epicgames",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-23T23:17:15Z"
+  },
+  {
+    "login": "samfromguam",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43845678?s=72&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-04T09:27:18Z"
   }
 ]

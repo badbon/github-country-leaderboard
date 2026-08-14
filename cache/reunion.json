@@ -862,5 +862,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-02T05:14:55Z"
+  },
+  {
+    "login": "eldertek",
+    "name": "André Théo LAURET",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118362885?s=72&u=04917174115f659a360c9ee5d8d7ccdddc251dbc&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 465,
+    "publicContributions": 11,
+    "createdAt": "2022-11-16T13:01:18Z"
+  },
+  {
+    "login": "VeroniqueChassan",
+    "name": "Veronique Chassan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101243495?s=72&u=c886f0d7f6f311adbe205e0b500ff76a446237f6&v=4",
+    "location": "Reunion Island (Full Remote)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-09T06:53:18Z"
   }
 ]

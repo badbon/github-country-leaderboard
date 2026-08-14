@@ -4486,5 +4486,29 @@
     "privateContributions": 0,
     "publicContributions": 40,
     "createdAt": "2020-05-10T08:20:59Z"
+  },
+  {
+    "login": "waterpepene",
+    "name": "Robert Circota",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60555366?s=72&u=297592e0f2d2595857ef8b12162285f1775e13c0&v=4",
+    "location": "Malta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-02-01T20:54:41Z"
+  },
+  {
+    "login": "ddebon2004",
+    "name": "David Debono",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61949014?s=72&u=868ebfec7e3698435f21786636374a6be1421107&v=4",
+    "location": "MALTA",
+    "company": "Malta College of Art, Science and Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2020-03-08T20:16:51Z"
   }
 ]

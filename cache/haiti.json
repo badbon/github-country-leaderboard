@@ -1234,5 +1234,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-23T08:13:20Z"
+  },
+  {
+    "login": "clarensromeus",
+    "name": "Romeus Clarens",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108362048?s=72&u=622b650042e3376aeb852831d6fd955f0d6a6e18&v=4",
+    "location": "Port-au-prince/Petion-ville",
+    "company": "Techy trans",
+    "twitterUsername": "clarensromeus",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 256,
+    "createdAt": "2022-06-28T17:44:13Z"
+  },
+  {
+    "login": "rdfonkoze",
+    "name": "Research & Development",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121041425?s=72&u=1a7fbb76c64ce10e40f3758e4f150434e4899d19&v=4",
+    "location": "Port-au-Prince",
+    "company": "FONKOZE",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-19T14:43:30Z"
   }
 ]

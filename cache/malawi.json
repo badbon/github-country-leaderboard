@@ -8122,5 +8122,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-02-23T15:22:04Z"
+  },
+  {
+    "login": "patrickphandera",
+    "name": "PATRICK-PHANDERA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48357053?s=72&u=b105fc9393dbec6d4d746603a1a7297fb5d4207e&v=4",
+    "location": "LIlongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 1219,
+    "publicContributions": 11,
+    "createdAt": "2019-03-08T13:59:27Z"
+  },
+  {
+    "login": "beckymlinda",
+    "name": "Rabecca Mulinda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50849122?s=72&u=f9935049adeed62250f20abd84b9964d60bea84a&v=4",
+    "location": "Lilongwe",
+    "company": "Proxynergy Inc ",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 111,
+    "publicContributions": 289,
+    "createdAt": "2019-05-20T22:07:05Z"
+  },
+  {
+    "login": "Mtheto",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51113560?s=72&u=7c6d20ef6cf815bf79ac748fbdbe89efc2fce1cb&v=4",
+    "location": "Lilongwe ",
+    "company": "@global-health-informatics-institute ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-28T08:15:52Z"
+  },
+  {
+    "login": "808-Computing",
+    "name": "808 Computing",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53947677?s=72&u=4bb497e3cc255d56783f9c161828f941f619aec3&v=4",
+    "location": "Lilongwe",
+    "company": "@808Computing ",
+    "twitterUsername": "808computing",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-09T15:59:10Z"
+  },
+  {
+    "login": "tsokanasi",
+    "name": "Austin Kumwenda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51598462?s=72&v=4",
+    "location": "Lilongwe",
+    "company": "Home ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-10T07:23:33Z"
   }
 ]
