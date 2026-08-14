@@ -94,5 +94,29 @@
     "privateContributions": 99,
     "publicContributions": 74,
     "createdAt": "2017-09-15T15:43:38Z"
+  },
+  {
+    "login": "charliefourindia",
+    "name": "William Knowles",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17080596?s=72&u=d751e8f56a297af6ea0ad8d45d4c9078a03b0784&v=4",
+    "location": "The Valley, Anguilla",
+    "company": "(Undisclosed)",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-05T09:04:46Z"
+  },
+  {
+    "login": "Dream403",
+    "name": "Dream403",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21557155?s=72&u=8a60b0d3caf7d19d34e5f909501c3e4f824347b5&v=4",
+    "location": "Anguilla",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 527,
+    "publicContributions": 60,
+    "createdAt": "2016-09-01T08:59:18Z"
   }
 ]

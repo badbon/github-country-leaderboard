@@ -6034,5 +6034,41 @@
     "privateContributions": 0,
     "publicContributions": 44,
     "createdAt": "2024-03-01T09:55:36Z"
+  },
+  {
+    "login": "aminaomerovic",
+    "name": "Amina Omerović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167921606?s=72&u=237041535323986bb74393d10e865c8c51d416e0&v=4",
+    "location": "Tutin, Srbija",
+    "company": "State University of Novi Pazar",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2024-04-23T20:47:01Z"
+  },
+  {
+    "login": "UrosDubljanin",
+    "name": "Uroš Dubljanin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156373010?s=72&u=16731ef1eeadcb21949f0e1d78212981033d77ee&v=4",
+    "location": "Užice, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 99,
+    "createdAt": "2024-01-11T21:34:26Z"
+  },
+  {
+    "login": "VukasinStupar",
+    "name": "Vukasin Stupar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155387735?s=72&u=2552c7237df2a56a4966a62cc9e3305be26408be&v=4",
+    "location": "Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 17,
+    "publicContributions": 19,
+    "createdAt": "2024-01-01T18:32:25Z"
   }
 ]
