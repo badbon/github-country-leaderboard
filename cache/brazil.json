@@ -25460,7 +25460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 58,
     "createdAt": "2026-02-26T22:39:45Z"
   },
   {
@@ -25640,7 +25640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 126,
     "createdAt": "2026-01-19T18:55:46Z"
   },
   {
@@ -25723,7 +25723,7 @@
     "company": "@rangtecnologia",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1454,
+    "privateContributions": 1456,
     "publicContributions": 29,
     "createdAt": "2026-02-02T17:07:33Z"
   },
@@ -25856,7 +25856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 68,
     "createdAt": "2026-01-11T19:11:39Z"
   },
   {
@@ -25879,7 +25879,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 167,
+    "privateContributions": 168,
     "publicContributions": 59,
     "createdAt": "2026-01-09T12:07:08Z"
   },
@@ -25988,7 +25988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 79,
     "createdAt": "2025-12-31T01:01:41Z"
   },
   {
@@ -26360,7 +26360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 136,
     "createdAt": "2026-01-07T01:57:32Z"
   },
   {
@@ -28942,5 +28942,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-18T20:54:21Z"
+  },
+  {
+    "login": "robertmateus",
+    "name": "Robert Mateus Moreira Gomes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/230405797?s=72&u=d6e981850f66c8c72e5eacf5f179920c8a21d396&v=4",
+    "location": "Colombo (PR), Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 649,
+    "publicContributions": 287,
+    "createdAt": "2025-09-04T16:07:12Z"
+  },
+  {
+    "login": "klaubeer",
+    "name": "Klauber Fischer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265679698?s=72&u=6f8a0e75d7a442d28708c18b10f60626ffa890d8&v=4",
+    "location": "Brazil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 696,
+    "createdAt": "2026-03-05T01:19:01Z"
+  },
+  {
+    "login": "lftob23",
+    "name": "Luiz Fernando Baptistella",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265828807?s=72&u=561af042907210908f368eddcbe7a8b0a5a6f42f&v=4",
+    "location": "Brazil",
+    "company": "Kervon",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-03-05T14:20:07Z"
+  },
+  {
+    "login": "luismanfredi",
+    "name": "luismanfredi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265794116?s=72&u=50289d3ad21f96af406e8addaaf025aefced82e9&v=4",
+    "location": "Brazil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 151,
+    "createdAt": "2026-03-05T11:43:24Z"
+  },
+  {
+    "login": "caiopqueiroz",
+    "name": "Caio Queiroz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265881551?s=72&u=09393503abac5e732a9ae15bcf5e556faec5b36a&v=4",
+    "location": "Pará de Minas, Brazil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 273,
+    "createdAt": "2026-03-05T18:22:46Z"
+  },
+  {
+    "login": "Toni-iarts",
+    "name": "Toni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265906220?s=72&u=6fbf28f7b6fd8e8ac3ecd00c574654cd5558af3f&v=4",
+    "location": "Brazil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-05T20:42:52Z"
   }
 ]

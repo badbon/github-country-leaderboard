@@ -2504,7 +2504,7 @@
     "twitterUsername": "TajAlasfiyaa",
     "followers": 14,
     "privateContributions": 36,
-    "publicContributions": 37,
+    "publicContributions": 38,
     "createdAt": "2021-07-06T11:38:01Z"
   },
   {
@@ -3478,5 +3478,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-21T12:49:35Z"
+  },
+  {
+    "login": "dsxa0",
+    "name": "Ali Hassan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91007684?s=72&u=5292189eb32ce98d6e9c0b6c8090f5089b06988d&v=4",
+    "location": "khartoum",
+    "company": "",
+    "twitterUsername": "373li_",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2021-09-19T09:11:08Z"
+  },
+  {
+    "login": "geniushk",
+    "name": "Kasula Hassan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96200916?s=72&v=4",
+    "location": "Khartoum",
+    "company": "Genius Team",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-15T18:02:48Z"
+  },
+  {
+    "login": "loay-git",
+    "name": "Loay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90589918?s=72&u=9cd48038cd23ed7447de708dadbd93b477ba1740&v=4",
+    "location": "khartoum",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-13T03:21:45Z"
+  },
+  {
+    "login": "ekosan999",
+    "name": "Ahmed Salah Hassan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83024804?s=72&u=287c28aff3a7f5ae2ec5f0b135138b58062dedda&v=4",
+    "location": "Khartoum Altayef ",
+    "company": "NajmTech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-22T15:21:14Z"
+  },
+  {
+    "login": "bakrikhidir",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86316464?s=72&v=4",
+    "location": "Khartoum ",
+    "company": "Web Developers ",
+    "twitterUsername": "bakri",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-22T16:50:45Z"
   }
 ]

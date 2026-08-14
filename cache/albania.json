@@ -3934,5 +3934,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-20T10:06:43Z"
+  },
+  {
+    "login": "not8tob",
+    "name": "ton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111208681?s=72&u=09275872924a9156f1342d694ea1c0bd5064faae&v=4",
+    "location": "Albania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-14T00:59:30Z"
+  },
+  {
+    "login": "DajnaNako",
+    "name": "Dajna Nako",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105735567?s=72&v=4",
+    "location": "Tirane, Albania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-17T15:34:05Z"
+  },
+  {
+    "login": "DenisaMi",
+    "name": "Denisa Millo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112763932?s=72&v=4",
+    "location": "Tirana, Albania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-03T13:17:56Z"
+  },
+  {
+    "login": "Eno107",
+    "name": "Eno Bendi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102754796?s=72&u=ef45b16a933fdeaa03a1e263ad156cd9d9a8fc7b&v=4",
+    "location": "Albania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-31T16:49:18Z"
+  },
+  {
+    "login": "EniCela",
+    "name": "Eni Cela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109823951?s=72&v=4",
+    "location": "Tirane, Albania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2022-07-22T19:11:23Z"
+  },
+  {
+    "login": "rushitmara",
+    "name": "Rushit Mara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118047325?s=72&v=4",
+    "location": "Tirana, Albania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-12T08:59:58Z"
+  },
+  {
+    "login": "emilida",
+    "name": "Emilida",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104722846?s=72&u=265837487014fa6d582fcfe3c89e69a2979500e5&v=4",
+    "location": "Albania",
+    "company": "@kondasoft",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-01T13:16:52Z"
+  },
+  {
+    "login": "KriselaShkembi",
+    "name": "Krisela Shkëmbi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117409372?s=72&u=6484b8eb090c719e4a8469351424310ec8f9a65a&v=4",
+    "location": "Tirana, Albania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2022-11-03T22:13:31Z"
   }
 ]

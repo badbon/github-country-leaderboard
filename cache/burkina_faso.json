@@ -5614,5 +5614,41 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2014-05-01T15:36:39Z"
+  },
+  {
+    "login": "anagalo23",
+    "name": "NAGALO Alexis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9287831?s=72&u=44bcc62e3224eb15474618462899d3460099dec5&v=4",
+    "location": "Ouagadougou",
+    "company": "ISGE-BF",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-17T19:58:35Z"
+  },
+  {
+    "login": "delwende",
+    "name": "Birba Delwende Eliane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9020231?s=72&v=4",
+    "location": "Ouagadougou",
+    "company": "AI-KING GROUP",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2014-10-04T18:04:38Z"
+  },
+  {
+    "login": "bidenock",
+    "name": "bidenock",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9054076?s=72&v=4",
+    "location": "Ouagadougou",
+    "company": "DSI",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-07T16:39:37Z"
   }
 ]

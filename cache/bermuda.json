@@ -2218,5 +2218,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-03T17:11:07Z"
+  },
+  {
+    "login": "darcher-athene",
+    "name": "Daniel Archer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85505889?s=72&v=4",
+    "location": "Bermuda",
+    "company": "@AtheneUSA",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-07T15:10:34Z"
+  },
+  {
+    "login": "keemyboi",
+    "name": "HailHydra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95257204?s=72&u=e6a943e9f8941db051001c32cf4390d27b8fc7fc&v=4",
+    "location": "Bermuda",
+    "company": "RayCast Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2021-11-29T23:24:44Z"
   }
 ]

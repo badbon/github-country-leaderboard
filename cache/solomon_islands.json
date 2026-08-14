@@ -190,5 +190,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-04-16T23:29:02Z"
+  },
+  {
+    "login": "mangiBr",
+    "name": "Brian Mangi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7527607?s=72&u=210c1af05f2642901592fcad546376d55c6eab8d&v=4",
+    "location": "Honiara, Solomon Islands",
+    "company": "ITSUP",
+    "twitterUsername": "mangibr",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-08T20:26:48Z"
+  },
+  {
+    "login": "japhliet",
+    "name": "Rouhanna.japhliet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8433710?s=72&u=581b0bac7e423422eb0cc499035f98635d7c5b37&v=4",
+    "location": "Solomon Islands",
+    "company": "Freelance",
+    "twitterUsername": "Rouhannakj",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-13T02:16:16Z"
   }
 ]

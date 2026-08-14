@@ -9190,5 +9190,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-04T20:07:33Z"
+  },
+  {
+    "login": "elton-ellaz",
+    "name": "elton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85122355?s=72&u=fd18cc832e9276332eabe5b8fb12d81ad9911280&v=4",
+    "location": "Harare",
+    "company": "Kaichro ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-31T15:15:09Z"
+  },
+  {
+    "login": "eltonemabodo",
+    "name": "eltonemabodo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91831586?s=72&v=4",
+    "location": "Harare",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 93,
+    "publicContributions": 29,
+    "createdAt": "2021-10-03T12:24:34Z"
+  },
+  {
+    "login": "Zinaxy",
+    "name": "Blessed Zinaka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90697712?s=72&u=209ee34e33e79b8ac9b56fd5acfab1c765835179&v=4",
+    "location": "Harare",
+    "company": "Zinaxy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 172,
+    "publicContributions": 1,
+    "createdAt": "2021-09-14T12:29:55Z"
+  },
+  {
+    "login": "bcmashaire",
+    "name": "Blessing Mashaire",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79988145?s=72&u=39fcc1b8816335a2f51ef95ca75211e46abb04d6&v=4",
+    "location": "Harare",
+    "company": "@Scalacoms",
+    "twitterUsername": "bcmashaire",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-03T14:42:21Z"
+  },
+  {
+    "login": "Loyie13",
+    "name": "Lloyd Chibwe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95424123?s=72&u=8a39f718e9e777f5bbb70297338b66f1a1800a13&v=4",
+    "location": "Harare",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2021-12-02T13:39:21Z"
   }
 ]
