@@ -1126,5 +1126,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-12-27T06:32:46Z"
+  },
+  {
+    "login": "Zarbel974",
+    "name": "Abel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20366011?s=72&v=4",
+    "location": "Saint Denis",
+    "company": "Wopé",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2016-07-09T04:55:15Z"
+  },
+  {
+    "login": "julienlefur",
+    "name": "Julien Le Fur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17261718?s=72&u=e682842ea7a680924fb7d312bb602590b7a8524f&v=4",
+    "location": "Seine-Saint-Denis(93), FR",
+    "company": "France Télévisions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-16T00:31:38Z"
+  },
+  {
+    "login": "Mohamed-boubaya",
+    "name": "Mohamed Boubaya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20144062?s=72&u=88c7392750736283769aebef53fbc1fbc18f1895&v=4",
+    "location": " Stains, Seine-Saint-Denis",
+    "company": "@viseo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-25T18:05:40Z"
   }
 ]

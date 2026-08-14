@@ -6490,5 +6490,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-27T13:26:27Z"
+  },
+  {
+    "login": "costiucigor",
+    "name": "Xenilae",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90152687?s=72&u=d45d0f05683c79a9c482605af9f93a4ef4ccc9d8&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 2186,
+    "publicContributions": 52,
+    "createdAt": "2021-09-05T18:09:16Z"
+  },
+  {
+    "login": "kawanoyyami",
+    "name": "Vlad Gherța",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85684673?s=72&u=b2c21ccc41e73001f258ebfedf2a47b9f1394766&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2021-06-10T12:20:11Z"
+  },
+  {
+    "login": "ionucb",
+    "name": "Ion",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77528482?s=72&u=4b010494041b8cf602d267e28f016350dbc07b1e&v=4",
+    "location": "MD, Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 24,
+    "publicContributions": 1,
+    "createdAt": "2021-01-16T08:31:37Z"
+  },
+  {
+    "login": "ghidion1",
+    "name": "Ghidion Adrian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90002975?s=72&u=782b0d61adc9b8b0e0aac6106e8dbc58b9a37b49&v=4",
+    "location": "Chișinău",
+    "company": "Google",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2021-09-02T19:02:03Z"
+  },
+  {
+    "login": "MaslovskayaMarina",
+    "name": "Maslovskaya Marina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90597493?s=72&u=36841a8b6e484e8304d919f86c67fdb9eb7bd4c2&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2021-09-13T06:06:42Z"
+  },
+  {
+    "login": "wov1a",
+    "name": "Vladimir Stoian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92797402?s=72&u=7b163523a663881922fcb9c18ca593fc4f391508&v=4",
+    "location": "Chișinău",
+    "company": "Crosstech",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 559,
+    "publicContributions": 7,
+    "createdAt": "2021-10-19T12:41:24Z"
+  },
+  {
+    "login": "bdmoleg",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92338365?s=72&v=4",
+    "location": "Chișinău",
+    "company": "Universitatea Tehnică a Moldovei",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-11T21:06:35Z"
+  },
+  {
+    "login": "Dorin-Mocan",
+    "name": "Dorin Mocan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81161838?s=72&u=bcb9749dcdcf874afff0e1ab2a826f2b44e54599&v=4",
+    "location": "Chișinău",
+    "company": "Essencebit",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-22T11:19:01Z"
   }
 ]

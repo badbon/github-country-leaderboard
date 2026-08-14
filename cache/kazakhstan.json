@@ -13534,5 +13534,65 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-12-19T14:05:57Z"
+  },
+  {
+    "login": "Batyrq14",
+    "name": "ByteByHero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122871602?s=72&u=4cf80299feedb8ceaa5c1384f8d9fe59e24a3014&v=4",
+    "location": "Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 94,
+    "createdAt": "2023-01-17T09:38:02Z"
+  },
+  {
+    "login": "esQueues",
+    "name": "Sayat Kussain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122588120?s=72&u=b3666ecd882ac6fd5afeb2e11c7b1b50ce4df641&v=4",
+    "location": "Qazaqstan, Astana",
+    "company": "Astana IT University",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 1,
+    "publicContributions": 1,
+    "createdAt": "2023-01-13T04:22:42Z"
+  },
+  {
+    "login": "eelaroune",
+    "name": "Nūraly A.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131604149?s=72&u=476654714804ad618c05d8f0e2f3ad7103abfcd7&v=4",
+    "location": "Astana, Qazaqstan Respublikasy",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-23T15:15:14Z"
+  },
+  {
+    "login": "SergazinMadi",
+    "name": "Madi Sergazin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131588217?s=72&v=4",
+    "location": "Qazaqstan",
+    "company": "iitu.edu.kz",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2023-04-23T10:14:29Z"
+  },
+  {
+    "login": "SakenovAB",
+    "name": "Азамат",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125371405?s=72&u=1ee5b18ab7640c680070d20a58bb9eb6e1329722&v=4",
+    "location": "Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-14T13:09:25Z"
   }
 ]

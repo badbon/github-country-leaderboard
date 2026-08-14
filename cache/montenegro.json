@@ -7282,5 +7282,101 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2016-11-29T18:11:04Z"
+  },
+  {
+    "login": "antonnikprelaj",
+    "name": "Anton Nikprelaj",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23745731?s=72&u=0504b656d18d6dab00133496cb96d9f3ebbc1650&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "antonnikprelaj0",
+    "followers": 14,
+    "privateContributions": 38,
+    "publicContributions": 0,
+    "createdAt": "2016-11-25T19:44:54Z"
+  },
+  {
+    "login": "Ninna994",
+    "name": "Nikolina Djekic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17597140?s=72&u=02e044c167e2d4e989d19c59a6db98b23ab062eb&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 81,
+    "publicContributions": 0,
+    "createdAt": "2016-03-02T15:54:53Z"
+  },
+  {
+    "login": "ereninc",
+    "name": "Eren",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24496846?s=72&u=7d2c3468985461abc6592c06872757dc7a5b9745&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 403,
+    "publicContributions": 4,
+    "createdAt": "2016-12-10T18:15:56Z"
+  },
+  {
+    "login": "nikolaveljic64",
+    "name": "Nikola Veljic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18101315?s=72&u=6b0672a248ac07af2dcfd730d1d4552426ec9b7f&v=4",
+    "location": "Podgorica",
+    "company": "Ooblee",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1064,
+    "publicContributions": 0,
+    "createdAt": "2016-03-27T14:35:34Z"
+  },
+  {
+    "login": "SergLeontiev",
+    "name": "Sergey Leontiev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24471927?s=72&u=62a415199a21687893a3cf1e7a1436f48e64af0f&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 2,
+    "publicContributions": 12,
+    "createdAt": "2016-12-09T07:57:34Z"
+  },
+  {
+    "login": "ivominic",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22217506?s=72&v=4",
+    "location": "Podgorica, Montentegro",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 14,
+    "publicContributions": 29,
+    "createdAt": "2016-09-15T13:04:24Z"
+  },
+  {
+    "login": "dragantod",
+    "name": "Dragan Todorovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18100079?s=72&u=d698d9fb2069f09d281403876db78dd484152158&v=4",
+    "location": "Podgorica",
+    "company": "Vemeton",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1032,
+    "publicContributions": 1,
+    "createdAt": "2016-03-27T12:53:37Z"
+  },
+  {
+    "login": "pavleljumovic",
+    "name": "Pavle Ljumović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21970164?s=72&u=9176d88636e67570bf0187f197eb937ab055397c&v=4",
+    "location": "Podgorica",
+    "company": "Codeus",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-03T11:33:11Z"
   }
 ]

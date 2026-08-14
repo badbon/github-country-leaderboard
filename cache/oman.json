@@ -8926,5 +8926,77 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2019-04-24T15:24:27Z"
+  },
+  {
+    "login": "HosseinLachini",
+    "name": "Lachini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47024707?s=72&v=4",
+    "location": "Muscat",
+    "company": "Oman",
+    "twitterUsername": "Lachini",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 60,
+    "createdAt": "2019-01-25T08:19:00Z"
+  },
+  {
+    "login": "hashmi97",
+    "name": "Hisham Al Hashmi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46504631?s=72&u=c0798899649f3924a2686c01eb1b195b5d0f683d&v=4",
+    "location": "Muscat",
+    "company": "Vodafone-Oman",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 44,
+    "publicContributions": 41,
+    "createdAt": "2019-01-08T22:08:52Z"
+  },
+  {
+    "login": "rjayaramegowda",
+    "name": "Ravichandran Jayaramegowda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50406692?s=72&v=4",
+    "location": "Muscat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2019-05-08T11:21:42Z"
+  },
+  {
+    "login": "kawtherjash",
+    "name": "Kawther",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55044389?s=72&u=10a27f48bae647d2af61d12681920e9a70b73bbc&v=4",
+    "location": "Muscat",
+    "company": "PhazeRo",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-08T06:47:43Z"
+  },
+  {
+    "login": "imanalhasani",
+    "name": "Iman Al Hasani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48654637?s=72&u=b1e3b740b896a749bdbe11e7a5b832267f6526ff&v=4",
+    "location": "Muscat",
+    "company": "SQU",
+    "twitterUsername": "ImanAlhasani",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-17T17:25:42Z"
+  },
+  {
+    "login": "victim80",
+    "name": "Vijay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49741501?s=72&v=4",
+    "location": "Muscat",
+    "company": "OHI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-18T04:08:29Z"
   }
 ]

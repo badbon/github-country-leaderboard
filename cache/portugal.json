@@ -24754,5 +24754,41 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2019-04-19T00:41:44Z"
+  },
+  {
+    "login": "RodrimLima19",
+    "name": "Rodrigo Mendes Lima",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147235095?s=72&u=b3117e5a73913ebaed01a543a98d7f5fd64dd43b&v=4",
+    "location": "Ponte de Lima, Portugal",
+    "company": "Universidade do Minho",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 82,
+    "createdAt": "2023-10-07T07:25:15Z"
+  },
+  {
+    "login": "Rodrigodantas04",
+    "name": "Rodrigo Dantas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146781293?s=72&u=acdbae93acc85d26bb8f40f32a6a292a02b3bb64&v=4",
+    "location": "Ponte de Lima , Portugal",
+    "company": "Universidade do Minho",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2023-10-02T21:17:05Z"
+  },
+  {
+    "login": "Sandox22",
+    "name": "Mendoza Useche Santiago Abad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158535602?s=72&u=2601a07d6a73e26ad026d88e568cdfe58d397d75&v=4",
+    "location": "Acarigua , Portuguesa",
+    "company": "Galepso ERP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 202,
+    "createdAt": "2024-02-02T02:15:52Z"
   }
 ]

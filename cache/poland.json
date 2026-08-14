@@ -15574,5 +15574,65 @@
     "privateContributions": 4,
     "publicContributions": 23,
     "createdAt": "2025-07-14T08:23:11Z"
+  },
+  {
+    "login": "ozio1212",
+    "name": "Wiktor Oziewicz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205518137?s=72&u=448edd466b1c1d2384cf1d2cf0afa1db38d3c649&v=4",
+    "location": "Wroclaw",
+    "company": "Wrocław University of Science and Technology",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 100,
+    "publicContributions": 144,
+    "createdAt": "2025-03-30T12:50:18Z"
+  },
+  {
+    "login": "haniabielecka",
+    "name": "Hanna Bielecka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/236173635?s=72&u=45f7a852880c49b9f4546a1472713e95a11540b0&v=4",
+    "location": "Wroclaw",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2025-10-05T08:55:25Z"
+  },
+  {
+    "login": "LKarolek123",
+    "name": "LKarolek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194666638?s=72&u=249c726a2d66bdc01534d3a49f3e473b4afb6754&v=4",
+    "location": "Wroclaw",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 94,
+    "createdAt": "2025-01-12T06:43:21Z"
+  },
+  {
+    "login": "esma617",
+    "name": "Esmanur Ikiz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211858937?s=72&v=4",
+    "location": "wroclaw",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2025-05-15T16:01:54Z"
+  },
+  {
+    "login": "themrmariusz",
+    "name": "Mariusz Mieczysław Goral",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210130338?s=72&v=4",
+    "location": "Wroclaw",
+    "company": "Polska",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-05-03T08:40:30Z"
   }
 ]

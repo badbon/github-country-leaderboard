@@ -24706,5 +24706,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-20T17:02:47Z"
+  },
+  {
+    "login": "Fabricio-191",
+    "name": "Fabricio Rubio Gaston",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47196132?s=72&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 282,
+    "publicContributions": 3,
+    "createdAt": "2019-01-30T22:31:52Z"
+  },
+  {
+    "login": "Itsjuanit",
+    "name": "Juan Ignacio Tejada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49873452?s=72&u=419030efb8b53e6e458435525c074a2103dd0dc2&v=4",
+    "location": "San Juan, Argentina.",
+    "company": "",
+    "twitterUsername": "itsjuanit",
+    "followers": 16,
+    "privateContributions": 1175,
+    "publicContributions": 62,
+    "createdAt": "2019-04-22T14:04:51Z"
+  },
+  {
+    "login": "franfavieri",
+    "name": "Fran Favieri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51652018?s=72&u=2d19794bf38e225f9e8fe11e701b728053f9f9dc&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "franfavieri",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2019-06-10T13:39:00Z"
+  },
+  {
+    "login": "agustinavila",
+    "name": "Agustin Avila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47158942?s=72&u=c21121fec2c34eefdb8c990f5fd440d8cd754605&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 1033,
+    "publicContributions": 130,
+    "createdAt": "2019-01-29T20:27:48Z"
+  },
+  {
+    "login": "matiflp",
+    "name": "Matías López",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52336400?s=72&u=e280589c84ac991afa00d619bdf1322eb9f39b1e&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 8,
+    "publicContributions": 2,
+    "createdAt": "2019-06-29T00:02:14Z"
+  },
+  {
+    "login": "lean2206",
+    "name": "Leandro Saldivar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50563528?s=72&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-05-13T02:49:14Z"
+  },
+  {
+    "login": "alexanderbaez",
+    "name": "Alexander Luis Baez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55719021?s=72&u=f91e6f694623f0822999fe5d2ad27a0d026a772c&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 304,
+    "createdAt": "2019-09-23T21:47:01Z"
+  },
+  {
+    "login": "flowit-ar",
+    "name": "Facundo Camacho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51829538?s=72&v=4",
+    "location": "San Juan, Argentina",
+    "company": "https://flowit-ar.com/",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2019-06-14T15:13:30Z"
   }
 ]

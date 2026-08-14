@@ -1738,5 +1738,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-08-17T11:36:44Z"
+  },
+  {
+    "login": "feyroozecode",
+    "name": "Ibrahim Ahmad (feyroozecode)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43380715?s=72&u=fc9505c52049be6d7e8bb9ce610f2fb0d34c1a60&v=4",
+    "location": "Niger",
+    "company": "",
+    "twitterUsername": "feyroozcode",
+    "followers": 109,
+    "privateContributions": 2242,
+    "publicContributions": 233,
+    "createdAt": "2018-09-18T14:37:37Z"
+  },
+  {
+    "login": "TrakyRichard",
+    "name": "Traky Richard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44176825?s=72&u=4b9bac4ad16a5174b87bdd11dee4a937b88fc00f&v=4",
+    "location": "Niger",
+    "company": "Codeloccol",
+    "twitterUsername": "TrakyRichard",
+    "followers": 28,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2018-10-15T18:58:22Z"
+  },
+  {
+    "login": "F3T1W",
+    "name": "Vlad Matiushin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45319119?s=72&u=68f3dae85f64a58eed9c70157d34e2ff80f2f65d&v=4",
+    "location": "Zinder, Niger",
+    "company": "Refactor Factory",
+    "twitterUsername": "elonmusk",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 104,
+    "createdAt": "2018-11-24T20:02:23Z"
+  },
+  {
+    "login": "MahametH",
+    "name": "Mahamadou HANOUNOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37776898?s=72&v=4",
+    "location": "Niamey, Niger",
+    "company": "M'Startup IT Solutions",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 98,
+    "publicContributions": 0,
+    "createdAt": "2018-03-25T15:43:48Z"
+  },
+  {
+    "login": "Ibrahim227",
+    "name": "Maman Sani Ibrahim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40499403?s=72&u=3e2b49ab374b719d2dd7d12200022c640ef5203e&v=4",
+    "location": "Niamey, Niger ",
+    "company": "",
+    "twitterUsername": "msaniibrahim_",
+    "followers": 4,
+    "privateContributions": 58,
+    "publicContributions": 0,
+    "createdAt": "2018-06-22T17:01:35Z"
+  },
+  {
+    "login": "docteur-charles",
+    "name": "MOUSSA DAN SAAADOU Abdourahamane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41432642?s=72&u=2262a3c24bddad30a8d756576515193c147aee24&v=4",
+    "location": "Niamey, Niger",
+    "company": "SAADAW SYSTEMS",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1776,
+    "publicContributions": 3,
+    "createdAt": "2018-07-19T11:54:55Z"
+  },
+  {
+    "login": "mahamadougit",
+    "name": "Mahamadou Ibrahim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40808243?s=72&u=4af1190c84a14f48a798928a05c8978b19caa1a4&v=4",
+    "location": "Niger",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-07-03T21:21:39Z"
   }
 ]

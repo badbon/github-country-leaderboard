@@ -4870,5 +4870,77 @@
     "privateContributions": 4,
     "publicContributions": 8,
     "createdAt": "2016-06-07T17:45:55Z"
+  },
+  {
+    "login": "francisguchie",
+    "name": "Guchie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22683654?s=72&u=c92be2e50d3e0fea33c110ba47f8e81f2d07f120&v=4",
+    "location": "Freetown",
+    "company": "https://guchietech.com",
+    "twitterUsername": "FrancisGuchie",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-10-07T15:06:56Z"
+  },
+  {
+    "login": "HackIvan",
+    "name": "Infinite Solutions",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20137794?s=72&u=1e64e3f746a31eed8d10866bc3d843c6613dd24e&v=4",
+    "location": "Freetown, Siera Leone",
+    "company": "Infinite Solutions Hub",
+    "twitterUsername": "OMGItz_Ivan",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-06-25T06:22:24Z"
+  },
+  {
+    "login": "bpromise",
+    "name": "Boniface Promise C",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22081757?s=72&v=4",
+    "location": "Freetown",
+    "company": "uSmile (SL)",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-08T17:01:41Z"
+  },
+  {
+    "login": "felaadeyemi",
+    "name": "Olufela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23573148?s=72&u=fe2e73d22fb0ad328e3f5d5fe538828a211c6053&v=4",
+    "location": "Freetown, Lagos, Joburg",
+    "company": "Ascendant & Company",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-19T10:19:47Z"
+  },
+  {
+    "login": "hajjkargbo",
+    "name": "Alhaji A. Kargbo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17002978?s=72&u=612a80a555918e7f15b62e4294c11fa1399ced45&v=4",
+    "location": "freetown",
+    "company": "LamTech Consulting Enterprises",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-01T09:50:23Z"
+  },
+  {
+    "login": "BeatriceSank",
+    "name": "Beatrice",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18011174?s=72&u=a299b896860f232b726deaaf7b843e70f4c82703&v=4",
+    "location": "Freetown",
+    "company": "Ministry of Information and Communication",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-22T15:53:07Z"
   }
 ]

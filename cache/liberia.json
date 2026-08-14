@@ -2122,5 +2122,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-12-01T13:28:35Z"
+  },
+  {
+    "login": "kpolnitz",
+    "name": "Kaela Polnitz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20099584?s=72&u=539f3820b64d39dbb4e875d2db61dcf2ff1c7771&v=4",
+    "location": "Monrovia, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 7,
+    "publicContributions": 0,
+    "createdAt": "2016-06-22T23:03:36Z"
+  },
+  {
+    "login": "mattloveparasoft",
+    "name": "Matt Love",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18577260?s=72&u=01de5f6a0c2da75d2a961f199f408b4c15d796fb&v=4",
+    "location": "Monrovia, CA",
+    "company": "Parasoft Corporation",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 132,
+    "createdAt": "2016-04-20T14:50:44Z"
+  },
+  {
+    "login": "NathanMcCausland",
+    "name": "Nathan McCausland",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24725057?s=72&v=4",
+    "location": "Monrovia, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-23T00:28:58Z"
+  },
+  {
+    "login": "Philip-Bargin",
+    "name": "Philip Bargin Jr.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18030541?s=72&u=7d051ab1c701f8cdd3e97d613c7f1d958cec7754&v=4",
+    "location": "Monrovia",
+    "company": "Innovations Hub Liberia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2016-03-23T12:51:05Z"
   }
 ]

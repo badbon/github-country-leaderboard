@@ -382,5 +382,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-02-09T07:24:47Z"
+  },
+  {
+    "login": "johnsBeharry",
+    "name": "Johns Beharry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183140?s=72&u=d28cf4b13fe321782cd362e4a17792cbeca71767&v=4",
+    "location": "Saint Lucia",
+    "company": "@peakshift ",
+    "twitterUsername": "johnsBeharry",
+    "followers": 145,
+    "privateContributions": 40,
+    "publicContributions": 49,
+    "createdAt": "2010-01-15T18:52:46Z"
+  },
+  {
+    "login": "destinydriven",
+    "name": "destinydriven",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/358145?s=72&u=4b5cd7c4052a21d7f0178018f73926d384f528f8&v=4",
+    "location": "Saint Lucia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-09T02:40:26Z"
+  },
+  {
+    "login": "jigzstar",
+    "name": "Joakim George",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197836?s=72&u=051b477e3afb013b6ba4a4978ba04f02da81106a&v=4",
+    "location": "Castries, Saint Lucia",
+    "company": "Saint Lucia NIC",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 2916,
+    "publicContributions": 0,
+    "createdAt": "2010-02-05T16:44:14Z"
   }
 ]
