@@ -4892,7 +4892,7 @@
     "twitterUsername": "",
     "followers": 28,
     "privateContributions": 1000,
-    "publicContributions": 4796,
+    "publicContributions": 4806,
     "createdAt": "2023-08-14T23:31:38Z"
   },
   {
@@ -4998,9 +4998,9 @@
     "location": "DODOMA, TANZANIA",
     "company": "Software Engineer",
     "twitterUsername": "Haroonaman92",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 114,
-    "publicContributions": 152,
+    "publicContributions": 153,
     "createdAt": "2023-01-27T09:25:31Z"
   },
   {
@@ -6730,5 +6730,101 @@
     "privateContributions": 0,
     "publicContributions": 83,
     "createdAt": "2023-02-03T09:33:01Z"
+  },
+  {
+    "login": "shamiraty",
+    "name": "shamiraty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129072179?s=72&u=88df6d0ea39a81c9cf9a5517498736b599073a3b&v=4",
+    "location": "DODOMA",
+    "company": "ICT SWAHILI",
+    "twitterUsername": "",
+    "followers": 123,
+    "privateContributions": 0,
+    "publicContributions": 58,
+    "createdAt": "2023-03-27T12:59:25Z"
+  },
+  {
+    "login": "mtaju",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152062507?s=72&u=7a083d4a77af0cd56a2cb0ddcae04a4f4103f15e&v=4",
+    "location": "DODOMA",
+    "company": "@mtaju1 ",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-26T09:49:24Z"
+  },
+  {
+    "login": "Said-code-ops",
+    "name": "Monster-Coding",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144340848?s=72&u=010e70228f3ec1257662599634257cb953c1602b&v=4",
+    "location": "Iyumbu,Dodoma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2023-09-07T11:12:50Z"
+  },
+  {
+    "login": "jackroot7",
+    "name": "Jackson Bakari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145048673?s=72&u=83a323d4be7bbad397547abe90eceaf89520f980&v=4",
+    "location": "Dodoma",
+    "company": "eGA",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-09-14T17:02:52Z"
+  },
+  {
+    "login": "Delantez",
+    "name": "Elijah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123517655?s=72&v=4",
+    "location": "Dodoma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-01-24T23:08:37Z"
+  },
+  {
+    "login": "Bogenous",
+    "name": "Bogen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137176812?s=72&v=4",
+    "location": "DODOMA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-20T11:53:29Z"
+  },
+  {
+    "login": "Ramadhan306",
+    "name": "RAMADHANI ABDALLAH SAID",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142504194?s=72&v=4",
+    "location": "University Of Dodoma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-17T12:02:00Z"
+  },
+  {
+    "login": "5889jo",
+    "name": "John Kasenegala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128736272?s=72&u=bff2c656c64eca93b284820ceee87413c0c0fc60&v=4",
+    "location": "Dodoma",
+    "company": "Freelanser",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2023-03-23T17:38:52Z"
   }
 ]

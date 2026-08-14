@@ -3607,8 +3607,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 277,
-    "publicContributions": 1205,
+    "privateContributions": 278,
+    "publicContributions": 1208,
     "createdAt": "2025-07-07T08:09:51Z"
   },
   {
@@ -13114,5 +13114,53 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2025-04-18T02:57:20Z"
+  },
+  {
+    "login": "Aleks13AB",
+    "name": "aleks",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198755908?s=72&u=0d96b3ea0dc03e2a6607b6c935b52f6e77d1b6ec&v=4",
+    "location": "gdansk",
+    "company": "lechia",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2025-02-11T12:49:45Z"
+  },
+  {
+    "login": "viktar-rpa",
+    "name": "Viktar Syanau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207205994?s=72&u=3a26683eb5726a1addd36bae7731da12f76efa67&v=4",
+    "location": "Gdansk",
+    "company": "Hiab CX Center",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2025-04-11T12:50:58Z"
+  },
+  {
+    "login": "tr0val87",
+    "name": "fixyou03",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197448086?s=72&v=4",
+    "location": "Gdansk",
+    "company": "SemGroup",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-02-02T03:08:09Z"
+  },
+  {
+    "login": "OlgaS16",
+    "name": "Olga Szolc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205825553?s=72&v=4",
+    "location": "Gdansk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2025-04-01T18:33:31Z"
   }
 ]

@@ -23770,5 +23770,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-08-21T15:44:17Z"
+  },
+  {
+    "login": "MelissaAutumn",
+    "name": "Mel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97147377?s=72&u=b107f93f8dec0f8d79058c278a09ec141cf54e2a&v=4",
+    "location": "Victoria, Canada",
+    "company": "@thunderbird",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 8,
+    "publicContributions": 1053,
+    "createdAt": "2022-01-05T05:32:28Z"
+  },
+  {
+    "login": "Uncle-Solomon",
+    "name": "Ameh Solomon Onyeke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106064395?s=72&u=8ad65eab6a02e9ec3e89ec1649159debcb03d73c&v=4",
+    "location": "Victoria, British Columbia, Canada",
+    "company": "",
+    "twitterUsername": "uncle_solomon",
+    "followers": 14,
+    "privateContributions": 76,
+    "publicContributions": 0,
+    "createdAt": "2022-05-23T08:16:29Z"
+  },
+  {
+    "login": "tdgao",
+    "name": "Truman Gao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106889354?s=72&u=f6805343122e9e913672e0f3ac8563fa2fc5813f&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "University of Victoria",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 2091,
+    "publicContributions": 1133,
+    "createdAt": "2022-06-04T21:10:41Z"
+  },
+  {
+    "login": "sciprosk",
+    "name": "Igor Proskurin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105472369?s=72&u=20d7a82eccef977e029a7acc4d75dca2c0f7c7fb&v=4",
+    "location": "Victoria, British Columbia, Canada",
+    "company": "Polaris Motion, Inc",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2022-05-13T02:57:23Z"
+  },
+  {
+    "login": "bartwagner",
+    "name": "Wagner G F de Araujo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118787799?s=72&u=1f09cf28e7f80c5ef0afa6c3efaf2e37d087bd83&v=4",
+    "location": "Victoria, Canadá",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-22T03:08:15Z"
   }
 ]

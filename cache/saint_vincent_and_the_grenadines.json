@@ -226,5 +226,41 @@
     "privateContributions": 29,
     "publicContributions": 0,
     "createdAt": "2015-02-07T13:24:20Z"
+  },
+  {
+    "login": "kazar4",
+    "name": "Kazen Gallman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7028719?s=72&u=2296d931599a9f2d227dc872d9727a593c632cae&v=4",
+    "location": "North Kingstown, Rhode Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 123,
+    "publicContributions": 37,
+    "createdAt": "2014-03-22T04:42:18Z"
+  },
+  {
+    "login": "andrewking1597",
+    "name": "Andrew King",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7804882?s=72&u=170b9c2da37524f53181cda41f475710a6a08e0b&v=4",
+    "location": "South Kingstown, RI",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-05T12:05:20Z"
+  },
+  {
+    "login": "warmwinds",
+    "name": "Ryan Litwin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10128192?s=72&u=8ec2ab392242c7403603d3c264c357086ca5cc16&v=4",
+    "location": "26 Kingstown Rd, Narragansett, RI 02882",
+    "company": "Warm Winds",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-09T10:34:41Z"
   }
 ]

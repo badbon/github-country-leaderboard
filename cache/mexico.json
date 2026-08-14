@@ -10738,5 +10738,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-22T17:40:17Z"
+  },
+  {
+    "login": "CharlyMercury",
+    "name": "Carlos Antonio Tovar García",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108154159?s=72&u=2ef227bb9a3f931226f4772870829673d302248f&v=4",
+    "location": "Ciudad Victoria, Tamaulipas, México",
+    "company": "CNAD Noreste · Universidad Politécnica de Victoria",
+    "twitterUsername": "",
+    "followers": 46,
+    "privateContributions": 548,
+    "publicContributions": 83,
+    "createdAt": "2022-06-24T20:30:19Z"
+  },
+  {
+    "login": "Kermayde",
+    "name": "Carlos Flores",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102880415?s=72&u=f79dd36526f0761d5a14e2c4c3416b536d2493fd&v=4",
+    "location": "Victoria de Durango (México)",
+    "company": "Inovatix",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 104,
+    "publicContributions": 0,
+    "createdAt": "2022-04-02T21:07:38Z"
+  },
+  {
+    "login": "jahzeelsantacruzc",
+    "name": "Jazheel Santacruz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104944869?s=72&u=80ef1016d16b86831ae502a8c4aaf5e93358dabc&v=4",
+    "location": "Victoria de Durango, Durango, México.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 153,
+    "publicContributions": 10,
+    "createdAt": "2022-05-04T22:11:51Z"
   }
 ]

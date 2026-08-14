@@ -394,5 +394,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-07-13T21:44:41Z"
+  },
+  {
+    "login": "orson1282",
+    "name": "Orson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4836141?s=72&u=c5a2afe5bbb649507d5f0fbe4ad447aa479e25a3&v=4",
+    "location": "Aruba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-26T14:14:39Z"
+  },
+  {
+    "login": "flacle",
+    "name": "Francis Laclé",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4205424?s=72&u=069a46936e3c49c37d762d8fb2497b7593eb6fe1&v=4",
+    "location": "Aruba",
+    "company": "",
+    "twitterUsername": "flacle",
+    "followers": 7,
+    "privateContributions": 521,
+    "publicContributions": 29,
+    "createdAt": "2013-04-19T21:17:18Z"
+  },
+  {
+    "login": "icsaruba",
+    "name": "Samuel Kemp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4121922?s=72&v=4",
+    "location": "Aruba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-11T03:18:49Z"
   }
 ]
