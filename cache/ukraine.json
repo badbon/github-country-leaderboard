@@ -11266,5 +11266,53 @@
     "privateContributions": 0,
     "publicContributions": 184,
     "createdAt": "2023-04-08T09:44:00Z"
+  },
+  {
+    "login": "DmytroKozlovskiy",
+    "name": "Dmytro Kozlovskyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204241515?s=72&u=12e9f7c11fdb0108727c47b44bf454b63d82ccc3&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2025-03-20T18:02:39Z"
+  },
+  {
+    "login": "SafnerDev",
+    "name": "SafnerDev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/237623444?s=72&u=9162c74ecb48ac42dfd330ea85a191c84033a8e8&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2025-10-12T17:47:39Z"
+  },
+  {
+    "login": "Evgen-Jekov",
+    "name": "Jeek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203185151?s=72&u=1525fa849988a43ee5cbd13a1598a71f342b33f1&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2025-03-13T23:46:45Z"
+  },
+  {
+    "login": "Golner-artos",
+    "name": "Ivan Haydey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/240032592?s=72&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 109,
+    "createdAt": "2025-10-24T15:47:23Z"
   }
 ]

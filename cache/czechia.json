@@ -17302,5 +17302,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-27T12:16:12Z"
+  },
+  {
+    "login": "damaroo0",
+    "name": "Danyil Marushchak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122614432?s=72&u=18351636cc72ec0d2d3d55d04299ce3d9d767e3d&v=4",
+    "location": "Prague",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2023-01-13T12:36:21Z"
+  },
+  {
+    "login": "bstrihova-cen56069",
+    "name": "Strihova Barbora",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129757999?s=72&u=b2c0a7d913eaf0486e7b1cbd3e3f416a211ee8ef&v=4",
+    "location": "Prague",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-03T12:53:23Z"
+  },
+  {
+    "login": "jaroslavdufek",
+    "name": "Jaroslav Dufek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126576948?s=72&u=7430a6e2d132949c7994d77ccc557f4c75662c4f&v=4",
+    "location": "Prague",
+    "company": "GISAT s.r.o.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2023-02-28T12:32:03Z"
+  },
+  {
+    "login": "VladyslavHl",
+    "name": "Vladyslav Hladchenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135313421?s=72&v=4",
+    "location": "Prague",
+    "company": "Stats Perform",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 557,
+    "publicContributions": 8,
+    "createdAt": "2023-06-02T07:25:51Z"
+  },
+  {
+    "login": "MiDoCisco",
+    "name": "Michal Dobisek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133981286?s=72&u=0dc4ab71835488d6f9250df891e50a80d0d6c7e6&v=4",
+    "location": "Prague, CZ",
+    "company": "Cisco",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-18T13:42:04Z"
+  },
+  {
+    "login": "MartinHoloubekQC",
+    "name": "Martin Holoubek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128492898?s=72&u=384c828784e2e2bdee07060349dd0c108cae9ef4&v=4",
+    "location": "Prague",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2023-03-21T13:46:36Z"
+  },
+  {
+    "login": "martinplisek-ext43258",
+    "name": "Martin Plíšek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132710407?s=72&u=be09ab9d2e3d1d13869852bdb4a36eb7871da199&v=4",
+    "location": "Prague",
+    "company": "ČSAS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-05T20:07:00Z"
   }
 ]

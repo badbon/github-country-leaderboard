@@ -2962,5 +2962,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-11-03T06:56:59Z"
+  },
+  {
+    "login": "swangchu",
+    "name": "Sonam Wangchu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11675368?s=72&u=3cf21e8b54246b5ef7e4d500585978b9cc9323c1&v=4",
+    "location": "Thimphu, Bhutan",
+    "company": "Education",
+    "twitterUsername": "wsonam",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-27T05:16:39Z"
+  },
+  {
+    "login": "deven9229",
+    "name": "Deven Gurung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13871478?s=72&u=160c10952e1100ed5c5b38f092424a1dbbb58c3b&v=4",
+    "location": "Thimphu, Bhutan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-19T14:55:01Z"
+  },
+  {
+    "login": "bhuwang279",
+    "name": "Bhuwan Gurung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13500078?s=72&u=79542f23db366774eee17fe7448b4397a308780f&v=4",
+    "location": "Thimphu, Bhutan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1252,
+    "publicContributions": 32,
+    "createdAt": "2015-07-25T18:51:07Z"
+  },
+  {
+    "login": "ntdorji",
+    "name": "Ngawang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15306143?s=72&v=4",
+    "location": "Thimphu, Bhutan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-10-25T03:39:07Z"
+  },
+  {
+    "login": "Brad-Anthony",
+    "name": "Brad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14141085?s=72&u=68bf6a0bd8335bcec70d0333388b6c14684f7815&v=4",
+    "location": "Bhutan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-05T17:41:19Z"
   }
 ]

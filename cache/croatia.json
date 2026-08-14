@@ -12154,5 +12154,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-24T21:04:40Z"
+  },
+  {
+    "login": "Ante889",
+    "name": "Ante Filipović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83250242?s=72&u=714dcb425261592edecf0223b0048bd8cadb822e&v=4",
+    "location": "Osijek, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 1254,
+    "publicContributions": 0,
+    "createdAt": "2021-04-26T21:39:44Z"
+  },
+  {
+    "login": "petarjagric",
+    "name": "Petar Jagrić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83279909?s=72&u=527c3b0586523861591abb526ec229fa6ef39458&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-27T10:03:07Z"
+  },
+  {
+    "login": "IcedLime2001",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82949568?s=72&v=4",
+    "location": "Kastav (Castua / Khästau), Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-21T12:30:08Z"
   }
 ]

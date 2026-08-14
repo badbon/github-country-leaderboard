@@ -130,5 +130,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-12T11:38:10Z"
+  },
+  {
+    "login": "Czuowuek-SOS",
+    "name": "amogus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91487506?s=72&u=9298631824a7a544cae523540257f47cf2525694&v=4",
+    "location": "Vatican",
+    "company": "Parufex",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 139,
+    "publicContributions": 1,
+    "createdAt": "2021-09-27T16:06:31Z"
+  },
+  {
+    "login": "meereuk",
+    "name": "KKUL",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86495699?s=72&u=6cb8c6afacac232863d67674dc5dc5d013fe0f34&v=4",
+    "location": "Vatican City",
+    "company": "Roman Curia",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2021-06-25T19:59:42Z"
+  },
+  {
+    "login": "madladprankstr",
+    "name": "madrian lardprunk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93329775?s=72&u=9c823e2c7981a60b8e1591d1d9a0c998e09bb4aa&v=4",
+    "location": "the vatican City",
+    "company": "Google",
+    "twitterUsername": "notch",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-28T13:14:32Z"
+  },
+  {
+    "login": "EddCova11",
+    "name": "Eduardo Cova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80143867?s=72&v=4",
+    "location": "Vatican City",
+    "company": "covalux.social",
+    "twitterUsername": "EddCova11",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2021-03-06T05:42:25Z"
   }
 ]

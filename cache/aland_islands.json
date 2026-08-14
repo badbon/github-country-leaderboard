@@ -298,5 +298,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-29T21:59:23Z"
+  },
+  {
+    "login": "joakim-ha",
+    "name": "Joakim Isaksson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68053006?s=72&v=4",
+    "location": "Åland Islands",
+    "company": "Åland University of Applied Sciences",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2020-07-09T08:10:04Z"
+  },
+  {
+    "login": "kejpa",
+    "name": "Kjell Hansen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70717865?s=72&v=4",
+    "location": "Mariehamn, Åland Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 397,
+    "createdAt": "2020-09-03T17:43:43Z"
   }
 ]

@@ -10966,5 +10966,29 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2024-10-14T15:13:40Z"
+  },
+  {
+    "login": "CharlesNinelle",
+    "name": "Nina Charles",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145468692?s=72&u=b2af887e3ddbe0b0fdc693fa4230d35503674a8f&v=4",
+    "location": "België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-19T13:53:30Z"
+  },
+  {
+    "login": "ntnthefirst",
+    "name": "Nathan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129688663?s=72&v=4",
+    "location": "België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2023-04-02T18:49:53Z"
   }
 ]

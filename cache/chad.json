@@ -1750,5 +1750,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-12-30T21:39:24Z"
+  },
+  {
+    "login": "balesco",
+    "name": "Bale Hormo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59670453?s=72&u=b8a35a4a0514456bb88edc2f5459b89c70661f9d&v=4",
+    "location": "N'Djamena, Tchad",
+    "company": "Konguil",
+    "twitterUsername": "BaleHormo1",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2020-01-08T22:37:44Z"
+  },
+  {
+    "login": "wardougou-cloud",
+    "name": "WARDOUGOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60442639?s=72&u=880757c377a06fca660b58b118d8ccba9f09a807&v=4",
+    "location": "N´Djamena TCHAD",
+    "company": "",
+    "twitterUsername": "Wardougoutoke",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2020-01-29T17:27:56Z"
+  },
+  {
+    "login": "Brahim-djiddi",
+    "name": "Brahim Djiddi Habre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68776826?s=72&u=f1a33d919887d05c113c67b23da2e2e5a28782bc&v=4",
+    "location": "Tchad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 21,
+    "publicContributions": 0,
+    "createdAt": "2020-07-25T11:36:00Z"
+  },
+  {
+    "login": "tchadiasoft",
+    "name": "Admin&Dev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67522720?s=72&u=f647719775f99b10e32e62a55f50b20f80d48009&v=4",
+    "location": "tchad",
+    "company": "tchadiasoft",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-27T21:23:00Z"
   }
 ]
