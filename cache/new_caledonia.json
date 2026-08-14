@@ -1246,5 +1246,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-10-17T08:27:52Z"
+  },
+  {
+    "login": "ebzao",
+    "name": "Nicolas Aupetit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/674102?s=72&v=4",
+    "location": "Nouméa, New Caledonia",
+    "company": "Nautile",
+    "twitterUsername": "ebzao",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2011-03-16T23:28:37Z"
+  },
+  {
+    "login": "bpouzet",
+    "name": "Benoit Pouzet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1146675?s=72&v=4",
+    "location": "Nouméa, New Caledonia",
+    "company": "@ooopener",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 797,
+    "publicContributions": 16,
+    "createdAt": "2011-10-23T17:38:23Z"
   }
 ]

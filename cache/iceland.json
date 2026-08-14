@@ -2362,5 +2362,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-16T08:40:22Z"
+  },
+  {
+    "login": "ccptoebeans",
+    "name": "CCP Toebeans",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105929497?s=72&u=432b1c7ce76d5a1fffcd684eee43a2145ef02d32&v=4",
+    "location": "Reykjavik",
+    "company": "ccpgames",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 512,
+    "createdAt": "2022-05-20T13:46:53Z"
+  },
+  {
+    "login": "XieZilongAI",
+    "name": "xzl666",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118340974?s=72&u=a9d92b3ac0a21d938f69de3d9629bd8b16edaafe&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2022-11-16T07:46:32Z"
+  },
+  {
+    "login": "suprun-bohdan",
+    "name": "Bohdan Suprun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99832644?s=72&u=bdc221f655756f2cf038b830a041cbdbc062b87a&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 673,
+    "publicContributions": 218,
+    "createdAt": "2022-02-16T18:37:03Z"
+  },
+  {
+    "login": "Curanda",
+    "name": "Mikael Kuranda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103290697?s=72&u=39092fd7aa8dc8fb8ed1d8735697f0c0b51ede82&v=4",
+    "location": "Reykjavik",
+    "company": "Nordic Gentleman ehf.",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2022-04-08T22:25:28Z"
+  },
+  {
+    "login": "jorgswansen",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100126496?s=72&u=319810e0343631ac27a0165b2997a16417007784&v=4",
+    "location": "Reykjavik, IS",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-21T09:46:35Z"
+  },
+  {
+    "login": "p1nd3l",
+    "name": "Błażej",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111698450?s=72&u=be19b6673e7fb22bfae4ec322984dfbf0a48e8f0&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-21T16:06:05Z"
+  },
+  {
+    "login": "TTedy",
+    "name": "Þorvaldur Breki Lárusson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97121620?s=72&u=30c5e94c2104145007722809983d7a228f9aa83c&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 53,
+    "publicContributions": 46,
+    "createdAt": "2022-01-04T17:58:45Z"
   }
 ]

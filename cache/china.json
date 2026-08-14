@@ -20434,5 +20434,65 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-14T12:40:49Z"
+  },
+  {
+    "login": "thunderlrr",
+    "name": "Songxin Lei",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107555861?s=72&u=830ae8762bde7b797618d03cf520f9e5f220159e&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "The Hong Kong University of Science and Technology",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2022-06-15T12:17:30Z"
+  },
+  {
+    "login": "Godvey",
+    "name": "Wei Yu (Fitz)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76108541?s=72&u=4fa541f695d05dd7aa9b42b74b920f039d6af662&v=4",
+    "location": "Macao SAR, China",
+    "company": "City University of Macau, Sun Yat-sen University, ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-12-16T12:49:39Z"
+  },
+  {
+    "login": "LeoWong0910",
+    "name": "LeoWong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69077024?s=72&u=05e60dc0b1f3efed62fbab7a64226f29dcae14cc&v=4",
+    "location": "Macao, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-08-01T11:15:40Z"
+  },
+  {
+    "login": "MarkWalton-Tu",
+    "name": "TU YANQIANG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76468564?s=72&u=90b513aed7a4b385208643ce923d6d9cc95f696f&v=4",
+    "location": "Macao Polytechnic University R. de Luís Gonzaga Gomes, Macao, China",
+    "company": "Macao Polytechnic University ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2020-12-22T07:01:39Z"
+  },
+  {
+    "login": "CyberSecurityX",
+    "name": "SecurityX",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68979627?s=72&v=4",
+    "location": "Macao,China",
+    "company": "SecurityX",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-07-30T02:10:41Z"
   }
 ]

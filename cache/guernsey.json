@@ -106,5 +106,29 @@
     "privateContributions": 71,
     "publicContributions": 2,
     "createdAt": "2020-01-06T21:42:09Z"
+  },
+  {
+    "login": "atdeJimmyG",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56130480?s=72&u=6cbd30c3e908f38216c43f1590224f5d7c6e6f2b&v=4",
+    "location": "Falmouth/Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-03T17:19:19Z"
+  },
+  {
+    "login": "davidgoy",
+    "name": "David Goy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48857727?s=72&v=4",
+    "location": "Guernsey, Channel Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-23T11:58:22Z"
   }
 ]

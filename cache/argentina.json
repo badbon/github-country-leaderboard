@@ -22294,5 +22294,89 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2024-03-23T00:15:04Z"
+  },
+  {
+    "login": "MarcosRos",
+    "name": "Marcos Rosales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80920805?s=72&u=e3d78c505377a24a0d210fe2f9faa42a802a68be&v=4",
+    "location": "San Salvador de Jujuy, Jujuy, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 1298,
+    "publicContributions": 0,
+    "createdAt": "2021-03-18T19:23:45Z"
+  },
+  {
+    "login": "santyXD905",
+    "name": "Santiago José Luis Tintilay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80933942?s=72&u=586010080cb0e725a4e70a7e693d28f530dd3229&v=4",
+    "location": "San Salvador de Jujuy, Jujuy, Argentina",
+    "company": "MPA",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 319,
+    "publicContributions": 0,
+    "createdAt": "2021-03-19T02:29:22Z"
+  },
+  {
+    "login": "FlorNV",
+    "name": "Florencia Noelí Valdez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83730770?s=72&u=ad4643f3d888a07542f2928a1e89a9d6271ef50f&v=4",
+    "location": "San Salvador de Jujuy, Jujuy, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2021-05-05T20:41:41Z"
+  },
+  {
+    "login": "LeandroAlfaro",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86422905?s=72&u=4945ca7e4a1731af66e146caff5533578f7b25ff&v=4",
+    "location": "San Salvador de Jujuy, Jujuy, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2021-06-24T15:07:47Z"
+  },
+  {
+    "login": "andres777c",
+    "name": "Andrés Chaile",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83734983?s=72&u=684274dc9974c45805b9285e4b39405c04971052&v=4",
+    "location": "San Salvador de Jujuy, Jujuy, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 56,
+    "publicContributions": 58,
+    "createdAt": "2021-05-05T23:04:34Z"
+  },
+  {
+    "login": "matias-martearena",
+    "name": "Matías Martearena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93354080?s=72&u=23ab1f44757d0928d66d4ebcb8127e625a72d262&v=4",
+    "location": "San Salvador de Jujuy, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-28T22:22:32Z"
+  },
+  {
+    "login": "rmfigue",
+    "name": "Marcelo Figueroa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81186234?s=72&u=e0eb1545f8709358ecde939a4fe6eaaa5e433a1b&v=4",
+    "location": "San Salvador de Jujuy, Argentina",
+    "company": "",
+    "twitterUsername": "rmfigue",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-22T18:27:01Z"
   }
 ]

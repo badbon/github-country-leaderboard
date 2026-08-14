@@ -8986,5 +8986,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-01T18:53:15Z"
+  },
+  {
+    "login": "olgatenison",
+    "name": "Olga Tenison",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88651744?s=72&u=ec9683d6c44fe2fa9ba6ec7063420d83bfbb8092&v=4",
+    "location": "Tallinn Eesti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 309,
+    "createdAt": "2021-08-09T07:43:16Z"
+  },
+  {
+    "login": "Lun4-R",
+    "name": "Niko Steiner",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80452066?s=72&u=587b3d09935e11e6d5c80dabd8f4388fe3c94661&v=4",
+    "location": "Viimsi , Harjumaa , Eesti Vabariik",
+    "company": "Solo Developer / Artist",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-11T08:43:00Z"
+  },
+  {
+    "login": "lebra2",
+    "name": "Markus Timofejev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92708848?s=72&u=fb990cabc46751d2055a824b45e31f517100d3bd&v=4",
+    "location": "Eesti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-10-18T05:43:31Z"
+  },
+  {
+    "login": "GendroU",
+    "name": "Gendro Umber",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92147308?s=72&v=4",
+    "location": "Eesti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-08T07:08:45Z"
+  },
+  {
+    "login": "Xarlein",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96684137?s=72&v=4",
+    "location": "Eesti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-26T11:00:44Z"
   }
 ]

@@ -3226,5 +3226,65 @@
     "privateContributions": 0,
     "publicContributions": 58,
     "createdAt": "2022-10-05T08:41:11Z"
+  },
+  {
+    "login": "windphone",
+    "name": "windphone",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99844467?s=72&u=1bbbc6300ed521e2cc00dd2970746febc85bf5f7&v=4",
+    "location": "Luxembourg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-16T22:12:42Z"
+  },
+  {
+    "login": "JulienSalvatore",
+    "name": "Julien Salvatore",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115537405?s=72&u=04a5160f561d9ab4b8c5ad4faac361341ed90039&v=4",
+    "location": "Luxembourg",
+    "company": "Devoteam",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-10-11T08:37:39Z"
+  },
+  {
+    "login": "gretamiotto",
+    "name": "Greta Miotto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98708315?s=72&u=a3ac11aa6cf2f061d342d0a99933324196a04afc&v=4",
+    "location": "Luxembourg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-30T18:26:15Z"
+  },
+  {
+    "login": "drnicoleperez",
+    "name": "Nicole Perez Becker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121057534?s=72&u=4b49963319b0816f16f284258ebea26302ec981a&v=4",
+    "location": "Luxembourg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2022-12-19T19:19:04Z"
+  },
+  {
+    "login": "SNaP-J",
+    "name": "Julien Pawlowski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119522312?s=72&u=c37a9c7f1b0461ebc3f5bf4b180f737b84b06236&v=4",
+    "location": "Luxembourg",
+    "company": "@SFEIR",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2022-11-30T16:27:29Z"
   }
 ]

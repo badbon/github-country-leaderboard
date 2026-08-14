@@ -1436,7 +1436,7 @@
     "twitterUsername": "LouisMcLeonard1",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 77,
     "createdAt": "2021-09-19T01:07:58Z"
   },
   {
@@ -1630,5 +1630,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-10T03:01:17Z"
+  },
+  {
+    "login": "DavidDaudier",
+    "name": "David DAUDIER",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92274861?s=72&u=a868e96a89c19800bb30ad81d6703b8ba36f9bb2&v=4",
+    "location": "Port-au-prince, HT",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2021-10-10T20:42:48Z"
+  },
+  {
+    "login": "Nicaisse",
+    "name": "Nicaisse Bryan ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95947844?s=72&u=25d3212263d3a5102f266049412e9647e4d732e1&v=4",
+    "location": "Port-au-Prince",
+    "company": "D-EAT",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1765,
+    "publicContributions": 17,
+    "createdAt": "2021-12-11T01:41:58Z"
   }
 ]

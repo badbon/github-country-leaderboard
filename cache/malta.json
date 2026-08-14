@@ -5686,5 +5686,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2019-02-09T13:45:57Z"
+  },
+  {
+    "login": "matthew-formosa-gig",
+    "name": "Matthew Formosa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48676894?s=72&u=469d58540016b67b03acf5d7fe30b6890893573c&v=4",
+    "location": "Malta",
+    "company": "GiG",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-18T10:24:59Z"
+  },
+  {
+    "login": "lcami",
+    "name": "Luke Camilleri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53264216?s=72&u=1c8b19b19c83aad9f5102ff790397654509d773e&v=4",
+    "location": "Malta",
+    "company": "Zyla Computing Limited",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-24T12:55:27Z"
+  },
+  {
+    "login": "NicoleCassar",
+    "name": "Nicole Cassar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58428728?s=72&u=6387a61a84562b6db8ea7c8ca6066e5a60af4ae9&v=4",
+    "location": "Malta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-02T12:57:28Z"
+  },
+  {
+    "login": "ryagi97",
+    "name": "Ryan Agius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57682128?s=72&u=154100a1f8f02b5738e0733229502a23ba67e477&v=4",
+    "location": "Malta",
+    "company": "@lemonworx-com ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 689,
+    "publicContributions": 10,
+    "createdAt": "2019-11-12T18:17:38Z"
   }
 ]

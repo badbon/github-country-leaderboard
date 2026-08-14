@@ -742,5 +742,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-02-22T21:22:22Z"
+  },
+  {
+    "login": "iamcryptoki",
+    "name": "Gael Gentil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22425397?s=72&u=72ea9e1de808aa311fc2f9e67bed7ae8f240a5c7&v=4",
+    "location": "Guadeloupe",
+    "company": "@ionis-education-group",
+    "twitterUsername": "",
+    "followers": 137,
+    "privateContributions": 1745,
+    "publicContributions": 2,
+    "createdAt": "2016-09-25T07:53:03Z"
+  },
+  {
+    "login": "IliesZazu",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21285834?s=72&u=553002ca449d4a9a2881bfaf707a4e8e0ef30243&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-28T02:11:15Z"
+  },
+  {
+    "login": "greggalas",
+    "name": "Greg galas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18297369?s=72&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-06T00:48:54Z"
   }
 ]

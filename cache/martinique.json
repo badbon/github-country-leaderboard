@@ -862,5 +862,29 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2012-10-29T17:31:11Z"
+  },
+  {
+    "login": "ricard33",
+    "name": "Cédric RICARD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1162576?s=72&u=d935aa4795e8d339ce4398b0803703d90e80723f&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2011-10-31T14:09:20Z"
+  },
+  {
+    "login": "fabwice",
+    "name": "Fabrice Belliard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1225739?s=72&u=acf9dc1d0429829237588d280ee05a55b811c9d8&v=4",
+    "location": "Martinique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-28T16:17:40Z"
   }
 ]

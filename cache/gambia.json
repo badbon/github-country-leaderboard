@@ -790,5 +790,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-03-15T21:28:08Z"
+  },
+  {
+    "login": "Baboucar",
+    "name": "Baboucarr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20600766?s=72&u=6d1e5d5e752c31049ffdcffaef85ae030c7061f0&v=4",
+    "location": "Gambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 131,
+    "publicContributions": 21,
+    "createdAt": "2016-07-22T16:08:48Z"
+  },
+  {
+    "login": "Degoot-AM",
+    "name": "Abdoelnaser M Degoot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19929487?s=72&u=d154322701121d940d28d02e41a5749f8d354274&v=4",
+    "location": "Banjul, Gambia",
+    "company": "@LSHTM @MRCG",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 200,
+    "createdAt": "2016-06-14T12:15:19Z"
+  },
+  {
+    "login": "FrancisMario",
+    "name": "Marxlo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23318448?s=72&u=f4b220b0a5baf8bfcb7bc3f823d2c2e0b3769b45&v=4",
+    "location": "Gambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 2399,
+    "publicContributions": 33,
+    "createdAt": "2016-11-07T17:03:37Z"
+  },
+  {
+    "login": "jboillat",
+    "name": "Jacques Boillat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18345063?s=72&u=7da6001c39ce67e53eba71bfc53f10028c9fda8f&v=4",
+    "location": "Gambia",
+    "company": "University of The Gambia",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-08T08:11:12Z"
+  },
+  {
+    "login": "browniez",
+    "name": "Ousman Conteh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19984303?s=72&u=028528ff0af348e0636211076a8950a08cc14a56&v=4",
+    "location": "Gambia",
+    "company": "Ebaaba",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-16T23:44:14Z"
+  },
+  {
+    "login": "lamin-manneh",
+    "name": "Lamin Manneh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19915569?s=72&u=44e9ea8bcf17dd27d86b45b4b42a6698414b6cd7&v=4",
+    "location": "Gambia",
+    "company": "Konnect Tech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-13T19:04:19Z"
+  },
+  {
+    "login": "muhammed7794",
+    "name": "muhammed manneh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22869187?s=72&u=ee44a4753b87499f02c3889d95fa4198145ba80d&v=4",
+    "location": "Banjul, The Gambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-16T13:19:57Z"
+  },
+  {
+    "login": "Bjayteh",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24341372?s=72&v=4",
+    "location": "Gambia",
+    "company": "Gisqo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-03T04:29:05Z"
   }
 ]

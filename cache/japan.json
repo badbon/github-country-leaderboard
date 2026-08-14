@@ -6739,7 +6739,7 @@
     "company": "Kyushu University",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1696,
+    "privateContributions": 1698,
     "publicContributions": 189,
     "createdAt": "2025-06-27T06:25:02Z"
   },
@@ -7676,7 +7676,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 29,
     "createdAt": "2025-05-16T05:49:57Z"
   },
   {
@@ -8995,7 +8995,7 @@
     "company": "Kyushu Institute of Technology",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2330,
+    "privateContributions": 2333,
     "publicContributions": 796,
     "createdAt": "2025-06-04T05:56:09Z"
   },
@@ -9919,7 +9919,7 @@
     "company": "Canopy Plus, LLC.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 11293,
+    "privateContributions": 11332,
     "publicContributions": 0,
     "createdAt": "2025-03-15T18:05:08Z"
   },
@@ -19150,5 +19150,101 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-09-06T14:45:44Z"
+  },
+  {
+    "login": "rinsrsm",
+    "name": "Rintaro Shiroshima",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203959245?s=72&u=1860f50af74b5302ff8dfc937bbfd47b86fbc8c8&v=4",
+    "location": "Fukuoka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-03-19T06:50:44Z"
+  },
+  {
+    "login": "grampr",
+    "name": "gram",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204695595?s=72&u=2deb83f239575e1e29205dde59d2278ce40e4f36&v=4",
+    "location": "Fukuoka/Nagasaki",
+    "company": "",
+    "twitterUsername": "nhnh_jp",
+    "followers": 3,
+    "privateContributions": 169,
+    "publicContributions": 141,
+    "createdAt": "2025-03-24T09:32:10Z"
+  },
+  {
+    "login": "kanapiii22",
+    "name": "kanapiii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205907063?s=72&u=eff24c3d9eb60f11a18bbb9d60f0b8309bdc5d34&v=4",
+    "location": "fukuoka",
+    "company": "",
+    "twitterUsername": "kanapiii2299",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-04-02T09:19:03Z"
+  },
+  {
+    "login": "A-Dotto",
+    "name": "Dotto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210893910?s=72&u=5cca3aa5f7c0ef93af309cb6be4340afe036b5a0&v=4",
+    "location": "Fukuoka",
+    "company": "Fujiwara Tofu",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-05-08T16:57:06Z"
+  },
+  {
+    "login": "Manato-Atoda",
+    "name": "Manato Atoda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235816054?s=72&u=5545cde81f457d52fe5456276e17507e0cbbac4d&v=4",
+    "location": "JP/Fukuoka",
+    "company": "ATDM",
+    "twitterUsername": "atdm87",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-10-03T03:50:15Z"
+  },
+  {
+    "login": "a-ksb",
+    "name": "Akira Kusaba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209758726?s=72&v=4",
+    "location": "Fukuoka, Japan",
+    "company": "Kyushu University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2025-04-30T08:37:19Z"
+  },
+  {
+    "login": "1SI25031K",
+    "name": "宮本航聖",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208094635?s=72&u=27faa10e1383939b713a6d22fe623a6d4a67243f&v=4",
+    "location": "Fukuoka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 369,
+    "createdAt": "2025-04-18T01:15:16Z"
+  },
+  {
+    "login": "Cos-Tanaka",
+    "name": "Hiroomi Tanaka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235867736?s=72&u=10f30600bff9c7c85277b10ab22a30444f6033c5&v=4",
+    "location": "Fukuoka",
+    "company": "Cosmic Business Co,JP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 71,
+    "createdAt": "2025-10-03T10:30:06Z"
   }
 ]
