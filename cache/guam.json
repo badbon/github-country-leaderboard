@@ -346,5 +346,65 @@
     "privateContributions": 470,
     "publicContributions": 10,
     "createdAt": "2017-08-03T01:58:32Z"
+  },
+  {
+    "login": "Chovin",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17536161?s=72&u=9469e9f49afda2f9858dfb445d47b437fcde77c3&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "Guamfella",
+    "followers": 24,
+    "privateContributions": 12,
+    "publicContributions": 339,
+    "createdAt": "2016-02-29T01:37:22Z"
+  },
+  {
+    "login": "Disav0wed",
+    "name": "Ibrahim R Serpici",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19501376?s=72&u=9a66ea8feeebe4af41838d6310d0b9ca5e4b4507&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2016-05-21T06:10:51Z"
+  },
+  {
+    "login": "VentureGuam",
+    "name": "Andrea Naomi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22814661?s=72&v=4",
+    "location": "Guam",
+    "company": "Venture Guam ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-13T11:29:16Z"
+  },
+  {
+    "login": "chowdzzzz",
+    "name": "Anthony Balmaceda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23129872?s=72&u=d475fbfd065f83295a1afa5d1742be6c0f69505c&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-28T23:14:13Z"
+  },
+  {
+    "login": "IanSimoriah",
+    "name": "Ian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20981214?s=72&u=ab9fca8aa24def74a22a201caa311d66a9d44c37&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-12T01:38:55Z"
   }
 ]

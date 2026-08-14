@@ -3967,7 +3967,7 @@
     "company": "Botswana International University of Science and Technology ",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 2051,
+    "privateContributions": 2056,
     "publicContributions": 72,
     "createdAt": "2019-07-25T13:44:53Z"
   },
@@ -4258,5 +4258,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-02T08:50:12Z"
+  },
+  {
+    "login": "mrdiin",
+    "name": "Botshelo Brandon Tidimalo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57068426?s=72&u=020ac1d02e93f0fc8e00f152b2c23b7e7ab170ca&v=4",
+    "location": "Gaborone",
+    "company": "Innovateium (Pty) Ltd",
+    "twitterUsername": "mrdiin_dev",
+    "followers": 21,
+    "privateContributions": 1325,
+    "publicContributions": 105,
+    "createdAt": "2019-10-27T15:18:34Z"
+  },
+  {
+    "login": "sndaba",
+    "name": "Simisani Ndaba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53818579?s=72&u=c8c45cceee4eb7f8852a04162088a4f6fbbe771b&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2019-08-06T10:07:25Z"
+  },
+  {
+    "login": "nmunatsi",
+    "name": "Nimrod Munatsi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58169969?s=72&u=0673874aaa6d467cb7eb6b7a82d409dfdf50957d&v=4",
+    "location": "Gaborone",
+    "company": "Botswana Havard Partnership",
+    "twitterUsername": "mc_turner_bw",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-25T10:27:43Z"
+  },
+  {
+    "login": "katlego100",
+    "name": "Katlego Mosolina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56755363?s=72&u=b87c4a9f5acbb716b80a7af5b1d8b329bd5ec4bf&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-19T08:38:29Z"
+  },
+  {
+    "login": "royalmofenyi",
+    "name": "Royal Mofenyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55611009?s=72&u=fc17237ec492d742716ffe1bc718bbdda78fb428&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "royalmofenyi",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-21T03:04:33Z"
+  },
+  {
+    "login": "ramolefeg",
+    "name": "Shana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48208748?s=72&u=0f6ebf4b34c9ef7284da5b71e0cd575a11c0f090&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-04T11:52:45Z"
+  },
+  {
+    "login": "OMMuga",
+    "name": "OSeleke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59037065?s=72&u=d3d96cce78a6f03ef4c47e2d8316900120c47e97&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-19T01:25:59Z"
   }
 ]

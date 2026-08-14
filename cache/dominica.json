@@ -46,5 +46,41 @@
     "privateContributions": 238,
     "publicContributions": 1,
     "createdAt": "2021-09-09T05:22:50Z"
+  },
+  {
+    "login": "Nexxus-LMT",
+    "name": "WaitukuNexx",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64750108?s=72&u=097a3009499af0af80f646c364641d724ddffcac&v=4",
+    "location": "Dominica",
+    "company": "Waituku Technology Solutions",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2020-05-03T19:12:16Z"
+  },
+  {
+    "login": "Emmanuel767-byte",
+    "name": "Emmanuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67298790?s=72&u=f2b9c64ad570e2d61edd4fe214bb249ff426657d&v=4",
+    "location": "Dominica, The Caribbean",
+    "company": "Junior React JS Developer @CleverProgrammer",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-23T00:55:00Z"
+  },
+  {
+    "login": "EsaiasBurnette",
+    "name": "Esaias_B",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70551435?s=72&u=f77ec166a74d210ebad2ff66888ccdd5b6ea1ee1&v=4",
+    "location": "Dominica",
+    "company": "Burnette Tech Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-09-01T00:19:05Z"
   }
 ]

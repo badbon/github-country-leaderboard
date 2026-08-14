@@ -2326,5 +2326,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-14T18:53:18Z"
+  },
+  {
+    "login": "Cellou404",
+    "name": "Cellou Cisse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59032243?s=72&u=af5045f88b68bad9e2e710977853b8cf6eec05c0&v=4",
+    "location": "Conakry, Guinée",
+    "company": "Nimba Solution",
+    "twitterUsername": "CisseCellou",
+    "followers": 13,
+    "privateContributions": 1456,
+    "publicContributions": 1,
+    "createdAt": "2019-12-18T20:47:48Z"
+  },
+  {
+    "login": "fouzo09",
+    "name": "Mafouz DIALLO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46787062?s=72&u=ed9d84e430496de1fc24c0f9b81f64d988fa8bcc&v=4",
+    "location": "Guinée, conakry",
+    "company": "GUB GROUP",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 253,
+    "publicContributions": 8,
+    "createdAt": "2019-01-17T14:40:47Z"
+  },
+  {
+    "login": "MalickRoi",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53946690?s=72&u=40e0286eeea758b1b99ddb3680bba5b30ce722f4&v=4",
+    "location": "Conakry",
+    "company": "freelance",
+    "twitterUsername": "lord_malick",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-09T15:28:04Z"
+  },
+  {
+    "login": "csvikrame",
+    "name": "SAYON",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46379114?s=72&u=361792a3d9c48ff545ff7b7b4928b4a00d3aef94&v=4",
+    "location": "Conakry",
+    "company": "",
+    "twitterUsername": "SayonCamara3",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2019-01-04T15:25:39Z"
+  },
+  {
+    "login": "Barry-Abdoul-Hakim",
+    "name": "Barry Abdoul Hakim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54329681?s=72&u=deac030b00485a72b3db5cbcec44d647ccd5a461&v=4",
+    "location": "Conakry, Guinée",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-20T18:24:14Z"
+  },
+  {
+    "login": "715-del",
+    "name": "ovechkin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55709309?s=72&v=4",
+    "location": "conakry",
+    "company": "software",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-23T16:49:26Z"
+  },
+  {
+    "login": "gzdev224",
+    "name": "GZ-DEV",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58894946?s=72&u=61b0dd913f76a47c132a97fe2471eb6157a2f7a8&v=4",
+    "location": "GUINEE CONAKRY",
+    "company": "GROUPE ZIAMMA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-15T00:55:49Z"
+  },
+  {
+    "login": "bahmamadoubah",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47705634?s=72&v=4",
+    "location": "conakry",
+    "company": "bahmamadoubah",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-17T02:59:46Z"
   }
 ]

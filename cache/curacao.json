@@ -34,5 +34,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-11T01:18:07Z"
+  },
+  {
+    "login": "michaelfinies",
+    "name": "Michelangelo Finies",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88624520?s=72&u=33558750744aec1e822c2414ff2e41ad84e262bd&v=4",
+    "location": "Curaçao",
+    "company": "Student",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-08T15:22:15Z"
+  },
+  {
+    "login": "SMART-OBC",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86059790?s=72&u=4f85f119a2123244467643c944e0e1d5e8789957&v=4",
+    "location": "Curaçao, Willemstad",
+    "company": "SMART-obc",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-17T13:03:29Z"
+  },
+  {
+    "login": "MaicaLoui",
+    "name": "Maica Loui",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90541475?s=72&u=4171871349c8f93e55a1ced5e40474c18bb89fb9&v=4",
+    "location": "Curaçao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-12T04:21:02Z"
   }
 ]

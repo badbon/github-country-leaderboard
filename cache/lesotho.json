@@ -1318,5 +1318,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-19T07:10:46Z"
+  },
+  {
+    "login": "jabariwoods",
+    "name": "wydmav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58219036?s=72&u=866a18b9d83ed996eb0e48cb295eaa950113ee1b&v=4",
+    "location": "Maseru",
+    "company": "T-Connect",
+    "twitterUsername": "0xgreazy",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2019-11-26T12:56:08Z"
+  },
+  {
+    "login": "kaneloramokhele",
+    "name": "Ramokhele",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53220676?s=72&u=e0554c315b48f0e2fa22d696702365e45a79e6a6&v=4",
+    "location": "Maseru",
+    "company": "AliansImperium PTY LTD",
+    "twitterUsername": "MRamokhele",
+    "followers": 4,
+    "privateContributions": 929,
+    "publicContributions": 5,
+    "createdAt": "2019-07-23T11:36:30Z"
+  },
+  {
+    "login": "KenedyMoremi",
+    "name": "Tumisang Moremi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51514859?s=72&u=2727bf0dce7cba6fd065584a62ba80e5273c7e1a&v=4",
+    "location": "Maseru",
+    "company": "",
+    "twitterUsername": "_Moremi_",
+    "followers": 1,
+    "privateContributions": 793,
+    "publicContributions": 0,
+    "createdAt": "2019-06-08T17:04:06Z"
   }
 ]

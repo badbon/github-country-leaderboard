@@ -2434,5 +2434,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-06-17T21:16:11Z"
+  },
+  {
+    "login": "MarcelWeb007",
+    "name": "ANVANE Marcel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53498389?s=72&u=96652654352484458d4d6abcc1906cc4a735b915&v=4",
+    "location": "libreville",
+    "company": "Informaticiens du web",
+    "twitterUsername": "LeckiMarcel",
+    "followers": 12,
+    "privateContributions": 11,
+    "publicContributions": 14,
+    "createdAt": "2019-07-30T23:44:12Z"
+  },
+  {
+    "login": "poizonhack",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51056576?s=72&u=587a390b7eab67ea6ea543476d9b3079968e172b&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2019-05-26T16:44:28Z"
+  },
+  {
+    "login": "Kevy235",
+    "name": "Mbaitoloum NDjelassem Kevin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49596662?s=72&u=dede4fcb5dba4748c655fe7816cbbaa1cc6722f2&v=4",
+    "location": "Libreville",
+    "company": "none",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2019-04-13T19:11:19Z"
+  },
+  {
+    "login": "adriel-meb",
+    "name": "Adriel Mebaley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51916490?s=72&u=adbc15f382619c2ba9a5b866fe8c1d5aaadd182d&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2019-06-17T13:15:00Z"
+  },
+  {
+    "login": "simonkrom",
+    "name": "SimonKROM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57063583?s=72&v=4",
+    "location": "Libreville",
+    "company": "TechBase241",
+    "twitterUsername": "nzongsimon",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2019-10-27T11:54:38Z"
+  },
+  {
+    "login": "thieryGit",
+    "name": "Mouamadje Thiery",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54945067?s=72&u=9d9961d8a71c402040708362ed248164e0b67699&v=4",
+    "location": "Libreville",
+    "company": "Etudiant",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-05T13:26:39Z"
+  },
+  {
+    "login": "sweetaym",
+    "name": "Aymerica",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57811680?s=72&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-15T19:05:50Z"
+  },
+  {
+    "login": "bvandroidcertified",
+    "name": "Mbaiwodji Bienvenue",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55005363?s=72&u=1b7fcf5e8b9e44b96e995bee61695da5c0dd5127&v=4",
+    "location": "Libreville",
+    "company": "ITCORP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-06T22:44:03Z"
+  },
+  {
+    "login": "justinhomikala",
+    "name": "Justinho MIKALA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54251151?s=72&u=5dcabfef49e40d46f2fa4913a8552e501988a920&v=4",
+    "location": "libreville",
+    "company": "Asdecode",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-18T22:31:21Z"
   }
 ]
