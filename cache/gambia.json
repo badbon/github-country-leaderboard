@@ -490,5 +490,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-27T15:46:50Z"
+  },
+  {
+    "login": "deedevs",
+    "name": "David Ladipo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64803207?s=72&u=83036b2e7dba714eba1df2406b491538d2901002&v=4",
+    "location": "Banjul, The Gambia",
+    "company": "",
+    "twitterUsername": "davy0417",
+    "followers": 27,
+    "privateContributions": 878,
+    "publicContributions": 24,
+    "createdAt": "2020-05-04T18:06:26Z"
+  },
+  {
+    "login": "Amadou-Jallow",
+    "name": "Amadou S Jallow",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60195765?s=72&v=4",
+    "location": "Gambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-22T19:05:29Z"
+  },
+  {
+    "login": "ZaynSaul",
+    "name": "Saul Zayn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61361210?s=72&u=dfffcd7481f625693eecf6b31aca2ddeda05486c&v=4",
+    "location": "Gambia/Banjul",
+    "company": "@DANOSOFT",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1186,
+    "publicContributions": 99,
+    "createdAt": "2020-02-22T19:02:10Z"
+  },
+  {
+    "login": "Agent957",
+    "name": "Muhammed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62333395?s=72&u=fbab81ca04d01db98e121200543202e0ccb3e9ec&v=4",
+    "location": "Gambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-18T10:23:23Z"
+  },
+  {
+    "login": "Adama101",
+    "name": "Adama Jarju",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70521563?s=72&u=028a67fa34b503129889a2a2a6142aa1a09b8e80&v=4",
+    "location": "Gambia",
+    "company": "MEST Africa || Ex Kuringo",
+    "twitterUsername": "aduboyjarjusey",
+    "followers": 2,
+    "privateContributions": 771,
+    "publicContributions": 725,
+    "createdAt": "2020-08-31T12:31:40Z"
+  },
+  {
+    "login": "Lamin-Gibba",
+    "name": "Lamin Gibba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61189250?s=72&u=2a8016586144066c5b155929ef5d542d68abf840&v=4",
+    "location": "Gambia,Banjul,",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-02-18T11:33:00Z"
+  },
+  {
+    "login": "ONjie",
+    "name": "Muhammed O Njie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70782172?s=72&u=849c25ec5c3db4f1379d3a40faa677acc31adc65&v=4",
+    "location": "Banjul, The Gambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 120,
+    "createdAt": "2020-09-04T23:26:22Z"
+  },
+  {
+    "login": "sash-sillah",
+    "name": "Sash Sillah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74569098?s=72&u=4ce098ad283b248a6ce79aa9d362456647454490&v=4",
+    "location": "Gambia",
+    "company": "",
+    "twitterUsername": "Sash23846296",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-16T21:14:07Z"
+  },
+  {
+    "login": "MassJammeh",
+    "name": "Mass Jammeh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66839485?s=72&u=da3d15169bb5ea9c9476f1a20b8923ea4825a333&v=4",
+    "location": "Gambia",
+    "company": "Gambia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2020-06-12T15:47:38Z"
   }
 ]

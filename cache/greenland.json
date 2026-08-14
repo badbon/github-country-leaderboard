@@ -238,5 +238,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-25T18:22:08Z"
+  },
+  {
+    "login": "aantoooon",
+    "name": "anton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62193371?s=72&u=e844478143134d81bf5968e4561333da4e35329f&v=4",
+    "location": "Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1531,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-15T01:47:33Z"
+  },
+  {
+    "login": "DaniEstevezBarcia",
+    "name": "Daniel Estévez-Barcia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73343340?s=72&u=dbe22a4060d965d0bb2a7f15d62ffc68b619c779&v=4",
+    "location": "Greenland",
+    "company": "Greenland Institute of Natural Resources",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 14,
+    "publicContributions": 18,
+    "createdAt": "2020-10-23T11:36:56Z"
+  },
+  {
+    "login": "zenull",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61303254?s=72&u=7ca67312913b3bcc6a5eba1b638161a70573a108&v=4",
+    "location": "Narsaq, Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-02-21T03:33:40Z"
+  },
+  {
+    "login": "MyrandFox",
+    "name": "MyrandFox",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66683943?s=72&u=325c8d95c629605c03e07309937bb0effad715f6&v=4",
+    "location": "Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 20,
+    "publicContributions": 0,
+    "createdAt": "2020-06-09T14:06:34Z"
+  },
+  {
+    "login": "pow3rdown",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63931326?s=72&v=4",
+    "location": "@greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-18T21:10:08Z"
   }
 ]

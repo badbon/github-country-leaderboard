@@ -382,5 +382,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-16T17:53:16Z"
+  },
+  {
+    "login": "ElGranV",
+    "name": "Chaps",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62523886?s=72&u=91a69fb3d953f5c69c349473c3b0a988b19e11b3&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 8,
+    "publicContributions": 0,
+    "createdAt": "2020-03-22T22:19:24Z"
+  },
+  {
+    "login": "lsl3468a",
+    "name": "Ludivine Lsr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66391065?s=72&u=3979129050d0236f8877bc613906a45ff148a447&v=4",
+    "location": "Guadeloupe",
+    "company": "Université des Antilles",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-03T21:50:28Z"
+  },
+  {
+    "login": "holydidi971",
+    "name": "wisemancedrick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68781808?s=72&u=84b4b53c3fea2666fba6727e50e32310dbc2f0f1&v=4",
+    "location": "Guadeloupe",
+    "company": "ic2snet",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-07-25T14:30:38Z"
+  },
+  {
+    "login": "mykod",
+    "name": "Yannick Morvan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60834913?s=72&u=d1d4cc1f6febb607bb425eac0b6d29c11860598b&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 16,
+    "publicContributions": 1,
+    "createdAt": "2020-02-09T04:27:46Z"
   }
 ]

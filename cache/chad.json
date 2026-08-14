@@ -658,5 +658,89 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-12-13T10:35:51Z"
+  },
+  {
+    "login": "ahmatissaali",
+    "name": "Ahmat Issa Ali Haggar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125512170?s=72&v=4",
+    "location": "tchad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-15T21:42:01Z"
+  },
+  {
+    "login": "steveyandev",
+    "name": "Steve Yanyara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142183898?s=72&v=4",
+    "location": "Tchad",
+    "company": "Tikego",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 182,
+    "publicContributions": 45,
+    "createdAt": "2023-08-13T22:38:11Z"
+  },
+  {
+    "login": "allaramadji",
+    "name": "Dingamtebeye Allaramadji",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134612443?s=72&v=4",
+    "location": "Tchad ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-25T12:04:20Z"
+  },
+  {
+    "login": "Oussamn",
+    "name": "OUSMANE YAYA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124361657?s=72&v=4",
+    "location": "tchad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-02-03T11:56:20Z"
+  },
+  {
+    "login": "touka-mi",
+    "name": "Mahamat Touka ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/140710784?s=72&u=721ab7576891c84caab3be409b15c7ee56d8f723&v=4",
+    "location": "tchad",
+    "company": "Bokom services ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-27T10:47:33Z"
+  },
+  {
+    "login": "UBA822",
+    "name": "Mr leopold patrick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153724589?s=72&u=cf3727a7649c8b9763f66acfb27abb2266e5a4ee&v=4",
+    "location": "TCHAD",
+    "company": "UBA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-12-13T09:56:27Z"
+  },
+  {
+    "login": "pasingdeuh",
+    "name": "singdeuh pabame",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149585090?s=72&u=9bd2695eb8b5b384f658913212edafdb3bc06091&v=4",
+    "location": "N'Djamena Tchad",
+    "company": "Adwad Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-01T11:35:06Z"
   }
 ]

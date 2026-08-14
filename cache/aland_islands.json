@@ -154,5 +154,29 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2024-05-15T14:14:29Z"
+  },
+  {
+    "login": "blueskiy01",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122779689?s=72&u=09639461b853e263c1e5aed8f605c665ce4688dc&v=4",
+    "location": "Mariehamn, Åland Islands",
+    "company": "Ålands Landskapsregering ",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-16T08:34:23Z"
+  },
+  {
+    "login": "pregamer189",
+    "name": "Elias Blomberg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144891485?s=72&u=5c0bf2052290cecb22d36efb350f77ac8ae5c405&v=4",
+    "location": "1 Strandgatan, Mariehamn 22100, Åland Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-09-13T08:13:42Z"
   }
 ]

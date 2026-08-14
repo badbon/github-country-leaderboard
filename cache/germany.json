@@ -12094,5 +12094,65 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-17T09:33:02Z"
+  },
+  {
+    "login": "PhilippRep",
+    "name": "Philipp Repke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261429779?s=72&u=da7336834b00b72535d5f5262e8efcef8756ccf1&v=4",
+    "location": "Leipzig",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 251,
+    "createdAt": "2026-02-13T13:22:41Z"
+  },
+  {
+    "login": "Xargall",
+    "name": "Mathias Mayer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276527098?s=72&u=752574f90657e61f93e1a5e51024bba1f4a9546d&v=4",
+    "location": "Leipzig",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 39,
+    "publicContributions": 394,
+    "createdAt": "2026-04-16T07:37:31Z"
+  },
+  {
+    "login": "temur0100",
+    "name": "Temur Bakhodirov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259960381?s=72&u=328ad4eb36dab41fa7223e03b9575c23eaf6e72f&v=4",
+    "location": "Leipzig",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-02-06T21:35:16Z"
+  },
+  {
+    "login": "SteffiWi",
+    "name": "SteWi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269438355?s=72&u=bb5c1066dc7dd453398e31abb312f5f692620b64&v=4",
+    "location": "Leipzig",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-03-19T10:45:51Z"
+  },
+  {
+    "login": "jupjannes",
+    "name": "Jannes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/277694260?s=72&v=4",
+    "location": "Leipzig",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-04-20T09:09:26Z"
   }
 ]

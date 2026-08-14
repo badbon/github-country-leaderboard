@@ -226,5 +226,29 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2018-11-25T00:48:57Z"
+  },
+  {
+    "login": "azaandam",
+    "name": "André Zaandam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26090297?s=72&v=4",
+    "location": "Aruba",
+    "company": "CR38TE",
+    "twitterUsername": "azaandam",
+    "followers": 9,
+    "privateContributions": 794,
+    "publicContributions": 2,
+    "createdAt": "2017-02-28T14:41:45Z"
+  },
+  {
+    "login": "hfsyung",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25619002?s=72&v=4",
+    "location": "Aruba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2017-02-07T18:23:23Z"
   }
 ]

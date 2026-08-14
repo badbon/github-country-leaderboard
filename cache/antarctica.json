@@ -5530,5 +5530,65 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2011-08-02T11:09:33Z"
+  },
+  {
+    "login": "lastsky",
+    "name": "lastsky",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/334280?s=72&v=4",
+    "location": "Antarctica",
+    "company": "",
+    "twitterUsername": "lastsky",
+    "followers": 27,
+    "privateContributions": 38,
+    "publicContributions": 2,
+    "createdAt": "2010-07-16T18:09:14Z"
+  },
+  {
+    "login": "BoBeR182",
+    "name": "BoBeR182",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/525433?s=72&u=5cc312c08c82d739337ebcd70ccac516ca6193e6&v=4",
+    "location": "Antarctica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 58,
+    "createdAt": "2010-12-16T06:44:51Z"
+  },
+  {
+    "login": "DigitalVanilla",
+    "name": "Davide Scheriani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/334690?s=72&u=1d274183bf2f01fc034aaddec906ebb7d3e76c4f&v=4",
+    "location": "Antarctica",
+    "company": "DigitalVanilla",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 927,
+    "publicContributions": 16,
+    "createdAt": "2010-07-17T06:10:26Z"
+  },
+  {
+    "login": "makhan",
+    "name": "Muntasir Khan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181678?s=72&v=4",
+    "location": "Antarctica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2010-01-13T20:14:56Z"
+  },
+  {
+    "login": "alaindemour",
+    "name": "Alain Demour",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208030?s=72&v=4",
+    "location": "Antarctica",
+    "company": "incubii consulting",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 937,
+    "publicContributions": 252,
+    "createdAt": "2010-02-21T22:03:38Z"
   }
 ]

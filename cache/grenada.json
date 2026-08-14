@@ -286,5 +286,53 @@
     "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2018-05-10T17:54:07Z"
+  },
+  {
+    "login": "lenuswalker",
+    "name": "Lenus Walker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30915168?s=72&u=68d13bcd5c8854c9df30f32db9999f5011790ad4&v=4",
+    "location": "Grenada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 39,
+    "publicContributions": 151,
+    "createdAt": "2017-08-11T01:06:05Z"
+  },
+  {
+    "login": "Shami15",
+    "name": "Shammar Langaigne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26829169?s=72&u=b86a43bb2ebb58ad97b1e42eb01e58c71cdd62f8&v=4",
+    "location": "Grenada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-01T01:59:09Z"
+  },
+  {
+    "login": "mmsacky",
+    "name": "Michael Msacky",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25211089?s=72&v=4",
+    "location": "Grenada, W.I",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2017-01-18T22:17:32Z"
+  },
+  {
+    "login": "khario",
+    "name": "Khari Outram",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25088931?s=72&u=c71930a08394460334f48f1cf530e6302975d5de&v=4",
+    "location": "Grenada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-12T20:50:18Z"
   }
 ]
