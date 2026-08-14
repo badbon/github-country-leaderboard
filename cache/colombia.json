@@ -12382,5 +12382,29 @@
     "privateContributions": 0,
     "publicContributions": 51,
     "createdAt": "2025-08-07T17:29:28Z"
+  },
+  {
+    "login": "AsllyZuniga",
+    "name": "Aslly Ivonne Zuñiga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126729392?s=72&u=1f525dd4c60ada26e5bf7d7acdfa9af2f6914fd8&v=4",
+    "location": "Colombia, San Juan de Pasto",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 125,
+    "createdAt": "2023-03-01T23:06:03Z"
+  },
+  {
+    "login": "DeiderRuiz",
+    "name": "Deider Y. Ruiz Acosta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124200902?s=72&u=6eb3ae4dfde42f8c91f058abced4ddf920451cce&v=4",
+    "location": "San Juan De Betulia, Sucre, Colombia",
+    "company": "Full Stack Developer",
+    "twitterUsername": "DeiderRuiz",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2023-02-01T19:11:08Z"
   }
 ]

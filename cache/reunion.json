@@ -454,5 +454,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-07T13:49:44Z"
+  },
+  {
+    "login": "theo-futol",
+    "name": "Théo Futol",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93364057?s=72&u=db3105f02e46076096fd8162a21fa4ecf8801b6b&v=4",
+    "location": "Saint-Denis, Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 226,
+    "publicContributions": 32,
+    "createdAt": "2021-10-29T04:07:05Z"
+  },
+  {
+    "login": "Yato97",
+    "name": "Donovan R",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81426374?s=72&u=baa9fddd8777dba32d79eb3e119016501793481a&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 420,
+    "publicContributions": 0,
+    "createdAt": "2021-03-26T13:58:07Z"
+  },
+  {
+    "login": "Robin-Lune",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81846355?s=72&u=997249aced5d346d4e0f176b69072d79df5fb03a&v=4",
+    "location": "Réunion",
+    "company": "La Forge Numérique",
+    "twitterUsername": "Robin_Lune",
+    "followers": 5,
+    "privateContributions": 849,
+    "publicContributions": 144,
+    "createdAt": "2021-04-03T05:42:40Z"
+  },
+  {
+    "login": "LeratPablo",
+    "name": "Lerat Pablo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79102993?s=72&u=8fc2f22828bdcbaa4507e639ada21ea7606a3240&v=4",
+    "location": "Réunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 65,
+    "publicContributions": 7,
+    "createdAt": "2021-02-15T16:21:26Z"
+  },
+  {
+    "login": "tonii0",
+    "name": "Vittorio Toni Busatta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81808387?s=72&u=ca23219b6589ec690740f49a87ee503da2e23e82&v=4",
+    "location": "Réunion Island, France",
+    "company": "@busvtta",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-02T10:51:48Z"
+  },
+  {
+    "login": "slayercode1",
+    "name": "Yann Clain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86052870?s=72&u=3607603819d15e91bccbbaf2bc723274b6be8540&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 664,
+    "publicContributions": 121,
+    "createdAt": "2021-06-17T10:33:06Z"
+  },
+  {
+    "login": "WilfreDraw",
+    "name": "Wilfre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89744650?s=72&u=c73e72bcb9a1efeffe4c93325cdf210572f9818e&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-08-29T17:38:07Z"
+  },
+  {
+    "login": "RunMyWEb",
+    "name": "Morel Frédéric",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91075283?s=72&u=36bb6fa5d118f1383a1274476ef92afd3dc8a4a0&v=4",
+    "location": "Réunion Island",
+    "company": "RunMyWeb",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-20T14:28:56Z"
+  },
+  {
+    "login": "NayerAli",
+    "name": "Nayer Raza ALI-MAHOMED",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93466846?s=72&u=1dfe5475180423762e508474152654e5dc8161b5&v=4",
+    "location": "Réunion",
+    "company": "Medrive",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 79,
+    "createdAt": "2021-10-31T08:01:50Z"
   }
 ]

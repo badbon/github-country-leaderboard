@@ -7690,5 +7690,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-16T00:29:41Z"
+  },
+  {
+    "login": "stefano-dorian-franco",
+    "name": "Stefano Dorian FRANCO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/240168668?s=72&u=aadd1897e816543096a0f7d7695087001faf9dea&v=4",
+    "location": "Paris - Torino Italia - International",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 172,
+    "createdAt": "2025-10-25T12:35:16Z"
+  },
+  {
+    "login": "Loarglas",
+    "name": "Bruno Dennemont",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96182001?s=72&u=58861db286b6e4be4b50aefc0fa32a486daefe3c&v=4",
+    "location": "Saint-Denis-de-La Réunion (France)",
+    "company": "BD Diffusion",
+    "twitterUsername": "BDnmt",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-15T11:55:01Z"
+  },
+  {
+    "login": "Rachel-Rbt",
+    "name": "Rachel Robert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95308586?s=72&v=4",
+    "location": "Bordeaux - Réunion",
+    "company": "L'Autre Regard",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-11-30T18:05:22Z"
+  },
+  {
+    "login": "tomwey2",
+    "name": "Thomas Weyrath",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82934885?s=72&u=623740f6fbcf0431ab908c1aa1d2fab55b67f209&v=4",
+    "location": "La Réunion / France",
+    "company": "IT Freelancer",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 879,
+    "createdAt": "2021-04-21T08:01:42Z"
   }
 ]

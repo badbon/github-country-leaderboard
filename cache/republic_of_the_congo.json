@@ -946,5 +946,65 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2023-04-23T12:51:02Z"
+  },
+  {
+    "login": "LeBigLester",
+    "name": "IBALA Emmanuel Amour-Bonté",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152219109?s=72&u=2af6ba920dc3b36542e912950f28eaaae764740a&v=4",
+    "location": "Brazzaville",
+    "company": "webtinix",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 1305,
+    "publicContributions": 0,
+    "createdAt": "2023-11-27T20:05:34Z"
+  },
+  {
+    "login": "horlynat-mm",
+    "name": "Horlynat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123875576?s=72&u=cf0ff27c0798f2c59c1291a888876bba2971f3f5&v=4",
+    "location": "Brazzaville",
+    "company": "Digital Business Group",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-29T12:52:33Z"
+  },
+  {
+    "login": "maxespoir",
+    "name": "Max MONGO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125405126?s=72&u=8e0ac9609645cfaf95ceb5f571b6760fe32e380e&v=4",
+    "location": "Brazzaville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2023-02-14T20:14:57Z"
+  },
+  {
+    "login": "StGloire",
+    "name": "StGloire",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143730256?s=72&v=4",
+    "location": "Brazzaville",
+    "company": "DREAM",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2023-08-31T14:48:57Z"
+  },
+  {
+    "login": "benitokoubemba",
+    "name": "Benito",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143097786?s=72&u=ae373c220fb0e40dcc69eb466259f897203ca72b&v=4",
+    "location": "Brazzaville",
+    "company": "WHO",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-24T13:24:31Z"
   }
 ]

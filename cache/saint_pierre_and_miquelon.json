@@ -58,5 +58,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-03T09:16:54Z"
+  },
+  {
+    "login": "matthieu-viel-fr",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92448590?s=72&u=829ede1124630a4032274c48b80a0994e6d4e530&v=4",
+    "location": "Saint-pierre La Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 120,
+    "createdAt": "2021-10-13T13:55:00Z"
+  },
+  {
+    "login": "pjsebastien",
+    "name": "sebastien PIERREJEAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77431104?s=72&u=34643e61448a315b15099727bd849e87fec3ef55&v=4",
+    "location": "Saint Pierre 97410 (La Réunion)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 259,
+    "createdAt": "2021-01-14T07:01:35Z"
   }
 ]

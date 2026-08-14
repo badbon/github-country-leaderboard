@@ -14170,5 +14170,65 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2023-12-15T11:10:28Z"
+  },
+  {
+    "login": "Cosmostima",
+    "name": "Cosmostima",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146093922?s=72&u=a981a698e5e44d84ee0c819fec26f6870c1b2bba&v=4",
+    "location": "Macao,China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 9,
+    "publicContributions": 40,
+    "createdAt": "2023-09-26T12:27:11Z"
+  },
+  {
+    "login": "RyoSuke-08",
+    "name": "Liner_Ryo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139022383?s=72&u=5e7aafa4e2cbf8fbc99f5f5fe05f9a98461442c7&v=4",
+    "location": "St Lazarus,Macao SAR,PRC",
+    "company": "Afterglow",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-09T00:00:21Z"
+  },
+  {
+    "login": "jdluxun1",
+    "name": "Yu Bai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149121400?s=72&u=5bccee696a588ce6aead41c7f8a7507f6e369814&v=4",
+    "location": "Macao S.A.R., China",
+    "company": "City University of Macau",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2023-10-26T23:05:50Z"
+  },
+  {
+    "login": "DavidMJChoi",
+    "name": "dmc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142873382?s=72&u=ba3bf180a4126b3a701479cf788776299bb02d10&v=4",
+    "location": "Macao SAR, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 55,
+    "publicContributions": 65,
+    "createdAt": "2023-08-22T06:30:29Z"
+  },
+  {
+    "login": "ChemistryChan",
+    "name": "ChemistryChan's Laboratory",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153592363?s=72&u=bc10f4428eb4023995ff2d4e9342c16ac2f94cc9&v=4",
+    "location": "Taipa, Macao SAR, China",
+    "company": "Dream0v0",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2023-12-12T07:32:05Z"
   }
 ]

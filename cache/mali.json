@@ -898,5 +898,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-20T12:22:28Z"
+  },
+  {
+    "login": "MissTraore24",
+    "name": "Traore24",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153950303?s=72&u=63b9bd99bae099fbcb18b641ec1df45585c18ce1&v=4",
+    "location": "I'm in Bamako",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2023-12-15T19:34:46Z"
+  },
+  {
+    "login": "cagooro",
+    "name": "Moussa Fofana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126746520?s=72&u=aef796e666ea7d12905908e9512bccf095dbf526&v=4",
+    "location": "Bamako",
+    "company": "Caniidio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-02T04:38:59Z"
+  },
+  {
+    "login": "Mohamedtoure-moh",
+    "name": "Med",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139398788?s=72&v=4",
+    "location": "Bamako",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2023-07-12T21:59:25Z"
+  },
+  {
+    "login": "Tchassi1",
+    "name": "Tchassi Abed Nego ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150545408?s=72&v=4",
+    "location": "Bamako ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-11T17:37:48Z"
   }
 ]

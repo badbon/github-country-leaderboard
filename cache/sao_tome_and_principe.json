@@ -22,5 +22,53 @@
     "privateContributions": 0,
     "publicContributions": 38,
     "createdAt": "2024-03-08T12:45:05Z"
+  },
+  {
+    "login": "JoelGraca",
+    "name": "Joel da Graça",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142855289?s=72&u=e22f669c26a7918c0b14bde426a0113e77725b8d&v=4",
+    "location": "São Tomé e Príncipe",
+    "company": "FCT-USTP",
+    "twitterUsername": "GracaJoelson",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-22T00:56:16Z"
+  },
+  {
+    "login": "LelecoNN",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145202735?s=72&u=1323632271090dbbc709907d4bbf509037a2be31&v=4",
+    "location": "São Tomé ",
+    "company": "",
+    "twitterUsername": "nelito_cruz",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-09-16T12:09:50Z"
+  },
+  {
+    "login": "josias-gsd",
+    "name": "Josias Gentil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150050395?s=72&u=cae54cca016c869ac33fa159f4bc2bdee7501648&v=4",
+    "location": "São Tomé e Príncipe",
+    "company": "ULSTP",
+    "twitterUsername": "jos19376",
+    "followers": 1,
+    "privateContributions": 46,
+    "publicContributions": 16,
+    "createdAt": "2023-11-06T14:41:57Z"
+  },
+  {
+    "login": "susyviegas",
+    "name": "Susy Viegas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145802701?s=72&u=1a1c521b3ce9330673c521d1f1518f5ecea94028&v=4",
+    "location": "São Tomé",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-22T18:48:47Z"
   }
 ]

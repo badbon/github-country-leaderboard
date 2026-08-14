@@ -130,5 +130,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-06T23:31:28Z"
+  },
+  {
+    "login": "colin-dbv",
+    "name": "Colin Vincent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48721904?s=72&u=6710a2421421acb39133eb4fbeaac1e5231dcc3f&v=4",
+    "location": "North Kingstown RI",
+    "company": "DBV Technology, LLC",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 505,
+    "publicContributions": 9,
+    "createdAt": "2019-03-19T13:28:36Z"
+  },
+  {
+    "login": "andrew-dbv",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51641219?s=72&v=4",
+    "location": "North Kingstown",
+    "company": "DBV Technology, LLC.",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-10T12:13:27Z"
   }
 ]

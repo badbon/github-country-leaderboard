@@ -706,5 +706,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-09-27T06:30:05Z"
+  },
+  {
+    "login": "Ibnlaouale",
+    "name": "Zaharadine laouali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124533008?s=72&u=32f76084c04ddea0a86ee8e14e29b94e8b32b74f&v=4",
+    "location": "Niamey-Sadore",
+    "company": "CodeLoccol",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 1,
+    "publicContributions": 7,
+    "createdAt": "2023-02-05T21:35:13Z"
+  },
+  {
+    "login": "Brahmahamadou",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124585116?s=72&u=0658755d48a2a0510cf4d48cb65d80add873ebb1&v=4",
+    "location": "Niamey",
+    "company": "",
+    "twitterUsername": "MahamadouBrah67",
+    "followers": 9,
+    "privateContributions": 41,
+    "publicContributions": 0,
+    "createdAt": "2023-02-06T12:53:45Z"
+  },
+  {
+    "login": "saadou-habou",
+    "name": "Saadou Habou Mousal Ach Ari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144931043?s=72&u=8a96cba15c39f4827dbda0bdd6667ca7f0c65138&v=4",
+    "location": "Niamey",
+    "company": "",
+    "twitterUsername": "ach_ari22",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2023-09-13T15:05:16Z"
+  },
+  {
+    "login": "1010ra",
+    "name": "RakiaAdamou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124473202?s=72&u=542dbb66b2e36c3da62190b5afd3e74b167718e3&v=4",
+    "location": "Sadore-Niamey",
+    "company": "Codeloccol-Niamey",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-04T23:39:00Z"
+  },
+  {
+    "login": "amadoucheik",
+    "name": "Amadou Moussa Ibrahim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150448931?s=72&u=47db598bbc44590fa3c83e94cd6bfc8b7ae04ce2&v=4",
+    "location": "Niamey",
+    "company": "Optima",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-10T13:21:54Z"
   }
 ]

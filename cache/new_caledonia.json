@@ -526,5 +526,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-12-16T03:01:15Z"
+  },
+  {
+    "login": "Gh1s",
+    "name": "Gh1$",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56473732?s=72&u=f4ec5292011cd145fc6ac90bcfdcf570e9d600b6&v=4",
+    "location": "Nouméa",
+    "company": "Societe Generale",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-10-12T10:12:00Z"
+  },
+  {
+    "login": "Kirsan98",
+    "name": "Kirsan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46657440?s=72&u=7a6b95306337c82f75ae976aceb5bed0c00de7ae&v=4",
+    "location": "Nouméa",
+    "company": "University of Bordeaux ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2019-01-13T21:16:23Z"
   }
 ]
