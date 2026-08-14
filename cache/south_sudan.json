@@ -1306,5 +1306,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-16T14:58:35Z"
+  },
+  {
+    "login": "Codetym",
+    "name": "Nelson Mandela D.M.J",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46413039?s=72&u=8726c8f388d36cd2a3599b226c12f228b47e36bd&v=4",
+    "location": "Juba, South Sudan ",
+    "company": "CodeTym LTD",
+    "twitterUsername": "NelsonDmj",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-06T06:05:00Z"
+  },
+  {
+    "login": "romeoplat",
+    "name": "Romeo Ronald Lomora",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56886935?s=72&u=703f647cafecdd26adab4e8b413c23f269c0404c&v=4",
+    "location": "Juba South Sudan",
+    "company": "Refutories/Platform Africa",
+    "twitterUsername": "ronaldlomo",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-22T16:25:48Z"
+  },
+  {
+    "login": "kuzcokou1",
+    "name": "Kuzco Kou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49439863?s=72&u=ef16bfb2cb94c0652b54952af3cca326d804e673&v=4",
+    "location": "Juba, South Sudan",
+    "company": "Junubeats",
+    "twitterUsername": "kou_kuzco",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-09T11:29:16Z"
+  },
+  {
+    "login": "elobijo",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56922160?s=72&u=a3995b6299adda1134b16cdc7c793b643c91d9f2&v=4",
+    "location": "South Sudan ",
+    "company": "Junub Open Space ",
+    "twitterUsername": "elobijo",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2019-10-23T12:29:48Z"
+  },
+  {
+    "login": "B-yine",
+    "name": "Beatrice Yine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56920632?s=72&u=1a2711bd406d773cfc9a7b5d8ab3bbc9cb4be51f&v=4",
+    "location": "Juba, South Sudan",
+    "company": "GoGirls ICT Initiative",
+    "twitterUsername": "BeatriceYine",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-23T11:46:13Z"
+  },
+  {
+    "login": "amanya-alex",
+    "name": "Amanya Saturlino Phonse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58767798?s=72&u=d4a8597c470be304af56135227deac491c524e6e&v=4",
+    "location": "Juba South Sudan",
+    "company": "@REACH",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-11T08:26:32Z"
+  },
+  {
+    "login": "Kinqly",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54659224?s=72&v=4",
+    "location": "Juba, South Sudan",
+    "company": "Kinqly",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-29T06:09:26Z"
+  },
+  {
+    "login": "willmcfall",
+    "name": "William McFall",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46807705?s=72&u=df15cc6c173217c1b92349915f9fec526c64a743&v=4",
+    "location": "Juba, South Sudan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-18T06:38:39Z"
   }
 ]

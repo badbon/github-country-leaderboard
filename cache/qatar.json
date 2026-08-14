@@ -4484,7 +4484,7 @@
     "twitterUsername": "javamind_",
     "followers": 59,
     "privateContributions": 1610,
-    "publicContributions": 309,
+    "publicContributions": 311,
     "createdAt": "2021-09-10T08:15:53Z"
   },
   {
@@ -4732,10 +4732,10 @@
     "name": "Hassan Edelbi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89727310?s=72&u=5454cc66bc04fed68fed2610ba523d839db479bd&v=4",
     "location": "Doha, Qatar",
-    "company": "TIKTAL",
+    "company": "The Group Securities",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1029,
+    "privateContributions": 1158,
     "publicContributions": 36,
     "createdAt": "2021-08-29T09:15:07Z"
   },
@@ -5131,7 +5131,7 @@
     "company": "",
     "twitterUsername": "WAQAZ0178",
     "followers": 2,
-    "privateContributions": 1386,
+    "privateContributions": 1389,
     "publicContributions": 344,
     "createdAt": "2021-03-11T17:41:28Z"
   },
@@ -5530,5 +5530,137 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-07T17:58:21Z"
+  },
+  {
+    "login": "browniris",
+    "name": "Brown Iris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80643435?s=72&u=95b9b4cb58f7a1aa5d9444ec128032dd40333472&v=4",
+    "location": "Doha",
+    "company": "Brown Iris",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-14T18:19:33Z"
+  },
+  {
+    "login": "0rkx",
+    "name": "Owais Raza Khan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81021098?s=72&u=d68ba38fb7fc83ac89dc911f4affbb64a031d81c&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 1400,
+    "publicContributions": 189,
+    "createdAt": "2021-03-20T12:15:04Z"
+  },
+  {
+    "login": "Mallikmuppalla",
+    "name": "MALLIK RAO M",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87757867?s=72&u=de82f81c01e43c2498ca8770976e6d5bd2d727da&v=4",
+    "location": "DOHA",
+    "company": "SMITHS",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 122,
+    "createdAt": "2021-07-21T10:08:03Z"
+  },
+  {
+    "login": "Qatar974",
+    "name": "Qatar974",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90208797?s=72&u=38340a43173edecf0e64d3f54eded0e4b46362c0&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-06T16:15:00Z"
+  },
+  {
+    "login": "sertamin",
+    "name": "Serap",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77699282?s=72&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-19T21:00:41Z"
+  },
+  {
+    "login": "Fraz-Ahmad",
+    "name": "Fraz Ahmad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83289961?s=72&u=86a169519c8dfc187f91acb88e3259d90bc3c009&v=4",
+    "location": "Doha",
+    "company": "@Cytomate ",
+    "twitterUsername": "0xfraz",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-27T13:28:57Z"
+  },
+  {
+    "login": "KiwiTrue",
+    "name": "Faisal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93672092?s=72&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 8,
+    "publicContributions": 1,
+    "createdAt": "2021-11-03T16:49:51Z"
+  },
+  {
+    "login": "Khadar3344",
+    "name": "Khadar Mustafe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79355446?s=72&u=49841f60786b759e5232816be3b0b87224224521&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-20T08:18:35Z"
+  },
+  {
+    "login": "shaiHala",
+    "name": "Oukhira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77199199?s=72&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-09T13:59:50Z"
+  },
+  {
+    "login": "JacopoNeroni",
+    "name": "Jacopo Neroni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95048349?s=72&u=5928f1e223ac3302c36c1135f5e257c77b1bba68&v=4",
+    "location": "Doha",
+    "company": "GROWA.AI",
+    "twitterUsername": "jacopo_neroni",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-25T18:20:40Z"
+  },
+  {
+    "login": "itsham3d",
+    "name": "Hamed Abu Matar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79409246?s=72&v=4",
+    "location": "Doha",
+    "company": "Qatar University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2021-02-21T14:21:43Z"
   }
 ]

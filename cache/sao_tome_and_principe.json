@@ -82,5 +82,53 @@
     "privateContributions": 123,
     "publicContributions": 0,
     "createdAt": "2022-09-12T21:57:39Z"
+  },
+  {
+    "login": "benildebonfim",
+    "name": "Benilde",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93544583?s=72&u=a357c1417d3d543c1df819fe895c743dce5808e1&v=4",
+    "location": "São Tomé e Príncipe",
+    "company": "",
+    "twitterUsername": "BonfimBenilde",
+    "followers": 51,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2021-11-01T17:38:29Z"
+  },
+  {
+    "login": "denisquintasluiz",
+    "name": "Denis Luiz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91437820?s=72&u=44a1b9008cb4099daf3265dfaa80bb68852659dd&v=4",
+    "location": "São Gabriel, São Tomé e Príncipe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 100,
+    "publicContributions": 0,
+    "createdAt": "2021-09-26T22:15:10Z"
+  },
+  {
+    "login": "AlekssanderCosta",
+    "name": "Alekssander Costa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93383107?s=72&u=5010c551289644e89e4ccaa138fe218884463982&v=4",
+    "location": "São Tomé",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-29T11:43:00Z"
+  },
+  {
+    "login": "habraino",
+    "name": "Habraino C. De Deus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77616680?s=72&u=56cf05b2abda261f8f1f4b33d631350be3f75a95&v=4",
+    "location": "São-Tomé",
+    "company": "Tecnisys",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-01-18T10:46:17Z"
   }
 ]

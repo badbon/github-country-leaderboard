@@ -814,5 +814,29 @@
     "privateContributions": 49,
     "publicContributions": 3,
     "createdAt": "2019-09-12T11:24:01Z"
+  },
+  {
+    "login": "GuillaumeDupuy",
+    "name": "Varius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56391911?s=72&u=07a64f23e94e3ceac002b61b6ccf21855e36851a&v=4",
+    "location": "Seine-Saint-Denis",
+    "company": "Ynov Paris Campus ",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 38,
+    "publicContributions": 0,
+    "createdAt": "2019-10-10T10:35:16Z"
+  },
+  {
+    "login": "Mevizou",
+    "name": "Mevizou Jessica",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47659180?s=72&u=c973a123a741e9e65c55a2cacb80c62c1ce5362f&v=4",
+    "location": "Saint Denis La Réuinon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-15T09:13:16Z"
   }
 ]

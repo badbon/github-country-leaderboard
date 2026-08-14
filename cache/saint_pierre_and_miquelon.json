@@ -106,5 +106,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-13T21:29:13Z"
+  },
+  {
+    "login": "Wimimaro",
+    "name": "Wayl Zender",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48287091?s=72&v=4",
+    "location": "Saint Pierre des corps",
+    "company": "Harmonie Mutuelle",
+    "twitterUsername": "Wimimaro",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-06T14:10:37Z"
+  },
+  {
+    "login": "affagard",
+    "name": "David Affagard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48920570?s=72&u=ee5fa027a15b29ce15317da3ca263920e64ed307&v=4",
+    "location": "Saint Pierre Quiberon (56 - France)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-25T15:28:51Z"
+  },
+  {
+    "login": "muller-ju",
+    "name": "Jules MULLER",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57359135?s=72&u=c95b593aed372f7e92b717c495a0694cc36b2226&v=4",
+    "location": "CAP 55 – 41, rue Fabienne Landy – 37700 SAINT PIERRE DES CORPS",
+    "company": "CAT-AMANIA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-04T14:16:39Z"
   }
 ]

@@ -22,5 +22,53 @@
     "privateContributions": 0,
     "publicContributions": 958,
     "createdAt": "2023-10-31T22:43:02Z"
+  },
+  {
+    "login": "ryan-k-anderson",
+    "name": "Ryan Kristopher Anderson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78626914?s=72&u=a454da5856aca27e4443b63f6aa09bae13908a50&v=4",
+    "location": "Jamestown, NY",
+    "company": "",
+    "twitterUsername": "randersondev",
+    "followers": 4,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2021-02-06T00:38:06Z"
+  },
+  {
+    "login": "Ashtray915",
+    "name": "3am Dead Coder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86988002?s=72&u=2ed4b9e4815bc965d98b75110ec4a1378bbf63d7&v=4",
+    "location": "Jamestown",
+    "company": "3am Dead Coder",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 10,
+    "publicContributions": 13,
+    "createdAt": "2021-07-05T22:15:11Z"
+  },
+  {
+    "login": "selenegough",
+    "name": "Selene Gough",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94616675?s=72&u=83af2cc5e47bcb038007d81c93ff2ab2d363c2be&v=4",
+    "location": "Jamestown, St Helena",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-11-18T12:19:58Z"
+  },
+  {
+    "login": "GTCCApplications",
+    "name": "GTCC Applications",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84813096?s=72&v=4",
+    "location": "Jamestown, NC",
+    "company": "Guilford Technical Community College",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-25T20:32:33Z"
   }
 ]

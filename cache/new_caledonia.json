@@ -958,5 +958,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-12-22T13:59:35Z"
+  },
+  {
+    "login": "jchable",
+    "name": "Julien CHABLE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10860719?s=72&u=7fabb6baba01a9a9a5f4a68466900561e3b88b68&v=4",
+    "location": "Nouméa",
+    "company": "NC IT",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 78,
+    "createdAt": "2015-02-05T05:27:03Z"
+  },
+  {
+    "login": "ThomasLemaire",
+    "name": "Thomas Lemaire",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13408363?s=72&u=1a8e3091d4c88c8e503c7ac9c3cd638e052a7e3a&v=4",
+    "location": "Nouméa",
+    "company": "WeDev NC",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-19T21:16:08Z"
   }
 ]

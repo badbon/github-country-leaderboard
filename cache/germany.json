@@ -14902,5 +14902,29 @@
     "privateContributions": 0,
     "publicContributions": 285,
     "createdAt": "2023-05-22T14:46:59Z"
+  },
+  {
+    "login": "n-idw",
+    "name": "Nikolai in der Wiesche",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156795169?s=72&u=1e279d39fc73c2298ee009c2871f90a7870d4057&v=4",
+    "location": "Germany / Sweden",
+    "company": "University of Münster / Uppsala University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-01-16T11:31:59Z"
+  },
+  {
+    "login": "DocTpoint",
+    "name": "DocTpoint",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213498092?s=72&u=f4708097d6e97e84891808ec1497274a6781eb17&v=4",
+    "location": "Berlin <->Bangkok",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 178,
+    "createdAt": "2025-05-26T18:06:30Z"
   }
 ]
