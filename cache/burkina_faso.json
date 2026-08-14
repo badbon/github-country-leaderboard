@@ -4906,5 +4906,113 @@
     "privateContributions": 105,
     "publicContributions": 1,
     "createdAt": "2019-01-03T11:59:27Z"
+  },
+  {
+    "login": "adamako",
+    "name": "Adama KO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40002929?s=72&u=da0faf62033ba3eba52d849ee40b7379eeb7a7f8&v=4",
+    "location": "Burkina Faso",
+    "company": "Declic",
+    "twitterUsername": "",
+    "followers": 112,
+    "privateContributions": 1230,
+    "publicContributions": 10,
+    "createdAt": "2018-06-06T17:51:03Z"
+  },
+  {
+    "login": "faso-dev",
+    "name": "Clovis S.J Onadja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40303326?s=72&u=9fd04755de2e54c0a57139591ffec4c603684aea&v=4",
+    "location": "Burkina-Faso,Ouagadougou",
+    "company": "Declic Africa",
+    "twitterUsername": "fasodev",
+    "followers": 103,
+    "privateContributions": 6723,
+    "publicContributions": 129,
+    "createdAt": "2018-06-15T17:45:50Z"
+  },
+  {
+    "login": "waongoaziz",
+    "name": "WAONGO Abdoulaye Aziz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43924610?s=72&u=06931f7ee8f10bf166e5ce884d9a316125b14437&v=4",
+    "location": "Ouagadougou, Burkina Faso",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2018-10-07T07:42:37Z"
+  },
+  {
+    "login": "ibrahimevariste",
+    "name": "YABRE Ibrahim Evariste",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37580259?s=72&v=4",
+    "location": "Burkina-Faso",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-20T11:21:16Z"
+  },
+  {
+    "login": "sam-corp",
+    "name": "Sam Corporation",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40689029?s=72&u=65fbfc82ab80c44d4f0413989836b78687d8ddf8&v=4",
+    "location": "Ouagadougou, Burkina Faso",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-29T09:10:48Z"
+  },
+  {
+    "login": "CodeMagus",
+    "name": "Tempest",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39216887?s=72&u=c066c5776173c10ec179ada79ddd531c8f5b10bb&v=4",
+    "location": "Burkina Faso - Ouagadougou",
+    "company": "Tempest Code",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-12T12:25:07Z"
+  },
+  {
+    "login": "fasodrone",
+    "name": "FasoDrone",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36565859?s=72&u=337636a1a22d01249921e5ed7979d246da492339&v=4",
+    "location": "Burkina Faso",
+    "company": "@fasodrone",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-17T13:03:14Z"
+  },
+  {
+    "login": "dalyo",
+    "name": "Dalyo Sid Ousmane OURBA ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46114588?s=72&u=3f2b75eef92cb02c9d6b93c24541a23434d526f0&v=4",
+    "location": "Burkina Faso",
+    "company": "@PovertyAction ",
+    "twitterUsername": "Sid_Ourba",
+    "followers": 2,
+    "privateContributions": 114,
+    "publicContributions": 35,
+    "createdAt": "2018-12-25T00:37:37Z"
+  },
+  {
+    "login": "tiendrebeogo",
+    "name": "Edmond TIENDREBEOGO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39654862?s=72&v=4",
+    "location": "Ouagadougou, Burkina Faso",
+    "company": "Dezmonde",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-26T17:21:09Z"
   }
 ]

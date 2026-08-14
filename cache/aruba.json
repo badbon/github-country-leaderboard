@@ -154,5 +154,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-07-05T22:30:53Z"
+  },
+  {
+    "login": "JunTechPC",
+    "name": "Juny Engelhart (JunTech)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45300163?s=72&u=674e5da4675eedd28b20d0b0e35bc14e17b513d8&v=4",
+    "location": "Oranjestad, Aruba",
+    "company": "Juny Engelhart (AWS Aruba)",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-23T22:46:53Z"
+  },
+  {
+    "login": "XBrewyn",
+    "name": "Brewyn Frederick Espinal Mercado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42366713?s=72&v=4",
+    "location": "Aruba",
+    "company": "Freelancer",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2018-08-14T04:47:55Z"
+  },
+  {
+    "login": "LalissaDev",
+    "name": "Melissa Meijer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44978106?s=72&u=83b9cb55531bed688fd8de5c9a5ecfce178c78a9&v=4",
+    "location": "Aruba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-12T16:35:48Z"
+  },
+  {
+    "login": "slacle-CR38TE",
+    "name": "Sebastian Lacle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35075198?s=72&v=4",
+    "location": "Aruba",
+    "company": "@cr38te",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-03T17:43:31Z"
+  },
+  {
+    "login": "KevTerrence",
+    "name": "Kevin Franken",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45290499?s=72&v=4",
+    "location": "Oranjestad Aruba",
+    "company": "Xa Tech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 858,
+    "publicContributions": 0,
+    "createdAt": "2018-11-23T13:25:29Z"
+  },
+  {
+    "login": "piedraplat",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45322316?s=72&u=205f56dfa75fbd596bb312d80f835ad3642af37f&v=4",
+    "location": "Aruba",
+    "company": "Lacle&Partners",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2018-11-25T00:48:57Z"
   }
 ]

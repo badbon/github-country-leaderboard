@@ -106,5 +106,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-07T10:47:31Z"
+  },
+  {
+    "login": "BazaarsBZR",
+    "name": "Bazaars",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102147094?s=72&u=2a0e690c22e2b51bdd93e857e20b100b75a00a9f&v=4",
+    "location": "Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands",
+    "company": "Bazaars Limited",
+    "twitterUsername": "BazaarsBzr",
+    "followers": 86,
+    "privateContributions": 5719,
+    "publicContributions": 110,
+    "createdAt": "2022-03-22T09:19:38Z"
+  },
+  {
+    "login": "AI-Isaiah",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117355363?s=72&v=4",
+    "location": "British Virgin Islands",
+    "company": "Metaworld Fund",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2941,
+    "createdAt": "2022-11-03T10:38:15Z"
+  },
+  {
+    "login": "randxmGeek",
+    "name": "randxmGeek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115420105?s=72&u=e46959a3e4af755edc234d87b15836df94867522&v=4",
+    "location": "British Virgin Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-10-09T17:01:50Z"
   }
 ]

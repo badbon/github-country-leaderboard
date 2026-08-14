@@ -3478,5 +3478,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-26T14:17:32Z"
+  },
+  {
+    "login": "aneskdev",
+    "name": "anes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122278230?s=72&u=0b682aa1172a970331a91bfb84b8635497ab7f1e&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-09T12:18:14Z"
+  },
+  {
+    "login": "Adin222",
+    "name": "Adin Čustović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130667410?s=72&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 659,
+    "publicContributions": 12,
+    "createdAt": "2023-04-13T12:30:45Z"
+  },
+  {
+    "login": "Plutoochu",
+    "name": "Eldar Muratović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149717940?s=72&u=8e09567e95eb5f44a3875c4b98e2c827175ecc98&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2023-11-02T19:05:07Z"
+  },
+  {
+    "login": "Samirowsky",
+    "name": "Samir Huseinovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124911650?s=72&u=3f9a12d7a3009213f184392d977ba9afff201303&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-09T16:37:53Z"
+  },
+  {
+    "login": "emadcoko",
+    "name": "Emad Čoko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152635669?s=72&u=a08a85b8b473a410cc5e07d93ac5192e04cd727b&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-12-01T15:49:04Z"
+  },
+  {
+    "login": "ismail-icanovic",
+    "name": "Ismail Ičanović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124508027?s=72&u=e562cd94ab65bf8fafae29638dc1174fa0969749&v=4",
+    "location": "Sarajevo",
+    "company": "allops",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 65,
+    "createdAt": "2023-02-05T13:40:49Z"
+  },
+  {
+    "login": "ALD5",
+    "name": "Alem Duraković",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150299719?s=72&v=4",
+    "location": "Sarajevo, BiH",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-08T22:11:49Z"
+  },
+  {
+    "login": "kova20022002",
+    "name": "Emir Kovač",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131803938?s=72&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-25T17:17:13Z"
   }
 ]

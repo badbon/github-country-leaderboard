@@ -18248,7 +18248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 15,
     "createdAt": "2026-03-21T02:30:11Z"
   },
   {
@@ -27970,5 +27970,29 @@
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2023-05-16T15:09:27Z"
+  },
+  {
+    "login": "dio-xi",
+    "name": "Dio Antunes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172450293?s=72&u=b2533faab627a10e81e32922a81bf2a21aa6777f&v=4",
+    "location": "Montevideo, Uruguay - Porto Alegre, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-06-11T23:29:08Z"
+  },
+  {
+    "login": "nightspells",
+    "name": "Lavis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284151422?s=72&u=3d82669a30112a53c2d0c70684a2e14d5ebb1207&v=4",
+    "location": "Brasil",
+    "company": ";-;",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-05-12T23:38:51Z"
   }
 ]

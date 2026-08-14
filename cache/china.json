@@ -14230,5 +14230,29 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-12-12T07:32:05Z"
+  },
+  {
+    "login": "HaoyueQin",
+    "name": "HaoyueQin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278892763?s=72&u=00abe57e4408c1feedff3ef2688ff90c8855a30b&v=4",
+    "location": "Beijing, PRC",
+    "company": "Beihang University",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 255,
+    "createdAt": "2026-04-24T06:11:36Z"
+  },
+  {
+    "login": "Z-Insta360",
+    "name": "YH-Zhang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266971856?s=72&u=f076bf0aa9066f8bbf2fdddcf412455cc30294ea&v=4",
+    "location": "Shenzhen, PRC",
+    "company": "Insta360",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-03-10T08:20:48Z"
   }
 ]

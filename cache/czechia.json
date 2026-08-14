@@ -5830,5 +5830,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-17T12:06:05Z"
+  },
+  {
+    "login": "hmhudak",
+    "name": "Michal Hudak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139263103?s=72&u=596c355f12c5878ff2903d7e010ce51c6ea0b8c7&v=4",
+    "location": "Czechia / Slovakia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2023-07-11T17:38:55Z"
+  },
+  {
+    "login": "Kucharito",
+    "name": "Adam Kuchár",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129996340?s=72&v=4",
+    "location": "Ostrava, Czechia / Prešov, Slovakia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 220,
+    "createdAt": "2023-04-05T19:54:58Z"
   }
 ]

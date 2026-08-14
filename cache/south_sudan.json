@@ -862,5 +862,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-19T18:42:35Z"
+  },
+  {
+    "login": "longmaker2",
+    "name": "Long Maker Long Deng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109472244?s=72&u=b1678a256a99b8642c6615241ff18ce782711e63&v=4",
+    "location": "Juba",
+    "company": "African Leadership University (ALU)",
+    "twitterUsername": "LongMakerGutaja",
+    "followers": 45,
+    "privateContributions": 185,
+    "publicContributions": 15,
+    "createdAt": "2022-07-17T14:42:57Z"
+  },
+  {
+    "login": "mmkulang1",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120780378?s=72&v=4",
+    "location": "Juba",
+    "company": "Futuristic Co.ltd",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-17T09:53:52Z"
+  },
+  {
+    "login": "Gatbel-22",
+    "name": "Gatbel Gatluak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106918637?s=72&u=7c3e45fd9b95f925a8d09f260c8ee8f044654673&v=4",
+    "location": "Juba",
+    "company": "Child Care Agency",
+    "twitterUsername": "Gatbel2025",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 97,
+    "createdAt": "2022-06-05T14:19:13Z"
   }
 ]
