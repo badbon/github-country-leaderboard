@@ -1150,5 +1150,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-07-31T15:48:02Z"
+  },
+  {
+    "login": "LomNtetha",
+    "name": "Lumkile Ntetha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67831973?s=72&u=f97a1d3315d909891355b487d2125384fa8a853f&v=4",
+    "location": "Maseru",
+    "company": "",
+    "twitterUsername": "ntethalumkile",
+    "followers": 221,
+    "privateContributions": 1259,
+    "publicContributions": 180,
+    "createdAt": "2020-07-04T14:12:59Z"
+  },
+  {
+    "login": "Kabeloqhobosheane",
+    "name": "Kabelo Qhobosheane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59724979?s=72&v=4",
+    "location": "Maseru, Borokhoaneng",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2020-01-10T07:49:40Z"
+  },
+  {
+    "login": "Magadlela",
+    "name": "Magadlela Thato",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60700155?s=72&u=9c6a1303923a7b3948b6165dc0d14e82270dd724&v=4",
+    "location": "Maseru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2020-02-05T13:32:37Z"
+  },
+  {
+    "login": "ThaboBot",
+    "name": "Thabo ليكوبي",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73281201?s=72&u=0601324fc7a7d72783c19fe10b8558a7b66e5617&v=4",
+    "location": "Maseru",
+    "company": "Hazuality",
+    "twitterUsername": "thaboistheman",
+    "followers": 2,
+    "privateContributions": 51,
+    "publicContributions": 29,
+    "createdAt": "2020-10-22T09:07:07Z"
+  },
+  {
+    "login": "Potsane97",
+    "name": "Meshaka Potsane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67326590?s=72&v=4",
+    "location": "Maseru",
+    "company": "",
+    "twitterUsername": "MeshPotsane",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 58,
+    "createdAt": "2020-06-23T13:41:28Z"
   }
 ]

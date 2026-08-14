@@ -7796,7 +7796,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 275,
+    "publicContributions": 280,
     "createdAt": "2025-03-18T08:18:31Z"
   },
   {
@@ -13354,5 +13354,113 @@
     "privateContributions": 0,
     "publicContributions": 479,
     "createdAt": "2025-11-04T08:29:59Z"
+  },
+  {
+    "login": "siwens77",
+    "name": "Krzysztof Nowak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205751587?s=72&u=5809d090976fae5f2169623695aa0161b998da3a&v=4",
+    "location": "Poznan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 228,
+    "publicContributions": 217,
+    "createdAt": "2025-04-01T08:51:23Z"
+  },
+  {
+    "login": "azubriichuk",
+    "name": "Artemii Zubriichuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213753761?s=72&u=94cf40b016cc3229d7eb87d3bbb5d4a145039969&v=4",
+    "location": "Poznan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 94,
+    "createdAt": "2025-05-28T07:03:32Z"
+  },
+  {
+    "login": "nebulisedbyp3464",
+    "name": "nebulisedbyp3464",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200841976?s=72&v=4",
+    "location": "Poznan",
+    "company": "System Cyber Dynamics",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-02-25T19:51:26Z"
+  },
+  {
+    "login": "VladyslavLevoshko",
+    "name": "Vladyslav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213558803?s=72&u=38f8305238964675994e3875bde57c5da4f3b55f&v=4",
+    "location": "Poznan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 103,
+    "createdAt": "2025-05-27T05:43:10Z"
+  },
+  {
+    "login": "majka19824",
+    "name": "MajkaC",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196786860?s=72&u=ce045de7789873be593a1b73d055a4c9166a48eb&v=4",
+    "location": "Poznan",
+    "company": "PL",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2025-01-28T11:56:45Z"
+  },
+  {
+    "login": "bartoszkaluzny",
+    "name": "Bartosz Kałużny",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/247001478?s=72&v=4",
+    "location": "Poznan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2025-11-30T14:52:22Z"
+  },
+  {
+    "login": "kol49",
+    "name": "Volodymyr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197691012?s=72&u=a9c0ba573fbfb72392c9cc452707a324c22375dd&v=4",
+    "location": "Poznan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 71,
+    "publicContributions": 95,
+    "createdAt": "2025-02-04T00:24:39Z"
+  },
+  {
+    "login": "kiselox",
+    "name": "Denys Kysyliuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207057961?s=72&v=4",
+    "location": "Poznan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2025-04-10T14:56:54Z"
+  },
+  {
+    "login": "warkoadr-flutterint",
+    "name": "Adrian Warkocz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194367718?s=72&u=a7cb360125a0aef2ee08ce3529bdbe0cec39567f&v=4",
+    "location": "Poznan",
+    "company": "Flutter International",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-01-09T10:36:34Z"
   }
 ]

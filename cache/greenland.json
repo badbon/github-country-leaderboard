@@ -358,5 +358,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-03T13:31:41Z"
+  },
+  {
+    "login": "ASGDLO",
+    "name": "ASGDLO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32297705?s=72&v=4",
+    "location": "Greenland",
+    "company": "AG",
+    "twitterUsername": "",
+    "followers": 153,
+    "privateContributions": 1195,
+    "publicContributions": 1,
+    "createdAt": "2017-09-26T11:13:30Z"
+  },
+  {
+    "login": "PennyHow",
+    "name": "Penny How",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28731816?s=72&u=1e4571bc7bab4d9ff95837990955cac701d83100&v=4",
+    "location": "Nuuk, Greenland",
+    "company": "GEUS",
+    "twitterUsername": "",
+    "followers": 56,
+    "privateContributions": 16,
+    "publicContributions": 150,
+    "createdAt": "2017-05-16T12:58:08Z"
+  },
+  {
+    "login": "ibdj",
+    "name": "ibdj",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33222877?s=72&v=4",
+    "location": "Nuuk, Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 646,
+    "createdAt": "2017-10-30T12:01:01Z"
+  },
+  {
+    "login": "spencer02",
+    "name": "Dr. PFizzel ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33126137?s=72&u=f22489500625479939230898b7765186195c9bc6&v=4",
+    "location": "Nuuk, Greenland  or Satern",
+    "company": "Gucci",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-26T13:50:22Z"
   }
 ]

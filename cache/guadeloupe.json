@@ -646,5 +646,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-05-07T13:40:33Z"
+  },
+  {
+    "login": "YannickSF",
+    "name": "Yannick S. F",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25055663?s=72&u=879bb599f3a54d74ccb0a6bccb05be61a2c2a1f0&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "_symba7",
+    "followers": 8,
+    "privateContributions": 12,
+    "publicContributions": 0,
+    "createdAt": "2017-01-11T11:36:44Z"
+  },
+  {
+    "login": "Clement97712",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33910347?s=72&u=b8ec6228c7a1690ae720408ccfcf8ddb2c371e53&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-22T19:27:43Z"
+  },
+  {
+    "login": "liio404",
+    "name": "Lionel COLLIDOR",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25843761?s=72&u=fc0ffac448c79ed14a8423db621f96889cb4a630&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-17T11:46:15Z"
+  },
+  {
+    "login": "lougan",
+    "name": "lougan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29384004?s=72&u=5a47ef9dd419be9f82075697cb24725a012c2290&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-06-12T18:52:42Z"
+  },
+  {
+    "login": "GeraldineCodes",
+    "name": "Geraldine Galvani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31082621?s=72&u=c654e4e627d03ff79a5bcc250ef6debc36132035&v=4",
+    "location": "Guadeloupe, FR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-16T23:01:46Z"
+  },
+  {
+    "login": "GPConnect",
+    "name": "GPConnect",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25872687?s=72&v=4",
+    "location": "Guadeloupe",
+    "company": "GPConnect",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-18T23:45:50Z"
+  },
+  {
+    "login": "yerbechristopher",
+    "name": "YERBE Christopher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32994411?s=72&u=471ddb71155b98abe8d54ee8f6b484978f38f07d&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-22T04:52:28Z"
+  },
+  {
+    "login": "GwadaKing",
+    "name": "David Miolard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25965895?s=72&u=711780df5ebdf2b0cc8a88f65694e773887daf69&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-22T21:22:22Z"
   }
 ]

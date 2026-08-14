@@ -946,5 +946,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-23T13:13:15Z"
+  },
+  {
+    "login": "D3nX",
+    "name": "Denis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30444899?s=72&u=49f1e2154a533b3d7e20f029a9776a753b096a4c&v=4",
+    "location": "Saint-Denis, Réunion",
+    "company": "DreamVeloper",
+    "twitterUsername": "d3nx_fr",
+    "followers": 19,
+    "privateContributions": 437,
+    "publicContributions": 2,
+    "createdAt": "2017-07-25T18:43:26Z"
+  },
+  {
+    "login": "ethsam",
+    "name": "Samuel Ethève",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27362741?s=72&u=e87212da5e2a18b6873af35fed2a7fb89729d9ad&v=4",
+    "location": "Réunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2017-04-12T15:53:13Z"
+  },
+  {
+    "login": "SquirrelMobile",
+    "name": "Squirrel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24916470?s=72&u=476729dc6426fdd5498d55d55e4c914b74dd5f72&v=4",
+    "location": "Paris / Reims / Réunion",
+    "company": "Squirrel",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2017-01-04T13:28:35Z"
+  },
+  {
+    "login": "DieuOurs",
+    "name": "DieuOurs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26796374?s=72&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "_DuCRAFT_",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2017-03-30T14:42:55Z"
+  },
+  {
+    "login": "greatalf",
+    "name": "laurent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28360789?s=72&u=1000cae6bc42d0ec7ef70832ba4970d0a4f4b892&v=4",
+    "location": "Réunion",
+    "company": "wiboodigital",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-05-03T18:28:11Z"
+  },
+  {
+    "login": "fredericlabbe",
+    "name": "Frederic Labbe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25242740?s=72&u=0b2dc9323db02432de8f97d21f3a9edf37e05629&v=4",
+    "location": "Plant Protection Platform (3P), 7 Chemin de l'IRAT, 97410 Saint-Pierre, Réunion",
+    "company": "CIRAD",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-20T08:35:30Z"
+  },
+  {
+    "login": "logan974",
+    "name": "Grondin Logan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33648275?s=72&u=a7a60256464e2d590d744e61eabaac4574065d33&v=4",
+    "location": "Saint Pierre , Réunion",
+    "company": "ESIROI",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 20,
+    "publicContributions": 5,
+    "createdAt": "2017-11-14T05:17:44Z"
+  },
+  {
+    "login": "ralphi2811",
+    "name": "Raphaël Auberlet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29256002?s=72&u=50940767e15a509ae168a0ceedb065cba1f87505&v=4",
+    "location": "Réunion Island",
+    "company": "6kreation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1196,
+    "publicContributions": 83,
+    "createdAt": "2017-06-07T14:23:57Z"
+  },
+  {
+    "login": "Lolotic",
+    "name": "Lolotic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32735241?s=72&v=4",
+    "location": "Saint-Denis de la Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-12T10:33:50Z"
   }
 ]

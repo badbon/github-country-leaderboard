@@ -20590,5 +20590,53 @@
     "privateContributions": 12,
     "publicContributions": 40,
     "createdAt": "2025-11-01T18:45:46Z"
+  },
+  {
+    "login": "peroumal",
+    "name": "Rayan Peroumal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26975590?s=72&v=4",
+    "location": "Guadeloupe, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-06T17:35:49Z"
+  },
+  {
+    "login": "denysl152",
+    "name": "Dénys Louves",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33910458?s=72&u=6b1c5a6018a579429925836de3a8c42093b0506e&v=4",
+    "location": "Guadeloupe, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-22T19:33:30Z"
+  },
+  {
+    "login": "RemyMozelle",
+    "name": "Rémy Mozelle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28860162?s=72&u=f2123da6c220cf6447649a11d2c8cc5bdba6ecf7&v=4",
+    "location": "La Réunion, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2017-05-22T09:13:48Z"
+  },
+  {
+    "login": "jfschaff",
+    "name": "Jean-François \"Jeff\" Schaff",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25389614?s=72&u=733ccc79e43d358eef80d69fde41abc16d5b6aec&v=4",
+    "location": "La Réunion, France, Indian Ocean ",
+    "company": "@chudelareunion ",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 200,
+    "publicContributions": 7,
+    "createdAt": "2017-01-27T16:12:52Z"
   }
 ]

@@ -2374,5 +2374,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-07-13T14:25:52Z"
+  },
+  {
+    "login": "Aboubacry-Tall",
+    "name": "Aboubacry Oumar Tall",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76185686?s=72&u=a8c68be5386814800c788262080f15807470c27c&v=4",
+    "location": "Nouakchott",
+    "company": "ATS",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2020-12-17T22:01:08Z"
+  },
+  {
+    "login": "mamouny",
+    "name": "Mamouny078",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70146877?s=72&u=cfddb653f2a7e8f2be2520c0875f277bf83a4d81&v=4",
+    "location": "Nouakchott,Mauritanie",
+    "company": "Dcs sarl",
+    "twitterUsername": "mamouny078",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-24T12:50:11Z"
+  },
+  {
+    "login": "minastay",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72013286?s=72&v=4",
+    "location": "Nouakchott",
+    "company": "Mauritanie",
+    "twitterUsername": "MinaSteit",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-28T09:12:26Z"
+  },
+  {
+    "login": "MeymedAly",
+    "name": "meymed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59575984?s=72&u=eb9763032b38837d3df88ebf79eb06c02c8e7122&v=4",
+    "location": "Nouakchott",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2020-01-06T17:42:44Z"
   }
 ]

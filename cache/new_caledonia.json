@@ -1162,5 +1162,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-09-12T03:51:01Z"
+  },
+  {
+    "login": "ellisp",
+    "name": "Peter Ellis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5740570?s=72&u=7471991b5406a71270e961040c4ed7af3fddb15f&v=4",
+    "location": "Nouméa, Nouvelle-Calédonie",
+    "company": "Pacific Community | Communauté de Pacifique",
+    "twitterUsername": "",
+    "followers": 234,
+    "privateContributions": 405,
+    "publicContributions": 162,
+    "createdAt": "2013-10-21T19:17:41Z"
+  },
+  {
+    "login": "thhomas",
+    "name": "Thomas Tilak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5190928?s=72&u=9a7b9aa1c44828899a45ac3a9c436eb209cf01a3&v=4",
+    "location": "Nouméa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 113,
+    "createdAt": "2013-08-08T15:10:39Z"
   }
 ]

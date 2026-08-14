@@ -130,5 +130,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-26T09:15:28Z"
+  },
+  {
+    "login": "DionisioSeuna",
+    "name": "Dionisio Seuna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72158735?s=72&v=4",
+    "location": "Bissau, Guiné-Bissau",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2020-09-30T17:32:55Z"
+  },
+  {
+    "login": "ricardovazcorreia",
+    "name": "Ricardo Vaz Correia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63809067?s=72&u=0c1db40eb2ec43e476f950a8d57e0fc816260d34&v=4",
+    "location": "Bissau",
+    "company": "Freelance",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-16T17:21:24Z"
+  },
+  {
+    "login": "mamadubillw",
+    "name": "Mamadu Bilo Djalo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67745208?s=72&u=a3159e4d15a6c978214afa3f9922454160ee5ea2&v=4",
+    "location": "Bissau",
+    "company": "Full-Time Programmer",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-07-02T13:15:15Z"
+  },
+  {
+    "login": "ibanora",
+    "name": "Idrissa Banora",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63759766?s=72&u=8fd5ff07b45dea49f8488449d3aa7c92a0cbe658&v=4",
+    "location": "Guiné Bissau",
+    "company": "Idrais CTWD Bissau",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-16T00:37:29Z"
   }
 ]

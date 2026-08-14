@@ -754,5 +754,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-09T03:41:16Z"
+  },
+  {
+    "login": "TwigSick",
+    "name": "Kim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123185458?s=72&u=ebc29357f523003e0694b286b822da43991a290e&v=4",
+    "location": "Pyongyang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-20T15:15:41Z"
+  },
+  {
+    "login": "l0ji",
+    "name": "penny",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148722982?s=72&u=0a59a682ef0c9a18da2ee9007611d4d6962029d7&v=4",
+    "location": "Pyongyang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 35,
+    "publicContributions": 79,
+    "createdAt": "2023-10-22T21:11:19Z"
+  },
+  {
+    "login": "MelonSlay",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142123701?s=72&u=a19e6e66446593b9bde6397cb1a0e35d26d288fb&v=4",
+    "location": "Pyongyang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-12T22:30:44Z"
   }
 ]

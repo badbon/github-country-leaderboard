@@ -17362,5 +17362,29 @@
     "privateContributions": 74,
     "publicContributions": 0,
     "createdAt": "2023-05-02T23:38:10Z"
+  },
+  {
+    "login": "Battlesoft",
+    "name": "Yeray Santana Curbelo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113555966?s=72&u=59abbed7fdaae41f8bfe165c36a5640480879ab0&v=4",
+    "location": "Fuerteventura/Canary island/Spain",
+    "company": "University of Las Palmas de Gran Canaria",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2022-09-14T20:34:03Z"
+  },
+  {
+    "login": "AythamiPV",
+    "name": "Aythami Pérez Vega",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114574207?s=72&u=eecfa6b7563ee103072daf1619535d5933cf8365&v=4",
+    "location": "Canary Island, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 7,
+    "publicContributions": 115,
+    "createdAt": "2022-09-28T09:31:23Z"
   }
 ]
