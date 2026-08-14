@@ -4666,5 +4666,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-08-07T18:33:23Z"
+  },
+  {
+    "login": "morie-kormoh",
+    "name": "Morie Henry Kormoh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30797649?s=72&u=3166be3c64b658e1b109c0d68f37d659003bc844&v=4",
+    "location": "Freetown",
+    "company": "fenbaya",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-07T11:03:15Z"
+  },
+  {
+    "login": "computer030",
+    "name": "computer030",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25869526?s=72&u=b2d4ceec50dcabf002541514f45f0858d0b3b726&v=4",
+    "location": "freetown",
+    "company": "talleh internet cafe ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-18T18:48:11Z"
+  },
+  {
+    "login": "Karl-el01",
+    "name": "Karl-el01",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25665182?s=72&u=0fe6fcac8abc3a14b8e3627fc9c3b1d03a9efe67&v=4",
+    "location": "Freetown ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-09T14:18:32Z"
+  },
+  {
+    "login": "sloepvolunteer",
+    "name": "Demo Volunteer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34882911?s=72&v=4",
+    "location": "Freetown",
+    "company": "LAM-TECH",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-27T08:53:40Z"
   }
 ]

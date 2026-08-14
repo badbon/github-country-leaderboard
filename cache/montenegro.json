@@ -6490,5 +6490,65 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2017-08-28T10:15:42Z"
+  },
+  {
+    "login": "lobz1g",
+    "name": "Alex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32554755?s=72&u=3860ec00fcb026f5abffb1ce86f9b173a0a58867&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-05T20:22:05Z"
+  },
+  {
+    "login": "mladendraskovic",
+    "name": "Mladen Draskovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30001830?s=72&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 25,
+    "publicContributions": 1,
+    "createdAt": "2017-07-08T12:47:40Z"
+  },
+  {
+    "login": "proffust",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33157540?s=72&v=4",
+    "location": "Podgorica",
+    "company": "HomeBuddy",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2017-10-27T14:42:20Z"
+  },
+  {
+    "login": "jovanaknezevic",
+    "name": "Jovana Knezevic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27211104?s=72&u=e618b79e709a85a6f672c6fcf8d44c18a8cabf9a&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-10T12:08:17Z"
+  },
+  {
+    "login": "jovanarv77",
+    "name": "Jovana Vukcevic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28067911?s=72&u=11b99d60e350a68c45eb25cd651a2e0d5a1e49b5&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-26T20:27:49Z"
   }
 ]

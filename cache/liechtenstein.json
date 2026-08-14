@@ -622,5 +622,65 @@
     "privateContributions": 164,
     "publicContributions": 2,
     "createdAt": "2020-09-22T11:26:08Z"
+  },
+  {
+    "login": "msanft",
+    "name": "Moritz Sanft",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58110325?s=72&u=ed7a66331691a143fdb151f3c6c6bb8efee747b4&v=4",
+    "location": "Liechtenstein",
+    "company": "Edgeless Systems",
+    "twitterUsername": "stdoutput",
+    "followers": 293,
+    "privateContributions": 2288,
+    "publicContributions": 580,
+    "createdAt": "2019-11-23T13:06:50Z"
+  },
+  {
+    "login": "danheron",
+    "name": "Dan Heron",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51314385?s=72&u=156062340f5826254500b72ccf717d2cbbeae3b1&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 14,
+    "publicContributions": 95,
+    "createdAt": "2019-06-03T07:19:21Z"
+  },
+  {
+    "login": "Elysiox",
+    "name": "Elysiox",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51864368?s=72&u=3e67daf67088251416e85fd7c0acac0c27d24116&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-15T20:07:01Z"
+  },
+  {
+    "login": "tnaescher",
+    "name": "T. Näscher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58919528?s=72&v=4",
+    "location": "Liechtenstein",
+    "company": "J&T Treuhand GmbH, Zürich",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 2625,
+    "publicContributions": 1,
+    "createdAt": "2019-12-15T22:05:10Z"
+  },
+  {
+    "login": "NicolaKollmann",
+    "name": "Nicola Kollmann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57948862?s=72&u=57d3cabf7d5f39584e9583ca10e4a7d57cc0c86c&v=4",
+    "location": "Liechtenstein",
+    "company": "University of St.Gallen",
+    "twitterUsername": "NicolaKollmann",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2019-11-19T12:52:26Z"
   }
 ]

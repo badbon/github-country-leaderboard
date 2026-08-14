@@ -1054,5 +1054,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-10-12T10:33:50Z"
+  },
+  {
+    "login": "ThomasDeruel",
+    "name": "Thomas Deruel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33090111?s=72&u=bb03cca320d55080740f99324dc815631e80fb95&v=4",
+    "location": "Seine-Saint-Denis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2017-10-25T11:14:32Z"
+  },
+  {
+    "login": "0x346e3730",
+    "name": "Antonin CLAUZIER",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28731165?s=72&u=4548f658ffb8f3781ffbbb3946cde7f5e36bb910&v=4",
+    "location": "Saint-Denis, Reunion Island",
+    "company": "@clauzier-dev ",
+    "twitterUsername": "0x346e3730",
+    "followers": 23,
+    "privateContributions": 276,
+    "publicContributions": 15,
+    "createdAt": "2017-05-16T12:24:49Z"
+  },
+  {
+    "login": "julien-lav",
+    "name": "julien-lav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25738936?s=72&u=8c90d69d17947b493eee1887b93441beb86b1da7&v=4",
+    "location": "Saint-Denis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-13T09:03:23Z"
+  },
+  {
+    "login": "willice93",
+    "name": "willice",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33887068?s=72&u=a7f22fe20e03593d30709909db4b37bb709f9749&v=4",
+    "location": "saint denis ",
+    "company": "sur le tas ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-22T03:55:31Z"
   }
 ]

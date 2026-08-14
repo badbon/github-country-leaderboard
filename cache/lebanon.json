@@ -8503,7 +8503,7 @@
     "company": "Blue Dots",
     "twitterUsername": "",
     "followers": 44,
-    "privateContributions": 4326,
+    "privateContributions": 4328,
     "publicContributions": 0,
     "createdAt": "2022-08-30T07:55:05Z"
   },
@@ -8587,7 +8587,7 @@
     "company": "Cardinal Health",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 1857,
+    "privateContributions": 1860,
     "publicContributions": 15,
     "createdAt": "2022-07-04T12:22:54Z"
   },
@@ -8827,7 +8827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 229,
+    "privateContributions": 230,
     "publicContributions": 8,
     "createdAt": "2022-02-20T13:59:39Z"
   },
@@ -9367,7 +9367,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 763,
+    "privateContributions": 782,
     "publicContributions": 0,
     "createdAt": "2022-04-13T14:21:30Z"
   },
@@ -12934,5 +12934,137 @@
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2022-06-11T10:13:40Z"
+  },
+  {
+    "login": "Hamza-69",
+    "name": "Hamza El Rachdi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110194657?s=72&u=1a748691006191ed377b67a6a8ce631ffd4741fd&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 41,
+    "privateContributions": 605,
+    "publicContributions": 808,
+    "createdAt": "2022-07-28T18:11:20Z"
+  },
+  {
+    "login": "Alaa-AlTawil",
+    "name": "Alaa AlTawil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105279525?s=72&u=d682a43e5ea33e79c02106c7ed2316a455daed6b&v=4",
+    "location": "Beirut",
+    "company": "Software Engineering Factory",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-10T09:19:05Z"
+  },
+  {
+    "login": "CharbelElBateh",
+    "name": "Charbel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99130418?s=72&u=c55a2e80d776c5b1a33ed742e87389d98d57f7eb&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2022-02-06T14:25:39Z"
+  },
+  {
+    "login": "sayed-kassem",
+    "name": "Sayed ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116944020?s=72&u=c334fba227f47ffe5ff3f37c51db8b15a3631e87&v=4",
+    "location": "beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2022-10-29T07:58:07Z"
+  },
+  {
+    "login": "MrKhalil97",
+    "name": "Abbass Khalil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110247316?s=72&u=bf370283b970e4a11e9b558b46b9ac4a51c18c89&v=4",
+    "location": "Beirut",
+    "company": "Intalio",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-29T15:12:41Z"
+  },
+  {
+    "login": "khlmood",
+    "name": "Khalil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99619908?s=72&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2022-02-13T22:03:34Z"
+  },
+  {
+    "login": "A1iMansour",
+    "name": "Ali Mansour",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113988768?s=72&u=ce8dd5087f3b341650f8e22dad650004d01b69bc&v=4",
+    "location": "Beirut",
+    "company": "American University of Beirut",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-09-20T11:12:35Z"
+  },
+  {
+    "login": "skalvin",
+    "name": "skalvin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103864971?s=72&u=4597359d9ac07753ecfdaf65e898766894384b83&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "0x0CryptoJob",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-17T00:29:53Z"
+  },
+  {
+    "login": "m-katerji",
+    "name": "Marc Katerji",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112881068?s=72&u=5ed1079a9184cf76e79504cf2ecc7bac22988373&v=4",
+    "location": "Beirut",
+    "company": "42 Beirut",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-05T14:18:15Z"
+  },
+  {
+    "login": "Alihm92754",
+    "name": "Ali Hammoud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100542677?s=72&u=c3d57604b8c9e8f4aeed71df654c14bb6ba6b117&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-28T00:11:54Z"
+  },
+  {
+    "login": "HseinKt",
+    "name": "Hussein Kteish",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120685276?s=72&u=5347bac758aafe660839eb8dd069e3a2177ab143&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 134,
+    "createdAt": "2022-12-15T21:17:50Z"
   }
 ]
