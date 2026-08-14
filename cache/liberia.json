@@ -2170,5 +2170,65 @@
     "privateContributions": 0,
     "publicContributions": 72,
     "createdAt": "2016-03-23T12:51:05Z"
+  },
+  {
+    "login": "xarrijorge",
+    "name": "The African Nomad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12427123?s=72&u=32c6c7fa14d9f3081d1a83bd439cf3bce6075c66&v=4",
+    "location": "Monrovia, Liberia",
+    "company": "",
+    "twitterUsername": "xarrijorge",
+    "followers": 34,
+    "privateContributions": 646,
+    "publicContributions": 28,
+    "createdAt": "2015-05-13T10:09:37Z"
+  },
+  {
+    "login": "tangaye",
+    "name": "Nathan Tangaye Siafa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16362212?s=72&u=f09525880599d9008473666238a6f956b09d13bb&v=4",
+    "location": "Paynesville, Liberia",
+    "company": "@Kwagei",
+    "twitterUsername": "tangaye_siafa",
+    "followers": 25,
+    "privateContributions": 644,
+    "publicContributions": 0,
+    "createdAt": "2015-12-19T13:34:35Z"
+  },
+  {
+    "login": "kollie",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11194580?s=72&u=27ea0f122d8e57c40479c7ff9b5e59a0f62d67c9&v=4",
+    "location": "Liberia",
+    "company": "Orange",
+    "twitterUsername": "z_kollie",
+    "followers": 11,
+    "privateContributions": 172,
+    "publicContributions": 2,
+    "createdAt": "2015-02-25T14:28:54Z"
+  },
+  {
+    "login": "dorbor",
+    "name": "Dorbor Richards ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15108883?s=72&u=72cc420549fd4c9d0f923ea658f280c6153f56f6&v=4",
+    "location": "Monrovia Liberia",
+    "company": "@thub.io",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-13T15:02:50Z"
+  },
+  {
+    "login": "oeddins",
+    "name": "Owen Eddins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10851502?s=72&u=704865d3073c7325045a754f82ff2ea4c5339b53&v=4",
+    "location": "Monrovia, Liberia//Albuquerque, New Mexico",
+    "company": "Last Mile Health",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-04T16:07:48Z"
   }
 ]

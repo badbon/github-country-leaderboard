@@ -142,5 +142,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-26T14:21:27Z"
+  },
+  {
+    "login": "xsebby",
+    "name": "sebby",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114947435?s=72&u=2a1607a1d4fdd18728c788ef66b3a59f152d2beb&v=4",
+    "location": "jersey",
+    "company": "",
+    "twitterUsername": "xsebby",
+    "followers": 1,
+    "privateContributions": 143,
+    "publicContributions": 162,
+    "createdAt": "2022-10-03T17:55:48Z"
+  },
+  {
+    "login": "GedSargent",
+    "name": "Ged Sargent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120935232?s=72&u=ac060dc6be5c2c4b2c435e523fb53417b5d0f777&v=4",
+    "location": "Jersey",
+    "company": "@Highlands-Computing-Dept ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 77,
+    "createdAt": "2022-12-18T12:47:11Z"
   }
 ]

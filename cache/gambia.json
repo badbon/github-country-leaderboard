@@ -886,5 +886,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-12-03T04:29:05Z"
+  },
+  {
+    "login": "demebrima",
+    "name": "Ebrima S. Dem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13323115?s=72&u=48ceeb25fc849b5953994083966a3184a7c3565e&v=4",
+    "location": "Banjul Gambia",
+    "company": "Gamjobs.com",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-13T23:03:24Z"
+  },
+  {
+    "login": "geniuskidkanyi",
+    "name": "muhammed kanyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14014310?s=72&v=4",
+    "location": "Gambia",
+    "company": "Gcubed",
+    "twitterUsername": "ghostkanyi",
+    "followers": 3,
+    "privateContributions": 439,
+    "publicContributions": 74,
+    "createdAt": "2015-08-28T10:33:41Z"
+  },
+  {
+    "login": "sang105",
+    "name": "Sang Marie Colley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15791755?s=72&v=4",
+    "location": "Gambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2015-11-10T22:59:49Z"
   }
 ]

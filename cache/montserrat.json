@@ -3382,5 +3382,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-01-03T20:34:41Z"
+  },
+  {
+    "login": "thisisthechris",
+    "name": "Chris Hunt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181447?s=72&u=347a3cb03baf3fef107f4ff677a984898f2eaf7b&v=4",
+    "location": "Plymouth",
+    "company": "Controlled Frenzy",
+    "twitterUsername": "",
+    "followers": 44,
+    "privateContributions": 2312,
+    "publicContributions": 114,
+    "createdAt": "2010-01-13T14:00:13Z"
+  },
+  {
+    "login": "ianckc",
+    "name": "Ian Luckraft",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/400043?s=72&u=08f73ef2e821e44619c720a4b6323de0b232b880&v=4",
+    "location": "Plymouth UK",
+    "company": "",
+    "twitterUsername": "ianckc",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2010-09-15T09:53:49Z"
+  },
+  {
+    "login": "doclements",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/430808?s=72&v=4",
+    "location": "Plymouth",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2010-10-07T10:56:05Z"
+  },
+  {
+    "login": "cairey",
+    "name": "Chris Airey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185809?s=72&v=4",
+    "location": "Plymouth",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-01-19T23:16:19Z"
+  },
+  {
+    "login": "briancrocker81",
+    "name": "Brian Crocker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/404376?s=72&v=4",
+    "location": "Plymouth",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-17T11:36:37Z"
+  },
+  {
+    "login": "blakejohnson86",
+    "name": "Blake Johnson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/379045?s=72&v=4",
+    "location": "Plymouth, MN",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-28T15:17:00Z"
+  },
+  {
+    "login": "matt-catalyst",
+    "name": "Matt Clarkson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/380122?s=72&u=b3fa1cd2c7f4345344df73aba53fda122606b15d&v=4",
+    "location": "New Plymouth",
+    "company": "Catalyst IT",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2010-08-29T23:26:39Z"
+  },
+  {
+    "login": "JAugustJackson",
+    "name": "Josh Jackson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/334377?s=72&u=0952b6d0f0aa3e317944d40872e41679dc48f705&v=4",
+    "location": "Plymouth, MA",
+    "company": "Abbreviated Media",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2010-07-16T19:51:47Z"
+  },
+  {
+    "login": "solaridm",
+    "name": "Andrew White",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/244938?s=72&v=4",
+    "location": "Plymouth MI",
+    "company": "Foundry SG",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-04-15T19:19:56Z"
   }
 ]

@@ -778,5 +778,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-04-06T00:48:54Z"
+  },
+  {
+    "login": "gbaccetta",
+    "name": "Giovanni Accetta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14019370?s=72&u=c60c1bde522d02ac7c6e081c869560fa6ca37c6d&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "GBAccetta",
+    "followers": 7,
+    "privateContributions": 1614,
+    "publicContributions": 0,
+    "createdAt": "2015-08-28T17:08:06Z"
+  },
+  {
+    "login": "rgeromegnace",
+    "name": "Régis GEROMEGNACE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14253152?s=72&v=4",
+    "location": "Guadeloupe",
+    "company": "Digitom",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-12T20:23:15Z"
+  },
+  {
+    "login": "sguyader",
+    "name": "Sébastien Guyader",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13856378?s=72&u=19fbbb9c39b36972c18df59525b8e8db11ae0700&v=4",
+    "location": "Guadeloupe",
+    "company": "@INRAE",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2015-08-18T18:17:10Z"
+  },
+  {
+    "login": "LexoMeraki",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10344210?s=72&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-30T00:04:58Z"
   }
 ]

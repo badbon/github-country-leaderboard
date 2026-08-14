@@ -1162,5 +1162,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-06-25T18:05:40Z"
+  },
+  {
+    "login": "vittoriobusatta",
+    "name": "vittorio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76747274?s=72&u=a19b232004c40f3e9332a347bc93e14e0631ac5a&v=4",
+    "location": "Reunion Island",
+    "company": "@mascarinreunion",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 2842,
+    "publicContributions": 5,
+    "createdAt": "2020-12-29T18:04:15Z"
+  },
+  {
+    "login": "RandomZeleff",
+    "name": "Zeleff_",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92428362?s=72&u=74ca10b974cbaa82d59fef60eb057e2494df62e3&v=4",
+    "location": "Reunion Island",
+    "company": "Nartya",
+    "twitterUsername": "zeleff_ii",
+    "followers": 6,
+    "privateContributions": 353,
+    "publicContributions": 8,
+    "createdAt": "2021-10-13T07:57:31Z"
   }
 ]

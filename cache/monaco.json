@@ -1054,5 +1054,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-07-30T22:15:13Z"
+  },
+  {
+    "login": "jz222",
+    "name": "Timo Zimmermann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43854691?s=72&u=0a03e1d3b652413055741c45b447dc258df77b04&v=4",
+    "location": "Monte-Carlo, Monaco",
+    "company": "Mosaic S.A.R.L",
+    "twitterUsername": "",
+    "followers": 94,
+    "privateContributions": 585,
+    "publicContributions": 6,
+    "createdAt": "2018-10-04T14:46:28Z"
+  },
+  {
+    "login": "LovelessCodes",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45143926?s=72&u=cda827c388575d480503d9a45938e433b56253de&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 1205,
+    "publicContributions": 2181,
+    "createdAt": "2018-11-18T12:59:10Z"
+  },
+  {
+    "login": "CERT-MC",
+    "name": "CERT-MC",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36305733?s=72&u=caa8358ff4705c63f5c4a85776f51105f249055d&v=4",
+    "location": "Monaco",
+    "company": "Agence Monegasque de Securite Numerique",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-09T16:11:35Z"
+  },
+  {
+    "login": "JohannWojciech",
+    "name": "JohannWojciech",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43233777?s=72&u=2f5409bb699d969be758915a4e7adf98fe486b0e&v=4",
+    "location": "Monaco",
+    "company": "Astoria VC",
+    "twitterUsername": "millerrr7",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-09-13T08:08:08Z"
+  },
+  {
+    "login": "alekzandev",
+    "name": "Aleksandr Vallejo-Sánchez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35435216?s=72&u=ff7b3dab54b0172b15393fc03b4fb10790a490d9&v=4",
+    "location": "Monaco",
+    "company": "Universidad EAFIT",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2018-01-14T22:19:19Z"
+  },
+  {
+    "login": "sat0oshi",
+    "name": "KARIM Sat0oshi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36512314?s=72&u=42ea42ecf3ccc0b8738f481bd56f350b6faad385&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "sat0oshi",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2018-02-15T16:28:07Z"
+  },
+  {
+    "login": "remibed",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39211923?s=72&u=1e077157755f52534fb20e0d6c5a6d61018c7838&v=4",
+    "location": "Monaco",
+    "company": "WeOpt",
+    "twitterUsername": "remibed",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-12T07:46:41Z"
+  },
+  {
+    "login": "NoRegAI",
+    "name": "NoRegAI™",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38872565?s=72&u=7544d2e224280afd974e76f04e508657c5e30c8e&v=4",
+    "location": "Monaco",
+    "company": "NoRegAI™",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-01T01:54:08Z"
   }
 ]

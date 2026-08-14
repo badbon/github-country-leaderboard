@@ -14674,5 +14674,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-08T16:37:01Z"
+  },
+  {
+    "login": "Eduzinskas",
+    "name": "Ernestas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79659517?s=72&u=96fc114fa326dae680bdffd4b4fb6850913220c6&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-25T17:40:00Z"
+  },
+  {
+    "login": "bonsaivaras",
+    "name": "Aivaras",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78196204?s=72&u=d169163e84008287a13c1db2eabed86fcfd78c68&v=4",
+    "location": "Vilnius",
+    "company": "Ovoko",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-29T06:27:25Z"
+  },
+  {
+    "login": "rkireevLT",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82458006?s=72&u=188f66597acf15864ec2fb6f2c8897260e414826&v=4",
+    "location": "Vilnius",
+    "company": "Coherent Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-13T14:13:05Z"
+  },
+  {
+    "login": "ArturasPran",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83699870?s=72&u=95ecd517b145941836fb40f0687ba031131f7478&v=4",
+    "location": "Vilnius",
+    "company": "Eika, UAB",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1762,
+    "publicContributions": 2,
+    "createdAt": "2021-05-05T09:32:55Z"
+  },
+  {
+    "login": "FiestaBoy",
+    "name": "Justas Vaškelevičius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90645876?s=72&u=8f4c6bb5bb09598eff070b8a4f7414ccd28d8c47&v=4",
+    "location": "Vilnius",
+    "company": "Vilnius Lyceum",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 35,
+    "publicContributions": 22,
+    "createdAt": "2021-09-13T18:21:25Z"
   }
 ]

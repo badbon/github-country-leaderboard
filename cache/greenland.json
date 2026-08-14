@@ -502,5 +502,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-04T10:08:29Z"
+  },
+  {
+    "login": "larpSTATGL",
+    "name": "Lars Pedersen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14994906?s=72&u=faaf127907f680a4deb7b3ea2439c36054acdbe0&v=4",
+    "location": "Nuuk, Greenland",
+    "company": "Statistics Greenland",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2015-10-06T10:34:28Z"
+  },
+  {
+    "login": "PhuocBull",
+    "name": "BLVDE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13234965?s=72&u=4e44910f04dc0545ae5037438bf94241e947d5b7&v=4",
+    "location": "Greenland",
+    "company": "PhotonHashing™",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-07-08T09:36:26Z"
+  },
+  {
+    "login": "johan-ejstrud",
+    "name": "Johan Ejstrud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11992346?s=72&v=4",
+    "location": "Nuuk, Greenland",
+    "company": "Ejstrud Consulting",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1765,
+    "publicContributions": 273,
+    "createdAt": "2015-04-17T10:02:50Z"
+  },
+  {
+    "login": "VincentDale",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16167711?s=72&u=53dcae0de41679c10201a3efc97331feff06f40d&v=4",
+    "location": "GreenLand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-05T16:38:18Z"
   }
 ]
