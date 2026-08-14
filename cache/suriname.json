@@ -94,5 +94,53 @@
     "privateContributions": 0,
     "publicContributions": 234,
     "createdAt": "2025-08-19T02:15:10Z"
+  },
+  {
+    "login": "Karel95",
+    "name": "Karel Hernández",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162202243?s=72&u=70f96a00126ded2efada0c22e42ffb03180d7af8&v=4",
+    "location": "Paramaribo, Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 35,
+    "privateContributions": 2460,
+    "publicContributions": 68,
+    "createdAt": "2024-03-04T20:46:44Z"
+  },
+  {
+    "login": "wortelv",
+    "name": "Verginia Wortel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167071934?s=72&u=06058a1e096191f3572d0f14af63a998ddef6263&v=4",
+    "location": "Suriname",
+    "company": "CELOS",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-15T08:38:01Z"
+  },
+  {
+    "login": "StevenDanning",
+    "name": "Steven Danning ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168684734?s=72&u=950e30dc8fa7dcac6ee02ecdca4ca96abf13ba86&v=4",
+    "location": "Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-01T21:30:53Z"
+  },
+  {
+    "login": "vanish-vvm",
+    "name": "Vanish Gajadhar Sukul",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172288010?s=72&u=926a0b40896b595b55584910218716d1ff0874a4&v=4",
+    "location": "Paramaribo, Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5,
+    "publicContributions": 5,
+    "createdAt": "2024-06-10T14:41:18Z"
   }
 ]

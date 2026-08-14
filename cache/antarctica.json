@@ -5470,5 +5470,65 @@
     "privateContributions": 0,
     "publicContributions": 996,
     "createdAt": "2012-11-23T19:09:12Z"
+  },
+  {
+    "login": "examachine",
+    "name": "Eray Özkural",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/587091?s=72&v=4",
+    "location": "Dead City, Antarctica",
+    "company": "@celestial-intellect ",
+    "twitterUsername": "examachine",
+    "followers": 122,
+    "privateContributions": 39,
+    "publicContributions": 14,
+    "createdAt": "2011-01-27T20:04:15Z"
+  },
+  {
+    "login": "SSE4",
+    "name": "SSE4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/870236?s=72&v=4",
+    "location": "Antarctica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 61,
+    "privateContributions": 0,
+    "publicContributions": 167,
+    "createdAt": "2011-06-23T10:23:19Z"
+  },
+  {
+    "login": "bjadamson",
+    "name": "Benjamin Adamson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1087837?s=72&u=9218c6195e4a84e07668b6d8a428735f0d1bf7e6&v=4",
+    "location": "Antarctica, South Pole",
+    "company": "Me Myself and I",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2011-09-28T19:21:11Z"
+  },
+  {
+    "login": "bscoder",
+    "name": "Sergey Boltushkin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/686654?s=72&v=4",
+    "location": "Antarctica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2011-03-23T17:58:26Z"
+  },
+  {
+    "login": "mkrzysztofowicz",
+    "name": "Michal Krzysztofowicz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/953874?s=72&u=cceabbca50d3fd466ef135ca1856c564f7184f55&v=4",
+    "location": "Halley Research Station, Antarctica",
+    "company": "British Antarctic Survey",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2011-08-02T11:09:33Z"
   }
 ]

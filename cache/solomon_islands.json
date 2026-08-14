@@ -94,5 +94,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-31T22:53:15Z"
+  },
+  {
+    "login": "b-tupiti",
+    "name": "Brandon Ryan Tupiti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36353023?s=72&u=04ba5309a307b4c42df391b7455001cf8002d53a&v=4",
+    "location": "Honiara, Solomon Islands",
+    "company": "SINPF",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 634,
+    "publicContributions": 779,
+    "createdAt": "2018-02-11T04:20:17Z"
+  },
+  {
+    "login": "forum-fisheries-agency",
+    "name": "FFA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41754921?s=72&v=4",
+    "location": "Honiara, Solomon Islands",
+    "company": "Forum Fisheries Agency",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-07-26T17:03:11Z"
   }
 ]

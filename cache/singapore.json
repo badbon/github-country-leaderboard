@@ -4183,7 +4183,7 @@
     "company": "Rangsit University ",
     "twitterUsername": "Heintayzarkoko1",
     "followers": 2,
-    "privateContributions": 163,
+    "privateContributions": 166,
     "publicContributions": 105,
     "createdAt": "2025-03-03T07:14:13Z"
   },
@@ -8566,5 +8566,29 @@
     "privateContributions": 0,
     "publicContributions": 97,
     "createdAt": "2025-03-03T02:41:55Z"
+  },
+  {
+    "login": "adjie3beloved-web",
+    "name": "ghiel<spy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/240876505?s=72&u=7c518a4686685f356701c302481a807e5cbd0452&v=4",
+    "location": "singapura",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2025-10-29T08:34:52Z"
+  },
+  {
+    "login": "meriansyah7",
+    "name": "MERIANSYAH",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215414675?s=72&v=4",
+    "location": "Singapura",
+    "company": "PT.BANK RAKYAT INDONESIA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-06-08T19:16:03Z"
   }
 ]
