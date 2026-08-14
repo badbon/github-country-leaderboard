@@ -850,5 +850,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-03-21T13:27:45Z"
+  },
+  {
+    "login": "aalleard",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20625077?s=72&u=efa3c9d913fe6ae2f7815c9a687477794bd6f0e9&v=4",
+    "location": "Nouméa",
+    "company": "Sapya",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-24T13:04:07Z"
+  },
+  {
+    "login": "olivierruineau",
+    "name": "Olivier Ruineau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16587903?s=72&u=17ceddb9b927ed23683adfd2d10b693c59bd22d4&v=4",
+    "location": "Nouméa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2016-01-07T05:38:03Z"
   }
 ]

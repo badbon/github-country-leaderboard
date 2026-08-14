@@ -4004,7 +4004,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 57,
     "createdAt": "2022-07-19T19:56:39Z"
   },
   {
@@ -4328,7 +4328,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 202,
     "createdAt": "2022-08-30T19:04:36Z"
   },
   {
@@ -5014,5 +5014,53 @@
     "privateContributions": 24,
     "publicContributions": 408,
     "createdAt": "2021-11-29T15:44:46Z"
+  },
+  {
+    "login": "frios007",
+    "name": "Fabio Rios",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110306519?s=72&u=e9694f5ef550797579609efd9818624b7bf0bd7e&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "frios7",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2022-07-30T19:15:20Z"
+  },
+  {
+    "login": "Criqua",
+    "name": ":SothisIs:",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113253459?s=72&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 7,
+    "publicContributions": 37,
+    "createdAt": "2022-09-10T15:58:38Z"
+  },
+  {
+    "login": "Jefrey13",
+    "name": "Jefrey A. Zuniga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113555112?s=72&u=fcced6bce541266fb3b77aaaed0765e672911fa8&v=4",
+    "location": "Managua, Niacaragua",
+    "company": "Sustainable Science Institute",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-09-14T20:15:10Z"
+  },
+  {
+    "login": "drivera-dev",
+    "name": "Danny Rivera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104089225?s=72&u=29a36e0d6f97df1e37d5048330bc0c4b4c365c7d&v=4",
+    "location": "Managua",
+    "company": "NicaSource",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 895,
+    "publicContributions": 0,
+    "createdAt": "2022-04-20T15:55:37Z"
   }
 ]

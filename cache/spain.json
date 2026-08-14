@@ -12526,5 +12526,41 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2023-10-05T15:56:09Z"
+  },
+  {
+    "login": "DanielMartinCordero",
+    "name": "Daniel Martin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/223156105?s=72&u=ce1dd12f4bcb6dbe8c19be86af89a20acd7dac49&v=4",
+    "location": "Guadalajara, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 2,
+    "publicContributions": 147,
+    "createdAt": "2025-07-27T19:11:07Z"
+  },
+  {
+    "login": "TotusCode",
+    "name": "Totus Code",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215552332?s=72&u=10299805b615f8fd92f46eaa86fb679ea56be59a&v=4",
+    "location": "Guadalajara, Spain",
+    "company": "Totus Code",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-06-09T16:54:14Z"
+  },
+  {
+    "login": "rober299",
+    "name": "Roberto Mario Chislea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197252768?s=72&v=4",
+    "location": "Guadalajara, España",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 167,
+    "createdAt": "2025-01-31T11:00:32Z"
   }
 ]

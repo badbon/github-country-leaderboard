@@ -754,5 +754,65 @@
     "privateContributions": 1451,
     "publicContributions": 17,
     "createdAt": "2020-05-05T21:51:43Z"
+  },
+  {
+    "login": "AlexandreMaillot",
+    "name": "Alexandre Maillot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46443562?s=72&u=963c4434cf7d10c31f990c0899f5e6ba726cd31e&v=4",
+    "location": "Saint Pierre, Réunion",
+    "company": "Creapp-i",
+    "twitterUsername": "MAILLOTAlexand5",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 130,
+    "createdAt": "2019-01-07T10:30:03Z"
+  },
+  {
+    "login": "PaulMouchel",
+    "name": "Paul Mouchel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52449717?s=72&u=7ac9ae21aea8363cfd1de52c0ea7ce08385ae3d2&v=4",
+    "location": "Réunion",
+    "company": "GAA",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-07-02T09:44:33Z"
+  },
+  {
+    "login": "domgay",
+    "name": "Dominique Gay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48003403?s=72&u=0fca9f2462e2ba6403872a24cbcdb4c6ea249fb4&v=4",
+    "location": "Réunion",
+    "company": "Université de La Réunion",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2019-02-26T04:40:12Z"
+  },
+  {
+    "login": "lain-Dev",
+    "name": "lain-Dev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55925589?s=72&u=88c4ef4c47113bc6be99fb17d24c47073dcb54aa&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "OlivierLebon974",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-28T17:23:38Z"
+  },
+  {
+    "login": "deepcookie",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55238691?s=72&u=6e484b1bfe9110ab643e475c75a097ef5fe30189&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 49,
+    "publicContributions": 3,
+    "createdAt": "2019-09-12T11:24:01Z"
   }
 ]

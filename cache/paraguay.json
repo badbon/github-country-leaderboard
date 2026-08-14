@@ -2334,9 +2334,9 @@
     "location": "Asunción, Paraguay",
     "company": "Banco Continental SAECA",
     "twitterUsername": "",
-    "followers": 503,
+    "followers": 504,
     "privateContributions": 595,
-    "publicContributions": 353,
+    "publicContributions": 354,
     "createdAt": "2023-05-24T16:40:26Z"
   },
   {
@@ -4078,5 +4078,89 @@
     "privateContributions": 0,
     "publicContributions": 110,
     "createdAt": "2023-01-29T13:53:51Z"
+  },
+  {
+    "login": "lourdev",
+    "name": "Lourdes Mendieta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121880014?s=72&u=b8956552fe5981c725d732c70da8d6ea74052f75&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-03T14:48:05Z"
+  },
+  {
+    "login": "MedinaEnrique",
+    "name": "Enrique",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133240252?s=72&u=297e70eb9d343c909b908213098c63944ab05b19&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 971,
+    "publicContributions": 9,
+    "createdAt": "2023-05-11T14:30:19Z"
+  },
+  {
+    "login": "matiayalao",
+    "name": "Matías Ayala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146744106?s=72&u=e3457c4a68f141bd19af5caef1d7e70438d5e3ee&v=4",
+    "location": "Asunción",
+    "company": "Cecyt",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 67,
+    "createdAt": "2023-10-02T14:09:43Z"
+  },
+  {
+    "login": "valezgo",
+    "name": "Valeria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137800021?s=72&u=e7092f1724299b9ba1a7a64f61f3f7dce7a35e19&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-26T14:00:17Z"
+  },
+  {
+    "login": "PauloWgDev",
+    "name": "Paulo Waimberg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133529935?s=72&u=390e658013426de28f027904ca6d763da91259b6&v=4",
+    "location": "Asunción",
+    "company": "Banco Familiar",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 65,
+    "publicContributions": 83,
+    "createdAt": "2023-05-13T17:51:51Z"
+  },
+  {
+    "login": "andres-planas-itti",
+    "name": "Andrés Planás",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150476888?s=72&u=c39589e43ac31afc31ebd539e9bd891a18ad9d3c&v=4",
+    "location": "Asunción",
+    "company": "@ittidigital",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 474,
+    "publicContributions": 0,
+    "createdAt": "2023-11-10T19:03:04Z"
+  },
+  {
+    "login": "lmcygnus",
+    "name": "Loida Martinez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125367683?s=72&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1,
+    "publicContributions": 12,
+    "createdAt": "2023-02-14T12:18:53Z"
   }
 ]
