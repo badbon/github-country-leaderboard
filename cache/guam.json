@@ -214,5 +214,41 @@
     "privateContributions": 24,
     "publicContributions": 0,
     "createdAt": "2021-09-06T08:39:00Z"
+  },
+  {
+    "login": "cshellz",
+    "name": "Antara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66917980?s=72&u=57ae914e6663cff02ee9b71159770cbe07c510df&v=4",
+    "location": "Marianas Trench, Guam",
+    "company": "App Academy (@appacademy)",
+    "twitterUsername": "",
+    "followers": 218,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-14T17:40:45Z"
+  },
+  {
+    "login": "KelliBre",
+    "name": "Kelli Brecunier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69826404?s=72&u=c23dbf584cc0404ec2f9318745aeb711075e9ae3&v=4",
+    "location": "Yo' ña, Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-17T23:45:25Z"
+  },
+  {
+    "login": "dannikate",
+    "name": "Dannika",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71364766?s=72&v=4",
+    "location": "Guam",
+    "company": "WERI UOG",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 511,
+    "publicContributions": 146,
+    "createdAt": "2020-09-16T03:40:23Z"
   }
 ]

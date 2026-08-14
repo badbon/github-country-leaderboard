@@ -310,5 +310,29 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-04-28T11:19:54Z"
+  },
+  {
+    "login": "laabidiRayen",
+    "name": "Rayen laabidi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117037061?s=72&u=32a6c8da5d8ff5673236871dc59270067fa85f45&v=4",
+    "location": "Vaduz",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2022-10-30T18:25:41Z"
+  },
+  {
+    "login": "HanaGashi",
+    "name": "Hana Gashi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99765063?s=72&v=4",
+    "location": "Vaduz",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-15T20:44:27Z"
   }
 ]

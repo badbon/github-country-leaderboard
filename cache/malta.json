@@ -2518,5 +2518,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-01T09:21:07Z"
+  },
+  {
+    "login": "gflaminio3",
+    "name": "Giuseppe Flaminio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114490362?s=72&u=3cf3e3fb214cdddc5bd1f92fa92f3c7fdee6b40e&v=4",
+    "location": "Valletta",
+    "company": "",
+    "twitterUsername": "gflaminio3",
+    "followers": 5,
+    "privateContributions": 23,
+    "publicContributions": 20,
+    "createdAt": "2022-09-27T12:15:14Z"
+  },
+  {
+    "login": "Theodoer",
+    "name": "Star Xu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113863814?s=72&u=6f236c7eea7665a70eafc52e404f10bf3cea9999&v=4",
+    "location": "Valletta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2022-09-18T22:38:58Z"
   }
 ]

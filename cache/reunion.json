@@ -694,5 +694,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-27T04:36:57Z"
+  },
+  {
+    "login": "michel97400",
+    "name": "Michel Payet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132245847?s=72&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 5,
+    "publicContributions": 73,
+    "createdAt": "2023-05-01T04:10:22Z"
+  },
+  {
+    "login": "Uhi0",
+    "name": " Nina LATCHIMY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125567920?s=72&u=21b88d852c439ab523f3c9ae86edf13ad7c559a5&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2023-02-16T12:39:50Z"
   }
 ]

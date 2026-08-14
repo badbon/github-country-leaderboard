@@ -730,5 +730,65 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-02-16T07:17:47Z"
+  },
+  {
+    "login": "Relebo1",
+    "name": "Relebohile Sekutlu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100593910?s=72&u=8e89164dabb2ecbf88392e30f34c08972fc0640a&v=4",
+    "location": "Maseru",
+    "company": "Mindforge AI",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 217,
+    "publicContributions": 116,
+    "createdAt": "2022-02-28T14:42:07Z"
+  },
+  {
+    "login": "AguelDawma",
+    "name": "Thapelo Sekhonyana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103673250?s=72&u=1fe3e13edbe719e60a8dc928e09235138c94028a&v=4",
+    "location": "Upper Thamae Maseru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 105,
+    "publicContributions": 133,
+    "createdAt": "2022-04-14T17:12:42Z"
+  },
+  {
+    "login": "Litebo",
+    "name": "Liteboho Moeketse ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105590763?s=72&v=4",
+    "location": "Maseru ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-15T12:09:16Z"
+  },
+  {
+    "login": "PholohoHlaha",
+    "name": "Pholoho Hlaha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100140459?s=72&u=3f17372ab93ed5b4e1bb0ce5fd965f908793a6d2&v=4",
+    "location": "Maseru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-02-21T13:38:08Z"
+  },
+  {
+    "login": "LehlohonoloMoketa",
+    "name": "Lehlohonolo Moketa ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120141010?s=72&u=40df2ecbd218de9ef9577bd5f8a94a4c24c61ba8&v=4",
+    "location": "Maseru",
+    "company": "HubSec South Africa",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2022-12-08T22:08:11Z"
   }
 ]

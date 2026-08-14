@@ -838,5 +838,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-19T04:38:35Z"
+  },
+  {
+    "login": "kingphet",
+    "name": "Kingphet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133629819?s=72&u=1cfa715d02b7b7f44f04b47abc0f2844b5fd593e&v=4",
+    "location": "Vientiane Capital",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2023-05-15T05:59:49Z"
+  },
+  {
+    "login": "mengvangdev",
+    "name": "Meng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150329836?s=72&v=4",
+    "location": "Vientiane",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2023-11-09T08:00:31Z"
+  },
+  {
+    "login": "mamatarakanaalready",
+    "name": "mamatarakanaalready",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154736250?s=72&u=f665821c839b02ff31dc83eb435b7c72bdb475b7&v=4",
+    "location": "Vientiane",
+    "company": "VXL Software Solutions Private Limited",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-12-24T11:37:36Z"
   }
 ]

@@ -11890,5 +11890,41 @@
     "privateContributions": 37,
     "publicContributions": 3,
     "createdAt": "2025-09-18T14:22:18Z"
+  },
+  {
+    "login": "DanoGlez",
+    "name": "Daniel Darias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146253621?s=72&u=97f65f4f359cd586c925dc1691103eedbf26325a&v=4",
+    "location": "Canary Island, Spain",
+    "company": "",
+    "twitterUsername": "_danoglez",
+    "followers": 10,
+    "privateContributions": 2123,
+    "publicContributions": 67,
+    "createdAt": "2023-09-27T18:41:49Z"
+  },
+  {
+    "login": "ravel01106",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123897484?s=72&u=a4be26ae777d8b7d1f1e556b274c6c9634d30b15&v=4",
+    "location": "Canary Island, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2023-01-29T18:38:14Z"
+  },
+  {
+    "login": "elianurl",
+    "name": "E L I A N",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143443677?s=72&u=64d8d1b85ee933ef4173a4ba8c6047d6b9e15515&v=4",
+    "location": "Santa Cruz de Tenerife, Canary Island, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 441,
+    "publicContributions": 31,
+    "createdAt": "2023-08-28T18:41:09Z"
   }
 ]

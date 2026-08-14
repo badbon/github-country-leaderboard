@@ -14674,5 +14674,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-20T09:40:12Z"
+  },
+  {
+    "login": "fywmjj",
+    "name": "Yaowen Fan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142661449?s=72&u=451e366afef2baec8f5720c4c0e6ff31aaa966a7&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "@ZhianTeam",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 42,
+    "publicContributions": 107,
+    "createdAt": "2023-08-19T09:38:46Z"
+  },
+  {
+    "login": "yuntao229",
+    "name": "Yuntao Wei",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128216439?s=72&u=d081d07965ccde407ae0a9340100ff2df0eaa6d2&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "The Hong Kong Polytechnic University",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2023-03-18T08:16:31Z"
+  },
+  {
+    "login": "McAtr1Xx",
+    "name": "Hongyi CHEN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144405619?s=72&v=4",
+    "location": "Hong Kong SAR & Shenzhen, China",
+    "company": "The Hong Kong University of Science and Technology & Shenzhen Loop Area Institute",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 114,
+    "createdAt": "2023-09-08T02:41:51Z"
+  },
+  {
+    "login": "TheangCheeYong",
+    "name": "Theang Chee Yong 邓梓扬",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179290227?s=72&u=baa14444970331b23b6befc44be261b625873067&v=4",
+    "location": "Beijing, Shanghai, Kuala Lumpur",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-08-24T06:01:36Z"
   }
 ]

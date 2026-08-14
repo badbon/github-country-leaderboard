@@ -958,5 +958,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-01T16:30:37Z"
+  },
+  {
+    "login": "Jeanbernardaladin",
+    "name": "Jean Bernard ALADIN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137855743?s=72&u=d1ecf31a89c4d35b75dd227e04140a13b0def6bf&v=4",
+    "location": "Port-au-Prince",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-27T03:41:32Z"
+  },
+  {
+    "login": "lenouvelliste",
+    "name": "Le Nouvelliste",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143141523?s=72&u=2a145948c63fdb633aa339cac6dfb9ef2e724967&v=4",
+    "location": "Port-au-Prince",
+    "company": "@lenouvelliste",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-08-24T23:30:42Z"
+  },
+  {
+    "login": "146xxMollyxOscarxx242",
+    "name": "146xxMollyxOscarxx242",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154701061?s=72&u=3a15b38fe43d6cd44213a9e272c3dc95f22a0145&v=4",
+    "location": "Port-au-Prince",
+    "company": "Boeing",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-12-23T19:08:59Z"
   }
 ]

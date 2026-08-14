@@ -13450,5 +13450,89 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2021-11-13T20:12:36Z"
+  },
+  {
+    "login": "rafaeldoleo14",
+    "name": "Rafael Francisco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96753240?s=72&v=4",
+    "location": "Santo Domingo Este, Republica Dominicana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-12-27T23:54:03Z"
+  },
+  {
+    "login": "Luciagfiguereo",
+    "name": "Lucia Gabriela Figuereo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92188540?s=72&v=4",
+    "location": "Republica Dominicana, Santo Domingo",
+    "company": "",
+    "twitterUsername": "luciagfiguereo",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-08T22:48:24Z"
+  },
+  {
+    "login": "SrBlade",
+    "name": "CalvinR",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93479645?s=72&u=425e5226ec3ea39714b7e0494501368fc85cbe77&v=4",
+    "location": "Santo Domingo, DR",
+    "company": "",
+    "twitterUsername": "SrBladex",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-10-31T14:14:41Z"
+  },
+  {
+    "login": "manuelprgit",
+    "name": "Manuel Perez Reyes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90267738?s=72&u=a92bc493a776218d243f6553db4b8eb23a10218d&v=4",
+    "location": "Santo Domingo, Republica Dominicana",
+    "company": "Disacomp",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2021-09-07T14:47:18Z"
+  },
+  {
+    "login": "gregdotelphotography",
+    "name": "Greg Dotel Photography",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77798168?s=72&v=4",
+    "location": "Santo Domingo",
+    "company": "Greg Dotel Photography",
+    "twitterUsername": "gregdotel",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-21T16:38:30Z"
+  },
+  {
+    "login": "jgzalez",
+    "name": "Jose Ernesto Gonzalez Fals",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77942335?s=72&u=bf6de1fcce47617434e28461994d125fe179b8c3&v=4",
+    "location": "Santo Domingo",
+    "company": "Pyros Technologies",
+    "twitterUsername": "GzalezFals",
+    "followers": 1,
+    "privateContributions": 27,
+    "publicContributions": 6,
+    "createdAt": "2021-01-24T22:52:10Z"
+  },
+  {
+    "login": "MANUELMARIANO",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80360983?s=72&u=50dc07b9302f1e796c118adfcde07b8b6852c4a0&v=4",
+    "location": "Santo Domingo",
+    "company": "Sigma ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-09T20:55:40Z"
   }
 ]

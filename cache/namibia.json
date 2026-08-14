@@ -1870,5 +1870,89 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-05-12T20:36:13Z"
+  },
+  {
+    "login": "lothartj",
+    "name": "Lothar Tjipueja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111390558?s=72&u=e53bece6d323c4ecc4064b9b2aa291c51f5263de&v=4",
+    "location": "Windhoek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 2038,
+    "publicContributions": 4,
+    "createdAt": "2022-08-16T20:14:34Z"
+  },
+  {
+    "login": "karelPeter",
+    "name": "Ndumba Karel. P",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113557272?s=72&u=dbfb07a94030dd249233dfc8d37275bac9d81257&v=4",
+    "location": "Windhoek",
+    "company": "Student",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-14T21:04:29Z"
+  },
+  {
+    "login": "AidenIzaaks",
+    "name": "Aiden Izaaks",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117161167?s=72&u=ee56887785881835d5376596270eef608fa75ba8&v=4",
+    "location": "Windhoek",
+    "company": "Metro",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 388,
+    "publicContributions": 4,
+    "createdAt": "2022-11-01T09:31:05Z"
+  },
+  {
+    "login": "JoanesCruz",
+    "name": "Mr.Cruz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114258933?s=72&v=4",
+    "location": "Windhoek",
+    "company": "BioloNation",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-23T19:33:00Z"
+  },
+  {
+    "login": "itsyagirlmay",
+    "name": "May-Lee Mulundu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117192151?s=72&u=5e504a27c8a5b06dc5be54439bc083a36ad35e68&v=4",
+    "location": "Windhoek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2022-11-01T15:20:42Z"
+  },
+  {
+    "login": "OWENATOR-3000",
+    "name": "Chilwalo Owen Luyando",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104598511?s=72&v=4",
+    "location": "windhoek",
+    "company": "none",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 85,
+    "createdAt": "2022-04-28T21:19:52Z"
+  },
+  {
+    "login": "ShefikaBenjaminH",
+    "name": "Benjamin Shefika",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96934359?s=72&u=b63fdf9cfe21d8196177327e75c7cc337cefb781&v=4",
+    "location": "Windhoek",
+    "company": "LifeLine ChildLine Namibia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-01T06:05:37Z"
   }
 ]

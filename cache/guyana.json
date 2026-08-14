@@ -382,5 +382,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-10T20:32:04Z"
+  },
+  {
+    "login": "codedbychavez",
+    "name": "Chavez Harris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74829200?s=72&u=62a78e80a3c53dbc77d3d3c689f9f568e9839bb1&v=4",
+    "location": "Guyana",
+    "company": "@configcat",
+    "twitterUsername": "",
+    "followers": 37,
+    "privateContributions": 1315,
+    "publicContributions": 218,
+    "createdAt": "2020-11-21T16:07:15Z"
+  },
+  {
+    "login": "DSTitan",
+    "name": "Titan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72593433?s=72&u=02a52d3426628e238e6118303c32d1c539762e09&v=4",
+    "location": "Guyana",
+    "company": "@Titan-Studios ",
+    "twitterUsername": "deathstormtitan",
+    "followers": 8,
+    "privateContributions": 120,
+    "publicContributions": 4,
+    "createdAt": "2020-10-09T05:35:56Z"
+  },
+  {
+    "login": "ktappdev",
+    "name": "Ken Andrew Taylor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66100652?s=72&u=cff2f13488b83c9c70e7be601e9396726614a23d&v=4",
+    "location": "Guyana",
+    "company": "LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM",
+    "twitterUsername": "ktappdev",
+    "followers": 5,
+    "privateContributions": 2526,
+    "publicContributions": 964,
+    "createdAt": "2020-05-29T02:07:00Z"
+  },
+  {
+    "login": "Sa-YoorHeadley",
+    "name": "Sa-Yoor Headley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63974410?s=72&u=9bb101e3e2a1780a15aaf5bc21b2e1d88e2a0353&v=4",
+    "location": "Guyana",
+    "company": "HRTM Consulting",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 2,
+    "publicContributions": 92,
+    "createdAt": "2020-04-19T18:24:48Z"
+  },
+  {
+    "login": "tyresebeete",
+    "name": "Tyrese Beete",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76620697?s=72&u=ff0d5a3e9328e4206ce144d759c52665b2a8133e&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2020-12-26T14:27:32Z"
+  },
+  {
+    "login": "dezh19",
+    "name": "Deshawn Mitchell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71341558?s=72&u=305bc684df478eaf75739be2d781b78e2641ef7b&v=4",
+    "location": "Guyana",
+    "company": "Electricity Utility",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 125,
+    "createdAt": "2020-09-15T16:34:49Z"
+  },
+  {
+    "login": "Ewart592",
+    "name": "Ewart Mc Rae",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75096150?s=72&u=be8b01964c2b7d308fd2304229848fcbef25c653&v=4",
+    "location": "Guyana",
+    "company": "Global Technology Inc. Guyana",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2020-11-26T20:28:51Z"
+  },
+  {
+    "login": "OldSchoolCoder",
+    "name": "Ben",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60010018?s=72&u=4aad2611a059671c146e1ad164b83ccf8e3b9f9d&v=4",
+    "location": "Guyana",
+    "company": "Bank of China",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-17T16:14:38Z"
   }
 ]

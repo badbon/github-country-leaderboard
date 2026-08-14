@@ -1102,5 +1102,89 @@
     "privateContributions": 67,
     "publicContributions": 83,
     "createdAt": "2022-10-29T14:44:09Z"
+  },
+  {
+    "login": "Richouf95",
+    "name": "Abdoulaye Wouri Chouf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98892986?s=72&u=98c0d869cca7c2ffeea74edc51b601ce89925f8e&v=4",
+    "location": "Niamey",
+    "company": "Sahel Coders",
+    "twitterUsername": "wourichouf",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2022-02-02T13:52:11Z"
+  },
+  {
+    "login": "elmagnifiko",
+    "name": "Abdoul Razak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121030644?s=72&u=312090cdd8fa5088c6ca0a522c4f0f360ffbf529&v=4",
+    "location": "Niamey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2022-12-19T11:56:25Z"
+  },
+  {
+    "login": "ramanesdr",
+    "name": "Abdourahamane Saley Haougui",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98531797?s=72&v=4",
+    "location": "Niamey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 13,
+    "publicContributions": 13,
+    "createdAt": "2022-01-27T13:04:19Z"
+  },
+  {
+    "login": "Dev2nas",
+    "name": "DevNas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100783752?s=72&u=b46bd837d8f1b992f77587d14a0e2b4e872f2c05&v=4",
+    "location": "Niamey",
+    "company": "devnas.inc",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-02T14:47:49Z"
+  },
+  {
+    "login": "ADMadamadamou",
+    "name": "ADM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111267134?s=72&u=f860e7de06f35e3b7c2d36e1c959150c2fe0c6f5&v=4",
+    "location": "Niamey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2022-08-15T05:54:46Z"
+  },
+  {
+    "login": "yssoufou",
+    "name": "Issoufou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103126598?s=72&v=4",
+    "location": "Niamey",
+    "company": "DCT",
+    "twitterUsername": "saissoufou",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-06T14:12:51Z"
+  },
+  {
+    "login": "Z0212",
+    "name": "Mounkaila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114144958?s=72&u=6f77a8f626d21bb874700f96afb10b39944a7ad2&v=4",
+    "location": "Niamey",
+    "company": "ICRISAT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-22T08:55:51Z"
   }
 ]

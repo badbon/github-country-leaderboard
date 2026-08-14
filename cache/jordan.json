@@ -8962,5 +8962,29 @@
     "privateContributions": 5,
     "publicContributions": 20,
     "createdAt": "2024-07-28T09:11:25Z"
+  },
+  {
+    "login": "mhmdFayez41",
+    "name": "Mohammad Fayez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183286979?s=72&u=c1658b3bbf1efd8f9fc2ec591582b475dd9e1a0c&v=4",
+    "location": "Amman",
+    "company": "Pioneers",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2024-09-29T12:57:31Z"
+  },
+  {
+    "login": "moustaffaa",
+    "name": "Mustafa Alkharrat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164692132?s=72&u=03a39c6d3645d535dc92bcea6e7d2f15774d9d4c&v=4",
+    "location": "Amman",
+    "company": "42",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2024-03-23T22:36:00Z"
   }
 ]
