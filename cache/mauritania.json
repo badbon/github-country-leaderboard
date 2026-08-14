@@ -2530,5 +2530,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-05-12T04:33:28Z"
+  },
+  {
+    "login": "Th3-attacker",
+    "name": "Elhadj Malick Ndiaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47328817?s=72&u=1de556bde3f969610d5e17427caeac3e563e5d95&v=4",
+    "location": "Nouakchott-Mauritanie",
+    "company": "Next Technology",
+    "twitterUsername": "3lh_j",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2019-02-04T16:13:27Z"
+  },
+  {
+    "login": "cheikhani86",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54546599?s=72&v=4",
+    "location": "nouakchott",
+    "company": "barakat",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-26T15:59:21Z"
+  },
+  {
+    "login": "Mbarek89",
+    "name": "Mohamed El Mokhtar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49785897?s=72&u=53eea69e2bbb848ffe03d56c1110726ac450782d&v=4",
+    "location": "Nouakchott",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-19T12:32:47Z"
+  },
+  {
+    "login": "medenbaba",
+    "name": "Mohameden Ould Baba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49756055?s=72&u=75a9d174c87040df13f1f8ed672de1e523a58d59&v=4",
+    "location": "Nouakchott",
+    "company": "Tekavoul",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 9,
+    "publicContributions": 0,
+    "createdAt": "2019-04-18T13:19:27Z"
   }
 ]

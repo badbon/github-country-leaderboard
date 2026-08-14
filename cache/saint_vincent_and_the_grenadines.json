@@ -262,5 +262,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-12-09T10:34:41Z"
+  },
+  {
+    "login": "lukecampbell",
+    "name": "Luke Campbell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1155163?s=72&u=fe01afaeb7415009e68467a426022014b37bba86&v=4",
+    "location": "South Kingstown, RI",
+    "company": "Axiom Data Science, LLC",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 194,
+    "publicContributions": 106,
+    "createdAt": "2011-10-27T08:47:44Z"
+  },
+  {
+    "login": "pepperseed",
+    "name": "Hariet Caine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/614561?s=72&u=f87df01167ebf4994a1184ae897a4eacc42d9991&v=4",
+    "location": "Kingstown VC",
+    "company": "Gov vc",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2011-02-12T16:34:54Z"
   }
 ]

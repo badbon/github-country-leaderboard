@@ -34,5 +34,29 @@
     "privateContributions": 22,
     "publicContributions": 13,
     "createdAt": "2022-06-06T07:50:34Z"
+  },
+  {
+    "login": "ThalesAbyss",
+    "name": "David Parmenter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52677227?s=72&u=af03996abbdbaf95078a365c386cf8b05c619958&v=4",
+    "location": "Longyearbyen, Svalbard & Jan Mayen",
+    "company": "Stereo Bee",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 170,
+    "publicContributions": 0,
+    "createdAt": "2019-07-08T19:39:33Z"
+  },
+  {
+    "login": "danavitski",
+    "name": "Daan Kivits",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54046071?s=72&u=26dadfb812b21ca586c30cf142713dc0f2a47e2f&v=4",
+    "location": "Longyearbyen, Svalbard",
+    "company": "Svalbard Integrated Arctic Earth Observing System (SIOS)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 45,
+    "publicContributions": 49,
+    "createdAt": "2019-08-12T23:14:18Z"
   }
 ]

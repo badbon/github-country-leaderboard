@@ -3178,5 +3178,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-28T13:51:08Z"
+  },
+  {
+    "login": "AlphaOD",
+    "name": "Alpha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46965213?s=72&u=ed4925c3a3f0c9ec6c398d101a8d9cb09c86866f&v=4",
+    "location": "Philadelphia - Bamako",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 127,
+    "publicContributions": 0,
+    "createdAt": "2019-01-23T13:46:47Z"
+  },
+  {
+    "login": "foussdjenika",
+    "name": "Fousseyni Djenika",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55757746?s=72&u=95b75b35afd2fd7c953eadb1b4d9251251735be3&v=4",
+    "location": "Bamako",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2019-09-24T16:31:18Z"
+  },
+  {
+    "login": "dehsy",
+    "name": "Deh SY KEITA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55856923?s=72&v=4",
+    "location": "Bamako",
+    "company": "SualaSoft",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-26T20:45:53Z"
+  },
+  {
+    "login": "dembeles",
+    "name": "Simon Pierre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57449625?s=72&u=cf2fee857f91950e9134210e899d31b95320e0dd&v=4",
+    "location": "Bamako",
+    "company": "University of Tartu; University of Science and Tachnics of Bamako",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-06T14:58:18Z"
+  },
+  {
+    "login": "Ibrahima1997",
+    "name": "Ibrahima Sidibé",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57191970?s=72&u=18b965a587297f6dc579ff26bf52f456d54dc2e4&v=4",
+    "location": "Bamako",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-30T17:35:54Z"
+  },
+  {
+    "login": "abdoulaye-daba",
+    "name": "Abdoulaye Daba COULIBALY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52204284?s=72&v=4",
+    "location": "Bamako",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 17,
+    "publicContributions": 0,
+    "createdAt": "2019-06-25T12:15:03Z"
+  },
+  {
+    "login": "fkolane",
+    "name": "Kolane Fréderick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56198048?s=72&v=4",
+    "location": "Bamako",
+    "company": "KO-SANTE+",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-05T14:42:24Z"
   }
 ]

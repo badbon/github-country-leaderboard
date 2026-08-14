@@ -1690,5 +1690,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-05-17T18:13:45Z"
+  },
+  {
+    "login": "mocy111",
+    "name": "Moctar Yonli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57912421?s=72&u=f35b906b5c59d069544429e6a94340359cf89642&v=4",
+    "location": "Niamey",
+    "company": "@Kamamini ",
+    "twitterUsername": "moctar_yonli",
+    "followers": 17,
+    "privateContributions": 464,
+    "publicContributions": 0,
+    "createdAt": "2019-11-18T16:49:00Z"
+  },
+  {
+    "login": "addamou",
+    "name": "Adamou Halidou Soumaila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59279657?s=72&u=3515886030399646c5d63087e7dc3e5edb7b27df&v=4",
+    "location": "Niamey",
+    "company": "#Adamou Halidou",
+    "twitterUsername": "halidadamou",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-27T08:58:35Z"
+  },
+  {
+    "login": "trankilito",
+    "name": "Badou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47971885?s=72&u=e078d36ab419ae74b4fa9abfe53530ba7b8f3c9c&v=4",
+    "location": "Niamey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-25T09:20:40Z"
+  },
+  {
+    "login": "Rootman-hub",
+    "name": "DevNas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54208517?s=72&u=5a5d92dd1f420958cb69fec3f60b73a4983101af&v=4",
+    "location": "Niamey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-17T11:36:44Z"
   }
 ]

@@ -70,5 +70,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-25T20:32:33Z"
+  },
+  {
+    "login": "rustler47",
+    "name": "James Rustler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46331616?s=72&u=12640ec2a4ea93c44326baafa7f7598dab3bbe84&v=4",
+    "location": "Jamestown, Rustlvania ",
+    "company": "Endurance",
+    "twitterUsername": "unrustled",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-02T22:26:20Z"
+  },
+  {
+    "login": "schemmer",
+    "name": "Eric Schemmerling",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56612830?s=72&u=49614755ecf445a09dfd20471a219fd2957af70e&v=4",
+    "location": "Jamestown, Colorado",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-15T22:39:20Z"
+  },
+  {
+    "login": "justedd09",
+    "name": "Joshua Eddy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57853083?s=72&v=4",
+    "location": "Jamestown NY",
+    "company": "goldenshine716@cloudshell:~$",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-17T04:26:19Z"
   }
 ]

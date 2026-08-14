@@ -7063,7 +7063,7 @@
     "company": "Netforemost",
     "twitterUsername": "MiguelHG2351",
     "followers": 34,
-    "privateContributions": 1216,
+    "privateContributions": 1230,
     "publicContributions": 50,
     "createdAt": "2020-01-30T15:50:27Z"
   },
@@ -7195,7 +7195,7 @@
     "company": "@Need-Greaters-Global ",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 1825,
+    "privateContributions": 1827,
     "publicContributions": 14,
     "createdAt": "2020-06-19T01:21:56Z"
   },
@@ -8554,5 +8554,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-30T00:55:33Z"
+  },
+  {
+    "login": "nydsanchez",
+    "name": "Nydia Massiel Sánchez ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66643813?s=72&u=3173e2b18a2761159cc31aa73cdd36599d78d371&v=4",
+    "location": "Managua ",
+    "company": "",
+    "twitterUsername": "sanchezc2023",
+    "followers": 18,
+    "privateContributions": 218,
+    "publicContributions": 89,
+    "createdAt": "2020-06-08T19:34:57Z"
+  },
+  {
+    "login": "RohiTech",
+    "name": "Jose Francisco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63611660?s=72&u=4d5e1290a337cc5957166053068744acbd974946&v=4",
+    "location": "Managua",
+    "company": "RohiTech",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2020-04-13T19:18:31Z"
+  },
+  {
+    "login": "jimmyuca",
+    "name": "Jimmy Sáenz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71574771?s=72&u=b1dc02ec9e754179c5f4c1c0c16ecfc71513ec45&v=4",
+    "location": "Managua",
+    "company": "Universidad Centroamericana de Nicaragua",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-20T01:05:30Z"
+  },
+  {
+    "login": "FenrisSVG",
+    "name": "Félix Sandoval",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67559641?s=72&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2020-06-28T20:04:35Z"
+  },
+  {
+    "login": "KairoBarillas",
+    "name": "Kairo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60549923?s=72&u=c536f14245ea32433f43bcff0dfb4045fac187e8&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 6,
+    "publicContributions": 0,
+    "createdAt": "2020-02-01T16:50:15Z"
+  },
+  {
+    "login": "Egflores-stack",
+    "name": "Edwin Gabriel Flores Mathews",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66715078?s=72&u=740e685983eae52aaa238a2dcd9fd5a3fad07cd8&v=4",
+    "location": "Managua",
+    "company": "Cloudix",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 321,
+    "createdAt": "2020-06-10T05:38:56Z"
+  },
+  {
+    "login": "Rene1065",
+    "name": "Rene Delgado J",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64238446?s=72&u=2fdeb27189dc05649b705e97a5d817c60248cd41&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-24T02:06:05Z"
+  },
+  {
+    "login": "rashel2599",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72899493?s=72&u=c67712de1c0d46e376bbe3f8fbfbfe7b8b42f41c&v=4",
+    "location": "Managua",
+    "company": "Universidad Centroamericana",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-15T01:47:54Z"
+  },
+  {
+    "login": "ShadowsArts97",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68044319?s=72&u=472a376faca75b4ba044b9431e0d779fda1ed241&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2020-07-09T04:03:20Z"
   }
 ]

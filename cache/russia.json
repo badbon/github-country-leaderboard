@@ -18238,5 +18238,41 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2025-07-22T14:50:24Z"
+  },
+  {
+    "login": "Sedinkina",
+    "name": "Evgeniya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204675184?s=72&u=19b54d5a8b9b838306f089c6ae54fccad51e859b&v=4",
+    "location": "Yekaterinburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-03-24T08:13:22Z"
+  },
+  {
+    "login": "Kukurenochek",
+    "name": "Victoria Maskaeva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/212427523?s=72&v=4",
+    "location": "Yekaterinburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2025-05-19T19:14:45Z"
+  },
+  {
+    "login": "imdelette",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194125377?s=72&u=e4d4dfbf459082b936f1f6d018abb9370a3b39d8&v=4",
+    "location": "Yekaterinburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-01-07T16:04:01Z"
   }
 ]

@@ -3574,5 +3574,65 @@
     "privateContributions": 0,
     "publicContributions": 94,
     "createdAt": "2019-02-12T23:47:35Z"
+  },
+  {
+    "login": "douglasmasho",
+    "name": "Douglas Mashonganyika",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51298460?s=72&u=300ca225ffdbe841da29349e932e163152e4128e&v=4",
+    "location": "Windhoek",
+    "company": "Adaire",
+    "twitterUsername": "",
+    "followers": 53,
+    "privateContributions": 218,
+    "publicContributions": 68,
+    "createdAt": "2019-06-02T18:55:45Z"
+  },
+  {
+    "login": "Moudjuu-averly",
+    "name": "Moudjuu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54944439?s=72&u=4b9fb0b5d52ec9a2f9536880dd10dd9ae697f312&v=4",
+    "location": "Windhoek",
+    "company": "Loop technologies",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 911,
+    "publicContributions": 4,
+    "createdAt": "2019-09-05T13:10:07Z"
+  },
+  {
+    "login": "NdangiKanime",
+    "name": "NdangiKanime",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57900119?s=72&u=0d5e87dc61a033d4a3b93a504c3eb53283af7e43&v=4",
+    "location": "Windhoek",
+    "company": "Aquabolt.com",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-18T11:38:29Z"
+  },
+  {
+    "login": "towercodes",
+    "name": "Tawanda Mutasa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53870487?s=72&v=4",
+    "location": "Windhoek",
+    "company": "",
+    "twitterUsername": "towerkingmutasa",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2019-08-07T15:18:29Z"
+  },
+  {
+    "login": "Haitamba",
+    "name": "Paula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49022356?s=72&v=4",
+    "location": "Windhoek",
+    "company": "@Siskus Team",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-28T09:08:14Z"
   }
 ]

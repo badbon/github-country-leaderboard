@@ -3358,5 +3358,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-18T14:28:02Z"
+  },
+  {
+    "login": "0xMasayoshi",
+    "name": "Masayoshi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82962873?s=72&u=6b2b1d8454586bdb06e3acc58ad52464769b7476&v=4",
+    "location": "Seychelles",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 357,
+    "publicContributions": 664,
+    "createdAt": "2021-04-21T16:05:27Z"
+  },
+  {
+    "login": "AnonymousGhost-SC",
+    "name": "Adrian Noel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87562583?s=72&u=81c7b2a15bef8f0e79ba9ad23b4d16c436472092&v=4",
+    "location": "Seychelles",
+    "company": "Space95",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 5238,
+    "publicContributions": 1,
+    "createdAt": "2021-07-17T07:41:54Z"
+  },
+  {
+    "login": "Azahir21",
+    "name": "Kei",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89309407?s=72&u=7b680a506ad5d187eb2fffd660d44c17383f87a9&v=4",
+    "location": "Seychelles",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 2233,
+    "publicContributions": 45,
+    "createdAt": "2021-08-21T14:54:21Z"
+  },
+  {
+    "login": "fibaagent",
+    "name": "Filip Golubovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91256663?s=72&u=dc99e403ed560a7c733b6881a2dc9770a071784a&v=4",
+    "location": "Seychelles",
+    "company": "SEYPRO",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-23T10:09:21Z"
+  },
+  {
+    "login": "PhuketHolidayCoin",
+    "name": "Phuket Holiday Coin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77110963?s=72&u=dd8a54c5d2c2d3dcf1ac5a78015f8db9ea7f87f6&v=4",
+    "location": "Seychelles",
+    "company": "Phuket Holiday Coin Limited",
+    "twitterUsername": "CoinPhc",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-07T14:14:38Z"
+  },
+  {
+    "login": "nidhogg-1",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80361127?s=72&u=72600fdbe72ecf82636ed4866e441414afa7bc56&v=4",
+    "location": "Seychelles",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2021-03-09T20:59:32Z"
+  },
+  {
+    "login": "perifinance-team",
+    "name": "perifinance-team",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80229965?s=72&u=87341893222578d1a7f472dfba5fa1b6247a890a&v=4",
+    "location": "Room 5, 2nd Floor, Olivier Maradan Building, Oliveier Maradan Street, Victoria, Mahe, Seychelles",
+    "company": "Pynths Limited",
+    "twitterUsername": "PERIfinance",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-08T00:56:38Z"
+  },
+  {
+    "login": "BluebitFinance",
+    "name": "BlueBit Finance",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96361968?s=72&u=e354e7950231c8002ad2841286b9e07884643402&v=4",
+    "location": "Seychelles",
+    "company": "BlueBit Fintech Limited",
+    "twitterUsername": "BlueBitFinance",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-19T02:49:31Z"
   }
 ]

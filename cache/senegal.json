@@ -9946,5 +9946,77 @@
     "privateContributions": 0,
     "publicContributions": 41,
     "createdAt": "2020-01-10T13:32:05Z"
+  },
+  {
+    "login": "codeursympa2",
+    "name": "Anrichidine Abdallah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65573661?s=72&v=4",
+    "location": "Dakar",
+    "company": "",
+    "twitterUsername": "anrichidineabd8",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-18T23:15:06Z"
+  },
+  {
+    "login": "Oliela",
+    "name": "Ophélie ANDZALA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67081382?s=72&u=b1c8f56a486f34de8ccd782a115c7aba7c2cd0d5&v=4",
+    "location": "Dakar",
+    "company": "TalcoAnalytics",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 98,
+    "createdAt": "2020-06-18T00:36:25Z"
+  },
+  {
+    "login": "Moussa0411",
+    "name": "Moussa Mbaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67289470?s=72&u=8043c5a5d8b66a084d30509865d34113b88c2151&v=4",
+    "location": "Dakar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-06-22T19:04:54Z"
+  },
+  {
+    "login": "Griot-digital",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74869815?s=72&v=4",
+    "location": "Dakar",
+    "company": "Griot SARL",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-22T16:07:03Z"
+  },
+  {
+    "login": "aldrichclementd",
+    "name": "Aldrich Clément D.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68656322?s=72&u=8f7ed15e57d291e9fab4ce468a10873ab15a4ce5&v=4",
+    "location": "Sénégal, Dakar ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-07-22T16:09:42Z"
+  },
+  {
+    "login": "Esprit-Noir",
+    "name": "Mamadou Thiandoum",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62674307?s=72&u=a4609c9fd66bee8b219e67d40db43c1115a557c1&v=4",
+    "location": "B727, Secteur b-2, Cite avion, Ouakam, Dakar",
+    "company": "EspriTech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2020-03-25T21:44:04Z"
   }
 ]

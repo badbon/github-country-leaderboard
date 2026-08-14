@@ -25354,5 +25354,41 @@
     "privateContributions": 0,
     "publicContributions": 86,
     "createdAt": "2025-12-03T15:42:01Z"
+  },
+  {
+    "login": "CLSRP",
+    "name": "Chicago Lakeshore RP",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150344134?s=72&u=4b5731f415a7dbdb322a93df9c25c65e47e800ba&v=4",
+    "location": "France/Suisse",
+    "company": "Chicago Lakeshore RP",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-09T11:05:33Z"
+  },
+  {
+    "login": "BelliardA",
+    "name": "Belliard Arnaud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147388161?s=72&v=4",
+    "location": "Genève, Suisse  / Annecy, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-09T09:31:41Z"
+  },
+  {
+    "login": "anomaly1095",
+    "name": "Youssef Azaiez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150181283?s=72&u=4dd0310323f493b34ae6e62d4b579db2126e680f&v=4",
+    "location": "Tunisia / France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2023-11-07T18:32:39Z"
   }
 ]

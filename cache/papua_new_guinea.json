@@ -2470,5 +2470,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-02-27T04:12:28Z"
+  },
+  {
+    "login": "kirioh",
+    "name": "Cieran Kelly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46925403?s=72&u=f440c33ed53ee0c97aa279bb0369c42f5b17033c&v=4",
+    "location": "Port Moresby",
+    "company": "",
+    "twitterUsername": "CieranKelly6",
+    "followers": 28,
+    "privateContributions": 5035,
+    "publicContributions": 0,
+    "createdAt": "2019-01-22T11:42:58Z"
+  },
+  {
+    "login": "sutherlandnele",
+    "name": "Sutherland Nele",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51810575?s=72&u=8c7375dcdb52de71e61b31df7d2e23ad5f1d5b61&v=4",
+    "location": "Port Moresby",
+    "company": "Cloudcode PNG Limited",
+    "twitterUsername": "suthzy",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2019-06-14T03:59:06Z"
+  },
+  {
+    "login": "Emperor011",
+    "name": "Emperor0ii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48116068?s=72&u=a3ebc140ce23f7df5f5dc639796dd8364e29c432&v=4",
+    "location": "Port Moresby,PNG",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2019-03-01T06:10:44Z"
+  },
+  {
+    "login": "kangemahn",
+    "name": "Jonathan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58127199?s=72&u=8f8ac1d1eaf3a7ff79fe4aa2442f88ca569796af&v=4",
+    "location": "Port Moresby",
+    "company": "Kumulsoft Ltd",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-24T03:20:56Z"
+  },
+  {
+    "login": "Glock-Atom",
+    "name": "Hickok Kinman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58397806?s=72&u=5979e3edfcf8f4c0823144ebda73f9d11addea0d&v=4",
+    "location": "Port Moresby",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2019-12-01T16:59:10Z"
+  },
+  {
+    "login": "Pseudo328",
+    "name": "Suzanne Vitolo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50044149?s=72&v=4",
+    "location": "Port Moresby, PNG",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-27T09:02:47Z"
   }
 ]
