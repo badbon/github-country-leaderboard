@@ -298,5 +298,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-04-18T21:10:08Z"
+  },
+  {
+    "login": "Nelson-Cheung",
+    "name": "Nelson Cheung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48144250?s=72&u=961cdeb55a471ffb8c762abc8e84f0deacac7336&v=4",
+    "location": "Greenland",
+    "company": "Sun Yat-sen University",
+    "twitterUsername": "",
+    "followers": 87,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2019-03-02T03:29:47Z"
+  },
+  {
+    "login": "timothyrey",
+    "name": "Timothy Rey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48454529?s=72&u=c4cc22dbb70bf4f3b7555649645a07c778f70436&v=4",
+    "location": "Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-11T19:32:31Z"
   }
 ]

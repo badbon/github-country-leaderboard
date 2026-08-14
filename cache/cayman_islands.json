@@ -1018,5 +1018,29 @@
     "privateContributions": 21,
     "publicContributions": 1,
     "createdAt": "2016-05-05T00:46:27Z"
+  },
+  {
+    "login": "RJDevGroup",
+    "name": "RJ Dev Group",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18474003?s=72&u=446cc54e4518409714481ec7579a2d62c098ae92&v=4",
+    "location": "George Town",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 44,
+    "publicContributions": 19,
+    "createdAt": "2016-04-15T00:59:46Z"
+  },
+  {
+    "login": "sevenanetworks",
+    "name": "Sevena Networks",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20160268?s=72&u=a6e175d56cbdb104aa249edb3429f3d7cc16690a&v=4",
+    "location": "George Town, Penang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-27T04:23:15Z"
   }
 ]

@@ -2242,5 +2242,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-25T12:16:31Z"
+  },
+  {
+    "login": "DionBladd",
+    "name": "Gamar Mansurova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155249471?s=72&u=062dcaf393819bcca8f21643ea33791a35af6aba&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 97,
+    "publicContributions": 0,
+    "createdAt": "2023-12-30T16:03:37Z"
+  },
+  {
+    "login": "ckontz01",
+    "name": "Christoforos Kontzias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166455375?s=72&v=4",
+    "location": "Nicosia",
+    "company": "University Of Cyprus",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 419,
+    "publicContributions": 10,
+    "createdAt": "2024-04-08T23:05:57Z"
+  },
+  {
+    "login": "0Diyaray",
+    "name": "Diyar Ay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165725225?s=72&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 11,
+    "publicContributions": 2,
+    "createdAt": "2024-04-01T21:28:24Z"
   }
 ]

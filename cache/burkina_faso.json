@@ -5275,7 +5275,7 @@
     "company": "Taariam technologie",
     "twitterUsername": "rikudosama",
     "followers": 11,
-    "privateContributions": 869,
+    "privateContributions": 871,
     "publicContributions": 3,
     "createdAt": "2016-07-17T10:58:40Z"
   },
@@ -5350,5 +5350,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-07-19T09:09:56Z"
+  },
+  {
+    "login": "juskab",
+    "name": "Justin KABORE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24479054?s=72&u=a28be38b1e68e305301f7d0ae46a12d7b2fc773a&v=4",
+    "location": "Ouagadougou",
+    "company": "MILLENNIUM DESIGN",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-09T15:24:34Z"
+  },
+  {
+    "login": "ousmanetomota",
+    "name": "Ousmane Tomota",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18310041?s=72&u=20e2a4c1825098b43aee160b34bdf9611f7bd3a6&v=4",
+    "location": "Kalgodin - Ouagadougou",
+    "company": "Techlab Burkina",
+    "twitterUsername": "Techlab_Africa",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2016-04-06T14:34:48Z"
   }
 ]

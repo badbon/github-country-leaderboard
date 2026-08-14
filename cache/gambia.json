@@ -598,5 +598,41 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2020-06-12T15:47:38Z"
+  },
+  {
+    "login": "nyassian",
+    "name": "EBRIMA NYASSI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56849017?s=72&v=4",
+    "location": "Banjul,THE GAMBIA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-21T21:28:10Z"
+  },
+  {
+    "login": "AjiFama8",
+    "name": "Aji Fama Jobe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54692725?s=72&u=6cf94ebb5c8534165341527c7243213c295cfe47&v=4",
+    "location": "Banjul, The Gambia",
+    "company": "",
+    "twitterUsername": "tech_feminine",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-30T00:35:58Z"
+  },
+  {
+    "login": "fiture99",
+    "name": "Lamin Jawneh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50606948?s=72&v=4",
+    "location": "Banjul, Gambia",
+    "company": "",
+    "twitterUsername": "jawneh_lamin",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 406,
+    "createdAt": "2019-05-14T03:16:08Z"
   }
 ]

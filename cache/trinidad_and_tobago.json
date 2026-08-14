@@ -1150,5 +1150,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-02T14:13:00Z"
+  },
+  {
+    "login": "LukeBF",
+    "name": "Luke Blache-Fraser",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60528660?s=72&u=836615784b8897ac4b6f85b60b913b76d1ec48e0&v=4",
+    "location": "Port-of-Spain, Trinidad & Tobago",
+    "company": "Resolve Technologies",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-31T23:59:51Z"
+  },
+  {
+    "login": "SPierre93",
+    "name": "Shireen Pierre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60528026?s=72&u=118698c260405f68920eb8c821186601022ebeb1&v=4",
+    "location": "Port-of-Spain, Trinidad, W.I.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-31T23:20:08Z"
   }
 ]

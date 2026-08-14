@@ -7930,5 +7930,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-19T14:26:00Z"
+  },
+  {
+    "login": "IT-Team-collab",
+    "name": "Codify",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173439562?s=72&u=5dbce5236737e0d0cf99e0ab42cd0f6dc266acb5&v=4",
+    "location": "Kampala",
+    "company": "Codify",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2024-06-21T06:05:30Z"
+  },
+  {
+    "login": "MReagy",
+    "name": "Reagan ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166446916?s=72&u=6cc37470fc790dc6c1f1548e25cdec81f28fb73f&v=4",
+    "location": "Kampala ",
+    "company": "Reagraphic Tech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-04-08T20:45:08Z"
   }
 ]
