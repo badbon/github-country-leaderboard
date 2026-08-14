@@ -18490,5 +18490,77 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2022-05-24T12:44:16Z"
+  },
+  {
+    "login": "taaranguyen",
+    "name": "Taara Nguyen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204326113?s=72&u=ed8118e8860fee06c98a7e5453e04701a572c006&v=4",
+    "location": "Melbourne 3000",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-03-21T09:29:01Z"
+  },
+  {
+    "login": "Jaspritt",
+    "name": "Jaspreet Singh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204960397?s=72&v=4",
+    "location": "Melbourne",
+    "company": "Deloitte",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2025-03-26T02:27:05Z"
+  },
+  {
+    "login": "zuqingli0404",
+    "name": "Zuqing Li",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219617295?s=72&v=4",
+    "location": "Melbourne",
+    "company": "The university of Melbourne",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2025-07-07T05:56:21Z"
+  },
+  {
+    "login": "jes-solo",
+    "name": "Jes Mariner ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/222612157?s=72&u=e2549ff6b535eb5a8b17ef7eafd1d7509b9d102b&v=4",
+    "location": "Melbourne",
+    "company": "renIram",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2025-07-24T11:17:01Z"
+  },
+  {
+    "login": "XavierJu007",
+    "name": "gwyndolin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201317562?s=72&u=6182941a4b4605954ac6e5667375ed48b9c48f4b&v=4",
+    "location": "Melbourne",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 237,
+    "publicContributions": 28,
+    "createdAt": "2025-03-01T05:27:08Z"
+  },
+  {
+    "login": "jdelorino-sage",
+    "name": "jdelorino-sage",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/228708640?s=72&u=d17ceeabe3745b82d1487c55b6554ebd6332281a&v=4",
+    "location": "Melbourne",
+    "company": "https://www.linkedin.com/in/jdelorino/",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 307,
+    "createdAt": "2025-08-26T10:58:44Z"
   }
 ]

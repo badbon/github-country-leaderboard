@@ -6344,7 +6344,7 @@
     "twitterUsername": "marko_lisica",
     "followers": 13,
     "privateContributions": 47,
-    "publicContributions": 711,
+    "publicContributions": 712,
     "createdAt": "2021-04-25T10:38:16Z"
   },
   {
@@ -7486,5 +7486,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-01T15:06:51Z"
+  },
+  {
+    "login": "EmreArapcicUevak",
+    "name": "Emre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90074488?s=72&u=161210c3f2be04655bfac617b9584f08a5fedbd1&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 69,
+    "publicContributions": 444,
+    "createdAt": "2021-09-04T00:15:23Z"
+  },
+  {
+    "login": "smajic07",
+    "name": "Edin Smajić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85265387?s=72&u=aed372de4109c40dfe2aa15f11cc62d913853f25&v=4",
+    "location": "Kakanj, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1260,
+    "publicContributions": 0,
+    "createdAt": "2021-06-03T01:18:46Z"
+  },
+  {
+    "login": "Faruk314",
+    "name": "Faruk Spahic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76739793?s=72&u=ea33477f02fd900e784010c79fac966dfe56c043&v=4",
+    "location": "Tuzla, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 33,
+    "publicContributions": 556,
+    "createdAt": "2020-12-29T14:40:27Z"
+  },
+  {
+    "login": "domishq",
+    "name": "Dominik Tomić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91064596?s=72&u=e5ad11984fa6c49262c2d0f6623309e0db3dae02&v=4",
+    "location": "Bihać, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2021-09-20T11:35:38Z"
+  },
+  {
+    "login": "nikolacoding",
+    "name": "Nikola Markovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77410589?s=72&v=4",
+    "location": "Banja Luka, Republika Srpska, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 162,
+    "publicContributions": 69,
+    "createdAt": "2021-01-13T19:19:44Z"
+  },
+  {
+    "login": "adidzumhur",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80633357?s=72&u=e9ec46e61ba86e5d4305fb23fa61b228cedf082b&v=4",
+    "location": "Zenica/Sarajevo, Bosnia&Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-03-14T14:24:16Z"
+  },
+  {
+    "login": "Senchy071",
+    "name": "Senad Arifhodzic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77339555?s=72&u=178af67b74b23334bb3b1276d4dca3a3deda4e52&v=4",
+    "location": "Sarajevo, Bosnia-Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 159,
+    "createdAt": "2021-01-12T14:43:33Z"
+  },
+  {
+    "login": "serifas99",
+    "name": "Shery",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94057697?s=72&u=7691a44c157bcff68cec819b5bc968f5c6b6fd94&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2021-11-10T13:27:33Z"
+  },
+  {
+    "login": "Sabina1205",
+    "name": "Sabina Nuhanovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96692767?s=72&u=ee123a3c72558e19e6ad7685a801f9b5ccb145b3&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-12-26T15:21:29Z"
   }
 ]

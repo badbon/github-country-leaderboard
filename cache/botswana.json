@@ -3838,5 +3838,65 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2020-07-28T19:23:05Z"
+  },
+  {
+    "login": "Mathhews777",
+    "name": "Thato Mooketsi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75339450?s=72&u=88cea397b04add44f593db6841240cb0b6e6e10d&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 54,
+    "privateContributions": 25,
+    "publicContributions": 1,
+    "createdAt": "2020-12-01T21:39:25Z"
+  },
+  {
+    "login": "Bugitoy",
+    "name": "Lefika Moalosi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65559813?s=72&u=d87cebb900a29b48fe2b0e954c859033564f00d0&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 209,
+    "createdAt": "2020-05-18T17:03:45Z"
+  },
+  {
+    "login": "Baks020",
+    "name": "Aobakwe Mosothwane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71077740?s=72&u=40138a83b63b5cdb16ff32567cc105fbcc58563a&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 22,
+    "publicContributions": 21,
+    "createdAt": "2020-09-10T12:12:10Z"
+  },
+  {
+    "login": "koshefintechandriskmodeling",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67688242?s=72&u=19bbbc5d026649d235cc4128fe0b1e77dc38f80e&v=4",
+    "location": "Johannesburg: Gaborone",
+    "company": "Koshefintechandriskmodeling Systems",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-07-01T10:27:08Z"
+  },
+  {
+    "login": "Zacky-Isaac",
+    "name": "Isaac Mogotsi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62500404?s=72&v=4",
+    "location": "Gaborone",
+    "company": "University of Botswana",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-22T09:27:39Z"
   }
 ]

@@ -742,5 +742,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-10-07T12:07:25Z"
+  },
+  {
+    "login": "mathewharb",
+    "name": "Mathew Harb",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30761383?s=72&u=9989792aa658a11b352c1af4b1fbbc60d1fa4d33&v=4",
+    "location": "Gambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-06T00:17:02Z"
+  },
+  {
+    "login": "almamarie",
+    "name": "Louis Marie Atoluko Ayariga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32139122?s=72&u=5e43ddd170ec58ca567493ff231db6a39fa0a596&v=4",
+    "location": "Banjul, The Gambia",
+    "company": "African Commission on Human and Peoples' Rights",
+    "twitterUsername": "MarieLoumar",
+    "followers": 2,
+    "privateContributions": 633,
+    "publicContributions": 44,
+    "createdAt": "2017-09-20T16:29:57Z"
+  },
+  {
+    "login": "suskeboy",
+    "name": "kawsu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29052890?s=72&u=72af77b7b239a66c61015bcdbdece558e666f4bc&v=4",
+    "location": "Gambia",
+    "company": "ITCA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-05-30T01:49:41Z"
+  },
+  {
+    "login": "techscriptures",
+    "name": "Sheikh Tijan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26445253?s=72&u=08fa87dbafb4ad35b0a2d9879f5591700eb71f9c&v=4",
+    "location": "Banjul, The Gambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-15T21:28:08Z"
   }
 ]

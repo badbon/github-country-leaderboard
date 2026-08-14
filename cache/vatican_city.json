@@ -70,5 +70,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-06T18:14:12Z"
+  },
+  {
+    "login": "dru91ce",
+    "name": "dru91ce",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98011531?s=72&u=f14b86536b302226eed6c931a3ef13458b3d3418&v=4",
+    "location": "Vatican City (Holy See)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2022-01-19T07:02:13Z"
+  },
+  {
+    "login": "stanlin21",
+    "name": "stanlin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101525162?s=72&u=ce56a7535f3170e89074d52ca937b7d949439bcc&v=4",
+    "location": "Vatican City",
+    "company": "St Peter's Basilica INC",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-13T19:33:02Z"
+  },
+  {
+    "login": "fisgix",
+    "name": "fisgix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111667497?s=72&v=4",
+    "location": "Vatican City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2022-08-21T00:41:04Z"
+  },
+  {
+    "login": "mateitheking",
+    "name": "Ami",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97748235?s=72&u=9f64f7a987d9b2d8f9d1ca74a95cf5762280e7a4&v=4",
+    "location": "Vatican (The Holy See)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1165,
+    "createdAt": "2022-01-14T15:33:54Z"
+  },
+  {
+    "login": "vronton",
+    "name": "Ve",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118054445?s=72&u=e575167a572a2b6d2e9b17b16d195ddf4935da5f&v=4",
+    "location": "Vatican City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-12T11:38:10Z"
   }
 ]

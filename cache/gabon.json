@@ -2098,5 +2098,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-12-25T17:34:05Z"
+  },
+  {
+    "login": "deis241",
+    "name": "Mapson Deis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66531923?s=72&u=a17bd57c223d314179b006b234c7d2f2ce23d507&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2020-06-06T19:01:19Z"
+  },
+  {
+    "login": "gigimmn1",
+    "name": "Ghislaine REMONDO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66904954?s=72&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-14T10:38:01Z"
+  },
+  {
+    "login": "techservicespro",
+    "name": "Passy241",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72672811?s=72&u=0f789885d697258839f9a0a8e84d1e9cc02025b7&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-10T21:32:23Z"
+  },
+  {
+    "login": "marceladodo",
+    "name": "Marcel Adodo L. LAWSON",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60513484?s=72&u=dbc1dfe5a4418a9d2cd0cc6e1aa172a72d2c11d6&v=4",
+    "location": "B.P. : 867, Libreville",
+    "company": "MEGASOFT INTERNATIONAL GABON SARL",
+    "twitterUsername": "LawsonAdodo",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-31T14:31:22Z"
+  },
+  {
+    "login": "dougandaga",
+    "name": "RUFUS ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65667329?s=72&u=5f1fb345f20820a53be4d230771d90a648df23e5&v=4",
+    "location": "Libreville",
+    "company": "Kango",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-05-20T14:12:49Z"
+  },
+  {
+    "login": "Kbz-IT",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69463642?s=72&v=4",
+    "location": "Libreville",
+    "company": "Freelance",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-10T11:57:47Z"
   }
 ]

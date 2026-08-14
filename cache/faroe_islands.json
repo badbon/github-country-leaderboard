@@ -106,5 +106,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-18T22:04:58Z"
+  },
+  {
+    "login": "Flakvard",
+    "name": "Ma-a-a-rni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83829559?s=72&u=1f5cae96ee3c7be16fdba1fd6fad6dc90c34cc7f&v=4",
+    "location": "Faroe Islands",
+    "company": "Oilwind Sp/f",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 34,
+    "publicContributions": 55,
+    "createdAt": "2021-05-07T15:14:23Z"
+  },
+  {
+    "login": "doggtyril",
+    "name": "Dögg Tyril",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86401264?s=72&u=892043fad42da92f296518c495c96bf131cd92e9&v=4",
+    "location": "Faroe Islands",
+    "company": "@globe-tracker ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-24T07:17:03Z"
+  },
+  {
+    "login": "TheRealZekre",
+    "name": "Signar Rasmussen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84916547?s=72&u=d4e313ae1e8fd7dbd88f35c250d31d25d782658a&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 14,
+    "publicContributions": 0,
+    "createdAt": "2021-05-27T13:19:18Z"
   }
 ]

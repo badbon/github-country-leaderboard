@@ -5770,5 +5770,29 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2013-11-08T22:03:44Z"
+  },
+  {
+    "login": "geraldbary",
+    "name": "Gerald BARY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6083942?s=72&v=4",
+    "location": "Ouagadougou",
+    "company": "OSIS",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2013-12-02T08:55:20Z"
+  },
+  {
+    "login": "watsondj",
+    "name": "OUATTARA Wanogo Malick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5220544?s=72&v=4",
+    "location": "OUAGADOUGOU",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-13T09:32:40Z"
   }
 ]
