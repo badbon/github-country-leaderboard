@@ -9667,8 +9667,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 1751,
-    "publicContributions": 266,
+    "privateContributions": 1755,
+    "publicContributions": 271,
     "createdAt": "2016-03-23T11:21:25Z"
   },
   {
@@ -9970,5 +9970,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-09-23T13:01:55Z"
+  },
+  {
+    "login": "CChisuwo",
+    "name": "Chimango",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17542000?s=72&u=6e84ac5c446a6f319803372b7bbb387f93bac7be&v=4",
+    "location": "Lilongwe",
+    "company": "@808Computing",
+    "twitterUsername": "chisuwochimango",
+    "followers": 30,
+    "privateContributions": 35,
+    "publicContributions": 0,
+    "createdAt": "2016-02-29T08:24:14Z"
+  },
+  {
+    "login": "2O93",
+    "name": "Chisomo Kalumbe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24430031?s=72&u=12742d27db918b75b88d0bb078fa701c52e100ef&v=4",
+    "location": "786 Baron Avenue, Area 3, Lilongwe",
+    "company": "2093",
+    "twitterUsername": "ckalumbe",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-07T09:04:34Z"
+  },
+  {
+    "login": "lughavin",
+    "name": "Lughano Vincent Ghambi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16890676?s=72&u=5ac61a3f46b162a65ea49e4d6f13d2c6e6646178&v=4",
+    "location": "Lilongwe",
+    "company": "Full stack web developer",
+    "twitterUsername": "luwi11",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-26T02:11:35Z"
+  },
+  {
+    "login": "ShadreckTheu",
+    "name": "theu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20118116?s=72&u=89fedd12f61fe928370a9b75832c0adb340df217&v=4",
+    "location": "Lilongwe",
+    "company": "Agriculture Commodity Exchange Africa ",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-23T23:04:27Z"
+  },
+  {
+    "login": "Matthew-Mvula",
+    "name": "Matthew",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20240621?s=72&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-01T09:39:38Z"
+  },
+  {
+    "login": "hashadube",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18698578?s=72&v=4",
+    "location": "LILONGWE",
+    "company": "LITECS",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-27T10:30:15Z"
+  },
+  {
+    "login": "MarkGerman",
+    "name": "Kondwani German",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21050976?s=72&u=8e2f8983746bb8f6a976d1720d73183f5ff37422&v=4",
+    "location": "Lilongwe",
+    "company": "Cartrack Malawi Limited",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2016-08-16T03:50:02Z"
+  },
+  {
+    "login": "bkonyani",
+    "name": "Billy Konyani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17740192?s=72&u=68ad6ba2e320575530d7da05e54b815a4fb3cd16&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-09T08:59:13Z"
   }
 ]

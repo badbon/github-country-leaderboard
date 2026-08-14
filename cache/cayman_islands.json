@@ -1486,5 +1486,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-08-10T13:05:01Z"
+  },
+  {
+    "login": "andrewperry",
+    "name": "Andrew Perry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94937?s=72&v=4",
+    "location": "Cayman Islands",
+    "company": "A few",
+    "twitterUsername": "andrewperry",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2009-06-13T04:54:50Z"
+  },
+  {
+    "login": "caruana",
+    "name": "Brandon Caruana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93766?s=72&u=b840efd12c136c365d878bbaf508c0c922dc4c5b&v=4",
+    "location": "Cayman Islands",
+    "company": "Cosmic AC",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 29,
+    "publicContributions": 3,
+    "createdAt": "2009-06-09T22:07:37Z"
   }
 ]

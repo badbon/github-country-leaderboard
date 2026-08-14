@@ -1306,5 +1306,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-24T11:21:06Z"
+  },
+  {
+    "login": "amritaramnauth",
+    "name": "Amrita Ramnauth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11462412?s=72&u=982d3edfa3c3722e00ba1053e12c5a99a9d4ee92&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "amritaramnauth",
+    "followers": 11,
+    "privateContributions": 31,
+    "publicContributions": 0,
+    "createdAt": "2015-03-13T15:39:14Z"
+  },
+  {
+    "login": "rowenwillabus",
+    "name": "Rowen Willabus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13178700?s=72&u=665d113b3be511bc7193022deaeb7f41d01f0937&v=4",
+    "location": "Guyana",
+    "company": "IntellectStorm",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2015-07-04T16:41:56Z"
+  },
+  {
+    "login": "kumar100966",
+    "name": "Kumar Etwaroo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13342263?s=72&u=6b2274faffad30439f718bf2a56b93b2e83e80ad&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 13,
+    "publicContributions": 2,
+    "createdAt": "2015-07-15T01:45:18Z"
+  },
+  {
+    "login": "PrinceKarter",
+    "name": "Jay Carter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13324546?s=72&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-14T01:33:25Z"
+  },
+  {
+    "login": "AkAttack",
+    "name": "AkAttack",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13244248?s=72&u=c63e9aac8d3735d1da25159a829e76c7b1dc35f4&v=4",
+    "location": "Guyana, Georgetown",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2015-07-08T21:02:53Z"
+  },
+  {
+    "login": "TesseractGY",
+    "name": "Delon Daniels",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14083671?s=72&u=6ab155b4ed6276a03b9d28d7e0ecf3430e955375&v=4",
+    "location": "Guyana",
+    "company": "Tesseract Designs",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-02T00:56:13Z"
   }
 ]

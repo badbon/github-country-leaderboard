@@ -1798,5 +1798,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-27T21:23:00Z"
+  },
+  {
+    "login": "Theprogrammer-X007",
+    "name": "SoumaineBarh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72468793?s=72&v=4",
+    "location": "N'djamena ",
+    "company": "Center information ",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2020-10-06T19:13:08Z"
+  },
+  {
+    "login": "KanaBru",
+    "name": "KAGONBE KANABET Bruno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60928633?s=72&u=a86c65c7b86538e0f3c94593a2aa3ea6bf91d54c&v=4",
+    "location": "N'Djamena",
+    "company": "CEFOD",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2020-02-11T13:40:36Z"
+  },
+  {
+    "login": "elroyd94",
+    "name": "elroyd94",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64076154?s=72&v=4",
+    "location": "N'Djamena, rue 5102",
+    "company": "Koditech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-21T10:46:42Z"
+  },
+  {
+    "login": "PapSolo88",
+    "name": "JIBRIN MAJI BABA ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67216601?s=72&u=c1348be205d320555db5c3f40ed7a4565ccd8ae3&v=4",
+    "location": "N'djamena ",
+    "company": "Synergie Biogaz",
+    "twitterUsername": "JibrinMaji",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-21T05:07:40Z"
   }
 ]

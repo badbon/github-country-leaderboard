@@ -11566,5 +11566,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-04T10:17:06Z"
+  },
+  {
+    "login": "Murat-504",
+    "name": "Murat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110408658?s=72&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2022-08-01T14:58:16Z"
+  },
+  {
+    "login": "Kaiymov",
+    "name": "Manas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108810111?s=72&u=afbab7cef71bb19da5f5f928972ea2898a49fbd0&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-06T12:32:53Z"
+  },
+  {
+    "login": "IskenT",
+    "name": "Iskender",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99380637?s=72&u=859c931acb64089fb51dedd6efd6d665ceb7c576&v=4",
+    "location": "Bishkek",
+    "company": "Bakai Bank",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-10T04:20:16Z"
+  },
+  {
+    "login": "FitStreet",
+    "name": "GodinIvan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100148914?s=72&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-21T15:42:13Z"
+  },
+  {
+    "login": "BekbolotM",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108409173?s=72&u=5257fa28faa2cdb50cb548f0ca5f457bdb4a1263&v=4",
+    "location": "Bishkek",
+    "company": "Kyrgyz Concept",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-06-29T12:48:59Z"
+  },
+  {
+    "login": "rusexus",
+    "name": "Ruslan Kasymov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103369234?s=72&u=9531b174b97429c52d6693f21379b2d1fd658740&v=4",
+    "location": "Bishkek",
+    "company": "Mad Devs",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-10T13:26:15Z"
+  },
+  {
+    "login": "japaqwer",
+    "name": "Zhaparaliev Aktan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120387432?s=72&u=e1a918fe716cf3d8adb71490506df7ed52a55576&v=4",
+    "location": "Bishkek",
+    "company": "Loco",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 792,
+    "publicContributions": 103,
+    "createdAt": "2022-12-12T12:59:57Z"
   }
 ]

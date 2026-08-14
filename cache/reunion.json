@@ -1258,5 +1258,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-03-30T14:04:24Z"
+  },
+  {
+    "login": "kevinturpin97",
+    "name": "RainMan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93921409?s=72&u=5622a4752eff8b02343307381693e25cef3392bc&v=4",
+    "location": "Reunion Island, France",
+    "company": "@EpitechWebAcademiePromo2023 ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1655,
+    "publicContributions": 86,
+    "createdAt": "2021-11-08T12:33:43Z"
+  },
+  {
+    "login": "GardienYT",
+    "name": "Gabriel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90956638?s=72&u=fa750a3e21f0ca550ce07de6df23649b726185e6&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 17,
+    "publicContributions": 3,
+    "createdAt": "2021-09-18T07:43:50Z"
   }
 ]

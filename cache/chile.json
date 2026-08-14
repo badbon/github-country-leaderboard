@@ -12931,7 +12931,7 @@
     "company": "Backend Software Engineer & Integration Architect",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 965,
+    "privateContributions": 968,
     "publicContributions": 73,
     "createdAt": "2024-02-23T03:40:53Z"
   },
@@ -12992,7 +12992,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 82,
     "createdAt": "2024-02-17T14:56:28Z"
   },
   {
@@ -13100,7 +13100,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 50,
     "createdAt": "2024-04-12T23:12:59Z"
   },
   {
@@ -20779,8 +20779,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 146,
-    "publicContributions": 176,
+    "privateContributions": 139,
+    "publicContributions": 185,
     "createdAt": "2024-12-09T17:05:36Z"
   },
   {
@@ -22940,7 +22940,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 703,
+    "publicContributions": 712,
     "createdAt": "2024-10-13T07:42:05Z"
   },
   {
@@ -24646,5 +24646,245 @@
     "privateContributions": 0,
     "publicContributions": 71,
     "createdAt": "2024-10-20T00:54:04Z"
+  },
+  {
+    "login": "JavieraRL5",
+    "name": "Javiera Reyes L.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166668717?s=72&u=b31be70bd79fe24a6dad303e19a677e0e03e9821&v=4",
+    "location": "Santiago, CL",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2024-04-10T23:52:00Z"
+  },
+  {
+    "login": "stsagredo",
+    "name": "Sebastian Torres Sagredo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159783646?s=72&u=050c20e05c855cb6d0e77c01c73af06c542bd5cc&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-12T12:40:47Z"
+  },
+  {
+    "login": "agustinlearning",
+    "name": "Agustín",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163603156?s=72&u=a2e96101e554d75eaba6212ce5b7dd35f5c8b3d6&v=4",
+    "location": "Santiago de Los Caballeros Rep. Dom.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 131,
+    "createdAt": "2024-03-15T22:32:00Z"
+  },
+  {
+    "login": "mmaartinn",
+    "name": "Martín Yáñez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163414999?s=72&u=56acc4723d414bf5e732f916f3346caffcf46d1f&v=4",
+    "location": "Macul, Santiago",
+    "company": "Pontificia Universidad Católica de Chile",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 118,
+    "publicContributions": 38,
+    "createdAt": "2024-03-14T11:50:59Z"
+  },
+  {
+    "login": "phguerrra",
+    "name": "Pedro Henrique dos Santos Guerra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171634992?s=72&u=270bdd06e0ef9f5a0e2461039cfbe6962fef158b&v=4",
+    "location": "Santiago - RS",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 107,
+    "createdAt": "2024-06-04T00:11:15Z"
+  },
+  {
+    "login": "Cristofooo",
+    "name": "Cristofer F",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166262523?s=72&u=4569dc94df1b55cd2a8061e406a186b763a16ce9&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2024-04-06T23:34:31Z"
+  },
+  {
+    "login": "antonec6",
+    "name": "Antón Expósito Campo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189855969?s=72&v=4",
+    "location": "Santiago de Compostela",
+    "company": "USC",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2024-11-27T11:14:05Z"
+  },
+  {
+    "login": "RensoPeralta25",
+    "name": "Renso I. Peralta U.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189166474?s=72&u=5d527e20695825c2af41ae2dab3ddeb1387f4201&v=4",
+    "location": "Santiago, República Dominicana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 230,
+    "publicContributions": 395,
+    "createdAt": "2024-11-20T20:30:25Z"
+  },
+  {
+    "login": "DacevedoDev",
+    "name": "Daniel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180380152?s=72&u=744063bbb2269c5833b78808a18018f2d1f28416&v=4",
+    "location": "Santiago",
+    "company": "Universidad Andres bello",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2024-09-04T06:15:02Z"
+  },
+  {
+    "login": "0xbersek",
+    "name": "xmr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170166791?s=72&u=ee9eb996f4f3bd43534274f5055611df4b00c9bb&v=4",
+    "location": "santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-18T07:29:19Z"
+  },
+  {
+    "login": "GreciaVerena",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165858598?s=72&u=93e4acdcfb92621fd8b5f7a44083b7a130613531&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2024-04-03T01:11:06Z"
+  },
+  {
+    "login": "jkcrs1",
+    "name": "Jorge Caceres Barrales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169536987?s=72&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-11T13:02:53Z"
+  },
+  {
+    "login": "Gabrielrojas-put",
+    "name": "Gabriel rojas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/192042926?s=72&v=4",
+    "location": "Santiago ",
+    "company": "Aseo general inmobiliaria ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2024-12-17T21:30:14Z"
+  },
+  {
+    "login": "EstebanMoraV",
+    "name": "Esteban",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173212374?s=72&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 5,
+    "publicContributions": 203,
+    "createdAt": "2024-06-18T23:22:13Z"
+  },
+  {
+    "login": "crisvigorena",
+    "name": "Cristian Vigorena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178777466?s=72&u=10e5d920d866513d2181927f96a8dba4afb05693&v=4",
+    "location": "Santiago CLP",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-08-19T08:43:39Z"
+  },
+  {
+    "login": "RaulSkyblue",
+    "name": "Raúl Alvarez Zúñiga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173744277?s=72&v=4",
+    "location": "Santiago",
+    "company": "Duoc UC",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 143,
+    "createdAt": "2024-06-25T00:17:31Z"
+  },
+  {
+    "login": "a24yerayom",
+    "name": "Yeray Otero Mato",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185944321?s=72&u=f86d61a91b571a4d41d503ec76b6c52d5a5299d9&v=4",
+    "location": "Santiago de Compostela",
+    "company": "IES San Clemente",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 43,
+    "publicContributions": 3,
+    "createdAt": "2024-10-22T15:20:01Z"
+  },
+  {
+    "login": "carminh",
+    "name": "carmen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181160368?s=72&u=db57646f05ee7666a658078c1b583b63486cbbf1&v=4",
+    "location": "Santiago, CL",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2024-09-10T21:51:30Z"
+  },
+  {
+    "login": "alex-premium",
+    "name": "Alex premium",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170220360?s=72&u=4d1a6ba4a42c3766f93043b030efa0aa898c0990&v=4",
+    "location": "Santiago Tilapa",
+    "company": "@tesi",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-19T04:13:18Z"
+  },
+  {
+    "login": "mariamera",
+    "name": "Maria Mera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29434543?s=72&u=162c8d6633259a2ce40c104e86c7971bee7be71b&v=4",
+    "location": "Santiago. Dominican Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 228,
+    "publicContributions": 0,
+    "createdAt": "2017-06-14T14:25:40Z"
   }
 ]

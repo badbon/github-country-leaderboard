@@ -898,5 +898,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-03-06T18:44:39Z"
+  },
+  {
+    "login": "bolom",
+    "name": "Bolo Michelin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72155?s=72&u=1760d552b7c996d3d1bcf88192ef06a30913b74e&v=4",
+    "location": "Martinique",
+    "company": "@scionx-io",
+    "twitterUsername": "bolomichelin",
+    "followers": 35,
+    "privateContributions": 1959,
+    "publicContributions": 553,
+    "createdAt": "2009-04-09T14:40:01Z"
   }
 ]

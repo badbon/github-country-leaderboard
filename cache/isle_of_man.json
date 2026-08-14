@@ -538,5 +538,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-21T03:12:14Z"
+  },
+  {
+    "login": "RCornidez",
+    "name": "Rodrigo Cornidez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66983194?s=72&u=6ff6310a18a89322c60229ac73bffceebd0f8dd1&v=4",
+    "location": "Douglas, Arizona",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 146,
+    "publicContributions": 82,
+    "createdAt": "2020-06-16T02:21:48Z"
+  },
+  {
+    "login": "sustrev",
+    "name": "Susannah Trevino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67163598?s=72&u=468cb05df6f73b35a401c54750724b8210cb7d34&v=4",
+    "location": "Camp Douglas, WI",
+    "company": "",
+    "twitterUsername": "susannahchar",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2020-06-19T17:12:57Z"
   }
 ]
