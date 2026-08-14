@@ -1390,5 +1390,89 @@
     "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2014-07-21T14:33:19Z"
+  },
+  {
+    "login": "iRoachie",
+    "name": "Kyle Roach",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5962998?s=72&u=5f190230cbd5706a278ba600a574ce9a2bfec227&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "roach_iam",
+    "followers": 296,
+    "privateContributions": 111,
+    "publicContributions": 3,
+    "createdAt": "2013-11-17T20:32:38Z"
+  },
+  {
+    "login": "paulmiu",
+    "name": "Paul Miu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3653465?s=72&u=6c5692353345916643b1110824be9bca55b556c6&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 847,
+    "publicContributions": 30,
+    "createdAt": "2013-02-20T22:42:23Z"
+  },
+  {
+    "login": "ShamarKellman",
+    "name": "Shamar Kellman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4120411?s=72&u=da21ca9cf4dc4bf7623800cbff80c3b97271f6a8&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "CoderShamar",
+    "followers": 8,
+    "privateContributions": 1005,
+    "publicContributions": 144,
+    "createdAt": "2013-04-10T23:20:06Z"
+  },
+  {
+    "login": "gsequera",
+    "name": "Gelvis Sequera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5026191?s=72&v=4",
+    "location": "Barbados",
+    "company": "Smartmatic Services Corporation",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-16T22:47:53Z"
+  },
+  {
+    "login": "AlexanderPatrick",
+    "name": "Alexander Patrick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3377458?s=72&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-25T04:33:10Z"
+  },
+  {
+    "login": "mediapolis",
+    "name": "Michael Rhodes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3419673?s=72&u=f705d77c7046649670c3489e8b7bed3ab57f7bb5&v=4",
+    "location": "NYC, Boston, Barbados",
+    "company": "Mediapolis, inc.",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-29T18:24:30Z"
+  },
+  {
+    "login": "IvanC00",
+    "name": "Ivan ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4825826?s=72&u=73bece8dd8e88ec5d6a3eb6994c9900f3643758c&v=4",
+    "location": "Barbados",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-25T23:01:33Z"
   }
 ]

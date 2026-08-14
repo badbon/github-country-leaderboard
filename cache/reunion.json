@@ -886,5 +886,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-09T06:53:18Z"
+  },
+  {
+    "login": "MP242",
+    "name": "MarcP242",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105637244?s=72&u=9a461da697919b0c222e8227b3148e16fb26d8ec&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2022-05-16T09:27:48Z"
+  },
+  {
+    "login": "ddemile",
+    "name": "Emilien Hoarau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104416229?s=72&u=896cc93655282e60fcd76ff59b4d2998f9721f51&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 155,
+    "publicContributions": 53,
+    "createdAt": "2022-04-26T06:34:38Z"
+  },
+  {
+    "login": "tommysuzanne",
+    "name": "Tommy Suzanne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103029751?s=72&u=3a6eeef68d8bbbee4286b4ea781f10c0681c5448&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-04-05T08:27:59Z"
   }
 ]

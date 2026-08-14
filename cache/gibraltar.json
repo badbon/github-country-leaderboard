@@ -898,5 +898,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-02-06T23:20:53Z"
+  },
+  {
+    "login": "Fenicio",
+    "name": "Guillermo G C",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3343187?s=72&u=6416535485bb3120ae4df5032225eb0fe5fc0889&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 1482,
+    "publicContributions": 46,
+    "createdAt": "2013-01-22T20:07:00Z"
+  },
+  {
+    "login": "cdharris",
+    "name": "Chris Harris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3830518?s=72&u=de4c2c29bddfa5b4715152052cdd2c89cc6768ae&v=4",
+    "location": "Berlin / Europe / Gibraltar",
+    "company": "",
+    "twitterUsername": "hellokozmo",
+    "followers": 30,
+    "privateContributions": 271,
+    "publicContributions": 2,
+    "createdAt": "2013-03-11T10:03:28Z"
+  },
+  {
+    "login": "llmora",
+    "name": "Lluis Mora",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5354429?s=72&u=5bcfbce51ede21604855dcdaf4e4d85b161a141f&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "lluismh",
+    "followers": 4,
+    "privateContributions": 735,
+    "publicContributions": 118,
+    "createdAt": "2013-08-31T17:51:29Z"
+  },
+  {
+    "login": "diguiding",
+    "name": "Stef",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4996852?s=72&u=809161a7d9d041d428aff00e08b23f9dfe99bb30&v=4",
+    "location": "Gibraltar",
+    "company": "Internetscape",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2013-07-12T12:03:09Z"
+  },
+  {
+    "login": "AuroraMorales",
+    "name": "Aurora Morales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3826017?s=72&v=4",
+    "location": "Gibraltar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-10T20:18:19Z"
   }
 ]

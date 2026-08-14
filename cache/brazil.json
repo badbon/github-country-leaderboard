@@ -26564,7 +26564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 6,
     "createdAt": "2026-02-02T18:59:28Z"
   },
   {
@@ -26900,7 +26900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2026-03-03T16:39:18Z"
   },
   {
@@ -27044,7 +27044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 96,
     "createdAt": "2026-01-23T04:38:15Z"
   },
   {
@@ -29026,5 +29026,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-05T23:06:58Z"
+  },
+  {
+    "login": "brandaoca44",
+    "name": "Caique Brandão",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259879678?s=72&u=223aecb2de169910b27aa6d5c652eccceab4f5ca&v=4",
+    "location": "Brazil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 152,
+    "createdAt": "2026-02-06T14:09:28Z"
+  },
+  {
+    "login": "santtoscode",
+    "name": "Santtos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265682700?s=72&u=c32aabc527a287f63105bd551833a1b8aead75ec&v=4",
+    "location": "Ceará, Brazil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-03-05T01:39:17Z"
+  },
+  {
+    "login": "pl-silveira",
+    "name": "Pedro Lucas Silveira Silva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265885781?s=72&u=fe2583c8e47398519c091e344be9a3a8de721fbf&v=4",
+    "location": "Brazil, Formiga - MG.",
+    "company": "IFMG - Campus Formiga",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 21,
+    "publicContributions": 4,
+    "createdAt": "2026-03-05T18:46:38Z"
   }
 ]
