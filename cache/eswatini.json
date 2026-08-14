@@ -346,5 +346,65 @@
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2022-12-22T06:38:31Z"
+  },
+  {
+    "login": "CodehubNerd",
+    "name": "Culture",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111436414?s=72&u=25baba356602ccb8b9e7a5dda9490e598b6ebb15&v=4",
+    "location": "Swaziland",
+    "company": "Nu Africa",
+    "twitterUsername": "Culture_Dlamini",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2022-08-17T12:34:30Z"
+  },
+  {
+    "login": "Fanelemenzi",
+    "name": "Fanelesiyibonge Mabuza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113801100?s=72&u=7a69be4c3c791d372d3245f53caa038e55afbe3a&v=4",
+    "location": "Manzini, Swaziland",
+    "company": "",
+    "twitterUsername": "menzi_fanele",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2022-09-17T20:08:36Z"
+  },
+  {
+    "login": "ThokozaniDl",
+    "name": "Thokozani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101360556?s=72&v=4",
+    "location": "Swaziland",
+    "company": "@eswatinimobile",
+    "twitterUsername": "Thokoza76604808",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-03-10T19:24:37Z"
+  },
+  {
+    "login": "Mtsetfosisekelo",
+    "name": "Mhlanga Mtsetfosisekelo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99948498?s=72&v=4",
+    "location": "Plot 1149 Nkhanini Township, Nhlangano, Swaziland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-18T06:40:19Z"
+  },
+  {
+    "login": "kangethu",
+    "name": "yoghurt_closet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103569014?s=72&v=4",
+    "location": "Manzini, Swaziland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-13T09:27:18Z"
   }
 ]

@@ -3046,5 +3046,53 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2015-04-07T13:04:46Z"
+  },
+  {
+    "login": "rewathkafley",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9987781?s=72&u=22e0d7cff2988654af143dcd9cccbebedd7f971a&v=4",
+    "location": "Thimphu, Bhutan",
+    "company": "Gives harsh MR comments so that people will cry.",
+    "twitterUsername": "rewathkafley",
+    "followers": 43,
+    "privateContributions": 453,
+    "publicContributions": 5,
+    "createdAt": "2014-11-28T10:17:19Z"
+  },
+  {
+    "login": "govindaghr",
+    "name": "Govinda Ghimeray",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6681624?s=72&v=4",
+    "location": "Bhutan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2014-02-14T11:12:56Z"
+  },
+  {
+    "login": "abitbhutan",
+    "name": "aBit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7629343?s=72&u=a451cb3df513d5be89bd84a8887829ff026d6dbc&v=4",
+    "location": "Thimphu, Bhutan",
+    "company": "aBit",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-19T10:17:00Z"
+  },
+  {
+    "login": "sonamnamgyel",
+    "name": "Sonam Namgyel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8302513?s=72&v=4",
+    "location": "Thimphu, Bhutan",
+    "company": "TashiCell, Tashi InfoComm Ltd",
+    "twitterUsername": "sonamnamgyel",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-29T19:10:48Z"
   }
 ]

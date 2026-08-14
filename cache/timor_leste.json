@@ -250,5 +250,41 @@
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2023-12-08T10:34:59Z"
+  },
+  {
+    "login": "GlaimataCode",
+    "name": "GlaimataCode",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151416502?s=72&v=4",
+    "location": "Dili Ttimor Leste",
+    "company": "Glaimata",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 62,
+    "createdAt": "2023-11-19T02:39:21Z"
+  },
+  {
+    "login": "Liloneno",
+    "name": "Orlando Neno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122892071?s=72&u=b9027e2a922f24256b1b8ba168fc61a5f471c11a&v=4",
+    "location": "Dili",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-17T14:13:28Z"
+  },
+  {
+    "login": "fr4nd0",
+    "name": "Frando Immanuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135202739?s=72&u=ff5b2958c20b2365c6fe6bfbcbc8fdf42191ece8&v=4",
+    "location": "Dili",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-01T06:09:58Z"
   }
 ]

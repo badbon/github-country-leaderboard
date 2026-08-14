@@ -27682,5 +27682,29 @@
     "privateContributions": 14,
     "publicContributions": 85,
     "createdAt": "2021-10-14T00:34:25Z"
+  },
+  {
+    "login": "LasClasesdeAlejo",
+    "name": "José Prieto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170576364?s=72&u=d1bcbe9b92ed6c4a6968c7aaa7c30f4bdfe3d77f&v=4",
+    "location": "Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 40,
+    "publicContributions": 174,
+    "createdAt": "2024-05-22T21:04:07Z"
+  },
+  {
+    "login": "LMiguelMendez",
+    "name": "LMiguelMendez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165355364?s=72&u=cbefdc0a91bb38bb5927ea7aebe85466104e30ca&v=4",
+    "location": "Bogotá, Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2024-03-29T04:22:06Z"
   }
 ]
