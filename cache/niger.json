@@ -1834,5 +1834,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-12-13T16:17:59Z"
+  },
+  {
+    "login": "Komche",
+    "name": "Komche",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31341079?s=72&u=58867c762e4f22ebc7fee29e2e21c5c3de320dde&v=4",
+    "location": "Niamey, Niger",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2017-08-25T08:33:25Z"
+  },
+  {
+    "login": "hmandela",
+    "name": "Mandela HOUNGNIBO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33883241?s=72&u=4f564981d61c543d3958fd6a22b5561d305b7edd&v=4",
+    "location": "Niamey, NIGER",
+    "company": "@AGRHYMET",
+    "twitterUsername": "hmandela",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 219,
+    "createdAt": "2017-11-22T00:49:00Z"
+  },
+  {
+    "login": "GanyGanyant",
+    "name": "Radek Polách",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33576666?s=72&u=a3b96902c8a1f1f870422c06797db47fec3d7d21&v=4",
+    "location": "Niger",
+    "company": "",
+    "twitterUsername": "gany_je_nej",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-11T15:55:49Z"
+  },
+  {
+    "login": "mhassane2012",
+    "name": "Hassane Moussa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25584085?s=72&v=4",
+    "location": "Niamey-Niger",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-06T11:36:19Z"
+  },
+  {
+    "login": "Mahamadou98",
+    "name": "Mahamadou Ibrahim Chaibou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26626401?s=72&u=d43a88b76443a25cd71cf872779c9a85b4ec5f7b&v=4",
+    "location": "Niger",
+    "company": "Gabera",
+    "twitterUsername": "mubarak_mk2015",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2017-03-23T13:04:34Z"
+  },
+  {
+    "login": "Moussatassia",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34881748?s=72&u=fafc1a22c89b1df5e11c2400ad7a30654c167da8&v=4",
+    "location": "NIGER",
+    "company": "NISODE NIGER",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-27T07:57:53Z"
   }
 ]

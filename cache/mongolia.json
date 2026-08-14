@@ -9754,5 +9754,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-11-22T03:55:07Z"
+  },
+  {
+    "login": "buyaka",
+    "name": "buyaka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36476?s=72&u=90f9be8b1199e96bbe7f83a638aa1b5dde135c36&v=4",
+    "location": "Mongolia",
+    "company": "FSS",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 0,
+    "publicContributions": 103,
+    "createdAt": "2008-11-25T01:04:28Z"
+  },
+  {
+    "login": "gobi",
+    "name": "Otgonbayar.A",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6377?s=72&u=3a4e9c2df8aaf43d54ab4a1fba6f9bdc7e9522da&v=4",
+    "location": "Ulaanbaatar, Mongolia",
+    "company": "CS, SICT, MUST",
+    "twitterUsername": "",
+    "followers": 36,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2008-04-11T00:11:33Z"
+  },
+  {
+    "login": "Nuugii",
+    "name": "Nuugii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28267?s=72&v=4",
+    "location": "Ulaanbaatar, Mongolia",
+    "company": "Infinite Solutions",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-10-09T14:02:49Z"
   }
 ]

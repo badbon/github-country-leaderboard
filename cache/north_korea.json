@@ -1126,5 +1126,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-15T18:19:40Z"
+  },
+  {
+    "login": "lavrentious",
+    "name": "lavrent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78731332?s=72&u=b03916b7c54161dd06ced746399a35f1d9455173&v=4",
+    "location": "Democratic People's Republic of Korea",
+    "company": "ITMO University",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 30,
+    "publicContributions": 14,
+    "createdAt": "2021-02-08T10:43:06Z"
+  },
+  {
+    "login": "TobiHome",
+    "name": "Yindaoliuxue",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95509204?s=72&u=fc8516458603d788970fab6846a3cf48368738fe&v=4",
+    "location": "Pyongyang 평양, Democratic People's Republic of Korea",
+    "company": "Self Employed",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-03T23:51:21Z"
   }
 ]

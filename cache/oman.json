@@ -9730,5 +9730,53 @@
     "privateContributions": 0,
     "publicContributions": 39,
     "createdAt": "2018-10-23T10:10:25Z"
+  },
+  {
+    "login": "azizalzeedi",
+    "name": "azizalzeedi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40505131?s=72&u=94636e380cc25f2b6158d46253ee73517378b300&v=4",
+    "location": "Muscat",
+    "company": "University of Technology and Applied Sciences",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 1208,
+    "publicContributions": 1,
+    "createdAt": "2018-06-22T22:22:14Z"
+  },
+  {
+    "login": "LaAaG21",
+    "name": "Ayhem Ahmed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42642412?s=72&v=4",
+    "location": "Muscat",
+    "company": "Codeline",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 119,
+    "publicContributions": 397,
+    "createdAt": "2018-08-23T11:42:25Z"
+  },
+  {
+    "login": "SkroooB",
+    "name": "Mustafa Al Ajmi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38193519?s=72&u=2a2630846649d0fa60f943766f28e9e9da38e7a0&v=4",
+    "location": "Muscat",
+    "company": "Social Mania",
+    "twitterUsername": "skrooobx",
+    "followers": 2,
+    "privateContributions": 85,
+    "publicContributions": 3,
+    "createdAt": "2018-04-08T22:15:15Z"
+  },
+  {
+    "login": "Ghanim-Marzouqi",
+    "name": "GHANIM AL MARZOUQI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44985260?s=72&u=7fbd0dd9d2fa349273ac3251e26d53b6398de409&v=4",
+    "location": "Muscat",
+    "company": "General Secretariate of the Cabinet",
+    "twitterUsername": "optimist_gm",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 61,
+    "createdAt": "2018-11-12T22:10:59Z"
   }
 ]

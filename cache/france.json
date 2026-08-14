@@ -29674,5 +29674,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-04T13:41:31Z"
+  },
+  {
+    "login": "lpichot",
+    "name": "Loanne Pichot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78982291?s=72&u=7274080c11b5eb54199ac251cbf5cc757b525995&v=4",
+    "location": "France / Madagascar",
+    "company": "UMR AE (Gustave Eiffel University - Cerema)",
+    "twitterUsername": "LoannePichot",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-12T19:59:42Z"
+  },
+  {
+    "login": "mightbesimon",
+    "name": "Simon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60593422?s=72&u=2357174901387a9469d385aa5843ad52d1685d0a&v=4",
+    "location": "Auckland, New Zealand → Paris, France",
+    "company": "@alphaguard-ai",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 191,
+    "publicContributions": 36,
+    "createdAt": "2020-02-03T05:00:48Z"
   }
 ]

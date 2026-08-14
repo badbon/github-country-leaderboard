@@ -29170,5 +29170,41 @@
     "privateContributions": 591,
     "publicContributions": 14,
     "createdAt": "2020-10-30T13:31:03Z"
+  },
+  {
+    "login": "GuilloSGit",
+    "name": "Guillermo Andrada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39444790?s=72&u=f4a4193f68cd13f08ac44a7ba848baec2272f4b5&v=4",
+    "location": "San Juan, Argentina",
+    "company": "Full Stack Developer | AI Integration",
+    "twitterUsername": "GA_Softwares",
+    "followers": 24,
+    "privateContributions": 600,
+    "publicContributions": 508,
+    "createdAt": "2018-05-19T20:07:29Z"
+  },
+  {
+    "login": "andy10134",
+    "name": "Andy Molina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45311677?s=72&u=56ada86cd3a826b87c2e7376343f8616037e3853&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2018-11-24T12:43:00Z"
+  },
+  {
+    "login": "marianoedv",
+    "name": "Mariano Delgado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36817865?s=72&u=e840fafe5045888ad3b5d27e57665f14b6785dc5&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-25T14:47:14Z"
   }
 ]

@@ -10450,5 +10450,89 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2020-04-29T16:16:29Z"
+  },
+  {
+    "login": "bresitsolutions",
+    "name": "bresitsolutions",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65790046?s=72&u=dc20344838ef49d9bcde31b5969decbf7e484994&v=4",
+    "location": "Asunción, Paraguay",
+    "company": "bresitsolutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-22T21:15:41Z"
+  },
+  {
+    "login": "punstar",
+    "name": "Marcel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69769667?s=72&u=81eb7a2035f71597e89c048eab8fa74602e8f2b9&v=4",
+    "location": "Asunción, Paraguay",
+    "company": "Dog Folder",
+    "twitterUsername": "PunStarTracer",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-16T20:15:25Z"
+  },
+  {
+    "login": "amandamaduro",
+    "name": "Amanda Maduro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70444688?s=72&u=a280a97ddc591e36d7da2340243c4ad3f36aef12&v=4",
+    "location": "Paraguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-29T16:13:10Z"
+  },
+  {
+    "login": "denisperalta",
+    "name": "Denis Peralta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72280086?s=72&u=944fa31992adf63e47fd15bdc62f18bc3d28129b&v=4",
+    "location": "Asunción - Paraguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 173,
+    "createdAt": "2020-10-02T20:24:02Z"
+  },
+  {
+    "login": "arasolfer",
+    "name": "Aracely Fernández",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75547240?s=72&u=154eae263d5c669583bdb105563792344aff23c5&v=4",
+    "location": "Paraguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-12-05T21:48:02Z"
+  },
+  {
+    "login": "pablosoyogui",
+    "name": "Pablo Rodriguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61562682?s=72&v=4",
+    "location": "Paraguay",
+    "company": "Logicalis",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-02-27T20:32:37Z"
+  },
+  {
+    "login": "danimelgarejo",
+    "name": "Daniel Melgarejo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65989387?s=72&u=702a68d7b931dd5ed95f795a6898538d884672d8&v=4",
+    "location": "Asunción, Paraguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-27T01:28:16Z"
   }
 ]

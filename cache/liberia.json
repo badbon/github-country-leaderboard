@@ -2242,5 +2242,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-19T19:43:46Z"
+  },
+  {
+    "login": "leomaxwell",
+    "name": "Leo Maxwell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10176215?s=72&u=e78e4a8d7dc999a2757bf2b329386a7d09e4b0d9&v=4",
+    "location": "Liberia",
+    "company": "Comax ICT Limited",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-13T12:41:17Z"
+  },
+  {
+    "login": "Abayoh",
+    "name": "Alexander Bayoh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7985268?s=72&u=de5ecdd2170089b4c7ba1d472c2a7ceb539a7bb0&v=4",
+    "location": "Monrovia, Liberia",
+    "company": "Cable Consortium of Liberia",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 216,
+    "publicContributions": 2,
+    "createdAt": "2014-06-25T12:02:35Z"
+  },
+  {
+    "login": "julateh20",
+    "name": "Julateh K. Mulbah ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9357040?s=72&u=1c6e93edef06c56ffc4f5e22e2446ddb96de1e43&v=4",
+    "location": "Sweden, Liberia ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-22T20:02:01Z"
+  },
+  {
+    "login": "AmaraSKeita",
+    "name": "Amara Keita ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8781026?s=72&v=4",
+    "location": "Monrovia, Liberia",
+    "company": "@Sociogram",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-15T16:12:01Z"
+  },
+  {
+    "login": "sabinovates",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6463064?s=72&u=e115b1d86a33fc1f60625991b46a88423a70203b&v=4",
+    "location": "Nigeria/Liberia",
+    "company": "Sabinovates",
+    "twitterUsername": "sabinovates",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2014-01-21T17:55:25Z"
   }
 ]

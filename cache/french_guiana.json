@@ -250,5 +250,29 @@
     "privateContributions": 28,
     "publicContributions": 129,
     "createdAt": "2018-02-01T05:31:04Z"
+  },
+  {
+    "login": "PaulZer",
+    "name": "Paul Bouchillou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25075102?s=72&u=f68cdea45f5ce448b754c67cdf14001c00b01fd2&v=4",
+    "location": "French Guiana",
+    "company": "CartoTech",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 4,
+    "publicContributions": 1,
+    "createdAt": "2017-01-12T08:18:48Z"
+  },
+  {
+    "login": "StephaneKourou",
+    "name": "StephaneKourou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33133738?s=72&u=4985e69aafd6fba401f86710721ba8fc211441aa&v=4",
+    "location": "Kourou, French Guiana",
+    "company": "AgroParisTech",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-26T18:39:49Z"
   }
 ]

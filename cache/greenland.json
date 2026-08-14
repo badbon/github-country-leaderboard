@@ -574,5 +574,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-08-17T00:12:55Z"
+  },
+  {
+    "login": "AllanFinnich",
+    "name": "Allan Finnich",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10040553?s=72&v=4",
+    "location": "Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-02T01:46:50Z"
+  },
+  {
+    "login": "tmuncks",
+    "name": "Thomas M Steenholdt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9822186?s=72&u=fbde08571416a947fc32e19aac3cc1807a1cf9b2&v=4",
+    "location": "Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2014-11-18T12:47:50Z"
+  },
+  {
+    "login": "h-crypto-z",
+    "name": "HCryptoZ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7062551?s=72&u=9eeed2283030c0b251652c83886842a8cf899c28&v=4",
+    "location": "Greenland",
+    "company": "",
+    "twitterUsername": "h_crypto_z",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-25T19:38:12Z"
   }
 ]

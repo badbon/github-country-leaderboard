@@ -274,5 +274,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-01-11T00:51:27Z"
+  },
+  {
+    "login": "yannkb",
+    "name": "Yann Bouchereau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31290613?s=72&u=81bdd7e789ea938c2fec191ffe9c8a78da6d3192&v=4",
+    "location": "Papeete, French Polynesia",
+    "company": "",
+    "twitterUsername": "yannkb_",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2017-08-23T19:24:14Z"
+  },
+  {
+    "login": "supaflakes",
+    "name": "Evans Bohl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28495472?s=72&u=ae8e9eebcfd0b7d87f485c60453f9044b4e97101&v=4",
+    "location": "Tahiti, French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-05-07T01:25:35Z"
+  },
+  {
+    "login": "JeanWenc",
+    "name": "Jean Wencélius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32452561?s=72&v=4",
+    "location": "Moorea, French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-02T10:23:32Z"
+  },
+  {
+    "login": "professeurburp",
+    "name": "Rémi Corbineau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31843548?s=72&u=13dc7f3b6c2751cb7cb43689fd4ea2b616857898&v=4",
+    "location": "Moorea, French Polynesia",
+    "company": "@LuccaSA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-11T07:57:42Z"
+  },
+  {
+    "login": "iRCSx",
+    "name": "CHAN Jason",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25965975?s=72&v=4",
+    "location": "French Polynesia, Tahiti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-22T21:28:10Z"
+  },
+  {
+    "login": "mailysll",
+    "name": "Mailys",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28554059?s=72&u=c05256435a798bbbaba6d1c3d04da2096103bf8a&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-05-09T04:15:20Z"
+  },
+  {
+    "login": "arahm",
+    "name": "Alexander D. Rahm",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29459192?s=72&u=a817798ca9260140cd85fe2b26cec254db2bec80&v=4",
+    "location": "French Polynesia",
+    "company": "University of French Polynesia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-06-15T14:14:09Z"
   }
 ]

@@ -922,5 +922,29 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2015-11-10T22:59:49Z"
+  },
+  {
+    "login": "Massay",
+    "name": "Massay Bah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6600405?s=72&u=1807af9593b861260be62e207781489a254cf187&v=4",
+    "location": "The Gambia, Banjul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 161,
+    "publicContributions": 2,
+    "createdAt": "2014-02-06T00:34:55Z"
+  },
+  {
+    "login": "saidina89",
+    "name": "Alieu Gaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8063432?s=72&v=4",
+    "location": "Kairaba Avenue Banjul, The Gambia.",
+    "company": "Europroductos 2013 Gambia Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-04T01:14:42Z"
   }
 ]

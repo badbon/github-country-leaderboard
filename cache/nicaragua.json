@@ -9752,7 +9752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 321,
-    "publicContributions": 98,
+    "publicContributions": 102,
     "createdAt": "2019-09-04T16:21:21Z"
   },
   {
@@ -10054,5 +10054,149 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2019-12-10T22:57:37Z"
+  },
+  {
+    "login": "gabriel14silva",
+    "name": "José Gabriel Griffin Silva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32249455?s=72&u=eab7c2725bfdc59308e2a93bb6558a55fea010a7&v=4",
+    "location": "Nicaragua, RACS, Nueva Guinea",
+    "company": "URACCAN",
+    "twitterUsername": "GabriGriffin10",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2017-09-24T22:39:28Z"
+  },
+  {
+    "login": "devNica",
+    "name": "Alejandro G. Sanchez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54682156?s=72&u=fab427068b5deddfe3abd1272bfe657b41fc7341&v=4",
+    "location": "Managua",
+    "company": "AlexeCode",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2019-08-29T17:29:06Z"
+  },
+  {
+    "login": "Hatake0093",
+    "name": "Alexander Vado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52426327?s=72&u=685dfaf3b1b7f080015743f0dee1c59555aeba51&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2019-07-01T19:20:32Z"
+  },
+  {
+    "login": "BT-Ramiel",
+    "name": "Danny Bojorquez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51591314?s=72&u=686efe5f4c85f00e0715155ae5fae22dc997e0e1&v=4",
+    "location": "Managua",
+    "company": "Brevetech",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-10T06:36:36Z"
+  },
+  {
+    "login": "alexbob17",
+    "name": "Alejandro Morales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57636640?s=72&u=ab2b3096b31ac399acee5ff948e701809a23fc44&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "kleosling",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-11T17:35:50Z"
+  },
+  {
+    "login": "Kayzek",
+    "name": "Carlos Isaac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52893454?s=72&u=876ef12412afdb964c7f0745c2c49d0bbe854a11&v=4",
+    "location": "Managua",
+    "company": "kzkDev",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 13,
+    "publicContributions": 29,
+    "createdAt": "2019-07-14T19:20:34Z"
+  },
+  {
+    "login": "renquintanilla",
+    "name": "René Quintanilla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50958699?s=72&u=2724f195e169eb36b4999f0efc7d710b8cba6817&v=4",
+    "location": "Managua",
+    "company": "Mentors International",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-23T14:59:34Z"
+  },
+  {
+    "login": "hcastellon",
+    "name": "Humberto Castellon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47040802?s=72&u=bdcab5543bfe2345c200fe62e43ddabc81959ba1&v=4",
+    "location": "Managua",
+    "company": "Universidad Nacional Autonoma de Nicaragua",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-25T19:26:23Z"
+  },
+  {
+    "login": "cantillanobilly",
+    "name": "Billy Cantillano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48691634?s=72&u=a8e9710891a3e9dc491093827a7c0a8ebf7cc76d&v=4",
+    "location": "MANAGUA",
+    "company": "Iglesia del Nazareno",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-03-18T17:52:21Z"
+  },
+  {
+    "login": "ibwNic",
+    "name": "IBW IT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53833754?s=72&u=24482fe78e7ba81127bc06eba9cc21e595d55757&v=4",
+    "location": "Managua",
+    "company": "IBW",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-06T17:38:25Z"
+  },
+  {
+    "login": "AMendoza180890",
+    "name": "Allan José Mendoza Alemán",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58953817?s=72&u=3e46904228db3a33f9af0d339a92a48afbe54207&v=4",
+    "location": "Managua, Nic",
+    "company": "web-nica, webxnic, tesorosdedios",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 259,
+    "publicContributions": 145,
+    "createdAt": "2019-12-16T18:53:33Z"
+  },
+  {
+    "login": "solisrey22",
+    "name": "Reynaldo Solís",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48728298?s=72&u=35d7728be7ba6bbbe1b562fa64e28fbf8ae8b0e0&v=4",
+    "location": "Managua",
+    "company": "Grupo Monge",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2019-03-19T16:25:40Z"
   }
 ]

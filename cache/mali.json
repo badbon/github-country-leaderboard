@@ -3550,5 +3550,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-01-30T20:16:00Z"
+  },
+  {
+    "login": "GUIND0",
+    "name": "Souleymane Guindo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29681997?s=72&v=4",
+    "location": "Mali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 66,
+    "privateContributions": 14,
+    "publicContributions": 7,
+    "createdAt": "2017-06-24T22:23:06Z"
+  },
+  {
+    "login": "molobala",
+    "name": "Doumbia Mahamadou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29891783?s=72&u=2d43e6ef2b52b63611e4b87c836685feae6affab&v=4",
+    "location": "Mali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2017-07-04T12:11:06Z"
+  },
+  {
+    "login": "esch3r",
+    "name": "Johnathan Machler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32213433?s=72&u=a5d30d63f77a197453099d30656936a97c35f424&v=4",
+    "location": "Timbuktu, Mali",
+    "company": "",
+    "twitterUsername": "vitriuvianman",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-23T04:12:55Z"
+  },
+  {
+    "login": "hashtag91",
+    "name": "Yacouba Camara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29471909?s=72&u=ff398e8d5dd3667e2cd9ede6f96a56a23f37d893&v=4",
+    "location": "Bamako, Mali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 22,
+    "publicContributions": 37,
+    "createdAt": "2017-06-16T02:01:37Z"
+  },
+  {
+    "login": "dramanesd",
+    "name": "Dramane DOUMBIA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31457181?s=72&u=82a7d994531709d25caf78079bbc2072411d8ec4&v=4",
+    "location": "Bamako, Mali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-29T22:34:40Z"
+  },
+  {
+    "login": "ddicko",
+    "name": "Ibrahim Bilaly Dicko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27320352?s=72&u=6360103e066df9e66a65d69ca8a362c9e7ed4772&v=4",
+    "location": "Bamako, Mali",
+    "company": "Sualasoft",
+    "twitterUsername": "Ibrahim52281597",
+    "followers": 3,
+    "privateContributions": 47,
+    "publicContributions": 8,
+    "createdAt": "2017-04-12T00:58:36Z"
+  },
+  {
+    "login": "simobservices",
+    "name": "Simob Services",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25125230?s=72&u=4033de80536844f04e897d8874bd7d552608ba2b&v=4",
+    "location": "Mali - Bamako",
+    "company": "Simob Services",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-14T21:51:19Z"
+  },
+  {
+    "login": "OliverQueen18",
+    "name": "Oliver Queen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33458263?s=72&u=66dc62ca6a9fe40e8b84a5d1bb26556e7e644312&v=4",
+    "location": "Mali",
+    "company": "Olive Services",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2017-11-07T15:01:34Z"
+  },
+  {
+    "login": "abdramanetogora",
+    "name": "Abdramane Niama TOGORA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25384762?s=72&v=4",
+    "location": "Bamako; Mali",
+    "company": "Direction Nationale ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-27T11:10:14Z"
   }
 ]

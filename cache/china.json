@@ -24310,5 +24310,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-03T03:23:37Z"
+  },
+  {
+    "login": "yxbian23",
+    "name": "Yuxuan BIAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78266787?s=72&u=3fe6acc677859a65ee9f3cdf730080a559cffa76&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "The Chinese University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 72,
+    "privateContributions": 49,
+    "publicContributions": 44,
+    "createdAt": "2021-01-30T14:43:58Z"
+  },
+  {
+    "login": "zhao-yiqun",
+    "name": "Yiqun Zhao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91787021?s=72&u=3bf7b6dc67341bf4886ce5436b4b3e5be5f8edb9&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "PhD Student @ HKU",
+    "twitterUsername": "",
+    "followers": 49,
+    "privateContributions": 172,
+    "publicContributions": 3,
+    "createdAt": "2021-10-02T12:24:36Z"
+  },
+  {
+    "login": "ejhshen",
+    "name": "Junhao Shen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88479555?s=72&u=90e71f8d918aa974a77ffd8bdef06f2e4b597ba0&v=4",
+    "location": "Hong Kong S.A.R., China",
+    "company": "The Chinese University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 195,
+    "publicContributions": 21,
+    "createdAt": "2021-08-05T07:13:58Z"
+  },
+  {
+    "login": "StoneTZHENG",
+    "name": "Tianshi Zheng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78330610?s=72&u=674ca7e4c802d0b12718b0d3718f40b884954262&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "Hong Kong University of Science and Technology",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 77,
+    "publicContributions": 28,
+    "createdAt": "2021-02-01T02:08:38Z"
   }
 ]
