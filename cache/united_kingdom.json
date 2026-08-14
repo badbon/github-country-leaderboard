@@ -22030,5 +22030,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-21T15:49:56Z"
+  },
+  {
+    "login": "cblunt",
+    "name": "Chris Blunt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96239?s=72&v=4",
+    "location": "Plymouth, UK",
+    "company": "@plymouthsoftware ",
+    "twitterUsername": "",
+    "followers": 63,
+    "privateContributions": 272,
+    "publicContributions": 2,
+    "createdAt": "2009-06-17T08:01:52Z"
+  },
+  {
+    "login": "vfigueiro",
+    "name": "Vitor Figueiro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88949?s=72&u=b46db3ee7a2fd8d75abbebd4ac6f48d1388d4c09&v=4",
+    "location": "Plymouth, UK",
+    "company": "Patch Plants",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 177,
+    "publicContributions": 0,
+    "createdAt": "2009-05-27T00:57:11Z"
+  },
+  {
+    "login": "andymantell",
+    "name": "Andy Mantell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134642?s=72&u=e93422828803fa81fa69a48e53d52e01ff98979e&v=4",
+    "location": "Plymouth, UK",
+    "company": "Goaco",
+    "twitterUsername": "andymantell",
+    "followers": 35,
+    "privateContributions": 773,
+    "publicContributions": 502,
+    "createdAt": "2009-10-03T18:47:01Z"
   }
 ]

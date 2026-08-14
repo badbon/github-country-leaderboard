@@ -8122,5 +8122,89 @@
     "privateContributions": 2471,
     "publicContributions": 2,
     "createdAt": "2015-04-27T11:22:46Z"
+  },
+  {
+    "login": "Konta1404",
+    "name": "Veselin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14986231?s=72&u=023a0c18e5767514f1e77f5733045b1452edc282&v=4",
+    "location": "Podgorica",
+    "company": "SynergySuite",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 63,
+    "publicContributions": 1,
+    "createdAt": "2015-10-05T21:07:26Z"
+  },
+  {
+    "login": "ushakova",
+    "name": "Yunna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11072551?s=72&u=a8ba26aaab5934d4c0a7c9676ddf6011d7c7f784&v=4",
+    "location": "podgorica",
+    "company": "@aforex ",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 20,
+    "publicContributions": 0,
+    "createdAt": "2015-02-19T09:51:31Z"
+  },
+  {
+    "login": "rangoc",
+    "name": "Goran Cabarkapa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11316310?s=72&u=da19c29c0334621ac40d66348c62dbd6f0f61f37&v=4",
+    "location": "Podgorica",
+    "company": "@dlabs",
+    "twitterUsername": "kappagoran",
+    "followers": 13,
+    "privateContributions": 820,
+    "publicContributions": 87,
+    "createdAt": "2015-03-04T15:40:42Z"
+  },
+  {
+    "login": "vukpetar",
+    "name": "Petar Sekulić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11760829?s=72&u=80f7b680b8ea05d3c7fef6cd86b552187a664ef1&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-01T20:00:56Z"
+  },
+  {
+    "login": "blackandcode",
+    "name": "Danilo Puric",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12786250?s=72&u=839c7329c7505e48b2a7caf1dd6fd40cbcb2d9a0&v=4",
+    "location": "Podgorica",
+    "company": "Web Falcon - Contract based",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 348,
+    "publicContributions": 22,
+    "createdAt": "2015-06-07T16:26:46Z"
+  },
+  {
+    "login": "VukBojanic",
+    "name": "vuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15010971?s=72&u=4c3b6af01b4d85b47ab3778d136840cfe437c9a8&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-07T08:05:29Z"
+  },
+  {
+    "login": "labanjelena",
+    "name": "Jelena Laban",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16306267?s=72&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-15T13:38:40Z"
   }
 ]

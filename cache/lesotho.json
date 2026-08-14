@@ -1450,5 +1450,29 @@
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2018-08-22T21:27:18Z"
+  },
+  {
+    "login": "KNkoe",
+    "name": "Katleho Nkoe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39955467?s=72&u=840d6fac1da460cc31fc223733a1536d96c32d78&v=4",
+    "location": "Maseru",
+    "company": "Ducens PTY LTD",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 2020,
+    "publicContributions": 38,
+    "createdAt": "2018-06-05T12:53:52Z"
+  },
+  {
+    "login": "MontsoMatlaletsa",
+    "name": "MontsoMatlaletsa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38131752?s=72&u=8ed9c45df7f3df19130468b968c2d76464a94709&v=4",
+    "location": "Maseru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-06T11:40:57Z"
   }
 ]

@@ -5192,7 +5192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 131,
-    "publicContributions": 277,
+    "publicContributions": 281,
     "createdAt": "2025-11-25T09:54:36Z"
   },
   {
@@ -29614,5 +29614,53 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2025-09-21T06:32:54Z"
+  },
+  {
+    "login": "MN-Sandratra",
+    "name": "MBELO NDRIAMANAMPY Sandratra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86879510?s=72&u=0508587468c84a812607c911a7ad7bf0fd8ffa73&v=4",
+    "location": "Madagascar,Antananarivo | France, Montpellier",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 81,
+    "publicContributions": 48,
+    "createdAt": "2021-07-03T12:28:32Z"
+  },
+  {
+    "login": "memehoueibib",
+    "name": "Meme Houeibib",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38425746?s=72&u=4761c8e59e725f53d9444745dc328fc9a1874692&v=4",
+    "location": "Paris - Chambéry - Nouadhibou - Nouakchott",
+    "company": "https://voyalive.com/",
+    "twitterUsername": "memehoueibib",
+    "followers": 8,
+    "privateContributions": 3146,
+    "publicContributions": 20,
+    "createdAt": "2018-04-16T10:48:10Z"
+  },
+  {
+    "login": "tkerambloch",
+    "name": "Kerambloch Thomas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16100137?s=72&u=c4454255f2399278ec9886d5ab4469b148257672&v=4",
+    "location": "Paris, Ile de france, Drancy, seine-saint-denis (FRANCE)",
+    "company": "Vente-Privée",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-01T12:09:18Z"
+  },
+  {
+    "login": "ccapbern",
+    "name": "Cyril CAPBERN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11994457?s=72&u=e533ab5e337002b1c538959b0ff4320f2f1dc1b4&v=4",
+    "location": "Saint-Pierre-du-Mont, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-17T13:08:34Z"
   }
 ]

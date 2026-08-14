@@ -2722,5 +2722,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-03-22T14:25:14Z"
+  },
+  {
+    "login": "tenerecodes",
+    "name": "Hadrami",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42242783?s=72&v=4",
+    "location": "Nouakchott",
+    "company": "Self employed",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 13,
+    "publicContributions": 0,
+    "createdAt": "2018-08-09T13:23:45Z"
+  },
+  {
+    "login": "MedAb94",
+    "name": "Medab Vall",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43142145?s=72&u=d06d5fecc6dde9a125c235c8e90bc1c0890d0e60&v=4",
+    "location": "Nouakchott",
+    "company": "Joujou Services ",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 988,
+    "publicContributions": 0,
+    "createdAt": "2018-09-10T14:07:48Z"
+  },
+  {
+    "login": "ntehah",
+    "name": "Mohamed Abdelkader Ntehah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45572063?s=72&u=9cbbef8f561f290398c58b790e770458dc3921da&v=4",
+    "location": "Nouakchott",
+    "company": "Yata-medical",
+    "twitterUsername": "kadermed10",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-03T17:54:54Z"
+  },
+  {
+    "login": "moctar89",
+    "name": "Mohamed Mbarek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40306878?s=72&u=3c823864dfc579a8addbb958f9255a1c6b7bb922&v=4",
+    "location": "nouakchott",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-15T21:52:19Z"
+  },
+  {
+    "login": "Oumarfarouq",
+    "name": "Oumar Kane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40720605?s=72&u=32223229b88e43ba490a4dead25fccc6c1900168&v=4",
+    "location": "Nouakchott",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-30T16:12:19Z"
+  },
+  {
+    "login": "Amar161995",
+    "name": "Ahmed Amar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45141654?s=72&u=0dff9ab0bbec0028fae7e413529e978c073436ff&v=4",
+    "location": "Nouakchott",
+    "company": "RIMVERSION",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2018-11-18T10:50:24Z"
+  },
+  {
+    "login": "mstf3740",
+    "name": "mustafa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36777007?s=72&v=4",
+    "location": "Nouakchott",
+    "company": "Mauritanie",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-23T21:45:42Z"
   }
 ]

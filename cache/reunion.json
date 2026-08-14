@@ -1294,5 +1294,53 @@
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2021-06-23T16:14:27Z"
+  },
+  {
+    "login": "heyrudy",
+    "name": "kokou koumagna-gottoh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12248624?s=72&u=e067fe6caaeb9e70d310ebb859804b1324621b5c&v=4",
+    "location": "Saint-Denis",
+    "company": "SOPRASTERIA",
+    "twitterUsername": "heyyrudyy404",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2015-05-05T08:01:14Z"
+  },
+  {
+    "login": "deafben",
+    "name": "Benoit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12233673?s=72&u=e45c8209d481a9633f1e5f6230969eb04316fc5f&v=4",
+    "location": "Saint Denis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2015-05-04T11:57:07Z"
+  },
+  {
+    "login": "ncoquillas",
+    "name": "NCoquill",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12749734?s=72&u=3d22ea4310dfb77186f1ae0dade45a6849645cc3&v=4",
+    "location": "Saint-Denis (Reunion)",
+    "company": "Universite de la Réunion / IRD / OSU-R / LE2P",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-04T15:34:45Z"
+  },
+  {
+    "login": "fothmani",
+    "name": "Fahmi Othmani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12556707?s=72&v=4",
+    "location": "Saint-Denis",
+    "company": "Université de la Réunion",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-22T07:50:45Z"
   }
 ]

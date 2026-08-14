@@ -106,5 +106,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-17T04:26:19Z"
+  },
+  {
+    "login": "shobhakhar",
+    "name": "Shobhakhar Adhikari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36519483?s=72&u=9d4367034a08f0291b21fab289ac901be1456a6e&v=4",
+    "location": "Jamestown, NC",
+    "company": "GTCC",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-15T20:30:54Z"
+  },
+  {
+    "login": "MMA4CMT",
+    "name": "Richard Wheeler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35388055?s=72&u=c96f9da3e465ca30f0b614c8634323d747c8d988&v=4",
+    "location": "Jamestown, Ca",
+    "company": "MMA4CMT",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-13T02:25:48Z"
+  },
+  {
+    "login": "john-moore-levesque",
+    "name": "John Moore-Levesque",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38574094?s=72&u=4fde45815290fc16e7780361d08ab37058c2c6e0&v=4",
+    "location": "Jamestown, RI",
+    "company": "Capital One ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2018-04-20T23:47:59Z"
   }
 ]

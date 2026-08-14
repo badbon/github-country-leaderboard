@@ -3500,7 +3500,55 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 54,
     "createdAt": "2018-11-10T14:44:31Z"
+  },
+  {
+    "login": "AbduRahmanS",
+    "name": "Abdrahamane Sarambounou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45968972?s=72&u=f237a1cb8bf02cf64c5cc9f374ccf8b7000396b5&v=4",
+    "location": "Bamako",
+    "company": "@Doninya",
+    "twitterUsername": "AbduRahmanSb",
+    "followers": 8,
+    "privateContributions": 2135,
+    "publicContributions": 1,
+    "createdAt": "2018-12-18T12:25:22Z"
+  },
+  {
+    "login": "MALLEDOSSONI",
+    "name": "Brehima MALLE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36641801?s=72&u=c792cc7cd31f1ea5a2ac31b2c745fb155d000a35&v=4",
+    "location": "Bamako",
+    "company": "IT Manager  &  Dev ",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-19T17:39:12Z"
+  },
+  {
+    "login": "BabaToure",
+    "name": "Bamadou TOURE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44876380?s=72&u=fbeca51e71b382daaa08088ea25a8afe59c2fb58&v=4",
+    "location": "Bamako",
+    "company": "altic adsi",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-08T17:22:08Z"
+  },
+  {
+    "login": "ddiarra",
+    "name": "Dansiné Diarra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35974547?s=72&v=4",
+    "location": "Bamako",
+    "company": "Université des Sciences Sociales et de Gestion de Bamako",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-30T20:16:00Z"
   }
 ]

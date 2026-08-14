@@ -14482,5 +14482,53 @@
     "privateContributions": 38,
     "publicContributions": 167,
     "createdAt": "2021-05-07T06:37:15Z"
+  },
+  {
+    "login": "kkoshun",
+    "name": "Mykola Koshun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93513461?s=72&v=4",
+    "location": "Bratislava",
+    "company": "@QRWaiter ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-01T07:52:09Z"
+  },
+  {
+    "login": "DuRuKu",
+    "name": "Dusan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79940412?s=72&u=550390ba09a3fdeba9a302364a7518f5f69629d8&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-02T20:19:10Z"
+  },
+  {
+    "login": "RRotoko",
+    "name": "Ruslan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91010024?s=72&u=e64e0e7d3406fa2ce29dd1d3b90355db797d4169&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2021-09-19T10:19:10Z"
+  },
+  {
+    "login": "kuboch17",
+    "name": "Jakub Chyžnaj",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88511773?s=72&v=4",
+    "location": "Bratislava",
+    "company": "FIIT STU / FHI EUBA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2021-08-05T20:02:30Z"
   }
 ]
