@@ -34870,5 +34870,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-08-13T09:18:08Z"
+  },
+  {
+    "login": "S1194789",
+    "name": "Mayonez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125996795?s=72&u=db48f239fee010f230adc67e48b247fe03ef9e0e&v=4",
+    "location": "Lisbon, Portugal and Toulon, France ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 142,
+    "createdAt": "2023-02-21T15:27:41Z"
+  },
+  {
+    "login": "mguesdon",
+    "name": "Manuel Guesdon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/715078?s=72&v=4",
+    "location": "Saint-Denis / France",
+    "company": "Oxymium",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-07T11:11:55Z"
+  },
+  {
+    "login": "zebuline",
+    "name": "Lauréline Guérin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/581545?s=72&v=4",
+    "location": "Saint Pierre De Frugie, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 1,
+    "publicContributions": 1059,
+    "createdAt": "2011-01-24T21:04:05Z"
+  },
+  {
+    "login": "M-Adrien74",
+    "name": "Adrien",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102225551?s=72&u=3a205a187b326f93202a1616ca6a7c4dd53eae56&v=4",
+    "location": "France / Suisse",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-23T11:06:34Z"
   }
 ]

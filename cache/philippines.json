@@ -20755,7 +20755,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 92,
+    "privateContributions": 93,
     "publicContributions": 67,
     "createdAt": "2024-05-24T07:05:25Z"
   },
@@ -22220,7 +22220,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 23,
     "createdAt": "2024-04-20T05:22:58Z"
   },
   {
@@ -29010,8 +29010,8 @@
     "location": "Manila, Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 66,
-    "privateContributions": 619,
+    "followers": 69,
+    "privateContributions": 617,
     "publicContributions": 381,
     "createdAt": "2024-11-04T00:12:30Z"
   },
@@ -32041,13 +32041,13 @@
   },
   {
     "login": "phamphamHUH",
-    "name": "Marc Jodel L. Dela Cruz",
+    "name": "Del",
     "avatarUrl": "https://avatars.githubusercontent.com/u/176103513?s=72&u=ac3814a508408cf9e8f373a625f0d8d0c55f3181&v=4",
     "location": "Manila, Philippines",
     "company": "Technological University of the Philippines",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 100,
+    "privateContributions": 114,
     "publicContributions": 78,
     "createdAt": "2024-07-20T04:35:47Z"
   },
@@ -39283,7 +39283,7 @@
     "company": "Centaim",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 140,
+    "privateContributions": 141,
     "publicContributions": 571,
     "createdAt": "2024-10-02T12:43:43Z"
   },
@@ -39706,5 +39706,65 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2019-12-13T02:02:52Z"
+  },
+  {
+    "login": "TLCSglobal",
+    "name": "Tristan L. Seisa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172168259?s=72&v=4",
+    "location": "Makati City, Metro Manila",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2024-06-09T06:19:48Z"
+  },
+  {
+    "login": "justrhey",
+    "name": "schnitzel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181766207?s=72&u=ef41ca00c37db21a5c0c67d97c25712f64c7125f&v=4",
+    "location": "Metro Manila",
+    "company": "Jesus Reigns Christian College",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1001,
+    "createdAt": "2024-09-16T16:32:40Z"
+  },
+  {
+    "login": "volexamorc",
+    "name": "Volex Amorc Fajardo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185614087?s=72&u=a286ed347b354506986c91b04d5fd22dd6f01c14&v=4",
+    "location": "Manila",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2024-10-19T13:54:09Z"
+  },
+  {
+    "login": "Penepoki",
+    "name": "Martin Espineda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175721061?s=72&u=8d1e0506b8692af44dbd9b96268755652bf12e3f&v=4",
+    "location": "Manila",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 52,
+    "publicContributions": 75,
+    "createdAt": "2024-07-16T14:18:06Z"
+  },
+  {
+    "login": "jbearj",
+    "name": "jennifer iglesias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175383517?s=72&u=bb75853dc2e5736279e748f7c166ba7dbd4e199b&v=4",
+    "location": "Manila, PH",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 81,
+    "publicContributions": 26,
+    "createdAt": "2024-07-12T05:34:33Z"
   }
 ]

@@ -12310,5 +12310,41 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2019-08-09T13:39:50Z"
+  },
+  {
+    "login": "danimelgarejo93",
+    "name": "Daniel Melgarejo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57817171?s=72&u=a95637e9350b541f272b7008a34f8254123c6f39&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-15T23:26:12Z"
+  },
+  {
+    "login": "GooseNBK",
+    "name": "Gustavo Borjas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49384648?s=72&u=61e8f75e15b45a506b4e1f3a1262ea182971ae42&v=4",
+    "location": "Asunción",
+    "company": "Factor RH",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 2012,
+    "publicContributions": 7,
+    "createdAt": "2019-04-08T04:19:40Z"
+  },
+  {
+    "login": "jcumar",
+    "name": "Juan Cuenca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57118654?s=72&v=4",
+    "location": "Asunción",
+    "company": "@kontsoft",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 59,
+    "createdAt": "2019-10-29T00:01:56Z"
   }
 ]

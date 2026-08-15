@@ -178,5 +178,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-27T20:10:01Z"
+  },
+  {
+    "login": "JaredBrown138",
+    "name": "Jared Brown",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16340640?s=72&u=bdecbc614d7c6c99e0dc0c2c809efd573cc7326d&v=4",
+    "location": "Jamestown, NY",
+    "company": "Chautauqua Institution",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-17T18:28:06Z"
+  },
+  {
+    "login": "EgonX",
+    "name": "J. Hall",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13681031?s=72&u=d406325c98d9926eecf971c33eacd3f7f44b7e74&v=4",
+    "location": "Jamestown, TN",
+    "company": "Arbiet Data",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-06T15:45:24Z"
   }
 ]

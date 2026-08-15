@@ -3310,5 +3310,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-07-04T23:12:36Z"
+  },
+  {
+    "login": "Ngaing12",
+    "name": "Trevor Gankarch",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13513255?s=72&u=d0fa2f4c372f4b04e6a32ec12ce67a72083d22e9&v=4",
+    "location": "Port Moresby",
+    "company": "Trai Mobile",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-27T00:31:51Z"
+  },
+  {
+    "login": "L0N",
+    "name": "Frank",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14659637?s=72&u=3b683a9d5ad90391c2faf6516b4f256b4d87ae51&v=4",
+    "location": "Port Moresby",
+    "company": "",
+    "twitterUsername": "5h4cc0",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 95,
+    "createdAt": "2015-09-21T23:08:45Z"
+  },
+  {
+    "login": "lronald",
+    "name": "Louis Ronald",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12437918?s=72&u=539ab59aebb4271bfb98c8e65666efc636f30d67&v=4",
+    "location": "Port Moresby",
+    "company": "Alef Solutions",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-14T01:34:44Z"
+  },
+  {
+    "login": "anealchandra",
+    "name": "Dr Aneal Chandra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16091002?s=72&v=4",
+    "location": "Port Moresby",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-30T23:43:07Z"
+  },
+  {
+    "login": "mjohnnah",
+    "name": "Mark Johnnah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13776646?s=72&u=4cddcf83b104f9b87a8447074df6c1a503d5fa15&v=4",
+    "location": "Port Moresby, PNG",
+    "company": "Switch Maven PNG",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-13T05:37:01Z"
   }
 ]

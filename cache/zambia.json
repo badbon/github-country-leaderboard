@@ -15550,5 +15550,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-08-27T22:30:16Z"
+  },
+  {
+    "login": "Kandeta",
+    "name": "Mwango",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7923056?s=72&v=4",
+    "location": "Lusaka",
+    "company": "MSI",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2014-06-18T12:27:04Z"
+  },
+  {
+    "login": "Twaambo",
+    "name": "Twaambo Munaumba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8166456?s=72&u=fd686d454d5e58565f20fc778ba7c203e382b37b&v=4",
+    "location": "Lusaka",
+    "company": "Skycend",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 125,
+    "publicContributions": 0,
+    "createdAt": "2014-07-15T07:17:00Z"
+  },
+  {
+    "login": "csiwale",
+    "name": "Chisanga Louis Siwale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8067364?s=72&u=e06cb5d84e2a1336d746258c4f2827b07e6a49b7&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2014-07-04T10:46:43Z"
+  },
+  {
+    "login": "AndyFlem",
+    "name": "Andy Fleming",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8875541?s=72&u=95f09f69e8ba52ce41b3b23628eb719e920127b1&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 117,
+    "publicContributions": 84,
+    "createdAt": "2014-09-23T12:11:56Z"
+  },
+  {
+    "login": "dlungu91",
+    "name": "Fred Lungu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8457257?s=72&u=d7be8055cd1b589192e5ecefe9eb4710c3c95567&v=4",
+    "location": "Lusaka",
+    "company": "Mr",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 84,
+    "publicContributions": 4,
+    "createdAt": "2014-08-15T11:10:17Z"
+  },
+  {
+    "login": "vktrMali",
+    "name": "victor chisala mali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7930533?s=72&u=057b19018dc2b10c1c8438a1eaf9de960c4397e5&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-19T06:25:09Z"
+  },
+  {
+    "login": "dougydogs",
+    "name": "Douglas Leroy Namafente",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8530521?s=72&u=eabbc66a3c117a526ad0ccdff078d8fc213c6218&v=4",
+    "location": "Lusaka",
+    "company": "HashCode (z) Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-23T11:19:21Z"
   }
 ]

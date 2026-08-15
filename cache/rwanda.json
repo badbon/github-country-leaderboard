@@ -17430,7 +17430,7 @@
     "location": "Kigali Rwanda",
     "company": "UR",
     "twitterUsername": "",
-    "followers": 1464,
+    "followers": 1465,
     "privateContributions": 0,
     "publicContributions": 28,
     "createdAt": "2022-06-29T19:43:14Z"
@@ -17466,7 +17466,7 @@
     "location": "Kigali, Rwanda ",
     "company": "",
     "twitterUsername": "",
-    "followers": 202,
+    "followers": 203,
     "privateContributions": 0,
     "publicContributions": 878,
     "createdAt": "2022-04-18T15:20:42Z"
@@ -17480,7 +17480,7 @@
     "twitterUsername": "",
     "followers": 109,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 49,
     "createdAt": "2022-05-06T16:25:29Z"
   },
   {
@@ -17491,7 +17491,7 @@
     "company": "InversePay",
     "twitterUsername": "AbimbolaRonald",
     "followers": 93,
-    "privateContributions": 4547,
+    "privateContributions": 4570,
     "publicContributions": 54,
     "createdAt": "2022-08-07T19:48:22Z"
   },
@@ -17743,8 +17743,8 @@
     "company": "ORION SYSTEMS",
     "twitterUsername": "",
     "followers": 40,
-    "privateContributions": 171,
-    "publicContributions": 348,
+    "privateContributions": 176,
+    "publicContributions": 355,
     "createdAt": "2022-12-03T15:14:44Z"
   },
   {
@@ -17791,7 +17791,7 @@
     "company": "",
     "twitterUsername": "aimelive_",
     "followers": 35,
-    "privateContributions": 725,
+    "privateContributions": 728,
     "publicContributions": 246,
     "createdAt": "2022-02-01T11:06:03Z"
   },
@@ -18151,7 +18151,7 @@
     "company": "@Urumuri-Organisation ",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 2965,
+    "privateContributions": 2969,
     "publicContributions": 241,
     "createdAt": "2022-01-04T19:56:01Z"
   },
@@ -18260,7 +18260,7 @@
     "twitterUsername": "yannickniyirera",
     "followers": 20,
     "privateContributions": 250,
-    "publicContributions": 254,
+    "publicContributions": 255,
     "createdAt": "2022-01-21T08:06:28Z"
   },
   {
@@ -18440,7 +18440,7 @@
     "twitterUsername": "GaelBalekage1",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 259,
+    "publicContributions": 263,
     "createdAt": "2022-12-10T07:03:12Z"
   },
   {
@@ -18450,7 +18450,7 @@
     "location": "Kigali, Rwanda",
     "company": "",
     "twitterUsername": "hozayves",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 63,
     "publicContributions": 26,
     "createdAt": "2022-01-24T12:30:39Z"
@@ -22246,5 +22246,257 @@
     "privateContributions": 393,
     "publicContributions": 32,
     "createdAt": "2022-10-29T10:45:23Z"
+  },
+  {
+    "login": "jefftrojan",
+    "name": "Trojan0x",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111243693?s=72&u=c7b31bc20cb7a613b252c99f9b2abe5a593e77b2&v=4",
+    "location": "Kigali",
+    "company": "@Digital-Umuganda ",
+    "twitterUsername": "trojan0x",
+    "followers": 93,
+    "privateContributions": 850,
+    "publicContributions": 65,
+    "createdAt": "2022-08-14T17:42:53Z"
+  },
+  {
+    "login": "mariegrace31",
+    "name": "Marie Grâce Bahati",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116119216?s=72&u=2bb0f8afd86840f7b341aec2308b4ef98b35bbeb&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 60,
+    "privateContributions": 22,
+    "publicContributions": 53,
+    "createdAt": "2022-10-18T20:32:10Z"
+  },
+  {
+    "login": "Perfectizihirwe",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98801724?s=72&u=eee73d29003cc12b39170757ca382115d221e671&v=4",
+    "location": "Kigali, Kicukiro ",
+    "company": "Rwanda ICT Chamber",
+    "twitterUsername": "",
+    "followers": 50,
+    "privateContributions": 387,
+    "publicContributions": 0,
+    "createdAt": "2022-02-01T07:03:26Z"
+  },
+  {
+    "login": "KABANOFESTO",
+    "name": "KABANO Festo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118204968?s=72&u=145e935e05f6e84734590e49cac3e7093c41d6ed&v=4",
+    "location": "Kigali City",
+    "company": "",
+    "twitterUsername": "KabanoFesto",
+    "followers": 44,
+    "privateContributions": 646,
+    "publicContributions": 659,
+    "createdAt": "2022-11-14T16:42:26Z"
+  },
+  {
+    "login": "phanuelnd",
+    "name": "Phanuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98156874?s=72&u=65f4598d5cfa18ae37bd3e234c69596b3f4bff21&v=4",
+    "location": "Kigali City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 42,
+    "privateContributions": 861,
+    "publicContributions": 24,
+    "createdAt": "2022-01-21T10:24:15Z"
+  },
+  {
+    "login": "Dorcas126",
+    "name": "Uwimbabazi Dorcas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103927814?s=72&u=ada0863318ccb1283d0dae670d227cc7f721f048&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "Dorcasuwi",
+    "followers": 41,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-18T08:36:14Z"
+  },
+  {
+    "login": "RichardIshimwe",
+    "name": "Ishimwe Richard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109044612?s=72&u=6f47498905c8ae1bc01f25625356d36b98b8bb56&v=4",
+    "location": "kigali,Nyarutarama",
+    "company": "Irembo",
+    "twitterUsername": "",
+    "followers": 37,
+    "privateContributions": 1034,
+    "publicContributions": 0,
+    "createdAt": "2022-07-10T21:26:54Z"
+  },
+  {
+    "login": "jonathanmunamire",
+    "name": "Jonathan MUNAMIRE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108567042?s=72&u=d58f28743bd434f63c96b5c2541db1bf2747425b&v=4",
+    "location": "Kigali",
+    "company": "Front-End Developer",
+    "twitterUsername": "amanimunamire",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-02T06:42:21Z"
+  },
+  {
+    "login": "DUSHIME1212",
+    "name": "Don Aime",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118371312?s=72&u=d76690fcd771e0a3a45704cd0056d0da389113b0&v=4",
+    "location": "kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 239,
+    "createdAt": "2022-11-16T14:46:16Z"
+  },
+  {
+    "login": "cedrotech1",
+    "name": "Cedrick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108525743?s=72&u=2d958d9ab0788ccf885138b73e0b66f5cc9c8af5&v=4",
+    "location": "kigali city",
+    "company": "techclick",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 73,
+    "createdAt": "2022-07-01T11:03:02Z"
+  },
+  {
+    "login": "Mr-Ndi",
+    "name": "Ninshuti Poli Ndiramiye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113962333?s=72&u=7f296f870d34fd613a90f51cc23e04cda4e1268d&v=4",
+    "location": "kigali",
+    "company": "@binaryhubrw @CSC2264 @Codeit-Girly @NexventuresLtd  @ASEITY-222",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 747,
+    "publicContributions": 290,
+    "createdAt": "2022-09-20T04:21:10Z"
+  },
+  {
+    "login": "YvesISH",
+    "name": "Yves ISHIMWE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108431344?s=72&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-06-29T19:51:23Z"
+  },
+  {
+    "login": "soleil00",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105858896?s=72&u=31cbd218abede7fdcdea6570be96874436ec4f39&v=4",
+    "location": "kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 1261,
+    "publicContributions": 26,
+    "createdAt": "2022-05-19T11:22:47Z"
+  },
+  {
+    "login": "firstthing2do",
+    "name": "Imanishimwe Aime",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114785480?s=72&u=078f8f6cd7e587824bec2aec1783cc235752880a&v=4",
+    "location": "Gasabo , Kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 10,
+    "publicContributions": 101,
+    "createdAt": "2022-10-01T00:23:53Z"
+  },
+  {
+    "login": "YvetteNyibuka",
+    "name": "Yvette IZANYIBUKA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107992107?s=72&u=db4aff47d08664f65fc25269c9fa58047afdec37&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "Yvette_nyibuka",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 275,
+    "createdAt": "2022-06-22T09:19:23Z"
+  },
+  {
+    "login": "lexnotor",
+    "name": "Alexandre Chambu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105908534?s=72&u=a3b30b5541005032424ca19b83dfb288b514ffd8&v=4",
+    "location": "Kigali",
+    "company": "Nextep solutions",
+    "twitterUsername": "lexnotor",
+    "followers": 18,
+    "privateContributions": 769,
+    "publicContributions": 53,
+    "createdAt": "2022-05-20T07:00:45Z"
+  },
+  {
+    "login": "Kibogora",
+    "name": "Kibogora Nsoro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110689752?s=72&u=9f00442e30671715ec2cc42468c23c35088791f5&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "BoldNsoro",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2022-08-05T17:30:34Z"
+  },
+  {
+    "login": "Gasorekibo",
+    "name": "Gasore Mugwaneza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113452888?s=72&u=995e3d5789c0cb5d1972f93d8292360c1cba64ff&v=4",
+    "location": "Kigali-Rwanda",
+    "company": "@alueducation",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 183,
+    "publicContributions": 646,
+    "createdAt": "2022-09-13T14:44:54Z"
+  },
+  {
+    "login": "EricNiyo73",
+    "name": "Eric NIYOKWIZERWA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106761137?s=72&u=b369c22f10e254c4941ec632d985fa2766aea272&v=4",
+    "location": "Kigali-Rwanda",
+    "company": "Ingata Technologies Ltd",
+    "twitterUsername": "EricNiyokwize10",
+    "followers": 15,
+    "privateContributions": 1674,
+    "publicContributions": 62,
+    "createdAt": "2022-06-02T15:26:31Z"
+  },
+  {
+    "login": "ambroisegithub",
+    "name": "AMBROISE Muhayimana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107347030?s=72&u=f4206981930e8baeda4ca97ca04d38a6f24db0c0&v=4",
+    "location": "KIGALI",
+    "company": "",
+    "twitterUsername": "AMBROISEMuhayi3",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2022-06-12T09:34:09Z"
+  },
+  {
+    "login": "Ishimwe-Jean-Gloire",
+    "name": "Jean Gloire Ishimwe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103770596?s=72&u=8142f55e97066ff8c43de7124167f6a8469bbc5f&v=4",
+    "location": "Kigali",
+    "company": "Eagle Code",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2022-04-15T17:04:24Z"
   }
 ]

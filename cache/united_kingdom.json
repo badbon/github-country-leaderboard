@@ -32518,5 +32518,89 @@
     "privateContributions": 1035,
     "publicContributions": 10,
     "createdAt": "2022-10-27T19:43:17Z"
+  },
+  {
+    "login": "slcambridgeuk-art",
+    "name": "Sotirios Lazarou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/239365539?s=72&u=76851aebe339610cb806c33e476d7ade69a73ac3&v=4",
+    "location": "Cambridge, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2025-10-21T13:36:55Z"
+  },
+  {
+    "login": "yfoxgit",
+    "name": "Yasmin Fox",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234437558?s=72&u=f7eb9eae968283907da90a8704dfa13c007c9335&v=4",
+    "location": "Cambridge, UK",
+    "company": "University of Cambridge",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 108,
+    "createdAt": "2025-09-25T14:53:09Z"
+  },
+  {
+    "login": "JoelBowring-Hover",
+    "name": "Joel Bowring",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214460900?s=72&v=4",
+    "location": "Cambridge, UK",
+    "company": "Hover, Inc.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 851,
+    "publicContributions": 0,
+    "createdAt": "2025-06-02T08:40:28Z"
+  },
+  {
+    "login": "ynj66",
+    "name": "Yoonjae Hwang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196968736?s=72&u=f1b0304ece964bbea970bd8822680f1fd952fefa&v=4",
+    "location": "Cambridge, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 180,
+    "createdAt": "2025-01-29T16:15:51Z"
+  },
+  {
+    "login": "brainiacmosi",
+    "name": "Mosi Shabani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/212312549?s=72&u=cfaed746331249917dd8e0693986ae0c4beb5ee6&v=4",
+    "location": "Cambridge, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2025-05-19T05:54:44Z"
+  },
+  {
+    "login": "ctrlfran",
+    "name": "francisco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213531357?s=72&u=fdb386e4350e9b943dfe900f91f6263afcb09ede&v=4",
+    "location": "Cambridge MA",
+    "company": "BIOLA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 9,
+    "publicContributions": 21,
+    "createdAt": "2025-05-27T00:37:48Z"
+  },
+  {
+    "login": "TheProductArchitect",
+    "name": "Venu Gopinath Nukavarapu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246710985?s=72&u=0ca2aea457956db1648210081aeede446428afe9&v=4",
+    "location": "Cambridge",
+    "company": "University of Cambridge",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 471,
+    "createdAt": "2025-11-28T14:43:26Z"
   }
 ]

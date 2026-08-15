@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-08-15T16:25:30.191Z
+Generated: 2026-08-15T16:39:47.918Z
 
 Users: 1290
 
@@ -10,10 +10,10 @@ Users: 1290
 | 2 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 11040 |
 | 3 | [slocker3](https://github.com/slocker3) | Stephen Locker |  |  | Kingston, WA | 10050 |
 | 4 | [eforth](https://github.com/eforth) | Ervin Forth | Healthcare EQ | ErvinForth | Jamaica | 9359 |
-| 5 | [kenoButler](https://github.com/kenoButler) | KenoB | @Appigo  |  | Kingston, Jamaica | 6918 |
+| 5 | [kenoButler](https://github.com/kenoButler) | KenoB | @Appigo  |  | Kingston, Jamaica | 6980 |
 | 6 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 6612 |
 | 7 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 5685 |
-| 8 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5021 |
+| 8 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5180 |
 | 9 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 4009 |
 | 10 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | NCB Capital Markets |  | Jamaica | 3881 |
 | 11 | [ericgreen-dev](https://github.com/ericgreen-dev) | Eric Green | Ratehub Inc. |  | Kingston Ontario | 3839 |
