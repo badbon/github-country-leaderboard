@@ -26659,7 +26659,7 @@
     "company": "IB Fire & Ice Applications LLC",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 3228,
+    "privateContributions": 3231,
     "publicContributions": 54,
     "createdAt": "2022-08-09T21:38:02Z"
   },
@@ -26803,7 +26803,7 @@
     "company": "",
     "twitterUsername": "i_amnotherenow",
     "followers": 16,
-    "privateContributions": 846,
+    "privateContributions": 851,
     "publicContributions": 127,
     "createdAt": "2022-06-13T13:09:18Z"
   },
@@ -26828,7 +26828,7 @@
     "twitterUsername": "otrsharifaminu",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 42,
     "createdAt": "2022-12-13T10:06:35Z"
   },
   {
@@ -26899,7 +26899,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 347,
+    "privateContributions": 352,
     "publicContributions": 42,
     "createdAt": "2022-10-04T22:33:34Z"
   },
@@ -26996,7 +26996,7 @@
     "twitterUsername": "iaminspiredbro",
     "followers": 15,
     "privateContributions": 17,
-    "publicContributions": 960,
+    "publicContributions": 961,
     "createdAt": "2022-06-21T20:25:09Z"
   },
   {
@@ -27056,7 +27056,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 353,
-    "publicContributions": 75,
+    "publicContributions": 76,
     "createdAt": "2022-11-04T17:19:03Z"
   },
   {
@@ -27067,7 +27067,7 @@
     "company": "",
     "twitterUsername": "GyimahGideon3",
     "followers": 14,
-    "privateContributions": 2152,
+    "privateContributions": 2153,
     "publicContributions": 35,
     "createdAt": "2022-06-23T01:59:51Z"
   },
@@ -27079,7 +27079,7 @@
     "company": "",
     "twitterUsername": "mofrimpong",
     "followers": 14,
-    "privateContributions": 701,
+    "privateContributions": 739,
     "publicContributions": 28,
     "createdAt": "2022-11-06T03:41:21Z"
   },
@@ -27427,7 +27427,7 @@
     "company": "",
     "twitterUsername": "sey_ram08",
     "followers": 11,
-    "privateContributions": 392,
+    "privateContributions": 394,
     "publicContributions": 7,
     "createdAt": "2022-08-12T07:54:08Z"
   },
@@ -27775,8 +27775,8 @@
     "company": "@jumpspaces ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 389,
-    "publicContributions": 1303,
+    "privateContributions": 400,
+    "publicContributions": 1320,
     "createdAt": "2022-11-27T11:46:00Z"
   },
   {
@@ -27824,7 +27824,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 981,
-    "publicContributions": 49,
+    "publicContributions": 52,
     "createdAt": "2022-11-08T09:47:09Z"
   },
   {
@@ -27907,7 +27907,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 24,
+    "privateContributions": 28,
     "publicContributions": 15,
     "createdAt": "2022-10-01T09:10:51Z"
   },
@@ -28027,7 +28027,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 163,
+    "privateContributions": 164,
     "publicContributions": 1,
     "createdAt": "2022-09-30T10:54:37Z"
   },
@@ -28088,7 +28088,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 239,
-    "publicContributions": 1841,
+    "publicContributions": 1845,
     "createdAt": "2022-09-25T20:09:57Z"
   },
   {
@@ -34618,5 +34618,329 @@
     "privateContributions": 1133,
     "publicContributions": 114,
     "createdAt": "2022-03-31T16:48:38Z"
+  },
+  {
+    "login": "kwadejeffrey",
+    "name": "Jeffrey Kwade",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102606134?s=72&u=22f6e81da57932ca0b06d4740b7a4b0b8350d3b9&v=4",
+    "location": "Accra",
+    "company": "Capter 31",
+    "twitterUsername": "kwade_jeffrey",
+    "followers": 17,
+    "privateContributions": 459,
+    "publicContributions": 0,
+    "createdAt": "2022-03-29T14:31:19Z"
+  },
+  {
+    "login": "nEcSiT",
+    "name": "Nicholas Dornyo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99691564?s=72&u=4e40ebc404b806f1246622d7b0257536879f409a&v=4",
+    "location": "Accra ",
+    "company": "Student",
+    "twitterUsername": "nicholasdornyo1",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2022-02-14T21:22:43Z"
+  },
+  {
+    "login": "Kojonhyiraa",
+    "name": "Kojo Nhyira Mante-Dankwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97101203?s=72&u=5c2292b843c1f527a7a574e53fe0f0f7129ed2d0&v=4",
+    "location": "Accra",
+    "company": "KTTECH",
+    "twitterUsername": "KojoNhyira7",
+    "followers": 16,
+    "privateContributions": 104,
+    "publicContributions": 308,
+    "createdAt": "2022-01-04T12:17:16Z"
+  },
+  {
+    "login": "Dametorwobla",
+    "name": "David Ametorwobla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100481080?s=72&u=7cdce267635e0d968a976590cd025c6028a5c2a5&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "dametorwobla",
+    "followers": 15,
+    "privateContributions": 95,
+    "publicContributions": 0,
+    "createdAt": "2022-02-26T15:27:56Z"
+  },
+  {
+    "login": "AkakpoErnest",
+    "name": "Akakpo Ernest",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99548059?s=72&u=a1d75d9fa3876530ebc0593348bedac14aca26cd&v=4",
+    "location": "Ho/Accra",
+    "company": "Celo Africa DAO",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 411,
+    "publicContributions": 623,
+    "createdAt": "2022-02-12T15:23:10Z"
+  },
+  {
+    "login": "rolandnii",
+    "name": "Roland Dodoo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111713857?s=72&u=fb5bb5c1641dbaae7a4378d773fd53cefddb200e&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "rolalu2",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2022-08-22T00:26:49Z"
+  },
+  {
+    "login": "torddey",
+    "name": "Evans Ampofo Torddey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105320901?s=72&u=047e31fa058b4b0a1622aab342637b88dff3d43d&v=4",
+    "location": "Accra",
+    "company": "@afrigem ",
+    "twitterUsername": "EvansTorddey",
+    "followers": 13,
+    "privateContributions": 122,
+    "publicContributions": 13,
+    "createdAt": "2022-05-10T20:59:06Z"
+  },
+  {
+    "login": "livingstone234",
+    "name": "Livingstone Seble",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103136206?s=72&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "livis_71",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2022-04-06T16:42:51Z"
+  },
+  {
+    "login": "may06-alt",
+    "name": "Mawuena Agbodeka Yao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99850097?s=72&u=c64981cbe2a833912b6131012743ce05e91ce7b6&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "Brah_may",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-17T00:54:06Z"
+  },
+  {
+    "login": "Cyril-MP",
+    "name": "Agbenyo Samuel Selase",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110900185?s=72&u=0e90e5b83c0ee353ba0a06db229370269a41f424&v=4",
+    "location": "Accra",
+    "company": "Excel Tech World",
+    "twitterUsername": "CyrilSelaseMP",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-09T09:59:35Z"
+  },
+  {
+    "login": "officialjwise",
+    "name": "DANIEL AMOAKO KODUA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106404586?s=72&u=1766f4edc68e70a38cb0d619b806e17b017bd54e&v=4",
+    "location": "Accra",
+    "company": "Anthart Solutions, Grete Solutions, MedSave Africa",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 3460,
+    "publicContributions": 238,
+    "createdAt": "2022-05-27T18:57:17Z"
+  },
+  {
+    "login": "emmanuel-odotei",
+    "name": "Emmanuel Odoi Odotei",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99666388?s=72&u=8a33be79183fac1f0569566d016f1e5981144331&v=4",
+    "location": "Accra",
+    "company": "Amalitech Ghana Ltd.",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 540,
+    "publicContributions": 49,
+    "createdAt": "2022-02-14T14:16:15Z"
+  },
+  {
+    "login": "destinydinam",
+    "name": "Destiny",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108999129?s=72&u=b46f798a2df449f0f78990dbb92d4d404cf37444&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 2652,
+    "publicContributions": 6,
+    "createdAt": "2022-07-09T19:27:52Z"
+  },
+  {
+    "login": "garveygithubit",
+    "name": "Emmanuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102570049?s=72&v=4",
+    "location": "Accra",
+    "company": "Garvey's tech",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-29T03:21:26Z"
+  },
+  {
+    "login": "GeorgeEliWilliams",
+    "name": "George Williams",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103576454?s=72&u=c749e2e8c85d5ff8007e4930a43a59c93876d8d7&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 97,
+    "createdAt": "2022-04-13T11:47:17Z"
+  },
+  {
+    "login": "Henry-Kofi",
+    "name": "anonymous",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108457313?s=72&u=8c6048ba991dd1c13007417cbf0bc96fa389f5a4&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 37,
+    "publicContributions": 8,
+    "createdAt": "2022-06-30T08:26:36Z"
+  },
+  {
+    "login": "hafsatbogobiri",
+    "name": "Hafsatbogobiri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109525718?s=72&v=4",
+    "location": "Accra-mamobi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-07-18T12:28:31Z"
+  },
+  {
+    "login": "Pazil24",
+    "name": "Cilla Azil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110994354?s=72&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2022-08-10T14:59:59Z"
+  },
+  {
+    "login": "kwagyei",
+    "name": "Kwabena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109829156?s=72&u=ecee33a692371ae1079c27d10d4ce948bd17f72e&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2022-07-22T21:47:29Z"
+  },
+  {
+    "login": "Sottie1",
+    "name": "Boaz Sottie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101402031?s=72&u=b9f4fc163fef28bb690db658fdf9bfdc6369aa36&v=4",
+    "location": "Accra",
+    "company": "@Omni-Strategies ",
+    "twitterUsername": "boaz_sottie",
+    "followers": 8,
+    "privateContributions": 2015,
+    "publicContributions": 15,
+    "createdAt": "2022-03-11T11:51:43Z"
+  },
+  {
+    "login": "dngtemple",
+    "name": "Clinton Templeton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118566801?s=72&v=4",
+    "location": "Accra",
+    "company": "ALX software engineering",
+    "twitterUsername": "dngtemple",
+    "followers": 8,
+    "privateContributions": 346,
+    "publicContributions": 83,
+    "createdAt": "2022-11-18T19:47:59Z"
+  },
+  {
+    "login": "python-benedict",
+    "name": "Benedict",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99634089?s=72&u=85d12cf489b4d033f9d816c735222151d7a98960&v=4",
+    "location": "ACCRA",
+    "company": "CRIDAD GHANA",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-14T05:25:26Z"
+  },
+  {
+    "login": "holaliamewu",
+    "name": "Amewu Emmanuel Mensah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106559125?s=72&u=ca5167ce0ddb1a2636f6a39a7514ef345adb7a32&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "amewuholali_",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 74,
+    "createdAt": "2022-05-30T20:50:00Z"
+  },
+  {
+    "login": "RosemondSiaw",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100802778?s=72&u=f9382a1f42a50d45c032a782644481925c9f620e&v=4",
+    "location": "Accra ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-02T20:23:45Z"
+  },
+  {
+    "login": "OdarteiL",
+    "name": "Odartei Lamptey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106174457?s=72&u=268bc908767bf7760f94ec10b7aa5743ca482628&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 192,
+    "publicContributions": 195,
+    "createdAt": "2022-05-24T16:08:15Z"
+  },
+  {
+    "login": "wandertechuniverse",
+    "name": "Joy Adevu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97556689?s=72&u=268d5b8abed59264f67a0747ed796b509e2ebd8e&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 477,
+    "publicContributions": 38,
+    "createdAt": "2022-01-11T20:15:46Z"
+  },
+  {
+    "login": "KwameMintah0",
+    "name": "Kwame Amoah Mintah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113153552?s=72&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-09T01:36:43Z"
   }
 ]

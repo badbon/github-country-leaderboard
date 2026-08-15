@@ -1882,5 +1882,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-05-28T20:28:40Z"
+  },
+  {
+    "login": "0x01developpeur",
+    "name": "Le développeur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49235901?s=72&u=6974bd81228f4db2a3f1fcf26d42e62ccf83cfe0&v=4",
+    "location": "Reunion Island",
+    "company": "Le Développeur",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-03T11:21:18Z"
   }
 ]

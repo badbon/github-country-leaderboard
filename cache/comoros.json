@@ -58,5 +58,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-05T01:41:36Z"
+  },
+  {
+    "login": "faustfizz",
+    "name": "Youssouf Mbaé AS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39981884?s=72&u=d37f09f1416dc97c15fc887bb29cda8ef2bd78f3&v=4",
+    "location": "Comoros ",
+    "company": "Slashz",
+    "twitterUsername": "johnnyFaustfizz",
+    "followers": 6,
+    "privateContributions": 157,
+    "publicContributions": 6,
+    "createdAt": "2018-06-06T06:13:41Z"
+  },
+  {
+    "login": "SanyaKRY",
+    "name": "SanyaKRY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41925954?s=72&u=12b139777c48072795b0b416b45c8165a5beb500&v=4",
+    "location": "Comoros",
+    "company": "Little-Little",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2018-07-30T19:40:57Z"
+  },
+  {
+    "login": "Yssoufa",
+    "name": "THABITI YSSOUFA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42383007?s=72&u=ff8ce94d65a0083040f8ead198942ebdab2e6a8a&v=4",
+    "location": "Comoros",
+    "company": "UNECA/UNIVERSITY OF COMOROS",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-08-14T14:54:41Z"
   }
 ]

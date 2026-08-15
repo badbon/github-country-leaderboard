@@ -562,5 +562,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-03-06T23:05:42Z"
+  },
+  {
+    "login": "connollyst",
+    "name": "Sean Connolly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/521747?s=72&v=4",
+    "location": "Guam, USA",
+    "company": "@Genentech ",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2010-12-13T20:58:28Z"
   }
 ]

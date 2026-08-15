@@ -2206,5 +2206,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-11T12:08:45Z"
+  },
+  {
+    "login": "jordanschermer",
+    "name": "Jordan Schermerhorn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29853652?s=72&v=4",
+    "location": "N'Djamena",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-03T06:18:53Z"
+  },
+  {
+    "login": "bokhw",
+    "name": "Ahmed Hussein",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32836566?s=72&u=6c5b0b9de039f5635039954fa389e9f2affdf033&v=4",
+    "location": "N'djamena",
+    "company": "MTN",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-16T09:51:37Z"
+  },
+  {
+    "login": "emmanou245",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32437308?s=72&u=2d6cb593ac07866edf162094793e5c49ad90b7f3&v=4",
+    "location": "N'djamena",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-01T17:19:57Z"
   }
 ]

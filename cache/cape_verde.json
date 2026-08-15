@@ -6442,5 +6442,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-10-22T20:19:34Z"
+  },
+  {
+    "login": "marcosmbbrito",
+    "name": "Marcos M. B. Brito",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8974462?s=72&u=09acf72721a80ab3a03b59974efc40c76e89fcc3&v=4",
+    "location": "Praia, Cape Verde",
+    "company": "NOSi",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 133,
+    "createdAt": "2014-09-30T16:44:51Z"
+  },
+  {
+    "login": "rogys88",
+    "name": "Rogerio Silva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9992417?s=72&u=b5f4e4d417fb6e6386ef94bca0698775ee2cf054&v=4",
+    "location": "Praia, Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 7,
+    "publicContributions": 14,
+    "createdAt": "2014-11-28T18:49:44Z"
+  },
+  {
+    "login": "IMarcelF",
+    "name": "Marcel Yekini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9383088?s=72&u=61616a16bd2ace7a9b58534e9233ee1b9ded4e3a&v=4",
+    "location": "Praia, Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2014-10-24T15:13:07Z"
+  },
+  {
+    "login": "roberto-centeio",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7656267?s=72&v=4",
+    "location": "Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-21T09:42:05Z"
   }
 ]
