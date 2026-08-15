@@ -20695,7 +20695,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 314,
+    "privateContributions": 316,
     "publicContributions": 116,
     "createdAt": "2024-12-26T07:39:35Z"
   },
@@ -20792,7 +20792,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 351,
-    "publicContributions": 271,
+    "publicContributions": 281,
     "createdAt": "2024-06-29T23:45:37Z"
   },
   {
@@ -22882,5 +22882,17 @@
     "privateContributions": 997,
     "publicContributions": 526,
     "createdAt": "2024-01-21T15:21:59Z"
+  },
+  {
+    "login": "Queue-ri",
+    "name": "Queue.ri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77003554?s=72&u=e0dddd25acdeea75ecbe4b98eb8e2530dc080369&v=4",
+    "location": "Seoul, Korea (not DPRK -_-)",
+    "company": "SSAFY 15th Seoul",
+    "twitterUsername": "",
+    "followers": 45,
+    "privateContributions": 205,
+    "publicContributions": 862,
+    "createdAt": "2021-01-05T11:52:51Z"
   }
 ]

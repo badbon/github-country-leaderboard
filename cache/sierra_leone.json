@@ -5134,5 +5134,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-09-03T00:00:00Z"
+  },
+  {
+    "login": "gokoururi",
+    "name": "Gokou Ruri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7470303?s=72&u=7060cc37fc25d889aacd6da9d0dda9aeea0d04b9&v=4",
+    "location": "Sierra Leone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-02T20:54:02Z"
+  },
+  {
+    "login": "butagreeza",
+    "name": "Francis Bangura",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10339068?s=72&u=3a55b74b35df347ca77f41b5cd4b5509d77fcdf0&v=4",
+    "location": "Freetown. Sierra Leone",
+    "company": "Byte Limited",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 4214,
+    "publicContributions": 14,
+    "createdAt": "2014-12-29T12:01:44Z"
+  },
+  {
+    "login": "Mosesvb",
+    "name": "Moses TF Vibbie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9251548?s=72&u=65827f76e6062403d7560177c11e17d96415bf08&v=4",
+    "location": "Freetown, Sierra Leone",
+    "company": "Government of Sierra Leone",
+    "twitterUsername": "mosesvb1",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-15T12:30:18Z"
+  },
+  {
+    "login": "velbon",
+    "name": "Gerald Thomas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8957923?s=72&v=4",
+    "location": "Sierra Leone ",
+    "company": "CHAF Africa ",
+    "twitterUsername": "velbon81",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-09-29T11:59:56Z"
+  },
+  {
+    "login": "Hoppersk",
+    "name": "Sheku Armani Koroma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8056809?s=72&u=2afc068c52e5238d354f81e13858f4502ba1130c&v=4",
+    "location": "Freetown, Sierra Leone",
+    "company": "iDT Labs",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-03T09:34:05Z"
+  },
+  {
+    "login": "SENJOEMUNU",
+    "name": "senjoemunu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7562877?s=72&v=4",
+    "location": "sierra leone",
+    "company": "erudite family ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-12T21:45:48Z"
   }
 ]

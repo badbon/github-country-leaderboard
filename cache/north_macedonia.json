@@ -5338,5 +5338,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-02T17:14:36Z"
+  },
+  {
+    "login": "FilipTrajanovik",
+    "name": "Filip Trajanovikj",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101196368?s=72&v=4",
+    "location": "Skopje",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 81,
+    "createdAt": "2022-03-08T14:35:59Z"
+  },
+  {
+    "login": "martin-ivanovski-deltatre",
+    "name": "Martin Ivanovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112691790?s=72&v=4",
+    "location": "Skopje",
+    "company": "Deltatre",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-02T08:45:59Z"
   }
 ]

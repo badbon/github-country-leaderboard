@@ -1150,5 +1150,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-05-01T01:54:08Z"
+  },
+  {
+    "login": "bait-archived",
+    "name": "Beryllium (Privated...)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26511843?s=72&u=b0cbe0f907623226c981f19f835f19cf44e1d5de&v=4",
+    "location": "Fontevielle, Monaco",
+    "company": "YTABYTE",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-18T22:09:51Z"
+  },
+  {
+    "login": "SilencyDev",
+    "name": "Kevin Macquet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28454117?s=72&u=e3e781d4fb0d4438e289ee68e601685a65ba3950&v=4",
+    "location": "Monaco",
+    "company": "Modulus",
+    "twitterUsername": "KvnMacquet",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2017-05-05T17:56:58Z"
+  },
+  {
+    "login": "loko06320",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28988549?s=72&u=3f1d3cc1a996b735f8591f9e35d5695adcd232d2&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-05-26T19:33:01Z"
+  },
+  {
+    "login": "MDVsoft",
+    "name": "Andreas Beranek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32441330?s=72&u=1e0ac86fa8813f1633dc7d046ac589423120d1a5&v=4",
+    "location": "Monaco",
+    "company": "MDVsoft",
+    "twitterUsername": "MDVsoft",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-01T22:02:04Z"
+  },
+  {
+    "login": "f-666",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32643484?s=72&v=4",
+    "location": "Monaco di Baviera",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-09T14:19:46Z"
+  },
+  {
+    "login": "juliencorsini",
+    "name": "Julien Corsini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30651341?s=72&u=daf7dffe6270e9b35221987b7b732a67bc3ecda9&v=4",
+    "location": "Monaco",
+    "company": "MonacoTelecom",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2017-08-02T08:11:01Z"
+  },
+  {
+    "login": "YannLeCorse",
+    "name": "Yann Dameron",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24908655?s=72&u=3fc443445dcac88f168be8253ef08c6ee4116af8&v=4",
+    "location": "Monaco",
+    "company": "Experian",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2017-01-04T05:22:10Z"
+  },
+  {
+    "login": "minduch",
+    "name": "Christopher Mindus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28196566?s=72&u=9f521781ba0da4a69b954d6d00bd0221e576737b&v=4",
+    "location": "Monaco",
+    "company": "Mindus SARL",
+    "twitterUsername": "CMindus",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2017-04-29T15:33:27Z"
+  },
+  {
+    "login": "Ghostmc1",
+    "name": "ROMANO ENERGY / ZEROWASTE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32457229?s=72&v=4",
+    "location": "Monaco",
+    "company": "ROMANO ENERGY",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2017-10-02T13:37:08Z"
   }
 ]

@@ -30322,5 +30322,53 @@
     "privateContributions": 0,
     "publicContributions": 68,
     "createdAt": "2024-07-09T21:26:09Z"
+  },
+  {
+    "login": "L4l0x",
+    "name": "Rodrigo Alonso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29641137?s=72&u=ba048961025f8c619b0d96a956c93c12df134414&v=4",
+    "location": "Panama, Argentina",
+    "company": "Empresas Carbone",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-06-22T20:18:26Z"
+  },
+  {
+    "login": "gasevilla",
+    "name": "Gustavo Antonio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37886125?s=72&v=4",
+    "location": "San Juan, Argentina",
+    "company": "UNSJ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-28T23:37:45Z"
+  },
+  {
+    "login": "mtoibero",
+    "name": "juan marcos toibero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42244664?s=72&v=4",
+    "location": "San Juan, Argentina",
+    "company": "INAUT",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-08-09T14:30:12Z"
+  },
+  {
+    "login": "lucascsd",
+    "name": "Lucas Zalazar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37088649?s=72&u=04fc82014ed5eeb0b4f010d68c1df83c27e3bbe4&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-05T22:26:45Z"
   }
 ]

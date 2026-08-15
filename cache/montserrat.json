@@ -3502,5 +3502,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-10-18T15:23:29Z"
+  },
+  {
+    "login": "wbond",
+    "name": "Will Bond",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41734?s=72&u=bde7abdd5fa3f870cd5ba584715ac46a7c7a95a9&v=4",
+    "location": "Plymouth, NH",
+    "company": "@uber",
+    "twitterUsername": "wbond",
+    "followers": 2316,
+    "privateContributions": 25,
+    "publicContributions": 146,
+    "createdAt": "2008-12-20T04:34:37Z"
+  },
+  {
+    "login": "carlism",
+    "name": "Carl Leiby",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9377?s=72&v=4",
+    "location": "Plymouth Meeting, PA",
+    "company": "",
+    "twitterUsername": "carlism",
+    "followers": 66,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-05-05T18:47:49Z"
+  },
+  {
+    "login": "jmcnevin",
+    "name": "Jeremy McNevin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12859?s=72&v=4",
+    "location": "Plymouth, MN",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2008-06-06T19:26:39Z"
   }
 ]

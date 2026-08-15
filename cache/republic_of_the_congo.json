@@ -2782,5 +2782,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-08-07T14:08:54Z"
+  },
+  {
+    "login": "junholv",
+    "name": "Junholv OBO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44445724?s=72&u=54d59749ad4e92962ec3424df4daef62a886645b&v=4",
+    "location": "Brazzaville",
+    "company": "https://github.com/WorldHealthOrganization",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2018-10-24T18:14:58Z"
+  },
+  {
+    "login": "Chancel18",
+    "name": "Gédéon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41239361?s=72&u=f86e53b9585d617a1126382fa81084c6ee1113a6&v=4",
+    "location": "Brazzaville",
+    "company": "Sigmasoft",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-07-14T17:17:25Z"
+  },
+  {
+    "login": "stiveeneta",
+    "name": "Stiveen ETA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44034806?s=72&u=133bf69b6917f38d89501153375ec539d1936a7a&v=4",
+    "location": "Brazzaville",
+    "company": "GENOS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-10T17:21:40Z"
   }
 ]
