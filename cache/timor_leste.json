@@ -394,5 +394,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-19T12:13:32Z"
+  },
+  {
+    "login": "amandio-eto",
+    "name": "Jose Amandio de Almeida",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79157197?s=72&u=c5d247f039688bd86260225338ee81311f9a8135&v=4",
+    "location": "Rua china Rate Lahane Oreintal Dili Timor Leste",
+    "company": "Esperanca Timor Oan",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 206,
+    "createdAt": "2021-02-16T15:52:58Z"
+  },
+  {
+    "login": "jlopestl",
+    "name": "Joctan Lopes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87224497?s=72&u=7659fa74a016c60d30dd190544f0947985eeb080&v=4",
+    "location": "Dili, Timor-Leste",
+    "company": "WorldFish",
+    "twitterUsername": "joctanlopes",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-10T08:15:28Z"
+  },
+  {
+    "login": "GrigorioGuterres",
+    "name": "grigirio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86569634?s=72&u=46dc198259513e87ec9a04a84993af8b98745baf&v=4",
+    "location": "Dili/timor-Leste",
+    "company": "comunity",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-27T17:57:09Z"
+  },
+  {
+    "login": "gabriel-de-jesus",
+    "name": "Gabriel de Jesus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96556577?s=72&u=686bfa1231878905b734db6116b978adf5e7d7ea&v=4",
+    "location": "Dili, Timor-Leste",
+    "company": "Timor News",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 121,
+    "createdAt": "2021-12-23T02:02:12Z"
+  },
+  {
+    "login": "mehara1411",
+    "name": "Raul Amaral",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79684808?s=72&u=0289d12695da0412168f8a57d5b48c80891263e0&v=4",
+    "location": "Timor Leste",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-26T05:54:21Z"
   }
 ]

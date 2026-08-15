@@ -3970,5 +3970,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-09-16T10:47:23Z"
+  },
+  {
+    "login": "stidiovip",
+    "name": "Tidiane SIDIBE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15898644?s=72&u=a89f40ef578e17851a90f7b960aa6cdd0a174076&v=4",
+    "location": "Bamako",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-17T23:02:15Z"
+  },
+  {
+    "login": "idykamara",
+    "name": "Idrissa KAMARA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11133946?s=72&u=5770015bfa2fab85b87a8df8a50258fabbe708e0&v=4",
+    "location": "Bamako- Kalaban Coura ACI",
+    "company": "ICOMPUTING-MALI",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-21T10:50:46Z"
+  },
+  {
+    "login": "larsheemskerk",
+    "name": "Lars Heemskerk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13448332?s=72&v=4",
+    "location": "Bamako",
+    "company": "Akvo",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-22T08:13:01Z"
+  },
+  {
+    "login": "mytuwindi",
+    "name": "Tuwindi Foundation",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12026212?s=72&u=c114960a16fcbd7589fb0a6c0b567d88ffdad9be&v=4",
+    "location": "Bamako, Maliu",
+    "company": "@tuwindi",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-20T02:34:37Z"
   }
 ]

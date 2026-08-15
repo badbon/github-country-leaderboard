@@ -1738,5 +1738,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-12T13:21:49Z"
+  },
+  {
+    "login": "maele",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13750110?s=72&v=4",
+    "location": "Maseru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2015-08-11T14:34:07Z"
+  },
+  {
+    "login": "tshata",
+    "name": "Tsepo Shata",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14198511?s=72&u=b3c4bd13ca9c8d6e2eb8bbac0ef3059bc1b93a32&v=4",
+    "location": "Maseru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-09-09T12:18:58Z"
+  },
+  {
+    "login": "seeisol",
+    "name": "Seeiso Lehlehla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16209222?s=72&u=eb3a2089192dd0d93bb544f7a33cdb7f26f4ffb3&v=4",
+    "location": "Maseru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-08T14:31:13Z"
   }
 ]

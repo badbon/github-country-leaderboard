@@ -10702,5 +10702,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-05-19T09:16:36Z"
+  },
+  {
+    "login": "Yamikani",
+    "name": "Yamikani Kunkhanda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1169865?s=72&v=4",
+    "location": "Lilongwe",
+    "company": "Lingadzi Interactive ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2011-11-03T13:59:20Z"
+  },
+  {
+    "login": "alanbakali",
+    "name": "Alan Bakali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1005252?s=72&u=2e0f6bd582db5bb189183539da01b1d4534afa04&v=4",
+    "location": "Lilongwe",
+    "company": "Reserve Bank of Malawi",
+    "twitterUsername": "jay_bakali",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2011-08-25T22:05:14Z"
+  },
+  {
+    "login": "catchit",
+    "name": "Precious Bondwe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/598176?s=72&u=5a776fbd389ece4a50e093cf090d45ed6320de83&v=4",
+    "location": "Lilongwe",
+    "company": "Freelance IT Consultant",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-03T07:10:20Z"
   }
 ]

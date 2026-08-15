@@ -7519,7 +7519,7 @@
     "company": "Remote",
     "twitterUsername": "gausoft_",
     "followers": 74,
-    "privateContributions": 10364,
+    "privateContributions": 10366,
     "publicContributions": 84,
     "createdAt": "2017-03-13T15:05:12Z"
   },
@@ -7543,7 +7543,7 @@
     "company": "Oreonyx",
     "twitterUsername": "ayenbonsoa",
     "followers": 29,
-    "privateContributions": 137,
+    "privateContributions": 140,
     "publicContributions": 5,
     "createdAt": "2017-03-08T07:47:49Z"
   },
@@ -7750,5 +7750,17 @@
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2017-09-27T15:02:11Z"
+  },
+  {
+    "login": "zoubinnaba",
+    "name": "Emmanuel Youma Zoubinnaba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27232207?s=72&v=4",
+    "location": "Lomé",
+    "company": "",
+    "twitterUsername": "zoubinnaba",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-10T18:06:25Z"
   }
 ]

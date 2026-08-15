@@ -23998,5 +23998,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-30T09:14:26Z"
+  },
+  {
+    "login": "diogomiguel93",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105163611?s=72&v=4",
+    "location": "Svizzera",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 165,
+    "createdAt": "2022-05-08T15:11:18Z"
+  },
+  {
+    "login": "BartonChenTW",
+    "name": "Barton Chen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100357623?s=72&v=4",
+    "location": "Zurich, Switzerland / Taipei, Taiwan",
+    "company": "Empa, Swiss Federal Laboratories for Materials Science and Technology",
+    "twitterUsername": "BartonChenTW",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 201,
+    "createdAt": "2022-02-24T12:49:04Z"
   }
 ]

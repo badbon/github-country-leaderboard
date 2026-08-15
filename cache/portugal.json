@@ -37678,5 +37678,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-03T11:23:06Z"
+  },
+  {
+    "login": "TomasValente",
+    "name": "REN3MIE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116099924?s=72&u=2a46c80c9485a2a445eff394ac2bf839e6f31bd9&v=4",
+    "location": "Ponte de Lima, Viana do Castelo, Portugal",
+    "company": "Universidade do Minho (Gualtar)",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2022-10-18T15:50:15Z"
+  },
+  {
+    "login": "RomanXSad",
+    "name": "Roman Sad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122885367?s=72&u=bbc30e9aaba5726a2d2b8991b36dad1896a1ab2c&v=4",
+    "location": "Porto, Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 58,
+    "publicContributions": 4,
+    "createdAt": "2023-01-17T12:48:20Z"
+  },
+  {
+    "login": "tomii070",
+    "name": "𝔗𝔬𝔪𝔞𝔰 𝔐𝔞𝔯𝔱𝔦𝔫𝔢𝔷",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129429630?s=72&u=d03a96f89795c8ef5c7e88483af3753ddd92c250&v=4",
+    "location": "Portugal",
+    "company": "@PsychoDuckTech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-30T18:08:55Z"
+  },
+  {
+    "login": "goncalodsantos",
+    "name": "Gonçalo Santos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132589407?s=72&v=4",
+    "location": "Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2023-05-04T14:43:46Z"
+  },
+  {
+    "login": "FranciscoAlbergaria",
+    "name": "Francisco Albergaria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126810504?s=72&v=4",
+    "location": "Aveiro, Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5,
+    "publicContributions": 0,
+    "createdAt": "2023-03-02T17:29:20Z"
   }
 ]

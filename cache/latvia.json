@@ -18910,5 +18910,89 @@
     "privateContributions": 1101,
     "publicContributions": 0,
     "createdAt": "2018-11-15T19:47:43Z"
+  },
+  {
+    "login": "Babashova",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37409432?s=72&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2018-03-15T14:07:47Z"
+  },
+  {
+    "login": "Metoredom",
+    "name": "Matvei",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42606931?s=72&v=4",
+    "location": "Riga, Lativa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-08-22T10:24:01Z"
+  },
+  {
+    "login": "Ryzuha",
+    "name": "Svetlana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45047712?s=72&u=6322868b2036ffd7658f78a3c02042f31460c5a9&v=4",
+    "location": "Riga",
+    "company": "Neotech Development",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-14T19:15:17Z"
+  },
+  {
+    "login": "alexandrzaspenko",
+    "name": "Alexander Zaspenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39985711?s=72&u=857a06575f29c83394ff79e7b2db79dc5e92d482&v=4",
+    "location": "Riga",
+    "company": "Zaspenko",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-06T08:08:50Z"
+  },
+  {
+    "login": "alexjansons",
+    "name": "Aleksandrs Jansons",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43913143?s=72&u=d0c6799214110627572a3e8b456d7c5190b08639&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2018-10-06T16:53:51Z"
+  },
+  {
+    "login": "krisijanis",
+    "name": "Krisijanis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38096666?s=72&u=9b870057baf9ee44dc1c5aa2457964ca9c987736&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-05T07:23:08Z"
+  },
+  {
+    "login": "timsarom",
+    "name": "Romans Timšāns",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35964733?s=72&v=4",
+    "location": "Riga",
+    "company": "Trodo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2018-01-30T14:49:43Z"
   }
 ]

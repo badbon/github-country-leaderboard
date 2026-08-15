@@ -3214,5 +3214,89 @@
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2016-09-03T20:30:13Z"
+  },
+  {
+    "login": "bechir",
+    "name": "Bechir Ba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13308700?s=72&u=dcf3e4900eae0c8540f42a6638aca0069b6bed73&v=4",
+    "location": "Mauritania",
+    "company": "@Kalbe-io",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 649,
+    "publicContributions": 8,
+    "createdAt": "2015-07-13T05:26:27Z"
+  },
+  {
+    "login": "ahmed-cheikh",
+    "name": "Ahmed Cheikh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12860696?s=72&u=355f70e117ab6d166f3eb54c772e6e651878c10e&v=4",
+    "location": "Nouakchott, Mauritania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 392,
+    "publicContributions": 1,
+    "createdAt": "2015-06-12T13:06:59Z"
+  },
+  {
+    "login": "AbdelkaderBah",
+    "name": "Kader",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14665300?s=72&u=24363dc622b75dc8aed02dffec92f06e5a39d18a&v=4",
+    "location": "Mauritania",
+    "company": "",
+    "twitterUsername": "abdelkader_mh",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2015-09-21T23:44:18Z"
+  },
+  {
+    "login": "beillahi",
+    "name": "Sidi Mohamed Beillahi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14348213?s=72&u=f5b7dd9ae07c05256251912d99a98d70937c79a1&v=4",
+    "location": "Mauritania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1823,
+    "publicContributions": 1,
+    "createdAt": "2015-09-18T13:42:58Z"
+  },
+  {
+    "login": "ouldeminou",
+    "name": "ahmed eminou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14221405?s=72&u=7b1ae3826ac4e0a9f3456cd9e385b4836de8b593&v=4",
+    "location": "nouakchott - mauritania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-10T16:45:47Z"
+  },
+  {
+    "login": "lemine39",
+    "name": "MOHAMED LEMINE Maouloud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13272821?s=72&u=eb133d42530c16a641d6fb4b42b509e38595513a&v=4",
+    "location": "Nouakchott - Mauritania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-10T11:10:08Z"
+  },
+  {
+    "login": "mdcheikh",
+    "name": "Mohamed Mahmoud M.L Cheikh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11466407?s=72&v=4",
+    "location": "Mauritania",
+    "company": "University of Nouakchott Al Aasriya",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 232,
+    "publicContributions": 1,
+    "createdAt": "2015-03-13T20:40:31Z"
   }
 ]
