@@ -274,5 +274,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-06-28T19:47:33Z"
+  },
+  {
+    "login": "TheCodingCarlson",
+    "name": "Chris Carlson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13910374?s=72&u=83e8697af8a751edcbc459b396ab58befbab3e2d&v=4",
+    "location": "Guernsey",
+    "company": "Rothschild & Co",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2015-08-21T22:23:46Z"
+  },
+  {
+    "login": "WillDereham",
+    "name": "Will Dereham",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12406349?s=72&u=29fc1cc393e724dfc2ced5ff4099ed4b6cd80bea&v=4",
+    "location": "Guernsey/Oxford",
+    "company": "@JobLabUK",
+    "twitterUsername": "WillDereham",
+    "followers": 17,
+    "privateContributions": 43,
+    "publicContributions": 0,
+    "createdAt": "2015-05-12T06:20:22Z"
+  },
+  {
+    "login": "Matthew-Collins",
+    "name": "Matthew Collins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15720355?s=72&u=46088efcc94e7553f91b9a0957a29f742bd4d5bc&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-08T22:08:22Z"
+  },
+  {
+    "login": "GlennToms",
+    "name": "Glenn Toms",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10454394?s=72&u=a411fafae8be25a48f20794d4e19f1714ddaa25e&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 261,
+    "publicContributions": 1,
+    "createdAt": "2015-01-08T19:37:29Z"
+  },
+  {
+    "login": "ZiwKerman",
+    "name": "Stepan Andreev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11242352?s=72&u=63bda18304bc120dd30076d2d455e6bc1c6be678&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-28T08:30:06Z"
+  },
+  {
+    "login": "VictoriaBrouard",
+    "name": "Victoria Brouard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16086329?s=72&u=ecbdb2b45956e72c7cef4e9ff6423f1fade71e66&v=4",
+    "location": "Guernsey, Channel Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-30T17:03:27Z"
   }
 ]

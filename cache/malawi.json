@@ -10630,5 +10630,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-09-08T12:44:12Z"
+  },
+  {
+    "login": "phundi",
+    "name": "Kenneth Kapundi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2081855?s=72&u=aa3f92f6adaa194c30d9fa8026a180587232d1bc&v=4",
+    "location": "Lilongwe",
+    "company": "Baobab Health Trust",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2012-08-02T06:21:23Z"
+  },
+  {
+    "login": "lomuaphe",
+    "name": "Ester",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1378493?s=72&v=4",
+    "location": "Lilongwe",
+    "company": "DISTMS",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-25T08:41:12Z"
+  },
+  {
+    "login": "FChirwa",
+    "name": "Fuvu Chirwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1997227?s=72&v=4",
+    "location": "Lilongwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-18T09:06:07Z"
+  },
+  {
+    "login": "benjaminndovi",
+    "name": "Benjamin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1701431?s=72&u=0d007fde6e929d14a9eb45824c2a5edfb87a550d&v=4",
+    "location": "Lilongwe",
+    "company": "GascoTech",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-05-03T07:02:12Z"
   }
 ]

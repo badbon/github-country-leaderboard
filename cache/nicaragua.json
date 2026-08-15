@@ -12334,5 +12334,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-11-06T20:16:09Z"
+  },
+  {
+    "login": "Ualb",
+    "name": "Ulises López",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33814128?s=72&u=c54bf971f9e4eeddcded83f2ae03585fceff2a6d&v=4",
+    "location": "Managua. Nic",
+    "company": "",
+    "twitterUsername": "starts_off",
+    "followers": 99,
+    "privateContributions": 33,
+    "publicContributions": 13,
+    "createdAt": "2017-11-19T21:09:46Z"
+  },
+  {
+    "login": "codefuni",
+    "name": "Code-FU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26335364?s=72&u=e45debb6a66d66f4e28a18e9664a0a56347e4cb8&v=4",
+    "location": "Universidad Nacional de Ingeniería, Managua",
+    "company": "Fundación Uno",
+    "twitterUsername": "",
+    "followers": 43,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-10T21:45:30Z"
+  },
+  {
+    "login": "rchavezriosjr",
+    "name": "Ricardo René Chávez Ríos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30061984?s=72&u=d911006df493910298e4121d6af66f0ef6154d09&v=4",
+    "location": "Managua",
+    "company": "Fundación Solidaridad Latinoamericana",
+    "twitterUsername": "hey_pitu",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2017-07-11T01:00:47Z"
+  },
+  {
+    "login": "0xlaguna",
+    "name": "Maykol Laguna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29028444?s=72&u=ea37778b7dd22f2345ced7909a8293ccf3477ab4&v=4",
+    "location": "Managua, NI",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 303,
+    "publicContributions": 29,
+    "createdAt": "2017-05-28T23:08:08Z"
+  },
+  {
+    "login": "nicaragua6002",
+    "name": "Roberto José Solís Guerrero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29666970?s=72&u=0f4ac9bb0918b5e944179c69c715dc4b86176f75&v=4",
+    "location": "Managua",
+    "company": "UNAN-Managua",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-06-23T22:05:51Z"
+  },
+  {
+    "login": "berr2808",
+    "name": "Byron Rocha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31940358?s=72&u=66f52e353a7c00d2897aca3a6102271a12f72b5a&v=4",
+    "location": "Managua,Nicargua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 365,
+    "publicContributions": 2,
+    "createdAt": "2017-09-13T23:04:55Z"
+  },
+  {
+    "login": "RDevO98",
+    "name": "Reynaldo Saúl Oporta Garzón",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31375076?s=72&u=af65f704bb86906cc5499b5b3f64873875aa70ec&v=4",
+    "location": "Managua, NI",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 502,
+    "publicContributions": 0,
+    "createdAt": "2017-08-26T19:47:20Z"
+  },
+  {
+    "login": "binemecio",
+    "name": "Nemesio Leiva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26284466?s=72&u=6d3f90dcaefe883e2acdf2ff576e9e17d183ffb3&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-08T18:47:20Z"
   }
 ]

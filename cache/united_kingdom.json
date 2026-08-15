@@ -31318,5 +31318,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-23T21:06:48Z"
+  },
+  {
+    "login": "dmrmiddleton",
+    "name": "David Middleton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15124399?s=72&v=4",
+    "location": "Guernsey, United Kingdom",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-14T12:26:49Z"
+  },
+  {
+    "login": "CONeillAQ",
+    "name": "Cormac O'Neill",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105851666?s=72&u=c780d7cc0630d65978ab5d5fb45337b137ab1429&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "@DataIntellectTech",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-19T09:03:15Z"
+  },
+  {
+    "login": "LukasAud",
+    "name": "Lukas Audzevicius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97180854?s=72&u=007932c4d0c68a0210240d24230c5caea415a988&v=4",
+    "location": "Northern Ireland",
+    "company": "Puppet",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 76,
+    "publicContributions": 435,
+    "createdAt": "2022-01-05T15:40:35Z"
+  },
+  {
+    "login": "soniafrin",
+    "name": "Mst Sonia Khatun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96987739?s=72&u=fdd86399a4b4fa1b8d43b1da6c896ab39e5b2ed8&v=4",
+    "location": "Northern Ireland, Belfast",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 213,
+    "createdAt": "2022-01-02T15:20:14Z"
+  },
+  {
+    "login": "lesley-johnston-form3",
+    "name": "Lesley Johnston ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102962025?s=72&u=df42f771588faff0df8ad0b583880311cfeed0ab&v=4",
+    "location": "Northern Ireland ",
+    "company": "Form3 ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-04T10:55:43Z"
+  },
+  {
+    "login": "EXBStudios",
+    "name": "EXBStudios",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103748542?s=72&u=9582784c988ec3c38bc8dc7eccf389c3b96c5af7&v=4",
+    "location": "United Kingdom of Great Britain and Northern Ireland",
+    "company": "EXB Studios",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1,
+    "publicContributions": 1,
+    "createdAt": "2022-04-15T11:34:23Z"
   }
 ]

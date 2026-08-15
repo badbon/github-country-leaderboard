@@ -838,5 +838,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-11-26T20:57:28Z"
+  },
+  {
+    "login": "cydolo",
+    "name": "Dolo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25271332?s=72&v=4",
+    "location": "Isle of Man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 148,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-21T20:41:02Z"
+  },
+  {
+    "login": "thomas-coldwell",
+    "name": "Thomas Coldwell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31568400?s=72&u=d44718093272d84b15e45d9f1621fa23270bde9a&v=4",
+    "location": "Isle of Man",
+    "company": "Infinium",
+    "twitterUsername": "thomas_iom",
+    "followers": 147,
+    "privateContributions": 1401,
+    "publicContributions": 17,
+    "createdAt": "2017-09-02T13:57:44Z"
+  },
+  {
+    "login": "lproven",
+    "name": "Liam Proven",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28300090?s=72&v=4",
+    "location": "Douglas, Isle of Man",
+    "company": "The Register",
+    "twitterUsername": "lproven",
+    "followers": 34,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2017-05-02T12:44:55Z"
+  },
+  {
+    "login": "kaushalgautam",
+    "name": "Kaushal Gautam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27900104?s=72&u=e3c81d4ddd856ab6a7603e6f50328e1e47345245&v=4",
+    "location": "Isle of Man",
+    "company": "PhiX Technologies",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 2,
+    "publicContributions": 5,
+    "createdAt": "2017-04-22T19:26:42Z"
+  },
+  {
+    "login": "Coinsman",
+    "name": "Joseph William",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31919101?s=72&v=4",
+    "location": "Isle of Man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-13T08:50:51Z"
+  },
+  {
+    "login": "ManninMediacom",
+    "name": "ManninMedia.com",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26656538?s=72&u=9adf62de449af1061ca5d0570432318739ab3347&v=4",
+    "location": "Isle of Man",
+    "company": "ManninMedia.com",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-24T16:28:05Z"
+  },
+  {
+    "login": "samuelnubSNHS",
+    "name": "Samuel Yap",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33523892?s=72&u=6d9d775e774442c55c2c03a21f4491ed2adbf318&v=4",
+    "location": "Douglas, Isle of Man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-09T16:34:43Z"
+  },
+  {
+    "login": "aantia",
+    "name": "Alexander Antia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34405368?s=72&v=4",
+    "location": "Isle of Man",
+    "company": "CabCard Services",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 657,
+    "publicContributions": 12,
+    "createdAt": "2017-12-09T21:42:49Z"
   }
 ]

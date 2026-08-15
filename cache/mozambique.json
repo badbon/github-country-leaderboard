@@ -12331,7 +12331,7 @@
     "company": "@Python-Maputo ",
     "twitterUsername": "SitoeNelzio",
     "followers": 49,
-    "privateContributions": 97,
+    "privateContributions": 106,
     "publicContributions": 9,
     "createdAt": "2016-11-01T07:36:32Z"
   },
@@ -12667,7 +12667,7 @@
     "company": "",
     "twitterUsername": "FausioPaco",
     "followers": 3,
-    "privateContributions": 1394,
+    "privateContributions": 1395,
     "publicContributions": 0,
     "createdAt": "2016-07-28T19:20:40Z"
   },
@@ -12814,5 +12814,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-12-05T07:14:37Z"
+  },
+  {
+    "login": "herquiloidehele",
+    "name": "Herquiloide Hele",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23740775?s=72&u=7a1e6ff998f3bf6bfc28224e45024564d3fd7df1&v=4",
+    "location": "Mocambique - Maputo",
+    "company": "Wit Software",
+    "twitterUsername": "",
+    "followers": 82,
+    "privateContributions": 869,
+    "publicContributions": 564,
+    "createdAt": "2016-11-25T13:31:40Z"
+  },
+  {
+    "login": "Valente6305",
+    "name": "Valente Cuambe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20662186?s=72&u=e47c77ad54c5880aaa5c7c43646e88e872a610f0&v=4",
+    "location": "Maputo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-26T12:07:42Z"
+  },
+  {
+    "login": "DanikOfficial",
+    "name": "Pete João Chiboleca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18194047?s=72&u=d15cab42869d5a92c872cefba73bd51b01d26ec4&v=4",
+    "location": "Maputo/Mozanbique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 29,
+    "publicContributions": 85,
+    "createdAt": "2016-03-31T16:18:45Z"
+  },
+  {
+    "login": "nmuianga",
+    "name": "Nilvandro Muianga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21192973?s=72&u=cf327d188c13057a3161c3ef5a5bf69d4d61406e&v=4",
+    "location": "Maputo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2016-08-23T08:42:32Z"
+  },
+  {
+    "login": "ismaelchaquir",
+    "name": "ismael chaquir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21342696?s=72&u=091a9b274b5bf6abdc78e3dd5c4a2643f8cf6c46&v=4",
+    "location": "Maputo",
+    "company": "",
+    "twitterUsername": "IChaquir",
+    "followers": 6,
+    "privateContributions": 115,
+    "publicContributions": 7,
+    "createdAt": "2016-08-30T16:53:01Z"
+  },
+  {
+    "login": "Mvxt1",
+    "name": "Melvin Chongo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22597065?s=72&v=4",
+    "location": "Maputo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-03T16:02:32Z"
+  },
+  {
+    "login": "c4rlos-incrivel",
+    "name": "Carlos Gaide Manhique",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17307013?s=72&u=976710839252a271179533946ee1e80b4c8994c6&v=4",
+    "location": "Maputo, Moçambique",
+    "company": "CM33AI",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2016-02-18T03:06:21Z"
+  },
+  {
+    "login": "Kakau-Oo",
+    "name": "Claudia Cossa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22320756?s=72&u=a86e915c0c13b2bc87a8ba5c9c44b5f46f80e489&v=4",
+    "location": "Maputo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-20T12:06:06Z"
   }
 ]

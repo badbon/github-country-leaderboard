@@ -3910,5 +3910,65 @@
     "privateContributions": 988,
     "publicContributions": 4,
     "createdAt": "2016-10-26T19:41:39Z"
+  },
+  {
+    "login": "IbrahimMaiga",
+    "name": "Ibrahim Maiga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12346624?s=72&v=4",
+    "location": "Bamako, Mali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-05-08T15:40:57Z"
+  },
+  {
+    "login": "sic-sic",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14206274?s=72&u=f53bf35d1bab934f08e54f090f6e67dda7f9b535&v=4",
+    "location": "Mali, Bamako",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-09-09T20:46:47Z"
+  },
+  {
+    "login": "tilio3x",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16158866?s=72&v=4",
+    "location": "Bamako, Mali",
+    "company": "TIDISOFT",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2015-12-04T21:41:06Z"
+  },
+  {
+    "login": "lukekone",
+    "name": "Luke Tamou Koné",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15522642?s=72&u=f828b65c0fdc577e28b8cd480ffd5dab09d2f00b&v=4",
+    "location": "Mali",
+    "company": "We're Solution",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-31T14:29:35Z"
+  },
+  {
+    "login": "fode20144",
+    "name": "SANOGO Fodé",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14311179?s=72&u=9836b742d11340b054d769ebc225b9a7f616b9a9&v=4",
+    "location": "MALI",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-16T10:47:23Z"
   }
 ]

@@ -4726,5 +4726,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-02-16T11:30:46Z"
+  },
+  {
+    "login": "boyeClaude",
+    "name": "Frederic Boye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25248586?s=72&u=9850d9f6c0b86ddf6f37a653e8b2d531c4e347da&v=4",
+    "location": "Ivory Coast",
+    "company": "",
+    "twitterUsername": "the_boye_",
+    "followers": 138,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2017-01-20T14:30:59Z"
+  },
+  {
+    "login": "freddydrodev",
+    "name": "Freddy Dro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33545132?s=72&u=d69dd4041dba5f5a4f2857f23143f2d1ccd3556d&v=4",
+    "location": "Ivory Coast",
+    "company": "@app-tailors @native-storm ",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 2373,
+    "publicContributions": 46,
+    "createdAt": "2017-11-10T10:48:29Z"
+  },
+  {
+    "login": "Elfn",
+    "name": "Elimane Fofana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29838473?s=72&u=6b294a21d96a1d7d1b4004fb4d9a9c45829458bb&v=4",
+    "location": "Ivory Coast",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 164,
+    "publicContributions": 8,
+    "createdAt": "2017-07-02T14:39:58Z"
+  },
+  {
+    "login": "kevariste225",
+    "name": "Evariste Kouadio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31047253?s=72&v=4",
+    "location": "Abidjan, Ivory Coast",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2017-08-15T19:26:10Z"
   }
 ]
