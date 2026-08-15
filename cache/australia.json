@@ -40306,5 +40306,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-09T10:30:42Z"
+  },
+  {
+    "login": "JMN-01",
+    "name": "Jonathan M Nali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179003326?s=72&u=c761a8493bd276553010601ebb1b45c89a5b02bc&v=4",
+    "location": "Melbourne, AU",
+    "company": "Torrens University Australia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2024-08-21T11:43:35Z"
+  },
+  {
+    "login": "kirtanshah-1",
+    "name": "Kirtan Shah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169428768?s=72&v=4",
+    "location": "Melbourne",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 330,
+    "publicContributions": 19,
+    "createdAt": "2024-05-10T05:46:57Z"
   }
 ]

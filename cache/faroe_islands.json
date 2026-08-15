@@ -334,5 +334,41 @@
     "privateContributions": 1051,
     "publicContributions": 1683,
     "createdAt": "2017-03-19T01:41:30Z"
+  },
+  {
+    "login": "Niflheimrx",
+    "name": "Niflheimrx",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22873437?s=72&u=e79dd232d5443101ea9adb18e97e04d02d0b4d55&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 96,
+    "publicContributions": 3,
+    "createdAt": "2016-10-16T19:04:57Z"
+  },
+  {
+    "login": "Marimuda",
+    "name": "Jákup Svøðstein",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24231136?s=72&v=4",
+    "location": "Faroe islands ",
+    "company": "University of Faroe islands",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 165,
+    "createdAt": "2016-11-28T17:43:48Z"
+  },
+  {
+    "login": "c-zz-u-zz-t",
+    "name": "Cut",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20896228?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-08T02:46:40Z"
   }
 ]

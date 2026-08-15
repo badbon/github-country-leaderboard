@@ -574,5 +574,17 @@
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2010-12-13T20:58:28Z"
+  },
+  {
+    "login": "g6",
+    "name": "George Lujan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139917?s=72&v=4",
+    "location": "Guam",
+    "company": "Guam Technology Associates Inc.",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-10-14T22:53:21Z"
   }
 ]

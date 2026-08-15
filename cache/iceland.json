@@ -4822,5 +4822,41 @@
     "privateContributions": 0,
     "publicContributions": 98,
     "createdAt": "2019-02-05T22:19:53Z"
+  },
+  {
+    "login": "Daviderikmollberg",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51239565?s=72&u=854c8738018e3606e80a4ed9d61690ed36a5d746&v=4",
+    "location": "Reykjavik",
+    "company": "Íslandsbanki",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-05-31T15:00:16Z"
+  },
+  {
+    "login": "sepaas2019",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54255378?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-19T02:24:10Z"
+  },
+  {
+    "login": "ava107",
+    "name": "Proval",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58780407?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "Proval",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-11T14:49:44Z"
   }
 ]

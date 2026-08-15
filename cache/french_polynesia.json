@@ -550,5 +550,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-03-19T06:04:09Z"
+  },
+  {
+    "login": "ch4mpy",
+    "name": "Jérôme Wacongne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5754307?s=72&v=4",
+    "location": "Papeete, French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 115,
+    "privateContributions": 0,
+    "publicContributions": 294,
+    "createdAt": "2013-10-23T08:17:36Z"
+  },
+  {
+    "login": "TToarii",
+    "name": "TAU Toarii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3897988?s=72&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-18T10:55:54Z"
+  },
+  {
+    "login": "geoffguillain",
+    "name": "Geoff",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4668242?s=72&u=ce7d9799415caf76a888a153a3c8531af657efaa&v=4",
+    "location": "French Polynesia",
+    "company": "Automattic",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 285,
+    "publicContributions": 15,
+    "createdAt": "2013-06-11T07:44:29Z"
+  },
+  {
+    "login": "jaffadog",
+    "name": "Jeremy Waters",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5514342?s=72&u=dae42d10cb5a42a37572c1ca055110f91d22e004&v=4",
+    "location": "Tahanea, Tuamotus, French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 440,
+    "publicContributions": 363,
+    "createdAt": "2013-09-22T20:06:51Z"
   }
 ]

@@ -3670,5 +3670,41 @@
     "privateContributions": 1997,
     "publicContributions": 1,
     "createdAt": "2014-08-16T06:53:44Z"
+  },
+  {
+    "login": "El-Georges97",
+    "name": "El Georges William Rausenfeld",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4569381?s=72&u=856e185067695662970903bb8b4f90e79fafc0d9&v=4",
+    "location": "Gabon - Libreville",
+    "company": "Code Fisher, Inc",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-05-30T10:25:48Z"
+  },
+  {
+    "login": "masalan",
+    "name": "Alain Serge",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5101797?s=72&u=e64b2b5572456e52ba9efc4a5f26d81da314be57&v=4",
+    "location": "Gabon",
+    "company": "53webs",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-27T09:25:06Z"
+  },
+  {
+    "login": "busabos",
+    "name": "busabos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3624116?s=72&u=dcda9e83dd98109a4091d8f13b8a96720588ca3a&v=4",
+    "location": "Gabon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-18T08:11:20Z"
   }
 ]

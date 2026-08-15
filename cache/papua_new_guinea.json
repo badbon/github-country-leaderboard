@@ -3478,5 +3478,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-03-02T17:12:52Z"
+  },
+  {
+    "login": "sylvery",
+    "name": "Sylver Yagi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6283107?s=72&u=4d8b33861f5abe5c9d1410cf5de22859a0ef3e50&v=4",
+    "location": "Papua New Guinea",
+    "company": "Sudo Tech",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2013-12-29T22:58:01Z"
+  },
+  {
+    "login": "onechrisjones",
+    "name": "Christopher Jones",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4848043?s=72&u=f08c683169d4b4b792f71db365acae76056fddce&v=4",
+    "location": "East Sepik Province, Papua New Guinea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2013-06-27T08:50:50Z"
   }
 ]

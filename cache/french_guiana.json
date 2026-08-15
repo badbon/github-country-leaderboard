@@ -370,5 +370,41 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2014-02-27T12:24:12Z"
+  },
+  {
+    "login": "Shyrka973",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5006726?s=72&v=4",
+    "location": "Kourou / French Guiana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2013-07-14T12:11:29Z"
+  },
+  {
+    "login": "tpape",
+    "name": "Thomas Pape",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6071630?s=72&u=0e9678cd1e84c6a21ddc0c2419d3347b846449d3&v=4",
+    "location": "Saint Laurent du Maroni, French Guiana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-30T08:23:44Z"
+  },
+  {
+    "login": "aschounette1D",
+    "name": "aschou'euh :)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5160675?s=72&v=4",
+    "location": "kourou, french guiana",
+    "company": "college henri agarande",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-04T17:00:20Z"
   }
 ]

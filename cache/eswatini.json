@@ -682,5 +682,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-12-26T10:20:15Z"
+  },
+  {
+    "login": "Wandile-cyber",
+    "name": "Wandile Ralph Dlamini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71272656?s=72&u=1437e2334d9659890b9bd2dd212c5be479ab7af1&v=4",
+    "location": "Mbabane, Swaziland",
+    "company": "Onswaziline",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 135,
+    "publicContributions": 19,
+    "createdAt": "2020-09-14T14:01:58Z"
+  },
+  {
+    "login": "Dalubuhle-Dlamini",
+    "name": "Sihlelo Dalubuhle Dlamini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68609913?s=72&u=290b0ea2dbb0a675b5283b5b5e879aefdf327921&v=4",
+    "location": "Swaziland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 287,
+    "publicContributions": 16,
+    "createdAt": "2020-07-21T17:36:52Z"
   }
 ]
