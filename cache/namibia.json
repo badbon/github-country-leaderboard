@@ -4882,5 +4882,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-15T10:00:57Z"
+  },
+  {
+    "login": "CaloloCosta",
+    "name": "Carlos da Costa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22982481?s=72&u=b40c1753d7dcd29ccd2d13f5acc0b38b91844e7b&v=4",
+    "location": "Windhoek",
+    "company": "MTC",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 9,
+    "publicContributions": 0,
+    "createdAt": "2016-10-21T13:46:55Z"
+  },
+  {
+    "login": "Tiramimz",
+    "name": "TangeniTheTechnician",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18440871?s=72&u=987ed76de063d74d7da719ac92a08c1a923ecfc5&v=4",
+    "location": "Windhoek",
+    "company": "University of Namibia",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-13T11:18:49Z"
+  },
+  {
+    "login": "kambele",
+    "name": "Matt Shigwedha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19666417?s=72&v=4",
+    "location": "Windhoek",
+    "company": "NAMFISA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-31T11:30:20Z"
   }
 ]

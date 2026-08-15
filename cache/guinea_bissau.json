@@ -238,5 +238,29 @@
     "privateContributions": 214,
     "publicContributions": 17,
     "createdAt": "2017-10-10T22:23:30Z"
+  },
+  {
+    "login": "augoju",
+    "name": "Augusto Gomes Júnior",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23171424?s=72&u=1203949f74cda683ee9613efd2f902f26357ea2d&v=4",
+    "location": "Guiné-Bissau",
+    "company": "DJEMBEREM DE IoT",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-31T14:48:35Z"
+  },
+  {
+    "login": "laurentino-dev",
+    "name": "Laurentino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22511946?s=72&u=a82581f4e8e2e747992158389d190fd85ab91021&v=4",
+    "location": "Bissau",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2233,
+    "publicContributions": 53,
+    "createdAt": "2016-09-29T02:19:09Z"
   }
 ]

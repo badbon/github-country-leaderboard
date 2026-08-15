@@ -3130,5 +3130,29 @@
     "privateContributions": 167,
     "publicContributions": 5,
     "createdAt": "2016-03-20T14:13:49Z"
+  },
+  {
+    "login": "jsemos",
+    "name": "JJ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24645530?s=72&u=02416ec4cd8e5377c11227e333cef16cb49eb143&v=4",
+    "location": "Port Moresby",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2016-12-19T06:06:15Z"
+  },
+  {
+    "login": "jackzii0224",
+    "name": "Kaiva Kweb",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18239185?s=72&v=4",
+    "location": "Waigani, Port Moresby",
+    "company": "University of Papua New Guinea",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2016-04-03T03:15:21Z"
   }
 ]

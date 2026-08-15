@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-08-15T14:02:46.615Z
+Generated: 2026-08-15T14:20:02.633Z
 
 Users: 1290
 
@@ -16,7 +16,7 @@ Users: 1290
 | 8 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5021 |
 | 9 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 4009 |
 | 10 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | NCB Capital Markets |  | Jamaica | 3881 |
-| 11 | [ericgreen-dev](https://github.com/ericgreen-dev) | Eric Green | Ratehub Inc. |  | Kingston Ontario | 3801 |
+| 11 | [ericgreen-dev](https://github.com/ericgreen-dev) | Eric Green | Ratehub Inc. |  | Kingston Ontario | 3839 |
 | 12 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 3778 |
 | 13 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Tommy Gooden |  | Jamaica | 3625 |
 | 14 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | @Konnexx-Software-Developers  |  | Jamaica | 3612 |

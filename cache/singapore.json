@@ -2275,8 +2275,8 @@
     "company": "@NeaDigitra",
     "twitterUsername": "NeaByteLab",
     "followers": 28,
-    "privateContributions": 6948,
-    "publicContributions": 1965,
+    "privateContributions": 6996,
+    "publicContributions": 1983,
     "createdAt": "2025-04-30T05:16:37Z"
   },
   {
@@ -15668,7 +15668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1461,
-    "publicContributions": 117,
+    "publicContributions": 120,
     "createdAt": "2024-01-05T16:13:57Z"
   },
   {
@@ -16220,7 +16220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 145,
-    "publicContributions": 340,
+    "publicContributions": 341,
     "createdAt": "2024-02-18T16:40:02Z"
   },
   {
@@ -16352,7 +16352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 956,
+    "publicContributions": 972,
     "createdAt": "2024-08-12T02:45:38Z"
   },
   {
@@ -17710,5 +17710,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-12-15T09:29:09Z"
+  },
+  {
+    "login": "PetrinaaaKoh",
+    "name": "Petrina Koh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183484213?s=72&v=4",
+    "location": "Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2024-10-01T09:25:17Z"
   }
 ]

@@ -16051,7 +16051,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 807,
+    "privateContributions": 816,
     "publicContributions": 6,
     "createdAt": "2019-02-05T07:19:49Z"
   },
@@ -16474,5 +16474,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-30T15:55:10Z"
+  },
+  {
+    "login": "wdewitte-1",
+    "name": "moi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57419454?s=72&u=faaf09b980c25e80c8cdc082b85ee66319062632&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2019-11-05T22:17:36Z"
+  },
+  {
+    "login": "Norfo4ik",
+    "name": "Artem Konovchenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53697714?s=72&u=27340558d1697433be54a8a5f1f2abbfee252de5&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 22,
+    "publicContributions": 26,
+    "createdAt": "2019-08-04T11:29:33Z"
+  },
+  {
+    "login": "WovenHeart",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47423942?s=72&u=917f9b2bfdae45936faa2c442c0c66e8953a1ba4&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-07T15:05:47Z"
+  },
+  {
+    "login": "mehmetdikici",
+    "name": "Mehmet Dikici",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47177387?s=72&u=7249a7cebede7cd31c96bfbc10165974bfcef3fa&v=4",
+    "location": "Riga, LV",
+    "company": "Riga Technical University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-30T11:05:28Z"
+  },
+  {
+    "login": "farasmart",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48124833?s=72&u=e8bdc7465149401f3fb174fc1fb55080a15b0ca6&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 0,
+    "createdAt": "2019-03-01T11:48:31Z"
   }
 ]

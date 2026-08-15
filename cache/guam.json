@@ -526,5 +526,29 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2013-03-29T23:32:31Z"
+  },
+  {
+    "login": "jasonsalas",
+    "name": "Jason Salas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1981146?s=72&u=7fbb11410bf240d18421a342464644bdcfab525a&v=4",
+    "location": "Guam",
+    "company": "KUAM News",
+    "twitterUsername": "jasonsalas",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-16T00:50:23Z"
+  },
+  {
+    "login": "dagogue671",
+    "name": "David Gogue",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2181022?s=72&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 47,
+    "createdAt": "2012-08-20T03:15:28Z"
   }
 ]

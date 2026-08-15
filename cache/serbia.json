@@ -20602,5 +20602,29 @@
     "privateContributions": 0,
     "publicContributions": 84,
     "createdAt": "2022-12-01T18:04:00Z"
+  },
+  {
+    "login": "sergei-vasilev-dev",
+    "name": "Sergei Vasilev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98395452?s=72&u=241fa3ff13113cea81625144e41ca8b3ba46615d&v=4",
+    "location": "Serbia",
+    "company": "@dualboot-partners ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1473,
+    "publicContributions": 12,
+    "createdAt": "2022-01-25T11:42:32Z"
+  },
+  {
+    "login": "antonicnenad",
+    "name": "Nenad Antonic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97893027?s=72&u=a85e3523ea605219fec4d2d03ab5b2bdb7bde0bb&v=4",
+    "location": "Novi Sad, Serbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-17T13:16:56Z"
   }
 ]

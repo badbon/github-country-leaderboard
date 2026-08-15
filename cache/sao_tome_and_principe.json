@@ -214,5 +214,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2019-04-26T18:12:11Z"
+  },
+  {
+    "login": "manoxum",
+    "name": "Daniel Costa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17088320?s=72&u=7a3a55b04df34cd86ca9a4da62dce22f5453627e&v=4",
+    "location": "São Tomé e Pricipe",
+    "company": "BRAINSOFTSTP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 499,
+    "createdAt": "2016-02-05T18:32:23Z"
+  },
+  {
+    "login": "USTP",
+    "name": "USTP - Universidade de São Tomé e Principe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23743024?s=72&v=4",
+    "location": "São Tomé e Principe, São Tomé",
+    "company": "USTP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-25T15:58:11Z"
   }
 ]
