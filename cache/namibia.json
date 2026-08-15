@@ -5374,5 +5374,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-01-27T10:22:06Z"
+  },
+  {
+    "login": "rigred",
+    "name": "Rigo Reddig",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5716332?s=72&u=bfecc0c8dac5055c810a7aea8c4edf3cc56ac9cc&v=4",
+    "location": "Namibia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2013-10-18T07:45:19Z"
+  },
+  {
+    "login": "i-amolo",
+    "name": "Innocent J. Blacius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3223679?s=72&u=12e8246f92f27c7b780298d9f9284430ec263f75&v=4",
+    "location": "Windhoek - Namibia",
+    "company": "Mobile Telecommunications Company (MTC)",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2013-01-09T08:16:35Z"
+  },
+  {
+    "login": "melkisedek",
+    "name": "Melkisedek Hamakali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3831918?s=72&u=5b7eac98c07ff1ff0c104ab7545fa923d7397f6d&v=4",
+    "location": "Namibia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-03-11T13:13:23Z"
+  },
+  {
+    "login": "rvs1257",
+    "name": "Rudi Steinbach",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5717200?s=72&v=4",
+    "location": "Namibia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 3997,
+    "publicContributions": 1,
+    "createdAt": "2013-10-18T09:52:09Z"
+  },
+  {
+    "login": "mikemost",
+    "name": "Michael Mutale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5286151?s=72&v=4",
+    "location": "Windhoek, Namibia",
+    "company": "MKM Thunderbird Trading CC",
+    "twitterUsername": "mkmutale",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2013-08-22T11:30:21Z"
+  },
+  {
+    "login": "Outalla",
+    "name": "Delano January",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6010016?s=72&u=7dddd4b499e42224773f60806208a32ae7efabf0&v=4",
+    "location": "USA/Namibia",
+    "company": "Edge Technology Solutions",
+    "twitterUsername": "EdgeTechnology7",
+    "followers": 1,
+    "privateContributions": 7,
+    "publicContributions": 0,
+    "createdAt": "2013-11-22T12:19:04Z"
+  },
+  {
+    "login": "mastermind64222",
+    "name": "Heinrich Naatwilwe Aluvilu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5749002?s=72&u=45a8883262dab7aa4e7581507a3b877de50c39f6&v=4",
+    "location": "Windhoek, Namibia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-22T16:46:12Z"
   }
 ]

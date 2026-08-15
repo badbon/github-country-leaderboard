@@ -11518,5 +11518,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-10-27T19:17:43Z"
+  },
+  {
+    "login": "alsarmi",
+    "name": "Haitham AL-Sarmi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8133575?s=72&u=741ba1d548e4cbd2987422e58d30646e488b5d61&v=4",
+    "location": "Muscat",
+    "company": "National Company For Systems and Solutions",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2014-07-11T09:03:09Z"
+  },
+  {
+    "login": "batashi",
+    "name": "Ahmed alBattashi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6708191?s=72&u=54d4b4531ed2675aca02c12226eb797be30c6bc6&v=4",
+    "location": "Muscat",
+    "company": "data2cloud",
+    "twitterUsername": "Ahmed_alBatashi",
+    "followers": 3,
+    "privateContributions": 5,
+    "publicContributions": 10,
+    "createdAt": "2014-02-17T19:01:00Z"
   }
 ]

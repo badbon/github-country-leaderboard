@@ -106,5 +106,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-07-10T21:02:06Z"
+  },
+  {
+    "login": "edper",
+    "name": "Edper",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5952771?s=72&u=b3767025058596dbdab8c38811786a22749d6080&v=4",
+    "location": "Federated States of Micronesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 3,
+    "publicContributions": 0,
+    "createdAt": "2013-11-16T02:50:07Z"
+  },
+  {
+    "login": "heyesr",
+    "name": "Richard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4963884?s=72&v=4",
+    "location": "Federated States of Micronesia",
+    "company": "",
+    "twitterUsername": "_rgraph",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2013-07-08T10:19:17Z"
   }
 ]

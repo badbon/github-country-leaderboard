@@ -31630,5 +31630,41 @@
     "privateContributions": 90,
     "publicContributions": 104,
     "createdAt": "2021-03-16T13:48:50Z"
+  },
+  {
+    "login": "samodostal",
+    "name": "Samuel Dostál",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44208530?s=72&u=176ce5bb44a81d743b98165d53f7bc8b2439656d&v=4",
+    "location": "Brno, Czechia | Bratislava, Slovakia",
+    "company": "Ciklum Western Europe | CN Group CZ",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 60,
+    "publicContributions": 68,
+    "createdAt": "2018-10-16T17:24:25Z"
+  },
+  {
+    "login": "TommYDeeee",
+    "name": "Tomáš Ďuriš",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43439972?s=72&u=badbc48b9c8916592825c19cda10ab2024dfe28c&v=4",
+    "location": "Brno, Czech Republic / Banská Bystrica, Slovakia",
+    "company": "Gen",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 13,
+    "publicContributions": 35,
+    "createdAt": "2018-09-20T10:57:58Z"
+  },
+  {
+    "login": "ndopj",
+    "name": "Norbert Dopjera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46056966?s=72&u=7f5cc996e647971f45331b52bd1a72419af21de1&v=4",
+    "location": "Slovakia/Czech Republic",
+    "company": "Kiwi.com",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 735,
+    "publicContributions": 0,
+    "createdAt": "2018-12-21T20:11:02Z"
   }
 ]

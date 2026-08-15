@@ -39346,5 +39346,41 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2025-11-14T08:33:48Z"
+  },
+  {
+    "login": "GianLucaVitale000",
+    "name": "Gian Luca Vitale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164628034?s=72&u=f16119d8c4275a1f2d62878812b6ecf859ac8613&v=4",
+    "location": "Bologna, Italy | Loire (42), France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 135,
+    "createdAt": "2024-03-23T10:49:17Z"
+  },
+  {
+    "login": "Digigram-audio",
+    "name": "DIGIGRAM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16539412?s=72&u=2571238c9f9b5be686d20dc6b8b3428aff463295&v=4",
+    "location": "Montbonnot-Saint-Martin, Isère, France",
+    "company": "",
+    "twitterUsername": "digigram",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-04T12:17:17Z"
+  },
+  {
+    "login": "f4fhh",
+    "name": "Nicolas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16940469?s=72&u=9a25f024e359f8b8afaadcfcb2a1545d9d98752c&v=4",
+    "location": "Saint Martin le Vinoux, France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 8,
+    "publicContributions": 1,
+    "createdAt": "2016-01-28T15:29:03Z"
   }
 ]

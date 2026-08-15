@@ -370,5 +370,29 @@
     "privateContributions": 10,
     "publicContributions": 49,
     "createdAt": "2020-05-25T04:10:18Z"
+  },
+  {
+    "login": "Pallavi-prog",
+    "name": "Pallavi Atkarne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60668886?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-02-04T18:53:03Z"
+  },
+  {
+    "login": "jlecornu3",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68903382?s=72&u=fe113f52d6181cb704877a3b58451a75ad3b2911&v=4",
+    "location": "London / Jersey",
+    "company": "ExodusPoint Capital Management",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-07-28T10:38:13Z"
   }
 ]
