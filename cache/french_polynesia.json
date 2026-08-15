@@ -358,5 +358,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-06-15T14:14:09Z"
+  },
+  {
+    "login": "jebouin",
+    "name": "Jeremy Bouin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23281929?s=72&u=3f63a678bc6a4ae084d5299ce1f85b15c736f818&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-05T17:31:27Z"
+  },
+  {
+    "login": "HURIMOZ",
+    "name": "Huri Translations",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18280315?s=72&v=4",
+    "location": "Mo'orea, French Polynesia",
+    "company": "Huri Translations",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2016-04-05T07:10:16Z"
+  },
+  {
+    "login": "wedesign-pf",
+    "name": "Wedesign",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16567837?s=72&u=d49bdfdd202c91090baabf4dfa012fd9b24bbce4&v=4",
+    "location": "Tahiti, French Polynesia",
+    "company": "Wedesign",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-06T00:59:21Z"
   }
 ]

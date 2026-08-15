@@ -2002,5 +2002,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-06T14:46:41Z"
+  },
+  {
+    "login": "borkounou",
+    "name": "Cherif hassan Nousradine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44311725?s=72&u=f3e7725c2819f168cd157a994e692c04593e7ae2&v=4",
+    "location": "Ndjamena, Chad",
+    "company": "Mahrasoft  Innovations",
+    "twitterUsername": "borkounou",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2018-10-20T05:49:06Z"
+  },
+  {
+    "login": "mouazmikail",
+    "name": "Mikail",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45897030?s=72&u=744c53da4f87812525ac8fdb6a3aa8720a78852f&v=4",
+    "location": "CHAD",
+    "company": "ENASTIC",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2018-12-15T12:46:11Z"
+  },
+  {
+    "login": "steve-nanou",
+    "name": "Steve NANOUDJAL",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39991481?s=72&u=3f4b52f5a49bd5e41aa5771cb853157e6668eab6&v=4",
+    "location": "Chad",
+    "company": "African Master of Machine Intelligence at the African Institute for Mathematical Science (AIMS)",
+    "twitterUsername": "stevenanoudjal",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-06T11:19:50Z"
+  },
+  {
+    "login": "abdelrahim01",
+    "name": "Abdelrahim Senoussi ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35397560?s=72&v=4",
+    "location": "Chad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-13T11:38:28Z"
+  },
+  {
+    "login": "SAbakar",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40408076?s=72&v=4",
+    "location": "chad",
+    "company": "syntalsoft",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-19T21:16:15Z"
   }
 ]

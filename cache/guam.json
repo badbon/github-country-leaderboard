@@ -490,5 +490,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-12-13T06:19:28Z"
+  },
+  {
+    "login": "xiaden",
+    "name": "Lucian Hardy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3605480?s=72&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1056,
+    "createdAt": "2013-02-15T19:40:32Z"
+  },
+  {
+    "login": "jimbowatusi",
+    "name": "Jim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4571418?s=72&u=87f3447f5f4aba5639d804ed8fb1c7a9c14e5f07&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-05-30T14:33:44Z"
+  },
+  {
+    "login": "Oddbrother",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4009572?s=72&u=88932e578a3df16bda91cc53278e91ced102c0e3&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "Oddbrother",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2013-03-29T23:32:31Z"
   }
 ]

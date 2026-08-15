@@ -22654,5 +22654,113 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-06-26T07:35:55Z"
+  },
+  {
+    "login": "Strqtz",
+    "name": "Strqtz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72676863?s=72&u=f699b856d3858264950e9c443fc6e88fa0b246d6&v=4",
+    "location": "Cock Island, Ballymacrah, Co. Mayo, Ireland",
+    "company": "",
+    "twitterUsername": "Strqtz_",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-11T01:14:34Z"
+  },
+  {
+    "login": "Yhelio",
+    "name": "Yenifer Julio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137493292?s=72&u=cd6ca7844119f041f5cab90d5048b10a1afe83c1&v=4",
+    "location": "Dublin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-23T08:59:02Z"
+  },
+  {
+    "login": "usya1987",
+    "name": "PavlitoR",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152897944?s=72&v=4",
+    "location": "Dublin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-12-04T15:35:06Z"
+  },
+  {
+    "login": "alonsobern",
+    "name": "Manuel Alonso Bernabe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127040970?s=72&u=299a7dd3d3863ca1c1fa0ad9861ecc34844fb17e&v=4",
+    "location": "Dublin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 76,
+    "createdAt": "2023-03-05T16:05:40Z"
+  },
+  {
+    "login": "ShahuKor",
+    "name": "Shahu Kor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131534108?s=72&u=0752c45e6f62caf67c3f4b01f52da045c2e3fdfe&v=4",
+    "location": "Dublin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 9,
+    "publicContributions": 208,
+    "createdAt": "2023-04-22T13:04:15Z"
+  },
+  {
+    "login": "kgntmr",
+    "name": "Kagan Timur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126175253?s=72&u=bf5a94aaa7f8d722d328c46d9f4f117449cd8908&v=4",
+    "location": "Dublin",
+    "company": "Orcawise",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2023-02-23T14:08:06Z"
+  },
+  {
+    "login": "hexvictor",
+    "name": "Victor Oliveira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135151098?s=72&u=334b0093bf34b993d9fb1cd9f936b467692e5b85&v=4",
+    "location": "Dublin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 79,
+    "createdAt": "2023-05-31T16:20:51Z"
+  },
+  {
+    "login": "NSM1997",
+    "name": "Nanduri Sai Manohar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143052842?s=72&v=4",
+    "location": "Dublin",
+    "company": "National College of Ireland",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 14,
+    "publicContributions": 68,
+    "createdAt": "2023-08-24T02:32:26Z"
+  },
+  {
+    "login": "Whitedyl",
+    "name": "Dylan White",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148541126?s=72&u=830b75fdbe241280fcff17f9e0d87c6a8b0d91c7&v=4",
+    "location": "Dublin",
+    "company": "Red Hat",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 14,
+    "publicContributions": 185,
+    "createdAt": "2023-10-20T09:51:55Z"
   }
 ]

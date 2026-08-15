@@ -2770,5 +2770,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-11-14T09:10:55Z"
+  },
+  {
+    "login": "fiicode",
+    "name": "fiicode",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16849426?s=72&u=2e43c6fdfbf807423b40e6b94714a2e3b2867509&v=4",
+    "location": "Guinea",
+    "company": "fiicode",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-01-23T07:35:58Z"
+  },
+  {
+    "login": "Zakui",
+    "name": "Jules Thea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17543818?s=72&u=a54599e9d26a8ee0b0973057a38dc1e82170d3dd&v=4",
+    "location": "Guinea, Conakry",
+    "company": "@dntech17",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 548,
+    "publicContributions": 9,
+    "createdAt": "2016-02-29T09:47:56Z"
+  },
+  {
+    "login": "soulmouctar",
+    "name": "Souleymane Mouctar Diallo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20794515?s=72&u=3737af6a1ddeaffaa49b3e84b37ad67ffc29a627&v=4",
+    "location": "Conakry, Guinea",
+    "company": "Software Enginneer",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 60,
+    "createdAt": "2016-08-02T12:20:32Z"
+  },
+  {
+    "login": "Dabohamda",
+    "name": "Hamda Dabo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20908581?s=72&u=a2b6af7c1ecf7eaa2788f418aab6f794c5f149cc&v=4",
+    "location": "Conakry, Guinea",
+    "company": "IT Pro Net",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-08T15:14:00Z"
   }
 ]

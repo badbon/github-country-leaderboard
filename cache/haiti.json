@@ -2470,5 +2470,29 @@
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2019-05-09T08:15:10Z"
+  },
+  {
+    "login": "God-Lion",
+    "name": "Bornelus zico",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49095429?s=72&u=d70548b32c7396048722f4de4e5e3d36bd1702ba&v=4",
+    "location": "Port-au-Prince 55 sarthe",
+    "company": "Software devloper",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 36,
+    "publicContributions": 116,
+    "createdAt": "2019-03-30T12:13:03Z"
+  },
+  {
+    "login": "jimfrancois",
+    "name": "Jimitry Francois",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56699957?s=72&u=cc1b89328f95ea77052d7f7ffb0f072f39a991e4&v=4",
+    "location": "Port-au-Prince HT",
+    "company": "Freelancer",
+    "twitterUsername": "Jim_otantik",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2019-10-17T20:20:51Z"
   }
 ]

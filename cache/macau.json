@@ -3034,5 +3034,89 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2019-09-20T16:35:21Z"
+  },
+  {
+    "login": "Pandede",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38829000?s=72&u=5f00e35f13617fe83e4999c7257b2e161e40e069&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 58,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2018-04-29T05:53:59Z"
+  },
+  {
+    "login": "hongbo-yao",
+    "name": "Hongbo Yao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44011619?s=72&u=05af5b4058ff73a56b4e3c77d677c3a4de6e8af9&v=4",
+    "location": "Macao",
+    "company": "Macau University of Science and Technology",
+    "twitterUsername": "",
+    "followers": 43,
+    "privateContributions": 12,
+    "publicContributions": 0,
+    "createdAt": "2018-10-10T02:09:45Z"
+  },
+  {
+    "login": "icechain",
+    "name": "IceChain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44037913?s=72&u=c626e54fe41e638b87f0e7b20b81be8269194422&v=4",
+    "location": "Macao",
+    "company": "IceChain",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-10T19:28:41Z"
+  },
+  {
+    "login": "torresng",
+    "name": "Torres Ng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37839910?s=72&u=1b55de7747c2d139c8db502337088d3725e828c7&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-27T14:01:53Z"
+  },
+  {
+    "login": "heiyebaitian",
+    "name": "550W_Plus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35366415?s=72&u=91dd145b57b506e9e8df1a98223c45a6ba150476&v=4",
+    "location": "Macao",
+    "company": "参宿四的小木屋",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2018-01-12T09:27:08Z"
+  },
+  {
+    "login": "vacantmemory",
+    "name": "Derek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44679656?s=72&u=d8e4166ddb6a9f4137d15198b985ca5780edfa85&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-01T17:19:16Z"
+  },
+  {
+    "login": "pt2go",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40349936?s=72&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-18T05:45:18Z"
   }
 ]

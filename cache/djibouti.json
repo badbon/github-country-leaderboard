@@ -358,5 +358,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-05T12:41:22Z"
+  },
+  {
+    "login": "bassim18ramad",
+    "name": "BassimRH",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85810945?s=72&u=b3b967ef282cfe0a55d022833ac417fb62530887&v=4",
+    "location": "Djibouti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 62,
+    "createdAt": "2021-06-12T23:32:12Z"
+  },
+  {
+    "login": "Abdoul-Hakim101",
+    "name": "Abdihakim  Mohamed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85031017?s=72&v=4",
+    "location": "Djibouti",
+    "company": "@SPS-SIPS @AsalSolutions @somnog",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 1158,
+    "publicContributions": 220,
+    "createdAt": "2021-05-29T16:25:45Z"
+  },
+  {
+    "login": "alitani253",
+    "name": "Tani Ali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76884007?s=72&u=d4e8b8933304fe8eb181edb5f1dbedad938796b2&v=4",
+    "location": "Djibouti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2021-01-02T19:59:34Z"
+  },
+  {
+    "login": "javas-dev",
+    "name": "hmze ahmd",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76901479?s=72&u=f64e8d177eea44bea50177ca41abb4f16db3c35a&v=4",
+    "location": "Djibouti",
+    "company": "hayanfndtn",
+    "twitterUsername": "hmzedv",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-03T09:57:54Z"
+  },
+  {
+    "login": "maasheeyee",
+    "name": "Cali ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87366309?s=72&u=244dc7a7e86db9b089fb1a964dc9bc24723b811b&v=4",
+    "location": "Djibouti",
+    "company": "Ajman",
+    "twitterUsername": "Maasheeyee",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-13T09:45:10Z"
+  },
+  {
+    "login": "MohamedSalahDjibouti",
+    "name": "Mohamed Salah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83833826?s=72&v=4",
+    "location": "Djibouti",
+    "company": "",
+    "twitterUsername": "Famo2213",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-07T16:49:33Z"
   }
 ]

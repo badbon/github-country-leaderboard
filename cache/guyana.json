@@ -1666,5 +1666,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-18T18:04:32Z"
+  },
+  {
+    "login": "MichaelATang",
+    "name": "Michael Tang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4612916?s=72&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-04T16:04:29Z"
+  },
+  {
+    "login": "sandogeorge",
+    "name": "Sando George",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4146600?s=72&u=0f075e948411f61b3e671c9609c26c9875d55ff2&v=4",
+    "location": "Guyana, South America",
+    "company": "Vorso Computing, Inc.",
+    "twitterUsername": "sandogee",
+    "followers": 16,
+    "privateContributions": 1903,
+    "publicContributions": 1013,
+    "createdAt": "2013-04-13T16:05:22Z"
+  },
+  {
+    "login": "rob-miller",
+    "name": "Rob Miller",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3370432?s=72&u=94d6b134ff140167b03c076a7cf8f530f777c38a&v=4",
+    "location": "Georgetown, Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 314,
+    "createdAt": "2013-01-24T14:23:19Z"
+  },
+  {
+    "login": "barnwell",
+    "name": "Jason Barnwell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3860678?s=72&u=721be8cf98edd5358c5fa9bfec172e9112e5cc63&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 3806,
+    "publicContributions": 116,
+    "createdAt": "2013-03-14T04:16:39Z"
+  },
+  {
+    "login": "rayonhunte",
+    "name": "Rayon Hunte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5769425?s=72&u=4bc2839d4e6c83253c11e1ceaec7deb32ecbdf88&v=4",
+    "location": "Georgetown Guyana",
+    "company": "RASH",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 3603,
+    "publicContributions": 194,
+    "createdAt": "2013-10-24T22:06:23Z"
   }
 ]

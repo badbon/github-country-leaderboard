@@ -238,5 +238,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-02T23:10:04Z"
+  },
+  {
+    "login": "JordanLeFondre",
+    "name": "JLeFondre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83458045?s=72&u=99e351d3359ea7a7896181e0185592a6484a4a65&v=4",
+    "location": "Jersey",
+    "company": "Digital Leadership Programme",
+    "twitterUsername": "realDonaldTrump",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-30T13:07:54Z"
+  },
+  {
+    "login": "ElleanoSmith",
+    "name": "Elleano Smith ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89365941?s=72&u=59a77a906237885ab025100a5a92edc154908302&v=4",
+    "location": "Vineland,new,Jersey",
+    "company": "Burger Kings ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-23T01:15:31Z"
+  },
+  {
+    "login": "Matt-418",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83458046?s=72&u=931434836b3be171b5448005fc8062396c5bbbb2&v=4",
+    "location": "Jersey ",
+    "company": "Digital Leadership Program ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-30T13:07:54Z"
+  },
+  {
+    "login": "harryforskitt",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83458028?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-30T13:07:23Z"
+  },
+  {
+    "login": "GeAR522",
+    "name": "George Alex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87172657?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 13,
+    "publicContributions": 0,
+    "createdAt": "2021-07-09T07:54:25Z"
   }
 ]

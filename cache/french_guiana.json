@@ -310,5 +310,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2017-11-08T22:21:51Z"
+  },
+  {
+    "login": "roberthpereira",
+    "name": "Roberth Pereira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17602206?s=72&u=d2c5a81a7c4331ad459eca988a731dfef94e5d56&v=4",
+    "location": "French Guiana",
+    "company": "Freelancer",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-02T20:51:30Z"
+  },
+  {
+    "login": "Dunvii",
+    "name": "Dunvii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19516497?s=72&u=5d24865272ee4ae6ad2139fc8028a0f49574ed7e&v=4",
+    "location": "French Guiana",
+    "company": "",
+    "twitterUsername": "arzurloik973",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-22T12:41:32Z"
   }
 ]

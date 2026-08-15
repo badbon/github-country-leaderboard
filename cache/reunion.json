@@ -631,7 +631,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 109,
+    "privateContributions": 111,
     "publicContributions": 132,
     "createdAt": "2020-05-01T18:49:55Z"
   },
@@ -1534,5 +1534,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-03-21T12:15:51Z"
+  },
+  {
+    "login": "Aztek71",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69500496?s=72&u=3fad67c536641a7cb0b5146516b353e27cc10b2e&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2020-08-11T06:21:17Z"
+  },
+  {
+    "login": "W-D0n",
+    "name": "D0n",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71557306?s=72&u=f1d5e80d7f354e1d966b028fea8fa1be77c8bfe7&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 333,
+    "createdAt": "2020-09-19T13:58:33Z"
+  },
+  {
+    "login": "lvothnrv",
+    "name": "LvothNrv",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62966130?s=72&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 2316,
+    "publicContributions": 0,
+    "createdAt": "2020-03-31T21:24:43Z"
+  },
+  {
+    "login": "LAVITGaetan",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67626748?s=72&u=5db1c1bf0b1cb49d55aebf0381211c80868778ab&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2020-06-30T07:11:19Z"
   }
 ]
