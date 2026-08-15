@@ -1954,5 +1954,41 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2017-01-21T15:15:12Z"
+  },
+  {
+    "login": "malnuxstarck",
+    "name": "Abdoul Malik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18685366?s=72&u=f9b4187f1137d6ffdf434f666d8e41af2c903625&v=4",
+    "location": "Niamey , Niger",
+    "company": "@Profiteroles",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 108,
+    "publicContributions": 0,
+    "createdAt": "2016-04-26T17:33:04Z"
+  },
+  {
+    "login": "mnouredine",
+    "name": "Nouredine Mounahi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16856955?s=72&u=068afe4bd083a43d617ca6365ee8753b85a68c4f&v=4",
+    "location": "Niamey, Niger",
+    "company": "@shaawamedia",
+    "twitterUsername": "mounahiN",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-23T20:52:02Z"
+  },
+  {
+    "login": "zeud",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20393428?s=72&v=4",
+    "location": "Niamey/Niger",
+    "company": "MDN",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2016-07-11T06:57:12Z"
   }
 ]

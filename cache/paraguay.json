@@ -8671,7 +8671,7 @@
     "company": "",
     "twitterUsername": "giudp11",
     "followers": 10,
-    "privateContributions": 34,
+    "privateContributions": 36,
     "publicContributions": 8,
     "createdAt": "2020-09-11T12:33:24Z"
   },
@@ -9007,7 +9007,7 @@
     "company": "Shiro Company",
     "twitterUsername": "anthonylilo1",
     "followers": 6,
-    "privateContributions": 234,
+    "privateContributions": 235,
     "publicContributions": 6,
     "createdAt": "2020-12-20T16:49:51Z"
   },
@@ -10534,5 +10534,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-27T01:28:16Z"
+  },
+  {
+    "login": "frandepy2",
+    "name": "Francisco Alejandro Sanabria Zelaya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64796403?s=72&v=4",
+    "location": "Asunción",
+    "company": "ETICA S.A.",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2020-05-04T15:47:44Z"
+  },
+  {
+    "login": "oayala65",
+    "name": "Osvaldo Ayala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63930948?s=72&v=4",
+    "location": "ASUNCIÓN",
+    "company": "My",
+    "twitterUsername": "oayala65",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2020-04-18T20:58:20Z"
+  },
+  {
+    "login": "Oscar-Amarilla",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75180218?s=72&u=5f3d9d3e6280a0103fd57af5c8054425db00f691&v=4",
+    "location": "Asunción",
+    "company": "NIDTEC",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-28T18:36:56Z"
+  },
+  {
+    "login": "soriagaldona",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66924658?s=72&v=4",
+    "location": "Asunción",
+    "company": "Control Mbarete EAS",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2020-06-14T22:18:53Z"
+  },
+  {
+    "login": "gonzayb",
+    "name": "Gonzalo Yambay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70355676?s=72&u=33fc8d47c8bb448d0640a13be7d0bb127912af78&v=4",
+    "location": "Asunción",
+    "company": "Grupo Inventiva SACI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-28T01:28:40Z"
+  },
+  {
+    "login": "fabripaiva",
+    "name": "Fabrizio Paiva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74380824?s=72&u=71346adff0a5c04f01409d306189baddd54e5aff&v=4",
+    "location": "Asunción",
+    "company": "@sodep ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-12T20:38:55Z"
   }
 ]

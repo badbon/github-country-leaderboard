@@ -9847,7 +9847,7 @@
     "company": "@TG-IT ",
     "twitterUsername": "soufianearbib",
     "followers": 21,
-    "privateContributions": 1173,
+    "privateContributions": 1175,
     "publicContributions": 5,
     "createdAt": "2017-10-25T04:43:10Z"
   },
@@ -9895,7 +9895,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 120,
+    "privateContributions": 124,
     "publicContributions": 2,
     "createdAt": "2017-02-04T18:45:13Z"
   },
@@ -10222,5 +10222,77 @@
     "privateContributions": 651,
     "publicContributions": 10,
     "createdAt": "2017-10-20T12:41:42Z"
+  },
+  {
+    "login": "iamsj7",
+    "name": "Shaik Jaleel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28638858?s=72&u=ae29c0d09f5a0b021516757b62e4de1880541042&v=4",
+    "location": "Muscat",
+    "company": "@CarbonMobile @ForkLineageOS @NerdInfusions ",
+    "twitterUsername": "iamshaikjaleel",
+    "followers": 46,
+    "privateContributions": 4816,
+    "publicContributions": 2,
+    "createdAt": "2017-05-12T00:51:45Z"
+  },
+  {
+    "login": "khalifa007",
+    "name": "Khalifa Al-Khatri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27831776?s=72&u=d862c32c913b1ee34d5999c855e33030ccc02c0a&v=4",
+    "location": "Muscat",
+    "company": "MOE Co.",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 64,
+    "createdAt": "2017-04-20T21:38:09Z"
+  },
+  {
+    "login": "putta1980",
+    "name": "Putta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26052607?s=72&u=d9d2da2af60f76a39658869f89f3e18a538e3783&v=4",
+    "location": "Muscat",
+    "company": "Middle East College",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2017-02-27T04:20:38Z"
+  },
+  {
+    "login": "mistaqu",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25098698?s=72&v=4",
+    "location": "Muscat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-13T09:00:52Z"
+  },
+  {
+    "login": "AbdelrahmanAliDotNET",
+    "name": "Abdelrhman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30978225?s=72&u=37d56bb3590ef182f84d4932e32100f3016585c6&v=4",
+    "location": "Muscat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-13T12:57:07Z"
+  },
+  {
+    "login": "pmadiset",
+    "name": "Praveen Madisetti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30493900?s=72&u=1604a05613caaceab48f0d0bcce83ca0dd79926f&v=4",
+    "location": "Muscat",
+    "company": "Renna Mobile",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-27T09:01:45Z"
   }
 ]

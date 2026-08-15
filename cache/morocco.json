@@ -30022,5 +30022,77 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2023-02-15T09:45:35Z"
+  },
+  {
+    "login": "oussama663",
+    "name": "Oussama",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125141926?s=72&u=aa0197639b26d573c93a394295509055ef286bcf&v=4",
+    "location": "Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2023-02-11T15:24:15Z"
+  },
+  {
+    "login": "IngenieurPoete",
+    "name": "Fadil Aboubakar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126957201?s=72&u=dd3112cf8aa7a42d698ead85bdd87b575098f926&v=4",
+    "location": "Morocco",
+    "company": "ISMAGI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2023-03-04T11:17:11Z"
+  },
+  {
+    "login": "AllOperations",
+    "name": "All Operations",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134617942?s=72&v=4",
+    "location": "Morocco",
+    "company": "All Operations",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-25T13:11:30Z"
+  },
+  {
+    "login": "abdelkrimou",
+    "name": "Abdelkrim Ouaaddi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133566306?s=72&u=29940417ceacbafaca22f412e2d53fcaead36065&v=4",
+    "location": "Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2023-05-14T08:29:58Z"
+  },
+  {
+    "login": "younesgu",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123268300?s=72&u=0863fd731cf9b151d5578268002d1b33c9cafb3b&v=4",
+    "location": "Casablanca, Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2023-01-21T19:23:07Z"
+  },
+  {
+    "login": "Imanelakehal",
+    "name": "Imane Lakehal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128871424?s=72&u=a4d3695297e814f1673fac9ded4bc28c6c011a37&v=4",
+    "location": "Morocco",
+    "company": "ParaMap",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2023-03-25T00:57:45Z"
   }
 ]

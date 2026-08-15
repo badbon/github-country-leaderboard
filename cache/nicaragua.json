@@ -11182,5 +11182,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-10-02T02:54:29Z"
+  },
+  {
+    "login": "erwinvm26",
+    "name": "Erwin Vargas M.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37841962?s=72&u=028652db3ddfc2fdf71e1f7dc091eb251c3218aa&v=4",
+    "location": "Managua",
+    "company": "@Nerdify",
+    "twitterUsername": "ErwinVM01",
+    "followers": 11,
+    "privateContributions": 678,
+    "publicContributions": 2,
+    "createdAt": "2018-03-27T15:09:50Z"
+  },
+  {
+    "login": "alon16",
+    "name": "Alondra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38337857?s=72&u=bb8dcbab09b6d575c272b73cb33e437db245add2&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2018-04-13T01:50:16Z"
+  },
+  {
+    "login": "eogomezf",
+    "name": "Elvis Gomez Floegel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37124582?s=72&u=ad9185af55f8b66f1d4aa9f824dd47dc15ea57da&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 214,
+    "publicContributions": 14,
+    "createdAt": "2018-03-06T22:06:01Z"
+  },
+  {
+    "login": "lexaguilar",
+    "name": "Lex Aguilar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42163487?s=72&u=aa456c0a32c52ae5038c6960cb59e0683a6d84f1&v=4",
+    "location": "Managua",
+    "company": "Seguros Lafise",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 147,
+    "createdAt": "2018-08-07T04:02:09Z"
+  },
+  {
+    "login": "oquino",
+    "name": "Oliver Milton Quino Carballo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44264104?s=72&v=4",
+    "location": "Managua",
+    "company": "Grupo Aganorsa",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-18T12:40:44Z"
   }
 ]
