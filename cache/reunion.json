@@ -1342,5 +1342,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-05-22T07:50:45Z"
+  },
+  {
+    "login": "bilbaoba",
+    "name": "Mathieu Delsaut",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10165800?s=72&u=5f1a4fe98a5d3b9ac0f1159dbac1819bf07575bd&v=4",
+    "location": "Saint Denis, La Réunion ",
+    "company": "Université de La Réunion",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 9,
+    "publicContributions": 2,
+    "createdAt": "2014-12-12T12:08:15Z"
+  },
+  {
+    "login": "Nao974",
+    "name": "BOLDODUCK François",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7267005?s=72&u=a9db4252e2818022e7e07d7832d2d10814104607&v=4",
+    "location": "Réunion Island",
+    "company": "AhMOA",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-11T19:38:28Z"
+  },
+  {
+    "login": "dinaraj",
+    "name": "Dina Rajaonson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7304885?s=72&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2014-04-15T16:44:20Z"
+  },
+  {
+    "login": "LightEvil",
+    "name": "Philippe RAMIN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7699242?s=72&u=b2e5dce7226545f89d26320c6c9e614567b20d45&v=4",
+    "location": "Réunion Island",
+    "company": "Le Développeur",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 220,
+    "publicContributions": 0,
+    "createdAt": "2014-05-26T05:48:17Z"
+  },
+  {
+    "login": "laurent974",
+    "name": "Laurent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7079658?s=72&u=55512284e2d75dc0e65874b9ff278ab6c144276c&v=4",
+    "location": "Réunion island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 142,
+    "createdAt": "2014-03-27T09:26:49Z"
+  },
+  {
+    "login": "Christopher974",
+    "name": "DIJOUX Christopher Mickaël",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7666934?s=72&v=4",
+    "location": "Saint-Denis, Île de la Réunion FRANCE DOM TOM",
+    "company": "DOLF-Design",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-22T09:58:12Z"
+  },
+  {
+    "login": "Max-Fontaine",
+    "name": "Maxime FONTAINE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6883978?s=72&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-07T13:59:22Z"
+  },
+  {
+    "login": "alainbastide",
+    "name": "Alain Bastide",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7758092?s=72&u=abdacd4e0da3f58122170eb1622a0c3f435708e4&v=4",
+    "location": "Réunion",
+    "company": "Laboratoire de Physique et Ingénierie Mathématique pour l'Energie, l'Environnement et le Bâtiment",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-01T02:40:46Z"
   }
 ]

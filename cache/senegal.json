@@ -11590,5 +11590,101 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2019-11-06T15:07:36Z"
+  },
+  {
+    "login": "sabiarist",
+    "name": "Aristide Sabi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48257748?s=72&u=2aed120254e9fb8c92bc56a968f68d02c1ecd06d&v=4",
+    "location": "Dakar",
+    "company": "JULAYA",
+    "twitterUsername": "Arist_Sabi",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-05T18:16:06Z"
+  },
+  {
+    "login": "dave-laye",
+    "name": "Pap Daouda Thiome",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47642754?s=72&u=a5c8fd82d54f045e6df3b5f2a1139712246803c4&v=4",
+    "location": "Dakar, Sénégal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2019-02-14T18:59:37Z"
+  },
+  {
+    "login": "sngom1995",
+    "name": "Samba Ngom",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47647841?s=72&v=4",
+    "location": "Dakar",
+    "company": "",
+    "twitterUsername": "sn_mk_07",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2019-02-14T23:35:09Z"
+  },
+  {
+    "login": "chamsdg",
+    "name": "Chamsedine AIDARA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50946856?s=72&v=4",
+    "location": "Dakar",
+    "company": "  www.expressotelecom",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 87,
+    "createdAt": "2019-05-23T08:59:17Z"
+  },
+  {
+    "login": "tambamoussa",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53384505?s=72&v=4",
+    "location": "Dakar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-28T00:09:53Z"
+  },
+  {
+    "login": "louisdiatta",
+    "name": "Louis Omar DIATTA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46378861?s=72&u=db21044b9eb70b19413a2f8cf4ec361e9a73cbfe&v=4",
+    "location": "Dakar, Sénégal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-04T15:16:14Z"
+  },
+  {
+    "login": "correia-developer",
+    "name": "Ricardo Vaz Correia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56438477?s=72&u=8044cff40dd68169aabe7e5171b7197d5932d43d&v=4",
+    "location": "Dakar - Sénégal",
+    "company": "IPCOM-Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-11T11:39:07Z"
+  },
+  {
+    "login": "libasseld",
+    "name": "Libasse Diop",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50105345?s=72&u=9d2210c5ec98fc7dd2a96b68950ec0c137e18798&v=4",
+    "location": "Yoff Apecsy 1 , Dakar",
+    "company": "LD TECH",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2019-04-29T11:40:54Z"
   }
 ]

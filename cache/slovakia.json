@@ -14530,5 +14530,41 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2021-08-05T20:02:30Z"
+  },
+  {
+    "login": "kyemets",
+    "name": "Kostiantyn Yemets",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61251118?s=72&u=0d6666059e2f7d38815d0d382d699d60694870c0&v=4",
+    "location": "Slovak Republic",
+    "company": "@EHOSS-IT",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 11916,
+    "publicContributions": 192,
+    "createdAt": "2020-02-19T20:10:38Z"
+  },
+  {
+    "login": "richarddurias",
+    "name": "Richard Ďuriáš",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59865442?s=72&u=85c1461f948e19ea7931fb8a5ad5a5a468bbde98&v=4",
+    "location": "Nitra, Slovak republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-14T08:24:42Z"
+  },
+  {
+    "login": "xchesnykov",
+    "name": "Chesnykov Vladyslav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61202958?s=72&u=729307135bf804d6011294bc9cf6f05c840d2e90&v=4",
+    "location": "Bratislava, Slovak Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-02-18T17:29:48Z"
   }
 ]

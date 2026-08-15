@@ -166,5 +166,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-09-07T19:29:23Z"
+  },
+  {
+    "login": "rockerBOO",
+    "name": "Dave Lage",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15027?s=72&u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4",
+    "location": "In the Valley",
+    "company": "@EcogardenDesign ",
+    "twitterUsername": "",
+    "followers": 245,
+    "privateContributions": 0,
+    "publicContributions": 451,
+    "createdAt": "2008-06-25T18:24:49Z"
+  },
+  {
+    "login": "tjhanley",
+    "name": "Thomas Hanley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15386?s=72&u=e3b41fc666bf27e80871333f7a429025839d77b8&v=4",
+    "location": "the valley",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 1764,
+    "publicContributions": 300,
+    "createdAt": "2008-06-28T18:27:24Z"
   }
 ]

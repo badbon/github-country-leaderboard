@@ -11744,7 +11744,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 35,
     "createdAt": "2022-06-06T19:15:16Z"
   },
   {
@@ -11755,7 +11755,7 @@
     "company": "Eliseu Gaspar",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 938,
+    "privateContributions": 939,
     "publicContributions": 13,
     "createdAt": "2022-01-10T22:42:25Z"
   },
@@ -12222,7 +12222,7 @@
     "location": "Luanda, Angola",
     "company": "Selfgest Consulturia e Treinamento",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-26T18:15:15Z"
@@ -12307,7 +12307,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 111,
+    "privateContributions": 117,
     "publicContributions": 99,
     "createdAt": "2022-06-12T23:43:11Z"
   },
@@ -14386,5 +14386,137 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-11-24T11:42:57Z"
+  },
+  {
+    "login": "romeucajamba",
+    "name": "RomeuCajamba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117159526?s=72&u=aea5c16089c42024dcb8d2beffe574dffdebbff0&v=4",
+    "location": "Luanda",
+    "company": "Yhanko",
+    "twitterUsername": "",
+    "followers": 35,
+    "privateContributions": 864,
+    "publicContributions": 667,
+    "createdAt": "2022-11-01T09:08:55Z"
+  },
+  {
+    "login": "BoxCloudF5",
+    "name": "Samuel Chipapa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103576837?s=72&u=1ee58c5fc1ae8ad0b528eadf31b31ecb8a1cd278&v=4",
+    "location": "Luanda",
+    "company": "Angola",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-13T11:54:57Z"
+  },
+  {
+    "login": "domingosdeeulariadumba",
+    "name": "Domingos de Eulária Dumba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110714056?s=72&u=43a4cdfa5719d56c8f0af50c63ef1c418729fac4&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 681,
+    "publicContributions": 297,
+    "createdAt": "2022-08-06T06:47:11Z"
+  },
+  {
+    "login": "adaomagalhaes03",
+    "name": "Adão Magalhães",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107061695?s=72&u=626077c9675e89da7929dcf00b0834a4d597aa06&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "adomagalhaes7",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 65,
+    "createdAt": "2022-06-07T15:36:14Z"
+  },
+  {
+    "login": "NdondaDaniel2020",
+    "name": "Ndonda Daniel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108186371?s=72&u=fe34a57035d3ad1bc81426b9b9251d19ecd1fd44&v=4",
+    "location": "Luanda",
+    "company": "@42Luanda",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 279,
+    "publicContributions": 1899,
+    "createdAt": "2022-06-25T14:35:42Z"
+  },
+  {
+    "login": "TomasRita",
+    "name": "Tomás Rita ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121445941?s=72&u=eadb6e43e516c1d42d726be214f0f457f0400727&v=4",
+    "location": "Luanda",
+    "company": "nenhuma",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2022-12-26T15:00:38Z"
+  },
+  {
+    "login": "scofield144",
+    "name": "Fabio Tales Victorino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105290909?s=72&u=d17b652ac273cb7f22f232475903df06f26816ed&v=4",
+    "location": "Luanda",
+    "company": "SCO",
+    "twitterUsername": "fvictorino144",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 114,
+    "createdAt": "2022-05-10T12:28:52Z"
+  },
+  {
+    "login": "MiguelDeep",
+    "name": "Miguel Manuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110001574?s=72&u=f2e3871762e5636437df974de330d96b93803210&v=4",
+    "location": "Luanda",
+    "company": " <Bbytes />",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-26T01:14:48Z"
+  },
+  {
+    "login": "orvandoraul24",
+    "name": "Orvando Raúl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99316684?s=72&u=deb8d0968d6e3c5ff3f99440a884810e535fe831&v=4",
+    "location": "Luanda ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-09T07:10:26Z"
+  },
+  {
+    "login": "Rquilamiquiza",
+    "name": "Romão Henrique Albano Quilamiquiza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113993361?s=72&u=7267681fcc08dd7ff8666c30292b9897bbb66771&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 113,
+    "createdAt": "2022-09-20T12:19:32Z"
+  },
+  {
+    "login": "FaustinoFernando",
+    "name": "Faustino Fernando",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116882761?s=72&u=7a637db13e0e785928c3e2f5776ec38bc1aa3477&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 16,
+    "publicContributions": 2,
+    "createdAt": "2022-10-28T10:19:40Z"
   }
 ]
