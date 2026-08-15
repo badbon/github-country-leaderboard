@@ -7138,5 +7138,89 @@
     "privateContributions": 0,
     "publicContributions": 50,
     "createdAt": "2015-05-20T13:17:07Z"
+  },
+  {
+    "login": "axelilali",
+    "name": "Axel Ilali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9570320?s=72&u=6375feeda5a4a21c07eea32486a6b2ce3e3e08d7&v=4",
+    "location": "Congo - Kinshasa",
+    "company": "Kadea Software",
+    "twitterUsername": "im__axel",
+    "followers": 19,
+    "privateContributions": 184,
+    "publicContributions": 0,
+    "createdAt": "2014-11-05T12:12:49Z"
+  },
+  {
+    "login": "elielmathe",
+    "name": "Mathe Eliel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10228785?s=72&u=b2e926bffd4e81df8d73bfd7358419df30aa0226&v=4",
+    "location": "Goma, Democratic Republic of Congo",
+    "company": "Imcon International",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-12-18T05:14:13Z"
+  },
+  {
+    "login": "vick25",
+    "name": "Victor Kadiata",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8378428?s=72&u=5582d9672d10d496e37180842cffc8612916ce77&v=4",
+    "location": "Kinshasa / DR Congo",
+    "company": "OSFAC",
+    "twitterUsername": "vickad25",
+    "followers": 6,
+    "privateContributions": 10,
+    "publicContributions": 281,
+    "createdAt": "2014-08-06T20:48:59Z"
+  },
+  {
+    "login": "royken",
+    "name": "Valmy Roi Kenfack",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7059358?s=72&u=c0cbf23bd3cef642d125411e5940b170ad3c7bc1&v=4",
+    "location": "Kinshasa, D.R. Congo",
+    "company": "Bracongo S.A.",
+    "twitterUsername": "ValmyRoi",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-03-25T14:16:19Z"
+  },
+  {
+    "login": "christianjerry",
+    "name": "Christian Rusipa Jerry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9598328?s=72&u=7c1d3eb3e09f319d3af73548a3938340714d9fc4&v=4",
+    "location": "Bukavu, Democratic Republic of Congo",
+    "company": "Kwetu-Tech",
+    "twitterUsername": "christian_jerr3",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-06T21:34:37Z"
+  },
+  {
+    "login": "KSLM",
+    "name": "Patrick KASELE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8588837?s=72&u=4207699a57dcc0c72bb9ba5df1a75c55b86cee4b&v=4",
+    "location": "Kinshasa, Democratic Republic of Congo",
+    "company": "Congo Green Citizen",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-29T08:58:21Z"
+  },
+  {
+    "login": "sylvain223",
+    "name": "sylvain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10170957?s=72&v=4",
+    "location": "congo-kinshasa",
+    "company": "business",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-12T21:52:33Z"
   }
 ]

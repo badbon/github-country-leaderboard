@@ -1894,5 +1894,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-03T11:21:18Z"
+  },
+  {
+    "login": "Minos",
+    "name": "Simon Jacquin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/369929?s=72&v=4",
+    "location": "Saint-Denis",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-19T17:31:29Z"
+  },
+  {
+    "login": "mikarun",
+    "name": "Mickael Gerard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/222864?s=72&u=beafeeeda5e8ce5c07fcfc9b9afa3cab4123baa8&v=4",
+    "location": "Saint Denis Reunion",
+    "company": "Tableonline",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-15T08:21:52Z"
   }
 ]

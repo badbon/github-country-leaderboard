@@ -4018,5 +4018,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-04-20T02:34:37Z"
+  },
+  {
+    "login": "imidsac",
+    "name": "SACKO Idriss",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6317831?s=72&u=7955a6b46ea9ac1c51785b448e8b8aaca72e9960&v=4",
+    "location": "Mali",
+    "company": "@MALINUSE",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-01-04T13:29:14Z"
+  },
+  {
+    "login": "dione24",
+    "name": "Niangaly Abdoulaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10039997?s=72&v=4",
+    "location": "BAMAKO MALI",
+    "company": "NIANGALY",
+    "twitterUsername": "diblo_n",
+    "followers": 5,
+    "privateContributions": 6386,
+    "publicContributions": 82,
+    "createdAt": "2014-12-02T01:00:36Z"
+  },
+  {
+    "login": "oumara",
+    "name": "Oumara Kone",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7087473?s=72&u=55a0a346740c8afa1807313209721b596bf9965d&v=4",
+    "location": "Bamako Mali",
+    "company": "Bako Community Gold Mines Mali",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-28T01:21:01Z"
   }
 ]

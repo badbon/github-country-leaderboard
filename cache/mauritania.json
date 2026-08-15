@@ -3298,5 +3298,41 @@
     "privateContributions": 232,
     "publicContributions": 1,
     "createdAt": "2015-03-13T20:40:31Z"
+  },
+  {
+    "login": "mdabbe",
+    "name": "Mohamed Abe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13837509?s=72&u=7c99fedbe5eb044735eee7b5a1357746b2e8300e&v=4",
+    "location": "Nouakchott, Mauritanie",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-17T17:23:21Z"
+  },
+  {
+    "login": "lehbib2013",
+    "name": "Mohamed Lehbib Youba Taleb Ethmane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11450398?s=72&u=170fda323bfcf7a048532a97f1348504ceedf735&v=4",
+    "location": "Nouakchott",
+    "company": "Centrale des Achats et d'Approvisionnement du Marché",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 8,
+    "publicContributions": 4,
+    "createdAt": "2015-03-13T01:23:58Z"
+  },
+  {
+    "login": "Bouye-Ahmed-Desri",
+    "name": "Bouye Ahmed Med Lemine Desri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14012653?s=72&u=95dcd6aa55f049645f4b45e71f49dc5de9f790d1&v=4",
+    "location": "Nouakchott, Mauritanie",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-28T08:15:37Z"
   }
 ]

@@ -3394,5 +3394,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-07-29T10:23:12Z"
+  },
+  {
+    "login": "gandoulord",
+    "name": "GANDOU Lord",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8161146?s=72&u=fb33c858ebf18f1277ebc256aa2e664e4cc71f2a&v=4",
+    "location": "Congo/Brazzaville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-14T18:19:48Z"
+  },
+  {
+    "login": "zainmalonga",
+    "name": "Florent Zain MALONGA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8176186?s=72&u=a33fdd2f4b30b4ef5b06a31d71dcdce4125e2bdf&v=4",
+    "location": "Congo",
+    "company": "DigiBOX SAS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-16T04:06:28Z"
+  },
+  {
+    "login": "sthynet",
+    "name": "KASSA Teddy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8711697?s=72&u=611817592547bac13fa76aaba644139838072b86&v=4",
+    "location": "Congo Brazzaville (Pointe-Noire)",
+    "company": "H-SYSTEM",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-09T15:43:14Z"
+  },
+  {
+    "login": "moundss",
+    "name": "Andréas DADING",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8859119?s=72&u=4902f903c80de342ed4a8571211eb9dfb4814354&v=4",
+    "location": "Brazzaville, CONGO",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-22T09:23:02Z"
+  },
+  {
+    "login": "yndinga",
+    "name": "Yves NDINGA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8860780?s=72&u=09b0f42ce975abce4cbf8cd85ac83814b7e3bf71&v=4",
+    "location": "Congo Brazzaville",
+    "company": "Horizon web",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2014-09-22T12:07:21Z"
   }
 ]

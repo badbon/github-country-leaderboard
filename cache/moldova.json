@@ -11902,5 +11902,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-07-06T13:45:20Z"
+  },
+  {
+    "login": "anrosca",
+    "name": "Andrei Rosca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43374942?s=72&u=be72f4acc0cd2bd00bd11d9cde999b0645e7eb91&v=4",
+    "location": "Chișinău",
+    "company": "Grid Dynamics",
+    "twitterUsername": "andrei_jdk",
+    "followers": 10,
+    "privateContributions": 1,
+    "publicContributions": 1,
+    "createdAt": "2018-09-18T11:25:39Z"
+  },
+  {
+    "login": "iveloff-developer",
+    "name": "Illia Velichko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42904790?s=72&u=dfc12331fc817ceb00ab4f429bf0014c9f0f3644&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "iveloff",
+    "followers": 5,
+    "privateContributions": 128,
+    "publicContributions": 1,
+    "createdAt": "2018-09-02T06:00:07Z"
+  },
+  {
+    "login": "AnLuk13",
+    "name": "Antonio Lupu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45819634?s=72&u=6d12b4d3defdb246643ce4aa0f9b7b0b485e108c&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 34,
+    "publicContributions": 30,
+    "createdAt": "2018-12-12T11:40:17Z"
+  },
+  {
+    "login": "dimfad41",
+    "name": "Dmitryi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44758129?s=72&u=ed56988fa3249795faa1de2816ab5badfffb993d&v=4",
+    "location": "Chișinău",
+    "company": "StarHyper",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-05T00:19:55Z"
   }
 ]

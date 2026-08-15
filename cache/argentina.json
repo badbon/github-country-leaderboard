@@ -44662,5 +44662,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-20T02:58:26Z"
+  },
+  {
+    "login": "franciscohanna92",
+    "name": "Francisco Hanna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12707758?s=72&u=f7f976f515e38430901d086a7f9d484e35c4f439&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 986,
+    "publicContributions": 50,
+    "createdAt": "2015-06-02T04:03:54Z"
+  },
+  {
+    "login": "german-e-mas",
+    "name": "Germán E. Más",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14120807?s=72&u=e4d6c0a79f477123c69af295dc7bbdf2bec31bc7&v=4",
+    "location": "San Juan, Argentina",
+    "company": "@ekumenlabs ",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 161,
+    "publicContributions": 14,
+    "createdAt": "2015-09-04T04:38:49Z"
+  },
+  {
+    "login": "MaxMayoris",
+    "name": "Maxi Roldán",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14815744?s=72&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 95,
+    "publicContributions": 66,
+    "createdAt": "2015-09-24T04:44:03Z"
+  },
+  {
+    "login": "gabiruiz91",
+    "name": "Gabriel Ruiz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11684358?s=72&v=4",
+    "location": "San Juan, Argentina",
+    "company": "Freelancer",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-03-27T18:13:25Z"
+  },
+  {
+    "login": "MatiaseTudela",
+    "name": "Matias Tudela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11926645?s=72&u=1cbd3b29fd0df8c0abfd65163a12e4c5eb3cb7b3&v=4",
+    "location": "San Juan, Argentina ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-13T14:40:26Z"
+  },
+  {
+    "login": "sersomedia",
+    "name": "Fabricio Ferrero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13340877?s=72&v=4",
+    "location": "San Juan, Argentina",
+    "company": "Sersomedia.com",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 9775,
+    "publicContributions": 0,
+    "createdAt": "2015-07-14T23:12:41Z"
+  },
+  {
+    "login": "gconturzo",
+    "name": "Gustavo Conturzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13171408?s=72&u=3f8371a51aa8928df0ebc523850eb56fa80bd6e6&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-03T22:49:15Z"
   }
 ]

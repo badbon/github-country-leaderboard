@@ -10738,5 +10738,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-02-03T07:10:20Z"
+  },
+  {
+    "login": "kachaje",
+    "name": "Chimwemwe Kachaje",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215639?s=72&v=4",
+    "location": "Lilongwe, Malawi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 45,
+    "privateContributions": 9353,
+    "publicContributions": 1392,
+    "createdAt": "2010-03-04T13:17:20Z"
+  },
+  {
+    "login": "deliwe",
+    "name": "Deliwe Nkhoma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/399831?s=72&v=4",
+    "location": "Lilongwe, Malawi",
+    "company": "PACHI - NeoTree Project",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-15T06:18:18Z"
   }
 ]

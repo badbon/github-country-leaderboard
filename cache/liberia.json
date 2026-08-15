@@ -2458,5 +2458,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-07-01T10:55:15Z"
+  },
+  {
+    "login": "ryanafdahl",
+    "name": "Ryan Afdahl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200433?s=72&v=4",
+    "location": "Monrovia, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 74,
+    "publicContributions": 0,
+    "createdAt": "2010-02-09T18:03:37Z"
+  },
+  {
+    "login": "straightjacket",
+    "name": "Theron Blount",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229767?s=72&u=8bfd948ca9620da9dbbc85d0dd94d397ce88b52f&v=4",
+    "location": "Monrovia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2010-03-24T22:05:35Z"
+  },
+  {
+    "login": "npbarber",
+    "name": "Neil Barber",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/381172?s=72&v=4",
+    "location": "Monrovia, CA",
+    "company": "Walt Disney Animation Studios",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2010-08-30T20:12:23Z"
   }
 ]
