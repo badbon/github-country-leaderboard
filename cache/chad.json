@@ -1966,5 +1966,29 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2019-10-18T18:33:37Z"
+  },
+  {
+    "login": "Bemadji",
+    "name": "Bemadji Arsene",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57248473?s=72&u=d997c332264e4288f2f9e4f5b83eabbc10d10f83&v=4",
+    "location": "N'djaména/Tchad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-01T06:39:23Z"
+  },
+  {
+    "login": "David-cmd",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53948424?s=72&v=4",
+    "location": "Tchad",
+    "company": "N'Djaména",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-09T16:27:01Z"
   }
 ]

@@ -21286,5 +21286,65 @@
     "privateContributions": 14,
     "publicContributions": 63,
     "createdAt": "2017-11-18T09:53:05Z"
+  },
+  {
+    "login": "clmns97",
+    "name": "Clemens",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133861561?s=72&v=4",
+    "location": "Vienna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 199,
+    "publicContributions": 39,
+    "createdAt": "2023-05-17T09:19:14Z"
+  },
+  {
+    "login": "Catfish16",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124392885?s=72&u=c33a3d4d6bd354dd4c895541a9946b678ec926b5&v=4",
+    "location": "Vienna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-03T18:26:27Z"
+  },
+  {
+    "login": "Tschoner",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129190143?s=72&u=674aca0965f56566ff8971164ecd5302bd77eed6&v=4",
+    "location": "Vienna",
+    "company": "ContextSDK",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2023-03-28T13:50:41Z"
+  },
+  {
+    "login": "schmflorian",
+    "name": "Florian Schmid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145757209?s=72&u=55fe2ac98acbace58c3473d4c7fbbc367efe037a&v=4",
+    "location": "Vienna",
+    "company": "Bloch3 Projektentwicklung GmbH",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 187,
+    "publicContributions": 0,
+    "createdAt": "2023-09-22T08:43:46Z"
+  },
+  {
+    "login": "heuberf",
+    "name": "Fabian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124176254?s=72&u=2fc944df144395238a249cac295c04a88336471d&v=4",
+    "location": "Vienna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-01T15:12:54Z"
   }
 ]

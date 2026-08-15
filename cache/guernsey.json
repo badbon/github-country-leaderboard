@@ -142,5 +142,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-06-25T09:45:27Z"
+  },
+  {
+    "login": "nick-vermeulen",
+    "name": "Nick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26499619?s=72&u=8fc8c0b72915cc0700a1ee3a2f5852bf76a8219d&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1459,
+    "publicContributions": 23,
+    "createdAt": "2017-03-18T07:34:32Z"
+  },
+  {
+    "login": "tomupson",
+    "name": "Tom Upson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30987275?s=72&u=98260e89690a9bec30aaff729103a87c51b969bd&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2017-08-13T20:56:24Z"
+  },
+  {
+    "login": "davethepottingshed",
+    "name": "David Richards",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29524195?s=72&u=3d0468a035fee1803f37ddfaaf1b7e9b5488e41b&v=4",
+    "location": "Guernsey",
+    "company": "The Potting Shed",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-06-18T20:05:08Z"
   }
 ]

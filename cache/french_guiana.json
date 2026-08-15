@@ -274,5 +274,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-10-26T18:39:49Z"
+  },
+  {
+    "login": "emmanoe",
+    "name": "Emmanoe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26841656?s=72&u=e13b106ffb2398ea6d409470fa0737e33f3518d1&v=4",
+    "location": "Guyane, South - America",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-01T17:03:25Z"
+  },
+  {
+    "login": "LunettoRandall",
+    "name": "Randall Lunetto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24982353?s=72&u=2fcd4e0d3ba3129ed2f6518eddadf39d47cc5d09&v=4",
+    "location": "French Amazonia (Guyane)",
+    "company": "",
+    "twitterUsername": "randyLunetto",
+    "followers": 7,
+    "privateContributions": 1381,
+    "publicContributions": 0,
+    "createdAt": "2017-01-08T00:58:30Z"
   }
 ]

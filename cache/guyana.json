@@ -1582,5 +1582,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-09T13:10:11Z"
+  },
+  {
+    "login": "schrum2",
+    "name": "Jacob Schrum",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8397236?s=72&u=13ef0da6f267af04621eeb60e6c1db4c48ad429e&v=4",
+    "location": "Georgetown, TX",
+    "company": "Southwestern University",
+    "twitterUsername": "",
+    "followers": 58,
+    "privateContributions": 1051,
+    "publicContributions": 294,
+    "createdAt": "2014-08-08T18:01:37Z"
+  },
+  {
+    "login": "pachev",
+    "name": "Pachev Joseph",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6677295?s=72&u=2065b1e03ea643bcf66e67f6b2e40d7c1b7e87af&v=4",
+    "location": "Georgetown, TX",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 1873,
+    "publicContributions": 177,
+    "createdAt": "2014-02-13T23:33:20Z"
+  },
+  {
+    "login": "gdfaubion",
+    "name": "Grace",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6446512?s=72&u=d50dabd3d672a6e9f6dfc7986b4be9d1016c12cd&v=4",
+    "location": "Georgetown, TX",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-01-20T01:51:08Z"
+  },
+  {
+    "login": "jonathansharman",
+    "name": "Jonathan Sharman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9119952?s=72&u=a25e1ed5c938032025f49cd87eb740b34d30f92e&v=4",
+    "location": "Georgetown, DE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 2307,
+    "publicContributions": 147,
+    "createdAt": "2014-10-09T19:27:17Z"
+  },
+  {
+    "login": "jrdb",
+    "name": "Jeff deBeer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7613376?s=72&v=4",
+    "location": "Georgetown, TX",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-17T20:10:24Z"
+  },
+  {
+    "login": "tdbryan",
+    "name": "Tom Bryan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6402126?s=72&u=103967b1a56f44c4f602d481efd9909b885c89ce&v=4",
+    "location": "Georgetown, Washington D.C.",
+    "company": "The Saylor Academy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-01-14T18:22:33Z"
+  },
+  {
+    "login": "RevisionX",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9827194?s=72&u=2bff93103a70796ace0c32773fd52a0fd3acbb19&v=4",
+    "location": "Georgetown, TX",
+    "company": "SDET at https://www.dragos.com/",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-18T18:04:32Z"
   }
 ]
