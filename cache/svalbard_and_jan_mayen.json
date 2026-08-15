@@ -58,5 +58,29 @@
     "privateContributions": 45,
     "publicContributions": 49,
     "createdAt": "2019-08-12T23:14:18Z"
+  },
+  {
+    "login": "PrinsFrank",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25006490?s=72&u=6cae08ef7177112b704d3a5a928c03b2274c7ca2&v=4",
+    "location": "Haarlem, Netherlands & Longyearbyen, Svalbard",
+    "company": "@franksgrandtour",
+    "twitterUsername": "",
+    "followers": 106,
+    "privateContributions": 119,
+    "publicContributions": 809,
+    "createdAt": "2017-01-09T11:42:28Z"
+  },
+  {
+    "login": "sunnyerteit",
+    "name": "S🌞nny",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25279800?s=72&u=6441237b437498e52be0ca7894be528ebcb22dd3&v=4",
+    "location": "Longyearbyen",
+    "company": "Store Norske Spitsbergen Kulkompani AS",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2017-01-22T12:01:06Z"
   }
 ]

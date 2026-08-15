@@ -17698,5 +17698,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-25T13:41:08Z"
+  },
+  {
+    "login": "Nesterk5",
+    "name": "Nester",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98256112?s=72&v=4",
+    "location": "Kampala",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 109,
+    "createdAt": "2022-01-23T09:06:10Z"
+  },
+  {
+    "login": "KakeetoRonald",
+    "name": "Ronald Kakeeto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106591183?s=72&u=34f9e271150d8547c204934a6247f51ee9072508&v=4",
+    "location": "Kampala",
+    "company": "Living goods",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-31T10:17:47Z"
+  },
+  {
+    "login": "Riohenry",
+    "name": "lwanga Samson ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106816447?s=72&u=2bf8bec24de3626ca30acc5949c6cf947186f33b&v=4",
+    "location": "Kampala",
+    "company": "wittylooptech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2022-06-03T12:15:24Z"
+  },
+  {
+    "login": "tulyensimbi",
+    "name": "Musana Victor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103869907?s=72&u=2276ef7599debdf235e3e9b4f22e7949ac628f2d&v=4",
+    "location": "Kampala Ug",
+    "company": "techwiz tech ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5,
+    "publicContributions": 4,
+    "createdAt": "2022-04-17T03:53:12Z"
   }
 ]

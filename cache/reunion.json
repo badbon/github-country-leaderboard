@@ -1450,5 +1450,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-10-12T17:50:33Z"
+  },
+  {
+    "login": "PhilDL",
+    "name": "Philippe L'ATTENTION",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4941205?s=72&u=e1055ae0ae28b56f48080111a3e2aa319028c61f&v=4",
+    "location": "Réunion",
+    "company": "@Basaltbytes @Coding-Dodo",
+    "twitterUsername": "_philDL",
+    "followers": 67,
+    "privateContributions": 4188,
+    "publicContributions": 749,
+    "createdAt": "2013-07-04T14:05:41Z"
+  },
+  {
+    "login": "JulClt",
+    "name": "Julien Collet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4634811?s=72&u=4e82a83802bfcf1c5f60297b980a9518a3c753bc&v=4",
+    "location": "Réunion",
+    "company": "Scheduled",
+    "twitterUsername": "Ju_collet",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-06T22:17:25Z"
+  },
+  {
+    "login": "neilyc",
+    "name": "Fabien Logarinho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4470156?s=72&u=2fb62ceda46e7ad03b6ed71cea11b08c7da49a67&v=4",
+    "location": "Saint-Pierre, Réunion",
+    "company": "Cari Agency",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-05-19T10:37:46Z"
+  },
+  {
+    "login": "jeromejaglale",
+    "name": "Jerome Jaglale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3597814?s=72&u=197250079ff30c6a9e578089afb0124d7183870c&v=4",
+    "location": "Saint-Denis, Réunion",
+    "company": "",
+    "twitterUsername": "jeromejaglale",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-14T22:12:59Z"
+  },
+  {
+    "login": "engee974",
+    "name": "Nicolas Grondin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5074983?s=72&u=4a039a5a2472ce13764b5436902240c72c6eda93&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2013-07-23T17:24:22Z"
+  },
+  {
+    "login": "LaNouille974",
+    "name": "Robin RANGÉ-MADELEINE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3274009?s=72&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-15T10:07:30Z"
+  },
+  {
+    "login": "rivierem",
+    "name": "Mathieu Rivière",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3930884?s=72&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-21T12:15:51Z"
   }
 ]

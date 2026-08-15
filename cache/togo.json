@@ -6982,5 +6982,53 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2019-03-18T09:49:51Z"
+  },
+  {
+    "login": "knlb00",
+    "name": "Kenneth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58863455?s=72&v=4",
+    "location": "Lomé",
+    "company": "",
+    "twitterUsername": "Mr_KennethBrice",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-13T20:11:42Z"
+  },
+  {
+    "login": "mawena",
+    "name": "Charles",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57989130?s=72&u=88a191eee66ba3398ddab400f70b24ef7bdd7c9e&v=4",
+    "location": "Lomé",
+    "company": "",
+    "twitterUsername": "DieuGamligo",
+    "followers": 10,
+    "privateContributions": 437,
+    "publicContributions": 480,
+    "createdAt": "2019-11-20T10:42:46Z"
+  },
+  {
+    "login": "Latif-Tg",
+    "name": "nintche-san",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54267007?s=72&v=4",
+    "location": "Lomé",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-19T08:58:21Z"
+  },
+  {
+    "login": "sebdim",
+    "name": "KATAKA Diminin Komlan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58008068?s=72&v=4",
+    "location": "Lomé",
+    "company": "M'black Corporation",
+    "twitterUsername": "lepays13",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-20T19:55:07Z"
   }
 ]
