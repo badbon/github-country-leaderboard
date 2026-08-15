@@ -19042,5 +19042,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-21T15:01:49Z"
+  },
+  {
+    "login": "dario-dekovic",
+    "name": "Dario Deković",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72318909?s=72&u=e8252abe1bbacc9180d5c42d2b901a48c408cbd7&v=4",
+    "location": "Zagreb",
+    "company": "Faculty of Electrical Engineering and Computing",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 146,
+    "publicContributions": 0,
+    "createdAt": "2020-10-03T19:30:46Z"
+  },
+  {
+    "login": "ipenava95",
+    "name": "Ivana Penava",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64200545?s=72&u=90b530536a6f99b8f1270c10d29146ddd941c2b0&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-23T10:48:21Z"
+  },
+  {
+    "login": "ddzeko",
+    "name": "Damir Dzeko Antic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64541817?s=72&u=77cdac902544a653a7506cf35d786a1119acde4a&v=4",
+    "location": "Zagreb",
+    "company": "Adcubum",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2020-04-29T14:29:36Z"
+  },
+  {
+    "login": "MartaFatovic",
+    "name": "Marta Fatović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73060328?s=72&v=4",
+    "location": "Zagreb",
+    "company": "Ruđer Bošković Institute",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-18T10:39:24Z"
+  },
+  {
+    "login": "atafra92",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69970060?s=72&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-20T12:13:25Z"
+  },
+  {
+    "login": "maja-turcic",
+    "name": "Maja Turčić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70169782?s=72&u=fb98e4b264b58397b0c51f124218ab6db0dc69eb&v=4",
+    "location": "Zagreb",
+    "company": "University of Applied Sciences Zagreb",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-24T18:56:54Z"
   }
 ]

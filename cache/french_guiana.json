@@ -334,5 +334,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-05-22T12:41:32Z"
+  },
+  {
+    "login": "highotutorn",
+    "name": "Dawn Alexander",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7944604?s=72&v=4",
+    "location": "Elizabethberg, French Guiana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 135,
+    "createdAt": "2014-06-20T15:39:14Z"
+  },
+  {
+    "login": "finnpiatscheck",
+    "name": "Finn Piatscheck",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6617528?s=72&u=dfdb169145d135213909a7e622419f5519ae270c&v=4",
+    "location": "Kourou, French Guiana",
+    "company": "UMR EcoFoG",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2014-02-07T16:38:10Z"
   }
 ]

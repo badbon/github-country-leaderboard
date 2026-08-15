@@ -19342,5 +19342,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-07-05T23:40:19Z"
+  },
+  {
+    "login": "jvekeman",
+    "name": "Joren Vekeman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100366207?s=72&u=056dd153f0fbab34b4e1199c006b62f34babbfb2&v=4",
+    "location": "België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-24T15:16:04Z"
+  },
+  {
+    "login": "pmg-khedadunayeva",
+    "name": "Kheda Dunayeva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113594142?s=72&v=4",
+    "location": "Kortrijk,  België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-15T09:40:47Z"
+  },
+  {
+    "login": "BaeyensRobbe",
+    "name": "Robbe Baeyens",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100414377?s=72&v=4",
+    "location": "Leuven, België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2022-02-25T10:45:28Z"
+  },
+  {
+    "login": "pgm-jamevanw",
+    "name": "James Van Weyenbergh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115139656?s=72&u=5d11b30abe0b551805e97a3306316bcecc6bd5f6&v=4",
+    "location": "Etikhove, Vlaanderen, België",
+    "company": "Arteveldehogeschool",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-10-06T07:05:41Z"
   }
 ]

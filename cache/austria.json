@@ -29422,5 +29422,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-08-27T14:18:15Z"
+  },
+  {
+    "login": "EjubBeg",
+    "name": "Ejub Bilajbegovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54684321?s=72&u=d8800f6cba689eedc74b1b225b2638fc95a1fe03&v=4",
+    "location": "Vienna , Austria / Sarajevo , Bosnia and Hercegovina",
+    "company": "University of Applied Sciences Technikum Wien",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-29T18:37:15Z"
+  },
+  {
+    "login": "davidpavlicek36",
+    "name": "David Pavlicek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117974146?s=72&u=6f172fbf40bc1000a16d3d9568555b3bb5680c55&v=4",
+    "location": "Prague, Vienna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 157,
+    "createdAt": "2022-11-11T07:33:10Z"
+  },
+  {
+    "login": "kitfriend",
+    "name": "Kit Friend",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38721587?s=72&u=2364f452d06b360d8b2f341c7b196c0bd487487f&v=4",
+    "location": "London, Vienna, Riga",
+    "company": "Accenture",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-25T10:16:45Z"
   }
 ]

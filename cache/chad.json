@@ -2182,5 +2182,29 @@
     "privateContributions": 0,
     "publicContributions": 155,
     "createdAt": "2017-08-09T23:58:35Z"
+  },
+  {
+    "login": "Yamingue",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32344953?s=72&v=4",
+    "location": "Tchad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 2,
+    "publicContributions": 13,
+    "createdAt": "2017-09-27T22:06:28Z"
+  },
+  {
+    "login": "Korom10",
+    "name": "Korom Mahamat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27283962?s=72&u=75e16ae540d538b576c743b2a131c221e1bb1a27&v=4",
+    "location": "N'Djamena-Tchad",
+    "company": "WenakLabs",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-11T12:08:45Z"
   }
 ]

@@ -36490,5 +36490,41 @@
     "privateContributions": 0,
     "publicContributions": 200,
     "createdAt": "2023-01-03T19:16:33Z"
+  },
+  {
+    "login": "microwirept",
+    "name": "Micro Wire",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10730638?s=72&u=422ff39488627afeebf9727c132ea917635685a4&v=4",
+    "location": "Praia de Mira, Portugal",
+    "company": "Micro Wire",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-27T19:46:15Z"
+  },
+  {
+    "login": "ivandrofly",
+    "name": "Ivandro Jao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6579818?s=72&u=51702731f9db028fffc9e2ee7e2fb19b76061f39&v=4",
+    "location": "Lisbon, Portugal (From Guinea-Bissau)",
+    "company": "@broadcastmap @SubtitleEdit @nibblesoft @design-patterns-for-humans ",
+    "twitterUsername": "ivandrofly",
+    "followers": 109,
+    "privateContributions": 604,
+    "publicContributions": 375,
+    "createdAt": "2014-02-03T23:33:28Z"
+  },
+  {
+    "login": "tiagomfcorreia",
+    "name": "Tiago Correia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55465865?s=72&v=4",
+    "location": "Madeira Island | Portugal ",
+    "company": "",
+    "twitterUsername": "tiagomfcorreia",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-17T22:12:04Z"
   }
 ]

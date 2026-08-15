@@ -5998,5 +5998,53 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2018-11-03T14:52:21Z"
+  },
+  {
+    "login": "DesktopECHO",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33142753?s=72&u=52b0dfcbb371c0ab29917bc6ab8880d08f427734&v=4",
+    "location": "Hamilton, Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 196,
+    "privateContributions": 0,
+    "publicContributions": 750,
+    "createdAt": "2017-10-27T03:35:21Z"
+  },
+  {
+    "login": "DukeWF",
+    "name": "Fan WANG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26487327?s=72&u=1f3c626fb5abe3c4e1f046529b768d9a1d45bcd2&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2017-03-17T15:04:32Z"
+  },
+  {
+    "login": "Inkiy",
+    "name": "Inkiy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32448767?s=72&u=df588cc68a10907750eb956146e86f7c9d78b9fd&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2017-10-02T07:29:01Z"
+  },
+  {
+    "login": "Joserraffrey",
+    "name": "Jose Flores Frey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34423566?s=72&u=091b0d25be1259f3163faa36cb3277357f436b51&v=4",
+    "location": "Hamilton, Bermuda",
+    "company": "@novalimited ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-10T19:00:23Z"
   }
 ]

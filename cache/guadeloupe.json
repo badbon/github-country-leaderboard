@@ -970,5 +970,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-12-13T15:10:47Z"
+  },
+  {
+    "login": "khalil-tabbal",
+    "name": "Khalil TABBAL",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/417641?s=72&u=6c8b3183d40d1d8f27cc5927c51278cb2981fdde&v=4",
+    "location": "Guadeloupe",
+    "company": "Gwadaweb",
+    "twitterUsername": "rubatdub",
+    "followers": 37,
+    "privateContributions": 43,
+    "publicContributions": 25,
+    "createdAt": "2010-09-27T13:52:11Z"
+  },
+  {
+    "login": "r1d",
+    "name": "Eric Degoul",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/400425?s=72&v=4",
+    "location": "Sainte-Anne, Guadeloupe",
+    "company": "EDSI Technologie",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 413,
+    "publicContributions": 16,
+    "createdAt": "2010-09-15T15:16:52Z"
   }
 ]

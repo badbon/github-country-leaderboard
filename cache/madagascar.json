@@ -18622,5 +18622,53 @@
     "privateContributions": 123,
     "publicContributions": 4,
     "createdAt": "2019-11-26T15:02:08Z"
+  },
+  {
+    "login": "schumann-jdev",
+    "name": "Schumann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55322704?s=72&u=b8513013604d5a2fdc6e360c16dcc5140bf59579&v=4",
+    "location": "Ambalavao - Fianarantsoa (Madagascar)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1933,
+    "publicContributions": 1,
+    "createdAt": "2019-09-14T14:41:45Z"
+  },
+  {
+    "login": "Idealy26",
+    "name": "ZELDRIS77",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58625866?s=72&u=e4ff3bb8612161bff03e42be2807ab1312318055&v=4",
+    "location": "Fianarantsoa, Madagascar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2019-12-07T11:03:39Z"
+  },
+  {
+    "login": "fanoelamanohisoa",
+    "name": "Andriantsimialona Manohisoa Fanoela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55020930?s=72&u=fa87dddd72167f126990cd945bb5e3f6eb708637&v=4",
+    "location": "Antananarivo Madagascar",
+    "company": "Fanoela.in",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-07T11:24:49Z"
+  },
+  {
+    "login": "tsiritiana",
+    "name": "tsiritianaRaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59257763?s=72&v=4",
+    "location": "Madagascar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-26T14:44:20Z"
   }
 ]

@@ -2986,5 +2986,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-04-20T21:14:20Z"
+  },
+  {
+    "login": "MBKaba",
+    "name": "Bakary Kaba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6310411?s=72&v=4",
+    "location": "Conakry, Guinea",
+    "company": "Fasso",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-01-03T10:49:43Z"
+  },
+  {
+    "login": "Ami-Aicha",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10177858?s=72&v=4",
+    "location": "Conakry Guinea",
+    "company": "Guitrapres SARL",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-13T16:25:01Z"
   }
 ]

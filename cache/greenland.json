@@ -706,5 +706,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-27T16:03:44Z"
+  },
+  {
+    "login": "sgoggins",
+    "name": "Sean P. Goggins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/379847?s=72&u=c10d7486b40ff6e09d5017e45532c290ee71d4dd&v=4",
+    "location": "Greenland",
+    "company": "University of Missouri & Linux Foundation CHAOSS Project",
+    "twitterUsername": "sociallycompute",
+    "followers": 200,
+    "privateContributions": 1813,
+    "publicContributions": 1615,
+    "createdAt": "2010-08-29T16:25:48Z"
+  },
+  {
+    "login": "nuncle",
+    "name": "Nuncle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/523577?s=72&v=4",
+    "location": "Nuuk, Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-15T01:14:33Z"
   }
 ]

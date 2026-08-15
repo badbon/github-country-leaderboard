@@ -430,5 +430,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-07T16:49:33Z"
+  },
+  {
+    "login": "benkhaireh",
+    "name": "Mohamed Khaireh O.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62518373?s=72&u=ae0914bf98abde1b87bfc4b7fbdc09ccca1c4bb1&v=4",
+    "location": "Djibouti",
+    "company": "",
+    "twitterUsername": "benkhaireh",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-22T18:45:13Z"
+  },
+  {
+    "login": "moha-12",
+    "name": "Mohamed said okieh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60185157?s=72&u=1d20832c66890fbc323f18d8d23c3dafd39c75c4&v=4",
+    "location": "Djibouti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2020-01-22T14:18:38Z"
+  },
+  {
+    "login": "NouradineAbdi",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76558861?s=72&u=1d4c4e75d883961f564c7fa5cf37d72eed01585f&v=4",
+    "location": "Djibouti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-24T12:12:31Z"
   }
 ]

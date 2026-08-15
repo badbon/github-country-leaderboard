@@ -2434,5 +2434,29 @@
     "privateContributions": 141,
     "publicContributions": 0,
     "createdAt": "2011-07-14T19:35:39Z"
+  },
+  {
+    "login": "ajshea",
+    "name": "Alan Shea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286883?s=72&v=4",
+    "location": "Monrovia, Liberia",
+    "company": "Radio ELWA ",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2010-05-25T18:03:12Z"
+  },
+  {
+    "login": "Codex26",
+    "name": "LIB-Social Network",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/319941?s=72&v=4",
+    "location": "Liberia",
+    "company": "Liberia Social Network",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-01T10:55:15Z"
   }
 ]

@@ -1810,5 +1810,53 @@
     "privateContributions": 17,
     "publicContributions": 63,
     "createdAt": "2011-01-22T08:44:52Z"
+  },
+  {
+    "login": "axelearning",
+    "name": "Axel Rasse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55969238?s=72&u=0d4b4edb2ddc5dfb7b8468ef29abe8a78b870784&v=4",
+    "location": "Reunion island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 3131,
+    "publicContributions": 68,
+    "createdAt": "2019-09-30T04:17:53Z"
+  },
+  {
+    "login": "bdeguigne",
+    "name": "Brice Deguigne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47141454?s=72&u=3d28da9b7f86275ede42bacea648a840534d52b7&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2019-01-29T10:17:01Z"
+  },
+  {
+    "login": "DavidReu",
+    "name": "David ADOLPHE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56294474?s=72&u=31a52b713e8f2d095ae51b3a0b2ee97ff963405a&v=4",
+    "location": "Reunion island ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-08T07:52:24Z"
+  },
+  {
+    "login": "PixelSunsetStd",
+    "name": "Pixel Sunset Studio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46807756?s=72&u=721fa224a0047648bcddd5a08c5d7c9c9dc3fe91&v=4",
+    "location": "Reunion Island",
+    "company": "Pixel Sunset Studio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-18T06:41:04Z"
   }
 ]

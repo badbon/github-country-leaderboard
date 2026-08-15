@@ -3370,5 +3370,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-08-13T05:37:01Z"
+  },
+  {
+    "login": "JohnMcLaren",
+    "name": "JML",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10256841?s=72&u=4fee6320e0f3b5f1ccfe6a2a4f22cc318587517e&v=4",
+    "location": "Papua New Guinea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2014-12-21T01:37:13Z"
+  },
+  {
+    "login": "papuamart",
+    "name": "papuamart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8179222?s=72&u=71e743ebe4c644b5bcac447fbd0c7f9fbeef060e&v=4",
+    "location": "Port Moresby, Papua New Guinea",
+    "company": "papuamart",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-16T10:31:31Z"
+  },
+  {
+    "login": "dbenig",
+    "name": "Doris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8702737?s=72&u=19d6ed4bb10441f5c41ac2bee6adf2f9ddeefd8b&v=4",
+    "location": "Madang, Papua New Guinea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-09T00:03:40Z"
+  },
+  {
+    "login": "csiwick",
+    "name": "Cain Siwick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8820665?s=72&u=d54c789e1437b698d91cfa55c91d2a50e701af1d&v=4",
+    "location": "Lae, Papua New Guinea",
+    "company": "Gentamo Head Start School",
+    "twitterUsername": "cainsiwick",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-09-18T13:02:29Z"
+  },
+  {
+    "login": "LeonardWanusim",
+    "name": "Leonard Wanusim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9144431?s=72&u=abb7e928143e0ec5d33cf998c6294ac58da62a96&v=4",
+    "location": "Papua New Guinea",
+    "company": "Minsoft",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-11T00:35:14Z"
+  },
+  {
+    "login": "Vulum",
+    "name": "Charlie Vulum",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9832846?s=72&v=4",
+    "location": "Papua New Guinea",
+    "company": "dBee Tech",
+    "twitterUsername": "cvulum",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-18T23:32:12Z"
+  },
+  {
+    "login": "gtuges",
+    "name": "George Tuges",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10139954?s=72&u=027dc8593b306587d7ac834223248a22232c34f6&v=4",
+    "location": "Port Moresby, Papua New Guinea",
+    "company": "Rapid IT support PNG",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2014-12-10T08:43:29Z"
   }
 ]

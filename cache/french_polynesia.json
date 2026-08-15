@@ -502,5 +502,41 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2015-05-04T19:34:32Z"
+  },
+  {
+    "login": "rputoa",
+    "name": "Rowan PUTOA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9744516?s=72&u=902379783a6523fd71424decdee4f013e1618da1&v=4",
+    "location": "Papeete, French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2014-11-14T13:02:23Z"
+  },
+  {
+    "login": "Bfkearney",
+    "name": "Brian K",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8834026?s=72&u=0b244dc7eed4d7314b9c3f1c20c83580628a469a&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-19T14:54:21Z"
+  },
+  {
+    "login": "sysnux",
+    "name": "Jean-Denis Girard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6288570?s=72&v=4",
+    "location": "Tahiti, French Polynesia, Polynésie française",
+    "company": "SysNux",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2013-12-30T19:00:40Z"
   }
 ]
