@@ -1510,5 +1510,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-31T14:18:47Z"
+  },
+  {
+    "login": "Alien-nick",
+    "name": "Nicholas Seetaram",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8863382?s=72&u=4c590aa7d094f04523e8ab11da99794430b3bf23&v=4",
+    "location": "South America, Guyana, Georgetown",
+    "company": "@Cassini-Technologies ",
+    "twitterUsername": "NicholasSeetar2",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-22T15:55:52Z"
+  },
+  {
+    "login": "blackMastery",
+    "name": "kevon Cadogan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9532587?s=72&u=9ba09dc21454526856f6ab271a85ee48c674956f&v=4",
+    "location": "Guyana",
+    "company": "v75inc",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 279,
+    "publicContributions": 515,
+    "createdAt": "2014-11-03T15:04:48Z"
+  },
+  {
+    "login": "christulsi",
+    "name": "Chris Tulsi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7409482?s=72&v=4",
+    "location": "Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 92,
+    "createdAt": "2014-04-25T21:30:15Z"
+  },
+  {
+    "login": "KevonGittens1",
+    "name": "Kevon Gittens",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7304598?s=72&v=4",
+    "location": "Guyana",
+    "company": "Pollards et Filles",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-15T16:10:44Z"
+  },
+  {
+    "login": "Vidyaratha",
+    "name": "Vidyaratha Kissoon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10225428?s=72&u=006446c97993aa1c3387728f696dd78d775b2d30&v=4",
+    "location": "Georgetown, Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-17T20:44:55Z"
+  },
+  {
+    "login": "wossman",
+    "name": "Wossen Wyatt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9639348?s=72&u=bf231ab323a79a7afc3728c9edbb18f459451ac3&v=4",
+    "location": "Georgetown, Guyana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-09T13:10:11Z"
   }
 ]

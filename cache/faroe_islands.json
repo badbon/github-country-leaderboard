@@ -166,5 +166,65 @@
     "privateContributions": 11,
     "publicContributions": 29,
     "createdAt": "2020-05-18T15:29:02Z"
+  },
+  {
+    "login": "kruseio",
+    "name": "Ragnar Kruse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46799551?s=72&u=0ea7e2d9946ffa7b21c52558d26861f10f648012&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "kruseio",
+    "followers": 196,
+    "privateContributions": 3956,
+    "publicContributions": 830,
+    "createdAt": "2019-01-17T23:09:45Z"
+  },
+  {
+    "login": "epicmoneystaff",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46501031?s=72&u=82be3efff47074284ceb103012416f1ab2d30905&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-08T19:43:48Z"
+  },
+  {
+    "login": "BgAndreasen",
+    "name": "Birgitta Andreasen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47304491?s=72&u=61da45697dbbed3f520509f792ae010da68ce4bb&v=4",
+    "location": "Faroe Islands",
+    "company": "@Fiskaaling ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 135,
+    "publicContributions": 40,
+    "createdAt": "2019-02-03T19:50:34Z"
+  },
+  {
+    "login": "simunherm",
+    "name": "Símun Hermundarson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48226950?s=72&v=4",
+    "location": "faroe islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2019-03-04T22:59:37Z"
+  },
+  {
+    "login": "folk-api",
+    "name": "Folk API",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51128493?s=72&v=4",
+    "location": "Tórshavn, Faroe Islands",
+    "company": "Umhvørvisstovan",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-28T15:35:03Z"
   }
 ]

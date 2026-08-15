@@ -70,5 +70,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-12T04:21:02Z"
+  },
+  {
+    "login": "rscoopcur",
+    "name": "Richard Scoop",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65142924?s=72&v=4",
+    "location": "Willemstad, Curaçao, Dutch Caribbean",
+    "company": "Cursoft Development & Consultancy NV",
+    "twitterUsername": "rascoop",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2020-05-11T01:33:49Z"
+  },
+  {
+    "login": "LuukDAO",
+    "name": "LuukDAO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59537248?s=72&u=34dfb409ab85ec05e3258b6a3252620445dde829&v=4",
+    "location": "Curaçao",
+    "company": "EcoLabs",
+    "twitterUsername": "LuukDAO",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2020-01-05T17:08:58Z"
+  },
+  {
+    "login": "JObersi10",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68297002?s=72&v=4",
+    "location": "Willemstad, Curaçao",
+    "company": "@Hack-Club-Curacao ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 271,
+    "createdAt": "2020-07-14T18:07:02Z"
+  },
+  {
+    "login": "AngoTheB",
+    "name": "Angelo Bartholomeus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66525629?s=72&v=4",
+    "location": "Willemstad, Curaçao",
+    "company": "None",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-06T15:37:10Z"
   }
 ]

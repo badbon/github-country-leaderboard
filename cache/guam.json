@@ -442,5 +442,53 @@
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2015-10-08T16:19:43Z"
+  },
+  {
+    "login": "alexmwhite",
+    "name": "Alex M. White",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6721907?s=72&u=1614342189f7d682428e8225675e2276844f3e37&v=4",
+    "location": "Guam",
+    "company": "CHamoru",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-19T00:25:32Z"
+  },
+  {
+    "login": "laluis1",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8938519?s=72&v=4",
+    "location": "Guam",
+    "company": "NONE",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-27T12:38:42Z"
+  },
+  {
+    "login": "ChairGTables",
+    "name": "Jurichii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9557142?s=72&u=ef149adb02a39bd8296fa7a6596152673749eb08&v=4",
+    "location": "Guam",
+    "company": "Lame Dimension",
+    "twitterUsername": "chairgtables",
+    "followers": 5,
+    "privateContributions": 1768,
+    "publicContributions": 3,
+    "createdAt": "2014-11-04T18:20:44Z"
+  },
+  {
+    "login": "autumnfr0st671",
+    "name": "MIchael T. Santos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10173865?s=72&u=d9529e8fda59d193c51295bada03575f8ff49e3f&v=4",
+    "location": "Guam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-13T06:19:28Z"
   }
 ]

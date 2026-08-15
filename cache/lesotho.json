@@ -1474,5 +1474,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-06T11:40:57Z"
+  },
+  {
+    "login": "khauta",
+    "name": "Khauta Maliehe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32849264?s=72&u=f34f07db7d46c70b7e989a96f222655fbb922599&v=4",
+    "location": "Maseru, Lesotho",
+    "company": "@Liparola ",
+    "twitterUsername": "kjamaliehe",
+    "followers": 36,
+    "privateContributions": 202,
+    "publicContributions": 148,
+    "createdAt": "2017-10-16T17:54:07Z"
+  },
+  {
+    "login": "Motseki",
+    "name": "Lebohang Bernard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33450828?s=72&u=278bcb2a235e6bb694590baf92960a3d5087032b&v=4",
+    "location": "Lesotho",
+    "company": "",
+    "twitterUsername": "lbmotseki",
+    "followers": 29,
+    "privateContributions": 5,
+    "publicContributions": 13,
+    "createdAt": "2017-11-07T10:33:30Z"
+  },
+  {
+    "login": "lotesm",
+    "name": "Lotes Molapo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34619025?s=72&u=dfbd3b512f4a8241a9dba5dddb58179f500d9e77&v=4",
+    "location": "Maseru, Lesotho",
+    "company": "Bethord Solutions",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2017-12-17T08:47:38Z"
+  },
+  {
+    "login": "codeTaboo420",
+    "name": "codeTaboo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24991118?s=72&u=cc944b12e9ced4d8ddd062afb79a1fd57eb59753&v=4",
+    "location": "Maseru,Lesotho",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-08T16:22:09Z"
+  },
+  {
+    "login": "mohaumpoti",
+    "name": "Mohau Mpoti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32164691?s=72&v=4",
+    "location": "Maseru, Lesotho",
+    "company": "Spreebie, Inc.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-21T11:22:28Z"
   }
 ]

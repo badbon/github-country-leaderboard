@@ -10294,5 +10294,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-05-20T17:07:15Z"
+  },
+  {
+    "login": "rudomhango",
+    "name": "Rhudo Mhango",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13074962?s=72&u=8e7a608bbcaaf0dd6bd384a7c430ffb8852e35d3&v=4",
+    "location": "Lilongwe",
+    "company": "Blue Orange Mw",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-27T08:22:38Z"
+  },
+  {
+    "login": "wmwabumba",
+    "name": "Winston Mwabumba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13448369?s=72&u=745621525bb4b4ed24adf86b0a729c98d74530e2&v=4",
+    "location": "Lilongwe",
+    "company": "Elizabeth Glaser Pediatrics AIDS Foundation",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-22T08:16:31Z"
+  },
+  {
+    "login": "RICKLEYA",
+    "name": "Patrick Balaleya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12342058?s=72&u=e13bf9c3b8a6b677d71edaf0ce82371e16f823a7&v=4",
+    "location": "Lilongwe",
+    "company": "Elizabeth Glaser Pediatric AIDS Foundation",
+    "twitterUsername": "LoganBalaleya",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-08T13:46:50Z"
   }
 ]

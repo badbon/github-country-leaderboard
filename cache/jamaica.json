@@ -15430,5 +15430,53 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2008-10-30T12:41:31Z"
+  },
+  {
+    "login": "jed",
+    "name": "Jed Schmidt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4433?s=72&u=690e0375920722e0a7637462e86780feb9725f6d&v=4",
+    "location": "Kingston, NY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1144,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2008-04-03T03:12:49Z"
+  },
+  {
+    "login": "quirkey",
+    "name": "Aaron Quint",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1097?s=72&u=9e2ee067a7379c405b00c2f31ddb4ad3b3c5f6f9&v=4",
+    "location": "Kingston, NY",
+    "company": "Heroku ",
+    "twitterUsername": "",
+    "followers": 543,
+    "privateContributions": 643,
+    "publicContributions": 4,
+    "createdAt": "2008-02-27T16:53:49Z"
+  },
+  {
+    "login": "andrewmaier",
+    "name": "Andrew Maier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2970?s=72&u=a0eae631ddaa2f8646488c34ad502f11d112bcd8&v=4",
+    "location": "Kingston, Ontario",
+    "company": "User Friendliest",
+    "twitterUsername": "",
+    "followers": 93,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-03-13T04:00:16Z"
+  },
+  {
+    "login": "roomnoise",
+    "name": "Marcus Smith",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8666?s=72&u=072043303101103238e7a229983cb1001a8d5e77&v=4",
+    "location": "NYC / Kingston",
+    "company": "DoubleVerify",
+    "twitterUsername": "roomnoise",
+    "followers": 26,
+    "privateContributions": 647,
+    "publicContributions": 0,
+    "createdAt": "2008-04-27T23:46:40Z"
   }
 ]

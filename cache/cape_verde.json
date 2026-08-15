@@ -5602,5 +5602,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-06-10T13:03:15Z"
+  },
+  {
+    "login": "FredSoares",
+    "name": "Frederico Soares",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29602236?s=72&u=bd867a87dd1e76c6c100923132c76e674250683d&v=4",
+    "location": "Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 53,
+    "privateContributions": 11,
+    "publicContributions": 3,
+    "createdAt": "2017-06-21T12:37:36Z"
+  },
+  {
+    "login": "thisisleobro",
+    "name": "Leo Carvalho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25367871?s=72&u=4ad98d1e49aa68a7c2d1772a275e869b2017deec&v=4",
+    "location": "Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 127,
+    "publicContributions": 210,
+    "createdAt": "2017-01-26T14:28:41Z"
+  },
+  {
+    "login": "Smithmayowa20",
+    "name": "Alli-smith Mayowa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27036877?s=72&u=322a03afe510f47d717045ee2912fb4dbcec04f5&v=4",
+    "location": "Priar, Cape Verde",
+    "company": "QuestGen",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2017-04-08T00:59:55Z"
   }
 ]
