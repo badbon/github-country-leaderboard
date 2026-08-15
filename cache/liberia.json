@@ -2374,5 +2374,41 @@
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2013-04-12T23:47:05Z"
+  },
+  {
+    "login": "tksiakor",
+    "name": "Kpetermeni Siakor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/736978?s=72&u=b35e6479496cc50d365de739cd6723b862bfcfdf&v=4",
+    "location": "Monrovia, Liberia",
+    "company": "Kwagei Group",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2011-04-18T15:50:10Z"
+  },
+  {
+    "login": "mysterioux",
+    "name": "Christian Emenike",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1122263?s=72&u=e7b8b631291677b718521a9e85a3017656199814&v=4",
+    "location": "Monrovia-Liberia",
+    "company": "Sabinovates LLC",
+    "twitterUsername": "ccemenike",
+    "followers": 7,
+    "privateContributions": 1,
+    "publicContributions": 3,
+    "createdAt": "2011-10-12T12:08:10Z"
+  },
+  {
+    "login": "zustiizth",
+    "name": "Voits Winkler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/548651?s=72&v=4",
+    "location": "Logan Town, Bushrod Island, Monrovia, Liberia",
+    "company": "Go Get The Girls Entertainment",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-05T13:39:05Z"
   }
 ]

@@ -670,5 +670,41 @@
     "privateContributions": 3,
     "publicContributions": 28,
     "createdAt": "2012-02-24T15:48:00Z"
+  },
+  {
+    "login": "pierreminik",
+    "name": "Pierre Minik Lynge",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/614588?s=72&u=0f8863988bb1cbec7229abde73e6057c7d898363&v=4",
+    "location": "Kalaallit Nunaat (Greenland)",
+    "company": "Code Bureau ApS",
+    "twitterUsername": "pierreminik",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-12T16:58:04Z"
+  },
+  {
+    "login": "rokarolla",
+    "name": "Andrey E.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1165683?s=72&u=e677ff072d267625844cc92ce39b7ebb11dc7c94&v=4",
+    "location": "Station Nord, Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 14,
+    "publicContributions": 0,
+    "createdAt": "2011-11-01T19:37:52Z"
+  },
+  {
+    "login": "RasmusLarsen",
+    "name": "Rasmus W. Larsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/755008?s=72&v=4",
+    "location": "Nuuk, Greenland",
+    "company": "Tele Greenland A/S",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-27T16:03:44Z"
   }
 ]

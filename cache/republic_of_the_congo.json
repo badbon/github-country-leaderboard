@@ -3190,5 +3190,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-03-11T12:48:28Z"
+  },
+  {
+    "login": "siattesting",
+    "name": "Siat Testing",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18294664?s=72&v=4",
+    "location": "Brazzaville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2016-04-05T20:27:53Z"
+  },
+  {
+    "login": "JozyKial",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22359934?s=72&u=8e7bf71fdcda87a11f2063fcc13f99d4fd45eb2d&v=4",
+    "location": "Brazzaville",
+    "company": "",
+    "twitterUsername": "jozykial",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 56,
+    "createdAt": "2016-09-22T02:04:03Z"
+  },
+  {
+    "login": "cestvictor",
+    "name": "cestvictor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21105519?s=72&v=4",
+    "location": "Brazzaville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-18T14:25:28Z"
+  },
+  {
+    "login": "KarlObissi",
+    "name": "Karl OBISSI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19191089?s=72&u=636e8af94b7f0de701c9a491e81d59f99bc25086&v=4",
+    "location": "Brazzaville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-04T15:43:09Z"
   }
 ]

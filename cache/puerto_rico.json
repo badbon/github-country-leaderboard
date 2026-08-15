@@ -12502,5 +12502,65 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2016-12-02T00:18:10Z"
+  },
+  {
+    "login": "javier79",
+    "name": "Enrique j. Pizarro ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22713850?s=72&v=4",
+    "location": "San Juan, Puerto Rico",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2016-10-08T15:51:18Z"
+  },
+  {
+    "login": "SPOTERY",
+    "name": "Yisel Rosario",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23106976?s=72&v=4",
+    "location": "Puerto Rico",
+    "company": "http://spotery.com/f/index",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-27T19:31:25Z"
+  },
+  {
+    "login": "JanManuel",
+    "name": "Jan M. Gonzalez De Leon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23271334?s=72&v=4",
+    "location": "Puerto Rico",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-05T02:11:42Z"
+  },
+  {
+    "login": "TheOceanMan7",
+    "name": "Luis Diaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22921204?s=72&u=6a623974181350973d52abf40d3f08cba0223d2d&v=4",
+    "location": "Puerto Rico",
+    "company": "ICF International, Inc.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-18T20:08:17Z"
+  },
+  {
+    "login": "joeltorres4",
+    "name": "Joel Torres",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22302875?s=72&u=c596cddb6c5929445e183396763c37d906080b0f&v=4",
+    "location": "Puerto Rico",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-19T18:09:12Z"
   }
 ]

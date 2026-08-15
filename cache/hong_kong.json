@@ -33850,5 +33850,53 @@
     "privateContributions": 219,
     "publicContributions": 397,
     "createdAt": "2021-02-14T07:20:47Z"
+  },
+  {
+    "login": "mo3300047",
+    "name": "Liyuan Guo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84968865?s=72&v=4",
+    "location": "Hong Kong",
+    "company": "@jhu-ip",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 44,
+    "publicContributions": 10,
+    "createdAt": "2021-05-28T10:45:55Z"
+  },
+  {
+    "login": "siuma0x",
+    "name": "Marco Ma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95297542?s=72&v=4",
+    "location": "Hong Kong",
+    "company": "NEXT APP LIMITED",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 96,
+    "publicContributions": 10,
+    "createdAt": "2021-11-30T14:43:29Z"
+  },
+  {
+    "login": "dgcare",
+    "name": "YUE KAI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89897468?s=72&v=4",
+    "location": "Hong Kong",
+    "company": "CUHK",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2021-09-01T05:59:16Z"
+  },
+  {
+    "login": "fung673",
+    "name": "Alex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81915526?s=72&u=7723fb4cd237233d3695b81d3ca9b4b9c451225f&v=4",
+    "location": "Hong Kong",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 173,
+    "publicContributions": 0,
+    "createdAt": "2021-04-04T14:17:04Z"
   }
 ]

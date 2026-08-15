@@ -30778,5 +30778,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-08T09:12:46Z"
+  },
+  {
+    "login": "mattboyd123",
+    "name": "Matthew Boyd",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97098959?s=72&u=c72766a0a770267c76f393575fa402b5f24b16d2&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "@Deliveroo",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-04T11:36:35Z"
+  },
+  {
+    "login": "DKMTech79",
+    "name": "David Kerr-McCullough",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119787711?s=72&u=7f807e523c68ac78bb8f54bdf24b322071602876&v=4",
+    "location": "Northern Ireland",
+    "company": "Information Technology",
+    "twitterUsername": "DavidKerrMcC",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-04T10:29:26Z"
+  },
+  {
+    "login": "LeoMul",
+    "name": "Leo Patrick Mulholland",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106152790?s=72&u=3a26280e3a37819b65cb87bff732a9a99c7f7433&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "Queen's University Belfast",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2022-05-24T10:16:59Z"
+  },
+  {
+    "login": "yasrig",
+    "name": "Yas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115878267?s=72&u=f04add7c34f10dcc963567655d49e285366e55e0&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 220,
+    "publicContributions": 52,
+    "createdAt": "2022-10-15T12:21:11Z"
+  },
+  {
+    "login": "LexPew",
+    "name": "James Munnis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100762069?s=72&u=11c7c0b8741ad0b245e71f1924a51f28eb0535f6&v=4",
+    "location": "Northern Ireland / Middlesbrough",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 53,
+    "publicContributions": 74,
+    "createdAt": "2022-03-02T09:05:04Z"
+  },
+  {
+    "login": "Glentoran-Andy",
+    "name": "Andy Armstrong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107406557?s=72&u=ebc3f09151ac383837c270a3d444a037a81a98f2&v=4",
+    "location": "Newtownabbey, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-06-13T11:23:52Z"
   }
 ]

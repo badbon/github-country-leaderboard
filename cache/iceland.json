@@ -3922,5 +3922,113 @@
     "privateContributions": 6007,
     "publicContributions": 222,
     "createdAt": "2020-05-17T12:02:46Z"
+  },
+  {
+    "login": "Dorine-forritari",
+    "name": "Dorine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74107391?s=72&u=0cc7f27145642b01bc606764b8780c21ed4ad9ce&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-07T15:35:43Z"
+  },
+  {
+    "login": "AtefeD",
+    "name": "Atefe Darzi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60430903?s=72&u=e389dcdc6c8eecb876f3a4fd9c1847cbe3016797&v=4",
+    "location": "Reykjavik",
+    "company": "University of Iceland",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 9,
+    "publicContributions": 1,
+    "createdAt": "2020-01-29T12:06:04Z"
+  },
+  {
+    "login": "EwaDwornik",
+    "name": "Ewa Dwornik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63161019?s=72&u=da987ec18c75291054820124974ac17ef173fce9&v=4",
+    "location": "Reykjavik",
+    "company": "@PureNorth ",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-04T16:35:09Z"
+  },
+  {
+    "login": "vjstripeika",
+    "name": "Vytautas Jonas Stripeika",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73098514?s=72&u=a1449df4368f72578a488e029cafb7863b6f970a&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 787,
+    "publicContributions": 3,
+    "createdAt": "2020-10-19T07:02:15Z"
+  },
+  {
+    "login": "cg091",
+    "name": "Carmine Gelormini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73167412?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "Reykjavik University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2020-10-20T09:33:46Z"
+  },
+  {
+    "login": "urriss",
+    "name": "Jakob Vegerfors",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61742185?s=72&u=07d06b4a14ae29f3113dedd5533bf4c94c28e34c&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "urr",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-03T13:10:19Z"
+  },
+  {
+    "login": "dedesul",
+    "name": "Dede Sulaeman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71665941?s=72&u=375d31b0c915ef40e8c9b2336512ab99b672b289&v=4",
+    "location": "Reykjavik",
+    "company": "DataArt",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-21T18:36:38Z"
+  },
+  {
+    "login": "SigmundurR",
+    "name": "Sigmundur Helgason",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65616955?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "EatUP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-19T16:44:38Z"
+  },
+  {
+    "login": "Attila-101",
+    "name": "Attila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71675386?s=72&u=095ee791afd96a656d31eca284f555283e18769c&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2020-09-21T23:07:53Z"
   }
 ]

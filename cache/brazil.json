@@ -39742,5 +39742,29 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-02-28T14:50:56Z"
+  },
+  {
+    "login": "guicostak",
+    "name": "Guilherme Costa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103201399?s=72&u=c05cee561785ed590d7b143f7b512f4331865c05&v=4",
+    "location": "Nova Lima, MG, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 285,
+    "createdAt": "2022-04-07T14:40:27Z"
+  },
+  {
+    "login": "euaallee",
+    "name": "Alexander Joshua",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99816871?s=72&u=ac2bcf6160413408473c3efbc045ea2a50a9e855&v=4",
+    "location": "Abreu e Lima, Pernambuco, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2022-02-16T14:32:17Z"
   }
 ]

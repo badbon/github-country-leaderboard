@@ -3886,5 +3886,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-11T19:19:38Z"
+  },
+  {
+    "login": "Ibraci",
+    "name": "Ibrahim CISSE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24506500?s=72&u=dcd25488d1eb2f4048bda235d086cc3d6a4dcb3c&v=4",
+    "location": "Bamako",
+    "company": "@Ibracilinks",
+    "twitterUsername": "ibraci2",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2016-12-11T12:26:46Z"
+  },
+  {
+    "login": "sawane8",
+    "name": "Abdourhamane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23085174?s=72&u=435717790ca4b3663c01affb037d2b941dfebda5&v=4",
+    "location": "Bamako",
+    "company": "Sawane8",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 988,
+    "publicContributions": 4,
+    "createdAt": "2016-10-26T19:41:39Z"
   }
 ]

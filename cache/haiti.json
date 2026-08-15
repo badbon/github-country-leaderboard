@@ -2527,7 +2527,7 @@
     "company": "Parkour studio",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 796,
+    "privateContributions": 797,
     "publicContributions": 131,
     "createdAt": "2018-10-18T23:19:36Z"
   },
@@ -3130,5 +3130,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-03T13:07:48Z"
+  },
+  {
+    "login": "didierganthier",
+    "name": "Didier Peran Ganthier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45739963?s=72&u=3058c0a9a5a7d58e0185e4ff8cf4c1ec8e7a1987&v=4",
+    "location": "Port-au-prince, Haïti",
+    "company": "@reactjs @microverseinc ",
+    "twitterUsername": "didierganthier_",
+    "followers": 264,
+    "privateContributions": 1400,
+    "publicContributions": 201,
+    "createdAt": "2018-12-09T18:50:51Z"
+  },
+  {
+    "login": "AlexisJW",
+    "name": "Jean Walner Alexis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40031259?s=72&u=b90353c5f9ae27de9e504671fafb099294dd8a60&v=4",
+    "location": "Port-au-prince, Haïti",
+    "company": " Full-stack Developer",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 15,
+    "publicContributions": 29,
+    "createdAt": "2018-06-07T13:44:01Z"
+  },
+  {
+    "login": "bloworlf",
+    "name": "Mathurin Bloworlf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39887108?s=72&u=1b296200c9839eea3c005217c9a9c9ec9fb7a334&v=4",
+    "location": "Port-au-Prince, Haïti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-03T20:45:50Z"
+  },
+  {
+    "login": "Declerusjames93",
+    "name": "James Declerus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45391929?s=72&u=43fd0d22d2f3d1f3a56e5f75c13f781776532ac2&v=4",
+    "location": "Port-au-prince",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-27T12:31:22Z"
   }
 ]

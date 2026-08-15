@@ -1714,5 +1714,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2012-05-08T08:51:29Z"
+  },
+  {
+    "login": "JeCodeLeSoir",
+    "name": "Aurélien",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/904182?s=72&u=6a399bf18410f38ca63bade15fa375abc72e19b8&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2011-07-09T04:13:16Z"
+  },
+  {
+    "login": "lendormix",
+    "name": "lendormix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/744448?s=72&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-21T18:48:38Z"
+  },
+  {
+    "login": "buje",
+    "name": "Thomas Lemaitre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/798529?s=72&u=2e6a20f00195778a4213cc1ddd3a1d014b2ede79&v=4",
+    "location": "Réunion",
+    "company": "@squirrelmobile",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2011-05-19T16:06:14Z"
+  },
+  {
+    "login": "chris-murat",
+    "name": "chris.murat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/611099?s=72&u=be1b437a804e21607132391267ec8bfbd4686959&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-10T15:50:40Z"
   }
 ]

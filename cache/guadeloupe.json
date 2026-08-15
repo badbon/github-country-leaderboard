@@ -922,5 +922,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-06-19T14:38:48Z"
+  },
+  {
+    "login": "sboli",
+    "name": "Bolivar Stephen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/984240?s=72&u=c0f263b1c5369240a7e64e6b7a9e32e52e1921f9&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "_sboli",
+    "followers": 14,
+    "privateContributions": 526,
+    "publicContributions": 28,
+    "createdAt": "2011-08-16T18:16:21Z"
+  },
+  {
+    "login": "owatte",
+    "name": "Oliver Watte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/991136?s=72&u=c9f615ef3f396bac98cf5b4dcc52649c51b5147a&v=4",
+    "location": "Le Moule, Guadeloupe",
+    "company": "Kimoun",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-08-19T14:11:38Z"
+  },
+  {
+    "login": "sype",
+    "name": "Sebastien Pincemail",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1100203?s=72&u=f8975839745200afdcdcc30c3df57bfbeee284f3&v=4",
+    "location": "Paris / Guadeloupe",
+    "company": "@wefactorit",
+    "twitterUsername": "wefactorit",
+    "followers": 7,
+    "privateContributions": 4771,
+    "publicContributions": 38,
+    "createdAt": "2011-10-03T22:12:32Z"
+  },
+  {
+    "login": "floptwo",
+    "name": "Manu Louisor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1260551?s=72&v=4",
+    "location": "Petit-Bourg, Guadeloupe",
+    "company": "",
+    "twitterUsername": "floptwo",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-12-13T15:10:47Z"
   }
 ]

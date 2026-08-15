@@ -1555,7 +1555,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 1668,
+    "privateContributions": 1669,
     "publicContributions": 156,
     "createdAt": "2016-11-18T12:08:05Z"
   },
@@ -1678,5 +1678,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-31T09:22:18Z"
+  },
+  {
+    "login": "ntholi",
+    "name": "Ntholi Nkhatho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19797741?s=72&u=df43e19690da4679b8fa820e042016457c92c768&v=4",
+    "location": "Maseru",
+    "company": "Limkokwing University",
+    "twitterUsername": "ntholi",
+    "followers": 29,
+    "privateContributions": 5554,
+    "publicContributions": 775,
+    "createdAt": "2016-06-07T11:03:24Z"
+  },
+  {
+    "login": "KoebeTumisang",
+    "name": "Koebe Tumisang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23493152?s=72&u=40356054bdd10aeb39fe5e1339f42054a7fc7c8e&v=4",
+    "location": "Maseru",
+    "company": "Limkokwing University of Creative Technology Lesotho",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-16T05:29:22Z"
   }
 ]

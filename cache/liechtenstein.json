@@ -970,5 +970,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-06-29T09:21:12Z"
+  },
+  {
+    "login": "szero",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15748979?s=72&v=4",
+    "location": "Liechtenstein",
+    "company": "@Volafile",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-11-09T22:01:45Z"
+  },
+  {
+    "login": "hkoestin",
+    "name": "Harald Koestinger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13849875?s=72&u=560b590baeb468a6f63ddba53b05adc0fe3ce9ba&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-18T10:45:26Z"
+  },
+  {
+    "login": "yohami",
+    "name": "Yohami",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12057409?s=72&u=847dd36d9abd95da2dee4b02d503680ea12d5672&v=4",
+    "location": "Liechtenstein",
+    "company": "NOWWA",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2015-04-21T21:03:41Z"
+  },
+  {
+    "login": "fogsag",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11313608?s=72&v=4",
+    "location": "Liechtenstein",
+    "company": "FOGS AG",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-04T12:46:05Z"
+  },
+  {
+    "login": "Ruuji",
+    "name": "Ruuji K. Hasegawa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12292527?s=72&u=89ca81e5bebce5b35d36cb8bea6afb0af64c0500&v=4",
+    "location": "Liechtenstein",
+    "company": "EGSwiss",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-07T08:42:55Z"
+  },
+  {
+    "login": "patricksteinhaeusl",
+    "name": "Steinhäusl Patrick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12894058?s=72&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-15T10:56:51Z"
   }
 ]
