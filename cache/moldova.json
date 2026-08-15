@@ -10306,5 +10306,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-19T08:13:45Z"
+  },
+  {
+    "login": "roata",
+    "name": "Roata Wăy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48152696?s=72&u=5f770527c756c667ba75843fa5033b0d020da795&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-02T11:06:23Z"
+  },
+  {
+    "login": "ChR1sMC",
+    "name": "Cristi Plamadeala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48432967?s=72&u=9a677500b7e70a444d4761dfb65178b0a463b00a&v=4",
+    "location": "Chișinău",
+    "company": "Alvys",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2019-03-11T08:28:51Z"
+  },
+  {
+    "login": "Ve1um",
+    "name": "Julia Negru",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51530030?s=72&u=cafa14a835678c1f6e345c76c359302c807d568f&v=4",
+    "location": "Chișinău - Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-09T10:54:28Z"
   }
 ]

@@ -4378,5 +4378,29 @@
     "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2018-02-09T19:08:58Z"
+  },
+  {
+    "login": "EhoumanEvans",
+    "name": "Ehouman Evans",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36210209?s=72&u=e0d4a338a36cd24171c463213793d9153db9ec18&v=4",
+    "location": "Abidjan, Yamoussoukro, CI",
+    "company": "UNA",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-06T21:42:07Z"
+  },
+  {
+    "login": "AimeKouassi",
+    "name": "Aimé Kouassi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35338198?s=72&u=824ff3a68f89183928344d4524d7acefbaf68a28&v=4",
+    "location": "Yamoussoukro",
+    "company": "INP-HB",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-11T14:01:26Z"
   }
 ]

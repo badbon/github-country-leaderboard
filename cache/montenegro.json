@@ -10006,5 +10006,89 @@
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2012-08-01T21:30:42Z"
+  },
+  {
+    "login": "ngavrish",
+    "name": "Nikita Gavrish",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2298415?s=72&u=c9cf8613f5baa9c6e9c4c5fa0529b852c36eb42b&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 61,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2012-09-07T10:19:08Z"
+  },
+  {
+    "login": "omar-adzagic",
+    "name": "Omar Adžagić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2702426?s=72&u=58ec3c74f8707d3f7a0122899287dea87cfa4636&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 80,
+    "publicContributions": 0,
+    "createdAt": "2012-11-01T21:24:00Z"
+  },
+  {
+    "login": "kir-drozdov",
+    "name": "Kir Drozdov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2826696?s=72&u=96c753fc3440b167fd32076103c3f7ecd702abf1&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-18T11:57:55Z"
+  },
+  {
+    "login": "bojanv55",
+    "name": "Bojan Vukasovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1422698?s=72&u=f6503bd7813c7f1343fdfee219ba0b27f91eb184&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 240,
+    "publicContributions": 29,
+    "createdAt": "2012-02-09T11:16:17Z"
+  },
+  {
+    "login": "silago",
+    "name": "Aleksandr Ovchinnikov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2487290?s=72&u=5aed0460c0a12536a5037c40a807b93a6fb071da&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 63,
+    "publicContributions": 39,
+    "createdAt": "2012-10-04T15:12:55Z"
+  },
+  {
+    "login": "kudrin",
+    "name": "Alexander Kudrin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1942788?s=72&u=8cd2c449961cd83e6758ebdc9fe3b8b6fb5fbbe7&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-09T13:15:02Z"
+  },
+  {
+    "login": "mashkovd",
+    "name": "mashkovd",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1842423?s=72&v=4",
+    "location": "Podgorica",
+    "company": "mctl",
+    "twitterUsername": "mashkovd",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 6339,
+    "createdAt": "2012-06-12T12:52:18Z"
   }
 ]

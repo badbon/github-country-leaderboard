@@ -10594,5 +10594,41 @@
     "privateContributions": 6,
     "publicContributions": 83,
     "createdAt": "2013-08-22T08:35:02Z"
+  },
+  {
+    "login": "zikani03",
+    "name": "Zikani Nyirenda Mwase",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1501387?s=72&u=eb834427ee77379d5322e71b930e731fba2de4e7&v=4",
+    "location": "Lilongwe, Malawi",
+    "company": "@nndi-tech",
+    "twitterUsername": "zikani03",
+    "followers": 479,
+    "privateContributions": 1604,
+    "publicContributions": 1523,
+    "createdAt": "2012-03-05T04:05:25Z"
+  },
+  {
+    "login": "flashton2003",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2613906?s=72&u=5b6e61062d5c0ce9edd3d14338fff60a17cffadd&v=4",
+    "location": "Blantyre, Malawi",
+    "company": "",
+    "twitterUsername": "flashton2003",
+    "followers": 33,
+    "privateContributions": 14,
+    "publicContributions": 3,
+    "createdAt": "2012-10-21T17:10:23Z"
+  },
+  {
+    "login": "Vikulak",
+    "name": "Vikula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2306264?s=72&u=23bce66d8070dca20a1ee0887c83f36e72756b8f&v=4",
+    "location": "Blantyre, Malawi",
+    "company": "Corporate Technologies Interational",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-08T12:44:12Z"
   }
 ]

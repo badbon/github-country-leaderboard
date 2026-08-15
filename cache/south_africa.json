@@ -29770,5 +29770,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-25T09:23:32Z"
+  },
+  {
+    "login": "Glo-Bimoko",
+    "name": "Glory Bimoko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123506219?s=72&v=4",
+    "location": "South Africa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 134,
+    "createdAt": "2023-01-24T19:44:49Z"
+  },
+  {
+    "login": "Hamza-Mokiwa",
+    "name": "Hamza Mokiwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131655930?s=72&u=8b90e3be69290d6df2de0478ff4d370ae6b9d0b4&v=4",
+    "location": "South Africa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 67,
+    "publicContributions": 0,
+    "createdAt": "2023-04-24T08:32:07Z"
+  },
+  {
+    "login": "edsboys",
+    "name": "Mpho Matseka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127100606?s=72&v=4",
+    "location": "South Africa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 233,
+    "createdAt": "2023-03-06T10:40:46Z"
+  },
+  {
+    "login": "ViweTeko",
+    "name": "Viwe Teko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135851848?s=72&u=51dd1f968cf7525721c478396e10c3719aca3d23&v=4",
+    "location": "Kabega, Gqeberha, South Africa",
+    "company": "SOLV Processing",
+    "twitterUsername": "viwe_teko",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2023-06-07T14:49:46Z"
+  },
+  {
+    "login": "ntsakomapimele",
+    "name": "Ntsako",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126864088?s=72&u=64fab2dc160c5240b5d5d37f41e9fb0a2fb9aa29&v=4",
+    "location": "Pretoria, South Africa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2023-03-03T08:57:56Z"
+  },
+  {
+    "login": "Sabelodone",
+    "name": "Sabelo Sibaya ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122809286?s=72&u=21c6777eabb05fab7e871e6183e83e2bd2212863&v=4",
+    "location": "South Africa ",
+    "company": "",
+    "twitterUsername": "sabelod1_",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 64,
+    "createdAt": "2023-01-16T15:24:20Z"
+  },
+  {
+    "login": "coleLenting",
+    "name": "Cole Lenting",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124871095?s=72&u=f67c7642b217986dcde00788217424cf53dfd139&v=4",
+    "location": "Cape Town, South Africa",
+    "company": "CAPACITI",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 63,
+    "publicContributions": 119,
+    "createdAt": "2023-02-09T08:18:45Z"
   }
 ]

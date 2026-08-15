@@ -3862,5 +3862,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-12-16T13:00:15Z"
+  },
+  {
+    "login": "LeoAz",
+    "name": "Lionel AZ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18053804?s=72&u=54ad701fb8291595fff4d76b51a75c38e2c26b89&v=4",
+    "location": "Bamako",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 368,
+    "createdAt": "2016-03-24T15:25:26Z"
+  },
+  {
+    "login": "vandji1",
+    "name": "Modibo KONATE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17184105?s=72&v=4",
+    "location": "bamako",
+    "company": "oumistore",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-11T19:19:38Z"
   }
 ]

@@ -20626,5 +20626,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-17T13:16:56Z"
+  },
+  {
+    "login": "branevukmirovic",
+    "name": "Branko Vukmirović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105024959?s=72&u=26c599277687c42e9a2f9d2ddc9be1fa60620352&v=4",
+    "location": "Sejkina 25 / 1P, Beograd, Srbija, 11000",
+    "company": "ITechnology",
+    "twitterUsername": "vukmirovicbrane",
+    "followers": 80,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2022-05-05T23:50:48Z"
+  },
+  {
+    "login": "popovicmarko",
+    "name": "Marko Popovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104674760?s=72&u=a94f66676e6ed840a1b99f551883a74c409a7f4f&v=4",
+    "location": "Srbija, Tutin",
+    "company": "State University of Novi Pazar",
+    "twitterUsername": "",
+    "followers": 35,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2022-04-30T09:10:39Z"
+  },
+  {
+    "login": "Edinaaak",
+    "name": "Edina Kucevic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101605987?s=72&u=4eac42bbd22e9c90238a2857d03088c6927e42f9&v=4",
+    "location": "Sjenica, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-14T23:07:04Z"
+  },
+  {
+    "login": "Farukkaralic12345",
+    "name": "faruk karalic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105320951?s=72&v=4",
+    "location": "Novi Pazar, Srbija",
+    "company": "UMSandzaka",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-10T21:00:16Z"
+  },
+  {
+    "login": "dinabecirovic",
+    "name": "Dina B.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115499816?s=72&u=b9ec3edb28e899d09e6c20957ab830205194f529&v=4",
+    "location": "Tutin, Srbija",
+    "company": "State University of Novi Pazar",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 132,
+    "createdAt": "2022-10-10T18:48:48Z"
+  },
+  {
+    "login": "drumloop76",
+    "name": "Vladimir Stojkovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96777007?s=72&u=d892ad0694d12a24945ec4a8a792c058baa2bb5f&v=4",
+    "location": "Novi Sad, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-28T12:08:46Z"
+  },
+  {
+    "login": "JovanMerkurXTip",
+    "name": "Jovan Dožić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120566514?s=72&u=9e0268018407d17a64865cdfb447543c56dae579&v=4",
+    "location": "Novi Sad, Srbija",
+    "company": "MerkurXTip",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-14T11:21:06Z"
+  },
+  {
+    "login": "marijaljubic",
+    "name": "Marija",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106070248?s=72&u=00782d774b89666b96b3ac62c74aec40568f85b8&v=4",
+    "location": "Kraljevo, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-23T09:29:27Z"
   }
 ]

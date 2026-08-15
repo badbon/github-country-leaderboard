@@ -23902,5 +23902,101 @@
     "privateContributions": 7,
     "publicContributions": 1307,
     "createdAt": "2024-12-21T15:03:33Z"
+  },
+  {
+    "login": "kevin-rossum",
+    "name": "Kevin van Rossum",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166118090?s=72&v=4",
+    "location": "Amsterdam",
+    "company": "ServiceNow",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-05T09:28:27Z"
+  },
+  {
+    "login": "treuvekamp",
+    "name": "Tom Reuvekamp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177301179?s=72&u=f9c37bc1063c960d0ae4232a9ecb1d07b3676bbb&v=4",
+    "location": "Amsterdam",
+    "company": "Amsterdam UMC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 67,
+    "publicContributions": 0,
+    "createdAt": "2024-08-02T07:09:03Z"
+  },
+  {
+    "login": "FilippoDonghi",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156074617?s=72&u=91cde0bdb33acf11f63fe4e8024919179588b0ca&v=4",
+    "location": "Amsterdam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2024-01-09T10:03:24Z"
+  },
+  {
+    "login": "KkilianJ",
+    "name": "Kilian Jiang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161950574?s=72&u=60b344e2708c69a009d3c5f2287ed2c0188db2a5&v=4",
+    "location": "Amsterdam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2024-03-02T13:59:04Z"
+  },
+  {
+    "login": "saltalab",
+    "name": "Salta Group",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165068008?s=72&u=8235c964a09ae6425a377b0adcbc1e13f345cd53&v=4",
+    "location": "Amsterdam",
+    "company": "Netherlands Institute for Neuroscience",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2024-03-26T17:17:55Z"
+  },
+  {
+    "login": "vixland4509",
+    "name": "Vixland",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184481468?s=72&u=234880129686fd0c45740f8ed9af584a12fca703&v=4",
+    "location": "NetherLand-amsterdam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2024-10-10T06:56:58Z"
+  },
+  {
+    "login": "AJUKNO",
+    "name": "AJUKNO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156670054?s=72&u=828b6072772bcec148c1f3cb943f80ad0e8e6b14&v=4",
+    "location": "Amsterdam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 652,
+    "publicContributions": 7,
+    "createdAt": "2024-01-15T11:45:44Z"
+  },
+  {
+    "login": "rennykychanhikaru",
+    "name": "Renny Chan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162995747?s=72&u=4476ff9d8a9652b7849c768e6f1f2102a838d001&v=4",
+    "location": "Amsterdam",
+    "company": "Convo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2024-03-11T12:22:04Z"
   }
 ]

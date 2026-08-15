@@ -33022,5 +33022,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-11T21:11:55Z"
+  },
+  {
+    "login": "joelcro",
+    "name": "Joel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137896430?s=72&v=4",
+    "location": "France/Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-27T12:11:00Z"
+  },
+  {
+    "login": "moustaphboss",
+    "name": "Moustapha Kebe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26202133?s=72&u=ab888d5cba774869d6ebd6bced2b9fd7d4c88f55&v=4",
+    "location": "Lyon | Dakar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 77,
+    "publicContributions": 30,
+    "createdAt": "2017-03-05T14:42:01Z"
   }
 ]

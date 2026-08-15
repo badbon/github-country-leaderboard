@@ -2014,5 +2014,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-05-28T15:42:40Z"
+  },
+  {
+    "login": "Benminoungou",
+    "name": "Bernard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14221110?s=72&u=25d13307150caccc8a5760b367284bce5701a600&v=4",
+    "location": "Niger, Niamey",
+    "company": "AGRHYMET Regional Centre",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-09-10T16:22:45Z"
+  },
+  {
+    "login": "izaks84",
+    "name": "SIDI ZAKARI Ibrahim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13876613?s=72&u=c4fe5ddade120f49118d89db1e90546ed36e1463&v=4",
+    "location": "Niamey (Republic of Niger)",
+    "company": "Abdou Moumouni University",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-19T21:30:32Z"
+  },
+  {
+    "login": "ibradam",
+    "name": "Ibrahim Adamou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16257682?s=72&u=ac66a546c796509d9b5e2b848d0723523ad288ff&v=4",
+    "location": "Maradi, NIGER",
+    "company": "Universite Dan Dicko Dankoulodo de Maradi, NIGER",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-11T15:56:46Z"
   }
 ]

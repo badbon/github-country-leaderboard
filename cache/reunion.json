@@ -1678,5 +1678,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-08-19T13:22:25Z"
+  },
+  {
+    "login": "Benou",
+    "name": "Benjamin LISIK",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1434222?s=72&u=a619a1342a8072b317c50757ce5b4f9cb953f566&v=4",
+    "location": "Vert-Saint-Denis",
+    "company": "BlisiKode",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-02-13T18:09:55Z"
+  },
+  {
+    "login": "apappa",
+    "name": "Pappa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1358016?s=72&u=fd9889326fc91f4e1205a333ec9fce88c94fa012&v=4",
+    "location": "Saint Denis - France",
+    "company": "University Paris 8",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-20T12:56:25Z"
+  },
+  {
+    "login": "matthieu-viel",
+    "name": "Matthieu Viel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1716148?s=72&u=bbadbae8d61f8ff6733bfcf3a3cc29eb9f37d488&v=4",
+    "location": "Saint-Pierre (Reunion Island)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-05-08T08:51:29Z"
   }
 ]

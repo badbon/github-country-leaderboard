@@ -19186,5 +19186,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-21T10:07:20Z"
+  },
+  {
+    "login": "skorecko",
+    "name": "Štefan Korečko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56152374?s=72&u=51eaa4f1f5651b6f7011e64741baba8e12c10d98&v=4",
+    "location": "Košice, Slovak Republic",
+    "company": "Department of Computers and Informatics, Faculty of Electrical Engineering and Informatics, Technical University of Košice",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-04T08:31:22Z"
+  },
+  {
+    "login": "lubosgarancovsky",
+    "name": "Lubos Garancovsky",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48388191?s=72&u=8ec3e0d51641c8546632cd0a9242a6417400e88e&v=4",
+    "location": "Slovak Republic",
+    "company": "",
+    "twitterUsername": "LGarancovsky",
+    "followers": 3,
+    "privateContributions": 274,
+    "publicContributions": 176,
+    "createdAt": "2019-03-09T16:14:02Z"
+  },
+  {
+    "login": "MarvelSK",
+    "name": "Marek Vrábel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48926812?s=72&u=a81e2e8e970341cbb9bbab154866bfab4b62b25c&v=4",
+    "location": "Slovak republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2019-03-25T19:11:30Z"
+  },
+  {
+    "login": "ojesko",
+    "name": "Ondrej Ješko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57291783?s=72&u=2d1c8ca6c94e46d1521d11510dd067c911401795&v=4",
+    "location": "Trnava, Slovak Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-02T13:45:42Z"
   }
 ]

@@ -2902,5 +2902,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-12-05T10:43:59Z"
+  },
+  {
+    "login": "moudjames23",
+    "name": "Mamoudou Diallo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14292246?s=72&u=a68f5bcccbd7268b937cb84a4f995d737af3c892&v=4",
+    "location": "Guinea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2015-09-15T10:50:24Z"
+  },
+  {
+    "login": "TheBlackDude",
+    "name": "Ousmane Seidy Diallo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16118296?s=72&u=7ab8acea37cd7434ec85128eca2c71cb9abb8a09&v=4",
+    "location": "Guinea, Conakry",
+    "company": "Easy Solar",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 338,
+    "publicContributions": 12,
+    "createdAt": "2015-12-02T13:09:35Z"
+  },
+  {
+    "login": "hamidoualvin",
+    "name": "Hamidou Sow",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12180593?s=72&u=39fbd63b0fd94f244150ba30d354068d26fb171f&v=4",
+    "location": "Guinea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 39,
+    "publicContributions": 48,
+    "createdAt": "2015-04-30T04:45:21Z"
+  },
+  {
+    "login": "hguru",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13652051?s=72&u=b28c1e1d1a6f60dd1f0f2e3ca830fc7ef27b6136&v=4",
+    "location": "Guinea",
+    "company": "224Connection",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-05T01:30:22Z"
   }
 ]

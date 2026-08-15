@@ -30166,5 +30166,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-28T15:35:48Z"
+  },
+  {
+    "login": "cudzy",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94863237?s=72&u=891d968feaa7d1797f5c60418f1c987ba1ca40f3&v=4",
+    "location": "London & Hong Kong",
+    "company": "Madtoy Company",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-22T18:20:07Z"
+  },
+  {
+    "login": "McRich1",
+    "name": "Mcrich Ehimigbai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106758076?s=72&u=8a257bc63c084504492c7f1d642231d2d7ba6415&v=4",
+    "location": "Belfast, Northern Ireland, United Kingdom.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2022-06-02T14:41:31Z"
+  },
+  {
+    "login": "progcrafter",
+    "name": "Bennett Yuan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108147743?s=72&u=6103fb1bd6e766b42f1b321282df6d08f73f189a&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2022-06-24T17:27:55Z"
+  },
+  {
+    "login": "astronomerritt",
+    "name": "Steph Merritt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97111051?s=72&u=bc14b0941c68193096814425f2e9c4736c07757a&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-04T15:00:18Z"
+  },
+  {
+    "login": "ConnorM2020",
+    "name": "Connor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118696540?s=72&u=191e1088251030696e021df68de013d836d5cee5&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 2,
+    "publicContributions": 28,
+    "createdAt": "2022-11-20T23:04:22Z"
+  },
+  {
+    "login": "mlync87",
+    "name": "Martin Lynch",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112760708?s=72&u=5e5a8d6371e49cc694c306a76ef1ae89bb16d6a5&v=4",
+    "location": "Lisburn, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-03T12:01:26Z"
   }
 ]
