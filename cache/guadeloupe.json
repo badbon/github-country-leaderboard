@@ -862,5 +862,41 @@
     "privateContributions": 80,
     "publicContributions": 0,
     "createdAt": "2014-10-06T01:09:36Z"
+  },
+  {
+    "login": "sarinkhan",
+    "name": "Audrey Robinel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3824152?s=72&u=677c007caddb189ee8d4a3aad6c48400b1a892b8&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "arobinel",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-10T14:50:17Z"
+  },
+  {
+    "login": "macojaune",
+    "name": "macojaune",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5950142?s=72&u=16b8339c8a8bcf394d2dfcccf63dcbd150eccb0b&v=4",
+    "location": "Guadeloupe",
+    "company": "@MarvinL-com ",
+    "twitterUsername": "macojaune",
+    "followers": 15,
+    "privateContributions": 1385,
+    "publicContributions": 237,
+    "createdAt": "2013-11-15T17:55:31Z"
+  },
+  {
+    "login": "totopsy",
+    "name": "Thomas Fontaine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5053004?s=72&u=a85b82b24ad2489651afb697d519218998c0f58e&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2013-07-20T10:13:36Z"
   }
 ]

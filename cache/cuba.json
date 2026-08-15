@@ -12022,5 +12022,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-04T13:18:41Z"
+  },
+  {
+    "login": "eblabrada",
+    "name": "Eduardo Brito Labrada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58371165?s=72&u=f4923c91b75ba987b88a4b0554dda1a76aeb2832&v=4",
+    "location": "Havana",
+    "company": "University of Havana",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 156,
+    "publicContributions": 118,
+    "createdAt": "2019-11-30T18:29:37Z"
+  },
+  {
+    "login": "adrianfdez469",
+    "name": "Adrián Fernández",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55166189?s=72&u=f6e43f198c1c783bfa6855933cc449c5147b9092&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "Adrian09141687",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 339,
+    "createdAt": "2019-09-10T23:25:50Z"
+  },
+  {
+    "login": "AdilsonVirgo",
+    "name": "Adilson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47436196?s=72&v=4",
+    "location": "Havana,Cu",
+    "company": "Minag",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-07T23:36:36Z"
+  },
+  {
+    "login": "jfmachin",
+    "name": "Javier Fernández Machín",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48924700?s=72&u=1f076d345f42ad3a8f9dc45b24c26880e84b89cd&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-25T17:49:50Z"
+  },
+  {
+    "login": "gsi-alejandro-marino",
+    "name": "Alejandro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56930556?s=72&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-23T16:04:44Z"
   }
 ]

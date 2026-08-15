@@ -20155,7 +20155,7 @@
     "company": "@rual ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 873,
+    "privateContributions": 878,
     "publicContributions": 0,
     "createdAt": "2024-08-13T12:00:18Z"
   },
@@ -21022,5 +21022,29 @@
     "privateContributions": 0,
     "publicContributions": 76,
     "createdAt": "2024-10-09T19:06:54Z"
+  },
+  {
+    "login": "eudajmon",
+    "name": "Szymon Miętus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161517355?s=72&v=4",
+    "location": "Delft, The Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-27T19:51:57Z"
+  },
+  {
+    "login": "ffennemann",
+    "name": "Felix Fennemann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166655171?s=72&u=d203d44bd33eeaef789007cb96d91ab81c399ca5&v=4",
+    "location": "Utrecht, The Netherlands",
+    "company": "Gyes",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 969,
+    "publicContributions": 4,
+    "createdAt": "2024-04-10T19:31:30Z"
   }
 ]

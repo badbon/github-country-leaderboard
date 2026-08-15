@@ -670,5 +670,41 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2019-04-24T14:35:00Z"
+  },
+  {
+    "login": "mcauley1980",
+    "name": "Matt Cauley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46641877?s=72&v=4",
+    "location": "91 Harvey Vickers Rd. Douglas, GA 31535",
+    "company": "Southern USA Trailers",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-13T06:28:00Z"
+  },
+  {
+    "login": "vance173",
+    "name": "Vance Hebert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56136606?s=72&v=4",
+    "location": "406 douglas dr (home) 807 douglas dr",
+    "company": "Vance and Co.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-03T20:40:46Z"
+  },
+  {
+    "login": "Julialee8",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55983761?s=72&u=3ddeb44edb753784811771809f3c8702e1eacc18&v=4",
+    "location": "11877 Douglas Rd Johns Creek, GA 30005",
+    "company": "HP Printer Setup",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-30T11:57:25Z"
   }
 ]

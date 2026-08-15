@@ -4546,5 +4546,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-03-30T13:12:25Z"
+  },
+  {
+    "login": "ishuuwag",
+    "name": "Gervasius Ishuuwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25029568?s=72&u=4746e682f57dbca9a6ea29f23fc9a5038c9dbec2&v=4",
+    "location": "Windhoek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 1013,
+    "publicContributions": 3,
+    "createdAt": "2017-01-10T10:05:58Z"
+  },
+  {
+    "login": "nicolxs",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26286269?s=72&v=4",
+    "location": "Windhoek City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 152,
+    "publicContributions": 13,
+    "createdAt": "2017-03-08T20:39:46Z"
+  },
+  {
+    "login": "BenTangeniPonelaka",
+    "name": "Ben",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27003385?s=72&u=7cd541af332b91d038c767dce8f2bb5849fdf4ee&v=4",
+    "location": "Windhoek",
+    "company": "StarTrek",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-07T09:05:28Z"
+  },
+  {
+    "login": "eaipanda",
+    "name": "Elao Aipanda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26859008?s=72&v=4",
+    "location": "Windhoek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-02T21:03:35Z"
+  },
+  {
+    "login": "DewaldtVR",
+    "name": "Dewaldt van Rensburg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30688700?s=72&v=4",
+    "location": "Windhoek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2017-08-03T09:12:42Z"
+  },
+  {
+    "login": "Supertangeni",
+    "name": "Tangeni Kwedhi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27153728?s=72&v=4",
+    "location": "Windhoek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2017-04-09T17:42:31Z"
   }
 ]

@@ -29386,5 +29386,41 @@
     "privateContributions": 1847,
     "publicContributions": 231,
     "createdAt": "2016-07-08T23:57:52Z"
+  },
+  {
+    "login": "noel5000",
+    "name": "Noel Jimenez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17259464?s=72&u=285b2b3cd555e63895cdaa17923464e178c06a4e&v=4",
+    "location": "Dominican Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-15T21:13:01Z"
+  },
+  {
+    "login": "ryderx",
+    "name": "Luis Custodia ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20854589?s=72&u=13834d9120d28198c4adca57629277a54f3cea54&v=4",
+    "location": "dominican republic",
+    "company": "Dynamic Edges",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 82,
+    "createdAt": "2016-08-05T07:22:36Z"
+  },
+  {
+    "login": "tommeyers",
+    "name": "Tom Meyers",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16540897?s=72&v=4",
+    "location": "Santiago, Dominican Republic",
+    "company": "Desktop-concepts.com",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-01-04T13:59:15Z"
   }
 ]

@@ -610,5 +610,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-03-25T19:38:12Z"
+  },
+  {
+    "login": "Naxela",
+    "name": "Alexander Kleemann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5429817?s=72&u=47523f65f7dc46e767b450365b14398661ce1ea8&v=4",
+    "location": "Greenland",
+    "company": "Naxela.info",
+    "twitterUsername": "",
+    "followers": 57,
+    "privateContributions": 0,
+    "publicContributions": 59,
+    "createdAt": "2013-09-10T18:42:08Z"
+  },
+  {
+    "login": "johandavidsen",
+    "name": "Jóhan Dam-Davidsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3659677?s=72&v=4",
+    "location": "Kalaallit Nunaat (Greenland)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 7,
+    "publicContributions": 7,
+    "createdAt": "2013-02-21T13:34:10Z"
+  },
+  {
+    "login": "pressure679",
+    "name": "Vittus Mikiassen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5124260?s=72&u=804acfddde1e89bc1d96fa17cc09eb428077b124&v=4",
+    "location": "Greenland",
+    "company": "University of Greenland",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 228,
+    "createdAt": "2013-07-30T20:41:06Z"
+  },
+  {
+    "login": "kerrysheng",
+    "name": "Kerry.S",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3190998?s=72&u=90c460ed29e02f9c8f2cbfbe80477954e5e76904&v=4",
+    "location": "Greenland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-05T06:04:02Z"
   }
 ]

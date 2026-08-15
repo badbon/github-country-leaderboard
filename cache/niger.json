@@ -1906,5 +1906,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-12-27T07:57:53Z"
+  },
+  {
+    "login": "ibkhall",
+    "name": "Ibrahim Boubacar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33362425?s=72&u=6bda0e57c90a621f760e2b716596afacd96d0a9f&v=4",
+    "location": "Niamey",
+    "company": "Webb Fontaine",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2017-11-04T00:14:20Z"
+  },
+  {
+    "login": "mhatchabi",
+    "name": "Mahamadou Hatchabi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25333596?s=72&u=f588f61df50493e93c987dac2fa168c7184a3edb&v=4",
+    "location": "Niamey - NE",
+    "company": "Codeloccol",
+    "twitterUsername": "M_Hatchabi",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-24T22:25:47Z"
+  },
+  {
+    "login": "netmophus",
+    "name": "NETMORPHUS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26196103?s=72&u=f0770225db4920d6b9f86c6094c1e4eea76d300c&v=4",
+    "location": "Niamey",
+    "company": "www.techpart.",
+    "twitterUsername": "netmorphus",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 454,
+    "createdAt": "2017-03-05T06:22:00Z"
+  },
+  {
+    "login": "Moudysolutions",
+    "name": "Mohamed ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25267277?s=72&v=4",
+    "location": "Niamey ",
+    "company": "DigiPoint",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2017-01-21T15:15:12Z"
   }
 ]

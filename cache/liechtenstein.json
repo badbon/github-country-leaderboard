@@ -862,5 +862,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-06-17T16:25:18Z"
+  },
+  {
+    "login": "InsurePal",
+    "name": "VouchForMe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33466293?s=72&u=faaa5e365abce87e1bf3bd69a8c452b586ca69f0&v=4",
+    "location": "Vaduz",
+    "company": "VouchForMe ",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-07T20:23:21Z"
+  },
+  {
+    "login": "rogerherger",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28218763?s=72&u=889818df9e7550ca18656783f444e6ab98722517&v=4",
+    "location": "Vaduz",
+    "company": "maXerial",
+    "twitterUsername": "rogerherger",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2017-04-30T09:38:28Z"
+  },
+  {
+    "login": "volkmarritter",
+    "name": "Volkmar Ritter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33633663?s=72&u=4965a0729116b3b1ca33738607a5471cf1910cb2&v=4",
+    "location": "Vaduz",
+    "company": "BICon",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 979,
+    "publicContributions": 0,
+    "createdAt": "2017-11-13T16:58:57Z"
   }
 ]

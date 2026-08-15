@@ -3034,5 +3034,53 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2017-06-21T17:32:19Z"
+  },
+  {
+    "login": "scoba6",
+    "name": "Yacouba ADON",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30085964?s=72&v=4",
+    "location": "Libreville",
+    "company": "OXILYUM",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 34,
+    "publicContributions": 10,
+    "createdAt": "2017-07-11T17:47:34Z"
+  },
+  {
+    "login": "de-gall",
+    "name": "lone wolf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31445897?s=72&v=4",
+    "location": "libreville",
+    "company": "Initial Développement",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-29T14:59:10Z"
+  },
+  {
+    "login": "folversal",
+    "name": "David Folorunso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33228490?s=72&v=4",
+    "location": "37 Libreville Crescent, Ademola Adetokunbo, Wuse 2, Abuja",
+    "company": "FourCore Integrated Services",
+    "twitterUsername": "davidflames",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-30T15:23:41Z"
+  },
+  {
+    "login": "dalindilan",
+    "name": "Dalin-Dilan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32805098?s=72&u=b96903db83b5f7dc9002bdc61373ad5e7ef5db08&v=4",
+    "location": "libreville",
+    "company": "@EagleIn ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-15T00:05:47Z"
   }
 ]

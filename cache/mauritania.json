@@ -2938,5 +2938,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-05-20T15:09:26Z"
+  },
+  {
+    "login": "etfaghaoubeid",
+    "name": "Etfagha oubeid Elatigh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26027603?s=72&u=f9e32398493ff917b8bb165ed2d3b0f76a7c8071&v=4",
+    "location": "nouakchott",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 1,
+    "publicContributions": 1,
+    "createdAt": "2017-02-25T16:23:58Z"
+  },
+  {
+    "login": "SaraDidi",
+    "name": "Sara Didi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33930350?s=72&u=1eced5ff67d254c2d64cbf7e7f415f5dddeac45b&v=4",
+    "location": "Nouakchott",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-23T12:00:51Z"
+  },
+  {
+    "login": "abdellahiheiballa",
+    "name": "Abdellahi Heiballa ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25929712?s=72&u=4be304197d61fc246b1319d476872d2a559b7ba7&v=4",
+    "location": "Nouakchott ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2017-02-21T13:51:30Z"
+  },
+  {
+    "login": "Abd-Daim",
+    "name": "abddaim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27899591?s=72&v=4",
+    "location": "nouakchott",
+    "company": "organasation",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-22T19:00:40Z"
+  },
+  {
+    "login": "7amady",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25036111?s=72&u=b2c76588ad973104d46c389cf466a51ef93b6da8&v=4",
+    "location": "nouakchott tevrgh zeina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-10T15:56:39Z"
   }
 ]
