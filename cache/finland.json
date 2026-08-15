@@ -29194,5 +29194,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-18T19:32:36Z"
+  },
+  {
+    "login": "henrywang02",
+    "name": "Henry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115426850?s=72&u=9eb4a6802a0be3d7c04879f7b763be4b8319cacd&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-10-09T19:42:11Z"
+  },
+  {
+    "login": "iiroink",
+    "name": "Iiro Inkinen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98332923?s=72&v=4",
+    "location": "Finland, Tampere",
+    "company": "Tuni",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2022-01-24T14:55:48Z"
+  },
+  {
+    "login": "zacce",
+    "name": "Sakari Heino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100117098?s=72&u=a2df519229e37c6a92d23e844278e3eaca689054&v=4",
+    "location": "Finland",
+    "company": "TeliaCompany",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-02-21T07:06:46Z"
+  },
+  {
+    "login": "anujtgh",
+    "name": "Anuj Kumar Singh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100754543?s=72&v=4",
+    "location": "Finland",
+    "company": "Telia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-02T07:14:08Z"
+  },
+  {
+    "login": "udit-asopa",
+    "name": "Udit Asopa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97594002?s=72&u=cbf5d9c96ed177c8f8749708ffa74ef5c8d126ce&v=4",
+    "location": "Finland",
+    "company": "@bcdev",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 302,
+    "publicContributions": 142,
+    "createdAt": "2022-01-12T08:57:35Z"
+  },
+  {
+    "login": "faltzuthewiz",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98709414?s=72&u=7fe68e7d4e09ce8ff1288d3daf88212fe27bdd7e&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2022-01-30T18:55:15Z"
+  },
+  {
+    "login": "ch-risto",
+    "name": "Christa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117929321?s=72&u=71e44a52f964e4750112a1605ad5ae2682c20c0a&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2022-11-10T15:45:28Z"
+  },
+  {
+    "login": "juu736f",
+    "name": "Juuso Kekonen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120419651?s=72&u=47fc6962e0104dcbd3527c028b2a454222a6b1b5&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 6,
+    "publicContributions": 80,
+    "createdAt": "2022-12-12T20:22:33Z"
   }
 ]

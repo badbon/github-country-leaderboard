@@ -32458,5 +32458,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-11T16:56:24Z"
+  },
+  {
+    "login": "marshdugan",
+    "name": "Marshall Dugan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54903099?s=72&u=84c69985e08fcad71ac639322534a2ef60621d7d&v=4",
+    "location": "Bristol, Rhode Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-04T15:20:13Z"
+  },
+  {
+    "login": "Stephen-Vincent",
+    "name": "Stephen Vincent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110295116?s=72&u=0434442a2d73acb82d46340139620585c729604f&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2022-07-30T14:10:28Z"
+  },
+  {
+    "login": "intertree",
+    "name": "Johnny Kelly ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108283080?s=72&v=4",
+    "location": "Northern Ireland",
+    "company": "AtsUsNI.com",
+    "twitterUsername": "intertreeJK",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-06-27T14:06:28Z"
+  },
+  {
+    "login": "dhairya-bhatt",
+    "name": "Dhairya Bhatt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105587815?s=72&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2022-05-15T10:43:13Z"
+  },
+  {
+    "login": "atwaddle-r7",
+    "name": "Alianna Twaddle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116842358?s=72&v=4",
+    "location": "Northern Ireland, UK",
+    "company": "Rapid7",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1035,
+    "publicContributions": 10,
+    "createdAt": "2022-10-27T19:43:17Z"
   }
 ]

@@ -22258,5 +22258,65 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2022-10-11T06:36:48Z"
+  },
+  {
+    "login": "mi1sh",
+    "name": "Mikhail P.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106558234?s=72&u=30b9f8869f3ef8ecc5099754c4f1f24260d762cf&v=4",
+    "location": "Qazaqstan, Qaragandy",
+    "company": "Core Team LLP",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 145,
+    "publicContributions": 0,
+    "createdAt": "2022-05-30T20:22:39Z"
+  },
+  {
+    "login": "nikolaiqa",
+    "name": "Nikolai Zhuravlev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117751882?s=72&u=9e6990b5781e58941a727da19f8b78bc7f0df92a&v=4",
+    "location": "Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-08T15:00:47Z"
+  },
+  {
+    "login": "QANTBEK",
+    "name": "SHYNGGYSKHAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98832316?s=72&u=4d538d39460694456a9d32fd2433b2bb6e457633&v=4",
+    "location": "Qazaqstan",
+    "company": "",
+    "twitterUsername": "kantbek",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-01T15:48:42Z"
+  },
+  {
+    "login": "krakhimov-klika",
+    "name": "Kairat Rakhimov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109069327?s=72&v=4",
+    "location": "Almaty, Qazaqstan",
+    "company": "Klika-Tech LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-11T08:54:06Z"
+  },
+  {
+    "login": "shagatai04",
+    "name": "SHAGA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118763639?s=72&v=4",
+    "location": "Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-21T17:56:55Z"
   }
 ]

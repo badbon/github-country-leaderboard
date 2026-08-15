@@ -1378,5 +1378,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-01-08T09:32:24Z"
+  },
+  {
+    "login": "mortii",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15674619?s=72&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 120,
+    "publicContributions": 40,
+    "createdAt": "2015-11-05T16:27:36Z"
+  },
+  {
+    "login": "RouquinBlanc",
+    "name": "Jonathan Martin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12514040?s=72&v=4",
+    "location": "Monaco",
+    "company": "@marss ",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2015-05-19T14:12:50Z"
+  },
+  {
+    "login": "NicoBocq",
+    "name": "Nicolas Bocquet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12512835?s=72&u=0c49ab8d832f797b789289e1ba03f4d69484ebcd&v=4",
+    "location": "Marseille / Monaco",
+    "company": "Inforca",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 655,
+    "publicContributions": 168,
+    "createdAt": "2015-05-19T12:46:25Z"
+  },
+  {
+    "login": "JamesVertisan",
+    "name": "James Vertisan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12373304?s=72&v=4",
+    "location": "Monaco",
+    "company": "Vertisan SARL",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-09T16:21:21Z"
+  },
+  {
+    "login": "jeremie-huy",
+    "name": "Jeremie Huy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12050449?s=72&u=61efb909ad99df02114bd86caa66b1982111a3f1&v=4",
+    "location": "Monaco",
+    "company": "MARSS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-21T12:40:57Z"
+  },
+  {
+    "login": "PhilCANDIDO",
+    "name": "Philippe CANDIDO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13585152?s=72&u=92e09757ea3c11371f5c7a78485aaedefcd61c98&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 223,
+    "createdAt": "2015-07-31T08:28:53Z"
   }
 ]

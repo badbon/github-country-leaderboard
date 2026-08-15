@@ -3550,5 +3550,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-02-11T10:09:27Z"
+  },
+  {
+    "login": "SlymDev",
+    "name": "Moundziegou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10731972?s=72&u=25919e6033398b99f3aab96917beee49a1757ceb&v=4",
+    "location": "Libreville",
+    "company": "SlymDev",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 16,
+    "publicContributions": 8,
+    "createdAt": "2015-01-27T21:51:04Z"
+  },
+  {
+    "login": "jboundamas",
+    "name": "Jospin Bleime",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13349037?s=72&u=89be7c5beaad1f86a959d905e14d2c31b7e0907e&v=4",
+    "location": "Libreville",
+    "company": "Matsatsa",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-15T11:31:19Z"
+  },
+  {
+    "login": "Cisseko",
+    "name": "Cisséko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14854802?s=72&v=4",
+    "location": "Libreville",
+    "company": "IAI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-09-26T22:25:48Z"
+  },
+  {
+    "login": "yoshad-dev",
+    "name": "yoshad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15164816?s=72&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2015-10-16T22:32:06Z"
   }
 ]

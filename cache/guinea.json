@@ -2950,5 +2950,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-08-05T01:30:22Z"
+  },
+  {
+    "login": "sbskalan",
+    "name": "Sally Bilaly Sow ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13420269?s=72&u=3e6563d2dc03ff279e6b44541dfbdc65be8c267f&v=4",
+    "location": "Guinée-Conakry",
+    "company": "BIL ACADEMY",
+    "twitterUsername": "sbskalan",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-20T15:31:27Z"
+  },
+  {
+    "login": "Danso88",
+    "name": "Mahmoud Danso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12409431?s=72&u=57e9c062fc43733f846ed31733753ab934633af7&v=4",
+    "location": "Conakry-Guinée",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-12T10:08:42Z"
+  },
+  {
+    "login": "fkoulibaly",
+    "name": "KOULIBALY Faboukary",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12040367?s=72&u=755da8744b90ecc4052e008b354d9fb9476d1d13&v=4",
+    "location": "GUINÉE, CONAKRY",
+    "company": "ALL DEV SERVICES",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-20T21:14:20Z"
   }
 ]

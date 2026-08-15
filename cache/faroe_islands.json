@@ -274,5 +274,53 @@
     "privateContributions": 1355,
     "publicContributions": 9,
     "createdAt": "2018-05-07T18:35:58Z"
+  },
+  {
+    "login": "bxtal-lsn",
+    "name": "Bartal Læarsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28003381?s=72&u=0d7d70c5920619c2ab433d8d2273c41d6b7ecb36&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2017-04-25T11:17:09Z"
+  },
+  {
+    "login": "krvi",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27792771?s=72&u=a5386abdea44ce535b166588454036cee22f84c3&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2017-04-20T01:07:11Z"
+  },
+  {
+    "login": "poullc",
+    "name": "Poul Laust Christiansen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28594761?s=72&u=af3bef009493e4c275fd527fb68cb030e56c30ea&v=4",
+    "location": "Faroe Islands",
+    "company": "Ctrl Sp/f",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-05-10T10:37:09Z"
+  },
+  {
+    "login": "sigurd88",
+    "name": "Sigurd Christiansen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26611354?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-22T22:18:19Z"
   }
 ]

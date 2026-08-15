@@ -13594,5 +13594,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-11-29T14:41:57Z"
+  },
+  {
+    "login": "LinuxCuba",
+    "name": "Arian Molina Aguilera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25325199?s=72&u=8ac27f217b02489663ea568fbae3ed662f50040e&v=4",
+    "location": "Havana",
+    "company": "CorvanIT S.L.U",
+    "twitterUsername": "linuxcuba",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-24T14:47:41Z"
+  },
+  {
+    "login": "MigueLesPaul",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30876629?s=72&u=f13548fe60d90ce30769b3c8e29ccce3c2ba5fe1&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 10,
+    "publicContributions": 15,
+    "createdAt": "2017-08-09T19:04:41Z"
+  },
+  {
+    "login": "heykelh33",
+    "name": "Heykel Hernández",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31254225?s=72&u=3961d9f3267a1e41b38887b7a68757209fd15bb9&v=4",
+    "location": "Havana",
+    "company": "Instituto de Geofísica y Astronomía",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-22T17:53:49Z"
   }
 ]

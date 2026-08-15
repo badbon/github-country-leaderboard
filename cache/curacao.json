@@ -166,5 +166,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-19T09:22:39Z"
+  },
+  {
+    "login": "emile2600",
+    "name": "Emile",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54889613?s=72&v=4",
+    "location": "Willemstad, Curacao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 339,
+    "publicContributions": 17,
+    "createdAt": "2019-09-04T09:42:29Z"
+  },
+  {
+    "login": "angelrgonzalezg",
+    "name": "Angel R Gonzalez G",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58748226?s=72&v=4",
+    "location": "Willemstad, Curacao",
+    "company": "Artificial Intelligence Systems",
+    "twitterUsername": "angelrgonzalezg",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2019-12-10T19:24:24Z"
+  },
+  {
+    "login": "CaribbeanBlockchain",
+    "name": "Caribbean Blockchain Network",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48070323?s=72&u=84983a31e7a27ab39d39d624254eba0cd30ea8c0&v=4",
+    "location": "Willemstad, Curacao ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-27T20:55:39Z"
   }
 ]

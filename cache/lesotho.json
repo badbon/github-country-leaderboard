@@ -1702,5 +1702,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-11-16T05:29:22Z"
+  },
+  {
+    "login": "Teesmo",
+    "name": "Thabo Monoto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13016698?s=72&v=4",
+    "location": "Maseru, Lesotho",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 4,
+    "publicContributions": 0,
+    "createdAt": "2015-06-23T11:53:34Z"
+  },
+  {
+    "login": "Tlotliso-Wiinc",
+    "name": "Tlotliso Mafantiri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16017106?s=72&u=35fd06622fda2cb1ad3fc45d1794985914832670&v=4",
+    "location": "Maseru, Lesotho",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 47,
+    "createdAt": "2015-11-25T13:04:51Z"
+  },
+  {
+    "login": "ramoletane",
+    "name": "Ramoletane Lekhanya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10499101?s=72&u=c226b4bbac97d7e4e42005dcf1ec6a44d1e11769&v=4",
+    "location": "Maseru, Lesotho",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-12T13:21:49Z"
   }
 ]

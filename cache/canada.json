@@ -43282,5 +43282,65 @@
     "privateContributions": 9,
     "publicContributions": 79,
     "createdAt": "2025-04-02T15:25:32Z"
+  },
+  {
+    "login": "petermtate",
+    "name": "Peter Tate",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1037346?s=72&v=4",
+    "location": "Georgetown, Ontario, Canada",
+    "company": "@merative",
+    "twitterUsername": "petermtate",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 67,
+    "createdAt": "2011-09-09T00:52:20Z"
+  },
+  {
+    "login": "haydenki",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54203658?s=72&u=570118f038e36507cdc29467a37d37d9507463cb&v=4",
+    "location": "Vancouver Island, British Columbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 4,
+    "publicContributions": 4,
+    "createdAt": "2019-08-17T08:44:46Z"
+  },
+  {
+    "login": "ginanickoloff",
+    "name": "Gina M. Nickoloff",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47227989?s=72&u=934764ed2d8602c9e04f1bd5ea8fb65f167818d4&v=4",
+    "location": "Vancouver Island, BC",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-31T21:10:38Z"
+  },
+  {
+    "login": "mamcisaac",
+    "name": "Michael McIsaac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55292798?s=72&u=0ca40ac151c1a69c112e327a90d657aca39f789b&v=4",
+    "location": "Prince Edward Island, Canada",
+    "company": "University of Prince Edward Island",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 248,
+    "createdAt": "2019-09-13T17:12:40Z"
+  },
+  {
+    "login": "BradHillier",
+    "name": "Brad Hillier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57161436?s=72&u=81e2d7d9383fc53472b74f91d541c81a517d94ad&v=4",
+    "location": "Vancouver Island, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 35,
+    "publicContributions": 0,
+    "createdAt": "2019-10-30T01:22:58Z"
   }
 ]

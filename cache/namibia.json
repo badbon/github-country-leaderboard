@@ -5170,5 +5170,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-06-24T09:50:04Z"
+  },
+  {
+    "login": "erassynathingo",
+    "name": "Erastus Nathingo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15435646?s=72&u=91062d1703a1182c957fb8c5dbcf148ea82aea58&v=4",
+    "location": "Windhoek",
+    "company": "Logic++",
+    "twitterUsername": "3rassy",
+    "followers": 33,
+    "privateContributions": 1143,
+    "publicContributions": 0,
+    "createdAt": "2015-10-30T12:51:59Z"
+  },
+  {
+    "login": "Mbangula",
+    "name": "Mbangula Lameck Amugongo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12165627?s=72&u=aba8e16f6168b06f5c5c6cf4e01c158029057c9c&v=4",
+    "location": "Windhoek",
+    "company": "Namibia University of Science & Technology",
+    "twitterUsername": "lamechthinkbig",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-04-29T06:49:12Z"
+  },
+  {
+    "login": "RichieRich69",
+    "name": "Richard Plaatjes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11899895?s=72&u=16ef6f0662830e28dc73a2c47102ecaa925af3ad&v=4",
+    "location": "Windhoek",
+    "company": "Capricorn Group",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-04-11T12:36:45Z"
+  },
+  {
+    "login": "devoxis",
+    "name": "Tuyoleni Hamata",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13573332?s=72&u=da4184b87abcca7d50aaeb7d526a6d67eb0898f1&v=4",
+    "location": "Windhoek",
+    "company": "University of Namibia",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-30T14:30:30Z"
+  },
+  {
+    "login": "KingIthumeleng",
+    "name": "Herbert Mutonga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11951428?s=72&v=4",
+    "location": "Windhoek",
+    "company": "Ahulu Investmments",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 14,
+    "publicContributions": 0,
+    "createdAt": "2015-04-14T22:10:25Z"
+  },
+  {
+    "login": "samboiki",
+    "name": "Sam Naholo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11392605?s=72&u=e2c860212b6747ee10e9c1d35fadbe07b6615753&v=4",
+    "location": "Windhoek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2015-03-09T15:42:26Z"
   }
 ]

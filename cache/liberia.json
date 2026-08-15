@@ -2410,5 +2410,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-01-05T13:39:05Z"
+  },
+  {
+    "login": "KalevRK",
+    "name": "Kalev Roomann-Kurrik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1022817?s=72&u=e96622ca8d2f46ce324ddddb04a14439bd286a38&v=4",
+    "location": "Monrovia, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 803,
+    "publicContributions": 0,
+    "createdAt": "2011-09-02T20:17:32Z"
+  },
+  {
+    "login": "goteppo",
+    "name": "Teppo Salonen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/915903?s=72&v=4",
+    "location": "Monrovia, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 141,
+    "publicContributions": 0,
+    "createdAt": "2011-07-14T19:35:39Z"
   }
 ]

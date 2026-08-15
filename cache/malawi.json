@@ -10678,5 +10678,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2012-05-03T07:02:12Z"
+  },
+  {
+    "login": "jkumwenda",
+    "name": "jkumwenda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/812125?s=72&u=de2de4dcbff10b0ea2bd4453d2a487a8f75d0e40&v=4",
+    "location": "Malawi",
+    "company": "Triola Inc",
+    "twitterUsername": "jkumwenda1",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2011-05-26T13:50:21Z"
+  },
+  {
+    "login": "hkilembe",
+    "name": "Hector Kilembe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/797746?s=72&v=4",
+    "location": "Blantyre,Malawi",
+    "company": "Einstein Technologies",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-05-19T09:16:36Z"
   }
 ]
