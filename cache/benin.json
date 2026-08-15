@@ -5530,5 +5530,77 @@
     "privateContributions": 37,
     "publicContributions": 18,
     "createdAt": "2015-08-26T15:22:24Z"
+  },
+  {
+    "login": "dehboris",
+    "name": "Boris DEHOUMON",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8873836?s=72&v=4",
+    "location": "Cotonou, BENIN",
+    "company": "@Dcolsay ",
+    "twitterUsername": "dehboris",
+    "followers": 59,
+    "privateContributions": 26,
+    "publicContributions": 18,
+    "createdAt": "2014-09-23T09:27:32Z"
+  },
+  {
+    "login": "eldomagan",
+    "name": "Eldo Magan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8585729?s=72&u=209a6b9ffdf2db2feb3e8ea115758f9e2686dc8f&v=4",
+    "location": "Cotonou, Benin",
+    "company": "",
+    "twitterUsername": "EldoMagan",
+    "followers": 26,
+    "privateContributions": 865,
+    "publicContributions": 816,
+    "createdAt": "2014-08-29T01:11:49Z"
+  },
+  {
+    "login": "kamhix",
+    "name": "Hakim Ouake",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8557426?s=72&u=db2d881070c282d2392206e924e251121445668f&v=4",
+    "location": "Cotonou, Benin",
+    "company": "",
+    "twitterUsername": "hakimouakedev",
+    "followers": 24,
+    "privateContributions": 1792,
+    "publicContributions": 0,
+    "createdAt": "2014-08-26T13:48:37Z"
+  },
+  {
+    "login": "GeekOnHeels01",
+    "name": "Rachael Orumor ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10324018?s=72&u=41433e38d82f8110beb467d4f1aa16ab91070941&v=4",
+    "location": "Cotonou, Benin",
+    "company": "@SensOrbit ",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-27T15:24:12Z"
+  },
+  {
+    "login": "law2chamber",
+    "name": "Rogers Topanou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8502001?s=72&u=d3072d0bc61aed75c4c921ca7fd29c9d378eb306&v=4",
+    "location": "Cotonou/Benin ",
+    "company": "lawchamber",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-20T11:10:41Z"
+  },
+  {
+    "login": "Crazyde",
+    "name": "ACHIDI Corneille",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7131036?s=72&u=699f6b85df8ac33b62629b360afe1a41a699ebc2&v=4",
+    "location": "Cotonou, Benin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2435,
+    "createdAt": "2014-04-01T19:31:48Z"
   }
 ]

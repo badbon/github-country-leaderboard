@@ -15535,7 +15535,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 302,
+    "privateContributions": 303,
     "publicContributions": 18,
     "createdAt": "2018-09-22T11:58:13Z"
   },
@@ -15910,5 +15910,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-10-03T03:12:27Z"
+  },
+  {
+    "login": "MMnaimi",
+    "name": "Mohammad Murtaza Naimi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45477322?s=72&u=ada4145c8ec94f4f7f9ac0d584ffbf6cdb1c4b9a&v=4",
+    "location": "kabul",
+    "company": "Netlinks Ltd",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 2687,
+    "publicContributions": 0,
+    "createdAt": "2018-11-30T04:29:17Z"
+  },
+  {
+    "login": "fayaznasrati",
+    "name": "Fayaz Nasrati",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37947450?s=72&v=4",
+    "location": "kabul",
+    "company": "afghan-pay",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 417,
+    "publicContributions": 62,
+    "createdAt": "2018-03-31T03:39:53Z"
+  },
+  {
+    "login": "Mujeeburahman",
+    "name": "Mujeeburahman Hassanzai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43927465?s=72&u=5c170fe487e594bbbcf76db0d22fe53e5762a455&v=4",
+    "location": "kabul",
+    "company": "General Directorate of Treasury @ Ministry of Finance",
+    "twitterUsername": "mujeebhassanzai",
+    "followers": 5,
+    "privateContributions": 1561,
+    "publicContributions": 0,
+    "createdAt": "2018-10-07T10:35:58Z"
+  },
+  {
+    "login": "AbdulQarizada",
+    "name": "Abdul Qarizada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36229166?s=72&u=da1c918dd511f37071c4a4fdcc8231681e680529&v=4",
+    "location": "Kabul ",
+    "company": "Fatiha",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 83,
+    "publicContributions": 1,
+    "createdAt": "2018-02-07T11:17:25Z"
+  },
+  {
+    "login": "Ebrahimi1234",
+    "name": "Reza Ebrahimi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35271440?s=72&u=f7afa89bf2237263faeaaeee03869369c5c1d3d5&v=4",
+    "location": "Kabul ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-09T18:09:36Z"
+  },
+  {
+    "login": "Jawedghorzang",
+    "name": "Jawed Ghorzang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39099927?s=72&u=c9f37e68597a213f27483815d3ece2c948cabdf9&v=4",
+    "location": "Kabul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2018-05-08T18:20:37Z"
+  },
+  {
+    "login": "shakib98",
+    "name": "Ahmad Shakib",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38042412?s=72&u=951b42e88462a6924d89a3a82439b45f3a75c9f2&v=4",
+    "location": "Kabul",
+    "company": "DAB",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-03T13:49:33Z"
+  },
+  {
+    "login": "Tamimwahidi121",
+    "name": "Tamim Wahidi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39281970?s=72&u=370e865f8c33553c98b033773acec3b58dfd960d&v=4",
+    "location": "Kabul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2018-05-14T21:39:49Z"
   }
 ]

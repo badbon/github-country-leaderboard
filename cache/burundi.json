@@ -2662,5 +2662,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-01-30T15:53:40Z"
+  },
+  {
+    "login": "angelokezimana",
+    "name": "Kezimana Aime Angelo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18521838?s=72&u=e237ab59e0b8a2370a5ac1a05eb4b207234c07d7&v=4",
+    "location": "Burundi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-04-18T02:36:32Z"
+  },
+  {
+    "login": "agahebeye",
+    "name": "Gahebeye aboubakar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24321974?s=72&u=77821fab2853f4c8dc9e9900902efa142dc71f1b&v=4",
+    "location": "Burundi, bujumbura",
+    "company": "Mediabox",
+    "twitterUsername": "Agahebeye",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2016-12-02T18:15:41Z"
+  },
+  {
+    "login": "amazedarc",
+    "name": "Mazina Davy Arcel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20023888?s=72&u=29a352b0d35526d37d581f4484677b3d546f94dd&v=4",
+    "location": "Burundi",
+    "company": "DTB Burundi",
+    "twitterUsername": "mazinadavy",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-06-19T06:57:53Z"
+  },
+  {
+    "login": "rukundobertrand",
+    "name": "Bertrand RUKUNDO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24805281?s=72&u=a7385d1fb708725cd411f3f21ab19b900f50c58d&v=4",
+    "location": "Burundi",
+    "company": "Burundi Red Cross",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-28T07:19:43Z"
+  },
+  {
+    "login": "nishimwealain",
+    "name": "Nishimwe Alain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21331477?s=72&v=4",
+    "location": "bujumbura, BURUNDI",
+    "company": "Bytedrum",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2016-08-30T07:46:15Z"
+  },
+  {
+    "login": "mwamimwiza",
+    "name": "Olivier Mwamimwiza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23127939?s=72&v=4",
+    "location": "Burundi",
+    "company": "",
+    "twitterUsername": "OlivierMwami",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-28T20:04:03Z"
   }
 ]

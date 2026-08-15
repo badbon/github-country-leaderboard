@@ -310,5 +310,41 @@
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2021-01-20T10:13:31Z"
+  },
+  {
+    "login": "TheUthaGuy",
+    "name": "David",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69866272?s=72&u=ccd0478a19ffcedc5c8837b798371a1dc13cb22a&v=4",
+    "location": "Jersey, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-18T17:24:51Z"
+  },
+  {
+    "login": "inshore",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68851391?s=72&v=4",
+    "location": "Jersey",
+    "company": "inShore Ltd",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2020-07-27T10:52:15Z"
+  },
+  {
+    "login": "Induction1",
+    "name": "Michael Gao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65188369?s=72&u=8c8efd4c1269f1de2359ec6c98ede6aa5335f1b4&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 74,
+    "createdAt": "2020-05-11T18:11:47Z"
   }
 ]

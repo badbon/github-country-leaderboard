@@ -30322,5 +30322,101 @@
     "privateContributions": 14,
     "publicContributions": 108,
     "createdAt": "2019-06-25T14:46:43Z"
+  },
+  {
+    "login": "ukrustacean",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88879344?s=72&u=80899d0bd923c13d6f0d4f6e160e5969c2fd8310&v=4",
+    "location": "Česká Republika, Brno",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2021-08-13T08:13:54Z"
+  },
+  {
+    "login": "petrsovadina",
+    "name": "Petr Sovadina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87069985?s=72&u=2269a16112fd1331e93b6477cf6d76e850f80427&v=4",
+    "location": "Brno, Česká Republika",
+    "company": "DigiMedic",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 687,
+    "createdAt": "2021-07-07T10:25:29Z"
+  },
+  {
+    "login": "aleroycz",
+    "name": "Alex Le Roy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95084549?s=72&u=be00c0230b65bd9993f4f40414ea8b2408fd8dab&v=4",
+    "location": "Praha, Česká Republika",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1071,
+    "publicContributions": 148,
+    "createdAt": "2021-11-26T12:35:31Z"
+  },
+  {
+    "login": "bretonec",
+    "name": "Palash production",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84481467?s=72&u=b257c615d7470c44e962492ac7bd4a7df7aab4a2&v=4",
+    "location": "Česká republika",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-19T23:07:28Z"
+  },
+  {
+    "login": "manicka1",
+    "name": "Aleš \"programátor\" Honsa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76952749?s=72&u=a08eaa3a9ab0eb152a793046c49089dd339aafac&v=4",
+    "location": "Česká Republika ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-04T13:14:15Z"
+  },
+  {
+    "login": "JustHxnry",
+    "name": "JustHxnry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78869976?s=72&u=a44a3e6ea9df974b9b6b32e0d3c1c0e2afd3d841&v=4",
+    "location": "Česká Republika",
+    "company": "",
+    "twitterUsername": "IHxnry",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-10T16:57:05Z"
+  },
+  {
+    "login": "aotahal",
+    "name": "Adam Otáhal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96112160?s=72&u=a611a49fc3fe67b13b037cd6a25640cd282fc237&v=4",
+    "location": "Jihomoravský kraj, Česká Republika",
+    "company": "@MARS-engineers",
+    "twitterUsername": "adam_otahal",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2021-12-14T09:12:20Z"
+  },
+  {
+    "login": "CernyDavid",
+    "name": "David Černý",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91247706?s=72&v=4",
+    "location": "Česká republika",
+    "company": "TUL",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2021-09-23T07:31:38Z"
   }
 ]

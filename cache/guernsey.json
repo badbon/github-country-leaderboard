@@ -346,5 +346,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-11-30T17:03:27Z"
+  },
+  {
+    "login": "YuriGuernsey",
+    "name": "Yuri Alves",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7033558?s=72&u=f2fd41bd877028a457075ab3dc88cb1e52e842a1&v=4",
+    "location": "Guernsey",
+    "company": "BugBird Co.",
+    "twitterUsername": "YuriGuernsey",
+    "followers": 8,
+    "privateContributions": 336,
+    "publicContributions": 45,
+    "createdAt": "2014-03-22T19:32:48Z"
+  },
+  {
+    "login": "mtp-tkostudax",
+    "name": "Shanty Irish",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7475966?s=72&u=5a1f2caf91996d06bfe69c698aae64f294aed2fd&v=4",
+    "location": "Guernsey",
+    "company": "Man The Programmer, LLC",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2014-05-03T19:14:46Z"
+  },
+  {
+    "login": "IanGSY",
+    "name": "IanGSY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8972687?s=72&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 116,
+    "publicContributions": 0,
+    "createdAt": "2014-09-30T14:15:40Z"
   }
 ]

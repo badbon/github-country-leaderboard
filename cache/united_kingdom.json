@@ -33658,5 +33658,29 @@
     "privateContributions": 0,
     "publicContributions": 47,
     "createdAt": "2025-04-11T07:52:30Z"
+  },
+  {
+    "login": "sophie-dennis",
+    "name": "Sophie Dennis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112616808?s=72&u=0a3a64c889b00cc41be2cdb15e8629ac4d85aad5&v=4",
+    "location": "Belfast, Northern Ireland ",
+    "company": "IDOX",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1202,
+    "publicContributions": 0,
+    "createdAt": "2022-09-01T08:21:41Z"
+  },
+  {
+    "login": "imcaleer-deloitte",
+    "name": "Ian McAleer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99722029?s=72&u=9630641ab56add8b2a076629b0fdf35411ab31a8&v=4",
+    "location": "Northern Ireland",
+    "company": "Deloitte",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-15T09:06:35Z"
   }
 ]
