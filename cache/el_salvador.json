@@ -14335,7 +14335,7 @@
     "company": "Black Fang",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 47,
+    "privateContributions": 49,
     "publicContributions": 2,
     "createdAt": "2019-07-05T03:52:45Z"
   },
@@ -14935,7 +14935,7 @@
     "company": "@ikaro-studio ",
     "twitterUsername": "jromerojarj",
     "followers": 5,
-    "privateContributions": 6111,
+    "privateContributions": 6129,
     "publicContributions": 0,
     "createdAt": "2019-08-29T01:30:20Z"
   },
@@ -16618,5 +16618,125 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-04T17:03:36Z"
+  },
+  {
+    "login": "AlexandraGomez14",
+    "name": "Alexandra Gómez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56454530?s=72&v=4",
+    "location": "San Salvador, ElSalvador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2019-10-11T19:50:18Z"
+  },
+  {
+    "login": "VAlarcon93",
+    "name": "Vanessa Alarcón ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57737540?s=72&u=28d7c42683a3b252ac5af50a9c00b6d0f967cd34&v=4",
+    "location": "San Salvador",
+    "company": "Freelancer ",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-14T02:14:09Z"
+  },
+  {
+    "login": "GerardoRTobar",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47195095?s=72&u=29f3478a2bfdf6db34128fe5ca7e36d7dc2aa062&v=4",
+    "location": "San Salvador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-30T21:37:32Z"
+  },
+  {
+    "login": "nadiavinabal",
+    "name": "Nadia Viñabal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59315618?s=72&u=0e68a53bd1267330a109c8a3f2279df182eb542b&v=4",
+    "location": "San Salvador de Jujuy",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2019-12-28T16:25:30Z"
+  },
+  {
+    "login": "AdolfoJavierLopez",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54856509?s=72&v=4",
+    "location": "San Salvador",
+    "company": "Universidad Tecnològica de El Salvador",
+    "twitterUsername": "rustico999",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-03T15:59:14Z"
+  },
+  {
+    "login": "fernan11xd",
+    "name": "Fernando Flores",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54419470?s=72&u=20f6bb327762b633d2c2aa9d7f93b0c45ffc921d&v=4",
+    "location": "San Salvador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2019-08-22T21:04:28Z"
+  },
+  {
+    "login": "jsegomez",
+    "name": "Josué Eliezer Gómez Soto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58272564?s=72&u=1505afd6f802bd10c5b58bc73094a46ed3e37156&v=4",
+    "location": "San Salvador",
+    "company": "",
+    "twitterUsername": "jsegomezz",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 250,
+    "createdAt": "2019-11-27T19:44:46Z"
+  },
+  {
+    "login": "73ck0",
+    "name": "Carlos Peñate",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50424619?s=72&u=007b9996339cc4be75d2b678406cc13a24d952cd&v=4",
+    "location": "San Salvador",
+    "company": "TucanDev",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-05-08T19:59:07Z"
+  },
+  {
+    "login": "ismaelmar23",
+    "name": "Ismael Martinez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50749146?s=72&u=19356a6d2a97badcfc00e1134b122be21f0dcff4&v=4",
+    "location": "Colonia Escalón, San Salvador",
+    "company": "ACCapital",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-17T16:48:17Z"
+  },
+  {
+    "login": "mayen23309",
+    "name": "Alejandro Mayen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54299510?s=72&u=910c49ef2ca6f9a4c0b28e122f831df00469cc84&v=4",
+    "location": "San Salvador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-20T03:05:57Z"
   }
 ]

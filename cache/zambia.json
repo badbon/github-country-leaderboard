@@ -14059,7 +14059,7 @@
     "company": "",
     "twitterUsername": "eddyshivers",
     "followers": 26,
-    "privateContributions": 747,
+    "privateContributions": 757,
     "publicContributions": 30,
     "createdAt": "2016-11-12T05:58:54Z"
   },
@@ -14083,7 +14083,7 @@
     "company": "Android Developer at DVT Consulting ABSA ",
     "twitterUsername": "nigel_chomba",
     "followers": 22,
-    "privateContributions": 1429,
+    "privateContributions": 1430,
     "publicContributions": 0,
     "createdAt": "2016-03-16T11:24:28Z"
   },
@@ -14191,7 +14191,7 @@
     "company": "@Inpsyde-Global-Service-Provider ",
     "twitterUsername": "mwale_and_sons",
     "followers": 10,
-    "privateContributions": 8621,
+    "privateContributions": 8634,
     "publicContributions": 152,
     "createdAt": "2016-05-17T08:25:44Z"
   },
@@ -14371,7 +14371,7 @@
     "company": "@connexcs ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3640,
+    "privateContributions": 3650,
     "publicContributions": 103,
     "createdAt": "2016-02-25T01:17:01Z"
   },
@@ -14590,5 +14590,137 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-17T11:01:28Z"
+  },
+  {
+    "login": "Mulency",
+    "name": "Cynthia M. Mulenga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23038552?s=72&u=2e8c1c46f31ab3b564ef129fbbf29f73aaec2546&v=4",
+    "location": "Lusaka",
+    "company": "@BongoHive ",
+    "twitterUsername": "",
+    "followers": 97,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-10-24T18:46:16Z"
+  },
+  {
+    "login": "cliffy1337",
+    "name": "Clifford Hepplethwaite",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17519589?s=72&u=cc736caf65c16dcd396f3de515ba28679b21199a&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 838,
+    "publicContributions": 73,
+    "createdAt": "2016-02-27T21:09:34Z"
+  },
+  {
+    "login": "Wells4sure",
+    "name": "Wellington Chanda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19226868?s=72&u=89ba26758548839aa65ae5d5a8836aed7f43e019&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2016-05-06T15:16:27Z"
+  },
+  {
+    "login": "Par9890",
+    "name": "Patrick Chibale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17418576?s=72&u=028556c10781f066faa77aa4dcc1084f0dc53f54&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2016-02-22T23:37:57Z"
+  },
+  {
+    "login": "JayKamana",
+    "name": "James Kamana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19826799?s=72&u=088eef1d8eb6b1a3ecf8c4f7be870b711049874a&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2016-06-08T21:04:22Z"
+  },
+  {
+    "login": "Mutepuka",
+    "name": "Musonda Makena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18482756?s=72&u=2faec104fc22407e3e3675ebec4c572fff5c51ab&v=4",
+    "location": "Lusaka",
+    "company": "Acenxion",
+    "twitterUsername": "Ensueinc",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-04-15T11:23:39Z"
+  },
+  {
+    "login": "keinny",
+    "name": "Kenneth Nondo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20222994?s=72&u=00735ffec873888befdf080754ea8d02e63f6136&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 51,
+    "publicContributions": 16,
+    "createdAt": "2016-06-30T09:33:43Z"
+  },
+  {
+    "login": "Munanga",
+    "name": "Jack",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20391119?s=72&u=38bf7c611920a50318d984a4b92114c55a2cffaf&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2016-07-11T04:07:40Z"
+  },
+  {
+    "login": "malumbosiwale",
+    "name": "Malumbo Siwale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20781366?s=72&u=a3b2a4a21c4b04d67c20c8cf3229ee9a97fbe47a&v=4",
+    "location": "Lusaka",
+    "company": "Zeecoder",
+    "twitterUsername": "malumbosiwale",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-01T21:16:25Z"
+  },
+  {
+    "login": "bulongo",
+    "name": "bulongo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22290639?s=72&u=14dc8e5ede7b1715e96fb39caab518e80c99b42d&v=4",
+    "location": "Lusaka",
+    "company": "Elephant Media house",
+    "twitterUsername": "kofiwith6sugars",
+    "followers": 2,
+    "privateContributions": 86,
+    "publicContributions": 1,
+    "createdAt": "2016-09-19T08:35:21Z"
+  },
+  {
+    "login": "regismat",
+    "name": "Regx",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18701796?s=72&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 26,
+    "publicContributions": 0,
+    "createdAt": "2016-04-27T13:52:40Z"
   }
 ]

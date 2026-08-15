@@ -22534,5 +22534,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-11-09T02:20:39Z"
+  },
+  {
+    "login": "pedriquezangel",
+    "name": "Angel Pedriquez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98593766?s=72&u=90554e237df2c8ac0920015de3eb54ed739c254f&v=4",
+    "location": "Venezuela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-28T12:39:52Z"
+  },
+  {
+    "login": "FerdVI",
+    "name": "Fabian Eduardo Ramírez Duque",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119557606?s=72&v=4",
+    "location": "Venezuela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2022-12-01T04:40:54Z"
+  },
+  {
+    "login": "LuisGalban",
+    "name": "Luis Galban",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101908631?s=72&v=4",
+    "location": "Venezuela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-03-18T23:53:00Z"
+  },
+  {
+    "login": "Jhalddry",
+    "name": "Jhalddry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118096473?s=72&u=dfd411e24861ae26269b2aba0823365501279803&v=4",
+    "location": "Venezuela",
+    "company": "Yisrael Tech LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 85,
+    "createdAt": "2022-11-13T06:22:04Z"
+  },
+  {
+    "login": "yurielh",
+    "name": "Yuriel S. Hurtado D.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97362644?s=72&u=9811262adc55f1ffb2b3334e4f9b454dcca77e46&v=4",
+    "location": "Venezuela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-08T20:08:02Z"
+  },
+  {
+    "login": "mickel-arroz",
+    "name": "Mickel Arroz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111148461?s=72&u=d8cf57b0a1ef78f667d833d300aeda373ae6a071&v=4",
+    "location": "Caracas, Venezuela",
+    "company": "Estudiante",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 725,
+    "publicContributions": 225,
+    "createdAt": "2022-08-12T18:31:54Z"
+  },
+  {
+    "login": "ariannespg",
+    "name": "Arianne Perret Gentil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113394844?s=72&u=5eea28f3c68571f54b5ce18b95c962e5bb6f8a15&v=4",
+    "location": "Caracas, Venezuela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-12T22:40:13Z"
+  },
+  {
+    "login": "nick-0037",
+    "name": "Nick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120076510?s=72&v=4",
+    "location": "Venezuela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 182,
+    "createdAt": "2022-12-08T04:02:45Z"
   }
 ]

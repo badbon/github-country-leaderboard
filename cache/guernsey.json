@@ -178,5 +178,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-06-18T20:05:08Z"
+  },
+  {
+    "login": "tris203",
+    "name": "Tristan Knight",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18444302?s=72&u=048c573d6f2b59cc749edb29e2b3ace0bde88fb3&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 43,
+    "privateContributions": 870,
+    "publicContributions": 395,
+    "createdAt": "2016-04-13T14:27:34Z"
+  },
+  {
+    "login": "patsytau",
+    "name": "Patrizia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17437133?s=72&u=fdaef2c7718865ca1626ad0efe6539eb240ce55d&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 2,
+    "publicContributions": 2,
+    "createdAt": "2016-02-23T18:49:59Z"
+  },
+  {
+    "login": "RicLeP",
+    "name": "Ric Le Poidevin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19726976?s=72&u=f90f98c91f2e4823fbc4fda398a3dadba3a58938&v=4",
+    "location": "Guernsey",
+    "company": "U&US",
+    "twitterUsername": "riclep",
+    "followers": 15,
+    "privateContributions": 1409,
+    "publicContributions": 101,
+    "createdAt": "2016-06-03T08:50:36Z"
+  },
+  {
+    "login": "charlie-ogier",
+    "name": "Charlie Ogier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18631108?s=72&u=d944a2d3d284ad5dfce9c6da2e231bb3d9208f02&v=4",
+    "location": "Guernsey, Channel Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-23T14:17:39Z"
+  },
+  {
+    "login": "theModrzew",
+    "name": "Patryk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22216645?s=72&u=b61d83ec3357f0274fdb6f35399aa5f15d19df24&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 123,
+    "publicContributions": 2,
+    "createdAt": "2016-09-15T12:17:56Z"
+  },
+  {
+    "login": "admassey",
+    "name": "Adrian Massey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24720407?s=72&u=a355feffa4fc718ab801533774ef05e20716f38f&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-22T16:43:51Z"
+  },
+  {
+    "login": "mrtgsy",
+    "name": "Matt Thornton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18119543?s=72&u=15ed6e42fc5ef5ead1bd6a67ee5be9119e48e04c&v=4",
+    "location": "Guernsey",
+    "company": "Cortex",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-28T14:44:04Z"
+  },
+  {
+    "login": "CharlieBru",
+    "name": "Charlie Bru",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20194030?s=72&u=d432ecc7982a3da4033cd566febc80bc7b18befc&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-28T19:47:33Z"
   }
 ]

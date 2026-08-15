@@ -250,5 +250,29 @@
     "privateContributions": 1,
     "publicContributions": 8,
     "createdAt": "2019-08-19T01:12:40Z"
+  },
+  {
+    "login": "martindidriksen",
+    "name": "Martin Didriksen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35219056?s=72&u=af678d3a6db9fd4be6384b6cb82c328f5ab08acd&v=4",
+    "location": "Klaksvík, Faroe Islands",
+    "company": "Software Developer @ FarPay",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 28,
+    "publicContributions": 13,
+    "createdAt": "2018-01-08T09:32:38Z"
+  },
+  {
+    "login": "SigmundurMorkore",
+    "name": "Sigmundur Mørkøre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39065262?s=72&u=aeed7fc7f50441ed2a7eec7113eda0af1bbea453&v=4",
+    "location": "Faroe Islands",
+    "company": "@sansir ",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1355,
+    "publicContributions": 9,
+    "createdAt": "2018-05-07T18:35:58Z"
   }
 ]

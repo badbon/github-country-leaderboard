@@ -898,5 +898,29 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2013-07-20T10:13:36Z"
+  },
+  {
+    "login": "fixups",
+    "name": "Christophe Théron",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1562781?s=72&u=5203da061d253be09d314e6ca581784a012dd84c&v=4",
+    "location": "Guadeloupe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2012-03-21T23:54:43Z"
+  },
+  {
+    "login": "jim971",
+    "name": "jim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1868038?s=72&v=4",
+    "location": "guadeloupe",
+    "company": "noviris",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-06-19T14:38:48Z"
   }
 ]

@@ -5038,5 +5038,77 @@
     "privateContributions": 0,
     "publicContributions": 743,
     "createdAt": "2019-07-20T10:09:01Z"
+  },
+  {
+    "login": "nvelden",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45127542?s=72&u=43324ba161b2c2f3c795e4056d40e806dc0db105&v=4",
+    "location": "Hamilton, Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 972,
+    "publicContributions": 839,
+    "createdAt": "2018-11-17T16:49:29Z"
+  },
+  {
+    "login": "gggringley",
+    "name": "Gretchen Goodbody-Gringley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37283688?s=72&u=f523df46de34e88070870a3ffc5403ff6b929c3a&v=4",
+    "location": "Bermuda",
+    "company": "Bermuda Institute of Ocean Sciences",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-12T04:32:49Z"
+  },
+  {
+    "login": "wuwenrufeng",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45844514?s=72&u=a76b42c7fa45356a88e730eac3e413e1990feb41&v=4",
+    "location": "Bermuda",
+    "company": "Borland legend",
+    "twitterUsername": "wuwenrufeng",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2018-12-13T08:49:29Z"
+  },
+  {
+    "login": "kevinminors",
+    "name": "Kevin Minors",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44020606?s=72&u=edf7bb010f919f91475dcc32ec66f54223836418&v=4",
+    "location": "Bermuda",
+    "company": "Bermuda Data Analytics",
+    "twitterUsername": "bermudadata",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-10T08:49:09Z"
+  },
+  {
+    "login": "aclyd",
+    "name": "The Aclyd Project",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39847142?s=72&u=2a502523d5cfd34cd4e0d96cb3796d08d22285c2&v=4",
+    "location": "Bermuda",
+    "company": "The Aclyd Project",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-02T03:01:26Z"
+  },
+  {
+    "login": "biosstation",
+    "name": "BIOS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40508973?s=72&u=31e0880ede2b0d9c9eac2b276ae6a1200f06cad3&v=4",
+    "location": "St. George, Bermuda",
+    "company": "Bermuda Institute of Ocean Sciences",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-23T01:56:23Z"
   }
 ]

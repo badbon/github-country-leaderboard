@@ -29878,5 +29878,41 @@
     "privateContributions": 0,
     "publicContributions": 40,
     "createdAt": "2025-10-10T15:01:15Z"
+  },
+  {
+    "login": "stratisec",
+    "name": "STRATISEC",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66341220?s=72&u=ec45ca8322042e26053d085447225cec804d3118&v=4",
+    "location": "Mercer Island, Washington & Oxford, England",
+    "company": "STRATISEC",
+    "twitterUsername": "STRATISEC",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-03T00:49:11Z"
+  },
+  {
+    "login": "2010person",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116949561?s=72&v=4",
+    "location": "United Kingdom of Great Britain and Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2022-10-29T10:04:55Z"
+  },
+  {
+    "login": "wmsci",
+    "name": "William McCann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118026431?s=72&u=7e439d598e9ba9d2cb29df060b35b2c4fbee4e77&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "QUB",
+    "twitterUsername": "wmsci_",
+    "followers": 17,
+    "privateContributions": 840,
+    "publicContributions": 12,
+    "createdAt": "2022-11-11T22:42:26Z"
   }
 ]

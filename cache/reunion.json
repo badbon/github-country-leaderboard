@@ -1606,5 +1606,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-23T10:18:44Z"
+  },
+  {
+    "login": "leblemelvin",
+    "name": "Melvin LEBLE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60068695?s=72&u=edefb193f7e58b4996d431bcfd9d306f1779048a&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 135,
+    "publicContributions": 0,
+    "createdAt": "2020-01-19T15:13:36Z"
+  },
+  {
+    "login": "Bobgang974",
+    "name": "Merlin_L'enchantier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65953493?s=72&u=210967b4e1285dbac8cccbde871bd5eeea8639f5&v=4",
+    "location": "Reunion-Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2020-05-26T10:56:45Z"
+  },
+  {
+    "login": "drip974",
+    "name": "Rod \"DRIP\" Coutinho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72004016?s=72&v=4",
+    "location": "Reunion Island",
+    "company": "Immatriculée Concession",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-28T06:05:08Z"
+  },
+  {
+    "login": "Fazanwolf",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72005506?s=72&u=c96a1d5c6f09d59c228b6916634f34ec4b90766c&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 26,
+    "publicContributions": 48,
+    "createdAt": "2020-09-28T06:40:32Z"
   }
 ]
