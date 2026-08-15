@@ -12392,7 +12392,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2019-10-26T04:27:29Z"
   },
   {
@@ -12562,5 +12562,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-18T02:52:46Z"
+  },
+  {
+    "login": "haris-hindic",
+    "name": "Haris Hindić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56647882?s=72&u=2f5d9aa9c71ac9d8360ba43baf92f02a6f193da1&v=4",
+    "location": "Jablanica, Bosnia & Herzegovina",
+    "company": "Faculty of Information Technologies",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-16T16:22:07Z"
+  },
+  {
+    "login": "SeadSabanovic",
+    "name": "Sead Šabanović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57287358?s=72&u=6a8727e23a5238b083717dd63a3833ad47693888&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 2494,
+    "publicContributions": 58,
+    "createdAt": "2019-11-02T10:30:10Z"
+  },
+  {
+    "login": "EdisKrsmanovic",
+    "name": "Edis Krsmanović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55995288?s=72&u=a6fc39e698d77ef7cbbbd4ec4667a89002bc0a46&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 7,
+    "publicContributions": 0,
+    "createdAt": "2019-09-30T16:50:42Z"
+  },
+  {
+    "login": "mujkanovic01",
+    "name": "Bakir Mujkanović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57716291?s=72&u=063da3436f803b82c6f31a0b135d93707b6162fe&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 84,
+    "publicContributions": 15,
+    "createdAt": "2019-11-13T13:48:50Z"
+  },
+  {
+    "login": "nebojsatolimir",
+    "name": "Nebojša Tolimir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58882762?s=72&v=4",
+    "location": "Banja Luka, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-14T13:52:41Z"
   }
 ]

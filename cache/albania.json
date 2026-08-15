@@ -7522,5 +7522,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-12T10:11:15Z"
+  },
+  {
+    "login": "klajdicaushi",
+    "name": "Klajdi Çaushi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76052877?s=72&u=8e571bd379bb8fe921c829623fbd781ca988a033&v=4",
+    "location": "Tirana",
+    "company": "CardoAI",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 2871,
+    "publicContributions": 13,
+    "createdAt": "2020-12-15T13:48:26Z"
+  },
+  {
+    "login": "orgestbelba",
+    "name": "Orgest Belba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69637338?s=72&u=332f0492470a6141262b9d8a173086ba19e3f868&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2020-08-13T14:05:45Z"
+  },
+  {
+    "login": "sly503",
+    "name": "Fatjon Rami",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67649108?s=72&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 3635,
+    "publicContributions": 12,
+    "createdAt": "2020-06-30T15:52:36Z"
+  },
+  {
+    "login": "andilazaj",
+    "name": "Andi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74736595?s=72&u=1dbc778381524b1c534680a74c65b805254d6d10&v=4",
+    "location": "Tirana",
+    "company": "Delatech",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 39,
+    "publicContributions": 3,
+    "createdAt": "2020-11-19T19:20:38Z"
+  },
+  {
+    "login": "Arbri-B",
+    "name": "Arbri Berberi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74304861?s=72&u=dddf937af130611d670083d1b7b46e94edcdfb87&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-11T13:01:55Z"
+  },
+  {
+    "login": "sarahallidri",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75792869?s=72&v=4",
+    "location": "Tirana",
+    "company": "Pragmatic Software",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-10T13:36:45Z"
+  },
+  {
+    "login": "XhHalla",
+    "name": "Xhesjano Halla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74937679?s=72&v=4",
+    "location": "Tirana ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-23T23:11:39Z"
+  },
+  {
+    "login": "mhaarrits",
+    "name": "Charles Adkins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72675391?s=72&u=d4c96259ffc6afb4e9a834f7bb7d8e654256d8f1&v=4",
+    "location": "Tirana",
+    "company": "SoftServe",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-10T23:51:48Z"
   }
 ]

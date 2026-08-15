@@ -6271,8 +6271,8 @@
     "company": "Futurecast Studios",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 4983,
-    "publicContributions": 125,
+    "privateContributions": 5226,
+    "publicContributions": 137,
     "createdAt": "2021-06-26T17:15:25Z"
   },
   {
@@ -6367,7 +6367,7 @@
     "company": "University of Nicosia",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 102,
+    "privateContributions": 104,
     "publicContributions": 137,
     "createdAt": "2021-04-08T13:44:48Z"
   },
@@ -6775,7 +6775,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1225,
+    "privateContributions": 1226,
     "publicContributions": 16,
     "createdAt": "2021-01-10T22:13:34Z"
   },
@@ -8338,5 +8338,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-18T11:12:28Z"
+  },
+  {
+    "login": "franckabdul",
+    "name": "Franck Nasibu Abdul",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81420864?s=72&u=420ac35ccc42f3d18ece762cb476fa1859b116cd&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 567,
+    "publicContributions": 79,
+    "createdAt": "2021-03-26T12:05:39Z"
+  },
+  {
+    "login": "enpero",
+    "name": "Ekaterina Perova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88239138?s=72&u=75d04f6014dde30ee8af074cd7676135bfa37b80&v=4",
+    "location": "Nicosia",
+    "company": "Skyeng",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-31T13:17:06Z"
+  },
+  {
+    "login": "lkyriakides",
+    "name": "Lefteris Kyriakides",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93650861?s=72&v=4",
+    "location": "Nicosia",
+    "company": "Catalink Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-03T10:32:09Z"
+  },
+  {
+    "login": "Elias-Kokkinos",
+    "name": "Elias Kokkinos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90823465?s=72&u=96144196a4674ca349b8ddedcf75112284d01f81&v=4",
+    "location": "Nicosia",
+    "company": "Techlink",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-16T06:26:53Z"
+  },
+  {
+    "login": "evastone97",
+    "name": "Eva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82998648?s=72&v=4",
+    "location": "Nicosia",
+    "company": "CYENS Centre of Excellence",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-22T06:43:52Z"
+  },
+  {
+    "login": "sooforce",
+    "name": "Elias Kyriakides",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93183376?s=72&u=bf808b7aacad0d3621f569be91f577ca69cf3186&v=4",
+    "location": "Nicosia",
+    "company": "Cablenet Communication Systems PLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2021-10-26T07:18:21Z"
+  },
+  {
+    "login": "carlw0194",
+    "name": "Carlton Njong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96522018?s=72&u=0614d88f7c01886d7b594bad83809d6092745373&v=4",
+    "location": "Nicosia",
+    "company": "Upwork",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2021-12-22T09:15:01Z"
+  },
+  {
+    "login": "mikepanayides",
+    "name": "Michalis Panayides",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90676384?s=72&u=382bb3ef49bf1a30adf1acdd0d3b67f8b68c5081&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "mikeblaugrana",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-14T06:28:50Z"
+  },
+  {
+    "login": "Ste-ste97",
+    "name": "Stelios Chrysostomou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81364125?s=72&u=10ae9f60780f333b83769f46e0d5c22a519604d4&v=4",
+    "location": "Nicosia",
+    "company": "@ASDETECH-LTD ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2021-03-25T11:50:25Z"
   }
 ]

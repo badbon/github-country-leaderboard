@@ -12283,7 +12283,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 612,
+    "privateContributions": 618,
     "publicContributions": 56,
     "createdAt": "2023-11-25T11:18:41Z"
   },
@@ -16003,7 +16003,7 @@
     "company": "@sallaapp",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 707,
+    "privateContributions": 709,
     "publicContributions": 0,
     "createdAt": "2023-10-15T09:49:25Z"
   },
@@ -16376,7 +16376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 141,
     "createdAt": "2023-11-25T05:25:29Z"
   },
   {
@@ -17866,5 +17866,29 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2019-06-24T00:39:31Z"
+  },
+  {
+    "login": "nour-daia",
+    "name": "Eng.Nour Abudaia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132521222?s=72&u=a146b0ba5f2eb00eb3b05bcc981a8a1ad5bf76aa&v=4",
+    "location": " Saudi Arabia",
+    "company": "technology92",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2023-05-03T22:39:20Z"
+  },
+  {
+    "login": "saleh-1425",
+    "name": "Saleh Almohaimeed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133821136?s=72&u=0277c692e4266c6aaec916480a9878644d5804d9&v=4",
+    "location": "Saudi arabia",
+    "company": "None",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2023-05-16T22:15:59Z"
   }
 ]
