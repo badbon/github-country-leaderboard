@@ -17326,5 +17326,89 @@
     "privateContributions": 0,
     "publicContributions": 106,
     "createdAt": "2023-09-13T13:22:51Z"
+  },
+  {
+    "login": "hassanekara",
+    "name": "Nouradine Hassane Kara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125516653?s=72&u=9f68e34d5594a275213c5908c078c1988a90a95c&v=4",
+    "location": "Kigali",
+    "company": "student",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2023-02-15T23:07:28Z"
+  },
+  {
+    "login": "OdileMas",
+    "name": "MASENGESHO Odile",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145187262?s=72&u=ed3b30c89162845e0cd75b7f49f0415ba0ceeab9&v=4",
+    "location": "KIGALI",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 76,
+    "createdAt": "2023-09-16T07:06:42Z"
+  },
+  {
+    "login": "b-fame",
+    "name": "Blaise Fame",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122872948?s=72&u=0c1f090f2282bba3594b86986527a9193d644b5a&v=4",
+    "location": "kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2023-01-17T09:55:37Z"
+  },
+  {
+    "login": "rwabjon",
+    "name": "Rwabuhihi John",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122987811?s=72&u=e62f72498ce233c13147c999964bbfe3b87d19d9&v=4",
+    "location": "Kigali",
+    "company": "RBC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-18T13:17:42Z"
+  },
+  {
+    "login": "csrlimited-honorine",
+    "name": "Honorine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122430137?s=72&v=4",
+    "location": "Kigali",
+    "company": "CSR Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-11T06:31:52Z"
+  },
+  {
+    "login": "Thejohn1",
+    "name": "JB",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124289905?s=72&v=4",
+    "location": "KIGALI",
+    "company": "APEWO COPOORATION LTD",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2023-02-02T16:54:37Z"
+  },
+  {
+    "login": "patricknambajimana",
+    "name": "Patrick Nambajimana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142906982?s=72&u=99f7771290c1cdd6f8572272eccd181289f3cd73&v=4",
+    "location": "kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 105,
+    "publicContributions": 340,
+    "createdAt": "2023-08-22T13:21:10Z"
   }
 ]

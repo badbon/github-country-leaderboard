@@ -166,5 +166,65 @@
     "privateContributions": 0,
     "publicContributions": 77,
     "createdAt": "2022-12-18T12:47:11Z"
+  },
+  {
+    "login": "ahbit",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88864818?s=72&u=0da8040dca436946465ba72ce39deb30876cb4e9&v=4",
+    "location": "Jersey",
+    "company": "AH Solutions, Creative Capital",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 37,
+    "publicContributions": 0,
+    "createdAt": "2021-08-13T00:50:26Z"
+  },
+  {
+    "login": "hydrojava",
+    "name": "blade.jsy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76914777?s=72&u=97ad090f33948062adbc6d66ca7f169b630376ce&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2021-01-03T17:18:02Z"
+  },
+  {
+    "login": "gnathoi",
+    "name": "Nathaniel Hey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92539658?s=72&u=d3f0f3f6305b3f80df5adcf8a3ea7ce8a7f91faf&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 2742,
+    "publicContributions": 221,
+    "createdAt": "2021-10-14T16:43:12Z"
+  },
+  {
+    "login": "Lee-Carre",
+    "name": "Lee Carré",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83581502?s=72&u=d9774f225c45da19728a4b11bcded49b71ca1dc3&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-05-03T09:56:06Z"
+  },
+  {
+    "login": "YezikTech",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86253078?s=72&u=9159400170457b4f012adc52668fd8455ad480b7&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "Yezik Tech",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-06-21T16:49:10Z"
   }
 ]

@@ -25918,5 +25918,65 @@
     "privateContributions": 0,
     "publicContributions": 97,
     "createdAt": "2025-01-30T04:38:16Z"
+  },
+  {
+    "login": "llihku",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87013040?s=72&v=4",
+    "location": "Hong Kong S.A.R, China",
+    "company": "The University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-06T10:06:11Z"
+  },
+  {
+    "login": "SocialGoodAI",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87483571?s=72&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "The Chinese University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-15T13:27:08Z"
+  },
+  {
+    "login": "songlkkevin",
+    "name": "Linkai Song",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95568893?s=72&u=cce08de11a30c94a49712e06dc5a8611ea1c29cd&v=4",
+    "location": "Clear Water Bay, Hong Kong SAR, China",
+    "company": "HKUST",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 60,
+    "createdAt": "2021-12-05T10:45:45Z"
+  },
+  {
+    "login": "TT2TER",
+    "name": "马煜",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93923763?s=72&u=f9b7e8eae27216b90ae4721df00025c5aa65b4fc&v=4",
+    "location": "Beijing & Hong Kong",
+    "company": "Beijing institute of technology",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 358,
+    "publicContributions": 123,
+    "createdAt": "2021-11-08T13:13:46Z"
+  },
+  {
+    "login": "Jonathan-UCAS",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87011686?s=72&u=ab375d534ea16919631e4463e87093ad9df3693a&v=4",
+    "location": "Beijing & Hong Kong SAR",
+    "company": "Tsinghua University & UCAS",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-06T09:37:06Z"
   }
 ]

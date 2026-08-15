@@ -30382,5 +30382,29 @@
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2025-03-31T08:57:02Z"
+  },
+  {
+    "login": "johanricher",
+    "name": "Johan Richer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10212787?s=72&u=34d6a5d294389c3c04944144bbe7458be0b5095b&v=4",
+    "location": "Saint-Denis, France",
+    "company": "@multi-coop @codeforfr",
+    "twitterUsername": "",
+    "followers": 72,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2014-12-16T19:59:47Z"
+  },
+  {
+    "login": "cmantoux",
+    "name": "Clément Mantoux",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6652330?s=72&v=4",
+    "location": "Saint-Denis, France",
+    "company": "SNCF Réseau",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-02-11T16:35:27Z"
   }
 ]

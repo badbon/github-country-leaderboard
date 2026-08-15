@@ -8470,5 +8470,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-02T15:42:23Z"
+  },
+  {
+    "login": "AlexBraguta",
+    "name": "Alex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62892991?s=72&u=f18aec0dc935b26ef6e938441677b6c0b7981d45&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 324,
+    "publicContributions": 57,
+    "createdAt": "2020-03-30T14:26:33Z"
+  },
+  {
+    "login": "exzploit",
+    "name": "Daniel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67736306?s=72&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2020-07-02T09:27:50Z"
+  },
+  {
+    "login": "dmytro-selikhov",
+    "name": "Dmytro Selikhov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65445291?s=72&u=23bf78d8681940ad66ffb904e329dcadad082fa4&v=4",
+    "location": "Chișinău",
+    "company": "Mascot Gaming",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 421,
+    "createdAt": "2020-05-16T09:37:03Z"
+  },
+  {
+    "login": "pomedorkaaa",
+    "name": "Știrbu Egor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70410186?s=72&u=f1dbf893f134e482ba8cd165ab93fe9276ecea7a&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 188,
+    "createdAt": "2020-08-28T19:48:28Z"
+  },
+  {
+    "login": "kurnatovskii",
+    "name": "Alexander",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61278610?s=72&u=a35de9ab84fbfaa67f1425f9098cc31a58573022&v=4",
+    "location": "Chișinău, Moldovva",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-02-20T12:44:28Z"
+  },
+  {
+    "login": "Annnia20",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70884732?s=72&u=aa8876757bec665a1ca36d017e51fba09a7004f3&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-07T08:07:35Z"
+  },
+  {
+    "login": "gojokun21",
+    "name": "Gojo-kun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71135719?s=72&u=e60c6b6b4ae61ba6ccc3d8964f4f321b7d688f38&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 198,
+    "createdAt": "2020-09-11T13:16:40Z"
+  },
+  {
+    "login": "Becushor",
+    "name": "Guțu Nicolae",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67149740?s=72&u=ce6fccada353f75587439e91b658509731c7c1cd&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-19T11:11:56Z"
+  },
+  {
+    "login": "2000-ion",
+    "name": "Pinzari Ion",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70914322?s=72&u=aaadec3d9e8ba9fa7867540cc87b7ec9fee7b0c1&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-07T18:31:39Z"
   }
 ]

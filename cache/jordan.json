@@ -14839,7 +14839,7 @@
     "company": "RightNow AI",
     "twitterUsername": "Akashi203",
     "followers": 441,
-    "privateContributions": 17836,
+    "privateContributions": 17863,
     "publicContributions": 991,
     "createdAt": "2022-04-15T11:51:57Z"
   },
@@ -14850,7 +14850,7 @@
     "location": "Amman, Jordan",
     "company": "@jordanopensource",
     "twitterUsername": "",
-    "followers": 260,
+    "followers": 268,
     "privateContributions": 183,
     "publicContributions": 42,
     "createdAt": "2022-08-02T22:25:17Z"
@@ -14864,7 +14864,7 @@
     "twitterUsername": "abdalazizzinati",
     "followers": 135,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 14,
     "createdAt": "2022-02-07T14:25:15Z"
   },
   {
@@ -14910,7 +14910,7 @@
     "location": "Amman Jordan",
     "company": "@BDALL-Innovation",
     "twitterUsername": "",
-    "followers": 97,
+    "followers": 106,
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2022-10-10T11:06:35Z"
@@ -16375,7 +16375,7 @@
     "company": "GCE",
     "twitterUsername": "KhaledAmeerr",
     "followers": 7,
-    "privateContributions": 2207,
+    "privateContributions": 2209,
     "publicContributions": 39,
     "createdAt": "2022-03-05T14:01:50Z"
   },
@@ -19738,5 +19738,173 @@
     "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2022-02-06T15:44:28Z"
+  },
+  {
+    "login": "Basil-Ismail",
+    "name": "Basil Ismail",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107148738?s=72&u=adb5430f1c36e632909149c7b0ed747635f0ccb0&v=4",
+    "location": "Amman",
+    "company": "42 Amman",
+    "twitterUsername": "",
+    "followers": 42,
+    "privateContributions": 3,
+    "publicContributions": 78,
+    "createdAt": "2022-06-08T19:38:42Z"
+  },
+  {
+    "login": "farouqshaheen",
+    "name": "Farouq Shaheen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108865313?s=72&u=54577752933939638a06d748bf98568729a9474f&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 400,
+    "publicContributions": 73,
+    "createdAt": "2022-07-07T08:34:46Z"
+  },
+  {
+    "login": "mohammadalfayoume",
+    "name": "Mohammad Alfayoume",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109729591?s=72&u=4ad42ad01566db79a37af74c62cedcbba6129c40&v=4",
+    "location": "Amman",
+    "company": "@LENSEC",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 16,
+    "publicContributions": 35,
+    "createdAt": "2022-07-21T09:15:38Z"
+  },
+  {
+    "login": "J-Othman",
+    "name": "Jamal Alothman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115840272?s=72&v=4",
+    "location": "Amman",
+    "company": "Amman Arab University",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-10-14T20:49:19Z"
+  },
+  {
+    "login": "engTasneemmaq",
+    "name": "Tasneem maqableh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103468147?s=72&u=23d2ab4ab0143588b0aee35945e4406eabbcbd1e&v=4",
+    "location": "amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-04-12T00:01:07Z"
+  },
+  {
+    "login": "RemasR",
+    "name": "Remas Mehyar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107197085?s=72&u=dd160cc3e6fc17a874fa65a972e9159b1194fc8e&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 216,
+    "publicContributions": 128,
+    "createdAt": "2022-06-09T13:53:12Z"
+  },
+  {
+    "login": "abdarahman-shaheen",
+    "name": "Abdelrahman Shaheen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119670933?s=72&u=56ea25116c6a60f97aacc00d82f1c1439314d0b4&v=4",
+    "location": "Amman",
+    "company": "Full Stack Developer (.NET-Angular)",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2022-12-02T11:36:48Z"
+  },
+  {
+    "login": "handomeh03",
+    "name": "jameel.jalal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121124177?s=72&u=d7e8298f4b8c84ae0e9918860535129de8826ad0&v=4",
+    "location": "amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 549,
+    "createdAt": "2022-12-20T17:51:36Z"
+  },
+  {
+    "login": "shahed-shaher",
+    "name": "shahed_shaher123",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102873895?s=72&u=72d448093422b05ea4251485c2d37d7a573c31d3&v=4",
+    "location": "amman",
+    "company": "App Trainner",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-02T17:35:29Z"
+  },
+  {
+    "login": "idreesalmasri",
+    "name": "idrees almasri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97670921?s=72&u=332db93423c796f2c4489166fef1c596a369af1c&v=4",
+    "location": "Amman",
+    "company": "LTUC",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-01-13T10:51:58Z"
+  },
+  {
+    "login": "Albaraanajjar",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103533931?s=72&u=96481a48d0557d62873a06d7593ee113daca52ec&v=4",
+    "location": "Amman",
+    "company": "Advanced Vision Co.",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2022-04-12T19:39:13Z"
+  },
+  {
+    "login": "HebaAlhamaydh",
+    "name": "Heba Hamaydh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103362136?s=72&u=1aefe5645efeeee9fea257b831a40b6920530ace&v=4",
+    "location": "amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-10T10:29:37Z"
+  },
+  {
+    "login": "Ashar121299",
+    "name": "Ashar nayef mohammad almomani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109731916?s=72&u=0562a3d928978c3d3cb46805cfda61cec940809d&v=4",
+    "location": "Amman _Jordan ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-21T09:58:39Z"
+  },
+  {
+    "login": "aboodothman",
+    "name": "abdAlRhamn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102911107?s=72&u=51fa8b045367022636d6f709ba6e3bdc358003e5&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-04-03T13:59:11Z"
   }
 ]

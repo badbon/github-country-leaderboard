@@ -8842,5 +8842,89 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2014-02-27T09:52:31Z"
+  },
+  {
+    "login": "micleclickme",
+    "name": "Michael Danuschenkov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7793751?s=72&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2014-06-04T12:37:21Z"
+  },
+  {
+    "login": "slavenmikulic",
+    "name": "Slaven Mikulic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7483099?s=72&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-04T22:18:39Z"
+  },
+  {
+    "login": "mikivujkovic",
+    "name": "Miodrag Vujkovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6741582?s=72&u=658822de38f0e312f74b9edb4e656aae7445046c&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2014-02-20T20:27:53Z"
+  },
+  {
+    "login": "kevlaaar",
+    "name": "Vuk Vukčević",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6500509?s=72&u=b6aaf1a6447841b1c7c8b70949185e3333a4b8f5&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2014-01-25T14:59:47Z"
+  },
+  {
+    "login": "earphan",
+    "name": "Irfan Beganovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7655536?s=72&u=364f6b09e332fe85e00415677345572424a2fc02&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-21T08:19:21Z"
+  },
+  {
+    "login": "vladucoju",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9590909?s=72&u=11586aa83391efe1be1a8e6a5ca40f3d0fb2f8c5&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-06T13:14:16Z"
+  },
+  {
+    "login": "roma6125",
+    "name": "Nikita Romanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10113954?s=72&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2014-12-08T08:59:09Z"
   }
 ]

@@ -3094,5 +3094,65 @@
     "privateContributions": 55,
     "publicContributions": 0,
     "createdAt": "2021-06-27T20:17:48Z"
+  },
+  {
+    "login": "pacman2108",
+    "name": "Pac.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83197609?s=72&u=b382df42605235a4041a95bd9473e8055e4560eb&v=4",
+    "location": "Reykjavik",
+    "company": "@Fluent-Modded-Spotify",
+    "twitterUsername": "",
+    "followers": 51,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2021-04-26T03:22:58Z"
+  },
+  {
+    "login": "patrick-weiss",
+    "name": "Patrick Weiss",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87195638?s=72&u=98e2f4efd92b194b042560ea3dbbf4da13d81090&v=4",
+    "location": "Reykjavik",
+    "company": "Reykjavik University",
+    "twitterUsername": "PatrickWeiss",
+    "followers": 41,
+    "privateContributions": 0,
+    "publicContributions": 189,
+    "createdAt": "2021-07-09T14:55:53Z"
+  },
+  {
+    "login": "Noemie-BL",
+    "name": "Noémie Boulanger-Lapointe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78905636?s=72&u=cd947fb0fa406847f013f954bf2fce8ae012dc26&v=4",
+    "location": "Reykjavik",
+    "company": "University of Iceland",
+    "twitterUsername": "NoemieBLap",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-11T10:09:20Z"
+  },
+  {
+    "login": "jrajakone",
+    "name": "Justin Rajakone",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89641916?s=72&u=6f87205b802515c0cef81345570518902354ef01&v=4",
+    "location": "Reykjavik",
+    "company": "FHNW Campus Brugg-Windisch",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-27T11:46:32Z"
+  },
+  {
+    "login": "andriy21p",
+    "name": "Andriy Fedorets",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89972173?s=72&u=2ff15e0608c9bf23273857cc051d860faa92ea9b&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-02T09:10:03Z"
   }
 ]

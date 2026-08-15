@@ -10328,7 +10328,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 479,
+    "publicContributions": 480,
     "createdAt": "2024-12-22T03:15:01Z"
   },
   {
@@ -10399,7 +10399,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 222,
+    "privateContributions": 223,
     "publicContributions": 111,
     "createdAt": "2024-11-16T12:09:02Z"
   },
@@ -10603,7 +10603,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3760,
+    "privateContributions": 3763,
     "publicContributions": 846,
     "createdAt": "2024-11-30T18:27:48Z"
   },
@@ -10952,7 +10952,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2220,
+    "publicContributions": 2227,
     "createdAt": "2024-10-21T08:26:42Z"
   },
   {
@@ -17614,5 +17614,65 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2020-09-09T01:24:39Z"
+  },
+  {
+    "login": "wandisusanto",
+    "name": "Wandi Susanto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168697681?s=72&u=5bb9e5fe12cc420e8c38ecc0ea4711b221235a2a&v=4",
+    "location": "Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 264,
+    "publicContributions": 0,
+    "createdAt": "2024-05-02T02:35:31Z"
+  },
+  {
+    "login": "lelelelelelelelelelelelele",
+    "name": "Liu Chengyu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169245075?s=72&v=4",
+    "location": "Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 328,
+    "createdAt": "2024-05-08T08:25:57Z"
+  },
+  {
+    "login": "AsJayTee",
+    "name": "Siah Jin Thau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171477522?s=72&u=26d53a3e9057b0f859a97fecb971ff30b81001ea&v=4",
+    "location": "Singapore",
+    "company": "NUS",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 694,
+    "publicContributions": 155,
+    "createdAt": "2024-06-02T08:27:12Z"
+  },
+  {
+    "login": "JackHuynh1132",
+    "name": "Nguyen Cuong Thinh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172369578?s=72&v=4",
+    "location": "Singapore, Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 59,
+    "createdAt": "2024-06-11T08:09:24Z"
+  },
+  {
+    "login": "justin-theodorus",
+    "name": "Justin Stevenson Theodorus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174397941?s=72&u=4967dbc523bec417fb3b818e47b5c6754dc215d8&v=4",
+    "location": "Singapore",
+    "company": "National University of SIngapore",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 176,
+    "publicContributions": 1026,
+    "createdAt": "2024-07-02T01:51:19Z"
   }
 ]
