@@ -12584,7 +12584,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 1274,
+    "publicContributions": 1290,
     "createdAt": "2017-12-29T00:54:47Z"
   },
   {
@@ -13786,5 +13786,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-03-04T15:35:36Z"
+  },
+  {
+    "login": "biagiola",
+    "name": "David Biagiola",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41311088?s=72&u=09464ed3687b9b58516989bd334484ca4a758f84&v=4",
+    "location": "Asunción",
+    "company": "Paraguay",
+    "twitterUsername": "",
+    "followers": 590,
+    "privateContributions": 91,
+    "publicContributions": 214,
+    "createdAt": "2018-07-17T00:42:07Z"
+  },
+  {
+    "login": "pabloag3",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36564545?s=72&u=b02fc6a8e355551c31d4828b6710364794c57038&v=4",
+    "location": "Asunción, PY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-17T11:48:08Z"
+  },
+  {
+    "login": "JoseFerreira21",
+    "name": "José Ferreira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36089415?s=72&u=b00d6b6e31d71cd0cc472c209486d222c254c0e8&v=4",
+    "location": "Asunción",
+    "company": "Avatar Informática",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-02T22:28:42Z"
+  },
+  {
+    "login": "josemagoo",
+    "name": "Jose Enrique Flores",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43687453?s=72&u=c00c5a38189efc8ef04be52838efc1ad48e10eed&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-09-28T22:08:11Z"
+  },
+  {
+    "login": "Alfredo-Sanchez",
+    "name": "Alfredo Sánchez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39843933?s=72&u=1394d3cdbd82a762939a323d0a2e4212bc33b08c&v=4",
+    "location": "Asunción",
+    "company": "Cofudep Ltda",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2018-06-01T23:09:44Z"
   }
 ]

@@ -2170,5 +2170,65 @@
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2009-11-07T06:52:17Z"
+  },
+  {
+    "login": "tylerwhall",
+    "name": "Tyler Hall",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147565?s=72&u=d3e1c2674347da70021c7da50599c4880545af27&v=4",
+    "location": "Georgetown, KY",
+    "company": "Lexmark",
+    "twitterUsername": "",
+    "followers": 49,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-11-02T03:18:25Z"
+  },
+  {
+    "login": "FusionOpz",
+    "name": "Matthew Sporich",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65838?s=72&v=4",
+    "location": "Georgetown, ON, CA",
+    "company": "Renegade Studios",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 198,
+    "publicContributions": 2,
+    "createdAt": "2009-03-22T20:23:42Z"
+  },
+  {
+    "login": "CraigThatcher",
+    "name": "Craig Thatcher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43524?s=72&u=a558f80d970c4785787e4a03febbf9c6a7135b53&v=4",
+    "location": "georgetown, KY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-12-31T16:12:57Z"
+  },
+  {
+    "login": "rjvaleo",
+    "name": "transelectronic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122841?s=72&u=6037c8105ddaa2160c3a582a11a671e7a3380cd8&v=4",
+    "location": "Georgetown, Colorado",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 240,
+    "createdAt": "2009-09-03T13:40:00Z"
+  },
+  {
+    "login": "glennburnside",
+    "name": "Glenn G. Burnside III",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134629?s=72&v=4",
+    "location": "Georgetown, Tx",
+    "company": "glennburnside.com",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-10-03T18:03:01Z"
   }
 ]

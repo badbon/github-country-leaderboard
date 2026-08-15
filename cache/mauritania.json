@@ -3334,5 +3334,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-08-28T08:15:37Z"
+  },
+  {
+    "login": "sidielmoctar",
+    "name": "Abderrahman CHEIKH AHMEDOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8353520?s=72&u=5fc29950a6243b5f893cef2744eae5743a14d9df&v=4",
+    "location": "Mauritania/ Nouakchott",
+    "company": "GTI",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2014-08-04T16:00:40Z"
+  },
+  {
+    "login": "drBenanyMM",
+    "name": "Dr. EL BENANY Mohamed Mahmoud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9400070?s=72&u=3b5a39e472d6350353aa8fc52f342caed941a30f&v=4",
+    "location": "Noukchott, Mauritania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2014-10-26T02:26:43Z"
+  },
+  {
+    "login": "mahfoudml",
+    "name": "Mohd Mahfoud Karim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7448449?s=72&v=4",
+    "location": "Nouakchott, Mauritania",
+    "company": "chinguitel S.A.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-30T09:54:22Z"
+  },
+  {
+    "login": "Mohamedrabi",
+    "name": "Mohamed Rabi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6840839?s=72&v=4",
+    "location": "Mauritania",
+    "company": "Espace GED",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-03T15:05:23Z"
   }
 ]

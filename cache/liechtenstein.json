@@ -1186,5 +1186,77 @@
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2014-01-15T08:26:46Z"
+  },
+  {
+    "login": "masteradhoc",
+    "name": "Brian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6242098?s=72&u=7b1936c14799a2f71aae1127462bb22667b44f8d&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "mrbrianhaas",
+    "followers": 28,
+    "privateContributions": 57,
+    "publicContributions": 528,
+    "createdAt": "2013-12-22T16:32:01Z"
+  },
+  {
+    "login": "ColinFrick",
+    "name": "Colin Frick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5517677?s=72&u=778d80daf28b7dcb393cf394600e2caec9db7255&v=4",
+    "location": "Liechtenstein",
+    "company": "SONDERFORMAT LLC",
+    "twitterUsername": "ColinFrick",
+    "followers": 21,
+    "privateContributions": 1254,
+    "publicContributions": 26,
+    "createdAt": "2013-09-23T09:39:51Z"
+  },
+  {
+    "login": "secures92",
+    "name": "Samuel Kranz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5305542?s=72&u=8175708c9300121ad51bdf7237860b6b7c0ba7a5&v=4",
+    "location": "Liechtenstein",
+    "company": "Eastern Switzerland University of Applied Sciences",
+    "twitterUsername": "secures92",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 47,
+    "createdAt": "2013-08-25T10:52:36Z"
+  },
+  {
+    "login": "ernho",
+    "name": "Ernad Hodzic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4853679?s=72&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-27T17:16:03Z"
+  },
+  {
+    "login": "Lomsor",
+    "name": "Alexander Gstöhl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3161887?s=72&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-01T04:05:43Z"
+  },
+  {
+    "login": "Olivier9493",
+    "name": "Olivier Becker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5895314?s=72&u=a7dba7898d677ff801c1f4320241668ad0aa5f61&v=4",
+    "location": "Mauren / Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-09T11:11:36Z"
   }
 ]

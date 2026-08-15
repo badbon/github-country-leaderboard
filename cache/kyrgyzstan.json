@@ -19894,5 +19894,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-01T12:03:00Z"
+  },
+  {
+    "login": "talgar",
+    "name": "Talgar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70150480?s=72&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-24T14:03:07Z"
+  },
+  {
+    "login": "sadowfiend",
+    "name": "Aziz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72301039?s=72&u=51eaf06c6b154a906d08e53e4c931fdd1280df52&v=4",
+    "location": "Bishkek",
+    "company": "Fortylines IO",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-10-03T10:24:06Z"
+  },
+  {
+    "login": "GGPeccatum",
+    "name": "Vladislav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59838076?s=72&u=724df1626c10bbacb50f082bf58922523cc6e2bc&v=4",
+    "location": "Bishkek",
+    "company": "TrixCode",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-13T16:09:14Z"
+  },
+  {
+    "login": "insensys",
+    "name": "Samat Dardiev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72213822?s=72&u=30068e4e3896e41f16246e667f2562c6a760a801&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2020-10-01T15:05:50Z"
+  },
+  {
+    "login": "rustam-baktybek",
+    "name": "Rustam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72178523?s=72&u=a459391b68ecd04f97fb6649ebb6ef6f87804cd3&v=4",
+    "location": "Bishkek",
+    "company": "Pricer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-01T02:41:37Z"
+  },
+  {
+    "login": "geomer198",
+    "name": "Maksim Shurupov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62835086?s=72&u=dd821575abf1902ff3b0c2aa7c81fc881e7c36cf&v=4",
+    "location": "Bishkek",
+    "company": "XXP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 118,
+    "createdAt": "2020-03-29T10:50:39Z"
+  },
+  {
+    "login": "Salmurzaev",
+    "name": "Dastan Salmurzaev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70532249?s=72&u=11ff340e71af2b029c757db74ab6ad0467ae8a78&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 158,
+    "publicContributions": 0,
+    "createdAt": "2020-08-31T15:57:42Z"
   }
 ]

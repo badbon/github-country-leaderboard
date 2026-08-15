@@ -2494,5 +2494,53 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2010-08-30T20:12:23Z"
+  },
+  {
+    "login": "stenson",
+    "name": "Rob Stenson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89770?s=72&u=e74fce963074d4dbaed18144322c2b7c8d2d12b9&v=4",
+    "location": "Monrovia, CA",
+    "company": "@goodhertz ",
+    "twitterUsername": "robstenson",
+    "followers": 129,
+    "privateContributions": 710,
+    "publicContributions": 167,
+    "createdAt": "2009-05-29T03:25:11Z"
+  },
+  {
+    "login": "priceflex",
+    "name": "Steven Price",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87045?s=72&u=cfbf0682ee369495164ae0326c97550c47c4f766&v=4",
+    "location": "Monrovia, CA",
+    "company": "Tech Rockstars",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 1310,
+    "createdAt": "2009-05-21T07:16:06Z"
+  },
+  {
+    "login": "cporter",
+    "name": "Corey Porter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45442?s=72&v=4",
+    "location": "Monrovia, Calif.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 59,
+    "createdAt": "2009-01-09T23:06:35Z"
+  },
+  {
+    "login": "gagix",
+    "name": "Gautam Godse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67259?s=72&u=38b1a781334006aab79430047f03c0e53430e62e&v=4",
+    "location": "Monrovia, CA",
+    "company": "",
+    "twitterUsername": "gautamgodse",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-03-25T23:50:16Z"
   }
 ]

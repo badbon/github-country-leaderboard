@@ -334,5 +334,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-05-02T15:37:32Z"
+  },
+  {
+    "login": "Llandy3d",
+    "name": "Llandy Riveron Del Risco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16627175?s=72&u=730ce17c03aff41feaa902a06dceac7b4c40a8d4&v=4",
+    "location": "San Marino",
+    "company": "@grafana",
+    "twitterUsername": "llandy3d",
+    "followers": 17,
+    "privateContributions": 219,
+    "publicContributions": 107,
+    "createdAt": "2016-01-09T20:16:06Z"
+  },
+  {
+    "login": "v1rx",
+    "name": "v1r",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19215260?s=72&u=abd2836faabe04aee25456fb1629328f4684d10b&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2016-05-05T23:22:15Z"
+  },
+  {
+    "login": "Wentianlong",
+    "name": "Erma O'Conner",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19715856?s=72&v=4",
+    "location": "505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino",
+    "company": "Buckridge, Kautzer and Flatley",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-02T18:25:00Z"
+  },
+  {
+    "login": "tomwhoooo",
+    "name": "Tom Hu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23285765?s=72&u=bb188b3c8cc1e38e747f6bb08cc47357169e5a0f&v=4",
+    "location": "San Marino, California",
+    "company": "UC Berkeley",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 2056,
+    "publicContributions": 0,
+    "createdAt": "2016-11-05T23:37:22Z"
+  },
+  {
+    "login": "GBerardi",
+    "name": "Gianluca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24650716?s=72&v=4",
+    "location": "Milan / San Marino",
+    "company": "",
+    "twitterUsername": "GlucaBerardi",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2016-12-19T11:01:49Z"
+  },
+  {
+    "login": "AldoJuniorSimoncini",
+    "name": "Aldo Junior Simoncini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17861781?s=72&v=4",
+    "location": "San Marino",
+    "company": "letvar srl",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-15T21:27:09Z"
+  },
+  {
+    "login": "thu105",
+    "name": "Hein Moe Thu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21339527?s=72&v=4",
+    "location": "San Marino, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 716,
+    "publicContributions": 0,
+    "createdAt": "2016-08-30T14:26:20Z"
+  },
+  {
+    "login": "maxmonterumisi",
+    "name": "Max Monterumisi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19281332?s=72&u=a5d210c07ba4b35f9bd3dcdbcd0b319dea2908a7&v=4",
+    "location": "San Marino",
+    "company": "Passepartout s.p.a.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-05-10T07:40:52Z"
+  },
+  {
+    "login": "informatyca",
+    "name": "Samuele Pinzi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19330201?s=72&u=17cf6fd43ca2b572ec0f2c11e4e1ecf7779a0eb4&v=4",
+    "location": "Falciano, San Marino",
+    "company": "Informatyca s.r.l.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-12T15:35:12Z"
   }
 ]

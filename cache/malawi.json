@@ -10762,5 +10762,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-09-15T06:18:18Z"
+  },
+  {
+    "login": "ceekays",
+    "name": "Edmond Kachale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71360?s=72&v=4",
+    "location": "Blantyre, Malawi",
+    "company": "Telekom Networks Malawi",
+    "twitterUsername": "",
+    "followers": 52,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-04-07T13:15:09Z"
+  },
+  {
+    "login": "kondwa",
+    "name": "Kondwani Hara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70993?s=72&v=4",
+    "location": "Blantyre, Malawi",
+    "company": "MileSoft",
+    "twitterUsername": "kondwa",
+    "followers": 18,
+    "privateContributions": 384,
+    "publicContributions": 15,
+    "createdAt": "2009-04-06T13:44:48Z"
   }
 ]
