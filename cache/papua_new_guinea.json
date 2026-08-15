@@ -3454,5 +3454,29 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2014-12-10T08:43:29Z"
+  },
+  {
+    "login": "mnablu",
+    "name": "Marc ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8381404?s=72&u=fb31848ba22800f30b99ed5eaddd0080458cdf8b&v=4",
+    "location": "Port Moresby",
+    "company": "Binary Tech",
+    "twitterUsername": "mnablu",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-07T05:16:50Z"
+  },
+  {
+    "login": "Winifred-Kula",
+    "name": "Winifred Kula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6832332?s=72&u=41cde08b35d3efc6c673a52e6343106af426df8a&v=4",
+    "location": "Port Moresby",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-02T17:12:52Z"
   }
 ]

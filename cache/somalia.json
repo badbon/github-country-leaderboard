@@ -9250,5 +9250,29 @@
     "privateContributions": 0,
     "publicContributions": 158,
     "createdAt": "2019-10-29T11:27:45Z"
+  },
+  {
+    "login": "mabdimalik",
+    "name": "Mohamed Abdimalik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47428272?s=72&u=3afadc18c0b91d0e415293f6db5e802870542225&v=4",
+    "location": "Mogadishu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2019-02-07T17:33:54Z"
+  },
+  {
+    "login": "Gutaale",
+    "name": "Mohamed Hassan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58130528?s=72&u=6301a4c85b9fdd975b2b42970ff6f7570015ebc3&v=4",
+    "location": "Mogadishu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2019-11-24T06:44:26Z"
   }
 ]

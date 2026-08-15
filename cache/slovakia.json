@@ -23530,5 +23530,41 @@
     "privateContributions": 0,
     "publicContributions": 724,
     "createdAt": "2019-06-25T22:12:56Z"
+  },
+  {
+    "login": "xmajzel",
+    "name": "Jozef Majzel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43440486?s=72&u=591d3248be915516be3341b8a6abb6c960f9dffb&v=4",
+    "location": "Bratislava, Slovak Republic",
+    "company": "@uxtweak ",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 1393,
+    "publicContributions": 16,
+    "createdAt": "2018-09-20T11:20:19Z"
+  },
+  {
+    "login": "DaDlugosch",
+    "name": "Damian Dlugosch",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39583615?s=72&u=feee23ce453b8ca59eef10de23e3cf0c2a9b3318&v=4",
+    "location": "Slovak Republic",
+    "company": "",
+    "twitterUsername": "dadlugosch",
+    "followers": 1,
+    "privateContributions": 435,
+    "publicContributions": 0,
+    "createdAt": "2018-05-24T07:55:03Z"
+  },
+  {
+    "login": "vladimirjendrol",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45920865?s=72&v=4",
+    "location": "Košice, Slovak republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-16T17:30:29Z"
   }
 ]

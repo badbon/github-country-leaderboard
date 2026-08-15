@@ -23446,5 +23446,53 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2021-12-30T12:27:12Z"
+  },
+  {
+    "login": "Nzacyp",
+    "name": "cyprien nzabahimana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97619114?s=72&u=d42d83d4dfe7e59405ac3e8f0270aaafaa533206&v=4",
+    "location": "Kigali",
+    "company": "Meditechrwa",
+    "twitterUsername": "Cyprien",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-12T16:13:52Z"
+  },
+  {
+    "login": "Ntihana",
+    "name": "ERIC NTIHANABAYO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99913617?s=72&u=af017aa54bc5d902c52cbda21725b19b3bce19ab&v=4",
+    "location": "Kigali",
+    "company": "Frmscoe ",
+    "twitterUsername": "ericntihanabayo",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-17T19:21:04Z"
+  },
+  {
+    "login": "thepatient99",
+    "name": "Patient",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98666038?s=72&u=638c881a4ecb06b04cef1faf30f226f7fffe57ce&v=4",
+    "location": "kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-29T20:05:36Z"
+  },
+  {
+    "login": "vivanceA",
+    "name": "Vivance Niyoyavuze",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114446365?s=72&u=c3626e8503399e5e014f8d71a5cc9bb9c4ca9b11&v=4",
+    "location": "Kigali-Kimironko",
+    "company": "African Leadership university",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2022-09-26T21:54:41Z"
   }
 ]

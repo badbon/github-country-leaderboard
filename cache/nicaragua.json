@@ -13330,5 +13330,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-06-30T14:51:10Z"
+  },
+  {
+    "login": "MoisesMG",
+    "name": "Moisés Mena Gonzalez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22357908?s=72&u=90185ffbcb861146747ab25a35afc67984a9e252&v=4",
+    "location": "Managua, Nicargua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-21T23:19:41Z"
+  },
+  {
+    "login": "AJcano09",
+    "name": "acano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21133578?s=72&u=a2e35e52a23d8215258e88d0782100fa599429a0&v=4",
+    "location": "managua",
+    "company": "Profesional Independiente",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 2188,
+    "publicContributions": 146,
+    "createdAt": "2016-08-19T22:32:08Z"
+  },
+  {
+    "login": "mcamacho97",
+    "name": "Mauricio Camacho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22357900?s=72&u=cec7b15dec67b72a35d9ac46b78232781a38c158&v=4",
+    "location": "Managua",
+    "company": "Sistemática Internacional",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2016-09-21T23:19:26Z"
+  },
+  {
+    "login": "VictorRC",
+    "name": "Victor J Rivera C",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17348007?s=72&u=045ee8a530c3931060ffab6bf611897f472720c2&v=4",
+    "location": "Managua",
+    "company": "RS21 Nicaragua",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-20T01:42:54Z"
   }
 ]

@@ -1774,5 +1774,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-12-08T14:31:13Z"
+  },
+  {
+    "login": "Marata459",
+    "name": "Tseliso Isaac Marata",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8051539?s=72&u=e62435c168ebec9899b2547763cb9f9bbc96f831&v=4",
+    "location": "Maseru, Lesotho",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-02T20:03:46Z"
+  },
+  {
+    "login": "setsoto",
+    "name": "Setsoto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7093031?s=72&u=d6fb3976dbd6be1a6dbf37eda2ef242111dc30b6&v=4",
+    "location": "Lesotho",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 123,
+    "publicContributions": 0,
+    "createdAt": "2014-03-28T14:32:30Z"
   }
 ]

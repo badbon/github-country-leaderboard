@@ -5326,5 +5326,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-13T07:06:01Z"
+  },
+  {
+    "login": "tnaffh",
+    "name": "Naftal Timotheus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9331942?s=72&u=4136f049a924a81e838ddd3539b284c697d4cb36&v=4",
+    "location": "Windhoek, Namiabia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 796,
+    "publicContributions": 37,
+    "createdAt": "2014-10-21T06:19:23Z"
+  },
+  {
+    "login": "JustShingapi",
+    "name": "Gabriel Nhinda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8997507?s=72&u=d8e2055079271a790ab24d7dfdde95a96e87f9ff&v=4",
+    "location": "Windhoek",
+    "company": "Namibia University of Science and Technology",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-02T14:10:26Z"
+  },
+  {
+    "login": "dustinwa",
+    "name": "Dustin Washburn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6836013?s=72&u=3b9f7c4e336ed6c72a2ce8bcbeba821adf9fa901&v=4",
+    "location": "Windhoek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-03T04:54:43Z"
+  },
+  {
+    "login": "Tembs",
+    "name": "Tembs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6513239?s=72&u=3f07b8a3e71a7c1fc29aa4a2121efd1749b9fc97&v=4",
+    "location": "Windhoek",
+    "company": "Gostel Technology",
+    "twitterUsername": "kamweshi",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-01-27T10:22:06Z"
   }
 ]

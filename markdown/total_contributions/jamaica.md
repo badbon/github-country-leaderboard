@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-08-15T21:01:01.777Z
+Generated: 2026-08-15T21:28:31.298Z
 
 Users: 1290
 
@@ -11,7 +11,7 @@ Users: 1290
 | 3 | [slocker3](https://github.com/slocker3) | Stephen Locker |  |  | Kingston, WA | 10050 |
 | 4 | [eforth](https://github.com/eforth) | Ervin Forth | Healthcare EQ | ErvinForth | Jamaica | 9359 |
 | 5 | [kenoButler](https://github.com/kenoButler) | KenoB | @Appigo  |  | Kingston, Jamaica | 6980 |
-| 6 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 6612 |
+| 6 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 6626 |
 | 7 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 5685 |
 | 8 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5180 |
 | 9 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 4009 |

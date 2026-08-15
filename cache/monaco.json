@@ -1450,5 +1450,77 @@
     "privateContributions": 0,
     "publicContributions": 223,
     "createdAt": "2015-07-31T08:28:53Z"
+  },
+  {
+    "login": "rodmorley",
+    "name": "Rod M",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6349748?s=72&u=e9026dee054fc96ab8d62648acfac6a78feeebb2&v=4",
+    "location": "Malta & Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2014-01-08T14:02:27Z"
+  },
+  {
+    "login": "Novenine",
+    "name": "NΘVΣ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9090222?s=72&u=ba78e778e4267da947c5ab1ce5005f2598f0fe30&v=4",
+    "location": "Monaco",
+    "company": "TnG",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-08T18:28:03Z"
+  },
+  {
+    "login": "alexmattelon",
+    "name": "Alex Mattelon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10141451?s=72&u=db825782eee040f75e1c337f976b63bd76dfedf6&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-12-10T11:24:17Z"
+  },
+  {
+    "login": "s-canicio",
+    "name": "Canicio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8570574?s=72&u=34bdfafb41de05899117b1b6ec9a9cfe8818c4d6&v=4",
+    "location": "Marseille / Monaco",
+    "company": "Inforca",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-27T16:19:40Z"
+  },
+  {
+    "login": "numericalfreedom",
+    "name": "Dr. Nandor Tamaskovics",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8824619?s=72&v=4",
+    "location": "Monaco / Monte Carlo",
+    "company": "Numericalfreedom.Com",
+    "twitterUsername": "nmrclfrdm",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-18T19:29:40Z"
+  },
+  {
+    "login": "MathieuMansanarez",
+    "name": "Mathieu Mansanarez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6684400?s=72&u=71e1d4f7641696833d6d319d2e8044bf9597d958&v=4",
+    "location": "Monaco",
+    "company": "Monaco Telecom",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-14T17:39:32Z"
   }
 ]

@@ -38470,5 +38470,41 @@
     "privateContributions": 333,
     "publicContributions": 87,
     "createdAt": "2024-03-11T20:44:59Z"
+  },
+  {
+    "login": "alexandregodard",
+    "name": "Alexandre GODARD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9969149?s=72&u=441c79f0d0162ba93df2a372d2e027b1ba918e2e&v=4",
+    "location": "France, Sophia-Antipolis / Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-26T22:49:30Z"
+  },
+  {
+    "login": "MahBadran93",
+    "name": "Mahmoud Badran",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56051864?s=72&u=cbf9122e4495c0e676cf8ba5c752c79c558a869c&v=4",
+    "location": "Le Creusot, France / Tulkarm, Palestine",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-01T22:31:43Z"
+  },
+  {
+    "login": "cotiga",
+    "name": "Serge Ledig",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16390911?s=72&u=1083b168c2d4431b771c443cfcd5606b838b495c&v=4",
+    "location": "France, Senegal, World...",
+    "company": "COTIGA",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2015-12-21T20:33:13Z"
   }
 ]
