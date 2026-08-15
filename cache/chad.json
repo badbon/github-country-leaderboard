@@ -2122,5 +2122,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-10-16T08:44:19Z"
+  },
+  {
+    "login": "harundjibrin",
+    "name": "Haroun Djibrine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33425701?s=72&u=96d12ace9db729f775237e16379aa1536cf909e7&v=4",
+    "location": "N'Djaména, Chad",
+    "company": "Wikimedia Tchad",
+    "twitterUsername": "harundjibrin",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-06T15:21:26Z"
+  },
+  {
+    "login": "Si7u",
+    "name": "zina BRAHIM MAHAMAT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32763285?s=72&u=b01e1f745ed79d3ba87d5cc0350950956eda67e1&v=4",
+    "location": "Chad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-13T08:17:57Z"
+  },
+  {
+    "login": "BAKOI",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25309225?s=72&v=4",
+    "location": "N'Djamena, Chad",
+    "company": "WFP, Chad",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-23T21:27:14Z"
+  },
+  {
+    "login": "LEDOUM",
+    "name": "sylvain.ledoum@td.tigo.com",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32681960?s=72&v=4",
+    "location": "Chad",
+    "company": "Tigo Chad",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-10T16:57:22Z"
+  },
+  {
+    "login": "Solid2017",
+    "name": "Betan Gildas Ongbaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30882006?s=72&u=85f8d1355f3f9a3849a4e41d977cd5371a89390e&v=4",
+    "location": "Chad",
+    "company": "Igotech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 155,
+    "createdAt": "2017-08-09T23:58:35Z"
   }
 ]

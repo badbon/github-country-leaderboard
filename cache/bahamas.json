@@ -2818,5 +2818,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-03-20T22:11:29Z"
+  },
+  {
+    "login": "lucayepa",
+    "name": "Luca Venturini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/697159?s=72&u=57557dbff92389da22c8246f39e3b3929312ded3&v=4",
+    "location": "Nassau, Bahamas",
+    "company": "CEO @token21 @yepa",
+    "twitterUsername": "lucayepa",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-29T12:18:54Z"
+  },
+  {
+    "login": "c0d3blu3",
+    "name": "Miller",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/842841?s=72&u=6f6790073f75f52296e9bfdad7806a8a63f735b7&v=4",
+    "location": "Bahamas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-06-10T19:30:49Z"
+  },
+  {
+    "login": "zotz",
+    "name": "drew Roberts",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/614926?s=72&u=fa7bfd549bcd6f23c2a45880beb30a3847918095&v=4",
+    "location": "Nassau, Bahamas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2011-02-12T21:36:16Z"
+  },
+  {
+    "login": "michaelbergman",
+    "name": "Michael Bergman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1261445?s=72&u=f3cd50fc43c60037ee53f1db7349178853ef4120&v=4",
+    "location": "Nassau, The Bahamas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-12-13T21:36:21Z"
   }
 ]

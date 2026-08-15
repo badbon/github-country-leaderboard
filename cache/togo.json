@@ -7450,5 +7450,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-09-17T17:54:59Z"
+  },
+  {
+    "login": "Is-Daouda",
+    "name": "Is Daouda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45235532?s=72&u=a3e96aa7ffb09de35e217a27817ff80ea7033ac5&v=4",
+    "location": "Lomé",
+    "company": "Is Daouda",
+    "twitterUsername": "IsDaouda_Games",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 101,
+    "createdAt": "2018-11-21T14:05:16Z"
+  },
+  {
+    "login": "woueziou",
+    "name": "Taas S. Ekpaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38907637?s=72&u=00d4b1ebae920dcfcebed3e8a0bd61c1b01f877a&v=4",
+    "location": "Lomé",
+    "company": "@strantsolutions @BBLY-ANALYTICS-LLC ",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 5851,
+    "publicContributions": 148,
+    "createdAt": "2018-05-02T08:47:36Z"
+  },
+  {
+    "login": "reussiteforever",
+    "name": "Abdel-Khafid ATOKOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39904403?s=72&u=313487193d45d9c87a8f0bd5f70c3441ab8d4f83&v=4",
+    "location": "Lomé",
+    "company": "ATK CORPORATION",
+    "twitterUsername": "reussiteforever",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2018-06-04T09:20:44Z"
+  },
+  {
+    "login": "dekopi21",
+    "name": "DEGBOEVI K. Pierre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40823347?s=72&u=32f21193ca4183bcb7c75f790a2a44a008514cb2&v=4",
+    "location": "Lomé(Adidogomé)",
+    "company": "STORMEYES",
+    "twitterUsername": "PDegboevi",
+    "followers": 4,
+    "privateContributions": 2,
+    "publicContributions": 20,
+    "createdAt": "2018-07-04T08:58:50Z"
+  },
+  {
+    "login": "DelphinDjato",
+    "name": "delphindjato",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39035136?s=72&v=4",
+    "location": "Lomé",
+    "company": "Maple Innovation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-06T20:15:30Z"
   }
 ]

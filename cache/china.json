@@ -32758,5 +32758,65 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-11-12T10:07:29Z"
+  },
+  {
+    "login": "hunger-233",
+    "name": "Shihang Zhao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200578337?s=72&v=4",
+    "location": "China",
+    "company": "Tsinghua University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2025-02-24T08:30:30Z"
+  },
+  {
+    "login": "Dust-mite",
+    "name": "Shiman Chen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199365831?s=72&u=e786275cefdd12a7dad0a8fc6b07abaf78930fa2&v=4",
+    "location": "Xiamen,China",
+    "company": "Xiamen University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 159,
+    "publicContributions": 0,
+    "createdAt": "2025-02-15T13:16:48Z"
+  },
+  {
+    "login": "ZZZ5657",
+    "name": "Zeng Jingmang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202381227?s=72&u=c198289a63b170edcf7ccd10c83b0682c37760e7&v=4",
+    "location": "China",
+    "company": "Shenzhen University ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2025-03-08T05:55:30Z"
+  },
+  {
+    "login": "lison611",
+    "name": "Junmin Che",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200781454?s=72&v=4",
+    "location": "Shenzhen, Guangdong province, China",
+    "company": "The Chinese University of Hongkong, Shenzhen",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2025-02-25T13:36:33Z"
+  },
+  {
+    "login": "caigazi",
+    "name": "Fang Zhaoxiang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201948977?s=72&v=4",
+    "location": "Shanghai,China",
+    "company": "Tongji University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2025-03-05T11:55:35Z"
   }
 ]

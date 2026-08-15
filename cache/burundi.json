@@ -2590,5 +2590,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-12-04T21:48:19Z"
+  },
+  {
+    "login": "gatarelib",
+    "name": "Gatare Libère",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29035759?s=72&u=ca98e0bcab91abf69e038b9fab403c5394f32b90&v=4",
+    "location": "Burundi",
+    "company": "ACLIS",
+    "twitterUsername": "gatarelib",
+    "followers": 140,
+    "privateContributions": 1191,
+    "publicContributions": 11,
+    "createdAt": "2017-05-29T08:40:39Z"
+  },
+  {
+    "login": "cincotech",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32266558?s=72&u=cd3d583cca62772a4c5b0f11c7df21892f6cf444&v=4",
+    "location": "Gitega, Burundi",
+    "company": "Université Polytechnique de Gitega",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2017-09-25T12:30:57Z"
+  },
+  {
+    "login": "b3rking",
+    "name": "ISHIMWE Eschyle Bersy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31207091?s=72&u=62b5683838dba5556aac00c2fb3520ccae44e349&v=4",
+    "location": "Burundi",
+    "company": "daflx.com",
+    "twitterUsername": "b3rking",
+    "followers": 9,
+    "privateContributions": 775,
+    "publicContributions": 88,
+    "createdAt": "2017-08-21T09:50:33Z"
+  },
+  {
+    "login": "LebonMudumba",
+    "name": "Lebon Mudumba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29878357?s=72&u=f352e5ab540b40f31e97aee110ced6b86ec4184c&v=4",
+    "location": "Burundi",
+    "company": "Legtelecoms",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-04T02:28:27Z"
+  },
+  {
+    "login": "DarrellMweneb",
+    "name": "Darrel ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26329793?s=72&u=ceedf0e74692af9d2f0638c61989e8304ba625b0&v=4",
+    "location": "Burundi ",
+    "company": "Asyst Resources LTD",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2017-03-10T15:45:52Z"
   }
 ]
