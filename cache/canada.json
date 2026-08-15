@@ -43534,5 +43534,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-05T04:06:19Z"
+  },
+  {
+    "login": "mdaikman",
+    "name": "Donovan Aikman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51982304?s=72&u=71633237c4867fd4a86c125ee39a2d17338872a5&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2019-06-19T04:16:08Z"
+  },
+  {
+    "login": "protonater",
+    "name": "Prashanth Venkateshappa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54526153?s=72&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-26T06:44:24Z"
+  },
+  {
+    "login": "joshmcintosh",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46505027?s=72&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-08T22:27:14Z"
+  },
+  {
+    "login": "jordondueck",
+    "name": "Jordon Dueck",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48539874?s=72&u=9a0a6997fde52c5204cd6c7b289355fa2d0c1b81&v=4",
+    "location": "Victoria, Canada",
+    "company": "@politiviewer ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 168,
+    "publicContributions": 0,
+    "createdAt": "2019-03-14T02:41:00Z"
+  },
+  {
+    "login": "Gamergull",
+    "name": "Thomas Wilczynski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47839545?s=72&u=6106a062f761ee5f261531066fed0376580332e5&v=4",
+    "location": "Victoria, British Columbia, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-21T02:34:20Z"
+  },
+  {
+    "login": "mldlopez",
+    "name": "Mark Louie Lopez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55735607?s=72&u=cd73d44973252cd0193f2371233de6698420438a&v=4",
+    "location": "Victoria, British Columbia, Canada",
+    "company": "University of Victoria",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2019-09-24T07:46:38Z"
+  },
+  {
+    "login": "jinghanj",
+    "name": "Jinghan Jiang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54910436?s=72&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "University of Victoria",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-04T18:29:38Z"
+  },
+  {
+    "login": "aaronschanz",
+    "name": "Aaron Schanz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56461665?s=72&u=6be721366559ad45243c8a09ec364043917a0623&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-12T02:24:15Z"
   }
 ]

@@ -1858,5 +1858,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-18T06:41:04Z"
+  },
+  {
+    "login": "fvsch",
+    "name": "Florens Verschelde",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/243601?s=72&u=72f5a31c69134f5b74e88c67ebf19beabbcb06bd&v=4",
+    "location": "Réunion",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 154,
+    "privateContributions": 33,
+    "publicContributions": 43,
+    "createdAt": "2010-04-14T07:58:01Z"
+  },
+  {
+    "login": "ludochane",
+    "name": "Ludovic Chane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290233?s=72&v=4",
+    "location": "Réunion",
+    "company": "Maureva",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-28T20:28:40Z"
   }
 ]

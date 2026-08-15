@@ -118,5 +118,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-05-19T17:49:58Z"
+  },
+  {
+    "login": "owl-net",
+    "name": "Owl Limited",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31627776?s=72&u=278afa1f016b01c7ba4b7606aedde83117ab2b92&v=4",
+    "location": "Vanuatu",
+    "company": "@owl-limited ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-04T16:10:40Z"
+  },
+  {
+    "login": "Xenrob",
+    "name": "Jackson Robert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26834166?s=72&u=b97bb6a9398b02ab15725e6e971c5f481c8d7a89&v=4",
+    "location": "Vanuatu",
+    "company": "Learn_to_code",
+    "twitterUsername": "Jackson61778424",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-01T08:48:55Z"
   }
 ]

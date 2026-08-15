@@ -16402,5 +16402,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-01-31T07:27:31Z"
+  },
+  {
+    "login": "gaaferHajji2",
+    "name": "Jafar Loka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30962261?s=72&u=502c9bc6e2b0c718229d496620e9f65b889ff7f5&v=4",
+    "location": "Damascus - SY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2917,
+    "createdAt": "2017-08-12T20:08:15Z"
+  },
+  {
+    "login": "MahmoudSlameh",
+    "name": "Mahmoud Salameh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30909429?s=72&u=6293f476e7e74c5614d57f1a02ed0f00d4d6a908&v=4",
+    "location": "Damascus",
+    "company": "Nashra",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1409,
+    "publicContributions": 23,
+    "createdAt": "2017-08-10T19:15:34Z"
+  },
+  {
+    "login": "Stevensbrightmann",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26248564?s=72&v=4",
+    "location": "Damascus",
+    "company": "Damascus University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-07T10:58:19Z"
   }
 ]

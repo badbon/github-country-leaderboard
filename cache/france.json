@@ -35842,5 +35842,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-12-17T00:28:19Z"
+  },
+  {
+    "login": "shinmei",
+    "name": "Sébastien VINCENT - HOLDI GROUPE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/411029?s=72&v=4",
+    "location": "Ile de la Réunion, France",
+    "company": "HOLDI GROUPE",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-22T06:09:50Z"
+  },
+  {
+    "login": "KellyCHI22",
+    "name": "Kelly CHI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107483512?s=72&u=6f6bd5670a7f3fb255b633fd7b8e73475029b2d0&v=4",
+    "location": "France / Taiwan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 83,
+    "privateContributions": 186,
+    "publicContributions": 3,
+    "createdAt": "2022-06-14T13:00:50Z"
   }
 ]

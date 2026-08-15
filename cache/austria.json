@@ -29458,5 +29458,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-25T10:16:45Z"
+  },
+  {
+    "login": "carissableker",
+    "name": "Carissa Bleker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26261557?s=72&u=c713b6a1370a4523a66c05df19532ef0a092903c&v=4",
+    "location": "Austria/Slovenia",
+    "company": "@NIB-SI",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 24,
+    "publicContributions": 99,
+    "createdAt": "2017-03-07T21:43:03Z"
+  },
+  {
+    "login": "defeloper",
+    "name": "Andraž Hajdenkumer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29751238?s=72&u=feca4f3c3a181855e5e2fc0cafb479902075476e&v=4",
+    "location": "Graz, Austria / Maribor, Slovenia",
+    "company": "Studo",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 59,
+    "publicContributions": 3,
+    "createdAt": "2017-06-28T09:51:01Z"
   }
 ]

@@ -29290,5 +29290,29 @@
     "privateContributions": 6,
     "publicContributions": 80,
     "createdAt": "2022-12-12T20:22:33Z"
+  },
+  {
+    "login": "amirho3inh",
+    "name": "Amirhossein Hashemi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25774978?s=72&u=03ed37b5db8317e1a49edc51f3c015266d15e9cd&v=4",
+    "location": "Mariehamn, Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 71,
+    "publicContributions": 19,
+    "createdAt": "2017-02-14T16:50:58Z"
+  },
+  {
+    "login": "kennetlindberg",
+    "name": "Kennet Lindberg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31550641?s=72&u=d9482d7042b154f8f1c3c1a42edebbea5091a6a8&v=4",
+    "location": "Mariehamn, Finland",
+    "company": "Consilia Solutions Ab",
+    "twitterUsername": "lindberg_kennet",
+    "followers": 4,
+    "privateContributions": 2231,
+    "publicContributions": 5,
+    "createdAt": "2017-09-01T19:31:09Z"
   }
 ]
