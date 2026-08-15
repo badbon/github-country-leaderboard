@@ -6082,5 +6082,89 @@
     "privateContributions": 35,
     "publicContributions": 31,
     "createdAt": "2022-06-14T14:47:05Z"
+  },
+  {
+    "login": "DannerAly",
+    "name": "Danner Aly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114673654?s=72&u=ff9391d7f0eebb99e41b8fb6d67a798b88ce6429&v=4",
+    "location": "Sucre ",
+    "company": "Universidad San Francisco Xavier de Chuquisaca",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 177,
+    "publicContributions": 43,
+    "createdAt": "2022-09-29T13:45:01Z"
+  },
+  {
+    "login": "MarcelaMV2",
+    "name": "Marcela Miranda Veniz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102498232?s=72&u=0b0096fb2294c3af77755718f4787d5f0cf52986&v=4",
+    "location": "Sucre",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 227,
+    "createdAt": "2022-03-28T02:56:23Z"
+  },
+  {
+    "login": "JuanRios24",
+    "name": "JuanDev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97474409?s=72&v=4",
+    "location": "Sincelejo, Sucre",
+    "company": "TechXamp",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-10T19:20:20Z"
+  },
+  {
+    "login": "DGLopez1",
+    "name": "Dimar Gabriel Lopez Chiri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102623351?s=72&u=14c65c5158ff2275af286546049fd1e4c2347367&v=4",
+    "location": "Sucre",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-29T19:24:55Z"
+  },
+  {
+    "login": "Tehstrall",
+    "name": "DanielGonzalez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110705553?s=72&u=509ae927509b1bc743667706bb07a58a3b4c6e16&v=4",
+    "location": "Corozal sucre",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2022-08-06T02:12:03Z"
+  },
+  {
+    "login": "Mariasalcedo13",
+    "name": "Maria Olga Salcedo Royero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110728247?s=72&u=ed0335114b05371c576d2dcb5e3ad1e50ed74255&v=4",
+    "location": "corozal,sucre",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-06T13:06:27Z"
+  },
+  {
+    "login": "SimonChumaceroEspada",
+    "name": "Simon Chumacero Espada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114787190?s=72&u=41e19c5fe7eef13ee1ce442f30a0402df6f954d1&v=4",
+    "location": "Sucre",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2022-10-01T01:13:49Z"
   }
 ]

@@ -6622,5 +6622,29 @@
     "privateContributions": 0,
     "publicContributions": 38,
     "createdAt": "2014-03-06T18:12:25Z"
+  },
+  {
+    "login": "belarmino",
+    "name": "Belarmino Silva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3459019?s=72&u=ca7457fb5de45b3f95e4dec1c6144e8e2cd145a9&v=4",
+    "location": "Cape Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-02T20:11:27Z"
+  },
+  {
+    "login": "NOSiMobile",
+    "name": "NOSi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3602064?s=72&v=4",
+    "location": "Praia, Cape Verde",
+    "company": "NOSi",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-15T11:48:51Z"
   }
 ]

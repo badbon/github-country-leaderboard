@@ -23434,5 +23434,53 @@
     "privateContributions": 944,
     "publicContributions": 15,
     "createdAt": "2019-09-02T16:21:15Z"
+  },
+  {
+    "login": "ViktoriaKraljica",
+    "name": "Viktoria Kraljica",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49030769?s=72&u=f66f9a014a91a6a30c90bffabfcb042dcfdf5674&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-28T13:20:40Z"
+  },
+  {
+    "login": "mtvrdinic",
+    "name": "Mislav Tvrdinić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48370010?s=72&u=9dc0959f9e0cda5ae45d85a7f996cc0b6614511e&v=4",
+    "location": "Zagreb, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-08T23:51:15Z"
+  },
+  {
+    "login": "markoc552",
+    "name": "Marko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50751309?s=72&u=54158c7567578f0722e7da3149568638e6e5b52f&v=4",
+    "location": "Split, Hrvatska",
+    "company": "",
+    "twitterUsername": "marko_perajica",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2019-05-17T18:16:21Z"
+  },
+  {
+    "login": "VioletPRO13",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48365892?s=72&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-08T19:49:11Z"
   }
 ]

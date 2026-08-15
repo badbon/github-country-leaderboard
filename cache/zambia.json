@@ -15898,5 +15898,65 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2013-11-07T06:25:33Z"
+  },
+  {
+    "login": "drcarter20",
+    "name": "James Tembo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2420102?s=72&u=f36a572f83cd4ff82282a88293c0d25281387bd4&v=4",
+    "location": "Zambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-25T12:50:55Z"
+  },
+  {
+    "login": "Atupele4",
+    "name": "Atupele Mboya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2271863?s=72&u=694e7f227067134395d336b31ec8d5efc2792fda&v=4",
+    "location": "Zambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 485,
+    "publicContributions": 13,
+    "createdAt": "2012-09-03T15:52:16Z"
+  },
+  {
+    "login": "simunza",
+    "name": "Simunza Muyangana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1299526?s=72&u=ac6d616deb5281f6bf9db502cd48d7703b587beb&v=4",
+    "location": "Zambia",
+    "company": "Digital ICE Interactive Media",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-02T19:03:17Z"
+  },
+  {
+    "login": "neilmalilwe",
+    "name": "Neil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1727049?s=72&v=4",
+    "location": "Lusaka, Zambia",
+    "company": "@peacerevolution",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-05-10T15:35:35Z"
+  },
+  {
+    "login": "drscript",
+    "name": "Yeta Zulu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2352824?s=72&v=4",
+    "location": "Zambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 75,
+    "createdAt": "2012-09-15T15:03:21Z"
   }
 ]
