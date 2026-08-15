@@ -30142,5 +30142,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-06-17T01:17:35Z"
+  },
+  {
+    "login": "SammyPiano",
+    "name": "Argenis Samuel Castaños Santana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24459745?s=72&u=1dd6b5d1a6d4a66b8442ac0aa0434c98f3a3edd0&v=4",
+    "location": "Santo Domingo /Rep. Dom.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-12-08T16:33:17Z"
+  },
+  {
+    "login": "victordisla",
+    "name": "Victor Disla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17912579?s=72&u=20460759e11ebafadf7168dff55b64ebfa5822b2&v=4",
+    "location": "Santo Domingo, República Dominicana",
+    "company": "DISLANET, E.I.R.L.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-03-17T19:20:16Z"
   }
 ]

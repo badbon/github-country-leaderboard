@@ -5914,5 +5914,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-12-24T04:11:44Z"
+  },
+  {
+    "login": "kcfurtado",
+    "name": "Kelton Furtado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20630363?s=72&u=6824c695573b428b7ac97befb86194fe8657acd4&v=4",
+    "location": "Cape Verde",
+    "company": "eRoom, Lda",
+    "twitterUsername": "kcfurtado228",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-07-24T22:08:48Z"
+  },
+  {
+    "login": "netchon",
+    "name": "Nelson Djony Ramalho Alves Oliveira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20821335?s=72&u=234649415d5e0ee79c682a5625592a222f5d9955&v=4",
+    "location": "Cape Verde, Santiago, Praia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 418,
+    "publicContributions": 10,
+    "createdAt": "2016-08-03T17:11:55Z"
+  },
+  {
+    "login": "Sousa10",
+    "name": "Rui Sousa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19432135?s=72&u=54b169113e0bc6f93c74ff2dbc69b959f84944ba&v=4",
+    "location": "Praia, Cape Verde",
+    "company": "Freelancer",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 121,
+    "publicContributions": 4,
+    "createdAt": "2016-05-18T14:43:31Z"
   }
 ]

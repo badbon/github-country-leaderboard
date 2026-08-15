@@ -18670,5 +18670,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-10-25T00:20:34Z"
+  },
+  {
+    "login": "ch4rbo",
+    "name": "Rafael Aguiar Menéndez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78293415?s=72&u=f87540a5437b203724d5a3e88036cf81ac490d1e&v=4",
+    "location": "San José, Uruguay",
+    "company": "Cripto Simple",
+    "twitterUsername": "ch4rbo",
+    "followers": 5,
+    "privateContributions": 18,
+    "publicContributions": 4,
+    "createdAt": "2021-01-31T06:41:09Z"
+  },
+  {
+    "login": "fiorinileo",
+    "name": "Leonardo Fiorini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94766806?s=72&v=4",
+    "location": "San José, Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-20T23:15:54Z"
   }
 ]

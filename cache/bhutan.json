@@ -3139,7 +3139,7 @@
     "company": "@Cloud-Bhutan ",
     "twitterUsername": "trigdzeen",
     "followers": 13,
-    "privateContributions": 3158,
+    "privateContributions": 3159,
     "publicContributions": 10,
     "createdAt": "2013-12-19T13:49:45Z"
   },
@@ -3166,5 +3166,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-20T09:13:36Z"
+  },
+  {
+    "login": "pranim",
+    "name": "Pranim Rai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3592900?s=72&u=83d31ab2216261c629231081f33268bbb4ef2bdd&v=4",
+    "location": "Thimphu",
+    "company": "PINE TECH",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-14T11:00:25Z"
   }
 ]

@@ -2710,5 +2710,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-09-16T15:17:46Z"
+  },
+  {
+    "login": "bryanherger",
+    "name": "Bryan Herger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5658893?s=72&u=51e8e031e7fa3344f3f12914207fe0b72664bb06&v=4",
+    "location": "South Shore of Nassau County, NY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2013-10-10T19:42:10Z"
+  },
+  {
+    "login": "amosam",
+    "name": "Adam M",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3194188?s=72&u=4b34806f636c7223a8edd48ce2600e001424b79a&v=4",
+    "location": "Nassau",
+    "company": "",
+    "twitterUsername": "adammosam",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2013-01-05T18:00:26Z"
   }
 ]

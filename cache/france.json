@@ -31690,5 +31690,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-10-17T07:19:44Z"
+  },
+  {
+    "login": "PR0G3T",
+    "name": "Killian \"PR0G3T\" OTT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203552281?s=72&u=956a50613140ea9035030f5a7e482af7d5a14f5b&v=4",
+    "location": "Lyon",
+    "company": "@Team-Cardinalis ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 4391,
+    "publicContributions": 291,
+    "createdAt": "2025-03-16T17:46:06Z"
+  },
+  {
+    "login": "Yotshiii",
+    "name": "Evan JOASSON",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224788915?s=72&u=d0000808fb62d45aa2652bf19e679e11606ecc48&v=4",
+    "location": "Lyon",
+    "company": "Spie ICS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2025-08-05T12:17:33Z"
+  },
+  {
+    "login": "corentinsalvi",
+    "name": "SALVI Corentin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209657047?s=72&u=fe3fd954f0f2c517f359dd14aeab2112ca939644&v=4",
+    "location": "Lyon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 159,
+    "publicContributions": 49,
+    "createdAt": "2025-04-29T14:45:35Z"
+  },
+  {
+    "login": "toto-blanco",
+    "name": "Antoine Blanc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/230517674?s=72&v=4",
+    "location": "Lyon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 11,
+    "publicContributions": 115,
+    "createdAt": "2025-09-05T07:48:24Z"
   }
 ]

@@ -2756,7 +2756,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 117,
     "createdAt": "2023-04-09T14:32:57Z"
   },
   {
@@ -4018,5 +4018,89 @@
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2023-02-17T22:18:13Z"
+  },
+  {
+    "login": "drdelatapia",
+    "name": "Dr. Ignacio de la Tapia Vargas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132443730?s=72&u=3871117892a4d0e23573058298ddafba41e491b3&v=4",
+    "location": "Sucre",
+    "company": "Bolivia DAO S.A.",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-03T09:03:42Z"
+  },
+  {
+    "login": "rpaternina",
+    "name": "Robert Paternina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122316506?s=72&u=8ec75a128802c1d9d87a265ced294fd5e5bdb5ec&v=4",
+    "location": "sincelejo-sucre",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2023-01-09T20:44:52Z"
+  },
+  {
+    "login": "D3C0D1",
+    "name": "Andres Florèz Atencia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124421179?s=72&u=645ad83883a35a5df1f042210a6afc8d25dd0d7b&v=4",
+    "location": "sincelejo, sucre",
+    "company": "menory",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2023-02-04T05:33:24Z"
+  },
+  {
+    "login": "DiegoB1104",
+    "name": "Diego Benavides Baldovino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131830650?s=72&u=eb9f808140ca4a0e07eecd14da6783e9ecf78d02&v=4",
+    "location": "Sincelejo, Sucre",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2023-04-26T00:24:05Z"
+  },
+  {
+    "login": "ValentinaSalinas",
+    "name": "Valentina Salinas Doria Medina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127544585?s=72&u=9bc6cea9c358f0f53b8f12f7b60183dc53a36311&v=4",
+    "location": "Sucre",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2023-03-10T18:33:26Z"
+  },
+  {
+    "login": "DavidLongart",
+    "name": "David Hernandez ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125330841?s=72&v=4",
+    "location": "Sucre, Carúpano",
+    "company": "",
+    "twitterUsername": "DavidHLongart",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-14T02:46:13Z"
+  },
+  {
+    "login": "vaironjvd",
+    "name": "Vairon Vasquez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144159249?s=72&u=f88e32b02f6f55b81de989758d5f6e319b085178&v=4",
+    "location": "Sincelejo, Sucre",
+    "company": "CETUS Technology",
+    "twitterUsername": "vaironjvd",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-05T17:14:33Z"
   }
 ]
