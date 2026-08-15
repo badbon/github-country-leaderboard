@@ -406,5 +406,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-10-27T18:47:16Z"
+  },
+  {
+    "login": "Heinux",
+    "name": "Heinux",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10948412?s=72&u=0450c82513845053fd0c087588dead746af4f12f&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2015-02-10T21:25:17Z"
+  },
+  {
+    "login": "syllebra",
+    "name": "BilboX",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15978413?s=72&u=9964aa500b3036443d6d5104489cc46356dafefa&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 128,
+    "createdAt": "2015-11-23T09:50:00Z"
+  },
+  {
+    "login": "cabmok",
+    "name": "Moea Cabral",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13038176?s=72&u=3ca67a26f8a45706600fe02b4fda936d147e5fae&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-24T18:45:59Z"
+  },
+  {
+    "login": "laurentpellet",
+    "name": "Laurent PELLET",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11530611?s=72&u=82b3d1a05822a3bbdf87f6b63ca14276047f095a&v=4",
+    "location": "French Polynesia",
+    "company": "ispf.pf",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2015-03-18T01:35:40Z"
+  },
+  {
+    "login": "HLeviel",
+    "name": "Hubert LEVIEL",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13158585?s=72&u=ddbae5160df02d2abfd0334106c00b018f9a64c8&v=4",
+    "location": "Moorea, French Polynesia",
+    "company": "www.datanui.com",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-03T00:52:32Z"
+  },
+  {
+    "login": "ViolaineDo",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12017078?s=72&u=7f3f1fef6f94ac2060eab144a4eb8e35d2e6a202&v=4",
+    "location": "Papeete, french Polynesia",
+    "company": "À Vos Cartes",
+    "twitterUsername": "Violaine_Do",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-19T09:50:32Z"
+  },
+  {
+    "login": "jburckel",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11768758?s=72&u=044462e4130e086a0621f4abb45f0d7a289ab7fa&v=4",
+    "location": "French Polynesia",
+    "company": "natimai.solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2384,
+    "publicContributions": 82,
+    "createdAt": "2015-04-02T09:05:01Z"
   }
 ]

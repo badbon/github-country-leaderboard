@@ -13566,7 +13566,7 @@
     "location": "kabul, Afghanistan",
     "company": "@decipheron",
     "twitterUsername": "SanamHamza2",
-    "followers": 101,
+    "followers": 110,
     "privateContributions": 4,
     "publicContributions": 9,
     "createdAt": "2019-09-28T00:49:36Z"
@@ -13591,7 +13591,7 @@
     "company": "",
     "twitterUsername": "Mahdi_Rezaei_AF",
     "followers": 53,
-    "privateContributions": 1490,
+    "privateContributions": 1491,
     "publicContributions": 859,
     "createdAt": "2019-05-17T10:53:45Z"
   },
@@ -13650,7 +13650,7 @@
     "location": "Kabul, Afghanistan",
     "company": "",
     "twitterUsername": "shahid_a5",
-    "followers": 37,
+    "followers": 39,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2019-12-28T18:40:04Z"
@@ -13675,7 +13675,7 @@
     "company": "Code9ine",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 2564,
+    "privateContributions": 2655,
     "publicContributions": 0,
     "createdAt": "2019-12-22T20:04:23Z"
   },
@@ -14251,7 +14251,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2146,
+    "privateContributions": 2148,
     "publicContributions": 64,
     "createdAt": "2019-10-26T06:46:27Z"
   },
@@ -14324,7 +14324,7 @@
     "twitterUsername": "AbdullahHu97",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 845,
+    "publicContributions": 855,
     "createdAt": "2019-03-09T16:35:48Z"
   },
   {
@@ -14335,7 +14335,7 @@
     "company": "@peacegl",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2717,
+    "privateContributions": 2720,
     "publicContributions": 13,
     "createdAt": "2019-11-20T05:36:11Z"
   },
@@ -14806,5 +14806,137 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-17T20:17:24Z"
+  },
+  {
+    "login": "farhadrahmanii",
+    "name": "Farhad Rahmani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55535348?s=72&u=36bf42818221433a120bea7e10c563edc41faa49&v=4",
+    "location": "Kabul khoshal khan",
+    "company": "Dev",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 2969,
+    "publicContributions": 12,
+    "createdAt": "2019-09-19T09:26:23Z"
+  },
+  {
+    "login": "KhudadadKhawari",
+    "name": "Khudadad Khawari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54738188?s=72&u=e2ed3b641ad1180e053bfd2299bfccb5a65aaf77&v=4",
+    "location": "Kabul",
+    "company": "@SeferYak ",
+    "twitterUsername": "KhudadadKhawari",
+    "followers": 26,
+    "privateContributions": 728,
+    "publicContributions": 30,
+    "createdAt": "2019-08-31T08:47:23Z"
+  },
+  {
+    "login": "mahdighyasi626",
+    "name": "Mahdi Ghyasi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57662605?s=72&u=36b35a38adb3449a65bd8d3dbeacadc692b6265b&v=4",
+    "location": "Kabul",
+    "company": "Netlinks Ltd",
+    "twitterUsername": "mahdighyasi_96",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-12T09:36:14Z"
+  },
+  {
+    "login": "MoctarAboubacar",
+    "name": "Moctar Aboubacar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54015478?s=72&u=8d1f7390c012416d6b8b6e5634459ec3de1ecb49&v=4",
+    "location": "Kabul",
+    "company": "@WFP-VAM ",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-08-12T04:54:04Z"
+  },
+  {
+    "login": "Nooraziz-Khogyani",
+    "name": "Noor Aziz Wyarr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55880756?s=72&u=b76d906db3dc5731e4b13ce421e772cbc63a0b35&v=4",
+    "location": "kabul",
+    "company": "",
+    "twitterUsername": "Noorazizwyarr",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-27T11:44:33Z"
+  },
+  {
+    "login": "AhmadSamimDawlatzay",
+    "name": "Ahmad Samim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58666279?s=72&u=f7952828cf172ab84362de89fb77f4531e7e049b&v=4",
+    "location": "Kabul",
+    "company": "Afghan Telecom and Freelancer",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2019-12-08T18:41:54Z"
+  },
+  {
+    "login": "JawidMahir",
+    "name": "Jawid Mahir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49530941?s=72&u=87a59780cbd13524fa88b7197acfe29e12800a23&v=4",
+    "location": "Kabul ",
+    "company": "National Statistics & Information Authority  ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-11T16:40:52Z"
+  },
+  {
+    "login": "Obaidullah-888",
+    "name": "Obaidullah Akbari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58013635?s=72&u=bfdac5de51b8eb95578a64594c9e2e3b30d93ff8&v=4",
+    "location": "Kabul",
+    "company": "MCIT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-21T00:07:51Z"
+  },
+  {
+    "login": "rafebakhtyari",
+    "name": "Raka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49270951?s=72&u=be3ac54630fb13073e369d263748551230acda29&v=4",
+    "location": "Karte char Kabul",
+    "company": "techsharks.af",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2019-04-04T09:00:46Z"
+  },
+  {
+    "login": "JoyaGithub",
+    "name": "JoyaGithub",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56971115?s=72&u=14d643438cd289e7dd4817379523e4f2bcd0dd36&v=4",
+    "location": "Kabul / Pule Sokhta / Golayee Dawa Khanh",
+    "company": "Pamir Elite",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-24T15:24:43Z"
+  },
+  {
+    "login": "abdullah-raoufi",
+    "name": "Abdullah Raoufi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48079425?s=72&u=473c72651ece1a3b17b008ebf80f3977c9467a6b&v=4",
+    "location": "Kabul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2019-02-28T04:48:02Z"
   }
 ]

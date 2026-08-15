@@ -21859,7 +21859,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 332,
+    "privateContributions": 353,
     "publicContributions": 21,
     "createdAt": "2020-03-27T17:46:17Z"
   },
@@ -22170,7 +22170,7 @@
     "location": "Dubai, United Arab Emirates ",
     "company": "IT Queue",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-18T23:02:02Z"
@@ -22279,7 +22279,7 @@
     "company": "Infosoft Software Trading LLC",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 557,
+    "privateContributions": 558,
     "publicContributions": 0,
     "createdAt": "2020-09-21T06:54:50Z"
   },
@@ -22306,5 +22306,17 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2020-05-18T14:24:25Z"
+  },
+  {
+    "login": "jtampac",
+    "name": "Junmarvi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72369739?s=72&u=af9b403b24532b55d3a84ae8c453ae5fb97d171f&v=4",
+    "location": "United Arab Emirates",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 217,
+    "createdAt": "2020-10-05T03:32:17Z"
   }
 ]
