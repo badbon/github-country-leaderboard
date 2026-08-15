@@ -10698,7 +10698,7 @@
     "location": "Montevideo, Uruguay",
     "company": "Holberton School",
     "twitterUsername": "",
-    "followers": 49,
+    "followers": 51,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-16T13:18:55Z"
@@ -10712,7 +10712,7 @@
     "twitterUsername": "",
     "followers": 47,
     "privateContributions": 804,
-    "publicContributions": 3618,
+    "publicContributions": 3658,
     "createdAt": "2022-05-03T16:54:53Z"
   },
   {
@@ -11444,7 +11444,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 926,
+    "publicContributions": 946,
     "createdAt": "2022-08-05T23:33:28Z"
   },
   {
@@ -11610,7 +11610,7 @@
     "location": "Montevideo, Uruguay",
     "company": "Uruguay XXI",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 602,
     "publicContributions": 144,
     "createdAt": "2022-12-13T02:37:14Z"
@@ -12223,7 +12223,7 @@
     "company": "Workfly",
     "twitterUsername": "JuanRezzio",
     "followers": 6,
-    "privateContributions": 1010,
+    "privateContributions": 1011,
     "publicContributions": 65,
     "createdAt": "2022-06-04T15:49:41Z"
   },
@@ -18034,5 +18034,161 @@
     "privateContributions": 550,
     "publicContributions": 110,
     "createdAt": "2022-11-03T21:55:32Z"
+  },
+  {
+    "login": "RodrigoNaray",
+    "name": "Rodrigo Naray",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103074621?s=72&u=b6573a2bbec3538fd0840f4d8167565b21a2ea88&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 80,
+    "privateContributions": 42,
+    "publicContributions": 289,
+    "createdAt": "2022-04-05T20:57:34Z"
+  },
+  {
+    "login": "gasstin",
+    "name": "Gastón Larroque",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105363918?s=72&u=34dd99cfcfac7f17e60f7fed54684d2c20dea07c&v=4",
+    "location": "Montevideo",
+    "company": "Holberton Montevideo School",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-11T12:25:03Z"
+  },
+  {
+    "login": "rodrigui123",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105667160?s=72&v=4",
+    "location": "Montevideo, URU",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-16T17:24:11Z"
+  },
+  {
+    "login": "Pataty22",
+    "name": "Patricia Fernández",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110777470?s=72&u=bf416a4b7a94ef4853bd4210ad66883a0c9f1fe7&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-08-07T15:04:59Z"
+  },
+  {
+    "login": "Fonseca2001",
+    "name": "Nicolás Fonseca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115123462?s=72&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-10-06T00:32:14Z"
+  },
+  {
+    "login": "OlgaOlgar47",
+    "name": "Olga Averianova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113591725?s=72&u=0d70632db25d52387c2600250c7f982061e8c386&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 156,
+    "createdAt": "2022-09-15T09:07:29Z"
+  },
+  {
+    "login": "fiolarriviere",
+    "name": "Fio C. Larriviere",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102750760?s=72&u=6909c10be24a7f6ab5d06e4f4f7138d7179e0ce7&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-31T15:36:30Z"
+  },
+  {
+    "login": "RominaDosSantos",
+    "name": "Romina Dos Santos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106199607?s=72&u=4877b177a73c5ae33f5670efdc6fd6e8450301dd&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-24T22:02:50Z"
+  },
+  {
+    "login": "marceloocampogit",
+    "name": "Marcelo Ocampo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100446993?s=72&u=d2cfd44d93c36ab0e12c4783faa2fb3775eb27a1&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "titotitouy",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-25T21:41:02Z"
+  },
+  {
+    "login": "Macj04",
+    "name": "Miguel Coa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116041359?s=72&u=b74f2059b87169d4f767725d66849fe02fa052f1&v=4",
+    "location": "Montevideo, UY.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-10-17T23:00:05Z"
+  },
+  {
+    "login": "GyabiSito",
+    "name": "José Gabriel Hernández",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121214489?s=72&u=1de41adf42f4fdbf78c4df16ce695f80f575c149&v=4",
+    "location": "Montevideo",
+    "company": "Topaz",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 283,
+    "publicContributions": 963,
+    "createdAt": "2022-12-22T05:19:24Z"
+  },
+  {
+    "login": "TauberF",
+    "name": "Francisco Tauber",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101607135?s=72&u=b6c6b278c8189decc0c896420fbf043d2b0a5fb4&v=4",
+    "location": "Montevideo",
+    "company": "Universidad de Montevideo",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2022-03-14T23:41:59Z"
+  },
+  {
+    "login": "alemartinezz",
+    "name": "Alejandro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119695580?s=72&u=ddac78763532d9428b39d1db9368f9104ef9d36c&v=4",
+    "location": "Montevideo | UY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 108,
+    "publicContributions": 10,
+    "createdAt": "2022-12-02T17:47:28Z"
   }
 ]

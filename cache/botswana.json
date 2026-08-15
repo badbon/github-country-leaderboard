@@ -5098,5 +5098,53 @@
     "privateContributions": 0,
     "publicContributions": 31,
     "createdAt": "2017-08-23T16:17:57Z"
+  },
+  {
+    "login": "Modingwa",
+    "name": "Charles Modingwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34737460?s=72&u=2ae4ade01cdcc8d1e2468c3fc80c6c3bf0164b0b&v=4",
+    "location": "Gaborone",
+    "company": "Okavango Diamond Company",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-21T08:56:12Z"
+  },
+  {
+    "login": "Lettypiet",
+    "name": "leatile Piet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26143162?s=72&u=f4bf94be1d906a7ef0e05397c887a521620d93c9&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-02T14:31:17Z"
+  },
+  {
+    "login": "SureshParvathareddy",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32303718?s=72&v=4",
+    "location": "Gaborone",
+    "company": "Apjakal IT Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-26T14:48:01Z"
+  },
+  {
+    "login": "JaypeeS",
+    "name": "Japhala Seiphetheng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31067930?s=72&u=f1690db8ac55bd1f16288ff19fa3e8e3994a3226&v=4",
+    "location": "Gaborone",
+    "company": "IntelliBusiness Group T/A Intellisoft",
+    "twitterUsername": "JSeiphetheng",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2017-08-16T11:58:42Z"
   }
 ]

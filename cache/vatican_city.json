@@ -190,5 +190,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-12-12T10:22:43Z"
+  },
+  {
+    "login": "kubonnt",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60918070?s=72&u=29f64272e1da0a0053c6cf96c06c8bffcd7db8d0&v=4",
+    "location": "Vatican City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 464,
+    "publicContributions": 2,
+    "createdAt": "2020-02-11T08:50:35Z"
+  },
+  {
+    "login": "Ventexx",
+    "name": "Ventex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65915321?s=72&u=caac896107a4ca7b847f28563ea597eb301683da&v=4",
+    "location": "Vatican City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 31,
+    "publicContributions": 86,
+    "createdAt": "2020-05-25T16:57:48Z"
+  },
+  {
+    "login": "B00Mjack",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66393289?s=72&u=4bd46b52d23c21d16c1813fe1327b2b06ffb9d15&v=4",
+    "location": "Vatican City Città del Vaticano 00120 Vatican City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-03T23:17:23Z"
   }
 ]

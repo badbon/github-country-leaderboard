@@ -14818,5 +14818,41 @@
     "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2022-04-07T15:14:55Z"
+  },
+  {
+    "login": "joseulo",
+    "name": "José Ulo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114942274?s=72&u=3b799f1a85e0cf06972ab620205710b1d896b1e9&v=4",
+    "location": "Luanda, Viana",
+    "company": "",
+    "twitterUsername": "JoseUlo77",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-10-03T16:29:26Z"
+  },
+  {
+    "login": "aja-silason",
+    "name": "anania augusto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100473023?s=72&u=7901cb8415727121a1e36cf154f808e310030be1&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "ananias_augusto",
+    "followers": 1,
+    "privateContributions": 334,
+    "publicContributions": 80,
+    "createdAt": "2022-02-26T12:11:09Z"
+  },
+  {
+    "login": "rosariohu",
+    "name": "Walter Afonso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97727195?s=72&u=401254ec55bdd095133a6eb7a8a28e960d25ccf5&v=4",
+    "location": "Luanda, Kilamba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-14T08:09:17Z"
   }
 ]

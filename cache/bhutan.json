@@ -3118,5 +3118,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-10-09T16:54:46Z"
+  },
+  {
+    "login": "imthatgin",
+    "name": "gin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4886476?s=72&u=0f632c2910e5b27cbf9815ccd0611729e82a50c1&v=4",
+    "location": "Bhutan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2013-06-29T21:44:33Z"
+  },
+  {
+    "login": "tshewang-rinzin",
+    "name": "Tshewang Rinzin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6223163?s=72&u=4d9d73de485ebbe5c6b1f568515efb65c7205dd1&v=4",
+    "location": "Thimphu, Bhutan",
+    "company": "@Cloud-Bhutan ",
+    "twitterUsername": "trigdzeen",
+    "followers": 13,
+    "privateContributions": 3158,
+    "publicContributions": 10,
+    "createdAt": "2013-12-19T13:49:45Z"
+  },
+  {
+    "login": "kxt5258",
+    "name": "Kinley Tshering",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4972422?s=72&u=3ae15b3f5015c80c50ddd1334d3d11a0ff8927b4&v=4",
+    "location": "Thimphu, Bhutan",
+    "company": "Druk Holding and Investments Limited",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 9,
+    "publicContributions": 0,
+    "createdAt": "2013-07-09T10:04:25Z"
+  },
+  {
+    "login": "pixelbhutan",
+    "name": "G.K Reddy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5268502?s=72&v=4",
+    "location": "Bhutan",
+    "company": "Pixel",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-20T09:13:36Z"
   }
 ]

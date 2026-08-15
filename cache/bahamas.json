@@ -2626,5 +2626,89 @@
     "privateContributions": 5,
     "publicContributions": 271,
     "createdAt": "2014-01-23T05:52:49Z"
+  },
+  {
+    "login": "zoejessica",
+    "name": "Zoë Smith",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3765594?s=72&v=4",
+    "location": "Bahamas / Canada",
+    "company": "@Basecamp",
+    "twitterUsername": "zoejessica",
+    "followers": 98,
+    "privateContributions": 1937,
+    "publicContributions": 21,
+    "createdAt": "2013-03-04T14:38:26Z"
+  },
+  {
+    "login": "ryaustin",
+    "name": "Ryan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4359874?s=72&u=bc89af542e3ba383bb616c41539af7859900c803&v=4",
+    "location": "Bahamas",
+    "company": "",
+    "twitterUsername": "ry_austin",
+    "followers": 13,
+    "privateContributions": 1324,
+    "publicContributions": 4,
+    "createdAt": "2013-05-07T01:05:05Z"
+  },
+  {
+    "login": "lmayorga1980",
+    "name": "lmayorga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3172378?s=72&u=1a14be7b438366215f416b024559f09de8c24304&v=4",
+    "location": "Bahamas",
+    "company": "Spearfishing Co.",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2013-01-02T21:26:32Z"
+  },
+  {
+    "login": "navarrobowe",
+    "name": "Navarro Bowe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5161398?s=72&v=4",
+    "location": "Exuma, Bahamas",
+    "company": "@AutomativeCloud ",
+    "twitterUsername": "bowenavarro",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2013-08-04T20:30:54Z"
+  },
+  {
+    "login": "yyp",
+    "name": "Yardie YPree",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3782877?s=72&v=4",
+    "location": "Nassau, Bahamas",
+    "company": "C3S Global",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-06T03:08:46Z"
+  },
+  {
+    "login": "Dexobox",
+    "name": "Dexobox",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5689143?s=72&v=4",
+    "location": "Bahamas",
+    "company": "Dexobox LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-15T07:51:32Z"
+  },
+  {
+    "login": "ImhotepII",
+    "name": "Charles Isaacs II",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5470879?s=72&u=4373dd75fc7ceef36335fdacbb3f28677cab92ff&v=4",
+    "location": "Nassau, The Bahamas",
+    "company": "Imhotep Industries",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-16T15:17:46Z"
   }
 ]
