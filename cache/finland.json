@@ -29314,5 +29314,41 @@
     "privateContributions": 2231,
     "publicContributions": 5,
     "createdAt": "2017-09-01T19:31:09Z"
+  },
+  {
+    "login": "Jimpsoni",
+    "name": "Jimi Jukkala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99808538?s=72&u=78fccf1f801226ff933d82febd7a546445e57b43&v=4",
+    "location": "Suomi, Jyväskylä",
+    "company": "Self-employed",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 20,
+    "publicContributions": 46,
+    "createdAt": "2022-02-16T12:27:17Z"
+  },
+  {
+    "login": "Brandonbosquez",
+    "name": "Brandon Bósquez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111736314?s=72&u=3fa3efb8fd3338acd90584694cfacff9527b2a74&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2022-08-22T08:24:00Z"
+  },
+  {
+    "login": "Sokruh",
+    "name": "Sogur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113192534?s=72&u=2f99073c9a956347e69e7084cc79ad0b6de1217a&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 120,
+    "publicContributions": 19,
+    "createdAt": "2022-09-09T14:28:16Z"
   }
 ]

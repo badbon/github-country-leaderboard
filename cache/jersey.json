@@ -346,5 +346,29 @@
     "privateContributions": 0,
     "publicContributions": 74,
     "createdAt": "2020-05-11T18:11:47Z"
+  },
+  {
+    "login": "jonnyjones99",
+    "name": "Jonny Jones",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72031997?s=72&u=fac8145eb7ebbf4f7d7b7693a0d516d08a44a6b1&v=4",
+    "location": "Jersey",
+    "company": "The Refinery",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1,
+    "publicContributions": 6,
+    "createdAt": "2020-09-28T15:09:47Z"
+  },
+  {
+    "login": "Bowles777",
+    "name": "Luke Bowles",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65882946?s=72&u=384812a914cf2ef3a9d80946e8367b5c034db05f&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 10,
+    "publicContributions": 49,
+    "createdAt": "2020-05-25T04:10:18Z"
   }
 ]

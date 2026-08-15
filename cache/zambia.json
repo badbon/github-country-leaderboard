@@ -15826,5 +15826,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-26T12:21:03Z"
+  },
+  {
+    "login": "sypher47",
+    "name": "Charles Mwanza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4950366?s=72&u=19501c077b501a80944d7221a7c2f88031b10fbb&v=4",
+    "location": "Lusaka",
+    "company": "Bigmynd",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2013-07-05T19:21:14Z"
+  },
+  {
+    "login": "BTembo",
+    "name": "BTembo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4801714?s=72&u=b6b1461d9953ab96034a28798b750388d80d077d&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2013-06-24T13:22:49Z"
+  },
+  {
+    "login": "apollo90",
+    "name": "Charles Mutale Jr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3212882?s=72&u=8be1f3d9fad6293365baa3e834685dd58e8c275e&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 108,
+    "publicContributions": 1,
+    "createdAt": "2013-01-08T05:34:41Z"
+  },
+  {
+    "login": "stevenbp",
+    "name": "Steven Bright",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4764326?s=72&u=4332802c04848cfc937169979dadf894a5955586&v=4",
+    "location": "Lusaka",
+    "company": "Perfect I.T",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2013-06-21T19:52:36Z"
+  },
+  {
+    "login": "vlightyear",
+    "name": "Victor Chulu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3233372?s=72&v=4",
+    "location": "Lusaka, Zam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2013-01-10T08:38:09Z"
+  },
+  {
+    "login": "chinedukoggu",
+    "name": "Chinedu Koggu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5876831?s=72&u=ba3f5a11b4f37fc8936a89e0769451fe1426f6c3&v=4",
+    "location": "Lusaka",
+    "company": "TechMasters Zambia Ltd | TechPAY",
+    "twitterUsername": "chinedukoggu",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2013-11-07T06:25:33Z"
   }
 ]

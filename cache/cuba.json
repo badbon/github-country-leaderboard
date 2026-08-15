@@ -14134,5 +14134,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-05-21T18:23:01Z"
+  },
+  {
+    "login": "ogtoledano",
+    "name": "Orlando Grabiel Toledano López",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19227426?s=72&u=585860d641338354b0ed542602c4e5d41f30cb47&v=4",
+    "location": "Havana",
+    "company": "Universidad de las Ciencias Informáticas",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 520,
+    "publicContributions": 17,
+    "createdAt": "2016-05-06T15:56:55Z"
+  },
+  {
+    "login": "seanmeissimilly",
+    "name": "Sean Meissimilly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24530127?s=72&u=0e1d7dc06a6f5fa745896d108ed9c237ac6b68ef&v=4",
+    "location": "La Havana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 1718,
+    "publicContributions": 29,
+    "createdAt": "2016-12-12T18:35:01Z"
+  },
+  {
+    "login": "gsi-emejias",
+    "name": "Enrique Mejías Álvarez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22683262?s=72&u=349939540516cb311018c61641b7a8ab60d99587&v=4",
+    "location": "Havana",
+    "company": "General Software Inc.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-07T14:46:02Z"
   }
 ]
