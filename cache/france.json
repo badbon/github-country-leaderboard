@@ -32206,5 +32206,41 @@
     "privateContributions": 3,
     "publicContributions": 13,
     "createdAt": "2025-07-23T05:32:33Z"
+  },
+  {
+    "login": "mdijoux",
+    "name": "Marc Dijoux",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2892381?s=72&u=03d25a2eac307e1835a61df7ddb8ec0cceacfa4d&v=4",
+    "location": "Réunion, France",
+    "company": "Simplon",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 27,
+    "publicContributions": 0,
+    "createdAt": "2012-11-26T13:37:13Z"
+  },
+  {
+    "login": "WesleyKln",
+    "name": "Wesley Kln",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42122563?s=72&u=035dfda7d03936311c9b1afaa38ce28c9ce4f381&v=4",
+    "location": "Saint Martin d'Hères, FRANCE",
+    "company": "",
+    "twitterUsername": "Wesley_Kln",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-08-05T20:27:51Z"
+  },
+  {
+    "login": "fjomaa38",
+    "name": "Fatima Jomaa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45047441?s=72&u=70505e612a4735136e1434adcebee9955190fd4f&v=4",
+    "location": "Saint-Martin-d'Hères, France",
+    "company": "Institut des Géosciences de l'Environnement (IGE)",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-14T19:01:22Z"
   }
 ]

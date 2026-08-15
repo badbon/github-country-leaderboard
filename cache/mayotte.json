@@ -82,5 +82,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-08-07T19:46:44Z"
+  },
+  {
+    "login": "anniou21",
+    "name": "Anniou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24396289?s=72&u=2e1c1ebf8526434053c4048253737f23d9f97b92&v=4",
+    "location": "Mayotte",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2016-12-05T19:46:04Z"
+  },
+  {
+    "login": "edesdoigts",
+    "name": "Emmanuel Desdoigts",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23238778?s=72&u=af3145515051237fe666ec145edecf4e93ff2da6&v=4",
+    "location": "Mayotte",
+    "company": "Radis",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-03T13:16:45Z"
+  },
+  {
+    "login": "shamounni",
+    "name": "Shamounni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17066423?s=72&u=823f0cb57adf538f5d7fd1c651b9c9c29f1cc959&v=4",
+    "location": "Mayotte",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-04T13:54:40Z"
   }
 ]
