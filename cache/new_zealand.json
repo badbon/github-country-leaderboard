@@ -36226,5 +36226,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-21T03:58:36Z"
+  },
+  {
+    "login": "steber05",
+    "name": "Stevie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42107935?s=72&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-08-05T06:33:37Z"
+  },
+  {
+    "login": "drewthedev9-tech",
+    "name": "Andrew Ormond",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45505005?s=72&u=f464e586f5fdde742d5a17304bca52dc6e676045&v=4",
+    "location": "Hamilton, New Zealand.",
+    "company": "Freelancer ( contractor)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-01T04:28:35Z"
+  },
+  {
+    "login": "Manthika",
+    "name": "Manthika Tharumudu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36242322?s=72&u=1bc611577bb14d1c3aee8aa0c2d1c085890b32f2&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2018-02-07T18:51:54Z"
   }
 ]

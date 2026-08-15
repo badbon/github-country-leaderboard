@@ -10603,7 +10603,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 62,
-    "privateContributions": 11975,
+    "privateContributions": 11985,
     "publicContributions": 0,
     "createdAt": "2019-09-16T13:28:30Z"
   },
@@ -11674,5 +11674,29 @@
     "privateContributions": 94,
     "publicContributions": 0,
     "createdAt": "2019-04-27T23:30:56Z"
+  },
+  {
+    "login": "amrtaleb",
+    "name": "Amr Taleb",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57676660?s=72&v=4",
+    "location": "Sana'a",
+    "company": "Ysys",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2019-11-12T15:43:00Z"
+  },
+  {
+    "login": "alhouidi",
+    "name": "Ahmed Shukri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55978664?s=72&u=091e3bb412fb03dc7f5a61d28e0db3453ab5729d&v=4",
+    "location": "Sana'a",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2019-09-30T09:25:50Z"
   }
 ]

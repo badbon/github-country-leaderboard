@@ -24286,5 +24286,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-07-07T06:39:51Z"
+  },
+  {
+    "login": "ahmedamr80",
+    "name": "Ahmed Amr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73707154?s=72&u=492e0c48845a04720c1ce007f0f89c94f69676c1&v=4",
+    "location": "Abu Dhabi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2020-10-30T14:52:38Z"
+  },
+  {
+    "login": "a-meriac",
+    "name": "André Meriac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62508688?s=72&u=d1eb25fffc629866ddaa0c43068854dbda70bbac&v=4",
+    "location": "Abu Dhabi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2020-03-22T14:03:33Z"
+  },
+  {
+    "login": "minghaoguo20",
+    "name": "Minghao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69155059?s=72&u=ab2f580eacc883fbbd33c834e5435f9d22ed7af5&v=4",
+    "location": "Abu Dhabi",
+    "company": "MBZUAI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2020-08-03T13:52:11Z"
+  },
+  {
+    "login": "ATIF2001",
+    "name": "Muhammad Atif",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67708852?s=72&u=8f525ef08813eb98f7d7240de51c40690bd57f53&v=4",
+    "location": "Abu Dhabi",
+    "company": "@Jovera Group",
+    "twitterUsername": "Atif50020359",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 90,
+    "createdAt": "2020-07-01T18:45:20Z"
   }
 ]

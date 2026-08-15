@@ -754,5 +754,101 @@
     "privateContributions": 0,
     "publicContributions": 251,
     "createdAt": "2020-11-11T22:34:56Z"
+  },
+  {
+    "login": "girish-io",
+    "name": "Girish Oemrawsingh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58818305?s=72&u=8ebd57b144f1ab2bfa8bf0becadee556a7978ba9&v=4",
+    "location": "Paramaribo, Suriname",
+    "company": "",
+    "twitterUsername": "girishio",
+    "followers": 12,
+    "privateContributions": 380,
+    "publicContributions": 0,
+    "createdAt": "2019-12-12T14:26:43Z"
+  },
+  {
+    "login": "Beefy-py",
+    "name": "Kenny Hoft",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52549888?s=72&u=0a05b8796904a6d999eb59c55fe4d21a9625f5a8&v=4",
+    "location": "Commwijne, Suriname",
+    "company": "The Key Initiative",
+    "twitterUsername": "beefykenny",
+    "followers": 12,
+    "privateContributions": 1620,
+    "publicContributions": 44,
+    "createdAt": "2019-07-04T22:14:59Z"
+  },
+  {
+    "login": "rlagadeau",
+    "name": "Rosano Lagadeau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47479567?s=72&v=4",
+    "location": "Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-09T15:20:28Z"
+  },
+  {
+    "login": "devbravo",
+    "name": "Diego Sabajo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57640751?s=72&u=4410c666d519759bca30518fe508576e74bcd266&v=4",
+    "location": "Paramaribo, Suriname",
+    "company": "ZennoAI",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 378,
+    "publicContributions": 372,
+    "createdAt": "2019-11-11T19:49:19Z"
+  },
+  {
+    "login": "JarEXE",
+    "name": "Jarome Eyken",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50882116?s=72&u=01b063fd1dfa0b27b15d86c4e7fd50f6b4ba510e&v=4",
+    "location": "Suriname",
+    "company": "Smart Secure Solutions N.V.",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 190,
+    "publicContributions": 7,
+    "createdAt": "2019-05-21T16:49:47Z"
+  },
+  {
+    "login": "iqre8",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57012516?s=72&u=c5c4996e3e03bc99bab025f929b795a0e7485982&v=4",
+    "location": "Suriname",
+    "company": "IQreate",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2019-10-25T16:43:11Z"
+  },
+  {
+    "login": "joruzu",
+    "name": "Jordi Setroinangoen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46936382?s=72&v=4",
+    "location": "Paramaribo, Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-01-22T17:46:53Z"
+  },
+  {
+    "login": "mars25",
+    "name": "Manuel Rivera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46721380?s=72&u=5c8ecfa3d8032928f3bf8ea875ba5e8b46d511aa&v=4",
+    "location": "Suriname",
+    "company": "AFOG Solutions",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2019-01-15T16:59:06Z"
   }
 ]

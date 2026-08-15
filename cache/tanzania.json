@@ -14398,5 +14398,101 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2020-02-18T20:21:36Z"
+  },
+  {
+    "login": "OumaNyang",
+    "name": "Ouma Nyang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67707007?s=72&u=3880a8e71b2c196101530f10d0221ca9779814b8&v=4",
+    "location": "Dodoma",
+    "company": "Azacloud Solutions",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 1310,
+    "publicContributions": 36,
+    "createdAt": "2020-07-01T17:53:41Z"
+  },
+  {
+    "login": "frank255",
+    "name": "Frank Ilunga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64634701?s=72&u=ce68f8d610bb0198fbfb7068925024cf0bf6291c&v=4",
+    "location": "UDOM,DODOMA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-01T08:38:12Z"
+  },
+  {
+    "login": "adevotus",
+    "name": "Adevotus Dickson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73017158?s=72&u=25f15cdd09d18cfa1c79599a990de8712616b8ea&v=4",
+    "location": "Dar es salaam and Dodoma city",
+    "company": "AdeWeb",
+    "twitterUsername": "adevoweb",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2020-10-17T08:41:35Z"
+  },
+  {
+    "login": "robertotonde",
+    "name": "BOB",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64398864?s=72&u=4b3b0b0d4b371438f49a7163ae564e1995631fdb&v=4",
+    "location": "Dodoma",
+    "company": "OTONDE TECH",
+    "twitterUsername": "Robert_Otonde",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-27T06:48:01Z"
+  },
+  {
+    "login": "Enowizzy",
+    "name": "Enock Mussa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75658631?s=72&u=cc47e5ed3c1d5ba4c2e4714a512b23d52ac476cd&v=4",
+    "location": "Dodoma",
+    "company": "JideX Inc.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 388,
+    "publicContributions": 2,
+    "createdAt": "2020-12-08T05:24:44Z"
+  },
+  {
+    "login": "elia102",
+    "name": "Mayenga Malambi Kilulu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73542813?s=72&u=6542e467344974f70d8ac757ac7e6efac4d3e120&v=4",
+    "location": "Dodoma city",
+    "company": "Udom",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-27T14:52:34Z"
+  },
+  {
+    "login": "moses6mund",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71703748?s=72&u=5aed4dd8d90fb56833f5ae4fefbc396b3f7f5965&v=4",
+    "location": "Dodoma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2020-09-22T11:08:26Z"
+  },
+  {
+    "login": "msongoro",
+    "name": "idriss.tz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76127347?s=72&u=f4c45366b54d814f063fa1ef2ad163c36da29b84&v=4",
+    "location": "Dodoma",
+    "company": "TEMESA-DEVELOPER",
+    "twitterUsername": "idriss",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-16T19:28:07Z"
   }
 ]

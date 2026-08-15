@@ -2974,5 +2974,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-06-23T13:40:37Z"
+  },
+  {
+    "login": "totalkyos",
+    "name": "kai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20483535?s=72&u=73c3583af686a695a9feb7f45878c91081b9fc51&v=4",
+    "location": "san juan , trinidad&tobago",
+    "company": "totallykyotic",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-15T23:06:24Z"
+  },
+  {
+    "login": "uelSmall",
+    "name": "U'el Azdrian Small",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/600903?s=72&u=781c98282e9592b09e89d79ef3986c6155ddc9a0&v=4",
+    "location": "Trinidad and Tobago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2011-02-04T18:31:10Z"
+  },
+  {
+    "login": "mreid-tt",
+    "name": "Michael Reid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/943378?s=72&v=4",
+    "location": "Trinidad and Tobago",
+    "company": "",
+    "twitterUsername": "mreid_tt",
+    "followers": 10,
+    "privateContributions": 184,
+    "publicContributions": 883,
+    "createdAt": "2011-07-28T01:57:39Z"
+  },
+  {
+    "login": "Devon-Olivier",
+    "name": "Devon Olivier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/999431?s=72&v=4",
+    "location": "Trinidad and Tobago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2011-08-23T16:31:11Z"
+  },
+  {
+    "login": "snorkpete",
+    "name": "Kion Stephen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1041493?s=72&u=517250a9f405f713f1988259be86ca6c24b08cf6&v=4",
+    "location": "Trinidad and Tobago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1420,
+    "createdAt": "2011-09-10T22:48:17Z"
+  },
+  {
+    "login": "bbhikarry",
+    "name": "Bertrand Bhikarry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/826334?s=72&v=4",
+    "location": "Trinidad and Tobago",
+    "company": "",
+    "twitterUsername": "bhikarryb",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2011-06-02T22:15:00Z"
   }
 ]

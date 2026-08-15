@@ -6346,5 +6346,89 @@
     "privateContributions": 0,
     "publicContributions": 37,
     "createdAt": "2020-01-13T14:21:25Z"
+  },
+  {
+    "login": "JonathanMonga",
+    "name": "Jomo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16438669?s=72&u=ceaa811763e6aa998c9a08b725dce86a4e4427fe&v=4",
+    "location": "Lubumbashi, Katanga, DR Congo",
+    "company": "@MastaGate",
+    "twitterUsername": "jonathan_monga",
+    "followers": 216,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2015-12-25T18:35:30Z"
+  },
+  {
+    "login": "josamuna",
+    "name": "Josue Isamuna Nkembo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15903230?s=72&u=d48faa58a73faa6d2dc8b55dad887e8070ef98aa&v=4",
+    "location": "Democratic Republic of the Congo",
+    "company": "ISIG Goma / DRC",
+    "twitterUsername": "josamuna",
+    "followers": 55,
+    "privateContributions": 0,
+    "publicContributions": 766,
+    "createdAt": "2015-11-18T06:54:56Z"
+  },
+  {
+    "login": "hamswaldenkv",
+    "name": "Hams Kuveluka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11094772?s=72&u=9cc7b76eddf823557586cfac398405ec3a57b50c&v=4",
+    "location": "Congo Kinshasa",
+    "company": "",
+    "twitterUsername": "hamsddxn",
+    "followers": 13,
+    "privateContributions": 1194,
+    "publicContributions": 30,
+    "createdAt": "2015-02-20T18:16:05Z"
+  },
+  {
+    "login": "wajaja",
+    "name": "Cedrick Ngeja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10998106?s=72&u=8233b6b72bf91bea83d44fea9c9546de6d51d443&v=4",
+    "location": "DR Congo",
+    "company": "Translator",
+    "twitterUsername": "CedrickNgeja",
+    "followers": 5,
+    "privateContributions": 595,
+    "publicContributions": 25,
+    "createdAt": "2015-02-13T20:05:58Z"
+  },
+  {
+    "login": "kashindipierre",
+    "name": "Kashindi Pierre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12598913?s=72&u=213b200b0485048fc19f37e6e3eaadb13dcbecea&v=4",
+    "location": "Goma, Democratic Republic of Congo",
+    "company": "XiData.io",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-25T16:40:30Z"
+  },
+  {
+    "login": "badibm01",
+    "name": "Michel Badibanga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11588759?s=72&v=4",
+    "location": "Kinshasa, République Démocratique du Congo",
+    "company": "EIMS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-21T18:36:12Z"
+  },
+  {
+    "login": "GomaDevs",
+    "name": "Team243",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16046943?s=72&v=4",
+    "location": "Goma/Nord-Kivu/ Democratic Republic of Congo",
+    "company": "GDG Goma",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-27T12:49:07Z"
   }
 ]
