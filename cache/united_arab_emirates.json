@@ -19242,7 +19242,7 @@
     "location": "United Arab Emirates",
     "company": "Dubai",
     "twitterUsername": "",
-    "followers": 41,
+    "followers": 50,
     "privateContributions": 404,
     "publicContributions": 928,
     "createdAt": "2020-07-18T09:13:50Z"
@@ -19483,8 +19483,8 @@
     "company": "Dubai",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 122,
-    "publicContributions": 117,
+    "privateContributions": 123,
+    "publicContributions": 118,
     "createdAt": "2020-09-23T09:13:33Z"
   },
   {
@@ -19615,7 +19615,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 2109,
+    "privateContributions": 2121,
     "publicContributions": 556,
     "createdAt": "2020-04-28T21:12:56Z"
   },
@@ -19759,7 +19759,7 @@
     "company": "eyb.ae",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1833,
+    "privateContributions": 1834,
     "publicContributions": 523,
     "createdAt": "2020-12-02T13:19:27Z"
   },
@@ -19999,7 +19999,7 @@
     "company": "Controlshift",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 995,
+    "privateContributions": 999,
     "publicContributions": 1,
     "createdAt": "2020-08-17T13:37:36Z"
   },
@@ -22294,5 +22294,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-08T01:58:39Z"
+  },
+  {
+    "login": "Salehnaz",
+    "name": "Salehnaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65551578?s=72&u=dbdb09ade7e25aace168284bee315d728c0718aa&v=4",
+    "location": "Dubai , United Arab Emirates",
+    "company": "Al Faris International Group",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2020-05-18T14:24:25Z"
   }
 ]

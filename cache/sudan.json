@@ -6679,7 +6679,7 @@
     "company": "@firewireio",
     "twitterUsername": "blacksud0",
     "followers": 23,
-    "privateContributions": 392,
+    "privateContributions": 393,
     "publicContributions": 15,
     "createdAt": "2017-09-12T17:22:36Z"
   },
@@ -7270,5 +7270,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-10-18T15:52:20Z"
+  },
+  {
+    "login": "Alix997",
+    "name": "Ali Omer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29065266?s=72&u=021ef10f0c6ed0bfea82bdcce2f0a81932910153&v=4",
+    "location": "Khartoum",
+    "company": "@Parallax",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2017-05-30T14:25:50Z"
+  },
+  {
+    "login": "fakhrisati",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32840782?s=72&u=f2576c1c690cda95b11b802438bb582fd7f6c1a8&v=4",
+    "location": "Khartoum",
+    "company": "SabalHolding",
+    "twitterUsername": "fakhriboto",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-16T12:42:21Z"
   }
 ]

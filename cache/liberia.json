@@ -2326,5 +2326,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-11-09T21:45:37Z"
+  },
+  {
+    "login": "Ravenstine",
+    "name": "Ten Bitcomb",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5193330?s=72&u=bb7673cef8b120085ab4c64d873e454ba53ef028&v=4",
+    "location": "Monrovia, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2013-08-08T22:16:50Z"
+  },
+  {
+    "login": "surfacepatterns",
+    "name": "Devin Anderson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3633252?s=72&u=4b0224210d91875f57794289d636e5262129d301&v=4",
+    "location": "Monrovia, CA., US",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2013-02-19T04:44:46Z"
+  },
+  {
+    "login": "rclancey",
+    "name": "Ryan Clancey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4420120?s=72&u=cb97f121a77bf8ebf18c8f2e641d21f7b494800b&v=4",
+    "location": "Monrovia, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2013-05-13T18:25:12Z"
+  },
+  {
+    "login": "reykroona",
+    "name": "Rey Kroona",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4141651?s=72&u=588482ea5de92e4e30bea4013a9a908ccb8ef8cf&v=4",
+    "location": "Monrovia, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2013-04-12T23:47:05Z"
   }
 ]

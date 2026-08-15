@@ -166,5 +166,29 @@
     "privateContributions": 0,
     "publicContributions": 134,
     "createdAt": "2016-07-25T16:58:08Z"
+  },
+  {
+    "login": "rbouikila",
+    "name": "el pekenio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4258294?s=72&v=4",
+    "location": "Saint Pierre du Perray",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-04-25T18:27:31Z"
+  },
+  {
+    "login": "adriencastan",
+    "name": "Adrien Castan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5070952?s=72&u=9aa1e8bf75d81dd6de89bf24e7780c06ff7f0124&v=4",
+    "location": "Saint Pierre de Lages",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-23T07:07:55Z"
   }
 ]

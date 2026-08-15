@@ -1282,5 +1282,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-09T11:04:43Z"
+  },
+  {
+    "login": "kimjongum",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77287224?s=72&u=76ba4884310a36090f2843455000a8e8454a7fa9&v=4",
+    "location": "Pyongyang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-11T15:37:11Z"
+  },
+  {
+    "login": "stevboiii",
+    "name": "callisto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88640227?s=72&u=0279d355c3eca8de0b1fdc317f2558c39d6ba7ad&v=4",
+    "location": "pyongyang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1,
+    "publicContributions": 52,
+    "createdAt": "2021-08-09T02:19:57Z"
+  },
+  {
+    "login": "Blendyyy",
+    "name": "Blendyyy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96143294?s=72&u=56dd2caa7df01c3e3e77a42ccc830ae1faa470f1&v=4",
+    "location": "Pyongyang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 48,
+    "publicContributions": 9,
+    "createdAt": "2021-12-14T19:02:41Z"
+  },
+  {
+    "login": "kim-hong-gye",
+    "name": "Gen. Kim Chaek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85395910?s=72&u=6332e97cd917a6369d9c9fa193a1e01e3a12b816&v=4",
+    "location": "Pyongyang",
+    "company": "@kcut",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-05T11:35:47Z"
   }
 ]

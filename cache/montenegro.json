@@ -8959,8 +8959,8 @@
     "company": "QuantFlow",
     "twitterUsername": "",
     "followers": 48,
-    "privateContributions": 1943,
-    "publicContributions": 8449,
+    "privateContributions": 1952,
+    "publicContributions": 8453,
     "createdAt": "2013-09-02T00:14:22Z"
   },
   {
@@ -9355,7 +9355,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5794,
+    "privateContributions": 5795,
     "publicContributions": 0,
     "createdAt": "2013-12-19T22:47:46Z"
   },
@@ -9418,5 +9418,77 @@
     "privateContributions": 679,
     "publicContributions": 48,
     "createdAt": "2013-11-07T18:39:20Z"
+  },
+  {
+    "login": "nikolalj",
+    "name": "Nikola Ljumovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5724803?s=72&u=151891800406753f91676dd88ab56b0c57da8150&v=4",
+    "location": "Podgorica",
+    "company": "Codeus",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2013-10-19T11:20:23Z"
+  },
+  {
+    "login": "smallcreep",
+    "name": "Ilia Rogozhin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5305846?s=72&u=9f16e055d26e5d48b6d7e82a870693d24780901c&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-25T12:27:56Z"
+  },
+  {
+    "login": "TrickMist",
+    "name": "Ivan Mitrić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3218361?s=72&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-08T18:14:37Z"
+  },
+  {
+    "login": "pavlefuture",
+    "name": "Pavle Vujosevic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6035421?s=72&u=d249194dcad1633b7b550d79c506a130c9bbeb4c&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-25T22:22:21Z"
+  },
+  {
+    "login": "daniloradovic",
+    "name": "Danilo Radovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3967558?s=72&u=65447f4d67631b3864ecf2358cf3425f57412227&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "postar_danjo",
+    "followers": 3,
+    "privateContributions": 926,
+    "publicContributions": 239,
+    "createdAt": "2013-03-25T18:50:46Z"
+  },
+  {
+    "login": "AShandrakov",
+    "name": "Artyom",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4919741?s=72&u=104112e36e9f6d7ba439a7ef226fc85ae9fea694&v=4",
+    "location": "Podgorica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-02T09:25:55Z"
   }
 ]

@@ -34810,5 +34810,101 @@
     "privateContributions": 0,
     "publicContributions": 53,
     "createdAt": "2024-05-22T18:17:41Z"
+  },
+  {
+    "login": "ortegafran97",
+    "name": "Franco Ortega",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31488989?s=72&u=d0631dfd84f7866d7269fcd3a07e9d8164b21c1c&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1006,
+    "publicContributions": 2,
+    "createdAt": "2017-08-30T19:52:00Z"
+  },
+  {
+    "login": "bio-rers",
+    "name": "Rodolfo Eduardo Rodríguez Schmädke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26233005?s=72&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "biorers",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-06T20:17:03Z"
+  },
+  {
+    "login": "joseperez99",
+    "name": "José Perez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31294105?s=72&u=837cf250f199140566fa0bff950f1bc49cf2f689&v=4",
+    "location": "San Juan, Argentina",
+    "company": "UNSJ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-23T22:25:06Z"
+  },
+  {
+    "login": "Isaias077",
+    "name": "Isaías Yafar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27829924?s=72&u=5c792d4fe35813ffe2cd902593d69707941a6747&v=4",
+    "location": "San Juan, Argentina",
+    "company": "<NamUs Software",
+    "twitterUsername": "isaiassyf",
+    "followers": 3,
+    "privateContributions": 185,
+    "publicContributions": 18,
+    "createdAt": "2017-04-20T20:35:08Z"
+  },
+  {
+    "login": "MarceloAmado",
+    "name": "Marcelo Javier Amado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26962082?s=72&u=6a64a8fb8ef6077d482e889a663323cd4de61d8c&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2017-04-06T10:20:52Z"
+  },
+  {
+    "login": "mazaluis",
+    "name": "Luis Maza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33235845?s=72&u=eee82aa1968a63ea962fcba75051f4922e55d040&v=4",
+    "location": "San Juan, Argentina",
+    "company": "Simplecs",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-30T20:48:32Z"
+  },
+  {
+    "login": "andpetronio",
+    "name": "Andrés Petronio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25674399?s=72&u=a15162ede878b943b67117e89d4ee15ce1268cc3&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 321,
+    "createdAt": "2017-02-09T23:13:35Z"
+  },
+  {
+    "login": "edgrosso",
+    "name": "Enzo Daniel Grosso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26491736?s=72&u=2485a256af14b2a8ae62ae6638b7e681ebca4b7c&v=4",
+    "location": "San Juan, Argentina",
+    "company": "@cima-it",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-17T19:37:36Z"
   }
 ]

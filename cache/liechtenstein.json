@@ -898,5 +898,65 @@
     "privateContributions": 979,
     "publicContributions": 0,
     "createdAt": "2017-11-13T16:58:57Z"
+  },
+  {
+    "login": "niklasfrick",
+    "name": "Niklas Frick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19509178?s=72&u=79dd3fe72419383425a6f6f0e3fa459cd09134c0&v=4",
+    "location": "Liechtenstein",
+    "company": "@theplatformengineeringcompany",
+    "twitterUsername": "FrickNiklas",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 1035,
+    "createdAt": "2016-05-21T19:51:57Z"
+  },
+  {
+    "login": "xGreeny",
+    "name": "Flurin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23317392?s=72&u=8ab89b9f6813e36bb7a763cebe73c779e6cbd66f&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 95,
+    "publicContributions": 179,
+    "createdAt": "2016-11-07T16:06:31Z"
+  },
+  {
+    "login": "asiopueo",
+    "name": "Martin Lippl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17931016?s=72&u=461758a0de91a5f337e208bebbc9ab6911724f3c&v=4",
+    "location": "Liechtenstein, Switzerland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 11,
+    "publicContributions": 43,
+    "createdAt": "2016-03-18T15:31:30Z"
+  },
+  {
+    "login": "SethReeve",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21084418?s=72&u=38fc3f14a2b96f35f5d1ba47b4a79f1ff327b8d1&v=4",
+    "location": "Liechtenstein, Vaduz",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-17T15:01:14Z"
+  },
+  {
+    "login": "ukhan717",
+    "name": "u.khan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16636313?s=72&u=df2244119ec43435450338909abae2bad9f3982d&v=4",
+    "location": "Liechtenstein",
+    "company": "NTi Audio AG",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 93,
+    "createdAt": "2016-01-10T17:27:55Z"
   }
 ]

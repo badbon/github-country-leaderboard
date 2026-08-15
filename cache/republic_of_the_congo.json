@@ -3022,5 +3022,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-03-08T18:52:36Z"
+  },
+  {
+    "login": "Justany",
+    "name": "Justany ITOUA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32221808?s=72&u=1ad58bcd9ceb4d54eb97a3ade4f56db03d098d2c&v=4",
+    "location": "Brazzaville",
+    "company": "Confort 7 incubateur",
+    "twitterUsername": "justany_itoua",
+    "followers": 9,
+    "privateContributions": 2906,
+    "publicContributions": 97,
+    "createdAt": "2017-09-23T13:33:52Z"
+  },
+  {
+    "login": "Ngouabira",
+    "name": "Valdy NGOUABIRA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31518046?s=72&u=6473d7f9468ebdb2d56c12e898084c23d3814c32&v=4",
+    "location": "Brazzaville ",
+    "company": "Opentotech",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2017-08-31T17:54:25Z"
+  },
+  {
+    "login": "Mukinayi",
+    "name": "Mukinayi Kasalu Seth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25089798?s=72&u=055d649a695160cca15f92b1fd2d20dd9e644946&v=4",
+    "location": "Brazzaville",
+    "company": "ACSI (Agence Congolaise des Systèmes d'Informations)",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-12T21:51:13Z"
+  },
+  {
+    "login": "rynolds",
+    "name": "RYNOLDS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33058594?s=72&v=4",
+    "location": "brazzaville",
+    "company": "YEKOLAB",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-24T11:41:41Z"
   }
 ]

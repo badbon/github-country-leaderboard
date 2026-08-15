@@ -1606,5 +1606,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-12-14T18:09:10Z"
+  },
+  {
+    "login": "cholthi",
+    "name": "cholthipaul",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4463755?s=72&v=4",
+    "location": "Juba, South Sudan",
+    "company": "JunubSMS",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2013-05-18T09:27:22Z"
+  },
+  {
+    "login": "mubarack",
+    "name": "Mubarack",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5739249?s=72&v=4",
+    "location": "Juba South Sudan",
+    "company": "Cyberforge Innovations Limted",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-21T16:16:16Z"
   }
 ]

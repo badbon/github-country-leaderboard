@@ -718,5 +718,41 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2020-06-08T15:11:44Z"
+  },
+  {
+    "login": "CreativeYudai",
+    "name": "Yudai Heber",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70661045?s=72&u=643272d4ca5b267971dcf4e267a76e3211235b30&v=4",
+    "location": "Paramaribo",
+    "company": "StayDirect",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 1602,
+    "publicContributions": 1,
+    "createdAt": "2020-09-02T18:35:16Z"
+  },
+  {
+    "login": "JhonatanJavierDev",
+    "name": "Jhonatan Javier Corella Pérez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74806674?s=72&u=618954577668e9187c6a0ee829f6081d5bcf6ec3&v=4",
+    "location": "Paramaribo",
+    "company": "EndaCore Software",
+    "twitterUsername": "jhon_corella",
+    "followers": 27,
+    "privateContributions": 1377,
+    "publicContributions": 10,
+    "createdAt": "2020-11-21T04:37:24Z"
+  },
+  {
+    "login": "JustinDouglas16",
+    "name": "Justin Douglas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74329413?s=72&u=cfa8f65850df9c810c4769c85b115a70e4a1d57f&v=4",
+    "location": "Paramaribo",
+    "company": "Software Engineer Student",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 251,
+    "createdAt": "2020-11-11T22:34:56Z"
   }
 ]
