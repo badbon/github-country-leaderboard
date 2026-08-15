@@ -17830,5 +17830,101 @@
     "privateContributions": 82,
     "publicContributions": 3,
     "createdAt": "2020-10-12T20:51:19Z"
+  },
+  {
+    "login": "LJanketic",
+    "name": "Luka Janketić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72384621?s=72&u=b5a69aa0253fc887f02c0a91c293aab9b2515675&v=4",
+    "location": "Split, Hrvatska",
+    "company": "Studion",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 145,
+    "publicContributions": 18,
+    "createdAt": "2020-10-05T09:49:20Z"
+  },
+  {
+    "login": "krawiec93",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67972622?s=72&v=4",
+    "location": "Republika Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-07-07T17:13:40Z"
+  },
+  {
+    "login": "tonesija",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75910705?s=72&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-12T19:47:37Z"
+  },
+  {
+    "login": "dorianperic",
+    "name": "Dorian Perić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72571058?s=72&u=e80ead115323c7d09a02cb0e991bb18104e8c890&v=4",
+    "location": "Split, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 450,
+    "publicContributions": 0,
+    "createdAt": "2020-10-08T17:07:01Z"
+  },
+  {
+    "login": "DavidMaglica",
+    "name": "David",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60017346?s=72&u=b3a6ad942243e6451fff0d805ebdd3ae38414575&v=4",
+    "location": "Poreč, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 83,
+    "publicContributions": 34,
+    "createdAt": "2020-01-17T20:26:53Z"
+  },
+  {
+    "login": "LukaMarsic",
+    "name": "Bradoljuti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73958671?s=72&u=0d6a9d4ddaaf1bcd16954334a4d9f88899bb41dc&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-04T17:14:23Z"
+  },
+  {
+    "login": "antonio-dropulic",
+    "name": "Antonio Dropulic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59646584?s=72&u=e5916a42fe15de4f722fca28be7c47a85e747b3c&v=4",
+    "location": "Split, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 1,
+    "createdAt": "2020-01-08T10:10:47Z"
+  },
+  {
+    "login": "kdreznjak",
+    "name": "Kristian Drežnjak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75980268?s=72&u=62bd2ba905178ce0aba69c95a55e4a8ba69072af&v=4",
+    "location": "Zagreb, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-14T10:28:55Z"
   }
 ]

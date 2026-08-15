@@ -12958,5 +12958,29 @@
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2018-12-08T20:47:52Z"
+  },
+  {
+    "login": "JaviRamosLab",
+    "name": "Javier Ramos Nistal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43531047?s=72&u=b0eef7de8f092e76e64afaee9ddc83ea046d9209&v=4",
+    "location": "Havana",
+    "company": "Wikimedia Esperanto",
+    "twitterUsername": "JaviRamosLab",
+    "followers": 14,
+    "privateContributions": 943,
+    "publicContributions": 49,
+    "createdAt": "2018-09-24T05:22:10Z"
+  },
+  {
+    "login": "humankernel",
+    "name": "strange",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38800238?s=72&u=1f3b7993c3cdaf74f25dc2958dc4293c58d87ccc&v=4",
+    "location": "Havana",
+    "company": "",
+    "twitterUsername": "strangedevel",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2018-04-28T01:13:05Z"
   }
 ]

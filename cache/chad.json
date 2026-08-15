@@ -2074,5 +2074,29 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2018-07-12T07:51:15Z"
+  },
+  {
+    "login": "Djangrang",
+    "name": "DJANGRANG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36698966?s=72&v=4",
+    "location": "Tchad",
+    "company": "Université de Moundou",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-21T12:19:40Z"
+  },
+  {
+    "login": "tchadownet",
+    "name": "Tchackers ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39524702?s=72&v=4",
+    "location": "Tchad ",
+    "company": "NetSystemes ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-22T13:30:40Z"
   }
 ]

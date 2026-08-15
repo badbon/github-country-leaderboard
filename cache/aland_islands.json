@@ -394,5 +394,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-14T08:10:31Z"
+  },
+  {
+    "login": "janisjolund",
+    "name": "Jani Sjölund",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43601151?s=72&v=4",
+    "location": "Åland Islands",
+    "company": "Paf",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-09-26T08:02:37Z"
+  },
+  {
+    "login": "tommybarden",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40164022?s=72&u=9305c7d208af16631a2b87342cba6305626640df&v=4",
+    "location": "Åland Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 54,
+    "publicContributions": 12,
+    "createdAt": "2018-06-11T08:20:23Z"
   }
 ]

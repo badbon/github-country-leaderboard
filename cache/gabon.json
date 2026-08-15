@@ -3116,7 +3116,7 @@
     "twitterUsername": "BibangJoseph",
     "followers": 33,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 27,
     "createdAt": "2016-06-17T21:01:54Z"
   },
   {
@@ -3322,5 +3322,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-07-23T07:46:08Z"
+  },
+  {
+    "login": "mawuva",
+    "name": "Ephraïm SEDDOR",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22901277?s=72&u=f38375c9386043ce745c1094923c708ac74b95cf&v=4",
+    "location": "Libreville, Lomé",
+    "company": "",
+    "twitterUsername": "ephraimseddor",
+    "followers": 80,
+    "privateContributions": 118,
+    "publicContributions": 233,
+    "createdAt": "2016-10-18T02:06:57Z"
+  },
+  {
+    "login": "Marseven",
+    "name": "Aristide Mebodo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18088746?s=72&u=53df1c07b98ca9a678b229b4a47f063541c2ab59&v=4",
+    "location": "Libreville",
+    "company": "Mood",
+    "twitterUsername": "aristidemebodo",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 1993,
+    "createdAt": "2016-03-26T16:27:52Z"
+  },
+  {
+    "login": "Gyldas",
+    "name": "Gyldas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17571439?s=72&u=a1b0c8ba7d169ffae97a58715a3782a1ef348e61&v=4",
+    "location": "Libreville",
+    "company": "G-concept",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-01T14:38:32Z"
+  },
+  {
+    "login": "ngomtanouba",
+    "name": "NGOMTANOUBA Barthelemy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20743128?s=72&u=e47b41617d71696b49335fad91139b9c40e9739e&v=4",
+    "location": "Libreville",
+    "company": "NTIC Service",
+    "twitterUsername": "NgomtanoubaB",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-30T16:45:33Z"
+  },
+  {
+    "login": "alysterlendira",
+    "name": "Alyster Lendira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22837464?s=72&u=f7911dd504f37e3863e01c7edbb723f081d5dab6&v=4",
+    "location": "Libreville",
+    "company": "We Make Digital",
+    "twitterUsername": "alysterlendira",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-14T12:04:44Z"
+  },
+  {
+    "login": "DylaneJC",
+    "name": "Dylane EBANG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17951389?s=72&u=bb1a81009d4e5e484977da4871c2de7c0c5786fc&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2016-03-19T16:26:13Z"
+  },
+  {
+    "login": "Ibrahimahadi",
+    "name": "Ibrahimahadi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20743569?s=72&u=1e3b5fe76bc7b4a7aa66624d301a8466dddef891&v=4",
+    "location": "Libreville",
+    "company": "African Informatical Innovation Co",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-30T17:10:02Z"
+  },
+  {
+    "login": "emmanuel-tnc",
+    "name": "J. Emmanuel MAMBELA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22094740?s=72&u=b6f16d80415385219dae73a98e7b06c98dc4651d&v=4",
+    "location": "Libreville",
+    "company": "The Nature Conservancy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-09T08:28:19Z"
   }
 ]

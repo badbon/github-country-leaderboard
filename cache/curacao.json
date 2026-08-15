@@ -118,5 +118,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-06T15:37:10Z"
+  },
+  {
+    "login": "mvdgun",
+    "name": "Mauro van der Gun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51729581?s=72&u=56601a9dcceabf4a7248850c947dbc46c1ffbb20&v=4",
+    "location": "Curaçao",
+    "company": "@business-one ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 4212,
+    "publicContributions": 31,
+    "createdAt": "2019-06-12T02:21:06Z"
+  },
+  {
+    "login": "kloostermanw",
+    "name": "Wiebe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50216197?s=72&u=bbb87309bfb967a171f38f592d718011fd5066fd&v=4",
+    "location": "Willemstad, Curaçao",
+    "company": "",
+    "twitterUsername": "wiebe1971",
+    "followers": 2,
+    "privateContributions": 3113,
+    "publicContributions": 378,
+    "createdAt": "2019-05-02T18:49:16Z"
+  },
+  {
+    "login": "Riick97",
+    "name": "Ulric Ricardo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59068379?s=72&u=f1b27239427e903f77070b540be0d0d6158f645f&v=4",
+    "location": "Curaçao",
+    "company": "Wulf.",
+    "twitterUsername": "UlricRicardo",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-19T21:03:02Z"
+  },
+  {
+    "login": "brickglobal",
+    "name": "Brick Global",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55535186?s=72&u=2d1f97297fe6a847f5438c3972150c12a99c75c5&v=4",
+    "location": "Curaçao",
+    "company": "Brick Global B.V",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-19T09:22:39Z"
   }
 ]
