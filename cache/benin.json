@@ -5602,5 +5602,65 @@
     "privateContributions": 0,
     "publicContributions": 2435,
     "createdAt": "2014-04-01T19:31:48Z"
+  },
+  {
+    "login": "okobsamoht",
+    "name": "Thomas BOKO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5099481?s=72&u=e370edeb437936676e83ad73303d04c7c5f1453a&v=4",
+    "location": "Cotonou, BENIN",
+    "company": "",
+    "twitterUsername": "okobsamoht",
+    "followers": 60,
+    "privateContributions": 1,
+    "publicContributions": 15,
+    "createdAt": "2013-07-26T21:03:12Z"
+  },
+  {
+    "login": "maxoreli",
+    "name": "Charbel TCHIAKPE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4845814?s=72&u=ba2c996dfd498a60b99889c29ae1d49abadaff71&v=4",
+    "location": "Benin,Cotonou",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-27T05:34:30Z"
+  },
+  {
+    "login": "thetallralph",
+    "name": "Ralph GNONLONFOUN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5084657?s=72&u=0470b359c71ef62c42544b450e0859efb6a0bad5&v=4",
+    "location": "Benin",
+    "company": "Beans",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 693,
+    "publicContributions": 81,
+    "createdAt": "2013-07-24T21:45:44Z"
+  },
+  {
+    "login": "misterbryan",
+    "name": "Briand IDOSSOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5509619?s=72&u=c323278d7ba7861d7e7cd032cbc256dad81a543f&v=4",
+    "location": "Benin",
+    "company": "Ibrini",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-21T20:49:36Z"
+  },
+  {
+    "login": "biaokelvin",
+    "name": "kelvin Biao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4622744?s=72&u=167a843aded2d2cba79f41af7c590e2115025f8b&v=4",
+    "location": "Cotonou,Benin",
+    "company": "Convergence Afrique",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-05T16:41:00Z"
   }
 ]

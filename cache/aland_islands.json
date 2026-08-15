@@ -430,5 +430,41 @@
     "privateContributions": 3601,
     "publicContributions": 1194,
     "createdAt": "2017-11-28T22:11:38Z"
+  },
+  {
+    "login": "sailordi",
+    "name": "Sailordi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18734845?s=72&u=ae321e909a0ae88b0960411d66e54fc24b2c5373&v=4",
+    "location": "Mariehamn Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-29T08:31:18Z"
+  },
+  {
+    "login": "eMakerStudio",
+    "name": "Barbara Hohensee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18331677?s=72&u=cbf6576e4f1f056e8631fb43eb1da97915768297&v=4",
+    "location": "Mariehamn, Åland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-04-07T14:50:50Z"
+  },
+  {
+    "login": "hartvik",
+    "name": "Thomas Hartvik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23115260?s=72&u=a6e76e18fadcb78af19c673019fbaa32213a0cc4&v=4",
+    "location": "Mariehamn Åland Finland",
+    "company": "Brännskär Consulting",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-28T07:09:09Z"
   }
 ]

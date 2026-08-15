@@ -15958,5 +15958,41 @@
     "privateContributions": 0,
     "publicContributions": 75,
     "createdAt": "2012-09-15T15:03:21Z"
+  },
+  {
+    "login": "makandok",
+    "name": "Zed Coder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1903359?s=72&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-06-28T17:50:50Z"
+  },
+  {
+    "login": "gurum3m",
+    "name": "Mabvuto Mwale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1543661?s=72&v=4",
+    "location": "Lusaka",
+    "company": "UNICEF",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-16T10:52:32Z"
+  },
+  {
+    "login": "jbmutale",
+    "name": "Jacob Mutale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1741361?s=72&v=4",
+    "location": "Lusaka",
+    "company": "ZTS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-05-15T08:28:39Z"
   }
 ]

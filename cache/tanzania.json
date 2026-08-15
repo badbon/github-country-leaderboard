@@ -15800,7 +15800,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 184,
     "createdAt": "2019-08-21T20:31:05Z"
   },
   {
@@ -16834,5 +16834,53 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2019-10-23T19:04:13Z"
+  },
+  {
+    "login": "udom-ai",
+    "name": "UDOM AI COMMUNITY ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50160534?s=72&u=7fba8c97b461fc4fc1d8fbfecdb7b620bc1a15b3&v=4",
+    "location": "University  Of Dodoma ",
+    "company": "Udom Ai Community",
+    "twitterUsername": "udomaic",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-01T02:51:07Z"
+  },
+  {
+    "login": "telesoftai",
+    "name": "Telesoftai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51767614?s=72&u=5d816eae98350b23028beac559f3ba03b6accfd9&v=4",
+    "location": "Dodoma",
+    "company": "Telesoft",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-13T00:36:49Z"
+  },
+  {
+    "login": "orestec",
+    "name": "orestec",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54419276?s=72&u=27a54c8416128d6e90515410e1e95f9169e5a6e5&v=4",
+    "location": "Dar es salaam and Dodoma",
+    "company": "ICT Officer(system's security & Systems Admin)",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-22T20:56:10Z"
+  },
+  {
+    "login": "ckayuza86",
+    "name": "Charles Kayuza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52072364?s=72&u=4055476b2ef22ca93edb8d6b8240dc70a8236d4d&v=4",
+    "location": "Dodoma",
+    "company": "MoW",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-21T11:19:03Z"
   }
 ]

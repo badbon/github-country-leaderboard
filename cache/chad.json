@@ -2290,5 +2290,29 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2016-10-20T06:37:27Z"
+  },
+  {
+    "login": "Mbaigo",
+    "name": "Evrard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16645019?s=72&u=fdcbd40311fcfb60b4735ce0194a10f9ac71fca7&v=4",
+    "location": "N'Djamena",
+    "company": "THTC",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 126,
+    "createdAt": "2016-01-11T08:56:17Z"
+  },
+  {
+    "login": "maly85",
+    "name": "MALTANAN GUIDEAL Emmanuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19901827?s=72&u=09254fbf23f3c6b813e81cba632c2b712d908b63&v=4",
+    "location": "N'djamena, Tcahd",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-13T07:20:35Z"
   }
 ]
