@@ -4138,5 +4138,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-02T23:09:18Z"
+  },
+  {
+    "login": "fadiga",
+    "name": "Ibrahima Fadiga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/354071?s=72&v=4",
+    "location": "Bamako, Mali",
+    "company": "FAD GLOBAL SERVICES",
+    "twitterUsername": "ibfadiga",
+    "followers": 15,
+    "privateContributions": 784,
+    "publicContributions": 47,
+    "createdAt": "2010-08-04T14:03:25Z"
+  },
+  {
+    "login": "alou",
+    "name": "Alou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/353938?s=72&v=4",
+    "location": "Bamako, Mali",
+    "company": "Dolo Solution",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-04T11:56:20Z"
   }
 ]

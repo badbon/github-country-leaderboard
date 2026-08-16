@@ -21190,5 +21190,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-19T11:55:53Z"
+  },
+  {
+    "login": "wilfried01",
+    "name": "Stylfeur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6856403?s=72&v=4",
+    "location": "Yaoundé, Cameroun",
+    "company": "StormIT",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 29,
+    "publicContributions": 10,
+    "createdAt": "2014-03-05T00:37:56Z"
+  },
+  {
+    "login": "HeAhCamerounToiAussiQuelleImage",
+    "name": "Etémé Tsanga Rodrigue",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9343662?s=72&u=530705ce41edc8ea49cece8f09ab785c19b18fc6&v=4",
+    "location": "Yaoundé, Cameroun",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2014-10-21T23:17:37Z"
   }
 ]

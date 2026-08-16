@@ -14050,5 +14050,29 @@
     "privateContributions": 2274,
     "publicContributions": 54,
     "createdAt": "2012-04-30T15:27:10Z"
+  },
+  {
+    "login": "karson",
+    "name": "Karson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/755840?s=72&u=c8f27d53573384c08892181c55f1a4891f55f868&v=4",
+    "location": "Maputo",
+    "company": "TurboHost",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 528,
+    "publicContributions": 33,
+    "createdAt": "2011-04-28T00:20:06Z"
+  },
+  {
+    "login": "mgerson",
+    "name": "Manuel Gerson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1238281?s=72&u=7e8cb67ec3edc51244948bbbf590a44c3ee2b896&v=4",
+    "location": "Maputo",
+    "company": "Instituo Nacional de Governo Electrónico - INAGE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2011-12-03T16:06:52Z"
   }
 ]

@@ -14938,5 +14938,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-15T00:33:09Z"
+  },
+  {
+    "login": "numbus",
+    "name": "numbus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1132029?s=72&v=4",
+    "location": "Tegucigalpa, HN",
+    "company": "numbus LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-16T22:57:57Z"
+  },
+  {
+    "login": "dmartinezh",
+    "name": "Daniel Martinez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/856830?s=72&v=4",
+    "location": "Tegucigalpa",
+    "company": "Diapa",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-06-17T15:48:17Z"
   }
 ]

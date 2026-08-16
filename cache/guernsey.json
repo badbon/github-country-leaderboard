@@ -526,5 +526,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-05-19T13:41:25Z"
+  },
+  {
+    "login": "thebutler12",
+    "name": "Matt Ball",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298154?s=72&u=23835380c8005a7937b33ce3bcccd6af1a3baeb5&v=4",
+    "location": "Guernsey",
+    "company": "States of Guernsey",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2010-06-06T19:36:26Z"
+  },
+  {
+    "login": "SamHam",
+    "name": "Sam Hamperl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/316020?s=72&u=22a54244b1996e81aa98b0c34218a7be4d15dae3&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-28T01:03:53Z"
   }
 ]

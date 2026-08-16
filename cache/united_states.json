@@ -91090,5 +91090,41 @@
     "privateContributions": 0,
     "publicContributions": 2584,
     "createdAt": "2025-08-27T14:13:18Z"
+  },
+  {
+    "login": "NeoPrimate",
+    "name": "Vladimir Borel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157859963?s=72&u=2700bbc3c8ff5fba01ae495a3398736619123bd8&v=4",
+    "location": "United-States / France",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 237,
+    "createdAt": "2024-01-27T01:36:37Z"
+  },
+  {
+    "login": "iaspisw",
+    "name": "Iaspisw",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47863760?s=72&u=dd36c3d17cbec5d0d6a784b24e43b0814ccba9cb&v=4",
+    "location": "Hong Kong ➡️ New York State",
+    "company": "",
+    "twitterUsername": "iaspisw",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-21T16:47:46Z"
+  },
+  {
+    "login": "william-tiritilli",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46381506?s=72&v=4",
+    "location": "New York / New Jersey",
+    "company": "Data Scientist",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-04T17:09:38Z"
   }
 ]

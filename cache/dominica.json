@@ -166,5 +166,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-12T02:49:23Z"
+  },
+  {
+    "login": "lazarusvc",
+    "name": "Austin Lazarus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4788358?s=72&u=f4719b6af985d4522db5d1b4c443474e25998e69&v=4",
+    "location": "Dominica",
+    "company": "Lazarus Ventures Co.",
+    "twitterUsername": "_ra_lazarus",
+    "followers": 7,
+    "privateContributions": 12,
+    "publicContributions": 12,
+    "createdAt": "2013-06-23T16:05:03Z"
+  },
+  {
+    "login": "bowetech",
+    "name": "Clive Stewart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4702269?s=72&v=4",
+    "location": " Dominica",
+    "company": "BoweTech",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2013-06-15T01:57:04Z"
+  },
+  {
+    "login": "jozreel",
+    "name": "Jozreel Laurent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4180860?s=72&v=4",
+    "location": "Roseau, Dominica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 92,
+    "createdAt": "2013-04-17T11:52:42Z"
   }
 ]
