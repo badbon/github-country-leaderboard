@@ -526,5 +526,77 @@
     "privateContributions": 98,
     "publicContributions": 16,
     "createdAt": "2014-09-08T02:38:25Z"
+  },
+  {
+    "login": "Theoistic",
+    "name": "Theodor Solbjorg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3510805?s=72&u=f7173c814ba8b73143bf1d7f2c5b577c24a1c091&v=4",
+    "location": "Faroe Islands",
+    "company": "Theoistic",
+    "twitterUsername": "Theoistic",
+    "followers": 8,
+    "privateContributions": 782,
+    "publicContributions": 118,
+    "createdAt": "2013-02-08T11:51:46Z"
+  },
+  {
+    "login": "suuunly",
+    "name": "Jóhann Østerø",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3743913?s=72&u=4889e6786b5746b6fb42eec16fbb26df859fdc09&v=4",
+    "location": "Faroe Islands",
+    "company": "Flowcore, Gaman Games",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1405,
+    "publicContributions": 378,
+    "createdAt": "2013-03-02T00:31:18Z"
+  },
+  {
+    "login": "OddmarDam",
+    "name": "Oddmar Dam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4441007?s=72&u=ac6a8a9563fa86b6f5e93e8d48334952b774b39d&v=4",
+    "location": "Faroe Islands",
+    "company": "P/F Net",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2013-05-15T19:42:43Z"
+  },
+  {
+    "login": "ingipingi",
+    "name": "Ingi á Steinamørk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6177153?s=72&u=3d58aa8df963b172304f2ba6bdc5b2ea309be1ac&v=4",
+    "location": "Faroe Islands",
+    "company": "Ingi á Steinamørk",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1701,
+    "publicContributions": 0,
+    "createdAt": "2013-12-13T09:41:17Z"
+  },
+  {
+    "login": "Rogn",
+    "name": "Hallur Holm Johannessen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3670768?s=72&u=983f5a375fb64946c7dfdd53613213fb33de4307&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 93,
+    "createdAt": "2013-02-22T15:22:21Z"
+  },
+  {
+    "login": "jogvana",
+    "name": "Jógvan Andersen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6192832?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "KODIO",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-15T23:24:02Z"
   }
 ]

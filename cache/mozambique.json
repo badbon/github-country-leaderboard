@@ -14074,5 +14074,53 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2011-12-03T16:06:52Z"
+  },
+  {
+    "login": "LaylowZCL",
+    "name": "Fernando Zucula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/346687?s=72&v=4",
+    "location": "Maputo - Mozambique",
+    "company": "ZK Interactive",
+    "twitterUsername": "FRZucula",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-28T08:22:59Z"
+  },
+  {
+    "login": "steliomo",
+    "name": "Stélio Klésio Adriano Moiane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/404506?s=72&u=a68fbc635a238d12675f9e024cabd0f63168ac00&v=4",
+    "location": "Maputo - Mozambique",
+    "company": "LSDI - Lubombo Spatial Development Initiative",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-17T13:21:22Z"
+  },
+  {
+    "login": "pedrofariasmateus",
+    "name": "Pedro Farias Mateus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/467265?s=72&v=4",
+    "location": "Mozambique, Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-04T12:30:03Z"
+  },
+  {
+    "login": "candidosa2",
+    "name": "Apllicmz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/510444?s=72&u=6710ce4b16d1be009d5c338ec27fe74ced218baf&v=4",
+    "location": "Mozambique",
+    "company": "Aplic consultoria em Informatica,lda",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-05T17:12:59Z"
   }
 ]

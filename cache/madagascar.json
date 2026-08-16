@@ -20875,7 +20875,7 @@
     "company": "SSXA",
     "twitterUsername": "rmanantsooa",
     "followers": 131,
-    "privateContributions": 309,
+    "privateContributions": 316,
     "publicContributions": 63,
     "createdAt": "2016-04-12T08:10:46Z"
   },
@@ -20912,7 +20912,7 @@
     "twitterUsername": "RivoLink",
     "followers": 54,
     "privateContributions": 2835,
-    "publicContributions": 875,
+    "publicContributions": 880,
     "createdAt": "2016-04-13T16:55:56Z"
   },
   {
@@ -21334,5 +21334,101 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2016-12-05T20:06:08Z"
+  },
+  {
+    "login": "dimbi23",
+    "name": "Dimbinirina Tefiniaina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22920752?s=72&u=48266987faf00d908e030f06ab24e215c7c3d0ae&v=4",
+    "location": "Antananarivo",
+    "company": "",
+    "twitterUsername": "dimbi23",
+    "followers": 32,
+    "privateContributions": 435,
+    "publicContributions": 98,
+    "createdAt": "2016-10-18T19:36:37Z"
+  },
+  {
+    "login": "rivony",
+    "name": "Rivo Raoel (rivony)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19551283?s=72&u=629ee0a00e599f63b550fa60f9f636bb78b9ec5f&v=4",
+    "location": "Antananarivo",
+    "company": "",
+    "twitterUsername": "rivony",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-24T11:36:56Z"
+  },
+  {
+    "login": "aingaRamangalahy",
+    "name": "Ainga Ramangalahy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22538389?s=72&u=43bdcb29e5c2e5ec4a316854b7becee17071b1f5&v=4",
+    "location": "Antananarivo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 224,
+    "publicContributions": 91,
+    "createdAt": "2016-09-30T06:53:02Z"
+  },
+  {
+    "login": "MichaelAndrianai",
+    "name": "Michaël Andrianaivomanana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19403428?s=72&u=ab9fe3cdb88135e75c6b05830302110e02785ea3&v=4",
+    "location": "Ampefiloha, Antananarivo 101",
+    "company": "ZAFY TODY",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-17T07:15:02Z"
+  },
+  {
+    "login": "Andrianimanana",
+    "name": "Armel Andrianimanana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17470878?s=72&u=29cf1bfbb672bb62cc71a76ef79df8f2028ba7b0&v=4",
+    "location": "Antananarivo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-25T09:27:08Z"
+  },
+  {
+    "login": "tsirr",
+    "name": "tsiriniaina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24290435?s=72&u=013b0a749bdd00d866b44ff3548470eb0c876309&v=4",
+    "location": "Antananarivo",
+    "company": "PULSE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-01T08:39:39Z"
+  },
+  {
+    "login": "flavienraymond9",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17723354?s=72&u=dadeab39f40b3e52652d2217ab381e23ded1f59c&v=4",
+    "location": "antananarivo",
+    "company": "misei2018",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-08T12:11:20Z"
+  },
+  {
+    "login": "ramboitdev",
+    "name": "harifidy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18681741?s=72&u=be95b63a47292a8aab81377d2a6efaa15e0ad9c9&v=4",
+    "location": "Antananarivo",
+    "company": "harryrambdan",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2016-04-26T14:02:27Z"
   }
 ]

@@ -5650,5 +5650,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-05-16T17:19:08Z"
+  },
+  {
+    "login": "gijzelaerr",
+    "name": "Gijs Molenaar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/326308?s=72&u=7a3df78eedbf80b672d02cb3223a60867abfcac3&v=4",
+    "location": "Amsterdam - Windhoek",
+    "company": "Spotify",
+    "twitterUsername": "",
+    "followers": 216,
+    "privateContributions": 772,
+    "publicContributions": 628,
+    "createdAt": "2010-07-08T11:22:39Z"
+  },
+  {
+    "login": "murongav",
+    "name": "murongav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/307455?s=72&v=4",
+    "location": "windhoek",
+    "company": "telecom namibia",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-17T07:19:56Z"
   }
 ]

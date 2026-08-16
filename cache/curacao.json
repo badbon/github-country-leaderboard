@@ -334,5 +334,41 @@
     "privateContributions": 1084,
     "publicContributions": 2,
     "createdAt": "2023-10-30T17:38:11Z"
+  },
+  {
+    "login": "RubenCUR",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15930554?s=72&u=df5330b0f14d18c346f127b16354a53ef8c81f5b&v=4",
+    "location": "Curaçao",
+    "company": "aerthe.com",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-19T18:37:13Z"
+  },
+  {
+    "login": "Nashmod",
+    "name": "Nashmod",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12153793?s=72&u=5fb533e3e17a9432007050573d2545899c738349&v=4",
+    "location": "Curaçao",
+    "company": "Obsidianlab",
+    "twitterUsername": "obsidian_lab",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-28T13:15:04Z"
+  },
+  {
+    "login": "ChayMartis",
+    "name": "Chay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11291564?s=72&u=04b03a21bda382f787cf20d7f5f662659d6af8e0&v=4",
+    "location": "Curaçao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-03T10:09:37Z"
   }
 ]

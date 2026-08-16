@@ -1654,5 +1654,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-09-16T15:27:48Z"
+  },
+  {
+    "login": "Orion98MC",
+    "name": "Thierry Passeron",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/325486?s=72&u=a15aa61d7ad7615b0e7edd6a3cc053468ae80cec&v=4",
+    "location": "Monaco",
+    "company": "Monte-Carlo Computing",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 471,
+    "publicContributions": 0,
+    "createdAt": "2010-07-07T16:09:59Z"
+  },
+  {
+    "login": "francky06l",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/393525?s=72&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2010-09-09T16:17:42Z"
   }
 ]

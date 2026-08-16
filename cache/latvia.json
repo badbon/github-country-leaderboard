@@ -26578,5 +26578,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-30T17:23:48Z"
+  },
+  {
+    "login": "eliasadvansys",
+    "name": "Ilja Nosov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13561329?s=72&u=8746339d78728830650cf0333b0f56a96596d226&v=4",
+    "location": "Riga, Latvija",
+    "company": "SIA \"Dynatech\"",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2015-07-29T20:35:42Z"
+  },
+  {
+    "login": "AndrejsKrilovs",
+    "name": "Andrejs Krilovs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10571967?s=72&u=936032aedc2910b63016dd447d92825005f0781b&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2015-01-17T10:00:32Z"
+  },
+  {
+    "login": "liliacc",
+    "name": "Līga Tomašauska",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10989050?s=72&u=2f178df9011939587854116de0dc2f3e6f954fa3&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-13T07:17:14Z"
+  },
+  {
+    "login": "genar335",
+    "name": "Vadim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13907302?s=72&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-21T17:26:21Z"
+  },
+  {
+    "login": "missryta",
+    "name": "Ryta Esemene ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11570654?s=72&v=4",
+    "location": "Riga ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-20T10:15:04Z"
+  },
+  {
+    "login": "IvanOpanasiuk",
+    "name": "IvanOpanasiuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15374759?s=72&u=430330e27f541e28bfb4b572448f7362cf8ab108&v=4",
+    "location": "Riga",
+    "company": "@stape-io",
+    "twitterUsername": "opanasiuk_ivan",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-29T06:03:19Z"
   }
 ]

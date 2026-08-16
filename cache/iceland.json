@@ -8122,5 +8122,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-11-02T17:29:34Z"
+  },
+  {
+    "login": "SnorriArinbjarnar",
+    "name": "Snorri Arinbjarnar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24214259?s=72&u=af637367e66e9e58f666be5775bb837b0a1b1454&v=4",
+    "location": "Reykjavík, Iceland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-28T00:20:51Z"
+  },
+  {
+    "login": "sunnads",
+    "name": "Sunna Dröfn Sigfúsdóttir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23722746?s=72&u=609b723cd53e2ebb4f8e0226ecae418ebe893fca&v=4",
+    "location": "Iceland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-24T13:55:27Z"
+  },
+  {
+    "login": "thordisj",
+    "name": "Þórdís Jóna Ingigerðadóttir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24455425?s=72&u=0242ddeeb6a7922539d71a3f43f2a5f5d40daeba&v=4",
+    "location": "Iceland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-08T12:26:40Z"
+  },
+  {
+    "login": "frisk7",
+    "name": "Friðrik Skúlason",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18578536?s=72&u=05d4359187b2af0975128473b3c29d17a266327d&v=4",
+    "location": "Iceland",
+    "company": "Cyren",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-20T16:00:16Z"
+  },
+  {
+    "login": "asgeirorns",
+    "name": "Ásgeir Örn Sigurpálsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20424365?s=72&u=82a986bf2608b4fb586d8cad7b1ad2bd6cb8342b&v=4",
+    "location": "Iceland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-12T16:59:24Z"
+  },
+  {
+    "login": "Nokkvi",
+    "name": "Nökkvi Sverrisson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16718504?s=72&v=4",
+    "location": "Iceland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-15T11:23:14Z"
   }
 ]

@@ -53506,5 +53506,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-08T16:32:53Z"
+  },
+  {
+    "login": "TrustPaddy",
+    "name": "Patrick Ermisch",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211233060?s=72&v=4",
+    "location": "Frankfurt am Main",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 106,
+    "createdAt": "2025-05-11T15:34:02Z"
+  },
+  {
+    "login": "SabiHime",
+    "name": "Sabrina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195197775?s=72&u=5c3b0f2892854b09aa1fa4aa001a5362d798ef76&v=4",
+    "location": "Frankfurt am Main",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2025-01-15T21:02:46Z"
+  },
+  {
+    "login": "nina8hartung",
+    "name": "Nina Hartung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204029277?s=72&v=4",
+    "location": "Frankfurt am Main",
+    "company": "Max-Planck-Institute for Empirical Aesthetics",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-03-19T13:26:09Z"
+  },
+  {
+    "login": "dominiquemetz",
+    "name": "Dominique Metz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196774400?s=72&v=4",
+    "location": "Lise-Meitner-Straße 4, 60486 Frankfurt am Main",
+    "company": "codecentric AG",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 64,
+    "createdAt": "2025-01-28T10:09:10Z"
+  },
+  {
+    "login": "DarkoRist",
+    "name": "Darko Ristov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/237853894?s=72&u=8ad0311a604161c8ec8254b112f9907f6e8299b9&v=4",
+    "location": "Frankfurt",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2025-10-13T19:24:41Z"
+  },
+  {
+    "login": "aishsawant0202-tech",
+    "name": "Aishwarya Sawant",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/239167906?s=72&u=64d8e4ea2a18e1337c8892ac298735e23b1a7519&v=4",
+    "location": "Frankfurt, German",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5,
+    "publicContributions": 63,
+    "createdAt": "2025-10-20T13:33:57Z"
+  },
+  {
+    "login": "tobeylicious",
+    "name": "Tobias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246157513?s=72&u=bf3e7664fbc558eed5796144cc66d3f38a6fcc21&v=4",
+    "location": "Frankfurt am Main",
+    "company": "PanelPoint",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-11-25T19:38:33Z"
+  },
+  {
+    "login": "vitalik-fourty4",
+    "name": "Vitalik Garan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/236371633?s=72&u=59e8e028943cdc2784d1e4c9ec7377129a728069&v=4",
+    "location": "Frankfurt am Main",
+    "company": "@creditornot ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 401,
+    "publicContributions": 4,
+    "createdAt": "2025-10-06T11:33:03Z"
+  },
+  {
+    "login": "maxnexait",
+    "name": "maxnexait",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245833341?s=72&u=3add2f4d0b7494dad933f6c486b3822337438a15&v=4",
+    "location": "Frankfurt am Main",
+    "company": "Nexa IT Services",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-11-24T09:08:01Z"
   }
 ]

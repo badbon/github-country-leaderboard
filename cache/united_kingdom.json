@@ -48646,5 +48646,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-05T20:46:27Z"
+  },
+  {
+    "login": "owezalty",
+    "name": "Ovezmurat Altiyev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95530217?s=72&u=ffe5c9d720cc16f25ac5453b39eec0e6a282a96f&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "Automation Test Engineer",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2021-12-04T12:03:36Z"
+  },
+  {
+    "login": "Daniel-Parke",
+    "name": "Daniel Parke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93327250?s=72&u=eccf627784fc47cea03b10458ac91ed1eea60865&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "danielparke_",
+    "followers": 11,
+    "privateContributions": 1361,
+    "publicContributions": 712,
+    "createdAt": "2021-10-28T12:25:47Z"
   }
 ]
