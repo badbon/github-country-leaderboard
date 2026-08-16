@@ -370,5 +370,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-08T02:46:40Z"
+  },
+  {
+    "login": "RudiPersson",
+    "name": "Rudi Persson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12712893?s=72&u=75b620b11721702698c01704ab3868e5ddfaf681&v=4",
+    "location": "Tórshavn, Faroe Islands",
+    "company": "Poul Michelsen",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 2182,
+    "publicContributions": 4,
+    "createdAt": "2015-06-02T11:06:26Z"
+  },
+  {
+    "login": "bardurt",
+    "name": "Barthur Thomsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10849157?s=72&u=facc555512faa785d686db75f3318873899595a7&v=4",
+    "location": "Faroe Islands",
+    "company": "Klintra",
+    "twitterUsername": "barthurtcoder",
+    "followers": 5,
+    "privateContributions": 112,
+    "publicContributions": 33,
+    "createdAt": "2015-02-04T13:23:30Z"
+  },
+  {
+    "login": "sprklng",
+    "name": "luisa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11649195?s=72&u=845d44f2c1b7ecce71770e43e70eaa73f70d8e1c&v=4",
+    "location": "Tórshavn, Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-25T14:21:55Z"
+  },
+  {
+    "login": "esbernhansen",
+    "name": "Esbern Hansen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11196095?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "Grein.fo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-25T16:10:49Z"
   }
 ]

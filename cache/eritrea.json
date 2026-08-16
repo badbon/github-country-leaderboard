@@ -82,5 +82,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-26T06:18:13Z"
+  },
+  {
+    "login": "aigemito",
+    "name": "Amanuel Isack Gebreendrias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38761168?s=72&u=535f0f7edfac52b5424dc053152cd82a779b3019&v=4",
+    "location": "Asmara,Eritrea",
+    "company": "emito",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-26T15:02:03Z"
+  },
+  {
+    "login": "Bereket-Desbele",
+    "name": "Bereket Desbele Ghebregiorgis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41731956?s=72&v=4",
+    "location": "Asmara, Eritrea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 2068,
+    "publicContributions": 0,
+    "createdAt": "2018-07-26T09:21:36Z"
   }
 ]

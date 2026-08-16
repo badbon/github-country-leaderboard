@@ -6334,5 +6334,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-07-12T14:29:01Z"
+  },
+  {
+    "login": "iam-malc",
+    "name": "Malcolm",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5561587?s=72&v=4",
+    "location": "Gaborone",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-27T23:53:28Z"
+  },
+  {
+    "login": "Mmusi",
+    "name": "Thato Mmusi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5792058?s=72&u=b6d753476835688011d6580c76f06b5b349dc66e&v=4",
+    "location": "Gaborone",
+    "company": "Tech Handyman",
+    "twitterUsername": "mmusi_thato",
+    "followers": 2,
+    "privateContributions": 71,
+    "publicContributions": 42,
+    "createdAt": "2013-10-28T08:09:02Z"
+  },
+  {
+    "login": "Smol-Tok",
+    "name": "Gobona Fellah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4882617?s=72&u=a30402e35244637798d2653690da57decd8c6a28&v=4",
+    "location": "BW, Gaborone",
+    "company": "Smol Tok",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-06-29T13:07:48Z"
   }
 ]

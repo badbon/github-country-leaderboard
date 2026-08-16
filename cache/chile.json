@@ -25940,7 +25940,7 @@
     "twitterUsername": "",
     "followers": 84,
     "privateContributions": 389,
-    "publicContributions": 65,
+    "publicContributions": 69,
     "createdAt": "2023-04-11T01:50:42Z"
   },
   {
@@ -26239,8 +26239,8 @@
     "company": "Pontificia Universidad Católica de Chile",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 422,
-    "publicContributions": 485,
+    "privateContributions": 430,
+    "publicContributions": 484,
     "createdAt": "2023-04-10T23:49:08Z"
   },
   {
@@ -26623,7 +26623,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 669,
+    "privateContributions": 672,
     "publicContributions": 52,
     "createdAt": "2023-04-23T07:51:41Z"
   },
@@ -26636,7 +26636,7 @@
     "twitterUsername": "wius93",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 115,
     "createdAt": "2023-02-10T05:36:23Z"
   },
   {
@@ -37134,9 +37134,9 @@
     "location": "Santiago de Chile",
     "company": "",
     "twitterUsername": "TryH4rdGame",
-    "followers": 24,
+    "followers": 20,
     "privateContributions": 468,
-    "publicContributions": 862,
+    "publicContributions": 870,
     "createdAt": "2023-11-28T15:13:44Z"
   },
   {
@@ -43990,5 +43990,173 @@
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2023-11-08T18:03:40Z"
+  },
+  {
+    "login": "mauriciopinavalenzuela",
+    "name": "Mauricio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137005384?s=72&u=834eb4c4841c35134166f120684b86dab4448f18&v=4",
+    "location": "Santiago ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2023-06-18T20:42:41Z"
+  },
+  {
+    "login": "mon-b",
+    "name": "Mon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125843723?s=72&u=e9dbf45f54f4588e3c38193585f3201aafb5c7fb&v=4",
+    "location": "Santiago",
+    "company": "UC Chile",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 80,
+    "publicContributions": 102,
+    "createdAt": "2023-02-20T02:25:01Z"
+  },
+  {
+    "login": "Zambeli",
+    "name": "Gustavo Zambeli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123279272?s=72&u=243f2f35b147f83c36507c358af798ec89755734&v=4",
+    "location": "Santiago RS",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 59,
+    "publicContributions": 38,
+    "createdAt": "2023-01-22T01:03:51Z"
+  },
+  {
+    "login": "ldriverc",
+    "name": "Leonardo Rivera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136388446?s=72&u=46d3f8cf9b81ad85a3a2a132acb0ddae31a84a93&v=4",
+    "location": "Santiago",
+    "company": "@ELEVENTECHS",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 6218,
+    "publicContributions": 80,
+    "createdAt": "2023-06-12T21:19:49Z"
+  },
+  {
+    "login": "EmersonCR719",
+    "name": "Emerson Albornoz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126537863?s=72&u=99dc14d8c3418740303a3a1db3d987532956c541&v=4",
+    "location": "Santiago de Cali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 1,
+    "publicContributions": 35,
+    "createdAt": "2023-02-28T02:59:14Z"
+  },
+  {
+    "login": "OsvaldoCorneli",
+    "name": "Osvaldo Matias Corneli Nassif",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122895353?s=72&u=25ea058029cb1ffc302b21210ed554a3b03a6c7a&v=4",
+    "location": "Santiago del Estero - Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 40,
+    "publicContributions": 97,
+    "createdAt": "2023-01-17T14:51:01Z"
+  },
+  {
+    "login": "Juananalv205",
+    "name": "Juan Andrés López Álvarez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125772890?s=72&u=ecc4dea9f0c92ad5864031a5b1fe718749c63e70&v=4",
+    "location": "Santiago de Cali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2023-02-18T23:18:05Z"
+  },
+  {
+    "login": "sabfiamo",
+    "name": "Mónica Saborido",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121768612?s=72&u=8dc6a9e97f906d96b2c6bda69d05b4796292f041&v=4",
+    "location": "Santiago de Compostela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-01T19:37:08Z"
+  },
+  {
+    "login": "felipetamiozzo",
+    "name": "Felipe Tamiozzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149639815?s=72&u=5c9265fdee6b9039cac28b10f2c201c416109f6d&v=4",
+    "location": "Santiago - Rio Grande do Sul - Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 128,
+    "createdAt": "2023-11-02T01:14:37Z"
+  },
+  {
+    "login": "valu420",
+    "name": "Valentina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144915025?s=72&u=48e4136517c946d68a4e92dc77208d72f5ba6e00&v=4",
+    "location": "Santiago de Cali ",
+    "company": "Universidad del Valle ",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 5,
+    "publicContributions": 217,
+    "createdAt": "2023-09-13T12:34:32Z"
+  },
+  {
+    "login": "Enzogus",
+    "name": "Enzo Troncoso Valenzuela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129027353?s=72&u=f92654d6810a93217ac20e8ecc38c75bd1dd5f4b&v=4",
+    "location": "Puente Alto, Santiago",
+    "company": "monikates inc.",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2023-03-27T03:52:52Z"
+  },
+  {
+    "login": "Facundo-Banegaz",
+    "name": "Fancundo Banegaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130815244?s=72&u=0df361aca01b6fb5fa0a728a1ef1579ff0bed2ea&v=4",
+    "location": "Santiago Del Estero",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2023-04-15T03:58:51Z"
+  },
+  {
+    "login": "samkee10",
+    "name": "Sam Kee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133723627?s=72&u=2e81940a3346310424a72b2240c2500725c40068&v=4",
+    "location": "Santiago",
+    "company": "La ratoneria",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-16T01:03:52Z"
+  },
+  {
+    "login": "Saracas-Code",
+    "name": "Sara Castro López",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151515660?s=72&u=0a44d36b01a25bd31eaaef735f5288d4c98e2f46&v=4",
+    "location": "Santiago de Compostela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 91,
+    "publicContributions": 124,
+    "createdAt": "2023-11-20T09:16:37Z"
   }
 ]

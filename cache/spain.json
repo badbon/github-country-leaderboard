@@ -42814,5 +42814,29 @@
     "privateContributions": 0,
     "publicContributions": 86,
     "createdAt": "2025-08-13T11:17:53Z"
+  },
+  {
+    "login": "igarbayo",
+    "name": "Ignacio Garbayo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128588669?s=72&u=ee53e39e6ab2fd3f81015116fd8316bd1734ef62&v=4",
+    "location": "Santiago de Compostela, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 558,
+    "publicContributions": 292,
+    "createdAt": "2023-03-22T09:26:42Z"
+  },
+  {
+    "login": "crisvdev",
+    "name": "Cristina Viñal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131354654?s=72&u=3f0386a3656ba5edd874251a35214f0804bcf35f&v=4",
+    "location": "Santiago de Compostela, Galicia, Spain.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2023-04-20T09:51:08Z"
   }
 ]

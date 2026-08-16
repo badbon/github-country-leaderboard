@@ -39658,5 +39658,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-12-03T06:08:14Z"
+  },
+  {
+    "login": "kaioken",
+    "name": "Max Castro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118385?s=72&u=fcadf7e603a62e766ddebcef87f9ac05a9f5658f&v=4",
+    "location": "Dominican Republic",
+    "company": "@mctekk",
+    "twitterUsername": "",
+    "followers": 86,
+    "privateContributions": 1278,
+    "publicContributions": 11393,
+    "createdAt": "2009-08-22T22:05:47Z"
+  },
+  {
+    "login": "edgarpolancodo",
+    "name": "Edgar Polanco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55401?s=72&v=4",
+    "location": "Santo Domingo, Dominican Republic",
+    "company": "",
+    "twitterUsername": "edgarpolanco_do",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-02-18T00:04:39Z"
+  },
+  {
+    "login": "almonte23",
+    "name": "Darryl Almonte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88631?s=72&v=4",
+    "location": "Dominican Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-05-26T08:35:26Z"
+  },
+  {
+    "login": "ltabreu",
+    "name": "Luis Tomas Abreu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67183?s=72&v=4",
+    "location": "Santo Domingo, Dominican Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-03-25T20:02:38Z"
+  },
+  {
+    "login": "octagono",
+    "name": "Rodolfo Rodriguez Girbes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139778?s=72&u=99c53175beca84601582d1f2fc71018ad01efc33&v=4",
+    "location": "Dominican Republic",
+    "company": "octagono",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 110,
+    "createdAt": "2009-10-14T16:30:59Z"
   }
 ]
