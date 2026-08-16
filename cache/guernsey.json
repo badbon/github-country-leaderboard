@@ -382,5 +382,65 @@
     "privateContributions": 116,
     "publicContributions": 0,
     "createdAt": "2014-09-30T14:15:40Z"
+  },
+  {
+    "login": "MattJamesChampion",
+    "name": "Matt \"Danny\" Champion",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6174068?s=72&u=d7451a3dbfb9623089e9d6917105e5703406f364&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 94,
+    "createdAt": "2013-12-12T23:33:28Z"
+  },
+  {
+    "login": "adrianritchie",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5040523?s=72&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 33,
+    "publicContributions": 40,
+    "createdAt": "2013-07-18T15:37:30Z"
+  },
+  {
+    "login": "kerryguard",
+    "name": "Kerry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5779379?s=72&u=72554b13caa8b94f295bd9d13d2e830c78d13371&v=4",
+    "location": "Guernsey",
+    "company": "MKG Marketing",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-26T04:07:16Z"
+  },
+  {
+    "login": "bkp7",
+    "name": "Barry Pitfield",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3868505?s=72&u=fe4a18a5fb4d204eb23dcc44748693896185c497&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 458,
+    "publicContributions": 8,
+    "createdAt": "2013-03-14T20:45:05Z"
+  },
+  {
+    "login": "TINZ",
+    "name": "Paul Tinsley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3755196?s=72&u=3b68659ddb98c205265c785c4af503d3bcd9b2bb&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2013-03-03T11:56:29Z"
   }
 ]

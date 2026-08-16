@@ -13702,5 +13702,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-09-14T14:13:39Z"
+  },
+  {
+    "login": "emjunior258",
+    "name": "Mário Júnior",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7803333?s=72&u=2db9b3bfa7de0fa992b2e9baddd819405ec90b26&v=4",
+    "location": "Maputo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 35,
+    "publicContributions": 31,
+    "createdAt": "2014-06-05T08:52:35Z"
+  },
+  {
+    "login": "aasfrancisco",
+    "name": "aasfrancisco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8362985?s=72&v=4",
+    "location": "Maputo",
+    "company": "UEM",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-05T12:59:00Z"
+  },
+  {
+    "login": "dyotamo",
+    "name": "Dássone J. Yotamo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9819921?s=72&u=fbb24ad6758fabd0546920087ffff8961c127aac&v=4",
+    "location": "Maputo, MZ",
+    "company": "Vodacom Mozambique",
+    "twitterUsername": "dyotamo007",
+    "followers": 3,
+    "privateContributions": 282,
+    "publicContributions": 4,
+    "createdAt": "2014-11-18T09:58:54Z"
+  },
+  {
+    "login": "issamandane",
+    "name": "Issa Mandane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8494091?s=72&u=1a0340beecd5f3b2db6abec57f8cc46518b0ad78&v=4",
+    "location": "Maputo-Baixa da Cidade ",
+    "company": "Medical Technologies -Assistante Financeiro",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-19T16:38:02Z"
+  },
+  {
+    "login": "psmatsinhe",
+    "name": "Paulo Sérgio Jaime Matsinhe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7911110?s=72&v=4",
+    "location": "Maputo",
+    "company": "Jembi - mOASIS",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-17T09:07:38Z"
+  },
+  {
+    "login": "johnmuconto",
+    "name": "John Muconto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9362127?s=72&u=c69b6b3e9b90803fa5fe238ee1cdc4cf04483a64&v=4",
+    "location": "Maputo",
+    "company": "Home Office",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-23T05:45:05Z"
+  },
+  {
+    "login": "snhancume",
+    "name": "Salimone Nhancume",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8069196?s=72&u=7b0a5fc1a3613b761172b9d3a829cb33ff3dc211&v=4",
+    "location": "Maputo",
+    "company": "ICAP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-04T14:52:44Z"
   }
 ]

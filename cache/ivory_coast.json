@@ -5026,5 +5026,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-10-20T19:41:01Z"
+  },
+  {
+    "login": "BrunoHerault",
+    "name": "bruno herault",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20208675?s=72&v=4",
+    "location": "Yamoussoukro",
+    "company": "@cirad",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-29T14:47:47Z"
+  },
+  {
+    "login": "Al-Karid",
+    "name": "Al-Karid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17048074?s=72&u=e75d8847d8ef5ca0a62601b1009a1ec113cca2a1&v=4",
+    "location": "Yamoussoukro",
+    "company": "IDSI",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 2492,
+    "publicContributions": 212,
+    "createdAt": "2016-02-03T15:05:11Z"
+  },
+  {
+    "login": "olivierAdou",
+    "name": "olivier adou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19398104?s=72&u=8cb6754375e86db823dffb0916c9f3d0521b055f&v=4",
+    "location": "Ivory Cost Yamoussoukro",
+    "company": "Alleen",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-05-16T23:46:37Z"
   }
 ]

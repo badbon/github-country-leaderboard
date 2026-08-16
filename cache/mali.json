@@ -4090,5 +4090,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-09-28T01:01:35Z"
+  },
+  {
+    "login": "dmbaye",
+    "name": "Djibril M'Baye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6240798?s=72&u=b8dc9fb7ef7762b7f0d0dbf90e174afbd17edb40&v=4",
+    "location": "Mali",
+    "company": "mbayelab",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 29,
+    "publicContributions": 0,
+    "createdAt": "2013-12-22T11:09:55Z"
+  },
+  {
+    "login": "dadoumani",
+    "name": "Dadoumani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4665381?s=72&v=4",
+    "location": "Bamako, Mali",
+    "company": "Dadoumani",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-10T22:14:49Z"
   }
 ]

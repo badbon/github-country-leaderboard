@@ -41002,5 +41002,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-05T21:58:05Z"
+  },
+  {
+    "login": "JuanCarlosAcostaPeraba",
+    "name": "Juan Carlos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43654546?s=72&u=1826bf13fb8c0fd2d8a5ce39f398e88007e632dd&v=4",
+    "location": "Canary Island, Spain",
+    "company": "Hospital Universitario de Canarias",
+    "twitterUsername": "jcap_tech",
+    "followers": 41,
+    "privateContributions": 749,
+    "publicContributions": 647,
+    "createdAt": "2018-09-27T19:46:20Z"
+  },
+  {
+    "login": "arcticronin",
+    "name": "Luca Manzi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37484723?s=72&u=3d53e33fdd669f4ffb96ffe030226481f2ea1093&v=4",
+    "location": "Milan Italy / Spain / Elba Island / Tromsø",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2018-03-17T19:15:53Z"
+  },
+  {
+    "login": "DevKevingg",
+    "name": "Kevin Henriquez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43935492?s=72&u=d0a29f270681a6d8847cd2d2b49338e90c8eaeb8&v=4",
+    "location": "Canary Island, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2018-10-07T17:38:25Z"
   }
 ]

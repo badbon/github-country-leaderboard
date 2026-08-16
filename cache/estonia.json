@@ -21502,5 +21502,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-09T13:16:14Z"
+  },
+  {
+    "login": "ditworx",
+    "name": "Rodion",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36740699?s=72&u=319743001e236229989bbaac8c52776d65d68d6b&v=4",
+    "location": "Eesti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-22T17:11:03Z"
+  },
+  {
+    "login": "gmtavares",
+    "name": "Gonçalo Tavares",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34963707?s=72&u=0a07ab1e4c0b76965e8dcddf069394565acd3686&v=4",
+    "location": "Tallinn, Eesti",
+    "company": "Tallinna Tehnikaülikool",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-30T15:35:07Z"
+  },
+  {
+    "login": "EvgenyGZ",
+    "name": "Evgeny",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43843669?s=72&v=4",
+    "location": "Eesti ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-04T08:15:07Z"
   }
 ]

@@ -1918,5 +1918,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-03-15T08:21:52Z"
+  },
+  {
+    "login": "julienp17",
+    "name": "Julien Pause",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42073992?s=72&u=a11d455572016988dcdc4c512f894b32e78be13b&v=4",
+    "location": "Reunion Island",
+    "company": "Epitech",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 882,
+    "publicContributions": 1,
+    "createdAt": "2018-08-03T17:30:33Z"
+  },
+  {
+    "login": "Shi974",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42869389?s=72&u=e8a624107a16c9b38d702a6946ecb1ed5e51a89c&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 3,
+    "publicContributions": 14,
+    "createdAt": "2018-08-31T13:38:38Z"
+  },
+  {
+    "login": "damiencpsm",
+    "name": "Damien",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40885420?s=72&u=23f8d456666b080306d9b273c29fa3fee140a258&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2018-07-06T08:31:49Z"
+  },
+  {
+    "login": "badrane",
+    "name": "HOUMADI BADRANE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39042329?s=72&u=658f037f8ba6a0a5aa25d2526a4e98425e0b98ca&v=4",
+    "location": "LA REUNION / REUNION ISLAND",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-07T04:15:26Z"
   }
 ]

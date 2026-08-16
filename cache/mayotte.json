@@ -118,5 +118,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-04T13:54:40Z"
+  },
+  {
+    "login": "beeraw",
+    "name": "Jean-Luc Petit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3447138?s=72&u=b0f0a40703e5adf103c9e70e2f83679ffebe71f8&v=4",
+    "location": "Mayotte",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 37,
+    "privateContributions": 1395,
+    "publicContributions": 99,
+    "createdAt": "2013-02-01T09:21:33Z"
+  },
+  {
+    "login": "gbourel",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6011579?s=72&u=3f44f647d343781e8ad5bb78e2da8330e212b970&v=4",
+    "location": "Mamoudzou, Mayotte",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2013-11-22T15:58:46Z"
+  },
+  {
+    "login": "nuthered",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5990077?s=72&v=4",
+    "location": "East Kevinbury, Mayotte",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2013-11-20T11:06:23Z"
   }
 ]

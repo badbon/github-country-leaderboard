@@ -49942,5 +49942,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-11T00:59:23Z"
+  },
+  {
+    "login": "jerralph",
+    "name": "Jeremy Ralph",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39573149?s=72&u=ffc2360ce5dcf083239b48bf6c95cbfffb93da61&v=4",
+    "location": "Vancouver Island",
+    "company": "bigco ",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-23T23:11:54Z"
+  },
+  {
+    "login": "alioexcellencies",
+    "name": "Ali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26329972?s=72&u=9bfb3920894a6fd249bd2c28cc0249dd0fa0cf98&v=4",
+    "location": "Montreal/Baghdad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-10T15:55:24Z"
+  },
+  {
+    "login": "qSckd",
+    "name": "maaattn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133684854?s=72&u=cad47ea657f1e31beb3cd36a5c956bb9c619290a&v=4",
+    "location": "Guanajuato, Mexico - Toronto, Canada",
+    "company": "Codenix Studios",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 475,
+    "publicContributions": 19,
+    "createdAt": "2023-05-15T16:07:01Z"
+  },
+  {
+    "login": "NHSEI-Analytics",
+    "name": "NHSE Analytics",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49308822?s=72&u=bf5cecd2f300bfd90e074da5677115f30c383496&v=4",
+    "location": "Wellington House, 133-155 Waterloo Road, London, SE1 8UG",
+    "company": "NHS England",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-05T11:12:05Z"
   }
 ]
