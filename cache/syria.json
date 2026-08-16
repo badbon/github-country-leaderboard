@@ -17518,5 +17518,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-02-24T11:35:47Z"
+  },
+  {
+    "login": "AnasAldrkshly",
+    "name": "Anas Aldarkashly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1299439?s=72&u=d7e0de71d848c1f231edf5d22ec05e410bfa9534&v=4",
+    "location": "Damascus, Syria.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-02T18:18:08Z"
+  },
+  {
+    "login": "firasdarwish",
+    "name": "Firas M. Darwish",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1930361?s=72&u=4619dda532f91ca71f3e97a35bebf2be9e07cd5a&v=4",
+    "location": "Syria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 7,
+    "publicContributions": 28,
+    "createdAt": "2012-07-06T02:01:28Z"
+  },
+  {
+    "login": "MahaSharbk",
+    "name": "Maha Sharbk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3095956?s=72&u=102922568791ec926d5e8c483501cce46492d61e&v=4",
+    "location": "Syria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-21T06:42:11Z"
+  },
+  {
+    "login": "Passivate",
+    "name": "Malek Tarboush",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1475776?s=72&v=4",
+    "location": "Syria",
+    "company": "Smartway-me",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-02-26T13:22:10Z"
   }
 ]

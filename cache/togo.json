@@ -8194,5 +8194,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-06T15:57:08Z"
+  },
+  {
+    "login": "kodjosama",
+    "name": "Kodjo Edem A.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5296904?s=72&u=599b16f6d972a6c3a1e3d432393a5672fa12350a&v=4",
+    "location": "Lomé, Togo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2013-08-23T18:19:36Z"
+  },
+  {
+    "login": "hermestrimegiste",
+    "name": "METSOKO K. A. Daniel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5160134?s=72&u=f7f1242afdb740b1edccb2f971aeb56f141f0907&v=4",
+    "location": "Lomé TOGO",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2013-08-04T14:42:11Z"
+  },
+  {
+    "login": "zoomwebstudio",
+    "name": "Adevou Fera EKPEH",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5471307?s=72&u=e1cfccd58a8dfe0b6a1bb8c2d947af28a5e931f1&v=4",
+    "location": "Lomé, Togo",
+    "company": "SEDANA",
+    "twitterUsername": "adevlordfera",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2013-09-16T16:17:07Z"
+  },
+  {
+    "login": "byteboy14",
+    "name": "Tedi KAKATSI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5544114?s=72&v=4",
+    "location": "Togo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 688,
+    "publicContributions": 7,
+    "createdAt": "2013-09-25T19:48:09Z"
+  },
+  {
+    "login": "ksamati",
+    "name": "Komlan Nouwokpo SAMATI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5356184?s=72&v=4",
+    "location": "Lomé-Togo",
+    "company": "Consultant",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-01T03:05:48Z"
   }
 ]

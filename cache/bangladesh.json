@@ -29815,7 +29815,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 357,
+    "privateContributions": 405,
     "publicContributions": 1771,
     "createdAt": "2025-04-11T15:10:36Z"
   },
@@ -29959,7 +29959,7 @@
     "company": "DevFlink",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2642,
+    "privateContributions": 2644,
     "publicContributions": 57,
     "createdAt": "2025-04-23T03:39:33Z"
   },
@@ -30524,7 +30524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 23,
     "createdAt": "2025-04-25T21:56:16Z"
   },
   {
@@ -30536,7 +30536,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 68,
     "createdAt": "2025-05-16T04:50:18Z"
   },
   {
@@ -30752,7 +30752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 76,
     "createdAt": "2025-05-09T17:26:56Z"
   },
   {
@@ -51310,5 +51310,185 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-05-13T17:30:25Z"
+  },
+  {
+    "login": "anis-bs23",
+    "name": "Anichur Rahaman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206873549?s=72&u=a1aa3b86fc6be007de77493679303988436b7930&v=4",
+    "location": "Dhaka",
+    "company": "Brain Station 23",
+    "twitterUsername": "anisAronno",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-04-09T13:43:52Z"
+  },
+  {
+    "login": "Jenia25",
+    "name": "Jenia Akter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214377256?s=72&u=0e630419c3764883fc3ec7cf82f982dcf9dacaa6&v=4",
+    "location": "Agargaon, Dhaka-1207",
+    "company": "Internship at BdCalling it ltd.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 86,
+    "createdAt": "2025-06-01T16:02:19Z"
+  },
+  {
+    "login": "sowravday",
+    "name": "Sowrav Chandra Day",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213467554?s=72&u=733aa6c191cceaf63a27316b2ff141b516092783&v=4",
+    "location": "Navana yousufe, mohakhali, Dhaka",
+    "company": "BRACNet LTD",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-05-26T14:18:02Z"
+  },
+  {
+    "login": "shahed-ahamed",
+    "name": "Shahed Ahamed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216082162?s=72&u=78b1def0ff13294a3e59d03af53625fba02b2808&v=4",
+    "location": "Uttara,Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 102,
+    "createdAt": "2025-06-12T20:47:14Z"
+  },
+  {
+    "login": "auntor7700",
+    "name": "Mahathir Mohammad Auntor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214947899?s=72&v=4",
+    "location": "Dhaka ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2025-06-05T05:33:53Z"
+  },
+  {
+    "login": "sheikhhossain2006104",
+    "name": "sheikhhossain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207433403?s=72&v=4",
+    "location": "Dhaka",
+    "company": "Bhai bondhu telicom",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-04-13T12:36:01Z"
+  },
+  {
+    "login": "akAFIF44",
+    "name": "A_K_Afif",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216036817?s=72&u=59d0f1260e270c814fc918f25a1501d4c2ee30ab&v=4",
+    "location": "Dhaka,Bangladeh",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2025-06-12T14:42:32Z"
+  },
+  {
+    "login": "zobayerHosen",
+    "name": "ZOBAYER HOSEN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208378790?s=72&u=29842b47e45cb5177fea95d598ac83a4bf3f8463&v=4",
+    "location": "Mohakhali, Dhaka, Bangladesh",
+    "company": "Frontend Developer at SoftVence Agency",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1246,
+    "publicContributions": 288,
+    "createdAt": "2025-04-20T15:55:18Z"
+  },
+  {
+    "login": "johnydevpy",
+    "name": "Johny Mondol",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205939777?s=72&v=4",
+    "location": "Dhaka",
+    "company": "Sbtechbd Technologies",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-04-02T13:39:10Z"
+  },
+  {
+    "login": "RakibunNabiNichoy",
+    "name": "Rakibun Nabi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211204267?s=72&u=cc9a21db969e5084db20901146a58a0bfb79eee6&v=4",
+    "location": "RUAP, Uttara - 18, Dhaka - 1230",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 4,
+    "createdAt": "2025-05-11T09:39:31Z"
+  },
+  {
+    "login": "albert-611",
+    "name": "Albert Smith Bala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215483096?s=72&u=db26033ce7a2bd1a3498366ddab16016f03d79fb&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 21,
+    "publicContributions": 277,
+    "createdAt": "2025-06-09T09:05:49Z"
+  },
+  {
+    "login": "rifat7223",
+    "name": "Rifat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206218837?s=72&u=e03a16cdfff3467958434b11fba919688bd0b5b1&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 106,
+    "createdAt": "2025-04-04T12:47:37Z"
+  },
+  {
+    "login": "monishadass",
+    "name": "Monisha Das",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208375731?s=72&u=e341151a8c205019bdc1bfb0bec6414fb47aa281&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2025-04-20T15:20:33Z"
+  },
+  {
+    "login": "Wacirreza17",
+    "name": "Wacir Reza Chowdhury",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217462344?s=72&u=4a0aafb3574c8b92b5ec5f488eb8faa484a2cb14&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2025-06-22T13:32:25Z"
+  },
+  {
+    "login": "samiasamia174",
+    "name": "Samia Zaman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209152013?s=72&v=4",
+    "location": "Dhaka ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 253,
+    "createdAt": "2025-04-25T17:05:51Z"
   }
 ]

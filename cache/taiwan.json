@@ -32962,5 +32962,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-16T03:02:02Z"
+  },
+  {
+    "login": "mingchiuli",
+    "name": "chiu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80095372?s=72&u=73171e2dbff58734fa6c1a19f856e054c8bd16db&v=4",
+    "location": "Republic of China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 119,
+    "privateContributions": 0,
+    "publicContributions": 1646,
+    "createdAt": "2021-03-05T08:39:53Z"
+  },
+  {
+    "login": "JW-Albert",
+    "name": "Albert Wang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79694433?s=72&u=19fe781d674455178f01d236ed3eab3a160e0d01&v=4",
+    "location": "Republic of China",
+    "company": "@Prisvalis @imCloud-IMSL ",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 1126,
+    "createdAt": "2021-02-26T09:47:16Z"
+  },
+  {
+    "login": "JanJoar",
+    "name": "Joar von Arndt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88452361?s=72&u=e2d1b794f4246b666a81e874e938cf34ddde0f66&v=4",
+    "location": "Taipei, Republic of China",
+    "company": "Swedish Defence University",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 1212,
+    "publicContributions": 172,
+    "createdAt": "2021-08-04T16:58:43Z"
+  },
+  {
+    "login": "FanYueee",
+    "name": "FanYueee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84763600?s=72&u=49e3c32fa68a15a102233d9cf144166153f4495d&v=4",
+    "location": "Taiwan, Republic of China",
+    "company": "AtomRoute Global Network",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 654,
+    "publicContributions": 116,
+    "createdAt": "2021-05-25T05:54:36Z"
+  },
+  {
+    "login": "zongzong0408",
+    "name": "ᴢᴏɴɢ ᴢᴏɴɢ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95990589?s=72&u=83e43f0192e9997bb308cafc8c359dc8b61db78a&v=4",
+    "location": "Republic Of China (Taiwan)",
+    "company": "National Chung Hsing University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 2,
+    "publicContributions": 35,
+    "createdAt": "2021-12-12T02:27:14Z"
   }
 ]

@@ -11458,5 +11458,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-03-21T04:57:55Z"
+  },
+  {
+    "login": "codex4732",
+    "name": "Julian Chetty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18171125?s=72&u=97527c2fd3bba9362f80b0e923420a7919c48548&v=4",
+    "location": "Victoria, Mahe. Seychelles",
+    "company": "manta studio",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 48,
+    "publicContributions": 9,
+    "createdAt": "2016-03-30T15:30:34Z"
+  },
+  {
+    "login": "miguelrevera",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22612429?s=72&v=4",
+    "location": "Seychelles",
+    "company": "Business Transformers",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-04T09:03:40Z"
   }
 ]
