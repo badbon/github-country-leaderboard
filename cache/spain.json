@@ -49414,5 +49414,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2019-06-14T20:26:17Z"
+  },
+  {
+    "login": "milanes",
+    "name": "Darío Milanés",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18354017?s=72&u=d5c54203286ccad4a3067384f4e51d8f0670bd4c&v=4",
+    "location": "Canary Island, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-08T17:53:34Z"
+  },
+  {
+    "login": "dkaerit",
+    "name": "Diego Vázquez Campos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24440929?s=72&u=24ba328ed1701aebc5060ffd366e067b250ad162&v=4",
+    "location": "Canary Island, Spain",
+    "company": "Universidad de La Laguna",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 56,
+    "createdAt": "2016-12-07T19:15:19Z"
+  },
+  {
+    "login": "alepape1",
+    "name": "Alejandro Santana Garcia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20450814?s=72&u=49cb037b633f8d25ecdf0506ce45be9778e333a9&v=4",
+    "location": "Las Palmas de Gran Canaria, Canary island, Spain",
+    "company": "SIANI Universidad de las palmas de Gran Canaria",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 666,
+    "publicContributions": 5,
+    "createdAt": "2016-07-14T03:07:48Z"
+  },
+  {
+    "login": "robledodavid",
+    "name": "David Robledo Santamaría",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151026911?s=72&v=4",
+    "location": "Guadalajara, España",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 0,
+    "createdAt": "2023-11-16T11:03:38Z"
   }
 ]

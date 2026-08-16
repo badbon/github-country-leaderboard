@@ -5674,5 +5674,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-06-17T07:19:56Z"
+  },
+  {
+    "login": "VictorMusiwa",
+    "name": "Victor Musiwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52962?s=72&v=4",
+    "location": "Namibia",
+    "company": "Liyoyelo Consulting",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-02-09T09:46:44Z"
+  },
+  {
+    "login": "skoppensboer",
+    "name": "Skip Scheepers",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160304?s=72&v=4",
+    "location": "Windhoek, Namibia",
+    "company": "CubeIT",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-12-01T11:09:13Z"
   }
 ]

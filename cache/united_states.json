@@ -92806,5 +92806,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-07-31T15:46:20Z"
+  },
+  {
+    "login": "josephmancuso",
+    "name": "Joseph Mancuso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20172538?s=72&u=d8956b56ddaeb51b301c1fdb3833effc10241719&v=4",
+    "location": "Long Island, New York",
+    "company": "@MasoniteFramework ",
+    "twitterUsername": "",
+    "followers": 152,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2016-06-27T18:26:12Z"
+  },
+  {
+    "login": "dkinsk",
+    "name": "Daniel Kang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16672040?s=72&u=ae62044ff7f9c84c5bf481102e6647a121103913&v=4",
+    "location": "Long Island, New York",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-12T18:24:56Z"
+  },
+  {
+    "login": "MaxSierra16",
+    "name": "Max Sierra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24323584?s=72&u=efef8d1743c59b685cabf342e1c504a2d131cba7&v=4",
+    "location": "Providence, Rhode Island, USA.",
+    "company": "@ALCOR-Scientific",
+    "twitterUsername": "maxsierra16",
+    "followers": 7,
+    "privateContributions": 599,
+    "publicContributions": 12,
+    "createdAt": "2016-12-02T20:17:39Z"
+  },
+  {
+    "login": "vasceannie",
+    "name": "Travis Vasceannie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20271133?s=72&v=4",
+    "location": "Rhode Island, USA",
+    "company": "Things With Stuff",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 1213,
+    "publicContributions": 701,
+    "createdAt": "2016-07-03T20:57:36Z"
+  },
+  {
+    "login": "mkekulandara",
+    "name": "Madhukara Kekulandara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18276995?s=72&u=3742d324f0d6a32667d9cdd590d65be1f826266d&v=4",
+    "location": "Rhode Island, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2016-04-05T03:39:01Z"
+  },
+  {
+    "login": "ceelo777",
+    "name": "Christopher Lo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20258660?s=72&u=81a97614213d8e3361a055b3e6ac1d81881a9a8f&v=4",
+    "location": "Long Island, New York",
+    "company": "Georgia Institute of Technology",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-02T17:25:25Z"
+  },
+  {
+    "login": "bgivertz",
+    "name": "Ben Givertz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16634164?s=72&u=5405b7119a86970346d60ca947c3812eb6be98c4&v=4",
+    "location": "Boston/Rhode Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1626,
+    "publicContributions": 0,
+    "createdAt": "2016-01-10T13:42:52Z"
   }
 ]

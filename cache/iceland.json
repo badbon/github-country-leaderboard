@@ -8194,5 +8194,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-01-15T11:23:14Z"
+  },
+  {
+    "login": "Funnyyanne",
+    "name": "Anneluo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19363761?s=72&u=9e8cf388ca68d719f786f841b92daceead86b15f&v=4",
+    "location": "Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 49,
+    "publicContributions": 14,
+    "createdAt": "2016-05-14T16:50:44Z"
+  },
+  {
+    "login": "netosha",
+    "name": "Tosha Sebastian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18308946?s=72&u=00c32f64af65c6ab8681d6170f0984a45874a029&v=4",
+    "location": "Reykjavík, Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 297,
+    "publicContributions": 9,
+    "createdAt": "2016-04-06T13:40:31Z"
   }
 ]

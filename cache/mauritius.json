@@ -8578,5 +8578,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-11-30T19:26:14Z"
+  },
+  {
+    "login": "BarbUk",
+    "name": "Julien Virey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64371?s=72&u=fdff8068f905841b90713d6e53572128b1cf9a33&v=4",
+    "location": "Mauritius",
+    "company": "@oceandba",
+    "twitterUsername": "",
+    "followers": 44,
+    "privateContributions": 743,
+    "publicContributions": 830,
+    "createdAt": "2009-03-17T19:47:34Z"
+  },
+  {
+    "login": "kureem",
+    "name": "jsweet-ui",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95880?s=72&v=4",
+    "location": "Mauritius",
+    "company": "jsweet-ui",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-06-16T10:42:36Z"
+  },
+  {
+    "login": "raj-julha",
+    "name": "Raj Julha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163031?s=72&v=4",
+    "location": "Mauritius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-12-05T18:38:27Z"
+  },
+  {
+    "login": "curiousEngine",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78018?s=72&v=4",
+    "location": "Mauritius",
+    "company": "Freelance Web Developer",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 349,
+    "publicContributions": 7,
+    "createdAt": "2009-04-26T15:24:03Z"
+  },
+  {
+    "login": "soobrassen",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173007?s=72&v=4",
+    "location": "Mauritius",
+    "company": "Accenture",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-12-28T12:25:49Z"
   }
 ]

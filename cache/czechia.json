@@ -43798,5 +43798,41 @@
     "privateContributions": 4,
     "publicContributions": 1,
     "createdAt": "2016-04-13T22:06:52Z"
+  },
+  {
+    "login": "eli-blazek",
+    "name": "Eliška Blažková",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71393504?s=72&u=201853f112318e3fdc4314226aa8f96d41ba0079&v=4",
+    "location": "Česko",
+    "company": "Library of the Czech Academy of Sciences",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2020-09-16T14:33:20Z"
+  },
+  {
+    "login": "luboshilgert",
+    "name": "Luboš Hilgert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60183211?s=72&v=4",
+    "location": "Praha, Česko",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2020-01-22T13:22:35Z"
+  },
+  {
+    "login": "Bennyseeek",
+    "name": "Lukáš \"Benny\" Beneš",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69825642?s=72&u=76b1406e1ed31c7ff1c3845787b0d33cb8f1b924&v=4",
+    "location": "Pilsen, Česko",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-17T23:12:45Z"
   }
 ]

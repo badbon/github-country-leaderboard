@@ -15079,7 +15079,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 704,
+    "privateContributions": 712,
     "publicContributions": 2,
     "createdAt": "2015-07-25T11:39:52Z"
   },
@@ -16342,5 +16342,41 @@
     "privateContributions": 1370,
     "publicContributions": 0,
     "createdAt": "2015-02-19T17:09:57Z"
+  },
+  {
+    "login": "turk",
+    "name": "Stefan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13450420?s=72&u=f26af96e0cbf0ad4e5aa67796245b1b650b9455a&v=4",
+    "location": "Chișinău",
+    "company": "METE",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-22T10:48:40Z"
+  },
+  {
+    "login": "rvmoldova",
+    "name": "Vadim Russu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13289513?s=72&u=e584f3a83d35bfa32af62fac3b64b9f82e5fdbaf&v=4",
+    "location": "Chișinău",
+    "company": "@labs42io",
+    "twitterUsername": "rvmdl",
+    "followers": 11,
+    "privateContributions": 3281,
+    "publicContributions": 30,
+    "createdAt": "2015-07-11T14:44:41Z"
+  },
+  {
+    "login": "adriantabirta",
+    "name": "Tăbîrță Adrian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11561019?s=72&u=0a0e28219cd8a6c84c07d53f602115c22c8d9610&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2015-03-19T18:52:54Z"
   }
 ]

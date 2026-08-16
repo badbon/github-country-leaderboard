@@ -706,5 +706,17 @@
     "privateContributions": 18,
     "publicContributions": 3,
     "createdAt": "2010-06-23T08:05:22Z"
+  },
+  {
+    "login": "smortex",
+    "name": "Romain Tartière",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148721?s=72&u=f2ef86a57ef9c49e99898480da9e33b70b550561&v=4",
+    "location": "Faa'a, Tahiti, French Polynesia",
+    "company": "@FreeBSD @opus-codium @voxpupuli",
+    "twitterUsername": "",
+    "followers": 164,
+    "privateContributions": 0,
+    "publicContributions": 1320,
+    "createdAt": "2009-11-04T10:49:06Z"
   }
 ]

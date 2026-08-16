@@ -48994,5 +48994,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-10-18T16:07:34Z"
+  },
+  {
+    "login": "zhifanzhu",
+    "name": "Zhifan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23008175?s=72&u=ad6a7a0bf5fd63295f013d3fdd55a2afb0b2804a&v=4",
+    "location": "Turbo Island, Bristol",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 200,
+    "publicContributions": 80,
+    "createdAt": "2016-10-23T05:25:47Z"
+  },
+  {
+    "login": "avatayl0r",
+    "name": "Ava Taylor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92596421?s=72&u=f83ecb7293b1f02be3221717424ba2b01247b824&v=4",
+    "location": "Northern Ireland, UK",
+    "company": "NatWest",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-10-15T16:28:30Z"
+  },
+  {
+    "login": "lxedy",
+    "name": "Lee Devenney",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88516028?s=72&u=aac7f8e9f0945fa485e52916c57b67f894ec9e6b&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "Kainos",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 120,
+    "publicContributions": 0,
+    "createdAt": "2021-08-05T22:51:11Z"
   }
 ]

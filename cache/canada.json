@@ -65338,5 +65338,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-25T20:45:04Z"
+  },
+  {
+    "login": "chris-geelhoed",
+    "name": "Chris Geelhoed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22401208?s=72&u=8595e2f4e1a4ed8e80c6f68322c0e946dc4e9dc2&v=4",
+    "location": "Vancouver Island, Canada",
+    "company": "@wearebraid ",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 1633,
+    "publicContributions": 0,
+    "createdAt": "2016-09-23T17:56:58Z"
+  },
+  {
+    "login": "Renesauve",
+    "name": "Rene Sauve",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20119728?s=72&u=ba176e77dd75f68d2e7fbd637f23ad607abf7a1b&v=4",
+    "location": "Vancouver Island",
+    "company": "Jambaree",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 2449,
+    "publicContributions": 72,
+    "createdAt": "2016-06-24T02:11:38Z"
+  },
+  {
+    "login": "gelbelle",
+    "name": "Angeleah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24324284?s=72&u=e0be0e88e22d0f42c7efafaf5fbc8c209af48416&v=4",
+    "location": "Vancouver Island, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2016-12-02T21:16:01Z"
+  },
+  {
+    "login": "ostampflee",
+    "name": "Owen Stampflee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20647502?s=72&u=4659d81362d51414ba127f5f13890eeb15930aaa&v=4",
+    "location": "Vancouver Island",
+    "company": "Fixstars",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-25T17:56:20Z"
   }
 ]

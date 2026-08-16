@@ -2098,5 +2098,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-08-29T13:01:04Z"
+  },
+  {
+    "login": "IamArayel",
+    "name": "Arayel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23337531?s=72&u=28478e00d55ed7c236a34153fe97b857a78c9761&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 999,
+    "publicContributions": 515,
+    "createdAt": "2016-11-08T13:01:33Z"
+  },
+  {
+    "login": "MushuLeDragon",
+    "name": "MushuLeDragon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22367990?s=72&u=bf05e6a7a38a26ab20166139423c30ea4e991154&v=4",
+    "location": "Reunion Island",
+    "company": "Independant",
+    "twitterUsername": "MushuLeDragonn",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-22T09:59:09Z"
+  },
+  {
+    "login": "saiht",
+    "name": "Saiht",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20522466?s=72&u=0d67cc617a5722a9dd59a0a8fec211b6fc1da3f9&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 3201,
+    "publicContributions": 1,
+    "createdAt": "2016-07-18T17:56:23Z"
+  },
+  {
+    "login": "Danzal974",
+    "name": "Jean Daniel CAZAL",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19874163?s=72&u=8c7b57c577dfe6c359f08d91faab3e00a6ae94c4&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-11T13:54:33Z"
   }
 ]
