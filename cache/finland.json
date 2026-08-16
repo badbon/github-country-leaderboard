@@ -42898,5 +42898,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-01-05T22:17:42Z"
+  },
+  {
+    "login": "Mazkee",
+    "name": "Max",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78449778?s=72&u=af2f773e18cbb00226d9ec8a3a6bb90b193472dc&v=4",
+    "location": "Suomi",
+    "company": "Femma",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 102,
+    "publicContributions": 0,
+    "createdAt": "2021-02-02T22:02:34Z"
+  },
+  {
+    "login": "JanaHalt",
+    "name": "Jana Halt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78509164?s=72&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-03T21:21:33Z"
+  },
+  {
+    "login": "tektekgit",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81643006?s=72&u=59211914cdb7adb419cf55e9010ffb1590cf7bbc&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "tektekosu",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-30T17:12:47Z"
+  },
+  {
+    "login": "realR4PT0R1",
+    "name": "Lanttukukko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93279027?s=72&u=fcbcf5c200b264f93256d41a057f0126c9054b03&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 2,
+    "publicContributions": 3,
+    "createdAt": "2021-10-27T17:04:12Z"
+  },
+  {
+    "login": "CZ57Avenger",
+    "name": "Willhardt Räsänen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90250323?s=72&u=789f9273a763f4a03e80683bc3ba3a3f818079d2&v=4",
+    "location": "Hämeenlinna, Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-07T09:39:19Z"
+  },
+  {
+    "login": "t0poma01",
+    "name": "Matti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78913054?s=72&u=f47a4c410f4005badec77c23ff6bfc81705df8ef&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "mattipolojarvi",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-02-11T13:09:14Z"
   }
 ]

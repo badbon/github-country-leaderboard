@@ -35602,5 +35602,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-08T10:12:42Z"
+  },
+  {
+    "login": "StrMilanov",
+    "name": "Stratsimir Milanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114015950?s=72&u=7a0cc4a769b4212b73e9c4c98821644a132d2dc5&v=4",
+    "location": "Ruse",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 70,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-20T17:08:56Z"
+  },
+  {
+    "login": "PetarAngelovv",
+    "name": "Petar_Angelov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101021042?s=72&u=d68232c505b277d8179d5bc8e9febcff4a111d98&v=4",
+    "location": "Ruse",
+    "company": "SoftUni",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 73,
+    "createdAt": "2022-03-05T20:41:30Z"
+  },
+  {
+    "login": "Pastedko",
+    "name": "Teodor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99684754?s=72&v=4",
+    "location": "Ruse",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 59,
+    "createdAt": "2022-02-14T18:54:23Z"
+  },
+  {
+    "login": "MiroslavPetrovv",
+    "name": "Miroslav Petrov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114015697?s=72&u=adc7fd723c6750afdda7776f297432027dde6274&v=4",
+    "location": "Ruse",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2022-09-20T17:05:41Z"
+  },
+  {
+    "login": "ivocostov",
+    "name": "Ivo Kostov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110334389?s=72&v=4",
+    "location": "Ruse",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-31T11:03:36Z"
+  },
+  {
+    "login": "Margarita-Petrova2022",
+    "name": "Margarita Petrova2022",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110912043?s=72&u=8faf93ebc8764b2f49c87fa8cd1e41b5ff3c4ce7&v=4",
+    "location": "Ruse",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-09T12:55:20Z"
+  },
+  {
+    "login": "ivaylo12345",
+    "name": "Ivaylo Nestorov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118568200?s=72&v=4",
+    "location": "Ruse",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-18T20:15:01Z"
   }
 ]

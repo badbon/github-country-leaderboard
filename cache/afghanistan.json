@@ -17686,5 +17686,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-09-15T03:54:14Z"
+  },
+  {
+    "login": "mustafaaloko",
+    "name": "Mustafa Ehsan Alokozay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4721735?s=72&u=c57f8595556328d9bcb6de5967e6c3b3406dfa48&v=4",
+    "location": "Kabul, Afghanistan",
+    "company": "@aidrivers ",
+    "twitterUsername": "",
+    "followers": 65,
+    "privateContributions": 477,
+    "publicContributions": 2,
+    "createdAt": "2013-06-17T19:51:41Z"
+  },
+  {
+    "login": "hadisa",
+    "name": "hadisa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3906157?s=72&u=4ca7a562142691f9e55b8c930427fd2f71e8b384&v=4",
+    "location": "Afghanistan",
+    "company": "https://gitlab.com/",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 115,
+    "publicContributions": 124,
+    "createdAt": "2013-03-19T05:04:18Z"
+  },
+  {
+    "login": "Archisio",
+    "name": "Mustafa Samadi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3201950?s=72&u=c6d70047e7a84b4c0bd15d5c92da0913a883e9c3&v=4",
+    "location": "Kabul, Afghanistan",
+    "company": "@Paayenda",
+    "twitterUsername": "archisio",
+    "followers": 10,
+    "privateContributions": 219,
+    "publicContributions": 5,
+    "createdAt": "2013-01-07T01:07:22Z"
+  },
+  {
+    "login": "nzfarhad",
+    "name": "Sayed Farhad Nabizda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5116194?s=72&u=c8340f11448fa54bbd9cc6dc34e06f82920a3584&v=4",
+    "location": "Mazar-e-sharif, Afghanistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 74,
+    "createdAt": "2013-07-29T20:36:37Z"
+  },
+  {
+    "login": "ehsan58",
+    "name": "Ehsan Mozaffari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3213169?s=72&u=c5212f08f0f4810c0ebb46ed8d0752dada5a9272&v=4",
+    "location": "Afghanistan",
+    "company": "Self",
+    "twitterUsername": "ahura_tanha",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-08T06:22:47Z"
+  },
+  {
+    "login": "jalilahmad",
+    "name": "Jalil Ahmad Fazeli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6159444?s=72&u=122a995f8d591d961791aaae7253f010e3c2fc21&v=4",
+    "location": "Herat,Afghanistan",
+    "company": "X 0011 Group",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2013-12-11T09:05:42Z"
+  },
+  {
+    "login": "hamidsafi",
+    "name": "hamidullah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4778402?s=72&v=4",
+    "location": "kabul,afghanistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-22T21:24:47Z"
   }
 ]
