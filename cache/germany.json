@@ -51874,5 +51874,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-27T10:18:21Z"
+  },
+  {
+    "login": "leon-liang",
+    "name": "Leon Liang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35398334?s=72&u=3098ee97285f7331d092ea06a8bc9011e664306f&v=4",
+    "location": "Luxembourg - Munich",
+    "company": "Technical University of Munich",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 858,
+    "publicContributions": 1362,
+    "createdAt": "2018-01-13T12:24:43Z"
+  },
+  {
+    "login": "MasterOfKay",
+    "name": "Leonardo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144215097?s=72&u=5e8d5ddb951888371e5ee2c68331af87f4cb6409&v=4",
+    "location": "Germany/Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 94,
+    "publicContributions": 55,
+    "createdAt": "2023-09-06T07:44:55Z"
   }
 ]

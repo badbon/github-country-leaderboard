@@ -1774,5 +1774,29 @@
     "privateContributions": 27,
     "publicContributions": 3,
     "createdAt": "2018-10-15T22:16:55Z"
+  },
+  {
+    "login": "SleekZ",
+    "name": "SleekZ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40346672?s=72&u=b32fd934f52e206b545badea853af95ac28db1c7&v=4",
+    "location": "Pyongyang",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2018-06-18T01:51:49Z"
+  },
+  {
+    "login": "kholtastrophe",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38381275?s=72&u=076851975b74e7928ffc9877c01be77c2d65ffca&v=4",
+    "location": "Pyongyang",
+    "company": "osu!Ainu",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-14T15:45:01Z"
   }
 ]

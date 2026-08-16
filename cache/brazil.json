@@ -51178,5 +51178,41 @@
     "privateContributions": 227,
     "publicContributions": 215,
     "createdAt": "2025-02-24T16:24:21Z"
+  },
+  {
+    "login": "MatheusFortes7",
+    "name": "Matheus Fortes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79404379?s=72&u=8377fb1834330e4495218642a41958d0a653de7d&v=4",
+    "location": "Nova Lima / Belo Horizonte, MG",
+    "company": "Compass.uol",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-21T12:06:23Z"
+  },
+  {
+    "login": "beatrizgfontes",
+    "name": "Beatriz Fontes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85123299?s=72&u=1a46e8dd055e59e14040c6ffab8810efbb5fbe95&v=4",
+    "location": "Abreu e Lima, Brazil",
+    "company": "IFPE, ETEJBL",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-31T15:34:17Z"
+  },
+  {
+    "login": "MarcioCosta013",
+    "name": "Marcio J. Costa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87935294?s=72&u=6901988e4764f4383672c86c872910b77fc24955&v=4",
+    "location": "Abreu e Lima - PE, Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1,
+    "publicContributions": 290,
+    "createdAt": "2021-07-25T12:21:37Z"
   }
 ]

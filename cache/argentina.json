@@ -51070,5 +51070,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-31T16:26:01Z"
+  },
+  {
+    "login": "gonzalezfj",
+    "name": "Facundo J Gonzalez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3005929?s=72&u=450002d976637c7c7f03aa596a1b00f5cf367d31&v=4",
+    "location": "San Juan, Argentina",
+    "company": "maslow.hr",
+    "twitterUsername": "facujgg",
+    "followers": 26,
+    "privateContributions": 73,
+    "publicContributions": 6,
+    "createdAt": "2012-12-10T08:11:10Z"
+  },
+  {
+    "login": "patocardo",
+    "name": "Patricio Cardó",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1381909?s=72&u=7aa050a7f46844134c9f0c421e88481c46fd286c&v=4",
+    "location": "San Juan, Argentina",
+    "company": "Codigitar",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2012-01-26T12:35:35Z"
+  },
+  {
+    "login": "incloud-ar",
+    "name": "Gerónimo Ortiz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1388421?s=72&u=3991a39f3da70bbd953bb80c33c2b7331fd1abdf&v=4",
+    "location": "San Juan, Argentina",
+    "company": "InCloud.ar",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-29T03:10:03Z"
   }
 ]
