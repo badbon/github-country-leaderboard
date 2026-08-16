@@ -15619,7 +15619,7 @@
     "company": "LotusFlare",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1358,
+    "privateContributions": 1359,
     "publicContributions": 0,
     "createdAt": "2024-01-08T17:46:59Z"
   },
@@ -26758,5 +26758,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-09T09:33:56Z"
+  },
+  {
+    "login": "SpirinToliasik",
+    "name": "Anatolii Spirin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169518221?s=72&v=4",
+    "location": "Odesa",
+    "company": "Odesa I. Mechnykov National University",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-11T06:42:29Z"
+  },
+  {
+    "login": "dmytroraise",
+    "name": "Dmytro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164249051?s=72&u=80ed1d61333d86c6efff6e4db40ff8692fb62770&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "Dmitriyraise",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-20T20:20:36Z"
+  },
+  {
+    "login": "kozlovoleksii",
+    "name": "Oleksii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155822393?s=72&u=dddf5d1838cc82364ec861a62a6dc591f93dcbb2&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "oleksii_kozlov",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 79,
+    "createdAt": "2024-01-06T12:32:35Z"
+  },
+  {
+    "login": "VoziianOfficial",
+    "name": "Yuliia Voziian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160169381?s=72&u=3618af8c1a103497128c65ee5ecfd459cd8cfe37&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3904,
+    "createdAt": "2024-02-15T18:39:32Z"
+  },
+  {
+    "login": "DupelPusto",
+    "name": "Боріс Євгеній Вадимович",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183132617?s=72&v=4",
+    "location": "Odesa",
+    "company": "Professional College of Network and Informatization under State University of Intellectual Technologies and Comunication",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 124,
+    "createdAt": "2024-09-27T17:34:07Z"
+  },
+  {
+    "login": "vargchaos",
+    "name": "varg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168677978?s=72&u=fab4822268f87942830d454e9aa89448c0294c81&v=4",
+    "location": "Odesa, UA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2024-05-01T19:37:45Z"
+  },
+  {
+    "login": "showszs",
+    "name": "Ivan Pasat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159952604?s=72&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 72,
+    "publicContributions": 38,
+    "createdAt": "2024-02-13T19:25:48Z"
   }
 ]

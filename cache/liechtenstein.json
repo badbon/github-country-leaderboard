@@ -1258,5 +1258,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-11-09T11:11:36Z"
+  },
+  {
+    "login": "marsop",
+    "name": "Alberto Gregorio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1566219?s=72&u=ae3326707215e133ecce720bc39cc0a876345f41&v=4",
+    "location": "Ruggell, Liechtenstein",
+    "company": "phios ag",
+    "twitterUsername": "marsop_",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 1412,
+    "createdAt": "2012-03-22T21:30:59Z"
+  },
+  {
+    "login": "iwhp",
+    "name": "Harry Pfleger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1591872?s=72&u=16bed92c66f8f787eddcd67b5d46679c03fc374e&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 629,
+    "createdAt": "2012-03-30T21:44:08Z"
+  },
+  {
+    "login": "SubmitCode",
+    "name": "Wilhelm Fritsche",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1572916?s=72&u=a1f3803400331f1d8f5da479f7638ad9f99ca30c&v=4",
+    "location": "Liechtenstein",
+    "company": "Inventx AG",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2012-03-25T09:34:26Z"
+  },
+  {
+    "login": "Bengolino",
+    "name": "Rupert S. Quaderer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1568646?s=72&v=4",
+    "location": "Liechtenstein",
+    "company": "Webdevs",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-23T15:57:47Z"
   }
 ]

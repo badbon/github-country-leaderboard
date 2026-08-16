@@ -11830,5 +11830,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-05-07T12:37:50Z"
+  },
+  {
+    "login": "pylover",
+    "name": "Vahid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1302253?s=72&u=d79e0ffec60b0668926678ad2e3364f213c2a718&v=4",
+    "location": "Muscat, Oman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 422,
+    "privateContributions": 672,
+    "publicContributions": 799,
+    "createdAt": "2012-01-03T21:19:08Z"
+  },
+  {
+    "login": "ghulamostafa",
+    "name": "Ghulam Mustafa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3088262?s=72&u=f97c366e8b16fd7292f2c5631628c18b9a24a0da&v=4",
+    "location": "Oman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 22,
+    "publicContributions": 4,
+    "createdAt": "2012-12-20T08:45:59Z"
+  },
+  {
+    "login": "SamiAlsubhi",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2551232?s=72&v=4",
+    "location": "Muscat, Oman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-10-13T11:40:55Z"
+  },
+  {
+    "login": "hamed-alshukri",
+    "name": "Hamed Al-Shukri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1812192?s=72&u=a16d8fa7f2fe776f7c3d90d60299268d84c1ff18&v=4",
+    "location": "Muscat, Oman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 2286,
+    "publicContributions": 0,
+    "createdAt": "2012-06-03T13:21:18Z"
+  },
+  {
+    "login": "aalbusaidi",
+    "name": "Adil Al-Busaidi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2831431?s=72&u=5e7b7372b2159c034c257657ad86d689c9a0fab5&v=4",
+    "location": "Oman",
+    "company": "Sultan Qaboos University",
+    "twitterUsername": "aalbusaidi",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-19T04:31:06Z"
+  },
+  {
+    "login": "mode00999",
+    "name": "mohammad abu swailem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1391787?s=72&v=4",
+    "location": "Oman",
+    "company": "MasFocus",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-30T15:53:52Z"
+  },
+  {
+    "login": "NasserAlmanji",
+    "name": "Nasser",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1848549?s=72&v=4",
+    "location": "Oman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-06-14T01:07:18Z"
+  },
+  {
+    "login": "profdrbala",
+    "name": "Dr. Bala Dhandayuthapani V.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2438260?s=72&u=bdb16f8b868d53ca66544cd0ca4ba23fd3a55c7c&v=4",
+    "location": "Sultanate of Oman",
+    "company": "University of Technology and Applied Sciences - Shinas",
+    "twitterUsername": "dhanssoft",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-27T15:30:49Z"
   }
 ]

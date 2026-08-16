@@ -34,5 +34,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-27T04:48:34Z"
+  },
+  {
+    "login": "achoisy",
+    "name": "Alexandre Choisy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12695878?s=72&u=38c7a4372221c424f7790077f026f38d9b18d3a8&v=4",
+    "location": "Saint-Martin",
+    "company": "Choisy Consulting",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 224,
+    "publicContributions": 0,
+    "createdAt": "2015-06-01T12:19:06Z"
+  },
+  {
+    "login": "fbeiger",
+    "name": "François Beiger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12660156?s=72&u=2d857cead7977617eb12131168876d39a2dbe42e&v=4",
+    "location": "Saint Martin",
+    "company": "Polytech Montpellier",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-29T13:32:14Z"
+  },
+  {
+    "login": "DiDzHey",
+    "name": "Nadia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14935977?s=72&u=9667c7a2ff1608a3901ade1145a934c1e6455f8a&v=4",
+    "location": "Saint-Martin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-02T05:00:22Z"
   }
 ]

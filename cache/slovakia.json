@@ -26866,5 +26866,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-27T20:18:57Z"
+  },
+  {
+    "login": "BMXsanko",
+    "name": "Alexander Méhes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44301005?s=72&u=e441f18400100c6aefe76789fb4a7d9b2a6b9e7c&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 305,
+    "publicContributions": 18,
+    "createdAt": "2018-10-19T17:21:43Z"
+  },
+  {
+    "login": "xxchem",
+    "name": "Martin Kňažovič",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36049595?s=72&u=2bf34ed0d48bb6dffc6166d07c01dbae84ead56b&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 52,
+    "publicContributions": 0,
+    "createdAt": "2018-02-01T18:19:39Z"
+  },
+  {
+    "login": "GeorgeSnitar",
+    "name": "Snitar Yurii ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44969711?s=72&u=f82d17cb12a873496a53e6530dad240721bac9e3&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-12T11:36:44Z"
+  },
+  {
+    "login": "matejpeluha",
+    "name": "Matej Peluha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45636442?s=72&u=2d5e02ae4718625857e0d1c4a77f48692e7749e1&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-05T17:32:12Z"
+  },
+  {
+    "login": "Tolano88",
+    "name": "Lubomir Kukuca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40166956?s=72&u=800f0e5fac21835b8eb01f573abc9aad3397cbdc&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "tolano88",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-11T10:02:26Z"
   }
 ]

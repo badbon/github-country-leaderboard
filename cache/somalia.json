@@ -9682,5 +9682,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-12-10T14:53:07Z"
+  },
+  {
+    "login": "Somali-Developer",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38513898?s=72&u=e325644327be7bbad6a6bf37d9567664b3368480&v=4",
+    "location": "Mogadishu Somali",
+    "company": "AbasICT",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-19T01:16:54Z"
+  },
+  {
+    "login": "AbdiwaliMohamed",
+    "name": "Abdiwali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46087190?s=72&u=737fa4279f2fbc987231b41af2dc4e6063feba42&v=4",
+    "location": "Mogadishu",
+    "company": "@Bulaal-Technology @taskplete @SomaliNationalUniversity",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 330,
+    "publicContributions": 0,
+    "createdAt": "2018-12-23T13:45:42Z"
+  },
+  {
+    "login": "bashkahee",
+    "name": "Bashir Abdinur Ahmed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39697016?s=72&u=92d835adb78ca0467422dd0d0bfbba6f01e97777&v=4",
+    "location": "Mogadishu",
+    "company": "Jamhuriya Technology Solutions",
+    "twitterUsername": "bashkahee",
+    "followers": 16,
+    "privateContributions": 3288,
+    "publicContributions": 8,
+    "createdAt": "2018-05-28T10:36:49Z"
   }
 ]

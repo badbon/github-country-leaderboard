@@ -3382,5 +3382,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-03-03T15:05:23Z"
+  },
+  {
+    "login": "salembaira",
+    "name": "Mohamed Salem BAIRA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5349435?s=72&u=030c9d1ce5bee90f0a08093b1a428220741f8d0a&v=4",
+    "location": "Nouakchott, Mauritania",
+    "company": "@IBTIKAR-Technologies ",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 2263,
+    "publicContributions": 0,
+    "createdAt": "2013-08-30T20:01:49Z"
+  },
+  {
+    "login": "Abd3lk4d3r",
+    "name": "Abdelkader",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3161096?s=72&v=4",
+    "location": "Mauritania",
+    "company": "Web Developper",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-31T23:09:20Z"
+  },
+  {
+    "login": "medahmedey",
+    "name": "Mohamed Ahmed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5248706?s=72&v=4",
+    "location": "Mauritania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-17T04:01:05Z"
+  },
+  {
+    "login": "scriptssniper",
+    "name": "scripts sniper",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5280150?s=72&v=4",
+    "location": "mauritania",
+    "company": "students",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2013-08-21T16:49:58Z"
+  },
+  {
+    "login": "adamabdu",
+    "name": "Adama abdu camara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4275591?s=72&v=4",
+    "location": "Mauritania",
+    "company": "adamabdu.com",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-27T19:16:34Z"
   }
 ]
