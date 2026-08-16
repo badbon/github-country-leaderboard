@@ -30058,5 +30058,53 @@
     "privateContributions": 1061,
     "publicContributions": 262,
     "createdAt": "2021-02-02T11:18:51Z"
+  },
+  {
+    "login": "barrstorm6",
+    "name": "Bibarys Sergaliyev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95759758?s=72&u=0e018b70f86369b0ecf0c5246c69fc5ae88ef157&v=4",
+    "location": "Almaty, Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-08T14:07:38Z"
+  },
+  {
+    "login": "TemirlanTech",
+    "name": "Temirlan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85861566?s=72&u=db0ca24e075862a358070716477d5a04e31cdd07&v=4",
+    "location": "Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-06-14T05:23:29Z"
+  },
+  {
+    "login": "adambeckercodes",
+    "name": "Dias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89679442?s=72&u=d5af29652d9744e68709709df2d0a96199b0bba2&v=4",
+    "location": "Qazaqstan",
+    "company": "",
+    "twitterUsername": "adambeckercodes",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-28T05:54:13Z"
+  },
+  {
+    "login": "omnxscxent",
+    "name": "Adil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86008926?s=72&v=4",
+    "location": "Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-16T14:54:54Z"
   }
 ]

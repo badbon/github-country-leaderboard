@@ -490,5 +490,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-09-19T18:02:51Z"
+  },
+  {
+    "login": "jasemagee",
+    "name": "Jason",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/547508?s=72&u=6b1d82a9fcb4cfc9d52c64d8597c1e3b329269fc&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-04T19:53:46Z"
+  },
+  {
+    "login": "mike-wade",
+    "name": "Michael Wade",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/630541?s=72&v=4",
+    "location": "Guernsey",
+    "company": "Consultant",
+    "twitterUsername": "SpikeTheMaster",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-21T19:19:22Z"
+  },
+  {
+    "login": "acatcalledanarchy",
+    "name": "A Cat Called Anarchy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/798187?s=72&v=4",
+    "location": "Guernsey, Channel Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-05-19T13:41:25Z"
   }
 ]

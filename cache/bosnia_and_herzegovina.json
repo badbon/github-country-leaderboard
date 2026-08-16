@@ -17948,7 +17948,7 @@
     "twitterUsername": "aleksamcode",
     "followers": 102,
     "privateContributions": 2099,
-    "publicContributions": 1870,
+    "publicContributions": 1871,
     "createdAt": "2016-10-28T23:24:15Z"
   },
   {
@@ -19066,5 +19066,101 @@
     "privateContributions": 175,
     "publicContributions": 62,
     "createdAt": "2016-06-14T07:49:25Z"
+  },
+  {
+    "login": "EnisMulic",
+    "name": "Enis Mulić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17247763?s=72&u=b03145d0bbe33f7fe58070e8bca81b1765e1d133&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "@rubiconba",
+    "twitterUsername": "",
+    "followers": 42,
+    "privateContributions": 464,
+    "publicContributions": 172,
+    "createdAt": "2016-02-15T09:29:51Z"
+  },
+  {
+    "login": "ZulianTiger",
+    "name": "Armin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19154242?s=72&u=83cd72c25ce7eea6b6a898fc13797142a0dc8b6b&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 261,
+    "publicContributions": 0,
+    "createdAt": "2016-05-02T17:19:26Z"
+  },
+  {
+    "login": "amarburic",
+    "name": "Amar Burić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16511103?s=72&u=496d17f4cc5fe0ebc4451efba61d5948278b6881&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-01T19:22:00Z"
+  },
+  {
+    "login": "harooooo1",
+    "name": "Haro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19266587?s=72&u=12b0bfde4584c15549abfb260f4d3ac6c03a5588&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2016-05-09T12:55:15Z"
+  },
+  {
+    "login": "njoBe97",
+    "name": "Benjamin Mahmić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23282061?s=72&u=447a6afb8d17bd798aadfeef2344da83d2a5c757&v=4",
+    "location": "Zenica, Bosnia&Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-05T17:42:12Z"
+  },
+  {
+    "login": "AdmirAlagic",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17022884?s=72&u=ec8ce917b3ac77b62681e839fdb7074013368b14&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "Omnitask",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2319,
+    "publicContributions": 26,
+    "createdAt": "2016-02-02T09:35:29Z"
+  },
+  {
+    "login": "ado387",
+    "name": "Adnan Požegić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20289741?s=72&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-04T23:29:48Z"
+  },
+  {
+    "login": "callmevolk",
+    "name": "Ljubiša Vuković",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24740364?s=72&u=61d14ee89fea41e61dfd4071e41cfe13c2b12189&v=4",
+    "location": "Banja Luka, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-24T00:17:15Z"
   }
 ]

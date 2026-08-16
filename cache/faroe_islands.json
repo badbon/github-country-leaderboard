@@ -418,5 +418,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-02-25T16:10:49Z"
+  },
+  {
+    "login": "eydunn",
+    "name": "Eyðun Nielsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9845199?s=72&u=1d3ce381284b829abe76ce985b65e8937929bb57&v=4",
+    "location": "Tórshavn, Faroe islands",
+    "company": "@globe-tracker",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 682,
+    "publicContributions": 32,
+    "createdAt": "2014-11-19T14:19:42Z"
+  },
+  {
+    "login": "thorgisl",
+    "name": "Dreki Þórgísl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9323723?s=72&u=f5d7f541c5f75740dcef255c8bc1e4807f220775&v=4",
+    "location": "Tórshavn, Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-20T17:23:43Z"
+  },
+  {
+    "login": "shishpt",
+    "name": "Shishir Patel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8984291?s=72&u=5ea59f4bd859776c1fc4d93b2820eb543893efa5&v=4",
+    "location": "Torshavn, Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 37,
+    "publicContributions": 5,
+    "createdAt": "2014-10-01T12:36:28Z"
+  },
+  {
+    "login": "slang123",
+    "name": "Tummas Joensen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7000708?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 55,
+    "publicContributions": 6,
+    "createdAt": "2014-03-19T16:15:18Z"
+  },
+  {
+    "login": "theodorjohannesen",
+    "name": "Theodor E. Johannesen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7534750?s=72&u=bea36691cba006a6b016c7c8a4a91a4794a1a54d&v=4",
+    "location": "Faroe Islands",
+    "company": "Own",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 55,
+    "publicContributions": 3,
+    "createdAt": "2014-05-09T14:17:59Z"
+  },
+  {
+    "login": "jbiskur",
+    "name": "Julius á Rógvi Biskopstø",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7002421?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 3480,
+    "publicContributions": 409,
+    "createdAt": "2014-03-19T19:03:09Z"
+  },
+  {
+    "login": "bartalclementsen",
+    "name": "Bartal Clementsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7447591?s=72&u=0bbc184a8a36751d0ef6ee92cd7af187740be3f1&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2014-04-30T08:05:35Z"
+  },
+  {
+    "login": "hansjd",
+    "name": "Hans Jákup Danielsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6782043?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 551,
+    "publicContributions": 5,
+    "createdAt": "2014-02-25T12:01:40Z"
   }
 ]

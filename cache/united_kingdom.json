@@ -44278,5 +44278,41 @@
     "privateContributions": 0,
     "publicContributions": 142,
     "createdAt": "2025-09-30T07:53:43Z"
+  },
+  {
+    "login": "byjdw",
+    "name": "James Wilkinson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77703500?s=72&u=5dc16e0133e6f9534fb270a47b38f5e7851fabd2&v=4",
+    "location": "Northern Ireland",
+    "company": "GCD Technologies",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 27,
+    "publicContributions": 0,
+    "createdAt": "2021-01-19T23:17:38Z"
+  },
+  {
+    "login": "Twiggecode",
+    "name": "Adam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79292264?s=72&u=56b01b86bbf58e4d81e300bb486a26581726fd17&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-19T01:26:47Z"
+  },
+  {
+    "login": "RoyCero",
+    "name": "RoyCero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78434347?s=72&u=5539be9305dd10a08d26271b50920344322f6e3a&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 534,
+    "publicContributions": 0,
+    "createdAt": "2021-02-02T16:17:49Z"
   }
 ]
