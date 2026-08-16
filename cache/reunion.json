@@ -2146,5 +2146,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-06-11T13:54:33Z"
+  },
+  {
+    "login": "JFrederic",
+    "name": "Jouan Frédéric",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17689261?s=72&u=d251892b22ec1ce5232d8f074ce02e1c6e72acf0&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-06T17:15:38Z"
+  },
+  {
+    "login": "artists974",
+    "name": "AWARE - ARTISTS team",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19589165?s=72&u=94abe9525f88fd39d73b2ee08752271916921172&v=4",
+    "location": "Reunion Island",
+    "company": "CIRAD",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-26T10:34:20Z"
+  },
+  {
+    "login": "SINGDEVELOPMENT",
+    "name": "Laurent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24561155?s=72&u=578dcf6b6f1d5962045508f5851baee572154672&v=4",
+    "location": "Reunion Island",
+    "company": "SINGDEVELOPMENT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 54,
+    "createdAt": "2016-12-14T06:24:37Z"
   }
 ]

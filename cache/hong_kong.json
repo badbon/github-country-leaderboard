@@ -51778,5 +51778,65 @@
     "privateContributions": 35,
     "publicContributions": 4,
     "createdAt": "2019-01-14T07:07:59Z"
+  },
+  {
+    "login": "np900-aobol",
+    "name": "NP900",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48349581?s=72&u=4311a580ab25405c94a885beb63f14f91e098505&v=4",
+    "location": "Hong Kong",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-08T09:06:38Z"
+  },
+  {
+    "login": "tnetennba999",
+    "name": "1kgofsteel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47501108?s=72&u=0d72bfb241a05dd7512b12e3eb2709381b0d442b&v=4",
+    "location": "Hong Kong",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2019-02-10T15:23:15Z"
+  },
+  {
+    "login": "keenechoy",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51266503?s=72&v=4",
+    "location": "Hong Kong",
+    "company": "@fffproduction ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2019-06-01T14:05:11Z"
+  },
+  {
+    "login": "IdonLiu",
+    "name": "Idon Liu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51290341?s=72&u=aa3ecdbf8ea91bec5c5622ba861a10d05834cb0e&v=4",
+    "location": "Hong Kong",
+    "company": "SwissOne",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-02T12:41:14Z"
+  },
+  {
+    "login": "kobesin322",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46436626?s=72&u=b3259c0b01aac359894b409d3054fcec162d54bb&v=4",
+    "location": "Hong Kong",
+    "company": "Electrical and Mechanical Services Department",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 655,
+    "publicContributions": 5,
+    "createdAt": "2019-01-07T06:17:46Z"
   }
 ]

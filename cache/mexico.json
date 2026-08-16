@@ -40222,5 +40222,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-06-03T15:50:23Z"
+  },
+  {
+    "login": "sublai",
+    "name": "SublAi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147022077?s=72&u=fd3d6dd8a949962c8bb6e2745ea252470eab4133&v=4",
+    "location": "Guadalajara, Jalisco, México",
+    "company": "sublai",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-05T04:35:33Z"
+  },
+  {
+    "login": "rabarkarfactor",
+    "name": "Roberto Abarca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141085767?s=72&u=33efeaec0d428ab85d94dcc96a5150337c38ad10&v=4",
+    "location": "Guadalajara, México",
+    "company": "Factor Integración",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-31T23:47:54Z"
+  },
+  {
+    "login": "Aaronsep",
+    "name": "Aaron Homero Sepúlveda Salcedo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123139104?s=72&u=e209c469ad8a42609379e55d786d2fbfb11d0217&v=4",
+    "location": "Iteso guadalajara",
+    "company": "Iteso",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3371,
+    "publicContributions": 43,
+    "createdAt": "2023-01-20T03:28:44Z"
+  },
+  {
+    "login": "cristian-erazo",
+    "name": "Cristian Camilo Erazo Agredo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18490071?s=72&u=8ee91e46e103934cb33cf3e599e5efb091bca4a6&v=4",
+    "location": "Ciudad Victoria, Tamaulipas, México",
+    "company": "CINVESTAV",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-15T19:27:23Z"
+  },
+  {
+    "login": "garzafabre",
+    "name": "Mario Garza-Fabre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23497627?s=72&u=ce8aac2a4e749fca27a9c21411149f434192a54f&v=4",
+    "location": "Ciudad Victoria, Tamaulipas, México",
+    "company": "Cinvestav",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-16T09:48:40Z"
   }
 ]

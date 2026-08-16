@@ -50098,5 +50098,89 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2024-05-19T19:44:39Z"
+  },
+  {
+    "login": "mikebarr24",
+    "name": "Mike",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89523154?s=72&u=4f066dafa7f5ebaba3a9e3526a7b1dcbdd95ea11&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 614,
+    "publicContributions": 238,
+    "createdAt": "2021-08-25T11:49:32Z"
+  },
+  {
+    "login": "jh10z",
+    "name": "Jason",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92221514?s=72&u=7b926aa959214737d322526f6cb12986fa10b513&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-10-09T15:22:23Z"
+  },
+  {
+    "login": "markuscondren",
+    "name": "Markus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92106277?s=72&u=0f25abd33a8a9d55ca3bb8f27dbe77448dc3284d&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2021-10-07T14:44:25Z"
+  },
+  {
+    "login": "RickofManc",
+    "name": "Rick Atherton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91251025?s=72&u=6ed22f7525ad87d10046e584a5f851551dbd1ae2&v=4",
+    "location": "Portstewart, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 3,
+    "publicContributions": 0,
+    "createdAt": "2021-09-23T08:29:44Z"
+  },
+  {
+    "login": "joshuasy10",
+    "name": "Joshua Young",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92028931?s=72&u=a7394f7d263a884855eab77b2360c803acbf8040&v=4",
+    "location": "Northern Ireland",
+    "company": "GrantGunner | Canvassr | Lightning Arbitrage Solutions | RapidResearch | VidGaze",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 229,
+    "publicContributions": 12,
+    "createdAt": "2021-10-06T11:22:50Z"
+  },
+  {
+    "login": "JonathanFinlay",
+    "name": "Jonathan Finlay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91617637?s=72&u=b278166f3745a631d75ceb584b5ce2939468cebc&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-29T14:38:45Z"
+  },
+  {
+    "login": "SamGallaher",
+    "name": "Sam Gallaher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93600548?s=72&u=182923147b4bbd54ddd501de4d29f72ed3952737&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "@BiocolorAssays",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 57,
+    "publicContributions": 14,
+    "createdAt": "2021-11-02T14:43:18Z"
   }
 ]

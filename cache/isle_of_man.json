@@ -1486,5 +1486,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-01-02T15:44:11Z"
+  },
+  {
+    "login": "likesalmon",
+    "name": "Ammon Morris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3385891?s=72&u=49a34ebeb75773ae79fab44eb0326b9b5443ae2f&v=4",
+    "location": "Douglas, AK",
+    "company": "SaasFactory",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 1088,
+    "publicContributions": 0,
+    "createdAt": "2013-01-25T22:31:07Z"
+  },
+  {
+    "login": "dksheffield",
+    "name": "David Sheffield",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5041010?s=72&u=a703ab02b2cbeba2de974d77f9192c5e2e25214f&v=4",
+    "location": "Douglas GA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-18T16:51:42Z"
   }
 ]
