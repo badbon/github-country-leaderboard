@@ -19870,5 +19870,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-21T07:48:40Z"
+  },
+  {
+    "login": "ashbel",
+    "name": "Ashbel Handiringi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/343301?s=72&u=2b7c4e64a8630f79b3a092a24d0d5b5bb00e3fff&v=4",
+    "location": "Harare, Zimbabwe",
+    "company": "Mopane Systems",
+    "twitterUsername": "ashbell86",
+    "followers": 14,
+    "privateContributions": 1371,
+    "publicContributions": 24,
+    "createdAt": "2010-07-25T07:16:48Z"
+  },
+  {
+    "login": "web-ster",
+    "name": "web-ster",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274778?s=72&v=4",
+    "location": "Zimbabwe",
+    "company": "Web-ster Solutions",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-12T19:49:47Z"
   }
 ]

@@ -45274,5 +45274,89 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-10-29T16:35:49Z"
+  },
+  {
+    "login": "chris-marsh",
+    "name": "Chris Marsh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10662234?s=72&v=4",
+    "location": "Hamilton, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-01-22T23:59:26Z"
+  },
+  {
+    "login": "steelenj",
+    "name": "Norrie Steele",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14905033?s=72&u=bbc8dab2cf4fb9e949e1f44c5652f56fe93ab33c&v=4",
+    "location": "Hamilton, UK",
+    "company": "Mainetti UK Limited",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-30T10:09:27Z"
+  },
+  {
+    "login": "Grit-Dev",
+    "name": "Paul McGinley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80127971?s=72&u=e3137250d90e2705e9d629e7ae69e0eeec53289a&v=4",
+    "location": "Derry, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 52,
+    "publicContributions": 739,
+    "createdAt": "2021-03-05T20:14:59Z"
+  },
+  {
+    "login": "AlexKusmirek",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78969504?s=72&u=bd2ea3fe3064117c5bf99f02203bcf04ca7228dc&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-12T14:59:17Z"
+  },
+  {
+    "login": "saram7619",
+    "name": "Sarah McClelland",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82645022?s=72&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-16T08:40:53Z"
+  },
+  {
+    "login": "EilisPeover1",
+    "name": "Eilis Peover",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85934891?s=72&u=6bb0a54201a63cd6a6d3d6f43e5d0890282dbb66&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-06-15T10:09:07Z"
+  },
+  {
+    "login": "davidkennedy02",
+    "name": "David Kennedy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82157860?s=72&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2021-04-08T12:39:19Z"
   }
 ]

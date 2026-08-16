@@ -16162,5 +16162,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2010-04-19T10:50:56Z"
+  },
+  {
+    "login": "smaboshe",
+    "name": "Silumesii Maboshe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72755?s=72&u=7b144709ee02f2c9b49800e4e76f9d9d01fed716&v=4",
+    "location": "Zambia",
+    "company": "@pencilcasestudios ",
+    "twitterUsername": "silumesii",
+    "followers": 163,
+    "privateContributions": 341,
+    "publicContributions": 119,
+    "createdAt": "2009-04-11T16:05:02Z"
+  },
+  {
+    "login": "drsjlazar",
+    "name": "Mission Zambia Stake Pool",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81657?s=72&u=ec8f59de3f7a8d3566cf23b40394957a37d9b980&v=4",
+    "location": "Zambia",
+    "company": "",
+    "twitterUsername": "missionzampool",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-05-06T14:27:57Z"
   }
 ]

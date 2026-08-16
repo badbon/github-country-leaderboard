@@ -3754,5 +3754,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-30T11:37:47Z"
+  },
+  {
+    "login": "albertkeba",
+    "name": "Albert KEBA MAGNAGNA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1234907?s=72&u=af5d8b11e388e9d55bf2a4b22ac4483e13fd5e68&v=4",
+    "location": "Libreville",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2011-12-02T00:39:59Z"
+  },
+  {
+    "login": "sylvestreonline",
+    "name": "sylvestreonline",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/967612?s=72&v=4",
+    "location": "Libreville",
+    "company": "beta41",
+    "twitterUsername": "beta41_net",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-08-08T22:42:16Z"
   }
 ]
