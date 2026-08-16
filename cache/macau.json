@@ -4690,5 +4690,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-12T10:49:40Z"
+  },
+  {
+    "login": "sfcheung",
+    "name": "Shu Fai Cheung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7019263?s=72&u=9f5a50fb91d373214ae19c24c759003ccdddc85c&v=4",
+    "location": "Macao",
+    "company": "University of Macau",
+    "twitterUsername": "blogonresearch",
+    "followers": 27,
+    "privateContributions": 497,
+    "publicContributions": 2526,
+    "createdAt": "2014-03-21T06:11:59Z"
+  },
+  {
+    "login": "weng-pang",
+    "name": "Weng Long Pang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7587960?s=72&u=c97798e3721317bb065f3367348ab848623ec0a2&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 14,
+    "publicContributions": 273,
+    "createdAt": "2014-05-15T03:16:37Z"
+  },
+  {
+    "login": "vanlaodev",
+    "name": "Van Lao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6744208?s=72&u=2d97d1dddc0c250812768e3b9d5f50b4c7795379&v=4",
+    "location": "Macau, Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-21T03:30:26Z"
   }
 ]

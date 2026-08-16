@@ -49006,5 +49006,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-09-23T23:45:32Z"
+  },
+  {
+    "login": "avladishev",
+    "name": "Alexei Vladishev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20664535?s=72&u=8c632512c76c24955d60571f42cd911b5b949a42&v=4",
+    "location": "Riga, Tokyo, Porto Alegre, New York ",
+    "company": "Zabbix",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-26T14:22:29Z"
+  },
+  {
+    "login": "Vinicius-Jean-F",
+    "name": "Vinícius Jean Ferreira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109921345?s=72&u=c4ec1b823026e5ba66494ccc0b37df3022043052&v=4",
+    "location": "Brazil/Switzerland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-24T19:31:56Z"
   }
 ]

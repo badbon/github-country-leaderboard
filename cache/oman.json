@@ -11840,7 +11840,7 @@
     "twitterUsername": "",
     "followers": 422,
     "privateContributions": 672,
-    "publicContributions": 799,
+    "publicContributions": 801,
     "createdAt": "2012-01-03T21:19:08Z"
   },
   {
@@ -11926,5 +11926,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-09-27T15:30:49Z"
+  },
+  {
+    "login": "Fahad-Alsaidi",
+    "name": "Fahad Al-Saidi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1632566?s=72&v=4",
+    "location": "Muscat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2012-04-11T09:54:00Z"
   }
 ]

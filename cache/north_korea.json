@@ -1702,5 +1702,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-01T21:09:35Z"
+  },
+  {
+    "login": "mrg1995",
+    "name": "Kim John",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38936538?s=72&u=3bee24d2f84a6f39a94ac9e576234d411ab5fe32&v=4",
+    "location": "North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-03T07:09:54Z"
+  },
+  {
+    "login": "iMusynx",
+    "name": "Mu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40123877?s=72&v=4",
+    "location": "North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1,
+    "publicContributions": 29,
+    "createdAt": "2018-06-09T17:01:24Z"
+  },
+  {
+    "login": "renxiaoyaoo",
+    "name": "renxiaoyao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35550993?s=72&u=9bfb54f5f2dd3b5c11748c0c25a42a204ab39afa&v=4",
+    "location": "North Korea\t",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 186,
+    "publicContributions": 165,
+    "createdAt": "2018-01-18T02:50:26Z"
+  },
+  {
+    "login": "tbvld2000",
+    "name": "Samtree",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45191693?s=72&u=706ecc2110fa5cb85eb031105b133ae9b4c20341&v=4",
+    "location": "North Korea, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2018-11-20T05:40:23Z"
+  },
+  {
+    "login": "furious664654",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44979090?s=72&u=6d118cfefff19dff24aecc8746500b2fc7cc95c9&v=4",
+    "location": "Pyongyang, North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-12T17:14:33Z"
+  },
+  {
+    "login": "MystycTrolls",
+    "name": "Hi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44180668?s=72&v=4",
+    "location": "North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 27,
+    "publicContributions": 3,
+    "createdAt": "2018-10-15T22:16:55Z"
   }
 ]

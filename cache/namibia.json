@@ -5506,5 +5506,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-05-03T13:50:06Z"
+  },
+  {
+    "login": "rolandihms",
+    "name": "ihms",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/555129?s=72&u=68dc31fda185a43ebf562d2dcf1842981b386425&v=4",
+    "location": "Swakopmund, Namibia",
+    "company": "@ihms-co ",
+    "twitterUsername": "rolandihms",
+    "followers": 18,
+    "privateContributions": 1281,
+    "publicContributions": 9,
+    "createdAt": "2011-01-10T06:44:20Z"
+  },
+  {
+    "login": "sirgatsen",
+    "name": "Gatsen Tjirare",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/828654?s=72&u=d4419f40f74793721cc6e7a486fd215adcdb8281&v=4",
+    "location": "Windhoek, Namibia",
+    "company": "@gatsensoft",
+    "twitterUsername": "sirgatsen",
+    "followers": 11,
+    "privateContributions": 403,
+    "publicContributions": 1,
+    "createdAt": "2011-06-03T23:53:50Z"
+  },
+  {
+    "login": "wilwad",
+    "name": "William Sengdara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/685767?s=72&u=1d540ee250ebe83b56a54c5334c0af1389243f53&v=4",
+    "location": "Windhoek, Namibia",
+    "company": "Solutions Architect: Software & Web Developer",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-23T09:54:24Z"
+  },
+  {
+    "login": "mtjikuzu",
+    "name": "Mbaunguraije Tjikuzu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1013140?s=72&u=3c841c8f21efe849fe3e983354f2910325210097&v=4",
+    "location": "Windhoek, Namibia",
+    "company": "Namibia University of Science and Technology",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1374,
+    "publicContributions": 129,
+    "createdAt": "2011-08-29T23:30:57Z"
+  },
+  {
+    "login": "RobertBinneman",
+    "name": "Robert Binneman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/957167?s=72&u=af62c5c07132c841ae965b04f4e632cc8a27471f&v=4",
+    "location": "Namibia",
+    "company": "CoLab",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2011-08-03T18:08:48Z"
+  },
+  {
+    "login": "dmostert-gresham",
+    "name": "Divan Mostert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/914502?s=72&v=4",
+    "location": "Namibia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2011-07-14T07:57:56Z"
+  },
+  {
+    "login": "pkaelela",
+    "name": "Kae ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/590624?s=72&v=4",
+    "location": "Windhoek Namibia",
+    "company": "Meat Board",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-30T01:07:26Z"
   }
 ]

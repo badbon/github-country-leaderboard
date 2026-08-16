@@ -7350,7 +7350,7 @@
     "location": "Juba/Kigali",
     "company": "",
     "twitterUsername": "aroupiok",
-    "followers": 90,
+    "followers": 95,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-20T08:56:00Z"
@@ -23526,7 +23526,7 @@
     "location": "Rwanda,Kigali",
     "company": "atlp-rwanda",
     "twitterUsername": "Ally_leandre",
-    "followers": 113,
+    "followers": 120,
     "privateContributions": 822,
     "publicContributions": 255,
     "createdAt": "2021-02-03T15:26:21Z"
@@ -23574,7 +23574,7 @@
     "location": "Kigali-Rwanda",
     "company": "Sparking Finance",
     "twitterUsername": "r_prudent",
-    "followers": 95,
+    "followers": 101,
     "privateContributions": 2,
     "publicContributions": 17,
     "createdAt": "2021-02-19T12:58:47Z"
@@ -23622,7 +23622,7 @@
     "location": "Kigali, Rwanda",
     "company": "NELEVAT",
     "twitterUsername": "PNezerwa",
-    "followers": 58,
+    "followers": 63,
     "privateContributions": 263,
     "publicContributions": 1,
     "createdAt": "2021-04-09T00:36:22Z"
@@ -23743,7 +23743,7 @@
     "company": "KB21",
     "twitterUsername": "",
     "followers": 38,
-    "privateContributions": 8951,
+    "privateContributions": 8954,
     "publicContributions": 336,
     "createdAt": "2021-02-21T18:55:38Z"
   },
@@ -23815,7 +23815,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 29,
-    "privateContributions": 224,
+    "privateContributions": 226,
     "publicContributions": 52,
     "createdAt": "2021-04-06T19:12:52Z"
   },
@@ -25411,7 +25411,7 @@
     "company": "",
     "twitterUsername": "dush_valentin",
     "followers": 41,
-    "privateContributions": 778,
+    "privateContributions": 789,
     "publicContributions": 67,
     "createdAt": "2021-11-09T08:30:46Z"
   },
@@ -25508,7 +25508,7 @@
     "twitterUsername": "donambi_thierry",
     "followers": 35,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 86,
     "createdAt": "2021-07-26T19:48:18Z"
   },
   {
@@ -25591,8 +25591,8 @@
     "company": "Software Developer",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 908,
-    "publicContributions": 388,
+    "privateContributions": 909,
+    "publicContributions": 389,
     "createdAt": "2021-09-28T15:23:41Z"
   },
   {
@@ -27454,5 +27454,161 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-23T22:29:32Z"
+  },
+  {
+    "login": "Jadoiconic",
+    "name": "NIZEYIMANA Jean de Dieu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86121130?s=72&u=09c6d71e6084571273ece14be58fff96aa23f143&v=4",
+    "location": "Kigali",
+    "company": "Remote",
+    "twitterUsername": "",
+    "followers": 227,
+    "privateContributions": 0,
+    "publicContributions": 111,
+    "createdAt": "2021-06-18T16:04:56Z"
+  },
+  {
+    "login": "Cedric921",
+    "name": "Lord VB | Evernix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83704005?s=72&u=e052f9c2603921af128fc382bf2ced3d7d90abe0&v=4",
+    "location": "Kigali  Dubai",
+    "company": "@ever-co",
+    "twitterUsername": "cedric921k",
+    "followers": 123,
+    "privateContributions": 2390,
+    "publicContributions": 834,
+    "createdAt": "2021-05-05T11:07:23Z"
+  },
+  {
+    "login": "mugishasam123",
+    "name": "mugisha Samuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90524466?s=72&u=eaf91ddf9d8aa80cf4b24d6fc9625866b49fb648&v=4",
+    "location": "Kigali",
+    "company": "code wrangler",
+    "twitterUsername": "mugishasamuel42",
+    "followers": 94,
+    "privateContributions": 4,
+    "publicContributions": 54,
+    "createdAt": "2021-09-11T17:41:25Z"
+  },
+  {
+    "login": "GSinseswa721",
+    "name": "Gloria Niyonkuru Sinseswa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85382004?s=72&u=f3f84aab079999fe50758e743f3726de31d3cbf6&v=4",
+    "location": "Kigali",
+    "company": "@atlp-rwanda ",
+    "twitterUsername": "",
+    "followers": 36,
+    "privateContributions": 1,
+    "publicContributions": 7,
+    "createdAt": "2021-06-05T04:33:02Z"
+  },
+  {
+    "login": "Hazard10-eng",
+    "name": "Jean Aime SEBAGABO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85750984?s=72&v=4",
+    "location": "kigali",
+    "company": "",
+    "twitterUsername": "sebagaboaime",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-11T14:27:21Z"
+  },
+  {
+    "login": "EzechielKiregha",
+    "name": "Kiregha Corporation ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96211998?s=72&u=6152de30552f5948a4f248a0bee81d8e53e463c3&v=4",
+    "location": "Kigali",
+    "company": "Kiregha Corporation",
+    "twitterUsername": "KireghaEzechiel",
+    "followers": 29,
+    "privateContributions": 175,
+    "publicContributions": 202,
+    "createdAt": "2021-12-15T23:30:15Z"
+  },
+  {
+    "login": "devark28",
+    "name": "Bruce Emmanuel SHIMWA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82113556?s=72&u=b523773aaabe2d70e09e3787a13fd1c17bc2b3ec&v=4",
+    "location": "Kigali",
+    "company": "Software Engineer",
+    "twitterUsername": "shimwabruce",
+    "followers": 26,
+    "privateContributions": 1347,
+    "publicContributions": 644,
+    "createdAt": "2021-04-07T17:24:06Z"
+  },
+  {
+    "login": "Hodal66",
+    "name": "MUHETO Hodal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85940364?s=72&u=daebe3b301e48bc1c2ba6269cc4de9718128f557&v=4",
+    "location": "Kigali",
+    "company": "Andela",
+    "twitterUsername": "MUHETO",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 119,
+    "createdAt": "2021-06-15T12:08:05Z"
+  },
+  {
+    "login": "ben-m-m",
+    "name": "Benson Maina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91253257?s=72&v=4",
+    "location": "Kigali",
+    "company": "SAMIS Systems",
+    "twitterUsername": "bensoh_m",
+    "followers": 22,
+    "privateContributions": 10,
+    "publicContributions": 710,
+    "createdAt": "2021-09-23T09:08:31Z"
+  },
+  {
+    "login": "Xldivin",
+    "name": "AxelDivin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92871668?s=72&u=d7142d9128af3025a87d7da878eaf14dd508be04&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "axel_divin",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 109,
+    "createdAt": "2021-10-20T14:30:45Z"
+  },
+  {
+    "login": "Salim-54",
+    "name": "NDAYISABYE Salim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81898585?s=72&u=50c9f65d60376117744cc16bbd027833b4fdaadd&v=4",
+    "location": "Kigali",
+    "company": "MEGGATRIC",
+    "twitterUsername": "Salim_Smith54",
+    "followers": 16,
+    "privateContributions": 254,
+    "publicContributions": 3,
+    "createdAt": "2021-04-04T06:55:16Z"
+  },
+  {
+    "login": "henrykgggg",
+    "name": "henry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88551100?s=72&u=37d6daf027991247de719ec596f8674b01d75978&v=4",
+    "location": "KIGALI",
+    "company": "MICROVERSE",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-06T15:40:01Z"
+  },
+  {
+    "login": "nathwyatt",
+    "name": "Nizeyimana Aime Thierry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89010035?s=72&u=705b71c058db8970122992e68158e231a5fb6cb2&v=4",
+    "location": "kigali",
+    "company": "Gilmedltd",
+    "twitterUsername": "AimeWyatt",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2021-08-16T08:30:23Z"
   }
 ]
