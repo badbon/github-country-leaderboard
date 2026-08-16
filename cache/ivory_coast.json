@@ -5626,5 +5626,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-10-14T11:24:46Z"
+  },
+  {
+    "login": "agnamc9",
+    "name": "Agnaramon Boris-Carnot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4026625?s=72&u=fda3b2bfe05ab9e606a04c6c8ef48e0a3dda85a4&v=4",
+    "location": "Abidjan, Côte d'Ivoire",
+    "company": "",
+    "twitterUsername": "agnamc9",
+    "followers": 55,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2013-04-01T12:40:28Z"
+  },
+  {
+    "login": "CedrickOka",
+    "name": "Cedrick Oka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5698547?s=72&u=2d2255a8c302928465217b400beca7ba31cf5387&v=4",
+    "location": "Abidjan, Côte d'Ivoire",
+    "company": "Aynid",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-16T08:31:00Z"
+  },
+  {
+    "login": "YitzakD",
+    "name": "Yitzak DEKPEMOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5847526?s=72&u=601afffee7df52a7f5c03c7fd3128ea41e7c94bc&v=4",
+    "location": "Côte d'Ivoire",
+    "company": "EXPOZART",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-04T03:41:14Z"
+  },
+  {
+    "login": "nick1981",
+    "name": "Pio Taras",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5447682?s=72&u=9daba0b9abbbaa31c44f2bfcffaca1ee8467677a&v=4",
+    "location": "Côte d'Ivoire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-09-12T21:44:20Z"
+  },
+  {
+    "login": "iskode",
+    "name": "Ismaël Koné",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4013555?s=72&u=1e30291e0be216ebd3642240419629060648dc5a&v=4",
+    "location": "Yamoussoukro, Côte d'Ivoire",
+    "company": "",
+    "twitterUsername": "iskodeur",
+    "followers": 7,
+    "privateContributions": 118,
+    "publicContributions": 22,
+    "createdAt": "2013-03-30T14:32:12Z"
+  },
+  {
+    "login": "ChardyT",
+    "name": "Daha Bossia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5276287?s=72&u=a43c4b8965b95aefe9c7701b82607b959e0a577e&v=4",
+    "location": "Côte d'Ivoire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-21T07:28:45Z"
+  },
+  {
+    "login": "messheno",
+    "name": "Stéphane KOUAKOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5787795?s=72&u=6d8c98aac302aa800c140108f540e2f1d1bcc660&v=4",
+    "location": "Abidjan, Côte D'Ivoire",
+    "company": "Mooya Inc.",
+    "twitterUsername": "messheno",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-27T16:45:17Z"
+  },
+  {
+    "login": "topkalouis",
+    "name": "Gueu Tokpa Louis Pacome",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5758621?s=72&u=4d728b4e2f768c312a03aab2917f2c5a6546a691&v=4",
+    "location": "Abidjan, Côte d'Ivoire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-23T17:41:46Z"
   }
 ]

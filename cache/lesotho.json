@@ -1918,5 +1918,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-08-11T07:56:26Z"
+  },
+  {
+    "login": "bonzysalesman",
+    "name": "Bonzy Salesman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/818828?s=72&v=4",
+    "location": "Maseru",
+    "company": "Weblesotho Networks",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2011-05-30T14:29:09Z"
+  },
+  {
+    "login": "zumz",
+    "name": "Tsatsi Mahase",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/623143?s=72&v=4",
+    "location": "Maseru",
+    "company": "Geditt",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-17T12:14:10Z"
   }
 ]

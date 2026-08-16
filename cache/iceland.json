@@ -6475,7 +6475,7 @@
     "company": "@GRID-is ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1343,
+    "privateContributions": 1376,
     "publicContributions": 3,
     "createdAt": "2017-07-11T01:19:15Z"
   },
@@ -6838,5 +6838,113 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2017-08-21T08:35:35Z"
+  },
+  {
+    "login": "jessieabby",
+    "name": "Jessie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28809441?s=72&v=4",
+    "location": "Reykjavik / Seattle",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-05-19T14:36:32Z"
+  },
+  {
+    "login": "quintant",
+    "name": "Sigurjón Ingi Jónsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34385890?s=72&u=09673892a45de609b465854c070d7f6c913c182a&v=4",
+    "location": "Reykjavik",
+    "company": "Elva Golf",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 290,
+    "publicContributions": 16,
+    "createdAt": "2017-12-09T00:07:33Z"
+  },
+  {
+    "login": "vidarhr",
+    "name": "Vidar Hrafnkelsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33483398?s=72&u=a14999aa679df1994d2fafebbc5cf0ff1f5ab00f&v=4",
+    "location": "Reykjavik",
+    "company": "@Asana",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1652,
+    "publicContributions": 0,
+    "createdAt": "2017-11-08T10:41:25Z"
+  },
+  {
+    "login": "halldorvalberg",
+    "name": "Halldór Valberg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34029264?s=72&u=dd19cea19b737002869172d0b83c0e0171345006&v=4",
+    "location": "Reykjavik",
+    "company": "Slóði",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 216,
+    "createdAt": "2017-11-27T12:18:09Z"
+  },
+  {
+    "login": "CCP-Aporia",
+    "name": "CCP Aporia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28982391?s=72&u=99173b181fa58b3c8659a5f13d7feb2e2f197fed&v=4",
+    "location": "Reykjavik",
+    "company": "@ccpgames ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 261,
+    "createdAt": "2017-05-26T13:13:35Z"
+  },
+  {
+    "login": "H-S-S",
+    "name": "Hrafn Sölvi Sigurðarson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29675602?s=72&u=15bf23a5ff5212c916305aab1eb0ffb5b5f324ce&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-06-24T12:57:02Z"
+  },
+  {
+    "login": "ThomasGascard",
+    "name": "ThomSK",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34368274?s=72&u=2cf6db6705ebe563a7f2e3ca373d19246a59da6d&v=4",
+    "location": "Reykjavik",
+    "company": "University of Iceland",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-08T08:58:48Z"
+  },
+  {
+    "login": "SofiaBasilio17",
+    "name": "Sofia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34127604?s=72&u=409b127cae6501f0f7b0f9e0ba2d43a33b49ed20&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-30T11:16:58Z"
+  },
+  {
+    "login": "kristjanfinnsson",
+    "name": "Kristjan Finnsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26764775?s=72&u=b62d932feb3d334e5126c2426ba36874077687f3&v=4",
+    "location": "Reykjavik",
+    "company": "@skyvafnir ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-29T10:08:09Z"
   }
 ]

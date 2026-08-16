@@ -3958,5 +3958,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-08-29T18:11:56Z"
+  },
+  {
+    "login": "dukenst2006",
+    "name": "Thelemaque",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7965394?s=72&u=d50f811aff25eaa15038671ba584b9b37c904940&v=4",
+    "location": "Port-au-Prince",
+    "company": "Jetlitransfer",
+    "twitterUsername": "dukenst",
+    "followers": 62,
+    "privateContributions": 527,
+    "publicContributions": 1,
+    "createdAt": "2014-06-23T13:50:40Z"
+  },
+  {
+    "login": "patrickattie1",
+    "name": "Patrick ATTIE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7967488?s=72&u=88cb45cafbfe440d787c6bc3cf7d51ad8208af51&v=4",
+    "location": "Port au Prince (Haïti)",
+    "company": "Co-Founder, Dir. Ecole Supérieure d'Infotronique d'Haïti (ESIH)",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2014-06-23T17:37:09Z"
+  },
+  {
+    "login": "beaudry1991",
+    "name": "Jean Sauvenel Beaudry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8960526?s=72&u=cfcb08ecb1f23eff779e1efa2acdb1e3c5e1f608&v=4",
+    "location": "Port-au-prince",
+    "company": "Parkour studio",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-29T15:19:31Z"
   }
 ]
