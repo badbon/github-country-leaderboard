@@ -49138,5 +49138,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-12-28T01:17:27Z"
+  },
+  {
+    "login": "aguadopd",
+    "name": "Pablo Aguado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5558299?s=72&v=4",
+    "location": "San Juan, Argentina",
+    "company": "@GERUNSJ @ZoomAgri @ekumenlabs ",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2013-09-27T14:11:21Z"
+  },
+  {
+    "login": "mercadodiego",
+    "name": "Diego Mercado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5032380?s=72&u=c978d20291696a1f00efa2fadbbfea58cf039c61&v=4",
+    "location": "San Juan, Argentina",
+    "company": "@acolorstory",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 942,
+    "publicContributions": 1,
+    "createdAt": "2013-07-17T15:56:40Z"
+  },
+  {
+    "login": "dariojr",
+    "name": "dariojr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4591146?s=72&u=0f1f01858d481397cb6bea7204d4d862822543f3&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 113,
+    "publicContributions": 0,
+    "createdAt": "2013-06-02T04:05:06Z"
+  },
+  {
+    "login": "AylennF",
+    "name": "Aylénn Fripp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68670068?s=72&u=f007ec37e8d3fbde385a50aae06f0981726e20dc&v=4",
+    "location": "Uruguay / Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 100,
+    "publicContributions": 0,
+    "createdAt": "2020-07-22T23:53:17Z"
   }
 ]

@@ -3526,5 +3526,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-09-02T10:06:12Z"
+  },
+  {
+    "login": "josuebrunel",
+    "name": "Josue Kouka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1620640?s=72&u=c8c18f39e5bd19fa30bd9cd359428ce4a87695fc&v=4",
+    "location": "Pointe-Noire (Congo)",
+    "company": "",
+    "twitterUsername": "josuebrunel",
+    "followers": 71,
+    "privateContributions": 461,
+    "publicContributions": 689,
+    "createdAt": "2012-04-07T07:30:32Z"
+  },
+  {
+    "login": "lordgodgiven",
+    "name": "Dieudonné NIEME",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1878076?s=72&v=4",
+    "location": "Congo, Brazzaville",
+    "company": "SKYLABCOMPUTING",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2012-06-21T18:26:14Z"
+  },
+  {
+    "login": "egontcho",
+    "name": "Emmanuel Gontcho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1532197?s=72&v=4",
+    "location": "Congo, democratic republic of the",
+    "company": "Radio Okapi",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-13T09:42:52Z"
+  },
+  {
+    "login": "cornnery",
+    "name": "Morel Cornnery",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2246449?s=72&v=4",
+    "location": "Congo Brazzaville",
+    "company": "MTN Congo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-30T06:33:38Z"
   }
 ]

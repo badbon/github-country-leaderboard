@@ -10786,5 +10786,53 @@
     "privateContributions": 384,
     "publicContributions": 15,
     "createdAt": "2009-04-06T13:44:48Z"
+  },
+  {
+    "login": "baobab",
+    "name": "Baobab Health Trust",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6483?s=72&v=4",
+    "location": "Lilongwe, Malawi",
+    "company": "Baobab Health Trust",
+    "twitterUsername": "",
+    "followers": 56,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-04-11T05:48:31Z"
+  },
+  {
+    "login": "mwatha",
+    "name": "Mwatha Bwanali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13477?s=72&u=624964909b995fd06d5f74fd570ca10ced0ba525&v=4",
+    "location": "Malawi",
+    "company": "EGPAF Malawi",
+    "twitterUsername": "mwatha",
+    "followers": 50,
+    "privateContributions": 536,
+    "publicContributions": 34,
+    "createdAt": "2008-06-12T14:51:14Z"
+  },
+  {
+    "login": "soyapi",
+    "name": "Soyapi Mumba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13475?s=72&u=67edea0e4de5a197938a8fb89d7f8a4bcbab00e3&v=4",
+    "location": "Lilongwe, Malawi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 48,
+    "privateContributions": 56,
+    "publicContributions": 0,
+    "createdAt": "2008-06-12T14:49:14Z"
+  },
+  {
+    "login": "gamphani",
+    "name": "Dave Gamphani Phiri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27262?s=72&u=5dfebff7bf22834b5cda6ff6271be551bdf6d6be&v=4",
+    "location": "Lilongwe - Malawi",
+    "company": "Informatics Specialist ",
+    "twitterUsername": "gamphani",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2008-10-02T14:02:46Z"
   }
 ]

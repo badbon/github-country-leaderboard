@@ -26926,5 +26926,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-06-11T10:02:26Z"
+  },
+  {
+    "login": "martinkubecka",
+    "name": "Martin Kubečka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32225978?s=72&u=da6dc414f339d747f4083eb723a065217e75d4eb&v=4",
+    "location": "Slovak Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-23T17:26:44Z"
+  },
+  {
+    "login": "xGoldy",
+    "name": "Patrik Goldschmidt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26856260?s=72&u=285aaf1b4679979856e0df0a421c7086d91123d7&v=4",
+    "location": "Bratislava, Slovak Republic",
+    "company": "Kempelen Institute of Intelligent Technologies",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 280,
+    "publicContributions": 2,
+    "createdAt": "2017-04-02T17:03:44Z"
+  },
+  {
+    "login": "rossnomann",
+    "name": "Ross Nomann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28867223?s=72&u=a138dada6fe0e058bfe945508469e6ab8757f88e&v=4",
+    "location": "Slovak Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 5,
+    "publicContributions": 483,
+    "createdAt": "2017-05-22T14:06:43Z"
+  },
+  {
+    "login": "lkurcak",
+    "name": "Ľubomír Kurčák",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29227697?s=72&v=4",
+    "location": "Bratislava, Slovak Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 1152,
+    "publicContributions": 409,
+    "createdAt": "2017-06-06T10:41:08Z"
+  },
+  {
+    "login": "thejacobx",
+    "name": "Jakub Dorčák",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25867237?s=72&u=2c55214d692b75a7e43d5099fa8505332394d999&v=4",
+    "location": "Košice, Slovak Republic",
+    "company": "Syntax Systems",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-18T15:59:02Z"
   }
 ]

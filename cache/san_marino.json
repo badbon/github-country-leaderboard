@@ -442,5 +442,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-05-12T15:35:12Z"
+  },
+  {
+    "login": "gchen98",
+    "name": "Gary K. Chen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10994362?s=72&v=4",
+    "location": "San Marino, CA",
+    "company": "Pioneer Metals",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 18,
+    "publicContributions": 43,
+    "createdAt": "2015-02-13T15:07:10Z"
+  },
+  {
+    "login": "damiandominella",
+    "name": "dodo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16267714?s=72&u=db6c5c72894df721580c121147aa5cfdddb0b3d4&v=4",
+    "location": "San Marino / Milan / Remotely",
+    "company": "Golee",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 2101,
+    "publicContributions": 36,
+    "createdAt": "2015-12-12T13:50:47Z"
+  },
+  {
+    "login": "CastFX",
+    "name": "Chris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13741570?s=72&u=fa7136495d99e63d651efc30c0e87aa01ed57167&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 2313,
+    "publicContributions": 14,
+    "createdAt": "2015-08-11T03:32:27Z"
+  },
+  {
+    "login": "eliapasqualini",
+    "name": "Elia Pasqualini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14938275?s=72&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2015-10-02T09:00:53Z"
+  },
+  {
+    "login": "pigorg",
+    "name": "alessandro gnola",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15121381?s=72&u=bbacc55cb85328195c4b1d632b18596f539c777b&v=4",
+    "location": "san marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-10-14T08:40:13Z"
   }
 ]

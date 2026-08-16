@@ -16078,5 +16078,53 @@
     "privateContributions": 28,
     "publicContributions": 21,
     "createdAt": "2011-05-21T00:30:05Z"
+  },
+  {
+    "login": "twmbx",
+    "name": "Twaambo Haamucenje",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/536306?s=72&u=5b070bb61a4ec9f316ba7c609470eb98c2b00d4a&v=4",
+    "location": "Ndola, Zambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 109,
+    "privateContributions": 64,
+    "publicContributions": 5,
+    "createdAt": "2010-12-25T15:16:42Z"
+  },
+  {
+    "login": "mulengakatebe",
+    "name": "Mulenga Katebe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/517856?s=72&u=daf8511e4d8db16c964f9c0908ecb61d59fe0f5e&v=4",
+    "location": "Zambia",
+    "company": "Sempya Systems",
+    "twitterUsername": "mulengakatebe",
+    "followers": 13,
+    "privateContributions": 1503,
+    "publicContributions": 0,
+    "createdAt": "2010-12-10T14:26:53Z"
+  },
+  {
+    "login": "astroxlixiao",
+    "name": "Tiffany Martin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181811?s=72&v=4",
+    "location": "Port Rachelfurt, Zambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2010-01-13T23:58:05Z"
+  },
+  {
+    "login": "babalela",
+    "name": "Babalela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183521?s=72&v=4",
+    "location": "Lusaka, Zambia",
+    "company": "Babalela",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-01-16T12:30:24Z"
   }
 ]

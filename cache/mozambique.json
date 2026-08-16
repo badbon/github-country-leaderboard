@@ -13954,5 +13954,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-05-22T21:23:20Z"
+  },
+  {
+    "login": "achaquisse",
+    "name": "Americo Chaquisse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3806576?s=72&u=84b69a122b24d877a03f03d609b5de43b0dfbeb2&v=4",
+    "location": "Maputo, Moçambique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 25,
+    "publicContributions": 63,
+    "createdAt": "2013-03-08T07:52:05Z"
+  },
+  {
+    "login": "timoteojjunior",
+    "name": "Timoteo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3973230?s=72&v=4",
+    "location": "Maputo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-26T09:40:00Z"
   }
 ]

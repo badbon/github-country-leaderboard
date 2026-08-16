@@ -9238,5 +9238,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-07T11:08:17Z"
+  },
+  {
+    "login": "ermolaev1337",
+    "name": "Dr. Egor Ermolaev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39105670?s=72&u=5239ecce207f2d8b35f0f536402cc57e9f9e1e5c&v=4",
+    "location": "Grand Duchy of Luxembourg",
+    "company": "FINATRAX",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 23,
+    "publicContributions": 2,
+    "createdAt": "2018-05-08T23:23:04Z"
+  },
+  {
+    "login": "devongarde",
+    "name": "Dylan Harris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37948313?s=72&u=999bb20f3058fa843ad9373bc78ad00c7b27df5c&v=4",
+    "location": "The Grand Duchy of Luxembourg",
+    "company": "Dylan Harris",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2018-03-31T04:44:48Z"
   }
 ]

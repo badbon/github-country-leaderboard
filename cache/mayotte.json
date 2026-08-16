@@ -154,5 +154,41 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2013-11-20T11:06:23Z"
+  },
+  {
+    "login": "ssrb",
+    "name": "Sebastian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1386579?s=72&u=e175a4111259d028e42c669f1d941075f112ef5b&v=4",
+    "location": "Mayotte",
+    "company": "unhexhexium ltd",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-28T03:12:56Z"
+  },
+  {
+    "login": "nykopol",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2706685?s=72&v=4",
+    "location": "Mayotte",
+    "company": "ETIC Services",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2012-11-02T12:37:55Z"
+  },
+  {
+    "login": "toiha",
+    "name": "Issihaca Toiha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2870833?s=72&u=75259b7fb9937c79ea713591cf6fe04e1ded0a55&v=4",
+    "location": "Mayotte",
+    "company": "",
+    "twitterUsername": "toiha_im",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-23T11:16:54Z"
   }
 ]

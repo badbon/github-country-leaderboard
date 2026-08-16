@@ -154,5 +154,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-23T15:35:33Z"
+  },
+  {
+    "login": "angeu4",
+    "name": "Angelus Eutherius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15817263?s=72&u=d9be35d52e1b8cc6385cc764b0fb74cf62ea6b98&v=4",
+    "location": "Vanuatu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2015-11-12T13:29:54Z"
+  },
+  {
+    "login": "MikeWongNlv",
+    "name": "Michael Wong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12812965?s=72&u=f99d32222df0e90b6deadec19f1a4f657fb9a412&v=4",
+    "location": "Vanuatu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-09T11:32:23Z"
   }
 ]
