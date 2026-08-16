@@ -40246,5 +40246,29 @@
     "privateContributions": 0,
     "publicContributions": 162,
     "createdAt": "2023-02-21T03:48:13Z"
+  },
+  {
+    "login": "johnefe",
+    "name": "Jhon Frey Diaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9575557?s=72&u=23ddd1c2856ad1c3c5b9f0578b962562ab432c62&v=4",
+    "location": "San Juan de Pasto, Colombia",
+    "company": "Ilatribuu",
+    "twitterUsername": "SrJhonF",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-05T17:42:38Z"
+  },
+  {
+    "login": "jospina-dev-blossom",
+    "name": "Jhon James Ospina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49894379?s=72&u=f07a1601a62b38271d7a1a35fa91684a6100109d&v=4",
+    "location": "Colombia, Armenia - Quindío",
+    "company": "Blossom",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2019-04-23T04:47:42Z"
   }
 ]

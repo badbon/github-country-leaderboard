@@ -7894,5 +7894,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-11-11T12:53:30Z"
+  },
+  {
+    "login": "jeanbataka",
+    "name": "Jean Bataka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17346457?s=72&u=b1341b78c06807cb1c00829eb5302e69bd3b8c40&v=4",
+    "location": "lomé",
+    "company": "",
+    "twitterUsername": "BatakaJean",
+    "followers": 7,
+    "privateContributions": 1255,
+    "publicContributions": 3,
+    "createdAt": "2016-02-19T22:58:36Z"
+  },
+  {
+    "login": "Yao228",
+    "name": "Yao Mawunyo AMEDEKPEDZI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19728526?s=72&v=4",
+    "location": "Lomé",
+    "company": "AdKontact Technologies",
+    "twitterUsername": "amede228",
+    "followers": 6,
+    "privateContributions": 296,
+    "publicContributions": 6,
+    "createdAt": "2016-06-03T10:28:39Z"
+  },
+  {
+    "login": "ansthaanselme",
+    "name": "Dambé SANWOGOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18011725?s=72&u=0e075a38086af8de289bc9f497cc516b2fd2154f&v=4",
+    "location": "Lomé",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-22T16:24:03Z"
+  },
+  {
+    "login": "elomraydino",
+    "name": "Elom Raydino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20379050?s=72&u=73b0e3206f766b36b802924c4149fd44e6b9beb7&v=4",
+    "location": "Lomé",
+    "company": "Numerum Services",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-10T07:19:39Z"
   }
 ]

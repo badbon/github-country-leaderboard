@@ -1966,5 +1966,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-05-07T04:15:26Z"
+  },
+  {
+    "login": "elmarco",
+    "name": "Marc-André Lureau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9381?s=72&v=4",
+    "location": "Réunion",
+    "company": "Red Hat, Inc.",
+    "twitterUsername": "elmarco",
+    "followers": 93,
+    "privateContributions": 0,
+    "publicContributions": 1015,
+    "createdAt": "2008-05-05T19:29:59Z"
   }
 ]

@@ -3466,5 +3466,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-06-28T19:29:16Z"
+  },
+  {
+    "login": "Rajivhost",
+    "name": "Rajiv Mounguengue",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3539984?s=72&u=2e5b18a53b9e7250b9c68239c45434cf7f55accd&v=4",
+    "location": "Brazzaville, Congo",
+    "company": "FunctionalStack",
+    "twitterUsername": "rajivhost",
+    "followers": 92,
+    "privateContributions": 973,
+    "publicContributions": 60,
+    "createdAt": "2013-02-12T08:44:17Z"
+  },
+  {
+    "login": "dyesseyumba",
+    "name": "Dyesse YUMBA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5528931?s=72&u=31114932bcde916ee1e467bb64f45f02b792b503&v=4",
+    "location": "Brazzaville, Congo, republic of",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 152,
+    "createdAt": "2013-09-24T15:54:27Z"
+  },
+  {
+    "login": "senprog",
+    "name": "Audry BABELA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5826933?s=72&v=4",
+    "location": "Brazzaville-Congo",
+    "company": "SENPROG",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-31T22:20:58Z"
+  },
+  {
+    "login": "smaffren",
+    "name": "Sylvain MAFFREN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3963466?s=72&v=4",
+    "location": "Pointe Noire (CONGO)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-25T11:04:20Z"
   }
 ]

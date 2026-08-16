@@ -880,13 +880,6 @@
       "queue": [
         {
           "country": "afghanistan",
-          "term": "Afġānistān",
-          "kind": "country",
-          "createdStart": "2015-12-30",
-          "createdEnd": "2016-12-28"
-        },
-        {
-          "country": "afghanistan",
           "term": "Afghanistan",
           "kind": "country",
           "createdStart": "2015-12-30",
@@ -1336,14 +1329,19 @@
           "completedAt": "2026-08-15T23:36:49.190Z",
           "total": 45,
           "kept": 45
+        },
+        "afghanistan|country|Afġānistān|2015-12-30|2016-12-28||": {
+          "completedAt": "2026-08-16T02:18:52.489Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:36:49.190Z",
+      "lastDiscoveryAt": "2026-08-16T02:18:52.489Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 118,
         "usersDiscovered": 2153,
         "usersEnriched": 2153,
@@ -1354,13 +1352,6 @@
       "slug": "aland_islands",
       "status": "discovering",
       "queue": [
-        {
-          "country": "aland_islands",
-          "term": "Aaland",
-          "kind": "country",
-          "createdStart": "2014-12-30",
-          "createdEnd": "2015-12-29"
-        },
         {
           "country": "aland_islands",
           "term": "Ahvenanmaa",
@@ -1910,14 +1901,19 @@
           "completedAt": "2026-08-15T23:36:53.022Z",
           "total": 3,
           "kept": 3
+        },
+        "aland_islands|country|Aaland|2014-12-30|2015-12-29||": {
+          "completedAt": "2026-08-16T02:18:55.701Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:36:53.022Z",
+      "lastDiscoveryAt": "2026-08-16T02:18:55.701Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 19,
         "usersDiscovered": 49,
         "usersEnriched": 49,
@@ -1928,13 +1924,6 @@
       "slug": "albania",
       "status": "discovering",
       "queue": [
-        {
-          "country": "albania",
-          "term": "Shqipëri",
-          "kind": "country",
-          "createdStart": "2017-12-29",
-          "createdEnd": "2018-12-28"
-        },
         {
           "country": "albania",
           "term": "Shqipëria",
@@ -2632,14 +2621,19 @@
           "completedAt": "2026-08-15T23:36:56.379Z",
           "total": 0,
           "kept": 0
+        },
+        "albania|country|Shqipëri|2017-12-29|2018-12-28||": {
+          "completedAt": "2026-08-16T02:18:58.889Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:36:56.379Z",
+      "lastDiscoveryAt": "2026-08-16T02:18:58.889Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 66,
         "usersDiscovered": 1133,
         "usersEnriched": 1133,
@@ -2656,7 +2650,7 @@
           "kind": "country",
           "createdStart": "2020-12-28",
           "createdEnd": "2021-12-27",
-          "page": 6
+          "page": 7
         },
         {
           "country": "algeria",
@@ -3269,29 +3263,22 @@
           "kept": 33
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:37:09.823Z",
+      "lastDiscoveryAt": "2026-08-16T02:19:14.233Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 184,
-        "usersDiscovered": 3667,
-        "usersEnriched": 3547,
-        "usersKept": 2939
+        "searchRequests": 56,
+        "enrichmentRequests": 189,
+        "usersDiscovered": 3767,
+        "usersEnriched": 3647,
+        "usersKept": 3025
       }
     },
     "american_samoa": {
       "slug": "american_samoa",
       "status": "discovering",
       "queue": [
-        {
-          "country": "american_samoa",
-          "term": "Amelika Sāmoa",
-          "kind": "country",
-          "createdStart": "2014-12-30",
-          "createdEnd": "2015-12-29"
-        },
         {
           "country": "american_samoa",
           "term": "American Samoa",
@@ -3841,14 +3828,19 @@
           "completedAt": "2026-08-15T23:37:13.572Z",
           "total": 1,
           "kept": 1
+        },
+        "american_samoa|country|Amelika Sāmoa|2014-12-30|2015-12-29||": {
+          "completedAt": "2026-08-16T02:19:17.391Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:37:13.572Z",
+      "lastDiscoveryAt": "2026-08-16T02:19:17.391Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 4,
         "usersDiscovered": 5,
         "usersEnriched": 5,
@@ -3859,13 +3851,6 @@
       "slug": "andorra",
       "status": "discovering",
       "queue": [
-        {
-          "country": "andorra",
-          "term": "Principality of Andorra",
-          "kind": "country",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "andorra",
           "term": "Principat d'Andorra",
@@ -4286,14 +4271,19 @@
           "completedAt": "2026-08-15T23:37:22.892Z",
           "total": 20,
           "kept": 20
+        },
+        "andorra|country|Principality of Andorra|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:19:20.583Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:37:22.892Z",
+      "lastDiscoveryAt": "2026-08-16T02:19:20.583Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 26,
         "usersDiscovered": 217,
         "usersEnriched": 196,
@@ -4304,13 +4294,6 @@
       "slug": "angola",
       "status": "discovering",
       "queue": [
-        {
-          "country": "angola",
-          "term": "ʁɛpublika de an'ɡɔla",
-          "kind": "country",
-          "createdStart": "2019-12-29",
-          "createdEnd": "2020-12-27"
-        },
         {
           "country": "angola",
           "term": "Luanda",
@@ -4904,14 +4887,19 @@
           "completedAt": "2026-08-15T23:37:26.280Z",
           "total": 0,
           "kept": 0
+        },
+        "angola|country|ʁɛpublika de an'ɡɔla|2019-12-29|2020-12-27||": {
+          "completedAt": "2026-08-16T02:19:23.843Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:37:26.280Z",
+      "lastDiscoveryAt": "2026-08-16T02:19:23.843Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 146,
         "usersDiscovered": 2783,
         "usersEnriched": 2783,
@@ -5453,13 +5441,6 @@
       "queue": [
         {
           "country": "argentina",
-          "term": "República Argentina",
-          "kind": "country",
-          "createdStart": "2023-12-28",
-          "createdEnd": "2024-12-26"
-        },
-        {
-          "country": "argentina",
           "term": "Buenos Aires",
           "kind": "city",
           "createdStart": "2023-12-28",
@@ -5979,18 +5960,23 @@
           "completedAt": "2026-08-15T23:37:29.638Z",
           "total": 0,
           "kept": 0
+        },
+        "argentina|country|República Argentina|2023-12-28|2024-12-26||": {
+          "completedAt": "2026-08-16T02:19:27.056Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:37:29.638Z",
+      "lastDiscoveryAt": "2026-08-16T02:19:27.056Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 223,
         "usersDiscovered": 4359,
         "usersEnriched": 4359,
-        "usersKept": 3996
+        "usersKept": 4001
       }
     },
     "armenia": {
@@ -6003,7 +5989,7 @@
           "kind": "country",
           "createdStart": "2018-12-29",
           "createdEnd": "2019-12-28",
-          "page": 2
+          "page": 3
         },
         {
           "country": "armenia",
@@ -6596,16 +6582,16 @@
           "kept": 2
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:37:49.230Z",
+      "lastDiscoveryAt": "2026-08-16T02:19:45.593Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 134,
-        "usersDiscovered": 2532,
-        "usersEnriched": 2520,
-        "usersKept": 1724
+        "searchRequests": 56,
+        "enrichmentRequests": 139,
+        "usersDiscovered": 2632,
+        "usersEnriched": 2620,
+        "usersKept": 1819
       }
     },
     "aruba": {
@@ -6825,7 +6811,8 @@
           "term": "sydney",
           "kind": "city",
           "createdStart": "2023-12-28",
-          "createdEnd": "2024-12-26"
+          "createdEnd": "2024-12-26",
+          "page": 2
         },
         {
           "country": "australia",
@@ -7841,16 +7828,16 @@
           "kept": 7
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:37:53.844Z",
+      "lastDiscoveryAt": "2026-08-16T02:21:04.331Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 209,
-        "usersDiscovered": 3986,
-        "usersEnriched": 3974,
-        "usersKept": 3452
+        "searchRequests": 56,
+        "enrichmentRequests": 214,
+        "usersDiscovered": 4086,
+        "usersEnriched": 4074,
+        "usersKept": 3540
       }
     },
     "austria": {
@@ -7862,7 +7849,8 @@
           "term": "Austria",
           "kind": "country",
           "createdStart": "2020-12-28",
-          "createdEnd": "2021-12-27"
+          "createdEnd": "2021-12-27",
+          "page": 2
         },
         {
           "country": "austria",
@@ -8480,16 +8468,16 @@
           "kept": 15
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:37:58.635Z",
+      "lastDiscoveryAt": "2026-08-16T02:21:22.441Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 171,
-        "usersDiscovered": 3286,
-        "usersEnriched": 3286,
-        "usersKept": 2800
+        "searchRequests": 56,
+        "enrichmentRequests": 176,
+        "usersDiscovered": 3386,
+        "usersEnriched": 3386,
+        "usersKept": 2896
       }
     },
     "azerbaijan": {
@@ -8502,7 +8490,7 @@
           "kind": "country",
           "createdStart": "2020-12-28",
           "createdEnd": "2021-12-27",
-          "page": 2
+          "page": 3
         },
         {
           "country": "azerbaijan",
@@ -8992,29 +8980,22 @@
           "kept": 30
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:39:18.179Z",
+      "lastDiscoveryAt": "2026-08-16T02:22:36.881Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 200,
-        "usersDiscovered": 3901,
-        "usersEnriched": 3901,
-        "usersKept": 2569
+        "searchRequests": 56,
+        "enrichmentRequests": 205,
+        "usersDiscovered": 4001,
+        "usersEnriched": 4001,
+        "usersKept": 2669
       }
     },
     "bahamas": {
       "slug": "bahamas",
       "status": "discovering",
       "queue": [
-        {
-          "country": "bahamas",
-          "term": "Commonwealth of the Bahamas",
-          "kind": "country",
-          "createdStart": "2008-01-01",
-          "createdEnd": "2008-12-30"
-        },
         {
           "country": "bahamas",
           "term": "Nassau",
@@ -9298,14 +9279,19 @@
           "completedAt": "2026-08-15T23:39:21.498Z",
           "total": 0,
           "kept": 0
+        },
+        "bahamas|country|Commonwealth of the Bahamas|2008-01-01|2008-12-30||": {
+          "completedAt": "2026-08-16T02:22:40.030Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:39:21.498Z",
+      "lastDiscoveryAt": "2026-08-16T02:22:40.030Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 41,
         "usersDiscovered": 388,
         "usersEnriched": 388,
@@ -9316,13 +9302,6 @@
       "slug": "bahrain",
       "status": "discovering",
       "queue": [
-        {
-          "country": "bahrain",
-          "term": "Manama",
-          "kind": "city",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "bahrain",
           "term": "Bahrain",
@@ -9739,18 +9718,23 @@
           "completedAt": "2026-08-15T23:39:24.843Z",
           "total": 0,
           "kept": 0
+        },
+        "bahrain|city|Manama|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:22:43.910Z",
+          "total": 3,
+          "kept": 3
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:39:24.843Z",
+      "lastDiscoveryAt": "2026-08-16T02:22:43.910Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 61,
-        "usersDiscovered": 787,
-        "usersEnriched": 787,
-        "usersKept": 686
+        "searchRequests": 56,
+        "enrichmentRequests": 62,
+        "usersDiscovered": 790,
+        "usersEnriched": 790,
+        "usersKept": 687
       }
     },
     "bangladesh": {
@@ -9762,7 +9746,8 @@
           "term": "Dhaka",
           "kind": "city",
           "createdStart": "2024-12-27",
-          "createdEnd": "2025-03-28"
+          "createdEnd": "2025-03-28",
+          "page": 2
         },
         {
           "country": "bangladesh",
@@ -10307,16 +10292,16 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T21:37:50.933Z",
+      "lastDiscoveryAt": "2026-08-16T02:22:59.846Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 219,
-        "usersDiscovered": 4420,
-        "usersEnriched": 4320,
-        "usersKept": 3952
+        "searchRequests": 56,
+        "enrichmentRequests": 224,
+        "usersDiscovered": 4520,
+        "usersEnriched": 4420,
+        "usersKept": 3976
       }
     },
     "barbados": {
@@ -10537,7 +10522,7 @@
           "kind": "country",
           "createdStart": "2020-12-28",
           "createdEnd": "2021-12-27",
-          "page": 6
+          "page": 7
         },
         {
           "country": "belarus",
@@ -11150,16 +11135,16 @@
           "kept": 100
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:39:42.719Z",
+      "lastDiscoveryAt": "2026-08-16T02:24:14.963Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 181,
-        "usersDiscovered": 3578,
-        "usersEnriched": 3518,
-        "usersKept": 2725
+        "searchRequests": 56,
+        "enrichmentRequests": 186,
+        "usersDiscovered": 3678,
+        "usersEnriched": 3618,
+        "usersKept": 2825
       }
     },
     "belgium": {
@@ -11172,7 +11157,7 @@
           "kind": "country",
           "createdStart": "2021-12-28",
           "createdEnd": "2022-12-27",
-          "page": 5
+          "page": 6
         },
         {
           "country": "belgium",
@@ -12289,16 +12274,16 @@
           "kept": 31
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:39:58.007Z",
+      "lastDiscoveryAt": "2026-08-16T02:24:29.789Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 120,
-        "usersDiscovered": 2173,
-        "usersEnriched": 2173,
-        "usersKept": 2035
+        "searchRequests": 56,
+        "enrichmentRequests": 125,
+        "usersDiscovered": 2273,
+        "usersEnriched": 2273,
+        "usersKept": 2134
       }
     },
     "belize": {
@@ -12513,13 +12498,6 @@
       "slug": "benin",
       "status": "discovering",
       "queue": [
-        {
-          "country": "benin",
-          "term": "Republic of Benin",
-          "kind": "country",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "benin",
           "term": "République du Bénin",
@@ -12940,14 +12918,19 @@
           "completedAt": "2026-08-15T23:40:02.116Z",
           "total": 5,
           "kept": 5
+        },
+        "benin|country|Republic of Benin|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:24:32.947Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:40:02.116Z",
+      "lastDiscoveryAt": "2026-08-16T02:24:32.947Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 57,
         "usersDiscovered": 767,
         "usersEnriched": 767,
@@ -12958,13 +12941,6 @@
       "slug": "bermuda",
       "status": "discovering",
       "queue": [
-        {
-          "country": "bermuda",
-          "term": "The Bermudas",
-          "kind": "country",
-          "createdStart": "2015-12-30",
-          "createdEnd": "2016-12-28"
-        },
         {
           "country": "bermuda",
           "term": "The Islands of Bermuda",
@@ -13520,14 +13496,19 @@
           "completedAt": "2026-08-15T23:40:05.447Z",
           "total": 0,
           "kept": 0
+        },
+        "bermuda|country|The Bermudas|2015-12-30|2016-12-28||": {
+          "completedAt": "2026-08-16T02:24:36.195Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:40:05.447Z",
+      "lastDiscoveryAt": "2026-08-16T02:24:36.195Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 56,
         "usersDiscovered": 865,
         "usersEnriched": 865,
@@ -13538,13 +13519,6 @@
       "slug": "bhutan",
       "status": "discovering",
       "queue": [
-        {
-          "country": "bhutan",
-          "term": "Kingdom of Bhutan",
-          "kind": "country",
-          "createdStart": "2008-01-01",
-          "createdEnd": "2008-12-30"
-        },
         {
           "country": "bhutan",
           "term": "Thimphu",
@@ -13828,14 +13802,19 @@
           "completedAt": "2026-08-15T23:40:08.718Z",
           "total": 0,
           "kept": 0
+        },
+        "bhutan|country|Kingdom of Bhutan|2008-01-01|2008-12-30||": {
+          "completedAt": "2026-08-16T02:24:39.455Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:40:08.718Z",
+      "lastDiscoveryAt": "2026-08-16T02:24:39.455Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 40,
         "usersDiscovered": 387,
         "usersEnriched": 387,
@@ -13852,7 +13831,7 @@
           "kind": "country",
           "createdStart": "2020-12-28",
           "createdEnd": "2021-12-27",
-          "page": 2
+          "page": 3
         },
         {
           "country": "bolivia",
@@ -15080,30 +15059,22 @@
           "kept": 22
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:41:26.478Z",
+      "lastDiscoveryAt": "2026-08-16T02:24:54.563Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 44,
-        "usersDiscovered": 788,
-        "usersEnriched": 788,
-        "usersKept": 592
+        "searchRequests": 56,
+        "enrichmentRequests": 49,
+        "usersDiscovered": 888,
+        "usersEnriched": 888,
+        "usersKept": 666
       }
     },
     "bosnia_and_herzegovina": {
       "slug": "bosnia_and_herzegovina",
       "status": "discovering",
       "queue": [
-        {
-          "country": "bosnia_and_herzegovina",
-          "term": "Sarajevo",
-          "kind": "city",
-          "createdStart": "2017-12-29",
-          "createdEnd": "2018-12-28",
-          "page": 2
-        },
         {
           "country": "bosnia_and_herzegovina",
           "term": "Bosnia and Herzegovina",
@@ -15570,31 +15541,29 @@
           "completedAt": "2026-08-15T22:40:46.375Z",
           "total": 0,
           "kept": 0
+        },
+        "bosnia_and_herzegovina|city|Sarajevo|2017-12-29|2018-12-28||": {
+          "completedAt": "2026-08-16T02:24:58.752Z",
+          "total": 107,
+          "kept": 7
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:41:43.913Z",
+      "lastDiscoveryAt": "2026-08-16T02:24:58.751Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 132,
-        "usersDiscovered": 2460,
-        "usersEnriched": 2376,
-        "usersKept": 1319
+        "searchRequests": 56,
+        "enrichmentRequests": 133,
+        "usersDiscovered": 2467,
+        "usersEnriched": 2383,
+        "usersKept": 1326
       }
     },
     "botswana": {
       "slug": "botswana",
       "status": "discovering",
       "queue": [
-        {
-          "country": "botswana",
-          "term": "Lefatshe la Botswana",
-          "kind": "country",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "botswana",
           "term": "Republic of Botswana",
@@ -16020,14 +15989,19 @@
           "completedAt": "2026-08-15T23:42:49.274Z",
           "total": 18,
           "kept": 18
+        },
+        "botswana|country|Lefatshe la Botswana|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:25:01.926Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:42:49.274Z",
+      "lastDiscoveryAt": "2026-08-16T02:25:01.926Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 52,
         "usersDiscovered": 774,
         "usersEnriched": 774,
@@ -16252,7 +16226,7 @@
           "kind": "country",
           "createdStart": "2024-12-27",
           "createdEnd": "2025-02-10",
-          "page": 4
+          "page": 5
         },
         {
           "country": "brazil",
@@ -17722,16 +17696,16 @@
           "kept": 26
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:43:03.688Z",
+      "lastDiscoveryAt": "2026-08-16T02:25:15.848Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 202,
-        "usersDiscovered": 4098,
-        "usersEnriched": 3978,
-        "usersKept": 3654
+        "searchRequests": 56,
+        "enrichmentRequests": 207,
+        "usersDiscovered": 4198,
+        "usersEnriched": 4078,
+        "usersKept": 3742
       }
     },
     "british_indian_ocean_territory": {
@@ -17946,13 +17920,6 @@
       "slug": "british_virgin_islands",
       "status": "discovering",
       "queue": [
-        {
-          "country": "british_virgin_islands",
-          "term": "Road Town",
-          "kind": "city",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "british_virgin_islands",
           "term": "British Virgin Islands",
@@ -18369,17 +18336,22 @@
           "completedAt": "2026-08-15T23:43:07.496Z",
           "total": 2,
           "kept": 2
+        },
+        "british_virgin_islands|city|Road Town|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:26:19.880Z",
+          "total": 2,
+          "kept": 2
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:43:07.496Z",
+      "lastDiscoveryAt": "2026-08-16T02:26:19.880Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 52,
-        "usersDiscovered": 311,
-        "usersEnriched": 311,
+        "searchRequests": 56,
+        "enrichmentRequests": 53,
+        "usersDiscovered": 313,
+        "usersEnriched": 313,
         "usersKept": 35
       }
     },
@@ -18387,13 +18359,6 @@
       "slug": "brunei",
       "status": "discovering",
       "queue": [
-        {
-          "country": "brunei",
-          "term": "Brunei Darussalam",
-          "kind": "country",
-          "createdStart": "2016-12-29",
-          "createdEnd": "2017-12-28"
-        },
         {
           "country": "brunei",
           "term": "Nation of Brunei",
@@ -19076,17 +19041,22 @@
           "completedAt": "2026-08-15T23:43:12.117Z",
           "total": 15,
           "kept": 15
+        },
+        "brunei|country|Brunei Darussalam|2016-12-29|2017-12-28||": {
+          "completedAt": "2026-08-16T02:26:24.167Z",
+          "total": 10,
+          "kept": 10
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:43:12.117Z",
+      "lastDiscoveryAt": "2026-08-16T02:26:24.167Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 29,
-        "usersDiscovered": 311,
-        "usersEnriched": 311,
+        "searchRequests": 56,
+        "enrichmentRequests": 30,
+        "usersDiscovered": 321,
+        "usersEnriched": 321,
         "usersKept": 197
       }
     },
@@ -19100,7 +19070,7 @@
           "kind": "country",
           "createdStart": "2021-12-28",
           "createdEnd": "2022-06-28",
-          "page": 4
+          "page": 5
         },
         {
           "country": "bulgaria",
@@ -20105,16 +20075,16 @@
           "kept": 75
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:44:27.363Z",
+      "lastDiscoveryAt": "2026-08-16T02:26:39.883Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 160,
-        "usersDiscovered": 2917,
-        "usersEnriched": 2917,
-        "usersKept": 2074
+        "searchRequests": 56,
+        "enrichmentRequests": 165,
+        "usersDiscovered": 3017,
+        "usersEnriched": 3017,
+        "usersKept": 2174
       }
     },
     "burkina_faso": {
@@ -20329,13 +20299,6 @@
       "slug": "burundi",
       "status": "discovering",
       "queue": [
-        {
-          "country": "burundi",
-          "term": "Burundi",
-          "kind": "country",
-          "createdStart": "2014-12-30",
-          "createdEnd": "2015-12-29"
-        },
         {
           "country": "burundi",
           "term": "Republic of Burundi",
@@ -20885,31 +20848,29 @@
           "completedAt": "2026-08-15T23:44:30.732Z",
           "total": 0,
           "kept": 0
+        },
+        "burundi|country|Burundi|2014-12-30|2015-12-29||": {
+          "completedAt": "2026-08-16T02:26:43.588Z",
+          "total": 2,
+          "kept": 2
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:44:30.732Z",
+      "lastDiscoveryAt": "2026-08-16T02:26:43.588Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 26,
-        "usersDiscovered": 288,
-        "usersEnriched": 288,
-        "usersKept": 228
+        "searchRequests": 56,
+        "enrichmentRequests": 27,
+        "usersDiscovered": 290,
+        "usersEnriched": 290,
+        "usersKept": 230
       }
     },
     "cambodia": {
       "slug": "cambodia",
       "status": "discovering",
       "queue": [
-        {
-          "country": "cambodia",
-          "term": "Cambodia",
-          "kind": "country",
-          "createdStart": "2014-12-30",
-          "createdEnd": "2015-12-29"
-        },
         {
           "country": "cambodia",
           "term": "Kingdom of Cambodia",
@@ -21237,31 +21198,29 @@
           "completedAt": "2026-08-15T23:44:37.278Z",
           "total": 128,
           "kept": 28
+        },
+        "cambodia|country|Cambodia|2014-12-30|2015-12-29||": {
+          "completedAt": "2026-08-16T02:26:59.992Z",
+          "total": 100,
+          "kept": 100
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:44:37.278Z",
+      "lastDiscoveryAt": "2026-08-16T02:26:59.992Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
-        "enrichmentRequests": 169,
-        "usersDiscovered": 3161,
-        "usersEnriched": 3161,
-        "usersKept": 2358
+        "searchRequests": 56,
+        "enrichmentRequests": 174,
+        "usersDiscovered": 3261,
+        "usersEnriched": 3261,
+        "usersKept": 2458
       }
     },
     "cameroon": {
       "slug": "cameroon",
       "status": "discovering",
       "queue": [
-        {
-          "country": "cameroon",
-          "term": "République du Cameroun",
-          "kind": "country",
-          "createdStart": "2015-12-30",
-          "createdEnd": "2016-12-28"
-        },
         {
           "country": "cameroon",
           "term": "Yaoundé",
@@ -21704,14 +21663,19 @@
           "completedAt": "2026-08-15T23:44:40.560Z",
           "total": 0,
           "kept": 0
+        },
+        "cameroon|country|République du Cameroun|2015-12-30|2016-12-28||": {
+          "completedAt": "2026-08-16T02:27:03.121Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:44:40.560Z",
+      "lastDiscoveryAt": "2026-08-16T02:27:03.121Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 55,
+        "searchRequests": 56,
         "enrichmentRequests": 108,
         "usersDiscovered": 2022,
         "usersEnriched": 1962,
@@ -96819,7 +96783,7 @@
           "kind": "country",
           "createdStart": "2022-12-28",
           "createdEnd": "2023-06-28",
-          "page": 4
+          "page": 5
         },
         {
           "country": "philippines",
@@ -97342,29 +97306,22 @@
           "kept": 66
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:15:36.045Z",
+      "lastDiscoveryAt": "2026-08-16T01:59:35.255Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 212,
-        "usersDiscovered": 4174,
-        "usersEnriched": 4154,
-        "usersKept": 3687
+        "searchRequests": 55,
+        "enrichmentRequests": 217,
+        "usersDiscovered": 4274,
+        "usersEnriched": 4254,
+        "usersKept": 3782
       }
     },
     "pitcairn_islands": {
       "slug": "pitcairn_islands",
       "status": "discovering",
       "queue": [
-        {
-          "country": "pitcairn_islands",
-          "term": "Adamstown",
-          "kind": "city",
-          "createdStart": "2015-12-30",
-          "createdEnd": "2016-12-28"
-        },
         {
           "country": "pitcairn_islands",
           "term": "Pitcairn",
@@ -97916,14 +97873,19 @@
           "completedAt": "2026-08-15T23:15:39.306Z",
           "total": 0,
           "kept": 0
+        },
+        "pitcairn_islands|city|Adamstown|2015-12-30|2016-12-28||": {
+          "completedAt": "2026-08-16T01:59:38.395Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:15:39.306Z",
+      "lastDiscoveryAt": "2026-08-16T01:59:38.395Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 7,
         "usersDiscovered": 7,
         "usersEnriched": 7,
@@ -97939,7 +97901,8 @@
           "term": "Warsaw",
           "kind": "city",
           "createdStart": "2023-12-28",
-          "createdEnd": "2024-12-26"
+          "createdEnd": "2024-12-26",
+          "page": 2
         },
         {
           "country": "poland",
@@ -99347,16 +99310,16 @@
           "kept": 20
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:15:45.038Z",
+      "lastDiscoveryAt": "2026-08-16T02:00:55.633Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 159,
-        "usersDiscovered": 2930,
-        "usersEnriched": 2930,
-        "usersKept": 2632
+        "searchRequests": 55,
+        "enrichmentRequests": 164,
+        "usersDiscovered": 3030,
+        "usersEnriched": 3030,
+        "usersKept": 2691
       }
     },
     "portugal": {
@@ -99369,7 +99332,7 @@
           "kind": "country",
           "createdStart": "2023-06-29",
           "createdEnd": "2023-12-27",
-          "page": 5
+          "page": 6
         },
         {
           "country": "portugal",
@@ -100012,29 +99975,22 @@
           "kept": 4
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:16:00.605Z",
+      "lastDiscoveryAt": "2026-08-16T02:01:14.451Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 200,
-        "usersDiscovered": 3875,
-        "usersEnriched": 3875,
-        "usersKept": 3532
+        "searchRequests": 55,
+        "enrichmentRequests": 205,
+        "usersDiscovered": 3975,
+        "usersEnriched": 3975,
+        "usersKept": 3628
       }
     },
     "puerto_rico": {
       "slug": "puerto_rico",
       "status": "discovering",
       "queue": [
-        {
-          "country": "puerto_rico",
-          "term": "San Juan",
-          "kind": "city",
-          "createdStart": "2013-12-30",
-          "createdEnd": "2014-12-29"
-        },
         {
           "country": "puerto_rico",
           "term": "Commonwealth of Puerto Rico",
@@ -100459,31 +100415,29 @@
           "completedAt": "2026-08-15T23:16:12.680Z",
           "total": 70,
           "kept": 70
+        },
+        "puerto_rico|city|San Juan|2013-12-30|2014-12-29||": {
+          "completedAt": "2026-08-16T02:01:21.984Z",
+          "total": 33,
+          "kept": 33
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:16:12.680Z",
+      "lastDiscoveryAt": "2026-08-16T02:01:21.984Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 92,
-        "usersDiscovered": 1625,
-        "usersEnriched": 1605,
-        "usersKept": 1244
+        "searchRequests": 55,
+        "enrichmentRequests": 94,
+        "usersDiscovered": 1658,
+        "usersEnriched": 1638,
+        "usersKept": 1265
       }
     },
     "qatar": {
       "slug": "qatar",
       "status": "discovering",
       "queue": [
-        {
-          "country": "qatar",
-          "term": "Qatar",
-          "kind": "country",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "qatar",
           "term": "State of Qatar",
@@ -100904,31 +100858,29 @@
           "completedAt": "2026-08-15T23:16:15.962Z",
           "total": 0,
           "kept": 0
+        },
+        "qatar|country|Qatar|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:01:29.685Z",
+          "total": 31,
+          "kept": 31
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:16:15.962Z",
+      "lastDiscoveryAt": "2026-08-16T02:01:29.685Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 91,
-        "usersDiscovered": 1486,
-        "usersEnriched": 1486,
-        "usersKept": 998
+        "searchRequests": 55,
+        "enrichmentRequests": 93,
+        "usersDiscovered": 1517,
+        "usersEnriched": 1517,
+        "usersKept": 1028
       }
     },
     "republic_of_the_congo": {
       "slug": "republic_of_the_congo",
       "status": "discovering",
       "queue": [
-        {
-          "country": "republic_of_the_congo",
-          "term": "Congo",
-          "kind": "country",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "republic_of_the_congo",
           "term": "Congo-Brazzaville",
@@ -101356,31 +101308,29 @@
           "completedAt": "2026-08-15T23:16:20.061Z",
           "total": 5,
           "kept": 5
+        },
+        "republic_of_the_congo|country|Congo|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:01:34.946Z",
+          "total": 9,
+          "kept": 9
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:16:20.061Z",
+      "lastDiscoveryAt": "2026-08-16T02:01:34.946Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 79,
-        "usersDiscovered": 923,
-        "usersEnriched": 923,
-        "usersKept": 289
+        "searchRequests": 55,
+        "enrichmentRequests": 80,
+        "usersDiscovered": 932,
+        "usersEnriched": 932,
+        "usersKept": 293
       }
     },
     "reunion": {
       "slug": "reunion",
       "status": "discovering",
       "queue": [
-        {
-          "country": "reunion",
-          "term": "Réunion",
-          "kind": "country",
-          "createdStart": "2008-01-01",
-          "createdEnd": "2008-12-30"
-        },
         {
           "country": "reunion",
           "term": "Réunion Island",
@@ -101666,18 +101616,23 @@
           "completedAt": "2026-08-15T23:16:23.359Z",
           "total": 0,
           "kept": 0
+        },
+        "reunion|country|Réunion|2008-01-01|2008-12-30||": {
+          "completedAt": "2026-08-16T02:01:39.418Z",
+          "total": 3,
+          "kept": 3
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:16:23.359Z",
+      "lastDiscoveryAt": "2026-08-16T02:01:39.418Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 43,
-        "usersDiscovered": 289,
-        "usersEnriched": 289,
-        "usersKept": 160
+        "searchRequests": 55,
+        "enrichmentRequests": 44,
+        "usersDiscovered": 292,
+        "usersEnriched": 292,
+        "usersKept": 165
       }
     },
     "romania": {
@@ -101690,7 +101645,7 @@
           "kind": "country",
           "createdStart": "2020-12-28",
           "createdEnd": "2021-06-28",
-          "page": 3
+          "page": 4
         },
         {
           "country": "romania",
@@ -102187,16 +102142,16 @@
           "kept": 96
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:17:38.292Z",
+      "lastDiscoveryAt": "2026-08-16T02:02:55.094Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 191,
-        "usersDiscovered": 3683,
-        "usersEnriched": 3659,
-        "usersKept": 3042
+        "searchRequests": 55,
+        "enrichmentRequests": 196,
+        "usersDiscovered": 3783,
+        "usersEnriched": 3759,
+        "usersKept": 3140
       }
     },
     "russia": {
@@ -102209,7 +102164,7 @@
           "kind": "city",
           "createdStart": "2023-12-28",
           "createdEnd": "2024-06-27",
-          "page": 2
+          "page": 3
         },
         {
           "country": "russia",
@@ -103372,29 +103327,22 @@
           "kept": 64
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:17:54.039Z",
+      "lastDiscoveryAt": "2026-08-16T02:03:09.130Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 189,
-        "usersDiscovered": 3680,
-        "usersEnriched": 3580,
-        "usersKept": 3176
+        "searchRequests": 55,
+        "enrichmentRequests": 194,
+        "usersDiscovered": 3780,
+        "usersEnriched": 3680,
+        "usersKept": 3250
       }
     },
     "rwanda": {
       "slug": "rwanda",
       "status": "discovering",
       "queue": [
-        {
-          "country": "rwanda",
-          "term": "Repubulika y'u Rwanda",
-          "kind": "country",
-          "createdStart": "2020-12-28",
-          "createdEnd": "2021-12-27"
-        },
         {
           "country": "rwanda",
           "term": "Rwanda",
@@ -104000,14 +103948,19 @@
           "completedAt": "2026-08-15T23:17:57.304Z",
           "total": 0,
           "kept": 0
+        },
+        "rwanda|country|Repubulika y'u Rwanda|2020-12-28|2021-12-27||": {
+          "completedAt": "2026-08-16T02:03:12.286Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:17:57.304Z",
+      "lastDiscoveryAt": "2026-08-16T02:03:12.286Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 163,
         "usersDiscovered": 3165,
         "usersEnriched": 3165,
@@ -104018,13 +103971,6 @@
       "slug": "saint_barthelemy",
       "status": "discovering",
       "queue": [
-        {
-          "country": "saint_barthelemy",
-          "term": "Gustavia",
-          "kind": "city",
-          "createdStart": "2015-12-30",
-          "createdEnd": "2016-12-28"
-        },
         {
           "country": "saint_barthelemy",
           "term": "Collectivité de Saint-Barthélemy",
@@ -104576,14 +104522,19 @@
           "completedAt": "2026-08-15T23:18:00.577Z",
           "total": 0,
           "kept": 0
+        },
+        "saint_barthelemy|city|Gustavia|2015-12-30|2016-12-28||": {
+          "completedAt": "2026-08-16T02:03:15.501Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:18:00.577Z",
+      "lastDiscoveryAt": "2026-08-16T02:03:15.501Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 2,
         "usersDiscovered": 2,
         "usersEnriched": 2,
@@ -104594,13 +104545,6 @@
       "slug": "saint_helena_ascension_and_tristan_da_cunha",
       "status": "discovering",
       "queue": [
-        {
-          "country": "saint_helena_ascension_and_tristan_da_cunha",
-          "term": "St. Helena, Ascension and Tristan da Cunha",
-          "kind": "country",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "saint_helena_ascension_and_tristan_da_cunha",
           "term": "Jamestown",
@@ -105019,14 +104963,19 @@
           "completedAt": "2026-08-15T23:18:03.923Z",
           "total": 0,
           "kept": 0
+        },
+        "saint_helena_ascension_and_tristan_da_cunha|country|St. Helena, Ascension and Tristan da Cunha|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:03:18.719Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:18:03.923Z",
+      "lastDiscoveryAt": "2026-08-16T02:03:18.719Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 10,
         "usersDiscovered": 22,
         "usersEnriched": 22,
@@ -105037,13 +104986,6 @@
       "slug": "saint_kitts_and_nevis",
       "status": "discovering",
       "queue": [
-        {
-          "country": "saint_kitts_and_nevis",
-          "term": "Federation of Saint Christopher and Nevis",
-          "kind": "country",
-          "createdStart": "2008-01-01",
-          "createdEnd": "2008-12-30"
-        },
         {
           "country": "saint_kitts_and_nevis",
           "term": "Saint Kitts and Nevis",
@@ -105329,14 +105271,19 @@
           "completedAt": "2026-08-15T23:18:07.300Z",
           "total": 0,
           "kept": 0
+        },
+        "saint_kitts_and_nevis|country|Federation of Saint Christopher and Nevis|2008-01-01|2008-12-30||": {
+          "completedAt": "2026-08-16T02:03:21.934Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:18:07.300Z",
+      "lastDiscoveryAt": "2026-08-16T02:03:21.934Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 5,
         "usersDiscovered": 5,
         "usersEnriched": 5,
@@ -105555,13 +105502,6 @@
       "slug": "saint_martin",
       "status": "discovering",
       "queue": [
-        {
-          "country": "saint_martin",
-          "term": "Marigot",
-          "kind": "city",
-          "createdStart": "2015-12-30",
-          "createdEnd": "2016-12-28"
-        },
         {
           "country": "saint_martin",
           "term": "Collectivité de Saint-Martin",
@@ -106113,14 +106053,19 @@
           "completedAt": "2026-08-15T23:18:10.591Z",
           "total": 0,
           "kept": 0
+        },
+        "saint_martin|city|Marigot|2015-12-30|2016-12-28||": {
+          "completedAt": "2026-08-16T02:03:25.146Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:18:10.591Z",
+      "lastDiscoveryAt": "2026-08-16T02:03:25.146Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 8,
         "usersDiscovered": 21,
         "usersEnriched": 21,
@@ -106131,13 +106076,6 @@
       "slug": "saint_pierre_and_miquelon",
       "status": "discovering",
       "queue": [
-        {
-          "country": "saint_pierre_and_miquelon",
-          "term": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
-          "kind": "country",
-          "createdStart": "2008-01-01",
-          "createdEnd": "2008-12-30"
-        },
         {
           "country": "saint_pierre_and_miquelon",
           "term": "Saint Pierre and Miquelon",
@@ -106423,14 +106361,19 @@
           "completedAt": "2026-08-15T23:18:13.935Z",
           "total": 0,
           "kept": 0
+        },
+        "saint_pierre_and_miquelon|country|Collectivité territoriale de Saint-Pierre-et-Miquelon|2008-01-01|2008-12-30||": {
+          "completedAt": "2026-08-16T02:03:28.405Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:18:13.935Z",
+      "lastDiscoveryAt": "2026-08-16T02:03:28.405Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 14,
         "usersDiscovered": 31,
         "usersEnriched": 31,
@@ -106649,13 +106592,6 @@
       "slug": "samoa",
       "status": "discovering",
       "queue": [
-        {
-          "country": "samoa",
-          "term": "Samoa",
-          "kind": "country",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "samoa",
           "term": "Apia",
@@ -107074,31 +107010,29 @@
           "completedAt": "2026-08-15T23:18:17.332Z",
           "total": 0,
           "kept": 0
+        },
+        "samoa|country|Samoa|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:03:32.095Z",
+          "total": 1,
+          "kept": 1
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:18:17.332Z",
+      "lastDiscoveryAt": "2026-08-16T02:03:32.095Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 18,
-        "usersDiscovered": 29,
-        "usersEnriched": 29,
-        "usersKept": 17
+        "searchRequests": 55,
+        "enrichmentRequests": 19,
+        "usersDiscovered": 30,
+        "usersEnriched": 30,
+        "usersKept": 18
       }
     },
     "san_marino": {
       "slug": "san_marino",
       "status": "discovering",
       "queue": [
-        {
-          "country": "san_marino",
-          "term": "City of San Marino",
-          "kind": "city",
-          "createdStart": "2015-12-30",
-          "createdEnd": "2016-12-28"
-        },
         {
           "country": "san_marino",
           "term": "Most Serene Republic of San Marino",
@@ -107650,14 +107584,19 @@
           "completedAt": "2026-08-15T23:18:22.230Z",
           "total": 10,
           "kept": 10
+        },
+        "san_marino|city|City of San Marino|2015-12-30|2016-12-28||": {
+          "completedAt": "2026-08-16T02:03:35.519Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:18:22.230Z",
+      "lastDiscoveryAt": "2026-08-16T02:03:35.519Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 11,
         "usersDiscovered": 42,
         "usersEnriched": 42,
@@ -107668,13 +107607,6 @@
       "slug": "sao_tome_and_principe",
       "status": "discovering",
       "queue": [
-        {
-          "country": "sao_tome_and_principe",
-          "term": "São Tomé and Príncipe",
-          "kind": "country",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "sao_tome_and_principe",
           "term": "São Tomé",
@@ -108093,14 +108025,19 @@
           "completedAt": "2026-08-15T23:18:25.494Z",
           "total": 0,
           "kept": 0
+        },
+        "sao_tome_and_principe|country|São Tomé and Príncipe|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:03:38.705Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:18:25.494Z",
+      "lastDiscoveryAt": "2026-08-16T02:03:38.705Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 9,
         "usersDiscovered": 22,
         "usersEnriched": 22,
@@ -108117,7 +108054,7 @@
           "kind": "country",
           "createdStart": "2021-12-28",
           "createdEnd": "2022-12-27",
-          "page": 3
+          "page": 4
         },
         {
           "country": "saudi_arabia",
@@ -108736,29 +108673,22 @@
           "kept": 14
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:18:40.144Z",
+      "lastDiscoveryAt": "2026-08-16T02:03:54.819Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 192,
-        "usersDiscovered": 3725,
-        "usersEnriched": 3665,
-        "usersKept": 1833
+        "searchRequests": 55,
+        "enrichmentRequests": 197,
+        "usersDiscovered": 3825,
+        "usersEnriched": 3765,
+        "usersKept": 1929
       }
     },
     "senegal": {
       "slug": "senegal",
       "status": "discovering",
       "queue": [
-        {
-          "country": "senegal",
-          "term": "République du Sénégal",
-          "kind": "country",
-          "createdStart": "2013-12-30",
-          "createdEnd": "2014-12-29"
-        },
         {
           "country": "senegal",
           "term": "Senegal",
@@ -109187,14 +109117,19 @@
           "completedAt": "2026-08-15T23:18:43.381Z",
           "total": 0,
           "kept": 0
+        },
+        "senegal|country|République du Sénégal|2013-12-30|2014-12-29||": {
+          "completedAt": "2026-08-16T02:03:58.012Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:18:43.381Z",
+      "lastDiscoveryAt": "2026-08-16T02:03:58.012Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 94,
         "usersDiscovered": 1674,
         "usersEnriched": 1674,
@@ -109211,7 +109146,7 @@
           "kind": "country",
           "createdStart": "2020-12-28",
           "createdEnd": "2021-12-27",
-          "page": 3
+          "page": 4
         },
         {
           "country": "serbia",
@@ -109943,16 +109878,16 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:19:28.495Z",
+      "lastDiscoveryAt": "2026-08-16T02:04:12.923Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 140,
-        "usersDiscovered": 2559,
-        "usersEnriched": 2559,
-        "usersKept": 2062
+        "searchRequests": 55,
+        "enrichmentRequests": 145,
+        "usersDiscovered": 2659,
+        "usersEnriched": 2659,
+        "usersKept": 2162
       }
     },
     "seychelles": {
@@ -109965,7 +109900,7 @@
           "kind": "city",
           "createdStart": "2017-12-29",
           "createdEnd": "2018-12-28",
-          "page": 2
+          "page": 3
         },
         {
           "country": "seychelles",
@@ -110540,29 +110475,22 @@
           "kept": 9
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:20:52.475Z",
+      "lastDiscoveryAt": "2026-08-16T02:05:29.438Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 86,
-        "usersDiscovered": 1482,
-        "usersEnriched": 1482,
-        "usersKept": 738
+        "searchRequests": 55,
+        "enrichmentRequests": 91,
+        "usersDiscovered": 1582,
+        "usersEnriched": 1582,
+        "usersKept": 785
       }
     },
     "sierra_leone": {
       "slug": "sierra_leone",
       "status": "discovering",
       "queue": [
-        {
-          "country": "sierra_leone",
-          "term": "Republic of Sierra Leone",
-          "kind": "country",
-          "createdStart": "2008-01-01",
-          "createdEnd": "2008-12-30"
-        },
         {
           "country": "sierra_leone",
           "term": "Sierra Leone",
@@ -110848,14 +110776,19 @@
           "completedAt": "2026-08-15T23:20:55.763Z",
           "total": 0,
           "kept": 0
+        },
+        "sierra_leone|country|Republic of Sierra Leone|2008-01-01|2008-12-30||": {
+          "completedAt": "2026-08-16T02:05:32.582Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:20:55.763Z",
+      "lastDiscoveryAt": "2026-08-16T02:05:32.582Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 46,
         "usersDiscovered": 626,
         "usersEnriched": 626,
@@ -110866,14 +110799,6 @@
       "slug": "singapore",
       "status": "discovering",
       "queue": [
-        {
-          "country": "singapore",
-          "term": "Singapore",
-          "kind": "country",
-          "createdStart": "2022-12-28",
-          "createdEnd": "2023-06-28",
-          "page": 7
-        },
         {
           "country": "singapore",
           "term": "Singapore",
@@ -111633,31 +111558,29 @@
           "completedAt": "2026-08-15T15:58:15.172Z",
           "total": 0,
           "kept": 0
+        },
+        "singapore|country|Singapore|2022-12-28|2023-06-28||": {
+          "completedAt": "2026-08-16T02:05:38.506Z",
+          "total": 621,
+          "kept": 21
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:21:12.561Z",
+      "lastDiscoveryAt": "2026-08-16T02:05:38.506Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 188,
-        "usersDiscovered": 3688,
-        "usersEnriched": 3648,
-        "usersKept": 2073
+        "searchRequests": 55,
+        "enrichmentRequests": 190,
+        "usersDiscovered": 3709,
+        "usersEnriched": 3669,
+        "usersKept": 2094
       }
     },
     "sint_maarten": {
       "slug": "sint_maarten",
       "status": "discovering",
       "queue": [
-        {
-          "country": "sint_maarten",
-          "term": "Philipsburg",
-          "kind": "city",
-          "createdStart": "2008-12-31",
-          "createdEnd": "2009-12-30"
-        },
         {
           "country": "sint_maarten",
           "term": "Sint Maarten",
@@ -111945,14 +111868,19 @@
           "completedAt": "2026-08-15T23:21:15.906Z",
           "total": 0,
           "kept": 0
+        },
+        "sint_maarten|city|Philipsburg|2008-12-31|2009-12-30||": {
+          "completedAt": "2026-08-16T02:05:41.680Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:21:15.906Z",
+      "lastDiscoveryAt": "2026-08-16T02:05:41.680Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 8,
         "usersDiscovered": 9,
         "usersEnriched": 8,
@@ -111963,14 +111891,6 @@
       "slug": "slovakia",
       "status": "discovering",
       "queue": [
-        {
-          "country": "slovakia",
-          "term": "Slovakia",
-          "kind": "country",
-          "createdStart": "2017-12-29",
-          "createdEnd": "2018-12-28",
-          "page": 3
-        },
         {
           "country": "slovakia",
           "term": "Slovenská republika",
@@ -112436,18 +112356,23 @@
           "completedAt": "2026-08-15T21:19:03.245Z",
           "total": 3,
           "kept": 3
+        },
+        "slovakia|country|Slovakia|2017-12-29|2018-12-28||": {
+          "completedAt": "2026-08-16T02:05:48.422Z",
+          "total": 232,
+          "kept": 32
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:22:35.236Z",
+      "lastDiscoveryAt": "2026-08-16T02:05:48.422Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 145,
-        "usersDiscovered": 2585,
-        "usersEnriched": 2557,
-        "usersKept": 2159
+        "searchRequests": 55,
+        "enrichmentRequests": 147,
+        "usersDiscovered": 2617,
+        "usersEnriched": 2589,
+        "usersKept": 2190
       }
     },
     "slovenia": {
@@ -112460,7 +112385,7 @@
           "kind": "country",
           "createdStart": "2015-12-30",
           "createdEnd": "2016-12-28",
-          "page": 2
+          "page": 3
         },
         {
           "country": "slovenia",
@@ -112916,16 +112841,16 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:22:54.505Z",
+      "lastDiscoveryAt": "2026-08-16T02:07:05.701Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 108,
-        "usersDiscovered": 1881,
-        "usersEnriched": 1881,
-        "usersKept": 1593
+        "searchRequests": 55,
+        "enrichmentRequests": 113,
+        "usersDiscovered": 1981,
+        "usersEnriched": 1981,
+        "usersKept": 1693
       }
     },
     "solomon_islands": {
@@ -113140,13 +113065,6 @@
       "slug": "somalia",
       "status": "discovering",
       "queue": [
-        {
-          "country": "somalia",
-          "term": "Jamhuuriyadda Federaalka Soomaaliya",
-          "kind": "country",
-          "createdStart": "2017-12-29",
-          "createdEnd": "2018-12-28"
-        },
         {
           "country": "somalia",
           "term": "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya",
@@ -113839,14 +113757,19 @@
           "completedAt": "2026-08-15T23:22:57.858Z",
           "total": 0,
           "kept": 0
+        },
+        "somalia|country|Jamhuuriyadda Federaalka Soomaaliya|2017-12-29|2018-12-28||": {
+          "completedAt": "2026-08-16T02:07:08.932Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:22:57.858Z",
+      "lastDiscoveryAt": "2026-08-16T02:07:08.932Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 63,
         "usersDiscovered": 1157,
         "usersEnriched": 1157,
@@ -113863,7 +113786,7 @@
           "kind": "country",
           "createdStart": "2023-06-29",
           "createdEnd": "2023-12-27",
-          "page": 4
+          "page": 5
         },
         {
           "country": "south_africa",
@@ -114626,29 +114549,22 @@
           "kept": 35
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:24:12.717Z",
+      "lastDiscoveryAt": "2026-08-16T02:07:28.710Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 191,
-        "usersDiscovered": 3757,
-        "usersEnriched": 3677,
-        "usersKept": 3271
+        "searchRequests": 55,
+        "enrichmentRequests": 196,
+        "usersDiscovered": 3857,
+        "usersEnriched": 3777,
+        "usersKept": 3369
       }
     },
     "south_georgia": {
       "slug": "south_georgia",
       "status": "discovering",
       "queue": [
-        {
-          "country": "south_georgia",
-          "term": "South Georgia",
-          "kind": "country",
-          "createdStart": "2008-01-01",
-          "createdEnd": "2008-12-30"
-        },
         {
           "country": "south_georgia",
           "term": "South Georgia and the South Sandwich Islands",
@@ -114934,14 +114850,19 @@
           "completedAt": "2026-08-15T23:24:16.030Z",
           "total": 0,
           "kept": 0
+        },
+        "south_georgia|country|South Georgia|2008-01-01|2008-12-30||": {
+          "completedAt": "2026-08-16T02:07:31.918Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:24:16.030Z",
+      "lastDiscoveryAt": "2026-08-16T02:07:31.918Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 6,
         "usersDiscovered": 11,
         "usersEnriched": 11,
@@ -114958,7 +114879,7 @@
           "kind": "city",
           "createdStart": "2023-12-28",
           "createdEnd": "2024-06-27",
-          "page": 5
+          "page": 6
         },
         {
           "country": "south_korea",
@@ -115600,29 +115521,22 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:24:31.017Z",
+      "lastDiscoveryAt": "2026-08-16T02:07:50.541Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 214,
-        "usersDiscovered": 4325,
-        "usersEnriched": 4195,
-        "usersKept": 2893
+        "searchRequests": 55,
+        "enrichmentRequests": 219,
+        "usersDiscovered": 4425,
+        "usersEnriched": 4295,
+        "usersKept": 2959
       }
     },
     "south_sudan": {
       "slug": "south_sudan",
       "status": "discovering",
       "queue": [
-        {
-          "country": "south_sudan",
-          "term": "Juba",
-          "kind": "city",
-          "createdStart": "2008-12-31",
-          "createdEnd": "2009-12-30"
-        },
         {
           "country": "south_sudan",
           "term": "Republic of South Sudan",
@@ -115910,14 +115824,19 @@
           "completedAt": "2026-08-15T23:24:34.321Z",
           "total": 0,
           "kept": 0
+        },
+        "south_sudan|city|Juba|2008-12-31|2009-12-30||": {
+          "completedAt": "2026-08-16T02:07:53.753Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:24:34.321Z",
+      "lastDiscoveryAt": "2026-08-16T02:07:53.753Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 29,
         "usersDiscovered": 227,
         "usersEnriched": 216,
@@ -115928,13 +115847,6 @@
       "slug": "spain",
       "status": "discovering",
       "queue": [
-        {
-          "country": "spain",
-          "term": "sevilla",
-          "kind": "city",
-          "createdStart": "2024-12-27",
-          "createdEnd": "2025-12-26"
-        },
         {
           "country": "spain",
           "term": "seville",
@@ -117230,18 +117142,23 @@
           "completedAt": "2026-08-15T23:24:42.378Z",
           "total": 737,
           "kept": 37
+        },
+        "spain|city|sevilla|2024-12-27|2025-12-26||": {
+          "completedAt": "2026-08-16T02:09:08.097Z",
+          "total": 96,
+          "kept": 96
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:24:42.378Z",
+      "lastDiscoveryAt": "2026-08-16T02:09:08.097Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 206,
-        "usersDiscovered": 3993,
-        "usersEnriched": 3993,
-        "usersKept": 3416
+        "searchRequests": 55,
+        "enrichmentRequests": 211,
+        "usersDiscovered": 4089,
+        "usersEnriched": 4089,
+        "usersKept": 3495
       }
     },
     "sri_lanka": {
@@ -117254,7 +117171,7 @@
           "kind": "country",
           "createdStart": "2024-09-27",
           "createdEnd": "2024-12-26",
-          "page": 4
+          "page": 5
         },
         {
           "country": "sri_lanka",
@@ -117784,29 +117701,22 @@
           "kept": 26
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:25:57.259Z",
+      "lastDiscoveryAt": "2026-08-16T02:10:23.084Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 202,
-        "usersDiscovered": 3977,
-        "usersEnriched": 3977,
-        "usersKept": 3638
+        "searchRequests": 55,
+        "enrichmentRequests": 207,
+        "usersDiscovered": 4077,
+        "usersEnriched": 4077,
+        "usersKept": 3737
       }
     },
     "sudan": {
       "slug": "sudan",
       "status": "discovering",
       "queue": [
-        {
-          "country": "sudan",
-          "term": "Sudan",
-          "kind": "country",
-          "createdStart": "2013-12-30",
-          "createdEnd": "2014-12-29"
-        },
         {
           "country": "sudan",
           "term": "Khartoum",
@@ -118238,31 +118148,29 @@
           "completedAt": "2026-08-15T23:26:00.539Z",
           "total": 0,
           "kept": 0
+        },
+        "sudan|country|Sudan|2013-12-30|2014-12-29||": {
+          "completedAt": "2026-08-16T02:10:28.890Z",
+          "total": 22,
+          "kept": 22
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:26:00.539Z",
+      "lastDiscoveryAt": "2026-08-16T02:10:28.890Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 66,
-        "usersDiscovered": 1064,
-        "usersEnriched": 1064,
-        "usersKept": 680
+        "searchRequests": 55,
+        "enrichmentRequests": 68,
+        "usersDiscovered": 1086,
+        "usersEnriched": 1086,
+        "usersKept": 699
       }
     },
     "suriname": {
       "slug": "suriname",
       "status": "discovering",
       "queue": [
-        {
-          "country": "suriname",
-          "term": "Republic of Suriname",
-          "kind": "country",
-          "createdStart": "2016-12-29",
-          "createdEnd": "2017-12-28"
-        },
         {
           "country": "suriname",
           "term": "Republiek Suriname",
@@ -118947,14 +118855,19 @@
           "completedAt": "2026-08-15T23:26:04.524Z",
           "total": 3,
           "kept": 3
+        },
+        "suriname|country|Republic of Suriname|2016-12-29|2017-12-28||": {
+          "completedAt": "2026-08-16T02:10:32.144Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:26:04.524Z",
+      "lastDiscoveryAt": "2026-08-16T02:10:32.144Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 18,
         "usersDiscovered": 107,
         "usersEnriched": 107,
@@ -118965,13 +118878,6 @@
       "slug": "svalbard_and_jan_mayen",
       "status": "discovering",
       "queue": [
-        {
-          "country": "svalbard_and_jan_mayen",
-          "term": "Svalbard og Jan Mayen",
-          "kind": "country",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "svalbard_and_jan_mayen",
           "term": "Longyearbyen",
@@ -119390,14 +119296,19 @@
           "completedAt": "2026-08-15T23:26:07.789Z",
           "total": 0,
           "kept": 0
+        },
+        "svalbard_and_jan_mayen|country|Svalbard og Jan Mayen|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:10:35.351Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:26:07.789Z",
+      "lastDiscoveryAt": "2026-08-16T02:10:35.351Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 5,
         "usersDiscovered": 7,
         "usersEnriched": 7,
@@ -119408,14 +119319,6 @@
       "slug": "sweden",
       "status": "discovering",
       "queue": [
-        {
-          "country": "sweden",
-          "term": "Stockholm",
-          "kind": "city",
-          "createdStart": "2022-12-28",
-          "createdEnd": "2023-12-27",
-          "page": 6
-        },
         {
           "country": "sweden",
           "term": "Kingdom of Sweden",
@@ -119917,18 +119820,23 @@
           "completedAt": "2026-08-15T17:03:36.536Z",
           "total": 610,
           "kept": 10
+        },
+        "sweden|city|Stockholm|2022-12-28|2023-12-27||": {
+          "completedAt": "2026-08-16T02:10:45.949Z",
+          "total": 554,
+          "kept": 54
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:26:22.658Z",
+      "lastDiscoveryAt": "2026-08-16T02:10:45.949Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 201,
-        "usersDiscovered": 4026,
-        "usersEnriched": 3926,
-        "usersKept": 3379
+        "searchRequests": 55,
+        "enrichmentRequests": 204,
+        "usersDiscovered": 4080,
+        "usersEnriched": 3980,
+        "usersKept": 3414
       }
     },
     "switzerland": {
@@ -119941,7 +119849,7 @@
           "kind": "country",
           "createdStart": "2021-12-28",
           "createdEnd": "2022-06-28",
-          "page": 3
+          "page": 4
         },
         {
           "country": "switzerland",
@@ -120816,29 +120724,22 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:27:42.377Z",
+      "lastDiscoveryAt": "2026-08-16T02:11:00.966Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 132,
-        "usersDiscovered": 2357,
-        "usersEnriched": 2357,
-        "usersKept": 2191
+        "searchRequests": 55,
+        "enrichmentRequests": 137,
+        "usersDiscovered": 2457,
+        "usersEnriched": 2457,
+        "usersKept": 2289
       }
     },
     "syria": {
       "slug": "syria",
       "status": "discovering",
       "queue": [
-        {
-          "country": "syria",
-          "term": "Syria",
-          "kind": "country",
-          "createdStart": "2014-12-30",
-          "createdEnd": "2015-12-29"
-        },
         {
           "country": "syria",
           "term": "Syrian Arab Republic",
@@ -121275,18 +121176,23 @@
           "completedAt": "2026-08-15T23:27:45.689Z",
           "total": 0,
           "kept": 0
+        },
+        "syria|country|Syria|2014-12-30|2015-12-29||": {
+          "completedAt": "2026-08-16T02:12:07.113Z",
+          "total": 24,
+          "kept": 24
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:27:45.688Z",
+      "lastDiscoveryAt": "2026-08-16T02:12:07.113Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 111,
-        "usersDiscovered": 2021,
-        "usersEnriched": 1981,
-        "usersKept": 1405
+        "searchRequests": 55,
+        "enrichmentRequests": 113,
+        "usersDiscovered": 2045,
+        "usersEnriched": 2005,
+        "usersKept": 1429
       }
     },
     "taiwan": {
@@ -121298,7 +121204,8 @@
           "term": "Taiwan",
           "kind": "country",
           "createdStart": "2022-06-29",
-          "createdEnd": "2022-12-27"
+          "createdEnd": "2022-12-27",
+          "page": 2
         },
         {
           "country": "taiwan",
@@ -122175,29 +122082,22 @@
           "kept": 60
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:27:56.875Z",
+      "lastDiscoveryAt": "2026-08-16T02:12:26.872Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 140,
-        "usersDiscovered": 2591,
-        "usersEnriched": 2591,
-        "usersKept": 2147
+        "searchRequests": 55,
+        "enrichmentRequests": 145,
+        "usersDiscovered": 2691,
+        "usersEnriched": 2691,
+        "usersKept": 2241
       }
     },
     "tajikistan": {
       "slug": "tajikistan",
       "status": "discovering",
       "queue": [
-        {
-          "country": "tajikistan",
-          "term": "Çumhuriyi Toçikiston",
-          "kind": "country",
-          "createdStart": "2016-12-29",
-          "createdEnd": "2017-12-28"
-        },
         {
           "country": "tajikistan",
           "term": "Republic of Tajikistan",
@@ -122882,14 +122782,19 @@
           "completedAt": "2026-08-15T23:28:07.339Z",
           "total": 27,
           "kept": 27
+        },
+        "tajikistan|country|Çumhuriyi Toçikiston|2016-12-29|2017-12-28||": {
+          "completedAt": "2026-08-16T02:12:30.030Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:28:07.339Z",
+      "lastDiscoveryAt": "2026-08-16T02:12:30.030Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 52,
         "usersDiscovered": 889,
         "usersEnriched": 889,
@@ -122900,13 +122805,6 @@
       "slug": "tanzania",
       "status": "discovering",
       "queue": [
-        {
-          "country": "tanzania",
-          "term": "Jamhuri ya Muungano wa Tanzania",
-          "kind": "country",
-          "createdStart": "2017-12-29",
-          "createdEnd": "2018-12-28"
-        },
         {
           "country": "tanzania",
           "term": "Tanzania",
@@ -123486,14 +123384,19 @@
           "completedAt": "2026-08-15T23:28:12.058Z",
           "total": 11,
           "kept": 11
+        },
+        "tanzania|country|Jamhuri ya Muungano wa Tanzania|2017-12-29|2018-12-28||": {
+          "completedAt": "2026-08-16T02:12:33.180Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:28:12.058Z",
+      "lastDiscoveryAt": "2026-08-16T02:12:33.180Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 103,
         "usersDiscovered": 1840,
         "usersEnriched": 1740,
@@ -123504,13 +123407,6 @@
       "slug": "thailand",
       "status": "discovering",
       "queue": [
-        {
-          "country": "thailand",
-          "term": "ราชอาณาจักรไทย",
-          "kind": "country",
-          "createdStart": "2022-12-28",
-          "createdEnd": "2023-12-27"
-        },
         {
           "country": "thailand",
           "term": "Bangkok",
@@ -124389,14 +124285,19 @@
           "completedAt": "2026-08-15T23:29:23.664Z",
           "total": 955,
           "kept": 55
+        },
+        "thailand|country|ราชอาณาจักรไทย|2022-12-28|2023-12-27||": {
+          "completedAt": "2026-08-16T02:12:36.361Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:29:23.664Z",
+      "lastDiscoveryAt": "2026-08-16T02:12:36.361Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 151,
         "usersDiscovered": 2941,
         "usersEnriched": 2892,
@@ -124407,13 +124308,6 @@
       "slug": "timor_leste",
       "status": "discovering",
       "queue": [
-        {
-          "country": "timor_leste",
-          "term": "Democratic Republic of Timor-Leste",
-          "kind": "country",
-          "createdStart": "2019-12-29",
-          "createdEnd": "2020-12-27"
-        },
         {
           "country": "timor_leste",
           "term": "East Timor",
@@ -125497,14 +125391,19 @@
           "completedAt": "2026-08-15T23:29:27.642Z",
           "total": 5,
           "kept": 5
+        },
+        "timor_leste|country|Democratic Republic of Timor-Leste|2019-12-29|2020-12-27||": {
+          "completedAt": "2026-08-16T02:12:39.524Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:29:27.642Z",
+      "lastDiscoveryAt": "2026-08-16T02:12:39.524Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 21,
         "usersDiscovered": 83,
         "usersEnriched": 83,
@@ -125515,13 +125414,6 @@
       "slug": "togo",
       "status": "discovering",
       "queue": [
-        {
-          "country": "togo",
-          "term": "Lomé",
-          "kind": "city",
-          "createdStart": "2015-12-30",
-          "createdEnd": "2016-12-28"
-        },
         {
           "country": "togo",
           "term": "République Togolaise",
@@ -126073,18 +125965,23 @@
           "completedAt": "2026-08-15T23:29:30.948Z",
           "total": 0,
           "kept": 0
+        },
+        "togo|city|Lomé|2015-12-30|2016-12-28||": {
+          "completedAt": "2026-08-16T02:12:44.403Z",
+          "total": 11,
+          "kept": 11
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:29:30.948Z",
+      "lastDiscoveryAt": "2026-08-16T02:12:44.403Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 61,
-        "usersDiscovered": 985,
-        "usersEnriched": 985,
-        "usersKept": 658
+        "searchRequests": 55,
+        "enrichmentRequests": 62,
+        "usersDiscovered": 996,
+        "usersEnriched": 996,
+        "usersKept": 662
       }
     },
     "tokelau": {
@@ -126299,13 +126196,6 @@
       "slug": "tonga",
       "status": "discovering",
       "queue": [
-        {
-          "country": "tonga",
-          "term": "Kingdom of Tonga",
-          "kind": "country",
-          "createdStart": "2008-01-01",
-          "createdEnd": "2008-12-30"
-        },
         {
           "country": "tonga",
           "term": "Tonga",
@@ -126591,14 +126481,19 @@
           "completedAt": "2026-08-15T23:29:34.308Z",
           "total": 0,
           "kept": 0
+        },
+        "tonga|country|Kingdom of Tonga|2008-01-01|2008-12-30||": {
+          "completedAt": "2026-08-16T02:12:47.644Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:29:34.308Z",
+      "lastDiscoveryAt": "2026-08-16T02:12:47.644Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 7,
         "usersDiscovered": 11,
         "usersEnriched": 11,
@@ -126609,13 +126504,6 @@
       "slug": "trinidad_and_tobago",
       "status": "discovering",
       "queue": [
-        {
-          "country": "trinidad_and_tobago",
-          "term": "Republic of Trinidad and Tobago",
-          "kind": "country",
-          "createdStart": "2008-01-01",
-          "createdEnd": "2008-12-30"
-        },
         {
           "country": "trinidad_and_tobago",
           "term": "Trinidad and Tobago",
@@ -126901,14 +126789,19 @@
           "completedAt": "2026-08-15T23:29:37.608Z",
           "total": 0,
           "kept": 0
+        },
+        "trinidad_and_tobago|country|Republic of Trinidad and Tobago|2008-01-01|2008-12-30||": {
+          "completedAt": "2026-08-16T02:12:50.789Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:29:37.608Z",
+      "lastDiscoveryAt": "2026-08-16T02:12:50.789Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 30,
         "usersDiscovered": 259,
         "usersEnriched": 259,
@@ -126919,13 +126812,6 @@
       "slug": "tunisia",
       "status": "discovering",
       "queue": [
-        {
-          "country": "tunisia",
-          "term": "al-Jumhūriyyah at-Tūnisiyyah",
-          "kind": "country",
-          "createdStart": "2020-12-28",
-          "createdEnd": "2021-12-27"
-        },
         {
           "country": "tunisia",
           "term": "Republic of Tunisia",
@@ -127535,14 +127421,19 @@
           "completedAt": "2026-08-15T23:29:52.477Z",
           "total": 296,
           "kept": 96
+        },
+        "tunisia|country|al-Jumhūriyyah at-Tūnisiyyah|2020-12-28|2021-12-27||": {
+          "completedAt": "2026-08-16T02:12:54.018Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:29:52.477Z",
+      "lastDiscoveryAt": "2026-08-16T02:12:54.018Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 174,
         "usersDiscovered": 3365,
         "usersEnriched": 3365,
@@ -127553,13 +127444,6 @@
       "slug": "turkey",
       "status": "discovering",
       "queue": [
-        {
-          "country": "turkey",
-          "term": "Republic of Turkey",
-          "kind": "country",
-          "createdStart": "2023-12-28",
-          "createdEnd": "2024-12-26"
-        },
         {
           "country": "turkey",
           "term": "Republic of Türkiye",
@@ -128844,18 +128728,23 @@
           "completedAt": "2026-08-15T23:30:06.071Z",
           "total": 170,
           "kept": 70
+        },
+        "turkey|country|Republic of Turkey|2023-12-28|2024-12-26||": {
+          "completedAt": "2026-08-16T02:12:57.738Z",
+          "total": 1,
+          "kept": 1
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:30:06.071Z",
+      "lastDiscoveryAt": "2026-08-16T02:12:57.738Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 220,
-        "usersDiscovered": 4321,
-        "usersEnriched": 4221,
-        "usersKept": 3392
+        "searchRequests": 55,
+        "enrichmentRequests": 221,
+        "usersDiscovered": 4322,
+        "usersEnriched": 4222,
+        "usersKept": 3393
       }
     },
     "turkmenistan": {
@@ -129491,7 +129380,8 @@
           "term": "Kampala",
           "kind": "city",
           "createdStart": "2019-12-29",
-          "createdEnd": "2020-12-27"
+          "createdEnd": "2020-12-27",
+          "page": 2
         },
         {
           "country": "uganda",
@@ -129972,30 +129862,22 @@
           "kept": 76
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:31:20.203Z",
+      "lastDiscoveryAt": "2026-08-16T02:13:16.068Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 162,
-        "usersDiscovered": 3154,
-        "usersEnriched": 3114,
-        "usersKept": 2143
+        "searchRequests": 55,
+        "enrichmentRequests": 167,
+        "usersDiscovered": 3254,
+        "usersEnriched": 3214,
+        "usersKept": 2168
       }
     },
     "ukraine": {
       "slug": "ukraine",
       "status": "discovering",
       "queue": [
-        {
-          "country": "ukraine",
-          "term": "Kyiv",
-          "kind": "city",
-          "createdStart": "2023-12-28",
-          "createdEnd": "2024-12-26",
-          "page": 3
-        },
         {
           "country": "ukraine",
           "term": "lviv",
@@ -131288,32 +131170,29 @@
           "completedAt": "2026-08-15T21:26:54.077Z",
           "total": 29,
           "kept": 29
+        },
+        "ukraine|city|Kyiv|2023-12-28|2024-12-26||": {
+          "completedAt": "2026-08-16T02:13:24.462Z",
+          "total": 241,
+          "kept": 41
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:31:36.270Z",
+      "lastDiscoveryAt": "2026-08-16T02:13:24.462Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 148,
-        "usersDiscovered": 2657,
-        "usersEnriched": 2637,
-        "usersKept": 2142
+        "searchRequests": 55,
+        "enrichmentRequests": 151,
+        "usersDiscovered": 2698,
+        "usersEnriched": 2678,
+        "usersKept": 2160
       }
     },
     "united_arab_emirates": {
       "slug": "united_arab_emirates",
       "status": "discovering",
       "queue": [
-        {
-          "country": "united_arab_emirates",
-          "term": "Abu Dhabi",
-          "kind": "city",
-          "createdStart": "2018-12-29",
-          "createdEnd": "2019-12-28",
-          "page": 2
-        },
         {
           "country": "united_arab_emirates",
           "term": "Emirates",
@@ -131666,18 +131545,23 @@
           "completedAt": "2026-08-15T22:29:58.155Z",
           "total": 252,
           "kept": 52
+        },
+        "united_arab_emirates|city|Abu Dhabi|2018-12-29|2019-12-28||": {
+          "completedAt": "2026-08-16T02:13:33.459Z",
+          "total": 158,
+          "kept": 58
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:32:55.898Z",
+      "lastDiscoveryAt": "2026-08-16T02:13:33.459Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 223,
-        "usersDiscovered": 4243,
-        "usersEnriched": 4243,
-        "usersKept": 2363
+        "searchRequests": 55,
+        "enrichmentRequests": 226,
+        "usersDiscovered": 4301,
+        "usersEnriched": 4301,
+        "usersKept": 2413
       }
     },
     "united_kingdom": {
@@ -131690,7 +131574,7 @@
           "kind": "city",
           "createdStart": "2024-12-27",
           "createdEnd": "2025-06-27",
-          "page": 3
+          "page": 4
         },
         {
           "country": "united_kingdom",
@@ -133768,16 +133652,16 @@
           "kept": 36
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:33:13.594Z",
+      "lastDiscoveryAt": "2026-08-16T02:14:48.434Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 166,
-        "usersDiscovered": 2988,
-        "usersEnriched": 2988,
-        "usersKept": 3004
+        "searchRequests": 55,
+        "enrichmentRequests": 171,
+        "usersDiscovered": 3088,
+        "usersEnriched": 3088,
+        "usersKept": 3091
       }
     },
     "united_states": {
@@ -133790,7 +133674,7 @@
           "kind": "country",
           "createdStart": "2025-03-29",
           "createdEnd": "2025-06-27",
-          "page": 5
+          "page": 6
         },
         {
           "country": "united_states",
@@ -136021,16 +135905,16 @@
           "kept": 55
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:34:27.515Z",
+      "lastDiscoveryAt": "2026-08-16T02:15:02.745Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 203,
-        "usersDiscovered": 4078,
-        "usersEnriched": 3898,
-        "usersKept": 6608
+        "searchRequests": 55,
+        "enrichmentRequests": 208,
+        "usersDiscovered": 4178,
+        "usersEnriched": 3998,
+        "usersKept": 6709
       }
     },
     "united_states_minor_outlying_islands": {
@@ -136150,13 +136034,6 @@
       "slug": "united_states_virgin_islands",
       "status": "discovering",
       "queue": [
-        {
-          "country": "united_states_virgin_islands",
-          "term": "Virgin Islands, U.S.",
-          "kind": "country",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "united_states_virgin_islands",
           "term": "Charlotte Amalie",
@@ -136575,17 +136452,22 @@
           "completedAt": "2026-08-15T23:34:30.798Z",
           "total": 0,
           "kept": 0
+        },
+        "united_states_virgin_islands|country|Virgin Islands, U.S.|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:16:06.989Z",
+          "total": 1,
+          "kept": 1
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:34:30.797Z",
+      "lastDiscoveryAt": "2026-08-16T02:16:06.989Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 13,
-        "usersDiscovered": 16,
-        "usersEnriched": 16,
+        "searchRequests": 55,
+        "enrichmentRequests": 14,
+        "usersDiscovered": 17,
+        "usersEnriched": 17,
         "usersKept": 4
       }
     },
@@ -136598,7 +136480,8 @@
           "term": "Uruguay",
           "kind": "country",
           "createdStart": "2019-12-29",
-          "createdEnd": "2020-12-27"
+          "createdEnd": "2020-12-27",
+          "page": 2
         },
         {
           "country": "uruguay",
@@ -137081,16 +136964,16 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:34:34.159Z",
+      "lastDiscoveryAt": "2026-08-16T02:16:29.256Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 160,
-        "usersDiscovered": 3213,
-        "usersEnriched": 3116,
-        "usersKept": 2163
+        "searchRequests": 55,
+        "enrichmentRequests": 165,
+        "usersDiscovered": 3313,
+        "usersEnriched": 3216,
+        "usersKept": 2259
       }
     },
     "uzbekistan": {
@@ -137103,7 +136986,7 @@
           "kind": "country",
           "createdStart": "2023-06-29",
           "createdEnd": "2023-12-27",
-          "page": 3
+          "page": 4
         },
         {
           "country": "uzbekistan",
@@ -137742,29 +137625,22 @@
           "kept": 93
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:34:49.697Z",
+      "lastDiscoveryAt": "2026-08-16T02:17:52.983Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 187,
-        "usersDiscovered": 3708,
-        "usersEnriched": 3608,
-        "usersKept": 2732
+        "searchRequests": 55,
+        "enrichmentRequests": 192,
+        "usersDiscovered": 3808,
+        "usersEnriched": 3708,
+        "usersKept": 2825
       }
     },
     "vanuatu": {
       "slug": "vanuatu",
       "status": "discovering",
       "queue": [
-        {
-          "country": "vanuatu",
-          "term": "Port Vila",
-          "kind": "city",
-          "createdStart": "2015-12-30",
-          "createdEnd": "2016-12-28"
-        },
         {
           "country": "vanuatu",
           "term": "Republic of Vanuatu",
@@ -138316,14 +138192,19 @@
           "completedAt": "2026-08-15T23:34:53.374Z",
           "total": 1,
           "kept": 1
+        },
+        "vanuatu|city|Port Vila|2015-12-30|2016-12-28||": {
+          "completedAt": "2026-08-16T02:17:56.173Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:34:53.374Z",
+      "lastDiscoveryAt": "2026-08-16T02:17:56.173Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 10,
         "usersDiscovered": 16,
         "usersEnriched": 16,
@@ -138334,13 +138215,6 @@
       "slug": "vatican_city",
       "status": "discovering",
       "queue": [
-        {
-          "country": "vatican_city",
-          "term": "Holy See (Vatican City State)",
-          "kind": "country",
-          "createdStart": "2016-12-29",
-          "createdEnd": "2017-12-28"
-        },
         {
           "country": "vatican_city",
           "term": "Stato della Città del Vaticano",
@@ -139025,14 +138899,19 @@
           "completedAt": "2026-08-15T23:34:57.104Z",
           "total": 1,
           "kept": 1
+        },
+        "vatican_city|country|Holy See (Vatican City State)|2016-12-29|2017-12-28||": {
+          "completedAt": "2026-08-16T02:17:59.432Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:34:57.104Z",
+      "lastDiscoveryAt": "2026-08-16T02:17:59.432Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 29,
         "usersDiscovered": 65,
         "usersEnriched": 65,
@@ -139043,13 +138922,6 @@
       "slug": "venezuela",
       "status": "discovering",
       "queue": [
-        {
-          "country": "venezuela",
-          "term": "Venezuela, Bolivarian Republic of",
-          "kind": "country",
-          "createdStart": "2020-12-28",
-          "createdEnd": "2021-12-27"
-        },
         {
           "country": "venezuela",
           "term": "Caracas",
@@ -139653,18 +139525,23 @@
           "completedAt": "2026-08-15T23:35:03.483Z",
           "total": 622,
           "kept": 22
+        },
+        "venezuela|country|Venezuela, Bolivarian Republic of|2020-12-28|2021-12-27||": {
+          "completedAt": "2026-08-16T02:18:02.667Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:35:03.483Z",
+      "lastDiscoveryAt": "2026-08-16T02:18:02.667Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 157,
         "usersDiscovered": 3060,
         "usersEnriched": 3000,
-        "usersKept": 2516
+        "usersKept": 2517
       }
     },
     "vietnam": {
@@ -139677,7 +139554,7 @@
           "kind": "country",
           "createdStart": "2022-12-28",
           "createdEnd": "2023-12-27",
-          "page": 4
+          "page": 5
         },
         {
           "country": "vietnam",
@@ -140311,29 +140188,22 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:36:20.435Z",
+      "lastDiscoveryAt": "2026-08-16T02:18:21.452Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 202,
-        "usersDiscovered": 3975,
-        "usersEnriched": 3935,
-        "usersKept": 3524
+        "searchRequests": 55,
+        "enrichmentRequests": 207,
+        "usersDiscovered": 4075,
+        "usersEnriched": 4035,
+        "usersKept": 3619
       }
     },
     "wallis_and_futuna": {
       "slug": "wallis_and_futuna",
       "status": "discovering",
       "queue": [
-        {
-          "country": "wallis_and_futuna",
-          "term": "Wallis and Futuna",
-          "kind": "country",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "wallis_and_futuna",
           "term": "Mata-Utu",
@@ -140752,14 +140622,19 @@
           "completedAt": "2026-08-15T23:36:23.727Z",
           "total": 0,
           "kept": 0
+        },
+        "wallis_and_futuna|country|Wallis and Futuna|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:18:24.639Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:36:23.727Z",
+      "lastDiscoveryAt": "2026-08-16T02:18:24.639Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 1,
         "usersDiscovered": 1,
         "usersEnriched": 1,
@@ -140770,13 +140645,6 @@
       "slug": "western_sahara",
       "status": "discovering",
       "queue": [
-        {
-          "country": "western_sahara",
-          "term": "Western Sahara",
-          "kind": "country",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "western_sahara",
           "term": "El Aaiún",
@@ -141195,31 +141063,29 @@
           "completedAt": "2026-08-15T23:36:27.108Z",
           "total": 0,
           "kept": 0
+        },
+        "western_sahara|country|Western Sahara|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:18:28.313Z",
+          "total": 1,
+          "kept": 1
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:36:27.108Z",
+      "lastDiscoveryAt": "2026-08-16T02:18:28.313Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 3,
-        "usersDiscovered": 4,
-        "usersEnriched": 4,
-        "usersKept": 4
+        "searchRequests": 55,
+        "enrichmentRequests": 4,
+        "usersDiscovered": 5,
+        "usersEnriched": 5,
+        "usersKept": 5
       }
     },
     "yemen": {
       "slug": "yemen",
       "status": "discovering",
       "queue": [
-        {
-          "country": "yemen",
-          "term": "Yemen",
-          "kind": "country",
-          "createdStart": "2016-12-29",
-          "createdEnd": "2017-12-28"
-        },
         {
           "country": "yemen",
           "term": "Yemeni Republic",
@@ -141785,31 +141651,29 @@
           "completedAt": "2026-08-15T23:36:30.463Z",
           "total": 0,
           "kept": 0
+        },
+        "yemen|country|Yemen|2016-12-29|2017-12-28||": {
+          "completedAt": "2026-08-16T02:18:40.660Z",
+          "total": 54,
+          "kept": 54
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:36:30.463Z",
+      "lastDiscoveryAt": "2026-08-16T02:18:40.660Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 82,
-        "usersDiscovered": 1436,
-        "usersEnriched": 1436,
-        "usersKept": 1048
+        "searchRequests": 55,
+        "enrichmentRequests": 85,
+        "usersDiscovered": 1490,
+        "usersEnriched": 1490,
+        "usersKept": 1095
       }
     },
     "zambia": {
       "slug": "zambia",
       "status": "discovering",
       "queue": [
-        {
-          "country": "zambia",
-          "term": "Republic of Zambia",
-          "kind": "country",
-          "createdStart": "2010-12-31",
-          "createdEnd": "2011-12-30"
-        },
         {
           "country": "zambia",
           "term": "Zambia",
@@ -142113,14 +141977,19 @@
           "completedAt": "2026-08-15T23:36:34.434Z",
           "total": 4,
           "kept": 4
+        },
+        "zambia|country|Republic of Zambia|2010-12-31|2011-12-30||": {
+          "completedAt": "2026-08-16T02:18:43.877Z",
+          "total": 0,
+          "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:36:34.434Z",
+      "lastDiscoveryAt": "2026-08-16T02:18:43.877Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
+        "searchRequests": 55,
         "enrichmentRequests": 119,
         "usersDiscovered": 2175,
         "usersEnriched": 2069,
@@ -142131,13 +142000,6 @@
       "slug": "zimbabwe",
       "status": "discovering",
       "queue": [
-        {
-          "country": "zimbabwe",
-          "term": "Harare",
-          "kind": "city",
-          "createdStart": "2012-12-30",
-          "createdEnd": "2013-12-29"
-        },
         {
           "country": "zimbabwe",
           "term": "Republic of Zimbabwe",
@@ -142459,29 +142321,34 @@
           "completedAt": "2026-08-15T23:36:41.359Z",
           "total": 28,
           "kept": 28
+        },
+        "zimbabwe|city|Harare|2012-12-30|2013-12-29||": {
+          "completedAt": "2026-08-16T02:18:49.325Z",
+          "total": 16,
+          "kept": 16
         }
       },
-      "lastDiscoveryAt": "2026-08-15T23:36:41.359Z",
+      "lastDiscoveryAt": "2026-08-16T02:18:49.325Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 54,
-        "enrichmentRequests": 128,
-        "usersDiscovered": 2265,
-        "usersEnriched": 2265,
-        "usersKept": 1628
+        "searchRequests": 55,
+        "enrichmentRequests": 129,
+        "usersDiscovered": 2281,
+        "usersEnriched": 2281,
+        "usersKept": 1634
       }
     }
   },
-  "nextCountryIndex": 172,
-  "lastRunStartedAt": "2026-08-15T23:48:32.440Z",
-  "lastRunFinishedAt": "2026-08-16T00:18:00.611Z",
+  "nextCountryIndex": 39,
+  "lastRunStartedAt": "2026-08-16T01:59:18.080Z",
+  "lastRunFinishedAt": "2026-08-16T02:27:06.128Z",
   "stats": {
-    "searchRequests": 13334,
-    "enrichmentRequests": 23366,
-    "usersDiscovered": 413049,
-    "usersEnriched": 408548,
-    "usersKept": 324507
+    "searchRequests": 13432,
+    "enrichmentRequests": 23568,
+    "usersDiscovered": 416782,
+    "usersEnriched": 412281,
+    "usersKept": 327690
   }
 }

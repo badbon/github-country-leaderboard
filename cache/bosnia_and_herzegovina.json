@@ -15826,5 +15826,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-01-07T23:13:07Z"
+  },
+  {
+    "login": "mirzamam",
+    "name": "Mirza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36823000?s=72&v=4",
+    "location": "Sarajevo",
+    "company": "Apsize d.o.o.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-25T18:34:53Z"
+  },
+  {
+    "login": "Din111",
+    "name": "Din Tanovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36885137?s=72&u=2397ee98b421ba5f37932583861f55ec05380311&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-27T11:02:09Z"
+  },
+  {
+    "login": "hnedim",
+    "name": "Nedim Hodzic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44910062?s=72&u=efb0abee4944b9c0c652cf3f19358b40c5a05169&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 56,
+    "createdAt": "2018-11-09T21:15:55Z"
+  },
+  {
+    "login": "FarukHodzic",
+    "name": "Faruk Hodžić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45701611?s=72&u=c686aafc93e6e9cd87c5e8441a5e38d3b71035cc&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-07T23:10:59Z"
+  },
+  {
+    "login": "Sejosm",
+    "name": "Sejo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44434161?s=72&v=4",
+    "location": "Sarajevo",
+    "company": "MyBazar",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-24T11:23:30Z"
+  },
+  {
+    "login": "tarikpazalja",
+    "name": "Tarik Pazalja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44119353?s=72&u=4b93d36b62e7c9df64894d250a07bb592e6d7f5d&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2018-10-13T15:31:07Z"
+  },
+  {
+    "login": "ldrkic1",
+    "name": "Lamija Drkić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44214001?s=72&v=4",
+    "location": "Sarajevo, Bosna i Hercegovina",
+    "company": "Faculty of Electrical Engineering",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-16T21:32:04Z"
   }
 ]

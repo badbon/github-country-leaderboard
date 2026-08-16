@@ -7222,5 +7222,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-12-12T21:52:33Z"
+  },
+  {
+    "login": "mbayopanda",
+    "name": "Bruce Mbayo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5445251?s=72&u=d8b36d3bc88e35877db8d75166f01d4c97d2989c&v=4",
+    "location": "Kinshasa, DR Congo",
+    "company": "IMA WorldHealth",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2013-09-12T15:21:24Z"
+  },
+  {
+    "login": "hervinhio",
+    "name": "Hervé Kyle MUTOMBO MATANDA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6167879?s=72&u=6664f3934a2454c5266b92496a62e544f6997d91&v=4",
+    "location": "Kinshasa, Democratic Republic of Congo",
+    "company": "Cinq Five",
+    "twitterUsername": "hervinhio",
+    "followers": 17,
+    "privateContributions": 3937,
+    "publicContributions": 77,
+    "createdAt": "2013-12-12T07:57:37Z"
+  },
+  {
+    "login": "Arcenebeya",
+    "name": "Beya Kalamba Arcene",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6020248?s=72&u=c63912a3f82b3f8e3f858f1fd65bed47ab4e2a6f&v=4",
+    "location": "DR CONGO",
+    "company": "Lemondrop Sarl",
+    "twitterUsername": "arcenebeya",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-23T21:53:42Z"
+  },
+  {
+    "login": "djasu",
+    "name": "Yassine Ndaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3624170?s=72&u=175e4a66e17b62685c272ae490f13d796b531b73&v=4",
+    "location": "Democratic Republic of Congo",
+    "company": "ISIG GOMA, UNIBU, UNIGOM",
+    "twitterUsername": "amiyassini",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2013-02-18T08:17:49Z"
+  },
+  {
+    "login": "66koko",
+    "name": "KOKO Landry C.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3800235?s=72&v=4",
+    "location": "DR CONGO",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-07T16:50:21Z"
   }
 ]

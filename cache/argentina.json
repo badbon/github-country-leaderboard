@@ -47962,5 +47962,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-13T15:11:26Z"
+  },
+  {
+    "login": "gcanadas",
+    "name": "Gabriel Eduardo Cañadas Fragapane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7603837?s=72&u=67ce6d21b160fabdb387efc5a1435c0c67c92e37&v=4",
+    "location": "San Juan, Argentina",
+    "company": "Universidad Nacional de San Juan",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-05-16T14:42:01Z"
+  },
+  {
+    "login": "marxelosj",
+    "name": "Marcelo A. Quinteros",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9195979?s=72&u=fd4899466c9366920d6c3de59b804fcd25f92bd8&v=4",
+    "location": "San Juan, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-13T12:07:14Z"
+  },
+  {
+    "login": "renzobianchi",
+    "name": "Renzo Bianchi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8013787?s=72&u=55f125e51113788eb5af1297676af43c0ce12397&v=4",
+    "location": "San Juan, Argentina",
+    "company": "Studio Box",
+    "twitterUsername": "renzoabianchi",
+    "followers": 1,
+    "privateContributions": 3603,
+    "publicContributions": 0,
+    "createdAt": "2014-06-28T15:25:48Z"
+  },
+  {
+    "login": "GerMoren",
+    "name": "Ger Moren",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66226454?s=72&u=fc52e7ff7e5b77da3978a3066233aaaaab75afa9&v=4",
+    "location": "Concepción del Uruguay, Entre Ríos, Argentina",
+    "company": "@tiendamiaOfficial ",
+    "twitterUsername": "MorenGer_",
+    "followers": 19,
+    "privateContributions": 72,
+    "publicContributions": 392,
+    "createdAt": "2020-05-31T23:04:58Z"
   }
 ]

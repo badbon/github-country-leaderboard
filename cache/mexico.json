@@ -27586,5 +27586,41 @@
     "privateContributions": 203,
     "publicContributions": 4,
     "createdAt": "2023-04-14T15:14:02Z"
+  },
+  {
+    "login": "RaulBalleza",
+    "name": "BazaDev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34951183?s=72&u=70b072e24b0777cc5b4185173acc08105ca1b6df&v=4",
+    "location": "Ciudad Victoria, Tamaulipas, México",
+    "company": "Universidad Politécnica de Victoria",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-30T00:47:58Z"
+  },
+  {
+    "login": "EdgarTec97",
+    "name": "Edgar Castillo Vega",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40275620?s=72&u=93606deb2af3c43fae4ab948901f322b04832163&v=4",
+    "location": "Ciudad Victoria, Tamaulipas, México.",
+    "company": "Skydropx",
+    "twitterUsername": "EdgarVega99",
+    "followers": 2,
+    "privateContributions": 3951,
+    "publicContributions": 3,
+    "createdAt": "2018-06-14T17:59:13Z"
+  },
+  {
+    "login": "cags9607",
+    "name": "Sergio Carrasco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44386058?s=72&u=3b2af18124f5917c8a57f01af89a2cc61c3e53d3&v=4",
+    "location": "Victoria de Durango, México",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 224,
+    "publicContributions": 156,
+    "createdAt": "2018-10-23T01:56:03Z"
   }
 ]
