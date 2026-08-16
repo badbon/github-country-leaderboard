@@ -118,5 +118,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-03-28T09:20:36Z"
+  },
+  {
+    "login": "afatinong",
+    "name": "Afewerki Fkadu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20488079?s=72&u=f451a22b2a16a4430c152c1b2b29a7cd2c0a5300&v=4",
+    "location": "Eritrea",
+    "company": "@HotelAsmaraPalace",
+    "twitterUsername": "afatinong",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-07-16T08:50:59Z"
+  },
+  {
+    "login": "teszen",
+    "name": "eaglerise@gmail.com",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22429766?s=72&v=4",
+    "location": "Asmara, Eritrea",
+    "company": "EagleRISE PLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-25T14:23:42Z"
+  },
+  {
+    "login": "kudustekle",
+    "name": "KUDUS TEKLE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17906203?s=72&u=0041556ffa16902685db860b07ab90673e74e60f&v=4",
+    "location": "Eritrea,Asmara",
+    "company": "EriTel",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-17T13:57:58Z"
+  },
+  {
+    "login": "hailefreecodecampcoder",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22878878?s=72&u=b46f451c8da7a7b7fa69003e521de9b79bb52401&v=4",
+    "location": "Eritrea",
+    "company": "FreeCodeCamp",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-17T04:09:36Z"
   }
 ]

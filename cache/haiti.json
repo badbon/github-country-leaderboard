@@ -4102,5 +4102,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-26T21:56:05Z"
+  },
+  {
+    "login": "bleuscyther",
+    "name": "jeffrey n. carre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2999487?s=72&u=b399a8cd1480b86fa0ea0644a111dccb4bcc935a&v=4",
+    "location": "Haiti",
+    "company": "fruitsbytes",
+    "twitterUsername": "jeffrey_n_carre",
+    "followers": 17,
+    "privateContributions": 979,
+    "publicContributions": 64,
+    "createdAt": "2012-12-09T04:13:36Z"
+  },
+  {
+    "login": "jcpoulard",
+    "name": "Jean Came Poulard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1465763?s=72&u=5d77b0d39c98d00eb793fbf846fcec817b43b617&v=4",
+    "location": "Haiti",
+    "company": "LOGIPAM",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-02-23T13:59:08Z"
   }
 ]

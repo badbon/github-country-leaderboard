@@ -17578,5 +17578,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-03-05T15:06:27Z"
+  },
+  {
+    "login": "amurru",
+    "name": "Ammar Zerouk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/680105?s=72&u=38a684c0131e34892e677f91d8bf55630ae8e3fe&v=4",
+    "location": "Syria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 53,
+    "privateContributions": 2066,
+    "publicContributions": 489,
+    "createdAt": "2011-03-20T15:56:46Z"
+  },
+  {
+    "login": "halool",
+    "name": "Hala Deeb",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/752272?s=72&v=4",
+    "location": "Damascus, Syria",
+    "company": "Creative Web Group syria",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-26T11:43:29Z"
+  },
+  {
+    "login": "Abdullah0991",
+    "name": "Abdullah AlEzzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1083999?s=72&v=4",
+    "location": "Syria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2011-09-27T14:28:27Z"
+  },
+  {
+    "login": "azaatar",
+    "name": "Ahmad Zaatar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/738800?s=72&u=d47c3bf0acc87e56427de0a24ad35c75cc6a2e07&v=4",
+    "location": "Syria",
+    "company": "Zaatar Media",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-19T10:56:19Z"
+  },
+  {
+    "login": "maher-abbas",
+    "name": "maher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/771623?s=72&v=4",
+    "location": "syria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-05-06T06:04:42Z"
   }
 ]

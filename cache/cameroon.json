@@ -21478,5 +21478,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-06-10T12:44:13Z"
+  },
+  {
+    "login": "Martin-Luther",
+    "name": "Martin Luther ETOUMAN NDAMBWE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2272470?s=72&v=4",
+    "location": "Douala / Cameroon",
+    "company": "Rhinostone",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 1327,
+    "publicContributions": 3802,
+    "createdAt": "2012-09-03T18:01:48Z"
+  },
+  {
+    "login": "patricksile",
+    "name": "Patrick Sile",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1911442?s=72&v=4",
+    "location": "Douala / Cameroon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2012-07-01T17:13:56Z"
+  },
+  {
+    "login": "bkvtin",
+    "name": "b-tin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2102011?s=72&v=4",
+    "location": "Cameroon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-06T08:23:05Z"
   }
 ]
