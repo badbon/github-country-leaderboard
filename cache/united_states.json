@@ -64244,7 +64244,7 @@
     "twitterUsername": "",
     "followers": 61,
     "privateContributions": 0,
-    "publicContributions": 209,
+    "publicContributions": 210,
     "createdAt": "2025-03-14T00:34:22Z"
   },
   {
@@ -64326,7 +64326,7 @@
     "location": "United States of America",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 117,
     "createdAt": "2025-01-01T04:52:45Z"
@@ -64424,7 +64424,7 @@
     "twitterUsername": "agenticassets",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 516,
+    "publicContributions": 517,
     "createdAt": "2025-07-06T18:30:15Z"
   },
   {
@@ -64459,7 +64459,7 @@
     "company": "Purdue University Fort Wayne",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 90,
+    "privateContributions": 93,
     "publicContributions": 104,
     "createdAt": "2025-06-28T15:23:48Z"
   },
@@ -64652,7 +64652,7 @@
     "twitterUsername": "Kuskusmiya001",
     "followers": 4,
     "privateContributions": 186,
-    "publicContributions": 400,
+    "publicContributions": 404,
     "createdAt": "2025-03-15T15:57:17Z"
   },
   {
@@ -64747,8 +64747,8 @@
     "company": "Link Robins LLC",
     "twitterUsername": "linkrobinsllc",
     "followers": 3,
-    "privateContributions": 2410,
-    "publicContributions": 1020,
+    "privateContributions": 2478,
+    "publicContributions": 1044,
     "createdAt": "2025-05-23T18:02:19Z"
   },
   {
@@ -64796,7 +64796,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 293,
+    "publicContributions": 294,
     "createdAt": "2025-09-11T20:38:14Z"
   },
   {
@@ -64915,7 +64915,7 @@
     "company": "@MatrixLabs-Development ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 779,
+    "privateContributions": 801,
     "publicContributions": 45,
     "createdAt": "2025-06-12T19:40:33Z"
   },
@@ -92890,5 +92890,17 @@
     "privateContributions": 1626,
     "publicContributions": 0,
     "createdAt": "2016-01-10T13:42:52Z"
+  },
+  {
+    "login": "lbgrid",
+    "name": "Governor Littlebird",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22582353?s=72&u=3475fbcf2442d783959761ad78bb11bf751721cc&v=4",
+    "location": "Victoria, Texas, USA",
+    "company": "@lbgrid @operator1 @magiancient @lbmv",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-03T01:26:24Z"
   }
 ]

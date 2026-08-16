@@ -16138,5 +16138,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-01-30T11:55:23Z"
+  },
+  {
+    "login": "tonux",
+    "name": "Tonux SAMB",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/882254?s=72&u=c80a4ea5cd3423ae6bc8d9e93b70867fac7a5be1&v=4",
+    "location": "Dakar, Sénégal ",
+    "company": "tonux's corporation",
+    "twitterUsername": "tonux_samb",
+    "followers": 124,
+    "privateContributions": 1484,
+    "publicContributions": 63,
+    "createdAt": "2011-06-28T19:44:22Z"
+  },
+  {
+    "login": "soulesidibe",
+    "name": "Souleymane Sidibe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/936370?s=72&u=3b6a983fa4ca64998d2c4321271a7a64b72268d5&v=4",
+    "location": "Dakar, Sénégal",
+    "company": "",
+    "twitterUsername": "soulesidibe",
+    "followers": 29,
+    "privateContributions": 1807,
+    "publicContributions": 80,
+    "createdAt": "2011-07-25T02:25:31Z"
+  },
+  {
+    "login": "dioza22",
+    "name": "Mamadou SADIO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/591518?s=72&v=4",
+    "location": "Dakar",
+    "company": "DIOZA22 Corp.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 64,
+    "createdAt": "2011-01-30T18:14:51Z"
+  },
+  {
+    "login": "moustapha",
+    "name": "Moustapha DIENG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/693622?s=72&u=ce6569e42be564d4a5f62cf89c4a0b6ad8723e84&v=4",
+    "location": "Dakar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-27T17:44:03Z"
   }
 ]

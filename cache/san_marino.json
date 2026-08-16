@@ -562,5 +562,29 @@
     "privateContributions": 282,
     "publicContributions": 368,
     "createdAt": "2013-08-16T11:54:27Z"
+  },
+  {
+    "login": "samuele-mrapps",
+    "name": "Samuele Mazza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3425734?s=72&v=4",
+    "location": "San Marino",
+    "company": "Mr. APPs s.r.l.",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2013-01-30T08:48:04Z"
+  },
+  {
+    "login": "davidedusi",
+    "name": "Davide Dusi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4066811?s=72&u=515f676f9762c91ee73565f801f525143a5dac36&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-05T08:03:30Z"
   }
 ]

@@ -538,5 +538,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-04-03T10:50:46Z"
+  },
+  {
+    "login": "GitHug",
+    "name": "Fredrik Mäkilä",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3191489?s=72&u=2c76b2a3506f1cd7878b8e1af0f086adff0f9868&v=4",
+    "location": "London / Mariehamn",
+    "company": "Takanoha",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 170,
+    "publicContributions": 6,
+    "createdAt": "2013-01-05T07:48:13Z"
+  },
+  {
+    "login": "viktor-sarge",
+    "name": "Viktor Sarge",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3371823?s=72&u=b96b72f64264c5683c372b8782cce42ff612ac77&v=4",
+    "location": "Mariehamn",
+    "company": "@RegionHalland ",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 167,
+    "publicContributions": 11,
+    "createdAt": "2013-01-24T16:35:10Z"
+  },
+  {
+    "login": "chrney",
+    "name": "Christoph Neymeyr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3802308?s=72&u=82fea252dc139123e2fb6c0c6adbfc45fe930fff&v=4",
+    "location": "Mariehamn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2013-03-07T20:39:42Z"
   }
 ]

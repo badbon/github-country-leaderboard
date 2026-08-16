@@ -36643,7 +36643,7 @@
     "company": "@Fogito-com",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 312,
+    "privateContributions": 314,
     "publicContributions": 0,
     "createdAt": "2021-10-04T17:52:35Z"
   },
@@ -38794,5 +38794,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-21T18:12:51Z"
+  },
+  {
+    "login": "Shamil-Baku",
+    "name": "Shamil Aliyev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88266059?s=72&u=07d8267d10295671e10f02db64ccaf11d95471eb&v=4",
+    "location": "Baku",
+    "company": "Lukoil",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-01T07:07:19Z"
+  },
+  {
+    "login": "amenos93",
+    "name": "Amen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77331055?s=72&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-12T11:35:05Z"
+  },
+  {
+    "login": "javidgulmaliyev",
+    "name": "Javid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92034953?s=72&u=0ab2ef3244883d10697c1f6c3f5f0f2bc6a2dc3a&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 173,
+    "createdAt": "2021-10-06T13:10:13Z"
+  },
+  {
+    "login": "Jeykhun13",
+    "name": "Ceyhun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91677608?s=72&u=7d25253ce8b4eb816b3cb82bb0451ff41c1b6966&v=4",
+    "location": "Baku",
+    "company": "VValy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-30T13:30:04Z"
+  },
+  {
+    "login": "B-O-W",
+    "name": "Elbrus Mammadov ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95022459?s=72&u=c21962fdd7c3d7a08a2bb660307887998eb7f6c8&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-11-25T09:21:48Z"
+  },
+  {
+    "login": "MirHoussein",
+    "name": "Mirhuseyn Elekberli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88456504?s=72&u=9fd49c63b43dd4c0ada835a2f5260070d8c49197&v=4",
+    "location": "Baku",
+    "company": "Positive MMC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-04T18:44:31Z"
+  },
+  {
+    "login": "hsnafrasiyab",
+    "name": "Huseyn Afrasiyab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93052304?s=72&u=ec898c5b57706c79a8819248d157e001638d044e&v=4",
+    "location": "Baku",
+    "company": "ATL TECH LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-23T17:58:05Z"
   }
 ]
