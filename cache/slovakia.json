@@ -30658,5 +30658,101 @@
     "privateContributions": 54,
     "publicContributions": 1,
     "createdAt": "2017-06-05T11:42:02Z"
+  },
+  {
+    "login": "BobThePlayer",
+    "name": "BobThePlayer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32266936?s=72&u=28aa9bad1f76d277ef8f54a2c97da13508fc0219&v=4",
+    "location": "Bratislava, Slovak Republick",
+    "company": "Huawei Tchnologies (Slovak) s.r.o.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-25T12:45:14Z"
+  },
+  {
+    "login": "marosholly",
+    "name": "Marosh Holly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25477995?s=72&v=4",
+    "location": "Bratislava",
+    "company": "Pixel Federation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-01T09:48:49Z"
+  },
+  {
+    "login": "pbritka",
+    "name": "Peter Britka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28778956?s=72&u=bc801e651a4a7e595e70708aaded7b8eeeb4a057&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "BritkaPeter",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2017-05-18T09:48:57Z"
+  },
+  {
+    "login": "simon-grac",
+    "name": "Šimon Grác",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27779678?s=72&u=dfc670ea5d522587268d0c46ac6615f7f07a0e0e&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-19T17:16:09Z"
+  },
+  {
+    "login": "styledigger",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32388656?s=72&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-29T10:37:27Z"
+  },
+  {
+    "login": "marekmichalik",
+    "name": "Marek Michalík",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34522046?s=72&u=a962bcab014537ce5b3d92b9a0c6a28e83abac94&v=4",
+    "location": "Bratislava, SK, EU",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-13T20:14:41Z"
+  },
+  {
+    "login": "viktorFIIT",
+    "name": "Viktor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32246112?s=72&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-24T18:10:58Z"
+  },
+  {
+    "login": "tiborza",
+    "name": "Tibor Zavadil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26981026?s=72&u=bba3722ca9b1ae3f32f03f83450350136802fec9&v=4",
+    "location": "Bratislava",
+    "company": "CEAI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-06T20:26:39Z"
   }
 ]

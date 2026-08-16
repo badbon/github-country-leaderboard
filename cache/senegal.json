@@ -15970,5 +15970,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-11-02T23:07:11Z"
+  },
+  {
+    "login": "ElCep",
+    "name": "Etienne DELAY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1777267?s=72&u=cb54097d3d0e90611a7a11c4e060522dec3da0e7&v=4",
+    "location": "UCAD - Dakar",
+    "company": "CIRAD - UMR SENS",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 11,
+    "publicContributions": 128,
+    "createdAt": "2012-05-25T08:54:27Z"
+  },
+  {
+    "login": "ousmaneo",
+    "name": "Ousmane SAMBA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1381455?s=72&u=0ff6288c4a84340580950ee57d6c81de8ff2737a&v=4",
+    "location": "Dakar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 252,
+    "publicContributions": 176,
+    "createdAt": "2012-01-26T08:51:28Z"
+  },
+  {
+    "login": "dadja",
+    "name": "Dadja Matiasso BASSOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1494247?s=72&u=d629e897c310b29e4880af219b29f337a9be4c60&v=4",
+    "location": "Dakar",
+    "company": "ReptxStudio",
+    "twitterUsername": "reptx",
+    "followers": 15,
+    "privateContributions": 58,
+    "publicContributions": 4,
+    "createdAt": "2012-03-02T19:46:59Z"
+  },
+  {
+    "login": "ldjibox",
+    "name": "Leger DJIBA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2722133?s=72&u=5b039530985d0797e08658f974b68ededc11dc8b&v=4",
+    "location": "Dakar",
+    "company": "A2DG",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-04T20:58:40Z"
+  },
+  {
+    "login": "elmagnif",
+    "name": "Mbaye Camara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1623670?s=72&u=bc95893f4e41d528780d7f73e4d8282e0d1a5bfc&v=4",
+    "location": "Dakar",
+    "company": "chakamobile",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-04-08T18:34:39Z"
+  },
+  {
+    "login": "ikanechallenge",
+    "name": "Ibrahima KANE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1525849?s=72&u=d025b257754473bdcf82be817ea22b9404715c1e&v=4",
+    "location": "Dakar, Sénégal",
+    "company": "IKANE Co.",
+    "twitterUsername": "ikanechallenge",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-11T14:50:34Z"
+  },
+  {
+    "login": "mdiouf",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1893211?s=72&u=76a1fe5ff68126929585432e89fd7677d0caff54&v=4",
+    "location": "Sénégal,Dakar",
+    "company": "Baamtu",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-06-26T08:27:37Z"
+  },
+  {
+    "login": "aaabdoulaye",
+    "name": "Abdoul Aziz ABDOULAYE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3115373?s=72&v=4",
+    "location": "Dakar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-24T11:08:56Z"
   }
 ]

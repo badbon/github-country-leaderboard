@@ -5614,5 +5614,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-01-22T23:11:47Z"
+  },
+  {
+    "login": "kulobone",
+    "name": "N N Kulobone",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280950?s=72&v=4",
+    "location": "Namibia",
+    "company": "NHE",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-19T02:02:53Z"
+  },
+  {
+    "login": "raminhossaini",
+    "name": "Ramin Hossaini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/249256?s=72&u=9b0fc7144bd21d81c0366837a418b4d3a4ca6123&v=4",
+    "location": "Namibia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 59,
+    "publicContributions": 75,
+    "createdAt": "2010-04-21T19:28:50Z"
+  },
+  {
+    "login": "flory",
+    "name": "flory",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278536?s=72&v=4",
+    "location": "Namibia",
+    "company": "Polytechnic of Namibia",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-16T17:19:08Z"
   }
 ]

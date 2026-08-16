@@ -12619,7 +12619,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 929,
+    "privateContributions": 930,
     "publicContributions": 53,
     "createdAt": "2011-01-20T12:08:14Z"
   },
@@ -12790,5 +12790,65 @@
     "privateContributions": 91,
     "publicContributions": 6,
     "createdAt": "2011-05-02T17:26:29Z"
+  },
+  {
+    "login": "osome",
+    "name": "Ramon Jesus Gonzalez-Marquez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/542402?s=72&v=4",
+    "location": "Doha",
+    "company": "OSOME",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 14,
+    "publicContributions": 1,
+    "createdAt": "2010-12-31T05:57:11Z"
+  },
+  {
+    "login": "agugun",
+    "name": "Anggun Gugun Gumati",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1063886?s=72&u=c5a73ef781e272506e9575cf8eab5ca460e6424d&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 139,
+    "publicContributions": 18,
+    "createdAt": "2011-09-20T02:37:08Z"
+  },
+  {
+    "login": "nassir007",
+    "name": "Nasser Al-khuzaei",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/627219?s=72&v=4",
+    "location": "Doha",
+    "company": "Qatar University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-19T17:03:00Z"
+  },
+  {
+    "login": "tompte",
+    "name": "tompte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/612754?s=72&v=4",
+    "location": "Doha",
+    "company": "Lycée bonaparte",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-11T13:10:14Z"
+  },
+  {
+    "login": "silakm3",
+    "name": "Hussein Mohamed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/971551?s=72&u=eacee6136b6d7d1537065fa73a2c41dd1d6d0d46&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-08-10T13:59:20Z"
   }
 ]

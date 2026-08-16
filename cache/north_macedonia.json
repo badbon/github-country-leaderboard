@@ -12322,5 +12322,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-25T13:52:47Z"
+  },
+  {
+    "login": "leojk11",
+    "name": "Leonid Jakimovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52182524?s=72&u=9d8e9d93cf961e5359dbb82f6bf6e93a6b4b97b5&v=4",
+    "location": "skopje",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-24T23:44:30Z"
+  },
+  {
+    "login": "ibrashub",
+    "name": "Ibrahim Ismailji",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57590567?s=72&v=4",
+    "location": "Skopje",
+    "company": "FINKI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 12,
+    "publicContributions": 0,
+    "createdAt": "2019-11-10T12:16:04Z"
+  },
+  {
+    "login": "bobansugareski",
+    "name": "Boban Sugareski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58738839?s=72&u=7f77e2d17b4b57cddab6c2038f03179204ba5ddf&v=4",
+    "location": "Skopje",
+    "company": "Slice",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-10T14:51:10Z"
+  },
+  {
+    "login": "ivanefremovski",
+    "name": "Ivan Efremovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55703671?s=72&u=76532af5b3c7a89f98ce3956a4893bafd2c480ba&v=4",
+    "location": "Skopje",
+    "company": "ASEE DOOEL Skopje",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 385,
+    "publicContributions": 0,
+    "createdAt": "2019-09-23T14:36:09Z"
+  },
+  {
+    "login": "vlatkozmejkoski",
+    "name": "Vlatko Zmejkoski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48796024?s=72&u=e4e9e41ffd0f39e1d4467fd05f2e7d4258753e5e&v=4",
+    "location": "Skopje",
+    "company": "@IT-Labs",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 90,
+    "publicContributions": 40,
+    "createdAt": "2019-03-21T13:05:37Z"
   }
 ]
