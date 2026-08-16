@@ -1630,5 +1630,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-07-30T10:09:31Z"
+  },
+  {
+    "login": "intool",
+    "name": "intool",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/827662?s=72&u=48e9a6f9c4a06ed6ff1f801de018f7b4e49d7672&v=4",
+    "location": "Monaco",
+    "company": "in",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-06-03T14:24:01Z"
+  },
+  {
+    "login": "beosiris",
+    "name": "Ben",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1056334?s=72&u=51a3e75a6eb9dc48dc471b9ab8967c2b303c6309&v=4",
+    "location": "Monaco",
+    "company": "OSIRIS",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-09-16T15:27:48Z"
   }
 ]

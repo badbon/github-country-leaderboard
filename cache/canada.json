@@ -29791,7 +29791,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 669,
+    "privateContributions": 719,
     "publicContributions": 0,
     "createdAt": "2011-11-19T18:50:53Z"
   },
@@ -60298,5 +60298,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-26T00:30:06Z"
+  },
+  {
+    "login": "icode-live",
+    "name": "lerina (Jean-Yves RAZAFY)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22153533?s=72&u=5abe966547260dfb19dd468b14013f3f01e2c6c0&v=4",
+    "location": "Canada, France , Madagascar",
+    "company": "lerina icode-live",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-12T16:04:22Z"
+  },
+  {
+    "login": "JefferyKung",
+    "name": "Jeffery(Hsiang-Chun) Kung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102844561?s=72&v=4",
+    "location": "Vancouver / Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-02T04:11:03Z"
   }
 ]

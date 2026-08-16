@@ -15032,7 +15032,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 359,
-    "publicContributions": 6429,
+    "publicContributions": 6430,
     "createdAt": "2013-02-10T01:22:34Z"
   },
   {
@@ -15574,5 +15574,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-07-24T02:49:14Z"
+  },
+  {
+    "login": "carzam87",
+    "name": "Carlos Zambrana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5070330?s=72&u=f401f42224b6ab77df9b614254c413dc1126fe3b&v=4",
+    "location": "Managua",
+    "company": "Personal",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-07-23T05:14:51Z"
+  },
+  {
+    "login": "cchamorro",
+    "name": "Christian D. Chamorro M.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5341990?s=72&u=c98257eb1338ed0a7bee47558c6dedceb8c7155e&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-29T20:31:31Z"
+  },
+  {
+    "login": "mdeltrus",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5429833?s=72&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2013-09-10T18:43:57Z"
+  },
+  {
+    "login": "RFGMM",
+    "name": "Ruddy Francois Molina Mendieta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3610470?s=72&u=46d72605816ec5ff033879f924b3889ea405fd14&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2013-02-16T11:38:13Z"
+  },
+  {
+    "login": "cesarpi80",
+    "name": "César Sáenz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5166909?s=72&v=4",
+    "location": "Managua",
+    "company": "Pinol Software APP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-08-05T15:09:24Z"
+  },
+  {
+    "login": "jjoseclararivera",
+    "name": "Juan José Clara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4542922?s=72&u=122ba88d8fe6d38b421dddea9c06e5e2c8fd0921&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 84,
+    "createdAt": "2013-05-27T20:05:07Z"
   }
 ]

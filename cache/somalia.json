@@ -9751,7 +9751,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 640,
+    "privateContributions": 641,
     "publicContributions": 12,
     "createdAt": "2017-11-10T11:09:16Z"
   },
@@ -9898,5 +9898,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-09-21T20:23:20Z"
+  },
+  {
+    "login": "Cabdulahi",
+    "name": "Cabdulahi Sharif",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33965166?s=72&u=0acb3403ffb4f4d8caea3712f6fa4f13adb80cb7&v=4",
+    "location": "Mogadishu",
+    "company": "Hormuud",
+    "twitterUsername": "Cabdula18395654",
+    "followers": 283,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-24T18:02:00Z"
+  },
+  {
+    "login": "gouledabdikadir",
+    "name": "Gouled Abdikadir Ismail",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28356386?s=72&u=48919cb27f1e420271061220a1f3594a88b30099&v=4",
+    "location": "Hargeisa/Mogadishu",
+    "company": "UNFPA Somalia ",
+    "twitterUsername": "gouledabdikadir",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2017-05-03T16:15:39Z"
+  },
+  {
+    "login": "azuzsom",
+    "name": "Abdiaziz Ali Hassan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32484435?s=72&u=b9ae7580c28adb7ce133f5f15846928ab5541649&v=4",
+    "location": "Mogadishu",
+    "company": "Somali National University",
+    "twitterUsername": "azuzsom",
+    "followers": 3,
+    "privateContributions": 1,
+    "publicContributions": 2,
+    "createdAt": "2017-10-03T12:03:25Z"
+  },
+  {
+    "login": "hadieyow",
+    "name": "Hadi Eyow",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29493526?s=72&u=bbc3e4e57628d5e81c715c52e7fe62433b9e1c78&v=4",
+    "location": "Mogadishu",
+    "company": "NCA",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-06-16T21:55:04Z"
   }
 ]

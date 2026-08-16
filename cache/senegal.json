@@ -15922,5 +15922,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-03-18T15:47:25Z"
+  },
+  {
+    "login": "loxadim",
+    "name": "babacar lô",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1301333?s=72&u=9a52bff6969ac0703c668ec5a24d283530da7e7e&v=4",
+    "location": "senegal",
+    "company": "Lamport Lab",
+    "twitterUsername": "",
+    "followers": 61,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2012-01-03T15:09:46Z"
+  },
+  {
+    "login": "christogonus",
+    "name": "Obasi Christogonus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1922494?s=72&v=4",
+    "location": "Dakar, Senegal",
+    "company": "Bloxva Resources",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2012-07-04T15:33:41Z"
+  },
+  {
+    "login": "alhassane",
+    "name": "Etienne de Longeaux",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2749712?s=72&v=4",
+    "location": "SENEGAL",
+    "company": "PIGROUPE",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-08T09:33:07Z"
+  },
+  {
+    "login": "pjsawadogo",
+    "name": "P. Jacob SAWADOGO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2711811?s=72&v=4",
+    "location": "Senegal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-02T23:07:11Z"
   }
 ]

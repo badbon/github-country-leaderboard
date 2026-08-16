@@ -59767,7 +59767,7 @@
     "company": "SenseIT Studio",
     "twitterUsername": "rhuertaf",
     "followers": 1,
-    "privateContributions": 277,
+    "privateContributions": 283,
     "publicContributions": 6,
     "createdAt": "2011-10-28T16:45:37Z"
   },
@@ -89338,5 +89338,29 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2019-04-25T01:17:42Z"
+  },
+  {
+    "login": "gallodelfierro",
+    "name": "El gallo ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144567213?s=72&u=c34322e80ce820dd57f29da7a6ed02ba2763f580&v=4",
+    "location": "U.S., Mexico, Worldwide",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-09T22:51:48Z"
+  },
+  {
+    "login": "jspotts02835",
+    "name": "Jeff Spotts",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/729769?s=72&v=4",
+    "location": "Jamestown, Rhode Island, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-14T16:54:37Z"
   }
 ]

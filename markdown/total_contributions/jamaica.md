@@ -1,12 +1,12 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-08-16T16:25:36.121Z
+Generated: 2026-08-16T16:54:04.452Z
 
 Users: 1290
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | EduFocal Limited |  | Kingston, Jamaica  | 43070 |
+| 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | EduFocal Limited |  | Kingston, Jamaica  | 43079 |
 | 2 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 11040 |
 | 3 | [slocker3](https://github.com/slocker3) | Stephen Locker |  |  | Kingston, WA | 10199 |
 | 4 | [eforth](https://github.com/eforth) | Ervin Forth | Healthcare EQ | ErvinForth | Jamaica | 9359 |

@@ -514,5 +514,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-03-17T17:44:15Z"
+  },
+  {
+    "login": "AleRiccardi",
+    "name": "Alessandro Riccardi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9944310?s=72&u=c993e65a6de7a7907d1edb2de912ed60417bf86a&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2014-11-25T08:23:49Z"
+  },
+  {
+    "login": "agavss",
+    "name": "Andrea Cecchini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9753429?s=72&v=4",
+    "location": "San Marino",
+    "company": "Titanka",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2014-11-14T20:57:39Z"
+  },
+  {
+    "login": "lucabio",
+    "name": "Luca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6459123?s=72&u=839f5363861c208bd339b73e70aa9195efc35a97&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2014-01-21T10:07:37Z"
   }
 ]

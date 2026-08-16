@@ -23938,5 +23938,41 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2015-04-17T17:36:41Z"
+  },
+  {
+    "login": "andrazg",
+    "name": "Andraž Gruden",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11172850?s=72&u=ce2301e01e3ee8c11051e59812c046b368845f7b&v=4",
+    "location": "Ljubljana Slovenija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-24T08:14:23Z"
+  },
+  {
+    "login": "gjorgjij",
+    "name": "Gjorgji Jovanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16140224?s=72&v=4",
+    "location": "Ljubljana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-12-03T18:53:43Z"
+  },
+  {
+    "login": "MythicOrange",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14294121?s=72&u=1a41e0d54760b736d3f90c1120a8b21943ccaaf0&v=4",
+    "location": "Ljubljana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 35,
+    "publicContributions": 0,
+    "createdAt": "2015-09-15T13:02:14Z"
   }
 ]
