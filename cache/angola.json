@@ -18787,7 +18787,7 @@
     "company": "ITata",
     "twitterUsername": "",
     "followers": 67,
-    "privateContributions": 1925,
+    "privateContributions": 1927,
     "publicContributions": 113,
     "createdAt": "2020-10-23T14:08:00Z"
   },
@@ -19123,8 +19123,8 @@
     "company": "",
     "twitterUsername": "PauloDumildes",
     "followers": 37,
-    "privateContributions": 346,
-    "publicContributions": 142,
+    "privateContributions": 349,
+    "publicContributions": 147,
     "createdAt": "2020-10-01T22:13:27Z"
   },
   {
@@ -19315,7 +19315,7 @@
     "company": "",
     "twitterUsername": "HonoreSousa",
     "followers": 23,
-    "privateContributions": 315,
+    "privateContributions": 316,
     "publicContributions": 26,
     "createdAt": "2020-09-18T14:54:12Z"
   },
@@ -19339,7 +19339,7 @@
     "company": "Octogono",
     "twitterUsername": "Geraldo_Munhika",
     "followers": 23,
-    "privateContributions": 1187,
+    "privateContributions": 1191,
     "publicContributions": 1,
     "createdAt": "2020-03-17T17:36:57Z"
   },
@@ -19531,7 +19531,7 @@
     "company": " no company",
     "twitterUsername": "JorgeMatuta",
     "followers": 18,
-    "privateContributions": 575,
+    "privateContributions": 586,
     "publicContributions": 4,
     "createdAt": "2020-11-22T10:06:33Z"
   },
@@ -22714,5 +22714,149 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2020-07-12T08:16:14Z"
+  },
+  {
+    "login": "CesaltinoFelix",
+    "name": "Cesaltino Félix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65049617?s=72&u=d2c553b37cd5ca9d9af55a70c754d363732c06a5&v=4",
+    "location": "Luanda",
+    "company": "42 Luanda",
+    "twitterUsername": "",
+    "followers": 59,
+    "privateContributions": 2395,
+    "publicContributions": 119,
+    "createdAt": "2020-05-08T23:08:13Z"
+  },
+  {
+    "login": "Hudson512",
+    "name": "Hudson Mateque",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72740537?s=72&u=8582891974e9102dbe8720793ad329363f878226&v=4",
+    "location": "luanda",
+    "company": "42 Luanda",
+    "twitterUsername": "",
+    "followers": 44,
+    "privateContributions": 0,
+    "publicContributions": 289,
+    "createdAt": "2020-10-12T11:10:08Z"
+  },
+  {
+    "login": "pedrodls",
+    "name": "Pedro João",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66138071?s=72&u=341647e196acc3353da05ac528311d7a8cf0f5c2&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 406,
+    "publicContributions": 16,
+    "createdAt": "2020-05-29T18:35:38Z"
+  },
+  {
+    "login": "XavierCabeto",
+    "name": "Xavier Cabeto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68341135?s=72&v=4",
+    "location": "Luanda",
+    "company": "IMA - Instituto de Modernização Administrativa",
+    "twitterUsername": "XavierCabeto",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-07-15T15:20:01Z"
+  },
+  {
+    "login": "Cristiano-Rodrigues",
+    "name": "Cristiano Vladmir Rodrigues",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64600779?s=72&u=4bc4a23d68353ff3cd88c0961ac81fb8b2676163&v=4",
+    "location": "Luanda",
+    "company": "Prometeus",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 87,
+    "createdAt": "2020-04-30T15:21:48Z"
+  },
+  {
+    "login": "DomilsonFirmino",
+    "name": "Domilson Firmino aka ( Sirius Cerstar )",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70236103?s=72&u=3fc0eb8775dd23700005488094c2eee86cd14097&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 1151,
+    "publicContributions": 66,
+    "createdAt": "2020-08-25T20:13:29Z"
+  },
+  {
+    "login": "filipesissala",
+    "name": "Filipe Sissala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70811515?s=72&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-05T15:12:53Z"
+  },
+  {
+    "login": "EduardoPembeleAfonso",
+    "name": "Eduardo P. Afonso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66500341?s=72&u=c3c7e990abf8a32fd45c8cc14639d4b71f163906&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 532,
+    "publicContributions": 5,
+    "createdAt": "2020-06-06T00:21:26Z"
+  },
+  {
+    "login": "Manuel-AC-Ventura",
+    "name": "Manuel Ventura",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67847154?s=72&u=26472382b58df45ef4cd4d9445d72e17a2739988&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 25,
+    "publicContributions": 14,
+    "createdAt": "2020-07-05T01:24:16Z"
+  },
+  {
+    "login": "Adilson401",
+    "name": "Adilson Conceição",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71942384?s=72&u=4aaefb0956d6fc71ccb300629d085a513ccdc1d1&v=4",
+    "location": "Luanda /Porto de Luanda",
+    "company": "Angola Telecom, EP- Empresa de Telecomunicações",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2020-09-26T18:10:06Z"
+  },
+  {
+    "login": "kelvinessuvi",
+    "name": "Kelvin Domingos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69282952?s=72&u=e5e8e66be74cd256da4d8abe4674bc3771e3da6e&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "kelvinessuvi",
+    "followers": 9,
+    "privateContributions": 216,
+    "publicContributions": 48,
+    "createdAt": "2020-08-06T01:34:58Z"
+  },
+  {
+    "login": "joseadrianoemmanuel1999",
+    "name": "José Adriano Emmanuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73005217?s=72&u=8f858ae86d289f4f5cdcef00fa3a961b85dc73a9&v=4",
+    "location": "Luanda",
+    "company": "XD SOFTWARE",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2020-10-17T00:43:12Z"
   }
 ]

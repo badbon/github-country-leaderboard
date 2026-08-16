@@ -226,5 +226,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-09-26T14:07:36Z"
+  },
+  {
+    "login": "brandan-schmitz",
+    "name": "Brandan Schmitz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6267549?s=72&u=924dedce7ed3fc408c1d670230ef37751527a96d&v=4",
+    "location": "Jamestown, North Dakota",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 35,
+    "publicContributions": 50,
+    "createdAt": "2013-12-27T00:01:25Z"
+  },
+  {
+    "login": "alliswellcandy",
+    "name": "Angela George",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4448241?s=72&v=4",
+    "location": "Jamestown",
+    "company": "@Tetrateio",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 119,
+    "createdAt": "2013-05-16T14:09:52Z"
+  },
+  {
+    "login": "AdvanceWM",
+    "name": "Tony Lush",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5024442?s=72&v=4",
+    "location": "Jamestown, Rhode Island, US",
+    "company": "Advance Web Marketing",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-16T18:00:44Z"
   }
 ]

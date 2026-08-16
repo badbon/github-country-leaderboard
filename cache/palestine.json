@@ -20350,5 +20350,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-10T11:05:05Z"
+  },
+  {
+    "login": "maisamjuma",
+    "name": "Maisam Alaa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52468869?s=72&u=159cb48a601a0f407bd284e342bcabffa404a26c&v=4",
+    "location": "Ramallah",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-02T19:34:57Z"
+  },
+  {
+    "login": "SarahArar",
+    "name": "Sarah Arar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50202840?s=72&u=317433c0fb8ec537a8fc9218e43e7830f731fadb&v=4",
+    "location": "Ramallah",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2019-05-02T11:57:17Z"
+  },
+  {
+    "login": "LaraNobany",
+    "name": "Lara Nobany",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58734331?s=72&v=4",
+    "location": "Ramallah",
+    "company": "",
+    "twitterUsername": "laranobany_",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-10T12:53:33Z"
+  },
+  {
+    "login": "hamzahejja",
+    "name": "Hamza Hejja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49674728?s=72&u=a5ec06c9f1e04e6afb545a7717d0e01772f2a829&v=4",
+    "location": "Ramallah, Occupied Palestinian Territories",
+    "company": "@Userpilot",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 340,
+    "publicContributions": 0,
+    "createdAt": "2019-04-16T08:07:44Z"
+  },
+  {
+    "login": "ahshubita",
+    "name": "Ahmad Shubita",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48880869?s=72&u=e21ad9fa327503dd3d69176602516505d76411b4&v=4",
+    "location": "Ramallah",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-24T11:01:40Z"
+  },
+  {
+    "login": "ala-harri",
+    "name": "Ala Amarneh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47944525?s=72&v=4",
+    "location": "Ramallah",
+    "company": "Harri",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 2121,
+    "publicContributions": 1,
+    "createdAt": "2019-02-24T13:45:23Z"
+  },
+  {
+    "login": "ahmadmahmouds",
+    "name": "Ahmad Salah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52703704?s=72&u=f5b30703a14b8df79c9ebd1e9c82b12034adf0b0&v=4",
+    "location": "Ramallah",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-09T11:49:51Z"
+  },
+  {
+    "login": "mujahedodeh",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47754240?s=72&v=4",
+    "location": "Ramallah",
+    "company": "Exalt",
+    "twitterUsername": "Mujahedodeh",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-18T17:22:47Z"
   }
 ]

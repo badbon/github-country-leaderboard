@@ -15994,5 +15994,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-05-15T08:28:39Z"
+  },
+  {
+    "login": "boniface",
+    "name": "Boniface Kabaso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/550236?s=72&u=6e66ac19e42fa2d007abb8578bbb99a6b799af67&v=4",
+    "location": "Lusaka, Zambia",
+    "company": "Zambia",
+    "twitterUsername": "",
+    "followers": 193,
+    "privateContributions": 1855,
+    "publicContributions": 301,
+    "createdAt": "2011-01-06T12:42:27Z"
+  },
+  {
+    "login": "daryllukas",
+    "name": "Daryl Lukas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1014489?s=72&u=51190c494b14174c9aac8c7476faf122c1b8b845&v=4",
+    "location": "Lusaka, Zambia",
+    "company": "",
+    "twitterUsername": "daryllukas",
+    "followers": 62,
+    "privateContributions": 59,
+    "publicContributions": 0,
+    "createdAt": "2011-08-30T13:34:29Z"
+  },
+  {
+    "login": "CoolNerd504",
+    "name": "Francis Lombe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1260214?s=72&u=f3bd2ac4cf95214c12103c94616410609f5a6d03&v=4",
+    "location": "Lusaka, Zambia",
+    "company": "72 Degrees",
+    "twitterUsername": "SaintUx",
+    "followers": 26,
+    "privateContributions": 1568,
+    "publicContributions": 39,
+    "createdAt": "2011-12-13T12:41:20Z"
+  },
+  {
+    "login": "vejnoe",
+    "name": "Andreas Vejnø Andersen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/647287?s=72&u=1368652595a300921c5bb4f3430fb87e09fd8c31&v=4",
+    "location": "Zambia",
+    "company": "Vejnø",
+    "twitterUsername": "vejnoe",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-02T16:35:55Z"
+  },
+  {
+    "login": "JustEthelElla",
+    "name": "Ethel Ella",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1098667?s=72&v=4",
+    "location": "Lusaka, Zambia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-03T12:17:53Z"
+  },
+  {
+    "login": "DiasporaSmart",
+    "name": "Oliver Mupila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/544514?s=72&v=4",
+    "location": "Lusaka. Zambia and USA",
+    "company": "Zambian International Health Alliance-ZIHA",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-02T19:48:14Z"
   }
 ]

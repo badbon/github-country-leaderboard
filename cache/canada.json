@@ -26370,7 +26370,7 @@
     "location": "Kingston, ON, Canada",
     "company": "",
     "twitterUsername": "",
-    "followers": 316,
+    "followers": 317,
     "privateContributions": 17,
     "publicContributions": 16,
     "createdAt": "2013-03-12T12:08:00Z"
@@ -51322,5 +51322,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-14T04:11:32Z"
+  },
+  {
+    "login": "joeleff",
+    "name": "Joeleff Fitzsimmons",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45182999?s=72&v=4",
+    "location": "Victoria, B.C., Canada",
+    "company": "NRC-HAA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-19T21:01:56Z"
+  },
+  {
+    "login": "tezzytezzy",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46082158?s=72&u=5d16432e6a073135e7f78b6caccec1e65c89e0be&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 86,
+    "createdAt": "2018-12-23T07:46:23Z"
+  },
+  {
+    "login": "frndox",
+    "name": "Fernando Oliveira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43163369?s=72&u=d6bcadaea61e8ebbd775de8450313a5fb45deba3&v=4",
+    "location": "Victoria BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-09-11T05:39:03Z"
+  },
+  {
+    "login": "cprakashb",
+    "name": "Chandra Prakash ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37259338?s=72&u=c7dac55ea42422bb10441096c0c433540b0a1a87&v=4",
+    "location": "Victoria, Canada",
+    "company": "Enkon Information Systems Inc",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2018-03-11T05:52:45Z"
+  },
+  {
+    "login": "forestmvey",
+    "name": "Forest Vey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36905077?s=72&u=fcb3e4520ddf2c8b3100f2ab61cefa9458cb7edf&v=4",
+    "location": "Victoria BC, Canada",
+    "company": "@Bit-Quill",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 208,
+    "createdAt": "2018-02-28T00:33:19Z"
   }
 ]

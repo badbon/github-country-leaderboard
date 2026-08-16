@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-08-16T02:53:33.379Z
+Generated: 2026-08-16T03:24:35.464Z
 
 Users: 1290
 
@@ -8,7 +8,7 @@ Users: 1290
 |---:|---|---|---|---|---|---:|
 | 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | EduFocal Limited |  | Kingston, Jamaica  | 43070 |
 | 2 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 11040 |
-| 3 | [slocker3](https://github.com/slocker3) | Stephen Locker |  |  | Kingston, WA | 10050 |
+| 3 | [slocker3](https://github.com/slocker3) | Stephen Locker |  |  | Kingston, WA | 10199 |
 | 4 | [eforth](https://github.com/eforth) | Ervin Forth | Healthcare EQ | ErvinForth | Jamaica | 9359 |
 | 5 | [kenoButler](https://github.com/kenoButler) | KenoB | @Appigo  |  | Kingston, Jamaica | 6980 |
 | 6 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 6626 |
@@ -24,5 +24,5 @@ Users: 1290
 | 16 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 3582 |
 | 17 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson |  |  | Jamaica | 3553 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 3401 |
-| 19 | [jenssogaard](https://github.com/jenssogaard) | Jens Soegaard |  |  | Kingston, New York | 2982 |
-| 20 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 2970 |
+| 19 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 2983 |
+| 20 | [jenssogaard](https://github.com/jenssogaard) | Jens Soegaard |  |  | Kingston, New York | 2982 |
