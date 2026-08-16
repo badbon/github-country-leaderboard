@@ -250,5 +250,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-07T04:03:26Z"
+  },
+  {
+    "login": "drosalia",
+    "name": "Darrell Rosalia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26238503?s=72&u=a29b4268a80d82150c045bad973dcc3375e486d2&v=4",
+    "location": "Curaçao",
+    "company": "Ten-O-5 B.V",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 813,
+    "publicContributions": 0,
+    "createdAt": "2017-03-07T02:09:20Z"
+  },
+  {
+    "login": "coinversus",
+    "name": "CoinVersus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34513030?s=72&u=47c6e3f09429df898b4a0299d6d45c23314f9daf&v=4",
+    "location": "Curaçao",
+    "company": "coinversus",
+    "twitterUsername": "coinversus",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-13T14:03:32Z"
   }
 ]

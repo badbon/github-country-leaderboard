@@ -4390,5 +4390,65 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2016-11-03T07:24:23Z"
+  },
+  {
+    "login": "lyz05",
+    "name": "Yuanzhe Liu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11796777?s=72&u=c995bb4e33b8ca55593b9e9681f9bd387cac2e06&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 67,
+    "publicContributions": 39,
+    "createdAt": "2015-04-04T12:32:12Z"
+  },
+  {
+    "login": "joaquimrcarvalho",
+    "name": "Joaquim Carvalho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13982569?s=72&u=a9b8ce0bb794074c89b7d2f08bab125efc25d46d&v=4",
+    "location": "Macao, China and Coimbra, Portugal",
+    "company": "Macao Polytechnic University / Universidade de Coimbra ",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 162,
+    "publicContributions": 360,
+    "createdAt": "2015-08-26T13:57:01Z"
+  },
+  {
+    "login": "erlilyu",
+    "name": "Erli Lyu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10582512?s=72&u=2ec6fab8493550864d3e5091cba6ac6eeae7821b&v=4",
+    "location": "Macao",
+    "company": "Macao Polytechnic University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-01-18T10:44:25Z"
+  },
+  {
+    "login": "vanlmlam",
+    "name": "Vanessa Lam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16190794?s=72&u=90a9f02dd7e97042a0f79f25fc5060bce281bef1&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-07T13:26:17Z"
+  },
+  {
+    "login": "liam-pat",
+    "name": "liam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12772738?s=72&u=e72cb35d51d22fb36e3543789531b7ddf66e0a0b&v=4",
+    "location": "Macao",
+    "company": "Shota",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2015-06-06T08:10:04Z"
   }
 ]

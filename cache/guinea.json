@@ -3082,5 +3082,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-02-12T13:31:47Z"
+  },
+  {
+    "login": "ndalaba",
+    "name": "N'Dalaba Diallo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5881007?s=72&u=32c998311d7697a81e3a61517a36c4f6a0d0a42d&v=4",
+    "location": "Conakry",
+    "company": "DEV-KONECT",
+    "twitterUsername": "ndalaba",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2013-11-07T16:15:14Z"
+  },
+  {
+    "login": "techoutlooks",
+    "name": "TechOutlooks Sarl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4647252?s=72&u=ab93d5d310aec7d867e43423d6e6afd7703d8af0&v=4",
+    "location": "Conakry / Abidjan.",
+    "company": "TechOutlooks Sarl",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-08T10:26:24Z"
+  },
+  {
+    "login": "Sinikan",
+    "name": "Sinikan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5408916?s=72&v=4",
+    "location": "Conakry - Guinée",
+    "company": "Sinikan",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-07T23:01:39Z"
   }
 ]

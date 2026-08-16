@@ -40846,5 +40846,53 @@
     "privateContributions": 199,
     "publicContributions": 29,
     "createdAt": "2019-01-26T15:54:17Z"
+  },
+  {
+    "login": "FabioSRA",
+    "name": "Fabio Bentaïla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199601098?s=72&v=4",
+    "location": "Toulouse",
+    "company": "SRA Sud Ouest",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-02-17T11:14:47Z"
+  },
+  {
+    "login": "lisadelbes",
+    "name": "Lisa D.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215645002?s=72&u=6188a168f86f658dc8a267d590654af33f2bb41d&v=4",
+    "location": "Toulouse",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 75,
+    "createdAt": "2025-06-10T07:40:56Z"
+  },
+  {
+    "login": "A-Arnaud",
+    "name": "Arnaud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/251542228?s=72&u=9fa87e3b953562e35aa2b9fd9387559abe7a627a&v=4",
+    "location": "Toulouse",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2025-12-26T04:13:38Z"
+  },
+  {
+    "login": "aimanesbai19",
+    "name": "Aimane SBAI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224979550?s=72&v=4",
+    "location": "Toulouse",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2025-08-06T10:21:01Z"
   }
 ]

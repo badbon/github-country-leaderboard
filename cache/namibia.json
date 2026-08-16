@@ -5458,5 +5458,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-10-22T16:46:12Z"
+  },
+  {
+    "login": "nghi007",
+    "name": "Sebulon David",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3284946?s=72&u=1a8bfd2f3e6934d3217e85f2ea9f89939ae8e6d7&v=4",
+    "location": "Windhoek",
+    "company": "Glowdom Technologies",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 76,
+    "createdAt": "2013-01-16T11:26:07Z"
+  },
+  {
+    "login": "BecomingPhill",
+    "name": "Becoming Phill",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5921813?s=72&v=4",
+    "location": "Windhoek",
+    "company": "Landifa",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 99,
+    "createdAt": "2013-11-12T17:38:29Z"
   }
 ]

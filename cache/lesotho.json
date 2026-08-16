@@ -1798,5 +1798,53 @@
     "privateContributions": 123,
     "publicContributions": 0,
     "createdAt": "2014-03-28T14:32:30Z"
+  },
+  {
+    "login": "AtomLaw",
+    "name": "Hlompho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3714732?s=72&v=4",
+    "location": "Lesotho",
+    "company": "Private",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2013-02-27T09:33:04Z"
+  },
+  {
+    "login": "mwelazek",
+    "name": "Teboho Koma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3982798?s=72&v=4",
+    "location": "Maseru, Lesotho",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2013-03-27T07:38:52Z"
+  },
+  {
+    "login": "vectorate",
+    "name": "Retselisitsoe Moabi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5244511?s=72&v=4",
+    "location": "Lesotho",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-16T12:21:27Z"
+  },
+  {
+    "login": "mualle",
+    "name": "'Mualle Mats'ela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6130545?s=72&u=2a212d7d74d8c6b39b37c05c578fe29d73b3a5b0&v=4",
+    "location": "Maseru, Lesotho",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-07T15:54:44Z"
   }
 ]

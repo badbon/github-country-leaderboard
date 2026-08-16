@@ -1522,5 +1522,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-02-14T17:39:32Z"
+  },
+  {
+    "login": "co-stig",
+    "name": "Constantine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3603796?s=72&u=7820781c1f5a347322692e180322ccbb9583d8f3&v=4",
+    "location": "Monaco",
+    "company": "Vilia",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 72,
+    "publicContributions": 201,
+    "createdAt": "2013-02-15T15:54:15Z"
+  },
+  {
+    "login": "domenicofalco-zz",
+    "name": "Domenico Falco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3843181?s=72&v=4",
+    "location": "Monaco Di Baviera",
+    "company": "@Publicis.Sapient",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-12T13:57:56Z"
+  },
+  {
+    "login": "toddoli",
+    "name": "Fabien CAMBI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5048787?s=72&u=c0eae3e431a734ce352820403a25eef6866b7096&v=4",
+    "location": "Monaco",
+    "company": "Fabien CAMBI Informatique",
+    "twitterUsername": "toddoli",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2013-07-19T17:00:12Z"
   }
 ]

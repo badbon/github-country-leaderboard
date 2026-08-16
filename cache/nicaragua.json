@@ -14086,5 +14086,53 @@
     "privateContributions": 87,
     "publicContributions": 0,
     "createdAt": "2015-07-20T12:41:27Z"
+  },
+  {
+    "login": "Arkemix30",
+    "name": "Enmanuel Silva Laguna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15527751?s=72&u=ac55dff8d3570d5687c2a007ce721eb3ef9316e7&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "Arkemix",
+    "followers": 8,
+    "privateContributions": 270,
+    "publicContributions": 81,
+    "createdAt": "2015-11-01T02:41:48Z"
+  },
+  {
+    "login": "salinassilvio",
+    "name": "Silvio Salinas Antón",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12602288?s=72&u=34e9f03da16421a17995e20a427e8586f090704c&v=4",
+    "location": "Managua",
+    "company": "#JavaScript",
+    "twitterUsername": "SilvioSalinasAn",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-25T23:38:51Z"
+  },
+  {
+    "login": "jnarv88",
+    "name": "James Narvaez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15082427?s=72&u=c2098c45d155cf9a1d99f94be796cbb51f608eb9&v=4",
+    "location": "Managua",
+    "company": "Freelancer",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-12T03:24:01Z"
+  },
+  {
+    "login": "albertfns",
+    "name": "ALBERTO FUNES",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12091602?s=72&u=7d87f3519e0e95907ac2d0ec4f6c73213269ff72&v=4",
+    "location": "MANAGUA",
+    "company": "BROAVIT",
+    "twitterUsername": "albertfns",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-23T23:20:17Z"
   }
 ]
