@@ -8086,5 +8086,101 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2015-04-17T16:38:26Z"
+  },
+  {
+    "login": "koffisani",
+    "name": "Koffi SANI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8408477?s=72&u=2e4176d1ab32a440fcccd2cc8cab8130484147a0&v=4",
+    "location": "Lomé, TOGO",
+    "company": "",
+    "twitterUsername": "koffisani",
+    "followers": 80,
+    "privateContributions": 11,
+    "publicContributions": 0,
+    "createdAt": "2014-08-10T13:36:22Z"
+  },
+  {
+    "login": "BorisEkue",
+    "name": "Boris EKUE-HETTAH",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7118186?s=72&v=4",
+    "location": "Lome, TOGO",
+    "company": "Atlantique Telecom TOGO",
+    "twitterUsername": "BorisEkue",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-31T17:16:28Z"
+  },
+  {
+    "login": "elisco-latour",
+    "name": "Eli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7362692?s=72&u=1e3b2b9cdce2e261220fd511f0a18001a3808754&v=4",
+    "location": "Togo",
+    "company": "DZETA",
+    "twitterUsername": "eli_koffi",
+    "followers": 10,
+    "privateContributions": 453,
+    "publicContributions": 249,
+    "createdAt": "2014-04-21T15:20:26Z"
+  },
+  {
+    "login": "degninou",
+    "name": "Dègninou Yehadji",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10160644?s=72&u=fb55212cedf8ddee9edd413f325205d97c3f7107&v=4",
+    "location": "Togo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2014-12-12T00:00:34Z"
+  },
+  {
+    "login": "payene",
+    "name": "payene denis kombate",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8383842?s=72&u=fccdc5cb86866dd380acc22b7868ce7316ebc12e&v=4",
+    "location": "Togo",
+    "company": "payene",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2014-08-07T10:24:11Z"
+  },
+  {
+    "login": "abdouwarissiboukari",
+    "name": "Abdou Warissi Boukari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10341759?s=72&u=de9e295a475f96d2926a2ff527a39094d2ce5da7&v=4",
+    "location": "TOGO",
+    "company": "",
+    "twitterUsername": "abdouwarissibkr",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-29T17:39:16Z"
+  },
+  {
+    "login": "Jonaq",
+    "name": "Jon A.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8439344?s=72&u=682188146c9561952e5809582dae40655e2504fd&v=4",
+    "location": "Lomé, Togo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-13T14:35:12Z"
+  },
+  {
+    "login": "19r3ka",
+    "name": "Yem Ahiatsi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8618002?s=72&u=7d5e0d82b47ceb9c98564cfbcaefed5e03351124&v=4",
+    "location": "Togo",
+    "company": "Zinfata",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2014-09-01T17:48:33Z"
   }
 ]

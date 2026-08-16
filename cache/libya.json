@@ -8890,5 +8890,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-04-20T09:53:55Z"
+  },
+  {
+    "login": "omsharp",
+    "name": "Omar Rwemi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1245060?s=72&u=ecb338429518cece082f380a0dfb58efc4bbd6e8&v=4",
+    "location": "Tripoli, Libya",
+    "company": "",
+    "twitterUsername": "OmarRwemi",
+    "followers": 25,
+    "privateContributions": 644,
+    "publicContributions": 2,
+    "createdAt": "2011-12-06T17:02:15Z"
+  },
+  {
+    "login": "devjustly",
+    "name": "Alhussein Elsherairi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1257274?s=72&v=4",
+    "location": "Libya",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-12-12T12:06:15Z"
+  },
+  {
+    "login": "saad6c1",
+    "name": "SAAD6C1",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/620219?s=72&v=4",
+    "location": "LIBYA;DARNAH CITY",
+    "company": "SAAD STUDIO",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-16T00:00:21Z"
+  },
+  {
+    "login": "libyafnari",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1115846?s=72&v=4",
+    "location": "Libya",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-10T09:10:59Z"
   }
 ]

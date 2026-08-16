@@ -1306,5 +1306,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-03-23T15:57:47Z"
+  },
+  {
+    "login": "peterbeck",
+    "name": "Peter Beck",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/561186?s=72&v=4",
+    "location": "Liechtenstein",
+    "company": "foo.li systeme + software",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2011-01-12T21:02:40Z"
+  },
+  {
+    "login": "bernhardw",
+    "name": "Bernhard Wanger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/919880?s=72&u=b89eca9b6a1822b1668ed717939f705a4855e4f2&v=4",
+    "location": "Vaduz, Liechtenstein",
+    "company": "Rezendo",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 3129,
+    "publicContributions": 0,
+    "createdAt": "2011-07-16T17:58:49Z"
+  },
+  {
+    "login": "gufertum",
+    "name": "gufertum",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/550133?s=72&u=c045b22cba5570bffa93809c693cb446136ef911&v=4",
+    "location": "Liechtenstein",
+    "company": "",
+    "twitterUsername": "tmschaedler",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2011-01-06T11:03:12Z"
+  },
+  {
+    "login": "opetznick",
+    "name": "Oliver Petznick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/793443?s=72&u=d76c1e8578d0fd3bcec006ba944647f69760ee0c&v=4",
+    "location": "Vaduz, Liechtenstein",
+    "company": "oakay",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2011-05-17T13:32:09Z"
   }
 ]

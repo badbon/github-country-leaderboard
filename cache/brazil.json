@@ -50122,5 +50122,29 @@
     "privateContributions": 0,
     "publicContributions": 51,
     "createdAt": "2025-02-24T12:45:48Z"
+  },
+  {
+    "login": "antonycabral",
+    "name": "Antony Guilherme ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83239872?s=72&u=d7cc5793e8ed4e02e4d97490ddbd779cf4ff81c2&v=4",
+    "location": "Abreu e Lima, Pernambuco,Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 47,
+    "createdAt": "2021-04-26T17:29:36Z"
+  },
+  {
+    "login": "davivsouza",
+    "name": "Davi Vasconcelos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81455819?s=72&u=c1c524116e5a3c2bc90616ed8537bfe6b3dcf7b1&v=4",
+    "location": "Faria Lima, São Paulo",
+    "company": "WeeW",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 1447,
+    "publicContributions": 165,
+    "createdAt": "2021-03-27T03:56:25Z"
   }
 ]

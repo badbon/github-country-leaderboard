@@ -11938,5 +11938,65 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2012-04-11T09:54:00Z"
+  },
+  {
+    "login": "leytzher",
+    "name": "Leytzher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/830054?s=72&u=4466e05e605f1f4908887a190bb77d51f5efeb59&v=4",
+    "location": "Oman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 195,
+    "publicContributions": 7,
+    "createdAt": "2011-06-04T22:30:26Z"
+  },
+  {
+    "login": "nimir",
+    "name": "Mohamed Nimir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1212004?s=72&u=42034e9608f4d37d702edad7e69c728fd741530e&v=4",
+    "location": "Muscat, Oman",
+    "company": "Eptikar IT Solutions",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2011-11-22T04:00:44Z"
+  },
+  {
+    "login": "cmoussalli",
+    "name": "Caesar Moussalli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1109827?s=72&u=f52bcb9ed2f469e6fa770d583dbe71067ee3008c&v=4",
+    "location": "Oman",
+    "company": "Dynamic Cognitive Technologies",
+    "twitterUsername": "CaesarMoussalli",
+    "followers": 12,
+    "privateContributions": 57,
+    "publicContributions": 136,
+    "createdAt": "2011-10-07T10:25:08Z"
+  },
+  {
+    "login": "si97",
+    "name": "Saiful Islam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/684389?s=72&v=4",
+    "location": "Muscat, Oman",
+    "company": "si97",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-22T18:02:04Z"
+  },
+  {
+    "login": "yahyai-0",
+    "name": "Ahmed Al-Yahyai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/917055?s=72&u=27a93a22b0f95191b4fa3caca5e1548a35c44903&v=4",
+    "location": "Oman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-07-15T07:26:58Z"
   }
 ]

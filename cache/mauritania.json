@@ -3442,5 +3442,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-04-27T19:16:34Z"
+  },
+  {
+    "login": "eljoud",
+    "name": "El Joud Taki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1808222?s=72&v=4",
+    "location": "Mauritania",
+    "company": "Sandbytes",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-06-01T23:04:21Z"
+  },
+  {
+    "login": "jemal-zz",
+    "name": "Jemal Mohamed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2115949?s=72&v=4",
+    "location": "Nouakchott, Mauritania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-08T10:12:36Z"
   }
 ]
