@@ -16066,5 +16066,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-12-24T11:08:56Z"
+  },
+  {
+    "login": "abdoukarim",
+    "name": "Abdou Karim KANDJI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/589039?s=72&u=8ca9d2bce6bd974de77cce33d3a77f2cca9e47ce&v=4",
+    "location": "Dakar,SENEGAL",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 22,
+    "publicContributions": 22,
+    "createdAt": "2011-01-28T20:56:43Z"
+  },
+  {
+    "login": "elwan",
+    "name": "Elwan Ndiaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/628189?s=72&u=a98117f4dcca7b8e531c6208017a661839eed99e&v=4",
+    "location": "Dakar,Senegal",
+    "company": "elwans",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 9,
+    "publicContributions": 0,
+    "createdAt": "2011-02-20T11:32:38Z"
+  },
+  {
+    "login": "ni-ka",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1225776?s=72&u=99190a9e65a891eef011826f8b71f8c8589ea61b&v=4",
+    "location": "Senegal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2011-11-28T16:31:06Z"
+  },
+  {
+    "login": "doumbix",
+    "name": "demba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/819573?s=72&v=4",
+    "location": "senegal,dakar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-05-30T22:53:51Z"
+  },
+  {
+    "login": "snconnect",
+    "name": "pslo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/780017?s=72&v=4",
+    "location": "Dakar,Senegal",
+    "company": "Simple Apps",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-05-10T20:11:21Z"
+  },
+  {
+    "login": "samekoudi",
+    "name": "Stefano Amekoudi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/591128?s=72&v=4",
+    "location": "Dakar, Senegal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-30T11:55:23Z"
   }
 ]

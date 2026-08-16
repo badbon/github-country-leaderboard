@@ -70,5 +70,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-10-02T05:00:22Z"
+  },
+  {
+    "login": "Sandra97",
+    "name": "Sandra Decoux",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4682328?s=72&u=179d8076fc66d3d7c1c45e4e9ff0962637e73da6&v=4",
+    "location": "Saint-Martin (Caribbean)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-12T19:31:02Z"
+  },
+  {
+    "login": "cadiou",
+    "name": "Baptiste Cadiou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3447272?s=72&u=4134ad852a59bb0e0bd01f9b70a370e8f1d8dd76&v=4",
+    "location": "Saint-Martin",
+    "company": "MANGROVE.TV",
+    "twitterUsername": "cadiou",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-01T09:37:21Z"
   }
 ]

@@ -430,5 +430,29 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2011-03-31T12:38:42Z"
+  },
+  {
+    "login": "justmoon",
+    "name": "Stefan Thomas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53233?s=72&v=4",
+    "location": "British Virgin Islands",
+    "company": "@coilhq",
+    "twitterUsername": "justmoon",
+    "followers": 551,
+    "privateContributions": 1507,
+    "publicContributions": 8,
+    "createdAt": "2009-02-10T05:50:37Z"
+  },
+  {
+    "login": "jollyrogerpoker",
+    "name": "Terry Cohea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65113?s=72&v=4",
+    "location": "British Virgin Islands",
+    "company": "Jolly Roger Entertainment",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-03-20T02:45:00Z"
   }
 ]

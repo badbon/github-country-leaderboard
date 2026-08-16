@@ -2374,5 +2374,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-05-28T23:22:36Z"
+  },
+  {
+    "login": "has-oumar",
+    "name": "Hassan Oumar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5980322?s=72&u=ae1d5779d68f9ea5550b5720e750d82a921f2c66&v=4",
+    "location": "Tchad",
+    "company": "BH Corp.",
+    "twitterUsername": "has_oumar",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-19T13:24:27Z"
+  },
+  {
+    "login": "socialtaxi",
+    "name": "Djasra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4922399?s=72&v=4",
+    "location": "Moundou/ Tchad",
+    "company": "Université de Moundou",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-02T15:29:39Z"
   }
 ]

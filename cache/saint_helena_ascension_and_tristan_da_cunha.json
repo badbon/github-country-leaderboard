@@ -262,5 +262,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-07-16T18:00:44Z"
+  },
+  {
+    "login": "carehart",
+    "name": "Charlie Arehart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/389746?s=72&v=4",
+    "location": "Jamestown, KY",
+    "company": "CArehart.org",
+    "twitterUsername": "carehart",
+    "followers": 42,
+    "privateContributions": 21,
+    "publicContributions": 108,
+    "createdAt": "2010-09-06T19:12:06Z"
+  },
+  {
+    "login": "johncoder",
+    "name": "John Nelson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180750?s=72&u=33326716cbeabca466829bcea1ff570b04cc7cf2&v=4",
+    "location": "Jamestown, NY",
+    "company": "",
+    "twitterUsername": "johncoder",
+    "followers": 24,
+    "privateContributions": 62,
+    "publicContributions": 4,
+    "createdAt": "2010-01-12T14:01:21Z"
+  },
+  {
+    "login": "theloanrepairsite",
+    "name": "Jim Standish",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265114?s=72&v=4",
+    "location": "Jamestown",
+    "company": "Halo Propertys",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-05T04:35:18Z"
   }
 ]

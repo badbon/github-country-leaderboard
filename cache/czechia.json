@@ -43774,5 +43774,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-03T18:11:11Z"
+  },
+  {
+    "login": "j0ey97",
+    "name": "Jozef Sabo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16599352?s=72&u=86b76e78a61bff5602f4888d89f9c94834531328&v=4",
+    "location": "Brno, Czechia | Prešov, Slovakia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-07T20:08:41Z"
+  },
+  {
+    "login": "dubnickaf",
+    "name": "Filip Dubnička",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18451460?s=72&u=71615d207f4492c029415474074944312d6d73ee&v=4",
+    "location": "Ilava, Slovakia and Brno, Czech Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 4,
+    "publicContributions": 1,
+    "createdAt": "2016-04-13T22:06:52Z"
   }
 ]

@@ -514,5 +514,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-08T22:02:34Z"
+  },
+  {
+    "login": "Akokonunes",
+    "name": "Roberto Nunes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46332131?s=72&u=10bf6b165e1c757a6e6cd6a7a4c01f5ada70e830&v=4",
+    "location": "Timor-Leste",
+    "company": "",
+    "twitterUsername": "0x_Akoko",
+    "followers": 68,
+    "privateContributions": 130,
+    "publicContributions": 1830,
+    "createdAt": "2019-01-02T23:07:26Z"
+  },
+  {
+    "login": "pvosco",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47234466?s=72&u=ceb50c0d8bec7edfeb0317cfde5376b516b11eb2&v=4",
+    "location": "Dili, Timor Leste",
+    "company": "@InfoUNTL",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-01T03:18:45Z"
+  },
+  {
+    "login": "mariojdfxa0505",
+    "name": "Mario Joseferino de Fatima Ximenes Amaral",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46675350?s=72&v=4",
+    "location": "Dili Timor-Leste",
+    "company": "Tosc Academy",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-14T11:41:37Z"
+  },
+  {
+    "login": "disty-apariciosousa",
+    "name": "Disty Aparicio D'Sousa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50494658?s=72&u=a064dc9840bb86ab3df74ae6632152a497e05812&v=4",
+    "location": "Dili, Timor-Leste",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-10T15:37:34Z"
+  },
+  {
+    "login": "adearanda",
+    "name": "Aderito Aranda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52423178?s=72&u=4c5330437600beb595c7666e735225d9b92f239d&v=4",
+    "location": "Av. Vila Verde, Dili Timor Leste",
+    "company": "Monte Academy",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 161,
+    "publicContributions": 3,
+    "createdAt": "2019-07-01T17:28:32Z"
+  },
+  {
+    "login": "Teflontino",
+    "name": "Tino de Freitas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53491071?s=72&u=f940a94b4ceaac342fb6d674a1c97739503197d7&v=4",
+    "location": "Dili, Timor Leste",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2019-07-30T17:59:47Z"
+  },
+  {
+    "login": "borulilitimornews",
+    "name": "Gabriel de Jesus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57937867?s=72&u=db93ecdb321a42a728b6a9ab9a9a8cc2c7b11a68&v=4",
+    "location": "Dili, Timor-Leste",
+    "company": "BTN - Borulili Timor News",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2019-11-19T07:48:01Z"
+  },
+  {
+    "login": "natoguterres",
+    "name": "Natalino Guterres",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54361087?s=72&u=2a2f42a6708f404e317b2d219f01693a089f0e9a&v=4",
+    "location": "Venilale, Timor-Leste",
+    "company": "-",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-21T12:34:23Z"
   }
 ]

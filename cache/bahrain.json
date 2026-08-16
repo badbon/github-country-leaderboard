@@ -8758,5 +8758,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-07-25T11:12:06Z"
+  },
+  {
+    "login": "naweed",
+    "name": "Naweed Akram",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103980?s=72&u=c71540b39922378245caec542c4833b4e08f7389&v=4",
+    "location": "Bahrain",
+    "company": "XGENO Software",
+    "twitterUsername": "xgeno",
+    "followers": 243,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2009-07-11T19:53:23Z"
+  },
+  {
+    "login": "masterde",
+    "name": "Baker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96039?s=72&v=4",
+    "location": "Bahrain, Muharraq",
+    "company": "XYZ",
+    "twitterUsername": "",
+    "followers": 37,
+    "privateContributions": 0,
+    "publicContributions": 966,
+    "createdAt": "2009-06-16T19:00:09Z"
+  },
+  {
+    "login": "halalgami",
+    "name": "Algam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136950?s=72&v=4",
+    "location": "Bahrain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 2213,
+    "publicContributions": 182,
+    "createdAt": "2009-10-08T17:58:37Z"
+  },
+  {
+    "login": "alinoaimi",
+    "name": "Ali Alnoaimi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158415?s=72&u=51f2dfcdcdcddbc31a1dfa0b72ad450000c31d36&v=4",
+    "location": "Bahrain",
+    "company": "",
+    "twitterUsername": "ghost013li",
+    "followers": 9,
+    "privateContributions": 197,
+    "publicContributions": 8,
+    "createdAt": "2009-11-26T07:33:43Z"
+  },
+  {
+    "login": "AnilChitatil",
+    "name": "Anil Kumar.S.R",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91035?s=72&v=4",
+    "location": "Kingdom of Bahrain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-06-02T13:49:52Z"
   }
 ]
