@@ -13866,7 +13866,7 @@
     "location": "Asunción-Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 95,
+    "followers": 103,
     "privateContributions": 85,
     "publicContributions": 1,
     "createdAt": "2017-11-07T18:56:43Z"
@@ -15226,5 +15226,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-06-22T21:03:05Z"
+  },
+  {
+    "login": "JHeisecke",
+    "name": "Javier Heisecke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34453933?s=72&u=723df4b6d44618ebc5897aeb671bb25988f9c0ce&v=4",
+    "location": "Asunción",
+    "company": "Interfase",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 88,
+    "createdAt": "2017-12-11T17:03:35Z"
+  },
+  {
+    "login": "alejmolinas",
+    "name": "Alejandro Molinas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27787927?s=72&v=4",
+    "location": " Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-19T21:43:34Z"
   }
 ]

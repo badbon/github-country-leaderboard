@@ -1039,8 +1039,8 @@
     "company": "Divengine Software Solutions",
     "twitterUsername": "rafageist",
     "followers": 27,
-    "privateContributions": 49574,
-    "publicContributions": 764,
+    "privateContributions": 49577,
+    "publicContributions": 765,
     "createdAt": "2017-02-20T04:40:52Z"
   },
   {
@@ -1102,5 +1102,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-02-27T17:22:13Z"
+  },
+  {
+    "login": "kinggoonforum",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25582301?s=72&v=4",
+    "location": "Paramaribo",
+    "company": "KingGoon Ent",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-06T09:59:34Z"
   }
 ]

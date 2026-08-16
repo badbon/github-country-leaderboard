@@ -10434,9 +10434,9 @@
     "location": "Lisbon/London",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 354,
-    "publicContributions": 2026,
+    "followers": 11,
+    "privateContributions": 371,
+    "publicContributions": 2043,
     "createdAt": "2025-08-28T18:44:54Z"
   },
   {
@@ -47278,5 +47278,29 @@
     "privateContributions": 0,
     "publicContributions": 62,
     "createdAt": "2023-12-09T22:33:11Z"
+  },
+  {
+    "login": "Josemigg16",
+    "name": "José Miguel Gómez Acosta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142554377?s=72&u=4b64cf8e80d5a97a21acd07bf933dcb50dee4af1&v=4",
+    "location": "Araure, Portuguesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 149,
+    "createdAt": "2023-08-18T01:17:55Z"
+  },
+  {
+    "login": "JoanCermeno",
+    "name": "Joan Cermeño",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64229192?s=72&u=62fecba325e27469b1317a2489c537535e465dc0&v=4",
+    "location": "Portuguesa, Venezuela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 152,
+    "createdAt": "2020-04-23T20:55:15Z"
   }
 ]

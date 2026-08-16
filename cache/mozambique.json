@@ -13978,5 +13978,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-03-26T09:40:00Z"
+  },
+  {
+    "login": "ynurmahomed",
+    "name": "Yassin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1554715?s=72&v=4",
+    "location": "Mozambique",
+    "company": "@csaude ",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 1606,
+    "publicContributions": 7,
+    "createdAt": "2012-03-19T23:39:33Z"
+  },
+  {
+    "login": "alculete",
+    "name": "Danilo Alculete",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2129497?s=72&v=4",
+    "location": "Nacala, Nampula, Mozambique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 543,
+    "publicContributions": 21,
+    "createdAt": "2012-08-10T11:58:08Z"
+  },
+  {
+    "login": "fmfortes",
+    "name": "Fábio Fortes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1401510?s=72&v=4",
+    "location": "Mozambique, Maputo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-02-02T11:42:28Z"
+  },
+  {
+    "login": "r00tm4n",
+    "name": "Ernesto Sitoe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1572774?s=72&v=4",
+    "location": "Mozambique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2012-03-25T07:39:18Z"
+  },
+  {
+    "login": "mchiluvane",
+    "name": "Morian Chiluvane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2843256?s=72&v=4",
+    "location": "Mozambique",
+    "company": "PSI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-20T10:39:36Z"
   }
 ]

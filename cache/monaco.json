@@ -1558,5 +1558,77 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2013-07-19T17:00:12Z"
+  },
+  {
+    "login": "laurentqro",
+    "name": "Laurent Curau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3141541?s=72&u=2b3127b7a9cb9de9ae58e1e7e176522d2de9e340&v=4",
+    "location": "Monaco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 40,
+    "privateContributions": 944,
+    "publicContributions": 4071,
+    "createdAt": "2012-12-28T11:55:23Z"
+  },
+  {
+    "login": "vjandrea",
+    "name": "Andrea Bergamasco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1639757?s=72&u=4c7886ae6a0cb1526e5d5cf4698f4953bfc0e7bc&v=4",
+    "location": "Monaco",
+    "company": "KeeSystem",
+    "twitterUsername": "vjandrea",
+    "followers": 33,
+    "privateContributions": 0,
+    "publicContributions": 54,
+    "createdAt": "2012-04-13T09:21:33Z"
+  },
+  {
+    "login": "Webarkitekt",
+    "name": "Guillaume K.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1436385?s=72&u=b4e46fc95eadf9442179e95e4525da75bd56e5a7&v=4",
+    "location": "Monaco",
+    "company": "Inforca",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2012-02-14T10:59:35Z"
+  },
+  {
+    "login": "empirasign",
+    "name": "Empirasign Strategies LLC",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1739962?s=72&u=0c12f9fa62be349a5ee6c6f205169c6b2f4c7cf4&v=4",
+    "location": "New York, London, Monaco, Zermat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-05-14T21:55:27Z"
+  },
+  {
+    "login": "axgmc",
+    "name": "Alexandre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2444125?s=72&u=679b8513360129916416fec72f7151bac4a0ff5c&v=4",
+    "location": "Monaco",
+    "company": "VisiCom",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 28,
+    "publicContributions": 9,
+    "createdAt": "2012-09-28T09:01:38Z"
+  },
+  {
+    "login": "valeriasin",
+    "name": "Valeria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2064265?s=72&v=4",
+    "location": "Monaco - MC",
+    "company": "CardMap",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-30T10:09:31Z"
   }
 ]

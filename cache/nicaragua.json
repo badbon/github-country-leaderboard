@@ -14854,5 +14854,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-06-13T10:05:37Z"
+  },
+  {
+    "login": "ronaldoats",
+    "name": "Ronaldo Tinoco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7526351?s=72&u=7918e3bd9f5cef26e10e660ec5a43c26193abded&v=4",
+    "location": "Managua, Nicarauga",
+    "company": "@BI-NI",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2014-05-08T17:51:27Z"
+  },
+  {
+    "login": "Xaes",
+    "name": "Diego Balmaceda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6483010?s=72&u=79febb8ff5ad7cc31a3966a678c508acf95f9b17&v=4",
+    "location": "Managua",
+    "company": "Boombit",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 439,
+    "publicContributions": 0,
+    "createdAt": "2014-01-23T15:37:54Z"
+  },
+  {
+    "login": "NYK0de",
+    "name": "Yarin Montenegro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7726705?s=72&u=e16ebcf05c76f8d5dc8c185f4ca4fe561333fdd1&v=4",
+    "location": "Managua",
+    "company": "Personal",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-28T18:26:08Z"
+  },
+  {
+    "login": "darguello95",
+    "name": "Danilo Arguello",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10142601?s=72&u=34eb3366cb4822a5606117ffbe117c75ebcb212e&v=4",
+    "location": "Managua",
+    "company": "WhiteHaking",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-10T13:31:17Z"
+  },
+  {
+    "login": "nicchemarodriguez",
+    "name": "Jose Maria Rodriguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8336076?s=72&u=64bf2cb50cd27fbdc8e4e514e4f8cadc99122cc0&v=4",
+    "location": "Managua",
+    "company": "Fundacion Movicancer Nicaragua",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-02T07:08:29Z"
   }
 ]
