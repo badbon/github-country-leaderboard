@@ -45550,5 +45550,41 @@
     "privateContributions": 619,
     "publicContributions": 17,
     "createdAt": "2020-08-26T03:52:10Z"
+  },
+  {
+    "login": "YagoFalgueras",
+    "name": "Yago Falgueras",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128588635?s=72&u=10bf3fd12fc456200e18e07021822ba70b259dad&v=4",
+    "location": "Santiago de Compostela, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2023-03-22T09:26:09Z"
+  },
+  {
+    "login": "pablovi97",
+    "name": "Pablo Viera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32093629?s=72&u=ce4f503f8065acc70482b3fec77a421f46e36890&v=4",
+    "location": "Canary island , Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-19T09:27:03Z"
+  },
+  {
+    "login": "InvYasiel",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25817495?s=72&u=eee1687d2d6b16113859f4a53f3e3f20da1d8fd5&v=4",
+    "location": "Tenerife / Canary  island / Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-16T10:24:56Z"
   }
 ]

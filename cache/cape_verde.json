@@ -6742,5 +6742,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-09-17T17:38:15Z"
+  },
+  {
+    "login": "portellaa",
+    "name": "Luís Portela Afonso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1502403?s=72&u=8b0a32de301c4c30a698e750bb822c96f7ce0594&v=4",
+    "location": "Vila Praia de Âncora",
+    "company": "@cookiebytespt ",
+    "twitterUsername": "lportellaa",
+    "followers": 123,
+    "privateContributions": 375,
+    "publicContributions": 116,
+    "createdAt": "2012-03-05T10:56:46Z"
+  },
+  {
+    "login": "JunioRouGil",
+    "name": "Gil Vieira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1652218?s=72&u=e0cd177884f7d3cef6cf64eecee72369b2a16296&v=4",
+    "location": "Brazil - SP - Praia Grande",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-04-17T15:03:02Z"
+  },
+  {
+    "login": "haroldo",
+    "name": "Haroldo Moraes de Souza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1462500?s=72&u=5679c9dbdb6bb7247638e79c6c828ea74bf962cd&v=4",
+    "location": "Praia Grande-SP",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-02-22T19:02:44Z"
   }
 ]

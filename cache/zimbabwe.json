@@ -19762,5 +19762,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-12-05T07:18:25Z"
+  },
+  {
+    "login": "zinyando",
+    "name": "Lennex Zinyando",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/806774?s=72&u=5e033079ae96a6cf21b074f627485f340550b40a&v=4",
+    "location": "Harare, Zimbabwe",
+    "company": "Izwi AI",
+    "twitterUsername": "zinyando",
+    "followers": 123,
+    "privateContributions": 1643,
+    "publicContributions": 1828,
+    "createdAt": "2011-05-24T05:23:01Z"
+  },
+  {
+    "login": "gwokudasam",
+    "name": "gwokudasam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1176488?s=72&u=7e0b032587129e4b9d46d74a89ae6a71e3ca45af&v=4",
+    "location": "Harare, Zimbabwe",
+    "company": "Backbase",
+    "twitterUsername": "samsoftx",
+    "followers": 39,
+    "privateContributions": 1976,
+    "publicContributions": 10,
+    "createdAt": "2011-11-06T21:02:42Z"
+  },
+  {
+    "login": "bmukorera",
+    "name": "Brighton Mukorera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/961335?s=72&u=485ae4f8658bc6eef898adcee490a31ff25251ce&v=4",
+    "location": "Harare, Zimbabwe",
+    "company": "",
+    "twitterUsername": "bmukorera",
+    "followers": 35,
+    "privateContributions": 287,
+    "publicContributions": 0,
+    "createdAt": "2011-08-05T14:09:04Z"
+  },
+  {
+    "login": "mosesmarimo",
+    "name": "Moses Marimo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/913270?s=72&u=501b804ae8a5af7a90a0c442989885e4a8d8c4af&v=4",
+    "location": "Harare, Zimbabwe",
+    "company": "@ihubcloud ",
+    "twitterUsername": "MosesMarimo",
+    "followers": 5,
+    "privateContributions": 3118,
+    "publicContributions": 68,
+    "createdAt": "2011-07-13T17:40:53Z"
+  },
+  {
+    "login": "mugonix",
+    "name": "Tapiwanashe Mugoniwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/735957?s=72&u=a26d5352c908329ddd2cf1da2282e45f807a17a5&v=4",
+    "location": "Gweru, Zimbabwe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 860,
+    "publicContributions": 0,
+    "createdAt": "2011-04-18T06:31:11Z"
+  },
+  {
+    "login": "koptite",
+    "name": "Tendai Mupaso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1104817?s=72&v=4",
+    "location": "Zimbabwe",
+    "company": "Yaita",
+    "twitterUsername": "tendaimupaso",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-05T13:13:43Z"
   }
 ]

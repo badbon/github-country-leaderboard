@@ -966,7 +966,7 @@
     "location": "Réunion Island",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 37,
     "createdAt": "2017-04-12T15:53:13Z"
@@ -2038,5 +2038,41 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2018-04-10T11:51:26Z"
+  },
+  {
+    "login": "alexreu",
+    "name": "Alexandre ADOLPHE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31067521?s=72&u=46c2bf9562f4b9c252fcd1a4b4bf14cef9b28ad2&v=4",
+    "location": "Reunion island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 175,
+    "createdAt": "2017-08-16T11:40:36Z"
+  },
+  {
+    "login": "Skyllery",
+    "name": "Manu Quijada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25685780?s=72&u=e6265d2055d4335d51404196ec0d2a06809b6eb8&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-10T11:22:00Z"
+  },
+  {
+    "login": "Darylabrador",
+    "name": "Daryl_Abrador",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34912375?s=72&u=7c82e8f39f93cd6e766a33663461041f10ebfc76&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 586,
+    "publicContributions": 24,
+    "createdAt": "2017-12-28T10:43:16Z"
   }
 ]

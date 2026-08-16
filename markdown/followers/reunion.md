@@ -1,8 +1,8 @@
 # Followers - Réunion
 
-Generated: 2026-08-16T07:18:02.480Z
+Generated: 2026-08-16T13:33:21.212Z
 
-Users: 170
+Users: 173
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 170
 | 17 | [W-D0n](https://github.com/W-D0n) | D0n |  |  | Reunion Island | 16 |
 | 18 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 15 |
 | 19 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 14 |
-| 20 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 14 |
+| 20 | [ethsam](https://github.com/ethsam) | Samuel Ethève |  |  | Réunion Island | 14 |

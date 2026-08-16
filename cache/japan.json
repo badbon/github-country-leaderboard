@@ -39118,5 +39118,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-12-09T17:16:41Z"
+  },
+  {
+    "login": "GotoMiyuki",
+    "name": "GotoMiyuki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177234713?s=72&u=9e3ef78e41a791c70329746881b1f418a43630cb&v=4",
+    "location": "Osaka",
+    "company": "Zutto Mayonaka de ii Noni.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 65,
+    "createdAt": "2024-08-01T14:12:00Z"
+  },
+  {
+    "login": "daisatodai",
+    "name": "Dai Sato",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155659806?s=72&u=80a331d2640e9f1c59555ba0798d0d7133296a21&v=4",
+    "location": "Osaka city",
+    "company": "",
+    "twitterUsername": "yaruday1005",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-04T16:15:18Z"
+  },
+  {
+    "login": "aaron-c-bell",
+    "name": "Aaron C. Bell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184343078?s=72&u=eb83f11f3904b2be67ea0965ee7aeb28416aa2ff&v=4",
+    "location": "Osaka",
+    "company": "@oneTakeda ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 40,
+    "publicContributions": 0,
+    "createdAt": "2024-10-09T05:41:56Z"
+  },
+  {
+    "login": "tohohosan",
+    "name": "とほほ (tohoho)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164590654?s=72&u=f84ac308b414a464d3fb6d00ce9e04810facef4b&v=4",
+    "location": "Osaka",
+    "company": "",
+    "twitterUsername": "tohohoit",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-23T02:08:32Z"
+  },
+  {
+    "login": "mac-ky",
+    "name": "Makishi UEDA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178097402?s=72&u=5dd5254540ca70bfee085617f5d1789202e01078&v=4",
+    "location": "Osaka Japnan",
+    "company": "Regional Futures Research Center.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2024-08-11T16:23:40Z"
+  },
+  {
+    "login": "Soom350",
+    "name": "MAIGA OUSMANE ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183796894?s=72&u=ebefe90f7a7937edafc1c01627588d09b4bb24cd&v=4",
+    "location": "Osaka ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2024-10-04T06:06:31Z"
   }
 ]

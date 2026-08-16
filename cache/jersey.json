@@ -406,5 +406,29 @@
     "privateContributions": 0,
     "publicContributions": 55,
     "createdAt": "2019-10-02T18:29:42Z"
+  },
+  {
+    "login": "PaulBrotherton",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50803674?s=72&u=e89680490b740f6ddabdb9a36cd86c3fbaa08d21&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2019-05-19T16:06:11Z"
+  },
+  {
+    "login": "jakeyboyo",
+    "name": "Jake Willis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46525811?s=72&u=36d40a5f43c0cb6937f2b16711412b23b593fdd4&v=4",
+    "location": "Jersey",
+    "company": "Syntax Limited",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-09T11:57:32Z"
   }
 ]

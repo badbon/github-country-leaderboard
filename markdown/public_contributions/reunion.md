@@ -1,8 +1,8 @@
 # Public Contributions - Réunion
 
-Generated: 2026-08-16T07:18:02.480Z
+Generated: 2026-08-16T13:33:21.212Z
 
-Users: 170
+Users: 173
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 170
 | 9 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 482 |
 | 10 | [W-D0n](https://github.com/W-D0n) | D0n |  |  | Reunion Island | 333 |
 | 11 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  |  |  93210, Saint-Denis | 276 |
-| 12 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 144 |
-| 13 | [laurent974](https://github.com/laurent974) | Laurent |  |  | Réunion island | 142 |
-| 14 | [r-fernandezz](https://github.com/r-fernandezz) | Romain Fernandez |  |  | Réunion island | 132 |
-| 15 | [AlexandreMaillot](https://github.com/AlexandreMaillot) | Alexandre Maillot | Creapp-i | MAILLOTAlexand5 | Saint Pierre, Réunion | 130 |
-| 16 | [hoareaupascal](https://github.com/hoareaupascal) |  |  |  | Reunion Island | 125 |
-| 17 | [slayercode1](https://github.com/slayercode1) | Yann Clain |  |  | Réunion | 121 |
-| 18 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 95 |
-| 19 | [sihambordjah](https://github.com/sihambordjah) |  |  | BordjahSiham | 70 rue bonnevide, 93200 saint denis | 94 |
-| 20 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 86 |
+| 12 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 175 |
+| 13 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 144 |
+| 14 | [laurent974](https://github.com/laurent974) | Laurent |  |  | Réunion island | 142 |
+| 15 | [r-fernandezz](https://github.com/r-fernandezz) | Romain Fernandez |  |  | Réunion island | 132 |
+| 16 | [AlexandreMaillot](https://github.com/AlexandreMaillot) | Alexandre Maillot | Creapp-i | MAILLOTAlexand5 | Saint Pierre, Réunion | 130 |
+| 17 | [hoareaupascal](https://github.com/hoareaupascal) |  |  |  | Reunion Island | 125 |
+| 18 | [slayercode1](https://github.com/slayercode1) | Yann Clain |  |  | Réunion | 121 |
+| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 95 |
+| 20 | [sihambordjah](https://github.com/sihambordjah) |  |  | BordjahSiham | 70 rue bonnevide, 93200 saint denis | 94 |

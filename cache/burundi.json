@@ -2758,5 +2758,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-12-03T15:33:28Z"
+  },
+  {
+    "login": "ntzwilly",
+    "name": "Willy NTAZAMA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9049260?s=72&u=f711ceb662fd4e1df31bb146db1c837740ec887d&v=4",
+    "location": "Burundi",
+    "company": "Freelance Full-Stack Developer",
+    "twitterUsername": "Wntazama",
+    "followers": 43,
+    "privateContributions": 13,
+    "publicContributions": 0,
+    "createdAt": "2014-10-07T09:54:58Z"
+  },
+  {
+    "login": "mugar",
+    "name": "mugabo armand",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6993793?s=72&u=aa540ae618865745d104e61c57c9a15dd9c0c52f&v=4",
+    "location": "Burundi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 1853,
+    "publicContributions": 0,
+    "createdAt": "2014-03-19T02:08:48Z"
+  },
+  {
+    "login": "butofleury",
+    "name": "Fleury",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6383219?s=72&u=5080ffbc6af768bd6856bc293cfd40a999ed7f0b&v=4",
+    "location": "Burundi, Bujumbura",
+    "company": "@BLSQ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 87,
+    "publicContributions": 269,
+    "createdAt": "2014-01-12T16:54:52Z"
+  },
+  {
+    "login": "mfabricerwath",
+    "name": "Mugisha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8184445?s=72&u=e4c83b8eec7d180067d40ca1d818283a9e7cc45d&v=4",
+    "location": "Bujumbura/Burundi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2014-07-16T21:06:10Z"
+  },
+  {
+    "login": "willyirakoze",
+    "name": "IRAKOZE Willy_Cliff",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6436596?s=72&u=082b7cac36713c2ae2eea063f81790a8e4502dba&v=4",
+    "location": "Bujumbura/Burundi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-01-18T11:36:06Z"
   }
 ]

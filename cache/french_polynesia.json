@@ -634,5 +634,29 @@
     "privateContributions": 227,
     "publicContributions": 39,
     "createdAt": "2012-02-06T20:01:29Z"
+  },
+  {
+    "login": "vesath",
+    "name": "Gaetan Bisson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/584424?s=72&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-26T11:02:50Z"
+  },
+  {
+    "login": "jbtheou",
+    "name": "Jean-Baptiste Théou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1218120?s=72&u=5f9b4a197fa12288402ae27399bf0c4571e93793&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2011-11-24T12:55:22Z"
   }
 ]

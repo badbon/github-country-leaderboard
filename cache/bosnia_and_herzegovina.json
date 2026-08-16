@@ -17866,5 +17866,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-03-09T08:21:07Z"
+  },
+  {
+    "login": "zmajaa",
+    "name": "Maja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34302901?s=72&u=ce46b65180e489a623293c0f5a8865df202d972c&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-06T10:00:28Z"
+  },
+  {
+    "login": "vedin-klovo",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28235158?s=72&u=c70e4d129dfcfaca4cb3df4a491f74b1a33a8646&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-30T21:32:28Z"
+  },
+  {
+    "login": "Mirza02",
+    "name": "Mirza Olovcic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25140709?s=72&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2017-01-15T23:58:53Z"
+  },
+  {
+    "login": "RedzepovicSanin",
+    "name": "Sanin Redžepović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31671989?s=72&u=941ee8a58bb4fac9b9cad3657fb7831313866970&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-05T21:08:11Z"
+  },
+  {
+    "login": "NikolicDarko",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29255732?s=72&u=e782baa559684116a93302c6f9451a8d79143407&v=4",
+    "location": "Sarajevo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-06-07T14:11:29Z"
   }
 ]
