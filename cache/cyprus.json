@@ -11750,13 +11750,13 @@
   {
     "login": "Giorgos-Arg",
     "name": "Giorgos Argyrides",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59102508?s=72&u=a71bd18a2892ec1e51640dd69da54e4fa828db68&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59102508?s=72&u=e7222fdbcda2ae691b007bd62a8b45488563a85a&v=4",
     "location": "Nicosia, Cyprus",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2019-12-20T23:11:52Z"
   },
   {
@@ -12850,5 +12850,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-20T10:38:16Z"
+  },
+  {
+    "login": "elvisraymond",
+    "name": "Elvis Ray",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50119121?s=72&u=eec61d867230915544a1591217de503ae25cf8ef&v=4",
+    "location": "Nicosia, CY",
+    "company": "",
+    "twitterUsername": "elvisray_dev",
+    "followers": 26,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-29T19:35:44Z"
+  },
+  {
+    "login": "And24reas",
+    "name": "Andreas Andreou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50200738?s=72&u=6aeb4f2a74964bf97604e26b858a445d149af13e&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 44,
+    "publicContributions": 0,
+    "createdAt": "2019-05-02T10:39:53Z"
+  },
+  {
+    "login": "vepamirzayev",
+    "name": "Vepa Mirzayev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56221612?s=72&u=526a88aeda713bc62f675d97c438ede16bff4246&v=4",
+    "location": "Nicosia",
+    "company": "Nearest Technology",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-06T11:14:43Z"
+  },
+  {
+    "login": "JasmineCaymaz",
+    "name": "Yasemin Caymaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48521015?s=72&v=4",
+    "location": "Nicosia",
+    "company": "Kaner Group of Companies",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-13T13:42:09Z"
+  },
+  {
+    "login": "hasansut",
+    "name": "HasanSut",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53820438?s=72&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-06T11:08:57Z"
   }
 ]

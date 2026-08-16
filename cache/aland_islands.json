@@ -490,5 +490,29 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2014-06-05T09:59:08Z"
+  },
+  {
+    "login": "rahulwagh",
+    "name": "Rahul Wagh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6808425?s=72&u=5bcc744b3ba8538954d5a7d30394acc095ffe4c3&v=4",
+    "location": "Mariehamn, Åland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 614,
+    "privateContributions": 109,
+    "publicContributions": 120,
+    "createdAt": "2014-02-27T19:08:55Z"
+  },
+  {
+    "login": "voestberg",
+    "name": "Vilhelm Östberg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8995886?s=72&u=e6760cd4813cd69b1d9630da1c2bc9a963e58a5a&v=4",
+    "location": "Mariehamn",
+    "company": "CannyVille",
+    "twitterUsername": "voestberg",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-02T11:44:28Z"
   }
 ]

@@ -8686,5 +8686,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-23T11:13:40Z"
+  },
+  {
+    "login": "Kingy",
+    "name": "Jamie Gracie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/530069?s=72&u=3fb32dd2d06578e8741a56bc552eb50aff220d7f&v=4",
+    "location": "Bahrain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2010-12-20T03:05:33Z"
+  },
+  {
+    "login": "mustafaalseba",
+    "name": "Mustafa Alseba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/342690?s=72&u=7101c7f46db733423bc8702370bc29c08c08e1ef&v=4",
+    "location": "Bahrain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-24T10:13:53Z"
+  },
+  {
+    "login": "arenishr",
+    "name": "Abdul Renish R",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/316227?s=72&u=c5f064a694fab76f97ca9a7d3412e30934acb21e&v=4",
+    "location": "Bahrain",
+    "company": "iGA Bahrain",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2010-06-28T07:59:14Z"
+  },
+  {
+    "login": "alarrayed",
+    "name": "Hussain Al-Arrayed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/300965?s=72&u=607885669cc37de7af9c9faef3cd2f337d7587e7&v=4",
+    "location": "Bahrain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-09T15:16:27Z"
+  },
+  {
+    "login": "1ali1",
+    "name": "Ali Al-Mahari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232095?s=72&v=4",
+    "location": "Bahrain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-28T16:43:52Z"
+  },
+  {
+    "login": "A7madG3rashi",
+    "name": "A7madG3rashi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/343424?s=72&v=4",
+    "location": "Bahrain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-25T11:12:06Z"
   }
 ]

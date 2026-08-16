@@ -8290,5 +8290,41 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2015-06-02T00:00:20Z"
+  },
+  {
+    "login": "argoat",
+    "name": "The Great Manu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9568237?s=72&u=1f3062651fd16350cdd0fdbd01e66d40ac15e714&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2014-11-05T09:37:24Z"
+  },
+  {
+    "login": "2048li",
+    "name": "shentanli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7392383?s=72&u=1c6ccc7db446c619e2aafaf8c2df71270f58f1e8&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2014-04-24T07:14:22Z"
+  },
+  {
+    "login": "mharling",
+    "name": "Matt Harling",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7208265?s=72&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 0,
+    "createdAt": "2014-04-07T14:51:21Z"
   }
 ]

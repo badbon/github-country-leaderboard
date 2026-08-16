@@ -19894,5 +19894,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-05-12T19:49:47Z"
+  },
+  {
+    "login": "englishextra",
+    "name": "englishextra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/537127?s=72&u=e6e4bce757752bc3d405eeac3ee1c5ce68f75a5b&v=4",
+    "location": "Harare",
+    "company": "englishextra",
+    "twitterUsername": "englishextra",
+    "followers": 40,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-26T20:00:36Z"
+  },
+  {
+    "login": "deschigs",
+    "name": "Desmond Chigariro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/349260?s=72&v=4",
+    "location": "Harare",
+    "company": "Jomla Solutions",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2010-07-30T13:16:36Z"
   }
 ]

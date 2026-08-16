@@ -658,5 +658,53 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2011-11-24T12:55:22Z"
+  },
+  {
+    "login": "adriencanterot",
+    "name": "Adrien Cantérot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/437771?s=72&u=2b80df40168e8332f107a2dffdca5f5119aa6a9f&v=4",
+    "location": "Tahiti, French Polynesia",
+    "company": "",
+    "twitterUsername": "adriencanterot",
+    "followers": 27,
+    "privateContributions": 301,
+    "publicContributions": 2,
+    "createdAt": "2010-10-13T09:54:47Z"
+  },
+  {
+    "login": "marsender",
+    "name": "Didier Corbière",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279979?s=72&u=e1e2ef1f860baee708e9a9791d0e031d2a54e150&v=4",
+    "location": "French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 2041,
+    "publicContributions": 626,
+    "createdAt": "2010-05-18T05:45:54Z"
+  },
+  {
+    "login": "glaziou",
+    "name": "Philippe Glaziou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233963?s=72&u=642ed99e4657babbb25b9ae7eed940165900eea0&v=4",
+    "location": "Tahiti, French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-31T08:32:23Z"
+  },
+  {
+    "login": "teuna",
+    "name": "Teuna Ferrand",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/312506?s=72&v=4",
+    "location": "Tahiti, French Polynesia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 18,
+    "publicContributions": 3,
+    "createdAt": "2010-06-23T08:05:22Z"
   }
 ]
