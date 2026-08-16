@@ -2434,5 +2434,89 @@
     "privateContributions": 491,
     "publicContributions": 20,
     "createdAt": "2011-05-19T18:38:04Z"
+  },
+  {
+    "login": "delgod",
+    "name": "Mykola Marzhan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/303592?s=72&u=a0c6572ad9189d4960a3de218ffe4012a408224c&v=4",
+    "location": "Andorra",
+    "company": "@Canonical",
+    "twitterUsername": "",
+    "followers": 81,
+    "privateContributions": 0,
+    "publicContributions": 74,
+    "createdAt": "2010-06-12T15:10:20Z"
+  },
+  {
+    "login": "solso",
+    "name": "Josep M. Pujol",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/534518?s=72&v=4",
+    "location": "Andorra",
+    "company": "Brave",
+    "twitterUsername": "solso",
+    "followers": 35,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2010-12-23T12:40:13Z"
+  },
+  {
+    "login": "iuriaranda",
+    "name": "iuri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/510809?s=72&v=4",
+    "location": "Andorra",
+    "company": "@giantswarm",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 679,
+    "publicContributions": 600,
+    "createdAt": "2010-12-06T00:16:28Z"
+  },
+  {
+    "login": "jcerdan",
+    "name": "Jordi Cerdan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/532007?s=72&v=4",
+    "location": "Andorra",
+    "company": "TECOB",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2010-12-21T14:36:11Z"
+  },
+  {
+    "login": "neuronix",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219800?s=72&u=990c40c0de97476e2da9afdc1cfef77f4e75dd40&v=4",
+    "location": "La Massana, Andorra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2010-03-10T12:52:43Z"
+  },
+  {
+    "login": "emerzak",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/354454?s=72&v=4",
+    "location": "andorra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-04T20:54:10Z"
+  },
+  {
+    "login": "bbecker88",
+    "name": "Boris Herrera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/436021?s=72&v=4",
+    "location": "Principality of Andorra",
+    "company": "Credit Andorra",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-11T23:43:02Z"
   }
 ]

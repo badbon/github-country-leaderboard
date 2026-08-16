@@ -30754,5 +30754,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-06T20:26:39Z"
+  },
+  {
+    "login": "janjanusek",
+    "name": "Ing. Ján Janušek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17304682?s=72&u=6b887ce11ec26e68e32da1e3d3eef3ca5abbd43c&v=4",
+    "location": "Slovak republic, Žilina",
+    "company": "AI UNLIMITED LTD.",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1266,
+    "publicContributions": 14,
+    "createdAt": "2016-02-17T23:58:16Z"
+  },
+  {
+    "login": "lubosmudrak",
+    "name": "Ľuboš Mudrák",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24370911?s=72&u=687fc5be958d4874222cf7288ff8236604597cb3&v=4",
+    "location": "Slovak Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-04T14:19:04Z"
+  },
+  {
+    "login": "mlichtronix",
+    "name": "Martin Mlích",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16836220?s=72&u=4f4a0e56a3526c98fad9410b38910b99fa903e7b&v=4",
+    "location": "Selce (Banská Bystrica), Slovak Republic",
+    "company": "Studio Mlichtronix",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 757,
+    "publicContributions": 160,
+    "createdAt": "2016-01-22T11:29:27Z"
+  },
+  {
+    "login": "tinomar",
+    "name": "Martin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16723570?s=72&u=174115a0ec961c19be3b11b1ecffc483de3092ee&v=4",
+    "location": "Slovak Republic, Central Europe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-15T17:49:33Z"
   }
 ]

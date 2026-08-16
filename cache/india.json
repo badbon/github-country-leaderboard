@@ -47479,8 +47479,8 @@
     "company": "@hyperce-io ",
     "twitterUsername": "",
     "followers": 67,
-    "privateContributions": 3207,
-    "publicContributions": 427,
+    "privateContributions": 3254,
+    "publicContributions": 431,
     "createdAt": "2022-12-31T17:38:11Z"
   },
   {
@@ -58966,5 +58966,65 @@
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2026-03-28T16:09:56Z"
+  },
+  {
+    "login": "shamanaliarisar01",
+    "name": "Shaman Ali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/239370801?s=72&u=23271d73ba6ddb48ced95755193fb1f258274755&v=4",
+    "location": "Hyderabad Sindh Pakistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2025-10-21T14:01:55Z"
+  },
+  {
+    "login": "rimshakhalidrao1836-netizen",
+    "name": "RIMSHA KHALID",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/241503588?s=72&u=9309bfb63bfefb974ab1dd4776cfc6f0e88291e2&v=4",
+    "location": "Hyderabad Sindh Pakistan",
+    "company": "Student at Quaid-e-Awam University engineering and Science Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2025-11-01T20:12:01Z"
+  },
+  {
+    "login": "muhammadbilal-cse",
+    "name": "Muhammad Bilal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245053772?s=72&u=0dc8487059579f8f0dca08bc1da8dc2e6f03eff4&v=4",
+    "location": "Hyderabad Pakistan ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2025-11-19T20:44:29Z"
+  },
+  {
+    "login": "noman-python",
+    "name": "Noman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246481487?s=72&u=caba73c6a3c45db87f66d30273bb8fba6e637a41&v=4",
+    "location": "Hyderabad Sindh Pakistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2025-11-27T11:26:46Z"
+  },
+  {
+    "login": "khurrammansoordeveloper-max",
+    "name": "Khurram Mansoor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/240169115?s=72&u=d53e81226075af0a4ead7441d69ad242b4f6c3c9&v=4",
+    "location": "Hyderabad Sindh Pakistan",
+    "company": "khurram",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2025-10-25T12:38:48Z"
   }
 ]

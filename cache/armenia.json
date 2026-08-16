@@ -27214,5 +27214,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-01-03T15:10:45Z"
+  },
+  {
+    "login": "vahe-karufanyan",
+    "name": "Vahe Karufanyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42383634?s=72&u=cc40cc331a08dfcdcfda54e5ad944af308bb91f7&v=4",
+    "location": "Armenia/Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 231,
+    "publicContributions": 8,
+    "createdAt": "2018-08-14T15:16:42Z"
+  },
+  {
+    "login": "abo-hovhannisyan",
+    "name": "Albert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35429768?s=72&u=8fd753fcaa5500448e842edf5ba9c388f269739b&v=4",
+    "location": "Armenia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-14T17:31:38Z"
+  },
+  {
+    "login": "zooleen",
+    "name": "Ivan Doobro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35615179?s=72&u=9c205f6ffd9c6aaaa352e3ddbc92f378c8ab1ed6&v=4",
+    "location": "Yerevan, Armenia",
+    "company": "Grid Dynamics",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-19T23:15:20Z"
+  },
+  {
+    "login": "NareNikalayan",
+    "name": "Nare Nikalayan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44362144?s=72&v=4",
+    "location": "Yerevan, Armenia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-22T09:27:32Z"
+  },
+  {
+    "login": "h-mane",
+    "name": "Mane Harutyunyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45685877?s=72&u=f02a4601d5b51175f19da93060e4673ff908c9cc&v=4",
+    "location": "Yerevan, Armenia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-07T09:55:38Z"
+  },
+  {
+    "login": "anvahagni",
+    "name": "An Vahagni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41671564?s=72&u=00b6b363a80c694368f22828905a2df40f1fa30f&v=4",
+    "location": "Yerevan,Armenia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-07-25T07:56:31Z"
   }
 ]

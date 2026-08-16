@@ -40534,5 +40534,29 @@
     "privateContributions": 19,
     "publicContributions": 82,
     "createdAt": "2021-02-25T06:52:30Z"
+  },
+  {
+    "login": "IordanisKostelidis",
+    "name": "Iordanis Kostelidis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42072189?s=72&u=7e4ade503974e8ee08a4096d426354fc07cd5e8e&v=4",
+    "location": "Central Macedonia, Greece",
+    "company": "@datascouting ",
+    "twitterUsername": "IKostelidis",
+    "followers": 17,
+    "privateContributions": 222,
+    "publicContributions": 0,
+    "createdAt": "2018-08-03T16:08:59Z"
+  },
+  {
+    "login": "NikolaosProgios",
+    "name": "Nick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45072262?s=72&v=4",
+    "location": "Thessaloniki, Macedonia, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-15T14:46:48Z"
   }
 ]

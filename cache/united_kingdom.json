@@ -47590,5 +47590,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-27T14:43:35Z"
+  },
+  {
+    "login": "oananicoletadinescu-afk",
+    "name": "Oana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/247021935?s=72&v=4",
+    "location": "London",
+    "company": "Dentistry For You",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-11-30T17:36:13Z"
+  },
+  {
+    "login": "acouedelo",
+    "name": "Alexandre Couedelo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/239627868?s=72&u=58609571b7683d147565bbb422e737078ee701e1&v=4",
+    "location": "London, UK",
+    "company": "Scale AI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-10-22T16:06:03Z"
+  },
+  {
+    "login": "Lainsm",
+    "name": "Malik J. Lainsbury",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/218839937?s=72&u=4153727530c108808a0e09f5f8267a8f4bf42d67&v=4",
+    "location": "London",
+    "company": "Medtronic",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 47,
+    "createdAt": "2025-07-01T20:37:46Z"
+  },
+  {
+    "login": "Wojtek-MJ",
+    "name": "Wojtek Malinowski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/226919635?s=72&u=2fdf3e261557bc6b39263ba0d16a92eeed9c8f75&v=4",
+    "location": "London",
+    "company": "Midjourney",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 4950,
+    "publicContributions": 3,
+    "createdAt": "2025-08-16T21:09:22Z"
   }
 ]

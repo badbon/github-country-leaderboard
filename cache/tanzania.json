@@ -18824,7 +18824,7 @@
     "twitterUsername": "",
     "followers": 44,
     "privateContributions": 418,
-    "publicContributions": 93,
+    "publicContributions": 96,
     "createdAt": "2017-11-03T09:35:47Z"
   },
   {
@@ -20350,5 +20350,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-06T21:32:01Z"
+  },
+  {
+    "login": "shemaabra",
+    "name": "Abdurlahmani Shemahonge",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31610662?s=72&u=bcdb88cde374567fb2ccc4c54e9b8518b40f3ce7&v=4",
+    "location": "Dodoma",
+    "company": "Ministry of Health",
+    "twitterUsername": "abrashema9",
+    "followers": 13,
+    "privateContributions": 17,
+    "publicContributions": 0,
+    "createdAt": "2017-09-04T06:08:18Z"
   }
 ]

@@ -20239,8 +20239,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 745,
-    "publicContributions": 710,
+    "privateContributions": 748,
+    "publicContributions": 708,
     "createdAt": "2023-01-07T14:28:27Z"
   },
   {
@@ -20348,7 +20348,7 @@
     "twitterUsername": "Roger_Zhang_888",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 223,
+    "publicContributions": 224,
     "createdAt": "2023-06-19T13:21:44Z"
   },
   {
@@ -20359,7 +20359,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 154,
+    "privateContributions": 163,
     "publicContributions": 217,
     "createdAt": "2023-04-18T10:49:50Z"
   },
@@ -20372,7 +20372,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 418,
+    "publicContributions": 429,
     "createdAt": "2023-03-10T07:13:26Z"
   },
   {
@@ -20672,7 +20672,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 156,
+    "publicContributions": 157,
     "createdAt": "2023-02-02T14:44:18Z"
   },
   {
@@ -20827,7 +20827,7 @@
     "company": "Nanyang Technological University",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 26,
+    "privateContributions": 28,
     "publicContributions": 1,
     "createdAt": "2023-02-05T12:11:04Z"
   },
@@ -21080,7 +21080,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 104,
     "createdAt": "2023-01-12T14:18:04Z"
   },
   {
@@ -21164,7 +21164,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 186,
-    "publicContributions": 27,
+    "publicContributions": 50,
     "createdAt": "2023-03-17T08:43:14Z"
   },
   {
@@ -30982,5 +30982,17 @@
     "privateContributions": 1,
     "publicContributions": 197,
     "createdAt": "2020-04-05T18:14:54Z"
+  },
+  {
+    "login": "EricWang1358",
+    "name": "Eric Wang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122358137?s=72&u=e7b5a4f7d1e9cf9e39df5679ace7710b75f26ee7&v=4",
+    "location": "Singapore",
+    "company": "NUS-ISS",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 334,
+    "createdAt": "2023-01-10T10:17:14Z"
   }
 ]

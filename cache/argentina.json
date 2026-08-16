@@ -29071,8 +29071,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 148,
-    "publicContributions": 219,
+    "privateContributions": 132,
+    "publicContributions": 236,
     "createdAt": "2024-01-11T22:48:09Z"
   },
   {
@@ -52234,5 +52234,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-08-06T22:58:16Z"
+  },
+  {
+    "login": "ElBrayan97",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49415822?s=72&u=05d09f757d42ee9c15edd58359c614b455d34d0f&v=4",
+    "location": "Concepción del Uruguay, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-08T20:28:55Z"
+  },
+  {
+    "login": "FerNicoSanchez",
+    "name": "Fernando Sánchez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159250211?s=72&u=ebea1184a9b78e78b7db07bd7f18c00677f2c91e&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-07T10:10:48Z"
+  },
+  {
+    "login": "Emil-in-Code",
+    "name": "Emilio Flor ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181758129?s=72&u=6a11c937fe84273c20aef20b245c0d3e530083c3&v=4",
+    "location": "La Plata - Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 186,
+    "createdAt": "2024-09-16T15:18:50Z"
+  },
+  {
+    "login": "Dominiic-4",
+    "name": "Axel Leandro Cavañes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181105675?s=72&u=8b1ef3efe2ad2e7611b61ec99bc479d55c37e80d&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2024-09-10T12:42:00Z"
+  },
+  {
+    "login": "hmancinifranco",
+    "name": "Hugo Mancini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155916673?s=72&u=482f2c0fca9171737e2433c1f5892f85785276ed&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 59,
+    "createdAt": "2024-01-07T20:00:32Z"
   }
 ]
