@@ -67810,5 +67810,29 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2024-09-12T02:07:00Z"
+  },
+  {
+    "login": "alimst",
+    "name": "Ali Mostafavian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21089149?s=72&u=4872ac42877af0d6379554e9028044d51ea5a9ef&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2016-08-17T19:48:54Z"
+  },
+  {
+    "login": "jamiegiftbit",
+    "name": "Jamie Totten",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16841095?s=72&u=a4e8e0ca45f5e24fc6ec0ed52f54f68af0440556&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "Giftbit",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-22T17:06:43Z"
   }
 ]

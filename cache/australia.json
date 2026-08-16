@@ -58390,5 +58390,53 @@
     "privateContributions": 251,
     "publicContributions": 69,
     "createdAt": "2023-08-25T08:06:14Z"
+  },
+  {
+    "login": "jeremy-oz",
+    "name": "Jeremy Chen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22517433?s=72&u=137e6475fe928b1c302f8928c4a583e6911b91b2&v=4",
+    "location": "Melbourne, Victoria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2016-09-29T08:12:56Z"
+  },
+  {
+    "login": "1996010320",
+    "name": "Chi Qi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16585632?s=72&v=4",
+    "location": "Melbourne, Victoria, Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-07T02:12:54Z"
+  },
+  {
+    "login": "Supultura",
+    "name": "Supultura",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19639768?s=72&v=4",
+    "location": "Melbourne Victoria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-30T00:02:19Z"
+  },
+  {
+    "login": "iamankr",
+    "name": "Aman Kumar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17435855?s=72&u=c1181973521c544df8a2d141254eeadd169bc757&v=4",
+    "location": "Melbourne, Victoria",
+    "company": "Australia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-23T17:31:35Z"
   }
 ]

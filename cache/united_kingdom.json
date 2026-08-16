@@ -51310,5 +51310,53 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2024-11-12T17:27:52Z"
+  },
+  {
+    "login": "rayyanwaseem",
+    "name": "Rayyan Waseem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93309412?s=72&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2021-10-28T06:22:43Z"
+  },
+  {
+    "login": "thomasStewartmillar",
+    "name": "Stewart Millar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91692051?s=72&u=953653f40efc7f913a802995a024c95ee7701cf4&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-30T17:33:06Z"
+  },
+  {
+    "login": "chris-mcnally95",
+    "name": "Dr. Chris McNally",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87419987?s=72&u=6ac35fe215939633bee3cd351b7c32d5a3a62ea8&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-14T09:37:43Z"
+  },
+  {
+    "login": "Antanasici",
+    "name": "Antanas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23581582?s=72&u=d15e5e7fdb1cfcefb2738a428df7836dcdd20067&v=4",
+    "location": "London, United Kingdom / Vilnius, Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 47,
+    "publicContributions": 0,
+    "createdAt": "2016-11-19T15:16:13Z"
   }
 ]

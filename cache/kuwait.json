@@ -9526,5 +9526,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-11-23T07:40:35Z"
+  },
+  {
+    "login": "Bashar",
+    "name": "Bashar Al-Abdulhadi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142219?s=72&v=4",
+    "location": "Kuwait",
+    "company": "@KUWAITNET",
+    "twitterUsername": "_bashar",
+    "followers": 53,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-10-20T16:45:24Z"
+  },
+  {
+    "login": "alibrahim",
+    "name": "Ahmad Al-Ibrahim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64147?s=72&u=364e6ce7f4f52a6318f66f39ea58b8237aae4375&v=4",
+    "location": "Kuwait",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2009-03-17T03:53:40Z"
+  },
+  {
+    "login": "alhasawi",
+    "name": "Sulaiman Alhasawi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122522?s=72&u=e29c54192fabdbd84690f7be53eaddd2ae024f43&v=4",
+    "location": "Kuwait ",
+    "company": "ZeroNtek",
+    "twitterUsername": "alhasawi",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-09-02T18:48:38Z"
+  },
+  {
+    "login": "Alabduljader",
+    "name": "Yousef M Alabduljader",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96087?s=72&v=4",
+    "location": "Kuwait",
+    "company": "Ministry of Defance",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-06-16T20:47:12Z"
+  },
+  {
+    "login": "bunajim",
+    "name": "Abdullah Alsalal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101840?s=72&v=4",
+    "location": "Kuwait",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-07-05T13:59:40Z"
   }
 ]

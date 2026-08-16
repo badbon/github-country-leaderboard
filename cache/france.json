@@ -55042,5 +55042,65 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-06-07T09:25:17Z"
+  },
+  {
+    "login": "utasang",
+    "name": "UTA_VIRUS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184904601?s=72&u=7db57b457db97c274296bcda0266a4c396b37e76&v=4",
+    "location": "Paris & Marseille & Milano",
+    "company": "YoniMyCatDotCom",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-10-14T06:14:22Z"
+  },
+  {
+    "login": "RanyG961",
+    "name": "Rany G",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12932807?s=72&u=5a9c47eab825ce25e50660cccac1cf9f19cb17ca&v=4",
+    "location": "France / Lebanon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2015-06-17T08:02:48Z"
+  },
+  {
+    "login": "spapastamkou",
+    "name": "Sofia Papastamkou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27706167?s=72&u=8566bcd27ce3307e582fa8ff5ab9d10ca71f48ee&v=4",
+    "location": "Lille, France - Luxembourg",
+    "company": "C2DH, University of Luxembourg",
+    "twitterUsername": "s_papastamkou",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 383,
+    "createdAt": "2017-04-17T21:18:09Z"
+  },
+  {
+    "login": "styx0x6",
+    "name": "Styx0x6",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25430505?s=72&u=67d3d48a8e8347e4c806dd08635090afe9f95636&v=4",
+    "location": "France / Luxembourg",
+    "company": "Somewhere in Luxembourg",
+    "twitterUsername": "styx0x6",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2017-01-30T10:38:18Z"
+  },
+  {
+    "login": "Antopablo",
+    "name": "Antony LEFEVRE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34274907?s=72&u=7fa8d1aae0e728399ea44ca971140b5baffaf428&v=4",
+    "location": "France / Luxembourg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 153,
+    "createdAt": "2017-12-05T13:29:00Z"
   }
 ]

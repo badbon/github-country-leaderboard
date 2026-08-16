@@ -46210,5 +46210,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-04T09:40:18Z"
+  },
+  {
+    "login": "eszterhorvath",
+    "name": "Eszter Juhász-Horváth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44465559?s=72&u=cc61281d8efb4bdd02938f1dbd3f4e3bf48a8dd7&v=4",
+    "location": "Vienna / Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-25T10:26:57Z"
+  },
+  {
+    "login": "viktorsec",
+    "name": "Viktor Seč",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19210973?s=72&u=cae6bed3dba6e0f5a4b90ca09c8e00a64fcac4ae&v=4",
+    "location": "Bratislava / Vienna",
+    "company": "@vacuumlabs",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 831,
+    "publicContributions": 39,
+    "createdAt": "2016-05-05T17:08:13Z"
+  },
+  {
+    "login": "pavelkestefran",
+    "name": "Pavel Kestefran",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18596276?s=72&u=ea3a520c7beecc5b7166a1ec99cbda76fe8e8cd6&v=4",
+    "location": "Bratislava | Vienna",
+    "company": "Platform Engineer at Erste Digital GmbH",
+    "twitterUsername": "pavelkestefran",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-21T13:20:45Z"
   }
 ]

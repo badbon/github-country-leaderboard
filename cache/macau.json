@@ -5086,5 +5086,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2013-11-06T13:02:24Z"
+  },
+  {
+    "login": "dainachiba",
+    "name": "Daina Chiba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1934230?s=72&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 303,
+    "publicContributions": 43,
+    "createdAt": "2012-07-06T22:04:08Z"
+  },
+  {
+    "login": "lvhongqiang",
+    "name": "LYU HONGQIANG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1849046?s=72&u=d0cdeda9e5c62f50f504066ff8ae5850810781ec&v=4",
+    "location": "Macao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-06-14T05:28:46Z"
   }
 ]

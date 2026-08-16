@@ -58606,5 +58606,53 @@
     "privateContributions": 228,
     "publicContributions": 25,
     "createdAt": "2025-10-03T04:28:24Z"
+  },
+  {
+    "login": "Jason-xy",
+    "name": "XU Yang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53471811?s=72&u=e3630a1cb849d8d3b03aae70581a5c3ec3e5e974&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "HKUST",
+    "twitterUsername": "",
+    "followers": 149,
+    "privateContributions": 166,
+    "publicContributions": 193,
+    "createdAt": "2019-07-30T09:36:43Z"
+  },
+  {
+    "login": "huhanwj",
+    "name": "Han Hu, Hugo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54925085?s=72&u=13950dc29b14a60c09bd2dd4a6182f37b0065799&v=4",
+    "location": "Hong Kong & Shanghai",
+    "company": "The Chinese University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 52,
+    "privateContributions": 750,
+    "publicContributions": 26,
+    "createdAt": "2019-09-05T03:24:35Z"
+  },
+  {
+    "login": "caiyu6666",
+    "name": "Yu Cai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55656071?s=72&u=3cb78ecb67358f4c16c2ecaac4e825f7308dcba6&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "HKUST",
+    "twitterUsername": "YuCai_hkust",
+    "followers": 51,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2019-09-22T11:51:08Z"
+  },
+  {
+    "login": "wangbo-zhao",
+    "name": "Wangbo Zhao(明先生)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56866854?s=72&u=33cbe6c1bf170cdf8dfc8336e0264432630baa90&v=4",
+    "location": " Hong Kong SAR, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 48,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2019-10-22T08:25:39Z"
   }
 ]

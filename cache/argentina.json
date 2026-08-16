@@ -53374,5 +53374,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-04T01:27:49Z"
+  },
+  {
+    "login": "JkDevArg",
+    "name": "JkDev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69984125?s=72&u=f173661b32afa18ed52a146992c49f282cd8d23c&v=4",
+    "location": "Argentina/Peru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 338,
+    "privateContributions": 738,
+    "publicContributions": 20,
+    "createdAt": "2020-08-20T17:41:32Z"
+  },
+  {
+    "login": "kabeza",
+    "name": "Enrique Becerra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274856?s=72&u=dafa465b0073e953445a82c6fc89529a97157800&v=4",
+    "location": "San Juan, Argentina",
+    "company": "none",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 158,
+    "publicContributions": 18,
+    "createdAt": "2010-05-12T21:38:06Z"
   }
 ]

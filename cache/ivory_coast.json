@@ -5746,5 +5746,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-27T13:16:25Z"
+  },
+  {
+    "login": "Centonni",
+    "name": "Komi Serge Innocent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1955872?s=72&u=d71f1b3efda7bba9e85d3b543602a28b05f002e3&v=4",
+    "location": "Abidjan, Côte d'Ivoire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-11T10:35:54Z"
+  },
+  {
+    "login": "elinguiuriel",
+    "name": "ELINGUI Pascal Uriel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2127223?s=72&u=83c4eeade034c0d9f588c4afe1612bff05f48db3&v=4",
+    "location": "Côte d'Ivoire",
+    "company": "Uriellabs",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 2745,
+    "publicContributions": 11,
+    "createdAt": "2012-08-10T03:30:23Z"
+  },
+  {
+    "login": "ericzile",
+    "name": "Eric Zile ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3144310?s=72&u=d81c390017be692bbe7b3b3ccc67c22647c4a64b&v=4",
+    "location": "Abidjan, Côte d'Ivoire",
+    "company": "Jcertif",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-28T20:41:27Z"
+  },
+  {
+    "login": "lambirou",
+    "name": "Roland Edi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1428556?s=72&u=f8fa1691de5fa58fca4ece33a360eab176684500&v=4",
+    "location": "Abidjan, Côte d'ivoire",
+    "company": "Codivoire SARL.",
+    "twitterUsername": "lambirou225",
+    "followers": 9,
+    "privateContributions": 4436,
+    "publicContributions": 894,
+    "createdAt": "2012-02-11T08:57:58Z"
   }
 ]

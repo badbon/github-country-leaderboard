@@ -18262,5 +18262,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-07-22T20:08:06Z"
+  },
+  {
+    "login": "arielo",
+    "name": "Ariel Zavala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/301949?s=72&u=97dda3b8eea83206863becbb49ebdb6a536ab4e4&v=4",
+    "location": "San Juan, PR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 42,
+    "privateContributions": 60,
+    "publicContributions": 24,
+    "createdAt": "2010-06-10T15:14:11Z"
+  },
+  {
+    "login": "mango314",
+    "name": "JM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/325887?s=72&u=ba62f2327c1a78bab27a2033afbec1a10382bc3c&v=4",
+    "location": "San Juan, PR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-08T00:03:47Z"
+  },
+  {
+    "login": "bpamiri",
+    "name": "Peter Amiri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180555?s=72&v=4",
+    "location": "San Juan Capistrano, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 4912,
+    "publicContributions": 5162,
+    "createdAt": "2010-01-12T07:19:01Z"
+  },
+  {
+    "login": "rubillionaire",
+    "name": "Ruben Rodriguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/434737?s=72&u=ab3b1cd6f7e02280bf77ce3ed81f1c05181f2e40&v=4",
+    "location": "San Juan, PR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 701,
+    "publicContributions": 20,
+    "createdAt": "2010-10-11T00:01:15Z"
+  },
+  {
+    "login": "alfredorichner",
+    "name": "Alfredo Richner",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217435?s=72&u=85d1112a33710b56694ff780108c97f9791e4bb9&v=4",
+    "location": "San Juan, PR",
+    "company": "Nítido: Taller Creativo",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-07T02:57:34Z"
+  },
+  {
+    "login": "jhernaiz",
+    "name": "Juan Hernaiz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/539829?s=72&v=4",
+    "location": "San Juan, PR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-29T04:36:19Z"
   }
 ]

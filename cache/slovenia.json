@@ -26818,5 +26818,113 @@
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2014-11-13T07:11:35Z"
+  },
+  {
+    "login": "LukaToni",
+    "name": "Luka Toni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7942884?s=72&u=ccf300be7b9ede1fcadbd83dfac58fc1390d7201&v=4",
+    "location": "Ljubljana",
+    "company": "Spletne storitve",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-20T11:56:53Z"
+  },
+  {
+    "login": "badVibes--",
+    "name": "Boštjan Čadež",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10222592?s=72&u=b110e881083bcc5dcf1c48bd498fed11f323ce64&v=4",
+    "location": "Ljubljana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2014-12-17T15:42:23Z"
+  },
+  {
+    "login": "VojkoCendak",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7000744?s=72&v=4",
+    "location": "Preglov Trg 7, 1000 Ljubljana",
+    "company": "Vojko Cendak",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-03-19T16:19:10Z"
+  },
+  {
+    "login": "korxz",
+    "name": "Rok Silic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8726398?s=72&v=4",
+    "location": "Ljubljana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1736,
+    "publicContributions": 20,
+    "createdAt": "2014-09-10T17:25:44Z"
+  },
+  {
+    "login": "SergeyTatarinovSetronica",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7288030?s=72&u=a056a94a9de78ad240d7e4b43966fdbb9adbf0a9&v=4",
+    "location": "Ljubljana",
+    "company": "Setronica",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-14T09:00:08Z"
+  },
+  {
+    "login": "PalcicZan",
+    "name": "Žan Palčič",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6840598?s=72&u=7933af7241d16480f4433076b5e920fa8fd10e1d&v=4",
+    "location": "Ljubljana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2014-03-03T14:39:38Z"
+  },
+  {
+    "login": "dkmet",
+    "name": "Damjan Kmet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7644154?s=72&v=4",
+    "location": "Ljubljana",
+    "company": "3K-IT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-20T11:42:27Z"
+  },
+  {
+    "login": "mjursic",
+    "name": "Matjaz Jursic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10278083?s=72&u=f58df75eabe789730d0945d0eb31bf509239c726&v=4",
+    "location": "Ljubljana, Slovenija",
+    "company": "Boerse Stuttgart Digital",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-23T07:56:32Z"
+  },
+  {
+    "login": "Caperious",
+    "name": "David Rudman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8794071?s=72&v=4",
+    "location": "Ljubljana",
+    "company": "8Bites",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1953,
+    "publicContributions": 1,
+    "createdAt": "2014-09-16T14:49:13Z"
   }
 ]
