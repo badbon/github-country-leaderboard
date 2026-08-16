@@ -43270,5 +43270,29 @@
     "privateContributions": 0,
     "publicContributions": 62,
     "createdAt": "2025-07-03T17:02:31Z"
+  },
+  {
+    "login": "javisuu",
+    "name": "Javier Suárez Suquía",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150545580?s=72&u=a67bc92d0bd8c01b143774d1dd57a17b3e022cb8&v=4",
+    "location": "Santiago de Compostela, España",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2023-11-11T17:40:54Z"
+  },
+  {
+    "login": "mateobodenlle",
+    "name": "Mateo Bodenlle Villarino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150947412?s=72&v=4",
+    "location": "Santiago de Compostela, Galicia, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 982,
+    "publicContributions": 325,
+    "createdAt": "2023-11-15T16:57:02Z"
   }
 ]

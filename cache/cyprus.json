@@ -12766,5 +12766,89 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2019-06-12T15:22:55Z"
+  },
+  {
+    "login": "ByczukMartin",
+    "name": "Martin B.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53396473?s=72&u=b122731a75dce8fd5153c6008eda5d85221a7230&v=4",
+    "location": "Cyprus",
+    "company": "MBYT LTD",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 6360,
+    "publicContributions": 0,
+    "createdAt": "2019-07-28T09:58:40Z"
+  },
+  {
+    "login": "rawchenko",
+    "name": "Evgenii Kravchenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54055427?s=72&u=f792e69a36ff255785f3f1df8ee1e47cfef39c0a&v=4",
+    "location": "Cyprus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 27,
+    "publicContributions": 392,
+    "createdAt": "2019-08-13T06:14:59Z"
+  },
+  {
+    "login": "DGrebenin",
+    "name": "Dmitry Grebenin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56921887?s=72&u=fd25b44d80a9e8e46557ec0bf51d4f504fd0dd2d&v=4",
+    "location": "Cyprus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-23T12:21:45Z"
+  },
+  {
+    "login": "gracingpro",
+    "name": "Dmitry Nikitin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58341479?s=72&v=4",
+    "location": "Cyprus",
+    "company": "Exness",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-29T17:48:30Z"
+  },
+  {
+    "login": "ReusableSemanticMetadataContentModels",
+    "name": "Avgoustinos Avgousti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49799255?s=72&u=0b17da07adf8dc18a1814681fe85f7d3e50e218f&v=4",
+    "location": "Nicosia Cyprus",
+    "company": "The Cyprus Institute",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-20T00:17:18Z"
+  },
+  {
+    "login": "george-kant",
+    "name": "Georgios Kantianis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56803865?s=72&v=4",
+    "location": "Limassol, Cyprus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2019-10-20T20:48:16Z"
+  },
+  {
+    "login": "MLeonidou",
+    "name": "Michael Leonidou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56788746?s=72&u=54bb2b3a662775279a37b9fa8d98a0686354ba65&v=4",
+    "location": "Cyprus",
+    "company": "@NetInfo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-20T10:38:16Z"
   }
 ]

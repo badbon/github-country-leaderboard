@@ -30318,7 +30318,7 @@
     "location": "San José, Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 89,
+    "followers": 96,
     "privateContributions": 586,
     "publicContributions": 18,
     "createdAt": "2019-02-16T05:23:25Z"
@@ -35242,5 +35242,89 @@
     "privateContributions": 0,
     "publicContributions": 175,
     "createdAt": "2019-10-01T19:25:03Z"
+  },
+  {
+    "login": "dnnxl",
+    "name": "Danny Xie-Li",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51223285?s=72&u=c2710e401168310b5bce9e87559b7de9ada57df7&v=4",
+    "location": "San José",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 204,
+    "createdAt": "2019-05-31T04:43:37Z"
+  },
+  {
+    "login": "snowtxc",
+    "name": "Rodrigo Castro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53797234?s=72&u=cce1524b53a030bae993541795cf4f063f35a1bf&v=4",
+    "location": "Libertad,San José UY",
+    "company": "Avance Software",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 71,
+    "createdAt": "2019-08-05T21:01:22Z"
+  },
+  {
+    "login": "PricKG",
+    "name": "Lucas Garrido",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51736485?s=72&u=44ebfa1788f5e8b426d7ac193a5cbf84a68efb4a&v=4",
+    "location": "Uruguay San José",
+    "company": "",
+    "twitterUsername": "LuC31_G",
+    "followers": 4,
+    "privateContributions": 54,
+    "publicContributions": 16,
+    "createdAt": "2019-06-12T06:45:19Z"
+  },
+  {
+    "login": "albertchokor",
+    "name": "Albert Cho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55512268?s=72&u=28d944d7f68bb6ac3c19393eda52d25d6091b5c2&v=4",
+    "location": "San José, California » Austin, Texas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-18T20:14:32Z"
+  },
+  {
+    "login": "ruichunliu",
+    "name": "Ruichun Liu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49262050?s=72&u=eef89735752730b1da4d1e8b21b762a05223be53&v=4",
+    "location": "San José, CA",
+    "company": "San José State University",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2019-04-04T03:48:29Z"
+  },
+  {
+    "login": "JoseA4718",
+    "name": "Jose Espinoza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49050880?s=72&u=f1b765d6671ebacafa821f5b1220fdff483763d5&v=4",
+    "location": "Belén, San José",
+    "company": "Intel",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2019-03-29T03:01:21Z"
+  },
+  {
+    "login": "juanjaikel-estad",
+    "name": "Juan José Jaikel Jiménez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53803451?s=72&u=3de8721bb90b8b5c1f601386d2c2706ffbea47f3&v=4",
+    "location": "Vecino de San Pedro de Montes de Oca, San José. Nativo de Ciudad Quesada, San Carlos, de Alajuela.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-06T02:10:31Z"
   }
 ]

@@ -16892,7 +16892,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2016-03-23T06:34:08Z"
   },
   {
@@ -17230,5 +17230,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-07-03T11:43:36Z"
+  },
+  {
+    "login": "alisina123",
+    "name": "Alisina Sadat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22353179?s=72&u=1f9548623d7c78ae1b15ff227220750e6fd688e4&v=4",
+    "location": "Kabul",
+    "company": "MCIT",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 159,
+    "publicContributions": 38,
+    "createdAt": "2016-09-21T18:29:17Z"
+  },
+  {
+    "login": "musajalili",
+    "name": "Musa Jalili",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20580230?s=72&u=f6bb733fdb5944ee90a84735a3cc9d3279a87629&v=4",
+    "location": "Kabul",
+    "company": "Rana University",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 58,
+    "createdAt": "2016-07-21T13:56:19Z"
+  },
+  {
+    "login": "ikramkakar",
+    "name": "Ikram Kakar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19680676?s=72&u=65f6c74e0e69732e67e66a1a902f2d365414bc02&v=4",
+    "location": "Kabul",
+    "company": "MoreSystems.org",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2016-06-01T05:32:18Z"
   }
 ]

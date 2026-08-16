@@ -19714,5 +19714,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-03-08T12:22:28Z"
+  },
+  {
+    "login": "phoexer",
+    "name": "Michael Musangeya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1940996?s=72&u=9897b489c47743bba7b2a22f039178267f8ba652&v=4",
+    "location": "Harare",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 862,
+    "publicContributions": 0,
+    "createdAt": "2012-07-09T06:53:05Z"
+  },
+  {
+    "login": "fleboho",
+    "name": "Farai Leboho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1520629?s=72&v=4",
+    "location": "Harare",
+    "company": "Metasoft Technologies",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2012-03-09T16:13:53Z"
+  },
+  {
+    "login": "artwellmamvura",
+    "name": "Artwell Waters",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1875550?s=72&u=b13b2283f48a881d9683a330cc14308e4adda519&v=4",
+    "location": "Harare",
+    "company": "NMB BANK",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 8,
+    "publicContributions": 0,
+    "createdAt": "2012-06-21T06:27:25Z"
+  },
+  {
+    "login": "wammz",
+    "name": "Fannuel Wamambo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2969088?s=72&u=81d7a889735b1230083a1d0fba9bb262d7e14690&v=4",
+    "location": "Harare",
+    "company": "UZ-DCM HITRAC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-05T07:18:25Z"
   }
 ]

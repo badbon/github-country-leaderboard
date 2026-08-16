@@ -442,5 +442,53 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2013-03-03T11:56:29Z"
+  },
+  {
+    "login": "CrushedLive",
+    "name": "Jordan Bugbird",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1410921?s=72&u=afc021630926c4aa89235385d900517aa088ef90&v=4",
+    "location": "Jersey/Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-02-05T22:55:43Z"
+  },
+  {
+    "login": "gilbertbw",
+    "name": "Gilbert Bishop-White",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2099292?s=72&u=cef5b5fa62be04a26073b3f5d913ca4a28c507e4&v=4",
+    "location": "Guernsey",
+    "company": "@x-ware-ltd ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2012-08-05T18:20:22Z"
+  },
+  {
+    "login": "technosight",
+    "name": "Ivan Petrov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2080969?s=72&u=7fd56d3514a9e6c71e70658f32f28b0645aa0491&v=4",
+    "location": "St Peter Port, Guernsey",
+    "company": "Technosight",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 603,
+    "publicContributions": 0,
+    "createdAt": "2012-08-02T02:04:47Z"
+  },
+  {
+    "login": "dridley191",
+    "name": "Daniel Ridley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2380056?s=72&v=4",
+    "location": "Guernsey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-19T18:02:51Z"
   }
 ]
