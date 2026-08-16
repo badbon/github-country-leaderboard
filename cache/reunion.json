@@ -1039,7 +1039,7 @@
     "company": "6kreation",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1196,
+    "privateContributions": 1212,
     "publicContributions": 83,
     "createdAt": "2017-06-07T14:23:57Z"
   },
@@ -2074,5 +2074,29 @@
     "privateContributions": 586,
     "publicContributions": 24,
     "createdAt": "2017-12-28T10:43:16Z"
+  },
+  {
+    "login": "cherrysushi",
+    "name": "M",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25489101?s=72&u=a57e436fa7dc13a6e908a3dd2cb85ed6e41883c9&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-01T18:38:45Z"
+  },
+  {
+    "login": "BattleLicorneUE",
+    "name": "Samuel FONTAINE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31442274?s=72&u=7ff1940ab293115e64bd857bcebb463235a2ebdd&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-29T13:01:04Z"
   }
 ]

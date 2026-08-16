@@ -8228,7 +8228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 185,
+    "publicContributions": 189,
     "createdAt": "2024-09-18T07:22:51Z"
   },
   {
@@ -28474,5 +28474,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-13T11:43:32Z"
+  },
+  {
+    "login": "gantover",
+    "name": "Damian Hubert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93554327?s=72&u=c7d83daeb2e9180596e8ac495ac3b7d631deb541&v=4",
+    "location": "Brussels / Copenhagen",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 56,
+    "createdAt": "2021-11-01T21:35:53Z"
   }
 ]

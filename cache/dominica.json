@@ -130,5 +130,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-06-20T12:09:55Z"
+  },
+  {
+    "login": "rickettspc",
+    "name": "Peter Ricketts",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10088001?s=72&v=4",
+    "location": "Goodwill, Dominica",
+    "company": "Ministry of Health",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-05T14:09:55Z"
+  },
+  {
+    "login": "theode",
+    "name": "Derrick Theophille",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8383819?s=72&v=4",
+    "location": "Dominica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-07T10:19:25Z"
   }
 ]

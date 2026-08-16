@@ -3862,5 +3862,101 @@
     "privateContributions": 23,
     "publicContributions": 3,
     "createdAt": "2015-06-19T02:43:28Z"
+  },
+  {
+    "login": "jkenley",
+    "name": "Kenley Jean",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8725648?s=72&u=4460371be9dfdfb6c9f31013377221e5e71315fb&v=4",
+    "location": "Haiti",
+    "company": "@syntaxstudio-io ",
+    "twitterUsername": "jn_kenley",
+    "followers": 85,
+    "privateContributions": 4410,
+    "publicContributions": 135,
+    "createdAt": "2014-09-10T16:17:18Z"
+  },
+  {
+    "login": "certilremy",
+    "name": "Certil Remy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9631318?s=72&u=75dcd5926c9b288160a59c1e97406254f3a1af10&v=4",
+    "location": "Haiti",
+    "company": " Full-stack Developer",
+    "twitterUsername": "certilremy",
+    "followers": 74,
+    "privateContributions": 177,
+    "publicContributions": 1,
+    "createdAt": "2014-11-08T21:56:44Z"
+  },
+  {
+    "login": "Lkerry",
+    "name": "Anne Kerrie LEVEILLE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8962932?s=72&u=cb2b86604b61376883520cdd8b2df3fdc95c466b&v=4",
+    "location": "Haiti",
+    "company": "@RJConstruction @TransitionDigitale",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-29T18:54:25Z"
+  },
+  {
+    "login": "senburbens",
+    "name": "Pierre Rubens MILORME",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8811856?s=72&u=8a691cacee516f64cfd93f0be43e900281e0eeb6&v=4",
+    "location": "Haiti, Port-au-Prince",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-17T20:16:06Z"
+  },
+  {
+    "login": "marcellus-jeanbernard",
+    "name": "Jean Bernard MARCELLUS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10282575?s=72&u=82f67e48ccfa12d761cb03ea699a1864218429bf&v=4",
+    "location": "haiti",
+    "company": "sikse / ihsi ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-23T17:31:32Z"
+  },
+  {
+    "login": "mhj3",
+    "name": "M. H. Jeanty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6889637?s=72&u=687f5e766633e1de73223281e9f5600f2a9cf59c&v=4",
+    "location": "Haiti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 23,
+    "publicContributions": 0,
+    "createdAt": "2014-03-08T05:47:31Z"
+  },
+  {
+    "login": "labou",
+    "name": "labou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7200776?s=72&u=7583ea4199abbf152a83fc351180edc897ef3b80&v=4",
+    "location": "Haiti",
+    "company": "ADF Haiti Inc",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-07T03:56:57Z"
+  },
+  {
+    "login": "pdawine",
+    "name": "Dawine Pierre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8593218?s=72&u=5e1e435dfa064660ae42be5982102a367985f801&v=4",
+    "location": "Haiti",
+    "company": "DAI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-08-29T18:11:56Z"
   }
 ]

@@ -298,5 +298,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-06-11T20:51:41Z"
+  },
+  {
+    "login": "sxanthony06",
+    "name": "Stephen Anthony",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21309550?s=72&u=fd7fb792071db582b144fdef90ed51ca5614ff1b&v=4",
+    "location": "Curaçao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 3,
+    "publicContributions": 0,
+    "createdAt": "2016-08-29T11:53:21Z"
+  },
+  {
+    "login": "AngeloAAB",
+    "name": "Angelo Bartholomeus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20714071?s=72&u=79256a6a3a2b35c2c7c7196111b73aceb2df3d16&v=4",
+    "location": "Willemstad, Curaçao",
+    "company": "None",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2016-07-29T00:01:21Z"
   }
 ]

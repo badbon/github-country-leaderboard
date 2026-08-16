@@ -16126,5 +16126,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-01-16T12:30:24Z"
+  },
+  {
+    "login": "limpop",
+    "name": "D L Phiri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200864?s=72&u=9cafffeb0d1bf736c3a76218d7cf4686fac44f70&v=4",
+    "location": "Lusaka",
+    "company": "",
+    "twitterUsername": "dlphiri",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2010-02-10T07:41:39Z"
+  },
+  {
+    "login": "websplee",
+    "name": "Humphrey Chinyama",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/418912?s=72&v=4",
+    "location": "Lusaka",
+    "company": "Crystalised Liquid Enterprises Limited",
+    "twitterUsername": "websplee",
+    "followers": 10,
+    "privateContributions": 48,
+    "publicContributions": 10,
+    "createdAt": "2010-09-28T09:16:56Z"
+  },
+  {
+    "login": "cchisha",
+    "name": "Chimpinde Chisha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/247204?s=72&v=4",
+    "location": "Lusaka",
+    "company": "Brivo Synaptics",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2010-04-19T10:50:56Z"
   }
 ]

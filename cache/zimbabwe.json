@@ -19834,5 +19834,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-10-05T13:13:43Z"
+  },
+  {
+    "login": "majutaca",
+    "name": "Christian A Majuta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1179070?s=72&u=34f14528c6cf46394aa28ebbbf8e1bd2018155c2&v=4",
+    "location": "Harare",
+    "company": "@majutaca, @boonzw",
+    "twitterUsername": "majutaca",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-07T21:37:03Z"
+  },
+  {
+    "login": "ozie03",
+    "name": "Oswin Zulu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/680586?s=72&v=4",
+    "location": "Harare",
+    "company": "Workstation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-20T22:55:20Z"
+  },
+  {
+    "login": "Givaldo",
+    "name": "Gift",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/743280?s=72&v=4",
+    "location": "Harare",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-21T07:48:40Z"
   }
 ]
