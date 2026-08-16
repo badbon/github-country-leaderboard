@@ -7510,5 +7510,113 @@
     "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2016-02-10T18:31:14Z"
+  },
+  {
+    "login": "kolvin",
+    "name": "Calvin Taylor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15124052?s=72&u=dabb4001dc79d05885b020f3136954aa90f294f3&v=4",
+    "location": "Bermuda",
+    "company": "Holland & Barrett",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 2,
+    "publicContributions": 70,
+    "createdAt": "2015-10-14T12:04:22Z"
+  },
+  {
+    "login": "gabriel-jones",
+    "name": "Gabriel Jones",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11369361?s=72&u=c1d484c1addadb8d1c0546aa3e7a382b5f77d557&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 44,
+    "publicContributions": 0,
+    "createdAt": "2015-03-07T22:14:04Z"
+  },
+  {
+    "login": "srdavidson",
+    "name": "Stephen Davidson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13353897?s=72&u=5ee5bff2240a028aa384371bea7521e9e77aa047&v=4",
+    "location": "Bermuda",
+    "company": "@DigiCert",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 5,
+    "publicContributions": 157,
+    "createdAt": "2015-07-15T17:43:21Z"
+  },
+  {
+    "login": "cod3-jr",
+    "name": "Mischa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14276089?s=72&u=fa0afa0350ac499348d5dd06f82279b04e4b2299&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "fubler",
+    "followers": 8,
+    "privateContributions": 3,
+    "publicContributions": 1,
+    "createdAt": "2015-09-14T13:47:22Z"
+  },
+  {
+    "login": "rickyno",
+    "name": "Richard Naud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12403902?s=72&u=1264b7f9c2d6d1f13900d3d6ba4d4300114e783a&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-12T02:11:01Z"
+  },
+  {
+    "login": "brianerdelyi",
+    "name": "Brian Erdelyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10991944?s=72&u=eb00b4aa4c9beda4871912642e1c24aa7c904dda&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-13T11:28:49Z"
+  },
+  {
+    "login": "lbrgriffith",
+    "name": "L. B. Ricardo Griffith",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16267420?s=72&u=42df1cc6ed5bb1182fe4cc811a300afea17f87f4&v=4",
+    "location": "Hamilton, Bermuda",
+    "company": "Questown L.L.C.",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 3927,
+    "publicContributions": 15,
+    "createdAt": "2015-12-12T13:15:35Z"
+  },
+  {
+    "login": "djrarky",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10834935?s=72&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 130,
+    "createdAt": "2015-02-03T17:55:33Z"
+  },
+  {
+    "login": "genechiaramonte",
+    "name": "Gene Chiaramonte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16423061?s=72&u=e9b7060a33f2bd93841dc92d19497fe9e32cc9eb&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-24T07:06:09Z"
   }
 ]

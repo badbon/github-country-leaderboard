@@ -35338,5 +35338,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-04T07:19:32Z"
+  },
+  {
+    "login": "karenascencio",
+    "name": "Karen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84821120?s=72&v=4",
+    "location": "Éire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2021-05-26T00:53:47Z"
+  },
+  {
+    "login": "anTadhg",
+    "name": "Tadhg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76965935?s=72&u=8892fdcb0cf7c3401951719dbdf00db5f85ca7d7&v=4",
+    "location": "Éire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2021-01-04T17:49:50Z"
+  },
+  {
+    "login": "AodhanLP",
+    "name": "Aodhán Wade",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80517065?s=72&u=6f878b61b9d19c654b7ef2f427f2118d4cea295d&v=4",
+    "location": "Doire, Éire",
+    "company": "Learning Pool",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 650,
+    "publicContributions": 1,
+    "createdAt": "2021-03-12T09:57:46Z"
   }
 ]

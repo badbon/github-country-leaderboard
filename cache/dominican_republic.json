@@ -39730,5 +39730,29 @@
     "privateContributions": 0,
     "publicContributions": 60,
     "createdAt": "2009-12-02T16:15:13Z"
+  },
+  {
+    "login": "wilburhimself",
+    "name": "Wilbur Suero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8761?s=72&u=ca33fd1905436a5fd020d865031b160f852f240c&v=4",
+    "location": "Santo Domingo, Dominican Republic",
+    "company": "",
+    "twitterUsername": "wilburhimself",
+    "followers": 156,
+    "privateContributions": 2653,
+    "publicContributions": 422,
+    "createdAt": "2008-04-28T19:51:55Z"
+  },
+  {
+    "login": "josespinal",
+    "name": "Jose Espinal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10059?s=72&u=9c8af862302e4850059dce90372fa58f64d58825&v=4",
+    "location": "Dominican Republic",
+    "company": "Industria Creativa",
+    "twitterUsername": "",
+    "followers": 46,
+    "privateContributions": 2448,
+    "publicContributions": 26,
+    "createdAt": "2008-05-12T17:15:21Z"
   }
 ]

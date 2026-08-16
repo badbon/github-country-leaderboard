@@ -3992,7 +3992,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 36,
     "createdAt": "2023-09-28T11:00:51Z"
   },
   {
@@ -14890,5 +14890,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-12-24T02:09:07Z"
+  },
+  {
+    "login": "aurielfournier",
+    "name": "Auriel M.V. Fournier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7707957?s=72&u=88537156cc414bfdb5c6aaf15815f7e21ab7a3fe&v=4",
+    "location": "Havana, IL ",
+    "company": "Illinois Natural History Survey",
+    "twitterUsername": "",
+    "followers": 127,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2014-05-27T01:28:40Z"
+  },
+  {
+    "login": "ricardoalmira89",
+    "name": "Ricardo Almira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7805161?s=72&u=176003987e534c30f4be1d7b2161ae53fbd5f892&v=4",
+    "location": "Havana",
+    "company": "AlmiraSofts",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-06-05T12:38:11Z"
   }
 ]
