@@ -5482,5 +5482,29 @@
     "privateContributions": 0,
     "publicContributions": 99,
     "createdAt": "2013-11-12T17:38:29Z"
+  },
+  {
+    "login": "KuberKode",
+    "name": "Johan Strydom",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1797936?s=72&u=a744ddf5373f273a8044dd1606af2240d1da9488&v=4",
+    "location": "Windhoek, Namibia",
+    "company": "Kuberkode.com",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2012-05-31T08:11:57Z"
+  },
+  {
+    "login": "StephDev-py",
+    "name": "Steph",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1702557?s=72&u=505c0fd04c12cd368d0274647ed6f9fc0c42893c&v=4",
+    "location": "Namibia",
+    "company": "StephDev",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-05-03T13:50:06Z"
   }
 ]

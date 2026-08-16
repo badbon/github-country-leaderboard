@@ -12103,8 +12103,8 @@
     "company": "",
     "twitterUsername": "sireaev",
     "followers": 12,
-    "privateContributions": 45,
-    "publicContributions": 40,
+    "privateContributions": 47,
+    "publicContributions": 42,
     "createdAt": "2017-02-02T22:16:54Z"
   },
   {
@@ -13438,5 +13438,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-11-03T14:04:33Z"
+  },
+  {
+    "login": "BabaDorin",
+    "name": "Dorin Baba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32685979?s=72&u=91ab8af0d6c82594234e1a2d9e0e7499c0969d39&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 77,
+    "publicContributions": 101,
+    "createdAt": "2017-10-10T19:46:18Z"
+  },
+  {
+    "login": "IonBatir",
+    "name": "Ion Batîr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33877056?s=72&u=ce4e68995b568201c01ee4ab74963fc005f45fa9&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 140,
+    "publicContributions": 13,
+    "createdAt": "2017-11-21T18:47:13Z"
+  },
+  {
+    "login": "dcantir",
+    "name": "Dan Cantir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25591106?s=72&u=973bc0a02374f87e0364ee955755e5ca3ef14258&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2928,
+    "publicContributions": 0,
+    "createdAt": "2017-02-06T17:08:30Z"
   }
 ]

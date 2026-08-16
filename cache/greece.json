@@ -35242,5 +35242,53 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-07-09T18:25:43Z"
+  },
+  {
+    "login": "ioatzi",
+    "name": "Tzitzios Ioannis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57442926?s=72&u=af618f267934203811413f4137c0436f7eb581b2&v=4",
+    "location": "Kalamaria, Central Macedonia, Greece",
+    "company": "tzijonnis@gmail.com",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-06T12:07:05Z"
+  },
+  {
+    "login": "christakakis",
+    "name": "Panagiotis Christakakis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49416869?s=72&u=9d958e168be4849a3cae86a85b03dc8e9e199631&v=4",
+    "location": "Thessaloniki, Central Macedonia, Greece",
+    "company": "CERTH",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 141,
+    "publicContributions": 16,
+    "createdAt": "2019-04-08T21:17:44Z"
+  },
+  {
+    "login": "panagiotismouts",
+    "name": "Panagiotis Moutsiounas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56624382?s=72&u=f5dff724a720179f895dbbaba02fbe99e21b9fb1&v=4",
+    "location": "Thessaloniki, Central Macedonia, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-16T06:21:13Z"
+  },
+  {
+    "login": "aPaLaSkoS",
+    "name": "Achilleas Palaskos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58661716?s=72&u=2ad7c4161a1597cfcb48a0f2defd32772592ca2d&v=4",
+    "location": "Thessaloniki, Central Macedonia, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-12-08T15:28:14Z"
   }
 ]

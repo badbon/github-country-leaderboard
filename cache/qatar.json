@@ -12334,5 +12334,53 @@
     "privateContributions": 698,
     "publicContributions": 0,
     "createdAt": "2013-09-10T15:18:19Z"
+  },
+  {
+    "login": "sirusb",
+    "name": "Nadhir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3537501?s=72&u=0d8590d3b47b21174ddeea585df967361296bbab&v=4",
+    "location": "Doha",
+    "company": "Sidra Medicine",
+    "twitterUsername": "",
+    "followers": 35,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2013-02-12T01:03:49Z"
+  },
+  {
+    "login": "RanaMalhas",
+    "name": "RM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3938558?s=72&v=4",
+    "location": "Doha",
+    "company": "QU",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2013-03-22T06:40:48Z"
+  },
+  {
+    "login": "dudious",
+    "name": "Wouter Hendrickx",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4472132?s=72&u=94ff1c4c52a1e00fffb2ddb005114fd9cc86ea38&v=4",
+    "location": "Doha",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-05-19T17:06:07Z"
+  },
+  {
+    "login": "rtemanni",
+    "name": "Ramzi Temanni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3678112?s=72&u=a82a22368123157352f736e92eff1f9f914c6daa&v=4",
+    "location": "Doha",
+    "company": "Sidra Medical and Research Center",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-23T11:45:15Z"
   }
 ]

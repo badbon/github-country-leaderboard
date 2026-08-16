@@ -943,7 +943,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 91,
+    "privateContributions": 111,
     "publicContributions": 5,
     "createdAt": "2025-01-11T14:05:13Z"
   },
@@ -30346,5 +30346,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-15T17:01:33Z"
+  },
+  {
+    "login": "ramirezjoel494",
+    "name": "Joel Ramirez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93448778?s=72&u=224c6abd9999aa2a42867f5159527cf07404a855&v=4",
+    "location": "Caracas",
+    "company": "Ninguna",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2021-10-30T18:54:57Z"
+  },
+  {
+    "login": "dkliemahi",
+    "name": "David Klie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90208524?s=72&u=a264d000ba6f05f4e536706b6c7b394eb71e0d80&v=4",
+    "location": "Caracas",
+    "company": "Mahisoft",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2021-09-06T16:09:10Z"
+  },
+  {
+    "login": "OriDango",
+    "name": "Oriana Mazo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84638152?s=72&u=af3ae8f844195ca63cdd83767764f893b2bb5571&v=4",
+    "location": "Caracas ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-22T17:21:53Z"
+  },
+  {
+    "login": "william-suarez-dev",
+    "name": "William Suarez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79582414?s=72&u=2855eea7965416b411486d0c91003e45a14a24e4&v=4",
+    "location": "Caracas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-24T12:46:57Z"
+  },
+  {
+    "login": "MiquelVZLA",
+    "name": "Miguel Jimenez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83095972?s=72&u=b2383890a67fc1b778ba01ac578a099d098a0997&v=4",
+    "location": "Caracas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 33,
+    "publicContributions": 0,
+    "createdAt": "2021-04-23T21:13:01Z"
+  },
+  {
+    "login": "kevmontesinos",
+    "name": "Kevin Montesinos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77279901?s=72&u=39cb04d2557e88120161f939b73ea8b4f5ea2823&v=4",
+    "location": "Caracas",
+    "company": "Universidad Metropolitana",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-11T13:12:57Z"
+  },
+  {
+    "login": "JesusAlfonzo",
+    "name": "Nieve",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81721842?s=72&u=4975539889203abdc40fb2d9122d78a0150bc28c&v=4",
+    "location": "Caracas",
+    "company": "UCV - Instituto de Inmunología Dr. Nicolas E. Bianco",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 448,
+    "createdAt": "2021-04-01T00:31:01Z"
   }
 ]

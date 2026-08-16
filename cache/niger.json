@@ -2086,5 +2086,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2013-03-12T07:27:24Z"
+  },
+  {
+    "login": "petrozavodsky",
+    "name": "Vladimir Petrozavodsky",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2689829?s=72&u=8f8c93731f5a8df972fbd26d8462f7327997ef7c&v=4",
+    "location": "Niger",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1178,
+    "privateContributions": 1076,
+    "publicContributions": 0,
+    "createdAt": "2012-10-31T08:58:12Z"
+  },
+  {
+    "login": "musatesa",
+    "name": "Ousmane MOUSSA TESSA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2994893?s=72&v=4",
+    "location": "Niamey, NIGER",
+    "company": "Université Abdou Moumouni/ WACREN",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-08T08:53:10Z"
   }
 ]
