@@ -80806,5 +80806,29 @@
     "privateContributions": 0,
     "publicContributions": 256,
     "createdAt": "2025-04-23T19:01:37Z"
+  },
+  {
+    "login": "camilojourney",
+    "name": "Camilo Martinez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127817036?s=72&u=c4848def696ed58ba853ddc78fcc1e4c09ac7d4d&v=4",
+    "location": "Colombia <-> New York City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 7263,
+    "publicContributions": 867,
+    "createdAt": "2023-03-14T04:03:26Z"
+  },
+  {
+    "login": "AoGOfficeHours",
+    "name": "Office Hours",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88117123?s=72&u=b4e72e67b713f8f0e6ab35bc02a30ba7d259a0ac&v=4",
+    "location": "New York-San Diego-Czech Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-28T22:47:21Z"
   }
 ]

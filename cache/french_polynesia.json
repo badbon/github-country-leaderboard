@@ -610,5 +610,29 @@
     "privateContributions": 0,
     "publicContributions": 432,
     "createdAt": "2013-05-31T16:33:23Z"
+  },
+  {
+    "login": "jalik",
+    "name": "Karl Stein",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1948429?s=72&u=465db76a4a7a34e83eeba1940add3bb30b46b72c&v=4",
+    "location": "French Polynesia",
+    "company": "SIGMA POLYNESIA",
+    "twitterUsername": "jalik26",
+    "followers": 27,
+    "privateContributions": 471,
+    "publicContributions": 202,
+    "createdAt": "2012-07-10T08:40:06Z"
+  },
+  {
+    "login": "paraita",
+    "name": "Paraita Wohler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1413759?s=72&u=bac8249967ccc4dc36ebf681e97956608bdf0931&v=4",
+    "location": "Tahiti, French Polynesia",
+    "company": "@e-reo",
+    "twitterUsername": "paraita",
+    "followers": 23,
+    "privateContributions": 227,
+    "publicContributions": 39,
+    "createdAt": "2012-02-06T20:01:29Z"
   }
 ]

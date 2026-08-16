@@ -706,5 +706,101 @@
     "privateContributions": 287,
     "publicContributions": 16,
     "createdAt": "2020-07-21T17:36:52Z"
+  },
+  {
+    "login": "Njinga",
+    "name": "Njinga Nkosi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47808032?s=72&v=4",
+    "location": "Nhlangano, Eswatini",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-20T06:31:09Z"
+  },
+  {
+    "login": "clintonV12",
+    "name": "Clinton Vilakati",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47827894?s=72&u=eb93cbdc3ada46876c263ed42a5d3bf7c44d22ac&v=4",
+    "location": "Eswatini",
+    "company": "Centurion Technologies (Pty) Ltd",
+    "twitterUsername": "clintonV97",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2019-02-20T17:23:41Z"
+  },
+  {
+    "login": "iamTwisted",
+    "name": "Carlos Magagula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48750329?s=72&u=bb89616cf64b557b5b8256f8dd1d04219e5beac8&v=4",
+    "location": "Swaziland (Eswatini)",
+    "company": "Skyvision Group",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-03-20T08:03:06Z"
+  },
+  {
+    "login": "Flaggern8",
+    "name": "Mlungisi Manyatsi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54132655?s=72&u=47fd4058561a8f31a726d8a1c778a9346aac8ef9&v=4",
+    "location": "Eswatini",
+    "company": "Peexsell",
+    "twitterUsername": "datkidflagger",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-15T06:17:29Z"
+  },
+  {
+    "login": "Mthe01",
+    "name": "Mthembeni Mdluli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48223390?s=72&v=4",
+    "location": "Eswatini",
+    "company": "BucikoCodes",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-04T20:00:07Z"
+  },
+  {
+    "login": "ThabisoNjokoD",
+    "name": "Thabiso Njoko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53946636?s=72&u=1054faee340fb89a39a45d566fac7f078566ee6f&v=4",
+    "location": "Mankayane, Eswatini",
+    "company": "Riska_D_Rollaz Records",
+    "twitterUsername": "thabisonjoko",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-09T15:26:10Z"
+  },
+  {
+    "login": "Mlondiem",
+    "name": "Mlondie Lukhele",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46609003?s=72&u=f8cf134f0fda1017f5aba474cc0ea0f1d9960efa&v=4",
+    "location": "Manzini, Eswatini",
+    "company": "Mlondiem Technologies",
+    "twitterUsername": "MlondiemTech",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-01-11T19:29:30Z"
+  },
+  {
+    "login": "LindelwaSfiso",
+    "name": "Lindelwa Sifiso Dlamini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47903607?s=72&u=d334190e177b9baf4235044fb7334bb61b9aafa8&v=4",
+    "location": "Matsapha, Eswatini",
+    "company": "",
+    "twitterUsername": "dlamin_sfiso",
+    "followers": 1,
+    "privateContributions": 136,
+    "publicContributions": 17,
+    "createdAt": "2019-02-22T21:36:21Z"
   }
 ]

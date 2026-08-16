@@ -5326,5 +5326,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-11-20T14:55:06Z"
+  },
+  {
+    "login": "gabeta",
+    "name": "Gabeta Soro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16475656?s=72&u=5a043dad1a05ae0f3792515bbd4104bc893575f1&v=4",
+    "location": "Ivory Coast",
+    "company": "Alis, ITAlliance",
+    "twitterUsername": "GabetaSoro",
+    "followers": 31,
+    "privateContributions": 742,
+    "publicContributions": 2,
+    "createdAt": "2015-12-29T11:18:58Z"
+  },
+  {
+    "login": "eshe-huli",
+    "name": "Ben G. Seydou Ouattara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11230064?s=72&u=13b77d40d3cc44203f50a71edbdf4506c720d03a&v=4",
+    "location": "Abidjan, Ivory Coast",
+    "company": "Djamo CI",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 3672,
+    "publicContributions": 592,
+    "createdAt": "2015-02-27T13:35:20Z"
+  },
+  {
+    "login": "saint1983",
+    "name": "AMANI A. SAINT-CLAIR",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13288864?s=72&v=4",
+    "location": "IVORY COAST",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-11T13:41:44Z"
+  },
+  {
+    "login": "jeapy",
+    "name": "jeapy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16212025?s=72&u=56acf2cdbcbc4125280239ad80980985c84be807&v=4",
+    "location": "Ivory Coast",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5,
+    "publicContributions": 1,
+    "createdAt": "2015-12-08T17:47:06Z"
   }
 ]

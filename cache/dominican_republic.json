@@ -39610,5 +39610,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-11-05T15:14:49Z"
+  },
+  {
+    "login": "hmarzan",
+    "name": "Harold L. Marzan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/265841?s=72&v=4",
+    "location": "Santo Domingo",
+    "company": "Marzan Mercado Consulting, S.R.L.",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-05T18:51:29Z"
+  },
+  {
+    "login": "mundix",
+    "name": "Edmundo Pichardo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/338983?s=72&u=286dd01b5a338dcc91b110b47dc07d3310313aa7&v=4",
+    "location": "Santo domingo",
+    "company": "Awesome Media",
+    "twitterUsername": "edmundopichardo",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-20T20:09:30Z"
+  },
+  {
+    "login": "EstebanJoseSantos",
+    "name": "EstebanJose",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/337864?s=72&v=4",
+    "location": "Santo Domingo",
+    "company": "InterG",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-19T20:50:55Z"
+  },
+  {
+    "login": "neophite",
+    "name": "Pavel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/507590?s=72&v=4",
+    "location": "Santo Domingo",
+    "company": "3W - Web Consulting Group",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-03T06:08:14Z"
   }
 ]

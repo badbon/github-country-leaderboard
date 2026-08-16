@@ -466,5 +466,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-12-24T12:12:31Z"
+  },
+  {
+    "login": "Ama-dou",
+    "name": "Amadou Bah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51505362?s=72&u=329f7f91bc8e04fe18b8b890e273a5e443323dea&v=4",
+    "location": "Djibouti",
+    "company": "Manelix Technologies",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 3969,
+    "publicContributions": 50,
+    "createdAt": "2019-06-08T08:28:17Z"
+  },
+  {
+    "login": "hmzeahmd",
+    "name": "hmze ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57949930?s=72&u=9bcb01092916d62017f8301dae0e49a6df1e683d&v=4",
+    "location": "Djibouti",
+    "company": "@codemakersteam",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2019-11-19T13:20:11Z"
+  },
+  {
+    "login": "momoboullo",
+    "name": "mohamed ali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52109014?s=72&u=cda09e25f5a1807463dfeee9ed28b25933d96248&v=4",
+    "location": "Djibouti",
+    "company": "EA-Suuq",
+    "twitterUsername": "BoulloAli",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-22T16:42:13Z"
+  },
+  {
+    "login": "Medladieh",
+    "name": "Mohamed Ladieh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54269388?s=72&u=28da5d49f0ffbc4b058c1304f1fa8166ca508e7b&v=4",
+    "location": "Djibouti",
+    "company": "",
+    "twitterUsername": "Medladieh",
+    "followers": 3,
+    "privateContributions": 150,
+    "publicContributions": 22,
+    "createdAt": "2019-08-19T10:00:20Z"
+  },
+  {
+    "login": "dayib77",
+    "name": "Dayib Osman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50323375?s=72&u=cff240f60f800781eb9d9db8e5b60b9e41694436&v=4",
+    "location": "Djibouti",
+    "company": "Looking for an opportunity",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 20,
+    "publicContributions": 85,
+    "createdAt": "2019-05-06T10:38:46Z"
   }
 ]

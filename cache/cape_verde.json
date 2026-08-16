@@ -6646,5 +6646,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-02-15T11:48:51Z"
+  },
+  {
+    "login": "alex-sandro",
+    "name": "Alex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6024969?s=72&u=063e0a08e21a80c0b8a8c90743aaff826c48bbd6&v=4",
+    "location": "Praia Grande - SP",
+    "company": "Developer",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2013-11-24T18:36:19Z"
+  },
+  {
+    "login": "Mateuus",
+    "name": "Mateuus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5893666?s=72&u=2954f37b4beae252c1d942de0bf0fb4657fa20fe&v=4",
+    "location": "Praia Grande - SP",
+    "company": "Rodrigues Tech",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 482,
+    "createdAt": "2013-11-09T03:24:02Z"
+  },
+  {
+    "login": "ThiagoCI",
+    "name": "Thiago C Iglesias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6186866?s=72&u=74edcca224fbccc4366a1620dc43e8d7f0d8ab2b&v=4",
+    "location": "Praia Grande - SP",
+    "company": "X.Lab (TV1) | thiagoci.com",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 1928,
+    "publicContributions": 12,
+    "createdAt": "2013-12-14T20:16:25Z"
+  },
+  {
+    "login": "primecv",
+    "name": "Prime Consulting",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5667496?s=72&u=47334693a37f4e14d4d1ec183207651bb40c0f7f&v=4",
+    "location": "Praia, Cabo Verde",
+    "company": "PRIME Consulting",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-11T21:08:44Z"
+  },
+  {
+    "login": "Jvmvilela",
+    "name": "José Vilela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6154508?s=72&u=30621288ec7c4871f8355c37b685ae08cc14b970&v=4",
+    "location": "Praia de Mira",
+    "company": "@beeverycreative ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-10T18:37:36Z"
+  },
+  {
+    "login": "Gebaiplay",
+    "name": "Marco Aurélio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4432944?s=72&v=4",
+    "location": "Praia Grande, SP",
+    "company": "Code Crew NM",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-05-15T01:09:36Z"
   }
 ]
