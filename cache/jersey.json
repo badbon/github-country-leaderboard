@@ -730,5 +730,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-05T11:05:02Z"
+  },
+  {
+    "login": "krisjack5",
+    "name": "Kris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22900447?s=72&u=86844c13a757c585877bf8f768e587ef26760c18&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-18T01:13:02Z"
+  },
+  {
+    "login": "gleveille",
+    "name": "Genevieve Leveille",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20842347?s=72&u=056fe2dac3714953e4c7782950dd859588561db6&v=4",
+    "location": "Grouville, Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-04T15:22:19Z"
   }
 ]

@@ -27260,7 +27260,7 @@
     "twitterUsername": "IbrahimElkamali",
     "followers": 47,
     "privateContributions": 2512,
-    "publicContributions": 1938,
+    "publicContributions": 1943,
     "createdAt": "2023-02-26T21:32:41Z"
   },
   {
@@ -31543,7 +31543,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 197,
+    "privateContributions": 202,
     "publicContributions": 115,
     "createdAt": "2023-01-10T22:58:45Z"
   },
@@ -34747,7 +34747,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 45,
+    "privateContributions": 50,
     "publicContributions": 50,
     "createdAt": "2023-03-06T14:14:53Z"
   },
@@ -36667,7 +36667,7 @@
     "company": "Chapps",
     "twitterUsername": "dmitriychuta",
     "followers": 3,
-    "privateContributions": 1049,
+    "privateContributions": 1050,
     "publicContributions": 33,
     "createdAt": "2023-05-16T19:24:21Z"
   },
@@ -38251,7 +38251,7 @@
     "company": "",
     "twitterUsername": "arthurbdev",
     "followers": 2,
-    "privateContributions": 969,
+    "privateContributions": 1045,
     "publicContributions": 6,
     "createdAt": "2023-05-12T12:34:22Z"
   },
@@ -40987,7 +40987,7 @@
     "company": "@in-bulk ",
     "twitterUsername": "",
     "followers": 195,
-    "privateContributions": 1376,
+    "privateContributions": 1383,
     "publicContributions": 66,
     "createdAt": "2023-08-10T20:05:47Z"
   },
@@ -41274,7 +41274,7 @@
     "location": "Ukraine, Odesa",
     "company": "QuCore Dynamic",
     "twitterUsername": "ArtemZhyto",
-    "followers": 30,
+    "followers": 32,
     "privateContributions": 219,
     "publicContributions": 310,
     "createdAt": "2023-11-30T18:38:28Z"
@@ -47526,7 +47526,7 @@
     "location": "Odesa, Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-12-04T21:48:03Z"
@@ -56782,5 +56782,113 @@
     "privateContributions": 0,
     "publicContributions": 127,
     "createdAt": "2023-08-10T12:24:55Z"
+  },
+  {
+    "login": "minebut",
+    "name": "ANDRII BUTOK",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149525266?s=72&u=898c5e1a93820cad8826cf499022e407a0678cad&v=4",
+    "location": "Odesa",
+    "company": "Odesa I. Mechnykov National University",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 168,
+    "publicContributions": 0,
+    "createdAt": "2023-10-31T17:41:48Z"
+  },
+  {
+    "login": "zaliubov",
+    "name": "Oleksandr Zaliubovskyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135022571?s=72&u=005833a9f97d3f43cd490d61824a880be73828ed&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2023-05-30T11:21:45Z"
+  },
+  {
+    "login": "KyropatkaOleh",
+    "name": "Oleh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139342268?s=72&u=06f41957be824ec8f87629f375c8c72f438749aa&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-12T10:08:33Z"
+  },
+  {
+    "login": "librioom2",
+    "name": "Volodymyr Oleksandrov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151371384?s=72&u=55e2121174f05b7a528471acd65fc1a0344a213b&v=4",
+    "location": "Odesa Ukrain",
+    "company": "Librioom",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2023-11-18T11:29:11Z"
+  },
+  {
+    "login": "SametoiMax",
+    "name": "MAKSIM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131968488?s=72&u=1f38084615b93dae3db43a551799aac57e309c2a&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-04-27T10:59:43Z"
+  },
+  {
+    "login": "artemklebus",
+    "name": "Tema",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142140832?s=72&u=cd2912c64d6c38f04da003afbd1dc0bf832886ca&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2023-08-13T07:17:39Z"
+  },
+  {
+    "login": "andriihyndych",
+    "name": "Andrii Hyndych",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137236980?s=72&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 166,
+    "publicContributions": 5,
+    "createdAt": "2023-06-21T00:01:31Z"
+  },
+  {
+    "login": "veronikaalokhina",
+    "name": "Veronika",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152214351?s=72&u=d243d2121d5d832c678aec2c63d4f5a83933a8b4&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-27T19:00:46Z"
+  },
+  {
+    "login": "MiraMadani",
+    "name": "Mira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122649290?s=72&u=a1d50aa6b220b45ddc6a75def6d475ea250f5756&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2023-01-13T22:15:42Z"
   }
 ]
