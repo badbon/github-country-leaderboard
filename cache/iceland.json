@@ -9646,5 +9646,113 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2015-04-24T21:08:02Z"
+  },
+  {
+    "login": "ragnaro89",
+    "name": "Ragnar Örn Ólafsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11281274?s=72&u=8f68f5a460e14cf419dfe86dce1b724e75be4358&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-02T22:34:56Z"
+  },
+  {
+    "login": "sigurdurb",
+    "name": "sigurdurb",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10588202?s=72&u=f4a235a2c163d3f9a2e93b8ad8df902cd3b8afd5&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 6,
+    "publicContributions": 0,
+    "createdAt": "2015-01-18T21:47:10Z"
+  },
+  {
+    "login": "enadeau",
+    "name": "Émile Nadeau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12940089?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2015-06-17T17:29:37Z"
+  },
+  {
+    "login": "axelthorstein",
+    "name": "Axel Thor Steingrimsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12258436?s=72&u=bafcbdd8cbd48c419fc876525bf7a5dd525a3049&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 8,
+    "publicContributions": 0,
+    "createdAt": "2015-05-05T17:12:38Z"
+  },
+  {
+    "login": "adambjorgvins",
+    "name": "Adam Bæhrenz Björgvinsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11388084?s=72&u=ef6e46db5f62a461919b9710bbecab88fabd22e8&v=4",
+    "location": "Reykjavik",
+    "company": "50skills",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 293,
+    "publicContributions": 3,
+    "createdAt": "2015-03-09T10:28:49Z"
+  },
+  {
+    "login": "leonardbf",
+    "name": "Leonard Francis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13352631?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "Greenqloud",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-15T16:02:22Z"
+  },
+  {
+    "login": "arnarpalsson",
+    "name": "Arnar Palsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16099202?s=72&u=f31326b608affc860265e1c30837153eefa361f2&v=4",
+    "location": "Reykjavik",
+    "company": "University of Iceland",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-01T11:01:46Z"
+  },
+  {
+    "login": "kolbeinn",
+    "name": "Kolbeinn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10789086?s=72&u=7c329178f0fab3bd917311d8d44dc71f027cc12e&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 886,
+    "publicContributions": 2,
+    "createdAt": "2015-01-31T18:46:59Z"
+  },
+  {
+    "login": "aslaugran",
+    "name": "Ása Einarsdóttir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10955637?s=72&u=871869a71701e13170d0c7856b851aad4b8b6da4&v=4",
+    "location": "Reykjavik / Cape Town",
+    "company": "Freelance ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-11T08:49:22Z"
   }
 ]

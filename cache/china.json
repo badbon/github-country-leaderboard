@@ -61354,5 +61354,29 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2018-11-03T01:16:08Z"
+  },
+  {
+    "login": "qingyiwebt",
+    "name": "CheeseQingyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42484761?s=72&u=b0a7881c3b32d68c81334465c28e0b1c14af89fd&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 42,
+    "privateContributions": 136,
+    "publicContributions": 290,
+    "createdAt": "2018-08-18T02:58:36Z"
+  },
+  {
+    "login": "iredmail",
+    "name": "iRedMail",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2048991?s=72&u=32ed41e515b63cd5e47327f51d1672271ef8dfc3&v=4",
+    "location": "China, Slovenia",
+    "company": "iRedMail",
+    "twitterUsername": "iredmail",
+    "followers": 499,
+    "privateContributions": 2686,
+    "publicContributions": 536,
+    "createdAt": "2012-07-26T22:45:43Z"
   }
 ]

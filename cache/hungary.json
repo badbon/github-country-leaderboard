@@ -69706,5 +69706,53 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2017-06-23T09:33:22Z"
+  },
+  {
+    "login": "kvzsolt",
+    "name": "Zsolt Kovács",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32572393?s=72&v=4",
+    "location": "Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1412,
+    "createdAt": "2017-10-06T13:17:23Z"
+  },
+  {
+    "login": "korbei",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30519349?s=72&u=77a622a638d2c778e257be9109cac24018ee6b20&v=4",
+    "location": "Budapest, Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 31,
+    "publicContributions": 27,
+    "createdAt": "2017-07-28T06:24:33Z"
+  },
+  {
+    "login": "AlteredCarrot71",
+    "name": "Szabo Gabor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33890331?s=72&u=bb04daa97859b433c2fc23ce05201a68fc98612f&v=4",
+    "location": "Budapest, Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-22T06:51:38Z"
+  },
+  {
+    "login": "RolandBende",
+    "name": "Roland Bende",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31572281?s=72&u=328580cd430b65118f23e9c380f20371630064c1&v=4",
+    "location": "Budapest, Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 858,
+    "publicContributions": 12,
+    "createdAt": "2017-09-02T17:15:31Z"
   }
 ]

@@ -15934,5 +15934,41 @@
     "privateContributions": 0,
     "publicContributions": 80,
     "createdAt": "2016-08-02T01:11:42Z"
+  },
+  {
+    "login": "codeabilitynet",
+    "name": "Paul G.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19780047?s=72&v=4",
+    "location": "Luxembourg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-06-06T14:41:08Z"
+  },
+  {
+    "login": "shivamahuja",
+    "name": "Shivam Ahuja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17032790?s=72&u=5cef5f09e788e2824b45aecb78fc45df1de57d05&v=4",
+    "location": "Luxembourg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-02T19:45:35Z"
+  },
+  {
+    "login": "ncittm",
+    "name": "Nils Christian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18048364?s=72&v=4",
+    "location": "Luxembourg",
+    "company": "ITTM S.A.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2016-03-24T09:42:40Z"
   }
 ]

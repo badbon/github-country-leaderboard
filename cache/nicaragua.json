@@ -16762,5 +16762,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-08-27T02:40:22Z"
+  },
+  {
+    "login": "fitoria",
+    "name": "Adolfo Fitoria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9713?s=72&u=4351488aeab191e6353eff4525f2b7474cd09ea8&v=4",
+    "location": "Mangua, Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 143,
+    "privateContributions": 417,
+    "publicContributions": 32,
+    "createdAt": "2008-05-08T16:46:16Z"
+  },
+  {
+    "login": "josernestodavila",
+    "name": "Jose Davila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39853?s=72&u=a2480d0632f1bac238e92f38e9352a09d8f81d46&v=4",
+    "location": "Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 1229,
+    "publicContributions": 48,
+    "createdAt": "2008-12-11T16:32:46Z"
+  },
+  {
+    "login": "jms",
+    "name": "Jeronimo Martinez Sanchez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22042?s=72&u=d296bd5e60e046700dc1b439065a7d8c55d27c02&v=4",
+    "location": "Managua, Nicaragua",
+    "company": "",
+    "twitterUsername": "rz0r",
+    "followers": 12,
+    "privateContributions": 273,
+    "publicContributions": 11,
+    "createdAt": "2008-08-26T14:31:27Z"
   }
 ]

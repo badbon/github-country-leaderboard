@@ -26206,5 +26206,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-03-09T22:12:36Z"
+  },
+  {
+    "login": "eliclirighti",
+    "name": "Toni Rhodes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12467398?s=72&v=4",
+    "location": "Lake Michaelburgh, Kyrgyz Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 135,
+    "createdAt": "2015-05-16T00:10:02Z"
+  },
+  {
+    "login": "KozhonazarRysbaev",
+    "name": "Kozhonazar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14059498?s=72&u=f20a45286163bf6c347d68d6611e7a25df587acd&v=4",
+    "location": "Bishkek, Kyrgyz Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 262,
+    "publicContributions": 4,
+    "createdAt": "2015-08-31T17:44:37Z"
   }
 ]
