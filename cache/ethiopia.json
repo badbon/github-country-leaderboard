@@ -55795,7 +55795,7 @@
     "company": "",
     "twitterUsername": "amanshumi",
     "followers": 1,
-    "privateContributions": 583,
+    "privateContributions": 587,
     "publicContributions": 256,
     "createdAt": "2021-08-26T15:10:31Z"
   },
@@ -55975,7 +55975,7 @@
     "company": "",
     "twitterUsername": "AminuNermin",
     "followers": 1,
-    "privateContributions": 148,
+    "privateContributions": 151,
     "publicContributions": 0,
     "createdAt": "2021-02-18T08:42:44Z"
   },
@@ -58102,5 +58102,101 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-05-27T19:13:42Z"
+  },
+  {
+    "login": "meslody",
+    "name": "Mesfin Lodamo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80590088?s=72&u=a1c9494b5dfd08ece55b20f00c639c6dc16007c5&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-13T15:14:34Z"
+  },
+  {
+    "login": "michelteshome",
+    "name": "Michael T.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92366521?s=72&u=75a2a1c2194d672b7356148ffcf1cfce62a6a49d&v=4",
+    "location": "Addis Ababa ",
+    "company": "",
+    "twitterUsername": "michelteshome",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-12T09:22:28Z"
+  },
+  {
+    "login": "seblesw",
+    "name": "Seble Sefineh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94644247?s=72&u=f336db6740862f99cbe12c62de7d76bfbb99e840&v=4",
+    "location": "Addis Ababa",
+    "company": "Hulu Labs Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2021-11-18T19:40:25Z"
+  },
+  {
+    "login": "J0-Y0",
+    "name": "Yosef Emyayu ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94130968?s=72&u=f874adc31dee96a9e03dac789f158e02ece4049c&v=4",
+    "location": "Addis Ababa ",
+    "company": "JanByte",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 376,
+    "publicContributions": 23,
+    "createdAt": "2021-11-11T16:53:17Z"
+  },
+  {
+    "login": "Getenet2012",
+    "name": "Getenet Zigale ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92309189?s=72&u=cb7600c39d8962ea8136c4b75c96a46e99f03772&v=4",
+    "location": "Addis Ababa",
+    "company": "Ethiopian Construction Works Corporation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-10-11T11:38:48Z"
+  },
+  {
+    "login": "Bilisa-Kumera",
+    "name": "Bilisa Kumera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83477146?s=72&u=c1049bdc8c82ff3f8854d2de6663686ee3bc81dc&v=4",
+    "location": "Addis Ababa",
+    "company": "AfriDatai",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 356,
+    "publicContributions": 46,
+    "createdAt": "2021-04-30T21:20:06Z"
+  },
+  {
+    "login": "mekdes-112",
+    "name": "Mekdes Eshetu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85848159?s=72&u=23aa7d61c16338959394031e49c832c26fc58143&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-13T20:30:34Z"
+  },
+  {
+    "login": "Birhanus",
+    "name": "Birhanu Shimles",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88324419?s=72&u=201aae5d94f93e60cbc2ec4104b046a6075bd0c7&v=4",
+    "location": "Addis Ababa ",
+    "company": "",
+    "twitterUsername": "BIre716",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-02T11:50:28Z"
   }
 ]

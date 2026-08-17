@@ -2182,5 +2182,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-06-04T14:28:48Z"
+  },
+  {
+    "login": "vega-holdings",
+    "name": "Vega",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7773260?s=72&u=bc6078fa51b7ba1b23a17ae5068ca6940a4fa5d6&v=4",
+    "location": "Pyongyang",
+    "company": "CGIC",
+    "twitterUsername": "vega_holdings",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 140,
+    "createdAt": "2014-06-02T20:42:53Z"
+  },
+  {
+    "login": "brianrwillis",
+    "name": "Brian Willis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6754190?s=72&u=053e01eee80e99876d44bf68220119200c06151b&v=4",
+    "location": "pyongyang, NK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-02-22T05:42:45Z"
   }
 ]

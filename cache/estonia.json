@@ -37795,7 +37795,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 283,
+    "privateContributions": 284,
     "publicContributions": 2,
     "createdAt": "2015-06-19T18:05:17Z"
   },
@@ -37915,7 +37915,7 @@
     "company": "AdLabs",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3029,
+    "privateContributions": 3030,
     "publicContributions": 0,
     "createdAt": "2015-10-30T09:58:09Z"
   },
@@ -38890,5 +38890,53 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2015-02-03T10:58:43Z"
+  },
+  {
+    "login": "sk1talets",
+    "name": "Valeriy Kassenbayev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10619495?s=72&u=555ca9b7d52da2640193ddf57e4ff9eaf6e32182&v=4",
+    "location": "Tallinn",
+    "company": "Pipedrive",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2727,
+    "publicContributions": 0,
+    "createdAt": "2015-01-20T19:04:14Z"
+  },
+  {
+    "login": "ebarrier",
+    "name": "Etienne Barrier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14925120?s=72&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2015-10-01T13:10:49Z"
+  },
+  {
+    "login": "BrendaUga",
+    "name": "Brenda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11429369?s=72&u=755db1a2c87e98194135e035ab3c7665c612a14a&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 129,
+    "publicContributions": 2,
+    "createdAt": "2015-03-11T18:52:48Z"
+  },
+  {
+    "login": "jakopriit",
+    "name": "jako",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15230617?s=72&u=370f5e7e0e6f88f850f4e229da805f1feaa05534&v=4",
+    "location": "Tallinn",
+    "company": "RIT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-10-21T11:51:00Z"
   }
 ]

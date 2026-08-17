@@ -41371,8 +41371,8 @@
     "company": "@quenchworks, @withrawi,@IbdaaiCloud, @qawnapp, @cirrusgo",
     "twitterUsername": "",
     "followers": 92,
-    "privateContributions": 1026,
-    "publicContributions": 2809,
+    "privateContributions": 1902,
+    "publicContributions": 1938,
     "createdAt": "2016-04-18T21:32:11Z"
   },
   {
@@ -42079,7 +42079,7 @@
     "company": "@codeobia",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 697,
+    "privateContributions": 698,
     "publicContributions": 3,
     "createdAt": "2016-08-10T07:06:26Z"
   },
@@ -42898,5 +42898,137 @@
     "privateContributions": 0,
     "publicContributions": 161,
     "createdAt": "2016-02-06T21:19:55Z"
+  },
+  {
+    "login": "mr-islam",
+    "name": "Naved Islam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17675428?s=72&u=1d124b8ce6274336999d53f44f31e009c67b8098&v=4",
+    "location": "Amman",
+    "company": "@sufone",
+    "twitterUsername": "",
+    "followers": 73,
+    "privateContributions": 51,
+    "publicContributions": 24,
+    "createdAt": "2016-03-05T16:02:37Z"
+  },
+  {
+    "login": "Salomari1987",
+    "name": "Salah Alomari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19625384?s=72&u=13bd64cdf82079545c6125a5ee50a36f95fd0036&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-28T16:08:52Z"
+  },
+  {
+    "login": "Asami1997",
+    "name": "Ahmad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22086266?s=72&u=238a5ca49848e54009eaba70bb1c52e7b169066e&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-08T21:49:43Z"
+  },
+  {
+    "login": "QusayBwayzeh",
+    "name": "Qusay Albwayzeh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17376249?s=72&u=dc4edf4fa203630fc8720c9fcb7043cf24f65eca&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2016-02-21T07:37:12Z"
+  },
+  {
+    "login": "ealbashesh",
+    "name": "Emad Al Bashesh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24622144?s=72&u=bf9226f20338bec5241432c3e731cb5c231673fd&v=4",
+    "location": "Amman",
+    "company": "RBK",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-17T13:07:29Z"
+  },
+  {
+    "login": "RuaaBaniNamerh",
+    "name": "Rua'a Bani-namerh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24622251?s=72&u=f4182349316fb6fe9ce31c125c15478884b4c3d0&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-17T13:16:04Z"
+  },
+  {
+    "login": "FairouzFayez",
+    "name": "Fairouz AlFawaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18076215?s=72&u=4c30f98477af0a61d780943e44e0563a082bdc25&v=4",
+    "location": "Amman",
+    "company": "Semantic intelligence technology ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-25T19:47:23Z"
+  },
+  {
+    "login": "ENGMENJARI",
+    "name": "Muhammad Enjari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24622038?s=72&u=d6890a7c2e2c06cdc663a4383f4db388c6ce148c&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-17T12:59:16Z"
+  },
+  {
+    "login": "anasaljbour",
+    "name": "Anas Al.Jbour",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19465572?s=72&u=55cf9e3963be1f28b6f0a071027a9df19be5c1fb&v=4",
+    "location": "Amman",
+    "company": "@aspire-jo ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-19T08:33:07Z"
+  },
+  {
+    "login": "raniaabdullah",
+    "name": "rania alharthi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19005560?s=72&v=4",
+    "location": "Jeddah-Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-01T18:02:35Z"
+  },
+  {
+    "login": "naisanhamza88",
+    "name": "Hamza Abdullah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18578930?s=72&u=d812d84ba98f65f8bfad2943fd22d79fa0b4ff71&v=4",
+    "location": "Amman ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-20T16:28:30Z"
   }
 ]

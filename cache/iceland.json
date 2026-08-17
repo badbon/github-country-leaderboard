@@ -14242,5 +14242,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-06-27T18:43:55Z"
+  },
+  {
+    "login": "ofurbiggi",
+    "name": "Birgir Þór Harðarson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5731490?s=72&v=4",
+    "location": "Iceland",
+    "company": "RÚV",
+    "twitterUsername": "ofurbiggi",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2013-10-20T17:07:40Z"
+  },
+  {
+    "login": "stefna-valur",
+    "name": "Valur Hauksson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3601285?s=72&u=4c73bf803f02c3a49ec861f91d73ba8c178fe1f7&v=4",
+    "location": "Iceland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-15T09:53:43Z"
+  },
+  {
+    "login": "joningiwork",
+    "name": "Jón Ingi Sveinbjörnsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6115148?s=72&u=1189397615dae815dd9aa9d2bbb8185fd9bdfb83&v=4",
+    "location": "Iceland",
+    "company": "Azazo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-05T15:01:37Z"
   }
 ]

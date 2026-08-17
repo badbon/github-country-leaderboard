@@ -74638,5 +74638,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-17T12:21:39Z"
+  },
+  {
+    "login": "Fer-Mig-Agus",
+    "name": "Miguel Fernandez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98432911?s=72&u=618185e41e46c02f9162d7731d3aa7318fb7edee&v=4",
+    "location": "Santiago del Estero, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 602,
+    "publicContributions": 107,
+    "createdAt": "2022-01-25T23:13:43Z"
+  },
+  {
+    "login": "Alejandrovsdev",
+    "name": "Alejandro Suarez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112131333?s=72&u=9c591fe2cbed80f3ec23ea892d76f7d5abd7475c&v=4",
+    "location": "Argentina, Santiago del Estero.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 593,
+    "publicContributions": 1,
+    "createdAt": "2022-08-25T22:10:03Z"
+  },
+  {
+    "login": "ramigalvan",
+    "name": "ramiro galvan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109113707?s=72&u=07aee6c775d28f523c68fa23f47d8c3cddac31e4&v=4",
+    "location": "Santiago del Estero, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 2,
+    "publicContributions": 108,
+    "createdAt": "2022-07-11T22:30:37Z"
   }
 ]
