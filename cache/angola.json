@@ -29998,5 +29998,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-11-28T13:24:42Z"
+  },
+  {
+    "login": "figassis",
+    "name": "Assis Ngolo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/982641?s=72&v=4",
+    "location": "Luanda, Angola",
+    "company": "Nellcorp",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 5349,
+    "publicContributions": 107,
+    "createdAt": "2011-08-16T04:24:04Z"
+  },
+  {
+    "login": "kalilmvp",
+    "name": "Kalil Peixoto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1149085?s=72&u=de31b8652017e4751e788d3c90e18a78e33f886a&v=4",
+    "location": "Luanda - Angola",
+    "company": "Jupiter Systems and Solutions",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-24T19:27:00Z"
+  },
+  {
+    "login": "seckt0r",
+    "name": "Benone Marcos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1292145?s=72&u=42803ebf5923c5564edd99e892e37f5991da3479&v=4",
+    "location": "Luanda, Angola",
+    "company": "MRC",
+    "twitterUsername": "benone",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 174,
+    "createdAt": "2011-12-29T09:25:01Z"
+  },
+  {
+    "login": "BrunoAmaro",
+    "name": "Bruno Amaro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/930438?s=72&v=4",
+    "location": "Lubango, Huíla, Angola",
+    "company": "",
+    "twitterUsername": "BrunoSpacePD",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-07-21T14:57:00Z"
+  },
+  {
+    "login": "claudioji",
+    "name": "Claudio Jose Iombo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/719884?s=72&u=12c576d38814a62fb23912314a34cddc69b98b81&v=4",
+    "location": "Luanda, Angola",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-09T23:15:06Z"
   }
 ]

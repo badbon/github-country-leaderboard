@@ -63814,5 +63814,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-04-15T22:15:56Z"
+  },
+  {
+    "login": "mdbekkouche",
+    "name": "Mohammed BEKKOUCHE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19471907?s=72&v=4",
+    "location": "Sidi Bel Abbès, Algérie",
+    "company": "École Supérieure en Informatique de Sidi Bel Abbès",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 80,
+    "createdAt": "2016-05-19T13:04:38Z"
+  },
+  {
+    "login": "massoxi",
+    "name": "Menezes Estanislau Massoxi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23125266?s=72&u=4b658f25bf794ce28e0c56b06829dc653a3e0abc&v=4",
+    "location": "Bir El Djir, Oran, Algérie",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-28T16:53:05Z"
+  },
+  {
+    "login": "tim-bad",
+    "name": "ITIM Mohamed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20169844?s=72&u=f665d33855de330a5ebed0a9bf912f075b90c4c8&v=4",
+    "location": "California, Algérie",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-27T15:17:32Z"
+  },
+  {
+    "login": "billelHachemi",
+    "name": "Hachemi Bilel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18572098?s=72&u=7fc2e1befd411b63e21b9c67d08e9ae0f5772b67&v=4",
+    "location": "Algérie",
+    "company": "Rafikom",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-04-20T10:00:58Z"
   }
 ]
