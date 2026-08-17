@@ -10438,5 +10438,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-11-02T01:06:06Z"
+  },
+  {
+    "login": "augustoproiete",
+    "name": "Augusto Proiete",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177608?s=72&u=0d2d8f72112c764289b6317983368a340088a9f6&v=4",
+    "location": "Bermuda",
+    "company": "@architect-co",
+    "twitterUsername": "augustoproiete",
+    "followers": 326,
+    "privateContributions": 29,
+    "publicContributions": 32,
+    "createdAt": "2010-01-06T20:37:56Z"
+  },
+  {
+    "login": "gchiaramonte",
+    "name": "Gene Chiaramonte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/416412?s=72&u=83e0fb3b1cb22b96a2814b5cabcd8af413b21db8&v=4",
+    "location": "Bermuda",
+    "company": "Complexus Ltd.",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-26T13:33:02Z"
+  },
+  {
+    "login": "calshana",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/316867?s=72&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-28T21:49:53Z"
   }
 ]

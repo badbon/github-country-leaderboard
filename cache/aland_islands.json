@@ -634,5 +634,41 @@
     "privateContributions": 3963,
     "publicContributions": 118,
     "createdAt": "2011-05-17T09:55:28Z"
+  },
+  {
+    "login": "jesjos",
+    "name": "Jesper Josefsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281758?s=72&u=50666a94415fc9b783688d1a281e017f175f3794&v=4",
+    "location": "Mariehamn, Åland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2010-05-19T20:40:52Z"
+  },
+  {
+    "login": "lokkilok",
+    "name": "Robert Aarts",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/515862?s=72&u=eaa4028feae1633d9b0c375b1c409aae9b0a4115&v=4",
+    "location": "Mariehamn, Åland",
+    "company": "Lokkilok",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-09T07:04:29Z"
+  },
+  {
+    "login": "atiriri",
+    "name": "Daniel Löfström",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/496365?s=72&v=4",
+    "location": "Mariehamn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-25T11:46:54Z"
   }
 ]

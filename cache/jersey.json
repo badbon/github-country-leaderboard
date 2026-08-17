@@ -610,5 +610,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-10-15T21:35:24Z"
+  },
+  {
+    "login": "kalimukti",
+    "name": "Simon De La Haye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29547864?s=72&u=4fc6fb8c7904dc9fe83295f02112efb0f9219429&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-06-19T15:49:00Z"
+  },
+  {
+    "login": "SirElTomato",
+    "name": "Tom Andrews",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25449039?s=72&u=b2d1f3948ed7f274ea7557315554d00220c47945&v=4",
+    "location": "Jersey",
+    "company": "Revoke",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2017-01-31T04:58:05Z"
   }
 ]

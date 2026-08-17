@@ -67882,5 +67882,29 @@
     "privateContributions": 0,
     "publicContributions": 170,
     "createdAt": "2014-10-17T03:10:29Z"
+  },
+  {
+    "login": "Melones5",
+    "name": "Alexis Joel Santos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32208091?s=72&u=1ef22308000ee40cff35f81dcde5ba82eb8f8fef&v=4",
+    "location": "Concepción del Uruguay, Entre Ríos, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-22T20:50:43Z"
+  },
+  {
+    "login": "jorgedelfino",
+    "name": "Jorge Delfino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31384605?s=72&u=4f116d93f6cecf1d6e3454a7d586525bbd3b70a4&v=4",
+    "location": "Concepcion del Uruguay, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2017-08-27T10:58:27Z"
   }
 ]

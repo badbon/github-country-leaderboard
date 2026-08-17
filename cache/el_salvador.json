@@ -28582,5 +28582,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-12-09T14:57:25Z"
+  },
+  {
+    "login": "OskrNav",
+    "name": "Oscar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/274647?s=72&v=4",
+    "location": "San Salvador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-12T17:12:47Z"
+  },
+  {
+    "login": "cloudjas",
+    "name": "Jorge Santamaria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/501992?s=72&u=6908ee2fd3afa7b4b00bcac226886f4bc7cd3fb8&v=4",
+    "location": "San Salvador",
+    "company": "@citent GW Apps",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2010-11-29T15:37:01Z"
   }
 ]

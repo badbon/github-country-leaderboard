@@ -1400,7 +1400,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 142,
+    "publicContributions": 143,
     "createdAt": "2014-03-27T09:26:49Z"
   },
   {
@@ -2290,5 +2290,53 @@
     "privateContributions": 58,
     "publicContributions": 0,
     "createdAt": "2014-02-23T23:24:01Z"
+  },
+  {
+    "login": "jimmitry",
+    "name": "Jimmitry Payet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6836116?s=72&u=0c1df58dda45b4906b224369470de974e4d4e229&v=4",
+    "location": "Reunion Island",
+    "company": "Innov-AI",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-03T05:13:41Z"
+  },
+  {
+    "login": "drimov",
+    "name": "Dimitri L",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7766411?s=72&u=9da437c72371d1069d9878d37bdf52ddaa0f59f9&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "Drimov",
+    "followers": 3,
+    "privateContributions": 359,
+    "publicContributions": 0,
+    "createdAt": "2014-06-02T09:35:46Z"
+  },
+  {
+    "login": "loperamidetv",
+    "name": "Rodolphe BIGOT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7094623?s=72&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 118,
+    "createdAt": "2014-03-28T17:26:55Z"
+  },
+  {
+    "login": "dataprisme",
+    "name": "Data Prisme",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10220980?s=72&v=4",
+    "location": "Reunion Island",
+    "company": "DATA PRISME",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-17T12:58:15Z"
   }
 ]

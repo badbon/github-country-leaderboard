@@ -1114,5 +1114,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-06-28T05:06:49Z"
+  },
+  {
+    "login": "mitchkun",
+    "name": "Mitchell Dube",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19870627?s=72&u=2ce037f8c9324e9325c381e25bd4ea60f41d42d4&v=4",
+    "location": "Mbabane, Swaziland",
+    "company": "Lurking ",
+    "twitterUsername": "o_Omitch_kun",
+    "followers": 10,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2016-06-11T08:42:50Z"
+  },
+  {
+    "login": "rapthar",
+    "name": "Mncedisi Bhembe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20539687?s=72&u=e8c0004c508ad94e29c95703ea0f5dfd16e73345&v=4",
+    "location": "Swaziland",
+    "company": "Flash Coded",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 16981,
+    "publicContributions": 8,
+    "createdAt": "2016-07-19T14:06:41Z"
+  },
+  {
+    "login": "malondi920",
+    "name": "Pamela Nhlengethwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16819188?s=72&v=4",
+    "location": "Swaziland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-21T13:50:24Z"
+  },
+  {
+    "login": "playwords",
+    "name": "playwords",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19568719?s=72&u=dd02db5037d92b16f6cb92017c3a2c447199363b&v=4",
+    "location": "Mbabane, Swaziland",
+    "company": "Westars",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-25T09:22:56Z"
   }
 ]

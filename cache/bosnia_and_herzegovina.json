@@ -25078,5 +25078,41 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2011-12-22T10:19:09Z"
+  },
+  {
+    "login": "dzona",
+    "name": "Nikola Radovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1159689?s=72&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "Singularity",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-29T15:23:13Z"
+  },
+  {
+    "login": "dysk0",
+    "name": "Dusko Angirevic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1282919?s=72&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2011-12-23T22:02:15Z"
+  },
+  {
+    "login": "toni-rmc",
+    "name": "Toni Romic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1151177?s=72&u=4de3ddd82163b0f06bfa0fdb4058a40c8650a238&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2011-10-25T16:30:55Z"
   }
 ]

@@ -61282,5 +61282,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-04T09:49:45Z"
+  },
+  {
+    "login": "LuciooF",
+    "name": "Luciano Fraschini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30655552?s=72&u=898855c9ab3a7070776b5f5b97c4c5fa4e45d88f&v=4",
+    "location": "UK / Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 592,
+    "publicContributions": 6,
+    "createdAt": "2017-08-02T10:49:59Z"
+  },
+  {
+    "login": "skillerious",
+    "name": "Robin Doak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61377980?s=72&u=425d2cf24112549422ae868814c92e2c66175011&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "Skillerious",
+    "followers": 84,
+    "privateContributions": 27,
+    "publicContributions": 529,
+    "createdAt": "2020-02-23T10:50:38Z"
+  },
+  {
+    "login": "Mr-man7352",
+    "name": "Manish Sahu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64074501?s=72&u=574efcbea26d18424769d4cd1e18861359552c89&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "Mr_Man7352",
+    "followers": 36,
+    "privateContributions": 150,
+    "publicContributions": 135,
+    "createdAt": "2020-04-21T10:11:54Z"
+  },
+  {
+    "login": "SurfingElectron",
+    "name": "Emma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64714474?s=72&u=9830676333958717b027a5fc16675175d0a233b5&v=4",
+    "location": "Country Tyrone, Northern Ireland, UK",
+    "company": "Cybersecurity",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-03T00:28:32Z"
+  },
+  {
+    "login": "flossybap",
+    "name": "Dr Felicity Lamrock",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59570717?s=72&u=81cdacded18dba6a4a3399a216b55d8656c5f396&v=4",
+    "location": "Northern Ireland",
+    "company": "Queen's University Belfast",
+    "twitterUsername": "flossybap",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-06T15:13:18Z"
+  },
+  {
+    "login": "KpLBaTMaN",
+    "name": "Andrew Brown",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67510482?s=72&u=46257552bd05f697f87aa8b66a52e0bdfbd12de9&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "Queen's University Belfast",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-27T14:10:19Z"
   }
 ]
