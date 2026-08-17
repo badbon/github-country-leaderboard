@@ -44563,7 +44563,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 962,
+    "privateContributions": 964,
     "publicContributions": 0,
     "createdAt": "2015-02-13T10:57:19Z"
   },
@@ -45646,5 +45646,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-11-05T15:49:27Z"
+  },
+  {
+    "login": "VatroslavSrzic",
+    "name": "Vatroslav Srzić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14947398?s=72&u=b7719438b400463cb8f12b2f6001ed7a440733fe&v=4",
+    "location": "Zagreb",
+    "company": "http://www.ips-energy.com/",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-10-02T22:04:43Z"
+  },
+  {
+    "login": "boromire",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11196851?s=72&u=5037f75faedcaf13425839fa395f093e7f6dd5c2&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-25T17:02:18Z"
+  },
+  {
+    "login": "bbacko",
+    "name": "Hrvoje",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12776048?s=72&u=cfdd1edba76689b2d173158d82eb9d5f46cf760f&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-06T15:07:04Z"
+  },
+  {
+    "login": "domjanbaric",
+    "name": "Domjan Baric",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16407156?s=72&u=730dc8b9fca9397a3de5c16c39f3e3fa29b9faa6&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2015-12-22T23:17:18Z"
   }
 ]

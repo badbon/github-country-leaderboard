@@ -10918,5 +10918,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-08-10T08:47:54Z"
+  },
+  {
+    "login": "adriand",
+    "name": "Adrian Duyzer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25377?s=72&u=026c2a1385002fcd9f2b918959509f9cae1c60fa&v=4",
+    "location": "Hamilton, Ontario",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 3555,
+    "publicContributions": 148,
+    "createdAt": "2008-09-19T15:32:52Z"
+  },
+  {
+    "login": "SeanRoberts",
+    "name": "Sean Roberts",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25376?s=72&u=d0a049653cb9f13363b9ad5b170fa5c3dff264f3&v=4",
+    "location": "Hamilton, Ontario",
+    "company": "",
+    "twitterUsername": "sean_j_roberts",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2008-09-19T15:32:40Z"
+  },
+  {
+    "login": "rbriank",
+    "name": "Brian Kierstead",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24258?s=72&v=4",
+    "location": "Hamilton, ON",
+    "company": "Kierstead Consulting, Inc.",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2008-09-12T04:01:18Z"
+  },
+  {
+    "login": "Rendered79",
+    "name": "Heath Wagner",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21209?s=72&u=2d2987e323ed94cb832baf2591aaeb6d117e4f20&v=4",
+    "location": "Hamilton, OH",
+    "company": "HJWLabs",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-08-20T04:45:18Z"
+  },
+  {
+    "login": "nbezzala",
+    "name": "Nitish Bezzala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3871?s=72&v=4",
+    "location": "Hamilton",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2008-03-26T04:37:50Z"
+  },
+  {
+    "login": "mlessard",
+    "name": "Mark",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21893?s=72&u=268a07bbce93e2117f5c1c5c4676dc3786a397c2&v=4",
+    "location": "Hamilton, Ontario",
+    "company": "Postmedia",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-08-25T15:01:20Z"
+  },
+  {
+    "login": "sshefer",
+    "name": "Shai Shefer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7943?s=72&v=4",
+    "location": "Hamilton, NJ",
+    "company": "Salvona",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-04-19T19:41:18Z"
+  },
+  {
+    "login": "byrnejb",
+    "name": "James B. Byrne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37126?s=72&u=6f0290f28e04f2166a1c2e78b6d4e59e14378b49&v=4",
+    "location": "Hamilton, Ontario",
+    "company": "Harte & Lyne Limited",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-11-28T16:09:04Z"
   }
 ]

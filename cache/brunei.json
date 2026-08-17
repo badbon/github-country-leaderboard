@@ -3034,5 +3034,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-02-22T08:49:40Z"
+  },
+  {
+    "login": "bahit",
+    "name": "Bahit Hamid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/508511?s=72&v=4",
+    "location": "Brunei",
+    "company": "Bahit Designs",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2010-12-03T20:20:21Z"
+  },
+  {
+    "login": "mfirdaus",
+    "name": "Firdaus Zailani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298580?s=72&u=12cadbdb9d491f319c935a45b342b132529f1da2&v=4",
+    "location": "Brunei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-07T08:17:54Z"
   }
 ]
