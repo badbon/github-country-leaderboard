@@ -12871,7 +12871,7 @@
     "company": "",
     "twitterUsername": "klintmane",
     "followers": 17,
-    "privateContributions": 895,
+    "privateContributions": 897,
     "publicContributions": 0,
     "createdAt": "2014-10-21T15:37:16Z"
   },
@@ -13306,5 +13306,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-12T22:21:07Z"
+  },
+  {
+    "login": "erioncuni85",
+    "name": "Erion Cuni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9958921?s=72&u=80bb61a9f955536d2197b2e8a538de3619c11d5c&v=4",
+    "location": "Tirana",
+    "company": "Almotech",
+    "twitterUsername": "erioncuni",
+    "followers": 15,
+    "privateContributions": 1148,
+    "publicContributions": 1,
+    "createdAt": "2014-11-26T07:02:08Z"
+  },
+  {
+    "login": "GorianDriza",
+    "name": "Gorian Driza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6632644?s=72&u=9071c2af83d6ac8acab80c1749cc05525b37921e&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 254,
+    "publicContributions": 134,
+    "createdAt": "2014-02-09T19:03:09Z"
+  },
+  {
+    "login": "mirjan1gjeta",
+    "name": "Mirjan Gjeta ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6728687?s=72&v=4",
+    "location": "Tirana",
+    "company": "3i-solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-19T16:00:46Z"
   }
 ]

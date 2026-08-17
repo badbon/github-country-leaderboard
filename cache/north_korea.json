@@ -2050,5 +2050,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-05-02T17:13:50Z"
+  },
+  {
+    "login": "brendan-lee",
+    "name": "Brendan Lee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10712544?s=72&u=960e0977ac841b3106ef49eef4e32e251784ae71&v=4",
+    "location": "Pyongyang, North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 89,
+    "publicContributions": 0,
+    "createdAt": "2015-01-26T17:44:24Z"
+  },
+  {
+    "login": "T1med0ut",
+    "name": "Timedout",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11979927?s=72&u=03445c6f49a6c9a4e5ee966fbc62f74f5dea108c&v=4",
+    "location": "North Korea",
+    "company": "Unemployed",
+    "twitterUsername": "Hashf0und",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2015-04-16T14:22:40Z"
+  },
+  {
+    "login": "AC-Unicorn",
+    "name": "Kim jong-un",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10699892?s=72&u=1bac8374d5b738638471d42eeda9c96ca0310505&v=4",
+    "location": "North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-01-25T21:26:36Z"
+  },
+  {
+    "login": "vistamon82",
+    "name": "vistamon82",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13377663?s=72&u=0897b8cbab1b1c14b696b6e4e0c2dc11aa2b21c9&v=4",
+    "location": "North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-17T07:53:49Z"
+  },
+  {
+    "login": "osxnick",
+    "name": "x",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10702649?s=72&u=123c80e1aa04524415165bee4dfbc8583f8c9a20&v=4",
+    "location": "Pyongyang, North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-26T03:24:02Z"
+  },
+  {
+    "login": "Baerito",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14106782?s=72&u=0abd271b589e7b66e2e0a79ee1ad03cd17de9d82&v=4",
+    "location": "North Korea",
+    "company": "Kim Jong Un's Elite IT Developers",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-03T09:00:02Z"
+  },
+  {
+    "login": "Geistica",
+    "name": "Samuel Senn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13349806?s=72&v=4",
+    "location": "North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-15T12:33:16Z"
   }
 ]

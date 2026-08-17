@@ -51478,5 +51478,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-29T03:12:18Z"
+  },
+  {
+    "login": "cdesp",
+    "name": "Chris Despoinidis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17770120?s=72&v=4",
+    "location": "Macedonia, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2016-03-10T18:52:45Z"
+  },
+  {
+    "login": "nikbam",
+    "name": "Nikos Bampamis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22759513?s=72&u=70eaffe9cd0db5260a878bdef1081c450fa4e05a&v=4",
+    "location": "Greece, Thessaloniki, University of Macedonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-11T02:23:41Z"
   }
 ]
