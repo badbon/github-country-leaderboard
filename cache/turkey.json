@@ -40806,9 +40806,9 @@
     "location": "Istanbul, Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 132,
+    "followers": 133,
     "privateContributions": 29,
-    "publicContributions": 3142,
+    "publicContributions": 3144,
     "createdAt": "2024-05-12T19:33:27Z"
   },
   {
@@ -59084,7 +59084,7 @@
     "twitterUsername": "",
     "followers": 132,
     "privateContributions": 1,
-    "publicContributions": 381,
+    "publicContributions": 384,
     "createdAt": "2024-06-22T07:11:19Z"
   },
   {
@@ -59202,7 +59202,7 @@
     "location": "Istanbul/Türkiye",
     "company": "Spektor Defence",
     "twitterUsername": "",
-    "followers": 81,
+    "followers": 89,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-04T18:27:39Z"
@@ -59286,7 +59286,7 @@
     "location": "Türkiye/İstanbul",
     "company": "",
     "twitterUsername": "",
-    "followers": 64,
+    "followers": 71,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-11T16:34:56Z"
@@ -75394,5 +75394,149 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-16T19:41:20Z"
+  },
+  {
+    "login": "alicankiraz1",
+    "name": "Alican Kiraz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167613664?s=72&u=b026a4e1e1745b10f5afa0f72f963f290531fa9d&v=4",
+    "location": "Istanbul",
+    "company": "Trendyol Group",
+    "twitterUsername": "AlicanKiraz0",
+    "followers": 898,
+    "privateContributions": 0,
+    "publicContributions": 297,
+    "createdAt": "2024-04-20T09:09:30Z"
+  },
+  {
+    "login": "haslan82",
+    "name": "Hüseyin ASLAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159720507?s=72&u=49132df80adc6295877be7a3c9bf138f1d1c395d&v=4",
+    "location": "Beykoz / İSTANBUL",
+    "company": "DİDİYOS",
+    "twitterUsername": "huseyinaslan82",
+    "followers": 409,
+    "privateContributions": 77,
+    "publicContributions": 20,
+    "createdAt": "2024-02-11T18:08:56Z"
+  },
+  {
+    "login": "AlgorithmXplorer",
+    "name": "AlgorithmXplorer ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161677427?s=72&u=e83d5f3c2ecea3bc06b487572197e95c6310bd6e&v=4",
+    "location": "Istanbul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 278,
+    "privateContributions": 112,
+    "publicContributions": 93,
+    "createdAt": "2024-02-29T04:29:00Z"
+  },
+  {
+    "login": "muhammadeidl",
+    "name": "Muhammad Eid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172600274?s=72&u=cc71ebb0e2ca79bc61e50265d865e049c9f08085&v=4",
+    "location": "İstanbul",
+    "company": "Sakarya University",
+    "twitterUsername": "muhammadeidl",
+    "followers": 141,
+    "privateContributions": 0,
+    "publicContributions": 125,
+    "createdAt": "2024-06-13T11:34:50Z"
+  },
+  {
+    "login": "EmineTKN97",
+    "name": "Emine Tekin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156480828?s=72&u=f6542c1feb7f91f3ab1e3e8501e9bebe07323862&v=4",
+    "location": "İstanbul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 117,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-12T22:37:25Z"
+  },
+  {
+    "login": "MoustafaMohamed01",
+    "name": "Moustafa Mohamed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161119254?s=72&u=77dedcd1b0cf457aed77de2e46b1b99f76b88ebd&v=4",
+    "location": "istanbul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 115,
+    "privateContributions": 0,
+    "publicContributions": 229,
+    "createdAt": "2024-02-24T09:04:34Z"
+  },
+  {
+    "login": "efekrbas",
+    "name": "Efe Kırbaş",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161657597?s=72&u=71138a0e2282d09785e55a3baa17877a5240b4a1&v=4",
+    "location": "Istanbul",
+    "company": "Discord: ef337",
+    "twitterUsername": "efekrbs",
+    "followers": 101,
+    "privateContributions": 292,
+    "publicContributions": 4969,
+    "createdAt": "2024-02-28T23:04:43Z"
+  },
+  {
+    "login": "Seldaevren",
+    "name": "Selda Evren",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159720411?s=72&u=1cebe575c619c62d49ccc775266b90ae9d777e6e&v=4",
+    "location": "İstanbul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 95,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-11T18:07:27Z"
+  },
+  {
+    "login": "mehtapatis",
+    "name": "mehtap atış",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155475020?s=72&u=50d3411b6df3e6112a84afc640efad9cee02a13d&v=4",
+    "location": "istanbul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 81,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-02T17:31:55Z"
+  },
+  {
+    "login": "SeldaBayman",
+    "name": "Selda Bayman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163858720?s=72&u=05b7055127786ec8097fb7b8cbf74d720de69d39&v=4",
+    "location": "İstanbul ",
+    "company": "A Plus Hospital",
+    "twitterUsername": "",
+    "followers": 77,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-03-18T12:33:38Z"
+  },
+  {
+    "login": "mertefekurt",
+    "name": "Mert Efe Kurt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161393905?s=72&u=01d57ef58b422f183c1138fff0aa5f9e0d9223c2&v=4",
+    "location": "Istanbul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 71,
+    "privateContributions": 1628,
+    "publicContributions": 1172,
+    "createdAt": "2024-02-26T23:48:10Z"
+  },
+  {
+    "login": "Lanson2232",
+    "name": "Bünyamin Öztürk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46448882?s=72&u=9e47cdbdf99ad9452dd1cd08f2c063bb4c16a7b4&v=4",
+    "location": "Türkiye/Samsun - Austria/Vienna",
+    "company": "@Freelance_Bwoi",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 9,
+    "publicContributions": 4,
+    "createdAt": "2019-01-07T13:53:18Z"
   }
 ]

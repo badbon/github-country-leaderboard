@@ -514,5 +514,53 @@
     "privateContributions": 3368,
     "publicContributions": 56,
     "createdAt": "2011-08-29T19:49:17Z"
+  },
+  {
+    "login": "dwarfland",
+    "name": "marc hoffman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184026?s=72&u=7ce16f04e8afd3834c1470a8e935a9c33b828e13&v=4",
+    "location": "Curaçao",
+    "company": "RemObjects Software",
+    "twitterUsername": "dwarfland",
+    "followers": 63,
+    "privateContributions": 742,
+    "publicContributions": 383,
+    "createdAt": "2010-01-17T13:53:26Z"
+  },
+  {
+    "login": "rascoop",
+    "name": "Richard Scoop",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276458?s=72&u=40bdd99e052bf15eabfaed3e413060ba9e3af5af&v=4",
+    "location": "Curaçao, Dutch Caribbean",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2010-05-14T10:06:22Z"
+  },
+  {
+    "login": "jentanbernardus",
+    "name": "Jentan Bernardus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/416303?s=72&v=4",
+    "location": "Curaçao",
+    "company": "",
+    "twitterUsername": "jentanbernardus",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2010-09-26T10:38:04Z"
+  },
+  {
+    "login": "r3c4ll",
+    "name": "Ali Moreno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/346041?s=72&v=4",
+    "location": "Willemstad, Curaçao.",
+    "company": "XenoTrue N.V.",
+    "twitterUsername": "r3c4ll",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-27T17:32:59Z"
   }
 ]

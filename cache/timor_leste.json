@@ -742,5 +742,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-09-29T09:01:30Z"
+  },
+  {
+    "login": "ajitonelsonn",
+    "name": "Ajito Nelson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24355938?s=72&u=a2e8c7ec6ff41028e88f195d156b7a276b6fa660&v=4",
+    "location": "Timor Leste",
+    "company": "Viettel Timor",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 486,
+    "createdAt": "2016-12-03T14:25:28Z"
+  },
+  {
+    "login": "xfitu",
+    "name": "julio vaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18376569?s=72&u=46cb2443b241f4037fb821252bfa660b65611569&v=4",
+    "location": "Timor Leste",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-10T09:17:35Z"
+  },
+  {
+    "login": "timorleste",
+    "name": "Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in GIS Spatial/Image Analyst, Interested in Photography, Audiovisual Archive and IT-Systems Architect",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24618720?s=72&u=6b2e9b6a0c495dd597c43a10a0dfe5c6119307db&v=4",
+    "location": "Dili, Timor-Leste",
+    "company": "",
+    "twitterUsername": "tonybehar",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2016-12-17T07:02:25Z"
+  },
+  {
+    "login": "jxfernand",
+    "name": "Justo Fernandes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19819607?s=72&u=bd7155b70044d5d8ec75446041413e0bdbdf7de1&v=4",
+    "location": "Timor-Leste",
+    "company": "Pachio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-08T12:48:49Z"
+  },
+  {
+    "login": "borjaantonino",
+    "name": "Borja Patrocinio Antonino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23712443?s=72&u=af888aa5ce58d0bfaa64d7e69604d7bfa267002d&v=4",
+    "location": "Dili, Timor Leste",
+    "company": "Departamento de Engenharia Informatica, Faculdade de Engenharia, Ciencia e Tecnologia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-24T03:29:40Z"
   }
 ]

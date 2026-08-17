@@ -75610,5 +75610,41 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2014-11-20T11:51:01Z"
+  },
+  {
+    "login": "Pahuut420",
+    "name": "Pahuut Amalek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129256866?s=72&v=4",
+    "location": "Krakow am See, Germany",
+    "company": "Meck-Pomm Elektronik",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2023-03-29T06:01:06Z"
+  },
+  {
+    "login": "bosth",
+    "name": "Benjamin Trigona-Harany",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2465686?s=72&u=c1f4d353f1b7a7219e292cdac7a950c6f0f570dc&v=4",
+    "location": "Berlin & Victoria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 126,
+    "createdAt": "2012-10-01T17:54:43Z"
+  },
+  {
+    "login": "pjt222",
+    "name": "Philipp J. Thoss",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47758568?s=72&u=7d0f3dcd6721a16709a5c448f06e936d1daa39bd&v=4",
+    "location": "Germany (→ Austria Autumn 2026)",
+    "company": "@pjt222",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 2707,
+    "publicContributions": 3607,
+    "createdAt": "2019-02-18T20:13:21Z"
   }
 ]
