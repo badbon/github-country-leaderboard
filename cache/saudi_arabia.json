@@ -40027,7 +40027,7 @@
     "company": "0D00B0T",
     "twitterUsername": "AliDevUk",
     "followers": 143,
-    "privateContributions": 1177,
+    "privateContributions": 1178,
     "publicContributions": 50,
     "createdAt": "2020-08-04T22:42:06Z"
   },
@@ -40171,7 +40171,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 183,
-    "privateContributions": 932,
+    "privateContributions": 948,
     "publicContributions": 181,
     "createdAt": "2020-02-13T21:09:14Z"
   },
@@ -40268,7 +40268,7 @@
     "twitterUsername": "",
     "followers": 122,
     "privateContributions": 365,
-    "publicContributions": 81,
+    "publicContributions": 83,
     "createdAt": "2020-09-05T13:06:00Z"
   },
   {
@@ -40279,7 +40279,7 @@
     "company": "",
     "twitterUsername": "Jr_dev20",
     "followers": 119,
-    "privateContributions": 2405,
+    "privateContributions": 2406,
     "publicContributions": 273,
     "createdAt": "2020-11-25T00:30:39Z"
   },
@@ -40291,7 +40291,7 @@
     "company": "",
     "twitterUsername": "MusaabK99",
     "followers": 109,
-    "privateContributions": 490,
+    "privateContributions": 492,
     "publicContributions": 1,
     "createdAt": "2020-11-18T12:17:28Z"
   },
@@ -40303,7 +40303,7 @@
     "company": "ESAP",
     "twitterUsername": "",
     "followers": 107,
-    "privateContributions": 1332,
+    "privateContributions": 1334,
     "publicContributions": 0,
     "createdAt": "2020-06-14T14:09:27Z"
   },
@@ -40351,7 +40351,7 @@
     "company": "",
     "twitterUsername": "alsuhaibi96",
     "followers": 76,
-    "privateContributions": 737,
+    "privateContributions": 739,
     "publicContributions": 14,
     "createdAt": "2020-02-22T21:10:53Z"
   },
@@ -40375,8 +40375,8 @@
     "company": "Innosoft",
     "twitterUsername": "DevM7mdAli",
     "followers": 70,
-    "privateContributions": 270,
-    "publicContributions": 131,
+    "privateContributions": 271,
+    "publicContributions": 133,
     "createdAt": "2020-11-13T17:04:06Z"
   },
   {
@@ -40531,7 +40531,7 @@
     "company": "Estgbal-Alkher",
     "twitterUsername": "md_terfa",
     "followers": 39,
-    "privateContributions": 1622,
+    "privateContributions": 1623,
     "publicContributions": 12,
     "createdAt": "2020-11-30T09:45:52Z"
   },
@@ -40567,7 +40567,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 2600,
+    "privateContributions": 2607,
     "publicContributions": 36,
     "createdAt": "2020-07-09T05:47:32Z"
   },
@@ -41011,7 +41011,7 @@
     "company": "",
     "twitterUsername": "badr_alwattar",
     "followers": 19,
-    "privateContributions": 846,
+    "privateContributions": 850,
     "publicContributions": 4,
     "createdAt": "2020-03-22T17:26:29Z"
   },
@@ -48982,5 +48982,17 @@
     "privateContributions": 20,
     "publicContributions": 0,
     "createdAt": "2020-02-25T20:32:21Z"
+  },
+  {
+    "login": "XZzYassin",
+    "name": "Mumen Yassin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4236495?s=72&u=a6918277a39b4a0dddd0a3ce4f688602ed20bfb1&v=4",
+    "location": "Riyadh, Saudi Arabia / Amman, Jordan",
+    "company": "Software Engineer @HungerStation",
+    "twitterUsername": "XZz_Yassin",
+    "followers": 21,
+    "privateContributions": 719,
+    "publicContributions": 17,
+    "createdAt": "2013-04-23T15:41:08Z"
   }
 ]
