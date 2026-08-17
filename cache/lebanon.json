@@ -30802,5 +30802,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-10-16T11:29:39Z"
+  },
+  {
+    "login": "ramikay",
+    "name": "Rami Khawandi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194527?s=72&u=ec553cfa2bca15a94fdb62f23ff01fe309e031ab&v=4",
+    "location": "Beirut / San Francisco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 1046,
+    "publicContributions": 6,
+    "createdAt": "2010-02-02T12:56:06Z"
+  },
+  {
+    "login": "josephk",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270093?s=72&v=4",
+    "location": "San Francisco | Beirut",
+    "company": "Xpandable",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-07T03:16:19Z"
+  },
+  {
+    "login": "haidoura",
+    "name": "haidoura",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194432?s=72&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-02-02T10:00:30Z"
   }
 ]

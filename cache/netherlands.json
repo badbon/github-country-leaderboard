@@ -55690,5 +55690,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-08T13:12:44Z"
+  },
+  {
+    "login": "Alec-de-Boer",
+    "name": "Alec de Boer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98167462?s=72&u=619e30ed2c58a50b97dabdd0c914067966764797&v=4",
+    "location": "The Netherlands",
+    "company": "Alec de Boer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-21T13:58:09Z"
+  },
+  {
+    "login": "M1chon",
+    "name": "Michon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97671215?s=72&u=c5f308485a964f5b9c50d30b9d14df95139df566&v=4",
+    "location": "Rotterdam, Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-13T10:58:02Z"
+  },
+  {
+    "login": "Frobwastaken",
+    "name": "Daan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101723247?s=72&u=86c91fa29f8eaf42e16c08efc1a9c91ea51beeb6&v=4",
+    "location": "Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-16T13:36:00Z"
+  },
+  {
+    "login": "Mutluturk",
+    "name": "Duru Mutluturk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101700366?s=72&u=a31394241c185dd8075d6246982d224549f420a3&v=4",
+    "location": "Eindhoven, Noord-Brabant, Netherlands",
+    "company": "Dynalytica",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2022-03-16T07:53:54Z"
+  },
+  {
+    "login": "sanadabr",
+    "name": "Sanad Abualrous",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101358311?s=72&u=65d150c877e476f49212ce93c63b4222d29d5a57&v=4",
+    "location": "Leiden, Netherlands",
+    "company": "Jawebli",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-10T18:39:54Z"
+  },
+  {
+    "login": "10sorry",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103071904?s=72&u=f46a846a79a356045dcd1d9336ee63d1c4491f5a&v=4",
+    "location": "Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2022-04-05T19:49:27Z"
+  },
+  {
+    "login": "mxib",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100702489?s=72&u=9f9d2d913f9f884d7dc3c71d6ec766169c586832&v=4",
+    "location": "Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 10,
+    "publicContributions": 4,
+    "createdAt": "2022-03-01T14:34:36Z"
+  },
+  {
+    "login": "gschepkin",
+    "name": "gschepkin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96919465?s=72&u=0b7683de201b2a566495bca210f7578be91ac99d&v=4",
+    "location": "Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-31T16:04:40Z"
+  },
+  {
+    "login": "Vainiven",
+    "name": "Vaini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96945723?s=72&u=4099e39fc16bd49d1e649174fa97303a14f7b806&v=4",
+    "location": "The Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 235,
+    "publicContributions": 1,
+    "createdAt": "2022-01-01T13:43:27Z"
   }
 ]

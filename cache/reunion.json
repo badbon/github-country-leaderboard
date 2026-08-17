@@ -2338,5 +2338,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-12-17T12:58:15Z"
+  },
+  {
+    "login": "mekhalleh",
+    "name": "RAMELLA Sébastien",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5225129?s=72&v=4",
+    "location": "Reunion island",
+    "company": "Pirates.RE",
+    "twitterUsername": "",
+    "followers": 46,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-08-13T21:50:46Z"
+  },
+  {
+    "login": "fabricepayet",
+    "name": "Fabrice Payet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5113308?s=72&u=2c98f0d7ed464f2783ea5fe06dfc47f8e9d9e43d&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "fabricepayetfr",
+    "followers": 30,
+    "privateContributions": 6368,
+    "publicContributions": 14,
+    "createdAt": "2013-07-29T13:20:18Z"
+  },
+  {
+    "login": "AlainBusser",
+    "name": "Alain Busser",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3930757?s=72&u=1958205fafe92319cd049a5a5f16dbc446b2aa20&v=4",
+    "location": "Reunion island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2013-03-21T11:57:58Z"
   }
 ]

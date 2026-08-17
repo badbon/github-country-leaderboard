@@ -36358,5 +36358,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-10-08T17:57:44Z"
+  },
+  {
+    "login": "pkese",
+    "name": "Peter Keše",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278492?s=72&u=81c54b440acf572ebe36b2d5f91e76422d1eb554&v=4",
+    "location": "Ljubljana",
+    "company": "JSI, OECD",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2010-05-16T16:20:09Z"
+  },
+  {
+    "login": "hamaxx",
+    "name": "Jure Ham",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/474896?s=72&u=5148edbeb4b2bcf2e5cab34588a059eb76d9b393&v=4",
+    "location": "Ljubljana",
+    "company": "Zemanta",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-09T23:24:53Z"
+  },
+  {
+    "login": "mmahnic",
+    "name": "Marko Mahnič",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/518264?s=72&v=4",
+    "location": "Ljubljana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-10T19:47:04Z"
+  },
+  {
+    "login": "wechta",
+    "name": "Peter Wechta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206579?s=72&v=4",
+    "location": "ljubljana",
+    "company": "Naprej.net d.o.o",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-02-19T08:55:34Z"
+  },
+  {
+    "login": "iztok",
+    "name": "Iztok",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/422789?s=72&u=5d63456137090357b7e74041d141af0c24125182&v=4",
+    "location": "Ljubljana",
+    "company": "Agiledrop",
+    "twitterUsername": "iztok",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 92,
+    "createdAt": "2010-09-30T22:37:36Z"
   }
 ]

@@ -38938,5 +38938,65 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2015-10-21T11:51:00Z"
+  },
+  {
+    "login": "johannes-ku",
+    "name": "Johannes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6537169?s=72&u=f3454ff1e729198babe065111b9b418121332b23&v=4",
+    "location": "Eesti",
+    "company": "Progmatic",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-01-29T17:40:21Z"
+  },
+  {
+    "login": "shabak",
+    "name": "Shabak Nikolay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8171173?s=72&u=b53b0dcf3abf27974f39441fb743dd3288078976&v=4",
+    "location": "Tallinn, Eesti",
+    "company": "Advertum Tech",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 259,
+    "createdAt": "2014-07-15T16:04:47Z"
+  },
+  {
+    "login": "siimliimand",
+    "name": "Siim Liimand",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7560943?s=72&v=4",
+    "location": "Eesti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 616,
+    "createdAt": "2014-05-12T18:00:38Z"
+  },
+  {
+    "login": "tiitremmel",
+    "name": "Tiit Remmel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6403731?s=72&u=3f78abfe8c8b03950e76c89b0d6b73278219bed5&v=4",
+    "location": "Eesti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-01-14T21:49:07Z"
+  },
+  {
+    "login": "MaileRohivali",
+    "name": "Maile Rohiväli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8640919?s=72&v=4",
+    "location": "Eesti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-03T10:50:53Z"
   }
 ]
