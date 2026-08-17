@@ -34834,5 +34834,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-02-03T12:05:46Z"
+  },
+  {
+    "login": "EugenRajkovic",
+    "name": "Eugen Rajković",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32279544?s=72&v=4",
+    "location": "Zagreb ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-25T20:54:34Z"
+  },
+  {
+    "login": "mbalun95",
+    "name": "Matej Balun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29463620?s=72&u=5374ab220a474814d01c04641543f9c0cae0671b&v=4",
+    "location": "Zagreb, CRO",
+    "company": "Microblink",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-06-15T17:52:18Z"
+  },
+  {
+    "login": "mmacak",
+    "name": "Mihael",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34417436?s=72&v=4",
+    "location": "London/Zagreb",
+    "company": "",
+    "twitterUsername": "mmacak",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-10T13:16:00Z"
+  },
+  {
+    "login": "ivanpandzic",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34504095?s=72&u=6ac126671b967b62a1d6d844a13c5ae070409483&v=4",
+    "location": "Zagreb",
+    "company": "@covideodevteam ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-13T08:19:53Z"
+  },
+  {
+    "login": "dars1608",
+    "name": "Darko Britvec",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30071617?s=72&u=4cbd254552053d308b699f8233773b5ecfe9309a&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-11T08:48:01Z"
+  },
+  {
+    "login": "Bojan-Tomic",
+    "name": "Bojan Tomić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29251637?s=72&u=19a6717382a38cb215cca6633ba9d02be68630f7&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 11,
+    "publicContributions": 1,
+    "createdAt": "2017-06-07T10:45:27Z"
+  },
+  {
+    "login": "Inka13",
+    "name": "Inka Pelin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26362982?s=72&u=fdc03815c866e56e3fc8243c5fe34fbc5d1b32da&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-12T15:34:05Z"
   }
 ]

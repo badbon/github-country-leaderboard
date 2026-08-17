@@ -10306,5 +10306,53 @@
     "privateContributions": 946,
     "publicContributions": 45,
     "createdAt": "2020-10-02T19:00:30Z"
+  },
+  {
+    "login": "juanbpadilla",
+    "name": "Juan Padilla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72109896?s=72&u=540cb9ac468658552d6483040020140938c6730c&v=4",
+    "location": "Sucre",
+    "company": "UAJMS",
+    "twitterUsername": "JuancitoPadilla",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2020-09-29T22:42:36Z"
+  },
+  {
+    "login": "jesus-israel-lima-canaza",
+    "name": "JESUS ISRAEL LIMA CANAZA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74168038?s=72&u=f6b402fd86bd5337042cbc6708036aac02a60fee&v=4",
+    "location": "SUCRE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2020-11-09T04:34:54Z"
+  },
+  {
+    "login": "DanielQuispeT",
+    "name": "Daniel Quispe Taboada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74209762?s=72&u=5fcd53a0c5216bec2d552b01a4c5100c2d7d4992&v=4",
+    "location": "Sucre",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2020-11-09T19:33:48Z"
+  },
+  {
+    "login": "Joseberzeker",
+    "name": "Jose Luis Ahumada Navarro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63168250?s=72&u=972930ae18d0f26bcbf91bac6ff34bcc1c3f7f5f&v=4",
+    "location": "San pedro, sucre Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-04T20:14:13Z"
   }
 ]

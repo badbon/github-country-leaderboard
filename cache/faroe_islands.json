@@ -694,5 +694,41 @@
     "privateContributions": 0,
     "publicContributions": 37,
     "createdAt": "2012-11-25T19:33:32Z"
+  },
+  {
+    "login": "Smilex",
+    "name": "Ian T. Jacobsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/887918?s=72&u=9df7b62957309d7fa89e5d886dd103f2166e7e6c&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2011-07-01T04:00:16Z"
+  },
+  {
+    "login": "Dalsgard",
+    "name": "John Dalsgard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/665596?s=72&u=77c69cc50d03d735bb6738051c624a141b0c922f&v=4",
+    "location": "Faroe Islands",
+    "company": "Gramar",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-12T12:26:00Z"
+  },
+  {
+    "login": "Nudel",
+    "name": "Peter Hertel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1179251?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "Vindeygavask.fo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-07T23:03:11Z"
   }
 ]
