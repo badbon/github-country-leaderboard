@@ -17650,5 +17650,89 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2017-08-14T01:20:07Z"
+  },
+  {
+    "login": "Artemelka",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29003943?s=72&v=4",
+    "location": "Cyprus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-05-27T17:26:16Z"
+  },
+  {
+    "login": "telemachush",
+    "name": "Telemachus  Hadjithedorou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30343962?s=72&u=1ea67fb28d0512eae2c9114f8b19ea8a80e1125b&v=4",
+    "location": "Nicosia, Cyprus",
+    "company": "@Siroc-Lab",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 8,
+    "publicContributions": 8,
+    "createdAt": "2017-07-21T11:36:45Z"
+  },
+  {
+    "login": "Xag04",
+    "name": "Xristoforos Agathokleous",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25986144?s=72&u=e392775d34246ea55226494e7f87ff5baa681d42&v=4",
+    "location": "Limassol, Cyprus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2017-02-23T16:51:42Z"
+  },
+  {
+    "login": "AydarZaynutdinov",
+    "name": "Aidar Zainutdinov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26118465?s=72&u=00fa5c058038a4fba23ede606810fcf5bc549d70&v=4",
+    "location": "Cyprus",
+    "company": "@inDriver",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-01T15:30:32Z"
+  },
+  {
+    "login": "cseas001",
+    "name": "Christos Seas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34035355?s=72&v=4",
+    "location": "Metropolitan House 401, Artemidos Avenue 33, 6025, Larnaca, Cyprus",
+    "company": "Tensor Tech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-27T15:58:29Z"
+  },
+  {
+    "login": "mannar92",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34404885?s=72&u=a5bc38d7617dee8d355333a511cfbc8afc1b3a25&v=4",
+    "location": "Cyprus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2017-12-09T21:08:02Z"
+  },
+  {
+    "login": "tigrankios",
+    "name": "Tigran Khachaturian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34122868?s=72&u=22b55075c07639789741330064ce241fb8f87d0a&v=4",
+    "location": "Pafos, Cyprus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2017-11-30T08:04:35Z"
   }
 ]

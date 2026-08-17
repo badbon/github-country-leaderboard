@@ -31726,5 +31726,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-10T09:25:58Z"
+  },
+  {
+    "login": "Plaaksteris",
+    "name": "Artis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4238840?s=72&v=4",
+    "location": "Riga, Latvia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-23T20:32:58Z"
+  },
+  {
+    "login": "knulan",
+    "name": "Igors Jegorovs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5101556?s=72&u=af4bd5a5e1bf0381a721e37fad5d77cfa29ebac6&v=4",
+    "location": "Latvia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 195,
+    "publicContributions": 0,
+    "createdAt": "2013-07-27T08:13:17Z"
+  },
+  {
+    "login": "ElvijsB3",
+    "name": "Elvijs B",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5160741?s=72&u=08455bf790e81c2f02886ad1a5592ad44a9041f3&v=4",
+    "location": "Latvia",
+    "company": "@dfir",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-04T17:20:12Z"
+  },
+  {
+    "login": "Klavs666",
+    "name": "Klāvs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5745428?s=72&u=4b98a05c6cd469a1f72201129f767f8a22d34dd3&v=4",
+    "location": "Latvia",
+    "company": "@BALTCODE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 184,
+    "publicContributions": 28,
+    "createdAt": "2013-10-22T09:25:26Z"
+  },
+  {
+    "login": "rockbabee",
+    "name": "RZ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5222052?s=72&v=4",
+    "location": "Latvia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-13T13:39:15Z"
+  },
+  {
+    "login": "adanilins",
+    "name": "Danilins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5517667?s=72&v=4",
+    "location": "Latvia",
+    "company": "Bite LV",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-23T09:37:52Z"
+  },
+  {
+    "login": "winter38",
+    "name": "Winterwolf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3796545?s=72&u=bfb9109a85d026651e2326393e631bd2d905e2d7&v=4",
+    "location": "Latvia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-07T09:35:07Z"
+  },
+  {
+    "login": "mdesmitnieks",
+    "name": "Mārtiņš Desmitnieks",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6094671?s=72&u=4dedf72244e339a5b472e6df67227130adc0bc9a&v=4",
+    "location": "Latvia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-03T11:09:17Z"
+  },
+  {
+    "login": "mezavilks",
+    "name": "Kristaps Mežavilks",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4078767?s=72&u=de44fc5bfb69a9a7e6d5256ad6ca7ff028620449&v=4",
+    "location": "Latvia, Riga",
+    "company": "",
+    "twitterUsername": "kmezavilks",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-06T17:18:35Z"
   }
 ]

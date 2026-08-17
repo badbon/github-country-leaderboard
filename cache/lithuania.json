@@ -38623,7 +38623,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 679,
+    "privateContributions": 681,
     "publicContributions": 0,
     "createdAt": "2016-02-20T12:47:07Z"
   },
@@ -40714,5 +40714,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-09-29T11:51:38Z"
+  },
+  {
+    "login": "negis02",
+    "name": "Egidijus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17200178?s=72&v=4",
+    "location": "Vilnius",
+    "company": "negisone",
+    "twitterUsername": "ENarkus",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-12T14:59:52Z"
+  },
+  {
+    "login": "viust",
+    "name": "Aleksandras Mandyc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21197622?s=72&u=70c797db15436b80e08a36a046ac5da878013c24&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-23T12:59:49Z"
+  },
+  {
+    "login": "thenerijus",
+    "name": "Nerijus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19463446?s=72&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "TheNerijus",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2016-05-19T06:19:11Z"
+  },
+  {
+    "login": "AurimasKaz",
+    "name": "Aurimas Kazlauskas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17976316?s=72&u=d9e46af939565354b202d344183088180dcdf744&v=4",
+    "location": "Vilnius",
+    "company": "Vinted",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2016-03-21T06:43:54Z"
+  },
+  {
+    "login": "n1gus",
+    "name": "uNseeN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18231342?s=72&u=60bcb2b4509bf9f3d72e4dd621661a2a7e1d7411&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-02T13:45:36Z"
+  },
+  {
+    "login": "vilius571",
+    "name": "Vilius ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17214431?s=72&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-13T07:52:38Z"
+  },
+  {
+    "login": "marciulionistomas",
+    "name": "Tomas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22938248?s=72&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-19T14:21:28Z"
+  },
+  {
+    "login": "mbaranauskas",
+    "name": "Mindaugas Baranauskas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22210848?s=72&u=1c07ccd9caad342ec1e6a7651df4e09e29010af3&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-15T06:19:04Z"
+  },
+  {
+    "login": "vicctorb2",
+    "name": "Victor Buryak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17727453?s=72&v=4",
+    "location": "Vilnius",
+    "company": "Wargaming",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-08T16:17:16Z"
   }
 ]

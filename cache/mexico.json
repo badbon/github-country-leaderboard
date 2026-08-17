@@ -43198,5 +43198,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-28T20:49:23Z"
+  },
+  {
+    "login": "Daavid-Anaya",
+    "name": "David Villegas Anaya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153161865?s=72&u=3c1d9d589294f9c61e67ffe22c63fb95cf5eac79&v=4",
+    "location": "Puebla, México",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 158,
+    "publicContributions": 504,
+    "createdAt": "2023-12-07T05:39:14Z"
+  },
+  {
+    "login": "Jeisy18",
+    "name": "Jeisy Mora",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135087933?s=72&u=c3cfc180085a35d9f6b721921c35749a0d3708d3&v=4",
+    "location": "Puebla, México",
+    "company": "",
+    "twitterUsername": "jeichi_sh",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2023-05-31T02:54:01Z"
+  },
+  {
+    "login": "alexisramirezn",
+    "name": "Jesus Alexis Ramirez Navor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148838258?s=72&u=6b291ae4f146467342ab633f708a0eaa669f13eb&v=4",
+    "location": "Puebla, México",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-24T03:46:40Z"
   }
 ]

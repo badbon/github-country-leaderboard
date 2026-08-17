@@ -16666,5 +16666,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-03-21T17:59:16Z"
+  },
+  {
+    "login": "eveevans",
+    "name": "Erick Vanegas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109561?s=72&v=4",
+    "location": "Nicaragua",
+    "company": "@PlaybyCourt ",
+    "twitterUsername": "",
+    "followers": 50,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-07-28T18:49:21Z"
+  },
+  {
+    "login": "byroncorrales",
+    "name": "Byron Corrales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99616?s=72&v=4",
+    "location": "Nicaragua",
+    "company": "Kronoscode",
+    "twitterUsername": "",
+    "followers": 42,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-06-28T05:38:37Z"
+  },
+  {
+    "login": "marconipoveda",
+    "name": "MP",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47533?s=72&v=4",
+    "location": "Chichigalpa, Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 1057,
+    "publicContributions": 68,
+    "createdAt": "2009-01-18T22:06:18Z"
+  },
+  {
+    "login": "m3chas",
+    "name": "Joaz Rivera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157959?s=72&v=4",
+    "location": "Nicaragua",
+    "company": "Joazrivera.com",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 451,
+    "publicContributions": 11,
+    "createdAt": "2009-11-25T08:11:42Z"
+  },
+  {
+    "login": "phpn00b",
+    "name": "Matt Van Horn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137476?s=72&u=eaa4aa525c91c0a2fbe5d22e48e2471100cd60e8&v=4",
+    "location": "Managua, Nicaragua",
+    "company": "Foxy Code Services, Hitachi Solutions",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2009-10-09T15:31:32Z"
+  },
+  {
+    "login": "carlosgil",
+    "name": "Carlos Gil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58183?s=72&v=4",
+    "location": "Managua, Nicaragua",
+    "company": "Mentefactura.info",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-02-26T11:33:06Z"
+  },
+  {
+    "login": "eliements",
+    "name": "Elie Herrera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144927?s=72&u=fb3e47c0880efd3ca090c260b2c63ab241b53e28&v=4",
+    "location": "Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-10-26T19:33:29Z"
+  },
+  {
+    "login": "crocha",
+    "name": "Carlos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119968?s=72&v=4",
+    "location": "Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-08-27T02:40:22Z"
   }
 ]

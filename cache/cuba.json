@@ -15526,5 +15526,41 @@
     "privateContributions": 1349,
     "publicContributions": 4,
     "createdAt": "2010-11-12T16:04:17Z"
+  },
+  {
+    "login": "JonnyFunFun",
+    "name": "Jonathan Enzinna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55692?s=72&u=69d3e29ab6b69061ac37796af919a9f76e2f2789&v=4",
+    "location": "Cuba, New York",
+    "company": "@JiffSoft & @VoIP-Supply ",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 256,
+    "publicContributions": 0,
+    "createdAt": "2009-02-18T20:38:00Z"
+  },
+  {
+    "login": "marcosluis",
+    "name": "Marcos Ortiz Valmaseda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149294?s=72&v=4",
+    "location": "Cuba",
+    "company": "ALBET",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-11-05T14:26:01Z"
+  },
+  {
+    "login": "sanjuan",
+    "name": "San Juan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62796?s=72&v=4",
+    "location": "Cuba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-03-12T15:16:52Z"
   }
 ]

@@ -14710,5 +14710,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-10-25T21:43:45Z"
+  },
+  {
+    "login": "dottedmag",
+    "name": "Mike Dotty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16120?s=72&u=6525020178a31442cfa9745db96a964907845341&v=4",
+    "location": "Malta",
+    "company": "Blackbird",
+    "twitterUsername": "",
+    "followers": 94,
+    "privateContributions": 807,
+    "publicContributions": 46,
+    "createdAt": "2008-07-05T18:19:31Z"
+  },
+  {
+    "login": "thomasl",
+    "name": "Thomas Lindgren",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25970?s=72&u=b47036ccf14520f0c39118cd6d93c0a599f81a23&v=4",
+    "location": "Malta+",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 55,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2008-09-23T21:22:03Z"
+  },
+  {
+    "login": "mattbeedle",
+    "name": "Matt Beedle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2170?s=72&u=d8b87c5268c41cb790fa9d6d21af100b906aeed0&v=4",
+    "location": "Malta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 8490,
+    "publicContributions": 3,
+    "createdAt": "2008-03-04T17:30:26Z"
+  },
+  {
+    "login": "mvitor",
+    "name": "Marcio Matos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21732?s=72&u=146d4b101cc96917dc05b553b5d555a3ed58399d&v=4",
+    "location": "Malta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2008-08-24T07:33:44Z"
+  },
+  {
+    "login": "JeanAzzopardi",
+    "name": "Jean Azzopardi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5838?s=72&u=c84fc44466c89b49ad205379abcfbe000e2f6550&v=4",
+    "location": "Malta",
+    "company": "Betsson Group",
+    "twitterUsername": "Jean_Azzopardi",
+    "followers": 24,
+    "privateContributions": 518,
+    "publicContributions": 0,
+    "createdAt": "2008-04-08T16:02:40Z"
+  },
+  {
+    "login": "pauldavis",
+    "name": "Paul Davis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4824?s=72&v=4",
+    "location": "Valletta, Malta",
+    "company": "Neural Enterprises",
+    "twitterUsername": "pd_classic",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2008-04-04T00:14:17Z"
+  },
+  {
+    "login": "georgecamilleri",
+    "name": "George Camilleri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25310?s=72&v=4",
+    "location": "Malta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-09-19T07:36:19Z"
   }
 ]

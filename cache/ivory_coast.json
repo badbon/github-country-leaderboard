@@ -5830,5 +5830,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-02T03:42:47Z"
+  },
+  {
+    "login": "kanian",
+    "name": "Patrick Adou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/626923?s=72&u=fe67dd7e24de12630dfe861e69d519deef70c707&v=4",
+    "location": "Abidjan, Ivory Coast",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 619,
+    "publicContributions": 78,
+    "createdAt": "2011-02-19T13:29:17Z"
+  },
+  {
+    "login": "wazomba",
+    "name": "Serge MBRA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/733541?s=72&v=4",
+    "location": "Abidjan, Ivory Coast",
+    "company": "None",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-16T16:10:21Z"
   }
 ]

@@ -1678,5 +1678,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-08-23T15:30:33Z"
+  },
+  {
+    "login": "DanAnkers",
+    "name": "Daniel Ankers",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1213353?s=72&v=4",
+    "location": "Isle of Man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-22T16:07:31Z"
+  },
+  {
+    "login": "stavinski",
+    "name": "Mike",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1149116?s=72&u=030c05b685919042a121edde05ec623a189da306&v=4",
+    "location": "Isle of Man",
+    "company": "",
+    "twitterUsername": "mikecromwell",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-24T19:38:34Z"
+  },
+  {
+    "login": "rachelglover",
+    "name": "Rachel Glover",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/832654?s=72&u=1cd4c2eb9a45dfae7625aa31cc89365f9b59faaa&v=4",
+    "location": "Isle of Man",
+    "company": "Taxa Genomics Limited",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 874,
+    "publicContributions": 1,
+    "createdAt": "2011-06-06T13:14:48Z"
+  },
+  {
+    "login": "stevenmcintosh",
+    "name": "Steven McIntosh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/611622?s=72&v=4",
+    "location": "Isle of Man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2011-02-10T20:47:55Z"
+  },
+  {
+    "login": "netcetera",
+    "name": "Netcetera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/676931?s=72&u=658b34ce0f110559a9cebb8d8e884d30e6953bd7&v=4",
+    "location": "Isle of Man",
+    "company": "Netcetera",
+    "twitterUsername": "netcetera",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2011-03-18T11:19:09Z"
+  },
+  {
+    "login": "PWoodhouse",
+    "name": "Paul Woodhouse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1055818?s=72&u=d0f84ff47f639e04f265b0d9dc3e6f5184a853c5&v=4",
+    "location": "Isle of Man",
+    "company": "The MoBank Group",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-09-16T11:35:12Z"
+  },
+  {
+    "login": "Not-Chur-Architect",
+    "name": "Nicholas Campisano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1156512?s=72&u=6abdcfdf610505454a1aa78c6a015a623cd3fb91&v=4",
+    "location": "Isle of Man",
+    "company": "Vannin Studio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 10701,
+    "publicContributions": 5,
+    "createdAt": "2011-10-27T20:13:30Z"
   }
 ]

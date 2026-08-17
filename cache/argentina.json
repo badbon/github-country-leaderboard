@@ -60166,5 +60166,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-27T13:20:33Z"
+  },
+  {
+    "login": "rodley82",
+    "name": "Rodolfo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1499584?s=72&u=5d523485c7f361f2765cd818d42b4c94394a58ed&v=4",
+    "location": "San Salvador de Jujuy, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 995,
+    "publicContributions": 1,
+    "createdAt": "2012-03-04T14:25:20Z"
+  },
+  {
+    "login": "AnahiAramayo",
+    "name": "Anahí Aramayo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3090209?s=72&u=bc367d9f8c26880a4e6c61d0f63b48adc9c270b5&v=4",
+    "location": "San Salvador de Jujuy, Jujuy, Argentina",
+    "company": "Tecnomatica",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-20T13:47:30Z"
   }
 ]
