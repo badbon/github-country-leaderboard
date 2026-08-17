@@ -45334,5 +45334,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-19T09:16:03Z"
+  },
+  {
+    "login": "Fleli",
+    "name": "Frederik Egelund Edvardsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68284824?s=72&v=4",
+    "location": "Trondheim, Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 1945,
+    "publicContributions": 276,
+    "createdAt": "2020-07-14T13:27:53Z"
+  },
+  {
+    "login": "ErsanSinani",
+    "name": "Ersan Sinani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72137313?s=72&u=3fcee04aee5329b46ecfc26c913a0f7b065e580b&v=4",
+    "location": "Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 9,
+    "publicContributions": 16,
+    "createdAt": "2020-09-30T11:39:30Z"
+  },
+  {
+    "login": "ulrikeikaas",
+    "name": "Ulrik Eikås",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73249789?s=72&u=455b184682e09ae55ad1f0ed554f2f761f26714a&v=4",
+    "location": "Ålesund, Norge",
+    "company": "Systemutvikler @ twoday Avento",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 478,
+    "publicContributions": 0,
+    "createdAt": "2020-10-21T17:44:14Z"
+  },
+  {
+    "login": "AdrianXavierBoek",
+    "name": "Adrian Boek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73838442?s=72&u=292f508d9473f0a3ebfc825500cac5fae18bf3f0&v=4",
+    "location": "Norge, Telemark, Porsgrunn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-02T14:44:50Z"
+  },
+  {
+    "login": "Eric-Jon-Severson-Stavanger",
+    "name": "Eric Severson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76562161?s=72&u=4b1f294aa023463b88160c7fedd709b043de2d49&v=4",
+    "location": "Stavanger, Norge",
+    "company": "Universitetet i Stavanger ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-24T14:06:50Z"
+  },
+  {
+    "login": "AreMartin",
+    "name": "Are Martin Kallåk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69539350?s=72&v=4",
+    "location": "Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-11T19:43:38Z"
+  },
+  {
+    "login": "johan839",
+    "name": "Johan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71767209?s=72&u=660f83843f3373a5313562097d78af90237e0988&v=4",
+    "location": "Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-23T11:58:39Z"
+  },
+  {
+    "login": "RaidaT",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69469899?s=72&v=4",
+    "location": "Bergen, Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-10T14:22:38Z"
   }
 ]

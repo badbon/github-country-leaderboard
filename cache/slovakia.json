@@ -42526,5 +42526,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-03-12T16:43:36Z"
+  },
+  {
+    "login": "TomasBisciak",
+    "name": "Tomas Bisciak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8376581?s=72&u=9f7533f8eda6e7a7f462c60b8697dc1d2a78551a&v=4",
+    "location": "Slovenská republika",
+    "company": "stackoverflow.com/users/2733333/",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-06T16:47:45Z"
+  },
+  {
+    "login": "gorazd-ratulovsky",
+    "name": "Gorazd Ratulovský",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7913378?s=72&u=81eeb73d86c3e98bbcab8b4d6af6b3bdc1cae11e&v=4",
+    "location": "Slovenská republika",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-17T13:39:44Z"
+  },
+  {
+    "login": "pinderko",
+    "name": "Adrián Lancoš",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6725769?s=72&u=03a778453b6874bdeb8177844dd0587cf8dfb2fe&v=4",
+    "location": "Slovenská republika",
+    "company": "LaIT, s.r.o.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-19T10:34:27Z"
+  },
+  {
+    "login": "Shtoor",
+    "name": "Branislav Lobodáš",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8645595?s=72&u=ab26a788217410a92913f5e42728b5d681d59fac&v=4",
+    "location": "Slovenská republika",
+    "company": "Branislav Lobodáš",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-03T18:07:52Z"
+  },
+  {
+    "login": "martingana",
+    "name": "Martin Gaňa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7004593?s=72&v=4",
+    "location": "Slovenská republika",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 437,
+    "publicContributions": 0,
+    "createdAt": "2014-03-19T22:49:12Z"
   }
 ]
