@@ -61231,7 +61231,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 723,
+    "privateContributions": 726,
     "publicContributions": 0,
     "createdAt": "2012-08-17T17:27:45Z"
   },
@@ -63970,5 +63970,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-10-09T16:50:38Z"
+  },
+  {
+    "login": "dearcodes",
+    "name": "Daniel Reyes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1930813?s=72&u=3266490d03b0644174c9297be173cb7d10f55715&v=4",
+    "location": "San José",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2012-07-06T05:12:07Z"
+  },
+  {
+    "login": "egamboa",
+    "name": "Andrés Gamboa Arrieta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2028005?s=72&u=b4df4fe5ecedb5cbd746dfc87749f9f19f1b8363&v=4",
+    "location": "San José, CR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 978,
+    "publicContributions": 10,
+    "createdAt": "2012-07-23T15:28:38Z"
+  },
+  {
+    "login": "jsherman256",
+    "name": "Justin Sherman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2540725?s=72&u=b6c7421bd75f3da8280d34377dfc393d6fca9625&v=4",
+    "location": "San José, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2012-10-11T23:38:04Z"
+  },
+  {
+    "login": "allan0412",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2827064?s=72&v=4",
+    "location": "san José CR",
+    "company": "foncasoft",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-18T13:11:57Z"
   }
 ]

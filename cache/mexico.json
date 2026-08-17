@@ -46939,7 +46939,7 @@
     "company": "CIC, IPN",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1957,
+    "privateContributions": 1959,
     "publicContributions": 134,
     "createdAt": "2022-02-12T22:54:02Z"
   },
@@ -56300,7 +56300,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 84,
     "createdAt": "2022-11-09T06:12:14Z"
   },
   {
@@ -57331,7 +57331,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 763,
+    "privateContributions": 765,
     "publicContributions": 7,
     "createdAt": "2022-09-19T17:55:21Z"
   },
@@ -57680,7 +57680,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-08-27T14:18:39Z"
   },
   {
@@ -57956,7 +57956,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-11-22T15:36:36Z"
   },
   {
@@ -65350,5 +65350,17 @@
     "privateContributions": 0,
     "publicContributions": 59,
     "createdAt": "2022-11-08T16:40:44Z"
+  },
+  {
+    "login": "JoshuaHRuz",
+    "name": "Joshua Enrique Hernández Ruz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98844812?s=72&u=42b95e2af34ca229cdd0ea90020a0d23866a40aa&v=4",
+    "location": "mexico city",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2022-02-01T19:09:58Z"
   }
 ]

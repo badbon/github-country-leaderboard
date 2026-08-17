@@ -52988,7 +52988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 259,
-    "publicContributions": 62,
+    "publicContributions": 63,
     "createdAt": "2024-01-08T04:09:58Z"
   },
   {
@@ -98206,5 +98206,101 @@
     "privateContributions": 604,
     "publicContributions": 146,
     "createdAt": "2009-12-28T14:55:49Z"
+  },
+  {
+    "login": "tatyana221019832011",
+    "name": "vierzhuzhe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156391135?s=72&v=4",
+    "location": "Vancouver",
+    "company": "@adtile",
+    "twitterUsername": "taymelo",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-12T02:31:04Z"
+  },
+  {
+    "login": "yrm0527",
+    "name": "Ashley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157084169?s=72&v=4",
+    "location": "Vancouver",
+    "company": "",
+    "twitterUsername": "DKAmbColombia",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-01-19T02:33:43Z"
+  },
+  {
+    "login": "sarjangi",
+    "name": "Sara Arjangi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163061812?s=72&v=4",
+    "location": "Vancouver",
+    "company": "SoftnetUltimate",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 73,
+    "createdAt": "2024-03-11T21:51:25Z"
+  },
+  {
+    "login": "calabkim",
+    "name": "Caleb Kim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171094409?s=72&v=4",
+    "location": "Vancouver, BC",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-28T22:05:09Z"
+  },
+  {
+    "login": "SuzyHham",
+    "name": "Suzy Hham",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/192466943?s=72&v=4",
+    "location": "Vancouver",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2024-12-21T21:31:20Z"
+  },
+  {
+    "login": "Vipertronics",
+    "name": "Viper",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173436303?s=72&u=4430e1d7eee26d1a8c462d90eec30281a9d2d179&v=4",
+    "location": "Vancouver Washington",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2024-06-21T05:21:07Z"
+  },
+  {
+    "login": "VdheerajK",
+    "name": "V. Dheeraj Kalapati",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177348691?s=72&u=54aea900f365eac82c3b11467fd5774d430a3c9e&v=4",
+    "location": "Vancouver, BC",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 7,
+    "publicContributions": 35,
+    "createdAt": "2024-08-02T17:07:24Z"
+  },
+  {
+    "login": "yanfan-lin",
+    "name": "Yanfan Lin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176360328?s=72&u=0a44248efe3f572dd78e39ea951718d9fed832d5&v=4",
+    "location": "Greater Vancouver",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 200,
+    "createdAt": "2024-07-23T04:04:42Z"
   }
 ]

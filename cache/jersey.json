@@ -814,5 +814,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-03-31T13:31:33Z"
+  },
+  {
+    "login": "hoppyluke",
+    "name": "hoppyluke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10649991?s=72&v=4",
+    "location": "Jersey, CI",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2015-01-22T07:46:12Z"
+  },
+  {
+    "login": "morrisjam",
+    "name": "James Morris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12849550?s=72&u=1cd9d9b82056a5b86814745f2ed4beecd9abbae6&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 152,
+    "createdAt": "2015-06-11T18:03:27Z"
+  },
+  {
+    "login": "jcwyatt",
+    "name": "Jason Wyatt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13632969?s=72&u=3091a34832b7b0e8aac0fc399d93e7509f391081&v=4",
+    "location": "JERSEY",
+    "company": "Hautlieu School",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-03T23:25:56Z"
   }
 ]
