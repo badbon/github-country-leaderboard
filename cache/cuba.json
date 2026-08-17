@@ -15454,5 +15454,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-11-18T17:55:01Z"
+  },
+  {
+    "login": "gcubar",
+    "name": "Gilberto Cuba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/459882?s=72&v=4",
+    "location": "Cuba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-29T18:37:26Z"
+  },
+  {
+    "login": "aalih",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/353269?s=72&v=4",
+    "location": "Havana, Cuba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2010-08-03T20:30:12Z"
+  },
+  {
+    "login": "agomez1982",
+    "name": "Alexander Gómez Betancourt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/248373?s=72&v=4",
+    "location": "Cuba",
+    "company": "ETECSA",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-04-20T17:44:38Z"
+  },
+  {
+    "login": "robertyanta",
+    "name": "Robert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/428927?s=72&v=4",
+    "location": "Cuba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-06T01:36:24Z"
   }
 ]

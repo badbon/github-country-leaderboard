@@ -17770,5 +17770,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-06-22T21:24:47Z"
+  },
+  {
+    "login": "tajwal",
+    "name": "Ghiasuddin tajwal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5396746?s=72&u=ecdcb0af85b9bfca8dab3c4eddafce9d5ccc9296&v=4",
+    "location": "Kabul",
+    "company": "Treasury department, Mof",
+    "twitterUsername": "ghiasuddin",
+    "followers": 33,
+    "privateContributions": 903,
+    "publicContributions": 7,
+    "createdAt": "2013-09-06T03:51:28Z"
+  },
+  {
+    "login": "Hashmatullah",
+    "name": "Hashmatullah Zaheer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3388503?s=72&v=4",
+    "location": "Kabul",
+    "company": "MSI",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-26T07:09:50Z"
+  },
+  {
+    "login": "mshujaie",
+    "name": "Mustafa Shujaie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3162527?s=72&v=4",
+    "location": "Kabul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-01T08:02:45Z"
+  },
+  {
+    "login": "sayednajmuddin",
+    "name": "Sayed Najmuddin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5242251?s=72&u=261e235e586764351d2ecc973e58d86776d126df&v=4",
+    "location": "Kabul",
+    "company": "Kabul University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-16T05:19:23Z"
   }
 ]

@@ -37438,5 +37438,65 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2019-10-03T01:23:19Z"
+  },
+  {
+    "login": "Matias-v",
+    "name": "Matias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57468395?s=72&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-07T01:15:01Z"
+  },
+  {
+    "login": "mtorterolo-sw",
+    "name": "Marcelo Torterolo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58187097?s=72&u=8056cbbe43426490770d5353c4a2634def0d70f5&v=4",
+    "location": "Montevideo",
+    "company": "@Switch-Software-Solutions ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-25T18:20:53Z"
+  },
+  {
+    "login": "MarieGuida",
+    "name": "Marie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53410968?s=72&u=4491aaa9ea9bef174214fe0eee729ae0e972a54d&v=4",
+    "location": "Montevideo",
+    "company": "Sabre",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-28T21:42:29Z"
+  },
+  {
+    "login": "Sebastiangonlai",
+    "name": "Sebastián González",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58099324?s=72&u=cdfe81940ee2bda71dba9d358d030f148ae2630a&v=4",
+    "location": "Montevideo",
+    "company": "Fiserv",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 123,
+    "publicContributions": 0,
+    "createdAt": "2019-11-23T04:39:40Z"
+  },
+  {
+    "login": "Naokirlz",
+    "name": "Cristian Palma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53538682?s=72&u=4232c96629df5d33a850e2ac6697652b950341c8&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-31T19:07:09Z"
   }
 ]

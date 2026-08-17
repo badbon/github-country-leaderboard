@@ -22330,5 +22330,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-05-24T14:03:38Z"
+  },
+  {
+    "login": "tms1337",
+    "name": "Faruk Mustafic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8905560?s=72&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 2489,
+    "publicContributions": 1,
+    "createdAt": "2014-09-24T22:06:13Z"
+  },
+  {
+    "login": "n3rmin-v3habovic",
+    "name": "Nermin Vehabovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9935634?s=72&u=3564a0e34bd1acff9e5c77cc7f4e48aa2795154e&v=4",
+    "location": "Tuzla, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-24T19:11:47Z"
+  },
+  {
+    "login": "mulahasanovic",
+    "name": "Sead Mulahasanović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8067014?s=72&u=14371e042e97fbf27078249b4e24819ab932eb64&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "@seaddev ",
+    "twitterUsername": "sead1dev",
+    "followers": 8,
+    "privateContributions": 89,
+    "publicContributions": 127,
+    "createdAt": "2014-07-04T09:56:41Z"
+  },
+  {
+    "login": "DelboyTrotter",
+    "name": "Josip Krišto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6398976?s=72&v=4",
+    "location": "Mostar, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-01-14T12:02:19Z"
+  },
+  {
+    "login": "ElectroBuddha",
+    "name": "Vedran R.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8009319?s=72&u=547a5ba89df447f91c51e63d5e75a775cd97b4b0&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "ElectroBuddha",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-27T22:16:20Z"
+  },
+  {
+    "login": "Kera95",
+    "name": "Kera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9870626?s=72&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-20T20:01:04Z"
   }
 ]

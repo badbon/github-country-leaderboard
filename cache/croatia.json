@@ -33982,5 +33982,29 @@
     "privateContributions": 820,
     "publicContributions": 64,
     "createdAt": "2017-05-23T22:30:52Z"
+  },
+  {
+    "login": "ZrinCrnjac",
+    "name": "Zrin Crnjac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26870259?s=72&u=3ecac73115aec69d9d5fe75aaee06f721dcd78a4&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-03T10:46:58Z"
+  },
+  {
+    "login": "spahijakov",
+    "name": "Jakov Spahija",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26404094?s=72&u=349a6bcbfb8b247aa4ce4c07d66ea2f8733248d5&v=4",
+    "location": "Zagreb, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2017-03-14T08:48:17Z"
   }
 ]

@@ -598,5 +598,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-12-15T23:24:02Z"
+  },
+  {
+    "login": "samal-rasmussen",
+    "name": "Sámal Rasmussen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1503031?s=72&u=ab3344390833c734b371551b8a8939e0453213d0&v=4",
+    "location": "Tórshavn, Faroe Islands",
+    "company": "@bokin-fo ",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 1775,
+    "publicContributions": 112,
+    "createdAt": "2012-03-05T14:26:20Z"
+  },
+  {
+    "login": "mashema",
+    "name": "John Eyðstein Johannesen ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2392231?s=72&u=bd95beb6ce70b1bbf2a9cee416bc4af6288fa78e&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 2177,
+    "publicContributions": 126,
+    "createdAt": "2012-09-21T08:55:47Z"
+  },
+  {
+    "login": "olavurellefsen",
+    "name": "Olavur Ellefsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2902110?s=72&u=2b948b1f482b7618c37abf09aac3e08ee30ff1c4&v=4",
+    "location": "Faroe Islands",
+    "company": "@Flowcore-io",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 11519,
+    "publicContributions": 197,
+    "createdAt": "2012-11-27T13:02:53Z"
+  },
+  {
+    "login": "olavurmortensen",
+    "name": "Ólavur Mortensen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2675757?s=72&u=23709cc03b293b7a12752a0c52eed5b91d72657e&v=4",
+    "location": "Tórshavn, Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-29T13:52:18Z"
+  },
+  {
+    "login": "Signark",
+    "name": "Signar Kristiansen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2932202?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "Nemlia",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-30T16:08:56Z"
+  },
+  {
+    "login": "paulibaadsager",
+    "name": "Pauli Baadsager",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2139229?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-12T11:19:33Z"
+  },
+  {
+    "login": "thor-a",
+    "name": "Thor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1721415?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-05-09T11:40:39Z"
   }
 ]

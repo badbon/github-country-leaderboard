@@ -886,5 +886,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-16T14:45:08Z"
+  },
+  {
+    "login": "bandilepdlamini",
+    "name": "Bandile P Dlamini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33651005?s=72&u=1183ceec6e9c1d35dda96441906c15ede1c66fc6&v=4",
+    "location": "Mbabane, Eswatini",
+    "company": "BPD Team",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2017-11-14T07:26:24Z"
+  },
+  {
+    "login": "Faneleko",
+    "name": "Leko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25971703?s=72&v=4",
+    "location": "Eswatini",
+    "company": "Ned bank Swaziland",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-23T04:15:10Z"
+  },
+  {
+    "login": "nathoe",
+    "name": "Nathoe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34287378?s=72&u=27c9e6a02d8249608a01bbe84fb3bcf32a25a1b9&v=4",
+    "location": "eswatini",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2017-12-05T22:08:18Z"
+  },
+  {
+    "login": "Luuu2",
+    "name": "Lusanda Vilane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30016807?s=72&v=4",
+    "location": "Ezulwini, eSwatini",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-09T07:32:26Z"
+  },
+  {
+    "login": "Co-ordinator",
+    "name": "Coordinator",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30139909?s=72&u=2c2bf1c85e21d5b7c09744d2010e51b0bb0e3d5d&v=4",
+    "location": "Manzini, Eswatini",
+    "company": "Bits & PCs",
+    "twitterUsername": "Coordinator",
+    "followers": 1,
+    "privateContributions": 417,
+    "publicContributions": 47,
+    "createdAt": "2017-07-13T06:26:16Z"
   }
 ]
