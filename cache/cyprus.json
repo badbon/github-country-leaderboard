@@ -19531,7 +19531,7 @@
     "company": "SmartApe.io",
     "twitterUsername": "BAllhyani",
     "followers": 3,
-    "privateContributions": 1189,
+    "privateContributions": 1193,
     "publicContributions": 0,
     "createdAt": "2016-10-26T07:43:31Z"
   },
@@ -20482,5 +20482,89 @@
     "privateContributions": 0,
     "publicContributions": 97,
     "createdAt": "2016-04-09T12:29:55Z"
+  },
+  {
+    "login": "tanrikuluozlem",
+    "name": "Özlem Tanrıkulu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20440901?s=72&u=90bda1110b16dc4db4d01968f322e36e1748c254&v=4",
+    "location": "Nicosia",
+    "company": "NEU Innovation & Information Technologies Center (IBM)",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 275,
+    "publicContributions": 233,
+    "createdAt": "2016-07-13T14:00:19Z"
+  },
+  {
+    "login": "paulantoniou",
+    "name": "Pavlos Antoniou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20168828?s=72&u=f39b33a7acd425019158c532c682cbd37a377489&v=4",
+    "location": "Nicosia",
+    "company": "University of Cyprus",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-27T14:16:16Z"
+  },
+  {
+    "login": "VStroev",
+    "name": "Vyacheslav Stroev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18196156?s=72&u=a2554813e4d17e530f3bdc1199ba83881d96318e&v=4",
+    "location": "Nicosia",
+    "company": "Link4Tech",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-03-31T18:27:21Z"
+  },
+  {
+    "login": "mr-exception",
+    "name": "alireza darbandi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17408108?s=72&u=1359d8488b7db8d66656185c03cf20d28364ed40&v=4",
+    "location": "Nicosia",
+    "company": "salimon",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 74,
+    "publicContributions": 235,
+    "createdAt": "2016-02-22T13:24:17Z"
+  },
+  {
+    "login": "faultysegment",
+    "name": "Ilya Skrypitsa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23475736?s=72&u=4b5350df627ff0329632476a86b3c349b5310f51&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1,
+    "publicContributions": 36,
+    "createdAt": "2016-11-15T10:53:43Z"
+  },
+  {
+    "login": "LevaKodirovshik",
+    "name": "Lev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17694177?s=72&u=a2ff5388d501c21aea1235b06416c8233ab83917&v=4",
+    "location": "nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-03-07T01:58:58Z"
+  },
+  {
+    "login": "stavrosgeorghiades",
+    "name": "Stavros Georghiades",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19623021?s=72&u=9224f587358773357bcddb2834577a49c62ba440&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-28T12:05:01Z"
   }
 ]

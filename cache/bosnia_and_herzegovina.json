@@ -25570,5 +25570,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-11-12T19:26:22Z"
+  },
+  {
+    "login": "kemo",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100160?s=72&u=7f6dc8f8de8d6fcb2eb27c43d6d528822b0f5c2d&v=4",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "company": "",
+    "twitterUsername": "delalick",
+    "followers": 67,
+    "privateContributions": 9643,
+    "publicContributions": 137,
+    "createdAt": "2009-06-30T01:04:54Z"
+  },
+  {
+    "login": "amir-hadzic",
+    "name": "Amir Hadzic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126098?s=72&u=ca4b8ebdc79a832e943427decf4c9c9d923e454b&v=4",
+    "location": "Sarajevo, Bosnia And Herzegovina",
+    "company": "Software Engineer, Stacker",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 70,
+    "publicContributions": 11,
+    "createdAt": "2009-09-12T13:22:31Z"
+  },
+  {
+    "login": "andrejkaurin",
+    "name": "Andrej Kaurin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157101?s=72&u=87b60d9b7e5f2d885ac5228c07793d9f404ccd8a&v=4",
+    "location": "Bosnia and Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2009-11-23T16:33:40Z"
+  },
+  {
+    "login": "GioRosso",
+    "name": "Rusmir Gadžo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73250?s=72&u=b077c3650247d2766fa3d97e123e4a8992fa2a5b&v=4",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-04-13T10:44:28Z"
   }
 ]

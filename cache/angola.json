@@ -29359,7 +29359,7 @@
     "company": "",
     "twitterUsername": "moyoweno",
     "followers": 8,
-    "privateContributions": 1548,
+    "privateContributions": 1551,
     "publicContributions": 4,
     "createdAt": "2014-02-05T17:55:27Z"
   },
@@ -29518,5 +29518,65 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-07-03T20:42:00Z"
+  },
+  {
+    "login": "FabioCalixto",
+    "name": "Fábio Calixto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7780646?s=72&v=4",
+    "location": "Luanda",
+    "company": "Paga3",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-03T12:35:40Z"
+  },
+  {
+    "login": "Pedrojosegomes",
+    "name": "Pedro Jose Gomes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7796583?s=72&u=b3f2a4a0447214c87f9f6ff24240e9e1b8e1445f&v=4",
+    "location": "Luanda",
+    "company": "kindelbit",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2014-06-04T16:59:31Z"
+  },
+  {
+    "login": "adallaureano",
+    "name": "Adalberto Lauriano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7628600?s=72&u=a00c71b8711a5d44f19730dd5d6b2ca0e31aa649&v=4",
+    "location": "Luanda",
+    "company": "ao.devops",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-19T08:55:59Z"
+  },
+  {
+    "login": "Mimiel8",
+    "name": "Ilidio Mimiel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6909496?s=72&u=86987d7486fbc01e5f2dc62957cc717d80126dab&v=4",
+    "location": "Luanda",
+    "company": "Cloud solution architect Data & AI at Cetim",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-10T16:31:14Z"
+  },
+  {
+    "login": "Billgay",
+    "name": "Pedro Gomes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7780557?s=72&u=5973c05fb2984c8210cfdc2bc8c26aa033be5d95&v=4",
+    "location": "Luanda",
+    "company": "softsystems",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-03T12:26:51Z"
   }
 ]

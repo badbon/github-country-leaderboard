@@ -50326,5 +50326,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-09-30T13:19:04Z"
+  },
+  {
+    "login": "devaray",
+    "name": "David Reyes H.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12464887?s=72&u=ccbac3babb7a0d2a7405a2560d656904b92c1f17&v=4",
+    "location": "Quito",
+    "company": "Proceso Geek",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-15T18:56:48Z"
+  },
+  {
+    "login": "cabetodc",
+    "name": "Alberto Díaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11248269?s=72&v=4",
+    "location": "Quito",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-02-28T18:54:19Z"
+  },
+  {
+    "login": "drcaina",
+    "name": "Darwin Caina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10929729?s=72&u=4bf10c39cbe085d7bf5f65331acc1ac5f9f416a7&v=4",
+    "location": "Quito",
+    "company": "UCE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-09T20:31:12Z"
   }
 ]

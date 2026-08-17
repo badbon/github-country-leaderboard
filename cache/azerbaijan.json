@@ -50446,5 +50446,53 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2019-02-15T20:38:08Z"
+  },
+  {
+    "login": "teimour0",
+    "name": "Teymur Kosayev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58733579?s=72&u=844ad99aa1a7a24d5e8028d630c774c776cb9df6&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2019-12-10T12:33:18Z"
+  },
+  {
+    "login": "aliko-nino",
+    "name": "Ali Farziyev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46936028?s=72&u=aea01044347f14f5102dec65f85dce3d83a78029&v=4",
+    "location": "Azerbaycan/Baku",
+    "company": "",
+    "twitterUsername": "FarziyevAli",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2019-01-22T17:35:16Z"
+  },
+  {
+    "login": "Elbrus-Alihajiyev",
+    "name": "Elbrus Alihajiyev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57957383?s=72&u=f440898e19ee3f6c76b0d1481c5225183ab3a85b&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-19T16:27:34Z"
+  },
+  {
+    "login": "mirighost",
+    "name": "Mirhasan Huseynzade",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53995307?s=72&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-11T11:02:29Z"
   }
 ]
