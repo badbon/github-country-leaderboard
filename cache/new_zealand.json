@@ -78406,5 +78406,89 @@
     "privateContributions": 499,
     "publicContributions": 249,
     "createdAt": "2009-10-04T09:47:36Z"
+  },
+  {
+    "login": "megabug",
+    "name": "Matty Patatty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15011974?s=72&u=f5a526b74877240a69d9b6e80ab226d95151189f&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 50,
+    "privateContributions": 74,
+    "publicContributions": 1,
+    "createdAt": "2015-10-07T09:20:43Z"
+  },
+  {
+    "login": "tyhal",
+    "name": "Tyler Hale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11653981?s=72&u=59755b57f05c11f36470172464eb2b92c4ca2cf2&v=4",
+    "location": "Aotearoa",
+    "company": "@neo-technology",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 853,
+    "publicContributions": 448,
+    "createdAt": "2015-03-25T20:14:39Z"
+  },
+  {
+    "login": "thisisxvr",
+    "name": "Xavier Francis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12270107?s=72&u=8399ef59163946a41dc0b298cade27852fb8717e&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 477,
+    "publicContributions": 0,
+    "createdAt": "2015-05-06T08:55:52Z"
+  },
+  {
+    "login": "jess-of-the-woods",
+    "name": "Jess Stuart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15244132?s=72&u=22c768dee3cb67312ee3e699ab10fb3ce85eb0b1&v=4",
+    "location": "Aotearoa / New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-22T07:19:58Z"
+  },
+  {
+    "login": "lp117937",
+    "name": "Laszlo Peter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11087437?s=72&u=32371e98f2296dd584804c71573c2df69d416ac5&v=4",
+    "location": "Te Waipounamu, Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2015-02-20T08:17:31Z"
+  },
+  {
+    "login": "CarlaGC",
+    "name": "Carla ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11166114?s=72&u=ca443717ad078c585d865f6b5c513d7c1db5c163&v=4",
+    "location": " Ōtautahi, Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-23T20:54:48Z"
+  },
+  {
+    "login": "lanifield",
+    "name": "Lani Field",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11861394?s=72&u=8c31eb5273480c60b74815e118b0693843cfc3e4&v=4",
+    "location": "Te Whanganui-a-Tara/Wellington, Aotearoa/New Zealand",
+    "company": "@laniraukawa.nz",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 18,
+    "publicContributions": 63,
+    "createdAt": "2015-04-08T22:07:00Z"
   }
 ]

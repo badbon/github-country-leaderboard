@@ -77182,5 +77182,29 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2023-06-19T23:37:51Z"
+  },
+  {
+    "login": "alfrecza",
+    "name": "Alfre Chazarreta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108687078?s=72&u=acf8c17cd10ddf1ac32d73fa09a715c88c39108a&v=4",
+    "location": "Santiago del Estero / Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-04T16:21:57Z"
+  },
+  {
+    "login": "leobravo5",
+    "name": "Leandro Bravo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100136933?s=72&u=428406328a5e08cbeefc493d480f9686768f0e7d&v=4",
+    "location": "Santiago del Estero, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-02-21T12:43:50Z"
   }
 ]
