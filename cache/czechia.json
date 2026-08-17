@@ -50998,5 +50998,29 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2020-12-06T22:42:39Z"
+  },
+  {
+    "login": "1kuko3",
+    "name": "Jakub Hanko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12123231?s=72&u=b1047e5ff0da638f368ad333eb27d9cfa6dc80a7&v=4",
+    "location": "Czech republic, Slovakia",
+    "company": "@lugg ",
+    "twitterUsername": "JakubHanko",
+    "followers": 6,
+    "privateContributions": 437,
+    "publicContributions": 25,
+    "createdAt": "2015-04-26T13:21:51Z"
+  },
+  {
+    "login": "michalpajtinka",
+    "name": "Michal Pajtinka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15200986?s=72&u=433e6c691e44ffcd3a7d39d369ec9c0685e83eef&v=4",
+    "location": "Slovakia/Czech republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1,
+    "publicContributions": 5,
+    "createdAt": "2015-10-19T18:12:05Z"
   }
 ]

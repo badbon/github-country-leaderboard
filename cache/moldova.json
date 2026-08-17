@@ -17698,5 +17698,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-07-29T08:07:58Z"
+  },
+  {
+    "login": "schinalex",
+    "name": "Alex Schin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10093143?s=72&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2014-12-06T00:10:40Z"
+  },
+  {
+    "login": "dunaidan",
+    "name": "Dan Dunai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6727966?s=72&u=c010bd611107df3bbc39836c21f5aaf99ef43487&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2014-02-19T14:49:27Z"
+  },
+  {
+    "login": "grusnac",
+    "name": "Grigore Rusnac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6819177?s=72&u=0c9f5e8b69e3fffe25c242a0c784488531c39fc6&v=4",
+    "location": "Chișinău. RM",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-28T19:23:52Z"
   }
 ]

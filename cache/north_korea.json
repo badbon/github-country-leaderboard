@@ -1942,5 +1942,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-30T06:05:55Z"
+  },
+  {
+    "login": "norksec",
+    "name": "NORKSEC",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24784754?s=72&u=6ace73eae4725097f05185ecd4b2efdd979637f4&v=4",
+    "location": "Pyongyang, North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-27T02:24:40Z"
+  },
+  {
+    "login": "githubTangChen",
+    "name": "TangChen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19762388?s=72&v=4",
+    "location": "north korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-05T15:18:14Z"
+  },
+  {
+    "login": "donghn",
+    "name": "Dylan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23803918?s=72&v=4",
+    "location": "Seoul, North Korea",
+    "company": "CSA and VLSI lab Kyung Hee University",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-26T04:26:18Z"
+  },
+  {
+    "login": "ArchVivi",
+    "name": "Vivienne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24535879?s=72&u=1615497d47f17a2006d4484832ab79aab775e049&v=4",
+    "location": "Pyongyang, North Korea",
+    "company": "@floating-point-games ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 93,
+    "publicContributions": 1,
+    "createdAt": "2016-12-13T02:02:07Z"
+  },
+  {
+    "login": "xrxbsx",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17612073?s=72&u=5fa0fe81ede4de9b5a7c66f4921ab669ea5657bc&v=4",
+    "location": "North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-03T08:39:19Z"
+  },
+  {
+    "login": "chihtungzzz",
+    "name": "chihtung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16534550?s=72&v=4",
+    "location": "North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-04T06:29:09Z"
   }
 ]

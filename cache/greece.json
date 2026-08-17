@@ -49498,5 +49498,41 @@
     "privateContributions": 264,
     "publicContributions": 230,
     "createdAt": "2021-11-25T12:56:25Z"
+  },
+  {
+    "login": "dimikout3",
+    "name": "Dimitrios Koutras",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32622253?s=72&u=ed1491f23284ab8f132b7a0e33c2e54c34e97aec&v=4",
+    "location": "Thessaloniki/Macedonia/Greece",
+    "company": "CERTH (Center of Research and Technology Hellas)",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-08T21:14:00Z"
+  },
+  {
+    "login": "Argera",
+    "name": "Argyrios Theodoridis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25743391?s=72&u=b82db52ca24ce231a1ac1f5d6424fbd38288f120&v=4",
+    "location": "Giannitsa, Central Macedonia, Greece",
+    "company": "University Of Ioannina",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-13T12:29:48Z"
+  },
+  {
+    "login": "vassomak",
+    "name": "Vasso Makrylaki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26661405?s=72&u=1d7da9c1dd50f8f19fb803d3c3fb7518bc74e510&v=4",
+    "location": "Thessaloniki, Central Macedonia, Greece",
+    "company": "@bluegroundltd ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 986,
+    "publicContributions": 0,
+    "createdAt": "2017-03-24T21:30:34Z"
   }
 ]

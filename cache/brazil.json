@@ -62218,5 +62218,29 @@
     "privateContributions": 0,
     "publicContributions": 150,
     "createdAt": "2025-04-30T01:33:56Z"
+  },
+  {
+    "login": "lgustavotec",
+    "name": "Luis Gustavo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102495166?s=72&u=a279e634f4506f78e9110ac66d8c4f5718a96af5&v=4",
+    "location": "Brasil / Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-28T01:32:33Z"
+  },
+  {
+    "login": "pedro-ivo-molina",
+    "name": "Pedro Molina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35067106?s=72&u=834e3fa2ecf7942343d76a5e67523cc8326a93b3&v=4",
+    "location": "Porto Alegre, RS, Brazil/Montevideo - Uruguay",
+    "company": "@TodoCartoes ",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 391,
+    "publicContributions": 0,
+    "createdAt": "2018-01-03T12:48:26Z"
   }
 ]

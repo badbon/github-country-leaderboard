@@ -40942,5 +40942,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-09T12:35:40Z"
+  },
+  {
+    "login": "martincvijovic",
+    "name": "Martin Cvijovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63421143?s=72&u=b816170f7e118ffc4029472ecf16a1ef1c88f841&v=4",
+    "location": "Serbia",
+    "company": "Microsoft",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-09T18:21:20Z"
+  },
+  {
+    "login": "Zanderaf",
+    "name": "Zand",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65571170?s=72&u=ae370bda4886bb084aac9f94f2fcb10d161273c4&v=4",
+    "location": "Serbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 152,
+    "publicContributions": 182,
+    "createdAt": "2020-05-18T21:55:32Z"
+  },
+  {
+    "login": "micicsrb",
+    "name": "Micić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64493205?s=72&u=e4205dcedf3482789b575a0d19cbe74e9472b8a3&v=4",
+    "location": "Serbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-28T17:46:13Z"
+  },
+  {
+    "login": "crownsh0t",
+    "name": "Crownshot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66214258?s=72&u=61cfc4eff06c21ae18af5abf882ef31b1eacc38f&v=4",
+    "location": "Serbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-31T16:00:05Z"
+  },
+  {
+    "login": "bostnis",
+    "name": "Bojan Stojanović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70144917?s=72&u=51b25adb8df55299fff410e89628a4d64a253030&v=4",
+    "location": "Nis, Serbia",
+    "company": "MilkInteractive",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-24T12:07:15Z"
+  },
+  {
+    "login": "ljubalegenda",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72475350?s=72&u=995ea6c84a2acbcceb3b898d77818d2f8b879244&v=4",
+    "location": "Serbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-06T22:35:49Z"
+  },
+  {
+    "login": "Dulle99",
+    "name": "Dusan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75903128?s=72&u=0b3660499cf69f74df6337c3a2c37df4d35f3c7e&v=4",
+    "location": "Požarevac, Serbia ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 75,
+    "createdAt": "2020-12-12T15:52:49Z"
+  },
+  {
+    "login": "dmomcilo",
+    "name": "Momcilo Dejanovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64782355?s=72&u=b0162607b1aae8d927fd57261be69df12d98b04d&v=4",
+    "location": "Serbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-04T11:20:07Z"
   }
 ]

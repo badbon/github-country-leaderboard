@@ -18514,5 +18514,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-10-28T15:16:53Z"
+  },
+  {
+    "login": "ryanschneider",
+    "name": "Ryan Schneider",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53520?s=72&u=1625cf46a62490bb1ed3c49cfaeed89d4104b254&v=4",
+    "location": "San Juan Capistrano, CA",
+    "company": "@SummerForeverCo",
+    "twitterUsername": "",
+    "followers": 79,
+    "privateContributions": 1647,
+    "publicContributions": 47,
+    "createdAt": "2009-02-11T00:55:07Z"
+  },
+  {
+    "login": "pwgustafson",
+    "name": "Paul Gustafson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139914?s=72&u=3c83aa66e0f415b995bf3577c4700eea21c51367&v=4",
+    "location": "San Juan Capistrano",
+    "company": "Amazon Alexa",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 1375,
+    "publicContributions": 20,
+    "createdAt": "2009-10-14T22:47:01Z"
+  },
+  {
+    "login": "aochart",
+    "name": "Alex Ochart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81449?s=72&v=4",
+    "location": "San Juan, PR",
+    "company": "Eventure Unltd.",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-05-06T01:16:37Z"
   }
 ]

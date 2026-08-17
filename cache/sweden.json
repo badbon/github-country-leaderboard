@@ -58762,5 +58762,101 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-10-13T08:49:35Z"
+  },
+  {
+    "login": "ennnnnna",
+    "name": "Enna Basic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115723217?s=72&u=1c84e80bd5d836d43cff0d08e817ff12f0b46b45&v=4",
+    "location": "Västeras, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-10-13T14:49:33Z"
+  },
+  {
+    "login": "kunalmankar852",
+    "name": "Kunal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118212645?s=72&u=39232b84b663e7a5aafe0aac30f11a7af8186a2b&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1253,
+    "createdAt": "2022-11-14T18:25:51Z"
+  },
+  {
+    "login": "KatarinaTe",
+    "name": "Katarina Tengvall",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118531178?s=72&u=38126bb2c8f189b6e2166dc51c0a792d74f003d4&v=4",
+    "location": "Uppsala, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-18T11:06:48Z"
+  },
+  {
+    "login": "smorsbach",
+    "name": "Samuel Morsbach",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117767017?s=72&u=1cc07c5b251f2ee40af17de0e10dadd4dbef8c95&v=4",
+    "location": "Sweden",
+    "company": "University of Gothenburg",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2022-11-08T18:03:12Z"
+  },
+  {
+    "login": "Wakatochi",
+    "name": "Wakatochi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119437846?s=72&u=0c94822722f04310202e9c8d4341111e70659684&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2022-11-29T16:25:10Z"
+  },
+  {
+    "login": "ameranasic",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120424642?s=72&u=a43bddc7790b26daf61a63738af915bfd8b5ee6e&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-12T22:10:02Z"
+  },
+  {
+    "login": "weggemanbastian",
+    "name": "Bastian Weggeman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114619633?s=72&v=4",
+    "location": "Sweden",
+    "company": "@Mayfly-Innovation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3835,
+    "publicContributions": 0,
+    "createdAt": "2022-09-28T20:27:50Z"
+  },
+  {
+    "login": "katarinagillholm",
+    "name": "Katarina Gillholm",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116547736?s=72&u=72cf3d37d093ff7677fb1704969ac95ac639d0d5&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "MedMod",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2022-10-24T07:47:23Z"
   }
 ]

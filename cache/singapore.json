@@ -29947,8 +29947,8 @@
     "company": "Singapore",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 171,
-    "publicContributions": 1079,
+    "privateContributions": 184,
+    "publicContributions": 1083,
     "createdAt": "2023-11-06T10:26:22Z"
   },
   {
@@ -30031,8 +30031,8 @@
     "company": "@ShiftControl-io ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1899,
-    "publicContributions": 170,
+    "privateContributions": 1904,
+    "publicContributions": 169,
     "createdAt": "2023-11-18T03:31:03Z"
   },
   {
@@ -30440,7 +30440,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 62,
     "createdAt": "2023-08-08T09:12:07Z"
   },
   {
@@ -30944,7 +30944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 354,
+    "publicContributions": 359,
     "createdAt": "2023-10-21T08:36:31Z"
   },
   {
@@ -31006,5 +31006,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-21T05:12:09Z"
+  },
+  {
+    "login": "natcat38",
+    "name": "Natalie Yap",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70565877?s=72&v=4",
+    "location": "Malaysia · relocating to Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 325,
+    "createdAt": "2020-09-01T06:54:02Z"
+  },
+  {
+    "login": "imnotjccc",
+    "name": "Jiayi Chen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148593723?s=72&v=4",
+    "location": "Singapore",
+    "company": "Nanyang Technological University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2023-10-20T22:35:27Z"
   }
 ]
