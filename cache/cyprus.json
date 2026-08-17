@@ -15476,7 +15476,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 56,
-    "publicContributions": 138,
+    "publicContributions": 142,
     "createdAt": "2017-11-23T14:51:47Z"
   },
   {
@@ -16219,7 +16219,7 @@
     "company": "Retrocket",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 6110,
+    "privateContributions": 6114,
     "publicContributions": 125,
     "createdAt": "2017-09-23T21:57:35Z"
   },
@@ -17734,5 +17734,53 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2017-11-30T08:04:35Z"
+  },
+  {
+    "login": "tuobraun",
+    "name": "Vadim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32358238?s=72&u=04df58ac52f42836613031e58dcd98162c2c4768&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-28T09:47:24Z"
+  },
+  {
+    "login": "apgaev",
+    "name": "Anton Gaev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25263150?s=72&u=7c81f875f8bef6dee5e4de0dc9c8487fa2e3218d&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-21T09:20:36Z"
+  },
+  {
+    "login": "SelcukDuran",
+    "name": "Selçuk Duran",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26069440?s=72&u=62c93854662383bc7dd89b1d6ebbedd0eb2f33af&v=4",
+    "location": "Nicosia / TRNC",
+    "company": "Dormen Bilisim",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-27T18:17:25Z"
+  },
+  {
+    "login": "glongi01",
+    "name": "Giorgos Longinos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28946217?s=72&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-05-25T07:49:49Z"
   }
 ]

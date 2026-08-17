@@ -22606,5 +22606,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-12-12T06:41:44Z"
+  },
+  {
+    "login": "nickydev",
+    "name": "Nicky Angelot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4014115?s=72&u=a16e8ca1288f4ec90ea95d89c66209ede51e6928&v=4",
+    "location": "Antananarivo MG",
+    "company": "Freelance",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 758,
+    "publicContributions": 1,
+    "createdAt": "2013-03-30T16:09:28Z"
+  },
+  {
+    "login": "mahasoa",
+    "name": "Mahasoa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6105288?s=72&u=9d7ee484b06e74507c022d9c495f9eca3fd264fb&v=4",
+    "location": "Antananarivo",
+    "company": "",
+    "twitterUsername": "rtmahasoa",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-04T13:49:06Z"
   }
 ]

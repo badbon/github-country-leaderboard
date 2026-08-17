@@ -62503,7 +62503,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 538,
+    "privateContributions": 592,
     "publicContributions": 3,
     "createdAt": "2016-05-22T11:37:29Z"
   },
@@ -64666,5 +64666,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-26T13:26:45Z"
+  },
+  {
+    "login": "alexelzx",
+    "name": "Alexios Elizalde Xirokosta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86853540?s=72&u=cfa9f8df456e7b9d91838b0152de821cfb93cadf&v=4",
+    "location": "Athens | CDMX | Toulouse",
+    "company": "European Fire Prevention & Rural Preservation Organization (EFPRP)",
+    "twitterUsername": "alexelzx",
+    "followers": 1,
+    "privateContributions": 8,
+    "publicContributions": 292,
+    "createdAt": "2021-07-02T19:29:57Z"
   }
 ]

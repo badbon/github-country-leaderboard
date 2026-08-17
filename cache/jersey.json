@@ -574,5 +574,29 @@
     "privateContributions": 144,
     "publicContributions": 27,
     "createdAt": "2017-07-25T14:44:51Z"
+  },
+  {
+    "login": "Jegard",
+    "name": "Luca Jégard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29481546?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 9,
+    "publicContributions": 0,
+    "createdAt": "2017-06-16T10:54:26Z"
+  },
+  {
+    "login": "wildgeodude",
+    "name": "Dominic Samphier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30638567?s=72&u=88d1d0388a067f1d18b4d9af5f8ad6a061725368&v=4",
+    "location": "Jersey",
+    "company": "Pinpoint",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 4389,
+    "publicContributions": 8,
+    "createdAt": "2017-08-01T22:00:10Z"
   }
 ]

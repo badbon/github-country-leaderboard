@@ -39226,5 +39226,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-05-01T18:23:23Z"
+  },
+  {
+    "login": "goranmaras",
+    "name": "Goran Maras",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18550224?s=72&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-19T09:56:01Z"
+  },
+  {
+    "login": "chupocro",
+    "name": "chupo_cro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23023679?s=72&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2016-10-24T05:50:49Z"
+  },
+  {
+    "login": "omarbaruzzo",
+    "name": "Omar Baruzzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17861222?s=72&u=cc58124c48c2e7cbb77f45e9a859da53b2b0604a&v=4",
+    "location": "Porec, Hrvatska",
+    "company": "Zahel Trust and Foundation Eood - LKS Foundation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2016-03-15T20:50:08Z"
   }
 ]

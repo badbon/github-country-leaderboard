@@ -5362,5 +5362,53 @@
     "privateContributions": 0,
     "publicContributions": 77,
     "createdAt": "2010-01-18T14:03:42Z"
+  },
+  {
+    "login": "jarvisaoieong",
+    "name": "Jarvis Ao Ieong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195635?s=72&v=4",
+    "location": "Macau",
+    "company": "ERS",
+    "twitterUsername": "",
+    "followers": 36,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2010-02-03T14:19:30Z"
+  },
+  {
+    "login": "freedomw1987",
+    "name": "DC",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/519858?s=72&u=f3d57038ac55f9b7f441e8ad52d51290a2e750e2&v=4",
+    "location": "Macau",
+    "company": "",
+    "twitterUsername": "davidaasm",
+    "followers": 6,
+    "privateContributions": 31,
+    "publicContributions": 186,
+    "createdAt": "2010-12-12T11:22:51Z"
+  },
+  {
+    "login": "byross",
+    "name": "Ross Chang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/473620?s=72&v=4",
+    "location": "Macau",
+    "company": "byRoss Tech",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2010-11-09T06:09:36Z"
+  },
+  {
+    "login": "renabee",
+    "name": "Renabee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/518686?s=72&v=4",
+    "location": "Macau",
+    "company": "Renabee Macau Group buy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-11T04:49:38Z"
   }
 ]

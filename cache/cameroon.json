@@ -21682,5 +21682,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-05-15T20:49:33Z"
+  },
+  {
+    "login": "lekeutch",
+    "name": "Stève KEUTCHANKEU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/248206?s=72&u=e39e583d2eecadfa235b2c190b9e5de83e769996&v=4",
+    "location": "Immeuble July Voyages - Elig-Essono - Yaoundé - CAMEROUN",
+    "company": "Isalyd Corporation SA",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-04-20T14:03:29Z"
+  },
+  {
+    "login": "lemoulu",
+    "name": "lemoulu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/488098?s=72&v=4",
+    "location": "Yaoundé Cameroun",
+    "company": "itwim",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2010-11-19T07:30:25Z"
+  },
+  {
+    "login": "djaforest",
+    "name": "DJAFOREST PROJECT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/503197?s=72&v=4",
+    "location": "Yaoundé",
+    "company": "BYOOS sarl Cameroun",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-30T10:29:33Z"
   }
 ]
