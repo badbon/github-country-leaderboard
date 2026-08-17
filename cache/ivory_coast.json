@@ -5794,5 +5794,41 @@
     "privateContributions": 4436,
     "publicContributions": 894,
     "createdAt": "2012-02-11T08:57:58Z"
+  },
+  {
+    "login": "mdjaman",
+    "name": "Marcel Djaman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/803262?s=72&v=4",
+    "location": "Abidjan, Côte d'Ivoire",
+    "company": "WebCorporate",
+    "twitterUsername": "m_djaman",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2011-05-22T10:40:41Z"
+  },
+  {
+    "login": "francosiba",
+    "name": "Akpany",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/629450?s=72&u=fbbe6a21f095a059736078aabf85818fc12de2d6&v=4",
+    "location": "Abidjan, Côte d'ivoire",
+    "company": "Akpany SARL",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-21T07:50:10Z"
+  },
+  {
+    "login": "marveron",
+    "name": "N'guessan Hermann Frédy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/704899?s=72&v=4",
+    "location": "Côte d'Ivoire",
+    "company": "Afterdream Corporation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-02T03:42:47Z"
   }
 ]

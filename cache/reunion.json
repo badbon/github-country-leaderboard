@@ -2182,5 +2182,29 @@
     "privateContributions": 0,
     "publicContributions": 54,
     "createdAt": "2016-12-14T06:24:37Z"
+  },
+  {
+    "login": "FredMesnard",
+    "name": "Fred Mesnard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14543030?s=72&u=a37d025a48d50f3292fd9f5d4567c0210ef9928d&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 149,
+    "createdAt": "2015-09-21T09:55:38Z"
+  },
+  {
+    "login": "thibautfontaine",
+    "name": "Ti_punch",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12212165?s=72&u=a538866078e0c811181650f205b0ba408f925295&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 169,
+    "createdAt": "2015-05-02T17:22:48Z"
   }
 ]

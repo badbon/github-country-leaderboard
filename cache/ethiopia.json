@@ -45104,7 +45104,7 @@
     "twitterUsername": "dawit_muluneh8",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 270,
+    "publicContributions": 276,
     "createdAt": "2022-10-26T16:09:21Z"
   },
   {
@@ -45200,7 +45200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 210,
-    "publicContributions": 7,
+    "publicContributions": 9,
     "createdAt": "2022-05-17T18:58:27Z"
   },
   {
@@ -48862,5 +48862,137 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2022-02-09T12:37:53Z"
+  },
+  {
+    "login": "Abi-Fik10-15",
+    "name": "Abi-Fik 10-15",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99613677?s=72&u=915805b251dea225210347f3f37903a67636ddac&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 312,
+    "publicContributions": 111,
+    "createdAt": "2022-02-13T18:50:59Z"
+  },
+  {
+    "login": "Natanwotatu",
+    "name": "Yonatan Tadesse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110196657?s=72&u=a397d8233490d0b624ee2f2a3d822913ee36f1e1&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-07-28T18:54:34Z"
+  },
+  {
+    "login": "yohannesSM",
+    "name": "Yohannes Sefane Molla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99830230?s=72&u=c0aafd5fce3a3ebae63a29bee1cec4be656ce549&v=4",
+    "location": "Addis Ababa",
+    "company": "Wollo University | Qelem Meda Technologies",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-16T17:56:54Z"
+  },
+  {
+    "login": "frealem",
+    "name": "frehcode",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113727662?s=72&u=d9f57abad6e8ac22ee123475e05f794636e14984&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 30,
+    "publicContributions": 72,
+    "createdAt": "2022-09-16T20:58:52Z"
+  },
+  {
+    "login": "kidistzeh",
+    "name": "Kidist Zerihun Demssie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108180033?s=72&u=18050e09540387bc5184414f4f4c711bbfece82f&v=4",
+    "location": "Addis Ababa",
+    "company": "Addis Ababa science and Technology University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2022-06-25T11:33:22Z"
+  },
+  {
+    "login": "Bilihatu",
+    "name": "Bilihatu Abebe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105927042?s=72&v=4",
+    "location": "Addis Ababa",
+    "company": "GOGOUSHER",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-20T13:00:51Z"
+  },
+  {
+    "login": "EliasDemlie",
+    "name": "Elias Demlie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121252443?s=72&u=5777f3f267c7e075d9a9fac55da9af6bf64060d7&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 11,
+    "publicContributions": 39,
+    "createdAt": "2022-12-22T17:27:38Z"
+  },
+  {
+    "login": "muluken638",
+    "name": "Muluken zeleke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103142709?s=72&v=4",
+    "location": "Addis Ababa",
+    "company": "AMG Holding",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2022-04-06T18:42:20Z"
+  },
+  {
+    "login": "liyat-1",
+    "name": "Liyat Tesfaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120402310?s=72&u=ddf0319d5f52f20363df13cac96f8e668e66af37&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2022-12-12T16:08:06Z"
+  },
+  {
+    "login": "Shewit-D",
+    "name": "Shewit Dagnew",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109338273?s=72&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-07-15T07:17:48Z"
+  },
+  {
+    "login": "musshh",
+    "name": "Eyoel Shimeles",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100666761?s=72&u=bc07cabed291dd60437421cae75b5d7efc542a50&v=4",
+    "location": "Addis Ababa",
+    "company": "Ethiopian Airlines",
+    "twitterUsername": "flyethiopian",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-01T05:50:04Z"
   }
 ]

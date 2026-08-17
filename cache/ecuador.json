@@ -43114,5 +43114,113 @@
     "privateContributions": 241,
     "publicContributions": 381,
     "createdAt": "2017-07-15T23:11:13Z"
+  },
+  {
+    "login": "vpanchojs",
+    "name": "Victor Jumbo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34310460?s=72&u=3d3293f417ecd4d3f44ec3624432f589b82377cb&v=4",
+    "location": "Loja, Ecuador",
+    "company": "Shippify",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-06T14:44:47Z"
+  },
+  {
+    "login": "pcevallos",
+    "name": "Paúl Cevallos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30629962?s=72&v=4",
+    "location": "Quito - Ecuador",
+    "company": "Digital Strategy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-01T14:59:07Z"
+  },
+  {
+    "login": "christianmorante",
+    "name": "Christian Morante",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29555498?s=72&u=ed37105834b9899184b02b989c957ac2d2cb2df4&v=4",
+    "location": "Gye, Ecuador",
+    "company": "Christian Morante",
+    "twitterUsername": "cmodev",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2017-06-19T20:52:26Z"
+  },
+  {
+    "login": "WalterCun",
+    "name": "Walter Cun Bustamante",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27817964?s=72&u=4eaac2f7b2312e15dc7b12113e68c16a48a1515c&v=4",
+    "location": "Ecuador",
+    "company": "Freelancer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 788,
+    "createdAt": "2017-04-20T14:19:06Z"
+  },
+  {
+    "login": "brandomacay",
+    "name": "Brandon Macay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32371887?s=72&u=fa8d0f628e9dad3d6c4be58df94116ea70673d70&v=4",
+    "location": "Ecuador",
+    "company": "@Vlover",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 13,
+    "publicContributions": 0,
+    "createdAt": "2017-09-28T18:51:55Z"
+  },
+  {
+    "login": "dpmerino",
+    "name": "Diego Merino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29488188?s=72&u=80ae9f45d7e788ace047ffa1fa7acfd2f8578b43&v=4",
+    "location": "Ecuador",
+    "company": "",
+    "twitterUsername": "diegopaul7",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2017-06-16T16:50:56Z"
+  },
+  {
+    "login": "eduoz90",
+    "name": "Eduardo Nicolas Dueñas ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30318168?s=72&u=1d85bf952d22b8f2877fabcbed2d45bbacfb3149&v=4",
+    "location": "Ecuador",
+    "company": "nioz",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-20T12:27:13Z"
+  },
+  {
+    "login": "marcelochavez-ec",
+    "name": "Marcelo Chávez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29210370?s=72&u=06af64622bb1852efd75057c35d1b534667697f4&v=4",
+    "location": "Quito - Ecuador",
+    "company": "Consultor Independiente",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2017-06-05T18:46:18Z"
+  },
+  {
+    "login": "dan0788",
+    "name": "Daniel Ayala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26464513?s=72&u=247a751ebb5b5218e178c47abc91ec8b9073ae13&v=4",
+    "location": "Ecuador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2017-03-16T15:37:11Z"
   }
 ]

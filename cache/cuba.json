@@ -15502,5 +15502,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-10-06T01:36:24Z"
+  },
+  {
+    "login": "Hedel",
+    "name": "Hédel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/527345?s=72&v=4",
+    "location": "Havana",
+    "company": "Heco",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-17T14:54:22Z"
+  },
+  {
+    "login": "JoeZ99",
+    "name": "JoeZ99",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/479027?s=72&v=4",
+    "location": "Havana",
+    "company": "Doofinder",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 1349,
+    "publicContributions": 4,
+    "createdAt": "2010-11-12T16:04:17Z"
   }
 ]
