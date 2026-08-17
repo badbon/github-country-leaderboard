@@ -78010,5 +78010,29 @@
     "privateContributions": 78,
     "publicContributions": 4,
     "createdAt": "2024-04-18T09:24:16Z"
+  },
+  {
+    "login": "ahokcool",
+    "name": "Alex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114107898?s=72&u=6c0a8441bfe1e4274b0c7bed983054b8b7f81a4b&v=4",
+    "location": "Leipzig / Lisbon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 46,
+    "privateContributions": 832,
+    "publicContributions": 0,
+    "createdAt": "2022-09-21T19:30:02Z"
+  },
+  {
+    "login": "sanneck",
+    "name": "Santiago",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13683857?s=72&u=a838bfe8a504b9396fc1478899f7af2ce8a3fdd6&v=4",
+    "location": "Uruguay / Germany",
+    "company": "HackinES",
+    "twitterUsername": "s4nn3ck",
+    "followers": 7,
+    "privateContributions": 867,
+    "publicContributions": 0,
+    "createdAt": "2015-08-06T19:34:27Z"
   }
 ]

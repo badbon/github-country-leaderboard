@@ -42559,7 +42559,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 124,
-    "privateContributions": 1318,
+    "privateContributions": 1320,
     "publicContributions": 25,
     "createdAt": "2014-09-21T05:04:53Z"
   },
@@ -42631,7 +42631,7 @@
     "company": "@andela",
     "twitterUsername": "",
     "followers": 47,
-    "privateContributions": 2155,
+    "privateContributions": 2158,
     "publicContributions": 176,
     "createdAt": "2014-06-10T11:46:11Z"
   },
@@ -43747,7 +43747,7 @@
     "company": "Feza Cloud Solutions LLC",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 5294,
+    "privateContributions": 5296,
     "publicContributions": 63,
     "createdAt": "2014-12-24T10:31:21Z"
   },
@@ -43942,5 +43942,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-07-29T14:28:06Z"
+  },
+  {
+    "login": "get2aakash",
+    "name": "Aakash Kumar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6339690?s=72&u=6015051e36033d1bdb0a00d4d3eec7694bb991a0&v=4",
+    "location": "Kampala",
+    "company": "Ericsson",
+    "twitterUsername": "get2aakash",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2014-01-07T13:30:17Z"
+  },
+  {
+    "login": "CymonPK",
+    "name": "Cymon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7458905?s=72&v=4",
+    "location": "Kampala",
+    "company": "Techwise Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 381,
+    "publicContributions": 1,
+    "createdAt": "2014-05-01T14:12:05Z"
+  },
+  {
+    "login": "kluz116",
+    "name": "Allan Williams Musembya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9973896?s=72&u=c0de0d5b273d1d44cc27f6e12c6aa85127aed192&v=4",
+    "location": "Kampala",
+    "company": "Kluz Inc",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2014-11-27T08:10:32Z"
+  },
+  {
+    "login": "hammshx",
+    "name": "Sekalema Hamza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8143537?s=72&u=74ac0173807e2a282a15fa72d51d572a5e180d5b&v=4",
+    "location": "Kampala",
+    "company": "Echolink Technologies Group",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-12T13:35:38Z"
   }
 ]

@@ -8554,5 +8554,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-11-20T13:25:37Z"
+  },
+  {
+    "login": "bakhtiyor",
+    "name": "Bakhtiyor Bahritidinov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294624?s=72&v=4",
+    "location": "Khujand, Tajikistan",
+    "company": "Nucleus Security",
+    "twitterUsername": "",
+    "followers": 43,
+    "privateContributions": 196,
+    "publicContributions": 2,
+    "createdAt": "2010-06-02T17:41:07Z"
+  },
+  {
+    "login": "Ilkhom-S",
+    "name": "Ilkhom Safarov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/446667?s=72&u=1ac89230652c0614efd687304b49f9811e62fdcd&v=4",
+    "location": "Dushanbe, Tajikistan",
+    "company": "Payvand",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 760,
+    "createdAt": "2010-10-20T10:15:08Z"
   }
 ]

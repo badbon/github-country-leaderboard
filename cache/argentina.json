@@ -82150,5 +82150,29 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-11-06T15:29:00Z"
+  },
+  {
+    "login": "facurodriguez",
+    "name": "Facundo Rodriguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14032780?s=72&u=4d1c5c7c853852c84eea1d343f8492fdd21ba4d8&v=4",
+    "location": "Concepción del Uruguay, Entre Ríos, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-29T18:22:24Z"
+  },
+  {
+    "login": "sergioc6",
+    "name": "Sergio Cabral",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15825033?s=72&u=7fe9c14d12ee9d4a6733a87d35ec7d161f853c7f&v=4",
+    "location": "Concepción del Uruguay, Entre Rios, Argentina.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-11-12T23:23:37Z"
   }
 ]
