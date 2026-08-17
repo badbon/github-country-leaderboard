@@ -2830,5 +2830,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-07-29T11:55:14Z"
+  },
+  {
+    "login": "lmwnshn",
+    "name": "Wan Shen Lim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8349071?s=72&u=d6e1cd8fbd17e0b796fe1105559c02972fe5252d&v=4",
+    "location": "Pittsburgh, PA | Brunei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 111,
+    "privateContributions": 512,
+    "publicContributions": 84,
+    "createdAt": "2014-08-04T08:08:12Z"
+  },
+  {
+    "login": "wafeeyhm",
+    "name": "Wafeey HM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8189333?s=72&u=27d53ceaddaa3202897ed62491d39f44249e843a&v=4",
+    "location": "Brunei Darussalam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2014-07-17T08:41:14Z"
+  },
+  {
+    "login": "shafieqhilmi",
+    "name": "Shafieq Hilmi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9322431?s=72&v=4",
+    "location": "Brunei Darussalam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-20T15:54:35Z"
+  },
+  {
+    "login": "MyRulSpunky",
+    "name": "Amirul Hamdey bin Taher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8052178?s=72&u=e4cd7523201d67f60c12edb1976d4bd937572cd2&v=4",
+    "location": "Brunei",
+    "company": "Jabatan Bomba & Penyelamat",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-02T21:41:01Z"
+  },
+  {
+    "login": "daltonlimrentak",
+    "name": "Dalton RT Lim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9985410?s=72&u=fe54bad8c782de90a85ffdcb89804185929ccc72&v=4",
+    "location": "Brunei Darussalam",
+    "company": "-",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-28T05:17:36Z"
   }
 ]

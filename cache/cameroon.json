@@ -21514,5 +21514,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-08-06T08:23:05Z"
+  },
+  {
+    "login": "stonecodeO",
+    "name": "SIANI Bruce",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2589636?s=72&u=311b81c8b5d08651cebd7080c6af344dd6cb6c10&v=4",
+    "location": "Yaoundé-Cameroun",
+    "company": "Saleka IT",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2012-10-18T13:40:35Z"
+  },
+  {
+    "login": "anatoleabe",
+    "name": "Anatole ABE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2254757?s=72&u=47f9af9730c066bef6558905ab2fb03777d1ab14&v=4",
+    "location": "Yaoundé",
+    "company": "@Savics",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 460,
+    "publicContributions": 249,
+    "createdAt": "2012-08-31T11:50:18Z"
+  },
+  {
+    "login": "nikeme",
+    "name": "Nikème",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2812243?s=72&v=4",
+    "location": "Yaoundé",
+    "company": "Duo Expertise",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-16T08:27:23Z"
   }
 ]

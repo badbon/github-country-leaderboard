@@ -17818,5 +17818,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-16T05:19:23Z"
+  },
+  {
+    "login": "bbaheer",
+    "name": "Baseer Ahmad Baheer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2882762?s=72&v=4",
+    "location": "Kabul, Afghanistan",
+    "company": "W3Scripts",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-25T05:51:53Z"
+  },
+  {
+    "login": "ahmadzai",
+    "name": "Wazir Khan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1661188?s=72&v=4",
+    "location": "Kabul, Afghanistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2012-04-20T00:01:15Z"
+  },
+  {
+    "login": "absherzad",
+    "name": "Abdul Rahman Sherzad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1332906?s=72&v=4",
+    "location": "Herat, Afghanistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2012-01-16T06:09:14Z"
+  },
+  {
+    "login": "nawaz1",
+    "name": "Nawaz Royesh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2942785?s=72&u=da58119a618183d80a0b9e9667ce516e3b86ba5d&v=4",
+    "location": "Kabul , Afghanistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-02T06:22:59Z"
   }
 ]

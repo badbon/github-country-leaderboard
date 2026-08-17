@@ -9394,5 +9394,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-07-02T03:36:09Z"
+  },
+  {
+    "login": "amypeniston",
+    "name": "amy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3029878?s=72&u=71629727d1dc676bf4e72014653b79d018befab5&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "amypeniston",
+    "followers": 56,
+    "privateContributions": 830,
+    "publicContributions": 0,
+    "createdAt": "2012-12-13T01:13:55Z"
+  },
+  {
+    "login": "damionw",
+    "name": "Damion Wilson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2169748?s=72&u=f3923cfbdfddb45e9ef56980c78fef94d16807a8&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2012-08-17T13:59:46Z"
+  },
+  {
+    "login": "cj13579",
+    "name": "Christopher Blake",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1965454?s=72&u=ac636173ddb9a71d6b2c222d92396de1b4b4298a&v=4",
+    "location": "Hamilton, Bermuda",
+    "company": "@sassoftware",
+    "twitterUsername": "cj13579",
+    "followers": 12,
+    "privateContributions": 20,
+    "publicContributions": 58,
+    "createdAt": "2012-07-12T20:07:21Z"
+  },
+  {
+    "login": "andrewwrsimons",
+    "name": "Andrew Simons",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1561725?s=72&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-21T17:20:05Z"
+  },
+  {
+    "login": "etothepii",
+    "name": "James Robinson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2609402?s=72&v=4",
+    "location": "Pembroke, Bermuda",
+    "company": "Cactus Ltd",
+    "twitterUsername": "_jpr87",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 104,
+    "createdAt": "2012-10-20T23:55:25Z"
+  },
+  {
+    "login": "DenisPitcher",
+    "name": "Denis Pitcher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1757400?s=72&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "denispitcher",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2012-05-20T19:32:58Z"
+  },
+  {
+    "login": "dbactual",
+    "name": "Dave Berton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1450054?s=72&u=b071d367674a27010f0d5cf62ba117db96bd2478&v=4",
+    "location": "Bermuda",
+    "company": "https://radixils.com",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 4272,
+    "publicContributions": 6,
+    "createdAt": "2012-02-18T22:03:10Z"
   }
 ]

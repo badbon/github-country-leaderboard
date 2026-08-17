@@ -34462,5 +34462,65 @@
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2010-07-30T23:12:46Z"
+  },
+  {
+    "login": "dwilkie",
+    "name": "David Wilkie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127583?s=72&v=4",
+    "location": "Phnom Penh, Cambodia",
+    "company": "@somleng",
+    "twitterUsername": "",
+    "followers": 68,
+    "privateContributions": 0,
+    "publicContributions": 535,
+    "createdAt": "2009-09-16T05:53:52Z"
+  },
+  {
+    "login": "len",
+    "name": "Luciano Notarfrancesco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68679?s=72&u=3f65c6d2dd2d4d785bb2744c5de85dafb1514bdf&v=4",
+    "location": "Cambodia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 55,
+    "privateContributions": 0,
+    "publicContributions": 346,
+    "createdAt": "2009-03-30T20:41:24Z"
+  },
+  {
+    "login": "sophy",
+    "name": "Sophy Prak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47550?s=72&v=4",
+    "location": "Cambodia",
+    "company": "@ThemeCountry",
+    "twitterUsername": "",
+    "followers": 55,
+    "privateContributions": 616,
+    "publicContributions": 0,
+    "createdAt": "2009-01-19T01:18:15Z"
+  },
+  {
+    "login": "Neangsopheap",
+    "name": "Neang Sopheap",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114389?s=72&u=26e128f6cfa3238c94ccf55f12d14090de3a8f9b&v=4",
+    "location": "Phnom Penh, Cambodia",
+    "company": "DSVCAMBODIA Co., Ltd.",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-08-12T01:09:24Z"
+  },
+  {
+    "login": "leejava",
+    "name": "leakhina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67688?s=72&v=4",
+    "location": "Cambodia(Phnom Pen)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-03-27T02:43:08Z"
   }
 ]
