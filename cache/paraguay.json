@@ -22375,7 +22375,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 2128,
+    "privateContributions": 2131,
     "publicContributions": 40,
     "createdAt": "2012-02-22T14:42:30Z"
   },
@@ -22483,7 +22483,7 @@
     "company": "@Curotec",
     "twitterUsername": "norotaro_dev",
     "followers": 10,
-    "privateContributions": 1465,
+    "privateContributions": 1468,
     "publicContributions": 0,
     "createdAt": "2012-05-24T16:36:15Z"
   },
@@ -23062,5 +23062,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-02-17T01:37:57Z"
+  },
+  {
+    "login": "christianamado",
+    "name": "Christian Amado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1683007?s=72&u=60f7b99e2f44e953cc2fd33a2dfa31e23ae6c7a2&v=4",
+    "location": "Asunción",
+    "company": "@MUGPy",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-04-26T19:21:00Z"
   }
 ]

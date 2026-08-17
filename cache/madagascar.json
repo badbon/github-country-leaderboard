@@ -22786,5 +22786,113 @@
     "privateContributions": 105,
     "publicContributions": 87,
     "createdAt": "2012-01-25T08:55:40Z"
+  },
+  {
+    "login": "drowolath",
+    "name": "Thomas Ayih-Akakpo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/622651?s=72&u=f4dabd3567ce1f99d40453b11090faeb7c32bda0&v=4",
+    "location": "Antananarivo, Madagascar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 60,
+    "privateContributions": 1501,
+    "publicContributions": 26,
+    "createdAt": "2011-02-17T05:06:05Z"
+  },
+  {
+    "login": "anjaniacatus",
+    "name": "Afenomamy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/652121?s=72&u=ef0a7f9cb1f218f86deb8341d00a3182fc71862a&v=4",
+    "location": "Madagascar",
+    "company": "",
+    "twitterUsername": "afenoum",
+    "followers": 59,
+    "privateContributions": 239,
+    "publicContributions": 58,
+    "createdAt": "2011-03-05T05:08:57Z"
+  },
+  {
+    "login": "DotMG",
+    "name": "Mahefa Randimbisoa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/598720?s=72&v=4",
+    "location": "Antananarivo, Madagascar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-03T14:47:24Z"
+  },
+  {
+    "login": "finalherizo",
+    "name": "Andry Herizo RAJOELISON",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1067663?s=72&v=4",
+    "location": "Madagascar",
+    "company": "",
+    "twitterUsername": "finalherizo",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2011-09-21T11:04:51Z"
+  },
+  {
+    "login": "herihaja",
+    "name": "herihaja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/849255?s=72&v=4",
+    "location": "Madagascar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 60,
+    "createdAt": "2011-06-14T12:23:12Z"
+  },
+  {
+    "login": "hnidev",
+    "name": "HNI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1104097?s=72&v=4",
+    "location": "Ivandry, Antananarivo, Madagascar",
+    "company": "HNI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-05T07:33:06Z"
+  },
+  {
+    "login": "nandrianina",
+    "name": "RAVELOSON Hery Nandrianina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/939272?s=72&v=4",
+    "location": "Madagascar, Antananarivo",
+    "company": "Etech Consulting",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-07-26T09:28:46Z"
+  },
+  {
+    "login": "trasolofomalala",
+    "name": "rasolofomalala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/986072?s=72&v=4",
+    "location": "madagascar",
+    "company": "myself",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-08-17T12:46:32Z"
+  },
+  {
+    "login": "Ranto",
+    "name": "Ranto Ambinintsoa ANDRIANJAFY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/999273?s=72&u=7d2685535f00feeef20916e975f2fed0143bb89f&v=4",
+    "location": "Antananarivo, Madagascar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2011-08-23T15:33:32Z"
   }
 ]

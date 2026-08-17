@@ -66334,5 +66334,89 @@
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2023-05-17T15:12:14Z"
+  },
+  {
+    "login": "Aqualiffe",
+    "name": "Evgeniya Zelenkova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134207773?s=72&v=4",
+    "location": "Russia, Nizhny Novgorod",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2023-05-21T12:14:47Z"
+  },
+  {
+    "login": "Dmitry12374",
+    "name": "Дмитрий Юматов",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134490847?s=72&u=e1044fec3d52a9e6f75613cddeacea491e53ea5a&v=4",
+    "location": "Russia, Ulyanovsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-24T08:23:11Z"
+  },
+  {
+    "login": "zhuravleval",
+    "name": "Журавлев Андрей",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133529418?s=72&u=a308da5cf7b49b41e147c967c43d7b15b802b5d6&v=4",
+    "location": "Russia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-13T17:44:14Z"
+  },
+  {
+    "login": "AlenaSv99",
+    "name": "Alena Svetasheva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132587708?s=72&u=684a47ebc9de437b03a67f34f58f9fb83ae68c67&v=4",
+    "location": "Russia, Krasnodar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-04T14:26:47Z"
+  },
+  {
+    "login": "Baohas",
+    "name": "Razvodyatel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129700587?s=72&u=08c4372ba68b23eda824808c3ef645612e1caee4&v=4",
+    "location": "Russia, Volgograd",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2023-04-02T23:58:57Z"
+  },
+  {
+    "login": "Arlebo",
+    "name": "Irene_Bolle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136990380?s=72&u=7258a8e679bf862e41a732c710563877803f1148&v=4",
+    "location": "Russia",
+    "company": "None",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-18T16:11:46Z"
+  },
+  {
+    "login": "glorrian",
+    "name": "Stanislav Shcherbakov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137122573?s=72&u=a61589456121b5a33380292f3399b7956e1a8cc7&v=4",
+    "location": "Russia, Saint Petersburg",
+    "company": "bftcom.com",
+    "twitterUsername": "gl0rrian",
+    "followers": 1,
+    "privateContributions": 5,
+    "publicContributions": 1,
+    "createdAt": "2023-06-19T23:25:20Z"
   }
 ]
