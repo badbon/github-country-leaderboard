@@ -1786,5 +1786,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-02-06T19:49:09Z"
+  },
+  {
+    "login": "auberryberry",
+    "name": "Aubrey Stearn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/394716?s=72&u=ecd987821742ab1aa8309b5cfae0cc4601457703&v=4",
+    "location": "Isle of Man",
+    "company": "@AuBerryBerry",
+    "twitterUsername": "auberryberry",
+    "followers": 14,
+    "privateContributions": 7330,
+    "publicContributions": 0,
+    "createdAt": "2010-09-10T15:36:06Z"
+  },
+  {
+    "login": "PerpetualBeta",
+    "name": "Jonathan M. Hollin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/532210?s=72&v=4",
+    "location": "Douglas, Isle of Man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 23,
+    "publicContributions": 68,
+    "createdAt": "2010-12-21T17:11:17Z"
+  },
+  {
+    "login": "spragchris",
+    "name": "Chris Sprague",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213916?s=72&u=264e389ecc71f6d7433de76bff0f9b3177b64281&v=4",
+    "location": "Isle of Man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-02T13:28:14Z"
+  },
+  {
+    "login": "oliciv",
+    "name": "Oli Allen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/413189?s=72&u=8dd970c1e537951d47d5e29a4244a3c28ce41e8e&v=4",
+    "location": "Isle of Man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 888,
+    "publicContributions": 108,
+    "createdAt": "2010-09-23T16:27:10Z"
+  },
+  {
+    "login": "andykwoods",
+    "name": "Andrew Woods",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/529896?s=72&u=b0f326dedbf665abc1225a8c1a59ddc4ca068aa8&v=4",
+    "location": "Isle of Man",
+    "company": "@oaknational ",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2010-12-19T23:05:40Z"
   }
 ]

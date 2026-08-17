@@ -310,5 +310,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-02-09T17:48:44Z"
+  },
+  {
+    "login": "DMMCA",
+    "name": "Ninj4Pri3st",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3780166?s=72&u=4cd20caedb3f43e52a4524d623f598c2e4a03673&v=4",
+    "location": "Vatican City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-03-05T20:27:03Z"
+  },
+  {
+    "login": "Mordemy",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4354550?s=72&v=4",
+    "location": "Vatican",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-05-06T13:11:29Z"
   }
 ]

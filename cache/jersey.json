@@ -538,5 +538,41 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2018-12-07T16:51:25Z"
+  },
+  {
+    "login": "oidz1234",
+    "name": "Mark McNally",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24897633?s=72&u=7762bbcc2831cb19bf03abf15ca58f0bc4a6e7b0&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "mark_mcnally_je",
+    "followers": 33,
+    "privateContributions": 3098,
+    "publicContributions": 9,
+    "createdAt": "2017-01-03T16:02:24Z"
+  },
+  {
+    "login": "TafadzwaD",
+    "name": "Tafadzwa Demba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28431370?s=72&u=53ab371d19495dd16188aace7709f9d20f3d0028&v=4",
+    "location": "Jersey",
+    "company": "Tiphar Solutions",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 1307,
+    "publicContributions": 45,
+    "createdAt": "2017-05-05T07:49:33Z"
+  },
+  {
+    "login": "tomtitherington",
+    "name": "Tom Titherington",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30439911?s=72&u=6bbab6182714d04ec2236ce45d690f898136cec8&v=4",
+    "location": "Jersey (Channel Islands)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 144,
+    "publicContributions": 27,
+    "createdAt": "2017-07-25T14:44:51Z"
   }
 ]

@@ -63238,5 +63238,29 @@
     "privateContributions": 18,
     "publicContributions": 10,
     "createdAt": "2024-06-22T14:08:10Z"
+  },
+  {
+    "login": "IvanoscaLV",
+    "name": "ivanoscalv",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47784661?s=72&v=4",
+    "location": "Caracas-Madrid",
+    "company": "",
+    "twitterUsername": "quiet_analysis",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-19T14:14:11Z"
+  },
+  {
+    "login": "degar7",
+    "name": "Diego García",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47496988?s=72&v=4",
+    "location": "Madrid-Caracas",
+    "company": "AnviDegar",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-10T11:39:34Z"
   }
 ]
