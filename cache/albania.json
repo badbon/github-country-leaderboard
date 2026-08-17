@@ -13626,7 +13626,7 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-09-24T13:42:02Z"
@@ -13786,5 +13786,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-25T10:51:22Z"
+  },
+  {
+    "login": "NicholasCanova",
+    "name": "Nicholas Canova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5224372?s=72&u=f2ec845dfd9f4804c2c6cde4b58ac9da4dd56323&v=4",
+    "location": "New York, California, Tirana",
+    "company": "CBB Analytics",
+    "twitterUsername": "CanovaAnalytics",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-13T19:33:14Z"
+  },
+  {
+    "login": "sayjin93",
+    "name": "Jurgen Kruja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5080745?s=72&u=6c822819a304c52c7a20e8da6a0d2ecd00de9189&v=4",
+    "location": "Tirana",
+    "company": "RevZone Solutions",
+    "twitterUsername": "KrujaJurgen",
+    "followers": 10,
+    "privateContributions": 762,
+    "publicContributions": 11,
+    "createdAt": "2013-07-24T11:25:46Z"
+  },
+  {
+    "login": "Terminaft",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4933724?s=72&u=2e922461cc2891126eebd933cd8e44bf9e12f008&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-03T21:07:25Z"
+  },
+  {
+    "login": "gentigjiknuri",
+    "name": "Gentian Gjiknuri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3997686?s=72&u=eeca81fb6d790dcaff1c3002675538ce29c3afc8&v=4",
+    "location": "Tirana",
+    "company": "LogicalAlbania",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-28T16:01:56Z"
+  },
+  {
+    "login": "vstavro",
+    "name": "Vango Stavro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3836267?s=72&u=0cc1ab8660e6df6f224ac5bfa7a9ba7e61b17948&v=4",
+    "location": "Tirana",
+    "company": "ITWorks",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-11T21:47:44Z"
   }
 ]

@@ -25414,5 +25414,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-03-03T09:29:57Z"
+  },
+  {
+    "login": "Tenga",
+    "name": "Dražen Tenžera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/419948?s=72&u=423e3d8db9a5e155b1e01c135ed3a9f76eb86702&v=4",
+    "location": "Bosnia & Herzegovina",
+    "company": "@digime",
+    "twitterUsername": "tenga6",
+    "followers": 7,
+    "privateContributions": 180,
+    "publicContributions": 0,
+    "createdAt": "2010-09-28T23:22:37Z"
+  },
+  {
+    "login": "jasmina",
+    "name": "Jasmina Zukan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213884?s=72&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-02T12:37:35Z"
+  },
+  {
+    "login": "KenanZ",
+    "name": "Kenan Zahirovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255676?s=72&v=4",
+    "location": "Sarajevo, Bosnia & Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-04-28T11:13:26Z"
   }
 ]

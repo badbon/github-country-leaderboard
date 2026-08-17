@@ -11854,5 +11854,77 @@
     "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2019-03-21T19:53:14Z"
+  },
+  {
+    "login": "itskreisler",
+    "name": "Kreisler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55462768?s=72&u=30b01edc185aa7440a22a6e15cbe59b746d2c457&v=4",
+    "location": "Sincelejo, Sucre - Colombia",
+    "company": "",
+    "twitterUsername": "itskreisler",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 99,
+    "createdAt": "2019-09-17T20:07:20Z"
+  },
+  {
+    "login": "jesushmarcanov",
+    "name": "Jesús H. Marcano V. - The Dev Crossfitter ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53232003?s=72&u=cb2cd7302665697b2ec94f10606d4beec149e003&v=4",
+    "location": "Calle Tumeremo Cumaná 6101, Sucre",
+    "company": "JM Desarrollador Web",
+    "twitterUsername": "jesushmarcanov",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2019-07-23T17:00:29Z"
+  },
+  {
+    "login": "felixTineo",
+    "name": "felix tineo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52043874?s=72&u=e9f19658d6fc86944cb16584fd3f0b5db1bcb836&v=4",
+    "location": "Cumana, Edo Sucre. Venezuels",
+    "company": "",
+    "twitterUsername": "Felix4dev",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-06-20T15:15:34Z"
+  },
+  {
+    "login": "miguellista10",
+    "name": "Miguel Lista",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49295317?s=72&u=cc4f360f38b3bdb4d0da68e4ef4640333723f3f3&v=4",
+    "location": "Mun. Sucre, Petare - La Alcabala",
+    "company": "Coming Soon",
+    "twitterUsername": "miguellista10",
+    "followers": 1,
+    "privateContributions": 53,
+    "publicContributions": 0,
+    "createdAt": "2019-04-05T00:59:09Z"
+  },
+  {
+    "login": "jennysr",
+    "name": "Jenny Salas R.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48845053?s=72&u=33522612abc0236cba16b6d087c246c4ecaf43b9&v=4",
+    "location": "Sucre",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-22T23:11:26Z"
+  },
+  {
+    "login": "samirdjesus",
+    "name": "SAMIR DE JESUS  DIAZ BARROZO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49849527?s=72&u=621efce89750e90e4ea166b7ed6f545006734c63&v=4",
+    "location": "San Marcos - Sucre",
+    "company": "INDEPENDIENTE",
+    "twitterUsername": "samirdjesus",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-22T01:38:09Z"
   }
 ]

@@ -67678,5 +67678,29 @@
     "privateContributions": 0,
     "publicContributions": 76,
     "createdAt": "2023-08-09T19:35:06Z"
+  },
+  {
+    "login": "leimurillo",
+    "name": "Leidys_Murillo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48791530?s=72&v=4",
+    "location": "Sucre, Colombia",
+    "company": "Universidad de Sucre",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-21T10:32:27Z"
+  },
+  {
+    "login": "ingoswaldo",
+    "name": "Oswaldo Montes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53981942?s=72&u=ae5d75c359407a80c98b421722e740b9fb5d6076&v=4",
+    "location": "Sincelejo, Sucre, Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 612,
+    "publicContributions": 0,
+    "createdAt": "2019-08-10T20:45:15Z"
   }
 ]

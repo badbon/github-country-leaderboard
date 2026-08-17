@@ -694,5 +694,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-07-29T15:02:02Z"
+  },
+  {
+    "login": "Evangelino",
+    "name": "Evangelino Ximenes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31212619?s=72&u=095ed9a1e81d38609f5abe156f37e92001a55a6c&v=4",
+    "location": "Hera, Dili, Timor Leste",
+    "company": "Internship Program in TIC TIMOR I.P.",
+    "twitterUsername": "ximenesevang",
+    "followers": 26,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2017-08-21T13:25:15Z"
+  },
+  {
+    "login": "BKHONEL",
+    "name": "[ KHONEL ]",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33280285?s=72&u=df88a286fb3a93f27fc120ad864ad7d9faa3d085&v=4",
+    "location": "Timor Leste",
+    "company": "K-40 Service",
+    "twitterUsername": "My_Khonel",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-01T09:07:39Z"
+  },
+  {
+    "login": "Sitechtl",
+    "name": "sitechtl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32587851?s=72&u=1be224fda2f50d163772d0930141b7ccf0ac3c36&v=4",
+    "location": "Dili Timor Leste",
+    "company": "sitechtl",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-07T05:15:34Z"
+  },
+  {
+    "login": "MarquesJC",
+    "name": "Johnny Marques",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32386480?s=72&v=4",
+    "location": "Timor - Leste",
+    "company": "TIC TIMOR",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-29T09:01:30Z"
   }
 ]
