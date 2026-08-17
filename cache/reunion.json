@@ -2434,5 +2434,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-11-14T09:09:08Z"
+  },
+  {
+    "login": "zourite",
+    "name": "Sonia SAUGRIN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/760503?s=72&v=4",
+    "location": "Reunion Island",
+    "company": "@forkparty ",
+    "twitterUsername": "zourite",
+    "followers": 24,
+    "privateContributions": 2,
+    "publicContributions": 10,
+    "createdAt": "2011-04-30T11:40:30Z"
+  },
+  {
+    "login": "bgaze",
+    "name": "Benjamin Gazé",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/985214?s=72&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 90,
+    "createdAt": "2011-08-17T04:20:35Z"
+  },
+  {
+    "login": "phoarau",
+    "name": "Philippe HOARAU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1246908?s=72&v=4",
+    "location": "Reunion Island",
+    "company": "SYSOP",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-12-07T11:06:40Z"
+  },
+  {
+    "login": "Grimm322",
+    "name": "Grimm",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/666199?s=72&u=3b75a1ffd8eeae547a402ab3d97cfd8e504d98c2&v=4",
+    "location": "Reunion Island",
+    "company": "macwar©",
+    "twitterUsername": "JahSword",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-12T21:24:39Z"
   }
 ]

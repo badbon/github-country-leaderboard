@@ -47254,5 +47254,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-05-27T08:35:04Z"
+  },
+  {
+    "login": "brunosc",
+    "name": "Bruno Martins da Silva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5599220?s=72&u=46a9cc06fd775b81e178a16f6faa91ff40a46388&v=4",
+    "location": "Tallinn, Estonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-02T23:11:52Z"
+  },
+  {
+    "login": "MadisHeinsoo",
+    "name": "Madis Heinsoo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5703880?s=72&v=4",
+    "location": "Estonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-16T20:37:58Z"
+  },
+  {
+    "login": "kpihus",
+    "name": "Kristjan Pihus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6159080?s=72&u=9d6e3b395a2f019ad6ff636ccec17e71be9ad20d&v=4",
+    "location": "Estonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2013-12-11T08:13:36Z"
+  },
+  {
+    "login": "madism",
+    "name": "Madis Masso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3531717?s=72&u=63f8eaf4be488f587d2aa0f4b00c8dc374326f39&v=4",
+    "location": "Tartu, Estonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 849,
+    "publicContributions": 0,
+    "createdAt": "2013-02-11T11:40:52Z"
+  },
+  {
+    "login": "Arvidas",
+    "name": "ArvidasBazaVitce",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3592892?s=72&u=d030125a1dc994c7f6339da08e8996d5d9dfc60e&v=4",
+    "location": "Estonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-14T10:58:51Z"
   }
 ]

@@ -69694,5 +69694,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-01T15:13:37Z"
+  },
+  {
+    "login": "romanggr",
+    "name": "Roman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102186851?s=72&u=6ede07fdf5a1d02fac2c370847c7a77e690920cd&v=4",
+    "location": "Ukraine/Poland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2022-03-22T20:19:43Z"
+  },
+  {
+    "login": "nadtosonna",
+    "name": "Kateryna Prasolova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97362066?s=72&u=002b32749c82677be9bbe99487fe83508cdd24f8&v=4",
+    "location": "Kyiv, Ukraine / Warsaw, Poland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-08T19:48:27Z"
+  },
+  {
+    "login": "panikaa",
+    "name": "Lukasz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3592697?s=72&u=485e68911244588d6887fe7103af561e33f6f337&v=4",
+    "location": "Tallinn, Estonia & Zamosc, Poland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2013-02-14T10:31:22Z"
   }
 ]

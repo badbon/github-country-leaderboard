@@ -29194,5 +29194,77 @@
     "privateContributions": 0,
     "publicContributions": 64,
     "createdAt": "2011-10-05T13:29:56Z"
+  },
+  {
+    "login": "dantyan",
+    "name": "Dan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/659695?s=72&v=4",
+    "location": "Bishkek",
+    "company": "ZokiSoft",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 144,
+    "publicContributions": 17,
+    "createdAt": "2011-03-09T11:44:27Z"
+  },
+  {
+    "login": "glebovsky",
+    "name": "Gleb Surinov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1230158?s=72&u=94187ed3cc94a4ea263f2712bfc351642794cd9d&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2011-11-30T07:56:33Z"
+  },
+  {
+    "login": "Antol",
+    "name": "Antol",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/649099?s=72&u=0807ccd4d34d18831ee12a758e746e843d2bd661&v=4",
+    "location": "Bishkek",
+    "company": "Mad Brains",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2011-03-03T14:28:39Z"
+  },
+  {
+    "login": "pendolf",
+    "name": "Gennady Karev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/598479?s=72&u=4465b7a8beb2daa142057fbb221d8e6f129222b9&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 792,
+    "publicContributions": 2,
+    "createdAt": "2011-02-03T11:47:41Z"
+  },
+  {
+    "login": "selasie",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1198600?s=72&u=6f27e4eeb30705ff340f641a73ce983e5bf466eb&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-16T05:46:39Z"
+  },
+  {
+    "login": "ernesti",
+    "name": "Ernest Iliiasov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/652493?s=72&v=4",
+    "location": "Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-05T13:02:40Z"
   }
 ]
