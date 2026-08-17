@@ -9946,5 +9946,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-10-24T04:27:19Z"
+  },
+  {
+    "login": "colinbate",
+    "name": "Colin Bate",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1060912?s=72&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 276,
+    "createdAt": "2011-09-19T02:40:52Z"
+  },
+  {
+    "login": "carlosf",
+    "name": "Carlos Ferreira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/979478?s=72&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 2,
+    "publicContributions": 111,
+    "createdAt": "2011-08-14T16:22:28Z"
+  },
+  {
+    "login": "redshoes",
+    "name": "Kelly Joynson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/605771?s=72&v=4",
+    "location": "Hamilton, Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-07T23:29:14Z"
+  },
+  {
+    "login": "hthorley",
+    "name": "Huw",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/666840?s=72&v=4",
+    "location": "Bermuda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-13T11:34:47Z"
   }
 ]

@@ -39214,5 +39214,53 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2018-09-10T07:30:56Z"
+  },
+  {
+    "login": "hasanoqdeh",
+    "name": "Hassan Oqdeh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36596142?s=72&u=228f4e87cb71a6dba8334f99ae85ea5f026e821c&v=4",
+    "location": "Amman",
+    "company": "Lamsa",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2018-02-18T11:55:01Z"
+  },
+  {
+    "login": "youhammad",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44471958?s=72&u=11b68f0cd443255c0a46651ecedc615453fdcda6&v=4",
+    "location": "Amman",
+    "company": "MBC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-25T14:13:02Z"
+  },
+  {
+    "login": "MahmoudRashaideh75",
+    "name": "Mahmoud Rashaideh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41901869?s=72&u=c587afadbbd4871ac07af32f828f5616de04518b&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2018-07-30T10:51:57Z"
+  },
+  {
+    "login": "alitayih1",
+    "name": "Ali Ibrahim Tayih",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37487188?s=72&u=d87d822fb01c3755e7275c33597bcb5ef4a7a4a8&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-17T21:32:01Z"
   }
 ]

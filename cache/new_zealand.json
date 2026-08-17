@@ -65302,5 +65302,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-17T03:26:37Z"
+  },
+  {
+    "login": "TestSheepNZ",
+    "name": "Mike Talks",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18181231?s=72&u=505fb491616389452229a8f4e0d9fece1a5cabc6&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2016-03-31T03:08:11Z"
+  },
+  {
+    "login": "fsorodrigues",
+    "name": "fsorodrigues",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22183268?s=72&u=0b1b4b03227ee999cba9126318e56bb203e8ba89&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1320,
+    "publicContributions": 386,
+    "createdAt": "2016-09-13T23:32:51Z"
+  },
+  {
+    "login": "Lmears",
+    "name": "Lachie Mears",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17135919?s=72&u=883ae183258109df95d1bfd5ff96ef43d4262b9a&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 784,
+    "publicContributions": 148,
+    "createdAt": "2016-02-09T04:25:26Z"
+  },
+  {
+    "login": "imaginaryCorn",
+    "name": "A.J. Doak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17042068?s=72&u=1587dec7e64286f571486e2d208b2deac5b2609e&v=4",
+    "location": "Wellington, Aotearoa",
+    "company": "@vital-software",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1258,
+    "publicContributions": 6,
+    "createdAt": "2016-02-03T08:31:24Z"
+  },
+  {
+    "login": "BugBiteSquared",
+    "name": "Zoey Sheng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19378089?s=72&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2016-05-15T21:50:39Z"
+  },
+  {
+    "login": "TPMdj",
+    "name": "Te Pūnaha Matatini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16926946?s=72&u=77a5e25eb170dbf857ce429f11e2d9c3d96f31ad&v=4",
+    "location": "Aotearoa",
+    "company": "Te Pūnaha Matatini",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-27T21:01:58Z"
+  },
+  {
+    "login": "jasonvanhattum",
+    "name": "Jason van Hattum",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21068767?s=72&u=2dbc568d96a73b6a338445abe81c639e1e7a6a5a&v=4",
+    "location": "Aotearoa",
+    "company": "VHC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5539,
+    "publicContributions": 1,
+    "createdAt": "2016-08-16T21:55:27Z"
+  },
+  {
+    "login": "Whetu-Paitai",
+    "name": "Whetu-Paitai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17826221?s=72&u=dee4d27469d5d08ca8438fb0070eb3df9f558b19&v=4",
+    "location": "Harataunga, Te-Ika-A-Maui, Aotearoa",
+    "company": "Piki",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-14T10:42:32Z"
+  },
+  {
+    "login": "ginWolfe",
+    "name": "Gina H",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22088976?s=72&u=363a6731cdfce16ec1cc660db28f07c50612e91b&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-09T01:42:04Z"
   }
 ]

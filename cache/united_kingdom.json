@@ -56386,5 +56386,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-06T21:16:23Z"
+  },
+  {
+    "login": "godeltech-bot",
+    "name": "GodelTech Bot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60257903?s=72&u=dad4b9325653050b97c2216c69e3275492e63c29&v=4",
+    "location": "Manchester (UK) and Belarus",
+    "company": "@godeltech",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-24T11:07:24Z"
+  },
+  {
+    "login": "samgiz",
+    "name": "Zigmas Bitinas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11260848?s=72&u=6bca41d63b3de3356c880d2cd90adf72abc2f3b8&v=4",
+    "location": "Lithuania/United Kingdom",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 266,
+    "publicContributions": 14,
+    "createdAt": "2015-03-01T20:53:15Z"
   }
 ]

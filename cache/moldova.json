@@ -17851,7 +17851,7 @@
     "company": "@oysterhr",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 772,
+    "privateContributions": 773,
     "publicContributions": 314,
     "createdAt": "2013-05-07T06:17:50Z"
   },
@@ -18694,5 +18694,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-21T13:25:48Z"
+  },
+  {
+    "login": "cosletmihai",
+    "name": "Mihai Coșleț",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6072113?s=72&u=e00d166b55198d0a0526886e2f58d4ff3e4788a5&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 743,
+    "publicContributions": 0,
+    "createdAt": "2013-11-30T10:30:57Z"
+  },
+  {
+    "login": "balanici",
+    "name": "Igor Bălănici",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4041873?s=72&v=4",
+    "location": "Chișinău",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2013-04-02T21:41:03Z"
+  },
+  {
+    "login": "octavianracu",
+    "name": "Octavian Racu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5790480?s=72&u=b9a4f9e9cc942fce01f4fdd6dc91c7553f884c18&v=4",
+    "location": "Chișinău",
+    "company": "Personal use",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 49,
+    "publicContributions": 34,
+    "createdAt": "2013-10-28T02:46:50Z"
   }
 ]

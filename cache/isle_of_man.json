@@ -1762,5 +1762,29 @@
     "privateContributions": 10701,
     "publicContributions": 5,
     "createdAt": "2011-10-27T20:13:30Z"
+  },
+  {
+    "login": "dhguna",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/901253?s=72&v=4",
+    "location": "410-1515 Douglas St, Victoria, BC V8W 2G4",
+    "company": "xMatters",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-07-07T18:40:44Z"
+  },
+  {
+    "login": "SouthernGenius",
+    "name": "Jack Deese",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/603583?s=72&v=4",
+    "location": "Douglas, GA",
+    "company": "SoGen Technologies",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-06T19:49:09Z"
   }
 ]

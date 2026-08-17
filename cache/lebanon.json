@@ -29227,7 +29227,7 @@
     "company": "@manifest @barqfleet @thaat",
     "twitterUsername": "kaakati",
     "followers": 55,
-    "privateContributions": 5685,
+    "privateContributions": 5687,
     "publicContributions": 177,
     "createdAt": "2013-08-11T06:55:36Z"
   },
@@ -29794,5 +29794,101 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2013-10-02T09:30:31Z"
+  },
+  {
+    "login": "sys0dm1n",
+    "name": "sys0dm1n",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3499535?s=72&u=a5af4f175117408490e37ccd8e71824a2c7404a8&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "sys0dm1n",
+    "followers": 20,
+    "privateContributions": 326,
+    "publicContributions": 29,
+    "createdAt": "2013-02-07T08:25:49Z"
+  },
+  {
+    "login": "eliesoueidy",
+    "name": "Elie Soueidy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3339895?s=72&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-22T14:26:31Z"
+  },
+  {
+    "login": "MarwanT",
+    "name": "Marwan Tutunji",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4640633?s=72&u=0bbcb5e806b61ec98111455dc81db35ed4bf1707&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1850,
+    "publicContributions": 4,
+    "createdAt": "2013-06-07T13:56:52Z"
+  },
+  {
+    "login": "wixyskywriter",
+    "name": "wix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5904398?s=72&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-10T21:47:26Z"
+  },
+  {
+    "login": "samihijlawi",
+    "name": "Sami Hijlawi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5101548?s=72&u=34037070f34258d894ac3caa0118bdd49ee015e2&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-27T08:10:54Z"
+  },
+  {
+    "login": "osama-",
+    "name": "Osama Ismaeel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5151000?s=72&v=4",
+    "location": "Beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-02T22:24:31Z"
+  },
+  {
+    "login": "hanaahajj",
+    "name": "hanaa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4415657?s=72&v=4",
+    "location": "beirut",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-05-13T09:25:49Z"
+  },
+  {
+    "login": "SamihHaddad",
+    "name": "Samih Haddad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3449271?s=72&u=9ce9b800c25c16a4e4eb5c38e0a5ccff6546ed88&v=4",
+    "location": "Beirut",
+    "company": "osgislover",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-01T14:15:47Z"
   }
 ]

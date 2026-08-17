@@ -61318,5 +61318,41 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2022-06-13T02:06:47Z"
+  },
+  {
+    "login": "IAN-YE",
+    "name": "Chenye Zou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62388546?s=72&u=64abfa613660065be0d1f213420fc8d57fc3dacc&v=4",
+    "location": "Copenhagen;ShangHai",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2020-03-19T13:59:03Z"
+  },
+  {
+    "login": "yyyanbj",
+    "name": "Bingjie YAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44976445?s=72&u=705f93b558354eabc18929d0d8a27ad8b586b365&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 229,
+    "privateContributions": 1551,
+    "publicContributions": 93,
+    "createdAt": "2018-11-12T15:32:49Z"
+  },
+  {
+    "login": "mrjunjieli",
+    "name": "李俊杰(Junjie LI)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44716169?s=72&u=11445d13d89b351fb54b30bea153d028c36cd6ba&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "The Hong Kong Polytechnic University",
+    "twitterUsername": "",
+    "followers": 59,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2018-11-03T01:16:08Z"
   }
 ]

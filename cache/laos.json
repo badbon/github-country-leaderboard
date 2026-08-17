@@ -4258,5 +4258,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-06-04T15:02:06Z"
+  },
+  {
+    "login": "tinbotu",
+    "name": "Akira KUMAGAI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/666730?s=72&v=4",
+    "location": "ວຽງຈັນ, Laos",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 755,
+    "publicContributions": 0,
+    "createdAt": "2011-03-13T09:18:55Z"
+  },
+  {
+    "login": "loma",
+    "name": "Loma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1100639?s=72&u=c734c2b2acccade0944703a81968fc0da2d042da&v=4",
+    "location": "Laos",
+    "company": "@57BYTES",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-04T02:52:04Z"
+  },
+  {
+    "login": "kothsada",
+    "name": "kothsada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/863760?s=72&u=97b37094662a6e967e4bbd56470f41277556f044&v=4",
+    "location": "Laos",
+    "company": "Not have yet",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2011-06-21T08:20:13Z"
+  },
+  {
+    "login": "somsacki",
+    "name": "Somsack INTHASONE, PhD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1098463?s=72&v=4",
+    "location": "Vientiane, Laos",
+    "company": "National University of Laos",
+    "twitterUsername": "somsacki",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-03T10:32:14Z"
   }
 ]
