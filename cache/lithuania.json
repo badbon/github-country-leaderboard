@@ -54622,5 +54622,89 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2013-04-21T06:15:14Z"
+  },
+  {
+    "login": "gtuminauskas",
+    "name": "Giedrius Tuminauskas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5371816?s=72&v=4",
+    "location": "Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 847,
+    "publicContributions": 2,
+    "createdAt": "2013-09-03T10:01:52Z"
+  },
+  {
+    "login": "vidunas",
+    "name": "Vidunas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5527293?s=72&v=4",
+    "location": "Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-24T12:21:32Z"
+  },
+  {
+    "login": "linmar22",
+    "name": "Linas Martusevicius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5575576?s=72&u=3c1926c02c6b88f9aff22e749a9c7e0a3ffb6525&v=4",
+    "location": "Vilnius, Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-09-30T11:06:11Z"
+  },
+  {
+    "login": "vdasus",
+    "name": "vdasus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4681649?s=72&u=56c1b9c3f32604bff0d51be16e92ce4880745929&v=4",
+    "location": "Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2013-06-12T17:52:56Z"
+  },
+  {
+    "login": "elsuterino",
+    "name": "vytautas riauka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5807399?s=72&u=a9d5465908a8524d15342a7f86d8985e3cd279d4&v=4",
+    "location": "Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 221,
+    "publicContributions": 6,
+    "createdAt": "2013-10-29T19:50:17Z"
+  },
+  {
+    "login": "Ere5",
+    "name": "Vaidas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4736530?s=72&u=cd78c1bafa4a8004e65f84b5a5abbacb60d9c6d2&v=4",
+    "location": "Lithuania, Kaunas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-19T08:28:27Z"
+  },
+  {
+    "login": "vytautas-lozickas",
+    "name": "Vytautas Lozickas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5729931?s=72&v=4",
+    "location": "Vilnius, Lithuania",
+    "company": "VT-Studios",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-20T11:04:46Z"
   }
 ]
