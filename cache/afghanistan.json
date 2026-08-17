@@ -17878,5 +17878,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2012-07-04T12:56:10Z"
+  },
+  {
+    "login": "data30",
+    "name": "Saleh Mohammad Aria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/762276?s=72&u=a86dd1ab92fef948cdcdaec15aa31337c9189f78&v=4",
+    "location": "Afghanistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-05-01T19:14:57Z"
+  },
+  {
+    "login": "naferoozi",
+    "name": "Noor Ahmad Feroozi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1239321?s=72&v=4",
+    "location": "Kabul, Afghanistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 210,
+    "publicContributions": 13,
+    "createdAt": "2011-12-04T07:01:46Z"
+  },
+  {
+    "login": "michaeldsablatura",
+    "name": "Michael Sablatura",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/773722?s=72&v=4",
+    "location": "Afghanistan",
+    "company": "USMC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-05-07T11:08:06Z"
+  },
+  {
+    "login": "Naserdtr",
+    "name": "Mohammad Naser Dostdar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/544928?s=72&v=4",
+    "location": "Kabul - Afghanistan",
+    "company": "GTZ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-03T05:00:05Z"
   }
 ]

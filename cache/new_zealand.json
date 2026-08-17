@@ -65002,5 +65002,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-07-27T04:23:17Z"
+  },
+  {
+    "login": "vinhnglx",
+    "name": "Vincent Nguyen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1997137?s=72&u=8c3bb2936d111bc96d2bd73eb5a16c5087e15a93&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "RevoTech",
+    "twitterUsername": "vinhnglx",
+    "followers": 54,
+    "privateContributions": 4,
+    "publicContributions": 32,
+    "createdAt": "2012-07-18T08:48:17Z"
+  },
+  {
+    "login": "caiobiodere",
+    "name": "Caio Biodere",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1935649?s=72&u=97da6d63530ee14269e10db68c7a69e9f529c698&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "Adroit Creations",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 170,
+    "publicContributions": 0,
+    "createdAt": "2012-07-07T12:23:04Z"
+  },
+  {
+    "login": "kempnz",
+    "name": "Nick Kemp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1782411?s=72&u=e8f5a5e769e8e93477e274aea853d4bae010884e&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "Bridge Point",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 3831,
+    "publicContributions": 23,
+    "createdAt": "2012-05-27T08:30:41Z"
+  },
+  {
+    "login": "digitalskill",
+    "name": "Kevin Dibble",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1976241?s=72&u=2465912943419d014a4b2d7961d3d8fe3ccc911e&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-14T19:07:35Z"
+  },
+  {
+    "login": "henrypenny",
+    "name": "Henry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2068880?s=72&u=43ba3b881690e37173717656c909fba64154c485&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-31T03:55:53Z"
   }
 ]
