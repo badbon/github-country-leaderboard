@@ -43198,5 +43198,41 @@
     "privateContributions": 0,
     "publicContributions": 37,
     "createdAt": "2020-04-21T12:28:56Z"
+  },
+  {
+    "login": "DejanaGladic",
+    "name": "Dejana Gladić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48206285?s=72&u=1530dc6ddd500167d1fa2d81d3fe96ee414a43c2&v=4",
+    "location": "Zrenjanin, Republic of Serbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2019-03-04T10:30:09Z"
+  },
+  {
+    "login": "andreirechkov",
+    "name": "Andrei Rechkov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57447707?s=72&u=e506e13db20cdaba9cfc990bbd41742e672f391d&v=4",
+    "location": "Republic of Serbia, Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2019-11-06T14:11:07Z"
+  },
+  {
+    "login": "TheRealKaina",
+    "name": "Alexander",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46384197?s=72&u=10c1599bad6315f0284054f88208f01371b81989&v=4",
+    "location": "Republic of Serbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-04T19:32:52Z"
   }
 ]

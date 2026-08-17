@@ -1390,5 +1390,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-28T17:42:08Z"
+  },
+  {
+    "login": "lheijst",
+    "name": "Luc Heijst",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4925023?s=72&u=4f95309c5a6e2cad3f360d8472cb749e8f7c6aec&v=4",
+    "location": "Paramaribo, Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-02T22:22:42Z"
+  },
+  {
+    "login": "Utesar72",
+    "name": "Utesar72",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6122222?s=72&v=4",
+    "location": "Suriname",
+    "company": "ITWASUR",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-06T11:13:20Z"
+  },
+  {
+    "login": "dmoed",
+    "name": "<Don/>",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5294187?s=72&u=1fbb1a48d206993def3412314f181d8a4a46caa4&v=4",
+    "location": "Paramaribo, Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 861,
+    "publicContributions": 0,
+    "createdAt": "2013-08-23T11:18:21Z"
+  },
+  {
+    "login": "thboomsma",
+    "name": "Theo Boomsma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6073400?s=72&u=c22e781f76501c1939e9aa35be8c87985e09d085&v=4",
+    "location": "Paramaribo - Suriname",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-30T15:18:35Z"
   }
 ]

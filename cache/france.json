@@ -64678,5 +64678,29 @@
     "privateContributions": 8,
     "publicContributions": 292,
     "createdAt": "2021-07-02T19:29:57Z"
+  },
+  {
+    "login": "sdavid",
+    "name": "CALAO Systems GIT Repository",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/527420?s=72&v=4",
+    "location": "38950 Saint Martin le Vinoux / France",
+    "company": "CALAO Systems",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-17T15:49:48Z"
+  },
+  {
+    "login": "maissadridi",
+    "name": "Maissa Dridi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73404552?s=72&u=a6b68886ffd0b35fc5b7805f1377fa4a6fcaabfa&v=4",
+    "location": "Tunis-Paris",
+    "company": "BPCE-IT",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2020-10-24T19:46:16Z"
   }
 ]

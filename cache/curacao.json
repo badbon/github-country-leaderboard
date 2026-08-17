@@ -418,5 +418,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-10-20T00:31:06Z"
+  },
+  {
+    "login": "nelreina",
+    "name": "Nelreina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5773049?s=72&u=aed54d6843c772a5d2ac92869aae8f3e88c42e23&v=4",
+    "location": "Willemstad, Curacao",
+    "company": "",
+    "twitterUsername": "nelreina",
+    "followers": 18,
+    "privateContributions": 66,
+    "publicContributions": 40,
+    "createdAt": "2013-10-25T09:38:03Z"
+  },
+  {
+    "login": "evobersi",
+    "name": "Erica",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5024710?s=72&u=545a72919a0e51a556c8a89270d63c70a8c25257&v=4",
+    "location": "Willemstad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-16T18:40:18Z"
+  },
+  {
+    "login": "jclozadab",
+    "name": "Juan Carlos Lozada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5566536?s=72&u=bde22daab55212c83dfb7b40067d1ebe5f7bf58c&v=4",
+    "location": "Willemstad, Curacao",
+    "company": "Artificial Intelligence Systems Inc.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-09-28T22:22:22Z"
+  },
+  {
+    "login": "9emDesign",
+    "name": "Zayno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3419845?s=72&u=be572721440e5f43c8169f0b49c35dca66e6cbb4&v=4",
+    "location": "Willemstad",
+    "company": "9em Design",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-29T18:47:52Z"
   }
 ]
