@@ -57187,7 +57187,7 @@
     "company": "Estudio Manatí",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 246,
+    "privateContributions": 248,
     "publicContributions": 248,
     "createdAt": "2013-02-06T23:34:56Z"
   },
@@ -60946,5 +60946,29 @@
     "privateContributions": 249,
     "publicContributions": 169,
     "createdAt": "2025-09-09T16:01:09Z"
+  },
+  {
+    "login": "kArTeL",
+    "name": "Neil García",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3840467?s=72&u=7168304213f7460c8092a7a7e578bd5e9ffb44b8&v=4",
+    "location": "San José",
+    "company": "Universidad de Costa Rica",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 322,
+    "publicContributions": 5,
+    "createdAt": "2013-03-12T08:39:55Z"
+  },
+  {
+    "login": "juniorov",
+    "name": "Junior Obando",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6020493?s=72&u=a69d7eb0a758d6f0d430b35e7eb8eab6d3225851&v=4",
+    "location": "San José",
+    "company": "Servicios Integrales",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 219,
+    "createdAt": "2013-11-23T23:01:20Z"
   }
 ]
