@@ -574,5 +574,41 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2013-03-07T20:39:42Z"
+  },
+  {
+    "login": "pixelheresy",
+    "name": "Keith Gibbs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2491944?s=72&v=4",
+    "location": "Mariehamn, Åland Islands",
+    "company": "Ingrid",
+    "twitterUsername": "pixelheresy",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-05T06:30:57Z"
+  },
+  {
+    "login": "khalavak",
+    "name": "Kim Halavakoski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2081902?s=72&u=2e6195da7f344475a7fb71cd0ca2bb3ab791dbeb&v=4",
+    "location": "Åland Islands",
+    "company": "@DeductiveLabs @Sofecta @SofectaLabs ",
+    "twitterUsername": "khalavak",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 400,
+    "createdAt": "2012-08-02T06:34:20Z"
+  },
+  {
+    "login": "mattiasmaahl",
+    "name": "Mattias Måhl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1370239?s=72&u=c25ae6f9a83bf92c3c7dfc5ea894f46fce81a6d6&v=4",
+    "location": "Åland Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2012-01-23T08:09:21Z"
   }
 ]

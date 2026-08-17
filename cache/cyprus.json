@@ -13027,7 +13027,7 @@
     "company": "Mojo ",
     "twitterUsername": "",
     "followers": 45,
-    "privateContributions": 605,
+    "privateContributions": 610,
     "publicContributions": 2,
     "createdAt": "2018-10-11T12:52:42Z"
   },
@@ -14047,7 +14047,7 @@
     "company": "Hyperion Systems Engineering",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 543,
+    "privateContributions": 547,
     "publicContributions": 0,
     "createdAt": "2018-02-21T06:04:42Z"
   },
@@ -15238,5 +15238,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-12-13T09:58:53Z"
+  },
+  {
+    "login": "stylianosnicoletti",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35661905?s=72&u=c8b9201e29d8ac91ff02d34e673a8a8eebe0e123&v=4",
+    "location": "Nicosia CY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 14,
+    "publicContributions": 44,
+    "createdAt": "2018-01-21T15:46:12Z"
+  },
+  {
+    "login": "geath",
+    "name": "George Athanasopoulos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35835020?s=72&u=9b1d89bd56181ffc9fd18b96bd9b7dcfcbe63312&v=4",
+    "location": "Nicosia",
+    "company": "GaBi",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-26T09:39:16Z"
+  },
+  {
+    "login": "MikhailZyukin",
+    "name": "Michael Zyukin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44678322?s=72&u=4b030e40d562bd8b535d44e13aad0c37e92aed6f&v=4",
+    "location": "University of Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2018-11-01T16:25:57Z"
+  },
+  {
+    "login": "nkylilis",
+    "name": "Nicolas Kylilis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36237120?s=72&v=4",
+    "location": "Nicosia",
+    "company": "University of Cyprus",
+    "twitterUsername": "nkylilis",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-07T15:51:21Z"
+  },
+  {
+    "login": "dmarangis",
+    "name": "Demetris Marangis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44260109?s=72&u=44bb9f33ef53480f54093f7d985a0c8ed1de7117&v=4",
+    "location": "Nicosia",
+    "company": "FOSS Research Centre",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-18T09:58:02Z"
   }
 ]

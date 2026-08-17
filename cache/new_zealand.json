@@ -60646,5 +60646,77 @@
     "privateContributions": 0,
     "publicContributions": 42,
     "createdAt": "2017-10-26T07:09:29Z"
+  },
+  {
+    "login": "ZhangXinNan",
+    "name": "Xin Zhang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3959778?s=72&u=f197d333bfaa49f0f0c0fab2e72b7dffa064f0c2&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "University of Waikato",
+    "twitterUsername": "",
+    "followers": 79,
+    "privateContributions": 0,
+    "publicContributions": 171,
+    "createdAt": "2013-03-25T01:48:45Z"
+  },
+  {
+    "login": "Humni",
+    "name": "Nick Humphries",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5545538?s=72&u=6cd7fb0bd1e65ea16280614c9bed6e0b7b34cd69&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "Exaba",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 1744,
+    "publicContributions": 5,
+    "createdAt": "2013-09-26T00:02:52Z"
+  },
+  {
+    "login": "samminweng",
+    "name": "Min-Hsien Weng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5901362?s=72&u=4d4d1e511c33da4fc7aedfcc6a6efe4f430e4232&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "",
+    "twitterUsername": "samminweng",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-10T11:07:55Z"
+  },
+  {
+    "login": "nilforooshan",
+    "name": "Mohammad Ali Nilforooshan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4611377?s=72&u=8e1e112658bce88a7931aaf05c63dbc233e3a9c5&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "LIC",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2013-06-04T13:19:59Z"
+  },
+  {
+    "login": "mmayo888",
+    "name": "Michael Mayo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5247561?s=72&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "University of Waikato",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-16T21:49:21Z"
+  },
+  {
+    "login": "john-shortland-dot-com",
+    "name": "John Shortland",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3645931?s=72&u=89287dda4c1492e0980852ffb51fdab114245cdc&v=4",
+    "location": "Hamilton, New Zealand",
+    "company": "JohnShortland.com",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-20T09:31:32Z"
   }
 ]
