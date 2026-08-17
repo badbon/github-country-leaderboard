@@ -40039,7 +40039,7 @@
     "company": "@Tartarus-Studio",
     "twitterUsername": "SpiritAmr",
     "followers": 9,
-    "privateContributions": 488,
+    "privateContributions": 519,
     "publicContributions": 264,
     "createdAt": "2020-06-26T06:27:22Z"
   },
@@ -41527,7 +41527,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 132,
+    "privateContributions": 140,
     "publicContributions": 277,
     "createdAt": "2020-11-18T18:26:29Z"
   },
@@ -42259,7 +42259,7 @@
     "company": "",
     "twitterUsername": "FiberAhmad",
     "followers": 8,
-    "privateContributions": 224,
+    "privateContributions": 225,
     "publicContributions": 43,
     "createdAt": "2020-09-28T14:24:41Z"
   },
@@ -42343,7 +42343,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1898,
+    "privateContributions": 1918,
     "publicContributions": 10,
     "createdAt": "2020-07-18T03:05:30Z"
   },
@@ -48994,5 +48994,17 @@
     "privateContributions": 719,
     "publicContributions": 17,
     "createdAt": "2013-04-23T15:41:08Z"
+  },
+  {
+    "login": "mohamedMghazi",
+    "name": "Mohamed Ghazi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62715268?s=72&u=31fa5926b44322552eca34e446441c9965e724c0&v=4",
+    "location": "Riyadh, Saudi Arabia",
+    "company": "Tawuniya",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 199,
+    "publicContributions": 11,
+    "createdAt": "2020-03-26T17:10:05Z"
   }
 ]

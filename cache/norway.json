@@ -61510,5 +61510,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-20T08:27:18Z"
+  },
+  {
+    "login": "janeski-zz",
+    "name": "Miroslav Janeski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4072649?s=72&v=4",
+    "location": "Skopje, Macedonia Oslo, Norway",
+    "company": "@NebbGroup ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-05T20:45:00Z"
+  },
+  {
+    "login": "JovanSpasovic",
+    "name": "Jovan Spasovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73401409?s=72&u=9404b9deed49ed8be34c31a39a68f836caef7c34&v=4",
+    "location": "Oslo",
+    "company": "University of Oslo - IT Department",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2020-10-24T17:55:41Z"
+  },
+  {
+    "login": "Seb-f-Johansson",
+    "name": "Sebastian Frånlund Johansson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74738304?s=72&u=60ef630e1cf39ab07cae5a067c8c44b7b3581c9a&v=4",
+    "location": "Oslo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2020-11-19T20:05:47Z"
   }
 ]

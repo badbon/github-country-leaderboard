@@ -766,5 +766,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-29T20:36:56Z"
+  },
+  {
+    "login": "michaelbutler1998",
+    "name": "Michael Butler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15836316?s=72&u=ee33d013db8d60f2dfcc34bbaa5222ff108e0b68&v=4",
+    "location": "Jersey",
+    "company": "Insert Affiliate Ltd",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 415,
+    "createdAt": "2015-11-13T16:49:04Z"
+  },
+  {
+    "login": "jkustra92-zz",
+    "name": "Jessica Kustra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16453910?s=72&u=b5c9ce59f8a2bb6f0f2c434923689c2d7790afab&v=4",
+    "location": "jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-27T16:58:46Z"
+  },
+  {
+    "login": "comeonism",
+    "name": "Aleks Baklanovs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11824403?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-06T20:53:22Z"
   }
 ]

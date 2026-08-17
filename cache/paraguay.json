@@ -24274,5 +24274,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2009-06-21T13:40:27Z"
+  },
+  {
+    "login": "matiasinsaurralde",
+    "name": "Matías Insaurralde",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20110?s=72&u=5bd82328e9e99bea922200961d0b2f5e4986ef71&v=4",
+    "location": "Paraguay",
+    "company": "Chainloop, Inc.",
+    "twitterUsername": "",
+    "followers": 2012,
+    "privateContributions": 1620,
+    "publicContributions": 824,
+    "createdAt": "2008-08-09T06:38:39Z"
+  },
+  {
+    "login": "crodas",
+    "name": "C",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36463?s=72&u=f4228f0b23b7302d1bb60c78045093a2cc123679&v=4",
+    "location": "Asunción, Paraguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 424,
+    "privateContributions": 0,
+    "publicContributions": 510,
+    "createdAt": "2008-11-24T23:48:18Z"
+  },
+  {
+    "login": "dschulz",
+    "name": "Diego Schulz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36960?s=72&u=35da258fa6e2cf7de8e5a2f1086e4fe498331983&v=4",
+    "location": "Hohenau, Paraguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 79,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2008-11-27T13:40:18Z"
+  },
+  {
+    "login": "emilioeduardob",
+    "name": "Emilio Blanco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18532?s=72&v=4",
+    "location": "Paraguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 55,
+    "privateContributions": 2790,
+    "publicContributions": 90,
+    "createdAt": "2008-07-27T01:57:42Z"
+  },
+  {
+    "login": "jcroot",
+    "name": "Jean Claude Adams",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27480?s=72&u=5519205bccdad4e55fd8de4e43e35a0d8a7ce71e&v=4",
+    "location": "Asuncion, Paraguay",
+    "company": "arrobasoft",
+    "twitterUsername": "jcroot",
+    "followers": 44,
+    "privateContributions": 3486,
+    "publicContributions": 3,
+    "createdAt": "2008-10-03T20:50:41Z"
+  },
+  {
+    "login": "ronPy",
+    "name": "Ronald Abegg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26921?s=72&u=235d4b6c1d3051c86407cbb072014403a2d96392&v=4",
+    "location": "Asunción, Paraguay.",
+    "company": "10grounds.com",
+    "twitterUsername": "ronpy",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-09-30T14:05:24Z"
   }
 ]

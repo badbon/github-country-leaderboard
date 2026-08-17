@@ -73378,5 +73378,53 @@
     "privateContributions": 0,
     "publicContributions": 30,
     "createdAt": "2011-03-25T13:26:20Z"
+  },
+  {
+    "login": "singularis-mzf",
+    "name": "Singularis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46221138?s=72&u=e855c419dad3dd5c9979ebfc0d9d8dc27de89299&v=4",
+    "location": "Česká republika",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2018-12-28T12:06:42Z"
+  },
+  {
+    "login": "midub",
+    "name": "Dub Michal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37038617?s=72&v=4",
+    "location": "Praha, Česká republika",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2018-03-04T10:12:26Z"
+  },
+  {
+    "login": "Vcpavel31",
+    "name": "Pavel Kubiš",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37764821?s=72&v=4",
+    "location": "Třebíč, Česká Republika",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-25T05:41:13Z"
+  },
+  {
+    "login": "Radzuka",
+    "name": "Radka Výborná",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45604027?s=72&u=e932f2e55c30e2d6662ca1d906a7c6b8e2252e8a&v=4",
+    "location": "Česká republika",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-04T17:19:57Z"
   }
 ]
