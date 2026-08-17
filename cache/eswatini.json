@@ -1066,5 +1066,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-02-22T10:55:14Z"
+  },
+  {
+    "login": "adekunleowolabi",
+    "name": "Adekunle Owolabi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19345857?s=72&u=78ab063cff291dec26eabba9c31eeeda008b88da&v=4",
+    "location": "Mbabane, Eswatini",
+    "company": "",
+    "twitterUsername": "iamkstunt",
+    "followers": 14,
+    "privateContributions": 14,
+    "publicContributions": 0,
+    "createdAt": "2016-05-13T12:04:42Z"
+  },
+  {
+    "login": "MikeMalindzisa",
+    "name": "Maqhawe Mike Malindzisa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20768570?s=72&u=a1013ad4bc9a30a98d747d572bd3b9db11107d80&v=4",
+    "location": "Eswatini",
+    "company": "OUTSOURCE ESWATINI PTY LTD",
+    "twitterUsername": "guy_m1ke",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-01T08:41:23Z"
+  },
+  {
+    "login": "Saneleros",
+    "name": "sanele khumalo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21216812?s=72&u=1af6c6262a7d8ca1f34d6a20703b4f1794dbfbdd&v=4",
+    "location": "eswatini",
+    "company": "book a book",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-08-24T09:20:33Z"
+  },
+  {
+    "login": "andrewmlee",
+    "name": "Andy Lee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20179729?s=72&u=aae08ffbccafe349d7675e476b739fd5b6dbf706&v=4",
+    "location": "Mbabane, Eswatini",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-28T05:06:49Z"
   }
 ]

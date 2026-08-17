@@ -34462,5 +34462,113 @@
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2016-08-30T20:00:30Z"
+  },
+  {
+    "login": "aarelaponin",
+    "name": "Aare Laponin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22317857?s=72&u=88ccd40a285894ef027526f88784da654a1c8dfa&v=4",
+    "location": "Tallinn",
+    "company": "FiscalAdmin OÜ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 228,
+    "publicContributions": 240,
+    "createdAt": "2016-09-20T09:32:50Z"
+  },
+  {
+    "login": "I-Am-Nicholas",
+    "name": "Nicholas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24227633?s=72&u=af45d7ac2c4699cbc61f861c3c783cc182091030&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-28T14:40:39Z"
+  },
+  {
+    "login": "viktoria222",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23080527?s=72&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-26T15:14:21Z"
+  },
+  {
+    "login": "alekseiplotnikov",
+    "name": "Aleksei Plotnikov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22191008?s=72&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1417,
+    "publicContributions": 2,
+    "createdAt": "2016-09-14T08:24:45Z"
+  },
+  {
+    "login": "no4ek",
+    "name": "Anastassia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19607383?s=72&u=53e3202ac53f00420958568a15d1e10104f8e768&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-27T10:13:40Z"
+  },
+  {
+    "login": "krrastas",
+    "name": "Kristina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22431215?s=72&u=e226a67656bce2e5527366a54da6a17e2dfba76b&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-25T16:07:06Z"
+  },
+  {
+    "login": "kliiva5",
+    "name": "Kristjan Liiva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22071403?s=72&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-08T07:59:58Z"
+  },
+  {
+    "login": "rolandtallerma",
+    "name": "Roland Tallerma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22071412?s=72&u=114792988d960d9b44901861a712143005274bd7&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-08T08:00:06Z"
+  },
+  {
+    "login": "mikkraba",
+    "name": "mikkr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20781357?s=72&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 265,
+    "publicContributions": 0,
+    "createdAt": "2016-08-01T21:15:54Z"
   }
 ]
