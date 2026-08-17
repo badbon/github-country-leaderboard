@@ -634,5 +634,29 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2017-01-31T04:58:05Z"
+  },
+  {
+    "login": "CBurgis",
+    "name": "Charles Burgis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30831569?s=72&u=b29be5119ffce5e93595773a8a8af20960226ab7&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-08T11:33:28Z"
+  },
+  {
+    "login": "ndestates",
+    "name": "Nick Dodsley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29204990?s=72&u=93a089c7f1d10d0fea0f2e749414542382041b4b&v=4",
+    "location": "Jersey",
+    "company": "ND Estates",
+    "twitterUsername": "nickdodsley",
+    "followers": 1,
+    "privateContributions": 5120,
+    "publicContributions": 227,
+    "createdAt": "2017-06-05T14:51:45Z"
   }
 ]

@@ -62254,5 +62254,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-01T01:14:28Z"
+  },
+  {
+    "login": "pointonepointone",
+    "name": "Andrew",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38697697?s=72&u=888c2ddb4be7de216e81d254a7935ad6aaf1151c&v=4",
+    "location": "London & Hong Kong",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2018-04-24T15:25:18Z"
+  },
+  {
+    "login": "katja-jv",
+    "name": "Jekaterina J.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65239107?s=72&u=251ba61e8daaa2fc5b5e09f94369ba8fa6bfa4f4&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 698,
+    "publicContributions": 0,
+    "createdAt": "2020-05-12T14:49:34Z"
+  },
+  {
+    "login": "mattdev95",
+    "name": "Matthew Edwards",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60045503?s=72&u=587d7459f48d1fd5669c2219f3372d8d198c629a&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2020-01-18T19:19:30Z"
+  },
+  {
+    "login": "Iupin",
+    "name": "Matthew",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61597232?s=72&u=59d25641ea9b779d429d772122147458fe0b71c5&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 58,
+    "publicContributions": 18,
+    "createdAt": "2020-02-28T17:30:58Z"
+  },
+  {
+    "login": "pipetogrep",
+    "name": "Robert Stringer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62722976?s=72&u=34bd2720742ea4a8d28cef55cd6645a495ce258c&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "trypipetogrep",
+    "followers": 5,
+    "privateContributions": 1142,
+    "publicContributions": 142,
+    "createdAt": "2020-03-26T20:34:59Z"
+  },
+  {
+    "login": "cpotech",
+    "name": "Charlie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65982085?s=72&u=d6d9743709e529acaa0c46313458c0de78d5e8d1&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1819,
+    "publicContributions": 48,
+    "createdAt": "2020-05-26T21:30:13Z"
   }
 ]
