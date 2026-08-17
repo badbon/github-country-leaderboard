@@ -40582,5 +40582,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-16T01:08:42Z"
+  },
+  {
+    "login": "DimzGetGo",
+    "name": "Dimas Aristyo Rahadian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102641791?s=72&u=ee7989979c58290221f9781fbbfb868ffd546ecf&v=4",
+    "location": "Singapore",
+    "company": "GetGo Technologies Pte Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-30T03:43:34Z"
+  },
+  {
+    "login": "ericaang",
+    "name": "Erica Ang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102950278?s=72&v=4",
+    "location": "Singapore",
+    "company": "Capgemini",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-04T07:49:16Z"
+  },
+  {
+    "login": "jjccshi",
+    "name": "Shi Jiacheng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106860994?s=72&v=4",
+    "location": "Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-06-04T06:56:27Z"
+  },
+  {
+    "login": "ptrandri",
+    "name": "Andri Putra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102764886?s=72&u=d213d74b4db0b7e0228ef760d84e347dd71a9324&v=4",
+    "location": "Singapore",
+    "company": "Nordic Solutions Asia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2022-03-31T20:29:05Z"
   }
 ]

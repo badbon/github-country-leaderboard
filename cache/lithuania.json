@@ -45754,5 +45754,101 @@
     "privateContributions": 17,
     "publicContributions": 0,
     "createdAt": "2015-02-26T14:51:01Z"
+  },
+  {
+    "login": "davealcon",
+    "name": "Dovydas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15227169?s=72&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-10-21T07:28:45Z"
+  },
+  {
+    "login": "AkimMT",
+    "name": "Akbarjon Tulaganov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14253688?s=72&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2015-09-12T21:25:30Z"
+  },
+  {
+    "login": "Delfx",
+    "name": "Lukas Motiejūnas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16444906?s=72&u=3a63c25fbbb5d4e57d620178b6f6937735e93408&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2015-12-26T14:16:08Z"
+  },
+  {
+    "login": "mantasbrasiunas",
+    "name": "Mantas Brasiunas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11815547?s=72&u=b8c10380c3cf6d0c0ff734a71480f11b862279b2&v=4",
+    "location": "Vilnius",
+    "company": "Java Freelancer",
+    "twitterUsername": "mantasbrasiunas",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-04-06T09:31:49Z"
+  },
+  {
+    "login": "tomaziss",
+    "name": "Tomas Vaiciunas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14888110?s=72&v=4",
+    "location": "Vilnius",
+    "company": "Mobilelife",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-29T10:33:46Z"
+  },
+  {
+    "login": "ErmAm",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14986728?s=72&u=60ab3018c4d7bb1142b8f23718b7d925a8489acb&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-05T21:48:48Z"
+  },
+  {
+    "login": "ZilvinasAbr",
+    "name": "Zilvinas Abromavicius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15871316?s=72&u=fde3fbb36b108443fe3d23dda13ed652c5945738&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 308,
+    "publicContributions": 64,
+    "createdAt": "2015-11-16T13:05:49Z"
+  },
+  {
+    "login": "tunet",
+    "name": "Alex K",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13083164?s=72&v=4",
+    "location": "Vilnius",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-06-28T03:57:10Z"
   }
 ]

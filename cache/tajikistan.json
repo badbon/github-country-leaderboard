@@ -8434,5 +8434,101 @@
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2013-04-04T08:45:14Z"
+  },
+  {
+    "login": "tajik-dev",
+    "name": "Komil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1754098?s=72&u=81684fff2fd05e0814beae07b16ee6c90f0466a4&v=4",
+    "location": "Tajikistan",
+    "company": "CODE.TJ",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-05-19T03:15:15Z"
+  },
+  {
+    "login": "Ibragimov",
+    "name": "Victor Ibragimov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1321588?s=72&v=4",
+    "location": "Tajikistan, Dushanbe city",
+    "company": "Tajik KDE & Software Localization Team",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2012-01-11T12:19:46Z"
+  },
+  {
+    "login": "sniyozov",
+    "name": "Suhrob N.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2156012?s=72&u=d00407dacd6a08d7a996546ae3ba70887e3eb1f0&v=4",
+    "location": "Tajikistan,Dushanbe",
+    "company": "ict4d.tj",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-15T09:27:39Z"
+  },
+  {
+    "login": "Ikhtiyor",
+    "name": "Ikhtiyor Kholikov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1531950?s=72&u=f0e2089bf77f366d7ac72c52c683334d658c6fc9&v=4",
+    "location": "Tajikistan, Dushanbe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-13T08:06:36Z"
+  },
+  {
+    "login": "pulatov",
+    "name": "Pulatov Farhod",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2220811?s=72&v=4",
+    "location": "Tajikistan/Dushanbe",
+    "company": "Emon LLC",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-26T06:37:22Z"
+  },
+  {
+    "login": "ElXak",
+    "name": "Elmurod Boboev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2688996?s=72&u=5e2ce5e99e4f7188ca9827ed99a8e2493ea9691c&v=4",
+    "location": "Dushanbe, Tajikistan",
+    "company": "ISM.TJ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 61,
+    "createdAt": "2012-10-31T06:03:25Z"
+  },
+  {
+    "login": "TeAche",
+    "name": "Timur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1857092?s=72&v=4",
+    "location": "Tajikistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2012-06-16T15:51:59Z"
+  },
+  {
+    "login": "latipovsharif",
+    "name": "Sharif",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2291384?s=72&v=4",
+    "location": "tajikistan",
+    "company": "abr.tj",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 752,
+    "publicContributions": 48,
+    "createdAt": "2012-09-06T10:56:27Z"
   }
 ]

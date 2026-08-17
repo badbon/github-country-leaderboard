@@ -1858,5 +1858,29 @@
     "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2010-04-05T18:14:55Z"
+  },
+  {
+    "login": "dive",
+    "name": "Artem Loenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59749?s=72&u=399f779901d99247df45a4aab5a6abb0bb1d05a6&v=4",
+    "location": "Isle of Man",
+    "company": "",
+    "twitterUsername": "justsitandgrin",
+    "followers": 78,
+    "privateContributions": 1845,
+    "publicContributions": 296,
+    "createdAt": "2009-03-03T16:24:29Z"
+  },
+  {
+    "login": "ManxStef",
+    "name": "Stef Pause",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116098?s=72&v=4",
+    "location": "Isle of Man",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-08-17T12:32:35Z"
   }
 ]

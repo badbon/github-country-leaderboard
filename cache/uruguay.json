@@ -45142,5 +45142,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-01-31T21:04:13Z"
+  },
+  {
+    "login": "yanibustos",
+    "name": "Yanina Bustos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30510316?s=72&u=cc00479176ae18c42697e0465f2ae6b70f1c571f&v=4",
+    "location": "Montevideo,Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2017-07-27T21:18:14Z"
+  },
+  {
+    "login": "Pazcifier",
+    "name": "José Paz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25017297?s=72&v=4",
+    "location": "Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-09T21:01:48Z"
   }
 ]
