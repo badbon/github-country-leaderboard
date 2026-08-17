@@ -8530,5 +8530,29 @@
     "privateContributions": 752,
     "publicContributions": 48,
     "createdAt": "2012-09-06T10:56:27Z"
+  },
+  {
+    "login": "firdavskurbonov",
+    "name": "Firdavs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1798532?s=72&u=9b326c540497645cf32ae870e392c7c50616e634&v=4",
+    "location": "Dushanbe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2012-05-31T11:20:26Z"
+  },
+  {
+    "login": "SFayziev",
+    "name": "Faiziev Shuhrat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2844432?s=72&u=fc4d23045fd3638f9e8be4d28fe7a3b37c8fbf10&v=4",
+    "location": "Dushanbe",
+    "company": "UserCare",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-20T13:25:37Z"
   }
 ]

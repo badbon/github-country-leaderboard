@@ -35407,7 +35407,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1669,
+    "privateContributions": 1671,
     "publicContributions": 24,
     "createdAt": "2016-06-15T12:30:46Z"
   },
@@ -35467,7 +35467,7 @@
     "company": "Digital Control",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1452,
+    "privateContributions": 1504,
     "publicContributions": 0,
     "createdAt": "2016-09-12T13:41:19Z"
   },
@@ -36526,5 +36526,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-25T11:01:56Z"
+  },
+  {
+    "login": "emgamelab",
+    "name": "Game Lab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24697844?s=72&u=f641825f3b31587751dc09fac1f7f592769a260c&v=4",
+    "location": "Yerevan",
+    "company": "Game Lab",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-21T12:45:43Z"
+  },
+  {
+    "login": "karapetyanh",
+    "name": "Usta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18617247?s=72&v=4",
+    "location": "Yerevan",
+    "company": "Staff.am",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-22T14:58:54Z"
+  },
+  {
+    "login": "mkmushegh",
+    "name": "Mushegh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20505751?s=72&u=778996f7245081b491073a48093bdaa0c0f0ca5d&v=4",
+    "location": "Yerevan",
+    "company": "Mapit",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 57,
+    "publicContributions": 0,
+    "createdAt": "2016-07-17T20:41:12Z"
+  },
+  {
+    "login": "Dmitry-Torosyan",
+    "name": "Dmitry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24219668?s=72&u=7813b3e5470bcc4897f9781a37fe44f37144eeed&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-28T07:27:25Z"
+  },
+  {
+    "login": "Kurt-Wylde",
+    "name": "Evgeny Koshkin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18484765?s=72&u=93e39e61659a5432e159b104542013528c17a6cc&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 50,
+    "publicContributions": 1,
+    "createdAt": "2016-04-15T13:33:26Z"
+  },
+  {
+    "login": "HripsimeHome",
+    "name": "Hripsime",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22394856?s=72&u=02299a44b20b45d2ceeaefba861c34023049c654&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 73,
+    "createdAt": "2016-09-23T12:42:46Z"
+  },
+  {
+    "login": "ArturNaz",
+    "name": "Artur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24572438?s=72&u=056daa9e67e8d5bf256a9f0f43614e61cdfc9ec8&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2016-12-14T17:32:18Z"
   }
 ]
