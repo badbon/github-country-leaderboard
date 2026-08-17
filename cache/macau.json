@@ -5422,5 +5422,53 @@
     "privateContributions": 49,
     "publicContributions": 4,
     "createdAt": "2009-08-22T15:23:25Z"
+  },
+  {
+    "login": "marcoleong",
+    "name": "Marco Leong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119320?s=72&v=4",
+    "location": "Macau",
+    "company": "University of Saint Joseph",
+    "twitterUsername": "",
+    "followers": 49,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-08-25T15:05:40Z"
+  },
+  {
+    "login": "simoniong",
+    "name": "Simon Iong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131174?s=72&u=c7feacdd1a759341ed3a993a71ba86410938d7d1&v=4",
+    "location": "Macau",
+    "company": "Ksun Technology",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 1226,
+    "createdAt": "2009-09-25T10:43:43Z"
+  },
+  {
+    "login": "gestadieu",
+    "name": "Gerald Estadieu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116859?s=72&v=4",
+    "location": "Macau",
+    "company": "University of Saint Joseph (Macau)",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-08-19T03:08:05Z"
+  },
+  {
+    "login": "skynee",
+    "name": "Skynee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43625?s=72&u=2155188a3d84f72f8a14824ebc69067793027c34&v=4",
+    "location": "Macau",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-01-01T16:05:01Z"
   }
 ]

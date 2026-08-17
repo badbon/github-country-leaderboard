@@ -52330,5 +52330,101 @@
     "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2015-02-21T15:18:54Z"
+  },
+  {
+    "login": "pbdunn",
+    "name": "Brad Dunn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11306480?s=72&u=b57d57434b572c8a69d04675aa7d51be8b0e4f92&v=4",
+    "location": "San José, California",
+    "company": "@github ",
+    "twitterUsername": "",
+    "followers": 82,
+    "privateContributions": 32,
+    "publicContributions": 0,
+    "createdAt": "2015-03-04T03:25:16Z"
+  },
+  {
+    "login": "marandino",
+    "name": "Chiyen Venegas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16166216?s=72&u=8f017f063c8fa1ae2879dd59d1bfdba0584f4614&v=4",
+    "location": "San José",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 590,
+    "publicContributions": 1,
+    "createdAt": "2015-12-05T14:05:09Z"
+  },
+  {
+    "login": "nitram92bcs",
+    "name": "Martin Urias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10632999?s=72&u=19eb8e301a644da6b446c6b50179179c24c4a498&v=4",
+    "location": "San José del Cabo",
+    "company": "Nautilus Dive Adventure",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 2424,
+    "publicContributions": 0,
+    "createdAt": "2015-01-21T15:06:53Z"
+  },
+  {
+    "login": "JessiDG",
+    "name": "Jessica Dickinson Goodman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10377218?s=72&v=4",
+    "location": "San José",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-03T01:37:38Z"
+  },
+  {
+    "login": "malignantbae",
+    "name": "Malignant",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14142413?s=72&u=c15eedb7c4102851494a1bbfaec2eaaa8db240f3&v=4",
+    "location": "San José CR",
+    "company": "Malignant Developers",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-05T20:38:31Z"
+  },
+  {
+    "login": "Silicon1602",
+    "name": "Dennis Potter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11364332?s=72&u=a7035d61901ed54dae522283eaf63c0ad81419c0&v=4",
+    "location": "San José, California",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2015-03-07T13:23:58Z"
+  },
+  {
+    "login": "CanyonR",
+    "name": "Canyon Read",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11058047?s=72&u=d0e06d4f01a5ff470ef6461922ecf645d0e9cdca&v=4",
+    "location": "San José, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-18T10:00:42Z"
+  },
+  {
+    "login": "shashank1995",
+    "name": "Shashank Singh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15519873?s=72&u=f73c08bd785b673856c80b60827d4062d96d250f&v=4",
+    "location": "San José",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-31T09:01:27Z"
   }
 ]

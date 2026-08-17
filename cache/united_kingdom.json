@@ -63718,5 +63718,65 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2025-12-21T12:23:57Z"
+  },
+  {
+    "login": "karlmassey",
+    "name": "Karl Massey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65904300?s=72&u=146bcbf1eee15a32b12bb18194cef350960788d9&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-25T12:59:38Z"
+  },
+  {
+    "login": "imandypugh",
+    "name": "Andy Pugh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63121748?s=72&u=034d0949c49db9576788e7aaab97b321a05572f8&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-03T18:30:28Z"
+  },
+  {
+    "login": "Janirudev",
+    "name": "Janiru Fonseka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64431581?s=72&u=d97fc3a743cb64147bebe38e8f60a5384faa7696&v=4",
+    "location": "Belfast, Northern Ireland, United Kingdom ",
+    "company": "Janiru.dev",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2020-04-27T17:28:08Z"
+  },
+  {
+    "login": "jordanwsm",
+    "name": "Jordan Stevenson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63377200?s=72&u=511cd46f73cc946ad59f90adc3fa76f557b54584&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-08T23:06:39Z"
+  },
+  {
+    "login": "callumcanavan",
+    "name": "Callum Canavan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60072993?s=72&u=9d10da91d960dcb60fa5e12f067640bae798b530&v=4",
+    "location": "Derry, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 615,
+    "publicContributions": 52,
+    "createdAt": "2020-01-19T18:10:23Z"
   }
 ]

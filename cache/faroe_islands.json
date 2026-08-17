@@ -754,5 +754,41 @@
     "privateContributions": 559,
     "publicContributions": 0,
     "createdAt": "2010-12-16T13:39:15Z"
+  },
+  {
+    "login": "ahjohannessen",
+    "name": "Alex Henning Johannessen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153607?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "",
+    "twitterUsername": "ahjohannessen",
+    "followers": 45,
+    "privateContributions": 0,
+    "publicContributions": 336,
+    "createdAt": "2009-11-15T18:33:48Z"
+  },
+  {
+    "login": "argilzar",
+    "name": "Brian Bischoff",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60230?s=72&u=5f5bbc9555ad83ca9fb2cc8cad2e6ff69dc8ccab&v=4",
+    "location": "Faroe Islands",
+    "company": "@globe-tracker @flowcore-io ",
+    "twitterUsername": "argilzar",
+    "followers": 12,
+    "privateContributions": 3019,
+    "publicContributions": 92,
+    "createdAt": "2009-03-04T21:51:47Z"
+  },
+  {
+    "login": "akkernight",
+    "name": "Ian T. Jacobsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161199?s=72&v=4",
+    "location": "Faroe Islands",
+    "company": "Aeres Entertainment",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-12-03T03:39:43Z"
   }
 ]

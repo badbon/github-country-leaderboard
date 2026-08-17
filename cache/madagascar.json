@@ -22750,5 +22750,41 @@
     "privateContributions": 4,
     "publicContributions": 1,
     "createdAt": "2012-03-22T06:36:20Z"
+  },
+  {
+    "login": "miradozk",
+    "name": "Mirado ZK",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1849694?s=72&v=4",
+    "location": "Antananarivo, MG",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2012-06-14T09:37:42Z"
+  },
+  {
+    "login": "emilevitroc",
+    "name": "Victor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1956836?s=72&v=4",
+    "location": "Antananarivo",
+    "company": "Myagency",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-11T13:50:38Z"
+  },
+  {
+    "login": "Tiafeno",
+    "name": "Tiafeno Finel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1378524?s=72&u=daed8dba79c8766e7caf6bdef5e70d55a459b474&v=4",
+    "location": "Antananarivo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 105,
+    "publicContributions": 87,
+    "createdAt": "2012-01-25T08:55:40Z"
   }
 ]

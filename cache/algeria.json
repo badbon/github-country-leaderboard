@@ -55822,5 +55822,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-11-14T16:10:46Z"
+  },
+  {
+    "login": "AmineVolk",
+    "name": "AmineCode",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37228315?s=72&u=b97e70fa994bb36bf0002f36c4edf928b3644eb6&v=4",
+    "location": "Algérie, Béjaïa",
+    "company": "amineo.dev",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 376,
+    "publicContributions": 12,
+    "createdAt": "2018-03-09T22:21:07Z"
+  },
+  {
+    "login": "atmaniali",
+    "name": "Atmani-Ali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35938731?s=72&u=9f2526f4057e1c38f67b3a264993b7a63136c84b&v=4",
+    "location": "Oran,Algérie",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 28,
+    "publicContributions": 3,
+    "createdAt": "2018-01-29T22:00:57Z"
+  },
+  {
+    "login": "AkramAzouzi",
+    "name": "Akram Azouzi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45470693?s=72&u=a10cde808c59705b474a9a0139ea72cf9edd41db&v=4",
+    "location": "M'sila, Algérie",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 36,
+    "publicContributions": 0,
+    "createdAt": "2018-11-29T21:48:23Z"
+  },
+  {
+    "login": "AziziAbdallah",
+    "name": "AZIZI Abdallah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37161741?s=72&u=f1a93f8e0d99d6f4bf61e02728a26e8c4b22f971&v=4",
+    "location": "Alger, Algérie",
+    "company": "ENSTP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-07T23:20:19Z"
+  },
+  {
+    "login": "khelffr",
+    "name": "Farid Khelf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36479790?s=72&v=4",
+    "location": "Tizi-ouzou, algérie",
+    "company": " data science internship",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-14T14:26:31Z"
+  },
+  {
+    "login": "hamoudififi3",
+    "name": "Maafifi Mohamed Raid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42610244?s=72&u=c2e069b3c41eca94a74a9a0594ab52f3f98fdd6c&v=4",
+    "location": "Batna , Algérie",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2018-08-22T12:46:31Z"
   }
 ]

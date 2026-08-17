@@ -25330,5 +25330,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-05-24T11:40:00Z"
+  },
+  {
+    "login": "adnanmiljkovic",
+    "name": "Adnan Miljkovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195312?s=72&u=366a30a500cbf4f8f3f6565441c263684e416cd4&v=4",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "company": "BIOptimizers",
+    "twitterUsername": "",
+    "followers": 50,
+    "privateContributions": 392,
+    "publicContributions": 0,
+    "createdAt": "2010-02-03T09:17:49Z"
+  },
+  {
+    "login": "mstijak",
+    "name": "Marko Stijak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/433394?s=72&v=4",
+    "location": "Banja Luka, Bosnia and Herzegovina",
+    "company": "@codaxy ",
+    "twitterUsername": "mstijak",
+    "followers": 38,
+    "privateContributions": 1272,
+    "publicContributions": 319,
+    "createdAt": "2010-10-09T11:54:46Z"
+  },
+  {
+    "login": "amarsahinovic",
+    "name": "Amar Sahinovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/352603?s=72&v=4",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2010-08-03T09:15:14Z"
+  },
+  {
+    "login": "dsanel",
+    "name": "Sanel Deljkic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287400?s=72&u=18dd9710e08f33eea946f3fe1e31edc52c78ba41&v=4",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 744,
+    "publicContributions": 18,
+    "createdAt": "2010-05-26T06:56:24Z"
+  },
+  {
+    "login": "admiralicic",
+    "name": "admiralicic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184570?s=72&u=1c5dfb0e04f0db9559b258549a63adc123f63574&v=4",
+    "location": "Tuzla, Bosnia and Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2010-01-18T12:15:12Z"
+  },
+  {
+    "login": "guzza",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/188076?s=72&u=d99da738e8656911236bed203320d353550ffb7f&v=4",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-01-23T02:52:03Z"
+  },
+  {
+    "login": "filipdupanovic",
+    "name": "Filip Dupanović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214542?s=72&v=4",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "company": "P3rsonal",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-03T09:29:57Z"
   }
 ]

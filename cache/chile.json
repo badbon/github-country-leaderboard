@@ -66994,5 +66994,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-08T13:38:14Z"
+  },
+  {
+    "login": "Sfuentes01",
+    "name": "Sebastian Fuentes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118203554?s=72&u=e0eff5653e25f8d55c55b3a753503f466bf6e47e&v=4",
+    "location": "Concepción, Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2022-11-14T16:24:42Z"
+  },
+  {
+    "login": "diegoarevalom",
+    "name": "Diego Andrés Arévalo Martínez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113263122?s=72&u=0b68282209087fc369868f0207bbacaf791539fd&v=4",
+    "location": "Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2022-09-10T20:10:53Z"
+  },
+  {
+    "login": "cmdevcl",
+    "name": "Carlos Muñoz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117371254?s=72&v=4",
+    "location": "Las Condes, Chile",
+    "company": "Moliq",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1308,
+    "publicContributions": 5,
+    "createdAt": "2022-11-03T14:15:47Z"
+  },
+  {
+    "login": "Cristian26ml",
+    "name": "CRISTIAN RODRIGO LAURA MURUCHI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111028212?s=72&u=5fd0f351db923dfa3bf3f13b688d6e6f9cefb618&v=4",
+    "location": "Region Metropolitana/Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 69,
+    "createdAt": "2022-08-11T00:43:07Z"
+  },
+  {
+    "login": "gabrielpalocz",
+    "name": "Gabriel Palocz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121043838?s=72&u=b11788fe91ea827307b513eafe2b75daac497dca&v=4",
+    "location": "Talca, Chile.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-19T15:19:48Z"
+  },
+  {
+    "login": "Rodrigogp240",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118467194?s=72&v=4",
+    "location": "Santiago,Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-11-17T16:27:52Z"
+  },
+  {
+    "login": "bluedrakos",
+    "name": "Eduardo Villegas Flores",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112572256?s=72&u=a065c3246354d943abcb87e53ec0a5ad14803b3a&v=4",
+    "location": "Chile",
+    "company": "Casa de Moneda de Chile",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-31T16:07:17Z"
+  },
+  {
+    "login": "felipetrujillot",
+    "name": "Felipe Trujillo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114171020?s=72&u=9cb211a42773e66b85f861307b7f2100851d4ae1&v=4",
+    "location": "Chile",
+    "company": "Entel",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1555,
+    "publicContributions": 10,
+    "createdAt": "2022-09-22T15:13:51Z"
   }
 ]
