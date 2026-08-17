@@ -43630,5 +43630,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-03-09T11:11:19Z"
+  },
+  {
+    "login": "faust93",
+    "name": "Vlad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4245918?s=72&u=60d3a6a0aa7882a817aa5db82e33419f724500a5&v=4",
+    "location": "Eesti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 116,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2013-04-24T13:50:27Z"
+  },
+  {
+    "login": "mihkelvain",
+    "name": "Mihkel Vain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3577598?s=72&v=4",
+    "location": "Eesti",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-12T18:59:35Z"
+  },
+  {
+    "login": "Jsisas",
+    "name": "Joosep Sisas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4634141?s=72&u=e217cf5bd3ee66bd7205c06043a725e6c2191363&v=4",
+    "location": "Eesti, Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 295,
+    "publicContributions": 4,
+    "createdAt": "2013-06-06T20:26:32Z"
   }
 ]

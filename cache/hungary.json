@@ -85258,5 +85258,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-18T15:47:48Z"
+  },
+  {
+    "login": "betti2357",
+    "name": "Erzsebet Lados",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22731644?s=72&u=50d3b572ae31a009df2e67ed1c782e5b76e798d2&v=4",
+    "location": "Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-09T18:48:52Z"
+  },
+  {
+    "login": "sebi88",
+    "name": "Sebestyen Csorba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19426301?s=72&u=d0c896d73db03889fc1485de48ef4514ee0a589e&v=4",
+    "location": "Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-18T08:59:52Z"
+  },
+  {
+    "login": "nyikesda",
+    "name": "Dániel Nyikes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16609748?s=72&u=631c464907335b1573a08a654f14e022985068af&v=4",
+    "location": "Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-08T12:38:56Z"
   }
 ]

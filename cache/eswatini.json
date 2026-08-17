@@ -1210,5 +1210,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-08-17T03:06:31Z"
+  },
+  {
+    "login": "penwelldlamini",
+    "name": "Penwell Dlamini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6572444?s=72&u=f8b3e38d2bb1b7cd797ea3a71fdd27147590fbec&v=4",
+    "location": "Swaziland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-03T07:48:00Z"
+  },
+  {
+    "login": "icemadila",
+    "name": "Katlego Kegopotswe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8624913?s=72&u=f3b36048eeaac7456f7b04e173b3fa5165b45d5b&v=4",
+    "location": "Swaziland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-02T07:44:59Z"
+  },
+  {
+    "login": "wnxumalo",
+    "name": "wnxumalo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6726409?s=72&u=e849cba9ef238fee09f01217495fc32249b19fe3&v=4",
+    "location": "Swaziland",
+    "company": "Maestro IT",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2014-02-19T11:52:50Z"
+  },
+  {
+    "login": "bl1nk3r",
+    "name": "Jose Rego",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8438465?s=72&u=c9a5005ec443f4848c115d5f0192994433538006&v=4",
+    "location": "Mbabane, Swaziland",
+    "company": "Ummo, Inc",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-13T13:03:33Z"
+  },
+  {
+    "login": "nigeljohnson73",
+    "name": "Nigel Johnson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6493525?s=72&u=a38b378b66be81cdaa0a6515dc0fe3ddcbfa0163&v=4",
+    "location": "Malkerns, Swaziland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 93,
+    "publicContributions": 79,
+    "createdAt": "2014-01-24T16:57:48Z"
+  },
+  {
+    "login": "Prezy101",
+    "name": "President Litchfield",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9653108?s=72&u=b56b980b1e062c9e3086cd99d9e9db49f71b0558&v=4",
+    "location": "Swaziland",
+    "company": "Real Image Internet Services",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-10T07:40:15Z"
   }
 ]

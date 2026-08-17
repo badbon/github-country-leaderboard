@@ -84898,5 +84898,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-09T13:10:21Z"
+  },
+  {
+    "login": "andrethiagoDEV",
+    "name": "André Thiago",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/218693122?s=72&u=5214a4935d991c1f6bd685793547c773c292ae6d&v=4",
+    "location": "Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 4,
+    "publicContributions": 100,
+    "createdAt": "2025-07-01T00:41:42Z"
+  },
+  {
+    "login": "SuspraizeMolosfoko",
+    "name": "Suspraize Molosfoko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/223577262?s=72&u=65793a2a4a82f29a51f5c3f4d593fbc66c84de8f&v=4",
+    "location": "Brasil",
+    "company": "",
+    "twitterUsername": "suspraize",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-07-30T00:36:23Z"
+  },
+  {
+    "login": "alceuio",
+    "name": "Alceu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225697656?s=72&u=4975b921711ec1060e23d0636fbfe824a990244c&v=4",
+    "location": "Brasil",
+    "company": "alceu.io",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-08-10T12:33:10Z"
+  },
+  {
+    "login": "YanFink",
+    "name": "Fink",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225281896?s=72&u=274cbf8a4ab4697bd0aab92b8cf154b7354cf92b&v=4",
+    "location": "São Paulo, Brasil",
+    "company": "WESA INFORMATICA LTDA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-08-07T22:00:50Z"
+  },
+  {
+    "login": "Gabrielle-Soares",
+    "name": "Gabrielle Soares",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224444894?s=72&u=466984b5ad1e18c38304c18e5911cd0ae5dbe945&v=4",
+    "location": "Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2025-08-03T18:15:21Z"
+  },
+  {
+    "login": "eduardoporangaba",
+    "name": "Eduardo Porangaba Leite Ribeiro da Silva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225429377?s=72&u=5ea80014d961a9d88c3408489a824a24a3ebe160&v=4",
+    "location": "Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 71,
+    "publicContributions": 76,
+    "createdAt": "2025-08-08T16:34:32Z"
   }
 ]

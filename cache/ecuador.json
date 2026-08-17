@@ -55246,5 +55246,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-21T13:07:31Z"
+  },
+  {
+    "login": "eltorga",
+    "name": "eltorga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6174267?s=72&u=c120dcebe85bdc1e2a0a80f8b91f0f822f30e059&v=4",
+    "location": "Quito - Ecuador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 127,
+    "createdAt": "2013-12-13T00:22:14Z"
+  },
+  {
+    "login": "OCNVN",
+    "name": "Carlos Lucero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3800656?s=72&u=5e20262de72c901d17581779152ffc70c6d0b44f&v=4",
+    "location": "Cuenca, Ecuador",
+    "company": "Agendy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 892,
+    "publicContributions": 1,
+    "createdAt": "2013-03-07T17:36:03Z"
+  },
+  {
+    "login": "jogovlad",
+    "name": "Jairo Cocha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4690059?s=72&v=4",
+    "location": "Ecuador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-13T15:34:32Z"
+  },
+  {
+    "login": "almacenero",
+    "name": "Yasser",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3899509?s=72&u=cc9ee723c058cf76b1ac9defdb287e2c7dc9909e&v=4",
+    "location": "Ecuador",
+    "company": "ingeniodc",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1069,
+    "publicContributions": 20,
+    "createdAt": "2013-03-18T13:57:06Z"
+  },
+  {
+    "login": "jjavierv",
+    "name": "JoseJavier Velasco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4961368?s=72&u=87796fc13e38eadc5cd2f3a6d1b84fbb600d783c&v=4",
+    "location": "Salinas, Ecuador",
+    "company": "",
+    "twitterUsername": "jjavierv",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2013-07-08T02:32:03Z"
   }
 ]

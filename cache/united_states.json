@@ -124330,5 +124330,101 @@
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2025-10-30T19:25:20Z"
+  },
+  {
+    "login": "awjohnso",
+    "name": "Andrew W Johnson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2388138?s=72&v=4",
+    "location": "Long Island, NY (USA)",
+    "company": "Stony Brook University",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-20T18:52:29Z"
+  },
+  {
+    "login": "bilherron",
+    "name": "Bil Herron",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2677814?s=72&u=a30c8c162ca6b5b6b9b14b2fc47485f805b0bcf6&v=4",
+    "location": "Rhode Island, USA",
+    "company": "Ad Hoc",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2012-10-29T18:57:58Z"
+  },
+  {
+    "login": "clirakis",
+    "name": "Chris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2862660?s=72&u=b06bcd255d337e554d8503cb45d547543d49f73f&v=4",
+    "location": "Rhode Island, USA",
+    "company": "self employed ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 347,
+    "createdAt": "2012-11-22T11:50:28Z"
+  },
+  {
+    "login": "bfgChris",
+    "name": "Chris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1671345?s=72&v=4",
+    "location": "Hilton Head Island, SC, USA",
+    "company": "BFG Communications",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-04-23T15:37:30Z"
+  },
+  {
+    "login": "davidpcaldwell",
+    "name": "David P. Caldwell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1809061?s=72&u=df38f0d41c4ce1915f155bde3c300986a1e49c3e&v=4",
+    "location": "Rhode Island, USA",
+    "company": "David P. Caldwell, Inc.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1374,
+    "createdAt": "2012-06-02T08:24:27Z"
+  },
+  {
+    "login": "rickbarrette",
+    "name": "Rick Barrette",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1709998?s=72&v=4",
+    "location": "Warwick, Rhode Island, USA",
+    "company": "Barrette Fabrication, LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 611,
+    "createdAt": "2012-05-06T05:39:45Z"
+  },
+  {
+    "login": "gtelang",
+    "name": "Gaurish Telang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2228748?s=72&u=9b17c5492fb5f21b2f0fda009ff4168b8b5d73ef&v=4",
+    "location": "Long Island, New York",
+    "company": "Stony Brook University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-27T17:04:58Z"
+  },
+  {
+    "login": "conotech",
+    "name": "Mark Conover",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1350731?s=72&u=a73e402fd5e67aeb43baa02ce533a239e060ed15&v=4",
+    "location": "South Whidbey Island, WA, USA",
+    "company": "Conotech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-19T01:16:23Z"
   }
 ]

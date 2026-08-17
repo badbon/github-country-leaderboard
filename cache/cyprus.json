@@ -20995,7 +20995,7 @@
     "company": "retrocket.io",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 2748,
+    "privateContributions": 2754,
     "publicContributions": 0,
     "createdAt": "2015-01-12T18:15:06Z"
   },
@@ -23134,5 +23134,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-09-09T14:04:25Z"
+  },
+  {
+    "login": "lameaux",
+    "name": "Sergej Sizov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11177769?s=72&u=995e12944c277ce69ad460fce1c16861df874744&v=4",
+    "location": "Nicosia 🇨🇾 | Prague 🇨🇿",
+    "company": "Sizov Software Ltd",
+    "twitterUsername": "sizovjava",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2015-02-24T14:44:10Z"
+  },
+  {
+    "login": "sophocles22",
+    "name": "Sophocles Sophocleous",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10554392?s=72&u=266dd79f09c48257fd444757d9bebc141d41f928&v=4",
+    "location": "Nicosia",
+    "company": "DIDC Ltd",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-15T23:39:52Z"
+  },
+  {
+    "login": "kostorub",
+    "name": "Vasilii Kostrubov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11979976?s=72&u=c2687b07423a2acecde47b2b8ac61db6918df07c&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-04-16T14:25:38Z"
   }
 ]

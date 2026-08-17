@@ -73846,5 +73846,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-07-10T02:06:28Z"
+  },
+  {
+    "login": "Hhhhh-002",
+    "name": "Zhang hao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199432993?s=72&v=4",
+    "location": "University Town Campus of Guangdong University of Technology, Panyu District, Guangzhou City",
+    "company": "Guangdong University of Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 414,
+    "createdAt": "2025-02-16T03:32:25Z"
+  },
+  {
+    "login": "Spike0618",
+    "name": "SPIKE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205932698?s=72&u=b3552cddcef14b2578436aa210deba50926ad1fc&v=4",
+    "location": "GuangZhou and ShenZhen",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 315,
+    "publicContributions": 0,
+    "createdAt": "2025-04-02T12:44:57Z"
+  },
+  {
+    "login": "Leejshu",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/244479805?s=72&v=4",
+    "location": "382 Zhonghuan Road East, Panyu District, Guangzhou Higher Education Mega Center, Guangzhou",
+    "company": "South China University of Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2025-11-17T09:40:42Z"
   }
 ]

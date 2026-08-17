@@ -44407,7 +44407,7 @@
     "company": "MilkStraw AI",
     "twitterUsername": "alihfadel",
     "followers": 427,
-    "privateContributions": 2673,
+    "privateContributions": 2676,
     "publicContributions": 1409,
     "createdAt": "2014-05-21T22:26:10Z"
   },
@@ -44671,7 +44671,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 2803,
+    "privateContributions": 2811,
     "publicContributions": 338,
     "createdAt": "2014-04-08T20:19:25Z"
   },
@@ -45694,5 +45694,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-28T10:25:37Z"
+  },
+  {
+    "login": "yahyaalbashar",
+    "name": "yahya albashar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8474368?s=72&v=4",
+    "location": "Amman",
+    "company": "Equevu",
+    "twitterUsername": "",
+    "followers": 43,
+    "privateContributions": 142,
+    "publicContributions": 88,
+    "createdAt": "2014-08-18T00:25:05Z"
+  },
+  {
+    "login": "mahmodmasoud2009",
+    "name": "Mahmod Masoud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6525250?s=72&u=00c623604dead4da1937379f68fc896dcb6ae8e1&v=4",
+    "location": "Amman",
+    "company": "https://mahmodmasoud2009.github.io/",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-01-28T14:26:01Z"
+  },
+  {
+    "login": "Alivx-zz",
+    "name": "Alivx",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6984167?s=72&v=4",
+    "location": "Amman",
+    "company": "Alivx",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-18T06:56:25Z"
+  },
+  {
+    "login": "khaledabbad",
+    "name": "khaledabbad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9482358?s=72&u=dbd926bd7eef2a63491f000bf1c62551435b0b03&v=4",
+    "location": "Amman",
+    "company": "SyndiGate Media Inc",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-31T13:59:52Z"
+  },
+  {
+    "login": "AmmarCSE",
+    "name": "Ammar O.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6598314?s=72&u=b8dc870843fee2f10f5989bd896b6062dfa2e8d2&v=4",
+    "location": "Amman",
+    "company": "Farsight Software",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-05T19:44:48Z"
+  },
+  {
+    "login": "araby123",
+    "name": "Eng. Mohammed Araby",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7244313?s=72&u=35eb2616682b0b65fb2bc43d5542bf07a85abd92&v=4",
+    "location": "Amman",
+    "company": "HelloBye",
+    "twitterUsername": "mharaby",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2014-04-09T22:33:31Z"
+  },
+  {
+    "login": "halmaani",
+    "name": "Hussein Al-Maani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10254805?s=72&u=4abc2b84ff3815712717a746bc49c5d8745921fb&v=4",
+    "location": "Amman",
+    "company": "Souq.com",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-12-20T18:40:49Z"
+  },
+  {
+    "login": "h-abukrayem",
+    "name": "Hassan Abu Krayem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9453228?s=72&u=e854fb3571857a9dccaeca424ab350fe68d8417f&v=4",
+    "location": "Amman",
+    "company": "Hybrid Solutions",
+    "twitterUsername": "Hassanabukrayem",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-29T21:13:27Z"
   }
 ]

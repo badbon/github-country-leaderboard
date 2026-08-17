@@ -38875,7 +38875,7 @@
     "company": "Bixority SIA",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 918,
+    "privateContributions": 919,
     "publicContributions": 1130,
     "createdAt": "2009-02-08T23:53:47Z"
   },
@@ -38899,7 +38899,7 @@
     "company": "Ubiquiti",
     "twitterUsername": "",
     "followers": 29,
-    "privateContributions": 1969,
+    "privateContributions": 1970,
     "publicContributions": 2,
     "createdAt": "2009-12-07T09:34:29Z"
   },
@@ -38923,7 +38923,7 @@
     "company": "@sunfinancegroup ",
     "twitterUsername": "frufrufru",
     "followers": 24,
-    "privateContributions": 3714,
+    "privateContributions": 3715,
     "publicContributions": 3,
     "createdAt": "2009-03-12T17:11:37Z"
   },
@@ -39250,5 +39250,29 @@
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2009-11-16T20:58:25Z"
+  },
+  {
+    "login": "mtsyganov",
+    "name": "Michael Tsyganov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129711?s=72&u=17d8d0fdabff95aec8eaf3c3d67527dd705b0aa0&v=4",
+    "location": "Riga",
+    "company": "Sport Master Data SIA",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-09-21T22:46:02Z"
+  },
+  {
+    "login": "jdz",
+    "name": "Jānis ǅeriņš",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94351?s=72&v=4",
+    "location": "Riga, LV",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-06-11T14:02:38Z"
   }
 ]
