@@ -574,5 +574,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-02-23T00:51:33Z"
+  },
+  {
+    "login": "BalusC",
+    "name": "Bauke Scholtz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173372?s=72&v=4",
+    "location": "Willemstad, Curaçao",
+    "company": "",
+    "twitterUsername": "OmniFaces",
+    "followers": 450,
+    "privateContributions": 0,
+    "publicContributions": 3242,
+    "createdAt": "2009-12-29T02:03:16Z"
+  },
+  {
+    "login": "frankgeerlings",
+    "name": "Frank Geerlings",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59611?s=72&v=4",
+    "location": "Curaçao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 935,
+    "publicContributions": 1,
+    "createdAt": "2009-03-03T07:07:03Z"
   }
 ]
