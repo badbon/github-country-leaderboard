@@ -59554,5 +59554,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-30T14:29:48Z"
+  },
+  {
+    "login": "ThomasNaimePloyon",
+    "name": "Thomas Naime--Ployon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49558362?s=72&v=4",
+    "location": "Praha, Česká republika",
+    "company": "IMT Mines Alès",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-12T11:55:53Z"
+  },
+  {
+    "login": "MetropolisCZ",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48151954?s=72&u=2e8e8c6da792eb748539482bf1caf112e6fb3444&v=4",
+    "location": "Česká republika",
+    "company": "Firma Metropolis",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2019-03-02T10:24:42Z"
+  },
+  {
+    "login": "schafa",
+    "name": "Martin Šafařík",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48096130?s=72&v=4",
+    "location": "Česká republika",
+    "company": "Seznam.cz, a.s.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-28T14:55:59Z"
   }
 ]

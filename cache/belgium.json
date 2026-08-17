@@ -43690,5 +43690,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-22T08:18:39Z"
+  },
+  {
+    "login": "zakthewolf",
+    "name": "Zak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76436035?s=72&v=4",
+    "location": "België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-21T12:50:54Z"
+  },
+  {
+    "login": "leonardowolo",
+    "name": "Leonardo Wolo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59691078?s=72&u=13f8bd26646581642a40e217a2ab4e798a81f91a&v=4",
+    "location": "België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 892,
+    "publicContributions": 2,
+    "createdAt": "2020-01-09T11:29:45Z"
+  },
+  {
+    "login": "CasparNuel",
+    "name": "Caspar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73889285?s=72&v=4",
+    "location": "België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 17,
+    "publicContributions": 195,
+    "createdAt": "2020-11-03T12:35:52Z"
+  },
+  {
+    "login": "SampersS",
+    "name": "Seraphin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74018386?s=72&u=66e17b0b9f8439164bf70a1d2a26aa90a2673290&v=4",
+    "location": "België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 8,
+    "publicContributions": 25,
+    "createdAt": "2020-11-05T18:46:07Z"
+  },
+  {
+    "login": "ramakersr",
+    "name": "Roel R",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65857422?s=72&u=8d17e82c49c61995f60866fe5b116b4a5518013c&v=4",
+    "location": "Limburg, België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-24T13:28:47Z"
+  },
+  {
+    "login": "brechtvrolix",
+    "name": "Brecht Vrolix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65451738?s=72&v=4",
+    "location": "België",
+    "company": "Labtop ltd",
+    "twitterUsername": "LabtopPeer",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-16T12:47:43Z"
+  },
+  {
+    "login": "InstructeurDIP",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68646023?s=72&v=4",
+    "location": "Gent, België",
+    "company": "Ateljee vzw",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-07-22T12:06:27Z"
   }
 ]

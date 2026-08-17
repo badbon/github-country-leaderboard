@@ -29158,5 +29158,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-11-01T00:47:08Z"
+  },
+  {
+    "login": "NicolNonga",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15807184?s=72&u=6d1e0ad3e703c94f97216cdea810528e395d3d0f&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 77,
+    "publicContributions": 42,
+    "createdAt": "2015-11-11T21:58:35Z"
+  },
+  {
+    "login": "MarcialMbango",
+    "name": "Marcial",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13543474?s=72&u=aed44db6bbe0452dd3d2dd2a916dc659a12a43c5&v=4",
+    "location": "Luanda",
+    "company": "Bitfyr",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-28T18:15:28Z"
+  },
+  {
+    "login": "joelsoncastro",
+    "name": "Ikigaiforever",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12820641?s=72&u=25fb02d5315e5870670953f508ea3c5bc55671ff&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "joelson_castro",
+    "followers": 3,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2015-06-09T21:32:05Z"
+  },
+  {
+    "login": "Eng-K4M4",
+    "name": "Eng. K4M4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15931526?s=72&u=12b8a16bbd45b86fad11bee13e0a91e079b9504d&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-19T19:51:13Z"
+  },
+  {
+    "login": "AbraaoKiuma",
+    "name": "Abraão Kiuma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13767390?s=72&u=8295c71c70b5f5de32d53e73eacae618723cfe83&v=4",
+    "location": "Luanda",
+    "company": "Muisse - Comércio e Consultoria, Lda",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 57,
+    "publicContributions": 1,
+    "createdAt": "2015-08-12T14:46:08Z"
+  },
+  {
+    "login": "Buffer19",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13543531?s=72&u=720c9c512ccf00a41ec9a453b5cda622cd70930a&v=4",
+    "location": "Luanda",
+    "company": "BitFyr",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-28T18:20:44Z"
+  },
+  {
+    "login": "Cr4ckD34l3r",
+    "name": "Carvalho Chipepe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13371576?s=72&u=eeb1e29ccd0cf22a9aa452bd6c57797e0b68de8b&v=4",
+    "location": "Luanda",
+    "company": "Venus Dev Inc.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-16T20:50:22Z"
+  },
+  {
+    "login": "asungo",
+    "name": "Sungo Afonso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15851108?s=72&v=4",
+    "location": "Luanda",
+    "company": "Treinp",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-14T21:54:36Z"
   }
 ]
