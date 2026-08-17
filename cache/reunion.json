@@ -2254,5 +2254,41 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2015-07-20T11:08:21Z"
+  },
+  {
+    "login": "Wes974",
+    "name": "Ouwéis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7169107?s=72&u=9de5aa2da12286697c2e0f38b1da04e7e017ac3d&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 152,
+    "privateContributions": 108,
+    "publicContributions": 160,
+    "createdAt": "2014-04-04T15:27:47Z"
+  },
+  {
+    "login": "PanArnaud",
+    "name": "Arnaud Panapadeatchy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7165084?s=72&u=1a86b453777a168e2faecdf2d8839ab34e58d1de&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-04T12:16:48Z"
+  },
+  {
+    "login": "NerisD",
+    "name": "Dimitri SMITH",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6766037?s=72&u=e77760e385bc81bd237bdd202d45af3994a543df&v=4",
+    "location": "Reunion Island",
+    "company": "WeLoveSwift.com",
+    "twitterUsername": "dimitrismith",
+    "followers": 16,
+    "privateContributions": 58,
+    "publicContributions": 0,
+    "createdAt": "2014-02-23T23:24:01Z"
   }
 ]

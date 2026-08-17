@@ -8422,5 +8422,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-14T19:00:42Z"
+  },
+  {
+    "login": "11bit",
+    "name": "Ivan Buryak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4057095?s=72&v=4",
+    "location": "Dushanbe",
+    "company": "https://evilmartians.com",
+    "twitterUsername": "11bit",
+    "followers": 50,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2013-04-04T08:45:14Z"
   }
 ]

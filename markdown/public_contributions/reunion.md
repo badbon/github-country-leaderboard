@@ -1,8 +1,8 @@
 # Public Contributions - Réunion
 
-Generated: 2026-08-17T09:52:44.307Z
+Generated: 2026-08-17T10:11:27.414Z
 
-Users: 188
+Users: 191
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 188
 | 13 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL |  |  | Reunion Island | 267 |
 | 14 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 175 |
 | 15 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch |  |  | Reunion Island | 169 |
-| 16 | [FredMesnard](https://github.com/FredMesnard) | Fred Mesnard |  |  | Reunion Island | 149 |
-| 17 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 144 |
-| 18 | [laurent974](https://github.com/laurent974) | Laurent |  |  | Réunion island | 142 |
-| 19 | [r-fernandezz](https://github.com/r-fernandezz) | Romain Fernandez |  |  | Réunion island | 132 |
-| 20 | [AlexandreMaillot](https://github.com/AlexandreMaillot) | Alexandre Maillot | Creapp-i | MAILLOTAlexand5 | Saint Pierre, Réunion | 130 |
+| 16 | [Wes974](https://github.com/Wes974) | Ouwéis |  |  | Reunion Island | 160 |
+| 17 | [FredMesnard](https://github.com/FredMesnard) | Fred Mesnard |  |  | Reunion Island | 149 |
+| 18 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 144 |
+| 19 | [laurent974](https://github.com/laurent974) | Laurent |  |  | Réunion island | 142 |
+| 20 | [r-fernandezz](https://github.com/r-fernandezz) | Romain Fernandez |  |  | Réunion island | 132 |

@@ -71230,5 +71230,29 @@
     "privateContributions": 0,
     "publicContributions": 192,
     "createdAt": "2025-05-25T21:35:23Z"
+  },
+  {
+    "login": "alvarovascon",
+    "name": "Álvaro Vasconcelos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69821227?s=72&u=f8ad30665162e52b7e832874f603450b3e4cc797&v=4",
+    "location": "Nova Lima, MG, Brazil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-17T20:43:56Z"
+  },
+  {
+    "login": "sousaamailson",
+    "name": "Amailson Sousa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62559446?s=72&u=c85c1a9be9bd358c401de4fe87c1c4316e093911&v=4",
+    "location": "Nova Lima, Minas Gerais, Brasil",
+    "company": "CARAPRETA",
+    "twitterUsername": "amailsonsousa",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-23T15:51:16Z"
   }
 ]

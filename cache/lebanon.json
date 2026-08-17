@@ -30274,5 +30274,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-12-15T00:48:08Z"
+  },
+  {
+    "login": "KhalilAwada",
+    "name": "Khalil Awada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3064798?s=72&v=4",
+    "location": "Beirut",
+    "company": "UNHCR",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1813,
+    "publicContributions": 52,
+    "createdAt": "2012-12-17T16:42:00Z"
+  },
+  {
+    "login": "salimrahal",
+    "name": "Salim Rahal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3010848?s=72&u=6eb30f0d880bf9957ea3819539836192f66c730a&v=4",
+    "location": "Beirut",
+    "company": "SafiraVision Co.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-10T20:45:23Z"
+  },
+  {
+    "login": "rnader",
+    "name": "Ralph Nader",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2477374?s=72&v=4",
+    "location": "Beirut",
+    "company": "Pimprove.com",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-03T07:19:42Z"
   }
 ]

@@ -21898,5 +21898,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-07-18T14:12:41Z"
+  },
+  {
+    "login": "danicricco",
+    "name": "Dani Cricco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3456558?s=72&u=e77a5a1501df7d34b41a8b414f850015ad9c48b3&v=4",
+    "location": "Asunción",
+    "company": "http://www.sodep.com.py/",
+    "twitterUsername": "danicricco",
+    "followers": 28,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2013-02-02T12:24:18Z"
+  },
+  {
+    "login": "mcespedeso",
+    "name": "Marcos Céspedes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3491970?s=72&u=6e54ffb374031a7779d75f535aa9cb98ec1d5442&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-06T13:48:57Z"
+  },
+  {
+    "login": "pablowelti",
+    "name": "Pablo Welti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5444987?s=72&v=4",
+    "location": "Asunción - PY",
+    "company": "ROSHKA",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-12T14:42:42Z"
+  },
+  {
+    "login": "hostz-frank",
+    "name": "Frank",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6112236?s=72&u=70cd0a917fdd60327517da2c5eab4fdb82035c67&v=4",
+    "location": "Asunción",
+    "company": "Incredible Loop",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-05T08:30:11Z"
+  },
+  {
+    "login": "diegotorresamarilla",
+    "name": "Diego Torres",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5387105?s=72&u=b791cd23505b3a5429496d26486dbef03713b98e&v=4",
+    "location": "Asunción - PY",
+    "company": "",
+    "twitterUsername": "diegotorresamar",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-05T01:20:10Z"
+  },
+  {
+    "login": "tupicho",
+    "name": "Luifer Villalba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5597015?s=72&u=64d9f6651caf02f3fc0a7e18bd30273a4efc5102&v=4",
+    "location": "Asunción Py",
+    "company": "4Q Studios",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-02T17:50:30Z"
+  },
+  {
+    "login": "albertopy007",
+    "name": "Alberto F. Gimenez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5354293?s=72&v=4",
+    "location": "Asunción",
+    "company": "Elemente Tech SRL",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-31T17:18:54Z"
+  },
+  {
+    "login": "fersauce",
+    "name": "Fernando Saucedo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4074989?s=72&u=8c4958732ec939e8ea00b2c6b5b7f8e5813afa71&v=4",
+    "location": "Asunción",
+    "company": "PS LINE S.A.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-06T04:36:30Z"
   }
 ]
