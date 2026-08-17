@@ -18574,5 +18574,29 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2008-07-31T17:36:52Z"
+  },
+  {
+    "login": "wink",
+    "name": "Micah Winkelspecht",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5205?s=72&v=4",
+    "location": "San Juan, PR",
+    "company": "@blockdaemon, @btcmedia",
+    "twitterUsername": "",
+    "followers": 51,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2008-04-05T00:46:02Z"
+  },
+  {
+    "login": "skippy",
+    "name": "Adam Greene",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3746?s=72&v=4",
+    "location": "San Juan County, WA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 45,
+    "privateContributions": 0,
+    "publicContributions": 587,
+    "createdAt": "2008-03-25T16:08:04Z"
   }
 ]

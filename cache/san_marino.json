@@ -682,5 +682,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-02-21T07:31:08Z"
+  },
+  {
+    "login": "mcdado",
+    "name": "David Gasperoni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/898057?s=72&v=4",
+    "location": "San Marino (SMR) <✈️> Madrid, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 2421,
+    "publicContributions": 74,
+    "createdAt": "2011-07-06T12:09:34Z"
+  },
+  {
+    "login": "simooooone",
+    "name": "Simos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/926141?s=72&u=5b615c2094e137ce730611633ac28497a030ac15&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 5446,
+    "publicContributions": 4,
+    "createdAt": "2011-07-19T18:56:07Z"
+  },
+  {
+    "login": "simonefalcini",
+    "name": "Simone",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1196854?s=72&u=9af41aa2adf647026fc708b9fd38d3974d180394&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2011-11-15T14:55:35Z"
+  },
+  {
+    "login": "Frikazoid",
+    "name": "Fabio Bombi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/896428?s=72&u=b5ee166faa8a96cfd845e1fdcca781220172f716&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-07-05T19:02:29Z"
   }
 ]

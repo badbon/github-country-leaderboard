@@ -61270,5 +61270,41 @@
     "privateContributions": 1226,
     "publicContributions": 376,
     "createdAt": "2024-09-14T18:00:01Z"
+  },
+  {
+    "login": "Aizen-Barbaros",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21042031?s=72&u=52e1578e8e25af6359c164bc59e82a2475970e3c&v=4",
+    "location": "France / Luxembourg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-15T16:36:54Z"
+  },
+  {
+    "login": "hkairi",
+    "name": "Hassane Moustapha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28127?s=72&u=4ae8f06764a8f256af86f566cecc809cb3bcd4bb&v=4",
+    "location": "Nouakchott | Dakar | Casablanca | Paris",
+    "company": "",
+    "twitterUsername": "_hkairi",
+    "followers": 112,
+    "privateContributions": 2489,
+    "publicContributions": 1,
+    "createdAt": "2008-10-08T14:56:39Z"
+  },
+  {
+    "login": "arkeologen159",
+    "name": "ArkeologeN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71591388?s=72&u=ce175d7c0a84629fa757fa09044ed129b0916b4d&v=4",
+    "location": "Tunisia/France",
+    "company": "NUKI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2931,
+    "publicContributions": 2,
+    "createdAt": "2020-09-20T11:11:56Z"
   }
 ]

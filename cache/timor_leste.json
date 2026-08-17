@@ -610,5 +610,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-08-21T12:34:23Z"
+  },
+  {
+    "login": "bmzashura",
+    "name": "Bemis Huntala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42881594?s=72&u=be9baf0bfb1c1bbfa8ea9a69ede5394a2eec7703&v=4",
+    "location": "Dili, Timor Leste",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2018-09-01T01:25:42Z"
+  },
+  {
+    "login": "itnelsonsantos98",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41873169?s=72&u=e5df1af46f25a71a75f0f5323d93730b76ede6d3&v=4",
+    "location": "Dili Timor-Leste",
+    "company": "xtrabox",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-07-29T16:50:21Z"
+  },
+  {
+    "login": "feliciofernandez24",
+    "name": "Felicio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40064663?s=72&u=133df0c4b99f7110edd6e409bb1a2f0313f853a6&v=4",
+    "location": "Dili-Timor Leste",
+    "company": "Telemor",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2018-06-08T13:47:25Z"
+  },
+  {
+    "login": "adelinodst",
+    "name": "Adelino Dos Santos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46204318?s=72&u=3280a70be5dfaf43763503d31893c7a07205e771&v=4",
+    "location": "Timor-Leste",
+    "company": "adeli.nu",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-27T23:22:56Z"
+  },
+  {
+    "login": "DanielHeads",
+    "name": "Daniel Cabezas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36751177?s=72&u=0c9ec894e38b1157e1de87e3346092d87b6cf907&v=4",
+    "location": "Timor-Leste",
+    "company": "Catalpa",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-23T01:53:28Z"
+  },
+  {
+    "login": "KaraChesal",
+    "name": "Kara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42255831?s=72&u=75d5550c85698db44aa306bc49009dbe47801d48&v=4",
+    "location": "Dili, Timor-Leste",
+    "company": "@catalpainternational",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-08-09T23:51:45Z"
   }
 ]
