@@ -21440,7 +21440,7 @@
     "twitterUsername": "tsiry_sndr",
     "followers": 594,
     "privateContributions": 19,
-    "publicContributions": 5292,
+    "publicContributions": 5293,
     "createdAt": "2015-11-16T19:26:50Z"
   },
   {
@@ -21655,7 +21655,7 @@
     "company": "BVA IPSOS",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 149,
+    "privateContributions": 151,
     "publicContributions": 13,
     "createdAt": "2015-12-15T12:24:27Z"
   },
@@ -21958,5 +21958,77 @@
     "privateContributions": 186,
     "publicContributions": 10,
     "createdAt": "2015-08-24T11:22:25Z"
+  },
+  {
+    "login": "irzhywau",
+    "name": "Irzhy Ranaivoarivony",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16186661?s=72&u=54967118de516d7cd2469dde3800f7c4d6eade9c&v=4",
+    "location": "Antananarivo",
+    "company": "WAU I/O",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1684,
+    "publicContributions": 93,
+    "createdAt": "2015-12-07T08:14:19Z"
+  },
+  {
+    "login": "fredericramanda",
+    "name": "Frédéric Harison RAMANDANIARIVO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14313962?s=72&u=d91f7c7aad452e93ffd5cddd9b50c3b4ea210193&v=4",
+    "location": "Antananarivo",
+    "company": "Linkeo",
+    "twitterUsername": "fredericramanda",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2015-09-16T13:56:56Z"
+  },
+  {
+    "login": "Tommymiza",
+    "name": "Tommy Rakotondrazaka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12976982?s=72&u=b52d13278ff8125571bb2f493773e9c27f78ba7a&v=4",
+    "location": "Antananarivo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2015-06-20T10:08:12Z"
+  },
+  {
+    "login": "benjarr",
+    "name": "Benja Rabenasolo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10421906?s=72&u=be145863746c8427f7bdbb50ff8dd1dbf8926674&v=4",
+    "location": "Antananarivo",
+    "company": "Freelance",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-06T16:17:17Z"
+  },
+  {
+    "login": "maloya8",
+    "name": "Ny Aina Harrison",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11279911?s=72&u=0805a541f5a7fa986111de615c2eba147d28f029&v=4",
+    "location": "Antananarivo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-02T21:17:48Z"
+  },
+  {
+    "login": "mauyz",
+    "name": "Tsiorinambinina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10461181?s=72&u=9c06520f7dbc7daec7dd7a6987ed288ec3475cb8&v=4",
+    "location": "Antananarivo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 13,
+    "createdAt": "2015-01-09T08:30:57Z"
   }
 ]

@@ -16270,5 +16270,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-11-05T14:37:07Z"
+  },
+  {
+    "login": "khadim210",
+    "name": "MBACKE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286816?s=72&u=c7d3c4cb321a1bddcdb474eff3ee58c1a1eff8e6&v=4",
+    "location": "Dakar (SN)",
+    "company": "Ecole Supérieure Polytechnique",
+    "twitterUsername": "",
+    "followers": 71,
+    "privateContributions": 0,
+    "publicContributions": 409,
+    "createdAt": "2010-05-25T17:06:57Z"
+  },
+  {
+    "login": "PapePathe",
+    "name": "Papa Pathé SENE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/340927?s=72&v=4",
+    "location": "Dakar Sénégal West Africa",
+    "company": "Anywhere Needed",
+    "twitterUsername": "",
+    "followers": 65,
+    "privateContributions": 1218,
+    "publicContributions": 853,
+    "createdAt": "2010-07-22T15:03:38Z"
+  },
+  {
+    "login": "mmkmou",
+    "name": "Mouhamadou Moustapha CAMARA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/402800?s=72&u=b1241bc26605d187c0b844ffaeb75c4596c8ef27&v=4",
+    "location": "Dakar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 63,
+    "publicContributions": 32,
+    "createdAt": "2010-09-16T16:03:16Z"
+  },
+  {
+    "login": "DRAKUN",
+    "name": "Drakun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/366065?s=72&v=4",
+    "location": "Dakar",
+    "company": "DRAKUN CORP",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-16T15:17:12Z"
+  },
+  {
+    "login": "duboz",
+    "name": "Raphaël Duboz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/444918?s=72&u=90e97390f14d7838dae3b045e63bfa110729d421&v=4",
+    "location": "Dakar",
+    "company": "@CIRAD - @IRD",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-19T03:46:06Z"
+  },
+  {
+    "login": "senticad",
+    "name": "Senticad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/305791?s=72&v=4",
+    "location": "Dakar",
+    "company": "Senticad",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-15T13:27:05Z"
+  },
+  {
+    "login": "Balley",
+    "name": "Balley BEYE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/334422?s=72&u=22d497f24449034f697bbf5381e2fcd42ed97317&v=4",
+    "location": "Dakar",
+    "company": "2B Interaktive",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-16T20:53:05Z"
+  },
+  {
+    "login": "genoka",
+    "name": "Kalidou Taha Ba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/368261?s=72&u=de5b74a5fa4be281ae96bb698e53d6c831d46bb5&v=4",
+    "location": "Dakar",
+    "company": "ITTECHNONOGIES",
+    "twitterUsername": "niariguel",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-18T09:47:04Z"
   }
 ]

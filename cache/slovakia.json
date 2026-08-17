@@ -34870,5 +34870,101 @@
     "privateContributions": 4,
     "publicContributions": 4,
     "createdAt": "2016-08-03T13:57:13Z"
+  },
+  {
+    "login": "iNviNho",
+    "name": "Vladimír Vráb",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15668038?s=72&u=86c38410c4f20392847292c0aa6836c139982ad0&v=4",
+    "location": "Bratislava, Slovak republic",
+    "company": "@bitpanda-labs ",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 81,
+    "createdAt": "2015-11-05T08:55:03Z"
+  },
+  {
+    "login": "RostarMarek",
+    "name": "Marek Roštár",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13439834?s=72&u=d6ff14c675618c0ff2dc7234cef7a53b20297110&v=4",
+    "location": "Bratislava, Slovak Republic",
+    "company": "Vacuumlabs",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-21T18:44:34Z"
+  },
+  {
+    "login": "richardbalaz",
+    "name": "Richard Baláž",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10794877?s=72&u=dfac14cc635d456036dff5af3bebea2a6e9be86c&v=4",
+    "location": "Slovak republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-01T08:46:17Z"
+  },
+  {
+    "login": "JanSichula",
+    "name": "Jan Sichula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13467739?s=72&v=4",
+    "location": "Bratislava, Slovak Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-07-23T12:16:41Z"
+  },
+  {
+    "login": "jschon1991",
+    "name": "Jakub Schön",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12173915?s=72&u=d00dffd2ace7ca3c9d517382afb876c694fcbc06&v=4",
+    "location": "Slovak republic, Banska Bystrica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-29T17:11:55Z"
+  },
+  {
+    "login": "marek205",
+    "name": "Marek Podolinsky",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12810870?s=72&v=4",
+    "location": "Slovak Republic",
+    "company": "Rein IT",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-09T08:45:21Z"
+  },
+  {
+    "login": "NebsterSK",
+    "name": "Lukáš Neuschl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10799485?s=72&u=b5c169fb9319fdc159cf326888744f26c122104c&v=4",
+    "location": "Bratislava, Slovak Republic",
+    "company": "Legacy Upgrade",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 206,
+    "createdAt": "2015-02-01T17:43:51Z"
+  },
+  {
+    "login": "staruch",
+    "name": "David S.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10852229?s=72&u=09ae93b317466f10d8967702a0f6a6b9e8aed742&v=4",
+    "location": "Bratislava, Slovak Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2015-02-04T17:00:17Z"
   }
 ]

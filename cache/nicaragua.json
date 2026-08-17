@@ -16582,5 +16582,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-17T00:35:53Z"
+  },
+  {
+    "login": "paulomcnally",
+    "name": "Paulo McNally",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181533?s=72&u=220310b9ff5bf13992e48f44abedf15e8b985212&v=4",
+    "location": "Mangua, Nicaragua",
+    "company": "@mcnallydev ",
+    "twitterUsername": "",
+    "followers": 210,
+    "privateContributions": 3384,
+    "publicContributions": 257,
+    "createdAt": "2010-01-13T16:27:29Z"
+  },
+  {
+    "login": "fcontreras",
+    "name": "Francisco Contreras",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/528810?s=72&v=4",
+    "location": "Managua, Nicaragua",
+    "company": "GInIEm",
+    "twitterUsername": "",
+    "followers": 55,
+    "privateContributions": 667,
+    "publicContributions": 1,
+    "createdAt": "2010-12-18T20:54:27Z"
+  },
+  {
+    "login": "jimbodoors",
+    "name": "Eduardo Rosales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/354235?s=72&u=fb7ce71d0f4653bafe56c459e4d7bf8826168480&v=4",
+    "location": "Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2010-08-04T16:53:25Z"
+  },
+  {
+    "login": "spiralni",
+    "name": "Cesar Lopez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/339101?s=72&u=afcf8299bd856112b226939001aa4dd0c82a38fe&v=4",
+    "location": "Nicaragua",
+    "company": "BairesDev",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2010-07-20T22:43:49Z"
+  },
+  {
+    "login": "wmartinez79",
+    "name": "William Martinez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/372289?s=72&u=97890aaa13ef40a4e3ee12fc8647eca5edf228e5&v=4",
+    "location": "Nicaragua",
+    "company": "Freelance Nic",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 468,
+    "publicContributions": 67,
+    "createdAt": "2010-08-22T06:09:58Z"
+  },
+  {
+    "login": "joe74",
+    "name": "Joel Davila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/328997?s=72&v=4",
+    "location": "Managua, Nicaragua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-11T21:10:18Z"
+  },
+  {
+    "login": "scottaviles",
+    "name": "Scott Avilés Torres",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227402?s=72&v=4",
+    "location": "Managua, Nicaragua",
+    "company": "Get&Catch",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-21T17:59:16Z"
   }
 ]
