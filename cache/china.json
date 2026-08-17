@@ -71482,5 +71482,41 @@
     "privateContributions": 680,
     "publicContributions": 40,
     "createdAt": "2017-04-09T10:24:52Z"
+  },
+  {
+    "login": "Providence-Nate",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54123036?s=72&u=07551ebb8c8ec7edfa630cc72232e124cc0e9738&v=4",
+    "location": "Shanghai, London, Kuala Lumpur",
+    "company": "AIdeaLabs",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-14T22:09:30Z"
+  },
+  {
+    "login": "quweihua",
+    "name": "Weihua Qu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83399844?s=72&u=95d073a59ac425d535eb880f720d4e23d4217e19&v=4",
+    "location": "Lund, Sweden; Sheffield, UK; Zhengzhou, PRC",
+    "company": "Lund University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-29T09:42:00Z"
+  },
+  {
+    "login": "Peiran-Wei",
+    "name": "leooooowei",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81134698?s=72&u=12a095a86d0b49eabc3c8d7db827e8834d2a0122&v=4",
+    "location": "Gothenburg, Sweden // Beijing, China",
+    "company": "",
+    "twitterUsername": "leowei0922",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-22T03:44:16Z"
   }
 ]

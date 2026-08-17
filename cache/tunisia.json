@@ -65050,5 +65050,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-05-07T08:19:31Z"
+  },
+  {
+    "login": "yosraboussaid",
+    "name": "Yosra Boussaid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49845326?s=72&u=9018a7876f942cfa2607544fe534fb2d12b15da0&v=4",
+    "location": "Tunisia",
+    "company": "Sagemcom",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2019-04-21T20:25:40Z"
+  },
+  {
+    "login": "AdemYoussef",
+    "name": "AdemYsf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59019101?s=72&v=4",
+    "location": "Tunisia, Tunis, Sousse, Remote ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-12-18T12:59:49Z"
+  },
+  {
+    "login": "mtcisims",
+    "name": "MTC ISIMS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58006397?s=72&u=7f778a719fe9a27c6a31d4d8439e93d3ff6c9b39&v=4",
+    "location": "Higher Institute of Computer Science and Multimedia of Sfax, Sakiet Ezzit 3021, Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-20T18:51:37Z"
+  },
+  {
+    "login": "midox008",
+    "name": "Ahmed zaied (-|-)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58739475?s=72&v=4",
+    "location": "tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2019-12-10T15:07:12Z"
   }
 ]

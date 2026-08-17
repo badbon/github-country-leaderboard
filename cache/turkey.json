@@ -69919,7 +69919,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 455,
+    "privateContributions": 466,
     "publicContributions": 802,
     "createdAt": "2024-11-13T16:29:24Z"
   },
@@ -75310,5 +75310,89 @@
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2024-10-28T21:09:28Z"
+  },
+  {
+    "login": "mohammadreza-nouriyani",
+    "name": "mohammadreza nouriyani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168176361?s=72&u=9e89d3d0fe4c9ae5d041e083ee6cc762b1def3d4&v=4",
+    "location": "bursa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-26T08:27:54Z"
+  },
+  {
+    "login": "hierdemm",
+    "name": "Halil İbrahim Erdem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168127145?s=72&v=4",
+    "location": "Bursa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-25T18:24:20Z"
+  },
+  {
+    "login": "onraydin",
+    "name": "Onur Aydın",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/191173363?s=72&v=4",
+    "location": "Bursa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2024-12-09T21:50:25Z"
+  },
+  {
+    "login": "GizemOzerdem",
+    "name": "Gizem Özerdem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167787640?s=72&u=caeba3a958561ef2d8d8dc3cbeeb68c23921270b&v=4",
+    "location": "Bursa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-22T14:41:01Z"
+  },
+  {
+    "login": "Emced-Abras",
+    "name": "EMCED ABRAS ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170897534?s=72&u=06f55224e808e0f99849e6a76e6d3c0e2af19e62&v=4",
+    "location": "BURSA ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-26T23:02:13Z"
+  },
+  {
+    "login": "bahtiyar06",
+    "name": "Bahtiyar ASLAN ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169107107?s=72&v=4",
+    "location": "Sakarya,Bursa ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-06T23:38:47Z"
+  },
+  {
+    "login": "kacinilmazim",
+    "name": "Mustafa Efe Taskiran",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181783195?s=72&u=c70429ebed8aec0ab5a25ff3f7691f45453bfea8&v=4",
+    "location": "Bursa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-09-16T19:41:20Z"
   }
 ]
