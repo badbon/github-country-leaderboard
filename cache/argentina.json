@@ -79450,5 +79450,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-07T23:11:50Z"
+  },
+  {
+    "login": "juanCsalvatierra",
+    "name": "Juan Cruz Salvatierra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109425365?s=72&u=e56b85cd04198e0f2af31f5d9eb3ca6dc4fd1ffa&v=4",
+    "location": "Santiago Del Estero, Argentina",
+    "company": "Mowomo",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2022-07-16T14:18:25Z"
+  },
+  {
+    "login": "AylenRondan",
+    "name": "AylenRondan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114705185?s=72&u=9137243a3b0d5d9ff7abb94ff4259abff6d0cc8e&v=4",
+    "location": "Santiago del Estero, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-29T22:55:10Z"
+  },
+  {
+    "login": "AgustinMontenegro95",
+    "name": "Agustín Montenegro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98353087?s=72&u=5b7c9ab824992924afc388bc96360aadfd74c8d1&v=4",
+    "location": "Santiago del Estero, Argentina",
+    "company": "SoluDev",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2022-01-24T19:36:03Z"
   }
 ]

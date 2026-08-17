@@ -2206,5 +2206,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-02-22T05:42:45Z"
+  },
+  {
+    "login": "alstonite",
+    "name": "jaysen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5956392?s=72&u=21be1c5a3d63f69e9b59e3b0bee068d99f8f784b&v=4",
+    "location": "Pyongyang, North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-16T17:07:22Z"
+  },
+  {
+    "login": "mummyrain",
+    "name": "mummyrain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5226397?s=72&u=6e28249cc3299142ab8bddc2fbccb3061efd6c13&v=4",
+    "location": "North Korea",
+    "company": "None.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-14T02:43:51Z"
+  },
+  {
+    "login": "ErikBobo",
+    "name": "ErikBobo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5943625?s=72&u=fdaff2de1adc10c148994089dad35fb8509f70b6&v=4",
+    "location": "Pyongyang, North Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-15T00:04:42Z"
   }
 ]

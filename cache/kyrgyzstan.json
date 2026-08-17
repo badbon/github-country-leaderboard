@@ -28462,5 +28462,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-05-23T06:59:42Z"
+  },
+  {
+    "login": "alexander-elgin",
+    "name": "Alexander Elgin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1811689?s=72&u=4897bcb63ec1ab38b1e0f9cdde22c9deeae335ed&v=4",
+    "location": "Bishkek, Kyrgyz Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 42,
+    "privateContributions": 431,
+    "publicContributions": 8,
+    "createdAt": "2012-06-03T08:08:39Z"
+  },
+  {
+    "login": "metalagman",
+    "name": "Alexey Samoylov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1983796?s=72&u=6a380a7ba984af58da4cd5954c14b2b7e408d3a5&v=4",
+    "location": "Bishkek, Kyrgyz Republic",
+    "company": "@fastronome",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 130,
+    "publicContributions": 3485,
+    "createdAt": "2012-07-16T11:26:39Z"
   }
 ]

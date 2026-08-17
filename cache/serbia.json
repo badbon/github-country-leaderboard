@@ -52942,5 +52942,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-01T08:54:49Z"
+  },
+  {
+    "login": "BoJaN77799",
+    "name": "Бојан Башкало",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58345648?s=72&v=4",
+    "location": "Novi Sad, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-29T21:21:38Z"
+  },
+  {
+    "login": "kamberk",
+    "name": "Kamber Kamberović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58194472?s=72&u=bd855e965c4f08152c25b0d1339faf53d2b6d74d&v=4",
+    "location": "Sjenica, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2019-11-25T23:13:11Z"
+  },
+  {
+    "login": "borisprecijan",
+    "name": "Boris Precijan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50880117?s=72&u=306b03cd0843efa4d83e9803f1d0376b9cf7afcf&v=4",
+    "location": "Vrbas, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-21T15:46:39Z"
+  },
+  {
+    "login": "tzivadinovic",
+    "name": "Tomislav Živadinović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59035710?s=72&u=f3dae0644ffa8e8de000fe93cbbe5afbd6b37d1f&v=4",
+    "location": "Niš, Srbija",
+    "company": "University of Metropolitan",
+    "twitterUsername": "thetomica",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-19T00:10:31Z"
+  },
+  {
+    "login": "adrijan23",
+    "name": "Adrijan Radjevic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52605889?s=72&u=a4c9619fc8400f68d255e90be83a3585f6bbc593&v=4",
+    "location": "Novi Sad, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 2,
+    "publicContributions": 59,
+    "createdAt": "2019-07-06T16:13:36Z"
+  },
+  {
+    "login": "cirkovicstefan",
+    "name": "Stefan Ćirković",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56405824?s=72&u=14a610389154625e64b720e1800905b1262636ed&v=4",
+    "location": "Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-10T16:27:44Z"
+  },
+  {
+    "login": "milanstosic00",
+    "name": "Milan Stošić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48917129?s=72&u=887c041cc85faf4951e8bf6520243b34eb210918&v=4",
+    "location": "Kragujevac, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-25T13:51:20Z"
+  },
+  {
+    "login": "jevta",
+    "name": "Marko Jevtovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47328562?s=72&v=4",
+    "location": "Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-04T16:06:05Z"
   }
 ]

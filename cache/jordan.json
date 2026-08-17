@@ -43267,7 +43267,7 @@
     "company": "@tajawal",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 1809,
+    "privateContributions": 1810,
     "publicContributions": 6,
     "createdAt": "2015-07-04T04:13:43Z"
   },
@@ -44314,5 +44314,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-06-16T10:43:57Z"
+  },
+  {
+    "login": "shqear93",
+    "name": "Khaled AbuShqear",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13157595?s=72&u=c45ffc516e65bf64e7d2ee247797e1ed204790ea&v=4",
+    "location": "Amman",
+    "company": "Careem",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 4747,
+    "publicContributions": 630,
+    "createdAt": "2015-07-02T22:13:00Z"
+  },
+  {
+    "login": "ahmademran",
+    "name": "Ahmad Emran",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14106293?s=72&u=fab553ed717fca904d8e799b3d9090ff0e23c5ac&v=4",
+    "location": "Amman-Joradn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-03T08:19:41Z"
+  },
+  {
+    "login": "odaialsughier",
+    "name": "odai alsughier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13878839?s=72&u=536d86b445d7fbbf3049354dc63451cbda6d7f0c&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "odaii1991",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-20T01:21:32Z"
+  },
+  {
+    "login": "alihasand",
+    "name": "Ali Hasan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16364144?s=72&u=d0c379dcfdc03d73bf53dca843b6e8548d6a7b5d&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-19T17:40:02Z"
+  },
+  {
+    "login": "Qaissaif",
+    "name": "Qais Saif",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12608816?s=72&u=5095f4a8d0178b5a9adedad68d41af9592ad0c28&v=4",
+    "location": "Amman",
+    "company": "dakwak",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-26T10:16:00Z"
+  },
+  {
+    "login": "madallah",
+    "name": "Madallah AlMajali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11964586?s=72&u=519757ee8c3c2080b4d2f743e2f9f71171e57ea3&v=4",
+    "location": "Amman",
+    "company": "NAFES",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-15T15:50:42Z"
+  },
+  {
+    "login": "Admiral81",
+    "name": "Wael F. Shahto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12799927?s=72&v=4",
+    "location": "Amman",
+    "company": "Admiral81",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-08T15:31:38Z"
   }
 ]

@@ -59566,5 +59566,65 @@
     "privateContributions": 0,
     "publicContributions": 59,
     "createdAt": "2020-09-30T07:24:51Z"
+  },
+  {
+    "login": "nicksemin",
+    "name": "Nikolai Semin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65972507?s=72&u=2dacf0a7f521a2ecc71149c140af3a318d3522df&v=4",
+    "location": "Helsinki, Suomi",
+    "company": "Wolt",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2020-05-26T17:22:13Z"
+  },
+  {
+    "login": "Edstro",
+    "name": "Jani Valta ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72810091?s=72&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-13T14:43:08Z"
+  },
+  {
+    "login": "nopea3",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61728220?s=72&u=2954d827f1ef34cbf496a3f7a13ae9e67e3b4e84&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-03T07:04:18Z"
+  },
+  {
+    "login": "NaumXCraft",
+    "name": "Xcraft",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65562464?s=72&u=e3c5d7cfaf3a03996a11cbc7a10187b6afcda0c8&v=4",
+    "location": "Suomi",
+    "company": "Xcraft.fi",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1773,
+    "publicContributions": 316,
+    "createdAt": "2020-05-18T18:02:08Z"
+  },
+  {
+    "login": "tomurtogu",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68553713?s=72&u=80144268de37335d32b7c7db9bbafedc644bc00e&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "tomurtogu",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-07-20T14:57:28Z"
   }
 ]
