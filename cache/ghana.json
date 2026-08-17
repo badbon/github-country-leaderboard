@@ -63259,8 +63259,8 @@
     "company": "",
     "twitterUsername": "_div_ann",
     "followers": 151,
-    "privateContributions": 1039,
-    "publicContributions": 75,
+    "privateContributions": 1056,
+    "publicContributions": 76,
     "createdAt": "2018-11-11T00:03:02Z"
   },
   {
@@ -63439,7 +63439,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 69,
-    "privateContributions": 1573,
+    "privateContributions": 1574,
     "publicContributions": 180,
     "createdAt": "2018-12-04T02:09:52Z"
   },
@@ -63752,7 +63752,7 @@
     "twitterUsername": "perigrino_",
     "followers": 44,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 138,
     "createdAt": "2018-10-22T23:30:09Z"
   },
   {
@@ -64003,7 +64003,7 @@
     "company": "Proxima Labs",
     "twitterUsername": "brainywayne",
     "followers": 31,
-    "privateContributions": 6921,
+    "privateContributions": 6924,
     "publicContributions": 1,
     "createdAt": "2018-04-09T00:48:56Z"
   },
@@ -64051,7 +64051,7 @@
     "company": "CBA BL LTD",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 91,
+    "privateContributions": 92,
     "publicContributions": 22,
     "createdAt": "2018-02-28T18:00:25Z"
   },
@@ -64292,7 +64292,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 158,
-    "publicContributions": 26,
+    "publicContributions": 27,
     "createdAt": "2018-09-27T13:43:52Z"
   },
   {
@@ -64351,7 +64351,7 @@
     "company": "@sunamigames",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 820,
+    "privateContributions": 857,
     "publicContributions": 10,
     "createdAt": "2018-03-17T20:41:15Z"
   },
@@ -64435,7 +64435,7 @@
     "company": "@Biibisoft",
     "twitterUsername": "_tahiru",
     "followers": 21,
-    "privateContributions": 421,
+    "privateContributions": 422,
     "publicContributions": 76,
     "createdAt": "2018-08-28T16:51:00Z"
   },
@@ -64483,7 +64483,7 @@
     "company": "@PurpleWave",
     "twitterUsername": "roqkabel",
     "followers": 20,
-    "privateContributions": 1298,
+    "privateContributions": 1299,
     "publicContributions": 3,
     "createdAt": "2018-11-01T11:35:25Z"
   },
@@ -64722,8 +64722,8 @@
     "location": "Accra, Ghana",
     "company": "Nexalabshq",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 4915,
+    "followers": 17,
+    "privateContributions": 4917,
     "publicContributions": 10,
     "createdAt": "2018-04-07T13:48:24Z"
   },
@@ -68650,5 +68650,185 @@
     "privateContributions": 0,
     "publicContributions": 201,
     "createdAt": "2018-04-16T18:03:38Z"
+  },
+  {
+    "login": "doetotime",
+    "name": "Eden ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43518001?s=72&u=2f840fb3da83694be742741a0ebeefdd24102c61&v=4",
+    "location": "Accra",
+    "company": "developaworld",
+    "twitterUsername": "doetotime",
+    "followers": 262,
+    "privateContributions": 181,
+    "publicContributions": 17,
+    "createdAt": "2018-09-23T14:05:17Z"
+  },
+  {
+    "login": "maxwellagyapong",
+    "name": "Maxwell Agyapong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35528366?s=72&u=c1fa433017fb798f0e755f25afc91573df7f607a&v=4",
+    "location": "Accra",
+    "company": "Pareto.AI",
+    "twitterUsername": "",
+    "followers": 75,
+    "privateContributions": 907,
+    "publicContributions": 2610,
+    "createdAt": "2018-01-17T12:08:04Z"
+  },
+  {
+    "login": "4eug",
+    "name": "Eugene Debrah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41149530?s=72&u=7b02351473a06635910449fc4bf9cbcbc16c9662&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "4eug_",
+    "followers": 66,
+    "privateContributions": 436,
+    "publicContributions": 22,
+    "createdAt": "2018-07-12T10:09:30Z"
+  },
+  {
+    "login": "Cobbi",
+    "name": "Cobby ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39762158?s=72&u=e810dc70db1b64d29718bfd49fc273e9af2ace4a&v=4",
+    "location": "Accra",
+    "company": "Netfada Technologies",
+    "twitterUsername": "cobbyanim",
+    "followers": 65,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2018-05-30T09:16:49Z"
+  },
+  {
+    "login": "L0MAX",
+    "name": "DONATUS ANKAH",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38319814?s=72&u=f970988ffa2fa78c09f86a22e6e6aa3e9762d022&v=4",
+    "location": "Accra, Greater Accra Region",
+    "company": "Ho Technical University",
+    "twitterUsername": "legendankah",
+    "followers": 51,
+    "privateContributions": 1590,
+    "publicContributions": 50,
+    "createdAt": "2018-04-12T12:09:51Z"
+  },
+  {
+    "login": "LevitKanner",
+    "name": "Levit Kanner",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43693143?s=72&u=db3cfb0f208039efb33793f9b5c32d0e2c5906fc&v=4",
+    "location": "Accra ",
+    "company": "Bliss",
+    "twitterUsername": "LevitKanner",
+    "followers": 44,
+    "privateContributions": 2104,
+    "publicContributions": 0,
+    "createdAt": "2018-09-29T05:03:20Z"
+  },
+  {
+    "login": "aapetsi",
+    "name": "Apetsi Ampiah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35830971?s=72&u=3fc130b82defcb8c2da53550388d5a89f20c10f7&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "ampiahapetsi",
+    "followers": 30,
+    "privateContributions": 271,
+    "publicContributions": 15,
+    "createdAt": "2018-01-26T06:54:11Z"
+  },
+  {
+    "login": "fnprog",
+    "name": "Rich",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37631123?s=72&u=8b93da6768c07274efdbc3287f08dd1dc8d5ceb8&v=4",
+    "location": "Accra",
+    "company": "Fantasy",
+    "twitterUsername": "ridyrich",
+    "followers": 27,
+    "privateContributions": 1049,
+    "publicContributions": 119,
+    "createdAt": "2018-03-21T16:42:12Z"
+  },
+  {
+    "login": "psychAura",
+    "name": "Kausara Yahaya Kpabia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42814179?s=72&u=4ea46e4ea570f482e88b11a7a9953116dbbc48c6&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 134,
+    "publicContributions": 58,
+    "createdAt": "2018-08-29T17:09:17Z"
+  },
+  {
+    "login": "cyteger",
+    "name": "Oswald Gyabaah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38317525?s=72&u=17261549f90b8fa13d9bf2a84bedf77dc300f0d9&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 6230,
+    "publicContributions": 746,
+    "createdAt": "2018-04-12T10:37:00Z"
+  },
+  {
+    "login": "FiifiQwontwo",
+    "name": "Fiifi Ahwireng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43513906?s=72&u=65a882acd4925b8b52c7fdfdda8a8781e5a4008a&v=4",
+    "location": "Accra",
+    "company": "Software Engineer|| Python || Java",
+    "twitterUsername": "Stabelfort",
+    "followers": 19,
+    "privateContributions": 305,
+    "publicContributions": 10,
+    "createdAt": "2018-09-23T09:48:57Z"
+  },
+  {
+    "login": "Asensojnr",
+    "name": "Clement Asenso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43442314?s=72&u=c1fc7e267e9d15a3ae36fe3a8053f614404ebdbc&v=4",
+    "location": "Accra",
+    "company": "AS DEV",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-09-20T12:31:52Z"
+  },
+  {
+    "login": "Teedari",
+    "name": "Dari Godfred",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36868807?s=72&u=eb987ba873dd56b2248c0d9f934e7ab64a8d57c0&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "teecodex",
+    "followers": 15,
+    "privateContributions": 303,
+    "publicContributions": 5,
+    "createdAt": "2018-02-27T00:37:05Z"
+  },
+  {
+    "login": "dumbDevpr",
+    "name": "/r/dumbDevpr*",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40873787?s=72&u=6d060760354db0fb5582454926bae9ed2ba4b985&v=4",
+    "location": "Accra,GH",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-07-05T23:08:09Z"
+  },
+  {
+    "login": "MahmudSuleman",
+    "name": "Mahmud Wunnam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38923023?s=72&u=c4f10771c891226e6453806f220f2ffa069d482d&v=4",
+    "location": "Accra",
+    "company": "Lakeside University College",
+    "twitterUsername": "MahmudSuleman3",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 83,
+    "createdAt": "2018-05-02T18:38:38Z"
   }
 ]

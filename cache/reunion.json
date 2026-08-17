@@ -2374,5 +2374,53 @@
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2013-03-21T11:57:58Z"
+  },
+  {
+    "login": "emmanuel-leveneur",
+    "name": "Emmanuel Leveneur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2026439?s=72&u=ff64810cfc01d306858714eef9a4f4113a6ea920&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 122,
+    "createdAt": "2012-07-23T10:51:19Z"
+  },
+  {
+    "login": "gabsource",
+    "name": "Jérémy Gaulin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1851314?s=72&u=cda7c3090010b659a44dfd2ad48fd76714f3fb80&v=4",
+    "location": "Reunion Island (France)",
+    "company": "B&B Web Expertise",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-06-14T18:09:28Z"
+  },
+  {
+    "login": "Myke974",
+    "name": "Myke974",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1829188?s=72&u=c7c882d632e76a0bb02e17c028b16abb2274347f&v=4",
+    "location": "Reunion Island",
+    "company": "A.R.E.M.974",
+    "twitterUsername": "myke974",
+    "followers": 8,
+    "privateContributions": 66,
+    "publicContributions": 2,
+    "createdAt": "2012-06-08T03:02:49Z"
+  },
+  {
+    "login": "pariviere",
+    "name": "Pierre-Alain RIVIERE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2437729?s=72&u=2da50c5256ac939cba7ee23691044fa0d7af3bdf&v=4",
+    "location": "Reunion Island",
+    "company": "Orange",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-09-27T14:12:36Z"
   }
 ]

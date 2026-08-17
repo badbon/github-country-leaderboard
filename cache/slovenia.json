@@ -37354,5 +37354,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-04-15T08:10:38Z"
+  },
+  {
+    "login": "bmihelac",
+    "name": "Bojan Mihelac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13813?s=72&u=fa9c5c69410cd8c18f4c9dc80fb7e220b0408a1d&v=4",
+    "location": "Ljubljana, Slovenija",
+    "company": "InformatikaMihelac",
+    "twitterUsername": "",
+    "followers": 105,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2008-06-15T17:48:01Z"
+  },
+  {
+    "login": "ajasja",
+    "name": "Ajasja Ljubetič",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19926?s=72&u=0a03a14ffa75c2305fad19d35a9101e1ef50b389&v=4",
+    "location": "Ljubljana",
+    "company": "Research Assistant Prof., National Institute of Chemistry, Slovenia & Bakerl Lab, UW",
+    "twitterUsername": "AjasjaLjubetic",
+    "followers": 62,
+    "privateContributions": 2,
+    "publicContributions": 45,
+    "createdAt": "2008-08-07T17:34:33Z"
+  },
+  {
+    "login": "Alpheus",
+    "name": "Denis Čahuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16172?s=72&u=aba128d1832e8d7fa6e45ba70f764b9c83445a6f&v=4",
+    "location": "Ljubljana",
+    "company": "Coach Denis @coachdenis",
+    "twitterUsername": "",
+    "followers": 36,
+    "privateContributions": 12,
+    "publicContributions": 1,
+    "createdAt": "2008-07-06T13:16:11Z"
+  },
+  {
+    "login": "gorandodig",
+    "name": "Goran Dodig",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31227?s=72&u=f84330c7a6d3bc75a44b9bda280c75680e490e6d&v=4",
+    "location": "Ljubljana",
+    "company": "@codeplain-ai",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 1412,
+    "publicContributions": 6,
+    "createdAt": "2008-10-27T12:27:00Z"
   }
 ]

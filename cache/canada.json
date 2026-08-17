@@ -91291,7 +91291,7 @@
     "company": "",
     "twitterUsername": "aomijokoji",
     "followers": 50,
-    "privateContributions": 719,
+    "privateContributions": 720,
     "publicContributions": 5,
     "createdAt": "2012-05-20T23:28:44Z"
   },
@@ -91510,5 +91510,89 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2022-03-20T18:48:51Z"
+  },
+  {
+    "login": "aayancheng",
+    "name": "TeamYan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26846805?s=72&u=c4091c7ebe2261e6890a28472a911974700ed475&v=4",
+    "location": "Toronto and Hong Kong",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 287,
+    "createdAt": "2017-04-02T02:23:36Z"
+  },
+  {
+    "login": "ezramorse",
+    "name": "Ezra Morse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1565879?s=72&u=a5d4c518ba88a70dbef49107fe44ba8d3e5c736d&v=4",
+    "location": "Vancouver Island, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 108,
+    "publicContributions": 0,
+    "createdAt": "2012-03-22T19:46:59Z"
+  },
+  {
+    "login": "mcconkiee",
+    "name": "Eric McConkie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1483397?s=72&v=4",
+    "location": "Vancouver Island , BC",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-02-28T22:24:19Z"
+  },
+  {
+    "login": "VitalyMCT",
+    "name": "Vitaly Livshits",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1765732?s=72&u=a0e62fa4ded379e9f03284d9d636b15bfcc57ffb&v=4",
+    "location": "Vancouver Island, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 64,
+    "createdAt": "2012-05-22T15:45:30Z"
+  },
+  {
+    "login": "paulhunter",
+    "name": "Paul Hunter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2479688?s=72&v=4",
+    "location": "Vancouver Island, BC",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2012-10-03T14:33:25Z"
+  },
+  {
+    "login": "kckane",
+    "name": "Kevin Kane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2766740?s=72&v=4",
+    "location": "Prince Edward Island, Canada",
+    "company": "Silver Maple Solutions Inc.",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-10T15:31:25Z"
+  },
+  {
+    "login": "pobed2",
+    "name": "Pierre-Olivier Bédard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1368845?s=72&u=6bce78054e28aac795dcb439bde5f361fcb5c217&v=4",
+    "location": "Vancouver Island",
+    "company": "@Shopify",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 973,
+    "publicContributions": 6,
+    "createdAt": "2012-01-22T20:51:01Z"
   }
 ]
