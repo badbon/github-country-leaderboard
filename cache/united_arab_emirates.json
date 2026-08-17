@@ -50746,5 +50746,101 @@
     "privateContributions": 3705,
     "publicContributions": 10,
     "createdAt": "2009-12-01T02:18:37Z"
+  },
+  {
+    "login": "drakulavich",
+    "name": "Anton Yakutovich",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129260?s=72&u=1f91a5b478ad2effcfacafa38fb4d925e8328a55&v=4",
+    "location": "Abu Dhabi, UAE",
+    "company": "",
+    "twitterUsername": "drakulavich",
+    "followers": 61,
+    "privateContributions": 3773,
+    "publicContributions": 2378,
+    "createdAt": "2009-09-20T19:22:14Z"
+  },
+  {
+    "login": "cruisemaniac",
+    "name": "Ashwin Murali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115579?s=72&u=d445be86ea09ab814b6c93b5db1812e3193f35fc&v=4",
+    "location": "Abu Dhabi, UAE",
+    "company": "",
+    "twitterUsername": "cruisemaniac",
+    "followers": 56,
+    "privateContributions": 2609,
+    "publicContributions": 15,
+    "createdAt": "2009-08-15T09:10:07Z"
+  },
+  {
+    "login": "markomarkovic",
+    "name": "Marko Marković",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99233?s=72&v=4",
+    "location": "Abu Dhabi, UAE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 232,
+    "publicContributions": 198,
+    "createdAt": "2009-06-26T16:29:24Z"
+  },
+  {
+    "login": "giuseppecalderaro",
+    "name": "Giuseppe Calderaro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128549?s=72&v=4",
+    "location": "Abu Dhabi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2009-09-18T10:54:38Z"
+  },
+  {
+    "login": "davidorban",
+    "name": "David Orban",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125344?s=72&u=dc427a49b7d277d9f34ec31dfd1cce59ee5029ab&v=4",
+    "location": "Abu Dhabi",
+    "company": "",
+    "twitterUsername": "davidorban",
+    "followers": 23,
+    "privateContributions": 1657,
+    "publicContributions": 304,
+    "createdAt": "2009-09-10T13:00:55Z"
+  },
+  {
+    "login": "Iv",
+    "name": "Kravchenko Ivan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139497?s=72&u=925da7d240c33e4b13c2c37218e21731a86372a0&v=4",
+    "location": "Abu Dhabi",
+    "company": "MBZAUI",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 56,
+    "createdAt": "2009-10-14T02:33:36Z"
+  },
+  {
+    "login": "gregorycarter",
+    "name": "Greg Carter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46213?s=72&v=4",
+    "location": "Abu Dhabi, UAE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 6841,
+    "publicContributions": 17,
+    "createdAt": "2009-01-13T09:47:11Z"
+  },
+  {
+    "login": "kaleemullah",
+    "name": "Kaleem Ullah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56748?s=72&v=4",
+    "location": "Abu Dhabi",
+    "company": "ProTenders Inc.",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 48,
+    "publicContributions": 0,
+    "createdAt": "2009-02-22T06:35:54Z"
   }
 ]

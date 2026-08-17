@@ -29266,5 +29266,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-03-05T13:02:40Z"
+  },
+  {
+    "login": "Entea",
+    "name": "Nurlan Turdaliev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/531803?s=72&u=f506588d6428fe97ed8764669ad3124d45917a23&v=4",
+    "location": "Kyrgyz Republic/Bishkek",
+    "company": "",
+    "twitterUsername": "En_Tea",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2010-12-21T11:41:52Z"
+  },
+  {
+    "login": "asannov",
+    "name": "Damir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/514666?s=72&u=93f9177a5091e3cd0d14608bcde5011e88aac84e&v=4",
+    "location": "Bishkek, Kyrgyz Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 43,
+    "publicContributions": 991,
+    "createdAt": "2010-12-08T13:09:22Z"
+  },
+  {
+    "login": "eVoNique",
+    "name": "Aybat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295445?s=72&v=4",
+    "location": "Kyrgyz Republic",
+    "company": "skadateplus",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-03T12:34:55Z"
   }
 ]

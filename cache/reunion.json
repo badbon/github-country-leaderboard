@@ -2482,5 +2482,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-03-12T21:24:39Z"
+  },
+  {
+    "login": "jnoel",
+    "name": "jnoel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1062299?s=72&v=4",
+    "location": "Reunion Island",
+    "company": "Mithril Informatique",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-09-19T14:51:13Z"
+  },
+  {
+    "login": "komodo974",
+    "name": "Komodo974",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/686240?s=72&v=4",
+    "location": "Reunion Island",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-23T14:20:13Z"
   }
 ]

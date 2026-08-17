@@ -58690,5 +58690,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-19T15:00:12Z"
+  },
+  {
+    "login": "rodolfofranco",
+    "name": "Rodolfo Franco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25906268?s=72&u=860cb11ef852b9bf2afa8bb46b7672086b2da2f1&v=4",
+    "location": "Caracas",
+    "company": "yummysuperapp",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-20T15:53:34Z"
+  },
+  {
+    "login": "Alatmal",
+    "name": "Alcides Maldonado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31625254?s=72&v=4",
+    "location": "Caracas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 195,
+    "publicContributions": 0,
+    "createdAt": "2017-09-04T14:36:03Z"
+  },
+  {
+    "login": "ACHU-15",
+    "name": "Gregory Robles",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26389779?s=72&v=4",
+    "location": "caracas, distrito capital, zona sur-oeste",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-13T18:13:03Z"
+  },
+  {
+    "login": "pablocdch",
+    "name": "Pablo Diaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31806942?s=72&v=4",
+    "location": "Caracas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-09T20:24:43Z"
+  },
+  {
+    "login": "kjmendoza",
+    "name": "Keivin Mendoza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30533384?s=72&u=dbf5066d3d7e236c47644105097e5a2467b9aff3&v=4",
+    "location": "Caracas/Venezula",
+    "company": "Desarrollo y Soluciones Informáticas JKOV C.A",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-28T17:13:38Z"
+  },
+  {
+    "login": "liajim357",
+    "name": "Mijail Bello",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25067477?s=72&u=89c54d996238dccc0a4b2f5b9fd64dec082a5593&v=4",
+    "location": "Caracas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-11T22:46:39Z"
+  },
+  {
+    "login": "roberto-angulo",
+    "name": "Roberto Angulo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26307431?s=72&u=887316e58410761833a435f0643530b82c2ff15d&v=4",
+    "location": "Caracas",
+    "company": "Team International",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-09T16:38:36Z"
   }
 ]
