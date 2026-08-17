@@ -20986,5 +20986,89 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2010-08-30T02:23:36Z"
+  },
+  {
+    "login": "CyberShadow",
+    "name": "Vladimir Panteleev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160894?s=72&u=23fcd074443aa72c5335f7fd2c8a49cbbb004f56&v=4",
+    "location": "Moldova, Eastern Europe",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 516,
+    "privateContributions": 3,
+    "publicContributions": 1498,
+    "createdAt": "2009-12-02T14:37:34Z"
+  },
+  {
+    "login": "chorny",
+    "name": "Alexandr Ciornii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56743?s=72&v=4",
+    "location": "Kishinev, Moldova",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 91,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-02-22T06:07:01Z"
+  },
+  {
+    "login": "gurdiga",
+    "name": "Vlad GURDIGA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53922?s=72&v=4",
+    "location": "Chisinau, Moldova",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 55,
+    "privateContributions": 0,
+    "publicContributions": 595,
+    "createdAt": "2009-02-12T13:36:21Z"
+  },
+  {
+    "login": "vitalyrotari",
+    "name": "Vitaly Rotari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124706?s=72&u=b26f58606dedaa56f5901ee0bc7c89bb4a4e7d9d&v=4",
+    "location": "Chisiau, Moldova Republic of",
+    "company": "Everywhere",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 18,
+    "publicContributions": 0,
+    "createdAt": "2009-09-08T23:59:28Z"
+  },
+  {
+    "login": "paulsanduleac",
+    "name": "Paul Sanduleac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67867?s=72&u=9dd96820434b98e06f2da92e11dd152d53749457&v=4",
+    "location": "USA / Moldova",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 66,
+    "publicContributions": 0,
+    "createdAt": "2009-03-27T15:06:58Z"
+  },
+  {
+    "login": "ervasive",
+    "name": "Ruslan Vasiliev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85254?s=72&u=b0781b86d8e1acbc08cfb514ad44b64e72b21b33&v=4",
+    "location": "Moldova",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-05-16T13:40:38Z"
+  },
+  {
+    "login": "dotNox",
+    "name": "Maxim Ianoglo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124643?s=72&u=f3acd2c4d5122bfd6ed2a9272067f5e5b242a79a&v=4",
+    "location": "Moldova",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-09-08T20:35:50Z"
   }
 ]

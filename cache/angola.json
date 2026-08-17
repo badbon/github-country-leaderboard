@@ -29587,7 +29587,7 @@
     "company": "",
     "twitterUsername": "cagejose",
     "followers": 406,
-    "privateContributions": 805,
+    "privateContributions": 809,
     "publicContributions": 6,
     "createdAt": "2013-04-19T10:36:34Z"
   },
@@ -29599,7 +29599,7 @@
     "company": "@ToqueMedia",
     "twitterUsername": "hackgarcia",
     "followers": 61,
-    "privateContributions": 3110,
+    "privateContributions": 3115,
     "publicContributions": 134,
     "createdAt": "2013-07-29T16:40:00Z"
   },
@@ -29830,5 +29830,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2013-02-21T13:36:03Z"
+  },
+  {
+    "login": "smaziano",
+    "name": "Sergio Maziano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5418935?s=72&u=144f05d2c141da31e0845a55f3cce3b215eb7279&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 43,
+    "privateContributions": 2411,
+    "publicContributions": 1,
+    "createdAt": "2013-09-09T14:34:42Z"
+  },
+  {
+    "login": "joel2011140",
+    "name": "Joel Marinho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5999689?s=72&u=a64e47a0a6da707e56a5eb9ee07b4217c7f34936&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "joelmarinho2016",
+    "followers": 26,
+    "privateContributions": 5558,
+    "publicContributions": 98,
+    "createdAt": "2013-11-21T09:49:13Z"
+  },
+  {
+    "login": "Cassioneto",
+    "name": "Cássio Neto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5675543?s=72&u=c2e8fe0bb0435323c402a2a79ef5ea02a97333a3&v=4",
+    "location": "Luanda",
+    "company": "cpuway",
+    "twitterUsername": "cassiopro",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2013-10-13T10:40:47Z"
   }
 ]

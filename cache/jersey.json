@@ -706,5 +706,29 @@
     "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2016-11-25T18:17:33Z"
+  },
+  {
+    "login": "guessty",
+    "name": "Christian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18115233?s=72&u=ee1ed5aa187b4c51d82781cf71abc57a86a3f4ed&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 6205,
+    "publicContributions": 0,
+    "createdAt": "2016-03-28T11:04:50Z"
+  },
+  {
+    "login": "mikeyfz6",
+    "name": "Mikey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17082317?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-05T11:05:02Z"
   }
 ]
