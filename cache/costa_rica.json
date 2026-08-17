@@ -53563,7 +53563,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 518,
+    "privateContributions": 531,
     "publicContributions": 126,
     "createdAt": "2014-10-08T19:14:00Z"
   },
@@ -53899,7 +53899,7 @@
     "company": "@TecnologiasVM",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2773,
+    "privateContributions": 2775,
     "publicContributions": 74,
     "createdAt": "2014-07-29T23:23:29Z"
   },
@@ -56770,5 +56770,89 @@
     "privateContributions": 0,
     "publicContributions": 173,
     "createdAt": "2014-07-09T21:36:00Z"
+  },
+  {
+    "login": "pherrusa7",
+    "name": "Pedro Herruzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8740816?s=72&u=05c32255b5b5006410caf0b61c1f4e8321db8127&v=4",
+    "location": "San José, California.",
+    "company": "UNISON",
+    "twitterUsername": "HerruzoPedro",
+    "followers": 16,
+    "privateContributions": 1551,
+    "publicContributions": 3,
+    "createdAt": "2014-09-11T18:40:02Z"
+  },
+  {
+    "login": "tsnl",
+    "name": "Nikhil Idiculla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8322838?s=72&u=f72276c5d8e28619049412961fa8ca0d6075c6dd&v=4",
+    "location": "San José, California",
+    "company": "Tesla Inc.",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 1184,
+    "publicContributions": 568,
+    "createdAt": "2014-07-31T18:16:53Z"
+  },
+  {
+    "login": "BillRothVMware",
+    "name": "Bill Roth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7071661?s=72&v=4",
+    "location": "San José, CA",
+    "company": "VMware",
+    "twitterUsername": "BillRothVMware",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-26T15:46:47Z"
+  },
+  {
+    "login": "MarAvFe",
+    "name": "Marcello Ávila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8484790?s=72&u=e74f4b5493842cda10b4a1c8d67ffda36a6ba1f5&v=4",
+    "location": "San José, CR",
+    "company": "@procter-gamble",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 126,
+    "createdAt": "2014-08-18T22:57:14Z"
+  },
+  {
+    "login": "MartinMora",
+    "name": "Martín Mora",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7502312?s=72&u=f515032a589951b24eebab06cbd73bb9d4745d16&v=4",
+    "location": "San José, California",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-06T15:56:50Z"
+  },
+  {
+    "login": "hchdez",
+    "name": "hchdez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7507863?s=72&u=91e13472bd1245cd8ad73cdd3f865ddac27dcfd1&v=4",
+    "location": "San José de Cusmapa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-07T04:00:12Z"
+  },
+  {
+    "login": "lhyman",
+    "name": "Leonard Hyman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6758414?s=72&u=f4d0bd315a41531042b1bf87c24818b0b4d2ea9e&v=4",
+    "location": "San José, CA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2014-02-22T19:12:19Z"
   }
 ]

@@ -334,5 +334,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-05-06T13:11:29Z"
+  },
+  {
+    "login": "LBreda",
+    "name": "Lorenzo Breda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/633783?s=72&u=f85f8f7298c9e13cce9aaa24fd22c7cf99b1396b&v=4",
+    "location": "Vatican City State",
+    "company": "ISP Service",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 49,
+    "publicContributions": 20,
+    "createdAt": "2011-02-23T11:13:41Z"
+  },
+  {
+    "login": "reijop",
+    "name": "Reijo Pitkanen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/799229?s=72&v=4",
+    "location": "Vatican City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2011-05-19T22:12:44Z"
+  },
+  {
+    "login": "gadhra",
+    "name": "gadhra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/730148?s=72&u=e11f056d368c8b2dc9eb2e7779a0cd79676b84aa&v=4",
+    "location": "Vatican City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-14T20:19:01Z"
   }
 ]

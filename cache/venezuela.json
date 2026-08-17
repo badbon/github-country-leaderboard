@@ -45823,7 +45823,7 @@
     "company": "Innovares",
     "twitterUsername": "osunaaca",
     "followers": 19,
-    "privateContributions": 3931,
+    "privateContributions": 3961,
     "publicContributions": 28,
     "createdAt": "2018-03-02T22:27:06Z"
   },
@@ -46087,7 +46087,7 @@
     "company": "",
     "twitterUsername": "lesanpi",
     "followers": 15,
-    "privateContributions": 660,
+    "privateContributions": 662,
     "publicContributions": 4,
     "createdAt": "2018-08-29T19:41:33Z"
   },
@@ -47095,7 +47095,7 @@
     "company": "Mipto Tech C.A.",
     "twitterUsername": "OsiNubis99",
     "followers": 8,
-    "privateContributions": 413,
+    "privateContributions": 415,
     "publicContributions": 152,
     "createdAt": "2018-09-05T18:47:56Z"
   },
@@ -48691,7 +48691,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3094,
+    "privateContributions": 3095,
     "publicContributions": 4,
     "createdAt": "2018-08-28T01:51:12Z"
   },
@@ -52210,5 +52210,125 @@
     "privateContributions": 63,
     "publicContributions": 0,
     "createdAt": "2013-12-05T13:36:07Z"
+  },
+  {
+    "login": "joakor89",
+    "name": "Joaco L.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45221528?s=72&u=cef9165d425f9abb81f357b938ca99a60ca76b3f&v=4",
+    "location": "Caracas",
+    "company": "Data Science",
+    "twitterUsername": "",
+    "followers": 297,
+    "privateContributions": 0,
+    "publicContributions": 1013,
+    "createdAt": "2018-11-21T04:06:07Z"
+  },
+  {
+    "login": "ShonTitor",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39103403?s=72&u=59c504288185983c4de6e9a9a91f9101d42cc7f7&v=4",
+    "location": "Caracas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 70,
+    "createdAt": "2018-05-08T20:57:48Z"
+  },
+  {
+    "login": "diaznelson",
+    "name": "Nelson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37834013?s=72&u=10b240e1de9312b9910f45778cd2beb90b8979b2&v=4",
+    "location": "Caracas",
+    "company": " none",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-27T10:36:19Z"
+  },
+  {
+    "login": "isaac152",
+    "name": "Isaac Gonzalez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36288057?s=72&u=0d10f3e5b4a62306d1a7a484445a6c92f3c0d633&v=4",
+    "location": "Caracas",
+    "company": "Venezuela",
+    "twitterUsername": "ispendev",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2018-02-09T03:40:26Z"
+  },
+  {
+    "login": "gazarrillo",
+    "name": "Giovanni Zarrillo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38231671?s=72&u=9d4e009b5f25586949239296bf9aefbb088c07c2&v=4",
+    "location": "Caracas",
+    "company": "Quoota",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 867,
+    "publicContributions": 629,
+    "createdAt": "2018-04-09T23:58:49Z"
+  },
+  {
+    "login": "Dgbusiness",
+    "name": "Daniel Giannotti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45789806?s=72&u=f6bb794ad8dab7ad9dd1b937a0fecc1e84c35b99&v=4",
+    "location": "Caracas",
+    "company": "CgiannTechnology",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 137,
+    "publicContributions": 41,
+    "createdAt": "2018-12-11T12:19:58Z"
+  },
+  {
+    "login": "Gastroam",
+    "name": "Aleksol",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38188795?s=72&u=e9473b283d0375968207586b0a7c370cbc26eb06&v=4",
+    "location": "Caracas, VE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 311,
+    "publicContributions": 119,
+    "createdAt": "2018-04-08T17:27:00Z"
+  },
+  {
+    "login": "leonardolarrad",
+    "name": "Leonardo Larrad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46138736?s=72&u=84c931c1321354bf1530cd83bf279392d112f435&v=4",
+    "location": "Caracas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 257,
+    "publicContributions": 20,
+    "createdAt": "2018-12-25T21:23:37Z"
+  },
+  {
+    "login": "Manuel20Lorenzo",
+    "name": "Manuel Lorenzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40529746?s=72&u=82275d79f311540e389ca329fc8036dfbb038770&v=4",
+    "location": "Caracas",
+    "company": "Komerzio",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2018-06-24T00:01:32Z"
+  },
+  {
+    "login": "danielfjodarl",
+    "name": "Daniel ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37696545?s=72&v=4",
+    "location": "Caracas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-23T11:28:36Z"
   }
 ]
