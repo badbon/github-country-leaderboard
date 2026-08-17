@@ -57682,5 +57682,41 @@
     "privateContributions": 0,
     "publicContributions": 52,
     "createdAt": "2024-01-02T16:08:47Z"
+  },
+  {
+    "login": "rcarven",
+    "name": "Rafael Carmona",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164249325?s=72&u=66fd866f614fefc77cabaab1811e35cd46428388&v=4",
+    "location": "Madrid, Spain",
+    "company": "Universidad Complutense de Madrid",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2024-03-20T20:23:05Z"
+  },
+  {
+    "login": "Chijopana",
+    "name": "Jose Blondel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164395005?s=72&u=d13081bb239e4b1b22c788abe43e5fab6880f8bc&v=4",
+    "location": "Spain, Barcelona",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 119,
+    "createdAt": "2024-03-21T17:49:00Z"
+  },
+  {
+    "login": "underground09",
+    "name": "Josue Hernandez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47370046?s=72&v=4",
+    "location": "Madrid-Venezuela",
+    "company": "Anonimo",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-05T21:52:53Z"
   }
 ]

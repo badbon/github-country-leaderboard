@@ -16366,5 +16366,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-08-18T09:47:04Z"
+  },
+  {
+    "login": "dofbi",
+    "name": "dofbi.eth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84446?s=72&v=4",
+    "location": "Senegal",
+    "company": "01SERVICES",
+    "twitterUsername": "dofbi",
+    "followers": 180,
+    "privateContributions": 598,
+    "publicContributions": 404,
+    "createdAt": "2009-05-14T09:14:35Z"
+  },
+  {
+    "login": "wilane",
+    "name": "Ousmane Wilane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122930?s=72&v=4",
+    "location": "Dakar, Senegal",
+    "company": "Independent developer",
+    "twitterUsername": "",
+    "followers": 75,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2009-09-03T17:56:50Z"
   }
 ]

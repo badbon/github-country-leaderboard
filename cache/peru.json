@@ -56002,5 +56002,77 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2020-08-04T06:11:59Z"
+  },
+  {
+    "login": "adison-chire",
+    "name": "Adison Alberth Chire Broncano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63418492?s=72&u=87c2229703823ffa77122704e8c2f5e920d57b24&v=4",
+    "location": "Peru",
+    "company": "Open to work",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2020-04-09T17:18:11Z"
+  },
+  {
+    "login": "Isabel-Mauro",
+    "name": "Isabel Mauro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63520146?s=72&v=4",
+    "location": "Lima, Peru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-11T21:06:43Z"
+  },
+  {
+    "login": "LeonardoRospigliosi",
+    "name": "Leonardo Rospigliosi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70114762?s=72&u=8bb2e7792de00e9fdb61bbe37ec64fd9a9a18cf2&v=4",
+    "location": "Peru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-23T21:49:00Z"
+  },
+  {
+    "login": "aalegre26",
+    "name": "Angel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63058523?s=72&u=3e5a0d1ff78927ddaa1217eb54e886681ae3afc4&v=4",
+    "location": "PERU, Lurin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-02T14:22:46Z"
+  },
+  {
+    "login": "angelozorve",
+    "name": "Angelo Zorrilla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68374012?s=72&u=e362427df11b0c41a6d873bd14daf4e32bf2a822&v=4",
+    "location": "PERU",
+    "company": "IAOTEC",
+    "twitterUsername": "angelozorve",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-07-16T08:45:09Z"
+  },
+  {
+    "login": "isasachi",
+    "name": "Isaac Salirrosas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74748988?s=72&u=585c51eca75bcc9c44d4e815a977367cc3d7c34b&v=4",
+    "location": "Peru",
+    "company": "",
+    "twitterUsername": "isaacsalirrosas",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 630,
+    "createdAt": "2020-11-20T02:02:59Z"
   }
 ]

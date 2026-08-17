@@ -12694,5 +12694,101 @@
     "privateContributions": 0,
     "publicContributions": 30,
     "createdAt": "2015-11-13T19:33:30Z"
+  },
+  {
+    "login": "BetimBeja",
+    "name": "Betim Beja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11160171?s=72&u=b90556136c915d545eb2cc97fde8d3486f9a802a&v=4",
+    "location": "Tirana",
+    "company": "Shko Online",
+    "twitterUsername": "betimbeja",
+    "followers": 49,
+    "privateContributions": 0,
+    "publicContributions": 169,
+    "createdAt": "2015-02-23T13:55:48Z"
+  },
+  {
+    "login": "MarinKacaj",
+    "name": "Marin Kaçaj",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14946501?s=72&v=4",
+    "location": "Tirana",
+    "company": "@Backbase ",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-10-02T20:22:52Z"
+  },
+  {
+    "login": "aldidisha",
+    "name": "Aldi Disha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11751516?s=72&u=9067e4b0b8acd2ddfe869d255a799f9f5092f3f7&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-01T09:03:26Z"
+  },
+  {
+    "login": "DonaldMerizaj",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12258788?s=72&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-05T17:39:18Z"
+  },
+  {
+    "login": "kevingabeci",
+    "name": "Kevin Gabeci",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13668609?s=72&u=f1466692ef05cae1ffc8c605b65f0371a8b5ff05&v=4",
+    "location": "Tirana",
+    "company": "Apatero",
+    "twitterUsername": "gabeciii",
+    "followers": 3,
+    "privateContributions": 3153,
+    "publicContributions": 62,
+    "createdAt": "2015-08-05T22:47:15Z"
+  },
+  {
+    "login": "anxhelo1",
+    "name": "Anxhelo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11484388?s=72&u=6f0ed980e57961c160893831a4e435734a8e0fd5&v=4",
+    "location": "Tirana, AL",
+    "company": "Facilization",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-15T06:22:18Z"
+  },
+  {
+    "login": "oetoni",
+    "name": "oetoni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11457417?s=72&u=268688c45ffad7013a6b9536ec55b4ded971b830&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 41,
+    "publicContributions": 5,
+    "createdAt": "2015-03-13T10:06:34Z"
+  },
+  {
+    "login": "ibena",
+    "name": "Ibena Zeqja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15749586?s=72&v=4",
+    "location": "Tirana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-09T22:16:29Z"
   }
 ]

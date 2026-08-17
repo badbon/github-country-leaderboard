@@ -12814,5 +12814,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-11-06T21:42:47Z"
+  },
+  {
+    "login": "lessallan",
+    "name": "Allan Branch",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30468?s=72&v=4",
+    "location": "Panama City, Florida",
+    "company": "Less Everything, inc.",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2008-10-22T21:41:53Z"
+  },
+  {
+    "login": "mopx",
+    "name": "Jorge Yau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12272?s=72&u=c9c2231fbd05d7ba3af83811f88f9f74d2d9c461&v=4",
+    "location": "Panama City, Panama",
+    "company": "Kaiju Labs S.A.",
+    "twitterUsername": "mopx",
+    "followers": 28,
+    "privateContributions": 1364,
+    "publicContributions": 54,
+    "createdAt": "2008-06-02T04:25:56Z"
+  },
+  {
+    "login": "ericdaniel",
+    "name": "Eric Acevedo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17369?s=72&v=4",
+    "location": "Panama",
+    "company": "eacevedo",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 749,
+    "publicContributions": 3,
+    "createdAt": "2008-07-17T18:23:06Z"
+  },
+  {
+    "login": "atourino",
+    "name": "Antonio Touriño",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13043?s=72&v=4",
+    "location": "Panama City, Panama",
+    "company": "@rootstackdev ",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-06-09T02:45:56Z"
   }
 ]
