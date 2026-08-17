@@ -670,5 +670,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-06-30T09:33:03Z"
+  },
+  {
+    "login": "adecler",
+    "name": "Arnaud Declercq",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16853390?s=72&u=d599a37e61a8e20d652a0f8b0ebc0ce4c21f8b2e&v=4",
+    "location": "Jersey",
+    "company": "BuroHappold Engineering",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 342,
+    "publicContributions": 641,
+    "createdAt": "2016-01-23T15:01:46Z"
   }
 ]

@@ -1174,5 +1174,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2015-06-17T12:59:17Z"
+  },
+  {
+    "login": "brian25online",
+    "name": "Brian Dlamini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15199577?s=72&u=eb6b4b75c6fa8ec78721fbb20cf8b8c829784b02&v=4",
+    "location": "Lozitha, Swaziland ",
+    "company": "http://www.sppra.co.sz/",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-19T16:29:52Z"
+  },
+  {
+    "login": "Annis-Monadjem",
+    "name": "Annis Monadjem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13934141?s=72&u=a32c63f2d1feb5cb6794d347f77cb430962fb2e1&v=4",
+    "location": "Swaziland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-23T20:54:47Z"
+  },
+  {
+    "login": "Zwikky",
+    "name": "Zwakele Mkhatshwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13826277?s=72&u=78d2e0d348de1d85a0595e7697050127b391369a&v=4",
+    "location": "Swaziland",
+    "company": "Smart Micro Computing",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-17T03:06:31Z"
   }
 ]

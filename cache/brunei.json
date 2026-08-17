@@ -2998,5 +2998,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-02-05T13:32:07Z"
+  },
+  {
+    "login": "Qoyyuum",
+    "name": "Abdul Qoyyuum",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/971309?s=72&v=4",
+    "location": "Brunei Darussalam",
+    "company": "",
+    "twitterUsername": "Qoyyuum",
+    "followers": 49,
+    "privateContributions": 140,
+    "publicContributions": 450,
+    "createdAt": "2011-08-10T11:46:37Z"
+  },
+  {
+    "login": "thewheat",
+    "name": "Timothy Lim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/892961?s=72&u=908c8f1ba21887c9e12193d14813c8e9008b4c0a&v=4",
+    "location": "Brunei",
+    "company": "@supabase",
+    "twitterUsername": "",
+    "followers": 48,
+    "privateContributions": 145,
+    "publicContributions": 141,
+    "createdAt": "2011-07-04T07:44:09Z"
+  },
+  {
+    "login": "mehad",
+    "name": "mehad mohd nawi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/631553?s=72&v=4",
+    "location": "Malaysia,Singapore,Brunei,Indonesia",
+    "company": "WELA Slimberry",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-22T08:49:40Z"
   }
 ]

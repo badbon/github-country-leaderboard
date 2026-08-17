@@ -74554,5 +74554,29 @@
     "privateContributions": 0,
     "publicContributions": 66,
     "createdAt": "2024-10-25T15:25:50Z"
+  },
+  {
+    "login": "Gerpegasus",
+    "name": "Gerpegasus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121355838?s=72&u=b7e3cc73ff7bcef4479864fa0db0b20e089a3d26&v=4",
+    "location": "Santiago de Compostela, Galicia, Spain",
+    "company": "Freelance Developer",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-24T17:51:51Z"
+  },
+  {
+    "login": "zazerc",
+    "name": "Merino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3780977?s=72&u=31ead2245a351bed7568bece6108e3bca1f7bcdd&v=4",
+    "location": "Canary Island, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-05T22:10:58Z"
   }
 ]

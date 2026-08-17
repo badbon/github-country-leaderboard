@@ -44638,5 +44638,101 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2015-10-22T07:26:50Z"
+  },
+  {
+    "login": "InCogNiTo124",
+    "name": "Marijan Smetko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12953598?s=72&u=3dee41493eeaf89b89485cd267814a5e8f5629ed&v=4",
+    "location": "Zagreb, Hrvatska",
+    "company": "@google",
+    "twitterUsername": "MarijanSmetko",
+    "followers": 96,
+    "privateContributions": 11,
+    "publicContributions": 239,
+    "createdAt": "2015-06-18T14:39:30Z"
+  },
+  {
+    "login": "b101",
+    "name": "Branimir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11729682?s=72&u=0e3af4f0fda162ef2e8c02762993832d90918504&v=4",
+    "location": "Hrvatska",
+    "company": "Team R.",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 9,
+    "publicContributions": 0,
+    "createdAt": "2015-03-31T01:43:19Z"
+  },
+  {
+    "login": "PatrikGrguric",
+    "name": "Patrik Grgurić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11632897?s=72&u=78eefef9e5b9e543f5c06361f04d6e552c7cecaf&v=4",
+    "location": "Osijek, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-24T15:15:03Z"
+  },
+  {
+    "login": "mariotudan",
+    "name": "Mario Tuđan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11462653?s=72&u=8dbc8e33844bdf2ecdb746e0cf09ddf1e981b095&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 7,
+    "publicContributions": 0,
+    "createdAt": "2015-03-13T15:55:53Z"
+  },
+  {
+    "login": "tomislavhren",
+    "name": "Tomislav Hren",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11743474?s=72&u=779695e951d3203880dd2ac8c297cc1103f82850&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2015-03-31T20:16:15Z"
+  },
+  {
+    "login": "eajazi",
+    "name": "Edis Ajazi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10645996?s=72&u=32f78e49c0d63bbe8f84614c15ec71d1da36740b&v=4",
+    "location": "Pula, Hrvatska",
+    "company": "ChangeTheWorld",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-22T02:19:57Z"
+  },
+  {
+    "login": "mdurokov",
+    "name": "Matej Đuroković",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16310383?s=72&u=7cfa4ba83fb38641ba3dfe32594a648fddd09864&v=4",
+    "location": "Osijek, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-15T18:45:58Z"
+  },
+  {
+    "login": "storm-dbojkic",
+    "name": "Davor Bojkić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14230364?s=72&v=4",
+    "location": "Zagreb, Hrvatska, Universe, Multiverse",
+    "company": "Strom Computers d.o.o.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-11T06:25:46Z"
   }
 ]

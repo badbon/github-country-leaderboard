@@ -8422,5 +8422,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-02-27T07:30:13Z"
+  },
+  {
+    "login": "hervino14",
+    "name": "Hervino Nzau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1943648?s=72&u=c10dbe5938e6bf31ba159228062c7a365b529353&v=4",
+    "location": "Kinshasa ( D.R.Congo )",
+    "company": "Eteyelo Services",
+    "twitterUsername": "hervino14",
+    "followers": 18,
+    "privateContributions": 455,
+    "publicContributions": 0,
+    "createdAt": "2012-07-09T15:44:09Z"
+  },
+  {
+    "login": "laetitiamassa",
+    "name": "Laetitia Massa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1782688?s=72&v=4",
+    "location": "Kinshasa",
+    "company": "Pinshasa",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-05-27T11:54:59Z"
+  },
+  {
+    "login": "riddyndoma",
+    "name": "riddyndoma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1844328?s=72&u=c6d978b169a58c35eebaab1760c923d0acc7d5d3&v=4",
+    "location": "Kinshasa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2012-06-12T21:41:39Z"
   }
 ]
