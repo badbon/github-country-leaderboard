@@ -8179,7 +8179,7 @@
     "company": "OneWell",
     "twitterUsername": "UmedzhonIzbasar",
     "followers": 35,
-    "privateContributions": 4317,
+    "privateContributions": 4336,
     "publicContributions": 9,
     "createdAt": "2014-08-04T11:18:46Z"
   },
@@ -8266,5 +8266,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-09-19T05:37:51Z"
+  },
+  {
+    "login": "romangrushenkov",
+    "name": "Roman Grushenkov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10076319?s=72&u=ae130d975f022db005dcbaaea9d52d2496d6337d&v=4",
+    "location": "Dushanbe",
+    "company": "@Codemika ",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-04T15:30:25Z"
+  },
+  {
+    "login": "Qutbiddin",
+    "name": "qutbiddin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10207950?s=72&v=4",
+    "location": "Dushanbe",
+    "company": "@alifcapital",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-16T12:02:42Z"
+  },
+  {
+    "login": "kmukhamadulloev",
+    "name": "Komron Mukhamadulloev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8972129?s=72&u=be06d550d698b7fdc043fc469e8440dc891400e9&v=4",
+    "location": "Dushanbe",
+    "company": "Stack & Stress",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2014-09-30T13:21:35Z"
+  },
+  {
+    "login": "Abdukahhor",
+    "name": "Abdukakhor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8505658?s=72&u=5ece54c440b2e578417745e3830a6ccedabeb31a&v=4",
+    "location": "Dushanbe",
+    "company": "Alif Bank",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-20T17:56:04Z"
   }
 ]

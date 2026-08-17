@@ -22306,5 +22306,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-06-10T14:24:10Z"
+  },
+  {
+    "login": "gersona",
+    "name": "Gersona",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6675010?s=72&u=e91739658b2d297df3ec9f5cab399065d77cab7e&v=4",
+    "location": "Antananarivo, MG",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 500,
+    "publicContributions": 111,
+    "createdAt": "2014-02-13T18:28:33Z"
+  },
+  {
+    "login": "Heritoky",
+    "name": "dev264",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7250339?s=72&u=5b059ca6d093adb6818bff2c25093aea8cb10d53&v=4",
+    "location": "Antananarivo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-10T11:42:21Z"
+  },
+  {
+    "login": "Lejoueurchanceux",
+    "name": "Mehdi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9069806?s=72&v=4",
+    "location": "Antananarivo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-08T06:08:32Z"
+  },
+  {
+    "login": "Scotteviil",
+    "name": "Jerry Scott Razafindrabe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9765201?s=72&v=4",
+    "location": "Antananarivo",
+    "company": "Free Domain",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-15T10:50:06Z"
   }
 ]

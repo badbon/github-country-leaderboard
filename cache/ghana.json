@@ -46339,8 +46339,8 @@
     "company": "@OSSAfrica",
     "twitterUsername": "aaronwilldjaba",
     "followers": 80,
-    "privateContributions": 2371,
-    "publicContributions": 740,
+    "privateContributions": 2369,
+    "publicContributions": 754,
     "createdAt": "2020-03-03T08:52:43Z"
   },
   {
@@ -46556,7 +46556,7 @@
     "twitterUsername": "",
     "followers": 53,
     "privateContributions": 90,
-    "publicContributions": 74,
+    "publicContributions": 75,
     "createdAt": "2020-10-20T08:08:19Z"
   },
   {
@@ -46566,7 +46566,7 @@
     "location": "Accra, Ghana",
     "company": "knoxxi",
     "twitterUsername": "",
-    "followers": 53,
+    "followers": 54,
     "privateContributions": 158,
     "publicContributions": 50,
     "createdAt": "2020-03-16T02:58:38Z"
@@ -46651,7 +46651,7 @@
     "company": "",
     "twitterUsername": "OrekuD_",
     "followers": 48,
-    "privateContributions": 1881,
+    "privateContributions": 1884,
     "publicContributions": 0,
     "createdAt": "2020-02-27T03:34:51Z"
   },
@@ -46902,8 +46902,8 @@
     "location": "Accra,Ghana",
     "company": "mansir",
     "twitterUsername": "mansir93",
-    "followers": 37,
-    "privateContributions": 3335,
+    "followers": 38,
+    "privateContributions": 3359,
     "publicContributions": 55,
     "createdAt": "2020-12-20T23:59:46Z"
   },
@@ -47011,7 +47011,7 @@
     "company": "",
     "twitterUsername": "cross19xx",
     "followers": 31,
-    "privateContributions": 1074,
+    "privateContributions": 1078,
     "publicContributions": 137,
     "createdAt": "2020-01-01T00:20:19Z"
   },
@@ -47478,7 +47478,7 @@
     "location": "Accra, Ghana",
     "company": "",
     "twitterUsername": "_iammaxwell",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 280,
     "publicContributions": 3,
     "createdAt": "2020-10-01T01:52:37Z"
@@ -47551,7 +47551,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 572,
+    "privateContributions": 578,
     "publicContributions": 110,
     "createdAt": "2020-05-25T05:15:33Z"
   },
@@ -47743,7 +47743,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 398,
+    "privateContributions": 404,
     "publicContributions": 11,
     "createdAt": "2020-01-29T19:06:06Z"
   },
@@ -54466,5 +54466,161 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-07-06T11:21:50Z"
+  },
+  {
+    "login": "BraKoose",
+    "name": "Bra Koo$e",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72326008?s=72&u=2fdf254ddfa4ae261a13c0c2dbb37a9f2d99722f&v=4",
+    "location": "Accra",
+    "company": "@404SolutionsGH ",
+    "twitterUsername": "brakoose",
+    "followers": 56,
+    "privateContributions": 1112,
+    "publicContributions": 112,
+    "createdAt": "2020-10-04T01:27:41Z"
+  },
+  {
+    "login": "evansnyamekye",
+    "name": "Evans kofi Nyamekye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60971417?s=72&u=3923ccc5affa44b1b9cca143e29b0cfae6d51be6&v=4",
+    "location": "Accra ",
+    "company": "Nested Solutions",
+    "twitterUsername": "nyamekye2131",
+    "followers": 45,
+    "privateContributions": 0,
+    "publicContributions": 337,
+    "createdAt": "2020-02-12T13:03:32Z"
+  },
+  {
+    "login": "Lyondealpha-hub",
+    "name": "Misbahu Ahmed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75757307?s=72&v=4",
+    "location": "Accra",
+    "company": "Full Stack Developer",
+    "twitterUsername": "",
+    "followers": 41,
+    "privateContributions": 2347,
+    "publicContributions": 198,
+    "createdAt": "2020-12-09T20:52:13Z"
+  },
+  {
+    "login": "eli-bigman",
+    "name": "Richard Elinam Nutsugah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61556574?s=72&u=90176c020b52331c14dfdffb6dc1fd8ad8a796ac&v=4",
+    "location": "Accra/Tema",
+    "company": "",
+    "twitterUsername": "elinutsugah",
+    "followers": 36,
+    "privateContributions": 2680,
+    "publicContributions": 680,
+    "createdAt": "2020-02-27T17:11:13Z"
+  },
+  {
+    "login": "ofoetey",
+    "name": "Denfu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71621912?s=72&u=3fcd831148284195beeeab92243e2326c3bc4286&v=4",
+    "location": "Accra",
+    "company": "Strong AI",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 2391,
+    "publicContributions": 22,
+    "createdAt": "2020-09-21T04:01:38Z"
+  },
+  {
+    "login": "kossisoroyce",
+    "name": "Kossiso Udodi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65903011?s=72&u=5dc9c242c42572ff11b23031c7afb2e8b1cba27a&v=4",
+    "location": "Accra",
+    "company": "Electric Sheep Africa",
+    "twitterUsername": "kossisoroyce",
+    "followers": 32,
+    "privateContributions": 286,
+    "publicContributions": 88,
+    "createdAt": "2020-05-25T12:30:02Z"
+  },
+  {
+    "login": "Console45",
+    "name": "Cosmos Appiah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61518552?s=72&u=43bf2ff0fd7a7b59f1d0c0b93b1b3edf1ec917cf&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "litthesensei",
+    "followers": 25,
+    "privateContributions": 1845,
+    "publicContributions": 0,
+    "createdAt": "2020-02-26T19:26:39Z"
+  },
+  {
+    "login": "ddodoo",
+    "name": "Daniel Dodoo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74657244?s=72&u=92f8470b86872523495811ea2900f67cc522e897&v=4",
+    "location": "Accra-GH",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2020-11-18T11:19:40Z"
+  },
+  {
+    "login": "kalirocket",
+    "name": "Siaw Henry Nartey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61436567?s=72&u=a714f069816aba6fb289fad36ba73f73ed8581ef&v=4",
+    "location": "Accra",
+    "company": "@agrocenta ",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 1397,
+    "publicContributions": 9,
+    "createdAt": "2020-02-24T21:51:16Z"
+  },
+  {
+    "login": "hassanatuahmed",
+    "name": "Hassanatu Ahmed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62103315?s=72&u=c6754a48cc1288731812b0d84ba652739497c2df&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "Balaraba__",
+    "followers": 20,
+    "privateContributions": 110,
+    "publicContributions": 67,
+    "createdAt": "2020-03-12T12:38:49Z"
+  },
+  {
+    "login": "sevenscheck",
+    "name": "scheck",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69004767?s=72&u=a62f3c98882bf46197fc795fbf5e91f2666371b2&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "dyingimmortals1",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-07-30T14:55:41Z"
+  },
+  {
+    "login": "campofo",
+    "name": "Clement Donkor Ampofo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61918175?s=72&u=80f4ba872032a17a6194bf01468b9fc1450a4dae&v=4",
+    "location": "Accra ",
+    "company": "ILMIHA Labs",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 58,
+    "createdAt": "2020-03-07T19:07:42Z"
+  },
+  {
+    "login": "IbraAdam",
+    "name": "Ibrahim Adam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67459686?s=72&u=1c9bb2a97f8976fb644311d5aba42637a012b923&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-26T08:35:46Z"
   }
 ]

@@ -20578,5 +20578,29 @@
     "privateContributions": 394,
     "publicContributions": 2,
     "createdAt": "2014-03-17T14:21:04Z"
+  },
+  {
+    "login": "guidonu91",
+    "name": "Guido Nuñez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7810200?s=72&u=9ecc90e1c1aae6996243e067132fc0d74a535f73&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-05T22:27:09Z"
+  },
+  {
+    "login": "iGomezR",
+    "name": "Iván Gómez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6918865?s=72&u=539bf45a72d4778905f74b6753f3a0edec3e887b&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-11T13:02:43Z"
   }
 ]

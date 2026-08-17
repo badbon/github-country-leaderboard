@@ -24763,7 +24763,7 @@
     "company": "flair.hr",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 2009,
+    "privateContributions": 2011,
     "publicContributions": 23,
     "createdAt": "2015-10-01T19:32:09Z"
   },
@@ -25246,5 +25246,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-10-11T06:59:15Z"
+  },
+  {
+    "login": "FirasOmar",
+    "name": "Firas Omar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10442072?s=72&u=34d1e6719feb4e24e89f42e1ee49f4ed55081ca1&v=4",
+    "location": "Ramallah",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-07T23:14:34Z"
+  },
+  {
+    "login": "layaliZidan",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11040460?s=72&u=38db361705624f112ca1513497b14e4a6b3c33e0&v=4",
+    "location": "Ramallah",
+    "company": "Birzeit University",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-17T06:39:50Z"
   }
 ]

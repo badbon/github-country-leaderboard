@@ -18550,5 +18550,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-05-06T01:16:37Z"
+  },
+  {
+    "login": "adamb",
+    "name": "Adam Beguelin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4441?s=72&u=ec14f760678d2d2d9b7dd6f0fae5795ce8c27a8b&v=4",
+    "location": "Puerto Rico",
+    "company": "Sensr Net, Inc.",
+    "twitterUsername": "",
+    "followers": 67,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2008-04-03T04:01:14Z"
+  },
+  {
+    "login": "ericcolon",
+    "name": "Eric Colon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19134?s=72&u=bad5861e14d90fd897965792afa9e3d8d4e18ad2&v=4",
+    "location": "New Jersey, Puerto Rico",
+    "company": "22 Blak",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2008-07-31T17:36:52Z"
   }
 ]
