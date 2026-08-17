@@ -42068,7 +42068,7 @@
     "twitterUsername": "",
     "followers": 127,
     "privateContributions": 0,
-    "publicContributions": 354,
+    "publicContributions": 355,
     "createdAt": "2023-02-18T07:09:33Z"
   },
   {
@@ -42128,7 +42128,7 @@
     "twitterUsername": "",
     "followers": 67,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 45,
     "createdAt": "2023-03-09T05:21:46Z"
   },
   {
@@ -42260,7 +42260,7 @@
     "twitterUsername": "",
     "followers": 48,
     "privateContributions": 205,
-    "publicContributions": 406,
+    "publicContributions": 435,
     "createdAt": "2023-04-02T14:28:55Z"
   },
   {
@@ -42511,7 +42511,7 @@
     "company": "AunionAI",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 1220,
+    "privateContributions": 1223,
     "publicContributions": 135,
     "createdAt": "2023-12-10T10:55:55Z"
   },
@@ -42728,7 +42728,7 @@
     "twitterUsername": "",
     "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 118,
     "createdAt": "2023-01-11T01:37:30Z"
   },
   {
@@ -42811,7 +42811,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 176,
+    "privateContributions": 177,
     "publicContributions": 55,
     "createdAt": "2023-05-16T13:51:52Z"
   },
@@ -42847,7 +42847,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 3621,
+    "privateContributions": 3639,
     "publicContributions": 1,
     "createdAt": "2023-04-17T08:33:05Z"
   },
@@ -42932,7 +42932,7 @@
     "twitterUsername": "",
     "followers": 25,
     "privateContributions": 463,
-    "publicContributions": 824,
+    "publicContributions": 825,
     "createdAt": "2023-01-30T04:34:25Z"
   },
   {
@@ -43064,7 +43064,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 1749,
-    "publicContributions": 551,
+    "publicContributions": 553,
     "createdAt": "2023-08-28T12:37:36Z"
   },
   {
@@ -43147,7 +43147,7 @@
     "company": "DevSe, Pusan Nat'l University",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 496,
+    "privateContributions": 508,
     "publicContributions": 737,
     "createdAt": "2023-05-07T14:29:49Z"
   },
@@ -43878,7 +43878,7 @@
     "location": "Seoul, Republic of Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 26,
     "privateContributions": 20,
     "publicContributions": 0,
     "createdAt": "2023-01-02T02:23:54Z"
@@ -51814,5 +51814,17 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2023-01-01T18:07:44Z"
+  },
+  {
+    "login": "BlockchainAppsDeveloper",
+    "name": "Blockchain Development Company",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67623028?s=72&u=c170a3d8432a8e0f23c26d7a87b3f964c7daf20c&v=4",
+    "location": "USA, UK , South korea, Singapore, Malaysia, Turkey",
+    "company": "Blockchainappsdeveloper",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-30T05:26:47Z"
   }
 ]

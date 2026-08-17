@@ -586,5 +586,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-04-05T08:03:30Z"
+  },
+  {
+    "login": "nicorsm",
+    "name": "Nicola Giancecchi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2906234?s=72&u=fe40047ee4a3af4d085f0933b49794554c0ea75d&v=4",
+    "location": "San Marino",
+    "company": "@pop-sm",
+    "twitterUsername": "nicorsm",
+    "followers": 36,
+    "privateContributions": 157,
+    "publicContributions": 1,
+    "createdAt": "2012-11-27T22:31:03Z"
+  },
+  {
+    "login": "ellenico77",
+    "name": "Lorenzo Nicoletti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1744861?s=72&u=3503b8aa65035b80f61882995f87093862db069a&v=4",
+    "location": "San Marino",
+    "company": "I.e.S. SpA",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2012-05-16T08:02:51Z"
+  },
+  {
+    "login": "nukedbit",
+    "name": "Sebastian Faltoni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1690316?s=72&u=c86416d10d656ac335926a00ef3301115ecca617&v=4",
+    "location": "San Marino",
+    "company": "Obsidian Game Studios s.r.l.",
+    "twitterUsername": "nukedbit",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-04-29T16:15:14Z"
+  },
+  {
+    "login": "giacomobartoli",
+    "name": "Giacomo Bartoli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2913435?s=72&u=8530ee66dd9737024d5488c970d0a74583f2b3c9&v=4",
+    "location": "San Marino, SMR",
+    "company": "@IBM",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2012-11-28T16:27:52Z"
+  },
+  {
+    "login": "Hanike",
+    "name": "Hanike Treisce",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1890948?s=72&u=054bc74a3ffbbf89cc45e38baa303dc81702aaeb&v=4",
+    "location": "Düsseldorf / Rio / San Marino / Singapore",
+    "company": "Kurokawa / ANUBIS / Vivaldi",
+    "twitterUsername": "Hanike",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-06-25T18:40:59Z"
+  },
+  {
+    "login": "lmacchiavelli",
+    "name": "Lorenzo Macchiavelli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1948896?s=72&u=4c5704a11e26fa49988fe5df53c85e8cad8aa2d7&v=4",
+    "location": "San Marino",
+    "company": "22lab",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 284,
+    "publicContributions": 14,
+    "createdAt": "2012-07-10T10:04:09Z"
+  },
+  {
+    "login": "textarea",
+    "name": "Andrea Parmeggiani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1927403?s=72&u=9bb4450dc8c1ade13e37394472ac29ef8058d8ef&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-05T13:04:48Z"
+  },
+  {
+    "login": "andreaventuri",
+    "name": "Andrea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1456430?s=72&v=4",
+    "location": "San Marino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-02-21T07:31:08Z"
   }
 ]

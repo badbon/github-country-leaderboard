@@ -49774,5 +49774,29 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2020-10-11T18:54:59Z"
+  },
+  {
+    "login": "gkaretka",
+    "name": "Gregor Karetka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10887050?s=72&u=dda85a26a4273cba585077e2aca345b8459b6873&v=4",
+    "location": "Slovakia/Czechia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 242,
+    "publicContributions": 41,
+    "createdAt": "2015-02-06T18:52:01Z"
+  },
+  {
+    "login": "mik-jozef",
+    "name": "Jozef Mikušinec",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13891170?s=72&v=4",
+    "location": "Beluša, Slovakia; Brno, Czechia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 269,
+    "createdAt": "2015-08-20T17:41:07Z"
   }
 ]
