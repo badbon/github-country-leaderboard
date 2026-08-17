@@ -4162,5 +4162,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-01-12T16:24:55Z"
+  },
+  {
+    "login": "Boualy",
+    "name": "Boualy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3370296?s=72&u=f452d4cee248c5a3256be1ff242058d168342c1e&v=4",
+    "location": "Vientiane",
+    "company": "Lao Telecom",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-24T14:11:43Z"
+  },
+  {
+    "login": "teenking",
+    "name": "ThinKingIT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3851267?s=72&u=4df7a295c078860167a920fb7aeb8a9455c90e09&v=4",
+    "location": "Vientiane",
+    "company": "ThinKingIT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-13T07:36:44Z"
   }
 ]

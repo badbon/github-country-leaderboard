@@ -16186,5 +16186,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-03-27T17:44:03Z"
+  },
+  {
+    "login": "dickoa",
+    "name": "Ahmadou Dicko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/500140?s=72&u=b9f59a0aa11e0d0237da53287033b450d361b4e5&v=4",
+    "location": "Dakar, Senegal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 172,
+    "privateContributions": 0,
+    "publicContributions": 262,
+    "createdAt": "2010-11-28T14:03:54Z"
+  },
+  {
+    "login": "aliounedia",
+    "name": "aliounedia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198002?s=72&v=4",
+    "location": "Senegal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 50,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-02-05T20:47:42Z"
+  },
+  {
+    "login": "scicasoft",
+    "name": "Cheikh Sidya Camara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/304336?s=72&v=4",
+    "location": "Dakar, Senegal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 37,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-13T20:49:40Z"
+  },
+  {
+    "login": "nattyseydi",
+    "name": "Nattyseydi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/301695?s=72&v=4",
+    "location": "Dakar, Senegal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-10T09:40:22Z"
+  },
+  {
+    "login": "badaradiop",
+    "name": "Alioune Badara DIOP",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232219?s=72&v=4",
+    "location": "Dakar, Senegal",
+    "company": "2bsurf",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2010-03-28T21:30:22Z"
+  },
+  {
+    "login": "bionic001",
+    "name": "Ibrahima SEMBENE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/380014?s=72&u=c934b7ef8cd5feff3b60456729e2fbd6605c6fb7&v=4",
+    "location": "Dakar, SENEGAL",
+    "company": "@BionicGroup ",
+    "twitterUsername": "bionicguide",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2010-08-29T20:25:33Z"
+  },
+  {
+    "login": "jonmike",
+    "name": "Toyé Abdoul Malick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/468930?s=72&v=4",
+    "location": "Dakar, Senegal.",
+    "company": "BLEU MEDIA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-05T14:37:07Z"
   }
 ]

@@ -18634,5 +18634,77 @@
     "privateContributions": 121,
     "publicContributions": 120,
     "createdAt": "2015-02-19T06:50:08Z"
+  },
+  {
+    "login": "mark-slepkov",
+    "name": "Mark",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13302780?s=72&u=9d1098888c7bf59d4821edb13d5f950c778eaaf9&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-07-12T18:13:14Z"
+  },
+  {
+    "login": "hbarral",
+    "name": "Héctor Barral",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11741485?s=72&u=651b999479c38930a13cdb2b81048820f7fc8279&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 178,
+    "publicContributions": 424,
+    "createdAt": "2015-03-31T17:36:21Z"
+  },
+  {
+    "login": "arturoduarte",
+    "name": "Arturo Duarte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13644856?s=72&u=6fc63f248f60f1f0ea75b3fd514d686402fbe099&v=4",
+    "location": "Asunción",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 220,
+    "publicContributions": 0,
+    "createdAt": "2015-08-04T15:05:55Z"
+  },
+  {
+    "login": "abiliomp",
+    "name": "Abilio Mancuello Petters",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11349365?s=72&v=4",
+    "location": "Asunción - PY",
+    "company": "Networkers SRL",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 87,
+    "createdAt": "2015-03-06T11:50:00Z"
+  },
+  {
+    "login": "Pablo220290",
+    "name": "Pablo Taboada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12143050?s=72&u=01ddcc3735a97854a4be513afd95cf00280d9c66&v=4",
+    "location": "Asunción",
+    "company": "TIGO PARAGUAY - UCSA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 739,
+    "publicContributions": 176,
+    "createdAt": "2015-04-27T20:36:39Z"
+  },
+  {
+    "login": "errepy",
+    "name": "erreinsa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11926406?s=72&u=3a55d0340bcd349775503baa31707b5ccc500da5&v=4",
+    "location": "Asunción",
+    "company": "VIA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-04-13T14:26:07Z"
   }
 ]

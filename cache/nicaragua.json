@@ -16510,5 +16510,77 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2011-05-11T03:28:12Z"
+  },
+  {
+    "login": "hosmelq",
+    "name": "Hosmel Quintana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1166143?s=72&u=d12ed0c71c04692a103283a970208e984fb8a1b4&v=4",
+    "location": "Managua, Nic",
+    "company": "",
+    "twitterUsername": "hosmelq",
+    "followers": 109,
+    "privateContributions": 0,
+    "publicContributions": 258,
+    "createdAt": "2011-11-01T23:52:35Z"
+  },
+  {
+    "login": "sjbr",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/864919?s=72&u=0bf987f7d1fd748048d63e28bc1337c5a552c99d&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 230,
+    "publicContributions": 6,
+    "createdAt": "2011-06-21T17:58:31Z"
+  },
+  {
+    "login": "jhon-chavarria",
+    "name": "Jonathan Chavarria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/799001?s=72&u=b07af555cf9cac58ae528356500ba4a88baad101&v=4",
+    "location": "Managua",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2011-05-19T20:01:09Z"
+  },
+  {
+    "login": "pitocho",
+    "name": "Milton Gutierrez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1020653?s=72&u=928ae57ef2547a553804146db6c8c1cb1195f85d&v=4",
+    "location": "Managua",
+    "company": "Personal",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-09-01T22:45:11Z"
+  },
+  {
+    "login": "navarronet",
+    "name": "Milton Navarro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1034220?s=72&u=9c8b2ea1fbad533782cf3e9b6918459c05c11865&v=4",
+    "location": "Managua",
+    "company": "elearningnica",
+    "twitterUsername": "navarronet",
+    "followers": 2,
+    "privateContributions": 482,
+    "publicContributions": 0,
+    "createdAt": "2011-09-07T22:23:21Z"
+  },
+  {
+    "login": "juanmartinez",
+    "name": "Juan Carlos Martinez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/734129?s=72&v=4",
+    "location": "Managua",
+    "company": "La Prensa",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-17T00:35:53Z"
   }
 ]

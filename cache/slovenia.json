@@ -26926,5 +26926,29 @@
     "privateContributions": 1953,
     "publicContributions": 1,
     "createdAt": "2014-09-16T14:49:13Z"
+  },
+  {
+    "login": "horr1f1k",
+    "name": "Alex Glebov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9019672?s=72&v=4",
+    "location": "Ljubljana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-04T16:33:57Z"
+  },
+  {
+    "login": "gbejic",
+    "name": "Gabrijel Bejić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6593736?s=72&u=778121224acc6f4061b08e8bab946941f1131d56&v=4",
+    "location": "Ljubljana",
+    "company": "@plume-design ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-05T10:37:25Z"
   }
 ]
