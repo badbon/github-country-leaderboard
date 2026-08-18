@@ -60382,5 +60382,77 @@
     "privateContributions": 362,
     "publicContributions": 81,
     "createdAt": "2015-12-24T14:20:34Z"
+  },
+  {
+    "login": "antimech",
+    "name": "Artur Gauzer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13885653?s=72&u=838be9c2cb083170ed66f03c64ba56be1d9af66c&v=4",
+    "location": "Qazaqstan, Soltüstık Qazaqstan oblysy",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2015-08-20T10:47:22Z"
+  },
+  {
+    "login": "shsailaubay",
+    "name": "Sailaubai Shyngys",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12963520?s=72&u=9d2bb72c6b8a98e968c392ffea524451ef17bf1f&v=4",
+    "location": "Qazaqstan, Almaty",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2015-06-19T07:29:47Z"
+  },
+  {
+    "login": "kipkaev55",
+    "name": "Valerii Kipkaev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13597272?s=72&u=b9507f351a44e97ace8239e578c947cfedb5f2fd&v=4",
+    "location": "Qazaqstan, Astana",
+    "company": "StrongSquirrel",
+    "twitterUsername": "kipkaev",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 533,
+    "createdAt": "2015-08-01T05:44:44Z"
+  },
+  {
+    "login": "Kaiyrkhan",
+    "name": "Kaiyrkhan Mukapil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14040080?s=72&u=9f28cc5135a7225b91645532350ef1ce8d415b45&v=4",
+    "location": "Almaty, Qazaqstan",
+    "company": "Almaty Technological University",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2232,
+    "createdAt": "2015-08-30T11:50:24Z"
+  },
+  {
+    "login": "Shakarim",
+    "name": "Shakarim Sapa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10687336?s=72&u=de55d5c16d36ca9f000fc1792d16fc2ced2f3f16&v=4",
+    "location": "Astana, Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 52,
+    "publicContributions": 18,
+    "createdAt": "2015-01-24T18:24:45Z"
+  },
+  {
+    "login": "gdg-work",
+    "name": "Dmitriy Golub",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11077638?s=72&u=38b05a0b22154d66303073fc60e4a8001ca38c30&v=4",
+    "location": "Qazaqstan",
+    "company": "X5",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-19T16:44:03Z"
   }
 ]
