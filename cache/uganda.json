@@ -46234,5 +46234,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-03-10T17:39:43Z"
+  },
+  {
+    "login": "xkmato",
+    "name": "xkmato",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1177423?s=72&v=4",
+    "location": "Kampala",
+    "company": "Uvotam",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 829,
+    "publicContributions": 260,
+    "createdAt": "2011-11-07T09:06:24Z"
+  },
+  {
+    "login": "notice4thomas",
+    "name": "Thomas Munghono",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/829496?s=72&u=90dc284fa3825521c3d5dd3348c613f184458b85&v=4",
+    "location": "Kampala",
+    "company": "Kigangu Developers",
+    "twitterUsername": "taatadaniella",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2011-06-04T15:33:17Z"
+  },
+  {
+    "login": "tmuhimbise",
+    "name": "Tumuhimbise Moses",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/555302?s=72&v=4",
+    "location": "Kampala",
+    "company": "Cistech Networks Ltd",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-10T09:31:26Z"
+  },
+  {
+    "login": "olukha",
+    "name": "Emmanuel Oluka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/645769?s=72&u=e827dd6e2de64c747873d73e1c0c1c8341c25b8e&v=4",
+    "location": "Kampala ",
+    "company": "CEWIT",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-01T22:12:29Z"
   }
 ]

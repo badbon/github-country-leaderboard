@@ -100198,5 +100198,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-12-28T09:49:48Z"
+  },
+  {
+    "login": "audiophil",
+    "name": "Philip McLaughlin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/483111?s=72&v=4",
+    "location": "Victoria, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-16T01:00:07Z"
+  },
+  {
+    "login": "francispotter",
+    "name": "Francis Potter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/381318?s=72&u=5af1f7c5743b8b0af70c8574f7d03e9b736e00be&v=4",
+    "location": "Victoria BC, Canada",
+    "company": "Shelbourne Technology Solutions",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2010-08-30T22:57:36Z"
+  },
+  {
+    "login": "gogglez",
+    "name": "Steve Adams",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/220349?s=72&v=4",
+    "location": "Victoria, British Columbia, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-11T04:29:42Z"
+  },
+  {
+    "login": "Moneomed",
+    "name": "Moneo Medical Informatics Ltd.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/476546?s=72&u=e884a856aaea431f50be7c57c7d1511279c8a6f1&v=4",
+    "location": "Victoria, BC, Canada",
+    "company": "Moneo Medical Informatics Ltd.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-10T23:23:51Z"
+  },
+  {
+    "login": "faifal",
+    "name": "Faisal Mahmud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/360587?s=72&v=4",
+    "location": "Victoria BC, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-11T06:47:07Z"
   }
 ]
