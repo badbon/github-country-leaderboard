@@ -30094,5 +30094,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-11-22T12:27:20Z"
+  },
+  {
+    "login": "giovannilima",
+    "name": "Giovanni Lima",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138085?s=72&u=ac9dd65f546c6fde7b2a1811299863f6e3703d5c&v=4",
+    "location": "Luanda, Angola",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2009-10-11T00:04:07Z"
+  },
+  {
+    "login": "cnoble",
+    "name": "Chris Noble",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47091?s=72&v=4",
+    "location": "Angola, IN",
+    "company": "Business Warrior",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 5384,
+    "publicContributions": 4,
+    "createdAt": "2009-01-16T14:49:09Z"
   }
 ]

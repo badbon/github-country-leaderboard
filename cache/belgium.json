@@ -61882,5 +61882,53 @@
     "privateContributions": 0,
     "publicContributions": 180,
     "createdAt": "2020-01-29T00:48:26Z"
+  },
+  {
+    "login": "jeanbaptistevanparys",
+    "name": "Jean-Baptiste Van Parys",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51294320?s=72&u=9c6a2b0adb02fb1cf62837cf5f3449b71c9f66f5&v=4",
+    "location": "België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 194,
+    "publicContributions": 252,
+    "createdAt": "2019-06-02T15:32:08Z"
+  },
+  {
+    "login": "sergiuvinc",
+    "name": "Sergiu Vincze",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50223673?s=72&v=4",
+    "location": "België",
+    "company": "Svdeveloper",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-03T02:02:22Z"
+  },
+  {
+    "login": "Supermenneken",
+    "name": "STEFAAN DE SCHAMPHELAERE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52349826?s=72&v=4",
+    "location": "BELGIË",
+    "company": "GLOBAL ENTERPRISES",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-29T12:04:33Z"
+  },
+  {
+    "login": "mniesen",
+    "name": "Michiel Niesen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50455466?s=72&u=a24ce900f2fa25225b6d4b40207d93dc73da3f2a&v=4",
+    "location": "België (Belgium)",
+    "company": "",
+    "twitterUsername": "michielniesen",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2019-05-09T14:49:55Z"
   }
 ]

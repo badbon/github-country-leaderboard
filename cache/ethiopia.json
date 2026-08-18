@@ -69490,5 +69490,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-03T19:38:57Z"
+  },
+  {
+    "login": "michaelandom",
+    "name": "Michael Andom ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49337218?s=72&v=4",
+    "location": "Addis Ababa, Lancha",
+    "company": "Hisab Payment Platform Solution SC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 6,
+    "publicContributions": 11,
+    "createdAt": "2019-04-06T09:31:11Z"
+  },
+  {
+    "login": "temaku",
+    "name": "Temesgen Talo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49945736?s=72&u=ebdb1ebaa0a7b8fa02e34b357192c58a68294075&v=4",
+    "location": "Addis Ababa",
+    "company": "HayoSpire technologies",
+    "twitterUsername": "talo_temesgen",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-24T11:27:37Z"
   }
 ]

@@ -47950,5 +47950,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2011-07-14T16:54:49Z"
+  },
+  {
+    "login": "zerodev",
+    "name": "Tariq Khairallah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/728937?s=72&u=a55aa7df41b22e3f15b15886d924c65e382618e3&v=4",
+    "location": "Amman",
+    "company": "ZeroDev",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-14T09:26:04Z"
+  },
+  {
+    "login": "yabasha",
+    "name": "Bashar Ayyash",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/932321?s=72&v=4",
+    "location": "Amman",
+    "company": "Advanced Web Solutions",
+    "twitterUsername": "bayyash",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 158,
+    "createdAt": "2011-07-22T11:16:32Z"
+  },
+  {
+    "login": "iead",
+    "name": "iead",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/555111?s=72&v=4",
+    "location": "Amman",
+    "company": "water authority",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-10T06:18:23Z"
   }
 ]

@@ -67342,5 +67342,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-28T21:16:02Z"
+  },
+  {
+    "login": "Neofrek",
+    "name": "Felipe de Jesús Rodríguez Ordóñez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/868146?s=72&u=d95b66cefacedc1ea0c03398c8b7a8d432c43e94&v=4",
+    "location": "San José del Cabo, BCS, México",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2011-06-22T19:32:58Z"
+  },
+  {
+    "login": "SergioTelloNEO",
+    "name": "Sergio Alan Tello Machuca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97764882?s=72&v=4",
+    "location": "Monterrey, Nuevo León",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-14T21:36:10Z"
+  },
+  {
+    "login": "gesquivelo",
+    "name": "German Esquivel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120132939?s=72&u=27a8169d1431a7fa030c48bc36dfa49b728f4d82&v=4",
+    "location": "Monterrey, N.L.",
+    "company": "Linkium",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-08T19:14:34Z"
+  },
+  {
+    "login": "Novello95",
+    "name": "Sofía Novelo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110075080?s=72&u=b89d759e8cbbcfe240c596c2b8be5ef211229c9d&v=4",
+    "location": "Monterrey, Nuevo León, México.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-27T01:59:49Z"
+  },
+  {
+    "login": "HappyVenus",
+    "name": "Jorge Torres",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109704478?s=72&u=20f0732d3248c9803ca2d7a4390a552363e086ac&v=4",
+    "location": "Monterrey, Nuevo Leon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-20T23:41:17Z"
+  },
+  {
+    "login": "BryantRaul1",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105253664?s=72&u=fa0a4d956a24e2a88a52ed86019b1541047becd4&v=4",
+    "location": "Monterrey ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-10T00:19:08Z"
+  },
+  {
+    "login": "Mari0Bernal",
+    "name": "Mario Bernal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105750956?s=72&u=676b8be0e12ce4c564ce34f51ed0287b734e340d&v=4",
+    "location": "Monterrey, Nuevo León",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2022-05-17T20:28:55Z"
+  },
+  {
+    "login": "Cryptocarnes",
+    "name": "Cryptocarnes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97158739?s=72&u=f61a77463d5dab509e3cd294b7f7c4500ab63a69&v=4",
+    "location": "Monterrey, México",
+    "company": "Cryptocarnes",
+    "twitterUsername": "carnescrypto",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-05T09:05:26Z"
+  },
+  {
+    "login": "ricardoperezcastillo",
+    "name": "Ricardo Perez Castillo - MTY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119632177?s=72&v=4",
+    "location": "Monterrey",
+    "company": "McKinsey & Company",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-01T21:37:09Z"
   }
 ]

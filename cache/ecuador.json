@@ -58030,5 +58030,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-10-25T15:56:55Z"
+  },
+  {
+    "login": "jsantos17",
+    "name": "Juan Pablo Santos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/677310?s=72&u=495ebd3fd0815a2ea56fc7a606c2b33cbdcc65b1&v=4",
+    "location": "Quito",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 1049,
+    "publicContributions": 11,
+    "createdAt": "2011-03-18T15:19:35Z"
+  },
+  {
+    "login": "iapazmino",
+    "name": "Iván Pazmiño",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/694075?s=72&u=02c346b99bcf7634947d4a759b35ceabe86675ae&v=4",
+    "location": "Quito",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2011-03-28T00:36:15Z"
+  },
+  {
+    "login": "estebanfloresf",
+    "name": "Esteban",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/719729?s=72&u=f4dc31657f50080c4b1f43f02ce73d540662a081&v=4",
+    "location": "Quito",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2011-04-09T20:52:17Z"
+  },
+  {
+    "login": "netoec84",
+    "name": "José Guevara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/934087?s=72&u=4421b6db9672799607070b8034c73981815b36c9&v=4",
+    "location": "Quito",
+    "company": "JEWIFCOM SA",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-07-23T12:03:44Z"
+  },
+  {
+    "login": "Jersen",
+    "name": "jersen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/754575?s=72&v=4",
+    "location": "quito",
+    "company": "qualisa",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-27T12:30:07Z"
+  },
+  {
+    "login": "blasf",
+    "name": "David Vizcaino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1142341?s=72&v=4",
+    "location": "Quito ",
+    "company": "Arcanus Records ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-21T03:38:28Z"
+  },
+  {
+    "login": "jtenorio",
+    "name": "George David",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1233819?s=72&v=4",
+    "location": "Quito",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-12-01T15:49:46Z"
   }
 ]

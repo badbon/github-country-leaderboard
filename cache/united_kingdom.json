@@ -83146,5 +83146,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-04-27T15:26:31Z"
+  },
+  {
+    "login": "Dee-McG",
+    "name": "Dee McG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47184014?s=72&u=17cee786315aa57b8906a8eac46099c06ea5b720&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 195,
+    "privateContributions": 12,
+    "publicContributions": 13,
+    "createdAt": "2019-01-30T15:00:06Z"
+  },
+  {
+    "login": "marblekirby",
+    "name": "Daniel Loudon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47943146?s=72&u=faa8579dfec7bd712c18ec983a79c3f549d7b187&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-24T12:41:19Z"
+  },
+  {
+    "login": "gsckoco",
+    "name": "Ben Johnston",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46426171?s=72&u=63282e10d83a3d5bcf20951405c824dd680c4070&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 36,
+    "publicContributions": 0,
+    "createdAt": "2019-01-06T19:40:40Z"
+  },
+  {
+    "login": "esuohdla",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50029911?s=72&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-26T18:59:19Z"
   }
 ]

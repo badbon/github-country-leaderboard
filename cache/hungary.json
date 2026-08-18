@@ -95638,5 +95638,65 @@
     "privateContributions": 667,
     "publicContributions": 0,
     "createdAt": "2015-05-17T06:25:47Z"
+  },
+  {
+    "login": "olajx",
+    "name": "Fanni Perjesi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14939433?s=72&u=cb0d75120e6fb1f70f6ee56330e42acaf636b351&v=4",
+    "location": "Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-02T10:49:27Z"
+  },
+  {
+    "login": "matyasdanko",
+    "name": "Dankó Mátyás",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15835617?s=72&v=4",
+    "location": "Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-13T15:57:56Z"
+  },
+  {
+    "login": "akozma89",
+    "name": "Arpad Kozma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14072413?s=72&u=571b1e93a0e42b8e62a0e83d20533c67db284daf&v=4",
+    "location": "Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 121,
+    "createdAt": "2015-09-01T11:03:31Z"
+  },
+  {
+    "login": "FruzsinaLenti",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12084087?s=72&u=7fbf8f1eda5f62944b3073f75ff9606b6a0524ca&v=4",
+    "location": "Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-23T12:20:41Z"
+  },
+  {
+    "login": "jorosz",
+    "name": "Jozsef Orosz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13120029?s=72&u=0d3bfb9bad93923d2e95edcf72780d15ec91ab93&v=4",
+    "location": "Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2015-06-30T14:18:14Z"
   }
 ]

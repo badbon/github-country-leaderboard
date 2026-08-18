@@ -55198,5 +55198,77 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2013-01-09T20:39:45Z"
+  },
+  {
+    "login": "Cooleech",
+    "name": "Petar Kulić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5072126?s=72&v=4",
+    "location": "Hrvatska, Split (Trstenik)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-23T10:11:35Z"
+  },
+  {
+    "login": "kruleucc",
+    "name": "Ivan Krušlin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3966846?s=72&u=77c70c48344f0dc7cc8138c9cdca4ed2c9bc27ce&v=4",
+    "location": "Osijek, Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-25T17:23:11Z"
+  },
+  {
+    "login": "nmihin",
+    "name": "Nikola Mihin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5212114?s=72&u=1362b4cc6d5daba1b3d2d3dbe5b02580aea47854&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-08-12T08:29:43Z"
+  },
+  {
+    "login": "strajk979",
+    "name": "Tmislav Simdičić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4276061?s=72&u=a277a7f8256bf306a30ee2dd5f99c02889a2fad7&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-27T21:04:45Z"
+  },
+  {
+    "login": "matija4444",
+    "name": "Matija Sović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6247343?s=72&u=776dc6b0f569733220db5205bccfdfe323c4c27c&v=4",
+    "location": "Hrvatska",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-23T13:06:24Z"
+  },
+  {
+    "login": "zrosko",
+    "name": "zdravko rosko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4004438?s=72&u=3440c0d61867063bdc91c39825898e043cd33b4f&v=4",
+    "location": "Hrvatska",
+    "company": "www.foi.hr",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2013-03-29T10:07:37Z"
   }
 ]
