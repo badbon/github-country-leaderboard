@@ -78178,5 +78178,89 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2019-09-20T15:50:41Z"
+  },
+  {
+    "login": "ChatDisabled",
+    "name": "ChatDisabled",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44729807?s=72&u=b1b015b6daae8db729bc195b318ae0e1332b5db8&v=4",
+    "location": "België",
+    "company": "Qbox",
+    "twitterUsername": "",
+    "followers": 112,
+    "privateContributions": 1295,
+    "publicContributions": 218,
+    "createdAt": "2018-11-03T15:49:58Z"
+  },
+  {
+    "login": "Mohagames205",
+    "name": "Mohamed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40402787?s=72&u=1958660bdf3d2ba1296a4a5a7fc6563aa17dff68&v=4",
+    "location": "Leuven, België",
+    "company": "",
+    "twitterUsername": "Mohamedioo",
+    "followers": 26,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2018-06-19T17:37:04Z"
+  },
+  {
+    "login": "buitenzintuiglijke",
+    "name": "Albert Karaev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35641416?s=72&u=06ebd9672eea62ee5cb6a4491992eefecae02fe9&v=4",
+    "location": "België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-20T21:51:12Z"
+  },
+  {
+    "login": "jalberty2018",
+    "name": "Joeri Alberty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43904499?s=72&u=acdd34271256c1d742e8218741835e49ccb8f5a5&v=4",
+    "location": "België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 399,
+    "createdAt": "2018-10-06T09:17:13Z"
+  },
+  {
+    "login": "arnemergan",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44227232?s=72&v=4",
+    "location": "België",
+    "company": "Sofico",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-17T09:15:58Z"
+  },
+  {
+    "login": "mediabelgium",
+    "name": "MEDIA BELGIUM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45852318?s=72&u=25e1aedd1f9f02efd7f7161d7b655f9349c9b310&v=4",
+    "location": "Waregem, België",
+    "company": "media belgium",
+    "twitterUsername": "mediabelgium",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-13T14:26:25Z"
+  },
+  {
+    "login": "VinceBrusselaers",
+    "name": "Vince Brusselaers",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45484904?s=72&u=0d79bfc6b2ab6e410c693ab88d17f2a574e809ae&v=4",
+    "location": "Lommel, Vlaanderen, België",
+    "company": "Vibus",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-30T10:16:18Z"
   }
 ]

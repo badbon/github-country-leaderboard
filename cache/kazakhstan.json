@@ -62686,5 +62686,53 @@
     "privateContributions": 29,
     "publicContributions": 0,
     "createdAt": "2014-10-16T12:50:19Z"
+  },
+  {
+    "login": "dastanabeuov",
+    "name": "ADK",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9317810?s=72&u=8a0ee2c8685f5461a69addb84e832caa4af5c2b8&v=4",
+    "location": "Almaty | Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 542,
+    "publicContributions": 213,
+    "createdAt": "2014-10-20T10:09:40Z"
+  },
+  {
+    "login": "loinik",
+    "name": "Mike Lucyšyn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7119411?s=72&u=6610ad17a72d4311f9c44248361146a916ca25c2&v=4",
+    "location": "Astana, Qazaqstan",
+    "company": "",
+    "twitterUsername": "loinik",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 118,
+    "createdAt": "2014-03-31T19:31:51Z"
+  },
+  {
+    "login": "AltynbekKZ",
+    "name": "Altynbek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9026567?s=72&u=83fe2019ebc3df362ab96f070963380d07e1d9f4&v=4",
+    "location": "Astana, Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-05T14:50:52Z"
+  },
+  {
+    "login": "kazzinak",
+    "name": "kazzinak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9569598?s=72&v=4",
+    "location": "Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-05T11:14:03Z"
   }
 ]
