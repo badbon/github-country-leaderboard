@@ -874,5 +874,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-03-22T12:36:58Z"
+  },
+  {
+    "login": "joshbrooks",
+    "name": "Joshua Brooks",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4409570?s=72&u=7cb9e2de518123da3a0c8bae2f7e46d521bdcf59&v=4",
+    "location": "Dili, Timor-Leste",
+    "company": "@catalpainternational ",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 5158,
+    "publicContributions": 718,
+    "createdAt": "2013-05-12T12:59:49Z"
+  },
+  {
+    "login": "raul-jamur",
+    "name": "Raul Amaral",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4657775?s=72&v=4",
+    "location": "Timor Leste",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-10T03:30:48Z"
   }
 ]

@@ -42166,5 +42166,53 @@
     "privateContributions": 0,
     "publicContributions": 93,
     "createdAt": "2012-10-02T12:38:57Z"
+  },
+  {
+    "login": "donatien2020",
+    "name": "Donatien MASENGESHO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2248404?s=72&v=4",
+    "location": "KIGALI/Kakiru",
+    "company": "NTA Developers LTD",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-30T12:59:23Z"
+  },
+  {
+    "login": "Mjos12002",
+    "name": "Joseph MANZI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1903067?s=72&u=bd5250363dc4d42c6996b8abc48d688009475edf&v=4",
+    "location": "Kigali",
+    "company": "HISP RWANDA",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 104,
+    "createdAt": "2012-06-28T16:07:10Z"
+  },
+  {
+    "login": "bpatient",
+    "name": "BARAKA Patient",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1322982?s=72&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-11T21:17:49Z"
+  },
+  {
+    "login": "krndprime",
+    "name": "Prime KARINDA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1390918?s=72&u=7a5ccf15133301138d257c361f768ded7714e9d1&v=4",
+    "location": "Kigali",
+    "company": "Prime Ltd",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-30T09:37:30Z"
   }
 ]

@@ -1162,5 +1162,41 @@
     "privateContributions": 0,
     "publicContributions": 111,
     "createdAt": "2013-02-25T18:59:12Z"
+  },
+  {
+    "login": "TechColab",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4084847?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2013-04-07T14:46:26Z"
+  },
+  {
+    "login": "HARVS1789UK",
+    "name": "Joe Harvey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5114645?s=72&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-29T16:35:14Z"
+  },
+  {
+    "login": "jaytees",
+    "name": "Jordan Trickett",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3286786?s=72&u=f482cd8512c3b9e2a1cd2bed526bd507f6c268d5&v=4",
+    "location": "London / Jersey, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1046,
+    "publicContributions": 0,
+    "createdAt": "2013-01-16T15:20:53Z"
   }
 ]
