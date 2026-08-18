@@ -65002,5 +65002,77 @@
     "privateContributions": 0,
     "publicContributions": 74,
     "createdAt": "2009-10-17T14:31:45Z"
+  },
+  {
+    "login": "DoDoENT",
+    "name": "DoDo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158844?s=72&v=4",
+    "location": "Zagreb",
+    "company": "@microblink",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 1381,
+    "publicContributions": 436,
+    "createdAt": "2009-11-27T12:10:26Z"
+  },
+  {
+    "login": "dux",
+    "name": "Dino Reić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48320?s=72&u=f5105f2614344b9b60e7903c309bb77702512366&v=4",
+    "location": "London, Zagreb, Berlin",
+    "company": "Trifolium",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 759,
+    "createdAt": "2009-01-21T19:38:09Z"
+  },
+  {
+    "login": "nixa",
+    "name": "Nikola Kapraljevic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148287?s=72&v=4",
+    "location": "Zagreb",
+    "company": "Infinum",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-11-03T13:08:48Z"
+  },
+  {
+    "login": "menchauser",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48994?s=72&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2009-01-24T18:01:11Z"
+  },
+  {
+    "login": "gersak",
+    "name": "Robert Gersak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147416?s=72&u=99666e6e7e347476a63594fbb39bb0816a3a3f6f&v=4",
+    "location": "Zagreb",
+    "company": "Neyho",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 608,
+    "createdAt": "2009-11-01T16:16:09Z"
+  },
+  {
+    "login": "dcvikl",
+    "name": "Dubravko Cvikl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65993?s=72&v=4",
+    "location": "Zagreb",
+    "company": "DTPcentar",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2009-03-23T09:19:25Z"
   }
 ]

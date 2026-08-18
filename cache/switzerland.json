@@ -97990,5 +97990,101 @@
     "privateContributions": 0,
     "publicContributions": 140,
     "createdAt": "2019-08-09T17:43:02Z"
+  },
+  {
+    "login": "bricemab",
+    "name": "Brice Mabillard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55409187?s=72&u=b85c85312322cf00258dd320c3d28880fd7dbdae&v=4",
+    "location": "Switzerland, Valais",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 124,
+    "createdAt": "2019-09-16T18:39:07Z"
+  },
+  {
+    "login": "cometteetcaramel",
+    "name": "cometteetcaramel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53783384?s=72&u=22637ff74904bf4472abd3d391f856d9dae4f746&v=4",
+    "location": "Switzerland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-05T13:30:29Z"
+  },
+  {
+    "login": "Hamilton-Carrillo-Nunez",
+    "name": "Hamilton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52860096?s=72&v=4",
+    "location": "Switzerland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2019-07-13T14:37:43Z"
+  },
+  {
+    "login": "retostaehli",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56825854?s=72&u=b697f3032b831a518d5b9a2ca531f76af0a60c96&v=4",
+    "location": "Switzerland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 68,
+    "publicContributions": 0,
+    "createdAt": "2019-10-21T10:42:40Z"
+  },
+  {
+    "login": "ericspichiger",
+    "name": "Eric Spichiger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57298022?s=72&u=a3cd03325e9c6d29278efeb78390b0fe33bd9775&v=4",
+    "location": "Genveva, Switzerland",
+    "company": "Hiveweb",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-02T17:45:22Z"
+  },
+  {
+    "login": "MisterMox01",
+    "name": "Mathieu Engler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57969128?s=72&v=4",
+    "location": "Switzerland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 0,
+    "createdAt": "2019-11-19T23:21:17Z"
+  },
+  {
+    "login": "jlou07",
+    "name": "Jean-Loup Orgitello",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58774660?s=72&u=b53da1c11cd62245a35885c7e03c50875c7ed92b&v=4",
+    "location": "Switzerland",
+    "company": "TD SYNNEX",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2019-12-11T11:56:07Z"
+  },
+  {
+    "login": "saschagysel",
+    "name": "Sascha Gysel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58490316?s=72&v=4",
+    "location": "Zürich, Switzerland",
+    "company": "Trenda AG",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 873,
+    "publicContributions": 2,
+    "createdAt": "2019-12-03T21:34:20Z"
   }
 ]
