@@ -93094,5 +93094,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-28T02:09:51Z"
+  },
+  {
+    "login": "Zia1321",
+    "name": "Zia Nasseri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108206574?s=72&u=a85ef5ad3c4f4161a80e84d2dfcae604051c82ac&v=4",
+    "location": "Melbourne, Australia ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-06-26T04:00:15Z"
+  },
+  {
+    "login": "joel-vgw",
+    "name": "Joel Peiris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104746587?s=72&u=06315c61ea84132e57a463304521629877380c2c&v=4",
+    "location": "Perth, Western Australia",
+    "company": "VGW",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-02T03:00:01Z"
+  },
+  {
+    "login": "evanhollonds",
+    "name": "Evan Hollonds",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105466945?s=72&v=4",
+    "location": "Sydney, Australia",
+    "company": "Skedulo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-13T00:18:01Z"
+  },
+  {
+    "login": "ignbdollar",
+    "name": "b$",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103875100?s=72&v=4",
+    "location": "Queensland, Australia",
+    "company": "",
+    "twitterUsername": "ignbdollar",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-17T07:01:11Z"
+  },
+  {
+    "login": "phil-immutable",
+    "name": "Phil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104404862?s=72&u=9f679e267e0879026402e6595c2d34ddf1f429f1&v=4",
+    "location": "Melbourne, Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-26T01:49:38Z"
+  },
+  {
+    "login": "stojanovcorp",
+    "name": "David Stojanovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104944499?s=72&u=5dc1cb92f1cd4550f48330aefec4b2de3796cc4b&v=4",
+    "location": "Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-04T22:03:43Z"
+  },
+  {
+    "login": "dead-phoenix",
+    "name": "Tanisha Thapa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105921695?s=72&u=e178dd1056e38a455bd427ef1f7560e3ea2faf46&v=4",
+    "location": "Melbourne, Australia",
+    "company": "Monash University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 82,
+    "createdAt": "2022-05-20T11:09:00Z"
   }
 ]

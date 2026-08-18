@@ -18094,5 +18094,89 @@
     "privateContributions": 932,
     "publicContributions": 4181,
     "createdAt": "2010-01-19T17:20:53Z"
+  },
+  {
+    "login": "pallih",
+    "name": "Páll Hilmarsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/501816?s=72&u=f6dd985325c2b18804e51eeebb3e89ca3a83328f&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 60,
+    "privateContributions": 1763,
+    "publicContributions": 369,
+    "createdAt": "2010-11-29T13:21:08Z"
+  },
+  {
+    "login": "hrparty",
+    "name": "Hlynur Tryggvason",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/433542?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "Mapleworks",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-09T15:20:50Z"
+  },
+  {
+    "login": "gudjon",
+    "name": "Gudjon Mar Gudjonsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179721?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "OZ",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 458,
+    "createdAt": "2010-01-10T23:40:15Z"
+  },
+  {
+    "login": "hsb",
+    "name": "Hafsteinn Baldvinsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227397?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-21T17:50:47Z"
+  },
+  {
+    "login": "olafur",
+    "name": "Olafur Helgason",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/343749?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "@wowair ",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-25T20:21:04Z"
+  },
+  {
+    "login": "a-kaundinya",
+    "name": "anand",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/435321?s=72&u=9d220a9a5b10da1ed1734e36ce56870773d1ffa2&v=4",
+    "location": "Reykjavik",
+    "company": "Home",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2010-10-11T12:40:15Z"
+  },
+  {
+    "login": "Miloszh",
+    "name": "Milosz Hodun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/404306?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-17T10:34:31Z"
   }
 ]

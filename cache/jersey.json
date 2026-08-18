@@ -946,5 +946,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-07-29T09:29:37Z"
+  },
+  {
+    "login": "x-benclarke",
+    "name": "Ben Clarke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10184745?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-14T12:45:50Z"
+  },
+  {
+    "login": "jackoconnor21",
+    "name": "Jack O'Connor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8939444?s=72&u=d355c67bb0c11996f6c1d5bb287d22c8c15326e7&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-27T14:54:08Z"
+  },
+  {
+    "login": "Gavlar94",
+    "name": "Gavin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9061388?s=72&u=cd63dbc13f5fab41611603adf34c762b7ac9e9b5&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-07T22:38:54Z"
+  },
+  {
+    "login": "JoshCollis",
+    "name": "Josh Collis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9379778?s=72&u=1f9f000159ef13a3ac4bb6254f339161cb279ae6&v=4",
+    "location": "Jersey",
+    "company": "Newtel Limited",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1247,
+    "publicContributions": 51,
+    "createdAt": "2014-10-24T10:17:23Z"
   }
 ]

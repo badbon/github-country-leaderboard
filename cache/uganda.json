@@ -46486,5 +46486,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-12-30T13:46:53Z"
+  },
+  {
+    "login": "joshwizzy",
+    "name": "Joshua Masiko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200889?s=72&u=a9fcf770224bbdf1b5c7a15629004bf724d9f70e&v=4",
+    "location": "Kampala",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 1394,
+    "publicContributions": 2,
+    "createdAt": "2010-02-10T08:23:19Z"
+  },
+  {
+    "login": "bkanagwa",
+    "name": "Benjamin Kanagwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/397063?s=72&u=b624b20a1c37d7fb44170233479ba6b77bda27e5&v=4",
+    "location": "Kampala",
+    "company": "Decimalworks",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-13T06:22:46Z"
+  },
+  {
+    "login": "25641",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/360145?s=72&v=4",
+    "location": "kampala",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-10T19:35:05Z"
+  },
+  {
+    "login": "Okiria",
+    "name": "Okiria Emmanuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/427526?s=72&u=21230248a01931affa48b43ff542ef40fb60dd54&v=4",
+    "location": "Kampala",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-05T05:10:03Z"
+  },
+  {
+    "login": "tatyabala",
+    "name": "Tatyabala Emmanuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/428287?s=72&v=4",
+    "location": "Kampala",
+    "company": "Leadspatch",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-05T17:07:22Z"
   }
 ]

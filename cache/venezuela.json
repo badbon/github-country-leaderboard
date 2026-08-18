@@ -64246,5 +64246,89 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2016-09-14T19:49:18Z"
+  },
+  {
+    "login": "rivas0x",
+    "name": "Andrés Rivas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22197149?s=72&u=bbff68dd60fac281e202714480e58d6b746dec2e&v=4",
+    "location": "Venezuela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-14T13:59:14Z"
+  },
+  {
+    "login": "neriojnavea",
+    "name": "Nerio Navea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22010541?s=72&u=6a9e9bb9a9eb790f5aeeef999d55b2102b071104&v=4",
+    "location": "Maracaibo, Venezuela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 915,
+    "publicContributions": 3,
+    "createdAt": "2016-09-05T17:06:25Z"
+  },
+  {
+    "login": "JoseSoto33",
+    "name": "José",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21988500?s=72&u=9bec275d21eb7fed1ca2a38898b57d04728b0a1d&v=4",
+    "location": "Venezuela",
+    "company": "Reestructuración Digital",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 23,
+    "publicContributions": 0,
+    "createdAt": "2016-09-04T17:01:32Z"
+  },
+  {
+    "login": "aafernandezm",
+    "name": "Angel Fernandez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20931060?s=72&u=92b6610a5f03056e7abd4298d2b2b54e3c58a302&v=4",
+    "location": "Venezuela",
+    "company": "Velocity Partners",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-08-09T15:51:42Z"
+  },
+  {
+    "login": "capitillol",
+    "name": "LENIN ALBERTO CAPITILLO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22011188?s=72&v=4",
+    "location": "CABIMAS, VENEZUELA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-05T17:44:04Z"
+  },
+  {
+    "login": "andruxbl",
+    "name": "Anderson Blanco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19498904?s=72&u=6ec3c1bfb73e3a8aa6259ee2a21da48b75486da0&v=4",
+    "location": "Venezuela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-21T00:31:45Z"
+  },
+  {
+    "login": "robf2510",
+    "name": "Roberto Florez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19957491?s=72&u=1ee69841174acb9860f1cb90edd41863f549ac68&v=4",
+    "location": "Venezuela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-06-15T17:19:47Z"
   }
 ]
