@@ -42382,5 +42382,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-05-17T09:53:51Z"
+  },
+  {
+    "login": "reugene",
+    "name": "Eugene Rwagasore",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/488405?s=72&v=4",
+    "location": "Kigali - Rwanda",
+    "company": "Nyaruka Ltd.",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-19T12:24:27Z"
+  },
+  {
+    "login": "bniz",
+    "name": "NIYIBIZI Emile Bniz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/432027?s=72&v=4",
+    "location": "Kigali, Rwanda",
+    "company": "Kigali Wise Software",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-08T07:21:24Z"
+  },
+  {
+    "login": "agueye",
+    "name": "Assane Gueye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/304433?s=72&v=4",
+    "location": "Kigali, Rwanda",
+    "company": "CMU-Africa",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-14T00:31:13Z"
+  },
+  {
+    "login": "jenzzly",
+    "name": "Byiringiro Janvier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282137?s=72&u=8db0b1da2644ab1e521328b264db81180f0c12ae&v=4",
+    "location": "Kigali,Rwanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 12,
+    "publicContributions": 80,
+    "createdAt": "2010-05-20T07:40:08Z"
+  },
+  {
+    "login": "abangira",
+    "name": "robert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209120?s=72&v=4",
+    "location": "Kigali Rwanda",
+    "company": "CompSci Ltd",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-02-23T12:47:34Z"
   }
 ]

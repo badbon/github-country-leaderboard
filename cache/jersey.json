@@ -1258,5 +1258,53 @@
     "privateContributions": 0,
     "publicContributions": 181,
     "createdAt": "2012-07-31T10:46:00Z"
+  },
+  {
+    "login": "bearpig",
+    "name": "Robbie Andrews",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2751207?s=72&u=f19aea45a806aea9629abef4d5fb2ebe81fb9d15&v=4",
+    "location": "Jersey",
+    "company": "Bearpig",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 46,
+    "publicContributions": 0,
+    "createdAt": "2012-11-08T14:11:49Z"
+  },
+  {
+    "login": "cyberkryption",
+    "name": "Cyberkryption",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2984044?s=72&u=63328032c0c6ca05010aecbf989620b7369a7a92&v=4",
+    "location": "Jersey",
+    "company": "Government",
+    "twitterUsername": "cyberkryption",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 253,
+    "createdAt": "2012-12-06T21:37:10Z"
+  },
+  {
+    "login": "Japestrale",
+    "name": "Tom Luce",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1691293?s=72&v=4",
+    "location": "Jersey",
+    "company": "@InfuseGroup ",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 44,
+    "publicContributions": 0,
+    "createdAt": "2012-04-30T02:28:15Z"
+  },
+  {
+    "login": "Hacquoil",
+    "name": "Tom Hacquoil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2084200?s=72&u=37c4c30f46add1e6b3f20101529ee07104fc8d73&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "Pinpoint",
+    "twitterUsername": "TomHacquoil",
+    "followers": 3,
+    "privateContributions": 117,
+    "publicContributions": 0,
+    "createdAt": "2012-08-02T14:48:06Z"
   }
 ]

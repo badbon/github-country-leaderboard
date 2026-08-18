@@ -57211,7 +57211,7 @@
     "company": "R-53 OÜ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 10867,
+    "privateContributions": 10870,
     "publicContributions": 909,
     "createdAt": "2010-08-11T07:00:55Z"
   },
@@ -57742,5 +57742,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-08-27T05:42:08Z"
+  },
+  {
+    "login": "katamary",
+    "name": "Serge Himmelreich",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/517960?s=72&u=48d1e819bac79aa6a562e4371d235043dcd3fd8c&v=4",
+    "location": "Tallinn",
+    "company": "Indie",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2010-12-10T15:43:07Z"
+  },
+  {
+    "login": "dragazhar",
+    "name": "Margo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/475435?s=72&u=6ef0f642cf71d7840e0ea92a61557af664b2aada&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-10T09:39:35Z"
   }
 ]

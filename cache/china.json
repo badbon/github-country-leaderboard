@@ -96658,5 +96658,53 @@
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2024-03-14T13:51:41Z"
+  },
+  {
+    "login": "lcxfs1991",
+    "name": "heyli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3348398?s=72&v=4",
+    "location": "Hong Kong - Shenzhen, China",
+    "company": "Tencent",
+    "twitterUsername": "lcxfs1991",
+    "followers": 1571,
+    "privateContributions": 109,
+    "publicContributions": 0,
+    "createdAt": "2013-01-23T06:05:53Z"
+  },
+  {
+    "login": "raywzy",
+    "name": "Ziyu Wan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5800781?s=72&u=8d7fedbe7ceb090ebdd7104a564d41355fc3dd6c&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "",
+    "twitterUsername": "raywzy1",
+    "followers": 169,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2013-10-29T05:42:49Z"
+  },
+  {
+    "login": "chungchi300",
+    "name": "Jeff Chung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5248427?s=72&u=b5ecad6c43e4b12fd588d328c9795646139a3c80&v=4",
+    "location": "Work in Hong Kong but live in ShenZhen",
+    "company": "Astri",
+    "twitterUsername": "",
+    "followers": 66,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2013-08-17T02:29:16Z"
+  },
+  {
+    "login": "SuTanTank",
+    "name": "Tan SU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4814827?s=72&u=e7a891926ecd22cb1533d5b1a63f3f581bd07141&v=4",
+    "location": "Shenzhen | Hong Kong SAR",
+    "company": "Insta360",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-25T07:52:01Z"
   }
 ]

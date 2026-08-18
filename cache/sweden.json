@@ -104170,5 +104170,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-02T09:31:27Z"
+  },
+  {
+    "login": "Rasmus-04",
+    "name": "Rasmus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64273761?s=72&u=604419b88f2fdd743ed9f23966e4fd3bace9ca84&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "Rasmus_S04",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2020-04-24T15:58:32Z"
+  },
+  {
+    "login": "melody-ju",
+    "name": "Melody Ju",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66633754?s=72&u=13e78de678c5ab8b611b414971a36daacd429f39&v=4",
+    "location": "stockholm, sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-08T15:30:02Z"
   }
 ]
