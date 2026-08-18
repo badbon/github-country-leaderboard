@@ -107110,5 +107110,101 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2018-06-21T10:59:17Z"
+  },
+  {
+    "login": "stephan1994w",
+    "name": "Stephan Williams",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38921457?s=72&u=bd953bc2f88582bfd7308c79e37d4b623ef7a3ae&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "Head of Product @bioliberty ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 489,
+    "publicContributions": 0,
+    "createdAt": "2018-05-02T17:28:24Z"
+  },
+  {
+    "login": "JamieGregg",
+    "name": "Jamie Gregg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36575449?s=72&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-17T20:48:11Z"
+  },
+  {
+    "login": "BunchaMelarkey",
+    "name": "Ciaran Melarkey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36925444?s=72&u=7bd044a31b8f975bdff9b087b67f00a353b67ead&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-28T14:27:20Z"
+  },
+  {
+    "login": "mattymckee-unosquare",
+    "name": "Matty McKee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38001081?s=72&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-02T09:24:28Z"
+  },
+  {
+    "login": "alexanderoneill",
+    "name": "Cormac O'Neill",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37909741?s=72&u=34eee9f79d5d0b0a063493fd799f19b2a1683916&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "Data Intellect",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-29T16:53:37Z"
+  },
+  {
+    "login": "Nicholas-Campbell",
+    "name": "Nicholas Campbell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35669586?s=72&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-21T21:34:26Z"
+  },
+  {
+    "login": "nxahjs",
+    "name": "Noah Smyth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38191751?s=72&u=cd0981b5656d6ea74ef5062fdf7bb1b7e00e09ab&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "noahsmyyth",
+    "followers": 2,
+    "privateContributions": 4,
+    "publicContributions": 17,
+    "createdAt": "2018-04-08T20:13:54Z"
+  },
+  {
+    "login": "lisawritescode",
+    "name": "Lisa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37021069?s=72&u=ee8915f874471c8e51f13d00c7ada29051d7d001&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "lisawritescode",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2018-03-03T15:17:11Z"
   }
 ]

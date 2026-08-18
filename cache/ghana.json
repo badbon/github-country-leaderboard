@@ -85186,5 +85186,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-08-19T20:26:43Z"
+  },
+  {
+    "login": "deone",
+    "name": "Dayo Osikoya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40948?s=72&v=4",
+    "location": "Accra, Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 45,
+    "privateContributions": 1029,
+    "publicContributions": 11,
+    "createdAt": "2008-12-17T08:22:26Z"
+  },
+  {
+    "login": "eokyere",
+    "name": "Emmanuel Okyere",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16368?s=72&u=ab5fff544de3ba9012ab991ddd21ed6aeb0bbd41&v=4",
+    "location": "Accra, Ghana",
+    "company": "Hutspace",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-07-08T08:19:29Z"
   }
 ]
