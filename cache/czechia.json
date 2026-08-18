@@ -100342,5 +100342,41 @@
     "privateContributions": 969,
     "publicContributions": 58,
     "createdAt": "2017-02-02T17:52:57Z"
+  },
+  {
+    "login": "luks",
+    "name": "Lukapiske",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90252?s=72&u=c985e8556baafb96c80f568b25ab7a25bb069926&v=4",
+    "location": "Croatia, Czech republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-05-30T20:50:32Z"
+  },
+  {
+    "login": "vumop",
+    "name": "VÚMOP půdní služba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24313412?s=72&u=6b6cd742d82980e193795cc08903800accba376e&v=4",
+    "location": "Praha 5 – Zbraslav, Česká republika",
+    "company": "VÚMOP",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-02T09:22:39Z"
+  },
+  {
+    "login": "VaclavMacurek",
+    "name": "Václav Macůrek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18380572?s=72&u=2c5893982a7adc25504494ebaaf0fc2d4098212b&v=4",
+    "location": "Česká republika, okres Kutná Hora",
+    "company": "Všeobecná fakultní nemocnice, Praha",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-10T15:12:32Z"
   }
 ]
