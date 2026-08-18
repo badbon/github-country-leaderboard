@@ -62,14 +62,19 @@ export async function collect({
       search = await requestWithBackoff(() =>
         client.searchUsers({ query, page, perPage: SEARCH_PAGE_SIZE }), sleep);
     } catch (error) {
-      if (!shouldSplitAfterFailure(error)) {
+      if (shouldSplitAfterFailure(error)) {
+        countryState.queue.unshift(...splitTask(task));
+        await persist(state, caches, dryRun);
+        continue;
+      }
+      if (!isRetryableApiError(error)) {
         markFailed(countryState, error);
         await persist(state, caches, dryRun);
         throw error;
       }
-      countryState.queue.unshift(...splitTask(task));
+      countryState.queue.unshift({ ...task, page });
       await persist(state, caches, dryRun);
-      continue;
+      break;
     }
 
     requests += 1;
@@ -305,11 +310,12 @@ async function requestWithBackoff(request, sleep) {
 }
 
 function shouldSplitAfterFailure(error) {
-  return error.timeout || error.resourceLimit || error.status === 502 || error.status === 503 || error.status === 504;
+  return error.timeout || error.resourceLimit;
 }
 
 function isRetryableApiError(error) {
   return Boolean(
+    error.network ||
     error.timeout ||
     error.resourceLimit ||
     error.status === 403 ||

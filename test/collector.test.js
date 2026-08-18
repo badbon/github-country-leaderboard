@@ -122,6 +122,40 @@ test("requeues the same page when enrichment has transient GitHub failures", asy
   }
 });
 
+test("stops cleanly and requeues when search has transient network failures", async () => {
+  const originalCwd = process.cwd();
+  const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-collector-"));
+  process.chdir(tempDir);
+
+  try {
+    const countries = testCountries(["testland"]);
+    const client = {
+      async searchUsers() {
+        throw Object.assign(new Error("GitHub API network request failed: terminated"), { network: true });
+      },
+      async enrichUsers() {
+        throw new Error("enrichUsers should not be called");
+      }
+    };
+
+    const result = await collect({
+      countries,
+      client,
+      maxQueries: 10,
+      now: new Date("2026-08-13T00:00:00Z"),
+      sleep: async () => {}
+    });
+
+    assert.equal(result.queries, 0);
+    assert.equal(result.state.countries.testland.status, "discovering");
+    assert.equal(result.state.countries.testland.queue[0].page, 1);
+    assert.equal(result.state.countries.testland.lastError, null);
+  } finally {
+    process.chdir(originalCwd);
+    await rm(tempDir, { recursive: true, force: true });
+  }
+});
+
 test("migrates v2 state to v3 country state and preserves cache users", async () => {
   const originalCwd = process.cwd();
   const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-collector-"));

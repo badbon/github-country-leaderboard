@@ -106,6 +106,11 @@ export class GitHubClient {
           timeout: true
         });
       }
+      if (isNetworkFailure(error)) {
+        throw Object.assign(new Error(`GitHub API network request failed: ${error.message}`), {
+          network: true
+        });
+      }
       throw error;
     }
 
@@ -124,8 +129,22 @@ export class GitHubClient {
       });
     }
 
+    let body;
+    try {
+      body = await response.json();
+    } catch (error) {
+      if (isNetworkFailure(error)) {
+        throw Object.assign(new Error(`GitHub API response stream failed: ${error.message}`), {
+          network: true,
+          retryAfter: rateLimit.retryAfter,
+          reset: rateLimit.reset
+        });
+      }
+      throw error;
+    }
+
     return {
-      body: await response.json(),
+      body,
       rateLimit
     };
   }
@@ -200,6 +219,13 @@ ${users}
 function numberHeader(response, name) {
   const value = response.headers.get(name);
   return value === null ? null : Number(value);
+}
+
+function isNetworkFailure(error) {
+  return error?.cause?.code === "UND_ERR_SOCKET" ||
+    error?.code === "UND_ERR_SOCKET" ||
+    error?.name === "SocketError" ||
+    (error instanceof TypeError && error.message === "terminated");
 }
 
 function mockUser(login, location, followers, publicContributions) {
