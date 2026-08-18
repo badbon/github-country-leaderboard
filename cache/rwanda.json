@@ -41254,5 +41254,89 @@
     "privateContributions": 812,
     "publicContributions": 149,
     "createdAt": "2015-10-21T08:27:25Z"
+  },
+  {
+    "login": "cmuhirwa",
+    "name": "Clement",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10611157?s=72&u=7adb5de52cca6e9eb2994f1431e20a182b464376&v=4",
+    "location": "Kigali",
+    "company": "centric",
+    "twitterUsername": "cmuhirwa",
+    "followers": 6,
+    "privateContributions": 872,
+    "publicContributions": 22,
+    "createdAt": "2015-01-20T08:37:57Z"
+  },
+  {
+    "login": "emielrv",
+    "name": "Emiel Veersma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10415132?s=72&u=87ad7ceb66f5a0838b39b26e0c19b3e6dfc58994&v=4",
+    "location": "Kigali",
+    "company": "One Acre Fund",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-01-06T08:43:09Z"
+  },
+  {
+    "login": "kevinever",
+    "name": "kevinever",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15107339?s=72&u=918420eaea7e482740604f6eff8527e7d07b9457&v=4",
+    "location": "kigali",
+    "company": "homefix",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2015-10-13T13:30:48Z"
+  },
+  {
+    "login": "Burtx",
+    "name": "Burt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11987670?s=72&v=4",
+    "location": "Kigali",
+    "company": "P.L",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-17T02:36:58Z"
+  },
+  {
+    "login": "Kwizera123",
+    "name": "Kwizera Theodore",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14818428?s=72&u=7ba9f78e5f255d3614f5dcf10560797a46f848eb&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 161,
+    "createdAt": "2015-09-24T08:43:07Z"
+  },
+  {
+    "login": "christianmanzi",
+    "name": "Christian Manzi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12047074?s=72&v=4",
+    "location": "Kigali",
+    "company": "Galaxy Group ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-21T08:32:52Z"
+  },
+  {
+    "login": "andytunahussein",
+    "name": "Andy ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13951830?s=72&u=49e1e2c6b0be664b1dca67f29fe2b6fa0b802f15&v=4",
+    "location": "Kigali ",
+    "company": "Oltranz ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-24T21:01:13Z"
   }
 ]

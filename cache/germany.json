@@ -87586,5 +87586,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-02-01T07:54:45Z"
+  },
+  {
+    "login": "Zagrebelsky",
+    "name": "Oleg Zagrebelsky",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26063189?s=72&u=1f5abf9a9af93b07a955acf559d9e321d8e57a46&v=4",
+    "location": "Germany/Israel",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2017-02-27T13:34:54Z"
+  },
+  {
+    "login": "vs-sony",
+    "name": "Vivek Sharma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122545106?s=72&v=4",
+    "location": "Zurich | Tokyo | Stuttgart",
+    "company": "Sony AI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-12T14:44:15Z"
   }
 ]

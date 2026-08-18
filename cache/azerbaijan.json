@@ -56347,7 +56347,7 @@
     "company": "I develop stuff",
     "twitterUsername": "",
     "followers": 56,
-    "privateContributions": 2286,
+    "privateContributions": 2295,
     "publicContributions": 9,
     "createdAt": "2016-10-22T12:01:01Z"
   },
@@ -56467,7 +56467,7 @@
     "company": "",
     "twitterUsername": "orkhando",
     "followers": 31,
-    "privateContributions": 5273,
+    "privateContributions": 5279,
     "publicContributions": 1,
     "createdAt": "2016-01-18T07:35:26Z"
   },
@@ -56659,7 +56659,7 @@
     "company": "@Develolper ",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 497,
+    "privateContributions": 503,
     "publicContributions": 1,
     "createdAt": "2016-05-09T21:48:33Z"
   },
@@ -57538,5 +57538,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-05-07T11:18:06Z"
+  },
+  {
+    "login": "ilkinguluzada",
+    "name": "Ilkin Guluzada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22983565?s=72&u=f806c5bec3149b83e21c6e6f97f82dafeafee87f&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 69,
+    "privateContributions": 2014,
+    "publicContributions": 0,
+    "createdAt": "2016-10-21T14:41:20Z"
+  },
+  {
+    "login": "BZBaXraM",
+    "name": "Bahram Bayramzade",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22365743?s=72&u=311b4c43cd03fa203e944885e1b02e65c7a0d895&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 36,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2016-09-22T08:18:03Z"
+  },
+  {
+    "login": "alakhber",
+    "name": "Alakhber Nakhiyev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19511584?s=72&u=71634cd1e4e6abb709119b8e0e2dcb49da90e3c3&v=4",
+    "location": "Baku",
+    "company": "Fogito",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 649,
+    "publicContributions": 5,
+    "createdAt": "2016-05-22T01:54:55Z"
+  },
+  {
+    "login": "Dragomeat",
+    "name": "Artem Prosvetov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17568853?s=72&u=4930f5f6caaf10fcbebf9dff5e4f188a2a67ab08&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 1060,
+    "publicContributions": 8,
+    "createdAt": "2016-03-01T12:22:26Z"
+  },
+  {
+    "login": "kamranation",
+    "name": "Kamran Baghirov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16560424?s=72&u=94fef2661aa7358ba074cc52ce3db3d5e46ef9e0&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 117,
+    "publicContributions": 0,
+    "createdAt": "2016-01-05T14:53:48Z"
+  },
+  {
+    "login": "ShahriyarMammadli",
+    "name": "Shahriyar Mammadli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22580818?s=72&u=97f253623874daa441b7f0c249e92461f265c839&v=4",
+    "location": "Baku",
+    "company": "Pasha Holding",
+    "twitterUsername": "shahriyar_mb",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-02T21:58:51Z"
+  },
+  {
+    "login": "hbinaliyev",
+    "name": "Heydar Binaliyev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17413501?s=72&u=60c556eac24a338be538872fab8e71e81c9392d1&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-02-22T18:00:55Z"
   }
 ]

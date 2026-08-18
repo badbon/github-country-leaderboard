@@ -53539,7 +53539,7 @@
     "company": "@keeper-app",
     "twitterUsername": "",
     "followers": 41,
-    "privateContributions": 4769,
+    "privateContributions": 4770,
     "publicContributions": 3,
     "createdAt": "2014-11-09T18:19:19Z"
   },
@@ -53563,7 +53563,7 @@
     "company": "@GetAleph",
     "twitterUsername": "",
     "followers": 37,
-    "privateContributions": 2947,
+    "privateContributions": 2950,
     "publicContributions": 114,
     "createdAt": "2014-10-28T21:06:58Z"
   },
@@ -53720,7 +53720,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 401,
-    "publicContributions": 85,
+    "publicContributions": 86,
     "createdAt": "2014-05-23T21:40:47Z"
   },
   {
@@ -53743,7 +53743,7 @@
     "company": "AnswerAI",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 5734,
+    "privateContributions": 5739,
     "publicContributions": 666,
     "createdAt": "2014-10-20T15:23:46Z"
   },
@@ -53839,7 +53839,7 @@
     "company": "@Promptior",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 2963,
+    "privateContributions": 2973,
     "publicContributions": 12,
     "createdAt": "2014-02-27T00:26:09Z"
   },
@@ -53947,8 +53947,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 2224,
-    "publicContributions": 2372,
+    "privateContributions": 2246,
+    "publicContributions": 2373,
     "createdAt": "2014-07-21T13:12:50Z"
   },
   {
@@ -54079,7 +54079,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 599,
+    "privateContributions": 601,
     "publicContributions": 5,
     "createdAt": "2014-05-13T22:32:35Z"
   },
@@ -54115,7 +54115,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1101,
+    "privateContributions": 1104,
     "publicContributions": 4,
     "createdAt": "2014-02-12T01:19:21Z"
   },
@@ -54163,7 +54163,7 @@
     "company": "@biller @ucudal-wp ",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 3826,
+    "privateContributions": 3836,
     "publicContributions": 7,
     "createdAt": "2014-08-13T13:31:53Z"
   },
@@ -54812,7 +54812,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 110,
-    "publicContributions": 682,
+    "publicContributions": 692,
     "createdAt": "2014-09-16T17:38:14Z"
   },
   {
@@ -54895,7 +54895,7 @@
     "company": "Howdy.com",
     "twitterUsername": "_dariomac",
     "followers": 4,
-    "privateContributions": 585,
+    "privateContributions": 599,
     "publicContributions": 114,
     "createdAt": "2014-03-07T18:21:04Z"
   },
@@ -55075,7 +55075,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 4252,
+    "privateContributions": 4253,
     "publicContributions": 0,
     "createdAt": "2014-01-22T18:30:07Z"
   },
@@ -56698,5 +56698,233 @@
     "privateContributions": 1620,
     "publicContributions": 0,
     "createdAt": "2014-07-21T21:20:01Z"
+  },
+  {
+    "login": "fedekau",
+    "name": "Federico Kauffman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7522836?s=72&u=0a92fc94663c356216ca9d8f2dfc11327e2213b5&v=4",
+    "location": "Montevideo, UY",
+    "company": "@streaver",
+    "twitterUsername": "fedekauffman",
+    "followers": 94,
+    "privateContributions": 2161,
+    "publicContributions": 1,
+    "createdAt": "2014-05-08T11:23:02Z"
+  },
+  {
+    "login": "SantiagoGdaR",
+    "name": "Santiago García da Rosa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7714322?s=72&v=4",
+    "location": "Montevideo",
+    "company": "Lynk Markets",
+    "twitterUsername": "",
+    "followers": 71,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-27T14:16:59Z"
+  },
+  {
+    "login": "NachoVazquez",
+    "name": "Nacho Vazquez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9338604?s=72&u=6955dce5862eedea0c358994a1cadb328f704764&v=4",
+    "location": "Montevideo",
+    "company": "@naxodev",
+    "twitterUsername": "naxodev",
+    "followers": 60,
+    "privateContributions": 937,
+    "publicContributions": 377,
+    "createdAt": "2014-10-21T15:41:46Z"
+  },
+  {
+    "login": "andremxmx",
+    "name": "André CR",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10226983?s=72&u=265a07c62c341eba604ad1a6523d1aa00670fad8&v=4",
+    "location": "Montevideo",
+    "company": "IntecBlue",
+    "twitterUsername": "",
+    "followers": 43,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2014-12-18T00:34:02Z"
+  },
+  {
+    "login": "JuanMorenoDeveloper",
+    "name": "Juan Moreno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7319391?s=72&u=df09934e330159dce97799ab008a8ea84ccb7257&v=4",
+    "location": "Montevideo",
+    "company": "Upwork",
+    "twitterUsername": "JuanMorenoDev",
+    "followers": 32,
+    "privateContributions": 28,
+    "publicContributions": 14,
+    "createdAt": "2014-04-16T20:32:07Z"
+  },
+  {
+    "login": "arianbessonart",
+    "name": "Arian Bessonart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6730247?s=72&u=c968f64595db9c4cf2924f9d22e8f81b3b5d772d&v=4",
+    "location": "Montevideo, UY",
+    "company": "@austin-software",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 1838,
+    "publicContributions": 4,
+    "createdAt": "2014-02-19T18:57:19Z"
+  },
+  {
+    "login": "augustopetraglia",
+    "name": "Augusto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9269621?s=72&u=539953c9550edf87150d3a5859cff6de20617070&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-10-16T14:55:25Z"
+  },
+  {
+    "login": "javiermaly",
+    "name": "Javier Maly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8353473?s=72&u=41421afbec084b58999c083ff424ed7d224d42b7&v=4",
+    "location": "Montevideo, UY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-04T15:55:27Z"
+  },
+  {
+    "login": "Mattincho",
+    "name": "Martín Álvarez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9015092?s=72&u=7819f74def75c28538c50a4228fe3e86704e3bc3&v=4",
+    "location": "Montevideo",
+    "company": "Digital Extremes",
+    "twitterUsername": "Mattincho",
+    "followers": 9,
+    "privateContributions": 253,
+    "publicContributions": 2,
+    "createdAt": "2014-10-04T02:47:36Z"
+  },
+  {
+    "login": "thiagovars",
+    "name": "Pedro Silveira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6529269?s=72&u=d2d72fbb89868b25a6f292e7e73d7714af5df850&v=4",
+    "location": "Montevideo",
+    "company": "TSDeveloper",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2014-01-28T21:52:35Z"
+  },
+  {
+    "login": "mgonnet",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6963984?s=72&u=8c91ba6ba4d46f8f245be0dc60b411d604c5857c&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2014-03-16T03:34:53Z"
+  },
+  {
+    "login": "alvarorameau",
+    "name": "Alvaro Rameau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8314852?s=72&u=7ddfc63aa1c3edf96d86efcdb1ad37b0cf0c2002&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 6,
+    "publicContributions": 0,
+    "createdAt": "2014-07-30T23:02:55Z"
+  },
+  {
+    "login": "ccunarro",
+    "name": "Carlos Cuñarro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9767801?s=72&u=18c277b59e52971b5b560f0fe9ffeebd36933231&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 68,
+    "publicContributions": 4,
+    "createdAt": "2014-11-15T14:15:11Z"
+  },
+  {
+    "login": "fedebalboa",
+    "name": "Federico Balboa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7837972?s=72&u=b7bab6894b5f619210777e84966bccd946542ffc&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2014-06-09T12:17:41Z"
+  },
+  {
+    "login": "tobalseverin",
+    "name": "cs . cristobal severin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10284937?s=72&u=83222312c7274790f476871955b181bdcc8dafe1&v=4",
+    "location": "Montevideo, Uy.",
+    "company": "P113",
+    "twitterUsername": "tobalseverin",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 170,
+    "createdAt": "2014-12-24T00:05:39Z"
+  },
+  {
+    "login": "gimebernadet",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8479578?s=72&u=9c22a6340f3cf5fba53f81815008780edeb8edbc&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-18T12:46:13Z"
+  },
+  {
+    "login": "NPGiorgi",
+    "name": "Nicolás Pérez Giorgi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7005098?s=72&u=38e39345b0db49b5be3d665ed3910da55c69c469&v=4",
+    "location": "Montevideo",
+    "company": "Principal Cloud Engineer at @sibelhealth ",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-20T00:01:07Z"
+  },
+  {
+    "login": "pdacostaporto",
+    "name": "Pablo Da Costa Porto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8507791?s=72&u=084662a483452d656d24054af989da7f0edf22ee&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-20T22:35:10Z"
+  },
+  {
+    "login": "Jirp96",
+    "name": "Juan Ignacio Papazian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9801743?s=72&u=0ebf2fa4c53aa5e924a01835526e2f49e16a7ded&v=4",
+    "location": "Montevideo, UY",
+    "company": "@thisisqubika ",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 527,
+    "publicContributions": 50,
+    "createdAt": "2014-11-17T13:35:54Z"
   }
 ]

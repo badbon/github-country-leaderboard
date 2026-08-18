@@ -49316,7 +49316,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 8,
     "createdAt": "2022-02-13T08:05:40Z"
   },
   {
@@ -49604,7 +49604,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 77,
     "createdAt": "2022-04-05T22:27:42Z"
   },
   {
@@ -65362,5 +65362,29 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2022-02-01T19:09:58Z"
+  },
+  {
+    "login": "Jaimayal",
+    "name": "Jaime Ayala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100148850?s=72&u=4f8ba8471502f78eeaed50f8eced71d02bbfc24e&v=4",
+    "location": "Mexico City - Mexico",
+    "company": "Codify CRM",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2022-02-21T15:41:23Z"
+  },
+  {
+    "login": "arturo07h",
+    "name": "Arturo Hernandez Lopez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104098106?s=72&u=a4d3245e568d3050e410fd40fca17ec6a867a894&v=4",
+    "location": "Mexico City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 125,
+    "publicContributions": 22,
+    "createdAt": "2022-04-20T18:48:48Z"
   }
 ]

@@ -850,5 +850,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-08-03T23:25:56Z"
+  },
+  {
+    "login": "egrigson",
+    "name": "Edward Grigson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15138184?s=72&v=4",
+    "location": "Jersey, UK",
+    "company": "@VMease",
+    "twitterUsername": "egrigson",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-10-15T08:12:21Z"
   }
 ]
