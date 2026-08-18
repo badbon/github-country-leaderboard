@@ -115294,5 +115294,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-05-01T07:14:42Z"
+  },
+  {
+    "login": "blazespirit",
+    "name": "Alex Yong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12751635?s=72&u=1cb8d6625e10db22dc729cc17452f259cc60133c&v=4",
+    "location": "Malaysia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-04T18:05:57Z"
+  },
+  {
+    "login": "archwork",
+    "name": "Asyraf Al",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13198692?s=72&u=27e290b04a83cc06bf618d89dcfd280e5bc17bb4&v=4",
+    "location": "Malaysia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-06T10:33:36Z"
+  },
+  {
+    "login": "MuhammadMahdiHusayni",
+    "name": "Muhammad Mahdi Husayni bin Azizan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13958565?s=72&v=4",
+    "location": "Penang, Malaysia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2015-08-25T07:04:59Z"
+  },
+  {
+    "login": "Huss09",
+    "name": "HussMarsidi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13954014?s=72&u=3781b577667cc7aeb22fd30486d6f8cb5d2b8e1c&v=4",
+    "location": "Malaysia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-25T00:44:31Z"
+  },
+  {
+    "login": "Wilson-Lim",
+    "name": "Wilson Lim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15623614?s=72&u=15c40b2db0d3e2576a77bbcc9ba26e5a7669dc64&v=4",
+    "location": "Kuala Lumpur, Malaysia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-11-03T03:39:58Z"
   }
 ]

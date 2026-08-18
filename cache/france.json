@@ -100438,5 +100438,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-21T20:36:43Z"
+  },
+  {
+    "login": "deltazita",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6707477?s=72&u=8620b48434c67a3a8904b29e59cd3f4b46ddd7dc&v=4",
+    "location": "Greece, France, Ireland, Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 94,
+    "publicContributions": 16,
+    "createdAt": "2014-02-17T17:30:20Z"
+  },
+  {
+    "login": "sharecodekzc",
+    "name": "KAZACUBE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9861612?s=72&u=b8559b61bf5380fca9166b218ec395f74dfb4419&v=4",
+    "location": "Casablanca - Marseille - Tunis",
+    "company": "KAZACUBE",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-20T09:34:04Z"
+  },
+  {
+    "login": "openup",
+    "name": "karim somai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8100947?s=72&u=89b6389b55678eb6b4ba5cd1d783f353ff6fd825&v=4",
+    "location": "Paris, Tunis",
+    "company": "@advyteam",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-08T09:28:45Z"
   }
 ]

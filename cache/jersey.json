@@ -1306,5 +1306,65 @@
     "privateContributions": 117,
     "publicContributions": 0,
     "createdAt": "2012-08-02T14:48:06Z"
+  },
+  {
+    "login": "jhollis",
+    "name": "John Hollis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2145258?s=72&v=4",
+    "location": "Jersey",
+    "company": "Hollis Consulting Limited",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-13T15:18:09Z"
+  },
+  {
+    "login": "sunshinesucker",
+    "name": "Sunghyun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1511326?s=72&u=e155cc7cfc5051f3193e822ffbeb7f18a6dd970b&v=4",
+    "location": "Jersey",
+    "company": "Altis",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-07T12:25:54Z"
+  },
+  {
+    "login": "lbdodds",
+    "name": "Liam Dodds",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2169372?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-17T12:48:10Z"
+  },
+  {
+    "login": "rusnewton",
+    "name": "Rus Newton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1812892?s=72&v=4",
+    "location": "St Helier, Jersey",
+    "company": "Vitruvius Ventures",
+    "twitterUsername": "rusnewton98",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-06-03T18:59:05Z"
+  },
+  {
+    "login": "marcusferbrache",
+    "name": "Marcus Ferbrache",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1446094?s=72&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "digitalleaders.je",
+    "twitterUsername": "marcusferbrache",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-02-17T09:45:29Z"
   }
 ]

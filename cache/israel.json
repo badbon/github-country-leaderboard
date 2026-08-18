@@ -108898,5 +108898,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-04-19T15:34:01Z"
+  },
+  {
+    "login": "shlomisaad",
+    "name": "Shlomi Saad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10669023?s=72&u=ac7ac7a3c73fd4d9c796b42ce1a8ef94a38d766c&v=4",
+    "location": "Tel Aviv, Israel",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-01-23T11:13:34Z"
+  },
+  {
+    "login": "AhmadHakroosh",
+    "name": "Ahmad Hakroosh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15367653?s=72&u=53db586d68d3a7196215f1ff3424e1c734a708df&v=4",
+    "location": "Haifa, Israel",
+    "company": "Cloudeo",
+    "twitterUsername": "HakrooshAhmad",
+    "followers": 1,
+    "privateContributions": 12,
+    "publicContributions": 11,
+    "createdAt": "2015-10-28T18:42:01Z"
+  },
+  {
+    "login": "genawass",
+    "name": "Genadiy Vasserman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15120489?s=72&v=4",
+    "location": "Israel",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 19,
+    "publicContributions": 16,
+    "createdAt": "2015-10-14T07:42:48Z"
+  },
+  {
+    "login": "AndreyRub",
+    "name": "Andrey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10506299?s=72&u=2fc0bbf515ec758546e159a0d41311faa828d726&v=4",
+    "location": "Israel",
+    "company": "Sizer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2015-01-12T22:06:01Z"
   }
 ]

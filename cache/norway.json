@@ -77950,5 +77950,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-09-12T12:13:46Z"
+  },
+  {
+    "login": "andreasrosdalw",
+    "name": "Andreas Røsdal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41650711?s=72&u=cb675780752119d3964fa2393108e6b2a08db402&v=4",
+    "location": "Kristiansund N, Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 37,
+    "privateContributions": 0,
+    "publicContributions": 74,
+    "createdAt": "2018-07-24T20:34:10Z"
+  },
+  {
+    "login": "kolbjornkelly",
+    "name": "Kolbjørn Kelly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35458061?s=72&u=b58cfe960288b8dfdf12815bfa43ad7559ac4d94&v=4",
+    "location": "Oslo, Norge",
+    "company": "Bouvet",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-15T14:14:09Z"
+  },
+  {
+    "login": "jedcodes",
+    "name": "Jack Delamou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43573027?s=72&u=e337be247281e9c293b0b56a33682c8a5c34e26a&v=4",
+    "location": "Oslo, Norge",
+    "company": "Student",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2018-09-25T11:26:26Z"
+  },
+  {
+    "login": "Samix13",
+    "name": "Sami Ben Hassine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43829307?s=72&u=0e54a13d805ffa93c9a10e1a4ce40bc4c0cd0f31&v=4",
+    "location": "Norge",
+    "company": "Innovasjon Norge",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-03T20:36:10Z"
+  },
+  {
+    "login": "monadani",
+    "name": "Mona/AV",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45763478?s=72&v=4",
+    "location": "Norge",
+    "company": "AV",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-10T14:36:14Z"
+  },
+  {
+    "login": "h578056",
+    "name": "Stian Kvamme",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42607226?s=72&v=4",
+    "location": "Bergen, Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-08-22T10:36:35Z"
   }
 ]
