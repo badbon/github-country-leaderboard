@@ -85627,7 +85627,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2109,
+    "privateContributions": 2111,
     "publicContributions": 77,
     "createdAt": "2024-10-31T14:13:22Z"
   },
@@ -89806,5 +89806,17 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2024-12-20T15:21:32Z"
+  },
+  {
+    "login": "ekinkarakol",
+    "name": "Ekin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124591777?s=72&v=4",
+    "location": "Republic of Türkiye",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-06T14:12:38Z"
   }
 ]

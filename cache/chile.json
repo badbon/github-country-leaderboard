@@ -90034,5 +90034,53 @@
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2021-08-03T02:18:21Z"
+  },
+  {
+    "login": "HecatesMoon",
+    "name": "Joaquín Araya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88943020?s=72&u=15c7a6cd357c45b6d8299345a86a1642fd4bffb9&v=4",
+    "location": "Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 83,
+    "publicContributions": 581,
+    "createdAt": "2021-08-14T17:19:53Z"
+  },
+  {
+    "login": "EricIllanes",
+    "name": "Eric Illanes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92702343?s=72&u=57631bb0a60ed88538b6a3c9604cafbb628e0ffc&v=4",
+    "location": "Temuco, Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-18T02:31:18Z"
+  },
+  {
+    "login": "RGutierrez21",
+    "name": "Roberto Ignacio Gutiérrez Rivera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89088401?s=72&v=4",
+    "location": "Santiago, Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2021-08-17T14:33:23Z"
+  },
+  {
+    "login": "MiltonCalamaro",
+    "name": "Milton Espinoza Sutta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29980323?s=72&u=2d9ffd7cb6f07dd1b204def49a868f34ee3f22bc&v=4",
+    "location": "Santiago de Surco - Lima",
+    "company": "BCP",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-07T13:29:17Z"
   }
 ]

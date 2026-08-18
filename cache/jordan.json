@@ -48238,5 +48238,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-01-24T08:29:30Z"
+  },
+  {
+    "login": "eqbal",
+    "name": "Eqbal Eki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81959?s=72&u=7a66639955ee0e7839ae3abc22c8288209c932d4&v=4",
+    "location": "Jordan",
+    "company": "www.toptal.com",
+    "twitterUsername": "",
+    "followers": 101,
+    "privateContributions": 264,
+    "publicContributions": 6,
+    "createdAt": "2009-05-07T08:49:13Z"
+  },
+  {
+    "login": "azawawi",
+    "name": "Ahmad M. Zawawi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82854?s=72&u=4f615965958d238b506c6153023c29e5b94a8556&v=4",
+    "location": "Amman, Jordan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 65,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-05-10T01:02:52Z"
+  },
+  {
+    "login": "sinantaifour",
+    "name": "Sinan Taifour",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75772?s=72&v=4",
+    "location": "Amman, Jordan",
+    "company": "Maqsam",
+    "twitterUsername": "sinantaifour",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-04-20T15:44:39Z"
+  },
+  {
+    "login": "mshannaq",
+    "name": "Mohammed AlShannaq",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162535?s=72&u=18a804016287c8b751d4d1a6284fb067038641ab&v=4",
+    "location": "Jordan",
+    "company": "Extendy LTD",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 619,
+    "publicContributions": 25,
+    "createdAt": "2009-12-05T02:24:21Z"
+  },
+  {
+    "login": "ibrahimmomani",
+    "name": "ibrahimmomani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154007?s=72&v=4",
+    "location": "Jordan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-11-16T18:55:57Z"
+  },
+  {
+    "login": "sdefranc",
+    "name": "Suhayb De Francesco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44266?s=72&v=4",
+    "location": "Amman, Jordan",
+    "company": "Bateeq Island pty ltd",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-01-05T10:07:40Z"
+  },
+  {
+    "login": "omarji",
+    "name": "Omar Marji",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144072?s=72&v=4",
+    "location": "Jordan",
+    "company": "TEKLABZ",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-10-24T13:42:55Z"
   }
 ]

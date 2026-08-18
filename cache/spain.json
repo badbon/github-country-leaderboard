@@ -94606,5 +94606,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-30T07:11:28Z"
+  },
+  {
+    "login": "hugoortuno",
+    "name": "Hugo Ortuño Suárez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179448543?s=72&u=ad5634d9b5139e6f151dc75e47c70b861875e8c8&v=4",
+    "location": "Madrid",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2024-08-26T08:17:30Z"
+  },
+  {
+    "login": "pyunxz",
+    "name": "pyunx",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180080873?s=72&u=d04f9d4ecfaeadd3208100182c7b4c0708992f4a&v=4",
+    "location": "Madrid",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-09-01T08:57:14Z"
+  },
+  {
+    "login": "JdeHiges",
+    "name": "Javier de Higes Asencio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186167210?s=72&u=8ec136f15b905020263bed139b642261b5f1e074&v=4",
+    "location": "Madrid",
+    "company": "Higes Studio",
+    "twitterUsername": "JdeHiges",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-10-24T11:14:23Z"
+  },
+  {
+    "login": "ArturMelik",
+    "name": "Artur Melik Adamyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189406461?s=72&u=b82cd79257dca6b6527e1cbc711feea463637d5f&v=4",
+    "location": "Madrid",
+    "company": "The Bridge",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 171,
+    "createdAt": "2024-11-22T21:51:17Z"
+  },
+  {
+    "login": "mariogmez",
+    "name": "MARIO ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190720565?s=72&v=4",
+    "location": "Madrid",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2024-12-05T10:30:24Z"
+  },
+  {
+    "login": "Extherminia",
+    "name": "Esther Al-Athamna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181602238?s=72&u=7136e0678e1637744342690857c48e08d0c5b319&v=4",
+    "location": "Madrid",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-09-14T21:16:36Z"
   }
 ]

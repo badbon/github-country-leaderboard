@@ -57274,5 +57274,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-12-12T16:48:28Z"
+  },
+  {
+    "login": "uitlaber",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18505561?s=72&v=4",
+    "location": "Qazaqstan, Shymkent",
+    "company": "freelance",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 4567,
+    "publicContributions": 89,
+    "createdAt": "2016-04-16T19:58:37Z"
+  },
+  {
+    "login": "Turalinov",
+    "name": "Ruslan Turalinov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24296881?s=72&v=4",
+    "location": "Qazaqstan (Kokshetau)",
+    "company": "turalinov",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-12-01T14:27:06Z"
+  },
+  {
+    "login": "francyfox",
+    "name": "Danil Golota",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23081642?s=72&u=dc495ab1a1f86b05308ab452041f1d8319edd62f&v=4",
+    "location": "Qazaqstan",
+    "company": "Ashra Fusion",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 29,
+    "publicContributions": 654,
+    "createdAt": "2016-10-26T16:12:52Z"
+  },
+  {
+    "login": "yerlanyr",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22019385?s=72&u=3405ebeb588f6ab350269335716d9fbd68a631b7&v=4",
+    "location": "Almaty, Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-06T04:29:50Z"
+  },
+  {
+    "login": "sultanimbayev",
+    "name": "Sultan Imbayev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18642694?s=72&u=8fe536513b38f21f4f0c5d1bee106575d55a86f2&v=4",
+    "location": "Astana, Qazaqstan",
+    "company": "EPAM",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-24T12:07:46Z"
   }
 ]

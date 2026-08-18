@@ -46220,7 +46220,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 126,
     "createdAt": "2012-12-09T08:16:51Z"
   },
   {
@@ -46870,5 +46870,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-12-11T00:21:26Z"
+  },
+  {
+    "login": "watsondoc",
+    "name": "Artem Shipitsyn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2504278?s=72&u=ce11f7fd9dd47f1a06346bb6749a647e47869a16&v=4",
+    "location": "Yerevan ",
+    "company": "Akvelon",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-07T06:56:24Z"
+  },
+  {
+    "login": "davpro",
+    "name": "Davtyan David",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2890048?s=72&u=0e253b2c85ac999cad06b95aea7bdad9fa217e7d&v=4",
+    "location": "Yerevan",
+    "company": "UnaFinancial",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-26T08:04:33Z"
+  },
+  {
+    "login": "stanislavus",
+    "name": "Stanislav Usoltsev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1408190?s=72&u=9b96077ece5f9a8eaf3a5acbeb47a87bf66ea97b&v=4",
+    "location": "Yerevan",
+    "company": "Profi VIP",
+    "twitterUsername": "stanislavus86",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 82,
+    "createdAt": "2012-02-04T15:21:05Z"
   }
 ]

@@ -59287,7 +59287,7 @@
     "company": "Caspian Soft",
     "twitterUsername": "",
     "followers": 37,
-    "privateContributions": 451,
+    "privateContributions": 454,
     "publicContributions": 0,
     "createdAt": "2014-09-07T19:36:35Z"
   },
@@ -59707,7 +59707,7 @@
     "company": "AzSimX",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 327,
+    "privateContributions": 330,
     "publicContributions": 1,
     "createdAt": "2014-09-23T09:46:31Z"
   },
@@ -59866,5 +59866,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-12-03T13:24:02Z"
+  },
+  {
+    "login": "khalign",
+    "name": "Khalig Novruzli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6874791?s=72&u=b9859e62ef5312441ac8367c3b21e3fa6a01f772&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "khalign",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2014-03-06T16:23:11Z"
+  },
+  {
+    "login": "paladium",
+    "name": "Ilkin Musayev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8057926?s=72&u=f4919c25da71eda5392ae28877a9c085b16c48d7&v=4",
+    "location": "Baku",
+    "company": "NativeCI",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 13,
+    "publicContributions": 4,
+    "createdAt": "2014-07-03T11:47:44Z"
+  },
+  {
+    "login": "azrov",
+    "name": "Ali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6923554?s=72&u=db075bd85408ae7cd2757e41396bc8e2bf381d3b&v=4",
+    "location": "Baku",
+    "company": "Ali Zairov",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2014-03-11T21:29:32Z"
+  },
+  {
+    "login": "pashabeyli1",
+    "name": "Fuad Pashabeyli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7425612?s=72&u=c7a5cc123d19a8f297808b41ea6da862e9eb3dd5&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-28T05:42:24Z"
+  },
+  {
+    "login": "NatiqQaraisayev",
+    "name": "Natig Garaisayev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7988606?s=72&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-25T18:04:42Z"
+  },
+  {
+    "login": "subhan-cabbarov",
+    "name": "Sübhan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6659669?s=72&v=4",
+    "location": "Baku",
+    "company": "ProDev",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2014-02-12T09:24:28Z"
+  },
+  {
+    "login": "Ilhama",
+    "name": "Ilhama",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8393574?s=72&u=aa32691cfda8e47bf2a28b33cfac1f9d2078cbcf&v=4",
+    "location": "Baku,Azrbaijan",
+    "company": "GRI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-08T09:43:17Z"
+  },
+  {
+    "login": "Tuplit",
+    "name": "Nail Valiyev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7629449?s=72&u=1f5fd85e4dfd2de0f1b0cb7fbafd1868914c9f0c&v=4",
+    "location": "Baku",
+    "company": "SUP Accelerator",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-19T10:29:25Z"
   }
 ]

@@ -75850,5 +75850,101 @@
     "privateContributions": 96,
     "publicContributions": 396,
     "createdAt": "2019-10-29T12:07:56Z"
+  },
+  {
+    "login": "tuomax7",
+    "name": "Tuomas Nummela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47346019?s=72&u=8eebba89d4aef15e0767aefb85ba7c2da13c097c&v=4",
+    "location": "Espoo, Suomi",
+    "company": "Taito United",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 2641,
+    "publicContributions": 35,
+    "createdAt": "2019-02-05T06:36:16Z"
+  },
+  {
+    "login": "MatiasPuputti",
+    "name": "Matias Puputti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54974512?s=72&u=37b578ca7dbc4b2099fc77eb559a6ec5b53d2dfe&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 8,
+    "publicContributions": 0,
+    "createdAt": "2019-09-06T06:09:54Z"
+  },
+  {
+    "login": "hirvelaniklas",
+    "name": "hirvelaniklas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48093609?s=72&u=47bed5b890956bd3ab54cbf2beda13b1a586e397&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-28T13:33:08Z"
+  },
+  {
+    "login": "Tobdu399",
+    "name": "Topias Niiranen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57017774?s=72&u=c530053a1bc3d8f1cf3057208883adf5d0fb3736&v=4",
+    "location": "Ylöjärvi, Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-25T19:53:48Z"
+  },
+  {
+    "login": "J0nttu123",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48908835?s=72&u=687ffb25ccb8f5b1c25a12c5b11e4cda1bc8caf4&v=4",
+    "location": "Suomi",
+    "company": "PS",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-25T09:38:20Z"
+  },
+  {
+    "login": "StanEffy",
+    "name": "Stan_Effy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47476119?s=72&u=57981e2bac40caa9349656564454491dfc3a61c0&v=4",
+    "location": "Helsinki, Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 81,
+    "publicContributions": 208,
+    "createdAt": "2019-02-09T12:20:33Z"
+  },
+  {
+    "login": "ogchibi95",
+    "name": "Jan Kristian Valgijainen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54046100?s=72&u=4cda7e90962b5ebfa3497c27c27e3ab883281254&v=4",
+    "location": "Kerava, 04250, Suomi",
+    "company": "T:MI Valgijainen, Jan Kristian",
+    "twitterUsername": "ogchibi95",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-12T23:15:43Z"
+  },
+  {
+    "login": "dwasonga",
+    "name": "Daniel Wasonga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57188061?s=72&v=4",
+    "location": "Helsinki, Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-30T15:40:19Z"
   }
 ]
