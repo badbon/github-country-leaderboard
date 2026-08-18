@@ -76111,7 +76111,7 @@
     "company": "Pontificia Universidad Católica de Chile",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1919,
+    "privateContributions": 1921,
     "publicContributions": 15,
     "createdAt": "2021-03-17T00:38:40Z"
   },
@@ -76231,7 +76231,7 @@
     "company": "Pontificia Universidad Católica de Chile",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2019,
+    "privateContributions": 2065,
     "publicContributions": 0,
     "createdAt": "2021-03-16T14:14:31Z"
   },
@@ -76543,7 +76543,7 @@
     "company": "Babel group",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 790,
+    "privateContributions": 792,
     "publicContributions": 352,
     "createdAt": "2021-05-31T19:45:25Z"
   },
@@ -76795,7 +76795,7 @@
     "company": "@MundosVirtualesDev ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2122,
+    "privateContributions": 2135,
     "publicContributions": 136,
     "createdAt": "2021-04-12T11:38:21Z"
   },
@@ -77083,7 +77083,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 818,
+    "privateContributions": 820,
     "publicContributions": 0,
     "createdAt": "2021-02-28T20:21:24Z"
   },
@@ -86156,7 +86156,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 76,
     "createdAt": "2021-07-04T01:05:21Z"
   },
   {
@@ -86287,7 +86287,7 @@
     "company": "@Bsale-IO",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1506,
+    "privateContributions": 1510,
     "publicContributions": 11,
     "createdAt": "2021-08-16T14:21:52Z"
   },
@@ -86479,7 +86479,7 @@
     "company": "Buk HR",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1591,
+    "privateContributions": 1598,
     "publicContributions": 0,
     "createdAt": "2021-10-13T18:21:08Z"
   },
@@ -86731,7 +86731,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2915,
+    "privateContributions": 2916,
     "publicContributions": 0,
     "createdAt": "2021-10-01T12:51:45Z"
   },
@@ -91006,5 +91006,173 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2021-07-07T00:58:14Z"
+  },
+  {
+    "login": "AlexBaquero",
+    "name": "Alex Baquero ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81413271?s=72&u=c3de3e70d6b0c704429448066e25516c91a12730&v=4",
+    "location": "Santiago de Compostela/Tui",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2021-03-26T09:21:22Z"
+  },
+  {
+    "login": "mariana-elizabeth-cruz",
+    "name": "Mariana Elizabeth Cruz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88063521?s=72&u=83eb04859fb701022581726e15bcd2e77ea96c58&v=4",
+    "location": "Santiago del Estero",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-27T23:15:01Z"
+  },
+  {
+    "login": "areyes1995",
+    "name": "Abiezer Reyes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85002966?s=72&u=100eee3675e4c9c94356f36c95c5f11b048bc403&v=4",
+    "location": "Santiago de los caballeros",
+    "company": "Ing. Full Stack Developer",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 421,
+    "publicContributions": 32,
+    "createdAt": "2021-05-29T02:44:48Z"
+  },
+  {
+    "login": "Hiarela",
+    "name": "Hiarela Aravena ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90730890?s=72&u=b7dfbe2cee530c11a250eddcf0aa80885333dcfa&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-14T22:34:01Z"
+  },
+  {
+    "login": "cokeconphd",
+    "name": "Jorge Miranda-Pinto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90323815?s=72&v=4",
+    "location": "Santiago",
+    "company": "University of Queensland and Central Bank of Chile",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2021-09-08T11:54:57Z"
+  },
+  {
+    "login": "angeljcampo",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78764150?s=72&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "angelj08",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 74,
+    "createdAt": "2021-02-08T21:40:58Z"
+  },
+  {
+    "login": "jipino",
+    "name": "Juan Ignacio Pino Valdés",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86280854?s=72&u=8e8e635e89ffc6b92bb15feb202df51756f67ee6&v=4",
+    "location": "Santiago ",
+    "company": "Pontificia Universidad Católica de Chile",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2021-06-22T04:46:14Z"
+  },
+  {
+    "login": "hugovjmeister",
+    "name": "Hugo Fernandez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83128363?s=72&u=bbda243c1667c89ee9ebfa24bb934058f4cac544&v=4",
+    "location": "Santiago",
+    "company": "HFM Works",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-24T14:50:07Z"
+  },
+  {
+    "login": "Tbravop",
+    "name": "Tomás Bravo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85971544?s=72&u=7e2ead26605f94e0510a1d2fa4fdeaa6458dddfd&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-15T23:57:11Z"
+  },
+  {
+    "login": "pablocamposabu",
+    "name": "Pablo Campos Abutridy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89473390?s=72&u=984c8cbf919e8037ba354df6fbbf48a418c110a5&v=4",
+    "location": "Santiago",
+    "company": "DESUC",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2021-08-24T15:59:53Z"
+  },
+  {
+    "login": "XavierDevx",
+    "name": "Javier I. Pastén Salinas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94013167?s=72&u=f184188b42ea525e3afb815c9a4647a6c6142636&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2021-11-09T19:21:39Z"
+  },
+  {
+    "login": "fbustamant3",
+    "name": "Felipe Bustamante",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82222222?s=72&u=51dad978a9144a9bde42a4cac7066010961e21be&v=4",
+    "location": "Santiago",
+    "company": "Mercado Libre",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-09T13:54:51Z"
+  },
+  {
+    "login": "NeuronSaturated",
+    "name": "Neurona",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90583787?s=72&u=f24cf623acbac99b00ac3da78cbdf91273fdba32&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2021-09-13T00:51:59Z"
+  },
+  {
+    "login": "g10albert",
+    "name": "g10albert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89098393?s=72&u=d60da9ca2aa6d39bb27b7a44f3b89bc4b9d875fb&v=4",
+    "location": "Santiago, Domincan Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2021-08-17T17:42:38Z"
   }
 ]

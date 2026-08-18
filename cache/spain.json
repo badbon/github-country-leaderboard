@@ -99766,5 +99766,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-04T12:17:16Z"
+  },
+  {
+    "login": "vilarino16",
+    "name": "Daniel Vilariño",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86010633?s=72&u=d7e8c455ccc484d744da6ce616da8d8b4dd088a5&v=4",
+    "location": "Santiago de Compostela, España",
+    "company": "",
+    "twitterUsername": "vilarino16",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 67,
+    "createdAt": "2021-06-16T15:28:03Z"
+  },
+  {
+    "login": "rubensysoecho",
+    "name": "Rubén Martínez Rodríguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95583458?s=72&u=0582852f998b75ccc9bea4353ca08547f4a1adf5&v=4",
+    "location": "Santiago de Compostela, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2021-12-05T17:01:34Z"
+  },
+  {
+    "login": "Diana-Castro",
+    "name": "Diana Castro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91755267?s=72&u=652b1d6ee497e0605d30f220b8bdfb6b26aa9376&v=4",
+    "location": "Santiago de Compostela, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2021-10-01T18:23:30Z"
   }
 ]

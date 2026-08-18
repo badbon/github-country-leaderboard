@@ -87622,5 +87622,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-28T08:20:32Z"
+  },
+  {
+    "login": "TLucchesi",
+    "name": "Tommaso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146748677?s=72&u=eac17affac2026eee5bbc9b96b399219cb480d40&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-10-02T14:43:11Z"
+  },
+  {
+    "login": "hope89f",
+    "name": "Federico Zucchini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145378886?s=72&u=99d7cdebd43450e21cc8bff68ffbdc22a7436718&v=4",
+    "location": "Rome",
+    "company": "IPS Intelligence",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-18T17:02:17Z"
   }
 ]
