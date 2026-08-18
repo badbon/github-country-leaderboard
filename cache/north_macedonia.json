@@ -22651,7 +22651,7 @@
     "company": "@axiomatic-dev",
     "twitterUsername": "d_bozhinovski",
     "followers": 90,
-    "privateContributions": 4120,
+    "privateContributions": 4140,
     "publicContributions": 298,
     "createdAt": "2010-05-09T16:07:11Z"
   },
@@ -22978,5 +22978,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-12-23T10:24:55Z"
+  },
+  {
+    "login": "FREEZX",
+    "name": "Kristijan Trajkovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/243900?s=72&u=9d326939231d6ccc075a1b3c91618aae77e5e6ee&v=4",
+    "location": "Skopje",
+    "company": "Dark-1",
+    "twitterUsername": "KTrajkovski",
+    "followers": 40,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2010-04-14T15:30:43Z"
+  },
+  {
+    "login": "dragansah",
+    "name": "Dragan Sahpaski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/474636?s=72&u=5424ebdc7fa6fe2ec2a44c0b6ced057ea4651047&v=4",
+    "location": "Skopje",
+    "company": "@sorsix ",
+    "twitterUsername": "dragansah",
+    "followers": 39,
+    "privateContributions": 536,
+    "publicContributions": 1,
+    "createdAt": "2010-11-09T20:06:22Z"
+  },
+  {
+    "login": "joksim",
+    "name": "Joksim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/460917?s=72&v=4",
+    "location": "Skopje",
+    "company": "Faculty of Computer Science and Engineering",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 73,
+    "createdAt": "2010-10-30T17:08:05Z"
+  },
+  {
+    "login": "technogoat",
+    "name": "Naum Kostovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299775?s=72&v=4",
+    "location": "Skopje",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-08T11:35:32Z"
+  },
+  {
+    "login": "macstr1k3r",
+    "name": "Darko Stojkovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/354308?s=72&u=2d1fe852b650eb5acd99af5f6d018b1d88ddbd30&v=4",
+    "location": "Skopje",
+    "company": "daytrip",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 1821,
+    "publicContributions": 11,
+    "createdAt": "2010-08-04T18:09:55Z"
+  },
+  {
+    "login": "rromano",
+    "name": "Elvis Hajdar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264486?s=72&u=47958a7badfbeb233103fad00303ce3dadc64d13&v=4",
+    "location": "Skopje",
+    "company": "Anton Soft",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-04T12:19:50Z"
+  },
+  {
+    "login": "pavlovski",
+    "name": "Miroslav Pavlovski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238693?s=72&v=4",
+    "location": "Skopje, Maacedonia",
+    "company": "ITum",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-04-07T11:48:30Z"
+  },
+  {
+    "login": "ljubica",
+    "name": "LjubicaD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/346912?s=72&u=f4240fe32b0a019e7ec26f969eba1a50d4da1967&v=4",
+    "location": "Skopje",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2010-07-28T12:39:10Z"
+  },
+  {
+    "login": "manovj",
+    "name": "Jovan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/528649?s=72&u=b1f248a925f632b10f670ef08aa3fb7e29752ec1&v=4",
+    "location": "Skopje",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-18T17:33:34Z"
   }
 ]

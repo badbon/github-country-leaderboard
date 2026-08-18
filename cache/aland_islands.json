@@ -694,5 +694,17 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2020-10-02T05:34:13Z"
+  },
+  {
+    "login": "linusaarnio",
+    "name": "Linus Aarnio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42450444?s=72&u=e75c55d2bdf2079cafce4b71b2adf9be702d75ff&v=4",
+    "location": "Åland, Finland",
+    "company": "Datawrapper",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1352,
+    "publicContributions": 0,
+    "createdAt": "2018-08-16T19:35:02Z"
   }
 ]

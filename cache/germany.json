@@ -110794,5 +110794,29 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2024-06-05T21:04:03Z"
+  },
+  {
+    "login": "hermanzuiakov",
+    "name": "Herman Zuiakov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119793096?s=72&u=f58f2b75356db3f361feac68e946a40c4f9ecf4c&v=4",
+    "location": "Kyiv(Ukraine)/Blankenburg(Germany)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 5,
+    "publicContributions": 0,
+    "createdAt": "2022-12-04T12:24:43Z"
+  },
+  {
+    "login": "yotkadata",
+    "name": "Jan Kühn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7913590?s=72&u=748ad8df877b9787b506b08aef5fef86a274dcc3&v=4",
+    "location": "Berlin/Caracas",
+    "company": "",
+    "twitterUsername": "derjaku",
+    "followers": 42,
+    "privateContributions": 2093,
+    "publicContributions": 951,
+    "createdAt": "2014-06-17T13:58:42Z"
   }
 ]

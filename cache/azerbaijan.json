@@ -61006,5 +61006,53 @@
     "privateContributions": 0,
     "publicContributions": 341,
     "createdAt": "2011-11-04T12:32:43Z"
+  },
+  {
+    "login": "Tural",
+    "name": "Tural Alisoy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/518994?s=72&u=b72122e51ab62bccea49fa63386a910413618fa4&v=4",
+    "location": "Azerbaijan",
+    "company": "TAFT Foundry",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 25,
+    "publicContributions": 2,
+    "createdAt": "2010-12-11T13:28:59Z"
+  },
+  {
+    "login": "vrednyu4aya",
+    "name": "Elyaf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/488249?s=72&v=4",
+    "location": "Baku, Azerbaijan",
+    "company": "HTMLaz.com",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-19T09:50:19Z"
+  },
+  {
+    "login": "kazimov",
+    "name": "Fariz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266718?s=72&v=4",
+    "location": "Baku, Azerbaijan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-06T17:07:39Z"
+  },
+  {
+    "login": "feriddavud",
+    "name": "FARID DAVUDOV",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/365660?s=72&u=5c41f21379e96fe2d4025ec2cd27ef77e2c18b73&v=4",
+    "location": "Baku, Azerbaijan",
+    "company": "CustomAR & Arzoom",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-16T08:16:46Z"
   }
 ]

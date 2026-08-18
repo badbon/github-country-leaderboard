@@ -48478,5 +48478,65 @@
     "privateContributions": 42,
     "publicContributions": 4,
     "createdAt": "2009-10-13T10:30:11Z"
+  },
+  {
+    "login": "Vany",
+    "name": "Vany Serezhkin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47273?s=72&u=46c463752b6e31a3a463b5b7a821dc0127e37582&v=4",
+    "location": "Yerevan",
+    "company": "Hireable for now",
+    "twitterUsername": "",
+    "followers": 94,
+    "privateContributions": 461,
+    "publicContributions": 850,
+    "createdAt": "2009-01-17T08:55:28Z"
+  },
+  {
+    "login": "vahe-evoyan",
+    "name": "Vahe Evoyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134960?s=72&u=b9a4f5c0006ee4d0445a2c7489342edfdb2ba8ea&v=4",
+    "location": "Yerevan, AM",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 58,
+    "privateContributions": 1004,
+    "publicContributions": 19,
+    "createdAt": "2009-10-04T19:27:37Z"
+  },
+  {
+    "login": "sletix",
+    "name": "Oleg Artamonov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73046?s=72&u=cf55f307907e2196057c241e8410fb1eafd9e6ae&v=4",
+    "location": "Yerevan",
+    "company": "DD",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-04-12T17:18:19Z"
+  },
+  {
+    "login": "boxfrommars",
+    "name": "Dmitry Groza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81930?s=72&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 14,
+    "publicContributions": 108,
+    "createdAt": "2009-05-07T07:29:02Z"
+  },
+  {
+    "login": "ratsam",
+    "name": "Maksim Zakharov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79494?s=72&v=4",
+    "location": "Yerevan",
+    "company": "PocketCombats, LLC",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 999,
+    "publicContributions": 117,
+    "createdAt": "2009-04-30T09:03:21Z"
   }
 ]
