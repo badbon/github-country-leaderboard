@@ -47923,8 +47923,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 1877,
-    "publicContributions": 1539,
+    "privateContributions": 1882,
+    "publicContributions": 1545,
     "createdAt": "2010-06-20T15:48:24Z"
   },
   {
@@ -48214,5 +48214,137 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-12-06T13:05:24Z"
+  },
+  {
+    "login": "StefanPapp",
+    "name": "Stefan Papp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/415264?s=72&u=0cae2a210bc572342468eab61312dada46514d57&v=4",
+    "location": "Yerevan",
+    "company": "sophron",
+    "twitterUsername": "StefanPapp",
+    "followers": 69,
+    "privateContributions": 0,
+    "publicContributions": 265,
+    "createdAt": "2010-09-25T07:14:08Z"
+  },
+  {
+    "login": "yalozhkin",
+    "name": "Yaroslav Lozhkin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/454947?s=72&u=567acec7a0465eb0a15e4e8cf7e0625ec1564e2d&v=4",
+    "location": "Yerevan",
+    "company": "@evilmartians ",
+    "twitterUsername": "",
+    "followers": 36,
+    "privateContributions": 1069,
+    "publicContributions": 2,
+    "createdAt": "2010-10-26T16:49:27Z"
+  },
+  {
+    "login": "vitek",
+    "name": "Victor Makarov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/489439?s=72&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 35,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2010-11-20T07:39:41Z"
+  },
+  {
+    "login": "korotkoff",
+    "name": "Sergey Korotkov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175310?s=72&v=4",
+    "location": "Yerevan, AM",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 250,
+    "publicContributions": 0,
+    "createdAt": "2010-01-02T13:55:18Z"
+  },
+  {
+    "login": "basvasilich",
+    "name": "Vadim Patsev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/363312?s=72&u=5ec7bec1d22a78022988e179ce71f7e6b0da8b86&v=4",
+    "location": "Yerevan",
+    "company": "Yandex Armenia",
+    "twitterUsername": "basvasilich",
+    "followers": 30,
+    "privateContributions": 3691,
+    "publicContributions": 88,
+    "createdAt": "2010-08-13T10:58:35Z"
+  },
+  {
+    "login": "glader",
+    "name": "Mikhail",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/494361?s=72&u=731caf39a9995f2d47f4579840b07658734610df&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2010-11-24T03:38:18Z"
+  },
+  {
+    "login": "donkaban",
+    "name": "Jefe Kabanizzer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/350486?s=72&u=1526e81c2e10ba14143628d257e77bc1834eb7e4&v=4",
+    "location": "Yerevan",
+    "company": "Kentron Games",
+    "twitterUsername": "Applesinych",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-01T01:52:21Z"
+  },
+  {
+    "login": "xpahos",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/480005?s=72&u=7b9b0090ec41082edf3824f32b07e8599d62e4c2&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 58,
+    "createdAt": "2010-11-13T11:36:54Z"
+  },
+  {
+    "login": "RammsteinAM",
+    "name": "Avet Brutyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/481267?s=72&u=5d4bd5af2c492123b65d1b8b21705c178cd1fdda&v=4",
+    "location": "Yerevan",
+    "company": "Simply Technologies",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 858,
+    "publicContributions": 1,
+    "createdAt": "2010-11-15T01:55:17Z"
+  },
+  {
+    "login": "gaskar",
+    "name": "Karen Gasparyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/491166?s=72&v=4",
+    "location": "Yerevan",
+    "company": "VMWare",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2010-11-22T00:43:14Z"
+  },
+  {
+    "login": "mgoubko",
+    "name": "Mikhail Goubko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/342888?s=72&u=d1f411e16a3e9b9bd15655a4b2cc8ecdfea0e737&v=4",
+    "location": "Yerevan",
+    "company": "GROVF",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-24T16:06:55Z"
   }
 ]
