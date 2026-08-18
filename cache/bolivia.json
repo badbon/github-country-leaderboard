@@ -17014,5 +17014,65 @@
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2015-12-03T19:55:22Z"
+  },
+  {
+    "login": "marceloquispeortega",
+    "name": "Marcelo Quispe Ortega",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15899528?s=72&u=6b8ceeb4158dfaf95c930d71b841cf7fed553a82&v=4",
+    "location": "Sucre",
+    "company": "Servicios Informáticos #RootCode",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 253,
+    "createdAt": "2015-11-18T00:43:45Z"
+  },
+  {
+    "login": "hagom",
+    "name": "Hector Gonzalez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12469002?s=72&u=33e9c6307fc33d2210e712a43950d6dfa806e653&v=4",
+    "location": "Cumana, Sucre",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 70,
+    "createdAt": "2015-05-16T04:17:23Z"
+  },
+  {
+    "login": "enevaca",
+    "name": "Noel Vaca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12105692?s=72&u=fc533b6cc0bc72461abda3b8ed134b8afae23646&v=4",
+    "location": "Sucre",
+    "company": "Organo Judicial",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 97,
+    "createdAt": "2015-04-24T22:15:54Z"
+  },
+  {
+    "login": "ojhernandezc",
+    "name": "Oscar J. Hernandez Castillo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12258588?s=72&u=863f87457a9a1d4c09741079700ebd18b6e0814a&v=4",
+    "location": "Sincelejo, (Sucre) CO",
+    "company": "",
+    "twitterUsername": "ojhernandezc",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2015-05-05T17:24:39Z"
+  },
+  {
+    "login": "keii25",
+    "name": "Kevin Martinez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15271224?s=72&u=0047882e3dfaee2d3e10a078a760a0eb74e5893d&v=4",
+    "location": "Corozal, Sucre",
+    "company": "Sophos Solutions",
+    "twitterUsername": "keii_25",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2015-10-23T22:18:51Z"
   }
 ]

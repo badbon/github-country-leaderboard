@@ -62974,5 +62974,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-11-03T02:21:33Z"
+  },
+  {
+    "login": "djajcevic",
+    "name": "Denis Jajčević",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1281839?s=72&u=ac7f35bd1230a2f6e260d33466ef6b1f0186dabe&v=4",
+    "location": "Zagreb",
+    "company": "@croz-ltd",
+    "twitterUsername": "djajcevic",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2011-12-23T10:11:17Z"
+  },
+  {
+    "login": "mkmgames",
+    "name": "Marko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/724196?s=72&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-12T07:32:53Z"
+  },
+  {
+    "login": "zhrastic",
+    "name": "zhrastic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/783317?s=72&u=486a1b1011c9bd466523db08920972b70c56a890&v=4",
+    "location": "Zagreb",
+    "company": "BCCServices d.o.o.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-05-12T08:15:36Z"
+  },
+  {
+    "login": "tonovosel",
+    "name": "Tomislav Novosel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1204980?s=72&u=9f02e1bd705eb33f1bfe84b8c69e6d174b96df62&v=4",
+    "location": "Zagreb",
+    "company": "Valcon Croatia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-18T17:43:47Z"
+  },
+  {
+    "login": "nyana-xx",
+    "name": "Ana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/625497?s=72&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-18T15:57:09Z"
+  },
+  {
+    "login": "harpomarx-zz",
+    "name": "No Chance",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/577327?s=72&v=4",
+    "location": "Zagreb",
+    "company": "No Company",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-21T22:33:01Z"
+  },
+  {
+    "login": "gh0c",
+    "name": "Goran Hrženjak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1114932?s=72&u=4300700aad2cf9dbcef64796bffee9850b072315&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-09T22:32:48Z"
+  },
+  {
+    "login": "preBit",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/598483?s=72&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2011-02-03T11:50:30Z"
   }
 ]
