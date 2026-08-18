@@ -57871,7 +57871,7 @@
     "company": "",
     "twitterUsername": "tmtm",
     "followers": 113,
-    "privateContributions": 9967,
+    "privateContributions": 9971,
     "publicContributions": 5,
     "createdAt": "2009-02-24T14:09:50Z"
   },
@@ -58124,7 +58124,7 @@
     "twitterUsername": "lauriro",
     "followers": 31,
     "privateContributions": 655,
-    "publicContributions": 1087,
+    "publicContributions": 1089,
     "createdAt": "2009-10-20T22:06:03Z"
   },
   {
@@ -58774,5 +58774,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-11-24T15:33:44Z"
+  },
+  {
+    "login": "bolkhovsky",
+    "name": "Ilya B.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163018?s=72&u=072ec9b0331508a2a52126753f85b59d7acc840c&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 1272,
+    "publicContributions": 868,
+    "createdAt": "2009-12-05T17:42:12Z"
+  },
+  {
+    "login": "naru",
+    "name": "Anton Narusberg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123636?s=72&u=b142a2ea1a46030b07684a56278bb426d78a8b29&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 3869,
+    "publicContributions": 16,
+    "createdAt": "2009-09-05T18:52:30Z"
+  },
+  {
+    "login": "tarmolehtpuu",
+    "name": "Tarmo Lehtpuu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115003?s=72&u=4220e1b82124a7e569567c006abfb8e9f240473f&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 697,
+    "publicContributions": 360,
+    "createdAt": "2009-08-13T15:36:32Z"
+  },
+  {
+    "login": "jannosiilbek",
+    "name": "Janno Siilbek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77339?s=72&u=4845da954789e5ded24a94ff27bc3d98617e0ef8&v=4",
+    "location": "Tallinn",
+    "company": "Mindly",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 282,
+    "createdAt": "2009-04-24T10:21:56Z"
+  },
+  {
+    "login": "reinaru",
+    "name": "Ahto Reinaru",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146408?s=72&v=4",
+    "location": "Tallinn",
+    "company": "AutomatWeb Eesti",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-10-29T18:04:36Z"
+  },
+  {
+    "login": "aivarraudsepp",
+    "name": "Aivar Raudsepp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155620?s=72&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-11-19T20:19:06Z"
   }
 ]

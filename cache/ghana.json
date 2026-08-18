@@ -85042,5 +85042,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-12-09T17:30:27Z"
+  },
+  {
+    "login": "ebottabi",
+    "name": "Ebot Tabi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/351587?s=72&u=85b482f2cf928e1fc94bce59bf3cb2d3139eea86&v=4",
+    "location": "Lagos, Accra & Douala",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 59,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2010-08-02T12:17:37Z"
+  },
+  {
+    "login": "kdjomeda",
+    "name": "kodjo-kuma Djomeda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/407284?s=72&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-19T18:05:31Z"
+  },
+  {
+    "login": "RafficMaleo",
+    "name": "Raffic Maleo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273251?s=72&v=4",
+    "location": "Accra",
+    "company": "Quantum Equity Solutions",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-11T11:27:58Z"
   }
 ]

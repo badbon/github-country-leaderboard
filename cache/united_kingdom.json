@@ -15235,8 +15235,8 @@
     "company": "@KainosSoftwareLtd",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 467,
-    "publicContributions": 77,
+    "privateContributions": 487,
+    "publicContributions": 76,
     "createdAt": "2023-01-02T16:56:30Z"
   },
   {
@@ -15715,7 +15715,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1849,
+    "privateContributions": 1887,
     "publicContributions": 0,
     "createdAt": "2023-04-19T16:18:10Z"
   },
@@ -104734,5 +104734,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-09-10T09:20:48Z"
+  },
+  {
+    "login": "QAntum-J",
+    "name": "Jakub Zawadzillo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108982439?s=72&u=989920884ab20678a99510ecfbda78f0dab85dd5&v=4",
+    "location": "Poland, United Kingdom",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-09T11:38:41Z"
   }
 ]

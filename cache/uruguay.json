@@ -66680,7 +66680,7 @@
     "twitterUsername": "0x446172696f0a",
     "followers": 387,
     "privateContributions": 50,
-    "publicContributions": 4809,
+    "publicContributions": 4810,
     "createdAt": "2009-08-14T02:32:04Z"
   },
   {
@@ -66811,7 +66811,7 @@
     "company": "Undermountain Coding Company",
     "twitterUsername": "martinloy",
     "followers": 55,
-    "privateContributions": 7504,
+    "privateContributions": 7506,
     "publicContributions": 94,
     "createdAt": "2009-10-19T15:09:48Z"
   },
@@ -67210,5 +67210,65 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2009-12-02T12:04:43Z"
+  },
+  {
+    "login": "gmonfort",
+    "name": "German Monfort",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120909?s=72&u=4c225136eafb2c37e56839a62fd41c189e2d67b2&v=4",
+    "location": "Montevideo",
+    "company": "MvdLink",
+    "twitterUsername": "",
+    "followers": 36,
+    "privateContributions": 30,
+    "publicContributions": 2,
+    "createdAt": "2009-08-29T18:14:49Z"
+  },
+  {
+    "login": "carlosm3011",
+    "name": "Carlos Martinez-Cagnazzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114758?s=72&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "CagnazzoEng",
+    "followers": 26,
+    "privateContributions": 84,
+    "publicContributions": 37,
+    "createdAt": "2009-08-12T22:58:33Z"
+  },
+  {
+    "login": "hernanflores",
+    "name": "Hernán Flores Leyes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112948?s=72&u=b0c6b42ec3dae77cbfc13c299a2cd1b6f262fe76&v=4",
+    "location": "Montevideo ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2009-08-07T15:37:53Z"
+  },
+  {
+    "login": "BeRMaNyA",
+    "name": "Bernardo Castro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142365?s=72&u=85bb272efdf62ebaec161463e1709b2db6fd8411&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-10-20T22:20:58Z"
+  },
+  {
+    "login": "sfagnoni",
+    "name": "Santiago",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149907?s=72&u=8eff37e919efe1e7a978c43517eb3a2986c8be9f&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2009-11-06T21:09:29Z"
   }
 ]
