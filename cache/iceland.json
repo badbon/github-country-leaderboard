@@ -18403,7 +18403,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 5975,
+    "privateContributions": 5979,
     "publicContributions": 51,
     "createdAt": "2009-10-22T13:08:55Z"
   },
@@ -18730,5 +18730,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-10-21T14:46:22Z"
+  },
+  {
+    "login": "thordur",
+    "name": "toti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117917?s=72&u=f09078802a2d39e30f98c0578f7ce011f507a127&v=4",
+    "location": "Reykjavik",
+    "company": "@arango-is",
+    "twitterUsername": "thordurgunn",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2009-08-21T14:25:22Z"
   }
 ]

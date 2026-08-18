@@ -53035,7 +53035,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 75,
-    "privateContributions": 4297,
+    "privateContributions": 4304,
     "publicContributions": 15,
     "createdAt": "2020-01-30T12:40:02Z"
   },
@@ -53131,7 +53131,7 @@
     "company": "Payarc LLC",
     "twitterUsername": "",
     "followers": 40,
-    "privateContributions": 2577,
+    "privateContributions": 2582,
     "publicContributions": 0,
     "createdAt": "2020-04-24T11:40:19Z"
   },
@@ -53299,7 +53299,7 @@
     "company": "",
     "twitterUsername": "thewebmasterp",
     "followers": 24,
-    "privateContributions": 139,
+    "privateContributions": 144,
     "publicContributions": 3,
     "createdAt": "2020-03-09T09:41:12Z"
   },
@@ -53419,8 +53419,8 @@
     "company": "@EnfluxInc ",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 232,
-    "publicContributions": 75,
+    "privateContributions": 243,
+    "publicContributions": 66,
     "createdAt": "2020-01-20T20:30:29Z"
   },
   {
@@ -53443,8 +53443,8 @@
     "company": "INSAIT - Institue for Computer Science, Artificial Intelligence and Technology",
     "twitterUsername": "TuristKT5",
     "followers": 16,
-    "privateContributions": 189,
-    "publicContributions": 63,
+    "privateContributions": 173,
+    "publicContributions": 82,
     "createdAt": "2020-02-25T16:47:57Z"
   },
   {
@@ -53455,7 +53455,7 @@
     "company": "SBT Solutions",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 2338,
+    "privateContributions": 2342,
     "publicContributions": 168,
     "createdAt": "2020-04-10T10:35:47Z"
   },
@@ -53479,7 +53479,7 @@
     "company": "GATE Institute",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 30,
+    "privateContributions": 31,
     "publicContributions": 76,
     "createdAt": "2020-05-16T16:54:01Z"
   },
@@ -53587,7 +53587,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 1994,
+    "privateContributions": 1995,
     "publicContributions": 338,
     "createdAt": "2020-05-04T08:59:42Z"
   },
@@ -58712,7 +58712,7 @@
     "twitterUsername": "",
     "followers": 52,
     "privateContributions": 0,
-    "publicContributions": 433,
+    "publicContributions": 434,
     "createdAt": "2020-09-17T16:07:27Z"
   },
   {
@@ -58795,7 +58795,7 @@
     "company": "@fmi",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 135,
+    "privateContributions": 136,
     "publicContributions": 3,
     "createdAt": "2020-07-27T14:15:16Z"
   },
@@ -59167,7 +59167,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 280,
+    "privateContributions": 283,
     "publicContributions": 0,
     "createdAt": "2020-07-30T18:41:31Z"
   },
@@ -59574,9 +59574,9 @@
     "location": "Sofia/Bulgaria",
     "company": "Exadel",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 553,
-    "publicContributions": 235,
+    "publicContributions": 239,
     "createdAt": "2020-08-27T12:40:11Z"
   },
   {
@@ -59707,7 +59707,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 850,
+    "privateContributions": 854,
     "publicContributions": 1,
     "createdAt": "2020-07-27T11:10:10Z"
   },
@@ -65398,5 +65398,209 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-18T22:07:20Z"
+  },
+  {
+    "login": "zahariev-webbersof",
+    "name": "Mario Zahariev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68993494?s=72&u=b341c94a8aa0624e05e201bcf8ae5b2697e3be2f&v=4",
+    "location": "Sofia",
+    "company": "SoftUni",
+    "twitterUsername": "",
+    "followers": 1159,
+    "privateContributions": 0,
+    "publicContributions": 90,
+    "createdAt": "2020-07-30T09:40:15Z"
+  },
+  {
+    "login": "SSIvanov19",
+    "name": "Stoyan Ivanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63718744?s=72&u=ed915bf627bf5cd1e54396f6fb58079ead517bae&v=4",
+    "location": "Sofia",
+    "company": "MontSoft",
+    "twitterUsername": "",
+    "followers": 75,
+    "privateContributions": 2207,
+    "publicContributions": 57,
+    "createdAt": "2020-04-15T11:14:48Z"
+  },
+  {
+    "login": "pysource-com",
+    "name": "Pysource",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63154935?s=72&u=ef8ee7c57447dc481b31efdf815b837489d57a11&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 48,
+    "privateContributions": 947,
+    "publicContributions": 130,
+    "createdAt": "2020-04-04T14:01:00Z"
+  },
+  {
+    "login": "JordanRad",
+    "name": "Jordan Radushev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63496500?s=72&u=6a29f74eaa8ca4658e0c247e255a131fbafe5aa7&v=4",
+    "location": "Sofia, BG",
+    "company": "Redis",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 483,
+    "publicContributions": 39,
+    "createdAt": "2020-04-11T09:43:38Z"
+  },
+  {
+    "login": "asen-krasimirov",
+    "name": "Асен Красимиров",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68907559?s=72&u=c7f909fc16f483e61b0d5e8e0bdcb5f66c8377d3&v=4",
+    "location": "Sofia",
+    "company": "Fourth",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 67,
+    "publicContributions": 3,
+    "createdAt": "2020-07-28T12:30:34Z"
+  },
+  {
+    "login": "rd-lachezar-balev",
+    "name": "Lachezar Balev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67575284?s=72&u=6bd25d9163707fc5e12312289da5e83318ed97f2&v=4",
+    "location": "Sofia",
+    "company": "REWE Digital",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 2303,
+    "publicContributions": 0,
+    "createdAt": "2020-06-29T06:12:28Z"
+  },
+  {
+    "login": "nkolew",
+    "name": "Nikolay Kolev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74063200?s=72&u=e397e87e2b5e79d20354e16e5cb83c675bf3fd88&v=4",
+    "location": "Europe / Sofia",
+    "company": "",
+    "twitterUsername": "Citizen_Kolev",
+    "followers": 27,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-06T15:30:04Z"
+  },
+  {
+    "login": "Allie251B",
+    "name": "Aleksandra Bambaldokova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72564618?s=72&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-08T14:48:03Z"
+  },
+  {
+    "login": "svetlozardraganov",
+    "name": "Svetlozar Draganov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74985932?s=72&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-24T18:51:21Z"
+  },
+  {
+    "login": "pepe2405",
+    "name": "Preslav Petrov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66087443?s=72&u=ded740d5b9a62ace0536beccc528eeb7fc24ad1b&v=4",
+    "location": "Varna/Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2020-05-28T18:48:30Z"
+  },
+  {
+    "login": "atanasnik",
+    "name": "Atanas Nikov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75638333?s=72&u=5cc0e9c09312cee776633c1c94ed7c2ec12a7d7b&v=4",
+    "location": "Sofia",
+    "company": "Financial Times",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-07T18:59:39Z"
+  },
+  {
+    "login": "SantanaSJ",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63861416?s=72&u=367d94b0b82874c0ff8a026d6edd20b335c0ddb8&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-17T14:16:56Z"
+  },
+  {
+    "login": "patrikov01",
+    "name": "Georgi Patrikov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72613521?s=72&u=f2c4df169d2542635e99a8ab377560527628cd25&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2020-10-09T13:35:06Z"
+  },
+  {
+    "login": "ivoalbrecht",
+    "name": "Ivo Albrecht",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68962657?s=72&u=0d83b5a3e3d58fe785b91d2ba78f221c7ca8675b&v=4",
+    "location": "Sofia",
+    "company": "Bunch",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2020-07-29T16:03:12Z"
+  },
+  {
+    "login": "Marto86",
+    "name": "Martin Pavlov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65560174?s=72&u=3e7983c9171ea00961de753a3d28c9dd809e2abb&v=4",
+    "location": "Sofia",
+    "company": "Visteon",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-05-18T17:11:56Z"
+  },
+  {
+    "login": "EntroSolutions",
+    "name": "Martin Tonev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73798960?s=72&u=fb52fae974bf5489de6bbeb23b5555b257fb8a4d&v=4",
+    "location": "Sofia",
+    "company": "EntroSolutions",
+    "twitterUsername": "microDesignn",
+    "followers": 12,
+    "privateContributions": 1406,
+    "publicContributions": 19,
+    "createdAt": "2020-11-01T21:15:56Z"
+  },
+  {
+    "login": "szlatkow",
+    "name": "Svetoslav Zlatkov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62066501?s=72&u=a1f2b642409d2b5e2704716a7ad35a53bef60312&v=4",
+    "location": "Sofia",
+    "company": "Singlet",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-03-11T14:40:14Z"
   }
 ]
