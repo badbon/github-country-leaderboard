@@ -41602,5 +41602,77 @@
     "privateContributions": 438,
     "publicContributions": 28,
     "createdAt": "2014-12-20T11:08:11Z"
+  },
+  {
+    "login": "hirwaf",
+    "name": "hirwa felix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8038879?s=72&u=c1c084126d627dbcddb2978572b361fefaa9b4c4&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "hirwaf_1",
+    "followers": 26,
+    "privateContributions": 1100,
+    "publicContributions": 9,
+    "createdAt": "2014-07-01T15:46:56Z"
+  },
+  {
+    "login": "wbenmurimi",
+    "name": "Benson Murimi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7210934?s=72&u=251247a823b03acdf8559158678eada1756459fa&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-04-07T16:30:51Z"
+  },
+  {
+    "login": "aminemshady2080",
+    "name": "Amin Uwimana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6911823?s=72&u=3429710dd3c5c20df5903cf044cc90e0c8990860&v=4",
+    "location": "kigali",
+    "company": "A++ Labs @apluspluslabs",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-10T20:36:59Z"
+  },
+  {
+    "login": "itsmenkusi",
+    "name": "Alain NKUSI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9823693?s=72&u=404e51c9a3626f7e560734d9780cd42d18aa69d4&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-18T14:41:54Z"
+  },
+  {
+    "login": "Kwizera1992",
+    "name": "NIYIGENA KWIZERA Vincent de Paul",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7916675?s=72&u=3b39032a3f32d65db8d1e9c978e28959413f14ad&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-17T20:06:53Z"
+  },
+  {
+    "login": "nduwayof",
+    "name": "Nduwayo Fabrice",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10028502?s=72&v=4",
+    "location": "Kigali",
+    "company": "Hexakomb",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-01T14:02:16Z"
   }
 ]

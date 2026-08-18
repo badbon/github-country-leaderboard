@@ -67330,5 +67330,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-26T20:20:18Z"
+  },
+  {
+    "login": "ZakariaTheLimbo",
+    "name": "ZakariaTheLimbo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6738300?s=72&u=ae2c1d5f59c70f62bb02cc02dbd9aeb396d2315b&v=4",
+    "location": "Algérie",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-20T14:29:02Z"
+  },
+  {
+    "login": "Mr-Robota",
+    "name": "Gacem Abdelmadjid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7649266?s=72&v=4",
+    "location": "Algérie",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2014-05-20T21:21:20Z"
   }
 ]

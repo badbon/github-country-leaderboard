@@ -93562,5 +93562,29 @@
     "privateContributions": 3,
     "publicContributions": 6,
     "createdAt": "2024-08-22T10:42:46Z"
+  },
+  {
+    "login": "FabianGermany",
+    "name": "Fabian Lüttel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65666929?s=72&u=7a1184d07a6282e8721e5044beddbe6b1af7cf36&v=4",
+    "location": "Stuttgart / Taipei",
+    "company": "Mercedes-Benz",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 42,
+    "publicContributions": 0,
+    "createdAt": "2020-05-20T14:04:43Z"
+  },
+  {
+    "login": "Alex01502409",
+    "name": "Alex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104775787?s=72&u=fb4e4425b58eaa51d1a46223ea1fdbeb61964b61&v=4",
+    "location": "Ukraine, Germany",
+    "company": "hsmw",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 35,
+    "publicContributions": 14,
+    "createdAt": "2022-05-02T14:05:37Z"
   }
 ]

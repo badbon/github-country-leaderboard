@@ -29458,5 +29458,89 @@
     "privateContributions": 0,
     "publicContributions": 63,
     "createdAt": "2009-11-02T07:01:51Z"
+  },
+  {
+    "login": "gen1us2k",
+    "name": "Andrew Zhuravlev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153196?s=72&u=05c193aa4b44ef3ac24ed563c3aacb575f654cbb&v=4",
+    "location": "Kyrgyzstan, Bishkek",
+    "company": "",
+    "twitterUsername": "gen1us2k",
+    "followers": 208,
+    "privateContributions": 544,
+    "publicContributions": 80,
+    "createdAt": "2009-11-14T11:25:46Z"
+  },
+  {
+    "login": "bashu",
+    "name": "Basil Sh.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144783?s=72&u=5e57185ae208c8bec6ae686b1b9d923b74b45914&v=4",
+    "location": "Bishkek, Kyrgyzstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 104,
+    "privateContributions": 1210,
+    "publicContributions": 203,
+    "createdAt": "2009-10-26T13:45:01Z"
+  },
+  {
+    "login": "2bj",
+    "name": "Bakyt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71068?s=72&u=074dae754c06481f75006eada8014dc7252af6ee&v=4",
+    "location": "Kyrgyzstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 62,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2009-04-06T18:02:13Z"
+  },
+  {
+    "login": "gantu",
+    "name": "Mirlan Ipasov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122715?s=72&u=72fcbfdbc67bdf8deb24cbf4730e792cc935cd5b&v=4",
+    "location": "Bishkek/Kyrgyzstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 546,
+    "publicContributions": 12,
+    "createdAt": "2009-09-03T07:41:43Z"
+  },
+  {
+    "login": "esen",
+    "name": "Esenbek Kydyr uulu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150481?s=72&u=80e9bd6edb2aca8eec8f03e16f801e9686f6cfef&v=4",
+    "location": "Bishkek, Kyrgyzstan",
+    "company": "@horizontalsystems",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 0,
+    "publicContributions": 338,
+    "createdAt": "2009-11-08T16:27:16Z"
+  },
+  {
+    "login": "ekratskih",
+    "name": "Edil Kratskih",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171325?s=72&u=9b73193f216e567c72bc4e56da2d7f53f53af019&v=4",
+    "location": "Kyrgyzstan, Bishkek",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 43,
+    "privateContributions": 841,
+    "publicContributions": 15,
+    "createdAt": "2009-12-23T09:50:34Z"
+  },
+  {
+    "login": "fomichov",
+    "name": "Vitaly Fomichev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116076?s=72&u=f55828e6355a2407a640074d6d664f1d30f09324&v=4",
+    "location": "Bishkek, Kyrgyzstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 207,
+    "publicContributions": 7,
+    "createdAt": "2009-08-17T11:26:41Z"
   }
 ]

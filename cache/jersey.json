@@ -862,5 +862,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2015-10-15T08:12:21Z"
+  },
+  {
+    "login": "marcusquinn",
+    "name": "Marcus Quinn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6428977?s=72&u=135e0cc0e5b6e10572147e5ad35c0b563c4135c3&v=4",
+    "location": "London, UK, Los-angeles, California, England, Jersey",
+    "company": "@evergreenjersey @awardsapp @wpallstars",
+    "twitterUsername": "marcuswquinn",
+    "followers": 209,
+    "privateContributions": 10557,
+    "publicContributions": 38990,
+    "createdAt": "2014-01-17T11:30:52Z"
+  },
+  {
+    "login": "Adrian609",
+    "name": "Adrian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6828291?s=72&u=1a6f2dfc36109b51a809e9d1b9747a723aa5a16b&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 44,
+    "privateContributions": 28,
+    "publicContributions": 131,
+    "createdAt": "2014-03-02T01:10:18Z"
+  },
+  {
+    "login": "harsimus",
+    "name": "Michael Martinez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9816612?s=72&u=369d2d6bea206f228592b488914cd002ba3832a8&v=4",
+    "location": "JERSEY",
+    "company": "@DIALUPSTUFF ",
+    "twitterUsername": "harsimus",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-18T06:08:33Z"
+  },
+  {
+    "login": "filmstarr",
+    "name": "Ross Huelin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7086227?s=72&u=d4ae26d93810742b07eeac24cf31a473da1c2f65&v=4",
+    "location": "Jersey | Channel Islands",
+    "company": "@vertix-je @altispartners",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 580,
+    "publicContributions": 58,
+    "createdAt": "2014-03-27T21:47:26Z"
   }
 ]
