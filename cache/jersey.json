@@ -1438,5 +1438,29 @@
     "privateContributions": 4552,
     "publicContributions": 1,
     "createdAt": "2011-10-10T16:16:31Z"
+  },
+  {
+    "login": "connorhaigh",
+    "name": "Connor Haigh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1282796?s=72&u=4a33305ee2691e7de99d2031a4e35881fa38416b&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "connorhaigh_je",
+    "followers": 6,
+    "privateContributions": 110,
+    "publicContributions": 14,
+    "createdAt": "2011-12-23T20:06:37Z"
+  },
+  {
+    "login": "doobox",
+    "name": "Doobox",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1026876?s=72&u=651edf97fb38959c90fcfe0824ddd5862081e372&v=4",
+    "location": "Jersey",
+    "company": "Doobox",
+    "twitterUsername": "doobox",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2011-09-05T08:22:12Z"
   }
 ]

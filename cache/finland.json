@@ -91534,5 +91534,65 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2018-08-28T09:41:33Z"
+  },
+  {
+    "login": "EetuHakkinen",
+    "name": "Eetu Häkkinen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35808236?s=72&v=4",
+    "location": "Järvenpää, Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-25T14:59:47Z"
+  },
+  {
+    "login": "Philetairos",
+    "name": "Attalos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41754423?s=72&u=ba0024d2dad69d72273ae24060a926ba4a8a3948&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1607,
+    "createdAt": "2018-07-26T16:48:50Z"
+  },
+  {
+    "login": "WhyNotYT",
+    "name": "Yumish",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35605924?s=72&u=ac2600f50e89f0841b16dee25bf0028475012950&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 85,
+    "publicContributions": 64,
+    "createdAt": "2018-01-19T16:04:02Z"
+  },
+  {
+    "login": "Santtu1980",
+    "name": "Samuli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38642576?s=72&u=89a8e46f98272d010691b59b6bd53aafb4bd8d44&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-23T05:13:46Z"
+  },
+  {
+    "login": "egghead00",
+    "name": "secret :3",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45304734?s=72&u=071deff1fb47c739deb1030d29c4890e907433fc&v=4",
+    "location": "suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-24T05:28:25Z"
   }
 ]

@@ -120514,5 +120514,113 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2012-10-17T14:41:26Z"
+  },
+  {
+    "login": "bacsa",
+    "name": "Bihari Csaba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2065842?s=72&v=4",
+    "location": "Budapest, Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-07-30T15:32:10Z"
+  },
+  {
+    "login": "Nexx4",
+    "name": "Tamas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2477989?s=72&u=b8dad89ceb73ec7aaf071a39f9c5c2a75fc7472c&v=4",
+    "location": "Budapest, Hungary",
+    "company": "",
+    "twitterUsername": "dev0603",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-10-03T09:21:43Z"
+  },
+  {
+    "login": "agostonrobert",
+    "name": "Róbert Ágoston",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2699497?s=72&v=4",
+    "location": "Szeged, Hungary",
+    "company": "HighTec EDV-Systeme GmbH",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-01T14:45:57Z"
+  },
+  {
+    "login": "Barna",
+    "name": "Barnabas Tarkovacs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1298895?s=72&v=4",
+    "location": "Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-02T13:00:39Z"
+  },
+  {
+    "login": "Shadowthegod",
+    "name": "Kurokami",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1615758?s=72&u=e2196b5286fdf4f7b9ffaab3129215c01917f304&v=4",
+    "location": "Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-04-05T14:47:03Z"
+  },
+  {
+    "login": "Upo",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1654972?s=72&v=4",
+    "location": "Baja, Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-04-18T09:54:42Z"
+  },
+  {
+    "login": "topolyai5",
+    "name": "Gergely Topolyai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2143158?s=72&v=4",
+    "location": "Hungary, Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-13T08:19:40Z"
+  },
+  {
+    "login": "DanielTipo",
+    "name": "Daniel Adamko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2452819?s=72&v=4",
+    "location": "Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-29T15:02:02Z"
+  },
+  {
+    "login": "dipacs",
+    "name": "David Ipacs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1754768?s=72&v=4",
+    "location": "Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2012-05-19T12:39:36Z"
   }
 ]

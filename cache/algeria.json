@@ -69850,5 +69850,53 @@
     "privateContributions": 53,
     "publicContributions": 0,
     "createdAt": "2010-11-15T22:12:43Z"
+  },
+  {
+    "login": "yacine",
+    "name": "Yacine Benzerroug",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50648?s=72&u=3ba434e3df5b2f60674bae559770b2bc31ee3f58&v=4",
+    "location": "Algeria",
+    "company": "",
+    "twitterUsername": "4rm",
+    "followers": 27,
+    "privateContributions": 12,
+    "publicContributions": 25,
+    "createdAt": "2009-01-31T03:35:38Z"
+  },
+  {
+    "login": "mouradhamoud",
+    "name": "Mourad Hamoud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55501?s=72&u=69324323c3dbede6ae5ce01587de696f163e3549&v=4",
+    "location": "Constantine, Algeria",
+    "company": "EURL Pragmatic Consulting",
+    "twitterUsername": "mouradhamoud",
+    "followers": 16,
+    "privateContributions": 3165,
+    "publicContributions": 0,
+    "createdAt": "2009-02-18T09:53:33Z"
+  },
+  {
+    "login": "ktalgerie",
+    "name": "Karim Khelouiati",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124829?s=72&v=4",
+    "location": "Algiers, Algeria",
+    "company": "KooTeo",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-09-09T08:19:15Z"
+  },
+  {
+    "login": "demmanmc",
+    "name": "CHERAA Charaf Eddine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107601?s=72&v=4",
+    "location": "Ouargla, Algeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-07-22T10:51:36Z"
   }
 ]

@@ -83998,5 +83998,53 @@
     "privateContributions": 0,
     "publicContributions": 40,
     "createdAt": "2018-04-06T09:58:30Z"
+  },
+  {
+    "login": "cognitaas",
+    "name": "Cognita AS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37689266?s=72&u=49d3b68c96f6e41a0bc6ed37c0dadf8721bbf421&v=4",
+    "location": "Oslo, Norway",
+    "company": "Cognita AS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-23T08:02:07Z"
+  },
+  {
+    "login": "De-vaR",
+    "name": "Dennis Vareide",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40265861?s=72&u=466344ab2714984a677d4de4e69a57e8f1e9d098&v=4",
+    "location": "Vestfold, Norway",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-14T10:47:08Z"
+  },
+  {
+    "login": "kjellcb",
+    "name": "Kjell Bruheim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37943533?s=72&u=f5967ed6add33c18b3bd7306af8ffc1060123088&v=4",
+    "location": "Norway",
+    "company": "Aquabyte",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-30T22:33:15Z"
+  },
+  {
+    "login": "drsaikirant88",
+    "name": "Saikiran Tharimena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39927505?s=72&u=6151d52285c079727c77e18ddcbadf09818ad405&v=4",
+    "location": "Oslo, Norway",
+    "company": "Nåva Space",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 51,
+    "publicContributions": 4,
+    "createdAt": "2018-06-04T20:41:48Z"
   }
 ]
