@@ -14554,5 +14554,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2017-05-03T15:26:35Z"
+  },
+  {
+    "login": "JDsystems",
+    "name": "Jesus David Salcedo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34328612?s=72&v=4",
+    "location": "San Marcos - Sucre - Colombia",
+    "company": "@InchcapeDigital",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 43,
+    "publicContributions": 0,
+    "createdAt": "2017-12-07T04:18:34Z"
+  },
+  {
+    "login": "Dulco",
+    "name": "Juan José Ortiz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30907887?s=72&v=4",
+    "location": "Sincelejo, Sucre",
+    "company": "Cetus Technology",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-10T17:53:58Z"
   }
 ]

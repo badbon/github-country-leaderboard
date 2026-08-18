@@ -79282,5 +79282,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-21T16:08:36Z"
+  },
+  {
+    "login": "azhorsmann",
+    "name": "Anders Zoffmann Horsmann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35032533?s=72&v=4",
+    "location": "Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-02T13:03:51Z"
+  },
+  {
+    "login": "Tjampen",
+    "name": "Tobias Nielsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35641063?s=72&u=f87cc60030520b4eb7ef1de05cb0ed9982c0f709&v=4",
+    "location": "Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 14,
+    "publicContributions": 0,
+    "createdAt": "2018-01-20T21:31:56Z"
+  },
+  {
+    "login": "nordholm",
+    "name": "Thorsten Søbirk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36820775?s=72&u=6f6f3499df13b2571c90ea9805d323cb0def8261&v=4",
+    "location": "Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-25T17:04:50Z"
+  },
+  {
+    "login": "wolfquin",
+    "name": "Ahmad A.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39220388?s=72&v=4",
+    "location": "Denmark, Copenhagen",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-12T15:35:23Z"
   }
 ]

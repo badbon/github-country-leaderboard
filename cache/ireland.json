@@ -70246,5 +70246,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-04-14T18:34:43Z"
+  },
+  {
+    "login": "3mm4h3ff",
+    "name": "Emma Heffernan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46684602?s=72&u=336bd2f7dff16a428f9e408a5713cc0264a5ae65&v=4",
+    "location": "Éire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-14T16:48:36Z"
+  },
+  {
+    "login": "DarrenDMSFT",
+    "name": "Darren Doyle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50619680?s=72&u=69007ca566868dda5d21c0e48e34c1443e73dd0e&v=4",
+    "location": "Baile Átha Cliath, Éire / Dublin, Ireland",
+    "company": "Microsoft Corporation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-14T09:57:46Z"
   }
 ]
