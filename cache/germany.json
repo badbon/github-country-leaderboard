@@ -116698,5 +116698,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-15T10:31:13Z"
+  },
+  {
+    "login": "veragajiu",
+    "name": "Vera Gajiu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97439702?s=72&u=18fbb69fe27093b08a784e1080ea096abd0e986b&v=4",
+    "location": "Passau (Germany), Ferrara (Italy)",
+    "company": "Universität Passau / Università di Ferrara",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2022-01-10T09:51:22Z"
+  },
+  {
+    "login": "eckenbaer",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114236433?s=72&u=553a5ba713187425e956f2ee4cb76229b0c507be&v=4",
+    "location": "Germany/Poland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-23T12:57:48Z"
+  },
+  {
+    "login": "mbalonek",
+    "name": "Monika Balonek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114364387?s=72&u=550858db5ddac757e3feef656d12d62afb68265c&v=4",
+    "location": "Germany / Poland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 78,
+    "publicContributions": 0,
+    "createdAt": "2022-09-25T21:05:26Z"
   }
 ]

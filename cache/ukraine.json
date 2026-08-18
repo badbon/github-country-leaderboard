@@ -98026,5 +98026,65 @@
     "privateContributions": 137,
     "publicContributions": 84,
     "createdAt": "2022-03-13T15:32:42Z"
+  },
+  {
+    "login": "las-mi",
+    "name": "Mikhailo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112724994?s=72&u=c9b47fc547b38d6d1abd15e7659fa719b12de36a&v=4",
+    "location": "Dnipro",
+    "company": "Home",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-02T18:34:34Z"
+  },
+  {
+    "login": "494CVV",
+    "name": "Vitalii Teresh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120543200?s=72&u=646ed478b2cd7c17ff348023291e0e31f50c21c6&v=4",
+    "location": "Dnipro",
+    "company": "IT Dnepr",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-14T04:11:18Z"
+  },
+  {
+    "login": "Olexandr-Shyshko",
+    "name": "Olexandr-Shyshko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105589204?s=72&v=4",
+    "location": "Dnipro",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-15T11:24:18Z"
+  },
+  {
+    "login": "TanyaDemi",
+    "name": "Tanya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107206623?s=72&u=151a5a2c16875473e3f6746b3007112725dc1df2&v=4",
+    "location": "Dnipro",
+    "company": "PE DEMIDOVA TETIANA OLEKSANDRIVNA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2022-06-09T16:29:42Z"
+  },
+  {
+    "login": "katiashki",
+    "name": "Katia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106595280?s=72&u=0bdcbb5c387bf34dbbbb0ad687b8fdfd696d48f3&v=4",
+    "location": "Dnipro",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-31T11:35:16Z"
   }
 ]

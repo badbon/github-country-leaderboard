@@ -108562,5 +108562,41 @@
     "privateContributions": 2,
     "publicContributions": 1,
     "createdAt": "2023-03-24T23:31:25Z"
+  },
+  {
+    "login": "JonathanTron",
+    "name": "Jonathan Tron",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2976?s=72&v=4",
+    "location": "France / Luxembourg",
+    "company": "Openhood ",
+    "twitterUsername": "JonathanTron",
+    "followers": 43,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2008-03-13T10:03:52Z"
+  },
+  {
+    "login": "gauthier",
+    "name": "Gauthier Delamarre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32955?s=72&u=76891beb02b27165a3a9b6bc5267b3344fe685dd&v=4",
+    "location": "France/Luxembourg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 36,
+    "privateContributions": 48,
+    "publicContributions": 26,
+    "createdAt": "2008-11-06T10:00:44Z"
+  },
+  {
+    "login": "devsiel",
+    "name": "devsiel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2788036?s=72&v=4",
+    "location": "France / Tunisia",
+    "company": "IRD / IRA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-13T15:30:46Z"
   }
 ]
