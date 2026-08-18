@@ -78091,7 +78091,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1094,
+    "privateContributions": 1096,
     "publicContributions": 12,
     "createdAt": "2019-06-25T09:58:38Z"
   },
@@ -88018,5 +88018,113 @@
     "privateContributions": 0,
     "publicContributions": 172,
     "createdAt": "2009-09-14T10:16:02Z"
+  },
+  {
+    "login": "stefanosEshare",
+    "name": "Stefanos Athanasoulias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54799923?s=72&u=20463803a72ed1219498e5c7b849b37dfcb15de4&v=4",
+    "location": "Athens",
+    "company": "@nCryptedCloudLCC ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-02T09:44:51Z"
+  },
+  {
+    "login": "Giann-85uu",
+    "name": "Giannis Stringlis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57185268?s=72&u=a06c69e6de14fed2c1040e7795b4dca7d3ef8ba2&v=4",
+    "location": "Athens",
+    "company": "Agricultural University of Athens",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-30T14:27:20Z"
+  },
+  {
+    "login": "korinious",
+    "name": "Korina Kourkouta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58111182?s=72&u=2fec8095af5ed2ac22cdfe7e436eee8e7c2feac9&v=4",
+    "location": "Athens",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-23T13:39:54Z"
+  },
+  {
+    "login": "johnlakk",
+    "name": "Ioannis Lakkas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48771911?s=72&u=638e436e152e801ebf4ad2cd9e97fc13228b311a&v=4",
+    "location": "Athens",
+    "company": "Athens University Of Economics and Business ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-20T19:51:41Z"
+  },
+  {
+    "login": "ydimitrop",
+    "name": "Giannis Dimitropoulos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54980381?s=72&u=4099fc4d6a75ff5e5aef05bcd6fd0c639f5ce948&v=4",
+    "location": "Athens",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-06T08:56:43Z"
+  },
+  {
+    "login": "pggeorgakis",
+    "name": "Panagiotis Georgakis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53570223?s=72&u=9fe51357b5648d048b4859c948261ae3d56f8523&v=4",
+    "location": "Athens",
+    "company": "NTUA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2019-08-01T13:38:27Z"
+  },
+  {
+    "login": "redwanUGA",
+    "name": "Md. Redwan Islam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47606167?s=72&u=e32175d99b550886b773478f9504edcb0375fb93&v=4",
+    "location": "Athens, GA",
+    "company": "University of Georgia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 72,
+    "publicContributions": 60,
+    "createdAt": "2019-02-13T16:51:29Z"
+  },
+  {
+    "login": "AnastasiadesDev",
+    "name": "Anastasiadis Konstantinos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57959168?s=72&u=beeb83076229db47d80f1d85b0d598aefcfff660&v=4",
+    "location": "Athens",
+    "company": "Anastasiades",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-19T17:17:59Z"
+  },
+  {
+    "login": "pikerasovi",
+    "name": "Pinelopi Kerasoviti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57732366?s=72&v=4",
+    "location": "Athens",
+    "company": "3o Νηπιαγωγείο Αργυρούπολης",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2019-11-13T22:15:09Z"
   }
 ]

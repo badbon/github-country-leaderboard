@@ -84331,7 +84331,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 1699,
+    "privateContributions": 1700,
     "publicContributions": 1058,
     "createdAt": "2011-05-09T13:35:20Z"
   },
@@ -84790,5 +84790,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-12T14:03:57Z"
+  },
+  {
+    "login": "fredyeboah",
+    "name": "Fred Yeboah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/668511?s=72&u=6fd03b284d667e4c63acae80472011e16a373a86&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-14T11:52:58Z"
+  },
+  {
+    "login": "lordrom",
+    "name": "romuald",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1173543?s=72&v=4",
+    "location": "Accra",
+    "company": "rom security",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-04T22:57:59Z"
+  },
+  {
+    "login": "mdonkor",
+    "name": "Maxwell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1155652?s=72&v=4",
+    "location": "Accra",
+    "company": "INNOKIQ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-27T13:19:10Z"
+  },
+  {
+    "login": "LILESAYPEE",
+    "name": "ASAMOAH PAUL",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/758896?s=72&v=4",
+    "location": "ACCRA",
+    "company": "DEEGREAS LT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-29T12:17:32Z"
   }
 ]

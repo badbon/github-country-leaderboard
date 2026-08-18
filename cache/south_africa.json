@@ -98554,5 +98554,41 @@
     "privateContributions": 368,
     "publicContributions": 0,
     "createdAt": "2020-01-06T06:40:11Z"
+  },
+  {
+    "login": "RyanVDW",
+    "name": "Ryan van der Westhuizen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64264560?s=72&u=2a6a80cea4442f40b561b49022d16838b83c5ac7&v=4",
+    "location": "Cape Town",
+    "company": "@GumtreeZA ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-24T12:54:38Z"
+  },
+  {
+    "login": "ThabangZA",
+    "name": "Thabang Mahasa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64114828?s=72&v=4",
+    "location": "Cape Town",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-22T01:49:14Z"
+  },
+  {
+    "login": "mrdc82",
+    "name": "Constantinos (Dino) Charalambous",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67365105?s=72&u=43c91c6cc77aeb8b4418b8716ab25ed8eb36d0a2&v=4",
+    "location": "Cape Town",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-06-24T08:29:52Z"
   }
 ]

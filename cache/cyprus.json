@@ -30583,7 +30583,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 2375,
+    "privateContributions": 2386,
     "publicContributions": 34,
     "createdAt": "2011-01-27T08:21:18Z"
   },
@@ -31870,5 +31870,41 @@
     "privateContributions": 91,
     "publicContributions": 0,
     "createdAt": "2011-01-12T08:47:54Z"
+  },
+  {
+    "login": "thesunwave",
+    "name": "Artur Malev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1277102?s=72&u=f9bac304cdd7ff4f8c3a64503e379db5ce6980ec&v=4",
+    "location": "Nicosia, CY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 119,
+    "createdAt": "2011-12-21T08:04:55Z"
+  },
+  {
+    "login": "dzeina",
+    "name": "Demetris Zeinalipour",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1098439?s=72&v=4",
+    "location": "Nicosia",
+    "company": "University of Cyprus",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-03T10:21:55Z"
+  },
+  {
+    "login": "ScottyLee",
+    "name": "Лапшин Антон",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/581349?s=72&u=93e64e5cbb16f951ba8cd03c7b11134387bfec64&v=4",
+    "location": "Nicosia",
+    "company": "Wargaming",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-24T19:07:40Z"
   }
 ]
