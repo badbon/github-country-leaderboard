@@ -41998,5 +41998,77 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2013-05-04T13:29:03Z"
+  },
+  {
+    "login": "eliethesaiyan",
+    "name": "Magambo Gatete Elie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6031044?s=72&u=06414f0b83146c130e64f9f267063b6877e6bd28&v=4",
+    "location": "Kigali",
+    "company": "codepac",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 18,
+    "publicContributions": 1,
+    "createdAt": "2013-11-25T13:07:24Z"
+  },
+  {
+    "login": "yido",
+    "name": "Yididiya Gebredingel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5278131?s=72&u=98b9fa3a7853008fbccf5bb8e16bf6967fca72c4&v=4",
+    "location": "Kigali",
+    "company": "One Acre Fund",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-21T12:13:35Z"
+  },
+  {
+    "login": "kariscomp",
+    "name": "Peter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4113576?s=72&u=49b5ba3b77a0b57c587bd994856daff779fe6cd5&v=4",
+    "location": "Kigali",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 25,
+    "publicContributions": 0,
+    "createdAt": "2013-04-10T09:27:32Z"
+  },
+  {
+    "login": "elrnpsm",
+    "name": "SHEMA Elvis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5254935?s=72&u=997d2f886e8c8894b92cd2e72807aa18a1e8364f&v=4",
+    "location": "Kigali",
+    "company": "Digital Creations",
+    "twitterUsername": "elrnpsm",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-18T12:06:54Z"
+  },
+  {
+    "login": "akimbertin",
+    "name": "Bertin Akim Mpagazi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5815343?s=72&v=4",
+    "location": "Kigali",
+    "company": "CMU",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-30T16:06:41Z"
+  },
+  {
+    "login": "endikumana",
+    "name": "Ndikumana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5724140?s=72&v=4",
+    "location": "kigali",
+    "company": "kist",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-19T08:25:54Z"
   }
 ]

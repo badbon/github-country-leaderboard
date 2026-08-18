@@ -88054,5 +88054,53 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2024-04-24T22:03:50Z"
+  },
+  {
+    "login": "iSonik",
+    "name": "Arthur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47069147?s=72&u=cc81785916658ac3cd741e62f9b66d850b424ead&v=4",
+    "location": "Vienna (AT) & London (UK)",
+    "company": "SUPERFREY",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 2001,
+    "publicContributions": 24,
+    "createdAt": "2019-01-26T23:28:24Z"
+  },
+  {
+    "login": "ngocphucck",
+    "name": "Buckley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53470099?s=72&u=8587ba5625e55752f02447006c92fb1683038daa&v=4",
+    "location": "Belfast, Northern Ireland, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2019-07-30T08:58:50Z"
+  },
+  {
+    "login": "e-delaney",
+    "name": "Eoin Delaney",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55100385?s=72&u=a97585418787fb5887f6757643ab5d0c2b2379dc&v=4",
+    "location": "Dublin, Ireland + Oxford, United Kingdom",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2019-09-09T15:45:26Z"
+  },
+  {
+    "login": "O4FDev",
+    "name": "Luke Lucas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52675277?s=72&u=acac7f620b71a60104d4b20baa84623c9a656b95&v=4",
+    "location": "Belfast, Northern Ireland. ",
+    "company": "Hoppa",
+    "twitterUsername": "YouAreExisting",
+    "followers": 18,
+    "privateContributions": 830,
+    "publicContributions": 41,
+    "createdAt": "2019-07-08T18:28:17Z"
   }
 ]
