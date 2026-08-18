@@ -91606,5 +91606,29 @@
     "privateContributions": 52,
     "publicContributions": 50,
     "createdAt": "2021-01-19T23:48:47Z"
+  },
+  {
+    "login": "degarciacastro",
+    "name": "Damian Garcia-Castro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87437160?s=72&u=0bb0c5c02adac3ff392895b9f1668ea7d5cfefef&v=4",
+    "location": "Santiago de Compostela",
+    "company": "IGFAE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-07-14T15:34:31Z"
+  },
+  {
+    "login": "MatLumber",
+    "name": "Matias Ignacio Mardones Muñoz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89222794?s=72&u=4f5115271d86a6b8ede55a05f65d19d10f1b14f4&v=4",
+    "location": "Santiago, Maipú",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1763,
+    "publicContributions": 132,
+    "createdAt": "2021-08-19T20:12:25Z"
   }
 ]

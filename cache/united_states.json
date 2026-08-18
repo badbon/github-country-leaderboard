@@ -156142,5 +156142,65 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-06-23T19:02:16Z"
+  },
+  {
+    "login": "DanielRPhillips",
+    "name": "Daniel Phillips",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47334284?s=72&u=d47eaac101dd41b602e548305be368a663e4ca3c&v=4",
+    "location": "Athens, OH, USA",
+    "company": "Ohio University",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 103,
+    "createdAt": "2019-02-04T19:24:39Z"
+  },
+  {
+    "login": "RoastBeefer00",
+    "name": "Jake Jasmin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95258476?s=72&u=ac46f4168871cba993ee66067c05b610b2635c76&v=4",
+    "location": "New Mexico, USA",
+    "company": "Mayo Clinic",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 4,
+    "publicContributions": 506,
+    "createdAt": "2021-11-30T00:06:56Z"
+  },
+  {
+    "login": "melvingiovanniperez",
+    "name": "Melvin G Perez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64896520?s=72&u=bfd3600f9cd509d7741d3892210c39e988c735fe&v=4",
+    "location": "United States | Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-06T09:21:00Z"
+  },
+  {
+    "login": "MarkCodering",
+    "name": "Mark Chen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58692435?s=72&u=473b423991d2007ab8b097784977dfd8a92dae83&v=4",
+    "location": "Taiwan / U.S",
+    "company": "@mindify-ai",
+    "twitterUsername": "MarkChenNext",
+    "followers": 45,
+    "privateContributions": 3014,
+    "publicContributions": 398,
+    "createdAt": "2019-12-09T12:45:31Z"
+  },
+  {
+    "login": "aubergine-ux",
+    "name": "ruby",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126033183?s=72&u=2ca8a132d169c3b978550184be061c5a9a0a9516&v=4",
+    "location": "New England, United States",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 54,
+    "privateContributions": 215,
+    "publicContributions": 412,
+    "createdAt": "2023-02-22T01:12:52Z"
   }
 ]
