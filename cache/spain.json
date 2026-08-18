@@ -89578,5 +89578,53 @@
     "privateContributions": 236,
     "publicContributions": 98,
     "createdAt": "2021-12-19T22:33:38Z"
+  },
+  {
+    "login": "CodeAndrea",
+    "name": "Andrea Chancay Tituaña",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171055551?s=72&u=15a7701a2d563af3daba1ff75386ebe08fb9b110&v=4",
+    "location": "Madrid",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-28T15:06:23Z"
+  },
+  {
+    "login": "alejandrocuestagarcia",
+    "name": "Alejandro Cuesta García",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158502750?s=72&u=526aff6b75255f5fddf212b4c883889fe51bdddb&v=4",
+    "location": "Madrid",
+    "company": "@UC3M",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-02-01T17:25:03Z"
+  },
+  {
+    "login": "chemarodriguez-jt",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170020391?s=72&u=0e52a0e4c112ac29a3b7dd06610c9f52bafe8377&v=4",
+    "location": "Madrid",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2024-05-16T15:13:47Z"
+  },
+  {
+    "login": "Idautterstrom",
+    "name": "Ida Utterström",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80784577?s=72&u=86480a5c90e206cd48e55db2723c8a33d9eee31d&v=4",
+    "location": "Barcelona & Stockholm",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-16T18:44:06Z"
   }
 ]

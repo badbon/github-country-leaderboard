@@ -134266,5 +134266,113 @@
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2021-06-15T08:42:49Z"
+  },
+  {
+    "login": "rtestardi",
+    "name": "Rich T",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/341166?s=72&u=7f4c056db4910f575c924aafd9abdf365a411b37&v=4",
+    "location": "Beaver Island, MI, USA",
+    "company": "Microsoft (ex)",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 1,
+    "publicContributions": 140,
+    "createdAt": "2010-07-22T19:10:52Z"
+  },
+  {
+    "login": "bieschke",
+    "name": "Eric Bieschke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/342430?s=72&u=4e569596ea10e5228429b16c4220474b2705a081&v=4",
+    "location": "Bainbridge Island, Washington, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2010-07-23T23:54:14Z"
+  },
+  {
+    "login": "lipcpro",
+    "name": "Wes Roepken",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/444797?s=72&v=4",
+    "location": "Long Island, NY, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-19T01:00:31Z"
+  },
+  {
+    "login": "imaginationac",
+    "name": "Dorian Patterson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/424106?s=72&v=4",
+    "location": "Rhode Island, United States",
+    "company": "Revature",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-02T01:04:25Z"
+  },
+  {
+    "login": "hendricd",
+    "name": "Doug Hendricks",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176884?s=72&v=4",
+    "location": "Long Island, New York",
+    "company": "It's all me, baby",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-01-05T18:22:24Z"
+  },
+  {
+    "login": "tchopoorian",
+    "name": "Tim Chopoorian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/506637?s=72&v=4",
+    "location": "Rhode Island, U.S.A.",
+    "company": "Tenzo Labs",
+    "twitterUsername": "tchopoorian",
+    "followers": 4,
+    "privateContributions": 1811,
+    "publicContributions": 0,
+    "createdAt": "2010-12-02T14:18:57Z"
+  },
+  {
+    "login": "tgalazka",
+    "name": "Thomas Galazka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/326643?s=72&v=4",
+    "location": "Long Island, NY, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-08T17:36:53Z"
+  },
+  {
+    "login": "pkarlsson",
+    "name": "Phillip Karlsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/358954?s=72&v=4",
+    "location": "Rhode Island, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-09T18:42:25Z"
+  },
+  {
+    "login": "cmonelt",
+    "name": "Christopher E. Monelt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/403891?s=72&v=4",
+    "location": "Long Island, New York",
+    "company": "LightYear Creative",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-17T03:59:50Z"
   }
 ]

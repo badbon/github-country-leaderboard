@@ -2506,5 +2506,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-03-23T14:20:13Z"
+  },
+  {
+    "login": "oceatoon",
+    "name": "Tibor Katelbach",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/192076?s=72&u=0ad6170c0d4d81e4dd8bb8ee622d8434d3510666&v=4",
+    "location": "Reunion island",
+    "company": "Oceatoon and Open R&D",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 0,
+    "publicContributions": 124,
+    "createdAt": "2010-01-29T06:10:57Z"
+  },
+  {
+    "login": "mebyz",
+    "name": "Emmanuel BOTROS YOUSSEF",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/517663?s=72&v=4",
+    "location": "reunion island (FR)",
+    "company": "PistahX",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 34,
+    "publicContributions": 15,
+    "createdAt": "2010-12-10T10:58:26Z"
+  },
+  {
+    "login": "danypayet",
+    "name": "Dany Payet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/341856?s=72&u=71e8386a50bece6d8e01bf6b583a1df9e017aba8&v=4",
+    "location": "Reunion island",
+    "company": "MedialightESN",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-23T12:21:03Z"
   }
 ]

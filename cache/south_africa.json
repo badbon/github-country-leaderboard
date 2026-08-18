@@ -79354,5 +79354,65 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2021-12-10T10:04:17Z"
+  },
+  {
+    "login": "Dvandenberg1999",
+    "name": "Derick van den Berg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59480114?s=72&u=fb9c00c2f53d7f758d2a6f4b4a1af5237fb4b1fa&v=4",
+    "location": "Republic of South Africa",
+    "company": "GitHub",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-03T15:19:24Z"
+  },
+  {
+    "login": "Abzobio",
+    "name": "Mr.Abzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64267528?s=72&v=4",
+    "location": "Republic of South Africa",
+    "company": "_UnderScore_",
+    "twitterUsername": "MrNdudula",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-24T13:55:04Z"
+  },
+  {
+    "login": "brownEFX",
+    "name": "Karabo Tabane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61653111?s=72&u=67ecca1f9442cdad4baf02a82e51a099b212158e&v=4",
+    "location": "Johannesburg, Republic of South Africa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 166,
+    "createdAt": "2020-03-01T12:05:21Z"
+  },
+  {
+    "login": "0xCallo",
+    "name": "0xCallo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71058963?s=72&u=212dc5f32c1bc5aaf21a0304a8d1839c1a245a9a&v=4",
+    "location": "Republic of South Africa",
+    "company": "SouthCiphers",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 10,
+    "publicContributions": 0,
+    "createdAt": "2020-09-10T05:06:32Z"
+  },
+  {
+    "login": "Sherz09ZN",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63417149?s=72&u=3899bb3ff3e8bb46b2278387de1173408a060ee3&v=4",
+    "location": "Republic of South Africa",
+    "company": "Xperience Software Systems",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-09T16:45:48Z"
   }
 ]
