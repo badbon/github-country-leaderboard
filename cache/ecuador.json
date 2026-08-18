@@ -58822,5 +58822,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-09-11T17:53:31Z"
+  },
+  {
+    "login": "olabini",
+    "name": "Ola Bini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6158?s=72&u=d29f97e641f75aeebc3b252d0e853a9a65984caf&v=4",
+    "location": "Quito, Ecuador",
+    "company": "Centro de Autonomía Digital",
+    "twitterUsername": "",
+    "followers": 621,
+    "privateContributions": 0,
+    "publicContributions": 119,
+    "createdAt": "2008-04-10T11:08:51Z"
+  },
+  {
+    "login": "joselo",
+    "name": "Jose Carrion",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4682?s=72&u=28c0dc1b7ae91d942b2873459a8d4540be7bbc3c&v=4",
+    "location": "Quito - Ecuador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 57,
+    "privateContributions": 3038,
+    "publicContributions": 195,
+    "createdAt": "2008-04-03T19:49:16Z"
+  },
+  {
+    "login": "pabloveintimilla",
+    "name": "Pablo Veintimilla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31135?s=72&u=7406bc91b06e19a2d98ec4b1fd48dd8938c1fe17&v=4",
+    "location": "Quito, Ecuador",
+    "company": "PPM",
+    "twitterUsername": "pveintimilla",
+    "followers": 44,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2008-10-26T18:18:59Z"
+  },
+  {
+    "login": "mrluc",
+    "name": "Luc Fueston",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38204?s=72&v=4",
+    "location": "Minneapolis || Ecuador || PacNW",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 40,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2008-12-04T03:51:45Z"
   }
 ]

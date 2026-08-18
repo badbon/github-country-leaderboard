@@ -93406,5 +93406,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-24T08:26:16Z"
+  },
+  {
+    "login": "JBeires",
+    "name": "João Beires",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86243066?s=72&u=ab112b527398c7d41e032e44f2a34a133c64ac9c&v=4",
+    "location": "Portugal",
+    "company": "",
+    "twitterUsername": "_Beires_",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-21T13:45:33Z"
+  },
+  {
+    "login": "ro0tkey",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85591886?s=72&u=7dc9f4cbf4528a656ac86fa96244c8053458fb6c&v=4",
+    "location": "Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-08T23:28:45Z"
+  },
+  {
+    "login": "ivanbaha",
+    "name": "Ivan Baha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83644576?s=72&u=68fc12c2833f81d462a87f0ece51eccb557e1201&v=4",
+    "location": "Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 127,
+    "publicContributions": 68,
+    "createdAt": "2021-05-04T10:51:32Z"
   }
 ]

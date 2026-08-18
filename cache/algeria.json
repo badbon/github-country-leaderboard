@@ -47167,7 +47167,7 @@
     "company": "Towfik Alrazihi",
     "twitterUsername": "alrazihi",
     "followers": 7,
-    "privateContributions": 435,
+    "privateContributions": 440,
     "publicContributions": 35,
     "createdAt": "2013-07-21T09:37:52Z"
   },
@@ -67591,7 +67591,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 41,
-    "privateContributions": 4228,
+    "privateContributions": 4294,
     "publicContributions": 0,
     "createdAt": "2013-09-19T17:08:51Z"
   },
@@ -68170,5 +68170,125 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2013-05-20T10:25:35Z"
+  },
+  {
+    "login": "snufkintardis",
+    "name": "AhmedB",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5646844?s=72&v=4",
+    "location": "Algeria",
+    "company": "Ki",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-09T12:24:53Z"
+  },
+  {
+    "login": "st7TEAM",
+    "name": "redouane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5854632?s=72&v=4",
+    "location": "ALGERIA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-04T21:08:58Z"
+  },
+  {
+    "login": "kaliheragmi",
+    "name": "Heraguemi Kamel eddine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6238674?s=72&v=4",
+    "location": "Algeria",
+    "company": "kaliHost",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-21T22:48:43Z"
+  },
+  {
+    "login": "kimboox44",
+    "name": "Kimboo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6249859?s=72&u=402b320e2c85aed38cdca4b7f3fc5d4bf368df07&v=4",
+    "location": "Algeria",
+    "company": "Inovyx",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-23T20:48:58Z"
+  },
+  {
+    "login": "CheboutMS",
+    "name": "Mohamed sedik CHEBOUT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5386169?s=72&u=1a95c7b2e9279e95740a3f08baed6e9651e0589e&v=4",
+    "location": "Algeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-04T22:14:32Z"
+  },
+  {
+    "login": "bifout",
+    "name": "Sofiane Bifout",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5540399?s=72&u=58958b68257a8b6f640f9be5606591e568ea859a&v=4",
+    "location": "Algeria",
+    "company": "DEVAIOSOFT",
+    "twitterUsername": "bifout",
+    "followers": 2,
+    "privateContributions": 443,
+    "publicContributions": 0,
+    "createdAt": "2013-09-25T13:58:52Z"
+  },
+  {
+    "login": "licvol",
+    "name": "Mohamed Lichouri ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5556765?s=72&v=4",
+    "location": "Algiers-Algeria",
+    "company": "@USTHB",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-27T09:58:01Z"
+  },
+  {
+    "login": "Reda-Beloued",
+    "name": "Reda Beloued",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5644783?s=72&v=4",
+    "location": "Algeria",
+    "company": "None",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-09T07:23:00Z"
+  },
+  {
+    "login": "abderrahmene",
+    "name": "abderrahmen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6250695?s=72&v=4",
+    "location": "Oran, Algeria.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-24T00:12:56Z"
+  },
+  {
+    "login": "boudellaredouane",
+    "name": "Redouane M. BOUDELLA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5064169?s=72&v=4",
+    "location": "Algiers, ALGERIA",
+    "company": "Developatic",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-22T10:31:55Z"
   }
 ]

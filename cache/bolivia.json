@@ -15766,5 +15766,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-04-14T00:38:52Z"
+  },
+  {
+    "login": "andresh0816",
+    "name": "Andres Hernandez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20376163?s=72&u=15e56924b7153b8acb676191d34a53daffa97312&v=4",
+    "location": "Morroa, Sucre",
+    "company": "Bytars",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2016-07-10T00:20:34Z"
+  },
+  {
+    "login": "SeniorW",
+    "name": "William Senior",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24482551?s=72&u=7acf500e2aeabbe1ef3dd1963f818f2eaffcf22d&v=4",
+    "location": "Cumaná, edo. Sucre",
+    "company": "Universidad de Oriente (UDO), Instituto Oceanográfico de Venezuela (IOV).",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-09T19:17:31Z"
   }
 ]

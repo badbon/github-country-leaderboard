@@ -56251,7 +56251,7 @@
     "company": "Luigi's Box Inc., @luigisbox ",
     "twitterUsername": "",
     "followers": 42,
-    "privateContributions": 769,
+    "privateContributions": 774,
     "publicContributions": 7,
     "createdAt": "2008-07-31T08:10:43Z"
   },
@@ -56434,5 +56434,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-12-01T23:27:25Z"
+  },
+  {
+    "login": "hidden",
+    "name": "Peter Student",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40274?s=72&u=0f1c9b3826914186205894e44f3c1b1e4e5c3bdd&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-12-13T23:23:41Z"
+  },
+  {
+    "login": "shine",
+    "name": "Viktor Brylov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19620?s=72&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-08-05T10:37:25Z"
+  },
+  {
+    "login": "vsuchy",
+    "name": "Vlad Suchy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33423?s=72&u=ba49955c8b8f6bcf96f0de50c19b4189212f357b&v=4",
+    "location": "Bratislava, SK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 97,
+    "publicContributions": 112,
+    "createdAt": "2008-11-09T01:29:17Z"
   }
 ]
