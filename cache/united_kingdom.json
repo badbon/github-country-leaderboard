@@ -84286,5 +84286,41 @@
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2024-05-09T03:26:37Z"
+  },
+  {
+    "login": "paddyduff31",
+    "name": "Patrick Duff",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48367859?s=72&u=4d75894897bcf15f0a9930f5ba973642c14ed32d&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "PA Consulting",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2019-03-08T21:30:54Z"
+  },
+  {
+    "login": "ruaidhri13",
+    "name": "Ruaidhri O'Neill",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49767184?s=72&u=995a4a442f5b1cf01ee2a6d75f96fbdce2e73dad&v=4",
+    "location": "Northern Ireland",
+    "company": "QUB",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1,
+    "publicContributions": 119,
+    "createdAt": "2019-04-18T21:07:31Z"
+  },
+  {
+    "login": "maksimlozovskii512",
+    "name": "Maksim Lozovskii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46424539?s=72&u=7be3d43513f2b890520d6104d8442dc1b7efe3da&v=4",
+    "location": "Northern Ireland, UK",
+    "company": "Open-to-Work",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2019-01-06T17:58:58Z"
   }
 ]

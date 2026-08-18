@@ -910,5 +910,41 @@
     "privateContributions": 580,
     "publicContributions": 58,
     "createdAt": "2014-03-27T21:47:26Z"
+  },
+  {
+    "login": "Tantina",
+    "name": "Tatiana Kurenkova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9528417?s=72&u=c281f3ba674a88e8bccb1db628e02af5ff18a803&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "Mews",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-03T09:37:37Z"
+  },
+  {
+    "login": "illest13",
+    "name": "Mark Union",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6757610?s=72&v=4",
+    "location": "Jersey",
+    "company": "Chairmix",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-22T17:15:29Z"
+  },
+  {
+    "login": "chesnay",
+    "name": "Francois Chesnay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8298010?s=72&u=74bc283b5c8303c54e56de1d25eaf53a50ba846c&v=4",
+    "location": "Jersey (Channel Islands)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-07-29T09:29:37Z"
   }
 ]
