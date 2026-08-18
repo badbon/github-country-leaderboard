@@ -107770,5 +107770,65 @@
     "privateContributions": 135,
     "publicContributions": 47,
     "createdAt": "2023-01-05T18:44:00Z"
+  },
+  {
+    "login": "sgarrity",
+    "name": "Steven Garrity",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58062?s=72&u=1854c8df5391036accd16f59bb52c1e0be0d6b10&v=4",
+    "location": "Charlottetown, Prince Edward Island, Canada",
+    "company": "@silverorange",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 135,
+    "publicContributions": 2,
+    "createdAt": "2009-02-26T01:38:44Z"
+  },
+  {
+    "login": "tecnobrat",
+    "name": "Brian Stolz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145406?s=72&u=d8fad844bc808967abcae8508975b95bbd8b047a&v=4",
+    "location": "Vancouver Island, BC, Canada",
+    "company": "@articulate",
+    "twitterUsername": "tecnobrat",
+    "followers": 32,
+    "privateContributions": 6904,
+    "publicContributions": 16,
+    "createdAt": "2009-10-27T18:08:40Z"
+  },
+  {
+    "login": "lanej0",
+    "name": "Jonathan Lane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80276?s=72&v=4",
+    "location": "Mayne Island, BC, Canada",
+    "company": "@roofr ",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 579,
+    "publicContributions": 87,
+    "createdAt": "2009-05-02T19:36:37Z"
+  },
+  {
+    "login": "dleblanc",
+    "name": "Dave LeBlanc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119001?s=72&u=dd3acf4923a44dc38d7af494d90d7b3046eb8311&v=4",
+    "location": "Vancouver Island, British Columbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 1875,
+    "publicContributions": 8,
+    "createdAt": "2009-08-24T19:15:24Z"
+  },
+  {
+    "login": "albert4750",
+    "name": "Albert Huang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72249184?s=72&u=a69a2cd2904a62fedcc68a6abd9e2c5147cdcf9a&v=4",
+    "location": "Taipei/ Toronto",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-10-02T07:52:48Z"
   }
 ]

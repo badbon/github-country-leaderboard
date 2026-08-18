@@ -46546,5 +46546,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-10-05T17:07:22Z"
+  },
+  {
+    "login": "mossplix",
+    "name": "Moses Mugisha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128935?s=72&v=4",
+    "location": "Kampala Uganda",
+    "company": "Remitly",
+    "twitterUsername": "",
+    "followers": 64,
+    "privateContributions": 796,
+    "publicContributions": 0,
+    "createdAt": "2009-09-19T13:18:07Z"
+  },
+  {
+    "login": "ikavuma",
+    "name": "Ivan Kavuma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122315?s=72&v=4",
+    "location": "Kampala Uganda",
+    "company": "Kanase Consulting.",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-09-02T09:54:43Z"
+  },
+  {
+    "login": "lwigale",
+    "name": "Bernard Lwigale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129395?s=72&u=5d3008e4ea18851bb77647e754a55588dcd82348&v=4",
+    "location": "Jinja, Uganda",
+    "company": "AB Computer Solutions Ltd.",
+    "twitterUsername": "lwigale",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-09-21T05:57:49Z"
+  },
+  {
+    "login": "abanshanga",
+    "name": "banshanga adon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156308?s=72&v=4",
+    "location": "uganda",
+    "company": "uganda christian university",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-11-21T11:11:52Z"
   }
 ]

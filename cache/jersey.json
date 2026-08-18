@@ -1006,5 +1006,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-11-02T14:34:57Z"
+  },
+  {
+    "login": "jeffsmitty",
+    "name": "Jeff Smith",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7129042?s=72&u=17131e00f2ddbccea4625635876f058338f82698&v=4",
+    "location": "Jersey",
+    "company": "Morris Informatics, LLC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-01T15:59:31Z"
   }
 ]
