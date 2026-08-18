@@ -105598,5 +105598,101 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2024-10-29T10:16:32Z"
+  },
+  {
+    "login": "Oscar-git97",
+    "name": "Oscar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187073856?s=72&u=58e4a8992ba63b81ad67525377181d4d3ea07569&v=4",
+    "location": "Berlin, Germany",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2024-11-02T00:23:08Z"
+  },
+  {
+    "login": "Sebu-Dev",
+    "name": "Florian S.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183060361?s=72&u=69dbf875024d2a0fd7eaeb6897a472788a8090ea&v=4",
+    "location": "Germany",
+    "company": "Volkswagen AG Fakultät73",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2024-09-27T07:12:30Z"
+  },
+  {
+    "login": "LIGunna93",
+    "name": "DevLI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185448870?s=72&v=4",
+    "location": "Berlin, Germany",
+    "company": "LI Dev",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 34,
+    "publicContributions": 185,
+    "createdAt": "2024-10-18T02:37:49Z"
+  },
+  {
+    "login": "ankasaman",
+    "name": "Anait K✨",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183484800?s=72&u=4798e990762935f0d4dc82b950addd2e2cc1c4a9&v=4",
+    "location": "Hamburg, Germany",
+    "company": "Otto",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 199,
+    "publicContributions": 0,
+    "createdAt": "2024-10-01T09:30:38Z"
+  },
+  {
+    "login": "Nicgeon",
+    "name": "Nicgeon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186493381?s=72&v=4",
+    "location": "Lower-Saxony, Germany",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2024-10-27T15:50:16Z"
+  },
+  {
+    "login": "abhikola222",
+    "name": "Abhigyan Kola",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185060593?s=72&u=081bd43348cd0d3cd2476f5b48b5889d1e205d08&v=4",
+    "location": "Oldenburg, Germany",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 150,
+    "publicContributions": 3,
+    "createdAt": "2024-10-15T10:12:05Z"
+  },
+  {
+    "login": "Nils-Programmierer",
+    "name": "Nils Programmierer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184435084?s=72&u=0af590c1cfb732b54fb2e4342a3a48e8e0fbc9ad&v=4",
+    "location": "Germany",
+    "company": "Nils Programmierer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 74,
+    "createdAt": "2024-10-09T18:53:19Z"
+  },
+  {
+    "login": "PauUng",
+    "name": "Paula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23735744?s=72&u=970f801da786120f1c49b2b032e7243a1eacd32d&v=4",
+    "location": "Germany / Peru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2016-11-25T08:10:43Z"
   }
 ]

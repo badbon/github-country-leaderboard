@@ -19030,5 +19030,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-12-03T01:06:40Z"
+  },
+  {
+    "login": "vidar",
+    "name": "Vidar Masson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2430?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "contentstack.com",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 62,
+    "createdAt": "2008-03-06T18:18:22Z"
   }
 ]

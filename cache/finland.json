@@ -79114,5 +79114,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-06-03T07:26:09Z"
+  },
+  {
+    "login": "lizzethgd",
+    "name": "Lizzeth GD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57663374?s=72&u=03eb0f693c93b6ee8686298c80d189a56f44ee3e&v=4",
+    "location": "Helsinki",
+    "company": "DragonPhoenix",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-12T09:56:02Z"
+  },
+  {
+    "login": "obywan-afk",
+    "name": "Lars Oberhofer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54220610?s=72&u=9256662e3d640f41f5051df30ea9e38ad105cf65&v=4",
+    "location": "Helsinki → Zürich",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 79,
+    "createdAt": "2019-08-17T21:21:37Z"
+  },
+  {
+    "login": "alypo",
+    "name": "alypo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47568519?s=72&u=fd6d092276ca463f8b1a3e17f8015274bffdd921&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "alyreppo",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-12T15:44:29Z"
+  },
+  {
+    "login": "Escapethemoi",
+    "name": "Otto Hyttinen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54543904?s=72&u=95ffeb89f556a2558223e31e63be521bac84d878&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-26T14:50:25Z"
   }
 ]

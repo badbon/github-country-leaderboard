@@ -69679,8 +69679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 653,
-    "publicContributions": 270,
+    "privateContributions": 655,
+    "publicContributions": 269,
     "createdAt": "2023-04-25T00:16:33Z"
   },
   {
@@ -70112,7 +70112,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 460,
-    "publicContributions": 505,
+    "publicContributions": 514,
     "createdAt": "2023-04-24T21:15:14Z"
   },
   {
@@ -70136,7 +70136,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 120,
     "createdAt": "2023-04-02T19:59:29Z"
   },
   {
@@ -70208,7 +70208,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 341,
-    "publicContributions": 466,
+    "publicContributions": 467,
     "createdAt": "2023-04-18T22:11:17Z"
   },
   {
@@ -70567,8 +70567,8 @@
     "company": "Universidad Tecnológica Nacional",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1673,
-    "publicContributions": 45,
+    "privateContributions": 1674,
+    "publicContributions": 46,
     "createdAt": "2023-03-30T19:36:18Z"
   },
   {
@@ -70628,7 +70628,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 817,
-    "publicContributions": 280,
+    "publicContributions": 285,
     "createdAt": "2023-04-13T17:31:54Z"
   },
   {
@@ -70843,7 +70843,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 62,
+    "privateContributions": 70,
     "publicContributions": 0,
     "createdAt": "2023-04-21T12:11:51Z"
   },
@@ -77467,7 +77467,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 723,
+    "privateContributions": 728,
     "publicContributions": 109,
     "createdAt": "2023-06-12T00:41:54Z"
   },
@@ -78404,7 +78404,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 103,
     "createdAt": "2023-06-27T03:02:22Z"
   },
   {
@@ -78895,7 +78895,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1936,
+    "privateContributions": 2048,
     "publicContributions": 14,
     "createdAt": "2023-05-31T18:19:28Z"
   },
@@ -100510,5 +100510,317 @@
     "privateContributions": 16,
     "publicContributions": 99,
     "createdAt": "2021-10-15T13:29:58Z"
+  },
+  {
+    "login": "Neubled",
+    "name": "Martin Delbueno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130599574?s=72&u=a1ee3209c3aecfbdfdc9f3a3a3ec5b2fb0bb69e7&v=4",
+    "location": "La Plata,Buenos aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2023-04-12T18:49:32Z"
+  },
+  {
+    "login": "Soofbb",
+    "name": "Sofía López",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135775058?s=72&u=638d709604df4442239661447a16e63b5be8cbb8&v=4",
+    "location": "Buenos Aires ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2023-06-07T01:05:58Z"
+  },
+  {
+    "login": "Petersen-Pedro",
+    "name": "Petersen Pedro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133812640?s=72&u=f3943b4560146833d4b0a7a64752173ca800f6eb&v=4",
+    "location": "Tandil, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2023-05-16T19:45:07Z"
+  },
+  {
+    "login": "alumort",
+    "name": "Alu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134171149?s=72&u=0e95ee75fc850b32b5605644e7649a7de8b49b8c&v=4",
+    "location": "Lomas de Zamora, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 165,
+    "publicContributions": 117,
+    "createdAt": "2023-05-20T20:54:58Z"
+  },
+  {
+    "login": "FrannDV",
+    "name": "DEV | Frann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134090170?s=72&u=27ce638d3483cc0fbe9a56bbae829dbafff9d813&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-19T17:14:09Z"
+  },
+  {
+    "login": "JuanMeunier",
+    "name": "Juan Bernardo Meunier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132232663?s=72&u=8c3729a46439940cef4274f93e28060857b2746f&v=4",
+    "location": "Buenos Aires ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 203,
+    "createdAt": "2023-04-30T21:48:31Z"
+  },
+  {
+    "login": "Facu-Glo",
+    "name": "Facundo Gabriel López",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129806278?s=72&u=d85a1c9520a6a7f271101a7cb9f74adcb650c496&v=4",
+    "location": "Buenos Aires, AR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 633,
+    "publicContributions": 449,
+    "createdAt": "2023-04-03T23:53:28Z"
+  },
+  {
+    "login": "Matias-Landi",
+    "name": "Matias Landi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135983063?s=72&u=99467329ff2621ae6411f88bdee861a69a20997d&v=4",
+    "location": "Bragado, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-08T12:58:21Z"
+  },
+  {
+    "login": "nahuelguirao",
+    "name": "Nahuel Guirao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132412560?s=72&u=a09e6d8eae804e53faa3722e4a57350377d90318&v=4",
+    "location": "Buenos Aires",
+    "company": "Legal Hub",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-03T00:06:42Z"
+  },
+  {
+    "login": "Tobiasadane",
+    "name": "Tobias Adane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129441794?s=72&u=39f0945ed109fe3d1df619e55fa5f520cea88916&v=4",
+    "location": "Buenos Aires",
+    "company": "Adane Initiatives",
+    "twitterUsername": "tobiasadane",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-30T19:50:34Z"
+  },
+  {
+    "login": "JoaquinPalacio",
+    "name": "Joaquin Palacio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135763931?s=72&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 124,
+    "publicContributions": 278,
+    "createdAt": "2023-06-06T21:29:50Z"
+  },
+  {
+    "login": "fede-peitti",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129907087?s=72&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 141,
+    "createdAt": "2023-04-04T22:19:27Z"
+  },
+  {
+    "login": "agusfennema",
+    "name": "Agustina Fennema",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131919796?s=72&u=5396cabdd098325dad4b5e2f66aa5038e6384fc3&v=4",
+    "location": "Tandil, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2023-04-26T21:26:10Z"
+  },
+  {
+    "login": "juaanloopez",
+    "name": "Juan Pablo Lopez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133151434?s=72&u=92e712fc16ef95d96be9a615869b03b40371c90c&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2023-05-10T17:21:42Z"
+  },
+  {
+    "login": "joaquingandola",
+    "name": "Joaquin Gandola",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129637665?s=72&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 279,
+    "createdAt": "2023-04-02T02:28:43Z"
+  },
+  {
+    "login": "Trocha4",
+    "name": "Tomás Rocha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131572289?s=72&v=4",
+    "location": "Ituzaingó, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 108,
+    "publicContributions": 64,
+    "createdAt": "2023-04-23T04:32:03Z"
+  },
+  {
+    "login": "felipe0005",
+    "name": "Felipe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130798944?s=72&u=49ebf5e9e2381d3cebaa59e31b3c1d24250c75c1&v=4",
+    "location": "Mar del Plata -Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2023-04-14T20:56:21Z"
+  },
+  {
+    "login": "GonzaloFernandez20",
+    "name": "Gonzalo Fernandez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129696566?s=72&u=d08414b14144a47a0e5c54e89ba389177fcae265&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2023-04-02T22:00:15Z"
+  },
+  {
+    "login": "LautaroPingitore",
+    "name": "Lautaro Pingitore ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137835527?s=72&u=786ebc613dc1c688e02e20a1c2fe78a8855f4971&v=4",
+    "location": "Ciudad Autónoma de Buenos Aires",
+    "company": "Universidad Tecnologica Nacional",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 175,
+    "createdAt": "2023-06-26T21:21:32Z"
+  },
+  {
+    "login": "ShebasDF",
+    "name": "Sebastian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133919562?s=72&u=d7244b0cafb1b7910d242141ce844c32dcc3dde1&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-05-17T21:01:59Z"
+  },
+  {
+    "login": "ClaraDaniela",
+    "name": "Clara Daniela Cantarino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133591818?s=72&u=503a2bdb8a194477c92e23ba9b0fb73c42138600&v=4",
+    "location": "Buenos Aires, Jose C. Paz",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 104,
+    "createdAt": "2023-05-14T16:13:35Z"
+  },
+  {
+    "login": "Manaure-Sousa",
+    "name": "Manaure Sousa de vasconcelos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136469772?s=72&u=8ab7620135856b8e14634cd0d085da8a55ce7e05&v=4",
+    "location": "La Plata, Buenos Aires.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 103,
+    "createdAt": "2023-06-13T13:19:15Z"
+  },
+  {
+    "login": "jmcoronato",
+    "name": "Juan Martin Coronato",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130773480?s=72&u=523d4c36dfc40ac537cb6717839fc527f52d82b3&v=4",
+    "location": "Buenos Aires",
+    "company": "Universidad Nacional de La Mantanza",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2023-04-14T14:40:08Z"
+  },
+  {
+    "login": "DanielAlejandro184",
+    "name": "Danie Alejandro Benitez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131780864?s=72&u=70506ce216b072e67ec8c9bc02ff679383885a20&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-25T13:27:08Z"
+  },
+  {
+    "login": "Juliadisarli",
+    "name": "Juli QA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135929122?s=72&u=5439fb4cc028ca826d377e52d0822efc2632444c&v=4",
+    "location": "Buenos Aires, Argentine",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2023-06-08T01:23:46Z"
+  },
+  {
+    "login": "Milalrmarchesi",
+    "name": "Milagros Marchesi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136846652?s=72&u=e263361adda897f049d5c8cb614975dda55ba7c5&v=4",
+    "location": "buenos aires ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2023-06-16T18:31:30Z"
   }
 ]
