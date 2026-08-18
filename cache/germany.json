@@ -115306,5 +115306,53 @@
     "privateContributions": 1317,
     "publicContributions": 4,
     "createdAt": "2024-12-09T03:50:07Z"
+  },
+  {
+    "login": "OnatArslan",
+    "name": "onatars",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142385726?s=72&u=3f96d09b139f9da62b0ec77d3828e1c640f788f7&v=4",
+    "location": "Mugla/Turkey -- Berlin/Germany",
+    "company": "BT Bilgi Teknolojileri",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 523,
+    "publicContributions": 252,
+    "createdAt": "2023-08-16T07:25:31Z"
+  },
+  {
+    "login": "bauben",
+    "name": "Benjamin Bauer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168751763?s=72&u=ee9734c68726d70aa48c0f56e894ed56cf08d53b&v=4",
+    "location": "Cologne",
+    "company": "lise GmbH",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1160,
+    "publicContributions": 7,
+    "createdAt": "2024-05-02T14:22:16Z"
+  },
+  {
+    "login": "rogocoffee",
+    "name": "Robin Gottschalk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158559825?s=72&u=5662b09cda24cb3417fbf617c686615366c37f20&v=4",
+    "location": "Cologne",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 251,
+    "publicContributions": 77,
+    "createdAt": "2024-02-02T08:39:56Z"
+  },
+  {
+    "login": "DiaconuDan",
+    "name": "Diaconu Dan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26628219?s=72&u=96ced1221847a2ca4482fadc239db90c18998340&v=4",
+    "location": "Berlin/Bucharest/Amstedam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-23T14:30:00Z"
   }
 ]

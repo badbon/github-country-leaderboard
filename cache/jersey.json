@@ -1378,5 +1378,65 @@
     "privateContributions": 666,
     "publicContributions": 0,
     "createdAt": "2012-09-10T10:09:32Z"
+  },
+  {
+    "login": "simonbrowndotje",
+    "name": "Simon Brown",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1009874?s=72&u=18810afdec20ee889e3d608337286d24f37507c6&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "@structurizr ",
+    "twitterUsername": "simonbrown",
+    "followers": 752,
+    "privateContributions": 0,
+    "publicContributions": 870,
+    "createdAt": "2011-08-28T12:09:44Z"
+  },
+  {
+    "login": "CJ-Jackson",
+    "name": "Christopher John Jackson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/638378?s=72&u=76dc4f3a5a2913cb80b31682c93678319f430fb2&v=4",
+    "location": "St. Clement, Jersey",
+    "company": "Sephora UK",
+    "twitterUsername": "MrCJJackson",
+    "followers": 47,
+    "privateContributions": 477,
+    "publicContributions": 829,
+    "createdAt": "2011-02-25T17:57:02Z"
+  },
+  {
+    "login": "nunnsy",
+    "name": "Daniel Nunns",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/762488?s=72&u=72a41a5ad4e481d644ae406e5b1866ccebc52791&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 545,
+    "publicContributions": 63,
+    "createdAt": "2011-05-01T22:44:42Z"
+  },
+  {
+    "login": "cjkmcc",
+    "name": "Chris McCarthy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/739436?s=72&u=97769bea7b415214e164dbd16b3d44f0f1f8ad90&v=4",
+    "location": "Jersey / London",
+    "company": "@Circlr-io",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 3424,
+    "publicContributions": 0,
+    "createdAt": "2011-04-19T16:20:25Z"
+  },
+  {
+    "login": "danielmullin",
+    "name": "Daniel Mullin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1116873?s=72&u=7c7e50d1ac618f9ee435a4e5b39039f6a3b56d4a&v=4",
+    "location": "Jersey",
+    "company": "inshore Ltd",
+    "twitterUsername": "danielmullin",
+    "followers": 14,
+    "privateContributions": 4552,
+    "publicContributions": 1,
+    "createdAt": "2011-10-10T16:16:31Z"
   }
 ]

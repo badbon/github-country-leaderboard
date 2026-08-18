@@ -68000,7 +68000,7 @@
     "twitterUsername": "",
     "followers": 55,
     "privateContributions": 1116,
-    "publicContributions": 224,
+    "publicContributions": 229,
     "createdAt": "2019-08-29T16:09:50Z"
   },
   {
@@ -68215,7 +68215,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 1271,
+    "privateContributions": 1272,
     "publicContributions": 8,
     "createdAt": "2019-05-29T14:30:28Z"
   },
@@ -77338,5 +77338,125 @@
     "privateContributions": 198,
     "publicContributions": 101,
     "createdAt": "2009-08-09T17:44:44Z"
+  },
+  {
+    "login": "KristiforMilchev",
+    "name": "K.Milchev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49519924?s=72&u=f0a398a1215f25d800be088393eab9f80b17afae&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 62,
+    "privateContributions": 1,
+    "publicContributions": 13,
+    "createdAt": "2019-04-11T10:56:13Z"
+  },
+  {
+    "login": "DimitrinaTodorova",
+    "name": "Dimitrina Todorova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52601036?s=72&u=6449235e2119ffcea2983e3c97a798382b1d5306&v=4",
+    "location": "Burgas, Bugaria",
+    "company": "@codingburgas ",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-07-06T12:39:55Z"
+  },
+  {
+    "login": "IPBachvarov18",
+    "name": "Ivelin Bachvarov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56872313?s=72&u=4c95f69f06306325746c84aae1f6638188a62393&v=4",
+    "location": "Burgas",
+    "company": "VSCPI",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 17,
+    "publicContributions": 47,
+    "createdAt": "2019-10-22T10:41:44Z"
+  },
+  {
+    "login": "KristinaChausheva",
+    "name": "Kristina Chausheva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52411816?s=72&u=1ebb76e4ade65c11b7954b92ed0e5ac1be058b26&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-01T12:18:51Z"
+  },
+  {
+    "login": "RVVelichkova18",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56866286?s=72&u=9be33821cc9fd35aecb74e3a24633048d6183cbb&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-22T08:12:01Z"
+  },
+  {
+    "login": "VTStanchev18",
+    "name": "Vasil Stanchev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56872381?s=72&u=e0acc2ea37aadb937c57dc168ad1187a2e0c8e9d&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-22T10:43:30Z"
+  },
+  {
+    "login": "Mupaky",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46446045?s=72&u=84601a63e8883da15713819d62b8e6f9e4aed1c4&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2019-01-07T12:05:58Z"
+  },
+  {
+    "login": "Simona03",
+    "name": "Simona",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46841129?s=72&u=bdd306834479155efd362c9c8a28f9187b3b7441&v=4",
+    "location": "Burgas",
+    "company": "Canesta",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-19T11:10:52Z"
+  },
+  {
+    "login": "sdyanova",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58051557?s=72&u=a04372eeacebddf846085d704a6bafad80131bbf&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-21T21:03:16Z"
+  },
+  {
+    "login": "MiroslavDinev",
+    "name": "Miroslav Dinev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49209376?s=72&u=db2e9f97d92e5b66f6aa0c249d0f88a6d9645796&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-02T19:01:41Z"
   }
 ]
