@@ -99574,5 +99574,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-24T18:49:57Z"
+  },
+  {
+    "login": "ivanlalvarez22",
+    "name": "Iván L. Alvarez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92383926?s=72&u=d910dd5a5af25f57a2fbba67a21c15a250667090&v=4",
+    "location": "Santiago del Estero, Argentina",
+    "company": "",
+    "twitterUsername": "IvanlAlvarez22",
+    "followers": 57,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2021-10-12T14:33:07Z"
+  },
+  {
+    "login": "luismera86",
+    "name": "Luis Mera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95388543?s=72&u=8433c8f08db9ed6712f0209e1f62b082aecc16e8&v=4",
+    "location": "Argentina, Santiago del Estero",
+    "company": "",
+    "twitterUsername": "luismeradev",
+    "followers": 39,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2021-12-01T23:55:57Z"
+  },
+  {
+    "login": "Facugl",
+    "name": "Facundo Gastón Luna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89490823?s=72&u=9e47672451421835ad3361b8b9e3547e3e55edbc&v=4",
+    "location": "Santiago del Estero, Argentina",
+    "company": "Open to Backend Opportunities",
+    "twitterUsername": "isntfacundo",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 78,
+    "createdAt": "2021-08-24T22:48:37Z"
   }
 ]

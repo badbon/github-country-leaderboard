@@ -1018,5 +1018,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-04-01T15:59:31Z"
+  },
+  {
+    "login": "digitalbuddha",
+    "name": "Mike Nakhimovich",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4528092?s=72&u=3b64e81a4ec11c4d898ec03bb56dcf638cbec53f&v=4",
+    "location": "The dirty (jersey)",
+    "company": "@Twitter",
+    "twitterUsername": "FriendlyMikhail",
+    "followers": 791,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2013-05-25T16:50:41Z"
+  },
+  {
+    "login": "techtribesje",
+    "name": "techtribes.je",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3726761?s=72&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 55,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-28T11:32:55Z"
+  },
+  {
+    "login": "danhantao",
+    "name": "Jacob",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5282985?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-22T01:28:39Z"
   }
 ]

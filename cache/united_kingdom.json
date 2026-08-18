@@ -92230,5 +92230,113 @@
     "privateContributions": 1,
     "publicContributions": 16,
     "createdAt": "2024-10-24T13:37:21Z"
+  },
+  {
+    "login": "Steffiroseck",
+    "name": "Steffimol_Rose",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54937354?s=72&v=4",
+    "location": "Northern Ireland",
+    "company": "Queen's University Belfast",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 77,
+    "createdAt": "2019-09-05T09:48:37Z"
+  },
+  {
+    "login": "msochalski",
+    "name": "Mateusz Sochalski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54148086?s=72&u=6cd56cdeebe88ade0ff6f3726fb970bd15a204a1&v=4",
+    "location": "Northern Ireland",
+    "company": "BT Group",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 95,
+    "publicContributions": 51,
+    "createdAt": "2019-08-15T15:35:37Z"
+  },
+  {
+    "login": "glenadamson1984",
+    "name": "Glen Adamson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55412448?s=72&u=797adebc3dd8f5cf5ac688badb5d223c9c7196f7&v=4",
+    "location": "Northern Ireland",
+    "company": "Modern Software Ltd",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 17,
+    "publicContributions": 70,
+    "createdAt": "2019-09-16T20:27:01Z"
+  },
+  {
+    "login": "hadwll",
+    "name": "Thomas Hadden",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56214320?s=72&u=0c30fe0cfb5ddceb3ed8e2cddf2dee4a7ead77f9&v=4",
+    "location": "Northern Ireland",
+    "company": "Industrial Analytics & Automation",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-06T05:34:39Z"
+  },
+  {
+    "login": "debdal6",
+    "name": "Debdal Chowdhury",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53616883?s=72&u=b27ecbc82c210f4a3834659f8873fcc62b86ff64&v=4",
+    "location": "Belfast, Northern Ireland, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 3,
+    "publicContributions": 7,
+    "createdAt": "2019-08-02T14:23:13Z"
+  },
+  {
+    "login": "zita94",
+    "name": "Zita Koczka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56891175?s=72&u=d30ff6777f465ac587213522d2cad2a329fc6917&v=4",
+    "location": "Derry, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-22T18:17:04Z"
+  },
+  {
+    "login": "seniorbush",
+    "name": "pmoodie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57599008?s=72&u=682125dcd07dc3bf8402e15ab03dcd33715a86d8&v=4",
+    "location": "Antrim, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-10T18:10:56Z"
+  },
+  {
+    "login": "mjaferDo",
+    "name": "Mudassar Jafer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56030599?s=72&u=dd92546b7bcac2cf73d9d1d6a01ee68cda1b4d2d&v=4",
+    "location": "Northern Ireland",
+    "company": "Deloitte",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2019-10-01T12:38:37Z"
+  },
+  {
+    "login": "framesandpackets",
+    "name": "framesandpackets",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58904420?s=72&u=79589748d4d106af0aa16c48b13a9fd7de9592b8&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-15T10:10:28Z"
   }
 ]

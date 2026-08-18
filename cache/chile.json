@@ -69306,9 +69306,9 @@
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 112,
+    "followers": 110,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 61,
     "createdAt": "2021-03-25T06:13:32Z"
   },
   {
@@ -69379,7 +69379,7 @@
     "company": "neutral farming",
     "twitterUsername": "",
     "followers": 51,
-    "privateContributions": 1594,
+    "privateContributions": 1603,
     "publicContributions": 0,
     "createdAt": "2021-02-09T14:46:09Z"
   },
@@ -69667,7 +69667,7 @@
     "company": "ComeS TI",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 5298,
+    "privateContributions": 5311,
     "publicContributions": 75,
     "createdAt": "2021-05-10T15:25:24Z"
   },
@@ -69763,7 +69763,7 @@
     "company": "DUOC UC",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 787,
+    "privateContributions": 793,
     "publicContributions": 31,
     "createdAt": "2021-06-22T02:53:02Z"
   },
@@ -69787,7 +69787,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 707,
+    "privateContributions": 712,
     "publicContributions": 33,
     "createdAt": "2021-01-26T14:12:47Z"
   },
@@ -70028,7 +70028,7 @@
     "twitterUsername": "roqueheli",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 280,
+    "publicContributions": 283,
     "createdAt": "2021-06-15T23:41:12Z"
   },
   {
@@ -70303,8 +70303,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 1092,
-    "publicContributions": 136,
+    "privateContributions": 1101,
+    "publicContributions": 139,
     "createdAt": "2021-02-15T16:34:11Z"
   },
   {
@@ -80827,7 +80827,7 @@
     "company": "@grossolabs",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 8739,
+    "privateContributions": 8778,
     "publicContributions": 17,
     "createdAt": "2021-11-09T11:57:08Z"
   },
@@ -81379,7 +81379,7 @@
     "company": "Universidad Técnica Federico Santa María",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 252,
+    "privateContributions": 253,
     "publicContributions": 3,
     "createdAt": "2021-09-25T18:56:06Z"
   },
@@ -90082,5 +90082,149 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-07-07T13:29:17Z"
+  },
+  {
+    "login": "odracirdev",
+    "name": "Ricardo Cuauro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84311660?s=72&u=f6c89a1c8ec49124bcd3280efaa48ee7c90fae77&v=4",
+    "location": "Santiago, CL",
+    "company": "Cencosud S.A.",
+    "twitterUsername": "RicardCuauro",
+    "followers": 42,
+    "privateContributions": 158,
+    "publicContributions": 64,
+    "createdAt": "2021-05-17T07:43:03Z"
+  },
+  {
+    "login": "macalister0109",
+    "name": "Macarena Jamett",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82476477?s=72&u=dad715138af4281450df172c56aaed25fbfa3264&v=4",
+    "location": "Santiago",
+    "company": "CMCH",
+    "twitterUsername": "macalister0109",
+    "followers": 36,
+    "privateContributions": 156,
+    "publicContributions": 62,
+    "createdAt": "2021-04-13T21:13:30Z"
+  },
+  {
+    "login": "donpelusa",
+    "name": "Alvaro Cortés Opazo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92953141?s=72&u=e0588cea794a0768044b92c474e6acf634cafa3e&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "donpelusa",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2021-10-21T20:31:09Z"
+  },
+  {
+    "login": "DanBaDo",
+    "name": "Daniel Bañobre Dopico",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85959254?s=72&u=700f21272131d3473986a2fbaae81d87e01ca884&v=4",
+    "location": "Santiago de Compostela",
+    "company": "",
+    "twitterUsername": "bytes4life",
+    "followers": 32,
+    "privateContributions": 30,
+    "publicContributions": 19,
+    "createdAt": "2021-06-15T17:38:34Z"
+  },
+  {
+    "login": "Zebastopol",
+    "name": "Sebastián  Requena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81348536?s=72&u=860877f20cf3460eb6ee21647f79b918fdb349c1&v=4",
+    "location": "Santiago,  cl",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 84,
+    "createdAt": "2021-03-25T06:30:01Z"
+  },
+  {
+    "login": "Janaina-Mello-Moletta",
+    "name": "Janaina Mello Moletta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92180168?s=72&u=4a7bbaf8610dd23ed4e5bffd58dcc16c4000cfc0&v=4",
+    "location": "Santiago RS Brasil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2021-10-08T18:17:39Z"
+  },
+  {
+    "login": "VaneSuazoU",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78357599?s=72&u=5e4681646db85c7ef8e894cefc0f78fc25a879af&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 4,
+    "publicContributions": 70,
+    "createdAt": "2021-02-01T12:15:42Z"
+  },
+  {
+    "login": "Pablomou6",
+    "name": "Pablo Mouriño Lorenzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88212658?s=72&u=ed9b44f31ee4e87649992797ac5ec65294bde921&v=4",
+    "location": "Universidade de Santiago de Compostela.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-30T20:49:41Z"
+  },
+  {
+    "login": "marlongv098",
+    "name": "Marlon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79478412?s=72&v=4",
+    "location": "Santiago de Cali",
+    "company": "Icesi",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2021-02-22T19:35:04Z"
+  },
+  {
+    "login": "DaniCastro-developer",
+    "name": "Daniela Castro Salazar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88462620?s=72&u=55b3ad5f0f0b372ff84ff7fec7d54e1b1ef3bfcf&v=4",
+    "location": "Santiago. ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2021-08-04T22:06:48Z"
+  },
+  {
+    "login": "Piqueiras",
+    "name": "Piqueras",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96251034?s=72&u=0d5a61c180cf0d5f5ce72c9b60b02d58974b6136&v=4",
+    "location": "Santiago de Compostela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2021-12-16T15:23:25Z"
+  },
+  {
+    "login": "Yesvrv",
+    "name": "Yesika Rodríguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89168860?s=72&u=49e4bd3d4598cfcc963990a139b495f119e61424&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-08-18T23:32:41Z"
   }
 ]
