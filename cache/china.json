@@ -41240,7 +41240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 288,
+    "publicContributions": 340,
     "createdAt": "2025-05-14T12:38:56Z"
   },
   {
@@ -83302,5 +83302,149 @@
     "privateContributions": 10,
     "publicContributions": 2,
     "createdAt": "2017-10-09T07:11:16Z"
+  },
+  {
+    "login": "Tiger-ts08",
+    "name": "Tiger Shu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215857671?s=72&u=db9bd53f36800c6e75f4f2b564905f6ed811a4d9&v=4",
+    "location": "Shenzhen",
+    "company": "Shenzhen College of International Education",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-06-11T13:42:08Z"
+  },
+  {
+    "login": "luoyuanhao2157",
+    "name": "Yuanhao Luo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/230307853?s=72&v=4",
+    "location": "Shenzhen, Guangdong Province",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-09-04T06:24:08Z"
+  },
+  {
+    "login": "Lin23-071",
+    "name": "Qiao Lin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194570982?s=72&u=0624c891f8cf7eddd821e1cbe880a857e3bb4502&v=4",
+    "location": "Harbin Institute of Technology, Shenzhen, Taoyuan Sub-district, Nanshan District, Shenzhen City ",
+    "company": "Harbin Institute of Technology,Shenzhen",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2025-01-11T04:48:08Z"
+  },
+  {
+    "login": "Mikann-Ju",
+    "name": "Xiao Hu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201205974?s=72&v=4",
+    "location": "Shenzhen",
+    "company": "The Chinese University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2025-02-28T07:27:49Z"
+  },
+  {
+    "login": "SUSTechSZ",
+    "name": "Bunny",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203597374?s=72&u=9251a894dc22185775ac0b36fbf561c4507137b3&v=4",
+    "location": "Shenzhen",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-03-17T04:57:09Z"
+  },
+  {
+    "login": "RengJi",
+    "name": "Chen Fusheng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204635002?s=72&u=89c6084becb590db632873c0d9f33228d9591309&v=4",
+    "location": "Shenzhen, Guangdong Province, P.R.China",
+    "company": "Harbin Institute of Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-03-24T02:10:47Z"
+  },
+  {
+    "login": "harrison0760",
+    "name": "harrison",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193805224?s=72&u=afa415f4a1b580459660b0c0367fe5a732ead36d&v=4",
+    "location": "ShenZhen",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-01-05T14:52:01Z"
+  },
+  {
+    "login": "jilinzhang75-tech",
+    "name": "Jilin Zhang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231767566?s=72&v=4",
+    "location": "2001 Longing Road, Longgang District, Shenzhen",
+    "company": "The Chinese University of Hong Kong, ShenZhen",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-09-11T19:48:24Z"
+  },
+  {
+    "login": "Sirius413",
+    "name": "Brian Lai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227253374?s=72&v=4",
+    "location": "ShenZhen",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2025-08-18T19:29:27Z"
+  },
+  {
+    "login": "DaviosOgborn",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/250338081?s=72&u=1f42a3b253c5b8b2bfab0807b0bb7d00459b0376&v=4",
+    "location": "ShenZhen",
+    "company": "Tencent",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2025-12-18T11:50:56Z"
+  },
+  {
+    "login": "Zhoutao-Bi",
+    "name": "Zhoutao Terry BI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216712033?s=72&u=cf08caacfdb177cdaf5c3d95b7e9a43c82f3b5df&v=4",
+    "location": "ShenZhen",
+    "company": "South China Agricultural University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2025-06-17T12:24:21Z"
+  },
+  {
+    "login": "zhenqihu",
+    "name": "Zhenqi Hu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12298873?s=72&u=feddfd2bbf29501018e23992287a8f27e532acc2&v=4",
+    "location": "Hong Kong SAR, China",
+    "company": "City University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-05-07T15:41:14Z"
   }
 ]

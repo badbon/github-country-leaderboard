@@ -58606,5 +58606,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-10-27T19:43:29Z"
+  },
+  {
+    "login": "juanitourquiza",
+    "name": "Juan Urquiza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/332299?s=72&u=be8f0385d5a5d54390879389a01d083b5ecf292c&v=4",
+    "location": "Quito",
+    "company": "hackeruna.com",
+    "twitterUsername": "juanitourquiza",
+    "followers": 54,
+    "privateContributions": 521,
+    "publicContributions": 191,
+    "createdAt": "2010-07-14T20:21:41Z"
+  },
+  {
+    "login": "edujmb",
+    "name": "Edu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208466?s=72&v=4",
+    "location": "Quito",
+    "company": "self",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-02-22T15:14:52Z"
+  },
+  {
+    "login": "alexito",
+    "name": "Alexis Saransig",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/507368?s=72&u=f88da9fdc400e37e4f87ab7fdc7b9d4c82ecd9fa&v=4",
+    "location": "Quito",
+    "company": "Jobsity",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-03T01:08:46Z"
+  },
+  {
+    "login": "kruben",
+    "name": "Chris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/465387?s=72&v=4",
+    "location": "Quito",
+    "company": "Grupo Salinas",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-03T06:41:24Z"
   }
 ]

@@ -66790,5 +66790,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-12-07T04:17:19Z"
+  },
+  {
+    "login": "mateusazis",
+    "name": "Mateus Azis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294449?s=72&u=7a78290aa732b781b48f47071a257f891159c4b9&v=4",
+    "location": "San José, California",
+    "company": "@google ",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2010-06-02T14:30:40Z"
+  },
+  {
+    "login": "AmiciA",
+    "name": "Annah Amici",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/437844?s=72&u=af548f1839f8962f594a6c28937f89d229e60cb8&v=4",
+    "location": "San José",
+    "company": "Lab Zero",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2010-10-13T11:03:34Z"
+  },
+  {
+    "login": "cseke8",
+    "name": "Chris Edwards",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288805?s=72&u=54e71c94da4044a36b9138f7cadd7911e3bf8138&v=4",
+    "location": "San José, CR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-27T15:49:59Z"
+  },
+  {
+    "login": "SgtPepper1000",
+    "name": "CloritoPicado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/319661?s=72&v=4",
+    "location": "San José",
+    "company": "Cloros Picados",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-01T05:13:49Z"
   }
 ]

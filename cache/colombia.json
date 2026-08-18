@@ -92854,5 +92854,53 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2022-08-09T20:19:43Z"
+  },
+  {
+    "login": "jarena7",
+    "name": "Jeison Arenales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110623542?s=72&v=4",
+    "location": "Bogotá, Colombia",
+    "company": "EPAM Systems",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-04T16:17:24Z"
+  },
+  {
+    "login": "Felipe-1205",
+    "name": "Andres Felipe Marroquin Martin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109763179?s=72&u=3cbe8e2b91e453efba1068cd10bdb02933314dcd&v=4",
+    "location": "Bogotá, Colombia",
+    "company": "Pontificia Universidad Javeriana",
+    "twitterUsername": "felipe_12O5",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-21T19:42:59Z"
+  },
+  {
+    "login": "EDuarP",
+    "name": "Eduardo Duarte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111079136?s=72&u=02c9d32e112a3e550b158d64f5517ef2488bd02d&v=4",
+    "location": "Colombia",
+    "company": "Open to opportunities",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 26,
+    "publicContributions": 312,
+    "createdAt": "2022-08-11T17:13:07Z"
+  },
+  {
+    "login": "LauraRomero2704",
+    "name": "Laura Romero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110137258?s=72&u=79b0c9d0c65192fdfdf755b8998cc06baba2409b&v=4",
+    "location": "Bogotá, Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2022-07-27T22:27:35Z"
   }
 ]
