@@ -104014,5 +104014,77 @@
     "privateContributions": 303,
     "publicContributions": 13,
     "createdAt": "2014-12-21T21:02:30Z"
+  },
+  {
+    "login": "mattjpenman",
+    "name": "Matt Penman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10007103?s=72&v=4",
+    "location": "Wellington, NZ",
+    "company": "Weta Digital",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-30T05:58:29Z"
+  },
+  {
+    "login": "yohash",
+    "name": "Jason Heebl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8541667?s=72&u=a3f945a4dbfb80be627d97de45b957aedd18f0d9&v=4",
+    "location": "Wellington, NZ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 252,
+    "createdAt": "2014-08-25T04:35:57Z"
+  },
+  {
+    "login": "notpeerreviewed",
+    "name": "Jeff Lean",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7496552?s=72&v=4",
+    "location": "Wellington, NZ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2014-05-06T05:15:09Z"
+  },
+  {
+    "login": "kyleberkland",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9471501?s=72&u=2a11e29d24e2bb9ab92857958ba39f7e59ae89c6&v=4",
+    "location": "Wellington",
+    "company": "@cgkineo ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-30T23:18:31Z"
+  },
+  {
+    "login": "LiamRussellNZ",
+    "name": "Liam Russell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8550977?s=72&u=c3709150d95d2a86ce998aaeb5a1025a9bf09678&v=4",
+    "location": "Wellington, NZ",
+    "company": "Govt NZ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2014-08-25T23:55:19Z"
+  },
+  {
+    "login": "alex-dna",
+    "name": "Alex Saelens",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6982515?s=72&u=1eda44bfd7647c40d49dede755d52a95c575558e&v=4",
+    "location": "Wellington, NZ",
+    "company": "DNA Design",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 111,
+    "publicContributions": 6,
+    "createdAt": "2014-03-18T02:48:53Z"
   }
 ]

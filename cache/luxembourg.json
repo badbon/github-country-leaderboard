@@ -25414,5 +25414,29 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2011-10-06T12:46:22Z"
+  },
+  {
+    "login": "JanPetroons",
+    "name": "Jan Petroons",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/715227?s=72&v=4",
+    "location": "Luxembourg",
+    "company": "Metrilio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-07T12:31:49Z"
+  },
+  {
+    "login": "BUONJG",
+    "name": "BUON Jean-Guy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/898114?s=72&v=4",
+    "location": "Luxembourg",
+    "company": "Aperam",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2011-07-06T12:48:46Z"
   }
 ]
