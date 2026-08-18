@@ -72526,5 +72526,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-15T13:01:40Z"
+  },
+  {
+    "login": "liutsar",
+    "name": "Liubomyr Tsaryniak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109757758?s=72&u=0e85940811673d3f59dc51cc7178accb782129d1&v=4",
+    "location": "Rotterdam",
+    "company": "SoftLike",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2022-07-21T17:50:34Z"
+  },
+  {
+    "login": "KyawNyuntLinn",
+    "name": "KyawNyuntLinn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108872892?s=72&u=3a1b2be834977722f0c53929a625ac2ac5ddd9e4&v=4",
+    "location": "Rotterdam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-07T11:08:04Z"
+  },
+  {
+    "login": "studioyeonsung",
+    "name": "Studio Yeon Sung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106752807?s=72&u=84644bfebb0701e65c156695e27a1fda8e85f061&v=4",
+    "location": "Rotterdam",
+    "company": "Studio Yeon Sung",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 86,
+    "createdAt": "2022-06-02T13:24:35Z"
+  },
+  {
+    "login": "Jeroen1486",
+    "name": "Jeroen Hoekstra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117860263?s=72&u=0af4fd73eabec452d1e2678c55d493a93176fc60&v=4",
+    "location": "Rotterdam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-09T19:33:31Z"
+  },
+  {
+    "login": "roger-indigoERP",
+    "name": "Roger Kokos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102535513?s=72&u=0281875965263216479b36150f4223800dd5ed77&v=4",
+    "location": "Rotterdam",
+    "company": "Indigo ERP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-28T14:41:58Z"
   }
 ]

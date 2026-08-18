@@ -56098,5 +56098,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-11-21T20:09:22Z"
+  },
+  {
+    "login": "Stiivi",
+    "name": "Stefan Urbanek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71105?s=72&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "Stiivi",
+    "followers": 280,
+    "privateContributions": 2,
+    "publicContributions": 407,
+    "createdAt": "2009-04-06T19:52:56Z"
+  },
+  {
+    "login": "koriaf",
+    "name": "Arkadiy Korotaev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131850?s=72&u=ec75acde5369c94ce9dea34216672f02333f1729&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 1016,
+    "publicContributions": 14,
+    "createdAt": "2009-09-27T12:06:01Z"
+  },
+  {
+    "login": "psiska",
+    "name": "Peter Siska",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169360?s=72&u=1984b157a15d8184ce319bca3c9984af9c00135a&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2009-12-18T11:01:17Z"
+  },
+  {
+    "login": "dusanko",
+    "name": "dusan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150414?s=72&v=4",
+    "location": "Bratislava",
+    "company": "DCT",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-11-08T13:08:16Z"
+  },
+  {
+    "login": "bapm",
+    "name": "Bratislava Perl Mongers",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160749?s=72&v=4",
+    "location": "Bratislava",
+    "company": "Perl",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-12-02T09:15:46Z"
+  },
+  {
+    "login": "jozovasko",
+    "name": "jozovasko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150278?s=72&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 74,
+    "createdAt": "2009-11-08T00:58:56Z"
   }
 ]

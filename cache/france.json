@@ -88126,5 +88126,29 @@
     "privateContributions": 1378,
     "publicContributions": 133,
     "createdAt": "2024-11-26T16:38:27Z"
+  },
+  {
+    "login": "g1franc",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1684721?s=72&v=4",
+    "location": "France / Luxembourg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2012-04-27T09:28:26Z"
+  },
+  {
+    "login": "ninaodoux",
+    "name": "Nina Marie Odoux",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185107991?s=72&u=283e2f28edbfc5df329d5881b094a44f0f871bcd&v=4",
+    "location": "Madrid/Paris",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-10-15T16:41:25Z"
   }
 ]
