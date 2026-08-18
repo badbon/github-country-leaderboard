@@ -62974,5 +62974,113 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2012-02-07T13:24:52Z"
+  },
+  {
+    "login": "rafaclement",
+    "name": "rafaclement",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2474973?s=72&v=4",
+    "location": "Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-02T21:52:26Z"
+  },
+  {
+    "login": "jpicerno",
+    "name": "Juan Manuel Picerno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2078166?s=72&u=f248ff362fe2d3706d7d9423f07a97dd1a1e63a6&v=4",
+    "location": "Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-01T15:01:10Z"
+  },
+  {
+    "login": "andrescorrea",
+    "name": "Andres Correa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2642567?s=72&u=065e718cfe575672ea54d4eef905848c5bb6a2b2&v=4",
+    "location": "Montevideo, Uruguay",
+    "company": "@rootstrap",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 156,
+    "publicContributions": 5,
+    "createdAt": "2012-10-24T17:21:53Z"
+  },
+  {
+    "login": "vanzen",
+    "name": "Alvaro Azofra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2745271?s=72&u=b0ff93eba1e31ca9ab1940c94f5d92c11d9ac8e9&v=4",
+    "location": "Uruguay",
+    "company": "Ironhide Game Studio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-07T18:59:18Z"
+  },
+  {
+    "login": "chonwil",
+    "name": "Carlos Palma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3055155?s=72&u=aa75e04ad4206654d5d8bb65503cad537279dc37&v=4",
+    "location": "Montevideo, Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2012-12-16T11:00:05Z"
+  },
+  {
+    "login": "alsit",
+    "name": "ALSIT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1835383?s=72&v=4",
+    "location": "Montevideo Uruguay",
+    "company": "ALSIT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-06-10T11:15:54Z"
+  },
+  {
+    "login": "Facundo-Chalar",
+    "name": "Facundo Chalar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1675239?s=72&u=b413739b27caeabc5d70f415166a988c7ecd882f&v=4",
+    "location": "Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-04-24T16:08:31Z"
+  },
+  {
+    "login": "unnicksimple",
+    "name": "simplesinnick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1827020?s=72&u=e774807460cfce7197b1651311c6836f5d0cea33&v=4",
+    "location": "Uruguay",
+    "company": "Adookia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-06-07T13:47:52Z"
+  },
+  {
+    "login": "fgonzal",
+    "name": "Federico González",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1517671?s=72&u=90563f3bc2b836365b90b5fda16ce1e45bace8a8&v=4",
+    "location": "Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 976,
+    "publicContributions": 48,
+    "createdAt": "2012-03-08T20:35:46Z"
   }
 ]

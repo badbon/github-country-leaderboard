@@ -102958,5 +102958,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-23T22:58:08Z"
+  },
+  {
+    "login": "blindorange",
+    "name": "Stephen Holder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9074957?s=72&u=10166f70b10ccf990223d2b2b7ede2b9eb59d53c&v=4",
+    "location": "New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 59,
+    "createdAt": "2014-10-08T09:35:56Z"
+  },
+  {
+    "login": "gardencode",
+    "name": "Cainton Milroy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8639256?s=72&u=79363864e52d64da94a3b3c0b0bdadf81897f097&v=4",
+    "location": "New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-03T08:03:03Z"
+  },
+  {
+    "login": "robbie-berns",
+    "name": "Rob Bernstein",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9041679?s=72&v=4",
+    "location": "New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-06T19:58:53Z"
+  },
+  {
+    "login": "hi-im-karl",
+    "name": "Karl Hammond",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8052554?s=72&u=e4839ad92174a183a828bd026f7c4ccec68c1ba9&v=4",
+    "location": "New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-02T22:44:43Z"
+  },
+  {
+    "login": "cameronbatty",
+    "name": "Cameron Batty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8316002?s=72&v=4",
+    "location": "Christchurch, New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2006,
+    "publicContributions": 0,
+    "createdAt": "2014-07-31T02:37:20Z"
+  },
+  {
+    "login": "taao84",
+    "name": "Tomas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8214487?s=72&u=e07a3cab3f2f8462133b59d4eaea3fc12541a0dc&v=4",
+    "location": "NEW ZEALAND",
+    "company": "CAPSULA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-07-20T08:17:51Z"
+  },
+  {
+    "login": "chadzhao",
+    "name": "Chad Zhao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8391427?s=72&u=fda081f48acadfb71108070c6bf116ffe5d3aad4&v=4",
+    "location": "Auckland, New zealand",
+    "company": "Digital Island",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 89,
+    "createdAt": "2014-08-08T04:34:42Z"
+  },
+  {
+    "login": "DaleMiles",
+    "name": "Dale Miles",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8635739?s=72&v=4",
+    "location": "New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 389,
+    "publicContributions": 4,
+    "createdAt": "2014-09-03T01:07:42Z"
+  },
+  {
+    "login": "abhritchie",
+    "name": "Alistair Ritchie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9596562?s=72&u=4357d8ea4d46c476dfdb33ae33e8e587d343b0a3&v=4",
+    "location": "Lincoln, New Zealand",
+    "company": "Manaaki Whenua - Landcare Research",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-06T19:42:47Z"
   }
 ]

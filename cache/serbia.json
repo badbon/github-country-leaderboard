@@ -67174,5 +67174,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-06-17T21:44:07Z"
+  },
+  {
+    "login": "devstax",
+    "name": "Stefan Miljkovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30118545?s=72&u=0f9f5379ef001336947c2dbba2fde7315d026c5e&v=4",
+    "location": "Belgrade, Republic of Serbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-12T13:07:52Z"
+  },
+  {
+    "login": "BozzH",
+    "name": "Božidar Vukmanović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34425653?s=72&u=2a8c79cec10a624514430f0f6981f8795dfdfc96&v=4",
+    "location": "Republic of Serbia, Kula",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-10T21:21:25Z"
+  },
+  {
+    "login": "eyshella",
+    "name": "Roman Ragozin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26437088?s=72&u=d906346092c0df8078e09418a491a755076d5213&v=4",
+    "location": "Republic of Serbia, Novi Sad",
+    "company": "Social Discovery Group",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2017-03-15T14:14:51Z"
   }
 ]

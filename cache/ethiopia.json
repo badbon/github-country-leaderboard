@@ -72523,7 +72523,7 @@
     "company": "Signum Technologies",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1210,
+    "privateContributions": 1211,
     "publicContributions": 3,
     "createdAt": "2018-08-28T15:58:52Z"
   },
@@ -73186,5 +73186,101 @@
     "privateContributions": 1086,
     "publicContributions": 10,
     "createdAt": "2018-12-21T13:02:24Z"
+  },
+  {
+    "login": "henokDES",
+    "name": "henok D",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37625262?s=72&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-21T13:50:29Z"
+  },
+  {
+    "login": "Addisu17",
+    "name": "Addisu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36324089?s=72&u=9679ec20a41506b04a13e49aa7d336cdf0670c1e&v=4",
+    "location": "Addis Ababa",
+    "company": "@CommercialBankofEthiopia",
+    "twitterUsername": "Addisu_17",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2018-02-10T07:14:06Z"
+  },
+  {
+    "login": "Abysinia",
+    "name": "Abysinia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35812757?s=72&u=8dba72ad7c7778bbd199c676c283056c686e739a&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-25T17:26:52Z"
+  },
+  {
+    "login": "BereketGG",
+    "name": "Bereket",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38581139?s=72&u=8d3588727fd976298db5decb4e3fe67e2ffed4b9&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "berketket",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-21T07:57:44Z"
+  },
+  {
+    "login": "Abeni66",
+    "name": "Abenezer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39310878?s=72&u=bc514c409b01042fe407442835652c37137484b8&v=4",
+    "location": "Addis Ababa",
+    "company": "CBE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-15T16:47:51Z"
+  },
+  {
+    "login": "addisYonas",
+    "name": "yonas addis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43804999?s=72&u=5cb259ace33852b3966f2c272536146e1b7c76bb&v=4",
+    "location": "addis ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2018-10-03T06:17:51Z"
+  },
+  {
+    "login": "mebratuteshale",
+    "name": "Mebratu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36630903?s=72&u=f7a71a59f86c59d6b65df5c69ce6f7055a42b48d&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-19T13:37:00Z"
+  },
+  {
+    "login": "EthiADS",
+    "name": "AfroAIR",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44889637?s=72&v=4",
+    "location": "Addis Ababa",
+    "company": "AfroAIR",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-09T06:02:18Z"
   }
 ]
