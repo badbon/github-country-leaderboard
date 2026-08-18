@@ -70714,5 +70714,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-02T09:06:07Z"
+  },
+  {
+    "login": "LeTartap",
+    "name": "David Galati",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36513015?s=72&u=f1ed700521c2ecafdc85d391ff127eeda0977e02&v=4",
+    "location": "Netherlands / Romania",
+    "company": "@letartap-studios ",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 135,
+    "publicContributions": 132,
+    "createdAt": "2018-02-15T16:49:58Z"
+  },
+  {
+    "login": "Intonovi",
+    "name": "Intonovi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38073097?s=72&u=4a3b5f1dccae1f835a01e5d87b608079e85d401c&v=4",
+    "location": "The Netherlands, Serbia",
+    "company": "@intonovi",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-04-04T12:18:23Z"
   }
 ]

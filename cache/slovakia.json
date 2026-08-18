@@ -55522,5 +55522,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-09-30T13:43:02Z"
+  },
+  {
+    "login": "xar",
+    "name": "Samuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184865?s=72&u=78c650b0bc525af729b7d14800b2c06c2dc295cb&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 44,
+    "privateContributions": 3270,
+    "publicContributions": 69,
+    "createdAt": "2010-01-18T19:47:52Z"
+  },
+  {
+    "login": "jmisur",
+    "name": "Juraj Misur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/321761?s=72&u=11f914a37d5f1ba7099667dd9ac613f2502fc77a&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2010-07-03T09:21:29Z"
+  },
+  {
+    "login": "pejrak",
+    "name": "Peter Berezny",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/459657?s=72&v=4",
+    "location": "Bratislava",
+    "company": "Spontain",
+    "twitterUsername": "spontain",
+    "followers": 12,
+    "privateContributions": 1946,
+    "publicContributions": 0,
+    "createdAt": "2010-10-29T15:30:21Z"
+  },
+  {
+    "login": "langod",
+    "name": "Mário Hlúbik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/472464?s=72&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2010-11-08T13:49:58Z"
+  },
+  {
+    "login": "lukassivak",
+    "name": "Lukáš Sivák",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/418938?s=72&v=4",
+    "location": "Bratislava",
+    "company": "buckle up, s.r.o.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-28T09:52:29Z"
+  },
+  {
+    "login": "Baskervil",
+    "name": "Peter Kramarik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/507701?s=72&v=4",
+    "location": "Bratislava",
+    "company": "pk01 s.r.o",
+    "twitterUsername": "PK01sk",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2010-12-03T08:23:51Z"
+  },
+  {
+    "login": "mhandl",
+    "name": "Martin Handl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/520129?s=72&v=4",
+    "location": "Bratislava",
+    "company": "Inalogy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2010-12-12T17:25:11Z"
   }
 ]
