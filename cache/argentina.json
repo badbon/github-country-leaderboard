@@ -100822,5 +100822,41 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2023-06-16T18:31:30Z"
+  },
+  {
+    "login": "emmaquintana",
+    "name": "Emmanuel Ezequiel Quintana Brú",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84681492?s=72&u=2071b4de9110efe1407e550f639442ae2578ad96&v=4",
+    "location": "Argentina, Santiago del Estero",
+    "company": "",
+    "twitterUsername": "emma__dev",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-05-23T18:29:30Z"
+  },
+  {
+    "login": "rodrigoc89",
+    "name": "Rodrigo Castellanos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93744816?s=72&u=2eb7061f931edce670345cc65d4287870f357733&v=4",
+    "location": "La Banda, Santiago del Estero, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2021-11-04T23:08:10Z"
+  },
+  {
+    "login": "LucenaTeby",
+    "name": "Esteban Lucena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81316005?s=72&u=b8ada72f89dd67bf2865136849202707c7996616&v=4",
+    "location": "Santiago Del Estero, Argentina",
+    "company": "",
+    "twitterUsername": "Chuttulu",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-24T15:15:44Z"
   }
 ]

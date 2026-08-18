@@ -1210,5 +1210,41 @@
     "privateContributions": 18,
     "publicContributions": 0,
     "createdAt": "2013-10-12T10:55:35Z"
+  },
+  {
+    "login": "lbratch",
+    "name": "Luke Bratch",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3380926?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-25T11:47:08Z"
+  },
+  {
+    "login": "jeffconklin",
+    "name": "Jeff Conklin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6152325?s=72&v=4",
+    "location": "Jersey",
+    "company": "NA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-10T14:04:47Z"
+  },
+  {
+    "login": "jsyjack",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6280350?s=72&u=f09bc5f31684ac8dfebeb6545aaae920807e5a4c&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-29T10:35:17Z"
   }
 ]
