@@ -60691,7 +60691,7 @@
     "company": "",
     "twitterUsername": "gonzalomelov",
     "followers": 164,
-    "privateContributions": 5093,
+    "privateContributions": 5099,
     "publicContributions": 80,
     "createdAt": "2012-01-23T22:19:24Z"
   },
@@ -60703,7 +60703,7 @@
     "company": "@zed-industries",
     "twitterUsername": "aguzubiaga",
     "followers": 121,
-    "privateContributions": 2532,
+    "privateContributions": 2534,
     "publicContributions": 956,
     "createdAt": "2012-05-10T00:47:06Z"
   },
@@ -60847,7 +60847,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 52,
-    "privateContributions": 55,
+    "privateContributions": 56,
     "publicContributions": 949,
     "createdAt": "2012-09-27T05:07:17Z"
   },
@@ -60859,8 +60859,8 @@
     "company": "@crunchloop ",
     "twitterUsername": "",
     "followers": 52,
-    "privateContributions": 5162,
-    "publicContributions": 277,
+    "privateContributions": 5165,
+    "publicContributions": 278,
     "createdAt": "2012-08-23T03:36:18Z"
   },
   {
@@ -60895,8 +60895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 45,
-    "privateContributions": 2748,
-    "publicContributions": 590,
+    "privateContributions": 2749,
+    "publicContributions": 591,
     "createdAt": "2012-04-06T00:30:51Z"
   },
   {
@@ -60955,7 +60955,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 37,
-    "privateContributions": 520,
+    "privateContributions": 521,
     "publicContributions": 116,
     "createdAt": "2012-01-08T20:03:55Z"
   },
@@ -61027,7 +61027,7 @@
     "company": "nBlock",
     "twitterUsername": "psoto23",
     "followers": 27,
-    "privateContributions": 2975,
+    "privateContributions": 2981,
     "publicContributions": 13,
     "createdAt": "2012-06-04T13:17:12Z"
   },
@@ -61099,7 +61099,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 532,
+    "privateContributions": 533,
     "publicContributions": 11,
     "createdAt": "2012-09-01T21:42:20Z"
   },
@@ -61122,7 +61122,7 @@
     "location": "Montevideo, Uruguay",
     "company": "EverPass",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 21,
     "privateContributions": 3458,
     "publicContributions": 0,
     "createdAt": "2012-02-01T19:04:18Z"
@@ -61375,7 +61375,7 @@
     "company": "The Sandbox",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 4170,
+    "privateContributions": 4174,
     "publicContributions": 0,
     "createdAt": "2012-02-13T13:34:35Z"
   },
@@ -61411,7 +61411,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1967,
+    "privateContributions": 1969,
     "publicContributions": 1,
     "createdAt": "2012-06-06T13:58:06Z"
   },
@@ -61459,7 +61459,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1544,
+    "privateContributions": 1550,
     "publicContributions": 0,
     "createdAt": "2012-10-16T12:32:10Z"
   },
@@ -61543,7 +61543,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 693,
+    "privateContributions": 694,
     "publicContributions": 27,
     "createdAt": "2012-08-29T13:57:39Z"
   },
@@ -63082,5 +63082,173 @@
     "privateContributions": 976,
     "publicContributions": 48,
     "createdAt": "2012-03-08T20:35:46Z"
+  },
+  {
+    "login": "jpchavat",
+    "name": "JP Chavat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2160541?s=72&u=6e48676370fe4909002ff06a1b812395fe04faf6&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 6003,
+    "publicContributions": 61,
+    "createdAt": "2012-08-16T02:44:56Z"
+  },
+  {
+    "login": "lucasddaniel",
+    "name": "Lucas Daniel Souza de Medeiros",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3134046?s=72&u=8182376aa25115c278edabb3ac241b832b30f438&v=4",
+    "location": "Montevideo - UY",
+    "company": "Nubank",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-27T12:14:35Z"
+  },
+  {
+    "login": "mchirino89",
+    "name": "Mauricio Chirino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1657723?s=72&u=8bbbdbb8171b8713da777d54f6ae48772f4bd50b&v=4",
+    "location": "Montevideo",
+    "company": "@bitsoex ",
+    "twitterUsername": "mchirino89",
+    "followers": 28,
+    "privateContributions": 2555,
+    "publicContributions": 102,
+    "createdAt": "2012-04-19T02:50:16Z"
+  },
+  {
+    "login": "agustinsivoplas",
+    "name": "Agustin Sivoplás",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1648539?s=72&u=51c1ff87ae27a259d9ba54453c8f9c21cd650f0b&v=4",
+    "location": "Montevideo, UY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2012-04-16T15:05:18Z"
+  },
+  {
+    "login": "sebasrodriguez",
+    "name": "Sebastián Rodríguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1605931?s=72&u=fd1e04e8a701e93d783387c0eef86e3bb6d58d49&v=4",
+    "location": "Montevideo",
+    "company": "@gobranch ",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 1824,
+    "publicContributions": 34,
+    "createdAt": "2012-04-02T19:57:11Z"
+  },
+  {
+    "login": "MaximilianoRicoTabo",
+    "name": "Maximiliano Rico",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1678457?s=72&u=2a983701174eb5c141614db2d991074634cc3da8&v=4",
+    "location": "Montevideo - La Paloma",
+    "company": "-",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 25,
+    "publicContributions": 0,
+    "createdAt": "2012-04-25T13:29:26Z"
+  },
+  {
+    "login": "genrydev",
+    "name": "Genry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2447886?s=72&u=42c5cc4cc24c7357cb3a70791cbcb1b2c08dbd32&v=4",
+    "location": "Montevideo",
+    "company": "Oniros Group",
+    "twitterUsername": "genrydev",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-28T19:45:12Z"
+  },
+  {
+    "login": "phpepe",
+    "name": "Ignacio Vazquez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2085678?s=72&u=61ca0b80d4001f325af153357cdd40a73b61dd03&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-02T20:05:54Z"
+  },
+  {
+    "login": "aleml86",
+    "name": "Alejandro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2364315?s=72&v=4",
+    "location": "Montevideo",
+    "company": "Mercado Libre",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-17T17:54:29Z"
+  },
+  {
+    "login": "fmelo",
+    "name": "Federico Melo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2521413?s=72&u=890889342bc2aae6d42e0a8aeefe2d3b177ab4be&v=4",
+    "location": "Montevideo",
+    "company": "Infuy",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-09T16:24:01Z"
+  },
+  {
+    "login": "martintraverso",
+    "name": "Martín Traverso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2123087?s=72&u=7ea1c26ca60ad47ad768d83b18edb4c620dea9e6&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 422,
+    "publicContributions": 13,
+    "createdAt": "2012-08-09T11:47:03Z"
+  },
+  {
+    "login": "agucabral21",
+    "name": "Agustin Cabral",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1836226?s=72&u=bc6a42acb3c4c1f952648f4553a7b2c7b0956e57&v=4",
+    "location": "Montevideo",
+    "company": "TalkingPoints",
+    "twitterUsername": "nitsuga_larbac",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2012-06-10T19:25:13Z"
+  },
+  {
+    "login": "lizzwitch",
+    "name": "Elisa Ferrando",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2367187?s=72&u=fb257ae4caad969087eaffbb6fc379c66809fff8&v=4",
+    "location": "Montevideo, UY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-18T03:22:37Z"
+  },
+  {
+    "login": "gvarini",
+    "name": "Guillermo varini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1720443?s=72&v=4",
+    "location": "Montevideo",
+    "company": "Hexacta SRL",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-05-09T03:55:11Z"
   }
 ]

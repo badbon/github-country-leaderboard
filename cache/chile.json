@@ -70663,7 +70663,7 @@
     "company": "@xpendit",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1187,
+    "privateContributions": 1191,
     "publicContributions": 18,
     "createdAt": "2021-03-08T20:40:51Z"
   },
@@ -70771,7 +70771,7 @@
     "company": "Universidad Técnica Federico Santa María",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 90,
+    "privateContributions": 160,
     "publicContributions": 6,
     "createdAt": "2021-06-14T21:09:16Z"
   },
@@ -70867,8 +70867,8 @@
     "company": "Buk",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 2843,
-    "publicContributions": 1077,
+    "privateContributions": 2887,
+    "publicContributions": 1092,
     "createdAt": "2021-03-09T13:14:15Z"
   },
   {
@@ -71419,7 +71419,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 786,
+    "privateContributions": 791,
     "publicContributions": 25,
     "createdAt": "2021-06-27T03:04:49Z"
   },
@@ -82267,8 +82267,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 21,
-    "publicContributions": 228,
+    "privateContributions": 22,
+    "publicContributions": 230,
     "createdAt": "2021-08-24T21:19:59Z"
   },
   {
@@ -90226,5 +90226,149 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-08-18T23:32:41Z"
+  },
+  {
+    "login": "karemgdiaz",
+    "name": "Karem Gomez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85319932?s=72&u=ec266b55919524a32eba61083a42c9bd5882a1d3&v=4",
+    "location": "Santiago",
+    "company": "AgendaPro",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-03T22:48:58Z"
+  },
+  {
+    "login": "diegoa88",
+    "name": "Diego",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87997017?s=72&u=fc7eec6996945a5fdd244d3ea95429283d8f7371&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 1388,
+    "publicContributions": 4,
+    "createdAt": "2021-07-26T17:26:42Z"
+  },
+  {
+    "login": "NataMellado",
+    "name": "Natalia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86620063?s=72&u=a90432a027c7c5169a59723b037bd4b9e54f442c&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2021-06-28T16:46:21Z"
+  },
+  {
+    "login": "LautaroPC",
+    "name": "Lautaro Lian Perez Crespo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94991620?s=72&v=4",
+    "location": "Santiago del Estero - Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-24T18:32:43Z"
+  },
+  {
+    "login": "maxvilam",
+    "name": "Maximiliano Avila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96598024?s=72&u=4781ba13dcc2697f0517e59913478a34d7862f32&v=4",
+    "location": "Santiago Lampa",
+    "company": "Mi Casa",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-23T21:31:41Z"
+  },
+  {
+    "login": "ticoxz",
+    "name": "Marcelo Miranda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78736175?s=72&u=2f26c033b8525b1120765786ca07b0c650233f79&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 2489,
+    "publicContributions": 26,
+    "createdAt": "2021-02-08T12:24:37Z"
+  },
+  {
+    "login": "TomasAndresPH",
+    "name": "Tomás Andrés",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95324804?s=72&u=61236778c9e2d55ae1ae112e74b537cd169c02f4&v=4",
+    "location": "Santiago",
+    "company": "Inacap Sede Renca",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 1343,
+    "publicContributions": 11,
+    "createdAt": "2021-12-01T01:25:30Z"
+  },
+  {
+    "login": "Ceristh",
+    "name": "Ceristh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82520950?s=72&u=73b97404fc8c284ee13b9669d82c9f197192d12c&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-14T13:43:34Z"
+  },
+  {
+    "login": "eriquisanti",
+    "name": "Ériqui Santi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96020146?s=72&u=32ad2c8ae31ccca69e7c568bf94358d93b8ec186&v=4",
+    "location": "Santiago - RS",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 448,
+    "publicContributions": 13,
+    "createdAt": "2021-12-12T18:15:33Z"
+  },
+  {
+    "login": "jj-sm",
+    "name": "Juan José Sánchez Medina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89701934?s=72&u=5d31eb11c24ce52c796652c87c0dc5df5c71b2c0&v=4",
+    "location": "Santiago",
+    "company": "@Sideralia @open-source-uc @astrouc @IIC1103 @IIC2233 ",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 617,
+    "publicContributions": 245,
+    "createdAt": "2021-08-28T16:47:38Z"
+  },
+  {
+    "login": "FernandoLirio",
+    "name": "Fernando Lirio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89742999?s=72&u=9602692aed56905f3579d6d3a96916607ee477f7&v=4",
+    "location": "Santiago - Rio Grande do Sul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-29T16:49:21Z"
+  },
+  {
+    "login": "JulianoMedeirosMachado",
+    "name": "Juliano de Medeiros Machado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84749353?s=72&u=e517e107a57f71420f0e8d109d01147200814ffd&v=4",
+    "location": "Santiago, RS",
+    "company": "Sottama",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2021-05-24T22:19:36Z"
   }
 ]

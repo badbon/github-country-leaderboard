@@ -97222,5 +97222,29 @@
     "privateContributions": 0,
     "publicContributions": 39,
     "createdAt": "2024-11-07T18:49:15Z"
+  },
+  {
+    "login": "ricaardev",
+    "name": "Ricardo Fraga Méndez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90940077?s=72&u=9161ca61e9a15bfbb8283488531c79e5e0b80928&v=4",
+    "location": "Santiago de Comspotela (Spain)",
+    "company": "",
+    "twitterUsername": "ricaardev",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-17T23:31:11Z"
+  },
+  {
+    "login": "emesquinas",
+    "name": "Eva María Esquinas Román",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78473997?s=72&u=cfd34f898b93e08bee95d36507ad4a0254c9245c&v=4",
+    "location": "Santiago de Compostela, Spain",
+    "company": "CiMUS",
+    "twitterUsername": "emesquinas",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2021-02-03T09:18:37Z"
   }
 ]

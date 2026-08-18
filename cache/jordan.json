@@ -48334,5 +48334,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-10-22T07:59:18Z"
+  },
+  {
+    "login": "aburakab",
+    "name": "Mohammad Aljaber",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30401?s=72&u=7f773a7787050ead4149b35cb79bf6a0f4842f76&v=4",
+    "location": "Amman, Jordan",
+    "company": "Meccasoft",
+    "twitterUsername": "bunjeeb",
+    "followers": 74,
+    "privateContributions": 0,
+    "publicContributions": 92,
+    "createdAt": "2008-10-22T15:19:57Z"
+  },
+  {
+    "login": "tambijalouqa",
+    "name": "Tambi Jalouqa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21775?s=72&u=18dc27875150297c4487c802fa2762f75056c8bd&v=4",
+    "location": "Jordan",
+    "company": "Maza Ventures",
+    "twitterUsername": "",
+    "followers": 50,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2008-08-24T21:35:24Z"
+  },
+  {
+    "login": "neshmi",
+    "name": "Matthew Vincent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7353?s=72&v=4",
+    "location": "Amman, Jordan",
+    "company": "American Center of Research",
+    "twitterUsername": "",
+    "followers": 45,
+    "privateContributions": 301,
+    "publicContributions": 230,
+    "createdAt": "2008-04-15T01:31:21Z"
+  },
+  {
+    "login": "zakwanhaj",
+    "name": "Zakwan Hajjar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40362?s=72&v=4",
+    "location": "Jordan",
+    "company": "Remodeling LLC",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 638,
+    "publicContributions": 0,
+    "createdAt": "2008-12-14T17:06:48Z"
   }
 ]
