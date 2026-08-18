@@ -53926,5 +53926,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-07-13T15:23:53Z"
+  },
+  {
+    "login": "kuzmany",
+    "name": "Zdeno Kuzmany",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/462477?s=72&u=20c1f28454a5b6ec8a1ca0071eaee6b06b2e8ffd&v=4",
+    "location": "Slovak republic",
+    "company": "Webmecanik",
+    "twitterUsername": "",
+    "followers": 114,
+    "privateContributions": 4632,
+    "publicContributions": 285,
+    "createdAt": "2010-11-01T09:35:30Z"
+  },
+  {
+    "login": "selmeci",
+    "name": "Roman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224795?s=72&u=dc52b73df38b73701e9520082dd2528100a819ac&v=4",
+    "location": "Bratislava, Slovak Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 232,
+    "createdAt": "2010-03-17T19:40:14Z"
+  },
+  {
+    "login": "rasel-sk",
+    "name": "Matej Kolesárr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/488239?s=72&u=10c222638ef9d18cfb260e5b3450a910d8d41ce3&v=4",
+    "location": "Slovak republic",
+    "company": "STAPRO SLOVENSKO s.r.o.",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-19T09:41:58Z"
+  },
+  {
+    "login": "jankomartin",
+    "name": "Martin Jankovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/371673?s=72&v=4",
+    "location": "Slovak Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-21T10:22:26Z"
   }
 ]
