@@ -93982,5 +93982,41 @@
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2024-03-22T03:57:18Z"
+  },
+  {
+    "login": "kevincouton",
+    "name": "kevin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10117080?s=72&u=cc6f161e76a4a769b502729717058cf7dce728b6&v=4",
+    "location": "Shenzhen - Hong Kong - London",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 147,
+    "createdAt": "2014-12-08T13:58:58Z"
+  },
+  {
+    "login": "wongwei",
+    "name": "Merlin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7955610?s=72&u=de9aecb00697792aebb1b653f98ac9278d5e25d7&v=4",
+    "location": "Shanghai, Hong Kong and Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-06-22T10:01:33Z"
+  },
+  {
+    "login": "LiWeny16",
+    "name": "LI WENYU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91268681?s=72&u=92cabb321278fa745da0db7c2c1ab6178455bd1a&v=4",
+    "location": "Singapore/China",
+    "company": "Nantional University of Singapore",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 1140,
+    "createdAt": "2021-09-23T13:39:33Z"
   }
 ]

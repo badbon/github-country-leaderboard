@@ -88522,5 +88522,77 @@
     "privateContributions": 165,
     "publicContributions": 37,
     "createdAt": "2019-04-06T20:49:30Z"
+  },
+  {
+    "login": "fuoridallozoo",
+    "name": "FUORI dallo ZOO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136577812?s=72&u=5ab7dfa3b4015a99e4ac3e7f2f87b8eb0679abaf&v=4",
+    "location": "Parco Michelotti, Torino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-06-14T08:58:08Z"
+  },
+  {
+    "login": "Mehrboddx",
+    "name": "Mehrbod Nowrouz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121951340?s=72&u=fb19a9c536cbc251855a2a7f8d8ebdfe4ca2daeb&v=4",
+    "location": "Torino",
+    "company": "Politecnico di torino",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 51,
+    "publicContributions": 82,
+    "createdAt": "2023-01-04T13:35:16Z"
+  },
+  {
+    "login": "chiarazavattaro",
+    "name": "Chiara Zavattaro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138511038?s=72&u=17b0eb8f2101ceff84809b4ea82a8de8a6feffce&v=4",
+    "location": "Torino",
+    "company": "Chiara Zavattaro",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-03T15:51:28Z"
+  },
+  {
+    "login": "alegulli",
+    "name": "Alessandra Gullì",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128488754?s=72&u=16de3bd3cbef94b87bcf7ddd6c3c0e280fa20f1b&v=4",
+    "location": "Torino",
+    "company": "Università degli studi di Torino",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-21T13:09:11Z"
+  },
+  {
+    "login": "ManudiZeta",
+    "name": "Emanuele Zanusso",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132111826?s=72&u=088c2017c383a5003955533bc53162a48de0b6bb&v=4",
+    "location": "Torino",
+    "company": "Fisica - Torino",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 16,
+    "publicContributions": 151,
+    "createdAt": "2023-04-29T00:01:45Z"
+  },
+  {
+    "login": "tasdemiroyku",
+    "name": "Öykü Taşdemir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123832647?s=72&u=34e209e3f28d451adfd9e62f1012488b13e9593d&v=4",
+    "location": "Torino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-28T18:18:24Z"
   }
 ]

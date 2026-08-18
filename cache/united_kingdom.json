@@ -62240,7 +62240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 34,
     "createdAt": "2024-02-06T00:36:25Z"
   },
   {
@@ -62444,7 +62444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 59,
     "createdAt": "2024-01-23T10:32:00Z"
   },
   {
@@ -99130,5 +99130,77 @@
     "privateContributions": 538,
     "publicContributions": 44,
     "createdAt": "2010-06-20T13:27:31Z"
+  },
+  {
+    "login": "katsie03",
+    "name": "Omar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50741678?s=72&u=14d8998060c69b0eabed87573a27cc5f7e01bda7&v=4",
+    "location": "England, UK | Dublin, IE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 54,
+    "publicContributions": 11,
+    "createdAt": "2019-05-17T12:37:17Z"
+  },
+  {
+    "login": "Elsie-Wilkinson",
+    "name": "elsie wilkinson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160747225?s=72&u=bd8995494591c2d3a5427d11cd6363880ed57014&v=4",
+    "location": "manchester",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-21T13:44:06Z"
+  },
+  {
+    "login": "prosper-creations",
+    "name": "Innocent N",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159199543?s=72&u=07ad2b30aae4627bff0c9611029cf85aad36a3bd&v=4",
+    "location": "Manchester",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-06T22:24:03Z"
+  },
+  {
+    "login": "Norhan-Negm",
+    "name": "Norhan Negm",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178796722?s=72&u=9ba66224b0ff0ac03f1d84fe158b19d5418a34a3&v=4",
+    "location": "Manchester",
+    "company": "Evelyn Partners",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-08-19T12:35:58Z"
+  },
+  {
+    "login": "parvathaa",
+    "name": "Parvatha LS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158843700?s=72&u=a740f3473e4891dd3f942d61dea71f246869e860&v=4",
+    "location": "Manchester, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 4,
+    "publicContributions": 94,
+    "createdAt": "2024-02-04T17:18:06Z"
+  },
+  {
+    "login": "carriking",
+    "name": "Carri King",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178472411?s=72&v=4",
+    "location": "Manchester, UK",
+    "company": "University of Manchester",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2024-08-15T10:08:25Z"
   }
 ]

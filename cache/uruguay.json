@@ -65542,5 +65542,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-02-28T22:44:46Z"
+  },
+  {
+    "login": "mocampo",
+    "name": "Matias Ocampo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1193567?s=72&v=4",
+    "location": "Montevideo",
+    "company": "Zimmic",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-14T12:57:56Z"
+  },
+  {
+    "login": "Goday",
+    "name": "Alejandro Goday",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/693913?s=72&v=4",
+    "location": "Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-27T21:36:25Z"
   }
 ]
