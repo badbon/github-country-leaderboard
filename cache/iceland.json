@@ -16195,7 +16195,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 3960,
+    "privateContributions": 3974,
     "publicContributions": 118,
     "createdAt": "2011-10-03T01:10:10Z"
   },
@@ -16483,7 +16483,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 3881,
+    "privateContributions": 3887,
     "publicContributions": 0,
     "createdAt": "2011-11-01T21:27:17Z"
   },
@@ -16591,7 +16591,7 @@
     "company": "@Daveloehf ",
     "twitterUsername": "Chipcius",
     "followers": 5,
-    "privateContributions": 7511,
+    "privateContributions": 7518,
     "publicContributions": 13,
     "createdAt": "2011-09-07T14:04:33Z"
   },
@@ -17038,5 +17038,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-06-29T12:39:05Z"
+  },
+  {
+    "login": "thormagnusson",
+    "name": "thor magnusson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/720548?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "Intelligent Instruments Lab",
+    "twitterUsername": "thormagnusson",
+    "followers": 311,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-10T13:37:18Z"
+  },
+  {
+    "login": "moritayasuaki",
+    "name": "Yasuaki Morita",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/629612?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "L",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-21T09:59:11Z"
+  },
+  {
+    "login": "bjornlarus",
+    "name": "Björn Lárus Arnórsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/917281?s=72&u=5af9606a204dee25cab13c2e318d7caa00f15c32&v=4",
+    "location": "Reykjavik",
+    "company": "bla",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-07-15T09:28:17Z"
+  },
+  {
+    "login": "Andrewpk",
+    "name": "Andrew Kehrig",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1033728?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "wat",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 950,
+    "publicContributions": 57,
+    "createdAt": "2011-09-07T18:51:49Z"
+  },
+  {
+    "login": "kristinns",
+    "name": "Kristinn Svansson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1177751?s=72&u=d7986d84d5136b128d4ddee0f397d9d82acc9cdf&v=4",
+    "location": "Reykjavik",
+    "company": "Jiko",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-07T11:50:13Z"
+  },
+  {
+    "login": "gunniho",
+    "name": "Gunnar Holmsteinn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1255418?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "@QuestPortal ",
+    "twitterUsername": "gunniho",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2011-12-11T12:43:35Z"
+  },
+  {
+    "login": "sveinnv",
+    "name": "Sveinn Viðarsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/675337?s=72&v=4",
+    "location": "Reykjavik",
+    "company": "Ymir Mobile",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-17T15:16:33Z"
+  },
+  {
+    "login": "hlodver",
+    "name": "Hlöðver Þór Árnason",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1008423?s=72&u=eb1183262e9ce28aecf7163c605a1d8542cb7802&v=4",
+    "location": "Reykjavik",
+    "company": "@wonderguide-com ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2011-08-27T12:51:25Z"
   }
 ]

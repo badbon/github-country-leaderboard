@@ -26446,5 +26446,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-12-26T20:25:02Z"
+  },
+  {
+    "login": "ammar",
+    "name": "Ammar Ali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2959?s=72&v=4",
+    "location": "Ramallah, Palestine",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 37,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-03-13T00:24:05Z"
+  },
+  {
+    "login": "shuaibzahda",
+    "name": "Shuaib Zahda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15633?s=72&u=22a19ac440c1a1c485f4c64317000019b824ca4f&v=4",
+    "location": "Hebron, Palestine",
+    "company": "Alzahidi Tech for Information Technology",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 2217,
+    "publicContributions": 2,
+    "createdAt": "2008-07-01T06:20:00Z"
+  },
+  {
+    "login": "dirar",
+    "name": "Dirar Abu Kteish",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14835?s=72&u=65baff02cf2dac8686553e8180072ac33f436bdf&v=4",
+    "location": "Palestine",
+    "company": "@TechForPalestine ",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 874,
+    "publicContributions": 25,
+    "createdAt": "2008-06-24T12:16:36Z"
   }
 ]

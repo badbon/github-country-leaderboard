@@ -47998,5 +47998,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-23T13:59:42Z"
+  },
+  {
+    "login": "apalts",
+    "name": "Andrus Palts",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4236581?s=72&u=0c04d1b09d0d841945838e9bbfbe31d607ad74e7&v=4",
+    "location": "Tallinn",
+    "company": "@transferwise ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-23T15:51:11Z"
+  },
+  {
+    "login": "catkin-sp",
+    "name": "Sergei Prokopov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5385091?s=72&v=4",
+    "location": "Tallinn, EST",
+    "company": "Eco Coins",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-04T19:38:31Z"
+  },
+  {
+    "login": "eldest",
+    "name": "Anton Eremenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3231899?s=72&u=a6f11b803c40e72d977cd39abf0e82d0be6907ae&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2013-01-10T04:32:56Z"
+  },
+  {
+    "login": "YourSelfAvent",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3537955?s=72&u=2a9657d00eec8c7db0253c11f0cd6c86de384b38&v=4",
+    "location": "Tallinn",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-12T02:30:51Z"
   }
 ]

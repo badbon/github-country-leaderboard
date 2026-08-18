@@ -53110,5 +53110,41 @@
     "privateContributions": 7896,
     "publicContributions": 29,
     "createdAt": "2017-04-10T15:24:29Z"
+  },
+  {
+    "login": "eliasLoker",
+    "name": "Elias Loker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34266222?s=72&u=61140a2cc52f540af21a1a87aab67fd72fd880d2&v=4",
+    "location": "Almaty, Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 647,
+    "publicContributions": 6,
+    "createdAt": "2017-12-05T08:20:46Z"
+  },
+  {
+    "login": "CitizenF1",
+    "name": "Azamat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24878241?s=72&u=68fe749ad493861a9d0bbf450b047476892f8ce0&v=4",
+    "location": "Nur-Sultan, Qazaqstan",
+    "company": "BCC HUB",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1,
+    "publicContributions": 21,
+    "createdAt": "2017-01-02T15:53:57Z"
+  },
+  {
+    "login": "SyrymJoli",
+    "name": "Syrym Joli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31651317?s=72&u=034b4fbc6de99e5771448120127527fdcabf0807&v=4",
+    "location": "Astana, Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-05T09:22:19Z"
   }
 ]

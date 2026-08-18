@@ -25678,5 +25678,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-03-24T10:45:15Z"
+  },
+  {
+    "login": "NikitchenkoSergey",
+    "name": "Nikitchenko Sergey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7048202?s=72&u=67a572a192ce7438ae1c8f97bea671bd79ff82e4&v=4",
+    "location": "Nicosia",
+    "company": "FXBO",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 511,
+    "publicContributions": 4,
+    "createdAt": "2014-03-24T14:40:39Z"
+  },
+  {
+    "login": "ttofis",
+    "name": "Chris Charalambous",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8685248?s=72&u=596f93687eca750a6827995d8d9aae9e4bc286fd&v=4",
+    "location": "Athens and Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 770,
+    "publicContributions": 57,
+    "createdAt": "2014-09-07T10:36:44Z"
+  },
+  {
+    "login": "astamataris",
+    "name": "Andreas Stamataris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9121276?s=72&u=7569ba849734508ba0cf0c638c440aa288b3ded8&v=4",
+    "location": "Nicosia",
+    "company": "@serieseight ",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 1987,
+    "publicContributions": 0,
+    "createdAt": "2014-10-09T20:41:21Z"
+  },
+  {
+    "login": "nphyla01",
+    "name": "Nedi Phylactou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8780568?s=72&v=4",
+    "location": "Nicosia",
+    "company": "University of Cyprus",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-15T15:33:39Z"
+  },
+  {
+    "login": "b25",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7026736?s=72&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 350,
+    "createdAt": "2014-03-21T21:38:41Z"
+  },
+  {
+    "login": "vasvav",
+    "name": "Vasileios Vavourakis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8654496?s=72&u=a849b2f744f6c85d6064a4dcbf0628b1fd6711f0&v=4",
+    "location": "Nicosia | London",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 82,
+    "createdAt": "2014-09-04T10:36:52Z"
+  },
+  {
+    "login": "mariosfx540",
+    "name": "Marios Constantinou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9142189?s=72&u=e35324aa6e942c14dc378b495890c8b33862f16b&v=4",
+    "location": "Nicosia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-10T20:51:32Z"
   }
 ]

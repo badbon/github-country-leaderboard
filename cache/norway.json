@@ -61558,5 +61558,77 @@
     "privateContributions": 0,
     "publicContributions": 63,
     "createdAt": "2019-06-27T00:44:25Z"
+  },
+  {
+    "login": "SemihDurmus",
+    "name": "Semih Berge",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58508058?s=72&u=f389727a66ae53968f82dfc5cb3becaac2b516a1&v=4",
+    "location": "Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 154,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2019-12-04T09:06:55Z"
+  },
+  {
+    "login": "g1fttt",
+    "name": "Heorhii Hovorov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47251951?s=72&u=e980c320621d9b99915191e161f3961d4ad67cb8&v=4",
+    "location": "Norge, Vestland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 289,
+    "createdAt": "2019-02-01T15:48:52Z"
+  },
+  {
+    "login": "SindyDev",
+    "name": "Sindre Bakken",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46872792?s=72&u=76eb0c32e856c84aa3f083d04b5f1f5a5d00a2e6&v=4",
+    "location": "Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-20T19:36:45Z"
+  },
+  {
+    "login": "Kikkin63",
+    "name": "Kristin Wenhaug",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50317668?s=72&v=4",
+    "location": "Norge",
+    "company": "NAV IT",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-06T07:48:03Z"
+  },
+  {
+    "login": "GoodPigeon",
+    "name": "Patrik Gillebo Olsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46895493?s=72&v=4",
+    "location": "Oslo, Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-21T13:52:00Z"
+  },
+  {
+    "login": "relw",
+    "name": "Rasmus Steine Olsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48986558?s=72&u=96338b9480153db859ea600ffac56cb3ef3c6e92&v=4",
+    "location": "Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-27T10:39:19Z"
   }
 ]
