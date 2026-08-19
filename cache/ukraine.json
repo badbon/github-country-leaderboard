@@ -106990,5 +106990,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-01T10:38:33Z"
+  },
+  {
+    "login": "vonmuff",
+    "name": "Maxim Mardariev ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105542128?s=72&u=02ff4734d9101d630557819e8fb9a3ef03133b16&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2022-05-14T09:22:59Z"
+  },
+  {
+    "login": "DanyloSus",
+    "name": "Danylo Sushko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117746706?s=72&u=7b6447523797681021277fd4e54056259190aff7&v=4",
+    "location": "Odesa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 139,
+    "createdAt": "2022-11-08T14:08:32Z"
   }
 ]

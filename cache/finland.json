@@ -110842,5 +110842,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2017-01-27T17:39:59Z"
+  },
+  {
+    "login": "jaost",
+    "name": "Jani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32166152?s=72&u=cfc29d4d06040be03b48f1d398e1d6b6f107a985&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1997,
+    "publicContributions": 7,
+    "createdAt": "2017-09-21T12:11:10Z"
+  },
+  {
+    "login": "mxmavo",
+    "name": "Max Aurajärvi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34130656?s=72&u=58fb31721116bd509da30a35364a665376f8e504&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2017-11-30T13:17:26Z"
+  },
+  {
+    "login": "santiagt",
+    "name": "Santiago Torres",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32060997?s=72&u=9c1f1e565cfe7b311d2dcdd1e6b0c767e1517bda&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-18T10:02:34Z"
+  },
+  {
+    "login": "MikkoLipsanen",
+    "name": "Mikko Lipsanen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33789802?s=72&u=174da9c9c5c10d3db7b5b46abbaa51b17e08bb70&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2017-11-18T18:35:44Z"
+  },
+  {
+    "login": "shitCodeIsShit",
+    "name": "Valtteri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29894190?s=72&u=5a8ee4115ad9070671e32dcace0dca7ef3185e6f&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-04T13:53:40Z"
+  },
+  {
+    "login": "renat-nosto",
+    "name": "Renat Vasilyev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27726720?s=72&u=6432c725ee686d8b2fc67292062188e6d02929f3&v=4",
+    "location": "Helsinki, FI",
+    "company": "@Nosto ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 463,
+    "publicContributions": 10,
+    "createdAt": "2017-04-18T10:34:56Z"
   }
 ]

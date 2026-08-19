@@ -75742,5 +75742,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-03-29T20:44:15Z"
+  },
+  {
+    "login": "yangfengKAUST",
+    "name": "Yang Feng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16612252?s=72&u=4cf6eb2427f692ff92e69c1646e18c1d8c2e02bd&v=4",
+    "location": "Kingdom of Saudi Arabia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-08T15:47:16Z"
+  },
+  {
+    "login": "iamsafwan",
+    "name": "Safwan Zubair Khan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16646891?s=72&u=d34af57400bd812c646c2255a81f8f0348b70a89&v=4",
+    "location": "Kingdom of Saudi Arabia",
+    "company": "",
+    "twitterUsername": "safwankhan18",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-11T11:08:26Z"
+  },
+  {
+    "login": "zpgeng",
+    "name": "Zipei (Fred) Geng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22430359?s=72&u=25c1902e39556684cf8e7d29d5165075c712e218&v=4",
+    "location": "Thuwal, Kingdom of Saudi Arabia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 3,
+    "publicContributions": 2,
+    "createdAt": "2016-09-25T15:06:32Z"
+  },
+  {
+    "login": "qaisernuman",
+    "name": "numan qaiser",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24795905?s=72&u=c6a43978c9fb102375cba2a69192b64592e5a715&v=4",
+    "location": "Riyadh,Kingdom of Saudi Arabia",
+    "company": "ElectricalEngWord",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-27T16:39:18Z"
+  },
+  {
+    "login": "RPech",
+    "name": "Rebekka Pech",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22984769?s=72&v=4",
+    "location": "Thuwal, Kingdom of Saudi Arabia",
+    "company": "King Abdullah University of Science and Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-21T15:48:53Z"
+  },
+  {
+    "login": "shadi-ois",
+    "name": "Shadi Mostafa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17790128?s=72&v=4",
+    "location": "Riyadh, Kingdom of Saudi Arabia",
+    "company": "Al Oruba International Schools",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-11T21:21:33Z"
   }
 ]
