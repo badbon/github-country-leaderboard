@@ -80062,5 +80062,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-11-18T22:51:54Z"
+  },
+  {
+    "login": "gobezu",
+    "name": "gobezu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/955701?s=72&v=4",
+    "location": "Addis Ababa, Ethiopia",
+    "company": "",
+    "twitterUsername": "gobezu",
+    "followers": 8,
+    "privateContributions": 493,
+    "publicContributions": 0,
+    "createdAt": "2011-08-03T04:30:41Z"
+  },
+  {
+    "login": "yonashailug-zz",
+    "name": "Yonas Hailu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1173742?s=72&u=0447c2b0dbaa2d01788de9d4ae77eb6dd8d774e0&v=4",
+    "location": "Ethiopia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-05T02:21:38Z"
+  },
+  {
+    "login": "ygetachew",
+    "name": "Yared Getachew Tessema",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/570392?s=72&u=4a787ed091b738c446adf9a4b793652d8fab3f91&v=4",
+    "location": "Addis Ababa, Ethiopia",
+    "company": "Toreans Engineering plc",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-18T09:37:31Z"
+  },
+  {
+    "login": "dhmichael",
+    "name": "Daniel Hailemichael",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1128089?s=72&u=052746477d60924ac6a9ab73af4a0487df8a4761&v=4",
+    "location": "Addis Ababa, Ethiopia",
+    "company": "ILRI",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-14T11:53:49Z"
+  },
+  {
+    "login": "eshetua",
+    "name": "Eshetu Abebe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/689791?s=72&u=ff6137be604e9061d5e50dbbfb363b9340163d36&v=4",
+    "location": "Addis Ababa, Ethiopia",
+    "company": "Sewasew Inc",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2011-03-25T06:50:22Z"
+  },
+  {
+    "login": "Temesgen",
+    "name": "Temesgen Gebeyehu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/720989?s=72&v=4",
+    "location": "Addis Ababa, Ethiopia",
+    "company": "World Vision Ethiopia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-10T19:30:10Z"
+  },
+  {
+    "login": "beruhh",
+    "name": "Beruh H Tadesse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/546979?s=72&u=5a97c04707adc92e89d7052c0ee95ceb415fa23e&v=4",
+    "location": "Addis Abeba, Ethiopia",
+    "company": "Brilliant IT Services (BITS)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-04T13:29:13Z"
   }
 ]

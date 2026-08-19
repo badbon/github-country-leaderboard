@@ -94184,7 +94184,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 440,
+    "publicContributions": 464,
     "createdAt": "2020-03-17T18:35:56Z"
   },
   {
@@ -94207,7 +94207,7 @@
     "company": "",
     "twitterUsername": "Alfr3d07Dev",
     "followers": 9,
-    "privateContributions": 1003,
+    "privateContributions": 1046,
     "publicContributions": 0,
     "createdAt": "2020-03-25T02:08:23Z"
   },
@@ -94939,7 +94939,7 @@
     "company": "Buk",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 321,
+    "privateContributions": 323,
     "publicContributions": 8,
     "createdAt": "2020-02-24T05:34:59Z"
   },
@@ -95023,8 +95023,8 @@
     "company": "Gokei",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2397,
-    "publicContributions": 82,
+    "privateContributions": 2421,
+    "publicContributions": 86,
     "createdAt": "2020-06-03T02:43:22Z"
   },
   {
@@ -104648,7 +104648,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 39,
     "createdAt": "2020-11-09T13:55:08Z"
   },
   {
@@ -104803,7 +104803,7 @@
     "company": "Universidad de Chile",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 492,
+    "privateContributions": 494,
     "publicContributions": 28,
     "createdAt": "2020-07-27T18:05:25Z"
   },
@@ -114022,5 +114022,161 @@
     "privateContributions": 487,
     "publicContributions": 0,
     "createdAt": "2020-05-07T19:35:34Z"
+  },
+  {
+    "login": "Berni-i",
+    "name": "David Bernárdez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72011037?s=72&v=4",
+    "location": "Santiago de Compostela",
+    "company": "Universidad de Santiago de Compostela",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 12,
+    "publicContributions": 0,
+    "createdAt": "2020-09-28T08:34:03Z"
+  },
+  {
+    "login": "SonLuc",
+    "name": "Luciano Denis Arredondo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69604958?s=72&u=d0b056360bb1c0e91f6f03413815b2217e9ca7e5&v=4",
+    "location": "Santiago",
+    "company": "Safe Care",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 260,
+    "publicContributions": 1,
+    "createdAt": "2020-08-12T20:50:55Z"
+  },
+  {
+    "login": "cfestay",
+    "name": "Carlos Estay Olguín",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74432799?s=72&u=957fcd3a3cd2f425ea1f328245522c4afa64ea87&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "cfestay",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-13T21:18:44Z"
+  },
+  {
+    "login": "Leonardo976",
+    "name": "Leonardo Muñoz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73618055?s=72&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2020-10-28T22:13:01Z"
+  },
+  {
+    "login": "BenjaaMartinezG",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59803192?s=72&u=abb64525c2ec8cc200f275ec77839acc25aada56&v=4",
+    "location": "Santiago, Región Metropolitana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-01-12T18:13:41Z"
+  },
+  {
+    "login": "JennyVicencio",
+    "name": "Jenny Vicencio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72455648?s=72&u=3f9ba97c8186502bafcb4eadd5e63a7ae8a60fec&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-06T14:31:46Z"
+  },
+  {
+    "login": "JersonDiaz025",
+    "name": "Jerson_Diaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60714079?s=72&u=54b9a882b9322539d9e85518b6548070478c8d4f&v=4",
+    "location": "Santiago, Rep. Dom.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2020-02-05T20:02:54Z"
+  },
+  {
+    "login": "Vichoooz",
+    "name": "Vicente Muñoz Rojas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74024981?s=72&u=9519353af757790cc9ca27590f3a819fb1cc6607&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 22,
+    "publicContributions": 45,
+    "createdAt": "2020-11-05T21:59:23Z"
+  },
+  {
+    "login": "asmedina24",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73001248?s=72&u=56621e1df665c4e3197416baa60947621304e332&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-16T21:28:50Z"
+  },
+  {
+    "login": "PamelaValenzuela",
+    "name": "Pamela Valenzuela Escárate",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60937498?s=72&u=becd7aca931c23e7bc792cd7e53ced38b168d538&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-02-11T17:23:25Z"
+  },
+  {
+    "login": "PabloG17",
+    "name": "Pablo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71922510?s=72&v=4",
+    "location": "Santiago de Compostela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-26T08:27:36Z"
+  },
+  {
+    "login": "nataliasilvab",
+    "name": "Natalia Silva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60699526?s=72&u=1d9ae27a2d16ebdedeaa952c7d5a2d8318a3252c&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-02-05T13:15:58Z"
+  },
+  {
+    "login": "Jboschlagos",
+    "name": "Jorge Bosch ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62768880?s=72&u=d2f7555ce61c9a757acf2d43179bdf1d6ad1a5a8&v=4",
+    "location": "Santiago",
+    "company": "Reducido Studio | Desarrollo web para todos",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 539,
+    "createdAt": "2020-03-27T18:56:13Z"
   }
 ]
