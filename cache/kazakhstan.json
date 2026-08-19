@@ -67942,5 +67942,29 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2010-10-09T17:19:19Z"
+  },
+  {
+    "login": "kmmbvnr",
+    "name": "Mikhail Podgurskiy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282529?s=72&u=52d34a89f413a1be41712273873920954d9f1e2e&v=4",
+    "location": "Qazaqstan, Astana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 260,
+    "privateContributions": 2821,
+    "publicContributions": 942,
+    "createdAt": "2010-05-20T15:45:23Z"
+  },
+  {
+    "login": "mixdesign",
+    "name": "Almas Adilbek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198882?s=72&u=593df95f010fb2aba5c1aa74ee42f6d65025909d&v=4",
+    "location": "Qazaqstan, Almaty",
+    "company": "GOOD / APP",
+    "twitterUsername": "mixdesign",
+    "followers": 69,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-02-07T10:13:04Z"
   }
 ]

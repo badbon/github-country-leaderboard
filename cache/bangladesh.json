@@ -93450,7 +93450,7 @@
     "location": "Dhaka, Bangladesh",
     "company": "",
     "twitterUsername": "",
-    "followers": 89,
+    "followers": 90,
     "privateContributions": 201,
     "publicContributions": 551,
     "createdAt": "2024-10-10T06:12:52Z"
@@ -93522,7 +93522,7 @@
     "location": "Dhaka, Bangladesh",
     "company": "",
     "twitterUsername": "",
-    "followers": 50,
+    "followers": 51,
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2024-10-11T14:13:30Z"
@@ -111418,5 +111418,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-07T16:23:05Z"
+  },
+  {
+    "login": "troshid",
+    "name": "Taspia Roshid Manna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184667291?s=72&u=cd6316d8244195f656420d3cb52b34d89ebbeb08&v=4",
+    "location": "Dhaka, Bagladesh.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-10-11T15:22:09Z"
+  },
+  {
+    "login": "Rashed-CMT",
+    "name": "Md.Rashed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184949320?s=72&u=6dfa8367d675ee4e67c961e726a89f550519453f&v=4",
+    "location": "Dhaka",
+    "company": " Creative It institute",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2024-10-14T13:05:15Z"
+  },
+  {
+    "login": "Badsha7175",
+    "name": "Abdullah Bin Badsha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184354934?s=72&u=8d79f7da182b15f8f67c18a334ce51a9f8f55aaa&v=4",
+    "location": "Tejgaon S/A, Dhaka-1208",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2024-10-09T07:41:35Z"
+  },
+  {
+    "login": "safarbd",
+    "name": "Safar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184763363?s=72&u=6af5d4141bf857a69b703477f784682336888282&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-10-12T15:38:17Z"
+  },
+  {
+    "login": "momin-ul-islam",
+    "name": "Md. Momin Ul Islam Patwary",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184794619?s=72&u=eab16ede0fa88cb09ad1dc3da616baef5d0c7dd2&v=4",
+    "location": "Uttara Dhaka-1230",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2024-10-13T01:22:32Z"
   }
 ]
