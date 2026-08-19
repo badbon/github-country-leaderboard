@@ -106294,5 +106294,53 @@
     "privateContributions": 4,
     "publicContributions": 213,
     "createdAt": "2018-12-25T13:56:26Z"
+  },
+  {
+    "login": "ancamcheachta",
+    "name": "An Camchéachta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25826416?s=72&u=5ba9fd7bb09de436c84ca5b309c4d6a31a3e8340&v=4",
+    "location": "Éire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-16T17:35:11Z"
+  },
+  {
+    "login": "ciaran-nolan",
+    "name": "Ciarán Nolan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28197702?s=72&u=e00778691b5dbd51049e917d74ccf62a14968eb7&v=4",
+    "location": "Éire",
+    "company": "CANSee Limited",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 1869,
+    "publicContributions": 30,
+    "createdAt": "2017-04-29T16:44:30Z"
+  },
+  {
+    "login": "Draoi",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30122871?s=72&u=e4b6a566e69f81b91db1c11d4aa086203bdd73ab&v=4",
+    "location": "Éire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2017-07-12T15:47:10Z"
+  },
+  {
+    "login": "danwhelanwex",
+    "name": "Dan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31403381?s=72&u=aaabc535669c0f51e90a7e37873eb19f1d583c5a&v=4",
+    "location": "Éire",
+    "company": "",
+    "twitterUsername": "danwhelan1986",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-28T08:44:22Z"
   }
 ]

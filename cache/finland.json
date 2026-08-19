@@ -107986,5 +107986,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-08-21T06:55:02Z"
+  },
+  {
+    "login": "xamnition",
+    "name": "Samuel Kriikkula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27929885?s=72&u=9e5e236eb7f963b079479784fb5d91893e1c727a&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2017-04-23T21:46:35Z"
+  },
+  {
+    "login": "CaH4o",
+    "name": "Oleksandr Tertyshnyk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31513752?s=72&u=3b3416d95bdeed6e00bd0993ba07fd793144a7a2&v=4",
+    "location": "Suomi. Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-31T14:57:03Z"
+  },
+  {
+    "login": "mikaarvola",
+    "name": "Mika Arvola",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24852083?s=72&u=d869026b6399b61e100f27ed23efd44fb706cece&v=4",
+    "location": "~Åbo, Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2016-12-31T09:17:03Z"
   }
 ]

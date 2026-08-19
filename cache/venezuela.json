@@ -78883,7 +78883,7 @@
     "company": "@locusai ",
     "twitterUsername": "",
     "followers": 106,
-    "privateContributions": 1109,
+    "privateContributions": 1116,
     "publicContributions": 59,
     "createdAt": "2010-10-24T04:14:54Z"
   },
@@ -79486,5 +79486,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-04-09T19:06:29Z"
+  },
+  {
+    "login": "luiscar16",
+    "name": "Luis T.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/457314?s=72&v=4",
+    "location": "caracas",
+    "company": "Araguaney Labs.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-28T02:02:11Z"
+  },
+  {
+    "login": "viktormed",
+    "name": "Victor Correa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/365177?s=72&v=4",
+    "location": "Caracas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-15T18:35:59Z"
+  },
+  {
+    "login": "gtroconis",
+    "name": "Gustavo Troconis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/428223?s=72&v=4",
+    "location": "Caracas",
+    "company": "Summumnet",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-05T16:20:39Z"
+  },
+  {
+    "login": "rmont66",
+    "name": "Hector Montesinos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/428557?s=72&v=4",
+    "location": "Caracas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-05T19:51:11Z"
   }
 ]
