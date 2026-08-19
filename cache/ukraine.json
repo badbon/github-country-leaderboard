@@ -65611,7 +65611,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 407,
+    "privateContributions": 412,
     "publicContributions": 12,
     "createdAt": "2022-01-02T10:52:56Z"
   },
@@ -107554,5 +107554,65 @@
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2022-03-14T15:14:48Z"
+  },
+  {
+    "login": "UDPsources",
+    "name": "Ukrainian Danube Shipping ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105642495?s=72&u=76aa2c0181748871f9b0188d3257af159a02a50f&v=4",
+    "location": "Izmail, Odessa region",
+    "company": "Ukrainian Danube Shipping",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-16T10:59:58Z"
+  },
+  {
+    "login": "JhemesCaetano",
+    "name": "Jhemes Tony Rosante Caetano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117413095?s=72&u=7d6788aa7951c279d6422c9d7bf6882eca50d5b8&v=4",
+    "location": "Nova odessa-sp",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2022-11-03T23:32:39Z"
+  },
+  {
+    "login": "KlymDead",
+    "name": "Klym Izbash",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117852598?s=72&u=e0aa9c23f2a6c1c1acfdee14ce8726f9c78c3192&v=4",
+    "location": "Odessa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-09T17:24:50Z"
+  },
+  {
+    "login": "Palady56",
+    "name": "Vitalii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98759582?s=72&u=fb9beb1e6002ce191a4140094f3076a282fcc11c&v=4",
+    "location": "Odessa",
+    "company": "in search",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2022-01-31T15:21:48Z"
+  },
+  {
+    "login": "Esdraz7",
+    "name": "Esdras Nicolau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99925302?s=72&u=0532837170eeeddf7bdff0ded464df079662e6f8&v=4",
+    "location": "Nova Odessa, SP",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-17T22:23:51Z"
   }
 ]

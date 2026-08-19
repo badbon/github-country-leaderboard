@@ -79702,5 +79702,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-08-12T02:16:30Z"
+  },
+  {
+    "login": "efrenfuentes",
+    "name": "Efrén Fuentes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33507?s=72&u=48d183cd3734069d7a900154c20968ecb63ea6ea&v=4",
+    "location": "Venezuela",
+    "company": "",
+    "twitterUsername": "efrenfuentes",
+    "followers": 32,
+    "privateContributions": 1568,
+    "publicContributions": 113,
+    "createdAt": "2008-11-09T16:57:37Z"
+  },
+  {
+    "login": "Lars",
+    "name": "Lars Goldschlager",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9702?s=72&v=4",
+    "location": "Venezuela",
+    "company": "DRG Cine Digital",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2008-05-08T14:52:02Z"
+  },
+  {
+    "login": "regonzalezc",
+    "name": "Rafael Ernesto González",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23101?s=72&v=4",
+    "location": "Caracas, Venezuela",
+    "company": "Consulting Holistic Group",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2008-09-04T03:27:32Z"
   }
 ]

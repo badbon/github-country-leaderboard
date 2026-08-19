@@ -103136,7 +103136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 104,
     "createdAt": "2024-12-12T16:44:15Z"
   },
   {
@@ -113374,5 +113374,101 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-11-15T01:30:26Z"
+  },
+  {
+    "login": "rafi-dev-app",
+    "name": "Mehedi Hasan Rafi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189988290?s=72&u=f480645c099ecf39fbe80f3122d53c3c0f798cc1&v=4",
+    "location": "Uttara,Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2024-11-28T12:18:08Z"
+  },
+  {
+    "login": "Istiak96",
+    "name": "Istiak Ahmed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/192904815?s=72&u=ea631814a7fd5ea3c757410b6728bf542987803d&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-12-26T17:04:54Z"
+  },
+  {
+    "login": "saqib-aminul",
+    "name": "Aminul Islam Saqib",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190256989?s=72&u=452c3e072c4131fbdfe12f65dcf2afb3935d434a&v=4",
+    "location": "Mirpur Pallabi, Dhaka",
+    "company": "@Gain Solution Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2024-12-01T09:49:34Z"
+  },
+  {
+    "login": "mdjahinur99",
+    "name": "MJR",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190477184?s=72&v=4",
+    "location": "Dhaka",
+    "company": "Software Bhaiya",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2024-12-03T10:03:42Z"
+  },
+  {
+    "login": "sodium000",
+    "name": "Raisul Islam Tonmoy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190525373?s=72&u=60e5fb044ef07c40a0cbbc521a4ee9c31f1e1591&v=4",
+    "location": "Tejgaon,Dhaka",
+    "company": "SouthEast University",
+    "twitterUsername": "sodiumRdX",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 511,
+    "createdAt": "2024-12-03T17:25:23Z"
+  },
+  {
+    "login": "anup-ghosh-bjit",
+    "name": "Anup Ghosh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/188305226?s=72&u=0318ba490340c3b22cff551e551d63ff2689d560&v=4",
+    "location": "Dhaka",
+    "company": "@BJIT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-11-13T07:39:28Z"
+  },
+  {
+    "login": "Jannatul-Ferdous00",
+    "name": "Jannatul Ferdous ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/191034337?s=72&u=f098b230c5ab97f08f52707957671d75e74bae17&v=4",
+    "location": "Dhaka ",
+    "company": "United International University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2024-12-08T16:09:04Z"
+  },
+  {
+    "login": "shoykat-hossain-sabbir",
+    "name": "Shoykat Hossain Sabbir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/188740766?s=72&u=2d15911ea0efd6940f498d42e94d757c60eaa9c5&v=4",
+    "location": "Dhaka, Mirpur",
+    "company": "TechnoArt Software",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-11-17T06:48:16Z"
   }
 ]
