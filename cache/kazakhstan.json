@@ -68122,5 +68122,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-10-04T13:54:03Z"
+  },
+  {
+    "login": "rauanmayemir",
+    "name": "Rauan Mayemir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9691?s=72&u=05dbfd87f1cf33c6380a4d02bbedc620cf69f666&v=4",
+    "location": "Almaty, Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 114,
+    "privateContributions": 202,
+    "publicContributions": 52,
+    "createdAt": "2008-05-08T12:32:46Z"
+  },
+  {
+    "login": "crayxt",
+    "name": "Baurzhan Muftakhidinov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33132?s=72&v=4",
+    "location": "Astana, Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 44,
+    "publicContributions": 212,
+    "createdAt": "2008-11-07T08:06:29Z"
+  },
+  {
+    "login": "lukyanov",
+    "name": "Yuri Lukyanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31795?s=72&u=4fa9b8e7c41c6ca8a00e74db93b6809dc5ff7031&v=4",
+    "location": "Kazakhstan",
+    "company": "Toggl Plan",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 4526,
+    "publicContributions": 27,
+    "createdAt": "2008-10-30T08:39:54Z"
+  },
+  {
+    "login": "inkwadra",
+    "name": "インクワドラ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42640?s=72&u=b9bc5e41a68a583c4062ff28f2e23bbe599b4d61&v=4",
+    "location": "Kazakhstan, Almaty",
+    "company": "",
+    "twitterUsername": "Inkwadra",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 77,
+    "createdAt": "2008-12-25T15:44:38Z"
+  },
+  {
+    "login": "mogilka",
+    "name": "Natalie Didenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36766?s=72&v=4",
+    "location": "Kazakhstan, Almaty",
+    "company": "Звездочёт",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-11-26T13:17:57Z"
   }
 ]

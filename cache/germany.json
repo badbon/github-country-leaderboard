@@ -145078,5 +145078,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-02-13T14:14:07Z"
+  },
+  {
+    "login": "cosenalpha",
+    "name": "Sarah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98273424?s=72&u=706c2f733d08c1bc63b6f7ec2bf4c2fd918f6071&v=4",
+    "location": "Berlin // Milan",
+    "company": "Politecnico di Milano",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 69,
+    "createdAt": "2022-01-23T15:46:59Z"
+  },
+  {
+    "login": "ilhmpy",
+    "name": "Wladislaw",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78598606?s=72&u=1a8f15c431d6b36645a32279e3b445882f3c9a75&v=4",
+    "location": "Sumy, Ukraine(Bayern, Deutschland)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-05T12:14:34Z"
   }
 ]
