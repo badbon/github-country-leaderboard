@@ -91246,5 +91246,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-07-09T22:22:00Z"
+  },
+  {
+    "login": "sshaplygin",
+    "name": "Sam Shaplygin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14343349?s=72&u=de33e83ecbba822850af017e195bcf8957bbf89d&v=4",
+    "location": "Belgrade, Republic of Serbia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 46,
+    "privateContributions": 201,
+    "publicContributions": 433,
+    "createdAt": "2015-09-18T06:56:17Z"
+  },
+  {
+    "login": "DejanLe",
+    "name": "Dejan (dejnik978)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15807958?s=72&u=63c8640777270210cc98eef30ce528bdb70c8a54&v=4",
+    "location": "Leskovac/Republic of Serbia /Europa",
+    "company": "nikolicdejan.com",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-11T23:21:39Z"
+  },
+  {
+    "login": "filipbekic01",
+    "name": "Filip Bekić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16108768?s=72&u=3d7228356884e9fd515e3028a85f69402b5f184c&v=4",
+    "location": "Republic of Serbia",
+    "company": "MyDesigns",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 1563,
+    "publicContributions": 100,
+    "createdAt": "2015-12-01T22:50:31Z"
+  },
+  {
+    "login": "InstaRobot",
+    "name": "Vitaliy Podolskiy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10772136?s=72&u=fd253e2e263bffac1f65b530933bc6c98871619a&v=4",
+    "location": "Novi Sad, Republic of Serbia",
+    "company": "[ ONLYAPPS ]",
+    "twitterUsername": "onlyapps_org",
+    "followers": 10,
+    "privateContributions": 4524,
+    "publicContributions": 45,
+    "createdAt": "2015-01-30T11:33:56Z"
+  },
+  {
+    "login": "stamster",
+    "name": "Jonathan Aaron Steel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12804479?s=72&u=f2cd379a5696a8de3b946b53e76473549fbe6ccc&v=4",
+    "location": "Belgrade, Serbia (Republic of)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 2141,
+    "publicContributions": 3,
+    "createdAt": "2015-06-08T21:54:40Z"
   }
 ]

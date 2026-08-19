@@ -104530,5 +104530,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-04T15:00:18Z"
+  },
+  {
+    "login": "Rostik2004",
+    "name": "Shafar Rostyslav Leonidovych",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120463490?s=72&u=cc84b4cbc446177340ec0176284d2e1d818d0da2&v=4",
+    "location": "Kyiv",
+    "company": "NAU",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-13T11:07:08Z"
+  },
+  {
+    "login": "traewe",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114068030?s=72&v=4",
+    "location": "Kyiv ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-09-21T09:55:30Z"
+  },
+  {
+    "login": "oleksii-shepel",
+    "name": "Oleksii Shepel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113843497?s=72&u=5e7547e83ab5e45871b32550510561234b6c141d&v=4",
+    "location": "Kyiv",
+    "company": "@epikodelabs",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 892,
+    "publicContributions": 79,
+    "createdAt": "2022-09-18T14:11:51Z"
+  },
+  {
+    "login": "germanua",
+    "name": "Sherpi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114772595?s=72&u=5d934433db0fbbe9c27cb12e67aa59ef0715c8dd&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 208,
+    "createdAt": "2022-09-30T18:58:40Z"
   }
 ]

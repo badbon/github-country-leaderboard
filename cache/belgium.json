@@ -92950,5 +92950,65 @@
     "privateContributions": 0,
     "publicContributions": 111,
     "createdAt": "2018-09-27T00:21:54Z"
+  },
+  {
+    "login": "EliasDeHondt",
+    "name": "Elias De Hondt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25233962?s=72&u=3c7a015969fae746be06634bae5d7eb9e6d3e289&v=4",
+    "location": "België",
+    "company": "EliasDH",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 594,
+    "publicContributions": 573,
+    "createdAt": "2017-01-19T21:45:08Z"
+  },
+  {
+    "login": "Stormur",
+    "name": "Flavio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32514840?s=72&u=7bc66a6dfd42cb31751df8f07e164abc84bc7197&v=4",
+    "location": "Leuven, België",
+    "company": "KU Leuven",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2017-10-04T12:44:53Z"
+  },
+  {
+    "login": "simonbogaerts",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25689338?s=72&u=209af983ab82cd50428e264659cac63bad89e868&v=4",
+    "location": "Genk, België",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2017-02-10T14:40:38Z"
+  },
+  {
+    "login": "LuukOolderink",
+    "name": "Luuk Oolderink",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32291918?s=72&u=f1031ab14a45322a5462461a13f1f8f270c46071&v=4",
+    "location": "Brugge, West-Vlaanderen, België",
+    "company": "Altachem",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-26T07:38:38Z"
+  },
+  {
+    "login": "GregoryHeylen",
+    "name": "Gregory Heylen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32097175?s=72&u=8df81d343a419a53c042d13b813d71a3397f67c1&v=4",
+    "location": "Antwerpen, België",
+    "company": "@Heylen-Apps ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-19T11:44:53Z"
   }
 ]
