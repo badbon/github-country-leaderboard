@@ -115351,7 +115351,7 @@
     "company": "@ThoughtWorks previously @Uber",
     "twitterUsername": "",
     "followers": 46,
-    "privateContributions": 1345,
+    "privateContributions": 1351,
     "publicContributions": 12,
     "createdAt": "2019-01-03T15:26:00Z"
   },
@@ -115447,7 +115447,7 @@
     "company": "@Frontapp",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 964,
+    "privateContributions": 967,
     "publicContributions": 0,
     "createdAt": "2019-03-06T17:45:54Z"
   },
@@ -115615,7 +115615,7 @@
     "company": "Toku",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 2834,
+    "privateContributions": 2879,
     "publicContributions": 162,
     "createdAt": "2019-03-13T17:21:05Z"
   },
@@ -119166,8 +119166,8 @@
     "location": "Santiago, Chile",
     "company": "Toku",
     "twitterUsername": "",
-    "followers": 124,
-    "privateContributions": 3437,
+    "followers": 125,
+    "privateContributions": 3442,
     "publicContributions": 184,
     "createdAt": "2019-05-16T18:44:03Z"
   },
@@ -123283,7 +123283,7 @@
     "company": "@Examedi",
     "twitterUsername": "",
     "followers": 54,
-    "privateContributions": 1362,
+    "privateContributions": 1366,
     "publicContributions": 1,
     "createdAt": "2019-08-29T12:45:54Z"
   },
@@ -123403,7 +123403,7 @@
     "company": "Powerflex (@edf-re)",
     "twitterUsername": "",
     "followers": 41,
-    "privateContributions": 6575,
+    "privateContributions": 6579,
     "publicContributions": 74,
     "createdAt": "2019-12-11T20:32:24Z"
   },
@@ -130738,5 +130738,125 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2019-08-05T18:13:46Z"
+  },
+  {
+    "login": "VicenteMerino",
+    "name": "Vicente Merino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47841749?s=72&u=a90d471dcbcb4d3a349e9b25835ae2ca34250906&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 62,
+    "privateContributions": 1424,
+    "publicContributions": 0,
+    "createdAt": "2019-02-21T04:10:50Z"
+  },
+  {
+    "login": "jhonathan55",
+    "name": "Jhonathan Gutierrez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56006953?s=72&u=ca83acdf013ec3dd783ef7977306777bdb736c98&v=4",
+    "location": "Santiago",
+    "company": "intelsoft.cl",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2019-09-30T23:56:18Z"
+  },
+  {
+    "login": "rossyalex",
+    "name": "Rocimar Perez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58374420?s=72&u=e1e1af1e38bece764b6d673f556af1dfda180b53&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-30T21:26:45Z"
+  },
+  {
+    "login": "xabiernovoa",
+    "name": "Xabier Nóvoa Gómez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57536326?s=72&u=60231399d8a9ea0e4c2503531be5b6c27948d057&v=4",
+    "location": "Santiago de Compostela",
+    "company": "Universidade de Santiago de Compostela",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2019-11-08T15:41:22Z"
+  },
+  {
+    "login": "LuisFerTR",
+    "name": "Luis F. Talavera R.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47088091?s=72&u=cec5ac195d5a77d0ffdcd33975f4eedfba50c7b0&v=4",
+    "location": "Santiago de Querétaro",
+    "company": "TecNM campus Querétaro",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-27T19:08:56Z"
+  },
+  {
+    "login": "Joselota",
+    "name": "Ingrid Solis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59096232?s=72&u=d38d67bea00f1a72369a2fd7328c5f1e27854002&v=4",
+    "location": "Santiago",
+    "company": "Data Clover",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 98,
+    "createdAt": "2019-12-20T17:29:29Z"
+  },
+  {
+    "login": "andrade-fs",
+    "name": "Bitsentry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54482031?s=72&u=6648b334b022594439660f29342969a5e95c6d4b&v=4",
+    "location": "Santiago De Compostela",
+    "company": "Councilbox",
+    "twitterUsername": "bitsentry",
+    "followers": 20,
+    "privateContributions": 2505,
+    "publicContributions": 77,
+    "createdAt": "2019-08-24T18:15:19Z"
+  },
+  {
+    "login": "glenn-dev",
+    "name": "Glenn Marcano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49239238?s=72&u=6a48f739c4cd0df16815bbf2bfe45302bbaaf682&v=4",
+    "location": "Santiago",
+    "company": "PopEstate",
+    "twitterUsername": "glennScript",
+    "followers": 16,
+    "privateContributions": 3,
+    "publicContributions": 1,
+    "createdAt": "2019-04-03T13:02:58Z"
+  },
+  {
+    "login": "Albertorz31",
+    "name": "Alberto Rodríguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49465364?s=72&u=31d9d031bbaec251c8017551e342252ea2774a4e&v=4",
+    "location": "Santiago",
+    "company": "Universidad de Santiago de Chile",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2019-04-10T02:35:29Z"
+  },
+  {
+    "login": "A-Souvlaki",
+    "name": "Cristian Rivadeneira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48138971?s=72&u=142c4679206b2e04f47221f8489007ee52060d6c&v=4",
+    "location": "Santiago de Cali-Colombia",
+    "company": "@Universidad ICESI",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-01T21:27:52Z"
   }
 ]
