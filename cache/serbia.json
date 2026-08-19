@@ -91138,5 +91138,113 @@
     "privateContributions": 0,
     "publicContributions": 53,
     "createdAt": "2016-06-04T02:08:43Z"
+  },
+  {
+    "login": "Kamilica",
+    "name": "Milica Baros",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18040582?s=72&u=7e61f706930767b224598195ca9dd0342890f002&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-23T23:28:11Z"
+  },
+  {
+    "login": "ludusdigital",
+    "name": "Ludus Digital",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23243338?s=72&u=a0317720e413945c4d366d560db8e19b5e812b0d&v=4",
+    "location": "Belgrade",
+    "company": "Ludus Digital",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1278,
+    "publicContributions": 62,
+    "createdAt": "2016-11-03T17:10:29Z"
+  },
+  {
+    "login": "nocnisovac",
+    "name": "nocni_sovac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17005557?s=72&u=84446c012d448bf0d4ccdaabfe0c40b2f634aba8&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-02-01T12:44:58Z"
+  },
+  {
+    "login": "fpetrovic15",
+    "name": "Filip Petrovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19785269?s=72&u=fcce24d163adff88a74a76fc4b9856d0a2cc7790&v=4",
+    "location": "Belgrade",
+    "company": "Soprex",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-06T20:15:32Z"
+  },
+  {
+    "login": "marko-plantronics",
+    "name": "Marko Čančar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17745092?s=72&u=c13f1a56296ed5d3bf885ea190a20e4966b69e53&v=4",
+    "location": "Belgrade",
+    "company": "Endava",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-09T13:56:05Z"
+  },
+  {
+    "login": "Starjukker",
+    "name": "Anton Ivaschenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22328627?s=72&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2016-09-20T18:09:53Z"
+  },
+  {
+    "login": "PetarRelic",
+    "name": "Petar Relić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20934860?s=72&u=522eebce002dc3ff34aae9fadfab6da858cdfc8b&v=4",
+    "location": "Belgrade",
+    "company": "Endava",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2016-08-09T19:55:44Z"
+  },
+  {
+    "login": "spleeroosh",
+    "name": "Rogovin Pavel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20149759?s=72&u=6e97697e4a7d27f9637e519f38496f97033df6c1&v=4",
+    "location": "Belgrade",
+    "company": "Yolisten IT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-26T08:20:50Z"
+  },
+  {
+    "login": "flkc",
+    "name": "Filip Lekić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20375471?s=72&u=4500d4bc24b83c7158895ee8ee6d8fda444fc62d&v=4",
+    "location": "Belgrade",
+    "company": "@movor ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-09T22:22:00Z"
   }
 ]

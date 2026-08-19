@@ -133834,5 +133834,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-10-21T14:09:42Z"
+  },
+  {
+    "login": "matamata",
+    "name": "Matamata",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2355827?s=72&u=dd162679ed7b0a73144400c2ef17e491db7101ff&v=4",
+    "location": "Kuala Terengganu, Malaysia",
+    "company": "Syarikat Kaya Sikit",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-16T06:58:31Z"
+  },
+  {
+    "login": "bravetaru",
+    "name": "Joshua",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2127419?s=72&v=4",
+    "location": "Kuala Lumpur, Malaysia",
+    "company": "Carbon Registry Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-10T04:26:43Z"
+  },
+  {
+    "login": "webstertan",
+    "name": "Webster Tan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2533162?s=72&u=20ce8accde65a8e26634991be306f235cc93f888&v=4",
+    "location": "Malaysia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-11T01:54:29Z"
+  },
+  {
+    "login": "junocean",
+    "name": "Jerome Hew",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3032223?s=72&u=c5b804943227717f57f4cc8c559201e9425b9737&v=4",
+    "location": "Malaysia",
+    "company": "Codecious IT Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-13T08:18:53Z"
+  },
+  {
+    "login": "JohnShenLee",
+    "name": "JohnShen Lee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1662357?s=72&u=29dcf3799bd9833e23fe6e3a45439f0e2b275040&v=4",
+    "location": "Malaysia",
+    "company": "@JSCStudio",
+    "twitterUsername": "JohnShenLee",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-04-20T09:47:34Z"
+  },
+  {
+    "login": "ariff",
+    "name": "Ariff",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1669274?s=72&v=4",
+    "location": "Malaysia",
+    "company": "Softworks ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-04-23T02:03:47Z"
+  },
+  {
+    "login": "dzulhelmi",
+    "name": "Dzulhelmi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1688224?s=72&u=31d5278ef849fbfcbc1bb577da1cdddfa953ae13&v=4",
+    "location": "Malaysia",
+    "company": "Amdocs",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2012-04-28T16:08:40Z"
   }
 ]
