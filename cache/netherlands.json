@@ -85615,7 +85615,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 358,
+    "privateContributions": 361,
     "publicContributions": 0,
     "createdAt": "2021-06-25T14:57:37Z"
   },
@@ -98590,5 +98590,17 @@
     "privateContributions": 0,
     "publicContributions": 259,
     "createdAt": "2021-12-10T16:05:17Z"
+  },
+  {
+    "login": "V-Mitch",
+    "name": "Victor J. Mitchell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36127846?s=72&u=4a7d432574504063deaaaca49d9ee8fe827a4954&v=4",
+    "location": "Switzerland / Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-04T11:07:07Z"
   }
 ]
