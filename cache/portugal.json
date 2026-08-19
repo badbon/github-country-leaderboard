@@ -122614,5 +122614,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-25T11:45:20Z"
+  },
+  {
+    "login": "joaogoncalvess",
+    "name": "João Gonçalves",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66517611?s=72&u=40978765f85c953686baca8727eef31e7d53f331&v=4",
+    "location": "Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-06T11:32:14Z"
+  },
+  {
+    "login": "zitchu",
+    "name": "Jeanluiz Monteiro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64271716?s=72&u=4dfd7a32bc112c9994a7931c940abf410b4414ce&v=4",
+    "location": "Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2020-04-24T15:16:28Z"
+  },
+  {
+    "login": "Tyod",
+    "name": "André Silva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65831919?s=72&u=53367d4a6e803795cb332cd65485e0629466d91f&v=4",
+    "location": "Portugal, Porto",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-23T21:12:13Z"
   }
 ]

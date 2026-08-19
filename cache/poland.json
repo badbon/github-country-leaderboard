@@ -103471,7 +103471,7 @@
     "company": "FADV",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3073,
+    "privateContributions": 3078,
     "publicContributions": 0,
     "createdAt": "2022-09-07T15:53:29Z"
   },
@@ -116002,5 +116002,65 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2022-07-26T11:52:52Z"
+  },
+  {
+    "login": "olena-ilina-makarova",
+    "name": "Olena Ilina-Makarova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120574403?s=72&u=532c816902e4c9b7acc6a154e31af17d5da18933&v=4",
+    "location": "Krakow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-14T13:28:20Z"
+  },
+  {
+    "login": "KrystianKurlej",
+    "name": "Krystian Kurlej",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101930877?s=72&u=6f642235d9d467bf58c4083aa4c3a822c9f2bd52&v=4",
+    "location": "Krakow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 936,
+    "publicContributions": 231,
+    "createdAt": "2022-03-19T12:01:07Z"
+  },
+  {
+    "login": "maciej-ziaja",
+    "name": "Maciek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106238207?s=72&u=c6c8d9ca3c0d6b422a913202647345d3bf5ad963&v=4",
+    "location": "Krakow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-25T09:40:39Z"
+  },
+  {
+    "login": "skrupa9",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98121217?s=72&v=4",
+    "location": "Krakow",
+    "company": "AGH - University of Science and Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-20T19:09:11Z"
+  },
+  {
+    "login": "K0D1Z",
+    "name": "Konrad Zatorski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102974425?s=72&u=871d8555473b61a7b4acbd41a1459b254ac6a366&v=4",
+    "location": "Krakow",
+    "company": "AI Med AGH, AGH Analytica",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 234,
+    "publicContributions": 737,
+    "createdAt": "2022-04-04T13:57:35Z"
   }
 ]
