@@ -73280,7 +73280,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 162,
-    "publicContributions": 306,
+    "publicContributions": 316,
     "createdAt": "2021-03-31T13:42:55Z"
   },
   {
@@ -73364,7 +73364,7 @@
     "twitterUsername": "vivasrgueze",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 37,
     "createdAt": "2021-05-30T02:36:39Z"
   },
   {
@@ -74204,7 +74204,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 39,
     "createdAt": "2021-04-12T08:48:13Z"
   },
   {
@@ -85555,7 +85555,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 772,
+    "privateContributions": 774,
     "publicContributions": 32,
     "createdAt": "2021-07-23T00:49:31Z"
   },
@@ -92386,5 +92386,17 @@
     "privateContributions": 319,
     "publicContributions": 0,
     "createdAt": "2021-10-08T17:36:39Z"
+  },
+  {
+    "login": "JaquelineRazo",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83616845?s=72&u=b79bb07f5af9daa350710674ceb552cb0c621645&v=4",
+    "location": "Mexico City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 106,
+    "publicContributions": 3,
+    "createdAt": "2021-05-03T22:17:22Z"
   }
 ]

@@ -111898,5 +111898,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-16T13:13:06Z"
+  },
+  {
+    "login": "alanmontgomery",
+    "name": "Alan Montgomery",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44590018?s=72&u=c55ace94961d5a323e1d743a3d9d916a29ef7e1d&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "Frontend Architect",
+    "twitterUsername": "93alan",
+    "followers": 229,
+    "privateContributions": 780,
+    "publicContributions": 2,
+    "createdAt": "2018-10-29T22:10:59Z"
+  },
+  {
+    "login": "DeathHound6",
+    "name": "Andrew Craig",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44831187?s=72&v=4",
+    "location": "Northern Ireland, UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 44,
+    "privateContributions": 259,
+    "publicContributions": 121,
+    "createdAt": "2018-11-07T07:52:49Z"
+  },
+  {
+    "login": "FergM",
+    "name": "Fergal M.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45894043?s=72&u=dbbf34ddc0a3080b421d564be952a3cf0ae85e92&v=4",
+    "location": "London ⇄ Ireland",
+    "company": "",
+    "twitterUsername": "MFergal",
+    "followers": 40,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2018-12-15T09:19:59Z"
+  },
+  {
+    "login": "QCSQUB",
+    "name": "Queen's Computing Society",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43827332?s=72&u=015f7476cc5c15e64be9647722178842bbddb8f9&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "@queenscomputingsociety",
+    "twitterUsername": "QCSQUB",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-10-03T19:16:40Z"
   }
 ]
