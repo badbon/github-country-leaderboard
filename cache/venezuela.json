@@ -79544,7 +79544,7 @@
     "twitterUsername": "hejeroaz",
     "followers": 58,
     "privateContributions": 0,
-    "publicContributions": 1845,
+    "publicContributions": 1848,
     "createdAt": "2009-07-15T14:44:18Z"
   },
   {
@@ -79690,5 +79690,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-07-25T04:19:31Z"
+  },
+  {
+    "login": "jrey",
+    "name": "Jose Rey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114398?s=72&v=4",
+    "location": "Caracas",
+    "company": "Linux Sistemas",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-08-12T02:16:30Z"
   }
 ]

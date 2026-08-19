@@ -96859,7 +96859,7 @@
     "company": "Epam Systems",
     "twitterUsername": "Miraziz64405577",
     "followers": 34,
-    "privateContributions": 1268,
+    "privateContributions": 1269,
     "publicContributions": 821,
     "createdAt": "2019-04-19T18:03:27Z"
   },
@@ -97867,7 +97867,7 @@
     "company": "Inha University in Tashkent",
     "twitterUsername": "",
     "followers": 41,
-    "privateContributions": 253,
+    "privateContributions": 255,
     "publicContributions": 54,
     "createdAt": "2019-10-22T14:50:24Z"
   },
@@ -100090,5 +100090,101 @@
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2019-09-13T13:39:40Z"
+  },
+  {
+    "login": "DostonEliboyev",
+    "name": "Doston Eliboyev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54597812?s=72&u=e02f8dddd1927c213d9b0068e41c60baba834344&v=4",
+    "location": "Tashkent",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2019-08-27T18:22:18Z"
+  },
+  {
+    "login": "SalimovAzimjon",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50243026?s=72&u=eefd30dae38f9815d04e033cf0bcba91352bfd4e&v=4",
+    "location": "Tashkent",
+    "company": "EPAM",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 11,
+    "publicContributions": 0,
+    "createdAt": "2019-05-03T15:53:45Z"
+  },
+  {
+    "login": "UIbrohimov",
+    "name": "Ubaydullo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57700678?s=72&u=260cda6112ac73a46004b22db5fcb35496219166&v=4",
+    "location": "Tashkent",
+    "company": "Uzinfocom LLC",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2019-11-13T06:35:45Z"
+  },
+  {
+    "login": "ibrohim777775",
+    "name": "Ibrohim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58683257?s=72&u=c47dc4c70dff3abdae1ccfe0b155cb047d8f2128&v=4",
+    "location": "Tashkent",
+    "company": "jobo.uz[@jobo-uz]",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 323,
+    "publicContributions": 1,
+    "createdAt": "2019-12-09T08:05:18Z"
+  },
+  {
+    "login": "UlugbekErkinov",
+    "name": "Ulugbek Erkinov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55135871?s=72&v=4",
+    "location": "Tashkent",
+    "company": "UZINFOCOM | @uzinfocom-org",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 8,
+    "publicContributions": 15,
+    "createdAt": "2019-09-10T09:45:27Z"
+  },
+  {
+    "login": "GoingLight",
+    "name": "Sara Musaeva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48763973?s=72&u=d80e1febedfc4a76cc853d67679d1040a877150a&v=4",
+    "location": "Tashkent",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-20T15:03:24Z"
+  },
+  {
+    "login": "azamspeare",
+    "name": "Azam Maxsudov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58428722?s=72&u=fcf0c949898fb38ee1eb9e81ca9f45862712ad5c&v=4",
+    "location": "Tashkent",
+    "company": "BulkSignature",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2019-12-02T12:57:24Z"
+  },
+  {
+    "login": "ShahzodAbdinazarov",
+    "name": "Shahzod",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48184921?s=72&u=b2c824eddd8699d31243c6f85a4c61a7f817f938&v=4",
+    "location": "Tashkent",
+    "company": "AKFA University",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 478,
+    "publicContributions": 7,
+    "createdAt": "2019-03-03T17:48:25Z"
   }
 ]

@@ -80230,5 +80230,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-12-07T05:39:53Z"
+  },
+  {
+    "login": "RoyBellingan",
+    "name": "Roy Bellingan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/368572?s=72&v=4",
+    "location": "Addis Ababa",
+    "company": "TransMetal G.d.I.",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 462,
+    "publicContributions": 77,
+    "createdAt": "2010-08-18T14:58:42Z"
+  },
+  {
+    "login": "abubekersiraj",
+    "name": "Abubeker siraj",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/427177?s=72&u=c3efcda4e02a71f399bfc3e91b81c5f6fcb2e1f1&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2010-10-04T21:57:46Z"
+  },
+  {
+    "login": "gyohannes",
+    "name": "G/yohannes Zenebe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/512676?s=72&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2010-12-07T06:00:11Z"
+  },
+  {
+    "login": "milliontedla",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/512658?s=72&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-07T05:39:24Z"
   }
 ]
