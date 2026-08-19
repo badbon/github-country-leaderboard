@@ -128998,5 +128998,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-06-12T13:36:13Z"
+  },
+  {
+    "login": "noemus",
+    "name": "Richard Kureš",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12934999?s=72&u=3f4e25840a141ed93a89b604b2abe5e5642be78f&v=4",
+    "location": "Prague",
+    "company": "Barclays",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-17T10:58:34Z"
+  },
+  {
+    "login": "martinkralicek",
+    "name": "Martin Kralicek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14316200?s=72&u=80974d3c9f9a681675ec9d1ea6dabfac179adb91&v=4",
+    "location": "Prague",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-16T16:08:49Z"
+  },
+  {
+    "login": "viktor-matejka",
+    "name": "Viktor Matějka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13716887?s=72&u=44a9a4e167313080d741e330ed67b0a992acd298&v=4",
+    "location": "Prague",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-09T10:49:00Z"
+  },
+  {
+    "login": "StepanPazderka",
+    "name": "Stepan Pazderka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15315282?s=72&u=7e40b75e054aac092df20fb02e6778097b667917&v=4",
+    "location": "Prague",
+    "company": "",
+    "twitterUsername": "Minatory221133",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2015-10-25T22:45:45Z"
+  },
+  {
+    "login": "BigOHenry",
+    "name": "Ondřej Sochůrek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15823552?s=72&u=9573ae5c7285b88a4707a75bd66363f85d51aeb1&v=4",
+    "location": "Prague",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-12T20:57:01Z"
+  },
+  {
+    "login": "martinloucka",
+    "name": "Martin Loucka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10661126?s=72&u=3a72b05bdb62a765a01402b871bcd64688f09417&v=4",
+    "location": "Prague",
+    "company": "Jetstack",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 29,
+    "publicContributions": 0,
+    "createdAt": "2015-01-22T22:16:39Z"
+  },
+  {
+    "login": "VovaBobyr",
+    "name": "VovaB",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13549401?s=72&u=4e8ee059ee8d41579dab50c26a2ffa51db91ea1e&v=4",
+    "location": "Prague",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2015-07-29T04:13:09Z"
+  },
+  {
+    "login": "MichalOdchazel",
+    "name": "Woody",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13297580?s=72&v=4",
+    "location": "Prague",
+    "company": "Unnits Tech s.r.o.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2015-07-12T08:09:31Z"
   }
 ]
