@@ -99382,5 +99382,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-12-11T13:25:37Z"
+  },
+  {
+    "login": "Andreas-Just",
+    "name": "Andreas Just",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36817641?s=72&u=44e6cbd598bdadec9d4294b287d9e31547c852ac&v=4",
+    "location": "St. Gallen, Swiss Confederation",
+    "company": "@AcuityPPM AcuityPPM",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 12,
+    "publicContributions": 3,
+    "createdAt": "2018-02-25T14:36:46Z"
+  },
+  {
+    "login": "LScanferlato",
+    "name": "Lscanferlato",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43204622?s=72&u=93bac9f2c44e4bff66db4239cfd8b68713dcfab5&v=4",
+    "location": "Swiss Confederation",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 222,
+    "createdAt": "2018-09-12T10:23:06Z"
   }
 ]

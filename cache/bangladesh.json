@@ -80432,7 +80432,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 127,
     "createdAt": "2024-05-20T16:42:14Z"
   },
   {
@@ -108538,5 +108538,137 @@
     "privateContributions": 0,
     "publicContributions": 30,
     "createdAt": "2024-06-13T19:16:02Z"
+  },
+  {
+    "login": "MD-Byazid-Hasan-Ashik",
+    "name": "MD Byazid Hasan Ashik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167540768?s=72&u=3cf10b61cbe4c88a3a5292cdb3d15035d77b994f&v=4",
+    "location": "West Razabazar, Tejgaon, Dhaka.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-19T13:25:59Z"
+  },
+  {
+    "login": "SaberHossainShawon",
+    "name": "Saber Hossain Shawon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167987424?s=72&u=9995bce301b98cae93d66f015e212d358ae56a15&v=4",
+    "location": "Agargaon,Dhaka",
+    "company": "IsDB BISEW (as a trainee)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-24T11:54:30Z"
+  },
+  {
+    "login": "MarufBonik",
+    "name": "Bonik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167873695?s=72&u=17d7dd5b226001717f039d76e71f4e5d63038033&v=4",
+    "location": "Niketon, Gulsan 1, Dhaka",
+    "company": "Development technical Consultant Pvt. Ltd.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-23T11:34:15Z"
+  },
+  {
+    "login": "RubelR90",
+    "name": "Tanvir Islam Rubel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167951524?s=72&u=28201d96d41291ea5f66115705ea2a699c523083&v=4",
+    "location": "Dhaka",
+    "company": "Codexpert",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-24T04:13:35Z"
+  },
+  {
+    "login": "Mahfuz-Alam73",
+    "name": "Mahfuz Alam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173137087?s=72&u=fa476b4d02d6257a5ced5c8ff0ac0cf5a1aef369&v=4",
+    "location": "Dhaka",
+    "company": "Networks Solutions Bangladesh",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-06-18T07:05:22Z"
+  },
+  {
+    "login": "israt-junior",
+    "name": "Israt Jahan Labonno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169575240?s=72&u=5a4700d50345b6628b1b77aa6d8f6c18d3467d87&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-05-12T05:24:54Z"
+  },
+  {
+    "login": "MD-Shazzad-Hossain-Provat",
+    "name": "MD Shazzad Hossain Provat.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173724325?s=72&u=5243ac6ba3aba1ff39b27abe1a859c0be6858c38&v=4",
+    "location": "Dhaka, Cantonment",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2024-06-24T18:22:09Z"
+  },
+  {
+    "login": "Torno03",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172405962?s=72&v=4",
+    "location": "Dhaka Cantonment",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2024-06-11T14:27:22Z"
+  },
+  {
+    "login": "Rafu75",
+    "name": "MD. Mahmudul Hasan Rafi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172107206?s=72&u=093f1654841461bec62127e1f05122ae58874d68&v=4",
+    "location": "Mirpur, Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-06-08T08:21:49Z"
+  },
+  {
+    "login": "developerPranRoy",
+    "name": "Pran Kumar Roy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169572765?s=72&u=3fa3154d144e3da0281434a7926c1fe551efeb4a&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 212,
+    "createdAt": "2024-05-12T04:09:32Z"
+  },
+  {
+    "login": "DaudBD",
+    "name": "Md Ariful Islam (Daud)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169268021?s=72&u=239fb92142c725fc104deb62f9b8de9c1535703f&v=4",
+    "location": "DHAKA",
+    "company": "DAUDBD.COM",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2024-05-08T13:05:27Z"
   }
 ]

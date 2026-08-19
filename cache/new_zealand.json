@@ -126706,5 +126706,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-05-07T02:56:31Z"
+  },
+  {
+    "login": "RichardLitt",
+    "name": "Richard Littauer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/910753?s=72&u=a638615a7167b368f0c102aa2047cef15b0ce9cc&v=4",
+    "location": "Pōneke Wellington, Aotearoa New Zealand",
+    "company": "@sustainers",
+    "twitterUsername": "",
+    "followers": 3304,
+    "privateContributions": 509,
+    "publicContributions": 1164,
+    "createdAt": "2011-07-12T17:13:32Z"
+  },
+  {
+    "login": "finlay",
+    "name": "Finlay Thompson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/777798?s=72&v=4",
+    "location": "Pōneke, Aotearoa",
+    "company": "Dragonfly Data Science @dragonfly-science ",
+    "twitterUsername": "",
+    "followers": 34,
+    "privateContributions": 178,
+    "publicContributions": 22,
+    "createdAt": "2011-05-09T21:25:51Z"
+  },
+  {
+    "login": "tlttnz2018",
+    "name": "Thomas Le",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/824939?s=72&u=ce7035553d1a40d19d8660a0e4ba906048a01fdd&v=4",
+    "location": "Auckland/Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 117,
+    "publicContributions": 84,
+    "createdAt": "2011-06-02T08:52:40Z"
+  },
+  {
+    "login": "robinpaulson",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1186107?s=72&v=4",
+    "location": "Tāmaki Makaurau, Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-10T13:12:23Z"
+  },
+  {
+    "login": "altwohill",
+    "name": "Al",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/629254?s=72&v=4",
+    "location": "Aotearoa",
+    "company": "@twohill ",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 880,
+    "publicContributions": 2,
+    "createdAt": "2011-02-21T04:21:36Z"
+  },
+  {
+    "login": "feetsnz",
+    "name": "Feets",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/747351?s=72&u=0a191fea0b6c569b81431334de5ce0a12c351dc6&v=4",
+    "location": "Te Whanganui-a-Tara, Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2011-04-23T11:04:56Z"
+  },
+  {
+    "login": "manuerwin",
+    "name": "Manu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/982158?s=72&u=5d458ff69687cee525a6a207918f407c9d5b9088&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2011-08-15T22:52:29Z"
+  },
+  {
+    "login": "rafikn",
+    "name": "Rafik Nasraoui",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1252424?s=72&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 1307,
+    "publicContributions": 4,
+    "createdAt": "2011-12-09T15:24:35Z"
+  },
+  {
+    "login": "simonwinter",
+    "name": "Simon Winter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1104537?s=72&u=040e3b6cbf54d81c0fce9978e5c3a6fd6fe2b9b0&v=4",
+    "location": "Te Whanganui-a-Tara, Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-05T11:05:38Z"
   }
 ]
