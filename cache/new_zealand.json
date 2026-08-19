@@ -140434,5 +140434,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-07-12T06:15:08Z"
+  },
+  {
+    "login": "rgiusti",
+    "name": "Rafael",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/428136?s=72&u=0e4f26abe1ff0218d2dabe0714318cca6eb13b78&v=4",
+    "location": "Wellington, FL",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-05T15:19:45Z"
+  },
+  {
+    "login": "ricardo-nz",
+    "name": "Richard Thomas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/491244?s=72&v=4",
+    "location": "Wellington",
+    "company": "GNS Science",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-22T02:22:50Z"
+  },
+  {
+    "login": "1nnovate",
+    "name": "1nnovate",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/333610?s=72&v=4",
+    "location": "Wellington,NZ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-16T02:16:00Z"
+  },
+  {
+    "login": "studdart",
+    "name": "Studdart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/460815?s=72&u=faad600c78742d83ae214936dba3b75837e9df5c&v=4",
+    "location": "Wellington, NZ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-30T15:08:46Z"
   }
 ]
