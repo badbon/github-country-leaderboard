@@ -86288,7 +86288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 164,
     "createdAt": "2021-04-26T13:39:56Z"
   },
   {
@@ -96931,7 +96931,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1737,
+    "privateContributions": 1742,
     "publicContributions": 0,
     "createdAt": "2021-09-16T12:57:12Z"
   },
@@ -107578,5 +107578,149 @@
     "privateContributions": 0,
     "publicContributions": 204,
     "createdAt": "2021-10-05T09:47:47Z"
+  },
+  {
+    "login": "losici",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91596938?s=72&u=33d83f8d7d770d15ec4722f97d4a23e1ada0e673&v=4",
+    "location": "Utrecht",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2021-09-29T08:39:00Z"
+  },
+  {
+    "login": "ArjenDeCoder",
+    "name": "ArjenDeCoder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81708198?s=72&u=45258b837423f3059b782f1e334d72bea5210f74&v=4",
+    "location": "Utrecht",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 86,
+    "publicContributions": 1,
+    "createdAt": "2021-03-31T17:57:28Z"
+  },
+  {
+    "login": "herowulfz",
+    "name": "Remco Volmer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95653563?s=72&v=4",
+    "location": "Utrecht",
+    "company": "Riverwise",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-06T20:07:15Z"
+  },
+  {
+    "login": "samanthasrkim",
+    "name": "Samantha S.R. Kim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86468320?s=72&u=73e6b7516309c6c0a12079e88e70f781bfe75c21&v=4",
+    "location": "Utrecht",
+    "company": "TNO",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-25T09:04:16Z"
+  },
+  {
+    "login": "LeviBroeksmaMAPtm",
+    "name": "Levi Broeksma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88318130?s=72&u=876573a0815cfab44419c1ebcb962ded0ef45698&v=4",
+    "location": "Utrecht",
+    "company": "MAPtm",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-02T09:44:15Z"
+  },
+  {
+    "login": "PBrandsen",
+    "name": "Pieter Brandsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93532088?s=72&u=2b5e9b49e4786a0dfb6848073fd248c7e6225da4&v=4",
+    "location": "Utrecht",
+    "company": "@Meetingselect ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-01T13:59:19Z"
+  },
+  {
+    "login": "MarcPadros",
+    "name": "Marc Padros",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78441614?s=72&v=4",
+    "location": "Utrecht",
+    "company": "@UMCU-JC-DM ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-02-02T18:42:08Z"
+  },
+  {
+    "login": "m7351gn",
+    "name": "Michele Magni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82044011?s=72&u=310ab24d770bc83b3fe7ff2965be2f4fb909b082&v=4",
+    "location": "Utrecht",
+    "company": "Utrecht University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2021-04-06T14:44:06Z"
+  },
+  {
+    "login": "Ferhun1907",
+    "name": "Ferhun Dogan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88485152?s=72&u=ff4f517a1f61f7f51cf2acead50a8f01112a9391&v=4",
+    "location": "Utrecht",
+    "company": "werkenbijns.nl",
+    "twitterUsername": "Ferhun73",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-05T09:19:25Z"
+  },
+  {
+    "login": "githubhidde",
+    "name": "Hidde",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77933473?s=72&v=4",
+    "location": "Utrecht, Amersfoort",
+    "company": "ProRail B.V.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-01-24T17:28:36Z"
+  },
+  {
+    "login": "matteodibari",
+    "name": "Matteo Di Bari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82951972?s=72&v=4",
+    "location": "Utrecht (NL)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-21T13:11:17Z"
+  },
+  {
+    "login": "khalida96",
+    "name": "Khalida",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95345406?s=72&u=56c6b233ebd00e29abc6b8af21fdd1236b1f087a&v=4",
+    "location": "Utrecht",
+    "company": "KYOS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-01T09:31:56Z"
   }
 ]

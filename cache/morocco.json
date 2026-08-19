@@ -115942,5 +115942,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-10-01T23:47:43Z"
+  },
+  {
+    "login": "drbena",
+    "name": "Oussama Benhammou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/392821?s=72&v=4",
+    "location": "rabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2010-09-09T01:58:21Z"
+  },
+  {
+    "login": "Rahali",
+    "name": "Rahali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/393498?s=72&u=b74f44c6dd972cc190ff2c5eac3d840a74719947&v=4",
+    "location": "rabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 316,
+    "publicContributions": 1,
+    "createdAt": "2010-09-09T15:50:25Z"
+  },
+  {
+    "login": "ATkiYouness",
+    "name": "ATki  Youness",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/460759?s=72&v=4",
+    "location": "Rabat",
+    "company": "Logica",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-30T13:59:38Z"
+  },
+  {
+    "login": "MBouchrite",
+    "name": "Mohammed ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/443609?s=72&v=4",
+    "location": "Rabat , Rorocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-18T07:46:09Z"
+  },
+  {
+    "login": "c-boss",
+    "name": "Hamza SIBOUS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/379887?s=72&v=4",
+    "location": "Rabat",
+    "company": "Bell",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-29T17:22:19Z"
   }
 ]

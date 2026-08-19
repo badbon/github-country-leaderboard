@@ -112232,7 +112232,7 @@
     "twitterUsername": "adarsha_ach",
     "followers": 143,
     "privateContributions": 4784,
-    "publicContributions": 755,
+    "publicContributions": 760,
     "createdAt": "2019-05-04T12:15:19Z"
   },
   {
@@ -112291,7 +112291,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 75,
-    "privateContributions": 481,
+    "privateContributions": 482,
     "publicContributions": 19,
     "createdAt": "2019-04-06T08:08:38Z"
   },
@@ -112315,7 +112315,7 @@
     "company": "@Burrfect",
     "twitterUsername": "theaayushb",
     "followers": 73,
-    "privateContributions": 1642,
+    "privateContributions": 1645,
     "publicContributions": 51,
     "createdAt": "2019-02-18T18:16:11Z"
   },
@@ -112326,8 +112326,8 @@
     "location": "Kathmandu, Nepal",
     "company": "",
     "twitterUsername": "TheBikramLama",
-    "followers": 66,
-    "privateContributions": 6629,
+    "followers": 65,
+    "privateContributions": 6631,
     "publicContributions": 55,
     "createdAt": "2019-02-07T05:11:45Z"
   },
@@ -112471,7 +112471,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 51,
-    "privateContributions": 4730,
+    "privateContributions": 4735,
     "publicContributions": 0,
     "createdAt": "2019-06-24T01:35:11Z"
   },
@@ -112675,7 +112675,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 40,
-    "privateContributions": 1202,
+    "privateContributions": 1226,
     "publicContributions": 68,
     "createdAt": "2019-04-29T15:19:05Z"
   },
@@ -113144,7 +113144,7 @@
     "twitterUsername": "",
     "followers": 26,
     "privateContributions": 66,
-    "publicContributions": 25,
+    "publicContributions": 31,
     "createdAt": "2019-01-08T06:54:26Z"
   },
   {
@@ -117812,7 +117812,7 @@
     "twitterUsername": "",
     "followers": 90,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 17,
     "createdAt": "2019-07-12T05:55:20Z"
   },
   {
@@ -117955,7 +117955,7 @@
     "company": "spydogenesis",
     "twitterUsername": "_blackkspydo",
     "followers": 57,
-    "privateContributions": 3434,
+    "privateContributions": 3435,
     "publicContributions": 86,
     "createdAt": "2019-11-28T14:50:51Z"
   },
@@ -117968,7 +117968,7 @@
     "twitterUsername": "samsad19995",
     "followers": 55,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 27,
     "createdAt": "2019-11-21T15:43:08Z"
   },
   {
@@ -118004,7 +118004,7 @@
     "twitterUsername": "kshitizupreti",
     "followers": 49,
     "privateContributions": 210,
-    "publicContributions": 44,
+    "publicContributions": 45,
     "createdAt": "2019-11-23T21:04:39Z"
   },
   {
@@ -118075,7 +118075,7 @@
     "company": "",
     "twitterUsername": "kenshein_dev",
     "followers": 43,
-    "privateContributions": 6861,
+    "privateContributions": 6867,
     "publicContributions": 6,
     "createdAt": "2019-11-23T03:01:26Z"
   },
@@ -123850,5 +123850,293 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2019-11-11T05:10:14Z"
+  },
+  {
+    "login": "PremChapagain",
+    "name": "Prem Chapagain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47587012?s=72&u=5b69c0a932543f1bf023c8c01ce82db8bb67c058&v=4",
+    "location": "kathmandu",
+    "company": "Nepal Engineering college",
+    "twitterUsername": "premchapagains",
+    "followers": 14021,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2019-02-13T05:33:07Z"
+  },
+  {
+    "login": "sabin-thapa",
+    "name": "Sabin Thapa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51270026?s=72&u=69285f5798c21c8b9acd0bf69a3c437b63935048&v=4",
+    "location": "Kathmandu University, Dhulikhel",
+    "company": "@naamche ",
+    "twitterUsername": "ThapaSabinem",
+    "followers": 96,
+    "privateContributions": 1801,
+    "publicContributions": 0,
+    "createdAt": "2019-06-01T16:34:26Z"
+  },
+  {
+    "login": "prash5t",
+    "name": "Prashant Ghimire",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48501360?s=72&u=0a63e585e3bf8be30561798bda29b7895e5add31&v=4",
+    "location": "Kathmandu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 68,
+    "privateContributions": 1660,
+    "publicContributions": 58,
+    "createdAt": "2019-03-13T02:03:47Z"
+  },
+  {
+    "login": "X-nimesh",
+    "name": "X.Nimesh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48327835?s=72&u=ca9a92dce7f9713b57e14473b27bfb8d56e67a9d&v=4",
+    "location": "Kathmandu",
+    "company": "Leapfrog Technology",
+    "twitterUsername": "xrestanimesh07",
+    "followers": 53,
+    "privateContributions": 61,
+    "publicContributions": 14,
+    "createdAt": "2019-03-07T16:25:42Z"
+  },
+  {
+    "login": "Ambikadulal",
+    "name": "Ambika Dulal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55906788?s=72&u=21d6f7071ec5f5a8b7eb021c47c4ea88c9d9e25a&v=4",
+    "location": "kathmandu",
+    "company": "App Override ",
+    "twitterUsername": "AmbikaDulal",
+    "followers": 52,
+    "privateContributions": 331,
+    "publicContributions": 62,
+    "createdAt": "2019-09-28T04:57:15Z"
+  },
+  {
+    "login": "lilixac",
+    "name": "Newton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57525074?s=72&v=4",
+    "location": "Kathmandu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 49,
+    "privateContributions": 363,
+    "publicContributions": 243,
+    "createdAt": "2019-11-08T09:40:48Z"
+  },
+  {
+    "login": "physicistgaurav",
+    "name": "Gaurav Rizal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58541817?s=72&u=e49a6c50410aa4b20cd94e8d18ce4594f0cdd0d8&v=4",
+    "location": "Kathmandu",
+    "company": "Ramailo-Tech",
+    "twitterUsername": "rijalgaurav",
+    "followers": 48,
+    "privateContributions": 534,
+    "publicContributions": 73,
+    "createdAt": "2019-12-05T04:17:13Z"
+  },
+  {
+    "login": "Sailesh-Singh",
+    "name": "Sailesh Singh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58818777?s=72&u=51192a56be2944ae54d54bfd84c423421423bddb&v=4",
+    "location": "Baneshwor, Kathmandu",
+    "company": "@skyenepal",
+    "twitterUsername": "Sailesh36687",
+    "followers": 46,
+    "privateContributions": 10,
+    "publicContributions": 234,
+    "createdAt": "2019-12-12T14:41:05Z"
+  },
+  {
+    "login": "Andipstha",
+    "name": "Sandip Shrestha ✔️",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52471273?s=72&u=90a5327b89fb5dbecaa1160f69ef7cb99e05f215&v=4",
+    "location": "Samakhushi, Kathmandu",
+    "company": "",
+    "twitterUsername": "andipstha",
+    "followers": 46,
+    "privateContributions": 20,
+    "publicContributions": 30,
+    "createdAt": "2019-07-02T21:19:22Z"
+  },
+  {
+    "login": "aabhusanaryal",
+    "name": "Aabhusan Aryal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59058393?s=72&u=dca048eb8ec4dd17cac9abe78daccd358fbd1f3b&v=4",
+    "location": "Kathmandu",
+    "company": "",
+    "twitterUsername": "AabhusanAryal",
+    "followers": 46,
+    "privateContributions": 450,
+    "publicContributions": 0,
+    "createdAt": "2019-12-19T14:51:58Z"
+  },
+  {
+    "login": "bhaskarrijal",
+    "name": "Bhaskar Rijal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53825209?s=72&u=68b2e2e60022cec0b93f7eee389368af1b640d67&v=4",
+    "location": "Kathmandu",
+    "company": "@LinkBinary ",
+    "twitterUsername": "bhaskarijal",
+    "followers": 44,
+    "privateContributions": 1242,
+    "publicContributions": 38,
+    "createdAt": "2019-08-06T13:23:29Z"
+  },
+  {
+    "login": "pinological",
+    "name": "Pinological",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46894030?s=72&u=566577124e936bb395ff6516580326076b88aec0&v=4",
+    "location": "Kathmandu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 42,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2019-01-21T13:01:40Z"
+  },
+  {
+    "login": "ch-ankit",
+    "name": "Ankit Khatiwada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51513779?s=72&u=afa986495044f4dc3fbb5c72c91f753b5bfb88a3&v=4",
+    "location": "Kathmandu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 40,
+    "privateContributions": 2,
+    "publicContributions": 2,
+    "createdAt": "2019-06-08T16:05:18Z"
+  },
+  {
+    "login": "sagarshrestha81",
+    "name": "sagar shrestha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52271763?s=72&u=42f187f88ebcd956b95ce70784d9994ab88742b9&v=4",
+    "location": "Kathmandu",
+    "company": "Outpace",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2019-06-27T05:57:31Z"
+  },
+  {
+    "login": "Gaurav4883",
+    "name": "Gaurav Deol",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58588699?s=72&u=b8308e5debcadc7d31f21cbc70ed731231c769bd&v=4",
+    "location": "Siphal, Kathmandu",
+    "company": "Code Drops",
+    "twitterUsername": "",
+    "followers": 36,
+    "privateContributions": 400,
+    "publicContributions": 4,
+    "createdAt": "2019-12-06T08:38:30Z"
+  },
+  {
+    "login": "prashantrayamajhi",
+    "name": "Prashant Rayamajhi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47598907?s=72&u=5ecd552b54a1c8b05c90de10c9bf9e0401a9cb35&v=4",
+    "location": "Kathmandu",
+    "company": "",
+    "twitterUsername": "youraverage_dev",
+    "followers": 34,
+    "privateContributions": 3097,
+    "publicContributions": 14,
+    "createdAt": "2019-02-13T12:48:02Z"
+  },
+  {
+    "login": "pudasainishushant",
+    "name": "pudasainishushant",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47980452?s=72&u=2300f38afd78eea490df1b9277e1841a5cf7bdef&v=4",
+    "location": "Kathmandu",
+    "company": "Infodeveloper Pvt Ltd",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-25T13:59:20Z"
+  },
+  {
+    "login": "Madhav52",
+    "name": "Madhav Belbase",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54449606?s=72&v=4",
+    "location": "Kathmandu",
+    "company": "Evidhya Pvt Ltd",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 5,
+    "publicContributions": 1,
+    "createdAt": "2019-08-23T16:47:35Z"
+  },
+  {
+    "login": "thapachyut8863",
+    "name": "thapaachyut8863",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58173622?s=72&u=04be66cc58f31cc2299bba9f1a9057652e683748&v=4",
+    "location": "Kathmandu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2019-11-25T12:12:01Z"
+  },
+  {
+    "login": "Ritesh-056",
+    "name": "Ritesh Baral ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53189504?s=72&u=2ffc0dcf146eba48efa238a18beeadce69fc8151&v=4",
+    "location": "Koteshwor,Kathmandu",
+    "company": "",
+    "twitterUsername": "RiteshBaral4",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2019-07-22T16:51:55Z"
+  },
+  {
+    "login": "CrackNabin",
+    "name": "Nabin Ghimire",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52292642?s=72&u=1e96e249107ed0656bedcf631fd39e8af21e8f17&v=4",
+    "location": "Kathmandu",
+    "company": "ANBU",
+    "twitterUsername": "NabinGh79664148",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-27T16:40:06Z"
+  },
+  {
+    "login": "aaruzzz",
+    "name": "Aarush Timalsina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58158942?s=72&u=1a2b7e3f287670b4d8ab5e7948c2805af62b5691&v=4",
+    "location": "Kathmandu",
+    "company": "Prabhu Technology Pvt. Ltd.",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2019-11-25T04:50:28Z"
+  },
+  {
+    "login": "taukirsheikh",
+    "name": "Mohammed Taukir Sheikh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54911075?s=72&v=4",
+    "location": "Kathmandu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 6479,
+    "publicContributions": 27,
+    "createdAt": "2019-09-04T18:47:17Z"
+  },
+  {
+    "login": "romanpoudel",
+    "name": "Roman Poudel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52848888?s=72&u=b9ea81db5857d22d4c20853fc9aee86f360479dc&v=4",
+    "location": "Kathmandu",
+    "company": "Progressive Labs",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2019-07-13T06:18:50Z"
   }
 ]
