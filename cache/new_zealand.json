@@ -144655,7 +144655,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 101,
-    "privateContributions": 2317,
+    "privateContributions": 2318,
     "publicContributions": 47,
     "createdAt": "2008-03-17T15:34:47Z"
   },
@@ -145290,7 +145290,7 @@
     "location": "Wellington, New Zealand",
     "company": "Mesh|net / @Tremorz / reUnite / IPnz ",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 11,
     "publicContributions": 333,
     "createdAt": "2008-07-17T23:48:33Z"
@@ -145798,5 +145798,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-12-07T20:09:55Z"
+  },
+  {
+    "login": "joshk",
+    "name": "Josh Kalderimis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8701?s=72&u=ac03417f070f68ef95f7898515835423154f62f1&v=4",
+    "location": "Wellington, NZ",
+    "company": "NervesCloud",
+    "twitterUsername": "",
+    "followers": 404,
+    "privateContributions": 144,
+    "publicContributions": 911,
+    "createdAt": "2008-04-28T09:39:50Z"
+  },
+  {
+    "login": "ben-biddington",
+    "name": "Ben Biddington",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32415?s=72&v=4",
+    "location": "Wellington, NZ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 63,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2008-11-03T13:13:46Z"
+  },
+  {
+    "login": "nikz",
+    "name": "Nik Wakelin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6474?s=72&v=4",
+    "location": "Wellington, NZ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 52,
+    "privateContributions": 9785,
+    "publicContributions": 37,
+    "createdAt": "2008-04-11T05:24:25Z"
+  },
+  {
+    "login": "nickbp",
+    "name": "Nicholas Parker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35933?s=72&u=df27361ffff0c4d501516d6254beaa2a5065ad15&v=4",
+    "location": "Wellington, NZ",
+    "company": "@Netflix via @scie-nz ",
+    "twitterUsername": "",
+    "followers": 48,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2008-11-22T00:36:06Z"
+  },
+  {
+    "login": "cassj",
+    "name": "Caroline Johnston",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17354?s=72&v=4",
+    "location": "Wellington, NZ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 513,
+    "publicContributions": 3,
+    "createdAt": "2008-07-17T16:25:04Z"
+  },
+  {
+    "login": "Breccan",
+    "name": "Breccan McLeod-Lundy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27055?s=72&v=4",
+    "location": "Wellington, NZ",
+    "company": "RabidTech",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-10-01T08:12:14Z"
+  },
+  {
+    "login": "hauptmech",
+    "name": "Hauptmech",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33941?s=72&u=195284b8e467d1e83eb25d51f20e9ebce61b6799&v=4",
+    "location": "Wellington, NZ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-11-11T23:02:59Z"
+  },
+  {
+    "login": "gilberterik",
+    "name": "Gilbert Erik Garcia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21205?s=72&v=4",
+    "location": "Wellington FL",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2008-08-20T03:29:44Z"
+  },
+  {
+    "login": "pulsedigitalltd",
+    "name": "Pulse Digital",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14107?s=72&u=709ebec538da7fd3bdd838d79dec23754bc14fc9&v=4",
+    "location": "Wellington NZ",
+    "company": "Pulse Digital Ltd",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2008-06-17T22:27:04Z"
   }
 ]

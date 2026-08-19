@@ -137866,5 +137866,41 @@
     "privateContributions": 1722,
     "publicContributions": 15,
     "createdAt": "2023-04-17T13:55:39Z"
+  },
+  {
+    "login": "sidmall",
+    "name": "Sudhir (Sid) Malla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33723125?s=72&u=0db7c6da23ce993e689749b74a5133b4d12c2220&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "Queen's University Belfast",
+    "twitterUsername": "MallSid",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-16T13:21:18Z"
+  },
+  {
+    "login": "BaconBitsDev",
+    "name": "BaconBits",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34659491?s=72&u=9a0481214df46e8a64129077bd1afcb90df610f1&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-18T18:26:39Z"
+  },
+  {
+    "login": "smmcgrath",
+    "name": "Shane Michael McGrath",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30355322?s=72&u=8100dc4b6759e9cac5bf87867e7ce236007a7b73&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-21T19:29:54Z"
   }
 ]
