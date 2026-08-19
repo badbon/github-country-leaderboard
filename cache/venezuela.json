@@ -78670,5 +78670,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-02-19T19:48:43Z"
+  },
+  {
+    "login": "jemapi",
+    "name": "Jesus Piñeiro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/957338?s=72&v=4",
+    "location": "Venezuela",
+    "company": "Fish Coding",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-08-03T19:44:39Z"
+  },
+  {
+    "login": "carlosinguanzo",
+    "name": "Carlos Inguanzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1144088?s=72&u=f705e6d8cae3f61e2213a4f4cdf49bfd681042a1&v=4",
+    "location": "Venezuela",
+    "company": "IDBC Group INDIGO",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-21T21:08:31Z"
+  },
+  {
+    "login": "jocdz",
+    "name": "Jose Diaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/683989?s=72&v=4",
+    "location": "Venezuela, Maracaibo",
+    "company": "Freelance",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-22T14:32:11Z"
+  },
+  {
+    "login": "Yampi",
+    "name": "Brian Baloa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/725317?s=72&u=67fb3e0bfdeb3598c3caae41b15bc5efb3c98e78&v=4",
+    "location": "Venezuela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2011-04-12T17:20:23Z"
+  },
+  {
+    "login": "morbet3000pc",
+    "name": "Morbet 3000 PC, C.A.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/823895?s=72&v=4",
+    "location": "Venezuela",
+    "company": "Morbet 30000 PC, C.A.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-06-01T19:48:06Z"
   }
 ]

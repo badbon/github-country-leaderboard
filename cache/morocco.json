@@ -112246,5 +112246,77 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2014-04-06T09:29:14Z"
+  },
+  {
+    "login": "anasoid",
+    "name": "oufdou anas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10306838?s=72&u=2e6b73557af8635a64731bb75bf8ada264227db5&v=4",
+    "location": "Rabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 58,
+    "publicContributions": 724,
+    "createdAt": "2014-12-26T14:32:29Z"
+  },
+  {
+    "login": "harbouj",
+    "name": "medo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8344113?s=72&v=4",
+    "location": "Rabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-03T16:16:43Z"
+  },
+  {
+    "login": "migorman",
+    "name": "codeGeek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9056220?s=72&u=158a59adba1f26d9536dbc4372ac7ecbb323eb87&v=4",
+    "location": "Rabat",
+    "company": "IGORTECH",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-07T18:27:41Z"
+  },
+  {
+    "login": "haitelfatmi",
+    "name": "Ait El Fatmi Hamza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7327702?s=72&u=434dceb65789a5855837340b5e57bdaaf3126fda&v=4",
+    "location": "Rabat, Maroc",
+    "company": "SQLI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-17T14:31:01Z"
+  },
+  {
+    "login": "younesboutouala",
+    "name": "Younes Boutouala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6735601?s=72&v=4",
+    "location": "Rabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-20T09:30:04Z"
+  },
+  {
+    "login": "medmoufahim",
+    "name": "Mohamed MOUFAHIM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7796446?s=72&v=4",
+    "location": "Rabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2014-06-04T16:46:06Z"
   }
 ]
