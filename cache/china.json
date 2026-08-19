@@ -14743,8 +14743,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 759,
-    "publicContributions": 1369,
+    "privateContributions": 771,
+    "publicContributions": 1370,
     "createdAt": "2024-08-08T14:13:56Z"
   },
   {
@@ -14864,7 +14864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 86,
     "createdAt": "2024-04-23T03:35:54Z"
   },
   {
@@ -14923,7 +14923,7 @@
     "company": "Northeast Petroleum University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3843,
+    "privateContributions": 3858,
     "publicContributions": 2,
     "createdAt": "2024-02-12T12:33:45Z"
   },
@@ -140182,5 +140182,29 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2024-12-19T06:41:18Z"
+  },
+  {
+    "login": "echo17666",
+    "name": "echo子懿",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72566693?s=72&u=49830f9a0eaf6602affd709ba763ad8453df3092&v=4",
+    "location": "Singapore & Shanghai, China",
+    "company": "National University of Singapore",
+    "twitterUsername": "",
+    "followers": 68,
+    "privateContributions": 2260,
+    "publicContributions": 400,
+    "createdAt": "2020-10-08T15:28:53Z"
+  },
+  {
+    "login": "Vickey-Wu",
+    "name": "Vicky-Wu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24975216?s=72&v=4",
+    "location": "Taiwan, China. HongKong, China.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2017-01-07T13:10:14Z"
   }
 ]
