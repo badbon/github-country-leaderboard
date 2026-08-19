@@ -107686,5 +107686,53 @@
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2013-09-18T17:00:51Z"
+  },
+  {
+    "login": "Dr4nzer",
+    "name": "Julio Quispe Escobar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5623608?s=72&v=4",
+    "location": "Miraflores - Lima - Peru",
+    "company": "URP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 544,
+    "publicContributions": 1,
+    "createdAt": "2013-10-06T17:13:08Z"
+  },
+  {
+    "login": "afmancilla",
+    "name": "Alex Mancilla Antay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5957783?s=72&u=2654d88544eedd05a0b4bdd22ef644f2c304192e&v=4",
+    "location": "Peru",
+    "company": "APINauta",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-11-16T22:12:46Z"
+  },
+  {
+    "login": "lionelgt",
+    "name": "Lionel Gonzales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5743935?s=72&u=2a3f23c872f801038941a8a5d9994ad4a36b8ce1&v=4",
+    "location": "Lima - Peru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-22T05:54:34Z"
+  },
+  {
+    "login": "coliveros",
+    "name": "Carlos Jesús",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5271177?s=72&u=be01d6eaa4e5c4ece5199c64a6b6455c7ac4bebf&v=4",
+    "location": "Lima/Peru",
+    "company": "[Cuenta Personal]",
+    "twitterUsername": "yotrazo",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-20T15:43:58Z"
   }
 ]

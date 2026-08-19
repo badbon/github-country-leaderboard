@@ -1,13 +1,13 @@
 # Followers - Åland Islands
 
-Generated: 2026-08-19T06:37:11.603Z
+Generated: 2026-08-19T06:56:15.195Z
 
 Users: 59
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh |  |  | Mariehamn, Åland | 614 |
-| 2 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 523 |
+| 2 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 522 |
 | 3 | [Ramona-Ekanayake](https://github.com/Ramona-Ekanayake) | Ramona Ekanayake | grit:lab | Ramzy_dev | Åland Islands | 60 |
 | 4 | [jesjos](https://github.com/jesjos) | Jesper Josefsson |  |  | Mariehamn, Åland | 28 |
 | 5 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 24 |

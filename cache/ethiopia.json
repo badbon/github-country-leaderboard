@@ -80038,5 +80038,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-10-03T16:46:45Z"
+  },
+  {
+    "login": "mfissehaye",
+    "name": "Merhawi Fissehaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2877236?s=72&u=26f5e0f91888308e61cc7262e864df70718dd365&v=4",
+    "location": "Addis Ababa",
+    "company": "eLearning Ethiopia",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2012-11-24T08:52:59Z"
+  },
+  {
+    "login": "zwesib",
+    "name": "Gits",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2829759?s=72&v=4",
+    "location": "Addis Ababa",
+    "company": "Tk plc",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-18T22:51:54Z"
   }
 ]
