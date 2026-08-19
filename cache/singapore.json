@@ -63727,7 +63727,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 762,
+    "privateContributions": 763,
     "publicContributions": 220,
     "createdAt": "2021-10-30T16:22:42Z"
   },
@@ -63835,7 +63835,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 208,
+    "privateContributions": 210,
     "publicContributions": 232,
     "createdAt": "2021-09-21T04:45:48Z"
   },
@@ -63872,7 +63872,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2021-10-13T04:08:04Z"
   },
   {
@@ -63883,7 +63883,7 @@
     "company": "Constellar Group Pte Ltd",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 163,
+    "privateContributions": 164,
     "publicContributions": 647,
     "createdAt": "2021-10-26T14:39:07Z"
   },
@@ -63967,7 +63967,7 @@
     "company": "Visa Inc.",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 132,
+    "privateContributions": 133,
     "publicContributions": 227,
     "createdAt": "2021-09-16T10:57:32Z"
   },
@@ -64183,7 +64183,7 @@
     "company": "@Ownmades ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1574,
+    "privateContributions": 1580,
     "publicContributions": 6,
     "createdAt": "2021-08-21T10:11:22Z"
   },
@@ -64243,7 +64243,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 128,
+    "privateContributions": 129,
     "publicContributions": 134,
     "createdAt": "2021-10-30T15:25:19Z"
   },
@@ -64279,7 +64279,7 @@
     "company": "National University of Singapore",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 934,
+    "privateContributions": 935,
     "publicContributions": 211,
     "createdAt": "2021-07-20T08:02:16Z"
   },
@@ -69742,5 +69742,29 @@
     "privateContributions": 28,
     "publicContributions": 8,
     "createdAt": "2019-03-21T03:30:19Z"
+  },
+  {
+    "login": "raychong",
+    "name": "Ray Chong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5880426?s=72&u=7186d2b3d56bd4a0473c2787ce206ba660c50f67&v=4",
+    "location": "Kuala Lumpur | Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 2,
+    "publicContributions": 1,
+    "createdAt": "2013-11-07T15:08:08Z"
+  },
+  {
+    "login": "HtetAungKyawCK",
+    "name": "Htet Aung Kyaw",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47741869?s=72&u=3f76220f659e332b095159ac568ba3e9a95bd929&v=4",
+    "location": "Thailand, Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2019-02-18T10:43:54Z"
   }
 ]

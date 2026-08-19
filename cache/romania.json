@@ -118486,5 +118486,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-03-09T14:00:10Z"
+  },
+  {
+    "login": "simonacostea",
+    "name": "Simona Costea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17770281?s=72&u=dbee1755ad8ec8f3d7d6ff2b86e8fcc33490c196&v=4",
+    "location": "Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-10T19:05:08Z"
+  },
+  {
+    "login": "VitalyTz",
+    "name": "Vitaly Tz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17824843?s=72&u=8583f2eff25479e3d49f530dca0e207496752963&v=4",
+    "location": "Romania, Bucharest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-14T09:23:01Z"
+  },
+  {
+    "login": "radugalbenu",
+    "name": "Radu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22589020?s=72&v=4",
+    "location": "Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 773,
+    "publicContributions": 23,
+    "createdAt": "2016-10-03T09:48:23Z"
   }
 ]

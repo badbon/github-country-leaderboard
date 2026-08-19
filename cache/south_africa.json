@@ -111730,5 +111730,53 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2019-09-08T14:29:21Z"
+  },
+  {
+    "login": "jp-bitcube",
+    "name": "JPMC",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56080352?s=72&u=2ce1b1a0e4d19dbb70030f67308706d3d831a589&v=4",
+    "location": "Bloemfontein, Free State",
+    "company": "Bitcube",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1629,
+    "publicContributions": 0,
+    "createdAt": "2019-10-02T14:05:41Z"
+  },
+  {
+    "login": "Vasco21",
+    "name": "VascoEti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50703731?s=72&u=3f0922256be85cc184f0d3c2133d7b909211f003&v=4",
+    "location": "Bloemfontein",
+    "company": "Creative Power Dev",
+    "twitterUsername": "Qvary34",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-16T12:01:28Z"
+  },
+  {
+    "login": "nosabatha130",
+    "name": "Nosabatha Madayizana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59065628?s=72&v=4",
+    "location": "Bloemfontein ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-19T19:03:59Z"
+  },
+  {
+    "login": "JustinotherGitter",
+    "name": "Justin Cooper",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49234323?s=72&u=e24f2e60987c823f94e5e92be7985ca593758dc8&v=4",
+    "location": "Bloemfontein, FS",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 107,
+    "publicContributions": 23,
+    "createdAt": "2019-04-03T10:28:50Z"
   }
 ]

@@ -10231,7 +10231,7 @@
     "company": "Biznitos LTD.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 71,
+    "privateContributions": 73,
     "publicContributions": 4,
     "createdAt": "2019-02-02T03:01:35Z"
   },
@@ -141454,5 +141454,29 @@
     "privateContributions": 0,
     "publicContributions": 28,
     "createdAt": "2023-12-03T00:57:34Z"
+  },
+  {
+    "login": "droidworks",
+    "name": "linges",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3920069?s=72&u=53ff6f10889a2a0cf607216c9b91004b958a938b&v=4",
+    "location": "Montreal, Osaka, Kuala Lumpur",
+    "company": "42",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2013-03-20T11:43:39Z"
+  },
+  {
+    "login": "Jadekin",
+    "name": "Karen Pinzás Morrongiello",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4720423?s=72&u=a5e7115ac88c24a5a5e1586302d726310da6007e&v=4",
+    "location": "Canada | Peru",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 2272,
+    "publicContributions": 7,
+    "createdAt": "2013-06-17T17:09:14Z"
   }
 ]
