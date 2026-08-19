@@ -135202,5 +135202,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-02-14T21:02:06Z"
+  },
+  {
+    "login": "makoConstruct",
+    "name": "mako yass",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/346569?s=72&u=45caddadfd82263cbd984a3e98c51098ef01c94c&v=4",
+    "location": "auckland, aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 61,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2010-07-28T05:28:06Z"
+  },
+  {
+    "login": "tobz-nz",
+    "name": "Toby Evans",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/443054?s=72&v=4",
+    "location": "Aotearoa (New Zealand)",
+    "company": "@techful-nz",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 863,
+    "publicContributions": 52,
+    "createdAt": "2010-10-17T19:33:51Z"
+  },
+  {
+    "login": "strypey",
+    "name": "Danyl Strype",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/313316?s=72&u=ef6333346bdf325f6bea1407fc6e2565ae12fa75&v=4",
+    "location": "Aotearoa(NZ)",
+    "company": "Disintermedia",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-24T04:37:55Z"
+  },
+  {
+    "login": "robramsaynz",
+    "name": "Rob Ramsay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/345553?s=72&v=4",
+    "location": "Wellington Aotearoa/New Zealand",
+    "company": "Cymonz",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-07-27T09:46:06Z"
+  },
+  {
+    "login": "eliweir",
+    "name": "Eli Weir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292197?s=72&u=728bc84ca7f0d7672e21b0a4a436d259966e0dac&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "eliweir",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-31T10:51:21Z"
+  },
+  {
+    "login": "linuscorin",
+    "name": "Linus Corin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/475863?s=72&u=9238fe83e79de1c0fcd33bb49f9ca2c12a6fa4f6&v=4",
+    "location": "Aotearoa",
+    "company": "Datacom",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2010-11-10T14:53:50Z"
+  },
+  {
+    "login": "marioaltvater",
+    "name": "Mario Altvater",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/522855?s=72&u=7431bbe1015e131808324434b6a2266ba03761a6&v=4",
+    "location": "Tāmaki Makaurau, Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2010-12-14T15:30:04Z"
   }
 ]

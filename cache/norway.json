@@ -94546,5 +94546,65 @@
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2017-04-27T05:44:03Z"
+  },
+  {
+    "login": "madsoliver",
+    "name": "Mads Oliver Jenssen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30602638?s=72&u=650dea712179f298df2afd082065da73c2e73660&v=4",
+    "location": "Norge",
+    "company": "KomplettNettbutikk.no AS",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2017-07-31T17:41:40Z"
+  },
+  {
+    "login": "AndersErikstad",
+    "name": "Anders Erikstad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26277541?s=72&u=083e7950cbb25e3faeab72a73d106320767c8a27&v=4",
+    "location": "Oslo, Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 158,
+    "publicContributions": 31,
+    "createdAt": "2017-03-08T13:12:31Z"
+  },
+  {
+    "login": "ellenss",
+    "name": "Ellen Synnøve Samdal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32095564?s=72&u=568e3783f443ff6ef25b618fe1a578d52b999e8b&v=4",
+    "location": "Stavanger, Norge",
+    "company": "Bouvet",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2017-09-19T10:42:37Z"
+  },
+  {
+    "login": "viktorbl",
+    "name": "Viktorija Blaziene",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33942261?s=72&u=3e653fd7b1e62dbb153f372293ea558fbd8757f4&v=4",
+    "location": "Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-23T21:46:46Z"
+  },
+  {
+    "login": "MariusBratvold",
+    "name": "Marius Bratvold",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31646703?s=72&u=ac48ebbde96ad16b3a0bfe656e0e742023737c5a&v=4",
+    "location": "Haugesund, Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-05T07:05:00Z"
   }
 ]

@@ -134326,5 +134326,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-11-08T23:12:53Z"
+  },
+  {
+    "login": "Zafrul",
+    "name": "Zafrul ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2917126?s=72&v=4",
+    "location": "Kuala Lumpur",
+    "company": "CodeAr.my",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-29T01:54:16Z"
+  },
+  {
+    "login": "MickeMannen",
+    "name": "Micke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2834133?s=72&v=4",
+    "location": "Kuala Lumpur",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 97,
+    "createdAt": "2012-11-19T11:40:40Z"
+  },
+  {
+    "login": "Rohaniza",
+    "name": "Rohaniza Jamili",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1487554?s=72&v=4",
+    "location": "Kuala Lumpur, MY",
+    "company": "NGA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-01T05:36:52Z"
+  },
+  {
+    "login": "agileox",
+    "name": "AgileoX",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1841514?s=72&u=babef86760f24f4d82dc5392e3fa8f3ac76c0380&v=4",
+    "location": "Kuala Lumpur",
+    "company": "Largest Bank In Malaysia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 61,
+    "createdAt": "2012-06-12T07:57:39Z"
+  },
+  {
+    "login": "CPCoder",
+    "name": "Steffen Haase",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2156938?s=72&u=f74b6d64b1f89bb930ea4780e2504baac56b6e16&v=4",
+    "location": "Kuala Lumpur",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 747,
+    "publicContributions": 103,
+    "createdAt": "2012-08-15T13:23:09Z"
+  },
+  {
+    "login": "Irsyad",
+    "name": "Mohamad Irsyad Irawan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1912416?s=72&v=4",
+    "location": "Kuala Lumpur",
+    "company": "Northgate Arinso",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-02T03:10:24Z"
   }
 ]

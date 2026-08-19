@@ -80146,5 +80146,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-01-04T13:29:13Z"
+  },
+  {
+    "login": "fuadj",
+    "name": "Fuad Seffa Jemal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1276157?s=72&u=75213b7b3540568e7d09cdd60911ac42d97811f2&v=4",
+    "location": "Addis Ababa",
+    "company": "Mukera Technologies",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-12-20T20:57:25Z"
+  },
+  {
+    "login": "jonmersha",
+    "name": "Yohannes Mitike",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1103919?s=72&u=edafeb008d18f66737d2fb493c23dbd6d99437b0&v=4",
+    "location": "Addis Ababa",
+    "company": "Hira software Solutions",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 505,
+    "createdAt": "2011-10-05T05:38:51Z"
+  },
+  {
+    "login": "abuahmed",
+    "name": "Ibrahim Yassin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1286286?s=72&u=8aad7ecbbb3033dbdc915ece236dd9ce3cbaa7b2&v=4",
+    "location": "Addis Ababa",
+    "company": "Pinnasofts PLC",
+    "twitterUsername": "ibrahimyassin",
+    "followers": 1,
+    "privateContributions": 613,
+    "publicContributions": 0,
+    "createdAt": "2011-12-26T13:50:34Z"
   }
 ]
