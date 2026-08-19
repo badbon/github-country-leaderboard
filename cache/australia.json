@@ -140614,5 +140614,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-17T04:00:35Z"
+  },
+  {
+    "login": "mohammedhalosaimi",
+    "name": "Mohammed Alosaimi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19363143?s=72&u=7915a9d8de0f357313d76e99b438b824cd97b386&v=4",
+    "location": "Melbourne - Riyadh",
+    "company": "",
+    "twitterUsername": "mhalosaimi",
+    "followers": 20,
+    "privateContributions": 1670,
+    "publicContributions": 48,
+    "createdAt": "2016-05-14T15:48:43Z"
+  },
+  {
+    "login": "mks53",
+    "name": "Murtaza Khozema Sherwala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87420946?s=72&v=4",
+    "location": "Sydney, Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-07-14T09:58:40Z"
+  },
+  {
+    "login": "anhtruong-it",
+    "name": "Anh Truong Nguyen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87184721?s=72&u=66dfef4bb1dd9a36a29db76c115f96cee3686cdc&v=4",
+    "location": "Australia",
+    "company": "Griffith University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-09T11:26:59Z"
+  },
+  {
+    "login": "rohannelson",
+    "name": "Rohan Nelson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88932237?s=72&u=8760883a23d3eec3e3d1b9ea6e8f6719b7be4cb8&v=4",
+    "location": "Perth, Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 82,
+    "createdAt": "2021-08-14T12:00:05Z"
+  },
+  {
+    "login": "agas1ya",
+    "name": "Agastya Dubey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88952502?s=72&u=a0d35c5331fb5d3538a6a9cbc8b443a972c43931&v=4",
+    "location": "Sydney, Australia",
+    "company": "@tess-services ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 519,
+    "publicContributions": 162,
+    "createdAt": "2021-08-15T00:30:42Z"
+  },
+  {
+    "login": "watersxo",
+    "name": "watersxo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89298124?s=72&u=498f7c08658e162615aafa61d2d7dd91eb4aa911&v=4",
+    "location": "Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-08-21T09:33:13Z"
+  },
+  {
+    "login": "Azwa32",
+    "name": "AA Mitchell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87596275?s=72&u=a0e371573554f7454f5dba92de1b0e3fc13190af&v=4",
+    "location": "Perth, Western Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 32,
+    "publicContributions": 145,
+    "createdAt": "2021-07-18T06:52:38Z"
+  },
+  {
+    "login": "alexandre-bordiere",
+    "name": "Alexandre Bordiere",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87599075?s=72&u=7aab5595aa8df67737ff78b44e798f868e0c8adb&v=4",
+    "location": "Sydney, Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2021-07-18T08:34:09Z"
+  },
+  {
+    "login": "afm-faisal06",
+    "name": "Abu Fatah Mohammed Faisal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89960744?s=72&u=917c00745d71051161d526d66f562bff0c5562af&v=4",
+    "location": "Perth, Australia",
+    "company": "Curtin University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2021-09-02T05:07:18Z"
   }
 ]

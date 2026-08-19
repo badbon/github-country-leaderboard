@@ -145834,5 +145834,41 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2022-08-10T19:33:44Z"
+  },
+  {
+    "login": "Atasco7",
+    "name": "Francis Atari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110068211?s=72&v=4",
+    "location": "Nigeria",
+    "company": "",
+    "twitterUsername": "IamAtari_",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-26T22:46:36Z"
+  },
+  {
+    "login": "femisina",
+    "name": "Oluwafemi OLUWASINA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110320889?s=72&u=edd16c27bfffb240304c4a5bcbd790f1f5fd6425&v=4",
+    "location": "Nigeria",
+    "company": "",
+    "twitterUsername": "leon_nuel",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-07-31T04:38:48Z"
+  },
+  {
+    "login": "Alex-Onyeka",
+    "name": "Alex Onyeka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111187768?s=72&v=4",
+    "location": "Wuse, Abuja, Nigeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 378,
+    "createdAt": "2022-08-13T14:12:05Z"
   }
 ]

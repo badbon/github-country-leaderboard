@@ -139027,7 +139027,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 1574,
+    "privateContributions": 1575,
     "publicContributions": 24,
     "createdAt": "2011-07-29T12:14:06Z"
   },
@@ -143950,5 +143950,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-03-29T16:40:35Z"
+  },
+  {
+    "login": "vladimirg",
+    "name": "Vladimir Gritsenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1148887?s=72&v=4",
+    "location": "Jerusalem",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 64,
+    "createdAt": "2011-10-24T17:54:50Z"
+  },
+  {
+    "login": "antonech",
+    "name": "Anton Nechaev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/600526?s=72&v=4",
+    "location": "Jerusalem",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 101,
+    "createdAt": "2011-02-04T14:29:00Z"
+  },
+  {
+    "login": "garyjoe",
+    "name": "Yosef Gutman Levitt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/641230?s=72&u=802e129c473c21f2d4edde51b8a23e4bf8ebad91&v=4",
+    "location": "Jerusalem",
+    "company": "Soul Song LTD.",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-27T20:04:14Z"
+  },
+  {
+    "login": "adirel",
+    "name": "adir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1177971?s=72&u=f9ca88c88bc1ccc2e3f79060aeed0c69e1972cbb&v=4",
+    "location": "jerusalem",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2011-11-07T13:53:10Z"
+  },
+  {
+    "login": "beyondes",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/595241?s=72&v=4",
+    "location": "Jerusalem",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-02-01T17:48:59Z"
+  },
+  {
+    "login": "omerbsh",
+    "name": "Omer Ben Shushan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1243213?s=72&u=ee075b7e9450d992b064503e64fcc8d54bbbad48&v=4",
+    "location": "Jerusalem",
+    "company": "Omer Ben Shushan",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-12-06T00:23:40Z"
   }
 ]
