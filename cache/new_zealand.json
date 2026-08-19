@@ -140482,5 +140482,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-10-30T15:08:46Z"
+  },
+  {
+    "login": "jimsynz",
+    "name": "James Harton",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59449?s=72&u=771314c35d59d7485328ed28eb39585eee6e4b51&v=4",
+    "location": "Wairarapa, Aotearoa",
+    "company": "@team-alembic",
+    "twitterUsername": "",
+    "followers": 222,
+    "privateContributions": 443,
+    "publicContributions": 4458,
+    "createdAt": "2009-03-02T18:37:04Z"
+  },
+  {
+    "login": "ojwb",
+    "name": "Olly Betts",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164061?s=72&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 106,
+    "privateContributions": 0,
+    "publicContributions": 1641,
+    "createdAt": "2009-12-07T23:08:46Z"
+  },
+  {
+    "login": "chrisalley",
+    "name": "Chris Alley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134437?s=72&u=6aa721d60ae70c4acf806814e4ceeec3bacd6723&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 0,
+    "publicContributions": 112,
+    "createdAt": "2009-10-03T00:59:23Z"
+  },
+  {
+    "login": "KohaAloha",
+    "name": "mjames",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53732?s=72&u=0c24a1ab872cf9a0428e7ff3ce8f9094a8ed51a1&v=4",
+    "location": "Aotearoa, New Zealand",
+    "company": "KohaAloha",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2009-02-11T18:48:43Z"
+  },
+  {
+    "login": "oventi",
+    "name": "Andrés Proaño Valencia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113447?s=72&v=4",
+    "location": "Aotearoa (New Zealand)",
+    "company": "",
+    "twitterUsername": "oventi_",
+    "followers": 26,
+    "privateContributions": 62,
+    "publicContributions": 72,
+    "createdAt": "2009-08-09T12:46:01Z"
+  },
+  {
+    "login": "lightweight",
+    "name": "Dave Lane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167100?s=72&u=7a81251d653af009945171537f93cfbeeb1ef667&v=4",
+    "location": "Ōtautahi/Christchurch, Aotearoa/NZ",
+    "company": "Lane Ventures, @oeru, @TheCacophonyProject ",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-12-13T22:03:35Z"
+  },
+  {
+    "login": "mattdw",
+    "name": "Matt Wilson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51568?s=72&v=4",
+    "location": "Aotearoa / New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 216,
+    "publicContributions": 17,
+    "createdAt": "2009-02-03T23:38:16Z"
+  },
+  {
+    "login": "disordinary",
+    "name": "Ryan McCarvill",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73181?s=72&u=6d0df16d776ecad78e6c9b8c8531b8e61ee57f24&v=4",
+    "location": "Wellington, Aotearoa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 2408,
+    "publicContributions": 2,
+    "createdAt": "2009-04-13T05:30:22Z"
+  },
+  {
+    "login": "lee0007",
+    "name": "Renee Lee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161664?s=72&v=4",
+    "location": "Aotearoa",
+    "company": "",
+    "twitterUsername": "lee0007",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2009-12-04T00:29:16Z"
   }
 ]
