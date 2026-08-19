@@ -133798,5 +133798,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-05T13:48:14Z"
+  },
+  {
+    "login": "wishitsrl",
+    "name": "WishItLab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102662041?s=72&u=a322345b57cefefc2d10ab4dd0a030b9c08895d0&v=4",
+    "location": "Roma",
+    "company": "Wish IT srl",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-03-30T10:04:19Z"
+  },
+  {
+    "login": "mazzalorenzo",
+    "name": "Lorenzo Mazza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97702773?s=72&v=4",
+    "location": "Roma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2022-01-13T20:38:12Z"
   }
 ]
