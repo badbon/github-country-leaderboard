@@ -115747,7 +115747,7 @@
     "company": "BUK",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 3426,
+    "privateContributions": 3429,
     "publicContributions": 0,
     "createdAt": "2019-01-30T14:50:09Z"
   },
@@ -115819,7 +115819,7 @@
     "company": "@bukhr ",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1653,
+    "privateContributions": 1663,
     "publicContributions": 18,
     "createdAt": "2019-03-20T16:06:21Z"
   },
@@ -115832,7 +115832,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 681,
-    "publicContributions": 515,
+    "publicContributions": 516,
     "createdAt": "2019-03-24T00:23:08Z"
   },
   {
@@ -115843,7 +115843,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 970,
+    "privateContributions": 1001,
     "publicContributions": 0,
     "createdAt": "2019-03-05T21:34:51Z"
   },
@@ -120080,7 +120080,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 385,
+    "publicContributions": 394,
     "createdAt": "2019-06-17T12:31:03Z"
   },
   {
@@ -124423,7 +124423,7 @@
     "company": "FCFM, Universidad de Chile",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1567,
+    "privateContributions": 1571,
     "publicContributions": 10,
     "createdAt": "2019-11-25T22:54:38Z"
   },
@@ -124663,7 +124663,7 @@
     "company": "@bcilabs",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1062,
+    "privateContributions": 1063,
     "publicContributions": 7,
     "createdAt": "2019-10-28T23:35:52Z"
   },
@@ -124735,7 +124735,7 @@
     "company": "UC",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 774,
+    "privateContributions": 779,
     "publicContributions": 21,
     "createdAt": "2019-12-25T21:28:34Z"
   },
@@ -124927,7 +124927,7 @@
     "company": "@xpendit ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1465,
+    "privateContributions": 1470,
     "publicContributions": 53,
     "createdAt": "2019-08-07T03:02:44Z"
   },
@@ -130858,5 +130858,209 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-01T21:27:52Z"
+  },
+  {
+    "login": "missaelcv",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58403931?s=72&u=e0c00a4ef7b2fa5a0dfac09fdf89cbd59678ac2b&v=4",
+    "location": "Santiago  de los Caballeros",
+    "company": "",
+    "twitterUsername": "VillarMissael",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2019-12-01T22:12:05Z"
+  },
+  {
+    "login": "randymxd06",
+    "name": "Randy Martínez Cepeda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55677075?s=72&u=2ef9a71200f679a02f236b739da38f0fa66e8c84&v=4",
+    "location": "Santiago de los Caballeros, República Dominicana",
+    "company": "Consultec-TI",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 100,
+    "publicContributions": 61,
+    "createdAt": "2019-09-23T02:45:18Z"
+  },
+  {
+    "login": "MageLnk",
+    "name": "Gabriel López",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51709911?s=72&u=9a5b388a6e8589e0b9e421692ca9062a4c366611&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 199,
+    "publicContributions": 0,
+    "createdAt": "2019-06-11T13:57:54Z"
+  },
+  {
+    "login": "galvadiz",
+    "name": "Geraldine Alvadiz Frez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50721272?s=72&u=bfcddde02dd8f6e02ef8ff679fa7f0d9645595b4&v=4",
+    "location": "Santiago",
+    "company": "Universidad de Chile",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-16T22:32:28Z"
+  },
+  {
+    "login": "ReactSn0w",
+    "name": "Ernesto Pérez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46892448?s=72&u=07f4a877dde0ad45fbd8f6dbba50abfda92d99ec&v=4",
+    "location": "Santiago",
+    "company": "Quarsec",
+    "twitterUsername": "erperezm",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-21T12:03:59Z"
+  },
+  {
+    "login": "Gutybv",
+    "name": "Benjamin Gutierrez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56173511?s=72&u=e8cc913a438483354f94271324b2b797c9f6cfac&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "gutybvv",
+    "followers": 11,
+    "privateContributions": 594,
+    "publicContributions": 24,
+    "createdAt": "2019-10-04T19:11:40Z"
+  },
+  {
+    "login": "Macsito-prog",
+    "name": "Maximiliano Carrasco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56443046?s=72&u=d775fadb84e0cf3cb942e11023e260bcc1afb11c&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "whoismacnoon",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2019-10-11T13:46:30Z"
+  },
+  {
+    "login": "WilsonMachado",
+    "name": "Wilson D. Machado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58950419?s=72&u=2e3114779db9e96ea2a8ceef6fe81ebe8ce17abe&v=4",
+    "location": "Santiago de Cali",
+    "company": "",
+    "twitterUsername": "WDMachado_dev",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-12-16T16:58:11Z"
+  },
+  {
+    "login": "Zauverer",
+    "name": "Cristian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56987681?s=72&u=c7fbe9f86af213f6ef4205a1c00cbde3ccf722fb&v=4",
+    "location": "Santiago",
+    "company": "Luft",
+    "twitterUsername": "CGomezLoaiza",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2019-10-25T02:42:22Z"
+  },
+  {
+    "login": "arkanto99",
+    "name": "Pablo Rodríguez Fernández",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46979502?s=72&u=6436e716c33ba652c4cb058486ab89c267dc3711&v=4",
+    "location": "Santiago de Compostela",
+    "company": "UNED",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 73,
+    "publicContributions": 63,
+    "createdAt": "2019-01-23T22:59:22Z"
+  },
+  {
+    "login": "mbustamanter",
+    "name": "Miguel Bustamante",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49990219?s=72&u=965ba9f9a1d3c32475a574d7ae3059da80129ebb&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-25T15:15:18Z"
+  },
+  {
+    "login": "carky12",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57545449?s=72&u=f0d37be25984d982e315e55c78a5d9ecc8287749&v=4",
+    "location": "Santiago de Compostela",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-08T21:27:44Z"
+  },
+  {
+    "login": "cristobalobos",
+    "name": "Cristobal Lobos Toled",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57076112?s=72&u=d8a46fe1e0afb70f203fe783f66923451f276403&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2019-10-27T21:34:31Z"
+  },
+  {
+    "login": "vilaB",
+    "name": "Gabriel Vilariño Besteiro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59056256?s=72&u=9c3aadfd668795664a8601360e1637c27606bfd5&v=4",
+    "location": "Santiago de Compostela",
+    "company": "",
+    "twitterUsername": "VilaaaB",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-19T13:41:39Z"
+  },
+  {
+    "login": "Inostroza7",
+    "name": "Gustavo Inostroza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53614665?s=72&u=a24fab22327a27eb219406051d3e9c1e163e46f6&v=4",
+    "location": "Las Condes, Santiago",
+    "company": "Wingsoft - Ocular Solution",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2019-08-02T13:19:23Z"
+  },
+  {
+    "login": "AlejandraMoralesB",
+    "name": "AlejandraMoralesB",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51416478?s=72&u=7f12368ffcbdb20054a376feb2f4e03623881436&v=4",
+    "location": "Santiago- Viña del Mar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-05T16:59:24Z"
+  },
+  {
+    "login": "Diego-ds",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54712482?s=72&u=82b9ed18807309c5a7c049657374ffc22b42e24e&v=4",
+    "location": "Santiago de Cali",
+    "company": "Universidad Icesi",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-30T12:59:06Z"
   }
 ]
