@@ -1594,5 +1594,65 @@
     "privateContributions": 1553,
     "publicContributions": 8,
     "createdAt": "2010-09-13T08:42:18Z"
+  },
+  {
+    "login": "devdanio",
+    "name": "Dan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/249215?s=72&u=51425a53587513443286613632aeb4f38e216650&v=4",
+    "location": "Jersey",
+    "company": "DevDan",
+    "twitterUsername": "DevDanIO",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 139,
+    "createdAt": "2010-04-21T18:32:50Z"
+  },
+  {
+    "login": "shixilun",
+    "name": "Theron Stanford",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/356708?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-06T23:52:16Z"
+  },
+  {
+    "login": "pbaker",
+    "name": "Paul Baker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/470681?s=72&v=4",
+    "location": "Jersey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-07T00:15:40Z"
+  },
+  {
+    "login": "tommyw",
+    "name": "Tom Witherington",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/478656?s=72&v=4",
+    "location": "Jersey",
+    "company": "Webreality",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-12T10:18:50Z"
+  },
+  {
+    "login": "TomHacquoil",
+    "name": "Tom Hacquoil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/435238?s=72&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "Roll On Media",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-10-11T11:17:17Z"
   }
 ]

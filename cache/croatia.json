@@ -65350,5 +65350,53 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2008-11-11T14:19:52Z"
+  },
+  {
+    "login": "retro",
+    "name": "Mihael Konjević",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20320?s=72&u=954575826b9ff32fbadb1a41113faa36782b0989&v=4",
+    "location": "Zagreb",
+    "company": "@VeryBigThings ",
+    "twitterUsername": "mihaelkonjevic",
+    "followers": 129,
+    "privateContributions": 0,
+    "publicContributions": 106,
+    "createdAt": "2008-08-11T20:39:26Z"
+  },
+  {
+    "login": "schrepfler",
+    "name": "Srepfler Srdan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3553?s=72&v=4",
+    "location": "Zagreb",
+    "company": "The Unit Ltd.",
+    "twitterUsername": "schrepfler",
+    "followers": 77,
+    "privateContributions": 0,
+    "publicContributions": 584,
+    "createdAt": "2008-03-21T16:31:11Z"
+  },
+  {
+    "login": "lblasc",
+    "name": "Luka Blašković",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32152?s=72&u=3e30e7bae832240658a1080e399d4dfcd77b3f15&v=4",
+    "location": "Zagreb",
+    "company": "TVbeat",
+    "twitterUsername": "",
+    "followers": 50,
+    "privateContributions": 1576,
+    "publicContributions": 60,
+    "createdAt": "2008-11-01T16:41:07Z"
+  },
+  {
+    "login": "deresh",
+    "name": "Krešo Kunjas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1499?s=72&v=4",
+    "location": "Zagreb",
+    "company": "@trikoder ",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2008-02-28T08:51:19Z"
   }
 ]

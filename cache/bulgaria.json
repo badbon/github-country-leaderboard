@@ -79306,5 +79306,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-02-23T15:38:04Z"
+  },
+  {
+    "login": "SimonaMMM",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46393107?s=72&v=4",
+    "location": "Sofia",
+    "company": "VMware",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-05T06:43:47Z"
+  },
+  {
+    "login": "galin-kostadinov",
+    "name": "Galin Kostadinov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48104004?s=72&u=0f518a7e3280c1072e75a235db2d38171ac788da&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-02-28T19:38:41Z"
+  },
+  {
+    "login": "IvayloZankov",
+    "name": "Ivaylo Zankov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48798177?s=72&u=09484452cedb2add504021b3c6ea0f73d1a11dd4&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2019-03-21T14:08:28Z"
+  },
+  {
+    "login": "hasheto",
+    "name": "Hasho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46902422?s=72&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-21T18:00:57Z"
+  },
+  {
+    "login": "tsvetanakostova",
+    "name": "Tsvetana Kostova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56110045?s=72&u=28dff763a4691bcdf606ae4dbcb19404f890db31&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-03T08:06:38Z"
+  },
+  {
+    "login": "tgancheva",
+    "name": "Teodora Gancheva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50363463?s=72&v=4",
+    "location": "Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-07T10:34:10Z"
+  },
+  {
+    "login": "desislava-hristova-ontotext",
+    "name": "Desislava Hristova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51081326?s=72&v=4",
+    "location": "Sofia",
+    "company": "Ontotext",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 62,
+    "createdAt": "2019-05-27T10:52:24Z"
+  },
+  {
+    "login": "funkfuzz",
+    "name": "Asparuh Stoyanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49751338?s=72&u=ed7da6a3dccb49aa49ba892d8f679627b54f4472&v=4",
+    "location": "Berlin/Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-04-18T10:15:09Z"
+  },
+  {
+    "login": "nikdyankov",
+    "name": "Nik Dyankov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57576454?s=72&u=ff1a707001e1d2074941b23922408c12ff2bf441&v=4",
+    "location": "Europe/Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 138,
+    "publicContributions": 0,
+    "createdAt": "2019-11-09T22:57:13Z"
   }
 ]
