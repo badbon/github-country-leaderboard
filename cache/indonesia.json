@@ -160018,5 +160018,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-08T14:50:16Z"
+  },
+  {
+    "login": "rachmatramadhan123",
+    "name": "Rachmat Ramadhan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153681663?s=72&v=4",
+    "location": "Jakarta Selatan",
+    "company": "PT. Cipta Strada",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2023-12-12T21:05:30Z"
+  },
+  {
+    "login": "cgtcompany",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150170180?s=72&u=82b656c0329b24a9100ae217bcc7b2e9a51ed71f&v=4",
+    "location": "jakarta",
+    "company": "cyber Global Tech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-07T16:22:06Z"
+  },
+  {
+    "login": "Kikumpum",
+    "name": "Fatah Aryoyudho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149560494?s=72&u=5a6a1eb4b70bfaf5f9a773ec5e2c44b91db00bd0&v=4",
+    "location": "Jakarta",
+    "company": "Bank BNI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2023-11-01T05:38:17Z"
+  },
+  {
+    "login": "helmiapriando21",
+    "name": "Helmi Apriando",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147117274?s=72&u=077e40e0ceb21eecfddc501c4f119cb2c0ed9713&v=4",
+    "location": "Jakarta Selatan, DKI Jakarta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2023-10-06T01:27:00Z"
+  },
+  {
+    "login": "reyhan225",
+    "name": "Reyhan Muhamad Rizki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150444424?s=72&v=4",
+    "location": "Jakarta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 28,
+    "publicContributions": 9,
+    "createdAt": "2023-11-10T12:21:56Z"
   }
 ]
