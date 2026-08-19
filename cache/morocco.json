@@ -116002,5 +116002,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-08-29T17:22:19Z"
+  },
+  {
+    "login": "pborreli",
+    "name": "Pascal Borreli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77759?s=72&u=7eb4a4e909692137a2b1e86ba128db40aabd4003&v=4",
+    "location": "Oujda, Morocco",
+    "company": "",
+    "twitterUsername": "pborreli",
+    "followers": 425,
+    "privateContributions": 180,
+    "publicContributions": 0,
+    "createdAt": "2009-04-25T18:06:27Z"
+  },
+  {
+    "login": "tbaumann",
+    "name": "Tilman Baumann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76476?s=72&v=4",
+    "location": "Marrakech, Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 383,
+    "createdAt": "2009-04-22T09:04:27Z"
+  },
+  {
+    "login": "mezgani",
+    "name": "MEZGANI Ali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103267?s=72&u=47bc0285f8e0482f98d80192882f3f0088125e80&v=4",
+    "location": "Morocco",
+    "company": "Native LABs",
+    "twitterUsername": "mezgani",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-07-09T13:07:37Z"
+  },
+  {
+    "login": "yellowsnow",
+    "name": "OpenEtude",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86732?s=72&u=44c6aaf3b3394549d1bc466bea1507ecc7c27857&v=4",
+    "location": "Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 173,
+    "createdAt": "2009-05-20T14:14:26Z"
+  },
+  {
+    "login": "iwalid",
+    "name": "Walid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95199?s=72&v=4",
+    "location": "Agadir, Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-06-14T07:33:59Z"
+  },
+  {
+    "login": "yelkassib",
+    "name": "ELKASSIB",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119266?s=72&v=4",
+    "location": "Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-08-25T12:20:11Z"
   }
 ]
