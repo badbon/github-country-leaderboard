@@ -76196,7 +76196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 94,
     "createdAt": "2021-03-11T18:50:45Z"
   },
   {
@@ -77227,7 +77227,7 @@
     "company": "@MediosMasivosMx ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2214,
+    "privateContributions": 2215,
     "publicContributions": 4,
     "createdAt": "2021-06-11T21:22:30Z"
   },
@@ -92398,5 +92398,29 @@
     "privateContributions": 106,
     "publicContributions": 3,
     "createdAt": "2021-05-03T22:17:22Z"
+  },
+  {
+    "login": "OscarJ290",
+    "name": "Oscar Villa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78701814?s=72&u=773e45d286dd515e18bef5d75401912b34418744&v=4",
+    "location": "Mexico City, Mexico",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2021-02-07T19:23:09Z"
+  },
+  {
+    "login": "adriangonzalez-code",
+    "name": "Adrián González",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80367138?s=72&u=6067c8d11fbe2c55292b7394161fcb1a0144c995&v=4",
+    "location": "Mexico City",
+    "company": "Tech Mahindra",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 66,
+    "createdAt": "2021-03-10T00:06:37Z"
   }
 ]

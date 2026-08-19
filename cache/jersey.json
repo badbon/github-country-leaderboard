@@ -1486,5 +1486,113 @@
     "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2010-08-25T02:48:45Z"
+  },
+  {
+    "login": "PhilETaylor",
+    "name": "Phil E. Taylor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/400092?s=72&u=cf67c352698bc9ea190fa2565c04afc1b544e6df&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "Blue Flame Digital Solutions Limited",
+    "twitterUsername": "myPhilTaylor",
+    "followers": 68,
+    "privateContributions": 19099,
+    "publicContributions": 712,
+    "createdAt": "2010-09-15T10:38:43Z"
+  },
+  {
+    "login": "cappadona",
+    "name": "Nick Cappadona",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/409842?s=72&v=4",
+    "location": "Jersey",
+    "company": "@anaconda",
+    "twitterUsername": "",
+    "followers": 41,
+    "privateContributions": 906,
+    "publicContributions": 1,
+    "createdAt": "2010-09-21T13:22:24Z"
+  },
+  {
+    "login": "jde",
+    "name": "David Erwin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259957?s=72&u=2aa3631f04a496a845c002f6fb0a981a452a921a&v=4",
+    "location": "New [York, Jersey]",
+    "company": "RollDeep",
+    "twitterUsername": "daviderwin",
+    "followers": 30,
+    "privateContributions": 5754,
+    "publicContributions": 86,
+    "createdAt": "2010-04-29T19:53:37Z"
+  },
+  {
+    "login": "timkrins",
+    "name": "Tim Krins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/531798?s=72&u=3b6b8b63e2e302fc6d192f1243d7255bc974e6ef&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "@InfuseGroup ",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 4294,
+    "publicContributions": 7,
+    "createdAt": "2010-12-21T11:31:46Z"
+  },
+  {
+    "login": "Chrisedmo",
+    "name": "Chris Mousdale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255639?s=72&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 85,
+    "publicContributions": 0,
+    "createdAt": "2010-04-28T10:20:15Z"
+  },
+  {
+    "login": "r-moore",
+    "name": "Richard Moore",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/366280?s=72&u=5102778b11bce24d1a11ee15965fda8b7162925f&v=4",
+    "location": "Jersey",
+    "company": "@EWG-Group ",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 1661,
+    "publicContributions": 5,
+    "createdAt": "2010-08-16T18:40:22Z"
+  },
+  {
+    "login": "alexleach",
+    "name": "ALB.Leach",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/375981?s=72&u=5dd6eeb7dcf81714314083957f9a72635ded59e1&v=4",
+    "location": "Jersey, UK",
+    "company": "ITC Bio",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 1142,
+    "publicContributions": 128,
+    "createdAt": "2010-08-25T18:16:44Z"
+  },
+  {
+    "login": "JeremyGloverGreen",
+    "name": "Jeremy Green",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/300268?s=72&v=4",
+    "location": "Jersey, Channel Islands",
+    "company": "Financial Services",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-08T20:54:31Z"
+  },
+  {
+    "login": "jackleriche",
+    "name": "Jack Le Riche",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/397182?s=72&u=736d2e849f1f5fc8ecd709ed05696c56c678a95e&v=4",
+    "location": "Jersey",
+    "company": "@vaiie ",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1553,
+    "publicContributions": 8,
+    "createdAt": "2010-09-13T08:42:18Z"
   }
 ]
