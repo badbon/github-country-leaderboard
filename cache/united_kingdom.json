@@ -137902,5 +137902,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-07-21T19:29:54Z"
+  },
+  {
+    "login": "AccentedMatt",
+    "name": "Matthew Neilly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32590340?s=72&u=7f361aeda78d41fce362fa4e198a5cbea5303506&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2017-10-07T08:16:01Z"
+  },
+  {
+    "login": "Ignacio-Calumarte",
+    "name": "Ignacio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32619514?s=72&u=c2dbe7660816a13efdb4bb44a728fd3516abde38&v=4",
+    "location": "United Kingdom/Ireland",
+    "company": "Seeking",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 37,
+    "publicContributions": 3,
+    "createdAt": "2017-10-08T18:03:04Z"
+  },
+  {
+    "login": "pb25",
+    "name": "Philip Bisby",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32364354?s=72&v=4",
+    "location": "Lisburn, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-28T14:00:43Z"
   }
 ]

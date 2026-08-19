@@ -124786,5 +124786,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-24T14:01:03Z"
+  },
+  {
+    "login": "sudoifconfig",
+    "name": "Marek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106453032?s=72&u=8477ba4417181940959563b957ac455aeeb5d439&v=4",
+    "location": "Wroclaw",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2022-05-28T21:59:19Z"
+  },
+  {
+    "login": "wkrippne",
+    "name": "Wilfried Krippner",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121260079?s=72&v=4",
+    "location": "Wroclaw",
+    "company": "Infor",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-22T19:53:32Z"
+  },
+  {
+    "login": "dimadl",
+    "name": "Dzmitry Dydyshka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6298059?s=72&u=8c7d8d8e87317a6c6d47540a3321e52734841ac2&v=4",
+    "location": "Originally from Belarus, living in Poland, Krakow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2014-01-01T16:56:06Z"
   }
 ]

@@ -124052,7 +124052,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 5,
     "createdAt": "2018-12-05T16:56:18Z"
   },
   {
@@ -127714,5 +127714,41 @@
     "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2018-10-04T06:17:15Z"
+  },
+  {
+    "login": "El-Potato-Slayer",
+    "name": "Chad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43865875?s=72&u=0599db90a0b9681ccf5de09cdf4f618449ca46cc&v=4",
+    "location": "Bloemfontein",
+    "company": "Freelance Full-stack Developer",
+    "twitterUsername": "",
+    "followers": 64,
+    "privateContributions": 783,
+    "publicContributions": 0,
+    "createdAt": "2018-10-04T22:41:21Z"
+  },
+  {
+    "login": "RubenBez",
+    "name": "Ruben Bezuidenhout",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35259198?s=72&u=cf469f6bd7925474e9e164dc910d01f094dc0eeb&v=4",
+    "location": "Bloemfontein",
+    "company": "@bitcubesystems",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 107,
+    "createdAt": "2018-01-09T11:02:02Z"
+  },
+  {
+    "login": "malangwane",
+    "name": "Wiseman Malangwane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43554213?s=72&v=4",
+    "location": "Bloemfontein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-09-24T20:30:35Z"
   }
 ]

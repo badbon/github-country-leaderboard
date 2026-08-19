@@ -119302,5 +119302,53 @@
     "privateContributions": 1325,
     "publicContributions": 26,
     "createdAt": "2022-09-20T08:22:27Z"
+  },
+  {
+    "login": "auto-code-etri",
+    "name": "AutoCode",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119934927?s=72&v=4",
+    "location": "South Korea",
+    "company": "ETRI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2022-12-06T10:27:26Z"
+  },
+  {
+    "login": "VerySadJoy",
+    "name": "Joy Seo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115052493?s=72&u=7549e4c7f07cc576b4571e2d58f0cb6af8c7cc9c&v=4",
+    "location": "Seoul, South Korea",
+    "company": "Yonsei University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 576,
+    "createdAt": "2022-10-05T01:17:57Z"
+  },
+  {
+    "login": "hyelinyu",
+    "name": "Lynn Y",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115549794?s=72&u=6ee8ff4f4cab05e4df494d1e957421adee8cd7e8&v=4",
+    "location": "Seoul, South Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 192,
+    "createdAt": "2022-10-11T11:36:12Z"
+  },
+  {
+    "login": "oceanfromthewave",
+    "name": "oceanfromthewave",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113958869?s=72&u=ee11cf944bd89c2f2b48afc39d1671f68b39d5f7&v=4",
+    "location": "Cheongju, South Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 374,
+    "createdAt": "2022-09-20T03:02:25Z"
   }
 ]
