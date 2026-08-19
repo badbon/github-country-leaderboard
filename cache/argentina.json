@@ -141886,5 +141886,41 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2022-04-22T21:31:12Z"
+  },
+  {
+    "login": "NahuGodoy",
+    "name": "Nahuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105150534?s=72&u=3886367d770f68a43887823f3cbc3b884de85bd1&v=4",
+    "location": "Buenos Aires, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2022-05-08T09:30:46Z"
+  },
+  {
+    "login": "Lucaasbre",
+    "name": "Lucaasbre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105470030?s=72&u=f4c51e9b1c78dd73bb321820cf35a44b8242eb75&v=4",
+    "location": "Buenos Aires, Argentina.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2022-05-13T01:52:28Z"
+  },
+  {
+    "login": "ulises-magnarelli",
+    "name": "Ulises Octavio Magnarelli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104471011?s=72&u=804fe9606616603abc151cb7123205c5221b8ce1&v=4",
+    "location": "Vicente Lopez, Buenos Aires, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-04-26T23:40:08Z"
   }
 ]
