@@ -127678,5 +127678,29 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-03-22T23:41:06Z"
+  },
+  {
+    "login": "Eliaslamas97",
+    "name": "Elias Lamas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101142118?s=72&u=9eb2c06398b61066964a14fa94c03c10cceed429&v=4",
+    "location": "Buenos Aires, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-07T20:13:29Z"
+  },
+  {
+    "login": "JuanGabrielLosada",
+    "name": "Juan Gabriel Losada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101665143?s=72&v=4",
+    "location": "Mendoza, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-15T18:09:01Z"
   }
 ]
