@@ -67426,5 +67426,113 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2011-05-13T09:15:12Z"
+  },
+  {
+    "login": "exentrich",
+    "name": "Rustem Mussabekov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1203812?s=72&u=e902e94414fc45449c1a2528a817cb5457a952a1&v=4",
+    "location": "Astana",
+    "company": "Raindrop.io",
+    "twitterUsername": "",
+    "followers": 574,
+    "privateContributions": 732,
+    "publicContributions": 140,
+    "createdAt": "2011-11-18T06:51:04Z"
+  },
+  {
+    "login": "termi",
+    "name": "Егор Халимоненко",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/973643?s=72&u=f7731219e6ec5096a4aac13a23163c740b9167cb&v=4",
+    "location": "Astana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 107,
+    "privateContributions": 0,
+    "publicContributions": 234,
+    "createdAt": "2011-08-11T10:56:38Z"
+  },
+  {
+    "login": "paul-xxx",
+    "name": "Pavel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/838360?s=72&u=8f7acd63510b77e9999e2688342d97fcaac2328c&v=4",
+    "location": "Astana",
+    "company": "EmpireB Network",
+    "twitterUsername": "",
+    "followers": 71,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2011-06-08T19:23:00Z"
+  },
+  {
+    "login": "nurlan",
+    "name": "Nurlan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/833497?s=72&v=4",
+    "location": "Astana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-06-06T19:38:06Z"
+  },
+  {
+    "login": "khalturinsky",
+    "name": "Ilia Khalturinskii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1274586?s=72&v=4",
+    "location": "Astana",
+    "company": "@apiship",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 489,
+    "publicContributions": 20,
+    "createdAt": "2011-12-20T06:54:05Z"
+  },
+  {
+    "login": "inakrinat",
+    "name": "Bulat Tangirbergen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/740609?s=72&v=4",
+    "location": "Astana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 496,
+    "publicContributions": 0,
+    "createdAt": "2011-04-20T04:40:35Z"
+  },
+  {
+    "login": "ozayevsaken",
+    "name": "Saken Ozayev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/689753?s=72&u=72e248cc2ea08d68261c043a15383c0578434e7c&v=4",
+    "location": "Astana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-25T06:00:29Z"
+  },
+  {
+    "login": "nuryerzhan",
+    "name": "Nurzhanov Yerzhan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/788887?s=72&u=07b4e5a09ca4a2c8fe79b03cb8f59f646f2321f1&v=4",
+    "location": "Nur-Sultan (Astana)",
+    "company": "",
+    "twitterUsername": "nuryerzhan",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-05-15T08:22:31Z"
+  },
+  {
+    "login": "ygavrilov",
+    "name": "Yevgeniy Gavrilov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/767658?s=72&u=940e0d78c0759e2cbc34f550915daea4d3eb997f&v=4",
+    "location": "Astana",
+    "company": "epam systems",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 358,
+    "publicContributions": 90,
+    "createdAt": "2011-05-04T11:26:06Z"
   }
 ]

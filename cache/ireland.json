@@ -106210,5 +106210,89 @@
     "privateContributions": 0,
     "publicContributions": 42,
     "createdAt": "2018-01-03T15:28:25Z"
+  },
+  {
+    "login": "JamieJNPC",
+    "name": "Jamie Coffey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35603854?s=72&v=4",
+    "location": "Dublin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2018-01-19T14:49:02Z"
+  },
+  {
+    "login": "agoulart0",
+    "name": "Anderson Goulart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39091367?s=72&u=0ca46f39172ce0bb998816f88c19c63ad75d5ac9&v=4",
+    "location": "Dublin",
+    "company": "Zendesk",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-08T13:29:17Z"
+  },
+  {
+    "login": "bbrajkovic",
+    "name": "Bojan Brajkovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38956333?s=72&u=825de1edc3f82a3f4c507fabdc885c67172cd299&v=4",
+    "location": "Dublin",
+    "company": "@toasttab",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-05-03T15:56:39Z"
+  },
+  {
+    "login": "nacho365",
+    "name": "Jason Smith",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45406402?s=72&u=a60e994bb17b9f60d2e66d74b5c208117364793b&v=4",
+    "location": "Dublin/Alicante",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-27T21:43:51Z"
+  },
+  {
+    "login": "Noahliberty",
+    "name": "Noah Copping",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45658405?s=72&v=4",
+    "location": "Dublin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-06T11:20:02Z"
+  },
+  {
+    "login": "shreyas3795",
+    "name": "Shreyas Setlur Arun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42350034?s=72&v=4",
+    "location": "Dublin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2018-08-13T15:04:11Z"
+  },
+  {
+    "login": "newo86",
+    "name": "Owen Lynch",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46133138?s=72&u=56530caeba8cafe3572bee723359e1d66427bbf8&v=4",
+    "location": "Dublin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 4,
+    "publicContributions": 213,
+    "createdAt": "2018-12-25T13:56:26Z"
   }
 ]

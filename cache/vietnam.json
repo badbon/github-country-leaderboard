@@ -135118,5 +135118,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-26T03:50:43Z"
+  },
+  {
+    "login": "ictu-dungnt98",
+    "name": "Dung Nguyen Trong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35787667?s=72&u=16cfd2db72850a6092e3f7558f816498741a6ac8&v=4",
+    "location": "Thai Nguyen, Viet Nam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 50,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2018-01-25T01:38:38Z"
+  },
+  {
+    "login": "khanhtit1102",
+    "name": "Nong Van Khanh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43397390?s=72&u=b54803fd8a84270b1a82b0c2da7a493a91ebed89&v=4",
+    "location": "Thai Nguyen, Viet Nam",
+    "company": "Thai Nguyen University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2018-09-19T04:09:39Z"
   }
 ]
