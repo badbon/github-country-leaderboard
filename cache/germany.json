@@ -123310,5 +123310,29 @@
     "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2024-01-25T14:23:22Z"
+  },
+  {
+    "login": "KamuiBakufuu",
+    "name": "Leana Möller",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/140949810?s=72&v=4",
+    "location": "Bundesrepublik Deutschland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-07-30T10:37:03Z"
+  },
+  {
+    "login": "ConnyCola",
+    "name": "MatthiasW",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2567759?s=72&v=4",
+    "location": "Germany / Malaysia",
+    "company": "DebuggingLab",
+    "twitterUsername": "ConnyCola",
+    "followers": 16,
+    "privateContributions": 49,
+    "publicContributions": 1,
+    "createdAt": "2012-10-15T21:44:24Z"
   }
 ]

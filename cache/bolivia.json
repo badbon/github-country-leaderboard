@@ -19426,5 +19426,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-11-14T11:52:41Z"
+  },
+  {
+    "login": "yesidlazaro",
+    "name": "Yesid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5704232?s=72&u=90619c17bd5c087ed8eacd4927719f319d0a6961&v=4",
+    "location": "Corozal ,Sucre",
+    "company": "Twnel Inc",
+    "twitterUsername": "",
+    "followers": 51,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-16T21:30:36Z"
+  },
+  {
+    "login": "juankprz",
+    "name": "Juan Camilo Perez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3914902?s=72&u=655f1a5945b1167a4570ec12ae7fd464eeb2574a&v=4",
+    "location": "Sincelejo -Sucre- Colombia",
+    "company": "",
+    "twitterUsername": "juankprz1",
+    "followers": 6,
+    "privateContributions": 10,
+    "publicContributions": 2,
+    "createdAt": "2013-03-19T22:52:01Z"
+  },
+  {
+    "login": "suiteappdev",
+    "name": "suiteapp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5513786?s=72&u=8ea863d8fef8d3225fdc32b9992955509c34be9f&v=4",
+    "location": "Sucre - Colombia",
+    "company": "individual",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-22T17:54:40Z"
+  },
+  {
+    "login": "PitaluaDev",
+    "name": "Jorge Armando Pitalua Olascoaga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5733379?s=72&u=c7a31ea305d904df4f84630a9659bd5d9fc19866&v=4",
+    "location": "Coveñas Sucre Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-21T00:55:01Z"
+  },
+  {
+    "login": "luisoncu",
+    "name": "Luis A. Hereira Aguilera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3649729?s=72&u=467ede7e82b3d2ad16a1829e0b768bd344d8c0bd&v=4",
+    "location": "Nueva de Sucre 2544 OF 53, Ñuñoa",
+    "company": "Merchise",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-20T17:14:13Z"
   }
 ]

@@ -65395,7 +65395,7 @@
     "company": "",
     "twitterUsername": "heyeaslo",
     "followers": 3,
-    "privateContributions": 879,
+    "privateContributions": 882,
     "publicContributions": 1,
     "createdAt": "2021-07-17T03:17:54Z"
   },
@@ -69766,5 +69766,29 @@
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2019-02-18T10:43:54Z"
+  },
+  {
+    "login": "pizzayap",
+    "name": "Pizza Yap",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2167237?s=72&u=2d588f92e7773977d95a2c90ddddd81689a6e64e&v=4",
+    "location": "Malaysia ✈ Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 61,
+    "createdAt": "2012-08-17T04:31:53Z"
+  },
+  {
+    "login": "RichyYhcir",
+    "name": "Pathomphu Kanapornthada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47454423?s=72&u=5f71fdbdcc355f63100f1d08bfa0ac06fa991f1c&v=4",
+    "location": "Thailand/Singapore",
+    "company": "Singapore University of Technology and Design (SUTD)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 295,
+    "publicContributions": 22,
+    "createdAt": "2019-02-08T15:05:51Z"
   }
 ]
