@@ -65002,5 +65002,29 @@
     "privateContributions": 0,
     "publicContributions": 68,
     "createdAt": "2013-04-01T11:46:05Z"
+  },
+  {
+    "login": "askarsyzdykov",
+    "name": "Askar Syzdykov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3222305?s=72&v=4",
+    "location": "Astana, Qazaqstan",
+    "company": "MobDev",
+    "twitterUsername": "askarsyzdykov",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2013-01-09T04:31:57Z"
+  },
+  {
+    "login": "vablivanov",
+    "name": "Victor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3480614?s=72&u=c512f70fb7efdc7b556e59b169c55acd26452565&v=4",
+    "location": "Qazaqstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-05T10:28:33Z"
   }
 ]

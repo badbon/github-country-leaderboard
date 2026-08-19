@@ -111922,5 +111922,29 @@
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2021-02-02T21:27:10Z"
+  },
+  {
+    "login": "Royedc4",
+    "name": "Roy Calderón",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1709472?s=72&u=450615a43f14f7b69d09e66a3fcdc987f8ef9b5b&v=4",
+    "location": "Venezuela/Colombia",
+    "company": "+TeaM @plusTTeam ",
+    "twitterUsername": "royedc4",
+    "followers": 34,
+    "privateContributions": 156,
+    "publicContributions": 6,
+    "createdAt": "2012-05-05T21:34:49Z"
+  },
+  {
+    "login": "jcasique",
+    "name": "José Luis Casique",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2085842?s=72&u=11cf7414189eaba4c53b419043c3169b126558ea&v=4",
+    "location": "Venezuela; Colombia",
+    "company": "Coffee Developers",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-08-02T20:44:21Z"
   }
 ]
