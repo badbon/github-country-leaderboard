@@ -163222,5 +163222,41 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2015-02-27T12:39:07Z"
+  },
+  {
+    "login": "tan75",
+    "name": "Tan75",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8555279?s=72&u=015ab18875c0c5fdabe34aba9201244eaba10d45&v=4",
+    "location": "Dhún na nGall, Éire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 139,
+    "publicContributions": 0,
+    "createdAt": "2014-08-26T10:01:17Z"
+  },
+  {
+    "login": "R0ot2U",
+    "name": "Shane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6419218?s=72&v=4",
+    "location": "Éire",
+    "company": "Salesforce.com",
+    "twitterUsername": "R0ot2U",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 1,
+    "createdAt": "2014-01-16T11:46:14Z"
+  },
+  {
+    "login": "davidadambarr",
+    "name": "David Barr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8221060?s=72&u=eed94b7c8dc69a964593fab6b6e6ece063423dd1&v=4",
+    "location": "Ireland, UK, & South Africa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-07-21T06:13:12Z"
   }
 ]
