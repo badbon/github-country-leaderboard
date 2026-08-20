@@ -95323,8 +95323,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 5652,
-    "publicContributions": 1394,
+    "privateContributions": 5673,
+    "publicContributions": 1397,
     "createdAt": "2022-11-29T06:28:16Z"
   },
   {
@@ -112952,7 +112952,7 @@
     "twitterUsername": "Kieran_DAless",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 18,
     "createdAt": "2022-12-05T22:56:45Z"
   },
   {
@@ -199714,5 +199714,173 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2013-05-07T12:35:09Z"
+  },
+  {
+    "login": "sahilg-analyst",
+    "name": "SAHIL GUPTA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75334043?s=72&v=4",
+    "location": "Melbourne, Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-01T19:07:07Z"
+  },
+  {
+    "login": "nicholascannon-vgw",
+    "name": "Nicholas Cannon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75600250?s=72&u=8ca70d07a59976b6fad66cba5a20730d4c0af98f&v=4",
+    "location": "Perth Western Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-07T04:59:06Z"
+  },
+  {
+    "login": "ashish062120",
+    "name": "Ashish Kumar Karmaker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75661861?s=72&u=9a3da1f8ba2bad0ea0faf44e7b6e273df6e089cb&v=4",
+    "location": "Australia",
+    "company": "James Cook University, Cairns, Australia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2020-12-08T06:54:06Z"
+  },
+  {
+    "login": "DH-92",
+    "name": "Doug H.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75577058?s=72&u=787bddd44aaba273c854e267eb0a95aaed388111&v=4",
+    "location": "Brisbane QLD Australia",
+    "company": "@nib-group ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 513,
+    "publicContributions": 20,
+    "createdAt": "2020-12-06T15:41:04Z"
+  },
+  {
+    "login": "Jatin-MYST",
+    "name": "Jatin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72418976?s=72&v=4",
+    "location": "Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-05T22:30:53Z"
+  },
+  {
+    "login": "AndyMac4321",
+    "name": "Andrew Macdonald",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76612952?s=72&u=692b7648b197cfbf03571075786883317c4b8a83&v=4",
+    "location": "Melbourne, Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-26T09:38:57Z"
+  },
+  {
+    "login": "logic-loomer",
+    "name": "Awon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75234255?s=72&u=97426e1659d44e8cf3442fcb24f5567090203668&v=4",
+    "location": "Sydney, Australia",
+    "company": "@Register-My-ABN",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 982,
+    "createdAt": "2020-11-30T03:42:46Z"
+  },
+  {
+    "login": "vcatanzano",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74584820?s=72&v=4",
+    "location": "Sydney, Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-17T05:51:56Z"
+  },
+  {
+    "login": "Dylanyao646",
+    "name": "Dylan Yao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74911154?s=72&u=6c006bc4132583372473aadf253486f1959039a6&v=4",
+    "location": "Perth Australia",
+    "company": "University of Western Australia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-23T12:33:59Z"
+  },
+  {
+    "login": "saularena",
+    "name": "Saul Cofino Arena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72896822?s=72&u=939dfc4b206d87a90466bacadffc12875ec5606e&v=4",
+    "location": "Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-15T00:10:39Z"
+  },
+  {
+    "login": "mhmcc",
+    "name": "Michael H McCullough",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75462673?s=72&u=596ae6ca00bfe72ec5f463cff52287b911fd982e&v=4",
+    "location": "Canberra, ACT, Australia",
+    "company": "The Australian National University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-04T03:18:15Z"
+  },
+  {
+    "login": "dainyleen",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74221561?s=72&u=2988a028f2afe8b2d7f32bb238368313ca503c63&v=4",
+    "location": "Melbourne, Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-10T01:53:02Z"
+  },
+  {
+    "login": "chefpenguino",
+    "name": "penguino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75655258?s=72&u=c74424ecf58a03eece753179d9b6528b9a43e5c5&v=4",
+    "location": "Australia, Sydney",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 7,
+    "publicContributions": 17,
+    "createdAt": "2020-12-08T03:42:11Z"
+  },
+  {
+    "login": "twodayweek",
+    "name": "Michael Rust",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73986425?s=72&v=4",
+    "location": "Australia",
+    "company": "@PRAAus",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-05T07:46:05Z"
   }
 ]
