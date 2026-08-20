@@ -116647,8 +116647,8 @@
     "company": "@Automattic",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 950,
-    "publicContributions": 672,
+    "privateContributions": 1032,
+    "publicContributions": 674,
     "createdAt": "2015-04-04T16:56:59Z"
   },
   {
@@ -118231,7 +118231,7 @@
     "company": "Not Employed",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 662,
+    "privateContributions": 666,
     "publicContributions": 13,
     "createdAt": "2015-08-02T21:56:14Z"
   },
@@ -128638,5 +128638,137 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-11-19T08:42:10Z"
+  },
+  {
+    "login": "dilyanatanasov",
+    "name": "Dilyan Atanasov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12250550?s=72&u=d7ca7496ba6a33acf84e6dc4225b5bee6990defb&v=4",
+    "location": "Varna",
+    "company": "Scavasoft",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 1,
+    "publicContributions": 3,
+    "createdAt": "2015-05-05T10:18:34Z"
+  },
+  {
+    "login": "IvoIvanov77",
+    "name": "Ivaylo Ivanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16088420?s=72&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-11-30T19:33:41Z"
+  },
+  {
+    "login": "StoyanovN",
+    "name": "Nikolay Stoyanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16451771?s=72&u=8658e62c59cfbed91f96922d38071619d8703ea4&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-12-27T11:51:58Z"
+  },
+  {
+    "login": "StefanMilkov",
+    "name": "Stefan Milkov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13086349?s=72&u=f8650a046bebc008007a1ebcc5a2a8f09f06b6e6&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-28T12:09:27Z"
+  },
+  {
+    "login": "ArtemRadz",
+    "name": "Artem Radzivon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11313527?s=72&v=4",
+    "location": "Varna, BG",
+    "company": "EngView Systems",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-04T12:39:45Z"
+  },
+  {
+    "login": "TheEngineer25",
+    "name": "Владислав Иванов",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15277696?s=72&u=15884f19ffa6d907a61985614898fb456bb8e51f&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2015-10-24T12:34:41Z"
+  },
+  {
+    "login": "KrasimirTsonev",
+    "name": "Krasimir Tsonev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10464225?s=72&u=9c34bc62168a577a82cccbf9d49b30adf6d434f0&v=4",
+    "location": "Varna",
+    "company": "Bulauto EOOD",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-09T13:55:04Z"
+  },
+  {
+    "login": "tcr26",
+    "name": "Nikolay Barakov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15312051?s=72&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-25T16:33:40Z"
+  },
+  {
+    "login": "velhub",
+    "name": "Velislav Ivanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10998937?s=72&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-13T21:23:17Z"
+  },
+  {
+    "login": "thekazak",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11753800?s=72&v=4",
+    "location": "Varna, BG",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-01T12:06:21Z"
+  },
+  {
+    "login": "pavelsur07",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15111600?s=72&u=9ce0a74e371b1675e4ec8ceb24d3554755ae608d&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9313,
+    "createdAt": "2015-10-13T17:51:29Z"
   }
 ]
