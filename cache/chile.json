@@ -162202,5 +162202,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-09T17:34:09Z"
+  },
+  {
+    "login": "SebastianMatias",
+    "name": "Sebastian Inostroza ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33845098?s=72&u=28f6f4770e5a2428c9030a956d19f87293eb4011&v=4",
+    "location": "Santiago",
+    "company": "APRO",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-20T19:59:10Z"
+  },
+  {
+    "login": "Snowolf2397",
+    "name": "JoseAntonio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31051113?s=72&u=2a2eac9da6dbb1e30a39e1b5f4e6d6fbeccda819&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-15T23:00:47Z"
+  },
+  {
+    "login": "Munchery-CarlosAlcala",
+    "name": "Carlos Alcala",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33044064?s=72&u=d0e400bd98631dfdf0811a2082be4ac82750cc47&v=4",
+    "location": "Santiago",
+    "company": "Munchery",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-23T23:53:08Z"
+  },
+  {
+    "login": "martasgo",
+    "name": "Martu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26825165?s=72&u=a1b10d20c6dbf77d2d32716d068cc288efa22782&v=4",
+    "location": "Santiago del Estero",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-31T19:50:33Z"
+  },
+  {
+    "login": "club-robotica-itssp",
+    "name": "Club de Robótica ITSSP",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31553452?s=72&u=46a291fc709cd84829212514a0f7fa404cf46cd8&v=4",
+    "location": "Santiago Papasquiaro, Dgo.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-01T22:19:00Z"
   }
 ]

@@ -170242,5 +170242,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-22T06:57:16Z"
+  },
+  {
+    "login": "Jesse-perpC",
+    "name": "Jesse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11807560?s=72&v=4",
+    "location": "Bloemfontein",
+    "company": "Perp Corp",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2015-04-05T15:29:53Z"
+  },
+  {
+    "login": "DeWetdeJager",
+    "name": "De Wet de Jager",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12209940?s=72&u=427b27703a3e9b8a16d01f9b003d6701924b0f8d&v=4",
+    "location": "Bloemfontein",
+    "company": "Netsted",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-02T13:07:18Z"
+  },
+  {
+    "login": "Effekt3r",
+    "name": "Franco Landman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11040384?s=72&u=fc02531f4358424d5a52353eaf73bdf4eb2d5415&v=4",
+    "location": "Bloemfontein, ZA",
+    "company": "Effekt Studios",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 5962,
+    "publicContributions": 94,
+    "createdAt": "2015-02-17T06:29:48Z"
+  },
+  {
+    "login": "JohnPOK",
+    "name": "John Percival O'Kelly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13494177?s=72&v=4",
+    "location": "Bloemfontein",
+    "company": "JPRRO",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-25T07:32:47Z"
   }
 ]
