@@ -124390,5 +124390,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-03-15T10:38:19Z"
+  },
+  {
+    "login": "Morozzzko",
+    "name": "Igor Morozov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/887264?s=72&u=fec85117cd9d806ce6af72770b68b69bfd86b19f&v=4",
+    "location": "Beograd, Srbija",
+    "company": "@hoodieshq",
+    "twitterUsername": "Morozzzko",
+    "followers": 101,
+    "privateContributions": 2287,
+    "publicContributions": 52,
+    "createdAt": "2011-06-30T19:56:34Z"
+  },
+  {
+    "login": "n1kolaa",
+    "name": "Nikola Majkić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1229327?s=72&u=6847eaee4cd6297e881e1567dbd99413fbe97939&v=4",
+    "location": "Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-29T22:34:22Z"
+  },
+  {
+    "login": "Feacur",
+    "name": "Leonid Kapitonov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1132582?s=72&u=df6bd02f6f8b9d3cab708e9da0600f8c94ea5f87&v=4",
+    "location": "Beograd, Srbija",
+    "company": "previously @Playkot",
+    "twitterUsername": "Feacur",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 2791,
+    "createdAt": "2011-10-17T07:29:12Z"
+  },
+  {
+    "login": "Strujajoe",
+    "name": "Strujajoe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/931299?s=72&v=4",
+    "location": "Kragujevac, Srbija",
+    "company": "Knjaževsko-srpski teatar",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-07-21T23:05:17Z"
+  },
+  {
+    "login": "acround",
+    "name": "ACRound",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1046595?s=72&u=5e2b39ee806c8dfafc34ffcb21afba2181a702ad&v=4",
+    "location": "Srbija, Novi Bečej",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 450,
+    "createdAt": "2011-09-13T07:17:22Z"
+  },
+  {
+    "login": "tradertango",
+    "name": "Dragan Tanaskoski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1247261?s=72&v=4",
+    "location": "Beograd, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-12-07T14:12:13Z"
+  },
+  {
+    "login": "unconn",
+    "name": "Igor A. Lukyanenkov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/798740?s=72&v=4",
+    "location": "Beograd, Srbija",
+    "company": "GridDynamics",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-05-19T17:45:20Z"
   }
 ]

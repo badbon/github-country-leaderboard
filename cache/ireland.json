@@ -144430,5 +144430,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-03-08T19:28:25Z"
+  },
+  {
+    "login": "wizzdom",
+    "name": "wizzdom",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14262581?s=72&u=d3c8686e2085cebe302362124a83aba5cb93322b&v=4",
+    "location": "Éire (Ireland)",
+    "company": "@redbrick ",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 59,
+    "publicContributions": 220,
+    "createdAt": "2015-09-13T17:07:17Z"
+  },
+  {
+    "login": "snow-born",
+    "name": "David Ó Laigheanáin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13944522?s=72&u=14267cfd147df0ea610003e9c8f7f9b566a88795&v=4",
+    "location": "Éire",
+    "company": "University College Dublin",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 158,
+    "publicContributions": 4,
+    "createdAt": "2015-08-24T12:20:12Z"
   }
 ]
