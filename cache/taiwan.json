@@ -109448,7 +109448,7 @@
     "twitterUsername": "",
     "followers": 452,
     "privateContributions": 2074,
-    "publicContributions": 1788,
+    "publicContributions": 1790,
     "createdAt": "2017-05-06T08:30:42Z"
   },
   {
@@ -109579,7 +109579,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 116,
-    "privateContributions": 1126,
+    "privateContributions": 1129,
     "publicContributions": 340,
     "createdAt": "2017-02-25T11:30:59Z"
   },
@@ -109604,7 +109604,7 @@
     "twitterUsername": "skyhong2002",
     "followers": 115,
     "privateContributions": 815,
-    "publicContributions": 3022,
+    "publicContributions": 3150,
     "createdAt": "2017-06-18T16:30:53Z"
   },
   {
@@ -110228,7 +110228,7 @@
     "twitterUsername": "theYenLai",
     "followers": 32,
     "privateContributions": 15,
-    "publicContributions": 495,
+    "publicContributions": 499,
     "createdAt": "2017-06-07T05:34:13Z"
   },
   {
@@ -110504,7 +110504,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 3823,
+    "publicContributions": 3825,
     "createdAt": "2017-05-28T11:33:39Z"
   },
   {
@@ -119204,7 +119204,7 @@
     "twitterUsername": "",
     "followers": 101,
     "privateContributions": 1580,
-    "publicContributions": 702,
+    "publicContributions": 706,
     "createdAt": "2017-11-05T10:51:52Z"
   },
   {
@@ -119250,7 +119250,7 @@
     "location": "Taipei, Taiwan",
     "company": "@master-co",
     "twitterUsername": "aron1tw",
-    "followers": 85,
+    "followers": 86,
     "privateContributions": 665,
     "publicContributions": 1095,
     "createdAt": "2017-11-20T16:57:47Z"
@@ -119732,7 +119732,7 @@
     "twitterUsername": "zhgchgli",
     "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 1392,
+    "publicContributions": 1396,
     "createdAt": "2017-11-16T01:09:43Z"
   },
   {
@@ -119875,7 +119875,7 @@
     "company": "",
     "twitterUsername": "wuhsien_yu",
     "followers": 30,
-    "privateContributions": 5631,
+    "privateContributions": 5649,
     "publicContributions": 71,
     "createdAt": "2017-07-01T05:54:24Z"
   },
@@ -129058,5 +129058,329 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2017-12-22T06:37:28Z"
+  },
+  {
+    "login": "realdennis",
+    "name": "Dennis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26633162?s=72&u=975b61d0adb9d2813d4693c4692d28364ab5e8f3&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 202,
+    "privateContributions": 274,
+    "publicContributions": 0,
+    "createdAt": "2017-03-23T18:12:18Z"
+  },
+  {
+    "login": "motebus",
+    "name": "motebus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32254088?s=72&u=a3d1b07352c00f2cb9e4d9a712e7d990cda4f549&v=4",
+    "location": "Taipei",
+    "company": "YPCloud Inc.",
+    "twitterUsername": "ypcloud",
+    "followers": 153,
+    "privateContributions": 0,
+    "publicContributions": 73,
+    "createdAt": "2017-09-25T03:51:11Z"
+  },
+  {
+    "login": "wubinary",
+    "name": "松山畢書記 (๑´ڡ`๑)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25293769?s=72&u=030ba71738b150fa466faa2194f5dabf05096141&v=4",
+    "location": "Taipei",
+    "company": "GICE, National Taiwan University",
+    "twitterUsername": "",
+    "followers": 117,
+    "privateContributions": 1,
+    "publicContributions": 1,
+    "createdAt": "2017-01-23T07:43:11Z"
+  },
+  {
+    "login": "pardnchiu",
+    "name": "邱敬幃 Pardn Chiu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25631760?s=72&u=7f4c8ac723f7d86d975ba457a884a70616aa4804&v=4",
+    "location": "Taipei",
+    "company": "Pardn Co., Ltd",
+    "twitterUsername": "pardnio",
+    "followers": 102,
+    "privateContributions": 160,
+    "publicContributions": 2107,
+    "createdAt": "2017-02-08T07:25:02Z"
+  },
+  {
+    "login": "masterchef2209",
+    "name": "Hidayat Khan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27916352?s=72&u=e7d738fd1c42b4403ae276537a3dcdebc633bfec&v=4",
+    "location": "Taipei",
+    "company": "Google",
+    "twitterUsername": "",
+    "followers": 90,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2017-04-23T11:44:51Z"
+  },
+  {
+    "login": "Ray0907",
+    "name": "Ray Tien",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29456968?s=72&u=44585ad5e838f8ac2238ef6ea90f8c4891414f92&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 85,
+    "privateContributions": 0,
+    "publicContributions": 1380,
+    "createdAt": "2017-06-15T12:34:21Z"
+  },
+  {
+    "login": "LifeBeyondExpectations",
+    "name": "Jaesung Choe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32631453?s=72&u=4fbe5018627d04eadbf40308c60b8497d23e06e5&v=4",
+    "location": "Taipei",
+    "company": "NVIDIA",
+    "twitterUsername": "",
+    "followers": 53,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-09T06:59:48Z"
+  },
+  {
+    "login": "chiehpower",
+    "name": "CHIEH",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32332200?s=72&u=3fb91eec7dcc62f64680111df68164247a275ddc&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "chiehpower",
+    "followers": 49,
+    "privateContributions": 119,
+    "publicContributions": 10,
+    "createdAt": "2017-09-27T13:14:36Z"
+  },
+  {
+    "login": "fortes1219",
+    "name": "Astolfo Proto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29425021?s=72&u=5b9daa0d97628fb5eb44f691ac3266187588ab6e&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 48,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2017-06-14T08:08:10Z"
+  },
+  {
+    "login": "Yomiamy",
+    "name": "Yomiamy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34494849?s=72&u=a1fc08c73218b2ea610282acff594a7a28b043d2&v=4",
+    "location": "Taipei",
+    "company": "Taiwan",
+    "twitterUsername": "",
+    "followers": 42,
+    "privateContributions": 0,
+    "publicContributions": 460,
+    "createdAt": "2017-12-13T00:56:30Z"
+  },
+  {
+    "login": "kaichingchang",
+    "name": "Kaiching Chang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27433093?s=72&u=66ab2dd12a7d54c357fabf205d56223249c0248e&v=4",
+    "location": "Taipei",
+    "company": "PYDOING",
+    "twitterUsername": "",
+    "followers": 40,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2017-04-13T15:14:02Z"
+  },
+  {
+    "login": "thomas0829",
+    "name": "Ying-Chun Lee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30018643?s=72&u=969486c0a90502805ef7e874c3d88ef84924df39&v=4",
+    "location": "Seattle, Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 36,
+    "privateContributions": 0,
+    "publicContributions": 790,
+    "createdAt": "2017-07-09T09:34:22Z"
+  },
+  {
+    "login": "ti777777",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25246489?s=72&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 81,
+    "publicContributions": 1347,
+    "createdAt": "2017-01-20T12:34:03Z"
+  },
+  {
+    "login": "Louis5499",
+    "name": "Mencher Chiang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28248848?s=72&u=1dbf4d21ad464a34d3eed6da63f5f622f95e79d3&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-05-01T05:53:02Z"
+  },
+  {
+    "login": "music1353",
+    "name": "Jenson Su",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30170505?s=72&u=3998ea76147d35ed715dd360136ce6e1f29b78e2&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 5,
+    "publicContributions": 6,
+    "createdAt": "2017-07-14T06:35:54Z"
+  },
+  {
+    "login": "york135",
+    "name": "Jun-You Wang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26034716?s=72&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "junyouwang",
+    "followers": 27,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2017-02-26T03:34:00Z"
+  },
+  {
+    "login": "GregNing",
+    "name": "GregYang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29865572?s=72&u=1aa79589c8ab8e218a75a86e5fe8fa3d38437dab&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 3220,
+    "publicContributions": 11,
+    "createdAt": "2017-07-03T14:07:12Z"
+  },
+  {
+    "login": "JasonJungler",
+    "name": "Jason Chang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26246528?s=72&u=781ebf9d0976d78ff762baded22e984e44c772a7&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 16,
+    "publicContributions": 2,
+    "createdAt": "2017-03-07T09:23:11Z"
+  },
+  {
+    "login": "yutaroyamanaka",
+    "name": "Taro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34850155?s=72&u=4377eafecc472af839e9a16b12236960e3168b0f&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-12-26T04:32:53Z"
+  },
+  {
+    "login": "EdwardLeeMacau",
+    "name": "Edward Lee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34258587?s=72&u=c35745867172de6411836e4e089ab917c784c4b8&v=4",
+    "location": "Taipei",
+    "company": "National Taiwan University",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 8,
+    "publicContributions": 5,
+    "createdAt": "2017-12-05T02:37:48Z"
+  },
+  {
+    "login": "blackhorseya",
+    "name": "Sean Zheng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29519438?s=72&u=ffdd18624e28c8cdd5ab574282cf3050b87c7dda&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 2244,
+    "publicContributions": 391,
+    "createdAt": "2017-06-18T12:24:08Z"
+  },
+  {
+    "login": "ChengYen-Tang",
+    "name": "Kenneth Tang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32535494?s=72&u=aaa84296faee5a2d7edc04e6ec831a2da16943f4&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 220,
+    "publicContributions": 323,
+    "createdAt": "2017-10-05T06:53:15Z"
+  },
+  {
+    "login": "doremi31618",
+    "name": "EricZhan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26645505?s=72&u=b614f69cdfa4c59735727726f3c10253eba17484&v=4",
+    "location": "Taipei",
+    "company": "@panosensing",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 130,
+    "createdAt": "2017-03-24T07:39:56Z"
+  },
+  {
+    "login": "EddieWanga",
+    "name": "WANG, CHIN-DEE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26816995?s=72&u=d4c16401289c3c6540e06c8a16fb28bb17dccecb&v=4",
+    "location": "Taipei",
+    "company": "Taiwan",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2017-03-31T12:04:15Z"
+  },
+  {
+    "login": "brian3814",
+    "name": "Brian Liang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30696379?s=72&u=2caa4245c4c22a4a735704f9273023a839cf00e5&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 779,
+    "publicContributions": 667,
+    "createdAt": "2017-08-03T14:17:38Z"
+  },
+  {
+    "login": "YenChengLai",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29696907?s=72&u=c9a4e4195517778d106ca35b2d03987e9347e086&v=4",
+    "location": "Taipei",
+    "company": "Zyxel Network",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 12,
+    "publicContributions": 62,
+    "createdAt": "2017-06-26T01:31:33Z"
+  },
+  {
+    "login": "kakadodo",
+    "name": "Chelsea Chang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30065646?s=72&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-11T04:09:32Z"
   }
 ]

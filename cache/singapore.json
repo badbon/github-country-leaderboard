@@ -79976,7 +79976,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 216,
-    "publicContributions": 21,
+    "publicContributions": 22,
     "createdAt": "2020-05-11T06:18:09Z"
   },
   {
@@ -80107,7 +80107,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1140,
+    "privateContributions": 1141,
     "publicContributions": 429,
     "createdAt": "2020-06-03T09:57:23Z"
   },
@@ -80227,7 +80227,7 @@
     "company": "FinancialReports",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2559,
+    "privateContributions": 2562,
     "publicContributions": 127,
     "createdAt": "2020-04-06T15:31:02Z"
   },
@@ -96730,5 +96730,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-25T03:50:55Z"
+  },
+  {
+    "login": "g33k5p34k",
+    "name": "David Tan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47347170?s=72&u=695611f58736b2ab44d5ff5ad004270b88583c29&v=4",
+    "location": "Singapore | Albuquerque, New Mexico",
+    "company": "University of New Mexico",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2019-02-05T07:38:21Z"
   }
 ]
