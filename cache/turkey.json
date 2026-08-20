@@ -99920,7 +99920,7 @@
     "twitterUsername": "RupeSMC_",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 64,
     "createdAt": "2023-02-16T20:15:41Z"
   },
   {
@@ -151702,5 +151702,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-28T18:15:28Z"
+  },
+  {
+    "login": "colaks",
+    "name": "Sadegül Çolak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127728649?s=72&v=4",
+    "location": "İstanbul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-13T08:14:53Z"
+  },
+  {
+    "login": "brhmkrs",
+    "name": "brainarts",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128956494?s=72&u=c3c97c087c6005e48b83d62bef2e1dac0feb570d&v=4",
+    "location": "İstanbul",
+    "company": "Brainarts",
+    "twitterUsername": "BrainArts_",
+    "followers": 1,
+    "privateContributions": 157,
+    "publicContributions": 16,
+    "createdAt": "2023-03-26T06:10:23Z"
+  },
+  {
+    "login": "mselimgozleyici",
+    "name": "Mehmet Selim Gözleyici",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121856113?s=72&u=e278f6cb447d62791697538a528d214e63ff1493&v=4",
+    "location": "İstanbul",
+    "company": "Boğaziçi Üniversitesi",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-03T08:30:41Z"
+  },
+  {
+    "login": "fatihaytepe",
+    "name": "Fatih Aytepe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129262682?s=72&v=4",
+    "location": "İstanbul",
+    "company": "Sağlık Bilimleri Üniversitesi",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2023-03-29T07:15:01Z"
+  },
+  {
+    "login": "AnilAyyildiz0",
+    "name": "Anıl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124569770?s=72&v=4",
+    "location": "İstanbul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-06T09:34:17Z"
+  },
+  {
+    "login": "semaeray",
+    "name": "Sema Eray",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125703784?s=72&u=0b93c289e73f3397c78d972cb19f6f6dc6c7ecb9&v=4",
+    "location": "Istanbul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2023-02-17T21:58:09Z"
+  },
+  {
+    "login": "akin-prog35",
+    "name": "Ahmet AKIN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129294541?s=72&u=b7f998395870d9a67d68cdee16fef3530551411d&v=4",
+    "location": "İstanbul",
+    "company": "Brandsem",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-29T12:59:49Z"
+  },
+  {
+    "login": "celebiholding",
+    "name": "Celebi Holding",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122285075?s=72&u=1aa3bb1ed837f8d48377d3e714163a84fe30a831&v=4",
+    "location": "Istanbul",
+    "company": "Çelebi Holding A.Ş.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-01-09T13:48:05Z"
+  },
+  {
+    "login": "omersenturkdev",
+    "name": "Ömer Şentürk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123900818?s=72&u=10bccbfb665a399fc154623a2bec478933942ae5&v=4",
+    "location": "Istanbul",
+    "company": "",
+    "twitterUsername": "omersenturkdev",
+    "followers": 1,
+    "privateContributions": 306,
+    "publicContributions": 63,
+    "createdAt": "2023-01-29T19:44:44Z"
   }
 ]
