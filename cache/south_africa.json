@@ -142438,5 +142438,53 @@
     "privateContributions": 3115,
     "publicContributions": 41,
     "createdAt": "2017-11-01T07:10:17Z"
+  },
+  {
+    "login": "WernerSmit911",
+    "name": "Werner Smit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28368980?s=72&u=fc83dcf4b1631b4cba88ec46d480e51937c55230&v=4",
+    "location": "Bloemfontein",
+    "company": "Care Creations Designs",
+    "twitterUsername": "nurse_smit",
+    "followers": 52,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-05-03T22:19:50Z"
+  },
+  {
+    "login": "ironic-name",
+    "name": "Nick van Niekerk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25007115?s=72&u=11b95e12d9df679f3420088883e9898d17445a5e&v=4",
+    "location": "Bloemfontein",
+    "company": "Bitcube",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1072,
+    "publicContributions": 0,
+    "createdAt": "2017-01-09T12:21:26Z"
+  },
+  {
+    "login": "za-gene",
+    "name": "ZR4EM ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31802515?s=72&u=7778cf3251746f761185bc8a356c8aadd077bb20&v=4",
+    "location": "Bloemfontein",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-09-09T16:08:22Z"
+  },
+  {
+    "login": "rohanposthumus",
+    "name": "Rohan Posthumus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33019005?s=72&u=42cba1dc072dc316266bdf6901baf5dedb50ed09&v=4",
+    "location": "Bloemfontein",
+    "company": "University of the Free State",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2017-10-23T07:10:09Z"
   }
 ]
