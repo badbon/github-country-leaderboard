@@ -121339,7 +121339,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2970,
+    "privateContributions": 2971,
     "publicContributions": 0,
     "createdAt": "2021-02-16T06:12:52Z"
   },
@@ -148846,5 +148846,41 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2017-11-25T13:00:41Z"
+  },
+  {
+    "login": "AkihitoNakano",
+    "name": "Akihito Nakano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95642534?s=72&u=c3727c6ab66994f403da0bfb55af7fc9ec2b500b&v=4",
+    "location": "Osaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-12-06T16:23:24Z"
+  },
+  {
+    "login": "streame2020",
+    "name": "StreaMe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81460224?s=72&u=a4d5b37db6e8debe57a5104fd28d39c653fd9bca&v=4",
+    "location": "osaka",
+    "company": "Reboot Inc,./StreaMe Inc,.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-27T06:38:32Z"
+  },
+  {
+    "login": "Nodikka",
+    "name": "Ujastik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84824801?s=72&u=9df4992c6f608bdc061cefa122e9d76c35f7e863&v=4",
+    "location": "Osaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-26T02:26:52Z"
   }
 ]

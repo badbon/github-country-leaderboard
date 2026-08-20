@@ -133450,5 +133450,65 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2016-05-20T18:05:22Z"
+  },
+  {
+    "login": "pmpailis-atypon",
+    "name": "Panagiotis Mpailis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23165765?s=72&u=a95bd4e6d7c0c724aa54c9bb995644e28a2010db&v=4",
+    "location": "Athens",
+    "company": "@atypon ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-31T09:39:49Z"
+  },
+  {
+    "login": "mccainjl",
+    "name": "Jessica McCain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22037526?s=72&u=92d408c495dd364a0ae9ab2575f3206cab1ebc82&v=4",
+    "location": "Athens, GA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-06T20:22:02Z"
+  },
+  {
+    "login": "christosal",
+    "name": "Christos Saliampoukos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22947622?s=72&u=88090389882ff6c72f290d00922bab1ea734be44&v=4",
+    "location": "Athens",
+    "company": "Growthrocks",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-10-20T00:29:36Z"
+  },
+  {
+    "login": "dpfunke",
+    "name": "Daniel Funke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18195161?s=72&u=ac911d5c20e7f1c88cc50e56bab5ac0aaf176947&v=4",
+    "location": "Athens, GA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-31T17:29:18Z"
+  },
+  {
+    "login": "efthymis97",
+    "name": "efthymis_sdr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19939087?s=72&u=3808dd27456b596e9680eafe7343d0be479438f2&v=4",
+    "location": "Athens",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-14T21:38:17Z"
   }
 ]
