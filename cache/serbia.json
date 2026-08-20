@@ -127015,7 +127015,7 @@
     "company": "Synapticon GmbH",
     "twitterUsername": "markosankovic",
     "followers": 75,
-    "privateContributions": 2178,
+    "privateContributions": 2182,
     "publicContributions": 1142,
     "createdAt": "2009-07-06T09:41:40Z"
   },
@@ -127435,7 +127435,7 @@
     "company": "MetaStudio",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 2642,
+    "privateContributions": 2648,
     "publicContributions": 8,
     "createdAt": "2009-07-31T14:36:36Z"
   },
@@ -127702,5 +127702,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-05-12T12:04:44Z"
+  },
+  {
+    "login": "dmajkic",
+    "name": "Dušan D. Majkić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84048?s=72&u=8df09e53e1d01f93ad8ead15506e6a6e6fbfa276&v=4",
+    "location": "Belgrade",
+    "company": "Datalab",
+    "twitterUsername": "",
+    "followers": 137,
+    "privateContributions": 623,
+    "publicContributions": 7,
+    "createdAt": "2009-05-13T11:21:19Z"
+  },
+  {
+    "login": "virtual",
+    "name": "Jeanine Schoessler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93795?s=72&v=4",
+    "location": "Belgrade, Montana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 108,
+    "privateContributions": 96,
+    "publicContributions": 101,
+    "createdAt": "2009-06-09T23:46:05Z"
+  },
+  {
+    "login": "homoludens",
+    "name": "Marko Đorđević",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97393?s=72&u=9e476f983da5fdc916a89bd44b8c1e75c3fb3ba2&v=4",
+    "location": "Belgrade",
+    "company": "http://droopia.net",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 802,
+    "publicContributions": 16,
+    "createdAt": "2009-06-20T21:30:19Z"
+  },
+  {
+    "login": "jakedolan",
+    "name": "Jake Dolan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59863?s=72&u=14bd7cf068e2ca2f7d280b24850f8c2fc2e41892&v=4",
+    "location": "Belgrade, MT",
+    "company": "Cascadin - Simple Project Management",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-03-03T21:33:45Z"
+  },
+  {
+    "login": "playahater",
+    "name": "Milos Hrelja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97395?s=72&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-06-20T21:39:18Z"
+  },
+  {
+    "login": "cobranet",
+    "name": "Bratislav Petrović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57820?s=72&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2009-02-25T13:21:08Z"
+  },
+  {
+    "login": "branej",
+    "name": "Branislav Jovanovic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105138?s=72&v=4",
+    "location": "Belgrade",
+    "company": "Disturbed Digitals",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-07-15T08:38:42Z"
+  },
+  {
+    "login": "qcpbraca",
+    "name": "Milenko Ćurčin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125264?s=72&v=4",
+    "location": "Belgrade",
+    "company": "Sprachcaffe",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-09-10T09:06:07Z"
+  },
+  {
+    "login": "Odisej",
+    "name": "Darko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158264?s=72&v=4",
+    "location": "Belgrade",
+    "company": "DeaDia Web Studio",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-11-25T21:46:15Z"
   }
 ]
