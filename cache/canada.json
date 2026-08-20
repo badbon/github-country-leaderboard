@@ -224470,5 +224470,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-19T11:36:06Z"
+  },
+  {
+    "login": "annembrown",
+    "name": "Anne Brown",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111712259?s=72&u=676767eed4d51973d61666a3bbcfb9c9af0683bf&v=4",
+    "location": "Edmonton, AB",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-21T23:21:06Z"
+  },
+  {
+    "login": "Somboody",
+    "name": "S",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107831151?s=72&v=4",
+    "location": "Edmonton",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-06-20T05:23:28Z"
+  },
+  {
+    "login": "mikejattu",
+    "name": "Mike Jattu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113272168?s=72&u=0ce5d9e7be679bc6dd9d06ea0a3afe2f4547c46b&v=4",
+    "location": "Edmonton, Alberta",
+    "company": "City Of Edmonton",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 256,
+    "publicContributions": 72,
+    "createdAt": "2022-09-11T02:41:36Z"
   }
 ]
