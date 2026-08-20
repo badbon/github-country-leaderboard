@@ -93944,7 +93944,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 200,
+    "publicContributions": 202,
     "createdAt": "2020-10-16T06:54:10Z"
   },
   {
@@ -94244,7 +94244,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 264,
+    "publicContributions": 265,
     "createdAt": "2020-10-18T04:41:38Z"
   },
   {
@@ -95215,7 +95215,7 @@
     "company": "Staffany",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3682,
+    "privateContributions": 3686,
     "publicContributions": 2,
     "createdAt": "2020-10-04T07:36:36Z"
   },
@@ -96790,5 +96790,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-28T12:42:38Z"
+  },
+  {
+    "login": "clarevoyance",
+    "name": "Clarence L",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21082395?s=72&u=53ef570fb6064bdf9a3d3969511e1a68068bc041&v=4",
+    "location": "Switzerland / Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 6,
+    "publicContributions": 1,
+    "createdAt": "2016-08-17T13:23:57Z"
+  },
+  {
+    "login": "KVignesh122",
+    "name": "Vignesh Kumaravel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55841532?s=72&u=aad319cebabdd5570b29df373e9f422ac202607b&v=4",
+    "location": "Singapore / Vietnam",
+    "company": "@skybluecap-sg ",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 429,
+    "publicContributions": 28,
+    "createdAt": "2019-09-26T13:22:37Z"
   }
 ]
