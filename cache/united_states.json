@@ -246262,5 +246262,77 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-05-24T21:37:31Z"
+  },
+  {
+    "login": "Ramstar757",
+    "name": "Ramses_Allstar_Dev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172467601?s=72&u=4e3cf7f1cd9b645464691bdfeffb62bc7f7e31bc&v=4",
+    "location": "Brooklyn, New York",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2024-06-12T04:53:53Z"
+  },
+  {
+    "login": "mvhdd",
+    "name": "Mario Hernandez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169095671?s=72&u=1089c0cbde9046b0a0ba02469808434c6f2c9dcb&v=4",
+    "location": "New York",
+    "company": "DataDog",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1334,
+    "publicContributions": 6,
+    "createdAt": "2024-05-06T19:51:33Z"
+  },
+  {
+    "login": "ioannisanton",
+    "name": "Ioannis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160785051?s=72&v=4",
+    "location": "New York",
+    "company": "Reflection AI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-21T20:13:10Z"
+  },
+  {
+    "login": "WilliamANeild",
+    "name": "William Neild",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155040439?s=72&u=1e766c1b5488930dfe7dedf8d479a261dd0d9a08&v=4",
+    "location": "New York City, NY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 12696,
+    "publicContributions": 323,
+    "createdAt": "2023-12-28T03:36:26Z"
+  },
+  {
+    "login": "daltonskach",
+    "name": "Dalton Skach",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156715829?s=72&u=36c735598c003849060c472c46c7416c9583627f&v=4",
+    "location": "New York, NY",
+    "company": "",
+    "twitterUsername": "daltonskach",
+    "followers": 1,
+    "privateContributions": 637,
+    "publicContributions": 0,
+    "createdAt": "2024-01-15T20:33:56Z"
+  },
+  {
+    "login": "stephanbrez",
+    "name": "Stephan Brezinsky",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172204754?s=72&u=30fb66321ef911ba73ffbaef5e09b81230267688&v=4",
+    "location": "New York, NY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 408,
+    "createdAt": "2024-06-09T16:53:34Z"
   }
 ]

@@ -151172,7 +151172,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 711,
-    "publicContributions": 195,
+    "publicContributions": 201,
     "createdAt": "2017-03-18T19:30:51Z"
   },
   {
@@ -151207,7 +151207,7 @@
     "company": "MACH",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 978,
+    "privateContributions": 984,
     "publicContributions": 0,
     "createdAt": "2017-04-27T19:16:00Z"
   },
@@ -151327,7 +151327,7 @@
     "company": "eSponsor",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2414,
+    "privateContributions": 2415,
     "publicContributions": 31,
     "createdAt": "2017-02-24T19:48:00Z"
   },
@@ -151387,7 +151387,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 373,
+    "privateContributions": 375,
     "publicContributions": 0,
     "createdAt": "2017-06-16T11:09:53Z"
   },
@@ -151723,7 +151723,7 @@
     "company": "Universidad de Chile",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 959,
+    "privateContributions": 962,
     "publicContributions": 75,
     "createdAt": "2017-03-30T20:32:06Z"
   },
@@ -152167,7 +152167,7 @@
     "company": "Comparaonline",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2785,
+    "privateContributions": 2786,
     "publicContributions": 11,
     "createdAt": "2017-06-12T14:52:44Z"
   },
@@ -152275,7 +152275,7 @@
     "company": "Smarto Club",
     "twitterUsername": "alce_x",
     "followers": 3,
-    "privateContributions": 393,
+    "privateContributions": 398,
     "publicContributions": 15,
     "createdAt": "2017-05-01T08:58:40Z"
   },
@@ -157879,7 +157879,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2518,
+    "privateContributions": 2519,
     "publicContributions": 4,
     "createdAt": "2017-08-14T03:49:20Z"
   },
@@ -158587,7 +158587,7 @@
     "company": "Universidad de Chile",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2893,
+    "privateContributions": 2901,
     "publicContributions": 67,
     "createdAt": "2017-10-05T17:36:26Z"
   },
@@ -161650,5 +161650,161 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-07-19T14:48:04Z"
+  },
+  {
+    "login": "leleonp",
+    "name": "Luis E. León",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26459881?s=72&u=63a7a407fe8812296f84c06d260d27ac5767d8a4&v=4",
+    "location": "Santiago",
+    "company": "Codebreaker Bioscience",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1799,
+    "publicContributions": 49,
+    "createdAt": "2017-03-16T12:07:18Z"
+  },
+  {
+    "login": "manuelamercado",
+    "name": "Manuela Mercado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30867400?s=72&u=81d5d110b77a5f0241ee49d009bb7871a432d2c1&v=4",
+    "location": "Santiago, R. D.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 210,
+    "publicContributions": 0,
+    "createdAt": "2017-08-09T13:07:28Z"
+  },
+  {
+    "login": "danielsalazr",
+    "name": "Daniel Salazar Muñoz ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34615924?s=72&u=04ab85fab4c915f00ba925a128778e1a7b97ba05&v=4",
+    "location": "Santiago de Cali - Colombia",
+    "company": "Johanna Ortiz",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 142,
+    "createdAt": "2017-12-17T05:14:16Z"
+  },
+  {
+    "login": "ignacio3009",
+    "name": "Ignacio Ñancupil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26697088?s=72&u=ac50f35202f4fdd8e4e7171267e2e815a1f0e787&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-26T21:41:16Z"
+  },
+  {
+    "login": "javierhuertay",
+    "name": "Javier Huerta Yumha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28536119?s=72&u=5e3c1180c029dfecf9dc9da02da4e71067c1ba35&v=4",
+    "location": "Santiago",
+    "company": "Factored",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 184,
+    "publicContributions": 0,
+    "createdAt": "2017-05-08T14:09:15Z"
+  },
+  {
+    "login": "balde-isc",
+    "name": "baldemar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30028147?s=72&u=69693cb8d7d403a32d8ae878ff38fa1a1ac25c61&v=4",
+    "location": "Santiago de Queretaro, Queretaro",
+    "company": "Instituto Tecnologico de Queretaro",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-09T20:04:01Z"
+  },
+  {
+    "login": "DamiHettich",
+    "name": "Damian Hettich",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31748360?s=72&u=671a3464520aa82ff47545410745e18e85f917b4&v=4",
+    "location": "Santiago",
+    "company": "@bukhr",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1369,
+    "publicContributions": 1,
+    "createdAt": "2017-09-07T22:37:57Z"
+  },
+  {
+    "login": "Julius9",
+    "name": "Julio Huerta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26386517?s=72&u=d966a4cb0021f4d78416cd300917cd6a206282ec&v=4",
+    "location": "Santiago",
+    "company": "Self",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 241,
+    "publicContributions": 0,
+    "createdAt": "2017-03-13T15:37:20Z"
+  },
+  {
+    "login": "macadminspro",
+    "name": "Carlos Salgado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31170825?s=72&u=17848136857519cd5e4167b5ebd57f9ce82c1407&v=4",
+    "location": "Santiago de Surco - Perú",
+    "company": "Mac Admíns | Regional Training Centre",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-19T23:56:51Z"
+  },
+  {
+    "login": "Edisoon",
+    "name": "Edison López",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33767758?s=72&u=8a9cce547ee3644dc380142c35195561310a9db3&v=4",
+    "location": "Santiago, Republica Dominicana",
+    "company": "Freelancer",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2017-11-17T23:25:08Z"
+  },
+  {
+    "login": "gabrielminaya",
+    "name": "Gabriel Minaya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34462073?s=72&u=5cb78f9bd96838e82757646231c0b445ebc48860&v=4",
+    "location": "Santiago, R.D.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 2,
+    "publicContributions": 3,
+    "createdAt": "2017-12-12T00:13:41Z"
+  },
+  {
+    "login": "luchenko",
+    "name": "Lu-Chu Ly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32443431?s=72&u=25af1c37e9d47a0eb3a2a4446563d6cebe3a9c65&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 633,
+    "publicContributions": 1,
+    "createdAt": "2017-10-02T01:21:45Z"
+  },
+  {
+    "login": "JulioGalindo",
+    "name": "Julio Galindo Q",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30028483?s=72&u=6637afb3cb88b27b186d0ea2c41f10511ce901d9&v=4",
+    "location": "Santiago",
+    "company": "Galindo Ingenieria",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 767,
+    "publicContributions": 14,
+    "createdAt": "2017-07-09T20:28:51Z"
   }
 ]
