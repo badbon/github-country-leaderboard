@@ -133651,7 +133651,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 3755,
+    "privateContributions": 3757,
     "publicContributions": 0,
     "createdAt": "2019-10-01T18:19:44Z"
   },
@@ -144202,5 +144202,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-30T18:12:33Z"
+  },
+  {
+    "login": "engineerGuigo",
+    "name": "Rodrigo Durante",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55359428?s=72&u=c491d16c6278274b5f7ce753665090c7ae59507f&v=4",
+    "location": "Mexico City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-15T17:43:21Z"
   }
 ]

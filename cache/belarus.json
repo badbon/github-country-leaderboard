@@ -131314,5 +131314,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-11-13T10:41:14Z"
+  },
+  {
+    "login": "avodonosov",
+    "name": "Anton Vodonosov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2444?s=72&u=0b9fba017389e772ceda51b3f42f2660f5b6db23&v=4",
+    "location": "Minsk, Belarus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 103,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2008-03-06T19:47:05Z"
+  },
+  {
+    "login": "valodzka",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9821?s=72&u=0d088dd5c3907a7aabfc0512e743acce9092e0b0&v=4",
+    "location": "Minsk,Belarus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2008-05-09T18:33:25Z"
+  },
+  {
+    "login": "vasvlad",
+    "name": "Uladzislau Vasilyeu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12665?s=72&v=4",
+    "location": "Belarus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2008-06-05T05:43:58Z"
+  },
+  {
+    "login": "svd",
+    "name": "Sviatoslav Sviridov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39439?s=72&v=4",
+    "location": "Minsk, Belarus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 345,
+    "publicContributions": 145,
+    "createdAt": "2008-12-09T22:14:05Z"
+  },
+  {
+    "login": "grepz",
+    "name": "Stanislav M. Ivankin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24916?s=72&v=4",
+    "location": "Belarus, Minsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2008-09-17T00:21:36Z"
+  },
+  {
+    "login": "enternet",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42610?s=72&v=4",
+    "location": "Minsk | Belarus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-12-25T10:09:34Z"
+  },
+  {
+    "login": "AndreyFedorenchyk",
+    "name": "Andrey Fedorenchyk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19502?s=72&v=4",
+    "location": "Minsk, Belarus",
+    "company": "MoveYourWeb",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-08-04T14:20:03Z"
   }
 ]
