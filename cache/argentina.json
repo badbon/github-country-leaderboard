@@ -105608,7 +105608,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-01-25T12:35:07Z"
   },
   {
@@ -106411,7 +106411,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 726,
+    "privateContributions": 733,
     "publicContributions": 53,
     "createdAt": "2022-01-03T23:31:05Z"
   },
@@ -106712,7 +106712,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 204,
     "createdAt": "2022-02-10T02:32:09Z"
   },
   {
@@ -115375,8 +115375,8 @@
     "company": "Seshat",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 833,
-    "publicContributions": 43,
+    "privateContributions": 841,
+    "publicContributions": 42,
     "createdAt": "2022-03-01T01:11:31Z"
   },
   {
@@ -115435,7 +115435,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 747,
+    "privateContributions": 758,
     "publicContributions": 201,
     "createdAt": "2022-03-05T17:28:04Z"
   },
@@ -115495,8 +115495,8 @@
     "company": "Media Digital Group",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2683,
-    "publicContributions": 392,
+    "privateContributions": 2735,
+    "publicContributions": 391,
     "createdAt": "2022-02-23T01:39:17Z"
   },
   {
@@ -115531,8 +115531,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2323,
-    "publicContributions": 36,
+    "privateContributions": 2330,
+    "publicContributions": 51,
     "createdAt": "2022-03-02T00:19:33Z"
   },
   {
@@ -115628,7 +115628,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 39,
-    "publicContributions": 1600,
+    "publicContributions": 1613,
     "createdAt": "2022-02-16T01:50:57Z"
   },
   {
@@ -120944,7 +120944,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 89,
-    "publicContributions": 440,
+    "publicContributions": 444,
     "createdAt": "2022-03-17T17:24:59Z"
   },
   {
@@ -120992,7 +120992,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 346,
+    "publicContributions": 348,
     "createdAt": "2022-03-29T23:00:38Z"
   },
   {
@@ -121171,8 +121171,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 317,
-    "publicContributions": 108,
+    "privateContributions": 324,
+    "publicContributions": 109,
     "createdAt": "2022-03-16T05:34:28Z"
   },
   {
@@ -121555,7 +121555,7 @@
     "company": "CraftLabs",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 373,
+    "privateContributions": 375,
     "publicContributions": 0,
     "createdAt": "2022-03-09T01:33:31Z"
   },
@@ -188302,5 +188302,209 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2017-05-29T03:52:49Z"
+  },
+  {
+    "login": "Maruinyork",
+    "name": "Maru",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98655026?s=72&u=be9839eb2d14fabe722fbbd9b00cf9b93219e0f4&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-29T15:34:18Z"
+  },
+  {
+    "login": "bemartin94",
+    "name": "Belén M",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100541119?s=72&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 4,
+    "publicContributions": 35,
+    "createdAt": "2022-02-27T23:06:41Z"
+  },
+  {
+    "login": "Agustin027",
+    "name": "Agustin Castillo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100971933?s=72&u=771594433d262b0f783a34aaa7c13e684c31a541&v=4",
+    "location": "La Plata, Buenos Aires, AR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 101,
+    "publicContributions": 23,
+    "createdAt": "2022-03-04T21:47:42Z"
+  },
+  {
+    "login": "LucasZarate63",
+    "name": "Corvo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102368479?s=72&u=789e6bf8a99a18fe5d2ef75b17bebd3848f16b3d&v=4",
+    "location": "Buenos Aires, Cañuelas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-25T13:41:24Z"
+  },
+  {
+    "login": "mendezangelleo",
+    "name": "Angel Mendez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102565596?s=72&u=9d16b3b2222e228084afd00a39b17f8130d6abf4&v=4",
+    "location": "Buenos Aires, Argnetina",
+    "company": "@tacliatech ",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 28,
+    "publicContributions": 133,
+    "createdAt": "2022-03-29T01:30:59Z"
+  },
+  {
+    "login": "agustinascarpinelli",
+    "name": "Agustina Scarpinelli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98324421?s=72&u=959cdd419daca0cccab6b332e6e8c2e887bcff1c&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-24T12:43:54Z"
+  },
+  {
+    "login": "LuisMistic",
+    "name": "Luis Martinez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98426812?s=72&v=4",
+    "location": "Remedios de escalada. lanus. buenos aires ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2022-01-25T20:34:00Z"
+  },
+  {
+    "login": "alendavies",
+    "name": "Alen Davies",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99304280?s=72&u=9d64e54eba7fcda4e0e0d69686f92dab92318a35&v=4",
+    "location": "Buenos Aires",
+    "company": "Facultad de Ingeniería de la Universidad de Buenos Aires",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 621,
+    "createdAt": "2022-02-09T02:20:04Z"
+  },
+  {
+    "login": "francocasafus22",
+    "name": "Franco Casafus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97665694?s=72&u=ea619700797f3b86c1a2dd6d0b32aa54fb738e96&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 710,
+    "createdAt": "2022-01-13T09:03:16Z"
+  },
+  {
+    "login": "Arzeus17",
+    "name": "LUIS ALEJANDRO ARIZA ARREDONDO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101608754?s=72&u=1eeeae611029bcc515be695d5bc63fd837c821cc&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-15T00:33:44Z"
+  },
+  {
+    "login": "Fedeeherrera",
+    "name": "Federico Herrera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102622226?s=72&u=4f077b3c964bf0cee6bee4b9aa92c3501b68d2ca&v=4",
+    "location": "Las Flores, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2022-03-29T19:01:28Z"
+  },
+  {
+    "login": "MalenaLuana",
+    "name": "Malena Fresco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101836343?s=72&u=16b1092d4ce9d0f008b2b9604bdf77a99bc063fb&v=4",
+    "location": "Buenos Aires ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 74,
+    "publicContributions": 5,
+    "createdAt": "2022-03-17T20:49:13Z"
+  },
+  {
+    "login": "ClaudioIrianni",
+    "name": "Claudio Alexis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99445798?s=72&u=4f3d2c99c7a84d4581cbe6781672a3e2cfeb5b2d&v=4",
+    "location": "CABA. Buenos Aires.",
+    "company": "linkedin.com/in/claudio-alexis-irianni/",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 1,
+    "publicContributions": 7,
+    "createdAt": "2022-02-10T22:19:40Z"
+  },
+  {
+    "login": "TinchoGithub",
+    "name": "Martín Perez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100448340?s=72&u=2a908bb161f0495406e53d539973a6563f20ec61&v=4",
+    "location": "Buenos Aires",
+    "company": "FirstCode",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-25T22:27:03Z"
+  },
+  {
+    "login": "silvina-varela",
+    "name": "Silvina Varela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101894010?s=72&u=a791bc0c859afcc75d67b83b0ee31ba187a958fb&v=4",
+    "location": "Ciudad de Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-03-18T18:33:16Z"
+  },
+  {
+    "login": "crisvlasova",
+    "name": "Cristina Vlassov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98219922?s=72&u=a6fe1257b10b48c06c53256f1f237a74e3cfdbcb&v=4",
+    "location": "Ciudad de Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2022-01-22T13:34:38Z"
+  },
+  {
+    "login": "EdefexBA",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96959360?s=72&u=169d0c9dd473f5e5e93c28777861c4673e082fb4&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-01T21:50:54Z"
   }
 ]
