@@ -131242,5 +131242,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-08-31T08:38:58Z"
+  },
+  {
+    "login": "Ri0n",
+    "name": "Sergei Ilinykh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52379?s=72&v=4",
+    "location": "Minsk",
+    "company": "",
+    "twitterUsername": "another_rion",
+    "followers": 48,
+    "privateContributions": 0,
+    "publicContributions": 338,
+    "createdAt": "2009-02-06T16:31:29Z"
+  },
+  {
+    "login": "hodinv",
+    "name": "Vasily Hodin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66962?s=72&v=4",
+    "location": "Minsk",
+    "company": "Softeq",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-03-25T11:38:58Z"
+  },
+  {
+    "login": "seongreen",
+    "name": "Andrei Novikau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159871?s=72&v=4",
+    "location": "Minsk",
+    "company": "IDF",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-11-30T13:12:13Z"
+  },
+  {
+    "login": "asenchuk",
+    "name": "Andrei Senchuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169769?s=72&u=1447fcfddbaf6b8e90f78b2978b91ef17e7e6ad6&v=4",
+    "location": "Minsk, BY",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 64,
+    "publicContributions": 1,
+    "createdAt": "2009-12-19T10:34:23Z"
+  },
+  {
+    "login": "codeator",
+    "name": "Andrei Koposov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99560?s=72&u=a691170f80c76dc6dcbda872dd909ba329ee3f00&v=4",
+    "location": "Minsk",
+    "company": "CoinsPaid",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-06-27T22:26:09Z"
+  },
+  {
+    "login": "yegor",
+    "name": "Yegor Tsirkoun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152771?s=72&v=4",
+    "location": "Minsk",
+    "company": "DozenArts",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-11-13T10:41:14Z"
   }
 ]
