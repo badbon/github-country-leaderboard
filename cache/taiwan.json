@@ -156250,5 +156250,65 @@
     "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2016-05-23T09:44:56Z"
+  },
+  {
+    "login": "TsaiRongFu",
+    "name": "TsaiRongFu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12769512?s=72&u=0d98ed391071e92a6a1d73145dfd594f5d696b7b&v=4",
+    "location": "Taiwan, officially the Republic of China (ROC)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 5920,
+    "publicContributions": 45,
+    "createdAt": "2015-06-06T00:14:16Z"
+  },
+  {
+    "login": "Mibudin",
+    "name": "Mibudin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13520002?s=72&u=9780869585790727a585ae462e7179f933546746&v=4",
+    "location": "Taiwan, Republic of China",
+    "company": "Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-27T10:49:45Z"
+  },
+  {
+    "login": "LinYunWen",
+    "name": "Lin Yun Wen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11289517?s=72&u=878295464b355ef632894df3b3a445ad8cb7de5f&v=4",
+    "location": "Republic of China (Taiwan)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 88,
+    "publicContributions": 0,
+    "createdAt": "2015-03-03T08:12:01Z"
+  },
+  {
+    "login": "toodou",
+    "name": "Dr. Chan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12227023?s=72&v=4",
+    "location": "Taipei, Taiwan, Republic of China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 140,
+    "createdAt": "2015-05-04T01:43:30Z"
+  },
+  {
+    "login": "TunglinInamin",
+    "name": "Inamin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11554678?s=72&u=4052ebae3bdbb70dedfa9df07b07521295d2b5ad&v=4",
+    "location": "Taipei, Republic of China",
+    "company": "Fu Jen Catholic University",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2015-03-19T10:54:01Z"
   }
 ]
