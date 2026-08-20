@@ -165274,5 +165274,41 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2013-06-30T18:27:18Z"
+  },
+  {
+    "login": "choppingthought",
+    "name": "Ramesh Chaudhary",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3327834?s=72&v=4",
+    "location": "Nepal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-21T10:31:57Z"
+  },
+  {
+    "login": "rajushrestha",
+    "name": "Raju Shrestha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4526180?s=72&u=6644de438155d50989c09234e4569b19b948759b&v=4",
+    "location": "Kathmandu, Nepal",
+    "company": "Lunover Digital Private Limited",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1671,
+    "publicContributions": 3,
+    "createdAt": "2013-05-25T10:24:43Z"
+  },
+  {
+    "login": "pushpan999",
+    "name": "Pushpan Kumar G.C.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4208761?s=72&v=4",
+    "location": "Nepal",
+    "company": "Freelancer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2013-04-20T09:26:18Z"
   }
 ]
