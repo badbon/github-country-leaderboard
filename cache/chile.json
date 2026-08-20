@@ -132250,5 +132250,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-05-07T14:49:50Z"
+  },
+  {
+    "login": "joantejada",
+    "name": "Joan Tejada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54724079?s=72&u=d4f958d07674274a037c74ce350a97340bac516b&v=4",
+    "location": "Santiago de los Caballeros",
+    "company": "SoftecaRD",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-30T19:32:48Z"
+  },
+  {
+    "login": "nicolasceballosr",
+    "name": "Nicolas Ceballos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55665787?s=72&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-22T17:29:48Z"
+  },
+  {
+    "login": "JorgeUrra",
+    "name": "Jorge Francisco Urra Merino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48544252?s=72&u=b8e5c7c4b38a4ad96c87734065501e4244da7b08&v=4",
+    "location": "Avenida Santa Isabel 431, Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1296,
+    "createdAt": "2019-03-14T06:00:16Z"
   }
 ]
