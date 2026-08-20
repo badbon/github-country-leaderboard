@@ -131398,5 +131398,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-08-04T14:20:03Z"
+  },
+  {
+    "login": "elenat",
+    "name": "Elena T",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15123?s=72&v=4",
+    "location": "Minsk",
+    "company": "Altoros",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-06-26T13:09:36Z"
+  },
+  {
+    "login": "newbie78",
+    "name": "Rodion",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28735?s=72&u=fe948b4a0bb7597c33b05d904f3457eb24a27b21&v=4",
+    "location": "Minsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-10-13T11:59:22Z"
   }
 ]

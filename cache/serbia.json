@@ -126562,5 +126562,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-12-02T12:34:19Z"
+  },
+  {
+    "login": "denis-bykov",
+    "name": "Denis Bykov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/385641?s=72&u=a7d8e930d9738aaa0c67aed5c81b90a60d34ce5d&v=4",
+    "location": "Belgrade, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-02T19:49:16Z"
+  },
+  {
+    "login": "snjeza",
+    "name": "Snjeza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/388609?s=72&v=4",
+    "location": "Beograd, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 225,
+    "createdAt": "2010-09-05T19:20:20Z"
+  },
+  {
+    "login": "pecko",
+    "name": "Haris Peco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/534584?s=72&v=4",
+    "location": "Beograd, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 853,
+    "publicContributions": 0,
+    "createdAt": "2010-12-23T13:44:35Z"
+  },
+  {
+    "login": "lakibbs",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197435?s=72&v=4",
+    "location": "Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-02-05T07:10:43Z"
+  },
+  {
+    "login": "webDizajn",
+    "name": "webDizajn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233280?s=72&v=4",
+    "location": "Srbija",
+    "company": "odmoriSe",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-03-30T11:14:16Z"
+  },
+  {
+    "login": "milosmilos",
+    "name": "Milos Antic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/377003?s=72&v=4",
+    "location": "Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-08-26T15:06:01Z"
+  },
+  {
+    "login": "radiopoljubac",
+    "name": "Radio Poljubac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/508580?s=72&v=4",
+    "location": "Bujanovac, Srbija",
+    "company": "Radio Poljubac",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-03T21:22:52Z"
   }
 ]

@@ -125818,5 +125818,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-09-23T10:42:24Z"
+  },
+  {
+    "login": "dimitarminchev",
+    "name": "Dimitar Minchev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14289337?s=72&u=6cdba06587b48a4eec99697382bc667bb721368c&v=4",
+    "location": "Burgas",
+    "company": "Burgas Free University",
+    "twitterUsername": "MinchevDimitar",
+    "followers": 127,
+    "privateContributions": 0,
+    "publicContributions": 89,
+    "createdAt": "2015-09-15T07:18:33Z"
+  },
+  {
+    "login": "antonchirikalov",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14098297?s=72&u=0e47615ca010387bd43c6dd3477e4377d8090219&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 252,
+    "createdAt": "2015-09-02T19:17:18Z"
+  },
+  {
+    "login": "Ascaron70",
+    "name": "Shagy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14295939?s=72&u=e316cc05ff8df7c8e771d5487ef2dae30727728e&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-09-15T14:51:17Z"
+  },
+  {
+    "login": "idlleF",
+    "name": "Irko Stoyanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10835283?s=72&u=29a8f66b879b52e1f2440de5eb54f8b4fb1950a6&v=4",
+    "location": "Burgas",
+    "company": "Proxiad CEE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2015-02-03T18:22:38Z"
   }
 ]
