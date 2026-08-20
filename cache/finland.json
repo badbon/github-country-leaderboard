@@ -134506,5 +134506,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-05-16T15:39:37Z"
+  },
+  {
+    "login": "mnokka",
+    "name": "Mika Nokka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12247658?s=72&u=9f77c1f44cca215b66dc966efb5df954eebc93f7&v=4",
+    "location": "Hämeenlinna, Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 84,
+    "createdAt": "2015-05-05T06:51:52Z"
+  },
+  {
+    "login": "Jaymathmatics",
+    "name": "Jay Matic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11436541?s=72&u=22e4681d864d287fc2cc351acbc02057b85be7ef&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-12T07:07:08Z"
+  },
+  {
+    "login": "Shinpai",
+    "name": "Harri Juutilainen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11408503?s=72&u=62553c19c07da10c114505df1fb2c331f8ded893&v=4",
+    "location": "Jyväskylä, Finland",
+    "company": "@by-pinja ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-10T13:54:29Z"
+  },
+  {
+    "login": "Logxar",
+    "name": "Jaakko Söderholm",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11634931?s=72&u=e77ec2d5ab1986267fd829b1e3bee9e125f909d9&v=4",
+    "location": "Helsinki, Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 82,
+    "publicContributions": 10,
+    "createdAt": "2015-03-24T17:29:59Z"
   }
 ]
