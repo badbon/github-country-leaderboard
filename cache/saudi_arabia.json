@@ -87427,7 +87427,7 @@
     "company": "WebE",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1422,
+    "privateContributions": 1459,
     "publicContributions": 0,
     "createdAt": "2013-02-18T20:38:41Z"
   },
@@ -88099,7 +88099,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 8195,
+    "privateContributions": 8196,
     "publicContributions": 0,
     "createdAt": "2013-04-18T01:12:17Z"
   },
@@ -88546,5 +88546,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-06-04T09:02:29Z"
+  },
+  {
+    "login": "ifahad",
+    "name": "Fahad Al Rhili",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5333818?s=72&u=7d381255799947f70dc67aa30339ec2302acd36d&v=4",
+    "location": "Riyadh, Saudi Arabia",
+    "company": "",
+    "twitterUsername": "ioFahd",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-28T22:07:51Z"
+  },
+  {
+    "login": "nalrashidi",
+    "name": "Naif Alrashidi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5251914?s=72&v=4",
+    "location": "Saudi Arabia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 6,
+    "publicContributions": 0,
+    "createdAt": "2013-08-17T18:43:14Z"
+  },
+  {
+    "login": "QassimHassan",
+    "name": "Qasem Alobaidi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3650065?s=72&u=430569967337daa71dcb00d0302e43b3c0b6c84a&v=4",
+    "location": "Jeddah, Saudi Arabia.",
+    "company": "WPTime",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-20T17:53:24Z"
+  },
+  {
+    "login": "francisceril",
+    "name": "Francis Ceril Challoy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5759665?s=72&u=8da361555df6ab6d12e47d3657632847ae745f44&v=4",
+    "location": "Riyadh, Saudi Arabia",
+    "company": "Al-Hammad Medical Services",
+    "twitterUsername": "francisceril",
+    "followers": 1,
+    "privateContributions": 2,
+    "publicContributions": 1,
+    "createdAt": "2013-10-23T19:55:06Z"
+  },
+  {
+    "login": "okamoudi",
+    "name": "Omar Alamoudi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6036217?s=72&u=11dde99e3308e74b3e33ee57ae4ac770744dcda2&v=4",
+    "location": "Jeddah, Saudi Arabia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 0,
+    "createdAt": "2013-11-26T01:04:11Z"
   }
 ]
