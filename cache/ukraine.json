@@ -117295,7 +117295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 57,
+    "privateContributions": 59,
     "publicContributions": 4,
     "createdAt": "2021-01-11T09:00:56Z"
   },
@@ -124651,7 +124651,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 372,
+    "privateContributions": 373,
     "publicContributions": 0,
     "createdAt": "2021-04-10T11:29:35Z"
   },
@@ -124699,7 +124699,7 @@
     "company": "Intellias",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1176,
+    "privateContributions": 1182,
     "publicContributions": 0,
     "createdAt": "2021-06-03T09:00:07Z"
   },
@@ -124855,7 +124855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1878,
+    "privateContributions": 1882,
     "publicContributions": 1,
     "createdAt": "2021-06-20T09:01:13Z"
   },
@@ -151582,5 +151582,89 @@
     "privateContributions": 1217,
     "publicContributions": 1,
     "createdAt": "2021-12-13T09:40:18Z"
+  },
+  {
+    "login": "bluered831",
+    "name": "Nesterov Artem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91017567?s=72&u=3af010f26f796c2c1de97b7dd0fc6c130a9ac94f&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-19T13:43:49Z"
+  },
+  {
+    "login": "ITValerka",
+    "name": "Valerii Mazurenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81135935?s=72&u=1c1f691e369e0a1a4ce58a723a49cbc334cdf332&v=4",
+    "location": "Kyiv",
+    "company": "Freelance",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-22T04:07:33Z"
+  },
+  {
+    "login": "autoDen41k",
+    "name": "Denis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84085425?s=72&v=4",
+    "location": "UA, Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-12T14:08:51Z"
+  },
+  {
+    "login": "pchupirchuk",
+    "name": "Pavlo Chupirchuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82517218?s=72&u=40935a2384db85d3f21f628123e0a0e6232a2ef5&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2842,
+    "publicContributions": 3,
+    "createdAt": "2021-04-14T12:43:52Z"
+  },
+  {
+    "login": "Useraccont1507",
+    "name": "Illia Verezei",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93717314?s=72&v=4",
+    "location": "Kyiv",
+    "company": "Ornament soft solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 253,
+    "createdAt": "2021-11-04T13:02:42Z"
+  },
+  {
+    "login": "ProstoMishutka",
+    "name": "Mykhailo Patserkovskyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96257420?s=72&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2021-12-16T17:31:11Z"
+  },
+  {
+    "login": "HeorhiiPluhovyi",
+    "name": "Heorhii Plugovyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95225321?s=72&u=c9079cef405fbe9087bccff7d2d9351bd64edcb7&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-29T12:38:50Z"
   }
 ]
