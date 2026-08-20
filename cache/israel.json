@@ -149278,5 +149278,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-12-03T09:33:03Z"
+  },
+  {
+    "login": "erez",
+    "name": "Erez Ben Shoham",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7029?s=72&v=4",
+    "location": "Jerusalem",
+    "company": "Q.C.M ltd",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-04-13T03:10:43Z"
+  },
+  {
+    "login": "dankern",
+    "name": "Daniel Kern",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25585?s=72&u=7f78bf47932faa2f63c8441dea2549fbc03ab5cd&v=4",
+    "location": "Jerusalem",
+    "company": "Fluent Technologies",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-09-21T11:45:49Z"
   }
 ]

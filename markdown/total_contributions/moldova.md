@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-08-20T03:45:25.918Z
+Generated: 2026-08-20T04:04:14.880Z
 
 Users: 1763
 
@@ -8,7 +8,7 @@ Users: 1763
 |---:|---|---|---|---|---|---:|
 | 1 | [evisoft](https://github.com/evisoft) | Vitalie Esanu | Evisoft | evisoft | Moldova | 13677 |
 | 2 | [icaliman](https://github.com/icaliman) | Ion Căliman | XLITE DEV |  | Moldova | 6932 |
-| 3 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru |  |  | Ungheni, Moldova / Iasi, Romania | 5601 |
+| 3 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru |  |  | Ungheni, Moldova / Iasi, Romania | 5621 |
 | 4 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | @primevision-com  |  | Chisinau, Moldova | 5329 |
 | 5 | [StefuSD](https://github.com/StefuSD) | Stepan Stefu |  |  | Moldova | 5328 |
 | 6 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion |  |  | Moldova, Chisinau | 5271 |

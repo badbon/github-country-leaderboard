@@ -128108,7 +128108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 81,
     "createdAt": "2023-08-08T05:23:37Z"
   },
   {
@@ -169006,5 +169006,65 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2023-12-22T09:38:29Z"
+  },
+  {
+    "login": "ShadyShed",
+    "name": "Saheed Quadri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126510963?s=72&u=5a9351deca6ac4b88a55380ede304b414fe45f58&v=4",
+    "location": "Waterloo, ON",
+    "company": "University of Waterloo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2023-02-27T18:32:53Z"
+  },
+  {
+    "login": "jeffreyzhao32",
+    "name": "Jeffrey Zhao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142653175?s=72&v=4",
+    "location": "Waterloo, ON",
+    "company": "University of Waterloo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2023-08-19T06:42:24Z"
+  },
+  {
+    "login": "TILTL",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131395335?s=72&u=b2976d75c104b0d55b5c968e15172426e18dd3e4&v=4",
+    "location": "University of Waterloo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-04-20T17:49:02Z"
+  },
+  {
+    "login": "insaflashari",
+    "name": "Insaf Lashari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126097535?s=72&v=4",
+    "location": "Waterloo, Ontario",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2023-02-22T16:25:12Z"
+  },
+  {
+    "login": "charlie-parker8",
+    "name": "Charlie Parker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129253904?s=72&u=6b0c25e790acfd45320366c9292d298f1dc9b540&v=4",
+    "location": "Waterloo, ON",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 105,
+    "createdAt": "2023-03-29T05:16:35Z"
   }
 ]

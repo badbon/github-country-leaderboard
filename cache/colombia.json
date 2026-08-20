@@ -153466,5 +153466,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-21T14:25:01Z"
+  },
+  {
+    "login": "andres073401",
+    "name": "Andres Rodriguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92815909?s=72&u=1e78182d5b3d3b24b8876bdb205ec1d05149a6c2&v=4",
+    "location": "Bogotá",
+    "company": "Lulo bank",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5,
+    "publicContributions": 0,
+    "createdAt": "2021-10-19T17:16:56Z"
+  },
+  {
+    "login": "valeguerrero17",
+    "name": "Valentina Guerrero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93959531?s=72&u=e967b51bfce31dffc9365d630ae18206a33031be&v=4",
+    "location": "Bogotá",
+    "company": "",
+    "twitterUsername": "valeguerrero17",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-09T02:21:57Z"
+  },
+  {
+    "login": "BrayanQuinonez",
+    "name": "Brayan Quiñonez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95259540?s=72&u=686c0c01c75220161f3ab6d29902c5568d3496ce&v=4",
+    "location": "Bogotá",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-30T00:38:45Z"
+  },
+  {
+    "login": "Maortegab",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88862346?s=72&v=4",
+    "location": "Bogotá D.C. ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2021-08-12T23:20:31Z"
+  },
+  {
+    "login": "acostamejia",
+    "name": "Alejandro Acosta Mejía ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91106724?s=72&v=4",
+    "location": "Bogotá DC",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2021-09-21T03:03:46Z"
+  },
+  {
+    "login": "stvgo",
+    "name": "Stiven Valeriano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85803406?s=72&u=83c957f4c8dbf1ffd5d15571084e8b4ceb308e44&v=4",
+    "location": "Bogotá",
+    "company": "Rappi-inc",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 145,
+    "createdAt": "2021-06-12T17:47:58Z"
+  },
+  {
+    "login": "Dilson24",
+    "name": "Dilson_Cruz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80017136?s=72&u=8cc85a79962ef03fecdea0205f43bc4f0975ca0a&v=4",
+    "location": "Bogotá D.C",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2021-03-04T02:10:37Z"
   }
 ]
