@@ -85807,8 +85807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 290,
-    "publicContributions": 177,
+    "privateContributions": 303,
+    "publicContributions": 179,
     "createdAt": "2020-09-10T08:14:36Z"
   },
   {
@@ -85903,7 +85903,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 686,
+    "privateContributions": 702,
     "publicContributions": 367,
     "createdAt": "2020-08-08T08:38:28Z"
   },
@@ -85940,7 +85940,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 16,
-    "publicContributions": 78,
+    "publicContributions": 79,
     "createdAt": "2020-07-07T23:12:18Z"
   },
   {
@@ -86035,7 +86035,7 @@
     "company": "",
     "twitterUsername": "zxt_tzx",
     "followers": 9,
-    "privateContributions": 1977,
+    "privateContributions": 1981,
     "publicContributions": 8,
     "createdAt": "2020-07-06T03:49:31Z"
   },
@@ -86312,7 +86312,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 185,
-    "publicContributions": 1616,
+    "publicContributions": 1675,
     "createdAt": "2020-08-06T10:18:22Z"
   },
   {
@@ -86612,7 +86612,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 64,
-    "publicContributions": 940,
+    "publicContributions": 941,
     "createdAt": "2020-07-21T11:49:28Z"
   },
   {
@@ -86648,7 +86648,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 55,
-    "publicContributions": 172,
+    "publicContributions": 173,
     "createdAt": "2020-08-04T15:27:18Z"
   },
   {
@@ -86875,7 +86875,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2304,
+    "privateContributions": 2305,
     "publicContributions": 13,
     "createdAt": "2020-08-05T19:46:11Z"
   },
@@ -96754,5 +96754,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-12-17T01:52:00Z"
+  },
+  {
+    "login": "dujar",
+    "name": "dujarfa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17208217?s=72&u=7b9d95648996fc0e2dc2b1f073ee46565d7fdda8&v=4",
+    "location": "Singapore/Thailand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 6913,
+    "publicContributions": 18,
+    "createdAt": "2016-02-12T21:58:27Z"
   }
 ]

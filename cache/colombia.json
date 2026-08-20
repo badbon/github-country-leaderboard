@@ -166414,5 +166414,89 @@
     "privateContributions": 2102,
     "publicContributions": 7,
     "createdAt": "2020-03-31T04:12:46Z"
+  },
+  {
+    "login": "normanagudelo",
+    "name": "normanagudelo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63974062?s=72&u=57b096a27b655d708dfd5feb1013691d4d7de7ce&v=4",
+    "location": "colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-19T18:15:59Z"
+  },
+  {
+    "login": "mauc-agentic",
+    "name": "mauc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63675607?s=72&u=3c21fa42a68845a02fd13c5e2a5325d6670a8257&v=4",
+    "location": "Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-14T20:24:10Z"
+  },
+  {
+    "login": "cabril77",
+    "name": "Carlos Abril",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64625059?s=72&u=c36979914ae01da1f021b1bbc7cfcb01e9b5be27&v=4",
+    "location": "Bogota, Colombia",
+    "company": "DigiTICs SAS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-01T03:09:36Z"
+  },
+  {
+    "login": "DanielHurtado98",
+    "name": "Daniel Hurtado ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64624226?s=72&v=4",
+    "location": "Bogotá, Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-01T02:39:00Z"
+  },
+  {
+    "login": "adrestrepo",
+    "name": "Adiel Restrepo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63566208?s=72&u=0ec1185ea139e2a44e32c3fc9c4523dfc5d0e0d6&v=4",
+    "location": "Medellín, Colombia",
+    "company": "University Of Antioquia",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-12T23:49:04Z"
+  },
+  {
+    "login": "ricardo2591",
+    "name": "Ricardo_Burgos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65370076?s=72&u=27ef59abc9b18bd2ba43e572b2542bdcf3c1ea07&v=4",
+    "location": "Colombia",
+    "company": "@newtonLabsCo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-05-14T20:59:06Z"
+  },
+  {
+    "login": "Andy-Aranda",
+    "name": "Andrea Aranda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52868689?s=72&u=f51ed2b9b8ce0b6c2bbc6836e251519aaabfa1df&v=4",
+    "location": "Mexico | Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 74,
+    "publicContributions": 18,
+    "createdAt": "2019-07-13T21:44:33Z"
   }
 ]

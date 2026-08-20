@@ -131914,5 +131914,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-20T04:57:50Z"
+  },
+  {
+    "login": "BwayCer",
+    "name": "張本微",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16593611?s=72&u=295a8a6d31aa6f603a7d9b8d25f126c9519f65de&v=4",
+    "location": "Taiwan, Republic of China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 13,
+    "publicContributions": 77,
+    "createdAt": "2016-01-07T13:07:49Z"
+  },
+  {
+    "login": "lx93",
+    "name": "Xiang Li",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18233117?s=72&u=d2cc9d892d043eab373a39c40f965771378f9d61&v=4",
+    "location": "Republic of China",
+    "company": "aggressively unemployed due to AI",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-02T15:57:09Z"
+  },
+  {
+    "login": "markyclin",
+    "name": "markyclin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20508877?s=72&u=1a5a11cffc74d8c021857cf6a7f6593f44155976&v=4",
+    "location": "Taiwan, Republic of China",
+    "company": "Humming Aero-Tech LTD.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-07-18T03:06:58Z"
+  },
+  {
+    "login": "ingearfa17",
+    "name": "Inge Arfatikka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19552239?s=72&u=c6bacc40c32479da29b154cfd3c368dd42a774cc&v=4",
+    "location": "Tainan City, Taiwan, Republic Of China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-24T12:37:03Z"
   }
 ]
