@@ -246334,5 +246334,41 @@
     "privateContributions": 1,
     "publicContributions": 408,
     "createdAt": "2024-06-09T16:53:34Z"
+  },
+  {
+    "login": "tdsfugal",
+    "name": "Tim Smith",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6570350?s=72&v=4",
+    "location": "Vienna, VA, USA",
+    "company": "Fugal Technologies, LLC",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 226,
+    "publicContributions": 33,
+    "createdAt": "2014-02-02T22:36:49Z"
+  },
+  {
+    "login": "lionssamiulDC71US",
+    "name": "Lions Samiul islam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152033337?s=72&v=4",
+    "location": "Bhairab Bazar 2350 Dhaka Bangladesh>, NA, Washington, DC WA 98237, United States",
+    "company": "Google Developed Group",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-11-25T20:31:51Z"
+  },
+  {
+    "login": "sprintbased",
+    "name": "Sprint Based",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111931345?s=72&u=35f112d6677efd75a5caf3647efe7d0073f1dbc3&v=4",
+    "location": "United States / Canada",
+    "company": "@tourtimegolf",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-23T23:44:55Z"
   }
 ]
