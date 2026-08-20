@@ -188938,5 +188938,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-17T13:04:23Z"
+  },
+  {
+    "login": "PhilipZi",
+    "name": "Phil Zi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102238180?s=72&u=e123fcf1f386c8f399dc9a0caf24af0fec54aa1b&v=4",
+    "location": "Germany/Spain",
+    "company": "Ito Consult GmbH",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 396,
+    "publicContributions": 3,
+    "createdAt": "2022-03-23T14:21:00Z"
+  },
+  {
+    "login": "bulicovic",
+    "name": "Daniel Bulic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22752422?s=72&u=a6129ad4c0c30aaac98316b41110dd49cf467799&v=4",
+    "location": "Taichung City, Taiwan / Karlsruhe, Germany",
+    "company": "Freelance Full Stack Software Engineer",
+    "twitterUsername": "DanielBulicDev",
+    "followers": 3,
+    "privateContributions": 126,
+    "publicContributions": 3,
+    "createdAt": "2016-10-10T17:53:26Z"
   }
 ]
