@@ -1,13 +1,13 @@
 # Followers - DR Congo
 
-Generated: 2026-08-20T08:44:39.157Z
+Generated: 2026-08-20T09:22:42.407Z
 
 Users: 707
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Mardo-k12](https://github.com/Mardo-k12) | Mardo |  | mardo_k12 | kinshasa | 545 |
-| 2 | [NdekoCode](https://github.com/NdekoCode) | Arick Bulakali | @ever-co | ndekocode | Kinshasa, Kigali, Nairobi, Dubai | 292 |
+| 2 | [NdekoCode](https://github.com/NdekoCode) | Arick Bulakali | @ever-co | ndekocode | Kinshasa, Kigali, Nairobi, Dubai | 291 |
 | 3 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | @devscast | BernardNgandu | DR Congo, Lubumbashi | 234 |
 | 4 | [JonathanMonga](https://github.com/JonathanMonga) | Jomo | @MastaGate | jonathan_monga | Lubumbashi, Katanga, DR Congo | 216 |
 | 5 | [Kgermando](https://github.com/Kgermando) | Kgermain | ICTECH |  | Kinshasa | 196 |

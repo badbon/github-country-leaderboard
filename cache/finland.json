@@ -140830,5 +140830,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-12-08T15:37:15Z"
+  },
+  {
+    "login": "koodikeitto",
+    "name": "Jeff Miller",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10789711?s=72&u=f5bf03f4fb2b471f042e90c07b5ced4d35589a93&v=4",
+    "location": "Espoo, Suomi",
+    "company": "@LeadWitchStudios ",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 125,
+    "publicContributions": 46,
+    "createdAt": "2015-01-31T19:53:04Z"
+  },
+  {
+    "login": "janhon3n",
+    "name": "Mikael Janhonen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10882895?s=72&u=e1a935ed763f9589deab484be9d1be4511524c85&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-02-06T13:27:27Z"
+  },
+  {
+    "login": "SirMorland",
+    "name": "Ville Helppolainen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11191004?s=72&u=da54205e0d55458165be3eec911be6c1072a3dd8&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2015-02-25T09:54:06Z"
   }
 ]

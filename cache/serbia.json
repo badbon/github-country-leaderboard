@@ -120958,5 +120958,41 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2012-05-25T06:55:07Z"
+  },
+  {
+    "login": "sprintnt",
+    "name": "Zoran",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2751360?s=72&u=e9c2155a6a7d45ccf6e33cf867b26347a8748839&v=4",
+    "location": "Srbija",
+    "company": "R-DATAGRAM",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-08T14:39:01Z"
+  },
+  {
+    "login": "nikisb",
+    "name": "Nikola",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2614228?s=72&u=5e754dd1c38808558097bfc873df59eb6e855756&v=4",
+    "location": "Sokobanja, Srbija",
+    "company": "Varadero RPG :)",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2012-10-21T17:54:02Z"
+  },
+  {
+    "login": "developer-profile",
+    "name": "Dimitrij Molokov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1555665?s=72&u=faa65bd4b6b50c548b9bba2523b87e39330fe336&v=4",
+    "location": "Bela Crkva, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2,
+    "publicContributions": 14,
+    "createdAt": "2012-03-20T07:56:18Z"
   }
 ]
