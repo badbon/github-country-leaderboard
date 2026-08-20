@@ -148702,5 +148702,77 @@
     "privateContributions": 6,
     "publicContributions": 1,
     "createdAt": "2019-12-07T20:42:34Z"
+  },
+  {
+    "login": "juliancameron79",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56066021?s=72&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-02T07:41:09Z"
+  },
+  {
+    "login": "mohsen-dicopay",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55989526?s=72&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-30T14:26:57Z"
+  },
+  {
+    "login": "cromstel",
+    "name": "cromstelit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58576419?s=72&v=4",
+    "location": "Sweden",
+    "company": "CromStel IT Group",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1345,
+    "publicContributions": 81,
+    "createdAt": "2019-12-06T00:26:28Z"
+  },
+  {
+    "login": "sarahjnatalia",
+    "name": "Sarah Josephine Natalia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58717954?s=72&u=0a1a9b71d9e82fe3823cd78bb75a83e88f0fd382&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "Wittra",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-12-10T04:05:03Z"
+  },
+  {
+    "login": "Ginogracia",
+    "name": "Ginogracia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58231150?s=72&u=b8cfd389bdd32de3986b4ec7186fae3eba4c8eea&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 68,
+    "createdAt": "2019-11-26T18:47:17Z"
+  },
+  {
+    "login": "dev-sjoblom",
+    "name": "Peter Sjöblom",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59137038?s=72&v=4",
+    "location": "Sweden, Umeå",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2019-12-22T10:40:08Z"
   }
 ]

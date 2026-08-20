@@ -111994,5 +111994,113 @@
     "privateContributions": 421,
     "publicContributions": 1,
     "createdAt": "2017-06-04T11:54:55Z"
+  },
+  {
+    "login": "ErFjeldheim",
+    "name": "Erik Hjelm Fjeldheim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20753110?s=72&u=d0fdde73a3915de769206b01a138f9823adfba8d&v=4",
+    "location": "Trondheim, Norge",
+    "company": "Fjelldata",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 373,
+    "publicContributions": 395,
+    "createdAt": "2016-07-31T11:34:04Z"
+  },
+  {
+    "login": "andreasski",
+    "name": "Andreas Skifjeld",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22393766?s=72&v=4",
+    "location": "Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-23T11:37:58Z"
+  },
+  {
+    "login": "ENils1",
+    "name": "Eirik Nilsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19951506?s=72&u=531fd88a9050e99f41c214b2cd4de1c81869158b&v=4",
+    "location": "Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-06-15T11:57:06Z"
+  },
+  {
+    "login": "GlockInMyRory",
+    "name": "Jess",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18698164?s=72&u=b65497e3a93754a8ee761e5ba2965d52f04d9cec&v=4",
+    "location": "Norge",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-27T10:01:21Z"
+  },
+  {
+    "login": "maxthefox9172",
+    "name": "Max",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18535299?s=72&u=6d256f062d789271d6d2846ac4991941dbee9c7a&v=4",
+    "location": "More og Romsdal, Norge",
+    "company": "",
+    "twitterUsername": "maxthefox9172",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-18T16:02:38Z"
+  },
+  {
+    "login": "MortenFinnb",
+    "name": "Morten Finnbråten",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22657180?s=72&u=c254189fc7c54bd33e1589eb4f1b9490260fb35d&v=4",
+    "location": "Norge, Oslo, Eiksmarka",
+    "company": "Auto Agents",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-06T09:51:04Z"
+  },
+  {
+    "login": "kolbjornengeland",
+    "name": "Kolbjørn Engeland",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16834720?s=72&v=4",
+    "location": "Norge",
+    "company": "The Norwegian Water Resources and Energy Directorate",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-22T09:38:53Z"
+  },
+  {
+    "login": "miljowebmaster",
+    "name": "Webmaster Miljødirektoratet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18458716?s=72&u=c1c9e45c9b50ff9ab13efa597116ffd093e7f489&v=4",
+    "location": "Norge",
+    "company": "Miljødirektoratet",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-14T08:03:12Z"
+  },
+  {
+    "login": "edwardacerullo",
+    "name": "Edward Cerullo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21674583?s=72&v=4",
+    "location": "Røyneberg, Norge",
+    "company": "Time and Date AS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-01T13:21:16Z"
   }
 ]

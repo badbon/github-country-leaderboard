@@ -140422,5 +140422,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-04T07:23:28Z"
+  },
+  {
+    "login": "Augustin690",
+    "name": "Augustin Curinier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141822013?s=72&u=3d3b31cfc9d0ce0ca48cc81d46019553460a7bee&v=4",
+    "location": "Lyon / Shanghai",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 280,
+    "publicContributions": 260,
+    "createdAt": "2023-08-09T09:15:23Z"
+  },
+  {
+    "login": "WangYicunZJU",
+    "name": "Wang Yicun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75209317?s=72&v=4",
+    "location": "Singapore; HangZhou, China.",
+    "company": "National University of Singapore (Postdoctoral research fellow); Zhejiang University  (PhD)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-29T13:32:32Z"
   }
 ]
