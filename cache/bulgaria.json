@@ -138658,5 +138658,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-02-20T07:38:30Z"
+  },
+  {
+    "login": "kiryazovkosta",
+    "name": "Kosta Kiryazov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6397727?s=72&u=3c587926bc8d634d1bd0fb3cb34c79622fbcf5af&v=4",
+    "location": "Burgas",
+    "company": "ENSI Control EOOD",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 155,
+    "publicContributions": 240,
+    "createdAt": "2014-01-14T08:54:06Z"
+  },
+  {
+    "login": "kevinhagel",
+    "name": "Michael Kevin Hagel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8751709?s=72&u=ec88e5fb330be10cdc106f800dbe8b26c525eddf&v=4",
+    "location": "Burgas",
+    "company": "BASIS International",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 199,
+    "createdAt": "2014-09-12T15:59:27Z"
+  },
+  {
+    "login": "warwar",
+    "name": "Dmitry Shidlovskiy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6747659?s=72&u=9d8ce5d7a23bd3d40ff184795aa962fd77b80662&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2014-02-21T12:25:40Z"
+  },
+  {
+    "login": "insidious-src",
+    "name": "The Insidious One",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7005243?s=72&u=700cd4b0a242f45e7441743b68c3b70aa3251624&v=4",
+    "location": "Burgas, BG",
+    "company": "@Solventer-Ltd ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2014-03-20T00:22:06Z"
+  },
+  {
+    "login": "hristouzunovaz",
+    "name": "Hristo Uzunov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9898301?s=72&u=9d81d78d7243933f37d44d95d1aba93f603c5975&v=4",
+    "location": "Burgas",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2014-11-22T10:40:27Z"
   }
 ]
