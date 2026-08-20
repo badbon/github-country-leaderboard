@@ -182290,5 +182290,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-11-12T08:32:54Z"
+  },
+  {
+    "login": "arthurnacious",
+    "name": "Arthurnacious",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7934173?s=72&u=9051c25de4113414140389dc34505b6c7133cc9a&v=4",
+    "location": "Bloemfontein",
+    "company": "",
+    "twitterUsername": "arthurnacious",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 106,
+    "createdAt": "2014-06-19T13:55:15Z"
+  },
+  {
+    "login": "jenkinsSAGrid",
+    "name": "Dr. Buildy McTestface",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7726107?s=72&u=0aeb76d2cdcb2fedc217a38017f1f645c4de9dd4&v=4",
+    "location": "Bloemfontein",
+    "company": "Africa-Arabia-Regional Operations Centre",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-28T17:07:08Z"
   }
 ]

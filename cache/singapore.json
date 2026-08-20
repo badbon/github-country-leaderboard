@@ -98047,7 +98047,7 @@
     "company": "",
     "twitterUsername": "ConfuseIous",
     "followers": 25,
-    "privateContributions": 1617,
+    "privateContributions": 1623,
     "publicContributions": 31,
     "createdAt": "2019-01-11T02:56:32Z"
   },
@@ -98071,7 +98071,7 @@
     "company": "Nanyang Technological University",
     "twitterUsername": "shirakuex",
     "followers": 25,
-    "privateContributions": 354,
+    "privateContributions": 355,
     "publicContributions": 114,
     "createdAt": "2019-02-23T05:38:32Z"
   },
@@ -98178,7 +98178,7 @@
     "location": "Singapore",
     "company": "NUS | Computer Science",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 660,
     "publicContributions": 67,
     "createdAt": "2019-05-26T07:17:32Z"
@@ -120514,5 +120514,17 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2015-03-20T11:43:05Z"
+  },
+  {
+    "login": "xavtai",
+    "name": "Xavier Tai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7106516?s=72&u=e9600ac3e73fdbfb202471208462b7e8fd99b495&v=4",
+    "location": "Singapore, Based in Thailand",
+    "company": "EasyScalers",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2014-03-30T10:55:55Z"
   }
 ]
