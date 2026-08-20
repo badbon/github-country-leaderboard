@@ -174130,5 +174130,29 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-09-20T13:16:20Z"
+  },
+  {
+    "login": "JavierSR99",
+    "name": "Javier Sanz ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55575679?s=72&u=444c92af1eff14e9a792c8929157bea6f3f008ac&v=4",
+    "location": "Guadalajara, Spain",
+    "company": "ICP",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2019-09-20T06:50:41Z"
+  },
+  {
+    "login": "davidmrtnzdev",
+    "name": "David Martinez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51479679?s=72&u=ff2efc14f61816801bc613ba68189934847d8566&v=4",
+    "location": "Building software from Guadalajara (Spain)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2019-06-07T11:01:46Z"
   }
 ]
