@@ -183034,5 +183034,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-25T11:59:51Z"
+  },
+  {
+    "login": "FilipDominec",
+    "name": "Filip Dominec",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/511950?s=72&u=fff8ac660d8371b5264e88ef8f7dc86c4dd84d7d&v=4",
+    "location": "Česká republika",
+    "company": "Radalytica a. s.",
+    "twitterUsername": "",
+    "followers": 81,
+    "privateContributions": 103,
+    "publicContributions": 88,
+    "createdAt": "2010-12-06T18:32:25Z"
+  },
+  {
+    "login": "wentura",
+    "name": "Zbynek Svoboda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/354823?s=72&u=a58f3d68bad96a018646c99faa20f9a67d7eb524&v=4",
+    "location": "Česká republika",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 61,
+    "privateContributions": 285,
+    "publicContributions": 182,
+    "createdAt": "2010-08-05T06:20:36Z"
+  },
+  {
+    "login": "Snakeyyy",
+    "name": "Michal Májský",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286510?s=72&u=950de847fa99815e3f429892ab5f2740a3f5f3ca&v=4",
+    "location": "Česká republika",
+    "company": "@digismoothie",
+    "twitterUsername": "snakeyyy",
+    "followers": 12,
+    "privateContributions": 1301,
+    "publicContributions": 2,
+    "createdAt": "2010-05-25T10:27:57Z"
   }
 ]

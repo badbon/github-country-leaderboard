@@ -128026,5 +128026,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-09-04T13:04:01Z"
+  },
+  {
+    "login": "dfyz",
+    "name": "Ivan Komarov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42850?s=72&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "i_komarov",
+    "followers": 66,
+    "privateContributions": 0,
+    "publicContributions": 241,
+    "createdAt": "2008-12-27T09:08:09Z"
+  },
+  {
+    "login": "egv",
+    "name": "Gena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12984?s=72&u=ec0fc50511902b96b216ff1d4613437c0030857e&v=4",
+    "location": "Belgrade - Tel Aviv - Dubai",
+    "company": "Cambrian",
+    "twitterUsername": "",
+    "followers": 65,
+    "privateContributions": 1683,
+    "publicContributions": 3094,
+    "createdAt": "2008-06-08T08:51:43Z"
+  },
+  {
+    "login": "msrdic",
+    "name": "Mladen Srdic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7105?s=72&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "quantumdot",
+    "followers": 59,
+    "privateContributions": 12561,
+    "publicContributions": 603,
+    "createdAt": "2008-04-13T18:19:26Z"
+  },
+  {
+    "login": "caboom",
+    "name": "Igor Bogicevic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7739?s=72&u=03b18cd2a5cdf506e5c1399fcee54c69af40d2c7&v=4",
+    "location": "Belgrade",
+    "company": "Orgnostic",
+    "twitterUsername": "",
+    "followers": 44,
+    "privateContributions": 5,
+    "publicContributions": 0,
+    "createdAt": "2008-04-17T20:50:03Z"
+  },
+  {
+    "login": "vlada5",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32791?s=72&v=4",
+    "location": "belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 40,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-11-05T13:02:51Z"
+  },
+  {
+    "login": "brcha",
+    "name": "Filip Brcic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37038?s=72&v=4",
+    "location": "Europe/Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 27,
+    "publicContributions": 276,
+    "createdAt": "2008-11-28T02:14:34Z"
+  },
+  {
+    "login": "milenko",
+    "name": "Milenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27825?s=72&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-10-06T21:51:22Z"
   }
 ]
