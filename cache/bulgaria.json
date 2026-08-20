@@ -138718,5 +138718,113 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2014-11-22T10:40:27Z"
+  },
+  {
+    "login": "mihailks",
+    "name": "Mihail Slavov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8795636?s=72&u=faa8f11ae038c04da9ceaf97a191c34a8a137c6e&v=4",
+    "location": "Plovdiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-16T17:09:26Z"
+  },
+  {
+    "login": "amasenov",
+    "name": "Aleksandar Asenov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7584248?s=72&u=abfb7631af9d49511b7b23079c5538e42dc36073&v=4",
+    "location": "Plovdiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-14T18:03:02Z"
+  },
+  {
+    "login": "komitoff",
+    "name": "Todor Komitov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7748256?s=72&u=0c849e09d677b04270aa56557788688a4472a9ac&v=4",
+    "location": "Plovdiv",
+    "company": "MIS consulting and development Bulgaria",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2014-05-30T16:15:44Z"
+  },
+  {
+    "login": "kukita123",
+    "name": "MARIANA HRISTOZKOVA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6960845?s=72&v=4",
+    "location": "Plovdiv",
+    "company": "PGEE-Plovdiv",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2014-03-15T16:21:36Z"
+  },
+  {
+    "login": "websygen",
+    "name": "Deniz Fuchidzhiev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6672678?s=72&u=ed0627e1738f2942c94899170484627465a6b4e2&v=4",
+    "location": "Plovdiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-13T14:02:30Z"
+  },
+  {
+    "login": "danisapfirov",
+    "name": "ANTON TANEV TANEV",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6669613?s=72&v=4",
+    "location": "Plovdiv, BG",
+    "company": "",
+    "twitterUsername": "bizwareint",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-02-13T07:25:00Z"
+  },
+  {
+    "login": "mihailmerkov",
+    "name": "Mihail Merkov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7333808?s=72&u=300c9c02769e7ac5c49873f2f78dc6f3623b5307&v=4",
+    "location": "Plovdiv",
+    "company": "Proxiad",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2014-04-18T05:32:44Z"
+  },
+  {
+    "login": "StaykoMitev",
+    "name": "Stayko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8547721?s=72&v=4",
+    "location": "Plovdiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-25T16:54:03Z"
+  },
+  {
+    "login": "vkshopov",
+    "name": "Ventseslav Shopov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8764938?s=72&v=4",
+    "location": "Plovdiv",
+    "company": "ISER-BAS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-14T03:16:20Z"
   }
 ]

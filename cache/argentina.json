@@ -193018,5 +193018,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-27T19:54:56Z"
+  },
+  {
+    "login": "pdomizi",
+    "name": "Pedro Domizi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105084249?s=72&u=7a120bc7e72caede3dd683e0b5484cee141ecabf&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-06T21:49:28Z"
+  },
+  {
+    "login": "pberdasco",
+    "name": "Pablo Berdasco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103134175?s=72&u=a010ac382f29c769b50c2ed5bbf0ce433352e94b&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2022-04-06T16:07:44Z"
+  },
+  {
+    "login": "mrtfog",
+    "name": "Martín Fogliacco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103427713?s=72&u=7d91bb774caade6686307616a3d82bcf4bdd8008&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1511,
+    "publicContributions": 15,
+    "createdAt": "2022-04-11T12:05:45Z"
   }
 ]
