@@ -92338,5 +92338,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-12-23T20:00:06Z"
+  },
+  {
+    "login": "hishamsharif",
+    "name": "Hisham Sharifdeen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65691?s=72&u=f5b2326fcadeed4ad7e74b00b159f063d0b6d718&v=4",
+    "location": "Riyadh KSA",
+    "company": "DirectFN",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2009-03-22T05:52:12Z"
+  },
+  {
+    "login": "tjad",
+    "name": "Tjad Clark",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/140786?s=72&v=4",
+    "location": "Riyadh, KSA",
+    "company": "Humain",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2009-10-16T19:10:47Z"
+  },
+  {
+    "login": "asinha74",
+    "name": "Amit Sinha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114978?s=72&u=b42fec48ef99988284eafcc4baeeb51019301b28&v=4",
+    "location": "Riyadh",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-08-13T14:22:48Z"
+  },
+  {
+    "login": "nahedh",
+    "name": "Nahedh Alharbi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103532?s=72&v=4",
+    "location": "Riyadh",
+    "company": "",
+    "twitterUsername": "nahedh",
+    "followers": 6,
+    "privateContributions": 128,
+    "publicContributions": 4,
+    "createdAt": "2009-07-10T06:42:16Z"
+  },
+  {
+    "login": "hbarakat",
+    "name": "Hamid Barakat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100113?s=72&u=df4d93a02efd0a1bd03b8668f50d3dacd7bb6fb6&v=4",
+    "location": "Riyadh",
+    "company": "",
+    "twitterUsername": "hbar01",
+    "followers": 5,
+    "privateContributions": 396,
+    "publicContributions": 0,
+    "createdAt": "2009-06-29T20:59:59Z"
+  },
+  {
+    "login": "ekhunayn",
+    "name": "ekhunayn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115654?s=72&u=0e859981672681ff8e9c305f467e1636f370bd70&v=4",
+    "location": "Riyadh",
+    "company": "KACST, UoM",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-08-15T17:03:52Z"
+  },
+  {
+    "login": "redaghareeb",
+    "name": "Reda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134504?s=72&u=c5dc0369fa8d08a2bff6c5e1950fe731f4e7c8a7&v=4",
+    "location": "Riyadh",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2009-10-03T08:38:02Z"
+  },
+  {
+    "login": "huslab",
+    "name": "Hussain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117431?s=72&v=4",
+    "location": "Riyadh",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-08-20T09:22:40Z"
   }
 ]

@@ -188002,5 +188002,29 @@
     "privateContributions": 35,
     "publicContributions": 149,
     "createdAt": "2022-11-15T13:51:55Z"
+  },
+  {
+    "login": "marielcaro",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31513192?s=72&v=4",
+    "location": "Santiago del Estero, Argentina",
+    "company": "UNSE",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-31T14:35:02Z"
+  },
+  {
+    "login": "agupalavecino97",
+    "name": "Agustín Palavecino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33093719?s=72&u=a0c80300f6c143bd51afad4f282eeb77e6fd287a&v=4",
+    "location": "Santiago del Estero, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-10-25T13:32:35Z"
   }
 ]
