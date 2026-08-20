@@ -171922,5 +171922,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-15T23:22:49Z"
+  },
+  {
+    "login": "William-Ballesteros-Cortes",
+    "name": "William Alejandro Ballesteros Cortes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65502699?s=72&v=4",
+    "location": "Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-17T16:26:43Z"
+  },
+  {
+    "login": "jorgemariohid",
+    "name": "Jorge Mario",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66262734?s=72&u=a5f8140e13d33500d9aea62a83f6b85dcf8b3e59&v=4",
+    "location": "Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-01T14:38:35Z"
+  },
+  {
+    "login": "Leyendux",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65507448?s=72&u=c0550ae1923e207dc3f61a184c78f911bee4f9cb&v=4",
+    "location": "Medellín, Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 596,
+    "createdAt": "2020-05-17T18:44:30Z"
   }
 ]

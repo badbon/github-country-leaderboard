@@ -153766,5 +153766,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-13T13:32:08Z"
+  },
+  {
+    "login": "nmpy",
+    "name": "namipoyo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86511748?s=72&u=3cff9059864056eee49e36fbddd9a92334560618&v=4",
+    "location": "tokyo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1429,
+    "createdAt": "2021-06-26T07:12:00Z"
+  },
+  {
+    "login": "muru-alpaca",
+    "name": "Murukesh Mohanan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83797086?s=72&u=e0193bae377c680279ee28dd672ad6dad888ae06&v=4",
+    "location": "Tokyo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 922,
+    "publicContributions": 2,
+    "createdAt": "2021-05-07T01:51:43Z"
+  },
+  {
+    "login": "ki303",
+    "name": "Ken Itakura",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81731536?s=72&u=d495671f9bad6e3bf6a74d5a4e59abf29c5ed3f0&v=4",
+    "location": "Tokyo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-01T04:20:54Z"
+  },
+  {
+    "login": "nobuhara",
+    "name": "Koji Nobuhara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83745945?s=72&u=26bb7847712cb0626bf05456829048dc28d12a61&v=4",
+    "location": "Tokyo",
+    "company": "Mapbox",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-06T05:00:48Z"
+  },
+  {
+    "login": "runa31",
+    "name": "runa31",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83308978?s=72&v=4",
+    "location": "Tokyo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-27T19:12:19Z"
+  },
+  {
+    "login": "aoizaki",
+    "name": "aoizaki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82817164?s=72&u=86eb94e2d7a46ffb1f6beb05a3b94beb889ac348&v=4",
+    "location": "Tokyo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-19T12:19:41Z"
   }
 ]

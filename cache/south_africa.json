@@ -157078,5 +157078,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2016-02-06T08:49:09Z"
+  },
+  {
+    "login": "Bitcube-systems",
+    "name": "BitCube Systems",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22076059?s=72&u=91622d201790df416fc649db57b654331da677ac&v=4",
+    "location": "Bloemfontein",
+    "company": "BitCube Systems",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-08T12:17:46Z"
+  },
+  {
+    "login": "hloni23",
+    "name": "LEHLOHONOLO MODISE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20985277?s=72&u=bd1698cc48b3613b37d42f84729fa71ebd8cd5bc&v=4",
+    "location": "Bloemfontein",
+    "company": "Free State Development Corporation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2016-08-12T06:52:08Z"
   }
 ]
