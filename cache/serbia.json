@@ -115066,5 +115066,65 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2013-12-08T09:54:04Z"
+  },
+  {
+    "login": "duxanlol",
+    "name": "Dušan Mandić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3878385?s=72&u=d3ecd6883bf1a1125cea3324a1287185ee7838b1&v=4",
+    "location": "Novi Sad, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-15T20:35:02Z"
+  },
+  {
+    "login": "euroicc",
+    "name": "EuroICC",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4487598?s=72&v=4",
+    "location": "Trscanska 21, 11080 Zemun, Srbija",
+    "company": "EuroICC",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-05-21T09:06:13Z"
+  },
+  {
+    "login": "WVlada",
+    "name": "Vladimir Bukvić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5062610?s=72&u=2ff3275b95665540581e3aff0c3a6255c03ce7be&v=4",
+    "location": "Pancevo, Srbija",
+    "company": "Enthusiast",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 106,
+    "publicContributions": 3,
+    "createdAt": "2013-07-22T06:43:53Z"
+  },
+  {
+    "login": "mmasic",
+    "name": "Milan Mašić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3750324?s=72&u=96a443656b519e6ed4115824ab2aadc1fc86cedd&v=4",
+    "location": "Beograd, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-02T18:31:54Z"
+  },
+  {
+    "login": "ninchica",
+    "name": "Nina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3929783?s=72&v=4",
+    "location": "Srbija, Beograd",
+    "company": "Laboratorijski informacioni sistemi",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-03-21T09:50:49Z"
   }
 ]

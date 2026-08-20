@@ -149923,7 +149923,7 @@
     "company": "MComp AI @ NUS",
     "twitterUsername": "SuryaanshR",
     "followers": 57,
-    "privateContributions": 4363,
+    "privateContributions": 4365,
     "publicContributions": 12,
     "createdAt": "2020-05-17T20:15:57Z"
   },
@@ -177106,5 +177106,17 @@
     "privateContributions": 231,
     "publicContributions": 1,
     "createdAt": "2016-05-19T06:15:58Z"
+  },
+  {
+    "login": "NeoStats-Analytics",
+    "name": "NeoStats Analytics",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144362758?s=72&u=4ebfabc203fdae604823f9cac47ade9cc022d4d3&v=4",
+    "location": "Dubai | Bangalore | London ",
+    "company": "@NeoStats",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-07T15:01:00Z"
   }
 ]

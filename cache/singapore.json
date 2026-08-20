@@ -76171,7 +76171,7 @@
     "company": "NUS",
     "twitterUsername": "",
     "followers": 507,
-    "privateContributions": 152,
+    "privateContributions": 153,
     "publicContributions": 395,
     "createdAt": "2020-04-20T03:38:10Z"
   },
@@ -76303,7 +76303,7 @@
     "company": "",
     "twitterUsername": "zhruji101109",
     "followers": 91,
-    "privateContributions": 59,
+    "privateContributions": 60,
     "publicContributions": 156,
     "createdAt": "2020-04-20T01:00:15Z"
   },
@@ -76315,7 +76315,7 @@
     "company": "",
     "twitterUsername": "DarellChua2",
     "followers": 83,
-    "privateContributions": 7159,
+    "privateContributions": 7195,
     "publicContributions": 1289,
     "createdAt": "2020-04-05T04:45:23Z"
   },
@@ -76435,7 +76435,7 @@
     "company": "University of Newcastle",
     "twitterUsername": "",
     "followers": 55,
-    "privateContributions": 2561,
+    "privateContributions": 2568,
     "publicContributions": 69,
     "createdAt": "2020-04-29T19:43:58Z"
   },
@@ -76807,7 +76807,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 73,
+    "privateContributions": 98,
     "publicContributions": 23,
     "createdAt": "2020-04-11T14:52:31Z"
   },
@@ -76855,8 +76855,8 @@
     "company": "@TikTok",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 3333,
-    "publicContributions": 356,
+    "privateContributions": 3428,
+    "publicContributions": 353,
     "createdAt": "2020-06-13T10:57:56Z"
   },
   {
@@ -76974,9 +76974,9 @@
     "location": "Singapore",
     "company": "Nanyang Technological University",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 618,
-    "publicContributions": 17,
+    "followers": 24,
+    "privateContributions": 614,
+    "publicContributions": 22,
     "createdAt": "2020-06-16T15:17:13Z"
   },
   {
@@ -77143,7 +77143,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 933,
+    "privateContributions": 935,
     "publicContributions": 230,
     "createdAt": "2020-05-27T02:18:41Z"
   },
@@ -77167,7 +77167,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 2028,
+    "privateContributions": 2031,
     "publicContributions": 626,
     "createdAt": "2020-04-29T00:41:43Z"
   },
@@ -96706,5 +96706,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-02-07T14:22:23Z"
+  },
+  {
+    "login": "PoWeiChiao",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30384361?s=72&u=731555bad65b8ba80426ecfe9ba56ee6f90d7f95&v=4",
+    "location": "Taipei, Taiwan, Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-07-23T08:36:44Z"
+  },
+  {
+    "login": "Raphat1991",
+    "name": "Raphat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27988728?s=72&u=32016968f327726db435fc54c89af2a6e3bf9b5e&v=4",
+    "location": "Hanoi, Singapore, Bangkok.",
+    "company": "@TopicaEdumall",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-25T03:50:55Z"
   }
 ]

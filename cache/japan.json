@@ -146818,5 +146818,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-07-17T13:10:55Z"
+  },
+  {
+    "login": "saeki-mototsune",
+    "name": "Saeki Mototsune",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78299121?s=72&u=4ed0e37bf7440843912d2782a68fcc0ec5aea78f&v=4",
+    "location": "Tokyo, Nippon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 134,
+    "publicContributions": 21,
+    "createdAt": "2021-01-31T09:51:52Z"
+  },
+  {
+    "login": "uchu-suzume",
+    "name": "uchu suzume",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90297741?s=72&u=e6e2e9292a2a84661f66e4adaaee2e59b10fad35&v=4",
+    "location": "Nippon",
+    "company": "GShade Secret Bunker",
+    "twitterUsername": "uchu_sparrow",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-08T02:44:07Z"
+  },
+  {
+    "login": "Mizukaze2303",
+    "name": "青葉若林",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93418350?s=72&u=278fceb97ebccffb813a58a90c02dce53acfe442&v=4",
+    "location": "Nippon 🗾",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-10-30T04:30:41Z"
+  },
+  {
+    "login": "barrigabitcoin",
+    "name": "Bitcoin barry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83834166?s=72&u=0704b8efca4dc0fcb17b099fb6d5faff5a740243&v=4",
+    "location": "Nippon",
+    "company": "Celestial enterprises",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-07T16:57:11Z"
   }
 ]
