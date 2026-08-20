@@ -199078,5 +199078,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-09-17T16:38:44Z"
+  },
+  {
+    "login": "tranduchuy98",
+    "name": "Duc Huy, Tran",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38414354?s=72&u=0db5f042666a5436f8d8d699b37c01da206cc767&v=4",
+    "location": "Ha Noi, Viet Nam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2018-04-16T03:21:47Z"
+  },
+  {
+    "login": "gotama142857",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42993311?s=72&u=66b927662eafb9644517aae53d90a7e83b5ef698&v=4",
+    "location": "Viet Nam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1100,
+    "publicContributions": 4,
+    "createdAt": "2018-09-05T06:33:23Z"
   }
 ]

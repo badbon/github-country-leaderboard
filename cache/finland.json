@@ -159454,5 +159454,41 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2014-08-30T08:06:57Z"
+  },
+  {
+    "login": "tranthanhhoang060391",
+    "name": "Tran Thanh Hoang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9476360?s=72&u=34fab6300bfa1226da127605ca936883a4715ae4&v=4",
+    "location": "Salomonkatu 17 A 43, 00100 Helsinki",
+    "company": "Howspace",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2014-10-31T06:32:15Z"
+  },
+  {
+    "login": "sleemer",
+    "name": "Vlad Kovalev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9324890?s=72&u=cb12b32193013231bea030927c0cdc35f1d7f8ae&v=4",
+    "location": "Helsinki",
+    "company": "RELEX Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2014-10-20T18:45:36Z"
+  },
+  {
+    "login": "Supradoc",
+    "name": "Supradoc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7037621?s=72&u=27bd6db86d0de18cd424ebcd780f15966bfe72f6&v=4",
+    "location": "Helsinki",
+    "company": "Software",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 305,
+    "publicContributions": 1,
+    "createdAt": "2014-03-23T11:12:04Z"
   }
 ]
