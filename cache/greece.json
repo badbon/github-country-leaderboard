@@ -158170,5 +158170,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-05-23T17:28:32Z"
+  },
+  {
+    "login": "lfx20",
+    "name": "Aggelos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7349814?s=72&v=4",
+    "location": "Athens",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-19T23:02:00Z"
+  },
+  {
+    "login": "ngrampsas",
+    "name": "Nikolaos Grampsas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9724046?s=72&u=8198a6857aaf36eccccc74730f511015f82f9cf2&v=4",
+    "location": "Athens",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 109,
+    "publicContributions": 0,
+    "createdAt": "2014-11-13T17:17:20Z"
+  },
+  {
+    "login": "iasond",
+    "name": "Iason Zorbas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7417195?s=72&v=4",
+    "location": "Athens",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-27T00:33:18Z"
+  },
+  {
+    "login": "jimkts",
+    "name": "Dimitris Kotsiras",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7807758?s=72&u=6042cda3620268b255a050b7fe946f2e4b2987d5&v=4",
+    "location": "Athens",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2014-06-05T17:02:25Z"
   }
 ]

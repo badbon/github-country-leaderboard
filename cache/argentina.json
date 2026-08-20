@@ -127723,7 +127723,7 @@
     "company": "Basdonax AI",
     "twitterUsername": "",
     "followers": 66,
-    "privateContributions": 187,
+    "privateContributions": 210,
     "publicContributions": 29,
     "createdAt": "2022-04-06T18:48:20Z"
   },
@@ -127747,7 +127747,7 @@
     "company": "hello@marcosdionel.com",
     "twitterUsername": "dioneldev",
     "followers": 41,
-    "privateContributions": 510,
+    "privateContributions": 524,
     "publicContributions": 244,
     "createdAt": "2022-04-05T22:15:11Z"
   },
@@ -127891,7 +127891,7 @@
     "company": "",
     "twitterUsername": "JorgeGeoARG",
     "followers": 25,
-    "privateContributions": 3163,
+    "privateContributions": 3168,
     "publicContributions": 14,
     "createdAt": "2022-04-12T01:42:01Z"
   },
@@ -128311,7 +128311,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1526,
+    "privateContributions": 1530,
     "publicContributions": 5,
     "createdAt": "2022-04-12T20:47:19Z"
   },
@@ -128455,8 +128455,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 449,
-    "publicContributions": 188,
+    "privateContributions": 484,
+    "publicContributions": 154,
     "createdAt": "2022-04-12T18:20:28Z"
   },
   {
@@ -135211,8 +135211,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 46,
-    "privateContributions": 89,
-    "publicContributions": 13,
+    "privateContributions": 92,
+    "publicContributions": 15,
     "createdAt": "2022-04-30T05:31:50Z"
   },
   {
@@ -135247,8 +135247,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 288,
-    "publicContributions": 854,
+    "privateContributions": 290,
+    "publicContributions": 857,
     "createdAt": "2022-05-06T00:34:52Z"
   },
   {
@@ -135403,8 +135403,8 @@
     "company": "@colidevs 🪽",
     "twitterUsername": "thomaspufahl",
     "followers": 21,
-    "privateContributions": 2584,
-    "publicContributions": 31,
+    "privateContributions": 2610,
+    "publicContributions": 36,
     "createdAt": "2022-04-25T13:58:27Z"
   },
   {
@@ -135416,7 +135416,7 @@
     "twitterUsername": "ram4_dev",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 556,
+    "publicContributions": 564,
     "createdAt": "2022-04-28T19:46:12Z"
   },
   {
@@ -135451,7 +135451,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 1286,
+    "privateContributions": 1287,
     "publicContributions": 152,
     "createdAt": "2022-04-26T23:23:15Z"
   },
@@ -141944,7 +141944,7 @@
     "twitterUsername": "",
     "followers": 54,
     "privateContributions": 220,
-    "publicContributions": 987,
+    "publicContributions": 991,
     "createdAt": "2022-05-18T00:57:11Z"
   },
   {
@@ -142339,7 +142339,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 772,
+    "privateContributions": 782,
     "publicContributions": 20,
     "createdAt": "2022-05-22T23:48:54Z"
   },
@@ -148734,7 +148734,7 @@
     "location": "Buenos Aires, Argentina",
     "company": "Ada ITW",
     "twitterUsername": "",
-    "followers": 87,
+    "followers": 88,
     "privateContributions": 114,
     "publicContributions": 86,
     "createdAt": "2022-06-09T21:21:38Z"
@@ -149010,7 +149010,7 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-19T17:32:33Z"
@@ -149203,7 +149203,7 @@
     "company": "@caravana-studio",
     "twitterUsername": "BrendaaMareco",
     "followers": 10,
-    "privateContributions": 1104,
+    "privateContributions": 1105,
     "publicContributions": 38,
     "createdAt": "2022-06-17T19:00:23Z"
   },
@@ -190498,5 +190498,293 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-08T18:10:18Z"
+  },
+  {
+    "login": "diazjoaquin",
+    "name": "Díaz Joaquín",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103289416?s=72&u=fa58c9b826b72ee5bd936618ef673f646b36b221&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 46,
+    "privateContributions": 153,
+    "publicContributions": 70,
+    "createdAt": "2022-04-08T21:47:52Z"
+  },
+  {
+    "login": "JoacoPorro",
+    "name": "Joaco Porro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103942784?s=72&u=ba3ab234b0deed2e8e29bdbc4bd8577dc5e51a8e&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 46,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-18T13:34:20Z"
+  },
+  {
+    "login": "AndywClav",
+    "name": "Andres  Felipe Clavijo Rojas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104153258?s=72&u=6e69e4bd3624d5dc35853745e428357e16620cb9&v=4",
+    "location": "Buenos aires",
+    "company": "ARTECH",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2022-04-21T14:51:24Z"
+  },
+  {
+    "login": "Cornicheli",
+    "name": "Gabriel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107517584?s=72&u=5ebc412c938227f601f040e7b676adc036e2a76c&v=4",
+    "location": "Buenos Aires, Temperley.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 70,
+    "publicContributions": 168,
+    "createdAt": "2022-06-14T23:13:36Z"
+  },
+  {
+    "login": "PatricioCristaldo",
+    "name": "Patricio Cristaldo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106325545?s=72&u=6fd76bbf10d0d2985081efea4e5715c11c250337&v=4",
+    "location": "San Miguel, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2022-05-26T13:24:27Z"
+  },
+  {
+    "login": "UlisesGabriel97",
+    "name": "Ulises Mendez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106325642?s=72&u=da1432ffff3bee680616ee079971e948d255b575&v=4",
+    "location": "San Miguel, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-26T13:25:54Z"
+  },
+  {
+    "login": "Taielmolina01",
+    "name": "Taiel Molina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103949475?s=72&u=220fd35c34e6bb1bc111209e536c64b436c98b16&v=4",
+    "location": "Quilmes, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 343,
+    "publicContributions": 826,
+    "createdAt": "2022-04-18T15:24:54Z"
+  },
+  {
+    "login": "arturoBeccar",
+    "name": "Arturo Beccar-Varela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107512933?s=72&u=4806e5ebb983ddf7cfccad4c6fde54fb6d82983a&v=4",
+    "location": "Buenos Aires",
+    "company": "@openzeppelin",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 45,
+    "publicContributions": 8,
+    "createdAt": "2022-06-14T20:55:58Z"
+  },
+  {
+    "login": "FrancoSanchez2022",
+    "name": "Franco Sanchez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106325232?s=72&u=4cc86c7b379d00d33badb2e02dd357b647acc6a4&v=4",
+    "location": "San Miguel, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-26T13:18:56Z"
+  },
+  {
+    "login": "Falcon-Mauricio",
+    "name": "Mauricio Falcon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105568570?s=72&u=0dc3284361a67be411807a577415c51113b1c83e&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 286,
+    "publicContributions": 106,
+    "createdAt": "2022-05-14T22:38:13Z"
+  },
+  {
+    "login": "ferborquez",
+    "name": "Fernando Borquez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106359651?s=72&u=839d099e0d0df63e00eb2a96b87c6a5bfee90626&v=4",
+    "location": "bella vista, buenos aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-27T01:15:25Z"
+  },
+  {
+    "login": "ThomasTejeda",
+    "name": "Thomas Tejeda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106289926?s=72&u=8a212d4b6d238ec3411f0c83cb71854f4896101f&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-26T01:56:52Z"
+  },
+  {
+    "login": "JuanCruzFerreiraM",
+    "name": "Juan Cruz Ferreira Monteiro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105340870?s=72&u=560d44274c16edf7b2a0a7a81d8facca38a7a8da&v=4",
+    "location": "La Plata, Buenos Aires ",
+    "company": "Universidad Nacional de La Plata",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 99,
+    "publicContributions": 91,
+    "createdAt": "2022-05-11T06:10:41Z"
+  },
+  {
+    "login": "xhyabunny",
+    "name": "૮꒰ ˶• ༝ •˶꒱ა ♡",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106491722?s=72&u=ca281bbdd9686d275e7678f7bc3d2529c5ed4078&v=4",
+    "location": "Buenos Aires",
+    "company": "@xhyabunnyorg",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 10,
+    "publicContributions": 18,
+    "createdAt": "2022-05-29T19:54:52Z"
+  },
+  {
+    "login": "dinoferre",
+    "name": "Dino Ferré",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105014048?s=72&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-05T18:42:53Z"
+  },
+  {
+    "login": "nbrusco",
+    "name": "Nicolas Brusco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108240795?s=72&u=dc3b4e3f9935391d09b38b671c829af02fed5d31&v=4",
+    "location": "Buenos Aires",
+    "company": "@Light-it-labs",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 25,
+    "publicContributions": 18,
+    "createdAt": "2022-06-26T21:31:28Z"
+  },
+  {
+    "login": "Fromero564",
+    "name": "Fer Romero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107083898?s=72&u=be4ddfe57b9954f985ee1e64c19dbbe044d94b22&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2022-06-07T23:29:49Z"
+  },
+  {
+    "login": "AugustV09",
+    "name": "Octavio Tomas Isabella Valenzi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103900758?s=72&u=eede5096785f8768b4c15ecbf65181c06f88211e&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "ValenziOctavio",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-17T19:09:01Z"
+  },
+  {
+    "login": "camilacisnerosdev",
+    "name": "Camila Cisneros",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103437985?s=72&u=2f7e17547e75da93e37844de77c425cfc91bf1aa&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2022-04-11T14:36:10Z"
+  },
+  {
+    "login": "delfinacorr",
+    "name": "Delfina luna Corradini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105253541?s=72&u=864f3602d5496f2e96e0816f9167b2b13d315fc7&v=4",
+    "location": "Cuidad Autonoma buenos aires",
+    "company": "",
+    "twitterUsername": "Delfiicorradini",
+    "followers": 13,
+    "privateContributions": 4,
+    "publicContributions": 280,
+    "createdAt": "2022-05-10T00:15:35Z"
+  },
+  {
+    "login": "enzocazenave",
+    "name": "Enzo Cazenave",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102680110?s=72&u=022cf5c314f38be0de6a6c4ef919ce7b78760e9d&v=4",
+    "location": "Quilmes, Buenos Aires.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 1624,
+    "publicContributions": 196,
+    "createdAt": "2022-03-30T14:58:55Z"
+  },
+  {
+    "login": "NavarroFederico",
+    "name": "Federico Navarro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103010478?s=72&u=e54734b6f913666a6c16d7e7d1fc05d9ff11e5b8&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 74,
+    "publicContributions": 114,
+    "createdAt": "2022-04-05T01:16:32Z"
+  },
+  {
+    "login": "Franco-Calvo",
+    "name": "Franco Calvo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106486606?s=72&u=11fa83716cd0d1e4c90dc54f9e7ea5c1c2fcd478&v=4",
+    "location": "Bahía Blanca (Buenos Aires)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 1648,
+    "publicContributions": 4,
+    "createdAt": "2022-05-29T17:14:07Z"
+  },
+  {
+    "login": "RocioLujan",
+    "name": "Rocio Celeste Lujan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106561540?s=72&u=25c822c7debe36f93a5a3e9f2f1552348cbc1a6b&v=4",
+    "location": "Buenos Aires, Ituzaingo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2022-05-30T22:14:03Z"
   }
 ]
