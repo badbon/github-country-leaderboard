@@ -145882,5 +145882,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-27T12:16:28Z"
+  },
+  {
+    "login": "HorovetskyiYan",
+    "name": "Yan Horovetskiy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92146974?s=72&u=b07a0b6b83e8ab64c747edfb02aa3a68cc0a777e&v=4",
+    "location": "Kharkiv, UA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-08T07:02:15Z"
+  },
+  {
+    "login": "DmyKon",
+    "name": "Dmytro Konstantynov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88392608?s=72&u=0a2702e9c5fee3cced09a45faca85813249f2741&v=4",
+    "location": "Kharkiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-03T15:26:26Z"
+  },
+  {
+    "login": "S1ngleton1",
+    "name": "Serhii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87817315?s=72&v=4",
+    "location": "Kharkiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-22T13:52:41Z"
+  },
+  {
+    "login": "GlareAtMe",
+    "name": "Stiven",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91750407?s=72&u=058fcb01da7041f27b4b145292f8254922a13abb&v=4",
+    "location": "Kharkiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2021-10-01T16:35:42Z"
+  },
+  {
+    "login": "Fallen-Eleonor",
+    "name": "Daniil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95318722?s=72&u=508a73e00a7c653955dc9e8f98e77aeb56b6ea02&v=4",
+    "location": "Kharkiv",
+    "company": "KHPI/UCODE Academy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 65,
+    "publicContributions": 41,
+    "createdAt": "2021-11-30T22:10:21Z"
+  },
+  {
+    "login": "kolesnykmykyta",
+    "name": "Mykyta Kolesnyk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94747665?s=72&v=4",
+    "location": "Kharkiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-20T13:20:13Z"
+  },
+  {
+    "login": "VitalyBashkiser",
+    "name": "Vitalii Bashkiser",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87275923?s=72&u=befeaf1687282b07427c4a8676179c649f3fe79c&v=4",
+    "location": "Kharkiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2021-07-11T16:39:54Z"
+  },
+  {
+    "login": "AntonArtomovNM",
+    "name": "Anton Artomov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86731073?s=72&u=baa86e27b24069f82b014ad708829be9b93549d0&v=4",
+    "location": "Kharkiv, UA",
+    "company": "SoftServe",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-30T14:47:58Z"
   }
 ]

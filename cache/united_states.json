@@ -231094,5 +231094,41 @@
     "privateContributions": 54,
     "publicContributions": 4,
     "createdAt": "2024-11-14T20:37:49Z"
+  },
+  {
+    "login": "korinzumike",
+    "name": "Michael Collins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54752660?s=72&u=bb882075bfab880dcf250c7ec42a3076435a6b2d&v=4",
+    "location": "Santa Fe, New Mexico, USA",
+    "company": "Korinzu Scientific",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-08-31T20:02:43Z"
+  },
+  {
+    "login": "daniel-huang-1230",
+    "name": "Daniel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19476654?s=72&u=14e157124a6aba6438fb2c6d785dbf60fa9aa1a5&v=4",
+    "location": "California, United States  || Taipei, Taiwan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2016-05-19T18:02:12Z"
+  },
+  {
+    "login": "christopherj-adv",
+    "name": "Christopher J.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96812827?s=72&v=4",
+    "location": "New England, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-29T06:44:10Z"
   }
 ]
