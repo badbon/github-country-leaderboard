@@ -136810,5 +136810,77 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-05-08T10:45:34Z"
+  },
+  {
+    "login": "Khrinx",
+    "name": "Phil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10628975?s=72&u=ae01386bce487e70ee2c0e7fa2d2c43d67ff6e4c&v=4",
+    "location": "Norway",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-21T09:42:00Z"
+  },
+  {
+    "login": "Owe-Kristiansen",
+    "name": "Owe Kristiansen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10648986?s=72&u=b5e07374d1bb570b3dbc5236ad263040f70cc8db&v=4",
+    "location": "Sellebakk, Oslo Area, Norway",
+    "company": "IT Prosjekter AS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-22T06:18:08Z"
+  },
+  {
+    "login": "iVilius",
+    "name": "iVilius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10527799?s=72&u=1b7629a143bf021dd63fd672afda6450c2a176c9&v=4",
+    "location": "Norway",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-14T07:33:39Z"
+  },
+  {
+    "login": "tlastad",
+    "name": "Tommy Låstad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11716234?s=72&u=3e547263031cd24e7cbcf8bc3bfaf63cdc5df689&v=4",
+    "location": "Norway",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 829,
+    "publicContributions": 0,
+    "createdAt": "2015-03-30T08:17:43Z"
+  },
+  {
+    "login": "christerjensen",
+    "name": "Christer Jensen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11073675?s=72&v=4",
+    "location": "Norway",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2015-02-19T11:26:19Z"
+  },
+  {
+    "login": "tordbb",
+    "name": "Tord Bjørnevaagen Brandsæter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11409776?s=72&u=b03089bc271093a27b913ce14da5280220fe9fa8&v=4",
+    "location": "Oslo, Norway",
+    "company": "Visma Software Nordic",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 109,
+    "createdAt": "2015-03-10T15:16:26Z"
   }
 ]
