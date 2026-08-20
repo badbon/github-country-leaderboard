@@ -127342,5 +127342,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-10-23T20:17:09Z"
+  },
+  {
+    "login": "tibor-universe",
+    "name": "Tibor Varga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24585168?s=72&u=cf734665e0acdd2c3271ca594b34ba5ee8cd0a19&v=4",
+    "location": "Helsinki",
+    "company": "Happeo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-12-15T09:24:28Z"
+  },
+  {
+    "login": "akkujii",
+    "name": "Jukka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22540880?s=72&u=ecf226b1ea62904e97e19de121575320c65c1450&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2016-09-30T09:20:45Z"
+  },
+  {
+    "login": "Buranku",
+    "name": "Samu Saloranta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23586088?s=72&u=9f08ffc6f505690adcf67c90b6ff762e862bb4ef&v=4",
+    "location": "Helsinki Metropolitan Area",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-11-19T21:43:16Z"
   }
 ]

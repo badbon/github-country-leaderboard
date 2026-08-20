@@ -152926,5 +152926,41 @@
     "privateContributions": 108,
     "publicContributions": 81,
     "createdAt": "2023-03-30T09:21:16Z"
+  },
+  {
+    "login": "Bouncey",
+    "name": "Stuart Taylor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18572518?s=72&u=b839be0e1e0d4f65fb06151b63c8d179f951e181&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 355,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-04-20T10:24:58Z"
+  },
+  {
+    "login": "chriswilson1982",
+    "name": "Chris Wilson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17131659?s=72&u=c5588806429b661b8f4db1075895905f2dc5841a&v=4",
+    "location": "Comber, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 291,
+    "publicContributions": 2,
+    "createdAt": "2016-02-08T22:46:35Z"
+  },
+  {
+    "login": "caolanxyz",
+    "name": "Caolan McKendry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16864978?s=72&u=952fb8b65cf96273458159700fc7e36ee670f88e&v=4",
+    "location": "Northern Ireland",
+    "company": "@Ambertail-Games | @NIGameDevs |",
+    "twitterUsername": "caolanxyz",
+    "followers": 18,
+    "privateContributions": 6,
+    "publicContributions": 1,
+    "createdAt": "2016-01-24T14:31:06Z"
   }
 ]
