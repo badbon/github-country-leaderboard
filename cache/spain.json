@@ -167074,5 +167074,29 @@
     "privateContributions": 244,
     "publicContributions": 456,
     "createdAt": "2023-09-11T07:40:44Z"
+  },
+  {
+    "login": "medicalc",
+    "name": "Simple Medical Calculators",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45972793?s=72&u=9a711999ef8da8e068fc4878a5c42f802eec96e7&v=4",
+    "location": "Santiago de Compostela, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-18T14:51:50Z"
+  },
+  {
+    "login": "DanielCondeOrtiz",
+    "name": "Daniel Conde Ortiz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40266293?s=72&u=b577452469b04976d083e39b0fb7f33c37764187&v=4",
+    "location": "Sweden / Spain ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-14T11:07:49Z"
   }
 ]
