@@ -160447,7 +160447,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 315,
+    "privateContributions": 317,
     "publicContributions": 7,
     "createdAt": "2019-02-16T14:39:22Z"
   },
@@ -174668,7 +174668,7 @@
     "twitterUsername": "mpenaa",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2019-09-20T14:59:15Z"
   },
   {
@@ -183559,7 +183559,7 @@
     "company": "FK Software",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2639,
+    "privateContributions": 2640,
     "publicContributions": 3,
     "createdAt": "2019-11-09T17:35:37Z"
   },
@@ -185062,5 +185062,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-11-03T08:44:39Z"
+  },
+  {
+    "login": "andreas-grimm",
+    "name": "Andreas Grimm",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5579877?s=72&u=85d97c4553b1c4fdfd1b0f8c23224e5ff8f83d29&v=4",
+    "location": "Norway / Netherlands",
+    "company": "private git repository",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 15,
+    "publicContributions": 175,
+    "createdAt": "2013-09-30T20:33:47Z"
   }
 ]

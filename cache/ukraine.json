@@ -192322,5 +192322,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-25T13:20:11Z"
+  },
+  {
+    "login": "MinenkoVladlen",
+    "name": "Vladlen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59701453?s=72&u=74317171ed4d3fda3d6a535118d0beaf3e03226b&v=4",
+    "location": "Dnipro",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2020-01-09T16:25:26Z"
+  },
+  {
+    "login": "AirStaFFF",
+    "name": "Maksym",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60818236?s=72&v=4",
+    "location": "Dnipro",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-02-08T14:12:07Z"
+  },
+  {
+    "login": "Sergiy255",
+    "name": "Sergiy255",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73887592?s=72&v=4",
+    "location": "Dnipro",
+    "company": "EMU",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-03T12:01:56Z"
+  },
+  {
+    "login": "satnetuser001",
+    "name": "Anton Yurchenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76094506?s=72&u=b4eda8a049b0dca9dea8acc9a5c4e6e7edee03d5&v=4",
+    "location": "Ukrain, Dnipro",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2020-12-16T07:55:32Z"
+  },
+  {
+    "login": "Egor1Ka",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61745797?s=72&u=5b1794e888414be68188d76d76a00cc9618dce15&v=4",
+    "location": "Dnipro",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 68,
+    "publicContributions": 52,
+    "createdAt": "2020-03-03T14:33:52Z"
+  },
+  {
+    "login": "milan9111",
+    "name": "Vasyl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75576725?s=72&u=4004a1838c5509727309db7f834b8f65f27dd73e&v=4",
+    "location": "Dnipro, UA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2020-12-06T15:31:48Z"
+  },
+  {
+    "login": "Tem4ik1003",
+    "name": "Tem4ik1003",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73700164?s=72&v=4",
+    "location": "Dnipro",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2020-10-30T12:22:30Z"
   }
 ]
