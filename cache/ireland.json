@@ -182182,5 +182182,65 @@
     "privateContributions": 15,
     "publicContributions": 26,
     "createdAt": "2014-10-23T15:54:04Z"
+  },
+  {
+    "login": "rodoch",
+    "name": "Ronan Doherty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5305694?s=72&u=f7d65e4c65fd703f617dc887b794751fc26ac110&v=4",
+    "location": "Éire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 449,
+    "publicContributions": 26,
+    "createdAt": "2013-08-25T11:38:52Z"
+  },
+  {
+    "login": "v1ctorf",
+    "name": "victorf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3472721?s=72&u=ff0781da931a7efff6bba978952463618d1ba300&v=4",
+    "location": "BÁC, Éire",
+    "company": "Spectrum.Life",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-04T15:27:51Z"
+  },
+  {
+    "login": "supernatix",
+    "name": "Conor Horan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5434268?s=72&v=4",
+    "location": "Mayo, Éire",
+    "company": "SuperNatix",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-11T09:06:26Z"
+  },
+  {
+    "login": "loqster",
+    "name": "ra_ma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5425106?s=72&u=cf4c227442d88e5b9fbef67bacaaa70d27eb41cb&v=4",
+    "location": "Éire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-09-10T07:32:41Z"
+  },
+  {
+    "login": "shanman-2",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3475384?s=72&v=4",
+    "location": "Cork, Éire.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-04T20:50:03Z"
   }
 ]

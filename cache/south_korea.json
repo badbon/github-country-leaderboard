@@ -170767,8 +170767,8 @@
     "company": "Just home",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1486,
-    "publicContributions": 508,
+    "privateContributions": 1549,
+    "publicContributions": 516,
     "createdAt": "2021-10-14T10:51:57Z"
   },
   {
@@ -171068,7 +171068,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 141,
     "createdAt": "2021-07-06T15:03:04Z"
   },
   {
@@ -171367,7 +171367,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 465,
+    "privateContributions": 488,
     "publicContributions": 290,
     "createdAt": "2021-07-16T07:47:28Z"
   },
@@ -171608,7 +171608,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 226,
-    "publicContributions": 800,
+    "publicContributions": 809,
     "createdAt": "2021-08-23T06:39:03Z"
   },
   {
@@ -171776,7 +171776,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 615,
+    "publicContributions": 616,
     "createdAt": "2021-10-08T17:19:02Z"
   },
   {
@@ -171835,7 +171835,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1233,
+    "privateContributions": 1235,
     "publicContributions": 0,
     "createdAt": "2021-08-19T11:40:25Z"
   },
@@ -172015,7 +172015,7 @@
     "company": "Saladlab Inc",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2350,
+    "privateContributions": 2357,
     "publicContributions": 7,
     "createdAt": "2021-09-06T05:00:21Z"
   },
@@ -172051,7 +172051,7 @@
     "company": "LG CNS",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 70,
+    "privateContributions": 72,
     "publicContributions": 13,
     "createdAt": "2021-08-18T14:05:46Z"
   },
@@ -172124,7 +172124,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 9249,
-    "publicContributions": 221,
+    "publicContributions": 224,
     "createdAt": "2021-09-29T13:17:54Z"
   },
   {
@@ -172471,7 +172471,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3095,
+    "privateContributions": 3099,
     "publicContributions": 12,
     "createdAt": "2021-07-07T07:26:09Z"
   },
@@ -172795,7 +172795,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 301,
+    "privateContributions": 302,
     "publicContributions": 0,
     "createdAt": "2021-09-17T06:04:10Z"
   },
@@ -172904,7 +172904,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 238,
     "createdAt": "2021-07-12T23:23:33Z"
   },
   {
@@ -176278,5 +176278,17 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2021-08-18T05:52:00Z"
+  },
+  {
+    "login": "sky0924",
+    "name": "김하늘",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89889962?s=72&u=faaa1c1eaafb960100de640cacdeda71191632ca&v=4",
+    "location": "Republic of Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-01T02:54:59Z"
   }
 ]

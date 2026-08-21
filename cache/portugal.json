@@ -211990,5 +211990,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-21T21:21:03Z"
+  },
+  {
+    "login": "pppedro173",
+    "name": "Pedro Soares",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34283375?s=72&u=89437bd1d9a94752f0fa8c0cd4922292336cd04f&v=4",
+    "location": "Lisbon",
+    "company": "@NTTDATA-EMEA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 7,
+    "publicContributions": 0,
+    "createdAt": "2017-12-05T18:50:47Z"
+  },
+  {
+    "login": "erissonorsso",
+    "name": "EO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27930590?s=72&u=4b944cdcc9407be301c1d9904d476911f205d104&v=4",
+    "location": "Lisbon-PT",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-23T22:29:30Z"
+  },
+  {
+    "login": "leevyth",
+    "name": "sahara.pkl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30632636?s=72&v=4",
+    "location": "Lisbon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-08-01T16:49:21Z"
+  },
+  {
+    "login": "duartevicentedrumond",
+    "name": "duartevicentedrumond",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34099432?s=72&u=1476ecc547c2f5fd3033a57b3fea585ae7d00928&v=4",
+    "location": "Lisbon",
+    "company": "",
+    "twitterUsername": "duartedrumond",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-29T14:39:03Z"
+  },
+  {
+    "login": "vascorola",
+    "name": "Vasco Rola",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25608424?s=72&v=4",
+    "location": "Lisbon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-07T10:14:09Z"
   }
 ]

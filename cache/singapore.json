@@ -120562,5 +120562,29 @@
     "privateContributions": 868,
     "publicContributions": 0,
     "createdAt": "2013-05-01T14:39:46Z"
+  },
+  {
+    "login": "paullo0106",
+    "name": "Paul Lo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4966393?s=72&u=9da3dc1b3236af7769931199893140072a86d963&v=4",
+    "location": "Seattle, Taipei, Shanghai, Manila, Singapore",
+    "company": "Uber",
+    "twitterUsername": "paullotw",
+    "followers": 45,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2013-07-08T16:29:44Z"
+  },
+  {
+    "login": "khakiout",
+    "name": "ruen zapanta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3415132?s=72&u=c6932306441a7e56f8731cef28dc1b45987103e7&v=4",
+    "location": "Manila / Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 1,
+    "publicContributions": 0,
+    "createdAt": "2013-01-29T09:07:34Z"
   }
 ]
