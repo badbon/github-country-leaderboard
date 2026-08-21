@@ -163651,7 +163651,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 120,
+    "privateContributions": 122,
     "publicContributions": 124,
     "createdAt": "2019-06-20T07:29:57Z"
   },
@@ -164299,7 +164299,7 @@
     "company": "@Site-nu ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 4476,
+    "privateContributions": 4497,
     "publicContributions": 13,
     "createdAt": "2019-05-18T22:16:04Z"
   },
@@ -185050,5 +185050,17 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2019-12-06T12:13:23Z"
+  },
+  {
+    "login": "WillemSpek",
+    "name": "Willem van der Spek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33344129?s=72&v=4",
+    "location": "Amsterdam, Lisbon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-03T08:44:39Z"
   }
 ]
