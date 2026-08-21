@@ -234646,5 +234646,29 @@
     "privateContributions": 0,
     "publicContributions": 74,
     "createdAt": "2024-07-31T00:22:09Z"
+  },
+  {
+    "login": "ErosMLima",
+    "name": "Eros M.Lima",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60955355?s=72&v=4",
+    "location": "São Paulo/London/NY/Tokyo",
+    "company": "Software Engineer | Freelancer | Deltah Cognitive | HyperCube | SuperSymmetry High Tech Solutions Inc.",
+    "twitterUsername": "eros_moura",
+    "followers": 252,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2020-02-12T04:40:25Z"
+  },
+  {
+    "login": "reneabreu",
+    "name": "René Abreu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7657827?s=72&u=be91ab2b15bedf53bcbb3b5d2194cfb39518490f&v=4",
+    "location": "Chile/Brazil",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 2056,
+    "publicContributions": 36,
+    "createdAt": "2014-05-21T12:56:32Z"
   }
 ]

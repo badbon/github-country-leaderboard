@@ -188674,5 +188674,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-09-18T19:33:53Z"
+  },
+  {
+    "login": "k1sul1",
+    "name": "Christian Nikkanen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2719615?s=72&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 407,
+    "publicContributions": 42,
+    "createdAt": "2012-11-04T10:08:47Z"
+  },
+  {
+    "login": "kandeshvari",
+    "name": "Dmitry Kurbatov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2115549?s=72&u=365e1e00dad4615ee16e3616a707439206426b76&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-08-08T08:56:43Z"
   }
 ]
