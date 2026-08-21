@@ -91374,7 +91374,7 @@
     "location": "Philippines / South Korea - Worldwide",
     "company": "",
     "twitterUsername": "",
-    "followers": 2213,
+    "followers": 2215,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2021-06-01T16:28:32Z"
@@ -227770,5 +227770,53 @@
     "privateContributions": 0,
     "publicContributions": 135,
     "createdAt": "2012-12-14T03:31:19Z"
+  },
+  {
+    "login": "richardreyes",
+    "name": "Richard Reyes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2698362?s=72&u=22a98f14ff4bf3e0945fdcf0e5c7b4a5cad4bc9f&v=4",
+    "location": "Manila",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-01T11:33:01Z"
+  },
+  {
+    "login": "getnoel",
+    "name": "Noel Santos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1720528?s=72&u=1a76cb79a79effdea727e0caabb7a83d5827d49e&v=4",
+    "location": "Manila",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-05-09T04:42:40Z"
+  },
+  {
+    "login": "Acaran02",
+    "name": "Ron",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1943059?s=72&u=9feb4c89b4eb0de335407886fc8911d5d4105bf4&v=4",
+    "location": "Manila, PH",
+    "company": "a certain SEO company",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-09T13:59:35Z"
+  },
+  {
+    "login": "rvjaywaks",
+    "name": "RV-Jay Joaquin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2319264?s=72&v=4",
+    "location": "Manila",
+    "company": "C88",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-10T17:58:16Z"
   }
 ]
