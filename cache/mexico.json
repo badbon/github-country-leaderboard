@@ -146971,7 +146971,7 @@
     "company": "@planetscale",
     "twitterUsername": "fouioui",
     "followers": 109,
-    "privateContributions": 3301,
+    "privateContributions": 3312,
     "publicContributions": 208,
     "createdAt": "2018-01-24T19:27:00Z"
   },
@@ -147367,7 +147367,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 792,
+    "privateContributions": 793,
     "publicContributions": 0,
     "createdAt": "2018-05-15T22:49:09Z"
   },
@@ -147595,7 +147595,7 @@
     "company": "",
     "twitterUsername": "TuentyFaiv",
     "followers": 23,
-    "privateContributions": 1105,
+    "privateContributions": 1108,
     "publicContributions": 31,
     "createdAt": "2018-03-14T20:59:26Z"
   },
@@ -147655,7 +147655,7 @@
     "company": "@Fondeadora ",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 323,
+    "privateContributions": 374,
     "publicContributions": 2,
     "createdAt": "2018-03-05T05:22:10Z"
   },
@@ -147991,7 +147991,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 157,
+    "privateContributions": 165,
     "publicContributions": 0,
     "createdAt": "2018-04-13T14:40:32Z"
   },
@@ -148831,7 +148831,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1744,
+    "privateContributions": 1745,
     "publicContributions": 23,
     "createdAt": "2018-06-08T21:18:52Z"
   },
@@ -155299,7 +155299,7 @@
     "company": "@madincohq ",
     "twitterUsername": "mathcrln",
     "followers": 28,
-    "privateContributions": 1437,
+    "privateContributions": 1443,
     "publicContributions": 43,
     "createdAt": "2018-11-02T20:26:36Z"
   },
@@ -156764,7 +156764,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 1,
-    "publicContributions": 189,
+    "publicContributions": 193,
     "createdAt": "2018-10-19T13:57:05Z"
   },
   {
@@ -165694,5 +165694,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-05-21T16:40:58Z"
+  },
+  {
+    "login": "XGEu2X",
+    "name": "Gerardo L. Maldonado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17149830?s=72&u=1c585f4e52800ecabfb12286b6341951d9c7cef9&v=4",
+    "location": "Santiago de Querétaro, Querétaro, México ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2016-02-09T20:46:05Z"
   }
 ]
