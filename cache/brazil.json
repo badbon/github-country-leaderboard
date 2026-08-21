@@ -217078,5 +217078,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-10T22:25:00Z"
+  },
+  {
+    "login": "DLzada",
+    "name": "Daniel Luiz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149540441?s=72&v=4",
+    "location": "Brazil, South America",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 4,
+    "publicContributions": 456,
+    "createdAt": "2023-10-31T22:02:21Z"
+  },
+  {
+    "login": "0xUzu",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124304912?s=72&u=1591374e49322674618a802bddde16cb69e151c1&v=4",
+    "location": "Brasil, South America",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-02-02T19:41:58Z"
+  },
+  {
+    "login": "RubianoAndy",
+    "name": "Andy Rubiano™",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49822006?s=72&u=1d061f916647a1a39d43edfbf276a04c6a0c7f33&v=4",
+    "location": "Brasil, Colombia",
+    "company": "Andy Rubiano™ - plantas carnívoras",
+    "twitterUsername": "RubianoAndy",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 111,
+    "createdAt": "2019-04-20T21:17:21Z"
   }
 ]

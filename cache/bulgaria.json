@@ -130807,7 +130807,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1693,
+    "privateContributions": 1700,
     "publicContributions": 337,
     "createdAt": "2014-02-10T11:11:30Z"
   },
@@ -135667,7 +135667,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2552,
+    "privateContributions": 2557,
     "publicContributions": 0,
     "createdAt": "2014-03-19T09:41:10Z"
   },
@@ -141226,5 +141226,125 @@
     "privateContributions": 118,
     "publicContributions": 0,
     "createdAt": "2014-06-27T16:02:00Z"
+  },
+  {
+    "login": "OmegaSkiller",
+    "name": "Ivaylo Popov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6773273?s=72&u=fa3d99524a4e0613fdbee85f9b002907f43c2e9f&v=4",
+    "location": "Varna",
+    "company": "@CodeChameleonLLC @ReactionCRM @DonorWrangler",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 796,
+    "publicContributions": 18,
+    "createdAt": "2014-02-24T16:26:04Z"
+  },
+  {
+    "login": "erenkibar",
+    "name": "Eren Kibar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8850064?s=72&u=ed876a49fca1ef06d193c0ead0841ad5171dfadb&v=4",
+    "location": "Varna ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-09-21T11:26:47Z"
+  },
+  {
+    "login": "Tseko",
+    "name": "Tseko Tsekov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9849054?s=72&u=cfc09483f86cbd07ebec5aa49c0ebfd6aa248bb9&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2014-11-19T18:28:02Z"
+  },
+  {
+    "login": "VolodymyrGalushka",
+    "name": "Volodymyr Galushka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9430477?s=72&u=ba6ee3bc7c16a2a82aa40f23cd1713146ec15e09&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-28T10:07:26Z"
+  },
+  {
+    "login": "DenislavPopov",
+    "name": "Denislav Popov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6968238?s=72&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-03-16T18:39:06Z"
+  },
+  {
+    "login": "rnacheva",
+    "name": "Radka Nacheva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9884281?s=72&u=44894c4ac88bbc0579803a2a3793a734d545ee33&v=4",
+    "location": "Varna",
+    "company": "University of Economics - Varna",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2014-11-21T14:22:30Z"
+  },
+  {
+    "login": "rbtk",
+    "name": "Atanas Chervarov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6542582?s=72&u=47b89d43b6496d3af5a214c7daaa2a5d089d61da&v=4",
+    "location": "Varna",
+    "company": "Waphoo JSC",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-01-30T08:21:11Z"
+  },
+  {
+    "login": "kristiyan92",
+    "name": "Kristiyan Vurbanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7492605?s=72&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-05T19:30:36Z"
+  },
+  {
+    "login": "ngiteam",
+    "name": "Vlado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9555103?s=72&u=37e34241c4ad97e7c9dd9be01bc18327e73395ce&v=4",
+    "location": "Varna",
+    "company": "NGi-TEAM",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 111,
+    "publicContributions": 1,
+    "createdAt": "2014-11-04T16:10:56Z"
+  },
+  {
+    "login": "ati1",
+    "name": "Boris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9743973?s=72&u=b8a90b59355b8bfa8d0b25bec1c218c45045d572&v=4",
+    "location": "varna, Bg",
+    "company": "not programmer job",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-11-14T12:26:08Z"
   }
 ]
