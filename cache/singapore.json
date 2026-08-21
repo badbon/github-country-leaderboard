@@ -112844,7 +112844,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 131,
     "createdAt": "2019-07-22T08:40:21Z"
   },
   {
@@ -120538,5 +120538,29 @@
     "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2014-06-13T10:33:29Z"
+  },
+  {
+    "login": "rorykoehler",
+    "name": "Rory Koehler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7286286?s=72&u=a21e1d6b649439db795f69ed8e95799fe231e6ed&v=4",
+    "location": "Berlin, Singapore, Dublin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-04-14T05:47:43Z"
+  },
+  {
+    "login": "zaritzki",
+    "name": "Zar Salazar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4312638?s=72&u=0ced9a6d6904789319d608c901dce60ceebc11cb&v=4",
+    "location": "Ireland - Singapore - Philippines",
+    "company": "@dotzar @oragons",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 868,
+    "publicContributions": 0,
+    "createdAt": "2013-05-01T14:39:46Z"
   }
 ]
