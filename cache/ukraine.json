@@ -194482,5 +194482,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-16T13:31:08Z"
+  },
+  {
+    "login": "AndrRyaz",
+    "name": "Andrey Riazantsev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71251809?s=72&u=98e37e02437b7aa5b864bdbdf4648834f12a6608&v=4",
+    "location": "Kiev",
+    "company": "Upplabs",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-14T07:05:26Z"
+  },
+  {
+    "login": "rootarchy",
+    "name": "artem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71135095?s=72&v=4",
+    "location": "Kiev",
+    "company": "Agapornis",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-11T13:03:23Z"
+  },
+  {
+    "login": "Shmuklerr",
+    "name": "Roman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63610545?s=72&v=4",
+    "location": "Kiev",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-13T18:52:43Z"
   }
 ]
