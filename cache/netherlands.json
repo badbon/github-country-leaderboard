@@ -184978,5 +184978,77 @@
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2019-11-06T20:02:22Z"
+  },
+  {
+    "login": "massuus",
+    "name": "Massuus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58392201?s=72&u=cb926b1d980bdeeaccb0641bc314518487455fa9&v=4",
+    "location": "The Netherlands",
+    "company": "Algebrakit",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 284,
+    "publicContributions": 181,
+    "createdAt": "2019-12-01T13:28:43Z"
+  },
+  {
+    "login": "MFMdeRooij",
+    "name": "Martin F.M. de Rooij, PhD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58552182?s=72&u=14ac25dc58554a09a107a18cd6897e84d1eb6b38&v=4",
+    "location": "Amsterdam, the Netherlands",
+    "company": "Amsterdam UMC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2019-12-05T10:11:37Z"
+  },
+  {
+    "login": "abossers-uu",
+    "name": "Alex Bossers",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58072055?s=72&u=23ff1371b0ec71902902b4be5c095b787b3b3c6b&v=4",
+    "location": "Utrecht, The Netherlands",
+    "company": "UU-IRAS",
+    "twitterUsername": "a_bossers",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2019-11-22T10:25:50Z"
+  },
+  {
+    "login": "CultriX-Github",
+    "name": "CultriX",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57349729?s=72&v=4",
+    "location": "Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2019-11-04T09:58:48Z"
+  },
+  {
+    "login": "MarcelSiebes",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57792298?s=72&v=4",
+    "location": "Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-15T08:52:00Z"
+  },
+  {
+    "login": "nomevas",
+    "name": "Naum Puroski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58595189?s=72&u=aaa54cc5e38e7099793728cda5433b42c728a545&v=4",
+    "location": "Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2019-12-06T12:13:23Z"
   }
 ]

@@ -216130,5 +216130,29 @@
     "privateContributions": 281,
     "publicContributions": 0,
     "createdAt": "2022-11-16T15:04:11Z"
+  },
+  {
+    "login": "dzonyprogramuje",
+    "name": "Dzony Programuje",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62352311?s=72&u=ff3808a6e04eec117df56bd8bc43d1b0c3c42ff1&v=4",
+    "location": "Germany / Poland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-03-18T18:01:44Z"
+  },
+  {
+    "login": "p-f",
+    "name": "Philip Fritzsche",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6573039?s=72&v=4",
+    "location": "Zurich, Switzerland (+ Leipzig, Germany)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2014-02-03T09:21:23Z"
   }
 ]
