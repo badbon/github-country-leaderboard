@@ -175894,5 +175894,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-01-22T11:08:25Z"
+  },
+  {
+    "login": "djpane",
+    "name": "ppahka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3320897?s=72&u=369f47c0497e0637d79628dd09de6e57c244b474&v=4",
+    "location": "Helsinki",
+    "company": "Vallgård Digital Solutions Oy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 6,
+    "publicContributions": 0,
+    "createdAt": "2013-01-20T13:42:36Z"
+  },
+  {
+    "login": "jaavalli",
+    "name": "Ville-Valtteri Jäävalli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5060302?s=72&u=8603bdf6839325aa40512268f337cedf957376d5&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-21T21:05:20Z"
+  },
+  {
+    "login": "potatoronin",
+    "name": "Alex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5401888?s=72&u=672c60798009ffc1460f7e6fa3713afac90558ae&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-06T18:20:27Z"
+  },
+  {
+    "login": "tuomotlaine",
+    "name": "Tuomo Laine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5708962?s=72&u=bea3fb303c90c9fa80410d5e5879d7ebdd943884&v=4",
+    "location": "Helsinki",
+    "company": "Twice Commerce",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-17T11:30:38Z"
   }
 ]
