@@ -240382,5 +240382,65 @@
     "privateContributions": 14,
     "publicContributions": 5,
     "createdAt": "2022-03-13T09:47:12Z"
+  },
+  {
+    "login": "imu93",
+    "name": "Isaac Martinez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101737595?s=72&u=56cc069e0df4d95c5bab230391de8e007546ed56&v=4",
+    "location": "Toronto",
+    "company": "University of Toronto",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 87,
+    "createdAt": "2022-03-16T16:50:30Z"
+  },
+  {
+    "login": "francoyu23",
+    "name": "francoyu23",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101814364?s=72&v=4",
+    "location": "Toronto",
+    "company": "AMD",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-17T13:58:01Z"
+  },
+  {
+    "login": "Mich-L5",
+    "name": "Micha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99766541?s=72&v=4",
+    "location": "Toronto",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-02-15T21:17:57Z"
+  },
+  {
+    "login": "SohiniRC-bit",
+    "name": "Sohini Roy Chowdhury",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98837997?s=72&u=8fab7ec44d640d17e626e4d14805abdbabb2634a&v=4",
+    "location": "Toronto",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2022-02-01T17:11:51Z"
+  },
+  {
+    "login": "alexyin0429",
+    "name": "Weilin Yin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97622631?s=72&u=27877c33ca96ca10fb109d6d907fb2fb72cc4973&v=4",
+    "location": "Toronto",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-01-12T17:10:24Z"
   }
 ]

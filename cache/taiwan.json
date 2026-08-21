@@ -181690,5 +181690,41 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2015-06-18T06:38:04Z"
+  },
+  {
+    "login": "ivon852",
+    "name": "Ivon Huang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9528184?s=72&u=de4fd1c436f73dc2919099d0f3adc06ad98451f6&v=4",
+    "location": "Republic of China (Taiwan)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 324,
+    "privateContributions": 1172,
+    "publicContributions": 57,
+    "createdAt": "2014-11-03T09:20:01Z"
+  },
+  {
+    "login": "Wilseanhsu",
+    "name": "Wilseanhsu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8469898?s=72&v=4",
+    "location": "Republic of China (Taiwan)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-17T08:05:04Z"
+  },
+  {
+    "login": "KuanyuJiang",
+    "name": "Kuanyu Jiang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8336796?s=72&u=780286544337af211c19142b4339f8567138c9c7&v=4",
+    "location": "Taipei, Taiwan/Republic Of China",
+    "company": "Ite2 Technology Inc.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-02T10:08:15Z"
   }
 ]

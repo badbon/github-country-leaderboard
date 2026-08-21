@@ -195766,5 +195766,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2012-04-26T07:41:14Z"
+  },
+  {
+    "login": "FlorianRachor",
+    "name": "Florian Rachor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1658506?s=72&u=8c0ebac39ffbf95d9270b018b8726dcd66946f39&v=4",
+    "location": "Vienna",
+    "company": "Strucinspect",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-04-19T08:43:55Z"
+  },
+  {
+    "login": "thomas-fritz",
+    "name": "Thomas Fritz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2299684?s=72&v=4",
+    "location": "Vienna",
+    "company": "meinKauf",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-07T13:29:40Z"
   }
 ]
