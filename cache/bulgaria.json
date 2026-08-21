@@ -142339,7 +142339,7 @@
     "company": "Colucci & Cie LP",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 1016,
+    "privateContributions": 1017,
     "publicContributions": 310,
     "createdAt": "2013-09-23T15:24:16Z"
   },
@@ -150490,5 +150490,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-07-16T07:51:28Z"
+  },
+  {
+    "login": "antsht",
+    "name": "Anton Shtern",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5156432?s=72&u=31f2c6400b744f7420402455c570a8349f043c44&v=4",
+    "location": "Burgas/Yaroslavl",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 356,
+    "publicContributions": 207,
+    "createdAt": "2013-08-03T19:18:51Z"
+  },
+  {
+    "login": "todorstoianov",
+    "name": "Todor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5197386?s=72&u=33033786210b3b8072eb73e4aa47e55103945d3f&v=4",
+    "location": "Plovdiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-09T13:07:31Z"
+  },
+  {
+    "login": "devsoul",
+    "name": "Stoyan Rangeλov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3242856?s=72&u=9af095df5875fb1f962b1e20bd391200137c932a&v=4",
+    "location": "Plovdiv/London",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 1152,
+    "publicContributions": 30,
+    "createdAt": "2013-01-11T08:59:41Z"
+  },
+  {
+    "login": "TTeRzY",
+    "name": "Marin Terziyski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5521213?s=72&u=60c16ae40d765896c56dc91f30903e061ff6cd0d&v=4",
+    "location": "Plovdiv",
+    "company": "Delasport",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-09-23T18:16:37Z"
+  },
+  {
+    "login": "ivangotoy",
+    "name": "Ivan Angelov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3648115?s=72&u=84850cf05afcf74390811ddf25c1b79d92b41df8&v=4",
+    "location": "Plovdiv, BG",
+    "company": "Media IT Services",
+    "twitterUsername": "ivangotoy",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 76,
+    "createdAt": "2013-02-20T14:09:49Z"
+  },
+  {
+    "login": "tddold",
+    "name": "Todor Dakov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5052626?s=72&u=167875fceb8fe7c13ffaa04690ec6d9e9406c74f&v=4",
+    "location": "Plovdiv",
+    "company": "Deokom OOD",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-20T08:32:25Z"
+  },
+  {
+    "login": "twinsdz",
+    "name": "Desislava Zapryanova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4608886?s=72&u=53ddf49deebe95a509737016a544aece787d6f0a&v=4",
+    "location": "Plovdiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2013-06-04T08:07:51Z"
+  },
+  {
+    "login": "evvo",
+    "name": "Evtimiy Mihaylov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4643733?s=72&v=4",
+    "location": "Plovdiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-07T21:31:48Z"
+  },
+  {
+    "login": "dmihaylov92",
+    "name": "Denislav Mihaylov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5844413?s=72&v=4",
+    "location": "Plovdiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-03T16:17:33Z"
   }
 ]
