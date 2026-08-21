@@ -184940,7 +184940,7 @@
     "twitterUsername": "barrymdoyle",
     "followers": 94,
     "privateContributions": 620,
-    "publicContributions": 1368,
+    "publicContributions": 1369,
     "createdAt": "2013-06-11T22:13:34Z"
   },
   {
@@ -193066,5 +193066,89 @@
     "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2013-06-25T06:23:37Z"
+  },
+  {
+    "login": "henzard",
+    "name": "Henzard Kruger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5329395?s=72&v=4",
+    "location": "Bloemfontein",
+    "company": "Picahoo",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 829,
+    "createdAt": "2013-08-28T11:31:47Z"
+  },
+  {
+    "login": "Microzone",
+    "name": "microzonesolutions",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3861838?s=72&u=b0aea29e08c508422b65b1389bb7f6260c230b56&v=4",
+    "location": "Bloemfontein",
+    "company": "@microzone",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-14T07:28:14Z"
+  },
+  {
+    "login": "JasoonS",
+    "name": "Jason Smythe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6032276?s=72&v=4",
+    "location": "Cape Town",
+    "company": "envio.dev",
+    "twitterUsername": "jasoonsmythe",
+    "followers": 123,
+    "privateContributions": 2729,
+    "publicContributions": 270,
+    "createdAt": "2013-11-25T15:35:52Z"
+  },
+  {
+    "login": "VernonGrant",
+    "name": "Vernon Grant",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5819017?s=72&u=b2144152fbdcb8ff7090f30342a17d27aa8cbb8d&v=4",
+    "location": "Cape Town",
+    "company": "@twothreebird",
+    "twitterUsername": "",
+    "followers": 97,
+    "privateContributions": 1513,
+    "publicContributions": 3,
+    "createdAt": "2013-10-31T01:53:20Z"
+  },
+  {
+    "login": "DenDen047",
+    "name": "Naoya Muramatsu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6120047?s=72&u=35cbaa011df3953ef8821b8b051b1eb0f03da971&v=4",
+    "location": "Cape Town",
+    "company": "University of Cape Town",
+    "twitterUsername": "denden047",
+    "followers": 49,
+    "privateContributions": 1741,
+    "publicContributions": 370,
+    "createdAt": "2013-12-06T05:06:02Z"
+  },
+  {
+    "login": "danielgalasko",
+    "name": "Daniel Galasko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4479146?s=72&u=faa06a39a793d0e0b9c4f3be765a460c3180511c&v=4",
+    "location": "Cape Town",
+    "company": "@overhq ",
+    "twitterUsername": "",
+    "followers": 46,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-05-20T13:08:21Z"
+  },
+  {
+    "login": "wmv",
+    "name": "Wilson M. de N. Canda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4395323?s=72&u=eacf19655e64c07d266f4276870d41c1104b247c&v=4",
+    "location": "Cape Town",
+    "company": "MetaSolves",
+    "twitterUsername": "_met4four_",
+    "followers": 45,
+    "privateContributions": 2048,
+    "publicContributions": 23,
+    "createdAt": "2013-05-10T09:55:21Z"
   }
 ]

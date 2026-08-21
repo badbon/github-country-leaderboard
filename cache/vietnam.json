@@ -220846,5 +220846,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-12-23T03:42:01Z"
+  },
+  {
+    "login": "kinhnghiemso",
+    "name": "Kinh Nghiem So",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34001699?s=72&v=4",
+    "location": "Ho Chi Minh, Viet Nam",
+    "company": "Kinh Nghiệm Số",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-11-26T12:11:34Z"
+  },
+  {
+    "login": "dragonknight320",
+    "name": "David Le",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24969416?s=72&v=4",
+    "location": "Viet Nam",
+    "company": "NAB VN",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2017-01-07T02:52:10Z"
+  },
+  {
+    "login": "dancinglights22",
+    "name": "Nguyen Phuoc Duy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25906968?s=72&u=83013d915476b44dd2c2a7f63e16a64289dbb08d&v=4",
+    "location": "Viet Nam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-02-20T16:26:18Z"
+  },
+  {
+    "login": "tuyenvd1177",
+    "name": "Tuyen Vu Duc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26272336?s=72&u=d6d0cca5c42c8cbd9af204d02924337f039b0d83&v=4",
+    "location": "Ha Noi, Viet Nam",
+    "company": "@sun-asterisk",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-03-08T08:55:07Z"
+  },
+  {
+    "login": "sonqh",
+    "name": "Quach Hoanh Son",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32793739?s=72&u=18566e9a60bb801f49113545de1f33b570f263e7&v=4",
+    "location": "Viet Nam",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2017-10-14T11:23:50Z"
+  },
+  {
+    "login": "Enzophan",
+    "name": "Nhan Phan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32973466?s=72&u=5cc55546289e642d7773c59ed318e76259139a70&v=4",
+    "location": "Da Nang, Viet Nam",
+    "company": "",
+    "twitterUsername": "ZinzoPhan",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 102,
+    "createdAt": "2017-10-21T03:11:33Z"
+  },
+  {
+    "login": "Van-Giang-Pro",
+    "name": "Giang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32243241?s=72&u=d70996a680f8d5c3a1c223ae8d3819ea3f56940e&v=4",
+    "location": "Viet Nam",
+    "company": "First Solar",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 89,
+    "createdAt": "2017-09-24T15:08:40Z"
+  },
+  {
+    "login": "dattrink",
+    "name": "DatTrink",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27615648?s=72&u=25dbbd6339e467708d241512a2d2ef74bd11ab56&v=4",
+    "location": "Can Tho, Viet Nam",
+    "company": "CUSC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2017-04-16T08:45:52Z"
   }
 ]
