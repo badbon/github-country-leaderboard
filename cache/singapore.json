@@ -111883,7 +111883,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1836,
+    "privateContributions": 1837,
     "publicContributions": 45,
     "createdAt": "2019-09-14T09:54:45Z"
   },
@@ -112244,7 +112244,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 30,
     "createdAt": "2019-08-26T10:05:26Z"
   },
   {
@@ -112579,7 +112579,7 @@
     "company": "Digipen - Singapore Institute of Technology",
     "twitterUsername": "Xraee",
     "followers": 2,
-    "privateContributions": 242,
+    "privateContributions": 243,
     "publicContributions": 87,
     "createdAt": "2019-07-02T00:42:48Z"
   },
@@ -113850,7 +113850,7 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 202,
     "createdAt": "2019-07-20T02:03:30Z"
@@ -120526,5 +120526,17 @@
     "privateContributions": 0,
     "publicContributions": 46,
     "createdAt": "2014-03-30T10:55:55Z"
+  },
+  {
+    "login": "Mevrael",
+    "name": "Mev-Rael",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7879528?s=72&u=6659ce3d948f52f783fc330765847b8eba825dad&v=4",
+    "location": "Austin, Dublin, Singapore",
+    "company": "ATHENNO | Mev-Rael Consulting",
+    "twitterUsername": "mevrael",
+    "followers": 103,
+    "privateContributions": 5,
+    "publicContributions": 0,
+    "createdAt": "2014-06-13T10:33:29Z"
   }
 ]
