@@ -155719,7 +155719,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 213,
+    "privateContributions": 214,
     "publicContributions": 336,
     "createdAt": "2021-03-13T08:40:42Z"
   },
@@ -156175,7 +156175,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 175,
+    "privateContributions": 176,
     "publicContributions": 3,
     "createdAt": "2021-01-20T05:29:13Z"
   },
@@ -176254,5 +176254,17 @@
     "privateContributions": 1496,
     "publicContributions": 11,
     "createdAt": "2015-11-23T01:26:28Z"
+  },
+  {
+    "login": "zenga123",
+    "name": "zenga123",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71779997?s=72&u=1a7cc29eac23b5cf4b1079a26d08180b6ba51f71&v=4",
+    "location": "South Korea, Busan / Japan, Sendai",
+    "company": "Dong-Eui University / Tohoku Gakuin University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 91,
+    "publicContributions": 0,
+    "createdAt": "2020-09-23T15:47:12Z"
   }
 ]

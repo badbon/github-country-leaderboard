@@ -164506,5 +164506,29 @@
     "privateContributions": 2786,
     "publicContributions": 1,
     "createdAt": "2014-02-10T09:35:21Z"
+  },
+  {
+    "login": "thomasjsn",
+    "name": "Thomas Jensen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6061006?s=72&u=8d0ff67e2760bd1940775f6d50e3d5ebba764f05&v=4",
+    "location": "Kingdom of Norway",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2013-11-28T17:56:34Z"
+  },
+  {
+    "login": "nwgat",
+    "name": "nwgat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5809156?s=72&u=642d21631f7881ccc2edf8504cb22285b76a3604&v=4",
+    "location": "Kingdom of Norway",
+    "company": "?",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 159,
+    "createdAt": "2013-10-30T01:05:21Z"
   }
 ]
