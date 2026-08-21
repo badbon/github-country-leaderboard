@@ -213322,5 +213322,17 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2013-11-28T10:13:11Z"
+  },
+  {
+    "login": "lucasb-eyer",
+    "name": "Lucas Beyer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1476029?s=72&v=4",
+    "location": "<3 Belgium, Switzerland",
+    "company": "MSL Zürich (Ex: @openai @google Brain/DeepMind)",
+    "twitterUsername": "",
+    "followers": 996,
+    "privateContributions": 1491,
+    "publicContributions": 331,
+    "createdAt": "2012-02-26T15:27:23Z"
   }
 ]
