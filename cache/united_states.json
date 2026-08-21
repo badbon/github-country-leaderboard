@@ -268330,5 +268330,53 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2024-01-16T19:00:12Z"
+  },
+  {
+    "login": "ajaniq",
+    "name": "Ajani Quibuyen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175079511?s=72&u=58499598e5e647428d28fcebe5707ebb48ded161&v=4",
+    "location": "Seattle, WA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2024-07-09T03:19:45Z"
+  },
+  {
+    "login": "ericktheredd5875",
+    "name": "Eric Harris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187707024?s=72&u=fba4e878b9715e15ca6513ff1bd0d05ddab3ae5d&v=4",
+    "location": "Seattle, Washington",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 73,
+    "createdAt": "2024-11-07T23:49:32Z"
+  },
+  {
+    "login": "kashifsayyed30",
+    "name": "Kashif Sayyed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160205966?s=72&v=4",
+    "location": "Seattle",
+    "company": "Amazon",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-02-16T05:04:49Z"
+  },
+  {
+    "login": "rhenninger",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5853498?s=72&u=2d3f56acb2b26f4e3524e8d1156e1b0d3efa5777&v=4",
+    "location": "Vienna, Virginia, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-04T18:27:09Z"
   }
 ]
