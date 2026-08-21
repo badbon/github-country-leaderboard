@@ -1,8 +1,8 @@
 # Total Contributions - Åland Islands
 
-Generated: 2026-08-21T06:35:41.905Z
+Generated: 2026-08-21T06:54:42.741Z
 
-Users: 60
+Users: 61
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 60
 | 12 | [karusmari](https://github.com/karusmari) | Maris Karu | Gritlab |  | Åland Islands | 488 |
 | 13 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | @DeductiveLabs @Sofecta @SofectaLabs  | khalavak | Åland Islands | 400 |
 | 14 | [kejpa](https://github.com/kejpa) | Kjell Hansen |  |  | Mariehamn, Åland Islands | 397 |
-| 15 | [ejmilli](https://github.com/ejmilli) | eliza john |  |  |  Åland Islands, Finland | 233 |
-| 16 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh |  |  | Mariehamn, Åland | 229 |
-| 17 | [viktor-sarge](https://github.com/viktor-sarge) | Viktor Sarge | @RegionHalland  |  | Mariehamn | 178 |
-| 18 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | Takanoha |  | London / Mariehamn | 176 |
-| 19 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh |  |  | Mariehamn, Åland islands | 141 |
-| 20 | [giAddams](https://github.com/giAddams) | Geraldine Addamo |  |  | Mariehamn | 81 |
+| 15 | [johanwestling](https://github.com/johanwestling) | Johan Westling | @Aventyret |  | Åland, Finland | 379 |
+| 16 | [ejmilli](https://github.com/ejmilli) | eliza john |  |  |  Åland Islands, Finland | 233 |
+| 17 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh |  |  | Mariehamn, Åland | 229 |
+| 18 | [viktor-sarge](https://github.com/viktor-sarge) | Viktor Sarge | @RegionHalland  |  | Mariehamn | 178 |
+| 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | Takanoha |  | London / Mariehamn | 176 |
+| 20 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh |  |  | Mariehamn, Åland islands | 141 |

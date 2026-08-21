@@ -1,8 +1,8 @@
 # Public Contributions - Åland Islands
 
-Generated: 2026-08-21T06:35:41.905Z
+Generated: 2026-08-21T06:54:42.741Z
 
-Users: 60
+Users: 61
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 60
 | 15 | [hmenorjr](https://github.com/hmenorjr) | Herman Menor, Jr. | WebSnabb | hmenorjr | Åland Islands, Finland | 62 |
 | 16 | [mavka1207](https://github.com/mavka1207) | Kateryna Ovsiienko | Gritlab |  | Mariehamn | 57 |
 | 17 | [ejmilli](https://github.com/ejmilli) | eliza john |  |  |  Åland Islands, Finland | 46 |
-| 18 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland University of Applied Sciences |  | Åland Islands | 20 |
-| 19 | [borsokman](https://github.com/borsokman) | Sagyn |  |  | Mariehamn & Stockholm  | 15 |
-| 20 | [BeornG](https://github.com/BeornG) | Björn Granholm |  |  | Mariehamn, Åland | 12 |
+| 18 | [johanwestling](https://github.com/johanwestling) | Johan Westling | @Aventyret |  | Åland, Finland | 45 |
+| 19 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland University of Applied Sciences |  | Åland Islands | 20 |
+| 20 | [borsokman](https://github.com/borsokman) | Sagyn |  |  | Mariehamn & Stockholm  | 15 |

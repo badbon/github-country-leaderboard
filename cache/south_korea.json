@@ -169687,7 +169687,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 61,
+    "privateContributions": 67,
     "publicContributions": 201,
     "createdAt": "2021-09-17T02:13:01Z"
   },
@@ -169867,7 +169867,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 2072,
+    "privateContributions": 2073,
     "publicContributions": 4,
     "createdAt": "2021-07-12T05:35:37Z"
   },
@@ -169987,8 +169987,8 @@
     "company": "지어소프트",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 297,
-    "publicContributions": 107,
+    "privateContributions": 302,
+    "publicContributions": 115,
     "createdAt": "2021-10-08T05:07:59Z"
   },
   {
@@ -176266,5 +176266,17 @@
     "privateContributions": 91,
     "publicContributions": 0,
     "createdAt": "2020-09-23T15:47:12Z"
+  },
+  {
+    "login": "junick1",
+    "name": "_junick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89122635?s=72&u=efca669af100fe81aa16a98c5156360094cd6456&v=4",
+    "location": "Republic of Korea",
+    "company": "NLCS Jeju",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2021-08-18T05:52:00Z"
   }
 ]
