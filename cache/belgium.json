@@ -193774,5 +193774,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-09-21T21:17:04Z"
+  },
+  {
+    "login": "isenborghs-c",
+    "name": "Céline Isenborghs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2427649?s=72&u=6d30458dc0353f4668483acad97a2b6aef3314d4&v=4",
+    "location": "Belgium",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-26T10:04:27Z"
+  },
+  {
+    "login": "kayvine",
+    "name": "kayvine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2537222?s=72&u=ad301d1db96ac37cf004bb668e65086a4bd8cffc&v=4",
+    "location": "Ghent, Belgium",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2012-10-11T13:43:37Z"
+  },
+  {
+    "login": "abetas",
+    "name": "Antoine Betas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2544754?s=72&v=4",
+    "location": "Brussels, Belgium",
+    "company": "Ephec",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-12T12:36:40Z"
+  },
+  {
+    "login": "udragon76",
+    "name": "ChristopheCap",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2827236?s=72&v=4",
+    "location": "Belgium",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-18T13:51:03Z"
+  },
+  {
+    "login": "joerithys",
+    "name": "Joer Thys",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2843835?s=72&u=5397b46d528c0ac64ee564d014d00bb0280499c2&v=4",
+    "location": "Belgium",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2012-11-20T12:04:30Z"
+  },
+  {
+    "login": "GVerelst",
+    "name": "Gaston",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2589827?s=72&v=4",
+    "location": "Belgium",
+    "company": "Faq.be BV",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2012-10-18T14:09:31Z"
+  },
+  {
+    "login": "christopherhex",
+    "name": "Christopher Hex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2535063?s=72&u=5b157824871681e613a5eaad91cc8c85f73e8491&v=4",
+    "location": "Leuven, Belgium",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2012-10-11T07:48:08Z"
   }
 ]

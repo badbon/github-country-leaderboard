@@ -236602,5 +236602,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-12-10T07:58:44Z"
+  },
+  {
+    "login": "audreyfeldroy",
+    "name": "Audrey M. Roy Greenfeld",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74739?s=72&u=803d891bdf628c17d89cfe1846f86fe8bd5c641f&v=4",
+    "location": "Manila",
+    "company": "@feldroy",
+    "twitterUsername": "audreyfeldroy",
+    "followers": 2172,
+    "privateContributions": 4063,
+    "publicContributions": 1286,
+    "createdAt": "2009-04-17T07:34:28Z"
+  },
+  {
+    "login": "vinnicc",
+    "name": "Vinni Carlo Caños",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150086?s=72&u=acf40cf9c9413b7c92f0d1ba063a32a421065b81&v=4",
+    "location": "Manila",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 27706,
+    "publicContributions": 0,
+    "createdAt": "2009-11-07T10:50:22Z"
+  },
+  {
+    "login": "sagannotcarl",
+    "name": "Colin Sagan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79287?s=72&v=4",
+    "location": "Manila, PH",
+    "company": "Hey Pie People",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 22,
+    "publicContributions": 0,
+    "createdAt": "2009-04-29T19:41:06Z"
+  },
+  {
+    "login": "longjefferson",
+    "name": "Jefferson Long",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56775?s=72&v=4",
+    "location": "Manila Philipines",
+    "company": "Hero Kitchen Detailers Inc",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-02-22T08:59:46Z"
+  },
+  {
+    "login": "euro1987x",
+    "name": "Alexandertechnik (Mic'BARry)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82584?s=72&v=4",
+    "location": "Manila - Phillipines",
+    "company": "Electronist - (Scientific Software Designer)",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-05-08T22:48:40Z"
+  },
+  {
+    "login": "raoulsson",
+    "name": "Raoul Marc Schmidiger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99473?s=72&u=d1d95961a4846260fcc3209ada3f316d2635e7fb&v=4",
+    "location": "Zurich, Manila",
+    "company": "",
+    "twitterUsername": "raoulsson",
+    "followers": 5,
+    "privateContributions": 3021,
+    "publicContributions": 1103,
+    "createdAt": "2009-06-27T14:22:28Z"
+  },
+  {
+    "login": "rgfernandez",
+    "name": "Randy Joseph Fernandez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114024?s=72&v=4",
+    "location": "Manila",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-08-11T03:33:19Z"
   }
 ]

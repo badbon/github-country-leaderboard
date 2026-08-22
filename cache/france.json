@@ -242986,5 +242986,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-29T10:28:00Z"
+  },
+  {
+    "login": "ricardomatesti",
+    "name": "Ricardo Sierra Ordóñez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114562503?s=72&u=7679e30707a3b012ac303ac71be3838cd8ae7130&v=4",
+    "location": "Seville & Paris",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 466,
+    "publicContributions": 123,
+    "createdAt": "2022-09-28T06:45:28Z"
+  },
+  {
+    "login": "tgbardakin",
+    "name": "Tugba OZBEK",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99343568?s=72&u=ca0c79f560fe3a416e4a0857957b2296647be059&v=4",
+    "location": "Ankara/Paris",
+    "company": "Arabuleu",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-09T14:41:28Z"
   }
 ]

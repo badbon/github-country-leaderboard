@@ -219142,5 +219142,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-17T15:40:45Z"
+  },
+  {
+    "login": "nagano-masami",
+    "name": "NAMA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63903586?s=72&u=ac034f3f8dec45fdfc738867ef17896ded806f59&v=4",
+    "location": "YOKOHAMA",
+    "company": "",
+    "twitterUsername": "namano_nama",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-04-18T09:35:37Z"
+  },
+  {
+    "login": "RxstydnR",
+    "name": "Ryoya Katafuchi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62385421?s=72&u=7ae8b55265636c81439f38aa854188810bb8c762&v=4",
+    "location": "Yokohama",
+    "company": "H",
+    "twitterUsername": "a1b2c3d4xbx",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2020-03-19T12:38:26Z"
+  },
+  {
+    "login": "Kunihiro-S",
+    "name": "Kunihiro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75918268?s=72&u=14633aa0c50626983ae4c0e54ebc4a975fb063ab&v=4",
+    "location": "Yokohama-City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-13T01:27:03Z"
   }
 ]

@@ -232186,5 +232186,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-06T08:16:21Z"
+  },
+  {
+    "login": "jjmala",
+    "name": "Zhaklin | Jacqueline Mala ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72046555?s=72&u=9629c1a0348d162f964cdb3f99a7d2946205cd56&v=4",
+    "location": "Turin, Italy",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2020-09-28T20:25:41Z"
+  },
+  {
+    "login": "MarcelloPignata",
+    "name": "Marcello Pignata",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72017683?s=72&v=4",
+    "location": "Italy",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-28T10:43:09Z"
+  },
+  {
+    "login": "AlePucci",
+    "name": "Alessandro Pucci",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72038713?s=72&u=8fafeadc918990a8554b0711c18db559a0256b96&v=4",
+    "location": "Milano, Italy",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-28T17:19:28Z"
+  },
+  {
+    "login": "lolloloschi97",
+    "name": "Lorenzo Loschi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72491687?s=72&u=3b74ef918f718078f18ee0f9baf6dde1f49f14a1&v=4",
+    "location": "Reggio Emilia, Italy",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-10-07T07:49:25Z"
+  },
+  {
+    "login": "pubbiali",
+    "name": "Paolo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73280028?s=72&u=2a144d9a833bd8eeb21e16d1bc8f74489ec9b27e&v=4",
+    "location": "Italy",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-22T08:43:00Z"
+  },
+  {
+    "login": "giorgiosiniscalchi",
+    "name": "Giorgio Siniscalchi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72865232?s=72&u=dd284856353ea115b3c9d62e4b0c8cd58baaa602&v=4",
+    "location": "Salerno, Italy",
+    "company": "CSA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2020-10-14T11:06:31Z"
+  },
+  {
+    "login": "andreafmdev",
+    "name": "Andrea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73602929?s=72&u=ad79fd097b1abf8dacd81dd8b2d87b428982dc6d&v=4",
+    "location": "Italy",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 617,
+    "publicContributions": 83,
+    "createdAt": "2020-10-28T15:42:59Z"
   }
 ]
