@@ -242938,5 +242938,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-28T21:44:43Z"
+  },
+  {
+    "login": "florencemarcotte",
+    "name": "Florence Marcotte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97989367?s=72&v=4",
+    "location": "Nice",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-18T21:10:16Z"
+  },
+  {
+    "login": "superneyluj",
+    "name": "Julien Sicot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112611461?s=72&u=38e65acb058ce260ce9fbd6f81a9d55d0948e22f&v=4",
+    "location": "Nice",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-09-01T06:55:52Z"
+  },
+  {
+    "login": "Toyo06",
+    "name": "steven roggenstein",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117530413?s=72&v=4",
+    "location": "Nice",
+    "company": "42Nice",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-05T15:42:09Z"
+  },
+  {
+    "login": "emfducks",
+    "name": "EMF Ducks",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106471496?s=72&u=74e409f6ae57b4bba30e88714bc9e0d6ae4af927&v=4",
+    "location": "Nice duck pond, Eastnor Deer Park",
+    "company": "",
+    "twitterUsername": "emfducks",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-29T10:28:00Z"
   }
 ]

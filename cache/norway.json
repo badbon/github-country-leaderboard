@@ -183559,8 +183559,8 @@
     "company": "@microsoft",
     "twitterUsername": "webmaxru",
     "followers": 669,
-    "privateContributions": 232,
-    "publicContributions": 1629,
+    "privateContributions": 237,
+    "publicContributions": 1636,
     "createdAt": "2012-03-21T09:14:47Z"
   },
   {
@@ -183619,8 +183619,8 @@
     "company": "@bekk ",
     "twitterUsername": "selbekk",
     "followers": 209,
-    "privateContributions": 1616,
-    "publicContributions": 2815,
+    "privateContributions": 1621,
+    "publicContributions": 2813,
     "createdAt": "2012-01-05T17:16:23Z"
   },
   {
@@ -183691,7 +183691,7 @@
     "company": "Scrimba",
     "twitterUsername": "frode_jensen",
     "followers": 153,
-    "privateContributions": 1090,
+    "privateContributions": 1091,
     "publicContributions": 14,
     "createdAt": "2012-06-08T08:56:00Z"
   },
@@ -196402,5 +196402,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-11-28T06:54:58Z"
+  },
+  {
+    "login": "rafaqz",
+    "name": "Rafael Schouten",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2534009?s=72&u=223dc38fa2d08785b360a67ffb938ded01f97f85&v=4",
+    "location": "Oslo",
+    "company": "NINA",
+    "twitterUsername": "",
+    "followers": 196,
+    "privateContributions": 0,
+    "publicContributions": 713,
+    "createdAt": "2012-10-11T04:36:07Z"
+  },
+  {
+    "login": "larstvei",
+    "name": "Lars Tveito",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2478638?s=72&u=2a45c9a47897233fdead3db2deb9e6b4a5ed40d8&v=4",
+    "location": "Oslo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 160,
+    "privateContributions": 67,
+    "publicContributions": 250,
+    "createdAt": "2012-10-03T11:22:40Z"
+  },
+  {
+    "login": "mikaem",
+    "name": "Mikael Mortensen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1677892?s=72&v=4",
+    "location": "Oslo",
+    "company": "University of Oslo",
+    "twitterUsername": "",
+    "followers": 140,
+    "privateContributions": 0,
+    "publicContributions": 408,
+    "createdAt": "2012-04-25T10:33:10Z"
+  },
+  {
+    "login": "markburgess",
+    "name": "Mark Burgess",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1425560?s=72&u=c4bcea8d900a37f5ebd7cad204416336483fc443&v=4",
+    "location": "Oslo",
+    "company": "ChiTek-i",
+    "twitterUsername": "markburgess_osl",
+    "followers": 131,
+    "privateContributions": 1,
+    "publicContributions": 35,
+    "createdAt": "2012-02-10T07:24:56Z"
+  },
+  {
+    "login": "Assios",
+    "name": "Asbjørn Ottesen Steinskog",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1413265?s=72&u=c106ec3624d5aeb5dd2ee5a85509c45c8dbee19b&v=4",
+    "location": "Oslo",
+    "company": "Take Take Take",
+    "twitterUsername": "assios",
+    "followers": 125,
+    "privateContributions": 2694,
+    "publicContributions": 278,
+    "createdAt": "2012-02-06T17:19:47Z"
   }
 ]

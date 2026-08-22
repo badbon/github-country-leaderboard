@@ -242578,5 +242578,101 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2022-06-13T23:31:45Z"
+  },
+  {
+    "login": "ermigue2022",
+    "name": "miguel angel cuevas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106960689?s=72&u=efd7fe3e8267236c80f4e6c45597e47eed428a1e&v=4",
+    "location": "Sevilla",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-06-06T09:39:18Z"
+  },
+  {
+    "login": "CodeandoConCobos",
+    "name": "Jesús Cobos Labrada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116951061?s=72&u=eb986ab5b76be4d54cd65146f8f189a4b7a658a4&v=4",
+    "location": "Sevilla",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-10-29T10:40:35Z"
+  },
+  {
+    "login": "PRCervera",
+    "name": "Pedro Rodríguez Cervera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116592910?s=72&u=5279e359ef615d27f09bc506d85995feef295da8&v=4",
+    "location": "Sevilla",
+    "company": "From Raw Data to Action S.L.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-10-24T18:46:43Z"
+  },
+  {
+    "login": "Pablodr89",
+    "name": "Pablo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99759794?s=72&u=3ef38cbf0bb670fbb89b35ad690653f44c368da6&v=4",
+    "location": "Sevilla",
+    "company": "Frontend Developer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 135,
+    "createdAt": "2022-02-15T19:01:25Z"
+  },
+  {
+    "login": "MarcosNapolitano",
+    "name": "Marcos Napolitano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107133568?s=72&u=707fef89d2ce900b09a55877ef2b1ba40e5d3961&v=4",
+    "location": "Sevilla",
+    "company": "Software Developer",
+    "twitterUsername": "Marcos_CxA",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 156,
+    "createdAt": "2022-06-08T15:36:20Z"
+  },
+  {
+    "login": "ivanZarza",
+    "name": "Iván Zarza Estevez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112651229?s=72&u=ce2acc1546daffe10a65dc17d976510f73bd27a5&v=4",
+    "location": "Sevilla",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 633,
+    "createdAt": "2022-09-01T17:16:46Z"
+  },
+  {
+    "login": "blv-enriquejimenez",
+    "name": "Enrique Jiménez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110404832?s=72&v=4",
+    "location": "Sevilla",
+    "company": "Belvo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2022-08-01T14:01:12Z"
+  },
+  {
+    "login": "pilarrivas-dev",
+    "name": "Pilar Rivas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111908750?s=72&u=636fe1f4679c5e49f1bac6e6402700ec529a546d&v=4",
+    "location": "Sevilla",
+    "company": "Front-End Developer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-08-23T18:03:57Z"
   }
 ]
