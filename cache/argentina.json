@@ -238150,5 +238150,29 @@
     "privateContributions": 130,
     "publicContributions": 15,
     "createdAt": "2021-06-19T15:19:49Z"
+  },
+  {
+    "login": "JuanMRodriguezC",
+    "name": "Juan Manuel Rodriguez Campora",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94139251?s=72&u=51712c5c8ce86691851bb88acd917f3b2470f1f5&v=4",
+    "location": "Argentina/España",
+    "company": "Juniper",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2021-11-11T19:21:53Z"
+  },
+  {
+    "login": "alvarato",
+    "name": "alvarobernabey/pacotech",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87344409?s=72&u=ec597cbace2a1c89da5cd76300277c153c619d49&v=4",
+    "location": "La Rioja, Argentina | Barcelona, España",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2021-07-12T23:46:53Z"
   }
 ]

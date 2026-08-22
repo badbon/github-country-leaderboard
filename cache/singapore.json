@@ -129871,7 +129871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1683,
+    "privateContributions": 1686,
     "publicContributions": 7,
     "createdAt": "2018-05-30T05:37:19Z"
   },
@@ -129883,7 +129883,7 @@
     "company": "Singapore, AWS",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 46,
+    "privateContributions": 53,
     "publicContributions": 1,
     "createdAt": "2018-05-10T15:03:52Z"
   },
@@ -130016,7 +130016,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 18,
     "createdAt": "2018-04-29T06:07:13Z"
   },
   {
@@ -130316,7 +130316,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 165,
-    "publicContributions": 110,
+    "publicContributions": 113,
     "createdAt": "2018-06-24T10:17:56Z"
   },
   {
@@ -131023,7 +131023,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 168,
+    "privateContributions": 172,
     "publicContributions": 4,
     "createdAt": "2018-06-07T07:45:00Z"
   },
@@ -144574,5 +144574,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-01-13T13:19:46Z"
+  },
+  {
+    "login": "aandreakis",
+    "name": "Andreas Andreakis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38875124?s=72&u=fa337f78c2bc609d102c3463639a1b624164c778&v=4",
+    "location": "Singapore",
+    "company": "",
+    "twitterUsername": "andreas0x",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2018-05-01T04:47:02Z"
   }
 ]

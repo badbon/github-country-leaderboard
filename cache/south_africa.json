@@ -213934,5 +213934,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-09-30T09:46:11Z"
+  },
+  {
+    "login": "hansmalherbe",
+    "name": "Hans Malherbe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131869?s=72&u=405ea1885e2f347d68a0166215078168f50d3486&v=4",
+    "location": "Roodepoort, Suid-Afrika",
+    "company": "ComUnity",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2009-09-27T13:43:14Z"
+  },
+  {
+    "login": "bernarddt",
+    "name": "Bernard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151132?s=72&v=4",
+    "location": "Bloemfontein, RSA",
+    "company": "Pylogen",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2009-11-10T06:41:58Z"
   }
 ]
