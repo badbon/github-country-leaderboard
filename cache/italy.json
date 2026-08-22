@@ -248710,5 +248710,89 @@
     "privateContributions": 0,
     "publicContributions": 213,
     "createdAt": "2020-05-13T14:00:57Z"
+  },
+  {
+    "login": "c4p0b14nc0",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69145322?s=72&v=4",
+    "location": "rome",
+    "company": "Fata Informatica",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2020-08-03T09:38:59Z"
+  },
+  {
+    "login": "fabiovettori",
+    "name": "Fabio Vettori",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70889726?s=72&u=0ebbae372b8ce5ce393b51d05bb2e483101b010a&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2020-09-07T09:35:25Z"
+  },
+  {
+    "login": "SamuelePasseri",
+    "name": "Samuele Passeri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66320666?s=72&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 324,
+    "publicContributions": 0,
+    "createdAt": "2020-06-02T15:05:54Z"
+  },
+  {
+    "login": "pedro-gca",
+    "name": "Pedro Carvalho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73594600?s=72&u=b7d7ed40d703519785122a17ae54592cdcd358f4&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 9,
+    "createdAt": "2020-10-28T13:03:12Z"
+  },
+  {
+    "login": "verovulcano",
+    "name": "Veronica Vulcano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65947525?s=72&u=cf1edc8e536b4be60a0e5b34bdfce95f53aa551b&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-26T08:44:54Z"
+  },
+  {
+    "login": "GabrielDonatoCiavola",
+    "name": "Gabriel Ciavola",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73879114?s=72&v=4",
+    "location": "Near Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-11-03T09:01:14Z"
+  },
+  {
+    "login": "Giangi69",
+    "name": "gigiPetrosBau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72351370?s=72&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-10-04T16:09:45Z"
   }
 ]
