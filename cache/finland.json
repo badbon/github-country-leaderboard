@@ -210754,5 +210754,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-12-09T08:13:51Z"
+  },
+  {
+    "login": "rendall",
+    "name": "Rendall",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293263?s=72&u=8b513ca9cca6a0fcf158ee8a969600fd6f526ce1&v=4",
+    "location": "Suomi",
+    "company": "@disorient ",
+    "twitterUsername": "rendall",
+    "followers": 58,
+    "privateContributions": 79,
+    "publicContributions": 1926,
+    "createdAt": "2010-06-01T13:44:39Z"
+  },
+  {
+    "login": "maxja",
+    "name": "Maksim Kalenich",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/540168?s=72&u=5c8e84970b07793b76c0ffa676910e601f8455c8&v=4",
+    "location": "Suomi, Helsinki",
+    "company": "",
+    "twitterUsername": "maxja",
+    "followers": 15,
+    "privateContributions": 502,
+    "publicContributions": 39,
+    "createdAt": "2010-12-29T11:09:08Z"
+  },
+  {
+    "login": "ZiggyStardust",
+    "name": "Ippe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/406180?s=72&v=4",
+    "location": "suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-18T17:44:56Z"
+  },
+  {
+    "login": "konfigurator",
+    "name": "KPK",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/370518?s=72&u=f49b5c00784005aa099ea985707fd7f66d0670d0&v=4",
+    "location": "Suomi",
+    "company": "Own",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2010-08-20T07:15:48Z"
   }
 ]

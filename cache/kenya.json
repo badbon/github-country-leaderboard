@@ -211498,5 +211498,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-06-06T17:34:22Z"
+  },
+  {
+    "login": "ashishgajjar90",
+    "name": "M05H",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40457769?s=72&v=4",
+    "location": "Nairobi, Kenya",
+    "company": "MacroSec Ltd",
+    "twitterUsername": "ashishygajjar",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-21T09:21:07Z"
+  },
+  {
+    "login": "gaswani",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39372384?s=72&u=a6403f7382f0dc36b1d0d3fbe83e3912bcf03c4e&v=4",
+    "location": "Nairobi - Kenya",
+    "company": "",
+    "twitterUsername": "GideonAswani",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2018-05-17T11:11:43Z"
+  },
+  {
+    "login": "Deniro-ule-wah",
+    "name": "MUTHOMI WACHIRA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39271208?s=72&u=e745594f4a0d9acf1af09eda3010edf638b65683&v=4",
+    "location": "Kenya",
+    "company": "Blockverse Web 3.0 Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 124,
+    "createdAt": "2018-05-14T14:44:54Z"
+  },
+  {
+    "login": "Omballa",
+    "name": "Brandon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39778189?s=72&u=07461843d786fce2a0af3031c6573a3fa35a481f&v=4",
+    "location": "Nairobi, Kenya",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 211,
+    "publicContributions": 84,
+    "createdAt": "2018-05-30T19:44:54Z"
   }
 ]
