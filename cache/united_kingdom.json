@@ -45306,9 +45306,9 @@
     "location": "Derry, Northern Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 52,
-    "publicContributions": 739,
+    "followers": 11,
+    "privateContributions": 294,
+    "publicContributions": 794,
     "createdAt": "2021-03-05T20:14:59Z"
   },
   {
@@ -47659,7 +47659,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 906,
+    "privateContributions": 921,
     "publicContributions": 39,
     "createdAt": "2021-05-13T12:54:17Z"
   },
@@ -48667,8 +48667,8 @@
     "company": "",
     "twitterUsername": "danielparke_",
     "followers": 11,
-    "privateContributions": 1361,
-    "publicContributions": 712,
+    "privateContributions": 1428,
+    "publicContributions": 737,
     "createdAt": "2021-10-28T12:25:47Z"
   },
   {
@@ -49027,7 +49027,7 @@
     "company": "Kainos",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 120,
+    "privateContributions": 121,
     "publicContributions": 0,
     "createdAt": "2021-08-05T22:51:11Z"
   },
@@ -50155,7 +50155,7 @@
     "company": "GrantGunner | Canvassr | Lightning Arbitrage Solutions | RapidResearch | VidGaze",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 229,
+    "privateContributions": 230,
     "publicContributions": 12,
     "createdAt": "2021-10-06T11:22:50Z"
   },
@@ -275314,5 +275314,125 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-01-12T14:24:48Z"
+  },
+  {
+    "login": "0xNathanW",
+    "name": "NathanW",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86011312?s=72&u=f22c990be4724aef2eb08dba9ba266953f108890&v=4",
+    "location": "Great Britain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 17,
+    "publicContributions": 142,
+    "createdAt": "2021-06-16T15:40:10Z"
+  },
+  {
+    "login": "Matexoi",
+    "name": "Matexoi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96358563?s=72&v=4",
+    "location": "Great britain",
+    "company": "Chào các ",
+    "twitterUsername": "Marek25p",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-12-18T23:41:03Z"
+  },
+  {
+    "login": "Soledaddelgado",
+    "name": "Soledad Delgado Oyarzún",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94656593?s=72&u=9795c0ee4a0155eea96a7485057a6c635e0a439b&v=4",
+    "location": "Great Britain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-19T00:34:38Z"
+  },
+  {
+    "login": "dangtna1",
+    "name": "Dang Vu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87612909?s=72&u=e75338f1acc2250a4db4c992bbfd056417e9eb31&v=4",
+    "location": "Great Britain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 212,
+    "publicContributions": 231,
+    "createdAt": "2021-07-18T16:04:04Z"
+  },
+  {
+    "login": "DamianFijal",
+    "name": "Damian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85994140?s=72&v=4",
+    "location": "Bicester, Oxfordshire, Great Britain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-16T09:58:40Z"
+  },
+  {
+    "login": "igorfilip",
+    "name": "Igor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87239965?s=72&v=4",
+    "location": "Great Britain ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-07-10T16:28:25Z"
+  },
+  {
+    "login": "Squigo",
+    "name": "Squigo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94544609?s=72&u=8ef602c9263e4d3afcfb734a0f46b9bcb4c1c83e&v=4",
+    "location": "Great Britain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-17T14:09:09Z"
+  },
+  {
+    "login": "theAgingApprentice",
+    "name": "The Aging Apprentice",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79261479?s=72&u=19e9449602e333fd7c1d42fb9fbb1cdd54613b16&v=4",
+    "location": "London, Ontario Canada",
+    "company": "the Aging Apprentice",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 841,
+    "createdAt": "2021-02-18T12:42:44Z"
+  },
+  {
+    "login": "samkirkpatrick",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1155085?s=72&v=4",
+    "location": "Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-27T07:56:38Z"
+  },
+  {
+    "login": "johnktaylor",
+    "name": "John",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/683864?s=72&v=4",
+    "location": "Northern Ireland",
+    "company": "Protoworks",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2011-03-22T13:18:49Z"
   }
 ]
