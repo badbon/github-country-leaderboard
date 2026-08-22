@@ -153067,8 +153067,8 @@
     "company": "@Automattic",
     "twitterUsername": "",
     "followers": 46,
-    "privateContributions": 390,
-    "publicContributions": 271,
+    "privateContributions": 396,
+    "publicContributions": 270,
     "createdAt": "2012-04-04T14:50:27Z"
   },
   {
@@ -159658,5 +159658,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-08-07T12:31:30Z"
+  },
+  {
+    "login": "shinn0bi",
+    "name": "Petar Dyakov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2779270?s=72&u=6c828a8984c29225a582907aa7fcc933d6d60994&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-12T15:31:39Z"
+  },
+  {
+    "login": "digbot",
+    "name": "Dimitar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1742885?s=72&u=d8858681a14cc8439b1f8128804d02e54243f172&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2012-05-15T16:43:10Z"
+  },
+  {
+    "login": "peterdenev",
+    "name": "Петър Денев (Peter Denev)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2633473?s=72&v=4",
+    "location": "Varna, BG",
+    "company": "RCC Solutions",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-23T16:45:08Z"
+  },
+  {
+    "login": "psyhlo",
+    "name": "Milen Simeonov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1803170?s=72&v=4",
+    "location": "Varna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2012-06-01T05:39:51Z"
+  },
+  {
+    "login": "mrProper666",
+    "name": "Borislav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1867181?s=72&u=5c07ed8760c6aab659cf667a1d8c93cc592980e3&v=4",
+    "location": "Varna",
+    "company": "Fantasy Workshop Ltd.",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2012-06-19T11:08:02Z"
+  },
+  {
+    "login": "netbull",
+    "name": "Aleksandar Dimitrov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2797954?s=72&u=b5a19a9d58dfc9ee0d0085484601aed54c009915&v=4",
+    "location": "Varna",
+    "company": "SLR Holiday Service",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2012-11-14T17:45:08Z"
+  },
+  {
+    "login": "abozhinov",
+    "name": "Alexandar Bozhinov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1404839?s=72&u=8580de35c519ac85f04af78ebff654e22420cab7&v=4",
+    "location": "Varna",
+    "company": "Dream Studio",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-02-03T09:34:44Z"
+  },
+  {
+    "login": "yosifov",
+    "name": "Kamen Yosifov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1998485?s=72&u=60efabf1a0385dd80b11ddcd4f60c0542f9501fb&v=4",
+    "location": "Varna",
+    "company": "Webnotize",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-07-18T13:03:30Z"
   }
 ]
