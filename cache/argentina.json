@@ -261682,5 +261682,53 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2021-09-08T18:46:32Z"
+  },
+  {
+    "login": "tomasgdean",
+    "name": "Tomas Gomez Dean",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90742794?s=72&u=bbf8b8ec6dd01dbedb2221ac77944b0a535f7d1b&v=4",
+    "location": "Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-15T03:52:16Z"
+  },
+  {
+    "login": "OutsourceArg",
+    "name": "Outsource Argentina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90928989?s=72&u=e0514c2c8181536a8c5954456b4d52f146fd036a&v=4",
+    "location": "Argentina",
+    "company": "Outsource Argentina",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-17T17:58:28Z"
+  },
+  {
+    "login": "FacundoBeldi",
+    "name": "Facundo Beldi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90802731?s=72&u=5b4321ebba19c694c3632b0e0a1255fb7de9444b&v=4",
+    "location": "Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2021-09-15T21:36:33Z"
+  },
+  {
+    "login": "diegoriveros17",
+    "name": "Diego Riveros",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91267716?s=72&v=4",
+    "location": "Formosa, ARGENTINA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 184,
+    "createdAt": "2021-09-23T13:24:17Z"
   }
 ]
