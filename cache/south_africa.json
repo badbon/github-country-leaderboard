@@ -214436,7 +214436,7 @@
     "twitterUsername": "",
     "followers": 44,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 102,
     "createdAt": "2008-07-24T07:50:21Z"
   },
   {
@@ -214555,7 +214555,7 @@
     "company": "Sunrise Productions",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 10263,
+    "privateContributions": 10264,
     "publicContributions": 54,
     "createdAt": "2008-04-02T18:33:16Z"
   },
@@ -214846,5 +214846,89 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2008-12-16T06:03:25Z"
+  },
+  {
+    "login": "olivernn",
+    "name": "Oliver Nightingale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35913?s=72&v=4",
+    "location": "Cape Town",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 241,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-11-21T21:42:07Z"
+  },
+  {
+    "login": "armanddp",
+    "name": "Armand du Plessis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6898?s=72&u=a76a7951ef1b499949b8171a002d298d51d0c253&v=4",
+    "location": "Cape Town, Western Cape",
+    "company": "Pulse",
+    "twitterUsername": "",
+    "followers": 53,
+    "privateContributions": 6215,
+    "publicContributions": 111,
+    "createdAt": "2008-04-12T08:10:30Z"
+  },
+  {
+    "login": "charl",
+    "name": "Charl Matthee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36466?s=72&u=404eab52b5e4b75a8b2cb3051fa1bf682381e920&v=4",
+    "location": "Cape Town",
+    "company": "Phenom Systems",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2008-11-24T23:55:57Z"
+  },
+  {
+    "login": "eon",
+    "name": "eon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34117?s=72&v=4",
+    "location": "Cape Town",
+    "company": "Electrum Payments",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-11-12T19:30:43Z"
+  },
+  {
+    "login": "joergd",
+    "name": "Joerg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5681?s=72&v=4",
+    "location": "Cape Town",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 2921,
+    "publicContributions": 4,
+    "createdAt": "2008-04-07T20:56:13Z"
+  },
+  {
+    "login": "bryndivey",
+    "name": "Bryn Divey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6542?s=72&v=4",
+    "location": "Cape Town",
+    "company": "Nimbula",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 582,
+    "publicContributions": 5,
+    "createdAt": "2008-04-11T08:46:11Z"
+  },
+  {
+    "login": "richardhuman",
+    "name": "Richard Human",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15944?s=72&u=36d4aa4bf3947416aba864ea85645f7c213be59e&v=4",
+    "location": "Cape Town",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 3330,
+    "publicContributions": 6,
+    "createdAt": "2008-07-03T19:01:40Z"
   }
 ]

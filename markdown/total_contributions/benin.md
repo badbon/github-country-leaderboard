@@ -1,6 +1,6 @@
 # Total Contributions - Benin
 
-Generated: 2026-08-22T16:28:23.649Z
+Generated: 2026-08-22T16:48:46.564Z
 
 Users: 476
 
@@ -18,8 +18,8 @@ Users: 476
 | 10 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba |  | jprud667 | Benin, cotonou | 3817 |
 | 11 | [ludndev](https://github.com/ludndev) | Judicaël AHYI |  | JudicaelAhyi | Cotonou, Benin | 3724 |
 | 12 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA |  | yoannoza | Cotonou, Benin | 3720 |
-| 13 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Friym |  | Benin, Cotonou | 3665 |
-| 14 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi |  | iyosayi0x | Nigeria , Benin  | 3636 |
+| 13 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi |  | iyosayi0x | Nigeria , Benin  | 3685 |
+| 14 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Friym |  | Benin, Cotonou | 3665 |
 | 15 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK |  | chafik_Hadj | Benin | 3441 |
 | 16 | [20Frederic20](https://github.com/20Frederic20) |  | SICOGES ByGAMS | Blvck_Excelsior | Benin, Cotonou | 3211 |
 | 17 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON |  | elishady_ | Cotonou, Benin | 3119 |
