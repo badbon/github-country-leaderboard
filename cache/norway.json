@@ -199414,5 +199414,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-02-29T17:53:30Z"
+  },
+  {
+    "login": "Leif-Roar",
+    "name": "Leif Roar Moldskred",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1799027?s=72&v=4",
+    "location": "Oslo",
+    "company": "Antares Gruppen",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-05-31T13:40:40Z"
+  },
+  {
+    "login": "lilletuva",
+    "name": "Tuva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2261821?s=72&v=4",
+    "location": "Oslo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-01T17:57:47Z"
   }
 ]

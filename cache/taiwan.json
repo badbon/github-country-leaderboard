@@ -207046,5 +207046,65 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2014-01-30T01:23:55Z"
+  },
+  {
+    "login": "letwang",
+    "name": "letwang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3644168?s=72&u=3bd5334a26f07df8117fe161f866ca65fd7e0886&v=4",
+    "location": "Chinese Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 77,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-20T05:15:22Z"
+  },
+  {
+    "login": "JohnnySun",
+    "name": "JohnnySun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6197733?s=72&u=a8ddb553644fa431a41302db74540420a5e082cb&v=4",
+    "location": "Peking, Republic Of China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 4441,
+    "publicContributions": 983,
+    "createdAt": "2013-12-16T14:18:34Z"
+  },
+  {
+    "login": "brchiu",
+    "name": "Bi-Ruei, Chiu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6227912?s=72&u=8708a15a57323e94ba6a2c91a9ccc9f561480651&v=4",
+    "location": "Taipei, Taiwan, Republic of China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2013-12-20T04:35:07Z"
+  },
+  {
+    "login": "javasharper",
+    "name": "javasharp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6140284?s=72&u=34f1ee8fee2a944a27b97be68ed94ab38510c8fb&v=4",
+    "location": "Hokkien,Republic of China",
+    "company": "Hokkien Technology",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-12-09T07:14:47Z"
+  },
+  {
+    "login": "abysdom",
+    "name": "Yang Yuanzhi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3581828?s=72&u=1cf20cc1203cf44dbbf67baae02346ec4eaef0f7&v=4",
+    "location": "Taiwan, the Republic of China ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2013-02-13T06:53:23Z"
   }
 ]

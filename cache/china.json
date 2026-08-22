@@ -233806,5 +233806,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-27T06:28:05Z"
+  },
+  {
+    "login": "sunxiaoguang",
+    "name": "Xiaoguang Sun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3982329?s=72&v=4",
+    "location": "Beijing, People's Republic of China",
+    "company": "PingCAP",
+    "twitterUsername": "xgsun",
+    "followers": 248,
+    "privateContributions": 0,
+    "publicContributions": 77,
+    "createdAt": "2013-03-27T06:24:18Z"
+  },
+  {
+    "login": "xiangxing98",
+    "name": "Stone.Hou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5674744?s=72&u=fecd012bf73c8125ff467bd4fd8b0c6289199329&v=4",
+    "location": "No. 18 Wenchang Avenue, Economic-Technological Development Area, Beijing, 100176, People's Republic of China",
+    "company": "SMIC(Beijing)",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-13T06:16:21Z"
+  },
+  {
+    "login": "tangx04",
+    "name": "Tang Xiao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3361522?s=72&v=4",
+    "location": "Beijing, People's Republic of China",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-24T01:30:41Z"
   }
 ]
