@@ -204116,7 +204116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 28,
+    "publicContributions": 35,
     "createdAt": "2020-01-30T18:12:43Z"
   },
   {
@@ -250642,5 +250642,101 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2020-11-16T16:34:15Z"
+  },
+  {
+    "login": "chiara637288",
+    "name": "Chiara Sanviti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60852279?s=72&u=778b1d2f152045e56a4ad974a30fd961fcd7a38c&v=4",
+    "location": "Turin",
+    "company": "",
+    "twitterUsername": "Chiara63728",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2020-02-09T17:10:46Z"
+  },
+  {
+    "login": "andreaappendino",
+    "name": "Andrea Appendino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65360254?s=72&u=47a2793a9d56b5970b0495b948ba8b620edb734a&v=4",
+    "location": "Turin",
+    "company": "Politecnico di Torino",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2020-05-14T16:50:08Z"
+  },
+  {
+    "login": "mlatICT",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63148458?s=72&u=5f64e6918879de4cfa3814e69d5a8601d5272dd0&v=4",
+    "location": "turin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 103,
+    "createdAt": "2020-04-04T10:57:40Z"
+  },
+  {
+    "login": "W1zMa",
+    "name": "Timur K",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60066811?s=72&u=9d2720e123abe9e0da4c97c8ecb86a3887c4db5c&v=4",
+    "location": "Turin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2020-01-19T13:52:57Z"
+  },
+  {
+    "login": "Atzinaghy",
+    "name": "Alessandro Giovagnoli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66089764?s=72&v=4",
+    "location": "Turin",
+    "company": "",
+    "twitterUsername": "Atzinaghy",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-28T19:51:32Z"
+  },
+  {
+    "login": "edoraba",
+    "name": "Edoardo Baravaglio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71084130?s=72&u=a53a7e291ff95fd16ab4fce660fcda88bc2c8147&v=4",
+    "location": "Turin",
+    "company": "Redergo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 4836,
+    "publicContributions": 153,
+    "createdAt": "2020-09-10T14:16:24Z"
+  },
+  {
+    "login": "Lollo310",
+    "name": "Michele Lorenzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75748090?s=72&u=95316617741ba7f8fbbff9174b19fe125de5e9f0&v=4",
+    "location": "Turin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-12-09T17:07:56Z"
+  },
+  {
+    "login": "matteo-flores",
+    "name": "Matteo Flores",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64771732?s=72&v=4",
+    "location": "Turin",
+    "company": "@Polito",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2020-05-04T07:24:21Z"
   }
 ]
