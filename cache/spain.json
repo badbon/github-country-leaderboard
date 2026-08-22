@@ -245782,5 +245782,65 @@
     "privateContributions": 0,
     "publicContributions": 108,
     "createdAt": "2013-01-19T19:08:19Z"
+  },
+  {
+    "login": "iinjdpa",
+    "name": "Daniel Pose",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5236579?s=72&u=652bbb745b95a1a67fa887be3f3b128405636313&v=4",
+    "location": "Santiago de Compostela (España)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-08-15T10:40:12Z"
+  },
+  {
+    "login": "Marcel314",
+    "name": "Marcelo Domínguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4956361?s=72&u=72f0a00aafb4551775b037b7801ac53cea678061&v=4",
+    "location": "Santiago de Compostela, Spain",
+    "company": "Mestrelab Research",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-07T00:00:31Z"
+  },
+  {
+    "login": "grid-admin",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4035689?s=72&v=4",
+    "location": "Santiago de Compostela, Spain",
+    "company": "CESGA",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-02T10:19:23Z"
+  },
+  {
+    "login": "asincrono",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3168850?s=72&u=4f0d8b5f4d993dbacdd8871ee0cd5948886ad39a&v=4",
+    "location": "Santiago de Compostela, A Coruña, Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-01-02T12:07:13Z"
+  },
+  {
+    "login": "JohnBarrantes5",
+    "name": "JohnBarrantes5",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45274900?s=72&u=7346a0756b7ceb56653a7a793efb49389e835214&v=4",
+    "location": "Madrid, Cundinamarca. Colombia",
+    "company": "",
+    "twitterUsername": "JohnBarrantes5",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-11-22T23:17:22Z"
   }
 ]
