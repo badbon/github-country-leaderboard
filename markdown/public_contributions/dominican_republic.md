@@ -1,6 +1,6 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-08-22T13:46:16.491Z
+Generated: 2026-08-22T14:07:07.141Z
 
 Users: 3313
 
@@ -13,9 +13,9 @@ Users: 3313
 | 5 | [Portegaperalta](https://github.com/Portegaperalta) | pablortega |  |  | Santo Domingo, Dominican Republic | 3638 |
 | 6 | [ubercylon8](https://github.com/ubercylon8) | James Pichardo |  |  | Dominican Republic | 2691 |
 | 7 | [FredPeal](https://github.com/FredPeal) | Frederick Peñalo | McTekk SRL | frederickpeal | Dominican Republic | 2053 |
-| 8 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero | Insane Code | jesusntguerrero | Santo Domingo, Dominican Republic | 1735 |
-| 9 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz |  |  | Dominican Republic | 1723 |
-| 10 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera |  |  | Santiago, Dominican Republic | 1708 |
+| 8 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera |  |  | Santiago, Dominican Republic | 1786 |
+| 9 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero | Insane Code | jesusntguerrero | Santo Domingo, Dominican Republic | 1735 |
+| 10 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz |  |  | Dominican Republic | 1723 |
 | 11 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata |  |  | Dominican Republic | 1517 |
 | 12 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 1473 |
 | 13 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | MoonCode |  | Dominican Republic | 1460 |

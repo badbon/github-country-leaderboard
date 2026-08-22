@@ -210787,7 +210787,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1289,
+    "privateContributions": 1291,
     "publicContributions": 0,
     "createdAt": "2010-03-17T18:44:28Z"
   },
@@ -212482,5 +212482,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-10-27T06:38:55Z"
+  },
+  {
+    "login": "rcb-ferreira",
+    "name": "Rui Ferreria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/514423?s=72&v=4",
+    "location": "Pretoria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-08T09:24:19Z"
+  },
+  {
+    "login": "bakhona",
+    "name": "Bakona",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296603?s=72&u=a8dffb57490196ab45cd87d1c09494d6626ce12c&v=4",
+    "location": "Pretoria",
+    "company": "techrobot",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-06-04T14:19:49Z"
+  },
+  {
+    "login": "Kapambwe",
+    "name": "Abraham Kapambwe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/348207?s=72&u=2a33bf3f70f1ea39da387daed2027be9815e4da0&v=4",
+    "location": "Pretoria",
+    "company": "Neosoft",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1163,
+    "createdAt": "2010-07-29T13:36:08Z"
+  },
+  {
+    "login": "Eddymarais",
+    "name": "Eddy Marais",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/396242?s=72&u=262b3fe947b19bac8d4a42ecb79d395b81d644b9&v=4",
+    "location": "Pretoria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-12T09:00:14Z"
+  },
+  {
+    "login": "vantonderc",
+    "name": "Charl van Tonder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/511146?s=72&v=4",
+    "location": "Pretoria",
+    "company": "STS",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2010-12-06T07:43:25Z"
   }
 ]

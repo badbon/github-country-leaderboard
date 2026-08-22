@@ -237142,5 +237142,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-11-14T18:44:00Z"
+  },
+  {
+    "login": "jayfajardo",
+    "name": "Jay Fajardo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34034?s=72&u=82a0fb64bec8118fbbfbd18704e7de5d1ae81b85&v=4",
+    "location": "Manila",
+    "company": "Proudcloud",
+    "twitterUsername": "jayfajardo",
+    "followers": 75,
+    "privateContributions": 4,
+    "publicContributions": 4,
+    "createdAt": "2008-11-12T11:31:44Z"
+  },
+  {
+    "login": "jcuervo",
+    "name": "Chard Gonzales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42446?s=72&u=0a5c0ec2477dafa48c839fd3c1d6a8a3e6061f30&v=4",
+    "location": "Manila",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 747,
+    "publicContributions": 25,
+    "createdAt": "2008-12-24T08:29:16Z"
   }
 ]
