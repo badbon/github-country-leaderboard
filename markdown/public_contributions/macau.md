@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-08-22T15:28:10.406Z
+Generated: 2026-08-22T15:48:41.500Z
 
 Users: 457
 
@@ -25,4 +25,4 @@ Users: 457
 | 17 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 535 |
 | 18 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 464 |
 | 19 | [WindoC](https://github.com/WindoC) | Antonio Cheong |  |  | Macau | 425 |
-| 20 | [freemant2000](https://github.com/freemant2000) | Kent Tong | TipTec Development |  | Macau | 379 |
+| 20 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao Polytechnic University / Universidade de Coimbra  |  | Macao, China and Coimbra, Portugal | 417 |

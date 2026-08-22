@@ -214306,5 +214306,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-11-25T15:03:34Z"
+  },
+  {
+    "login": "tjaart",
+    "name": "Tjaart B.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101466?s=72&u=e8e4e710047c00c0019760a0caf4f1cbc1244f0f&v=4",
+    "location": "Pretoria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-07-03T17:13:31Z"
+  },
+  {
+    "login": "bamba",
+    "name": "Ndalama Khambani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89886?s=72&v=4",
+    "location": "Midrand/Centurion/Pretoria/Johannesburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-05-29T12:47:22Z"
+  },
+  {
+    "login": "rechae",
+    "name": "Steven Mtsweni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83674?s=72&v=4",
+    "location": "Pretoria",
+    "company": "Momentum",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-05-12T13:44:19Z"
   }
 ]
