@@ -136615,7 +136615,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1651,
+    "privateContributions": 1652,
     "publicContributions": 6,
     "createdAt": "2018-08-08T11:17:57Z"
   },
@@ -136676,7 +136676,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 505,
-    "publicContributions": 44,
+    "publicContributions": 45,
     "createdAt": "2018-09-23T12:01:29Z"
   },
   {
@@ -136891,7 +136891,7 @@
     "company": "NUS",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 158,
+    "privateContributions": 159,
     "publicContributions": 708,
     "createdAt": "2018-12-18T13:08:42Z"
   },
@@ -137444,7 +137444,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 110,
-    "publicContributions": 712,
+    "publicContributions": 745,
     "createdAt": "2018-09-28T11:54:29Z"
   },
   {
@@ -137480,7 +137480,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 725,
+    "publicContributions": 730,
     "createdAt": "2018-10-02T21:17:43Z"
   },
   {
@@ -144598,5 +144598,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-11-01T01:41:32Z"
+  },
+  {
+    "login": "yrchern",
+    "name": "Yuh-Rong Chen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4196708?s=72&u=080ba46e21e9aa247d80e0c9a3dcfe40aae1e5ff&v=4",
+    "location": "Taiwan || Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-19T01:10:14Z"
+  },
+  {
+    "login": "fiddler",
+    "name": "Jussi Kaijalainen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/477113?s=72&v=4",
+    "location": "Singapore | Helsinki",
+    "company": "Pactly | Wingmen ",
+    "twitterUsername": "kaijalainen",
+    "followers": 15,
+    "privateContributions": 2561,
+    "publicContributions": 4,
+    "createdAt": "2010-11-11T09:54:28Z"
   }
 ]
