@@ -202522,5 +202522,41 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2011-06-01T15:37:29Z"
+  },
+  {
+    "login": "alexache",
+    "name": "Alexander Cherdantsev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1201863?s=72&v=4",
+    "location": "Helsinki, Suomi",
+    "company": "AlphaSense",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-11-17T12:25:42Z"
+  },
+  {
+    "login": "aaleksu",
+    "name": "aleksi anisimov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1092344?s=72&u=c8326b54abe87c6effeb17e26f1bf6dce600560c&v=4",
+    "location": "Helsinki, Suomi",
+    "company": "ForFunDev",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1094,
+    "publicContributions": 1,
+    "createdAt": "2011-09-30T10:19:40Z"
+  },
+  {
+    "login": "kalps",
+    "name": "Yan Dyshkalps",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1017278?s=72&v=4",
+    "location": "Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 603,
+    "publicContributions": 0,
+    "createdAt": "2011-08-31T15:56:27Z"
   }
 ]

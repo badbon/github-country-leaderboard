@@ -199666,5 +199666,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-06-16T15:41:18Z"
+  },
+  {
+    "login": "mivalencia",
+    "name": "Maria Isabel Valencia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40038948?s=72&u=4f806996f9ff5d54703a87b977dfe8f0f05c8852&v=4",
+    "location": "The Netherlands / Colombia",
+    "company": "@oblicum",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-06-07T18:18:43Z"
+  },
+  {
+    "login": "Gerekt",
+    "name": "Mart Wevers",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42100039?s=72&u=71e8eef5a887964ff0b4d738fba6070eba94a90d&v=4",
+    "location": "Kingdom of the Netherlands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2018-08-04T20:14:52Z"
   }
 ]
