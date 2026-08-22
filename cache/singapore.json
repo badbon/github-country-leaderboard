@@ -18932,7 +18932,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 12,
     "createdAt": "2021-05-30T00:01:43Z"
   },
   {
@@ -121868,7 +121868,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 227,
-    "publicContributions": 266,
+    "publicContributions": 267,
     "createdAt": "2018-02-16T13:00:00Z"
   },
   {
@@ -121903,7 +121903,7 @@
     "company": "",
     "twitterUsername": "inanisgo",
     "followers": 16,
-    "privateContributions": 1882,
+    "privateContributions": 1887,
     "publicContributions": 46,
     "createdAt": "2018-03-09T12:36:47Z"
   },
@@ -121951,7 +121951,7 @@
     "company": "Djowo K",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 366,
+    "privateContributions": 369,
     "publicContributions": 6,
     "createdAt": "2018-02-08T06:04:04Z"
   },
@@ -121999,8 +121999,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 548,
-    "publicContributions": 572,
+    "privateContributions": 549,
+    "publicContributions": 604,
     "createdAt": "2018-02-09T15:48:27Z"
   },
   {
@@ -122443,7 +122443,7 @@
     "company": "National University of Singapore (NUS)",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 275,
+    "privateContributions": 278,
     "publicContributions": 13,
     "createdAt": "2018-03-25T10:05:22Z"
   },
@@ -122839,8 +122839,8 @@
     "company": "Nanyang Technological University",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1633,
-    "publicContributions": 1890,
+    "privateContributions": 1635,
+    "publicContributions": 1891,
     "createdAt": "2018-02-03T14:56:38Z"
   },
   {
@@ -122850,7 +122850,7 @@
     "location": "Science Park, Singapore",
     "company": "Graymatics",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2018-01-22T13:17:13Z"
@@ -122923,7 +122923,7 @@
     "company": "@Kpler ",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 4323,
+    "privateContributions": 4393,
     "publicContributions": 11,
     "createdAt": "2018-02-02T12:54:30Z"
   },
@@ -144550,5 +144550,29 @@
     "privateContributions": 4196,
     "publicContributions": 251,
     "createdAt": "2011-06-27T11:36:33Z"
+  },
+  {
+    "login": "spinningarrow",
+    "name": "Sahil Bajaj",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1797328?s=72&v=4",
+    "location": "Oslo | Hamburg | Singapore | Delhi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 88,
+    "privateContributions": 290,
+    "publicContributions": 19,
+    "createdAt": "2012-05-31T04:40:12Z"
+  },
+  {
+    "login": "isch-1504",
+    "name": "Isaac",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35399365?s=72&u=ce9310ce3093375c784b2bd83e7596e51c453ede&v=4",
+    "location": "Singapore",
+    "company": "Temasek Polytechnic",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-13T13:19:46Z"
   }
 ]

@@ -248206,5 +248206,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-25T11:13:46Z"
+  },
+  {
+    "login": "FarukBuyurgan",
+    "name": "Faruk Buyurgan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97468225?s=72&u=42d1548079686de5119b6cffd4b9fb61986c7db7&v=4",
+    "location": "Ankara",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-01-10T17:32:16Z"
+  },
+  {
+    "login": "denizdogruer",
+    "name": "Deniz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99607140?s=72&u=f73609e047fb45b5dcfe8016bf9e4cd60b62e31d&v=4",
+    "location": "Ankara",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-02-13T16:17:50Z"
+  },
+  {
+    "login": "Ahanci",
+    "name": "Abdulkerim Hancıoglu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102289367?s=72&v=4",
+    "location": "Ankara",
+    "company": "Bilişim School",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 84,
+    "createdAt": "2022-03-24T09:11:30Z"
   }
 ]
