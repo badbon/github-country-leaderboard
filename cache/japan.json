@@ -243634,5 +243634,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-06-07T05:12:12Z"
+  },
+  {
+    "login": "satoru814",
+    "name": "Satoru Sakamoto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51464932?s=72&v=4",
+    "location": "Tokyo, Japan",
+    "company": "freee K.K.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2019-06-06T23:10:43Z"
+  },
+  {
+    "login": "leomofu",
+    "name": "YEET",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51841285?s=72&v=4",
+    "location": "Japan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-15T01:05:46Z"
+  },
+  {
+    "login": "reeam",
+    "name": "reeam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51409644?s=72&u=5ac45fe180217cb82288eb962ac26b1fbafa6a10&v=4",
+    "location": "Japan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-06-05T13:31:57Z"
+  },
+  {
+    "login": "ntnamazu",
+    "name": "Nobuhiro Takaichi ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52042618?s=72&u=e2f5767425c5fff47c03c3f0b6fbe57a16d53f90&v=4",
+    "location": "Tokyo, Japan",
+    "company": "Daiichi Sankyo Co., Ltd.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1247,
+    "publicContributions": 105,
+    "createdAt": "2019-06-20T14:37:27Z"
+  },
+  {
+    "login": "dexiang",
+    "name": "tonyxu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5241810?s=72&u=bf39f3f40b73a6d1393195d4de74ddccfb5214a3&v=4",
+    "location": "Taiwan, Japan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 143,
+    "publicContributions": 10,
+    "createdAt": "2013-08-16T03:26:48Z"
   }
 ]

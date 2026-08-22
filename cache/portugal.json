@@ -245648,7 +245648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2015-01-14T13:45:07Z"
   },
   {
@@ -258550,5 +258550,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-10-02T16:12:37Z"
+  },
+  {
+    "login": "owlyac",
+    "name": "Andreia Coutinho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15036360?s=72&u=e1629d43a39bc35b0585737734f9daf067cd25a1&v=4",
+    "location": "Lisbon",
+    "company": "OWLY",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-10-08T16:28:15Z"
+  },
+  {
+    "login": "MaxLell",
+    "name": "MaxKoell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12395600?s=72&u=063478c4ad23f1c49650fc140546c97bc3a3b6e0&v=4",
+    "location": "Lisbon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5,
+    "publicContributions": 101,
+    "createdAt": "2015-05-11T13:48:57Z"
+  },
+  {
+    "login": "rkassab",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12969784?s=72&u=3b406f910aeca72585a810f3818b4da536c73492&v=4",
+    "location": "Lisbon",
+    "company": "PersistentLegacy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-19T17:06:13Z"
   }
 ]
