@@ -186754,5 +186754,65 @@
     "privateContributions": 0,
     "publicContributions": 179,
     "createdAt": "2008-10-03T15:50:11Z"
+  },
+  {
+    "login": "wallace",
+    "name": "Jonathan Wallace",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11443?s=72&v=4",
+    "location": "Athens, Ga",
+    "company": "@GitHub",
+    "twitterUsername": "",
+    "followers": 66,
+    "privateContributions": 883,
+    "publicContributions": 134,
+    "createdAt": "2008-05-25T14:04:24Z"
+  },
+  {
+    "login": "cbergman",
+    "name": "Casey Bergman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24303?s=72&u=8a9f5a946f79c7ffd3f9df851adeb923d2e9c613&v=4",
+    "location": "Athens, GA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 63,
+    "privateContributions": 234,
+    "publicContributions": 12,
+    "createdAt": "2008-09-12T11:16:43Z"
+  },
+  {
+    "login": "ewagoner",
+    "name": "Eric Wagoner",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2960?s=72&v=4",
+    "location": "Athens, GA",
+    "company": "LocallyGrown.net",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 4623,
+    "publicContributions": 1,
+    "createdAt": "2008-03-13T00:45:30Z"
+  },
+  {
+    "login": "utjacob",
+    "name": "Jacob Evans",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32544?s=72&v=4",
+    "location": "Athens, AL",
+    "company": "Evans Tech Support",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-11-04T03:44:15Z"
+  },
+  {
+    "login": "chrisnp",
+    "name": "Invigo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39852?s=72&v=4",
+    "location": "Athens, GR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 26,
+    "publicContributions": 55,
+    "createdAt": "2008-12-11T16:24:58Z"
   }
 ]

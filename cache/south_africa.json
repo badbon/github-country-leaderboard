@@ -209074,5 +209074,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-11T11:07:01Z"
+  },
+  {
+    "login": "lindagcaba",
+    "name": "Linda Oscar Gcaba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/741293?s=72&u=c234fef888c394dfd703b57a0b59acdd131131b4&v=4",
+    "location": "Pretoria",
+    "company": "@bluelox",
+    "twitterUsername": "lindagcaba",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2011-04-20T12:23:51Z"
+  },
+  {
+    "login": "3venthorizon",
+    "name": "Dewald Pretorius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/626394?s=72&u=4440f8fa9217c10b4d0c08de4be56f29538395ae&v=4",
+    "location": "Pretoria",
+    "company": "DevLambda",
+    "twitterUsername": "DewaldSkaak",
+    "followers": 7,
+    "privateContributions": 79,
+    "publicContributions": 4,
+    "createdAt": "2011-02-19T03:58:50Z"
+  },
+  {
+    "login": "stephangrobler",
+    "name": "Stephan Grobler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/648346?s=72&u=fdaeac8da712f676e73375abc77ca6c7411911eb&v=4",
+    "location": "Pretoria",
+    "company": "Private",
+    "twitterUsername": "stephanfx",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2011-03-03T04:31:38Z"
+  },
+  {
+    "login": "mariusl",
+    "name": "Marius Liebenberg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/942522?s=72&v=4",
+    "location": "Pretoria RSA",
+    "company": "ProtoMac",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2011-07-27T17:00:36Z"
+  },
+  {
+    "login": "pjnagel",
+    "name": "Pieter Nagel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1124793?s=72&u=95f3f02cd01fdd270e569ddc0ab5c415b935f500&v=4",
+    "location": "Pretoria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-10-13T07:35:10Z"
+  },
+  {
+    "login": "UncleBee",
+    "name": "Braiton U Mukhalela",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/564652?s=72&v=4",
+    "location": "Pretoria-RSA",
+    "company": "CSIR- Meraka Institute Afrimesh",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-01-14T13:18:56Z"
+  },
+  {
+    "login": "kishore2011",
+    "name": "GGPrj1",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/790680?s=72&v=4",
+    "location": "Pretoria ",
+    "company": "Antfarm",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-05-16T10:09:21Z"
   }
 ]

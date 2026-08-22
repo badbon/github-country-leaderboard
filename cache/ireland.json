@@ -200434,5 +200434,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2013-11-23T11:18:25Z"
+  },
+  {
+    "login": "merrickj",
+    "name": "James Merrick",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1630578?s=72&v=4",
+    "location": "Éire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 21,
+    "publicContributions": 0,
+    "createdAt": "2012-04-10T19:04:31Z"
+  },
+  {
+    "login": "UaSirideain",
+    "name": "Brian Ua Sirideáin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2468378?s=72&u=505b2950b38573759e499c76f6887905a91bb66f&v=4",
+    "location": "Áth Cliath, Éire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-10-02T01:52:04Z"
+  },
+  {
+    "login": "geoid",
+    "name": "Gearóid Healy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1749444?s=72&v=4",
+    "location": "Dublin, Éire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-05-17T14:57:58Z"
   }
 ]
