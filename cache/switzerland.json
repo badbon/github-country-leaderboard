@@ -281770,5 +281770,41 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2009-10-12T19:14:25Z"
+  },
+  {
+    "login": "denisrosset",
+    "name": "Denis Rosset",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93707?s=72&u=25127165e1c0f2c0b9042de5cc77ca6884995e45&v=4",
+    "location": "Genève, Suisse",
+    "company": "Université de Genève",
+    "twitterUsername": "",
+    "followers": 76,
+    "privateContributions": 268,
+    "publicContributions": 7,
+    "createdAt": "2009-06-09T19:43:51Z"
+  },
+  {
+    "login": "frizull",
+    "name": "Ian Bernardo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158708?s=72&v=4",
+    "location": "Genève, Suisse",
+    "company": "Frizull",
+    "twitterUsername": "frizull",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2009-11-27T00:47:01Z"
+  },
+  {
+    "login": "grean",
+    "name": "Réan Guillaume",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170967?s=72&u=794df040f47d02f6195005455e0deb3c422e749d&v=4",
+    "location": "Fribourg, Suisse",
+    "company": "Dietethic.net",
+    "twitterUsername": "reanGuillaume",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-12-22T14:09:04Z"
   }
 ]

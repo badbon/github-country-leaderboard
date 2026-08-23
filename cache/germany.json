@@ -318814,5 +318814,65 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-06-10T15:19:19Z"
+  },
+  {
+    "login": "marchirschvogel",
+    "name": "Marc Hirschvogel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52761273?s=72&u=55b063a168976c5ac873acdc08f1422851728f81&v=4",
+    "location": "Munich / London / Milan / Berlin",
+    "company": "Bundesanstalt für Materialforschung und -prüfung (BAM), Berlin, Germany",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 192,
+    "createdAt": "2019-07-10T20:22:24Z"
+  },
+  {
+    "login": "tntcyberdev",
+    "name": "TnT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1008438?s=72&v=4",
+    "location": "Berlin, Hanoi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-08-27T13:04:12Z"
+  },
+  {
+    "login": "nicksttar",
+    "name": "Nick ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113777798?s=72&u=c860cc1531638a4d97a139b7ba487748e281dd5a&v=4",
+    "location": "Dresden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 8,
+    "publicContributions": 15,
+    "createdAt": "2022-09-17T12:44:25Z"
+  },
+  {
+    "login": "Kryptonaer2021",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104027176?s=72&u=a436a869fe7b9779fb66627ccfd7f5d58d8625ca&v=4",
+    "location": "Dresden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-19T17:59:04Z"
+  },
+  {
+    "login": "carlosalemania",
+    "name": "Carlos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97766634?s=72&u=ff60534487f8f50eee7a7f293f3c6da1d94c7e95&v=4",
+    "location": "Dresden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2022-01-14T22:34:38Z"
   }
 ]

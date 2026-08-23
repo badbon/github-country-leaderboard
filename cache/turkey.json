@@ -296326,5 +296326,41 @@
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2022-12-22T15:33:13Z"
+  },
+  {
+    "login": "erdogancayir",
+    "name": "|erdogan|",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94300378?s=72&u=32cb490f848b1e34af9163418b6b084f3b2d4290&v=4",
+    "location": "Istanbul, Republic of Turkey",
+    "company": "Panteon Games",
+    "twitterUsername": "",
+    "followers": 98,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-11-14T13:44:19Z"
+  },
+  {
+    "login": "Hamza-Zengin",
+    "name": "Hamza Zengin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84475274?s=72&v=4",
+    "location": "Republic of Turkey",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-19T19:51:44Z"
+  },
+  {
+    "login": "TheGrandManifestor",
+    "name": "TheGrandManifestors",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84469378?s=72&u=1e921bfe03a900a3082cbb740412502c9a3fbd32&v=4",
+    "location": "Republic of Türkiye",
+    "company": "Manifestors Company Group",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2021-05-19T17:31:24Z"
   }
 ]

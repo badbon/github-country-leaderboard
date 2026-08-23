@@ -307018,5 +307018,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-12-11T19:24:05Z"
+  },
+  {
+    "login": "hthieu1110",
+    "name": "Yo HA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/836128?s=72&u=f702951cbaea50b72cb0821c71265fad7a0cdd3b&v=4",
+    "location": "Paris/Hanoi",
+    "company": "Teritori",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2011-06-07T21:34:18Z"
+  },
+  {
+    "login": "alessioscanziani",
+    "name": "Alessio Scanziani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58328866?s=72&u=c45ae87b2680b49a42516c84f9f01c47b899e6f9&v=4",
+    "location": "Paris, Milan, London",
+    "company": "Imperial College London",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-11-29T10:03:45Z"
   }
 ]
