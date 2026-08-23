@@ -243164,7 +243164,7 @@
     "twitterUsername": "uranusjr",
     "followers": 1227,
     "privateContributions": 0,
-    "publicContributions": 936,
+    "publicContributions": 937,
     "createdAt": "2011-02-07T18:58:52Z"
   },
   {
@@ -243210,7 +243210,7 @@
     "location": "Taipei, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 572,
+    "followers": 573,
     "privateContributions": 6,
     "publicContributions": 1556,
     "createdAt": "2011-08-06T13:46:14Z"
@@ -243272,7 +243272,7 @@
     "twitterUsername": "elct9620",
     "followers": 391,
     "privateContributions": 226,
-    "publicContributions": 8070,
+    "publicContributions": 8084,
     "createdAt": "2011-07-01T04:56:23Z"
   },
   {
@@ -243427,7 +243427,7 @@
     "company": "@Canner",
     "twitterUsername": "",
     "followers": 210,
-    "privateContributions": 1173,
+    "privateContributions": 1180,
     "publicContributions": 43,
     "createdAt": "2011-11-20T20:16:40Z"
   },
@@ -243583,7 +243583,7 @@
     "company": "",
     "twitterUsername": "wpinshih",
     "followers": 125,
-    "privateContributions": 785,
+    "privateContributions": 787,
     "publicContributions": 23,
     "createdAt": "2011-07-02T07:16:53Z"
   },
@@ -243656,7 +243656,7 @@
     "twitterUsername": "",
     "followers": 110,
     "privateContributions": 37,
-    "publicContributions": 944,
+    "publicContributions": 946,
     "createdAt": "2011-08-16T19:42:56Z"
   },
   {
@@ -243872,7 +243872,7 @@
     "twitterUsername": "spectralcodex",
     "followers": 77,
     "privateContributions": 2273,
-    "publicContributions": 1458,
+    "publicContributions": 1464,
     "createdAt": "2011-11-17T21:44:54Z"
   },
   {
@@ -243907,8 +243907,8 @@
     "company": "TIH",
     "twitterUsername": "pichuchen",
     "followers": 73,
-    "privateContributions": 883,
-    "publicContributions": 422,
+    "privateContributions": 912,
+    "publicContributions": 438,
     "createdAt": "2011-02-04T10:48:18Z"
   },
   {
@@ -244075,7 +244075,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 61,
-    "privateContributions": 422,
+    "privateContributions": 427,
     "publicContributions": 16,
     "createdAt": "2011-07-10T18:07:17Z"
   },
@@ -244159,8 +244159,8 @@
     "company": "",
     "twitterUsername": "akunzai",
     "followers": 57,
-    "privateContributions": 2597,
-    "publicContributions": 4163,
+    "privateContributions": 2694,
+    "publicContributions": 4209,
     "createdAt": "2011-01-20T16:01:57Z"
   },
   {
@@ -244423,8 +244423,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 47,
-    "privateContributions": 1807,
-    "publicContributions": 321,
+    "privateContributions": 1814,
+    "publicContributions": 322,
     "createdAt": "2011-12-18T15:12:50Z"
   },
   {
@@ -244496,7 +244496,7 @@
     "twitterUsername": "",
     "followers": 44,
     "privateContributions": 0,
-    "publicContributions": 1251,
+    "publicContributions": 1254,
     "createdAt": "2011-01-01T20:34:52Z"
   },
   {
@@ -244772,7 +244772,7 @@
     "twitterUsername": "JoeAngel_tw",
     "followers": 36,
     "privateContributions": 97,
-    "publicContributions": 111,
+    "publicContributions": 113,
     "createdAt": "2011-09-01T03:16:32Z"
   },
   {
@@ -251974,5 +251974,245 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2011-05-11T02:35:48Z"
+  },
+  {
+    "login": "wush978",
+    "name": "Wush Wu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1252618?s=72&u=86fd3b53996b23ad5cea34bcaeff72e0f0b2deff&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 310,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2011-12-09T16:48:28Z"
+  },
+  {
+    "login": "andyyou",
+    "name": "andyyou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/665690?s=72&v=4",
+    "location": "Taipei",
+    "company": "N/A",
+    "twitterUsername": "",
+    "followers": 306,
+    "privateContributions": 1805,
+    "publicContributions": 16,
+    "createdAt": "2011-03-12T14:00:28Z"
+  },
+  {
+    "login": "hasufell",
+    "name": "Julian Ospald",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1241845?s=72&u=a3f00983866d8079447d44c97ab6f20dcd550272&v=4",
+    "location": "Taipei",
+    "company": "Durian Consulting Pte. Ltd.",
+    "twitterUsername": "",
+    "followers": 273,
+    "privateContributions": 1,
+    "publicContributions": 825,
+    "createdAt": "2011-12-05T14:04:08Z"
+  },
+  {
+    "login": "philipz",
+    "name": "philipz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/664465?s=72&u=1983a0fe5cacfb6150c75c932b2ee66fa150120a&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 219,
+    "privateContributions": 5491,
+    "publicContributions": 383,
+    "createdAt": "2011-03-11T17:09:27Z"
+  },
+  {
+    "login": "c3h3",
+    "name": "Chia-Chi Chang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/748256?s=72&v=4",
+    "location": "Taipei",
+    "company": "agilearning.io",
+    "twitterUsername": "",
+    "followers": 207,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-24T02:20:07Z"
+  },
+  {
+    "login": "miaoski",
+    "name": "miaoski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1225613?s=72&v=4",
+    "location": "Taipei City",
+    "company": "@g0v ",
+    "twitterUsername": "",
+    "followers": 136,
+    "privateContributions": 0,
+    "publicContributions": 1053,
+    "createdAt": "2011-11-28T15:22:20Z"
+  },
+  {
+    "login": "linroex",
+    "name": "Karl Lin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1254953?s=72&u=76c6c34a131abe8c7203d9045323fec93a006c9f&v=4",
+    "location": "Taipei",
+    "company": "NCTU CS",
+    "twitterUsername": "linroex",
+    "followers": 101,
+    "privateContributions": 33,
+    "publicContributions": 333,
+    "createdAt": "2011-12-11T03:33:27Z"
+  },
+  {
+    "login": "cage1016",
+    "name": "Kai-Chu Chung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/678607?s=72&u=0aca603b956e722cb00ced0d3d844cec15f999de&v=4",
+    "location": "Taipei",
+    "company": "IBM",
+    "twitterUsername": "CageChung",
+    "followers": 93,
+    "privateContributions": 211,
+    "publicContributions": 21,
+    "createdAt": "2011-03-19T12:26:43Z"
+  },
+  {
+    "login": "boczeratul",
+    "name": "Hsuan Lee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1079990?s=72&u=bfc1239e428f4175654e8911d39417282fd7ef4d&v=4",
+    "location": "Taipei",
+    "company": "@portto @cobinhood",
+    "twitterUsername": "hleetw",
+    "followers": 90,
+    "privateContributions": 26,
+    "publicContributions": 0,
+    "createdAt": "2011-09-26T08:30:02Z"
+  },
+  {
+    "login": "askeing",
+    "name": "Askeing Yen (fyen)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1042649?s=72&v=4",
+    "location": "Taipei",
+    "company": "Mozilla Corporation",
+    "twitterUsername": "",
+    "followers": 79,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-09-11T17:04:46Z"
+  },
+  {
+    "login": "danielinteractive",
+    "name": "Daniel Sabanes Bove",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1071227?s=72&u=71ee2bcf3a4e0ef04fceabc04f8c0e345fd99162&v=4",
+    "location": "Taipei",
+    "company": "@RCONIS",
+    "twitterUsername": "",
+    "followers": 76,
+    "privateContributions": 978,
+    "publicContributions": 881,
+    "createdAt": "2011-09-22T14:25:01Z"
+  },
+  {
+    "login": "lis186",
+    "name": "Justin Lee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/635405?s=72&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 73,
+    "privateContributions": 2721,
+    "publicContributions": 2394,
+    "createdAt": "2011-02-24T05:39:02Z"
+  },
+  {
+    "login": "davidandreoletti",
+    "name": "David Andreoletti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1195702?s=72&v=4",
+    "location": "Earth / Taipei",
+    "company": "IO Stark / iostark.com",
+    "twitterUsername": "",
+    "followers": 55,
+    "privateContributions": 0,
+    "publicContributions": 54,
+    "createdAt": "2011-11-15T05:55:06Z"
+  },
+  {
+    "login": "tzengyuxio",
+    "name": "Tzeng Yuxio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/938388?s=72&u=afcdac9c8a6bb1170397b0b8be9e2e4b4844e17a&v=4",
+    "location": "Sanchong, New Taipei City",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 55,
+    "privateContributions": 401,
+    "publicContributions": 2914,
+    "createdAt": "2011-07-25T22:41:56Z"
+  },
+  {
+    "login": "blackie1019",
+    "name": "Chen-Tien Tsai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/824412?s=72&u=115482cd24c35832dd1df0d624d84ac450ed9e7f&v=4",
+    "location": "Taipei",
+    "company": "BlackStudio",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2011-06-02T01:28:35Z"
+  },
+  {
+    "login": "j796160836",
+    "name": "Johnny Sung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/686478?s=72&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 4,
+    "publicContributions": 75,
+    "createdAt": "2011-03-23T16:19:24Z"
+  },
+  {
+    "login": "lettucebo",
+    "name": "Money",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/891383?s=72&u=ff3a263068f079872ba92109b4fa16305a6445f3&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 2660,
+    "publicContributions": 2157,
+    "createdAt": "2011-07-03T08:16:42Z"
+  },
+  {
+    "login": "cnevinc",
+    "name": "Nevin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1287363?s=72&u=68fb420a39caf4603a41d1b0f4689eadd7ca0a7a&v=4",
+    "location": "Taipei",
+    "company": "Mozilla",
+    "twitterUsername": "",
+    "followers": 38,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-12-27T04:05:50Z"
+  },
+  {
+    "login": "cfrco",
+    "name": "CatXiao",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/797466?s=72&u=b4993a93dea38ac55f9aba73e4c538c2a24745de&v=4",
+    "location": "Asia/Taipei",
+    "company": "@MeowDev ",
+    "twitterUsername": "",
+    "followers": 36,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-05-19T06:27:58Z"
+  },
+  {
+    "login": "elliot79313",
+    "name": "elliot",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/741383?s=72&u=8be56bbd8977896a363fc648a3ae7307316dfd1c&v=4",
+    "location": "Taipei",
+    "company": "QSearch",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 195,
+    "publicContributions": 10,
+    "createdAt": "2011-04-20T13:21:31Z"
   }
 ]

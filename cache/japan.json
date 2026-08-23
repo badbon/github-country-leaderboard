@@ -243787,8 +243787,8 @@
     "company": "@21-Dreams ",
     "twitterUsername": "theramjad",
     "followers": 111,
-    "privateContributions": 17182,
-    "publicContributions": 1027,
+    "privateContributions": 17238,
+    "publicContributions": 1031,
     "createdAt": "2019-07-14T08:44:44Z"
   },
   {
@@ -243823,8 +243823,8 @@
     "company": "Senior AI Platform Engineer | CAIO Office @freee",
     "twitterUsername": "dev_soon0_0",
     "followers": 96,
-    "privateContributions": 6232,
-    "publicContributions": 1000,
+    "privateContributions": 6245,
+    "publicContributions": 1002,
     "createdAt": "2019-08-05T15:45:21Z"
   },
   {
@@ -276094,5 +276094,125 @@
     "privateContributions": 132,
     "publicContributions": 0,
     "createdAt": "2011-09-22T04:51:30Z"
+  },
+  {
+    "login": "Misaka13514",
+    "name": "Rine Amakawa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54669781?s=72&u=f4a537b187934043022fbc202e4f7a41936fe351&v=4",
+    "location": "Asia/Tokyo",
+    "company": "Package Maintainer @archlinuxcn & @NixOS | Tech Support @one-among-us",
+    "twitterUsername": "",
+    "followers": 291,
+    "privateContributions": 478,
+    "publicContributions": 573,
+    "createdAt": "2019-08-29T11:31:28Z"
+  },
+  {
+    "login": "sivchari",
+    "name": "Takuma Shibuya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55221074?s=72&u=8fd9231ce614bcaf5b69bb8d4214a27991a82acc&v=4",
+    "location": "Asia/Tokyo",
+    "company": "",
+    "twitterUsername": "sivchari",
+    "followers": 187,
+    "privateContributions": 2489,
+    "publicContributions": 2531,
+    "createdAt": "2019-09-12T02:28:40Z"
+  },
+  {
+    "login": "kunkka19xx",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53131553?s=72&u=9f02fe9d9b0d2b4cf85a1079304c431207163c7d&v=4",
+    "location": "Tokyo",
+    "company": "",
+    "twitterUsername": "kunkka19xx",
+    "followers": 150,
+    "privateContributions": 598,
+    "publicContributions": 902,
+    "createdAt": "2019-07-21T02:00:39Z"
+  },
+  {
+    "login": "Koukyosyumei",
+    "name": "Hideaki Takahashi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54299088?s=72&u=648f0bf2ac6a7f29409a49c6e38941cd9446f056&v=4",
+    "location": "Tokyo → New York",
+    "company": "Columbia University",
+    "twitterUsername": "Koukyosyumei",
+    "followers": 123,
+    "privateContributions": 2020,
+    "publicContributions": 2673,
+    "createdAt": "2019-08-20T02:49:42Z"
+  },
+  {
+    "login": "abap34",
+    "name": "abap34",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53076594?s=72&u=7f2ca9ae4053030c55c3f583e5be008e0225c1f8&v=4",
+    "location": "Tokyo",
+    "company": "Institute of Science Tokyo",
+    "twitterUsername": "abap34",
+    "followers": 115,
+    "privateContributions": 637,
+    "publicContributions": 1645,
+    "createdAt": "2019-07-19T07:34:18Z"
+  },
+  {
+    "login": "deepkashiwa20",
+    "name": "Renhe Jiang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54202779?s=72&v=4",
+    "location": "Tokyo",
+    "company": "The University of Tokyo",
+    "twitterUsername": "",
+    "followers": 102,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2019-08-17T08:13:06Z"
+  },
+  {
+    "login": "hamadayuuki",
+    "name": "hamadayuuki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55442055?s=72&u=08b4d025d0f5fc68d577e85cf4dadc844db5ce4c&v=4",
+    "location": "Tokyo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 67,
+    "privateContributions": 1458,
+    "publicContributions": 377,
+    "createdAt": "2019-09-17T11:35:54Z"
+  },
+  {
+    "login": "kikuie",
+    "name": "takashi kikui",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53303569?s=72&v=4",
+    "location": "Tokyo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 66,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-25T12:39:08Z"
+  },
+  {
+    "login": "coz-m",
+    "name": "coji morishita",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55127265?s=72&u=4beebb3340ea274faa177fa7e739bc90b8f852c3&v=4",
+    "location": "Tokyo",
+    "company": "UNDERFOREST DESIGN",
+    "twitterUsername": "coz",
+    "followers": 62,
+    "privateContributions": 0,
+    "publicContributions": 298,
+    "createdAt": "2019-09-10T06:22:49Z"
+  },
+  {
+    "login": "norisaco",
+    "name": "norisaco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/735882?s=72&u=55e1c3cdc84a5c2debe68e4f85e87218786df4da&v=4",
+    "location": "Japan / Tokyo / Kagoshima / Vietnam",
+    "company": "saco",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-04-18T05:40:51Z"
   }
 ]
