@@ -215696,7 +215696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 12,
     "createdAt": "2022-05-07T06:31:32Z"
   },
   {
@@ -215743,8 +215743,8 @@
     "company": "Butterfly Digital",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1530,
-    "publicContributions": 421,
+    "privateContributions": 1536,
+    "publicContributions": 419,
     "createdAt": "2022-05-08T15:38:53Z"
   },
   {
@@ -224828,7 +224828,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 30,
     "createdAt": "2022-05-22T04:24:12Z"
   },
   {
@@ -265354,5 +265354,137 @@
     "privateContributions": 0,
     "publicContributions": 200,
     "createdAt": "2022-05-08T12:58:49Z"
+  },
+  {
+    "login": "jahidhasan21",
+    "name": "Md Jahid Hasan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104131051?s=72&u=a4d867244b7a03f81ab19d280adff298c3c1f919&v=4",
+    "location": "Dhaka",
+    "company": "Simec System Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2022-04-21T08:15:16Z"
+  },
+  {
+    "login": "viraeshop",
+    "name": "MD Riyadh Hossain ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105651066?s=72&u=3b6dff25553ec9d89a86485d024384a13251608d&v=4",
+    "location": "Ta 35, New Airport Road Amtoli Mohakhali Dhaka 1212.",
+    "company": "viraeshop",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2022-05-16T13:20:12Z"
+  },
+  {
+    "login": "Avinanda2370",
+    "name": "Antu Chakraborty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102664151?s=72&u=f95daa5cb8da56556e45d1e5004a63a6ca009725&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-03-30T10:44:49Z"
+  },
+  {
+    "login": "mdmoktadirul",
+    "name": "Md Moktadirul",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102919631?s=72&u=a676d8edb4716e5f4e78c9d2cc2c73bf828dacdc&v=4",
+    "location": "Dhaka",
+    "company": "wdc",
+    "twitterUsername": "moktadirul",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-04-03T17:19:48Z"
+  },
+  {
+    "login": "fatima736",
+    "name": "Fatimatuj Johra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106140476?s=72&u=c97baf7651e2760e9c0ab4fc740bf73dcac104a5&v=4",
+    "location": "Luxmibazar,Dhaka-1100",
+    "company": "",
+    "twitterUsername": "fatimaj736",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-24T06:46:11Z"
+  },
+  {
+    "login": "Afnansayed",
+    "name": "Afnan Sayed Razin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108231046?s=72&u=cce1204755162c87136eea2510e8b6d9840631d3&v=4",
+    "location": "Nikunja-2 , Dhaka ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 522,
+    "publicContributions": 475,
+    "createdAt": "2022-06-26T15:56:30Z"
+  },
+  {
+    "login": "munir79",
+    "name": "Jakir Hossain Munir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108367051?s=72&u=6b8a70810ba1b50f2d9f8aa0404fbae7aabe62d5&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2022-06-28T19:34:21Z"
+  },
+  {
+    "login": "NnR2D2",
+    "name": "Nitta Nando Roy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107245457?s=72&u=75daa7c9433b49ac498138203085f829577caa9d&v=4",
+    "location": "Dhaka",
+    "company": "Daffodil International University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 32,
+    "publicContributions": 318,
+    "createdAt": "2022-06-10T08:16:19Z"
+  },
+  {
+    "login": "Nazim6269",
+    "name": "Nazim Uddin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107185368?s=72&u=db4f369f9596a45bc1356d79b6d7a9ec77afc669&v=4",
+    "location": "Dhaka, BD",
+    "company": "@backbencherstudio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1019,
+    "publicContributions": 1007,
+    "createdAt": "2022-06-09T10:25:31Z"
+  },
+  {
+    "login": "sohan-khan31",
+    "name": "Md Sohan Khan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107574453?s=72&u=18cd7d59a7a63179f5320484aa6a62c7cefe82b0&v=4",
+    "location": "Dhaka, Bangladesh ",
+    "company": "University of Dhaka",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 69,
+    "createdAt": "2022-06-15T17:16:37Z"
+  },
+  {
+    "login": "TahalilAzim",
+    "name": "Tahalil Azim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105869446?s=72&u=af593d1669adf562ef2dd966917ef629b2c57990&v=4",
+    "location": "Narayanjong, Dhaka",
+    "company": "United International University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-05-19T14:24:03Z"
   }
 ]
