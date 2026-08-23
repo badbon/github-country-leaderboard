@@ -264274,5 +264274,89 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2008-08-14T07:14:18Z"
+  },
+  {
+    "login": "repeat",
+    "name": "Repeat Yang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11508?s=72&u=f1b5a8e4c8b97c4039b25a260a8d5ca6cad1443c&v=4",
+    "location": "Zhongshan Dist., Taipei City",
+    "company": "@PixnetTech ",
+    "twitterUsername": "repeat",
+    "followers": 37,
+    "privateContributions": 1929,
+    "publicContributions": 44,
+    "createdAt": "2008-05-26T08:41:03Z"
+  },
+  {
+    "login": "vanillahsu",
+    "name": "Vanilla Hsu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22189?s=72&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 37,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2008-08-27T13:34:50Z"
+  },
+  {
+    "login": "hippo5329",
+    "name": "Thomas Chou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3335?s=72&u=30d2b916e1208f898f935c6f72b9df6bb3895237&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 35,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2008-03-18T02:52:28Z"
+  },
+  {
+    "login": "chw2054",
+    "name": "Wayne Chang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29627?s=72&u=7807a315339ae234c62adf703ce9100da035d1cc&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2008-10-18T03:47:03Z"
+  },
+  {
+    "login": "jaiyalas",
+    "name": "Yun-Yan Chi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10867?s=72&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2008-05-20T13:02:34Z"
+  },
+  {
+    "login": "warmwater",
+    "name": "bigdav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19963?s=72&v=4",
+    "location": "taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2008-08-08T00:28:17Z"
+  },
+  {
+    "login": "dragonyy",
+    "name": "Wen-Lung Yinn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34716?s=72&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-11-16T04:04:47Z"
   }
 ]
