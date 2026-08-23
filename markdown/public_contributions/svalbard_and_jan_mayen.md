@@ -1,12 +1,12 @@
 # Public Contributions - Svalbard and Jan Mayen
 
-Generated: 2026-08-23T13:53:51.067Z
+Generated: 2026-08-23T14:14:15.952Z
 
 Users: 10
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | @franksgrandtour |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 809 |
+| 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | @franksgrandtour |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 883 |
 | 2 | [encrize](https://github.com/encrize) | encrize | @huawei |  | Svalbard og Jan Mayen | 331 |
 | 3 | [JennyJohnsby](https://github.com/JennyJohnsby) | Jenny Johnsby |  |  | Longyearbyen | 106 |
 | 4 | [danavitski](https://github.com/danavitski) | Daan Kivits | Svalbard Integrated Arctic Earth Observing System (SIOS) |  | Longyearbyen, Svalbard | 49 |
