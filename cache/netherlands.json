@@ -246295,7 +246295,7 @@
     "company": "@cgservices ",
     "twitterUsername": "OmiidMe",
     "followers": 83,
-    "privateContributions": 2138,
+    "privateContributions": 2145,
     "publicContributions": 63,
     "createdAt": "2017-02-28T15:54:42Z"
   },
@@ -246703,7 +246703,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 39,
-    "privateContributions": 83,
+    "privateContributions": 88,
     "publicContributions": 26,
     "createdAt": "2017-02-16T19:33:08Z"
   },
@@ -256088,7 +256088,7 @@
     "twitterUsername": "",
     "followers": 121,
     "privateContributions": 1732,
-    "publicContributions": 205,
+    "publicContributions": 206,
     "createdAt": "2017-05-10T14:37:53Z"
   },
   {
@@ -256147,7 +256147,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 98,
-    "privateContributions": 3049,
+    "privateContributions": 3051,
     "publicContributions": 19,
     "createdAt": "2017-04-26T19:10:54Z"
   },
@@ -256928,7 +256928,7 @@
     "twitterUsername": "",
     "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 521,
+    "publicContributions": 522,
     "createdAt": "2017-06-07T17:31:26Z"
   },
   {
@@ -256963,7 +256963,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 1379,
+    "privateContributions": 1381,
     "publicContributions": 34,
     "createdAt": "2017-04-28T13:26:48Z"
   },
@@ -257011,7 +257011,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 1185,
+    "privateContributions": 1214,
     "publicContributions": 1150,
     "createdAt": "2017-06-06T13:10:01Z"
   },
@@ -282670,5 +282670,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-10-16T19:07:48Z"
+  },
+  {
+    "login": "panoply",
+    "name": "ΝΙΚΟΛΑΣ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7041324?s=72&u=b546aead4ef4d464152da5e0fe88cb7835166a73&v=4",
+    "location": "Stockholm • Amsterdam",
+    "company": "",
+    "twitterUsername": "niksavvidis",
+    "followers": 149,
+    "privateContributions": 58,
+    "publicContributions": 12,
+    "createdAt": "2014-03-23T21:43:14Z"
   }
 ]
