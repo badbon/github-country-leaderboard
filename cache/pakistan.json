@@ -298495,7 +298495,7 @@
     "company": "https://www.hysetech.so/",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 272,
+    "privateContributions": 274,
     "publicContributions": 42,
     "createdAt": "2021-09-01T14:54:59Z"
   },
@@ -315370,5 +315370,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-22T18:28:10Z"
+  },
+  {
+    "login": "sherozezafar",
+    "name": "Muhammad sharoze",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92706981?s=72&u=387b431cfaa8a584d32c6112f7f0e330fd68d30d&v=4",
+    "location": "ISLAMABAD",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-18T04:51:02Z"
+  },
+  {
+    "login": "MAH-SOLUTIONS",
+    "name": "MAH SOLUTIONS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92395721?s=72&u=f1a22e81a9a37c8b15c5723ebe52d53e3cfdd223&v=4",
+    "location": "ISLAMABAD",
+    "company": "MR. MAH SOFTWARE SOLUTIONS",
+    "twitterUsername": "mah_solutions",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-12T18:13:25Z"
+  },
+  {
+    "login": "syedTahaRizwan",
+    "name": "Syed Taha Rizwan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79469095?s=72&u=4e78de059d32ac1a1825841fbe243351a9a3225b&v=4",
+    "location": "Islamabad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2021-02-22T16:23:11Z"
+  },
+  {
+    "login": "AmadTalat",
+    "name": "Amad Talat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80244319?s=72&v=4",
+    "location": "Islamabad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-08T07:10:54Z"
+  },
+  {
+    "login": "ClubDewan",
+    "name": "Abdullah Ali Dewan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95117227?s=72&v=4",
+    "location": "Islamabad/Rawalpindi/Mandi Bahauddin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-27T05:42:47Z"
+  },
+  {
+    "login": "MSaadSohail",
+    "name": "Saad Sohail",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87619147?s=72&u=ed84b7f852aff405fbfe269a31be08d288545593&v=4",
+    "location": "Islamabad",
+    "company": "Algoryte",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 581,
+    "publicContributions": 54,
+    "createdAt": "2021-07-18T20:02:54Z"
+  },
+  {
+    "login": "ehmiii",
+    "name": "Ahmad Khan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96626724?s=72&u=7241077f046ea51ca6c08bec3fe63cc17af95ce5&v=4",
+    "location": "Islamabad",
+    "company": "Whizpool",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2021-12-24T15:07:29Z"
+  },
+  {
+    "login": "Satti201",
+    "name": "M. Mansoor Satti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91376104?s=72&u=8c5742ca6ec4ff214ea1ea3573aef3904ccc1fa3&v=4",
+    "location": "Islamabad",
+    "company": "@nexarsolutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1199,
+    "publicContributions": 97,
+    "createdAt": "2021-09-25T12:35:31Z"
   }
 ]
