@@ -335122,5 +335122,41 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2021-07-01T16:39:24Z"
+  },
+  {
+    "login": "nicoelzer",
+    "name": "Nico Elzer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1383195?s=72&u=939b01cb5f8862c345423c8d654175374018b7cb&v=4",
+    "location": "Berlin / Lisbon",
+    "company": "",
+    "twitterUsername": "nico_elzer",
+    "followers": 20,
+    "privateContributions": 757,
+    "publicContributions": 4,
+    "createdAt": "2012-01-26T21:02:14Z"
+  },
+  {
+    "login": "opus131",
+    "name": "Markus Klug",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1549318?s=72&u=2c8deccac95113a0a20f1d9470a3d7fc75919c6a&v=4",
+    "location": "Berlin, Frankfurt, Lisbon",
+    "company": "@292labs ",
+    "twitterUsername": "opus131",
+    "followers": 16,
+    "privateContributions": 4839,
+    "publicContributions": 17,
+    "createdAt": "2012-03-18T09:55:43Z"
+  },
+  {
+    "login": "dreh23",
+    "name": "Johannes Amorosa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2920258?s=72&v=4",
+    "location": "Lisbon, Berlin - Europe",
+    "company": "@zoi",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2012-11-29T09:44:58Z"
   }
 ]
