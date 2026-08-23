@@ -264250,5 +264250,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-02-28T12:19:45Z"
+  },
+  {
+    "login": "ayn",
+    "name": "Andrew Ng",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6760?s=72&v=4",
+    "location": "Taipei",
+    "company": "Lightmist Coffee",
+    "twitterUsername": "",
+    "followers": 182,
+    "privateContributions": 1785,
+    "publicContributions": 247,
+    "createdAt": "2008-04-11T19:47:58Z"
+  },
+  {
+    "login": "bjornstar",
+    "name": "Bjorn Stromberg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20630?s=72&u=77ac6ea25f19c50fb6e3eebb7c1c87c5ce5e12fc&v=4",
+    "location": "Taipei",
+    "company": "",
+    "twitterUsername": "bjornstar",
+    "followers": 167,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2008-08-14T07:14:18Z"
   }
 ]
