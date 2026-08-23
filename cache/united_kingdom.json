@@ -295810,5 +295810,53 @@
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2021-06-21T19:46:14Z"
+  },
+  {
+    "login": "d3z",
+    "name": "Gareth Fleming",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84984?s=72&u=ce4f9a23ba49b1b97d6ce71a17cc11e64a8ad80d&v=4",
+    "location": "Northern Ireland",
+    "company": "@joocy",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2009-05-15T15:31:27Z"
+  },
+  {
+    "login": "rossma",
+    "name": "Ross Mahony",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71744?s=72&u=b856791293f10655418e0eabfd5464c23e3a2f0c&v=4",
+    "location": "Bangor, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-04-08T10:48:40Z"
+  },
+  {
+    "login": "patrickkeehan",
+    "name": "Patrick Keehan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171337?s=72&v=4",
+    "location": "Belfast, Northern Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-12-23T10:34:51Z"
+  },
+  {
+    "login": "lukerobinson",
+    "name": "Luke Robinson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151163?s=72&v=4",
+    "location": "Northern Ireland",
+    "company": "Orchard Solutions",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-11-10T08:29:16Z"
   }
 ]
