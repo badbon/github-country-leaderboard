@@ -215662,5 +215662,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-11-19T14:05:51Z"
+  },
+  {
+    "login": "minhprg",
+    "name": "Hà Quang Minh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160644?s=72&u=0c943bb6b58364a244cecdb691cca68c2a1c9a8b&v=4",
+    "location": "Louvain-la-Neuve, Belgique",
+    "company": "N/A",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-12-02T02:04:27Z"
+  },
+  {
+    "login": "Hermiten",
+    "name": "Hermite",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151466?s=72&v=4",
+    "location": "Belgique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2009-11-10T20:55:53Z"
   }
 ]
