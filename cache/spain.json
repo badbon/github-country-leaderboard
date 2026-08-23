@@ -314830,5 +314830,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-01T11:59:49Z"
+  },
+  {
+    "login": "LucixML",
+    "name": "Lucía Moreno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90600791?s=72&v=4",
+    "location": "Madrid",
+    "company": "UC3M",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-09-13T07:03:54Z"
+  },
+  {
+    "login": "AnnaLedesma",
+    "name": "Anna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95017981?s=72&u=2497f7396f88a97bc26eea99bf0b3ccd27eddb5a&v=4",
+    "location": "Madrid",
+    "company": "",
+    "twitterUsername": "AnnLedesm",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-11-25T07:45:29Z"
+  },
+  {
+    "login": "jorgemonteroh",
+    "name": "J.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91729151?s=72&u=591891235093fa79911702699ffa8603efb9cf5f&v=4",
+    "location": "Madrid",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 81,
+    "publicContributions": 4,
+    "createdAt": "2021-10-01T09:49:37Z"
+  },
+  {
+    "login": "CarlosP24",
+    "name": "Carlos Payá",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93740954?s=72&v=4",
+    "location": "Madrid",
+    "company": "CSIC",
+    "twitterUsername": "cPaya_phys",
+    "followers": 3,
+    "privateContributions": 103,
+    "publicContributions": 301,
+    "createdAt": "2021-11-04T21:39:01Z"
+  },
+  {
+    "login": "Venka03",
+    "name": "Ivan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94617502?s=72&v=4",
+    "location": "Leganés, Madrid",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 104,
+    "createdAt": "2021-11-18T12:33:08Z"
+  },
+  {
+    "login": "CarolainMaccha",
+    "name": "Carolain Maccha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91731890?s=72&u=6d51f87eb97c5c401d8286a4bd23db81f4efeaf6&v=4",
+    "location": "Madrid",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-10-01T10:44:52Z"
+  },
+  {
+    "login": "alejandquintero",
+    "name": "Alejandro Quintero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91087042?s=72&u=a36ef044f67a45186d725b38b959631483ee0bad&v=4",
+    "location": "Madrid",
+    "company": "PROMUSICAE",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2021-09-20T17:45:51Z"
+  },
+  {
+    "login": "palolo25",
+    "name": "Pablo Segura Barranco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89455065?s=72&v=4",
+    "location": "Madrid",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-08-24T10:18:40Z"
+  },
+  {
+    "login": "Jorgegs102",
+    "name": "Jorge González Sierra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86670637?s=72&v=4",
+    "location": "Madrid",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-29T14:07:32Z"
   }
 ]

@@ -302842,5 +302842,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-04-12T23:05:10Z"
+  },
+  {
+    "login": "mbengtsson",
+    "name": "Marcus Bengtsson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7785118?s=72&u=f9839b3ebd6a6385fe7cbf5bd034c07691f100b5&v=4",
+    "location": "Gothenburg, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 8,
+    "publicContributions": 3,
+    "createdAt": "2014-06-03T19:41:34Z"
   }
 ]
