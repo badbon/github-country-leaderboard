@@ -248578,5 +248578,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-23T07:55:14Z"
+  },
+  {
+    "login": "LotusZadrotus",
+    "name": "Nikita Mikhalchenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53489119?s=72&u=b65eaaf98058541019cd53b33bf9544661136e8b&v=4",
+    "location": "Odessa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2019-07-30T16:54:22Z"
+  },
+  {
+    "login": "IvanPolitanskyi",
+    "name": "Ivan Politanskyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48407656?s=72&u=65571a319ccbe442a1ddd0fda7188c5341826500&v=4",
+    "location": "Odessa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2019-03-10T11:56:30Z"
+  },
+  {
+    "login": "vmathtime",
+    "name": "Vladyslav Chabaniuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53174845?s=72&u=942a645fe12d5cefdb17858d7550d6568c945c67&v=4",
+    "location": "Odessa",
+    "company": "Andersen",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-22T10:00:32Z"
+  },
+  {
+    "login": "alexey-baev-distillery",
+    "name": "Alexey Baev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46525582?s=72&v=4",
+    "location": "Odessa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-01-09T11:49:32Z"
+  },
+  {
+    "login": "alexmatheus21",
+    "name": "Alexander Menezes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56219615?s=72&u=d31ecb16642b7b246ceadc74aa2f6d962bab4bca&v=4",
+    "location": "Nova Odessa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2019-10-06T09:43:33Z"
+  },
+  {
+    "login": "oleksandruvarov-okta",
+    "name": "Alex Uva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52164532?s=72&v=4",
+    "location": "Odessa",
+    "company": "okta",
+    "twitterUsername": "no_twitter",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-24T13:01:56Z"
+  },
+  {
+    "login": "Maryna-Kamenna",
+    "name": "Marina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47524903?s=72&u=671b84550fe0e2899e1fd7c8b322de2f6e7764f6&v=4",
+    "location": "Odessa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-11T11:44:05Z"
+  },
+  {
+    "login": "moraes99",
+    "name": "Rafael Moraes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48803508?s=72&u=16fbf233c3ba4f95b822f9006fd3b2a793d71e29&v=4",
+    "location": "Nova Odessa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-03-21T17:04:31Z"
+  },
+  {
+    "login": "Filin-0o",
+    "name": "Valentine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52788676?s=72&u=283006fcb16dce65a0e487fb38c3e049cf0eb7ff&v=4",
+    "location": "Odessa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-07-11T13:11:38Z"
   }
 ]

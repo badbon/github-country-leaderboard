@@ -215036,7 +215036,7 @@
     "twitterUsername": "",
     "followers": 108,
     "privateContributions": 135,
-    "publicContributions": 840,
+    "publicContributions": 841,
     "createdAt": "2021-04-12T01:53:05Z"
   },
   {
@@ -215383,7 +215383,7 @@
     "company": "Freelance",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 453,
+    "privateContributions": 455,
     "publicContributions": 11,
     "createdAt": "2021-04-19T16:58:52Z"
   },
@@ -221287,7 +221287,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 44,
-    "privateContributions": 531,
+    "privateContributions": 532,
     "publicContributions": 425,
     "createdAt": "2021-04-28T14:47:03Z"
   },
@@ -221743,8 +221743,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 463,
-    "publicContributions": 472,
+    "privateContributions": 469,
+    "publicContributions": 476,
     "createdAt": "2021-05-04T12:49:31Z"
   },
   {
@@ -226807,8 +226807,8 @@
     "company": "",
     "twitterUsername": "NyekiPy",
     "followers": 81,
-    "privateContributions": 631,
-    "publicContributions": 392,
+    "privateContributions": 634,
+    "publicContributions": 397,
     "createdAt": "2021-05-28T23:11:45Z"
   },
   {
@@ -227010,7 +227010,7 @@
     "location": "Buenos Aires, Argentina",
     "company": "ZalesMachine",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 29,
     "privateContributions": 63,
     "publicContributions": 0,
     "createdAt": "2021-05-29T20:32:27Z"
@@ -227047,7 +227047,7 @@
     "company": "",
     "twitterUsername": "iamrichieri",
     "followers": 22,
-    "privateContributions": 7796,
+    "privateContributions": 7858,
     "publicContributions": 180,
     "createdAt": "2021-05-29T17:29:11Z"
   },
@@ -227096,7 +227096,7 @@
     "twitterUsername": "Nadia86987480",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 104,
     "createdAt": "2021-06-04T05:02:22Z"
   },
   {
@@ -283078,5 +283078,245 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-13T19:21:49Z"
+  },
+  {
+    "login": "LeonardoBurghi",
+    "name": "Leonardo Burghi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79922448?s=72&u=b750070162aee25f4bd23a5c5170fee6143a694a&v=4",
+    "location": "La Plata, Buenos Aires",
+    "company": "Freelance developer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2021-03-02T14:33:35Z"
+  },
+  {
+    "login": "FedericoBohl",
+    "name": "Federico Bohl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79208848?s=72&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2021-02-17T14:15:46Z"
+  },
+  {
+    "login": "nachoamatt",
+    "name": "Ignacio Amatt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83307696?s=72&u=c54a05a405863b20211834cc5b8fa27b7e9c2fba&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 161,
+    "privateContributions": 2659,
+    "publicContributions": 2,
+    "createdAt": "2021-04-27T18:40:49Z"
+  },
+  {
+    "login": "GiorgioCode",
+    "name": "Jorge Angel PAEZ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83848476?s=72&u=d495fb4072c0960aa56b9721bb1eca86b8de76ec&v=4",
+    "location": "BUENOS AIRES",
+    "company": "FREELANCE",
+    "twitterUsername": "Giorgio_Code",
+    "followers": 91,
+    "privateContributions": 177,
+    "publicContributions": 168,
+    "createdAt": "2021-05-08T00:56:04Z"
+  },
+  {
+    "login": "rodriabregu",
+    "name": "rodri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82095699?s=72&u=583aa5e9a1cf2d13c6e6884c248acca4a2726a36&v=4",
+    "location": "Buenos Aires, Arg",
+    "company": "Conexa",
+    "twitterUsername": "",
+    "followers": 61,
+    "privateContributions": 151,
+    "publicContributions": 120,
+    "createdAt": "2021-04-07T11:47:40Z"
+  },
+  {
+    "login": "juancruz-f",
+    "name": "Juan Cruz Fernández",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83989919?s=72&u=c7af9dbb81c14b4d616fea3e769fdcd8e250c13a&v=4",
+    "location": "Mercedes, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-10T23:25:03Z"
+  },
+  {
+    "login": "Nicobogado12",
+    "name": "Nicolas Ezequiel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82245545?s=72&u=b0e2e460c14ceacff3d606e5a65d79a5f6f06fee&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "DevNico12",
+    "followers": 36,
+    "privateContributions": 0,
+    "publicContributions": 58,
+    "createdAt": "2021-04-10T00:33:32Z"
+  },
+  {
+    "login": "bautista-garcia",
+    "name": "Bautista Garcia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82886229?s=72&u=fab147ae98746e104dda54a0ecb0f583489c26d7&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "Bautii_garcia",
+    "followers": 35,
+    "privateContributions": 143,
+    "publicContributions": 191,
+    "createdAt": "2021-04-20T13:18:27Z"
+  },
+  {
+    "login": "TechnoAwesome",
+    "name": "Nicolás Gonzalez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84089825?s=72&u=7933d9b294b3adef214cf89932449f55283af049&v=4",
+    "location": "San Miguel, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-12T15:31:05Z"
+  },
+  {
+    "login": "syncroto",
+    "name": "Sync",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86243478?s=72&u=a6194280be2b75c30cdcaea4cbd33586c09a0982&v=4",
+    "location": "Buenos Aires",
+    "company": "Raiu Soft",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 13,
+    "publicContributions": 4,
+    "createdAt": "2021-06-21T13:53:45Z"
+  },
+  {
+    "login": "letroja",
+    "name": "Lu Roja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83999213?s=72&u=33d5af1fcfa50ce1ffb2ec47657e2d48dcb430fc&v=4",
+    "location": "San Martin-Buenos Aires",
+    "company": "",
+    "twitterUsername": "luciamcamara",
+    "followers": 26,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-11T04:00:45Z"
+  },
+  {
+    "login": "Defeeeee",
+    "name": "Federico Diaz Nemeth ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81602924?s=72&u=d5a2fa33edde81ef350ef1836f2b82ef8a083065&v=4",
+    "location": "Buenos Aires",
+    "company": "@SignAI",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 48,
+    "publicContributions": 637,
+    "createdAt": "2021-03-30T02:41:41Z"
+  },
+  {
+    "login": "igrilloc",
+    "name": "Ignacio Grillo Caimary",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85582281?s=72&u=653acc40fcf289fd7d37d1ebbe9e77af5eb9a290&v=4",
+    "location": "Buenos Aires, Argetina",
+    "company": "Incompany",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2021-06-08T18:38:13Z"
+  },
+  {
+    "login": "NachoJ12",
+    "name": "Ignacio Justel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85445806?s=72&u=32a735100140509dd509ab03ca46e6ee9e3e8e65&v=4",
+    "location": "La Plata, Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-06T14:10:51Z"
+  },
+  {
+    "login": "NestorPala",
+    "name": "Nestor Fabian Palavecino Arnold",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83187939?s=72&u=558629bc5bfc46f059708e237ba1c0a04afd5ef8&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 187,
+    "publicContributions": 42,
+    "createdAt": "2021-04-25T21:32:00Z"
+  },
+  {
+    "login": "Jmoreyra93",
+    "name": "Julián Moreyra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83317418?s=72&u=33073dc09f3921cd560b52249d035de04e2c8260&v=4",
+    "location": "Buenos Aires ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2021-04-27T23:04:38Z"
+  },
+  {
+    "login": "DaianaArena",
+    "name": "Daiana Arena",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84255114?s=72&u=5bde82c843df2376f532042a5a0a50a107c919a2&v=4",
+    "location": "Buenos Aires",
+    "company": "arenadaianam@gmail.com",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 57,
+    "publicContributions": 33,
+    "createdAt": "2021-05-16T01:03:52Z"
+  },
+  {
+    "login": "constanzapugliese",
+    "name": "Constanza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84150564?s=72&u=02c84ba58a6db2e96ff9a760a232c49792aa2bd0&v=4",
+    "location": "Buenos Aires",
+    "company": "EY GDS",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-05-13T18:29:44Z"
+  },
+  {
+    "login": "fabiolajsm",
+    "name": "Fabiola Suárez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81818021?s=72&u=d304d54b2b3cde82f5540e8450ddede847753253&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 8,
+    "publicContributions": 32,
+    "createdAt": "2021-04-02T14:28:13Z"
+  },
+  {
+    "login": "isaico",
+    "name": "Isaias Garcia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82178567?s=72&u=8740881464724e9a21b2278090c96660724a1b0a&v=4",
+    "location": "Mar Del Plata-Buenos Aires",
+    "company": "Freelance",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-04-08T19:16:04Z"
   }
 ]
