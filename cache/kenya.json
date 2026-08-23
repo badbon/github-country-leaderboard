@@ -266830,5 +266830,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-03-14T07:53:18Z"
+  },
+  {
+    "login": "Lucy-M-W",
+    "name": "Lucy Mwangi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12511199?s=72&v=4",
+    "location": "Nairobi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-19T10:25:34Z"
+  },
+  {
+    "login": "ItsLernie",
+    "name": "Lernie Mac-B",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13730481?s=72&u=72125ab2f62f4afb00087c25e2c2422c6ed4eb64&v=4",
+    "location": "Nairobi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-10T11:42:15Z"
+  },
+  {
+    "login": "MosesMunene",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11550338?s=72&v=4",
+    "location": "Nairobi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-19T05:40:32Z"
+  },
+  {
+    "login": "jgathogo",
+    "name": "James Gathogo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12393788?s=72&u=2f967dc5bf8867be27c5cf4077402bb9379ac418&v=4",
+    "location": "Nairobi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 132,
+    "createdAt": "2015-05-11T11:32:03Z"
+  },
+  {
+    "login": "mucheru",
+    "name": "Stephen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13763343?s=72&u=429a06c0818f26ff9c3360e18d55104bea1663a2&v=4",
+    "location": "Nairobi",
+    "company": "",
+    "twitterUsername": "stephenmucheru3",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2015-08-12T09:45:16Z"
+  },
+  {
+    "login": "lishadeve",
+    "name": "Erick Muriithi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13631281?s=72&u=ea92b2a6af35149bb2ac4d5fc8765d8b50ce5a4f&v=4",
+    "location": "Nairobi",
+    "company": "LishaDeve",
+    "twitterUsername": "lishadeve",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-03T20:24:02Z"
+  },
+  {
+    "login": "denc-m",
+    "name": "Dennis Kamau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13692099?s=72&u=13d07b1a3fa9282b3c2354057e79ed281a4ca378&v=4",
+    "location": "Nairobi",
+    "company": "",
+    "twitterUsername": "njoroge_dkamau",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-08-07T08:57:42Z"
   }
 ]
