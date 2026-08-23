@@ -164238,9 +164238,9 @@
     "location": "Singapore",
     "company": "Delivery Hero",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 731,
-    "publicContributions": 728,
+    "publicContributions": 733,
     "createdAt": "2017-12-23T07:46:17Z"
   },
   {
@@ -165163,7 +165163,7 @@
     "company": "Centre For Climate Change and Environmental Health",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1123,
+    "privateContributions": 1124,
     "publicContributions": 15,
     "createdAt": "2017-11-30T14:48:56Z"
   },
@@ -165463,7 +165463,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 182,
+    "privateContributions": 184,
     "publicContributions": 22,
     "createdAt": "2017-11-02T07:02:47Z"
   },
@@ -166076,7 +166076,7 @@
     "twitterUsername": "bryanfawcett",
     "followers": 1,
     "privateContributions": 1613,
-    "publicContributions": 1980,
+    "publicContributions": 1983,
     "createdAt": "2017-07-23T20:25:37Z"
   },
   {
@@ -168118,5 +168118,17 @@
     "privateContributions": 794,
     "publicContributions": 39,
     "createdAt": "2013-10-29T17:07:53Z"
+  },
+  {
+    "login": "xinlonghe2512",
+    "name": "Xin Long He",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29880671?s=72&u=8d5bfae79024e6940b89df19caef73b82ffa16b1&v=4",
+    "location": "Singapore",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 235,
+    "publicContributions": 3,
+    "createdAt": "2017-07-04T04:26:21Z"
   }
 ]

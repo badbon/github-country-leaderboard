@@ -288274,5 +288274,29 @@
     "privateContributions": 818,
     "publicContributions": 0,
     "createdAt": "2019-10-09T20:44:08Z"
+  },
+  {
+    "login": "pxmaciej",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56204020?s=72&u=b04a7360590eb6e74d4cf7571f5140d2629dca97&v=4",
+    "location": "Poland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 38,
+    "publicContributions": 0,
+    "createdAt": "2019-10-05T18:45:17Z"
+  },
+  {
+    "login": "szymonplo",
+    "name": "Szymon Płotnikiewicz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56996072?s=72&v=4",
+    "location": "Pruszków, Poland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-10-25T08:11:04Z"
   }
 ]

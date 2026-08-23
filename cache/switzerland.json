@@ -281458,5 +281458,29 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2010-11-09T08:34:40Z"
+  },
+  {
+    "login": "mikaelpelle",
+    "name": "Mikael Pelle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/485310?s=72&u=dac543f1fa32da6eea88a0254e9df6e59ad9d72b&v=4",
+    "location": "Switzerland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-11-17T10:54:38Z"
+  },
+  {
+    "login": "altoso",
+    "name": "alvaro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/435003?s=72&u=e6715be76127351fb12bbc0a246e7e73630137b8&v=4",
+    "location": "switzerland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2010-10-11T07:02:55Z"
   }
 ]
