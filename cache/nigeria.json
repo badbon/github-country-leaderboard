@@ -280102,5 +280102,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-02-12T16:14:19Z"
+  },
+  {
+    "login": "sirwisdom",
+    "name": "Akpomeyoma Wisdom",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48869868?s=72&u=150ba39b04d57575231632677e7797374585a3c7&v=4",
+    "location": "Nigeria",
+    "company": "",
+    "twitterUsername": "sirwisdom20",
+    "followers": 1,
+    "privateContributions": 1172,
+    "publicContributions": 36,
+    "createdAt": "2019-03-23T22:41:39Z"
+  },
+  {
+    "login": "EricOnah",
+    "name": "Eric Onah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48906873?s=72&u=dbabe5c1a38679ca5b68c8e99c2f90c5b03e2fd3&v=4",
+    "location": "Nigeria",
+    "company": "",
+    "twitterUsername": "eric_tc24",
+    "followers": 1,
+    "privateContributions": 7,
+    "publicContributions": 1,
+    "createdAt": "2019-03-25T08:36:48Z"
+  },
+  {
+    "login": "osygroup",
+    "name": "Osy Ernesto Ekwonye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46828049?s=72&u=553bdb90e7c9d89bf06cee2849be231b088dce8e&v=4",
+    "location": "Nigeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2019-01-18T20:38:47Z"
+  },
+  {
+    "login": "sampeter-akan",
+    "name": "Samuel Peter",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46283606?s=72&u=21f172ba94229641c09777e04e7cf62bb3078243&v=4",
+    "location": "Uyo, Nigeria",
+    "company": "Transmission Company of Nigeria",
+    "twitterUsername": "SamuelPete42255",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 135,
+    "createdAt": "2018-12-31T15:45:11Z"
   }
 ]
