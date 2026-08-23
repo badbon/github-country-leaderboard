@@ -66080,7 +66080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 71,
     "createdAt": "2023-03-22T18:03:59Z"
   },
   {
@@ -291538,5 +291538,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-30T11:33:06Z"
+  },
+  {
+    "login": "jcrecalde",
+    "name": "Juan Cruz Recalde",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92126411?s=72&u=991d72451e66b549a5e84ba578c4bd75ea246e1d&v=4",
+    "location": "Olavarría Prov. Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2021-10-07T22:21:19Z"
+  },
+  {
+    "login": "cami-barraza",
+    "name": "Camila Barraza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94753468?s=72&u=fb6e3e4f462625ba2fbc909b8aff18cf56f002f6&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 13,
+    "publicContributions": 35,
+    "createdAt": "2021-11-20T15:45:45Z"
+  },
+  {
+    "login": "nuneztobias",
+    "name": "Tobías Núñez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93441448?s=72&u=5c1ec0ed2b5e7d9132239d0158d881557b8288dc&v=4",
+    "location": "Buenos Aires",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-30T15:28:04Z"
+  },
+  {
+    "login": "MatiasPosadas",
+    "name": "Matias Posadas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93284124?s=72&u=077abb06d16d1523096a385f370af7544f309648&v=4",
+    "location": "Buenos Aires",
+    "company": "Frontend Developer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-10-27T18:17:39Z"
   }
 ]
