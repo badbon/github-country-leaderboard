@@ -284146,5 +284146,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-02-19T13:22:46Z"
+  },
+  {
+    "login": "christoferhansen",
+    "name": "Christofer Hansen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12980724?s=72&v=4",
+    "location": "Stockholm",
+    "company": "Combitech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-20T18:12:59Z"
+  },
+  {
+    "login": "AnnaAnderssonLindqvist",
+    "name": "Anna Andersson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11664479?s=72&u=65a790144af122fe19a117bdf16633ba87f3d1bb&v=4",
+    "location": "Stockholm",
+    "company": "Sveriges Radio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-03-26T13:07:19Z"
+  },
+  {
+    "login": "macktor",
+    "name": "Marcus Rönnmark",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10499910?s=72&u=082c48b729f050849d8e6b5e167c95f8bf2adc3f&v=4",
+    "location": "Stockholm",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1421,
+    "publicContributions": 2,
+    "createdAt": "2015-01-12T14:24:51Z"
+  },
+  {
+    "login": "Puttrix",
+    "name": "Puttrix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10546157?s=72&u=9b3246855a7dddad345428a8b4af4f154e0bec0f&v=4",
+    "location": "Stockholm",
+    "company": "Authority AB",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 915,
+    "publicContributions": 515,
+    "createdAt": "2015-01-15T11:39:10Z"
+  },
+  {
+    "login": "carlopompili",
+    "name": "Carlo Pompili",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13102707?s=72&u=4e5b00d4dd396fdf060f537bffc6878d83265b68&v=4",
+    "location": "Stockholm",
+    "company": "Telcred",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-29T12:55:20Z"
   }
 ]
