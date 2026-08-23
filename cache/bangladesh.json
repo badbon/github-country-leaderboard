@@ -226712,7 +226712,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 184,
     "createdAt": "2022-08-05T14:50:46Z"
   },
   {
@@ -226770,7 +226770,7 @@
     "location": "Dhaka, Bangladesh",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-29T10:09:10Z"
@@ -226879,7 +226879,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 301,
+    "privateContributions": 305,
     "publicContributions": 379,
     "createdAt": "2022-08-05T13:35:31Z"
   },
@@ -226916,7 +226916,7 @@
     "twitterUsername": "0xzahed",
     "followers": 8,
     "privateContributions": 1162,
-    "publicContributions": 317,
+    "publicContributions": 319,
     "createdAt": "2022-07-04T18:25:32Z"
   },
   {
@@ -226975,7 +226975,7 @@
     "company": "",
     "twitterUsername": "LelinChakma45",
     "followers": 8,
-    "privateContributions": 1131,
+    "privateContributions": 1132,
     "publicContributions": 36,
     "createdAt": "2022-07-14T07:49:34Z"
   },
@@ -227024,7 +227024,7 @@
     "twitterUsername": "mdsanuarmahmud",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 43,
     "createdAt": "2022-06-29T20:14:35Z"
   },
   {
@@ -227083,7 +227083,7 @@
     "company": "Dhrubok Infotech Service Ltd.",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1064,
+    "privateContributions": 1065,
     "publicContributions": 133,
     "createdAt": "2022-08-12T10:31:18Z"
   },
@@ -227156,7 +227156,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-08-04T14:58:00Z"
   },
   {
@@ -227167,8 +227167,8 @@
     "company": "Softvence Agency",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 317,
-    "publicContributions": 574,
+    "privateContributions": 323,
+    "publicContributions": 578,
     "createdAt": "2022-07-04T05:20:47Z"
   },
   {
@@ -227263,7 +227263,7 @@
     "company": "DhrubokInfoTech",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 209,
+    "privateContributions": 210,
     "publicContributions": 128,
     "createdAt": "2022-07-27T15:18:50Z"
   },
@@ -227359,7 +227359,7 @@
     "company": "BFIN IT LTD",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 151,
+    "privateContributions": 153,
     "publicContributions": 396,
     "createdAt": "2022-07-24T16:47:17Z"
   },
@@ -227588,7 +227588,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 135,
     "createdAt": "2022-08-09T07:16:47Z"
   },
   {
@@ -227660,7 +227660,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 265,
+    "publicContributions": 266,
     "createdAt": "2022-07-06T09:02:33Z"
   },
   {
@@ -227684,7 +227684,7 @@
     "twitterUsername": "ArifurRahmanIT",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 211,
+    "publicContributions": 214,
     "createdAt": "2022-06-29T16:46:04Z"
   },
   {
@@ -227874,7 +227874,7 @@
     "location": "Dhaka, Bangladesh",
     "company": "North South University",
     "twitterUsername": "Tanveer54997780",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 74,
     "createdAt": "2022-07-01T20:50:15Z"
@@ -265714,5 +265714,317 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-18T17:30:06Z"
+  },
+  {
+    "login": "SajibKC",
+    "name": "Sajib Kumar Chowdhury",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110328102?s=72&u=af55f48de68f079d34ebfb8b5e20353720004007&v=4",
+    "location": "Dhaka",
+    "company": "AppsCode Inc.",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2022-07-31T08:02:45Z"
+  },
+  {
+    "login": "emhash",
+    "name": "Md E H Ashiq",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109217697?s=72&u=3c203c3ec3d5d88215f51909d3cc01d9935e500c&v=4",
+    "location": "Dhaka",
+    "company": "Student",
+    "twitterUsername": "emhash__",
+    "followers": 10,
+    "privateContributions": 1594,
+    "publicContributions": 21,
+    "createdAt": "2022-07-13T11:10:49Z"
+  },
+  {
+    "login": "Robin-Ibn-Nur",
+    "name": "Md. Robin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108401165?s=72&u=fc752a44affcf50527b39c8207857824b451197f&v=4",
+    "location": "Khilgaon, Dhaka.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 2,
+    "publicContributions": 20,
+    "createdAt": "2022-06-29T10:18:32Z"
+  },
+  {
+    "login": "ikhlas5",
+    "name": "MD.Eklas Uddin Sheikh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108462963?s=72&u=2244a6f1f5a2dc15ff73a9c4c5b8db66ebb6f153&v=4",
+    "location": "Mirpur-Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2022-06-30T10:21:32Z"
+  },
+  {
+    "login": "imransarkar777",
+    "name": "Imran Sarkar Setu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110736966?s=72&u=54119db3b95347bf6d01b7dec98db00d99cd26f9&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2022-08-06T16:36:47Z"
+  },
+  {
+    "login": "RakibulHasib",
+    "name": "Rakibul Hasib",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108543825?s=72&u=c91b55c22dd0fb53048d36ae7e99b93705c2865d&v=4",
+    "location": "Dhaka",
+    "company": "@Eye Electronics",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 61,
+    "publicContributions": 16,
+    "createdAt": "2022-07-01T17:24:16Z"
+  },
+  {
+    "login": "Naimcoder",
+    "name": "MD NAIMUL ISLAM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108421676?s=72&u=18703eadd944851b23f25263c3ad9c3e880debce&v=4",
+    "location": "Dhaka Banglasesh",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-06-29T16:17:33Z"
+  },
+  {
+    "login": "pronoybanik",
+    "name": "Pronoy Banik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108402648?s=72&u=1605ce42ef0f59de8fce34df45ae58575f921c71&v=4",
+    "location": "Dhaka,Dhanmondi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 936,
+    "publicContributions": 176,
+    "createdAt": "2022-06-29T10:44:47Z"
+  },
+  {
+    "login": "Rabbi-hasan0",
+    "name": "Rabbi_Hasan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108593765?s=72&u=389fc7e61aefdfd299a0ab9520a1394167dc96f6&v=4",
+    "location": "Mirpur,Dhaka.",
+    "company": "Bangladesh University of Business and Technology",
+    "twitterUsername": "imrabbihasan162",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 241,
+    "createdAt": "2022-07-02T21:11:52Z"
+  },
+  {
+    "login": "jihad-islam",
+    "name": "Jihad Islam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110405190?s=72&u=9d25d07acd2f8d4c0b6432454832e1cdbe9cc0ba&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 83,
+    "publicContributions": 195,
+    "createdAt": "2022-08-01T14:06:21Z"
+  },
+  {
+    "login": "emon097",
+    "name": "MD. EMON HOSSAIN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108382502?s=72&u=f600822ab234fdd0845a5edbaa9af36e1366a019&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-06-29T03:22:54Z"
+  },
+  {
+    "login": "AJFShuvo",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110633362?s=72&u=6c5b0fc39e107fbc79d281f443624365a4b70c6b&v=4",
+    "location": "Mirpur Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 19,
+    "publicContributions": 11,
+    "createdAt": "2022-08-04T19:53:15Z"
+  },
+  {
+    "login": "NahidRuhan",
+    "name": "Nahid Pervej Ruhan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108615308?s=72&u=e746418db57ee68f3e2b8921395e9cf6ae644b5c&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 423,
+    "createdAt": "2022-07-03T11:55:19Z"
+  },
+  {
+    "login": "salman-farcy",
+    "name": "Salman Farcy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108403186?s=72&u=2bbdb24e1ca1fa83446824c8a1976a92bc93e7fe&v=4",
+    "location": "Mohammad Dhaka",
+    "company": "",
+    "twitterUsername": "salmanfarcyDev",
+    "followers": 7,
+    "privateContributions": 3,
+    "publicContributions": 155,
+    "createdAt": "2022-06-29T10:55:07Z"
+  },
+  {
+    "login": "antarnath",
+    "name": "Antar Chandra Nath",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110054984?s=72&u=af7552850f5ded01a25af416295ecdbd854d3674&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 61,
+    "createdAt": "2022-07-26T17:31:36Z"
+  },
+  {
+    "login": "tanvir-inc",
+    "name": "tanvir.inc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108387467?s=72&u=4b081c86cfec06dfb7f2b1fd66911106bedc6b48&v=4",
+    "location": "Dhaka",
+    "company": "East West University",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2022-06-29T05:40:31Z"
+  },
+  {
+    "login": "paradox-bd",
+    "name": "Paradox Tech BD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109535601?s=72&u=e462945eaef9da93ea6c28dda37a6345941c53ae&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 49,
+    "publicContributions": 1,
+    "createdAt": "2022-07-18T14:53:59Z"
+  },
+  {
+    "login": "UddinNahim",
+    "name": "Nahim Uddin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108592131?s=72&u=399792dc5f7980df2cfa29ea7caa48284243026b&v=4",
+    "location": "Dhaka",
+    "company": "flyger holidays",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 282,
+    "publicContributions": 189,
+    "createdAt": "2022-07-02T19:55:59Z"
+  },
+  {
+    "login": "sohag221",
+    "name": "Md Sohag",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110124971?s=72&u=8013a4d39f54ce7dcb20f6b726090ee49798447d&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2022-07-27T18:00:19Z"
+  },
+  {
+    "login": "rajibhossainimran",
+    "name": "Md Rajib Hossain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108386188?s=72&u=4751e46a20699cdb88e108822602558e1fa6ea86&v=4",
+    "location": "Shewrapara ,Mirpur ,Dhaka ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2022-06-29T05:10:16Z"
+  },
+  {
+    "login": "grsagor",
+    "name": "Golam Rahman Sagor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108489915?s=72&u=aa51a924073b53b2cd037a5a06a27be9dffd37d7&v=4",
+    "location": "Dhaka",
+    "company": "TheDevGarden",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 484,
+    "publicContributions": 83,
+    "createdAt": "2022-06-30T19:04:59Z"
+  },
+  {
+    "login": "Shajjad-142",
+    "name": "Shajjad Shawon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109540869?s=72&u=cf7995e1ce109ad4506d2bad7d2ed21c703af6d9&v=4",
+    "location": "Mirpur 10,Dhaka",
+    "company": "Studying at BUBT",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2022-07-18T16:03:38Z"
+  },
+  {
+    "login": "Pranta-20-2",
+    "name": "Pranta_Das",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110590290?s=72&u=6a7001e96162e90d2a961aca990383dbceb0f8be&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "PrantaD16",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2022-08-04T06:34:41Z"
+  },
+  {
+    "login": "safayatalif",
+    "name": "Safayat Hossen Alif",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108892519?s=72&u=8035db779f242c12e763162552ce63c66fa23fb3&v=4",
+    "location": "160 Sornali Sofi, Crescent Road, Dhanmondi, Dhaka",
+    "company": "Nextgen Innovation Ltd.",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 217,
+    "createdAt": "2022-07-07T17:09:40Z"
+  },
+  {
+    "login": "mdsiamca",
+    "name": "Atiqur Siam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108393888?s=72&u=1e3089d28f4a35e8a2414c003a1b93138aca1990&v=4",
+    "location": "Washpur Keraniganj Dhaka",
+    "company": "Risosi",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2022-06-29T07:55:54Z"
+  },
+  {
+    "login": "sojibpannashovon2",
+    "name": "Md Arifur Rahman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108423803?s=72&u=37691418a737dd2a872699f9d4f59c59bba5c9d7&v=4",
+    "location": "15th Floor, Anwar Group of Industries, Baitul Hossain Building, 27 Dilkusha, Dhaka 1000",
+    "company": "Anwar Technologies",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 81,
+    "publicContributions": 34,
+    "createdAt": "2022-06-29T16:59:21Z"
   }
 ]

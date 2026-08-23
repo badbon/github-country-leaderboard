@@ -286930,5 +286930,101 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2009-11-24T19:59:04Z"
+  },
+  {
+    "login": "lrytz",
+    "name": "Lukas Rytz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119636?s=72&u=bb429a274ff980f2721a492328e1b14b3f4919ad&v=4",
+    "location": "bern",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 273,
+    "privateContributions": 0,
+    "publicContributions": 871,
+    "createdAt": "2009-08-26T07:30:51Z"
+  },
+  {
+    "login": "renestalder",
+    "name": "René Stalder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105358?s=72&u=1e8fbcae33a6b3ce998f3d2cc83492fcb0fbaca0&v=4",
+    "location": "Bern",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 84,
+    "privateContributions": 65,
+    "publicContributions": 13,
+    "createdAt": "2009-07-15T19:33:26Z"
+  },
+  {
+    "login": "jesseeichar",
+    "name": "Jesse Eichar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54207?s=72&v=4",
+    "location": "Bern",
+    "company": "POLYPOINT",
+    "twitterUsername": "",
+    "followers": 83,
+    "privateContributions": 0,
+    "publicContributions": 84,
+    "createdAt": "2009-02-13T08:30:25Z"
+  },
+  {
+    "login": "lapistano",
+    "name": "lapistano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95115?s=72&u=8f7afaefec97059e7b5dbd2e1e5f65b45b6b9dd1&v=4",
+    "location": "Bern",
+    "company": "",
+    "twitterUsername": "lapistano",
+    "followers": 62,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-06-13T20:38:28Z"
+  },
+  {
+    "login": "wildmichael",
+    "name": "Michael Wild",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46470?s=72&v=4",
+    "location": "Bern",
+    "company": "",
+    "twitterUsername": "themiwi",
+    "followers": 48,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-01-14T09:52:06Z"
+  },
+  {
+    "login": "haslo",
+    "name": "Gwen Gloor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102580?s=72&v=4",
+    "location": "Bern CH",
+    "company": "Maxomedia AG",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 1356,
+    "publicContributions": 161,
+    "createdAt": "2009-07-07T17:11:26Z"
+  },
+  {
+    "login": "r3to",
+    "name": "Reto Lehnherr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105666?s=72&v=4",
+    "location": "Bern",
+    "company": "@Aareguru ",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 107,
+    "createdAt": "2009-07-16T16:11:39Z"
+  },
+  {
+    "login": "dizz",
+    "name": "Andy Edmonds",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1582?s=72&v=4",
+    "location": "Zürich, Schweiz",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2008-02-28T13:47:38Z"
   }
 ]
