@@ -1,6 +1,6 @@
 # Public Contributions - Liberia
 
-Generated: 2026-08-24T16:35:07.875Z
+Generated: 2026-08-24T16:56:47.501Z
 
 Users: 212
 
@@ -19,9 +19,9 @@ Users: 212
 | 11 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 225 |
 | 12 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo |  |  | Monrovia, Liberia | 213 |
 | 13 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr |  | simeonatarr862 | Buchanan City, Liberia | 210 |
-| 14 | [Jerry2001397](https://github.com/Jerry2001397) | Emmanuel Jerry Jr  | Tech Bridge Liberia-TBL |  | Monrovia, Liberia  | 201 |
-| 15 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 199 |
-| 16 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | TBAY Tech Service | FitzgeraldChal | Ontario, Canada & Monrovia, Liberia | 192 |
+| 14 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | TBAY Tech Service | FitzgeraldChal | Ontario, Canada & Monrovia, Liberia | 208 |
+| 15 | [Jerry2001397](https://github.com/Jerry2001397) | Emmanuel Jerry Jr  | Tech Bridge Liberia-TBL |  | Monrovia, Liberia  | 201 |
+| 16 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 199 |
 | 17 | [tommyiversonj](https://github.com/tommyiversonj) | Tommy Iverson Johnson | Partners In Health | tiversonj | Liberia | 192 |
 | 18 | [Sayon-okai](https://github.com/Sayon-okai) | Sayon T. Okai | Student - Starz University Liberia  |  | Liberia | 179 |
 | 19 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 178 |
