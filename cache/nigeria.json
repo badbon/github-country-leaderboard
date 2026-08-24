@@ -393742,5 +393742,77 @@
     "privateContributions": 45,
     "publicContributions": 13,
     "createdAt": "2013-04-27T06:30:29Z"
+  },
+  {
+    "login": "MagnificentRimsy",
+    "name": "Jonah Rimamchirika ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6267243?s=72&u=0efc47af4c909493cbba82aae18334de1d70408e&v=4",
+    "location": "Abuja",
+    "company": "Apps Kitchen",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2013-12-26T22:38:08Z"
+  },
+  {
+    "login": "davidtowoju",
+    "name": "David Towoju",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5824913?s=72&v=4",
+    "location": "Abuja",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 1047,
+    "publicContributions": 105,
+    "createdAt": "2013-10-31T16:51:59Z"
+  },
+  {
+    "login": "ohiageorge",
+    "name": "Ohia George",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4374074?s=72&u=1c6dd662a132533eafc7991bb66e28ee9551fb81&v=4",
+    "location": "Abuja",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 817,
+    "publicContributions": 0,
+    "createdAt": "2013-05-08T07:46:30Z"
+  },
+  {
+    "login": "musagadabs1",
+    "name": "Musa Sule",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6002845?s=72&u=ea05d0facdcfb5c45154cef9b61e3d2b21871949&v=4",
+    "location": "No 22 Otukpo Street Off Gimbiya Street, Area 11 Garki Abuja",
+    "company": "Amadeo System",
+    "twitterUsername": "musagadabs1",
+    "followers": 3,
+    "privateContributions": 150,
+    "publicContributions": 1,
+    "createdAt": "2013-11-21T16:33:23Z"
+  },
+  {
+    "login": "turawa",
+    "name": "Turawa Abdur Rahman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5968319?s=72&u=102035b841c815cf12381d85d0c0cc90c61a367e&v=4",
+    "location": "Abuja",
+    "company": "DREAMSOFT TECHNOLOGIES",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 899,
+    "publicContributions": 3,
+    "createdAt": "2013-11-18T11:23:31Z"
+  },
+  {
+    "login": "jaghatise",
+    "name": "Aghatise Joseph",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5052594?s=72&u=8a5721f3d8541da8614ea85d842a43bb5ec5bc96&v=4",
+    "location": "Abuja",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-07-20T08:22:06Z"
   }
 ]
