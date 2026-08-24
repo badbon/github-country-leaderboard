@@ -280870,5 +280870,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-11-27T14:25:04Z"
+  },
+  {
+    "login": "escusado",
+    "name": "toy.codes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93747?s=72&u=5830327e0a917f2ce0c38362d4c70f839621f33d&v=4",
+    "location": "Guadalajara",
+    "company": "Agtonomy",
+    "twitterUsername": "escusado",
+    "followers": 87,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-06-09T21:27:25Z"
+  },
+  {
+    "login": "MachinesAreUs",
+    "name": "Agustín Ramos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174356?s=72&u=3415fa3ec3fc278d88764cdab98524a0dabe257a&v=4",
+    "location": "Guadalajara",
+    "company": "Bunsan",
+    "twitterUsername": "",
+    "followers": 75,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-12-30T20:35:56Z"
+  },
+  {
+    "login": "dbarnett",
+    "name": "David Barnett",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65244?s=72&u=287ac3f738112679e320b1778fb3b1e855ed4239&v=4",
+    "location": "Guadalajara, JA, MX",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 61,
+    "privateContributions": 0,
+    "publicContributions": 391,
+    "createdAt": "2009-03-20T13:12:14Z"
+  },
+  {
+    "login": "codingpains",
+    "name": "Gustavo Ortiz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54297?s=72&u=6c1bfe27cb96856178408bc00f2a136a4d96f62b&v=4",
+    "location": "Guadalajara, Jalisco, México.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 43,
+    "privateContributions": 109,
+    "publicContributions": 0,
+    "createdAt": "2009-02-13T16:17:40Z"
+  },
+  {
+    "login": "rigovides",
+    "name": "Rigoberto Antonio Vides Rodríguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97421?s=72&u=69de4c45f35bd8a5247b56d83e5d3e7ac8cf57e4&v=4",
+    "location": "Guadalajara",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-06-21T00:33:51Z"
+  },
+  {
+    "login": "danielniquet",
+    "name": "Daniel Niquet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101412?s=72&v=4",
+    "location": "Guadalajara, MX",
+    "company": "Wizeline",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-07-03T13:55:35Z"
+  },
+  {
+    "login": "anibalabarca",
+    "name": "Aníbal Abarca Gil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75465?s=72&u=64bf8d6958b6cdf026a4f50999e12775a21af0b6&v=4",
+    "location": "Guadalajara",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 269,
+    "createdAt": "2009-04-19T17:44:29Z"
+  },
+  {
+    "login": "sandovaledwin",
+    "name": "Edwin Sandoval",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114829?s=72&v=4",
+    "location": "México, Guadalajara, Jalisco.",
+    "company": "3Pillar Global",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2009-08-13T05:23:03Z"
   }
 ]
