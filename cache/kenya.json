@@ -287806,5 +287806,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-10-29T09:29:05Z"
+  },
+  {
+    "login": "ehersman",
+    "name": "Erik Hersman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83717?s=72&v=4",
+    "location": "Nairobi",
+    "company": "Ushahidi",
+    "twitterUsername": "",
+    "followers": 82,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-05-12T15:26:59Z"
+  },
+  {
+    "login": "D3f0",
+    "name": "Nahuel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46064?s=72&u=f2758855d5a314b0a5a71ba01d0ca0b17f03aa09&v=4",
+    "location": "Nairobi",
+    "company": "IBM Research",
+    "twitterUsername": "",
+    "followers": 74,
+    "privateContributions": 0,
+    "publicContributions": 523,
+    "createdAt": "2009-01-12T20:22:00Z"
+  },
+  {
+    "login": "josundwa",
+    "name": "James Osundwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85735?s=72&v=4",
+    "location": "Nairobi",
+    "company": "UNEP",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-05-18T07:26:14Z"
+  },
+  {
+    "login": "marialangat",
+    "name": "Maria Langat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137236?s=72&v=4",
+    "location": "Nairobi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-10-09T06:26:04Z"
+  },
+  {
+    "login": "mcomollo",
+    "name": "James McOmollo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170828?s=72&v=4",
+    "location": "Nairobi",
+    "company": "Collabmed Solutions Ltd",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-12-22T06:16:29Z"
   }
 ]

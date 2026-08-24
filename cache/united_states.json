@@ -441586,5 +441586,65 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2020-06-16T13:37:13Z"
+  },
+  {
+    "login": "altintx",
+    "name": "Brian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/339302?s=72&u=674a73131bccd251dcaecd1d349716379e79bfe3&v=4",
+    "location": "Albuquerque, New Mexico, United States",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 1432,
+    "publicContributions": 59,
+    "createdAt": "2010-07-21T04:34:06Z"
+  },
+  {
+    "login": "recri",
+    "name": "Roger E Critchlow Jr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/349837?s=72&v=4",
+    "location": "Las Cruces, New Mexico, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2010-07-31T03:16:20Z"
+  },
+  {
+    "login": "jessehs",
+    "name": "Jesse Hofmann-Smith",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/458586?s=72&u=3415b87c3adfd245ba4dc802da26651f39738da4&v=4",
+    "location": "El Prado, New Mexico, USA",
+    "company": "Phase2 Technology",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2010-10-28T20:09:36Z"
+  },
+  {
+    "login": "johnpurnell",
+    "name": "MegaThawt",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178735?s=72&v=4",
+    "location": "New Mexico, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2010-01-08T19:37:44Z"
+  },
+  {
+    "login": "Hues-dev",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71786692?s=72&v=4",
+    "location": "New England, USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-23T18:06:49Z"
   }
 ]

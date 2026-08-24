@@ -339406,5 +339406,113 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-02T00:44:50Z"
+  },
+  {
+    "login": "AlvaRepo",
+    "name": "Alvaro Morales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69880281?s=72&u=62e0247cf8d0709b41ef6a7bb49d012926b0f98b&v=4",
+    "location": "Salta, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 179,
+    "publicContributions": 201,
+    "createdAt": "2020-08-19T01:07:36Z"
+  },
+  {
+    "login": "DevMaidanaLGM",
+    "name": "Maidana Leonardo G.M.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71559566?s=72&u=236a30ae36dba3c9f3a5b00d1b07b401e23799b9&v=4",
+    "location": "Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-19T15:02:43Z"
+  },
+  {
+    "login": "daschefer",
+    "name": "Diego Schefer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71940652?s=72&u=8ced39097910a22839a96b8b8ab7e0a34aed3f62&v=4",
+    "location": "Argentina",
+    "company": "",
+    "twitterUsername": "daschefer",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-26T17:15:32Z"
+  },
+  {
+    "login": "aamaral2020",
+    "name": "Agustina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69657705?s=72&u=bb547e7a2b406c868ca01364a1bb0c2b2c04d257&v=4",
+    "location": "Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-08-14T00:45:29Z"
+  },
+  {
+    "login": "MaxiFerrari",
+    "name": "Maximiliano Ferrari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70219552?s=72&u=49833f7713f2f33fd427203b1a2b96e607e0d8d7&v=4",
+    "location": "Tucuman, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2020-08-25T16:09:48Z"
+  },
+  {
+    "login": "Coder3000pl1233",
+    "name": "Coder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70249978?s=72&v=4",
+    "location": "Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2020-08-26T03:25:54Z"
+  },
+  {
+    "login": "EmilianoGonzalezDev",
+    "name": "Emiliano González",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70823105?s=72&u=543885b2a661eb0c6a86576d20680d80331ba8f0&v=4",
+    "location": "Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 13,
+    "publicContributions": 117,
+    "createdAt": "2020-09-05T22:09:37Z"
+  },
+  {
+    "login": "pablotocalini",
+    "name": "Pablo Tocalini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71033129?s=72&u=1d15e81a4500446ca4afad411febcd6e2659fde4&v=4",
+    "location": "Argentina",
+    "company": "Tromen Software",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2020-09-09T17:15:26Z"
+  },
+  {
+    "login": "nicodiez02",
+    "name": "Nicolás Diez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71239719?s=72&u=ff2782a9662c5605ab498b023c2d51fb4bebd5f8&v=4",
+    "location": "Argentina",
+    "company": "Coppel",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 149,
+    "createdAt": "2020-09-14T01:23:08Z"
   }
 ]
