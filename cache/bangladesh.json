@@ -299852,7 +299852,7 @@
     "twitterUsername": "sarwarhossain25",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-04-25T18:52:12Z"
   },
   {
@@ -300019,7 +300019,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 137,
-    "privateContributions": 421,
+    "privateContributions": 422,
     "publicContributions": 124,
     "createdAt": "2021-06-18T14:39:59Z"
   },
@@ -300174,7 +300174,7 @@
     "location": "Dhaka , Bangladesh ",
     "company": "",
     "twitterUsername": "",
-    "followers": 51,
+    "followers": 52,
     "privateContributions": 0,
     "publicContributions": 125,
     "createdAt": "2021-05-23T16:27:41Z"
@@ -300247,7 +300247,7 @@
     "company": "CMED Health Ltd.",
     "twitterUsername": "",
     "followers": 40,
-    "privateContributions": 260,
+    "privateContributions": 263,
     "publicContributions": 23,
     "createdAt": "2021-05-26T18:00:30Z"
   },
@@ -300271,7 +300271,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 38,
-    "privateContributions": 1111,
+    "privateContributions": 1114,
     "publicContributions": 2,
     "createdAt": "2021-05-27T11:37:56Z"
   },
@@ -300775,7 +300775,7 @@
     "company": "ACI Limited",
     "twitterUsername": "Sheefat58",
     "followers": 24,
-    "privateContributions": 1622,
+    "privateContributions": 1632,
     "publicContributions": 130,
     "createdAt": "2021-05-24T19:35:31Z"
   },
@@ -300787,8 +300787,8 @@
     "company": "@Zorg-IT-Group-Official",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 5001,
-    "publicContributions": 160,
+    "privateContributions": 5005,
+    "publicContributions": 161,
     "createdAt": "2021-06-19T17:18:14Z"
   },
   {
@@ -300812,7 +300812,7 @@
     "twitterUsername": "raakibul_",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 173,
     "createdAt": "2021-05-26T14:48:53Z"
   },
   {
@@ -300822,8 +300822,8 @@
     "location": "Dhaka,Bangladesh.",
     "company": "Betopia Group",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 706,
+    "followers": 21,
+    "privateContributions": 711,
     "publicContributions": 62,
     "createdAt": "2021-06-09T05:44:35Z"
   },
@@ -300895,7 +300895,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 259,
+    "privateContributions": 262,
     "publicContributions": 12,
     "createdAt": "2021-06-20T00:40:38Z"
   },
@@ -301064,7 +301064,7 @@
     "twitterUsername": "nayeem360",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 1115,
+    "publicContributions": 1122,
     "createdAt": "2021-06-05T12:32:09Z"
   },
   {
@@ -301375,7 +301375,7 @@
     "company": "Tumio Parbe",
     "twitterUsername": "AminulFardin",
     "followers": 15,
-    "privateContributions": 63,
+    "privateContributions": 77,
     "publicContributions": 291,
     "createdAt": "2021-06-25T21:00:47Z"
   },
@@ -301459,7 +301459,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 59,
+    "privateContributions": 61,
     "publicContributions": 0,
     "createdAt": "2021-06-24T03:18:21Z"
   },
@@ -301530,7 +301530,7 @@
     "location": "Dhaka, Bangladesh",
     "company": "North South University",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 43,
     "createdAt": "2021-05-18T18:20:23Z"
@@ -301543,7 +301543,7 @@
     "company": "Smartify",
     "twitterUsername": "TaqiUlAbrar",
     "followers": 14,
-    "privateContributions": 271,
+    "privateContributions": 272,
     "publicContributions": 0,
     "createdAt": "2021-06-20T19:53:39Z"
   },
@@ -349486,5 +349486,293 @@
     "privateContributions": 4,
     "publicContributions": 2,
     "createdAt": "2021-04-04T15:46:39Z"
+  },
+  {
+    "login": "takimul",
+    "name": "Md Takimul Hasan Nihal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82840138?s=72&u=2290fa2733b44bc83fede1d8234c62d6b357dc5d&v=4",
+    "location": "Dhaka",
+    "company": "Innovoe",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 195,
+    "createdAt": "2021-04-19T19:08:06Z"
+  },
+  {
+    "login": "weirdo121",
+    "name": "Md. Shafiqul Islam Tonmoy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81623081?s=72&u=d1157653e7298382980a3e8f78458c81ea287470&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-03-30T10:40:22Z"
+  },
+  {
+    "login": "RubelMehmed",
+    "name": "Rubel Fakir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85787214?s=72&u=0f0538ce9043913b4103904bce7fe35843dc7eb5&v=4",
+    "location": "Savar, Dhaka",
+    "company": "",
+    "twitterUsername": "RubelMehmed",
+    "followers": 86,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-12T10:01:57Z"
+  },
+  {
+    "login": "nasifjihan",
+    "name": "Nasif Jihan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85276921?s=72&u=cad735e8b6e247449de150d8968dd9ec483d83f2&v=4",
+    "location": "South Banasree, Khilgaon, Dhaka-1219",
+    "company": "Multibrand Workshop Ltd",
+    "twitterUsername": "nasifjihan",
+    "followers": 70,
+    "privateContributions": 730,
+    "publicContributions": 286,
+    "createdAt": "2021-06-03T06:34:06Z"
+  },
+  {
+    "login": "abrarhasan3",
+    "name": "Abrar Hasan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85815740?s=72&u=fa0cfefe1a9a57c5a3713b3cd54d09e4b147ae71&v=4",
+    "location": "Purbachal American City, Dhaka",
+    "company": "Green University of Bangladesh",
+    "twitterUsername": "",
+    "followers": 64,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2021-06-13T03:40:32Z"
+  },
+  {
+    "login": "bkuddin",
+    "name": "Bakhtiar Uddin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86620392?s=72&u=d7f1bc23f5fd2addc125160113365909a9f28536&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 53,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2021-06-28T16:52:33Z"
+  },
+  {
+    "login": "itz-rj-here",
+    "name": "It'z RJ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86042583?s=72&u=77bd0333e435fb06c8bf4c4518393ecae51d9e2b&v=4",
+    "location": "Uttara, Dhaka.",
+    "company": "Pixel Development",
+    "twitterUsername": "_itz_rj_",
+    "followers": 46,
+    "privateContributions": 94,
+    "publicContributions": 168,
+    "createdAt": "2021-06-17T06:55:01Z"
+  },
+  {
+    "login": "zenjahid",
+    "name": "ᴊᴀʜɪᴅ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84239550?s=72&u=c17ecf1764c0e7bc937951a5430dc5afebebb5a4&v=4",
+    "location": "dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 44,
+    "privateContributions": 0,
+    "publicContributions": 119,
+    "createdAt": "2021-05-15T15:14:00Z"
+  },
+  {
+    "login": "hm-badhon",
+    "name": "BaMax_Badhon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85755347?s=72&u=bbbfd4f98485ffcfc823ad9a637ecb0e0f36859a&v=4",
+    "location": "Dhaka",
+    "company": "@hmbadhon-robotics",
+    "twitterUsername": "",
+    "followers": 43,
+    "privateContributions": 30,
+    "publicContributions": 24,
+    "createdAt": "2021-06-11T15:49:46Z"
+  },
+  {
+    "login": "rafisgithub",
+    "name": "Rafi Ahmed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84710018?s=72&u=fe6cf1a2eedfe7100cb9056cb14a902c6eb0ddb0&v=4",
+    "location": "Dhaka",
+    "company": "Oppora.ai",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 2616,
+    "publicContributions": 610,
+    "createdAt": "2021-05-24T09:26:47Z"
+  },
+  {
+    "login": "Tasnova012",
+    "name": "Tasnova Tasnim prity",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86052409?s=72&u=ed99b944fb405bd482f55f8d922c0cd796858cf4&v=4",
+    "location": "Dhaka",
+    "company": "State university of Bangladesh, student",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2021-06-17T10:22:23Z"
+  },
+  {
+    "login": "ador-25",
+    "name": "Abtahee Farhan Ador",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84260545?s=72&u=71aff60d887717e5d54c7ea723e6f8a46b39879d&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 121,
+    "publicContributions": 5,
+    "createdAt": "2021-05-16T05:04:54Z"
+  },
+  {
+    "login": "I-K-Sakur",
+    "name": "Mohammad I-K Sakur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86509345?s=72&u=edb79809355b8c294c6cc6d229eb8635813cb036&v=4",
+    "location": "Dhaka",
+    "company": "SparkTech Agency",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 87,
+    "publicContributions": 294,
+    "createdAt": "2021-06-26T05:49:20Z"
+  },
+  {
+    "login": "shakibahmedcse",
+    "name": "Programmer Shuvo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85229306?s=72&u=29cbc87d3f1cb4f7c848c1261f78662ad9527206&v=4",
+    "location": "Dhaka",
+    "company": "Web Squad",
+    "twitterUsername": "progshuvo",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-02T10:55:55Z"
+  },
+  {
+    "login": "karmakersagar",
+    "name": "Sagar Chandra Karmaker Babu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86047233?s=72&u=1f72000a5b0b58286a7cb897c9cecfeaa5ce2eb2&v=4",
+    "location": "Dhaka",
+    "company": "University Of Dhaka",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-17T08:30:45Z"
+  },
+  {
+    "login": "ashik12060",
+    "name": "Ashik Mahmood",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85802624?s=72&u=6edb3f8d75d8d0b4864de6b87035403ef1bd322b&v=4",
+    "location": "Green Road, Dhanmondi, Dhaka - 1205",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 112,
+    "createdAt": "2021-06-12T17:22:48Z"
+  },
+  {
+    "login": "3a7anton",
+    "name": "ABU AHAD ANTON",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85007283?s=72&u=52ace1d03788b5dece93d4dd93d494061ee1b390&v=4",
+    "location": "Dhaka",
+    "company": "Freelance Software Engineer",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 178,
+    "createdAt": "2021-05-29T05:24:37Z"
+  },
+  {
+    "login": "tonmoyasiquetamal",
+    "name": "Tonmoy Asique Tamal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86626039?s=72&u=50f916977d20f87ac4353e9a6df097d0eb930a7d&v=4",
+    "location": "Mirpur, Dhaka-1216",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-28T19:02:01Z"
+  },
+  {
+    "login": "ashikur-rahman-asif",
+    "name": "Ashikur Rahman Asif",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86229363?s=72&u=bfeadc6ca7a7e251ca6b028c49258cd66639abb2&v=4",
+    "location": "Dhaka",
+    "company": "Sumash Tech Ltd",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 1575,
+    "publicContributions": 101,
+    "createdAt": "2021-06-21T09:01:02Z"
+  },
+  {
+    "login": "raysulkobir",
+    "name": "Md.Raysu kobir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86109661?s=72&u=29aa9b57f99a582817c63542930cf61d4f52f8e8&v=4",
+    "location": "Dhaka",
+    "company": "Bangladesh Thalassemia Foundation",
+    "twitterUsername": "kobir_raysul",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 56,
+    "createdAt": "2021-06-18T11:49:48Z"
+  },
+  {
+    "login": "SamiKhan-cse19",
+    "name": "Mohammed Sami Khan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84507970?s=72&v=4",
+    "location": "Dhaka",
+    "company": "Intelsense AI",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 57,
+    "publicContributions": 13,
+    "createdAt": "2021-05-20T11:15:07Z"
+  },
+  {
+    "login": "prashanta0234",
+    "name": "Prashanta Chakraborty",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86629940?s=72&u=4fb99e53d725cf6ca6eca968497863b635b85e37&v=4",
+    "location": "Dhaka",
+    "company": "TruckLagbe",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 614,
+    "publicContributions": 107,
+    "createdAt": "2021-06-28T20:48:48Z"
+  },
+  {
+    "login": "arakibulislam",
+    "name": "Rakibul Islam Akash",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85647633?s=72&v=4",
+    "location": "Middle Budda, Dhaka-1207",
+    "company": "",
+    "twitterUsername": "arakibulislam",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2021-06-09T20:30:12Z"
+  },
+  {
+    "login": "tanmoypaul1005",
+    "name": "Tanmoy paul",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84624966?s=72&u=772c88122cdbad4c6216647d8b6ecf8eeed42a35&v=4",
+    "location": "Dhaka",
+    "company": "Riseup Labs",
+    "twitterUsername": "tanmoypaul1005",
+    "followers": 12,
+    "privateContributions": 2477,
+    "publicContributions": 1204,
+    "createdAt": "2021-05-22T11:43:21Z"
   }
 ]
