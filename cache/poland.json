@@ -310582,5 +310582,29 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2019-05-06T20:15:02Z"
+  },
+  {
+    "login": "alwatroos",
+    "name": "Karol",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47992911?s=72&v=4",
+    "location": "Wrocław",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2019-02-25T21:06:39Z"
+  },
+  {
+    "login": "Pivtrek",
+    "name": "Piotrek Rzepka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58308863?s=72&u=4bf8d4149fc1eeb45ed782a5b4e8f21373a062a9&v=4",
+    "location": "Wrocław",
+    "company": "UBS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2019-11-28T18:47:58Z"
   }
 ]

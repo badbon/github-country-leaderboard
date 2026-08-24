@@ -264680,7 +264680,7 @@
     "twitterUsername": "",
     "followers": 100,
     "privateContributions": 0,
-    "publicContributions": 4504,
+    "publicContributions": 4506,
     "createdAt": "2017-07-25T07:50:56Z"
   },
   {
@@ -264691,7 +264691,7 @@
     "company": "Speaksee",
     "twitterUsername": "",
     "followers": 90,
-    "privateContributions": 1090,
+    "privateContributions": 1093,
     "publicContributions": 78,
     "createdAt": "2017-08-05T08:29:18Z"
   },
@@ -265135,7 +265135,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 942,
+    "privateContributions": 950,
     "publicContributions": 29,
     "createdAt": "2017-07-06T16:20:51Z"
   },
@@ -265459,7 +265459,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 610,
+    "privateContributions": 618,
     "publicContributions": 43,
     "createdAt": "2017-08-19T03:34:00Z"
   },
@@ -266515,7 +266515,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 3188,
+    "privateContributions": 3305,
     "publicContributions": 10,
     "createdAt": "2017-08-12T14:59:58Z"
   },
@@ -266792,7 +266792,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 50,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2017-09-19T06:17:53Z"
   },
   {
@@ -273403,7 +273403,7 @@
     "company": "Info Support",
     "twitterUsername": "",
     "followers": 70,
-    "privateContributions": 1807,
+    "privateContributions": 1809,
     "publicContributions": 150,
     "createdAt": "2017-11-15T19:15:55Z"
   },
@@ -273835,8 +273835,8 @@
     "company": "Deltares",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 893,
-    "publicContributions": 8985,
+    "privateContributions": 900,
+    "publicContributions": 9025,
     "createdAt": "2017-10-29T13:17:10Z"
   },
   {
@@ -275371,7 +275371,7 @@
     "company": "",
     "twitterUsername": "SidTheBuilder",
     "followers": 11,
-    "privateContributions": 1657,
+    "privateContributions": 1658,
     "publicContributions": 21,
     "createdAt": "2017-10-08T20:03:25Z"
   },
@@ -282682,5 +282682,29 @@
     "privateContributions": 58,
     "publicContributions": 12,
     "createdAt": "2014-03-23T21:43:14Z"
+  },
+  {
+    "login": "bengelsdorff",
+    "name": "Antonio Neto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/672061?s=72&u=5881769437fef7b818ea6ffd0c442abd437a72bf&v=4",
+    "location": "Hilversum, Netherlands / Lisbon, Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-03-15T23:30:31Z"
+  },
+  {
+    "login": "themisterkai",
+    "name": "Kai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9663970?s=72&u=67ae96a8181bff183a9ebb1a8e68a9f19b7ca9be&v=4",
+    "location": "Amsterdam / Stockholm",
+    "company": "IKEA",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 666,
+    "publicContributions": 0,
+    "createdAt": "2014-11-10T21:36:37Z"
   }
 ]

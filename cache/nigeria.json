@@ -315523,7 +315523,7 @@
     "company": "Entraid Systems",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 420,
+    "privateContributions": 429,
     "publicContributions": 622,
     "createdAt": "2018-03-09T21:36:29Z"
   },
@@ -337546,5 +337546,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-11-17T16:13:19Z"
+  },
+  {
+    "login": "useeboss",
+    "name": "Dr. Usman Yahaya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35610420?s=72&u=584073fc0832aedc27051ce349cdd7b401df87c2&v=4",
+    "location": "Abuja",
+    "company": "Ushal Consulting Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 195,
+    "createdAt": "2018-01-19T19:06:14Z"
+  },
+  {
+    "login": "Legendrix1",
+    "name": "Perekosufa Obudah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35599771?s=72&u=a2e36ff74481f543a827b8aae510345d6b7c29a2&v=4",
+    "location": "Abuja",
+    "company": "",
+    "twitterUsername": "GrenishSky",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-01-19T12:07:45Z"
+  },
+  {
+    "login": "rhocom",
+    "name": "rhocom",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37002480?s=72&u=369a70c43ebb21dd996a548dd1d43f2e2867adc6&v=4",
+    "location": "Wuse Zone 4 Abuja",
+    "company": "Rhocom Technology Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-03-02T20:54:42Z"
+  },
+  {
+    "login": "ADJOSHO",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36078106?s=72&u=2730c722d1301eca73f69645724bdc4e749f850d&v=4",
+    "location": "Abuja",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-02T14:36:51Z"
   }
 ]
