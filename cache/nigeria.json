@@ -396826,5 +396826,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-09-15T13:23:05Z"
+  },
+  {
+    "login": "influx6",
+    "name": "Ewetumo Alexander",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131629?s=72&u=077ae20589d63892f7e7a4f4782067125356b4f6&v=4",
+    "location": "Lagos, Nigeria",
+    "company": "@Ewe-Studios ",
+    "twitterUsername": "influx6",
+    "followers": 389,
+    "privateContributions": 7,
+    "publicContributions": 377,
+    "createdAt": "2009-09-26T16:02:09Z"
+  },
+  {
+    "login": "seyi",
+    "name": "seyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87351?s=72&u=718e947656075459d9da4d3321220e738615c28e&v=4",
+    "location": "Nigeria",
+    "company": "Geomobile Nigeria",
+    "twitterUsername": "",
+    "followers": 46,
+    "privateContributions": 2063,
+    "publicContributions": 178,
+    "createdAt": "2009-05-21T21:50:55Z"
+  },
+  {
+    "login": "hakimkal",
+    "name": "Abdulhakim Haliru",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151368?s=72&u=135376c78a65aa01534c854456f76574ecc097cb&v=4",
+    "location": "Abuja, Nigeria",
+    "company": "Le Proghrammeen Solutions",
+    "twitterUsername": "",
+    "followers": 35,
+    "privateContributions": 15597,
+    "publicContributions": 130,
+    "createdAt": "2009-11-10T17:10:02Z"
+  },
+  {
+    "login": "boyombo",
+    "name": "Bayo Opadeyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60146?s=72&u=b03ccbfbbc65e8a02ee4e0675f0152a6f60204dd&v=4",
+    "location": "Lagos, Nigeria",
+    "company": "Clear Code Software Labs Ltd",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 637,
+    "publicContributions": 10,
+    "createdAt": "2009-03-04T17:31:53Z"
+  },
+  {
+    "login": "ebolag",
+    "name": "ebolag",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102861?s=72&u=b47155ef001f11cc97b9ee846995e9f279c28a7c&v=4",
+    "location": "Nigeria",
+    "company": "X-vison Consult",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-07-08T12:46:28Z"
+  },
+  {
+    "login": "chimere",
+    "name": "Chimere Okoro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109848?s=72&v=4",
+    "location": "Abuja, Nigeria",
+    "company": "Radiant Cues",
+    "twitterUsername": "chimere",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-07-29T13:04:10Z"
+  },
+  {
+    "login": "boluak",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79247?s=72&u=963eae99ba145dbc71181724f9d672f110cdaeb1&v=4",
+    "location": "Lagos, Nigeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2009-04-29T18:04:40Z"
+  },
+  {
+    "login": "kodion",
+    "name": "Omo Oaiya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95480?s=72&v=4",
+    "location": "Abuja, Nigeria",
+    "company": "WACREN",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-06-15T10:31:44Z"
   }
 ]
