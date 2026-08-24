@@ -281134,5 +281134,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-12-02T16:18:00Z"
+  },
+  {
+    "login": "josesalomon",
+    "name": "José Salomón Seoane García",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164827?s=72&v=4",
+    "location": "Queretaro, Queretaro",
+    "company": "josesalomon",
+    "twitterUsername": "josesalomon",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2009-12-09T04:04:44Z"
+  },
+  {
+    "login": "vbautista",
+    "name": "Valentino Bautista",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130478?s=72&v=4",
+    "location": "Queretaro, Qro",
+    "company": "iSoftware",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-09-23T17:59:37Z"
   }
 ]

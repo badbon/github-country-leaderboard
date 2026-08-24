@@ -1,8 +1,8 @@
 # Public Contributions - Zambia
 
-Generated: 2026-08-24T12:27:09.194Z
+Generated: 2026-08-24T12:50:10.794Z
 
-Users: 1350
+Users: 1349
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 1350
 | 16 | [paritybits](https://github.com/paritybits) | Parity Chizela | @palnet-solutions  | mrbits64 | Zambia | 638 |
 | 17 | [chandachewe10](https://github.com/chandachewe10) | Chanda Chewe | BACK-END DEVELOPER | Chanda84245125 | Zambia | 628 |
 | 18 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 598 |
-| 19 | [kazashim](https://github.com/kazashim) | kazashim kuzasuwat | @cynojine @Brack-Off-Tech @Kwachago @ExciteSMS | cynojinetech | Zambia | 586 |
-| 20 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | OpenEarth Foundation |  | Zambia | 556 |
+| 19 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | OpenEarth Foundation |  | Zambia | 556 |
+| 20 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba |  |  | Lusaka, Zambia | 525 |
