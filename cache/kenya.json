@@ -287866,5 +287866,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-12-22T06:16:29Z"
+  },
+  {
+    "login": "niiamon",
+    "name": "Nii Amon Dsane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/18960?s=72&v=4",
+    "location": "Nairobi, Kenya",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 89,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-07-30T12:17:22Z"
+  },
+  {
+    "login": "housni",
+    "name": "Housni Yakoob",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12302?s=72&v=4",
+    "location": "Nairobi, Kenya",
+    "company": "Modus Create Inc.",
+    "twitterUsername": "",
+    "followers": 79,
+    "privateContributions": 957,
+    "publicContributions": 0,
+    "createdAt": "2008-06-02T12:21:25Z"
   }
 ]
