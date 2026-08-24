@@ -257814,7 +257814,7 @@
     "location": "Mexico City",
     "company": "",
     "twitterUsername": "scrubmx",
-    "followers": 85,
+    "followers": 86,
     "privateContributions": 1205,
     "publicContributions": 218,
     "createdAt": "2012-10-16T16:40:50Z"
@@ -260251,7 +260251,7 @@
     "company": "Seedtag",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 205,
+    "privateContributions": 206,
     "publicContributions": 0,
     "createdAt": "2012-02-03T10:22:10Z"
   },
@@ -266182,5 +266182,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-06-14T21:05:35Z"
+  },
+  {
+    "login": "cesarivan80",
+    "name": "Ivan Murillo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2251434?s=72&v=4",
+    "location": "Guadalajara",
+    "company": "Wowzer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2012-08-30T22:16:35Z"
+  },
+  {
+    "login": "murito",
+    "name": "Francisco Alcalá",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2628140?s=72&u=35cf959d1a1d6cf7dcc88d6776d52bc2ca78c2e0&v=4",
+    "location": "Guadalajara Jalisco",
+    "company": "NopalTech",
+    "twitterUsername": "nopaltech",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2012-10-23T03:55:29Z"
+  },
+  {
+    "login": "enriquemr",
+    "name": "Enrique",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2745909?s=72&v=4",
+    "location": "Guadalajara, Jalsico, México",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-11-07T20:49:17Z"
+  },
+  {
+    "login": "blackfoxgdl",
+    "name": "Ruben Alonso Cortes Mendoza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1375906?s=72&v=4",
+    "location": "Guadalajara, Jalisco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-24T17:18:38Z"
+  },
+  {
+    "login": "wcjos",
+    "name": "wcjos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1635250?s=72&v=4",
+    "location": "Guadalajara",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-04-12T02:37:29Z"
+  },
+  {
+    "login": "angelcazares",
+    "name": "Angel Cazares",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2126661?s=72&u=4374d78db1f77676e15d9ff23a041a1578cc6b4a&v=4",
+    "location": "Guadalajara",
+    "company": "Wizeline",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-10T01:13:14Z"
+  },
+  {
+    "login": "wisemx",
+    "name": "Wisemx",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2107266?s=72&v=4",
+    "location": "Guadalajara ",
+    "company": "Wireless Measurement and Control SA de CV ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-08-07T02:39:00Z"
   }
 ]
