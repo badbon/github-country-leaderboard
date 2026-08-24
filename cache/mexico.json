@@ -279178,5 +279178,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-12-10T23:35:07Z"
+  },
+  {
+    "login": "Deilusia",
+    "name": "Elena Vazquez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/473226?s=72&u=72451522d56351d56e4a2813ff59e708077e6cfe&v=4",
+    "location": "Puebla, México",
+    "company": "",
+    "twitterUsername": "Deilusia",
+    "followers": 25,
+    "privateContributions": 621,
+    "publicContributions": 0,
+    "createdAt": "2010-11-08T22:53:05Z"
+  },
+  {
+    "login": "rjmarquez",
+    "name": "Richard Márquez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291428?s=72&u=bfec36d43491d2454e3d57a65eb69affd399fc36&v=4",
+    "location": "Puebla",
+    "company": "ECON Tech",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-05-30T14:22:11Z"
+  },
+  {
+    "login": "ezenwa",
+    "name": "Joshua Ezenwa Carrasco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/306071?s=72&u=8b07141b24d2be4d0468bbabe7bf188c1994a3fc&v=4",
+    "location": "Puebla, México",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2010-06-15T18:24:44Z"
+  },
+  {
+    "login": "javiergalicia",
+    "name": "Javier",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235455?s=72&v=4",
+    "location": "Puebla",
+    "company": "Kusvo",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-04-02T03:50:17Z"
+  },
+  {
+    "login": "GerBO",
+    "name": "Gerardo Baez Oropeza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/413341?s=72&v=4",
+    "location": "Puebla",
+    "company": "Personal",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-09-23T18:34:50Z"
+  },
+  {
+    "login": "punkland",
+    "name": "Julio Alberto Motolinía",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/502216?s=72&u=cb1998622f5d8f7f614ac36a020140e7d1842f0f&v=4",
+    "location": "Atlixco, Puebla México.",
+    "company": "medio04",
+    "twitterUsername": "alfie_moto",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2010-11-29T18:25:45Z"
+  },
+  {
+    "login": "rnstux",
+    "name": "Edgar Durán",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187884?s=72&u=470b8abf42ba2d71f1d5c1c6f2196765917beb15&v=4",
+    "location": "Oaxaca | Queretaro | Puerto Escondido",
+    "company": "Uxi Software",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 50,
+    "publicContributions": 0,
+    "createdAt": "2010-01-22T19:21:58Z"
+  },
+  {
+    "login": "rtorresalonso",
+    "name": "Ramón Torres",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/520165?s=72&v=4",
+    "location": "Queretaro",
+    "company": "Overflow Labs",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2010-12-12T18:10:13Z"
   }
 ]
