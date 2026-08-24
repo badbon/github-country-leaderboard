@@ -281734,5 +281734,41 @@
     "privateContributions": 690,
     "publicContributions": 403,
     "createdAt": "2008-06-26T23:22:07Z"
+  },
+  {
+    "login": "sgarza",
+    "name": "Sergio de la Garza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5906?s=72&u=cfc91b19f1bacc75593d308d24e1a9af5b689787&v=4",
+    "location": "Monterrey, MX",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 88,
+    "privateContributions": 824,
+    "publicContributions": 0,
+    "createdAt": "2008-04-08T20:27:33Z"
+  },
+  {
+    "login": "mrchapp",
+    "name": "Daniel Díaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27009?s=72&v=4",
+    "location": "Monterrey, Nuevo León, México",
+    "company": "Linaro",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 218,
+    "createdAt": "2008-09-30T22:46:05Z"
+  },
+  {
+    "login": "gnuget",
+    "name": "David Valdez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33288?s=72&u=80bb99d70cb75e4ef20f4728f49e3bcae1aec42a&v=4",
+    "location": "Puebla",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 66,
+    "privateContributions": 897,
+    "publicContributions": 0,
+    "createdAt": "2008-11-08T00:15:30Z"
   }
 ]
