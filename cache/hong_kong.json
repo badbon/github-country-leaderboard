@@ -25302,9 +25302,9 @@
     "location": "Beijing / Hong Kong, China",
     "company": "University of Chinese Academy of Science / City University of Hong Kong",
     "twitterUsername": "kaili37",
-    "followers": 37,
+    "followers": 39,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 63,
     "createdAt": "2020-12-29T06:15:15Z"
   },
   {
@@ -69367,7 +69367,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 63,
-    "privateContributions": 973,
+    "privateContributions": 1056,
     "publicContributions": 139,
     "createdAt": "2017-01-17T11:59:10Z"
   },
@@ -123862,5 +123862,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-07-30T11:21:28Z"
+  },
+  {
+    "login": "Sunkanghong-Wang",
+    "name": "Sunkanghong Wang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77559455?s=72&u=20710dd0a169d22a38645c9c3767b6c662b83144&v=4",
+    "location": "Hong Kong, China",
+    "company": "The Hong Kong Polytechnic University",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2021-01-17T02:32:05Z"
   }
 ]
