@@ -234992,7 +234992,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 278,
+    "publicContributions": 280,
     "createdAt": "2014-12-07T05:44:29Z"
   },
   {
@@ -235027,7 +235027,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1087,
+    "privateContributions": 1088,
     "publicContributions": 0,
     "createdAt": "2014-10-28T05:55:26Z"
   },
@@ -235063,7 +235063,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 769,
+    "privateContributions": 774,
     "publicContributions": 303,
     "createdAt": "2014-12-29T12:18:31Z"
   },
@@ -235531,7 +235531,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 252,
+    "privateContributions": 254,
     "publicContributions": 0,
     "createdAt": "2014-10-21T02:24:53Z"
   },
@@ -235735,7 +235735,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 950,
+    "privateContributions": 951,
     "publicContributions": 109,
     "createdAt": "2014-10-17T12:12:29Z"
   },
@@ -235783,7 +235783,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 197,
+    "privateContributions": 199,
     "publicContributions": 15,
     "createdAt": "2014-11-02T11:21:13Z"
   },
@@ -236047,7 +236047,7 @@
     "company": "Venti Technologies",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 4394,
+    "privateContributions": 4401,
     "publicContributions": 4,
     "createdAt": "2014-10-15T06:18:11Z"
   },
@@ -236167,7 +236167,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 862,
+    "privateContributions": 863,
     "publicContributions": 0,
     "createdAt": "2014-10-10T13:52:00Z"
   },
@@ -236372,7 +236372,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2659,
+    "publicContributions": 2669,
     "createdAt": "2014-12-01T07:20:43Z"
   },
   {
@@ -236779,7 +236779,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1832,
+    "privateContributions": 1869,
     "publicContributions": 386,
     "createdAt": "2014-10-12T13:28:58Z"
   },
@@ -239674,5 +239674,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-10-07T09:58:24Z"
+  },
+  {
+    "login": "Kaytnsun",
+    "name": "lukesun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120242809?s=72&v=4",
+    "location": "Singapore / Shanghai",
+    "company": "Tencent / Nanyang Technological University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-12-10T07:31:27Z"
   }
 ]
