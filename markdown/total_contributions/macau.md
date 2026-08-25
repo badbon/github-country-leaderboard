@@ -1,8 +1,8 @@
 # Total Contributions - Macau
 
-Generated: 2026-08-25T21:47:24.726Z
+Generated: 2026-08-25T22:15:17.337Z
 
-Users: 457
+Users: 456
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

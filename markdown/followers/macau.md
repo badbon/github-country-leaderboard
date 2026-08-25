@@ -1,8 +1,8 @@
 # Followers - Macau
 
-Generated: 2026-08-25T21:47:24.726Z
+Generated: 2026-08-25T22:15:17.337Z
 
-Users: 457
+Users: 456
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 457
 | 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 179 |
 | 7 | [IMRL](https://github.com/IMRL) |  |  |  | Taipa, Macau | 162 |
 | 8 | [clinplayer](https://github.com/clinplayer) | Cheng Lin |  |  | Macau | 160 |
-| 9 | [ButaiKirin](https://github.com/ButaiKirin) | Konnyaku |  |  | Macau | 142 |
-| 10 | [manesec](https://github.com/manesec) | Mane |  |  | Macau | 128 |
-| 11 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | FST, University of Macau |  | Macau | 124 |
-| 12 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Cargo Capital |  | Macau | 121 |
-| 13 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak |  |  | Macao | 109 |
-| 14 | [mengguyi](https://github.com/mengguyi) | 孟古一 |  | mengguyi | Macau | 102 |
-| 15 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 100 |
-| 16 | [zhiyzuo](https://github.com/zhiyzuo) | Zhiya Zuo | University of Macau |  | Macau | 93 |
-| 17 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Harvard University | laochonlam | Macau | 88 |
-| 18 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong |  |  | Macau | 84 |
-| 19 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 68 |
-| 20 | [greatzh](https://github.com/greatzh) | Zihao Zhang | University of Macao |  | macao | 65 |
+| 9 | [manesec](https://github.com/manesec) | Mane |  |  | Macau | 128 |
+| 10 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | FST, University of Macau |  | Macau | 124 |
+| 11 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Cargo Capital |  | Macau | 121 |
+| 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak |  |  | Macao | 109 |
+| 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 |  | mengguyi | Macau | 102 |
+| 14 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 100 |
+| 15 | [zhiyzuo](https://github.com/zhiyzuo) | Zhiya Zuo | University of Macau |  | Macau | 93 |
+| 16 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Harvard University | laochonlam | Macau | 88 |
+| 17 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong |  |  | Macau | 84 |
+| 18 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 68 |
+| 19 | [greatzh](https://github.com/greatzh) | Zihao Zhang | University of Macao |  | macao | 65 |
+| 20 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 61 |
