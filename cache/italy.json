@@ -384834,7 +384834,7 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-01-21T17:00:19Z"
@@ -385051,7 +385051,7 @@
     "company": "@humanstech",
     "twitterUsername": "zhoujian26",
     "followers": 16,
-    "privateContributions": 3967,
+    "privateContributions": 3968,
     "publicContributions": 9,
     "createdAt": "2016-01-19T11:05:46Z"
   },
@@ -385630,5 +385630,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-10-12T19:44:20Z"
+  },
+  {
+    "login": "ernitron",
+    "name": "Erni Tron",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12383856?s=72&u=fe142827ebbace938e795f93859d01dff7db8c2c&v=4",
+    "location": "Italy // Netherlands",
+    "company": "ErniTron",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-10T18:00:28Z"
   }
 ]
