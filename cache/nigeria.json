@@ -396934,5 +396934,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-08-25T06:09:38Z"
+  },
+  {
+    "login": "dftaiwo",
+    "name": "Femi TAIWO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41193?s=72&u=37527593f016fbdbe9592af3210bfb527b8e920f&v=4",
+    "location": "Lagos, Nigeria",
+    "company": "INITS Limited",
+    "twitterUsername": "",
+    "followers": 139,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2008-12-18T07:52:38Z"
+  },
+  {
+    "login": "janus",
+    "name": "Emeka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6726?s=72&u=dc46ddd879e724f1bab062a57318de9f5641a811&v=4",
+    "location": "Nigeria",
+    "company": "Satajanus",
+    "twitterUsername": "",
+    "followers": 74,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2008-04-11T18:17:22Z"
+  },
+  {
+    "login": "duxzitta",
+    "name": "Duxzitta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14391?s=72&v=4",
+    "location": "Lagos, Nigeria",
+    "company": "Open Banking Nigeria",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-06-20T06:28:26Z"
   }
 ]
