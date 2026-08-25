@@ -412042,5 +412042,41 @@
     "privateContributions": 1917,
     "publicContributions": 0,
     "createdAt": "2016-05-12T12:15:00Z"
+  },
+  {
+    "login": "phhaitee",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19815456?s=72&v=4",
+    "location": "Hobart, Australia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2016-06-08T08:25:41Z"
+  },
+  {
+    "login": "odsouza",
+    "name": "Ollencio D'Souza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19346203?s=72&v=4",
+    "location": "Sydney Australia",
+    "company": "TechnologyCare",
+    "twitterUsername": "ollenciodsouza",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-05-13T12:24:37Z"
+  },
+  {
+    "login": "bnays",
+    "name": "Binaya Maharjan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19771594?s=72&u=6401311c12dd3d39fea960070005b55c46681e56&v=4",
+    "location": "Sydney, Australia",
+    "company": "",
+    "twitterUsername": "bnaysm",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2016-06-06T06:31:49Z"
   }
 ]
