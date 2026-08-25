@@ -1,6 +1,6 @@
 # Followers - Georgia
 
-Generated: 2026-08-25T14:43:38.355Z
+Generated: 2026-08-25T15:08:17.078Z
 
 Users: 6933
 
@@ -13,7 +13,7 @@ Users: 6933
 | 5 | [quasilyte](https://github.com/quasilyte) | quasilyte |  |  | Georgia | 844 |
 | 6 | [dachi-khelashvili](https://github.com/dachi-khelashvili) | Dachi Khelashvili |  |  | Tbilisi, Georgia | 757 |
 | 7 | [muladz3gio](https://github.com/muladz3gio) | muladz3gio |  |  | Georgia, Tbilisi | 727 |
-| 8 | [istarkov](https://github.com/istarkov) | Ivan Starkov |  |  | Turkey, UAE, Egypt, Russia, Georgia | 713 |
+| 8 | [istarkov](https://github.com/istarkov) | Ivan Starkov |  |  | Turkey, UAE, Egypt, Russia, Georgia | 715 |
 | 9 | [SleepTheGod](https://github.com/SleepTheGod) | ClumsyLulz | GitBrew |  | Georgia | 701 |
 | 10 | [secrary](https://github.com/secrary) | khasaia |  | CrossedBytes | Georgia | 699 |
 | 11 | [cwinland](https://github.com/cwinland) | Christopher Winland | @microsoft |  | Georgia | 589 |
