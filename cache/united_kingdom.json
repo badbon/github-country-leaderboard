@@ -476122,5 +476122,89 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2020-05-22T08:58:21Z"
+  },
+  {
+    "login": "poriun",
+    "name": "Poriun Project",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66026615?s=72&u=8a94e3c390f5e451b303b0bfd11ad24f317eca68&v=4",
+    "location": "London",
+    "company": "Poriun Project",
+    "twitterUsername": "poriuncoin",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-27T16:10:13Z"
+  },
+  {
+    "login": "ls-hass-mohammed",
+    "name": "Hass Mohammed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66332399?s=72&u=2d23e3121a98adcf7801dadd7456993e5942c1cc&v=4",
+    "location": "London",
+    "company": "Lightspeed HQ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-06-02T19:42:39Z"
+  },
+  {
+    "login": "TheCatSaber",
+    "name": "Alex Mylet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66741113?s=72&v=4",
+    "location": "London",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5,
+    "publicContributions": 0,
+    "createdAt": "2020-06-10T15:45:56Z"
+  },
+  {
+    "login": "emelasml",
+    "name": "Emel Yorganci",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65408781?s=72&u=147d5b4f086bf576d101646fd549924041fe6d17&v=4",
+    "location": "London, UK ",
+    "company": "Cicely Saunders Institute, King's College London",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2020-05-15T14:49:16Z"
+  },
+  {
+    "login": "dimitri12482",
+    "name": "Dimitri Dwyer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65912918?s=72&u=7c6e4936bb5626b98efa67a66d7541e85f70f604&v=4",
+    "location": "London",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-25T16:00:51Z"
+  },
+  {
+    "login": "vykintas-z",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65790492?s=72&u=65e3ac4164a4bf12b6939a6a7342b6322f341bfc&v=4",
+    "location": "London, UK",
+    "company": "Fivestarlab",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2020-05-22T21:30:02Z"
+  },
+  {
+    "login": "gaoshan-bi",
+    "name": "Gaoshan Bi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65443442?s=72&u=c2dd3ca0661ca3f11b1d29e6fc09ceab6e0c6c9f&v=4",
+    "location": "London",
+    "company": "The University of Sheffield",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2020-05-16T08:41:12Z"
   }
 ]
