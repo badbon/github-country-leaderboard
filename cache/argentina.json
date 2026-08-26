@@ -412507,7 +412507,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 1528,
+    "privateContributions": 1529,
     "publicContributions": 3,
     "createdAt": "2018-03-13T15:54:32Z"
   },
@@ -412606,5 +412606,17 @@
     "privateContributions": 514,
     "publicContributions": 1270,
     "createdAt": "2012-05-24T11:22:31Z"
+  },
+  {
+    "login": "maizner",
+    "name": "Maia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46223317?s=72&u=e086709d20fd9497a39fb7dab453fdc2d59d127c&v=4",
+    "location": "España 3719, Olivos. Buenos Aires",
+    "company": "Maia Aizner Web Design",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-12-28T14:13:14Z"
   }
 ]
