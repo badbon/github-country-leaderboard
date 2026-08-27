@@ -45318,8 +45318,8 @@
     "location": "Valencia, Venezuela",
     "company": "ValidatedID",
     "twitterUsername": "fromcarlostoyou",
-    "followers": 56,
-    "privateContributions": 111,
+    "followers": 60,
+    "privateContributions": 122,
     "publicContributions": 44,
     "createdAt": "2018-02-27T22:56:28Z"
   },
@@ -46939,7 +46939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 491,
+    "privateContributions": 529,
     "publicContributions": 25,
     "createdAt": "2018-04-04T17:21:22Z"
   },
@@ -79738,5 +79738,17 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2008-09-04T03:27:32Z"
+  },
+  {
+    "login": "fjsanchezm",
+    "name": "Francisco Sánchez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43481445?s=72&u=6fa4655b763f573275520b63c4f7e12a095e6250&v=4",
+    "location": "Valencia, Venezuelä",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-09-21T19:08:52Z"
   }
 ]
