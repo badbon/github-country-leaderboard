@@ -405079,7 +405079,7 @@
     "company": "JuliaLang user",
     "twitterUsername": "",
     "followers": 322,
-    "privateContributions": 42954,
+    "privateContributions": 42968,
     "publicContributions": 3454,
     "createdAt": "2016-01-18T14:18:50Z"
   },
@@ -405115,7 +405115,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 254,
-    "privateContributions": 487,
+    "privateContributions": 488,
     "publicContributions": 557,
     "createdAt": "2016-03-25T13:07:25Z"
   },
@@ -405343,7 +405343,7 @@
     "company": "CryptoSystems",
     "twitterUsername": "rinov0321",
     "followers": 89,
-    "privateContributions": 2215,
+    "privateContributions": 2217,
     "publicContributions": 0,
     "createdAt": "2016-01-25T16:09:01Z"
   },
@@ -405367,7 +405367,7 @@
     "company": "",
     "twitterUsername": "lz650sss",
     "followers": 84,
-    "privateContributions": 1990,
+    "privateContributions": 2035,
     "publicContributions": 446,
     "createdAt": "2016-03-30T08:09:59Z"
   },
@@ -405379,7 +405379,7 @@
     "company": "",
     "twitterUsername": "D_R_1009",
     "followers": 84,
-    "privateContributions": 9190,
+    "privateContributions": 9222,
     "publicContributions": 3982,
     "createdAt": "2016-02-14T09:27:48Z"
   },
@@ -405415,7 +405415,7 @@
     "company": "AkkeyLab, Inc.",
     "twitterUsername": "AkkeyLab",
     "followers": 78,
-    "privateContributions": 3069,
+    "privateContributions": 3082,
     "publicContributions": 36,
     "createdAt": "2016-03-04T10:28:05Z"
   },
@@ -405490,5 +405490,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-12-04T06:06:11Z"
+  },
+  {
+    "login": "TokyoYoshida",
+    "name": "Junya Yoshida",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16970578?s=72&u=a7e8e8687e62df8201e1c31d9ebf4fc85d5f9cc8&v=4",
+    "location": "Tokyo, Japan",
+    "company": "",
+    "twitterUsername": "jugemjugemjugem",
+    "followers": 63,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-01-30T07:49:23Z"
   }
 ]
