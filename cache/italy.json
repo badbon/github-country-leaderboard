@@ -384727,7 +384727,7 @@
     "company": "Frontiers Media S.A.",
     "twitterUsername": "ldallavalle_",
     "followers": 18,
-    "privateContributions": 1746,
+    "privateContributions": 1747,
     "publicContributions": 30,
     "createdAt": "2016-03-12T09:16:28Z"
   },
@@ -384859,7 +384859,7 @@
     "company": "@cubbit ",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 1335,
+    "privateContributions": 1336,
     "publicContributions": 1138,
     "createdAt": "2016-01-07T14:19:52Z"
   },
@@ -384955,7 +384955,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 2619,
+    "privateContributions": 2663,
     "publicContributions": 513,
     "createdAt": "2016-03-07T21:25:18Z"
   },
@@ -385051,7 +385051,7 @@
     "company": "@humanstech",
     "twitterUsername": "zhoujian26",
     "followers": 16,
-    "privateContributions": 4111,
+    "privateContributions": 4135,
     "publicContributions": 9,
     "createdAt": "2016-01-19T11:05:46Z"
   },
@@ -385111,7 +385111,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 1144,
+    "privateContributions": 1145,
     "publicContributions": 206,
     "createdAt": "2016-01-25T15:54:28Z"
   },
@@ -385135,8 +385135,8 @@
     "company": "@Primait",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 1130,
-    "publicContributions": 9,
+    "privateContributions": 1132,
+    "publicContributions": 8,
     "createdAt": "2016-01-03T10:10:32Z"
   },
   {
@@ -385184,7 +385184,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 59,
-    "publicContributions": 1142,
+    "publicContributions": 1145,
     "createdAt": "2015-12-30T14:06:52Z"
   },
   {
@@ -385232,7 +385232,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 77,
-    "publicContributions": 87,
+    "publicContributions": 89,
     "createdAt": "2016-02-23T14:17:41Z"
   },
   {
@@ -385243,7 +385243,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 556,
+    "privateContributions": 558,
     "publicContributions": 8,
     "createdAt": "2016-01-15T14:56:31Z"
   },
@@ -385316,7 +385316,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 750,
-    "publicContributions": 1034,
+    "publicContributions": 1045,
     "createdAt": "2016-03-22T11:13:26Z"
   },
   {
@@ -385364,7 +385364,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 1077,
+    "publicContributions": 1079,
     "createdAt": "2016-03-12T21:24:12Z"
   },
   {
@@ -385654,5 +385654,17 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2015-10-30T14:39:49Z"
+  },
+  {
+    "login": "fedingo",
+    "name": "Federico Rossetto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17728329?s=72&u=cd58ee916237aada31b6ab734a8c0172ab193c5d&v=4",
+    "location": "Italy, Scotland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-03-08T17:08:37Z"
   }
 ]
