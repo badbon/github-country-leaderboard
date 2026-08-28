@@ -1,6 +1,6 @@
 # Followers - Egypt
 
-Generated: 2026-08-28T14:56:24.510Z
+Generated: 2026-08-28T15:23:49.787Z
 
 Users: 33950
 
@@ -11,7 +11,7 @@ Users: 33950
 | 3 | [D4Vinci](https://github.com/D4Vinci) | Karim shoair |  | D4Vinci1 | Egypt | 3652 |
 | 4 | [OsamaElzero](https://github.com/OsamaElzero) | Osama | Elzero | Osama_Elzero | Egypt | 3409 |
 | 5 | [abdullahmansss](https://github.com/abdullahmansss) | Abdullah Mansour |  |  | Cairo, Egypt | 2856 |
-| 6 | [zigoo0](https://github.com/zigoo0) | Ebrahem Hegazy | www.darkentry.net |  | Egypt / Netherlands | 2738 |
+| 6 | [zigoo0](https://github.com/zigoo0) | Ebrahem Hegazy | www.darkentry.net |  | Egypt / Netherlands | 2739 |
 | 7 | [mohamedelmougy](https://github.com/mohamedelmougy) | Mohamed Elmougy |  |  | Egypt | 2058 |
 | 8 | [Abdullahsaleh203](https://github.com/Abdullahsaleh203) | Abdallah Saleh |  | abdallahsaleh25 | Egypt | 1990 |
 | 9 | [YoussefMoHlemyAlpha](https://github.com/YoussefMoHlemyAlpha) | Youssef MO Helmy  |  |  | Alexandria , Egypt | 1856 |

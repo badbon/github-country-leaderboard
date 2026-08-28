@@ -411956,7 +411956,7 @@
     "twitterUsername": "",
     "followers": 62,
     "privateContributions": 38,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2018-02-09T06:18:38Z"
   },
   {
@@ -412642,5 +412642,17 @@
     "privateContributions": 0,
     "publicContributions": 63,
     "createdAt": "2018-10-06T18:03:50Z"
+  },
+  {
+    "login": "leantab",
+    "name": "Leandro Tabaj",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30695700?s=72&u=f3a39118ad87c28b2b820a40952449129d878c5f&v=4",
+    "location": "Argentina / Spain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 64,
+    "createdAt": "2017-08-03T13:53:34Z"
   }
 ]
