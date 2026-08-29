@@ -1,6 +1,6 @@
 # Total Contributions - United Arab Emirates
 
-Generated: 2026-08-29T17:28:19.635Z
+Generated: 2026-08-29T18:02:57.925Z
 
 Users: 4239
 
@@ -10,12 +10,12 @@ Users: 4239
 | 2 | [YASSERRMD](https://github.com/YASSERRMD) | Mohamed Yasser | Sharjah City Municipality |  | Sharjah, United Arab Emirates | 22047 |
 | 3 | [tschm](https://github.com/tschm) | Thomas Schmelzer | Jebel Quant Research | Thomster78 | Abu Dhabi, United Arab Emirates | 21568 |
 | 4 | [sadiqaaico](https://github.com/sadiqaaico) | Sadiq | AppliedAI |  | Abu Dhabi, United Arab Emirates | 17660 |
-| 5 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | Dell Technologies |  | United Arab Emirates | 13573 |
-| 6 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Elegant Hoopoe |  | Dubai, United Arab Emirates | 13470 |
-| 7 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa |  |  | Dubai, United Arab Emirates | 11244 |
-| 8 | [syymza](https://github.com/syymza) | Dani | @alpheya |  | Abu Dhabi, UAE | 11227 |
-| 9 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari |  |  | United Arab Emirates | 11188 |
-| 10 | [omarismailb](https://github.com/omarismailb) | omar | Ascend |  | London / Abu Dhabi  | 11152 |
+| 5 | [omarismailb](https://github.com/omarismailb) | omar | Ascend |  | London / Abu Dhabi  | 13848 |
+| 6 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | Dell Technologies |  | United Arab Emirates | 13573 |
+| 7 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Elegant Hoopoe |  | Dubai, United Arab Emirates | 13470 |
+| 8 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa |  |  | Dubai, United Arab Emirates | 11244 |
+| 9 | [syymza](https://github.com/syymza) | Dani | @alpheya |  | Abu Dhabi, UAE | 11227 |
+| 10 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari |  |  | United Arab Emirates | 11188 |
 | 11 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | Seera \| Tajawal \| Almosafer |  | United Arab Emirates | 10867 |
 | 12 | [Massad](https://github.com/Massad) | Omar Masad | @testappio |  | United Arab Emirates, Dubai | 10605 |
 | 13 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri |  | aenawi | Abu Dhabi, United Arab Emirates | 9573 |

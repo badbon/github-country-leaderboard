@@ -302832,18 +302832,6 @@
     "createdAt": "2017-01-08T01:07:17Z"
   },
   {
-    "login": "LerBigDev",
-    "name": "Valerij \"LerDev\" Saprykin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25496833?s=72&u=679bc4cdcf634d8ef4d6bf6b0f99abc055f11bd8&v=4",
-    "location": "Ukraine, Kiev",
-    "company": "LerDev",
-    "twitterUsername": "LerDev",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-02-02T03:14:39Z"
-  },
-  {
     "login": "dmytroandkovalov",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/25334523?s=72&v=4",
@@ -507271,7 +507259,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 362,
+    "privateContributions": 364,
     "publicContributions": 5,
     "createdAt": "2013-10-02T10:41:38Z"
   },
