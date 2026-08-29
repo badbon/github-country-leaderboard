@@ -639202,5 +639202,53 @@
     "privateContributions": 2744,
     "publicContributions": 42,
     "createdAt": "2023-08-26T01:26:36Z"
+  },
+  {
+    "login": "newbacon",
+    "name": "Newbacon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128717208?s=72&u=3b08179e79c48b35b13b60f55a34e18bb7998ec4&v=4",
+    "location": "Sao Paulo",
+    "company": "Newbacon",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-03-23T14:21:01Z"
+  },
+  {
+    "login": "heitorm-koro",
+    "name": "Heitor Miranda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149188701?s=72&v=4",
+    "location": "Sao Paulo",
+    "company": "Koro Creators",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-10-27T16:10:04Z"
+  },
+  {
+    "login": "RafaRubio07",
+    "name": "Rafael Rubio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137216553?s=72&v=4",
+    "location": "Sao Paulo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2,
+    "publicContributions": 2,
+    "createdAt": "2023-06-20T18:25:38Z"
+  },
+  {
+    "login": "zionf22",
+    "name": "Zion Fontana Jacomossi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144263159?s=72&u=2ef700731763ad85aeb8ef0d3ff376bc29c9e00d&v=4",
+    "location": "Sao Paulo",
+    "company": "Instituto Aya",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-06T16:23:47Z"
   }
 ]
