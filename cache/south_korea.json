@@ -477775,7 +477775,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 877,
-    "privateContributions": 6029,
+    "privateContributions": 6043,
     "publicContributions": 163,
     "createdAt": "2017-05-23T12:23:32Z"
   },
@@ -477871,7 +477871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 306,
-    "privateContributions": 5276,
+    "privateContributions": 5278,
     "publicContributions": 78,
     "createdAt": "2017-03-21T01:19:52Z"
   },
@@ -478039,7 +478039,7 @@
     "company": "@next-securities ",
     "twitterUsername": "",
     "followers": 128,
-    "privateContributions": 3640,
+    "privateContributions": 3649,
     "publicContributions": 2,
     "createdAt": "2017-03-28T10:20:01Z"
   },
@@ -478159,8 +478159,8 @@
     "company": "@toss",
     "twitterUsername": "",
     "followers": 108,
-    "privateContributions": 1123,
-    "publicContributions": 368,
+    "privateContributions": 1140,
+    "publicContributions": 377,
     "createdAt": "2017-09-30T14:03:24Z"
   },
   {
@@ -478423,7 +478423,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 81,
-    "privateContributions": 4575,
+    "privateContributions": 4576,
     "publicContributions": 339,
     "createdAt": "2017-06-26T13:21:11Z"
   },
@@ -478675,7 +478675,7 @@
     "company": "@Samsung",
     "twitterUsername": "",
     "followers": 62,
-    "privateContributions": 298,
+    "privateContributions": 304,
     "publicContributions": 69,
     "createdAt": "2017-04-09T16:08:38Z"
   },
@@ -478711,7 +478711,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 60,
-    "privateContributions": 6503,
+    "privateContributions": 6512,
     "publicContributions": 45,
     "createdAt": "2017-09-17T15:17:53Z"
   },
@@ -478747,8 +478747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 60,
-    "privateContributions": 795,
-    "publicContributions": 275,
+    "privateContributions": 801,
+    "publicContributions": 281,
     "createdAt": "2017-03-21T11:12:52Z"
   },
   {
@@ -479023,8 +479023,8 @@
     "company": "Microsoft",
     "twitterUsername": "",
     "followers": 51,
-    "privateContributions": 2551,
-    "publicContributions": 2905,
+    "privateContributions": 2553,
+    "publicContributions": 2911,
     "createdAt": "2017-01-23T06:13:02Z"
   },
   {
@@ -479143,7 +479143,7 @@
     "company": "ABLY Corp., Inc. @banhala",
     "twitterUsername": "",
     "followers": 46,
-    "privateContributions": 5028,
+    "privateContributions": 5035,
     "publicContributions": 0,
     "createdAt": "2017-03-04T06:26:03Z"
   },
@@ -479311,7 +479311,7 @@
     "company": "",
     "twitterUsername": "nonetype_pwn",
     "followers": 42,
-    "privateContributions": 9468,
+    "privateContributions": 9475,
     "publicContributions": 14,
     "createdAt": "2017-08-10T13:30:08Z"
   },
@@ -479911,7 +479911,7 @@
     "company": "NC AI",
     "twitterUsername": "kakaru1331",
     "followers": 31,
-    "privateContributions": 10,
+    "privateContributions": 11,
     "publicContributions": 28,
     "createdAt": "2017-07-17T10:10:31Z"
   },
@@ -479982,7 +479982,7 @@
     "location": "Gyeonggi-do, Republic of Korea",
     "company": "TeamHJD",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 30,
     "privateContributions": 0,
     "publicContributions": 175,
     "createdAt": "2017-07-15T07:47:25Z"
@@ -488362,5 +488362,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-02-02T05:04:05Z"
+  },
+  {
+    "login": "SilverStart",
+    "name": "ahn eun seong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29351462?s=72&v=4",
+    "location": "korea republic of, seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 136,
+    "createdAt": "2017-06-11T09:02:11Z"
+  },
+  {
+    "login": "fysoul17",
+    "name": "Terry K",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7436491?s=72&u=4165db0c732ebae42073ec9222e5ece9467474a3&v=4",
+    "location": "Australia / South Korea",
+    "company": "Earth",
+    "twitterUsername": "0xMcDonAlt",
+    "followers": 46,
+    "privateContributions": 12474,
+    "publicContributions": 1080,
+    "createdAt": "2014-04-29T06:23:35Z"
   }
 ]
