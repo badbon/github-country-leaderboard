@@ -470520,18 +470520,6 @@
     "createdAt": "2014-10-29T14:49:01Z"
   },
   {
-    "login": "ar-arkhipov",
-    "name": "Artem Arkhipov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10073952?s=72&u=3cfde2ef4f720a500f64051a98b22a04b000a313&v=4",
-    "location": "Lviv, Ukraine",
-    "company": "@techmagic-team ",
-    "twitterUsername": "ar_arkhipov",
-    "followers": 13,
-    "privateContributions": 52,
-    "publicContributions": 0,
-    "createdAt": "2014-12-04T11:32:10Z"
-  },
-  {
     "login": "syidev",
     "name": "Yaroslav Savchenko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/9661065?s=72&u=17900edf5855a0631530d6dc6c2c98c9d3bbef9e&v=4",
@@ -507283,7 +507271,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 358,
+    "privateContributions": 362,
     "publicContributions": 5,
     "createdAt": "2013-10-02T10:41:38Z"
   },
