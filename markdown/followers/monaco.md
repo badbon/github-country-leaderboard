@@ -1,8 +1,8 @@
 # Followers - Monaco
 
-Generated: 2026-08-29T07:41:19.761Z
+Generated: 2026-08-29T08:12:02.149Z
 
-Users: 141
+Users: 142
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

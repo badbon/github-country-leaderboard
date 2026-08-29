@@ -1,6 +1,6 @@
 # Public Contributions - North Korea
 
-Generated: 2026-08-29T07:41:19.761Z
+Generated: 2026-08-29T08:12:02.149Z
 
 Users: 194
 
@@ -17,12 +17,12 @@ Users: 194
 | 9 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 268 |
 | 10 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 228 |
 | 11 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | Kim Il Sung University |  | North Korea | 221 |
-| 12 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 195 |
-| 13 | [july0785](https://github.com/july0785) | JULY |  |  | Pyongyang, DPR of Korea | 185 |
-| 14 | [aMiscreant](https://github.com/aMiscreant) | Miscreant |  |  | North Korea | 176 |
-| 15 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 171 |
-| 16 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 165 |
-| 17 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 165 |
-| 18 | [vega-holdings](https://github.com/vega-holdings) | Vega | CGIC | vega_holdings | Pyongyang | 140 |
-| 19 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 99 |
-| 20 | [leyisherebabe](https://github.com/leyisherebabe) | ley |  |  | North Korea | 90 |
+| 12 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 196 |
+| 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 195 |
+| 14 | [july0785](https://github.com/july0785) | JULY |  |  | Pyongyang, DPR of Korea | 185 |
+| 15 | [aMiscreant](https://github.com/aMiscreant) | Miscreant |  |  | North Korea | 176 |
+| 16 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 171 |
+| 17 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 165 |
+| 18 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 165 |
+| 19 | [vega-holdings](https://github.com/vega-holdings) | Vega | CGIC | vega_holdings | Pyongyang | 140 |
+| 20 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 99 |

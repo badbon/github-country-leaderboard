@@ -1,6 +1,6 @@
 # Followers - Luxembourg
 
-Generated: 2026-08-29T07:41:19.761Z
+Generated: 2026-08-29T08:12:02.149Z
 
 Users: 2217
 
@@ -16,7 +16,7 @@ Users: 2217
 | 8 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Fmind.dev | fmind_dev | Luxembourg | 303 |
 | 9 | [morteza](https://github.com/morteza) | Morteza Ansarinia |  |  | Luxembourg | 302 |
 | 10 | [andreafabrizi](https://github.com/andreafabrizi) | Andrea Fabrizi |  |  | Luxembourg | 289 |
-| 11 | [joewdavies](https://github.com/joewdavies) | Joe Davies |  | joewdavies | Cardiff / Madrid / Luxembourg | 280 |
+| 11 | [joewdavies](https://github.com/joewdavies) | Joe Davies |  | joewdavies | Cardiff / Madrid / Luxembourg | 278 |
 | 12 | [SvenGDK](https://github.com/SvenGDK) | SvenGDK |  | SvenGDK | Luxembourg | 277 |
 | 13 | [kimwalisch](https://github.com/kimwalisch) | Kim Walisch |  |  | Luxembourg | 275 |
 | 14 | [Moado](https://github.com/Moado) | Moad HANI  | University of Luxembourg  |  | Luxembourg | 268 |

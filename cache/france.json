@@ -552511,7 +552511,7 @@
     "company": "@NextSourcia ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1884,
+    "privateContributions": 1899,
     "publicContributions": 7,
     "createdAt": "2019-06-26T17:21:18Z"
   },
@@ -600406,5 +600406,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-13T12:43:27Z"
+  },
+  {
+    "login": "AeismAgency",
+    "name": "Pana Roux Zvakaramba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52078699?s=72&v=4",
+    "location": "London & Paris",
+    "company": "Aeism Agency",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-06-21T15:00:57Z"
+  },
+  {
+    "login": "anderoma",
+    "name": "DEROMA Antoine",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55741041?s=72&v=4",
+    "location": "Nice",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-09-24T09:51:41Z"
+  },
+  {
+    "login": "nestand",
+    "name": "Andrey NESTEROV",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52460338?s=72&u=d89656ff58fd527ba1131f6beccc9bfb0f50c216&v=4",
+    "location": "Nice&Paris",
+    "company": "Reklamof",
+    "twitterUsername": "AndreyN64877904",
+    "followers": 1,
+    "privateContributions": 840,
+    "publicContributions": 5,
+    "createdAt": "2019-07-02T14:49:28Z"
+  },
+  {
+    "login": "Innory-code",
+    "name": "Innory-code",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47870083?s=72&u=97c8b1309f4a6ff94cf0d95f861a747ed2ad8dd9&v=4",
+    "location": "Nice",
+    "company": "Innory",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2019-02-21T21:06:13Z"
+  },
+  {
+    "login": "apascali-1A",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50703535?s=72&v=4",
+    "location": "Nice",
+    "company": "Amadeus",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-05-16T11:55:32Z"
+  },
+  {
+    "login": "LeControlleur",
+    "name": "Samuel Bini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48106168?s=72&u=3e5df53b33ab47afebbe4f82abfa7b68f5b4f1a7&v=4",
+    "location": "Nice",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-02-28T21:22:57Z"
+  },
+  {
+    "login": "yassine-berriri",
+    "name": "Yassine Berriri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54635314?s=72&u=7ea1236ce971ec614a4e2541368f1bf9d3583bd0&v=4",
+    "location": "Nice",
+    "company": "SAP",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2019-08-28T15:12:34Z"
+  },
+  {
+    "login": "abdelkader1996",
+    "name": "KHERROUBI Abdelkader",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49480503?s=72&v=4",
+    "location": "Nice",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2019-04-10T10:48:11Z"
   }
 ]
