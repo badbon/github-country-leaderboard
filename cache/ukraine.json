@@ -488611,7 +488611,7 @@
     "company": "CTO at GoToday LLC (@gotoday-eu)",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 528,
+    "privateContributions": 529,
     "publicContributions": 0,
     "createdAt": "2013-02-24T14:23:22Z"
   },
@@ -514846,5 +514846,101 @@
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2013-01-03T11:56:40Z"
+  },
+  {
+    "login": "odzhu",
+    "name": "Oleksii Dzhulai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5955550?s=72&u=1b884987f27b17a7799f317082e5903a04c7a301&v=4",
+    "location": "Kyiv",
+    "company": "EPAM Systems",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 196,
+    "publicContributions": 1,
+    "createdAt": "2013-11-16T14:29:17Z"
+  },
+  {
+    "login": "Krokop",
+    "name": "Oleg Serbokryl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3988353?s=72&u=2f149db9f7635eb03c56ce5b5046b3fe7b65c372&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "oserbokryl",
+    "followers": 9,
+    "privateContributions": 605,
+    "publicContributions": 0,
+    "createdAt": "2013-03-27T19:24:15Z"
+  },
+  {
+    "login": "PadreValetudo",
+    "name": "Bohdan Ostapchuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3493389?s=72&u=78478d3698cc1f5f8bb81416293642a33ff9dd8b&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-02-06T16:28:13Z"
+  },
+  {
+    "login": "valentine94",
+    "name": "Valentine Matsveiko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5767874?s=72&u=be399f19602118f303bb09154201e79c6a87c3f0&v=4",
+    "location": "Kyiv",
+    "company": "Freelance",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-10-24T18:14:59Z"
+  },
+  {
+    "login": "VladChernetsky",
+    "name": "Vlad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4611425?s=72&u=b3c83ae6ba51fda292e9d2a3f926f7124d24289b&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-04T13:25:08Z"
+  },
+  {
+    "login": "krizhanovskii",
+    "name": "Kostya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6224053?s=72&u=21d5de1ee0ee16d1f31f516adb74e7514c4aba98&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2013-12-19T15:48:29Z"
+  },
+  {
+    "login": "mak73kur",
+    "name": "Maksym Trykur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4677016?s=72&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-06-12T07:00:49Z"
+  },
+  {
+    "login": "DimaYakovenko",
+    "name": "Dmytro Yakovenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3972745?s=72&u=c65ba631cafaa881a2bf626f1aeb17a46c417119&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-03-26T08:38:22Z"
   }
 ]
