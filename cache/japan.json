@@ -405079,7 +405079,7 @@
     "company": "JuliaLang user",
     "twitterUsername": "",
     "followers": 322,
-    "privateContributions": 44477,
+    "privateContributions": 44485,
     "publicContributions": 3467,
     "createdAt": "2016-01-18T14:18:50Z"
   },
@@ -405502,5 +405502,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-01-30T07:49:23Z"
+  },
+  {
+    "login": "raulet-dev",
+    "name": "Raul Paya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23617539?s=72&u=b87982932fc144e44978347a36e18b23030c0810&v=4",
+    "location": "Spain / Japan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2016-11-20T17:26:48Z"
   }
 ]
