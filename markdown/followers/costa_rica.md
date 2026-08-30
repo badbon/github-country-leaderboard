@@ -1,8 +1,8 @@
 # Followers - Costa Rica
 
-Generated: 2026-08-30T18:05:41.260Z
+Generated: 2026-08-30T18:45:53.771Z
 
-Users: 5630
+Users: 5631
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 5630
 | 11 | [edsiper](https://github.com/edsiper) | Eduardo Silva Pereira | Chronosphere | edsiper | Costa Rica | 278 |
 | 12 | [come-maiz](https://github.com/come-maiz) | Leonardo Arias Fonseca |  |  | Costa Rica | 263 |
 | 13 | [fmontes](https://github.com/fmontes) | Freddy Montes | @dotCMS  | fmontes | Costa Rica | 260 |
-| 14 | [dryajov](https://github.com/dryajov) | Dmitriy Ryajov |  | dryajov | San Jose, Costa Rica | 250 |
-| 15 | [brolag](https://github.com/brolag) | Alfredo Bonilla |  | brolag | Costa Rica | 203 |
-| 16 | [davedash](https://github.com/davedash) | Dave Dash | DadOps, LLC | davedash | San José, CA | 203 |
-| 17 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Microsoft | stvansolano | Costa Rica | 189 |
-| 18 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel |  |  | Costa Rica | 165 |
-| 19 | [maaku](https://github.com/maaku) | Mark Friedenbach |  |  | San José, CA | 161 |
-| 20 | [fabianabarca](https://github.com/fabianabarca) | Fabián Abarca | Universidad de Costa Rica | fabianabarca | San José, Costa Rica | 159 |
+| 14 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | MIT |  | Cambridge, MA / San Jose, CA | 257 |
+| 15 | [dryajov](https://github.com/dryajov) | Dmitriy Ryajov |  | dryajov | San Jose, Costa Rica | 250 |
+| 16 | [brolag](https://github.com/brolag) | Alfredo Bonilla |  | brolag | Costa Rica | 203 |
+| 17 | [davedash](https://github.com/davedash) | Dave Dash | DadOps, LLC | davedash | San José, CA | 203 |
+| 18 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Microsoft | stvansolano | Costa Rica | 189 |
+| 19 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel |  |  | Costa Rica | 165 |
+| 20 | [maaku](https://github.com/maaku) | Mark Friedenbach |  |  | San José, CA | 161 |

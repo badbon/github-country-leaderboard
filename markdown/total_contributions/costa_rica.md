@@ -1,8 +1,8 @@
 # Total Contributions - Costa Rica
 
-Generated: 2026-08-30T18:05:41.260Z
+Generated: 2026-08-30T18:45:53.771Z
 
-Users: 5630
+Users: 5631
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 5630
 | 12 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Edenia | xaviercr | Costa Rica | 6797 |
 | 13 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | @wootit | teygarciam | San José, Costa Rica | 6736 |
 | 14 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz |  |  | Costa Rica | 6187 |
-| 15 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Profesional Costa Rica |  | Costa Rica | 5743 |
-| 16 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | Universidad de Costa Rica |  | San Jose, Costa Rica | 5589 |
-| 17 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz |  |  | San Jose, Costa Rica | 5379 |
-| 18 | [xmorera](https://github.com/xmorera) | Xavier Morera | Lupo.ai \| Big Data Inc. |  | Costa Rica | 5248 |
-| 19 | [Fuabioo](https://github.com/Fuabioo) | Fabio Mora |  |  | Costa Rica 🇨🇷 | 5077 |
-| 20 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano |  | 0xBeja | Costa Rica | 5043 |
+| 15 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | MIT |  | Cambridge, MA / San Jose, CA | 6091 |
+| 16 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Profesional Costa Rica |  | Costa Rica | 5743 |
+| 17 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | Universidad de Costa Rica |  | San Jose, Costa Rica | 5589 |
+| 18 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz |  |  | San Jose, Costa Rica | 5379 |
+| 19 | [xmorera](https://github.com/xmorera) | Xavier Morera | Lupo.ai \| Big Data Inc. |  | Costa Rica | 5248 |
+| 20 | [Fuabioo](https://github.com/Fuabioo) | Fabio Mora |  |  | Costa Rica 🇨🇷 | 5077 |
