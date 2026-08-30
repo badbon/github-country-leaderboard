@@ -548026,5 +548026,53 @@
     "privateContributions": 1490,
     "publicContributions": 278,
     "createdAt": "2013-03-24T20:08:30Z"
+  },
+  {
+    "login": "bernardchoi",
+    "name": "Daehyeon Choi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20392395?s=72&u=3f83c4d96eb30005a2fb0fb3a3c0913da5b876fd&v=4",
+    "location": "Seoul, South Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 294,
+    "createdAt": "2016-07-11T05:55:33Z"
+  },
+  {
+    "login": "baeheonkim",
+    "name": "Baeheon Kim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22723010?s=72&u=0e8693e6aab4a143bf5e8c0ada55a619cfec4b6f&v=4",
+    "location": "Seoul, South Korea",
+    "company": "@MaverickGames",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-10-09T07:26:01Z"
+  },
+  {
+    "login": "Compater",
+    "name": "Marcel Hess",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22943210?s=72&u=a829988c2c10d77d993051a0233279fec53e17ff&v=4",
+    "location": "Daejeon, South Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2,
+    "publicContributions": 0,
+    "createdAt": "2016-10-19T18:38:26Z"
+  },
+  {
+    "login": "steve-yoonwon-lee",
+    "name": "Steve Yoonwon Lee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22382287?s=72&u=a756230dbf1ef8f5e7e32c9493f859f3ff9e1ef3&v=4",
+    "location": "Seoul, South Korea",
+    "company": "Smilegate",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2016-09-22T23:19:58Z"
   }
 ]
