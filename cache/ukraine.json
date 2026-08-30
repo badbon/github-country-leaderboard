@@ -250848,18 +250848,6 @@
     "createdAt": "2018-03-13T10:50:07Z"
   },
   {
-    "login": "algolj",
-    "name": "Oleksandr Holovchenko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36418446?s=72&u=2bb91f62910d02e6f59e026542083e44cb03110b&v=4",
-    "location": "Ukraine",
-    "company": "@MacPaw",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 2346,
-    "publicContributions": 467,
-    "createdAt": "2018-02-12T17:50:35Z"
-  },
-  {
     "login": "Maximuson",
     "name": "Maximuson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/36667426?s=72&u=a4b794658cbb26fbecff679f20354e367a19b0c6&v=4",
@@ -507259,7 +507247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 368,
+    "privateContributions": 373,
     "publicContributions": 5,
     "createdAt": "2013-10-02T10:41:38Z"
   },
