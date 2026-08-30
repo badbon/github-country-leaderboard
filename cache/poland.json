@@ -582118,5 +582118,41 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2014-03-24T09:58:27Z"
+  },
+  {
+    "login": "kacper-szewczyk",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7480291?s=72&u=15f27639a7378ef557c514c3549097ac4ee6c5e7&v=4",
+    "location": "Wrocław",
+    "company": "RST",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-04T13:06:00Z"
+  },
+  {
+    "login": "lkischler",
+    "name": "lkischler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7863450?s=72&u=74576ff3539f34c6dc65bbac103dc0fe662e10bb&v=4",
+    "location": "Wrocław",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-06-11T19:36:25Z"
+  },
+  {
+    "login": "waldemarzubik",
+    "name": "Waldemar Zubik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8415571?s=72&u=1fed01b7ad88a56add0031648e75dee5ec7d7da6&v=4",
+    "location": "Wrocław, PL",
+    "company": "EPAM Systems",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-08-11T10:26:54Z"
   }
 ]
