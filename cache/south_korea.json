@@ -572023,7 +572023,7 @@
     "company": "@scatterlab",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 3162,
+    "privateContributions": 3163,
     "publicContributions": 2,
     "createdAt": "2015-09-16T08:40:21Z"
   },
@@ -575290,5 +575290,41 @@
     "privateContributions": 0,
     "publicContributions": 114,
     "createdAt": "2015-02-10T23:18:28Z"
+  },
+  {
+    "login": "CodeMakers-KR",
+    "name": "Code Makers",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13085960?s=72&u=65c0ef64d929b4e6091f1824fdb73abd4fe9061c&v=4",
+    "location": "Incheon, Republic of Korea",
+    "company": "Code Makers",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 97,
+    "createdAt": "2015-06-28T11:12:22Z"
+  },
+  {
+    "login": "lee-su-chan",
+    "name": "Lee SuChan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13383741?s=72&u=0bf05e784efbb4bed171e0091d42eac8e2a32609&v=4",
+    "location": "Republic of Korea",
+    "company": "@PRNDcompany",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-07-17T16:23:28Z"
+  },
+  {
+    "login": "cocoslime",
+    "name": "Dongmin Kim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13598837?s=72&u=2474f2b0ee6c935daa1ab9007bf8d08016b3fe0b&v=4",
+    "location": "Seoul, Republic of Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 32,
+    "publicContributions": 4,
+    "createdAt": "2015-08-01T09:00:20Z"
   }
 ]
