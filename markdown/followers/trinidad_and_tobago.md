@@ -1,6 +1,6 @@
 # Followers - Trinidad and Tobago
 
-Generated: 2026-09-01T19:08:48.558Z
+Generated: 2026-09-01T21:55:12.017Z
 
 Users: 257
 
@@ -19,8 +19,8 @@ Users: 257
 | 11 | [Snickdx](https://github.com/Snickdx) | Nicholas Mendez | @uwidcit @gdgpos | snickdx | Trinidad and Tobago | 51 |
 | 12 | [Ispirett](https://github.com/Ispirett) | Ispirett |  2020-stack Developer |  | Trinidad and Tobago | 46 |
 | 13 | [kmn5409](https://github.com/kmn5409) | Keanu Nichols |  | kmn5409 | Trinidad and Tobago | 43 |
-| 14 | [nakoyawilson](https://github.com/nakoyawilson) | Nakoya Wilson |  | nakoyawilson | Trinidad and Tobago | 33 |
-| 15 | [RicoAntonioFelix](https://github.com/RicoAntonioFelix) | Rico Antonio Felix | @hioa-cs  @includeos @Bareflank  |  | Trinidad and Tobago, Port-of-Spain | 33 |
+| 14 | [RicoAntonioFelix](https://github.com/RicoAntonioFelix) | Rico Antonio Felix | @hioa-cs  @includeos @Bareflank  |  | Trinidad and Tobago, Port-of-Spain | 34 |
+| 15 | [nakoyawilson](https://github.com/nakoyawilson) | Nakoya Wilson |  | nakoyawilson | Trinidad and Tobago | 33 |
 | 16 | [nick-singh](https://github.com/nick-singh) | Nicholas Chamansingh | University of the West Indies |  | Trinidad and Tobago | 31 |
 | 17 | [azhareus](https://github.com/azhareus) | Azhar Ali | @Facebook | Azhareus_ | Trinidad and Tobago | 30 |
 | 18 | [SavageFRVR](https://github.com/SavageFRVR) | Keron Maharaj |  |  | Trinidad and Tobago | 30 |
