@@ -56,8 +56,8 @@ jobs:
             echo "Collecting chunk ${chunk_index} with ${current} requests remaining budget ${remaining}"
             npm run collect -- --max-queries "$current"
 
-            if [ -n "$(git status --porcelain cache data/state.json markdown)" ]; then
-              git add cache data/state.json markdown
+            if [ -n "$(git status --porcelain README.md cache data/state.json markdown)" ]; then
+              git add README.md cache data/state.json markdown
               git commit -m "Update GitHub country leaderboards"
               git pull --rebase
               git push

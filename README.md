@@ -1,19 +1,29 @@
-# Country Leaderboard - Top GitHub Users By Country
-Per user contribution leaderboard that actually works. Support it by starring the repo! ⭐
+# GitHub Country Leaderboard
 
-I found two other repos that do this, however one was completely broken and out of commission, another one was requiring users to have 600 followers on their GitHub profile to be considered for ranking, effectively dropping out most GitHub users and breaking whole purpose based on some arbitrary requirement.
-Then I came to a revelation. Wait. This is GitHub. I can just create my own repo that does the same thing but correctly 😭
+Top GitHub users by country, ranked from public GitHub profile and contribution data.
 
+## Browse
 
-Also, this repo features a cleaner geography handling and avoids many common pitfalls. We can achieve this by reading both country and city in users "location" field. Then, instead of randomly assigning to corresponding country, we have to prioritize and distinguish country vs city. Countries take priority. Here are some of the complex examples and how they are resolved:
+- [All countries](markdown/README.md)
+- [Public contributions](markdown/public_contributions/README.md)
+- [Total contributions](markdown/total_contributions/README.md)
+- [Followers](markdown/followers/README.md)
+- [Index status](markdown/status.md)
 
-If your location says you are from "Atlanta, Georgia"
-That means you are from United States. Real data shows this is a common geographical confusion that can be easily avoided.
+## Daily Countries
 
-If your location says you are from "Paris, Georgia"
-That means you are from Georgia. Because Georgia as a country takes priority than just the city name outside above exception.
+| Country | Indexed Users | Public | Total | Followers |
+|---|---:|---|---|---|
+| [Saint Martin](markdown/countries/saint_martin.md) | 8 | [Public](markdown/public_contributions/saint_martin.md) | [Total](markdown/total_contributions/saint_martin.md) | [Followers](markdown/followers/saint_martin.md) |
+| [Guam](markdown/countries/guam.md) | 49 | [Public](markdown/public_contributions/guam.md) | [Total](markdown/total_contributions/guam.md) | [Followers](markdown/followers/guam.md) |
+| [Israel](markdown/countries/israel.md) | 12,441 | [Public](markdown/public_contributions/israel.md) | [Total](markdown/total_contributions/israel.md) | [Followers](markdown/followers/israel.md) |
+| [Slovakia](markdown/countries/slovakia.md) | 4,706 | [Public](markdown/public_contributions/slovakia.md) | [Total](markdown/total_contributions/slovakia.md) | [Followers](markdown/followers/slovakia.md) |
+| [Gabon](markdown/countries/gabon.md) | 315 | [Public](markdown/public_contributions/gabon.md) | [Total](markdown/total_contributions/gabon.md) | [Followers](markdown/followers/gabon.md) |
 
-If your location says you are from "Georgia"
-That means you are from country of Georgia, as country names are always interpreted as country names.
+## How It Works
 
-Non-major cities and typos are ignored.
+The collector searches GitHub users by self-reported profile location, keeps users with at least one follower, computes rolling contribution counts, and publishes leaderboards only after a country baseline is complete.
+
+Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
+
+Generated: 2026-09-02T10:16:34.199Z

@@ -55,9 +55,15 @@ test("generates markdown only for baseline-complete countries", async () => {
 
     await generateMarkdown({ countries, state, generatedAt: "2026-08-13T00:00:00.000Z" });
 
+    assert.match(await readFile("README.md", "utf8"), /Daily Countries/);
+    assert.match(await readFile("markdown/README.md", "utf8"), /\[Georgia\]\(countries\/georgia\.md\)/);
+    assert.match(await readFile("markdown/status.md", "utf8"), /Countries published/);
+    assert.match(await readFile("markdown/public_contributions/README.md", "utf8"), /\[View\]\(\.\/georgia\.md\)/);
+    assert.match(await readFile("markdown/countries/georgia.md", "utf8"), /## Total Contributions/);
     assert.match(await readFile("markdown/public_contributions/georgia.md", "utf8"), /nino/);
     assert.match(await readFile("markdown/public_contributions/italy.md", "utf8"), /giulia/);
     await assert.rejects(() => access("markdown/public_contributions/france.md"), { code: "ENOENT" });
+    await assert.rejects(() => access("markdown/countries/france.md"), { code: "ENOENT" });
   } finally {
     process.chdir(originalCwd);
     await rm(tempDir, { recursive: true, force: true });

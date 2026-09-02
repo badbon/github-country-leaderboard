@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { renderLeaderboard } from "../src/lib/render.js";
+import { renderLeaderboard, renderReadme } from "../src/lib/render.js";
 
 test("renders reference-style markdown table", () => {
   const markdown = renderLeaderboard({
@@ -46,3 +46,23 @@ test("renders at most 20 leaderboard rows", () => {
   assert.equal(markdown.split("\n").filter((line) => /^\| \d+ \|/.test(line)).length, 20);
   assert.doesNotMatch(markdown, /^\| 21 \|/m);
 });
+
+test("renders five deterministic daily countries", () => {
+  const countries = Array.from({ length: 10 }, (_, index) => ({
+    slug: `country_${index}`,
+    name: `Country ${index}`,
+    userCount: index
+  }));
+
+  const first = renderReadme({ countries, generatedAt: "2026-09-02T10:00:00.000Z" });
+  const second = renderReadme({ countries, generatedAt: "2026-09-02T23:00:00.000Z" });
+  const nextDay = renderReadme({ countries, generatedAt: "2026-09-03T00:00:00.000Z" });
+
+  assert.equal(countryRows(first).length, 5);
+  assert.deepEqual(countryRows(first), countryRows(second));
+  assert.notDeepEqual(countryRows(first), countryRows(nextDay));
+});
+
+function countryRows(markdown) {
+  return markdown.split("\n").filter((line) => line.startsWith("| [Country "));
+}
