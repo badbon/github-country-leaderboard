@@ -10,7 +10,7 @@ Indexed users: 1,788
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 4,160 |
 | 2 | [junminahn](https://github.com/junminahn) | Junmin Ahn | Victoria | 4,113 |
@@ -35,7 +35,7 @@ Indexed users: 1,788
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ericmacdougall](https://github.com/ericmacdougall) | Eric MacDougall | Victoria, BC Canada | 17,947 |
 | 2 | [jensenbox](https://github.com/jensenbox) | Christian Jensen | Victoria, BC | 9,357 |
@@ -60,7 +60,7 @@ Indexed users: 1,788
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [isovector](https://github.com/isovector) | Sandy Maguire | Victoria, BC | 1,312 |
 | 2 | [dcaoyuan](https://github.com/dcaoyuan) | Caoyuan Deng | Victoria, B.C. Canada | 928 |

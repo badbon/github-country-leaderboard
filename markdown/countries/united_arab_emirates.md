@@ -10,7 +10,7 @@ Indexed users: 4,239
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [HavenDV](https://github.com/HavenDV) | Konstantin S. | Dubai, United Arab Emirates | 26,894 |
 | 2 | [YASSERRMD](https://github.com/YASSERRMD) | Mohamed Yasser | Sharjah, United Arab Emirates | 22,047 |
@@ -35,7 +35,7 @@ Indexed users: 4,239
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [HavenDV](https://github.com/HavenDV) | Konstantin S. | Dubai, United Arab Emirates | 36,879 |
 | 2 | [YASSERRMD](https://github.com/YASSERRMD) | Mohamed Yasser | Sharjah, United Arab Emirates | 22,047 |
@@ -60,7 +60,7 @@ Indexed users: 4,239
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [1cucer](https://github.com/1cucer) | Cucer | United Arab Emirates | 1,857 |
 | 2 | [batermj](https://github.com/batermj) | Bater.Makhabel | Abu Dhabi, UAE | 1,789 |

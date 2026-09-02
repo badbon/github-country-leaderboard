@@ -10,7 +10,7 @@ Indexed users: 33,950
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [3bsalam-1](https://github.com/3bsalam-1) | Ahmed Mohamed | Ismailia, Egypt | 54,701 |
 | 2 | [Kotiba](https://github.com/Kotiba) | Kotiba Marg | Cairo | 7,076 |
@@ -35,7 +35,7 @@ Indexed users: 33,950
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Sheekovic](https://github.com/Sheekovic) | Sheekovic | Egypt | 66,477 |
 | 2 | [3bsalam-1](https://github.com/3bsalam-1) | Ahmed Mohamed | Ismailia, Egypt | 54,736 |
@@ -60,7 +60,7 @@ Indexed users: 33,950
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Maher-Elmair](https://github.com/Maher-Elmair) | Maher | Egypt | 5,289 |
 | 2 | [Pythondeveloper6](https://github.com/Pythondeveloper6) | Mahmoud Ahmed | Egypt | 3,717 |

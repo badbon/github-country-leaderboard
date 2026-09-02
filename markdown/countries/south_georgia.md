@@ -10,7 +10,7 @@ Indexed users: 6
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [exp111](https://github.com/exp111) | Exp | South Georgia and the South Sandwich Islands | 637 |
 | 2 | [nullwing](https://github.com/nullwing) | Nullwing | South Georgia  | 5 |
@@ -21,7 +21,7 @@ Indexed users: 6
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [exp111](https://github.com/exp111) | Exp | South Georgia and the South Sandwich Islands | 674 |
 | 2 | [kisaragi1](https://github.com/kisaragi1) |  | South Georgia And The South Sandwich Islands | 26 |
@@ -32,7 +32,7 @@ Indexed users: 6
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [exp111](https://github.com/exp111) | Exp | South Georgia and the South Sandwich Islands | 22 |
 | 2 | [waters33637](https://github.com/waters33637) | Mike Waters | South Georgia | 6 |

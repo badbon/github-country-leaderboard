@@ -10,7 +10,7 @@ Indexed users: 11
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Moroni | 390 |
 | 2 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 77 |
@@ -26,7 +26,7 @@ Indexed users: 11
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Moroni | 21,088 |
 | 2 | [clarkdowding](https://github.com/clarkdowding) | Clark Dowding | Moroni, Utah | 1,740 |
@@ -42,7 +42,7 @@ Indexed users: 11
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [clarkdowding](https://github.com/clarkdowding) | Clark Dowding | Moroni, Utah | 9 |
 | 2 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Moroni | 8 |

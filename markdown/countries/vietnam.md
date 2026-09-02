@@ -10,7 +10,7 @@ Indexed users: 25,869
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [hoangsvit](https://github.com/hoangsvit) | David Nguyen | Ho Chi Minh, Vietnam | 136,865 |
 | 2 | [frankrichardhall](https://github.com/frankrichardhall) | Frank Richard Hall | Hanoi, Vietnam | 100,157 |
@@ -35,7 +35,7 @@ Indexed users: 25,869
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [hoangsvit](https://github.com/hoangsvit) | David Nguyen | Ho Chi Minh, Vietnam | 139,886 |
 | 2 | [frankrichardhall](https://github.com/frankrichardhall) | Frank Richard Hall | Hanoi, Vietnam | 100,157 |
@@ -60,7 +60,7 @@ Indexed users: 25,869
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [nholuongut](https://github.com/nholuongut) | Nho Luong | From Ho Chi Minh City, Viet Nam | 7,699 |
 | 2 | [trinhminhtriet](https://github.com/trinhminhtriet) | Triet Trinh | Vietnam | 7,411 |

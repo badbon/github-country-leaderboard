@@ -10,7 +10,7 @@ Indexed users: 194
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [KareulSuyen](https://github.com/KareulSuyen) | Kal | North Korea | 1,239 |
 | 2 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 943 |
@@ -35,7 +35,7 @@ Indexed users: 194
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 13,537 |
 | 2 | [KareulSuyen](https://github.com/KareulSuyen) | Kal | North Korea | 8,209 |
@@ -60,7 +60,7 @@ Indexed users: 194
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Pyongyang | 135 |
 | 2 | [jdzmfg](https://github.com/jdzmfg) | ! ★ | pyongyang | 69 |

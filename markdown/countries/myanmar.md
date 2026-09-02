@@ -10,7 +10,7 @@ Indexed users: 2,087
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | 4 0 4 \ 2.0 [🇲🇲] | Myanmar | 9,661 |
 | 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,113 |
@@ -35,7 +35,7 @@ Indexed users: 2,087
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | 4 0 4 \ 2.0 [🇲🇲] | Myanmar | 9,661 |
 | 2 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | Yangon, Myanmar | 8,369 |
@@ -60,7 +60,7 @@ Indexed users: 2,087
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [eimg](https://github.com/eimg) | Ei Maung | Yangon, Myanmar | 4,261 |
 | 2 | [minlwin](https://github.com/minlwin) | Min Lwin | Yangon, Myanmar | 1,197 |

@@ -10,7 +10,7 @@ Indexed users: 20
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [manoxum](https://github.com/manoxum) | Daniel Costa | São Tomé e Pricipe | 499 |
 | 2 | [Andre-Dalva](https://github.com/Andre-Dalva) |  | São Tomé e Principe  | 65 |
@@ -35,7 +35,7 @@ Indexed users: 20
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [manoxum](https://github.com/manoxum) | Daniel Costa | São Tomé e Pricipe | 499 |
 | 2 | [joaopontifice](https://github.com/joaopontifice) | John | Água Grande, São Tomé e Príncipe | 129 |
@@ -60,7 +60,7 @@ Indexed users: 20
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [benildebonfim](https://github.com/benildebonfim) | Benilde | São Tomé e Príncipe | 51 |
 | 2 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz | São Gabriel, São Tomé e Príncipe | 27 |

@@ -10,7 +10,7 @@ Indexed users: 724
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,077 |
 | 2 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 2,836 |
@@ -35,7 +35,7 @@ Indexed users: 724
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 9,006 |
 | 2 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 7,339 |
@@ -60,7 +60,7 @@ Indexed users: 724
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 714 |
 | 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Mauritius | 625 |

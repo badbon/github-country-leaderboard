@@ -10,7 +10,7 @@ Indexed users: 4,032
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Mutasem-mk4](https://github.com/Mutasem-mk4) | Mutasem Kharma | Jordan | 18,064 |
 | 2 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 9,334 |
@@ -35,7 +35,7 @@ Indexed users: 4,032
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | Amman, Jordan | 18,854 |
 | 2 | [Mutasem-mk4](https://github.com/Mutasem-mk4) | Mutasem Kharma | Jordan | 18,064 |
@@ -60,7 +60,7 @@ Indexed users: 4,032
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [waelodeh98](https://github.com/waelodeh98) | Wael Samer \| Software Engineer | Amman , Jordan | 1,135 |
 | 2 | [enghamzasalem](https://github.com/enghamzasalem) | Hamza Salem | Amman Jordan / Innopolis Russia  | 924 |

@@ -10,7 +10,7 @@ Indexed users: 13
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [xubeiyan](https://github.com/xubeiyan) | xubeiyan | Chenhai, Tuvalu(图瓦卢，辰海市) | 88 |
 | 2 | [sygau](https://github.com/sygau) | jtv | Tuvalu | 21 |
@@ -28,7 +28,7 @@ Indexed users: 13
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [enaros](https://github.com/enaros) | Emiliano | Tuvalu | 849 |
 | 2 | [xubeiyan](https://github.com/xubeiyan) | xubeiyan | Chenhai, Tuvalu(图瓦卢，辰海市) | 98 |
@@ -46,7 +46,7 @@ Indexed users: 13
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [enaros](https://github.com/enaros) | Emiliano | Tuvalu | 20 |
 | 2 | [xubeiyan](https://github.com/xubeiyan) | xubeiyan | Chenhai, Tuvalu(图瓦卢，辰海市) | 20 |

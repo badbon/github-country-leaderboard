@@ -10,7 +10,7 @@ Indexed users: 918
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 6,507 |
 | 2 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,185 |
@@ -35,7 +35,7 @@ Indexed users: 918
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | Bermuda | 11,798 |
 | 2 | [xaphod](https://github.com/xaphod) | Tim Carr | Hamilton ON | 9,477 |
@@ -60,7 +60,7 @@ Indexed users: 918
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 35,815 |
 | 2 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 921 |

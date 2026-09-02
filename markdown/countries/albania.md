@@ -10,7 +10,7 @@ Indexed users: 1,198
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,004 |
 | 2 | [selimaj-dev](https://github.com/selimaj-dev) | Klesti Selimaj | Albania | 3,727 |
@@ -35,7 +35,7 @@ Indexed users: 1,198
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 10,302 |
 | 2 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,809 |
@@ -60,7 +60,7 @@ Indexed users: 1,198
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,746 |
 | 2 | [jbaci](https://github.com/jbaci) | J.Baci | Tirana, Albania | 1,890 |

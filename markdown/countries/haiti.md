@@ -10,7 +10,7 @@ Indexed users: 344
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [lanovatechnologie-a11y](https://github.com/lanovatechnologie-a11y) | Lota | Limonade, Haiti | 669 |
 | 2 | [deldesir](https://github.com/deldesir) | Blondel Mondesir | Haiti | 443 |
@@ -35,7 +35,7 @@ Indexed users: 344
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 8,060 |
 | 2 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Haiti | 4,546 |
@@ -60,7 +60,7 @@ Indexed users: 344
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 264 |
 | 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 85 |

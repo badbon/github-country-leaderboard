@@ -10,7 +10,7 @@ Indexed users: 12
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [TZF-365](https://github.com/TZF-365) | Technologically Zealous Family | Antigua and Barbuda | 18 |
 | 2 | [autumnToT](https://github.com/autumnToT) | Autumn M. Charles | Antigua and Barbuda | 17 |
@@ -27,7 +27,7 @@ Indexed users: 12
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [danausx](https://github.com/danausx) | Denis Sandalini | Antigua and Barbuda | 1,769 |
 | 2 | [MeshaMakes](https://github.com/MeshaMakes) | Mesha | Antigua and Barbuda | 20 |
@@ -44,7 +44,7 @@ Indexed users: 12
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [MeshaMakes](https://github.com/MeshaMakes) | Mesha | Antigua and Barbuda | 20 |
 | 2 | [Dark-St-r](https://github.com/Dark-St-r) | Shemar Aundrey Abel | Antigua and Barbuda | 14 |

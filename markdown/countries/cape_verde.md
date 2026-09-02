@@ -10,7 +10,7 @@ Indexed users: 567
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,235 |
 | 2 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido | praia grande-sp | 564 |
@@ -35,7 +35,7 @@ Indexed users: 567
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kowts](https://github.com/Kowts) | Joselito Lima Coutinho | Praia, Cabo Verde | 2,908 |
 | 2 | [svcrashh](https://github.com/svcrashh) | crashh | Praia Grande | 2,729 |
@@ -60,7 +60,7 @@ Indexed users: 567
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo | Cape Verde | 464 |
 | 2 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 448 |

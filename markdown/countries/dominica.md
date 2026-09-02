@@ -10,7 +10,7 @@ Indexed users: 18
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 159 |
 | 2 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 92 |
@@ -33,7 +33,7 @@ Indexed users: 18
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 444 |
 | 2 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 239 |
@@ -56,7 +56,7 @@ Indexed users: 18
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 7 |
 | 2 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 6 |

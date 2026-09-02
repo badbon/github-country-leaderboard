@@ -10,7 +10,7 @@ Indexed users: 137
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,738 |
 | 2 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 3,342 |
@@ -35,7 +35,7 @@ Indexed users: 137
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,738 |
 | 2 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 3,704 |
@@ -60,7 +60,7 @@ Indexed users: 137
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 370 |
 | 2 | [dutkulang](https://github.com/dutkulang) | Dut Kulang | Juba, South Sudan | 133 |

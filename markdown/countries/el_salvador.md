@@ -10,7 +10,7 @@ Indexed users: 2,396
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | San Salvador, El Salvador | 6,014 |
 | 2 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,137 |
@@ -35,7 +35,7 @@ Indexed users: 2,396
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 11,145 |
 | 2 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | La Libertad, El Salvador | 9,290 |
@@ -60,7 +60,7 @@ Indexed users: 2,396
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [MelvinAguilar](https://github.com/MelvinAguilar) | Melvin Aguilar | El Salvador | 491 |
 | 2 | [Carlos007007](https://github.com/Carlos007007) | Carlos Alfaro | El Salvador | 402 |

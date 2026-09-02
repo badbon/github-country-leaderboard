@@ -10,7 +10,7 @@ Indexed users: 11,801
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [azaharizaman](https://github.com/azaharizaman) | Azahari Zaman | Kuching, Sarawak, Malaysia | 42,567 |
 | 2 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | Putrajaya, Malaysia | 18,778 |
@@ -35,7 +35,7 @@ Indexed users: 11,801
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [azaharizaman](https://github.com/azaharizaman) | Azahari Zaman | Kuching, Sarawak, Malaysia | 42,689 |
 | 2 | [leoloso](https://github.com/leoloso) | Leonardo Losoviz | Kuala Lumpur, Malaysia | 29,690 |
@@ -60,7 +60,7 @@ Indexed users: 11,801
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [huseinzol05](https://github.com/huseinzol05) | HUSEIN ZOLKEPLI | Kedah, Malaysia | 1,897 |
 | 2 | [crynobone](https://github.com/crynobone) | Mior Muhammad Zaki | Malaysia | 1,782 |

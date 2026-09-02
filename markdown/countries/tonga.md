@@ -10,7 +10,7 @@ Indexed users: 10
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Cartus](https://github.com/Cartus) | Zhijiang | Tonga | 153 |
 | 2 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon | Rachelmouth, Tonga | 135 |
@@ -25,7 +25,7 @@ Indexed users: 10
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki | Tonga | 313 |
 | 2 | [Cartus](https://github.com/Cartus) | Zhijiang | Tonga | 153 |
@@ -40,7 +40,7 @@ Indexed users: 10
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Cartus](https://github.com/Cartus) | Zhijiang | Tonga | 127 |
 | 2 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki | Tonga | 10 |

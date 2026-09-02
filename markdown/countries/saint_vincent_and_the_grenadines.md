@@ -10,7 +10,7 @@ Indexed users: 27
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTacoo | Saint Vincent and the Grenadines | 1,157 |
 | 2 | [2Remus](https://github.com/2Remus) | human#23416 | Kingstown, Saint George, Saint Vincent and the Grenadines | 357 |
@@ -35,7 +35,7 @@ Indexed users: 27
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTacoo | Saint Vincent and the Grenadines | 1,157 |
 | 2 | [colin-dbv](https://github.com/colin-dbv) | Colin Vincent | North Kingstown RI | 514 |
@@ -60,7 +60,7 @@ Indexed users: 27
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | South Kingstown, RI | 25 |
 | 2 | [lihadaway](https://github.com/lihadaway) | Leslie | Saint Vincent and the Grenadines | 19 |

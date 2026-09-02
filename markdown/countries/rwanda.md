@@ -10,7 +10,7 @@ Indexed users: 3,536
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [gentil-lenoir](https://github.com/gentil-lenoir) | Gentil M. | Kigali, Rwanda | 34,814 |
 | 2 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 20,208 |
@@ -35,7 +35,7 @@ Indexed users: 3,536
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 59,921 |
 | 2 | [gentil-lenoir](https://github.com/gentil-lenoir) | Gentil M. | Kigali, Rwanda | 34,814 |
@@ -60,7 +60,7 @@ Indexed users: 3,536
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ikuzweelisa](https://github.com/ikuzweelisa) | Ikuzwe | Rwanda | 1,684 |
 | 2 | [NailTechLtd](https://github.com/NailTechLtd) | Nail Tech Ltd | Kigali Rwanda | 1,608 |

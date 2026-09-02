@@ -10,7 +10,7 @@ Indexed users: 116
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,412 |
 | 2 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 1,263 |
@@ -35,7 +35,7 @@ Indexed users: 116
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 3,129 |
 | 2 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,868 |
@@ -60,7 +60,7 @@ Indexed users: 116
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [mrmotchy](https://github.com/mrmotchy) | mr.motchy | Liechtenstein | 335 |
 | 2 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 293 |

@@ -10,7 +10,7 @@ Indexed users: 5
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [tedfelix](https://github.com/tedfelix) | Ted Felix | Adamstown, MD | 361 |
 | 2 | [ghost0x02](https://github.com/ghost0x02) | enesxsec  | pitcairn | 177 |
@@ -20,7 +20,7 @@ Indexed users: 5
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [tedfelix](https://github.com/tedfelix) | Ted Felix | Adamstown, MD | 361 |
 | 2 | [ghost0x02](https://github.com/ghost0x02) | enesxsec  | pitcairn | 177 |
@@ -30,7 +30,7 @@ Indexed users: 5
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [tedfelix](https://github.com/tedfelix) | Ted Felix | Adamstown, MD | 23 |
 | 2 | [ghost0x02](https://github.com/ghost0x02) | enesxsec  | pitcairn | 7 |

@@ -10,7 +10,7 @@ Indexed users: 41,536
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [SufiyanShahidDev](https://github.com/SufiyanShahidDev) | Sufiyan Shahid  | Karachi Sindh, Pakistan  | 140,631 |
 | 2 | [NehalAtiq-dev](https://github.com/NehalAtiq-dev) | Nehal Atiq  | Karachi, Pakistan | 108,964 |
@@ -35,7 +35,7 @@ Indexed users: 41,536
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Afrasiab006](https://github.com/Afrasiab006) | Afrasiab Ahmad  |  Peshawar, Pakistan | 385,828 |
 | 2 | [SufiyanShahidDev](https://github.com/SufiyanShahidDev) | Sufiyan Shahid  | Karachi Sindh, Pakistan  | 140,631 |
@@ -60,7 +60,7 @@ Indexed users: 41,536
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [HereIsMuhammad](https://github.com/HereIsMuhammad) | Muhammad | Pakistan | 3,128 |
 | 2 | [FareedKhan-dev](https://github.com/FareedKhan-dev) | Fareed Khan | Karachi, Pakistan | 2,696 |

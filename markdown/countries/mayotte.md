@@ -10,7 +10,7 @@ Indexed users: 17
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 391 |
 | 2 | [feycoil](https://github.com/feycoil) | Feyçoil Mouhoussoune | Mamoudzou | 327 |
@@ -32,7 +32,7 @@ Indexed users: 17
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 1,494 |
 | 2 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 391 |
@@ -54,7 +54,7 @@ Indexed users: 17
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 37 |
 | 2 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | Mayotte | 17 |

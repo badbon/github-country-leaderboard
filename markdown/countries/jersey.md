@@ -10,7 +10,7 @@ Indexed users: 139
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 38,990 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 870 |
@@ -35,7 +35,7 @@ Indexed users: 139
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 49,547 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 19,811 |
@@ -60,7 +60,7 @@ Indexed users: 139
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 791 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 752 |

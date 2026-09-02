@@ -10,7 +10,7 @@ Indexed users: 60
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,320 |
 | 2 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 626 |
@@ -35,7 +35,7 @@ Indexed users: 60
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,667 |
 | 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 2,466 |
@@ -60,7 +60,7 @@ Indexed users: 60
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 164 |
 | 2 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 115 |

@@ -10,7 +10,7 @@ Indexed users: 736
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 1,291 |
 | 2 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 882 |
@@ -35,7 +35,7 @@ Indexed users: 736
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,082 |
 | 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 5,418 |
@@ -60,7 +60,7 @@ Indexed users: 736
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [semicode-ltd](https://github.com/semicode-ltd) | SemiCode Inc | Khartoum , Sudan | 269 |
 | 2 | [shoukreytom](https://github.com/shoukreytom) | Shoukrey Tom | Sudan | 198 |

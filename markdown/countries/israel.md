@@ -10,7 +10,7 @@ Indexed users: 12,441
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [guy-davidi](https://github.com/guy-davidi) | Guy Davidi | israel | 127,261 |
 | 2 | [oferchen](https://github.com/oferchen) | Ofer Chen | Israel | 21,715 |
@@ -35,7 +35,7 @@ Indexed users: 12,441
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [guy-davidi](https://github.com/guy-davidi) | Guy Davidi | israel | 127,333 |
 | 2 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay | Tel aviv, Israel | 46,505 |
@@ -60,7 +60,7 @@ Indexed users: 12,441
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [goldbergyoni](https://github.com/goldbergyoni) | Yoni Goldberg | Israel | 4,999 |
 | 2 | [amantinband](https://github.com/amantinband) | Amichai Mantinband | Israel | 2,543 |

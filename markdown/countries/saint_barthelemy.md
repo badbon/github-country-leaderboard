@@ -10,21 +10,21 @@ Indexed users: 2
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Moxxie-12](https://github.com/Moxxie-12) | Moxxie | Saint Barthélemy | 0 |
 | 2 | [paforson](https://github.com/paforson) | Andrew Forson | St. Barthelemy | 0 |
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Moxxie-12](https://github.com/Moxxie-12) | Moxxie | Saint Barthélemy | 42 |
 | 2 | [paforson](https://github.com/paforson) | Andrew Forson | St. Barthelemy | 0 |
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Moxxie-12](https://github.com/Moxxie-12) | Moxxie | Saint Barthélemy | 2 |
 | 2 | [paforson](https://github.com/paforson) | Andrew Forson | St. Barthelemy | 1 |

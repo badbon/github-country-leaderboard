@@ -10,7 +10,7 @@ Indexed users: 299
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,571 |
 | 2 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 739 |
@@ -35,7 +35,7 @@ Indexed users: 299
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 7,943 |
 | 2 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,392 |
@@ -60,7 +60,7 @@ Indexed users: 299
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | Goma, Congo | 321 |
 | 2 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 212 |

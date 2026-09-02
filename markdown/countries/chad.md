@@ -10,7 +10,7 @@ Indexed users: 201
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 2,244 |
 | 2 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 546 |
@@ -35,7 +35,7 @@ Indexed users: 201
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 2,701 |
 | 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,433 |
@@ -60,7 +60,7 @@ Indexed users: 201
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 192 |
 | 2 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | N'djamena | 73 |

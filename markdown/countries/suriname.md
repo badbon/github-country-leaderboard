@@ -10,7 +10,7 @@ Indexed users: 124
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 3,008 |
 | 2 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 765 |
@@ -35,7 +35,7 @@ Indexed users: 124
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 50,342 |
 | 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 12,729 |
@@ -60,7 +60,7 @@ Indexed users: 124
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 115 |
 | 2 | [pawiromitchel](https://github.com/pawiromitchel) | Mitchel | Suriname | 107 |

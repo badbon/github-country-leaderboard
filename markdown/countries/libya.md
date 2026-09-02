@@ -10,7 +10,7 @@ Indexed users: 753
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 2,889 |
 | 2 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY | Libya | 1,074 |
@@ -35,7 +35,7 @@ Indexed users: 753
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 13,691 |
 | 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 9,697 |
@@ -60,7 +60,7 @@ Indexed users: 753
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [tahaelfit17](https://github.com/tahaelfit17) | Taha Elfitouri | Tripoli, Libya | 168 |
 | 2 | [absholi7ly](https://github.com/absholi7ly) | Abdualhadi khalifa | Libya | 131 |

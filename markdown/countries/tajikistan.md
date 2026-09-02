@@ -10,7 +10,7 @@ Indexed users: 715
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 2,181 |
 | 2 | [meetmeonlinefree](https://github.com/meetmeonlinefree) | Nekruz | Tajikistan | 1,857 |
@@ -35,7 +35,7 @@ Indexed users: 715
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 7,140 |
 | 2 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 6,115 |
@@ -60,7 +60,7 @@ Indexed users: 715
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | Khujand, Tajikistan | 421 |
 | 2 | [RahimovAbdurahmon](https://github.com/RahimovAbdurahmon) |  | Tajikistan, Dushanbe | 225 |

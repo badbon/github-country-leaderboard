@@ -10,7 +10,7 @@ Indexed users: 16,206
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Blackstit](https://github.com/Blackstit) | Vladislav Petrushkin | Czech Republic, Liberec | 57,938 |
 | 2 | [martinmodrak](https://github.com/martinmodrak) | Martin Modrák | Prague, Czech Republic | 41,495 |
@@ -35,7 +35,7 @@ Indexed users: 16,206
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Blackstit](https://github.com/Blackstit) | Vladislav Petrushkin | Czech Republic, Liberec | 57,938 |
 | 2 | [martinmodrak](https://github.com/martinmodrak) | Martin Modrák | Prague, Czech Republic | 41,495 |
@@ -60,7 +60,7 @@ Indexed users: 16,206
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [george0st](https://github.com/george0st) | jist | Europe, Czech Republic, Prague | 13,638 |
 | 2 | [filiph](https://github.com/filiph) | Filip Hracek | Prague, Czechia | 4,283 |

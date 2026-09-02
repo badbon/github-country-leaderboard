@@ -10,7 +10,7 @@ Indexed users: 28,446
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | Portugal | 57,673 |
 | 2 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Portugal | 50,784 |
@@ -35,7 +35,7 @@ Indexed users: 28,446
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [tfantas](https://github.com/tfantas) | Thiago Antas | Lisbon, Portugal | 118,493 |
 | 2 | [risenowrise](https://github.com/risenowrise) | RISE | Lisbon, Portugal | 109,544 |
@@ -60,7 +60,7 @@ Indexed users: 28,446
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [jonasschmedtmann](https://github.com/jonasschmedtmann) | Jonas Schmedtmann | Faro, Portugal | 28,978 |
 | 2 | [simplesteph](https://github.com/simplesteph) | Stephane Maarek | Lisbon + moving around the world | 10,743 |

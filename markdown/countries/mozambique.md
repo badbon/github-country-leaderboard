@@ -10,7 +10,7 @@ Indexed users: 1,177
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 4,574 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 3,882 |
@@ -35,7 +35,7 @@ Indexed users: 1,177
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 8,856 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 6,619 |
@@ -60,7 +60,7 @@ Indexed users: 1,177
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 450 |
 | 2 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 319 |

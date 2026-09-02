@@ -10,7 +10,7 @@ Indexed users: 132
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 723 |
 | 2 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 588 |
@@ -35,7 +35,7 @@ Indexed users: 132
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 4,618 |
 | 2 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,595 |
@@ -60,7 +60,7 @@ Indexed users: 132
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley | Barbados | 553 |
 | 2 | [kaku2015](https://github.com/kaku2015) | FishingNet | Barbados | 424 |

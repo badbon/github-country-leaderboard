@@ -10,7 +10,7 @@ Indexed users: 39
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 487 |
 | 2 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 486 |
@@ -35,7 +35,7 @@ Indexed users: 39
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [KevTerrence](https://github.com/KevTerrence) | Kevin Franken | Oranjestad Aruba | 877 |
 | 2 | [QVault](https://github.com/QVault) | Quincent | Aruba | 848 |
@@ -60,7 +60,7 @@ Indexed users: 39
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 67 |
 | 2 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 16 |

@@ -10,7 +10,7 @@ Indexed users: 2,029
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 12,746 |
 | 2 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
@@ -35,7 +35,7 @@ Indexed users: 2,029
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés | Paraguay | 15,366 |
 | 2 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 13,886 |
@@ -60,7 +60,7 @@ Indexed users: 2,029
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 2,012 |
 | 2 | [biagiola](https://github.com/biagiola) | David Biagiola | Asunción | 590 |

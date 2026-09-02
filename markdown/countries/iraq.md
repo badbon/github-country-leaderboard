@@ -10,7 +10,7 @@ Indexed users: 2,257
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [gcp64](https://github.com/gcp64) | Mr.bob | Iraq | 1,420,546 |
 | 2 | [shaheenfarjo](https://github.com/shaheenfarjo) | Shaheen K. Farjo | Baghdad, Iraq | 4,990 |
@@ -35,7 +35,7 @@ Indexed users: 2,257
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [gcp64](https://github.com/gcp64) | Mr.bob | Iraq | 2,270,902 |
 | 2 | [hoshmandent](https://github.com/hoshmandent) | Hoshmand M. Qadir | Erbil, Iraq | 18,551 |
@@ -60,7 +60,7 @@ Indexed users: 2,257
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Aziz-AXG](https://github.com/Aziz-AXG) | Aziz falah | Baghdad, Iraq | 3,638 |
 | 2 | [sajjad-salam](https://github.com/sajjad-salam) | sajjad_salam | iraq-baghdad | 3,025 |

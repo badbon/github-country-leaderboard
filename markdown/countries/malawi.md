@@ -10,7 +10,7 @@ Indexed users: 904
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,086 |
 | 2 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 1,555 |
@@ -35,7 +35,7 @@ Indexed users: 904
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje | Lilongwe, Malawi | 10,745 |
 | 2 | [dthyolerak](https://github.com/dthyolerak) | Donnex Thyolera Kamsonga | Malawi | 10,378 |
@@ -60,7 +60,7 @@ Indexed users: 904
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 2,421 |
 | 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  Malawi | 1,424 |

@@ -10,7 +10,7 @@ Indexed users: 18
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jah-ky](https://github.com/jah-ky) | Jackson | Port Vila (Vanuatu) | 471 |
 | 2 | [alfnitacoder](https://github.com/alfnitacoder) | AlffieGeorge | Port Vila | 43 |
@@ -33,7 +33,7 @@ Indexed users: 18
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [jah-ky](https://github.com/jah-ky) | Jackson | Port Vila (Vanuatu) | 471 |
 | 2 | [alfnitacoder](https://github.com/alfnitacoder) | AlffieGeorge | Port Vila | 43 |
@@ -56,7 +56,7 @@ Indexed users: 18
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [alfnitacoder](https://github.com/alfnitacoder) | AlffieGeorge | Port Vila | 16 |
 | 2 | [Pharm2Phork](https://github.com/Pharm2Phork) | Pharm2phork Project | Port Vila, Vanuatu | 10 |

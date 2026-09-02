@@ -10,7 +10,7 @@ Indexed users: 8
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [bluepnwage](https://github.com/bluepnwage) | Agis Carty | Saint Martin | 10 |
 | 2 | [achoisy](https://github.com/achoisy) | Alexandre Choisy | Saint-Martin | 0 |
@@ -23,7 +23,7 @@ Indexed users: 8
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [achoisy](https://github.com/achoisy) | Alexandre Choisy | Saint-Martin | 224 |
 | 2 | [bluepnwage](https://github.com/bluepnwage) | Agis Carty | Saint Martin | 10 |
@@ -36,7 +36,7 @@ Indexed users: 8
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Sandra97](https://github.com/Sandra97) | Sandra Decoux | Saint-Martin (Caribbean) | 21 |
 | 2 | [lucilebgt](https://github.com/lucilebgt) | Lucile Bergeat | saint martin | 13 |

@@ -10,7 +10,7 @@ Indexed users: 1,938
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | Skopje, North Macedonia | 3,855 |
 | 2 | [martinpetkovski](https://github.com/martinpetkovski) | Martin | Bitola, Macedonia | 2,253 |
@@ -35,7 +35,7 @@ Indexed users: 1,938
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sofe1204](https://github.com/sofe1204) | Nikola Sofeski | Skopje | 13,627 |
 | 2 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 9,016 |
@@ -60,7 +60,7 @@ Indexed users: 1,938
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [yutomiwana](https://github.com/yutomiwana) | Yuto | Skopje | 1,234 |
 | 2 | [henryruhs](https://github.com/henryruhs) | Henry Ruhs | North Macedonia | 627 |

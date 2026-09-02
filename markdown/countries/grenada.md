@@ -10,7 +10,7 @@ Indexed users: 38
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre T. R. Walters | Grenada, West Indies | 786 |
 | 2 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 151 |
@@ -35,7 +35,7 @@ Indexed users: 38
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre T. R. Walters | Grenada, West Indies | 1,245 |
 | 2 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 1,233 |
@@ -60,7 +60,7 @@ Indexed users: 38
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre T. R. Walters | Grenada, West Indies | 40 |
 | 2 | [al-latte](https://github.com/al-latte) | Karlisha Roberts | Grenada | 28 |

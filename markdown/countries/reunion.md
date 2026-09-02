@@ -10,7 +10,7 @@ Indexed users: 215
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault | Réunion island  | 3,109 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,584 |
@@ -35,7 +35,7 @@ Indexed users: 215
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 6,382 |
 | 2 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 5,882 |
@@ -60,7 +60,7 @@ Indexed users: 215
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [fvsch](https://github.com/fvsch) | Florens Verschelde | Réunion | 154 |
 | 2 | [Wes974](https://github.com/Wes974) | Ouwéis | Reunion Island | 152 |

@@ -10,7 +10,7 @@ Indexed users: 9
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Dingozan9699](https://github.com/Dingozan9699) | Karen Peterson | Owenfort, Cook Islands | 135 |
 | 2 | [kortizol2](https://github.com/kortizol2) | Joshua Harris | North Megantown, Cook Islands | 135 |
@@ -24,7 +24,7 @@ Indexed users: 9
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Dingozan9699](https://github.com/Dingozan9699) | Karen Peterson | Owenfort, Cook Islands | 135 |
 | 2 | [kortizol2](https://github.com/kortizol2) | Joshua Harris | North Megantown, Cook Islands | 135 |
@@ -38,7 +38,7 @@ Indexed users: 9
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [cacamelio](https://github.com/cacamelio) |  | Aitutaki, Cook Islands | 13 |
 | 2 | [batmansmaster](https://github.com/batmansmaster) |  | Cook Islands | 5 |

@@ -10,7 +10,7 @@ Indexed users: 14,091
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [stoykovstoyk](https://github.com/stoykovstoyk) |  | Bulgaria, Sofia | 42,532 |
 | 2 | [NikolaRHristov](https://github.com/NikolaRHristov) | Nikola Hristov | Sofia, Bulgaria | 11,808 |
@@ -35,7 +35,7 @@ Indexed users: 14,091
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Venelin-Bekyarov](https://github.com/Venelin-Bekyarov) | Venelin Bekyarov | Bulgaria | 126,193 |
 | 2 | [stoykovstoyk](https://github.com/stoykovstoyk) |  | Bulgaria, Sofia | 43,160 |
@@ -60,7 +60,7 @@ Indexed users: 14,091
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ggerganov](https://github.com/ggerganov) | Georgi Gerganov | Sofia, Bulgaria | 20,436 |
 | 2 | [ip681](https://github.com/ip681) | Ivo Petkov | Sofia, Bulgaria | 7,463 |

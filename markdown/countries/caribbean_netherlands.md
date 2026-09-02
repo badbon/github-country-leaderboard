@@ -10,7 +10,7 @@ Indexed users: 14
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [debruijn](https://github.com/debruijn) | Bert de Bruijn | Kralendijk | 34 |
 | 2 | [IanLKaplan](https://github.com/IanLKaplan) | Ian Kaplan | Bonaire, Caribbean Netherlands  | 16 |
@@ -29,7 +29,7 @@ Indexed users: 14
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [debruijn](https://github.com/debruijn) | Bert de Bruijn | Kralendijk | 34 |
 | 2 | [IanLKaplan](https://github.com/IanLKaplan) | Ian Kaplan | Bonaire, Caribbean Netherlands  | 16 |
@@ -48,7 +48,7 @@ Indexed users: 14
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Blossoming-Truth](https://github.com/Blossoming-Truth) | ✦ . Viv/Viverie ! | Usually with frens/alone ., but find me in the bottom right corner of map ! Or anywhere idk | 97 |
 | 2 | [Snowbugs](https://github.com/Snowbugs) | Soli / Basil !! | Fence at the bottom of hill  ᯓ★ | 82 |

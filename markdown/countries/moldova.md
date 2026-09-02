@@ -10,7 +10,7 @@ Indexed users: 1,764
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,106 |
 | 2 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 3,063 |
@@ -35,7 +35,7 @@ Indexed users: 1,764
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [evisoft](https://github.com/evisoft) | Vitalie Esanu | Moldova | 13,677 |
 | 2 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 6,932 |
@@ -60,7 +60,7 @@ Indexed users: 1,764
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [face-hh](https://github.com/face-hh) | Face | Moldova | 2,247 |
 | 2 | [vmihailenco](https://github.com/vmihailenco) | Vladimir Mihailenco | Moldova | 1,381 |

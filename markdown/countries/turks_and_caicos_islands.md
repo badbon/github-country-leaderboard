@@ -10,7 +10,7 @@ Indexed users: 7
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ga5t](https://github.com/ga5t) | Robert Cox | New Miguelfort, Turks and Caicos Islands | 135 |
 | 2 | [haktanpolatt](https://github.com/haktanpolatt) | haktan | Turks and Caicos Islands | 52 |
@@ -22,7 +22,7 @@ Indexed users: 7
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [haktanpolatt](https://github.com/haktanpolatt) | haktan | Turks and Caicos Islands | 726 |
 | 2 | [doobeh](https://github.com/doobeh) | Anthony Plunkett | Turks and Caicos Islands | 179 |
@@ -34,7 +34,7 @@ Indexed users: 7
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [fixin0](https://github.com/fixin0) | Fixin | Turks and Caicos Islands | 49 |
 | 2 | [doobeh](https://github.com/doobeh) | Anthony Plunkett | Turks and Caicos Islands | 37 |

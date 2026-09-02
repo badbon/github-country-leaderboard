@@ -10,7 +10,7 @@ Indexed users: 6,931
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Tbilisi | 16,324 |
 | 2 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister | Tbilisi | 11,594 |
@@ -35,7 +35,7 @@ Indexed users: 6,931
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [iknowl97](https://github.com/iknowl97) | iknowl | Georgia , Tbilisi | 49,227 |
 | 2 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Tbilisi | 28,592 |
@@ -60,7 +60,7 @@ Indexed users: 6,931
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [thecodeholic](https://github.com/thecodeholic) | TheCodeholic | Tbilisi, Georgia | 3,756 |
 | 2 | [riseansmal](https://github.com/riseansmal) | Ri Sean Smal | Tbilisi, Georgia | 2,597 |

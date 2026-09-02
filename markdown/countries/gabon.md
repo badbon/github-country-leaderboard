@@ -10,7 +10,7 @@ Indexed users: 315
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 1,993 |
 | 2 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,362 |
@@ -35,7 +35,7 @@ Indexed users: 315
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 2,430 |
 | 2 | [hervedelmas](https://github.com/hervedelmas) | herve delmas | libreville | 1,998 |
@@ -60,7 +60,7 @@ Indexed users: 315
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [yvan-ngoahitsi](https://github.com/yvan-ngoahitsi) | Yvan A. Ngoahitsi | Gabon | 139 |
 | 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng | Gabon | 110 |

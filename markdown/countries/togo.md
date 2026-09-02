@@ -10,7 +10,7 @@ Indexed users: 693
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,229 |
 | 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,066 |
@@ -35,7 +35,7 @@ Indexed users: 693
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 10,450 |
 | 2 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,317 |
@@ -60,7 +60,7 @@ Indexed users: 693
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | Togo | 387 |
 | 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | Lomé, Togo | 209 |

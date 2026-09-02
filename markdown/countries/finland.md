@@ -10,7 +10,7 @@ Indexed users: 18,170
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [fmatic](https://github.com/fmatic) | Janne Heinikangas | Jyväskylä, Finland | 32,834 |
 | 2 | [snomos](https://github.com/snomos) | Sjur N Moshagen | Helsingfors / Helsinki | 23,056 |
@@ -35,7 +35,7 @@ Indexed users: 18,170
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [eliask](https://github.com/eliask) | Elias Kunnas | Finland | 37,909 |
 | 2 | [cmaster11](https://github.com/cmaster11) | Alberto Marchetti | Helsinki, Finland | 36,415 |
@@ -60,7 +60,7 @@ Indexed users: 18,170
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Asabeneh](https://github.com/Asabeneh) | Asabeneh | Helsinki, Finland | 21,914 |
 | 2 | [anisul-Islam](https://github.com/anisul-Islam) | Anisul Islam | Tampere, Finland | 6,739 |

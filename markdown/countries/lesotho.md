@@ -10,7 +10,7 @@ Indexed users: 162
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 775 |
 | 2 | [md5dalton](https://github.com/md5dalton) | Ntate Mpiti  | Lesotho | 399 |
@@ -35,7 +35,7 @@ Indexed users: 162
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 6,329 |
 | 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Maseru | 2,058 |
@@ -60,7 +60,7 @@ Indexed users: 162
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 233 |
 | 2 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 221 |

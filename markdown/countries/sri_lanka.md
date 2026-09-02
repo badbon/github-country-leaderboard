@@ -10,7 +10,7 @@ Indexed users: 18,260
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [nuuuwan](https://github.com/nuuuwan) | Nuwan I. Senaratna | Colombo, Sri Lanka | 163,626 |
 | 2 | [RensithUdara](https://github.com/RensithUdara) | Rensith Udara Gonalagoda | Galle, Sri Lanka | 152,007 |
@@ -35,7 +35,7 @@ Indexed users: 18,260
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [nuuuwan](https://github.com/nuuuwan) | Nuwan I. Senaratna | Colombo, Sri Lanka | 163,626 |
 | 2 | [RensithUdara](https://github.com/RensithUdara) | Rensith Udara Gonalagoda | Galle, Sri Lanka | 153,664 |
@@ -60,7 +60,7 @@ Indexed users: 18,260
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Thizh](https://github.com/Thizh) | Thizh Wick | Sri Lanka | 4,030 |
 | 2 | [arunoda](https://github.com/arunoda) | Arunoda Susiripala | Colombo, Sri Lanka | 2,629 |

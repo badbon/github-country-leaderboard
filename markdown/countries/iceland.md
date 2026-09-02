@@ -10,7 +10,7 @@ Indexed users: 1,587
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 4,181 |
 | 2 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,282 |
@@ -35,7 +35,7 @@ Indexed users: 1,587
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [davideagle](https://github.com/davideagle) | davideagle | Iceland | 19,520 |
 | 2 | [benkauffman](https://github.com/benkauffman) | Ben Kauffman | Reykjavík, Iceland | 17,861 |
@@ -60,7 +60,7 @@ Indexed users: 1,587
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson | Iceland | 2,006 |
 | 2 | [imbue-bit](https://github.com/imbue-bit) | 栀染 | Iceland | 801 |

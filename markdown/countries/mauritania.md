@@ -10,7 +10,7 @@ Indexed users: 290
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | Nouakchott, Mauritania | 4,109 |
 | 2 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib | Nouakchott, Mauritania | 1,384 |
@@ -35,7 +35,7 @@ Indexed users: 290
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 11,541 |
 | 2 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | Nouakchott, Mauritania | 9,718 |
@@ -60,7 +60,7 @@ Indexed users: 290
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Nouakchott Mauritania | 160 |
 | 2 | [Ziyadsk](https://github.com/Ziyadsk) | Ziyad | Nouakchott, Mauritania | 66 |

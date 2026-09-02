@@ -10,7 +10,7 @@ Indexed users: 126
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | Cayman Islands | 1,301 |
 | 2 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 1,004 |
@@ -35,7 +35,7 @@ Indexed users: 126
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 18,421 |
 | 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | Cayman Islands | 5,294 |
@@ -60,7 +60,7 @@ Indexed users: 126
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [nodersteam](https://github.com/nodersteam) | [NODERS]TEAM | Cayman islands | 154 |
 | 2 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 139 |

@@ -10,7 +10,7 @@ Indexed users: 16
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [rockerBOO](https://github.com/rockerBOO) | Dave Lage | In the Valley | 451 |
 | 2 | [tjhanley](https://github.com/tjhanley) | Thomas Hanley | the valley | 300 |
@@ -31,7 +31,7 @@ Indexed users: 16
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mikecalendo](https://github.com/mikecalendo) | Mike Calendo | The Valley, Arizona | 2,120 |
 | 2 | [tjhanley](https://github.com/tjhanley) | Thomas Hanley | the valley | 2,064 |
@@ -52,7 +52,7 @@ Indexed users: 16
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [rockerBOO](https://github.com/rockerBOO) | Dave Lage | In the Valley | 245 |
 | 2 | [jstncno](https://github.com/jstncno) | Justin Cano | somewhere in the valley | 50 |

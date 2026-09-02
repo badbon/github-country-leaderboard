@@ -10,7 +10,7 @@ Indexed users: 2,217
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 7,793 |
 | 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 7,151 |
@@ -35,7 +35,7 @@ Indexed users: 2,217
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | Luxembourg | 36,874 |
 | 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 19,672 |
@@ -60,7 +60,7 @@ Indexed users: 2,217
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [qdm12](https://github.com/qdm12) | Quentin McGaw | Luxembourg | 841 |
 | 2 | [kissalexandra](https://github.com/kissalexandra) | Alexandra Kiss | Ville de Luxembourg | 616 |

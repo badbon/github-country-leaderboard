@@ -10,7 +10,7 @@ Indexed users: 15,007
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [dtinth-bot](https://github.com/dtinth-bot) | dtinth’s bot | Bangkok, Thailand | 23,737 |
 | 2 | [gHashTag](https://github.com/gHashTag) | Vasilev Dmitrii | Thailand | 15,842 |
@@ -35,7 +35,7 @@ Indexed users: 15,007
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [dtinth-bot](https://github.com/dtinth-bot) | dtinth’s bot | Bangkok, Thailand | 23,737 |
 | 2 | [gHashTag](https://github.com/gHashTag) | Vasilev Dmitrii | Thailand | 22,916 |
@@ -60,7 +60,7 @@ Indexed users: 15,007
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [SaltyAom](https://github.com/SaltyAom) | SaltyAom | Thailand | 4,090 |
 | 2 | [chatman-media](https://github.com/chatman-media) | Alexander Kireyev | Phuket, Thailand | 3,397 |

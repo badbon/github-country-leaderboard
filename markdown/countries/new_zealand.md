@@ -10,7 +10,7 @@ Indexed users: 12,156
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ryanbr](https://github.com/ryanbr) | Fanboynz | New Zealand | 53,373 |
 | 2 | [mitch-john](https://github.com/mitch-john) |  | New Zealand | 28,645 |
@@ -35,7 +35,7 @@ Indexed users: 12,156
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [rikkigouda](https://github.com/rikkigouda) | Rikki | Aotearoa | 82,632 |
 | 2 | [ryanbr](https://github.com/ryanbr) | Fanboynz | New Zealand | 53,373 |
@@ -60,7 +60,7 @@ Indexed users: 12,156
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ChenYilong](https://github.com/ChenYilong) | ChenYilong | Auckland, New Zealand | 8,565 |
 | 2 | [dominictarr](https://github.com/dominictarr) | Dominic Tarr | New Zealand | 3,709 |

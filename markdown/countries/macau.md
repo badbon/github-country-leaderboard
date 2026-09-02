@@ -10,7 +10,7 @@ Indexed users: 456
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 4,528 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 3,637 |
@@ -35,7 +35,7 @@ Indexed users: 456
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 7,564 |
 | 2 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 7,150 |
@@ -60,7 +60,7 @@ Indexed users: 456
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ken0225](https://github.com/ken0225) | Ke"Ken"WANG | Macau | 417 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 400 |

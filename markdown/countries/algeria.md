@@ -10,7 +10,7 @@ Indexed users: 5,824
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi | Algeria | 3,998 |
 | 2 | [imadtbn](https://github.com/imadtbn) | imad tbn | algeria | 2,944 |
@@ -35,7 +35,7 @@ Indexed users: 5,824
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [RAHAMNIabdelkaderseifelislem](https://github.com/RAHAMNIabdelkaderseifelislem) | RAHMANI AbdElKader Seif El Islem | Saida,Algeria | 18,926 |
 | 2 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 8,238 |
@@ -60,7 +60,7 @@ Indexed users: 5,824
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Jones-6199](https://github.com/Jones-6199) | Younes BENZIANE | Agiers, Algeria | 3,610 |
 | 2 | [ipenywis](https://github.com/ipenywis) | Islem Maboud | Setif, Algeria | 3,065 |

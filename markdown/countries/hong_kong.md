@@ -10,7 +10,7 @@ Indexed users: 10,326
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | Hong Kong | 22,592 |
 | 2 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | Hong Kong | 19,852 |
@@ -35,7 +35,7 @@ Indexed users: 10,326
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | Hong Kong | 27,688 |
 | 2 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | Hong Kong | 22,592 |
@@ -60,7 +60,7 @@ Indexed users: 10,326
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [miloyip](https://github.com/miloyip) | Milo Yip | Hong Kong, China | 10,766 |
 | 2 | [tiann](https://github.com/tiann) | weishu | Hong Kong | 8,539 |

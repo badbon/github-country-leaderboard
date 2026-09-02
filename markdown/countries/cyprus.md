@@ -10,7 +10,7 @@ Indexed users: 2,752
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev | Cyprus | 6,174 |
 | 2 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 4,307 |
@@ -35,7 +35,7 @@ Indexed users: 2,752
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [linegel](https://github.com/linegel) | Eugène P. | Limassol, Cyprus | 22,798 |
 | 2 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 16,217 |
@@ -60,7 +60,7 @@ Indexed users: 2,752
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Lefkosa, Cyprus | 8,492 |
 | 2 | [zloirock](https://github.com/zloirock) | Denis Pushkarev | Cyprus, Larnaca | 7,491 |

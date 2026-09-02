@@ -184,10 +184,11 @@ export function renderCountryHub({ country, users, generatedAt }) {
 }
 
 function renderCompactLeaderboardRows({ users, category }) {
+  const meta = CATEGORY_META[category];
   const value = valueForCategory(category);
   const rows = sortForCategory(users, category).slice(0, 20);
   return [
-    "| # | User | Name | Location | Value |",
+    `| # | User | Name | Location | ${meta.metric} |`,
     "|---:|---|---|---|---:|",
     ...rows.map((user, index) => `| ${index + 1} | [${escapeMarkdown(user.login)}](https://github.com/${encodeURIComponent(user.login)}) | ${escapeMarkdown(user.name)} | ${escapeMarkdown(user.location)} | ${formatNumber(value(user))} |`)
   ];

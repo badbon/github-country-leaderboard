@@ -10,7 +10,7 @@ Indexed users: 1,400
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 6,430 |
 | 2 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 2,414 |
@@ -35,7 +35,7 @@ Indexed users: 1,400
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 7,504 |
 | 2 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 6,789 |
@@ -60,7 +60,7 @@ Indexed users: 1,400
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [CrisLottz](https://github.com/CrisLottz) | Cris Lottz | Nicaragua | 2,138 |
 | 2 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 210 |

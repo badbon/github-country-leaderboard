@@ -10,7 +10,7 @@ Indexed users: 5,450
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [stepanic](https://github.com/stepanic) | Matija Stepanic | Zagreb, Croatia | 34,404 |
 | 2 | [TVCTC](https://github.com/TVCTC) | Tomislav | Zagreb | 10,893 |
@@ -35,7 +35,7 @@ Indexed users: 5,450
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [stepanic](https://github.com/stepanic) | Matija Stepanic | Zagreb, Croatia | 35,919 |
 | 2 | [tihomirjauk](https://github.com/tihomirjauk) | Tihomir Jauk | Zagreb, Croatia | 15,965 |
@@ -60,7 +60,7 @@ Indexed users: 5,450
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [adrianhajdin](https://github.com/adrianhajdin) | Adrian Hajdin - JS Mastery | Croatia | 37,312 |
 | 2 | [AntonioErdeljac](https://github.com/AntonioErdeljac) | Antonio Erdeljac | Zagreb, Croatia | 9,129 |

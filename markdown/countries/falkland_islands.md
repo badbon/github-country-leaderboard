@@ -10,7 +10,7 @@ Indexed users: 13
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [trrt54999](https://github.com/trrt54999) | trrt54999 |  Falkland Islands | 194 |
 | 2 | [RongWroom](https://github.com/RongWroom) | RongWroom | Stanley, Co Durham | 68 |
@@ -28,7 +28,7 @@ Indexed users: 13
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [trrt54999](https://github.com/trrt54999) | trrt54999 |  Falkland Islands | 601 |
 | 2 | [Norrch2](https://github.com/Norrch2) |  | Stanley, North Carolina | 420 |
@@ -46,7 +46,7 @@ Indexed users: 13
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [appurupupai](https://github.com/appurupupai) | Ish / Sten | ur house. /jk \|\| Chishiya <<<< Cookies. Kuina and Hyun-ju, MY QUEENS 🙏🙏 Characters : Kenma Kozume, Nobuaki Hida, Mike Wheeler, No-eul, Shuntaro Chishiya, Inumaki Toge, Shoto Todoroki, and Stanley Uris !! | 60 |
 | 2 | [trrt54999](https://github.com/trrt54999) | trrt54999 |  Falkland Islands | 7 |

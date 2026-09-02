@@ -10,7 +10,7 @@ Indexed users: 22
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Bissau, Guinea-Bissau | 453 |
 | 2 | [Samsilva64](https://github.com/Samsilva64) | Daltonsilva | Guiné-bissau/pluba | 78 |
@@ -35,7 +35,7 @@ Indexed users: 22
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [laurentino-dev](https://github.com/laurentino-dev) | Laurentino | Bissau | 2,286 |
 | 2 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Bissau, Guinea-Bissau | 453 |
@@ -60,7 +60,7 @@ Indexed users: 22
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | Bissau | 20 |
 | 2 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Bissau, Guinea-Bissau | 10 |

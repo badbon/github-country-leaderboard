@@ -10,7 +10,7 @@ Indexed users: 52
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,249 |
 | 2 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 383 |
@@ -35,7 +35,7 @@ Indexed users: 52
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 4,243 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,491 |
@@ -60,7 +60,7 @@ Indexed users: 52
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 450 |
 | 2 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 67 |

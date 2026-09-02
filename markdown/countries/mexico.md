@@ -10,7 +10,7 @@ Indexed users: 23,487
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mnaoumov](https://github.com/mnaoumov) | Michael Naumov | Queretaro, Mexico | 15,255 |
 | 2 | [8Dionysus](https://github.com/8Dionysus) | Dionysus | Mexico | 11,648 |
@@ -35,7 +35,7 @@ Indexed users: 23,487
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [XelHaku](https://github.com/XelHaku) | Xel | Mexico | 26,778 |
 | 2 | [Shooksie](https://github.com/Shooksie) | Sami Shukri | Mexico | 26,672 |
@@ -60,7 +60,7 @@ Indexed users: 23,487
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [stan8086](https://github.com/stan8086) | Jose Rodríguez | Mexico | 3,819 |
 | 2 | [deromafilossali](https://github.com/deromafilossali) | Rodrigo | Mexico | 2,303 |

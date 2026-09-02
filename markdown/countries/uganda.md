@@ -10,7 +10,7 @@ Indexed users: 3,883
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,423 |
 | 2 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 5,725 |
@@ -35,7 +35,7 @@ Indexed users: 3,883
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [alsong](https://github.com/alsong) | Oburusule Dunstan | Kampala, Uganda | 13,712 |
 | 2 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua | Kampala | 11,790 |
@@ -60,7 +60,7 @@ Indexed users: 3,883
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Arison99](https://github.com/Arison99) | Byonanebye Arison | Kampala | 1,778 |
 | 2 | [uthumany](https://github.com/uthumany) | Uthuman Moody | uthuman 7H6P+H8, Kampala | 1,099 |

@@ -10,7 +10,7 @@ Indexed users: 78
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 1,830 |
 | 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,166 |
@@ -35,7 +35,7 @@ Indexed users: 78
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 5,876 |
 | 2 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 1,960 |
@@ -60,7 +60,7 @@ Indexed users: 78
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 68 |
 | 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 39 |

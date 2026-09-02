@@ -10,7 +10,7 @@ Indexed users: 329
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,258 |
 | 2 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 807 |
@@ -35,7 +35,7 @@ Indexed users: 329
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 2,954 |
 | 2 | [xue1213888](https://github.com/xue1213888) | XueSichen | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 2,019 |
@@ -60,7 +60,7 @@ Indexed users: 329
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 523 |
 | 2 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 131 |

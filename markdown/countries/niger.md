@@ -10,7 +10,7 @@ Indexed users: 177
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine | Niamey, Niger | 3,734 |
 | 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger/Niamey | 1,348 |
@@ -35,7 +35,7 @@ Indexed users: 177
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine | Niamey, Niger | 7,526 |
 | 2 | [jamilbachard](https://github.com/jamilbachard) | Bachard Jamil | Niger | 3,366 |
@@ -60,7 +60,7 @@ Indexed users: 177
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky | Niger | 1,178 |
 | 2 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 202 |

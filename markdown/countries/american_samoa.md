@@ -10,7 +10,7 @@ Indexed users: 5
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [lazzydisa](https://github.com/lazzydisa) | lazzy DiSa | American Samoa | 132 |
 | 2 | [Ban-Brian](https://github.com/Ban-Brian) | Brian | American Samoa / San Diego / DC | 115 |
@@ -20,7 +20,7 @@ Indexed users: 5
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [lazzydisa](https://github.com/lazzydisa) | lazzy DiSa | American Samoa | 132 |
 | 2 | [Ban-Brian](https://github.com/Ban-Brian) | Brian | American Samoa / San Diego / DC | 115 |
@@ -30,7 +30,7 @@ Indexed users: 5
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Canonball90](https://github.com/Canonball90) | CanonBall90 | American Samoa | 9 |
 | 2 | [lazzydisa](https://github.com/lazzydisa) | lazzy DiSa | American Samoa | 3 |

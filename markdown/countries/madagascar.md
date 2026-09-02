@@ -10,7 +10,7 @@ Indexed users: 1,921
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | Antananarivo, Madagascar | 6,347 |
 | 2 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 5,293 |
@@ -35,7 +35,7 @@ Indexed users: 1,921
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Madagascar | 18,350 |
 | 2 | [marioshaya](https://github.com/marioshaya) | SHAYA Mario | Antananarivo, Madagascar | 14,886 |
@@ -60,7 +60,7 @@ Indexed users: 1,921
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 594 |
 | 2 | [branGitfox](https://github.com/branGitfox) | Brandon Fidelin  Ravomanana | Antananarivo, Madagascar | 482 |

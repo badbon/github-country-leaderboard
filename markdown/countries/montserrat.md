@@ -10,7 +10,7 @@ Indexed users: 295
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,327 |
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,329 |
@@ -35,7 +35,7 @@ Indexed users: 295
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson | Plymouth, MI | 11,845 |
 | 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 6,189 |
@@ -60,7 +60,7 @@ Indexed users: 295
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [wbond](https://github.com/wbond) | Will Bond | Plymouth, NH | 2,316 |
 | 2 | [aldeed](https://github.com/aldeed) | Eric Dobbertin | Plymouth, WI | 671 |

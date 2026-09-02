@@ -10,7 +10,7 @@ Indexed users: 1,233
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 4,912 |
 | 2 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 4,307 |
@@ -35,7 +35,7 @@ Indexed users: 1,233
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 19,296 |
 | 2 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 11,492 |
@@ -60,7 +60,7 @@ Indexed users: 1,233
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,790 |
 | 2 | [CarlBugeja](https://github.com/CarlBugeja) | Carl Bugeja | Malta | 655 |

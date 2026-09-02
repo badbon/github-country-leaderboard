@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { renderLeaderboard, renderReadme } from "../src/lib/render.js";
+import { renderCountryHub, renderLeaderboard, renderReadme } from "../src/lib/render.js";
 
 test("renders reference-style markdown table", () => {
   const markdown = renderLeaderboard({
@@ -61,6 +61,26 @@ test("renders five deterministic daily countries", () => {
   assert.equal(countryRows(first).length, 5);
   assert.deepEqual(countryRows(first), countryRows(second));
   assert.notDeepEqual(countryRows(first), countryRows(nextDay));
+});
+
+test("country hub uses category metric names instead of generic value", () => {
+  const markdown = renderCountryHub({
+    country: { slug: "georgia", name: "Georgia" },
+    generatedAt: "2026-09-02T00:00:00.000Z",
+    users: [{
+      login: "dev",
+      name: "Dev",
+      location: "Tbilisi",
+      followers: 3,
+      publicContributions: 55,
+      privateContributions: 1
+    }]
+  });
+
+  assert.match(markdown, /\| # \| User \| Name \| Location \| Public Contributions \|/);
+  assert.match(markdown, /\| # \| User \| Name \| Location \| Total Contributions \|/);
+  assert.match(markdown, /\| # \| User \| Name \| Location \| Followers \|/);
+  assert.doesNotMatch(markdown, /\| # \| User \| Name \| Location \| Value \|/);
 });
 
 function countryRows(markdown) {

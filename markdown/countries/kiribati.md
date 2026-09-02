@@ -10,7 +10,7 @@ Indexed users: 4
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [bekarakaranabutae-oss](https://github.com/bekarakaranabutae-oss) | KEVIN TAAKE | Kiribati | 159 |
 | 2 | [hola2005kaikai](https://github.com/hola2005kaikai) | Kaieata Ioane | Kiribati, Tarawa | 0 |
@@ -19,7 +19,7 @@ Indexed users: 4
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [bekarakaranabutae-oss](https://github.com/bekarakaranabutae-oss) | KEVIN TAAKE | Kiribati | 159 |
 | 2 | [Landgraft](https://github.com/Landgraft) |  | Kiribati | 4 |
@@ -28,7 +28,7 @@ Indexed users: 4
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [bekarakaranabutae-oss](https://github.com/bekarakaranabutae-oss) | KEVIN TAAKE | Kiribati | 2 |
 | 2 | [hola2005kaikai](https://github.com/hola2005kaikai) | Kaieata Ioane | Kiribati, Tarawa | 1 |

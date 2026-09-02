@@ -10,7 +10,7 @@ Indexed users: 239
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 1,351 |
 | 2 | [kiarashplusplus](https://github.com/kiarashplusplus) | Kiarash Adl | Nassau Bay, Texas | 792 |
@@ -35,7 +35,7 @@ Indexed users: 239
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 12,685 |
 | 2 | [kiarashplusplus](https://github.com/kiarashplusplus) | Kiarash Adl | Nassau Bay, Texas | 5,512 |
@@ -60,7 +60,7 @@ Indexed users: 239
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [PingPaid](https://github.com/PingPaid) | PingPaid  | Nassau, Bahamas | 104 |
 | 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 98 |

@@ -10,7 +10,7 @@ Indexed users: 348
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 5,749 |
 | 2 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,414 |
@@ -35,7 +35,7 @@ Indexed users: 348
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 6,540 |
 | 2 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 6,468 |
@@ -60,7 +60,7 @@ Indexed users: 348
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | Mali | 186 |
 | 2 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 129 |

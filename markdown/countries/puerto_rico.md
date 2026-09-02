@@ -10,7 +10,7 @@ Indexed users: 1,551
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | NiftyAndy | San Juan, PR 🇵🇷 | 5,196 |
 | 2 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 5,162 |
@@ -35,7 +35,7 @@ Indexed users: 1,551
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 34,914 |
 | 2 | [mattvv](https://github.com/mattvv) | Matt Van | San Juan, Puerto Rico | 17,279 |
@@ -60,7 +60,7 @@ Indexed users: 1,551
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [darkoperator](https://github.com/darkoperator) | Carlos Perez | Puerto Rico | 2,184 |
 | 2 | [josean-dev](https://github.com/josean-dev) | Josean Martinez | Puerto Rico | 1,367 |

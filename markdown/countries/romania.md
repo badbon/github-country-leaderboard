@@ -10,7 +10,7 @@ Indexed users: 14,990
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [0-vortex](https://github.com/0-vortex) | TED Vortex (Teodor-Eugen Duțulescu) | Romania | 32,297 |
 | 2 | [eliandoran](https://github.com/eliandoran) | Elian Doran | Sibiu, Romania | 12,658 |
@@ -35,7 +35,7 @@ Indexed users: 14,990
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [enzoblackia](https://github.com/enzoblackia) | Lorenzo Leone | Bucharest | 72,809 |
 | 2 | [eduardg7](https://github.com/eduardg7) | Eduard G | Bucharest | 36,418 |
@@ -60,7 +60,7 @@ Indexed users: 14,990
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [florinpop17](https://github.com/florinpop17) | Florin Pop | Romania | 15,871 |
 | 2 | [eugenp](https://github.com/eugenp) | Eugen | Bucharest, Romania | 10,890 |

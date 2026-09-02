@@ -10,7 +10,7 @@ Indexed users: 96
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,188 |
 | 2 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 758 |
@@ -35,7 +35,7 @@ Indexed users: 96
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 2,158 |
 | 2 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 1,615 |
@@ -60,7 +60,7 @@ Indexed users: 96
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 121 |
 | 2 | [erichanson](https://github.com/erichanson) | Eric Hanson | Belize | 37 |

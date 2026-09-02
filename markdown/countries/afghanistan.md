@@ -10,7 +10,7 @@ Indexed users: 1,496
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmad Ullah Mukhlis | Kabul, Afghanistan | 31,295 |
 | 2 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 6,936 |
@@ -35,7 +35,7 @@ Indexed users: 1,496
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Fazlullahmamond](https://github.com/Fazlullahmamond) | Fazlullah Mamond | Kabul, Afghanistan | 294,261 |
 | 2 | [zevrok](https://github.com/zevrok) | Zevrok | Kabul, Afghanistan | 165,401 |
@@ -60,7 +60,7 @@ Indexed users: 1,496
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [afgprogrammer](https://github.com/afgprogrammer) | Mohammad Rahmani |  Kabul, Afghanistan | 3,455 |
 | 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 647 |

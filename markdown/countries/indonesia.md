@@ -10,7 +10,7 @@ Indexed users: 63,163
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [FN-Rerechan02](https://github.com/FN-Rerechan02) | Rerechan02 | Asia/Jakarta | 2,363,626 |
 | 2 | [ruef](https://github.com/ruef) |  | Indonesia | 592,453 |
@@ -35,7 +35,7 @@ Indexed users: 63,163
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [FN-Rerechan02](https://github.com/FN-Rerechan02) | Rerechan02 | Asia/Jakarta | 2,363,641 |
 | 2 | [ruef](https://github.com/ruef) |  | Indonesia | 592,454 |
@@ -60,7 +60,7 @@ Indexed users: 63,163
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [sandhikagalih](https://github.com/sandhikagalih) | Sandhika Galih | Indonesia | 18,586 |
 | 2 | [deaafrizal](https://github.com/deaafrizal) | D.A | Bandung, Indonesia | 4,913 |

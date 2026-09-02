@@ -10,7 +10,7 @@ Indexed users: 4
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Ciprher](https://github.com/Ciprher) |  | St.Thomas, United States Virgin Islands | 0 |
 | 2 | [cyd37](https://github.com/cyd37) | Malik Henry | United States Virgin Islands | 0 |
@@ -19,7 +19,7 @@ Indexed users: 4
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Ciprher](https://github.com/Ciprher) |  | St.Thomas, United States Virgin Islands | 0 |
 | 2 | [cyd37](https://github.com/cyd37) | Malik Henry | United States Virgin Islands | 0 |
@@ -28,7 +28,7 @@ Indexed users: 4
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [cyd37](https://github.com/cyd37) | Malik Henry | United States Virgin Islands | 2 |
 | 2 | [Ciprher](https://github.com/Ciprher) |  | St.Thomas, United States Virgin Islands | 1 |

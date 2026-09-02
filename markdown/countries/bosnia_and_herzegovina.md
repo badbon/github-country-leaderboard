@@ -10,7 +10,7 @@ Indexed users: 2,139
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 6,456 |
 | 2 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 2,950 |
@@ -35,7 +35,7 @@ Indexed users: 2,139
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kemo](https://github.com/kemo) |  | Sarajevo, Bosnia and Herzegovina | 9,780 |
 | 2 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 6,567 |
@@ -60,7 +60,7 @@ Indexed users: 2,139
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [inputsh](https://github.com/inputsh) | Aleksandar Todorović | Sarajevo, Bosnia & Herzegovina | 717 |
 | 2 | [BenjaminMahmic](https://github.com/BenjaminMahmic) | Benjamin Mahmić | Zenica, Bosnia and Herzegovina | 466 |

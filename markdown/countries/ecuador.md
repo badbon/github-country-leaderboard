@@ -10,7 +10,7 @@ Indexed users: 4,906
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,397 |
 | 2 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 9,974 |
@@ -35,7 +35,7 @@ Indexed users: 4,906
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 11,911 |
 | 2 | [kamikhanz](https://github.com/kamikhanz) | Edisson Barbecho | Ecuador | 11,630 |
@@ -60,7 +60,7 @@ Indexed users: 4,906
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Darkmux](https://github.com/Darkmux) | Darkmux | Ecuador | 1,531 |
 | 2 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Cuenca, Ecuador | 1,263 |

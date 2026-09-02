@@ -10,7 +10,7 @@ Indexed users: 442
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 2,214 |
 | 2 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 1,851 |
@@ -35,7 +35,7 @@ Indexed users: 442
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | Sierra Leone | 7,815 |
 | 2 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 4,499 |
@@ -60,7 +60,7 @@ Indexed users: 442
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [mmsesay](https://github.com/mmsesay) | Muhammad Sesay | Freetown, Sierra Leone | 233 |
 | 2 | [AmaduKamara](https://github.com/AmaduKamara) | Amadu Kamara | Freetown, Sierra Leone. | 108 |

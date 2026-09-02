@@ -10,7 +10,7 @@ Indexed users: 4,706
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Bratislava | 7,850 |
 | 2 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 7,535 |
@@ -35,7 +35,7 @@ Indexed users: 4,706
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [nkovalcin](https://github.com/nkovalcin) | Norbert Kovalčín | Prešov, Slovakia | 15,052 |
 | 2 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | Slovak Republic | 12,108 |
@@ -60,7 +60,7 @@ Indexed users: 4,706
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [tibbi](https://github.com/tibbi) | Tibor Kaputa | Jasov, Slovakia | 1,380 |
 | 2 | [Jerga99](https://github.com/Jerga99) | Filip Jerga | Slovakia | 1,182 |

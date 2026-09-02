@@ -10,7 +10,7 @@ Indexed users: 1,076
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
 | 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 4,210 |
@@ -35,7 +35,7 @@ Indexed users: 1,076
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Panama | 18,668 |
 | 2 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
@@ -60,7 +60,7 @@ Indexed users: 1,076
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AvaoCore](https://github.com/AvaoCore) | Avao Foundation - Core | Panama | 227 |
 | 2 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Panama City, Panama | 109 |

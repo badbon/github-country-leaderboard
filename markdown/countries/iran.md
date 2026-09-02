@@ -10,7 +10,7 @@ Indexed users: 26,707
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [bugbounted](https://github.com/bugbounted) | Mohamad Samardeh Haghighi Fard | Iran (Islamic Republic of) | 536,164 |
 | 2 | [ALIILAPRO](https://github.com/ALIILAPRO) | Ali. B | Iran | 62,418 |
@@ -35,7 +35,7 @@ Indexed users: 26,707
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [bugbounted](https://github.com/bugbounted) | Mohamad Samardeh Haghighi Fard | Iran (Islamic Republic of) | 536,202 |
 | 2 | [ALIILAPRO](https://github.com/ALIILAPRO) | Ali. B | Iran | 62,443 |
@@ -60,7 +60,7 @@ Indexed users: 26,707
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [mohammadhasanii](https://github.com/mohammadhasanii) | Mohammad | Tehran , Iran | 10,108 |
 | 2 | [Ali-hey-0](https://github.com/Ali-hey-0) | Ali Heydari | iran,zanjan | 6,855 |

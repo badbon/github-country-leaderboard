@@ -10,7 +10,7 @@ Indexed users: 3
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [CoderRoyale](https://github.com/CoderRoyale) | Bernard Chang | Heard Island and McDonald Islands | 12 |
 | 2 | [zero-width-space](https://github.com/zero-width-space) | zwsp | Heard Island and McDonald Islands | 3 |
@@ -18,7 +18,7 @@ Indexed users: 3
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [CoderRoyale](https://github.com/CoderRoyale) | Bernard Chang | Heard Island and McDonald Islands | 12 |
 | 2 | [zero-width-space](https://github.com/zero-width-space) | zwsp | Heard Island and McDonald Islands | 3 |
@@ -26,7 +26,7 @@ Indexed users: 3
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Augenstern62](https://github.com/Augenstern62) | Lucas | 934 ,Walter Estates ,Cristland ,New York ,Heard Island and McDonald Islands | 5 |
 | 2 | [zero-width-space](https://github.com/zero-width-space) | zwsp | Heard Island and McDonald Islands | 5 |

@@ -10,7 +10,7 @@ Indexed users: 19,634
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [marcusramberg](https://github.com/marcusramberg) | Marcus Ramberg | Oslo, Norway | 59,258 |
 | 2 | [caengen](https://github.com/caengen) | Christian Engen | Lørenskog, Norway | 18,071 |
@@ -35,7 +35,7 @@ Indexed users: 19,634
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [aremjolsnes](https://github.com/aremjolsnes) | Are Mjølsnes | Oslo, Norway | 81,695 |
 | 2 | [marcusramberg](https://github.com/marcusramberg) | Marcus Ramberg | Oslo, Norway | 61,636 |
@@ -60,7 +60,7 @@ Indexed users: 19,634
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [jonhoo](https://github.com/jonhoo) | Jon Gjengset | Oslo, Norway | 13,927 |
 | 2 | [antonbabenko](https://github.com/antonbabenko) | Anton Babenko | Oslo, Norway | 5,559 |

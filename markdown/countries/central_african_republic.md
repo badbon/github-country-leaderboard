@@ -10,7 +10,7 @@ Indexed users: 11
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 274 |
 | 2 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 265 |
@@ -26,7 +26,7 @@ Indexed users: 11
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 956 |
 | 2 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | Bangui , CAR | 689 |
@@ -42,7 +42,7 @@ Indexed users: 11
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 17 |
 | 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 17 |

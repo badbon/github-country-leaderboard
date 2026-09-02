@@ -10,7 +10,7 @@ Indexed users: 15,569
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [pablof7z](https://github.com/pablof7z) | Pablo Fernandez | Kalymnos, Greece | 22,485 |
 | 2 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
@@ -35,7 +35,7 @@ Indexed users: 15,569
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Sudavar](https://github.com/Sudavar) | Yury Kherimyan | Athens, Greece | 44,340 |
 | 2 | [C5G6M7](https://github.com/C5G6M7) | C5G6M7 | San Diego, US - Athens, GR | 24,462 |
@@ -60,7 +60,7 @@ Indexed users: 15,569
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [gakonst](https://github.com/gakonst) | Georgios Konstantopoulos | Thessaloniki, Greece | 5,422 |
 | 2 | [XhmikosR](https://github.com/XhmikosR) |  | Greece | 3,469 |

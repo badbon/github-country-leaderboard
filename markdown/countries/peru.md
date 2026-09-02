@@ -10,7 +10,7 @@ Indexed users: 9,795
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [wrujel](https://github.com/wrujel) | Wilfredo Rujel | Lima, Peru | 13,480 |
 | 2 | [cesars](https://github.com/cesars) | César Soplín Sánchez | Lima, Perú | 8,503 |
@@ -35,7 +35,7 @@ Indexed users: 9,795
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | Peru | 24,178 |
 | 2 | [A-PachecoT](https://github.com/A-PachecoT) | André Pacheco | Lima, Peru | 14,996 |
@@ -60,7 +60,7 @@ Indexed users: 9,795
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [chrisipanaque](https://github.com/chrisipanaque) | Christiam Ipanaque \| Software Engineer | Lima, Peru | 6,538 |
 | 2 | [sergiodxa](https://github.com/sergiodxa) | Sergio Xalambrí | Lima, Perú | 2,205 |

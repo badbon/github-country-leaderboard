@@ -10,7 +10,7 @@ Indexed users: 3
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [JTeccomx](https://github.com/JTeccomx) | Jovan Ngirmekur | Palau | 6 |
 | 2 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Koror, Palau | 0 |
@@ -18,7 +18,7 @@ Indexed users: 3
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [JTeccomx](https://github.com/JTeccomx) | Jovan Ngirmekur | Palau | 6 |
 | 2 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Koror, Palau | 0 |
@@ -26,7 +26,7 @@ Indexed users: 3
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [nbaulesglobalsolutions](https://github.com/nbaulesglobalsolutions) | Ngirngerikl Baules | Koror, Palau | 24 |
 | 2 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Koror, Palau | 19 |

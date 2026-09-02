@@ -10,7 +10,7 @@ Indexed users: 296
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 3,315 |
 | 2 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 2,346 |
@@ -35,7 +35,7 @@ Indexed users: 296
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 8,167 |
 | 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 5,035 |
@@ -60,7 +60,7 @@ Indexed users: 296
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 232 |
 | 2 | [grecpt](https://github.com/grecpt) | Grecpt | Papua New Guinea | 69 |

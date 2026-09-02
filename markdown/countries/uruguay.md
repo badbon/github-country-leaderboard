@@ -10,7 +10,7 @@ Indexed users: 5,623
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli | Uruguay | 16,140 |
 | 2 | [Gabr1el20](https://github.com/Gabr1el20) | Gabriel Delgado | Uruguay | 5,696 |
@@ -35,7 +35,7 @@ Indexed users: 5,623
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli | Uruguay | 23,365 |
 | 2 | [jQuinRivero](https://github.com/jQuinRivero) | Joaquín Rivero | Montevideo, Uruguay | 17,928 |
@@ -60,7 +60,7 @@ Indexed users: 5,623
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [diegomura](https://github.com/diegomura) | Diego Muracciole | Montevideo, Uruguay | 1,772 |
 | 2 | [spastorino](https://github.com/spastorino) | Santiago Pastorino | Montevideo, Uruguay | 1,142 |

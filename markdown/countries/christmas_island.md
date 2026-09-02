@@ -10,7 +10,7 @@ Indexed users: 20
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [BiteTheDDDDt](https://github.com/BiteTheDDDDt) | Pxl | Christmas Island | 667 |
 | 2 | [ScriptKitKat](https://github.com/ScriptKitKat) | Priscilla Y | Christmas Island | 337 |
@@ -35,7 +35,7 @@ Indexed users: 20
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [BiteTheDDDDt](https://github.com/BiteTheDDDDt) | Pxl | Christmas Island | 773 |
 | 2 | [ScriptKitKat](https://github.com/ScriptKitKat) | Priscilla Y | Christmas Island | 337 |
@@ -60,7 +60,7 @@ Indexed users: 20
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [BiteTheDDDDt](https://github.com/BiteTheDDDDt) | Pxl | Christmas Island | 68 |
 | 2 | [j0nk0](https://github.com/j0nk0) |  | Christmas Island | 33 |

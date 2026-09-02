@@ -10,7 +10,7 @@ Indexed users: 3,236
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Lewatoto](https://github.com/Lewatoto) | Gerson Alvarado | Guatemala | 14,160 |
 | 2 | [gaborage](https://github.com/gaborage) | Gabriel Rosales | Guatemala | 1,719 |
@@ -35,7 +35,7 @@ Indexed users: 3,236
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Lewatoto](https://github.com/Lewatoto) | Gerson Alvarado | Guatemala | 14,160 |
 | 2 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | Guatemala | 7,844 |
@@ -60,7 +60,7 @@ Indexed users: 3,236
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ykro](https://github.com/ykro) | Adrián Catalán | Guatemala | 434 |
 | 2 | [jorge-luis-perez-canto](https://github.com/jorge-luis-perez-canto) | Jorge Luis Pérez Canto | Guatemala | 331 |

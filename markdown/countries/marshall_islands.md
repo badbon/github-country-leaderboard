@@ -10,7 +10,7 @@ Indexed users: 11
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [baolood](https://github.com/baolood) | BAO LE DAO | Marshall Islands | 1,789 |
 | 2 | [Charles-Hello](https://github.com/Charles-Hello) | Charles | 10327 ,Reynolds Meadows ,West Ilana ,Wyoming ,Marshall Islands | 57 |
@@ -26,7 +26,7 @@ Indexed users: 11
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [baolood](https://github.com/baolood) | BAO LE DAO | Marshall Islands | 1,789 |
 | 2 | [Charles-Hello](https://github.com/Charles-Hello) | Charles | 10327 ,Reynolds Meadows ,West Ilana ,Wyoming ,Marshall Islands | 57 |
@@ -42,7 +42,7 @@ Indexed users: 11
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [P20-ORG](https://github.com/P20-ORG) | P20 | Marshall Islands  | 712 |
 | 2 | [Charles-Hello](https://github.com/Charles-Hello) | Charles | 10327 ,Reynolds Meadows ,West Ilana ,Wyoming ,Marshall Islands | 28 |

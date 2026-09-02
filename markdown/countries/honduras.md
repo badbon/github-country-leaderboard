@@ -10,7 +10,7 @@ Indexed users: 1,269
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [eliac-d](https://github.com/eliac-d) | Eliac | Honduras | 3,546 |
 | 2 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 3,201 |
@@ -35,7 +35,7 @@ Indexed users: 1,269
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 13,781 |
 | 2 | [CMRicardo](https://github.com/CMRicardo) | Ricardo Corrales | Honduras | 9,817 |
@@ -60,7 +60,7 @@ Indexed users: 1,269
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 590 |
 | 2 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 518 |

@@ -10,7 +10,7 @@ Indexed users: 29,123
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jesus-a-martinez-v](https://github.com/jesus-a-martinez-v) | Jesús Martínez | Colombia | 36,128 |
 | 2 | [NietoDeveloper](https://github.com/NietoDeveloper) | Manuel Nieto | Bogota, Colombia | 15,057 |
@@ -35,7 +35,7 @@ Indexed users: 29,123
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [jesus-a-martinez-v](https://github.com/jesus-a-martinez-v) | Jesús Martínez | Colombia | 166,513 |
 | 2 | [fnsalinas](https://github.com/fnsalinas) | Fabio Nelson Salinas Moreno | Colombia | 39,516 |
@@ -60,7 +60,7 @@ Indexed users: 29,123
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [elyxdev](https://github.com/elyxdev) | Elyx | Medellín, Colombia. | 27,484 |
 | 2 | [jkdevcode](https://github.com/jkdevcode) | Dario Zamora | Colombia | 5,141 |

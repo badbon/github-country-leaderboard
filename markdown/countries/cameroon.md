@@ -10,7 +10,7 @@ Indexed users: 1,811
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 8,684 |
 | 2 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 5,416 |
@@ -35,7 +35,7 @@ Indexed users: 1,811
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 13,081 |
 | 2 | [momo-87](https://github.com/momo-87) | Christian Romuald MOMO TONFACK | Cameroon - Yaounde | 9,961 |
@@ -60,7 +60,7 @@ Indexed users: 1,811
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,272 |
 | 2 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 1,180 |

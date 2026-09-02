@@ -10,7 +10,7 @@ Indexed users: 238
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,420 |
 | 2 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 891 |
@@ -35,7 +35,7 @@ Indexed users: 238
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | Bujumbura, Burundi | 6,234 |
 | 2 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana | Burundi | 2,664 |
@@ -60,7 +60,7 @@ Indexed users: 238
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 365 |
 | 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 140 |

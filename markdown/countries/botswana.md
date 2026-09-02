@@ -10,7 +10,7 @@ Indexed users: 535
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 1,603 |
 | 2 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 1,577 |
@@ -35,7 +35,7 @@ Indexed users: 535
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Botswana,Gaborone | 8,837 |
 | 2 | [kalungia](https://github.com/kalungia) | Abraham Kalungi | Botswana, Gaborone | 7,598 |
@@ -60,7 +60,7 @@ Indexed users: 535
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 239 |
 | 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 161 |

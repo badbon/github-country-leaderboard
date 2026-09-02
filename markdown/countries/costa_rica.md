@@ -10,7 +10,7 @@ Indexed users: 5,631
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jourlez](https://github.com/jourlez) | Josué Rojas | Jacó, Costa Rica | 9,483 |
 | 2 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 8,257 |
@@ -35,7 +35,7 @@ Indexed users: 5,631
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 19,105 |
 | 2 | [lvillalobos-cr](https://github.com/lvillalobos-cr) | Lorenzo Villalobos | Costa Rica | 17,750 |
@@ -60,7 +60,7 @@ Indexed users: 5,631
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Klerith](https://github.com/Klerith) | Fernando Herrera | Costa Rica | 15,410 |
 | 2 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 1,267 |

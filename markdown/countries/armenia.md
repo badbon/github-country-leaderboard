@@ -10,7 +10,7 @@ Indexed users: 4,052
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [prazian](https://github.com/prazian) | Pooyan Razian | Yerevan, Armenia | 8,784 |
 | 2 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | Armenia | 6,995 |
@@ -35,7 +35,7 @@ Indexed users: 4,052
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Erik-Egnatosyan](https://github.com/Erik-Egnatosyan) | Erik Egnatosyan | Armenia | 105,206 |
 | 2 | [meanmail](https://github.com/meanmail) | Alexander Petrov | Armenia, Yerevan | 10,720 |
@@ -60,7 +60,7 @@ Indexed users: 4,052
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 1,430 |
 | 2 | [TaronVardanyan](https://github.com/TaronVardanyan) | Taron Vardanyan | Yerevan | 1,081 |

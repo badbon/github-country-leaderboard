@@ -10,7 +10,7 @@ Indexed users: 476
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,558 |
 | 2 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | Abomey-Calavi, Benin | 6,861 |
@@ -35,7 +35,7 @@ Indexed users: 476
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | Abomey-Calavi, Benin | 10,559 |
 | 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 8,153 |
@@ -60,7 +60,7 @@ Indexed users: 476
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [JideGuru](https://github.com/JideGuru) | Festus Olusegun | Cotonou, Benin. | 2,202 |
 | 2 | [AvineDev](https://github.com/AvineDev) | Avine Dev | Benin | 477 |

@@ -10,7 +10,7 @@ Indexed users: 61
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,636 |
 | 2 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,615 |
@@ -35,7 +35,7 @@ Indexed users: 61
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,428 |
 | 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 2,038 |
@@ -60,7 +60,7 @@ Indexed users: 61
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,531 |
 | 2 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 1,199 |

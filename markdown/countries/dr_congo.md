@@ -10,7 +10,7 @@ Indexed users: 707
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-vincent | Kinshasa, Kigali | 23,002 |
 | 2 | [ub-victor](https://github.com/ub-victor) | USHINDI BIHAME Victoire | Kigali, Rwanda, DR Congo  | 6,858 |
@@ -35,7 +35,7 @@ Indexed users: 707
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-vincent | Kinshasa, Kigali | 24,667 |
 | 2 | [kmdavid3](https://github.com/kmdavid3) | David M. KAYEMBE | DR Congo, kinshasa | 19,853 |
@@ -60,7 +60,7 @@ Indexed users: 707
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Mardo-k12](https://github.com/Mardo-k12) | Mardo | kinshasa | 545 |
 | 2 | [NdekoCode](https://github.com/NdekoCode) | Arick Bulakali | Kinshasa, Kigali, Nairobi, Dubai | 291 |

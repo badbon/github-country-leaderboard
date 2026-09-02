@@ -10,7 +10,7 @@ Indexed users: 19,764
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jaymar921](https://github.com/jaymar921) | Jayharron Abejar | Cebu, Philippines | 1,081,241 |
 | 2 | [HaroldMars](https://github.com/HaroldMars) | Jay Harold Mars Abejar | Cebu, Philippines  | 920,333 |
@@ -35,7 +35,7 @@ Indexed users: 19,764
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [jaymar921](https://github.com/jaymar921) | Jayharron Abejar | Cebu, Philippines | 1,082,638 |
 | 2 | [HaroldMars](https://github.com/HaroldMars) | Jay Harold Mars Abejar | Cebu, Philippines  | 920,699 |
@@ -60,7 +60,7 @@ Indexed users: 19,764
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [zshaian](https://github.com/zshaian) | Shaian | Manila, Philippines | 5,387 |
 | 2 | [rodrigogalura](https://github.com/rodrigogalura) | Rodrigo Galura | Philippines | 3,344 |

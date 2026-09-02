@@ -10,7 +10,7 @@ Indexed users: 142
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 4,071 |
 | 2 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 2,181 |
@@ -35,7 +35,7 @@ Indexed users: 142
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,417 |
 | 2 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 5,752 |
@@ -60,7 +60,7 @@ Indexed users: 142
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [aplatoff](https://github.com/aplatoff) | Andrey Platov | Monaco | 130 |
 | 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 94 |

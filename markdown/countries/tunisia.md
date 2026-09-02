@@ -10,7 +10,7 @@ Indexed users: 7,208
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [haythemgalelem](https://github.com/haythemgalelem) | HAGTIC | Tunisia | 516,063 |
 | 2 | [urshabib](https://github.com/urshabib) | Habib Lomma | Tunisia | 19,226 |
@@ -35,7 +35,7 @@ Indexed users: 7,208
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [haythemgalelem](https://github.com/haythemgalelem) | HAGTIC | Tunisia | 586,955 |
 | 2 | [The-iyed](https://github.com/The-iyed) | Sebai Iyed | Tunisia | 22,302 |
@@ -60,7 +60,7 @@ Indexed users: 7,208
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [chahe-dridi](https://github.com/chahe-dridi) | chaher dridi | Tunisia | 3,480 |
 | 2 | [JawherKl](https://github.com/JawherKl) | Jawher Kl | Tunis | 2,989 |

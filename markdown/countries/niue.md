@@ -10,7 +10,7 @@ Indexed users: 4
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ggai3](https://github.com/ggai3) | Mark Caldwell | South Nathantown, Niue | 135 |
 | 2 | [Kasp42](https://github.com/Kasp42) | Vladislav Kasperov | Niue | 128 |
@@ -19,7 +19,7 @@ Indexed users: 4
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kasp42](https://github.com/Kasp42) | Vladislav Kasperov | Niue | 295 |
 | 2 | [ggai3](https://github.com/ggai3) | Mark Caldwell | South Nathantown, Niue | 135 |
@@ -28,7 +28,7 @@ Indexed users: 4
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Muchiachio](https://github.com/Muchiachio) | Muchiachio | Niue | 130 |
 | 2 | [ggai3](https://github.com/ggai3) | Mark Caldwell | South Nathantown, Niue | 5 |

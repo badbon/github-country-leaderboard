@@ -10,7 +10,7 @@ Indexed users: 18,259
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [krystophny](https://github.com/krystophny) | Christopher Albert | Graz, Austria | 31,948 |
 | 2 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | Salzburg, Austria | 16,519 |
@@ -35,7 +35,7 @@ Indexed users: 18,259
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [hapheus](https://github.com/hapheus) | Franz Haberfellner | Asten, Austria | 69,486 |
 | 2 | [unbraind](https://github.com/unbraind) | Steve Preu | Austria | 33,304 |
@@ -60,7 +60,7 @@ Indexed users: 18,259
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [mitsuhiko](https://github.com/mitsuhiko) | Armin Ronacher | Austria | 25,852 |
 | 2 | [NeuralNine](https://github.com/NeuralNine) | NeuralNine | Vienna, Austria | 10,998 |

@@ -10,7 +10,7 @@ Indexed users: 1,218
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 102,452 |
 | 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 64,567 |
@@ -35,7 +35,7 @@ Indexed users: 1,218
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 102,452 |
 | 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 64,567 |
@@ -60,7 +60,7 @@ Indexed users: 1,218
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [mbahomaid](https://github.com/mbahomaid) | Mustafa Bahomaid | Yemen | 7,607 |
 | 2 | [SaraAhmed1999](https://github.com/SaraAhmed1999) | Sara Ahmed | Yemen | 905 |

@@ -10,7 +10,7 @@ Indexed users: 49
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [xiaden](https://github.com/xiaden) | Lucian Hardy | Guam | 1,056 |
 | 2 | [Chovin](https://github.com/Chovin) |  | Guam | 339 |
@@ -35,7 +35,7 @@ Indexed users: 49
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 1,771 |
 | 2 | [xiaden](https://github.com/xiaden) | Lucian Hardy | Guam | 1,056 |
@@ -60,7 +60,7 @@ Indexed users: 49
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [cshellz](https://github.com/cshellz) | Antara | Marianas Trench, Guam | 218 |
 | 2 | [ReyBan82](https://github.com/ReyBan82) | Renante B Baniaga | Guam, United, States | 66 |

@@ -10,7 +10,7 @@ Indexed users: 3,291
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ThePixelMoon](https://github.com/ThePixelMoon) |  | Latvia | 76,857 |
 | 2 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 13,921 |
@@ -35,7 +35,7 @@ Indexed users: 3,291
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ThePixelMoon](https://github.com/ThePixelMoon) |  | Latvia | 77,323 |
 | 2 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 24,552 |
@@ -60,7 +60,7 @@ Indexed users: 3,291
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [GrayMamoru](https://github.com/GrayMamoru) |  | Riga | 5,205 |
 | 2 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 2,401 |

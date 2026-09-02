@@ -10,7 +10,7 @@ Indexed users: 2,207
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 3,974 |
 | 2 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 2,199 |
@@ -35,7 +35,7 @@ Indexed users: 2,207
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [TareqK](https://github.com/TareqK) | Tareq Kirresh طارق قرش | Jerusalem, Palestine | 87,555 |
 | 2 | [prxgma](https://github.com/prxgma) |  | Gaza, Palestine | 14,418 |
@@ -60,7 +60,7 @@ Indexed users: 2,207
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [shadeed](https://github.com/shadeed) | Ahmad Shadeed | Tulkarm, Palestine | 1,838 |
 | 2 | [msafadi](https://github.com/msafadi) | Mohammed Safadi | Gaza, Palestine | 488 |

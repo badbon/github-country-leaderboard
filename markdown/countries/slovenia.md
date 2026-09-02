@@ -10,7 +10,7 @@ Indexed users: 3,117
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 9,114 |
 | 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 7,269 |
@@ -35,7 +35,7 @@ Indexed users: 3,117
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 29,433 |
 | 2 | [Legoless](https://github.com/Legoless) | Dal Rupnik | Slovenia | 16,440 |
@@ -60,7 +60,7 @@ Indexed users: 3,117
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [zbejas](https://github.com/zbejas) | Anže Mavrič | Maribor, Slovenia | 3,026 |
 | 2 | [gto76](https://github.com/gto76) | Jure Šorn | Ljubljana | 1,212 |

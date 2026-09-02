@@ -10,7 +10,7 @@ Indexed users: 62
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 4,039 |
 | 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 1,068 |
@@ -35,7 +35,7 @@ Indexed users: 62
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 7,492 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 5,450 |
@@ -60,7 +60,7 @@ Indexed users: 62
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 215 |
 | 2 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | San Marino | 36 |

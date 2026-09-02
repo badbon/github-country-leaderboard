@@ -10,7 +10,7 @@ Indexed users: 361
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 3,805 |
 | 2 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG | Vientiane Capital, Laos | 1,482 |
@@ -35,7 +35,7 @@ Indexed users: 361
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 29,125 |
 | 2 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 24,283 |
@@ -60,7 +60,7 @@ Indexed users: 361
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [caixian-prog](https://github.com/caixian-prog) | Xian Cai | Vientiane, Laos | 118 |
 | 2 | [TheBrown](https://github.com/TheBrown) | Saleumsack Keoboualay | Vientiane,Laos | 47 |

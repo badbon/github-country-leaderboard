@@ -10,7 +10,7 @@ Indexed users: 26
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [robfiasco](https://github.com/robfiasco) | Rob Fiasco | Jamestown, NY | 958 |
 | 2 | [radshiny1992](https://github.com/radshiny1992) | Ashley Moreno | New Emilychester, Saint Helena | 136 |
@@ -35,7 +35,7 @@ Indexed users: 26
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [robfiasco](https://github.com/robfiasco) | Rob Fiasco | Jamestown, NY | 958 |
 | 2 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | Jamestown, CA | 913 |
@@ -60,7 +60,7 @@ Indexed users: 26
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 42 |
 | 2 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 24 |

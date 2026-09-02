@@ -10,7 +10,7 @@ Indexed users: 2,884
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [pphatdev](https://github.com/pphatdev) | pphat | Cambodia | 4,261 |
 | 2 | [phalla-doll](https://github.com/phalla-doll) | Phalla | Phnom Penh, Cambodia | 4,204 |
@@ -35,7 +35,7 @@ Indexed users: 2,884
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sopenlaz0](https://github.com/sopenlaz0) | Sopen | Phnom Penh | 17,964 |
 | 2 | [phalla-doll](https://github.com/phalla-doll) | Phalla | Phnom Penh, Cambodia | 11,322 |
@@ -60,7 +60,7 @@ Indexed users: 2,884
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [DJ-Raven](https://github.com/DJ-Raven) | Raven Laing | Cambodia | 1,202 |
 | 2 | [Chensokheng](https://github.com/Chensokheng) | Chensokheng | Cambodia | 972 |

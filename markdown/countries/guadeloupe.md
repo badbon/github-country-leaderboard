@@ -10,7 +10,7 @@ Indexed users: 85
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,580 |
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 613 |
@@ -35,7 +35,7 @@ Indexed users: 85
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 4,809 |
 | 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 2,242 |
@@ -60,7 +60,7 @@ Indexed users: 85
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 137 |
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 75 |

@@ -10,7 +10,7 @@ Indexed users: 265
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy | Guinée, Conakry | 2,250 |
 | 2 | [Iboubai](https://github.com/Iboubai) | Ibrahima Doumbouya | Conakry | 670 |
@@ -35,7 +35,7 @@ Indexed users: 265
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 8,351 |
 | 2 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 8,259 |
@@ -60,7 +60,7 @@ Indexed users: 265
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy | Guinée, Conakry | 458 |
 | 2 | [evanxg852000](https://github.com/evanxg852000) | Evance Soumaoro | Conakry - Guinea | 89 |

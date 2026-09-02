@@ -10,7 +10,7 @@ Indexed users: 7,099
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [selormwalker](https://github.com/selormwalker) | David Selorm Walker | Ghana | 35,087 |
 | 2 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | Accra, Ghana | 31,359 |
@@ -35,7 +35,7 @@ Indexed users: 7,099
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong | Accra, Ghana | 67,756 |
 | 2 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 53,357 |
@@ -60,7 +60,7 @@ Indexed users: 7,099
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ortonb110](https://github.com/ortonb110) | Bright Kobe Orton | Accra Ghana | 1,587 |
 | 2 | [Netcode-Hub](https://github.com/Netcode-Hub) | Netcode-Hub | Accra - Ghana | 961 |

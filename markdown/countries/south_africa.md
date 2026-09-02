@@ -10,7 +10,7 @@ Indexed users: 17,912
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Uwami-Mgxekwa](https://github.com/Uwami-Mgxekwa) | Uwami Mgxekwa | South Africa | 38,351 |
 | 2 | [gregpriday](https://github.com/gregpriday) | Greg Priday | South Africa | 37,826 |
@@ -35,7 +35,7 @@ Indexed users: 17,912
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Uwami-Mgxekwa](https://github.com/Uwami-Mgxekwa) | Uwami Mgxekwa | South Africa | 61,268 |
 | 2 | [gregpriday](https://github.com/gregpriday) | Greg Priday | South Africa | 37,826 |
@@ -60,7 +60,7 @@ Indexed users: 17,912
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Carrington-dev](https://github.com/Carrington-dev) | Carrington Muleya | South Africa | 3,642 |
 | 2 | [limbopro](https://github.com/limbopro) | 毒奶博主 | South Africa | 2,592 |

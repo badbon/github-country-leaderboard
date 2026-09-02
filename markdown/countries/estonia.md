@@ -10,7 +10,7 @@ Indexed users: 4,926
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ersinkoc](https://github.com/ersinkoc) | Ersin KOÇ | Tallinn | 22,359 |
 | 2 | [livenson](https://github.com/livenson) | Ilja Livenson | Estonia | 9,018 |
@@ -35,7 +35,7 @@ Indexed users: 4,926
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ersinkoc](https://github.com/ersinkoc) | Ersin KOÇ | Tallinn | 23,338 |
 | 2 | [kwunlokng](https://github.com/kwunlokng) | Kwun-Lok Ng | Tallinn, Estonia | 22,394 |
@@ -60,7 +60,7 @@ Indexed users: 4,926
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [visualGravitySense](https://github.com/visualGravitySense) | Dmitri Gornakov | Tallinn, Estonia | 3,891 |
 | 2 | [andris9](https://github.com/andris9) | Andris Reinman | Tallinn, Estonia | 1,481 |

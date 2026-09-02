@@ -10,7 +10,7 @@ Indexed users: 7
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [repro-code](https://github.com/repro-code) | Maarten Plonk | Sint Maarten | 18 |
 | 2 | [SxMAbel](https://github.com/SxMAbel) | SXM_ABEL | Philipsburg, Sint Maarten | 9 |
@@ -22,7 +22,7 @@ Indexed users: 7
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [jamiesonbates](https://github.com/jamiesonbates) | Jamieson Bates | Philipsburg, MT | 2,133 |
 | 2 | [repro-code](https://github.com/repro-code) | Maarten Plonk | Sint Maarten | 18 |
@@ -34,7 +34,7 @@ Indexed users: 7
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [jamiesonbates](https://github.com/jamiesonbates) | Jamieson Bates | Philipsburg, MT | 13 |
 | 2 | [SxMAbel](https://github.com/SxMAbel) | SXM_ABEL | Philipsburg, Sint Maarten | 9 |

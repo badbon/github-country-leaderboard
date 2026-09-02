@@ -10,7 +10,7 @@ Indexed users: 112
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 3,447 |
 | 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 2,577 |
@@ -35,7 +35,7 @@ Indexed users: 112
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 8,902 |
 | 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 4,658 |
@@ -60,7 +60,7 @@ Indexed users: 112
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AkiraLaine](https://github.com/AkiraLaine) | Akira Laine | Noumea, New Caledonia | 261 |
 | 2 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 234 |

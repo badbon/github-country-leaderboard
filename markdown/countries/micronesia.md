@@ -10,7 +10,7 @@ Indexed users: 11
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [heyesr](https://github.com/heyesr) | Richard | Federated States of Micronesia | 55 |
 | 2 | [Retrakor](https://github.com/Retrakor) | Retrakor | Federated States of Micronesia | 4 |
@@ -26,7 +26,7 @@ Indexed users: 11
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [heyesr](https://github.com/heyesr) | Richard | Federated States of Micronesia | 55 |
 | 2 | [toshioue](https://github.com/toshioue) | Hitoshi Oue | Pohnpei, Micronesia | 9 |
@@ -42,7 +42,7 @@ Indexed users: 11
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ProfessorCoal](https://github.com/ProfessorCoal) | Professor Coal | Volcano Heart Island, Micronesia, the Pacific Ocean | 29 |
 | 2 | [toshioue](https://github.com/toshioue) | Hitoshi Oue | Pohnpei, Micronesia | 5 |

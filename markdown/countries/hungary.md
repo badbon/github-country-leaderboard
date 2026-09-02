@@ -10,7 +10,7 @@ Indexed users: 11,203
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [moldovancsaba](https://github.com/moldovancsaba) | Moldovan Csaba Zoltan | Budapest | 13,011 |
 | 2 | [danko-david](https://github.com/danko-david) | David Danko | Hungary, Miskolc | 10,778 |
@@ -35,7 +35,7 @@ Indexed users: 11,203
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [bajzikgyuri](https://github.com/bajzikgyuri) | gyajzikburi | Budapest | 33,538 |
 | 2 | [realhidden](https://github.com/realhidden) | Zsombor Paróczi | Hungary | 26,116 |
@@ -60,7 +60,7 @@ Indexed users: 11,203
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [HelloZeroNet](https://github.com/HelloZeroNet) | ZeroNet | Budapest, Hungary | 2,280 |
 | 2 | [zkochan](https://github.com/zkochan) | Zoltan Kochan | Budapest 🇭🇺 | 2,219 |

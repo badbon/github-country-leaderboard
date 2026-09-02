@@ -10,7 +10,7 @@ Indexed users: 10,676
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [botantony](https://github.com/botantony) | Anton Melnikov | Belgrade, Serbia | 16,955 |
 | 2 | [Nek-12](https://github.com/Nek-12) | Nek.12 | Serbia | 8,975 |
@@ -35,7 +35,7 @@ Indexed users: 10,676
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kernel-memory-dump](https://github.com/kernel-memory-dump) | Sebastian Novak | Serbia | 26,443 |
 | 2 | [alifanov](https://github.com/alifanov) | Aleksandr Lifanov | Belgrade, Serbia | 22,551 |
@@ -60,7 +60,7 @@ Indexed users: 10,676
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [djvelimir](https://github.com/djvelimir) | Velimir Đurković | Novi Sad, Vojvodina, Serbia | 10,675 |
 | 2 | [m-jovanovic](https://github.com/m-jovanovic) | Milan Jovanović | Niš, Serbia | 5,076 |

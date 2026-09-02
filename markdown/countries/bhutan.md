@@ -10,7 +10,7 @@ Indexed users: 270
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 2,304 |
 | 2 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 1,419 |
@@ -35,7 +35,7 @@ Indexed users: 270
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering | Thimphu, Bhutan | 6,918 |
 | 2 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,526 |
@@ -60,7 +60,7 @@ Indexed users: 270
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | Thimphu, Bhutan | 146 |
 | 2 | [tsheringdendup77](https://github.com/tsheringdendup77) | Tshering Dendup | Thimphu, Bhutan | 101 |

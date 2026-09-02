@@ -10,7 +10,7 @@ Indexed users: 14,083
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Azathothas](https://github.com/Azathothas) | Ajam | Nepal | 23,887 |
 | 2 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | Nepal | 12,180 |
@@ -35,7 +35,7 @@ Indexed users: 14,083
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Azathothas](https://github.com/Azathothas) | Ajam | Nepal | 25,137 |
 | 2 | [comethrusws](https://github.com/comethrusws) | Basab Jha | Bhaktapur, Nepal | 21,433 |
@@ -60,7 +60,7 @@ Indexed users: 14,083
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [OracleBrain](https://github.com/OracleBrain) | Aashis Jha | Kathmandu, Nepal  | 16,073 |
 | 2 | [PremChapagain](https://github.com/PremChapagain) | Prem Chapagain | kathmandu | 14,021 |

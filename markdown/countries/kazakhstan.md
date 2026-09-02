@@ -10,7 +10,7 @@ Indexed users: 5,682
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 13,277 |
 | 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 10,764 |
@@ -35,7 +35,7 @@ Indexed users: 5,682
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [chelaxian](https://github.com/chelaxian) | ratu.sh | Kazakhstan | 126,195 |
 | 2 | [nstwfdev](https://github.com/nstwfdev) | Timur | Kazakhstan | 40,433 |
@@ -60,7 +60,7 @@ Indexed users: 5,682
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Nai64](https://github.com/Nai64) |  | Kazakhstan | 6,537 |
 | 2 | [0xAX](https://github.com/0xAX) | Alex Kuleshov | Kazakhstan, Astana | 3,657 |

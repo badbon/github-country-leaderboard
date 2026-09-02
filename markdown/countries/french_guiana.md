@@ -10,7 +10,7 @@ Indexed users: 36
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS | Amandafurt, French Guiana | 135 |
 | 2 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander | Elizabethberg, French Guiana | 135 |
@@ -35,7 +35,7 @@ Indexed users: 36
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto | French Amazonia (Guyane) | 1,381 |
 | 2 | [MelPeslier](https://github.com/MelPeslier) | Mel | Guyane  | 1,352 |
@@ -60,7 +60,7 @@ Indexed users: 36
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [roberthpereira](https://github.com/roberthpereira) | Roberth Pereira | French Guiana | 18 |
 | 2 | [emmanoe](https://github.com/emmanoe) | Emmanoe | Guyane, South - America | 14 |

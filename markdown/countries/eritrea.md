@@ -10,7 +10,7 @@ Indexed users: 17
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | Stockholm \|\| Daejeon \|\| Asmara | 119 |
 | 2 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | Eritrea | 2 |
@@ -32,7 +32,7 @@ Indexed users: 17
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | Stockholm \|\| Daejeon \|\| Asmara | 2,408 |
 | 2 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis | Asmara, Eritrea | 2,130 |
@@ -54,7 +54,7 @@ Indexed users: 17
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | Stockholm \|\| Daejeon \|\| Asmara | 62 |
 | 2 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | Eritrea | 7 |

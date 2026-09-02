@@ -10,7 +10,7 @@ Indexed users: 6,646
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 32,559 |
 | 2 | [anibalealvarezs](https://github.com/anibalealvarezs) | Aníbal Álvarez | Caracas, Venezuela | 5,485 |
@@ -35,7 +35,7 @@ Indexed users: 6,646
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 32,559 |
 | 2 | [diegoesolorzano](https://github.com/diegoesolorzano) | Diego E. Solórzano Z. | Venezuela | 13,732 |
@@ -60,7 +60,7 @@ Indexed users: 6,646
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [luisdgd07](https://github.com/luisdgd07) | Luis Gonzalez | Venezuela | 550 |
 | 2 | [jacksonpf1](https://github.com/jacksonpf1) | Jackson Paredes Ferranti | Venezuela | 405 |

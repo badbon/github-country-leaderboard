@@ -10,7 +10,7 @@ Indexed users: 24,096
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Sarmkadan](https://github.com/Sarmkadan) | Vladyslav Zaiets | Zurich, Switzerland | 43,833 |
 | 2 | [anulum](https://github.com/anulum) | Miroslav Šotek | Switzerland | 25,342 |
@@ -35,7 +35,7 @@ Indexed users: 24,096
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Sarmkadan](https://github.com/Sarmkadan) | Vladyslav Zaiets | Zurich, Switzerland | 44,532 |
 | 2 | [philippherzig](https://github.com/philippherzig) | Philipp Herzig | Zurich, Switzerland | 43,171 |
@@ -60,7 +60,7 @@ Indexed users: 24,096
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [IDouble](https://github.com/IDouble) | Alp ₿📈🚀🌕 | Alpen, Schweiz | 57,509 |
 | 2 | [mafintosh](https://github.com/mafintosh) | Mathias Buus | Switzerland | 6,378 |

@@ -10,7 +10,7 @@ Indexed users: 816
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [BeBecpp](https://github.com/BeBecpp) | Nero | Mongolia, Darkhan | 1,201 |
 | 2 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 1,112 |
@@ -35,7 +35,7 @@ Indexed users: 816
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [themuuln](https://github.com/themuuln) | themuuln | Ulaanbaatar, Mongolia | 590,285 |
 | 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 130,747 |
@@ -60,7 +60,7 @@ Indexed users: 816
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 1,663 |
 | 2 | [doljko](https://github.com/doljko) | Enkhbayar Doljinsuren | Ulaanbaatar, Mongolia | 509 |

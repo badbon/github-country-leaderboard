@@ -10,7 +10,7 @@ Indexed users: 3
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ktpnn](https://github.com/ktpnn) | sax | Yaren district, Nauru | 0 |
 | 2 | [nutsi](https://github.com/nutsi) |  | Yaren | 0 |
@@ -18,7 +18,7 @@ Indexed users: 3
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ktpnn](https://github.com/ktpnn) | sax | Yaren district, Nauru | 0 |
 | 2 | [nutsi](https://github.com/nutsi) |  | Yaren | 0 |
@@ -26,7 +26,7 @@ Indexed users: 3
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [nutsi](https://github.com/nutsi) |  | Yaren | 15 |
 | 2 | [ktpnn](https://github.com/ktpnn) | sax | Yaren district, Nauru | 1 |

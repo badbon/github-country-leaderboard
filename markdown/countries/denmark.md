@@ -10,7 +10,7 @@ Indexed users: 19,304
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [fpihl](https://github.com/fpihl) | Felix | Denmark | 1,368,442 |
 | 2 | [kjuulh](https://github.com/kjuulh) | Kasper Juul Hermansen | Aarhus, Denmark | 108,572 |
@@ -35,7 +35,7 @@ Indexed users: 19,304
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [fpihl](https://github.com/fpihl) | Felix | Denmark | 1,368,442 |
 | 2 | [kjuulh](https://github.com/kjuulh) | Kasper Juul Hermansen | Aarhus, Denmark | 112,805 |
@@ -60,7 +60,7 @@ Indexed users: 19,304
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [SebLague](https://github.com/SebLague) | Sebastian Lague | Denmark | 24,341 |
 | 2 | [jdah](https://github.com/jdah) | jdh | Denmark | 7,253 |

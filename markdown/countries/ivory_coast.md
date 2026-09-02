@@ -10,7 +10,7 @@ Indexed users: 490
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 3,702 |
 | 2 | [siguici](https://github.com/siguici) | SIGUI Kessé Emmanuel | Abidjan, Ivory Coast | 901 |
@@ -35,7 +35,7 @@ Indexed users: 490
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 9,384 |
 | 2 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 8,855 |
@@ -60,7 +60,7 @@ Indexed users: 490
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Bleu-Yves-Sopoude](https://github.com/Bleu-Yves-Sopoude) | Bleu Yves Sopoude | Ivory Coast | 363 |
 | 2 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 252 |

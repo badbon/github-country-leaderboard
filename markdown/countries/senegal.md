@@ -10,7 +10,7 @@ Indexed users: 1,367
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 3,173 |
 | 2 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,475 |
@@ -35,7 +35,7 @@ Indexed users: 1,367
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 9,050 |
 | 2 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang | Saint-Louis, Senegal | 8,278 |
@@ -60,7 +60,7 @@ Indexed users: 1,367
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ManuSquall](https://github.com/ManuSquall) | Charles Emmanuel S. Ndiaye | Dakar, Senegal | 528 |
 | 2 | [ibrahima92](https://github.com/ibrahima92) | Ibrahima Ndaw | Senegal | 319 |

@@ -10,7 +10,7 @@ Indexed users: 21
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 198 |
 | 2 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 160 |
@@ -35,7 +35,7 @@ Indexed users: 21
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente H. Mba | Equatorial Guinea | 2,905 |
 | 2 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 280 |
@@ -60,7 +60,7 @@ Indexed users: 21
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [gracycode](https://github.com/gracycode) | Chidimma Grace | Malabo, Equatorial Guinea | 55 |
 | 2 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 13 |

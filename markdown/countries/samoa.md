@@ -10,7 +10,7 @@ Indexed users: 19
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 298 |
 | 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 218 |
@@ -34,7 +34,7 @@ Indexed users: 19
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,350 |
 | 2 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 1,257 |
@@ -58,7 +58,7 @@ Indexed users: 19
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 33 |
 | 2 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 13 |

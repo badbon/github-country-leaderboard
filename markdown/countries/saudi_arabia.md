@@ -10,7 +10,7 @@ Indexed users: 7,704
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Saleh7](https://github.com/Saleh7) | ~/Saleh | Kingdom of Saudi Arabia | 240,766 |
 | 2 | [AbdullahMu](https://github.com/AbdullahMu) | Abdullah AlGhamdi | Riyadh, Saudi Arabia | 130,667 |
@@ -35,7 +35,7 @@ Indexed users: 7,704
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Saleh7](https://github.com/Saleh7) | ~/Saleh | Kingdom of Saudi Arabia | 390,389 |
 | 2 | [AbdullahMu](https://github.com/AbdullahMu) | Abdullah AlGhamdi | Riyadh, Saudi Arabia | 130,667 |
@@ -60,7 +60,7 @@ Indexed users: 7,704
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Elbagoury](https://github.com/Elbagoury) | Elbagoury | Riyadh, Saudi Arabia  | 1,535 |
 | 2 | [0xfff0800](https://github.com/0xfff0800) | FaLaH | Saudi Arabia | 1,438 |

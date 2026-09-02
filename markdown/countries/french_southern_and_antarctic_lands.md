@@ -10,7 +10,7 @@ Indexed users: 4
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [seeschloss](https://github.com/seeschloss) | SeeSchloß | Port-aux-Français | 38 |
 | 2 | [Berlinlight](https://github.com/Berlinlight) | Dmitry | French southern territories | 1 |
@@ -19,7 +19,7 @@ Indexed users: 4
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [seeschloss](https://github.com/seeschloss) | SeeSchloß | Port-aux-Français | 38 |
 | 2 | [Berlinlight](https://github.com/Berlinlight) | Dmitry | French southern territories | 1 |
@@ -28,7 +28,7 @@ Indexed users: 4
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [seeschloss](https://github.com/seeschloss) | SeeSchloß | Port-aux-Français | 14 |
 | 2 | [Berlinlight](https://github.com/Berlinlight) | Dmitry | French southern territories | 1 |

@@ -10,7 +10,7 @@ Indexed users: 3
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [awise-dorensbach](https://github.com/awise-dorensbach) | awise-dorensbach | Tokelau | 2 |
 | 2 | [DaczoDenes](https://github.com/DaczoDenes) |  | Tokelau | 0 |
@@ -18,7 +18,7 @@ Indexed users: 3
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [awise-dorensbach](https://github.com/awise-dorensbach) | awise-dorensbach | Tokelau | 2 |
 | 2 | [DaczoDenes](https://github.com/DaczoDenes) |  | Tokelau | 0 |
@@ -26,7 +26,7 @@ Indexed users: 3
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [duboviy](https://github.com/duboviy) | Eugene Duboviy | Tokelau | 759 |
 | 2 | [DaczoDenes](https://github.com/DaczoDenes) |  | Tokelau | 2 |

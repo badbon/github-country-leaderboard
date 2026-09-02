@@ -10,7 +10,7 @@ Indexed users: 31
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mateitheking](https://github.com/mateitheking) | Ami | Vatican (The Holy See) | 1,165 |
 | 2 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 86 |
@@ -35,7 +35,7 @@ Indexed users: 31
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mateitheking](https://github.com/mateitheking) | Ami | Vatican (The Holy See) | 1,165 |
 | 2 | [kubonnt](https://github.com/kubonnt) |  | Vatican City | 466 |
@@ -60,7 +60,7 @@ Indexed users: 31
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [DMMCA](https://github.com/DMMCA) | Ninj4Pri3st | Vatican City | 23 |
 | 2 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | Vatican City State | 23 |

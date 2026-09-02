@@ -10,7 +10,7 @@ Indexed users: 10
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 883 |
 | 2 | [encrize](https://github.com/encrize) | encrize | Svalbard og Jan Mayen | 331 |
@@ -25,7 +25,7 @@ Indexed users: 10
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 1,001 |
 | 2 | [encrize](https://github.com/encrize) | encrize | Svalbard og Jan Mayen | 564 |
@@ -40,7 +40,7 @@ Indexed users: 10
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 106 |
 | 2 | [JennyJohnsby](https://github.com/JennyJohnsby) | Jenny Johnsby | Longyearbyen | 12 |

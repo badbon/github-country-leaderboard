@@ -10,7 +10,7 @@ Indexed users: 2,045
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy | Tanzania | 20,806 |
 | 2 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 11,853 |
@@ -35,7 +35,7 @@ Indexed users: 2,045
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mpinzile](https://github.com/mpinzile) | David Mpinzile | Arusha, Tanzania  | 128,021 |
 | 2 | [KaReeeeeeeeEM](https://github.com/KaReeeeeeeeEM) | _running_program |  Dar-es-salaam, Tanzania | 92,238 |
@@ -60,7 +60,7 @@ Indexed users: 2,045
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [dexflare](https://github.com/dexflare) | Dexflare Network | Tanzania | 2,491 |
 | 2 | [nyenza](https://github.com/nyenza) | Agrey Nyenza | Iringa, Tanzania | 1,460 |

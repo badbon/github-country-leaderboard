@@ -10,7 +10,7 @@ Indexed users: 35
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 376 |
 | 2 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 277 |
@@ -35,7 +35,7 @@ Indexed users: 35
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 2,916 |
 | 2 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 2,798 |
@@ -60,7 +60,7 @@ Indexed users: 35
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | Saint Lucia | 145 |
 | 2 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 49 |

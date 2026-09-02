@@ -10,7 +10,7 @@ Indexed users: 1,289
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 10,398 |
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,880 |
@@ -35,7 +35,7 @@ Indexed users: 1,289
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | Kingston, Jamaica  | 43,079 |
 | 2 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 11,040 |
@@ -60,7 +60,7 @@ Indexed users: 1,289
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [trevoirwilliams](https://github.com/trevoirwilliams) | Trevoir Williams | Jamaica | 1,458 |
 | 2 | [jed](https://github.com/jed) | Jed Schmidt | Kingston, NY | 1,144 |

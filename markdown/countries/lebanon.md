@@ -10,7 +10,7 @@ Indexed users: 2,579
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 3,991 |
 | 2 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 3,188 |
@@ -35,7 +35,7 @@ Indexed users: 2,579
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [YoussofH](https://github.com/YoussofH) | Youssof Hammoud | Beirut, Lebanon | 23,135 |
 | 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 12,866 |
@@ -60,7 +60,7 @@ Indexed users: 2,579
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [SaraSoueidan](https://github.com/SaraSoueidan) | Sara Soueidan | Lebanon | 4,398 |
 | 2 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,870 |

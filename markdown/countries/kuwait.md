@@ -10,7 +10,7 @@ Indexed users: 802
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 4,685 |
 | 2 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,543 |
@@ -35,7 +35,7 @@ Indexed users: 802
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,136 |
 | 2 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 5,483 |
@@ -60,7 +60,7 @@ Indexed users: 802
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [NYAN-x-CAT](https://github.com/NYAN-x-CAT) | NYAN CAT | Kuwait | 3,171 |
 | 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB | Kuwait, Kuwait City | 446 |

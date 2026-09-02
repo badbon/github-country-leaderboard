@@ -10,7 +10,7 @@ Indexed users: 3,313
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 11,393 |
 | 2 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,476 |
@@ -35,7 +35,7 @@ Indexed users: 3,313
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ibernabel](https://github.com/ibernabel) | Idequel Bernabel | Dominican Republic | 15,916 |
 | 2 | [deuriib](https://github.com/deuriib) | Deuri Vasquez | Santo Domingo, R. D. | 15,371 |
@@ -60,7 +60,7 @@ Indexed users: 3,313
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [alanhamlett](https://github.com/alanhamlett) | Alan Hamlett | Dominican Republic | 5,137 |
 | 2 | [johansitoweb](https://github.com/johansitoweb) | Johan Antonio | Dominican republic | 932 |

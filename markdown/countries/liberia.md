@@ -10,7 +10,7 @@ Indexed users: 212
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,310 |
 | 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,038 |
@@ -35,7 +35,7 @@ Indexed users: 212
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 6,374 |
 | 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,065 |
@@ -60,7 +60,7 @@ Indexed users: 212
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 310 |
 | 2 | [BugHunter-SN](https://github.com/BugHunter-SN) | Samuel E. H. Nimely |  Monrovia Liberia. West Africa | 167 |

@@ -10,7 +10,7 @@ Indexed users: 1,349
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia  | 9,789 |
 | 2 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 5,942 |
@@ -35,7 +35,7 @@ Indexed users: 1,349
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | Lusaka, Zambia | 11,442 |
 | 2 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia  | 10,291 |
@@ -60,7 +60,7 @@ Indexed users: 1,349
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [malgamves](https://github.com/malgamves) | Daniel Madalitso Phiri | Lusaka, Zambia | 432 |
 | 2 | [Billypeterlennards](https://github.com/Billypeterlennards) | Billy Peter Munyenyembe | Lusaka,Zambia | 313 |

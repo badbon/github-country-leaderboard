@@ -10,7 +10,7 @@ Indexed users: 61
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 1,233 |
 | 2 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 1,041 |
@@ -35,7 +35,7 @@ Indexed users: 61
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 5,041 |
 | 2 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 4,081 |
@@ -60,7 +60,7 @@ Indexed users: 61
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 614 |
 | 2 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 522 |

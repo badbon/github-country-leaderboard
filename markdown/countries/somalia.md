@@ -10,7 +10,7 @@ Indexed users: 867
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | somalia | 5,460 |
 | 2 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | Mogadisho, Somalia | 3,367 |
@@ -35,7 +35,7 @@ Indexed users: 867
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman | Mogadishu, Banaadir, Somalia | 7,329 |
 | 2 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | Mogadishu, Somalia | 6,610 |
@@ -60,7 +60,7 @@ Indexed users: 867
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [CanoGel](https://github.com/CanoGel) | Ahmad Isse Farah | Mogadishu  | 794 |
 | 2 | [omartood](https://github.com/omartood) | Omar Tood | Somalia | 574 |

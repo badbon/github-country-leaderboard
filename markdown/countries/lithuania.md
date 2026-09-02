@@ -10,7 +10,7 @@ Indexed users: 5,413
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Dambre](https://github.com/Dambre) | Lukas | Lithuania | 12,246 |
 | 2 | [goleaf](https://github.com/goleaf) | Andrej Prus | Lithuania, Vilnius | 10,091 |
@@ -35,7 +35,7 @@ Indexed users: 5,413
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kiznis](https://github.com/kiznis) | Mindaugas Kiznis | Lithuania | 99,902 |
 | 2 | [vytautas-bunevicius](https://github.com/vytautas-bunevicius) | Vytautas | Vilnius | 19,608 |
@@ -60,7 +60,7 @@ Indexed users: 5,413
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [LaravelDaily](https://github.com/LaravelDaily) | Laravel Daily | Vilnius, Lithuania / London, UK | 7,943 |
 | 2 | [KostasSliazas](https://github.com/KostasSliazas) | Kostas | Lithuania | 3,163 |

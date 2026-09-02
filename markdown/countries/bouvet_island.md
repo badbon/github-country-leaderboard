@@ -10,7 +10,7 @@ Indexed users: 6
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [UndefProphet](https://github.com/UndefProphet) | Prophet | Bouvet Island | 225 |
 | 2 | [hexahigh](https://github.com/hexahigh) | Simon Bråten | Bouvet Island | 187 |
@@ -21,7 +21,7 @@ Indexed users: 6
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [UndefProphet](https://github.com/UndefProphet) | Prophet | Bouvet Island | 225 |
 | 2 | [hexahigh](https://github.com/hexahigh) | Simon Bråten | Bouvet Island | 187 |
@@ -32,7 +32,7 @@ Indexed users: 6
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [KirarinSnow](https://github.com/KirarinSnow) | KirarinSnow | Bouvet Island | 26 |
 | 2 | [PythonshellDebugwindow](https://github.com/PythonshellDebugwindow) | PythonshellDebugwindow | Bouvet Island | 12 |

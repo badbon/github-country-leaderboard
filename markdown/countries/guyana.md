@@ -10,7 +10,7 @@ Indexed users: 187
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 3,972 |
 | 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,736 |
@@ -35,7 +35,7 @@ Indexed users: 187
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 6,107 |
 | 2 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 5,339 |
@@ -60,7 +60,7 @@ Indexed users: 187
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [xwings](https://github.com/xwings) | xwings | Georgetown, Penang | 331 |
 | 2 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 250 |

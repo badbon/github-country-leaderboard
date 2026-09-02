@@ -10,7 +10,7 @@ Indexed users: 6
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ob-aion](https://github.com/ob-aion) | OB | Western Sahara | 598 |
 | 2 | [suzuya1331](https://github.com/suzuya1331) | Hassan mansour | Laayoune, Western Sahara | 26 |
@@ -21,7 +21,7 @@ Indexed users: 6
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [suzuya1331](https://github.com/suzuya1331) | Hassan mansour | Laayoune, Western Sahara | 4,318 |
 | 2 | [ob-aion](https://github.com/ob-aion) | OB | Western Sahara | 1,008 |
@@ -32,7 +32,7 @@ Indexed users: 6
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [suzuya1331](https://github.com/suzuya1331) | Hassan mansour | Laayoune, Western Sahara | 27 |
 | 2 | [fosterlee](https://github.com/fosterlee) | Foster Lee |  Sahrawi Arab Democratic Republic | 17 |

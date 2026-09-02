@@ -10,7 +10,7 @@ Indexed users: 96
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,126 |
 | 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,483 |
@@ -35,7 +35,7 @@ Indexed users: 96
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 8,334 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,126 |
@@ -60,7 +60,7 @@ Indexed users: 96
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 579 |
 | 2 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 86 |

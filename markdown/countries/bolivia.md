@@ -10,7 +10,7 @@ Indexed users: 1,796
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 25,275 |
 | 2 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez | La Paz, Bolivia | 2,706 |
@@ -35,7 +35,7 @@ Indexed users: 1,796
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 27,294 |
 | 2 | [rp4ri](https://github.com/rp4ri) | Toborochi | Bolivia | 6,975 |
@@ -60,7 +60,7 @@ Indexed users: 1,796
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 2,327 |
 | 2 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,400 |

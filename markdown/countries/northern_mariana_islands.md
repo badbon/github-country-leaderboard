@@ -10,7 +10,7 @@ Indexed users: 13
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [chris-yng](https://github.com/chris-yng) | Christopher Young | Sotobury, Northern Mariana Islands | 315 |
 | 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 44 |
@@ -28,7 +28,7 @@ Indexed users: 13
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [chris-yng](https://github.com/chris-yng) | Christopher Young | Sotobury, Northern Mariana Islands | 315 |
 | 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 292 |
@@ -46,7 +46,7 @@ Indexed users: 13
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [donnaada](https://github.com/donnaada) | Donna Ada | Saipan, MP | 27 |
 | 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 25 |

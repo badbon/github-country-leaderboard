@@ -10,7 +10,7 @@ Indexed users: 736
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 4,304 |
 | 2 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 3,772 |
@@ -35,7 +35,7 @@ Indexed users: 736
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri | Bahrain | 81,703 |
 | 2 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 10,049 |
@@ -60,7 +60,7 @@ Indexed users: 736
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [walidshaari](https://github.com/walidshaari) | Walid Shaari CNJ | Bahrain | 715 |
 | 2 | [naweed](https://github.com/naweed) | Naweed Akram | Bahrain | 243 |

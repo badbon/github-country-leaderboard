@@ -10,7 +10,7 @@ Indexed users: 911
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 8,453 |
 | 2 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,160 |
@@ -35,7 +35,7 @@ Indexed users: 911
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 10,405 |
 | 2 | [Hatshepsuth](https://github.com/Hatshepsuth) | Katja | Montenegro | 7,830 |
@@ -60,7 +60,7 @@ Indexed users: 911
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [therustmonk](https://github.com/therustmonk) | Denis Kolodin | Montenegro | 791 |
 | 2 | [dchest](https://github.com/dchest) | Dmitry Chestnykh | Montenegro | 556 |

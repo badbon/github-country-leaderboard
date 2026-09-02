@@ -10,7 +10,7 @@ Indexed users: 10,951
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [kudima03](https://github.com/kudima03) | Dmitry Kurochkin | Minsk, Belarus | 13,765 |
 | 2 | [dementorsss](https://github.com/dementorsss) | Dmitry | Minsk | 4,909 |
@@ -35,7 +35,7 @@ Indexed users: 10,951
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kudima03](https://github.com/kudima03) | Dmitry Kurochkin | Minsk, Belarus | 14,885 |
 | 2 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 14,416 |
@@ -60,7 +60,7 @@ Indexed users: 10,951
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [BEPb](https://github.com/BEPb) | Andrej Marinchenko | Belarus | 26,741 |
 | 2 | [YauhenKavalchuk](https://github.com/YauhenKavalchuk) | Yauhen Kavalchuk | Belarus, Minsk | 1,928 |

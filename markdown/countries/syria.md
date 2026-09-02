@@ -10,7 +10,7 @@ Indexed users: 1,477
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 3,551 |
 | 2 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 2,974 |
@@ -35,7 +35,7 @@ Indexed users: 1,477
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 3,895 |
 | 2 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi | Homs, Syria | 3,880 |
@@ -60,7 +60,7 @@ Indexed users: 1,477
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [meory101](https://github.com/meory101) | Nour Othman | Damascus Syria | 735 |
 | 2 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Damascus, Syria | 312 |

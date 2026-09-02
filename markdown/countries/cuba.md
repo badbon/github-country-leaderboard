@@ -10,7 +10,7 @@ Indexed users: 1,298
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 15,947 |
 | 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 7,193 |
@@ -35,7 +35,7 @@ Indexed users: 1,298
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 20,408 |
 | 2 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 13,269 |
@@ -60,7 +60,7 @@ Indexed users: 1,298
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 450 |
 | 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo | Cuba | 392 |

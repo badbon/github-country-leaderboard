@@ -10,7 +10,7 @@ Indexed users: 81
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 725 |
 | 2 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 628 |
@@ -35,7 +35,7 @@ Indexed users: 81
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 2,432 |
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 2,117 |
@@ -60,7 +60,7 @@ Indexed users: 81
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Sannabs](https://github.com/Sannabs) | Sanna BS Jammeh | Gambia banjul | 38 |
 | 2 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 34 |

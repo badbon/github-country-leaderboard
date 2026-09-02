@@ -10,7 +10,7 @@ Indexed users: 475
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 1,857 |
 | 2 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,051 |
@@ -35,7 +35,7 @@ Indexed users: 475
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 13,882 |
 | 2 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 6,457 |
@@ -60,7 +60,7 @@ Indexed users: 475
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 216 |
 | 2 | [Justin-sketch](https://github.com/Justin-sketch) | Gabriel Kambinda Justinu | windhoek,namibia | 183 |

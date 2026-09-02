@@ -10,7 +10,7 @@ Indexed users: 6,693
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mohammedsbd](https://github.com/mohammedsbd) | Mohammed Salih | Addis Ababa | 8,502 |
 | 2 | [Bereket-Ketema](https://github.com/Bereket-Ketema) | Bereket Ketema | Adama, Ethiopia | 4,539 |
@@ -35,7 +35,7 @@ Indexed users: 6,693
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Ananya-Addisu](https://github.com/Ananya-Addisu) | Ananya Addisu | Addis Ababa, Ethiopia | 40,973 |
 | 2 | [Micky373](https://github.com/Micky373) | Michael Tamirie | Ethiopia, Addis Ababa | 22,330 |
@@ -60,7 +60,7 @@ Indexed users: 6,693
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Ambesawi](https://github.com/Ambesawi) | Aman Brhane | Addis Ababa | 3,632 |
 | 2 | [Makitey](https://github.com/Makitey) | Makda Abraham | Addis Ababa | 2,881 |

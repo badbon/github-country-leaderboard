@@ -10,7 +10,7 @@ Indexed users: 256
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 6,547 |
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 1,003 |
@@ -35,7 +35,7 @@ Indexed users: 256
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 6,547 |
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,737 |
@@ -60,7 +60,7 @@ Indexed users: 256
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 153 |
 | 2 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | Pittsburgh, PA \| Brunei | 111 |

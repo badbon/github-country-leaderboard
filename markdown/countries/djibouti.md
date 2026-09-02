@@ -10,7 +10,7 @@ Indexed users: 55
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Djibouti | 265 |
 | 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | Djibouti | 220 |
@@ -35,7 +35,7 @@ Indexed users: 55
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Djibouti | 4,019 |
 | 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | Djibouti | 1,382 |
@@ -60,7 +60,7 @@ Indexed users: 55
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) | Djibouti | 25 |
 | 2 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Djibouti | 21 |

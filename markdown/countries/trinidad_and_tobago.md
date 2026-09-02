@@ -10,7 +10,7 @@ Indexed users: 257
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [snorkpete](https://github.com/snorkpete) | Kion Stephen | Trinidad and Tobago | 1,420 |
 | 2 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | Trinidad and Tobago | 1,205 |
@@ -35,7 +35,7 @@ Indexed users: 257
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 9,280 |
 | 2 | [DarionHernandez](https://github.com/DarionHernandez) | Darion Hernandez | Trinidad and Tobago | 4,997 |
@@ -60,7 +60,7 @@ Indexed users: 257
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 1,616 |
 | 2 | [rajeevratan84](https://github.com/rajeevratan84) | Rajeev Ratan | UK, Trinidad and Tobago | 193 |

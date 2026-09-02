@@ -10,7 +10,7 @@ Indexed users: 1,002
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 82,157 |
 | 2 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 4,792 |
@@ -35,7 +35,7 @@ Indexed users: 1,002
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 82,434 |
 | 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Muscat, Oman | 31,097 |
@@ -60,7 +60,7 @@ Indexed users: 1,002
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [pylover](https://github.com/pylover) | Vahid | Muscat, Oman | 422 |
 | 2 | [salim3dd](https://github.com/salim3dd) | Salim3dd | Sultanate Of Oman | 283 |

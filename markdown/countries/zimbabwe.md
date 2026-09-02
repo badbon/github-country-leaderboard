@@ -10,7 +10,7 @@ Indexed users: 1,661
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mhodieknowledge](https://github.com/mhodieknowledge) | Knowledge Mhodi | Bulawayo, Zimbabwe | 14,818 |
 | 2 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 7,148 |
@@ -35,7 +35,7 @@ Indexed users: 1,661
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 30,020 |
 | 2 | [mhodieknowledge](https://github.com/mhodieknowledge) | Knowledge Mhodi | Bulawayo, Zimbabwe | 14,818 |
@@ -60,7 +60,7 @@ Indexed users: 1,661
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,306 |
 | 2 | [kenjiwizard](https://github.com/kenjiwizard) | Kenji | Harare | 1,201 |

@@ -10,7 +10,7 @@ Indexed users: 66
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 1,683 |
 | 2 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 1,006 |
@@ -35,7 +35,7 @@ Indexed users: 66
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 11,716 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 4,786 |
@@ -60,7 +60,7 @@ Indexed users: 66
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 196 |
 | 2 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng | Føroyar | 125 |

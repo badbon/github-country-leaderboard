@@ -10,7 +10,7 @@ Indexed users: 33,081
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [paulosabayomi](https://github.com/paulosabayomi) | Abayomi Amusa | Lagos, Nigeria | 41,408 |
 | 2 | [Wealthometer](https://github.com/Wealthometer) | Wealth Hajoh | Nigeria | 30,918 |
@@ -35,7 +35,7 @@ Indexed users: 33,081
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [desmondominic](https://github.com/desmondominic) | UKEH CHINEDU DESMOND | Nigeria | 110,107 |
 | 2 | [Wealthometer](https://github.com/Wealthometer) | Wealth Hajoh | Nigeria | 43,303 |
@@ -60,7 +60,7 @@ Indexed users: 33,081
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Davidevlops](https://github.com/Davidevlops) | David | Lagos, Nigeria | 5,312 |
 | 2 | [calistus-igwilo](https://github.com/calistus-igwilo) | Calistus Igwilo | Nigeria | 3,031 |

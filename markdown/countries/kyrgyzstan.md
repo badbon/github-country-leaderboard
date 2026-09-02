@@ -10,7 +10,7 @@ Indexed users: 2,466
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 11,809 |
 | 2 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 3,485 |
@@ -35,7 +35,7 @@ Indexed users: 2,466
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 20,158 |
 | 2 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 11,809 |
@@ -60,7 +60,7 @@ Indexed users: 2,466
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [temirovazat](https://github.com/temirovazat) | Temirov Azat | Bishkek, Kyrgyzstan | 2,219 |
 | 2 | [Maksbicoin](https://github.com/Maksbicoin) | Cryptopunk13(soon1) | Kyrgyzstan | 380 |

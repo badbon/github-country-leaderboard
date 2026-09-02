@@ -10,7 +10,7 @@ Indexed users: 2,510
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 24,409 |
 | 2 | [Kamuku](https://github.com/Kamuku) | Avelino Rufino | Luanda, Angola | 2,760 |
@@ -35,7 +35,7 @@ Indexed users: 2,510
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 25,545 |
 | 2 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Angola, Luanda | 10,715 |
@@ -60,7 +60,7 @@ Indexed users: 2,510
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ismaely](https://github.com/ismaely) | Gunza Ismael | Luanda - Angola | 1,030 |
 | 2 | [MarcioQuimbundo](https://github.com/MarcioQuimbundo) | Márcio Quimbundo | Luanda, Angola | 600 |

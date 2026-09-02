@@ -10,7 +10,7 @@ Indexed users: 5
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Volene](https://github.com/Volene) |  | Saint Kitts and Nevis | 3 |
 | 2 | [tbxcorp](https://github.com/tbxcorp) | TBX_admin | Saint Kitts and Nevis | 1 |
@@ -20,7 +20,7 @@ Indexed users: 5
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [RonaldCrb](https://github.com/RonaldCrb) | Ron Alonzo | St. Kitts and Nevis, Basseterre | 459 |
 | 2 | [Volene](https://github.com/Volene) |  | Saint Kitts and Nevis | 18 |
@@ -30,7 +30,7 @@ Indexed users: 5
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [RonaldCrb](https://github.com/RonaldCrb) | Ron Alonzo | St. Kitts and Nevis, Basseterre | 28 |
 | 2 | [kielrajames](https://github.com/kielrajames) | Kiel R A James | Basseterre, St. Kitts | 6 |

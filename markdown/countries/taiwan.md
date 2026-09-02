@@ -10,7 +10,7 @@ Indexed users: 22,030
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [apan1121](https://github.com/apan1121) | Byron | Taipei, Taiwan | 64,092 |
 | 2 | [dennislee928](https://github.com/dennislee928) | Dildo Baggins(假屌巴金斯，中土世界第一巨屌) | taipei | 38,977 |
@@ -35,7 +35,7 @@ Indexed users: 22,030
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [apan1121](https://github.com/apan1121) | Byron | Taipei, Taiwan | 64,092 |
 | 2 | [yarencheng](https://github.com/yarencheng) | Aren Chen | Taiwan | 43,163 |
@@ -60,7 +60,7 @@ Indexed users: 22,030
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [topjohnwu](https://github.com/topjohnwu) | John Wu | US / Taiwan | 12,051 |
 | 2 | [vinta](https://github.com/vinta) | Vinta Chen | Taiwan | 9,648 |

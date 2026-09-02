@@ -10,7 +10,7 @@ Indexed users: 486
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,646 |
 | 2 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 1,277 |
@@ -35,7 +35,7 @@ Indexed users: 486
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Burkina-Faso,Ouagadougou | 6,852 |
 | 2 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 4,097 |
@@ -60,7 +60,7 @@ Indexed users: 486
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Yonaba](https://github.com/Yonaba) | Roland | Ouagadougou (Burkina Faso) | 377 |
 | 2 | [Will-create](https://github.com/Will-create) | Louis Bertson | Burkina Faso | 169 |

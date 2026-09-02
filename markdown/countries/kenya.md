@@ -10,7 +10,7 @@ Indexed users: 23,992
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 243,766 |
 | 2 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger | Savior, kenya | 146,168 |
@@ -35,7 +35,7 @@ Indexed users: 23,992
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [CodeWithEugene](https://github.com/CodeWithEugene) | Eugene Mutembei | Nairobi, Kenya | 993,626 |
 | 2 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 252,261 |
@@ -60,7 +60,7 @@ Indexed users: 23,992
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [JohnMwendwa](https://github.com/JohnMwendwa) | John Mwendwa | Nairobi, Kenya | 40,826 |
 | 2 | [peter-kimanzi](https://github.com/peter-kimanzi) | Peter Kimanzi | Nairobi | 16,927 |

@@ -10,7 +10,7 @@ Indexed users: 215
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,641 |
 | 2 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 1,513 |
@@ -35,7 +35,7 @@ Indexed users: 215
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [orimarti](https://github.com/orimarti) | Oriol Martí | Andorra | 11,102 |
 | 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | Andorra la Vella | 9,916 |
@@ -60,7 +60,7 @@ Indexed users: 215
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AlexAltea](https://github.com/AlexAltea) | Alexandro Sanchez Bach | Les Escaldes, Andorra | 951 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 866 |

@@ -10,7 +10,7 @@ Indexed users: 357
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Malé, Maldives | 1,653 |
 | 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Male', Maldives | 1,334 |
@@ -35,7 +35,7 @@ Indexed users: 357
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 10,937 |
 | 2 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 7,579 |
@@ -60,7 +60,7 @@ Indexed users: 357
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [CustomIcon](https://github.com/CustomIcon) | ポキ | Male, Maldives | 203 |
 | 2 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 168 |

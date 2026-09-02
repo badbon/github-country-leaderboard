@@ -10,7 +10,7 @@ Indexed users: 18,409
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,137 |
 | 2 | [phmatray](https://github.com/phmatray) | Philippe Matray | Belgium | 12,873 |
@@ -35,7 +35,7 @@ Indexed users: 18,409
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mrtus](https://github.com/mrtus) | Michiel Devriese | Belgium | 38,107 |
 | 2 | [welle](https://github.com/welle) | Welle Charlotte | Belgium | 29,673 |
@@ -60,7 +60,7 @@ Indexed users: 18,409
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [folke](https://github.com/folke) | Folke Lemaitre | Ghent, Belgium | 10,564 |
 | 2 | [anthdm](https://github.com/anthdm) | Anthony De Meulemeester | Belgium | 6,283 |

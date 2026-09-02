@@ -10,7 +10,7 @@ Indexed users: 21
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [b-tupiti](https://github.com/b-tupiti) | Brandon Ryan Tupiti | Honiara, Solomon Islands | 779 |
 | 2 | [gsaemane](https://github.com/gsaemane) | Geolynx Saemane | Solomon Islands | 321 |
@@ -35,7 +35,7 @@ Indexed users: 21
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 7,752 |
 | 2 | [filimoni](https://github.com/filimoni) | filimoni | Honiara | 3,569 |
@@ -60,7 +60,7 @@ Indexed users: 21
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 32 |
 | 2 | [masachi](https://github.com/masachi) | YukinoshitaKyaru | Solomon Islands | 25 |

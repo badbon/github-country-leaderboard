@@ -10,7 +10,7 @@ Indexed users: 24,679
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [bcoderpro213](https://github.com/bcoderpro213) | RustDesk | Singapore | 82,585 |
 | 2 | [luvettadakara](https://github.com/luvettadakara) | Praise Ogunleye | Singapore | 63,115 |
@@ -35,7 +35,7 @@ Indexed users: 24,679
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [u1i](https://github.com/u1i) | Uli | Singapore | 1,751,042 |
 | 2 | [QC-L](https://github.com/QC-L) | QiChang Li | Singapore | 101,475 |
@@ -60,7 +60,7 @@ Indexed users: 24,679
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [yyx990803](https://github.com/yyx990803) | Evan You | Singapore | 109,285 |
 | 2 | [DIYgod](https://github.com/DIYgod) | DIYgod | Singapore | 15,944 |

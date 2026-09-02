@@ -10,7 +10,7 @@ Indexed users: 19
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN | Saint Pierre 97410 (La Réunion) | 259 |
 | 2 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 172 |
@@ -34,7 +34,7 @@ Indexed users: 19
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 833 |
 | 2 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN | Saint Pierre 97410 (La Réunion) | 259 |
@@ -58,7 +58,7 @@ Indexed users: 19
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [aurelien-baudet](https://github.com/aurelien-baudet) | Aurélien Baudet | Saint Pierre, La Réunion | 8 |
 | 2 | [gitkyo](https://github.com/gitkyo) | Pier | Saint-Pierre, La Réunion | 8 |

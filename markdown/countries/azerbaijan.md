@@ -10,7 +10,7 @@ Indexed users: 5,089
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [shahinpr](https://github.com/shahinpr) | Shahin Aliyev | Azerbaijan | 951,933 |
 | 2 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev | Baku | 6,504 |
@@ -35,7 +35,7 @@ Indexed users: 5,089
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [shahinpr](https://github.com/shahinpr) | Shahin Aliyev | Azerbaijan | 951,933 |
 | 2 | [martian56](https://github.com/martian56) | Martian | Azerbaijan | 17,710 |
@@ -60,7 +60,7 @@ Indexed users: 5,089
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [eldarlrd](https://github.com/eldarlrd) | Eldar Paşazadə | Baku, Azerbaijan | 991 |
 | 2 | [gojayevmurad](https://github.com/gojayevmurad) | Murad Gojayev | Baku, Azerbaijan | 941 |

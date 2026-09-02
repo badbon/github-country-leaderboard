@@ -10,7 +10,7 @@ Indexed users: 469
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,014 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 2,833 |
@@ -35,7 +35,7 @@ Indexed users: 469
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,094 |
 | 2 | [phanijsp](https://github.com/phanijsp) |  | Antarctica | 6,033 |
@@ -60,7 +60,7 @@ Indexed users: 469
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [adam-maj](https://github.com/adam-maj) | Adam Majmudar | South Pole, Antarctica | 1,901 |
 | 2 | [Washi1337](https://github.com/Washi1337) | Washi | McMurdo Station, Antarctica | 610 |

@@ -10,7 +10,7 @@ Indexed users: 19,359
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [paulmunozpauta](https://github.com/paulmunozpauta) | Paul Muñoz | Chile | 56,256 |
 | 2 | [Isabelnava100](https://github.com/Isabelnava100) | Isabel Nava | Concepcion, Chile | 27,729 |
@@ -35,7 +35,7 @@ Indexed users: 19,359
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [paulmunozpauta](https://github.com/paulmunozpauta) | Paul Muñoz | Chile | 56,256 |
 | 2 | [felipealfonsog](https://github.com/felipealfonsog) | Felipe Alfonso González | Santiago, Metropolitan Region, Chile | 53,201 |
@@ -60,7 +60,7 @@ Indexed users: 19,359
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [NachoOFC](https://github.com/NachoOFC) | Nacho | Puerto Montt, Chile | 1,737 |
 | 2 | [bluuweb](https://github.com/bluuweb) | bluuweb | Chile | 1,498 |

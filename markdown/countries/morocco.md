@@ -10,7 +10,7 @@ Indexed users: 9,676
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [lfarssi](https://github.com/lfarssi) | MOHAMED EL FARSSI  | Morocco | 12,216 |
 | 2 | [mohamedsaidyekhlef-png](https://github.com/mohamedsaidyekhlef-png) | Mohamed Said Yekhlef | Morocco | 5,493 |
@@ -35,7 +35,7 @@ Indexed users: 9,676
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Hei33enberg](https://github.com/Hei33enberg) | hiddenSOCIETY™ | 👑 Rabat 👑 | 26,949 |
 | 2 | [xDweeb](https://github.com/xDweeb) | Taibi EL Yakouti | Morocco | 18,901 |
@@ -60,7 +60,7 @@ Indexed users: 9,676
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [alaesic](https://github.com/alaesic) | Alae-Eddine | Casablanca, Morocco. | 4,195 |
 | 2 | [ZeroMemoryEx](https://github.com/ZeroMemoryEx) | Anas  | Morocco | 2,133 |

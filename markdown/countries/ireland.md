@@ -10,7 +10,7 @@ Indexed users: 19,533
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Tevrinyjmbj6](https://github.com/Tevrinyjmbj6) |  | Pilot, ireland | 110,657 |
 | 2 | [rorygoodman](https://github.com/rorygoodman) | Rory Goodman | Dublin, Ireland | 90,754 |
@@ -35,7 +35,7 @@ Indexed users: 19,533
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [DamianFlynn](https://github.com/DamianFlynn) | Damian Flynn | Ireland | 228,416 |
 | 2 | [Tevrinyjmbj6](https://github.com/Tevrinyjmbj6) |  | Pilot, ireland | 110,657 |
@@ -60,7 +60,7 @@ Indexed users: 19,533
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [miguelgrinberg](https://github.com/miguelgrinberg) | Miguel Grinberg | Ireland | 12,946 |
 | 2 | [xcontcom](https://github.com/xcontcom) | Serhii Herasymov | Ireland | 9,375 |

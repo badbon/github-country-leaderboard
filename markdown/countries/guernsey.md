@@ -10,7 +10,7 @@ Indexed users: 47
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mh0lt](https://github.com/mh0lt) | Mark Holt | Guernsey | 729 |
 | 2 | [tris203](https://github.com/tris203) | Tristan Knight | Guernsey | 395 |
@@ -35,7 +35,7 @@ Indexed users: 47
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | Guernsey | 1,510 |
 | 2 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick | Guernsey | 1,482 |
@@ -60,7 +60,7 @@ Indexed users: 47
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [tris203](https://github.com/tris203) | Tristan Knight | Guernsey | 43 |
 | 2 | [TheCodingCarlson](https://github.com/TheCodingCarlson) | Chris Carlson | Guernsey | 25 |

@@ -10,7 +10,7 @@ Indexed users: 1,084
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib | Doha, Qatar | 2,808 |
 | 2 | [Bomussa](https://github.com/Bomussa) | Iyad Mousa | Qatar | 2,579 |
@@ -35,7 +35,7 @@ Indexed users: 1,084
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 21,558 |
 | 2 | [MohammedTarigg](https://github.com/MohammedTarigg) | Mohamed Nour | Qatar | 12,623 |
@@ -60,7 +60,7 @@ Indexed users: 1,084
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Vetrivel-VP](https://github.com/Vetrivel-VP) | Vetrivel Ravi | Doha | 819 |
 | 2 | [TarikKaanKoc](https://github.com/TarikKaanKoc) | Tarık Kaan Koç | Qatar | 568 |

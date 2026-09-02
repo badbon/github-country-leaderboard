@@ -10,7 +10,7 @@ Indexed users: 77
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,210 |
 | 2 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 4,614 |
@@ -35,7 +35,7 @@ Indexed users: 77
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,225 |
 | 2 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 4,960 |
@@ -60,7 +60,7 @@ Indexed users: 77
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 88 |
 | 2 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 35 |

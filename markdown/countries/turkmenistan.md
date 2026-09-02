@@ -10,7 +10,7 @@ Indexed users: 503
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 8,653 |
 | 2 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 2,641 |
@@ -35,7 +35,7 @@ Indexed users: 503
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 15,992 |
 | 2 | [resuls](https://github.com/resuls) | Resul | Turkmenistan | 8,377 |
@@ -60,7 +60,7 @@ Indexed users: 503
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 283 |
 | 2 | [evgeniy-dammer](https://github.com/evgeniy-dammer) | Evgeniy Dammer | Ashgabad, Turkmenistan | 170 |

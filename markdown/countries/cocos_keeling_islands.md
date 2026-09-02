@@ -10,7 +10,7 @@ Indexed users: 9
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [chullybun](https://github.com/chullybun) | Eric Sibly [chullybun] | West Island of New Zealand (aka Australia) | 121 |
 | 2 | [getsalmon](https://github.com/getsalmon) | nton | Cocos Islands | 13 |
@@ -24,7 +24,7 @@ Indexed users: 9
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto | Cocos (Keeling) Islands | 720 |
 | 2 | [chullybun](https://github.com/chullybun) | Eric Sibly [chullybun] | West Island of New Zealand (aka Australia) | 140 |
@@ -38,7 +38,7 @@ Indexed users: 9
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto | Cocos (Keeling) Islands | 164 |
 | 2 | [getsalmon](https://github.com/getsalmon) | nton | Cocos Islands | 9 |

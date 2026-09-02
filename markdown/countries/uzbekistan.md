@@ -10,7 +10,7 @@ Indexed users: 9,517
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Uzbekistan | 144,754 |
 | 2 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | Uzbekistan | 144,722 |
@@ -35,7 +35,7 @@ Indexed users: 9,517
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Uzbekistan | 159,877 |
 | 2 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | Uzbekistan | 144,722 |
@@ -60,7 +60,7 @@ Indexed users: 9,517
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [anvarnarz](https://github.com/anvarnarz) | Anvar Narzullaev | Tashkent | 2,572 |
 | 2 | [Iqbolshoh](https://github.com/Iqbolshoh) | Iqbolshoh Ilhomjonov | Uzbekistan, Samarqand city | 2,299 |

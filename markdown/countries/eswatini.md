@@ -10,7 +10,7 @@ Indexed users: 109
 
 ## Public Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini | Eswatini | 789 |
 | 2 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | Manzini, Kingdom of Eswatini | 664 |
@@ -35,7 +35,7 @@ Indexed users: 109
 
 ## Total Contributions
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [rapthar](https://github.com/rapthar) | Mncedisi Bhembe | Swaziland | 16,989 |
 | 2 | [Chasusa](https://github.com/Chasusa) | Paul Chasusa | Eswatini, Southern Africa | 1,620 |
@@ -60,7 +60,7 @@ Indexed users: 109
 
 ## Followers
 
-| # | User | Name | Location | Value |
+| # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Manzini, Eswatini | 214 |
 | 2 | [KDlamini](https://github.com/KDlamini) | Simo Dlamini | Mbabane, Eswatini | 153 |
