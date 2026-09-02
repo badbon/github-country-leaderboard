@@ -413158,5 +413158,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-05-28T14:06:02Z"
+  },
+  {
+    "login": "ebellussi",
+    "name": "Elia Bellussi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7593091?s=72&u=f9cdf51a4826bc74adf56aa64d72b744c68049e9&v=4",
+    "location": "Torino/Amsterdam",
+    "company": "EGI Foundation",
+    "twitterUsername": "ebellussi",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-05-15T14:19:34Z"
+  },
+  {
+    "login": "Zhigalin",
+    "name": "Alexander Zhigalin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8227915?s=72&v=4",
+    "location": "Italy/Russia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2014-07-21T19:34:57Z"
   }
 ]
