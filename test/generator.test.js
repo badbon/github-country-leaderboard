@@ -55,7 +55,7 @@ test("generates markdown only for baseline-complete countries", async () => {
 
     await generateMarkdown({ countries, state, generatedAt: "2026-08-13T00:00:00.000Z" });
 
-    assert.match(await readFile("README.md", "utf8"), /Daily Countries/);
+    assert.match(await readFile("README.md", "utf8"), /Random Countries \(Daily Featured\)/);
     assert.match(await readFile("markdown/README.md", "utf8"), /\[Georgia\]\(countries\/georgia\.md\)/);
     assert.match(await readFile("markdown/status.md", "utf8"), /Countries published/);
     assert.match(await readFile("markdown/public_contributions/README.md", "utf8"), /\[View\]\(\.\/georgia\.md\)/);

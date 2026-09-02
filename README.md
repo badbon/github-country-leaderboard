@@ -10,7 +10,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 - [Followers](markdown/followers/README.md)
 - [Index status](markdown/status.md)
 
-## Daily Countries
+## Random Countries (Daily Featured)
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|

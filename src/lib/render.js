@@ -61,7 +61,7 @@ export function renderReadme({ countries, generatedAt }) {
     "- [Followers](markdown/followers/README.md)",
     "- [Index status](markdown/status.md)",
     "",
-    "## Daily Countries",
+    "## Random Countries (Daily Featured)",
     "",
     "| Country | Indexed Users | Public | Total | Followers |",
     "|---|---:|---|---|---|",
