@@ -1,6 +1,6 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-09-02T01:41:53.399Z
+Generated: 2026-09-02T02:29:39.399Z
 
 Users: 3313
 
@@ -22,7 +22,7 @@ Users: 3313
 | 14 | [cristiandlahoz](https://github.com/cristiandlahoz) | Cristian de la Hoz |  |  | Dominican Republic | 1439 |
 | 15 | [eburgos](https://github.com/eburgos) | Eduardo Burgos |  |  | Santo Domingo, DN, Dominican Republic | 1348 |
 | 16 | [AlejandroBeltre](https://github.com/AlejandroBeltre) | Alejandro Beltre | Thryv |  | Santo Domingo, Dominican Republic | 1336 |
-| 17 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1295 |
+| 17 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1298 |
 | 18 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez |  |  | Dominican Republic | 1291 |
 | 19 | [rwhite27](https://github.com/rwhite27) | Rafael White | @mctekk  |  | Santo Domingo, Dominican Republic | 1277 |
 | 20 | [ctorressoftware](https://github.com/ctorressoftware) | Carlos Torres |  |  | Dominican Republic | 1258 |
