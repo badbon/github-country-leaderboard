@@ -78,7 +78,7 @@ Published countries: 228
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
 | Gabon | 315 | [View](./gabon.md) |
 | Gambia | 81 | [View](./gambia.md) |
-| Georgia | 6,931 | [View](./georgia.md) |
+| Georgia | 6,899 | [View](./georgia.md) |
 | Ghana | 7,099 | [View](./ghana.md) |
 | Gibraltar | 96 | [View](./gibraltar.md) |
 | Greece | 15,569 | [View](./greece.md) |
@@ -233,4 +233,4 @@ Published countries: 228
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-02T14:51:28.706Z
+Generated: 2026-09-02T18:55:18.653Z
