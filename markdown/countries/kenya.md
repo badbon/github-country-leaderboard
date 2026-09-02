@@ -4,34 +4,9 @@ Indexed users: 23,992
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/kenya.md) |
 | Total Contributions | [Open](../total_contributions/kenya.md) |
+| Public Contributions | [Open](../public_contributions/kenya.md) |
 | Followers | [Open](../followers/kenya.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 243,766 |
-| 2 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger | Savior, kenya | 146,168 |
-| 3 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 | Nairobi, Kenya | 131,244 |
-| 4 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | Eldoret, Kenya | 118,789 |
-| 5 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy | Kenya | 45,847 |
-| 6 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko | Nairobi | 34,624 |
-| 7 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | Nairobi-Kenya | 21,537 |
-| 8 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | Nairobi, Kenya | 21,180 |
-| 9 | [allano0](https://github.com/allano0) | Allan Wachira | KENYA | 19,235 |
-| 10 | [mikeyhodl](https://github.com/mikeyhodl) | mikey | Kenya | 16,955 |
-| 11 | [reubendeekay](https://github.com/reubendeekay) | Reuben Jefwa | Kenya | 13,543 |
-| 12 | [hassanmubiru](https://github.com/hassanmubiru) | Hassan Mubiru | Kenya | 13,488 |
-| 13 | [12492sachet](https://github.com/12492sachet) | lewis machabe | Kenya | 11,870 |
-| 14 | [OumaCavin](https://github.com/OumaCavin) | Cavin Otieno Ouma | Nairobi, Kenya | 10,904 |
-| 15 | [xhclintohn](https://github.com/xhclintohn) | xh_clinton | Kenya | 9,367 |
-| 16 | [nedmoeca](https://github.com/nedmoeca) | TERRENCE M.K | Nairobi, Kenya | 8,519 |
-| 17 | [pgwiz](https://github.com/pgwiz) | Peter Brian Gwadenya | Nairobi | 8,434 |
-| 18 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Nairobi | 7,956 |
-| 19 | [adrianjuliusaluoch](https://github.com/adrianjuliusaluoch) | Adrian Julius Aluoch | Kisumu, Kenya | 7,293 |
-| 20 | [fbiego](https://github.com/fbiego) | Felix Biego | Kenya | 7,243 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 23,992
 | 18 | [mikeyhodl](https://github.com/mikeyhodl) | mikey | Kenya | 18,025 |
 | 19 | [erickwasambo](https://github.com/erickwasambo) | Erick Wasambo | Nairobi, Kenya | 17,892 |
 | 20 | [salvatoluis](https://github.com/salvatoluis) | Salvato | Nairobi, Kenya | 16,113 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 243,766 |
+| 2 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger | Savior, kenya | 146,168 |
+| 3 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 | Nairobi, Kenya | 131,244 |
+| 4 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | Eldoret, Kenya | 118,789 |
+| 5 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy | Kenya | 45,847 |
+| 6 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko | Nairobi | 34,624 |
+| 7 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | Nairobi-Kenya | 21,537 |
+| 8 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | Nairobi, Kenya | 21,180 |
+| 9 | [allano0](https://github.com/allano0) | Allan Wachira | KENYA | 19,235 |
+| 10 | [mikeyhodl](https://github.com/mikeyhodl) | mikey | Kenya | 16,955 |
+| 11 | [reubendeekay](https://github.com/reubendeekay) | Reuben Jefwa | Kenya | 13,543 |
+| 12 | [hassanmubiru](https://github.com/hassanmubiru) | Hassan Mubiru | Kenya | 13,488 |
+| 13 | [12492sachet](https://github.com/12492sachet) | lewis machabe | Kenya | 11,870 |
+| 14 | [OumaCavin](https://github.com/OumaCavin) | Cavin Otieno Ouma | Nairobi, Kenya | 10,904 |
+| 15 | [xhclintohn](https://github.com/xhclintohn) | xh_clinton | Kenya | 9,367 |
+| 16 | [nedmoeca](https://github.com/nedmoeca) | TERRENCE M.K | Nairobi, Kenya | 8,519 |
+| 17 | [pgwiz](https://github.com/pgwiz) | Peter Brian Gwadenya | Nairobi | 8,434 |
+| 18 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Nairobi | 7,956 |
+| 19 | [adrianjuliusaluoch](https://github.com/adrianjuliusaluoch) | Adrian Julius Aluoch | Kisumu, Kenya | 7,293 |
+| 20 | [fbiego](https://github.com/fbiego) | Felix Biego | Kenya | 7,243 |
 
 ## Followers
 

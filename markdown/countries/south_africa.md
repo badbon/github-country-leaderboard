@@ -4,34 +4,9 @@ Indexed users: 17,912
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/south_africa.md) |
 | Total Contributions | [Open](../total_contributions/south_africa.md) |
+| Public Contributions | [Open](../public_contributions/south_africa.md) |
 | Followers | [Open](../followers/south_africa.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [Uwami-Mgxekwa](https://github.com/Uwami-Mgxekwa) | Uwami Mgxekwa | South Africa | 38,351 |
-| 2 | [gregpriday](https://github.com/gregpriday) | Greg Priday | South Africa | 37,826 |
-| 3 | [imranparuk](https://github.com/imranparuk) | Imran Paruk | South Africa | 18,244 |
-| 4 | [KyleDev008](https://github.com/KyleDev008) | KyleDev | South Africa | 11,978 |
-| 5 | [JustAGhosT](https://github.com/JustAGhosT) | Jurie Smit | Gauteng, South Africa | 9,314 |
-| 6 | [snopoke](https://github.com/snopoke) | Simon Kelly | Cape Town | 8,924 |
-| 7 | [APGI-cmy](https://github.com/APGI-cmy) | Johan Ras | South Africa | 7,624 |
-| 8 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Johannesburg, South Africa | 7,556 |
-| 9 | [govert](https://github.com/govert) | Govert van Drimmelen | Johannesburg, South Africa | 5,771 |
-| 10 | [nyashahama](https://github.com/nyashahama) | Nyasha Hama | South Africa | 5,446 |
-| 11 | [MiguelRodo](https://github.com/MiguelRodo) | Miguel Rodo | Cape Town, South Africa | 5,173 |
-| 12 | [datashaman](https://github.com/datashaman) | datashaman | Cape Town, South Africa | 5,144 |
-| 13 | [rakheen-dama](https://github.com/rakheen-dama) | Rakheen Dama | Cape Town, South Africa | 5,110 |
-| 14 | [johanpiet2](https://github.com/johanpiet2) | Johan Pieterse | Pretoria South Africa | 4,779 |
-| 15 | [indium114](https://github.com/indium114) |  | South Africa | 4,590 |
-| 16 | [peterp](https://github.com/peterp) | Peter Pistorius | South Africa | 4,520 |
-| 17 | [wkirschbaum](https://github.com/wkirschbaum) | Wilhelm Kirschbaum | Cape Town, South Africa | 4,494 |
-| 18 | [ashleyshaw](https://github.com/ashleyshaw) | Ash Shaw | Cape Town, South Africa | 4,333 |
-| 19 | [GedMarc](https://github.com/GedMarc) | Marc Magon | Johannesburg, South Africa | 4,187 |
-| 20 | [schalkneethling](https://github.com/schalkneethling) | Schalk Neethling | Pretoria, South Africa | 4,126 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 17,912
 | 18 | [costa-developer](https://github.com/costa-developer) | Tendai Gumunyu | Cape Town | 13,764 |
 | 19 | [BitnationAI](https://github.com/BitnationAI) | Chad | South Africa | 13,162 |
 | 20 | [tawanike](https://github.com/tawanike) | Tawanda Makunike | Sandton, South Africa | 13,017 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [Uwami-Mgxekwa](https://github.com/Uwami-Mgxekwa) | Uwami Mgxekwa | South Africa | 38,351 |
+| 2 | [gregpriday](https://github.com/gregpriday) | Greg Priday | South Africa | 37,826 |
+| 3 | [imranparuk](https://github.com/imranparuk) | Imran Paruk | South Africa | 18,244 |
+| 4 | [KyleDev008](https://github.com/KyleDev008) | KyleDev | South Africa | 11,978 |
+| 5 | [JustAGhosT](https://github.com/JustAGhosT) | Jurie Smit | Gauteng, South Africa | 9,314 |
+| 6 | [snopoke](https://github.com/snopoke) | Simon Kelly | Cape Town | 8,924 |
+| 7 | [APGI-cmy](https://github.com/APGI-cmy) | Johan Ras | South Africa | 7,624 |
+| 8 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Johannesburg, South Africa | 7,556 |
+| 9 | [govert](https://github.com/govert) | Govert van Drimmelen | Johannesburg, South Africa | 5,771 |
+| 10 | [nyashahama](https://github.com/nyashahama) | Nyasha Hama | South Africa | 5,446 |
+| 11 | [MiguelRodo](https://github.com/MiguelRodo) | Miguel Rodo | Cape Town, South Africa | 5,173 |
+| 12 | [datashaman](https://github.com/datashaman) | datashaman | Cape Town, South Africa | 5,144 |
+| 13 | [rakheen-dama](https://github.com/rakheen-dama) | Rakheen Dama | Cape Town, South Africa | 5,110 |
+| 14 | [johanpiet2](https://github.com/johanpiet2) | Johan Pieterse | Pretoria South Africa | 4,779 |
+| 15 | [indium114](https://github.com/indium114) |  | South Africa | 4,590 |
+| 16 | [peterp](https://github.com/peterp) | Peter Pistorius | South Africa | 4,520 |
+| 17 | [wkirschbaum](https://github.com/wkirschbaum) | Wilhelm Kirschbaum | Cape Town, South Africa | 4,494 |
+| 18 | [ashleyshaw](https://github.com/ashleyshaw) | Ash Shaw | Cape Town, South Africa | 4,333 |
+| 19 | [GedMarc](https://github.com/GedMarc) | Marc Magon | Johannesburg, South Africa | 4,187 |
+| 20 | [schalkneethling](https://github.com/schalkneethling) | Schalk Neethling | Pretoria, South Africa | 4,126 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 19,764
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/philippines.md) |
 | Total Contributions | [Open](../total_contributions/philippines.md) |
+| Public Contributions | [Open](../public_contributions/philippines.md) |
 | Followers | [Open](../followers/philippines.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [jaymar921](https://github.com/jaymar921) | Jayharron Abejar | Cebu, Philippines | 1,081,241 |
-| 2 | [HaroldMars](https://github.com/HaroldMars) | Jay Harold Mars Abejar | Cebu, Philippines  | 920,333 |
-| 3 | [Mra1k3r0](https://github.com/Mra1k3r0) | John Paul Caigas  | Philippines | 101,854 |
-| 4 | [markfietje](https://github.com/markfietje) | Mark Fietje | Philippines | 24,226 |
-| 5 | [jrzvnn](https://github.com/jrzvnn) | Joriz Villanueva | Manila, Philippines | 21,650 |
-| 6 | [eun0115](https://github.com/eun0115) | Gian Paolo | Manila, Philippines | 17,919 |
-| 7 | [Gyakusetsu](https://github.com/Gyakusetsu) | Reymar Clemente | Philippines | 17,199 |
-| 8 | [AldrianLoberiano](https://github.com/AldrianLoberiano) | Aldrian Loberiano | Laguna, Philippines | 16,492 |
-| 9 | [mcdofrenchfreis](https://github.com/mcdofrenchfreis) | Evan | Philippines | 15,314 |
-| 10 | [JDev000](https://github.com/JDev000) | Jerome Edica | Philippines | 14,606 |
-| 11 | [joaquintamayo](https://github.com/joaquintamayo) | Joaquin Elijah Tamayo | Quezon City, Philippines | 13,713 |
-| 12 | [mxaddict](https://github.com/mxaddict) | mxaddict | Cebu, Philippines | 12,706 |
-| 13 | [STICKnoLOGIC](https://github.com/STICKnoLOGIC) | John Aerial J. Azcune | philippines/ | 12,601 |
-| 14 | [glennmichael123](https://github.com/glennmichael123) | Glenn Michael Torregosa | Cebu City, Philippines | 12,534 |
-| 15 | [herndev](https://github.com/herndev) | Никифор | Philippines, Cagayan de Oro | 12,252 |
-| 16 | [CyberSphinxxx](https://github.com/CyberSphinxxx) | John Lemar Gonzales | Philippines | 12,111 |
-| 17 | [RommJames](https://github.com/RommJames) | Romm James Cuya | Pasig City, Philippines | 10,424 |
-| 18 | [diazMelgarejo](https://github.com/diazMelgarejo) | cyre | Manila | 9,935 |
-| 19 | [bradpotts](https://github.com/bradpotts) | Bradley J Potts | Lapu-Lapu, Central Visayas, Philippines | 9,918 |
-| 20 | [ceorles](https://github.com/ceorles) | Drei | Philippines | 9,586 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 19,764
 | 18 | [gelojavonitalla](https://github.com/gelojavonitalla) | Angelo Javonitalla | Manila, Philippines | 17,147 |
 | 19 | [jiliangarette](https://github.com/jiliangarette) | Jilian Garette | Cebu, Philippines | 16,577 |
 | 20 | [smmariquit](https://github.com/smmariquit) | Stimmie | Philippines | 16,416 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [jaymar921](https://github.com/jaymar921) | Jayharron Abejar | Cebu, Philippines | 1,081,241 |
+| 2 | [HaroldMars](https://github.com/HaroldMars) | Jay Harold Mars Abejar | Cebu, Philippines  | 920,333 |
+| 3 | [Mra1k3r0](https://github.com/Mra1k3r0) | John Paul Caigas  | Philippines | 101,854 |
+| 4 | [markfietje](https://github.com/markfietje) | Mark Fietje | Philippines | 24,226 |
+| 5 | [jrzvnn](https://github.com/jrzvnn) | Joriz Villanueva | Manila, Philippines | 21,650 |
+| 6 | [eun0115](https://github.com/eun0115) | Gian Paolo | Manila, Philippines | 17,919 |
+| 7 | [Gyakusetsu](https://github.com/Gyakusetsu) | Reymar Clemente | Philippines | 17,199 |
+| 8 | [AldrianLoberiano](https://github.com/AldrianLoberiano) | Aldrian Loberiano | Laguna, Philippines | 16,492 |
+| 9 | [mcdofrenchfreis](https://github.com/mcdofrenchfreis) | Evan | Philippines | 15,314 |
+| 10 | [JDev000](https://github.com/JDev000) | Jerome Edica | Philippines | 14,606 |
+| 11 | [joaquintamayo](https://github.com/joaquintamayo) | Joaquin Elijah Tamayo | Quezon City, Philippines | 13,713 |
+| 12 | [mxaddict](https://github.com/mxaddict) | mxaddict | Cebu, Philippines | 12,706 |
+| 13 | [STICKnoLOGIC](https://github.com/STICKnoLOGIC) | John Aerial J. Azcune | philippines/ | 12,601 |
+| 14 | [glennmichael123](https://github.com/glennmichael123) | Glenn Michael Torregosa | Cebu City, Philippines | 12,534 |
+| 15 | [herndev](https://github.com/herndev) | Никифор | Philippines, Cagayan de Oro | 12,252 |
+| 16 | [CyberSphinxxx](https://github.com/CyberSphinxxx) | John Lemar Gonzales | Philippines | 12,111 |
+| 17 | [RommJames](https://github.com/RommJames) | Romm James Cuya | Pasig City, Philippines | 10,424 |
+| 18 | [diazMelgarejo](https://github.com/diazMelgarejo) | cyre | Manila | 9,935 |
+| 19 | [bradpotts](https://github.com/bradpotts) | Bradley J Potts | Lapu-Lapu, Central Visayas, Philippines | 9,918 |
+| 20 | [ceorles](https://github.com/ceorles) | Drei | Philippines | 9,586 |
 
 ## Followers
 

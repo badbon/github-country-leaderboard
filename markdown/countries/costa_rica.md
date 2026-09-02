@@ -4,34 +4,9 @@ Indexed users: 5,631
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/costa_rica.md) |
 | Total Contributions | [Open](../total_contributions/costa_rica.md) |
+| Public Contributions | [Open](../public_contributions/costa_rica.md) |
 | Followers | [Open](../followers/costa_rica.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [jourlez](https://github.com/jourlez) | Josué Rojas | Jacó, Costa Rica | 9,483 |
-| 2 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 8,257 |
-| 3 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 6,328 |
-| 4 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 5,358 |
-| 5 | [ronz204](https://github.com/ronz204) | ronz | San Carlos, Costa Rica | 3,661 |
-| 6 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | Costa Rica | 3,242 |
-| 7 | [Matt-Aurora-Ventures](https://github.com/Matt-Aurora-Ventures) | Matt Haynes | Costa Rica | 3,184 |
-| 8 | [aramirez087](https://github.com/aramirez087) | Alexander Ramirez Kiriushenko | Costa Rica | 2,870 |
-| 9 | [morozov](https://github.com/morozov) | Sergei Morozov | San José, CA | 2,590 |
-| 10 | [jonnabio](https://github.com/jonnabio) | Jonathan Herrera | Costa Rica | 2,546 |
-| 11 | [jetm](https://github.com/jetm) | Javier Tia | Costa Rica | 2,464 |
-| 12 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 2,308 |
-| 13 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 2,305 |
-| 14 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar | Costa Rica | 2,301 |
-| 15 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Costa Rica | 2,263 |
-| 16 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | Costa Rica | 2,028 |
-| 17 | [esoto](https://github.com/esoto) | Esteban Soto | Costa Rica | 1,823 |
-| 18 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 1,803 |
-| 19 | [quesadx](https://github.com/quesadx) | Matteo Quesada | Costa Rica | 1,704 |
-| 20 | [Absulit](https://github.com/Absulit) | Sebastian Sanabria Diaz | Costa Rica | 1,678 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 5,631
 | 18 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz | San Jose, Costa Rica | 5,379 |
 | 19 | [xmorera](https://github.com/xmorera) | Xavier Morera | Costa Rica | 5,248 |
 | 20 | [Fuabioo](https://github.com/Fuabioo) | Fabio Mora | Costa Rica 🇨🇷 | 5,077 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [jourlez](https://github.com/jourlez) | Josué Rojas | Jacó, Costa Rica | 9,483 |
+| 2 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 8,257 |
+| 3 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 6,328 |
+| 4 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 5,358 |
+| 5 | [ronz204](https://github.com/ronz204) | ronz | San Carlos, Costa Rica | 3,661 |
+| 6 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | Costa Rica | 3,242 |
+| 7 | [Matt-Aurora-Ventures](https://github.com/Matt-Aurora-Ventures) | Matt Haynes | Costa Rica | 3,184 |
+| 8 | [aramirez087](https://github.com/aramirez087) | Alexander Ramirez Kiriushenko | Costa Rica | 2,870 |
+| 9 | [morozov](https://github.com/morozov) | Sergei Morozov | San José, CA | 2,590 |
+| 10 | [jonnabio](https://github.com/jonnabio) | Jonathan Herrera | Costa Rica | 2,546 |
+| 11 | [jetm](https://github.com/jetm) | Javier Tia | Costa Rica | 2,464 |
+| 12 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 2,308 |
+| 13 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 2,305 |
+| 14 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar | Costa Rica | 2,301 |
+| 15 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Costa Rica | 2,263 |
+| 16 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | Costa Rica | 2,028 |
+| 17 | [esoto](https://github.com/esoto) | Esteban Soto | Costa Rica | 1,823 |
+| 18 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 1,803 |
+| 19 | [quesadx](https://github.com/quesadx) | Matteo Quesada | Costa Rica | 1,704 |
+| 20 | [Absulit](https://github.com/Absulit) | Sebastian Sanabria Diaz | Costa Rica | 1,678 |
 
 ## Followers
 

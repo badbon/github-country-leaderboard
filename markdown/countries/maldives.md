@@ -4,34 +4,9 @@ Indexed users: 357
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/maldives.md) |
 | Total Contributions | [Open](../total_contributions/maldives.md) |
+| Public Contributions | [Open](../public_contributions/maldives.md) |
 | Followers | [Open](../followers/maldives.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Malé, Maldives | 1,653 |
-| 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Male', Maldives | 1,334 |
-| 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | maldives | 1,188 |
-| 4 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,016 |
-| 5 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 694 |
-| 6 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 582 |
-| 7 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin | Malé, Maldives | 551 |
-| 8 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 528 |
-| 9 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 499 |
-| 10 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh | Male' , Maldives | 363 |
-| 11 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 354 |
-| 12 | [xSil3nt](https://github.com/xSil3nt) | Shazin | Male', Maldives | 343 |
-| 13 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 322 |
-| 14 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 319 |
-| 15 | [aliaafee](https://github.com/aliaafee) | Ali Aafee | Maldives | 308 |
-| 16 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 262 |
-| 17 | [crockalet](https://github.com/crockalet) |  | Maldives | 232 |
-| 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 225 |
-| 19 | [adhuhaam](https://github.com/adhuhaam) | Adhu Haam | Maldives | 224 |
-| 20 | [dash8x](https://github.com/dash8x) | Arushad Ahmed | Maldives | 198 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 357
 | 18 | [boring-dragon](https://github.com/boring-dragon) | Boring Dragon | Maldives | 2,875 |
 | 19 | [musaid](https://github.com/musaid) | musaid | Maldives | 2,858 |
 | 20 | [ibnnajjaar](https://github.com/ibnnajjaar) | Hussain Afeef | Male', Maldives | 2,783 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Malé, Maldives | 1,653 |
+| 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Male', Maldives | 1,334 |
+| 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | maldives | 1,188 |
+| 4 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,016 |
+| 5 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 694 |
+| 6 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 582 |
+| 7 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin | Malé, Maldives | 551 |
+| 8 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 528 |
+| 9 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 499 |
+| 10 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh | Male' , Maldives | 363 |
+| 11 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 354 |
+| 12 | [xSil3nt](https://github.com/xSil3nt) | Shazin | Male', Maldives | 343 |
+| 13 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 322 |
+| 14 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 319 |
+| 15 | [aliaafee](https://github.com/aliaafee) | Ali Aafee | Maldives | 308 |
+| 16 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 262 |
+| 17 | [crockalet](https://github.com/crockalet) |  | Maldives | 232 |
+| 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 225 |
+| 19 | [adhuhaam](https://github.com/adhuhaam) | Adhu Haam | Maldives | 224 |
+| 20 | [dash8x](https://github.com/dash8x) | Arushad Ahmed | Maldives | 198 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 10,676
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/serbia.md) |
 | Total Contributions | [Open](../total_contributions/serbia.md) |
+| Public Contributions | [Open](../public_contributions/serbia.md) |
 | Followers | [Open](../followers/serbia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [botantony](https://github.com/botantony) | Anton Melnikov | Belgrade, Serbia | 16,955 |
-| 2 | [Nek-12](https://github.com/Nek-12) | Nek.12 | Serbia | 8,975 |
-| 3 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | Belgrade, Serbia | 8,635 |
-| 4 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 8,227 |
-| 5 | [DeepTerrorGG](https://github.com/DeepTerrorGG) | Danilo Ilic | Serbia | 8,006 |
-| 6 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević | Serbia | 7,592 |
-| 7 | [HKati](https://github.com/HKati) | EPLabsAI | Subotica, Serbia | 5,841 |
-| 8 | [sikleq](https://github.com/sikleq) | sikle | Belgrade | 5,416 |
-| 9 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | Belgrade, Serbia | 4,998 |
-| 10 | [atimad](https://github.com/atimad) | Atila Madai | Serbia | 4,933 |
-| 11 | [fiftydinar](https://github.com/fiftydinar) |  | Serbia | 4,283 |
-| 12 | [svasenkov](https://github.com/svasenkov) | Vasenkov Stanislav | Serbia, Belgrade | 3,936 |
-| 13 | [iscekic](https://github.com/iscekic) | Igor Šćekić | Novi Sad, Serbia | 3,636 |
-| 14 | [nklmilojevic](https://github.com/nklmilojevic) | Nikola Milojević | Belgrade, Serbia | 3,610 |
-| 15 | [dreikanter](https://github.com/dreikanter) | Alex Musayev | Novi Sad, Serbia | 3,565 |
-| 16 | [L4ki](https://github.com/L4ki) | L4ki | Serbia, Smederevska Palanka | 3,563 |
-| 17 | [vladprrs](https://github.com/vladprrs) | Vlad Pr | Belgrade, Serbia | 3,347 |
-| 18 | [egv](https://github.com/egv) | Gena | Belgrade - Tel Aviv - Dubai | 3,094 |
-| 19 | [maratik123](https://github.com/maratik123) |  | Serbia, Belgrade | 2,991 |
-| 20 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Novi Sad, Serbia | 2,990 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 10,676
 | 18 | [zombie](https://github.com/zombie) | Tomislav Jovanovic | Serbia | 8,912 |
 | 19 | [markoradak](https://github.com/markoradak) | Marko Radak | Belgrade, Serbia | 8,751 |
 | 20 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Novi Sad, Serbia | 8,616 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [botantony](https://github.com/botantony) | Anton Melnikov | Belgrade, Serbia | 16,955 |
+| 2 | [Nek-12](https://github.com/Nek-12) | Nek.12 | Serbia | 8,975 |
+| 3 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | Belgrade, Serbia | 8,635 |
+| 4 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 8,227 |
+| 5 | [DeepTerrorGG](https://github.com/DeepTerrorGG) | Danilo Ilic | Serbia | 8,006 |
+| 6 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević | Serbia | 7,592 |
+| 7 | [HKati](https://github.com/HKati) | EPLabsAI | Subotica, Serbia | 5,841 |
+| 8 | [sikleq](https://github.com/sikleq) | sikle | Belgrade | 5,416 |
+| 9 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | Belgrade, Serbia | 4,998 |
+| 10 | [atimad](https://github.com/atimad) | Atila Madai | Serbia | 4,933 |
+| 11 | [fiftydinar](https://github.com/fiftydinar) |  | Serbia | 4,283 |
+| 12 | [svasenkov](https://github.com/svasenkov) | Vasenkov Stanislav | Serbia, Belgrade | 3,936 |
+| 13 | [iscekic](https://github.com/iscekic) | Igor Šćekić | Novi Sad, Serbia | 3,636 |
+| 14 | [nklmilojevic](https://github.com/nklmilojevic) | Nikola Milojević | Belgrade, Serbia | 3,610 |
+| 15 | [dreikanter](https://github.com/dreikanter) | Alex Musayev | Novi Sad, Serbia | 3,565 |
+| 16 | [L4ki](https://github.com/L4ki) | L4ki | Serbia, Smederevska Palanka | 3,563 |
+| 17 | [vladprrs](https://github.com/vladprrs) | Vlad Pr | Belgrade, Serbia | 3,347 |
+| 18 | [egv](https://github.com/egv) | Gena | Belgrade - Tel Aviv - Dubai | 3,094 |
+| 19 | [maratik123](https://github.com/maratik123) |  | Serbia, Belgrade | 2,991 |
+| 20 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Novi Sad, Serbia | 2,990 |
 
 ## Followers
 

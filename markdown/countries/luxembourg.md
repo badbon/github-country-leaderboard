@@ -4,34 +4,9 @@ Indexed users: 2,217
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/luxembourg.md) |
 | Total Contributions | [Open](../total_contributions/luxembourg.md) |
+| Public Contributions | [Open](../public_contributions/luxembourg.md) |
 | Followers | [Open](../followers/luxembourg.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 7,793 |
-| 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 7,151 |
-| 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,451 |
-| 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 4,387 |
-| 5 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,004 |
-| 6 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,707 |
-| 7 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,639 |
-| 8 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 3,216 |
-| 9 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 1,936 |
-| 10 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 1,852 |
-| 11 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
-| 12 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,737 |
-| 13 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 1,666 |
-| 14 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Luxembourg | 1,659 |
-| 15 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,653 |
-| 16 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,636 |
-| 17 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,624 |
-| 18 | [geri4](https://github.com/geri4) | Andrey Gerasimov | Luxembourg | 1,607 |
-| 19 | [MarkZither](https://github.com/MarkZither) | Mark Burton | Luxembourg | 1,592 |
-| 20 | [mvo5](https://github.com/mvo5) | Michael Vogt | Trier/Luxembourg area | 1,460 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 2,217
 | 18 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | Luxembourg | 5,348 |
 | 19 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 4,946 |
 | 20 | [lukasjhan](https://github.com/lukasjhan) | Lukas.J.Han | Luxembourg / Luxembourg | 4,861 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 7,793 |
+| 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 7,151 |
+| 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,451 |
+| 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 4,387 |
+| 5 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,004 |
+| 6 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,707 |
+| 7 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,639 |
+| 8 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 3,216 |
+| 9 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 1,936 |
+| 10 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 1,852 |
+| 11 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
+| 12 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,737 |
+| 13 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 1,666 |
+| 14 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Luxembourg | 1,659 |
+| 15 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,653 |
+| 16 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,636 |
+| 17 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,624 |
+| 18 | [geri4](https://github.com/geri4) | Andrey Gerasimov | Luxembourg | 1,607 |
+| 19 | [MarkZither](https://github.com/MarkZither) | Mark Burton | Luxembourg | 1,592 |
+| 20 | [mvo5](https://github.com/mvo5) | Michael Vogt | Trier/Luxembourg area | 1,460 |
 
 ## Followers
 

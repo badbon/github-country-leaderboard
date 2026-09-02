@@ -4,34 +4,9 @@ Indexed users: 16,206
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/czechia.md) |
 | Total Contributions | [Open](../total_contributions/czechia.md) |
+| Public Contributions | [Open](../public_contributions/czechia.md) |
 | Followers | [Open](../followers/czechia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [Blackstit](https://github.com/Blackstit) | Vladislav Petrushkin | Czech Republic, Liberec | 57,938 |
-| 2 | [martinmodrak](https://github.com/martinmodrak) | Martin Modrák | Prague, Czech Republic | 41,495 |
-| 3 | [leostera](https://github.com/leostera) | Leo Ostera | Prague, Czechia | 11,935 |
-| 4 | [MilosKozak](https://github.com/MilosKozak) | Milos Kozak | Prague | 11,899 |
-| 5 | [hejny](https://github.com/hejny) | Pavol Hejny | Prague | 10,494 |
-| 6 | [ylohnitram](https://github.com/ylohnitram) | Yloh Nitram | PHA, Czech Republic | 9,767 |
-| 7 | [nijel](https://github.com/nijel) | Michal Čihař | Czechia | 8,680 |
-| 8 | [mmalina](https://github.com/mmalina) | Martin Malina | Brno, Czech Republic | 7,943 |
-| 9 | [Vitexus](https://github.com/Vitexus) | Cybervitexus | Prague | 7,615 |
-| 10 | [vancura](https://github.com/vancura) | Václav Vančura | Prague | 7,209 |
-| 11 | [TomasVotruba](https://github.com/TomasVotruba) | Tomas Votruba | Prague, Czech Republic | 6,989 |
-| 12 | [Borda](https://github.com/Borda) | Jirka Borovec | Prague | 6,877 |
-| 13 | [Evangelink](https://github.com/Evangelink) | Amaury Levé | Prague | 6,855 |
-| 14 | [vitbokisch](https://github.com/vitbokisch) | Vit Bokisch | Prague | 6,842 |
-| 15 | [josef-hak](https://github.com/josef-hak) | Josef Hak | Studenec, Czech Republic | 6,515 |
-| 16 | [matej21](https://github.com/matej21) | David Matějka | Prague, Czech Republic | 6,330 |
-| 17 | [speakASAP](https://github.com/speakASAP) | Sergej | Czech Republic | 6,231 |
-| 18 | [sliwowitz](https://github.com/sliwowitz) | Jiří Vyskočil | Prague | 6,176 |
-| 19 | [Kobzol](https://github.com/Kobzol) | Jakub Beránek | Czech Republic | 5,986 |
-| 20 | [orpiske](https://github.com/orpiske) | Otavio Rodolfo Piske | Brno, Czech Republic | 5,927 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 16,206
 | 18 | [Halama](https://github.com/Halama) | Martin Halamíček | Prague, CZ | 12,816 |
 | 19 | [ylohnitram](https://github.com/ylohnitram) | Yloh Nitram | PHA, Czech Republic | 12,376 |
 | 20 | [FilipChalupa](https://github.com/FilipChalupa) | Filip Chalupa | Prague | 12,228 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [Blackstit](https://github.com/Blackstit) | Vladislav Petrushkin | Czech Republic, Liberec | 57,938 |
+| 2 | [martinmodrak](https://github.com/martinmodrak) | Martin Modrák | Prague, Czech Republic | 41,495 |
+| 3 | [leostera](https://github.com/leostera) | Leo Ostera | Prague, Czechia | 11,935 |
+| 4 | [MilosKozak](https://github.com/MilosKozak) | Milos Kozak | Prague | 11,899 |
+| 5 | [hejny](https://github.com/hejny) | Pavol Hejny | Prague | 10,494 |
+| 6 | [ylohnitram](https://github.com/ylohnitram) | Yloh Nitram | PHA, Czech Republic | 9,767 |
+| 7 | [nijel](https://github.com/nijel) | Michal Čihař | Czechia | 8,680 |
+| 8 | [mmalina](https://github.com/mmalina) | Martin Malina | Brno, Czech Republic | 7,943 |
+| 9 | [Vitexus](https://github.com/Vitexus) | Cybervitexus | Prague | 7,615 |
+| 10 | [vancura](https://github.com/vancura) | Václav Vančura | Prague | 7,209 |
+| 11 | [TomasVotruba](https://github.com/TomasVotruba) | Tomas Votruba | Prague, Czech Republic | 6,989 |
+| 12 | [Borda](https://github.com/Borda) | Jirka Borovec | Prague | 6,877 |
+| 13 | [Evangelink](https://github.com/Evangelink) | Amaury Levé | Prague | 6,855 |
+| 14 | [vitbokisch](https://github.com/vitbokisch) | Vit Bokisch | Prague | 6,842 |
+| 15 | [josef-hak](https://github.com/josef-hak) | Josef Hak | Studenec, Czech Republic | 6,515 |
+| 16 | [matej21](https://github.com/matej21) | David Matějka | Prague, Czech Republic | 6,330 |
+| 17 | [speakASAP](https://github.com/speakASAP) | Sergej | Czech Republic | 6,231 |
+| 18 | [sliwowitz](https://github.com/sliwowitz) | Jiří Vyskočil | Prague | 6,176 |
+| 19 | [Kobzol](https://github.com/Kobzol) | Jakub Beránek | Czech Republic | 5,986 |
+| 20 | [orpiske](https://github.com/orpiske) | Otavio Rodolfo Piske | Brno, Czech Republic | 5,927 |
 
 ## Followers
 

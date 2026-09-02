@@ -4,34 +4,9 @@ Indexed users: 6,931
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/georgia.md) |
 | Total Contributions | [Open](../total_contributions/georgia.md) |
+| Public Contributions | [Open](../public_contributions/georgia.md) |
 | Followers | [Open](../followers/georgia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Tbilisi | 16,324 |
-| 2 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister | Tbilisi | 11,594 |
-| 3 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 10,360 |
-| 4 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | Tbilisi | 8,370 |
-| 5 | [Jacoba1100254352](https://github.com/Jacoba1100254352) | Jacob Anderson | Georgia | 7,448 |
-| 6 | [andrei-shtanakov](https://github.com/andrei-shtanakov) | Andrei Shtanakov | Georgia | 4,998 |
-| 7 | [smira](https://github.com/smira) | Andrey Smirnov | Georgia | 4,573 |
-| 8 | [Komzpa](https://github.com/Komzpa) | Darafei Praliaskouski | Batumi, Georgia | 4,348 |
-| 9 | [lperto](https://github.com/lperto) | Lasha Pertakhia | Tbilisi | 4,244 |
-| 10 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs | Georgia | 3,756 |
-| 11 | [explosivebit](https://github.com/explosivebit) | Eli Rum | Tbilisi | 3,746 |
-| 12 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Tbilisi | 3,458 |
-| 13 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software | 📍 Georgia | 3,259 |
-| 14 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 3,213 |
-| 15 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | Tbilisi | 3,124 |
-| 16 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 3,051 |
-| 17 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 2,949 |
-| 18 | [Mamaduka](https://github.com/Mamaduka) | George Mamadashvili | Tbilisi, Georgia | 2,860 |
-| 19 | [roxblnfk](https://github.com/roxblnfk) | Aleksei Gagarin | Batumi, Georgia | 2,785 |
-| 20 | [andrewallenbruce](https://github.com/andrewallenbruce) | Andrew Allen Bruce | Georgia | 2,414 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 6,931
 | 18 | [Nikagagua](https://github.com/Nikagagua) | Nika Gagua | Georgia | 8,699 |
 | 19 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 8,662 |
 | 20 | [breakneck-git](https://github.com/breakneck-git) | K'rill | batumi | 8,586 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Tbilisi | 16,324 |
+| 2 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister | Tbilisi | 11,594 |
+| 3 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 10,360 |
+| 4 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | Tbilisi | 8,370 |
+| 5 | [Jacoba1100254352](https://github.com/Jacoba1100254352) | Jacob Anderson | Georgia | 7,448 |
+| 6 | [andrei-shtanakov](https://github.com/andrei-shtanakov) | Andrei Shtanakov | Georgia | 4,998 |
+| 7 | [smira](https://github.com/smira) | Andrey Smirnov | Georgia | 4,573 |
+| 8 | [Komzpa](https://github.com/Komzpa) | Darafei Praliaskouski | Batumi, Georgia | 4,348 |
+| 9 | [lperto](https://github.com/lperto) | Lasha Pertakhia | Tbilisi | 4,244 |
+| 10 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs | Georgia | 3,756 |
+| 11 | [explosivebit](https://github.com/explosivebit) | Eli Rum | Tbilisi | 3,746 |
+| 12 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Tbilisi | 3,458 |
+| 13 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software | 📍 Georgia | 3,259 |
+| 14 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 3,213 |
+| 15 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | Tbilisi | 3,124 |
+| 16 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 3,051 |
+| 17 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 2,949 |
+| 18 | [Mamaduka](https://github.com/Mamaduka) | George Mamadashvili | Tbilisi, Georgia | 2,860 |
+| 19 | [roxblnfk](https://github.com/roxblnfk) | Aleksei Gagarin | Batumi, Georgia | 2,785 |
+| 20 | [andrewallenbruce](https://github.com/andrewallenbruce) | Andrew Allen Bruce | Georgia | 2,414 |
 
 ## Followers
 

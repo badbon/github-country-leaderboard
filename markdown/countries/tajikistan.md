@@ -4,34 +4,9 @@ Indexed users: 715
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/tajikistan.md) |
 | Total Contributions | [Open](../total_contributions/tajikistan.md) |
+| Public Contributions | [Open](../public_contributions/tajikistan.md) |
 | Followers | [Open](../followers/tajikistan.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 2,181 |
-| 2 | [meetmeonlinefree](https://github.com/meetmeonlinefree) | Nekruz | Tajikistan | 1,857 |
-| 3 | [MUHAMMADAMIN100](https://github.com/MUHAMMADAMIN100) | Muhammadamin | Tajikistan,Dushanbe | 1,421 |
-| 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin | Dushanbe Tajikistan | 1,380 |
-| 5 | [karimzade4444](https://github.com/karimzade4444) | Karimzoda Mustafo | st. Ayni 48, Dushanbe, Tajikistan | 1,021 |
-| 6 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 996 |
-| 7 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | Dushanbe | 978 |
-| 8 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | Dushanbe, Tajikistan | 976 |
-| 9 | [bezhan2009](https://github.com/bezhan2009) | Karimov Bezhan | Tajikistan | 788 |
-| 10 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 773 |
-| 11 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Dushanbe, Tajikistan | 760 |
-| 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 656 |
-| 13 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov | Dushanbe, Tajikistan | 518 |
-| 14 | [Roma-723](https://github.com/Roma-723) | Yusufjon | Dushanbe | 466 |
-| 15 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor | Tajikistan | 437 |
-| 16 | [rustamovy9](https://github.com/rustamovy9) |  | Dushanbe,Tajikistan | 428 |
-| 17 | [Ismatjonov](https://github.com/Ismatjonov) | Bakhtovar Ismatjonov | Tajikistan, Khujand | 413 |
-| 18 | [Melikzoda-Muslihiddin](https://github.com/Melikzoda-Muslihiddin) | Muslim Melikzoda | Dushanbe | 382 |
-| 19 | [adilovcode](https://github.com/adilovcode) | Umar Adilov | Dushanbe | 371 |
-| 20 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | Dushanbe | 364 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 715
 | 18 | [burhon97](https://github.com/burhon97) | Burhonkhon Idriskhonov | Dushanbe | 2,478 |
 | 19 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Tajikistan | 2,371 |
 | 20 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Dushanbe, Tajikistan | 2,344 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 2,181 |
+| 2 | [meetmeonlinefree](https://github.com/meetmeonlinefree) | Nekruz | Tajikistan | 1,857 |
+| 3 | [MUHAMMADAMIN100](https://github.com/MUHAMMADAMIN100) | Muhammadamin | Tajikistan,Dushanbe | 1,421 |
+| 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin | Dushanbe Tajikistan | 1,380 |
+| 5 | [karimzade4444](https://github.com/karimzade4444) | Karimzoda Mustafo | st. Ayni 48, Dushanbe, Tajikistan | 1,021 |
+| 6 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 996 |
+| 7 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | Dushanbe | 978 |
+| 8 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | Dushanbe, Tajikistan | 976 |
+| 9 | [bezhan2009](https://github.com/bezhan2009) | Karimov Bezhan | Tajikistan | 788 |
+| 10 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 773 |
+| 11 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Dushanbe, Tajikistan | 760 |
+| 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 656 |
+| 13 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov | Dushanbe, Tajikistan | 518 |
+| 14 | [Roma-723](https://github.com/Roma-723) | Yusufjon | Dushanbe | 466 |
+| 15 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor | Tajikistan | 437 |
+| 16 | [rustamovy9](https://github.com/rustamovy9) |  | Dushanbe,Tajikistan | 428 |
+| 17 | [Ismatjonov](https://github.com/Ismatjonov) | Bakhtovar Ismatjonov | Tajikistan, Khujand | 413 |
+| 18 | [Melikzoda-Muslihiddin](https://github.com/Melikzoda-Muslihiddin) | Muslim Melikzoda | Dushanbe | 382 |
+| 19 | [adilovcode](https://github.com/adilovcode) | Umar Adilov | Dushanbe | 371 |
+| 20 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | Dushanbe | 364 |
 
 ## Followers
 

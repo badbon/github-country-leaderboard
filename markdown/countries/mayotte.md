@@ -4,18 +4,18 @@ Indexed users: 17
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/mayotte.md) |
 | Total Contributions | [Open](../total_contributions/mayotte.md) |
+| Public Contributions | [Open](../public_contributions/mayotte.md) |
 | Followers | [Open](../followers/mayotte.md) |
 
-## Public Contributions
+## Total Contributions
 
-| # | User | Name | Location | Public Contributions |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 391 |
-| 2 | [feycoil](https://github.com/feycoil) | Feyçoil Mouhoussoune | Mamoudzou | 327 |
-| 3 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 99 |
-| 4 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | Mayotte | 22 |
+| 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 1,494 |
+| 2 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 391 |
+| 3 | [feycoil](https://github.com/feycoil) | Feyçoil Mouhoussoune | Mamoudzou | 327 |
+| 4 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | Mayotte | 184 |
 | 5 | [anniou21](https://github.com/anniou21) | Anniou | Mayotte | 17 |
 | 6 | [nuthered](https://github.com/nuthered) |  | East Kevinbury, Mayotte | 15 |
 | 7 | [gbourel](https://github.com/gbourel) |  | Mamoudzou, Mayotte | 5 |
@@ -30,14 +30,14 @@ Indexed users: 17
 | 16 | [toiha](https://github.com/toiha) | Issihaca Toiha | Mayotte | 0 |
 | 17 | [tuthur9A](https://github.com/tuthur9A) |  | Mamoudzou, Mayotte | 0 |
 
-## Total Contributions
+## Public Contributions
 
-| # | User | Name | Location | Total Contributions |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 1,494 |
-| 2 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 391 |
-| 3 | [feycoil](https://github.com/feycoil) | Feyçoil Mouhoussoune | Mamoudzou | 327 |
-| 4 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | Mayotte | 184 |
+| 1 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 391 |
+| 2 | [feycoil](https://github.com/feycoil) | Feyçoil Mouhoussoune | Mamoudzou | 327 |
+| 3 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit | Mayotte | 99 |
+| 4 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | Mayotte | 22 |
 | 5 | [anniou21](https://github.com/anniou21) | Anniou | Mayotte | 17 |
 | 6 | [nuthered](https://github.com/nuthered) |  | East Kevinbury, Mayotte | 15 |
 | 7 | [gbourel](https://github.com/gbourel) |  | Mamoudzou, Mayotte | 5 |

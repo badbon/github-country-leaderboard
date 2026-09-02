@@ -4,34 +4,9 @@ Indexed users: 4,926
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/estonia.md) |
 | Total Contributions | [Open](../total_contributions/estonia.md) |
+| Public Contributions | [Open](../public_contributions/estonia.md) |
 | Followers | [Open](../followers/estonia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [ersinkoc](https://github.com/ersinkoc) | Ersin KOÇ | Tallinn | 22,359 |
-| 2 | [livenson](https://github.com/livenson) | Ilja Livenson | Estonia | 9,018 |
-| 3 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 8,508 |
-| 4 | [v3rm0n](https://github.com/v3rm0n) | Maido Käära | Tallinn | 7,088 |
-| 5 | [xsyetopz](https://github.com/xsyetopz) | iborrowcheckbtw | Tartu, Estonia | 6,081 |
-| 6 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 5,781 |
-| 7 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 4,882 |
-| 8 | [tot-ra](https://github.com/tot-ra) | Artjom Kurapov | Tallinn, Estonia | 4,407 |
-| 9 | [AmbientLighter](https://github.com/AmbientLighter) | Viktor Mirieiev | Tallinn | 3,899 |
-| 10 | [crc137](https://github.com/crc137) | Alberto Clemente | Ehitajate tee 153 13517 Tallinn Estonia | 3,745 |
-| 11 | [GelatoGenesis](https://github.com/GelatoGenesis) | GelatoGenesis | Estonia | 3,272 |
-| 12 | [ddanila](https://github.com/ddanila) | Danila Sukharev | Tallinn, Estonia | 3,217 |
-| 13 | [cogni-ai-ee](https://github.com/cogni-ai-ee) | Cogni AI | Tallinn, Estonia | 3,201 |
-| 14 | [Artexis10](https://github.com/Artexis10) | Hugo Ander Kivi | Tallinn | 3,157 |
-| 15 | [ddon](https://github.com/ddon) | Dmitri Don | Tallinn, Estonia | 3,112 |
-| 16 | [timujinne](https://github.com/timujinne) | Tymofii Shapovalov | Tallinn, Estonia | 3,049 |
-| 17 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Estonia | 3,013 |
-| 18 | [henrikaavik](https://github.com/henrikaavik) | Henrik Aavik | Tallinn, Estonia | 2,994 |
-| 19 | [kpavlov](https://github.com/kpavlov) | Konstantin Pavlov | Tallinn, Estonia | 2,988 |
-| 20 | [janklosowski](https://github.com/janklosowski) | klos | Estonia | 2,807 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 4,926
 | 18 | [Kypsis](https://github.com/Kypsis) | Harry Sild | Estonia | 10,406 |
 | 19 | [krishaamer](https://github.com/krishaamer) | Kris Haamer | Estonia / Portugal / Sao Tomé / Taiwan | 10,174 |
 | 20 | [thomasklemm](https://github.com/thomasklemm) | Thomas Klemm | Tallinn, Estonia | 9,980 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [ersinkoc](https://github.com/ersinkoc) | Ersin KOÇ | Tallinn | 22,359 |
+| 2 | [livenson](https://github.com/livenson) | Ilja Livenson | Estonia | 9,018 |
+| 3 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 8,508 |
+| 4 | [v3rm0n](https://github.com/v3rm0n) | Maido Käära | Tallinn | 7,088 |
+| 5 | [xsyetopz](https://github.com/xsyetopz) | iborrowcheckbtw | Tartu, Estonia | 6,081 |
+| 6 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 5,781 |
+| 7 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 4,882 |
+| 8 | [tot-ra](https://github.com/tot-ra) | Artjom Kurapov | Tallinn, Estonia | 4,407 |
+| 9 | [AmbientLighter](https://github.com/AmbientLighter) | Viktor Mirieiev | Tallinn | 3,899 |
+| 10 | [crc137](https://github.com/crc137) | Alberto Clemente | Ehitajate tee 153 13517 Tallinn Estonia | 3,745 |
+| 11 | [GelatoGenesis](https://github.com/GelatoGenesis) | GelatoGenesis | Estonia | 3,272 |
+| 12 | [ddanila](https://github.com/ddanila) | Danila Sukharev | Tallinn, Estonia | 3,217 |
+| 13 | [cogni-ai-ee](https://github.com/cogni-ai-ee) | Cogni AI | Tallinn, Estonia | 3,201 |
+| 14 | [Artexis10](https://github.com/Artexis10) | Hugo Ander Kivi | Tallinn | 3,157 |
+| 15 | [ddon](https://github.com/ddon) | Dmitri Don | Tallinn, Estonia | 3,112 |
+| 16 | [timujinne](https://github.com/timujinne) | Tymofii Shapovalov | Tallinn, Estonia | 3,049 |
+| 17 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Estonia | 3,013 |
+| 18 | [henrikaavik](https://github.com/henrikaavik) | Henrik Aavik | Tallinn, Estonia | 2,994 |
+| 19 | [kpavlov](https://github.com/kpavlov) | Konstantin Pavlov | Tallinn, Estonia | 2,988 |
+| 20 | [janklosowski](https://github.com/janklosowski) | klos | Estonia | 2,807 |
 
 ## Followers
 

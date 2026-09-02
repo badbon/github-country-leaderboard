@@ -4,34 +4,9 @@ Indexed users: 61
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/aland_islands.md) |
 | Total Contributions | [Open](../total_contributions/aland_islands.md) |
+| Public Contributions | [Open](../public_contributions/aland_islands.md) |
 | Followers | [Open](../followers/aland_islands.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 1,233 |
-| 2 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 1,041 |
-| 3 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 965 |
-| 4 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 906 |
-| 5 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 535 |
-| 6 | [karusmari](https://github.com/karusmari) | Maris Karu | Åland Islands | 488 |
-| 7 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 400 |
-| 8 | [kejpa](https://github.com/kejpa) | Kjell Hansen | Mariehamn, Åland Islands | 397 |
-| 9 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 220 |
-| 10 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 211 |
-| 11 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 141 |
-| 12 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 120 |
-| 13 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 118 |
-| 14 | [giAddams](https://github.com/giAddams) | Geraldine Addamo | Mariehamn | 81 |
-| 15 | [hmenorjr](https://github.com/hmenorjr) | Herman Menor, Jr. | Åland Islands, Finland | 62 |
-| 16 | [mavka1207](https://github.com/mavka1207) | Kateryna Ovsiienko | Mariehamn | 57 |
-| 17 | [ejmilli](https://github.com/ejmilli) | eliza john |  Åland Islands, Finland | 46 |
-| 18 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 45 |
-| 19 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland Islands | 20 |
-| 20 | [borsokman](https://github.com/borsokman) | Sagyn | Mariehamn & Stockholm  | 15 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 61
 | 18 | [viktor-sarge](https://github.com/viktor-sarge) | Viktor Sarge | Mariehamn | 178 |
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 176 |
 | 20 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 141 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 1,233 |
+| 2 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 1,041 |
+| 3 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 965 |
+| 4 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 906 |
+| 5 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 535 |
+| 6 | [karusmari](https://github.com/karusmari) | Maris Karu | Åland Islands | 488 |
+| 7 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 400 |
+| 8 | [kejpa](https://github.com/kejpa) | Kjell Hansen | Mariehamn, Åland Islands | 397 |
+| 9 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 220 |
+| 10 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 211 |
+| 11 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 141 |
+| 12 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 120 |
+| 13 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 118 |
+| 14 | [giAddams](https://github.com/giAddams) | Geraldine Addamo | Mariehamn | 81 |
+| 15 | [hmenorjr](https://github.com/hmenorjr) | Herman Menor, Jr. | Åland Islands, Finland | 62 |
+| 16 | [mavka1207](https://github.com/mavka1207) | Kateryna Ovsiienko | Mariehamn | 57 |
+| 17 | [ejmilli](https://github.com/ejmilli) | eliza john |  Åland Islands, Finland | 46 |
+| 18 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 45 |
+| 19 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland Islands | 20 |
+| 20 | [borsokman](https://github.com/borsokman) | Sagyn | Mariehamn & Stockholm  | 15 |
 
 ## Followers
 

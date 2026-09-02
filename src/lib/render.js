@@ -20,6 +20,7 @@ export const CATEGORY_META = {
 };
 
 export const CATEGORY_KEYS = Object.keys(CATEGORY_META);
+const COUNTRY_HUB_CATEGORY_KEYS = ["totalContributions", "publicContributions", "followers"];
 
 export function renderLeaderboard({ country, users, category, generatedAt }) {
   const meta = CATEGORY_META[category];
@@ -166,13 +167,13 @@ export function renderCountryHub({ country, users, generatedAt }) {
     "",
     "| Leaderboard | Link |",
     "|---|---|",
-    `| Public Contributions | [Open](../public_contributions/${country.slug}.md) |`,
     `| Total Contributions | [Open](../total_contributions/${country.slug}.md) |`,
+    `| Public Contributions | [Open](../public_contributions/${country.slug}.md) |`,
     `| Followers | [Open](../followers/${country.slug}.md) |`,
     ""
   ];
 
-  for (const category of CATEGORY_KEYS) {
+  for (const category of COUNTRY_HUB_CATEGORY_KEYS) {
     const meta = CATEGORY_META[category];
     lines.push(`## ${meta.title}`, "");
     lines.push(...renderCompactLeaderboardRows({ users, category }));

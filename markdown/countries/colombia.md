@@ -4,34 +4,9 @@ Indexed users: 29,123
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/colombia.md) |
 | Total Contributions | [Open](../total_contributions/colombia.md) |
+| Public Contributions | [Open](../public_contributions/colombia.md) |
 | Followers | [Open](../followers/colombia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [jesus-a-martinez-v](https://github.com/jesus-a-martinez-v) | Jesús Martínez | Colombia | 36,128 |
-| 2 | [NietoDeveloper](https://github.com/NietoDeveloper) | Manuel Nieto | Bogota, Colombia | 15,057 |
-| 3 | [mikerb95](https://github.com/mikerb95) | Mike Rodriguez | Bogotá, Colombia. | 11,177 |
-| 4 | [DLozanoNavas](https://github.com/DLozanoNavas) | Daniel Lozano Navas | Medellín, Colombia | 8,644 |
-| 5 | [johnny4young](https://github.com/johnny4young) | Johnny IV Young Ospino | Medellín, Colombia | 6,626 |
-| 6 | [jdvelasq](https://github.com/jdvelasq) | Juan David Velásquez-Henao | Medellín, Colombia | 6,020 |
-| 7 | [Jaro-c](https://github.com/Jaro-c) | Jose | Colombia | 6,008 |
-| 8 | [uno0uno](https://github.com/uno0uno) | Uno0uno | Bogotá, Colombia | 5,888 |
-| 9 | [lordmacu](https://github.com/lordmacu) | Crsitian Camilo Garcia | bogota Colombia | 5,785 |
-| 10 | [broomva](https://github.com/broomva) | Carlos D. Escobar-Valbuena | Colombia | 5,198 |
-| 11 | [eduardotp77](https://github.com/eduardotp77) | Eduardo Tobacia | Bucaramanga, Santander, Colombia | 4,638 |
-| 12 | [DevJuan001](https://github.com/DevJuan001) | Juan | Bogotá, Colombia | 4,559 |
-| 13 | [rmunate](https://github.com/rmunate) | Raúl Mauricio Uñate Castro | Colombia | 4,264 |
-| 14 | [hulkike](https://github.com/hulkike) | Hernando Enrique Moreno Moreno | Colombia, Bogotá | 4,226 |
-| 15 | [oscampo](https://github.com/oscampo) | Oscar Campo | Colombia | 4,111 |
-| 16 | [Carlosaac23](https://github.com/Carlosaac23) | Carlos Acosta | Colombia | 3,953 |
-| 17 | [xergioalex](https://github.com/xergioalex) | Sergio Florez | Pereira, Colombia | 3,912 |
-| 18 | [Mgldvd](https://github.com/Mgldvd) | Mgldvd | Colombia | 3,877 |
-| 19 | [mjfelis](https://github.com/mjfelis) | Fabrice Rochette | Bogotá, Colombia | 3,807 |
-| 20 | [FraVelz](https://github.com/FraVelz) | (FV) Fravelz | Colombia | 3,774 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 29,123
 | 18 | [SebastianLopezO](https://github.com/SebastianLopezO) | Sebastián López O | Colombia | 12,412 |
 | 19 | [Jaro-c](https://github.com/Jaro-c) | Jose | Colombia | 11,988 |
 | 20 | [mikerb95](https://github.com/mikerb95) | Mike Rodriguez | Bogotá, Colombia. | 11,484 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [jesus-a-martinez-v](https://github.com/jesus-a-martinez-v) | Jesús Martínez | Colombia | 36,128 |
+| 2 | [NietoDeveloper](https://github.com/NietoDeveloper) | Manuel Nieto | Bogota, Colombia | 15,057 |
+| 3 | [mikerb95](https://github.com/mikerb95) | Mike Rodriguez | Bogotá, Colombia. | 11,177 |
+| 4 | [DLozanoNavas](https://github.com/DLozanoNavas) | Daniel Lozano Navas | Medellín, Colombia | 8,644 |
+| 5 | [johnny4young](https://github.com/johnny4young) | Johnny IV Young Ospino | Medellín, Colombia | 6,626 |
+| 6 | [jdvelasq](https://github.com/jdvelasq) | Juan David Velásquez-Henao | Medellín, Colombia | 6,020 |
+| 7 | [Jaro-c](https://github.com/Jaro-c) | Jose | Colombia | 6,008 |
+| 8 | [uno0uno](https://github.com/uno0uno) | Uno0uno | Bogotá, Colombia | 5,888 |
+| 9 | [lordmacu](https://github.com/lordmacu) | Crsitian Camilo Garcia | bogota Colombia | 5,785 |
+| 10 | [broomva](https://github.com/broomva) | Carlos D. Escobar-Valbuena | Colombia | 5,198 |
+| 11 | [eduardotp77](https://github.com/eduardotp77) | Eduardo Tobacia | Bucaramanga, Santander, Colombia | 4,638 |
+| 12 | [DevJuan001](https://github.com/DevJuan001) | Juan | Bogotá, Colombia | 4,559 |
+| 13 | [rmunate](https://github.com/rmunate) | Raúl Mauricio Uñate Castro | Colombia | 4,264 |
+| 14 | [hulkike](https://github.com/hulkike) | Hernando Enrique Moreno Moreno | Colombia, Bogotá | 4,226 |
+| 15 | [oscampo](https://github.com/oscampo) | Oscar Campo | Colombia | 4,111 |
+| 16 | [Carlosaac23](https://github.com/Carlosaac23) | Carlos Acosta | Colombia | 3,953 |
+| 17 | [xergioalex](https://github.com/xergioalex) | Sergio Florez | Pereira, Colombia | 3,912 |
+| 18 | [Mgldvd](https://github.com/Mgldvd) | Mgldvd | Colombia | 3,877 |
+| 19 | [mjfelis](https://github.com/mjfelis) | Fabrice Rochette | Bogotá, Colombia | 3,807 |
+| 20 | [FraVelz](https://github.com/FraVelz) | (FV) Fravelz | Colombia | 3,774 |
 
 ## Followers
 

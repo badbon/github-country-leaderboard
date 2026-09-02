@@ -4,34 +4,9 @@ Indexed users: 2,884
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/cambodia.md) |
 | Total Contributions | [Open](../total_contributions/cambodia.md) |
+| Public Contributions | [Open](../public_contributions/cambodia.md) |
 | Followers | [Open](../followers/cambodia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [pphatdev](https://github.com/pphatdev) | pphat | Cambodia | 4,261 |
-| 2 | [phalla-doll](https://github.com/phalla-doll) | Phalla | Phnom Penh, Cambodia | 4,204 |
-| 3 | [socheatsok78](https://github.com/socheatsok78) | Socheat | Cambodia | 3,152 |
-| 4 | [nirvn](https://github.com/nirvn) | Mathieu Pellerin | Southeast Asia, based in Phnom Penh | 3,143 |
-| 5 | [cbrunnkvist](https://github.com/cbrunnkvist) | Conny Brunnkvist | Siem Reap, Cambodia | 2,485 |
-| 6 | [khengleng](https://github.com/khengleng) | khengleng | Cambodia | 2,116 |
-| 7 | [sokpichdev](https://github.com/sokpichdev) | Sok Pich | Phnom Penh, Cambodia | 1,861 |
-| 8 | [Choeng-Rayu](https://github.com/Choeng-Rayu) | រ៉ាយុ | Cambodia | 1,806 |
-| 9 | [SRUN-Sochettra](https://github.com/SRUN-Sochettra) | SRUN-Sochettra | Phnom Penh, Cambodia | 1,762 |
-| 10 | [sublimator](https://github.com/sublimator) | Niq Dudfield | Phnom Penh | 1,667 |
-| 11 | [GoodDay360](https://github.com/GoodDay360) | GoodDay | Cambodia | 1,611 |
-| 12 | [OuThorninvithyea](https://github.com/OuThorninvithyea) | Chea | Cambodia | 1,483 |
-| 13 | [RaksaOC](https://github.com/RaksaOC) | Chanraksa Ory | Phnom Penh, Cambodia | 1,442 |
-| 14 | [rithythul](https://github.com/rithythul) | rithythul | Phnom Penh | 1,405 |
-| 15 | [vandetho](https://github.com/vandetho) | Vandeth THO | Phnom Penh | 1,335 |
-| 16 | [thornrithy](https://github.com/thornrithy) | Thy | Phnom Penh | 1,318 |
-| 17 | [limkhysok](https://github.com/limkhysok) | Limkhy Sok | Cambodia | 1,285 |
-| 18 | [monmatprogramer](https://github.com/monmatprogramer) | Mon  Mat | Cambodia | 1,211 |
-| 19 | [tola-san](https://github.com/tola-san) |  | Cambodia | 1,151 |
-| 20 | [PisethChuon](https://github.com/PisethChuon) | Piseth Chuon | Phnom Penh | 1,125 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 2,884
 | 18 | [Hirocoding69](https://github.com/Hirocoding69) | Teng Sambo | Phnom Penh | 3,661 |
 | 19 | [kvsovanreach](https://github.com/kvsovanreach) | Vungsovanreach KONG | Phnom Penh, Cambodia | 3,578 |
 | 20 | [BunHouth](https://github.com/BunHouth) | Bunhouth | Phnom Penh | 3,562 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [pphatdev](https://github.com/pphatdev) | pphat | Cambodia | 4,261 |
+| 2 | [phalla-doll](https://github.com/phalla-doll) | Phalla | Phnom Penh, Cambodia | 4,204 |
+| 3 | [socheatsok78](https://github.com/socheatsok78) | Socheat | Cambodia | 3,152 |
+| 4 | [nirvn](https://github.com/nirvn) | Mathieu Pellerin | Southeast Asia, based in Phnom Penh | 3,143 |
+| 5 | [cbrunnkvist](https://github.com/cbrunnkvist) | Conny Brunnkvist | Siem Reap, Cambodia | 2,485 |
+| 6 | [khengleng](https://github.com/khengleng) | khengleng | Cambodia | 2,116 |
+| 7 | [sokpichdev](https://github.com/sokpichdev) | Sok Pich | Phnom Penh, Cambodia | 1,861 |
+| 8 | [Choeng-Rayu](https://github.com/Choeng-Rayu) | រ៉ាយុ | Cambodia | 1,806 |
+| 9 | [SRUN-Sochettra](https://github.com/SRUN-Sochettra) | SRUN-Sochettra | Phnom Penh, Cambodia | 1,762 |
+| 10 | [sublimator](https://github.com/sublimator) | Niq Dudfield | Phnom Penh | 1,667 |
+| 11 | [GoodDay360](https://github.com/GoodDay360) | GoodDay | Cambodia | 1,611 |
+| 12 | [OuThorninvithyea](https://github.com/OuThorninvithyea) | Chea | Cambodia | 1,483 |
+| 13 | [RaksaOC](https://github.com/RaksaOC) | Chanraksa Ory | Phnom Penh, Cambodia | 1,442 |
+| 14 | [rithythul](https://github.com/rithythul) | rithythul | Phnom Penh | 1,405 |
+| 15 | [vandetho](https://github.com/vandetho) | Vandeth THO | Phnom Penh | 1,335 |
+| 16 | [thornrithy](https://github.com/thornrithy) | Thy | Phnom Penh | 1,318 |
+| 17 | [limkhysok](https://github.com/limkhysok) | Limkhy Sok | Cambodia | 1,285 |
+| 18 | [monmatprogramer](https://github.com/monmatprogramer) | Mon  Mat | Cambodia | 1,211 |
+| 19 | [tola-san](https://github.com/tola-san) |  | Cambodia | 1,151 |
+| 20 | [PisethChuon](https://github.com/PisethChuon) | Piseth Chuon | Phnom Penh | 1,125 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 1,764
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/moldova.md) |
 | Total Contributions | [Open](../total_contributions/moldova.md) |
+| Public Contributions | [Open](../public_contributions/moldova.md) |
 | Followers | [Open](../followers/moldova.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,106 |
-| 2 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 3,063 |
-| 3 | [deoleg](https://github.com/deoleg) | deoleg | Moldova | 3,048 |
-| 4 | [texpert](https://github.com/texpert) | Aurel Branzeanu | Chisinau, Moldova | 2,530 |
-| 5 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku | Chisinau, Moldova | 2,388 |
-| 6 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | Chisinau, Moldova | 1,808 |
-| 7 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | Moldova | 1,764 |
-| 8 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu | Moldova | 1,761 |
-| 9 | [teratron](https://github.com/teratron) | Oleg Alexandrov | Moldova | 1,665 |
-| 10 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 1,498 |
-| 11 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh | Moldova | 1,453 |
-| 12 | [Mazzay123](https://github.com/Mazzay123) | Mazzay123 | Moldova | 1,431 |
-| 13 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 1,421 |
-| 14 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,273 |
-| 15 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,268 |
-| 16 | [GuidixX](https://github.com/GuidixX) | GuidixX | Moldova | 1,252 |
-| 17 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,195 |
-| 18 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov | Moldova | 1,147 |
-| 19 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov | Chisinau, Moldova | 1,113 |
-| 20 | [soringoredev](https://github.com/soringoredev) | Sorin Gore | Moldova, Chisinau | 976 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,764
 | 18 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov | Moldova | 3,537 |
 | 19 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 3,531 |
 | 20 | [ion-golovco](https://github.com/ion-golovco) | Golovco Ion | Moldova | 3,471 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,106 |
+| 2 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 3,063 |
+| 3 | [deoleg](https://github.com/deoleg) | deoleg | Moldova | 3,048 |
+| 4 | [texpert](https://github.com/texpert) | Aurel Branzeanu | Chisinau, Moldova | 2,530 |
+| 5 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku | Chisinau, Moldova | 2,388 |
+| 6 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | Chisinau, Moldova | 1,808 |
+| 7 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | Moldova | 1,764 |
+| 8 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu | Moldova | 1,761 |
+| 9 | [teratron](https://github.com/teratron) | Oleg Alexandrov | Moldova | 1,665 |
+| 10 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 1,498 |
+| 11 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh | Moldova | 1,453 |
+| 12 | [Mazzay123](https://github.com/Mazzay123) | Mazzay123 | Moldova | 1,431 |
+| 13 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 1,421 |
+| 14 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,273 |
+| 15 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,268 |
+| 16 | [GuidixX](https://github.com/GuidixX) | GuidixX | Moldova | 1,252 |
+| 17 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,195 |
+| 18 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov | Moldova | 1,147 |
+| 19 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov | Chisinau, Moldova | 1,113 |
+| 20 | [soringoredev](https://github.com/soringoredev) | Sorin Gore | Moldova, Chisinau | 976 |
 
 ## Followers
 

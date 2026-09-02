@@ -4,13 +4,13 @@ Indexed users: 5
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/pitcairn_islands.md) |
 | Total Contributions | [Open](../total_contributions/pitcairn_islands.md) |
+| Public Contributions | [Open](../public_contributions/pitcairn_islands.md) |
 | Followers | [Open](../followers/pitcairn_islands.md) |
 
-## Public Contributions
+## Total Contributions
 
-| # | User | Name | Location | Public Contributions |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [tedfelix](https://github.com/tedfelix) | Ted Felix | Adamstown, MD | 361 |
 | 2 | [ghost0x02](https://github.com/ghost0x02) | enesxsec  | pitcairn | 177 |
@@ -18,9 +18,9 @@ Indexed users: 5
 | 4 | [MargareteJenkins](https://github.com/MargareteJenkins) | Estelle Schmitt | East Rigobertoport, Pitcairn Islands | 0 |
 | 5 | [slickpro21](https://github.com/slickpro21) | Tyler Moyer | Adamstown, PA | 0 |
 
-## Total Contributions
+## Public Contributions
 
-| # | User | Name | Location | Total Contributions |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [tedfelix](https://github.com/tedfelix) | Ted Felix | Adamstown, MD | 361 |
 | 2 | [ghost0x02](https://github.com/ghost0x02) | enesxsec  | pitcairn | 177 |

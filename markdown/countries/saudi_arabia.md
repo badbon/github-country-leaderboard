@@ -4,34 +4,9 @@ Indexed users: 7,704
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/saudi_arabia.md) |
 | Total Contributions | [Open](../total_contributions/saudi_arabia.md) |
+| Public Contributions | [Open](../public_contributions/saudi_arabia.md) |
 | Followers | [Open](../followers/saudi_arabia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [Saleh7](https://github.com/Saleh7) | ~/Saleh | Kingdom of Saudi Arabia | 240,766 |
-| 2 | [AbdullahMu](https://github.com/AbdullahMu) | Abdullah AlGhamdi | Riyadh, Saudi Arabia | 130,667 |
-| 3 | [mo9a7i](https://github.com/mo9a7i) | Mohannad Faihan Otaibi | Saudi Arabia | 28,833 |
-| 4 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad | Saudi Arabia | 11,447 |
-| 5 | [coldworld22](https://github.com/coldworld22) | Ayman Mohammed Osman Bashir | Abha, Saudi Arabia | 8,944 |
-| 6 | [alhanoofalabdullah-ai](https://github.com/alhanoofalabdullah-ai) | Alhanoof Alabdullah | Saudi Arabia, Riyadh city | 5,253 |
-| 7 | [justpainful](https://github.com/justpainful) | Faisal | Saudi Arabia | 4,181 |
-| 8 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi | Saudi Arabia | 4,084 |
-| 9 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb | Saudi Arabia | 3,756 |
-| 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | Riyadh, Saudi Arabia | 3,442 |
-| 11 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan | Saudi arabia, Jeddah | 2,720 |
-| 12 | [Lamyaa439](https://github.com/Lamyaa439) | Lamyaa  | Riyadh | 2,589 |
-| 13 | [Su03l](https://github.com/Su03l) | Suliman Yousef | Saudi Arabia | 2,480 |
-| 14 | [Fadil369](https://github.com/Fadil369) | Mohamed El Fadil  MD | Saudi Arabia, Riyadh | 2,465 |
-| 15 | [nn6n](https://github.com/nn6n) |  | Saudi Arabia  | 2,459 |
-| 16 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | Thuwal, Saudi Arabia | 2,413 |
-| 17 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler | Riyadh, Saudi Arabia | 2,294 |
-| 18 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | Al-Riyadh, Saudi Arabia | 2,289 |
-| 19 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | Saudi Arabia | 2,261 |
-| 20 | [aliakarma](https://github.com/aliakarma) | Ali Akarma | Madinah, Saudi Arabia | 2,238 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 7,704
 | 18 | [GarthOrmsby](https://github.com/GarthOrmsby) |  | Saudi Arabia | 8,196 |
 | 19 | [devmsh](https://github.com/devmsh) | Mohammed S Shurrab | Jeddah, Saudi Arabia | 8,144 |
 | 20 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS | Saudi Arabia | 7,587 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [Saleh7](https://github.com/Saleh7) | ~/Saleh | Kingdom of Saudi Arabia | 240,766 |
+| 2 | [AbdullahMu](https://github.com/AbdullahMu) | Abdullah AlGhamdi | Riyadh, Saudi Arabia | 130,667 |
+| 3 | [mo9a7i](https://github.com/mo9a7i) | Mohannad Faihan Otaibi | Saudi Arabia | 28,833 |
+| 4 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad | Saudi Arabia | 11,447 |
+| 5 | [coldworld22](https://github.com/coldworld22) | Ayman Mohammed Osman Bashir | Abha, Saudi Arabia | 8,944 |
+| 6 | [alhanoofalabdullah-ai](https://github.com/alhanoofalabdullah-ai) | Alhanoof Alabdullah | Saudi Arabia, Riyadh city | 5,253 |
+| 7 | [justpainful](https://github.com/justpainful) | Faisal | Saudi Arabia | 4,181 |
+| 8 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi | Saudi Arabia | 4,084 |
+| 9 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb | Saudi Arabia | 3,756 |
+| 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | Riyadh, Saudi Arabia | 3,442 |
+| 11 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan | Saudi arabia, Jeddah | 2,720 |
+| 12 | [Lamyaa439](https://github.com/Lamyaa439) | Lamyaa  | Riyadh | 2,589 |
+| 13 | [Su03l](https://github.com/Su03l) | Suliman Yousef | Saudi Arabia | 2,480 |
+| 14 | [Fadil369](https://github.com/Fadil369) | Mohamed El Fadil  MD | Saudi Arabia, Riyadh | 2,465 |
+| 15 | [nn6n](https://github.com/nn6n) |  | Saudi Arabia  | 2,459 |
+| 16 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | Thuwal, Saudi Arabia | 2,413 |
+| 17 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler | Riyadh, Saudi Arabia | 2,294 |
+| 18 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | Al-Riyadh, Saudi Arabia | 2,289 |
+| 19 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | Saudi Arabia | 2,261 |
+| 20 | [aliakarma](https://github.com/aliakarma) | Ali Akarma | Madinah, Saudi Arabia | 2,238 |
 
 ## Followers
 

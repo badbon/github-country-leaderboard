@@ -4,34 +4,9 @@ Indexed users: 1,367
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/senegal.md) |
 | Total Contributions | [Open](../total_contributions/senegal.md) |
+| Public Contributions | [Open](../public_contributions/senegal.md) |
 | Followers | [Open](../followers/senegal.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 3,173 |
-| 2 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,475 |
-| 3 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,190 |
-| 4 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 2,158 |
-| 5 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,903 |
-| 6 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 1,839 |
-| 7 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,545 |
-| 8 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,452 |
-| 9 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,173 |
-| 10 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,147 |
-| 11 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,131 |
-| 12 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 1,108 |
-| 13 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 1,067 |
-| 14 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,052 |
-| 15 | [bngesp](https://github.com/bngesp) | bassirou ngom | Senegal | 998 |
-| 16 | [likemcode](https://github.com/likemcode) | josue Avuh | Dakar | 927 |
-| 17 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 900 |
-| 18 | [PapePathe](https://github.com/PapePathe) | Papa Pathé SENE | Dakar Sénégal West Africa | 853 |
-| 19 | [lucien-loua](https://github.com/lucien-loua) | lU | Dakar, Senegal | 810 |
-| 20 | [seydinalimamoulayeyade](https://github.com/seydinalimamoulayeyade) | Seydina Limamou Laye Yade | Dakar, Senegal | 773 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,367
 | 18 | [flrxnt](https://github.com/flrxnt) | Florent Azonnoudo | Dakar, Sénégal | 3,034 |
 | 19 | [ndiaye70](https://github.com/ndiaye70) | Pape Abdoulaye Ndiaye | Senegal,Dakar | 3,022 |
 | 20 | [tamsir](https://github.com/tamsir) | Tamsir SENE | Dakar (Sénégal) | 3,003 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 3,173 |
+| 2 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,475 |
+| 3 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,190 |
+| 4 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 2,158 |
+| 5 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,903 |
+| 6 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 1,839 |
+| 7 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,545 |
+| 8 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,452 |
+| 9 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,173 |
+| 10 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,147 |
+| 11 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,131 |
+| 12 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 1,108 |
+| 13 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 1,067 |
+| 14 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,052 |
+| 15 | [bngesp](https://github.com/bngesp) | bassirou ngom | Senegal | 998 |
+| 16 | [likemcode](https://github.com/likemcode) | josue Avuh | Dakar | 927 |
+| 17 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 900 |
+| 18 | [PapePathe](https://github.com/PapePathe) | Papa Pathé SENE | Dakar Sénégal West Africa | 853 |
+| 19 | [lucien-loua](https://github.com/lucien-loua) | lU | Dakar, Senegal | 810 |
+| 20 | [seydinalimamoulayeyade](https://github.com/seydinalimamoulayeyade) | Seydina Limamou Laye Yade | Dakar, Senegal | 773 |
 
 ## Followers
 

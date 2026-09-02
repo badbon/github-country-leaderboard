@@ -4,34 +4,9 @@ Indexed users: 904
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/malawi.md) |
 | Total Contributions | [Open](../total_contributions/malawi.md) |
+| Public Contributions | [Open](../public_contributions/malawi.md) |
 | Followers | [Open](../followers/malawi.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,086 |
-| 2 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 1,555 |
-| 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 1,523 |
-| 4 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje | Lilongwe, Malawi | 1,392 |
-| 5 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 1,095 |
-| 6 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | Lilongwe, Malawi | 845 |
-| 7 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 823 |
-| 8 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 | Malawi | 767 |
-| 9 | [lcfranklin](https://github.com/lcfranklin) | Franklin | Rumphi, Malawi | 692 |
-| 10 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 667 |
-| 11 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
-| 12 | [Forgata](https://github.com/Forgata) | Forgata | Malawi | 615 |
-| 13 | [MichaelKazembe](https://github.com/MichaelKazembe) | Michael Tatani Kazembe | Lilongwe, Malawi | 571 |
-| 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 559 |
-| 15 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Malawi  | 545 |
-| 16 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 535 |
-| 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 528 |
-| 18 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 456 |
-| 19 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | Lilongwe | 453 |
-| 20 | [uniquedj95](https://github.com/uniquedj95) | Daniel Justin | Lilongwe, Malawi | 440 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 904
 | 18 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 3,127 |
 | 19 | [caesar127](https://github.com/caesar127) | Caesar Ndawala | Malawi | 2,996 |
 | 20 | [nedieyassin](https://github.com/nedieyassin) | NEDIE.YASSIN | lilongwe, malawi | 2,850 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,086 |
+| 2 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 1,555 |
+| 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 1,523 |
+| 4 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje | Lilongwe, Malawi | 1,392 |
+| 5 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 1,095 |
+| 6 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | Lilongwe, Malawi | 845 |
+| 7 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 823 |
+| 8 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 | Malawi | 767 |
+| 9 | [lcfranklin](https://github.com/lcfranklin) | Franklin | Rumphi, Malawi | 692 |
+| 10 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 667 |
+| 11 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
+| 12 | [Forgata](https://github.com/Forgata) | Forgata | Malawi | 615 |
+| 13 | [MichaelKazembe](https://github.com/MichaelKazembe) | Michael Tatani Kazembe | Lilongwe, Malawi | 571 |
+| 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 559 |
+| 15 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Malawi  | 545 |
+| 16 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 535 |
+| 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 528 |
+| 18 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 456 |
+| 19 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | Lilongwe | 453 |
+| 20 | [uniquedj95](https://github.com/uniquedj95) | Daniel Justin | Lilongwe, Malawi | 440 |
 
 ## Followers
 

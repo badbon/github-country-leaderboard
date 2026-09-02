@@ -4,34 +4,9 @@ Indexed users: 4,706
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/slovakia.md) |
 | Total Contributions | [Open](../total_contributions/slovakia.md) |
+| Public Contributions | [Open](../public_contributions/slovakia.md) |
 | Followers | [Open](../followers/slovakia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Bratislava | 7,850 |
-| 2 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 7,535 |
-| 3 | [tomasol](https://github.com/tomasol) | Tomáš Olvecký | Bratislava, Slovakia | 5,880 |
-| 4 | [rischo32](https://github.com/rischo32) | Richard Fonfára | Slovakia | 3,943 |
-| 5 | [lalinsky](https://github.com/lalinsky) | Lukáš Lalinský | Trenčín, Slovakia | 3,812 |
-| 6 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 3,766 |
-| 7 | [imincik](https://github.com/imincik) | Ivan Mincik | Slovakia | 3,740 |
-| 8 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 3,713 |
-| 9 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 3,667 |
-| 10 | [marianmeres](https://github.com/marianmeres) | Marian Meres | Bratislava, Slovakia | 3,264 |
-| 11 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,253 |
-| 12 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik | Slovakia | 3,113 |
-| 13 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor | Slovakia | 3,031 |
-| 14 | [NightMean](https://github.com/NightMean) |  | Slovakia | 3,023 |
-| 15 | [hroomnik007](https://github.com/hroomnik007) |  | Slovakia | 2,431 |
-| 16 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,395 |
-| 17 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 2,391 |
-| 18 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny | Slovakia | 2,282 |
-| 19 | [pilot2254](https://github.com/pilot2254) | mike | Slovakia | 2,172 |
-| 20 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi | Slovakia | 2,049 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 4,706
 | 18 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska | Slovakia | 7,494 |
 | 19 | [jozokovac](https://github.com/jozokovac) | Jozo Kovac | Bratislava | 7,175 |
 | 20 | [michaljurecko](https://github.com/michaljurecko) | Michal Jurečko | Slovakia | 7,108 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Bratislava | 7,850 |
+| 2 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 7,535 |
+| 3 | [tomasol](https://github.com/tomasol) | Tomáš Olvecký | Bratislava, Slovakia | 5,880 |
+| 4 | [rischo32](https://github.com/rischo32) | Richard Fonfára | Slovakia | 3,943 |
+| 5 | [lalinsky](https://github.com/lalinsky) | Lukáš Lalinský | Trenčín, Slovakia | 3,812 |
+| 6 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 3,766 |
+| 7 | [imincik](https://github.com/imincik) | Ivan Mincik | Slovakia | 3,740 |
+| 8 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 3,713 |
+| 9 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 3,667 |
+| 10 | [marianmeres](https://github.com/marianmeres) | Marian Meres | Bratislava, Slovakia | 3,264 |
+| 11 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,253 |
+| 12 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik | Slovakia | 3,113 |
+| 13 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor | Slovakia | 3,031 |
+| 14 | [NightMean](https://github.com/NightMean) |  | Slovakia | 3,023 |
+| 15 | [hroomnik007](https://github.com/hroomnik007) |  | Slovakia | 2,431 |
+| 16 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,395 |
+| 17 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 2,391 |
+| 18 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny | Slovakia | 2,282 |
+| 19 | [pilot2254](https://github.com/pilot2254) | mike | Slovakia | 2,172 |
+| 20 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi | Slovakia | 2,049 |
 
 ## Followers
 

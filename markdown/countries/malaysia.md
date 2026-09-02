@@ -4,34 +4,9 @@ Indexed users: 11,801
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/malaysia.md) |
 | Total Contributions | [Open](../total_contributions/malaysia.md) |
+| Public Contributions | [Open](../public_contributions/malaysia.md) |
 | Followers | [Open](../followers/malaysia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [azaharizaman](https://github.com/azaharizaman) | Azahari Zaman | Kuching, Sarawak, Malaysia | 42,567 |
-| 2 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | Putrajaya, Malaysia | 18,778 |
-| 3 | [leoloso](https://github.com/leoloso) | Leonardo Losoviz | Kuala Lumpur, Malaysia | 16,179 |
-| 4 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
-| 5 | [melvinchia3636](https://github.com/melvinchia3636) | Melvin Chia | Johor, Malaysia | 9,221 |
-| 6 | [farhan-syah](https://github.com/farhan-syah) | Farhan Syah | Malaysia | 8,321 |
-| 7 | [AngJianming](https://github.com/AngJianming) | Ang Jianming (Jim) | Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur | 8,075 |
-| 8 | [ariffazil](https://github.com/ariffazil) | ariffazil | Malaysia | 7,382 |
-| 9 | [sureshapps](https://github.com/sureshapps) | Suresh Kaleyannan | Malaysia | 7,344 |
-| 10 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 7,057 |
-| 11 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my | Putrajaya, Malaysia | 6,906 |
-| 12 | [red1oon](https://github.com/red1oon) | Redhuan D. Oon | Kuala Lumpur, Malaysia | 6,390 |
-| 13 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi | Malaysia | 6,304 |
-| 14 | [lifeofgurpreet](https://github.com/lifeofgurpreet) | Gurpreet | Malaysia | 4,956 |
-| 15 | [msmalley](https://github.com/msmalley) | msmalley | Kuala Lumpur, Malaysia | 4,748 |
-| 16 | [season179](https://github.com/season179) | Season Saw | Kuala Lumpur, Malaysia | 4,711 |
-| 17 | [AqFad2811](https://github.com/AqFad2811) | AqFad | Malaysia | 4,642 |
-| 18 | [mingng18](https://github.com/mingng18) | ConcurrentB | Kuala Lumpur, Malaysia | 4,566 |
-| 19 | [siakhooi](https://github.com/siakhooi) | Siak Hooi | Malaysia | 4,072 |
-| 20 | [hollowaykeanho](https://github.com/hollowaykeanho) | (Holloway) Chew, Kean Ho | Malaysia, South East Asia | 3,857 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 11,801
 | 18 | [0xYudhishthra](https://github.com/0xYudhishthra) | Yudhishthra Sugumaran | Malaysia | 10,928 |
 | 19 | [wantanwonderland](https://github.com/wantanwonderland) | Wantan | Malaysia | 10,910 |
 | 20 | [chengkangzai](https://github.com/chengkangzai) | Ching Cheng Kang | Damansara Perdana, Kuala Lumpur | 10,682 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [azaharizaman](https://github.com/azaharizaman) | Azahari Zaman | Kuching, Sarawak, Malaysia | 42,567 |
+| 2 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | Putrajaya, Malaysia | 18,778 |
+| 3 | [leoloso](https://github.com/leoloso) | Leonardo Losoviz | Kuala Lumpur, Malaysia | 16,179 |
+| 4 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
+| 5 | [melvinchia3636](https://github.com/melvinchia3636) | Melvin Chia | Johor, Malaysia | 9,221 |
+| 6 | [farhan-syah](https://github.com/farhan-syah) | Farhan Syah | Malaysia | 8,321 |
+| 7 | [AngJianming](https://github.com/AngJianming) | Ang Jianming (Jim) | Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur | 8,075 |
+| 8 | [ariffazil](https://github.com/ariffazil) | ariffazil | Malaysia | 7,382 |
+| 9 | [sureshapps](https://github.com/sureshapps) | Suresh Kaleyannan | Malaysia | 7,344 |
+| 10 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 7,057 |
+| 11 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my | Putrajaya, Malaysia | 6,906 |
+| 12 | [red1oon](https://github.com/red1oon) | Redhuan D. Oon | Kuala Lumpur, Malaysia | 6,390 |
+| 13 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi | Malaysia | 6,304 |
+| 14 | [lifeofgurpreet](https://github.com/lifeofgurpreet) | Gurpreet | Malaysia | 4,956 |
+| 15 | [msmalley](https://github.com/msmalley) | msmalley | Kuala Lumpur, Malaysia | 4,748 |
+| 16 | [season179](https://github.com/season179) | Season Saw | Kuala Lumpur, Malaysia | 4,711 |
+| 17 | [AqFad2811](https://github.com/AqFad2811) | AqFad | Malaysia | 4,642 |
+| 18 | [mingng18](https://github.com/mingng18) | ConcurrentB | Kuala Lumpur, Malaysia | 4,566 |
+| 19 | [siakhooi](https://github.com/siakhooi) | Siak Hooi | Malaysia | 4,072 |
+| 20 | [hollowaykeanho](https://github.com/hollowaykeanho) | (Holloway) Chew, Kean Ho | Malaysia, South East Asia | 3,857 |
 
 ## Followers
 

@@ -4,13 +4,13 @@ Indexed users: 6
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/bouvet_island.md) |
 | Total Contributions | [Open](../total_contributions/bouvet_island.md) |
+| Public Contributions | [Open](../public_contributions/bouvet_island.md) |
 | Followers | [Open](../followers/bouvet_island.md) |
 
-## Public Contributions
+## Total Contributions
 
-| # | User | Name | Location | Public Contributions |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [UndefProphet](https://github.com/UndefProphet) | Prophet | Bouvet Island | 225 |
 | 2 | [hexahigh](https://github.com/hexahigh) | Simon Bråten | Bouvet Island | 187 |
@@ -19,9 +19,9 @@ Indexed users: 6
 | 5 | [djkekis](https://github.com/djkekis) | Demetrios | Bouvet Island | 0 |
 | 6 | [KirarinSnow](https://github.com/KirarinSnow) | KirarinSnow | Bouvet Island | 0 |
 
-## Total Contributions
+## Public Contributions
 
-| # | User | Name | Location | Total Contributions |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [UndefProphet](https://github.com/UndefProphet) | Prophet | Bouvet Island | 225 |
 | 2 | [hexahigh](https://github.com/hexahigh) | Simon Bråten | Bouvet Island | 187 |

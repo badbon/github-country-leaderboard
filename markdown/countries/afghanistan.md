@@ -4,34 +4,9 @@ Indexed users: 1,496
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/afghanistan.md) |
 | Total Contributions | [Open](../total_contributions/afghanistan.md) |
+| Public Contributions | [Open](../public_contributions/afghanistan.md) |
 | Followers | [Open](../followers/afghanistan.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmad Ullah Mukhlis | Kabul, Afghanistan | 31,295 |
-| 2 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 6,936 |
-| 3 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 6,492 |
-| 4 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,812 |
-| 5 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 3,263 |
-| 6 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 2,778 |
-| 7 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | kabul | 2,395 |
-| 8 | [aliabdullahnasiri](https://github.com/aliabdullahnasiri) | Ali Abdullah Nasiri | Kabul, Afghanistan | 2,012 |
-| 9 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Kabul, Afghanistan | 1,983 |
-| 10 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 1,624 |
-| 11 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,448 |
-| 12 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Kabul | 1,322 |
-| 13 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh | Afghanistan,Herat | 1,315 |
-| 14 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin | Afghanistan | 1,217 |
-| 15 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori | Afghanistan  | 1,167 |
-| 16 | [fataneh-mow](https://github.com/fataneh-mow) | Fatana Mawlawizadeh | Herat, Afghanistan | 1,115 |
-| 17 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,044 |
-| 18 | [Mukhtarrahimi](https://github.com/Mukhtarrahimi) | Mukhtar Rahimi | Kabul - Afghanistan | 987 |
-| 19 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 980 |
-| 20 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Kabul, Afghanistan | 933 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,496
 | 18 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Kabul, Afghanistan | 5,513 |
 | 19 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada | Kabul, Afghanistan | 5,061 |
 | 20 | [HajiRohullah](https://github.com/HajiRohullah) | Rohullah Hussaini | Kabul, Afghanistan | 4,854 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmad Ullah Mukhlis | Kabul, Afghanistan | 31,295 |
+| 2 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 6,936 |
+| 3 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 6,492 |
+| 4 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,812 |
+| 5 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 3,263 |
+| 6 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 2,778 |
+| 7 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | kabul | 2,395 |
+| 8 | [aliabdullahnasiri](https://github.com/aliabdullahnasiri) | Ali Abdullah Nasiri | Kabul, Afghanistan | 2,012 |
+| 9 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Kabul, Afghanistan | 1,983 |
+| 10 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 1,624 |
+| 11 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,448 |
+| 12 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Kabul | 1,322 |
+| 13 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh | Afghanistan,Herat | 1,315 |
+| 14 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin | Afghanistan | 1,217 |
+| 15 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori | Afghanistan  | 1,167 |
+| 16 | [fataneh-mow](https://github.com/fataneh-mow) | Fatana Mawlawizadeh | Herat, Afghanistan | 1,115 |
+| 17 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,044 |
+| 18 | [Mukhtarrahimi](https://github.com/Mukhtarrahimi) | Mukhtar Rahimi | Kabul - Afghanistan | 987 |
+| 19 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 980 |
+| 20 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Kabul, Afghanistan | 933 |
 
 ## Followers
 

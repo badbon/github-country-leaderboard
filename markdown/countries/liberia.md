@@ -4,34 +4,9 @@ Indexed users: 212
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/liberia.md) |
 | Total Contributions | [Open](../total_contributions/liberia.md) |
+| Public Contributions | [Open](../public_contributions/liberia.md) |
 | Followers | [Open](../followers/liberia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,310 |
-| 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,038 |
-| 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 676 |
-| 4 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 651 |
-| 5 | [timtjoe](https://github.com/timtjoe) | Timothy T. Joe | Liberia, West Africa | 581 |
-| 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 517 |
-| 7 | [JohannFonseca](https://github.com/JohannFonseca) | Johann Curry  | Liberia | 345 |
-| 8 | [KayZee52](https://github.com/KayZee52) | Kelvin Zammie | Liberia | 340 |
-| 9 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Liberia | 300 |
-| 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  | Liberia | 288 |
-| 11 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 225 |
-| 12 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 213 |
-| 13 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr | Buchanan City, Liberia | 210 |
-| 14 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | Ontario, Canada & Monrovia, Liberia | 208 |
-| 15 | [Jerry2001397](https://github.com/Jerry2001397) | Emmanuel Jerry Jr  | Monrovia, Liberia  | 201 |
-| 16 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay | Paynesville City, Monrovia Liberia | 199 |
-| 17 | [tommyiversonj](https://github.com/tommyiversonj) | Tommy Iverson Johnson | Liberia | 192 |
-| 18 | [Sayon-okai](https://github.com/Sayon-okai) | Sayon T. Okai | Liberia | 179 |
-| 19 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 178 |
-| 20 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 167 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 212
 | 18 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 632 |
 | 19 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 629 |
 | 20 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Monrovia, Liberia | 603 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,310 |
+| 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,038 |
+| 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 676 |
+| 4 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 651 |
+| 5 | [timtjoe](https://github.com/timtjoe) | Timothy T. Joe | Liberia, West Africa | 581 |
+| 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 517 |
+| 7 | [JohannFonseca](https://github.com/JohannFonseca) | Johann Curry  | Liberia | 345 |
+| 8 | [KayZee52](https://github.com/KayZee52) | Kelvin Zammie | Liberia | 340 |
+| 9 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Liberia | 300 |
+| 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  | Liberia | 288 |
+| 11 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 225 |
+| 12 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 213 |
+| 13 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr | Buchanan City, Liberia | 210 |
+| 14 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | Ontario, Canada & Monrovia, Liberia | 208 |
+| 15 | [Jerry2001397](https://github.com/Jerry2001397) | Emmanuel Jerry Jr  | Monrovia, Liberia  | 201 |
+| 16 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay | Paynesville City, Monrovia Liberia | 199 |
+| 17 | [tommyiversonj](https://github.com/tommyiversonj) | Tommy Iverson Johnson | Liberia | 192 |
+| 18 | [Sayon-okai](https://github.com/Sayon-okai) | Sayon T. Okai | Liberia | 179 |
+| 19 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 178 |
+| 20 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 167 |
 
 ## Followers
 

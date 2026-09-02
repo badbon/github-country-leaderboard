@@ -4,34 +4,9 @@ Indexed users: 33,081
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/nigeria.md) |
 | Total Contributions | [Open](../total_contributions/nigeria.md) |
+| Public Contributions | [Open](../public_contributions/nigeria.md) |
 | Followers | [Open](../followers/nigeria.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [paulosabayomi](https://github.com/paulosabayomi) | Abayomi Amusa | Lagos, Nigeria | 41,408 |
-| 2 | [Wealthometer](https://github.com/Wealthometer) | Wealth Hajoh | Nigeria | 30,918 |
-| 3 | [Smartdevs17](https://github.com/Smartdevs17) | Stephen Joseph | Nigeria | 13,246 |
-| 4 | [TheWeirdDee](https://github.com/TheWeirdDee) | Divine Dilibe | Lagos, Nigeria. | 11,857 |
-| 5 | [Mid-D-Man](https://github.com/Mid-D-Man) | AbdulHamid Mamman Suleiman  | Nigeria | 8,729 |
-| 6 | [samkiell](https://github.com/samkiell) | Samuel Ezekiel  | Ile Ife, Osun State, Nigeria. | 8,039 |
-| 7 | [DiceTech435](https://github.com/DiceTech435) | Amevye Matthew | Lagos, Nigeria | 6,809 |
-| 8 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Lagos, Nigeria | 6,755 |
-| 9 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Ibadan, Nigeria | 6,318 |
-| 10 | [Xaxxoo](https://github.com/Xaxxoo) |  | Nigeria | 6,151 |
-| 11 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo | Akure, Nigeria | 6,049 |
-| 12 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie | Lagos, Nigeria | 5,789 |
-| 13 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange | Nigeria | 5,675 |
-| 14 | [beresdowds-afk](https://github.com/beresdowds-afk) | Olusola Adebayo  | Nigeria  | 5,466 |
-| 15 | [DevMuktary](https://github.com/DevMuktary) | MUKTAR ABDULWAHEED | Nigeria 🇳🇬  | 5,169 |
-| 16 | [xt42io](https://github.com/xt42io) | Akinkunmi | Nigeria | 5,016 |
-| 17 | [O-BERNARDOFOEGBU](https://github.com/O-BERNARDOFOEGBU) | Bernard Ofoegbu | Nigeria | 4,979 |
-| 18 | [bamiebot-maker](https://github.com/bamiebot-maker) | Ibrahim Bamidele. S | Nigeria | 4,765 |
-| 19 | [KusuConsult-NG](https://github.com/KusuConsult-NG) | KusuConsult | Jos, Nigeria | 4,714 |
-| 20 | [BigBen-7](https://github.com/BigBen-7) | Benard Simon | Nigeria | 4,658 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 33,081
 | 18 | [TheWeirdDee](https://github.com/TheWeirdDee) | Divine Dilibe | Lagos, Nigeria. | 12,025 |
 | 19 | [BrainiacRawkib](https://github.com/BrainiacRawkib) | Br@ini@c R@wkib | Nigeria | 11,650 |
 | 20 | [elcharitas](https://github.com/elcharitas) | Jonathan Irhodia | Abuja, Nigeria | 11,646 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [paulosabayomi](https://github.com/paulosabayomi) | Abayomi Amusa | Lagos, Nigeria | 41,408 |
+| 2 | [Wealthometer](https://github.com/Wealthometer) | Wealth Hajoh | Nigeria | 30,918 |
+| 3 | [Smartdevs17](https://github.com/Smartdevs17) | Stephen Joseph | Nigeria | 13,246 |
+| 4 | [TheWeirdDee](https://github.com/TheWeirdDee) | Divine Dilibe | Lagos, Nigeria. | 11,857 |
+| 5 | [Mid-D-Man](https://github.com/Mid-D-Man) | AbdulHamid Mamman Suleiman  | Nigeria | 8,729 |
+| 6 | [samkiell](https://github.com/samkiell) | Samuel Ezekiel  | Ile Ife, Osun State, Nigeria. | 8,039 |
+| 7 | [DiceTech435](https://github.com/DiceTech435) | Amevye Matthew | Lagos, Nigeria | 6,809 |
+| 8 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Lagos, Nigeria | 6,755 |
+| 9 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Ibadan, Nigeria | 6,318 |
+| 10 | [Xaxxoo](https://github.com/Xaxxoo) |  | Nigeria | 6,151 |
+| 11 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo | Akure, Nigeria | 6,049 |
+| 12 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie | Lagos, Nigeria | 5,789 |
+| 13 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange | Nigeria | 5,675 |
+| 14 | [beresdowds-afk](https://github.com/beresdowds-afk) | Olusola Adebayo  | Nigeria  | 5,466 |
+| 15 | [DevMuktary](https://github.com/DevMuktary) | MUKTAR ABDULWAHEED | Nigeria 🇳🇬  | 5,169 |
+| 16 | [xt42io](https://github.com/xt42io) | Akinkunmi | Nigeria | 5,016 |
+| 17 | [O-BERNARDOFOEGBU](https://github.com/O-BERNARDOFOEGBU) | Bernard Ofoegbu | Nigeria | 4,979 |
+| 18 | [bamiebot-maker](https://github.com/bamiebot-maker) | Ibrahim Bamidele. S | Nigeria | 4,765 |
+| 19 | [KusuConsult-NG](https://github.com/KusuConsult-NG) | KusuConsult | Jos, Nigeria | 4,714 |
+| 20 | [BigBen-7](https://github.com/BigBen-7) | Benard Simon | Nigeria | 4,658 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 9,795
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/peru.md) |
 | Total Contributions | [Open](../total_contributions/peru.md) |
+| Public Contributions | [Open](../public_contributions/peru.md) |
 | Followers | [Open](../followers/peru.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [wrujel](https://github.com/wrujel) | Wilfredo Rujel | Lima, Peru | 13,480 |
-| 2 | [cesars](https://github.com/cesars) | César Soplín Sánchez | Lima, Perú | 8,503 |
-| 3 | [jeancdevx](https://github.com/jeancdevx) | Jeancarlo Morales | Peru | 5,639 |
-| 4 | [totallynotdavid](https://github.com/totallynotdavid) | David | Lima, Perú | 5,162 |
-| 5 | [nglmercer](https://github.com/nglmercer) | memelser | Peru | 5,062 |
-| 6 | [cuevaio](https://github.com/cuevaio) | anthony | Lima | 4,911 |
-| 7 | [Sve-nnN](https://github.com/Sve-nnN) | Juan Angulo | Lima | 4,616 |
-| 8 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | Lima, Perú | 4,074 |
-| 9 | [UltiRequiem](https://github.com/UltiRequiem) | Eliaz Bobadilla | Lima, Perú | 3,788 |
-| 10 | [dxrzc](https://github.com/dxrzc) | Diego Rodriguez | Peru (UTC-5) | 3,544 |
-| 11 | [ferxalbs](https://github.com/ferxalbs) | Fernando J. Albornoz | Lima, Peru | 3,366 |
-| 12 | [avelasquezn](https://github.com/avelasquezn) | Angel Velasquez | Lima, Peru | 3,207 |
-| 13 | [Enriquefft](https://github.com/Enriquefft) | Enrique Flores | Lima, Perú | 3,160 |
-| 14 | [NikolasP98](https://github.com/NikolasP98) | Nikolas Pinon | Peru | 3,108 |
-| 15 | [shiarauzo](https://github.com/shiarauzo) | Shiara Arauzo | Peru | 2,834 |
-| 16 | [Far14z](https://github.com/Far14z) | Farid Coronel | Peru | 2,790 |
-| 17 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | Peru | 2,762 |
-| 18 | [VidalLuyo](https://github.com/VidalLuyo) | VidalLuyo | Imperial - Cañete - Lima | 2,698 |
-| 19 | [Grazen0](https://github.com/Grazen0) | José Daniel Grayson | Peru | 2,652 |
-| 20 | [carlosvidal](https://github.com/carlosvidal) | Carlos Vidal | Lima, Peru | 2,602 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 9,795
 | 18 | [KiryuuLight](https://github.com/KiryuuLight) | Luis Ortiz | Lima, Peru | 7,286 |
 | 19 | [TerryCM](https://github.com/TerryCM) | Terry Cruz Melo | Peru | 7,149 |
 | 20 | [UltiRequiem](https://github.com/UltiRequiem) | Eliaz Bobadilla | Lima, Perú | 6,941 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [wrujel](https://github.com/wrujel) | Wilfredo Rujel | Lima, Peru | 13,480 |
+| 2 | [cesars](https://github.com/cesars) | César Soplín Sánchez | Lima, Perú | 8,503 |
+| 3 | [jeancdevx](https://github.com/jeancdevx) | Jeancarlo Morales | Peru | 5,639 |
+| 4 | [totallynotdavid](https://github.com/totallynotdavid) | David | Lima, Perú | 5,162 |
+| 5 | [nglmercer](https://github.com/nglmercer) | memelser | Peru | 5,062 |
+| 6 | [cuevaio](https://github.com/cuevaio) | anthony | Lima | 4,911 |
+| 7 | [Sve-nnN](https://github.com/Sve-nnN) | Juan Angulo | Lima | 4,616 |
+| 8 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | Lima, Perú | 4,074 |
+| 9 | [UltiRequiem](https://github.com/UltiRequiem) | Eliaz Bobadilla | Lima, Perú | 3,788 |
+| 10 | [dxrzc](https://github.com/dxrzc) | Diego Rodriguez | Peru (UTC-5) | 3,544 |
+| 11 | [ferxalbs](https://github.com/ferxalbs) | Fernando J. Albornoz | Lima, Peru | 3,366 |
+| 12 | [avelasquezn](https://github.com/avelasquezn) | Angel Velasquez | Lima, Peru | 3,207 |
+| 13 | [Enriquefft](https://github.com/Enriquefft) | Enrique Flores | Lima, Perú | 3,160 |
+| 14 | [NikolasP98](https://github.com/NikolasP98) | Nikolas Pinon | Peru | 3,108 |
+| 15 | [shiarauzo](https://github.com/shiarauzo) | Shiara Arauzo | Peru | 2,834 |
+| 16 | [Far14z](https://github.com/Far14z) | Farid Coronel | Peru | 2,790 |
+| 17 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | Peru | 2,762 |
+| 18 | [VidalLuyo](https://github.com/VidalLuyo) | VidalLuyo | Imperial - Cañete - Lima | 2,698 |
+| 19 | [Grazen0](https://github.com/Grazen0) | José Daniel Grayson | Peru | 2,652 |
+| 20 | [carlosvidal](https://github.com/carlosvidal) | Carlos Vidal | Lima, Peru | 2,602 |
 
 ## Followers
 

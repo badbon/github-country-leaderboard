@@ -4,34 +4,9 @@ Indexed users: 1,218
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/yemen.md) |
 | Total Contributions | [Open](../total_contributions/yemen.md) |
+| Public Contributions | [Open](../public_contributions/yemen.md) |
 | Followers | [Open](../followers/yemen.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 102,452 |
-| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 64,567 |
-| 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim | Sana'a  | 19,837 |
-| 4 | [ken00H](https://github.com/ken00H) |  | Yemen | 3,606 |
-| 5 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Haziz- Sana'a | 3,489 |
-| 6 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati | Yemen | 3,321 |
-| 7 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Yemen | 1,896 |
-| 8 | [Hamza-ye](https://github.com/Hamza-ye) | Hamza | Yemen | 1,856 |
-| 9 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Yemen | 1,338 |
-| 10 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya | Yemen | 1,287 |
-| 11 | [HusseinBaraja](https://github.com/HusseinBaraja) | Hussein Ba Ragaa | Yemen | 1,236 |
-| 12 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | sana'a  | 1,140 |
-| 13 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi | Yemen | 1,110 |
-| 14 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | Yemen  | 1,058 |
-| 15 | [716W](https://github.com/716W) | Ali Bin-Samida | Yemen | 973 |
-| 16 | [HassanY1010](https://github.com/HassanY1010) | Hassan | Yemen | 796 |
-| 17 | [AimanHaidar](https://github.com/AimanHaidar) | Aiman Taher Abdulmwala Haidar | Sana'a, Yemen | 749 |
-| 18 | [en-massa](https://github.com/en-massa) | MOHAMMED AL-HADDAD | Yemen | 639 |
-| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 609 |
-| 20 | [ENG-BXI](https://github.com/ENG-BXI) | Abdulrhman Muneer Khamees Mubarak Al-Jaeeidi | YEMEN | 580 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,218
 | 18 | [zinon-software](https://github.com/zinon-software) | ABDULRAHMAN | yemen | 4,940 |
 | 19 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | Yemen,Ibb city | 4,931 |
 | 20 | [yousef-aman](https://github.com/yousef-aman) | Yousef Aman | Yemen | 4,920 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 102,452 |
+| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 64,567 |
+| 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim | Sana'a  | 19,837 |
+| 4 | [ken00H](https://github.com/ken00H) |  | Yemen | 3,606 |
+| 5 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Haziz- Sana'a | 3,489 |
+| 6 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati | Yemen | 3,321 |
+| 7 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Yemen | 1,896 |
+| 8 | [Hamza-ye](https://github.com/Hamza-ye) | Hamza | Yemen | 1,856 |
+| 9 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Yemen | 1,338 |
+| 10 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya | Yemen | 1,287 |
+| 11 | [HusseinBaraja](https://github.com/HusseinBaraja) | Hussein Ba Ragaa | Yemen | 1,236 |
+| 12 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | sana'a  | 1,140 |
+| 13 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi | Yemen | 1,110 |
+| 14 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | Yemen  | 1,058 |
+| 15 | [716W](https://github.com/716W) | Ali Bin-Samida | Yemen | 973 |
+| 16 | [HassanY1010](https://github.com/HassanY1010) | Hassan | Yemen | 796 |
+| 17 | [AimanHaidar](https://github.com/AimanHaidar) | Aiman Taher Abdulmwala Haidar | Sana'a, Yemen | 749 |
+| 18 | [en-massa](https://github.com/en-massa) | MOHAMMED AL-HADDAD | Yemen | 639 |
+| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 609 |
+| 20 | [ENG-BXI](https://github.com/ENG-BXI) | Abdulrhman Muneer Khamees Mubarak Al-Jaeeidi | YEMEN | 580 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 456
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/macau.md) |
 | Total Contributions | [Open](../total_contributions/macau.md) |
+| Public Contributions | [Open](../public_contributions/macau.md) |
 | Followers | [Open](../followers/macau.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 4,528 |
-| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 3,637 |
-| 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,526 |
-| 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 1,773 |
-| 5 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
-| 6 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,139 |
-| 7 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,126 |
-| 8 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,025 |
-| 9 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 960 |
-| 10 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 885 |
-| 11 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 798 |
-| 12 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
-| 13 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 713 |
-| 14 | [ariel-lee-1023](https://github.com/ariel-lee-1023) | Ariel Lee | Macau | 678 |
-| 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 595 |
-| 16 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 575 |
-| 17 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 535 |
-| 18 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 464 |
-| 19 | [WindoC](https://github.com/WindoC) | Antonio Cheong | Macau | 425 |
-| 20 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao, China and Coimbra, Portugal | 417 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 456
 | 18 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
 | 19 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,126 |
 | 20 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,025 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 4,528 |
+| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 3,637 |
+| 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,526 |
+| 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 1,773 |
+| 5 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
+| 6 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,139 |
+| 7 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,126 |
+| 8 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,025 |
+| 9 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 960 |
+| 10 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 885 |
+| 11 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 798 |
+| 12 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
+| 13 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 713 |
+| 14 | [ariel-lee-1023](https://github.com/ariel-lee-1023) | Ariel Lee | Macau | 678 |
+| 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 595 |
+| 16 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 575 |
+| 17 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 535 |
+| 18 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 464 |
+| 19 | [WindoC](https://github.com/WindoC) | Antonio Cheong | Macau | 425 |
+| 20 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao, China and Coimbra, Portugal | 417 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 15,007
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/thailand.md) |
 | Total Contributions | [Open](../total_contributions/thailand.md) |
+| Public Contributions | [Open](../public_contributions/thailand.md) |
 | Followers | [Open](../followers/thailand.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [dtinth-bot](https://github.com/dtinth-bot) | dtinth’s bot | Bangkok, Thailand | 23,737 |
-| 2 | [gHashTag](https://github.com/gHashTag) | Vasilev Dmitrii | Thailand | 15,842 |
-| 3 | [watchakorn-18k](https://github.com/watchakorn-18k) | Watchakorn Buddeewong | Pak Chong, Nakhon Ratchasima, Thailand | 14,234 |
-| 4 | [densmirnov](https://github.com/densmirnov) | Denis Smirnov | Chiang Mai, Thailand | 13,189 |
-| 5 | [xjanova](https://github.com/xjanova) | บุญณราช อุปเสน | Thailand | 12,910 |
-| 6 | [jhfnetboy](https://github.com/jhfnetboy) | Jiao Huifeng | Thailand | 11,535 |
-| 7 | [tumf](https://github.com/tumf) | tumf | Bangkok, Thailand | 9,928 |
-| 8 | [natthapolvanasrivilai](https://github.com/natthapolvanasrivilai) | Natthapol Vanasrivilai | Thailand | 8,080 |
-| 9 | [TheetawatCode](https://github.com/TheetawatCode) | Theetawat Premsawat | Bangkok, Thailand | 7,960 |
-| 10 | [jeremi](https://github.com/jeremi) | Jeremi Joslin | Phuket, Thailand | 7,744 |
-| 11 | [pavelsly](https://github.com/pavelsly) | Pavel | Thailand | 7,481 |
-| 12 | [davidsneighbour](https://github.com/davidsneighbour) | Patrick Kollitsch | Koh Samui, Thailand | 7,111 |
-| 13 | [StevenTCramer](https://github.com/StevenTCramer) | Steven T. Cramer | Thailand | 6,894 |
-| 14 | [heypoom](https://github.com/heypoom) | Phoomparin Mano | Bangkok, Thailand. | 6,726 |
-| 15 | [katopz](https://github.com/katopz) | Todsaporn Banjerdkit | Bangkok, Thailand | 5,992 |
-| 16 | [chatman-media](https://github.com/chatman-media) | Alexander Kireyev | Phuket, Thailand | 5,828 |
-| 17 | [cvsz](https://github.com/cvsz) | cvsz | Thailand | 5,688 |
-| 18 | [afourmy](https://github.com/afourmy) | Antoine Fourmy | Bangkok, Thailand | 4,635 |
-| 19 | [samutpra](https://github.com/samutpra) | Thammanoon Semapru | Thailand | 4,184 |
-| 20 | [jasperf](https://github.com/jasperf) | Jasper Frumau | Bangkok | 4,114 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 15,007
 | 18 | [watchakorn-18k](https://github.com/watchakorn-18k) | Watchakorn Buddeewong | Pak Chong, Nakhon Ratchasima, Thailand | 14,360 |
 | 19 | [serial-coder](https://github.com/serial-coder) | Phuwanai Thummavet | Bangkok, Thailand. | 14,263 |
 | 20 | [jeremi](https://github.com/jeremi) | Jeremi Joslin | Phuket, Thailand | 14,139 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [dtinth-bot](https://github.com/dtinth-bot) | dtinth’s bot | Bangkok, Thailand | 23,737 |
+| 2 | [gHashTag](https://github.com/gHashTag) | Vasilev Dmitrii | Thailand | 15,842 |
+| 3 | [watchakorn-18k](https://github.com/watchakorn-18k) | Watchakorn Buddeewong | Pak Chong, Nakhon Ratchasima, Thailand | 14,234 |
+| 4 | [densmirnov](https://github.com/densmirnov) | Denis Smirnov | Chiang Mai, Thailand | 13,189 |
+| 5 | [xjanova](https://github.com/xjanova) | บุญณราช อุปเสน | Thailand | 12,910 |
+| 6 | [jhfnetboy](https://github.com/jhfnetboy) | Jiao Huifeng | Thailand | 11,535 |
+| 7 | [tumf](https://github.com/tumf) | tumf | Bangkok, Thailand | 9,928 |
+| 8 | [natthapolvanasrivilai](https://github.com/natthapolvanasrivilai) | Natthapol Vanasrivilai | Thailand | 8,080 |
+| 9 | [TheetawatCode](https://github.com/TheetawatCode) | Theetawat Premsawat | Bangkok, Thailand | 7,960 |
+| 10 | [jeremi](https://github.com/jeremi) | Jeremi Joslin | Phuket, Thailand | 7,744 |
+| 11 | [pavelsly](https://github.com/pavelsly) | Pavel | Thailand | 7,481 |
+| 12 | [davidsneighbour](https://github.com/davidsneighbour) | Patrick Kollitsch | Koh Samui, Thailand | 7,111 |
+| 13 | [StevenTCramer](https://github.com/StevenTCramer) | Steven T. Cramer | Thailand | 6,894 |
+| 14 | [heypoom](https://github.com/heypoom) | Phoomparin Mano | Bangkok, Thailand. | 6,726 |
+| 15 | [katopz](https://github.com/katopz) | Todsaporn Banjerdkit | Bangkok, Thailand | 5,992 |
+| 16 | [chatman-media](https://github.com/chatman-media) | Alexander Kireyev | Phuket, Thailand | 5,828 |
+| 17 | [cvsz](https://github.com/cvsz) | cvsz | Thailand | 5,688 |
+| 18 | [afourmy](https://github.com/afourmy) | Antoine Fourmy | Bangkok, Thailand | 4,635 |
+| 19 | [samutpra](https://github.com/samutpra) | Thammanoon Semapru | Thailand | 4,184 |
+| 20 | [jasperf](https://github.com/jasperf) | Jasper Frumau | Bangkok | 4,114 |
 
 ## Followers
 

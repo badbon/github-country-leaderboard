@@ -4,34 +4,9 @@ Indexed users: 52
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/curacao.md) |
 | Total Contributions | [Open](../total_contributions/curacao.md) |
+| Public Contributions | [Open](../public_contributions/curacao.md) |
 | Followers | [Open](../followers/curacao.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,249 |
-| 2 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 383 |
-| 3 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 378 |
-| 4 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 271 |
-| 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
-| 6 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 132 |
-| 7 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 56 |
-| 8 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 50 |
-| 9 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Willemstad, Curacao | 43 |
-| 10 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 40 |
-| 11 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 40 |
-| 12 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
-| 13 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 34 |
-| 14 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 31 |
-| 15 | [AngeloAAB](https://github.com/AngeloAAB) | Angelo Bartholomeus | Willemstad, Curaçao | 22 |
-| 16 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 17 |
-| 17 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Willemstad, Curaçao, Dutch Caribbean | 9 |
-| 18 | [rascoop](https://github.com/rascoop) | Richard Scoop | Curaçao, Dutch Caribbean | 8 |
-| 19 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 5 |
-| 20 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus | Curaçao | 4 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 52
 | 18 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
 | 19 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 34 |
 | 20 | [AngeloAAB](https://github.com/AngeloAAB) | Angelo Bartholomeus | Willemstad, Curaçao | 22 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,249 |
+| 2 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 383 |
+| 3 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 378 |
+| 4 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 271 |
+| 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
+| 6 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 132 |
+| 7 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 56 |
+| 8 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 50 |
+| 9 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Willemstad, Curacao | 43 |
+| 10 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 40 |
+| 11 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 40 |
+| 12 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
+| 13 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 34 |
+| 14 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 31 |
+| 15 | [AngeloAAB](https://github.com/AngeloAAB) | Angelo Bartholomeus | Willemstad, Curaçao | 22 |
+| 16 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 17 |
+| 17 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Willemstad, Curaçao, Dutch Caribbean | 9 |
+| 18 | [rascoop](https://github.com/rascoop) | Richard Scoop | Curaçao, Dutch Caribbean | 8 |
+| 19 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 5 |
+| 20 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus | Curaçao | 4 |
 
 ## Followers
 

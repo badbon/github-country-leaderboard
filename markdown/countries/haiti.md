@@ -4,34 +4,9 @@ Indexed users: 344
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/haiti.md) |
 | Total Contributions | [Open](../total_contributions/haiti.md) |
+| Public Contributions | [Open](../public_contributions/haiti.md) |
 | Followers | [Open](../followers/haiti.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [lanovatechnologie-a11y](https://github.com/lanovatechnologie-a11y) | Lota | Limonade, Haiti | 669 |
-| 2 | [deldesir](https://github.com/deldesir) | Blondel Mondesir | Haiti | 443 |
-| 3 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 387 |
-| 4 | [Tonton-ios](https://github.com/Tonton-ios) | Eernst_ | HAITI | 358 |
-| 5 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 328 |
-| 6 | [Celo-HT](https://github.com/Celo-HT) | CeloHT | Haiti | 323 |
-| 7 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 259 |
-| 8 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Port-au-prince/Petion-ville | 256 |
-| 9 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 254 |
-| 10 | [haitibrand-co](https://github.com/haitibrand-co) | HaitiBrand  | Haiti | 240 |
-| 11 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 236 |
-| 12 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 235 |
-| 13 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert | Haiti | 211 |
-| 14 | [ventzDev509](https://github.com/ventzDev509) | Marceille Eventz | Haiti | 207 |
-| 15 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 201 |
-| 16 | [eddo4life](https://github.com/eddo4life) | Boaz E.C Theodoris | Delmas, Haiti | 183 |
-| 17 | [tolly00](https://github.com/tolly00) | Alberto Sylveus | Haiti | 176 |
-| 18 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 169 |
-| 19 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 158 |
-| 20 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 157 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 344
 | 18 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 901 |
 | 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 857 |
 | 20 | [desorgui](https://github.com/desorgui) | Guishny Desor | Haiti | 851 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [lanovatechnologie-a11y](https://github.com/lanovatechnologie-a11y) | Lota | Limonade, Haiti | 669 |
+| 2 | [deldesir](https://github.com/deldesir) | Blondel Mondesir | Haiti | 443 |
+| 3 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 387 |
+| 4 | [Tonton-ios](https://github.com/Tonton-ios) | Eernst_ | HAITI | 358 |
+| 5 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 328 |
+| 6 | [Celo-HT](https://github.com/Celo-HT) | CeloHT | Haiti | 323 |
+| 7 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 259 |
+| 8 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Port-au-prince/Petion-ville | 256 |
+| 9 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 254 |
+| 10 | [haitibrand-co](https://github.com/haitibrand-co) | HaitiBrand  | Haiti | 240 |
+| 11 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 236 |
+| 12 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 235 |
+| 13 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert | Haiti | 211 |
+| 14 | [ventzDev509](https://github.com/ventzDev509) | Marceille Eventz | Haiti | 207 |
+| 15 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 201 |
+| 16 | [eddo4life](https://github.com/eddo4life) | Boaz E.C Theodoris | Delmas, Haiti | 183 |
+| 17 | [tolly00](https://github.com/tolly00) | Alberto Sylveus | Haiti | 176 |
+| 18 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 169 |
+| 19 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 158 |
+| 20 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 157 |
 
 ## Followers
 

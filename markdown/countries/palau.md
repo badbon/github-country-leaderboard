@@ -4,21 +4,21 @@ Indexed users: 3
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/palau.md) |
 | Total Contributions | [Open](../total_contributions/palau.md) |
+| Public Contributions | [Open](../public_contributions/palau.md) |
 | Followers | [Open](../followers/palau.md) |
 
-## Public Contributions
+## Total Contributions
 
-| # | User | Name | Location | Public Contributions |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [JTeccomx](https://github.com/JTeccomx) | Jovan Ngirmekur | Palau | 6 |
 | 2 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Koror, Palau | 0 |
 | 3 | [nbaulesglobalsolutions](https://github.com/nbaulesglobalsolutions) | Ngirngerikl Baules | Koror, Palau | 0 |
 
-## Total Contributions
+## Public Contributions
 
-| # | User | Name | Location | Total Contributions |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [JTeccomx](https://github.com/JTeccomx) | Jovan Ngirmekur | Palau | 6 |
 | 2 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Koror, Palau | 0 |

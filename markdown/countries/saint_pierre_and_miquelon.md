@@ -4,21 +4,21 @@ Indexed users: 19
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/saint_pierre_and_miquelon.md) |
 | Total Contributions | [Open](../total_contributions/saint_pierre_and_miquelon.md) |
+| Public Contributions | [Open](../public_contributions/saint_pierre_and_miquelon.md) |
 | Followers | [Open](../followers/saint_pierre_and_miquelon.md) |
 
-## Public Contributions
+## Total Contributions
 
-| # | User | Name | Location | Public Contributions |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN | Saint Pierre 97410 (La Réunion) | 259 |
-| 2 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 172 |
+| 1 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 833 |
+| 2 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN | Saint Pierre 97410 (La Réunion) | 259 |
 | 3 | [greggstyle](https://github.com/greggstyle) | greggstyle | Saint-Pierre, La Réunion | 134 |
 | 4 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  | Saint-pierre La Réunion | 120 |
 | 5 | [AntoinePetit95](https://github.com/AntoinePetit95) | Antoine PETIT | Saint-Pierre, la Réunion | 73 |
 | 6 | [Antonin-crypto](https://github.com/Antonin-crypto) | Antonin | Saint pierre des landes | 66 |
-| 7 | [gitkyo](https://github.com/gitkyo) | Pier | Saint-Pierre, La Réunion | 26 |
+| 7 | [gitkyo](https://github.com/gitkyo) | Pier | Saint-Pierre, La Réunion | 38 |
 | 8 | [rbouikila](https://github.com/rbouikila) | el pekenio | Saint Pierre du Perray | 1 |
 | 9 | [adriencastan](https://github.com/adriencastan) | Adrien Castan | Saint Pierre de Lages | 0 |
 | 10 | [affagard](https://github.com/affagard) | David Affagard | Saint Pierre Quiberon (56 - France) | 0 |
@@ -32,17 +32,17 @@ Indexed users: 19
 | 18 | [saudic](https://github.com/saudic) |  | Saint-Pierre-Quiberon | 0 |
 | 19 | [Wimimaro](https://github.com/Wimimaro) | Wayl Zender | Saint Pierre des corps | 0 |
 
-## Total Contributions
+## Public Contributions
 
-| # | User | Name | Location | Total Contributions |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 833 |
-| 2 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN | Saint Pierre 97410 (La Réunion) | 259 |
+| 1 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN | Saint Pierre 97410 (La Réunion) | 259 |
+| 2 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 172 |
 | 3 | [greggstyle](https://github.com/greggstyle) | greggstyle | Saint-Pierre, La Réunion | 134 |
 | 4 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  | Saint-pierre La Réunion | 120 |
 | 5 | [AntoinePetit95](https://github.com/AntoinePetit95) | Antoine PETIT | Saint-Pierre, la Réunion | 73 |
 | 6 | [Antonin-crypto](https://github.com/Antonin-crypto) | Antonin | Saint pierre des landes | 66 |
-| 7 | [gitkyo](https://github.com/gitkyo) | Pier | Saint-Pierre, La Réunion | 38 |
+| 7 | [gitkyo](https://github.com/gitkyo) | Pier | Saint-Pierre, La Réunion | 26 |
 | 8 | [rbouikila](https://github.com/rbouikila) | el pekenio | Saint Pierre du Perray | 1 |
 | 9 | [adriencastan](https://github.com/adriencastan) | Adrien Castan | Saint Pierre de Lages | 0 |
 | 10 | [affagard](https://github.com/affagard) | David Affagard | Saint Pierre Quiberon (56 - France) | 0 |

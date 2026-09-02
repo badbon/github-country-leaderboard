@@ -4,34 +4,9 @@ Indexed users: 11,203
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/hungary.md) |
 | Total Contributions | [Open](../total_contributions/hungary.md) |
+| Public Contributions | [Open](../public_contributions/hungary.md) |
 | Followers | [Open](../followers/hungary.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [moldovancsaba](https://github.com/moldovancsaba) | Moldovan Csaba Zoltan | Budapest | 13,011 |
-| 2 | [danko-david](https://github.com/danko-david) | David Danko | Hungary, Miskolc | 10,778 |
-| 3 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | Budapest, HU | 10,618 |
-| 4 | [andrasbacsai](https://github.com/andrasbacsai) | Andras Bacsai | Székesfehérvár, Hungary | 8,037 |
-| 5 | [macrozhang](https://github.com/macrozhang) | JamesMacroZhang | Budapest, Hungary | 6,800 |
-| 6 | [apgyorfi](https://github.com/apgyorfi) | Peter Gyorfi | Székesfehérvár, Hungary | 6,542 |
-| 7 | [mc36](https://github.com/mc36) | mc36 | budapest/hungary | 5,963 |
-| 8 | [hdkiller](https://github.com/hdkiller) |  | Budapest | 5,829 |
-| 9 | [zkochan](https://github.com/zkochan) | Zoltan Kochan | Budapest 🇭🇺 | 5,816 |
-| 10 | [uannoare](https://github.com/uannoare) | Kázmér Balog | Hungary | 5,666 |
-| 11 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár | Budapest, Hungary | 5,415 |
-| 12 | [sarahelsaig](https://github.com/sarahelsaig) | Sára El-Saig | Hungary | 5,087 |
-| 13 | [farkasmark](https://github.com/farkasmark) | Mark Farkas | Budapest, Hungary; Austin, Texas | 4,998 |
-| 14 | [tacshade](https://github.com/tacshade) | TacShade | Budapest | 4,788 |
-| 15 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Hungary | 4,660 |
-| 16 | [laxika](https://github.com/laxika) | Gyula Lakatos | Hungary | 4,481 |
-| 17 | [Axwabo](https://github.com/Axwabo) | Axwabo | Hungary | 4,036 |
-| 18 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | Budapest, Hungary | 3,768 |
-| 19 | [csatib02](https://github.com/csatib02) | Bence Csati | Budapest, Hungary | 3,687 |
-| 20 | [bugadani](https://github.com/bugadani) | Dániel Buga | Budapest, HU | 3,662 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 11,203
 | 18 | [Bali0531-RC](https://github.com/Bali0531-RC) | Turi Balázs | Hungary | 10,698 |
 | 19 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | Budapest, HU | 10,644 |
 | 20 | [RolandMarton](https://github.com/RolandMarton) | Márton Roland | Budapest | 9,111 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [moldovancsaba](https://github.com/moldovancsaba) | Moldovan Csaba Zoltan | Budapest | 13,011 |
+| 2 | [danko-david](https://github.com/danko-david) | David Danko | Hungary, Miskolc | 10,778 |
+| 3 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | Budapest, HU | 10,618 |
+| 4 | [andrasbacsai](https://github.com/andrasbacsai) | Andras Bacsai | Székesfehérvár, Hungary | 8,037 |
+| 5 | [macrozhang](https://github.com/macrozhang) | JamesMacroZhang | Budapest, Hungary | 6,800 |
+| 6 | [apgyorfi](https://github.com/apgyorfi) | Peter Gyorfi | Székesfehérvár, Hungary | 6,542 |
+| 7 | [mc36](https://github.com/mc36) | mc36 | budapest/hungary | 5,963 |
+| 8 | [hdkiller](https://github.com/hdkiller) |  | Budapest | 5,829 |
+| 9 | [zkochan](https://github.com/zkochan) | Zoltan Kochan | Budapest 🇭🇺 | 5,816 |
+| 10 | [uannoare](https://github.com/uannoare) | Kázmér Balog | Hungary | 5,666 |
+| 11 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár | Budapest, Hungary | 5,415 |
+| 12 | [sarahelsaig](https://github.com/sarahelsaig) | Sára El-Saig | Hungary | 5,087 |
+| 13 | [farkasmark](https://github.com/farkasmark) | Mark Farkas | Budapest, Hungary; Austin, Texas | 4,998 |
+| 14 | [tacshade](https://github.com/tacshade) | TacShade | Budapest | 4,788 |
+| 15 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Hungary | 4,660 |
+| 16 | [laxika](https://github.com/laxika) | Gyula Lakatos | Hungary | 4,481 |
+| 17 | [Axwabo](https://github.com/Axwabo) | Axwabo | Hungary | 4,036 |
+| 18 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | Budapest, Hungary | 3,768 |
+| 19 | [csatib02](https://github.com/csatib02) | Bence Csati | Budapest, Hungary | 3,687 |
+| 20 | [bugadani](https://github.com/bugadani) | Dániel Buga | Budapest, HU | 3,662 |
 
 ## Followers
 

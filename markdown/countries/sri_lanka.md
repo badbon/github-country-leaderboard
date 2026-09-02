@@ -4,34 +4,9 @@ Indexed users: 18,260
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/sri_lanka.md) |
 | Total Contributions | [Open](../total_contributions/sri_lanka.md) |
+| Public Contributions | [Open](../public_contributions/sri_lanka.md) |
 | Followers | [Open](../followers/sri_lanka.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [nuuuwan](https://github.com/nuuuwan) | Nuwan I. Senaratna | Colombo, Sri Lanka | 163,626 |
-| 2 | [RensithUdara](https://github.com/RensithUdara) | Rensith Udara Gonalagoda | Galle, Sri Lanka | 152,007 |
-| 3 | [pawara-mmns](https://github.com/pawara-mmns) | Pawara Samarawickrama | Colombo,Sri Lanka | 85,059 |
-| 4 | [RAVEENSR](https://github.com/RAVEENSR) | Raveen Savinda Rathnayake | Colombo, Sri Lanka | 21,516 |
-| 5 | [buddhika75](https://github.com/buddhika75) | Dr. M H B Ariyaratne | Galle, Sri Lanka | 13,136 |
-| 6 | [IT21314742](https://github.com/IT21314742) | Vihan Jayasinghe | Sri Lanka | 11,232 |
-| 7 | [sameerasw](https://github.com/sameerasw) | sameerasw.com | Sri Lanka | 10,308 |
-| 8 | [iroshanaRavishan](https://github.com/iroshanaRavishan) | Iroshana Ravishan | Matale, Sri Lanka | 8,020 |
-| 9 | [HypertextAssassinRajith](https://github.com/HypertextAssassinRajith) | Sanjaya Senanayaka | Sri Lanka | 6,229 |
-| 10 | [enanayakkara](https://github.com/enanayakkara) | Eranga Nanayakkara | Colombo, Sri Lanka | 5,416 |
-| 11 | [DARKDRAGON-LK](https://github.com/DARKDRAGON-LK) | Lawan Chaamindu Jayalath Samarasekara | Galle, Sri Lanka | 5,259 |
-| 12 | [Roshen-Perera](https://github.com/Roshen-Perera) | Roshen Perera | Sri Lanka | 5,122 |
-| 13 | [shenald-dev](https://github.com/shenald-dev) | Shenal D | Sri Lanka | 5,010 |
-| 14 | [lahirunirmalx](https://github.com/lahirunirmalx) | Lahiru | Colombo,Srilanka | 4,841 |
-| 15 | [AtheequeFurkhan](https://github.com/AtheequeFurkhan) | Atheeque Furkhan | Sri Lanka | 4,664 |
-| 16 | [themiyadilann](https://github.com/themiyadilann) | Themiya Dilan | Sri Lanka | 4,652 |
-| 17 | [yasandu0505](https://github.com/yasandu0505) | Yasandu Imanjith  | Sri Lanka | 4,600 |
-| 18 | [randikapra](https://github.com/randikapra) | Randika Prabashwara | Colombo, Sri Lanka | 4,493 |
-| 19 | [octalpixel](https://github.com/octalpixel) | Mithushan Jalangan | Sri Lanka | 4,367 |
-| 20 | [Cookie-Cat21](https://github.com/Cookie-Cat21) | Cookie_Cat21 | Sri Lanka | 4,221 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 18,260
 | 18 | [kaveeshadinamidu](https://github.com/kaveeshadinamidu) | Kaveesha Dinamidu | Sri Lanka | 9,172 |
 | 19 | [AhsanLozaa](https://github.com/AhsanLozaa) | Muhammad Ilyas Muhammad Ahsan | Sri Lanka | 9,048 |
 | 20 | [rasikasrimal](https://github.com/rasikasrimal) | Rasika Srimal | Colombo | 8,671 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [nuuuwan](https://github.com/nuuuwan) | Nuwan I. Senaratna | Colombo, Sri Lanka | 163,626 |
+| 2 | [RensithUdara](https://github.com/RensithUdara) | Rensith Udara Gonalagoda | Galle, Sri Lanka | 152,007 |
+| 3 | [pawara-mmns](https://github.com/pawara-mmns) | Pawara Samarawickrama | Colombo,Sri Lanka | 85,059 |
+| 4 | [RAVEENSR](https://github.com/RAVEENSR) | Raveen Savinda Rathnayake | Colombo, Sri Lanka | 21,516 |
+| 5 | [buddhika75](https://github.com/buddhika75) | Dr. M H B Ariyaratne | Galle, Sri Lanka | 13,136 |
+| 6 | [IT21314742](https://github.com/IT21314742) | Vihan Jayasinghe | Sri Lanka | 11,232 |
+| 7 | [sameerasw](https://github.com/sameerasw) | sameerasw.com | Sri Lanka | 10,308 |
+| 8 | [iroshanaRavishan](https://github.com/iroshanaRavishan) | Iroshana Ravishan | Matale, Sri Lanka | 8,020 |
+| 9 | [HypertextAssassinRajith](https://github.com/HypertextAssassinRajith) | Sanjaya Senanayaka | Sri Lanka | 6,229 |
+| 10 | [enanayakkara](https://github.com/enanayakkara) | Eranga Nanayakkara | Colombo, Sri Lanka | 5,416 |
+| 11 | [DARKDRAGON-LK](https://github.com/DARKDRAGON-LK) | Lawan Chaamindu Jayalath Samarasekara | Galle, Sri Lanka | 5,259 |
+| 12 | [Roshen-Perera](https://github.com/Roshen-Perera) | Roshen Perera | Sri Lanka | 5,122 |
+| 13 | [shenald-dev](https://github.com/shenald-dev) | Shenal D | Sri Lanka | 5,010 |
+| 14 | [lahirunirmalx](https://github.com/lahirunirmalx) | Lahiru | Colombo,Srilanka | 4,841 |
+| 15 | [AtheequeFurkhan](https://github.com/AtheequeFurkhan) | Atheeque Furkhan | Sri Lanka | 4,664 |
+| 16 | [themiyadilann](https://github.com/themiyadilann) | Themiya Dilan | Sri Lanka | 4,652 |
+| 17 | [yasandu0505](https://github.com/yasandu0505) | Yasandu Imanjith  | Sri Lanka | 4,600 |
+| 18 | [randikapra](https://github.com/randikapra) | Randika Prabashwara | Colombo, Sri Lanka | 4,493 |
+| 19 | [octalpixel](https://github.com/octalpixel) | Mithushan Jalangan | Sri Lanka | 4,367 |
+| 20 | [Cookie-Cat21](https://github.com/Cookie-Cat21) | Cookie_Cat21 | Sri Lanka | 4,221 |
 
 ## Followers
 

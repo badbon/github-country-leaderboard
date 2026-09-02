@@ -4,34 +4,9 @@ Indexed users: 724
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/mauritius.md) |
 | Total Contributions | [Open](../total_contributions/mauritius.md) |
+| Public Contributions | [Open](../public_contributions/mauritius.md) |
 | Followers | [Open](../followers/mauritius.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,077 |
-| 2 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 2,836 |
-| 3 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,970 |
-| 4 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,409 |
-| 5 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,389 |
-| 6 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,378 |
-| 7 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,330 |
-| 8 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,203 |
-| 9 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 1,196 |
-| 10 | [yso81](https://github.com/yso81) | yso* | Mauritius | 1,139 |
-| 11 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,018 |
-| 12 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 830 |
-| 13 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Quatre Bornes, Mauritius | 816 |
-| 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 709 |
-| 15 | [Masryeen](https://github.com/Masryeen) | Alexander Contreras | Port Jacob, Mauritius | 677 |
-| 16 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 655 |
-| 17 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 628 |
-| 18 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 604 |
-| 19 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 568 |
-| 20 | [iamevanss](https://github.com/iamevanss) | ㅤ༺ㅤꜱᴛᴀɪɴㅤ༻ㅤ | Port Louis Mauritius  | 549 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 724
 | 18 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 2,398 |
 | 19 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee | Mauritius | 2,323 |
 | 20 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 2,289 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,077 |
+| 2 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 2,836 |
+| 3 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,970 |
+| 4 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,409 |
+| 5 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,389 |
+| 6 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,378 |
+| 7 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,330 |
+| 8 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,203 |
+| 9 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 1,196 |
+| 10 | [yso81](https://github.com/yso81) | yso* | Mauritius | 1,139 |
+| 11 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,018 |
+| 12 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 830 |
+| 13 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Quatre Bornes, Mauritius | 816 |
+| 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 709 |
+| 15 | [Masryeen](https://github.com/Masryeen) | Alexander Contreras | Port Jacob, Mauritius | 677 |
+| 16 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 655 |
+| 17 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 628 |
+| 18 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 604 |
+| 19 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 568 |
+| 20 | [iamevanss](https://github.com/iamevanss) | ㅤ༺ㅤꜱᴛᴀɪɴㅤ༻ㅤ | Port Louis Mauritius  | 549 |
 
 ## Followers
 

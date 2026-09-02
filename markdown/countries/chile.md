@@ -4,34 +4,9 @@ Indexed users: 19,359
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/chile.md) |
 | Total Contributions | [Open](../total_contributions/chile.md) |
+| Public Contributions | [Open](../public_contributions/chile.md) |
 | Followers | [Open](../followers/chile.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [paulmunozpauta](https://github.com/paulmunozpauta) | Paul Muñoz | Chile | 56,256 |
-| 2 | [Isabelnava100](https://github.com/Isabelnava100) | Isabel Nava | Concepcion, Chile | 27,729 |
-| 3 | [sebavidal10](https://github.com/sebavidal10) | Sebastian Vidal Aedo | Chile | 18,241 |
-| 4 | [appwebd](https://github.com/appwebd) | Patricio Rojas | Chile | 12,657 |
-| 5 | [fsantibanezleal](https://github.com/fsantibanezleal) | Felipe Santibáñez-Leal | Chile | 10,971 |
-| 6 | [grisuno](https://github.com/grisuno) | Grisuno | Santiago de chile | 10,929 |
-| 7 | [cortega26](https://github.com/cortega26) | Carlos Ortega González | Santiago, Chile | 10,740 |
-| 8 | [montoyamoraga](https://github.com/montoyamoraga) | aarón montoya-moraga | Chile | 9,602 |
-| 9 | [cdvelop](https://github.com/cdvelop) | César Solís | chile | 9,145 |
-| 10 | [underpostnet](https://github.com/underpostnet) | underpost | Chile | 8,297 |
-| 11 | [lnds](https://github.com/lnds) | Eduardo Díaz | Santiago, Chile | 7,712 |
-| 12 | [ignaciocorball](https://github.com/ignaciocorball) | Ignacio Corball | Chile | 7,678 |
-| 13 | [VforVitorio](https://github.com/VforVitorio) | Victor | Santiago de Compostela · Hybrid in A Coruña | 6,386 |
-| 14 | [NachoOFC](https://github.com/NachoOFC) | Nacho | Puerto Montt, Chile | 5,769 |
-| 15 | [cesargrowth11](https://github.com/cesargrowth11) | Julio Reyes | Chile | 5,525 |
-| 16 | [madkoding](https://github.com/madkoding) | madKoding | Chile | 5,507 |
-| 17 | [nmorabowen](https://github.com/nmorabowen) | Nicolas Mora Bowen | Chile | 4,980 |
-| 18 | [jsgrrchg](https://github.com/jsgrrchg) | José Gurruchaga | Chile | 4,906 |
-| 19 | [richonguzman](https://github.com/richonguzman) | Ricardo Guzman | Viña del Mar, Chile | 4,899 |
-| 20 | [yorsh21](https://github.com/yorsh21) | Jorge Villagrán | Santiago, Chile | 4,372 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 19,359
 | 18 | [ViktorJJF](https://github.com/ViktorJJF) | Victor Juan Jimenez Flores | Santiago de Chile | 11,882 |
 | 19 | [cortega26](https://github.com/cortega26) | Carlos Ortega González | Santiago, Chile | 11,842 |
 | 20 | [ferando855](https://github.com/ferando855) | Fernando Garcia-Huidobro H | Chile | 11,421 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [paulmunozpauta](https://github.com/paulmunozpauta) | Paul Muñoz | Chile | 56,256 |
+| 2 | [Isabelnava100](https://github.com/Isabelnava100) | Isabel Nava | Concepcion, Chile | 27,729 |
+| 3 | [sebavidal10](https://github.com/sebavidal10) | Sebastian Vidal Aedo | Chile | 18,241 |
+| 4 | [appwebd](https://github.com/appwebd) | Patricio Rojas | Chile | 12,657 |
+| 5 | [fsantibanezleal](https://github.com/fsantibanezleal) | Felipe Santibáñez-Leal | Chile | 10,971 |
+| 6 | [grisuno](https://github.com/grisuno) | Grisuno | Santiago de chile | 10,929 |
+| 7 | [cortega26](https://github.com/cortega26) | Carlos Ortega González | Santiago, Chile | 10,740 |
+| 8 | [montoyamoraga](https://github.com/montoyamoraga) | aarón montoya-moraga | Chile | 9,602 |
+| 9 | [cdvelop](https://github.com/cdvelop) | César Solís | chile | 9,145 |
+| 10 | [underpostnet](https://github.com/underpostnet) | underpost | Chile | 8,297 |
+| 11 | [lnds](https://github.com/lnds) | Eduardo Díaz | Santiago, Chile | 7,712 |
+| 12 | [ignaciocorball](https://github.com/ignaciocorball) | Ignacio Corball | Chile | 7,678 |
+| 13 | [VforVitorio](https://github.com/VforVitorio) | Victor | Santiago de Compostela · Hybrid in A Coruña | 6,386 |
+| 14 | [NachoOFC](https://github.com/NachoOFC) | Nacho | Puerto Montt, Chile | 5,769 |
+| 15 | [cesargrowth11](https://github.com/cesargrowth11) | Julio Reyes | Chile | 5,525 |
+| 16 | [madkoding](https://github.com/madkoding) | madKoding | Chile | 5,507 |
+| 17 | [nmorabowen](https://github.com/nmorabowen) | Nicolas Mora Bowen | Chile | 4,980 |
+| 18 | [jsgrrchg](https://github.com/jsgrrchg) | José Gurruchaga | Chile | 4,906 |
+| 19 | [richonguzman](https://github.com/richonguzman) | Ricardo Guzman | Viña del Mar, Chile | 4,899 |
+| 20 | [yorsh21](https://github.com/yorsh21) | Jorge Villagrán | Santiago, Chile | 4,372 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 18,409
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/belgium.md) |
 | Total Contributions | [Open](../total_contributions/belgium.md) |
+| Public Contributions | [Open](../public_contributions/belgium.md) |
 | Followers | [Open](../followers/belgium.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,137 |
-| 2 | [phmatray](https://github.com/phmatray) | Philippe Matray | Belgium | 12,873 |
-| 3 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt, Belgium | 12,226 |
-| 4 | [pheyvaer](https://github.com/pheyvaer) | Pieter Heyvaert | Belgium | 11,900 |
-| 5 | [NielsRogge](https://github.com/NielsRogge) |  | Belgium | 10,541 |
-| 6 | [Iemand005](https://github.com/Iemand005) | Lasse Lauwerys | Belgium | 9,757 |
-| 7 | [renaudallard](https://github.com/renaudallard) | Renaud Allard | Belgium | 9,586 |
-| 8 | [matttbe](https://github.com/matttbe) | Matthieu Baerts | Belgium | 9,298 |
-| 9 | [jfmeyers](https://github.com/jfmeyers) | JF | Belgium | 8,792 |
-| 10 | [charphi](https://github.com/charphi) | Philippe Charles | Belgium | 8,438 |
-| 11 | [WouterGlorieux](https://github.com/WouterGlorieux) | Wouter Glorieux | Ghent, Belgium | 8,076 |
-| 12 | [brendt](https://github.com/brendt) | Brent Roose | Belgium | 7,628 |
-| 13 | [EloiStree](https://github.com/EloiStree) | Éloi Strée | Belgium | 7,287 |
-| 14 | [duggytuxy](https://github.com/duggytuxy) | 🔐Laurent M🔐 | Brussels, Belgium | 7,238 |
-| 15 | [Laoujin](https://github.com/Laoujin) | Wouter Van Schandevijl | Belgium | 7,219 |
-| 16 | [pmcp](https://github.com/pmcp) | Maarten Lauwaert | Brussels | 7,075 |
-| 17 | [Sitebase](https://github.com/Sitebase) | Wim Mostmans | Belgium | 6,670 |
-| 18 | [jy95](https://github.com/jy95) | Jacques Yakoub | Brussels, Belgium | 6,415 |
-| 19 | [mvdbeek](https://github.com/mvdbeek) | Marius van den Beek | Belgium | 5,861 |
-| 20 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | Leuven, Belgium | 5,761 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 18,409
 | 18 | [obax](https://github.com/obax) | Olivier | London / Brussels  | 12,516 |
 | 19 | [pieterclaerhout](https://github.com/pieterclaerhout) | Pieter Claerhout | Beernem, Belgium | 12,268 |
 | 20 | [Iemand005](https://github.com/Iemand005) | Lasse Lauwerys | Belgium | 12,081 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,137 |
+| 2 | [phmatray](https://github.com/phmatray) | Philippe Matray | Belgium | 12,873 |
+| 3 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt, Belgium | 12,226 |
+| 4 | [pheyvaer](https://github.com/pheyvaer) | Pieter Heyvaert | Belgium | 11,900 |
+| 5 | [NielsRogge](https://github.com/NielsRogge) |  | Belgium | 10,541 |
+| 6 | [Iemand005](https://github.com/Iemand005) | Lasse Lauwerys | Belgium | 9,757 |
+| 7 | [renaudallard](https://github.com/renaudallard) | Renaud Allard | Belgium | 9,586 |
+| 8 | [matttbe](https://github.com/matttbe) | Matthieu Baerts | Belgium | 9,298 |
+| 9 | [jfmeyers](https://github.com/jfmeyers) | JF | Belgium | 8,792 |
+| 10 | [charphi](https://github.com/charphi) | Philippe Charles | Belgium | 8,438 |
+| 11 | [WouterGlorieux](https://github.com/WouterGlorieux) | Wouter Glorieux | Ghent, Belgium | 8,076 |
+| 12 | [brendt](https://github.com/brendt) | Brent Roose | Belgium | 7,628 |
+| 13 | [EloiStree](https://github.com/EloiStree) | Éloi Strée | Belgium | 7,287 |
+| 14 | [duggytuxy](https://github.com/duggytuxy) | 🔐Laurent M🔐 | Brussels, Belgium | 7,238 |
+| 15 | [Laoujin](https://github.com/Laoujin) | Wouter Van Schandevijl | Belgium | 7,219 |
+| 16 | [pmcp](https://github.com/pmcp) | Maarten Lauwaert | Brussels | 7,075 |
+| 17 | [Sitebase](https://github.com/Sitebase) | Wim Mostmans | Belgium | 6,670 |
+| 18 | [jy95](https://github.com/jy95) | Jacques Yakoub | Brussels, Belgium | 6,415 |
+| 19 | [mvdbeek](https://github.com/mvdbeek) | Marius van den Beek | Belgium | 5,861 |
+| 20 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | Leuven, Belgium | 5,761 |
 
 ## Followers
 

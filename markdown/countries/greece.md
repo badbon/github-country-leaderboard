@@ -4,34 +4,9 @@ Indexed users: 15,569
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/greece.md) |
 | Total Contributions | [Open](../total_contributions/greece.md) |
+| Public Contributions | [Open](../public_contributions/greece.md) |
 | Followers | [Open](../followers/greece.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [pablof7z](https://github.com/pablof7z) | Pablo Fernandez | Kalymnos, Greece | 22,485 |
-| 2 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
-| 3 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Patras, Greece | 8,066 |
-| 4 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | Athens, Greece | 7,992 |
-| 5 | [itcmsgr](https://github.com/itcmsgr) |  | Athens | 6,893 |
-| 6 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Corinth, Greece | 6,827 |
-| 7 | [Cranot](https://github.com/Cranot) | Dimitris | Greece | 5,575 |
-| 8 | [Themis128](https://github.com/Themis128) | Baltzakis Themistoklis | Greece | 5,368 |
-| 9 | [turri21](https://github.com/turri21) | turri21 | Greece | 5,319 |
-| 10 | [PetrouilFan](https://github.com/PetrouilFan) | Petros Fanioudakis | Greece | 5,029 |
-| 11 | [Basilakis](https://github.com/Basilakis) | Basilis Kanonidis | Thessaloniki, Greece | 4,346 |
-| 12 | [apmantza](https://github.com/apmantza) | Apostolos Mantzaris | Athens, Greece | 4,275 |
-| 13 | [waseigo](https://github.com/waseigo) | Isaak Tsalicoglou | Athens, Greece | 4,247 |
-| 14 | [stef-k](https://github.com/stef-k) | Stef Karyotidis | Greece | 4,084 |
-| 15 | [ktsaou](https://github.com/ktsaou) | Costa Tsaousis | Greece | 3,896 |
-| 16 | [gakonst](https://github.com/gakonst) | Georgios Konstantopoulos | Thessaloniki, Greece | 3,814 |
-| 17 | [barstown](https://github.com/barstown) | Kyle Barstow | Athens, OH | 3,792 |
-| 18 | [geoand](https://github.com/geoand) | Georgios Andrianakis | Athens, Greece | 3,644 |
-| 19 | [pmoust](https://github.com/pmoust) | Panagiotis Moustafellos | Athens, Greece | 3,563 |
-| 20 | [Sandbird](https://github.com/Sandbird) | Sandbird | Greece | 3,558 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 15,569
 | 18 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas | Greece | 9,094 |
 | 19 | [cosmix](https://github.com/cosmix) | Dimosthenis Kaponis | Athens, Greece | 8,320 |
 | 20 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | Athens, Greece | 7,992 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [pablof7z](https://github.com/pablof7z) | Pablo Fernandez | Kalymnos, Greece | 22,485 |
+| 2 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
+| 3 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Patras, Greece | 8,066 |
+| 4 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | Athens, Greece | 7,992 |
+| 5 | [itcmsgr](https://github.com/itcmsgr) |  | Athens | 6,893 |
+| 6 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Corinth, Greece | 6,827 |
+| 7 | [Cranot](https://github.com/Cranot) | Dimitris | Greece | 5,575 |
+| 8 | [Themis128](https://github.com/Themis128) | Baltzakis Themistoklis | Greece | 5,368 |
+| 9 | [turri21](https://github.com/turri21) | turri21 | Greece | 5,319 |
+| 10 | [PetrouilFan](https://github.com/PetrouilFan) | Petros Fanioudakis | Greece | 5,029 |
+| 11 | [Basilakis](https://github.com/Basilakis) | Basilis Kanonidis | Thessaloniki, Greece | 4,346 |
+| 12 | [apmantza](https://github.com/apmantza) | Apostolos Mantzaris | Athens, Greece | 4,275 |
+| 13 | [waseigo](https://github.com/waseigo) | Isaak Tsalicoglou | Athens, Greece | 4,247 |
+| 14 | [stef-k](https://github.com/stef-k) | Stef Karyotidis | Greece | 4,084 |
+| 15 | [ktsaou](https://github.com/ktsaou) | Costa Tsaousis | Greece | 3,896 |
+| 16 | [gakonst](https://github.com/gakonst) | Georgios Konstantopoulos | Thessaloniki, Greece | 3,814 |
+| 17 | [barstown](https://github.com/barstown) | Kyle Barstow | Athens, OH | 3,792 |
+| 18 | [geoand](https://github.com/geoand) | Georgios Andrianakis | Athens, Greece | 3,644 |
+| 19 | [pmoust](https://github.com/pmoust) | Panagiotis Moustafellos | Athens, Greece | 3,563 |
+| 20 | [Sandbird](https://github.com/Sandbird) | Sandbird | Greece | 3,558 |
 
 ## Followers
 

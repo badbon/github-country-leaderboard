@@ -4,34 +4,9 @@ Indexed users: 1,788
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/seychelles.md) |
 | Total Contributions | [Open](../total_contributions/seychelles.md) |
+| Public Contributions | [Open](../public_contributions/seychelles.md) |
 | Followers | [Open](../followers/seychelles.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 4,160 |
-| 2 | [junminahn](https://github.com/junminahn) | Junmin Ahn | Victoria | 4,113 |
-| 3 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 3,444 |
-| 4 | [CijeTheCreator](https://github.com/CijeTheCreator) | Chijioke (Akaolisa) Osadebe | Victoria Island, Lagos | 2,318 |
-| 5 | [arcshiftsolutions](https://github.com/arcshiftsolutions) | Marco Villeneuve | Victoria, BC | 2,270 |
-| 6 | [eliotmcintire](https://github.com/eliotmcintire) | Eliot McIntire | Victoria, BC | 2,228 |
-| 7 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | Victoria, BC | 2,173 |
-| 8 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 1,991 |
-| 9 | [Nospamas](https://github.com/Nospamas) |  | Victoria, BC | 1,851 |
-| 10 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 1,748 |
-| 11 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,523 |
-| 12 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | Victoria BC | 1,457 |
-| 13 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom | Victoria, BC | 1,436 |
-| 14 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,426 |
-| 15 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
-| 16 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 1,389 |
-| 17 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,355 |
-| 18 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | Victoria | 1,166 |
-| 19 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | Victoria, BC | 1,098 |
-| 20 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Victoria BC | 1,092 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,788
 | 18 | [sdevalapurkar](https://github.com/sdevalapurkar) | Shreyas Devalapurkar | Victoria, BC | 4,860 |
 | 19 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 4,775 |
 | 20 | [rywall](https://github.com/rywall) | Ryan Wallace | Victoria, BC | 4,748 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 4,160 |
+| 2 | [junminahn](https://github.com/junminahn) | Junmin Ahn | Victoria | 4,113 |
+| 3 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 3,444 |
+| 4 | [CijeTheCreator](https://github.com/CijeTheCreator) | Chijioke (Akaolisa) Osadebe | Victoria Island, Lagos | 2,318 |
+| 5 | [arcshiftsolutions](https://github.com/arcshiftsolutions) | Marco Villeneuve | Victoria, BC | 2,270 |
+| 6 | [eliotmcintire](https://github.com/eliotmcintire) | Eliot McIntire | Victoria, BC | 2,228 |
+| 7 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | Victoria, BC | 2,173 |
+| 8 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 1,991 |
+| 9 | [Nospamas](https://github.com/Nospamas) |  | Victoria, BC | 1,851 |
+| 10 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 1,748 |
+| 11 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,523 |
+| 12 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | Victoria BC | 1,457 |
+| 13 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom | Victoria, BC | 1,436 |
+| 14 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,426 |
+| 15 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
+| 16 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 1,389 |
+| 17 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,355 |
+| 18 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | Victoria | 1,166 |
+| 19 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | Victoria, BC | 1,098 |
+| 20 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Victoria BC | 1,092 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 61
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/greenland.md) |
 | Total Contributions | [Open](../total_contributions/greenland.md) |
+| Public Contributions | [Open](../public_contributions/greenland.md) |
 | Followers | [Open](../followers/greenland.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,636 |
-| 2 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,615 |
-| 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 899 |
-| 4 | [WingWR](https://github.com/WingWR) |  | Greenland | 745 |
-| 5 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 646 |
-| 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 273 |
-| 7 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 228 |
-| 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 192 |
-| 9 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  | Greenland | 181 |
-| 10 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 176 |
-| 11 | [hexia7230](https://github.com/hexia7230) | H.K | Kaffeklubben Island, Greenland | 153 |
-| 12 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 150 |
-| 13 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 148 |
-| 14 | [panyster](https://github.com/panyster) | Pany | Greenland | 121 |
-| 15 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 59 |
-| 16 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 41 |
-| 17 | [Lamtipul](https://github.com/Lamtipul) | Lâm | Greenland | 36 |
-| 18 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Greenland | 28 |
-| 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 18 |
-| 20 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 18 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 61
 | 18 | [Lamtipul](https://github.com/Lamtipul) | Lâm | Greenland | 36 |
 | 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 32 |
 | 20 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Greenland | 31 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,636 |
+| 2 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,615 |
+| 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 899 |
+| 4 | [WingWR](https://github.com/WingWR) |  | Greenland | 745 |
+| 5 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 646 |
+| 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 273 |
+| 7 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 228 |
+| 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 192 |
+| 9 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  | Greenland | 181 |
+| 10 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 176 |
+| 11 | [hexia7230](https://github.com/hexia7230) | H.K | Kaffeklubben Island, Greenland | 153 |
+| 12 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 150 |
+| 13 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 148 |
+| 14 | [panyster](https://github.com/panyster) | Pany | Greenland | 121 |
+| 15 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 59 |
+| 16 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 41 |
+| 17 | [Lamtipul](https://github.com/Lamtipul) | Lâm | Greenland | 36 |
+| 18 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Greenland | 28 |
+| 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 18 |
+| 20 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 18 |
 
 ## Followers
 

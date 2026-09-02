@@ -4,34 +4,9 @@ Indexed users: 1,477
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/syria.md) |
 | Total Contributions | [Open](../total_contributions/syria.md) |
+| Public Contributions | [Open](../public_contributions/syria.md) |
 | Followers | [Open](../followers/syria.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 3,551 |
-| 2 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 2,974 |
-| 3 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,917 |
-| 4 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 1,807 |
-| 5 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,763 |
-| 6 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,716 |
-| 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,361 |
-| 8 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,246 |
-| 9 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 1,046 |
-| 10 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,017 |
-| 11 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Syria | 1,010 |
-| 12 | [emad-alsmadi](https://github.com/emad-alsmadi) | emad alsmadi  | Syria | 873 |
-| 13 | [OlaMorad](https://github.com/OlaMorad) | Ola Morad | Damascus | 720 |
-| 14 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | Damascus, Syria | 653 |
-| 15 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki | Syria | 644 |
-| 16 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | Damascus, Syria | 629 |
-| 17 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 582 |
-| 18 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 557 |
-| 19 | [Mounir-Almzayek](https://github.com/Mounir-Almzayek) | Mounir-Almzayek | Damascus Governorate, Syria  | 554 |
-| 20 | [LeadstarlingX](https://github.com/LeadstarlingX) | Saad Aswad | Damascus | 550 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,477
 | 18 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 1,437 |
 | 19 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Damascus | 1,432 |
 | 20 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Syria | 1,417 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 3,551 |
+| 2 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 2,974 |
+| 3 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,917 |
+| 4 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 1,807 |
+| 5 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,763 |
+| 6 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,716 |
+| 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,361 |
+| 8 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,246 |
+| 9 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 1,046 |
+| 10 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,017 |
+| 11 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Syria | 1,010 |
+| 12 | [emad-alsmadi](https://github.com/emad-alsmadi) | emad alsmadi  | Syria | 873 |
+| 13 | [OlaMorad](https://github.com/OlaMorad) | Ola Morad | Damascus | 720 |
+| 14 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | Damascus, Syria | 653 |
+| 15 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki | Syria | 644 |
+| 16 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | Damascus, Syria | 629 |
+| 17 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 582 |
+| 18 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 557 |
+| 19 | [Mounir-Almzayek](https://github.com/Mounir-Almzayek) | Mounir-Almzayek | Damascus Governorate, Syria  | 554 |
+| 20 | [LeadstarlingX](https://github.com/LeadstarlingX) | Saad Aswad | Damascus | 550 |
 
 ## Followers
 

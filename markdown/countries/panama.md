@@ -4,34 +4,9 @@ Indexed users: 1,076
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/panama.md) |
 | Total Contributions | [Open](../total_contributions/panama.md) |
+| Public Contributions | [Open](../public_contributions/panama.md) |
 | Followers | [Open](../followers/panama.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
-| 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 4,210 |
-| 3 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,389 |
-| 4 | [kingg22](https://github.com/kingg22) | Rey | Panama | 2,267 |
-| 5 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,791 |
-| 6 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 1,715 |
-| 7 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,711 |
-| 8 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 1,422 |
-| 9 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,305 |
-| 10 | [SampleBias](https://github.com/SampleBias) | S4MPL3BI4S | Panama City | 1,303 |
-| 11 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,249 |
-| 12 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,135 |
-| 13 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,117 |
-| 14 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 1,096 |
-| 15 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 844 |
-| 16 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 828 |
-| 17 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Santiago, Veraguas, Panamá | 793 |
-| 18 | [notSoEliel](https://github.com/notSoEliel) | Eliel García | Panama City, Panama, Panama | 793 |
-| 19 | [levieraf](https://github.com/levieraf) | Luis Viera | Panama | 766 |
-| 20 | [jjzcru](https://github.com/jjzcru) | Jose J. Cruz | Panama, Panama | 762 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,076
 | 18 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 4,361 |
 | 19 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,086 |
 | 20 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 4,062 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
+| 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 4,210 |
+| 3 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,389 |
+| 4 | [kingg22](https://github.com/kingg22) | Rey | Panama | 2,267 |
+| 5 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,791 |
+| 6 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 1,715 |
+| 7 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,711 |
+| 8 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 1,422 |
+| 9 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,305 |
+| 10 | [SampleBias](https://github.com/SampleBias) | S4MPL3BI4S | Panama City | 1,303 |
+| 11 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,249 |
+| 12 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,135 |
+| 13 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,117 |
+| 14 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 1,096 |
+| 15 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 844 |
+| 16 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 828 |
+| 17 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Santiago, Veraguas, Panamá | 793 |
+| 18 | [notSoEliel](https://github.com/notSoEliel) | Eliel García | Panama City, Panama, Panama | 793 |
+| 19 | [levieraf](https://github.com/levieraf) | Luis Viera | Panama | 766 |
+| 20 | [jjzcru](https://github.com/jjzcru) | Jose J. Cruz | Panama, Panama | 762 |
 
 ## Followers
 

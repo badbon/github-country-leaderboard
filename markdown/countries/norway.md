@@ -4,34 +4,9 @@ Indexed users: 19,634
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/norway.md) |
 | Total Contributions | [Open](../total_contributions/norway.md) |
+| Public Contributions | [Open](../public_contributions/norway.md) |
 | Followers | [Open](../followers/norway.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [marcusramberg](https://github.com/marcusramberg) | Marcus Ramberg | Oslo, Norway | 59,258 |
-| 2 | [caengen](https://github.com/caengen) | Christian Engen | Lørenskog, Norway | 18,071 |
-| 3 | [filipvanlaenen](https://github.com/filipvanlaenen) | Filip van Laenen | Oslo | 14,105 |
-| 4 | [eonist](https://github.com/eonist) | André J | Norway, Oslo | 13,078 |
-| 5 | [einari](https://github.com/einari) | Einar Ingebrigtsen | Sandefjord, Norway | 12,368 |
-| 6 | [khaliqgant](https://github.com/khaliqgant) | Khaliq | Oslo, Norway | 11,837 |
-| 7 | [HelgeSverre](https://github.com/HelgeSverre) | Helge Sverre | Bergen, Norway | 11,728 |
-| 8 | [FRIKKern](https://github.com/FRIKKern) | Frikk Jarl | Oslo, Norway | 11,697 |
-| 9 | [Reketino](https://github.com/Reketino) | Bear Even Lyngstad | Norway | 11,213 |
-| 10 | [eirikhanasand](https://github.com/eirikhanasand) | Eirik Hanasand | Norway | 9,360 |
-| 11 | [hausnes](https://github.com/hausnes) | Jo Bjørnar Hausnes | Bergen, Norway | 9,125 |
-| 12 | [asgeirf](https://github.com/asgeirf) | Asgeir Frimannsson | Oslo, Norway | 9,064 |
-| 13 | [stipsan](https://github.com/stipsan) | Cody Olsen | Oslo, Norway | 8,411 |
-| 14 | [eiriksm](https://github.com/eiriksm) | Eirik Stanghelle Morland | Trondheim, Norway | 7,398 |
-| 15 | [folknor](https://github.com/folknor) | folk | Norway | 7,341 |
-| 16 | [rob-smallshire](https://github.com/rob-smallshire) | Robert Smallshire | Oslo, Norway | 7,218 |
-| 17 | [tmiland](https://github.com/tmiland) | Tommy Miland | Norway | 6,589 |
-| 18 | [eserlan](https://github.com/eserlan) | Espen Erlandsen | Oslo, Norway | 6,558 |
-| 19 | [leifericf](https://github.com/leifericf) | Leif Eric Fredheim | Oslo, Norway | 6,513 |
-| 20 | [drmowinckels](https://github.com/drmowinckels) | Athanasia Monika Mowinckel | Oslo, Norway | 6,477 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 19,634
 | 18 | [marksverdhei](https://github.com/marksverdhei) | Markus / Mark | Norway | 16,592 |
 | 19 | [bwentzel](https://github.com/bwentzel) | Bjorn Andreas Wentzel | Oslo, Norway | 15,139 |
 | 20 | [shadone](https://github.com/shadone) | Denis Dzyubenko | Oslo, Norway | 15,047 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [marcusramberg](https://github.com/marcusramberg) | Marcus Ramberg | Oslo, Norway | 59,258 |
+| 2 | [caengen](https://github.com/caengen) | Christian Engen | Lørenskog, Norway | 18,071 |
+| 3 | [filipvanlaenen](https://github.com/filipvanlaenen) | Filip van Laenen | Oslo | 14,105 |
+| 4 | [eonist](https://github.com/eonist) | André J | Norway, Oslo | 13,078 |
+| 5 | [einari](https://github.com/einari) | Einar Ingebrigtsen | Sandefjord, Norway | 12,368 |
+| 6 | [khaliqgant](https://github.com/khaliqgant) | Khaliq | Oslo, Norway | 11,837 |
+| 7 | [HelgeSverre](https://github.com/HelgeSverre) | Helge Sverre | Bergen, Norway | 11,728 |
+| 8 | [FRIKKern](https://github.com/FRIKKern) | Frikk Jarl | Oslo, Norway | 11,697 |
+| 9 | [Reketino](https://github.com/Reketino) | Bear Even Lyngstad | Norway | 11,213 |
+| 10 | [eirikhanasand](https://github.com/eirikhanasand) | Eirik Hanasand | Norway | 9,360 |
+| 11 | [hausnes](https://github.com/hausnes) | Jo Bjørnar Hausnes | Bergen, Norway | 9,125 |
+| 12 | [asgeirf](https://github.com/asgeirf) | Asgeir Frimannsson | Oslo, Norway | 9,064 |
+| 13 | [stipsan](https://github.com/stipsan) | Cody Olsen | Oslo, Norway | 8,411 |
+| 14 | [eiriksm](https://github.com/eiriksm) | Eirik Stanghelle Morland | Trondheim, Norway | 7,398 |
+| 15 | [folknor](https://github.com/folknor) | folk | Norway | 7,341 |
+| 16 | [rob-smallshire](https://github.com/rob-smallshire) | Robert Smallshire | Oslo, Norway | 7,218 |
+| 17 | [tmiland](https://github.com/tmiland) | Tommy Miland | Norway | 6,589 |
+| 18 | [eserlan](https://github.com/eserlan) | Espen Erlandsen | Oslo, Norway | 6,558 |
+| 19 | [leifericf](https://github.com/leifericf) | Leif Eric Fredheim | Oslo, Norway | 6,513 |
+| 20 | [drmowinckels](https://github.com/drmowinckels) | Athanasia Monika Mowinckel | Oslo, Norway | 6,477 |
 
 ## Followers
 

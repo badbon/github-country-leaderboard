@@ -4,34 +4,9 @@ Indexed users: 1,587
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/iceland.md) |
 | Total Contributions | [Open](../total_contributions/iceland.md) |
+| Public Contributions | [Open](../public_contributions/iceland.md) |
 | Followers | [Open](../followers/iceland.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 4,181 |
-| 2 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,282 |
-| 3 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,453 |
-| 4 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | iceland | 2,185 |
-| 5 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 2,079 |
-| 6 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Rekjavik, Iceland | 1,970 |
-| 7 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 1,866 |
-| 8 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 1,774 |
-| 9 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 1,765 |
-| 10 | [gabriel-klettur](https://github.com/gabriel-klettur) | Gabriel Roca | Iceland, Reykjavík | 1,719 |
-| 11 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson | Iceland | 1,534 |
-| 12 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,496 |
-| 13 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,301 |
-| 14 | [arividar](https://github.com/arividar) | Ari Johannesson | Reykjavik | 1,294 |
-| 15 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,224 |
-| 16 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,166 |
-| 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,164 |
-| 18 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 1,125 |
-| 19 | [gunnartorfis](https://github.com/gunnartorfis) | Gunnar Torfi Steinarsson | Reykjavik, Iceland | 1,113 |
-| 20 | [adslbarxatov](https://github.com/adslbarxatov) | RD AAOW Free development lab | Reykjavík, Iceland | 1,112 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,587
 | 18 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 5,396 |
 | 19 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 5,113 |
 | 20 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 5,037 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 4,181 |
+| 2 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,282 |
+| 3 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,453 |
+| 4 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | iceland | 2,185 |
+| 5 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 2,079 |
+| 6 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Rekjavik, Iceland | 1,970 |
+| 7 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 1,866 |
+| 8 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 1,774 |
+| 9 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 1,765 |
+| 10 | [gabriel-klettur](https://github.com/gabriel-klettur) | Gabriel Roca | Iceland, Reykjavík | 1,719 |
+| 11 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson | Iceland | 1,534 |
+| 12 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,496 |
+| 13 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,301 |
+| 14 | [arividar](https://github.com/arividar) | Ari Johannesson | Reykjavik | 1,294 |
+| 15 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,224 |
+| 16 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,166 |
+| 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,164 |
+| 18 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 1,125 |
+| 19 | [gunnartorfis](https://github.com/gunnartorfis) | Gunnar Torfi Steinarsson | Reykjavik, Iceland | 1,113 |
+| 20 | [adslbarxatov](https://github.com/adslbarxatov) | RD AAOW Free development lab | Reykjavík, Iceland | 1,112 |
 
 ## Followers
 

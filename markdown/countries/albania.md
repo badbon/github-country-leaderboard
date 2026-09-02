@@ -4,34 +4,9 @@ Indexed users: 1,198
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/albania.md) |
 | Total Contributions | [Open](../total_contributions/albania.md) |
+| Public Contributions | [Open](../public_contributions/albania.md) |
 | Followers | [Open](../followers/albania.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,004 |
-| 2 | [selimaj-dev](https://github.com/selimaj-dev) | Klesti Selimaj | Albania | 3,727 |
-| 3 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 2,012 |
-| 4 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,576 |
-| 5 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,497 |
-| 6 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
-| 7 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 1,107 |
-| 8 | [Diti2604](https://github.com/Diti2604) | Diti | Albania | 1,054 |
-| 9 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,048 |
-| 10 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 845 |
-| 11 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 751 |
-| 12 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 730 |
-| 13 | [klajdm](https://github.com/klajdm) | Klajdi Murataj | Tirana, Albania | 692 |
-| 14 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 662 |
-| 15 | [genciiv](https://github.com/genciiv) | G-code | Albania | 616 |
-| 16 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 609 |
-| 17 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu | Tirana, Albania | 549 |
-| 18 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari | Tirana, Albania | 535 |
-| 19 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 532 |
-| 20 | [jxrgenn](https://github.com/jxrgenn) | Jurgen Halili | Tirana, Albania | 495 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,198
 | 18 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 3,647 |
 | 19 | [keltinMesonjesi](https://github.com/keltinMesonjesi) | Keltin Mesonjesi | Tirana, Albania | 3,619 |
 | 20 | [samuelbushi](https://github.com/samuelbushi) | Samuel Bushi | Albania | 3,489 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,004 |
+| 2 | [selimaj-dev](https://github.com/selimaj-dev) | Klesti Selimaj | Albania | 3,727 |
+| 3 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 2,012 |
+| 4 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,576 |
+| 5 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,497 |
+| 6 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
+| 7 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 1,107 |
+| 8 | [Diti2604](https://github.com/Diti2604) | Diti | Albania | 1,054 |
+| 9 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,048 |
+| 10 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 845 |
+| 11 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 751 |
+| 12 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 730 |
+| 13 | [klajdm](https://github.com/klajdm) | Klajdi Murataj | Tirana, Albania | 692 |
+| 14 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 662 |
+| 15 | [genciiv](https://github.com/genciiv) | G-code | Albania | 616 |
+| 16 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 609 |
+| 17 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu | Tirana, Albania | 549 |
+| 18 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari | Tirana, Albania | 535 |
+| 19 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 532 |
+| 20 | [jxrgenn](https://github.com/jxrgenn) | Jurgen Halili | Tirana, Albania | 495 |
 
 ## Followers
 

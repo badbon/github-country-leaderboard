@@ -4,16 +4,16 @@ Indexed users: 13
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/northern_mariana_islands.md) |
 | Total Contributions | [Open](../total_contributions/northern_mariana_islands.md) |
+| Public Contributions | [Open](../public_contributions/northern_mariana_islands.md) |
 | Followers | [Open](../followers/northern_mariana_islands.md) |
 
-## Public Contributions
+## Total Contributions
 
-| # | User | Name | Location | Public Contributions |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [chris-yng](https://github.com/chris-yng) | Christopher Young | Sotobury, Northern Mariana Islands | 315 |
-| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 44 |
+| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 292 |
 | 3 | [nihaolifei999](https://github.com/nihaolifei999) | nihaolifei999 | Saipan | 5 |
 | 4 | [BaiJaCheng](https://github.com/BaiJaCheng) | Shanti Walker | 715 ,Cristopher Forge ,Williehaven ,Virginia ,Northern Mariana Islands | 0 |
 | 5 | [dipsmhsacc](https://github.com/dipsmhsacc) | Dip Roy | Saipan, Northern Mariana Islands | 0 |
@@ -26,12 +26,12 @@ Indexed users: 13
 | 12 | [sananiki](https://github.com/sananiki) | sananiki | Saipan | 0 |
 | 13 | [wgaul](https://github.com/wgaul) | Willson Gaul | Saipan, MP | 0 |
 
-## Total Contributions
+## Public Contributions
 
-| # | User | Name | Location | Total Contributions |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [chris-yng](https://github.com/chris-yng) | Christopher Young | Sotobury, Northern Mariana Islands | 315 |
-| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 292 |
+| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 44 |
 | 3 | [nihaolifei999](https://github.com/nihaolifei999) | nihaolifei999 | Saipan | 5 |
 | 4 | [BaiJaCheng](https://github.com/BaiJaCheng) | Shanti Walker | 715 ,Cristopher Forge ,Williehaven ,Virginia ,Northern Mariana Islands | 0 |
 | 5 | [dipsmhsacc](https://github.com/dipsmhsacc) | Dip Roy | Saipan, Northern Mariana Islands | 0 |

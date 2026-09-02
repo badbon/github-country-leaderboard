@@ -4,34 +4,9 @@ Indexed users: 4,032
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/jordan.md) |
 | Total Contributions | [Open](../total_contributions/jordan.md) |
+| Public Contributions | [Open](../public_contributions/jordan.md) |
 | Followers | [Open](../followers/jordan.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [Mutasem-mk4](https://github.com/Mutasem-mk4) | Mutasem Kharma | Jordan | 18,064 |
-| 2 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 9,334 |
-| 3 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Jordan | 6,092 |
-| 4 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 3,432 |
-| 5 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 3,065 |
-| 6 | [mercenary19961](https://github.com/mercenary19961) | Zaid | Amman / Jordan | 2,723 |
-| 7 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 2,587 |
-| 8 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,474 |
-| 9 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | Jordan | 2,052 |
-| 10 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | Amman, Jordan | 1,938 |
-| 11 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 1,537 |
-| 12 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | Amman - Jordan | 1,409 |
-| 13 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh | Amman/Jordan | 1,352 |
-| 14 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi | Jordan | 1,340 |
-| 15 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan | Amman, Jordan | 1,109 |
-| 16 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | Amman, Jordan | 1,080 |
-| 17 | [OdaiAyyad](https://github.com/OdaiAyyad) | Odai Ayyad | Amman, Jordan | 1,071 |
-| 18 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Amman, Jordan | 1,050 |
-| 19 | [rknastenka](https://github.com/rknastenka) | Bana Tawalbeh | Amman, Jordan | 1,018 |
-| 20 | [hawawsha](https://github.com/hawawsha) | AHMAD SULEIMAN MUSALLAM AlHawawsheh | Jordan  | 1,015 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 4,032
 | 18 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
 | 19 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh | Amman, Jordan | 4,785 |
 | 20 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T | Jordan | 4,568 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [Mutasem-mk4](https://github.com/Mutasem-mk4) | Mutasem Kharma | Jordan | 18,064 |
+| 2 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 9,334 |
+| 3 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Jordan | 6,092 |
+| 4 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 3,432 |
+| 5 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 3,065 |
+| 6 | [mercenary19961](https://github.com/mercenary19961) | Zaid | Amman / Jordan | 2,723 |
+| 7 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 2,587 |
+| 8 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,474 |
+| 9 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | Jordan | 2,052 |
+| 10 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | Amman, Jordan | 1,938 |
+| 11 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 1,537 |
+| 12 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | Amman - Jordan | 1,409 |
+| 13 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh | Amman/Jordan | 1,352 |
+| 14 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi | Jordan | 1,340 |
+| 15 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan | Amman, Jordan | 1,109 |
+| 16 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | Amman, Jordan | 1,080 |
+| 17 | [OdaiAyyad](https://github.com/OdaiAyyad) | Odai Ayyad | Amman, Jordan | 1,071 |
+| 18 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Amman, Jordan | 1,050 |
+| 19 | [rknastenka](https://github.com/rknastenka) | Bana Tawalbeh | Amman, Jordan | 1,018 |
+| 20 | [hawawsha](https://github.com/hawawsha) | AHMAD SULEIMAN MUSALLAM AlHawawsheh | Jordan  | 1,015 |
 
 ## Followers
 

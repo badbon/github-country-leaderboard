@@ -4,34 +4,9 @@ Indexed users: 23,487
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/mexico.md) |
 | Total Contributions | [Open](../total_contributions/mexico.md) |
+| Public Contributions | [Open](../public_contributions/mexico.md) |
 | Followers | [Open](../followers/mexico.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [mnaoumov](https://github.com/mnaoumov) | Michael Naumov | Queretaro, Mexico | 15,255 |
-| 2 | [8Dionysus](https://github.com/8Dionysus) | Dionysus | Mexico | 11,648 |
-| 3 | [XelHaku](https://github.com/XelHaku) | Xel | Mexico | 10,158 |
-| 4 | [DrKJeff16](https://github.com/DrKJeff16) | Guennadi Maximov C | Mexico | 8,550 |
-| 5 | [edgarrmondragon](https://github.com/edgarrmondragon) | Edgar Ramírez Mondragón | Mexico | 8,461 |
-| 6 | [Shooksie](https://github.com/Shooksie) | Sami Shukri | Mexico | 7,449 |
-| 7 | [AndrewDryga](https://github.com/AndrewDryga) | Andrew Dryga | Ukraine / Mexico / USA | 6,705 |
-| 8 | [dr-schlange](https://github.com/dr-schlange) |  | Mexico | 6,683 |
-| 9 | [vicrodh](https://github.com/vicrodh) | Victor RH | Mexico City, Mexico | 6,227 |
-| 10 | [MauricioPerera](https://github.com/MauricioPerera) | MauricioPerera | Queretaro, Mexico | 6,165 |
-| 11 | [enriquegomeztagle](https://github.com/enriquegomeztagle) | Enrique Ulises Báez Gómez Tagle | Mexico City | 5,947 |
-| 12 | [pakinja](https://github.com/pakinja) | Francisco Jaramillo Aguilar | Mexico | 5,885 |
-| 13 | [pazbryant7](https://github.com/pazbryant7) | Bryant Paz | Mexico | 4,660 |
-| 14 | [zntznt](https://github.com/zntznt) | Zeo | Puebla, Mexico | 4,556 |
-| 15 | [dontloseyourheadsu](https://github.com/dontloseyourheadsu) | Jesus Alvarez Sombrerero | Mexico, Puebla | 4,254 |
-| 16 | [KyleKing](https://github.com/KyleKing) | Kyle King | Mexico CIty | 4,025 |
-| 17 | [Juanksyek](https://github.com/Juanksyek) | Juan Flores | Guadalajara Jalisco, México | 4,021 |
-| 18 | [RCushmaniii](https://github.com/RCushmaniii) | Robert F Cushman III | Guadalajara, Mexico | 3,924 |
-| 19 | [Ealanisln](https://github.com/Ealanisln) | Emmanuel Alanis | Miguel Hidalgo, Mexico City | 3,828 |
-| 20 | [oliverservin](https://github.com/oliverservin) | Oliver Servín | Mexico City | 3,810 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 23,487
 | 18 | [paridin](https://github.com/paridin) | Roberto Estrada | Mexico City | 10,287 |
 | 19 | [lomeliDev](https://github.com/lomeliDev) | Miguel Lomeli | Mexico | 10,140 |
 | 20 | [TheAlexYao](https://github.com/TheAlexYao) | Alex Yao | Mexico City, Mexico | 10,123 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [mnaoumov](https://github.com/mnaoumov) | Michael Naumov | Queretaro, Mexico | 15,255 |
+| 2 | [8Dionysus](https://github.com/8Dionysus) | Dionysus | Mexico | 11,648 |
+| 3 | [XelHaku](https://github.com/XelHaku) | Xel | Mexico | 10,158 |
+| 4 | [DrKJeff16](https://github.com/DrKJeff16) | Guennadi Maximov C | Mexico | 8,550 |
+| 5 | [edgarrmondragon](https://github.com/edgarrmondragon) | Edgar Ramírez Mondragón | Mexico | 8,461 |
+| 6 | [Shooksie](https://github.com/Shooksie) | Sami Shukri | Mexico | 7,449 |
+| 7 | [AndrewDryga](https://github.com/AndrewDryga) | Andrew Dryga | Ukraine / Mexico / USA | 6,705 |
+| 8 | [dr-schlange](https://github.com/dr-schlange) |  | Mexico | 6,683 |
+| 9 | [vicrodh](https://github.com/vicrodh) | Victor RH | Mexico City, Mexico | 6,227 |
+| 10 | [MauricioPerera](https://github.com/MauricioPerera) | MauricioPerera | Queretaro, Mexico | 6,165 |
+| 11 | [enriquegomeztagle](https://github.com/enriquegomeztagle) | Enrique Ulises Báez Gómez Tagle | Mexico City | 5,947 |
+| 12 | [pakinja](https://github.com/pakinja) | Francisco Jaramillo Aguilar | Mexico | 5,885 |
+| 13 | [pazbryant7](https://github.com/pazbryant7) | Bryant Paz | Mexico | 4,660 |
+| 14 | [zntznt](https://github.com/zntznt) | Zeo | Puebla, Mexico | 4,556 |
+| 15 | [dontloseyourheadsu](https://github.com/dontloseyourheadsu) | Jesus Alvarez Sombrerero | Mexico, Puebla | 4,254 |
+| 16 | [KyleKing](https://github.com/KyleKing) | Kyle King | Mexico CIty | 4,025 |
+| 17 | [Juanksyek](https://github.com/Juanksyek) | Juan Flores | Guadalajara Jalisco, México | 4,021 |
+| 18 | [RCushmaniii](https://github.com/RCushmaniii) | Robert F Cushman III | Guadalajara, Mexico | 3,924 |
+| 19 | [Ealanisln](https://github.com/Ealanisln) | Emmanuel Alanis | Miguel Hidalgo, Mexico City | 3,828 |
+| 20 | [oliverservin](https://github.com/oliverservin) | Oliver Servín | Mexico City | 3,810 |
 
 ## Followers
 

@@ -4,28 +4,9 @@ Indexed users: 14
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/caribbean_netherlands.md) |
 | Total Contributions | [Open](../total_contributions/caribbean_netherlands.md) |
+| Public Contributions | [Open](../public_contributions/caribbean_netherlands.md) |
 | Followers | [Open](../followers/caribbean_netherlands.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [debruijn](https://github.com/debruijn) | Bert de Bruijn | Kralendijk | 34 |
-| 2 | [IanLKaplan](https://github.com/IanLKaplan) | Ian Kaplan | Bonaire, Caribbean Netherlands  | 16 |
-| 3 | [Blossoming-Truth](https://github.com/Blossoming-Truth) | ✦ . Viv/Viverie ! | Usually with frens/alone ., but find me in the bottom right corner of map ! Or anywhere idk | 7 |
-| 4 | [kyanamora](https://github.com/kyanamora) | kyana ariane valerie mora | the bottom of the sea | 2 |
-| 5 | [oris-enjoyer](https://github.com/oris-enjoyer) | Ivan | At the Bottom of ORIS | 1 |
-| 6 | [yapslock22](https://github.com/yapslock22) | J | The bottom of the ocean | 1 |
-| 7 | [basilsphotoalbum](https://github.com/basilsphotoalbum) | Soli ⸝⸝ Basil .ᐟ | Fence at the bottom of hill  ᯓ★ | 0 |
-| 8 | [buriedviolin](https://github.com/buriedviolin) | ̣̣     　kel!  　　        ⑅⑅ | fence at the bottom of hermithill | 0 |
-| 9 | [dotxnc](https://github.com/dotxnc) | .xnc | the bottom of a bottle | 0 |
-| 10 | [janSipiki](https://github.com/janSipiki) | jan Sipiki | the bottom of the mariana trench | 0 |
-| 11 | [royaleconqueso](https://github.com/royaleconqueso) |  | There is water at the bottom of the ocean | 0 |
-| 12 | [Snowbugs](https://github.com/Snowbugs) | Soli / Basil !! | Fence at the bottom of hill  ᯓ★ | 0 |
-| 13 | [twonapish](https://github.com/twonapish) |  | A rock locked to the bottom of the ocean | 0 |
-| 14 | [VScalia](https://github.com/VScalia) | Vincent | the Bottom of the ocean blue | 0 |
 
 ## Total Contributions
 
@@ -40,6 +21,25 @@ Indexed users: 14
 | 7 | [yapslock22](https://github.com/yapslock22) | J | The bottom of the ocean | 1 |
 | 8 | [basilsphotoalbum](https://github.com/basilsphotoalbum) | Soli ⸝⸝ Basil .ᐟ | Fence at the bottom of hill  ᯓ★ | 0 |
 | 9 | [buriedviolin](https://github.com/buriedviolin) | ̣̣     　kel!  　　        ⑅⑅ | fence at the bottom of hermithill | 0 |
+| 10 | [janSipiki](https://github.com/janSipiki) | jan Sipiki | the bottom of the mariana trench | 0 |
+| 11 | [royaleconqueso](https://github.com/royaleconqueso) |  | There is water at the bottom of the ocean | 0 |
+| 12 | [Snowbugs](https://github.com/Snowbugs) | Soli / Basil !! | Fence at the bottom of hill  ᯓ★ | 0 |
+| 13 | [twonapish](https://github.com/twonapish) |  | A rock locked to the bottom of the ocean | 0 |
+| 14 | [VScalia](https://github.com/VScalia) | Vincent | the Bottom of the ocean blue | 0 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [debruijn](https://github.com/debruijn) | Bert de Bruijn | Kralendijk | 34 |
+| 2 | [IanLKaplan](https://github.com/IanLKaplan) | Ian Kaplan | Bonaire, Caribbean Netherlands  | 16 |
+| 3 | [Blossoming-Truth](https://github.com/Blossoming-Truth) | ✦ . Viv/Viverie ! | Usually with frens/alone ., but find me in the bottom right corner of map ! Or anywhere idk | 7 |
+| 4 | [kyanamora](https://github.com/kyanamora) | kyana ariane valerie mora | the bottom of the sea | 2 |
+| 5 | [oris-enjoyer](https://github.com/oris-enjoyer) | Ivan | At the Bottom of ORIS | 1 |
+| 6 | [yapslock22](https://github.com/yapslock22) | J | The bottom of the ocean | 1 |
+| 7 | [basilsphotoalbum](https://github.com/basilsphotoalbum) | Soli ⸝⸝ Basil .ᐟ | Fence at the bottom of hill  ᯓ★ | 0 |
+| 8 | [buriedviolin](https://github.com/buriedviolin) | ̣̣     　kel!  　　        ⑅⑅ | fence at the bottom of hermithill | 0 |
+| 9 | [dotxnc](https://github.com/dotxnc) | .xnc | the bottom of a bottle | 0 |
 | 10 | [janSipiki](https://github.com/janSipiki) | jan Sipiki | the bottom of the mariana trench | 0 |
 | 11 | [royaleconqueso](https://github.com/royaleconqueso) |  | There is water at the bottom of the ocean | 0 |
 | 12 | [Snowbugs](https://github.com/Snowbugs) | Soli / Basil !! | Fence at the bottom of hill  ᯓ★ | 0 |

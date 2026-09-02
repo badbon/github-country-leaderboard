@@ -4,21 +4,21 @@ Indexed users: 3
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/tokelau.md) |
 | Total Contributions | [Open](../total_contributions/tokelau.md) |
+| Public Contributions | [Open](../public_contributions/tokelau.md) |
 | Followers | [Open](../followers/tokelau.md) |
 
-## Public Contributions
+## Total Contributions
 
-| # | User | Name | Location | Public Contributions |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [awise-dorensbach](https://github.com/awise-dorensbach) | awise-dorensbach | Tokelau | 2 |
 | 2 | [DaczoDenes](https://github.com/DaczoDenes) |  | Tokelau | 0 |
 | 3 | [duboviy](https://github.com/duboviy) | Eugene Duboviy | Tokelau | 0 |
 
-## Total Contributions
+## Public Contributions
 
-| # | User | Name | Location | Total Contributions |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [awise-dorensbach](https://github.com/awise-dorensbach) | awise-dorensbach | Tokelau | 2 |
 | 2 | [DaczoDenes](https://github.com/DaczoDenes) |  | Tokelau | 0 |

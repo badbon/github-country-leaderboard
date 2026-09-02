@@ -4,34 +4,9 @@ Indexed users: 60
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/french_polynesia.md) |
 | Total Contributions | [Open](../total_contributions/french_polynesia.md) |
+| Public Contributions | [Open](../public_contributions/french_polynesia.md) |
 | Followers | [Open](../followers/french_polynesia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,320 |
-| 2 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 626 |
-| 3 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 432 |
-| 4 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 363 |
-| 5 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 338 |
-| 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 294 |
-| 7 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 202 |
-| 8 | [syllebra](https://github.com/syllebra) | BilboX | French Polynesia | 128 |
-| 9 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 82 |
-| 10 | [paraita](https://github.com/paraita) | Paraita Wohler | Tahiti, French Polynesia | 39 |
-| 11 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | French Polynesia | 26 |
-| 12 | [DLTBryan](https://github.com/DLTBryan) |  | French Polynesia | 16 |
-| 13 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 15 |
-| 14 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI | Polynésie Française | 12 |
-| 15 | [AJamelot](https://github.com/AJamelot) | ajamelot | Polynésie Française | 11 |
-| 16 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Mo'orea, French Polynesia | 9 |
-| 17 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou | French Polynesia | 9 |
-| 18 | [rputoa](https://github.com/rputoa) | Rowan PUTOA | Papeete, French Polynesia | 6 |
-| 19 | [Heinux](https://github.com/Heinux) | Heinux | French Polynesia | 5 |
-| 20 | [sysnux](https://github.com/sysnux) | Jean-Denis Girard | Tahiti, French Polynesia, Polynésie française | 5 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 60
 | 18 | [AJamelot](https://github.com/AJamelot) | ajamelot | Polynésie Française | 11 |
 | 19 | [Rautea-Bruno-Paofai](https://github.com/Rautea-Bruno-Paofai) | Rautea | French Polynesia | 10 |
 | 20 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Mo'orea, French Polynesia | 9 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,320 |
+| 2 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 626 |
+| 3 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 432 |
+| 4 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 363 |
+| 5 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 338 |
+| 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 294 |
+| 7 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 202 |
+| 8 | [syllebra](https://github.com/syllebra) | BilboX | French Polynesia | 128 |
+| 9 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 82 |
+| 10 | [paraita](https://github.com/paraita) | Paraita Wohler | Tahiti, French Polynesia | 39 |
+| 11 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | French Polynesia | 26 |
+| 12 | [DLTBryan](https://github.com/DLTBryan) |  | French Polynesia | 16 |
+| 13 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 15 |
+| 14 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI | Polynésie Française | 12 |
+| 15 | [AJamelot](https://github.com/AJamelot) | ajamelot | Polynésie Française | 11 |
+| 16 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Mo'orea, French Polynesia | 9 |
+| 17 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou | French Polynesia | 9 |
+| 18 | [rputoa](https://github.com/rputoa) | Rowan PUTOA | Papeete, French Polynesia | 6 |
+| 19 | [Heinux](https://github.com/Heinux) | Heinux | French Polynesia | 5 |
+| 20 | [sysnux](https://github.com/sysnux) | Jean-Denis Girard | Tahiti, French Polynesia, Polynésie française | 5 |
 
 ## Followers
 

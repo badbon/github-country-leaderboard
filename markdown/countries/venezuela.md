@@ -4,34 +4,9 @@ Indexed users: 6,646
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/venezuela.md) |
 | Total Contributions | [Open](../total_contributions/venezuela.md) |
+| Public Contributions | [Open](../public_contributions/venezuela.md) |
 | Followers | [Open](../followers/venezuela.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 32,559 |
-| 2 | [anibalealvarezs](https://github.com/anibalealvarezs) | Aníbal Álvarez | Caracas, Venezuela | 5,485 |
-| 3 | [Samueru-sama](https://github.com/Samueru-sama) | Samuel | Venezuela | 5,122 |
-| 4 | [apalala](https://github.com/apalala) | Juancarlo Añez | Venezuela | 4,078 |
-| 5 | [DtxdF](https://github.com/DtxdF) | DtxdF | Venezuela | 3,863 |
-| 6 | [NanezX](https://github.com/NanezX) | Víctor Hernández | Monagas, Venezuela | 3,137 |
-| 7 | [lumi-tip](https://github.com/lumi-tip) | Luis Miguel Del Valle | Venezuela | 2,942 |
-| 8 | [kbtale](https://github.com/kbtale) | Carlos Bolívar | Venezuela | 2,910 |
-| 9 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 2,787 |
-| 10 | [ungardev](https://github.com/ungardev) | Ungar | Venezuela | 2,654 |
-| 11 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 2,533 |
-| 12 | [A2PC-2002](https://github.com/A2PC-2002) |  | Caracas - Venezuela | 2,254 |
-| 13 | [elfotito](https://github.com/elfotito) | elfotito | Venezuela | 2,158 |
-| 14 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Venezuela | 1,967 |
-| 15 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez | Venezuela | 1,916 |
-| 16 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute | Venezuela | 1,848 |
-| 17 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez | Caracas, Venezuela | 1,848 |
-| 18 | [claucondor](https://github.com/claucondor) | Claudio Condor | Merida, Venezuela | 1,757 |
-| 19 | [joseorono](https://github.com/joseorono) | José Miguel Oroño | Maracaibo, Venezuela | 1,620 |
-| 20 | [Arviixzuh](https://github.com/Arviixzuh) |  | Venezuela | 1,584 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 6,646
 | 18 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander | Venezuela | 6,192 |
 | 19 | [davinrtx](https://github.com/davinrtx) | Ricardo Gonzalez | Caracas, Venezuela | 6,062 |
 | 20 | [orozCoding](https://github.com/orozCoding) | Angel Orozco | Venezuela | 6,052 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 32,559 |
+| 2 | [anibalealvarezs](https://github.com/anibalealvarezs) | Aníbal Álvarez | Caracas, Venezuela | 5,485 |
+| 3 | [Samueru-sama](https://github.com/Samueru-sama) | Samuel | Venezuela | 5,122 |
+| 4 | [apalala](https://github.com/apalala) | Juancarlo Añez | Venezuela | 4,078 |
+| 5 | [DtxdF](https://github.com/DtxdF) | DtxdF | Venezuela | 3,863 |
+| 6 | [NanezX](https://github.com/NanezX) | Víctor Hernández | Monagas, Venezuela | 3,137 |
+| 7 | [lumi-tip](https://github.com/lumi-tip) | Luis Miguel Del Valle | Venezuela | 2,942 |
+| 8 | [kbtale](https://github.com/kbtale) | Carlos Bolívar | Venezuela | 2,910 |
+| 9 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 2,787 |
+| 10 | [ungardev](https://github.com/ungardev) | Ungar | Venezuela | 2,654 |
+| 11 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 2,533 |
+| 12 | [A2PC-2002](https://github.com/A2PC-2002) |  | Caracas - Venezuela | 2,254 |
+| 13 | [elfotito](https://github.com/elfotito) | elfotito | Venezuela | 2,158 |
+| 14 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Venezuela | 1,967 |
+| 15 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez | Venezuela | 1,916 |
+| 16 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute | Venezuela | 1,848 |
+| 17 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez | Caracas, Venezuela | 1,848 |
+| 18 | [claucondor](https://github.com/claucondor) | Claudio Condor | Merida, Venezuela | 1,757 |
+| 19 | [joseorono](https://github.com/joseorono) | José Miguel Oroño | Maracaibo, Venezuela | 1,620 |
+| 20 | [Arviixzuh](https://github.com/Arviixzuh) |  | Venezuela | 1,584 |
 
 ## Followers
 

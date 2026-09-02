@@ -4,34 +4,9 @@ Indexed users: 14,083
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/nepal.md) |
 | Total Contributions | [Open](../total_contributions/nepal.md) |
+| Public Contributions | [Open](../public_contributions/nepal.md) |
 | Followers | [Open](../followers/nepal.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [Azathothas](https://github.com/Azathothas) | Ajam | Nepal | 23,887 |
-| 2 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | Nepal | 12,180 |
-| 3 | [codersantoshadhikari](https://github.com/codersantoshadhikari) | SANTOSH ADHIKARI | kathmandu,Nepal | 12,170 |
-| 4 | [Avinash0x1](https://github.com/Avinash0x1) | Avinash Thakur | Nepal | 10,241 |
-| 5 | [Wahesh](https://github.com/Wahesh) | Mahesh Dahal | Nepal | 6,922 |
-| 6 | [Nischhalsubba](https://github.com/Nischhalsubba) | Nischhal Raj Subba | Kathmandu | 6,498 |
-| 7 | [QaidVoid](https://github.com/QaidVoid) | Rabindra Dhakal | Nepal | 6,227 |
-| 8 | [AkkalDhami](https://github.com/AkkalDhami) | Akkal Dhami | Kathmandu, Nepal | 5,917 |
-| 9 | [adityathebe](https://github.com/adityathebe) | Aditya Thebe | Kathmandu, Nepal | 4,851 |
-| 10 | [neupkishor](https://github.com/neupkishor) | Kishor Neupane | Kathmandu, Nepal | 3,724 |
-| 11 | [nightmaregaurav](https://github.com/nightmaregaurav) | Gaurav Nyaupane | Kathmandu, Nepal | 3,641 |
-| 12 | [rubiin](https://github.com/rubiin) | Rubin Bhandari | Kathmandu,Nepal | 3,628 |
-| 13 | [zenithkandel](https://github.com/zenithkandel) | Zenith Kandel | Kathmandu, Nepal | 3,560 |
-| 14 | [vimlinuz](https://github.com/vimlinuz) | vimlinuz | Nepal | 3,411 |
-| 15 | [muktinathrajbanshi](https://github.com/muktinathrajbanshi) | Muktinath Rajbanshi | Kathmandu | 3,383 |
-| 16 | [raaznp](https://github.com/raaznp) | Raj Kumar Nepal | Kathmandu, Nepal | 2,871 |
-| 17 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Gothgaun, Nepal | 2,831 |
-| 18 | [sameer9860](https://github.com/sameer9860) | Samir Khatiwada | Dhading,Nepal | 2,689 |
-| 19 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | Kathmandu, Nepal | 2,596 |
-| 20 | [phil-davis](https://github.com/phil-davis) | Phil Davis | Nepal | 2,459 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 14,083
 | 18 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | Kathmandu, Nepal | 9,901 |
 | 19 | [razzkumar](https://github.com/razzkumar) |  | Kathmandu, Nepal | 9,236 |
 | 20 | [Darkmintis](https://github.com/Darkmintis) | Dipesh Mahat | Nepal | 9,087 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [Azathothas](https://github.com/Azathothas) | Ajam | Nepal | 23,887 |
+| 2 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | Nepal | 12,180 |
+| 3 | [codersantoshadhikari](https://github.com/codersantoshadhikari) | SANTOSH ADHIKARI | kathmandu,Nepal | 12,170 |
+| 4 | [Avinash0x1](https://github.com/Avinash0x1) | Avinash Thakur | Nepal | 10,241 |
+| 5 | [Wahesh](https://github.com/Wahesh) | Mahesh Dahal | Nepal | 6,922 |
+| 6 | [Nischhalsubba](https://github.com/Nischhalsubba) | Nischhal Raj Subba | Kathmandu | 6,498 |
+| 7 | [QaidVoid](https://github.com/QaidVoid) | Rabindra Dhakal | Nepal | 6,227 |
+| 8 | [AkkalDhami](https://github.com/AkkalDhami) | Akkal Dhami | Kathmandu, Nepal | 5,917 |
+| 9 | [adityathebe](https://github.com/adityathebe) | Aditya Thebe | Kathmandu, Nepal | 4,851 |
+| 10 | [neupkishor](https://github.com/neupkishor) | Kishor Neupane | Kathmandu, Nepal | 3,724 |
+| 11 | [nightmaregaurav](https://github.com/nightmaregaurav) | Gaurav Nyaupane | Kathmandu, Nepal | 3,641 |
+| 12 | [rubiin](https://github.com/rubiin) | Rubin Bhandari | Kathmandu,Nepal | 3,628 |
+| 13 | [zenithkandel](https://github.com/zenithkandel) | Zenith Kandel | Kathmandu, Nepal | 3,560 |
+| 14 | [vimlinuz](https://github.com/vimlinuz) | vimlinuz | Nepal | 3,411 |
+| 15 | [muktinathrajbanshi](https://github.com/muktinathrajbanshi) | Muktinath Rajbanshi | Kathmandu | 3,383 |
+| 16 | [raaznp](https://github.com/raaznp) | Raj Kumar Nepal | Kathmandu, Nepal | 2,871 |
+| 17 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Gothgaun, Nepal | 2,831 |
+| 18 | [sameer9860](https://github.com/sameer9860) | Samir Khatiwada | Dhading,Nepal | 2,689 |
+| 19 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | Kathmandu, Nepal | 2,596 |
+| 20 | [phil-davis](https://github.com/phil-davis) | Phil Davis | Nepal | 2,459 |
 
 ## Followers
 

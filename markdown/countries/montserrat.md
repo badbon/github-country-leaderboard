@@ -4,34 +4,9 @@ Indexed users: 295
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/montserrat.md) |
 | Total Contributions | [Open](../total_contributions/montserrat.md) |
+| Public Contributions | [Open](../public_contributions/montserrat.md) |
 | Followers | [Open](../followers/montserrat.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,327 |
-| 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,329 |
-| 3 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | Plymouth, Wayne, MI | 1,382 |
-| 4 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 977 |
-| 5 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 967 |
-| 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 674 |
-| 7 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 616 |
-| 8 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 600 |
-| 9 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 439 |
-| 10 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 401 |
-| 11 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto | Plymouth | 344 |
-| 12 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Plymouth, MA | 336 |
-| 13 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 306 |
-| 14 | [gingeapple182](https://github.com/gingeapple182) | Oliver | Plymouth | 302 |
-| 15 | [vivekbiju](https://github.com/vivekbiju) | Vivek Biju | Plymouth | 228 |
-| 16 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 227 |
-| 17 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann | Plymouth, MN USA | 217 |
-| 18 | [Loganv308](https://github.com/Loganv308) | Logan Velier | Plymouth, WI | 210 |
-| 19 | [rshields2004](https://github.com/rshields2004) | Rowan Shields | Plymouth | 191 |
-| 20 | [yangejnr](https://github.com/yangejnr) | Yange Henry Terzugwe | 20 Gasking Street Plymouth United Kingdom | 174 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 295
 | 18 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 988 |
 | 19 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 977 |
 | 20 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 967 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,327 |
+| 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,329 |
+| 3 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | Plymouth, Wayne, MI | 1,382 |
+| 4 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 977 |
+| 5 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 967 |
+| 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 674 |
+| 7 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 616 |
+| 8 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 600 |
+| 9 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 439 |
+| 10 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 401 |
+| 11 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto | Plymouth | 344 |
+| 12 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Plymouth, MA | 336 |
+| 13 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 306 |
+| 14 | [gingeapple182](https://github.com/gingeapple182) | Oliver | Plymouth | 302 |
+| 15 | [vivekbiju](https://github.com/vivekbiju) | Vivek Biju | Plymouth | 228 |
+| 16 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 227 |
+| 17 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann | Plymouth, MN USA | 217 |
+| 18 | [Loganv308](https://github.com/Loganv308) | Logan Velier | Plymouth, WI | 210 |
+| 19 | [rshields2004](https://github.com/rshields2004) | Rowan Shields | Plymouth | 191 |
+| 20 | [yangejnr](https://github.com/yangejnr) | Yange Henry Terzugwe | 20 Gasking Street Plymouth United Kingdom | 174 |
 
 ## Followers
 

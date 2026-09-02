@@ -4,34 +4,9 @@ Indexed users: 1,002
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/oman.md) |
 | Total Contributions | [Open](../total_contributions/oman.md) |
+| Public Contributions | [Open](../public_contributions/oman.md) |
 | Followers | [Open](../followers/oman.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 82,157 |
-| 2 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 4,792 |
-| 3 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Oman | 3,477 |
-| 4 | [muneerasaifalnaabi-prog](https://github.com/muneerasaifalnaabi-prog) | Muneera Al Naabi | Oman | 2,923 |
-| 5 | [alanood94895-rgb](https://github.com/alanood94895-rgb) | Alanoud AlRuqaishi | Oman | 2,794 |
-| 6 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | Oman | 2,618 |
-| 7 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali |  Oman  | 2,454 |
-| 8 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Oman | 2,432 |
-| 9 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Oman | 2,294 |
-| 10 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Oman  | 2,129 |
-| 11 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 1,787 |
-| 12 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | Oman | 1,699 |
-| 13 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
-| 14 | [MohammedAlkindi](https://github.com/MohammedAlkindi) | Mohammed Alkindi | Muscat, Oman | 1,565 |
-| 15 | [Riham2025](https://github.com/Riham2025) | Riham Abdullah Al-Siyabi | Muscat | 1,403 |
-| 16 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 1,354 |
-| 17 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
-| 18 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Oman | 1,251 |
-| 19 | [ilia144000](https://github.com/ilia144000) | Ilia GH. (Symbolic Architect – RANNTA) | Sultanate of Oman | 1,223 |
-| 20 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Muscat, Oman | 1,173 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,002
 | 18 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Oman | 3,542 |
 | 19 | [zado-os](https://github.com/zado-os) | Hussain Al-zadjali | Sultanate of Oman, al khuwair muscat | 3,507 |
 | 20 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Oman | 3,218 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 82,157 |
+| 2 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 4,792 |
+| 3 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Oman | 3,477 |
+| 4 | [muneerasaifalnaabi-prog](https://github.com/muneerasaifalnaabi-prog) | Muneera Al Naabi | Oman | 2,923 |
+| 5 | [alanood94895-rgb](https://github.com/alanood94895-rgb) | Alanoud AlRuqaishi | Oman | 2,794 |
+| 6 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | Oman | 2,618 |
+| 7 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali |  Oman  | 2,454 |
+| 8 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Oman | 2,432 |
+| 9 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Oman | 2,294 |
+| 10 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Oman  | 2,129 |
+| 11 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 1,787 |
+| 12 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | Oman | 1,699 |
+| 13 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
+| 14 | [MohammedAlkindi](https://github.com/MohammedAlkindi) | Mohammed Alkindi | Muscat, Oman | 1,565 |
+| 15 | [Riham2025](https://github.com/Riham2025) | Riham Abdullah Al-Siyabi | Muscat | 1,403 |
+| 16 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 1,354 |
+| 17 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
+| 18 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Oman | 1,251 |
+| 19 | [ilia144000](https://github.com/ilia144000) | Ilia GH. (Symbolic Architect – RANNTA) | Sultanate of Oman | 1,223 |
+| 20 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Muscat, Oman | 1,173 |
 
 ## Followers
 

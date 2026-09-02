@@ -4,34 +4,9 @@ Indexed users: 215
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/andorra.md) |
 | Total Contributions | [Open](../total_contributions/andorra.md) |
+| Public Contributions | [Open](../public_contributions/andorra.md) |
 | Followers | [Open](../followers/andorra.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,641 |
-| 2 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 1,513 |
-| 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 907 |
-| 4 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 695 |
-| 5 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 661 |
-| 6 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 628 |
-| 7 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 623 |
-| 8 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 622 |
-| 9 | [iuriaranda](https://github.com/iuriaranda) | iuri | Andorra | 600 |
-| 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 486 |
-| 11 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 482 |
-| 12 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 449 |
-| 13 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 447 |
-| 14 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 398 |
-| 15 | [NachiBasaldella](https://github.com/NachiBasaldella) | Nazaret Basaldella | Andorra | 329 |
-| 16 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Andorra | 315 |
-| 17 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 217 |
-| 18 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Andorra | 197 |
-| 19 | [loixlab](https://github.com/loixlab) | Sébastien LVL | Andorra | 191 |
-| 20 | [davidbalivo](https://github.com/davidbalivo) |  | Andorra | 167 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 215
 | 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 2,276 |
 | 19 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 2,263 |
 | 20 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 2,095 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,641 |
+| 2 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 1,513 |
+| 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 907 |
+| 4 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 695 |
+| 5 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 661 |
+| 6 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 628 |
+| 7 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 623 |
+| 8 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 622 |
+| 9 | [iuriaranda](https://github.com/iuriaranda) | iuri | Andorra | 600 |
+| 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 486 |
+| 11 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 482 |
+| 12 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 449 |
+| 13 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 447 |
+| 14 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 398 |
+| 15 | [NachiBasaldella](https://github.com/NachiBasaldella) | Nazaret Basaldella | Andorra | 329 |
+| 16 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Andorra | 315 |
+| 17 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 217 |
+| 18 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Andorra | 197 |
+| 19 | [loixlab](https://github.com/loixlab) | Sébastien LVL | Andorra | 191 |
+| 20 | [davidbalivo](https://github.com/davidbalivo) |  | Andorra | 167 |
 
 ## Followers
 

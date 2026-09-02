@@ -4,34 +4,9 @@ Indexed users: 116
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/liechtenstein.md) |
 | Total Contributions | [Open](../total_contributions/liechtenstein.md) |
+| Public Contributions | [Open](../public_contributions/liechtenstein.md) |
 | Followers | [Open](../followers/liechtenstein.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,412 |
-| 2 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 1,263 |
-| 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,035 |
-| 4 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 662 |
-| 5 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 629 |
-| 6 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 580 |
-| 7 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 528 |
-| 8 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 389 |
-| 9 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 282 |
-| 10 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 263 |
-| 11 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 246 |
-| 12 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 220 |
-| 13 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 179 |
-| 14 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 140 |
-| 15 | [TheMightyDuckOfDoom](https://github.com/TheMightyDuckOfDoom) | Tobias Senti | Schaanwald, Liechtenstein | 137 |
-| 16 | [danheron](https://github.com/danheron) | Dan Heron | Liechtenstein | 95 |
-| 17 | [ukhan717](https://github.com/ukhan717) | u.khan | Liechtenstein | 93 |
-| 18 | [xenok69](https://github.com/xenok69) | xenok1 | Liechtenstein | 69 |
-| 19 | [Ironwallet](https://github.com/Ironwallet) | IronWallet | Liechtenstein | 61 |
-| 20 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 52 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 116
 | 18 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 275 |
 | 19 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 274 |
 | 20 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 264 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,412 |
+| 2 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 1,263 |
+| 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,035 |
+| 4 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 662 |
+| 5 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 629 |
+| 6 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 580 |
+| 7 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 528 |
+| 8 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 389 |
+| 9 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 282 |
+| 10 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 263 |
+| 11 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 246 |
+| 12 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 220 |
+| 13 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 179 |
+| 14 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 140 |
+| 15 | [TheMightyDuckOfDoom](https://github.com/TheMightyDuckOfDoom) | Tobias Senti | Schaanwald, Liechtenstein | 137 |
+| 16 | [danheron](https://github.com/danheron) | Dan Heron | Liechtenstein | 95 |
+| 17 | [ukhan717](https://github.com/ukhan717) | u.khan | Liechtenstein | 93 |
+| 18 | [xenok69](https://github.com/xenok69) | xenok1 | Liechtenstein | 69 |
+| 19 | [Ironwallet](https://github.com/Ironwallet) | IronWallet | Liechtenstein | 61 |
+| 20 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 52 |
 
 ## Followers
 

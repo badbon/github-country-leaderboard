@@ -4,34 +4,9 @@ Indexed users: 22,030
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/taiwan.md) |
 | Total Contributions | [Open](../total_contributions/taiwan.md) |
+| Public Contributions | [Open](../public_contributions/taiwan.md) |
 | Followers | [Open](../followers/taiwan.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [apan1121](https://github.com/apan1121) | Byron | Taipei, Taiwan | 64,092 |
-| 2 | [dennislee928](https://github.com/dennislee928) | Dildo Baggins(假屌巴金斯，中土世界第一巨屌) | taipei | 38,977 |
-| 3 | [Chisanan232](https://github.com/Chisanan232) | Bryant | Taiwan, Taipei | 31,944 |
-| 4 | [peter279k](https://github.com/peter279k) | Chun-Sheng, Li | Taipei, Taiwan | 23,711 |
-| 5 | [sunpoet](https://github.com/sunpoet) | Po-Chuan Hsieh | Taipei, Taiwan | 22,148 |
-| 6 | [godknowspe](https://github.com/godknowspe) | Sabrina0227 | Taiwan | 19,369 |
-| 7 | [exeex](https://github.com/exeex) | Tim Wu | Hsichu, Taiwan, Asia | 15,313 |
-| 8 | [pulipulichen](https://github.com/pulipulichen) | Pulipuli Chen | Taiwan | 14,776 |
-| 9 | [LightChang](https://github.com/LightChang) | Light | Taipei | 13,723 |
-| 10 | [jimmyliao11](https://github.com/jimmyliao11) | Jimmy Liao | Taipei | 13,102 |
-| 11 | [narumiruna](https://github.com/narumiruna) | なるみ | Taipei, Taiwan | 13,087 |
-| 12 | [frank890417](https://github.com/frank890417) | Wu Che Yu | Taipei | 9,771 |
-| 13 | [julianshen](https://github.com/julianshen) | Julian Shen | Taipei | 9,565 |
-| 14 | [thc1006](https://github.com/thc1006) | 秀吉 | No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, Taiwan | 9,142 |
-| 15 | [neilkuan](https://github.com/neilkuan) | Neil Kuan | Taipei | 8,627 |
-| 16 | [barracuda156](https://github.com/barracuda156) | Sergey Fedorov | Taiwan | 8,508 |
-| 17 | [suzuke](https://github.com/suzuke) | suzuke | Taiwan | 8,460 |
-| 18 | [elct9620](https://github.com/elct9620) | 蒼時弦也 | Taipei City,Taiwan | 8,084 |
-| 19 | [yazelin](https://github.com/yazelin) | YAZE LIN | Taipei, Taiwan | 8,063 |
-| 20 | [kiki830621](https://github.com/kiki830621) | Che Cheng | Taipei, Taiwan | 7,790 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 22,030
 | 18 | [exeex](https://github.com/exeex) | Tim Wu | Hsichu, Taiwan, Asia | 16,546 |
 | 19 | [chimerakang](https://github.com/chimerakang) | chimera kang | taiwan | 16,427 |
 | 20 | [yeeefang](https://github.com/yeeefang) | Jerry WANG | Taipei City, Taiwan | 16,147 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [apan1121](https://github.com/apan1121) | Byron | Taipei, Taiwan | 64,092 |
+| 2 | [dennislee928](https://github.com/dennislee928) | Dildo Baggins(假屌巴金斯，中土世界第一巨屌) | taipei | 38,977 |
+| 3 | [Chisanan232](https://github.com/Chisanan232) | Bryant | Taiwan, Taipei | 31,944 |
+| 4 | [peter279k](https://github.com/peter279k) | Chun-Sheng, Li | Taipei, Taiwan | 23,711 |
+| 5 | [sunpoet](https://github.com/sunpoet) | Po-Chuan Hsieh | Taipei, Taiwan | 22,148 |
+| 6 | [godknowspe](https://github.com/godknowspe) | Sabrina0227 | Taiwan | 19,369 |
+| 7 | [exeex](https://github.com/exeex) | Tim Wu | Hsichu, Taiwan, Asia | 15,313 |
+| 8 | [pulipulichen](https://github.com/pulipulichen) | Pulipuli Chen | Taiwan | 14,776 |
+| 9 | [LightChang](https://github.com/LightChang) | Light | Taipei | 13,723 |
+| 10 | [jimmyliao11](https://github.com/jimmyliao11) | Jimmy Liao | Taipei | 13,102 |
+| 11 | [narumiruna](https://github.com/narumiruna) | なるみ | Taipei, Taiwan | 13,087 |
+| 12 | [frank890417](https://github.com/frank890417) | Wu Che Yu | Taipei | 9,771 |
+| 13 | [julianshen](https://github.com/julianshen) | Julian Shen | Taipei | 9,565 |
+| 14 | [thc1006](https://github.com/thc1006) | 秀吉 | No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, Taiwan | 9,142 |
+| 15 | [neilkuan](https://github.com/neilkuan) | Neil Kuan | Taipei | 8,627 |
+| 16 | [barracuda156](https://github.com/barracuda156) | Sergey Fedorov | Taiwan | 8,508 |
+| 17 | [suzuke](https://github.com/suzuke) | suzuke | Taiwan | 8,460 |
+| 18 | [elct9620](https://github.com/elct9620) | 蒼時弦也 | Taipei City,Taiwan | 8,084 |
+| 19 | [yazelin](https://github.com/yazelin) | YAZE LIN | Taipei, Taiwan | 8,063 |
+| 20 | [kiki830621](https://github.com/kiki830621) | Che Cheng | Taipei, Taiwan | 7,790 |
 
 ## Followers
 

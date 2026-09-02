@@ -4,34 +4,9 @@ Indexed users: 18,170
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/finland.md) |
 | Total Contributions | [Open](../total_contributions/finland.md) |
+| Public Contributions | [Open](../public_contributions/finland.md) |
 | Followers | [Open](../followers/finland.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [fmatic](https://github.com/fmatic) | Janne Heinikangas | Jyväskylä, Finland | 32,834 |
-| 2 | [snomos](https://github.com/snomos) | Sjur N Moshagen | Helsingfors / Helsinki | 23,056 |
-| 3 | [mairas](https://github.com/mairas) | Matti Airas | Finland | 11,084 |
-| 4 | [wigy](https://github.com/wigy) | Tommi Ronkainen | Finland | 10,284 |
-| 5 | [xet7](https://github.com/xet7) | Lauri Ojansivu | Finland | 9,784 |
-| 6 | [tphakala](https://github.com/tphakala) | Tomi P. Hakala | Muurame, Finland | 9,342 |
-| 7 | [marat-rkh](https://github.com/marat-rkh) | Marat Khabibullin | Finland | 8,017 |
-| 8 | [miikkij](https://github.com/miikkij) | Jouni Miikki | Finland | 7,726 |
-| 9 | [NigelBreslaw](https://github.com/NigelBreslaw) | Nigel Breslaw | Oulu, Finland | 7,652 |
-| 10 | [raine](https://github.com/raine) | Raine Virta | Helsinki, Finland | 7,369 |
-| 11 | [tkgstrator](https://github.com/tkgstrator) | tkgstrator | Finland | 7,285 |
-| 12 | [penberg](https://github.com/penberg) | Pekka Enberg | Finland | 7,022 |
-| 13 | [JAORMX](https://github.com/JAORMX) | Juan Antonio Osorio | Finland | 6,168 |
-| 14 | [ivuorinen](https://github.com/ivuorinen) | Ismo Vuorinen | Tampere, Finland | 6,130 |
-| 15 | [nikovirtala](https://github.com/nikovirtala) | Niko Virtala | Finland | 6,093 |
-| 16 | [mirvasaarijarvi-lab](https://github.com/mirvasaarijarvi-lab) | Mimmi | Turku, Finland | 5,802 |
-| 17 | [PetriLahdelma](https://github.com/PetriLahdelma) | Petri Lahdelma | Helsinki, Finland | 5,550 |
-| 18 | [bebraw](https://github.com/bebraw) | Juho Vepsäläinen | Rautalampi, Finland | 5,496 |
-| 19 | [eliask](https://github.com/eliask) | Elias Kunnas | Finland | 5,268 |
-| 20 | [jussisaurio](https://github.com/jussisaurio) | Jussi Saurio | Helsinki | 5,231 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 18,170
 | 18 | [luminaula](https://github.com/luminaula) | Lumi | Finland | 11,865 |
 | 19 | [juusom](https://github.com/juusom) | Juuso Mäyränen | Helsinki, Finland | 11,372 |
 | 20 | [juusopiikkila](https://github.com/juusopiikkila) | Juuso Piikkilä | Helsinki, Finland | 11,278 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [fmatic](https://github.com/fmatic) | Janne Heinikangas | Jyväskylä, Finland | 32,834 |
+| 2 | [snomos](https://github.com/snomos) | Sjur N Moshagen | Helsingfors / Helsinki | 23,056 |
+| 3 | [mairas](https://github.com/mairas) | Matti Airas | Finland | 11,084 |
+| 4 | [wigy](https://github.com/wigy) | Tommi Ronkainen | Finland | 10,284 |
+| 5 | [xet7](https://github.com/xet7) | Lauri Ojansivu | Finland | 9,784 |
+| 6 | [tphakala](https://github.com/tphakala) | Tomi P. Hakala | Muurame, Finland | 9,342 |
+| 7 | [marat-rkh](https://github.com/marat-rkh) | Marat Khabibullin | Finland | 8,017 |
+| 8 | [miikkij](https://github.com/miikkij) | Jouni Miikki | Finland | 7,726 |
+| 9 | [NigelBreslaw](https://github.com/NigelBreslaw) | Nigel Breslaw | Oulu, Finland | 7,652 |
+| 10 | [raine](https://github.com/raine) | Raine Virta | Helsinki, Finland | 7,369 |
+| 11 | [tkgstrator](https://github.com/tkgstrator) | tkgstrator | Finland | 7,285 |
+| 12 | [penberg](https://github.com/penberg) | Pekka Enberg | Finland | 7,022 |
+| 13 | [JAORMX](https://github.com/JAORMX) | Juan Antonio Osorio | Finland | 6,168 |
+| 14 | [ivuorinen](https://github.com/ivuorinen) | Ismo Vuorinen | Tampere, Finland | 6,130 |
+| 15 | [nikovirtala](https://github.com/nikovirtala) | Niko Virtala | Finland | 6,093 |
+| 16 | [mirvasaarijarvi-lab](https://github.com/mirvasaarijarvi-lab) | Mimmi | Turku, Finland | 5,802 |
+| 17 | [PetriLahdelma](https://github.com/PetriLahdelma) | Petri Lahdelma | Helsinki, Finland | 5,550 |
+| 18 | [bebraw](https://github.com/bebraw) | Juho Vepsäläinen | Rautalampi, Finland | 5,496 |
+| 19 | [eliask](https://github.com/eliask) | Elias Kunnas | Finland | 5,268 |
+| 20 | [jussisaurio](https://github.com/jussisaurio) | Jussi Saurio | Helsinki | 5,231 |
 
 ## Followers
 

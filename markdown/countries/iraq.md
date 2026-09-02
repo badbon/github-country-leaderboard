@@ -4,34 +4,9 @@ Indexed users: 2,257
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/iraq.md) |
 | Total Contributions | [Open](../total_contributions/iraq.md) |
+| Public Contributions | [Open](../public_contributions/iraq.md) |
 | Followers | [Open](../followers/iraq.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [gcp64](https://github.com/gcp64) | Mr.bob | Iraq | 1,420,546 |
-| 2 | [shaheenfarjo](https://github.com/shaheenfarjo) | Shaheen K. Farjo | Baghdad, Iraq | 4,990 |
-| 3 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Iraq | 4,682 |
-| 4 | [pageton](https://github.com/pageton) | Sadiq | Basra, Iraq | 2,662 |
-| 5 | [osama1998H](https://github.com/osama1998H) | Osama Muhammed | Baghdad - Iraq | 2,231 |
-| 6 | [PEWDS101](https://github.com/PEWDS101) | George Muneer George | Iraq | 2,031 |
-| 7 | [tatsumoto-ren](https://github.com/tatsumoto-ren) | Ren Tatsumoto | Baghdad | 2,000 |
-| 8 | [abdulazizacc](https://github.com/abdulazizacc) | Abdulaziz | Iraq  | 1,030 |
-| 9 | [AzaAsim](https://github.com/AzaAsim) |  | Iraq, KRG | 961 |
-| 10 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 888 |
-| 11 | [Diary4](https://github.com/Diary4) | Diary Salah | Erbil, Iraq | 861 |
-| 12 | [specOper99](https://github.com/specOper99) | Mohammed Nawfal | Mosul, Iraq | 778 |
-| 13 | [hamagold](https://github.com/hamagold) | HamaGold | iraq/kurdistan/Erbil | 725 |
-| 14 | [3h0ll7](https://github.com/3h0ll7) | Hassan Salman | Iraq | 720 |
-| 15 | [haideraljawasim](https://github.com/haideraljawasim) | Haider A. Hashim | Najaf, Iraq | 719 |
-| 16 | [ZainabAlnajjar](https://github.com/ZainabAlnajjar) | Zainab Alnajjar | Basra, Iraq | 709 |
-| 17 | [haydercyber](https://github.com/haydercyber) | Haider Raed | Iraq, Baghdad | 691 |
-| 18 | [Riyam224](https://github.com/Riyam224) | Riyam Hazim | baghdad | 650 |
-| 19 | [AlameenAzad](https://github.com/AlameenAzad) | Ameen Azad | Iraq | 632 |
-| 20 | [Redo-San](https://github.com/Redo-San) | RedoSan | Iraq, Baghdad  | 608 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 2,257
 | 18 | [MohamadTahir](https://github.com/MohamadTahir) | Mohammad Tahir | Erbil, Iraq | 5,492 |
 | 19 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Erbil, Iraq | 5,244 |
 | 20 | [3bbasDev](https://github.com/3bbasDev) | Abbas Radam | Baghdad | 5,098 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [gcp64](https://github.com/gcp64) | Mr.bob | Iraq | 1,420,546 |
+| 2 | [shaheenfarjo](https://github.com/shaheenfarjo) | Shaheen K. Farjo | Baghdad, Iraq | 4,990 |
+| 3 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Iraq | 4,682 |
+| 4 | [pageton](https://github.com/pageton) | Sadiq | Basra, Iraq | 2,662 |
+| 5 | [osama1998H](https://github.com/osama1998H) | Osama Muhammed | Baghdad - Iraq | 2,231 |
+| 6 | [PEWDS101](https://github.com/PEWDS101) | George Muneer George | Iraq | 2,031 |
+| 7 | [tatsumoto-ren](https://github.com/tatsumoto-ren) | Ren Tatsumoto | Baghdad | 2,000 |
+| 8 | [abdulazizacc](https://github.com/abdulazizacc) | Abdulaziz | Iraq  | 1,030 |
+| 9 | [AzaAsim](https://github.com/AzaAsim) |  | Iraq, KRG | 961 |
+| 10 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 888 |
+| 11 | [Diary4](https://github.com/Diary4) | Diary Salah | Erbil, Iraq | 861 |
+| 12 | [specOper99](https://github.com/specOper99) | Mohammed Nawfal | Mosul, Iraq | 778 |
+| 13 | [hamagold](https://github.com/hamagold) | HamaGold | iraq/kurdistan/Erbil | 725 |
+| 14 | [3h0ll7](https://github.com/3h0ll7) | Hassan Salman | Iraq | 720 |
+| 15 | [haideraljawasim](https://github.com/haideraljawasim) | Haider A. Hashim | Najaf, Iraq | 719 |
+| 16 | [ZainabAlnajjar](https://github.com/ZainabAlnajjar) | Zainab Alnajjar | Basra, Iraq | 709 |
+| 17 | [haydercyber](https://github.com/haydercyber) | Haider Raed | Iraq, Baghdad | 691 |
+| 18 | [Riyam224](https://github.com/Riyam224) | Riyam Hazim | baghdad | 650 |
+| 19 | [AlameenAzad](https://github.com/AlameenAzad) | Ameen Azad | Iraq | 632 |
+| 20 | [Redo-San](https://github.com/Redo-San) | RedoSan | Iraq, Baghdad  | 608 |
 
 ## Followers
 

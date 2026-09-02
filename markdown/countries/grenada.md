@@ -4,34 +4,9 @@ Indexed users: 38
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/grenada.md) |
 | Total Contributions | [Open](../total_contributions/grenada.md) |
+| Public Contributions | [Open](../public_contributions/grenada.md) |
 | Followers | [Open](../followers/grenada.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre T. R. Walters | Grenada, West Indies | 786 |
-| 2 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 151 |
-| 3 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard | Grenada, West Indies | 28 |
-| 4 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 26 |
-| 5 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 19 |
-| 6 | [al-latte](https://github.com/al-latte) | Karlisha Roberts | Grenada | 10 |
-| 7 | [DamioneJDARBEAU](https://github.com/DamioneJDARBEAU) | Damione Darbeau | Grenada  | 10 |
-| 8 | [davidwilson001](https://github.com/davidwilson001) | David Wilson | Grenada | 10 |
-| 9 | [Edixlk](https://github.com/Edixlk) | jsh.dev | Grenada | 9 |
-| 10 | [fegvebhtrbtr](https://github.com/fegvebhtrbtr) | Qingling Wang | Grenada | 8 |
-| 11 | [AlexS473](https://github.com/AlexS473) | Shereece Victor | Grenada | 3 |
-| 12 | [kranks40](https://github.com/kranks40) | Oketo Peters | Grenada | 2 |
-| 13 | [leo-the-dev](https://github.com/leo-the-dev) | Leo | Grenada | 2 |
-| 14 | [SeanPrice13](https://github.com/SeanPrice13) | Bentley Price | Grand Anse, St. George's, Grenada | 2 |
-| 15 | [Adrito981119](https://github.com/Adrito981119) | Adrian Almeida Garcia | Saint George, Grenada | 1 |
-| 16 | [clevonnoel](https://github.com/clevonnoel) | Clevon Noel | Grenada | 1 |
-| 17 | [CathyASamuel](https://github.com/CathyASamuel) | Catherine A. Samuel | St George's, GRENADA | 0 |
-| 18 | [chaddy012](https://github.com/chaddy012) | Chad Fraser | Grenada | 0 |
-| 19 | [ckpd](https://github.com/ckpd) | Charlie DeRiggs | Grenada | 0 |
-| 20 | [Dassterdly](https://github.com/Dassterdly) | Damione J Darbeau | Grenada | 0 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 38
 | 18 | [Adrito981119](https://github.com/Adrito981119) | Adrian Almeida Garcia | Saint George, Grenada | 1 |
 | 19 | [clevonnoel](https://github.com/clevonnoel) | Clevon Noel | Grenada | 1 |
 | 20 | [CathyASamuel](https://github.com/CathyASamuel) | Catherine A. Samuel | St George's, GRENADA | 0 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre T. R. Walters | Grenada, West Indies | 786 |
+| 2 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 151 |
+| 3 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard | Grenada, West Indies | 28 |
+| 4 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 26 |
+| 5 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 19 |
+| 6 | [al-latte](https://github.com/al-latte) | Karlisha Roberts | Grenada | 10 |
+| 7 | [DamioneJDARBEAU](https://github.com/DamioneJDARBEAU) | Damione Darbeau | Grenada  | 10 |
+| 8 | [davidwilson001](https://github.com/davidwilson001) | David Wilson | Grenada | 10 |
+| 9 | [Edixlk](https://github.com/Edixlk) | jsh.dev | Grenada | 9 |
+| 10 | [fegvebhtrbtr](https://github.com/fegvebhtrbtr) | Qingling Wang | Grenada | 8 |
+| 11 | [AlexS473](https://github.com/AlexS473) | Shereece Victor | Grenada | 3 |
+| 12 | [kranks40](https://github.com/kranks40) | Oketo Peters | Grenada | 2 |
+| 13 | [leo-the-dev](https://github.com/leo-the-dev) | Leo | Grenada | 2 |
+| 14 | [SeanPrice13](https://github.com/SeanPrice13) | Bentley Price | Grand Anse, St. George's, Grenada | 2 |
+| 15 | [Adrito981119](https://github.com/Adrito981119) | Adrian Almeida Garcia | Saint George, Grenada | 1 |
+| 16 | [clevonnoel](https://github.com/clevonnoel) | Clevon Noel | Grenada | 1 |
+| 17 | [CathyASamuel](https://github.com/CathyASamuel) | Catherine A. Samuel | St George's, GRENADA | 0 |
+| 18 | [chaddy012](https://github.com/chaddy012) | Chad Fraser | Grenada | 0 |
+| 19 | [ckpd](https://github.com/ckpd) | Charlie DeRiggs | Grenada | 0 |
+| 20 | [Dassterdly](https://github.com/Dassterdly) | Damione J Darbeau | Grenada | 0 |
 
 ## Followers
 

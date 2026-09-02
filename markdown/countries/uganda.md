@@ -4,34 +4,9 @@ Indexed users: 3,883
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/uganda.md) |
 | Total Contributions | [Open](../total_contributions/uganda.md) |
+| Public Contributions | [Open](../public_contributions/uganda.md) |
 | Followers | [Open](../followers/uganda.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,423 |
-| 2 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 5,725 |
-| 3 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale | Kampala | 5,695 |
-| 4 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 5,312 |
-| 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 4,382 |
-| 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre | Kampala | 3,882 |
-| 7 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 2,995 |
-| 8 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick | kampala | 2,859 |
-| 9 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi | Uganda | 2,776 |
-| 10 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL | Kampala,Uganda | 2,624 |
-| 11 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 2,422 |
-| 12 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,169 |
-| 13 | [kasasa22](https://github.com/kasasa22) | Kasasa Livingstone Trevor | Uganda | 2,056 |
-| 14 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,970 |
-| 15 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
-| 16 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 1,930 |
-| 17 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,917 |
-| 18 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
-| 19 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan | Kampala/Uganda | 1,891 |
-| 20 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 1,830 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 3,883
 | 18 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 6,926 |
 | 19 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
 | 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | Kampala, Uganda | 6,514 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,423 |
+| 2 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 5,725 |
+| 3 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale | Kampala | 5,695 |
+| 4 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 5,312 |
+| 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 4,382 |
+| 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre | Kampala | 3,882 |
+| 7 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 2,995 |
+| 8 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick | kampala | 2,859 |
+| 9 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi | Uganda | 2,776 |
+| 10 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL | Kampala,Uganda | 2,624 |
+| 11 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 2,422 |
+| 12 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,169 |
+| 13 | [kasasa22](https://github.com/kasasa22) | Kasasa Livingstone Trevor | Uganda | 2,056 |
+| 14 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,970 |
+| 15 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
+| 16 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 1,930 |
+| 17 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,917 |
+| 18 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
+| 19 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan | Kampala/Uganda | 1,891 |
+| 20 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 1,830 |
 
 ## Followers
 

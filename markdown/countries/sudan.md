@@ -4,34 +4,9 @@ Indexed users: 736
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/sudan.md) |
 | Total Contributions | [Open](../total_contributions/sudan.md) |
+| Public Contributions | [Open](../public_contributions/sudan.md) |
 | Followers | [Open](../followers/sudan.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 1,291 |
-| 2 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 882 |
-| 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 788 |
-| 4 | [mohamedkam000](https://github.com/mohamedkam000) | Muhammad Kamal | Sudan | 764 |
-| 5 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 724 |
-| 6 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir |  Sudan | 690 |
-| 7 | [sparkhere-sys](https://github.com/sparkhere-sys) | _Spark | Sudan | 556 |
-| 8 | [sherif414](https://github.com/sherif414) | shareef | Sudan | 469 |
-| 9 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 461 |
-| 10 | [breezyx28](https://github.com/breezyx28) | Mohamed Ahmed (Kat) | Omdurman, Khartoum, Sudan | 453 |
-| 11 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Sudan | 437 |
-| 12 | [AminElhag](https://github.com/AminElhag) | Amin Elhag | Khartoum,Sudan | 401 |
-| 13 | [Ah-m-ed-Dev](https://github.com/Ah-m-ed-Dev) | Ahmed_khalil | sudan | 385 |
-| 14 | [Wadamzmail](https://github.com/Wadamzmail) | MutwakilX | El-Obeid/Sudan | 382 |
-| 15 | [ahmedelbilal](https://github.com/ahmedelbilal) | Ahmed Elbilal | Sudan, Khartoum | 378 |
-| 16 | [ali007-depug](https://github.com/ali007-depug) | Ali AbdElbagi | sudan | 360 |
-| 17 | [Ahmed-5](https://github.com/Ahmed-5) | Ahmed Alhassan | Khartoum | 349 |
-| 18 | [hima890](https://github.com/hima890) | Ibrahim Hanafi Mohamed Hanafi | Sudan | 327 |
-| 19 | [Moe-Suhail](https://github.com/Moe-Suhail) | Mohammed Adil Hassan Taha | Khartoum, Sudan | 312 |
-| 20 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | Sudan, Khartoum | 304 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 736
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 1,912 |
 | 19 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 1,821 |
 | 20 | [Ahmed-Alkhatim](https://github.com/Ahmed-Alkhatim) | Ahmed alkhatim Awadeljeed | Sudan | 1,815 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 1,291 |
+| 2 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 882 |
+| 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 788 |
+| 4 | [mohamedkam000](https://github.com/mohamedkam000) | Muhammad Kamal | Sudan | 764 |
+| 5 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 724 |
+| 6 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir |  Sudan | 690 |
+| 7 | [sparkhere-sys](https://github.com/sparkhere-sys) | _Spark | Sudan | 556 |
+| 8 | [sherif414](https://github.com/sherif414) | shareef | Sudan | 469 |
+| 9 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 461 |
+| 10 | [breezyx28](https://github.com/breezyx28) | Mohamed Ahmed (Kat) | Omdurman, Khartoum, Sudan | 453 |
+| 11 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Sudan | 437 |
+| 12 | [AminElhag](https://github.com/AminElhag) | Amin Elhag | Khartoum,Sudan | 401 |
+| 13 | [Ah-m-ed-Dev](https://github.com/Ah-m-ed-Dev) | Ahmed_khalil | sudan | 385 |
+| 14 | [Wadamzmail](https://github.com/Wadamzmail) | MutwakilX | El-Obeid/Sudan | 382 |
+| 15 | [ahmedelbilal](https://github.com/ahmedelbilal) | Ahmed Elbilal | Sudan, Khartoum | 378 |
+| 16 | [ali007-depug](https://github.com/ali007-depug) | Ali AbdElbagi | sudan | 360 |
+| 17 | [Ahmed-5](https://github.com/Ahmed-5) | Ahmed Alhassan | Khartoum | 349 |
+| 18 | [hima890](https://github.com/hima890) | Ibrahim Hanafi Mohamed Hanafi | Sudan | 327 |
+| 19 | [Moe-Suhail](https://github.com/Moe-Suhail) | Mohammed Adil Hassan Taha | Khartoum, Sudan | 312 |
+| 20 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | Sudan, Khartoum | 304 |
 
 ## Followers
 

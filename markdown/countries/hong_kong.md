@@ -4,34 +4,9 @@ Indexed users: 10,326
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/hong_kong.md) |
 | Total Contributions | [Open](../total_contributions/hong_kong.md) |
+| Public Contributions | [Open](../public_contributions/hong_kong.md) |
 | Followers | [Open](../followers/hong_kong.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | Hong Kong | 22,592 |
-| 2 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | Hong Kong | 19,852 |
-| 3 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat | Hong Kong | 13,015 |
-| 4 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | melbourne/hong kong | 12,781 |
-| 5 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | Hong Kong | 9,360 |
-| 6 | [tombelieber](https://github.com/tombelieber) | Tom Tang | Hong Kong | 9,074 |
-| 7 | [lokshunhung](https://github.com/lokshunhung) | LS Hung | Hong Kong | 8,170 |
-| 8 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 7,960 |
-| 9 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | Hong Kong | 7,683 |
-| 10 | [lcacchiani](https://github.com/lcacchiani) | Luca Cacchiani | Hong Kong | 7,358 |
-| 11 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk | Hong Kong | 6,407 |
-| 12 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Hong Kong | 6,035 |
-| 13 | [williamchong](https://github.com/williamchong) | William Chong | Hong Kong | 5,950 |
-| 14 | [auto-wood](https://github.com/auto-wood) | Auto.Wood | Hong Kong | 5,375 |
-| 15 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Hong Kong | 4,735 |
-| 16 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | Eva Rei | Hong Kong | 4,280 |
-| 17 | [DarkLight1337](https://github.com/DarkLight1337) | Cyrus Leung | Hong Kong | 4,241 |
-| 18 | [atomyyyy](https://github.com/atomyyyy) | Alan | Hong Kong | 3,664 |
-| 19 | [gk0729](https://github.com/gk0729) | gk0729 | HONG KONG | 3,428 |
-| 20 | [zetta](https://github.com/zetta) | Carlos Clemente | Hong Kong | 3,376 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 10,326
 | 18 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | Hong Kong | 9,686 |
 | 19 | [warren618](https://github.com/warren618) | Haozhe Wu | HONG KONG | 9,350 |
 | 20 | [eliasadamshk](https://github.com/eliasadamshk) | Elias Adams | Hong Kong | 9,294 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | Hong Kong | 22,592 |
+| 2 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | Hong Kong | 19,852 |
+| 3 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat | Hong Kong | 13,015 |
+| 4 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | melbourne/hong kong | 12,781 |
+| 5 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | Hong Kong | 9,360 |
+| 6 | [tombelieber](https://github.com/tombelieber) | Tom Tang | Hong Kong | 9,074 |
+| 7 | [lokshunhung](https://github.com/lokshunhung) | LS Hung | Hong Kong | 8,170 |
+| 8 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 7,960 |
+| 9 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | Hong Kong | 7,683 |
+| 10 | [lcacchiani](https://github.com/lcacchiani) | Luca Cacchiani | Hong Kong | 7,358 |
+| 11 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk | Hong Kong | 6,407 |
+| 12 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Hong Kong | 6,035 |
+| 13 | [williamchong](https://github.com/williamchong) | William Chong | Hong Kong | 5,950 |
+| 14 | [auto-wood](https://github.com/auto-wood) | Auto.Wood | Hong Kong | 5,375 |
+| 15 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Hong Kong | 4,735 |
+| 16 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | Eva Rei | Hong Kong | 4,280 |
+| 17 | [DarkLight1337](https://github.com/DarkLight1337) | Cyrus Leung | Hong Kong | 4,241 |
+| 18 | [atomyyyy](https://github.com/atomyyyy) | Alan | Hong Kong | 3,664 |
+| 19 | [gk0729](https://github.com/gk0729) | gk0729 | HONG KONG | 3,428 |
+| 20 | [zetta](https://github.com/zetta) | Carlos Clemente | Hong Kong | 3,376 |
 
 ## Followers
 

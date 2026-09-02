@@ -4,34 +4,9 @@ Indexed users: 5,824
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/algeria.md) |
 | Total Contributions | [Open](../total_contributions/algeria.md) |
+| Public Contributions | [Open](../public_contributions/algeria.md) |
 | Followers | [Open](../followers/algeria.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi | Algeria | 3,998 |
-| 2 | [imadtbn](https://github.com/imadtbn) | imad tbn | algeria | 2,944 |
-| 3 | [rayandripo](https://github.com/rayandripo) | Rayan | Algiers | 2,785 |
-| 4 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 2,674 |
-| 5 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah | Algeria | 2,649 |
-| 6 | [selmahacii](https://github.com/selmahacii) | selma haci | Algiers, Algeria | 2,630 |
-| 7 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | Algiers,Algeria | 2,390 |
-| 8 | [AchrefBoub](https://github.com/AchrefBoub) | Achref | Algeria | 2,370 |
-| 9 | [ndpm13](https://github.com/ndpm13) | Naz | M'sila, Algeria | 2,118 |
-| 10 | [MedRedha](https://github.com/MedRedha) | Mohamed Redha Khelifi | Berlin, Germany / Algiers, Algeria | 2,083 |
-| 11 | [XaviCode1000](https://github.com/XaviCode1000) | Xavi | Algeria | 1,797 |
-| 12 | [Adel-Ayoub](https://github.com/Adel-Ayoub) | MAAZIZ Adel Ayoub | Algeria | 1,760 |
-| 13 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 1,751 |
-| 14 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 1,614 |
-| 15 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | Algeria | 1,551 |
-| 16 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Algiers, Algeria | 1,455 |
-| 17 | [Nidhal-Khazene](https://github.com/Nidhal-Khazene) | Nidhal | Algeria | 1,390 |
-| 18 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 1,378 |
-| 19 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane | Algeria | 1,376 |
-| 20 | [Vtheonly](https://github.com/Vtheonly) | Mersel Fares | Algeria | 1,330 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 5,824
 | 18 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi | Algeria | 4,654 |
 | 19 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 4,636 |
 | 20 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Algeria | 4,628 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi | Algeria | 3,998 |
+| 2 | [imadtbn](https://github.com/imadtbn) | imad tbn | algeria | 2,944 |
+| 3 | [rayandripo](https://github.com/rayandripo) | Rayan | Algiers | 2,785 |
+| 4 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 2,674 |
+| 5 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah | Algeria | 2,649 |
+| 6 | [selmahacii](https://github.com/selmahacii) | selma haci | Algiers, Algeria | 2,630 |
+| 7 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | Algiers,Algeria | 2,390 |
+| 8 | [AchrefBoub](https://github.com/AchrefBoub) | Achref | Algeria | 2,370 |
+| 9 | [ndpm13](https://github.com/ndpm13) | Naz | M'sila, Algeria | 2,118 |
+| 10 | [MedRedha](https://github.com/MedRedha) | Mohamed Redha Khelifi | Berlin, Germany / Algiers, Algeria | 2,083 |
+| 11 | [XaviCode1000](https://github.com/XaviCode1000) | Xavi | Algeria | 1,797 |
+| 12 | [Adel-Ayoub](https://github.com/Adel-Ayoub) | MAAZIZ Adel Ayoub | Algeria | 1,760 |
+| 13 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 1,751 |
+| 14 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 1,614 |
+| 15 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | Algeria | 1,551 |
+| 16 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Algiers, Algeria | 1,455 |
+| 17 | [Nidhal-Khazene](https://github.com/Nidhal-Khazene) | Nidhal | Algeria | 1,390 |
+| 18 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 1,378 |
+| 19 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane | Algeria | 1,376 |
+| 20 | [Vtheonly](https://github.com/Vtheonly) | Mersel Fares | Algeria | 1,330 |
 
 ## Followers
 

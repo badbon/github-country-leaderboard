@@ -4,34 +4,9 @@ Indexed users: 33,950
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/egypt.md) |
 | Total Contributions | [Open](../total_contributions/egypt.md) |
+| Public Contributions | [Open](../public_contributions/egypt.md) |
 | Followers | [Open](../followers/egypt.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [3bsalam-1](https://github.com/3bsalam-1) | Ahmed Mohamed | Ismailia, Egypt | 54,701 |
-| 2 | [Kotiba](https://github.com/Kotiba) | Kotiba Marg | Cairo | 7,076 |
-| 3 | [AnasElbattra](https://github.com/AnasElbattra) | Anas Elbattra | Egypt | 6,482 |
-| 4 | [MH0386](https://github.com/MH0386) | Mohamed Hisham Abdelzaher | Giza, Egypt | 5,446 |
-| 5 | [Kemetra](https://github.com/Kemetra) | Kemetra | cairo | 5,395 |
-| 6 | [maraouf](https://github.com/maraouf) | Mo Raouf | Cairo, Egypt | 5,380 |
-| 7 | [fadymondy](https://github.com/fadymondy) | Fady Mondy | Cairo, Egypt | 5,369 |
-| 8 | [sherow1982](https://github.com/sherow1982) | Sherif Salama | Egypt  | 5,164 |
-| 9 | [A-Hemeda](https://github.com/A-Hemeda) | Ahmed Hemeda | Cairo, Egypt | 4,967 |
-| 10 | [meedoomostafa](https://github.com/meedoomostafa) | Mohamed Ahmed Mostafa | Obour, Egypt | 4,801 |
-| 11 | [majedsiefalnasr](https://github.com/majedsiefalnasr) | Majed Sief Alnasr | Giza, Egypt | 4,668 |
-| 12 | [adhamhaithameid](https://github.com/adhamhaithameid) | Adham Haitham Eid | Cairo, Egypt  | 4,448 |
-| 13 | [FoushWare](https://github.com/FoushWare) | Ahmed Fouad | egypt  | 3,958 |
-| 14 | [MostafaGamal84](https://github.com/MostafaGamal84) | Mostafa Gamal | Egypt | 3,465 |
-| 15 | [MahmoudFayed](https://github.com/MahmoudFayed) | Mahmoud Samir Fayed | Egypt | 3,415 |
-| 16 | [Goda-Emad](https://github.com/Goda-Emad) | goda emad | Egypt | 3,281 |
-| 17 | [ZG089](https://github.com/ZG089) | ZGX089 | Cairo, Egypt | 3,174 |
-| 18 | [sv1ffff](https://github.com/sv1ffff) | Saif Fikry | Egypt  | 3,128 |
-| 19 | [Mng-dev-ai](https://github.com/Mng-dev-ai) | Michael Gendy | Egypt | 2,977 |
-| 20 | [RlxChap2](https://github.com/RlxChap2) | !? ReLaX | Egypt, Assiut | 2,944 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 33,950
 | 18 | [MazenYasser](https://github.com/MazenYasser) | Mazen Yasser | Port Said, Egypt | 11,125 |
 | 19 | [msayed-cs](https://github.com/msayed-cs) | Mohamed Sayed | Egypt | 10,757 |
 | 20 | [musoftware](https://github.com/musoftware) | Musoftware | EGYPT | 10,482 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [3bsalam-1](https://github.com/3bsalam-1) | Ahmed Mohamed | Ismailia, Egypt | 54,701 |
+| 2 | [Kotiba](https://github.com/Kotiba) | Kotiba Marg | Cairo | 7,076 |
+| 3 | [AnasElbattra](https://github.com/AnasElbattra) | Anas Elbattra | Egypt | 6,482 |
+| 4 | [MH0386](https://github.com/MH0386) | Mohamed Hisham Abdelzaher | Giza, Egypt | 5,446 |
+| 5 | [Kemetra](https://github.com/Kemetra) | Kemetra | cairo | 5,395 |
+| 6 | [maraouf](https://github.com/maraouf) | Mo Raouf | Cairo, Egypt | 5,380 |
+| 7 | [fadymondy](https://github.com/fadymondy) | Fady Mondy | Cairo, Egypt | 5,369 |
+| 8 | [sherow1982](https://github.com/sherow1982) | Sherif Salama | Egypt  | 5,164 |
+| 9 | [A-Hemeda](https://github.com/A-Hemeda) | Ahmed Hemeda | Cairo, Egypt | 4,967 |
+| 10 | [meedoomostafa](https://github.com/meedoomostafa) | Mohamed Ahmed Mostafa | Obour, Egypt | 4,801 |
+| 11 | [majedsiefalnasr](https://github.com/majedsiefalnasr) | Majed Sief Alnasr | Giza, Egypt | 4,668 |
+| 12 | [adhamhaithameid](https://github.com/adhamhaithameid) | Adham Haitham Eid | Cairo, Egypt  | 4,448 |
+| 13 | [FoushWare](https://github.com/FoushWare) | Ahmed Fouad | egypt  | 3,958 |
+| 14 | [MostafaGamal84](https://github.com/MostafaGamal84) | Mostafa Gamal | Egypt | 3,465 |
+| 15 | [MahmoudFayed](https://github.com/MahmoudFayed) | Mahmoud Samir Fayed | Egypt | 3,415 |
+| 16 | [Goda-Emad](https://github.com/Goda-Emad) | goda emad | Egypt | 3,281 |
+| 17 | [ZG089](https://github.com/ZG089) | ZGX089 | Cairo, Egypt | 3,174 |
+| 18 | [sv1ffff](https://github.com/sv1ffff) | Saif Fikry | Egypt  | 3,128 |
+| 19 | [Mng-dev-ai](https://github.com/Mng-dev-ai) | Michael Gendy | Egypt | 2,977 |
+| 20 | [RlxChap2](https://github.com/RlxChap2) | !? ReLaX | Egypt, Assiut | 2,944 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 6,693
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/ethiopia.md) |
 | Total Contributions | [Open](../total_contributions/ethiopia.md) |
+| Public Contributions | [Open](../public_contributions/ethiopia.md) |
 | Followers | [Open](../followers/ethiopia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [mohammedsbd](https://github.com/mohammedsbd) | Mohammed Salih | Addis Ababa | 8,502 |
-| 2 | [Bereket-Ketema](https://github.com/Bereket-Ketema) | Bereket Ketema | Adama, Ethiopia | 4,539 |
-| 3 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) | Addis Ababa  | 3,881 |
-| 4 | [poricf](https://github.com/poricf) | Fahmi Dinsefa | Ethiopia | 3,646 |
-| 5 | [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh) | Hailemeskel Getaneh | Debre Birhan, Ethiopia | 3,582 |
-| 6 | [yab3ts](https://github.com/yab3ts) | Yabets Maregn  | Ethiopia | 3,230 |
-| 7 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | Addis Ababa, Ethiopia | 3,124 |
-| 8 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera | Ethiopia  | 3,106 |
-| 9 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | Addis Ababa | 3,073 |
-| 10 | [hiruy72](https://github.com/hiruy72) | Hiruy Legesse Adane | Addis Ababa, Ethiopia | 3,028 |
-| 11 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Addis Ababa, Ethiopia | 2,667 |
-| 12 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 2,523 |
-| 13 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar | Addis Ababa, Ethiopia | 2,510 |
-| 14 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Addis Ababa , Ethiopia | 2,407 |
-| 15 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa | 2,396 |
-| 16 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi | Addis Ababa, Ethiopia | 2,312 |
-| 17 | [FiraBro](https://github.com/FiraBro) | Firagos Jemal | Ethiopia, Dire Dawa | 2,200 |
-| 18 | [hirodinn](https://github.com/hirodinn) | Hire Bikila | Addis Ababa, Ethiopia | 2,079 |
-| 19 | [kid-yP](https://github.com/kid-yP) | Kidus Yosef | Addis Ababa, Ethiopia | 2,070 |
-| 20 | [lemigobena](https://github.com/lemigobena) | Lemi Gobena Jaleta | Addis Ababa, Ethiopia | 2,029 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 6,693
 | 18 | [NatnaelMekonnen](https://github.com/NatnaelMekonnen) | Natnael Mekonnen | Addis Ababa, Ethiopia | 6,587 |
 | 19 | [iamejajo](https://github.com/iamejajo) | alazar | Addis Ababa,Ethiopia | 6,404 |
 | 20 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | Addis Ababa | 6,343 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [mohammedsbd](https://github.com/mohammedsbd) | Mohammed Salih | Addis Ababa | 8,502 |
+| 2 | [Bereket-Ketema](https://github.com/Bereket-Ketema) | Bereket Ketema | Adama, Ethiopia | 4,539 |
+| 3 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) | Addis Ababa  | 3,881 |
+| 4 | [poricf](https://github.com/poricf) | Fahmi Dinsefa | Ethiopia | 3,646 |
+| 5 | [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh) | Hailemeskel Getaneh | Debre Birhan, Ethiopia | 3,582 |
+| 6 | [yab3ts](https://github.com/yab3ts) | Yabets Maregn  | Ethiopia | 3,230 |
+| 7 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | Addis Ababa, Ethiopia | 3,124 |
+| 8 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera | Ethiopia  | 3,106 |
+| 9 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | Addis Ababa | 3,073 |
+| 10 | [hiruy72](https://github.com/hiruy72) | Hiruy Legesse Adane | Addis Ababa, Ethiopia | 3,028 |
+| 11 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Addis Ababa, Ethiopia | 2,667 |
+| 12 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 2,523 |
+| 13 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar | Addis Ababa, Ethiopia | 2,510 |
+| 14 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Addis Ababa , Ethiopia | 2,407 |
+| 15 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa | 2,396 |
+| 16 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi | Addis Ababa, Ethiopia | 2,312 |
+| 17 | [FiraBro](https://github.com/FiraBro) | Firagos Jemal | Ethiopia, Dire Dawa | 2,200 |
+| 18 | [hirodinn](https://github.com/hirodinn) | Hire Bikila | Addis Ababa, Ethiopia | 2,079 |
+| 19 | [kid-yP](https://github.com/kid-yP) | Kidus Yosef | Addis Ababa, Ethiopia | 2,070 |
+| 20 | [lemigobena](https://github.com/lemigobena) | Lemi Gobena Jaleta | Addis Ababa, Ethiopia | 2,029 |
 
 ## Followers
 

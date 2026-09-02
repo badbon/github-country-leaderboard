@@ -4,34 +4,9 @@ Indexed users: 299
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/republic_of_the_congo.md) |
 | Total Contributions | [Open](../total_contributions/republic_of_the_congo.md) |
+| Public Contributions | [Open](../public_contributions/republic_of_the_congo.md) |
 | Followers | [Open](../followers/republic_of_the_congo.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,571 |
-| 2 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 739 |
-| 3 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 689 |
-| 4 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 663 |
-| 5 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 508 |
-| 6 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Brazzaville | 492 |
-| 7 | [Kingcedloga](https://github.com/Kingcedloga) | Meced Loga | Kinshasa, Congo | 439 |
-| 8 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir Loémba | R.Congo, Brazzaville | 387 |
-| 9 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 373 |
-| 10 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 322 |
-| 11 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 317 |
-| 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 301 |
-| 13 | [dzeko003](https://github.com/dzeko003) | Berenis MASSAMBA | Brazzaville | 296 |
-| 14 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 286 |
-| 15 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 210 |
-| 16 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 207 |
-| 17 | [MakVieSAinte](https://github.com/MakVieSAinte) | MakVieSAinte | Congo Brazzaville | 195 |
-| 18 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 192 |
-| 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 180 |
-| 20 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 176 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 299
 | 18 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | Brazzaville | 1,042 |
 | 19 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 1,037 |
 | 20 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 1,033 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,571 |
+| 2 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 739 |
+| 3 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 689 |
+| 4 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 663 |
+| 5 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 508 |
+| 6 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Brazzaville | 492 |
+| 7 | [Kingcedloga](https://github.com/Kingcedloga) | Meced Loga | Kinshasa, Congo | 439 |
+| 8 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir Loémba | R.Congo, Brazzaville | 387 |
+| 9 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 373 |
+| 10 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 322 |
+| 11 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 317 |
+| 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 301 |
+| 13 | [dzeko003](https://github.com/dzeko003) | Berenis MASSAMBA | Brazzaville | 296 |
+| 14 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 286 |
+| 15 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 210 |
+| 16 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 207 |
+| 17 | [MakVieSAinte](https://github.com/MakVieSAinte) | MakVieSAinte | Congo Brazzaville | 195 |
+| 18 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 192 |
+| 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 180 |
+| 20 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 176 |
 
 ## Followers
 

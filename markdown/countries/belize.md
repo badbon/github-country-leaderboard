@@ -4,34 +4,9 @@ Indexed users: 96
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/belize.md) |
 | Total Contributions | [Open](../total_contributions/belize.md) |
+| Public Contributions | [Open](../public_contributions/belize.md) |
 | Followers | [Open](../followers/belize.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,188 |
-| 2 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 758 |
-| 3 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 758 |
-| 4 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 481 |
-| 5 | [raycadle](https://github.com/raycadle) | Ray Cadle | Belize, C.A. | 412 |
-| 6 | [TheGhostly41](https://github.com/TheGhostly41) | Jose Urbina | Belize | 292 |
-| 7 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | Belmopan, Belize | 291 |
-| 8 | [krispyre](https://github.com/krispyre) | kris | Belize | 243 |
-| 9 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Belize | 217 |
-| 10 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti | San Jose Succotz, Cayo District, Belize | 138 |
-| 11 | [ezlosswm](https://github.com/ezlosswm) | Carlos Gomez | Belize | 99 |
-| 12 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 84 |
-| 13 | [keenanbernard](https://github.com/keenanbernard) | Keenan Bernard | Belize City, Belize | 75 |
-| 14 | [Rubi3r3](https://github.com/Rubi3r3) | Rubiere Ramirez | Belize | 71 |
-| 15 | [JerryHamm](https://github.com/JerryHamm) | Jeremiah Hammond | Ladyville, Belize | 62 |
-| 16 | [alvarohulse](https://github.com/alvarohulse) | Alvaro Hulse | Belize | 57 |
-| 17 | [erichanson](https://github.com/erichanson) | Eric Hanson | Belize | 55 |
-| 18 | [GirlWhoCodes14](https://github.com/GirlWhoCodes14) | Alexis Ayuso | Belize | 46 |
-| 19 | [curwen-arthurs](https://github.com/curwen-arthurs) | Curwen Arthurs | Belize | 41 |
-| 20 | [FranceCawich](https://github.com/FranceCawich) |  | Belize | 33 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 96
 | 18 | [william-e-rubio](https://github.com/william-e-rubio) | William Rubio | Belize | 285 |
 | 19 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti | San Jose Succotz, Cayo District, Belize | 260 |
 | 20 | [JerryHamm](https://github.com/JerryHamm) | Jeremiah Hammond | Ladyville, Belize | 250 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,188 |
+| 2 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 758 |
+| 3 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 758 |
+| 4 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 481 |
+| 5 | [raycadle](https://github.com/raycadle) | Ray Cadle | Belize, C.A. | 412 |
+| 6 | [TheGhostly41](https://github.com/TheGhostly41) | Jose Urbina | Belize | 292 |
+| 7 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | Belmopan, Belize | 291 |
+| 8 | [krispyre](https://github.com/krispyre) | kris | Belize | 243 |
+| 9 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Belize | 217 |
+| 10 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti | San Jose Succotz, Cayo District, Belize | 138 |
+| 11 | [ezlosswm](https://github.com/ezlosswm) | Carlos Gomez | Belize | 99 |
+| 12 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 84 |
+| 13 | [keenanbernard](https://github.com/keenanbernard) | Keenan Bernard | Belize City, Belize | 75 |
+| 14 | [Rubi3r3](https://github.com/Rubi3r3) | Rubiere Ramirez | Belize | 71 |
+| 15 | [JerryHamm](https://github.com/JerryHamm) | Jeremiah Hammond | Ladyville, Belize | 62 |
+| 16 | [alvarohulse](https://github.com/alvarohulse) | Alvaro Hulse | Belize | 57 |
+| 17 | [erichanson](https://github.com/erichanson) | Eric Hanson | Belize | 55 |
+| 18 | [GirlWhoCodes14](https://github.com/GirlWhoCodes14) | Alexis Ayuso | Belize | 46 |
+| 19 | [curwen-arthurs](https://github.com/curwen-arthurs) | Curwen Arthurs | Belize | 41 |
+| 20 | [FranceCawich](https://github.com/FranceCawich) |  | Belize | 33 |
 
 ## Followers
 

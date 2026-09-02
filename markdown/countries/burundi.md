@@ -4,34 +4,9 @@ Indexed users: 238
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/burundi.md) |
 | Total Contributions | [Open](../total_contributions/burundi.md) |
+| Public Contributions | [Open](../public_contributions/burundi.md) |
 | Followers | [Open](../followers/burundi.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,420 |
-| 2 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 891 |
-| 3 | [Welcomeardin](https://github.com/Welcomeardin) | Mr ardin | Burundi,bujumbura | 624 |
-| 4 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana | Burundi | 520 |
-| 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 442 |
-| 6 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev | Burundi | 425 |
-| 7 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 327 |
-| 8 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 312 |
-| 9 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | burundi | 304 |
-| 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 287 |
-| 11 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 269 |
-| 12 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 216 |
-| 13 | [TonyBimenyi](https://github.com/TonyBimenyi) |  | Bujumbura, Burundi | 185 |
-| 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 160 |
-| 15 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 154 |
-| 16 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY | Burundi/Bujumbura | 153 |
-| 17 | [kaebalsaebal](https://github.com/kaebalsaebal) | kaebalsaebal | Burundi | 143 |
-| 18 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Burundi | 134 |
-| 19 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | Burundi | 118 |
-| 20 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | Burundi | 112 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 238
 | 18 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 1,002 |
 | 19 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 863 |
 | 20 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 818 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,420 |
+| 2 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 891 |
+| 3 | [Welcomeardin](https://github.com/Welcomeardin) | Mr ardin | Burundi,bujumbura | 624 |
+| 4 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana | Burundi | 520 |
+| 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 442 |
+| 6 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev | Burundi | 425 |
+| 7 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 327 |
+| 8 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 312 |
+| 9 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | burundi | 304 |
+| 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 287 |
+| 11 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 269 |
+| 12 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 216 |
+| 13 | [TonyBimenyi](https://github.com/TonyBimenyi) |  | Bujumbura, Burundi | 185 |
+| 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 160 |
+| 15 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 154 |
+| 16 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY | Burundi/Bujumbura | 153 |
+| 17 | [kaebalsaebal](https://github.com/kaebalsaebal) | kaebalsaebal | Burundi | 143 |
+| 18 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Burundi | 134 |
+| 19 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | Burundi | 118 |
+| 20 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | Burundi | 112 |
 
 ## Followers
 

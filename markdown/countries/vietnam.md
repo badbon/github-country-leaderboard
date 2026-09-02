@@ -4,34 +4,9 @@ Indexed users: 25,869
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/vietnam.md) |
 | Total Contributions | [Open](../total_contributions/vietnam.md) |
+| Public Contributions | [Open](../public_contributions/vietnam.md) |
 | Followers | [Open](../followers/vietnam.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [hoangsvit](https://github.com/hoangsvit) | David Nguyen | Ho Chi Minh, Vietnam | 136,865 |
-| 2 | [frankrichardhall](https://github.com/frankrichardhall) | Frank Richard Hall | Hanoi, Vietnam | 100,157 |
-| 3 | [tamnd](https://github.com/tamnd) | Tam Nguyen Duc | Ho Chi Minh City, Vietnam | 58,698 |
-| 4 | [caothu159](https://github.com/caothu159) | Trần Ngọc Đức | vietnam | 21,990 |
-| 5 | [bigdargon](https://github.com/bigdargon) | BigDargon | Vietnam | 20,766 |
-| 6 | [ngbaoan](https://github.com/ngbaoan) | An Bao NGUYEN | Viet Nam | 18,277 |
-| 7 | [ngocnhan2003](https://github.com/ngocnhan2003) | Nhan N. TRAN | Vietnam | 17,994 |
-| 8 | [thienmdp](https://github.com/thienmdp) | Thien Mai | Viet Nam | 17,047 |
-| 9 | [n24q02m](https://github.com/n24q02m) | Nguyen Quang Minh | Ha Noi, Viet Nam | 13,486 |
-| 10 | [Dangkhanh1121](https://github.com/Dangkhanh1121) | Dang Khanh | Viet Nam | 12,959 |
-| 11 | [kevintruong](https://github.com/kevintruong) | Kevin Truong | Vietnam | 10,145 |
-| 12 | [vhpx](https://github.com/vhpx) | Sokora | Ho Chi Minh, Vietnam | 9,897 |
-| 13 | [dinosore0](https://github.com/dinosore0) | Dino | Vietnam | 9,879 |
-| 14 | [mewisme](https://github.com/mewisme) | Nguyễn Mậu Minh | BacNinh, VietNam | 8,706 |
-| 15 | [KhoaDayy](https://github.com/KhoaDayy) | Hasu | Viet Nam | 7,897 |
-| 16 | [TanTien18103](https://github.com/TanTien18103) | Nguyễn Hồ Tân Tiến | No. 3, Garden Plaza 1 Internal Street , Garden Plaza 1 Complex, Tan Hung Ward, HCMC, Viet Nam | 7,096 |
-| 17 | [vantt](https://github.com/vantt) | Van Tran | Ho Chi Minh city, Vietnam | 6,872 |
-| 18 | [lamtran8566](https://github.com/lamtran8566) | hangvinh | viet nam | 6,592 |
-| 19 | [datlechin](https://github.com/datlechin) | Ngô Quốc Đạt | Ho Chi Minh, Vietnam | 6,129 |
-| 20 | [thangnm93](https://github.com/thangnm93) | Thang Nguyen | Viet Nam | 5,911 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 25,869
 | 18 | [tuha263](https://github.com/tuha263) | Hoàng Anh Tú | Vietnam | 16,549 |
 | 19 | [JOY](https://github.com/JOY) | JOY | Vietnam | 16,457 |
 | 20 | [JustinChasez](https://github.com/JustinChasez) | Justin Nguyễn | Vietnam | 15,674 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [hoangsvit](https://github.com/hoangsvit) | David Nguyen | Ho Chi Minh, Vietnam | 136,865 |
+| 2 | [frankrichardhall](https://github.com/frankrichardhall) | Frank Richard Hall | Hanoi, Vietnam | 100,157 |
+| 3 | [tamnd](https://github.com/tamnd) | Tam Nguyen Duc | Ho Chi Minh City, Vietnam | 58,698 |
+| 4 | [caothu159](https://github.com/caothu159) | Trần Ngọc Đức | vietnam | 21,990 |
+| 5 | [bigdargon](https://github.com/bigdargon) | BigDargon | Vietnam | 20,766 |
+| 6 | [ngbaoan](https://github.com/ngbaoan) | An Bao NGUYEN | Viet Nam | 18,277 |
+| 7 | [ngocnhan2003](https://github.com/ngocnhan2003) | Nhan N. TRAN | Vietnam | 17,994 |
+| 8 | [thienmdp](https://github.com/thienmdp) | Thien Mai | Viet Nam | 17,047 |
+| 9 | [n24q02m](https://github.com/n24q02m) | Nguyen Quang Minh | Ha Noi, Viet Nam | 13,486 |
+| 10 | [Dangkhanh1121](https://github.com/Dangkhanh1121) | Dang Khanh | Viet Nam | 12,959 |
+| 11 | [kevintruong](https://github.com/kevintruong) | Kevin Truong | Vietnam | 10,145 |
+| 12 | [vhpx](https://github.com/vhpx) | Sokora | Ho Chi Minh, Vietnam | 9,897 |
+| 13 | [dinosore0](https://github.com/dinosore0) | Dino | Vietnam | 9,879 |
+| 14 | [mewisme](https://github.com/mewisme) | Nguyễn Mậu Minh | BacNinh, VietNam | 8,706 |
+| 15 | [KhoaDayy](https://github.com/KhoaDayy) | Hasu | Viet Nam | 7,897 |
+| 16 | [TanTien18103](https://github.com/TanTien18103) | Nguyễn Hồ Tân Tiến | No. 3, Garden Plaza 1 Internal Street , Garden Plaza 1 Complex, Tan Hung Ward, HCMC, Viet Nam | 7,096 |
+| 17 | [vantt](https://github.com/vantt) | Van Tran | Ho Chi Minh city, Vietnam | 6,872 |
+| 18 | [lamtran8566](https://github.com/lamtran8566) | hangvinh | viet nam | 6,592 |
+| 19 | [datlechin](https://github.com/datlechin) | Ngô Quốc Đạt | Ho Chi Minh, Vietnam | 6,129 |
+| 20 | [thangnm93](https://github.com/thangnm93) | Thang Nguyen | Viet Nam | 5,911 |
 
 ## Followers
 

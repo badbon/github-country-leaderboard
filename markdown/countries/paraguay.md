@@ -4,34 +4,9 @@ Indexed users: 2,029
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/paraguay.md) |
 | Total Contributions | [Open](../total_contributions/paraguay.md) |
+| Public Contributions | [Open](../public_contributions/paraguay.md) |
 | Followers | [Open](../followers/paraguay.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 12,746 |
-| 2 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
-| 3 | [IvanWeissVanDerPol](https://github.com/IvanWeissVanDerPol) | Ivan Weiss Van Der Pol | paraguay | 2,948 |
-| 4 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 2,806 |
-| 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 1,938 |
-| 6 | [DaltonP93](https://github.com/DaltonP93) | Dalton Perez | Paraguay | 1,602 |
-| 7 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,512 |
-| 8 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,383 |
-| 9 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 1,377 |
-| 10 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,290 |
-| 11 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,103 |
-| 12 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,089 |
-| 13 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 1,072 |
-| 14 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 948 |
-| 15 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 915 |
-| 16 | [da21nny](https://github.com/da21nny) | Edgar Vega | Paraguay | 906 |
-| 17 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | Paraguay | 905 |
-| 18 | [denis-kudelin](https://github.com/denis-kudelin) | Denis Kudelin | Paraguay | 885 |
-| 19 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 824 |
-| 20 | [francobg7](https://github.com/francobg7) | Franco Boggiano | Paraguay | 784 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 2,029
 | 18 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 3,849 |
 | 19 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza | Encarnacíon, Itapúa, Paraguay | 3,812 |
 | 20 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 3,712 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 12,746 |
+| 2 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
+| 3 | [IvanWeissVanDerPol](https://github.com/IvanWeissVanDerPol) | Ivan Weiss Van Der Pol | paraguay | 2,948 |
+| 4 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 2,806 |
+| 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 1,938 |
+| 6 | [DaltonP93](https://github.com/DaltonP93) | Dalton Perez | Paraguay | 1,602 |
+| 7 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,512 |
+| 8 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,383 |
+| 9 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 1,377 |
+| 10 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,290 |
+| 11 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,103 |
+| 12 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,089 |
+| 13 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 1,072 |
+| 14 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 948 |
+| 15 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 915 |
+| 16 | [da21nny](https://github.com/da21nny) | Edgar Vega | Paraguay | 906 |
+| 17 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | Paraguay | 905 |
+| 18 | [denis-kudelin](https://github.com/denis-kudelin) | Denis Kudelin | Paraguay | 885 |
+| 19 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 824 |
+| 20 | [francobg7](https://github.com/francobg7) | Franco Boggiano | Paraguay | 784 |
 
 ## Followers
 

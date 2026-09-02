@@ -4,34 +4,9 @@ Indexed users: 2,579
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/lebanon.md) |
 | Total Contributions | [Open](../total_contributions/lebanon.md) |
+| Public Contributions | [Open](../public_contributions/lebanon.md) |
 | Followers | [Open](../followers/lebanon.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 3,991 |
-| 2 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 3,188 |
-| 3 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,706 |
-| 4 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 2,220 |
-| 5 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Beirut | 2,087 |
-| 6 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 2,079 |
-| 7 | [samerc](https://github.com/samerc) | Samer Cheaib | Beirut | 1,920 |
-| 8 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,623 |
-| 9 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,561 |
-| 10 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 1,333 |
-| 11 | [Compiler-A](https://github.com/Compiler-A) | Ali Mousa | lebanon | 1,238 |
-| 12 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,082 |
-| 13 | [jat10](https://github.com/jat10) | Jad Tarabay | Lebanon | 1,073 |
-| 14 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 1,024 |
-| 15 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah | Beirut, Lebanon | 1,018 |
-| 16 | [hassanaboukhalil](https://github.com/hassanaboukhalil) | hassan abou khalil | Lebanon | 975 |
-| 17 | [slimism](https://github.com/slimism) | Mohammad Slim | Lebanon | 975 |
-| 18 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 944 |
-| 19 | [LebToki](https://github.com/LebToki) | Tarek Tarabichi | Beirut | 936 |
-| 20 | [moustafak8](https://github.com/moustafak8) | Mustafa Alkamel | Beirut , Lebanon | 930 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 2,579
 | 18 | [elie-chaaban](https://github.com/elie-chaaban) | Elie Chaaban | Beirut, Lebanon | 5,035 |
 | 19 | [MhdTarhini](https://github.com/MhdTarhini) | Mohamad Tarhini | Beirut,Lebanon | 5,029 |
 | 20 | [bwmhamad](https://github.com/bwmhamad) | Mhamad Saad | Beirut - Lebanon | 4,978 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 3,991 |
+| 2 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 3,188 |
+| 3 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,706 |
+| 4 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 2,220 |
+| 5 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Beirut | 2,087 |
+| 6 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 2,079 |
+| 7 | [samerc](https://github.com/samerc) | Samer Cheaib | Beirut | 1,920 |
+| 8 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,623 |
+| 9 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,561 |
+| 10 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 1,333 |
+| 11 | [Compiler-A](https://github.com/Compiler-A) | Ali Mousa | lebanon | 1,238 |
+| 12 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,082 |
+| 13 | [jat10](https://github.com/jat10) | Jad Tarabay | Lebanon | 1,073 |
+| 14 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 1,024 |
+| 15 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah | Beirut, Lebanon | 1,018 |
+| 16 | [hassanaboukhalil](https://github.com/hassanaboukhalil) | hassan abou khalil | Lebanon | 975 |
+| 17 | [slimism](https://github.com/slimism) | Mohammad Slim | Lebanon | 975 |
+| 18 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 944 |
+| 19 | [LebToki](https://github.com/LebToki) | Tarek Tarabichi | Beirut | 936 |
+| 20 | [moustafak8](https://github.com/moustafak8) | Mustafa Alkamel | Beirut , Lebanon | 930 |
 
 ## Followers
 

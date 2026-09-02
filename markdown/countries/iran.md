@@ -4,34 +4,9 @@ Indexed users: 26,707
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/iran.md) |
 | Total Contributions | [Open](../total_contributions/iran.md) |
+| Public Contributions | [Open](../public_contributions/iran.md) |
 | Followers | [Open](../followers/iran.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [bugbounted](https://github.com/bugbounted) | Mohamad Samardeh Haghighi Fard | Iran (Islamic Republic of) | 536,164 |
-| 2 | [ALIILAPRO](https://github.com/ALIILAPRO) | Ali. B | Iran | 62,418 |
-| 3 | [penhandev](https://github.com/penhandev) | Penhan | Iran | 56,587 |
-| 4 | [jafarm83](https://github.com/jafarm83) | jafar mohammadi   \|  جعفر محمدی  | iran | 18,429 |
-| 5 | [mahdintm](https://github.com/mahdintm) | Mahdi Nemati \| مهدی نعمتی | Tehran , Iran | 17,436 |
-| 6 | [MhdiTaheri](https://github.com/MhdiTaheri) | Mahdi Taheri | Iran,Mazandaran | 14,752 |
-| 7 | [crackbest](https://github.com/crackbest) | AliakbarAhmadi | iran | 13,352 |
-| 8 | [amirkma](https://github.com/amirkma) | amirreza_kma | IRAN | 12,263 |
-| 9 | [MrAriaNet](https://github.com/MrAriaNet) | Aria | Tehran, Iran | 12,136 |
-| 10 | [mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh) | Mohammadali Mousavireineh | Iran | 11,771 |
-| 11 | [mehrdadmb2](https://github.com/mehrdadmb2) | Μιθριδάτης | Iran  | 11,699 |
-| 12 | [mheidari98](https://github.com/mheidari98) | Mahdi Heidari | Mazandaran, Iran | 8,490 |
-| 13 | [jiscop85](https://github.com/jiscop85) | jiscop85 | Iran,Tehran | 8,358 |
-| 14 | [HamiParsa](https://github.com/HamiParsa) | Hami | IRAN | 7,585 |
-| 15 | [davoudarsalani](https://github.com/davoudarsalani) | Davoud Arsalani | Iran | 7,301 |
-| 16 | [kamangir](https://github.com/kamangir) | Arash Abadpour | Tehran, Iran | 6,308 |
-| 17 | [AmirrezaFarnamTaheri](https://github.com/AmirrezaFarnamTaheri) | Farnam | Tehran | 5,975 |
-| 18 | [kamisaberi](https://github.com/kamisaberi) | kamran saberifard | iran | 5,624 |
-| 19 | [homow](https://github.com/homow) | Homayoun | iran | 5,246 |
-| 20 | [BarimKenzema](https://github.com/BarimKenzema) | Shamshama | Iran | 5,165 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 26,707
 | 18 | [Torabi-srh](https://github.com/Torabi-srh) | Soroush Trb. | Mashhad, Iran | 11,006 |
 | 19 | [OkBayat](https://github.com/OkBayat) | Mohammad Bayat | Tehran, Iran | 10,530 |
 | 20 | [kamisaberi](https://github.com/kamisaberi) | kamran saberifard | iran | 8,638 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [bugbounted](https://github.com/bugbounted) | Mohamad Samardeh Haghighi Fard | Iran (Islamic Republic of) | 536,164 |
+| 2 | [ALIILAPRO](https://github.com/ALIILAPRO) | Ali. B | Iran | 62,418 |
+| 3 | [penhandev](https://github.com/penhandev) | Penhan | Iran | 56,587 |
+| 4 | [jafarm83](https://github.com/jafarm83) | jafar mohammadi   \|  جعفر محمدی  | iran | 18,429 |
+| 5 | [mahdintm](https://github.com/mahdintm) | Mahdi Nemati \| مهدی نعمتی | Tehran , Iran | 17,436 |
+| 6 | [MhdiTaheri](https://github.com/MhdiTaheri) | Mahdi Taheri | Iran,Mazandaran | 14,752 |
+| 7 | [crackbest](https://github.com/crackbest) | AliakbarAhmadi | iran | 13,352 |
+| 8 | [amirkma](https://github.com/amirkma) | amirreza_kma | IRAN | 12,263 |
+| 9 | [MrAriaNet](https://github.com/MrAriaNet) | Aria | Tehran, Iran | 12,136 |
+| 10 | [mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh) | Mohammadali Mousavireineh | Iran | 11,771 |
+| 11 | [mehrdadmb2](https://github.com/mehrdadmb2) | Μιθριδάτης | Iran  | 11,699 |
+| 12 | [mheidari98](https://github.com/mheidari98) | Mahdi Heidari | Mazandaran, Iran | 8,490 |
+| 13 | [jiscop85](https://github.com/jiscop85) | jiscop85 | Iran,Tehran | 8,358 |
+| 14 | [HamiParsa](https://github.com/HamiParsa) | Hami | IRAN | 7,585 |
+| 15 | [davoudarsalani](https://github.com/davoudarsalani) | Davoud Arsalani | Iran | 7,301 |
+| 16 | [kamangir](https://github.com/kamangir) | Arash Abadpour | Tehran, Iran | 6,308 |
+| 17 | [AmirrezaFarnamTaheri](https://github.com/AmirrezaFarnamTaheri) | Farnam | Tehran | 5,975 |
+| 18 | [kamisaberi](https://github.com/kamisaberi) | kamran saberifard | iran | 5,624 |
+| 19 | [homow](https://github.com/homow) | Homayoun | iran | 5,246 |
+| 20 | [BarimKenzema](https://github.com/BarimKenzema) | Shamshama | Iran | 5,165 |
 
 ## Followers
 

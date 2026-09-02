@@ -4,21 +4,21 @@ Indexed users: 3
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/heard_island_and_mcdonald_islands.md) |
 | Total Contributions | [Open](../total_contributions/heard_island_and_mcdonald_islands.md) |
+| Public Contributions | [Open](../public_contributions/heard_island_and_mcdonald_islands.md) |
 | Followers | [Open](../followers/heard_island_and_mcdonald_islands.md) |
 
-## Public Contributions
+## Total Contributions
 
-| # | User | Name | Location | Public Contributions |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [CoderRoyale](https://github.com/CoderRoyale) | Bernard Chang | Heard Island and McDonald Islands | 12 |
 | 2 | [zero-width-space](https://github.com/zero-width-space) | zwsp | Heard Island and McDonald Islands | 3 |
 | 3 | [Augenstern62](https://github.com/Augenstern62) | Lucas | 934 ,Walter Estates ,Cristland ,New York ,Heard Island and McDonald Islands | 0 |
 
-## Total Contributions
+## Public Contributions
 
-| # | User | Name | Location | Total Contributions |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [CoderRoyale](https://github.com/CoderRoyale) | Bernard Chang | Heard Island and McDonald Islands | 12 |
 | 2 | [zero-width-space](https://github.com/zero-width-space) | zwsp | Heard Island and McDonald Islands | 3 |

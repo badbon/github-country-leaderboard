@@ -4,34 +4,9 @@ Indexed users: 124
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/suriname.md) |
 | Total Contributions | [Open](../total_contributions/suriname.md) |
+| Public Contributions | [Open](../public_contributions/suriname.md) |
 | Followers | [Open](../followers/suriname.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 3,008 |
-| 2 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 765 |
-| 3 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 484 |
-| 4 | [devbravo](https://github.com/devbravo) | Diego Sabajo | Paramaribo, Suriname | 373 |
-| 5 | [JustinDouglas16](https://github.com/JustinDouglas16) | Justin Douglas | Paramaribo | 251 |
-| 6 | [lordsmg21](https://github.com/lordsmg21) | LordSMG | Paramaribo | 234 |
-| 7 | [DeviousSiddy](https://github.com/DeviousSiddy) |  | Suriname | 209 |
-| 8 | [Fuseteam](https://github.com/Fuseteam) | Rahammetoela Toekiman | Paramaribo, Suriname | 148 |
-| 9 | [ShawnMeo](https://github.com/ShawnMeo) | Shawn | Suriname | 127 |
-| 10 | [Nikhcodes](https://github.com/Nikhcodes) | Nikhcodes | Paramaribo | 110 |
-| 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 96 |
-| 12 | [Arnvvch](https://github.com/Arnvvch) | Arnvvch | Paramaribo, Suriname | 77 |
-| 13 | [DustinVII](https://github.com/DustinVII) |  | Suriname | 76 |
-| 14 | [FrostiSR](https://github.com/FrostiSR) | Daniel dos Ramos | Paramaribo, Suriname | 74 |
-| 15 | [shenayasitaldien-creator](https://github.com/shenayasitaldien-creator) | papaya | suriname | 74 |
-| 16 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 68 |
-| 17 | [99syukhi](https://github.com/99syukhi) | Jo-Melly Amatbahrowi | Suriname | 63 |
-| 18 | [muskaanm4](https://github.com/muskaanm4) | Muskaan Mahabier | Suriname, Paramaribo | 63 |
-| 19 | [nathaniel123x3rd](https://github.com/nathaniel123x3rd) | Nathanielx3rd | Paramaribo, Suriname | 60 |
-| 20 | [stefblokdijk](https://github.com/stefblokdijk) | Stef Blokdijk | Suriname | 55 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 124
 | 18 | [DustinVII](https://github.com/DustinVII) |  | Suriname | 382 |
 | 19 | [girish-io](https://github.com/girish-io) | Girish Oemrawsingh | Paramaribo, Suriname | 380 |
 | 20 | [marvin-grunberg](https://github.com/marvin-grunberg) | Marvin Grunberg | Suriname, Paramaribo | 379 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 3,008 |
+| 2 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 765 |
+| 3 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 484 |
+| 4 | [devbravo](https://github.com/devbravo) | Diego Sabajo | Paramaribo, Suriname | 373 |
+| 5 | [JustinDouglas16](https://github.com/JustinDouglas16) | Justin Douglas | Paramaribo | 251 |
+| 6 | [lordsmg21](https://github.com/lordsmg21) | LordSMG | Paramaribo | 234 |
+| 7 | [DeviousSiddy](https://github.com/DeviousSiddy) |  | Suriname | 209 |
+| 8 | [Fuseteam](https://github.com/Fuseteam) | Rahammetoela Toekiman | Paramaribo, Suriname | 148 |
+| 9 | [ShawnMeo](https://github.com/ShawnMeo) | Shawn | Suriname | 127 |
+| 10 | [Nikhcodes](https://github.com/Nikhcodes) | Nikhcodes | Paramaribo | 110 |
+| 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 96 |
+| 12 | [Arnvvch](https://github.com/Arnvvch) | Arnvvch | Paramaribo, Suriname | 77 |
+| 13 | [DustinVII](https://github.com/DustinVII) |  | Suriname | 76 |
+| 14 | [FrostiSR](https://github.com/FrostiSR) | Daniel dos Ramos | Paramaribo, Suriname | 74 |
+| 15 | [shenayasitaldien-creator](https://github.com/shenayasitaldien-creator) | papaya | suriname | 74 |
+| 16 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 68 |
+| 17 | [99syukhi](https://github.com/99syukhi) | Jo-Melly Amatbahrowi | Suriname | 63 |
+| 18 | [muskaanm4](https://github.com/muskaanm4) | Muskaan Mahabier | Suriname, Paramaribo | 63 |
+| 19 | [nathaniel123x3rd](https://github.com/nathaniel123x3rd) | Nathanielx3rd | Paramaribo, Suriname | 60 |
+| 20 | [stefblokdijk](https://github.com/stefblokdijk) | Stef Blokdijk | Suriname | 55 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 7,208
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/tunisia.md) |
 | Total Contributions | [Open](../total_contributions/tunisia.md) |
+| Public Contributions | [Open](../public_contributions/tunisia.md) |
 | Followers | [Open](../followers/tunisia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [haythemgalelem](https://github.com/haythemgalelem) | HAGTIC | Tunisia | 516,063 |
-| 2 | [urshabib](https://github.com/urshabib) | Habib Lomma | Tunisia | 19,226 |
-| 3 | [thevpc](https://github.com/thevpc) | thevpc | Tunisia | 15,723 |
-| 4 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Tunis, Tunisia | 10,439 |
-| 5 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri | Tunisia | 8,231 |
-| 6 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  | Tunisia ,  Sousse ,  Msaken | 5,942 |
-| 7 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | Tunisia | 4,552 |
-| 8 | [azjezz](https://github.com/azjezz) | Seifeddine Gmati | Tunisia | 4,468 |
-| 9 | [dustin04x](https://github.com/dustin04x) | Skander Wali | Tunisia | 3,386 |
-| 10 | [mayouni](https://github.com/mayouni) | Mansour Ayouni | Tunisia | 3,153 |
-| 11 | [josephsenior](https://github.com/josephsenior) | Youssef Mejdi | Tunisia | 3,043 |
-| 12 | [nourhb](https://github.com/nourhb) | nourelhoudabouajila | tunis | 2,980 |
-| 13 | [marwndev](https://github.com/marwndev) | Marwan Aouida | Zarzis/Tunisia | 2,676 |
-| 14 | [akramBNA](https://github.com/akramBNA) | Akram | Tunisia | 2,438 |
-| 15 | [Hiviexd](https://github.com/Hiviexd) | Hivie | Tunisia | 2,312 |
-| 16 | [17med](https://github.com/17med) | ahmed achour | tunis | 2,281 |
-| 17 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 | Tunisia | 2,258 |
-| 18 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | Tunisia, Djerba | 2,118 |
-| 19 | [ifaouibadi](https://github.com/ifaouibadi) | Badi Ifaoui | Tunisia | 1,818 |
-| 20 | [sigmaSd](https://github.com/sigmaSd) | Bedis Nbiba | Tunisia | 1,749 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 7,208
 | 18 | [BouajilaHamza](https://github.com/BouajilaHamza) | Hamza Bouajila | Tunisia | 4,841 |
 | 19 | [taghoutikeyrus](https://github.com/taghoutikeyrus) | Tarek Taghouti | Tunisia | 4,779 |
 | 20 | [azjezz](https://github.com/azjezz) | Seifeddine Gmati | Tunisia | 4,770 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [haythemgalelem](https://github.com/haythemgalelem) | HAGTIC | Tunisia | 516,063 |
+| 2 | [urshabib](https://github.com/urshabib) | Habib Lomma | Tunisia | 19,226 |
+| 3 | [thevpc](https://github.com/thevpc) | thevpc | Tunisia | 15,723 |
+| 4 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Tunis, Tunisia | 10,439 |
+| 5 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri | Tunisia | 8,231 |
+| 6 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  | Tunisia ,  Sousse ,  Msaken | 5,942 |
+| 7 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | Tunisia | 4,552 |
+| 8 | [azjezz](https://github.com/azjezz) | Seifeddine Gmati | Tunisia | 4,468 |
+| 9 | [dustin04x](https://github.com/dustin04x) | Skander Wali | Tunisia | 3,386 |
+| 10 | [mayouni](https://github.com/mayouni) | Mansour Ayouni | Tunisia | 3,153 |
+| 11 | [josephsenior](https://github.com/josephsenior) | Youssef Mejdi | Tunisia | 3,043 |
+| 12 | [nourhb](https://github.com/nourhb) | nourelhoudabouajila | tunis | 2,980 |
+| 13 | [marwndev](https://github.com/marwndev) | Marwan Aouida | Zarzis/Tunisia | 2,676 |
+| 14 | [akramBNA](https://github.com/akramBNA) | Akram | Tunisia | 2,438 |
+| 15 | [Hiviexd](https://github.com/Hiviexd) | Hivie | Tunisia | 2,312 |
+| 16 | [17med](https://github.com/17med) | ahmed achour | tunis | 2,281 |
+| 17 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 | Tunisia | 2,258 |
+| 18 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | Tunisia, Djerba | 2,118 |
+| 19 | [ifaouibadi](https://github.com/ifaouibadi) | Badi Ifaoui | Tunisia | 1,818 |
+| 20 | [sigmaSd](https://github.com/sigmaSd) | Bedis Nbiba | Tunisia | 1,749 |
 
 ## Followers
 

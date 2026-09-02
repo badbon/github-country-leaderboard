@@ -4,25 +4,9 @@ Indexed users: 11
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/comoros.md) |
 | Total Contributions | [Open](../total_contributions/comoros.md) |
+| Public Contributions | [Open](../public_contributions/comoros.md) |
 | Followers | [Open](../followers/comoros.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Moroni | 390 |
-| 2 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 77 |
-| 3 | [abdi-momo](https://github.com/abdi-momo) | Abdillah Mohamed | Moroni | 8 |
-| 4 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Comoros  | 6 |
-| 5 | [slashedk](https://github.com/slashedk) | katchan | Comoros | 3 |
-| 6 | [SanyaKRY](https://github.com/SanyaKRY) | SanyaKRY | Comoros | 1 |
-| 7 | [beastcoder98](https://github.com/beastcoder98) | Charif Abdallah Yahaya Charif | Moroni  | 0 |
-| 8 | [clarkdowding](https://github.com/clarkdowding) | Clark Dowding | Moroni, Utah | 0 |
-| 9 | [linkhousni](https://github.com/linkhousni) | Housni Issouffa | Moroni - Comoros | 0 |
-| 10 | [maanrouf](https://github.com/maanrouf) | Maanrouf | Comoros | 0 |
-| 11 | [Yssoufa](https://github.com/Yssoufa) | THABITI YSSOUFA | Comoros | 0 |
 
 ## Total Contributions
 
@@ -37,6 +21,22 @@ Indexed users: 11
 | 7 | [slashedk](https://github.com/slashedk) | katchan | Comoros | 3 |
 | 8 | [SanyaKRY](https://github.com/SanyaKRY) | SanyaKRY | Comoros | 1 |
 | 9 | [beastcoder98](https://github.com/beastcoder98) | Charif Abdallah Yahaya Charif | Moroni  | 0 |
+| 10 | [maanrouf](https://github.com/maanrouf) | Maanrouf | Comoros | 0 |
+| 11 | [Yssoufa](https://github.com/Yssoufa) | THABITI YSSOUFA | Comoros | 0 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Moroni | 390 |
+| 2 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 77 |
+| 3 | [abdi-momo](https://github.com/abdi-momo) | Abdillah Mohamed | Moroni | 8 |
+| 4 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Comoros  | 6 |
+| 5 | [slashedk](https://github.com/slashedk) | katchan | Comoros | 3 |
+| 6 | [SanyaKRY](https://github.com/SanyaKRY) | SanyaKRY | Comoros | 1 |
+| 7 | [beastcoder98](https://github.com/beastcoder98) | Charif Abdallah Yahaya Charif | Moroni  | 0 |
+| 8 | [clarkdowding](https://github.com/clarkdowding) | Clark Dowding | Moroni, Utah | 0 |
+| 9 | [linkhousni](https://github.com/linkhousni) | Housni Issouffa | Moroni - Comoros | 0 |
 | 10 | [maanrouf](https://github.com/maanrouf) | Maanrouf | Comoros | 0 |
 | 11 | [Yssoufa](https://github.com/Yssoufa) | THABITI YSSOUFA | Comoros | 0 |
 

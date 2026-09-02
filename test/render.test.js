@@ -81,6 +81,8 @@ test("country hub uses category metric names instead of generic value", () => {
   assert.match(markdown, /\| # \| User \| Name \| Location \| Total Contributions \|/);
   assert.match(markdown, /\| # \| User \| Name \| Location \| Followers \|/);
   assert.doesNotMatch(markdown, /\| # \| User \| Name \| Location \| Value \|/);
+  assert.ok(markdown.indexOf("## Total Contributions") < markdown.indexOf("## Public Contributions"));
+  assert.ok(markdown.indexOf("| Total Contributions | [Open]") < markdown.indexOf("| Public Contributions | [Open]"));
 });
 
 function countryRows(markdown) {

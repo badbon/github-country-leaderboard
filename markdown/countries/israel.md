@@ -4,34 +4,9 @@ Indexed users: 12,441
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/israel.md) |
 | Total Contributions | [Open](../total_contributions/israel.md) |
+| Public Contributions | [Open](../public_contributions/israel.md) |
 | Followers | [Open](../followers/israel.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [guy-davidi](https://github.com/guy-davidi) | Guy Davidi | israel | 127,261 |
-| 2 | [oferchen](https://github.com/oferchen) | Ofer Chen | Israel | 21,715 |
-| 3 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay | Tel aviv, Israel | 15,886 |
-| 4 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Tel Aviv, Israel | 12,764 |
-| 5 | [arthurzam](https://github.com/arthurzam) | Arthur Zamarin | Israel | 10,773 |
-| 6 | [kdroidFilter](https://github.com/kdroidFilter) | Elie Gambache | Jerusalem Israel | 7,629 |
-| 7 | [ariannamethod](https://github.com/ariannamethod) | Arianna Method | Israel | 7,510 |
-| 8 | [kossoy](https://github.com/kossoy) | Oleg Kossoy | Israel | 7,229 |
-| 9 | [elie222](https://github.com/elie222) | Elie Steinbock | Tel Aviv, Israel | 7,033 |
-| 10 | [alonf](https://github.com/alonf) | Alon Fliess | Israel | 6,869 |
-| 11 | [veltzer](https://github.com/veltzer) | Mark Veltzer | Holon, Israel | 6,740 |
-| 12 | [EtanHey](https://github.com/EtanHey) | Etan Heyman | Rehovot, Israel | 6,251 |
-| 13 | [lirantal](https://github.com/lirantal) | Liran Tal | Tel Aviv, Israel | 6,163 |
-| 14 | [szabgab](https://github.com/szabgab) | Gábor Szabó | Modiin, Israel | 5,823 |
-| 15 | [RonenMars](https://github.com/RonenMars) | Ronen Mars | Israel | 5,228 |
-| 16 | [gkorland](https://github.com/gkorland) | Guy Korland | Israel | 5,206 |
-| 17 | [kerbelp](https://github.com/kerbelp) | Pavel Kerbel | Israel | 5,166 |
-| 18 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | Jerusalem Or Remote | 5,145 |
-| 19 | [dleshem](https://github.com/dleshem) | Danny Leshem | Tel Aviv, Israel | 5,080 |
-| 20 | [nimrodbusany](https://github.com/nimrodbusany) | nimrod busany | Israel | 4,818 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 12,441
 | 18 | [slep2-0](https://github.com/slep2-0) | slep | Israel | 12,822 |
 | 19 | [mariiio](https://github.com/mariiio) | Mario | Israel | 12,230 |
 | 20 | [Dave-London](https://github.com/Dave-London) | Dave London | Israel | 12,024 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [guy-davidi](https://github.com/guy-davidi) | Guy Davidi | israel | 127,261 |
+| 2 | [oferchen](https://github.com/oferchen) | Ofer Chen | Israel | 21,715 |
+| 3 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay | Tel aviv, Israel | 15,886 |
+| 4 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Tel Aviv, Israel | 12,764 |
+| 5 | [arthurzam](https://github.com/arthurzam) | Arthur Zamarin | Israel | 10,773 |
+| 6 | [kdroidFilter](https://github.com/kdroidFilter) | Elie Gambache | Jerusalem Israel | 7,629 |
+| 7 | [ariannamethod](https://github.com/ariannamethod) | Arianna Method | Israel | 7,510 |
+| 8 | [kossoy](https://github.com/kossoy) | Oleg Kossoy | Israel | 7,229 |
+| 9 | [elie222](https://github.com/elie222) | Elie Steinbock | Tel Aviv, Israel | 7,033 |
+| 10 | [alonf](https://github.com/alonf) | Alon Fliess | Israel | 6,869 |
+| 11 | [veltzer](https://github.com/veltzer) | Mark Veltzer | Holon, Israel | 6,740 |
+| 12 | [EtanHey](https://github.com/EtanHey) | Etan Heyman | Rehovot, Israel | 6,251 |
+| 13 | [lirantal](https://github.com/lirantal) | Liran Tal | Tel Aviv, Israel | 6,163 |
+| 14 | [szabgab](https://github.com/szabgab) | Gábor Szabó | Modiin, Israel | 5,823 |
+| 15 | [RonenMars](https://github.com/RonenMars) | Ronen Mars | Israel | 5,228 |
+| 16 | [gkorland](https://github.com/gkorland) | Guy Korland | Israel | 5,206 |
+| 17 | [kerbelp](https://github.com/kerbelp) | Pavel Kerbel | Israel | 5,166 |
+| 18 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | Jerusalem Or Remote | 5,145 |
+| 19 | [dleshem](https://github.com/dleshem) | Danny Leshem | Tel Aviv, Israel | 5,080 |
+| 20 | [nimrodbusany](https://github.com/nimrodbusany) | nimrod busany | Israel | 4,818 |
 
 ## Followers
 

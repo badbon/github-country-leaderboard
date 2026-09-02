@@ -4,34 +4,9 @@ Indexed users: 142
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/monaco.md) |
 | Total Contributions | [Open](../total_contributions/monaco.md) |
+| Public Contributions | [Open](../public_contributions/monaco.md) |
 | Followers | [Open](../followers/monaco.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 4,071 |
-| 2 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 2,181 |
-| 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 687 |
-| 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 617 |
-| 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 389 |
-| 6 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO | Monaco | 223 |
-| 7 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 212 |
-| 8 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 201 |
-| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 168 |
-| 10 | [linux-ur](https://github.com/linux-ur) | Linux.user | Monaco | 120 |
-| 11 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | Nice / Monaco / Sophia Antipolis | 111 |
-| 12 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering | Monaco | 106 |
-| 13 | [fedecarz](https://github.com/fedecarz) | fedecarz | Monaco | 99 |
-| 14 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 77 |
-| 15 | [DemianOrt](https://github.com/DemianOrt) | Demian Ortega | Monaco | 60 |
-| 16 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 54 |
-| 17 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 52 |
-| 18 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 52 |
-| 19 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 49 |
-| 20 | [Faooel](https://github.com/Faooel) | Benoit G | Monaco | 46 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 142
 | 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 267 |
 | 19 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO | Monaco | 223 |
 | 20 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 196 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 4,071 |
+| 2 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 2,181 |
+| 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 687 |
+| 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 617 |
+| 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 389 |
+| 6 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO | Monaco | 223 |
+| 7 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 212 |
+| 8 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 201 |
+| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 168 |
+| 10 | [linux-ur](https://github.com/linux-ur) | Linux.user | Monaco | 120 |
+| 11 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | Nice / Monaco / Sophia Antipolis | 111 |
+| 12 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering | Monaco | 106 |
+| 13 | [fedecarz](https://github.com/fedecarz) | fedecarz | Monaco | 99 |
+| 14 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 77 |
+| 15 | [DemianOrt](https://github.com/DemianOrt) | Demian Ortega | Monaco | 60 |
+| 16 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 54 |
+| 17 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 52 |
+| 18 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 52 |
+| 19 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 49 |
+| 20 | [Faooel](https://github.com/Faooel) | Benoit G | Monaco | 46 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 490
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/ivory_coast.md) |
 | Total Contributions | [Open](../total_contributions/ivory_coast.md) |
+| Public Contributions | [Open](../public_contributions/ivory_coast.md) |
 | Followers | [Open](../followers/ivory_coast.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 3,702 |
-| 2 | [siguici](https://github.com/siguici) | SIGUI Kessé Emmanuel | Abidjan, Ivory Coast | 901 |
-| 3 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 894 |
-| 4 | [MamadouKernel](https://github.com/MamadouKernel) | Konate Mamadou | Abidjan, Côte d'ivoire | 789 |
-| 5 | [codescooper](https://github.com/codescooper) | Code Scooper | Abidjan, Côte d'ivoire | 782 |
-| 6 | [moasko](https://github.com/moasko) | moasko.dev | Côte d'Ivoire | 742 |
-| 7 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo | Yamoussoukro, côte d'ivoire  | 698 |
-| 8 | [kjlinux](https://github.com/kjlinux) | Ghost | Yamoussoukro, Côte d'Ivoire | 594 |
-| 9 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 592 |
-| 10 | [MALICK-GITH](https://github.com/MALICK-GITH) | SOLITAIRE HACK | Ivory coast 🇨🇮 | 539 |
-| 11 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Côte d'Ivoire, Abidjan | 514 |
-| 12 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 461 |
-| 13 | [DPYTHA](https://github.com/DPYTHA) | Agoua Moua | Ivory Coast | 440 |
-| 14 | [zampou-code](https://github.com/zampou-code) | Zi Code | Abidjan, Ivory Coast | 386 |
-| 15 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 366 |
-| 16 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 323 |
-| 17 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | Abidjan, Côte-d'Ivoire | 290 |
-| 18 | [Ebedthan](https://github.com/Ebedthan) | Anicet Ebou | Yamoussoukro, Côte d'Ivoire | 260 |
-| 19 | [Oguidan](https://github.com/Oguidan) | Michael Oguidan | Abidjan, Côte d'Ivoire | 255 |
-| 20 | [alban-okoby](https://github.com/alban-okoby) | CerveauPlus | Abidjan, Côte d'Ivoire | 250 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 490
 | 18 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 3,371 |
 | 19 | [sovmulax](https://github.com/sovmulax) | Geoffroy Evane | Abidjan, Côte d'Ivoire | 3,156 |
 | 20 | [ulrichkouame](https://github.com/ulrichkouame) | KOUAME Ulrich Kouadio | Ivory Coast | 2,990 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 3,702 |
+| 2 | [siguici](https://github.com/siguici) | SIGUI Kessé Emmanuel | Abidjan, Ivory Coast | 901 |
+| 3 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 894 |
+| 4 | [MamadouKernel](https://github.com/MamadouKernel) | Konate Mamadou | Abidjan, Côte d'ivoire | 789 |
+| 5 | [codescooper](https://github.com/codescooper) | Code Scooper | Abidjan, Côte d'ivoire | 782 |
+| 6 | [moasko](https://github.com/moasko) | moasko.dev | Côte d'Ivoire | 742 |
+| 7 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo | Yamoussoukro, côte d'ivoire  | 698 |
+| 8 | [kjlinux](https://github.com/kjlinux) | Ghost | Yamoussoukro, Côte d'Ivoire | 594 |
+| 9 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 592 |
+| 10 | [MALICK-GITH](https://github.com/MALICK-GITH) | SOLITAIRE HACK | Ivory coast 🇨🇮 | 539 |
+| 11 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Côte d'Ivoire, Abidjan | 514 |
+| 12 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 461 |
+| 13 | [DPYTHA](https://github.com/DPYTHA) | Agoua Moua | Ivory Coast | 440 |
+| 14 | [zampou-code](https://github.com/zampou-code) | Zi Code | Abidjan, Ivory Coast | 386 |
+| 15 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 366 |
+| 16 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 323 |
+| 17 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | Abidjan, Côte-d'Ivoire | 290 |
+| 18 | [Ebedthan](https://github.com/Ebedthan) | Anicet Ebou | Yamoussoukro, Côte d'Ivoire | 260 |
+| 19 | [Oguidan](https://github.com/Oguidan) | Michael Oguidan | Abidjan, Côte d'Ivoire | 255 |
+| 20 | [alban-okoby](https://github.com/alban-okoby) | CerveauPlus | Abidjan, Côte d'Ivoire | 250 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 5,089
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/azerbaijan.md) |
 | Total Contributions | [Open](../total_contributions/azerbaijan.md) |
+| Public Contributions | [Open](../public_contributions/azerbaijan.md) |
 | Followers | [Open](../followers/azerbaijan.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [shahinpr](https://github.com/shahinpr) | Shahin Aliyev | Azerbaijan | 951,933 |
-| 2 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev | Baku | 6,504 |
-| 3 | [martian56](https://github.com/martian56) | Martian | Azerbaijan | 6,151 |
-| 4 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Azerbaijan, Baku | 5,901 |
-| 5 | [kenanmusali](https://github.com/kenanmusali) | Kenan | Baku, Azerbaijan | 3,994 |
-| 6 | [anaraydinli55](https://github.com/anaraydinli55) | Anar Aydinli | Azerbaijan | 3,764 |
-| 7 | [tagizadeorxan](https://github.com/tagizadeorxan) | Orkhan Taghizade | Baku, Azerbaijan | 3,668 |
-| 8 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam | Azerbaijan | 3,633 |
-| 9 | [BilgeGates](https://github.com/BilgeGates) | Khatai Huseynzada | Azerbaijan | 3,339 |
-| 10 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | Baku, Azerbaijan | 2,988 |
-| 11 | [Ramazan-ryu](https://github.com/Ramazan-ryu) | ramazan_mustafayev | Baku | 2,843 |
-| 12 | [agasefmemmedli](https://github.com/agasefmemmedli) | Agasef Memmedli | Azerbaijan , Baku . | 2,508 |
-| 13 | [Firdovsirz](https://github.com/Firdovsirz) | Firdovsi Rzaev | Baku | 2,290 |
-| 14 | [Aytac21](https://github.com/Aytac21) | Aytac Mehdizadə | Baku | 2,082 |
-| 15 | [Semedw](https://github.com/Semedw) | Samad Musazade | Azerbaijan | 2,033 |
-| 16 | [TheSarKhan](https://github.com/TheSarKhan) | SarKhann | Azerbaijan | 1,989 |
-| 17 | [omar07ibrahim](https://github.com/omar07ibrahim) | Omar Ibrahim  | Baku  | 1,983 |
-| 18 | [MuradAgamedov](https://github.com/MuradAgamedov) | Murad Agamedov | Baku, Azerbaijan | 1,897 |
-| 19 | [MuradIsazade777](https://github.com/MuradIsazade777) | Murad  | Baku, Azerbaijan | 1,820 |
-| 20 | [turalgasimov](https://github.com/turalgasimov) | Tural Gasimov | Azerbaijan, Baku | 1,622 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 5,089
 | 18 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov | Baku, Azerbaijan | 5,045 |
 | 19 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov | Baku, Azerbaijan | 4,767 |
 | 20 | [frddl](https://github.com/frddl) | Farid M. | Baku, Azerbaijan | 4,667 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [shahinpr](https://github.com/shahinpr) | Shahin Aliyev | Azerbaijan | 951,933 |
+| 2 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev | Baku | 6,504 |
+| 3 | [martian56](https://github.com/martian56) | Martian | Azerbaijan | 6,151 |
+| 4 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Azerbaijan, Baku | 5,901 |
+| 5 | [kenanmusali](https://github.com/kenanmusali) | Kenan | Baku, Azerbaijan | 3,994 |
+| 6 | [anaraydinli55](https://github.com/anaraydinli55) | Anar Aydinli | Azerbaijan | 3,764 |
+| 7 | [tagizadeorxan](https://github.com/tagizadeorxan) | Orkhan Taghizade | Baku, Azerbaijan | 3,668 |
+| 8 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam | Azerbaijan | 3,633 |
+| 9 | [BilgeGates](https://github.com/BilgeGates) | Khatai Huseynzada | Azerbaijan | 3,339 |
+| 10 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | Baku, Azerbaijan | 2,988 |
+| 11 | [Ramazan-ryu](https://github.com/Ramazan-ryu) | ramazan_mustafayev | Baku | 2,843 |
+| 12 | [agasefmemmedli](https://github.com/agasefmemmedli) | Agasef Memmedli | Azerbaijan , Baku . | 2,508 |
+| 13 | [Firdovsirz](https://github.com/Firdovsirz) | Firdovsi Rzaev | Baku | 2,290 |
+| 14 | [Aytac21](https://github.com/Aytac21) | Aytac Mehdizadə | Baku | 2,082 |
+| 15 | [Semedw](https://github.com/Semedw) | Samad Musazade | Azerbaijan | 2,033 |
+| 16 | [TheSarKhan](https://github.com/TheSarKhan) | SarKhann | Azerbaijan | 1,989 |
+| 17 | [omar07ibrahim](https://github.com/omar07ibrahim) | Omar Ibrahim  | Baku  | 1,983 |
+| 18 | [MuradAgamedov](https://github.com/MuradAgamedov) | Murad Agamedov | Baku, Azerbaijan | 1,897 |
+| 19 | [MuradIsazade777](https://github.com/MuradIsazade777) | Murad  | Baku, Azerbaijan | 1,820 |
+| 20 | [turalgasimov](https://github.com/turalgasimov) | Tural Gasimov | Azerbaijan, Baku | 1,622 |
 
 ## Followers
 

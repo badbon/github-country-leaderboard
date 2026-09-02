@@ -4,34 +4,9 @@ Indexed users: 21
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/solomon_islands.md) |
 | Total Contributions | [Open](../total_contributions/solomon_islands.md) |
+| Public Contributions | [Open](../public_contributions/solomon_islands.md) |
 | Followers | [Open](../followers/solomon_islands.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [b-tupiti](https://github.com/b-tupiti) | Brandon Ryan Tupiti | Honiara, Solomon Islands | 779 |
-| 2 | [gsaemane](https://github.com/gsaemane) | Geolynx Saemane | Solomon Islands | 321 |
-| 3 | [lininn](https://github.com/lininn) | Emerson Towne | 029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands | 218 |
-| 4 | [thisisjoshu](https://github.com/thisisjoshu) | Joshua Zobule | Solomon Islands | 131 |
-| 5 | [MilkMeat25](https://github.com/MilkMeat25) | Gary Grossmith | Lengakiki, Honiara, Solomon Islands | 48 |
-| 6 | [masachi](https://github.com/masachi) | YukinoshitaKyaru | Solomon Islands | 39 |
-| 7 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 34 |
-| 8 | [h-a-s-k](https://github.com/h-a-s-k) | Hask | Solomon Islands | 30 |
-| 9 | [Killcode-tech](https://github.com/Killcode-tech) | Killcode_DK  | Solomon islands 🇸🇧  | 14 |
-| 10 | [Sneethe](https://github.com/Sneethe) | Charles Tamzarian | Solomon Islands | 6 |
-| 11 | [mygodtnt](https://github.com/mygodtnt) |  | Solomon Islands | 2 |
-| 12 | [bryanrscott](https://github.com/bryanrscott) | Bryan | Honiara | 0 |
-| 13 | [fdd-eiu](https://github.com/fdd-eiu) |  | Honiara | 0 |
-| 14 | [filimoni](https://github.com/filimoni) | filimoni | Honiara | 0 |
-| 15 | [forum-fisheries-agency](https://github.com/forum-fisheries-agency) | FFA | Honiara, Solomon Islands | 0 |
-| 16 | [japhliet](https://github.com/japhliet) | Rouhanna.japhliet | Solomon Islands | 0 |
-| 17 | [lmasaea](https://github.com/lmasaea) | Letitia | Honiara | 0 |
-| 18 | [mangiBr](https://github.com/mangiBr) | Brian Mangi | Honiara, Solomon Islands | 0 |
-| 19 | [replica47](https://github.com/replica47) | Emmanuel Tora Jnr | Solomon Islands | 0 |
-| 20 | [seishimaybeC](https://github.com/seishimaybeC) | Saria | Solomon Islands | 0 |
 
 ## Total Contributions
 
@@ -51,6 +26,31 @@ Indexed users: 21
 | 12 | [mygodtnt](https://github.com/mygodtnt) |  | Solomon Islands | 2 |
 | 13 | [bryanrscott](https://github.com/bryanrscott) | Bryan | Honiara | 0 |
 | 14 | [fdd-eiu](https://github.com/fdd-eiu) |  | Honiara | 0 |
+| 15 | [forum-fisheries-agency](https://github.com/forum-fisheries-agency) | FFA | Honiara, Solomon Islands | 0 |
+| 16 | [japhliet](https://github.com/japhliet) | Rouhanna.japhliet | Solomon Islands | 0 |
+| 17 | [lmasaea](https://github.com/lmasaea) | Letitia | Honiara | 0 |
+| 18 | [mangiBr](https://github.com/mangiBr) | Brian Mangi | Honiara, Solomon Islands | 0 |
+| 19 | [replica47](https://github.com/replica47) | Emmanuel Tora Jnr | Solomon Islands | 0 |
+| 20 | [seishimaybeC](https://github.com/seishimaybeC) | Saria | Solomon Islands | 0 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [b-tupiti](https://github.com/b-tupiti) | Brandon Ryan Tupiti | Honiara, Solomon Islands | 779 |
+| 2 | [gsaemane](https://github.com/gsaemane) | Geolynx Saemane | Solomon Islands | 321 |
+| 3 | [lininn](https://github.com/lininn) | Emerson Towne | 029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands | 218 |
+| 4 | [thisisjoshu](https://github.com/thisisjoshu) | Joshua Zobule | Solomon Islands | 131 |
+| 5 | [MilkMeat25](https://github.com/MilkMeat25) | Gary Grossmith | Lengakiki, Honiara, Solomon Islands | 48 |
+| 6 | [masachi](https://github.com/masachi) | YukinoshitaKyaru | Solomon Islands | 39 |
+| 7 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 34 |
+| 8 | [h-a-s-k](https://github.com/h-a-s-k) | Hask | Solomon Islands | 30 |
+| 9 | [Killcode-tech](https://github.com/Killcode-tech) | Killcode_DK  | Solomon islands 🇸🇧  | 14 |
+| 10 | [Sneethe](https://github.com/Sneethe) | Charles Tamzarian | Solomon Islands | 6 |
+| 11 | [mygodtnt](https://github.com/mygodtnt) |  | Solomon Islands | 2 |
+| 12 | [bryanrscott](https://github.com/bryanrscott) | Bryan | Honiara | 0 |
+| 13 | [fdd-eiu](https://github.com/fdd-eiu) |  | Honiara | 0 |
+| 14 | [filimoni](https://github.com/filimoni) | filimoni | Honiara | 0 |
 | 15 | [forum-fisheries-agency](https://github.com/forum-fisheries-agency) | FFA | Honiara, Solomon Islands | 0 |
 | 16 | [japhliet](https://github.com/japhliet) | Rouhanna.japhliet | Solomon Islands | 0 |
 | 17 | [lmasaea](https://github.com/lmasaea) | Letitia | Honiara | 0 |

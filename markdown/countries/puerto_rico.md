@@ -4,34 +4,9 @@ Indexed users: 1,551
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/puerto_rico.md) |
 | Total Contributions | [Open](../total_contributions/puerto_rico.md) |
+| Public Contributions | [Open](../public_contributions/puerto_rico.md) |
 | Followers | [Open](../followers/puerto_rico.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | NiftyAndy | San Juan, PR 🇵🇷 | 5,196 |
-| 2 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 5,162 |
-| 3 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 4,936 |
-| 4 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 3,553 |
-| 5 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 3,109 |
-| 6 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,710 |
-| 7 | [justinhandley](https://github.com/justinhandley) | Justin Handley | Puerto Rico | 2,621 |
-| 8 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,615 |
-| 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,265 |
-| 10 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 2,094 |
-| 11 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 1,685 |
-| 12 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 1,337 |
-| 13 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Puerto Rico | 1,082 |
-| 14 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez | Puerto Rico | 1,060 |
-| 15 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,013 |
-| 16 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
-| 17 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos | Puerto Rico | 946 |
-| 18 | [dg203302](https://github.com/dg203302) | Diego García | San Juan Argentina | 937 |
-| 19 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | Puerto Rico | 858 |
-| 20 | [KarenPNavarro](https://github.com/KarenPNavarro) | Karen Navarro | Puerto Rico | 839 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,551
 | 18 | [n6617x](https://github.com/n6617x) | blk | Yabucoa, Puerto Rico, United States | 4,681 |
 | 19 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 4,557 |
 | 20 | [jar2333](https://github.com/jar2333) | José A. Ramos | San Juan, PR | 4,546 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | NiftyAndy | San Juan, PR 🇵🇷 | 5,196 |
+| 2 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 5,162 |
+| 3 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 4,936 |
+| 4 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 3,553 |
+| 5 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 3,109 |
+| 6 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,710 |
+| 7 | [justinhandley](https://github.com/justinhandley) | Justin Handley | Puerto Rico | 2,621 |
+| 8 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,615 |
+| 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,265 |
+| 10 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 2,094 |
+| 11 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 1,685 |
+| 12 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 1,337 |
+| 13 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Puerto Rico | 1,082 |
+| 14 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez | Puerto Rico | 1,060 |
+| 15 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,013 |
+| 16 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
+| 17 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos | Puerto Rico | 946 |
+| 18 | [dg203302](https://github.com/dg203302) | Diego García | San Juan Argentina | 937 |
+| 19 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | Puerto Rico | 858 |
+| 20 | [KarenPNavarro](https://github.com/KarenPNavarro) | Karen Navarro | Puerto Rico | 839 |
 
 ## Followers
 

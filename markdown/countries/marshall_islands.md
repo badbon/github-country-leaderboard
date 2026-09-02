@@ -4,17 +4,17 @@ Indexed users: 11
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/marshall_islands.md) |
 | Total Contributions | [Open](../total_contributions/marshall_islands.md) |
+| Public Contributions | [Open](../public_contributions/marshall_islands.md) |
 | Followers | [Open](../followers/marshall_islands.md) |
 
-## Public Contributions
+## Total Contributions
 
-| # | User | Name | Location | Public Contributions |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [baolood](https://github.com/baolood) | BAO LE DAO | Marshall Islands | 1,789 |
 | 2 | [Charles-Hello](https://github.com/Charles-Hello) | Charles | 10327 ,Reynolds Meadows ,West Ilana ,Wyoming ,Marshall Islands | 57 |
-| 3 | [7d00med](https://github.com/7d00med) |  | Marshall Islands | 0 |
+| 3 | [7d00med](https://github.com/7d00med) |  | Marshall Islands | 35 |
 | 4 | [EKSwitaj](https://github.com/EKSwitaj) | Elizabeth Kate Switaj | Majuro, Marshall Islands | 0 |
 | 5 | [hoh-bot](https://github.com/hoh-bot) | House of Hamsters | Marshall Islands | 0 |
 | 6 | [HP-FX-G](https://github.com/HP-FX-G) | HP Investment Trading & Gambling Strategies | 48FR+264 Delap-Uliga-Djarrit, Majuro Atoll, RMI | 0 |
@@ -24,13 +24,13 @@ Indexed users: 11
 | 10 | [P20-ORG](https://github.com/P20-ORG) | P20 | Marshall Islands  | 0 |
 | 11 | [zettahash-dev](https://github.com/zettahash-dev) | Zettahash | Marshall Islands | 0 |
 
-## Total Contributions
+## Public Contributions
 
-| # | User | Name | Location | Total Contributions |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [baolood](https://github.com/baolood) | BAO LE DAO | Marshall Islands | 1,789 |
 | 2 | [Charles-Hello](https://github.com/Charles-Hello) | Charles | 10327 ,Reynolds Meadows ,West Ilana ,Wyoming ,Marshall Islands | 57 |
-| 3 | [7d00med](https://github.com/7d00med) |  | Marshall Islands | 35 |
+| 3 | [7d00med](https://github.com/7d00med) |  | Marshall Islands | 0 |
 | 4 | [EKSwitaj](https://github.com/EKSwitaj) | Elizabeth Kate Switaj | Majuro, Marshall Islands | 0 |
 | 5 | [hoh-bot](https://github.com/hoh-bot) | House of Hamsters | Marshall Islands | 0 |
 | 6 | [HP-FX-G](https://github.com/HP-FX-G) | HP Investment Trading & Gambling Strategies | 48FR+264 Delap-Uliga-Djarrit, Majuro Atoll, RMI | 0 |

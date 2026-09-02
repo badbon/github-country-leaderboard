@@ -4,34 +4,9 @@ Indexed users: 348
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/mali.md) |
 | Total Contributions | [Open](../total_contributions/mali.md) |
+| Public Contributions | [Open](../public_contributions/mali.md) |
 | Followers | [Open](../followers/mali.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 5,749 |
-| 2 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,414 |
-| 3 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,174 |
-| 4 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,117 |
-| 5 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 635 |
-| 6 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 440 |
-| 7 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 423 |
-| 8 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 368 |
-| 9 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 302 |
-| 10 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse | Mali(Bamako) | 302 |
-| 11 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 283 |
-| 12 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 280 |
-| 13 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 263 |
-| 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
-| 15 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 179 |
-| 16 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 175 |
-| 17 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 157 |
-| 18 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Mali | 155 |
-| 19 | [DOUKING-95](https://github.com/DOUKING-95) | DOUKING-95 | Bamako,Mali | 140 |
-| 20 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 127 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 348
 | 18 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 1,231 |
 | 19 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,189 |
 | 20 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | Mali | 1,157 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 5,749 |
+| 2 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,414 |
+| 3 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,174 |
+| 4 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,117 |
+| 5 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 635 |
+| 6 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 440 |
+| 7 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 423 |
+| 8 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 368 |
+| 9 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 302 |
+| 10 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse | Mali(Bamako) | 302 |
+| 11 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 283 |
+| 12 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 280 |
+| 13 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 263 |
+| 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
+| 15 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 179 |
+| 16 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 175 |
+| 17 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 157 |
+| 18 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Mali | 155 |
+| 19 | [DOUKING-95](https://github.com/DOUKING-95) | DOUKING-95 | Bamako,Mali | 140 |
+| 20 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 127 |
 
 ## Followers
 

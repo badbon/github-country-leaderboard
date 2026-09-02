@@ -4,34 +4,9 @@ Indexed users: 28,446
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/portugal.md) |
 | Total Contributions | [Open](../total_contributions/portugal.md) |
+| Public Contributions | [Open](../public_contributions/portugal.md) |
 | Followers | [Open](../followers/portugal.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | Portugal | 57,673 |
-| 2 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Portugal | 50,784 |
-| 3 | [PRISMMesHFurY](https://github.com/PRISMMesHFurY) |  | Data, Portugal | 41,613 |
-| 4 | [Correia-jpv](https://github.com/Correia-jpv) | João Correia | Porto, Portugal | 38,027 |
-| 5 | [JarbasAl](https://github.com/JarbasAl) | JarbasAI | Portugal | 25,251 |
-| 6 | [rcarmo](https://github.com/rcarmo) | Rui Carmo | Lisbon, Portugal | 17,784 |
-| 7 | [Th0rgal](https://github.com/Th0rgal) | Thomas Marchand | Lisbon | 15,495 |
-| 8 | [thesyncim](https://github.com/thesyncim) | Marcelo Pires | Lisbon, PT | 15,388 |
-| 9 | [paolino](https://github.com/paolino) | Paolo Veronelli | sesimbra, portugal | 14,952 |
-| 10 | [andrepcg](https://github.com/andrepcg) | André Perdigão Gonçalves | Portugal | 14,458 |
-| 11 | [daniel3303](https://github.com/daniel3303) | Daniel Oliveira | Lisbon | 13,929 |
-| 12 | [pirica](https://github.com/pirica) | Nelson Salvador | Portugal | 12,648 |
-| 13 | [DiogoRibeiro7](https://github.com/DiogoRibeiro7) | Diogo Ribeiro | Portugal  | 10,898 |
-| 14 | [tsilva](https://github.com/tsilva) | Tiago Silva | Porto, Portugal | 9,060 |
-| 15 | [FlavioCFOliveira](https://github.com/FlavioCFOliveira) | Flávio CF Oliveira | Lisbon, Portugal | 8,710 |
-| 16 | [azevedodiogo](https://github.com/azevedodiogo) | Diogo Azevedo | Braga, Portugal | 8,507 |
-| 17 | [otaviojava](https://github.com/otaviojava) | Otávio Santana | Portugal | 8,427 |
-| 18 | [alexander-yevsyukov](https://github.com/alexander-yevsyukov) | Alexander Yevsyukov | Lisbon, Portugal | 8,332 |
-| 19 | [adolfousier](https://github.com/adolfousier) | Adolfo Usier  | Coimbra, Portugal | 7,765 |
-| 20 | [paruff](https://github.com/paruff) | Phil Ruff | Obidos, Portugal | 6,679 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 28,446
 | 18 | [Th0rgal](https://github.com/Th0rgal) | Thomas Marchand | Lisbon | 17,665 |
 | 19 | [Chaysen](https://github.com/Chaysen) | Chaysen | Lisbon | 17,626 |
 | 20 | [dev-ggomes](https://github.com/dev-ggomes) | Guilherme Gomes | Lisbon, Portugal | 17,324 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | Portugal | 57,673 |
+| 2 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Portugal | 50,784 |
+| 3 | [PRISMMesHFurY](https://github.com/PRISMMesHFurY) |  | Data, Portugal | 41,613 |
+| 4 | [Correia-jpv](https://github.com/Correia-jpv) | João Correia | Porto, Portugal | 38,027 |
+| 5 | [JarbasAl](https://github.com/JarbasAl) | JarbasAI | Portugal | 25,251 |
+| 6 | [rcarmo](https://github.com/rcarmo) | Rui Carmo | Lisbon, Portugal | 17,784 |
+| 7 | [Th0rgal](https://github.com/Th0rgal) | Thomas Marchand | Lisbon | 15,495 |
+| 8 | [thesyncim](https://github.com/thesyncim) | Marcelo Pires | Lisbon, PT | 15,388 |
+| 9 | [paolino](https://github.com/paolino) | Paolo Veronelli | sesimbra, portugal | 14,952 |
+| 10 | [andrepcg](https://github.com/andrepcg) | André Perdigão Gonçalves | Portugal | 14,458 |
+| 11 | [daniel3303](https://github.com/daniel3303) | Daniel Oliveira | Lisbon | 13,929 |
+| 12 | [pirica](https://github.com/pirica) | Nelson Salvador | Portugal | 12,648 |
+| 13 | [DiogoRibeiro7](https://github.com/DiogoRibeiro7) | Diogo Ribeiro | Portugal  | 10,898 |
+| 14 | [tsilva](https://github.com/tsilva) | Tiago Silva | Porto, Portugal | 9,060 |
+| 15 | [FlavioCFOliveira](https://github.com/FlavioCFOliveira) | Flávio CF Oliveira | Lisbon, Portugal | 8,710 |
+| 16 | [azevedodiogo](https://github.com/azevedodiogo) | Diogo Azevedo | Braga, Portugal | 8,507 |
+| 17 | [otaviojava](https://github.com/otaviojava) | Otávio Santana | Portugal | 8,427 |
+| 18 | [alexander-yevsyukov](https://github.com/alexander-yevsyukov) | Alexander Yevsyukov | Lisbon, Portugal | 8,332 |
+| 19 | [adolfousier](https://github.com/adolfousier) | Adolfo Usier  | Coimbra, Portugal | 7,765 |
+| 20 | [paruff](https://github.com/paruff) | Phil Ruff | Obidos, Portugal | 6,679 |
 
 ## Followers
 

@@ -4,13 +4,13 @@ Indexed users: 18
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/vanuatu.md) |
 | Total Contributions | [Open](../total_contributions/vanuatu.md) |
+| Public Contributions | [Open](../public_contributions/vanuatu.md) |
 | Followers | [Open](../followers/vanuatu.md) |
 
-## Public Contributions
+## Total Contributions
 
-| # | User | Name | Location | Public Contributions |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [jah-ky](https://github.com/jah-ky) | Jackson | Port Vila (Vanuatu) | 471 |
 | 2 | [alfnitacoder](https://github.com/alfnitacoder) | AlffieGeorge | Port Vila | 43 |
@@ -31,9 +31,9 @@ Indexed users: 18
 | 17 | [VanuatuParliament](https://github.com/VanuatuParliament) | National Parliament of Vanuatu | Port-Vila, Vanuatu | 0 |
 | 18 | [Xenrob](https://github.com/Xenrob) | Jackson Robert | Vanuatu | 0 |
 
-## Total Contributions
+## Public Contributions
 
-| # | User | Name | Location | Total Contributions |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jah-ky](https://github.com/jah-ky) | Jackson | Port Vila (Vanuatu) | 471 |
 | 2 | [alfnitacoder](https://github.com/alfnitacoder) | AlffieGeorge | Port Vila | 43 |

@@ -4,34 +4,9 @@ Indexed users: 736
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/bahrain.md) |
 | Total Contributions | [Open](../total_contributions/bahrain.md) |
+| Public Contributions | [Open](../public_contributions/bahrain.md) |
 | Followers | [Open](../followers/bahrain.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 4,304 |
-| 2 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 3,772 |
-| 3 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,158 |
-| 4 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 1,617 |
-| 5 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Bahrain | 1,528 |
-| 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 1,480 |
-| 7 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,259 |
-| 8 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 966 |
-| 9 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
-| 10 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | Bahrain | 843 |
-| 11 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 806 |
-| 12 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain | 738 |
-| 13 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi | Bahrain | 728 |
-| 14 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi | Bahrain | 726 |
-| 15 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 707 |
-| 16 | [sfoulad](https://github.com/sfoulad) | Foulad | Bahrain | 682 |
-| 17 | [falansari](https://github.com/falansari) | Fatima Alansari | Bahrain | 677 |
-| 18 | [RaghadAlesakfi](https://github.com/RaghadAlesakfi) | Raghad | Bahrain | 637 |
-| 19 | [zahraa-hubail](https://github.com/zahraa-hubail) | Zahraa | Bahrain | 632 |
-| 20 | [Shabani005](https://github.com/Shabani005) | Hasan Shabani | Bahrain | 618 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 736
 | 18 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 2,319 |
 | 19 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 2,299 |
 | 20 | [haroonabidawan](https://github.com/haroonabidawan) | Haroon Abid | Manama | 2,028 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 4,304 |
+| 2 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 3,772 |
+| 3 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,158 |
+| 4 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 1,617 |
+| 5 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Bahrain | 1,528 |
+| 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 1,480 |
+| 7 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,259 |
+| 8 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 966 |
+| 9 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
+| 10 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | Bahrain | 843 |
+| 11 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 806 |
+| 12 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain | 738 |
+| 13 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi | Bahrain | 728 |
+| 14 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi | Bahrain | 726 |
+| 15 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 707 |
+| 16 | [sfoulad](https://github.com/sfoulad) | Foulad | Bahrain | 682 |
+| 17 | [falansari](https://github.com/falansari) | Fatima Alansari | Bahrain | 677 |
+| 18 | [RaghadAlesakfi](https://github.com/RaghadAlesakfi) | Raghad | Bahrain | 637 |
+| 19 | [zahraa-hubail](https://github.com/zahraa-hubail) | Zahraa | Bahrain | 632 |
+| 20 | [Shabani005](https://github.com/Shabani005) | Hasan Shabani | Bahrain | 618 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 469
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/antarctica.md) |
 | Total Contributions | [Open](../total_contributions/antarctica.md) |
+| Public Contributions | [Open](../public_contributions/antarctica.md) |
 | Followers | [Open](../followers/antarctica.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,014 |
-| 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 2,833 |
-| 3 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,790 |
-| 4 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 1,953 |
-| 5 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,458 |
-| 6 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,399 |
-| 7 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,188 |
-| 8 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,173 |
-| 9 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube | Antarctica | 996 |
-| 10 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 791 |
-| 11 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 758 |
-| 12 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 675 |
-| 13 | [DrBrad](https://github.com/DrBrad) | Brad | Antarctica | 634 |
-| 14 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 579 |
-| 15 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 16 | [nicccce](https://github.com/nicccce) | Nick | Antarctica | 471 |
-| 17 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 469 |
-| 18 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
-| 19 | [kyriosaa](https://github.com/kyriosaa) | Kin | Antarctica | 405 |
-| 20 | [FreshPenguin112](https://github.com/FreshPenguin112) | FreshPenguin112 | Antarctica | 390 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 469
 | 18 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,613 |
 | 19 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 1,596 |
 | 20 | [whutddk](https://github.com/whutddk) | Ruige Lee | Antarctica | 1,580 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,014 |
+| 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 2,833 |
+| 3 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,790 |
+| 4 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 1,953 |
+| 5 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,458 |
+| 6 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,399 |
+| 7 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,188 |
+| 8 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,173 |
+| 9 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube | Antarctica | 996 |
+| 10 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 791 |
+| 11 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 758 |
+| 12 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 675 |
+| 13 | [DrBrad](https://github.com/DrBrad) | Brad | Antarctica | 634 |
+| 14 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 579 |
+| 15 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
+| 16 | [nicccce](https://github.com/nicccce) | Nick | Antarctica | 471 |
+| 17 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 469 |
+| 18 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
+| 19 | [kyriosaa](https://github.com/kyriosaa) | Kin | Antarctica | 405 |
+| 20 | [FreshPenguin112](https://github.com/FreshPenguin112) | FreshPenguin112 | Antarctica | 390 |
 
 ## Followers
 

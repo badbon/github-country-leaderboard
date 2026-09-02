@@ -4,34 +4,9 @@ Indexed users: 1,084
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/qatar.md) |
 | Total Contributions | [Open](../total_contributions/qatar.md) |
+| Public Contributions | [Open](../public_contributions/qatar.md) |
 | Followers | [Open](../followers/qatar.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib | Doha, Qatar | 2,808 |
-| 2 | [Bomussa](https://github.com/Bomussa) | Iyad Mousa | Qatar | 2,579 |
-| 3 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 2,003 |
-| 4 | [Tamoura](https://github.com/Tamoura) | Tamer | Qatar | 1,725 |
-| 5 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,496 |
-| 6 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,082 |
-| 7 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,034 |
-| 8 | [kashkoool](https://github.com/kashkoool) | louay kashkool | qatar | 999 |
-| 9 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Qatar | 953 |
-| 10 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Qatar | 925 |
-| 11 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 919 |
-| 12 | [mehmetakif-git](https://github.com/mehmetakif-git) |  | Qatar | 872 |
-| 13 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 828 |
-| 14 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag | Doha / Qatar | 792 |
-| 15 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 751 |
-| 16 | [prajwal918](https://github.com/prajwal918) | It's okayyy  | qatar doha | 721 |
-| 17 | [altyebv](https://github.com/altyebv) |  | Doha, Qatar  | 712 |
-| 18 | [elorm116](https://github.com/elorm116) | Anthony | Doha, Qatar | 707 |
-| 19 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed | Doha | 702 |
-| 20 | [Achyut2009](https://github.com/Achyut2009) | Achyut Paliwal | al wakrah, qatar | 688 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,084
 | 18 | [regizum](https://github.com/regizum) | Regina Nigmatullina | Doha | 3,230 |
 | 19 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 3,057 |
 | 20 | [meetnazreen](https://github.com/meetnazreen) | Naz | Doha, Qatar | 3,051 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib | Doha, Qatar | 2,808 |
+| 2 | [Bomussa](https://github.com/Bomussa) | Iyad Mousa | Qatar | 2,579 |
+| 3 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 2,003 |
+| 4 | [Tamoura](https://github.com/Tamoura) | Tamer | Qatar | 1,725 |
+| 5 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,496 |
+| 6 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,082 |
+| 7 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,034 |
+| 8 | [kashkoool](https://github.com/kashkoool) | louay kashkool | qatar | 999 |
+| 9 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Qatar | 953 |
+| 10 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Qatar | 925 |
+| 11 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 919 |
+| 12 | [mehmetakif-git](https://github.com/mehmetakif-git) |  | Qatar | 872 |
+| 13 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 828 |
+| 14 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag | Doha / Qatar | 792 |
+| 15 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 751 |
+| 16 | [prajwal918](https://github.com/prajwal918) | It's okayyy  | qatar doha | 721 |
+| 17 | [altyebv](https://github.com/altyebv) |  | Doha, Qatar  | 712 |
+| 18 | [elorm116](https://github.com/elorm116) | Anthony | Doha, Qatar | 707 |
+| 19 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed | Doha | 702 |
+| 20 | [Achyut2009](https://github.com/Achyut2009) | Achyut Paliwal | al wakrah, qatar | 688 |
 
 ## Followers
 

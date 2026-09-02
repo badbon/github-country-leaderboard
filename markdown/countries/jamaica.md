@@ -4,34 +4,9 @@ Indexed users: 1,289
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/jamaica.md) |
 | Total Contributions | [Open](../total_contributions/jamaica.md) |
+| Public Contributions | [Open](../public_contributions/jamaica.md) |
 | Followers | [Open](../followers/jamaica.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 10,398 |
-| 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,880 |
-| 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,845 |
-| 4 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 2,185 |
-| 5 | [shamar-morrison](https://github.com/shamar-morrison) | Shamar Morrison | Jamaica | 1,972 |
-| 6 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 1,594 |
-| 7 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,206 |
-| 8 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,188 |
-| 9 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,077 |
-| 10 | [BayBreezy](https://github.com/BayBreezy) | Behon Baker | Jamaica | 1,069 |
-| 11 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 976 |
-| 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 973 |
-| 13 | [brownsarahm](https://github.com/brownsarahm) | Sarah Brown | Kingston, RI | 826 |
-| 14 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 818 |
-| 15 | [ahamadey27](https://github.com/ahamadey27) | Alex Hamadey | Brooklyn/Kingston, NY | 799 |
-| 16 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 792 |
-| 17 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 748 |
-| 18 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 745 |
-| 19 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 721 |
-| 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 617 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,289
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 3,401 |
 | 19 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 2,983 |
 | 20 | [jenssogaard](https://github.com/jenssogaard) | Jens Soegaard | Kingston, New York | 2,982 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 10,398 |
+| 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,880 |
+| 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,845 |
+| 4 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 2,185 |
+| 5 | [shamar-morrison](https://github.com/shamar-morrison) | Shamar Morrison | Jamaica | 1,972 |
+| 6 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 1,594 |
+| 7 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,206 |
+| 8 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,188 |
+| 9 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,077 |
+| 10 | [BayBreezy](https://github.com/BayBreezy) | Behon Baker | Jamaica | 1,069 |
+| 11 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 976 |
+| 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 973 |
+| 13 | [brownsarahm](https://github.com/brownsarahm) | Sarah Brown | Kingston, RI | 826 |
+| 14 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 818 |
+| 15 | [ahamadey27](https://github.com/ahamadey27) | Alex Hamadey | Brooklyn/Kingston, NY | 799 |
+| 16 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 792 |
+| 17 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 748 |
+| 18 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 745 |
+| 19 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 721 |
+| 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 617 |
 
 ## Followers
 

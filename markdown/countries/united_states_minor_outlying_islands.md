@@ -4,18 +4,18 @@ Indexed users: 0
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/united_states_minor_outlying_islands.md) |
 | Total Contributions | [Open](../total_contributions/united_states_minor_outlying_islands.md) |
+| Public Contributions | [Open](../public_contributions/united_states_minor_outlying_islands.md) |
 | Followers | [Open](../followers/united_states_minor_outlying_islands.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
 
 ## Total Contributions
 
 | # | User | Name | Location | Total Contributions |
+|---:|---|---|---|---:|
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 
 ## Followers

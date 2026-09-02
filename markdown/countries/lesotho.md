@@ -4,34 +4,9 @@ Indexed users: 162
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/lesotho.md) |
 | Total Contributions | [Open](../total_contributions/lesotho.md) |
+| Public Contributions | [Open](../public_contributions/lesotho.md) |
 | Followers | [Open](../followers/lesotho.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 775 |
-| 2 | [md5dalton](https://github.com/md5dalton) | Ntate Mpiti  | Lesotho | 399 |
-| 3 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 388 |
-| 4 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 293 |
-| 5 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 190 |
-| 6 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 180 |
-| 7 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 156 |
-| 8 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 154 |
-| 9 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 148 |
-| 10 | [Mpho1314](https://github.com/Mpho1314) | Mpho Qaba | Maseru, Lesotho | 148 |
-| 11 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana | Upper Thamae Maseru | 133 |
-| 12 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 129 |
-| 13 | [Relebo1](https://github.com/Relebo1) | Relebohile Sekutlu | Maseru | 116 |
-| 14 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 107 |
-| 15 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | Lesotho | 97 |
-| 16 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello | Maseru, Lesotho | 87 |
-| 17 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Lesotho, maseru | 85 |
-| 18 | [Nghalu](https://github.com/Nghalu) | Makhala Lehloenya | Lesotho | 74 |
-| 19 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg | Lesotho, Maseru | 70 |
-| 20 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | Lesotho | 69 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 162
 | 18 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 266 |
 | 19 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana | Upper Thamae Maseru | 238 |
 | 20 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 223 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 775 |
+| 2 | [md5dalton](https://github.com/md5dalton) | Ntate Mpiti  | Lesotho | 399 |
+| 3 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 388 |
+| 4 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 293 |
+| 5 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 190 |
+| 6 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 180 |
+| 7 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 156 |
+| 8 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 154 |
+| 9 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 148 |
+| 10 | [Mpho1314](https://github.com/Mpho1314) | Mpho Qaba | Maseru, Lesotho | 148 |
+| 11 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana | Upper Thamae Maseru | 133 |
+| 12 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 129 |
+| 13 | [Relebo1](https://github.com/Relebo1) | Relebohile Sekutlu | Maseru | 116 |
+| 14 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 107 |
+| 15 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | Lesotho | 97 |
+| 16 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello | Maseru, Lesotho | 87 |
+| 17 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Lesotho, maseru | 85 |
+| 18 | [Nghalu](https://github.com/Nghalu) | Makhala Lehloenya | Lesotho | 74 |
+| 19 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg | Lesotho, Maseru | 70 |
+| 20 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | Lesotho | 69 |
 
 ## Followers
 

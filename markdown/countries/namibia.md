@@ -4,34 +4,9 @@ Indexed users: 475
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/namibia.md) |
 | Total Contributions | [Open](../total_contributions/namibia.md) |
+| Public Contributions | [Open](../public_contributions/namibia.md) |
 | Followers | [Open](../followers/namibia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 1,857 |
-| 2 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,051 |
-| 3 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 822 |
-| 4 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 628 |
-| 5 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 575 |
-| 6 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 478 |
-| 7 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden | Namibia | 416 |
-| 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 407 |
-| 9 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 384 |
-| 10 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 372 |
-| 11 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 329 |
-| 12 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 321 |
-| 13 | [LukeCloete](https://github.com/LukeCloete) | Luke Cloete | Windhoek, Namibia | 266 |
-| 14 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 240 |
-| 15 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung | Windhoek, Namibia | 237 |
-| 16 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 230 |
-| 17 | [sein-pr](https://github.com/sein-pr) | Sein Muwana | Namibia  | 229 |
-| 18 | [Jama-analyst](https://github.com/Jama-analyst) | Jama | Windhoek. Namibia | 219 |
-| 19 | [wiesnerbernard](https://github.com/wiesnerbernard) | Bernard Wiesner | Namibia | 219 |
-| 20 | [ThomasShikalepo](https://github.com/ThomasShikalepo) | Thomas shikalepo | Windhoek, Namibia | 215 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 475
 | 18 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 1,290 |
 | 19 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 1,289 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 1,143 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 1,857 |
+| 2 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,051 |
+| 3 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 822 |
+| 4 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 628 |
+| 5 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 575 |
+| 6 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 478 |
+| 7 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden | Namibia | 416 |
+| 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 407 |
+| 9 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 384 |
+| 10 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 372 |
+| 11 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 329 |
+| 12 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 321 |
+| 13 | [LukeCloete](https://github.com/LukeCloete) | Luke Cloete | Windhoek, Namibia | 266 |
+| 14 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 240 |
+| 15 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung | Windhoek, Namibia | 237 |
+| 16 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 230 |
+| 17 | [sein-pr](https://github.com/sein-pr) | Sein Muwana | Namibia  | 229 |
+| 18 | [Jama-analyst](https://github.com/Jama-analyst) | Jama | Windhoek. Namibia | 219 |
+| 19 | [wiesnerbernard](https://github.com/wiesnerbernard) | Bernard Wiesner | Namibia | 219 |
+| 20 | [ThomasShikalepo](https://github.com/ThomasShikalepo) | Thomas shikalepo | Windhoek, Namibia | 215 |
 
 ## Followers
 

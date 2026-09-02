@@ -4,34 +4,9 @@ Indexed users: 2,045
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/tanzania.md) |
 | Total Contributions | [Open](../total_contributions/tanzania.md) |
+| Public Contributions | [Open](../public_contributions/tanzania.md) |
 | Followers | [Open](../followers/tanzania.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy | Tanzania | 20,806 |
-| 2 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 11,853 |
-| 3 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 10,650 |
-| 4 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 6,132 |
-| 5 | [alobit21](https://github.com/alobit21) | mac | Dodoma-Tanzania | 4,806 |
-| 6 | [Lazackdevs](https://github.com/Lazackdevs) | Lazack_28 | dodoma | 4,316 |
-| 7 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 3,142 |
-| 8 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 | Dodoma - Tanzania | 2,851 |
-| 9 | [APKnation](https://github.com/APKnation) | apk | DODOMA -TANZANIA | 2,443 |
-| 10 | [Barakael](https://github.com/Barakael) | barakael | Dar-es-salaam, Tanzania | 2,202 |
-| 11 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 2,014 |
-| 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 2,003 |
-| 13 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,710 |
-| 14 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,606 |
-| 15 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
-| 16 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 1,538 |
-| 17 | [cozej4](https://github.com/cozej4) | Ilakoze Jumanne | Tanzania | 1,248 |
-| 18 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 1,238 |
-| 19 | [dadyutenga](https://github.com/dadyutenga) | Dadi Nasser Utenga | Tanzania | 1,149 |
-| 20 | [cephasgm](https://github.com/cephasgm) | CephasGM | Dar Es Salaam, Tanzania | 1,142 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 2,045
 | 18 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 6,287 |
 | 19 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 6,167 |
 | 20 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 6,132 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy | Tanzania | 20,806 |
+| 2 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 11,853 |
+| 3 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 10,650 |
+| 4 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 6,132 |
+| 5 | [alobit21](https://github.com/alobit21) | mac | Dodoma-Tanzania | 4,806 |
+| 6 | [Lazackdevs](https://github.com/Lazackdevs) | Lazack_28 | dodoma | 4,316 |
+| 7 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 3,142 |
+| 8 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 | Dodoma - Tanzania | 2,851 |
+| 9 | [APKnation](https://github.com/APKnation) | apk | DODOMA -TANZANIA | 2,443 |
+| 10 | [Barakael](https://github.com/Barakael) | barakael | Dar-es-salaam, Tanzania | 2,202 |
+| 11 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 2,014 |
+| 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 2,003 |
+| 13 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,710 |
+| 14 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,606 |
+| 15 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
+| 16 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 1,538 |
+| 17 | [cozej4](https://github.com/cozej4) | Ilakoze Jumanne | Tanzania | 1,248 |
+| 18 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 1,238 |
+| 19 | [dadyutenga](https://github.com/dadyutenga) | Dadi Nasser Utenga | Tanzania | 1,149 |
+| 20 | [cephasgm](https://github.com/cephasgm) | CephasGM | Dar Es Salaam, Tanzania | 1,142 |
 
 ## Followers
 

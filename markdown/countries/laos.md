@@ -4,34 +4,9 @@ Indexed users: 361
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/laos.md) |
 | Total Contributions | [Open](../total_contributions/laos.md) |
+| Public Contributions | [Open](../public_contributions/laos.md) |
 | Followers | [Open](../followers/laos.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 3,805 |
-| 2 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG | Vientiane Capital, Laos | 1,482 |
-| 3 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills | Vientiane, Laos | 1,028 |
-| 4 | [chanthavong](https://github.com/chanthavong) | Jan Jao | Vientiane, Laos | 696 |
-| 5 | [thongsao2020](https://github.com/thongsao2020) | thongsao-codecools | Vientiane, Laos | 519 |
-| 6 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack | Luangprabang, Laos | 480 |
-| 7 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly | Vientiane, Laos | 388 |
-| 8 | [iamlex01](https://github.com/iamlex01) | Alex Saelao | Vientiane, Laos | 322 |
-| 9 | [maxontorres](https://github.com/maxontorres) | Maxon Torres | Vientiane, Laos | 310 |
-| 10 | [KT246](https://github.com/KT246) | khamtay kongmanh | Vientiane, Laos | 271 |
-| 11 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 255 |
-| 12 | [ThaksinhCW3](https://github.com/ThaksinhCW3) | Thaksinh.785 | Laos | 200 |
-| 13 | [MagicSoftDev0717](https://github.com/MagicSoftDev0717) | oxp_tr125 | Vientiane, Laos | 192 |
-| 14 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | Vientiane, Laos | 177 |
-| 15 | [anoudeth](https://github.com/anoudeth) |  | Laos | 175 |
-| 16 | [hiramoto](https://github.com/hiramoto) | 永田彰 (Akira NAGATA) | Vientiane, Lao P.D.R. | 157 |
-| 17 | [aoypsk8](https://github.com/aoypsk8) | AOY PHONGSAKOUN MR | Vientiane, Laos | 147 |
-| 18 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin | Laos | 145 |
-| 19 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 142 |
-| 20 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | Laos | 127 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 361
 | 18 | [Anousack789](https://github.com/Anousack789) | Anousack | Vientiane | 1,072 |
 | 19 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack | Luangprabang, Laos | 927 |
 | 20 | [khamlar123](https://github.com/khamlar123) | Khamlar chanthavong | Vientiane, Laos | 905 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 3,805 |
+| 2 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG | Vientiane Capital, Laos | 1,482 |
+| 3 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills | Vientiane, Laos | 1,028 |
+| 4 | [chanthavong](https://github.com/chanthavong) | Jan Jao | Vientiane, Laos | 696 |
+| 5 | [thongsao2020](https://github.com/thongsao2020) | thongsao-codecools | Vientiane, Laos | 519 |
+| 6 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack | Luangprabang, Laos | 480 |
+| 7 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly | Vientiane, Laos | 388 |
+| 8 | [iamlex01](https://github.com/iamlex01) | Alex Saelao | Vientiane, Laos | 322 |
+| 9 | [maxontorres](https://github.com/maxontorres) | Maxon Torres | Vientiane, Laos | 310 |
+| 10 | [KT246](https://github.com/KT246) | khamtay kongmanh | Vientiane, Laos | 271 |
+| 11 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 255 |
+| 12 | [ThaksinhCW3](https://github.com/ThaksinhCW3) | Thaksinh.785 | Laos | 200 |
+| 13 | [MagicSoftDev0717](https://github.com/MagicSoftDev0717) | oxp_tr125 | Vientiane, Laos | 192 |
+| 14 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | Vientiane, Laos | 177 |
+| 15 | [anoudeth](https://github.com/anoudeth) |  | Laos | 175 |
+| 16 | [hiramoto](https://github.com/hiramoto) | 永田彰 (Akira NAGATA) | Vientiane, Lao P.D.R. | 157 |
+| 17 | [aoypsk8](https://github.com/aoypsk8) | AOY PHONGSAKOUN MR | Vientiane, Laos | 147 |
+| 18 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin | Laos | 145 |
+| 19 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 142 |
+| 20 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | Laos | 127 |
 
 ## Followers
 

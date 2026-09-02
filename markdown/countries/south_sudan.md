@@ -4,34 +4,9 @@ Indexed users: 137
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/south_sudan.md) |
 | Total Contributions | [Open](../total_contributions/south_sudan.md) |
+| Public Contributions | [Open](../public_contributions/south_sudan.md) |
 | Followers | [Open](../followers/south_sudan.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,738 |
-| 2 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 3,342 |
-| 3 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 2,263 |
-| 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 1,071 |
-| 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 588 |
-| 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 545 |
-| 7 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 489 |
-| 8 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 335 |
-| 9 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 307 |
-| 10 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 287 |
-| 11 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
-| 12 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 270 |
-| 13 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
-| 14 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 261 |
-| 15 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 258 |
-| 16 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 231 |
-| 17 | [Dhie-boop](https://github.com/Dhie-boop) | Dhieu David | Juba South Sudan | 229 |
-| 18 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 217 |
-| 19 | [Ibrahim-Lbib](https://github.com/Ibrahim-Lbib) | Ibrahim Labib | Juba, South - Sudan | 185 |
-| 20 | [mathyeoyel](https://github.com/mathyeoyel) | Mathew Yelose | Juba, South Sudan | 172 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 137
 | 18 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 | 19 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 270 |
 | 20 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 261 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,738 |
+| 2 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 3,342 |
+| 3 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 2,263 |
+| 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 1,071 |
+| 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 588 |
+| 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 545 |
+| 7 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 489 |
+| 8 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 335 |
+| 9 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 307 |
+| 10 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 287 |
+| 11 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
+| 12 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 270 |
+| 13 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
+| 14 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 261 |
+| 15 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 258 |
+| 16 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 231 |
+| 17 | [Dhie-boop](https://github.com/Dhie-boop) | Dhieu David | Juba South Sudan | 229 |
+| 18 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 217 |
+| 19 | [Ibrahim-Lbib](https://github.com/Ibrahim-Lbib) | Ibrahim Labib | Juba, South - Sudan | 185 |
+| 20 | [mathyeoyel](https://github.com/mathyeoyel) | Mathew Yelose | Juba, South Sudan | 172 |
 
 ## Followers
 

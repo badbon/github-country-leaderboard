@@ -4,34 +4,9 @@ Indexed users: 24,096
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/switzerland.md) |
 | Total Contributions | [Open](../total_contributions/switzerland.md) |
+| Public Contributions | [Open](../public_contributions/switzerland.md) |
 | Followers | [Open](../followers/switzerland.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [Sarmkadan](https://github.com/Sarmkadan) | Vladyslav Zaiets | Zurich, Switzerland | 43,833 |
-| 2 | [anulum](https://github.com/anulum) | Miroslav Šotek | Switzerland | 25,342 |
-| 3 | [berolinux](https://github.com/berolinux) | Bernhard Rosenkraenzer | Switzerland | 17,373 |
-| 4 | [fabaff](https://github.com/fabaff) | Fabian Affolter | Switzerland | 17,269 |
-| 5 | [livleh](https://github.com/livleh) | Livia Lehmann | Zurich, Switzerland | 14,799 |
-| 6 | [sthagen](https://github.com/sthagen) | Stefan Hagen | Switzerland | 13,630 |
-| 7 | [maonakamoto](https://github.com/maonakamoto) | G | Zurich, Switzerland | 13,000 |
-| 8 | [fjacquet](https://github.com/fjacquet) | Frederic Jacquet | Switzerland | 12,609 |
-| 9 | [JonnyBurger](https://github.com/JonnyBurger) | Jonny Burger | Zurich, Switzerland | 12,533 |
-| 10 | [simonheimlicher](https://github.com/simonheimlicher) | Simon Heimlicher | Zurich, Switzerland | 10,907 |
-| 11 | [ChrisGVE](https://github.com/ChrisGVE) | Christian C. Berclaz | Switzerland | 10,770 |
-| 12 | [EricBoittier](https://github.com/EricBoittier) | Eric Boittier | Basel, Switzerland | 10,443 |
-| 13 | [kzahel](https://github.com/kzahel) | Kyle Graehl | Zürich, Switzerland | 9,468 |
-| 14 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | Geneva, Switzerland | 8,411 |
-| 15 | [evolvedlight](https://github.com/evolvedlight) | Stephen Brown | Zurich, Switzerland | 8,394 |
-| 16 | [leeroybrun](https://github.com/leeroybrun) | Leeroy Brun | Lausanne (Switzerland) | 8,356 |
-| 17 | [barbalex](https://github.com/barbalex) | Alexander Gabriel | Switzerland | 8,298 |
-| 18 | [thodel](https://github.com/thodel) | Tobias Hodel | Bern | 8,196 |
-| 19 | [jorgsowa](https://github.com/jorgsowa) | Jorg Adam Sowa | Zurich, Switzerland | 8,079 |
-| 20 | [jonesbusy](https://github.com/jonesbusy) | Valentin Delaye | Lausanne, Switzerland | 8,053 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 24,096
 | 18 | [simonheimlicher](https://github.com/simonheimlicher) | Simon Heimlicher | Zurich, Switzerland | 16,831 |
 | 19 | [Simon-Busch](https://github.com/Simon-Busch) | Simon Busch | Switzerland | 16,302 |
 | 20 | [ChrisGVE](https://github.com/ChrisGVE) | Christian C. Berclaz | Switzerland | 15,798 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [Sarmkadan](https://github.com/Sarmkadan) | Vladyslav Zaiets | Zurich, Switzerland | 43,833 |
+| 2 | [anulum](https://github.com/anulum) | Miroslav Šotek | Switzerland | 25,342 |
+| 3 | [berolinux](https://github.com/berolinux) | Bernhard Rosenkraenzer | Switzerland | 17,373 |
+| 4 | [fabaff](https://github.com/fabaff) | Fabian Affolter | Switzerland | 17,269 |
+| 5 | [livleh](https://github.com/livleh) | Livia Lehmann | Zurich, Switzerland | 14,799 |
+| 6 | [sthagen](https://github.com/sthagen) | Stefan Hagen | Switzerland | 13,630 |
+| 7 | [maonakamoto](https://github.com/maonakamoto) | G | Zurich, Switzerland | 13,000 |
+| 8 | [fjacquet](https://github.com/fjacquet) | Frederic Jacquet | Switzerland | 12,609 |
+| 9 | [JonnyBurger](https://github.com/JonnyBurger) | Jonny Burger | Zurich, Switzerland | 12,533 |
+| 10 | [simonheimlicher](https://github.com/simonheimlicher) | Simon Heimlicher | Zurich, Switzerland | 10,907 |
+| 11 | [ChrisGVE](https://github.com/ChrisGVE) | Christian C. Berclaz | Switzerland | 10,770 |
+| 12 | [EricBoittier](https://github.com/EricBoittier) | Eric Boittier | Basel, Switzerland | 10,443 |
+| 13 | [kzahel](https://github.com/kzahel) | Kyle Graehl | Zürich, Switzerland | 9,468 |
+| 14 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | Geneva, Switzerland | 8,411 |
+| 15 | [evolvedlight](https://github.com/evolvedlight) | Stephen Brown | Zurich, Switzerland | 8,394 |
+| 16 | [leeroybrun](https://github.com/leeroybrun) | Leeroy Brun | Lausanne (Switzerland) | 8,356 |
+| 17 | [barbalex](https://github.com/barbalex) | Alexander Gabriel | Switzerland | 8,298 |
+| 18 | [thodel](https://github.com/thodel) | Tobias Hodel | Bern | 8,196 |
+| 19 | [jorgsowa](https://github.com/jorgsowa) | Jorg Adam Sowa | Zurich, Switzerland | 8,079 |
+| 20 | [jonesbusy](https://github.com/jonesbusy) | Valentin Delaye | Lausanne, Switzerland | 8,053 |
 
 ## Followers
 

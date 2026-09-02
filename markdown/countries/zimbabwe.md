@@ -4,34 +4,9 @@ Indexed users: 1,661
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/zimbabwe.md) |
 | Total Contributions | [Open](../total_contributions/zimbabwe.md) |
+| Public Contributions | [Open](../public_contributions/zimbabwe.md) |
 | Followers | [Open](../followers/zimbabwe.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [mhodieknowledge](https://github.com/mhodieknowledge) | Knowledge Mhodi | Bulawayo, Zimbabwe | 14,818 |
-| 2 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 7,148 |
-| 3 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 7,085 |
-| 4 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 4,484 |
-| 5 | [Mutombe](https://github.com/Mutombe) | Mutombe | Waterfalls Harare | 4,209 |
-| 6 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi , Zimbabwe | 2,773 |
-| 7 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 2,567 |
-| 8 | [VincentMugondora](https://github.com/VincentMugondora) | Vincent Mugondora | Mufakose, Harare, Zimbabwe | 2,263 |
-| 9 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Harare, Zimbabwe | 1,828 |
-| 10 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 1,714 |
-| 11 | [hvstechzw](https://github.com/hvstechzw) | Aetheris Innovative Enterprises | Zimbabwe | 1,670 |
-| 12 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Harare | 1,632 |
-| 13 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 1,424 |
-| 14 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine | Zimbabwe | 1,358 |
-| 15 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 1,295 |
-| 16 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,249 |
-| 17 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,199 |
-| 18 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,192 |
-| 19 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Bulawayo, Zimbabwe | 1,116 |
-| 20 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Zimbabwe, BYO | 1,099 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,661
 | 18 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi , Zimbabwe | 4,904 |
 | 19 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | Harare | 4,899 |
 | 20 | [tawandachiteshe](https://github.com/tawandachiteshe) | tawandachiteshe | Harare | 4,811 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [mhodieknowledge](https://github.com/mhodieknowledge) | Knowledge Mhodi | Bulawayo, Zimbabwe | 14,818 |
+| 2 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 7,148 |
+| 3 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 7,085 |
+| 4 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 4,484 |
+| 5 | [Mutombe](https://github.com/Mutombe) | Mutombe | Waterfalls Harare | 4,209 |
+| 6 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi , Zimbabwe | 2,773 |
+| 7 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 2,567 |
+| 8 | [VincentMugondora](https://github.com/VincentMugondora) | Vincent Mugondora | Mufakose, Harare, Zimbabwe | 2,263 |
+| 9 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Harare, Zimbabwe | 1,828 |
+| 10 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 1,714 |
+| 11 | [hvstechzw](https://github.com/hvstechzw) | Aetheris Innovative Enterprises | Zimbabwe | 1,670 |
+| 12 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Harare | 1,632 |
+| 13 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 1,424 |
+| 14 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine | Zimbabwe | 1,358 |
+| 15 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 1,295 |
+| 16 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,249 |
+| 17 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,199 |
+| 18 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,192 |
+| 19 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Bulawayo, Zimbabwe | 1,116 |
+| 20 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Zimbabwe, BYO | 1,099 |
 
 ## Followers
 

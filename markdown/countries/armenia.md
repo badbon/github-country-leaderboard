@@ -4,34 +4,9 @@ Indexed users: 4,052
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/armenia.md) |
 | Total Contributions | [Open](../total_contributions/armenia.md) |
+| Public Contributions | [Open](../public_contributions/armenia.md) |
 | Followers | [Open](../followers/armenia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [prazian](https://github.com/prazian) | Pooyan Razian | Yerevan, Armenia | 8,784 |
-| 2 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | Armenia | 6,995 |
-| 3 | [VaheSaroyan](https://github.com/VaheSaroyan) | Vahe Saroyan | Armenia | 5,278 |
-| 4 | [i582](https://github.com/i582) | Petr Makhnev | Yerevan, Armenia | 5,270 |
-| 5 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov | Yerevan, Armenia | 3,716 |
-| 6 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 3,618 |
-| 7 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 2,589 |
-| 8 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 2,578 |
-| 9 | [esceptico](https://github.com/esceptico) | Tim Ganiev | Yerevan, Armenia | 2,475 |
-| 10 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | Armenia | 2,013 |
-| 11 | [h3l10w0r1d](https://github.com/h3l10w0r1d) | Armen Ghazaryan | Yerevan, Armenia | 1,750 |
-| 12 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Armenia | 1,590 |
-| 13 | [asiryan](https://github.com/asiryan) | Valery Asiryan | Armenia, Yerevan | 1,577 |
-| 14 | [svyatov](https://github.com/svyatov) | Leonid Svyatov | Yerevan, Armenia | 1,545 |
-| 15 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan | Armenia | 1,513 |
-| 16 | [projkov](https://github.com/projkov) | Pavel Rozhkov | Yerevan, Armenia | 1,486 |
-| 17 | [artialex](https://github.com/artialex) | Alexey Selivanov | Yerevan, Armenia | 1,449 |
-| 18 | [armanist](https://github.com/armanist) | ArmaX | Armenia | 1,424 |
-| 19 | [arman-boyakhchyan](https://github.com/arman-boyakhchyan) | Arman Boyakhchyan | Yerevan, Armenia | 1,340 |
-| 20 | [Grantim](https://github.com/Grantim) | Grant Karapetyan | Yerevan | 1,327 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 4,052
 | 18 | [lanycrost](https://github.com/lanycrost) | Khachatur Ashotyan | Yerevan | 6,187 |
 | 19 | [hovakimyanarayik](https://github.com/hovakimyanarayik) | Arayik Hovakimyan | Yerevan, Armenia | 6,181 |
 | 20 | [khabaroff](https://github.com/khabaroff) | Sergey Khabaroff | Yerevan | 5,670 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [prazian](https://github.com/prazian) | Pooyan Razian | Yerevan, Armenia | 8,784 |
+| 2 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | Armenia | 6,995 |
+| 3 | [VaheSaroyan](https://github.com/VaheSaroyan) | Vahe Saroyan | Armenia | 5,278 |
+| 4 | [i582](https://github.com/i582) | Petr Makhnev | Yerevan, Armenia | 5,270 |
+| 5 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov | Yerevan, Armenia | 3,716 |
+| 6 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 3,618 |
+| 7 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 2,589 |
+| 8 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 2,578 |
+| 9 | [esceptico](https://github.com/esceptico) | Tim Ganiev | Yerevan, Armenia | 2,475 |
+| 10 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | Armenia | 2,013 |
+| 11 | [h3l10w0r1d](https://github.com/h3l10w0r1d) | Armen Ghazaryan | Yerevan, Armenia | 1,750 |
+| 12 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Armenia | 1,590 |
+| 13 | [asiryan](https://github.com/asiryan) | Valery Asiryan | Armenia, Yerevan | 1,577 |
+| 14 | [svyatov](https://github.com/svyatov) | Leonid Svyatov | Yerevan, Armenia | 1,545 |
+| 15 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan | Armenia | 1,513 |
+| 16 | [projkov](https://github.com/projkov) | Pavel Rozhkov | Yerevan, Armenia | 1,486 |
+| 17 | [artialex](https://github.com/artialex) | Alexey Selivanov | Yerevan, Armenia | 1,449 |
+| 18 | [armanist](https://github.com/armanist) | ArmaX | Armenia | 1,424 |
+| 19 | [arman-boyakhchyan](https://github.com/arman-boyakhchyan) | Arman Boyakhchyan | Yerevan, Armenia | 1,340 |
+| 20 | [Grantim](https://github.com/Grantim) | Grant Karapetyan | Yerevan | 1,327 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 18,259
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/austria.md) |
 | Total Contributions | [Open](../total_contributions/austria.md) |
+| Public Contributions | [Open](../public_contributions/austria.md) |
 | Followers | [Open](../followers/austria.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [krystophny](https://github.com/krystophny) | Christopher Albert | Graz, Austria | 31,948 |
-| 2 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | Salzburg, Austria | 16,519 |
-| 3 | [EHotwagner](https://github.com/EHotwagner) |  | Vienna | 11,937 |
-| 4 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker | Linz, Austria | 11,633 |
-| 5 | [plengauer](https://github.com/plengauer) | Philipp Lengauer | Austria | 11,122 |
-| 6 | [nerolation](https://github.com/nerolation) | Toni Wahrstätter | Austria | 10,313 |
-| 7 | [mcm1957](https://github.com/mcm1957) | Martin M. | Vienna, Austria | 10,062 |
-| 8 | [rmayr](https://github.com/rmayr) | René Mayrhofer | Austria | 10,006 |
-| 9 | [simeon-kepp](https://github.com/simeon-kepp) | rfi-irfos | Elisabetinergasse 25/Top 10/DG/ Graz, Austria, Skybase | 8,603 |
-| 10 | [phax](https://github.com/phax) | Philip Helger | Vienna, Austria | 8,386 |
-| 11 | [ANcpLua](https://github.com/ANcpLua) | Alexander Nachtmann | Vienna  | 8,316 |
-| 12 | [thisbavoreva](https://github.com/thisbavoreva) | Laurenz Stampfl | Vienna, Austria | 7,903 |
-| 13 | [unbraind](https://github.com/unbraind) | Steve Preu | Austria | 7,889 |
-| 14 | [Tuubblarheuert](https://github.com/Tuubblarheuert) | Laurenz Stampfl | Vienna, Austria | 7,111 |
-| 15 | [timkicker](https://github.com/timkicker) |  | Austria | 7,075 |
-| 16 | [mxssnx-creator](https://github.com/mxssnx-creator) | xssnet | Vienna | 6,922 |
-| 17 | [cenk1cenk2](https://github.com/cenk1cenk2) | Cenk Kılıç | Vienna, Austria | 6,696 |
-| 18 | [markus-barta](https://github.com/markus-barta) | Markus Barta | Graz, Austria | 6,686 |
-| 19 | [raulssorban](https://github.com/raulssorban) | Raul-Sorin Sorban | Braunau, Austria | 6,405 |
-| 20 | [Artaeon](https://github.com/Artaeon) | Raphael René Lugmayr | Austria | 6,048 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 18,259
 | 18 | [TueJon](https://github.com/TueJon) | Jonas Tüchler | Austria | 15,413 |
 | 19 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker | Linz, Austria | 14,978 |
 | 20 | [adlk](https://github.com/adlk) | Stefan Malzner | Vienna | 14,912 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [krystophny](https://github.com/krystophny) | Christopher Albert | Graz, Austria | 31,948 |
+| 2 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | Salzburg, Austria | 16,519 |
+| 3 | [EHotwagner](https://github.com/EHotwagner) |  | Vienna | 11,937 |
+| 4 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker | Linz, Austria | 11,633 |
+| 5 | [plengauer](https://github.com/plengauer) | Philipp Lengauer | Austria | 11,122 |
+| 6 | [nerolation](https://github.com/nerolation) | Toni Wahrstätter | Austria | 10,313 |
+| 7 | [mcm1957](https://github.com/mcm1957) | Martin M. | Vienna, Austria | 10,062 |
+| 8 | [rmayr](https://github.com/rmayr) | René Mayrhofer | Austria | 10,006 |
+| 9 | [simeon-kepp](https://github.com/simeon-kepp) | rfi-irfos | Elisabetinergasse 25/Top 10/DG/ Graz, Austria, Skybase | 8,603 |
+| 10 | [phax](https://github.com/phax) | Philip Helger | Vienna, Austria | 8,386 |
+| 11 | [ANcpLua](https://github.com/ANcpLua) | Alexander Nachtmann | Vienna  | 8,316 |
+| 12 | [thisbavoreva](https://github.com/thisbavoreva) | Laurenz Stampfl | Vienna, Austria | 7,903 |
+| 13 | [unbraind](https://github.com/unbraind) | Steve Preu | Austria | 7,889 |
+| 14 | [Tuubblarheuert](https://github.com/Tuubblarheuert) | Laurenz Stampfl | Vienna, Austria | 7,111 |
+| 15 | [timkicker](https://github.com/timkicker) |  | Austria | 7,075 |
+| 16 | [mxssnx-creator](https://github.com/mxssnx-creator) | xssnet | Vienna | 6,922 |
+| 17 | [cenk1cenk2](https://github.com/cenk1cenk2) | Cenk Kılıç | Vienna, Austria | 6,696 |
+| 18 | [markus-barta](https://github.com/markus-barta) | Markus Barta | Graz, Austria | 6,686 |
+| 19 | [raulssorban](https://github.com/raulssorban) | Raul-Sorin Sorban | Braunau, Austria | 6,405 |
+| 20 | [Artaeon](https://github.com/Artaeon) | Raphael René Lugmayr | Austria | 6,048 |
 
 ## Followers
 

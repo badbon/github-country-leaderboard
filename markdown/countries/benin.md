@@ -4,34 +4,9 @@ Indexed users: 476
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/benin.md) |
 | Total Contributions | [Open](../total_contributions/benin.md) |
+| Public Contributions | [Open](../public_contributions/benin.md) |
 | Followers | [Open](../followers/benin.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,558 |
-| 2 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | Abomey-Calavi, Benin | 6,861 |
-| 3 | [Crazyde](https://github.com/Crazyde) | ACHIDI Corneille | Cotonou, Benin | 2,435 |
-| 4 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,935 |
-| 5 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,766 |
-| 6 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée | Abomey-Calavi, Atlantique, Benin | 1,443 |
-| 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 1,229 |
-| 8 | [Hop-Syder](https://github.com/Hop-Syder) | ISMAEL CHRISTIAN DAOUDA ABASSI | Benin | 1,125 |
-| 9 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,120 |
-| 10 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 1,071 |
-| 11 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | Abomey-Calavi, Benin | 980 |
-| 12 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | Cotonou,Littoral, Benin | 970 |
-| 13 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 954 |
-| 14 | [Souraka229](https://github.com/Souraka229) | Souraka HAMIDA | Cotonou, Benin | 906 |
-| 15 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | Cotonou, Republic of Benin | 855 |
-| 16 | [silassare](https://github.com/silassare) | Emile Silas Sare | Porto-Novo, Benin | 830 |
-| 17 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 816 |
-| 18 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 686 |
-| 19 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Benin | 658 |
-| 20 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 620 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 476
 | 18 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,005 |
 | 19 | [Blooz231](https://github.com/Blooz231) | Blooz Angus | Benin | 2,993 |
 | 20 | [chaldrak](https://github.com/chaldrak) | Chaldrak DOKPA | Benin | 2,971 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,558 |
+| 2 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | Abomey-Calavi, Benin | 6,861 |
+| 3 | [Crazyde](https://github.com/Crazyde) | ACHIDI Corneille | Cotonou, Benin | 2,435 |
+| 4 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,935 |
+| 5 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,766 |
+| 6 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée | Abomey-Calavi, Atlantique, Benin | 1,443 |
+| 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 1,229 |
+| 8 | [Hop-Syder](https://github.com/Hop-Syder) | ISMAEL CHRISTIAN DAOUDA ABASSI | Benin | 1,125 |
+| 9 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,120 |
+| 10 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 1,071 |
+| 11 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | Abomey-Calavi, Benin | 980 |
+| 12 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | Cotonou,Littoral, Benin | 970 |
+| 13 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 954 |
+| 14 | [Souraka229](https://github.com/Souraka229) | Souraka HAMIDA | Cotonou, Benin | 906 |
+| 15 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | Cotonou, Republic of Benin | 855 |
+| 16 | [silassare](https://github.com/silassare) | Emile Silas Sare | Porto-Novo, Benin | 830 |
+| 17 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 816 |
+| 18 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 686 |
+| 19 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Benin | 658 |
+| 20 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 620 |
 
 ## Followers
 

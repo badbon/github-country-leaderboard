@@ -4,34 +4,9 @@ Indexed users: 802
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/kuwait.md) |
 | Total Contributions | [Open](../total_contributions/kuwait.md) |
+| Public Contributions | [Open](../public_contributions/kuwait.md) |
 | Followers | [Open](../followers/kuwait.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 4,685 |
-| 2 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,543 |
-| 3 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 1,941 |
-| 4 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 1,744 |
-| 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 1,606 |
-| 6 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,332 |
-| 7 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,277 |
-| 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,259 |
-| 9 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,192 |
-| 10 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi | Kuwait | 987 |
-| 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 907 |
-| 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 824 |
-| 13 | [amaher-developer](https://github.com/amaher-developer) | amaher.developer | Kuwait | 811 |
-| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 528 |
-| 15 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 527 |
-| 16 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 524 |
-| 17 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 521 |
-| 18 | [DataWithRUBEL](https://github.com/DataWithRUBEL) | MD RUBEL  | Kuwait CIty | 506 |
-| 19 | [jakariahossain12](https://github.com/jakariahossain12) | Md.Jakaria | kuwait | 447 |
-| 20 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | Kuwait | 422 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 802
 | 18 | [Fahad-Ha](https://github.com/Fahad-Ha) | Fahad Ahmad | Kuwait | 2,304 |
 | 19 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 2,291 |
 | 20 | [sabira-khan](https://github.com/sabira-khan) | Sabira Khan | Salmiya, Kuwait | 2,208 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 4,685 |
+| 2 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,543 |
+| 3 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 1,941 |
+| 4 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 1,744 |
+| 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 1,606 |
+| 6 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,332 |
+| 7 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,277 |
+| 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,259 |
+| 9 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,192 |
+| 10 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi | Kuwait | 987 |
+| 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 907 |
+| 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 824 |
+| 13 | [amaher-developer](https://github.com/amaher-developer) | amaher.developer | Kuwait | 811 |
+| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 528 |
+| 15 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 527 |
+| 16 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 524 |
+| 17 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 521 |
+| 18 | [DataWithRUBEL](https://github.com/DataWithRUBEL) | MD RUBEL  | Kuwait CIty | 506 |
+| 19 | [jakariahossain12](https://github.com/jakariahossain12) | Md.Jakaria | kuwait | 447 |
+| 20 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | Kuwait | 422 |
 
 ## Followers
 

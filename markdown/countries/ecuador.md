@@ -4,34 +4,9 @@ Indexed users: 4,906
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/ecuador.md) |
 | Total Contributions | [Open](../total_contributions/ecuador.md) |
+| Public Contributions | [Open](../public_contributions/ecuador.md) |
 | Followers | [Open](../followers/ecuador.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,397 |
-| 2 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 9,974 |
-| 3 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes | Guayaquil, Ecuador | 9,477 |
-| 4 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 6,973 |
-| 5 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 6,951 |
-| 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 4,462 |
-| 7 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | Quito, Ecuador | 3,730 |
-| 8 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 3,392 |
-| 9 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Quito, Ecuador | 3,341 |
-| 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | Quito, Ecuador | 2,443 |
-| 11 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia | Ecuador | 2,318 |
-| 12 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea | Ecuador | 2,032 |
-| 13 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula | Ecuador | 1,947 |
-| 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 1,927 |
-| 15 | [and27](https://github.com/and27) | Andrés Banda | Ecuador | 1,558 |
-| 16 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Cuenca, Ecuador | 1,525 |
-| 17 | [wachin](https://github.com/wachin) | Washington Indacochea Delgado | Ecuador, Manabí, Jipijapa | 1,519 |
-| 18 | [demianguzman](https://github.com/demianguzman) | Robinson Damian Malliquinga Guzman | Ecuador | 1,383 |
-| 19 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 | Ecuador | 1,352 |
-| 20 | [lriofrio915](https://github.com/lriofrio915) | luisRiofrio | Ecuador | 1,327 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 4,906
 | 18 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete | Quito, Ecuador | 5,051 |
 | 19 | [chey3002](https://github.com/chey3002) | Carlos Valladarez | Ecuador | 5,036 |
 | 20 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 4,983 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,397 |
+| 2 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 9,974 |
+| 3 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes | Guayaquil, Ecuador | 9,477 |
+| 4 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 6,973 |
+| 5 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 6,951 |
+| 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 4,462 |
+| 7 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | Quito, Ecuador | 3,730 |
+| 8 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 3,392 |
+| 9 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Quito, Ecuador | 3,341 |
+| 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | Quito, Ecuador | 2,443 |
+| 11 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia | Ecuador | 2,318 |
+| 12 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea | Ecuador | 2,032 |
+| 13 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula | Ecuador | 1,947 |
+| 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 1,927 |
+| 15 | [and27](https://github.com/and27) | Andrés Banda | Ecuador | 1,558 |
+| 16 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Cuenca, Ecuador | 1,525 |
+| 17 | [wachin](https://github.com/wachin) | Washington Indacochea Delgado | Ecuador, Manabí, Jipijapa | 1,519 |
+| 18 | [demianguzman](https://github.com/demianguzman) | Robinson Damian Malliquinga Guzman | Ecuador | 1,383 |
+| 19 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 | Ecuador | 1,352 |
+| 20 | [lriofrio915](https://github.com/lriofrio915) | luisRiofrio | Ecuador | 1,327 |
 
 ## Followers
 

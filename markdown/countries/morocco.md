@@ -4,34 +4,9 @@ Indexed users: 9,676
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/morocco.md) |
 | Total Contributions | [Open](../total_contributions/morocco.md) |
+| Public Contributions | [Open](../public_contributions/morocco.md) |
 | Followers | [Open](../followers/morocco.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [lfarssi](https://github.com/lfarssi) | MOHAMED EL FARSSI  | Morocco | 12,216 |
-| 2 | [mohamedsaidyekhlef-png](https://github.com/mohamedsaidyekhlef-png) | Mohamed Said Yekhlef | Morocco | 5,493 |
-| 3 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Casablanca, Morocco | 3,669 |
-| 4 | [Ismail-elkorchi](https://github.com/Ismail-elkorchi) | Ismail El Korchi | Morocco | 3,218 |
-| 5 | [yoeunes](https://github.com/yoeunes) | Younes ENNAJI | Marrakech, Morocco | 3,212 |
-| 6 | [mks-zakaria](https://github.com/mks-zakaria) | MKS~ZAK | Morocco | 2,968 |
-| 7 | [seuros](https://github.com/seuros) | Abdelkader Boudih | Tangier, Morocco | 2,917 |
-| 8 | [atam84](https://github.com/atam84) | Amine | Casablanca, Morocco | 2,819 |
-| 9 | [depsagency](https://github.com/depsagency) | DEPS | Morocco, Casablanca | 2,658 |
-| 10 | [ielbadisy](https://github.com/ielbadisy) | Imad EL BADISY  | Rabat (Morocco) | 2,574 |
-| 11 | [ImadSaddik](https://github.com/ImadSaddik) | Imad Saddik | Morocco | 2,543 |
-| 12 | [Hi1talib1World](https://github.com/Hi1talib1World) | hicham outaleb | Essaouira, Morocco | 2,431 |
-| 13 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | Morocco | 2,338 |
-| 14 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | Taroudant, Morocco | 2,293 |
-| 15 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | Morocco | 2,283 |
-| 16 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | Morocco | 2,276 |
-| 17 | [faiz-oussama](https://github.com/faiz-oussama) | Oussama Faiz | Casablanca, Morocco | 2,189 |
-| 18 | [abdarrhmanessetaoui](https://github.com/abdarrhmanessetaoui) | ABDERRAHMAN SETTAOUI | Marrakech, Morocco | 2,173 |
-| 19 | [aymanebouljam](https://github.com/aymanebouljam) | Aymane Bouljam | Morocco | 2,144 |
-| 20 | [alisqueandreliman](https://github.com/alisqueandreliman) | Walid BOUSSOU | Tetouan, Morocco. | 2,102 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 9,676
 | 18 | [aimranee](https://github.com/aimranee) | Aimrane Essakhi | Morocco | 6,318 |
 | 19 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 6,137 |
 | 20 | [seuros](https://github.com/seuros) | Abdelkader Boudih | Tangier, Morocco | 6,059 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [lfarssi](https://github.com/lfarssi) | MOHAMED EL FARSSI  | Morocco | 12,216 |
+| 2 | [mohamedsaidyekhlef-png](https://github.com/mohamedsaidyekhlef-png) | Mohamed Said Yekhlef | Morocco | 5,493 |
+| 3 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Casablanca, Morocco | 3,669 |
+| 4 | [Ismail-elkorchi](https://github.com/Ismail-elkorchi) | Ismail El Korchi | Morocco | 3,218 |
+| 5 | [yoeunes](https://github.com/yoeunes) | Younes ENNAJI | Marrakech, Morocco | 3,212 |
+| 6 | [mks-zakaria](https://github.com/mks-zakaria) | MKS~ZAK | Morocco | 2,968 |
+| 7 | [seuros](https://github.com/seuros) | Abdelkader Boudih | Tangier, Morocco | 2,917 |
+| 8 | [atam84](https://github.com/atam84) | Amine | Casablanca, Morocco | 2,819 |
+| 9 | [depsagency](https://github.com/depsagency) | DEPS | Morocco, Casablanca | 2,658 |
+| 10 | [ielbadisy](https://github.com/ielbadisy) | Imad EL BADISY  | Rabat (Morocco) | 2,574 |
+| 11 | [ImadSaddik](https://github.com/ImadSaddik) | Imad Saddik | Morocco | 2,543 |
+| 12 | [Hi1talib1World](https://github.com/Hi1talib1World) | hicham outaleb | Essaouira, Morocco | 2,431 |
+| 13 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | Morocco | 2,338 |
+| 14 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | Taroudant, Morocco | 2,293 |
+| 15 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | Morocco | 2,283 |
+| 16 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | Morocco | 2,276 |
+| 17 | [faiz-oussama](https://github.com/faiz-oussama) | Oussama Faiz | Casablanca, Morocco | 2,189 |
+| 18 | [abdarrhmanessetaoui](https://github.com/abdarrhmanessetaoui) | ABDERRAHMAN SETTAOUI | Marrakech, Morocco | 2,173 |
+| 19 | [aymanebouljam](https://github.com/aymanebouljam) | Aymane Bouljam | Morocco | 2,144 |
+| 20 | [alisqueandreliman](https://github.com/alisqueandreliman) | Walid BOUSSOU | Tetouan, Morocco. | 2,102 |
 
 ## Followers
 

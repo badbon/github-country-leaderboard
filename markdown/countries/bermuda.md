@@ -4,34 +4,9 @@ Indexed users: 918
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/bermuda.md) |
 | Total Contributions | [Open](../total_contributions/bermuda.md) |
+| Public Contributions | [Open](../public_contributions/bermuda.md) |
 | Followers | [Open](../followers/bermuda.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 6,507 |
-| 2 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,185 |
-| 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 2,032 |
-| 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 1,963 |
-| 5 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,374 |
-| 6 | [tadhg-moore](https://github.com/tadhg-moore) | Tadhg Moore | Hamilton, NZ | 1,343 |
-| 7 | [rezanmz](https://github.com/rezanmz) | Reza Namazi | Hamilton, ON | 1,327 |
-| 8 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,242 |
-| 9 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | Hamilton, ON | 1,160 |
-| 10 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel | Hamilton - ON | 1,007 |
-| 11 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 921 |
-| 12 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 895 |
-| 13 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 839 |
-| 14 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 796 |
-| 15 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 750 |
-| 16 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 743 |
-| 17 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 627 |
-| 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 614 |
-| 19 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
-| 20 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 601 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 918
 | 18 | [tadhg-moore](https://github.com/tadhg-moore) | Tadhg Moore | Hamilton, NZ | 3,229 |
 | 19 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 3,043 |
 | 20 | [silviooosilva](https://github.com/silviooosilva) | Sílvio Silva | Hamilton, Ontario | 2,982 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 6,507 |
+| 2 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,185 |
+| 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 2,032 |
+| 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 1,963 |
+| 5 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,374 |
+| 6 | [tadhg-moore](https://github.com/tadhg-moore) | Tadhg Moore | Hamilton, NZ | 1,343 |
+| 7 | [rezanmz](https://github.com/rezanmz) | Reza Namazi | Hamilton, ON | 1,327 |
+| 8 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,242 |
+| 9 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | Hamilton, ON | 1,160 |
+| 10 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel | Hamilton - ON | 1,007 |
+| 11 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 921 |
+| 12 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 895 |
+| 13 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 839 |
+| 14 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 796 |
+| 15 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 750 |
+| 16 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 743 |
+| 17 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 627 |
+| 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 614 |
+| 19 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
+| 20 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 601 |
 
 ## Followers
 

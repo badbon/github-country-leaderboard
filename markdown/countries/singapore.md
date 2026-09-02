@@ -4,34 +4,9 @@ Indexed users: 24,679
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/singapore.md) |
 | Total Contributions | [Open](../total_contributions/singapore.md) |
+| Public Contributions | [Open](../public_contributions/singapore.md) |
 | Followers | [Open](../followers/singapore.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [bcoderpro213](https://github.com/bcoderpro213) | RustDesk | Singapore | 82,585 |
-| 2 | [luvettadakara](https://github.com/luvettadakara) | Praise Ogunleye | Singapore | 63,115 |
-| 3 | [uniebusted](https://github.com/uniebusted) | RustDesk | Singapore | 53,115 |
-| 4 | [tbarlinhobtson](https://github.com/tbarlinhobtson) | RustDesk | Singapore | 53,113 |
-| 5 | [beonespecial112](https://github.com/beonespecial112) | Be One | Singapore | 53,110 |
-| 6 | [virgjlotomc](https://github.com/virgjlotomc) | RustDesk | Singapore | 52,582 |
-| 7 | [Vicpiousity](https://github.com/Vicpiousity) | RustDesk | Singapore | 52,202 |
-| 8 | [gaetanlegac](https://github.com/gaetanlegac) | Gaëtan Le Gac | Singapore | 45,865 |
-| 9 | [gongahkia](https://github.com/gongahkia) | Gabriel Ong Zhe Mian | Singapore | 19,141 |
-| 10 | [Tefx](https://github.com/Tefx) | Zhu Zhaomeng | Singapore | 18,503 |
-| 11 | [lupyuen](https://github.com/lupyuen) | Lup Yuen Lee | Singapore | 14,180 |
-| 12 | [Tzeusy](https://github.com/Tzeusy) | Tzeusy | Singapore | 14,157 |
-| 13 | [esperie](https://github.com/esperie) | Jack Hong | Singapore | 13,583 |
-| 14 | [maci0](https://github.com/maci0) | Marcel Wysocki | Singapore | 13,428 |
-| 15 | [AlyciaBHZ](https://github.com/AlyciaBHZ) | Lexa | Singapore | 11,751 |
-| 16 | [mparramont](https://github.com/mparramont) | Miguel Parramón Teixidó | Singapore | 11,675 |
-| 17 | [ecroxchain](https://github.com/ecroxchain) | Ecrox Chain | Singapore | 10,400 |
-| 18 | [automatosx](https://github.com/automatosx) | AutomatosX | Singapore | 9,078 |
-| 19 | [henry-luo](https://github.com/henry-luo) | Henry Luo | Singapore | 8,410 |
-| 20 | [ZhongRuoyu](https://github.com/ZhongRuoyu) | Ruoyu Zhong | Singapore | 8,147 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 24,679
 | 18 | [jaryl](https://github.com/jaryl) | Jaryl Sim | Singapore | 25,204 |
 | 19 | [Nasdin](https://github.com/Nasdin) | Nasrudin Bin Salim | Singapore | 24,626 |
 | 20 | [lekt9](https://github.com/lekt9) | lekt8 | Singapore | 22,195 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [bcoderpro213](https://github.com/bcoderpro213) | RustDesk | Singapore | 82,585 |
+| 2 | [luvettadakara](https://github.com/luvettadakara) | Praise Ogunleye | Singapore | 63,115 |
+| 3 | [uniebusted](https://github.com/uniebusted) | RustDesk | Singapore | 53,115 |
+| 4 | [tbarlinhobtson](https://github.com/tbarlinhobtson) | RustDesk | Singapore | 53,113 |
+| 5 | [beonespecial112](https://github.com/beonespecial112) | Be One | Singapore | 53,110 |
+| 6 | [virgjlotomc](https://github.com/virgjlotomc) | RustDesk | Singapore | 52,582 |
+| 7 | [Vicpiousity](https://github.com/Vicpiousity) | RustDesk | Singapore | 52,202 |
+| 8 | [gaetanlegac](https://github.com/gaetanlegac) | Gaëtan Le Gac | Singapore | 45,865 |
+| 9 | [gongahkia](https://github.com/gongahkia) | Gabriel Ong Zhe Mian | Singapore | 19,141 |
+| 10 | [Tefx](https://github.com/Tefx) | Zhu Zhaomeng | Singapore | 18,503 |
+| 11 | [lupyuen](https://github.com/lupyuen) | Lup Yuen Lee | Singapore | 14,180 |
+| 12 | [Tzeusy](https://github.com/Tzeusy) | Tzeusy | Singapore | 14,157 |
+| 13 | [esperie](https://github.com/esperie) | Jack Hong | Singapore | 13,583 |
+| 14 | [maci0](https://github.com/maci0) | Marcel Wysocki | Singapore | 13,428 |
+| 15 | [AlyciaBHZ](https://github.com/AlyciaBHZ) | Lexa | Singapore | 11,751 |
+| 16 | [mparramont](https://github.com/mparramont) | Miguel Parramón Teixidó | Singapore | 11,675 |
+| 17 | [ecroxchain](https://github.com/ecroxchain) | Ecrox Chain | Singapore | 10,400 |
+| 18 | [automatosx](https://github.com/automatosx) | AutomatosX | Singapore | 9,078 |
+| 19 | [henry-luo](https://github.com/henry-luo) | Henry Luo | Singapore | 8,410 |
+| 20 | [ZhongRuoyu](https://github.com/ZhongRuoyu) | Ruoyu Zhong | Singapore | 8,147 |
 
 ## Followers
 

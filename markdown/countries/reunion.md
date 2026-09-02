@@ -4,34 +4,9 @@ Indexed users: 215
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/reunion.md) |
 | Total Contributions | [Open](../total_contributions/reunion.md) |
+| Public Contributions | [Open](../public_contributions/reunion.md) |
 | Followers | [Open](../followers/reunion.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault | Réunion island  | 3,109 |
-| 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,584 |
-| 3 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,463 |
-| 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 1,109 |
-| 5 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,015 |
-| 6 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 749 |
-| 7 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | Reunion Island | 541 |
-| 8 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 515 |
-| 9 | [Karl97490](https://github.com/Karl97490) | Karl Pery-Potonie | Réunion | 486 |
-| 10 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 482 |
-| 11 | [W-D0n](https://github.com/W-D0n) | D0n | Reunion Island | 333 |
-| 12 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  93210, Saint-Denis | 276 |
-| 13 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL | Reunion Island | 267 |
-| 14 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE | Reunion island | 175 |
-| 15 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch | Reunion Island | 169 |
-| 16 | [Wes974](https://github.com/Wes974) | Ouwéis | Reunion Island | 160 |
-| 17 | [FredMesnard](https://github.com/FredMesnard) | Fred Mesnard | Reunion Island | 149 |
-| 18 | [Robin-Lune](https://github.com/Robin-Lune) |  | Réunion | 144 |
-| 19 | [laurent974](https://github.com/laurent974) | Laurent | Réunion island | 143 |
-| 20 | [r-fernandezz](https://github.com/r-fernandezz) | Romain Fernandez | Réunion island | 132 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 215
 | 18 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 1,109 |
 | 19 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,015 |
 | 20 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,011 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault | Réunion island  | 3,109 |
+| 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,584 |
+| 3 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,463 |
+| 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 1,109 |
+| 5 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,015 |
+| 6 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 749 |
+| 7 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | Reunion Island | 541 |
+| 8 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 515 |
+| 9 | [Karl97490](https://github.com/Karl97490) | Karl Pery-Potonie | Réunion | 486 |
+| 10 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 482 |
+| 11 | [W-D0n](https://github.com/W-D0n) | D0n | Reunion Island | 333 |
+| 12 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  93210, Saint-Denis | 276 |
+| 13 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL | Reunion Island | 267 |
+| 14 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE | Reunion island | 175 |
+| 15 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch | Reunion Island | 169 |
+| 16 | [Wes974](https://github.com/Wes974) | Ouwéis | Reunion Island | 160 |
+| 17 | [FredMesnard](https://github.com/FredMesnard) | Fred Mesnard | Reunion Island | 149 |
+| 18 | [Robin-Lune](https://github.com/Robin-Lune) |  | Réunion | 144 |
+| 19 | [laurent974](https://github.com/laurent974) | Laurent | Réunion island | 143 |
+| 20 | [r-fernandezz](https://github.com/r-fernandezz) | Romain Fernandez | Réunion island | 132 |
 
 ## Followers
 

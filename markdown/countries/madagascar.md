@@ -4,34 +4,9 @@ Indexed users: 1,921
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/madagascar.md) |
 | Total Contributions | [Open](../total_contributions/madagascar.md) |
+| Public Contributions | [Open](../public_contributions/madagascar.md) |
 | Followers | [Open](../followers/madagascar.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | Antananarivo, Madagascar | 6,347 |
-| 2 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 5,293 |
-| 3 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala | Madagascar | 3,862 |
-| 4 | [DavFilsDev](https://github.com/DavFilsDev) | F Miharisoa David Fils RATIANDRAIBE | Antananarivo Madagascar | 2,891 |
-| 5 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 2,868 |
-| 6 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 2,778 |
-| 7 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | Madagascar | 2,423 |
-| 8 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu | Madagascar | 2,189 |
-| 9 | [colombefioren](https://github.com/colombefioren) | COCO | Madagascar, Antananarivo | 1,951 |
-| 10 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 1,907 |
-| 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | Madagascar | 1,872 |
-| 12 | [RazanajoharyNyHasina](https://github.com/RazanajoharyNyHasina) | Ny Hasina | Antananarivo | 1,793 |
-| 13 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,771 |
-| 14 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,558 |
-| 15 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa | Antananarivo, Madagascar | 1,553 |
-| 16 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Antananarivo | 1,535 |
-| 17 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,465 |
-| 18 | [AmourRamanantsiresy](https://github.com/AmourRamanantsiresy) | RAMANANTSIRESY Amour Bien Aimé | Antananarivo | 1,460 |
-| 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina | Madagascar | 1,394 |
-| 20 | [tokimanana](https://github.com/tokimanana) | ANDRIAMBOLOLONA Tokimanana Samuel Sarobidy | Fianarantsoa, Madagascar | 1,236 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,921
 | 18 | [HarenaFiantso](https://github.com/HarenaFiantso) | Fiantso Harena | Antananarivo | 4,475 |
 | 19 | [rakotomandimby](https://github.com/rakotomandimby) | Mihamina Rakotomandimby | Antananarivo, Madagascar | 4,365 |
 | 20 | [Njakasoa](https://github.com/Njakasoa) | Njakasoa RASOLOHERY | Antananarivo, Madagascar | 4,150 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | Antananarivo, Madagascar | 6,347 |
+| 2 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 5,293 |
+| 3 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala | Madagascar | 3,862 |
+| 4 | [DavFilsDev](https://github.com/DavFilsDev) | F Miharisoa David Fils RATIANDRAIBE | Antananarivo Madagascar | 2,891 |
+| 5 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 2,868 |
+| 6 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 2,778 |
+| 7 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | Madagascar | 2,423 |
+| 8 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu | Madagascar | 2,189 |
+| 9 | [colombefioren](https://github.com/colombefioren) | COCO | Madagascar, Antananarivo | 1,951 |
+| 10 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 1,907 |
+| 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | Madagascar | 1,872 |
+| 12 | [RazanajoharyNyHasina](https://github.com/RazanajoharyNyHasina) | Ny Hasina | Antananarivo | 1,793 |
+| 13 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,771 |
+| 14 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,558 |
+| 15 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa | Antananarivo, Madagascar | 1,553 |
+| 16 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Antananarivo | 1,535 |
+| 17 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,465 |
+| 18 | [AmourRamanantsiresy](https://github.com/AmourRamanantsiresy) | RAMANANTSIRESY Amour Bien Aimé | Antananarivo | 1,460 |
+| 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina | Madagascar | 1,394 |
+| 20 | [tokimanana](https://github.com/tokimanana) | ANDRIAMBOLOLONA Tokimanana Samuel Sarobidy | Fianarantsoa, Madagascar | 1,236 |
 
 ## Followers
 

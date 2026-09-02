@@ -4,34 +4,9 @@ Indexed users: 1,349
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/zambia.md) |
 | Total Contributions | [Open](../total_contributions/zambia.md) |
+| Public Contributions | [Open](../public_contributions/zambia.md) |
 | Followers | [Open](../followers/zambia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia  | 9,789 |
-| 2 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 5,942 |
-| 3 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 2,416 |
-| 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 1,672 |
-| 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,553 |
-| 6 | [bsam2019](https://github.com/bsam2019) | Samson Banda | Lusaka. Zambia | 1,179 |
-| 7 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 1,148 |
-| 8 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,062 |
-| 9 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | Zambia | 956 |
-| 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 951 |
-| 11 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 896 |
-| 12 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 874 |
-| 13 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba | Kitwe, Zambia | 858 |
-| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 771 |
-| 15 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 649 |
-| 16 | [paritybits](https://github.com/paritybits) | Parity Chizela | Zambia | 638 |
-| 17 | [chandachewe10](https://github.com/chandachewe10) | Chanda Chewe | Zambia | 628 |
-| 18 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 598 |
-| 19 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 556 |
-| 20 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 525 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,349
 | 18 | [pumulo-mufalali](https://github.com/pumulo-mufalali) | Pumulo Mufalali | Lusaka, Zambia | 2,705 |
 | 19 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 2,691 |
 | 20 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Lusaka, Zambia | 2,631 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia  | 9,789 |
+| 2 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 5,942 |
+| 3 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 2,416 |
+| 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 1,672 |
+| 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,553 |
+| 6 | [bsam2019](https://github.com/bsam2019) | Samson Banda | Lusaka. Zambia | 1,179 |
+| 7 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 1,148 |
+| 8 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,062 |
+| 9 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | Zambia | 956 |
+| 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 951 |
+| 11 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 896 |
+| 12 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 874 |
+| 13 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba | Kitwe, Zambia | 858 |
+| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 771 |
+| 15 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 649 |
+| 16 | [paritybits](https://github.com/paritybits) | Parity Chizela | Zambia | 638 |
+| 17 | [chandachewe10](https://github.com/chandachewe10) | Chanda Chewe | Zambia | 628 |
+| 18 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 598 |
+| 19 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 556 |
+| 20 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 525 |
 
 ## Followers
 

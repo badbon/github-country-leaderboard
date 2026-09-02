@@ -4,13 +4,13 @@ Indexed users: 9
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/cook_islands.md) |
 | Total Contributions | [Open](../total_contributions/cook_islands.md) |
+| Public Contributions | [Open](../public_contributions/cook_islands.md) |
 | Followers | [Open](../followers/cook_islands.md) |
 
-## Public Contributions
+## Total Contributions
 
-| # | User | Name | Location | Public Contributions |
+| # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Dingozan9699](https://github.com/Dingozan9699) | Karen Peterson | Owenfort, Cook Islands | 135 |
 | 2 | [kortizol2](https://github.com/kortizol2) | Joshua Harris | North Megantown, Cook Islands | 135 |
@@ -22,9 +22,9 @@ Indexed users: 9
 | 8 | [batmansmaster](https://github.com/batmansmaster) |  | Cook Islands | 0 |
 | 9 | [TokenLabsLLC](https://github.com/TokenLabsLLC) | Token Labs LLC  | Cook islands | 0 |
 
-## Total Contributions
+## Public Contributions
 
-| # | User | Name | Location | Total Contributions |
+| # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Dingozan9699](https://github.com/Dingozan9699) | Karen Peterson | Owenfort, Cook Islands | 135 |
 | 2 | [kortizol2](https://github.com/kortizol2) | Joshua Harris | North Megantown, Cook Islands | 135 |

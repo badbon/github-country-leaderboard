@@ -4,34 +4,9 @@ Indexed users: 1,177
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/mozambique.md) |
 | Total Contributions | [Open](../total_contributions/mozambique.md) |
+| Public Contributions | [Open](../public_contributions/mozambique.md) |
 | Followers | [Open](../followers/mozambique.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 4,574 |
-| 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 3,882 |
-| 3 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | Mozambique | 2,702 |
-| 4 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 1,150 |
-| 5 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | Maputo | 1,090 |
-| 6 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 974 |
-| 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 936 |
-| 8 | [zerosatus](https://github.com/zerosatus) | zerosatus | Mozambique | 884 |
-| 9 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 693 |
-| 10 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 690 |
-| 11 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | Mozambique | 685 |
-| 12 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 673 |
-| 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 670 |
-| 14 | [augusto-mate](https://github.com/augusto-mate) | Augusto Mate | Maputo, Mozambique | 664 |
-| 15 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 664 |
-| 16 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 610 |
-| 17 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 564 |
-| 18 | [iamzjohn](https://github.com/iamzjohn) | zJohn | Maputo, Mozambique | 556 |
-| 19 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul | Mozambique | 504 |
-| 20 | [nishank23](https://github.com/nishank23) | Nishank Bansal | Maputo | 477 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,177
 | 18 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,328 |
 | 19 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,265 |
 | 20 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 2,086 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 4,574 |
+| 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 3,882 |
+| 3 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | Mozambique | 2,702 |
+| 4 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 1,150 |
+| 5 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | Maputo | 1,090 |
+| 6 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 974 |
+| 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 936 |
+| 8 | [zerosatus](https://github.com/zerosatus) | zerosatus | Mozambique | 884 |
+| 9 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 693 |
+| 10 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 690 |
+| 11 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | Mozambique | 685 |
+| 12 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 673 |
+| 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 670 |
+| 14 | [augusto-mate](https://github.com/augusto-mate) | Augusto Mate | Maputo, Mozambique | 664 |
+| 15 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 664 |
+| 16 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 610 |
+| 17 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 564 |
+| 18 | [iamzjohn](https://github.com/iamzjohn) | zJohn | Maputo, Mozambique | 556 |
+| 19 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul | Mozambique | 504 |
+| 20 | [nishank23](https://github.com/nishank23) | Nishank Bansal | Maputo | 477 |
 
 ## Followers
 

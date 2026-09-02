@@ -4,34 +4,9 @@ Indexed users: 19,304
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/denmark.md) |
 | Total Contributions | [Open](../total_contributions/denmark.md) |
+| Public Contributions | [Open](../public_contributions/denmark.md) |
 | Followers | [Open](../followers/denmark.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [fpihl](https://github.com/fpihl) | Felix | Denmark | 1,368,442 |
-| 2 | [kjuulh](https://github.com/kjuulh) | Kasper Juul Hermansen | Aarhus, Denmark | 108,572 |
-| 3 | [lassestilvang](https://github.com/lassestilvang) | Lasse Stilvang | Copenhagen, Denmark | 15,850 |
-| 4 | [casinoaftaler](https://github.com/casinoaftaler) | Jonas – Founder of Casinoaftaler.dk | Copenhagen, Denmark | 15,215 |
-| 5 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | Holstebro, Denmark | 13,102 |
-| 6 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | Denmark | 12,291 |
-| 7 | [jhnwllr](https://github.com/jhnwllr) | John Waller | Copenhagen | 9,491 |
-| 8 | [niksedk](https://github.com/niksedk) | Nikolaj Olsson | Denmark | 9,302 |
-| 9 | [floitsch](https://github.com/floitsch) | Florian Loitsch | Aarhus, Denmark | 9,212 |
-| 10 | [pmorch](https://github.com/pmorch) | Peter Valdemar Mørch | Copenhagen | 8,699 |
-| 11 | [luxass](https://github.com/luxass) | Lucas Nørgård | Aarhus, Denmark | 8,676 |
-| 12 | [christianhelle](https://github.com/christianhelle) | Christian Helle | Copenhagen, Denmark | 8,245 |
-| 13 | [SShadowS](https://github.com/SShadowS) | Torben Leth | Denmark | 8,242 |
-| 14 | [neoneye](https://github.com/neoneye) | Simon Strandgaard | Copenhagen - Denmark | 7,342 |
-| 15 | [lwjohnst86](https://github.com/lwjohnst86) | Luke W. Johnston | Copenhagen, Denmark | 7,062 |
-| 16 | [fbosch](https://github.com/fbosch) | Frederik Bosch | Copenhagen, Denmark | 7,002 |
-| 17 | [eea-jenkins](https://github.com/eea-jenkins) | EEA Jenkins | Kongens Nytorv 6, 1050, Copenhagen K, Denmark | 6,965 |
-| 18 | [kasperisager](https://github.com/kasperisager) | Kasper Isager Dalsgarð | Denmark | 6,503 |
-| 19 | [davsclaus](https://github.com/davsclaus) | Claus Ibsen | Denmark | 6,304 |
-| 20 | [saattrupdan](https://github.com/saattrupdan) | Dan Saattrup Smart | Copenhagen, Denmark | 6,137 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 19,304
 | 18 | [holgarsson](https://github.com/holgarsson) | Rói Holgarsson | Copenhagen, Denmark | 12,638 |
 | 19 | [Marti-S](https://github.com/Marti-S) | Marti | Denmark | 12,557 |
 | 20 | [JonasAbde](https://github.com/JonasAbde) | Jonas Abde | Denmark  | 12,441 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [fpihl](https://github.com/fpihl) | Felix | Denmark | 1,368,442 |
+| 2 | [kjuulh](https://github.com/kjuulh) | Kasper Juul Hermansen | Aarhus, Denmark | 108,572 |
+| 3 | [lassestilvang](https://github.com/lassestilvang) | Lasse Stilvang | Copenhagen, Denmark | 15,850 |
+| 4 | [casinoaftaler](https://github.com/casinoaftaler) | Jonas – Founder of Casinoaftaler.dk | Copenhagen, Denmark | 15,215 |
+| 5 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | Holstebro, Denmark | 13,102 |
+| 6 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | Denmark | 12,291 |
+| 7 | [jhnwllr](https://github.com/jhnwllr) | John Waller | Copenhagen | 9,491 |
+| 8 | [niksedk](https://github.com/niksedk) | Nikolaj Olsson | Denmark | 9,302 |
+| 9 | [floitsch](https://github.com/floitsch) | Florian Loitsch | Aarhus, Denmark | 9,212 |
+| 10 | [pmorch](https://github.com/pmorch) | Peter Valdemar Mørch | Copenhagen | 8,699 |
+| 11 | [luxass](https://github.com/luxass) | Lucas Nørgård | Aarhus, Denmark | 8,676 |
+| 12 | [christianhelle](https://github.com/christianhelle) | Christian Helle | Copenhagen, Denmark | 8,245 |
+| 13 | [SShadowS](https://github.com/SShadowS) | Torben Leth | Denmark | 8,242 |
+| 14 | [neoneye](https://github.com/neoneye) | Simon Strandgaard | Copenhagen - Denmark | 7,342 |
+| 15 | [lwjohnst86](https://github.com/lwjohnst86) | Luke W. Johnston | Copenhagen, Denmark | 7,062 |
+| 16 | [fbosch](https://github.com/fbosch) | Frederik Bosch | Copenhagen, Denmark | 7,002 |
+| 17 | [eea-jenkins](https://github.com/eea-jenkins) | EEA Jenkins | Kongens Nytorv 6, 1050, Copenhagen K, Denmark | 6,965 |
+| 18 | [kasperisager](https://github.com/kasperisager) | Kasper Isager Dalsgarð | Denmark | 6,503 |
+| 19 | [davsclaus](https://github.com/davsclaus) | Claus Ibsen | Denmark | 6,304 |
+| 20 | [saattrupdan](https://github.com/saattrupdan) | Dan Saattrup Smart | Copenhagen, Denmark | 6,137 |
 
 ## Followers
 

@@ -4,34 +4,9 @@ Indexed users: 1,269
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/honduras.md) |
 | Total Contributions | [Open](../total_contributions/honduras.md) |
+| Public Contributions | [Open](../public_contributions/honduras.md) |
 | Followers | [Open](../followers/honduras.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [eliac-d](https://github.com/eliac-d) | Eliac | Honduras | 3,546 |
-| 2 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 3,201 |
-| 3 | [naut21](https://github.com/naut21) | Naut | 🇭🇳 Honduras | 2,541 |
-| 4 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 2,003 |
-| 5 | [desivar](https://github.com/desivar) | Desire Delmy Vargas Tinoco | La Paz, La Paz, Honduras | 1,587 |
-| 6 | [MilanDroid](https://github.com/MilanDroid) | Antony Brenes | Honduras | 1,479 |
-| 7 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 1,466 |
-| 8 | [SevenDogsNTwoCats](https://github.com/SevenDogsNTwoCats) | AE9 | M.D.C, Honduras | 1,155 |
-| 9 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | Honduras, Cortes | 874 |
-| 10 | [HectorOC-e](https://github.com/HectorOC-e) | HectorOC-e | Marcala, Honduras | 828 |
-| 11 | [sjperalta](https://github.com/sjperalta) | Sergio J. Peralta | Honduras | 792 |
-| 12 | [ciriast](https://github.com/ciriast) | Carlos Irias | Honduras | 785 |
-| 13 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 770 |
-| 14 | [AnthonyAndino](https://github.com/AnthonyAndino) | Anthony Andino | Honduras | 757 |
-| 15 | [antoniolocandro](https://github.com/antoniolocandro) | Antonio Locandro | Honduras | 664 |
-| 16 | [dantonifa](https://github.com/dantonifa) | David Antonio Fajardo Ponce | San Pedro Sula, Honduras | 627 |
-| 17 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 626 |
-| 18 | [xEdwardP](https://github.com/xEdwardP) | Edward J. Pineda | Honduras | 622 |
-| 19 | [Kometha](https://github.com/Kometha) | Keneth Cubas | Honduras | 604 |
-| 20 | [Mar10HT](https://github.com/Mar10HT) | Mario Herrera | Honduras | 591 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 1,269
 | 18 | [eliac-d](https://github.com/eliac-d) | Eliac | Honduras | 3,546 |
 | 19 | [renanz](https://github.com/renanz) | Renan Alberto Zelaya | Honduras | 3,540 |
 | 20 | [andresumanzor](https://github.com/andresumanzor) | Andrés Umanzor | San Pedro Sula, Honduras | 3,520 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [eliac-d](https://github.com/eliac-d) | Eliac | Honduras | 3,546 |
+| 2 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 3,201 |
+| 3 | [naut21](https://github.com/naut21) | Naut | 🇭🇳 Honduras | 2,541 |
+| 4 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 2,003 |
+| 5 | [desivar](https://github.com/desivar) | Desire Delmy Vargas Tinoco | La Paz, La Paz, Honduras | 1,587 |
+| 6 | [MilanDroid](https://github.com/MilanDroid) | Antony Brenes | Honduras | 1,479 |
+| 7 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 1,466 |
+| 8 | [SevenDogsNTwoCats](https://github.com/SevenDogsNTwoCats) | AE9 | M.D.C, Honduras | 1,155 |
+| 9 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | Honduras, Cortes | 874 |
+| 10 | [HectorOC-e](https://github.com/HectorOC-e) | HectorOC-e | Marcala, Honduras | 828 |
+| 11 | [sjperalta](https://github.com/sjperalta) | Sergio J. Peralta | Honduras | 792 |
+| 12 | [ciriast](https://github.com/ciriast) | Carlos Irias | Honduras | 785 |
+| 13 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 770 |
+| 14 | [AnthonyAndino](https://github.com/AnthonyAndino) | Anthony Andino | Honduras | 757 |
+| 15 | [antoniolocandro](https://github.com/antoniolocandro) | Antonio Locandro | Honduras | 664 |
+| 16 | [dantonifa](https://github.com/dantonifa) | David Antonio Fajardo Ponce | San Pedro Sula, Honduras | 627 |
+| 17 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 626 |
+| 18 | [xEdwardP](https://github.com/xEdwardP) | Edward J. Pineda | Honduras | 622 |
+| 19 | [Kometha](https://github.com/Kometha) | Keneth Cubas | Honduras | 604 |
+| 20 | [Mar10HT](https://github.com/Mar10HT) | Mario Herrera | Honduras | 591 |
 
 ## Followers
 

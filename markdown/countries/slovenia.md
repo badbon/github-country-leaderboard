@@ -4,34 +4,9 @@ Indexed users: 3,117
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/slovenia.md) |
 | Total Contributions | [Open](../total_contributions/slovenia.md) |
+| Public Contributions | [Open](../public_contributions/slovenia.md) |
 | Followers | [Open](../followers/slovenia.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 9,114 |
-| 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 7,269 |
-| 3 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 6,261 |
-| 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 4,219 |
-| 5 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | Maribor, Slovenia | 3,979 |
-| 6 | [stefanb](https://github.com/stefanb) | Stefan Baebler | Ljubljana, Slovenia | 3,790 |
-| 7 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 3,035 |
-| 8 | [matejdro](https://github.com/matejdro) | Matej Drobnič | Slovenia | 2,825 |
-| 9 | [sysadminmatmoz](https://github.com/sysadminmatmoz) | Matjaz Mozetic | Slovenia | 2,715 |
-| 10 | [majazaloznik](https://github.com/majazaloznik) | maja | oxford--ljubljana | 2,581 |
-| 11 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,351 |
-| 12 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
-| 13 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,269 |
-| 14 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin | Slovenia | 2,035 |
-| 15 | [zigai](https://github.com/zigai) |  | Slovenia | 2,005 |
-| 16 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 1,951 |
-| 17 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz | Slovenia | 1,917 |
-| 18 | [alesurankar](https://github.com/alesurankar) | Aleš | Ljubljana | 1,887 |
-| 19 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 1,865 |
-| 20 | [BigWhale](https://github.com/BigWhale) | David Klasinc | Slovenska Bistrica, Slovenia | 1,777 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 3,117
 | 18 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 5,820 |
 | 19 | [matijavizintin](https://github.com/matijavizintin) | Matija Vižintin | Ljubljana, Slovenia | 4,978 |
 | 20 | [dejanstrancar](https://github.com/dejanstrancar) | Dejan Strancar | Slovenia | 4,908 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 9,114 |
+| 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 7,269 |
+| 3 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 6,261 |
+| 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 4,219 |
+| 5 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | Maribor, Slovenia | 3,979 |
+| 6 | [stefanb](https://github.com/stefanb) | Stefan Baebler | Ljubljana, Slovenia | 3,790 |
+| 7 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 3,035 |
+| 8 | [matejdro](https://github.com/matejdro) | Matej Drobnič | Slovenia | 2,825 |
+| 9 | [sysadminmatmoz](https://github.com/sysadminmatmoz) | Matjaz Mozetic | Slovenia | 2,715 |
+| 10 | [majazaloznik](https://github.com/majazaloznik) | maja | oxford--ljubljana | 2,581 |
+| 11 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,351 |
+| 12 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
+| 13 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,269 |
+| 14 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin | Slovenia | 2,035 |
+| 15 | [zigai](https://github.com/zigai) |  | Slovenia | 2,005 |
+| 16 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 1,951 |
+| 17 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz | Slovenia | 1,917 |
+| 18 | [alesurankar](https://github.com/alesurankar) | Aleš | Ljubljana | 1,887 |
+| 19 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 1,865 |
+| 20 | [BigWhale](https://github.com/BigWhale) | David Klasinc | Slovenska Bistrica, Slovenia | 1,777 |
 
 ## Followers
 

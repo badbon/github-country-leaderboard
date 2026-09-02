@@ -4,34 +4,9 @@ Indexed users: 96
 
 | Leaderboard | Link |
 |---|---|
-| Public Contributions | [Open](../public_contributions/gibraltar.md) |
 | Total Contributions | [Open](../total_contributions/gibraltar.md) |
+| Public Contributions | [Open](../public_contributions/gibraltar.md) |
 | Followers | [Open](../followers/gibraltar.md) |
-
-## Public Contributions
-
-| # | User | Name | Location | Public Contributions |
-|---:|---|---|---|---:|
-| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,126 |
-| 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,483 |
-| 3 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 645 |
-| 4 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 486 |
-| 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 269 |
-| 6 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 234 |
-| 7 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 203 |
-| 8 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 191 |
-| 9 | [chekhlolz](https://github.com/chekhlolz) | Emily Coleman | West Antonioville, Gibraltar | 135 |
-| 10 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 118 |
-| 11 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 117 |
-| 12 | [ZedsArcade](https://github.com/ZedsArcade) | ZedsArcade | Gibraltar | 96 |
-| 13 | [pmozdzynski](https://github.com/pmozdzynski) | P.S. Mozdzynski | Gibraltar | 85 |
-| 14 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 83 |
-| 15 | [RJHug00](https://github.com/RJHug00) | Randy H | Gibraltar, PA, USA | 50 |
-| 16 | [joakimgezelius](https://github.com/joakimgezelius) | Joakim Gezelius | Gibraltar | 48 |
-| 17 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 46 |
-| 18 | [jonathanpennell](https://github.com/jonathanpennell) | Jonathan Pennell | Gibraltar | 45 |
-| 19 | [nats12](https://github.com/nats12) | Natalie Mclaren | Gibraltar | 42 |
-| 20 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 42 |
 
 ## Total Contributions
 
@@ -57,6 +32,31 @@ Indexed users: 96
 | 18 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 273 |
 | 19 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 269 |
 | 20 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 234 |
+
+## Public Contributions
+
+| # | User | Name | Location | Public Contributions |
+|---:|---|---|---|---:|
+| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,126 |
+| 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,483 |
+| 3 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 645 |
+| 4 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 486 |
+| 5 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 269 |
+| 6 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 234 |
+| 7 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 203 |
+| 8 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 191 |
+| 9 | [chekhlolz](https://github.com/chekhlolz) | Emily Coleman | West Antonioville, Gibraltar | 135 |
+| 10 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 118 |
+| 11 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 117 |
+| 12 | [ZedsArcade](https://github.com/ZedsArcade) | ZedsArcade | Gibraltar | 96 |
+| 13 | [pmozdzynski](https://github.com/pmozdzynski) | P.S. Mozdzynski | Gibraltar | 85 |
+| 14 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 83 |
+| 15 | [RJHug00](https://github.com/RJHug00) | Randy H | Gibraltar, PA, USA | 50 |
+| 16 | [joakimgezelius](https://github.com/joakimgezelius) | Joakim Gezelius | Gibraltar | 48 |
+| 17 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 46 |
+| 18 | [jonathanpennell](https://github.com/jonathanpennell) | Jonathan Pennell | Gibraltar | 45 |
+| 19 | [nats12](https://github.com/nats12) | Natalie Mclaren | Gibraltar | 42 |
+| 20 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 42 |
 
 ## Followers
 
