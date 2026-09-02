@@ -24,7 +24,8 @@ export async function generateMarkdown({ countries, generatedAt = new Date().toI
 }
 
 function isComplete(state, slug) {
-  return state?.version === 3 && state.countries?.[slug]?.status === "complete";
+  const status = state?.countries?.[slug]?.status;
+  return state?.version === 3 && (status === "complete" || status === "refreshing");
 }
 
 function markdownPaths(slug) {

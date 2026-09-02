@@ -19,6 +19,7 @@ const DEFAULT_STATE = {
   version: STATE_VERSION,
   countries: {},
   nextCountryIndex: 0,
+  nextRefreshCountryIndex: 0,
   lastRunStartedAt: null,
   lastRunFinishedAt: null,
   stats: {
@@ -26,6 +27,7 @@ const DEFAULT_STATE = {
     enrichmentRequests: 0,
     usersDiscovered: 0,
     usersEnriched: 0,
+    usersRefreshed: 0,
     usersKept: 0
   }
 };
@@ -46,7 +48,24 @@ export async function collect({
 
   while (requests < maxQueries) {
     const countryState = selectNextCountry(state, countries);
-    if (!countryState) break;
+    if (!countryState) {
+      const refreshState = selectNextRefreshCountry(state, countries, caches);
+      if (!refreshState) break;
+      const used = await refreshCountryUsers({
+        state,
+        countryState: refreshState,
+        countries,
+        caches,
+        client,
+        contributionWindow,
+        sleep,
+        dryRun
+      });
+      requests += used;
+      if (!used) break;
+      await sleep(ENRICH_DELAY_MS);
+      continue;
+    }
 
     const task = countryState.queue.shift();
     const key = taskKey(task);
@@ -167,7 +186,11 @@ function normalizeState(state, countries, now) {
     ...DEFAULT_STATE,
     ...state,
     version: STATE_VERSION,
-    countries: {}
+    countries: {},
+    stats: {
+      ...DEFAULT_STATE.stats,
+      ...(state.stats ?? {})
+    }
   };
 
   for (const country of countries) {
@@ -201,6 +224,7 @@ function createCountryState(country, cutoff) {
       enrichmentRequests: 0,
       usersDiscovered: 0,
       usersEnriched: 0,
+      usersRefreshed: 0,
       usersKept: 0
     }
   };
@@ -231,6 +255,23 @@ export function selectNextCountry(state, countries) {
     const countryState = state.countries[rotating[index]];
     if (countryState?.status !== "complete" && countryState?.queue?.length) {
       state.nextCountryIndex = (index + 1) % rotating.length;
+      return countryState;
+    }
+  }
+
+  return null;
+}
+
+function selectNextRefreshCountry(state, countries, caches) {
+  state.nextRefreshCountryIndex ??= 0;
+
+  for (let offset = 0; offset < countries.length; offset += 1) {
+    const index = (state.nextRefreshCountryIndex + offset) % countries.length;
+    const slug = countries[index].slug;
+    const countryState = state.countries[slug];
+    const users = caches[slug] ?? [];
+    if (isBaselineComplete(countryState) && users.length) {
+      state.nextRefreshCountryIndex = (index + 1) % countries.length;
       return countryState;
     }
   }
@@ -272,12 +313,100 @@ function mergeUsers(caches, countries, users) {
   }
 }
 
+async function refreshCountryUsers({
+  state,
+  countryState,
+  countries,
+  caches,
+  client,
+  contributionWindow,
+  sleep,
+  dryRun
+}) {
+  const users = caches[countryState.slug] ?? [];
+  const cursor = Math.min(countryState.refreshCursor ?? 0, users.length);
+  const batch = users.slice(cursor, cursor + ENRICH_BATCH_SIZE);
+  if (!batch.length) {
+    finishRefresh(countryState);
+    await persist(state, caches, dryRun);
+    return 0;
+  }
+
+  countryState.status = "refreshing";
+  console.log(`Refreshing ${countryState.slug} users ${cursor + 1}-${cursor + batch.length} of ${users.length}`);
+
+  let response;
+  try {
+    response = await requestWithBackoff(() =>
+      client.enrichUsers({ logins: batch.map((user) => user.login), contributionWindow }), sleep);
+  } catch (error) {
+    if (!isRetryableApiError(error)) {
+      markFailed(countryState, error);
+      await persist(state, caches, dryRun);
+      throw error;
+    }
+    countryState.lastError = {
+      message: error.message,
+      status: error.status ?? null,
+      at: new Date().toISOString()
+    };
+    await persist(state, caches, dryRun);
+    return 0;
+  }
+
+  replaceRefreshedUsers(caches, countries, batch.map((user) => user.login), response.users);
+  state.stats.enrichmentRequests += 1;
+  state.stats.usersEnriched += response.users.length;
+  state.stats.usersRefreshed += response.users.length;
+  state.stats.usersKept = Object.values(caches).reduce((total, list) => total + list.length, 0);
+  countryState.stats.enrichmentRequests += 1;
+  countryState.stats.usersEnriched += response.users.length;
+  countryState.stats.usersRefreshed += response.users.length;
+  countryState.stats.usersKept = caches[countryState.slug]?.length ?? 0;
+  countryState.lastError = null;
+  countryState.refreshCursor = cursor + batch.length;
+
+  if (countryState.refreshCursor >= users.length) {
+    finishRefresh(countryState);
+  }
+
+  await persist(state, caches, dryRun);
+  return 1;
+}
+
+function replaceRefreshedUsers(caches, countries, logins, users) {
+  const refreshed = new Set(logins.map((login) => login.toLowerCase()));
+  for (const slug of Object.keys(caches)) {
+    caches[slug] = (caches[slug] ?? []).filter((user) => !refreshed.has(user.login.toLowerCase()));
+  }
+
+  for (const user of users) {
+    const slug = classifyLocation(user.location, countries);
+    if (slug) caches[slug].push(user);
+  }
+
+  for (const slug of Object.keys(caches)) {
+    caches[slug] = dedupeUsers(caches[slug]);
+  }
+}
+
 function markCompleteIfDone(countryState) {
-  if (!countryState.queue.length && countryState.status !== "complete") {
+  if (!countryState.queue.length && countryState.status !== "complete" && countryState.status !== "refreshing") {
     countryState.status = "complete";
     countryState.lastDiscoveryCompletedAt = new Date().toISOString();
     countryState.lastError = null;
   }
+}
+
+function finishRefresh(countryState) {
+  countryState.status = "complete";
+  countryState.refreshCursor = 0;
+  countryState.lastContributionRefreshAt = new Date().toISOString();
+  countryState.lastError = null;
+}
+
+function isBaselineComplete(countryState) {
+  return countryState?.status === "complete" || countryState?.status === "refreshing";
 }
 
 function markFailed(countryState, error) {

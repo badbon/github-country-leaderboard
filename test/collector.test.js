@@ -156,6 +156,150 @@ test("stops cleanly and requeues when search has transient network failures", as
   }
 });
 
+test("refreshes cached users after all discovery queues complete", async () => {
+  const originalCwd = process.cwd();
+  const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-collector-"));
+  process.chdir(tempDir);
+
+  try {
+    const countries = testCountries(["georgia"]);
+    await writeJson("data/state.json", {
+      version: 3,
+      countries: {
+        georgia: {
+          slug: "georgia",
+          status: "complete",
+          queue: [],
+          completed: {},
+          refreshCursor: 0,
+          stats: {}
+        }
+      },
+      stats: {}
+    });
+    await writeJson("cache/georgia.json", [{
+      login: "nino",
+      location: "Tbilisi, Georgia",
+      followers: 1,
+      publicContributions: 100,
+      privateContributions: 0
+    }]);
+
+    const result = await collect({
+      countries,
+      client: {
+        async searchUsers() {
+          throw new Error("searchUsers should not be called during refresh");
+        },
+        async enrichUsers({ logins }) {
+          assert.deepEqual(logins, ["nino"]);
+          return {
+            users: [{
+              login: "nino",
+              name: "Nino",
+              avatarUrl: "",
+              location: "Tbilisi, Georgia",
+              company: "",
+              twitterUsername: "",
+              followers: 7,
+              privateContributions: 2,
+              publicContributions: 50,
+              createdAt: "2020-01-01T00:00:00Z"
+            }]
+          };
+        }
+      },
+      maxQueries: 1,
+      now: new Date("2026-08-13T00:00:00Z"),
+      sleep: async () => {}
+    });
+
+    const cache = await readJson("cache/georgia.json");
+    assert.equal(result.queries, 1);
+    assert.equal(result.state.countries.georgia.status, "complete");
+    assert.equal(result.state.countries.georgia.refreshCursor, 0);
+    assert.ok(result.state.countries.georgia.lastContributionRefreshAt);
+    assert.equal(result.state.stats.usersRefreshed, 1);
+    assert.equal(cache[0].publicContributions, 50);
+    assert.equal(cache[0].privateContributions, 2);
+    assert.equal(cache[0].followers, 7);
+  } finally {
+    process.chdir(originalCwd);
+    await rm(tempDir, { recursive: true, force: true });
+  }
+});
+
+test("does not refresh completed countries while discovery work remains", async () => {
+  const originalCwd = process.cwd();
+  const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-collector-"));
+  process.chdir(tempDir);
+
+  try {
+    const countries = testCountries(["georgia", "testland"]);
+    await writeJson("data/state.json", {
+      version: 3,
+      countries: {
+        georgia: {
+          slug: "georgia",
+          status: "complete",
+          queue: [],
+          completed: {},
+          refreshCursor: 0,
+          stats: {}
+        },
+        testland: {
+          slug: "testland",
+          status: "discovering",
+          queue: [{
+            country: "testland",
+            kind: "country",
+            term: "Testland",
+            createdStart: "2020-01-01",
+            createdEnd: "2020-12-31"
+          }],
+          completed: {},
+          stats: {}
+        }
+      },
+      stats: {}
+    });
+    await writeJson("cache/georgia.json", [{
+      login: "nino",
+      location: "Tbilisi, Georgia",
+      followers: 1,
+      publicContributions: 100,
+      privateContributions: 0
+    }]);
+    await writeJson("cache/testland.json", []);
+
+    let searched = false;
+    const result = await collect({
+      countries,
+      client: {
+        async searchUsers() {
+          searched = true;
+          return { total: 0, incomplete: false, users: [] };
+        },
+        async enrichUsers() {
+          throw new Error("enrichUsers should not refresh while discovery remains");
+        }
+      },
+      maxQueries: 1,
+      now: new Date("2026-08-13T00:00:00Z"),
+      sleep: async () => {}
+    });
+
+    const cache = await readJson("cache/georgia.json");
+    assert.equal(searched, true);
+    assert.equal(result.queries, 1);
+    assert.equal(result.state.stats.usersRefreshed, 0);
+    assert.equal(cache[0].publicContributions, 100);
+  } finally {
+    process.chdir(originalCwd);
+    await rm(tempDir, { recursive: true, force: true });
+  }
+});
+
 test("migrates v2 state to v3 country state and preserves cache users", async () => {
   const originalCwd = process.cwd();
   const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-collector-"));

@@ -7,13 +7,13 @@ import { generateMarkdown } from "../src/lib/generator.js";
 import { normalizeCountry } from "../src/lib/locations.js";
 import { writeJson, writeText } from "../src/lib/storage.js";
 
-test("generates markdown only for completed countries", async () => {
+test("generates markdown only for baseline-complete countries", async () => {
   const originalCwd = process.cwd();
   const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-generator-"));
   process.chdir(tempDir);
 
   try {
-    const countries = ["georgia", "france"].map((slug) => normalizeCountry({
+    const countries = ["georgia", "italy", "france"].map((slug) => normalizeCountry({
       slug,
       name: slug[0].toUpperCase() + slug.slice(1),
       iso2: slug.slice(0, 2).toUpperCase(),
@@ -25,6 +25,7 @@ test("generates markdown only for completed countries", async () => {
       version: 3,
       countries: {
         georgia: { status: "complete" },
+        italy: { status: "refreshing" },
         france: { status: "discovering" }
       }
     };
@@ -40,11 +41,22 @@ test("generates markdown only for completed countries", async () => {
       privateContributions: 0
     }]);
     await writeJson("cache/france.json", []);
+    await writeJson("cache/italy.json", [{
+      login: "giulia",
+      name: "",
+      company: "",
+      twitterUsername: "",
+      location: "Italy",
+      followers: 1,
+      publicContributions: 8,
+      privateContributions: 0
+    }]);
     await writeText("markdown/public_contributions/france.md", "stale");
 
     await generateMarkdown({ countries, state, generatedAt: "2026-08-13T00:00:00.000Z" });
 
     assert.match(await readFile("markdown/public_contributions/georgia.md", "utf8"), /nino/);
+    assert.match(await readFile("markdown/public_contributions/italy.md", "utf8"), /giulia/);
     await assert.rejects(() => access("markdown/public_contributions/france.md"), { code: "ENOENT" });
   } finally {
     process.chdir(originalCwd);
