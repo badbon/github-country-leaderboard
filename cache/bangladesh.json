@@ -607603,7 +607603,7 @@
     "company": "@bindulogic | @nandbyte | @mantiq-studio",
     "twitterUsername": "",
     "followers": 85,
-    "privateContributions": 7227,
+    "privateContributions": 7230,
     "publicContributions": 3,
     "createdAt": "2015-05-30T19:47:43Z"
   },
@@ -607759,8 +607759,8 @@
     "company": "Hydra Inc.",
     "twitterUsername": "",
     "followers": 62,
-    "privateContributions": 6557,
-    "publicContributions": 1394,
+    "privateContributions": 6556,
+    "publicContributions": 1419,
     "createdAt": "2015-06-17T09:18:34Z"
   },
   {
@@ -607806,7 +607806,7 @@
     "location": "Dhaka, Bangladesh",
     "company": "Bit2Code Technologies Ltd.",
     "twitterUsername": "SamiMeadad",
-    "followers": 54,
+    "followers": 55,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2015-01-28T06:45:35Z"
@@ -607820,7 +607820,7 @@
     "twitterUsername": "",
     "followers": 53,
     "privateContributions": 794,
-    "publicContributions": 166,
+    "publicContributions": 176,
     "createdAt": "2015-04-24T14:26:47Z"
   },
   {
@@ -607879,7 +607879,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 50,
-    "privateContributions": 1358,
+    "privateContributions": 1360,
     "publicContributions": 21,
     "createdAt": "2015-02-26T19:44:56Z"
   },
@@ -607976,7 +607976,7 @@
     "twitterUsername": "",
     "followers": 46,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 106,
     "createdAt": "2014-12-30T03:33:51Z"
   },
   {
@@ -608096,7 +608096,7 @@
     "twitterUsername": "",
     "followers": 40,
     "privateContributions": 4,
-    "publicContributions": 49,
+    "publicContributions": 51,
     "createdAt": "2015-03-20T19:51:25Z"
   },
   {
@@ -608311,7 +608311,7 @@
     "company": "EventMobi",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 3004,
+    "privateContributions": 3018,
     "publicContributions": 4,
     "createdAt": "2015-01-20T17:08:20Z"
   },
@@ -623014,5 +623014,245 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-09-10T17:24:20Z"
+  },
+  {
+    "login": "NaSabbir",
+    "name": "Nazir Ahmed Sabbir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11223477?s=72&u=a9c27b4d395b0977df11a27bddc3ed9b4beaf574&v=4",
+    "location": "Dhaka",
+    "company": "Xpert Stack Limited",
+    "twitterUsername": "NaSabbir",
+    "followers": 268,
+    "privateContributions": 6,
+    "publicContributions": 0,
+    "createdAt": "2015-02-27T04:25:59Z"
+  },
+  {
+    "login": "menon92",
+    "name": "Mehadi Hasan Menon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11752205?s=72&u=01f9088bc0e2c015230d0aadef86af5095ff682c&v=4",
+    "location": "Dhaka",
+    "company": "Lead Engineer @ Verbex.ai | DL, NLP, MLOps",
+    "twitterUsername": "meeeenon",
+    "followers": 186,
+    "privateContributions": 1,
+    "publicContributions": 3,
+    "createdAt": "2015-04-01T09:52:06Z"
+  },
+  {
+    "login": "SihabSahariar",
+    "name": "Sihab Sahariar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12776541?s=72&u=a7882b01dbb6d59c6f38ef4051733015c696367f&v=4",
+    "location": "Dhaka",
+    "company": "@Frontlyst",
+    "twitterUsername": "SihabSizan",
+    "followers": 118,
+    "privateContributions": 10,
+    "publicContributions": 11,
+    "createdAt": "2015-06-06T16:00:40Z"
+  },
+  {
+    "login": "samironbarai",
+    "name": "Samiron Barai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12892629?s=72&u=7675ad1d73f4baacc84f72cb95a3cfc9b801bbc7&v=4",
+    "location": "D/15-1, Road-36, Block-D, Section-10, Mirpur, Dhaka-1216",
+    "company": "Arogga Limited",
+    "twitterUsername": "",
+    "followers": 116,
+    "privateContributions": 610,
+    "publicContributions": 0,
+    "createdAt": "2015-06-15T09:01:38Z"
+  },
+  {
+    "login": "morshadunnur",
+    "name": "Md. Morshadun Nur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11367467?s=72&u=4d62ab245ea34ee5857c6e22e161c404d8b2ab7e&v=4",
+    "location": "Dhaka",
+    "company": "QbyteSoft",
+    "twitterUsername": "morshadun",
+    "followers": 77,
+    "privateContributions": 1688,
+    "publicContributions": 36,
+    "createdAt": "2015-03-07T18:36:48Z"
+  },
+  {
+    "login": "infomotin",
+    "name": "Abdul Motin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11485698?s=72&u=9d6d8ac16f39c25426d887ad24a0178590347340&v=4",
+    "location": "dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 48,
+    "privateContributions": 2884,
+    "publicContributions": 254,
+    "createdAt": "2015-03-15T09:34:55Z"
+  },
+  {
+    "login": "laravelartisan",
+    "name": "Muhammad Nazim Mahmud Khan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10446886?s=72&u=a81d6216370f16704c67dd8e0adcae52506a3aff&v=4",
+    "location": "Banani, Dhaka",
+    "company": "Logic Sofware Ltd, Asrotex Group",
+    "twitterUsername": "",
+    "followers": 47,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-01-08T08:14:08Z"
+  },
+  {
+    "login": "metaroot",
+    "name": "Faisal Ahmed Shuvo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12154718?s=72&u=5d9403e8238214a9ce62aeb7d95de6037f705ef1&v=4",
+    "location": "Dhaka",
+    "company": "@Monstarlab",
+    "twitterUsername": "",
+    "followers": 44,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-04-28T14:16:30Z"
+  },
+  {
+    "login": "mredulorfiaz",
+    "name": "Gazi Orfiaj Karim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11086165?s=72&u=fd70f739ac1bcf9b0d2f79ed95754bb1378f6a4f&v=4",
+    "location": "Dhaka",
+    "company": "@Optimizely @newscred",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 2381,
+    "publicContributions": 7,
+    "createdAt": "2015-02-20T05:56:47Z"
+  },
+  {
+    "login": "mhshajib",
+    "name": "Sajib Sikder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11698983?s=72&u=8656c37c5ad2830c67884c8d2b1367c3b440be00&v=4",
+    "location": "House #97, Sohrawardi Avenue, Baridhara Diplomatic Zone, Dhaka",
+    "company": "TechnoNext",
+    "twitterUsername": "shajib0513",
+    "followers": 39,
+    "privateContributions": 592,
+    "publicContributions": 36,
+    "createdAt": "2015-03-28T20:07:54Z"
+  },
+  {
+    "login": "mnpappo",
+    "name": "Nadimozzaman Pappo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12901188?s=72&u=56f60edf8437412f3c2eb194587787f71520d654&v=4",
+    "location": "Dhanmondi, Dhaka",
+    "company": "@goonfol @stsbd @VentesWorks",
+    "twitterUsername": "",
+    "followers": 37,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-15T19:57:31Z"
+  },
+  {
+    "login": "ehzawad",
+    "name": "ehzawad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12381692?s=72&u=30807b0468081cf6535518ebf3e58223f46e99e0&v=4",
+    "location": "Dhaka",
+    "company": "@Synesis-IT-PLC ",
+    "twitterUsername": "ehzawad",
+    "followers": 36,
+    "privateContributions": 1521,
+    "publicContributions": 1106,
+    "createdAt": "2015-05-10T13:57:35Z"
+  },
+  {
+    "login": "dipbd1",
+    "name": "Dip Chowdhury",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13025034?s=72&u=dd5b48d4534a293e74a564de0635bb9ae3cf9be0&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 654,
+    "publicContributions": 47,
+    "createdAt": "2015-06-23T23:24:02Z"
+  },
+  {
+    "login": "mdNazmulHasan",
+    "name": "Nazmul Hasan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10530631?s=72&u=aa4bd7ea503f24b87fe8541ef8722360ae67896a&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2015-01-14T12:02:01Z"
+  },
+  {
+    "login": "SUZAUDDAULA",
+    "name": "Suzauddaula Suza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13003445?s=72&u=77e4ef304f97223aec3a9a788020badff2e528c8&v=4",
+    "location": "Dhaka",
+    "company": "OPUS Technology Ltd.",
+    "twitterUsername": "",
+    "followers": 29,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-06-22T16:20:56Z"
+  },
+  {
+    "login": "islamjaidul",
+    "name": "Jidul Islam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11510256?s=72&u=d8771418624fe5333b218a8e4b6ff935a61d33a8&v=4",
+    "location": "Dhaka",
+    "company": "Field Nation",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 111,
+    "publicContributions": 5,
+    "createdAt": "2015-03-16T21:29:33Z"
+  },
+  {
+    "login": "shahali007",
+    "name": "Shah Ali bogdadi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11690291?s=72&u=345390d03a4d75c2b75e26cf9e0adcfd1b3f28b1&v=4",
+    "location": "Dhaka",
+    "company": "CloudlyIO, Inc.",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 127,
+    "publicContributions": 0,
+    "createdAt": "2015-03-28T04:55:05Z"
+  },
+  {
+    "login": "pkbhuiyan",
+    "name": "Pranta Kumer Bhuiyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12625074?s=72&u=bafbf559b078078f83f8f964bac60da98aa95751&v=4",
+    "location": "Dhaka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2015-05-27T10:15:49Z"
+  },
+  {
+    "login": "techie014",
+    "name": "Arnab Das",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10588086?s=72&u=e4b0c84cf8a8442a68b96c28b4d759b047876154&v=4",
+    "location": "Dhaka",
+    "company": "Cefalo Bangladesh Ltd.",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 136,
+    "publicContributions": 25,
+    "createdAt": "2015-01-18T21:30:53Z"
+  },
+  {
+    "login": "jahidhasan018",
+    "name": "Jahid Hossain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11371712?s=72&u=d907bc61c5fbd38bcd1945e93e11df1c53fa721d&v=4",
+    "location": "Joypara, Dohar, Dhaka - 1330",
+    "company": "Bright Development",
+    "twitterUsername": "",
+    "followers": 23,
+    "privateContributions": 96,
+    "publicContributions": 259,
+    "createdAt": "2015-03-08T04:07:16Z"
   }
 ]
