@@ -39,3 +39,23 @@ test("marks closed socket response streams as retryable network errors", async (
     (error) => error.network === true
   );
 });
+
+test("marks truncated JSON response streams as retryable network errors", async () => {
+  const client = new GitHubClient({
+    token: "test-token",
+    async fetchImpl() {
+      return {
+        ok: true,
+        headers: { get: () => null },
+        async json() {
+          throw new SyntaxError("Unexpected end of JSON input");
+        }
+      };
+    }
+  });
+
+  await assert.rejects(
+    () => client.requestJson("https://example.test", { method: "GET" }),
+    (error) => error.network === true
+  );
+});

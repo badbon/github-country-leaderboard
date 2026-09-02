@@ -133,7 +133,7 @@ export class GitHubClient {
     try {
       body = await response.json();
     } catch (error) {
-      if (isNetworkFailure(error)) {
+      if (isNetworkFailure(error) || isIncompleteJsonFailure(error)) {
         throw Object.assign(new Error(`GitHub API response stream failed: ${error.message}`), {
           network: true,
           retryAfter: rateLimit.retryAfter,
@@ -226,6 +226,11 @@ function isNetworkFailure(error) {
     error?.code === "UND_ERR_SOCKET" ||
     error?.name === "SocketError" ||
     (error instanceof TypeError && error.message === "terminated");
+}
+
+function isIncompleteJsonFailure(error) {
+  return error instanceof SyntaxError &&
+    error.message.toLowerCase().includes("unexpected end of json input");
 }
 
 function mockUser(login, location, followers, publicContributions) {
