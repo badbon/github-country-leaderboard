@@ -864,16 +864,17 @@
       },
       "lastDiscoveryAt": "2026-08-13T01:21:54.834Z",
       "lastDiscoveryCompletedAt": "2026-08-13T01:21:54.834Z",
-      "lastContributionRefreshAt": null,
+      "lastContributionRefreshAt": "2026-09-02T14:46:41.919Z",
       "lastError": null,
       "stats": {
         "searchRequests": 276,
-        "enrichmentRequests": 713,
+        "enrichmentRequests": 1148,
         "usersDiscovered": 12969,
-        "usersEnriched": 12849,
-        "usersRefreshed": 0,
-        "usersKept": 7889
-      }
+        "usersEnriched": 19770,
+        "usersRefreshed": 6921,
+        "usersKept": 6899
+      },
+      "refreshCursor": 0
     },
     "afghanistan": {
       "slug": "afghanistan",
@@ -130750,10 +130751,10 @@
   "lastRunFinishedAt": "2026-09-02T14:51:23.487Z",
   "stats": {
     "searchRequests": 51740,
-    "enrichmentRequests": 147260,
+    "enrichmentRequests": 147695,
     "usersDiscovered": 3112027,
-    "usersEnriched": 2811131,
-    "usersRefreshed": 0,
-    "usersKept": 2158969
+    "usersEnriched": 2818052,
+    "usersRefreshed": 6921,
+    "usersKept": 2158937
   }
 }
