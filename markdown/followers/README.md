@@ -1,6 +1,6 @@
 # Followers
 
-Published countries: 228
+Published countries: 229
 
 | Country | Indexed Users | Leaderboard |
 |---|---:|---|
@@ -20,6 +20,7 @@ Published countries: 228
 | Azerbaijan | 5,089 | [View](./azerbaijan.md) |
 | Bahamas | 239 | [View](./bahamas.md) |
 | Bahrain | 736 | [View](./bahrain.md) |
+| Bangladesh | 55,030 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,951 | [View](./belarus.md) |
 | Belgium | 18,409 | [View](./belgium.md) |
@@ -61,7 +62,7 @@ Published countries: 228
 | Dominica | 18 | [View](./dominica.md) |
 | Dominican Republic | 3,313 | [View](./dominican_republic.md) |
 | DR Congo | 707 | [View](./dr_congo.md) |
-| Ecuador | 4,906 | [View](./ecuador.md) |
+| Ecuador | 4,905 | [View](./ecuador.md) |
 | Egypt | 33,950 | [View](./egypt.md) |
 | El Salvador | 2,396 | [View](./el_salvador.md) |
 | Equatorial Guinea | 21 | [View](./equatorial_guinea.md) |
@@ -233,4 +234,4 @@ Published countries: 228
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-03T09:36:13.168Z
+Generated: 2026-09-03T13:11:04.364Z

@@ -1,6 +1,6 @@
 # Ecuador
 
-Indexed users: 4,906
+Indexed users: 4,905
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,906
 | 19 | [LChumi](https://github.com/LChumi) | LChumi | Ecuador | 116 |
 | 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-09-03T09:36:13.168Z
+Generated: 2026-09-03T13:11:04.364Z
