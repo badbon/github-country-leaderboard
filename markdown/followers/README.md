@@ -138,7 +138,7 @@ Published countries: 229
 | Micronesia | 11 | [View](./micronesia.md) |
 | Moldova | 1,764 | [View](./moldova.md) |
 | Monaco | 142 | [View](./monaco.md) |
-| Mongolia | 816 | [View](./mongolia.md) |
+| Mongolia | 815 | [View](./mongolia.md) |
 | Montenegro | 911 | [View](./montenegro.md) |
 | Montserrat | 295 | [View](./montserrat.md) |
 | Morocco | 9,676 | [View](./morocco.md) |
@@ -234,4 +234,4 @@ Published countries: 229
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-03T13:11:04.364Z
+Generated: 2026-09-03T14:56:26.700Z
