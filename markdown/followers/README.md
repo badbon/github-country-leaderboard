@@ -1,6 +1,6 @@
 # Followers
 
-Published countries: 229
+Published countries: 230
 
 | Country | Indexed Users | Leaderboard |
 |---|---:|---|
@@ -198,6 +198,7 @@ Published countries: 229
 | Somalia | 867 | [View](./somalia.md) |
 | South Africa | 17,912 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
+| South Korea | 56,893 | [View](./south_korea.md) |
 | South Sudan | 137 | [View](./south_sudan.md) |
 | Sri Lanka | 18,260 | [View](./sri_lanka.md) |
 | Sudan | 736 | [View](./sudan.md) |
@@ -234,4 +235,4 @@ Published countries: 229
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-03T16:30:48.412Z
+Generated: 2026-09-03T22:45:31.053Z
