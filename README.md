@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Saint Martin](markdown/countries/saint_martin.md) | 8 | [Public](markdown/public_contributions/saint_martin.md) | [Total](markdown/total_contributions/saint_martin.md) | [Followers](markdown/followers/saint_martin.md) |
-| [Guam](markdown/countries/guam.md) | 49 | [Public](markdown/public_contributions/guam.md) | [Total](markdown/total_contributions/guam.md) | [Followers](markdown/followers/guam.md) |
-| [Israel](markdown/countries/israel.md) | 12,441 | [Public](markdown/public_contributions/israel.md) | [Total](markdown/total_contributions/israel.md) | [Followers](markdown/followers/israel.md) |
-| [Slovakia](markdown/countries/slovakia.md) | 4,706 | [Public](markdown/public_contributions/slovakia.md) | [Total](markdown/total_contributions/slovakia.md) | [Followers](markdown/followers/slovakia.md) |
-| [Gabon](markdown/countries/gabon.md) | 315 | [Public](markdown/public_contributions/gabon.md) | [Total](markdown/total_contributions/gabon.md) | [Followers](markdown/followers/gabon.md) |
+| [Tunisia](markdown/countries/tunisia.md) | 7,208 | [Public](markdown/public_contributions/tunisia.md) | [Total](markdown/total_contributions/tunisia.md) | [Followers](markdown/followers/tunisia.md) |
+| [Curaçao](markdown/countries/curacao.md) | 52 | [Public](markdown/public_contributions/curacao.md) | [Total](markdown/total_contributions/curacao.md) | [Followers](markdown/followers/curacao.md) |
+| [Micronesia](markdown/countries/micronesia.md) | 11 | [Public](markdown/public_contributions/micronesia.md) | [Total](markdown/total_contributions/micronesia.md) | [Followers](markdown/followers/micronesia.md) |
+| [Samoa](markdown/countries/samoa.md) | 19 | [Public](markdown/public_contributions/samoa.md) | [Total](markdown/total_contributions/samoa.md) | [Followers](markdown/followers/samoa.md) |
+| [Morocco](markdown/countries/morocco.md) | 9,676 | [Public](markdown/public_contributions/morocco.md) | [Total](markdown/total_contributions/morocco.md) | [Followers](markdown/followers/morocco.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-02T21:06:14.922Z
+Generated: 2026-09-03T05:43:55.417Z
