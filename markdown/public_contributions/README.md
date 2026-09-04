@@ -51,7 +51,7 @@ Published countries: 230
 | Colombia | 29,123 | [View](./colombia.md) |
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 9 | [View](./cook_islands.md) |
-| Costa Rica | 5,631 | [View](./costa_rica.md) |
+| Costa Rica | 5,633 | [View](./costa_rica.md) |
 | Croatia | 5,450 | [View](./croatia.md) |
 | Cuba | 1,298 | [View](./cuba.md) |
 | Curaçao | 52 | [View](./curacao.md) |
@@ -205,7 +205,7 @@ Published countries: 230
 | Suriname | 124 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
 | Switzerland | 24,095 | [View](./switzerland.md) |
-| Syria | 1,477 | [View](./syria.md) |
+| Syria | 1,478 | [View](./syria.md) |
 | Taiwan | 22,030 | [View](./taiwan.md) |
 | Tajikistan | 715 | [View](./tajikistan.md) |
 | Tanzania | 2,045 | [View](./tanzania.md) |
@@ -235,4 +235,4 @@ Published countries: 230
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-04T01:51:31.783Z
+Generated: 2026-09-04T05:38:50.411Z
