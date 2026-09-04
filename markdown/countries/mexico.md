@@ -43,7 +43,7 @@ Indexed users: 23,488
 | 4 | [DrKJeff16](https://github.com/DrKJeff16) | Guennadi Maximov C | Mexico | 8,550 |
 | 5 | [edgarrmondragon](https://github.com/edgarrmondragon) | Edgar Ramírez Mondragón | Mexico | 8,461 |
 | 6 | [Shooksie](https://github.com/Shooksie) | Sami Shukri | Mexico | 7,449 |
-| 7 | [AndrewDryga](https://github.com/AndrewDryga) | Andrew Dryga | Ukraine / Mexico / USA | 6,705 |
+| 7 | [AndrewDryga](https://github.com/AndrewDryga) | Andrew Dryga | Ukraine / Mexico / USA | 7,314 |
 | 8 | [dr-schlange](https://github.com/dr-schlange) |  | Mexico | 6,683 |
 | 9 | [vicrodh](https://github.com/vicrodh) | Victor RH | Mexico City, Mexico | 6,227 |
 | 10 | [MauricioPerera](https://github.com/MauricioPerera) | MauricioPerera | Queretaro, Mexico | 6,165 |
@@ -83,4 +83,4 @@ Indexed users: 23,488
 | 19 | [FiliSantillan](https://github.com/FiliSantillan) | Fili Santillán | Mexico City | 661 |
 | 20 | [edglaz](https://github.com/edglaz) |  | Mexico City | 636 |
 
-Generated: 2026-09-04T09:56:31.470Z
+Generated: 2026-09-04T12:41:06.499Z
