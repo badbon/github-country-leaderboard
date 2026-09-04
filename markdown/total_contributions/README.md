@@ -215,7 +215,7 @@ Published countries: 230
 | Tokelau | 3 | [View](./tokelau.md) |
 | Tonga | 10 | [View](./tonga.md) |
 | Trinidad and Tobago | 257 | [View](./trinidad_and_tobago.md) |
-| Tunisia | 7,208 | [View](./tunisia.md) |
+| Tunisia | 7,207 | [View](./tunisia.md) |
 | Turkmenistan | 503 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 13 | [View](./tuvalu.md) |
@@ -235,4 +235,4 @@ Published countries: 230
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-04T07:28:35.088Z
+Generated: 2026-09-04T09:56:31.470Z
