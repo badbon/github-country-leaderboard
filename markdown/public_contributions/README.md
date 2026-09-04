@@ -134,7 +134,7 @@ Published countries: 230
 | Mauritania | 290 | [View](./mauritania.md) |
 | Mauritius | 724 | [View](./mauritius.md) |
 | Mayotte | 17 | [View](./mayotte.md) |
-| Mexico | 23,487 | [View](./mexico.md) |
+| Mexico | 23,488 | [View](./mexico.md) |
 | Micronesia | 11 | [View](./micronesia.md) |
 | Moldova | 1,764 | [View](./moldova.md) |
 | Monaco | 142 | [View](./monaco.md) |
@@ -235,4 +235,4 @@ Published countries: 230
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-04T01:00:29.316Z
+Generated: 2026-09-04T01:51:31.783Z

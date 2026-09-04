@@ -134,7 +134,7 @@ Published countries: 230
 | [Mauritania](countries/mauritania.md) | 290 | [Public](public_contributions/mauritania.md) | [Total](total_contributions/mauritania.md) | [Followers](followers/mauritania.md) |
 | [Mauritius](countries/mauritius.md) | 724 | [Public](public_contributions/mauritius.md) | [Total](total_contributions/mauritius.md) | [Followers](followers/mauritius.md) |
 | [Mayotte](countries/mayotte.md) | 17 | [Public](public_contributions/mayotte.md) | [Total](total_contributions/mayotte.md) | [Followers](followers/mayotte.md) |
-| [Mexico](countries/mexico.md) | 23,487 | [Public](public_contributions/mexico.md) | [Total](total_contributions/mexico.md) | [Followers](followers/mexico.md) |
+| [Mexico](countries/mexico.md) | 23,488 | [Public](public_contributions/mexico.md) | [Total](total_contributions/mexico.md) | [Followers](followers/mexico.md) |
 | [Micronesia](countries/micronesia.md) | 11 | [Public](public_contributions/micronesia.md) | [Total](total_contributions/micronesia.md) | [Followers](followers/micronesia.md) |
 | [Moldova](countries/moldova.md) | 1,764 | [Public](public_contributions/moldova.md) | [Total](total_contributions/moldova.md) | [Followers](followers/moldova.md) |
 | [Monaco](countries/monaco.md) | 142 | [Public](public_contributions/monaco.md) | [Total](total_contributions/monaco.md) | [Followers](followers/monaco.md) |
@@ -235,4 +235,4 @@ Published countries: 230
 | [Zambia](countries/zambia.md) | 1,349 | [Public](public_contributions/zambia.md) | [Total](total_contributions/zambia.md) | [Followers](followers/zambia.md) |
 | [Zimbabwe](countries/zimbabwe.md) | 1,661 | [Public](public_contributions/zimbabwe.md) | [Total](total_contributions/zimbabwe.md) | [Followers](followers/zimbabwe.md) |
 
-Generated: 2026-09-04T01:00:29.316Z
+Generated: 2026-09-04T01:51:31.783Z
