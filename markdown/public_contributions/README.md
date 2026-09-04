@@ -198,13 +198,13 @@ Published countries: 230
 | Somalia | 867 | [View](./somalia.md) |
 | South Africa | 17,912 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,893 | [View](./south_korea.md) |
+| South Korea | 56,892 | [View](./south_korea.md) |
 | South Sudan | 137 | [View](./south_sudan.md) |
 | Sri Lanka | 18,260 | [View](./sri_lanka.md) |
 | Sudan | 736 | [View](./sudan.md) |
 | Suriname | 124 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
-| Switzerland | 24,096 | [View](./switzerland.md) |
+| Switzerland | 24,095 | [View](./switzerland.md) |
 | Syria | 1,477 | [View](./syria.md) |
 | Taiwan | 22,030 | [View](./taiwan.md) |
 | Tajikistan | 715 | [View](./tajikistan.md) |
@@ -235,4 +235,4 @@ Published countries: 230
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-04T00:17:17.972Z
+Generated: 2026-09-04T01:00:29.316Z
