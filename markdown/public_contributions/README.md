@@ -114,7 +114,7 @@ Published countries: 230
 | Kuwait | 802 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,466 | [View](./kyrgyzstan.md) |
 | Laos | 361 | [View](./laos.md) |
-| Latvia | 3,291 | [View](./latvia.md) |
+| Latvia | 3,290 | [View](./latvia.md) |
 | Lebanon | 2,579 | [View](./lebanon.md) |
 | Lesotho | 162 | [View](./lesotho.md) |
 | Liberia | 212 | [View](./liberia.md) |
@@ -235,4 +235,4 @@ Published countries: 230
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-05T11:39:38.239Z
+Generated: 2026-09-05T12:26:07.572Z
