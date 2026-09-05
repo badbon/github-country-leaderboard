@@ -1,6 +1,6 @@
 # Nepal
 
-Indexed users: 14,082
+Indexed users: 14,081
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 14,082
 | 19 | [maheshbasnet089](https://github.com/maheshbasnet089) | Manish Basnet  | Itahari, Sunsari, Nepal | 815 |
 | 20 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 755 |
 
-Generated: 2026-09-05T15:25:08.145Z
+Generated: 2026-09-05T21:25:26.922Z
