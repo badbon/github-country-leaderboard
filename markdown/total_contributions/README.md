@@ -20,7 +20,7 @@ Published countries: 230
 | Azerbaijan | 5,089 | [View](./azerbaijan.md) |
 | Bahamas | 239 | [View](./bahamas.md) |
 | Bahrain | 736 | [View](./bahrain.md) |
-| Bangladesh | 55,030 | [View](./bangladesh.md) |
+| Bangladesh | 55,029 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,951 | [View](./belarus.md) |
 | Belgium | 18,409 | [View](./belgium.md) |
@@ -235,4 +235,4 @@ Published countries: 230
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-05T22:17:07.493Z
+Generated: 2026-09-06T00:08:39.397Z
