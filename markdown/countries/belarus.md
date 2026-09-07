@@ -22,14 +22,14 @@ Indexed users: 10,951
 | 8 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
 | 9 | [omuteqq](https://github.com/omuteqq) | Иван | Minsk, Belarus | 5,977 |
 | 10 | [igormorozov](https://github.com/igormorozov) | Igor Morozov | Minsk | 5,759 |
-| 11 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,240 |
-| 12 | [reven86](https://github.com/reven86) | Andrew Karpushin | Minsk, Belarus | 5,216 |
-| 13 | [hawkxdev](https://github.com/hawkxdev) | Sergey Sokolkin | Minsk, Belarus | 5,176 |
-| 14 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | Grodno, Belarus | 5,010 |
-| 15 | [dementorsss](https://github.com/dementorsss) | Dmitry | Minsk | 4,928 |
-| 16 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | Belarus/Minsk | 4,821 |
-| 17 | [hotrush](https://github.com/hotrush) |  | Minsk, Belarus | 4,799 |
-| 18 | [davassi](https://github.com/davassi) | Gianluigi Davassi | Dubai - Berlin - Milan - Minsk | 4,778 |
+| 11 | [davassi](https://github.com/davassi) | Gianluigi Davassi | Dubai - Berlin - Milan - Minsk | 5,274 |
+| 12 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,240 |
+| 13 | [reven86](https://github.com/reven86) | Andrew Karpushin | Minsk, Belarus | 5,216 |
+| 14 | [hawkxdev](https://github.com/hawkxdev) | Sergey Sokolkin | Minsk, Belarus | 5,176 |
+| 15 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | Grodno, Belarus | 5,010 |
+| 16 | [dementorsss](https://github.com/dementorsss) | Dmitry | Minsk | 4,928 |
+| 17 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | Belarus/Minsk | 4,821 |
+| 18 | [hotrush](https://github.com/hotrush) |  | Minsk, Belarus | 4,799 |
 | 19 | [LeonidShatilo](https://github.com/LeonidShatilo) | Leonid Shatilo | Gomel, Belarus | 4,563 |
 | 20 | [dzmitryNz](https://github.com/dzmitryNz) |  | Belarus | 4,481 |
 
@@ -83,4 +83,4 @@ Indexed users: 10,951
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-09-07T05:48:23.267Z
+Generated: 2026-09-07T06:47:33.968Z
