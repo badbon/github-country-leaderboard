@@ -1,6 +1,6 @@
 # Total Contributions - Seychelles
 
-Generated: 2026-09-07T06:47:33.968Z
+Generated: 2026-09-07T08:11:36.339Z
 
 Users: 1788
 
@@ -13,16 +13,16 @@ Users: 1788
 | 5 | [plohkoon](https://github.com/plohkoon) | Greg Huber | @rubosstech  |  | Victoria, BC | 8138 |
 | 6 | [ascott](https://github.com/ascott) | Alanna Scott | @trykinside  |  | Victoria, BC | 7211 |
 | 7 | [brandonellis](https://github.com/brandonellis) | Brandon Ellis |  |  | Victoria, BC | 6893 |
-| 8 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | @kohofinancial  |  | Victoria, BC | 6537 |
-| 9 | [levibe](https://github.com/levibe) | Levi Bucsis | @momentumdash  | levibucsis | Victoria, BC | 5868 |
-| 10 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler |  |  | Victoria BC | 5401 |
-| 11 | [igboyes](https://github.com/igboyes) | Ian Boyes |  |  | Victoria | 5331 |
-| 12 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 5248 |
-| 13 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Space95 |  | Seychelles | 5239 |
-| 14 | [matchdav](https://github.com/matchdav) | Matthew Davidson | @metacogdev  |  | Victoria | 5223 |
-| 15 | [dewolfe001](https://github.com/dewolfe001) | Shawn DeWolfe | Web 321 | web321co | Saanichton BC (aka part of Victoria BC) | 5132 |
-| 16 | [bradens](https://github.com/bradens) | Braden Simpson | @codex-data | bradensimpson | Victoria | 4912 |
-| 17 | [troymcginnis](https://github.com/troymcginnis) | Troy McGinnis |  |  | Victoria, BC | 4881 |
-| 18 | [sdevalapurkar](https://github.com/sdevalapurkar) | Shreyas Devalapurkar | Thinkific |  | Victoria, BC | 4860 |
-| 19 | [naomiaro](https://github.com/naomiaro) | Naomi | @moises-ai | naomiaro | Victoria, BC | 4775 |
-| 20 | [rywall](https://github.com/rywall) | Ryan Wallace | Culture Code |  | Victoria, BC | 4748 |
+| 8 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  |  |  Victoria, BC - Canada | 6744 |
+| 9 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | @kohofinancial  |  | Victoria, BC | 6537 |
+| 10 | [levibe](https://github.com/levibe) | Levi Bucsis | @momentumdash  | levibucsis | Victoria, BC | 5868 |
+| 11 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler |  |  | Victoria BC | 5401 |
+| 12 | [igboyes](https://github.com/igboyes) | Ian Boyes |  |  | Victoria | 5331 |
+| 13 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 5248 |
+| 14 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Space95 |  | Seychelles | 5239 |
+| 15 | [matchdav](https://github.com/matchdav) | Matthew Davidson | @metacogdev  |  | Victoria | 5223 |
+| 16 | [dewolfe001](https://github.com/dewolfe001) | Shawn DeWolfe | Web 321 | web321co | Saanichton BC (aka part of Victoria BC) | 5132 |
+| 17 | [bradens](https://github.com/bradens) | Braden Simpson | @codex-data | bradensimpson | Victoria | 4912 |
+| 18 | [troymcginnis](https://github.com/troymcginnis) | Troy McGinnis |  |  | Victoria, BC | 4881 |
+| 19 | [sdevalapurkar](https://github.com/sdevalapurkar) | Shreyas Devalapurkar | Thinkific |  | Victoria, BC | 4860 |
+| 20 | [naomiaro](https://github.com/naomiaro) | Naomi | @moises-ai | naomiaro | Victoria, BC | 4775 |

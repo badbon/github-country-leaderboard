@@ -19,25 +19,25 @@ Indexed users: 1,788
 | 5 | [plohkoon](https://github.com/plohkoon) | Greg Huber | Victoria, BC | 8,138 |
 | 6 | [ascott](https://github.com/ascott) | Alanna Scott | Victoria, BC | 7,211 |
 | 7 | [brandonellis](https://github.com/brandonellis) | Brandon Ellis | Victoria, BC | 6,893 |
-| 8 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 6,537 |
-| 9 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
-| 10 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler | Victoria BC | 5,401 |
-| 11 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 5,331 |
-| 12 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 5,248 |
-| 13 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Seychelles | 5,239 |
-| 14 | [matchdav](https://github.com/matchdav) | Matthew Davidson | Victoria | 5,223 |
-| 15 | [dewolfe001](https://github.com/dewolfe001) | Shawn DeWolfe | Saanichton BC (aka part of Victoria BC) | 5,132 |
-| 16 | [bradens](https://github.com/bradens) | Braden Simpson | Victoria | 4,912 |
-| 17 | [troymcginnis](https://github.com/troymcginnis) | Troy McGinnis | Victoria, BC | 4,881 |
-| 18 | [sdevalapurkar](https://github.com/sdevalapurkar) | Shreyas Devalapurkar | Victoria, BC | 4,860 |
-| 19 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 4,775 |
-| 20 | [rywall](https://github.com/rywall) | Ryan Wallace | Victoria, BC | 4,748 |
+| 8 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 6,744 |
+| 9 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 6,537 |
+| 10 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
+| 11 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler | Victoria BC | 5,401 |
+| 12 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 5,331 |
+| 13 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 5,248 |
+| 14 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Seychelles | 5,239 |
+| 15 | [matchdav](https://github.com/matchdav) | Matthew Davidson | Victoria | 5,223 |
+| 16 | [dewolfe001](https://github.com/dewolfe001) | Shawn DeWolfe | Saanichton BC (aka part of Victoria BC) | 5,132 |
+| 17 | [bradens](https://github.com/bradens) | Braden Simpson | Victoria | 4,912 |
+| 18 | [troymcginnis](https://github.com/troymcginnis) | Troy McGinnis | Victoria, BC | 4,881 |
+| 19 | [sdevalapurkar](https://github.com/sdevalapurkar) | Shreyas Devalapurkar | Victoria, BC | 4,860 |
+| 20 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 4,775 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 4,160 |
+| 1 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 4,834 |
 | 2 | [junminahn](https://github.com/junminahn) | Junmin Ahn | Victoria | 4,113 |
 | 3 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 3,444 |
 | 4 | [CijeTheCreator](https://github.com/CijeTheCreator) | Chijioke (Akaolisa) Osadebe | Victoria Island, Lagos | 2,318 |
@@ -83,4 +83,4 @@ Indexed users: 1,788
 | 19 | [mkellerman](https://github.com/mkellerman) | Marc R Kellerman | Victoria, BC | 118 |
 | 20 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 117 |
 
-Generated: 2026-09-07T06:47:33.968Z
+Generated: 2026-09-07T08:11:36.339Z
