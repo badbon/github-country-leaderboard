@@ -99,7 +99,7 @@ Published countries: 230
 | Hungary | 11,203 | [View](./hungary.md) |
 | Iceland | 1,587 | [View](./iceland.md) |
 | Indonesia | 63,163 | [View](./indonesia.md) |
-| Iran | 26,707 | [View](./iran.md) |
+| Iran | 26,706 | [View](./iran.md) |
 | Iraq | 2,257 | [View](./iraq.md) |
 | Ireland | 19,532 | [View](./ireland.md) |
 | Isle of Man | 157 | [View](./isle_of_man.md) |
@@ -235,4 +235,4 @@ Published countries: 230
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-07T08:11:36.339Z
+Generated: 2026-09-07T10:10:38.166Z
