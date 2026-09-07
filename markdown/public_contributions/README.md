@@ -101,7 +101,7 @@ Published countries: 230
 | Indonesia | 63,163 | [View](./indonesia.md) |
 | Iran | 26,707 | [View](./iran.md) |
 | Iraq | 2,257 | [View](./iraq.md) |
-| Ireland | 19,533 | [View](./ireland.md) |
+| Ireland | 19,532 | [View](./ireland.md) |
 | Isle of Man | 157 | [View](./isle_of_man.md) |
 | Israel | 12,441 | [View](./israel.md) |
 | Ivory Coast | 490 | [View](./ivory_coast.md) |
@@ -168,7 +168,7 @@ Published countries: 230
 | Peru | 9,795 | [View](./peru.md) |
 | Philippines | 19,764 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Portugal | 28,446 | [View](./portugal.md) |
+| Portugal | 28,445 | [View](./portugal.md) |
 | Puerto Rico | 1,551 | [View](./puerto_rico.md) |
 | Qatar | 1,084 | [View](./qatar.md) |
 | Republic of the Congo | 299 | [View](./republic_of_the_congo.md) |
@@ -235,4 +235,4 @@ Published countries: 230
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-06T23:41:27.595Z
+Generated: 2026-09-07T05:48:23.267Z
