@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Mozambique](markdown/countries/mozambique.md) | 1,177 | [Public](markdown/public_contributions/mozambique.md) | [Total](markdown/total_contributions/mozambique.md) | [Followers](markdown/followers/mozambique.md) |
-| [Norway](markdown/countries/norway.md) | 19,634 | [Public](markdown/public_contributions/norway.md) | [Total](markdown/total_contributions/norway.md) | [Followers](markdown/followers/norway.md) |
-| [Zambia](markdown/countries/zambia.md) | 1,349 | [Public](markdown/public_contributions/zambia.md) | [Total](markdown/total_contributions/zambia.md) | [Followers](markdown/followers/zambia.md) |
-| [Norfolk Island](markdown/countries/norfolk_island.md) | 2 | [Public](markdown/public_contributions/norfolk_island.md) | [Total](markdown/total_contributions/norfolk_island.md) | [Followers](markdown/followers/norfolk_island.md) |
-| [Iceland](markdown/countries/iceland.md) | 1,587 | [Public](markdown/public_contributions/iceland.md) | [Total](markdown/total_contributions/iceland.md) | [Followers](markdown/followers/iceland.md) |
+| [Venezuela](markdown/countries/venezuela.md) | 6,646 | [Public](markdown/public_contributions/venezuela.md) | [Total](markdown/total_contributions/venezuela.md) | [Followers](markdown/followers/venezuela.md) |
+| [Dominica](markdown/countries/dominica.md) | 18 | [Public](markdown/public_contributions/dominica.md) | [Total](markdown/total_contributions/dominica.md) | [Followers](markdown/followers/dominica.md) |
+| [Comoros](markdown/countries/comoros.md) | 11 | [Public](markdown/public_contributions/comoros.md) | [Total](markdown/total_contributions/comoros.md) | [Followers](markdown/followers/comoros.md) |
+| [Tajikistan](markdown/countries/tajikistan.md) | 715 | [Public](markdown/public_contributions/tajikistan.md) | [Total](markdown/total_contributions/tajikistan.md) | [Followers](markdown/followers/tajikistan.md) |
+| [Nepal](markdown/countries/nepal.md) | 14,081 | [Public](markdown/public_contributions/nepal.md) | [Total](markdown/total_contributions/nepal.md) | [Followers](markdown/followers/nepal.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-07T18:03:00.019Z
+Generated: 2026-09-08T00:49:42.051Z
