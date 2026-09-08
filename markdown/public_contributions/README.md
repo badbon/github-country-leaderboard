@@ -26,7 +26,7 @@ Published countries: 230
 | Belgium | 18,409 | [View](./belgium.md) |
 | Belize | 96 | [View](./belize.md) |
 | Benin | 476 | [View](./benin.md) |
-| Bermuda | 918 | [View](./bermuda.md) |
+| Bermuda | 917 | [View](./bermuda.md) |
 | Bhutan | 270 | [View](./bhutan.md) |
 | Bolivia | 1,796 | [View](./bolivia.md) |
 | Bosnia and Herzegovina | 2,139 | [View](./bosnia_and_herzegovina.md) |
@@ -99,7 +99,7 @@ Published countries: 230
 | Hungary | 11,203 | [View](./hungary.md) |
 | Iceland | 1,587 | [View](./iceland.md) |
 | Indonesia | 63,163 | [View](./indonesia.md) |
-| Iran | 26,706 | [View](./iran.md) |
+| Iran | 26,705 | [View](./iran.md) |
 | Iraq | 2,257 | [View](./iraq.md) |
 | Ireland | 19,532 | [View](./ireland.md) |
 | Isle of Man | 157 | [View](./isle_of_man.md) |
@@ -235,4 +235,4 @@ Published countries: 230
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-08T06:54:27.188Z
+Generated: 2026-09-08T10:04:13.247Z

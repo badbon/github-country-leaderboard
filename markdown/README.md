@@ -26,7 +26,7 @@ Published countries: 230
 | [Belgium](countries/belgium.md) | 18,409 | [Public](public_contributions/belgium.md) | [Total](total_contributions/belgium.md) | [Followers](followers/belgium.md) |
 | [Belize](countries/belize.md) | 96 | [Public](public_contributions/belize.md) | [Total](total_contributions/belize.md) | [Followers](followers/belize.md) |
 | [Benin](countries/benin.md) | 476 | [Public](public_contributions/benin.md) | [Total](total_contributions/benin.md) | [Followers](followers/benin.md) |
-| [Bermuda](countries/bermuda.md) | 918 | [Public](public_contributions/bermuda.md) | [Total](total_contributions/bermuda.md) | [Followers](followers/bermuda.md) |
+| [Bermuda](countries/bermuda.md) | 917 | [Public](public_contributions/bermuda.md) | [Total](total_contributions/bermuda.md) | [Followers](followers/bermuda.md) |
 | [Bhutan](countries/bhutan.md) | 270 | [Public](public_contributions/bhutan.md) | [Total](total_contributions/bhutan.md) | [Followers](followers/bhutan.md) |
 | [Bolivia](countries/bolivia.md) | 1,796 | [Public](public_contributions/bolivia.md) | [Total](total_contributions/bolivia.md) | [Followers](followers/bolivia.md) |
 | [Bosnia and Herzegovina](countries/bosnia_and_herzegovina.md) | 2,139 | [Public](public_contributions/bosnia_and_herzegovina.md) | [Total](total_contributions/bosnia_and_herzegovina.md) | [Followers](followers/bosnia_and_herzegovina.md) |
@@ -99,7 +99,7 @@ Published countries: 230
 | [Hungary](countries/hungary.md) | 11,203 | [Public](public_contributions/hungary.md) | [Total](total_contributions/hungary.md) | [Followers](followers/hungary.md) |
 | [Iceland](countries/iceland.md) | 1,587 | [Public](public_contributions/iceland.md) | [Total](total_contributions/iceland.md) | [Followers](followers/iceland.md) |
 | [Indonesia](countries/indonesia.md) | 63,163 | [Public](public_contributions/indonesia.md) | [Total](total_contributions/indonesia.md) | [Followers](followers/indonesia.md) |
-| [Iran](countries/iran.md) | 26,706 | [Public](public_contributions/iran.md) | [Total](total_contributions/iran.md) | [Followers](followers/iran.md) |
+| [Iran](countries/iran.md) | 26,705 | [Public](public_contributions/iran.md) | [Total](total_contributions/iran.md) | [Followers](followers/iran.md) |
 | [Iraq](countries/iraq.md) | 2,257 | [Public](public_contributions/iraq.md) | [Total](total_contributions/iraq.md) | [Followers](followers/iraq.md) |
 | [Ireland](countries/ireland.md) | 19,532 | [Public](public_contributions/ireland.md) | [Total](total_contributions/ireland.md) | [Followers](followers/ireland.md) |
 | [Isle of Man](countries/isle_of_man.md) | 157 | [Public](public_contributions/isle_of_man.md) | [Total](total_contributions/isle_of_man.md) | [Followers](followers/isle_of_man.md) |
@@ -235,4 +235,4 @@ Published countries: 230
 | [Zambia](countries/zambia.md) | 1,349 | [Public](public_contributions/zambia.md) | [Total](total_contributions/zambia.md) | [Followers](followers/zambia.md) |
 | [Zimbabwe](countries/zimbabwe.md) | 1,661 | [Public](public_contributions/zimbabwe.md) | [Total](total_contributions/zimbabwe.md) | [Followers](followers/zimbabwe.md) |
 
-Generated: 2026-09-08T06:54:27.188Z
+Generated: 2026-09-08T10:04:13.247Z

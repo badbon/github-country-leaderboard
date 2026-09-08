@@ -1,6 +1,6 @@
 # Bermuda
 
-Indexed users: 918
+Indexed users: 917
 
 | Leaderboard | Link |
 |---|---|
@@ -43,20 +43,20 @@ Indexed users: 918
 | 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 1,963 |
 | 5 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,374 |
 | 6 | [tadhg-moore](https://github.com/tadhg-moore) | Tadhg Moore | Hamilton, NZ | 1,343 |
-| 7 | [rezanmz](https://github.com/rezanmz) | Reza Namazi | Hamilton, ON | 1,327 |
-| 8 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,242 |
-| 9 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | Hamilton, ON | 1,160 |
-| 10 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel | Hamilton - ON | 1,007 |
-| 11 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 921 |
-| 12 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 895 |
-| 13 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 839 |
-| 14 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 796 |
-| 15 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 750 |
-| 16 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 743 |
-| 17 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 627 |
-| 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 614 |
-| 19 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
-| 20 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 601 |
+| 7 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,242 |
+| 8 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | Hamilton, ON | 1,160 |
+| 9 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel | Hamilton - ON | 1,007 |
+| 10 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 921 |
+| 11 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 895 |
+| 12 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 839 |
+| 13 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 796 |
+| 14 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 750 |
+| 15 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 743 |
+| 16 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 627 |
+| 17 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 614 |
+| 18 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
+| 19 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 601 |
+| 20 | [littleblack111](https://github.com/littleblack111) | littleblack111 | Bermuda | 562 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 918
 | 19 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 87 |
 | 20 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | Hamilton | 86 |
 
-Generated: 2026-09-08T06:54:27.188Z
+Generated: 2026-09-08T10:04:13.247Z
