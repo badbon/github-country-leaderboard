@@ -48,7 +48,7 @@ Published countries: 231
 | Chile | 19,359 | [View](./chile.md) |
 | Christmas Island | 20 | [View](./christmas_island.md) |
 | Cocos (Keeling) Islands | 9 | [View](./cocos_keeling_islands.md) |
-| Colombia | 29,123 | [View](./colombia.md) |
+| Colombia | 29,124 | [View](./colombia.md) |
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 9 | [View](./cook_islands.md) |
 | Costa Rica | 5,633 | [View](./costa_rica.md) |
@@ -236,4 +236,4 @@ Published countries: 231
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-09T07:56:34.369Z
+Generated: 2026-09-09T10:03:24.191Z
