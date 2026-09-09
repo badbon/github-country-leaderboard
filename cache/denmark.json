@@ -1,5 +1,17 @@
 [
   {
+    "login": "HowManyOliversAreThere",
+    "name": "Oliver",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5314862?s=72&u=6392ff601fc6440aafd2e018448ca09ccf6f8dda&v=4",
+    "location": "Aarhus, Denmark",
+    "company": "Corella Creations",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 66,
+    "createdAt": "2013-08-26T18:56:47Z"
+  },
+  {
     "login": "Chmod666music",
     "name": "Chmod 666",
     "avatarUrl": "https://avatars.githubusercontent.com/u/253575702?s=72&u=1adc9ba9af88c1bcd50b573bdd6a2673a2cd6f83&v=4",
@@ -175882,18 +175894,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-10-11T07:06:21Z"
-  },
-  {
-    "login": "HowManyOliversAreThere",
-    "name": "Oliver",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5314862?s=72&u=6392ff601fc6440aafd2e018448ca09ccf6f8dda&v=4",
-    "location": "Aarhus, Denmark",
-    "company": "Corella Creations",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 66,
-    "createdAt": "2013-08-26T18:56:47Z"
   },
   {
     "login": "SteenSchutt",
