@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Venezuela](markdown/countries/venezuela.md) | 6,646 | [Public](markdown/public_contributions/venezuela.md) | [Total](markdown/total_contributions/venezuela.md) | [Followers](markdown/followers/venezuela.md) |
-| [Dominica](markdown/countries/dominica.md) | 18 | [Public](markdown/public_contributions/dominica.md) | [Total](markdown/total_contributions/dominica.md) | [Followers](markdown/followers/dominica.md) |
-| [Comoros](markdown/countries/comoros.md) | 11 | [Public](markdown/public_contributions/comoros.md) | [Total](markdown/total_contributions/comoros.md) | [Followers](markdown/followers/comoros.md) |
-| [Tajikistan](markdown/countries/tajikistan.md) | 715 | [Public](markdown/public_contributions/tajikistan.md) | [Total](markdown/total_contributions/tajikistan.md) | [Followers](markdown/followers/tajikistan.md) |
-| [Nepal](markdown/countries/nepal.md) | 14,081 | [Public](markdown/public_contributions/nepal.md) | [Total](markdown/total_contributions/nepal.md) | [Followers](markdown/followers/nepal.md) |
+| [Christmas Island](markdown/countries/christmas_island.md) | 20 | [Public](markdown/public_contributions/christmas_island.md) | [Total](markdown/total_contributions/christmas_island.md) | [Followers](markdown/followers/christmas_island.md) |
+| [Kazakhstan](markdown/countries/kazakhstan.md) | 5,682 | [Public](markdown/public_contributions/kazakhstan.md) | [Total](markdown/total_contributions/kazakhstan.md) | [Followers](markdown/followers/kazakhstan.md) |
+| [Zambia](markdown/countries/zambia.md) | 1,349 | [Public](markdown/public_contributions/zambia.md) | [Total](markdown/total_contributions/zambia.md) | [Followers](markdown/followers/zambia.md) |
+| [New Zealand](markdown/countries/new_zealand.md) | 12,156 | [Public](markdown/public_contributions/new_zealand.md) | [Total](markdown/total_contributions/new_zealand.md) | [Followers](markdown/followers/new_zealand.md) |
+| [American Samoa](markdown/countries/american_samoa.md) | 5 | [Public](markdown/public_contributions/american_samoa.md) | [Total](markdown/total_contributions/american_samoa.md) | [Followers](markdown/followers/american_samoa.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-08T20:22:12.997Z
+Generated: 2026-09-09T02:00:45.307Z

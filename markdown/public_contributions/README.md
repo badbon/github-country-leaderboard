@@ -1,6 +1,6 @@
 # Public Contributions
 
-Published countries: 230
+Published countries: 231
 
 | Country | Indexed Users | Leaderboard |
 |---|---:|---|
@@ -185,7 +185,7 @@ Published countries: 230
 | Samoa | 19 | [View](./samoa.md) |
 | San Marino | 62 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
-| Saudi Arabia | 7,704 | [View](./saudi_arabia.md) |
+| Saudi Arabia | 7,703 | [View](./saudi_arabia.md) |
 | Senegal | 1,367 | [View](./senegal.md) |
 | Serbia | 10,676 | [View](./serbia.md) |
 | Seychelles | 1,788 | [View](./seychelles.md) |
@@ -216,6 +216,7 @@ Published countries: 230
 | Tonga | 10 | [View](./tonga.md) |
 | Trinidad and Tobago | 257 | [View](./trinidad_and_tobago.md) |
 | Tunisia | 7,207 | [View](./tunisia.md) |
+| Turkey | 79,062 | [View](./turkey.md) |
 | Turkmenistan | 503 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 13 | [View](./tuvalu.md) |
@@ -235,4 +236,4 @@ Published countries: 230
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-08T20:22:12.997Z
+Generated: 2026-09-09T02:00:45.307Z
