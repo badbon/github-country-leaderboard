@@ -97,7 +97,7 @@ Published countries: 231
 | Honduras | 1,269 | [View](./honduras.md) |
 | Hong Kong | 10,326 | [View](./hong_kong.md) |
 | Hungary | 11,203 | [View](./hungary.md) |
-| Iceland | 1,587 | [View](./iceland.md) |
+| Iceland | 1,588 | [View](./iceland.md) |
 | Indonesia | 63,163 | [View](./indonesia.md) |
 | Iran | 26,705 | [View](./iran.md) |
 | Iraq | 2,257 | [View](./iraq.md) |
@@ -236,4 +236,4 @@ Published countries: 231
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-10T19:11:47.556Z
+Generated: 2026-09-10T20:10:44.732Z
