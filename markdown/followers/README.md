@@ -165,7 +165,7 @@ Published countries: 231
 | Panama | 1,076 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,029 | [View](./paraguay.md) |
-| Peru | 9,795 | [View](./peru.md) |
+| Peru | 9,796 | [View](./peru.md) |
 | Philippines | 19,764 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
 | Portugal | 28,445 | [View](./portugal.md) |
@@ -236,4 +236,4 @@ Published countries: 231
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-10T21:14:38.401Z
+Generated: 2026-09-10T22:19:35.819Z
