@@ -53,7 +53,7 @@ Indexed users: 1,788
 | 14 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,426 |
 | 15 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
 | 16 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 1,389 |
-| 17 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,355 |
+| 17 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,389 |
 | 18 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | Victoria | 1,166 |
 | 19 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | Victoria, BC | 1,098 |
 | 20 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Victoria BC | 1,092 |
@@ -83,4 +83,4 @@ Indexed users: 1,788
 | 19 | [mkellerman](https://github.com/mkellerman) | Marc R Kellerman | Victoria, BC | 118 |
 | 20 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 117 |
 
-Generated: 2026-09-10T08:18:51.515Z
+Generated: 2026-09-10T09:26:56.298Z
