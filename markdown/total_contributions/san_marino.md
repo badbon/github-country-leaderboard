@@ -1,8 +1,8 @@
 # Total Contributions - San Marino
 
-Generated: 2026-09-10T09:26:56.298Z
+Generated: 2026-09-10T12:38:31.031Z
 
-Users: 62
+Users: 61
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 62
 | 14 | [lmacchiavelli](https://github.com/lmacchiavelli) | Lorenzo Macchiavelli | 22lab |  | San Marino | 298 |
 | 15 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti |  |  | San Marino | 197 |
 | 16 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | @pop-sm | nicorsm | San Marino | 158 |
-| 17 | [LadyMatteini](https://github.com/LadyMatteini) | Júlia Mateini |  |  | San Marino | 137 |
-| 18 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 108 |
-| 19 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 107 |
-| 20 | [alexsteinerr](https://github.com/alexsteinerr) | Alex Steiner |  |  | San Marino | 73 |
+| 17 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 108 |
+| 18 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 107 |
+| 19 | [alexsteinerr](https://github.com/alexsteinerr) | Alex Steiner |  |  | San Marino | 73 |
+| 20 | [gchen98](https://github.com/gchen98) | Gary K. Chen | Pioneer Metals |  | San Marino, CA | 61 |

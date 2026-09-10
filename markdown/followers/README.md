@@ -63,7 +63,7 @@ Published countries: 231
 | Dominican Republic | 3,313 | [View](./dominican_republic.md) |
 | DR Congo | 707 | [View](./dr_congo.md) |
 | Ecuador | 4,905 | [View](./ecuador.md) |
-| Egypt | 33,950 | [View](./egypt.md) |
+| Egypt | 33,949 | [View](./egypt.md) |
 | El Salvador | 2,396 | [View](./el_salvador.md) |
 | Equatorial Guinea | 21 | [View](./equatorial_guinea.md) |
 | Eritrea | 17 | [View](./eritrea.md) |
@@ -148,7 +148,7 @@ Published countries: 231
 | Nauru | 3 | [View](./nauru.md) |
 | Nepal | 14,081 | [View](./nepal.md) |
 | New Caledonia | 112 | [View](./new_caledonia.md) |
-| New Zealand | 12,156 | [View](./new_zealand.md) |
+| New Zealand | 12,155 | [View](./new_zealand.md) |
 | Nicaragua | 1,400 | [View](./nicaragua.md) |
 | Niger | 177 | [View](./niger.md) |
 | Nigeria | 33,081 | [View](./nigeria.md) |
@@ -183,14 +183,14 @@ Published countries: 231
 | Saint Pierre and Miquelon | 19 | [View](./saint_pierre_and_miquelon.md) |
 | Saint Vincent and the Grenadines | 27 | [View](./saint_vincent_and_the_grenadines.md) |
 | Samoa | 19 | [View](./samoa.md) |
-| San Marino | 62 | [View](./san_marino.md) |
+| San Marino | 61 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
 | Saudi Arabia | 7,703 | [View](./saudi_arabia.md) |
 | Senegal | 1,367 | [View](./senegal.md) |
 | Serbia | 10,676 | [View](./serbia.md) |
 | Seychelles | 1,788 | [View](./seychelles.md) |
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
-| Singapore | 24,679 | [View](./singapore.md) |
+| Singapore | 24,678 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
 | Slovakia | 4,706 | [View](./slovakia.md) |
 | Slovenia | 3,117 | [View](./slovenia.md) |
@@ -236,4 +236,4 @@ Published countries: 231
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-10T09:26:56.298Z
+Generated: 2026-09-10T12:38:31.031Z

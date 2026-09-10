@@ -1,8 +1,8 @@
 # Followers - San Marino
 
-Generated: 2026-09-10T09:26:56.298Z
+Generated: 2026-09-10T12:38:31.031Z
 
-Users: 62
+Users: 61
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 62
 | 13 | [nukedbit](https://github.com/nukedbit) | Sebastian Faltoni | Obsidian Game Studios s.r.l. | nukedbit | San Marino | 16 |
 | 14 | [v1rx](https://github.com/v1rx) | v1r |  |  | San Marino | 16 |
 | 15 | [NeedleCoin](https://github.com/NeedleCoin) | Needle Coin | NeedleCoin |  | San Marino | 14 |
-| 16 | [LadyMatteini](https://github.com/LadyMatteini) | Júlia Mateini |  |  | San Marino | 13 |
-| 17 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 13 |
-| 18 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 12 |
-| 19 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 11 |
-| 20 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | Buckridge, Kautzer and Flatley |  | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 11 |
+| 16 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 13 |
+| 17 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 12 |
+| 18 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 11 |
+| 19 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | Buckridge, Kautzer and Flatley |  | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 11 |
+| 20 | [Restoncomic](https://github.com/Restoncomic) | Max | Maximus IT Tech |  | San Marino | 10 |
