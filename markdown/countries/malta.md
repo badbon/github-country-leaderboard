@@ -13,7 +13,7 @@ Indexed users: 1,233
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 19,296 |
-| 2 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 11,492 |
+| 2 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 12,956 |
 | 3 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 9,866 |
 | 4 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 9,384 |
 | 5 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
@@ -37,8 +37,8 @@ Indexed users: 1,233
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 4,912 |
-| 2 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 4,307 |
+| 1 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 4,988 |
+| 2 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 4,912 |
 | 3 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,586 |
 | 4 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,381 |
 | 5 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,341 |
@@ -83,4 +83,4 @@ Indexed users: 1,233
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 
-Generated: 2026-09-10T12:38:31.031Z
+Generated: 2026-09-10T13:34:20.507Z
