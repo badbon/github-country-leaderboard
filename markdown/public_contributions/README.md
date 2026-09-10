@@ -95,7 +95,7 @@ Published countries: 231
 | Haiti | 344 | [View](./haiti.md) |
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,269 | [View](./honduras.md) |
-| Hong Kong | 10,327 | [View](./hong_kong.md) |
+| Hong Kong | 10,326 | [View](./hong_kong.md) |
 | Hungary | 11,203 | [View](./hungary.md) |
 | Iceland | 1,587 | [View](./iceland.md) |
 | Indonesia | 63,163 | [View](./indonesia.md) |
@@ -200,7 +200,7 @@ Published countries: 231
 | South Georgia | 6 | [View](./south_georgia.md) |
 | South Korea | 56,893 | [View](./south_korea.md) |
 | South Sudan | 137 | [View](./south_sudan.md) |
-| Sri Lanka | 18,260 | [View](./sri_lanka.md) |
+| Sri Lanka | 18,259 | [View](./sri_lanka.md) |
 | Sudan | 736 | [View](./sudan.md) |
 | Suriname | 124 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
@@ -236,4 +236,4 @@ Published countries: 231
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-10T06:05:41.081Z
+Generated: 2026-09-10T07:11:40.465Z
