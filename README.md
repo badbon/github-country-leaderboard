@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Christmas Island](markdown/countries/christmas_island.md) | 20 | [Public](markdown/public_contributions/christmas_island.md) | [Total](markdown/total_contributions/christmas_island.md) | [Followers](markdown/followers/christmas_island.md) |
-| [Kazakhstan](markdown/countries/kazakhstan.md) | 5,682 | [Public](markdown/public_contributions/kazakhstan.md) | [Total](markdown/total_contributions/kazakhstan.md) | [Followers](markdown/followers/kazakhstan.md) |
-| [Zambia](markdown/countries/zambia.md) | 1,349 | [Public](markdown/public_contributions/zambia.md) | [Total](markdown/total_contributions/zambia.md) | [Followers](markdown/followers/zambia.md) |
-| [New Zealand](markdown/countries/new_zealand.md) | 12,156 | [Public](markdown/public_contributions/new_zealand.md) | [Total](markdown/total_contributions/new_zealand.md) | [Followers](markdown/followers/new_zealand.md) |
-| [American Samoa](markdown/countries/american_samoa.md) | 5 | [Public](markdown/public_contributions/american_samoa.md) | [Total](markdown/total_contributions/american_samoa.md) | [Followers](markdown/followers/american_samoa.md) |
+| [Caribbean Netherlands](markdown/countries/caribbean_netherlands.md) | 14 | [Public](markdown/public_contributions/caribbean_netherlands.md) | [Total](markdown/total_contributions/caribbean_netherlands.md) | [Followers](markdown/followers/caribbean_netherlands.md) |
+| [Lebanon](markdown/countries/lebanon.md) | 2,579 | [Public](markdown/public_contributions/lebanon.md) | [Total](markdown/total_contributions/lebanon.md) | [Followers](markdown/followers/lebanon.md) |
+| [Armenia](markdown/countries/armenia.md) | 4,052 | [Public](markdown/public_contributions/armenia.md) | [Total](markdown/total_contributions/armenia.md) | [Followers](markdown/followers/armenia.md) |
+| [Ethiopia](markdown/countries/ethiopia.md) | 6,693 | [Public](markdown/public_contributions/ethiopia.md) | [Total](markdown/total_contributions/ethiopia.md) | [Followers](markdown/followers/ethiopia.md) |
+| [Tuvalu](markdown/countries/tuvalu.md) | 13 | [Public](markdown/public_contributions/tuvalu.md) | [Total](markdown/total_contributions/tuvalu.md) | [Followers](markdown/followers/tuvalu.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-09T21:43:30.966Z
+Generated: 2026-09-10T06:05:41.081Z
