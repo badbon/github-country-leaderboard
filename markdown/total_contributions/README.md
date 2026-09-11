@@ -98,7 +98,7 @@ Published countries: 231
 | Hong Kong | 10,326 | [View](./hong_kong.md) |
 | Hungary | 11,203 | [View](./hungary.md) |
 | Iceland | 1,588 | [View](./iceland.md) |
-| Indonesia | 63,163 | [View](./indonesia.md) |
+| Indonesia | 63,162 | [View](./indonesia.md) |
 | Iran | 26,705 | [View](./iran.md) |
 | Iraq | 2,257 | [View](./iraq.md) |
 | Ireland | 19,532 | [View](./ireland.md) |
@@ -190,7 +190,7 @@ Published countries: 231
 | Serbia | 10,676 | [View](./serbia.md) |
 | Seychelles | 1,788 | [View](./seychelles.md) |
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
-| Singapore | 24,678 | [View](./singapore.md) |
+| Singapore | 24,677 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
 | Slovakia | 4,706 | [View](./slovakia.md) |
 | Slovenia | 3,117 | [View](./slovenia.md) |
@@ -236,4 +236,4 @@ Published countries: 231
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-11T14:08:15.167Z
+Generated: 2026-09-11T15:45:15.564Z
