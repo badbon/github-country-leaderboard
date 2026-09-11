@@ -54,7 +54,7 @@ Published countries: 231
 | Costa Rica | 5,633 | [View](./costa_rica.md) |
 | Croatia | 5,450 | [View](./croatia.md) |
 | Cuba | 1,297 | [View](./cuba.md) |
-| Curaçao | 52 | [View](./curacao.md) |
+| Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,751 | [View](./cyprus.md) |
 | Czechia | 16,206 | [View](./czechia.md) |
 | Denmark | 19,305 | [View](./denmark.md) |
@@ -151,7 +151,7 @@ Published countries: 231
 | New Zealand | 12,155 | [View](./new_zealand.md) |
 | Nicaragua | 1,400 | [View](./nicaragua.md) |
 | Niger | 177 | [View](./niger.md) |
-| Nigeria | 33,081 | [View](./nigeria.md) |
+| Nigeria | 33,080 | [View](./nigeria.md) |
 | Niue | 4 | [View](./niue.md) |
 | Norfolk Island | 2 | [View](./norfolk_island.md) |
 | North Korea | 194 | [View](./north_korea.md) |
@@ -236,4 +236,4 @@ Published countries: 231
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-11T09:17:37.081Z
+Generated: 2026-09-11T10:07:57.853Z

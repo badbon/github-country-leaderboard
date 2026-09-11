@@ -1,6 +1,6 @@
 # Curaçao
 
-Indexed users: 52
+Indexed users: 53
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 52
 | 19 | [michaelfinies](https://github.com/michaelfinies) | Michelangelo Finies | Curaçao | 6 |
 | 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-09-11T09:17:37.081Z
+Generated: 2026-09-11T10:07:57.853Z
