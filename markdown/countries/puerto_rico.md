@@ -28,8 +28,8 @@ Indexed users: 1,551
 | 14 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,858 |
 | 15 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 4,810 |
 | 16 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez | Puerto Rico | 4,730 |
-| 17 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 4,703 |
-| 18 | [n6617x](https://github.com/n6617x) | blk | Yabucoa, Puerto Rico, United States | 4,681 |
+| 17 | [n6617x](https://github.com/n6617x) | blk | Yabucoa, Puerto Rico, United States | 4,720 |
+| 18 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 4,703 |
 | 19 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 4,557 |
 | 20 | [jar2333](https://github.com/jar2333) | José A. Ramos | San Juan, PR | 4,546 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,551
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-09-11T16:47:24.637Z
+Generated: 2026-09-11T22:10:25.390Z

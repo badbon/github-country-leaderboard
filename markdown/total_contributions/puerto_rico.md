@@ -1,6 +1,6 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-09-11T16:47:24.637Z
+Generated: 2026-09-11T22:10:25.390Z
 
 Users: 1551
 
@@ -22,7 +22,7 @@ Users: 1551
 | 14 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 4858 |
 | 15 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 4810 |
 | 16 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez |  |  | Puerto Rico | 4730 |
-| 17 | [jdreben](https://github.com/jdreben) | James Dreben |  |  | San Juan, Puerto Rico | 4703 |
-| 18 | [n6617x](https://github.com/n6617x) | blk |  |  | Yabucoa, Puerto Rico, United States | 4681 |
+| 17 | [n6617x](https://github.com/n6617x) | blk |  |  | Yabucoa, Puerto Rico, United States | 4720 |
+| 18 | [jdreben](https://github.com/jdreben) | James Dreben |  |  | San Juan, Puerto Rico | 4703 |
 | 19 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | @ProRanked  | devmoreno | Aguadilla, Puerto Rico | 4557 |
 | 20 | [jar2333](https://github.com/jar2333) | José A. Ramos | Akcelita Innovation Labs |  | San Juan, PR | 4546 |
