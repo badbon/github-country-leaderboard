@@ -55,7 +55,7 @@ Published countries: 231
 | Croatia | 5,450 | [View](./croatia.md) |
 | Cuba | 1,297 | [View](./cuba.md) |
 | Curaçao | 52 | [View](./curacao.md) |
-| Cyprus | 2,752 | [View](./cyprus.md) |
+| Cyprus | 2,751 | [View](./cyprus.md) |
 | Czechia | 16,206 | [View](./czechia.md) |
 | Denmark | 19,305 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
@@ -236,4 +236,4 @@ Published countries: 231
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-10T22:19:35.819Z
+Generated: 2026-09-11T06:47:17.338Z

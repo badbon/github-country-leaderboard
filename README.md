@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Caribbean Netherlands](markdown/countries/caribbean_netherlands.md) | 14 | [Public](markdown/public_contributions/caribbean_netherlands.md) | [Total](markdown/total_contributions/caribbean_netherlands.md) | [Followers](markdown/followers/caribbean_netherlands.md) |
-| [Lebanon](markdown/countries/lebanon.md) | 2,579 | [Public](markdown/public_contributions/lebanon.md) | [Total](markdown/total_contributions/lebanon.md) | [Followers](markdown/followers/lebanon.md) |
-| [Armenia](markdown/countries/armenia.md) | 4,052 | [Public](markdown/public_contributions/armenia.md) | [Total](markdown/total_contributions/armenia.md) | [Followers](markdown/followers/armenia.md) |
-| [Ethiopia](markdown/countries/ethiopia.md) | 6,693 | [Public](markdown/public_contributions/ethiopia.md) | [Total](markdown/total_contributions/ethiopia.md) | [Followers](markdown/followers/ethiopia.md) |
-| [Tuvalu](markdown/countries/tuvalu.md) | 13 | [Public](markdown/public_contributions/tuvalu.md) | [Total](markdown/total_contributions/tuvalu.md) | [Followers](markdown/followers/tuvalu.md) |
+| [Peru](markdown/countries/peru.md) | 9,796 | [Public](markdown/public_contributions/peru.md) | [Total](markdown/total_contributions/peru.md) | [Followers](markdown/followers/peru.md) |
+| [Bhutan](markdown/countries/bhutan.md) | 270 | [Public](markdown/public_contributions/bhutan.md) | [Total](markdown/total_contributions/bhutan.md) | [Followers](markdown/followers/bhutan.md) |
+| [Liechtenstein](markdown/countries/liechtenstein.md) | 116 | [Public](markdown/public_contributions/liechtenstein.md) | [Total](markdown/total_contributions/liechtenstein.md) | [Followers](markdown/followers/liechtenstein.md) |
+| [Hong Kong](markdown/countries/hong_kong.md) | 10,326 | [Public](markdown/public_contributions/hong_kong.md) | [Total](markdown/total_contributions/hong_kong.md) | [Followers](markdown/followers/hong_kong.md) |
+| [Guam](markdown/countries/guam.md) | 49 | [Public](markdown/public_contributions/guam.md) | [Total](markdown/total_contributions/guam.md) | [Followers](markdown/followers/guam.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-10T22:19:35.819Z
+Generated: 2026-09-11T06:47:17.338Z
