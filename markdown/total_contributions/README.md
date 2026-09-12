@@ -229,11 +229,11 @@ Published countries: 231
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 31 | [View](./vatican_city.md) |
 | Venezuela | 6,646 | [View](./venezuela.md) |
-| Vietnam | 25,869 | [View](./vietnam.md) |
+| Vietnam | 25,868 | [View](./vietnam.md) |
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
 | Western Sahara | 6 | [View](./western_sahara.md) |
 | Yemen | 1,218 | [View](./yemen.md) |
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-12T07:48:36.869Z
+Generated: 2026-09-12T08:59:33.398Z
