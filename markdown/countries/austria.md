@@ -25,13 +25,13 @@ Indexed users: 18,259
 | 11 | [goosefraba](https://github.com/goosefraba) | Bernhard Keprt | Vienna | 16,559 |
 | 12 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | Salzburg, Austria | 16,519 |
 | 13 | [Artaeon](https://github.com/Artaeon) | Raphael René Lugmayr | Austria | 16,109 |
-| 14 | [rrust](https://github.com/rrust) | Roland Rust | Austria | 15,870 |
-| 15 | [ddedic](https://github.com/ddedic) | Danijel Dedic | Kufstein, Austria | 15,858 |
-| 16 | [michaelbromley](https://github.com/michaelbromley) | Michael Bromley | Vienna, Austria | 15,690 |
-| 17 | [DrBaher](https://github.com/DrBaher) | DrBaher | Austria | 15,529 |
-| 18 | [TueJon](https://github.com/TueJon) | Jonas Tüchler | Austria | 15,413 |
-| 19 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker | Linz, Austria | 14,978 |
-| 20 | [adlk](https://github.com/adlk) | Stefan Malzner | Vienna | 14,912 |
+| 14 | [JaySunSyn](https://github.com/JaySunSyn) | Jalal Fathi | Planet Earth \| Amsterdam \| Vienna \| Bali | 15,968 |
+| 15 | [rrust](https://github.com/rrust) | Roland Rust | Austria | 15,870 |
+| 16 | [ddedic](https://github.com/ddedic) | Danijel Dedic | Kufstein, Austria | 15,858 |
+| 17 | [michaelbromley](https://github.com/michaelbromley) | Michael Bromley | Vienna, Austria | 15,690 |
+| 18 | [DrBaher](https://github.com/DrBaher) | DrBaher | Austria | 15,529 |
+| 19 | [TueJon](https://github.com/TueJon) | Jonas Tüchler | Austria | 15,413 |
+| 20 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker | Linz, Austria | 14,978 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 18,259
 | 19 | [timolins](https://github.com/timolins) | Timo Lins | Vienna, Austria | 1,173 |
 | 20 | [cliffordwolf](https://github.com/cliffordwolf) | Claire Wolf | Vienna | 1,143 |
 
-Generated: 2026-09-12T00:20:53.686Z
+Generated: 2026-09-12T01:25:39.339Z

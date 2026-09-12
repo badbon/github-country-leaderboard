@@ -1,6 +1,6 @@
 # Total Contributions - Austria
 
-Generated: 2026-09-12T00:20:53.686Z
+Generated: 2026-09-12T01:25:39.339Z
 
 Users: 18259
 
@@ -19,10 +19,10 @@ Users: 18259
 | 11 | [goosefraba](https://github.com/goosefraba) | Bernhard Keprt | goosefraba GmbH |  | Vienna | 16559 |
 | 12 | [mmgerald](https://github.com/mmgerald) | Gerald Lochner | meshmakers.io |  | Salzburg, Austria | 16519 |
 | 13 | [Artaeon](https://github.com/Artaeon) | Raphael René Lugmayr | @Stoicera  | raphaellugmayr | Austria | 16109 |
-| 14 | [rrust](https://github.com/rrust) | Roland Rust |  |  | Austria | 15870 |
-| 15 | [ddedic](https://github.com/ddedic) | Danijel Dedic | MediaMarktSaturn Technology | dannyded83 | Kufstein, Austria | 15858 |
-| 16 | [michaelbromley](https://github.com/michaelbromley) | Michael Bromley | @vendurehq | michlbrmly | Vienna, Austria | 15690 |
-| 17 | [DrBaher](https://github.com/DrBaher) | DrBaher | Medicus AI |  | Austria | 15529 |
-| 18 | [TueJon](https://github.com/TueJon) | Jonas Tüchler | @TWB-Digital |  | Austria | 15413 |
-| 19 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker |  |  | Linz, Austria | 14978 |
-| 20 | [adlk](https://github.com/adlk) | Stefan Malzner | Franz |  | Vienna | 14912 |
+| 14 | [JaySunSyn](https://github.com/JaySunSyn) | Jalal Fathi |  |  | Planet Earth \| Amsterdam \| Vienna \| Bali | 15968 |
+| 15 | [rrust](https://github.com/rrust) | Roland Rust |  |  | Austria | 15870 |
+| 16 | [ddedic](https://github.com/ddedic) | Danijel Dedic | MediaMarktSaturn Technology | dannyded83 | Kufstein, Austria | 15858 |
+| 17 | [michaelbromley](https://github.com/michaelbromley) | Michael Bromley | @vendurehq | michlbrmly | Vienna, Austria | 15690 |
+| 18 | [DrBaher](https://github.com/DrBaher) | DrBaher | Medicus AI |  | Austria | 15529 |
+| 19 | [TueJon](https://github.com/TueJon) | Jonas Tüchler | @TWB-Digital |  | Austria | 15413 |
+| 20 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker |  |  | Linz, Austria | 14978 |
