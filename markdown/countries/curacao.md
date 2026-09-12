@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [michaelfinies](https://github.com/michaelfinies) | Michelangelo Finies | Curaçao | 6 |
 | 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-09-12T13:57:29.176Z
+Generated: 2026-09-12T15:25:28.111Z
