@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Peru](markdown/countries/peru.md) | 9,796 | [Public](markdown/public_contributions/peru.md) | [Total](markdown/total_contributions/peru.md) | [Followers](markdown/followers/peru.md) |
-| [Bhutan](markdown/countries/bhutan.md) | 270 | [Public](markdown/public_contributions/bhutan.md) | [Total](markdown/total_contributions/bhutan.md) | [Followers](markdown/followers/bhutan.md) |
-| [Liechtenstein](markdown/countries/liechtenstein.md) | 116 | [Public](markdown/public_contributions/liechtenstein.md) | [Total](markdown/total_contributions/liechtenstein.md) | [Followers](markdown/followers/liechtenstein.md) |
-| [Hong Kong](markdown/countries/hong_kong.md) | 10,326 | [Public](markdown/public_contributions/hong_kong.md) | [Total](markdown/total_contributions/hong_kong.md) | [Followers](markdown/followers/hong_kong.md) |
-| [Guam](markdown/countries/guam.md) | 49 | [Public](markdown/public_contributions/guam.md) | [Total](markdown/total_contributions/guam.md) | [Followers](markdown/followers/guam.md) |
+| [Belarus](markdown/countries/belarus.md) | 10,951 | [Public](markdown/public_contributions/belarus.md) | [Total](markdown/total_contributions/belarus.md) | [Followers](markdown/followers/belarus.md) |
+| [Palau](markdown/countries/palau.md) | 3 | [Public](markdown/public_contributions/palau.md) | [Total](markdown/total_contributions/palau.md) | [Followers](markdown/followers/palau.md) |
+| [São Tomé and Príncipe](markdown/countries/sao_tome_and_principe.md) | 20 | [Public](markdown/public_contributions/sao_tome_and_principe.md) | [Total](markdown/total_contributions/sao_tome_and_principe.md) | [Followers](markdown/followers/sao_tome_and_principe.md) |
+| [Réunion](markdown/countries/reunion.md) | 215 | [Public](markdown/public_contributions/reunion.md) | [Total](markdown/total_contributions/reunion.md) | [Followers](markdown/followers/reunion.md) |
+| [United Arab Emirates](markdown/countries/united_arab_emirates.md) | 4,239 | [Public](markdown/public_contributions/united_arab_emirates.md) | [Total](markdown/total_contributions/united_arab_emirates.md) | [Followers](markdown/followers/united_arab_emirates.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-11T23:15:00.577Z
+Generated: 2026-09-12T00:20:53.686Z
