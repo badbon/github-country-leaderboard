@@ -92,7 +92,7 @@ Published countries: 231
 | Guinea | 265 | [View](./guinea.md) |
 | Guinea-Bissau | 22 | [View](./guinea_bissau.md) |
 | Guyana | 187 | [View](./guyana.md) |
-| Haiti | 344 | [View](./haiti.md) |
+| Haiti | 343 | [View](./haiti.md) |
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,269 | [View](./honduras.md) |
 | Hong Kong | 10,326 | [View](./hong_kong.md) |
@@ -101,7 +101,7 @@ Published countries: 231
 | Indonesia | 63,162 | [View](./indonesia.md) |
 | Iran | 26,705 | [View](./iran.md) |
 | Iraq | 2,257 | [View](./iraq.md) |
-| Ireland | 19,532 | [View](./ireland.md) |
+| Ireland | 19,531 | [View](./ireland.md) |
 | Isle of Man | 157 | [View](./isle_of_man.md) |
 | Israel | 12,441 | [View](./israel.md) |
 | Ivory Coast | 490 | [View](./ivory_coast.md) |
@@ -236,4 +236,4 @@ Published countries: 231
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-12T01:25:39.339Z
+Generated: 2026-09-12T05:47:55.175Z
