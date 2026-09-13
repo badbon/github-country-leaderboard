@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Belarus](markdown/countries/belarus.md) | 10,951 | [Public](markdown/public_contributions/belarus.md) | [Total](markdown/total_contributions/belarus.md) | [Followers](markdown/followers/belarus.md) |
-| [Palau](markdown/countries/palau.md) | 3 | [Public](markdown/public_contributions/palau.md) | [Total](markdown/total_contributions/palau.md) | [Followers](markdown/followers/palau.md) |
-| [São Tomé and Príncipe](markdown/countries/sao_tome_and_principe.md) | 20 | [Public](markdown/public_contributions/sao_tome_and_principe.md) | [Total](markdown/total_contributions/sao_tome_and_principe.md) | [Followers](markdown/followers/sao_tome_and_principe.md) |
-| [Réunion](markdown/countries/reunion.md) | 215 | [Public](markdown/public_contributions/reunion.md) | [Total](markdown/total_contributions/reunion.md) | [Followers](markdown/followers/reunion.md) |
-| [United Arab Emirates](markdown/countries/united_arab_emirates.md) | 4,239 | [Public](markdown/public_contributions/united_arab_emirates.md) | [Total](markdown/total_contributions/united_arab_emirates.md) | [Followers](markdown/followers/united_arab_emirates.md) |
+| [Uzbekistan](markdown/countries/uzbekistan.md) | 9,517 | [Public](markdown/public_contributions/uzbekistan.md) | [Total](markdown/total_contributions/uzbekistan.md) | [Followers](markdown/followers/uzbekistan.md) |
+| [Namibia](markdown/countries/namibia.md) | 475 | [Public](markdown/public_contributions/namibia.md) | [Total](markdown/total_contributions/namibia.md) | [Followers](markdown/followers/namibia.md) |
+| [Zambia](markdown/countries/zambia.md) | 1,349 | [Public](markdown/public_contributions/zambia.md) | [Total](markdown/total_contributions/zambia.md) | [Followers](markdown/followers/zambia.md) |
+| [Albania](markdown/countries/albania.md) | 1,198 | [Public](markdown/public_contributions/albania.md) | [Total](markdown/total_contributions/albania.md) | [Followers](markdown/followers/albania.md) |
+| [Norfolk Island](markdown/countries/norfolk_island.md) | 2 | [Public](markdown/public_contributions/norfolk_island.md) | [Total](markdown/total_contributions/norfolk_island.md) | [Followers](markdown/followers/norfolk_island.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-12T21:12:19.776Z
+Generated: 2026-09-13T06:15:00.711Z

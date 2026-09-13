@@ -546022,5 +546022,29 @@
     "privateContributions": 54,
     "publicContributions": 4,
     "createdAt": "2012-01-30T12:46:00Z"
+  },
+  {
+    "login": "wtebbens",
+    "name": "Wouter Tebbens",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1379620?s=72&v=4",
+    "location": "Amsterdam/Barcelona",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-01-25T16:35:35Z"
+  },
+  {
+    "login": "dvdjaco",
+    "name": "David Jacovkis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1502076?s=72&v=4",
+    "location": "Barcelona / Amsterdam",
+    "company": "femProcomuns",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-05T09:20:35Z"
   }
 ]
