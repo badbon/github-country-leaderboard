@@ -5579,14 +5579,14 @@
           "kept": 74
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:24:29.230Z",
+      "lastDiscoveryAt": "2026-09-13T23:56:11.458Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1594,
+        "searchRequests": 1603,
         "enrichmentRequests": 4321,
-        "usersDiscovered": 135770,
+        "usersDiscovered": 136670,
         "usersEnriched": 85342,
         "usersRefreshed": 0,
         "usersKept": 47840
@@ -7459,14 +7459,14 @@
           "kept": 15
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:25:01.966Z",
+      "lastDiscoveryAt": "2026-09-13T23:56:42.841Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1594,
+        "searchRequests": 1603,
         "enrichmentRequests": 4251,
-        "usersDiscovered": 142341,
+        "usersDiscovered": 143241,
         "usersEnriched": 83452,
         "usersRefreshed": 0,
         "usersKept": 58390
@@ -15049,16 +15049,9 @@
           "country": "brazil",
           "term": "curitiba",
           "kind": "city",
-          "createdStart": "2020-12-28",
-          "createdEnd": "2021-06-28",
-          "page": 4
-        },
-        {
-          "country": "brazil",
-          "term": "curitiba",
-          "kind": "city",
           "createdStart": "2021-06-29",
-          "createdEnd": "2021-12-27"
+          "createdEnd": "2021-12-27",
+          "page": 5
         },
         {
           "country": "brazil",
@@ -17175,19 +17168,24 @@
           "completedAt": "2026-09-13T21:45:07.450Z",
           "total": 593,
           "kept": 93
+        },
+        "brazil|city|curitiba|2020-12-28|2021-06-28||": {
+          "completedAt": "2026-09-13T23:18:09.236Z",
+          "total": 732,
+          "kept": 32
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:25:28.924Z",
+      "lastDiscoveryAt": "2026-09-13T23:57:10.588Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1594,
-        "enrichmentRequests": 6602,
-        "usersDiscovered": 131586,
-        "usersEnriched": 130146,
+        "searchRequests": 1603,
+        "enrichmentRequests": 6644,
+        "usersDiscovered": 132418,
+        "usersEnriched": 130978,
         "usersRefreshed": 0,
-        "usersKept": 109236
+        "usersKept": 109794
       }
     },
     "british_indian_ocean_territory": {
@@ -22058,14 +22056,14 @@
           "kept": 13
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:26:12.257Z",
+      "lastDiscoveryAt": "2026-09-13T23:57:58.279Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1594,
+        "searchRequests": 1603,
         "enrichmentRequests": 6388,
-        "usersDiscovered": 137501,
+        "usersDiscovered": 138401,
         "usersEnriched": 125861,
         "usersRefreshed": 0,
         "usersKept": 101518
@@ -26627,15 +26625,15 @@
           "kept": 64
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:26:42.656Z",
+      "lastDiscoveryAt": "2026-09-13T23:58:33.224Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1594,
-        "enrichmentRequests": 6162,
-        "usersDiscovered": 133529,
-        "usersEnriched": 121359,
+        "searchRequests": 1603,
+        "enrichmentRequests": 6171,
+        "usersDiscovered": 134429,
+        "usersEnriched": 121539,
         "usersRefreshed": 0,
         "usersKept": 88623
       }
@@ -42720,15 +42718,15 @@
           "kept": 24
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:27:13.796Z",
+      "lastDiscoveryAt": "2026-09-13T23:59:02.182Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1594,
-        "enrichmentRequests": 4977,
-        "usersDiscovered": 140331,
-        "usersEnriched": 97942,
+        "searchRequests": 1603,
+        "enrichmentRequests": 4986,
+        "usersDiscovered": 141231,
+        "usersEnriched": 98122,
         "usersRefreshed": 0,
         "usersKept": 72655
       }
@@ -46485,15 +46483,15 @@
           "kept": 68
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:27:44.885Z",
+      "lastDiscoveryAt": "2026-09-13T23:59:11.531Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1594,
-        "enrichmentRequests": 4767,
-        "usersDiscovered": 140633,
-        "usersEnriched": 93666,
+        "searchRequests": 1603,
+        "enrichmentRequests": 4775,
+        "usersDiscovered": 141533,
+        "usersEnriched": 93826,
         "usersRefreshed": 0,
         "usersKept": 70541
       }
@@ -52506,17 +52504,31 @@
       "queue": [
         {
           "country": "india",
-          "term": "chennai",
+          "term": "delhi",
           "kind": "city",
-          "createdStart": "2023-09-28",
-          "createdEnd": "2023-12-27",
-          "page": 7
+          "createdStart": "2022-12-28",
+          "createdEnd": "2023-02-11",
+          "page": 2
         },
         {
           "country": "india",
           "term": "delhi",
           "kind": "city",
-          "createdStart": "2022-12-28",
+          "createdStart": "2023-02-12",
+          "createdEnd": "2023-03-29"
+        },
+        {
+          "country": "india",
+          "term": "delhi",
+          "kind": "city",
+          "createdStart": "2023-03-30",
+          "createdEnd": "2023-06-28"
+        },
+        {
+          "country": "india",
+          "term": "delhi",
+          "kind": "city",
+          "createdStart": "2023-06-29",
           "createdEnd": "2023-12-27"
         },
         {
@@ -55045,19 +55057,24 @@
           "completedAt": "2026-09-13T21:27:39.433Z",
           "total": 697,
           "kept": 97
+        },
+        "india|city|chennai|2023-09-28|2023-12-27||": {
+          "completedAt": "2026-09-13T23:11:04.714Z",
+          "total": 913,
+          "kept": 13
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:28:08.837Z",
+      "lastDiscoveryAt": "2026-09-13T23:50:03.645Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1594,
-        "enrichmentRequests": 6712,
-        "usersDiscovered": 133521,
-        "usersEnriched": 132473,
+        "searchRequests": 1602,
+        "enrichmentRequests": 6733,
+        "usersDiscovered": 133934,
+        "usersEnriched": 132886,
         "usersRefreshed": 0,
-        "usersKept": 115322
+        "usersKept": 115649
       }
     },
     "indonesia": {
@@ -59825,14 +59842,14 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:28:17.717Z",
+      "lastDiscoveryAt": "2026-09-13T23:50:40.665Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1594,
+        "searchRequests": 1602,
         "enrichmentRequests": 3834,
-        "usersDiscovered": 138376,
+        "usersDiscovered": 139176,
         "usersEnriched": 74370,
         "usersRefreshed": 0,
         "usersKept": 48361
@@ -61742,14 +61759,14 @@
           "kept": 12
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:19:23.895Z",
+      "lastDiscoveryAt": "2026-09-13T23:51:08.619Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1593,
+        "searchRequests": 1602,
         "enrichmentRequests": 2361,
-        "usersDiscovered": 118098,
+        "usersDiscovered": 118224,
         "usersEnriched": 46075,
         "usersRefreshed": 0,
         "usersKept": 33911
@@ -80823,14 +80840,14 @@
           "kept": 49
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:20:01.453Z",
+      "lastDiscoveryAt": "2026-09-13T23:51:45.955Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1593,
+        "searchRequests": 1602,
         "enrichmentRequests": 3422,
-        "usersDiscovered": 142080,
+        "usersDiscovered": 142980,
         "usersEnriched": 66524,
         "usersRefreshed": 0,
         "usersKept": 45504
@@ -92054,14 +92071,14 @@
           "kept": 35
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:20:36.045Z",
+      "lastDiscoveryAt": "2026-09-13T23:52:18.936Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1593,
+        "searchRequests": 1602,
         "enrichmentRequests": 3512,
-        "usersDiscovered": 138943,
+        "usersDiscovered": 139843,
         "usersEnriched": 68224,
         "usersRefreshed": 0,
         "usersKept": 55337
@@ -95979,14 +95996,14 @@
           "kept": 15
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:21:01.796Z",
+      "lastDiscoveryAt": "2026-09-13T23:52:44.226Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1593,
+        "searchRequests": 1602,
         "enrichmentRequests": 4174,
-        "usersDiscovered": 108771,
+        "usersDiscovered": 108897,
         "usersEnriched": 81726,
         "usersRefreshed": 0,
         "usersKept": 65007
@@ -108720,15 +108737,15 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:21:50.521Z",
+      "lastDiscoveryAt": "2026-09-13T23:53:28.707Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1593,
-        "enrichmentRequests": 4884,
-        "usersDiscovered": 138347,
-        "usersEnriched": 95576,
+        "searchRequests": 1602,
+        "enrichmentRequests": 4893,
+        "usersDiscovered": 139247,
+        "usersEnriched": 95756,
         "usersRefreshed": 0,
         "usersKept": 75523
       }
@@ -111254,14 +111271,14 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:22:25.594Z",
+      "lastDiscoveryAt": "2026-09-13T23:54:03.098Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1593,
+        "searchRequests": 1602,
         "enrichmentRequests": 2250,
-        "usersDiscovered": 146082,
+        "usersDiscovered": 146982,
         "usersEnriched": 44143,
         "usersRefreshed": 0,
         "usersKept": 36045
@@ -121328,14 +121345,14 @@
           "kept": 16
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:23:03.905Z",
+      "lastDiscoveryAt": "2026-09-13T23:54:43.289Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1593,
+        "searchRequests": 1602,
         "enrichmentRequests": 3658,
-        "usersDiscovered": 140087,
+        "usersDiscovered": 140987,
         "usersEnriched": 71069,
         "usersRefreshed": 0,
         "usersKept": 47440
@@ -123823,14 +123840,14 @@
           "kept": 60
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:23:34.342Z",
+      "lastDiscoveryAt": "2026-09-13T23:55:15.421Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1593,
+        "searchRequests": 1602,
         "enrichmentRequests": 4200,
-        "usersDiscovered": 125546,
+        "usersDiscovered": 125834,
         "usersEnriched": 81749,
         "usersRefreshed": 0,
         "usersKept": 72373
@@ -123844,16 +123861,9 @@
           "country": "united_states",
           "term": "chicago",
           "kind": "city",
-          "createdStart": "2018-12-29",
-          "createdEnd": "2019-06-29",
-          "page": 8
-        },
-        {
-          "country": "united_states",
-          "term": "chicago",
-          "kind": "city",
           "createdStart": "2019-06-30",
-          "createdEnd": "2019-12-28"
+          "createdEnd": "2019-12-28",
+          "page": 8
         },
         {
           "country": "united_states",
@@ -126319,19 +126329,24 @@
           "completedAt": "2026-09-13T16:26:43.474Z",
           "total": 909,
           "kept": 9
+        },
+        "united_states|city|chicago|2018-12-29|2019-06-29||": {
+          "completedAt": "2026-09-13T22:47:16.065Z",
+          "total": 828,
+          "kept": 28
         }
       },
-      "lastDiscoveryAt": "2026-09-13T22:23:57.526Z",
+      "lastDiscoveryAt": "2026-09-13T23:55:38.825Z",
       "lastDiscoveryCompletedAt": null,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1593,
-        "enrichmentRequests": 5970,
-        "usersDiscovered": 138556,
-        "usersEnriched": 117347,
+        "searchRequests": 1602,
+        "enrichmentRequests": 6012,
+        "usersDiscovered": 139384,
+        "usersEnriched": 118175,
         "usersRefreshed": 0,
-        "usersKept": 107177
+        "usersKept": 107960
       }
     },
     "united_states_minor_outlying_islands": {
@@ -131852,16 +131867,16 @@
       }
     }
   },
-  "nextCountryIndex": 108,
+  "nextCountryIndex": 82,
   "nextRefreshCountryIndex": 0,
-  "lastRunStartedAt": "2026-09-13T21:04:18.826Z",
-  "lastRunFinishedAt": "2026-09-13T22:28:26.686Z",
+  "lastRunStartedAt": "2026-09-13T22:32:38.221Z",
+  "lastRunFinishedAt": "2026-09-13T23:59:20.324Z",
   "stats": {
-    "searchRequests": 62841,
-    "enrichmentRequests": 168094,
-    "usersDiscovered": 4045621,
-    "usersEnriched": 3218288,
+    "searchRequests": 63001,
+    "enrichmentRequests": 168234,
+    "usersDiscovered": 4058934,
+    "usersEnriched": 3221061,
     "usersRefreshed": 6921,
-    "usersKept": 2447090
+    "usersKept": 2448758
   }
 }
