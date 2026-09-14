@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Uzbekistan](markdown/countries/uzbekistan.md) | 9,517 | [Public](markdown/public_contributions/uzbekistan.md) | [Total](markdown/total_contributions/uzbekistan.md) | [Followers](markdown/followers/uzbekistan.md) |
-| [Namibia](markdown/countries/namibia.md) | 475 | [Public](markdown/public_contributions/namibia.md) | [Total](markdown/total_contributions/namibia.md) | [Followers](markdown/followers/namibia.md) |
-| [Zambia](markdown/countries/zambia.md) | 1,349 | [Public](markdown/public_contributions/zambia.md) | [Total](markdown/total_contributions/zambia.md) | [Followers](markdown/followers/zambia.md) |
-| [Albania](markdown/countries/albania.md) | 1,198 | [Public](markdown/public_contributions/albania.md) | [Total](markdown/total_contributions/albania.md) | [Followers](markdown/followers/albania.md) |
-| [Norfolk Island](markdown/countries/norfolk_island.md) | 2 | [Public](markdown/public_contributions/norfolk_island.md) | [Total](markdown/total_contributions/norfolk_island.md) | [Followers](markdown/followers/norfolk_island.md) |
+| [Vatican City](markdown/countries/vatican_city.md) | 31 | [Public](markdown/public_contributions/vatican_city.md) | [Total](markdown/total_contributions/vatican_city.md) | [Followers](markdown/followers/vatican_city.md) |
+| [Nicaragua](markdown/countries/nicaragua.md) | 1,400 | [Public](markdown/public_contributions/nicaragua.md) | [Total](markdown/total_contributions/nicaragua.md) | [Followers](markdown/followers/nicaragua.md) |
+| [Costa Rica](markdown/countries/costa_rica.md) | 5,634 | [Public](markdown/public_contributions/costa_rica.md) | [Total](markdown/total_contributions/costa_rica.md) | [Followers](markdown/followers/costa_rica.md) |
+| [San Marino](markdown/countries/san_marino.md) | 61 | [Public](markdown/public_contributions/san_marino.md) | [Total](markdown/total_contributions/san_marino.md) | [Followers](markdown/followers/san_marino.md) |
+| [Norway](markdown/countries/norway.md) | 19,634 | [Public](markdown/public_contributions/norway.md) | [Total](markdown/total_contributions/norway.md) | [Followers](markdown/followers/norway.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-13T23:59:27.047Z
+Generated: 2026-09-14T01:23:32.170Z
