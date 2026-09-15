@@ -572362,5 +572362,29 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2009-11-24T15:23:48Z"
+  },
+  {
+    "login": "ddayver",
+    "name": "Dark Dayver",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92433?s=72&u=338764687232013f8d6695fae3585652b18f2b79&v=4",
+    "location": "Odessa",
+    "company": "Rigma.BiZ",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 1,
+    "publicContributions": 1,
+    "createdAt": "2009-06-05T23:22:30Z"
+  },
+  {
+    "login": "delicatess",
+    "name": "Ilya Pashkov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133688?s=72&v=4",
+    "location": "Odessa",
+    "company": "Bang-Bang!",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-10-01T12:19:37Z"
   }
 ]

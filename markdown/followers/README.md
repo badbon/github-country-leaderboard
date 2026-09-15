@@ -159,7 +159,7 @@ Published countries: 231
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
 | Norway | 19,634 | [View](./norway.md) |
 | Oman | 1,002 | [View](./oman.md) |
-| Pakistan | 41,535 | [View](./pakistan.md) |
+| Pakistan | 41,536 | [View](./pakistan.md) |
 | Palau | 3 | [View](./palau.md) |
 | Palestine | 2,207 | [View](./palestine.md) |
 | Panama | 1,076 | [View](./panama.md) |
@@ -168,7 +168,7 @@ Published countries: 231
 | Peru | 9,796 | [View](./peru.md) |
 | Philippines | 19,764 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Portugal | 28,444 | [View](./portugal.md) |
+| Portugal | 28,443 | [View](./portugal.md) |
 | Puerto Rico | 1,551 | [View](./puerto_rico.md) |
 | Qatar | 1,084 | [View](./qatar.md) |
 | Republic of the Congo | 299 | [View](./republic_of_the_congo.md) |
@@ -236,4 +236,4 @@ Published countries: 231
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-15T14:17:08.921Z
+Generated: 2026-09-15T16:09:40.315Z
