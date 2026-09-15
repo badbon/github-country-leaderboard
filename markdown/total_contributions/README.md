@@ -60,7 +60,7 @@ Published countries: 232
 | Denmark | 19,305 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
-| Dominican Republic | 3,313 | [View](./dominican_republic.md) |
+| Dominican Republic | 3,312 | [View](./dominican_republic.md) |
 | DR Congo | 707 | [View](./dr_congo.md) |
 | Ecuador | 4,905 | [View](./ecuador.md) |
 | Egypt | 33,949 | [View](./egypt.md) |
@@ -190,7 +190,7 @@ Published countries: 232
 | Serbia | 10,676 | [View](./serbia.md) |
 | Seychelles | 1,788 | [View](./seychelles.md) |
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
-| Singapore | 24,677 | [View](./singapore.md) |
+| Singapore | 24,676 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
 | Slovakia | 4,706 | [View](./slovakia.md) |
 | Slovenia | 3,117 | [View](./slovenia.md) |
@@ -237,4 +237,4 @@ Published countries: 232
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-15T19:32:30.161Z
+Generated: 2026-09-15T22:08:12.911Z

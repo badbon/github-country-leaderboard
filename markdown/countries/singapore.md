@@ -1,6 +1,6 @@
 # Singapore
 
-Indexed users: 24,677
+Indexed users: 24,676
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 24,677
 | 19 | [greyli](https://github.com/greyli) | Grey Li | Singapore | 2,594 |
 | 20 | [karlseguin](https://github.com/karlseguin) | Karl Seguin | Singapore | 2,571 |
 
-Generated: 2026-09-15T19:32:30.161Z
+Generated: 2026-09-15T22:08:12.911Z
