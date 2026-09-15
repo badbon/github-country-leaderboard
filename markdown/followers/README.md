@@ -51,7 +51,7 @@ Published countries: 231
 | Colombia | 29,124 | [View](./colombia.md) |
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 9 | [View](./cook_islands.md) |
-| Costa Rica | 5,634 | [View](./costa_rica.md) |
+| Costa Rica | 5,635 | [View](./costa_rica.md) |
 | Croatia | 5,450 | [View](./croatia.md) |
 | Cuba | 1,297 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
@@ -236,4 +236,4 @@ Published countries: 231
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-15T16:09:40.315Z
+Generated: 2026-09-15T18:31:21.967Z
