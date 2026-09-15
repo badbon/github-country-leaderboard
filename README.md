@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Vatican City](markdown/countries/vatican_city.md) | 31 | [Public](markdown/public_contributions/vatican_city.md) | [Total](markdown/total_contributions/vatican_city.md) | [Followers](markdown/followers/vatican_city.md) |
-| [Nicaragua](markdown/countries/nicaragua.md) | 1,400 | [Public](markdown/public_contributions/nicaragua.md) | [Total](markdown/total_contributions/nicaragua.md) | [Followers](markdown/followers/nicaragua.md) |
-| [Costa Rica](markdown/countries/costa_rica.md) | 5,634 | [Public](markdown/public_contributions/costa_rica.md) | [Total](markdown/total_contributions/costa_rica.md) | [Followers](markdown/followers/costa_rica.md) |
-| [San Marino](markdown/countries/san_marino.md) | 61 | [Public](markdown/public_contributions/san_marino.md) | [Total](markdown/total_contributions/san_marino.md) | [Followers](markdown/followers/san_marino.md) |
-| [Norway](markdown/countries/norway.md) | 19,634 | [Public](markdown/public_contributions/norway.md) | [Total](markdown/total_contributions/norway.md) | [Followers](markdown/followers/norway.md) |
+| [Marshall Islands](markdown/countries/marshall_islands.md) | 11 | [Public](markdown/public_contributions/marshall_islands.md) | [Total](markdown/total_contributions/marshall_islands.md) | [Followers](markdown/followers/marshall_islands.md) |
+| [Monaco](markdown/countries/monaco.md) | 142 | [Public](markdown/public_contributions/monaco.md) | [Total](markdown/total_contributions/monaco.md) | [Followers](markdown/followers/monaco.md) |
+| [Libya](markdown/countries/libya.md) | 753 | [Public](markdown/public_contributions/libya.md) | [Total](markdown/total_contributions/libya.md) | [Followers](markdown/followers/libya.md) |
+| [Morocco](markdown/countries/morocco.md) | 9,676 | [Public](markdown/public_contributions/morocco.md) | [Total](markdown/total_contributions/morocco.md) | [Followers](markdown/followers/morocco.md) |
+| [Serbia](markdown/countries/serbia.md) | 10,676 | [Public](markdown/public_contributions/serbia.md) | [Total](markdown/total_contributions/serbia.md) | [Followers](markdown/followers/serbia.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-14T10:00:31.846Z
+Generated: 2026-09-15T02:51:55.839Z
