@@ -572947,7 +572947,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 677,
+    "privateContributions": 681,
     "publicContributions": 4,
     "createdAt": "2008-02-21T23:01:13Z"
   },
@@ -573190,5 +573190,101 @@
     "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2008-06-30T14:18:45Z"
+  },
+  {
+    "login": "lordofdest",
+    "name": "Volodymyr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42372?s=72&v=4",
+    "location": "Kiev",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-12-23T21:41:37Z"
+  },
+  {
+    "login": "sumskyi",
+    "name": "Vladyslav Sumskyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39335?s=72&v=4",
+    "location": "Kyiv / Lviv",
+    "company": "self employed",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2008-12-09T14:22:37Z"
+  },
+  {
+    "login": "spariev",
+    "name": "Sergey Pariev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12550?s=72&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2008-06-04T09:31:27Z"
+  },
+  {
+    "login": "sequoiahead",
+    "name": "Alexander Kozyrev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40012?s=72&v=4",
+    "location": "Kyiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-12-12T08:16:39Z"
+  },
+  {
+    "login": "rkyrychuk",
+    "name": "Ruslan Kyrychuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25033?s=72&v=4",
+    "location": "Lviv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 3089,
+    "publicContributions": 0,
+    "createdAt": "2008-09-17T16:03:51Z"
+  },
+  {
+    "login": "vasylpirus",
+    "name": "Vasyl Pirus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30965?s=72&u=00c3cabd5edae03625890d417fb1e4f74f2a537e&v=4",
+    "location": "Lviv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-10-25T08:55:19Z"
+  },
+  {
+    "login": "dkr",
+    "name": "Dmytro Kruhlikoff",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14396?s=72&u=554800e4f186b23b4da85fd09c75d90acdd8fcdf&v=4",
+    "location": "Lviv, UA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-06-20T07:18:36Z"
+  },
+  {
+    "login": "r13",
+    "name": "Vladislav Shvedov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28902?s=72&v=4",
+    "location": "Odessa, UA",
+    "company": "REMFU",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-10-14T10:58:45Z"
   }
 ]

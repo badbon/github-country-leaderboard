@@ -1,6 +1,6 @@
 # Followers
 
-Published countries: 231
+Published countries: 232
 
 | Country | Indexed Users | Leaderboard |
 |---|---:|---|
@@ -48,10 +48,10 @@ Published countries: 231
 | Chile | 19,359 | [View](./chile.md) |
 | Christmas Island | 20 | [View](./christmas_island.md) |
 | Cocos (Keeling) Islands | 9 | [View](./cocos_keeling_islands.md) |
-| Colombia | 29,124 | [View](./colombia.md) |
+| Colombia | 29,123 | [View](./colombia.md) |
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 9 | [View](./cook_islands.md) |
-| Costa Rica | 5,635 | [View](./costa_rica.md) |
+| Costa Rica | 5,636 | [View](./costa_rica.md) |
 | Croatia | 5,450 | [View](./croatia.md) |
 | Cuba | 1,297 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
@@ -221,6 +221,7 @@ Published countries: 231
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 13 | [View](./tuvalu.md) |
 | Uganda | 3,883 | [View](./uganda.md) |
+| Ukraine | 47,774 | [View](./ukraine.md) |
 | United Arab Emirates | 4,239 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
@@ -236,4 +237,4 @@ Published countries: 231
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-15T18:31:21.967Z
+Generated: 2026-09-15T19:32:30.161Z
