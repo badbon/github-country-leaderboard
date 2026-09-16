@@ -237,4 +237,4 @@ Published countries: 232
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-16T06:20:42.417Z
+Generated: 2026-09-16T07:27:51.397Z
