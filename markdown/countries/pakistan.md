@@ -1,6 +1,6 @@
 # Pakistan
 
-Indexed users: 41,536
+Indexed users: 41,538
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 41,536
 | 19 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | Pakistan | 1,232 |
 | 20 | [genabdulrehman](https://github.com/genabdulrehman) | Abdul rehman | Gujranwala, Pakistan. | 1,148 |
 
-Generated: 2026-09-15T22:08:12.911Z
+Generated: 2026-09-16T06:20:42.417Z

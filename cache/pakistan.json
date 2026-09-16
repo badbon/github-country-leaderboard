@@ -174330,9 +174330,9 @@
     "location": "Hyderabad, Sindh, Pakistan",
     "company": "Youngdev Interns",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 89,
     "createdAt": "2023-08-30T09:51:33Z"
   },
   {
@@ -175292,7 +175292,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 166,
     "createdAt": "2023-09-13T04:36:03Z"
   },
   {
@@ -498430,5 +498430,29 @@
     "privateContributions": 0,
     "publicContributions": 51,
     "createdAt": "2023-04-09T12:14:06Z"
+  },
+  {
+    "login": "rafayxdev",
+    "name": "Abdul Rafay Shaikh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145851222?s=72&u=8bf4ec6fcb52fb262a01e6eb98bb2d3c22f211dd&v=4",
+    "location": "Hyderabad, Pakistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2023-09-23T13:33:12Z"
+  },
+  {
+    "login": "IrtizaZaidi356",
+    "name": "Syed Irtiza Abbas Zaidi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145368548?s=72&u=b2390c956499f5aea6cc98c0797ac2a1d59a1ee7&v=4",
+    "location": "Hyderabad, Pakistan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2023-09-18T15:09:26Z"
   }
 ]

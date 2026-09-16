@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Marshall Islands](markdown/countries/marshall_islands.md) | 11 | [Public](markdown/public_contributions/marshall_islands.md) | [Total](markdown/total_contributions/marshall_islands.md) | [Followers](markdown/followers/marshall_islands.md) |
-| [Monaco](markdown/countries/monaco.md) | 142 | [Public](markdown/public_contributions/monaco.md) | [Total](markdown/total_contributions/monaco.md) | [Followers](markdown/followers/monaco.md) |
-| [Libya](markdown/countries/libya.md) | 753 | [Public](markdown/public_contributions/libya.md) | [Total](markdown/total_contributions/libya.md) | [Followers](markdown/followers/libya.md) |
-| [Morocco](markdown/countries/morocco.md) | 9,676 | [Public](markdown/public_contributions/morocco.md) | [Total](markdown/total_contributions/morocco.md) | [Followers](markdown/followers/morocco.md) |
-| [Serbia](markdown/countries/serbia.md) | 10,676 | [Public](markdown/public_contributions/serbia.md) | [Total](markdown/total_contributions/serbia.md) | [Followers](markdown/followers/serbia.md) |
+| [Sint Maarten](markdown/countries/sint_maarten.md) | 7 | [Public](markdown/public_contributions/sint_maarten.md) | [Total](markdown/total_contributions/sint_maarten.md) | [Followers](markdown/followers/sint_maarten.md) |
+| [Åland Islands](markdown/countries/aland_islands.md) | 61 | [Public](markdown/public_contributions/aland_islands.md) | [Total](markdown/total_contributions/aland_islands.md) | [Followers](markdown/followers/aland_islands.md) |
+| [Jamaica](markdown/countries/jamaica.md) | 1,289 | [Public](markdown/public_contributions/jamaica.md) | [Total](markdown/total_contributions/jamaica.md) | [Followers](markdown/followers/jamaica.md) |
+| [Togo](markdown/countries/togo.md) | 693 | [Public](markdown/public_contributions/togo.md) | [Total](markdown/total_contributions/togo.md) | [Followers](markdown/followers/togo.md) |
+| [Senegal](markdown/countries/senegal.md) | 1,367 | [Public](markdown/public_contributions/senegal.md) | [Total](markdown/total_contributions/senegal.md) | [Followers](markdown/followers/senegal.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-15T22:08:12.911Z
+Generated: 2026-09-16T06:20:42.417Z

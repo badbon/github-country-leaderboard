@@ -115,7 +115,7 @@ Published countries: 232
 | Kyrgyzstan | 2,466 | [View](./kyrgyzstan.md) |
 | Laos | 361 | [View](./laos.md) |
 | Latvia | 3,290 | [View](./latvia.md) |
-| Lebanon | 2,579 | [View](./lebanon.md) |
+| Lebanon | 2,578 | [View](./lebanon.md) |
 | Lesotho | 162 | [View](./lesotho.md) |
 | Liberia | 212 | [View](./liberia.md) |
 | Libya | 753 | [View](./libya.md) |
@@ -159,7 +159,7 @@ Published countries: 232
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
 | Norway | 19,634 | [View](./norway.md) |
 | Oman | 1,002 | [View](./oman.md) |
-| Pakistan | 41,536 | [View](./pakistan.md) |
+| Pakistan | 41,538 | [View](./pakistan.md) |
 | Palau | 3 | [View](./palau.md) |
 | Palestine | 2,207 | [View](./palestine.md) |
 | Panama | 1,076 | [View](./panama.md) |
@@ -237,4 +237,4 @@ Published countries: 232
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-15T22:08:12.911Z
+Generated: 2026-09-16T06:20:42.417Z
