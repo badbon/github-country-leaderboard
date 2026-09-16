@@ -159,7 +159,7 @@ Published countries: 232
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
 | Norway | 19,634 | [View](./norway.md) |
 | Oman | 1,002 | [View](./oman.md) |
-| Pakistan | 41,538 | [View](./pakistan.md) |
+| Pakistan | 41,539 | [View](./pakistan.md) |
 | Palau | 3 | [View](./palau.md) |
 | Palestine | 2,207 | [View](./palestine.md) |
 | Panama | 1,076 | [View](./panama.md) |
@@ -237,4 +237,4 @@ Published countries: 232
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-16T07:27:51.397Z
+Generated: 2026-09-16T08:35:29.038Z
