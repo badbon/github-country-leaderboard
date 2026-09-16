@@ -1,6 +1,6 @@
 # Followers
 
-Published countries: 232
+Published countries: 233
 
 | Country | Indexed Users | Leaderboard |
 |---|---:|---|
@@ -14,6 +14,7 @@ Published countries: 232
 | Anguilla | 16 | [View](./anguilla.md) |
 | Antarctica | 469 | [View](./antarctica.md) |
 | Antigua and Barbuda | 12 | [View](./antigua_and_barbuda.md) |
+| Argentina | 50,694 | [View](./argentina.md) |
 | Armenia | 4,052 | [View](./armenia.md) |
 | Aruba | 39 | [View](./aruba.md) |
 | Austria | 18,259 | [View](./austria.md) |
@@ -51,7 +52,7 @@ Published countries: 232
 | Colombia | 29,123 | [View](./colombia.md) |
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 9 | [View](./cook_islands.md) |
-| Costa Rica | 5,636 | [View](./costa_rica.md) |
+| Costa Rica | 5,637 | [View](./costa_rica.md) |
 | Croatia | 5,450 | [View](./croatia.md) |
 | Cuba | 1,297 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
@@ -237,4 +238,4 @@ Published countries: 232
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-16T08:35:29.038Z
+Generated: 2026-09-16T09:42:31.092Z
