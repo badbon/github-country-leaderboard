@@ -163,7 +163,7 @@ Published countries: 233
 | Pakistan | 41,539 | [View](./pakistan.md) |
 | Palau | 3 | [View](./palau.md) |
 | Palestine | 2,207 | [View](./palestine.md) |
-| Panama | 1,076 | [View](./panama.md) |
+| Panama | 1,077 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,029 | [View](./paraguay.md) |
 | Peru | 9,796 | [View](./peru.md) |
@@ -191,7 +191,7 @@ Published countries: 233
 | Serbia | 10,676 | [View](./serbia.md) |
 | Seychelles | 1,788 | [View](./seychelles.md) |
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
-| Singapore | 24,676 | [View](./singapore.md) |
+| Singapore | 24,675 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
 | Slovakia | 4,706 | [View](./slovakia.md) |
 | Slovenia | 3,117 | [View](./slovenia.md) |
@@ -238,4 +238,4 @@ Published countries: 233
 | Zambia | 1,349 | [View](./zambia.md) |
 | Zimbabwe | 1,661 | [View](./zimbabwe.md) |
 
-Generated: 2026-09-16T22:01:38.885Z
+Generated: 2026-09-17T06:19:29.711Z

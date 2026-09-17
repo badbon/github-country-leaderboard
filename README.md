@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Sint Maarten](markdown/countries/sint_maarten.md) | 7 | [Public](markdown/public_contributions/sint_maarten.md) | [Total](markdown/total_contributions/sint_maarten.md) | [Followers](markdown/followers/sint_maarten.md) |
-| [Åland Islands](markdown/countries/aland_islands.md) | 61 | [Public](markdown/public_contributions/aland_islands.md) | [Total](markdown/total_contributions/aland_islands.md) | [Followers](markdown/followers/aland_islands.md) |
-| [Jamaica](markdown/countries/jamaica.md) | 1,289 | [Public](markdown/public_contributions/jamaica.md) | [Total](markdown/total_contributions/jamaica.md) | [Followers](markdown/followers/jamaica.md) |
-| [Togo](markdown/countries/togo.md) | 693 | [Public](markdown/public_contributions/togo.md) | [Total](markdown/total_contributions/togo.md) | [Followers](markdown/followers/togo.md) |
-| [Senegal](markdown/countries/senegal.md) | 1,367 | [Public](markdown/public_contributions/senegal.md) | [Total](markdown/total_contributions/senegal.md) | [Followers](markdown/followers/senegal.md) |
+| [Zambia](markdown/countries/zambia.md) | 1,349 | [Public](markdown/public_contributions/zambia.md) | [Total](markdown/total_contributions/zambia.md) | [Followers](markdown/followers/zambia.md) |
+| [Laos](markdown/countries/laos.md) | 361 | [Public](markdown/public_contributions/laos.md) | [Total](markdown/total_contributions/laos.md) | [Followers](markdown/followers/laos.md) |
+| [Uganda](markdown/countries/uganda.md) | 3,883 | [Public](markdown/public_contributions/uganda.md) | [Total](markdown/total_contributions/uganda.md) | [Followers](markdown/followers/uganda.md) |
+| [Pitcairn Islands](markdown/countries/pitcairn_islands.md) | 5 | [Public](markdown/public_contributions/pitcairn_islands.md) | [Total](markdown/total_contributions/pitcairn_islands.md) | [Followers](markdown/followers/pitcairn_islands.md) |
+| [Jordan](markdown/countries/jordan.md) | 4,032 | [Public](markdown/public_contributions/jordan.md) | [Total](markdown/total_contributions/jordan.md) | [Followers](markdown/followers/jordan.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-16T22:01:38.885Z
+Generated: 2026-09-17T06:19:29.711Z
