@@ -6,7 +6,7 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-04-20T12:56:31Z"
@@ -30,9 +30,9 @@
     "location": "Tirana, Albania",
     "company": "FiltonHayes",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1141,
-    "publicContributions": 5004,
+    "followers": 4,
+    "privateContributions": 1007,
+    "publicContributions": 4880,
     "createdAt": "2026-05-07T05:05:40Z"
   },
   {
@@ -50,13 +50,13 @@
   {
     "login": "ftroka",
     "name": "Fabjan Troka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264420837?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264420837?s=72&u=b27fa83c002e725a27849dc76e851ce776bace5a&v=4",
     "location": "Tirana,Albania",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 68,
     "createdAt": "2026-02-27T13:32:07Z"
   },
   {
@@ -67,7 +67,7 @@
     "company": "Solverix",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 718,
+    "privateContributions": 1263,
     "publicContributions": 9,
     "createdAt": "2025-12-28T17:56:51Z"
   },
@@ -102,9 +102,9 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 42,
     "createdAt": "2026-01-23T21:53:18Z"
   },
   {
@@ -168,18 +168,6 @@
     "createdAt": "2026-04-08T08:36:45Z"
   },
   {
-    "login": "nexus-AI26",
-    "name": "NEXUS",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269795801?s=72&u=05608ef26f61164d6f0cff78db581ab17c064a3c&v=4",
-    "location": "Albania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 153,
-    "createdAt": "2026-03-20T18:47:19Z"
-  },
-  {
     "login": "kela-git",
     "name": "Kela (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧*:･ﾟ✧",
     "avatarUrl": "https://avatars.githubusercontent.com/u/265110528?s=72&u=f84fad0b328f78c9d0d9339079fb2d58913ebb83&v=4",
@@ -199,8 +187,8 @@
     "company": "Happy Pay",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 106,
-    "publicContributions": 2,
+    "privateContributions": 107,
+    "publicContributions": 36,
     "createdAt": "2026-02-02T15:21:04Z"
   },
   {
@@ -212,7 +200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 70,
     "createdAt": "2026-04-04T16:00:26Z"
   },
   {
