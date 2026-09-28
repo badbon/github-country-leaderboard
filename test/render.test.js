@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { renderCountryHub, renderLeaderboard, renderReadme } from "../src/lib/render.js";
+import { renderCountryHub, renderLeaderboard, renderReadme, renderStatus } from "../src/lib/render.js";
 
 test("renders reference-style markdown table", () => {
   const markdown = renderLeaderboard({
@@ -83,6 +83,28 @@ test("country hub uses category metric names instead of generic value", () => {
   assert.doesNotMatch(markdown, /\| # \| User \| Name \| Location \| Value \|/);
   assert.ok(markdown.indexOf("## Total Contributions") < markdown.indexOf("## Public Contributions"));
   assert.ok(markdown.indexOf("| Total Contributions | [Open]") < markdown.indexOf("| Public Contributions | [Open]"));
+});
+
+test("status counts published countries during daily discovery", () => {
+  const countries = [
+    { slug: "georgia", name: "Georgia" },
+    { slug: "italy", name: "Italy" }
+  ];
+  const state = {
+    version: 3,
+    countries: {
+      georgia: { status: "discovering", lastDiscoveryCompletedAt: "2026-08-13T00:00:00Z", queue: [{}] },
+      italy: { status: "discovering", lastDiscoveryCompletedAt: null, queue: [{}] }
+    },
+    stats: { usersKept: 2 }
+  };
+
+  const markdown = renderStatus({ countries, state, generatedAt: "2026-09-28T00:00:00Z" });
+  assert.match(markdown, /\| Countries published \| 1 \|/);
+  assert.match(markdown, /\| published \| 1 \|/);
+  assert.match(markdown, /\| discovering \| 1 \|/);
+  assert.match(markdown, /\| Italy \| discovering \| 1 \|/);
+  assert.doesNotMatch(markdown, /\| Georgia \| discovering \|/);
 });
 
 function countryRows(markdown) {

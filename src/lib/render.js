@@ -98,8 +98,11 @@ export function renderMainIndex({ countries, generatedAt }) {
 
 export function renderStatus({ countries, state, generatedAt }) {
   const statusCounts = {};
-  for (const countryState of Object.values(state?.countries ?? {})) {
-    statusCounts[countryState.status] = (statusCounts[countryState.status] ?? 0) + 1;
+  for (const [slug, countryState] of Object.entries(state?.countries ?? {})) {
+    const status = isPublished(state, slug)
+      ? (countryState.status === "failed" ? "published (failed)" : "published")
+      : countryState.status;
+    statusCounts[status] = (statusCounts[status] ?? 0) + 1;
   }
 
   const remaining = countries

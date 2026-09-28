@@ -1,6 +1,6 @@
 # Index Status
 
-Generated: 2026-09-28T12:13:15.593Z
+Generated: 2026-09-28T12:15:56.111Z
 
 | Metric | Value |
 |---|---:|
@@ -13,7 +13,8 @@ Generated: 2026-09-28T12:13:15.593Z
 
 | Status | Countries |
 |---|---:|
-| discovering | 249 |
+| discovering | 16 |
+| published | 233 |
 
 ## Remaining Discovery
 
