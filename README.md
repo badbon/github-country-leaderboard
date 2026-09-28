@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Zambia](markdown/countries/zambia.md) | 1,349 | [Public](markdown/public_contributions/zambia.md) | [Total](markdown/total_contributions/zambia.md) | [Followers](markdown/followers/zambia.md) |
-| [Laos](markdown/countries/laos.md) | 361 | [Public](markdown/public_contributions/laos.md) | [Total](markdown/total_contributions/laos.md) | [Followers](markdown/followers/laos.md) |
-| [Uganda](markdown/countries/uganda.md) | 3,883 | [Public](markdown/public_contributions/uganda.md) | [Total](markdown/total_contributions/uganda.md) | [Followers](markdown/followers/uganda.md) |
-| [Pitcairn Islands](markdown/countries/pitcairn_islands.md) | 5 | [Public](markdown/public_contributions/pitcairn_islands.md) | [Total](markdown/total_contributions/pitcairn_islands.md) | [Followers](markdown/followers/pitcairn_islands.md) |
-| [Jordan](markdown/countries/jordan.md) | 4,032 | [Public](markdown/public_contributions/jordan.md) | [Total](markdown/total_contributions/jordan.md) | [Followers](markdown/followers/jordan.md) |
+| [Fiji](markdown/countries/fiji.md) | 329 | [Public](markdown/public_contributions/fiji.md) | [Total](markdown/total_contributions/fiji.md) | [Followers](markdown/followers/fiji.md) |
+| [Bahrain](markdown/countries/bahrain.md) | 736 | [Public](markdown/public_contributions/bahrain.md) | [Total](markdown/total_contributions/bahrain.md) | [Followers](markdown/followers/bahrain.md) |
+| [North Korea](markdown/countries/north_korea.md) | 194 | [Public](markdown/public_contributions/north_korea.md) | [Total](markdown/total_contributions/north_korea.md) | [Followers](markdown/followers/north_korea.md) |
+| [Republic of the Congo](markdown/countries/republic_of_the_congo.md) | 299 | [Public](markdown/public_contributions/republic_of_the_congo.md) | [Total](markdown/total_contributions/republic_of_the_congo.md) | [Followers](markdown/followers/republic_of_the_congo.md) |
+| [Macau](markdown/countries/macau.md) | 456 | [Public](markdown/public_contributions/macau.md) | [Total](markdown/total_contributions/macau.md) | [Followers](markdown/followers/macau.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-17T08:28:48.210Z
+Generated: 2026-09-28T12:13:15.593Z
