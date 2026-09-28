@@ -54,15 +54,30 @@ jobs:
             fi
 
             echo "Collecting chunk ${chunk_index} with ${current} requests remaining budget ${remaining}"
-            npm run collect -- --max-queries "$current"
+            set +e
+            npm run collect -- --max-queries "$current" --no-generate
+            collect_status=$?
+            set -e
 
-            if [ -n "$(git status --porcelain README.md cache data/state.json markdown)" ]; then
-              git add README.md cache data/state.json markdown
+            git add cache data/state.json
+            if ! git diff --cached --quiet; then
               git commit -m "Update GitHub country leaderboards"
-              git pull --rebase
+              git pull --no-rebase
               git push
             else
-              echo "No generated changes for chunk ${chunk_index}"
+              echo "No collector changes for chunk ${chunk_index}"
+            fi
+
+            if [ "$collect_status" -ne 0 ]; then
+              exit "$collect_status"
+            fi
+
+            npm run generate
+            git add README.md markdown
+            if ! git diff --cached --quiet; then
+              git commit -m "Render GitHub country leaderboards"
+              git pull --no-rebase
+              git push
             fi
 
             remaining=$((remaining - current))

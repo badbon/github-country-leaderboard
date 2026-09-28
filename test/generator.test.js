@@ -24,7 +24,7 @@ test("generates markdown only for baseline-complete countries", async () => {
     const state = {
       version: 3,
       countries: {
-        georgia: { status: "complete" },
+        georgia: { status: "discovering", lastDiscoveryCompletedAt: "2026-08-12T00:00:00Z" },
         italy: { status: "refreshing" },
         france: { status: "discovering" }
       }
@@ -64,6 +64,40 @@ test("generates markdown only for baseline-complete countries", async () => {
     assert.match(await readFile("markdown/public_contributions/italy.md", "utf8"), /giulia/);
     await assert.rejects(() => access("markdown/public_contributions/france.md"), { code: "ENOENT" });
     await assert.rejects(() => access("markdown/countries/france.md"), { code: "ENOENT" });
+  } finally {
+    process.chdir(originalCwd);
+    await rm(tempDir, { recursive: true, force: true });
+  }
+});
+
+test("renders a country cache larger than the argument spread limit", async () => {
+  const originalCwd = process.cwd();
+  const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-large-cache-"));
+  process.chdir(tempDir);
+
+  try {
+    const country = normalizeCountry({
+      slug: "georgia", name: "Georgia", iso2: "GE", aliases: ["Georgia"], cities: [], overrides: []
+    });
+    const users = Array.from({ length: 130000 }, (_, index) => ({
+      login: `user-${index}`, location: "Georgia", followers: 1,
+      publicContributions: index, privateContributions: 0
+    }));
+    await writeJson("cache/georgia.json", users);
+    const state = {
+      version: 3,
+      countries: { georgia: { status: "complete", lastCacheChangeAt: "2026-08-12T00:00:00Z" } },
+      stats: { usersKept: users.length }
+    };
+
+    await generateMarkdown({ countries: [country], state, generatedAt: "2026-08-13T00:00:00Z" });
+    const output = await readFile("markdown/public_contributions/georgia.md", "utf8");
+    assert.match(output, /Users: 130000/);
+    assert.match(output, /user-129999/);
+    assert.match(output, /Generated: 2026-08-12T00:00:00Z/);
+    await generateMarkdown({ countries: [country], state, generatedAt: "2026-08-14T00:00:00Z" });
+    assert.equal(await readFile("markdown/public_contributions/georgia.md", "utf8"), output);
+    assert.equal((await readFile("cache/georgia.json", "utf8")).includes('"login": "user-0"'), true);
   } finally {
     process.chdir(originalCwd);
     await rm(tempDir, { recursive: true, force: true });

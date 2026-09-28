@@ -13,7 +13,7 @@ const client = args.mock
   : new GitHubClient({ token: process.env.GITHUB_TOKEN });
 
 const result = await collect({ countries, client, maxQueries, dryRun });
-if (!dryRun) {
+if (!dryRun && !args["no-generate"]) {
   await generateMarkdown({ countries, state: result.state });
 }
 

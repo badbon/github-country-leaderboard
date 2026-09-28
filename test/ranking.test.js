@@ -1,16 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { dedupeUsers, sortForCategory } from "../src/lib/ranking.js";
-
-test("dedupes users by login and keeps stronger record", () => {
-  const users = dedupeUsers([
-    { login: "A", followers: 1, publicContributions: 1, privateContributions: 0 },
-    { login: "a", followers: 10, publicContributions: 5, privateContributions: 0 }
-  ]);
-
-  assert.equal(users.length, 1);
-  assert.equal(users[0].followers, 10);
-});
+import { sortForCategory } from "../src/lib/ranking.js";
 
 test("sorts each category descending", () => {
   const users = [

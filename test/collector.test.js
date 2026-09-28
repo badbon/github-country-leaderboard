@@ -25,6 +25,20 @@ test("rotates countries fairly after Georgia completes", () => {
   assert.equal(selectNextCountry(state, countries).slug, "alpha");
 });
 
+test("keeps baseline discovery ahead of daily discovery", () => {
+  const countries = testCountries(["georgia", "alpha", "beta", "gamma"]);
+  const state = createInitialState(countries, new Date("2026-08-13T00:00:00Z"));
+  state.countries.georgia.status = "complete";
+  state.countries.georgia.queue = [];
+  state.countries.georgia.lastDiscoveryCompletedAt = "2026-08-13T00:00:00Z";
+  state.countries.gamma.lastDiscoveryCompletedAt = "2026-08-13T00:00:00Z";
+
+  assert.equal(selectNextCountry(state, countries).slug, "alpha");
+  assert.equal(selectNextCountry(state, countries).slug, "beta");
+  assert.equal(selectNextCountry(state, countries).slug, "alpha");
+  assert.equal(selectNextCountry(state, countries, { preferDelta: true }).slug, "gamma");
+});
+
 test("requeues the same page when request budget ends mid-enrichment", async () => {
   const originalCwd = process.cwd();
   const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-collector-"));
@@ -229,7 +243,7 @@ test("refreshes cached users after all discovery queues complete", async () => {
   }
 });
 
-test("does not refresh completed countries while discovery work remains", async () => {
+test("refreshes completed countries while discovery work remains", async () => {
   const originalCwd = process.cwd();
   const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-collector-"));
   process.chdir(tempDir);
@@ -280,20 +294,139 @@ test("does not refresh completed countries while discovery work remains", async 
           searched = true;
           return { total: 0, incomplete: false, users: [] };
         },
-        async enrichUsers() {
-          throw new Error("enrichUsers should not refresh while discovery remains");
+        async enrichUsers({ logins }) {
+          assert.deepEqual(logins, ["nino"]);
+          return { users: [{
+            login: "nino", location: "Tbilisi, Georgia", followers: 1,
+            publicContributions: 50, privateContributions: 0
+          }] };
         }
       },
-      maxQueries: 1,
+      maxQueries: 2,
       now: new Date("2026-08-13T00:00:00Z"),
       sleep: async () => {}
     });
 
     const cache = await readJson("cache/georgia.json");
     assert.equal(searched, true);
-    assert.equal(result.queries, 1);
-    assert.equal(result.state.stats.usersRefreshed, 0);
-    assert.equal(cache[0].publicContributions, 100);
+    assert.equal(result.queries, 2);
+    assert.equal(result.state.stats.usersRefreshed, 1);
+    assert.equal(cache[0].publicContributions, 50);
+  } finally {
+    process.chdir(originalCwd);
+    await rm(tempDir, { recursive: true, force: true });
+  }
+});
+
+test("queues newly eligible dates for an already published country", async () => {
+  const originalCwd = process.cwd();
+  const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-delta-"));
+  process.chdir(tempDir);
+
+  try {
+    const countries = testCountries(["testland"]);
+    await writeJson("data/state.json", {
+      version: 3,
+      countries: {
+        testland: {
+          status: "complete",
+          queue: [],
+          completed: { "testland|country|Testland|2008-01-01|2026-05-12||": {} },
+          lastDiscoveryCompletedAt: "2026-08-13T00:00:00Z",
+          stats: {}
+        }
+      },
+      stats: {}
+    });
+
+    const result = await collect({
+      countries, client: neverClient(), maxQueries: 0,
+      now: new Date("2026-08-15T00:00:00Z"), sleep: async () => {}
+    });
+    const country = result.state.countries.testland;
+    assert.equal(country.status, "discovering");
+    assert.equal(country.discoveryQueuedThrough, "2026-05-14");
+    assert.equal(country.queue[0].createdStart, "2026-05-13");
+    assert.equal(country.queue[0].createdEnd, "2026-05-14");
+    assert.ok(country.lastDiscoveryCompletedAt);
+  } finally {
+    process.chdir(originalCwd);
+    await rm(tempDir, { recursive: true, force: true });
+  }
+});
+
+test("starts only one full rediscovery when all baselines are complete", async () => {
+  const originalCwd = process.cwd();
+  const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-rediscovery-"));
+  process.chdir(tempDir);
+
+  try {
+    const countries = testCountries(["georgia", "italy"]);
+    await writeJson("data/state.json", {
+      version: 3,
+      countries: Object.fromEntries(countries.map(({ slug }) => [slug, {
+        status: "complete", queue: [], completed: {}, discoveryQueuedThrough: "2026-05-12",
+        lastDiscoveryCompletedAt: "2026-08-13T00:00:00Z", stats: {}
+      }])),
+      stats: {}
+    });
+
+    const result = await collect({
+      countries, client: neverClient(), maxQueries: 0,
+      now: new Date("2026-12-01T00:00:00Z"), sleep: async () => {}
+    });
+    const active = countries.filter(({ slug }) => result.state.countries[slug].fullRediscoveryActive);
+    assert.equal(active.length, 1);
+    assert.ok(result.state.countries[active[0].slug].queue.some((task) => task.createdStart === "2008-01-01"));
+    assert.ok(result.state.countries.italy.queue.length);
+  } finally {
+    process.chdir(originalCwd);
+    await rm(tempDir, { recursive: true, force: true });
+  }
+});
+
+test("refresh replaces lower counts and moves users between countries", async () => {
+  const originalCwd = process.cwd();
+  const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-refresh-"));
+  process.chdir(tempDir);
+
+  try {
+    const countries = testCountries(["georgia", "italy"]);
+    const cutoff = "2026-05-12";
+    await writeJson("data/state.json", {
+      version: 3,
+      countries: Object.fromEntries(countries.map(({ slug }) => [slug, {
+        status: "complete", queue: [], completed: {}, discoveryQueuedThrough: cutoff,
+        lastDiscoveryCompletedAt: "2026-08-13T00:00:00Z", stats: {}
+      }])),
+      stats: {}
+    });
+    await writeJson("cache/georgia.json", [
+      { login: "move", location: "Georgia", followers: 10, publicContributions: 100 },
+      { login: "stay", location: "Georgia", followers: 10, publicContributions: 100 }
+    ]);
+    await writeJson("cache/italy.json", []);
+
+    const result = await collect({
+      countries,
+      client: {
+        async searchUsers() { throw new Error("no discovery expected"); },
+        async enrichUsers() {
+          return { users: [
+            { login: "move", location: "Italy", followers: 2, publicContributions: 5 },
+            { login: "stay", location: "Georgia", followers: 2, publicContributions: 5 }
+          ] };
+        }
+      },
+      maxQueries: 1, now: new Date("2026-08-13T00:00:00Z"), sleep: async () => {}
+    });
+
+    const georgia = await readJson("cache/georgia.json");
+    const italy = await readJson("cache/italy.json");
+    assert.deepEqual(georgia.map((user) => user.login), ["stay"]);
+    assert.equal(georgia[0].publicContributions, 5);
+    assert.deepEqual(italy.map((user) => user.login), ["move"]);
+    assert.equal(result.state.countries.georgia.status, "complete");
   } finally {
     process.chdir(originalCwd);
     await rm(tempDir, { recursive: true, force: true });

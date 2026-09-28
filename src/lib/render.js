@@ -218,8 +218,10 @@ function hash(value) {
 }
 
 function isPublished(state, slug) {
-  const status = state?.countries?.[slug]?.status;
-  return state?.version === 3 && (status === "complete" || status === "refreshing");
+  const country = state?.countries?.[slug];
+  return state?.version === 3 && Boolean(
+    country?.lastDiscoveryCompletedAt || country?.status === "complete" || country?.status === "refreshing"
+  );
 }
 
 function totalQueued(state) {

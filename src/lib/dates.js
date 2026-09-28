@@ -5,9 +5,10 @@ export function formatDate(date) {
 }
 
 export function monthsAgo(date, months) {
-  const copy = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()));
-  copy.setUTCMonth(copy.getUTCMonth() - months);
-  return copy;
+  const target = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth() - months, 1));
+  const lastDay = new Date(Date.UTC(target.getUTCFullYear(), target.getUTCMonth() + 1, 0)).getUTCDate();
+  target.setUTCDate(Math.min(date.getUTCDate(), lastDay));
+  return target;
 }
 
 export function midpointDate(start, end) {

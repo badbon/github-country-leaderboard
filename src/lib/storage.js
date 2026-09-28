@@ -18,6 +18,15 @@ export async function writeText(path, value) {
   await writeAtomic(path, value);
 }
 
+export async function writeTextIfChanged(path, value) {
+  try {
+    if (await readFile(path, "utf8") === value) return;
+  } catch (error) {
+    if (error.code !== "ENOENT") throw error;
+  }
+  await writeAtomic(path, value);
+}
+
 async function writeAtomic(path, value) {
   await mkdir(dirname(path), { recursive: true });
   const tempPath = join(dirname(path), `.${basename(path)}.${process.pid}.${Date.now()}.tmp`);
