@@ -7,8 +7,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 258,
-    "publicContributions": 35,
+    "privateContributions": 243,
+    "publicContributions": 42,
     "createdAt": "2018-11-04T09:07:08Z"
   },
   {
@@ -18,7 +18,7 @@
     "location": "Minsk, Belarus",
     "company": "EPAM Systems",
     "twitterUsername": "",
-    "followers": 84,
+    "followers": 88,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-05-06T05:30:05Z"
@@ -43,8 +43,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 16,
-    "publicContributions": 14,
+    "privateContributions": 19,
+    "publicContributions": 19,
     "createdAt": "2026-01-09T15:07:21Z"
   },
   {
@@ -62,13 +62,13 @@
   {
     "login": "au931203",
     "name": "Alexander Ushakov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254253579?s=72&u=932ab2d1e38a8218194871a1732fb58365d5ec43&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254253579?s=72&u=5c145a8c516eee08c64e723a8c99e4b60ca9c755&v=4",
     "location": "Belarus, Minsk",
-    "company": "Minsk State Energy College",
+    "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2026-01-11T10:36:55Z"
   },
   {
@@ -92,7 +92,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 201,
     "createdAt": "2026-04-19T05:25:06Z"
   },
   {
@@ -102,9 +102,9 @@
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 199,
     "createdAt": "2026-01-08T20:44:13Z"
   },
   {
@@ -116,7 +116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 99,
     "createdAt": "2026-02-26T11:42:13Z"
   },
   {
@@ -140,19 +140,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 21,
     "createdAt": "2026-05-12T16:55:08Z"
   },
   {
     "login": "sadqwes",
-    "name": "Elizaveta",
+    "name": "Elizaveta Sobal",
     "avatarUrl": "https://avatars.githubusercontent.com/u/266732043?s=72&v=4",
-    "location": "Belarus",
+    "location": "Belarus, Minsk",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 224,
     "createdAt": "2026-03-09T12:24:59Z"
   },
   {
@@ -164,7 +164,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 34,
     "createdAt": "2026-02-09T15:06:39Z"
   },
   {
@@ -186,9 +186,9 @@
     "location": "Baranovichi, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 330,
+    "followers": 2,
+    "privateContributions": 191,
+    "publicContributions": 210,
     "createdAt": "2026-01-06T14:57:26Z"
   },
   {
@@ -235,8 +235,8 @@
     "company": "BSUIR branch of the Minsk Radiotechnical College",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 32,
-    "publicContributions": 30,
+    "privateContributions": 46,
+    "publicContributions": 52,
     "createdAt": "2026-02-17T20:18:18Z"
   },
   {

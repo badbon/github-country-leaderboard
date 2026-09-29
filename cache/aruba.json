@@ -38,12 +38,12 @@
   {
     "login": "QVault",
     "name": "Quincent",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120405099?s=72&u=98cd9cb77c9bd0e74b142427d0634ed108a90010&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120405099?s=72&u=c5fa2746fdf448c63bf805846d42536b9b2aead8&v=4",
     "location": "Aruba",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 848,
+    "followers": 8,
+    "privateContributions": 1708,
     "publicContributions": 0,
     "createdAt": "2022-12-12T16:45:30Z"
   },
@@ -54,7 +54,7 @@
     "location": "Oranjestad, Aruba",
     "company": "Lead Web Designer @AWSAruba",
     "twitterUsername": "JWSARUBA",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2021-07-24T19:46:45Z"
@@ -114,9 +114,9 @@
     "location": "Aruba",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 40,
-    "publicContributions": 13,
+    "followers": 11,
+    "privateContributions": 28,
+    "publicContributions": 18,
     "createdAt": "2020-06-16T08:25:18Z"
   },
   {
@@ -127,8 +127,8 @@
     "company": "Next Inn Games",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 89,
-    "publicContributions": 83,
+    "privateContributions": 62,
+    "publicContributions": 107,
     "createdAt": "2020-03-15T19:23:20Z"
   },
   {
@@ -138,9 +138,9 @@
     "location": "Aruba",
     "company": "",
     "twitterUsername": "",
-    "followers": 67,
+    "followers": 68,
     "privateContributions": 0,
-    "publicContributions": 486,
+    "publicContributions": 495,
     "createdAt": "2019-01-02T08:55:11Z"
   },
   {
@@ -152,7 +152,7 @@
     "twitterUsername": "BrittenAntoine",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2019-07-05T22:30:53Z"
   },
   {
@@ -174,9 +174,9 @@
     "location": "Aruba",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2018-08-14T04:47:55Z"
   },
   {
@@ -204,18 +204,6 @@
     "createdAt": "2018-01-03T17:43:31Z"
   },
   {
-    "login": "KevTerrence",
-    "name": "Kevin Franken",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/45290499?s=72&v=4",
-    "location": "Oranjestad Aruba",
-    "company": "Xa Tech",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 877,
-    "publicContributions": 0,
-    "createdAt": "2018-11-23T13:25:29Z"
-  },
-  {
     "login": "piedraplat",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/45322316?s=72&u=205f56dfa75fbd596bb312d80f835ad3642af37f&v=4",
@@ -235,8 +223,8 @@
     "company": "CR38TE",
     "twitterUsername": "azaandam",
     "followers": 9,
-    "privateContributions": 794,
-    "publicContributions": 2,
+    "privateContributions": 795,
+    "publicContributions": 0,
     "createdAt": "2017-02-28T14:41:45Z"
   },
   {

@@ -91,8 +91,8 @@
     "company": "Consultant",
     "twitterUsername": "van_christophe",
     "followers": 1,
-    "privateContributions": 173,
-    "publicContributions": 275,
+    "privateContributions": 998,
+    "publicContributions": 246,
     "createdAt": "2026-01-07T02:19:32Z"
   },
   {
@@ -102,7 +102,7 @@
     "location": "Belgium",
     "company": "ABC of Cloud Computing",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-05-03T19:17:30Z"
@@ -126,9 +126,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 156,
+    "followers": 8,
+    "privateContributions": 137,
+    "publicContributions": 178,
     "createdAt": "2026-01-13T15:34:14Z"
   },
   {
@@ -150,33 +150,33 @@
     "location": "Brussels, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 211,
+    "publicContributions": 212,
     "createdAt": "2026-02-10T08:08:34Z"
   },
   {
     "login": "mandar1n3",
-    "name": "",
+    "name": "mandarine",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255972675?s=72&u=341b15ac23d11c65898a675d23474c569bcff5b6&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 186,
+    "followers": 6,
+    "privateContributions": 190,
     "publicContributions": 33,
     "createdAt": "2026-01-19T20:58:53Z"
   },
   {
     "login": "ZellTBH",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258011364?s=72&u=1940a610a2d9e4fd538b0c5c8b58924f5b1c5ffe&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258011364?s=72&u=e722297d441ec3fca488913b1a586a42a9d84cb5&v=4",
     "location": "Belgium",
-    "company": "",
+    "company": "Breaking Frame",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 987,
-    "publicContributions": 16,
+    "followers": 6,
+    "privateContributions": 2591,
+    "publicContributions": 24,
     "createdAt": "2026-01-29T12:59:26Z"
   },
   {
@@ -199,8 +199,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 149,
-    "publicContributions": 30,
+    "privateContributions": 233,
+    "publicContributions": 35,
     "createdAt": "2026-01-06T22:44:51Z"
   },
   {
@@ -224,7 +224,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 1,
     "createdAt": "2026-02-28T14:21:11Z"
   },
   {
@@ -234,7 +234,7 @@
     "location": "Belgium / India",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2026-05-09T12:01:35Z"
