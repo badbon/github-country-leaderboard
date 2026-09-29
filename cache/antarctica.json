@@ -6,7 +6,7 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-04-15T09:55:03Z"
@@ -18,7 +18,7 @@
     "location": "Arctic Research Facility, Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-05-11T13:10:59Z"
@@ -30,7 +30,7 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 80,
     "createdAt": "2026-03-27T19:17:43Z"
@@ -44,7 +44,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 42,
     "createdAt": "2026-01-30T01:54:47Z"
   },
   {
@@ -56,7 +56,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2026-01-17T14:23:37Z"
   },
   {
@@ -80,7 +80,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 7,
     "createdAt": "2026-04-29T07:12:01Z"
   },
   {
@@ -91,8 +91,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 877,
-    "publicContributions": 54,
+    "privateContributions": 974,
+    "publicContributions": 53,
     "createdAt": "2026-03-09T04:54:33Z"
   },
   {
@@ -126,22 +126,10 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "manOf_100",
-    "followers": 73,
-    "privateContributions": 6,
-    "publicContributions": 95,
+    "followers": 76,
+    "privateContributions": 5,
+    "publicContributions": 39,
     "createdAt": "2025-05-15T08:12:33Z"
-  },
-  {
-    "login": "madhavp08",
-    "name": "madhav.p08",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/218156496?s=72&u=0956c1035ac2b9f5a6c30b6e53598caa2678e154&v=4",
-    "location": "antarctica",
-    "company": "",
-    "twitterUsername": "madhav_p08",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 118,
-    "createdAt": "2025-06-26T21:35:43Z"
   },
   {
     "login": "Ag3169",
@@ -150,7 +138,7 @@
     "location": "antarctica ",
     "company": "somewere on earth LLC",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 19,
     "publicContributions": 6,
     "createdAt": "2025-05-28T16:11:17Z"
@@ -176,7 +164,7 @@
     "twitterUsername": "AltF4Rush",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2025-05-18T13:03:29Z"
   },
   {
@@ -188,7 +176,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-09-24T14:49:28Z"
   },
   {
@@ -198,9 +186,9 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 13,
     "createdAt": "2025-06-28T15:20:49Z"
   },
   {
@@ -210,7 +198,7 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-07-31T21:17:49Z"
@@ -222,9 +210,9 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 19,
     "createdAt": "2025-04-24T05:22:08Z"
   },
   {
