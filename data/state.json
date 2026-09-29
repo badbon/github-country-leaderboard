@@ -7196,7 +7196,7 @@
           "kind": "country",
           "createdStart": "2011-04-02",
           "createdEnd": "2011-05-17",
-          "page": 3
+          "page": 4
         },
         {
           "country": "australia",
@@ -8358,21 +8358,21 @@
           "kept": 15
         }
       },
-      "lastDiscoveryAt": "2026-09-17T08:28:31.753Z",
+      "lastDiscoveryAt": "2026-09-29T22:32:23.388Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-09-28T14:14:39.871Z",
+      "lastCacheChangeAt": "2026-09-29T22:32:23.388Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1735,
-        "enrichmentRequests": 4265,
-        "usersDiscovered": 156341,
-        "usersEnriched": 83732,
+        "searchRequests": 1736,
+        "enrichmentRequests": 4270,
+        "usersDiscovered": 156441,
+        "usersEnriched": 83832,
         "usersRefreshed": 0,
-        "usersKept": 58662
+        "usersKept": 58681
       }
     },
     "austria": {
@@ -14378,7 +14378,7 @@
     },
     "bhutan": {
       "slug": "bhutan",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "bhutan",
@@ -14713,23 +14713,24 @@
       "lastDiscoveryAt": "2026-08-16T03:25:23.244Z",
       "lastDiscoveryCompletedAt": "2026-08-16T03:25:23.244Z",
       "discoveryQueuedThrough": "2026-06-28",
-      "lastCacheChangeAt": "2026-09-17T08:28:41.068Z",
+      "lastCacheChangeAt": "2026-09-29T22:32:30.130Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 57,
-        "enrichmentRequests": 40,
+        "enrichmentRequests": 41,
         "usersDiscovered": 387,
-        "usersEnriched": 387,
-        "usersRefreshed": 0,
+        "usersEnriched": 407,
+        "usersRefreshed": 20,
         "usersKept": 270
-      }
+      },
+      "refreshCursor": 20
     },
     "bolivia": {
       "slug": "bolivia",
-      "status": "discovering",
+      "status": "failed",
       "queue": [
         {
           "country": "bolivia",
@@ -15831,7 +15832,11 @@
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
-      "lastError": null,
+      "lastError": {
+        "message": "Could not resolve to a User with the login of 'adyonchain'.",
+        "status": null,
+        "at": "2026-09-29T22:32:33.491Z"
+      },
       "stats": {
         "searchRequests": 206,
         "enrichmentRequests": 141,
@@ -147478,18 +147483,18 @@
       }
     }
   },
-  "nextCountryIndex": 235,
+  "nextCountryIndex": 14,
   "nextDeltaCountryIndex": 2,
-  "nextRefreshCountryIndex": 26,
+  "nextRefreshCountryIndex": 28,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-09-29T13:06:37.883Z",
+  "lastRunStartedAt": "2026-09-29T22:31:49.327Z",
   "lastRunFinishedAt": "2026-09-28T12:13:04.134Z",
   "stats": {
-    "searchRequests": 65301,
-    "enrichmentRequests": 171692,
-    "usersDiscovered": 4238822,
-    "usersEnriched": 3288835,
-    "usersRefreshed": 7318,
-    "usersKept": 2496182
+    "searchRequests": 65302,
+    "enrichmentRequests": 171698,
+    "usersDiscovered": 4238922,
+    "usersEnriched": 3288955,
+    "usersRefreshed": 7338,
+    "usersKept": 2496201
   }
 }
