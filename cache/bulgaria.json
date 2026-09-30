@@ -30,9 +30,9 @@
     "location": "Sofia, Bulgaria",
     "company": "SAP",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 979,
+    "publicContributions": 1414,
     "createdAt": "2026-05-05T20:19:41Z"
   },
   {
@@ -44,7 +44,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 19,
     "createdAt": "2026-04-11T06:34:50Z"
   },
   {
@@ -62,13 +62,13 @@
   {
     "login": "Missha96",
     "name": "Mihaela Petrova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283653234?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283653234?s=72&u=81b9fb6b7e0a22ca9b552c7498222f1f3d29064d&v=4",
     "location": "Sofia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 28,
     "createdAt": "2026-05-11T12:02:13Z"
   },
   {
@@ -80,7 +80,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 20,
     "createdAt": "2026-04-06T10:42:09Z"
   },
   {
@@ -102,7 +102,7 @@
     "location": "Plovdiv Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 237,
     "createdAt": "2026-01-14T16:59:21Z"
@@ -114,8 +114,8 @@
     "location": "Sofia, Sofia City, Bulgaria",
     "company": "SmartestDev",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 310,
+    "followers": 8,
+    "privateContributions": 241,
     "publicContributions": 21,
     "createdAt": "2026-03-12T08:51:13Z"
   },
@@ -126,9 +126,9 @@
     "location": "Bulgaria",
     "company": "IDRobots",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 86,
-    "publicContributions": 734,
+    "followers": 11,
+    "privateContributions": 1220,
+    "publicContributions": 1905,
     "createdAt": "2026-02-23T20:17:09Z"
   },
   {
@@ -136,11 +136,11 @@
     "name": "Devel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/263461762?s=72&u=352f7af726d1174274a5bceb4eb9b0a21872f2b9&v=4",
     "location": "Bulgaria",
-    "company": "",
+    "company": "std::option::Option::None",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 4,
-    "publicContributions": 188,
+    "publicContributions": 280,
     "createdAt": "2026-02-23T19:56:16Z"
   },
   {
@@ -164,7 +164,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 24,
     "createdAt": "2026-03-22T20:26:02Z"
   },
   {
@@ -198,7 +198,7 @@
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-17T15:53:11Z"
