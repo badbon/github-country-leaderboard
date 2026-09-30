@@ -8,7 +8,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 12,
     "createdAt": "2025-07-22T17:30:01Z"
   },
   {
@@ -20,7 +20,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 23,
     "createdAt": "2025-06-24T09:35:03Z"
   },
   {
@@ -29,10 +29,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/174064804?s=72&u=120b769bab07bd9a80bf1d3f2f5cb2b6303f740a&v=4",
     "location": "Bangui, Central African Republic",
     "company": "",
-    "twitterUsername": "yadjiOs",
-    "followers": 3,
-    "privateContributions": 176,
-    "publicContributions": 32,
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 177,
+    "publicContributions": 13,
     "createdAt": "2024-06-27T21:35:29Z"
   },
   {
@@ -42,9 +42,9 @@
     "location": "BANGUI",
     "company": "@ikouelabs @sendou-startup ",
     "twitterUsername": "ElielMengue",
-    "followers": 17,
-    "privateContributions": 691,
-    "publicContributions": 265,
+    "followers": 23,
+    "privateContributions": 907,
+    "publicContributions": 226,
     "createdAt": "2024-01-13T09:27:34Z"
   },
   {
@@ -55,8 +55,8 @@
     "company": "",
     "twitterUsername": "Lecreatif01",
     "followers": 3,
-    "privateContributions": 278,
-    "publicContributions": 22,
+    "privateContributions": 281,
+    "publicContributions": 20,
     "createdAt": "2024-06-21T17:00:51Z"
   },
   {
@@ -78,9 +78,9 @@
     "location": "Remote ,Bangui , Centrafrique 🇨🇫 ;",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 241,
-    "publicContributions": 127,
+    "followers": 16,
+    "privateContributions": 494,
+    "publicContributions": 120,
     "createdAt": "2022-01-31T10:58:11Z"
   },
   {
@@ -92,19 +92,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 44,
     "createdAt": "2022-03-02T00:57:59Z"
   },
   {
     "login": "yann-bot",
     "name": "Yann Dubois Ouafete",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73198631?s=72&u=bc415c80bf5b0c02ae6b07a610c05d391a451148&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73198631?s=72&u=3859993af6c7bcc444a270eef3a0923f120865e3&v=4",
     "location": "Bangui , CAR",
     "company": "@ikoueorg ",
     "twitterUsername": "YannOuafete",
     "followers": 2,
-    "privateContributions": 635,
-    "publicContributions": 54,
+    "privateContributions": 766,
+    "publicContributions": 56,
     "createdAt": "2020-10-20T20:30:06Z"
   },
   {
@@ -128,7 +128,7 @@
     "twitterUsername": "NGUEREZATony",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 274,
+    "publicContributions": 249,
     "createdAt": "2015-12-06T16:01:46Z"
   }
 ]

@@ -26,13 +26,13 @@
   {
     "login": "Adedamola18",
     "name": "Damola Olutoke",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/242042713?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/242042713?s=72&u=f33481d6c9335adda1d4204a5da97e646e08f5e1&v=4",
     "location": "Cayman Islands",
     "company": "IQ",
     "twitterUsername": "adedamola_dee",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 203,
+    "publicContributions": 229,
     "createdAt": "2025-11-04T18:00:02Z"
   },
   {
@@ -43,8 +43,8 @@
     "company": "https://invovibetech.com/",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 417,
-    "publicContributions": 48,
+    "privateContributions": 640,
+    "publicContributions": 264,
     "createdAt": "2024-03-27T08:55:39Z"
   },
   {
@@ -82,18 +82,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-27T22:03:00Z"
-  },
-  {
-    "login": "dearlyzin",
-    "name": "d",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148608449?s=72&u=c92460420e9e9d61601f27ccfbde62e9600db4d4&v=4",
-    "location": "Cayman Islands",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2023-10-21T05:24:52Z"
   },
   {
     "login": "restaking-cloud",
@@ -175,8 +163,8 @@
     "company": "Ether.Fi",
     "twitterUsername": "0xpanicError",
     "followers": 83,
-    "privateContributions": 1621,
-    "publicContributions": 744,
+    "privateContributions": 1597,
+    "publicContributions": 777,
     "createdAt": "2022-06-16T11:30:01Z"
   },
   {
@@ -184,11 +172,11 @@
     "name": "Leo Hermoso",
     "avatarUrl": "https://avatars.githubusercontent.com/u/99146184?s=72&u=3b6d081183a282b6927775a13315d1a9981deed9&v=4",
     "location": "Cayman Islands",
-    "company": "",
+    "company": "Liquid Byte Labs",
     "twitterUsername": "leohermoso",
-    "followers": 57,
-    "privateContributions": 18254,
-    "publicContributions": 167,
+    "followers": 58,
+    "privateContributions": 20865,
+    "publicContributions": 259,
     "createdAt": "2022-02-06T21:06:34Z"
   },
   {
@@ -211,7 +199,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1471,
+    "privateContributions": 1276,
     "publicContributions": 0,
     "createdAt": "2022-01-25T18:27:54Z"
   },
