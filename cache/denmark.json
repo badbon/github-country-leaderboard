@@ -1,26 +1,14 @@
 [
   {
-    "login": "HowManyOliversAreThere",
-    "name": "Oliver",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5314862?s=72&u=6392ff601fc6440aafd2e018448ca09ccf6f8dda&v=4",
-    "location": "Aarhus, Denmark",
-    "company": "Corella Creations",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 66,
-    "createdAt": "2013-08-26T18:56:47Z"
-  },
-  {
     "login": "Chmod666music",
     "name": "Chmod 666",
     "avatarUrl": "https://avatars.githubusercontent.com/u/253575702?s=72&u=1adc9ba9af88c1bcd50b573bdd6a2673a2cd6f83&v=4",
     "location": "Danmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 88,
     "createdAt": "2026-01-07T19:24:58Z"
   },
   {
@@ -66,9 +54,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 349,
+    "publicContributions": 405,
     "createdAt": "2026-01-26T00:32:51Z"
   },
   {
@@ -78,9 +66,9 @@
     "location": "Copenhagen, Denmark",
     "company": "@good-city",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 794,
-    "publicContributions": 1,
+    "followers": 5,
+    "privateContributions": 929,
+    "publicContributions": 5,
     "createdAt": "2026-02-02T11:09:52Z"
   },
   {
@@ -90,7 +78,7 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 88,
     "createdAt": "2026-02-19T00:34:20Z"
@@ -102,7 +90,7 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 76,
     "createdAt": "2026-02-19T05:57:25Z"
@@ -126,7 +114,7 @@
     "location": "denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2026-04-10T14:41:16Z"
@@ -164,7 +152,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 648,
+    "publicContributions": 1504,
     "createdAt": "2026-04-18T13:27:44Z"
   },
   {
@@ -224,7 +212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2026-04-25T15:22:54Z"
   },
   {
