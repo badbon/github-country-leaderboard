@@ -33613,7 +33613,7 @@
       "lastDiscoveryAt": "2026-10-02T05:55:43.577Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-02T05:55:43.577Z",
+      "lastCacheChangeAt": "2026-10-02T22:30:18.985Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
@@ -65534,23 +65534,24 @@
       "lastDiscoveryAt": "2026-08-14T02:32:23.032Z",
       "lastDiscoveryCompletedAt": "2026-08-14T02:32:23.032Z",
       "discoveryQueuedThrough": "2026-07-01",
-      "lastCacheChangeAt": "2026-09-17T08:28:41.068Z",
+      "lastCacheChangeAt": "2026-10-02T22:30:07.664Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": null,
+      "lastContributionRefreshAt": "2026-10-02T22:30:07.664Z",
       "lastError": null,
       "stats": {
         "searchRequests": 19,
-        "enrichmentRequests": 3,
+        "enrichmentRequests": 4,
         "usersDiscovered": 3,
-        "usersEnriched": 3,
-        "usersRefreshed": 0,
+        "usersEnriched": 6,
+        "usersRefreshed": 3,
         "usersKept": 3
-      }
+      },
+      "refreshCursor": 0
     },
     "honduras": {
       "slug": "honduras",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "honduras",
@@ -66078,23 +66079,24 @@
       "lastDiscoveryAt": "2026-08-17T07:03:05.137Z",
       "lastDiscoveryCompletedAt": "2026-08-17T07:03:05.137Z",
       "discoveryQueuedThrough": "2026-07-01",
-      "lastCacheChangeAt": "2026-09-17T08:28:41.068Z",
+      "lastCacheChangeAt": "2026-10-02T22:30:11.401Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 79,
-        "enrichmentRequests": 97,
+        "enrichmentRequests": 98,
         "usersDiscovered": 1551,
-        "usersEnriched": 1551,
-        "usersRefreshed": 0,
+        "usersEnriched": 1571,
+        "usersRefreshed": 20,
         "usersKept": 1269
-      }
+      },
+      "refreshCursor": 20
     },
     "hong_kong": {
       "slug": "hong_kong",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "hong_kong",
@@ -66507,23 +66509,24 @@
       "lastDiscoveryAt": "2026-08-19T15:59:53.681Z",
       "lastDiscoveryCompletedAt": "2026-08-19T15:59:53.681Z",
       "discoveryQueuedThrough": "2026-07-01",
-      "lastCacheChangeAt": "2026-09-17T08:28:41.068Z",
+      "lastCacheChangeAt": "2026-10-02T22:30:18.985Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 164,
-        "enrichmentRequests": 577,
+        "enrichmentRequests": 578,
         "usersDiscovered": 11297,
-        "usersEnriched": 11277,
-        "usersRefreshed": 0,
+        "usersEnriched": 11297,
+        "usersRefreshed": 20,
         "usersKept": 10322
-      }
+      },
+      "refreshCursor": 17
     },
     "hungary": {
       "slug": "hungary",
-      "status": "discovering",
+      "status": "failed",
       "queue": [
         {
           "country": "hungary",
@@ -66795,7 +66798,11 @@
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
-      "lastError": null,
+      "lastError": {
+        "message": "Could not resolve to a User with the login of 'CasinoLove'.",
+        "status": null,
+        "at": "2026-10-02T22:31:41.688Z"
+      },
       "stats": {
         "searchRequests": 162,
         "enrichmentRequests": 724,
@@ -139463,19 +139470,19 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-01T14:37:52.291Z",
+      "lastDiscoveryAt": "2026-10-02T22:30:04.780Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-09-29T13:10:47.588Z",
+      "lastCacheChangeAt": "2026-10-02T22:30:04.780Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1736,
-        "enrichmentRequests": 5026,
-        "usersDiscovered": 152647,
-        "usersEnriched": 98416,
+        "searchRequests": 1737,
+        "enrichmentRequests": 5027,
+        "usersDiscovered": 152747,
+        "usersEnriched": 98436,
         "usersRefreshed": 0,
         "usersKept": 75526
       }
@@ -141995,6 +142002,14 @@
           "term": "Sweden",
           "kind": "country",
           "createdStart": "2008-07-02",
+          "createdEnd": "2008-09-30",
+          "page": 1
+        },
+        {
+          "country": "sweden",
+          "term": "Sweden",
+          "kind": "country",
+          "createdStart": "2008-10-01",
           "createdEnd": "2008-12-30",
           "page": 1
         },
@@ -142657,7 +142672,7 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1736,
+        "searchRequests": 1737,
         "enrichmentRequests": 2428,
         "usersDiscovered": 159360,
         "usersEnriched": 47641,
@@ -158667,7 +158682,7 @@
           "kept": 60
         }
       },
-      "lastDiscoveryAt": "2026-10-01T14:39:09.631Z",
+      "lastDiscoveryAt": "2026-10-02T22:31:37.486Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-09-29T13:12:33.019Z",
@@ -158676,9 +158691,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1736,
+        "searchRequests": 1737,
         "enrichmentRequests": 4200,
-        "usersDiscovered": 128890,
+        "usersDiscovered": 128907,
         "usersEnriched": 81749,
         "usersRefreshed": 0,
         "usersKept": 72374
@@ -168714,18 +168729,18 @@
       }
     }
   },
-  "nextCountryIndex": 182,
+  "nextCountryIndex": 234,
   "nextDeltaCountryIndex": 6,
-  "nextRefreshCountryIndex": 96,
+  "nextRefreshCountryIndex": 100,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-02T12:54:52.700Z",
+  "lastRunStartedAt": "2026-10-02T22:29:06.811Z",
   "lastRunFinishedAt": "2026-09-28T12:13:04.134Z",
   "stats": {
-    "searchRequests": 65333,
-    "enrichmentRequests": 171800,
-    "usersDiscovered": 4240828,
-    "usersEnriched": 3290874,
-    "usersRefreshed": 8344,
-    "usersKept": 2496839
+    "searchRequests": 65336,
+    "enrichmentRequests": 171804,
+    "usersDiscovered": 4240945,
+    "usersEnriched": 3290937,
+    "usersRefreshed": 8387,
+    "usersKept": 2496837
   }
 }

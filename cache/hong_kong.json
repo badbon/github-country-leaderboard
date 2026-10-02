@@ -1,17 +1,5 @@
 [
   {
-    "login": "hushuguo",
-    "name": "Shuguo Hu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46697574?s=72&u=5362f02be8634ecb183f67570500251f22548a94&v=4",
-    "location": "Hong Kong",
-    "company": "Hong Kong Baptist University",
-    "twitterUsername": "hushuguo",
-    "followers": 21,
-    "privateContributions": 373,
-    "publicContributions": 527,
-    "createdAt": "2019-01-15T01:51:13Z"
-  },
-  {
     "login": "vincichan1089",
     "name": "Vinci Chan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/261729134?s=72&u=187c06bb5c221255a5bc5ebf426855ffe5c4bde7&v=4",
@@ -36,27 +24,15 @@
     "createdAt": "2026-02-19T14:42:34Z"
   },
   {
-    "login": "bunnyera-global-admin",
-    "name": "BunnyEra-Global",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257604439?s=72&u=6d1dc41fdb635361e3359b6350b0f839986b62ce&v=4",
-    "location": "Hong Kong, China — operating globally",
-    "company": "@bunnyera-org",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 40,
-    "createdAt": "2026-01-27T18:17:13Z"
-  },
-  {
     "login": "UzawaReisaQwQ",
     "name": "玲羽",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195327324?s=72&u=9f9d82d06a01ce5a2b5fd0934b1fed362a9bac69&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195327324?s=72&u=04a9e5b978cc1628850e87d8483082707521eddc&v=4",
     "location": "Hong Kong, China",
     "company": "Guangzhou Xinghui Network",
     "twitterUsername": "ZeroNight2024",
-    "followers": 24,
-    "privateContributions": 22,
-    "publicContributions": 56,
+    "followers": 28,
+    "privateContributions": 18,
+    "publicContributions": 50,
     "createdAt": "2025-01-16T15:57:40Z"
   },
   {
@@ -66,9 +42,9 @@
     "location": "Hong Kong, China",
     "company": "Chinese Unversity of Hong Kong",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 35,
     "createdAt": "2025-02-09T05:55:39Z"
   },
   {
@@ -92,7 +68,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2025-11-21T15:23:59Z"
   },
   {
@@ -132,18 +108,6 @@
     "createdAt": "2025-03-25T06:36:04Z"
   },
   {
-    "login": "zheming1210",
-    "name": "zzm",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232017454?s=72&u=66d660b08df5deda1f1432ea4e86f5688551174d&v=4",
-    "location": "HONG KONG, China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2025-09-13T05:52:14Z"
-  },
-  {
     "login": "Chengeat",
     "name": "Chengeat",
     "avatarUrl": "https://avatars.githubusercontent.com/u/220852370?s=72&u=6806da28858cbef5089dcc8131b38fd20037cd07&v=4",
@@ -152,7 +116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 17,
     "createdAt": "2025-07-15T08:06:11Z"
   },
   {
@@ -164,19 +128,19 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 279,
+    "publicContributions": 314,
     "createdAt": "2026-04-17T08:12:46Z"
   },
   {
     "login": "ndpvt-web",
     "name": "Nivesh dandyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261223597?s=72&u=30af4109a82265c9636d6a7558916b46525026d0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261223597?s=72&v=4",
     "location": "Hong Kong",
     "company": "happycapy ai",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 455,
+    "publicContributions": 507,
     "createdAt": "2026-02-12T14:31:19Z"
   },
   {
@@ -186,7 +150,7 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-03-04T06:27:06Z"
@@ -210,9 +174,9 @@
     "location": "Hong Kong",
     "company": "十方无限科技 / Tenisinfinite Tech",
     "twitterUsername": "JadeGateAI",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 561,
+    "publicContributions": 712,
     "createdAt": "2026-03-26T14:23:09Z"
   },
   {
@@ -224,7 +188,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 68,
     "createdAt": "2026-02-12T07:12:43Z"
   },
   {
