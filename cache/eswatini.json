@@ -67,8 +67,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 789,
+    "privateContributions": 2,
+    "publicContributions": 487,
     "createdAt": "2024-07-06T20:19:03Z"
   },
   {
@@ -79,8 +79,8 @@
     "company": "BRT Inc.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 259,
-    "publicContributions": 664,
+    "privateContributions": 334,
+    "publicContributions": 673,
     "createdAt": "2024-07-31T19:22:35Z"
   },
   {
@@ -102,7 +102,7 @@
     "location": "Swaziland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-10-19T06:17:19Z"
@@ -110,13 +110,13 @@
   {
     "login": "BrianMsane",
     "name": "Brian Msane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154548195?s=72&u=d97a2ed1948b28a8e5266edf7e885b12811bb812&v=4",
-    "location": "Manzini, Eswatini",
-    "company": "University Of Eswatini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154548195?s=72&v=4",
+    "location": "Ezulwini, Eswatini",
+    "company": "EPH",
     "twitterUsername": "msanebrianboss",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 50,
     "createdAt": "2023-12-21T17:59:51Z"
   },
   {
@@ -128,7 +128,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 54,
     "createdAt": "2023-02-15T12:27:53Z"
   },
   {
@@ -152,7 +152,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 27,
     "createdAt": "2023-01-11T01:42:46Z"
   },
   {
@@ -164,7 +164,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 73,
     "createdAt": "2023-04-12T14:28:43Z"
   },
   {
@@ -174,9 +174,9 @@
     "location": "Swaziland",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 69,
     "createdAt": "2023-03-26T11:16:26Z"
   },
   {
@@ -223,7 +223,7 @@
     "company": "Innovation Forge",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 224,
+    "privateContributions": 222,
     "publicContributions": 1,
     "createdAt": "2022-09-20T16:19:12Z"
   },
@@ -234,9 +234,9 @@
     "location": "Matsapha, Eswatini",
     "company": "Coca-Cola Bevarages Eswatini",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2021-12-29T20:21:42Z"
   },
   {

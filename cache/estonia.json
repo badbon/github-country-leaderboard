@@ -20,7 +20,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 187,
+    "publicContributions": 1,
     "createdAt": "2026-02-15T06:19:47Z"
   },
   {
@@ -30,7 +30,7 @@
     "location": "Estonia",
     "company": "Ostusemu OÜ",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-13T12:25:46Z"
@@ -42,9 +42,9 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 6731,
-    "publicContributions": 507,
+    "followers": 7,
+    "privateContributions": 9641,
+    "publicContributions": 587,
     "createdAt": "2026-04-03T08:42:45Z"
   },
   {
@@ -52,23 +52,23 @@
     "name": "Martin Veeberg",
     "avatarUrl": "https://avatars.githubusercontent.com/u/259559304?s=72&u=4b53d535958ce05e03eba1ced468b77c084179bd&v=4",
     "location": "Estonia",
-    "company": "",
+    "company": "Sigma OÜ",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 72,
     "createdAt": "2026-02-05T10:45:55Z"
   },
   {
     "login": "teamvrotek",
     "name": "VROTEK",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259464151?s=72&u=0b72ccd8eba08d5b981cb5f32f2d7af0e47c6cc0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259464151?s=72&u=061465bb94f27a47e940876a31aea892f0e3e760&v=4",
     "location": "Tallinn, Estonia",
     "company": "VROTEK OÜ",
     "twitterUsername": "TeamVrotek",
     "followers": 3,
-    "privateContributions": 3667,
-    "publicContributions": 21,
+    "privateContributions": 5014,
+    "publicContributions": 73,
     "createdAt": "2026-02-05T00:18:57Z"
   },
   {
@@ -80,7 +80,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 74,
     "createdAt": "2026-03-06T17:08:09Z"
   },
   {
@@ -116,7 +116,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 167,
     "createdAt": "2026-04-27T19:55:32Z"
   },
   {
@@ -128,7 +128,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 298,
+    "publicContributions": 426,
     "createdAt": "2026-02-06T07:41:16Z"
   },
   {
@@ -224,7 +224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 76,
     "createdAt": "2026-02-05T23:57:55Z"
   },
   {
@@ -234,9 +234,9 @@
     "location": "Tallinn, Estonia",
     "company": "ClearML",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 213,
+    "publicContributions": 269,
     "createdAt": "2026-02-09T12:24:28Z"
   },
   {
