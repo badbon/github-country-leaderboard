@@ -26,13 +26,13 @@
   {
     "login": "baribucirio-cmyk",
     "name": "Bucirio Bari",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/268121566?s=72&u=7bd8e0872013ee1ead31fe2ace694ea5f95e9260&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/268121566?s=72&u=56aff6595947151ab4f5e20941e859c230dc0a8d&v=4",
     "location": "Guiné-Bissau",
     "company": "Estudante",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 57,
     "createdAt": "2026-03-14T07:36:09Z"
   },
   {
@@ -44,7 +44,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2025-04-24T13:50:42Z"
   },
   {
@@ -90,9 +90,9 @@
     "location": "Bissau, Guinea-Bissau",
     "company": "Abiptom",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 453,
+    "publicContributions": 433,
     "createdAt": "2023-03-06T06:33:10Z"
   },
   {
@@ -102,9 +102,9 @@
     "location": "Guiné-bissau/pluba",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 64,
     "createdAt": "2023-08-10T15:24:29Z"
   },
   {
@@ -176,7 +176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2020-04-16T00:37:29Z"
   },
   {
@@ -186,7 +186,7 @@
     "location": "Bissau, Guiné-Bissau",
     "company": "Menzies Aviation",
     "twitterUsername": "eduildo_lima",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2019-06-14T08:19:45Z"
@@ -234,8 +234,8 @@
     "location": "Bissau",
     "company": "CEO @ IHT - Iniciativa Hobai Tecnologias",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 214,
+    "followers": 21,
+    "privateContributions": 241,
     "publicContributions": 17,
     "createdAt": "2017-10-10T22:23:30Z"
   },

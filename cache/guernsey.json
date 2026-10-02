@@ -8,7 +8,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 729,
+    "publicContributions": 689,
     "createdAt": "2023-05-31T14:50:37Z"
   },
   {
@@ -20,7 +20,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2023-02-25T17:32:40Z"
   },
   {
@@ -42,7 +42,7 @@
     "location": "Guernsey",
     "company": "",
     "twitterUsername": "nthomasgsy",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-24T18:47:07Z"
@@ -91,19 +91,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 177,
+    "privateContributions": 909,
     "publicContributions": 1,
     "createdAt": "2020-11-09T23:32:11Z"
   },
   {
     "login": "JamesK2754",
     "name": "James King",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59583277?s=72&u=473d88fdc9839a7e2315e0296920e80955405f90&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59583277?s=72&u=ba2bf86f7778b9a0dd7f63451a3a54228fc69ddd&v=4",
     "location": "Guernsey",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 71,
+    "privateContributions": 180,
     "publicContributions": 2,
     "createdAt": "2020-01-06T21:42:09Z"
   },
@@ -150,9 +150,9 @@
     "location": "Guernsey",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1459,
-    "publicContributions": 23,
+    "followers": 4,
+    "privateContributions": 2184,
+    "publicContributions": 22,
     "createdAt": "2017-03-18T07:34:32Z"
   },
   {
@@ -186,9 +186,9 @@
     "location": "Guernsey",
     "company": "",
     "twitterUsername": "",
-    "followers": 43,
-    "privateContributions": 870,
-    "publicContributions": 395,
+    "followers": 44,
+    "privateContributions": 806,
+    "publicContributions": 444,
     "createdAt": "2016-04-13T14:27:34Z"
   },
   {
@@ -198,9 +198,9 @@
     "location": "Guernsey",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 2,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2016-02-23T18:49:59Z"
   },
   {
@@ -211,8 +211,8 @@
     "company": "U&US",
     "twitterUsername": "riclep",
     "followers": 15,
-    "privateContributions": 1409,
-    "publicContributions": 101,
+    "privateContributions": 1403,
+    "publicContributions": 81,
     "createdAt": "2016-06-03T08:50:36Z"
   },
   {
@@ -235,7 +235,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 123,
+    "privateContributions": 103,
     "publicContributions": 2,
     "createdAt": "2016-09-15T12:17:56Z"
   },

@@ -44,7 +44,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2025-02-21T14:33:53Z"
   },
   {
@@ -56,7 +56,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 48,
     "createdAt": "2025-04-02T08:23:20Z"
   },
   {
@@ -68,7 +68,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 18,
     "createdAt": "2025-06-18T01:53:29Z"
   },
   {
@@ -102,9 +102,9 @@
     "location": "Guyana",
     "company": "@MintLeaf-Tech ",
     "twitterUsername": "",
-    "followers": 236,
-    "privateContributions": 754,
-    "publicContributions": 598,
+    "followers": 233,
+    "privateContributions": 949,
+    "publicContributions": 562,
     "createdAt": "2024-01-03T04:00:13Z"
   },
   {
@@ -114,9 +114,9 @@
     "location": "Georgetown, Guyana",
     "company": "TG MEDIA",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 18,
-    "publicContributions": 15,
+    "followers": 2,
+    "privateContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2024-05-29T00:47:36Z"
   },
   {
@@ -138,9 +138,9 @@
     "location": "Georgetown University",
     "company": "Johns Hopkins Applied Physics Lab",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 500,
-    "publicContributions": 767,
+    "followers": 12,
+    "privateContributions": 518,
+    "publicContributions": 714,
     "createdAt": "2024-08-27T21:47:05Z"
   },
   {
@@ -151,7 +151,7 @@
     "company": "SenSimTek",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1179,
+    "privateContributions": 1468,
     "publicContributions": 1,
     "createdAt": "2024-03-27T20:03:45Z"
   },
@@ -187,8 +187,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 219,
-    "publicContributions": 154,
+    "privateContributions": 211,
+    "publicContributions": 182,
     "createdAt": "2023-09-11T19:14:17Z"
   },
   {
@@ -210,9 +210,9 @@
     "location": "Guyana",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 116,
-    "publicContributions": 134,
+    "followers": 8,
+    "privateContributions": 158,
+    "publicContributions": 241,
     "createdAt": "2022-06-30T21:15:18Z"
   },
   {
@@ -222,9 +222,9 @@
     "location": "Georgetown, Guyana",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 47,
-    "publicContributions": 77,
+    "followers": 2,
+    "privateContributions": 43,
+    "publicContributions": 73,
     "createdAt": "2022-04-09T18:45:09Z"
   },
   {
@@ -234,9 +234,9 @@
     "location": "Guyana",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 144,
-    "publicContributions": 49,
+    "followers": 2,
+    "privateContributions": 301,
+    "publicContributions": 63,
     "createdAt": "2022-03-22T22:59:35Z"
   },
   {
