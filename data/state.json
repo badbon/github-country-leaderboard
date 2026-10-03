@@ -8856,14 +8856,6 @@
           "country": "australia",
           "term": "Australia",
           "kind": "country",
-          "createdStart": "2011-04-02",
-          "createdEnd": "2011-05-17",
-          "page": 5
-        },
-        {
-          "country": "australia",
-          "term": "Australia",
-          "kind": "country",
           "createdStart": "2011-05-18",
           "createdEnd": "2011-07-01",
           "page": 1
@@ -10018,23 +10010,28 @@
           "completedAt": "2026-09-11T10:01:55.006Z",
           "total": 715,
           "kept": 15
+        },
+        "australia|country|Australia|2011-04-02|2011-05-17||": {
+          "completedAt": "2026-10-03T11:55:43.415Z",
+          "total": 420,
+          "kept": 20
         }
       },
-      "lastDiscoveryAt": "2026-10-01T22:58:07.959Z",
+      "lastDiscoveryAt": "2026-10-03T11:55:43.415Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-01T22:58:13.743Z",
+      "lastCacheChangeAt": "2026-10-03T11:55:43.415Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1737,
-        "enrichmentRequests": 4275,
-        "usersDiscovered": 156541,
-        "usersEnriched": 83932,
+        "searchRequests": 1738,
+        "enrichmentRequests": 4276,
+        "usersDiscovered": 156561,
+        "usersEnriched": 83952,
         "usersRefreshed": 0,
-        "usersKept": 58779
+        "usersKept": 58799
       }
     },
     "austria": {
@@ -72984,7 +72981,7 @@
     },
     "indonesia": {
       "slug": "indonesia",
-      "status": "discovering",
+      "status": "failed",
       "queue": [
         {
           "country": "indonesia",
@@ -73904,7 +73901,11 @@
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
-      "lastError": null,
+      "lastError": {
+        "message": "Could not resolve to a User with the login of 'MarkAdderly'.",
+        "status": null,
+        "at": "2026-10-03T11:55:48.668Z"
+      },
       "stats": {
         "searchRequests": 901,
         "enrichmentRequests": 3692,
@@ -175775,18 +175776,18 @@
       }
     }
   },
-  "nextCountryIndex": 235,
+  "nextCountryIndex": 14,
   "nextDeltaCountryIndex": 6,
-  "nextRefreshCountryIndex": 101,
+  "nextRefreshCountryIndex": 103,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-03T05:34:26.712Z",
+  "lastRunStartedAt": "2026-10-03T11:55:31.172Z",
   "lastRunFinishedAt": "2026-09-28T12:13:04.134Z",
   "stats": {
-    "searchRequests": 65337,
-    "enrichmentRequests": 171809,
-    "usersDiscovered": 4241045,
-    "usersEnriched": 3291037,
+    "searchRequests": 65338,
+    "enrichmentRequests": 171810,
+    "usersDiscovered": 4241065,
+    "usersEnriched": 3291057,
     "usersRefreshed": 8387,
-    "usersKept": 2496899
+    "usersKept": 2496918
   }
 }
