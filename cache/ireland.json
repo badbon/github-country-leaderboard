@@ -1,17 +1,5 @@
 [
   {
-    "login": "LucasLora",
-    "name": "Lucas Lora",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78751573?s=72&u=8ed53c3c1e2b52bef343f97d6e7357c7a8b8ed6d&v=4",
-    "location": "Dublin - Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 15,
-    "publicContributions": 68,
-    "createdAt": "2021-02-08T17:09:15Z"
-  },
-  {
     "login": "Jpowell94",
     "name": "Jesse Powell",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16884250?s=72&u=a2c17ef52daade3ba437640a58bc78c2c626ff53&v=4",
@@ -30,9 +18,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 1953,
-    "publicContributions": 7804,
+    "followers": 36,
+    "privateContributions": 101,
+    "publicContributions": 5605,
     "createdAt": "2026-02-06T13:30:03Z"
   },
   {
@@ -54,9 +42,9 @@
     "location": "Cork, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 5,
-    "publicContributions": 73,
+    "followers": 25,
+    "privateContributions": 44,
+    "publicContributions": 96,
     "createdAt": "2026-01-23T16:57:33Z"
   },
   {
@@ -66,9 +54,9 @@
     "location": "Ireland",
     "company": "@rapid7",
     "twitterUsername": "_CryptoCat",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 6,
-    "publicContributions": 18,
+    "publicContributions": 22,
     "createdAt": "2026-02-10T13:27:24Z"
   },
   {
@@ -90,9 +78,9 @@
     "location": "Wexford, Ireland",
     "company": "Remote",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 12,
     "privateContributions": 30,
-    "publicContributions": 1349,
+    "publicContributions": 1144,
     "createdAt": "2026-05-10T09:58:40Z"
   },
   {
@@ -115,8 +103,8 @@
     "company": "D3X LABS",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1463,
-    "publicContributions": 90,
+    "privateContributions": 3357,
+    "publicContributions": 149,
     "createdAt": "2026-03-06T09:05:54Z"
   },
   {
@@ -140,7 +128,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 12,
     "createdAt": "2026-01-03T16:50:07Z"
   },
   {
@@ -157,14 +145,14 @@
   },
   {
     "login": "colin1miley-stack",
-    "name": "Colin Miley",
+    "name": "Colin Miley Revenue Systems",
     "avatarUrl": "https://avatars.githubusercontent.com/u/270423455?s=72&u=44e426b10afb663ffedfabd1258f9f7d1f2f2321&v=4",
     "location": "Dublin, Ireland",
-    "company": "Revenue Ritual",
+    "company": "Revenue Systems",
     "twitterUsername": "colin1miley",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 81,
     "createdAt": "2026-03-23T17:01:24Z"
   },
   {
@@ -174,9 +162,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 943,
+    "publicContributions": 1201,
     "createdAt": "2026-01-23T20:59:05Z"
   },
   {
@@ -188,7 +176,7 @@
     "twitterUsername": "PhelimBirch",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 44,
     "createdAt": "2026-02-11T22:14:12Z"
   },
   {
@@ -198,9 +186,9 @@
     "location": "Ireland , Dublin",
     "company": "Msc. Big Data Management and analytics",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 63,
     "createdAt": "2026-01-01T08:12:41Z"
   },
   {
@@ -210,7 +198,7 @@
     "location": "Cork, Ireland",
     "company": "Reality Labs Research (Meta)",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 216,
     "createdAt": "2026-02-01T03:26:32Z"
@@ -222,9 +210,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "Imqiyton",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 170,
     "createdAt": "2026-02-16T14:38:56Z"
   },
   {
@@ -234,9 +222,9 @@
     "location": "Dublin, Ireland",
     "company": "High Caffeine Content",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 136,
     "createdAt": "2026-01-21T13:50:10Z"
   },
   {
