@@ -20657,7 +20657,8 @@
           "term": "Brasil",
           "kind": "country",
           "createdStart": "2020-06-07",
-          "createdEnd": "2020-06-28"
+          "createdEnd": "2020-06-28",
+          "page": 2
         },
         {
           "country": "brazil",
@@ -22833,21 +22834,21 @@
           "kept": 35
         }
       },
-      "lastDiscoveryAt": "2026-10-01T22:59:38.230Z",
+      "lastDiscoveryAt": "2026-10-03T16:38:15.684Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-01T22:59:38.230Z",
+      "lastCacheChangeAt": "2026-10-03T16:38:15.684Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1737,
-        "enrichmentRequests": 7193,
-        "usersDiscovered": 143472,
-        "usersEnriched": 141760,
+        "searchRequests": 1738,
+        "enrichmentRequests": 7198,
+        "usersDiscovered": 143572,
+        "usersEnriched": 141860,
         "usersRefreshed": 0,
-        "usersKept": 117382
+        "usersKept": 117467
       }
     },
     "british_indian_ocean_territory": {
@@ -73917,7 +73918,7 @@
     },
     "iran": {
       "slug": "iran",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "iran",
@@ -74745,23 +74746,24 @@
       "lastDiscoveryAt": "2026-08-24T15:36:00.930Z",
       "lastDiscoveryCompletedAt": "2026-08-24T15:36:00.930Z",
       "discoveryQueuedThrough": "2026-07-02",
-      "lastCacheChangeAt": "2026-09-17T08:28:41.068Z",
+      "lastCacheChangeAt": "2026-10-03T16:38:21.908Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 485,
-        "enrichmentRequests": 1873,
+        "enrichmentRequests": 1874,
         "usersDiscovered": 36579,
-        "usersEnriched": 36319,
-        "usersRefreshed": 0,
-        "usersKept": 26707
-      }
+        "usersEnriched": 36339,
+        "usersRefreshed": 20,
+        "usersKept": 26705
+      },
+      "refreshCursor": 20
     },
     "iraq": {
       "slug": "iraq",
-      "status": "discovering",
+      "status": "failed",
       "queue": [
         {
           "country": "iraq",
@@ -75321,7 +75323,11 @@
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
-      "lastError": null,
+      "lastError": {
+        "message": "Could not resolve to a User with the login of 'Ali-A-2026'.",
+        "status": null,
+        "at": "2026-10-03T16:38:24.436Z"
+      },
       "stats": {
         "searchRequests": 93,
         "enrichmentRequests": 165,
@@ -175776,18 +175782,18 @@
       }
     }
   },
-  "nextCountryIndex": 14,
+  "nextCountryIndex": 31,
   "nextDeltaCountryIndex": 6,
-  "nextRefreshCountryIndex": 103,
+  "nextRefreshCountryIndex": 105,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-03T11:55:31.172Z",
+  "lastRunStartedAt": "2026-10-03T16:37:48.255Z",
   "lastRunFinishedAt": "2026-09-28T12:13:04.134Z",
   "stats": {
-    "searchRequests": 65338,
-    "enrichmentRequests": 171810,
-    "usersDiscovered": 4241065,
-    "usersEnriched": 3291057,
-    "usersRefreshed": 8387,
-    "usersKept": 2496918
+    "searchRequests": 65339,
+    "enrichmentRequests": 171816,
+    "usersDiscovered": 4241165,
+    "usersEnriched": 3291177,
+    "usersRefreshed": 8407,
+    "usersKept": 2497003
   }
 }
