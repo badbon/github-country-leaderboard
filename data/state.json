@@ -64145,21 +64145,21 @@
           "kept": 68
         }
       },
-      "lastDiscoveryAt": "2026-10-02T12:56:01.337Z",
+      "lastDiscoveryAt": "2026-10-04T21:44:31.262Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-02T12:56:01.337Z",
+      "lastCacheChangeAt": "2026-10-04T21:44:31.262Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1737,
-        "enrichmentRequests": 4907,
-        "usersDiscovered": 154933,
-        "usersEnriched": 96466,
+        "searchRequests": 1738,
+        "enrichmentRequests": 4908,
+        "usersDiscovered": 155033,
+        "usersEnriched": 96486,
         "usersRefreshed": 0,
-        "usersKept": 70546
+        "usersKept": 70548
       }
     },
     "ghana": {
@@ -88720,7 +88720,7 @@
     },
     "kyrgyzstan": {
       "slug": "kyrgyzstan",
-      "status": "discovering",
+      "status": "failed",
       "queue": [
         {
           "country": "kyrgyzstan",
@@ -89462,7 +89462,11 @@
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
-      "lastError": null,
+      "lastError": {
+        "message": "Could not resolve to a User with the login of 'bayoux'.",
+        "status": null,
+        "at": "2026-10-04T21:44:38.813Z"
+      },
       "stats": {
         "searchRequests": 121,
         "enrichmentRequests": 221,
@@ -182844,18 +182848,18 @@
       }
     }
   },
-  "nextCountryIndex": 76,
+  "nextCountryIndex": 82,
   "nextDeltaCountryIndex": 6,
-  "nextRefreshCountryIndex": 118,
+  "nextRefreshCountryIndex": 119,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-04T12:38:23.783Z",
+  "lastRunStartedAt": "2026-10-04T21:43:54.329Z",
   "lastRunFinishedAt": "2026-09-28T12:13:04.134Z",
   "stats": {
-    "searchRequests": 65342,
-    "enrichmentRequests": 171839,
-    "usersDiscovered": 4241465,
-    "usersEnriched": 3291621,
+    "searchRequests": 65343,
+    "enrichmentRequests": 171840,
+    "usersDiscovered": 4241565,
+    "usersEnriched": 3291641,
     "usersRefreshed": 8551,
-    "usersKept": 2497222
+    "usersKept": 2497224
   }
 }
