@@ -57752,7 +57752,7 @@
           "kind": "country",
           "createdStart": "2016-05-16",
           "createdEnd": "2016-06-29",
-          "page": 3
+          "page": 4
         },
         {
           "country": "france",
@@ -59415,21 +59415,21 @@
           "kept": 24
         }
       },
-      "lastDiscoveryAt": "2026-10-02T12:55:26.098Z",
+      "lastDiscoveryAt": "2026-10-04T12:39:02.270Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-02T12:55:26.098Z",
+      "lastCacheChangeAt": "2026-10-04T12:39:02.270Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1737,
-        "enrichmentRequests": 5119,
-        "usersDiscovered": 154631,
-        "usersEnriched": 100782,
+        "searchRequests": 1738,
+        "enrichmentRequests": 5124,
+        "usersDiscovered": 154731,
+        "usersEnriched": 100882,
         "usersRefreshed": 0,
-        "usersKept": 72658
+        "usersKept": 72731
       }
     },
     "french_guiana": {
@@ -88099,23 +88099,24 @@
       "lastDiscoveryAt": "2026-08-17T16:20:57.487Z",
       "lastDiscoveryCompletedAt": "2026-08-17T16:20:57.487Z",
       "discoveryQueuedThrough": "2026-07-03",
-      "lastCacheChangeAt": "2026-09-17T08:28:41.068Z",
+      "lastCacheChangeAt": "2026-10-04T12:39:05.280Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
-      "lastContributionRefreshAt": null,
+      "lastContributionRefreshAt": "2026-10-04T12:39:05.280Z",
       "lastError": null,
       "stats": {
         "searchRequests": 95,
-        "enrichmentRequests": 3,
+        "enrichmentRequests": 4,
         "usersDiscovered": 4,
-        "usersEnriched": 4,
-        "usersRefreshed": 0,
+        "usersEnriched": 8,
+        "usersRefreshed": 4,
         "usersKept": 4
-      }
+      },
+      "refreshCursor": 0
     },
     "kuwait": {
       "slug": "kuwait",
-      "status": "discovering",
+      "status": "failed",
       "queue": [
         {
           "country": "kuwait",
@@ -88703,7 +88704,11 @@
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
-      "lastError": null,
+      "lastError": {
+        "message": "Could not resolve to a User with the login of 'DataWithRUBEL'.; Could not resolve to a User with the login of 'BaderMajidAlRefai'.",
+        "status": null,
+        "at": "2026-10-04T12:39:08.831Z"
+      },
       "stats": {
         "searchRequests": 77,
         "enrichmentRequests": 67,
@@ -182839,18 +182844,18 @@
       }
     }
   },
-  "nextCountryIndex": 47,
+  "nextCountryIndex": 76,
   "nextDeltaCountryIndex": 6,
-  "nextRefreshCountryIndex": 116,
+  "nextRefreshCountryIndex": 118,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-04T06:12:34.203Z",
+  "lastRunStartedAt": "2026-10-04T12:38:23.783Z",
   "lastRunFinishedAt": "2026-09-28T12:13:04.134Z",
   "stats": {
-    "searchRequests": 65341,
-    "enrichmentRequests": 171833,
-    "usersDiscovered": 4241365,
-    "usersEnriched": 3291517,
-    "usersRefreshed": 8547,
-    "usersKept": 2497149
+    "searchRequests": 65342,
+    "enrichmentRequests": 171839,
+    "usersDiscovered": 4241465,
+    "usersEnriched": 3291621,
+    "usersRefreshed": 8551,
+    "usersKept": 2497222
   }
 }
