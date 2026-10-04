@@ -1,17 +1,5 @@
 [
   {
-    "login": "matt-duke",
-    "name": "Matt Duke",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25040716?s=72&v=4",
-    "location": "Kingston, Ontario",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2017-01-10T19:53:10Z"
-  },
-  {
     "login": "digitaldevcoder",
     "name": "Cruz Orr",
     "avatarUrl": "https://avatars.githubusercontent.com/u/278835757?s=72&u=0c2ffee4889be76f260e7c064f870c2b79988019&v=4",
@@ -32,7 +20,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 336,
+    "publicContributions": 337,
     "createdAt": "2026-02-18T04:53:42Z"
   },
   {
@@ -42,9 +30,9 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 149,
+    "publicContributions": 204,
     "createdAt": "2026-02-09T00:50:45Z"
   },
   {
@@ -55,7 +43,7 @@
     "company": "Backlot The Social Experiment ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 117,
+    "privateContributions": 123,
     "publicContributions": 2,
     "createdAt": "2026-02-18T13:29:43Z"
   },
@@ -68,7 +56,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 101,
     "createdAt": "2026-04-13T16:27:05Z"
   },
   {
@@ -90,9 +78,9 @@
     "location": "Kingston, Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 192,
+    "publicContributions": 215,
     "createdAt": "2026-05-02T02:25:37Z"
   },
   {
@@ -103,7 +91,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1310,
+    "privateContributions": 1542,
     "publicContributions": 1,
     "createdAt": "2026-04-05T18:54:49Z"
   },
@@ -114,9 +102,9 @@
     "location": "Kingston, Ontario",
     "company": "Queen's University ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 22,
     "createdAt": "2026-04-27T21:21:22Z"
   },
   {
@@ -164,7 +152,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-29T05:00:45Z"
   },
   {
@@ -174,9 +162,9 @@
     "location": "Jamaica",
     "company": "K. Allen Tech Services",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 117,
     "createdAt": "2025-02-25T02:46:56Z"
   },
   {
@@ -186,9 +174,9 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 162,
     "createdAt": "2025-01-14T06:35:23Z"
   },
   {
@@ -199,8 +187,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 531,
-    "publicContributions": 57,
+    "privateContributions": 1447,
+    "publicContributions": 58,
     "createdAt": "2025-07-02T16:41:18Z"
   },
   {
@@ -224,19 +212,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 78,
     "createdAt": "2025-04-06T18:38:55Z"
   },
   {
     "login": "ettalin",
-    "name": "Tiffany 'Etta' Lin",
+    "name": "Etta Lin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193460067?s=72&u=a631d3e6d3a9dd18b5835ff5a5a27e39375d25d9&v=4",
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 92,
     "createdAt": "2025-01-02T05:13:58Z"
   },
   {
