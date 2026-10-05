@@ -83461,6 +83461,14 @@
           "term": "Italy",
           "kind": "country",
           "createdStart": "2008-12-31",
+          "createdEnd": "2009-04-01",
+          "page": 1
+        },
+        {
+          "country": "italy",
+          "term": "Italy",
+          "kind": "country",
+          "createdStart": "2009-04-02",
           "createdEnd": "2009-07-01",
           "page": 1
         },
@@ -85000,7 +85008,7 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1737,
+        "searchRequests": 1738,
         "enrichmentRequests": 3834,
         "usersDiscovered": 152576,
         "usersEnriched": 74370,
@@ -93584,7 +93592,7 @@
     },
     "latvia": {
       "slug": "latvia",
-      "status": "discovering",
+      "status": "failed",
       "queue": [
         {
           "country": "latvia",
@@ -94200,7 +94208,11 @@
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
-      "lastError": null,
+      "lastError": {
+        "message": "Could not resolve to a User with the login of 'bohdanmarcus'.",
+        "status": null,
+        "at": "2026-10-05T14:58:23.847Z"
+      },
       "stats": {
         "searchRequests": 105,
         "enrichmentRequests": 252,
@@ -189894,14 +189906,14 @@
       }
     }
   },
-  "nextCountryIndex": 101,
+  "nextCountryIndex": 108,
   "nextDeltaCountryIndex": 6,
-  "nextRefreshCountryIndex": 120,
+  "nextRefreshCountryIndex": 121,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-05T06:04:11.436Z",
+  "lastRunStartedAt": "2026-10-05T14:58:09.512Z",
   "lastRunFinishedAt": "2026-09-28T12:13:04.134Z",
   "stats": {
-    "searchRequests": 65344,
+    "searchRequests": 65345,
     "enrichmentRequests": 171845,
     "usersDiscovered": 4241665,
     "usersEnriched": 3291741,
