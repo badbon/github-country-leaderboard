@@ -100748,7 +100748,7 @@
     },
     "lithuania": {
       "slug": "lithuania",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "lithuania",
@@ -101388,23 +101388,24 @@
       "lastDiscoveryAt": "2026-08-18T18:02:30.500Z",
       "lastDiscoveryCompletedAt": "2026-08-18T18:02:30.500Z",
       "discoveryQueuedThrough": "2026-07-05",
-      "lastCacheChangeAt": "2026-09-17T08:28:41.068Z",
+      "lastCacheChangeAt": "2026-10-06T18:40:11.737Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
         "searchRequests": 133,
-        "enrichmentRequests": 383,
+        "enrichmentRequests": 384,
         "usersDiscovered": 7437,
-        "usersEnriched": 7317,
-        "usersRefreshed": 0,
+        "usersEnriched": 7337,
+        "usersRefreshed": 20,
         "usersKept": 5413
-      }
+      },
+      "refreshCursor": 20
     },
     "luxembourg": {
       "slug": "luxembourg",
-      "status": "discovering",
+      "status": "failed",
       "queue": [
         {
           "country": "luxembourg",
@@ -102364,7 +102365,11 @@
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
-      "lastError": null,
+      "lastError": {
+        "message": "Could not resolve to a User with the login of 'Zizhao-HUANG'.",
+        "status": null,
+        "at": "2026-10-06T18:40:15.988Z"
+      },
       "stats": {
         "searchRequests": 145,
         "enrichmentRequests": 258,
@@ -162994,19 +162999,19 @@
           "kept": 0
         }
       },
-      "lastDiscoveryAt": "2026-10-02T22:30:04.780Z",
+      "lastDiscoveryAt": "2026-10-06T18:40:07.008Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-02T22:30:04.780Z",
+      "lastCacheChangeAt": "2026-10-06T18:40:07.008Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1737,
-        "enrichmentRequests": 5027,
-        "usersDiscovered": 152747,
-        "usersEnriched": 98436,
+        "searchRequests": 1738,
+        "enrichmentRequests": 5028,
+        "usersDiscovered": 152847,
+        "usersEnriched": 98456,
         "usersRefreshed": 0,
         "usersKept": 75526
       }
@@ -196957,18 +196962,18 @@
       }
     }
   },
-  "nextCountryIndex": 182,
+  "nextCountryIndex": 209,
   "nextDeltaCountryIndex": 6,
-  "nextRefreshCountryIndex": 126,
+  "nextRefreshCountryIndex": 128,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-06T06:38:35.970Z",
+  "lastRunStartedAt": "2026-10-06T18:38:56.001Z",
   "lastRunFinishedAt": "2026-09-28T12:13:04.134Z",
   "stats": {
-    "searchRequests": 65349,
-    "enrichmentRequests": 171849,
-    "usersDiscovered": 4241803,
-    "usersEnriched": 3291811,
-    "usersRefreshed": 8611,
+    "searchRequests": 65350,
+    "enrichmentRequests": 171851,
+    "usersDiscovered": 4241903,
+    "usersEnriched": 3291851,
+    "usersRefreshed": 8631,
     "usersKept": 2497314
   }
 }
