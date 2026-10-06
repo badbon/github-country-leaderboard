@@ -100088,7 +100088,7 @@
     },
     "liechtenstein": {
       "slug": "liechtenstein",
-      "status": "discovering",
+      "status": "failed",
       "queue": [
         {
           "country": "liechtenstein",
@@ -100732,7 +100732,11 @@
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
-      "lastError": null,
+      "lastError": {
+        "message": "Could not resolve to a User with the login of 'Ironwallet'.",
+        "status": null,
+        "at": "2026-10-06T06:39:08.764Z"
+      },
       "stats": {
         "searchRequests": 76,
         "enrichmentRequests": 27,
@@ -143374,7 +143378,7 @@
           "kept": 15
         }
       },
-      "lastDiscoveryAt": "2026-10-02T13:00:07.702Z",
+      "lastDiscoveryAt": "2026-10-06T06:39:03.784Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-09-17T08:28:41.068Z",
@@ -143383,9 +143387,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 1737,
+        "searchRequests": 1738,
         "enrichmentRequests": 4174,
-        "usersDiscovered": 110787,
+        "usersDiscovered": 110801,
         "usersEnriched": 81726,
         "usersRefreshed": 0,
         "usersKept": 65008
@@ -196953,16 +196957,16 @@
       }
     }
   },
-  "nextCountryIndex": 175,
+  "nextCountryIndex": 182,
   "nextDeltaCountryIndex": 6,
-  "nextRefreshCountryIndex": 125,
+  "nextRefreshCountryIndex": 126,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-06T00:24:03.477Z",
+  "lastRunStartedAt": "2026-10-06T06:38:35.970Z",
   "lastRunFinishedAt": "2026-09-28T12:13:04.134Z",
   "stats": {
-    "searchRequests": 65348,
+    "searchRequests": 65349,
     "enrichmentRequests": 171849,
-    "usersDiscovered": 4241789,
+    "usersDiscovered": 4241803,
     "usersEnriched": 3291811,
     "usersRefreshed": 8611,
     "usersKept": 2497314
