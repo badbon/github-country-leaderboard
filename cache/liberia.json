@@ -2335,7 +2335,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 803,
+    "privateContributions": 879,
     "publicContributions": 0,
     "createdAt": "2011-09-02T20:17:32Z"
   },
@@ -2347,7 +2347,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 141,
+    "privateContributions": 311,
     "publicContributions": 0,
     "createdAt": "2011-07-14T19:35:39Z"
   },
@@ -2358,7 +2358,7 @@
     "location": "Monrovia, Liberia",
     "company": "Radio ELWA ",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2010-05-25T18:03:12Z"
@@ -2378,13 +2378,13 @@
   {
     "login": "ryanafdahl",
     "name": "Ryan Afdahl",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200433?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200433?s=72&u=bbedd52ec55cf438141d1faa25d3121840b45dff&v=4",
     "location": "Monrovia, CA",
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 74,
-    "publicContributions": 0,
+    "privateContributions": 20,
+    "publicContributions": 58,
     "createdAt": "2010-02-09T18:03:37Z"
   },
   {
@@ -2394,7 +2394,7 @@
     "location": "Monrovia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2010-03-24T22:05:35Z"
@@ -2419,8 +2419,8 @@
     "company": "@goodhertz ",
     "twitterUsername": "robstenson",
     "followers": 129,
-    "privateContributions": 710,
-    "publicContributions": 167,
+    "privateContributions": 721,
+    "publicContributions": 158,
     "createdAt": "2009-05-29T03:25:11Z"
   },
   {
@@ -2432,7 +2432,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 1310,
+    "publicContributions": 1510,
     "createdAt": "2009-05-21T07:16:06Z"
   },
   {
@@ -2444,7 +2444,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 60,
     "createdAt": "2009-01-09T23:06:35Z"
   },
   {

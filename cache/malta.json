@@ -2384,7 +2384,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 4,
     "createdAt": "2022-11-11T13:51:35Z"
   },
   {
@@ -2431,8 +2431,8 @@
     "company": "@fivemshield.net",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 107,
-    "publicContributions": 18,
+    "privateContributions": 112,
+    "publicContributions": 16,
     "createdAt": "2022-09-28T14:42:02Z"
   },
   {
@@ -2442,8 +2442,8 @@
     "location": "malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2534,
+    "followers": 2,
+    "privateContributions": 2016,
     "publicContributions": 6,
     "createdAt": "2022-07-18T10:57:09Z"
   },
@@ -2496,18 +2496,6 @@
     "createdAt": "2022-02-01T09:21:07Z"
   },
   {
-    "login": "gflaminio3",
-    "name": "Giuseppe Flaminio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114490362?s=72&u=3cf3e3fb214cdddc5bd1f92fa92f3c7fdee6b40e&v=4",
-    "location": "Valletta",
-    "company": "",
-    "twitterUsername": "gflaminio3",
-    "followers": 5,
-    "privateContributions": 23,
-    "publicContributions": 20,
-    "createdAt": "2022-09-27T12:15:14Z"
-  },
-  {
     "login": "Theodoer",
     "name": "Star Xu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113863814?s=72&u=6f236c7eea7665a70eafc52e404f10bf3cea9999&v=4",
@@ -2516,20 +2504,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 15,
     "createdAt": "2022-09-18T22:38:58Z"
-  },
-  {
-    "login": "LeticiaBibiano",
-    "name": "Letícia Bibiano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80980299?s=72&u=87b8a8c80bbb217b9e7ace426fc2e9c62f510f4e&v=4",
-    "location": "Malta, EU",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 195,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-03-19T18:12:47Z"
   },
   {
     "login": "MrKalister",
@@ -2538,9 +2514,9 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 98,
     "createdAt": "2021-09-14T22:30:18Z"
   },
   {
@@ -2562,9 +2538,9 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 612,
+    "publicContributions": 451,
     "createdAt": "2021-06-11T10:36:55Z"
   },
   {
@@ -2575,8 +2551,8 @@
     "company": "",
     "twitterUsername": "IsaaCiliaAttard",
     "followers": 20,
-    "privateContributions": 4,
-    "publicContributions": 42,
+    "privateContributions": 1,
+    "publicContributions": 45,
     "createdAt": "2021-02-24T07:41:56Z"
   },
   {
@@ -2587,8 +2563,8 @@
     "company": "https://kingmakers.com/",
     "twitterUsername": "onwukarosarioW",
     "followers": 14,
-    "privateContributions": 2,
-    "publicContributions": 40,
+    "privateContributions": 26,
+    "publicContributions": 50,
     "createdAt": "2021-02-15T20:51:14Z"
   },
   {
@@ -2600,7 +2576,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 29,
     "createdAt": "2021-04-04T17:33:23Z"
   },
   {

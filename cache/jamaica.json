@@ -2370,7 +2370,7 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "abebe_walcott",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-18T22:05:06Z"
@@ -2383,8 +2383,8 @@
     "company": "Climate Studies Group Mona (CSGM)",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 260,
-    "publicContributions": 15,
+    "privateContributions": 220,
+    "publicContributions": 5,
     "createdAt": "2022-11-29T17:44:07Z"
   },
   {
@@ -2394,7 +2394,7 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "gizmo658",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-23T03:27:07Z"
@@ -2407,7 +2407,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 248,
+    "privateContributions": 274,
     "publicContributions": 1,
     "createdAt": "2022-04-24T01:48:26Z"
   },
@@ -2418,7 +2418,7 @@
     "location": "Kingston",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-02T11:09:50Z"
@@ -2431,20 +2431,20 @@
     "company": "University of Hull Computer Science for Games Programming student",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 208,
-    "publicContributions": 64,
+    "privateContributions": 207,
+    "publicContributions": 57,
     "createdAt": "2022-02-09T11:43:08Z"
   },
   {
     "login": "Nidhal-Jegham",
     "name": "Nidhal Jegham",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103116128?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103116128?s=72&u=fde78a97e965af8a2b6d2632b3678f22248dfdc6&v=4",
     "location": "Kingston",
     "company": "University of Rhode Island",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 7,
-    "publicContributions": 215,
+    "followers": 11,
+    "privateContributions": 33,
+    "publicContributions": 165,
     "createdAt": "2022-04-06T11:24:48Z"
   },
   {
@@ -2455,7 +2455,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 98,
+    "privateContributions": 249,
     "publicContributions": 3,
     "createdAt": "2022-09-08T22:08:30Z"
   },
@@ -2467,8 +2467,8 @@
     "company": "paieu",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 128,
-    "publicContributions": 102,
+    "privateContributions": 117,
+    "publicContributions": 98,
     "createdAt": "2022-11-02T01:27:10Z"
   },
   {
@@ -2479,21 +2479,9 @@
     "company": "MPBSDP",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 491,
-    "publicContributions": 253,
+    "privateContributions": 534,
+    "publicContributions": 228,
     "createdAt": "2022-05-12T15:36:37Z"
-  },
-  {
-    "login": "trevorfar",
-    "name": "Trevor Farias",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97129268?s=72&v=4",
-    "location": "Victoria/Kingston",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 2,
-    "publicContributions": 4,
-    "createdAt": "2022-01-04T20:53:42Z"
   },
   {
     "login": "eberbesi",
@@ -2516,7 +2504,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2022-04-15T05:47:43Z"
   },
   {
@@ -2538,7 +2526,7 @@
     "location": "Kingston, JA",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-11-13T18:15:41Z"
@@ -2552,7 +2540,7 @@
     "twitterUsername": "javi_pepper_",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 55,
     "createdAt": "2022-04-29T00:40:34Z"
   },
   {

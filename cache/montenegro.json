@@ -2334,7 +2334,7 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-23T21:05:24Z"
@@ -2347,7 +2347,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 67,
+    "privateContributions": 123,
     "publicContributions": 58,
     "createdAt": "2021-05-24T17:39:55Z"
   },
@@ -2358,8 +2358,8 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 376,
+    "followers": 12,
+    "privateContributions": 345,
     "publicContributions": 0,
     "createdAt": "2021-01-30T09:19:35Z"
   },
@@ -2371,14 +2371,14 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 92,
+    "privateContributions": 95,
     "publicContributions": 7,
     "createdAt": "2021-06-14T09:49:36Z"
   },
   {
     "login": "stefanzindovic",
     "name": "Stefan Zindović",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87080461?s=72&u=b618ddd93d77c1dca69237765161dc7520caf4ae&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87080461?s=72&u=a9d44cb608f51fc7e42204596585bceb80e9bacf&v=4",
     "location": "Bijelo Polje, Montenegro",
     "company": "",
     "twitterUsername": "",
@@ -2394,8 +2394,8 @@
     "location": "Montenegro",
     "company": "@vadahq",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 4268,
+    "followers": 11,
+    "privateContributions": 4940,
     "publicContributions": 0,
     "createdAt": "2021-07-01T20:00:25Z"
   },
@@ -2407,21 +2407,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 75,
-    "publicContributions": 3,
+    "privateContributions": 27,
+    "publicContributions": 0,
     "createdAt": "2021-03-20T16:22:52Z"
-  },
-  {
-    "login": "Hunteena",
-    "name": "Nina Speranskaya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89918842?s=72&v=4",
-    "location": "Budva, Montenegro",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2021-09-01T12:49:03Z"
   },
   {
     "login": "AnikaPet",
@@ -2442,9 +2430,9 @@
     "location": "Montenegro",
     "company": "@devteamclub ",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 2296,
-    "publicContributions": 5,
+    "followers": 6,
+    "privateContributions": 2347,
+    "publicContributions": 3,
     "createdAt": "2021-11-19T17:37:17Z"
   },
   {
@@ -2455,8 +2443,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 215,
-    "publicContributions": 20,
+    "privateContributions": 198,
+    "publicContributions": 12,
     "createdAt": "2021-12-20T01:24:59Z"
   },
   {
@@ -2468,7 +2456,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 232,
+    "publicContributions": 234,
     "createdAt": "2021-07-01T20:37:42Z"
   },
   {
@@ -2502,9 +2490,9 @@
     "location": "Montenegro",
     "company": "Sky Informática Ltda.",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 90,
     "createdAt": "2021-11-30T23:53:09Z"
   },
   {
@@ -2515,8 +2503,8 @@
     "company": "FixIT Crna Gora",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 502,
-    "publicContributions": 0,
+    "privateContributions": 446,
+    "publicContributions": 54,
     "createdAt": "2021-01-22T15:09:45Z"
   },
   {
@@ -2528,7 +2516,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 55,
     "createdAt": "2021-07-02T11:14:18Z"
   },
   {
@@ -2540,7 +2528,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 0,
     "createdAt": "2021-12-14T13:14:37Z"
   },
   {
@@ -2550,9 +2538,9 @@
     "location": "Montenegro, RS - Brazil",
     "company": "SAP",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 5,
-    "publicContributions": 260,
+    "publicContributions": 210,
     "createdAt": "2021-04-27T11:25:22Z"
   },
   {

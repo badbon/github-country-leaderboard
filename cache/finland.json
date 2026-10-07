@@ -2059,8 +2059,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 105,
-    "publicContributions": 216,
+    "privateContributions": 106,
+    "publicContributions": 294,
     "createdAt": "2025-07-17T08:05:54Z"
   },
   {
@@ -2084,7 +2084,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 26,
     "createdAt": "2024-12-30T04:04:43Z"
   },
   {
@@ -2094,9 +2094,9 @@
     "location": "Finland",
     "company": "AMD Silo AI",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 9,
-    "publicContributions": 152,
+    "followers": 3,
+    "privateContributions": 14,
+    "publicContributions": 135,
     "createdAt": "2025-04-23T07:28:15Z"
   },
   {
@@ -2132,7 +2132,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 12,
-    "publicContributions": 47,
+    "publicContributions": 46,
     "createdAt": "2025-10-06T12:03:41Z"
   },
   {
@@ -2154,9 +2154,9 @@
     "location": "Espoo, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 26,
     "createdAt": "2025-01-11T19:13:50Z"
   },
   {
@@ -2168,7 +2168,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 43,
     "createdAt": "2025-02-14T06:08:50Z"
   },
   {
@@ -2180,7 +2180,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 275,
+    "publicContributions": 285,
     "createdAt": "2025-02-18T18:36:21Z"
   },
   {
@@ -2190,9 +2190,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 30,
     "createdAt": "2025-05-06T20:04:40Z"
   },
   {
@@ -2203,7 +2203,7 @@
     "company": "Wolt",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1616,
+    "privateContributions": 1734,
     "publicContributions": 0,
     "createdAt": "2025-06-04T09:42:40Z"
   },
@@ -2220,27 +2220,15 @@
     "createdAt": "2025-04-21T04:35:40Z"
   },
   {
-    "login": "ralme1da",
-    "name": "https://x.com/rafaelKO76",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232362866?s=72&u=1f374a1e22a8d08fcc250d2bee5ec124ae31bc6e&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "rafaelKO76",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 23,
-    "createdAt": "2025-09-15T11:47:15Z"
-  },
-  {
     "login": "sallasukka",
     "name": "salla",
     "avatarUrl": "https://avatars.githubusercontent.com/u/203975148?s=72&u=3ab0348b0d9aa331c14b0f56d58e7b5bf035835f&v=4",
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 31,
-    "publicContributions": 119,
+    "publicContributions": 124,
     "createdAt": "2025-03-19T08:59:39Z"
   },
   {
@@ -2250,9 +2238,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 614,
-    "publicContributions": 66,
+    "followers": 5,
+    "privateContributions": 561,
+    "publicContributions": 147,
     "createdAt": "2025-02-13T22:44:05Z"
   },
   {
@@ -2274,7 +2262,7 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-08-07T06:27:52Z"
@@ -2287,8 +2275,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1019,
-    "publicContributions": 15,
+    "privateContributions": 751,
+    "publicContributions": 20,
     "createdAt": "2025-03-03T06:52:13Z"
   },
   {

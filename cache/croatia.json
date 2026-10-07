@@ -2359,7 +2359,7 @@
     "company": "FER",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 91,
+    "privateContributions": 182,
     "publicContributions": 7,
     "createdAt": "2024-10-18T13:39:57Z"
   },
@@ -2420,7 +2420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 15,
     "createdAt": "2024-11-15T17:27:45Z"
   },
   {
@@ -2432,7 +2432,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-02-06T09:12:23Z"
   },
   {
@@ -2456,7 +2456,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2024-10-16T08:33:01Z"
   },
   {
@@ -2478,9 +2478,9 @@
     "location": "Croatia, Zagreb",
     "company": "",
     "twitterUsername": "",
-    "followers": 218,
+    "followers": 222,
     "privateContributions": 0,
-    "publicContributions": 316,
+    "publicContributions": 283,
     "createdAt": "2023-12-05T08:20:20Z"
   },
   {
@@ -2490,9 +2490,9 @@
     "location": "Croatia",
     "company": "100Devs",
     "twitterUsername": "",
-    "followers": 128,
+    "followers": 125,
     "privateContributions": 0,
-    "publicContributions": 1206,
+    "publicContributions": 1232,
     "createdAt": "2023-03-01T11:54:10Z"
   },
   {
@@ -2514,9 +2514,9 @@
     "location": "Croatia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 3,
-    "publicContributions": 922,
+    "followers": 35,
+    "privateContributions": 10,
+    "publicContributions": 810,
     "createdAt": "2023-03-11T03:20:43Z"
   },
   {
@@ -2526,33 +2526,21 @@
     "location": "Croatia, Vukovar",
     "company": "Živić-elektro j.d.o.o.",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 355,
+    "publicContributions": 517,
     "createdAt": "2023-02-21T16:40:42Z"
   },
   {
-    "login": "rajko-horvat",
-    "name": "Rajko Horvat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121714236?s=72&u=abe24fee9657f45f72de74a32ac87206a906a4c3&v=4",
-    "location": "Zagreb, Croatia",
-    "company": "Ruđer Bošković Institute",
-    "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 0,
-    "publicContributions": 107,
-    "createdAt": "2022-12-31T09:36:31Z"
-  },
-  {
     "login": "makatalin",
-    "name": "Mario Katalinic",
+    "name": "maKatalin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/143451659?s=72&u=ff2ba9eea8a7ce57709a2c0a6f7b302814318f2b&v=4",
     "location": "Zagreb, Croatia",
     "company": "Thentia",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 75,
     "createdAt": "2023-08-28T20:22:32Z"
   },
   {
@@ -2562,9 +2550,9 @@
     "location": "Zagreb, Croatia",
     "company": "Sulie",
     "twitterUsername": "dominiksafaric",
-    "followers": 24,
-    "privateContributions": 669,
-    "publicContributions": 341,
+    "followers": 27,
+    "privateContributions": 728,
+    "publicContributions": 222,
     "createdAt": "2023-12-07T08:15:13Z"
   },
   {
@@ -2587,8 +2575,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 415,
-    "publicContributions": 901,
+    "privateContributions": 1314,
+    "publicContributions": 103,
     "createdAt": "2023-07-19T17:17:09Z"
   },
   {

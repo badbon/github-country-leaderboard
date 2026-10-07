@@ -585238,5 +585238,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-10-02T09:51:51Z"
+  },
+  {
+    "login": "zelios86",
+    "name": "vincenzo radice",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90751?s=72&v=4",
+    "location": "milano",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-06-01T17:55:25Z"
+  },
+  {
+    "login": "RonchettiAssociati",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93110?s=72&u=50b182dddc242101bc10062df6310d3df6a0615d&v=4",
+    "location": "Milano",
+    "company": "ronchettiassociati",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-06-08T10:19:56Z"
+  },
+  {
+    "login": "stefo1983",
+    "name": "Luca Stefanelli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90360?s=72&v=4",
+    "location": "Milano",
+    "company": "The Fool s.r.l.",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-05-31T09:06:56Z"
+  },
+  {
+    "login": "EffeErre",
+    "name": "Fabio Riga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92025?s=72&v=4",
+    "location": "Milano",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-06-04T21:51:33Z"
   }
 ]

@@ -2072,20 +2072,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 33,
     "createdAt": "2026-03-20T14:30:59Z"
-  },
-  {
-    "login": "Sabbath829",
-    "name": "Sabbath@829",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282920681?s=72&v=4",
-    "location": "Nairobi Kenya",
-    "company": "N/A",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2026-05-08T14:21:12Z"
   },
   {
     "login": "Sereti12",
@@ -2096,7 +2084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 107,
     "createdAt": "2026-04-21T08:41:21Z"
   },
   {
@@ -2106,9 +2094,9 @@
     "location": "Nairobi, Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 46,
     "createdAt": "2026-02-28T21:57:16Z"
   },
   {
@@ -2118,9 +2106,9 @@
     "location": "Nairobi, Kenya",
     "company": "",
     "twitterUsername": "Seme_do",
-    "followers": 1,
-    "privateContributions": 635,
-    "publicContributions": 138,
+    "followers": 17,
+    "privateContributions": 975,
+    "publicContributions": 147,
     "createdAt": "2026-02-03T05:22:16Z"
   },
   {
@@ -2132,7 +2120,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 74,
     "createdAt": "2026-03-15T13:14:15Z"
   },
   {
@@ -2142,7 +2130,7 @@
     "location": "KENYA",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-19T22:40:57Z"
@@ -2180,7 +2168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 104,
     "createdAt": "2026-02-27T09:39:41Z"
   },
   {
@@ -2196,27 +2184,15 @@
     "createdAt": "2026-04-06T14:53:22Z"
   },
   {
-    "login": "princeevansonstud",
-    "name": "Prince Evanson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267671644?s=72&u=fd1d33f18f9b153bb655e33c64c8f3cb7e91421f&v=4",
-    "location": "Nairobi, Kenya",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 154,
-    "createdAt": "2026-03-12T13:59:32Z"
-  },
-  {
     "login": "ansari-devhub",
     "name": "Ansari Abdi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261608196?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261608196?s=72&u=37f34af7105713799c66fd256dbc8a7acbc3cc9b&v=4",
     "location": "Nakuru, Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 50,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 46,
     "createdAt": "2026-02-14T12:43:07Z"
   },
   {
@@ -2250,9 +2226,9 @@
     "location": "Nairobi, Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 29,
     "createdAt": "2026-03-02T10:33:21Z"
   },
   {
@@ -2268,27 +2244,15 @@
     "createdAt": "2026-04-06T19:09:54Z"
   },
   {
-    "login": "kigsCo",
-    "name": "Alvin Njoroge Kigondu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267680684?s=72&v=4",
-    "location": "Nairobi, Kenya",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 134,
-    "createdAt": "2026-03-12T14:33:07Z"
-  },
-  {
     "login": "wycliffRotich-dev",
     "name": "WYCLIFFEROTICH-Dev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253929835?s=72&u=b6ac37f3b8a7a8ee10ec3c79f0dc04c768b6a6e7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253929835?s=72&u=900ee1be2adffe260a40ab65933491d016b5542d&v=4",
     "location": "Nairobi, Kenya",
-    "company": "",
+    "company": "@AetherGrid",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 304,
+    "publicContributions": 716,
     "createdAt": "2026-01-09T12:46:38Z"
   },
   {

@@ -2352,27 +2352,15 @@
     "createdAt": "2021-09-22T09:24:03Z"
   },
   {
-    "login": "Tseku210",
-    "name": "Tsekuu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81073229?s=72&u=133809c58359ff388406b4b16099b6eeefdec6f5&v=4",
-    "location": "Ulaanbaatar, Mongolia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 1371,
-    "publicContributions": 106,
-    "createdAt": "2021-03-21T08:26:34Z"
-  },
-  {
     "login": "Dakiee",
     "name": "Dakie",
     "avatarUrl": "https://avatars.githubusercontent.com/u/85433794?s=72&u=4e39bbce3dada1aaf27f9e95ced66167c932e57b&v=4",
     "location": "Mongolia",
     "company": "",
     "twitterUsername": "Davaanyam02",
-    "followers": 29,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 10,
     "createdAt": "2021-06-06T08:46:08Z"
   },
   {
@@ -2382,9 +2370,9 @@
     "location": "Ulaanbaatar, Mongolia",
     "company": "Interactive",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 131,
     "createdAt": "2021-07-16T17:24:42Z"
   },
   {
@@ -2394,21 +2382,21 @@
     "location": "Ulaanbaatar, Mongolia",
     "company": "Numad Labs",
     "twitterUsername": "Dolgoonnn1",
-    "followers": 22,
-    "privateContributions": 4884,
-    "publicContributions": 503,
+    "followers": 21,
+    "privateContributions": 8377,
+    "publicContributions": 462,
     "createdAt": "2021-05-09T09:35:54Z"
   },
   {
     "login": "Chinzorig11",
     "name": "Chinzorig Ochirbat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78355406?s=72&u=14cee6a7263298589f11e43d6303cc135a682e9d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78355406?s=72&u=3fdd09c74a9afd78a1225234f45cf200f978291a&v=4",
     "location": "Mongolia, Ulaanbaatar",
     "company": "Unity Data Technology",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 233,
-    "publicContributions": 59,
+    "followers": 23,
+    "privateContributions": 179,
+    "publicContributions": 60,
     "createdAt": "2021-02-01T11:30:56Z"
   },
   {
@@ -2442,8 +2430,8 @@
     "location": "Ulaanbaatar, Mongolia",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 54,
+    "followers": 8,
+    "privateContributions": 59,
     "publicContributions": 0,
     "createdAt": "2021-02-02T00:19:27Z"
   },
@@ -2454,9 +2442,9 @@
     "location": "Ulaanbaatar, Mongolia",
     "company": "@NewCompass-LLC ",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 285,
-    "publicContributions": 6,
+    "followers": 14,
+    "privateContributions": 299,
+    "publicContributions": 10,
     "createdAt": "2021-02-08T01:46:19Z"
   },
   {
@@ -2478,22 +2466,10 @@
     "location": "Ulaanbaatar, Mongolia",
     "company": "Other",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 252,
-    "publicContributions": 224,
+    "followers": 10,
+    "privateContributions": 398,
+    "publicContributions": 277,
     "createdAt": "2021-04-21T09:41:17Z"
-  },
-  {
-    "login": "Amraa1",
-    "name": "Amraa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94914454?s=72&u=1b82e953f0256426f76b9909b1a2ba6ecb4ae596&v=4",
-    "location": "Ulaanbaatar, Mongolia",
-    "company": "MMSE",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1120,
-    "publicContributions": 375,
-    "createdAt": "2021-11-23T14:19:39Z"
   },
   {
     "login": "Wiealrik",
@@ -2515,8 +2491,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 50,
-    "publicContributions": 2,
+    "privateContributions": 53,
+    "publicContributions": 19,
     "createdAt": "2021-07-10T06:26:39Z"
   },
   {
@@ -2524,11 +2500,11 @@
     "name": "Javkhlan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79755981?s=72&u=04ee4fd7eb3aea4cfef304966d5d8b2c80ba7a4d&v=4",
     "location": "Mongolia",
-    "company": "",
+    "company": "Nasha Tech",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 92,
-    "publicContributions": 76,
+    "followers": 8,
+    "privateContributions": 7,
+    "publicContributions": 118,
     "createdAt": "2021-02-27T14:41:49Z"
   },
   {
@@ -2551,8 +2527,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 310,
-    "publicContributions": 37,
+    "privateContributions": 314,
+    "publicContributions": 19,
     "createdAt": "2021-06-28T00:51:47Z"
   },
   {
@@ -2563,7 +2539,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 85,
+    "privateContributions": 122,
     "publicContributions": 6,
     "createdAt": "2021-06-26T03:48:38Z"
   },
@@ -2587,7 +2563,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 5,
+    "privateContributions": 4,
     "publicContributions": 22,
     "createdAt": "2021-12-01T10:45:50Z"
   },

@@ -2323,7 +2323,7 @@
     "company": "NOV",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 382,
+    "privateContributions": 360,
     "publicContributions": 0,
     "createdAt": "2025-06-10T10:59:16Z"
   },
@@ -2336,7 +2336,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-18T08:57:08Z"
   },
   {
@@ -2360,7 +2360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2025-02-28T09:53:35Z"
   },
   {
@@ -2372,7 +2372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 156,
+    "publicContributions": 35,
     "createdAt": "2025-07-10T17:57:16Z"
   },
   {
@@ -2414,13 +2414,13 @@
   {
     "login": "mak025",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197737200?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197737200?s=72&u=bb95d072256485c8a4b88ecc3d2628ce1509a6b6&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 846,
-    "publicContributions": 305,
+    "privateContributions": 1139,
+    "publicContributions": 238,
     "createdAt": "2025-02-04T09:17:38Z"
   },
   {
@@ -2430,7 +2430,7 @@
     "location": "Denmark",
     "company": "LifeShare",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-10-29T07:48:16Z"
@@ -2492,7 +2492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2025-09-01T11:03:00Z"
   },
   {
@@ -2516,7 +2516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 102,
     "createdAt": "2025-08-20T12:05:14Z"
   },
   {
@@ -2532,18 +2532,6 @@
     "createdAt": "2025-06-30T20:58:29Z"
   },
   {
-    "login": "nyborg-rpa",
-    "name": "Nyborg RPA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/210857230?s=72&u=695e2ecb83959c1348987c5582a9a04b1f7cd83b&v=4",
-    "location": "Nyborg, Denmark",
-    "company": "Nyborg Kommune",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-05-08T12:28:25Z"
-  },
-  {
     "login": "mhkazemi-dev",
     "name": "Hossein",
     "avatarUrl": "https://avatars.githubusercontent.com/u/232380706?s=72&u=ab47a3c6bee6750d786fdb19721ade574b4d75b2&v=4",
@@ -2552,7 +2540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 2,
     "createdAt": "2025-09-15T13:21:23Z"
   },
   {

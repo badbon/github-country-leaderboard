@@ -2352,18 +2352,6 @@
     "createdAt": "2026-04-01T16:12:52Z"
   },
   {
-    "login": "yomna-analyst",
-    "name": "Yomna Adel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281053534?s=72&u=a62a5e014201e88c8fcac72984e98a07be08c66c&v=4",
-    "location": "Cairo,Egypt",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 69,
-    "createdAt": "2026-05-01T21:50:18Z"
-  },
-  {
     "login": "mohamed12ahmed-eng",
     "name": "Mohamed Mahrous ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/283012616?s=72&v=4",
@@ -2382,9 +2370,9 @@
     "location": "Egypt",
     "company": "Independent Cybersecurity Researcher",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 5,
-    "publicContributions": 377,
+    "followers": 2,
+    "privateContributions": 6,
+    "publicContributions": 408,
     "createdAt": "2026-04-28T14:56:32Z"
   },
   {
@@ -2396,19 +2384,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 46,
     "createdAt": "2026-02-23T07:22:02Z"
   },
   {
     "login": "Moaz-Alqatawy",
-    "name": "Moaz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264697867?s=72&u=395b83c2034bb434161c88e1b1c0174dbbec96e2&v=4",
+    "name": "Moaz  Amr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264697867?s=72&u=22b4fb01dc51ba185a058fc1ea4e8abe6644c7c5&v=4",
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 11,
     "createdAt": "2026-02-28T21:47:45Z"
   },
   {
@@ -2420,7 +2408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 68,
     "createdAt": "2026-03-08T19:37:29Z"
   },
   {
@@ -2432,7 +2420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 16,
     "createdAt": "2026-03-21T11:45:46Z"
   },
   {
@@ -2456,7 +2444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 102,
     "createdAt": "2025-12-27T14:47:28Z"
   },
   {
@@ -2466,7 +2454,7 @@
     "location": "Alexandria, Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-06T14:56:53Z"
@@ -2480,7 +2468,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 430,
+    "publicContributions": 688,
     "createdAt": "2026-02-22T21:55:16Z"
   },
   {
@@ -2494,18 +2482,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-01-04T06:11:53Z"
-  },
-  {
-    "login": "Abdowasfy",
-    "name": "Abdelrahman Mohamed Wasfy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261776905?s=72&u=5ff90bc8b6d7ddeb585fd7e0c7c342dfe91006e4&v=4",
-    "location": "Qena , Egypt",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 55,
-    "createdAt": "2026-02-15T16:11:00Z"
   },
   {
     "login": "abdelgaffarmoamen",

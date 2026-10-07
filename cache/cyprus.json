@@ -2347,7 +2347,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-09T19:53:11Z"
   },
@@ -2359,8 +2359,8 @@
     "company": "Cyprus Codes",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 1216,
-    "publicContributions": 102,
+    "privateContributions": 796,
+    "publicContributions": 115,
     "createdAt": "2023-05-17T15:38:31Z"
   },
   {
@@ -2394,9 +2394,9 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 344,
-    "publicContributions": 194,
+    "followers": 14,
+    "privateContributions": 442,
+    "publicContributions": 279,
     "createdAt": "2023-11-14T19:40:28Z"
   },
   {
@@ -2406,9 +2406,9 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 280,
-    "publicContributions": 478,
+    "followers": 15,
+    "privateContributions": 434,
+    "publicContributions": 489,
     "createdAt": "2023-07-06T09:00:33Z"
   },
   {
@@ -2418,7 +2418,7 @@
     "location": "Cyprus",
     "company": "Self-employed",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2023-09-05T12:31:53Z"
@@ -2430,9 +2430,9 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 1176,
-    "publicContributions": 9,
+    "followers": 10,
+    "privateContributions": 1420,
+    "publicContributions": 8,
     "createdAt": "2023-12-24T23:36:32Z"
   },
   {
@@ -2443,8 +2443,8 @@
     "company": "@FTP-Tech-LLC",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 50,
-    "publicContributions": 88,
+    "privateContributions": 104,
+    "publicContributions": 120,
     "createdAt": "2023-10-06T09:06:02Z"
   },
   {
@@ -2454,7 +2454,7 @@
     "location": "Cyprus",
     "company": "Wargaming",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-29T14:48:09Z"
@@ -2466,7 +2466,7 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-15T15:26:18Z"
@@ -2480,7 +2480,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 44,
     "createdAt": "2023-05-04T13:13:19Z"
   },
   {
@@ -2491,8 +2491,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 261,
-    "publicContributions": 43,
+    "privateContributions": 248,
+    "publicContributions": 36,
     "createdAt": "2023-11-12T16:38:05Z"
   },
   {
@@ -2514,7 +2514,7 @@
     "location": "\tCyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-19T12:21:58Z"
@@ -2528,7 +2528,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2023-10-04T20:09:38Z"
   },
   {
@@ -2538,9 +2538,9 @@
     "location": "Paphos, Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 302,
+    "publicContributions": 1382,
     "createdAt": "2023-09-21T13:41:36Z"
   },
   {
@@ -2556,18 +2556,6 @@
     "createdAt": "2023-01-23T20:11:33Z"
   },
   {
-    "login": "pompos02",
-    "name": "Karavellas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149634176?s=72&u=36a7d0504da3f9416113eba08dc81cd20db1fa47&v=4",
-    "location": "Cyprus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1034,
-    "publicContributions": 884,
-    "createdAt": "2023-11-01T23:22:54Z"
-  },
-  {
     "login": "Haseebcodejourney",
     "name": "Hamza Haseeb",
     "avatarUrl": "https://avatars.githubusercontent.com/u/142586832?s=72&u=e41b57b7c381d7eea3f5eb50502841317a01cdc4&v=4",
@@ -2576,7 +2564,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 163,
+    "publicContributions": 170,
     "createdAt": "2023-08-18T10:22:06Z"
   },
   {

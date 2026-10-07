@@ -2298,7 +2298,7 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-02T11:58:51Z"
@@ -2348,7 +2348,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2025-10-06T15:55:20Z"
   },
   {
@@ -2360,7 +2360,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2025-09-14T14:34:05Z"
   },
   {
@@ -2371,8 +2371,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 587,
-    "publicContributions": 130,
+    "privateContributions": 2169,
+    "publicContributions": 165,
     "createdAt": "2025-02-18T09:22:49Z"
   },
   {
@@ -2384,7 +2384,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 32,
     "createdAt": "2025-03-13T07:36:30Z"
   },
   {
@@ -2408,7 +2408,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 51,
     "createdAt": "2025-09-04T03:19:17Z"
   },
   {
@@ -2419,7 +2419,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 452,
     "publicContributions": 3,
     "createdAt": "2025-07-20T04:30:20Z"
   },
@@ -2443,7 +2443,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 5,
     "publicContributions": 4,
     "createdAt": "2025-01-28T11:20:58Z"
   },
@@ -2456,7 +2456,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 79,
     "createdAt": "2025-09-08T06:52:04Z"
   },
   {
@@ -2484,18 +2484,6 @@
     "createdAt": "2025-11-12T13:30:32Z"
   },
   {
-    "login": "JA-MoodLab",
-    "name": "MoodLab",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/251553538?s=72&u=caed21216d9f50eaeef4788e9b211e97ab0a4fbd&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2025-12-26T06:18:33Z"
-  },
-  {
     "login": "blueWaterGlu",
     "name": "KexinGAO",
     "avatarUrl": "https://avatars.githubusercontent.com/u/217679925?s=72&v=4",
@@ -2516,7 +2504,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 6,
-    "publicContributions": 23,
+    "publicContributions": 25,
     "createdAt": "2025-10-22T16:01:19Z"
   },
   {
@@ -2526,7 +2514,7 @@
     "location": "Hong Kong",
     "company": "The Chinese University of Hong Kong",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-17T06:50:49Z"
@@ -99823,7 +99811,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 458,
+    "privateContributions": 438,
     "publicContributions": 413,
     "createdAt": "2014-03-12T17:30:56Z"
   },
