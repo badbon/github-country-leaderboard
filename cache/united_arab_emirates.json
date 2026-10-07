@@ -1927,8 +1927,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 77,
+    "privateContributions": 3943,
+    "publicContributions": 110,
     "createdAt": "2025-11-15T14:51:54Z"
   },
   {
@@ -1938,9 +1938,9 @@
     "location": "United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 112,
-    "publicContributions": 177,
+    "followers": 2,
+    "privateContributions": 115,
+    "publicContributions": 375,
     "createdAt": "2025-07-29T10:28:27Z"
   },
   {
@@ -1951,7 +1951,7 @@
     "company": "Integra Technologies",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 54,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-08-06T12:04:26Z"
   },
@@ -1964,7 +1964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 666,
+    "publicContributions": 740,
     "createdAt": "2025-06-09T18:19:33Z"
   },
   {
@@ -1976,7 +1976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 90,
     "createdAt": "2025-02-12T10:09:10Z"
   },
   {
@@ -2012,7 +2012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 63,
     "createdAt": "2025-04-11T14:11:46Z"
   },
   {
@@ -2036,7 +2036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 279,
+    "publicContributions": 310,
     "createdAt": "2025-04-22T16:42:52Z"
   },
   {
@@ -2048,7 +2048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 66,
     "createdAt": "2025-05-20T10:47:58Z"
   },
   {
@@ -2084,7 +2084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 11,
     "createdAt": "2025-09-17T12:30:55Z"
   },
   {
@@ -2094,7 +2094,7 @@
     "location": "United Arab Emirates ",
     "company": "shinedura",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2025-07-14T22:24:46Z"
@@ -2108,7 +2108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-07-13T21:24:30Z"
   },
   {
@@ -2131,14 +2131,14 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 289,
-    "publicContributions": 106,
+    "privateContributions": 375,
+    "publicContributions": 105,
     "createdAt": "2025-08-08T17:09:56Z"
   },
   {
     "login": "zisprinkitsolutions",
     "name": "ziSprink IT Solutions",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217425139?s=72&u=f3ae180912274e718bce1ccb2ee93dfa1a35930a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217425139?s=72&u=427494208b97ee08d00ef232b7c16df970ae735e&v=4",
     "location": "Ras Al Khaimah, United Arab Emirates",
     "company": "ziSprink IT Solutions",
     "twitterUsername": "",
@@ -50866,5 +50866,233 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2008-05-28T10:05:02Z"
+  },
+  {
+    "login": "yzarrai",
+    "name": "Ray",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284498260?s=72&u=34fbf537bb8c7b27f2feb47f11a0c705cd958a38&v=4",
+    "location": "Dubai, United Arab Emirates",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 79,
+    "createdAt": "2026-05-14T02:53:36Z"
+  },
+  {
+    "login": "justinjudefernandes",
+    "name": "Justin Fernandes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290639474?s=72&u=566f229f1eb609de1b900477aa87f5880f9feca4&v=4",
+    "location": "Abu Dhabi, United Arab Emirates",
+    "company": "Tahaluf Al Emarat Technical Solutions",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 701,
+    "createdAt": "2026-06-04T07:31:27Z"
+  },
+  {
+    "login": "mtmatutumdevelopment-bot",
+    "name": "Mtmatutumdevelopment",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293695410?s=72&u=2bd33b18703bd695c9c4bd6ccacec3fa3929bbb4&v=4",
+    "location": "United Arab Emirates ",
+    "company": "Mtmatutumdevelopment@gmail.com",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-06-14T23:57:47Z"
+  },
+  {
+    "login": "abhiraj-98",
+    "name": "Victory Groups ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286155043?s=72&u=6863fa0f6924aa2006c17578bd45d0f2d923ac89&v=4",
+    "location": "United Arab Emirates ",
+    "company": "@Victory-98 ",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 1,
+    "publicContributions": 16,
+    "createdAt": "2026-05-19T22:18:05Z"
+  },
+  {
+    "login": "aqibkhalid34-debug",
+    "name": "AKHI ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289204361?s=72&v=4",
+    "location": "United Arab Emirates",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-30T13:17:16Z"
+  },
+  {
+    "login": "devsripathy",
+    "name": "Sripathy J",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288548018?s=72&u=bc173715e651e94b4ffb91820424e7e77924cc13&v=4",
+    "location": "The Meydan Hotel, Grandstand, 6th floor, Meydan Road,  Nad Al Sheba, Dubai, United Arab Emirates",
+    "company": " TechXoetic",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 200,
+    "createdAt": "2026-05-28T06:52:17Z"
+  },
+  {
+    "login": "shinothelegend",
+    "name": "Dhanush-Gajengi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284396188?s=72&u=0bd92ae8f693c4e3b02e1d2dbef432cbf7cecc72&v=4",
+    "location": "United Arab Emirates",
+    "company": "",
+    "twitterUsername": "dhanushgajengi",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 207,
+    "createdAt": "2026-05-13T17:30:54Z"
+  },
+  {
+    "login": "wifipalacedxb-design",
+    "name": "WiFi Palace Security Systems Trading LLC",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285208786?s=72&u=cafbc27dade1d324095d05e507e6b54f33e4fd9b&v=4",
+    "location": "Bur Dubai, Dubai, United Arab Emirates",
+    "company": "WiFi Palace Security Systems Trading LLC",
+    "twitterUsername": "wifipalace",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-05-16T13:10:15Z"
+  },
+  {
+    "login": "obidaqalhasan-coder",
+    "name": "Obida Alhasan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294319466?s=72&u=b33d768caf32681abe35b362696467ef5e4b1e63&v=4",
+    "location": "Abu Dhabi, United Arab Emirates",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-06-16T21:43:08Z"
+  },
+  {
+    "login": "MaryamSultan2k26",
+    "name": "Maryam Sultan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293859896?s=72&v=4",
+    "location": "Abu Dhabi, United Arab Emirates",
+    "company": "UAEWalkins",
+    "twitterUsername": "UAEWalkins",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-15T12:35:59Z"
+  },
+  {
+    "login": "ScalePath-tech",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291432753?s=72&u=bd27e46832ab542979b615a52847dca990a5637e&v=4",
+    "location": "United Arab Emirates",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-07T04:00:23Z"
+  },
+  {
+    "login": "syed-binary",
+    "name": "Syed Asad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290833677?s=72&u=720469c5282812511ebaba43874b90001165afd6&v=4",
+    "location": "United Arab Emirates",
+    "company": "Binary AI Labs and Technologies",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2074,
+    "publicContributions": 4,
+    "createdAt": "2026-06-04T19:18:45Z"
+  },
+  {
+    "login": "BigiyiHe51",
+    "name": "Riley Ross",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289139348?s=72&v=4",
+    "location": "East Gloria, United Arab Emirates",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-05-30T06:48:41Z"
+  },
+  {
+    "login": "yousaf676",
+    "name": "Yousef Al Hammadi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296405107?s=72&u=988b1ae8d36422663326bfab0ef465082f1301ae&v=4",
+    "location": "Shop # 29, Mount Royal Hotel, Deira, Dubai 183189, United Arab Emirates",
+    "company": "SAMS SOLUTIONS ",
+    "twitterUsername": "sams_solutions",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-24T07:00:13Z"
+  },
+  {
+    "login": "muhammamd67",
+    "name": "Muhammad Salah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296448802?s=72&u=467b6ef78332fff6cfb169fd36f498122a3af58f&v=4",
+    "location": "Premises no. 32912 IFZA Business Park – DDP A2 Reception Dubai Silicon Oasis Dubai, United Arab Emirates 342001 Dubai, United Arab Emirates",
+    "company": "Protective Wears",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-24T09:39:34Z"
+  },
+  {
+    "login": "smabbasnaqvi",
+    "name": "Muhammad Abbas Naqvi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293078489?s=72&v=4",
+    "location": "Ajman, United Arab Emirates",
+    "company": "Luminex Advisory Services FZE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2026-06-12T11:20:26Z"
+  },
+  {
+    "login": "Aicha-Marrhich",
+    "name": "Aicha Marrhich",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296375675?s=72&u=59a37e1a584ae1fdece594e7a8994b0806d869bd&v=4",
+    "location": "United Arab Emirates",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 130,
+    "createdAt": "2026-06-24T05:07:58Z"
+  },
+  {
+    "login": "DeyemaNabe97",
+    "name": "Melvin Raymond",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288870512?s=72&v=4",
+    "location": "East Ericport, United Arab Emirates",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-05-29T07:59:46Z"
+  },
+  {
+    "login": "duckyblarg",
+    "name": "duckyblarg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284301027?s=72&u=4098109cf76c8b19b992adc57d7f15ae0fefb3b8&v=4",
+    "location": "United Arab Emirates, Dubai",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-05-13T11:41:27Z"
   }
 ]

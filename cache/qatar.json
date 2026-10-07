@@ -1844,7 +1844,7 @@
     "twitterUsername": "1_maaz_1",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 63,
     "createdAt": "2024-07-19T17:47:25Z"
   },
   {
@@ -1868,7 +1868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 25,
     "createdAt": "2024-06-08T11:31:47Z"
   },
   {
@@ -1902,9 +1902,9 @@
     "location": "Doha",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 101,
-    "publicContributions": 702,
+    "followers": 12,
+    "privateContributions": 108,
+    "publicContributions": 884,
     "createdAt": "2024-07-29T14:29:11Z"
   },
   {
@@ -1918,18 +1918,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-28T07:20:41Z"
-  },
-  {
-    "login": "amerruki",
-    "name": "amerruki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160704672?s=72&v=4",
-    "location": "Doha",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 422,
-    "publicContributions": 63,
-    "createdAt": "2024-02-21T06:06:04Z"
   },
   {
     "login": "Niq256",
@@ -1964,7 +1952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2024-03-11T02:58:31Z"
   },
   {
@@ -1975,8 +1963,8 @@
     "company": "Anjum",
     "twitterUsername": "abdallaahmedsd",
     "followers": 36,
-    "privateContributions": 528,
-    "publicContributions": 17,
+    "privateContributions": 355,
+    "publicContributions": 2,
     "createdAt": "2023-07-08T19:09:37Z"
   },
   {
@@ -1988,20 +1976,8 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-06-11T08:52:53Z"
-  },
-  {
-    "login": "Maimun-Hossain",
-    "name": "Maimun Hossain",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139581936?s=72&u=02dc247bf186486af830a2275826fc0d0016973b&v=4",
-    "location": "Doha,Qatar",
-    "company": "United International University",
-    "twitterUsername": "HossainMaimun",
-    "followers": 23,
-    "privateContributions": 6,
-    "publicContributions": 126,
-    "createdAt": "2023-07-14T18:07:16Z"
   },
   {
     "login": "ElmikoTheNiceFella",
@@ -2010,9 +1986,9 @@
     "location": "Qatar",
     "company": "Qatar University",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 250,
     "createdAt": "2023-02-21T12:05:10Z"
   },
   {
@@ -2023,7 +1999,7 @@
     "company": "Simitai",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 366,
+    "privateContributions": 325,
     "publicContributions": 0,
     "createdAt": "2023-01-30T11:46:17Z"
   },
@@ -2034,9 +2010,9 @@
     "location": "Doha - Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2023-07-05T20:41:01Z"
   },
   {
@@ -2047,21 +2023,9 @@
     "company": "University of Doha for Science and Technology",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 44,
-    "publicContributions": 1,
+    "privateContributions": 42,
+    "publicContributions": 3,
     "createdAt": "2023-09-16T17:36:58Z"
-  },
-  {
-    "login": "Belami02",
-    "name": "Bel Ami Gisage Warakoze",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125438939?s=72&u=2ac4b1ad39411dead7f6225adff32b0be5101135&v=4",
-    "location": "Qatar",
-    "company": "Carnegie Mellon University",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 154,
-    "publicContributions": 31,
-    "createdAt": "2023-02-15T07:27:44Z"
   },
   {
     "login": "anasrustom",
@@ -2071,8 +2035,8 @@
     "company": "Vora",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 165,
-    "publicContributions": 55,
+    "privateContributions": 623,
+    "publicContributions": 18,
     "createdAt": "2023-01-27T20:32:57Z"
   },
   {
@@ -12922,5 +12886,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-11-25T11:27:10Z"
+  },
+  {
+    "login": "bahaa-husain",
+    "name": "BAHAA HUSAIN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224553547?s=72&u=073bcf418147e9fb01801a793fb16d233744142f&v=4",
+    "location": "Qatar/Syria",
+    "company": "Arab International University ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2025-08-04T10:03:46Z"
   }
 ]

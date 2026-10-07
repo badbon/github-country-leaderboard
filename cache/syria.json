@@ -1867,8 +1867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 22,
+    "privateContributions": 12,
+    "publicContributions": 20,
     "createdAt": "2024-12-31T15:20:17Z"
   },
   {
@@ -1880,7 +1880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 61,
     "createdAt": "2025-04-11T03:58:14Z"
   },
   {
@@ -1892,7 +1892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 19,
     "createdAt": "2025-09-23T10:20:51Z"
   },
   {
@@ -1904,7 +1904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 20,
     "createdAt": "2025-07-12T16:32:43Z"
   },
   {
@@ -1916,7 +1916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 12,
     "createdAt": "2025-09-18T15:02:57Z"
   },
   {
@@ -1928,7 +1928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 9,
     "createdAt": "2025-05-07T14:53:06Z"
   },
   {
@@ -1939,7 +1939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 168,
+    "privateContributions": 80,
     "publicContributions": 0,
     "createdAt": "2025-07-30T18:11:54Z"
   },
@@ -1952,7 +1952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-07T12:53:46Z"
   },
   {
@@ -1988,7 +1988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-05T12:12:42Z"
   },
   {
@@ -1998,7 +1998,7 @@
     "location": "syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2025-01-10T15:39:41Z"
@@ -2028,18 +2028,6 @@
     "createdAt": "2025-06-18T14:47:03Z"
   },
   {
-    "login": "bahaa-husain",
-    "name": "BAHAA HUSAIN",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224553547?s=72&u=073bcf418147e9fb01801a793fb16d233744142f&v=4",
-    "location": "syria",
-    "company": "@arab international university",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2025-08-04T10:03:46Z"
-  },
-  {
     "login": "SaraZeinah",
     "name": "Sara Zeinah",
     "avatarUrl": "https://avatars.githubusercontent.com/u/231012407?s=72&v=4",
@@ -2048,7 +2036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 9,
     "createdAt": "2025-09-08T11:37:08Z"
   },
   {
@@ -2062,18 +2050,6 @@
     "privateContributions": 0,
     "publicContributions": 89,
     "createdAt": "2025-02-23T16:58:30Z"
-  },
-  {
-    "login": "mostafajb587",
-    "name": "Mustafa Jbili",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205514734?s=72&u=b7d2c8da4ed1de2347572519b5e0fd844000e97b&v=4",
-    "location": "syria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2025-03-30T12:02:21Z"
   },
   {
     "login": "Amer-Nasser",
@@ -2096,7 +2072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1361,
+    "publicContributions": 1481,
     "createdAt": "2024-12-28T12:47:49Z"
   },
   {

@@ -1820,20 +1820,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 17,
     "createdAt": "2026-02-18T15:23:49Z"
-  },
-  {
-    "login": "jlw-git",
-    "name": "JL",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269093771?s=72&u=d9239ed24c7103b631cc94065d3f3eaf340c0d5a&v=4",
-    "location": "Singapore",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 173,
-    "createdAt": "2026-03-18T04:40:11Z"
   },
   {
     "login": "deankmloh-pixel",
@@ -1844,18 +1832,18 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 231,
     "createdAt": "2026-03-21T07:34:01Z"
   },
   {
     "login": "tau-pionizer",
     "name": "Tau",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/271770321?s=72&u=eb6b7d8176180bfe9f47eda5390ff79536731d02&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/271770321?s=72&u=436e8f872a89bf008e8334b3ea0c04c1cf82d732&v=4",
     "location": "Singapore",
     "company": "pionizer.ai",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 3429,
     "publicContributions": 2,
     "createdAt": "2026-03-28T13:40:17Z"
   },
@@ -1892,7 +1880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 12,
     "createdAt": "2026-04-04T04:00:28Z"
   },
   {
@@ -1902,7 +1890,7 @@
     "location": "Singapore",
     "company": "FUTURE SIGHT TECH PTE. LTD.",
     "twitterUsername": "Linkdesk_Ai",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-04-13T08:23:38Z"
@@ -1928,7 +1916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 10,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2026-01-10T17:37:40Z"
   },
   {
@@ -1940,7 +1928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 28,
     "createdAt": "2026-02-09T09:09:14Z"
   },
   {
@@ -1964,32 +1952,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 801,
+    "publicContributions": 401,
     "createdAt": "2026-03-17T18:36:36Z"
-  },
-  {
-    "login": "ElvinHasanov3d",
-    "name": "Liang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/215983765?s=72&u=2d2438cc5dfd9d56a3f194136911708a91247287&v=4",
-    "location": "Singapore, Singapore",
-    "company": "Zenspacestudio",
-    "twitterUsername": "",
-    "followers": 611,
-    "privateContributions": 218,
-    "publicContributions": 625,
-    "createdAt": "2025-06-12T08:55:23Z"
-  },
-  {
-    "login": "badiranssen",
-    "name": "Lim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216744784?s=72&u=49e867f5c361097c193f705cd7e688d0039590e8&v=4",
-    "location": "Singapore, Singapore",
-    "company": "Pactechgroup",
-    "twitterUsername": "",
-    "followers": 597,
-    "privateContributions": 218,
-    "publicContributions": 602,
-    "createdAt": "2025-06-17T15:42:15Z"
   },
   {
     "login": "jefferyklass8",
@@ -1998,7 +1962,7 @@
     "location": "Singapore",
     "company": "Individual",
     "twitterUsername": "",
-    "followers": 294,
+    "followers": 297,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2025-01-13T00:54:55Z"
@@ -2010,9 +1974,9 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 183,
+    "followers": 189,
     "privateContributions": 199,
-    "publicContributions": 140,
+    "publicContributions": 148,
     "createdAt": "2025-01-12T06:51:31Z"
   },
   {
@@ -2034,9 +1998,9 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 121,
+    "followers": 119,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 21,
     "createdAt": "2025-09-09T13:37:31Z"
   },
   {

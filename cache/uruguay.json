@@ -1928,7 +1928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-04-15T01:22:51Z"
   },
   {
@@ -1940,7 +1940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2025-03-30T19:05:49Z"
   },
   {
@@ -1951,8 +1951,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 480,
-    "publicContributions": 448,
+    "privateContributions": 473,
+    "publicContributions": 372,
     "createdAt": "2025-03-21T17:14:05Z"
   },
   {
@@ -1963,8 +1963,8 @@
     "company": "University of Montevideo",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 3,
+    "privateContributions": 300,
+    "publicContributions": 372,
     "createdAt": "2025-05-29T20:50:40Z"
   },
   {
@@ -1976,7 +1976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-09-25T14:02:00Z"
   },
   {
@@ -1988,7 +1988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 19,
     "createdAt": "2025-06-23T14:31:30Z"
   },
   {
@@ -1999,7 +1999,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 40,
+    "privateContributions": 30,
     "publicContributions": 0,
     "createdAt": "2025-05-26T10:34:49Z"
   },
@@ -2012,7 +2012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 321,
+    "publicContributions": 310,
     "createdAt": "2025-04-18T17:55:01Z"
   },
   {
@@ -2036,19 +2036,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 7,
     "createdAt": "2025-11-17T03:55:15Z"
   },
   {
     "login": "lopez-matias",
-    "name": "Matias Lopez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/210107404?s=72&u=7de1818049c6279bdcabfe7cf3e7617b075b0e0d&v=4",
-    "location": "Uruguay",
+    "name": "Matías López",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210107404?s=72&u=4ce6f02dea28d296b822e821ca376db56d54422d&v=4",
+    "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 16,
     "createdAt": "2025-05-03T02:39:08Z"
   },
   {
@@ -2060,7 +2060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 57,
     "createdAt": "2025-12-02T19:13:49Z"
   },
   {
@@ -2108,7 +2108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 16,
     "createdAt": "2025-09-16T17:21:16Z"
   },
   {
@@ -2118,9 +2118,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 31,
+    "followers": 4,
+    "privateContributions": 22,
+    "publicContributions": 154,
     "createdAt": "2025-05-24T15:54:17Z"
   },
   {
@@ -2130,7 +2130,7 @@
     "location": "Uruguay",
     "company": "Swellio",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 3,
     "publicContributions": 7,
     "createdAt": "2025-10-31T13:28:51Z"

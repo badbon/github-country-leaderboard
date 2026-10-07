@@ -2130,8 +2130,8 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 87,
+    "followers": 7,
+    "privateContributions": 64,
     "publicContributions": 19,
     "createdAt": "2021-12-07T18:45:14Z"
   },
@@ -2154,9 +2154,9 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 776,
-    "publicContributions": 3014,
+    "followers": 7,
+    "privateContributions": 1268,
+    "publicContributions": 3489,
     "createdAt": "2021-10-05T13:54:19Z"
   },
   {
@@ -2179,8 +2179,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 132,
-    "publicContributions": 0,
+    "privateContributions": 123,
+    "publicContributions": 5,
     "createdAt": "2021-12-03T14:21:21Z"
   },
   {
@@ -2191,7 +2191,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 572,
+    "privateContributions": 596,
     "publicContributions": 101,
     "createdAt": "2021-01-04T16:29:05Z"
   },
@@ -2215,8 +2215,8 @@
     "company": "Linux Ricing Co.",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 169,
-    "publicContributions": 30,
+    "privateContributions": 157,
+    "publicContributions": 0,
     "createdAt": "2021-05-02T12:40:06Z"
   },
   {
@@ -2226,9 +2226,9 @@
     "location": "Antarctica",
     "company": "Python Backend Developer | FastAPI & Django Expert | T-SQL & Power BI Specialist",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 88,
     "createdAt": "2021-05-12T08:25:00Z"
   },
   {
@@ -2250,9 +2250,9 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 18,
     "createdAt": "2021-12-01T22:51:57Z"
   },
   {
@@ -2263,20 +2263,20 @@
     "company": "",
     "twitterUsername": "0xVanfer",
     "followers": 4,
-    "privateContributions": 607,
-    "publicContributions": 69,
+    "privateContributions": 1111,
+    "publicContributions": 88,
     "createdAt": "2021-07-21T02:29:56Z"
   },
   {
     "login": "PaxtonPenguin",
     "name": "Paxton",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84253355?s=72&u=732810820d6d91cb5f63a6971e6d7fb625b7b0c5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84253355?s=72&u=b9b38b092b2b0a7ea39637fd52f66fd584bf528e&v=4",
     "location": "Antarctica",
     "company": "Paxton Penguin",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 93,
     "createdAt": "2021-05-15T23:31:13Z"
   },
   {
@@ -2288,20 +2288,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 26,
     "createdAt": "2021-07-09T03:03:58Z"
-  },
-  {
-    "login": "arminrf",
-    "name": "armin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78182305?s=72&u=9a680e13bd06b89252e1013297ad2d33b9981604&v=4",
-    "location": "antarctica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-01-28T23:22:01Z"
   },
   {
     "login": "RU4DH4N",
@@ -2311,8 +2299,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 100,
-    "publicContributions": 131,
+    "privateContributions": 72,
+    "publicContributions": 135,
     "createdAt": "2021-01-03T14:49:58Z"
   },
   {
@@ -2324,7 +2312,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 12,
     "createdAt": "2021-08-13T14:47:11Z"
   },
   {
@@ -2335,7 +2323,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 33,
+    "privateContributions": 25,
     "publicContributions": 0,
     "createdAt": "2021-07-21T04:20:41Z"
   },
@@ -2347,8 +2335,8 @@
     "company": "@npc-servers",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1209,
-    "publicContributions": 60,
+    "privateContributions": 1090,
+    "publicContributions": 57,
     "createdAt": "2021-03-27T20:53:27Z"
   },
   {

@@ -2168,7 +2168,7 @@
     "twitterUsername": "Jorge_Devs",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 0,
     "createdAt": "2025-04-08T18:10:11Z"
   },
   {
@@ -2179,8 +2179,8 @@
     "company": "yhankotech",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 45,
-    "publicContributions": 51,
+    "privateContributions": 40,
+    "publicContributions": 0,
     "createdAt": "2025-01-11T19:02:51Z"
   },
   {
@@ -2210,7 +2210,7 @@
   {
     "login": "fernandovula",
     "name": "Fernando Gomes Vula",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211249766?s=72&u=8b5ef2179d3829876db560befdf65f2d95e15872&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211249766?s=72&u=b4d11154a21a12120c61f593728a60fddb291569&v=4",
     "location": "Angola, Luanda",
     "company": "Connect Online",
     "twitterUsername": "",
@@ -2228,20 +2228,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2025-07-24T11:27:11Z"
-  },
-  {
-    "login": "valdniroalbino",
-    "name": "Valdniro Albino",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194226670?s=72&v=4",
-    "location": "Angola,Luanda",
-    "company": "ISPTEC",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 93,
-    "createdAt": "2025-01-08T10:30:28Z"
   },
   {
     "login": "WilsonRaposo017",
@@ -2252,7 +2240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 38,
     "createdAt": "2025-08-14T10:26:52Z"
   },
   {
@@ -2269,14 +2257,14 @@
   },
   {
     "login": "ipboy-cipher",
-    "name": "António Neto",
+    "name": "Ipboy Cipher",
     "avatarUrl": "https://avatars.githubusercontent.com/u/229520222?s=72&u=d16edb1bd4f682edd2c18328dd37c7d68f72cf01&v=4",
     "location": "Angola",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 89,
     "createdAt": "2025-08-30T19:56:00Z"
   },
   {
@@ -2288,7 +2276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1978,
+    "publicContributions": 2104,
     "createdAt": "2025-03-17T00:49:10Z"
   },
   {
@@ -2300,7 +2288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 68,
     "createdAt": "2025-09-26T09:12:49Z"
   },
   {
@@ -2324,7 +2312,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2025-08-11T18:08:04Z"
   },
   {
@@ -2342,11 +2330,11 @@
   {
     "login": "MarchelQuiala",
     "name": "Marchel Quiala",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206916891?s=72&u=163985d0302b061d2eeee02330325bda354998f5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206916891?s=72&v=4",
     "location": "Angola",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 150,
     "createdAt": "2025-04-09T16:36:44Z"
@@ -2360,7 +2348,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 98,
     "createdAt": "2025-01-11T18:36:24Z"
   },
   {
@@ -2371,8 +2359,8 @@
     "company": "TERAMED SA",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 545,
-    "publicContributions": 0,
+    "privateContributions": 616,
+    "publicContributions": 1,
     "createdAt": "2024-12-29T19:40:04Z"
   },
   {

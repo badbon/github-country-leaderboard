@@ -2192,7 +2192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 88,
     "createdAt": "2025-09-02T19:35:33Z"
   },
   {
@@ -2204,7 +2204,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 100,
     "createdAt": "2025-09-03T10:09:40Z"
   },
   {
@@ -2216,7 +2216,7 @@
     "twitterUsername": "karaxanov7",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 26,
     "createdAt": "2025-02-14T16:42:30Z"
   },
   {
@@ -2227,7 +2227,7 @@
     "company": "@ksu-oor ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 241,
+    "privateContributions": 261,
     "publicContributions": 0,
     "createdAt": "2025-06-23T13:40:48Z"
   },
@@ -2247,12 +2247,12 @@
     "login": "maribostashvili-93",
     "name": "Mariami Bostashvili",
     "avatarUrl": "https://avatars.githubusercontent.com/u/247189057?s=72&u=162fad5d5f9bf8003fa4bb5b238fa2c4a0ed6169&v=4",
-    "location": "batumi",
+    "location": "Batumi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 293,
+    "followers": 6,
+    "privateContributions": 17,
+    "publicContributions": 320,
     "createdAt": "2025-12-01T14:53:37Z"
   },
   {
@@ -2288,7 +2288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 76,
     "createdAt": "2025-03-11T08:36:00Z"
   },
   {
@@ -2300,7 +2300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 233,
+    "publicContributions": 224,
     "createdAt": "2025-05-22T08:47:27Z"
   },
   {
@@ -2310,9 +2310,9 @@
     "location": "Kutaisi",
     "company": "Kutaisi International University",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 620,
+    "publicContributions": 565,
     "createdAt": "2025-08-26T00:43:58Z"
   },
   {
@@ -2324,7 +2324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2025-06-29T10:09:52Z"
   },
   {
@@ -2334,7 +2334,7 @@
     "location": "Tbilisi, Georgin",
     "company": "",
     "twitterUsername": "",
-    "followers": 73,
+    "followers": 82,
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2025-12-19T20:40:34Z"
@@ -2346,7 +2346,7 @@
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2025-03-08T09:51:05Z"
@@ -2358,21 +2358,21 @@
     "location": "Tbilisi",
     "company": "Lumina Estate,Lumina Agency,Lumina Solutions",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 962,
+    "followers": 5,
+    "privateContributions": 1214,
     "publicContributions": 2,
     "createdAt": "2025-03-07T16:24:58Z"
   },
   {
     "login": "avto2006",
     "name": "Avto Bagaturia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198458239?s=72&u=7455899b60d1f4bbbd9ff34ad27f2cc04d7a5785&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198458239?s=72&u=7211d2e647bb01293c04e35f413276e1e4828fae&v=4",
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 580,
+    "publicContributions": 600,
     "createdAt": "2025-02-09T13:20:45Z"
   },
   {
@@ -2395,8 +2395,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 26,
-    "publicContributions": 44,
+    "privateContributions": 27,
+    "publicContributions": 46,
     "createdAt": "2025-09-18T22:09:14Z"
   },
   {
@@ -82630,5 +82630,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-11-05T09:43:33Z"
+  },
+  {
+    "login": "adhqulm",
+    "name": "Kristiina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213428371?s=72&u=b745d2b9125a30b42503fb1d46afc3a1bbac04f3&v=4",
+    "location": "Tbilisi, Georgia",
+    "company": "BWorldArt",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 92,
+    "createdAt": "2025-05-26T09:52:07Z"
   }
 ]

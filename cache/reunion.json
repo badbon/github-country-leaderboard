@@ -1879,7 +1879,7 @@
     "company": "Epitech",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 882,
+    "privateContributions": 891,
     "publicContributions": 1,
     "createdAt": "2018-08-03T17:30:33Z"
   },
@@ -1891,7 +1891,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2018-08-31T13:38:38Z"
   },
@@ -1926,22 +1926,10 @@
     "location": "Réunion",
     "company": "Red Hat, Inc.",
     "twitterUsername": "elmarco",
-    "followers": 93,
+    "followers": 94,
     "privateContributions": 0,
-    "publicContributions": 1015,
+    "publicContributions": 1148,
     "createdAt": "2008-05-05T19:29:59Z"
-  },
-  {
-    "login": "Homobastum",
-    "name": "Mathieu Gonthier",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36029083?s=72&u=af204a7eb90eba04a7a241544566f8247b9a76e0&v=4",
-    "location": "Reunion Island",
-    "company": "",
-    "twitterUsername": "HommeBaton",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-02-01T07:34:55Z"
   },
   {
     "login": "gaelduez",
@@ -1975,8 +1963,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 125,
+    "privateContributions": 167,
+    "publicContributions": 85,
     "createdAt": "2018-05-17T11:46:47Z"
   },
   {
@@ -2000,7 +1988,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 175,
+    "publicContributions": 239,
     "createdAt": "2017-08-16T11:40:36Z"
   },
   {
@@ -2023,8 +2011,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 586,
-    "publicContributions": 24,
+    "privateContributions": 643,
+    "publicContributions": 28,
     "createdAt": "2017-12-28T10:43:16Z"
   },
   {
@@ -2058,9 +2046,9 @@
     "location": "Reunion Island",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 999,
-    "publicContributions": 515,
+    "followers": 16,
+    "privateContributions": 1023,
+    "publicContributions": 716,
     "createdAt": "2016-11-08T13:01:33Z"
   },
   {
@@ -2083,8 +2071,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 3201,
-    "publicContributions": 1,
+    "privateContributions": 3763,
+    "publicContributions": 7,
     "createdAt": "2016-07-18T17:56:23Z"
   },
   {

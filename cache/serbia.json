@@ -1916,7 +1916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2025-04-07T19:30:04Z"
   },
   {
@@ -1940,7 +1940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 139,
     "createdAt": "2025-07-29T14:02:08Z"
   },
   {
@@ -1980,18 +1980,6 @@
     "createdAt": "2025-03-18T07:51:23Z"
   },
   {
-    "login": "Mateja4329",
-    "name": "Mateja",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/218809525?s=72&u=ba6927cf1462720a48032750842bf3c95266620c&v=4",
-    "location": "Serbia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 92,
-    "createdAt": "2025-07-01T16:10:59Z"
-  },
-  {
     "login": "zeinniksic",
     "name": "Zein Niksic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/211217149?s=72&u=40a01c3e9df469e95c723477d1b95d8a18707f50&v=4",
@@ -2000,7 +1988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-05-11T12:26:57Z"
   },
   {
@@ -2047,8 +2035,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 60,
-    "publicContributions": 53,
+    "privateContributions": 127,
+    "publicContributions": 84,
     "createdAt": "2025-06-23T17:19:11Z"
   },
   {
@@ -2095,8 +2083,8 @@
     "company": "@tenstorrent ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 798,
+    "privateContributions": 7,
+    "publicContributions": 934,
     "createdAt": "2025-08-25T08:31:21Z"
   },
   {
@@ -2108,7 +2096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 20,
-    "publicContributions": 47,
+    "publicContributions": 55,
     "createdAt": "2025-07-24T14:18:33Z"
   },
   {
@@ -2120,7 +2108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2025-09-29T08:46:25Z"
   },
   {
@@ -2132,7 +2120,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 9,
-    "publicContributions": 107,
+    "publicContributions": 137,
     "createdAt": "2024-12-28T13:11:55Z"
   },
   {
@@ -2144,7 +2132,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 13,
     "createdAt": "2025-05-24T08:22:13Z"
   },
   {

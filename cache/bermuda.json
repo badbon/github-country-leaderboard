@@ -1855,8 +1855,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 179,
-    "publicContributions": 39,
+    "privateContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-06-16T21:06:50Z"
   },
   {
@@ -1880,7 +1880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 107,
     "createdAt": "2022-12-15T01:06:52Z"
   },
   {
@@ -1891,8 +1891,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
-    "publicContributions": 4,
+    "privateContributions": 46,
+    "publicContributions": 6,
     "createdAt": "2022-05-10T09:23:48Z"
   },
   {
@@ -1904,7 +1904,7 @@
     "twitterUsername": "Kelfistan",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 76,
     "createdAt": "2022-04-22T01:00:23Z"
   },
   {
@@ -1916,7 +1916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2022-01-27T01:57:53Z"
   },
   {
@@ -1963,8 +1963,8 @@
     "company": "McMaster University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 468,
-    "publicContributions": 25,
+    "privateContributions": 410,
+    "publicContributions": 24,
     "createdAt": "2022-11-08T19:57:28Z"
   },
   {
@@ -2000,13 +2000,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 52,
     "createdAt": "2022-01-11T23:07:26Z"
   },
   {
     "login": "m-zdero",
-    "name": "Mike",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117281956?s=72&u=c9e5c5ffdaca71b212daf52e18a9f2d7f5c2ffce&v=4",
+    "name": "Maddie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117281956?s=72&u=1d59fd0d04a5ac63848b62840703fca497a60781&v=4",
     "location": "Hamilton, ON",
     "company": "ET Group",
     "twitterUsername": "",
@@ -2046,8 +2046,8 @@
     "location": "Hamilton, ON",
     "company": "McMaster University",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 743,
+    "followers": 2,
+    "privateContributions": 800,
     "publicContributions": 0,
     "createdAt": "2022-08-31T04:18:22Z"
   },

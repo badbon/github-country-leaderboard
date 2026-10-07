@@ -2118,9 +2118,9 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 19,
     "createdAt": "2024-02-09T06:18:33Z"
   },
   {
@@ -2143,7 +2143,7 @@
     "company": "",
     "twitterUsername": "mdariel663",
     "followers": 2,
-    "privateContributions": 373,
+    "privateContributions": 366,
     "publicContributions": 3,
     "createdAt": "2024-04-28T19:30:00Z"
   },
@@ -2166,9 +2166,9 @@
     "location": "Cuba",
     "company": "Havana University",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 43,
     "createdAt": "2024-12-18T22:49:57Z"
   },
   {
@@ -2190,7 +2190,7 @@
     "location": "La Habana, Cuba",
     "company": "",
     "twitterUsername": "alexdevzz",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 59,
     "createdAt": "2024-09-24T14:52:45Z"
@@ -2240,7 +2240,7 @@
     "twitterUsername": "KelbisDLuaces",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 7,
     "createdAt": "2024-07-19T03:29:51Z"
   },
   {
@@ -2256,40 +2256,16 @@
     "createdAt": "2024-11-15T20:24:45Z"
   },
   {
-    "login": "dacvazquez",
-    "name": "Daniel Capote",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/165117847?s=72&u=d706fc7bf147d158cbe97e00ee1d84c6323c06bd&v=4",
-    "location": "Cuba",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 46,
-    "createdAt": "2024-03-27T03:28:23Z"
-  },
-  {
     "login": "ViticoMC",
     "name": "Victor  Manuel Martínez Campo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/183854965?s=72&u=c538048850ba7e150b93317cac1c439cfb75b271&v=4",
     "location": "Cuba",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 269,
-    "publicContributions": 308,
+    "followers": 3,
+    "privateContributions": 262,
+    "publicContributions": 320,
     "createdAt": "2024-10-04T16:49:07Z"
-  },
-  {
-    "login": "ricardojesus-dev",
-    "name": "Ricardo Jesus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190052632?s=72&u=a574ff7569d148a4dee19d5935339d12d522e33c&v=4",
-    "location": "La Habana, Cuba",
-    "company": "Independent",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 54,
-    "createdAt": "2024-11-29T03:29:22Z"
   },
   {
     "login": "Abero-dev",
@@ -2300,7 +2276,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 262,
+    "publicContributions": 261,
     "createdAt": "2024-05-20T22:15:30Z"
   },
   {
@@ -2324,7 +2300,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 28,
     "createdAt": "2024-06-30T20:29:50Z"
   },
   {
@@ -2334,7 +2310,7 @@
     "location": "Cuba",
     "company": "Freenlancer",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 41,
     "createdAt": "2024-02-10T03:29:34Z"
@@ -2348,7 +2324,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-02-28T06:29:20Z"
   },
   {
