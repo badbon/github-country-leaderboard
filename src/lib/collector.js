@@ -43,7 +43,7 @@ export async function collect({
   sleep = defaultSleep
 }) {
   const state = await loadState(countries, now);
-  const caches = await loadCaches(countries);
+  const { caches, cleanedCaches } = await loadCaches(countries, state);
   const cacheIndex = buildCacheIndex(caches);
   const contributionWindow = rollingContributionWindow(now);
   let requests = 0;
@@ -51,6 +51,11 @@ export async function collect({
   let refreshRequests = 0;
   let discoveryTurns = 0;
   state.lastRunStartedAt = now.toISOString();
+  state.stats.usersKept = Object.values(caches).reduce((total, users) => total + users.length, 0);
+  if (cleanedCaches.length) {
+    noteCacheChanges(state, cleanedCaches);
+    await persist(state, caches, dryRun, cleanedCaches);
+  }
 
   while (requests < maxQueries) {
     if (refreshRequests < discoveryRequests) {
@@ -379,12 +384,22 @@ function dateRanges(start, end) {
   return ranges.reverse();
 }
 
-async function loadCaches(countries) {
+async function loadCaches(countries, state) {
   const caches = {};
+  const cleanedCaches = [];
   for (const country of countries) {
-    caches[country.slug] = await readJson(`${CACHE_DIR}/${country.slug}.json`, []);
+    const users = await readJson(`${CACHE_DIR}/${country.slug}.json`, []);
+    caches[country.slug] = users.filter((user) => user.followers >= 1);
+    if (caches[country.slug].length !== users.length) {
+      const countryState = state.countries[country.slug];
+      const removedBeforeCursor = users.slice(0, countryState.refreshCursor ?? 0)
+        .filter((user) => !(user.followers >= 1)).length;
+      countryState.refreshCursor = Math.max(0, (countryState.refreshCursor ?? 0) - removedBeforeCursor);
+      countryState.stats.usersKept = caches[country.slug].length;
+      cleanedCaches.push(country.slug);
+    }
   }
-  return caches;
+  return { caches, cleanedCaches };
 }
 
 function mergeUsers(caches, cacheIndex, countries, users) {

@@ -38,6 +38,44 @@ test("schedules Georgia first from clean state", () => {
   assert.equal(selectNextCountry(state, countries).slug, "georgia");
 });
 
+test("cleans ineligible cached users and preserves the refresh position", async () => {
+  const originalCwd = process.cwd();
+  const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-eligibility-"));
+  process.chdir(tempDir);
+  try {
+    const countries = testCountries(["testland"]);
+    await writeJson("data/state.json", {
+      version: 3,
+      countries: { testland: {
+        status: "complete", queue: [], completed: {}, discoveryQueuedThrough: "2026-05-12",
+        lastDiscoveryCompletedAt: "2026-08-13T00:00:00Z", refreshCursor: 2, stats: {}
+      } }, stats: {}
+    });
+    await writeJson("cache/testland.json", [
+      { login: "removed-before", followers: 0 },
+      { login: "keep", followers: 1 },
+      { login: "removed-after", followers: 0 }
+    ]);
+    const result = await collect({ countries, client: neverClient(), maxQueries: 0,
+      now: new Date("2026-08-13T00:00:00Z"), sleep: async () => {} });
+    assert.deepEqual((await readJson("cache/testland.json")).map((user) => user.login), ["keep"]);
+    assert.equal(result.state.countries.testland.refreshCursor, 1);
+    assert.equal(result.state.countries.testland.stats.usersKept, 1);
+    assert.equal(result.state.stats.usersKept, 1);
+    assert.ok(result.state.countries.testland.lastCacheChangeAt);
+    assert.equal((await readJson("data/state.json")).stats.usersKept, 1);
+    result.state.stats.usersKept = 999;
+    await writeJson("data/state.json", result.state);
+    const restarted = await collect({ countries, client: neverClient(), maxQueries: 0,
+      now: new Date("2026-08-13T00:00:00Z"), sleep: async () => {} });
+    assert.equal(restarted.state.stats.usersKept, 1);
+    assert.equal((await readJson("data/state.json")).stats.usersKept, 1);
+  } finally {
+    process.chdir(originalCwd);
+    await rm(tempDir, { recursive: true, force: true });
+  }
+});
+
 test("rotates countries fairly after Georgia completes", () => {
   const countries = testCountries(["georgia", "alpha", "beta"]);
   const state = createInitialState(countries, new Date("2026-08-13T00:00:00Z"));
