@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 39,
     "createdAt": "2026-04-18T11:14:04Z"
   },
   {
@@ -967,7 +967,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 161,
+    "privateContributions": 152,
     "publicContributions": 1,
     "createdAt": "2026-04-06T21:13:26Z"
   },
@@ -1014,15 +1014,15 @@
     "location": "Athens",
     "company": "Workable",
     "twitterUsername": "NoNickeD",
-    "followers": 12,
-    "privateContributions": 3223,
-    "publicContributions": 1020,
+    "followers": 16,
+    "privateContributions": 4348,
+    "publicContributions": 1317,
     "createdAt": "2026-01-12T11:56:23Z"
   },
   {
     "login": "antonopoulosg97",
     "name": "Giorgos Antonopoulos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/272540686?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272540686?s=72&u=a64107e0645181319e23e20c6bf484492c8182f3&v=4",
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
@@ -1040,7 +1040,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 46,
     "createdAt": "2026-04-01T10:49:48Z"
   },
   {
@@ -1081,14 +1081,14 @@
   },
   {
     "login": "mks-devx",
-    "name": "Mike Konstantinidis",
+    "name": "MK",
     "avatarUrl": "https://avatars.githubusercontent.com/u/273145177?s=72&u=b31ef8a728c4f31ffc824b3592e79fbc3c1f9140&v=4",
     "location": "Athens",
-    "company": "Mike Konstantinidis",
+    "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 88,
     "createdAt": "2026-04-02T15:27:31Z"
   },
   {
@@ -1111,7 +1111,7 @@
     "company": "Management Science & Technology, AUEB",
     "twitterUsername": "DimitrisFintzos",
     "followers": 1,
-    "privateContributions": 46,
+    "privateContributions": 56,
     "publicContributions": 53,
     "createdAt": "2026-02-18T20:08:40Z"
   },
@@ -1128,27 +1128,15 @@
     "createdAt": "2026-03-24T22:38:49Z"
   },
   {
-    "login": "corpunum",
-    "name": "Unum",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262771868?s=72&u=59e35cc746d78bbce7ccdc3bfaf49a6c4329c478&v=4",
-    "location": "Athens",
-    "company": "UnumCorp",
-    "twitterUsername": "UnumCorp",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1110,
-    "createdAt": "2026-02-20T09:24:07Z"
-  },
-  {
     "login": "g-laliotis",
     "name": "Giorgos Laliotis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/221670684?s=72&u=a76d4caa8b1f6a0e41ac9662d3ab14d42d9d4444&v=4",
     "location": "Chalcis, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 127,
+    "followers": 126,
     "privateContributions": 15,
-    "publicContributions": 382,
+    "publicContributions": 342,
     "createdAt": "2025-07-19T06:59:14Z"
   },
   {
@@ -1158,9 +1146,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 117,
-    "privateContributions": 1385,
-    "publicContributions": 422,
+    "followers": 121,
+    "privateContributions": 1656,
+    "publicContributions": 270,
     "createdAt": "2025-08-23T09:08:05Z"
   },
   {
@@ -1170,8 +1158,8 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 116,
-    "privateContributions": 2029,
+    "followers": 102,
+    "privateContributions": 3148,
     "publicContributions": 237,
     "createdAt": "2025-08-04T15:34:09Z"
   },

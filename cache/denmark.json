@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 0,
     "createdAt": "2025-09-18T08:58:02Z"
   },
   {
@@ -954,9 +954,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 286,
-    "privateContributions": 2169,
-    "publicContributions": 864,
+    "followers": 310,
+    "privateContributions": 2286,
+    "publicContributions": 4020,
     "createdAt": "2025-06-22T13:46:08Z"
   },
   {
@@ -967,8 +967,8 @@
     "company": "Denmark",
     "twitterUsername": "",
     "followers": 70,
-    "privateContributions": 19,
-    "publicContributions": 284,
+    "privateContributions": 10,
+    "publicContributions": 243,
     "createdAt": "2025-02-01T18:29:31Z"
   },
   {
@@ -978,8 +978,8 @@
     "location": "Copenhagen/Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 302,
+    "followers": 30,
+    "privateContributions": 435,
     "publicContributions": 29,
     "createdAt": "2025-04-09T06:40:14Z"
   },
@@ -990,8 +990,8 @@
     "location": "Aarhus, Denmark",
     "company": "",
     "twitterUsername": "chrisch88dev",
-    "followers": 26,
-    "privateContributions": 4,
+    "followers": 37,
+    "privateContributions": 15,
     "publicContributions": 61,
     "createdAt": "2025-05-24T22:54:26Z"
   },
@@ -1002,7 +1002,7 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-12T22:30:55Z"
@@ -1016,7 +1016,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 72,
     "createdAt": "2025-03-10T13:06:47Z"
   },
   {
@@ -1026,9 +1026,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 52,
     "createdAt": "2025-09-21T21:02:52Z"
   },
   {
@@ -1040,7 +1040,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 192,
+    "publicContributions": 778,
     "createdAt": "2025-01-16T14:40:30Z"
   },
   {
@@ -1050,19 +1050,19 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 307,
+    "publicContributions": 295,
     "createdAt": "2025-08-22T12:14:05Z"
   },
   {
     "login": "Kayc3sh",
-    "name": "7zpg",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/222901652?s=72&u=3ce08be1bebc5afe31e7c4339b84f19eeef9ac30&v=4",
+    "name": "enc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/222901652?s=72&u=2191641a185746fa43965d61eedc0bff4cbd6787&v=4",
     "location": "Denmark",
     "company": "Lumen Security",
-    "twitterUsername": "kayc3sh",
-    "followers": 14,
+    "twitterUsername": "encl337",
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 76,
     "createdAt": "2025-07-26T00:08:22Z"
@@ -1074,9 +1074,9 @@
     "location": "copenhagen, denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 195,
-    "publicContributions": 89,
+    "followers": 18,
+    "privateContributions": 164,
+    "publicContributions": 84,
     "createdAt": "2025-01-14T13:07:48Z"
   },
   {
@@ -1086,9 +1086,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 285,
+    "publicContributions": 341,
     "createdAt": "2025-08-26T10:24:19Z"
   },
   {
@@ -1098,9 +1098,9 @@
     "location": "Denmark 🇩🇰 ",
     "company": "",
     "twitterUsername": "critfinds",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 201,
+    "publicContributions": 186,
     "createdAt": "2025-01-02T16:58:47Z"
   },
   {
@@ -1111,7 +1111,7 @@
     "company": "Schwponaco ApS",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 128,
+    "privateContributions": 127,
     "publicContributions": 39,
     "createdAt": "2025-02-04T23:27:32Z"
   },
@@ -1122,9 +1122,9 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 44,
     "createdAt": "2025-04-30T11:48:00Z"
   },
   {
@@ -1136,7 +1136,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 15,
     "createdAt": "2025-09-03T12:40:58Z"
   },
   {

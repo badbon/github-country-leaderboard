@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 33,
     "createdAt": "2024-07-22T03:24:46Z"
   },
   {
@@ -992,7 +992,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 48,
     "createdAt": "2024-01-29T20:35:32Z"
   },
   {
@@ -1002,9 +1002,9 @@
     "location": "Kingston, ON",
     "company": "Queen's University",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 719,
-    "publicContributions": 145,
+    "followers": 4,
+    "privateContributions": 1077,
+    "publicContributions": 135,
     "createdAt": "2024-11-07T14:31:42Z"
   },
   {
@@ -1040,7 +1040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2024-05-16T15:55:15Z"
   },
   {
@@ -1052,7 +1052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 7,
     "createdAt": "2024-11-29T18:20:51Z"
   },
   {
@@ -1074,9 +1074,9 @@
     "location": "Kingston, Ontario",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 67,
     "createdAt": "2024-07-03T17:44:39Z"
   },
   {
@@ -1104,27 +1104,15 @@
     "createdAt": "2024-01-08T20:33:22Z"
   },
   {
-    "login": "Marcosantgr",
-    "name": "Marcos GPLorenzo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147967123?s=72&u=8df6af3f7d3184f8bfd721c575a4bbff3d5784d3&v=4",
-    "location": "Jamaica ",
-    "company": "SBMetals",
-    "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 0,
-    "publicContributions": 145,
-    "createdAt": "2023-10-15T06:10:58Z"
-  },
-  {
     "login": "theonlychant",
     "name": "chant(ψαλμός)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/126305902?s=72&u=5eba4c05e9e3a3e18ba4c10fcf82fe1c7b35051f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126305902?s=72&u=5d5ec483de80e4241c48925fba9b8df3e8323500&v=4",
     "location": "Jamaica, Kingston",
     "company": "@rigbylang",
     "twitterUsername": "probablychant",
-    "followers": 20,
+    "followers": 24,
     "privateContributions": 1,
-    "publicContributions": 490,
+    "publicContributions": 495,
     "createdAt": "2023-02-25T03:22:28Z"
   },
   {
@@ -1134,9 +1122,9 @@
     "location": "Jamaica",
     "company": "University of the West Indies Mona",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 288,
+    "publicContributions": 274,
     "createdAt": "2023-08-23T18:15:54Z"
   },
   {
@@ -1146,7 +1134,7 @@
     "location": "Kingston Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-11T05:17:10Z"
@@ -1158,9 +1146,9 @@
     "location": "Kingston Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 30,
-    "publicContributions": 20,
+    "followers": 8,
+    "privateContributions": 82,
+    "publicContributions": 50,
     "createdAt": "2023-02-14T05:07:55Z"
   },
   {

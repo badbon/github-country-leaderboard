@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 58,
     "createdAt": "2024-11-04T01:38:18Z"
   },
   {
@@ -956,7 +956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 32,
     "createdAt": "2024-09-17T21:21:07Z"
   },
   {
@@ -967,8 +967,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 92,
-    "publicContributions": 137,
+    "privateContributions": 111,
+    "publicContributions": 105,
     "createdAt": "2024-08-28T18:09:57Z"
   },
   {
@@ -978,9 +978,9 @@
     "location": "Porto-Novo, Bénin",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 43,
-    "publicContributions": 1120,
+    "followers": 35,
+    "privateContributions": 542,
+    "publicContributions": 1424,
     "createdAt": "2024-11-03T03:47:14Z"
   },
   {
@@ -992,7 +992,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 22,
     "createdAt": "2024-02-20T23:06:49Z"
   },
   {
@@ -1014,21 +1014,21 @@
     "location": "Benin",
     "company": "",
     "twitterUsername": "",
-    "followers": 477,
+    "followers": 468,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-11T16:46:32Z"
   },
   {
     "login": "florentak",
-    "name": "AYIDEDJI Kossi Florent",
+    "name": "Florent Ayidedji",
     "avatarUrl": "https://avatars.githubusercontent.com/u/139459025?s=72&u=9a4691273e9adb2586b21cba885a3a48705510ad&v=4",
     "location": "Cotonou, Littoral, Benin",
     "company": "",
     "twitterUsername": "",
-    "followers": 128,
+    "followers": 120,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-07-13T10:57:53Z"
   },
   {
@@ -1038,7 +1038,7 @@
     "location": "Benin, Nigeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 86,
+    "followers": 87,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-27T15:25:05Z"
@@ -1050,7 +1050,7 @@
     "location": "Benin",
     "company": "",
     "twitterUsername": "",
-    "followers": 84,
+    "followers": 83,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-28T20:41:39Z"
@@ -1062,9 +1062,9 @@
     "location": "Benin, Cotonou",
     "company": "Vallis Technologies",
     "twitterUsername": "AComlangan70558",
-    "followers": 83,
-    "privateContributions": 276,
-    "publicContributions": 95,
+    "followers": 79,
+    "privateContributions": 339,
+    "publicContributions": 65,
     "createdAt": "2023-03-04T23:13:38Z"
   },
   {
@@ -1072,11 +1072,11 @@
     "name": "Warris AGBANNONDE",
     "avatarUrl": "https://avatars.githubusercontent.com/u/128860642?s=72&u=65619f3fc704bfb2304e620253beaea5803ecf11&v=4",
     "location": "Benin, Cotonou Ganhi",
-    "company": "HIGHFIVE UNIVERSITY",
+    "company": "VIPP INTERTIS",
     "twitterUsername": "awarrisw",
-    "followers": 74,
+    "followers": 72,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 48,
     "createdAt": "2023-03-24T22:05:40Z"
   },
   {
@@ -1086,9 +1086,9 @@
     "location": "Cotonou, Benin",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 497,
-    "publicContributions": 37,
+    "followers": 29,
+    "privateContributions": 338,
+    "publicContributions": 44,
     "createdAt": "2023-06-02T08:01:19Z"
   },
   {
@@ -1098,9 +1098,9 @@
     "location": "Benin",
     "company": "Software Engineer",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 1438,
-    "publicContributions": 118,
+    "followers": 35,
+    "privateContributions": 1425,
+    "publicContributions": 47,
     "createdAt": "2023-03-24T20:11:03Z"
   },
   {
@@ -1110,9 +1110,9 @@
     "location": "Benin",
     "company": "",
     "twitterUsername": "StephaneBa14584",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 195,
     "createdAt": "2023-04-20T12:00:29Z"
   },
   {
@@ -1124,7 +1124,7 @@
     "twitterUsername": "regisattolou06",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 158,
     "createdAt": "2023-03-26T20:21:39Z"
   },
   {
@@ -1135,8 +1135,8 @@
     "company": "Institut de Formation et de Recherche en Informatique (IFRI)",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 870,
-    "publicContributions": 2,
+    "privateContributions": 581,
+    "publicContributions": 20,
     "createdAt": "2023-03-09T14:29:47Z"
   },
   {
@@ -1146,8 +1146,8 @@
     "location": "Abomey-Calavi, Benin",
     "company": "@EpitechCodingAcademyPromo2023",
     "twitterUsername": "fadel_dafia",
-    "followers": 15,
-    "privateContributions": 24,
+    "followers": 16,
+    "privateContributions": 19,
     "publicContributions": 7,
     "createdAt": "2023-01-31T15:36:32Z"
   },
@@ -1159,7 +1159,7 @@
     "company": "HIGHFIVE UNIVERSITY",
     "twitterUsername": "AgnounEuloge",
     "followers": 13,
-    "privateContributions": 545,
+    "privateContributions": 677,
     "publicContributions": 11,
     "createdAt": "2023-03-24T14:25:07Z"
   },

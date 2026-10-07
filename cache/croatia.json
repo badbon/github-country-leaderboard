@@ -942,9 +942,9 @@
     "location": "Zagreb",
     "company": "",
     "twitterUsername": "LeonxzyDEV",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 950,
+    "publicContributions": 804,
     "createdAt": "2025-05-12T16:15:02Z"
   },
   {
@@ -956,7 +956,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 44,
     "createdAt": "2025-11-11T23:45:22Z"
   },
   {
@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 104,
     "createdAt": "2025-11-08T15:33:46Z"
   },
   {
@@ -980,7 +980,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 63,
     "createdAt": "2025-01-18T15:58:23Z"
   },
   {
@@ -992,19 +992,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2025-09-01T20:20:00Z"
   },
   {
     "login": "meowpow-png",
     "name": "Marin Softic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/199686215?s=72&u=8f6afd298d451c1c58215ab14f0efc3177e679d7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199686215?s=72&u=732f1d87ccd5153ef8b58dc106bc8736ec3421f8&v=4",
     "location": "Zagreb",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1172,
-    "publicContributions": 1528,
+    "followers": 2,
+    "privateContributions": 1158,
+    "publicContributions": 2230,
     "createdAt": "2025-02-18T00:33:41Z"
   },
   {
@@ -1015,8 +1015,8 @@
     "company": "Faculty of Electrical Engineering and Computing, Neos d.o.o",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 29,
-    "publicContributions": 82,
+    "privateContributions": 27,
+    "publicContributions": 81,
     "createdAt": "2025-08-30T10:17:44Z"
   },
   {
@@ -1027,8 +1027,8 @@
     "company": "Faculty of Electrical Engineering and Computing, University of Zagreb",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 122,
-    "publicContributions": 206,
+    "privateContributions": 113,
+    "publicContributions": 207,
     "createdAt": "2025-04-17T01:14:00Z"
   },
   {
@@ -1040,7 +1040,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 28,
     "createdAt": "2025-02-22T14:48:01Z"
   },
   {
@@ -1052,7 +1052,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 74,
     "createdAt": "2025-09-29T15:48:50Z"
   },
   {
@@ -1124,7 +1124,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 34,
     "createdAt": "2025-09-30T11:31:51Z"
   },
   {
@@ -1152,27 +1152,15 @@
     "createdAt": "2025-06-10T14:25:21Z"
   },
   {
-    "login": "lukaprotrka",
-    "name": "Luka Protrka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/208814786?s=72&v=4",
-    "location": "Zagreb",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2025-04-23T13:09:07Z"
-  },
-  {
     "login": "AlanTurk",
     "name": "Alan Turk",
     "avatarUrl": "https://avatars.githubusercontent.com/u/227339759?s=72&u=0b14d0406af99230014e3b9a028017ccba214b06&v=4",
     "location": "Zagreb",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-19T07:30:56Z"
   },
   {

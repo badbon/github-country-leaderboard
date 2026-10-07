@@ -950,25 +950,25 @@
   {
     "login": "Nahom-Taye",
     "name": "Nahom Taye",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/273088022?s=72&u=b6420aab2a6d0830c3de89e144efee23fab9b983&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273088022?s=72&v=4",
     "location": "Addis Ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 70,
     "createdAt": "2026-04-02T11:30:44Z"
   },
   {
     "login": "mebrukamohammed",
-    "name": "mebruka-ai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254670076?s=72&v=4",
+    "name": "Mebruka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254670076?s=72&u=874687d88e9dd56714c589d21caf211462ea99a6&v=4",
     "location": "Addis Ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 72,
     "createdAt": "2026-01-13T11:40:55Z"
   },
   {
@@ -990,9 +990,9 @@
     "location": "Addis Ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 120,
-    "publicContributions": 98,
+    "followers": 36,
+    "privateContributions": 214,
+    "publicContributions": 195,
     "createdAt": "2026-04-14T08:02:35Z"
   },
   {
@@ -1016,7 +1016,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 29,
     "createdAt": "2026-02-16T18:42:39Z"
   },
   {
@@ -1044,18 +1044,6 @@
     "createdAt": "2026-04-01T12:03:49Z"
   },
   {
-    "login": "esuendalele",
-    "name": "Esuendale Shewandagn Lemma",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/274424243?s=72&u=f6813c4cbbcb8f562ec3214b1d525c38a7182536&v=4",
-    "location": "Addis Ababa",
-    "company": "Addis Ababa Transport bureau",
-    "twitterUsername": "EsuendaleLemma",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-04-08T06:25:30Z"
-  },
-  {
     "login": "basleal7",
     "name": "Basleal Getaneh",
     "avatarUrl": "https://avatars.githubusercontent.com/u/272614199?s=72&u=b3e29d35e13681343f0398621086186e89507ee9&v=4",
@@ -1064,7 +1052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 48,
     "createdAt": "2026-03-31T18:51:17Z"
   },
   {
@@ -1074,9 +1062,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "Freelance / Open to Opportunities",
     "twitterUsername": "sahile_yon2056",
-    "followers": 2734,
-    "privateContributions": 490,
-    "publicContributions": 300,
+    "followers": 3726,
+    "privateContributions": 554,
+    "publicContributions": 626,
     "createdAt": "2025-01-28T16:33:21Z"
   },
   {
@@ -1086,9 +1074,9 @@
     "location": "Addis Ababa Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 582,
-    "privateContributions": 865,
-    "publicContributions": 1363,
+    "followers": 665,
+    "privateContributions": 1141,
+    "publicContributions": 1530,
     "createdAt": "2025-07-30T22:38:09Z"
   },
   {
@@ -1098,9 +1086,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "Self-employed",
     "twitterUsername": "",
-    "followers": 548,
-    "privateContributions": 1046,
-    "publicContributions": 95,
+    "followers": 620,
+    "privateContributions": 3064,
+    "publicContributions": 213,
     "createdAt": "2025-02-20T18:30:24Z"
   },
   {
@@ -1110,9 +1098,9 @@
     "location": "Debre Berhan University (DBU) :  Ethiopia",
     "company": "Student",
     "twitterUsername": "BTehakele16435",
-    "followers": 213,
-    "privateContributions": 23,
-    "publicContributions": 613,
+    "followers": 208,
+    "privateContributions": 186,
+    "publicContributions": 488,
     "createdAt": "2025-03-05T17:57:57Z"
   },
   {
@@ -1122,9 +1110,9 @@
     "location": "Ethiopia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 169,
+    "followers": 249,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 40,
     "createdAt": "2025-12-06T08:18:37Z"
   },
   {
@@ -1132,11 +1120,11 @@
     "name": "Tomas Melesse",
     "avatarUrl": "https://avatars.githubusercontent.com/u/201990122?s=72&u=ec28ffb0af4671f93af28c63a06f28f0a0976648&v=4",
     "location": "Adama, Ethiopia",
-    "company": "",
+    "company": "ClientReach AI",
     "twitterUsername": "",
-    "followers": 108,
-    "privateContributions": 756,
-    "publicContributions": 32,
+    "followers": 99,
+    "privateContributions": 1138,
+    "publicContributions": 885,
     "createdAt": "2025-03-05T17:02:57Z"
   },
   {
@@ -1144,11 +1132,11 @@
     "name": "nahom weldemedhin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/216862887?s=72&v=4",
     "location": "Ethiopia",
-    "company": "Debre Berhan University",
+    "company": "ICOG-labs",
     "twitterUsername": "",
     "followers": 99,
-    "privateContributions": 589,
-    "publicContributions": 455,
+    "privateContributions": 634,
+    "publicContributions": 439,
     "createdAt": "2025-06-18T09:43:47Z"
   },
   {
@@ -1156,11 +1144,11 @@
     "name": "Eyasu Zerihun Asma",
     "avatarUrl": "https://avatars.githubusercontent.com/u/198375774?s=72&u=f0a7702f9897f0735ad7a241cbcf6b838a515084&v=4",
     "location": "Adama, Ethiopia",
-    "company": "",
+    "company": "Zemen Tech",
     "twitterUsername": "",
-    "followers": 90,
-    "privateContributions": 0,
-    "publicContributions": 260,
+    "followers": 91,
+    "privateContributions": 1076,
+    "publicContributions": 264,
     "createdAt": "2025-02-08T16:42:45Z"
   },
   {
@@ -1170,9 +1158,9 @@
     "location": "Ethiopia",
     "company": "Matrix",
     "twitterUsername": "",
-    "followers": 90,
-    "privateContributions": 102,
-    "publicContributions": 432,
+    "followers": 91,
+    "privateContributions": 247,
+    "publicContributions": 459,
     "createdAt": "2025-01-07T21:42:30Z"
   },
   {

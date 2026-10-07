@@ -692,7 +692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 32,
     "createdAt": "2026-01-18T11:30:29Z"
   },
   {
@@ -708,18 +708,6 @@
     "createdAt": "2026-03-25T12:04:04Z"
   },
   {
-    "login": "lumiaurora",
-    "name": "Lumi Aurora",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/273994929?s=72&u=6230b40e206c3e7afab58e7b6a451367c168250e&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 41,
-    "createdAt": "2026-04-06T11:51:56Z"
-  },
-  {
     "login": "airi-vely",
     "name": "Airi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/252885755?s=72&u=a4b43e4dcea7e0a71ae95853efa70daf6670c9c5&v=4",
@@ -728,7 +716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 174,
+    "publicContributions": 175,
     "createdAt": "2026-01-04T13:19:14Z"
   },
   {
@@ -740,19 +728,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 169,
+    "publicContributions": 200,
     "createdAt": "2026-02-25T14:16:20Z"
   },
   {
     "login": "silentlag",
     "name": "sophy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270362037?s=72&u=ee1d05a145a18d786d51c2a6735b0208a9ab4a0c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270362037?s=72&u=baa8f863bc78dc2ff5c7413517b30ad4f56fd886&v=4",
     "location": "Suomi",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 61,
+    "followers": 6,
+    "privateContributions": 12,
+    "publicContributions": 119,
     "createdAt": "2026-03-23T13:10:11Z"
   },
   {
@@ -764,7 +752,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 48,
     "createdAt": "2026-01-02T23:47:58Z"
   },
   {
@@ -786,9 +774,9 @@
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 418,
     "createdAt": "2026-02-25T09:15:28Z"
   },
   {
@@ -835,8 +823,8 @@
     "company": "@AaltoUniversity",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 158,
-    "publicContributions": 787,
+    "privateContributions": 281,
+    "publicContributions": 846,
     "createdAt": "2026-04-14T14:14:53Z"
   },
   {
@@ -852,18 +840,6 @@
     "createdAt": "2026-04-08T03:06:56Z"
   },
   {
-    "login": "SakuPyykko",
-    "name": "Saku Pyykkö",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252326396?s=72&u=f07d0658d2251d4e1f69af39d2c0bee8130d9b9c&v=4",
-    "location": "Helsinki",
-    "company": "Way-Land Oy",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-12-31T11:30:03Z"
-  },
-  {
     "login": "juusosaari",
     "name": "Juuso Saari",
     "avatarUrl": "https://avatars.githubusercontent.com/u/274724619?s=72&u=d13c6e6b8a721f7d8a9ce8139c6d1b9ef1a20307&v=4",
@@ -871,7 +847,7 @@
     "company": "MTV Oy",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 191,
+    "privateContributions": 326,
     "publicContributions": 1,
     "createdAt": "2026-04-09T06:19:50Z"
   },
@@ -884,7 +860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2026-03-02T11:23:18Z"
   },
   {
@@ -895,8 +871,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 11,
+    "privateContributions": 72,
+    "publicContributions": 222,
     "createdAt": "2026-04-14T18:28:58Z"
   },
   {

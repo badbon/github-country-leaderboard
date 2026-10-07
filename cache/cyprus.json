@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 223,
+    "publicContributions": 239,
     "createdAt": "2025-07-30T11:32:29Z"
   },
   {
@@ -980,7 +980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-15T14:09:10Z"
   },
   {
@@ -1004,7 +1004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 290,
+    "publicContributions": 309,
     "createdAt": "2025-09-10T21:50:49Z"
   },
   {
@@ -1056,18 +1056,6 @@
     "createdAt": "2025-10-30T08:32:59Z"
   },
   {
-    "login": "goosetaa",
-    "name": "HALIL CIHAN ÖZDEMİR",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/244587209?s=72&u=0dc550aa8d329e2d33cfa0b6c6244801437b4d11&v=4",
-    "location": "Kıbrıs",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2025-11-17T19:24:38Z"
-  },
-  {
     "login": "Andrei-Rizz",
     "name": "Andrei Rizea",
     "avatarUrl": "https://avatars.githubusercontent.com/u/214620039?s=72&u=15d2d254d1910460444299f592ea13979d7c5b00&v=4",
@@ -1075,7 +1063,7 @@
     "company": "Exelia Technologies",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 538,
+    "privateContributions": 492,
     "publicContributions": 0,
     "createdAt": "2025-06-03T07:49:27Z"
   },
@@ -1099,8 +1087,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 109,
-    "publicContributions": 294,
+    "privateContributions": 35,
+    "publicContributions": 295,
     "createdAt": "2025-01-31T13:30:59Z"
   },
   {
@@ -1110,7 +1098,7 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 90,
+    "followers": 89,
     "privateContributions": 0,
     "publicContributions": 156,
     "createdAt": "2024-07-30T08:06:00Z"
@@ -1122,9 +1110,9 @@
     "location": "Cyprus",
     "company": "AP MASTERING",
     "twitterUsername": "",
-    "followers": 74,
+    "followers": 75,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 8,
     "createdAt": "2024-07-11T23:31:15Z"
   },
   {
@@ -1134,7 +1122,7 @@
     "location": "cyprus",
     "company": "rentcars LTD",
     "twitterUsername": "ZouglasA63700",
-    "followers": 58,
+    "followers": 56,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-19T21:41:47Z"
@@ -1146,9 +1134,9 @@
     "location": "Nicosia,Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 47,
-    "privateContributions": 180,
-    "publicContributions": 407,
+    "followers": 46,
+    "privateContributions": 164,
+    "publicContributions": 411,
     "createdAt": "2024-03-26T18:52:29Z"
   },
   {
@@ -1158,7 +1146,7 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "jackysaekano",
-    "followers": 37,
+    "followers": 35,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-23T13:53:16Z"
@@ -1170,7 +1158,7 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "SNtzortzis",
-    "followers": 33,
+    "followers": 32,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-31T23:29:22Z"

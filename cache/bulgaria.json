@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 6,
     "createdAt": "2025-09-21T14:41:11Z"
   },
   {
@@ -954,9 +954,9 @@
     "location": "Plovdiv, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 227,
     "createdAt": "2025-09-01T18:34:35Z"
   },
   {
@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 8,
     "createdAt": "2025-01-25T13:48:36Z"
   },
   {
@@ -978,21 +978,21 @@
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-12T13:54:30Z"
   },
   {
     "login": "ebon-hawk",
-    "name": "Katrin Lilova",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/201986338?s=72&v=4",
     "location": "Sofia, Bulgaria",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 13,
-    "publicContributions": 126,
+    "privateContributions": 120,
+    "publicContributions": 8,
     "createdAt": "2025-03-05T16:36:25Z"
   },
   {
@@ -1002,7 +1002,7 @@
     "location": "Sofia, Bulgaria",
     "company": "Sofia University",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-08-08T07:13:21Z"
@@ -1016,7 +1016,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2025-01-14T07:48:59Z"
   },
   {
@@ -1026,9 +1026,9 @@
     "location": "Pleven, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 9,
-    "publicContributions": 177,
+    "publicContributions": 101,
     "createdAt": "2025-01-27T16:41:30Z"
   },
   {
@@ -1052,19 +1052,19 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 12,
     "createdAt": "2025-01-13T16:23:02Z"
   },
   {
     "login": "viktorkortsanov",
     "name": "Viktor Kortsanov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/202130708?s=72&u=98ce4a5debc2685e7cac779f1b8356f4405a6372&v=4",
-    "location": "Bulgaria",
+    "location": "Sofia, Bulgaria",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 70,
     "createdAt": "2025-03-06T14:05:40Z"
   },
   {
@@ -1098,7 +1098,7 @@
     "location": "Ruse, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 99,
     "createdAt": "2025-02-11T23:06:58Z"
@@ -1128,18 +1128,6 @@
     "createdAt": "2025-03-10T16:55:22Z"
   },
   {
-    "login": "TensorEx",
-    "name": "Ivan Yochev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200846466?s=72&u=527c1bb240705f737108623517966678bd5c747c&v=4",
-    "location": "Sofia, Bulgaria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 48,
-    "createdAt": "2025-02-25T20:39:01Z"
-  },
-  {
     "login": "kuchecoin",
     "name": "Kuche 🍑💹",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193803995?s=72&u=73c08e8b6b46d5f7f277beff7ad0e06f90da212a&v=4",
@@ -1148,7 +1136,7 @@
     "twitterUsername": "kuchecoin",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 56,
     "createdAt": "2025-01-05T14:35:12Z"
   },
   {
@@ -1159,8 +1147,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 238,
-    "publicContributions": 219,
+    "privateContributions": 207,
+    "publicContributions": 193,
     "createdAt": "2025-01-14T17:59:25Z"
   },
   {
@@ -1172,7 +1160,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 72,
     "createdAt": "2025-11-23T21:23:08Z"
   },
   {

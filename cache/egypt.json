@@ -930,7 +930,7 @@
     "location": "Egypt",
     "company": "Next Academy",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 55,
     "createdAt": "2026-01-28T21:37:34Z"
@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 130,
     "createdAt": "2026-01-08T03:17:39Z"
   },
   {
@@ -968,19 +968,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 56,
     "createdAt": "2026-01-03T19:40:10Z"
   },
   {
     "login": "yahiaalsebaie",
     "name": "Yahia Alsebaie",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/275462496?s=72&u=205a81fe4a6cf05e18acb322598e233ed08161ad&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275462496?s=72&u=aa83c4c5af44c74b960a24a4aa4a747511e21c1e&v=4",
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 349,
+    "publicContributions": 433,
     "createdAt": "2026-04-12T11:29:36Z"
   },
   {
@@ -992,7 +992,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2026-05-07T20:07:48Z"
   },
   {
@@ -1002,22 +1002,10 @@
     "location": " Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2026-04-29T19:15:49Z"
-  },
-  {
-    "login": "JehadMahmoudShehata",
-    "name": "jehad mahmoud ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254138151?s=72&u=686d2e4b51ab981b2435221d7bee31b236dda92b&v=4",
-    "location": "Egypt",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 69,
-    "createdAt": "2026-01-10T16:02:40Z"
   },
   {
     "login": "YousseffHamdy",
@@ -1076,7 +1064,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 167,
     "createdAt": "2026-03-27T20:10:02Z"
   },
   {
@@ -1100,7 +1088,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2026-05-11T02:23:28Z"
   },
   {
@@ -1110,9 +1098,9 @@
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 24,
+    "followers": 3,
+    "privateContributions": 18,
+    "publicContributions": 16,
     "createdAt": "2026-02-11T18:57:09Z"
   },
   {
@@ -1134,7 +1122,7 @@
     "location": "Alex,Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-06T07:25:20Z"

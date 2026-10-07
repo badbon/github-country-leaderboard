@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 115,
     "createdAt": "2025-08-17T21:16:55Z"
   },
   {
@@ -954,9 +954,9 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 46,
     "createdAt": "2025-02-26T03:03:24Z"
   },
   {
@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2025-07-09T02:47:42Z"
   },
   {
@@ -978,7 +978,7 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2025-10-17T15:06:19Z"
@@ -990,9 +990,9 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 67,
     "createdAt": "2025-04-28T21:47:59Z"
   },
   {
@@ -1004,7 +1004,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 763,
-    "publicContributions": 328,
+    "publicContributions": 357,
     "createdAt": "2025-08-24T16:02:51Z"
   },
   {
@@ -1016,19 +1016,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 7,
     "createdAt": "2025-06-14T19:44:42Z"
   },
   {
     "login": "demivn15",
     "name": "Demian Viteri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/233096974?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233096974?s=72&u=5ab362efd6ba894b1777c87e07a4302e836dddce&v=4",
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 136,
     "createdAt": "2025-09-18T14:11:56Z"
   },
   {
@@ -1040,7 +1040,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 29,
     "createdAt": "2025-03-14T21:48:10Z"
   },
   {
@@ -1088,7 +1088,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2025-07-01T16:57:47Z"
   },
   {
@@ -1104,18 +1104,6 @@
     "createdAt": "2025-11-15T16:54:39Z"
   },
   {
-    "login": "DylanM-Dev-Ec",
-    "name": "Dylan Machado",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232265788?s=72&u=b12daaf2a0fe56e7cb760bcb6941aba4615bcc29&v=4",
-    "location": "Tulcán, Ecuador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 41,
-    "createdAt": "2025-09-14T23:34:34Z"
-  },
-  {
     "login": "nestoralarconed",
     "name": "Néstor Alarcón",
     "avatarUrl": "https://avatars.githubusercontent.com/u/201823188?s=72&u=debecc3e66b6f4cfeee06952e17993c922ac6bfb&v=4",
@@ -1124,7 +1112,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 9,
     "createdAt": "2025-03-04T20:05:25Z"
   },
   {

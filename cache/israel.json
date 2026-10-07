@@ -920,7 +920,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2025-06-13T11:56:01Z"
   },
   {
@@ -928,23 +928,23 @@
     "name": "Leo Gimpel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/194807861?s=72&u=3d18963c529a51aa89ab45d19d3642a9b6c692b9&v=4",
     "location": "Israel",
-    "company": "",
+    "company": "Flurren",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "followers": 5,
+    "privateContributions": 464,
+    "publicContributions": 189,
     "createdAt": "2025-01-13T14:28:11Z"
   },
   {
     "login": "7lumed",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200494992?s=72&u=754761b3e967c577ac761f080ee39b55c2fd15bb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200494992?s=72&u=215dea66b3e7dc0b1253b6ea83d4a55fbae38cbf&v=4",
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 3,
     "createdAt": "2025-02-23T14:07:38Z"
   },
   {
@@ -955,8 +955,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 63,
-    "publicContributions": 222,
+    "privateContributions": 66,
+    "publicContributions": 185,
     "createdAt": "2025-06-28T10:00:55Z"
   },
   {
@@ -964,11 +964,11 @@
     "name": "ivo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/209976163?s=72&u=958cfaa00811777db3388ed9347e8b941356e331&v=4",
     "location": "Israel",
-    "company": "@YmirNetwork ",
+    "company": "@hailofthenight",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 18,
-    "publicContributions": 388,
+    "privateContributions": 20,
+    "publicContributions": 393,
     "createdAt": "2025-05-02T00:48:59Z"
   },
   {
@@ -978,9 +978,9 @@
     "location": "Israel",
     "company": "@adirothbuilds",
     "twitterUsername": "adiroth_builds",
-    "followers": 3,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 164,
     "createdAt": "2025-05-02T06:00:22Z"
   },
   {
@@ -991,8 +991,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1042,
-    "publicContributions": 433,
+    "privateContributions": 1795,
+    "publicContributions": 205,
     "createdAt": "2025-02-25T17:02:43Z"
   },
   {
@@ -1004,7 +1004,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2831,
+    "publicContributions": 2925,
     "createdAt": "2025-10-19T09:09:19Z"
   },
   {
@@ -1016,7 +1016,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 31,
     "createdAt": "2025-05-09T11:56:18Z"
   },
   {
@@ -1026,9 +1026,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 414,
-    "publicContributions": 195,
+    "followers": 2,
+    "privateContributions": 326,
+    "publicContributions": 207,
     "createdAt": "2025-02-28T19:32:00Z"
   },
   {
@@ -1039,8 +1039,8 @@
     "company": "Open to work",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1214,
-    "publicContributions": 341,
+    "privateContributions": 1696,
+    "publicContributions": 399,
     "createdAt": "2025-11-02T07:28:20Z"
   },
   {
@@ -1063,8 +1063,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 611,
-    "publicContributions": 301,
+    "privateContributions": 618,
+    "publicContributions": 303,
     "createdAt": "2025-04-17T05:29:32Z"
   },
   {
@@ -1074,21 +1074,21 @@
     "location": "ISRAEL",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 834,
+    "publicContributions": 920,
     "createdAt": "2025-05-11T17:04:08Z"
   },
   {
     "login": "RG-IL",
-    "name": "Raphael grumbach",
+    "name": "Raphael Grumbach",
     "avatarUrl": "https://avatars.githubusercontent.com/u/245249362?s=72&u=dd8bb9bee80a39ace245dd0deeb17af8afc63fa7&v=4",
     "location": "israel",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 185,
     "createdAt": "2025-11-20T19:18:09Z"
   },
   {
@@ -1112,7 +1112,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 141,
+    "publicContributions": 118,
     "createdAt": "2025-06-17T06:31:30Z"
   },
   {
@@ -1124,19 +1124,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 69,
     "createdAt": "2025-03-03T07:46:46Z"
   },
   {
     "login": "Guy-Navon",
     "name": "Guy Navon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193636746?s=72&u=0cf41e881558f3b01d21802eff81c80186452eb4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193636746?s=72&u=a5c9d3a7e41e90ff97a6de1bd1cbef490f953db3&v=4",
     "location": "Tel Aviv District, Israel",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 15,
-    "publicContributions": 483,
+    "privateContributions": 30,
+    "publicContributions": 597,
     "createdAt": "2025-01-03T18:53:13Z"
   },
   {
@@ -1148,7 +1148,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-09-12T10:14:28Z"
   },
   {

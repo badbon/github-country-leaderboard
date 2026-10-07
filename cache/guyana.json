@@ -1026,7 +1026,7 @@
     "location": "Georgetown, PG",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2018-11-30T06:22:54Z"
@@ -1046,13 +1046,13 @@
   {
     "login": "beckettharriman",
     "name": "Beckett Harriman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43677184?s=72&u=ba31561940d47e42098af2566bfc589ef31cf4c0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43677184?s=72&u=2d83f2a900e1cfb0cc2486b23f6f88c3fea4eea5&v=4",
     "location": "Georgetown, DC",
     "company": "Georgetown University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
+    "privateContributions": 3135,
+    "publicContributions": 154,
     "createdAt": "2018-09-28T13:56:34Z"
   },
   {
@@ -1062,9 +1062,9 @@
     "location": "Georgetown, Guyana",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 384,
-    "publicContributions": 70,
+    "followers": 16,
+    "privateContributions": 387,
+    "publicContributions": 93,
     "createdAt": "2017-11-20T02:13:54Z"
   },
   {
@@ -1075,7 +1075,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 50,
+    "privateContributions": 47,
     "publicContributions": 16,
     "createdAt": "2017-05-14T16:57:45Z"
   },
@@ -1086,9 +1086,9 @@
     "location": "Guyana",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 4,
-    "publicContributions": 82,
+    "publicContributions": 56,
     "createdAt": "2017-06-02T08:59:15Z"
   },
   {
@@ -1099,7 +1099,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 28,
+    "privateContributions": 29,
     "publicContributions": 3,
     "createdAt": "2017-09-11T18:44:28Z"
   },
@@ -1123,7 +1123,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 83,
+    "privateContributions": 82,
     "publicContributions": 0,
     "createdAt": "2017-07-09T20:39:51Z"
   },

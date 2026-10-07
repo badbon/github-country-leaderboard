@@ -967,7 +967,7 @@
     "company": "Maples Group Inc.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2016-01-30T00:14:27Z"
   },
@@ -979,8 +979,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 21,
-    "publicContributions": 1,
+    "privateContributions": 19,
+    "publicContributions": 0,
     "createdAt": "2016-05-05T00:46:27Z"
   },
   {
@@ -991,8 +991,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 44,
-    "publicContributions": 19,
+    "privateContributions": 37,
+    "publicContributions": 12,
     "createdAt": "2016-04-15T00:59:46Z"
   },
   {
@@ -1028,7 +1028,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 220,
+    "publicContributions": 154,
     "createdAt": "2015-12-26T12:12:35Z"
   },
   {
@@ -1098,22 +1098,10 @@
     "location": "Cayman Islands",
     "company": "",
     "twitterUsername": "zkhan1093",
-    "followers": 31,
-    "privateContributions": 585,
-    "publicContributions": 177,
+    "followers": 34,
+    "privateContributions": 526,
+    "publicContributions": 190,
     "createdAt": "2014-03-26T16:13:45Z"
-  },
-  {
-    "login": "oliviathet",
-    "name": "Olivia Thet",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7981334?s=72&u=95657e14e250457b990829b9ad3934f8e7d789e5&v=4",
-    "location": "Cayman Islands",
-    "company": "lombard.finance",
-    "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 787,
-    "publicContributions": 9,
-    "createdAt": "2014-06-25T02:30:29Z"
   },
   {
     "login": "SuperMohit",
@@ -1123,8 +1111,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 96,
-    "publicContributions": 98,
+    "privateContributions": 86,
+    "publicContributions": 65,
     "createdAt": "2014-06-12T14:27:38Z"
   },
   {
@@ -1154,7 +1142,7 @@
   {
     "login": "Shonari",
     "name": "Shonari",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8069528?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8069528?s=72&u=7dea9d9215aedc7bea7634052c42d0bdbee7bb87&v=4",
     "location": "Cayman Islands",
     "company": "",
     "twitterUsername": "",

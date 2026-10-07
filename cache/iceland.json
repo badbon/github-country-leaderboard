@@ -654,9 +654,9 @@
     "location": "Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 390,
-    "publicContributions": 111,
+    "followers": 5,
+    "privateContributions": 391,
+    "publicContributions": 128,
     "createdAt": "2024-02-19T10:38:05Z"
   },
   {
@@ -678,9 +678,9 @@
     "location": "Reykjavik, Iceland",
     "company": "ICAI Icelandic Center for Artificial Intelligence",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 62,
     "createdAt": "2024-05-26T14:00:37Z"
   },
   {
@@ -692,7 +692,7 @@
     "twitterUsername": "pzychozen",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1534,
+    "publicContributions": 2015,
     "createdAt": "2024-08-10T09:48:24Z"
   },
   {
@@ -728,7 +728,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 344,
+    "publicContributions": 361,
     "createdAt": "2024-04-10T13:37:16Z"
   },
   {
@@ -739,7 +739,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 230,
+    "privateContributions": 203,
     "publicContributions": 5,
     "createdAt": "2024-05-27T09:54:49Z"
   },
@@ -752,7 +752,7 @@
     "twitterUsername": "ARKconclave",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-03-17T22:41:21Z"
   },
   {
@@ -762,9 +762,9 @@
     "location": "Reykjavík, Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 401,
+    "publicContributions": 486,
     "createdAt": "2024-09-03T10:59:20Z"
   },
   {
@@ -776,7 +776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 11,
     "createdAt": "2024-07-31T00:30:25Z"
   },
   {
@@ -786,9 +786,9 @@
     "location": "Akureyri, Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 29,
     "createdAt": "2024-11-29T21:21:28Z"
   },
   {
@@ -810,7 +810,7 @@
     "location": "iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-09-03T13:45:00Z"
@@ -848,7 +848,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2024-05-25T06:29:48Z"
   },
   {
@@ -871,7 +871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2024-11-03T23:16:06Z"
   },
@@ -18982,5 +18982,41 @@
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2023-10-21T05:24:52Z"
+  },
+  {
+    "login": "ephinite-team",
+    "name": "Ephinite",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292844861?s=72&u=bdc33c527e7de8e30e9a6bf686c4739fc52b0e88&v=4",
+    "location": "Iceland",
+    "company": "@Ephinite",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-11T15:57:44Z"
+  },
+  {
+    "login": "Katrinaflinditrenu",
+    "name": "Katrín Lísa L. Mikaelsdóttir",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287928835?s=72&u=3d3fbb40a08a0b8c33faf2d3ac6c686fa31cdb62&v=4",
+    "location": "Reykjavík, Iceland",
+    "company": "Centre for Digital Humanities and Arts, University of Iceland",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2026-05-26T07:53:07Z"
+  },
+  {
+    "login": "lordrenello",
+    "name": "Renée M. A.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289998526?s=72&v=4",
+    "location": "Iceland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-02T10:49:53Z"
   }
 ]

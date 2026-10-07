@@ -690,9 +690,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 134,
-    "publicContributions": 128,
+    "followers": 4,
+    "privateContributions": 129,
+    "publicContributions": 121,
     "createdAt": "2025-09-13T08:16:30Z"
   },
   {
@@ -727,8 +727,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 260,
-    "publicContributions": 1134,
+    "privateContributions": 434,
+    "publicContributions": 1032,
     "createdAt": "2025-01-30T12:47:15Z"
   },
   {
@@ -739,8 +739,8 @@
     "company": "DField Solutions",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2773,
-    "publicContributions": 525,
+    "privateContributions": 4387,
+    "publicContributions": 247,
     "createdAt": "2025-07-13T17:30:55Z"
   },
   {
@@ -762,9 +762,9 @@
     "location": "Hungary, Budaörs",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 225,
+    "publicContributions": 268,
     "createdAt": "2025-01-22T11:38:36Z"
   },
   {
@@ -775,7 +775,7 @@
     "company": "GameLeads",
     "twitterUsername": "zoltan_domonyi",
     "followers": 4,
-    "privateContributions": 482,
+    "privateContributions": 585,
     "publicContributions": 53,
     "createdAt": "2025-07-12T19:58:46Z"
   },
@@ -788,7 +788,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-02-06T06:43:10Z"
   },
   {
@@ -798,21 +798,21 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 25,
     "createdAt": "2025-06-16T13:44:21Z"
   },
   {
     "login": "suleman-muhammad",
     "name": "Suleman Muhammad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/222897760?s=72&u=f3bfb561e8dd964d98d90235eae192fa76ed7fcc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/222897760?s=72&u=c7f3f7a940d661fdfcf1edc24567c7b8da207dd1&v=4",
     "location": "Budapest,Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 271,
+    "publicContributions": 601,
     "createdAt": "2025-07-25T23:16:38Z"
   },
   {
@@ -835,8 +835,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 8,
-    "publicContributions": 46,
+    "privateContributions": 0,
+    "publicContributions": 42,
     "createdAt": "2025-03-28T12:07:10Z"
   },
   {
@@ -859,21 +859,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3,
-    "publicContributions": 113,
-    "createdAt": "2025-06-07T15:13:23Z"
-  },
-  {
-    "login": "szabika-pvp",
-    "name": "Szabó Tamás",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204089926?s=72&u=acb541d885e3ee72f338337dd21102677a7dee07&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 28,
-    "createdAt": "2025-03-19T21:18:35Z"
+    "publicContributions": 116,
+    "createdAt": "2025-06-07T15:13:23Z"
   },
   {
     "login": "BoloniCsaba86",
@@ -896,7 +884,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2025-09-01T14:00:56Z"
   },
   {
@@ -914,13 +902,13 @@
   {
     "login": "rreiter3",
     "name": "Robert Reiter",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/220843419?s=72&u=b6dc3a9f6a97203cc98bba2b93c72e0f3dd3292f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/220843419?s=72&u=9a62a2461e66505480e61a4d3832a1cce51cbe35&v=4",
     "location": "Budapest, Hungary",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 767,
-    "publicContributions": 54,
+    "privateContributions": 1123,
+    "publicContributions": 56,
     "createdAt": "2025-07-15T07:00:34Z"
   },
   {

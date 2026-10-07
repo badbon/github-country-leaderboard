@@ -702,9 +702,9 @@
     "location": "Ivory coast 🇨🇮",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 539,
+    "publicContributions": 632,
     "createdAt": "2024-11-26T00:45:41Z"
   },
   {
@@ -716,7 +716,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2024-08-24T09:56:22Z"
   },
   {
@@ -728,7 +728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 86,
     "createdAt": "2024-11-22T18:49:27Z"
   },
   {
@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2024-10-01T18:54:47Z"
   },
   {
@@ -751,8 +751,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 862,
-    "publicContributions": 108,
+    "privateContributions": 938,
+    "publicContributions": 106,
     "createdAt": "2024-06-25T05:21:03Z"
   },
   {
@@ -786,9 +786,9 @@
     "location": "côte d'ivoire",
     "company": "Devp's",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 552,
-    "publicContributions": 42,
+    "followers": 17,
+    "privateContributions": 475,
+    "publicContributions": 34,
     "createdAt": "2023-01-11T17:28:57Z"
   },
   {
@@ -796,11 +796,11 @@
     "name": "Brou Kouame Chrys David",
     "avatarUrl": "https://avatars.githubusercontent.com/u/142039214?s=72&u=f5ba3fa49b7fe0de40cced9435e2592a01047925&v=4",
     "location": "Côte d'Ivoire",
-    "company": "ViiBen Digital",
+    "company": "Vido Tech",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 2024,
-    "publicContributions": 32,
+    "followers": 14,
+    "privateContributions": 2238,
+    "publicContributions": 26,
     "createdAt": "2023-08-11T16:15:52Z"
   },
   {
@@ -810,9 +810,9 @@
     "location": "Abidjan, côte d'Ivoire, Treichville ",
     "company": "@ESATIC",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 173,
+    "publicContributions": 157,
     "createdAt": "2023-11-09T23:04:32Z"
   },
   {
@@ -822,9 +822,9 @@
     "location": "Abidjan, Côte d'Ivoire",
     "company": "@Free",
     "twitterUsername": "YannAlexNguess1",
-    "followers": 9,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 75,
     "createdAt": "2023-12-03T02:42:41Z"
   },
   {
@@ -834,9 +834,9 @@
     "location": "Abidjan, Côte d'Ivoire",
     "company": "",
     "twitterUsername": "king_naej",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 30,
     "createdAt": "2023-08-09T22:59:31Z"
   },
   {
@@ -848,7 +848,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 101,
     "createdAt": "2023-10-13T22:16:30Z"
   },
   {
@@ -859,7 +859,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 135,
+    "privateContributions": 127,
     "publicContributions": 57,
     "createdAt": "2023-02-15T00:01:35Z"
   },
@@ -871,8 +871,8 @@
     "company": "Nis Consulting",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1477,
-    "publicContributions": 10,
+    "privateContributions": 2180,
+    "publicContributions": 9,
     "createdAt": "2023-10-03T11:05:02Z"
   },
   {
@@ -894,9 +894,9 @@
     "location": "Côte d'Ivoire",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 283,
-    "publicContributions": 48,
+    "followers": 4,
+    "privateContributions": 85,
+    "publicContributions": 31,
     "createdAt": "2023-05-13T15:34:34Z"
   },
   {
@@ -906,8 +906,8 @@
     "location": "Côte d'ivoire, Abidjan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1440,
+    "followers": 2,
+    "privateContributions": 3123,
     "publicContributions": 109,
     "createdAt": "2023-11-29T09:23:10Z"
   },
@@ -920,7 +920,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 59,
     "createdAt": "2023-07-08T14:03:01Z"
   },
   {
@@ -5842,5 +5842,41 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-09-06T09:52:42Z"
+  },
+  {
+    "login": "Kibovni",
+    "name": "Arthur Brou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293355767?s=72&u=7860734179d7639109169bc9e05d38124d4758cf&v=4",
+    "location": "Abidjan, Côte d'ivoire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-13T11:48:32Z"
+  },
+  {
+    "login": "coolstats",
+    "name": "coolstats",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290711965?s=72&u=961a492e4b187b67daddc0ccc789a54a70dea63b&v=4",
+    "location": "Côte d'Ivoire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2026-06-04T11:48:29Z"
+  },
+  {
+    "login": "seinbugroup-alt",
+    "name": "Alexandre Alley KOUASSI ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290706844?s=72&v=4",
+    "location": "Abidjan, Côte d'Ivoire ",
+    "company": "SEIGNEURIAL INFINITE BUSINESS GROUP SA (SEINBU GROUP SA)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 128,
+    "createdAt": "2026-06-04T11:29:16Z"
   }
 ]

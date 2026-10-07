@@ -752,17 +752,17 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 59,
     "createdAt": "2023-05-07T14:52:34Z"
   },
   {
     "login": "linkiratanga",
     "name": "Link Iratanga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/140850534?s=72&u=0daa5291fdfeadaca124c10aab75632aa80f0490&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/140850534?s=72&u=5935c6a957c558f0be7d3064dea48e68656da8b7&v=4",
     "location": "Burundi",
     "company": "Knolium",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-28T19:18:28Z"
@@ -847,7 +847,7 @@
     "company": "Magis Fintech Solution",
     "twitterUsername": "NKellyDerlin",
     "followers": 1,
-    "privateContributions": 22,
+    "privateContributions": 78,
     "publicContributions": 50,
     "createdAt": "2023-02-27T07:41:59Z"
   },
@@ -860,7 +860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 624,
+    "publicContributions": 7,
     "createdAt": "2023-09-14T00:09:03Z"
   },
   {
@@ -896,20 +896,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 27,
     "createdAt": "2023-03-20T01:42:12Z"
-  },
-  {
-    "login": "victoire0",
-    "name": "Amini Kayembe Victoire",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152622703?s=72&u=19ec62475249199940e3657e42499c1e5d2050c6&v=4",
-    "location": "Bujumbura/Burundi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2023-12-01T13:48:19Z"
   },
   {
     "login": "chris-bitale",

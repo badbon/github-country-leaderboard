@@ -955,7 +955,7 @@
     "company": "PineappleCompany Inc.",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 52,
+    "privateContributions": 55,
     "publicContributions": 2,
     "createdAt": "2014-11-03T13:51:29Z"
   },
@@ -1014,9 +1014,9 @@
     "location": "Belmopan City",
     "company": "University of Belize",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 15,
     "createdAt": "2014-08-08T18:31:42Z"
   },
   {
@@ -1026,7 +1026,7 @@
     "location": "Belize",
     "company": "Evu",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 23,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2013-07-04T15:22:54Z"
@@ -1046,13 +1046,13 @@
   {
     "login": "cawich",
     "name": "France",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5796636?s=72&u=196d11d938d525b9a584782266bec99ffe1e3010&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5796636?s=72&v=4",
     "location": "Belize",
     "company": "SelfEmployee",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 9,
     "createdAt": "2013-10-28T17:54:27Z"
   },
   {
@@ -1063,8 +1063,8 @@
     "company": "@databrickslabs ",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 1531,
-    "publicContributions": 84,
+    "privateContributions": 1424,
+    "publicContributions": 80,
     "createdAt": "2012-01-06T10:31:42Z"
   },
   {
@@ -1075,8 +1075,8 @@
     "company": "Self Employed",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 165,
-    "publicContributions": 758,
+    "privateContributions": 630,
+    "publicContributions": 783,
     "createdAt": "2012-12-02T18:46:21Z"
   },
   {
@@ -1099,8 +1099,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 308,
-    "publicContributions": 9,
+    "privateContributions": 323,
+    "publicContributions": 12,
     "createdAt": "2011-10-06T20:26:14Z"
   },
   {
@@ -1123,7 +1123,7 @@
     "company": "Novos",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 954,
+    "privateContributions": 1225,
     "publicContributions": 4,
     "createdAt": "2010-09-01T21:37:09Z"
   },
@@ -1134,9 +1134,9 @@
     "location": "Belize",
     "company": "",
     "twitterUsername": "erichanson",
-    "followers": 37,
+    "followers": 38,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 45,
     "createdAt": "2009-08-20T00:42:37Z"
   }
 ]

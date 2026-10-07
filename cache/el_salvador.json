@@ -692,7 +692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 10,
     "createdAt": "2025-01-03T16:29:27Z"
   },
   {
@@ -704,7 +704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 100,
     "createdAt": "2025-02-22T21:17:15Z"
   },
   {
@@ -716,7 +716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 77,
     "createdAt": "2025-03-25T19:49:14Z"
   },
   {
@@ -728,7 +728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 9,
     "createdAt": "2025-01-25T15:29:20Z"
   },
   {
@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 50,
-    "publicContributions": 43,
+    "publicContributions": 38,
     "createdAt": "2025-08-23T15:28:50Z"
   },
   {
@@ -750,9 +750,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 40,
     "createdAt": "2025-01-29T15:21:50Z"
   },
   {
@@ -764,7 +764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 29,
     "createdAt": "2025-05-21T01:56:51Z"
   },
   {
@@ -776,7 +776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 385,
+    "publicContributions": 656,
     "createdAt": "2025-06-12T20:43:52Z"
   },
   {
@@ -800,7 +800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 104,
     "createdAt": "2025-05-16T20:13:46Z"
   },
   {
@@ -812,7 +812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 80,
     "createdAt": "2025-09-06T20:41:52Z"
   },
   {
@@ -830,7 +830,7 @@
   {
     "login": "kevinnovate8",
     "name": "Kevin Flores",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206950504?s=72&u=e33968424d4e6cf95e1d890b347e4e899da65394&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206950504?s=72&u=c66fffad2d635abc4e3d2fbea73b4d7f88cb5bd6&v=4",
     "location": "El Salvador",
     "company": "@kevinnovate8",
     "twitterUsername": "",
@@ -878,7 +878,7 @@
   {
     "login": "Smike025",
     "name": "Michael",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205361582?s=72&u=a3a8e142654cb9cdeafd33dab8262624ca73bfaa&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205361582?s=72&v=4",
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
@@ -896,7 +896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 33,
     "createdAt": "2025-09-16T16:17:06Z"
   },
   {
@@ -908,20 +908,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2025-08-27T02:08:03Z"
-  },
-  {
-    "login": "jl-diaz",
-    "name": "Jonathan Díaz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197336384?s=72&u=2b36ba5441250bae685852656fbe8eaf024b75b8&v=4",
-    "location": "San Salvador, El Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 84,
-    "createdAt": "2025-02-01T00:56:09Z"
   },
   {
     "login": "Felipe-Pocasangre",

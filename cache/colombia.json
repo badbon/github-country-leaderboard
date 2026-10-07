@@ -715,7 +715,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 255,
+    "privateContributions": 328,
     "publicContributions": 82,
     "createdAt": "2026-01-15T03:25:55Z"
   },
@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 23,
     "createdAt": "2026-02-25T19:04:14Z"
   },
   {
@@ -764,7 +764,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 233,
     "createdAt": "2026-04-26T07:22:53Z"
   },
   {
@@ -800,7 +800,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 273,
+    "publicContributions": 9,
     "createdAt": "2026-03-16T15:19:16Z"
   },
   {
@@ -811,18 +811,18 @@
     "company": "C3LECT",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 69,
-    "publicContributions": 253,
+    "privateContributions": 93,
+    "publicContributions": 345,
     "createdAt": "2026-02-21T12:37:54Z"
   },
   {
     "login": "snayderthcampo",
     "name": "Snayderth Campo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283029861?s=72&u=050f69de40a7bb9c95ede43ae960c93c31ba7a21&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283029861?s=72&u=28376b4bb25450a4aa49b735ac6bbadb72ed1a9f&v=4",
     "location": "Bogotá, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-05-08T23:23:21Z"
@@ -856,11 +856,11 @@
     "name": "Camilo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/253134188?s=72&u=bfa072e9b7ade18f75bfeb20cfba5fdab7cc5c42&v=4",
     "location": "Colombia",
-    "company": "",
+    "company": "@Singularity-Uninorte ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 3,
-    "publicContributions": 40,
+    "publicContributions": 51,
     "createdAt": "2026-01-05T19:19:56Z"
   },
   {
@@ -872,7 +872,7 @@
     "twitterUsername": "johnpaezal",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 66,
     "createdAt": "2026-01-19T22:49:00Z"
   },
   {
@@ -906,9 +906,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 127,
     "createdAt": "2026-05-11T02:19:10Z"
   },
   {
@@ -926,13 +926,13 @@
   {
     "login": "TomasPosada0626",
     "name": "Tomas Posada suarez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258278768?s=72&u=8b8df2baa7adcd7df05ba3635de22d5b7bec3a16&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258278768?s=72&u=f86bc94784d4f83e21c1cca3b605ca26da1f25b8&v=4",
     "location": "Medellín, Colombia",
     "company": "EAFIT University",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 357,
+    "publicContributions": 946,
     "createdAt": "2026-01-30T16:42:31Z"
   },
   {
@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 5,
     "createdAt": "2026-02-08T21:09:43Z"
   },
   {
