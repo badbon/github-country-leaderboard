@@ -1,6 +1,6 @@
 # Followers - Andorra
 
-Generated: 2026-10-07T10:10:12.928Z
+Generated: 2026-10-07T10:50:12.733Z
 
 Users: 214
 
@@ -8,7 +8,7 @@ Users: 214
 |---:|---|---|---|---|---|---:|
 | 1 | [AlexAltea](https://github.com/AlexAltea) | Alexandro Sanchez Bach | Astral Technologies | AlexAltea | Les Escaldes, Andorra | 951 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 866 |
-| 3 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Block 6.282e+10 |  | Andorra | 581 |
+| 3 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Code is law |  | Andorra | 583 |
 | 4 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 253 |
 | 5 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 156 |
 | 6 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 138 |
@@ -20,7 +20,7 @@ Users: 214
 | 12 | [facundomedica](https://github.com/facundomedica) | Facundo Medica |  | facundomedica | Andorra | 93 |
 | 13 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 92 |
 | 14 | [XaviTorello](https://github.com/XaviTorello) | Xavi Torelló |  |  | Andorra | 92 |
-| 15 | [roboticswithjulia](https://github.com/roboticswithjulia) | Júlia Marsal Perendreu | Ekumen |  | Andorra la Vella, Andorra | 85 |
+| 15 | [roboticswithjulia](https://github.com/roboticswithjulia) | Júlia Marsal Perendreu | CTO Swarm124 |  | Andorra la Vella, Andorra | 85 |
 | 16 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 82 |
 | 17 | [delgod](https://github.com/delgod) | Mykola Marzhan | @Canonical |  | Andorra | 81 |
 | 18 | [madmongo1](https://github.com/madmongo1) | Richard Hodges | Sierra Global Experts |  | Andorra | 80 |

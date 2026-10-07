@@ -1,6 +1,6 @@
 # Followers - South Sudan
 
-Generated: 2026-10-07T09:59:55.765Z
+Generated: 2026-10-07T10:42:55.509Z
 
 Users: 133
 
@@ -23,6 +23,6 @@ Users: 133
 | 15 | [PiengBol](https://github.com/PiengBol) | Pieng Bol | Bolou Technology  | piengbol | Juba, South Sudan | 19 |
 | 16 | [cholkany](https://github.com/cholkany) | Digital | @Ieyenu  | cholkany | South Sudan | 18 |
 | 17 | [Ariik20](https://github.com/Ariik20) | Reegan Arick |  |  | Juba | 17 |
-| 18 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | AMAL |  | South Sudan | 15 |
-| 19 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared |  | DragoSamuel2 | Juba, South Sudan | 15 |
-| 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | CodeTym LTD | NelsonDmj | Juba, South Sudan  | 14 |
+| 18 | [bearded7](https://github.com/bearded7) | XaLabs03 | Xalabs03  | _oriba | Juba, South Sudan | 16 |
+| 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | AMAL |  | South Sudan | 15 |
+| 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared |  | DragoSamuel2 | Juba, South Sudan | 15 |

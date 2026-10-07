@@ -1,6 +1,6 @@
 # Followers - Barbados
 
-Generated: 2026-10-07T10:12:16.675Z
+Generated: 2026-10-07T10:52:18.892Z
 
 Users: 133
 
@@ -9,7 +9,7 @@ Users: 133
 | 1 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 549 |
 | 2 | [kaku2015](https://github.com/kaku2015) | FishingNet | ｴﾇﾃｨﾃｨ ﾃﾞｰﾀ |  | Barbados | 427 |
 | 3 | [iRoachie](https://github.com/iRoachie) | Kyle Roach |  | roach_iam | Barbados | 299 |
-| 4 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 273 |
+| 4 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 275 |
 | 5 | [AnalystLiv](https://github.com/AnalystLiv) | Liv 📊 |  |  | Barbados 🇧🇧 | 162 |
 | 6 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Dharach  | hammertoe | Barbados | 84 |
 | 7 | [adevbuildingstuff](https://github.com/adevbuildingstuff) | Owan Hunte | @everos-labs | owanhunte | Barbados | 48 |
@@ -18,7 +18,7 @@ Users: 133
 | 10 | [JL-ALPHA](https://github.com/JL-ALPHA) | Jermaine LUCΛS |  |  | Barbados | 21 |
 | 11 | [intricate](https://github.com/intricate) | Luke | @MercuryTechnologies |  | Barbados | 20 |
 | 12 | [pauly277](https://github.com/pauly277) | Paul Doyle | Pride & Purity | PaulyD277 | Barbados | 20 |
-| 13 | [EnSabanNur](https://github.com/EnSabanNur) | Ben Clark | @smithai  |  | Christ Church, Barbados | 18 |
+| 13 | [EnSabanNur](https://github.com/EnSabanNur) | Ben Clark | @smithai  |  | Christ Church, Barbados | 19 |
 | 14 | [jasonals](https://github.com/jasonals) | Jason Als | @mMoneyBB |  | Barbados | 18 |
 | 15 | [mr-emreerturk](https://github.com/mr-emreerturk) | Emre Ertürk | EMF | mr_emreerturk | Bridgetown, Barbados | 17 |
 | 16 | [angustatchell](https://github.com/angustatchell) | Angus Tatchell | @halotrade @chattan-co @sportsfix-co |  | Christ Church, Barbados | 16 |

@@ -1,6 +1,6 @@
 # Public Contributions - Mongolia
 
-Generated: 2026-10-07T09:48:18.183Z
+Generated: 2026-10-07T10:33:24.174Z
 
 Users: 813
 
@@ -22,7 +22,7 @@ Users: 813
 | 14 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 503 |
 | 15 | [Zombie-01](https://github.com/Zombie-01) | adiyadorj badamsereejid |  |  | mongolia | 495 |
 | 16 | [Namuun0521](https://github.com/Namuun0521) | Namuun |  |  | Ulaanbaatar, Mongolia | 484 |
-| 17 | [kuzowebsite](https://github.com/kuzowebsite) | KuZo | AndSoft Global Partner | Batuka_404 | Mongolia | 476 |
-| 18 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | @erxes  |  | mongolia | 453 |
-| 19 | [barsboldb](https://github.com/barsboldb) | Barsbold Bayar-Erdene |  |  | Ulaanbaatar, Mongolia | 451 |
-| 20 | [JinreP](https://github.com/JinreP) | Subeedei |  |  | Mongolia | 448 |
+| 17 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | @erxes  |  | mongolia | 453 |
+| 18 | [barsboldb](https://github.com/barsboldb) | Barsbold Bayar-Erdene |  |  | Ulaanbaatar, Mongolia | 451 |
+| 19 | [JinreP](https://github.com/JinreP) | Subeedei |  |  | Mongolia | 448 |
+| 20 | [dukunuu](https://github.com/dukunuu) | nt-dukk |  |  | Ulaanbaatar, Mongolia | 430 |

@@ -1,16 +1,16 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-07T09:49:52.643Z
+Generated: 2026-10-07T10:35:59.416Z
 
 Users: 1400
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 6430 |
-| 2 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | @Atomchat-io | antonygiomarx | Nicaragua | 2414 |
-| 3 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina |  |  | Nicaragua | 2021 |
-| 4 | [Void-CA](https://github.com/Void-CA) | Ari Castillo |  |  | Nicaragua | 1788 |
-| 5 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  |  |  | Nicaragua | 1451 |
+| 2 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina |  |  | Nicaragua | 2021 |
+| 3 | [Void-CA](https://github.com/Void-CA) | Ari Castillo |  |  | Nicaragua | 1788 |
+| 4 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  |  |  | Nicaragua | 1451 |
+| 5 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | @Atomchat-io | antonygiomarx | Nicaragua | 1315 |
 | 6 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Universidad Americana |  | Managua, Nicaragua | 1217 |
 | 7 | [R0LM0](https://github.com/R0LM0) | r0lm0 | None | r0lm0 | Managua, Nicaragua | 1137 |
 | 8 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone |  |  | Nicaragua | 1124 |

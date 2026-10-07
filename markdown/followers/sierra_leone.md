@@ -1,6 +1,6 @@
 # Followers - Sierra Leone
 
-Generated: 2026-10-07T09:57:41.402Z
+Generated: 2026-10-07T10:41:16.848Z
 
 Users: 442
 
@@ -11,12 +11,12 @@ Users: 442
 | 3 | [larrybah](https://github.com/larrybah) | Larry Bah |  | larrybah3 | Sierra Leone | 99 |
 | 4 | [tayyibGbondo](https://github.com/tayyibGbondo) | Tayyib Gbondo |  | TahibGbondo | Sierra Leone | 93 |
 | 5 | [aempirei](https://github.com/aempirei) | Christopher Abad | 256 LLC |  | Freetown, Sierra Leone | 68 |
-| 6 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | @DORB-AI |  | Sierra Leone | 66 |
-| 7 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 65 |
+| 6 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 65 |
+| 7 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | @DORB-AI |  | Sierra Leone | 65 |
 | 8 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Korlie Limited | zombo_mah | Wilberforce, Freetown. | 50 |
-| 9 | [Johnblesson](https://github.com/Johnblesson) | John Blesson-Rowe | CEO @ Kharis pro-tech | BlessonRowe | Sierra Leone | 48 |
-| 10 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Course Paddy | samuelmoiwa | Sierra Leone | 45 |
-| 11 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Christex Foundation | el_saintt | Sierra Leone | 42 |
+| 9 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Course Paddy | samuelmoiwa | Sierra Leone | 45 |
+| 10 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Christex Foundation | el_saintt | Sierra Leone | 42 |
+| 11 | [Johnblesson](https://github.com/Johnblesson) | John Blesson-Rowe | CEO @ Kharis pro-tech | BlessonRowe | Sierra Leone | 41 |
 | 12 | [Alusp](https://github.com/Alusp) | Alusine Jalloh | Orange SL | aseni_jalloh | Sierra Leone | 39 |
 | 13 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 39 |
 | 14 | [rolandeke](https://github.com/rolandeke) | Chinedum Roland Eke | IMO TECH SOLUTIONS | EkeRoland | Freetown, Sierra Leone | 39 |

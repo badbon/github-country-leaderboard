@@ -1,8 +1,8 @@
 # Public Contributions - Rwanda
 
-Generated: 2026-10-07T09:56:10.492Z
+Generated: 2026-10-07T10:38:28.109Z
 
-Users: 3533
+Users: 3531
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 3533
 | 10 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Foxx Kennels |  | Kigali Rwanda | 4003 |
 | 11 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES |  |  | KIGALI- RWANDA | 3820 |
 | 12 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Founder @ Témporia | Arnaud_Kennedy | Kigali, Rwanda | 3623 |
-| 13 | [leviGatimu](https://github.com/leviGatimu) | Levi | NGA |  | Kigali, Rwanda | 3140 |
-| 14 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 2662 |
-| 15 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 2586 |
-| 16 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Young Africans Network |  | Rwanda | 2493 |
-| 17 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | DondouAbiyi |  | Kigali, Rwanda | 2403 |
-| 18 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Enterpreneur | Moiseyehovayire | Kigali,Rwanda | 2365 |
-| 19 | [system-Barinda](https://github.com/system-Barinda) | system sylvere BARINDA |  |  | Muhanga,    Kigali, Rwanda | 2347 |
-| 20 | [cedrick13bienvenue](https://github.com/cedrick13bienvenue) | bienvenue cedrick |  |  | Kigali, Rwanda | 2302 |
+| 13 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 2662 |
+| 14 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 2586 |
+| 15 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Young Africans Network |  | Rwanda | 2493 |
+| 16 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | DondouAbiyi |  | Kigali, Rwanda | 2403 |
+| 17 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Enterpreneur | Moiseyehovayire | Kigali,Rwanda | 2365 |
+| 18 | [system-Barinda](https://github.com/system-Barinda) | system sylvere BARINDA |  |  | Muhanga,    Kigali, Rwanda | 2347 |
+| 19 | [cedrick13bienvenue](https://github.com/cedrick13bienvenue) | bienvenue cedrick |  |  | Kigali, Rwanda | 2302 |
+| 20 | [kai-lucky72](https://github.com/kai-lucky72) | lucky irene kagabo | NexaTech Rwanda | K_AI_Lucky | Kigali | 2299 |

@@ -1,6 +1,6 @@
 # Public Contributions - Zimbabwe
 
-Generated: 2026-10-07T10:08:19.889Z
+Generated: 2026-10-07T10:48:10.789Z
 
 Users: 1658
 
@@ -17,12 +17,12 @@ Users: 1658
 | 9 | [VincentMugondora](https://github.com/VincentMugondora) | Vincent Mugondora | uncommon.org |  | Mufakose, Harare, Zimbabwe | 2263 |
 | 10 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Izwi AI | zinyando | Harare, Zimbabwe | 1828 |
 | 11 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 1714 |
-| 12 | [hvstechzw](https://github.com/hvstechzw) | Aetheris Innovative Enterprises |  |  | Zimbabwe | 1670 |
-| 13 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Ministry of Health and Child Care | chihwayii | Harare | 1632 |
-| 14 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Br3eze Africa |  | Zimbabwe, BYO | 1527 |
-| 15 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 1424 |
-| 16 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine |  | king_tine11 | Zimbabwe | 1358 |
-| 17 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Classgap |  | Harare Zimbabwe | 1249 |
-| 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Marwadi Education Foundation Group of Institutions, Rajkot Subdistrict |  | Harare Zimbabwe | 1197 |
-| 19 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura |  |  | Harare, Zimbabwe | 1192 |
-| 20 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Kawerify Tech |  | Bulawayo, Zimbabwe | 1116 |
+| 12 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Ministry of Health and Child Care | chihwayii | Harare | 1632 |
+| 13 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Br3eze Africa |  | Zimbabwe, BYO | 1527 |
+| 14 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 1424 |
+| 15 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine |  | king_tine11 | Zimbabwe | 1358 |
+| 16 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Classgap |  | Harare Zimbabwe | 1249 |
+| 17 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Marwadi Education Foundation Group of Institutions, Rajkot Subdistrict |  | Harare Zimbabwe | 1197 |
+| 18 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura |  |  | Harare, Zimbabwe | 1192 |
+| 19 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Kawerify Tech |  | Bulawayo, Zimbabwe | 1116 |
+| 20 | [ohnonashe](https://github.com/ohnonashe) | Nashe Dan | @urafro  | dan_nashe | Harare, Zimbabwe | 1020 |

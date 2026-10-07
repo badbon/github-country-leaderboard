@@ -1,8 +1,8 @@
 # Public Contributions - Botswana
 
-Generated: 2026-10-07T10:13:27.363Z
+Generated: 2026-10-07T10:53:53.149Z
 
-Users: 535
+Users: 534
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-07T09:57:30.879Z
+Generated: 2026-10-07T10:41:03.903Z
 
 Users: 1365
 
@@ -21,8 +21,8 @@ Users: 1365
 | 13 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 1108 |
 | 14 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1067 |
 | 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 1067 |
-| 16 | [bngesp](https://github.com/bngesp) | bassirou ngom | Phd Computer Science |  | Senegal | 998 |
-| 17 | [likemcode](https://github.com/likemcode) | josue Avuh |  |  | Dakar | 927 |
-| 18 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 900 |
-| 19 | [PapePathe](https://github.com/PapePathe) | Papa Pathé SENE | Anywhere Needed |  | Dakar Sénégal West Africa | 853 |
-| 20 | [lucien-loua](https://github.com/lucien-loua) | lU | @ouestlabs  | luu_loua | Dakar, Senegal | 810 |
+| 16 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1021 |
+| 17 | [bngesp](https://github.com/bngesp) | bassirou ngom | Phd Computer Science |  | Senegal | 998 |
+| 18 | [likemcode](https://github.com/likemcode) | josue Avuh |  |  | Dakar | 927 |
+| 19 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 900 |
+| 20 | [PapePathe](https://github.com/PapePathe) | Papa Pathé SENE | Anywhere Needed |  | Dakar Sénégal West Africa | 853 |

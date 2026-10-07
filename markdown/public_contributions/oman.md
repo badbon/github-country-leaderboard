@@ -1,6 +1,6 @@
 # Public Contributions - Oman
 
-Generated: 2026-10-07T09:52:25.864Z
+Generated: 2026-10-07T10:36:46.695Z
 
 Users: 999
 
@@ -20,9 +20,9 @@ Users: 999
 | 12 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | CodeLine |  | Oman | 1702 |
 | 13 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Codeline |  | Oman | 1577 |
 | 14 | [MohammedAlkindi](https://github.com/MohammedAlkindi) | Mohammed Alkindi | ProofX |  | Muscat, Oman | 1565 |
-| 15 | [Riham2025](https://github.com/Riham2025) | Riham Abdullah Al-Siyabi | CodeLine |  | Muscat | 1403 |
-| 16 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Minoo Trading SPC |  | Muscat, Masqaţ, Oman | 1354 |
-| 17 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | CodeLine |  | Oman | 1333 |
-| 18 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Codeline  |  | Oman | 1251 |
-| 19 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Badal Technology |  | Muscat, Oman | 1173 |
-| 20 | [atakhadiviom](https://github.com/atakhadiviom) | ATA KHADIVI |  |  | Muscat | 1171 |
+| 15 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Minoo Trading SPC |  | Muscat, Masqaţ, Oman | 1354 |
+| 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | CodeLine |  | Oman | 1333 |
+| 17 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Codeline  |  | Oman | 1251 |
+| 18 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Badal Technology |  | Muscat, Oman | 1173 |
+| 19 | [atakhadiviom](https://github.com/atakhadiviom) | ATA KHADIVI |  |  | Muscat | 1171 |
+| 20 | [ilia144000](https://github.com/ilia144000) | Ilia GH | @rannta | ranntacoin | Sultanate of Oman | 1097 |

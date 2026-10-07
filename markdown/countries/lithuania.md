@@ -1,6 +1,6 @@
 # Lithuania
 
-Indexed users: 5,409
+Indexed users: 5,407
 
 | Leaderboard | Link |
 |---|---|
@@ -73,7 +73,7 @@ Indexed users: 5,409
 | 9 | [l3pp4rd](https://github.com/l3pp4rd) | Gediminas Morkevicius | Kaunas, Lithuania | 374 |
 | 10 | [justinas](https://github.com/justinas) | Justinas Stankevičius | Vilnius, Lithuania | 318 |
 | 11 | [belauzas](https://github.com/belauzas) | Rimantas | Lithuania | 304 |
-| 12 | [TheNeovimmer](https://github.com/TheNeovimmer) | TheNeovimmer | Lithuania | 289 |
+| 12 | [TheNeovimmer](https://github.com/TheNeovimmer) | TheNeovimmer | Lithuania | 286 |
 | 13 | [p12tic](https://github.com/p12tic) | Povilas Kanapickas | Lithuania | 248 |
 | 14 | [simison](https://github.com/simison) | Mikael Korpela | Lithuania | 224 |
 | 15 | [Elijas](https://github.com/Elijas) | Elijas Dapšauskas | Vilnius, Lithuania | 220 |
@@ -83,4 +83,4 @@ Indexed users: 5,409
 | 19 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-07T09:45:16.773Z
+Generated: 2026-10-07T10:30:17.196Z

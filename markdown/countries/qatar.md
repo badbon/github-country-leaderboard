@@ -1,6 +1,6 @@
 # Qatar
 
-Indexed users: 1,078
+Indexed users: 1,077
 
 | Leaderboard | Link |
 |---|---|
@@ -50,7 +50,7 @@ Indexed users: 1,078
 | 11 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 919 |
 | 12 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 828 |
 | 13 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag | Doha / Qatar | 792 |
-| 14 | [prajwal918](https://github.com/prajwal918) | It's okayyy  | qatar doha | 721 |
+| 14 | [prajwal918](https://github.com/prajwal918) | prajwaljogi_ | qatar doha | 761 |
 | 15 | [elorm116](https://github.com/elorm116) | Anthony | Doha, Qatar | 707 |
 | 16 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed | Doha | 702 |
 | 17 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 682 |
@@ -83,4 +83,4 @@ Indexed users: 1,078
 | 19 | [Behram-Khattak](https://github.com/Behram-Khattak) | Behram Khattak | Doha, Qatar | 91 |
 | 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 91 |
 
-Generated: 2026-10-07T09:54:56.799Z
+Generated: 2026-10-07T10:37:51.873Z

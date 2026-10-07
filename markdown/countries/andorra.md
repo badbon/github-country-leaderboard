@@ -46,14 +46,14 @@ Indexed users: 214
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 622 |
 | 8 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 613 |
 | 9 | [iuriaranda](https://github.com/iuriaranda) | iuri | Andorra | 600 |
-| 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 512 |
+| 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 509 |
 | 11 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 449 |
 | 12 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 449 |
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 398 |
-| 14 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 371 |
-| 15 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Andorra | 315 |
-| 16 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 221 |
-| 17 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 217 |
+| 14 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 385 |
+| 15 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 371 |
+| 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | Andorra | 298 |
+| 17 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 221 |
 | 18 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Andorra | 197 |
 | 19 | [loixlab](https://github.com/loixlab) | Sébastien LVL | Andorra | 191 |
 | 20 | [davidbalivo](https://github.com/davidbalivo) |  | Andorra | 167 |
@@ -64,7 +64,7 @@ Indexed users: 214
 |---:|---|---|---|---:|
 | 1 | [AlexAltea](https://github.com/AlexAltea) | Alexandro Sanchez Bach | Les Escaldes, Andorra | 951 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 866 |
-| 3 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Andorra | 581 |
+| 3 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Andorra | 583 |
 | 4 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 253 |
 | 5 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 156 |
 | 6 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 138 |
@@ -83,4 +83,4 @@ Indexed users: 214
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 58 |
 
-Generated: 2026-10-07T10:10:12.928Z
+Generated: 2026-10-07T10:50:12.733Z

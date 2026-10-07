@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-07T10:08:48.125Z
+Generated: 2026-10-07T10:50:02.234Z
 
 Users: 1196
 
@@ -16,9 +16,9 @@ Users: 1196
 | 8 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 1107 |
 | 9 | [Diti2604](https://github.com/Diti2604) | Diti |  |  | Albania | 1054 |
 | 10 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 845 |
-| 11 | [virvihuta](https://github.com/virvihuta) | Virvi Huta |  |  | Tirana, Albania | 751 |
-| 12 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 729 |
-| 13 | [klajdm](https://github.com/klajdm) | Klajdi Murataj |  |  | Tirana, Albania | 692 |
+| 11 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 729 |
+| 12 | [klajdm](https://github.com/klajdm) | Klajdi Murataj |  |  | Tirana, Albania | 692 |
+| 13 | [virvihuta](https://github.com/virvihuta) | Virvi Huta |  |  | Tirana, Albania | 664 |
 | 14 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 662 |
 | 15 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha |  |  | Tirane, Albania | 642 |
 | 16 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 616 |

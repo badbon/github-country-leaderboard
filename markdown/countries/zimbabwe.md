@@ -48,15 +48,15 @@ Indexed users: 1,658
 | 9 | [VincentMugondora](https://github.com/VincentMugondora) | Vincent Mugondora | Mufakose, Harare, Zimbabwe | 2,263 |
 | 10 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Harare, Zimbabwe | 1,828 |
 | 11 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 1,714 |
-| 12 | [hvstechzw](https://github.com/hvstechzw) | Aetheris Innovative Enterprises | Zimbabwe | 1,670 |
-| 13 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Harare | 1,632 |
-| 14 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Zimbabwe, BYO | 1,527 |
-| 15 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 1,424 |
-| 16 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine | Zimbabwe | 1,358 |
-| 17 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,249 |
-| 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,197 |
-| 19 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,192 |
-| 20 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Bulawayo, Zimbabwe | 1,116 |
+| 12 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Harare | 1,632 |
+| 13 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Zimbabwe, BYO | 1,527 |
+| 14 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 1,424 |
+| 15 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine | Zimbabwe | 1,358 |
+| 16 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,249 |
+| 17 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,197 |
+| 18 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,192 |
+| 19 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Bulawayo, Zimbabwe | 1,116 |
+| 20 | [ohnonashe](https://github.com/ohnonashe) | Nashe Dan | Harare, Zimbabwe | 1,020 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,658
 | 19 | [kaysiz](https://github.com/kaysiz) | kudakwashe siziva | Zimbabwe | 122 |
 | 20 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 113 |
 
-Generated: 2026-10-07T10:08:19.889Z
+Generated: 2026-10-07T10:48:10.789Z

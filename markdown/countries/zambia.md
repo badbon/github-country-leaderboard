@@ -56,7 +56,7 @@ Indexed users: 1,345
 | 17 | [chandachewe10](https://github.com/chandachewe10) | Chanda Chewe | Zambia | 628 |
 | 18 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 598 |
 | 19 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 556 |
-| 20 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 525 |
+| 20 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 555 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,345
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 105 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 104 |
 
-Generated: 2026-10-07T10:08:16.221Z
+Generated: 2026-10-07T10:48:04.251Z

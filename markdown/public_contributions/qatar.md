@@ -1,8 +1,8 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-07T09:54:56.799Z
+Generated: 2026-10-07T10:37:51.873Z
 
-Users: 1078
+Users: 1077
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,7 +19,7 @@ Users: 1078
 | 11 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 919 |
 | 12 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 828 |
 | 13 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag |  |  | Doha / Qatar | 792 |
-| 14 | [prajwal918](https://github.com/prajwal918) | It's okayyy  | https://github.com/prajwal918/ |  | qatar doha | 721 |
+| 14 | [prajwal918](https://github.com/prajwal918) | prajwaljogi_ | https://github.com/prajwal918/ |  | qatar doha | 761 |
 | 15 | [elorm116](https://github.com/elorm116) | Anthony |  | elorm116 | Doha, Qatar | 707 |
 | 16 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed |  |  | Doha | 702 |
 | 17 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | @mzieos |  | Doha, Qatar | 682 |

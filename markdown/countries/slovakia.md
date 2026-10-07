@@ -1,6 +1,6 @@
 # Slovakia
 
-Indexed users: 4,704
+Indexed users: 4,702
 
 | Leaderboard | Link |
 |---|---|
@@ -19,9 +19,9 @@ Indexed users: 4,704
 | 5 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 11,799 |
 | 6 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 11,009 |
 | 7 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Bratislava, Slovakia | 10,414 |
-| 8 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 9,652 |
-| 9 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Bratislava, Slovakia | 9,637 |
-| 10 | [thecubbe](https://github.com/thecubbe) | TheCubbe | Slovakia | 8,795 |
+| 8 | [thecubbe](https://github.com/thecubbe) | TheCubbe | Slovakia | 9,956 |
+| 9 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 9,652 |
+| 10 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Bratislava, Slovakia | 9,637 |
 | 11 | [valferon](https://github.com/valferon) | Feron Valentin | Slovakia | 8,723 |
 | 12 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 8,568 |
 | 13 | [mrshu](https://github.com/mrshu) | Marek Šuppa | Slovakia | 8,545 |
@@ -53,10 +53,10 @@ Indexed users: 4,704
 | 14 | [NightMean](https://github.com/NightMean) |  | Slovakia | 3,023 |
 | 15 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,395 |
 | 16 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 2,391 |
-| 17 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny | Slovakia | 2,282 |
-| 18 | [pilot2254](https://github.com/pilot2254) | mike | Slovakia | 2,172 |
-| 19 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi | Slovakia | 2,049 |
-| 20 | [zdila](https://github.com/zdila) | Martin Ždila | Košice, Slovakia | 1,977 |
+| 17 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | Bratislava  | 2,289 |
+| 18 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny | Slovakia | 2,282 |
+| 19 | [pilot2254](https://github.com/pilot2254) | mike | Slovakia | 2,172 |
+| 20 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi | Slovakia | 2,049 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,704
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-07T09:58:21.930Z
+Generated: 2026-10-07T10:41:34.589Z

@@ -1,6 +1,6 @@
 # Monaco
 
-Indexed users: 142
+Indexed users: 143
 
 | Leaderboard | Link |
 |---|---|
@@ -20,9 +20,9 @@ Indexed users: 142
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,623 |
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,132 |
 | 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,040 |
-| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 823 |
-| 10 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 713 |
-| 11 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 659 |
+| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 952 |
+| 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
+| 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 713 |
 | 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 624 |
 | 13 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 471 |
 | 14 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 418 |
@@ -30,8 +30,8 @@ Indexed users: 142
 | 16 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 315 |
 | 17 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 273 |
 | 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 265 |
-| 19 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO | Monaco | 223 |
-| 20 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 198 |
+| 19 | [ap705](https://github.com/ap705) | Arnaud Pradier | Monaco | 253 |
+| 20 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO | Monaco | 223 |
 
 ## Public Contributions
 
@@ -56,7 +56,7 @@ Indexed users: 142
 | 17 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 52 |
 | 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 49 |
 | 19 | [Faooel](https://github.com/Faooel) | Benoit G | Monaco | 49 |
-| 20 | [mortii](https://github.com/mortii) |  | Monaco | 42 |
+| 20 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 40 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 12 |
 
-Generated: 2026-10-07T09:48:12.899Z
+Generated: 2026-10-07T10:34:21.120Z

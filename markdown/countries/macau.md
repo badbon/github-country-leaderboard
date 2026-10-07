@@ -19,16 +19,16 @@ Indexed users: 451
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 3,792 |
 | 6 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,084 |
 | 7 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,023 |
-| 8 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,345 |
-| 9 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,316 |
-| 10 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 2,289 |
-| 11 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 1,878 |
-| 12 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 1,776 |
-| 13 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,668 |
-| 14 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 1,531 |
-| 15 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,467 |
-| 16 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,294 |
-| 17 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 1,245 |
+| 8 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 2,854 |
+| 9 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,345 |
+| 10 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,316 |
+| 11 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 2,289 |
+| 12 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 1,878 |
+| 13 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 1,776 |
+| 14 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,771 |
+| 15 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 1,531 |
+| 16 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,467 |
+| 17 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,294 |
 | 18 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
 | 19 | [scooorpion](https://github.com/scooorpion) | Xiao | Macau | 1,200 |
 | 20 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,126 |
@@ -83,4 +83,4 @@ Indexed users: 451
 | 19 | [greatzh](https://github.com/greatzh) | Zihao Zhang | macao | 65 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 61 |
 
-Generated: 2026-10-07T09:45:52.167Z
+Generated: 2026-10-07T10:30:24.194Z

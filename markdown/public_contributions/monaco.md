@@ -1,8 +1,8 @@
 # Public Contributions - Monaco
 
-Generated: 2026-10-07T09:48:12.899Z
+Generated: 2026-10-07T10:34:21.120Z
 
-Users: 142
+Users: 143
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 142
 | 17 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych |  |  | Nashville & Monaco | 52 |
 | 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Université Nice Côte D'Azur |  | Monaco  | 49 |
 | 19 | [Faooel](https://github.com/Faooel) | Benoit G |  |  | Monaco | 49 |
-| 20 | [mortii](https://github.com/mortii) |  |  |  | Monaco | 42 |
+| 20 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Forexizer | matteodevenuto | Monaco | 40 |

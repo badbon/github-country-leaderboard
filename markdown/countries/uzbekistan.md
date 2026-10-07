@@ -49,7 +49,7 @@ Indexed users: 9,513
 | 10 | [Secret-Uzbek](https://github.com/Secret-Uzbek) | Secret Uzbek | Tashkent, Uzbekistan | 7,017 |
 | 11 | [Maxliyo0404](https://github.com/Maxliyo0404) | Maxliyo | Tashkent | 6,701 |
 | 12 | [baxtiyorjongaziyev](https://github.com/baxtiyorjongaziyev) | Baxtiyorjon Gaziyev | Uzbekistan | 5,127 |
-| 13 | [Maqsud-Samatov](https://github.com/Maqsud-Samatov) | Maqsud Samatov | Uzbekistan, Termiz | 4,124 |
+| 13 | [Maqsud-Samatov](https://github.com/Maqsud-Samatov) | Maqsud Samatov | Uzbekistan, Termiz | 4,599 |
 | 14 | [abbosch1k](https://github.com/abbosch1k) | tasher | Uzbekistan | 3,669 |
 | 15 | [sirliboyev-uz](https://github.com/sirliboyev-uz) | Umurzak Sirliboyev | Tashkent, Uzbekistan | 3,518 |
 | 16 | [husanxonminavvarov717](https://github.com/husanxonminavvarov717) | HMance | Uzbekistan  | 3,182 |
@@ -83,4 +83,4 @@ Indexed users: 9,513
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [goldendevuz](https://github.com/goldendevuz) | Abdulmajid Yunusov | Chilonzor, Tashkent, Uzbekistan | 301 |
 
-Generated: 2026-10-07T10:06:43.376Z
+Generated: 2026-10-07T10:47:15.310Z

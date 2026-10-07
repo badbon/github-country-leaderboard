@@ -1,6 +1,6 @@
 # Botswana
 
-Indexed users: 535
+Indexed users: 534
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 535
 | 8 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 1,999 |
 | 9 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 1,982 |
 | 10 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,798 |
-| 11 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,630 |
-| 12 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 1,617 |
-| 13 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 1,541 |
-| 14 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,452 |
-| 15 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 1,430 |
-| 16 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,324 |
-| 17 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,323 |
-| 18 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 1,229 |
-| 19 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 1,211 |
-| 20 | [madnyte](https://github.com/madnyte) | Motheo Keneilwe | Botswana | 1,209 |
+| 11 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,652 |
+| 12 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,630 |
+| 13 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 1,617 |
+| 14 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 1,541 |
+| 15 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,452 |
+| 16 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 1,430 |
+| 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,324 |
+| 18 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,323 |
+| 19 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 1,229 |
+| 20 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 1,211 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 535
 | 19 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Gaborone, Botswana | 34 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 32 |
 
-Generated: 2026-10-07T10:13:27.363Z
+Generated: 2026-10-07T10:53:53.149Z

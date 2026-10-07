@@ -47,13 +47,13 @@ Indexed users: 348
 | 8 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 423 |
 | 9 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 386 |
 | 10 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 368 |
-| 11 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse | Mali(Bamako) | 302 |
-| 12 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 263 |
-| 13 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
-| 14 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 238 |
-| 15 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 185 |
-| 16 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 179 |
-| 17 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 175 |
+| 11 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 334 |
+| 12 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse | Mali(Bamako) | 302 |
+| 13 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 263 |
+| 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
+| 15 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 238 |
+| 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 185 |
+| 17 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 179 |
 | 18 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 157 |
 | 19 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
 | 20 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Mali | 134 |
@@ -83,4 +83,4 @@ Indexed users: 348
 | 19 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 29 |
 | 20 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 
-Generated: 2026-10-07T10:16:00.541Z
+Generated: 2026-10-07T10:31:13.766Z

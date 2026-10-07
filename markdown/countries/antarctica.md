@@ -12,17 +12,17 @@ Indexed users: 468
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,094 |
-| 2 | [phanijsp](https://github.com/phanijsp) |  | Antarctica | 6,033 |
-| 3 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 5,875 |
+| 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,523 |
+| 2 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,094 |
+| 3 | [phanijsp](https://github.com/phanijsp) |  | Antarctica | 6,033 |
 | 4 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 4,886 |
 | 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 4,699 |
-| 6 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,216 |
-| 7 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 3,940 |
-| 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 3,853 |
-| 9 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,840 |
-| 10 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,790 |
-| 11 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 3,249 |
+| 6 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,413 |
+| 7 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,216 |
+| 8 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 3,940 |
+| 9 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 3,853 |
+| 10 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,840 |
+| 11 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,790 |
 | 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,225 |
 | 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,827 |
 | 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 2,621 |
@@ -37,8 +37,8 @@ Indexed users: 468
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,014 |
-| 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 2,833 |
+| 1 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,010 |
+| 2 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,014 |
 | 3 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,790 |
 | 4 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 1,953 |
 | 5 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
@@ -50,10 +50,10 @@ Indexed users: 468
 | 11 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 675 |
 | 12 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 658 |
 | 13 | [DrBrad](https://github.com/DrBrad) | Brad | Antarctica | 634 |
-| 14 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 579 |
-| 15 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 16 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 469 |
-| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
+| 14 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
+| 15 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 469 |
+| 16 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
+| 17 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 434 |
 | 18 | [nicccce](https://github.com/nicccce) | Nick | Antarctica | 410 |
 | 19 | [kyriosaa](https://github.com/kyriosaa) | Kin | Antarctica | 405 |
 | 20 | [FreshPenguin112](https://github.com/FreshPenguin112) | FreshPenguin112 | Antarctica | 390 |
@@ -83,4 +83,4 @@ Indexed users: 468
 | 19 | [crse](https://github.com/crse) |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 77 |
 
-Generated: 2026-10-07T10:10:51.680Z
+Generated: 2026-10-07T10:50:35.592Z

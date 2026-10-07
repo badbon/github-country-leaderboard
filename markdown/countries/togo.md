@@ -13,7 +13,7 @@ Indexed users: 689
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 10,450 |
-| 2 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,317 |
+| 2 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,439 |
 | 3 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 7,096 |
 | 4 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 5,999 |
 | 5 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,528 |
@@ -37,7 +37,7 @@ Indexed users: 689
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,229 |
+| 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,363 |
 | 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,066 |
 | 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 2,865 |
 | 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 2,370 |
@@ -83,4 +83,4 @@ Indexed users: 689
 | 19 | [Harlequelrah](https://github.com/Harlequelrah) | DEGBOVI Maxime Atsou | Lomé-TOGO | 68 |
 | 20 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 
-Generated: 2026-10-07T10:04:45.796Z
+Generated: 2026-10-07T10:45:53.787Z

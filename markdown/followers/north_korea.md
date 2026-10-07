@@ -1,14 +1,14 @@
 # Followers - North Korea
 
-Generated: 2026-10-07T09:51:46.021Z
+Generated: 2026-10-07T10:36:14.162Z
 
 Users: 186
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Homelessness | X1HY999 | Pyongyang | 135 |
+| 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Homelessness | X1HY999 | Pyongyang | 137 |
 | 2 | [jdzmfg](https://github.com/jdzmfg) | ! ★ | fux apple | jdzmfg | pyongyang | 69 |
-| 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | @securezeron | o_0x4f | 🇰🇵 Pyongyang, North Korea | 66 |
+| 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | @Step-Security | o_0x4f | 🇰🇵 Pyongyang, North Korea | 66 |
 | 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 62 |
 | 5 | [norksec](https://github.com/norksec) | NORKSEC |  |  | Pyongyang, North Korea | 32 |
 | 6 | [strangerting](https://github.com/strangerting) | Big Kim | Kim Inc | westealbitcoin | Bunker, DPRK | 32 |
@@ -24,5 +24,5 @@ Users: 186
 | 16 | [retributions](https://github.com/retributions) |  |  |  | North Korea | 16 |
 | 17 | [satt-hri](https://github.com/satt-hri) | 稻草人(scarecrow) |  |  | North Korea | 16 |
 | 18 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 16 |
-| 19 | [LessThread](https://github.com/LessThread) | LessThread |  |  | Pyeongyang, North Korea | 15 |
-| 20 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | Samsung |  | North korea | 15 |
+| 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | Samsung |  | North korea | 15 |
+| 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 14 |

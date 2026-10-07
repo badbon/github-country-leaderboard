@@ -1,8 +1,8 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-07T09:46:07.584Z
+Generated: 2026-10-07T10:30:32.564Z
 
-Users: 903
+Users: 902
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

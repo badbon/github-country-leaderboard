@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-07T09:48:20.913Z
+Generated: 2026-10-07T10:33:28.453Z
 
 Users: 906
 
@@ -15,7 +15,7 @@ Users: 906
 | 7 | [histrio](https://github.com/histrio) | Rinat Sabitov | CloudLinux |  | Montenegro | 2258 |
 | 8 | [Timev](https://github.com/Timev) | Evgenii Timofeev |  |  | Montenegro | 1758 |
 | 9 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Playphrase.me |  | Montenegro | 1753 |
-| 10 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 1582 |
+| 10 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 1491 |
 | 11 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Nord Beaver |  | Montenegro | 1425 |
 | 12 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev |  |  | Budva, Montenegro | 1402 |
 | 13 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 1371 |

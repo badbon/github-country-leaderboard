@@ -1,8 +1,8 @@
 # Public Contributions - Saudi Arabia
 
-Generated: 2026-10-07T10:00:28.482Z
+Generated: 2026-10-07T10:41:00.047Z
 
-Users: 7702
+Users: 7701
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 7702
 | 8 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi |  |  | Saudi Arabia | 4084 |
 | 9 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb |  |  | Saudi Arabia | 3756 |
 | 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | King Saud University |  | Riyadh, Saudi Arabia | 3442 |
-| 11 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan |  |  | Saudi arabia, Jeddah | 2720 |
-| 12 | [Lamyaa439](https://github.com/Lamyaa439) | Lamyaa  |  |  | Riyadh | 2589 |
-| 13 | [Su03l](https://github.com/Su03l) | Suliman Yousef |  | su05l | Saudi Arabia | 2480 |
-| 14 | [Fadil369](https://github.com/Fadil369) | Mohamed El Fadil  MD | @BRAINSAIT | brainsait369 | Saudi Arabia, Riyadh | 2465 |
-| 15 | [nn6n](https://github.com/nn6n) |  |  |  | Saudi Arabia  | 2459 |
-| 16 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | KAUST |  | Thuwal, Saudi Arabia | 2413 |
-| 17 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler |  |  | Riyadh, Saudi Arabia | 2294 |
-| 18 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | MenteE | SyabSays | Al-Riyadh, Saudi Arabia | 2289 |
-| 19 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | @OSHCO  | IbrahimBAli2017 | Saudi Arabia | 2261 |
-| 20 | [aliakarma](https://github.com/aliakarma) | Ali Akarma | Islamic University of Madinah | akarma_ali | Madinah, Saudi Arabia | 2238 |
+| 11 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Google  | remoesoo10 | Riyadh  | 3381 |
+| 12 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan |  |  | Saudi arabia, Jeddah | 2720 |
+| 13 | [Lamyaa439](https://github.com/Lamyaa439) | Lamyaa  |  |  | Riyadh | 2589 |
+| 14 | [Su03l](https://github.com/Su03l) | Suliman Yousef |  | su05l | Saudi Arabia | 2480 |
+| 15 | [Fadil369](https://github.com/Fadil369) | Mohamed El Fadil  MD | @BRAINSAIT | brainsait369 | Saudi Arabia, Riyadh | 2465 |
+| 16 | [nn6n](https://github.com/nn6n) |  |  |  | Saudi Arabia  | 2459 |
+| 17 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | KAUST |  | Thuwal, Saudi Arabia | 2413 |
+| 18 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler |  |  | Riyadh, Saudi Arabia | 2294 |
+| 19 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | MenteE | SyabSays | Al-Riyadh, Saudi Arabia | 2289 |
+| 20 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | @OSHCO  | IbrahimBAli2017 | Saudi Arabia | 2261 |

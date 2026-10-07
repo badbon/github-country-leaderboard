@@ -1,8 +1,8 @@
 # Public Contributions - Benin
 
-Generated: 2026-10-07T10:13:01.185Z
+Generated: 2026-10-07T10:53:06.246Z
 
-Users: 474
+Users: 473
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 474
 | 16 | [eldomagan](https://github.com/eldomagan) | Eldo Magan |  | EldoMagan | Cotonou, Benin | 816 |
 | 17 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 686 |
 | 18 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Leading Edge virtual Insight  | Nuelaagafie | Benin | 658 |
-| 19 | [nXhermane](https://github.com/nXhermane) | nXhermane |  |  | Benin | 612 |
-| 20 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 592 |
+| 19 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 592 |
+| 20 | [delsDin](https://github.com/delsDin) | Dels Dinla |  |  | Benin | 573 |

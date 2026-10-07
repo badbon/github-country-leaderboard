@@ -1,13 +1,13 @@
 # Public Contributions - Montserrat
 
-Generated: 2026-10-07T09:48:24.103Z
+Generated: 2026-10-07T10:33:41.896Z
 
-Users: 292
+Users: 291
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray |  | dvmrry | Plymouth Meeting, Pennsylvania | 4327 |
-| 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi |  |  | Plymouth | 3329 |
+| 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi |  |  | Plymouth | 3778 |
 | 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn |  |  | Plymouth | 967 |
 | 4 | [gjbauer](https://github.com/gjbauer) |  |  |  | Plymouth, NH | 797 |
 | 5 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | @Target |  | Plymouth, MN | 674 |
@@ -24,5 +24,5 @@ Users: 292
 | 16 | [scollinspt](https://github.com/scollinspt) | Sean Collins | Plymouth State University |  | Plymouth, NH | 271 |
 | 17 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin |  |  | Plymouth, MN | 227 |
 | 18 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann |  |  | Plymouth, MN USA | 217 |
-| 19 | [Loganv308](https://github.com/Loganv308) | Logan Velier |  |  | Plymouth, WI | 210 |
-| 20 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | LunaTech 3D |  | Plymouth, Wayne, MI | 207 |
+| 19 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | LunaTech 3D |  | Plymouth, Wayne, MI | 207 |
+| 20 | [rshields2004](https://github.com/rshields2004) | Rowan Shields |  | rshields2004 | Plymouth | 193 |

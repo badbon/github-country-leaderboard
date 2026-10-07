@@ -1,6 +1,6 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-07T10:08:38.445Z
+Generated: 2026-10-07T10:49:19.151Z
 
 Users: 1495
 
@@ -14,7 +14,7 @@ Users: 1495
 | 6 | [amiriqbalkhan123](https://github.com/amiriqbalkhan123) | Iqbal Nabizada | Uber Technologies Inc |  | Afghanistan | 16890 |
 | 7 | [M-Anwar-Hussaini](https://github.com/M-Anwar-Hussaini) | Anwar Hussaini | PhysicalExam | MAnwarHussaini | Kabul, Afghanistan | 13288 |
 | 8 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Baheer Group |  | Kabul, Afghanistan | 10624 |
-| 9 | [zamirsed](https://github.com/zamirsed) | zamir sediqi  | @Baker |  | Afghanistan | 8665 |
+| 9 | [zamirsed](https://github.com/zamirsed) | zamir sediqi  | @Baker |  | Afghanistan | 10292 |
 | 10 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri |  |  | Afghanistan | 7962 |
 | 11 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Wiyar Companies  |  | Kabul khoshal khan | 7429 |
 | 12 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | MCIT | NasratShafiq | Afghanistan | 7025 |
@@ -23,6 +23,6 @@ Users: 1495
 | 15 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref |  |  | Kabul Afghanistan | 5656 |
 | 16 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Sr. Software Engineer | shahghasi_adil | Afghanistan | 5595 |
 | 17 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer |  |  | Kabul, Afghanistan | 5593 |
-| 18 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Hushmand Shahar Tech |  | Kabul, Afghanistan | 5513 |
-| 19 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada |  Peace Global Logistic |  | Kabul, Afghanistan | 5061 |
-| 20 | [HajiRohullah](https://github.com/HajiRohullah) | Rohullah Hussaini | @Code9ine |  | Kabul, Afghanistan | 4854 |
+| 18 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada |  Peace Global Logistic |  | Kabul, Afghanistan | 5061 |
+| 19 | [HajiRohullah](https://github.com/HajiRohullah) | Rohullah Hussaini | @Code9ine |  | Kabul, Afghanistan | 4854 |
+| 20 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4812 |

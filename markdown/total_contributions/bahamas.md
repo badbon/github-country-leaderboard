@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-07T10:11:58.846Z
+Generated: 2026-10-07T10:51:55.093Z
 
 Users: 238
 
@@ -12,7 +12,7 @@ Users: 238
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3166 |
 | 5 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 1958 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 1836 |
-| 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour |  |  | New Providence, Bahamas | 1632 |
+| 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour |  |  | New Providence, Bahamas | 1637 |
 | 8 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Agio Digital Ltd. |  | Nassau, The Bahamas | 1392 |
 | 9 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 1328 |
 | 10 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 1110 |
@@ -23,6 +23,6 @@ Users: 238
 | 15 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 786 |
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 711 |
 | 17 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 545 |
-| 18 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 500 |
-| 19 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 386 |
-| 20 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 276 |
+| 18 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 534 |
+| 19 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 500 |
+| 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 386 |

@@ -1,6 +1,6 @@
 # Followers - Albania
 
-Generated: 2026-10-07T10:08:48.125Z
+Generated: 2026-10-07T10:50:02.234Z
 
 Users: 1196
 
@@ -18,9 +18,9 @@ Users: 1196
 | 10 | [meggsila](https://github.com/meggsila) | Megi Sila |  | meggsila | Tirana, Albania | 99 |
 | 11 | [klendi](https://github.com/klendi) | Klendi Goci |  |  | Tirana, Albania | 98 |
 | 12 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 92 |
-| 13 | [devklajd](https://github.com/devklajd) | Klajd Belishaku |  |  | Tirana, Albania | 91 |
-| 14 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi |  | kristiseraj | Albania | 91 |
-| 15 | [rinor](https://github.com/rinor) | Rinor Hoxha | BAITS sh.p.k | rinorhoxha | Albania, Tirane | 90 |
+| 13 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi |  | kristiseraj | Albania | 91 |
+| 14 | [rinor](https://github.com/rinor) | Rinor Hoxha | BAITS sh.p.k | rinorhoxha | Albania, Tirane | 90 |
+| 15 | [devklajd](https://github.com/devklajd) | Klajd Belishaku |  |  | Tirana, Albania | 89 |
 | 16 | [nikolliervin](https://github.com/nikolliervin) | undefined |  |  | Tirana, Albania | 88 |
 | 17 | [joanjanku2000](https://github.com/joanjanku2000) | Joan Janku |  |  | Albania | 87 |
 | 18 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon | Fynnza |  | Albania | 84 |

@@ -25,7 +25,7 @@ Indexed users: 212
 | 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman | Saint-Denis, Réunion | 2,036 |
 | 12 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,946 |
 | 13 | [John361](https://github.com/John361) | John | Réunion | 1,860 |
-| 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,741 |
+| 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,804 |
 | 15 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,584 |
 | 16 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,514 |
 | 17 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,384 |
@@ -76,11 +76,11 @@ Indexed users: 212
 | 12 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Seine-Saint-Denis | 28 |
 | 13 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | reunion island (FR) | 28 |
 | 14 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel | Seine-Saint-Denis | 27 |
-| 15 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | Reunion Island | 24 |
-| 16 | [0x346e3730](https://github.com/0x346e3730) | Antonin CLAUZIER | Saint-Denis, Reunion Island | 23 |
-| 17 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Saint Denis, La Réunion  | 23 |
+| 15 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Saint Denis, La Réunion  | 26 |
+| 16 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | Reunion Island | 24 |
+| 17 | [0x346e3730](https://github.com/0x346e3730) | Antonin CLAUZIER | Saint-Denis, Reunion Island | 23 |
 | 18 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 21 |
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-07T09:56:03.151Z
+Generated: 2026-10-07T10:38:21.165Z

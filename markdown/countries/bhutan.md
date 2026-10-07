@@ -22,8 +22,8 @@ Indexed users: 269
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,620 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,333 |
 | 10 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 2,050 |
-| 11 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 2,011 |
-| 12 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 1,949 |
+| 11 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 1,949 |
+| 12 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 1,932 |
 | 13 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 1,924 |
 | 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,913 |
 | 15 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Bhutan | 1,825 |
@@ -50,13 +50,13 @@ Indexed users: 269
 | 11 | [bishal-dd](https://github.com/bishal-dd) | Bishal | Bhutan | 318 |
 | 12 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Thimphu, Bhutan | 296 |
 | 13 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 232 |
-| 14 | [ugyenchoden](https://github.com/ugyenchoden) | ugyen choden | Thimphu, Bhutan | 186 |
-| 15 | [devdgna](https://github.com/devdgna) | Dev | Kingdom of Bhutan | 163 |
-| 16 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | Bhutan | 152 |
-| 17 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | Thimphu, IT Park | 148 |
-| 18 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo | Bhutan | 132 |
-| 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 125 |
-| 20 | [b1swa25](https://github.com/b1swa25) | Sandip Biswa | Bhutan | 120 |
+| 14 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | Thimphu, IT Park | 186 |
+| 15 | [ugyenchoden](https://github.com/ugyenchoden) | ugyen choden | Thimphu, Bhutan | 186 |
+| 16 | [devdgna](https://github.com/devdgna) | Dev | Kingdom of Bhutan | 163 |
+| 17 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | Bhutan | 152 |
+| 18 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 142 |
+| 19 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo | Bhutan | 132 |
+| 20 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 125 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 269
 | 19 | [EshanB101](https://github.com/EshanB101) | Eshan Basnet | Thimphu, Bhutan | 22 |
 | 20 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-07T10:13:09.257Z
+Generated: 2026-10-07T10:53:16.514Z

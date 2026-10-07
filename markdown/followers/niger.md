@@ -1,6 +1,6 @@
 # Followers - Niger
 
-Generated: 2026-10-07T09:49:58.654Z
+Generated: 2026-10-07T10:36:03.124Z
 
 Users: 176
 
@@ -11,8 +11,8 @@ Users: 176
 | 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 109 |
 | 4 | [Mahamadou-Nouridine](https://github.com/Mahamadou-Nouridine) | Mahamadou Nouridine | Microverse | Nouridine_Dino | Niger | 69 |
 | 5 | [abass-dev](https://github.com/abass-dev) | Mr. Abass | Work for home | abass_dev | Niamey, Niger | 67 |
-| 6 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 64 |
-| 7 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | SETES SARL | hama_barhamou | Niger | 50 |
+| 6 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 67 |
+| 7 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | SETES SARL | hama_barhamou | Niger | 48 |
 | 8 | [ab3masta](https://github.com/ab3masta) | Abdou Abarchi Aboubacar | @Acacurs | ab3masta | Niamey-Niger | 37 |
 | 9 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 31 |
 | 10 | [malnuxstarck](https://github.com/malnuxstarck) | Abdoul Malik | @Profiteroles |  | Niamey , Niger | 30 |
@@ -22,7 +22,7 @@ Users: 176
 | 14 | [sn115426](https://github.com/sn115426) | sn01 | Atlas |  | niger | 23 |
 | 15 | [haouaenikoye](https://github.com/haouaenikoye) | QueenTech | QueenTech |  | Niamey-Niger | 21 |
 | 16 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Globalelectronic  |  | Niger Niamey  | 20 |
-| 17 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 19 |
+| 17 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 18 |
 | 18 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 18 |
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Webb Fontaine |  | Niamey | 17 |
 | 20 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 17 |

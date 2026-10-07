@@ -1,6 +1,6 @@
 # Followers - Bahamas
 
-Generated: 2026-10-07T10:11:58.846Z
+Generated: 2026-10-07T10:51:55.093Z
 
 Users: 238
 
@@ -25,4 +25,4 @@ Users: 238
 | 17 | [BeachMannix](https://github.com/BeachMannix) | Mannix Lee |  | mmhammed10 | Bahamas | 17 |
 | 18 | [emajeru](https://github.com/emajeru) | Edison Hanchell | Doctors Hospital | emajeru | Nassau, Bahamas | 16 |
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella |  |  | George Town, Bahamas | 15 |
-| 20 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 13 |
+| 20 | [yemix](https://github.com/yemix) |  | @yemixzy |  | Bahamas | 14 |

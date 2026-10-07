@@ -49,14 +49,14 @@ Indexed users: 2,212
 | 10 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,901 |
 | 11 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 1,852 |
 | 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
-| 13 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,737 |
-| 14 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 1,666 |
-| 15 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Luxembourg | 1,659 |
-| 16 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,653 |
-| 17 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,636 |
-| 18 | [geri4](https://github.com/geri4) | Andrey Gerasimov | Luxembourg | 1,607 |
-| 19 | [MarkZither](https://github.com/MarkZither) | Mark Burton | Luxembourg | 1,592 |
-| 20 | [mvo5](https://github.com/mvo5) | Michael Vogt | Trier/Luxembourg area | 1,460 |
+| 13 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev | Luxembourg | 1,749 |
+| 14 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,737 |
+| 15 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 1,666 |
+| 16 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Luxembourg | 1,659 |
+| 17 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,653 |
+| 18 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,636 |
+| 19 | [geri4](https://github.com/geri4) | Andrey Gerasimov | Luxembourg | 1,607 |
+| 20 | [MarkZither](https://github.com/MarkZither) | Mark Burton | Luxembourg | 1,592 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,212
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-10-07T09:45:20.397Z
+Generated: 2026-10-07T10:30:20.506Z

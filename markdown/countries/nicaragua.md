@@ -12,7 +12,7 @@ Indexed users: 1,400
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 7,504 |
+| 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 9,372 |
 | 2 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 6,789 |
 | 3 | [pacisauctor](https://github.com/pacisauctor) | Axel Garcia | Managua, Nicaragua | 6,724 |
 | 4 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real | Nicaragua | 5,020 |
@@ -38,10 +38,10 @@ Indexed users: 1,400
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 6,430 |
-| 2 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 2,414 |
-| 3 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina | Nicaragua | 2,021 |
-| 4 | [Void-CA](https://github.com/Void-CA) | Ari Castillo | Nicaragua | 1,788 |
-| 5 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  | Nicaragua | 1,451 |
+| 2 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina | Nicaragua | 2,021 |
+| 3 | [Void-CA](https://github.com/Void-CA) | Ari Castillo | Nicaragua | 1,788 |
+| 4 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  | Nicaragua | 1,451 |
+| 5 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 1,315 |
 | 6 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,217 |
 | 7 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 1,137 |
 | 8 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone | Nicaragua | 1,124 |
@@ -83,4 +83,4 @@ Indexed users: 1,400
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [l3onte](https://github.com/l3onte) | Leonte Canales | Nicaragua | 61 |
 
-Generated: 2026-10-07T09:49:52.643Z
+Generated: 2026-10-07T10:35:59.416Z

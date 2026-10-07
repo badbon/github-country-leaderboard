@@ -28,10 +28,10 @@ Indexed users: 1,073
 | 14 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 5,234 |
 | 15 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,941 |
 | 16 | [berryhill](https://github.com/berryhill) | Matt Berryhill | Los Santos, Panama | 4,773 |
-| 17 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 4,681 |
-| 18 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 4,655 |
-| 19 | [dav3trad3r](https://github.com/dav3trad3r) | dave | Panama | 4,385 |
-| 20 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 4,361 |
+| 17 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 4,706 |
+| 18 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 4,681 |
+| 19 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 4,655 |
+| 20 | [dav3trad3r](https://github.com/dav3trad3r) | dave | Panama | 4,385 |
 
 ## Public Contributions
 
@@ -44,19 +44,19 @@ Indexed users: 1,073
 | 5 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,791 |
 | 6 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 1,715 |
 | 7 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,711 |
-| 8 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 1,422 |
-| 9 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,305 |
-| 10 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,249 |
-| 11 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,135 |
-| 12 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,117 |
-| 13 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 1,096 |
-| 14 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 942 |
-| 15 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 886 |
-| 16 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 844 |
-| 17 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Santiago, Veraguas, Panamá | 793 |
-| 18 | [notSoEliel](https://github.com/notSoEliel) | Eliel García | Panama City, Panama, Panama | 793 |
-| 19 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 766 |
-| 20 | [levieraf](https://github.com/levieraf) | Luis Viera | Panama | 766 |
+| 8 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,611 |
+| 9 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,439 |
+| 10 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 1,422 |
+| 11 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,249 |
+| 12 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,135 |
+| 13 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,117 |
+| 14 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 1,096 |
+| 15 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 942 |
+| 16 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 886 |
+| 17 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 844 |
+| 18 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Santiago, Veraguas, Panamá | 793 |
+| 19 | [notSoEliel](https://github.com/notSoEliel) | Eliel García | Panama City, Panama, Panama | 793 |
+| 20 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 766 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 47 |
 
-Generated: 2026-10-07T10:07:24.854Z
+Generated: 2026-10-07T10:37:08.125Z

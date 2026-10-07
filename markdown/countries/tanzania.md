@@ -53,10 +53,10 @@ Indexed users: 2,041
 | 14 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,606 |
 | 15 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
 | 16 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 1,448 |
-| 17 | [cozej4](https://github.com/cozej4) | Ilakoze Jumanne | Tanzania | 1,248 |
-| 18 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 1,238 |
-| 19 | [dadyutenga](https://github.com/dadyutenga) | Dadi Nasser Utenga | Tanzania | 1,149 |
-| 20 | [cephasgm](https://github.com/cephasgm) | CephasGM | Dar Es Salaam, Tanzania | 1,142 |
+| 17 | [cephasgm](https://github.com/cephasgm) | CephasGM | Dar Es Salaam, Tanzania | 1,389 |
+| 18 | [cozej4](https://github.com/cozej4) | Ilakoze Jumanne | Tanzania | 1,248 |
+| 19 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 1,238 |
+| 20 | [dadyutenga](https://github.com/dadyutenga) | Dadi Nasser Utenga | Tanzania | 1,149 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,041
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 175 |
 
-Generated: 2026-10-07T10:04:27.276Z
+Generated: 2026-10-07T10:45:19.559Z

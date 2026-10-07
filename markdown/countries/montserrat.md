@@ -1,6 +1,6 @@
 # Montserrat
 
-Indexed users: 292
+Indexed users: 291
 
 | Leaderboard | Link |
 |---|---|
@@ -17,7 +17,7 @@ Indexed users: 292
 | 3 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 6,189 |
 | 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,327 |
 | 5 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 3,793 |
-| 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,329 |
+| 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,778 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,290 |
 | 8 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,455 |
 | 9 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 2,426 |
@@ -38,7 +38,7 @@ Indexed users: 292
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,327 |
-| 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,329 |
+| 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,778 |
 | 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 967 |
 | 4 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 797 |
 | 5 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 674 |
@@ -55,8 +55,8 @@ Indexed users: 292
 | 16 | [scollinspt](https://github.com/scollinspt) | Sean Collins | Plymouth, NH | 271 |
 | 17 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 227 |
 | 18 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann | Plymouth, MN USA | 217 |
-| 19 | [Loganv308](https://github.com/Loganv308) | Logan Velier | Plymouth, WI | 210 |
-| 20 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | Plymouth, Wayne, MI | 207 |
+| 19 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | Plymouth, Wayne, MI | 207 |
+| 20 | [rshields2004](https://github.com/rshields2004) | Rowan Shields | Plymouth | 193 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 292
 | 19 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 19 |
 | 20 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | Plymouth uk | 19 |
 
-Generated: 2026-10-07T09:48:24.103Z
+Generated: 2026-10-07T10:33:41.896Z

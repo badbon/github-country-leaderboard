@@ -1,6 +1,6 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-07T09:49:58.654Z
+Generated: 2026-10-07T10:36:03.124Z
 
 Users: 176
 
@@ -19,10 +19,10 @@ Users: 176
 | 11 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | @qwiper  @Osirion-IA  |  | Niamey,Niger | 203 |
 | 12 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley |  |  | Niamey | 194 |
 | 13 | [Life-Is-Nothing](https://github.com/Life-Is-Nothing) | Mohamed Adoungouss Ibrahim |  |  | Niamey, Niger | 159 |
-| 14 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | SETES SARL | hama_barhamou | Niger | 141 |
-| 15 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | @vision_visuel |  | Niamey-Niger | 133 |
-| 16 | [Phnix01](https://github.com/Phnix01) | Omar Farouk |  |  | Niger | 108 |
-| 17 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Refactor Factory | elonmusk | Zinder, Niger | 104 |
-| 18 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 103 |
-| 19 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 103 |
-| 20 | [aboubacar-sadik](https://github.com/aboubacar-sadik) | Aboubacar Sadik |  | boube_tomess | Niger | 102 |
+| 14 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | @vision_visuel |  | Niamey-Niger | 133 |
+| 15 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | SETES SARL | hama_barhamou | Niger | 127 |
+| 16 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Refactor Factory | elonmusk | Zinder, Niger | 104 |
+| 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 103 |
+| 18 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 103 |
+| 19 | [abbuss11](https://github.com/abbuss11) | ABBA | Mi+ | abbuss_227 | Niamey, Niger | 98 |
+| 20 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif |  |  | Niamey Niger | 95 |

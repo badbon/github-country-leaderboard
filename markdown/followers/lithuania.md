@@ -1,8 +1,8 @@
 # Followers - Lithuania
 
-Generated: 2026-10-07T09:45:16.773Z
+Generated: 2026-10-07T10:30:17.196Z
 
-Users: 5409
+Users: 5407
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,7 +17,7 @@ Users: 5409
 | 9 | [l3pp4rd](https://github.com/l3pp4rd) | Gediminas Morkevicius | @Satalia  |  | Kaunas, Lithuania | 374 |
 | 10 | [justinas](https://github.com/justinas) | Justinas Stankevičius |  |  | Vilnius, Lithuania | 318 |
 | 11 | [belauzas](https://github.com/belauzas) | Rimantas | front-end-by-rimantas |  | Lithuania | 304 |
-| 12 | [TheNeovimmer](https://github.com/TheNeovimmer) | TheNeovimmer | CEO OF @99syntax | TheNeovimmer | Lithuania | 289 |
+| 12 | [TheNeovimmer](https://github.com/TheNeovimmer) | TheNeovimmer | CEO OF @99syntax | TheNeovimmer | Lithuania | 286 |
 | 13 | [p12tic](https://github.com/p12tic) | Povilas Kanapickas |  |  | Lithuania | 248 |
 | 14 | [simison](https://github.com/simison) | Mikael Korpela | @Automattic |  | Lithuania | 224 |
 | 15 | [Elijas](https://github.com/Elijas) | Elijas Dapšauskas |  | elijas_ai | Vilnius, Lithuania | 220 |

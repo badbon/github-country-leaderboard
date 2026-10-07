@@ -38,9 +38,9 @@ Indexed users: 734
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 1,291 |
-| 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer | sudan, kassala | 1,198 |
-| 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,178 |
-| 4 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 882 |
+| 2 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 1,213 |
+| 3 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer | sudan, kassala | 1,198 |
+| 4 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,178 |
 | 5 | [mohamedkam000](https://github.com/mohamedkam000) | Muhammad Kamal | Sudan | 764 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 724 |
 | 7 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir |  Sudan | 691 |
@@ -66,7 +66,7 @@ Indexed users: 734
 | 2 | [shoukreytom](https://github.com/shoukreytom) | Shoukrey Tom | Sudan | 198 |
 | 3 | [wadgamaraldeen](https://github.com/wadgamaraldeen) | Mustafa Adam Gamaraldin Abdalla | Sudan | 161 |
 | 4 | [amolood](https://github.com/amolood) | ABDALRAHMAN MOLOOD | Khartoum,Sudan | 146 |
-| 5 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 114 |
+| 5 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 116 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 110 |
 | 7 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed | Sudan - Khartoum | 109 |
 | 8 | [Muawia24](https://github.com/Muawia24) | Ahmed Muawia | Sudan | 87 |
@@ -83,4 +83,4 @@ Indexed users: 734
 | 19 | [osayami](https://github.com/osayami) | OSAYAMI | Sudan | 50 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 46 |
 
-Generated: 2026-10-07T10:00:28.482Z
+Generated: 2026-10-07T10:43:31.541Z

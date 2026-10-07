@@ -15,23 +15,23 @@ Indexed users: 186
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,740 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 3,492 |
 | 3 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,494 |
-| 4 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 1,344 |
-| 5 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,268 |
-| 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,261 |
-| 7 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,256 |
+| 4 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,478 |
+| 5 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 1,344 |
+| 6 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,268 |
+| 7 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,261 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 730 |
-| 9 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
-| 10 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 565 |
-| 11 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 484 |
-| 12 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 473 |
-| 13 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 392 |
-| 14 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana | Pyongyang, North Korea | 367 |
-| 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 351 |
-| 16 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 344 |
-| 17 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 295 |
-| 18 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 264 |
-| 19 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 206 |
-| 20 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | North Korea | 198 |
+| 9 | [Aashaby](https://github.com/Aashaby) |  | North Korea | 668 |
+| 10 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
+| 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 565 |
+| 12 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 484 |
+| 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 473 |
+| 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 392 |
+| 15 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana | Pyongyang, North Korea | 367 |
+| 16 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 351 |
+| 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 344 |
+| 18 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 295 |
+| 19 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 264 |
+| 20 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 206 |
 
 ## Public Contributions
 
@@ -46,8 +46,8 @@ Indexed users: 186
 | 7 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 200 |
 | 8 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | North Korea | 198 |
 | 9 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 196 |
-| 10 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 195 |
-| 11 | [july0785](https://github.com/july0785) | JULY | Pyongyang, DPR of Korea | 186 |
+| 10 | [july0785](https://github.com/july0785) | JULY | Pyongyang, DPR of Korea | 186 |
+| 11 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 182 |
 | 12 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 175 |
 | 13 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 167 |
 | 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 165 |
@@ -62,7 +62,7 @@ Indexed users: 186
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Pyongyang | 135 |
+| 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Pyongyang | 137 |
 | 2 | [jdzmfg](https://github.com/jdzmfg) | ! ★ | pyongyang | 69 |
 | 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | 🇰🇵 Pyongyang, North Korea | 66 |
 | 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 62 |
@@ -80,7 +80,7 @@ Indexed users: 186
 | 16 | [retributions](https://github.com/retributions) |  | North Korea | 16 |
 | 17 | [satt-hri](https://github.com/satt-hri) | 稻草人(scarecrow) | North Korea | 16 |
 | 18 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 16 |
-| 19 | [LessThread](https://github.com/LessThread) | LessThread | Pyeongyang, North Korea | 15 |
-| 20 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
+| 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
+| 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-07T09:51:46.021Z
+Generated: 2026-10-07T10:36:14.162Z

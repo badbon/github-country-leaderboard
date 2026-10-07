@@ -1,8 +1,8 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-07T09:58:21.930Z
+Generated: 2026-10-07T10:41:34.589Z
 
-Users: 4704
+Users: 4702
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,9 +13,9 @@ Users: 4704
 | 5 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Quality Unit |  | Bratislava | 11799 |
 | 6 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Kromberg & Schubert | NagyViktordp | Slovakia  | 11009 |
 | 7 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Cloudbeds |  | Bratislava, Slovakia | 10414 |
-| 8 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | VRAXION |  | Slovakia | 9652 |
-| 9 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Comenius University Bratislava |  | Bratislava, Slovakia | 9637 |
-| 10 | [thecubbe](https://github.com/thecubbe) | TheCubbe |  |  | Slovakia | 8795 |
+| 8 | [thecubbe](https://github.com/thecubbe) | TheCubbe |  |  | Slovakia | 9956 |
+| 9 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | VRAXION |  | Slovakia | 9652 |
+| 10 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Comenius University Bratislava |  | Bratislava, Slovakia | 9637 |
 | 11 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 8723 |
 | 12 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 8568 |
 | 13 | [mrshu](https://github.com/mrshu) | Marek Šuppa |  | mareksuppa | Slovakia | 8545 |

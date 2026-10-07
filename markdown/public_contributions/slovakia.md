@@ -1,8 +1,8 @@
 # Public Contributions - Slovakia
 
-Generated: 2026-10-07T09:58:21.930Z
+Generated: 2026-10-07T10:41:34.589Z
 
-Users: 4704
+Users: 4702
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 4704
 | 14 | [NightMean](https://github.com/NightMean) |  |  |  | Slovakia | 3023 |
 | 15 | [WizzardSK](https://github.com/WizzardSK) |  |  |  | Bratislava, Slovakia | 2395 |
 | 16 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar |  |  | Bratislava | 2391 |
-| 17 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny |  |  | Slovakia | 2282 |
-| 18 | [pilot2254](https://github.com/pilot2254) | mike | High School |  | Slovakia | 2172 |
-| 19 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi |  |  | Slovakia | 2049 |
-| 20 | [zdila](https://github.com/zdila) | Martin Ždila |  | martinzdila | Košice, Slovakia | 1977 |
+| 17 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | High school | s0nda7 | Bratislava  | 2289 |
+| 18 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny |  |  | Slovakia | 2282 |
+| 19 | [pilot2254](https://github.com/pilot2254) | mike | High School |  | Slovakia | 2172 |
+| 20 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi |  |  | Slovakia | 2049 |

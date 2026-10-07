@@ -1,8 +1,8 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-07T10:13:04.078Z
+Generated: 2026-10-07T10:53:09.581Z
 
-Users: 911
+Users: 909
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

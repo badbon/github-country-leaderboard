@@ -1,8 +1,8 @@
 # Total Contributions - Botswana
 
-Generated: 2026-10-07T10:13:27.363Z
+Generated: 2026-10-07T10:53:53.149Z
 
-Users: 535
+Users: 534
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 535
 | 8 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 1999 |
 | 9 | [Batoli19](https://github.com/Batoli19) | future |  |  | Gaborone | 1982 |
 | 10 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 1798 |
-| 11 | [geek911](https://github.com/geek911) | Moses Chawawa |  |  | Gaborone, Botswana | 1630 |
-| 12 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi |  |  | Gaborone, Botswana | 1617 |
-| 13 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | @I-kenye  |  | Maun, Botswana | 1541 |
-| 14 | [Tebalo](https://github.com/Tebalo) | Bopaki | Digital FastForward |  | Botswana, Gaborone-Mokobaxane | 1452 |
-| 15 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Innovateium (Pty) Ltd | mrdiin_dev | Gaborone | 1430 |
-| 16 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | @Modisar |  | Botswana | 1324 |
-| 17 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga |  |  | Gaborone, Botswana | 1323 |
-| 18 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Scheke Innovationhub |  | Botswana | 1229 |
-| 19 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 1211 |
-| 20 | [madnyte](https://github.com/madnyte) | Motheo Keneilwe |  | mtkrated | Botswana | 1209 |
+| 11 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa |  |  | Botswana | 1652 |
+| 12 | [geek911](https://github.com/geek911) | Moses Chawawa |  |  | Gaborone, Botswana | 1630 |
+| 13 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi |  |  | Gaborone, Botswana | 1617 |
+| 14 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | @I-kenye  |  | Maun, Botswana | 1541 |
+| 15 | [Tebalo](https://github.com/Tebalo) | Bopaki | Digital FastForward |  | Botswana, Gaborone-Mokobaxane | 1452 |
+| 16 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Innovateium (Pty) Ltd | mrdiin_dev | Gaborone | 1430 |
+| 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | @Modisar |  | Botswana | 1324 |
+| 18 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga |  |  | Gaborone, Botswana | 1323 |
+| 19 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Scheke Innovationhub |  | Botswana | 1229 |
+| 20 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 1211 |

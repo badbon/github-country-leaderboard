@@ -1,6 +1,6 @@
 # Saudi Arabia
 
-Indexed users: 7,702
+Indexed users: 7,701
 
 | Leaderboard | Link |
 |---|---|
@@ -47,16 +47,16 @@ Indexed users: 7,702
 | 8 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi | Saudi Arabia | 4,084 |
 | 9 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb | Saudi Arabia | 3,756 |
 | 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | Riyadh, Saudi Arabia | 3,442 |
-| 11 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan | Saudi arabia, Jeddah | 2,720 |
-| 12 | [Lamyaa439](https://github.com/Lamyaa439) | Lamyaa  | Riyadh | 2,589 |
-| 13 | [Su03l](https://github.com/Su03l) | Suliman Yousef | Saudi Arabia | 2,480 |
-| 14 | [Fadil369](https://github.com/Fadil369) | Mohamed El Fadil  MD | Saudi Arabia, Riyadh | 2,465 |
-| 15 | [nn6n](https://github.com/nn6n) |  | Saudi Arabia  | 2,459 |
-| 16 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | Thuwal, Saudi Arabia | 2,413 |
-| 17 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler | Riyadh, Saudi Arabia | 2,294 |
-| 18 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | Al-Riyadh, Saudi Arabia | 2,289 |
-| 19 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | Saudi Arabia | 2,261 |
-| 20 | [aliakarma](https://github.com/aliakarma) | Ali Akarma | Madinah, Saudi Arabia | 2,238 |
+| 11 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Riyadh  | 3,381 |
+| 12 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan | Saudi arabia, Jeddah | 2,720 |
+| 13 | [Lamyaa439](https://github.com/Lamyaa439) | Lamyaa  | Riyadh | 2,589 |
+| 14 | [Su03l](https://github.com/Su03l) | Suliman Yousef | Saudi Arabia | 2,480 |
+| 15 | [Fadil369](https://github.com/Fadil369) | Mohamed El Fadil  MD | Saudi Arabia, Riyadh | 2,465 |
+| 16 | [nn6n](https://github.com/nn6n) |  | Saudi Arabia  | 2,459 |
+| 17 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | Thuwal, Saudi Arabia | 2,413 |
+| 18 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler | Riyadh, Saudi Arabia | 2,294 |
+| 19 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | Al-Riyadh, Saudi Arabia | 2,289 |
+| 20 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | Saudi Arabia | 2,261 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 7,702
 | 19 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 | 20 | [mo9a7i](https://github.com/mo9a7i) | Mohannad Faihan Otaibi | Saudi Arabia | 439 |
 
-Generated: 2026-10-07T10:00:28.482Z
+Generated: 2026-10-07T10:41:00.047Z

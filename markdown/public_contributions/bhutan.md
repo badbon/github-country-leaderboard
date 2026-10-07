@@ -1,6 +1,6 @@
 # Public Contributions - Bhutan
 
-Generated: 2026-10-07T10:13:09.257Z
+Generated: 2026-10-07T10:53:16.514Z
 
 Users: 269
 
@@ -19,10 +19,10 @@ Users: 269
 | 11 | [bishal-dd](https://github.com/bishal-dd) | Bishal |  | bishaldhakal133 | Bhutan | 318 |
 | 12 | [yesheytenzin](https://github.com/yesheytenzin) | tenz |  | tenzyeshey | Thimphu, Bhutan | 296 |
 | 13 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 232 |
-| 14 | [ugyenchoden](https://github.com/ugyenchoden) | ugyen choden | SELISE |  | Thimphu, Bhutan | 186 |
-| 15 | [devdgna](https://github.com/devdgna) | Dev | Bhutan NDI, CoinOn, ScanPrice, Prescaner |  | Kingdom of Bhutan | 163 |
-| 16 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | None |  | Bhutan | 152 |
-| 17 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | SELISE |  | Thimphu, IT Park | 148 |
-| 18 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo |  |  | Bhutan | 132 |
-| 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 125 |
-| 20 | [b1swa25](https://github.com/b1swa25) | Sandip Biswa |  |  | Bhutan | 120 |
+| 14 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | SELISE |  | Thimphu, IT Park | 186 |
+| 15 | [ugyenchoden](https://github.com/ugyenchoden) | ugyen choden | SELISE |  | Thimphu, Bhutan | 186 |
+| 16 | [devdgna](https://github.com/devdgna) | Dev | Bhutan NDI, CoinOn, ScanPrice, Prescaner |  | Kingdom of Bhutan | 163 |
+| 17 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | None |  | Bhutan | 152 |
+| 18 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 142 |
+| 19 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo |  |  | Bhutan | 132 |
+| 20 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 125 |

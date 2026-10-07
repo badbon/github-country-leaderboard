@@ -26,7 +26,7 @@ Indexed users: 133
 | 12 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 463 |
 | 13 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 323 |
 | 14 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 321 |
-| 15 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 320 |
+| 15 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 312 |
 | 16 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 301 |
 | 17 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 292 |
 | 18 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
@@ -79,8 +79,8 @@ Indexed users: 133
 | 15 | [PiengBol](https://github.com/PiengBol) | Pieng Bol | Juba, South Sudan | 19 |
 | 16 | [cholkany](https://github.com/cholkany) | Digital | South Sudan | 18 |
 | 17 | [Ariik20](https://github.com/Ariik20) | Reegan Arick | Juba | 17 |
-| 18 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
-| 19 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
-| 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
+| 18 | [bearded7](https://github.com/bearded7) | XaLabs03 | Juba, South Sudan | 16 |
+| 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
+| 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-07T09:59:55.765Z
+Generated: 2026-10-07T10:42:55.509Z
