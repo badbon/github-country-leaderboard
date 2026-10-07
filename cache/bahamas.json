@@ -1243,7 +1243,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-04T11:36:47Z"
   },
@@ -1292,7 +1292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-10-24T09:30:41Z"
   },
   {
@@ -1340,7 +1340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-06-14T15:11:37Z"
   },
   {
@@ -1351,8 +1351,8 @@
     "company": "Evon Medics LLC",
     "twitterUsername": "john_diddles",
     "followers": 37,
-    "privateContributions": 576,
-    "publicContributions": 211,
+    "privateContributions": 676,
+    "publicContributions": 111,
     "createdAt": "2019-03-12T18:32:59Z"
   },
   {
@@ -1363,7 +1363,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 3054,
+    "privateContributions": 3221,
     "publicContributions": 1,
     "createdAt": "2019-01-24T08:17:33Z"
   },
@@ -1374,7 +1374,7 @@
     "location": "Bahamas",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-25T21:26:00Z"
@@ -1388,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 23,
     "createdAt": "2019-11-24T21:26:34Z"
   },
   {

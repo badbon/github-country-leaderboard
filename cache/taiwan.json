@@ -930,7 +930,7 @@
     "location": "Taipei",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-30T08:42:15Z"
@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 57,
     "createdAt": "2026-03-07T09:08:04Z"
   },
   {
@@ -956,7 +956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 608,
+    "publicContributions": 628,
     "createdAt": "2026-04-06T06:52:24Z"
   },
   {
@@ -967,8 +967,8 @@
     "company": "Agora",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
+    "privateContributions": 891,
+    "publicContributions": 8,
     "createdAt": "2025-12-30T15:36:20Z"
   },
   {
@@ -996,18 +996,6 @@
     "createdAt": "2026-03-03T23:40:17Z"
   },
   {
-    "login": "code4880",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/265662289?s=72&u=6019f7292fbada2e54dde0d2db952986f34b7dc7&v=4",
-    "location": "Taipei",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-03-04T23:04:29Z"
-  },
-  {
     "login": "MorganHo001",
     "name": "MENGHUA HO",
     "avatarUrl": "https://avatars.githubusercontent.com/u/260610791?s=72&v=4",
@@ -1016,7 +1004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2026-02-10T08:02:39Z"
   },
   {
@@ -1062,9 +1050,9 @@
     "location": "Taiwan",
     "company": "Taichung Municipal Dali Senior High School",
     "twitterUsername": "itou_souta15",
-    "followers": 51,
-    "privateContributions": 23,
-    "publicContributions": 997,
+    "followers": 65,
+    "privateContributions": 17,
+    "publicContributions": 1299,
     "createdAt": "2025-01-06T06:04:28Z"
   },
   {
@@ -1074,9 +1062,9 @@
     "location": "TAIPEI , TAIWAN",
     "company": "@Agent-Threat-Rule",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 1311,
-    "publicContributions": 2470,
+    "followers": 31,
+    "privateContributions": 1339,
+    "publicContributions": 2824,
     "createdAt": "2025-06-22T22:58:41Z"
   },
   {
@@ -1086,9 +1074,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 27,
     "privateContributions": 19,
-    "publicContributions": 244,
+    "publicContributions": 249,
     "createdAt": "2025-03-24T13:51:17Z"
   },
   {
@@ -1100,7 +1088,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 26,
     "createdAt": "2025-04-18T20:32:49Z"
   },
   {
@@ -1110,9 +1098,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 825,
-    "publicContributions": 121,
+    "followers": 21,
+    "privateContributions": 1234,
+    "publicContributions": 241,
     "createdAt": "2025-05-04T10:45:20Z"
   },
   {
@@ -1124,7 +1112,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 63,
     "createdAt": "2025-02-24T09:45:00Z"
   },
   {
@@ -1134,9 +1122,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 22,
-    "publicContributions": 306,
+    "followers": 16,
+    "privateContributions": 13,
+    "publicContributions": 197,
     "createdAt": "2025-02-05T08:04:17Z"
   },
   {
@@ -1147,8 +1135,8 @@
     "company": "Ultra Lab",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 3087,
-    "publicContributions": 350,
+    "privateContributions": 4536,
+    "publicContributions": 432,
     "createdAt": "2025-02-07T01:54:13Z"
   },
   {
@@ -1156,11 +1144,11 @@
     "name": "Anthony Sung",
     "avatarUrl": "https://avatars.githubusercontent.com/u/215960986?s=72&u=4edc4a831e6ecf0cccafd261771966de765e8f7d&v=4",
     "location": "Taipei, Taiwan",
-    "company": "Aircraft Inc",
+    "company": "GoMore Inc.",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 1741,
+    "publicContributions": 2301,
     "createdAt": "2025-06-12T06:00:32Z"
   },
   {

@@ -1194,7 +1194,7 @@
     "location": "Albania",
     "company": "University of Tirana",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 41,
     "createdAt": "2024-05-10T10:35:58Z"
@@ -1220,7 +1220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 339,
+    "publicContributions": 340,
     "createdAt": "2024-02-29T14:40:39Z"
   },
   {
@@ -1268,7 +1268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 20,
     "createdAt": "2024-06-10T20:31:33Z"
   },
   {
@@ -1290,22 +1290,10 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "followers": 2,
+    "privateContributions": 1,
     "publicContributions": 17,
     "createdAt": "2024-08-27T13:37:45Z"
-  },
-  {
-    "login": "Leart24",
-    "name": "Leart Kraja",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183234592?s=72&v=4",
-    "location": "Shkoder, Albania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2024-09-28T18:33:27Z"
   },
   {
     "login": "KingDemon04",
@@ -1352,7 +1340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 22,
     "createdAt": "2024-03-12T19:46:59Z"
   },
   {
@@ -1374,7 +1362,7 @@
     "location": "Tirane, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-08-27T14:37:51Z"
@@ -1400,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 730,
+    "publicContributions": 729,
     "createdAt": "2024-09-30T01:52:57Z"
   },
   {

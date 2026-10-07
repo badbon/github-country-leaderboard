@@ -960,18 +960,6 @@
     "createdAt": "2020-11-27T04:41:14Z"
   },
   {
-    "login": "Karl-maker",
-    "name": "Karl-Johan Bailey",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73433921?s=72&v=4",
-    "location": "Trinidad and Tobago",
-    "company": "",
-    "twitterUsername": "iamkarlbailey",
-    "followers": 2,
-    "privateContributions": 1881,
-    "publicContributions": 526,
-    "createdAt": "2020-10-25T14:59:07Z"
-  },
-  {
     "login": "SaleemVFX",
     "name": "Saleem Ali",
     "avatarUrl": "https://avatars.githubusercontent.com/u/75439794?s=72&u=3e4e535416e84bc916cb975444e00902d742affd&v=4",
@@ -979,7 +967,7 @@
     "company": "ECU",
     "twitterUsername": "SaleemVFX",
     "followers": 2,
-    "privateContributions": 16,
+    "privateContributions": 9,
     "publicContributions": 1,
     "createdAt": "2020-12-03T16:04:43Z"
   },
@@ -1003,7 +991,7 @@
     "company": "FreeLancer",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 25,
+    "privateContributions": 38,
     "publicContributions": 9,
     "createdAt": "2020-01-03T16:48:00Z"
   },
@@ -1039,8 +1027,8 @@
     "company": "zed-io",
     "twitterUsername": "jaedanpersaudtt",
     "followers": 1,
-    "privateContributions": 1392,
-    "publicContributions": 91,
+    "privateContributions": 1692,
+    "publicContributions": 183,
     "createdAt": "2020-04-03T23:41:56Z"
   },
   {
@@ -1087,7 +1075,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 611,
+    "privateContributions": 648,
     "publicContributions": 0,
     "createdAt": "2020-03-19T06:39:18Z"
   },
@@ -1112,7 +1100,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2020-01-27T20:05:37Z"
   },
   {
@@ -1136,7 +1124,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 48,
     "createdAt": "2020-06-02T12:31:22Z"
   },
   {
@@ -1195,7 +1183,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 77,
+    "privateContributions": 210,
     "publicContributions": 1,
     "createdAt": "2019-08-11T14:17:19Z"
   },

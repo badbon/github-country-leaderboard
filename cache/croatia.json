@@ -1182,9 +1182,9 @@
     "location": "Zagreb",
     "company": "AND",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2025-01-23T14:36:41Z"
   },
   {
@@ -1194,7 +1194,7 @@
     "location": "Zagreb, Croatia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-28T13:30:47Z"
@@ -1206,8 +1206,8 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 165,
+    "followers": 8,
+    "privateContributions": 145,
     "publicContributions": 82,
     "createdAt": "2024-05-13T18:53:42Z"
   },
@@ -1243,7 +1243,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 120,
+    "privateContributions": 116,
     "publicContributions": 41,
     "createdAt": "2024-04-19T15:01:43Z"
   },
@@ -1297,14 +1297,14 @@
   },
   {
     "login": "Nooby212",
-    "name": "Nooby212",
+    "name": "Teo Premrl",
     "avatarUrl": "https://avatars.githubusercontent.com/u/191715471?s=72&u=661d31596a214a6debf22648d713092e1fc4db0b&v=4",
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 78,
     "createdAt": "2024-12-14T19:39:49Z"
   },
   {
@@ -1315,7 +1315,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1019,
+    "privateContributions": 1118,
     "publicContributions": 15,
     "createdAt": "2024-03-28T03:57:54Z"
   },
@@ -1328,7 +1328,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 18,
     "createdAt": "2024-09-04T15:04:23Z"
   },
   {
@@ -1338,9 +1338,9 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-04-18T07:42:20Z"
   },
   {
@@ -1351,8 +1351,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 549,
-    "publicContributions": 88,
+    "privateContributions": 542,
+    "publicContributions": 69,
     "createdAt": "2024-03-07T20:34:20Z"
   },
   {
@@ -1387,7 +1387,7 @@
     "company": "RIT Croatia",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 103,
+    "privateContributions": 41,
     "publicContributions": 0,
     "createdAt": "2024-09-03T20:05:39Z"
   },
@@ -1398,9 +1398,9 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 352,
+    "publicContributions": 290,
     "createdAt": "2024-03-18T16:32:32Z"
   },
   {
@@ -65362,5 +65362,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2008-02-28T08:51:19Z"
+  },
+  {
+    "login": "jelenastricak",
+    "name": "Jelena Stricak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204414854?s=72&u=a8eab03ddbb94b5e9be00a51f7f395921fb65c2a&v=4",
+    "location": "Croatia",
+    "company": "@herodot-hr , @RaptorLabs-AI , @Cyberlink-Security ,  @Sol-Mint SolMint",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 2012,
+    "publicContributions": 87,
+    "createdAt": "2025-03-21T23:46:21Z"
   }
 ]

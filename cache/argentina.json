@@ -943,8 +943,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 23,
+    "privateContributions": 2,
+    "publicContributions": 24,
     "createdAt": "2026-04-06T17:13:15Z"
   },
   {
@@ -956,7 +956,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 146,
+    "publicContributions": 168,
     "createdAt": "2026-04-13T20:28:35Z"
   },
   {
@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 49,
     "createdAt": "2026-01-09T20:32:57Z"
   },
   {
@@ -1004,19 +1004,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 294,
+    "publicContributions": 331,
     "createdAt": "2025-12-29T22:15:23Z"
   },
   {
     "login": "komonte",
     "name": "Kevin Manuel Omonte Roa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/270183523?s=72&u=f4922b0cf687847d347b5793d0a6446494fe58c0&v=4",
-    "location": "Buenos Aires, Argentina",
+    "location": "Buenos Aires",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 172,
     "createdAt": "2026-03-22T18:54:22Z"
   },
   {
@@ -1040,7 +1040,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 32,
     "createdAt": "2026-03-13T15:14:36Z"
   },
   {
@@ -1104,18 +1104,6 @@
     "createdAt": "2026-01-02T21:48:35Z"
   },
   {
-    "login": "JoacoBarro",
-    "name": "Joaquin Barro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253499691?s=72&u=1a69503ce228821d49c0f8638b2cb52b46870e12&v=4",
-    "location": "Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 69,
-    "createdAt": "2026-01-07T12:38:02Z"
-  },
-  {
     "login": "EmpresaNexusIA",
     "name": "Empresa  NEXORA-IA",
     "avatarUrl": "https://avatars.githubusercontent.com/u/270018669?s=72&v=4",
@@ -1124,19 +1112,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 6,
     "createdAt": "2026-03-21T21:58:52Z"
   },
   {
     "login": "AdriDob",
     "name": "Adriel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263382088?s=72&u=a3dc35f99b1decb9ec973e486328a70f8a91d5ac&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263382088?s=72&u=66b5c9983d2d44f84f2d6c646246c8738d1860b8&v=4",
     "location": "Argentina",
     "company": "https://www.linkedin.com/in/adriel-dobal-b01b17279/?isSelfProfile=true",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 283,
+    "publicContributions": 950,
     "createdAt": "2026-02-23T13:37:17Z"
   },
   {
@@ -1160,7 +1148,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 162,
     "createdAt": "2026-03-31T22:06:04Z"
   },
   {

@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 368,
+    "publicContributions": 346,
     "createdAt": "2025-03-31T23:13:15Z"
   },
   {
@@ -992,7 +992,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 32,
     "createdAt": "2025-08-28T01:47:33Z"
   },
   {
@@ -1016,7 +1016,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 31,
     "createdAt": "2025-01-07T21:46:21Z"
   },
   {
@@ -1027,8 +1027,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 33,
-    "publicContributions": 187,
+    "privateContributions": 67,
+    "publicContributions": 188,
     "createdAt": "2025-10-29T18:13:51Z"
   },
   {
@@ -1050,9 +1050,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 25,
     "createdAt": "2025-08-30T02:17:08Z"
   },
   {
@@ -1063,8 +1063,8 @@
     "company": "Elatec.SA",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
-    "publicContributions": 48,
+    "privateContributions": 0,
+    "publicContributions": 31,
     "createdAt": "2025-08-06T15:34:03Z"
   },
   {
@@ -1074,9 +1074,9 @@
     "location": " Maldonado, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 31,
     "createdAt": "2025-09-17T12:41:58Z"
   },
   {
@@ -1086,9 +1086,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 42,
     "createdAt": "2025-11-06T14:01:59Z"
   },
   {
@@ -1100,7 +1100,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 27,
     "createdAt": "2025-01-29T19:12:26Z"
   },
   {
@@ -1112,7 +1112,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 63,
     "createdAt": "2025-06-12T13:39:29Z"
   },
   {
@@ -1122,9 +1122,9 @@
     "location": "Colonia, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 22,
     "createdAt": "2025-07-23T16:12:22Z"
   },
   {
@@ -1136,7 +1136,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 16,
     "createdAt": "2025-07-29T18:02:07Z"
   },
   {
@@ -1148,7 +1148,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 58,
     "createdAt": "2025-07-04T19:26:36Z"
   },
   {
@@ -1170,9 +1170,9 @@
     "location": "Uruguay",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 30,
     "createdAt": "2025-08-10T21:28:34Z"
   },
   {
@@ -1183,7 +1183,7 @@
     "company": "RobleGames",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 4720,
+    "privateContributions": 5873,
     "publicContributions": 48,
     "createdAt": "2025-03-11T08:47:03Z"
   },
@@ -67462,5 +67462,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-10-31T17:04:32Z"
+  },
+  {
+    "login": "hel-3d",
+    "name": "Elena Gusarevich",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164346244?s=72&u=92bc8b24c045c31d82264407406d92d5ae2dee0c&v=4",
+    "location": "Uruguay",
+    "company": "QLAN",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 87,
+    "publicContributions": 152,
+    "createdAt": "2024-03-21T11:48:52Z"
   }
 ]

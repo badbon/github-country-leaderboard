@@ -895,8 +895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 75,
+    "privateContributions": 1186,
+    "publicContributions": 186,
     "createdAt": "2023-08-16T03:14:46Z"
   },
   {
@@ -906,8 +906,8 @@
     "location": "13 Oak Drive, Hamilton, NY",
     "company": "Colgate University @celest-dev ",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 209,
+    "followers": 5,
+    "privateContributions": 157,
     "publicContributions": 137,
     "createdAt": "2023-02-24T19:01:24Z"
   },
@@ -930,7 +930,7 @@
     "location": "Hamilton",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-07T14:24:46Z"
@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 147,
-    "publicContributions": 148,
+    "publicContributions": 147,
     "createdAt": "2023-09-17T18:48:59Z"
   },
   {
@@ -967,7 +967,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2023-12-01T09:16:01Z"
   },
@@ -1014,21 +1014,21 @@
     "location": "Hamilton, New Jersey",
     "company": "Montefiore Einstein Technology",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 134,
     "createdAt": "2023-03-29T16:50:18Z"
   },
   {
     "login": "colebohte",
-    "name": "colebohte",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136022434?s=72&u=8cbd2f150222db778a5dae9e3e54b8fc46c1970a&v=4",
+    "name": "Foxi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136022434?s=72&u=3da442c5a4e09a3ba149657b176b966f88037467&v=4",
     "location": "Hamilton, Ontario",
     "company": "@RiverGamesStudios ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 312,
+    "publicContributions": 349,
     "createdAt": "2023-06-08T20:28:13Z"
   },
   {
@@ -1050,7 +1050,7 @@
     "location": "Hamilton, NY",
     "company": "Colgate University ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-23T13:56:22Z"
@@ -1063,8 +1063,8 @@
     "company": "McMaster University",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 13,
-    "publicContributions": 40,
+    "privateContributions": 6,
+    "publicContributions": 22,
     "createdAt": "2023-10-04T16:23:57Z"
   },
   {
@@ -1075,8 +1075,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 184,
-    "publicContributions": 81,
+    "privateContributions": 179,
+    "publicContributions": 49,
     "createdAt": "2023-12-21T17:46:32Z"
   },
   {
@@ -1086,7 +1086,7 @@
     "location": "Hamilton, ON",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-27T16:22:58Z"
@@ -1100,7 +1100,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2023-09-22T14:27:46Z"
   },
   {
@@ -1112,7 +1112,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 163,
+    "publicContributions": 204,
     "createdAt": "2023-02-17T23:55:25Z"
   },
   {

@@ -908,7 +908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 237,
     "createdAt": "2026-02-22T22:50:55Z"
   },
   {
@@ -930,9 +930,9 @@
     "location": "Rivne, Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 40,
     "createdAt": "2026-02-27T12:50:05Z"
   },
   {
@@ -956,7 +956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 3,
-    "publicContributions": 1823,
+    "publicContributions": 2436,
     "createdAt": "2026-04-09T17:53:13Z"
   },
   {
@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 61,
     "createdAt": "2026-03-18T11:56:54Z"
   },
   {
@@ -996,18 +996,6 @@
     "createdAt": "2026-04-05T12:44:58Z"
   },
   {
-    "login": "Yaroslav-Zasenko",
-    "name": "Yaroslav ZASENKO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255174191?s=72&u=290ee3cd4042d66539f51fac81761369d2c5afb3&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 140,
-    "createdAt": "2026-01-15T17:23:10Z"
-  },
-  {
     "login": "SenatorSofiia",
     "name": "Sofiia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/257802405?s=72&v=4",
@@ -1033,19 +1021,19 @@
   },
   {
     "login": "Glunomes",
-    "name": "nuincq",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283442264?s=72&v=4",
-    "location": "Ukraine",
+    "name": "Ivan Yarovyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283442264?s=72&u=51f985bd5235d97821db919f7497e85f3405ab13&v=4",
+    "location": "Poltava, Ukraine",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
+    "privateContributions": 52,
+    "publicContributions": 131,
     "createdAt": "2026-05-10T17:05:35Z"
   },
   {
     "login": "AndrewSolara6",
-    "name": "Andrew Kytsan",
+    "name": "Andrew K",
     "avatarUrl": "https://avatars.githubusercontent.com/u/259289714?s=72&v=4",
     "location": "Ukraine",
     "company": "SpaceDinosaurus",
@@ -1076,7 +1064,7 @@
     "twitterUsername": "_man1k_",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 234,
+    "publicContributions": 248,
     "createdAt": "2026-01-18T01:53:02Z"
   },
   {
@@ -1112,7 +1100,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 263,
+    "publicContributions": 317,
     "createdAt": "2026-04-23T16:42:20Z"
   },
   {

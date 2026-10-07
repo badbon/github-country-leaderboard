@@ -930,9 +930,9 @@
     "location": "Abidjan, Côte d'Ivoire",
     "company": "Abeille Carriere",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2023-05-24T13:26:10Z"
   },
   {
@@ -943,7 +943,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
+    "privateContributions": 70,
     "publicContributions": 5,
     "createdAt": "2023-10-18T16:33:53Z"
   },
@@ -956,7 +956,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 212,
+    "publicContributions": 236,
     "createdAt": "2023-04-19T10:27:09Z"
   },
   {
@@ -980,7 +980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 89,
     "createdAt": "2023-03-18T16:23:08Z"
   },
   {
@@ -1064,7 +1064,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2023-03-13T03:12:41Z"
   },
   {
@@ -1076,7 +1076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 47,
     "createdAt": "2023-04-05T12:44:11Z"
   },
   {
@@ -1110,7 +1110,7 @@
     "location": "Ivory Coast",
     "company": "",
     "twitterUsername": "ShadracBodjui",
-    "followers": 68,
+    "followers": 61,
     "privateContributions": 0,
     "publicContributions": 68,
     "createdAt": "2023-06-13T15:55:34Z"
@@ -1138,18 +1138,6 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2023-03-30T13:11:08Z"
-  },
-  {
-    "login": "zoyahammad",
-    "name": "Zoya Hammad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134557773?s=72&v=4",
-    "location": "Abidjan, Ivory Coast",
-    "company": "ICSA",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-05-24T21:56:35Z"
   },
   {
     "login": "Marningstar-Diaries",

@@ -1148,20 +1148,8 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 102,
     "createdAt": "2025-08-29T12:58:14Z"
-  },
-  {
-    "login": "FIDSbyte",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/220796610?s=72&u=5a8536966f6785c3653cdc14d9931ad073161236&v=4",
-    "location": "Denmark",
-    "company": "",
-    "twitterUsername": "FIDSbyte",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2025-07-14T22:03:05Z"
   },
   {
     "login": "QRDevelopment",
@@ -1170,7 +1158,7 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-03T07:12:03Z"
@@ -1178,13 +1166,13 @@
   {
     "login": "NajaLangePedersen",
     "name": "Naja Lange Pedersen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230893993?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/230893993?s=72&u=8f3dae0d08d61470ec7f4b76d09c60759823fc62&v=4",
     "location": "Denmark",
-    "company": "EASV",
+    "company": "SEA",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 243,
     "createdAt": "2025-09-07T18:54:59Z"
   },
   {
@@ -1194,9 +1182,9 @@
     "location": "Copenhagen, Denmark",
     "company": "@crabnebula-dev ",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 63,
     "createdAt": "2025-10-01T18:36:57Z"
   },
   {
@@ -1208,7 +1196,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 385,
+    "publicContributions": 319,
     "createdAt": "2025-01-17T08:24:06Z"
   },
   {
@@ -1219,8 +1207,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 84,
+    "privateContributions": 749,
+    "publicContributions": 93,
     "createdAt": "2025-11-18T13:13:53Z"
   },
   {
@@ -1230,9 +1218,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 186,
+    "publicContributions": 317,
     "createdAt": "2025-08-28T07:16:15Z"
   },
   {
@@ -1266,7 +1254,7 @@
     "location": "Denmark",
     "company": "looking for",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 453,
     "createdAt": "2025-10-07T08:57:00Z"
@@ -1278,9 +1266,9 @@
     "location": "Denmark",
     "company": "The Lego Group",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 202,
+    "publicContributions": 180,
     "createdAt": "2025-09-24T15:26:10Z"
   },
   {
@@ -1290,9 +1278,9 @@
     "location": "Denmark",
     "company": "HackYourFuture-CPH Trainee",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 199,
+    "publicContributions": 201,
     "createdAt": "2025-04-07T14:24:33Z"
   },
   {
@@ -1302,9 +1290,9 @@
     "location": "Denmark",
     "company": "Ellypsis",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 264,
-    "publicContributions": 63,
+    "followers": 3,
+    "privateContributions": 1108,
+    "publicContributions": 51,
     "createdAt": "2025-07-25T17:09:47Z"
   },
   {
@@ -1327,8 +1315,8 @@
     "company": "Dreamplan.io",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 253,
-    "publicContributions": 97,
+    "privateContributions": 348,
+    "publicContributions": 124,
     "createdAt": "2025-01-05T14:04:08Z"
   },
   {
@@ -1340,7 +1328,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 1,
     "createdAt": "2025-07-09T11:20:29Z"
   },
   {
@@ -1352,7 +1340,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 262,
+    "publicContributions": 186,
     "createdAt": "2025-05-14T13:43:22Z"
   },
   {
@@ -1362,9 +1350,9 @@
     "location": "denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 82,
     "createdAt": "2025-09-23T09:50:07Z"
   },
   {
@@ -1376,7 +1364,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 274,
+    "publicContributions": 319,
     "createdAt": "2025-09-05T06:46:03Z"
   },
   {

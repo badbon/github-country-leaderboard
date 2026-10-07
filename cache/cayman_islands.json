@@ -1171,7 +1171,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 98,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2013-04-21T16:19:32Z"
   },
@@ -1182,9 +1182,9 @@
     "location": "🇰🇾 Cayman Islands",
     "company": "",
     "twitterUsername": "",
-    "followers": 75,
-    "privateContributions": 3174,
-    "publicContributions": 317,
+    "followers": 73,
+    "privateContributions": 3363,
+    "publicContributions": 321,
     "createdAt": "2013-04-10T10:20:28Z"
   },
   {
@@ -1196,7 +1196,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 344,
+    "publicContributions": 355,
     "createdAt": "2013-09-25T01:14:05Z"
   },
   {
@@ -1207,20 +1207,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 1291,
+    "privateContributions": 1596,
     "publicContributions": 0,
     "createdAt": "2013-03-20T13:10:08Z"
   },
   {
     "login": "dcimring",
     "name": "Daniel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3776891?s=72&u=68fa994cf17ddcd5606e16e6e4994d656aeda470&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3776891?s=72&u=3cf13a3a65509ff69af5b1bcc5c976837472ad83&v=4",
     "location": "Cayman Islands",
-    "company": "BlackHatMedia",
+    "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 0,
-    "publicContributions": 1004,
+    "privateContributions": 1979,
+    "publicContributions": 1050,
     "createdAt": "2013-03-05T14:23:39Z"
   },
   {
@@ -1242,8 +1242,8 @@
     "location": "Cayman Islands",
     "company": "GoDaddy",
     "twitterUsername": "difelicea",
-    "followers": 5,
-    "privateContributions": 302,
+    "followers": 4,
+    "privateContributions": 359,
     "publicContributions": 4,
     "createdAt": "2013-01-02T14:32:22Z"
   },
@@ -1256,7 +1256,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2013-03-18T14:03:41Z"
   },
   {
@@ -1267,8 +1267,8 @@
     "company": "IoFinnet",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2677,
-    "publicContributions": 1301,
+    "privateContributions": 3263,
+    "publicContributions": 1577,
     "createdAt": "2013-02-23T16:22:59Z"
   },
   {
@@ -1292,7 +1292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 12,
     "createdAt": "2013-12-12T14:58:18Z"
   },
   {
@@ -1302,9 +1302,9 @@
     "location": "Cayman Islands",
     "company": "",
     "twitterUsername": "garthhumphreys",
-    "followers": 18,
-    "privateContributions": 211,
-    "publicContributions": 1,
+    "followers": 21,
+    "privateContributions": 98,
+    "publicContributions": 2,
     "createdAt": "2012-03-30T12:57:31Z"
   },
   {
@@ -1316,7 +1316,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 466,
+    "publicContributions": 462,
     "createdAt": "2012-03-29T19:09:10Z"
   },
   {
@@ -1352,7 +1352,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 18,
     "createdAt": "2012-12-06T21:30:01Z"
   },
   {
@@ -1364,7 +1364,7 @@
     "twitterUsername": "",
     "followers": 38,
     "privateContributions": 0,
-    "publicContributions": 947,
+    "publicContributions": 1099,
     "createdAt": "2011-11-11T15:15:52Z"
   },
   {
@@ -1374,8 +1374,8 @@
     "location": "Cayman Islands",
     "company": "@Slice",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 771,
+    "followers": 20,
+    "privateContributions": 676,
     "publicContributions": 0,
     "createdAt": "2011-02-01T15:16:39Z"
   },
@@ -1386,8 +1386,8 @@
     "location": "Cayman Islands",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 428,
+    "followers": 11,
+    "privateContributions": 665,
     "publicContributions": 2,
     "createdAt": "2011-02-02T22:44:30Z"
   },

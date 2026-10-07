@@ -1208,7 +1208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 15,
     "createdAt": "2026-03-09T12:13:36Z"
   },
   {
@@ -1218,7 +1218,7 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2026-01-15T15:19:11Z"
@@ -1262,13 +1262,13 @@
   {
     "login": "j0krat",
     "name": "Joaquín",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267166753?s=72&u=b9c87cb4ff878f4428d071569d1fb921dc1aec7a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267166753?s=72&u=7b150f2f82d7eb4b12cd56fb20a4016bd74f8f9c&v=4",
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 16,
     "createdAt": "2026-03-10T21:35:27Z"
   },
   {
@@ -1284,18 +1284,6 @@
     "createdAt": "2026-05-06T21:19:42Z"
   },
   {
-    "login": "andreina-data",
-    "name": "Andreina | BI Analyst",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281070604?s=72&u=78e1fcf8fe8d8574357ee0f8af7d39a81e0d1b9b&v=4",
-    "location": "Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 35,
-    "createdAt": "2026-05-02T00:15:52Z"
-  },
-  {
     "login": "rodrigoalegrealay",
     "name": "Rodrigo Alegre Alay",
     "avatarUrl": "https://avatars.githubusercontent.com/u/283886322?s=72&u=746fed0eba7e2ed42a3d1b3cc90165a59b945e4f&v=4",
@@ -1309,14 +1297,14 @@
   },
   {
     "login": "danielisaacdev",
-    "name": "",
+    "name": "Daniel Elgueta",
     "avatarUrl": "https://avatars.githubusercontent.com/u/254784116?s=72&u=ba56c7702a74f669fbf32d13650dab7b5e8def64&v=4",
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 44,
     "createdAt": "2026-01-13T22:23:49Z"
   },
   {
@@ -1376,20 +1364,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 89,
     "createdAt": "2026-01-08T13:23:55Z"
-  },
-  {
-    "login": "NicolasOnell",
-    "name": "Nicolás",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253150151?s=72&v=4",
-    "location": "Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2026-01-05T21:18:49Z"
   },
   {
     "login": "omarhenri-alt",
@@ -1412,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 71,
     "createdAt": "2026-03-13T14:46:45Z"
   },
   {

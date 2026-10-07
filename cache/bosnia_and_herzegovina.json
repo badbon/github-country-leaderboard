@@ -954,9 +954,9 @@
     "location": "Sarajevo, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 76,
     "createdAt": "2024-11-17T19:49:51Z"
   },
   {
@@ -966,7 +966,7 @@
     "location": "Bosnia and Herzegovina, Mostar",
     "company": "Detth Digital",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-10T00:19:41Z"
@@ -986,19 +986,19 @@
   {
     "login": "nokeeb",
     "name": "Kenan Baralić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/164527937?s=72&u=64821c0b98dcaf08434d1a48af8b86954a12f103&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164527937?s=72&v=4",
     "location": "Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
-    "publicContributions": 277,
+    "privateContributions": 0,
+    "publicContributions": 289,
     "createdAt": "2024-03-22T15:06:31Z"
   },
   {
     "login": "nvatric",
     "name": "Nejra Vatrić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185922742?s=72&u=cb9eb5df1df4e80c351e52e7690bc277ade1a2f3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185922742?s=72&u=29570b5bc841a8ff06002fdf2e47d7f14868b017&v=4",
     "location": "Sarajevo, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
@@ -1040,7 +1040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 180,
     "createdAt": "2024-03-17T12:51:47Z"
   },
   {
@@ -1088,7 +1088,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 120,
     "createdAt": "2024-03-03T17:18:26Z"
   },
   {
@@ -1100,7 +1100,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 4,
-    "publicContributions": 69,
+    "publicContributions": 83,
     "createdAt": "2024-03-06T17:22:55Z"
   },
   {
@@ -1116,27 +1116,15 @@
     "createdAt": "2024-06-04T16:09:58Z"
   },
   {
-    "login": "radedrmic",
-    "name": "Rade Drmić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170411425?s=72&u=2dc1ee75d3d5331ea8d819a60cd6a4f6be9c8399&v=4",
-    "location": "Bosnia and Herzegovina",
-    "company": "Intellexi",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 149,
-    "publicContributions": 0,
-    "createdAt": "2024-05-21T08:59:48Z"
-  },
-  {
     "login": "muratovicnijaz",
     "name": "Nijaz Muratović",
     "avatarUrl": "https://avatars.githubusercontent.com/u/165275427?s=72&v=4",
     "location": "Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2024-03-28T11:12:16Z"
   },
   {
@@ -1148,7 +1136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 291,
+    "publicContributions": 289,
     "createdAt": "2024-10-11T08:57:10Z"
   },
   {
@@ -1160,7 +1148,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 28,
     "createdAt": "2024-12-06T20:36:53Z"
   },
   {

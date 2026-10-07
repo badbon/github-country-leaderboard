@@ -930,7 +930,7 @@
     "location": "Cochabamba, Bolivia ",
     "company": "ByteBot",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-15T10:19:45Z"
@@ -942,9 +942,9 @@
     "location": "Bolivia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 53,
-    "publicContributions": 283,
+    "followers": 13,
+    "privateContributions": 78,
+    "publicContributions": 272,
     "createdAt": "2024-11-10T15:14:23Z"
   },
   {
@@ -955,8 +955,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 276,
-    "publicContributions": 570,
+    "privateContributions": 87,
+    "publicContributions": 482,
     "createdAt": "2024-03-04T16:39:02Z"
   },
   {
@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 168,
-    "publicContributions": 356,
+    "publicContributions": 283,
     "createdAt": "2024-05-24T05:53:19Z"
   },
   {
@@ -978,9 +978,9 @@
     "location": "Cochabamba/Bolivia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 24,
-    "publicContributions": 72,
+    "publicContributions": 68,
     "createdAt": "2024-09-15T14:32:20Z"
   },
   {
@@ -992,7 +992,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 96,
     "createdAt": "2024-11-23T08:56:19Z"
   },
   {
@@ -1003,8 +1003,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 4,
-    "publicContributions": 100,
+    "privateContributions": 11,
+    "publicContributions": 75,
     "createdAt": "2024-02-07T01:22:31Z"
   },
   {
@@ -1016,7 +1016,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 87,
     "createdAt": "2024-07-29T21:30:06Z"
   },
   {
@@ -1026,9 +1026,9 @@
     "location": "Santa Cruz, Bolivia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 72,
     "createdAt": "2024-04-18T00:04:24Z"
   },
   {
@@ -1040,7 +1040,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 64,
     "createdAt": "2024-04-09T03:58:21Z"
   },
   {
@@ -1051,8 +1051,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 6,
-    "publicContributions": 507,
+    "privateContributions": 14,
+    "publicContributions": 463,
     "createdAt": "2024-03-22T02:39:00Z"
   },
   {
@@ -1064,7 +1064,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 30,
     "createdAt": "2024-08-16T12:34:34Z"
   },
   {
@@ -1076,20 +1076,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 29,
     "createdAt": "2024-04-24T15:19:02Z"
-  },
-  {
-    "login": "SebasKoria",
-    "name": "Sebastian Koria",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/177357873?s=72&u=f6134e527dd95c5c5e07db924b2a3d81caf25f1c&v=4",
-    "location": "Bolivia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 42,
-    "createdAt": "2024-08-02T19:20:56Z"
   },
   {
     "login": "Leo-garnica",
@@ -1099,8 +1087,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 33,
+    "privateContributions": 6,
+    "publicContributions": 79,
     "createdAt": "2024-08-04T00:19:07Z"
   },
   {
@@ -1112,7 +1100,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 36,
     "createdAt": "2024-09-13T03:34:28Z"
   },
   {
@@ -1122,7 +1110,7 @@
     "location": "Bolivia 🇧🇴",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2024-09-21T14:24:52Z"
@@ -1135,7 +1123,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 33,
+    "privateContributions": 1158,
     "publicContributions": 161,
     "createdAt": "2024-10-30T15:16:18Z"
   },
@@ -1159,7 +1147,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 612,
+    "privateContributions": 651,
     "publicContributions": 26,
     "createdAt": "2024-09-18T15:14:55Z"
   },

@@ -1196,7 +1196,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-03-13T17:34:24Z"
   },
   {
@@ -1206,7 +1206,7 @@
     "location": "Praia de Pipa - Tibau do Sul - RN",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-21T13:45:42Z"
@@ -1220,7 +1220,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 146,
+    "publicContributions": 160,
     "createdAt": "2023-02-26T02:49:37Z"
   },
   {
@@ -1230,7 +1230,7 @@
     "location": "Praia Grande - SP",
     "company": "Prefeitura de Praia Grande",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2023-02-08T14:17:03Z"
@@ -1256,7 +1256,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 17,
     "createdAt": "2023-10-13T23:11:53Z"
   },
   {
@@ -1266,7 +1266,7 @@
     "location": "Praia Grande",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-22T16:59:01Z"
@@ -1278,7 +1278,7 @@
     "location": "Praia Grande - SP",
     "company": "",
     "twitterUsername": "FelipeLonghini",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-16T21:15:31Z"
@@ -1292,7 +1292,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 5,
     "createdAt": "2023-10-25T01:18:14Z"
   },
   {
@@ -1314,7 +1314,7 @@
     "location": "praia grande - sp",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-02-09T23:01:24Z"
@@ -1322,13 +1322,13 @@
   {
     "login": "D0UGH5",
     "name": "Murilo Furtado",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145861758?s=72&u=5bb479d00166320f30b2b24bba3047962b99eeb5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145861758?s=72&u=9e77cfbde556337f4cf59413eb115293884efed3&v=4",
     "location": "Praia Grande - SP",
     "company": "Grupo GPS",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 41,
     "createdAt": "2023-09-23T16:30:32Z"
   },
   {
@@ -1338,9 +1338,9 @@
     "location": "Praia Grande - SP",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 115,
-    "publicContributions": 87,
+    "followers": 7,
+    "privateContributions": 5,
+    "publicContributions": 59,
     "createdAt": "2023-11-09T17:12:35Z"
   },
   {
@@ -1362,7 +1362,7 @@
     "location": "Praia Grande/SP",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-21T15:05:59Z"
@@ -1412,7 +1412,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 7,
     "createdAt": "2023-12-11T00:16:33Z"
   },
   {

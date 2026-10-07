@@ -1196,7 +1196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 0,
     "createdAt": "2024-08-29T23:35:34Z"
   },
   {
@@ -1206,9 +1206,9 @@
     "location": "Tegucigalpa",
     "company": "UTH",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 45,
     "createdAt": "2024-03-22T06:04:54Z"
   },
   {
@@ -1232,7 +1232,7 @@
     "twitterUsername": "_flyght7",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 33,
     "createdAt": "2024-08-26T01:32:20Z"
   },
   {
@@ -1244,7 +1244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 101,
     "createdAt": "2024-12-05T18:27:25Z"
   },
   {
@@ -1254,21 +1254,21 @@
     "location": "Honduras",
     "company": "SODISA",
     "twitterUsername": "cirias_",
-    "followers": 39,
+    "followers": 36,
     "privateContributions": 7,
-    "publicContributions": 785,
+    "publicContributions": 701,
     "createdAt": "2023-03-30T02:12:57Z"
   },
   {
     "login": "williamstevencole",
     "name": "William Steven Cole Paz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/141452595?s=72&u=086936449c548918523143acee57ae26e886c685&v=4",
-    "location": "Honduras, Cortes",
+    "location": "San Pedro Sula, Cortes, Honduras",
     "company": "Universidad Tecnologica Centroamericana",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 2791,
-    "publicContributions": 874,
+    "followers": 22,
+    "privateContributions": 3537,
+    "publicContributions": 877,
     "createdAt": "2023-08-04T19:41:06Z"
   },
   {
@@ -1278,22 +1278,10 @@
     "location": "Tegucigalpa, Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 504,
+    "followers": 21,
+    "privateContributions": 204,
     "publicContributions": 199,
     "createdAt": "2023-03-27T16:02:42Z"
-  },
-  {
-    "login": "DavidZelaya12",
-    "name": "David Zelaya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124185609?s=72&u=b5e512c88d295b81dcaa5aa9bb9690b30de6fdec&v=4",
-    "location": "Honduras",
-    "company": "Unitec",
-    "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 0,
-    "publicContributions": 191,
-    "createdAt": "2023-02-01T16:34:44Z"
   },
   {
     "login": "AltaciosTheDev",
@@ -1303,8 +1291,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 492,
-    "publicContributions": 49,
+    "privateContributions": 385,
+    "publicContributions": 43,
     "createdAt": "2023-05-14T06:59:24Z"
   },
   {
@@ -1316,7 +1304,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 60,
     "createdAt": "2023-08-29T04:33:27Z"
   },
   {
@@ -1327,7 +1315,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 188,
+    "privateContributions": 834,
     "publicContributions": 4,
     "createdAt": "2023-04-11T18:49:14Z"
   },
@@ -1339,20 +1327,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 3077,
+    "privateContributions": 3006,
     "publicContributions": 14,
     "createdAt": "2023-09-12T01:18:11Z"
   },
   {
     "login": "EJaredMejia",
     "name": "Jared Mejia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/131280112?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131280112?s=72&u=dccb045abe8299c059125dd094af9f0c23684df7&v=4",
     "location": "Honduras",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 269,
-    "publicContributions": 88,
+    "privateContributions": 150,
+    "publicContributions": 109,
     "createdAt": "2023-04-19T14:54:37Z"
   },
   {
@@ -1362,9 +1350,9 @@
     "location": "Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1142,
-    "publicContributions": 63,
+    "followers": 8,
+    "privateContributions": 1100,
+    "publicContributions": 68,
     "createdAt": "2023-03-27T07:02:12Z"
   },
   {
@@ -1375,8 +1363,8 @@
     "company": "UNITEC",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 108,
-    "publicContributions": 194,
+    "privateContributions": 229,
+    "publicContributions": 179,
     "createdAt": "2023-04-17T19:41:01Z"
   },
   {
@@ -1386,9 +1374,9 @@
     "location": "Honduras",
     "company": "VF & Co.",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 7113,
-    "publicContributions": 1,
+    "followers": 8,
+    "privateContributions": 11746,
+    "publicContributions": 2,
     "createdAt": "2023-12-15T01:16:45Z"
   },
   {
@@ -1400,19 +1388,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 47,
     "createdAt": "2023-09-08T22:18:43Z"
   },
   {
     "login": "INDIGOAZUL",
-    "name": "Ebanks",
+    "name": "Narjell Ebanks",
     "avatarUrl": "https://avatars.githubusercontent.com/u/126212617?s=72&v=4",
     "location": "Honduras",
-    "company": "Ray-Banks",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1101,
-    "publicContributions": 469,
+    "company": "La Tanda",
+    "twitterUsername": "MrtEbanks",
+    "followers": 6,
+    "privateContributions": 1707,
+    "publicContributions": 490,
     "createdAt": "2023-02-24T00:31:32Z"
   },
   {
@@ -1422,9 +1410,9 @@
     "location": "Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 690,
-    "publicContributions": 456,
+    "followers": 7,
+    "privateContributions": 781,
+    "publicContributions": 317,
     "createdAt": "2023-12-19T16:36:44Z"
   },
   {

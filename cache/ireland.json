@@ -1172,7 +1172,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 15,
     "createdAt": "2026-02-21T14:20:43Z"
   },
   {
@@ -1190,13 +1190,13 @@
   {
     "login": "liamh2323",
     "name": "Liam Hayes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253376835?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253376835?s=72&u=29d6d851572c5a5e1383c40e838adc59340e4c6e&v=4",
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 26,
-    "publicContributions": 73,
+    "privateContributions": 50,
+    "publicContributions": 119,
     "createdAt": "2026-01-06T21:51:35Z"
   },
   {
@@ -1208,7 +1208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 22,
     "createdAt": "2026-02-24T21:02:54Z"
   },
   {
@@ -1232,7 +1232,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 104,
     "createdAt": "2025-02-03T04:20:51Z"
   },
   {
@@ -1254,9 +1254,9 @@
     "location": "Ireland",
     "company": "Independent developer",
     "twitterUsername": "xcontcom",
-    "followers": 9375,
-    "privateContributions": 160,
-    "publicContributions": 150,
+    "followers": 12770,
+    "privateContributions": 692,
+    "publicContributions": 149,
     "createdAt": "2025-04-28T21:25:43Z"
   },
   {
@@ -1266,9 +1266,9 @@
     "location": "Ireland",
     "company": "Dublin City University",
     "twitterUsername": "",
-    "followers": 122,
-    "privateContributions": 121,
-    "publicContributions": 208,
+    "followers": 119,
+    "privateContributions": 227,
+    "publicContributions": 113,
     "createdAt": "2025-02-12T19:14:04Z"
   },
   {
@@ -1278,9 +1278,9 @@
     "location": "Ireland",
     "company": "BosonWare Technologies",
     "twitterUsername": "",
-    "followers": 79,
-    "privateContributions": 54,
-    "publicContributions": 10,
+    "followers": 69,
+    "privateContributions": 48,
+    "publicContributions": 5,
     "createdAt": "2025-05-06T01:47:34Z"
   },
   {
@@ -1290,7 +1290,7 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 26,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-05T19:09:07Z"
@@ -1303,8 +1303,8 @@
     "company": "ISE - University of Limerick",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 977,
-    "publicContributions": 841,
+    "privateContributions": 1350,
+    "publicContributions": 1322,
     "createdAt": "2025-09-09T09:53:21Z"
   },
   {
@@ -1314,22 +1314,10 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 612,
-    "publicContributions": 223,
+    "followers": 21,
+    "privateContributions": 341,
+    "publicContributions": 204,
     "createdAt": "2025-07-04T22:36:43Z"
-  },
-  {
-    "login": "jelenastricak",
-    "name": "Jelena Stricak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204414854?s=72&u=a8eab03ddbb94b5e9be00a51f7f395921fb65c2a&v=4",
-    "location": "Ireland",
-    "company": "@herodot-hr , @RaptorLabs-AI , @Cyberlink-Security ,  @Sol-Mint SolMint",
-    "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 1823,
-    "publicContributions": 94,
-    "createdAt": "2025-03-21T23:46:21Z"
   },
   {
     "login": "AbelAtares",
@@ -1338,7 +1326,7 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 119,
     "createdAt": "2025-12-17T15:13:56Z"
@@ -1350,9 +1338,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 5,
-    "publicContributions": 191,
+    "publicContributions": 139,
     "createdAt": "2025-07-31T16:22:46Z"
   },
   {
@@ -1362,22 +1350,10 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2025-03-01T08:20:48Z"
-  },
-  {
-    "login": "heartfiliaastar",
-    "name": "SOLL!",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/214907078?s=72&u=c689ded9bdf0630323a3c6bf2db3164cf4c68dd2&v=4",
-    "location": "ireland ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
-    "createdAt": "2025-06-04T22:05:02Z"
+    "createdAt": "2025-03-01T08:20:48Z"
   },
   {
     "login": "sabhyata1402",
@@ -1386,9 +1362,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 76,
     "createdAt": "2025-09-13T10:58:24Z"
   },
   {
@@ -1398,9 +1374,9 @@
     "location": "Ireland",
     "company": "Student ",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 19,
     "createdAt": "2025-04-12T17:55:04Z"
   },
   {

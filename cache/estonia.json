@@ -1195,7 +1195,7 @@
     "company": "SPIKARD",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1385,
+    "privateContributions": 1555,
     "publicContributions": 0,
     "createdAt": "2025-03-26T21:47:38Z"
   },
@@ -1208,7 +1208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 46,
     "createdAt": "2025-11-22T12:43:52Z"
   },
   {
@@ -1230,9 +1230,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 86,
     "createdAt": "2025-09-24T05:46:11Z"
   },
   {
@@ -1244,7 +1244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 114,
     "createdAt": "2025-09-22T07:31:51Z"
   },
   {
@@ -1268,20 +1268,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 109,
     "createdAt": "2025-01-24T07:40:40Z"
-  },
-  {
-    "login": "Karlx73",
-    "name": "Karl",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/249489097?s=72&u=9803dc4a0d3b234d1356ee7e421633878e304cf3&v=4",
-    "location": "Estonia",
-    "company": "@NIINIX0",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2025-12-13T19:09:00Z"
   },
   {
     "login": "JamieCross22",
@@ -1302,9 +1290,9 @@
     "location": "Tallinn",
     "company": "@bywhrlbe",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 451,
-    "publicContributions": 11,
+    "followers": 6,
+    "privateContributions": 604,
+    "publicContributions": 12,
     "createdAt": "2025-07-23T12:17:19Z"
   },
   {
@@ -1315,8 +1303,8 @@
     "company": "TLU",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2,
-    "publicContributions": 155,
+    "privateContributions": 12,
+    "publicContributions": 144,
     "createdAt": "2025-09-23T07:37:05Z"
   },
   {
@@ -1364,7 +1352,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 11,
     "createdAt": "2025-09-23T07:36:41Z"
   },
   {
@@ -1376,7 +1364,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 9,
     "createdAt": "2025-09-23T07:36:52Z"
   },
   {
@@ -1387,7 +1375,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 901,
+    "privateContributions": 845,
     "publicContributions": 0,
     "createdAt": "2025-04-03T13:21:05Z"
   },
@@ -1400,20 +1388,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2025-09-23T07:38:21Z"
-  },
-  {
-    "login": "Abhishek-Tallinn",
-    "name": "Abhishek Choudhary",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/199507295?s=72&u=1453fe3776f0a984494c46fd02c58b3402a96de4&v=4",
-    "location": "Tallinn",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 437,
-    "createdAt": "2025-02-16T17:29:23Z"
   },
   {
     "login": "DmytroHilei",

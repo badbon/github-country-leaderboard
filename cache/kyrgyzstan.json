@@ -980,7 +980,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 118,
     "createdAt": "2025-10-16T04:12:19Z"
   },
   {
@@ -990,9 +990,9 @@
     "location": "Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 155,
     "createdAt": "2025-05-15T09:09:51Z"
   },
   {
@@ -1004,7 +1004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 89,
     "createdAt": "2025-03-08T06:16:29Z"
   },
   {
@@ -1016,7 +1016,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 13,
     "createdAt": "2025-06-01T22:51:53Z"
   },
   {
@@ -1027,7 +1027,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 135,
+    "privateContributions": 122,
     "publicContributions": 27,
     "createdAt": "2025-04-10T07:37:47Z"
   },
@@ -1048,11 +1048,11 @@
     "name": "Beka",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193779372?s=72&u=108158c5173b218a233a5f6d345467529a1da478&v=4",
     "location": "Bishkek",
-    "company": "",
+    "company": "Motion community",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 270,
+    "followers": 2,
+    "privateContributions": 88,
+    "publicContributions": 150,
     "createdAt": "2025-01-05T08:25:04Z"
   },
   {
@@ -1075,20 +1075,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
-    "publicContributions": 105,
+    "privateContributions": 4,
+    "publicContributions": 66,
     "createdAt": "2025-04-22T08:29:18Z"
   },
   {
     "login": "5ekastanx",
     "name": "bekastan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/177409030?s=72&u=6f87d413c2713151f7c925c9a948b987c8f1c148&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177409030?s=72&u=45a615d814ae501860398b4885f1aa31a5823021&v=4",
     "location": "Osh | Kyrgyzstan",
     "company": "Geeks ",
     "twitterUsername": "",
-    "followers": 111,
+    "followers": 106,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 14,
     "createdAt": "2024-08-03T14:30:34Z"
   },
   {
@@ -1098,9 +1098,9 @@
     "location": "Kyrgyzstan",
     "company": "@aitsolutions",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 4596,
-    "publicContributions": 106,
+    "followers": 20,
+    "privateContributions": 4843,
+    "publicContributions": 243,
     "createdAt": "2024-06-29T15:27:02Z"
   },
   {
@@ -1110,9 +1110,9 @@
     "location": "Bishkek , Kyrgyzstan",
     "company": "Peaksoft House",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 38,
-    "publicContributions": 28,
+    "followers": 21,
+    "privateContributions": 32,
+    "publicContributions": 18,
     "createdAt": "2024-10-24T05:15:48Z"
   },
   {
@@ -1123,8 +1123,8 @@
     "company": "ourerasoft",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 478,
-    "publicContributions": 257,
+    "privateContributions": 584,
+    "publicContributions": 258,
     "createdAt": "2024-01-21T13:13:34Z"
   },
   {
@@ -1134,8 +1134,8 @@
     "location": "Kyrgyzstan, Bishkek",
     "company": "AIT Solutions - BidMyAuto",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 2881,
+    "followers": 18,
+    "privateContributions": 2935,
     "publicContributions": 20,
     "createdAt": "2024-10-23T15:10:03Z"
   },
@@ -1158,9 +1158,9 @@
     "location": "Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 523,
-    "publicContributions": 39,
+    "followers": 18,
+    "privateContributions": 277,
+    "publicContributions": 40,
     "createdAt": "2024-12-12T03:45:42Z"
   },
   {
@@ -1170,9 +1170,9 @@
     "location": "Kyrgyzstan",
     "company": "AIT Solutions",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 2212,
-    "publicContributions": 178,
+    "followers": 18,
+    "privateContributions": 2151,
+    "publicContributions": 190,
     "createdAt": "2024-10-09T04:12:29Z"
   },
   {

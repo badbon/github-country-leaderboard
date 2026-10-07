@@ -1160,7 +1160,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 29,
     "createdAt": "2025-08-29T11:58:35Z"
   },
   {
@@ -1172,7 +1172,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2025-01-28T10:38:49Z"
   },
   {
@@ -1182,9 +1182,9 @@
     "location": "Lebanon - Beirut",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 251,
     "createdAt": "2025-01-07T11:38:52Z"
   },
   {
@@ -1196,7 +1196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 93,
     "createdAt": "2025-02-05T15:15:21Z"
   },
   {
@@ -1243,8 +1243,8 @@
     "company": "@IgniteTech",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
+    "privateContributions": 816,
+    "publicContributions": 0,
     "createdAt": "2025-09-03T11:06:53Z"
   },
   {
@@ -1268,7 +1268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 6,
     "createdAt": "2025-08-20T15:44:44Z"
   },
   {
@@ -1340,7 +1340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 94,
     "createdAt": "2025-06-05T12:53:23Z"
   },
   {
@@ -1376,20 +1376,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 149,
+    "publicContributions": 215,
     "createdAt": "2025-10-23T16:24:33Z"
-  },
-  {
-    "login": "ziadJreij",
-    "name": "ziad Jreij",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/221104595?s=72&u=59e3e762525a8709d0c1e92fee336ea1be2bd217&v=4",
-    "location": "Lebanon",
-    "company": "Aspire software",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-07-16T09:33:42Z"
   },
   {
     "login": "ziadnahouli123",

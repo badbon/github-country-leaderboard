@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 27,
     "createdAt": "2022-02-28T08:34:29Z"
   },
   {
@@ -954,9 +954,9 @@
     "location": "Vientiane Capital, Laos",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1583,
-    "publicContributions": 1482,
+    "followers": 8,
+    "privateContributions": 1552,
+    "publicContributions": 1417,
     "createdAt": "2022-03-31T11:17:30Z"
   },
   {
@@ -992,7 +992,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 72,
     "createdAt": "2022-06-08T08:21:00Z"
   },
   {
@@ -1004,7 +1004,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 72,
     "createdAt": "2022-08-18T12:27:46Z"
   },
   {
@@ -1016,7 +1016,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 115,
     "createdAt": "2022-03-16T12:35:40Z"
   },
   {
@@ -1075,8 +1075,8 @@
     "company": "IndochinaBank",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 25,
-    "publicContributions": 147,
+    "privateContributions": 36,
+    "publicContributions": 133,
     "createdAt": "2022-06-30T02:57:10Z"
   },
   {
@@ -1094,13 +1094,13 @@
   {
     "login": "TotoPhandolack",
     "name": "Toto Phandolack",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116442714?s=72&u=294489ffbcbed0b3a35f53446a81236026c7579e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116442714?s=72&u=59238d94ad2e6a64ca8318d6a5902dfe7693b3c9&v=4",
     "location": "Luangprabang, Laos",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 447,
-    "publicContributions": 480,
+    "privateContributions": 1146,
+    "publicContributions": 20,
     "createdAt": "2022-10-22T13:18:54Z"
   },
   {
@@ -1136,7 +1136,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2022-12-02T05:17:48Z"
   },
   {
@@ -1146,9 +1146,9 @@
     "location": "Vientiane, Laos",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 271,
+    "publicContributions": 258,
     "createdAt": "2022-08-14T15:56:22Z"
   },
   {

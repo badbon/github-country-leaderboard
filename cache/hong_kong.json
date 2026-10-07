@@ -1170,9 +1170,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 139,
+    "followers": 133,
     "privateContributions": 0,
-    "publicContributions": 438,
+    "publicContributions": 356,
     "createdAt": "2025-10-01T09:27:20Z"
   },
   {
@@ -1182,9 +1182,9 @@
     "location": "Hong Kong",
     "company": "AI Agent",
     "twitterUsername": "",
-    "followers": 137,
-    "privateContributions": 963,
-    "publicContributions": 132,
+    "followers": 140,
+    "privateContributions": 1340,
+    "publicContributions": 72,
     "createdAt": "2025-01-09T14:40:50Z"
   },
   {
@@ -1194,9 +1194,9 @@
     "location": "Hong kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 106,
+    "followers": 100,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2025-09-10T02:44:37Z"
   },
   {
@@ -1206,21 +1206,21 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 69,
-    "privateContributions": 141,
-    "publicContributions": 286,
+    "followers": 73,
+    "privateContributions": 135,
+    "publicContributions": 296,
     "createdAt": "2025-07-08T05:37:55Z"
   },
   {
     "login": "yi-nuo426",
     "name": "Yī nuò",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/218099172?s=72&u=f4027b8a0b1aa863c0ab2fcfe0b8b92000a73397&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/218099172?s=72&u=2ad13a118d3df58054135394be944348b027b948&v=4",
     "location": "hong kong",
     "company": "@HKUDS",
     "twitterUsername": "yinuocoolio",
-    "followers": 48,
-    "privateContributions": 621,
-    "publicContributions": 1152,
+    "followers": 58,
+    "privateContributions": 681,
+    "publicContributions": 1177,
     "createdAt": "2025-06-26T13:40:11Z"
   },
   {
@@ -1232,7 +1232,7 @@
     "twitterUsername": "",
     "followers": 45,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 11,
     "createdAt": "2025-02-23T02:11:03Z"
   },
   {
@@ -1242,22 +1242,10 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 38,
+    "followers": 52,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 158,
     "createdAt": "2025-07-30T03:46:11Z"
-  },
-  {
-    "login": "zer0ptr",
-    "name": "Hailin Zheng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196273893?s=72&u=ca6f9ee3454c338ee7c310e9dad1d14ceed25d46&v=4",
-    "location": "Hong Kong",
-    "company": "SecureNexusLab",
-    "twitterUsername": "zer0ptr",
-    "followers": 30,
-    "privateContributions": 30,
-    "publicContributions": 419,
-    "createdAt": "2025-01-24T03:05:08Z"
   },
   {
     "login": "JackyLi-HKUST",
@@ -1266,9 +1254,9 @@
     "location": "Clear Water Bay, Hong Kong",
     "company": "Multi-Agent Systems Laboratory, HKUST",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 138,
-    "publicContributions": 105,
+    "followers": 27,
+    "privateContributions": 158,
+    "publicContributions": 109,
     "createdAt": "2025-11-19T11:38:52Z"
   },
   {
@@ -1278,9 +1266,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 51,
     "createdAt": "2025-10-02T08:28:21Z"
   },
   {
@@ -1290,9 +1278,9 @@
     "location": "Hong Kong",
     "company": "Nino IT solution",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 13,
     "createdAt": "2025-02-11T17:45:14Z"
   },
   {
@@ -1302,7 +1290,7 @@
     "location": "Hong Kong",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 23,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2025-01-24T08:02:49Z"
@@ -1314,9 +1302,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 366,
-    "publicContributions": 121,
+    "followers": 16,
+    "privateContributions": 325,
+    "publicContributions": 81,
     "createdAt": "2025-03-03T02:10:05Z"
   },
   {
@@ -1326,9 +1314,9 @@
     "location": "Hong Kong",
     "company": "FSI",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 593,
+    "publicContributions": 806,
     "createdAt": "2025-01-04T14:56:22Z"
   },
   {
@@ -1338,9 +1326,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 3,
-    "publicContributions": 760,
+    "followers": 21,
+    "privateContributions": 4,
+    "publicContributions": 731,
     "createdAt": "2025-05-23T10:05:41Z"
   },
   {
@@ -1350,8 +1338,8 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 176,
+    "followers": 15,
+    "privateContributions": 177,
     "publicContributions": 31,
     "createdAt": "2025-04-17T04:16:58Z"
   },
@@ -1362,9 +1350,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 0,
-    "publicContributions": 151,
+    "followers": 21,
+    "privateContributions": 59,
+    "publicContributions": 610,
     "createdAt": "2025-04-29T05:38:45Z"
   },
   {
@@ -1386,9 +1374,9 @@
     "location": "Hong Kong",
     "company": "Lively Impact",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 157,
     "createdAt": "2025-01-03T03:25:47Z"
   },
   {
@@ -1399,7 +1387,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 2497,
+    "privateContributions": 4155,
     "publicContributions": 27,
     "createdAt": "2025-04-23T08:28:53Z"
   },
@@ -123874,5 +123862,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-16T14:52:20Z"
+  },
+  {
+    "login": "liyuuuu98",
+    "name": "liyuuuu_",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31622768?s=72&u=6f70fb896380e455e7cf883ba64f674cbdc65e45&v=4",
+    "location": "HONG KONG, CHINA",
+    "company": "HKUST",
+    "twitterUsername": "",
+    "followers": 154,
+    "privateContributions": 1017,
+    "publicContributions": 21,
+    "createdAt": "2017-09-04T13:04:43Z"
   }
 ]

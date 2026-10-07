@@ -908,7 +908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 78,
     "createdAt": "2025-03-02T06:03:31Z"
   },
   {
@@ -918,9 +918,9 @@
     "location": "Česko",
     "company": "",
     "twitterUsername": "amthorn73",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1239,
+    "publicContributions": 3657,
     "createdAt": "2025-07-20T11:56:40Z"
   },
   {
@@ -932,7 +932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 11,
     "createdAt": "2025-05-31T12:53:47Z"
   },
   {
@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 234,
+    "publicContributions": 125,
     "createdAt": "2025-07-03T10:36:50Z"
   },
   {
@@ -966,7 +966,7 @@
     "location": "Czech Republic",
     "company": "Shattered Mirror Studio",
     "twitterUsername": "smirrorstudio",
-    "followers": 16,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-12-28T19:22:28Z"
@@ -978,21 +978,21 @@
     "location": "Czech Republic 🇨🇿",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2025-10-24T11:13:01Z"
   },
   {
     "login": "wdopen-nk",
-    "name": "Nihat / Niko",
+    "name": "SNihat",
     "avatarUrl": "https://avatars.githubusercontent.com/u/215000276?s=72&u=93e30504c95152174bb3bd49e9479698342cfc70&v=4",
     "location": "Prague, Czech Republic",
     "company": "Charles University",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 110,
+    "followers": 13,
+    "privateContributions": 72,
+    "publicContributions": 56,
     "createdAt": "2025-06-05T12:21:59Z"
   },
   {
@@ -1002,21 +1002,21 @@
     "location": "Velešín, Czech Republic",
     "company": "Velešín Technical High School of Mechanical and Electrical Engineering",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 25,
     "createdAt": "2025-02-02T17:39:49Z"
   },
   {
     "login": "pavelkalas",
-    "name": "69codeninja69",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232082523?s=72&u=5ec2fee7c3e0618800ceed448f9537fe70df0f31&v=4",
+    "name": "Pavel Kalaš",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232082523?s=72&u=ec04765198c742a9756b88024c140a74b90ab35e&v=4",
     "location": "Czech Republic",
-    "company": "",
+    "company": "Pavel Kalaš™",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 110,
-    "publicContributions": 339,
+    "followers": 15,
+    "privateContributions": 163,
+    "publicContributions": 360,
     "createdAt": "2025-09-13T15:20:51Z"
   },
   {
@@ -1039,8 +1039,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 451,
-    "publicContributions": 156,
+    "privateContributions": 482,
+    "publicContributions": 128,
     "createdAt": "2025-05-06T17:59:50Z"
   },
   {
@@ -1050,21 +1050,21 @@
     "location": "Prague, Czech Republic",
     "company": "Icebitz",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 475,
-    "publicContributions": 373,
+    "followers": 13,
+    "privateContributions": 511,
+    "publicContributions": 369,
     "createdAt": "2025-03-18T17:52:43Z"
   },
   {
     "login": "dan-cech",
     "name": "Daniel Čech",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/202302757?s=72&u=a7f249bab3dfd204b8904f01dec99c33f21f7c16&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202302757?s=72&u=daa71c4984ee0dd8a7ee443f3960cb205affbe8b&v=4",
     "location": "Czech Republic",
     "company": "Unemployed ❤️",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 193,
-    "publicContributions": 91,
+    "privateContributions": 187,
+    "publicContributions": 82,
     "createdAt": "2025-03-07T14:44:24Z"
   },
   {
@@ -1076,7 +1076,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 54,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-11T19:13:09Z"
   },
   {
@@ -1086,21 +1086,21 @@
     "location": "Prague, Czech Republic",
     "company": "Azadox",
     "twitterUsername": "azadlari",
-    "followers": 6,
-    "privateContributions": 324,
-    "publicContributions": 180,
+    "followers": 10,
+    "privateContributions": 342,
+    "publicContributions": 243,
     "createdAt": "2025-08-31T10:23:33Z"
   },
   {
     "login": "akorablov",
-    "name": "Andrei Korablov",
+    "name": "Andrii Korablov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/222180307?s=72&u=20bfbef302cec893cf9cceca8ced3815c70fa6a7&v=4",
     "location": "Prague, Czech Republic",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 40,
-    "publicContributions": 220,
+    "privateContributions": 47,
+    "publicContributions": 160,
     "createdAt": "2025-07-22T07:51:38Z"
   },
   {
@@ -1122,9 +1122,9 @@
     "location": "Czech Republic",
     "company": "eryvia",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 70,
     "createdAt": "2025-09-03T16:06:23Z"
   },
   {
@@ -1134,9 +1134,9 @@
     "location": "Prague, Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 1,
     "createdAt": "2025-03-25T19:35:47Z"
   },
   {
