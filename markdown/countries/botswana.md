@@ -43,9 +43,9 @@ Indexed users: 535
 | 4 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Botswana 🇧🇼  | 1,038 |
 | 5 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb | Botswana  | 994 |
 | 6 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 881 |
-| 7 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 866 |
-| 8 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Gaborone Botswana | 855 |
-| 9 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 843 |
+| 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Gaborone Botswana | 855 |
+| 8 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 843 |
+| 9 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 840 |
 | 10 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 665 |
 | 11 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 617 |
 | 12 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 538 |
@@ -83,4 +83,4 @@ Indexed users: 535
 | 19 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Gaborone, Botswana | 34 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 32 |
 
-Generated: 2026-10-07T07:38:39.748Z
+Generated: 2026-10-07T08:30:30.447Z

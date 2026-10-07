@@ -1,6 +1,6 @@
 # Followers - Guyana
 
-Generated: 2026-10-07T07:53:52.504Z
+Generated: 2026-10-07T08:41:55.607Z
 
 Users: 186
 
@@ -21,8 +21,8 @@ Users: 186
 | 13 | [FusionOpz](https://github.com/FusionOpz) | Matthew Sporich | Renegade Studios |  | Georgetown, ON, CA | 33 |
 | 14 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 30 |
 | 15 | [NathanMLu](https://github.com/NathanMLu) | Nathan Lu |  |  | Georgetown, Texas | 30 |
-| 16 | [ryanrotman](https://github.com/ryanrotman) | Ryan Rotman | YETI |  | Georgetown, TX | 29 |
-| 17 | [ocrram](https://github.com/ocrram) | Marco |  |  | Georgetown, TX | 27 |
+| 16 | [ocrram](https://github.com/ocrram) | Marco |  |  | Georgetown, TX | 30 |
+| 17 | [ryanrotman](https://github.com/ryanrotman) | Ryan Rotman | YETI |  | Georgetown, TX | 29 |
 | 18 | [MichaelATang](https://github.com/MichaelATang) | Michael Tang |  |  | Guyana | 25 |
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | @Cassini-Technologies  | NicholasSeetar2 | South America, Guyana, Georgetown | 24 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney |  |  | Georgetown, CO | 21 |

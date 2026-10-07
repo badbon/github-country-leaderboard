@@ -19,7 +19,7 @@ Indexed users: 315
 | 5 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 1,333 |
 | 6 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 1,280 |
 | 7 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,055 |
-| 8 | [Arthur241g](https://github.com/Arthur241g) | Arthur Crown | GABON | 954 |
+| 8 | [Arthur241g](https://github.com/Arthur241g) | Arthur Crown | GABON | 966 |
 | 9 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 714 |
 | 10 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 616 |
 | 11 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui | Gabon | 574 |
@@ -46,7 +46,7 @@ Indexed users: 315
 | 7 | [glennNTM](https://github.com/glennNTM) | Glenn Ntoutoume | Libreville - Gabon | 343 |
 | 8 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 324 |
 | 9 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 317 |
-| 10 | [nnangassejb10](https://github.com/nnangassejb10) | gloire jb nnang | Gabon  | 294 |
+| 10 | [nnangassejb10](https://github.com/nnangassejb10) | gloire jb nnang | Gabon  | 303 |
 | 11 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 233 |
 | 12 | [DodgeElfry](https://github.com/DodgeElfry) | Dox | Gabon | 229 |
 | 13 | [Lichtensteiner](https://github.com/Lichtensteiner) | Lichtensteiner Stawikowski | Libreville Gabon | 213 |
@@ -83,4 +83,4 @@ Indexed users: 315
 | 19 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | Libreville, Gabon | 26 |
 | 20 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 23 |
 
-Generated: 2026-10-07T07:49:13.315Z
+Generated: 2026-10-07T08:40:09.890Z

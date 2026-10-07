@@ -1,6 +1,6 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-07T07:56:51.555Z
+Generated: 2026-10-07T08:45:44.252Z
 
 Users: 1287
 
@@ -25,4 +25,4 @@ Users: 1287
 | 17 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi |  |  | Kingston Upon Thames | 751 |
 | 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 748 |
 | 19 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket |  | AirpocketRobot | kingston jamaca | 745 |
-| 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious |  | lord_dubious | Kingston, ON | 617 |
+| 20 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade |  |  | Kingston upon thames | 654 |

@@ -1,6 +1,6 @@
 # Cuba
 
-Indexed users: 1,297
+Indexed users: 1,296
 
 | Leaderboard | Link |
 |---|---|
@@ -22,7 +22,7 @@ Indexed users: 1,297
 | 8 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 5,263 |
 | 9 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba | 5,115 |
 | 10 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés | Santa Clara, Cuba. | 5,098 |
-| 11 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 3,997 |
+| 11 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
 | 12 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 3,832 |
 | 13 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,600 |
 | 14 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 3,563 |
@@ -40,7 +40,7 @@ Indexed users: 1,297
 | 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 15,947 |
 | 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 7,193 |
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 5,610 |
-| 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 3,997 |
+| 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,552 |
 | 6 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 2,555 |
 | 7 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 1,727 |
@@ -83,4 +83,4 @@ Indexed users: 1,297
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 69 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 68 |
 
-Generated: 2026-10-07T07:45:15.523Z
+Generated: 2026-10-07T08:36:18.670Z

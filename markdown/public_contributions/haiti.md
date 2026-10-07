@@ -1,8 +1,8 @@
 # Public Contributions - Haiti
 
-Generated: 2026-10-07T07:53:55.931Z
+Generated: 2026-10-07T08:41:59.220Z
 
-Users: 342
+Users: 341
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 342
 | 11 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | Noukat_studios | ritchart | haiti | 235 |
 | 12 | [ventzDev509](https://github.com/ventzDev509) | Marceille Eventz | ventzdev |  | Haiti | 212 |
 | 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 201 |
-| 14 | [eddo4life](https://github.com/eddo4life) | Boaz E.C Theodoris | EddoCommunity | eddo4life | Delmas, Haiti | 183 |
-| 15 | [tolly00](https://github.com/tolly00) | Alberto Sylveus |  |  | Haiti | 176 |
-| 16 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert |  |  | Haiti | 174 |
-| 17 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty |  |  | Haiti | 169 |
-| 18 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Mackandal Technologies |  | Haiti | 158 |
+| 14 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Reves & Voyages |  | Port-Au-Prince | 194 |
+| 15 | [eddo4life](https://github.com/eddo4life) | Boaz E.C Theodoris | EddoCommunity | eddo4life | Delmas, Haiti | 183 |
+| 16 | [tolly00](https://github.com/tolly00) | Alberto Sylveus |  |  | Haiti | 176 |
+| 17 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert |  |  | Haiti | 174 |
+| 18 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty |  |  | Haiti | 169 |
 | 19 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 157 |
-| 20 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Reves & Voyages |  | Port-Au-Prince | 139 |
+| 20 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | BWT |  | Haiti | 143 |

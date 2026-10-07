@@ -1,6 +1,6 @@
 # Bermuda
 
-Indexed users: 916
+Indexed users: 914
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 916
 | 19 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 87 |
 | 20 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | Hamilton | 86 |
 
-Generated: 2026-10-07T07:38:23.155Z
+Generated: 2026-10-07T08:30:14.181Z

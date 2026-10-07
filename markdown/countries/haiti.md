@@ -1,6 +1,6 @@
 # Haiti
 
-Indexed users: 342
+Indexed users: 341
 
 | Leaderboard | Link |
 |---|---|
@@ -18,8 +18,8 @@ Indexed users: 342
 | 4 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,166 |
 | 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,398 |
 | 6 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 2,425 |
-| 7 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,317 |
-| 8 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,035 |
+| 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,354 |
+| 8 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,317 |
 | 9 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 1,817 |
 | 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,782 |
 | 11 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,654 |
@@ -50,13 +50,13 @@ Indexed users: 342
 | 11 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 235 |
 | 12 | [ventzDev509](https://github.com/ventzDev509) | Marceille Eventz | Haiti | 212 |
 | 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 201 |
-| 14 | [eddo4life](https://github.com/eddo4life) | Boaz E.C Theodoris | Delmas, Haiti | 183 |
-| 15 | [tolly00](https://github.com/tolly00) | Alberto Sylveus | Haiti | 176 |
-| 16 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert | Haiti | 174 |
-| 17 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 169 |
-| 18 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 158 |
+| 14 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Port-Au-Prince | 194 |
+| 15 | [eddo4life](https://github.com/eddo4life) | Boaz E.C Theodoris | Delmas, Haiti | 183 |
+| 16 | [tolly00](https://github.com/tolly00) | Alberto Sylveus | Haiti | 176 |
+| 17 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert | Haiti | 174 |
+| 18 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 169 |
 | 19 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 157 |
-| 20 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Port-Au-Prince | 139 |
+| 20 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | Haiti | 143 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 342
 | 19 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | Haiti | 33 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 
-Generated: 2026-10-07T07:53:55.931Z
+Generated: 2026-10-07T08:41:59.220Z

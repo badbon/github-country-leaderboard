@@ -54,9 +54,9 @@ Indexed users: 565
 | 15 | [GustavoLDO](https://github.com/GustavoLDO) | Gustavo Lemos  de Oliveira  | Praia Grande -SP | 302 |
 | 16 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 240 |
 | 17 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo | Praia Grande - SP | 240 |
-| 18 | [mgomesdev](https://github.com/mgomesdev) | Matheus Gomes | Praia Grande - SP | 217 |
-| 19 | [thisisleobro](https://github.com/thisisleobro) | Leo Carvalho | Cape Verde | 210 |
-| 20 | [Laysabernardes](https://github.com/Laysabernardes) | Laysa Bernardes | Praia Grande -SP | 201 |
+| 18 | [thisisleobro](https://github.com/thisisleobro) | Leo Carvalho | Cape Verde | 210 |
+| 19 | [Laysabernardes](https://github.com/Laysabernardes) | Laysa Bernardes | Praia Grande -SP | 201 |
+| 20 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 185 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 565
 | 19 | [KaiqueLusvarghi](https://github.com/KaiqueLusvarghi) | Kaique Ortolani Lusvarghi | Praia Grande -SP | 58 |
 | 20 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 
-Generated: 2026-10-07T07:40:48.003Z
+Generated: 2026-10-07T08:33:21.612Z

@@ -12,20 +12,20 @@ Indexed users: 53
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 5,452 |
-| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,761 |
+| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 5,839 |
+| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,758 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,461 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,269 |
 | 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,362 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,217 |
 | 7 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 912 |
 | 8 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 908 |
-| 9 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 423 |
+| 9 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 426 |
 | 10 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 380 |
 | 11 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
 | 12 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 130 |
 | 13 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 92 |
-| 14 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 55 |
+| 14 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 50 |
 | 15 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Willemstad, Curacao | 45 |
 | 16 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 42 |
 | 17 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 41 |
@@ -40,7 +40,7 @@ Indexed users: 53
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,269 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 470 |
 | 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 465 |
-| 4 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 423 |
+| 4 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 426 |
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
 | 6 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 130 |
 | 7 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 51 |
@@ -56,7 +56,7 @@ Indexed users: 53
 | 17 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Willemstad, Curaçao, Dutch Caribbean | 13 |
 | 18 | [rascoop](https://github.com/rascoop) | Richard Scoop | Curaçao, Dutch Caribbean | 8 |
 | 19 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 6 |
-| 20 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 5 |
+| 20 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 4 |
 
 ## Followers
 
@@ -72,8 +72,8 @@ Indexed users: 53
 | 8 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus | Curaçao | 28 |
 | 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 23 |
 | 10 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 19 |
-| 11 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Willemstad, Curaçao, Dutch Caribbean | 16 |
-| 12 | [ekid](https://github.com/ekid) | Ekid | Willemstad | 15 |
+| 11 | [ekid](https://github.com/ekid) | Ekid | Willemstad | 15 |
+| 12 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Willemstad, Curaçao, Dutch Caribbean | 15 |
 | 13 | [r3c4ll](https://github.com/r3c4ll) | Ali Moreno | Willemstad, Curaçao. | 13 |
 | 14 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 7 |
 | 15 | [evobersi](https://github.com/evobersi) | Erica | Willemstad | 7 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-07T07:45:18.862Z
+Generated: 2026-10-07T08:36:24.595Z

@@ -1,6 +1,6 @@
 # El Salvador
 
-Indexed users: 2,394
+Indexed users: 2,393
 
 | Leaderboard | Link |
 |---|---|
@@ -49,14 +49,14 @@ Indexed users: 2,394
 | 10 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 | El Salvador | 1,304 |
 | 11 | [cornejobarraza](https://github.com/cornejobarraza) | David Cornejo | El Salvador | 1,069 |
 | 12 | [replaceafill](https://github.com/replaceafill) | Douglas Cerna | San Salvador, El Salvador | 1,037 |
-| 13 | [FredyRivera-dev](https://github.com/FredyRivera-dev) | Fredy Rivera | El Salvador, San Vicente | 991 |
-| 14 | [Alexisrx96](https://github.com/Alexisrx96) | Irvin Torres | El Salvador | 968 |
-| 15 | [beihaili](https://github.com/beihaili) | bhbtc1337 | El Salvador | 940 |
-| 16 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | El Salvador | 935 |
-| 17 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez | El Salvador, San Salvador | 895 |
-| 18 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 888 |
-| 19 | [castillorobin](https://github.com/castillorobin) | Robin Castillo | Santa Ana, El Salvador | 885 |
-| 20 | [kevocodes](https://github.com/kevocodes) | Kevin Escobar | El Salvador | 873 |
+| 13 | [ronirgp](https://github.com/ronirgp) | RONALD PINEDA | El Salvador  | 1,005 |
+| 14 | [FredyRivera-dev](https://github.com/FredyRivera-dev) | Fredy Rivera | El Salvador, San Vicente | 991 |
+| 15 | [Alexisrx96](https://github.com/Alexisrx96) | Irvin Torres | El Salvador | 968 |
+| 16 | [beihaili](https://github.com/beihaili) | bhbtc1337 | El Salvador | 940 |
+| 17 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | El Salvador | 935 |
+| 18 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez | El Salvador, San Salvador | 925 |
+| 19 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 888 |
+| 20 | [castillorobin](https://github.com/castillorobin) | Robin Castillo | Santa Ana, El Salvador | 885 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,394
 | 19 | [hherzl](https://github.com/hherzl) | HH | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 96 |
 
-Generated: 2026-10-07T07:47:41.782Z
+Generated: 2026-10-07T08:37:58.310Z

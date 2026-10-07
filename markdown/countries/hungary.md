@@ -1,6 +1,6 @@
 # Hungary
 
-Indexed users: 11,201
+Indexed users: 11,200
 
 | Leaderboard | Link |
 |---|---|
@@ -53,10 +53,10 @@ Indexed users: 11,201
 | 14 | [tacshade](https://github.com/tacshade) | TacShade | Budapest | 4,788 |
 | 15 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Hungary | 4,660 |
 | 16 | [laxika](https://github.com/laxika) | Gyula Lakatos | Hungary | 4,481 |
-| 17 | [Axwabo](https://github.com/Axwabo) | Axwabo | Hungary | 4,036 |
-| 18 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | Budapest, Hungary | 3,768 |
-| 19 | [csatib02](https://github.com/csatib02) | Bence Csati | Budapest, Hungary | 3,687 |
-| 20 | [bugadani](https://github.com/bugadani) | Dániel Buga | Budapest, HU | 3,662 |
+| 17 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | Hungary | 4,153 |
+| 18 | [Axwabo](https://github.com/Axwabo) | Axwabo | Hungary | 4,036 |
+| 19 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | Budapest, Hungary | 3,768 |
+| 20 | [csatib02](https://github.com/csatib02) | Bence Csati | Budapest, Hungary | 3,687 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 11,201
 | 19 | [Aylur](https://github.com/Aylur) |  | Hungary | 573 |
 | 20 | [theevilbit](https://github.com/theevilbit) | Csaba Fitzl | Hungary | 502 |
 
-Generated: 2026-10-07T07:55:17.975Z
+Generated: 2026-10-07T08:43:09.571Z

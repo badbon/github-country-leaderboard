@@ -24,14 +24,14 @@ Indexed users: 186
 | 10 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee | Georgetown, TX | 2,209 |
 | 11 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 2,050 |
 | 12 | [Hinxman](https://github.com/Hinxman) | Ken Hinxman | Georgetown, TX | 1,726 |
-| 13 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 1,579 |
-| 14 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,511 |
-| 15 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,469 |
-| 16 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,345 |
-| 17 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 1,232 |
-| 18 | [codyregis6891](https://github.com/codyregis6891) | Cody Regis | Georgetown, Kentucky | 1,195 |
-| 19 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 1,042 |
-| 20 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 940 |
+| 13 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,609 |
+| 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 1,579 |
+| 15 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,511 |
+| 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,469 |
+| 17 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,345 |
+| 18 | [owengrant](https://github.com/owengrant) | Owen Grant | Guyana | 1,260 |
+| 19 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 1,232 |
+| 20 | [codyregis6891](https://github.com/codyregis6891) | Cody Regis | Georgetown, Kentucky | 1,195 |
 
 ## Public Contributions
 
@@ -42,8 +42,8 @@ Indexed users: 186
 | 3 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 2,504 |
 | 4 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 1,868 |
 | 5 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 1,470 |
-| 6 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 1,013 |
-| 7 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 822 |
+| 6 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,460 |
+| 7 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 1,013 |
 | 8 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 714 |
 | 9 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 562 |
 | 10 | [blackMastery](https://github.com/blackMastery) | kevon Cadogan | Guyana | 515 |
@@ -77,10 +77,10 @@ Indexed users: 186
 | 13 | [FusionOpz](https://github.com/FusionOpz) | Matthew Sporich | Georgetown, ON, CA | 33 |
 | 14 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 30 |
 | 15 | [NathanMLu](https://github.com/NathanMLu) | Nathan Lu | Georgetown, Texas | 30 |
-| 16 | [ryanrotman](https://github.com/ryanrotman) | Ryan Rotman | Georgetown, TX | 29 |
-| 17 | [ocrram](https://github.com/ocrram) | Marco | Georgetown, TX | 27 |
+| 16 | [ocrram](https://github.com/ocrram) | Marco | Georgetown, TX | 30 |
+| 17 | [ryanrotman](https://github.com/ryanrotman) | Ryan Rotman | Georgetown, TX | 29 |
 | 18 | [MichaelATang](https://github.com/MichaelATang) | Michael Tang | Guyana | 25 |
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 24 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 21 |
 
-Generated: 2026-10-07T07:53:52.504Z
+Generated: 2026-10-07T08:41:55.607Z

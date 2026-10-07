@@ -1,13 +1,13 @@
 # Followers - Eswatini
 
-Generated: 2026-10-07T07:48:12.267Z
+Generated: 2026-10-07T08:38:27.824Z
 
 Users: 108
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Intuition | wandilemawelel | Manzini, Eswatini | 214 |
-| 2 | [KDlamini](https://github.com/KDlamini) | Simo Dlamini | Capita Invest | realSimoNkosi | Mbabane, Eswatini | 153 |
+| 1 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Intuition | wandilemawelel | Manzini, Eswatini | 202 |
+| 2 | [KDlamini](https://github.com/KDlamini) | Simo Dlamini | Capita Invest | realSimoNkosi | Mbabane, Eswatini | 78 |
 | 3 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | RFK Solutions |  | Eswatini, Manzini | 37 |
 | 4 | [phume03](https://github.com/phume03) | Phumelela Mdluli | New Breed Designs (Unregistered) |  | Eswatini | 28 |
 | 5 | [brian25online](https://github.com/brian25online) | Brian Dlamini | http://www.sppra.co.sz/ |  | Lozitha, Swaziland  | 24 |
@@ -24,5 +24,5 @@ Users: 108
 | 16 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 10 |
 | 17 | [mitchkun](https://github.com/mitchkun) | Mitchell Dube | Lurking  | o_Omitch_kun | Mbabane, Swaziland | 10 |
 | 18 | [Annis-Monadjem](https://github.com/Annis-Monadjem) | Annis Monadjem |  |  | Swaziland | 9 |
-| 19 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Westars Corp |  | Mbabane, Swaziland  | 8 |
-| 20 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile |  |  | Eswatini | 8 |
+| 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba |  |  | Eswatini | 9 |
+| 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Westars Corp |  | Mbabane, Swaziland  | 8 |

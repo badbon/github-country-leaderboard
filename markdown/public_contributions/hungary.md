@@ -1,8 +1,8 @@
 # Public Contributions - Hungary
 
-Generated: 2026-10-07T07:55:17.975Z
+Generated: 2026-10-07T08:43:09.571Z
 
-Users: 11201
+Users: 11200
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 11201
 | 14 | [tacshade](https://github.com/tacshade) | TacShade | Frumu LTD |  | Budapest | 4788 |
 | 15 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Golem Cloud / Ziverge Inc. | dvigovszky | Hungary | 4660 |
 | 16 | [laxika](https://github.com/laxika) | Gyula Lakatos | Anthropic |  | Hungary | 4481 |
-| 17 | [Axwabo](https://github.com/Axwabo) | Axwabo |  |  | Hungary | 4036 |
-| 18 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | @Lombiq | zlehoczky | Budapest, Hungary | 3768 |
-| 19 | [csatib02](https://github.com/csatib02) | Bence Csati | @axoflow |  | Budapest, Hungary | 3687 |
-| 20 | [bugadani](https://github.com/bugadani) | Dániel Buga |  |  | Budapest, HU | 3662 |
+| 17 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | @pohi99999 | pohanka_peter | Hungary | 4153 |
+| 18 | [Axwabo](https://github.com/Axwabo) | Axwabo |  |  | Hungary | 4036 |
+| 19 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | @Lombiq | zlehoczky | Budapest, Hungary | 3768 |
+| 20 | [csatib02](https://github.com/csatib02) | Bence Csati | @axoflow |  | Budapest, Hungary | 3687 |

@@ -1,6 +1,6 @@
 # Followers - Djibouti
 
-Generated: 2026-10-07T07:46:09.025Z
+Generated: 2026-10-07T08:37:07.130Z
 
 Users: 55
 
@@ -10,11 +10,11 @@ Users: 55
 | 2 | [bassim18ramad](https://github.com/bassim18ramad) | BassimRH |  |  | Djibouti | 24 |
 | 3 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Manelix Technologies |  | Djibouti | 17 |
 | 4 | [abdibogor](https://github.com/abdibogor) |  |  |  | Djibouti | 15 |
-| 5 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Teacher at MENFOP | YoungAssajog | Djibouti | 14 |
+| 5 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Teacher at MENFOP | YoungAssajog | Djibouti | 15 |
 | 6 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak |  |  | Djibouti | 14 |
-| 7 | [zeynabhabib](https://github.com/zeynabhabib) | Zeinab Habib Hassan | Université de Djibouti |  | Djibouti | 12 |
-| 8 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH |  |  | Djibouti Dj | 11 |
-| 9 | [nabolitains](https://github.com/nabolitains) | Charko M. |  | nabolitains | Djibouti | 11 |
+| 7 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH |  |  | Djibouti Dj | 11 |
+| 8 | [nabolitains](https://github.com/nabolitains) | Charko M. |  | nabolitains | Djibouti | 11 |
+| 9 | [zeynabhabib](https://github.com/zeynabhabib) | Zeinab Habib Hassan | Université de Djibouti |  | Djibouti | 11 |
 | 10 | [Naeemalis](https://github.com/Naeemalis) | Naeemali | NAEEMSOFT |  | Djibouti  | 9 |
 | 11 | [inamkhosa](https://github.com/inamkhosa) | Inam | Safarifone Inc. |  | Dubai, Islamabad, Djibouti | 8 |
 | 12 | [benkhaireh](https://github.com/benkhaireh) | Mohamed Khaireh O. |  | benkhaireh | Djibouti | 7 |

@@ -1,6 +1,6 @@
 # Followers - Curaçao
 
-Generated: 2026-10-07T07:45:18.862Z
+Generated: 2026-10-07T08:36:24.595Z
 
 Users: 53
 
@@ -16,8 +16,8 @@ Users: 53
 | 8 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus |  | jentanbernardus | Curaçao | 28 |
 | 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings |  |  | Curaçao | 23 |
 | 10 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 19 |
-| 11 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Cursoft Development & Consultancy NV | rascoop | Willemstad, Curaçao, Dutch Caribbean | 16 |
-| 12 | [ekid](https://github.com/ekid) | Ekid | Eflavour |  | Willemstad | 15 |
+| 11 | [ekid](https://github.com/ekid) | Ekid | Eflavour |  | Willemstad | 15 |
+| 12 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Cursoft Development & Consultancy NV | rascoop | Willemstad, Curaçao, Dutch Caribbean | 15 |
 | 13 | [r3c4ll](https://github.com/r3c4ll) | Ali Moreno | XenoTrue N.V. | r3c4ll | Willemstad, Curaçao. | 13 |
 | 14 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas |  | bythealphabet1 | Willemstad, Curacao | 7 |
 | 15 | [evobersi](https://github.com/evobersi) | Erica |  |  | Willemstad | 7 |

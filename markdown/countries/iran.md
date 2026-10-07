@@ -1,6 +1,6 @@
 # Iran
 
-Indexed users: 26,703
+Indexed users: 26,702
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 26,703
 | 19 | [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh) | Abolfazl Shadrouh | Guilan, Iran | 1,382 |
 | 20 | [armin-panahi](https://github.com/armin-panahi) | 𝗔𝗥𝗠𝗜𝗡 𝗣𝗔𝗡𝗔𝗛𝗜 | Iran | 1,373 |
 
-Generated: 2026-10-07T07:55:40.454Z
+Generated: 2026-10-07T08:44:02.020Z

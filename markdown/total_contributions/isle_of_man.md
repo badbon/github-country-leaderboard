@@ -1,8 +1,8 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-07T07:56:23.817Z
+Generated: 2026-10-07T08:44:33.438Z
 
-Users: 156
+Users: 155
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,11 +14,11 @@ Users: 156
 | 6 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 2141 |
 | 7 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto |  |  | Isle of Man | 1768 |
 | 8 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 1751 |
-| 9 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 1664 |
-| 10 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Infinium | thomas_iom | Isle of Man | 1418 |
+| 9 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Infinium | thomas_iom | Isle of Man | 1604 |
+| 10 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 1558 |
 | 11 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim |  |  | Isle of Man | 1364 |
-| 12 | [Gwiilo](https://github.com/Gwiilo) | Gwilo |  |  | Isle of Man | 1346 |
-| 13 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1300 |
+| 12 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1300 |
+| 13 | [Gwiilo](https://github.com/Gwiilo) | Gwilo |  |  | Isle of Man | 1232 |
 | 14 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 1153 |
 | 15 | [likesalmon](https://github.com/likesalmon) | Ammon Morris | SaasFactory |  | Douglas, AK | 1088 |
 | 16 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 1062 |

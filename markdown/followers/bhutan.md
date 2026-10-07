@@ -1,6 +1,6 @@
 # Followers - Bhutan
 
-Generated: 2026-10-07T07:38:29.097Z
+Generated: 2026-10-07T08:30:19.864Z
 
 Users: 270
 
@@ -15,9 +15,9 @@ Users: 270
 | 7 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 41 |
 | 8 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 37 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 34 |
-| 10 | [ugyentring](https://github.com/ugyentring) | Ugyen Tshering |  |  | Bhutan | 33 |
-| 11 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 31 |
-| 12 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 30 |
+| 10 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 31 |
+| 11 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 30 |
+| 12 | [ugyentring](https://github.com/ugyentring) | Ugyen Tshering |  |  | Bhutan | 30 |
 | 13 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 28 |
 | 14 | [lit-poks](https://github.com/lit-poks) | Lalit Pokhrel | SELISE Bhutan |  | Thimphu, Bhutan | 28 |
 | 15 | [c19850727](https://github.com/c19850727) | Sakaguchi |  | nzm8qs | Thimphu & Hong Kong & Tokyo | 24 |

@@ -1,18 +1,18 @@
 # Public Contributions - Guernsey
 
-Generated: 2026-10-07T07:51:19.917Z
+Generated: 2026-10-07T08:41:32.189Z
 
-Users: 46
+Users: 45
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mh0lt](https://github.com/mh0lt) | Mark Holt |  |  | Guernsey | 689 |
-| 2 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 444 |
-| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 81 |
+| 1 | [mh0lt](https://github.com/mh0lt) | Mark Holt |  |  | Guernsey | 683 |
+| 2 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 464 |
+| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 77 |
 | 4 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | BugBird Co. | YuriGuernsey | Guernsey | 45 |
 | 5 | [adrianritchie](https://github.com/adrianritchie) |  |  |  | Guernsey | 41 |
 | 6 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 22 |
-| 7 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 22 |
+| 7 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 21 |
 | 8 | [tomupson](https://github.com/tomupson) | Tom Upson |  |  | Guernsey | 17 |
 | 9 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 12 |
 | 10 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 11 |
@@ -25,4 +25,4 @@ Users: 46
 | 17 | [theModrzew](https://github.com/theModrzew) | Patryk |  |  | Guernsey | 2 |
 | 18 | [GlennToms](https://github.com/GlennToms) | Glenn Toms |  |  | Guernsey | 1 |
 | 19 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 1 |
-| 20 | [patsytau](https://github.com/patsytau) | Patrizia |  |  | Guernsey | 1 |
+| 20 | [acatcalledanarchy](https://github.com/acatcalledanarchy) | A Cat Called Anarchy |  |  | Guernsey, Channel Islands | 0 |

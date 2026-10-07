@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-07T07:53:52.504Z
+Generated: 2026-10-07T08:41:55.607Z
 
 Users: 186
 
@@ -18,11 +18,11 @@ Users: 186
 | 10 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee |  |  | Georgetown, TX | 2209 |
 | 11 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 2050 |
 | 12 | [Hinxman](https://github.com/Hinxman) | Ken Hinxman |  |  | Georgetown, TX | 1726 |
-| 13 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 1579 |
-| 14 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1511 |
-| 15 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1469 |
-| 16 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 1345 |
-| 17 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 1232 |
-| 18 | [codyregis6891](https://github.com/codyregis6891) | Cody Regis | Tyler Technologies |  | Georgetown, Kentucky | 1195 |
-| 19 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney |  |  | Georgetown, CO | 1042 |
-| 20 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 940 |
+| 13 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1609 |
+| 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 1579 |
+| 15 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1511 |
+| 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1469 |
+| 17 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 1345 |
+| 18 | [owengrant](https://github.com/owengrant) | Owen Grant | Arawak Software Consultancy |  | Guyana | 1260 |
+| 19 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 1232 |
+| 20 | [codyregis6891](https://github.com/codyregis6891) | Cody Regis | Tyler Technologies |  | Georgetown, Kentucky | 1195 |

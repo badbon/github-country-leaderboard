@@ -21,17 +21,17 @@ Indexed users: 270
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,663 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,620 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,333 |
-| 10 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 2,011 |
-| 11 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 1,949 |
-| 12 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 1,932 |
-| 13 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk | Thimphu, Bhutan | 1,826 |
-| 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,818 |
-| 15 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 1,788 |
-| 16 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Bhutan | 1,771 |
-| 17 | [karmatenzi](https://github.com/karmatenzi) | Karma Tenzin | thimphu | 1,689 |
-| 18 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | Thimphu, Bhutan | 1,581 |
-| 19 | [KarmaTensel](https://github.com/KarmaTensel) | ice | Bhutan | 1,562 |
-| 20 | [SonamWangchuk77jr](https://github.com/SonamWangchuk77jr) | Sonam Wangchuk | Thimphu | 1,532 |
+| 10 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 2,050 |
+| 11 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 2,011 |
+| 12 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 1,949 |
+| 13 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 1,924 |
+| 14 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk | Thimphu, Bhutan | 1,826 |
+| 15 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,818 |
+| 16 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 1,788 |
+| 17 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Bhutan | 1,771 |
+| 18 | [karmatenzi](https://github.com/karmatenzi) | Karma Tenzin | thimphu | 1,689 |
+| 19 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | Thimphu, Bhutan | 1,581 |
+| 20 | [KarmaTensel](https://github.com/KarmaTensel) | ice | Bhutan | 1,562 |
 
 ## Public Contributions
 
@@ -71,9 +71,9 @@ Indexed users: 270
 | 7 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 41 |
 | 8 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 37 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 34 |
-| 10 | [ugyentring](https://github.com/ugyentring) | Ugyen Tshering | Bhutan | 33 |
-| 11 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 31 |
-| 12 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 30 |
+| 10 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 31 |
+| 11 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 30 |
+| 12 | [ugyentring](https://github.com/ugyentring) | Ugyen Tshering | Bhutan | 30 |
 | 13 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk | Thimphu, Bhutan | 28 |
 | 14 | [lit-poks](https://github.com/lit-poks) | Lalit Pokhrel | Thimphu, Bhutan | 28 |
 | 15 | [c19850727](https://github.com/c19850727) | Sakaguchi | Thimphu & Hong Kong & Tokyo | 24 |
@@ -83,4 +83,4 @@ Indexed users: 270
 | 19 | [EshanB101](https://github.com/EshanB101) | Eshan Basnet | Thimphu, Bhutan | 22 |
 | 20 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-07T07:38:29.097Z
+Generated: 2026-10-07T08:30:19.864Z

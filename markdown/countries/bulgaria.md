@@ -1,6 +1,6 @@
 # Bulgaria
 
-Indexed users: 14,091
+Indexed users: 14,090
 
 | Leaderboard | Link |
 |---|---|
@@ -18,20 +18,20 @@ Indexed users: 14,091
 | 4 | [RMANOV](https://github.com/RMANOV) | Ruslan Manov | Sofia, Bulgaria | 19,858 |
 | 5 | [bdteo](https://github.com/bdteo) | Boris D. Teoharov | Sofia, Bulgaria | 18,336 |
 | 6 | [NikolaRHristov](https://github.com/NikolaRHristov) | Nikola Hristov | Sofia, Bulgaria | 18,266 |
-| 7 | [miraclebg](https://github.com/miraclebg) | Martin Kovachev | Plovdiv, Bulgaria | 13,026 |
-| 8 | [bobikenobi12](https://github.com/bobikenobi12) | Borislav Borisov | Sofia, Bulgaria | 12,404 |
-| 9 | [dgeorgiev](https://github.com/dgeorgiev) | Daniel Georgiev | Bulgaria | 12,009 |
-| 10 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | Karlovo, Bulgaria | 11,201 |
-| 11 | [bobicloudvision](https://github.com/bobicloudvision) | Bozhidar | Sofia | 11,033 |
-| 12 | [matsidor1975](https://github.com/matsidor1975) | Titomir Dinew | Bulgaria | 10,320 |
-| 13 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev | Sofia, Bulgaria | 9,899 |
-| 14 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev | Sofia, Bulgaria | 9,650 |
-| 15 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | Sofia, Bulgaria | 9,549 |
-| 16 | [gogata05](https://github.com/gogata05) | Georgi Markov | Petrich, Bulgaria | 9,549 |
-| 17 | [groupsky](https://github.com/groupsky) | Geno Roupsky | Plovdiv/Bulgaria | 9,533 |
-| 18 | [akrsmv](https://github.com/akrsmv) | Krasimir Atanasov | Sofia, Bulgaria | 9,408 |
-| 19 | [pavelsur07](https://github.com/pavelsur07) |  | Varna | 9,313 |
-| 20 | [0ximu](https://github.com/0ximu) | imu | Bulgaria | 9,288 |
+| 7 | [0ximu](https://github.com/0ximu) | imu | Bulgaria | 16,521 |
+| 8 | [miraclebg](https://github.com/miraclebg) | Martin Kovachev | Plovdiv, Bulgaria | 13,026 |
+| 9 | [bobikenobi12](https://github.com/bobikenobi12) | Borislav Borisov | Sofia, Bulgaria | 12,404 |
+| 10 | [dgeorgiev](https://github.com/dgeorgiev) | Daniel Georgiev | Bulgaria | 12,009 |
+| 11 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | Karlovo, Bulgaria | 11,201 |
+| 12 | [bobicloudvision](https://github.com/bobicloudvision) | Bozhidar | Sofia | 11,033 |
+| 13 | [matsidor1975](https://github.com/matsidor1975) | Titomir Dinew | Bulgaria | 10,320 |
+| 14 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev | Sofia, Bulgaria | 9,899 |
+| 15 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev | Sofia, Bulgaria | 9,650 |
+| 16 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | Sofia, Bulgaria | 9,549 |
+| 17 | [gogata05](https://github.com/gogata05) | Georgi Markov | Petrich, Bulgaria | 9,549 |
+| 18 | [groupsky](https://github.com/groupsky) | Geno Roupsky | Plovdiv/Bulgaria | 9,533 |
+| 19 | [akrsmv](https://github.com/akrsmv) | Krasimir Atanasov | Sofia, Bulgaria | 9,408 |
+| 20 | [pavelsur07](https://github.com/pavelsur07) |  | Varna | 9,313 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 14,091
 | 19 | [shanalikhan](https://github.com/shanalikhan) | Shan Khan | Bulgaria | 637 |
 | 20 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
 
-Generated: 2026-10-07T08:06:53.615Z
+Generated: 2026-10-07T08:31:22.008Z

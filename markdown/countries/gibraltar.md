@@ -1,6 +1,6 @@
 # Gibraltar
 
-Indexed users: 94
+Indexed users: 93
 
 | Leaderboard | Link |
 |---|---|
@@ -16,22 +16,22 @@ Indexed users: 94
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,126 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 3,824 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,251 |
-| 5 | [grantmk](https://github.com/grantmk) | Grant Klimaytys | Gibraltar | 2,913 |
-| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,528 |
-| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,289 |
+| 5 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,376 |
+| 6 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,289 |
+| 7 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 1,173 |
 | 8 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 1,111 |
-| 9 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 853 |
-| 10 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 836 |
-| 11 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 772 |
+| 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 836 |
+| 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 772 |
+| 11 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor | Gibraltar | 635 |
 | 12 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 621 |
 | 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 602 |
-| 14 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor | Gibraltar | 594 |
-| 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 523 |
-| 16 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 491 |
-| 17 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 456 |
-| 18 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 403 |
-| 19 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 273 |
-| 20 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 256 |
+| 14 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 523 |
+| 15 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 491 |
+| 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 456 |
+| 17 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 403 |
+| 18 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 362 |
+| 19 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 256 |
+| 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 251 |
 
 ## Public Contributions
 
@@ -47,13 +47,13 @@ Indexed users: 94
 | 8 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 200 |
 | 9 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 196 |
 | 10 | [ZedsArcade](https://github.com/ZedsArcade) | ZedsArcade | Gibraltar | 156 |
-| 11 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 118 |
+| 11 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 121 |
 | 12 | [pmozdzynski](https://github.com/pmozdzynski) | P.S. Mozdzynski | Gibraltar | 85 |
 | 13 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 70 |
 | 14 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 46 |
-| 15 | [datsimon-design](https://github.com/datsimon-design) | Simon Gendrisch | Gibraltar | 45 |
-| 16 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 41 |
-| 17 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | Gibraltar | 41 |
+| 15 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | Gibraltar | 46 |
+| 16 | [datsimon-design](https://github.com/datsimon-design) | Simon Gendrisch | Gibraltar | 45 |
+| 17 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 41 |
 | 18 | [nats12](https://github.com/nats12) | Natalie Mclaren | Gibraltar | 38 |
 | 19 | [jonathanpennell](https://github.com/jonathanpennell) | Jonathan Pennell | Gibraltar | 37 |
 | 20 | [RJHug00](https://github.com/RJHug00) | Randy H | Gibraltar, PA, USA | 37 |
@@ -67,20 +67,20 @@ Indexed users: 94
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 72 |
 | 4 | [sloancameron](https://github.com/sloancameron) | valley / bernadette | watchpoint gibraltar | 38 |
 | 5 | [docziegler](https://github.com/docziegler) | star | watchpoint gibraltar | 35 |
-| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 34 |
-| 7 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 30 |
+| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 33 |
+| 7 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 31 |
 | 8 | [carribus](https://github.com/carribus) | Peter Mares | Gibraltar | 29 |
-| 9 | [grantmk](https://github.com/grantmk) | Grant Klimaytys | Gibraltar | 29 |
-| 10 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 28 |
-| 11 | [ileghlam](https://github.com/ileghlam) | Leghlam Ishak | Gibraltar | 26 |
-| 12 | [luciomafia](https://github.com/luciomafia) | ─ RUM / MAYHEM ! | 𖠊  WATCHPOINT GIBRALTAR . . . | 25 |
-| 13 | [multicharts](https://github.com/multicharts) |  | Gibraltar | 24 |
-| 14 | [ElAndy94](https://github.com/ElAndy94) | Andrew | Gibraltar | 22 |
-| 15 | [nats12](https://github.com/nats12) | Natalie Mclaren | Gibraltar | 17 |
-| 16 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 17 |
+| 9 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 28 |
+| 10 | [ileghlam](https://github.com/ileghlam) | Leghlam Ishak | Gibraltar | 26 |
+| 11 | [luciomafia](https://github.com/luciomafia) | ─ RUM / MAYHEM ! | 𖠊  WATCHPOINT GIBRALTAR . . . | 25 |
+| 12 | [multicharts](https://github.com/multicharts) |  | Gibraltar | 24 |
+| 13 | [ElAndy94](https://github.com/ElAndy94) | Andrew | Gibraltar | 22 |
+| 14 | [nats12](https://github.com/nats12) | Natalie Mclaren | Gibraltar | 17 |
+| 15 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 17 |
+| 16 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | Gibraltar | 17 |
 | 17 | [baileys](https://github.com/baileys) | Stephen Bailey | Gibraltar | 15 |
-| 18 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | Gibraltar | 15 |
-| 19 | [BeyondZ](https://github.com/BeyondZ) | Beyond Zuo | Gibraltar | 13 |
-| 20 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
+| 18 | [BeyondZ](https://github.com/BeyondZ) | Beyond Zuo | Gibraltar | 13 |
+| 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
+| 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-07T07:49:29.225Z
+Generated: 2026-10-07T08:40:19.488Z

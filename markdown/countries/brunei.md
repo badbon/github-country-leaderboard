@@ -12,7 +12,7 @@ Indexed users: 256
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 6,547 |
+| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,833 |
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,737 |
 | 3 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 1,977 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 1,542 |
@@ -37,7 +37,7 @@ Indexed users: 256
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 6,547 |
+| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,833 |
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 1,003 |
 | 3 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 456 |
 | 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 450 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [bahit](https://github.com/bahit) | Bahit Hamid | Brunei | 14 |
 | 20 | [snek5](https://github.com/snek5) | Azim Anuar | Brunei | 13 |
 
-Generated: 2026-10-07T07:39:47.290Z
+Generated: 2026-10-07T08:31:12.742Z

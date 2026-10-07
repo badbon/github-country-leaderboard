@@ -62,7 +62,7 @@ Indexed users: 704
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Mardo-k12](https://github.com/Mardo-k12) | Mardo | kinshasa | 545 |
+| 1 | [Mardo-k12](https://github.com/Mardo-k12) | Mardo | kinshasa | 677 |
 | 2 | [NdekoCode](https://github.com/NdekoCode) | Arick Bulakali | Kinshasa, Kigali, Nairobi, Dubai | 291 |
 | 3 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | DR Congo, Lubumbashi | 234 |
 | 4 | [JonathanMonga](https://github.com/JonathanMonga) | Jomo | Lubumbashi, Katanga, DR Congo | 216 |
@@ -83,4 +83,4 @@ Indexed users: 704
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 68 |
 
-Generated: 2026-10-07T07:47:29.071Z
+Generated: 2026-10-07T08:37:47.562Z

@@ -1,12 +1,12 @@
 # Followers - Guadeloupe
 
-Generated: 2026-10-07T07:50:49.101Z
+Generated: 2026-10-07T08:40:54.133Z
 
 Users: 85
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 137 |
+| 1 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 140 |
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 74 |
 | 3 | [D0wzy](https://github.com/D0wzy) | 0x656e7a6f |  |  | Guadeloupe | 50 |
 | 4 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Gwadaweb | rubatdub | Guadeloupe | 37 |

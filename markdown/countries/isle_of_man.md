@@ -1,6 +1,6 @@
 # Isle of Man
 
-Indexed users: 156
+Indexed users: 155
 
 | Leaderboard | Link |
 |---|---|
@@ -20,11 +20,11 @@ Indexed users: 156
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,141 |
 | 7 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,768 |
 | 8 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,751 |
-| 9 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 1,664 |
-| 10 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,418 |
+| 9 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,604 |
+| 10 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 1,558 |
 | 11 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 1,364 |
-| 12 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,346 |
-| 13 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,300 |
+| 12 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,300 |
+| 13 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,232 |
 | 14 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,153 |
 | 15 | [likesalmon](https://github.com/likesalmon) | Ammon Morris | Douglas, AK | 1,088 |
 | 16 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,062 |
@@ -50,9 +50,9 @@ Indexed users: 156
 | 11 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Isle of Man | 233 |
 | 12 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | Douglas, Isle of Man | 160 |
 | 13 | [Jessicaward](https://github.com/Jessicaward) | Jessica Ward | Isle of Man | 153 |
-| 14 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 146 |
-| 15 | [K1erans](https://github.com/K1erans) | Kieran | Isle of man | 140 |
-| 16 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man | 129 |
+| 14 | [K1erans](https://github.com/K1erans) | Kieran | Isle of man | 140 |
+| 15 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man | 129 |
+| 16 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 123 |
 | 17 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 108 |
 | 18 | [RCornidez](https://github.com/RCornidez) | Rodrigo Cornidez | Douglas, Arizona | 90 |
 | 19 | [wishypw](https://github.com/wishypw) | Paul Williamson | Isle of Man | 87 |
@@ -65,13 +65,13 @@ Indexed users: 156
 | 1 | [braydie](https://github.com/braydie) | Braydie Grove | Isle of Man | 368 |
 | 2 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 231 |
 | 3 | [cydolo](https://github.com/cydolo) | Dolo | Isle of Man | 148 |
-| 4 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 147 |
+| 4 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 148 |
 | 5 | [CubLinux](https://github.com/CubLinux) | Cub Linux | Isle of Man | 87 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 78 |
 | 7 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man | 76 |
 | 8 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | Douglas, Isle of Man | 38 |
-| 9 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 36 |
-| 10 | [lproven](https://github.com/lproven) | Liam Proven | Douglas, Isle of Man | 34 |
+| 9 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 38 |
+| 10 | [lproven](https://github.com/lproven) | Liam Proven | Douglas, Isle of Man | 35 |
 | 11 | [drapermovies](https://github.com/drapermovies) | Joel E.P. Draper | Isle of Man | 32 |
 | 12 | [drajmarsh](https://github.com/drajmarsh) | Dr Andrew Marsh | Isle of Man | 26 |
 | 13 | [chris-jamieson](https://github.com/chris-jamieson) | Chris Jamieson | Isle of Man | 23 |
@@ -83,4 +83,4 @@ Indexed users: 156
 | 19 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 | 20 | [Danny-Scott](https://github.com/Danny-Scott) |  | Isle of Man | 18 |
 
-Generated: 2026-10-07T07:56:23.817Z
+Generated: 2026-10-07T08:44:33.438Z
