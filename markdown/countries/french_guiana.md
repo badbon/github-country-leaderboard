@@ -13,15 +13,15 @@ Indexed users: 36
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto | French Amazonia (Guyane) | 2,622 |
-| 2 | [MelPeslier](https://github.com/MelPeslier) | Mel | Guyane  | 1,240 |
-| 3 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | French Guiana | 282 |
+| 2 | [MelPeslier](https://github.com/MelPeslier) | Mel | Guyane  | 1,239 |
+| 3 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | French Guiana | 281 |
 | 4 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS | Amandafurt, French Guiana | 135 |
 | 5 | [jjcabon](https://github.com/jjcabon) | JJCABON | CAYENNE | 116 |
 | 6 | [drainerw](https://github.com/drainerw) |  | French Guiana | 82 |
 | 7 | [ginimod](https://github.com/ginimod) | GIni | Cayenne | 76 |
 | 8 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 62 |
 | 9 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | French Guiana | 35 |
-| 10 | [badette-robert](https://github.com/badette-robert) | Robert BADETTE | Guyane (Saint-laurent-du-maroni) | 26 |
+| 10 | [badette-robert](https://github.com/badette-robert) | Robert BADETTE | Guyane (Saint-laurent-du-maroni) | 25 |
 | 11 | [qlspanda17](https://github.com/qlspanda17) | SONY PAME |  French Guiana | 21 |
 | 12 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander | Elizabethberg, French Guiana | 17 |
 | 13 | [Saint-Paulin](https://github.com/Saint-Paulin) |  | Kourou, french guiana | 13 |
@@ -42,12 +42,12 @@ Indexed users: 36
 | 3 | [ginimod](https://github.com/ginimod) | GIni | Cayenne | 76 |
 | 4 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 62 |
 | 5 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | French Guiana | 35 |
-| 6 | [badette-robert](https://github.com/badette-robert) | Robert BADETTE | Guyane (Saint-laurent-du-maroni) | 26 |
+| 6 | [badette-robert](https://github.com/badette-robert) | Robert BADETTE | Guyane (Saint-laurent-du-maroni) | 25 |
 | 7 | [qlspanda17](https://github.com/qlspanda17) | SONY PAME |  French Guiana | 21 |
 | 8 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander | Elizabethberg, French Guiana | 17 |
 | 9 | [drainerw](https://github.com/drainerw) |  | French Guiana | 15 |
 | 10 | [Saint-Paulin](https://github.com/Saint-Paulin) |  | Kourou, french guiana | 13 |
-| 11 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | French Guiana | 9 |
+| 11 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | French Guiana | 8 |
 | 12 | [PaulZer](https://github.com/PaulZer) | Paul Bouchillou | French Guiana | 7 |
 | 13 | [vincentreboul](https://github.com/vincentreboul) | Vincent | Cayenne | 7 |
 | 14 | [darklink973](https://github.com/darklink973) | darkvox | French Guiana | 4 |
@@ -83,4 +83,4 @@ Indexed users: 36
 | 19 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 3 |
 | 20 | [StephaneKourou](https://github.com/StephaneKourou) | StephaneKourou | Kourou, French Guiana | 3 |
 
-Generated: 2026-10-07T07:01:17.124Z
+Generated: 2026-10-07T07:49:04.379Z

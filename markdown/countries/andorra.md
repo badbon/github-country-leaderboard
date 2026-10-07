@@ -1,6 +1,6 @@
 # Andorra
 
-Indexed users: 215
+Indexed users: 214
 
 | Leaderboard | Link |
 |---|---|
@@ -17,10 +17,10 @@ Indexed users: 215
 | 3 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 8,881 |
 | 4 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi | Andorra | 6,974 |
 | 5 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,007 |
-| 6 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 4,978 |
-| 7 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 4,623 |
-| 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 4,575 |
-| 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 4,238 |
+| 6 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,061 |
+| 7 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 4,978 |
+| 8 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 4,623 |
+| 9 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 4,575 |
 | 10 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 3,714 |
 | 11 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 3,699 |
 | 12 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 3,385 |
@@ -69,18 +69,18 @@ Indexed users: 215
 | 5 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 156 |
 | 6 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 138 |
 | 7 | [matchilling](https://github.com/matchilling) | Matías J. Schilling | Andorra | 128 |
-| 8 | [JMariadlcs](https://github.com/JMariadlcs) | Jose María de la Cruz | Andorra | 115 |
+| 8 | [JMariadlcs](https://github.com/JMariadlcs) | Jose María de la Cruz | Andorra | 119 |
 | 9 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 108 |
-| 10 | [alexenc](https://github.com/alexenc) | Alex Encinas | Andorra | 103 |
-| 11 | [damarnez](https://github.com/damarnez) | Dani Martin Jimenez | Andorra | 103 |
-| 12 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 102 |
-| 13 | [facundomedica](https://github.com/facundomedica) | Facundo Medica | Andorra | 93 |
-| 14 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 92 |
-| 15 | [XaviTorello](https://github.com/XaviTorello) | Xavi Torelló | Andorra | 92 |
-| 16 | [roboticswithjulia](https://github.com/roboticswithjulia) | Júlia Marsal Perendreu | Andorra la Vella, Andorra | 85 |
-| 17 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 82 |
-| 18 | [delgod](https://github.com/delgod) | Mykola Marzhan | Andorra | 81 |
-| 19 | [madmongo1](https://github.com/madmongo1) | Richard Hodges | Andorra | 80 |
-| 20 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
+| 10 | [damarnez](https://github.com/damarnez) | Dani Martin Jimenez | Andorra | 103 |
+| 11 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 102 |
+| 12 | [facundomedica](https://github.com/facundomedica) | Facundo Medica | Andorra | 93 |
+| 13 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 92 |
+| 14 | [XaviTorello](https://github.com/XaviTorello) | Xavi Torelló | Andorra | 92 |
+| 15 | [roboticswithjulia](https://github.com/roboticswithjulia) | Júlia Marsal Perendreu | Andorra la Vella, Andorra | 85 |
+| 16 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 82 |
+| 17 | [delgod](https://github.com/delgod) | Mykola Marzhan | Andorra | 81 |
+| 18 | [madmongo1](https://github.com/madmongo1) | Richard Hodges | Andorra | 80 |
+| 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
+| 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 58 |
 
-Generated: 2026-10-07T06:48:01.978Z
+Generated: 2026-10-07T07:34:58.172Z

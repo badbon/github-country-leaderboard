@@ -1,6 +1,6 @@
 # Total Contributions - Brunei
 
-Generated: 2026-10-07T06:50:23.361Z
+Generated: 2026-10-07T07:39:47.290Z
 
 Users: 256
 
@@ -19,8 +19,8 @@ Users: 256
 | 11 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 590 |
 | 12 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi |  |  | Brunei Darussalam | 535 |
 | 13 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 487 |
-| 14 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | @Datastream-Digital  |  | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 479 |
-| 15 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 456 |
+| 14 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 456 |
+| 15 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | @Datastream-Digital  |  | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 378 |
 | 16 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 327 |
 | 17 | [najib-r](https://github.com/najib-r) | najib-r |  |  | Brunei | 314 |
 | 18 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 286 |

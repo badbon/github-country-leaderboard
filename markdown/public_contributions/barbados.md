@@ -1,6 +1,6 @@
 # Public Contributions - Barbados
 
-Generated: 2026-10-07T06:56:57.111Z
+Generated: 2026-10-07T07:37:46.043Z
 
 Users: 133
 
@@ -8,7 +8,7 @@ Users: 133
 |---:|---|---|---|---|---|---:|
 | 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Dharach  | hammertoe | Barbados | 723 |
 | 2 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 588 |
-| 3 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 403 |
+| 3 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 365 |
 | 4 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 352 |
 | 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne |  |  | Bridgetown, Barbados | 309 |
 | 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 269 |
@@ -19,10 +19,10 @@ Users: 133
 | 11 | [kernrocke](https://github.com/kernrocke) | Kern Rocke | The George Alleyne Chronic Disease Research Centre | kernrocke | Bridgetown, Barbados | 180 |
 | 12 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 144 |
 | 13 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte |  |  | Barbados | 107 |
-| 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | M&E Partners Limited |  | St. Phillips, Barbados, W.I. | 88 |
-| 15 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 86 |
-| 16 | [Rayh23](https://github.com/Rayh23) | Raynel |  |  | Barbados | 81 |
-| 17 | [baebranch](https://github.com/baebranch) | Brian Branch |  | baebranch | Barbados | 79 |
-| 18 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 74 |
-| 19 | [VladoPlavsic](https://github.com/VladoPlavsic) | Vlado Plavsic | WELLNUTS |  | Barbados | 61 |
-| 20 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 57 |
+| 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | M&E Partners Limited |  | St. Phillips, Barbados, W.I. | 105 |
+| 15 | [Rayh23](https://github.com/Rayh23) | Raynel |  |  | Barbados | 81 |
+| 16 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 74 |
+| 17 | [baebranch](https://github.com/baebranch) | Brian Branch |  | baebranch | Barbados | 67 |
+| 18 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 57 |
+| 19 | [angustatchell](https://github.com/angustatchell) | Angus Tatchell | @halotrade @chattan-co @sportsfix-co |  | Christ Church, Barbados | 48 |
+| 20 | [VladoPlavsic](https://github.com/VladoPlavsic) | Vlado Plavsic | WELLNUTS |  | Barbados | 48 |

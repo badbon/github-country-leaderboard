@@ -16,22 +16,22 @@ Indexed users: 5,623
 | 2 | [jQuinRivero](https://github.com/jQuinRivero) | Joaquín Rivero | Montevideo, Uruguay | 17,928 |
 | 3 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 13,568 |
 | 4 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini | Montevideo, Uruguay | 11,515 |
-| 5 | [agurod42](https://github.com/agurod42) | Agu Rodríguez | Montevideo, Uruguay, Earth | 10,131 |
-| 6 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | Montevideo, Uruguay | 10,097 |
-| 7 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Uruguay | 9,919 |
-| 8 | [lucasborges2001](https://github.com/lucasborges2001) | Lucas Borges | Montevideo, Uruguay | 9,680 |
-| 9 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias | Montevideo, Uruguay | 9,337 |
-| 10 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | Uruguay | 9,097 |
-| 11 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez | Uruguay | 8,580 |
-| 12 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Uruguay | 8,205 |
-| 13 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
-| 14 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | Montevideo, Uruguay | 7,198 |
-| 15 | [damian-buho](https://github.com/damian-buho) | Damián Búho | Uruguay | 6,976 |
-| 16 | [machester4](https://github.com/machester4) | Michael Pintos | Uruguay | 6,870 |
-| 17 | [gfolga](https://github.com/gfolga) | Gustavo Folga | Montevideo, Uruguay | 6,632 |
-| 18 | [feconroses](https://github.com/feconroses) | Federico Pascual | Punta Ballena, Uruguay | 6,547 |
-| 19 | [maxtechera](https://github.com/maxtechera) | Max Techera | Montevideo, Uruguay | 6,405 |
-| 20 | [renerpdev](https://github.com/renerpdev) | René Ricardo | Uruguay | 6,240 |
+| 5 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | Uruguay | 11,113 |
+| 6 | [agurod42](https://github.com/agurod42) | Agu Rodríguez | Montevideo, Uruguay, Earth | 10,131 |
+| 7 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | Montevideo, Uruguay | 10,097 |
+| 8 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Uruguay | 9,919 |
+| 9 | [lucasborges2001](https://github.com/lucasborges2001) | Lucas Borges | Montevideo, Uruguay | 9,680 |
+| 10 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias | Montevideo, Uruguay | 9,337 |
+| 11 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | Uruguay | 9,097 |
+| 12 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez | Uruguay | 8,580 |
+| 13 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Uruguay | 8,205 |
+| 14 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
+| 15 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | Montevideo, Uruguay | 7,198 |
+| 16 | [damian-buho](https://github.com/damian-buho) | Damián Búho | Uruguay | 6,976 |
+| 17 | [machester4](https://github.com/machester4) | Michael Pintos | Uruguay | 6,870 |
+| 18 | [gfolga](https://github.com/gfolga) | Gustavo Folga | Montevideo, Uruguay | 6,632 |
+| 19 | [feconroses](https://github.com/feconroses) | Federico Pascual | Punta Ballena, Uruguay | 6,547 |
+| 20 | [maxtechera](https://github.com/maxtechera) | Max Techera | Montevideo, Uruguay | 6,405 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,623
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-07T06:42:29.678Z
+Generated: 2026-10-07T07:31:21.705Z

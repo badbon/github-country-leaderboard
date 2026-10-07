@@ -1,14 +1,14 @@
 # Public Contributions - Tanzania
 
-Generated: 2026-10-07T06:39:49.015Z
+Generated: 2026-10-07T07:28:48.193Z
 
-Users: 2043
+Users: 2042
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy |  |  | Tanzania | 20806 |
 | 2 | [cleven12](https://github.com/cleven12) | cleven |  | cleven02 | Tanzania | 11853 |
-| 3 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 10650 |
+| 3 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 11083 |
 | 4 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | kagaconnect |  | Tanzania | 6132 |
 | 5 | [alobit21](https://github.com/alobit21) | mac | Tarxemo Software Company  |  | Dodoma-Tanzania | 4806 |
 | 6 | [Lazackdevs](https://github.com/Lazackdevs) | Lazack_28 | lazack organization |  | dodoma | 4316 |

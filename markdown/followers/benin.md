@@ -1,8 +1,8 @@
 # Followers - Benin
 
-Generated: 2026-10-07T06:49:38.550Z
+Generated: 2026-10-07T07:38:20.035Z
 
-Users: 475
+Users: 474
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 475
 | 3 | [Houessou1](https://github.com/Houessou1) | François-Xavier ALLA HOUESSOU  |  | alla_xavier | Benin 🇧🇯 | 421 |
 | 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole |  | koladev32 | Benin, Cotonou | 233 |
 | 5 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | @lixalistudio @lixalistudio-oss | elikemmedehou | Cotonou, Benin | 228 |
-| 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Xandrotech | XTech26551 | Benin | 139 |
+| 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Xandrotech | XTech26551 | Benin | 138 |
 | 7 | [florentak](https://github.com/florentak) | AYIDEDJI Kossi Florent |  |  | Cotonou, Littoral, Benin | 128 |
 | 8 | [VEGLOgabin](https://github.com/VEGLOgabin) | Gabin Houetchenou VEGLO |  |  | Benin | 115 |
 | 9 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK |  | chafik_Hadj | Benin | 108 |

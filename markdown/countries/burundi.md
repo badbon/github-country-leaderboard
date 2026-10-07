@@ -19,10 +19,10 @@ Indexed users: 237
 | 5 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 1,853 |
 | 6 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 1,766 |
 | 7 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 1,747 |
-| 8 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,622 |
+| 8 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,653 |
 | 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Burundi/Bujumbura | 1,545 |
 | 10 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 1,454 |
-| 11 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,420 |
+| 11 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,315 |
 | 12 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,202 |
 | 13 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,201 |
 | 14 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,177 |
@@ -37,15 +37,15 @@ Indexed users: 237
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,420 |
-| 2 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 891 |
+| 1 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,653 |
+| 2 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 680 |
 | 3 | [Welcomeardin](https://github.com/Welcomeardin) | Mr ardin | Burundi,bujumbura | 624 |
 | 4 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana | Burundi | 520 |
 | 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 442 |
 | 6 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev | Burundi | 425 |
-| 7 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 327 |
-| 8 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 312 |
-| 9 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | burundi | 304 |
+| 7 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | burundi | 356 |
+| 8 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 327 |
+| 9 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 312 |
 | 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 287 |
 | 11 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 269 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY | Burundi/Bujumbura | 220 |
@@ -83,4 +83,4 @@ Indexed users: 237
 | 19 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 36 |
 | 20 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 36 |
 
-Generated: 2026-10-07T06:50:50.317Z
+Generated: 2026-10-07T07:40:25.548Z

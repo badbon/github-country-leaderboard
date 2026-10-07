@@ -1,6 +1,6 @@
 # Followers - Solomon Islands
 
-Generated: 2026-10-07T06:38:30.572Z
+Generated: 2026-10-07T07:26:19.751Z
 
 Users: 19
 
@@ -11,8 +11,8 @@ Users: 19
 | 3 | [b-tupiti](https://github.com/b-tupiti) | Brandon Ryan Tupiti | SINPF |  | Honiara, Solomon Islands | 14 |
 | 4 | [bryanrscott](https://github.com/bryanrscott) | Bryan | FFA |  | Honiara | 14 |
 | 5 | [fdd-eiu](https://github.com/fdd-eiu) |  | FFA | tunaffa | Honiara | 9 |
-| 6 | [Killcode-tech](https://github.com/Killcode-tech) | Killcode_DK  |  |  | Solomon islands 🇸🇧  | 7 |
-| 7 | [filimoni](https://github.com/filimoni) | filimoni | FFA |  | Honiara | 6 |
+| 6 | [filimoni](https://github.com/filimoni) | filimoni | FFA |  | Honiara | 7 |
+| 7 | [Killcode-tech](https://github.com/Killcode-tech) | Killcode_DK  |  |  | Solomon islands 🇸🇧  | 7 |
 | 8 | [h-a-s-k](https://github.com/h-a-s-k) | Hask |  |  | Solomon Islands | 5 |
 | 9 | [replica47](https://github.com/replica47) | Emmanuel Tora Jnr |  | _replica47_ | Solomon Islands | 4 |
 | 10 | [lininn](https://github.com/lininn) | Emerson Towne | Hamill-Bechtelar |  | 029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands | 3 |

@@ -1,6 +1,6 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-07T06:50:50.317Z
+Generated: 2026-10-07T07:40:25.548Z
 
 Users: 237
 
@@ -13,10 +13,10 @@ Users: 237
 | 5 | [mugar](https://github.com/mugar) | mugabo armand |  |  | Burundi | 1853 |
 | 6 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 1766 |
 | 7 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 1747 |
-| 8 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 1622 |
+| 8 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1653 |
 | 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Magis BI |  | Burundi/Bujumbura | 1545 |
 | 10 | [Evran0](https://github.com/Evran0) | Eddy Poli | RIHA TELECOM |  | Bujumbura,  Burundi | 1454 |
-| 11 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1420 |
+| 11 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 1315 |
 | 12 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | ACLIS | gatarelib | Burundi | 1202 |
 | 13 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 1201 |
 | 14 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 1177 |

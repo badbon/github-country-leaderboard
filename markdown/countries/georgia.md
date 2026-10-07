@@ -1,6 +1,6 @@
 # Georgia
 
-Indexed users: 6,899
+Indexed users: 6,886
 
 | Leaderboard | Link |
 |---|---|
@@ -51,8 +51,8 @@ Indexed users: 6,899
 | 12 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 3,522 |
 | 13 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Tbilisi | 3,442 |
 | 14 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 3,307 |
-| 15 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software | 📍 Georgia | 3,214 |
-| 16 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Tbilisi, Georgia | 3,085 |
+| 15 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Tbilisi, Georgia | 3,085 |
+| 16 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software | 📍 Georgia | 3,054 |
 | 17 | [ilobilo](https://github.com/ilobilo) | ilobilo | Georgia | 3,041 |
 | 18 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 3,036 |
 | 19 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | Tbilisi | 3,002 |
@@ -83,4 +83,4 @@ Indexed users: 6,899
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 396 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-07T06:46:12.521Z
+Generated: 2026-10-07T07:33:23.441Z

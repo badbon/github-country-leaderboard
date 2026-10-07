@@ -1,6 +1,6 @@
 # Public Contributions - Vatican City
 
-Generated: 2026-10-07T06:43:35.597Z
+Generated: 2026-10-07T07:31:29.713Z
 
 Users: 30
 
@@ -8,13 +8,13 @@ Users: 30
 |---:|---|---|---|---|---|---:|
 | 1 | [Ventexx](https://github.com/Ventexx) | Ventex |  |  | Vatican City | 168 |
 | 2 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Parufex |  | Vatican | 148 |
-| 3 | [xFaiafokkusu](https://github.com/xFaiafokkusu) | Faiafokkusu |  |  | Vatican | 40 |
-| 4 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | ISP Service |  | Vatican City State | 20 |
-| 5 | [Wiktor-Borski](https://github.com/Wiktor-Borski) | Wiktor Borski |  |  | Vatican | 19 |
-| 6 | [NOPR9D](https://github.com/NOPR9D) | NOPR9D ☄️ | MyLabz | amine_boucham | Vatican City State (Holy See)  | 15 |
-| 7 | [spepei484-coder](https://github.com/spepei484-coder) | Sheretenya | ShereProject |  | Vatican | 11 |
-| 8 | [meereuk](https://github.com/meereuk) | KKUL | Roman Curia |  | Vatican City | 10 |
-| 9 | [Bayu-Risanto](https://github.com/Bayu-Risanto) | Christoforus Bayu Risanto | @CastroRegionalClimateGroup  |  | Vatican City State  | 8 |
+| 3 | [xFaiafokkusu](https://github.com/xFaiafokkusu) | Faiafokkusu |  |  | Vatican | 42 |
+| 4 | [Wiktor-Borski](https://github.com/Wiktor-Borski) | Wiktor Borski |  |  | Vatican | 19 |
+| 5 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | ISP Service |  | Vatican City State | 18 |
+| 6 | [Bayu-Risanto](https://github.com/Bayu-Risanto) | Christoforus Bayu Risanto | @CastroRegionalClimateGroup  |  | Vatican City State  | 15 |
+| 7 | [NOPR9D](https://github.com/NOPR9D) | NOPR9D ☄️ | MyLabz | amine_boucham | Vatican City State (Holy See)  | 15 |
+| 8 | [spepei484-coder](https://github.com/spepei484-coder) | Sheretenya | ShereProject |  | Vatican | 11 |
+| 9 | [meereuk](https://github.com/meereuk) | KKUL | Roman Curia |  | Vatican City | 10 |
 | 10 | [dru91ce](https://github.com/dru91ce) | dru91ce |  |  | Vatican City (Holy See) | 7 |
 | 11 | [EddCova11](https://github.com/EddCova11) | Eduardo Cova | covalux.social | EddCova11 | Vatican City | 5 |
 | 12 | [reijop](https://github.com/reijop) | Reijo Pitkanen |  |  | Vatican City | 3 |

@@ -1,6 +1,6 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-07T06:42:29.678Z
+Generated: 2026-10-07T07:31:21.705Z
 
 Users: 5623
 
@@ -10,19 +10,19 @@ Users: 5623
 | 2 | [jQuinRivero](https://github.com/jQuinRivero) | Joaquín Rivero |  |  | Montevideo, Uruguay | 17928 |
 | 3 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas |  | dcadenas | Montevideo, Uruguay | 13568 |
 | 4 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini |  |  | Montevideo, Uruguay | 11515 |
-| 5 | [agurod42](https://github.com/agurod42) | Agu Rodríguez |  | agurod42 | Montevideo, Uruguay, Earth | 10131 |
-| 6 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | SynerSib Consulting SAS & Strictly | chaplindev | Montevideo, Uruguay | 10097 |
-| 7 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Criptala |  | Uruguay | 9919 |
-| 8 | [lucasborges2001](https://github.com/lucasborges2001) | Lucas Borges |  |  | Montevideo, Uruguay | 9680 |
-| 9 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias |  |  | Montevideo, Uruguay | 9337 |
-| 10 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | @tryolabs  | juanfkurucz | Uruguay | 9097 |
-| 11 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez |  | sfaustto | Uruguay | 8580 |
-| 12 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Iora Labs |  | Uruguay | 8205 |
-| 13 | [Tombar](https://github.com/Tombar) | Martin Loy | Undermountain Coding Company | martinloy | Montevideo, Uruguay | 7600 |
-| 14 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | @NeoCoast  |  | Montevideo, Uruguay | 7198 |
-| 15 | [damian-buho](https://github.com/damian-buho) | Damián Búho |  |  | Uruguay | 6976 |
-| 16 | [machester4](https://github.com/machester4) | Michael Pintos |  |  | Uruguay | 6870 |
-| 17 | [gfolga](https://github.com/gfolga) | Gustavo Folga | Sticky.io |  | Montevideo, Uruguay | 6632 |
-| 18 | [feconroses](https://github.com/feconroses) | Federico Pascual |  | federicopascual | Punta Ballena, Uruguay | 6547 |
-| 19 | [maxtechera](https://github.com/maxtechera) | Max Techera | AnswerAI |  | Montevideo, Uruguay | 6405 |
-| 20 | [renerpdev](https://github.com/renerpdev) | René Ricardo |  |  | Uruguay | 6240 |
+| 5 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | @pentoai  |  | Uruguay | 11113 |
+| 6 | [agurod42](https://github.com/agurod42) | Agu Rodríguez |  | agurod42 | Montevideo, Uruguay, Earth | 10131 |
+| 7 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | SynerSib Consulting SAS & Strictly | chaplindev | Montevideo, Uruguay | 10097 |
+| 8 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Criptala |  | Uruguay | 9919 |
+| 9 | [lucasborges2001](https://github.com/lucasborges2001) | Lucas Borges |  |  | Montevideo, Uruguay | 9680 |
+| 10 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias |  |  | Montevideo, Uruguay | 9337 |
+| 11 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | @tryolabs  | juanfkurucz | Uruguay | 9097 |
+| 12 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez |  | sfaustto | Uruguay | 8580 |
+| 13 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Iora Labs |  | Uruguay | 8205 |
+| 14 | [Tombar](https://github.com/Tombar) | Martin Loy | Undermountain Coding Company | martinloy | Montevideo, Uruguay | 7600 |
+| 15 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | @NeoCoast  |  | Montevideo, Uruguay | 7198 |
+| 16 | [damian-buho](https://github.com/damian-buho) | Damián Búho |  |  | Uruguay | 6976 |
+| 17 | [machester4](https://github.com/machester4) | Michael Pintos |  |  | Uruguay | 6870 |
+| 18 | [gfolga](https://github.com/gfolga) | Gustavo Folga | Sticky.io |  | Montevideo, Uruguay | 6632 |
+| 19 | [feconroses](https://github.com/feconroses) | Federico Pascual |  | federicopascual | Punta Ballena, Uruguay | 6547 |
+| 20 | [maxtechera](https://github.com/maxtechera) | Max Techera | AnswerAI |  | Montevideo, Uruguay | 6405 |

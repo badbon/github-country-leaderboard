@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-07T07:08:48.945Z
+Generated: 2026-10-07T07:38:29.097Z
 
 Users: 270
 
@@ -12,9 +12,9 @@ Users: 270
 | 4 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 3209 |
 | 5 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | @Cloud-Bhutan  | trigdzeen | Thimphu, Bhutan | 3169 |
 | 6 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 3144 |
-| 7 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | College of Science and Technology |  | Bhutan | 2410 |
-| 8 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 2333 |
-| 9 | [singye3](https://github.com/singye3) | Singye Dorji |  |  | Thimphu, Bhutan | 2109 |
+| 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye |  |  | Bhutan | 2663 |
+| 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | College of Science and Technology |  | Bhutan | 2620 |
+| 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 2333 |
 | 10 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 2011 |
 | 11 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1949 |
 | 12 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | @selisebt |  | Thimphu | 1932 |

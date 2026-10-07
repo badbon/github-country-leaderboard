@@ -25,9 +25,9 @@ Indexed users: 1,347
 | 11 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | LUSAKA, ZAMBIA | 3,779 |
 | 12 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | Lusaka, Zambia | 3,753 |
 | 13 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,408 |
-| 14 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 2,985 |
-| 15 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 2,912 |
-| 16 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 2,910 |
+| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 3,057 |
+| 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 2,985 |
+| 16 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 2,912 |
 | 17 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 2,809 |
 | 18 | [pumulo-mufalali](https://github.com/pumulo-mufalali) | Pumulo Mufalali | Lusaka, Zambia | 2,705 |
 | 19 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 2,691 |
@@ -41,7 +41,7 @@ Indexed users: 1,347
 | 2 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 5,942 |
 | 3 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 2,416 |
 | 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 1,672 |
-| 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,553 |
+| 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,670 |
 | 6 | [bsam2019](https://github.com/bsam2019) | Samson Banda | Lusaka. Zambia | 1,179 |
 | 7 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 1,148 |
 | 8 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,062 |
@@ -50,7 +50,7 @@ Indexed users: 1,347
 | 11 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 896 |
 | 12 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 874 |
 | 13 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba | Kitwe, Zambia | 858 |
-| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 771 |
+| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 657 |
 | 15 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 649 |
 | 16 | [paritybits](https://github.com/paritybits) | Parity Chizela | Zambia | 638 |
 | 17 | [chandachewe10](https://github.com/chandachewe10) | Chanda Chewe | Zambia | 628 |
@@ -83,4 +83,4 @@ Indexed users: 1,347
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 105 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 104 |
 
-Generated: 2026-10-07T06:45:23.023Z
+Generated: 2026-10-07T07:32:43.083Z

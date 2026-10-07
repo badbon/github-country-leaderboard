@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-10-07T07:05:43.414Z
+Generated: 2026-10-07T07:56:56.962Z
 
 Users: 139
 
@@ -18,7 +18,7 @@ Users: 139
 | 10 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns |  |  | Jersey, Channel Islands | 34 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 33 |
 | 12 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 30 |
-| 13 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Tiphar Solutions |  | Jersey | 28 |
+| 13 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Tiphar Solutions |  | Jersey | 29 |
 | 14 | [timkrins](https://github.com/timkrins) | Tim Krins | @InfuseGroup  |  | Jersey, Channel Islands | 28 |
 | 15 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 24 |
 | 16 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | @Circlr-io |  | Jersey / London | 23 |

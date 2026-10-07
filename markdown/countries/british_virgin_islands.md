@@ -12,12 +12,12 @@ Indexed users: 38
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 6,232 |
-| 2 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,353 |
+| 1 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 6,394 |
+| 2 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,466 |
 | 3 | [justmoon](https://github.com/justmoon) | Stefan Thomas | British Virgin Islands | 2,165 |
 | 4 | [Dener1111](https://github.com/Dener1111) | DK | Road Town, British Virgin Islands | 2,002 |
 | 5 | [divyansh2681](https://github.com/divyansh2681) | Divyansh Agrawal | Virgin Islands | 433 |
-| 6 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | British Virgin Islands | 67 |
+| 6 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | British Virgin Islands | 66 |
 | 7 | [Computerfile](https://github.com/Computerfile) | Stigma | Virgin Islands | 62 |
 | 8 | [dlichota](https://github.com/dlichota) | Dietmar Lichota | British Virgin Islands  | 57 |
 | 9 | [Domi261](https://github.com/Domi261) | Dominick | British Virgin Islands | 32 |
@@ -37,10 +37,10 @@ Indexed users: 38
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,353 |
+| 1 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,466 |
 | 2 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 114 |
 | 3 | [dlichota](https://github.com/dlichota) | Dietmar Lichota | British Virgin Islands  | 57 |
-| 4 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | British Virgin Islands | 52 |
+| 4 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | British Virgin Islands | 51 |
 | 5 | [Domi261](https://github.com/Domi261) | Dominick | British Virgin Islands | 32 |
 | 6 | [Computerfile](https://github.com/Computerfile) | Stigma | Virgin Islands | 19 |
 | 7 | [Fraodd](https://github.com/Fraodd) | Fraodd | Tortola, British Virgin Islands | 16 |
@@ -75,12 +75,12 @@ Indexed users: 38
 | 11 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 4 |
 | 12 | [SaudAlshamsi](https://github.com/SaudAlshamsi) | Saud | Virgin Islands | 4 |
 | 13 | [SCNPay](https://github.com/SCNPay) | Swis Coin | 121-130, Ormond Building, Dublin, British Virgin Islands | 4 |
-| 14 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | British Virgin Islands | 3 |
-| 15 | [taginternet-opensource](https://github.com/taginternet-opensource) | TAGInternet Opensource | British Virgin Islands | 3 |
-| 16 | [temtum](https://github.com/temtum) | Temtum | British Virgin Islands | 3 |
-| 17 | [BigThiccy2](https://github.com/BigThiccy2) | bigthiccy2 | Little Saint James, Virgin Islands | 2 |
-| 18 | [ilyBen](https://github.com/ilyBen) | Ben | Virgin Islands | 2 |
-| 19 | [PupaKevin](https://github.com/PupaKevin) |  | Virgin Islands  | 2 |
-| 20 | [Vitas1337](https://github.com/Vitas1337) |  | virgin islands | 2 |
+| 14 | [Fraodd](https://github.com/Fraodd) | Fraodd | Tortola, British Virgin Islands | 3 |
+| 15 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | British Virgin Islands | 3 |
+| 16 | [taginternet-opensource](https://github.com/taginternet-opensource) | TAGInternet Opensource | British Virgin Islands | 3 |
+| 17 | [temtum](https://github.com/temtum) | Temtum | British Virgin Islands | 3 |
+| 18 | [BigThiccy2](https://github.com/BigThiccy2) | bigthiccy2 | Little Saint James, Virgin Islands | 2 |
+| 19 | [ilyBen](https://github.com/ilyBen) | Ben | Virgin Islands | 2 |
+| 20 | [PupaKevin](https://github.com/PupaKevin) |  | Virgin Islands  | 2 |
 
-Generated: 2026-10-07T06:50:17.327Z
+Generated: 2026-10-07T07:39:44.506Z

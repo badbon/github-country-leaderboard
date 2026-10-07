@@ -1,6 +1,6 @@
 # Tajikistan
 
-Indexed users: 713
+Indexed users: 712
 
 | Leaderboard | Link |
 |---|---|
@@ -81,6 +81,6 @@ Indexed users: 713
 | 17 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 50 |
 | 18 | [nazarovqurbonali](https://github.com/nazarovqurbonali) | Nazarov Qurbonali | Dushanbe,Tajikistan | 50 |
 | 19 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
-| 20 | [GholibjonMadiyarov](https://github.com/GholibjonMadiyarov) | Gholibjon | Tajikistan | 46 |
+| 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 46 |
 
-Generated: 2026-10-07T06:39:45.541Z
+Generated: 2026-10-07T07:28:41.892Z

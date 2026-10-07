@@ -1,13 +1,13 @@
 # Followers - Gabon
 
-Generated: 2026-10-07T07:01:23.167Z
+Generated: 2026-10-07T07:49:13.315Z
 
 Users: 315
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [yvan-ngoahitsi](https://github.com/yvan-ngoahitsi) | Yvan A. Ngoahitsi | Studios Enigma | yvan_ngoahitsi | Gabon | 139 |
-| 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng |  |  | Gabon | 110 |
+| 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng |  |  | Gabon | 107 |
 | 3 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR |  | ephraimseddor | Libreville, Lomé | 80 |
 | 4 | [bonachylauriel](https://github.com/bonachylauriel) | Leyoussi Bonachi Lauriel | @loona-inc  | BonachyLauriel | Gabon | 71 |
 | 5 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | ANINF | DimitriOngoua | Libreville, Gabon | 65 |

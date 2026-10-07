@@ -1,6 +1,6 @@
 # Burkina Faso
 
-Indexed users: 485
+Indexed users: 484
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 485
 | 19 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN | BURKINAFASO/OUAGADOUGOU | 37 |
 | 20 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 35 |
 
-Generated: 2026-10-07T06:50:47.570Z
+Generated: 2026-10-07T07:39:53.366Z

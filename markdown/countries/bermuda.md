@@ -43,9 +43,9 @@ Indexed users: 916
 | 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 1,963 |
 | 5 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,374 |
 | 6 | [tadhg-moore](https://github.com/tadhg-moore) | Tadhg Moore | Hamilton, NZ | 1,343 |
-| 7 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,242 |
-| 8 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | Hamilton, ON | 1,160 |
-| 9 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel | Hamilton - ON | 1,007 |
+| 7 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | Hamilton, ON | 1,264 |
+| 8 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,242 |
+| 9 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel | Hamilton - ON | 1,005 |
 | 10 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 921 |
 | 11 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 895 |
 | 12 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 881 |
@@ -65,7 +65,7 @@ Indexed users: 916
 | 1 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 35,815 |
 | 2 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 921 |
 | 3 | [augustoproiete](https://github.com/augustoproiete) | Augusto Proiete | Bermuda | 326 |
-| 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 239 |
+| 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 271 |
 | 5 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 223 |
 | 6 | [drewminns](https://github.com/drewminns) | Drew Minns | Hamilton | 220 |
 | 7 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 197 |
@@ -83,4 +83,4 @@ Indexed users: 916
 | 19 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 87 |
 | 20 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | Hamilton | 86 |
 
-Generated: 2026-10-07T06:49:41.483Z
+Generated: 2026-10-07T07:38:23.155Z

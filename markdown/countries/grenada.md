@@ -13,20 +13,20 @@ Indexed users: 38
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 1,393 |
-| 2 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre T. R. Walters | Grenada, West Indies | 776 |
-| 3 | [Tosinish88](https://github.com/Tosinish88) | Oluwatosin Ishmeal | Grenada | 429 |
+| 2 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters | Grenada, West Indies | 748 |
+| 3 | [Tosinish88](https://github.com/Tosinish88) | Oluwatosin Ishmeal | Grenada | 430 |
 | 4 | [smcqueen-95](https://github.com/smcqueen-95) | Samira Mc Queen | Grenada | 250 |
 | 5 | [davidwilson001](https://github.com/davidwilson001) | David Wilson | Grenada | 187 |
 | 6 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 144 |
 | 7 | [AlexS473](https://github.com/AlexS473) | Shereece Victor | Grenada | 107 |
 | 8 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 39 |
 | 9 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard | Grenada, West Indies | 28 |
-| 10 | [Tisagh](https://github.com/Tisagh) | Tisagh Chase | Grenada | 15 |
-| 11 | [DamioneJDARBEAU](https://github.com/DamioneJDARBEAU) | Damione Darbeau | Grenada  | 14 |
-| 12 | [Edixlk](https://github.com/Edixlk) | jsh.dev | Grenada | 13 |
-| 13 | [al-latte](https://github.com/al-latte) | Karlisha Roberts | Grenada | 10 |
-| 14 | [fegvebhtrbtr](https://github.com/fegvebhtrbtr) | Qingling Wang | Grenada | 8 |
-| 15 | [trudygill](https://github.com/trudygill) | Trudy Gill | Grenada | 5 |
+| 10 | [trudygill](https://github.com/trudygill) | Trudy Gill | Grenada | 21 |
+| 11 | [Tisagh](https://github.com/Tisagh) | Tisagh Chase | Grenada | 15 |
+| 12 | [DamioneJDARBEAU](https://github.com/DamioneJDARBEAU) | Damione Darbeau | Grenada  | 14 |
+| 13 | [Edixlk](https://github.com/Edixlk) | jsh.dev | Grenada | 13 |
+| 14 | [al-latte](https://github.com/al-latte) | Karlisha Roberts | Grenada | 10 |
+| 15 | [fegvebhtrbtr](https://github.com/fegvebhtrbtr) | Qingling Wang | Grenada | 8 |
 | 16 | [Adrito981119](https://github.com/Adrito981119) | Adrian Almeida Garcia | Saint George, Grenada | 3 |
 | 17 | [kranks40](https://github.com/kranks40) | Oketo Peters | Grenada | 2 |
 | 18 | [leo-the-dev](https://github.com/leo-the-dev) | Leo | Grenada | 2 |
@@ -37,17 +37,17 @@ Indexed users: 38
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre T. R. Walters | Grenada, West Indies | 717 |
+| 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters | Grenada, West Indies | 689 |
 | 2 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 101 |
 | 3 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 81 |
 | 4 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 39 |
 | 5 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard | Grenada, West Indies | 28 |
-| 6 | [DamioneJDARBEAU](https://github.com/DamioneJDARBEAU) | Damione Darbeau | Grenada  | 14 |
-| 7 | [Edixlk](https://github.com/Edixlk) | jsh.dev | Grenada | 13 |
-| 8 | [al-latte](https://github.com/al-latte) | Karlisha Roberts | Grenada | 10 |
-| 9 | [davidwilson001](https://github.com/davidwilson001) | David Wilson | Grenada | 10 |
-| 10 | [fegvebhtrbtr](https://github.com/fegvebhtrbtr) | Qingling Wang | Grenada | 8 |
-| 11 | [trudygill](https://github.com/trudygill) | Trudy Gill | Grenada | 5 |
+| 6 | [trudygill](https://github.com/trudygill) | Trudy Gill | Grenada | 21 |
+| 7 | [DamioneJDARBEAU](https://github.com/DamioneJDARBEAU) | Damione Darbeau | Grenada  | 14 |
+| 8 | [Edixlk](https://github.com/Edixlk) | jsh.dev | Grenada | 13 |
+| 9 | [al-latte](https://github.com/al-latte) | Karlisha Roberts | Grenada | 10 |
+| 10 | [davidwilson001](https://github.com/davidwilson001) | David Wilson | Grenada | 10 |
+| 11 | [fegvebhtrbtr](https://github.com/fegvebhtrbtr) | Qingling Wang | Grenada | 8 |
 | 12 | [Adrito981119](https://github.com/Adrito981119) | Adrian Almeida Garcia | Saint George, Grenada | 3 |
 | 13 | [AlexS473](https://github.com/AlexS473) | Shereece Victor | Grenada | 2 |
 | 14 | [kranks40](https://github.com/kranks40) | Oketo Peters | Grenada | 2 |
@@ -62,10 +62,10 @@ Indexed users: 38
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre T. R. Walters | Grenada, West Indies | 33 |
-| 2 | [al-latte](https://github.com/al-latte) | Karlisha Roberts | Grenada | 25 |
+| 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters | Grenada, West Indies | 33 |
+| 2 | [al-latte](https://github.com/al-latte) | Karlisha Roberts | Grenada | 27 |
 | 3 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 18 |
-| 4 | [smcqueen-95](https://github.com/smcqueen-95) | Samira Mc Queen | Grenada | 12 |
+| 4 | [smcqueen-95](https://github.com/smcqueen-95) | Samira Mc Queen | Grenada | 13 |
 | 5 | [ufukdelrey](https://github.com/ufukdelrey) |  | Grenada | 9 |
 | 6 | [clevonnoel](https://github.com/clevonnoel) | Clevon Noel | Grenada | 7 |
 | 7 | [davethedevofficial](https://github.com/davethedevofficial) | DaveTheDev | Grenada | 7 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 3 |
 | 20 | [OmariCelestine](https://github.com/OmariCelestine) | Omari Celestine | Grenada | 3 |
 
-Generated: 2026-10-07T07:02:02.052Z
+Generated: 2026-10-07T07:50:10.530Z

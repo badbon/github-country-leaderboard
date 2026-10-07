@@ -1,6 +1,6 @@
 # Belarus
 
-Indexed users: 10,958
+Indexed users: 10,956
 
 | Leaderboard | Link |
 |---|---|
@@ -14,9 +14,9 @@ Indexed users: 10,958
 |---:|---|---|---|---:|
 | 1 | [kudima03](https://github.com/kudima03) | Dmitry Kurochkin | Minsk, Belarus | 14,885 |
 | 2 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 14,416 |
-| 3 | [jakwuh](https://github.com/jakwuh) | James | Belarus | 11,999 |
-| 4 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau | Belarus, Minsk | 10,259 |
-| 5 | [masasibata](https://github.com/masasibata) | Artem | Belarus | 10,205 |
+| 3 | [masasibata](https://github.com/masasibata) | Artem | Belarus | 12,224 |
+| 4 | [jakwuh](https://github.com/jakwuh) | James | Belarus | 11,999 |
+| 5 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau | Belarus, Minsk | 10,259 |
 | 6 | [fxpw](https://github.com/fxpw) | fxpw | Belarus | 9,448 |
 | 7 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 6,414 |
 | 8 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
@@ -83,4 +83,4 @@ Indexed users: 10,958
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-10-07T06:59:14.488Z
+Generated: 2026-10-07T07:37:50.348Z

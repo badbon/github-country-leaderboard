@@ -1,8 +1,8 @@
 # Followers - Fiji
 
-Generated: 2026-10-07T07:01:10.405Z
+Generated: 2026-10-07T07:48:32.531Z
 
-Users: 329
+Users: 328
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -13,8 +13,8 @@ Users: 329
 | 5 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Forward company (FIJI) |  | Nadi ,Fiji | 66 |
 | 6 | [GeekTR](https://github.com/GeekTR) | Rui Tang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 64 |
 | 7 | [Iapa](https://github.com/Iapa) | Ava Niu |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 37 |
-| 8 | [JonGates](https://github.com/JonGates) | Jon Gates | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 33 |
-| 9 | [Pranav-XP](https://github.com/Pranav-XP) | Pranav |  |  | Fiji | 32 |
+| 8 | [Pranav-XP](https://github.com/Pranav-XP) | Pranav |  |  | Fiji | 34 |
+| 9 | [JonGates](https://github.com/JonGates) | Jon Gates | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 33 |
 | 10 | [anuraganands](https://github.com/anuraganands) | Anuraganand Sharma | The University of the South Pacific, Fiji |  | Suva, Fiji | 29 |
 | 11 | [mucsbr](https://github.com/mucsbr) | beingS | Zenaida |  | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 28 |
 | 12 | [Colorlaris](https://github.com/Colorlaris) |  |  |  | Fiji | 27 |

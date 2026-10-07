@@ -18,9 +18,9 @@ Indexed users: 270
 | 4 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 3,209 |
 | 5 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | Thimphu, Bhutan | 3,169 |
 | 6 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 3,144 |
-| 7 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,410 |
-| 8 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,333 |
-| 9 | [singye3](https://github.com/singye3) | Singye Dorji | Thimphu, Bhutan | 2,109 |
+| 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,663 |
+| 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,620 |
+| 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,333 |
 | 10 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 2,011 |
 | 11 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 1,949 |
 | 12 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 1,932 |
@@ -44,7 +44,7 @@ Indexed users: 270
 | 5 | [twangyel](https://github.com/twangyel) | Tandin Wangyel | Bhutan | 920 |
 | 6 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 679 |
 | 7 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 440 |
-| 8 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 390 |
+| 8 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 430 |
 | 9 | [nimaytenzin](https://github.com/nimaytenzin) |  | Bhutan | 358 |
 | 10 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 327 |
 | 11 | [bishal-dd](https://github.com/bishal-dd) | Bishal | Bhutan | 318 |
@@ -83,4 +83,4 @@ Indexed users: 270
 | 19 | [EshanB101](https://github.com/EshanB101) | Eshan Basnet | Thimphu, Bhutan | 22 |
 | 20 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-07T07:08:48.945Z
+Generated: 2026-10-07T07:38:29.097Z

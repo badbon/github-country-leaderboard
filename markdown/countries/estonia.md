@@ -13,10 +13,10 @@ Indexed users: 4,925
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ersinkoc](https://github.com/ersinkoc) | Ersin KOÇ | Tallinn | 23,338 |
-| 2 | [kwunlokng](https://github.com/kwunlokng) | Kwun-Lok Ng | Tallinn, Estonia | 22,394 |
-| 3 | [trevorlasn](https://github.com/trevorlasn) | Trevor I. Lasn | Tartu, Estonia | 20,844 |
-| 4 | [oisincoveney](https://github.com/oisincoveney) | Oisin Coveney | Tallinn, Estonia | 15,379 |
-| 5 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Estonia | 15,221 |
+| 2 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Estonia | 22,475 |
+| 3 | [kwunlokng](https://github.com/kwunlokng) | Kwun-Lok Ng | Tallinn, Estonia | 22,394 |
+| 4 | [trevorlasn](https://github.com/trevorlasn) | Trevor I. Lasn | Tartu, Estonia | 20,844 |
+| 5 | [oisincoveney](https://github.com/oisincoveney) | Oisin Coveney | Tallinn, Estonia | 15,379 |
 | 6 | [battlesnake](https://github.com/battlesnake) | Mark Cowan | Tallinn | 13,447 |
 | 7 | [kempu](https://github.com/kempu) | Klemens Arro | Estonia | 12,958 |
 | 8 | [tooming](https://github.com/tooming) | Martin Tooming | Tallinn | 12,354 |
@@ -41,19 +41,19 @@ Indexed users: 4,925
 | 2 | [livenson](https://github.com/livenson) | Ilja Livenson | Estonia | 9,018 |
 | 3 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 8,508 |
 | 4 | [v3rm0n](https://github.com/v3rm0n) | Maido Käära | Tallinn | 7,088 |
-| 5 | [xsyetopz](https://github.com/xsyetopz) | iborrowcheckbtw | Tartu, Estonia | 6,081 |
-| 6 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 5,781 |
-| 7 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 4,882 |
-| 8 | [tot-ra](https://github.com/tot-ra) | Artjom Kurapov | Tallinn, Estonia | 4,407 |
-| 9 | [AmbientLighter](https://github.com/AmbientLighter) | Viktor Mirieiev | Tallinn | 3,899 |
-| 10 | [crc137](https://github.com/crc137) | Alberto Clemente | Ehitajate tee 153 13517 Tallinn Estonia | 3,745 |
-| 11 | [GelatoGenesis](https://github.com/GelatoGenesis) | GelatoGenesis | Estonia | 3,272 |
-| 12 | [ddanila](https://github.com/ddanila) | Danila Sukharev | Tallinn, Estonia | 3,217 |
-| 13 | [cogni-ai-ee](https://github.com/cogni-ai-ee) | Cogni AI | Tallinn, Estonia | 3,201 |
-| 14 | [Artexis10](https://github.com/Artexis10) | Hugo Ander Kivi | Tallinn | 3,157 |
-| 15 | [ddon](https://github.com/ddon) | Dmitri Don | Tallinn, Estonia | 3,112 |
-| 16 | [timujinne](https://github.com/timujinne) | Tymofii Shapovalov | Tallinn, Estonia | 3,049 |
-| 17 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Estonia | 3,013 |
+| 5 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Estonia | 6,088 |
+| 6 | [xsyetopz](https://github.com/xsyetopz) | iborrowcheckbtw | Tartu, Estonia | 6,081 |
+| 7 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 5,781 |
+| 8 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 4,882 |
+| 9 | [tot-ra](https://github.com/tot-ra) | Artjom Kurapov | Tallinn, Estonia | 4,407 |
+| 10 | [AmbientLighter](https://github.com/AmbientLighter) | Viktor Mirieiev | Tallinn | 3,899 |
+| 11 | [crc137](https://github.com/crc137) | Alberto Clemente | Ehitajate tee 153 13517 Tallinn Estonia | 3,745 |
+| 12 | [GelatoGenesis](https://github.com/GelatoGenesis) | GelatoGenesis | Estonia | 3,272 |
+| 13 | [cogni-ai-ee](https://github.com/cogni-ai-ee) | Cogni AI | Tallinn, Estonia | 3,232 |
+| 14 | [ddanila](https://github.com/ddanila) | Danila Sukharev | Tallinn, Estonia | 3,217 |
+| 15 | [Artexis10](https://github.com/Artexis10) | Hugo Ander Kivi | Tallinn | 3,157 |
+| 16 | [ddon](https://github.com/ddon) | Dmitri Don | Tallinn, Estonia | 3,112 |
+| 17 | [timujinne](https://github.com/timujinne) | Tymofii Shapovalov | Tallinn, Estonia | 3,049 |
 | 18 | [henrikaavik](https://github.com/henrikaavik) | Henrik Aavik | Tallinn, Estonia | 2,994 |
 | 19 | [kpavlov](https://github.com/kpavlov) | Konstantin Pavlov | Tallinn, Estonia | 2,988 |
 | 20 | [janklosowski](https://github.com/janklosowski) | klos | Estonia | 2,807 |
@@ -83,4 +83,4 @@ Indexed users: 4,925
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 391 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-07T07:00:36.423Z
+Generated: 2026-10-07T07:47:54.522Z

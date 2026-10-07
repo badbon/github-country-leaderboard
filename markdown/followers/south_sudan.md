@@ -1,6 +1,6 @@
 # Followers - South Sudan
 
-Generated: 2026-10-07T06:39:05.397Z
+Generated: 2026-10-07T07:27:29.694Z
 
 Users: 135
 
@@ -12,7 +12,7 @@ Users: 135
 | 4 | [OchudhoCham](https://github.com/OchudhoCham) | Ochudho Cham |  | ChamOchudho | Juba,South Sudan | 64 |
 | 5 | [longmaker2](https://github.com/longmaker2) | Long Maker Long Deng | African Leadership University (ALU) | LongMakerGutaja | Juba | 45 |
 | 6 | [kilataban](https://github.com/kilataban) | Kila Taban  |  |  | Juba, South Sudan | 41 |
-| 7 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Lajik Tech | Dengtieljr15673 | Juba/Online | 37 |
+| 7 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Lajik Tech | Dengtieljr15673 | Juba/Online | 36 |
 | 8 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Belednai Technology |  | Juba-South Sudan | 36 |
 | 9 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | @DIGI-UW  @OPENMRS | djnuior256 | Juba  | 32 |
 | 10 | [riakizo](https://github.com/riakizo) | Riak Isaac | Abukruel international group | Riak03 | South Sudan  | 31 |

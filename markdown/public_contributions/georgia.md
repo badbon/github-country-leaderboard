@@ -1,8 +1,8 @@
 # Public Contributions - Georgia
 
-Generated: 2026-10-07T06:46:12.521Z
+Generated: 2026-10-07T07:33:23.441Z
 
-Users: 6899
+Users: 6886
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,8 +20,8 @@ Users: 6899
 | 12 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | @composioHQ | jkomyno | Tbilisi, Georgia | 3522 |
 | 13 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Freelancer |  | Tbilisi | 3442 |
 | 14 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 3307 |
-| 15 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3214 |
-| 16 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3085 |
+| 15 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3085 |
+| 16 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3054 |
 | 17 | [ilobilo](https://github.com/ilobilo) | ilobilo |  |  | Georgia | 3041 |
 | 18 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 3036 |
 | 19 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet |  | Tbilisi | 3002 |

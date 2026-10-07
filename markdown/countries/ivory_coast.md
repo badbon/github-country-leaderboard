@@ -26,9 +26,9 @@ Indexed users: 488
 | 12 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 4,264 |
 | 13 | [siguici](https://github.com/siguici) | SIGUI Kessé Emmanuel | Abidjan, Ivory Coast | 4,103 |
 | 14 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | Abidjan, Côte d'Ivoire | 4,056 |
-| 15 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 3,658 |
-| 16 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Abidjan, Côte d'Ivoire | 3,644 |
-| 17 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo | Yamoussoukro, côte d'ivoire  | 3,591 |
+| 15 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo | Yamoussoukro, côte d'ivoire  | 3,713 |
+| 16 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 3,658 |
+| 17 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Abidjan, Côte d'Ivoire | 3,644 |
 | 18 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 3,371 |
 | 19 | [sovmulax](https://github.com/sovmulax) | Geoffroy Evane | Abidjan, Côte d'Ivoire | 3,156 |
 | 20 | [ulrichkouame](https://github.com/ulrichkouame) | KOUAME Ulrich Kouadio | Ivory Coast | 2,990 |
@@ -43,14 +43,14 @@ Indexed users: 488
 | 4 | [MamadouKernel](https://github.com/MamadouKernel) | Konate Mamadou | Abidjan, Côte d'ivoire | 789 |
 | 5 | [codescooper](https://github.com/codescooper) | Code Scooper | Abidjan, Côte d'ivoire | 782 |
 | 6 | [moasko](https://github.com/moasko) | moasko.dev | Côte d'Ivoire | 742 |
-| 7 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo | Yamoussoukro, côte d'ivoire  | 698 |
+| 7 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo | Yamoussoukro, côte d'ivoire  | 708 |
 | 8 | [kjlinux](https://github.com/kjlinux) | Ghost | Yamoussoukro, Côte d'Ivoire | 594 |
 | 9 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 592 |
 | 10 | [MALICK-GITH](https://github.com/MALICK-GITH) | SOLITAIRE HACK | Ivory coast 🇨🇮 | 539 |
 | 11 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Côte d'Ivoire, Abidjan | 514 |
-| 12 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 461 |
-| 13 | [DPYTHA](https://github.com/DPYTHA) | Agoua Moua | Ivory Coast | 440 |
-| 14 | [zampou-code](https://github.com/zampou-code) | Zi Code | Abidjan, Ivory Coast | 386 |
+| 12 | [DPYTHA](https://github.com/DPYTHA) | Agoua Moua | Ivory Coast | 440 |
+| 13 | [zampou-code](https://github.com/zampou-code) | Zi Code | Abidjan, Ivory Coast | 386 |
+| 14 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 367 |
 | 15 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 366 |
 | 16 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 323 |
 | 17 | [Diby-dev](https://github.com/Diby-dev) | Dan | Côte d'Ivoire, Abidjan | 302 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
 | 20 | [k111ra](https://github.com/k111ra) | sidik slims | Abidjan, Côte D'ivoire | 42 |
 
-Generated: 2026-10-07T07:05:09.897Z
+Generated: 2026-10-07T07:56:47.364Z

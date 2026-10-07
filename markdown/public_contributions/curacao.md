@@ -1,18 +1,18 @@
 # Public Contributions - Curaçao
 
-Generated: 2026-10-07T06:56:56.003Z
+Generated: 2026-10-07T07:45:18.862Z
 
 Users: 53
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 3249 |
+| 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 3269 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe |  | wiebe1971 | Willemstad, Curaçao | 470 |
-| 3 | [JObersi10](https://github.com/JObersi10) |  | @Hack-Club-Curacao  |  | Willemstad, Curaçao | 423 |
-| 4 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 383 |
+| 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 465 |
+| 4 | [JObersi10](https://github.com/JObersi10) |  | @Hack-Club-Curacao  |  | Willemstad, Curaçao | 423 |
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 253 |
-| 6 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 132 |
-| 7 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 56 |
+| 6 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 130 |
+| 7 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 51 |
 | 8 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Artificial Intelligence Systems | angelrgonzalezg | Willemstad, Curacao | 45 |
 | 9 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 42 |
 | 10 | [agenteardilla47](https://github.com/agenteardilla47) |  | Antheus |  | willemstad | 41 |

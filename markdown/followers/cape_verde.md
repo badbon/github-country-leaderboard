@@ -1,6 +1,6 @@
 # Followers - Cape Verde
 
-Generated: 2026-10-07T06:50:59.929Z
+Generated: 2026-10-07T07:40:48.003Z
 
 Users: 565
 
@@ -22,7 +22,7 @@ Users: 565
 | 14 | [JulianeMonteiro](https://github.com/JulianeMonteiro) | Juliane Aparecida Monteiro dos Santos |  |  | Praia Grande - SP | 75 |
 | 15 | [GabrielJalmeida](https://github.com/GabrielJalmeida) | Gabriel Almeida |  |  | Praia Grande | 74 |
 | 16 | [emimuniz](https://github.com/emimuniz) | Emillyn Muniz  |  |  | Praia Grande - SP  | 73 |
-| 17 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros |  |  | Praia, Cabo Verde | 58 |
-| 18 | [KaiqueLusvarghi](https://github.com/KaiqueLusvarghi) | Kaique Ortolani Lusvarghi | Fatec-PG |  | Praia Grande -SP | 58 |
-| 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo |  |  | Praia de Jatobá, SE - Brasil | 58 |
-| 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares |  |  | Cape Verde | 53 |
+| 17 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 59 |
+| 18 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros |  |  | Praia, Cabo Verde | 58 |
+| 19 | [KaiqueLusvarghi](https://github.com/KaiqueLusvarghi) | Kaique Ortolani Lusvarghi | Fatec-PG |  | Praia Grande -SP | 58 |
+| 20 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo |  |  | Praia de Jatobá, SE - Brasil | 58 |

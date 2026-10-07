@@ -1,6 +1,6 @@
 # Benin
 
-Indexed users: 475
+Indexed users: 474
 
 | Leaderboard | Link |
 |---|---|
@@ -27,9 +27,9 @@ Indexed users: 475
 | 13 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,685 |
 | 14 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,665 |
 | 15 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 3,441 |
-| 16 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,211 |
-| 17 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,119 |
-| 18 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,005 |
+| 16 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,213 |
+| 17 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,211 |
+| 18 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,119 |
 | 19 | [Blooz231](https://github.com/Blooz231) | Blooz Angus | Benin | 2,993 |
 | 20 | [chaldrak](https://github.com/chaldrak) | Chaldrak DOKPA | Benin | 2,971 |
 
@@ -67,7 +67,7 @@ Indexed users: 475
 | 3 | [Houessou1](https://github.com/Houessou1) | François-Xavier ALLA HOUESSOU  | Benin 🇧🇯 | 421 |
 | 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 233 |
 | 5 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | Cotonou, Benin | 228 |
-| 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Benin | 139 |
+| 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Benin | 138 |
 | 7 | [florentak](https://github.com/florentak) | AYIDEDJI Kossi Florent | Cotonou, Littoral, Benin | 128 |
 | 8 | [VEGLOgabin](https://github.com/VEGLOgabin) | Gabin Houetchenou VEGLO | Benin | 115 |
 | 9 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 108 |
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 74 |
 | 20 | [romeokakpo](https://github.com/romeokakpo) | Roméo KAKPO | Benin | 70 |
 
-Generated: 2026-10-07T06:49:38.550Z
+Generated: 2026-10-07T07:38:20.035Z

@@ -1,6 +1,6 @@
 # Followers - Guinea-Bissau
 
-Generated: 2026-10-07T07:02:45.323Z
+Generated: 2026-10-07T07:53:46.587Z
 
 Users: 22
 
@@ -15,8 +15,8 @@ Users: 22
 | 7 | [etiandroucha](https://github.com/etiandroucha) | Etiandro Ucha | Growth.gw |  | Guiné-Bissau | 4 |
 | 8 | [mamadubillw](https://github.com/mamadubillw) | Mamadu Bilo Djalo | Full-Time Programmer |  | Bissau | 4 |
 | 9 | [ricardovazcorreia](https://github.com/ricardovazcorreia) | Ricardo Vaz Correia | Freelance |  | Bissau | 4 |
-| 10 | [Samsilva64](https://github.com/Samsilva64) | Daltonsilva |  |  | Guiné-bissau/pluba | 4 |
-| 11 | [GiovanniGBF](https://github.com/GiovanniGBF) | Giovanni Gustavo Baticã Ferreira | ULG & Curso em Video |  | Bissau | 3 |
+| 10 | [GiovanniGBF](https://github.com/GiovanniGBF) | Giovanni Gustavo Baticã Ferreira | ULG & Curso em Video |  | Bissau | 3 |
+| 11 | [Samsilva64](https://github.com/Samsilva64) | Daltonsilva |  |  | Guiné-bissau/pluba | 3 |
 | 12 | [baribucirio-cmyk](https://github.com/baribucirio-cmyk) | Bucirio Bari | Estudante |  | Guiné-Bissau | 2 |
 | 13 | [losbagos](https://github.com/losbagos) | los bagos |  |  | guinea bissau | 2 |
 | 14 | [ibanora](https://github.com/ibanora) | Idrissa Banora | Idrais CTWD Bissau |  | Guiné Bissau | 1 |

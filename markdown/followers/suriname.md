@@ -1,6 +1,6 @@
 # Followers - Suriname
 
-Generated: 2026-10-07T06:39:14.990Z
+Generated: 2026-10-07T07:27:38.321Z
 
 Users: 124
 
@@ -21,8 +21,8 @@ Users: 124
 | 13 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | EndaCore Software | jhon_corella | Paramaribo | 27 |
 | 14 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Divengine Software Solutions | rafageist | Paramaribo, Suriname | 27 |
 | 15 | [viramdin](https://github.com/viramdin) | Viresh Ramdin | Qualogy Caribbean |  | Suriname | 23 |
-| 16 | [timmy1420](https://github.com/timmy1420) | Timothy Pocorni |  |  | Suriname | 22 |
-| 17 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman |  | Giannisanii | Paramaribo, Suriname | 20 |
+| 16 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman |  | Giannisanii | Paramaribo, Suriname | 22 |
+| 17 | [timmy1420](https://github.com/timmy1420) | Timothy Pocorni |  |  | Suriname | 22 |
 | 18 | [dcruz1990](https://github.com/dcruz1990) | Dennis Quesada Cruz | MyndGoals LLC | Dcruz19901 | Paramaribo, Surinam | 18 |
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman |  |  | Suriname | 18 |
 | 20 | [DustinVII](https://github.com/DustinVII) |  |  |  | Suriname | 16 |

@@ -12,26 +12,26 @@ Indexed users: 38
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [QVault](https://github.com/QVault) | Quincent | Aruba | 1,708 |
-| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 795 |
+| 1 | [QVault](https://github.com/QVault) | Quincent | Aruba | 1,707 |
+| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 798 |
 | 3 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 576 |
 | 4 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 561 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 495 |
 | 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 201 |
-| 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 169 |
+| 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 175 |
 | 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 102 |
 | 9 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
 | 10 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 51 |
 | 11 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 48 |
-| 12 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee | Aruba | 46 |
+| 12 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee | Aruba | 34 |
 | 13 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 28 |
 | 14 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
 | 15 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 11 |
 | 16 | [AyrtonAG](https://github.com/AyrtonAG) | Ayrton Geerman | Aruba | 8 |
-| 17 | [awsaruba](https://github.com/awsaruba) | ⟨Amazing Web Solutions Aruba⟩ | Oranjestad,Aruba | 7 |
-| 18 | [Antoine0823](https://github.com/Antoine0823) | N21 | Aruba | 3 |
-| 19 | [aarends](https://github.com/aarends) | Alan A. | Aruba | 2 |
-| 20 | [piedraplat](https://github.com/piedraplat) |  | Aruba | 2 |
+| 17 | [Antoine0823](https://github.com/Antoine0823) | N21 | Aruba | 3 |
+| 18 | [aarends](https://github.com/aarends) | Alan A. | Aruba | 2 |
+| 19 | [piedraplat](https://github.com/piedraplat) |  | Aruba | 2 |
+| 20 | [ahagens](https://github.com/ahagens) | Andrew Hagens | Oranjestad | 0 |
 
 ## Public Contributions
 
@@ -40,29 +40,29 @@ Indexed users: 38
 | 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 576 |
 | 2 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 495 |
 | 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 201 |
-| 4 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 107 |
+| 4 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 113 |
 | 5 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 102 |
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
 | 7 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 51 |
 | 8 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 48 |
 | 9 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 30 |
 | 10 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 28 |
-| 11 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee | Aruba | 18 |
+| 11 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee | Aruba | 19 |
 | 12 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
 | 13 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 11 |
 | 14 | [AyrtonAG](https://github.com/AyrtonAG) | Ayrton Geerman | Aruba | 8 |
-| 15 | [awsaruba](https://github.com/awsaruba) | ⟨Amazing Web Solutions Aruba⟩ | Oranjestad,Aruba | 7 |
-| 16 | [Antoine0823](https://github.com/Antoine0823) | N21 | Aruba | 3 |
-| 17 | [aarends](https://github.com/aarends) | Alan A. | Aruba | 2 |
-| 18 | [piedraplat](https://github.com/piedraplat) |  | Aruba | 2 |
-| 19 | [ahagens](https://github.com/ahagens) | Andrew Hagens | Oranjestad | 0 |
-| 20 | [ArubaTourismAuthority](https://github.com/ArubaTourismAuthority) | Aruba Tourism Authority | Aruba | 0 |
+| 15 | [Antoine0823](https://github.com/Antoine0823) | N21 | Aruba | 3 |
+| 16 | [aarends](https://github.com/aarends) | Alan A. | Aruba | 2 |
+| 17 | [piedraplat](https://github.com/piedraplat) |  | Aruba | 2 |
+| 18 | [ahagens](https://github.com/ahagens) | Andrew Hagens | Oranjestad | 0 |
+| 19 | [ArubaTourismAuthority](https://github.com/ArubaTourismAuthority) | Aruba Tourism Authority | Aruba | 0 |
+| 20 | [awsaruba](https://github.com/awsaruba) | ⟨Amazing Web Solutions Aruba⟩ | Oranjestad,Aruba | 0 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 68 |
+| 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 69 |
 | 2 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 18 |
 | 3 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
 | 4 | [PICyber](https://github.com/PICyber) |  | ⭕️❌⭕️✯ARUBA✯⭕️❌⭕️ | 15 |
@@ -78,9 +78,9 @@ Indexed users: 38
 | 14 | [ahagens](https://github.com/ahagens) | Andrew Hagens | Oranjestad | 6 |
 | 15 | [ivanfeli](https://github.com/ivanfeli) | Ivan Feliciano | Aruba | 6 |
 | 16 | [voedito](https://github.com/voedito) | Voedito | Aruba | 6 |
-| 17 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 5 |
-| 18 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 5 |
-| 19 | [awsaruba](https://github.com/awsaruba) | ⟨Amazing Web Solutions Aruba⟩ | Oranjestad,Aruba | 4 |
+| 17 | [awsaruba](https://github.com/awsaruba) | ⟨Amazing Web Solutions Aruba⟩ | Oranjestad,Aruba | 5 |
+| 18 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 5 |
+| 19 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 5 |
 | 20 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-07T06:48:28.060Z
+Generated: 2026-10-07T07:36:05.894Z

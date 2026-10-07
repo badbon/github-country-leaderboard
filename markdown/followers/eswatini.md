@@ -1,8 +1,8 @@
 # Followers - Eswatini
 
-Generated: 2026-10-07T07:00:40.354Z
+Generated: 2026-10-07T07:48:12.267Z
 
-Users: 109
+Users: 108
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,9 +17,9 @@ Users: 109
 | 9 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 17 |
 | 10 | [adekunleowolabi](https://github.com/adekunleowolabi) | Adekunle Owolabi |  | iamkstunt | Mbabane, Eswatini | 14 |
 | 11 | [Milly801](https://github.com/Milly801) | Gcwalisile Matse |  | Zuzu_Nkhosi | Mbabane, Eswatini | 13 |
-| 12 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Onswaziline |  | Mbabane, Swaziland | 12 |
-| 13 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 11 |
-| 14 | [Oscah3](https://github.com/Oscah3) | Siphesihle Malinga | Cubic Systems Investments (Pty) Ltd. t/a The ScopeHost Operating Company |  | Manzini, Eswatini | 11 |
+| 12 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 11 |
+| 13 | [Oscah3](https://github.com/Oscah3) | Siphesihle Malinga | Cubic Systems Investments (Pty) Ltd. t/a The ScopeHost Operating Company |  | Manzini, Eswatini | 11 |
+| 14 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Onswaziline |  | Mbabane, Swaziland | 11 |
 | 15 | [CodehubNerd](https://github.com/CodehubNerd) | Culture | Nu Africa | Culture_Dlamini | Swaziland | 10 |
 | 16 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 10 |
 | 17 | [mitchkun](https://github.com/mitchkun) | Mitchell Dube | Lurking  | o_Omitch_kun | Mbabane, Swaziland | 10 |

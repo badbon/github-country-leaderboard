@@ -19,7 +19,7 @@ Indexed users: 535
 | 5 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 2,385 |
 | 6 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,353 |
 | 7 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,128 |
-| 8 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 1,914 |
+| 8 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 1,999 |
 | 9 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,798 |
 | 10 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,630 |
 | 11 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 1,617 |
@@ -52,10 +52,10 @@ Indexed users: 535
 | 13 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 482 |
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 433 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | Gaborone, Botswana | 424 |
-| 16 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 395 |
-| 17 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 373 |
-| 18 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 372 |
-| 19 | [TheoMKgosi](https://github.com/TheoMKgosi) |  | Botswana | 368 |
+| 16 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 378 |
+| 17 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 372 |
+| 18 | [TheoMKgosi](https://github.com/TheoMKgosi) |  | Botswana | 368 |
+| 19 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 348 |
 | 20 | [tmotswagole](https://github.com/tmotswagole) | Thabiso Motswagole | Gaborone | 328 |
 
 ## Followers
@@ -63,14 +63,14 @@ Indexed users: 535
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 239 |
-| 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 161 |
+| 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 153 |
 | 3 | [PrimordialOrigin](https://github.com/PrimordialOrigin) | Primordial | Gaborone, Botswana | 126 |
 | 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 99 |
 | 5 | [VioletShards](https://github.com/VioletShards) | Leon N. | Botswana | 70 |
 | 6 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe | Botswana | 68 |
 | 7 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Botswana | 67 |
 | 8 | [Timbar09](https://github.com/Timbar09) | Miles Mosweu | Palapye, Botswana | 64 |
-| 9 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 60 |
+| 9 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 61 |
 | 10 | [impurefunctions](https://github.com/impurefunctions) | Kesego Tumisang | Gaborone, Botswana | 58 |
 | 11 | [Mathhews777](https://github.com/Mathhews777) | Thato Mooketsi | Gaborone | 54 |
 | 12 | [Hope-Nts](https://github.com/Hope-Nts) | Hope Ntshonono | Gaborone,Botswana | 47 |
@@ -79,8 +79,8 @@ Indexed users: 535
 | 15 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 39 |
 | 16 | [WapaEdzani](https://github.com/WapaEdzani) | Mr Edzani Wapa Omogolo | Gaborone, Botswana | 38 |
 | 17 | [samKenpachi011](https://github.com/samKenpachi011) | Samuel Kabelo | Gaborone Botswana | 37 |
-| 18 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Gaborone, Botswana | 34 |
-| 19 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 34 |
+| 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 35 |
+| 19 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Gaborone, Botswana | 34 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 32 |
 
-Generated: 2026-10-07T07:12:54.663Z
+Generated: 2026-10-07T07:38:39.748Z

@@ -1,6 +1,6 @@
 # Public Contributions - Isle of Man
 
-Generated: 2026-10-07T07:04:24.592Z
+Generated: 2026-10-07T07:56:23.817Z
 
 Users: 156
 
@@ -23,6 +23,6 @@ Users: 156
 | 15 | [K1erans](https://github.com/K1erans) | Kieran |  |  | Isle of man | 140 |
 | 16 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 129 |
 | 17 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 108 |
-| 18 | [wishypw](https://github.com/wishypw) | Paul Williamson |  | wishypw | Isle of Man | 87 |
-| 19 | [RCornidez](https://github.com/RCornidez) | Rodrigo Cornidez |  |  | Douglas, Arizona | 82 |
+| 18 | [RCornidez](https://github.com/RCornidez) | Rodrigo Cornidez |  |  | Douglas, Arizona | 90 |
+| 19 | [wishypw](https://github.com/wishypw) | Paul Williamson |  | wishypw | Isle of Man | 87 |
 | 20 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | @craftapplied | dazdotdev | Isle of Man | 73 |

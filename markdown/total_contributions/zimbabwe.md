@@ -1,8 +1,8 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-07T06:46:04.146Z
+Generated: 2026-10-07T07:33:17.121Z
 
-Users: 1661
+Users: 1659
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

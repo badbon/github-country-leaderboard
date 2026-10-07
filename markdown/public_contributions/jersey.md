@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-07T07:05:43.414Z
+Generated: 2026-10-07T07:56:56.962Z
 
 Users: 139
 
@@ -10,11 +10,11 @@ Users: 139
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | @structurizr  | simonbrown | Jersey, Channel Islands | 870 |
 | 3 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 829 |
 | 4 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 712 |
-| 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 641 |
-| 6 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 639 |
+| 5 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 639 |
+| 6 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 572 |
 | 7 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Insert Affiliate Ltd |  | Jersey | 415 |
 | 8 | [cyberkryption](https://github.com/cyberkryption) | Cyberkryption | Government | cyberkryption | Jersey | 253 |
-| 9 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 227 |
+| 9 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 221 |
 | 10 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 219 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | @politepixels  |  | Jersey, Channel Islands | 181 |
 | 12 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 181 |

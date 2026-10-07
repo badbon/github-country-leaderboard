@@ -12,14 +12,14 @@ Indexed users: 48
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 1,601 |
-| 2 | [dannikate](https://github.com/dannikate) | Dannika | Guam | 1,162 |
-| 3 | [xiaden](https://github.com/xiaden) | Lucian Hardy | Guam | 1,056 |
+| 1 | [xiaden](https://github.com/xiaden) | Lucian Hardy | Guam | 1,676 |
+| 2 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 1,601 |
+| 3 | [dannikate](https://github.com/dannikate) | Dannika | Guam | 1,162 |
 | 4 | [ThaumX](https://github.com/ThaumX) | ThaumX | Guam | 474 |
 | 5 | [Chovin](https://github.com/Chovin) |  | Guam | 292 |
 | 6 | [nanodavinci](https://github.com/nanodavinci) | leo | Hagåtña, Guam | 290 |
 | 7 | [jlongus](https://github.com/jlongus) | josiah | Guam | 65 |
-| 8 | [dagogue671](https://github.com/dagogue671) | David Gogue | Guam | 47 |
+| 8 | [dagogue671](https://github.com/dagogue671) | David Gogue | Guam | 56 |
 | 9 | [guamencja](https://github.com/guamencja) | guam | Guam | 36 |
 | 10 | [StoneyTi](https://github.com/StoneyTi) | Tim | Guam | 35 |
 | 11 | [romelanthonysb](https://github.com/romelanthonysb) |  | Guam | 18 |
@@ -29,19 +29,19 @@ Indexed users: 48
 | 15 | [Ritan671](https://github.com/Ritan671) | Ritan M Borja | Guam  | 9 |
 | 16 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici | Guam | 5 |
 | 17 | [justjohnnyj](https://github.com/justjohnnyj) | Johnny T | Guam | 4 |
-| 18 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou | Guam | 2 |
-| 19 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan | Guam | 2 |
-| 20 | [Oddbrother](https://github.com/Oddbrother) |  | Guam | 2 |
+| 18 | [Oddbrother](https://github.com/Oddbrother) |  | Guam | 4 |
+| 19 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou | Guam | 2 |
+| 20 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan | Guam | 2 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [xiaden](https://github.com/xiaden) | Lucian Hardy | Guam | 1,056 |
+| 1 | [xiaden](https://github.com/xiaden) | Lucian Hardy | Guam | 1,676 |
 | 2 | [dannikate](https://github.com/dannikate) | Dannika | Guam | 596 |
 | 3 | [Chovin](https://github.com/Chovin) |  | Guam | 279 |
 | 4 | [jlongus](https://github.com/jlongus) | josiah | Guam | 65 |
-| 5 | [dagogue671](https://github.com/dagogue671) | David Gogue | Guam | 47 |
+| 5 | [dagogue671](https://github.com/dagogue671) | David Gogue | Guam | 56 |
 | 6 | [StoneyTi](https://github.com/StoneyTi) | Tim | Guam | 31 |
 | 7 | [romelanthonysb](https://github.com/romelanthonysb) |  | Guam | 18 |
 | 8 | [ThaumX](https://github.com/ThaumX) | ThaumX | Guam | 12 |
@@ -51,10 +51,10 @@ Indexed users: 48
 | 12 | [Ritan671](https://github.com/Ritan671) | Ritan M Borja | Guam  | 9 |
 | 13 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici | Guam | 5 |
 | 14 | [justjohnnyj](https://github.com/justjohnnyj) | Johnny T | Guam | 4 |
-| 15 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 3 |
-| 16 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou | Guam | 2 |
-| 17 | [guamencja](https://github.com/guamencja) | guam | Guam | 2 |
-| 18 | [Oddbrother](https://github.com/Oddbrother) |  | Guam | 2 |
+| 15 | [Oddbrother](https://github.com/Oddbrother) |  | Guam | 4 |
+| 16 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 3 |
+| 17 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou | Guam | 2 |
+| 18 | [guamencja](https://github.com/guamencja) | guam | Guam | 2 |
 | 19 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan | Guam | 1 |
 | 20 | [alexmwhite](https://github.com/alexmwhite) | Alex M. White | Guam | 0 |
 
@@ -83,4 +83,4 @@ Indexed users: 48
 | 19 | [guamencja](https://github.com/guamencja) | guam | Guam | 4 |
 | 20 | [Rcarganilla](https://github.com/Rcarganilla) | Rizalyn T. Carganilla | Guam | 4 |
 
-Generated: 2026-10-07T07:02:33.307Z
+Generated: 2026-10-07T07:50:55.526Z

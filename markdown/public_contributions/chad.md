@@ -1,12 +1,12 @@
 # Public Contributions - Chad
 
-Generated: 2026-10-07T06:54:12.675Z
+Generated: 2026-10-07T07:41:36.776Z
 
 Users: 201
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Ashesi University | emmanueladoum | Chad | 2244 |
+| 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Ashesi University | emmanueladoum | Chad | 971 |
 | 2 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | ACREMAC \| Informastre | baa_pel | TCHAD | 546 |
 | 3 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 525 |
 | 4 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 345 |
@@ -17,12 +17,12 @@ Users: 201
 | 9 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 155 |
 | 10 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 135 |
 | 11 | [Mbaigo](https://github.com/Mbaigo) | Evrard | THTC |  | N'Djamena | 126 |
-| 12 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO |  |  | N'djamena | 112 |
+| 12 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | AbboTech |  | N'djamena | 111 |
 | 13 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC |  |  | Tchad | 103 |
 | 14 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 88 |
 | 15 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | INSTA |  | Tchad | 87 |
 | 16 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO |  |  | N'djamena | 57 |
-| 17 | [Muffinlavania](https://github.com/Muffinlavania) | Cristian S | treeofcontent.com |  | chad | 52 |
-| 18 | [Yassine235](https://github.com/Yassine235) | Yassine |  |  | Tchad | 52 |
+| 17 | [Yassine235](https://github.com/Yassine235) | Yassine |  |  | Tchad | 55 |
+| 18 | [Muffinlavania](https://github.com/Muffinlavania) | Cristian S | treeofcontent.com |  | chad | 52 |
 | 19 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tikego |  | Tchad | 45 |
 | 20 | [Ahlam-Brahim](https://github.com/Ahlam-Brahim) | Ahlam Brahim |  |  | N'Djaména-Tchad | 43 |

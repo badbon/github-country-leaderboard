@@ -56,7 +56,7 @@ Indexed users: 502
 | 17 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid | Turkmenistan Ashgabat | 269 |
 | 18 | [Mekan-developer](https://github.com/Mekan-developer) | Mekan Agamyradov | Turkmenistan, Ashgabat | 254 |
 | 19 | [hudaynazarovbabageldi](https://github.com/hudaynazarovbabageldi) | Babageldi | Ashgabat , Turkmenistan | 245 |
-| 20 | [Jemsit0300](https://github.com/Jemsit0300) | Jemşit BAHADUROW | Turkmenistan | 241 |
+| 20 | [Jemsit0300](https://github.com/Jemsit0300) | Jemşit BAHADUROW | Turkmenistan | 236 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 502
 | 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 64 |
 | 20 | [MerdanDev](https://github.com/MerdanDev) | Merdan Atamyradow | Turkmenistan | 62 |
 
-Generated: 2026-10-07T06:41:04.985Z
+Generated: 2026-10-07T07:30:12.853Z

@@ -1,8 +1,8 @@
 # Public Contributions - Afghanistan
 
-Generated: 2026-10-07T06:46:14.918Z
+Generated: 2026-10-07T07:33:30.128Z
 
-Users: 1496
+Users: 1495
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,7 +15,7 @@ Users: 1496
 | 7 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | tawana |  | kabul | 2395 |
 | 8 | [aliabdullahnasiri](https://github.com/aliabdullahnasiri) | Ali Abdullah Nasiri |  |  | Kabul, Afghanistan | 2012 |
 | 9 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Hushmand Shahar Tech |  | Kabul, Afghanistan | 1983 |
-| 10 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Hendra.com |  | Afghanistan | 1624 |
+| 10 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Hendra.com |  | Afghanistan | 1620 |
 | 11 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | UNDP |  | Kabul, Afghanistan | 1448 |
 | 12 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | KPU Development Team |  | Kabul | 1322 |
 | 13 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh |  |  | Afghanistan,Herat | 1315 |

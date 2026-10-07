@@ -1,16 +1,16 @@
 # Total Contributions - Belarus
 
-Generated: 2026-10-07T06:59:14.488Z
+Generated: 2026-10-07T07:37:50.348Z
 
-Users: 10958
+Users: 10956
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [kudima03](https://github.com/kudima03) | Dmitry Kurochkin |  |  | Minsk, Belarus | 14885 |
 | 2 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Home |  | Minsk | 14416 |
-| 3 | [jakwuh](https://github.com/jakwuh) | James | Neattech.io |  | Belarus | 11999 |
-| 4 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau |  |  | Belarus, Minsk | 10259 |
-| 5 | [masasibata](https://github.com/masasibata) | Artem |  |  | Belarus | 10205 |
+| 3 | [masasibata](https://github.com/masasibata) | Artem |  |  | Belarus | 12224 |
+| 4 | [jakwuh](https://github.com/jakwuh) | James | Neattech.io |  | Belarus | 11999 |
+| 5 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau |  |  | Belarus, Minsk | 10259 |
 | 6 | [fxpw](https://github.com/fxpw) | fxpw | Sherpa RPA |  | Belarus | 9448 |
 | 7 | [iamsphere](https://github.com/iamsphere) | Vladislav | FRAKT |  | Belarus, Minsk | 6414 |
 | 8 | [NikolayNN](https://github.com/NikolayNN) | Nikolay |  |  | Minsk | 6267 |

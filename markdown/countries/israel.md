@@ -1,6 +1,6 @@
 # Israel
 
-Indexed users: 12,439
+Indexed users: 12,438
 
 | Leaderboard | Link |
 |---|---|
@@ -42,8 +42,8 @@ Indexed users: 12,439
 | 3 | [tupe12334](https://github.com/tupe12334) | Ofek Gabay | Tel aviv, Israel | 15,886 |
 | 4 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Tel Aviv, Israel | 12,764 |
 | 5 | [arthurzam](https://github.com/arthurzam) | Arthur Zamarin | Israel | 10,773 |
-| 6 | [kdroidFilter](https://github.com/kdroidFilter) | Elie Gambache | Jerusalem Israel | 7,629 |
-| 7 | [ariannamethod](https://github.com/ariannamethod) | Arianna Method | Israel | 7,510 |
+| 6 | [ariannamethod](https://github.com/ariannamethod) | Arianna Method | Israel | 8,865 |
+| 7 | [kdroidFilter](https://github.com/kdroidFilter) | Elie Gambache | Jerusalem Israel | 7,629 |
 | 8 | [kossoy](https://github.com/kossoy) | Oleg Kossoy | Israel | 7,229 |
 | 9 | [elie222](https://github.com/elie222) | Elie Steinbock | Tel Aviv, Israel | 7,033 |
 | 10 | [alonf](https://github.com/alonf) | Alon Fliess | Israel | 6,869 |
@@ -83,4 +83,4 @@ Indexed users: 12,439
 | 19 | [kuchin](https://github.com/kuchin) | Dima Kuchin | Israel | 665 |
 | 20 | [YuvalNirkin](https://github.com/YuvalNirkin) | Yuval Nirkin | Tel Aviv, Israel | 641 |
 
-Generated: 2026-10-07T07:04:27.391Z
+Generated: 2026-10-07T07:56:44.078Z

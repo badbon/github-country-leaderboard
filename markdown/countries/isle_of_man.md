@@ -54,8 +54,8 @@ Indexed users: 156
 | 15 | [K1erans](https://github.com/K1erans) | Kieran | Isle of man | 140 |
 | 16 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man | 129 |
 | 17 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 108 |
-| 18 | [wishypw](https://github.com/wishypw) | Paul Williamson | Isle of Man | 87 |
-| 19 | [RCornidez](https://github.com/RCornidez) | Rodrigo Cornidez | Douglas, Arizona | 82 |
+| 18 | [RCornidez](https://github.com/RCornidez) | Rodrigo Cornidez | Douglas, Arizona | 90 |
+| 19 | [wishypw](https://github.com/wishypw) | Paul Williamson | Isle of Man | 87 |
 | 20 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 73 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 156
 | 19 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 | 20 | [Danny-Scott](https://github.com/Danny-Scott) |  | Isle of Man | 18 |
 
-Generated: 2026-10-07T07:04:24.592Z
+Generated: 2026-10-07T07:56:23.817Z

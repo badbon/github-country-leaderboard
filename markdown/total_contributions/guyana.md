@@ -1,8 +1,8 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-07T07:02:49.256Z
+Generated: 2026-10-07T07:53:52.504Z
 
-Users: 187
+Users: 186
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,8 +15,8 @@ Users: 187
 | 7 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 3021 |
 | 8 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Vorso Computing, Inc. | sandogee | Guyana, South America | 2916 |
 | 9 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 2454 |
-| 10 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 2050 |
-| 11 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee |  |  | Georgetown, TX | 1864 |
+| 10 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee |  |  | Georgetown, TX | 2209 |
+| 11 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 2050 |
 | 12 | [Hinxman](https://github.com/Hinxman) | Ken Hinxman |  |  | Georgetown, TX | 1726 |
 | 13 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 1579 |
 | 14 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1511 |

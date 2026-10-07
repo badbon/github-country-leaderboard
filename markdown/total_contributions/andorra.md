@@ -1,8 +1,8 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-07T06:48:01.978Z
+Generated: 2026-10-07T07:34:58.172Z
 
-Users: 215
+Users: 214
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,10 +11,10 @@ Users: 215
 | 3 | [castrolem](https://github.com/castrolem) | Luis Castro |  |  | Andorra la Vella, Andorra | 8881 |
 | 4 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi |  | amastronardi | Andorra | 6974 |
 | 5 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 6007 |
-| 6 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 4978 |
-| 7 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 4623 |
-| 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 4575 |
-| 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 4238 |
+| 6 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5061 |
+| 7 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 4978 |
+| 8 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 4623 |
+| 9 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 4575 |
 | 10 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 3714 |
 | 11 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 3699 |
 | 12 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 3385 |

@@ -1,6 +1,6 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-07T06:45:23.023Z
+Generated: 2026-10-07T07:32:43.083Z
 
 Users: 1347
 
@@ -19,9 +19,9 @@ Users: 1347
 | 11 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | Student  |  | LUSAKA, ZAMBIA | 3779 |
 | 12 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | @connexcs  |  | Lusaka, Zambia | 3753 |
 | 13 | [engineervix](https://github.com/engineervix) | Victor Miti | @torchbox |  | Lusaka, Zambia | 3408 |
-| 14 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 2985 |
-| 15 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 2912 |
-| 16 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 2910 |
+| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 3057 |
+| 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 2985 |
+| 16 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 2912 |
 | 17 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 2809 |
 | 18 | [pumulo-mufalali](https://github.com/pumulo-mufalali) | Pumulo Mufalali |  |  | Lusaka, Zambia | 2705 |
 | 19 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | @broosaction  |  | Zambia | 2691 |

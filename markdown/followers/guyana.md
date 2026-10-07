@@ -1,8 +1,8 @@
 # Followers - Guyana
 
-Generated: 2026-10-07T07:02:49.256Z
+Generated: 2026-10-07T07:53:52.504Z
 
-Users: 187
+Users: 186
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Followers - Barbados
 
-Generated: 2026-10-07T06:56:57.111Z
+Generated: 2026-10-07T07:37:46.043Z
 
 Users: 133
 
@@ -24,5 +24,5 @@ Users: 133
 | 16 | [angustatchell](https://github.com/angustatchell) | Angus Tatchell | @halotrade @chattan-co @sportsfix-co |  | Christ Church, Barbados | 15 |
 | 17 | [stojan211287](https://github.com/stojan211287) | Stan Jardani |  |  | Barbados | 14 |
 | 18 | [cgoodridge](https://github.com/cgoodridge) |  |  |  | Barbados | 12 |
-| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 11 |
-| 20 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | M&E Partners Limited |  | St. Phillips, Barbados, W.I. | 10 |
+| 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | M&E Partners Limited |  | St. Phillips, Barbados, W.I. | 12 |
+| 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 11 |

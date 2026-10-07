@@ -1,8 +1,8 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-07T06:45:19.511Z
+Generated: 2026-10-07T07:32:15.670Z
 
-Users: 1217
+Users: 1216
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 1217
 | 11 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 7239 |
 | 12 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 7145 |
 | 13 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | @SmartMindSYSCoder |  | Yemen | 7052 |
-| 14 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6130 |
-| 15 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Trades |  | Sana'a Yemen | 5601 |
-| 16 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 5410 |
-| 17 | [zayedadel](https://github.com/zayedadel) | Zayed Adel Al-Meklahfi |  |  | Yemen , Sana'a | 5035 |
-| 18 | [zinon-software](https://github.com/zinon-software) | ABDULRAHMAN |  |  | yemen | 4940 |
-| 19 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | InjazCode | SaherQaid | Yemen,Ibb city | 4931 |
-| 20 | [yousef-aman](https://github.com/yousef-aman) | Yousef Aman |  | YousefStack | Yemen | 4920 |
+| 14 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7036 |
+| 15 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6130 |
+| 16 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Trades |  | Sana'a Yemen | 5601 |
+| 17 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 5410 |
+| 18 | [zayedadel](https://github.com/zayedadel) | Zayed Adel Al-Meklahfi |  |  | Yemen , Sana'a | 5035 |
+| 19 | [zinon-software](https://github.com/zinon-software) | ABDULRAHMAN |  |  | yemen | 4940 |
+| 20 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | InjazCode | SaherQaid | Yemen,Ibb city | 4931 |

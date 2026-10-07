@@ -1,8 +1,8 @@
 # Followers - Iraq
 
-Generated: 2026-10-07T07:04:17.504Z
+Generated: 2026-10-07T07:55:44.310Z
 
-Users: 2255
+Users: 2254
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 2255
 | 17 | [ShahramShakiba](https://github.com/ShahramShakiba) | Shahram Shakiba |  | ShahramShakibaa | Erbil, Erbil Governorate, Iraq  | 234 |
 | 18 | [HassanFulaih](https://github.com/HassanFulaih) | Hassan Fulaih | Al-Nahrain University |  | Baghdad, Iraq | 212 |
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad |  |  | Baghdad / Iraq | 203 |
-| 20 | [kosratdev](https://github.com/kosratdev) | Kosrat Ahmed | Eagle Post | KosratDAhmad | Erbil, Iraq | 170 |
+| 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | TOP |  | IRAQ | 178 |

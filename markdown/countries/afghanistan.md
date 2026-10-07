@@ -1,6 +1,6 @@
 # Afghanistan
 
-Indexed users: 1,496
+Indexed users: 1,495
 
 | Leaderboard | Link |
 |---|---|
@@ -46,7 +46,7 @@ Indexed users: 1,496
 | 7 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | kabul | 2,395 |
 | 8 | [aliabdullahnasiri](https://github.com/aliabdullahnasiri) | Ali Abdullah Nasiri | Kabul, Afghanistan | 2,012 |
 | 9 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Kabul, Afghanistan | 1,983 |
-| 10 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 1,624 |
+| 10 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 1,620 |
 | 11 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,448 |
 | 12 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Kabul | 1,322 |
 | 13 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh | Afghanistan,Herat | 1,315 |
@@ -63,7 +63,7 @@ Indexed users: 1,496
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [afgprogrammer](https://github.com/afgprogrammer) | Mohammad Rahmani |  Kabul, Afghanistan | 3,455 |
-| 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 647 |
+| 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 668 |
 | 3 | [SanaTameem](https://github.com/SanaTameem) | Sana Tameem | Kabul-Afghanistan | 439 |
 | 4 | [UstadYasin](https://github.com/UstadYasin) | Muhammad Yasin Jamal | Kabul | 408 |
 | 5 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi | Kabul province  | 271 |
@@ -71,7 +71,7 @@ Indexed users: 1,496
 | 7 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | Kabul | 258 |
 | 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub | Afghanistan | 221 |
 | 9 | [MastooraTurkmen](https://github.com/MastooraTurkmen) | Mastoora Turkmen | Kabul, Afghanistan | 221 |
-| 10 | [SarwarEbrahimi01](https://github.com/SarwarEbrahimi01) | Sarwar Ebrahimi  | Kabul , Afghanistan  | 180 |
+| 10 | [SarwarEbrahimi01](https://github.com/SarwarEbrahimi01) | Sarwar Ebrahimi  | Kabul , Afghanistan  | 186 |
 | 11 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 166 |
 | 12 | [WajihaNiazi](https://github.com/WajihaNiazi) | Wajiha Niazi | Herat,Afghanistan | 156 |
 | 13 | [ab-noori](https://github.com/ab-noori) | Abdulali Noori | Afghanistan | 147 |
@@ -83,4 +83,4 @@ Indexed users: 1,496
 | 19 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 116 |
 
-Generated: 2026-10-07T06:46:14.918Z
+Generated: 2026-10-07T07:33:30.128Z

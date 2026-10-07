@@ -1,12 +1,12 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-07T07:04:17.504Z
+Generated: 2026-10-07T07:55:44.310Z
 
-Users: 2255
+Users: 2254
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [gcp64](https://github.com/gcp64) | Mr.bob |  |  | Iraq | 2270902 |
+| 1 | [gcp64](https://github.com/gcp64) | Mr.bob |  |  | Iraq | 2205846 |
 | 2 | [hoshmandent](https://github.com/hoshmandent) | Hoshmand M. Qadir | @Ronex-Krd | hoshmandent | Erbil, Iraq | 18551 |
 | 3 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Capsula | MujtabaFR | Iraq, Najaf | 9376 |
 | 4 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Freelancer |  | Baghdad / Iraq | 8747 |

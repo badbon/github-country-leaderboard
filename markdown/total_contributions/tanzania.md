@@ -1,8 +1,8 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-07T06:39:49.015Z
+Generated: 2026-10-07T07:28:48.193Z
 
-Users: 2043
+Users: 2042
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 2043
 | 3 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy |  |  | Tanzania | 20806 |
 | 4 | [dawillygene](https://github.com/dawillygene) | Dawilly gene | DODOMA UNIVERSITY |  | DODOMA | 19842 |
 | 5 | [zuck30](https://github.com/zuck30) | Shadrackovsky | AGS |  | Tanzania | 18478 |
-| 6 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 16809 |
+| 6 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 17665 |
 | 7 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 15281 |
 | 8 | [cleven12](https://github.com/cleven12) | cleven |  | cleven02 | Tanzania | 14804 |
 | 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 14358 |

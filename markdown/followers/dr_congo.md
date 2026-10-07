@@ -1,8 +1,8 @@
 # Followers - DR Congo
 
-Generated: 2026-10-07T06:59:19.710Z
+Generated: 2026-10-07T07:47:29.071Z
 
-Users: 706
+Users: 704
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

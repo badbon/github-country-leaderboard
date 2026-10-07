@@ -1,6 +1,6 @@
 # Fiji
 
-Indexed users: 329
+Indexed users: 328
 
 | Leaderboard | Link |
 |---|---|
@@ -53,10 +53,10 @@ Indexed users: 329
 | 14 | [birdkyle7918](https://github.com/birdkyle7918) | Kyle | Fiji | 145 |
 | 15 | [xue1213888](https://github.com/xue1213888) | XueSichen | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 144 |
 | 16 | [Neikumata](https://github.com/Neikumata) | yangyeqin | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 134 |
-| 17 | [mucsbr](https://github.com/mucsbr) | beingS | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 96 |
-| 18 | [NotPranshu](https://github.com/NotPranshu) | Pranshu Ayush | Fiji | 88 |
-| 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 86 |
-| 20 | [LearnerHong](https://github.com/LearnerHong) | NIAOJIANG | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 78 |
+| 17 | [Arishneel-Narayan](https://github.com/Arishneel-Narayan) | Arishneel Sagar Narayan | Fiji  | 129 |
+| 18 | [mucsbr](https://github.com/mucsbr) | beingS | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 96 |
+| 19 | [NotPranshu](https://github.com/NotPranshu) | Pranshu Ayush | Fiji | 88 |
+| 20 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 86 |
 
 ## Followers
 
@@ -69,8 +69,8 @@ Indexed users: 329
 | 5 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Nadi ,Fiji | 66 |
 | 6 | [GeekTR](https://github.com/GeekTR) | Rui Tang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 64 |
 | 7 | [Iapa](https://github.com/Iapa) | Ava Niu | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 37 |
-| 8 | [JonGates](https://github.com/JonGates) | Jon Gates | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 33 |
-| 9 | [Pranav-XP](https://github.com/Pranav-XP) | Pranav | Fiji | 32 |
+| 8 | [Pranav-XP](https://github.com/Pranav-XP) | Pranav | Fiji | 34 |
+| 9 | [JonGates](https://github.com/JonGates) | Jon Gates | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 33 |
 | 10 | [anuraganands](https://github.com/anuraganands) | Anuraganand Sharma | Suva, Fiji | 29 |
 | 11 | [mucsbr](https://github.com/mucsbr) | beingS | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 28 |
 | 12 | [Colorlaris](https://github.com/Colorlaris) |  | Fiji | 27 |
@@ -83,4 +83,4 @@ Indexed users: 329
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 20 |
 | 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
 
-Generated: 2026-10-07T07:01:10.405Z
+Generated: 2026-10-07T07:48:32.531Z

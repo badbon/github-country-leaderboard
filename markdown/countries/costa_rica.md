@@ -1,6 +1,6 @@
 # Costa Rica
 
-Indexed users: 5,637
+Indexed users: 5,646
 
 | Leaderboard | Link |
 |---|---|
@@ -43,7 +43,7 @@ Indexed users: 5,637
 | 4 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 5,358 |
 | 5 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | Costa Rica | 3,704 |
 | 6 | [ronz204](https://github.com/ronz204) | ronz | San Carlos, Costa Rica | 3,661 |
-| 7 | [Matt-Aurora-Ventures](https://github.com/Matt-Aurora-Ventures) | Matt Haynes | Costa Rica | 3,184 |
+| 7 | [Matt-Aurora-Ventures](https://github.com/Matt-Aurora-Ventures) | Matt Haynes | Costa Rica | 3,585 |
 | 8 | [aramirez087](https://github.com/aramirez087) | Alexander Ramirez Kiriushenko | Costa Rica | 2,870 |
 | 9 | [morozov](https://github.com/morozov) | Sergei Morozov | San José, CA | 2,590 |
 | 10 | [jonnabio](https://github.com/jonnabio) | Jonathan Herrera | Costa Rica | 2,546 |
@@ -64,7 +64,7 @@ Indexed users: 5,637
 |---:|---|---|---|---:|
 | 1 | [Klerith](https://github.com/Klerith) | Fernando Herrera | Costa Rica | 15,410 |
 | 2 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 1,267 |
-| 3 | [miguelestradam3](https://github.com/miguelestradam3) | Miguel Estrada | Costa Rica | 927 |
+| 3 | [miguelestradam3](https://github.com/miguelestradam3) | Miguel Estrada | Costa Rica | 1,057 |
 | 4 | [jorneycr](https://github.com/jorneycr) | Jorney Lopez | Costa Rica | 794 |
 | 5 | [drawrowfly](https://github.com/drawrowfly) | Andrew Nord |  Costa Rica | 637 |
 | 6 | [robey](https://github.com/robey) | Robey Pointer | San José, CA | 566 |
@@ -83,4 +83,4 @@ Indexed users: 5,637
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-10-07T06:55:43.628Z
+Generated: 2026-10-07T07:50:51.898Z

@@ -1,8 +1,8 @@
 # Public Contributions - Belize
 
-Generated: 2026-10-07T06:49:35.063Z
+Generated: 2026-10-07T07:37:59.621Z
 
-Users: 96
+Users: 95
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 96
 | 9 | [ezlosswm](https://github.com/ezlosswm) | Carlos Gomez | SELF | EzlosSWM | Belize | 151 |
 | 10 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti |  |  | San Jose Succotz, Cayo District, Belize | 104 |
 | 11 | [jimidle](https://github.com/jimidle) | Jim Idle | @databrickslabs  |  | Hopkins, Belize | 84 |
-| 12 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Self-employed |  | Belize | 77 |
-| 13 | [JerryHamm](https://github.com/JerryHamm) | Jeremiah Hammond |  |  | Ladyville, Belize | 77 |
-| 14 | [keenanbernard](https://github.com/keenanbernard) | Keenan Bernard | Belize Telemedia Limited |  | Belize City, Belize | 75 |
-| 15 | [Rubi3r3](https://github.com/Rubi3r3) | Rubiere Ramirez | Statistical Institute of Belize |  | Belize | 71 |
-| 16 | [alvarohulse](https://github.com/alvarohulse) | Alvaro Hulse | Scale AI |  | Belize | 57 |
-| 17 | [erichanson](https://github.com/erichanson) | Eric Hanson |  | erichanson | Belize | 55 |
-| 18 | [GirlWhoCodes14](https://github.com/GirlWhoCodes14) | Alexis Ayuso |  |  | Belize | 42 |
-| 19 | [FranceCawich](https://github.com/FranceCawich) |  |  | cawichFrance | Belize | 33 |
-| 20 | [donaldtmcknight](https://github.com/donaldtmcknight) | Donald T. McKnight | Savanna Field Station | donaldmcknight2 | Belize | 28 |
+| 12 | [keenanbernard](https://github.com/keenanbernard) | Keenan Bernard | Belize Telemedia Limited |  | Belize City, Belize | 81 |
+| 13 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Self-employed |  | Belize | 77 |
+| 14 | [JerryHamm](https://github.com/JerryHamm) | Jeremiah Hammond |  |  | Ladyville, Belize | 77 |
+| 15 | [Rubi3r3](https://github.com/Rubi3r3) | Rubiere Ramirez | Statistical Institute of Belize \| Fragments of Hope |  | Belize | 71 |
+| 16 | [erichanson](https://github.com/erichanson) | Eric Hanson |  | erichanson | Belize | 55 |
+| 17 | [GirlWhoCodes14](https://github.com/GirlWhoCodes14) | Alexis Ayuso |  |  | Belize | 42 |
+| 18 | [FranceCawich](https://github.com/FranceCawich) | Francis Cawich | SpeedNet Telecommunication LTD Belize  | cawichFrance | Belize | 33 |
+| 19 | [donaldtmcknight](https://github.com/donaldtmcknight) | Donald T. McKnight | Savanna Field Station | donaldmcknight2 | Belize | 28 |
+| 20 | [amodevinc](https://github.com/amodevinc) | Alain Morris |  |  | Belize (UTC−6) · Remote | 26 |

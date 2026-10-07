@@ -14,10 +14,10 @@ Indexed users: 21
 |---:|---|---|---|---:|
 | 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 2,913 |
 | 2 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 319 |
-| 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 238 |
+| 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 245 |
 | 4 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 123 |
 | 5 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 115 |
-| 6 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 96 |
+| 6 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 90 |
 | 7 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 28 |
 | 8 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | MALABO- EQUATORIAL GUINEA | 27 |
 | 9 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama | Malabo-EQ | 11 |
@@ -37,9 +37,9 @@ Indexed users: 21
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 238 |
+| 1 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 245 |
 | 2 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 115 |
-| 3 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 96 |
+| 3 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 90 |
 | 4 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 49 |
 | 5 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 38 |
 | 6 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 28 |
@@ -83,4 +83,4 @@ Indexed users: 21
 | 19 | [petr2rzu](https://github.com/petr2rzu) | Javier |  Equatorial Guinea | 1 |
 | 20 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 1 |
 
-Generated: 2026-10-07T07:00:08.483Z
+Generated: 2026-10-07T07:47:45.107Z

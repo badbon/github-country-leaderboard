@@ -1,12 +1,12 @@
 # Followers - Aruba
 
-Generated: 2026-10-07T06:48:28.060Z
+Generated: 2026-10-07T07:36:05.894Z
 
 Users: 38
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 68 |
+| 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 69 |
 | 2 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 18 |
 | 3 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Lead Web Designer @AWSAruba | JWSARUBA | Oranjestad, Aruba | 17 |
 | 4 | [PICyber](https://github.com/PICyber) |  | ======ILUSIONXX====== |  | ⭕️❌⭕️✯ARUBA✯⭕️❌⭕️ | 15 |
@@ -22,7 +22,7 @@ Users: 38
 | 14 | [ahagens](https://github.com/ahagens) | Andrew Hagens | SETAR N.V. |  | Oranjestad | 6 |
 | 15 | [ivanfeli](https://github.com/ivanfeli) | Ivan Feliciano |  |  | Aruba | 6 |
 | 16 | [voedito](https://github.com/voedito) | Voedito | BIVI Business Solutions | voedito | Aruba | 6 |
-| 17 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | BlueKoala |  | Oranjestad, Aruba | 5 |
-| 18 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Freelancer |  | Aruba | 5 |
-| 19 | [awsaruba](https://github.com/awsaruba) | ⟨Amazing Web Solutions Aruba⟩ | AWS Aruba | AWSAruba | Oranjestad,Aruba | 4 |
+| 17 | [awsaruba](https://github.com/awsaruba) | ⟨Amazing Web Solutions Aruba⟩ | AWS Aruba | AWSAruba | Oranjestad,Aruba | 5 |
+| 18 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | BlueKoala |  | Oranjestad, Aruba | 5 |
+| 19 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Freelancer |  | Aruba | 5 |
 | 20 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | NotionFlows | notionflows | Oranjestad, Aruba | 4 |

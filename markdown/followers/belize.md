@@ -1,8 +1,8 @@
 # Followers - Belize
 
-Generated: 2026-10-07T06:49:35.063Z
+Generated: 2026-10-07T07:37:59.621Z
 
-Users: 96
+Users: 95
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,8 +17,8 @@ Users: 96
 | 9 | [urboytgd](https://github.com/urboytgd) | Daniel Hung | RUNMAN LLC |  | Belize | 13 |
 | 10 | [Deaf-Web-Admin](https://github.com/Deaf-Web-Admin) | Deaf Developer |  |  | Belize | 12 |
 | 11 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | University of Belize |  | Belmopan, Belize | 12 |
-| 12 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol |  | joshuariverol | Belize, CA | 11 |
-| 13 | [PLGuerraDesigns](https://github.com/PLGuerraDesigns) | Pablo L. Guerra |  |  | Belize | 11 |
+| 12 | [PLGuerraDesigns](https://github.com/PLGuerraDesigns) | Pablo L. Guerra |  |  | Belize | 12 |
+| 13 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol |  | joshuariverol | Belize, CA | 10 |
 | 14 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers |  |  | Belize  | 9 |
 | 15 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Self-employed |  | Belize | 9 |
 | 16 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti |  |  | San Jose Succotz, Cayo District, Belize | 9 |

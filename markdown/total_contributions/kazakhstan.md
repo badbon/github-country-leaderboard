@@ -1,8 +1,8 @@
 # Total Contributions - Kazakhstan
 
-Generated: 2026-10-07T07:14:53.199Z
+Generated: 2026-10-07T07:57:39.753Z
 
-Users: 5682
+Users: 5681
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 5682
 | 12 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Astana Hub |  | Kazakhstan | 9875 |
 | 13 | [neokofg](https://github.com/neokofg) | neoko |  |  | Almaty, Kazakhstan | 9093 |
 | 14 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Ozon |  | Kazakhstan | 8323 |
-| 15 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Higgsfield AI |  | Kazakhstan, Astana | 8236 |
-| 16 | [jmelnikov](https://github.com/jmelnikov) | Yuriy Melnikov |  |  | Almaty, Kazakhstan | 7925 |
-| 17 | [LeventySeven](https://github.com/LeventySeven) | Slava |  | Seventydotleven | Almaty, Kazakhstan | 7750 |
-| 18 | [abdymazhit](https://github.com/abdymazhit) | Islam Abdymazhit |  |  | Almaty, Kazakhstan | 7687 |
-| 19 | [kuanysh-beisembayev](https://github.com/kuanysh-beisembayev) | Kuanysh Beisembayev | Higgsfield AI |  | Almaty, Kazakhstan | 7654 |
-| 20 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | @Techinterview-space  |  | Kazakhstan | 7613 |
+| 15 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | @neuralese |  | Astana | 8307 |
+| 16 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Higgsfield AI |  | Kazakhstan, Astana | 8236 |
+| 17 | [jmelnikov](https://github.com/jmelnikov) | Yuriy Melnikov |  |  | Almaty, Kazakhstan | 7925 |
+| 18 | [LeventySeven](https://github.com/LeventySeven) | Slava |  | Seventydotleven | Almaty, Kazakhstan | 7750 |
+| 19 | [abdymazhit](https://github.com/abdymazhit) | Islam Abdymazhit |  |  | Almaty, Kazakhstan | 7687 |
+| 20 | [kuanysh-beisembayev](https://github.com/kuanysh-beisembayev) | Kuanysh Beisembayev | Higgsfield AI |  | Almaty, Kazakhstan | 7654 |

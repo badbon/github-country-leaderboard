@@ -1,6 +1,6 @@
 # Total Contributions - Suriname
 
-Generated: 2026-10-07T06:39:14.990Z
+Generated: 2026-10-07T07:27:38.321Z
 
 Users: 124
 
@@ -16,13 +16,13 @@ Users: 124
 | 8 | [eSaniello](https://github.com/eSaniello) | Shaniel  | @Bits-Please-Technologies | shaniel292 | Suriname | 1080 |
 | 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | @paisrtechnologies  | secondn_ | Suriname | 1014 |
 | 10 | [dmoed](https://github.com/dmoed) | <Don/> |  |  | Paramaribo, Suriname | 861 |
-| 11 | [devbravo](https://github.com/devbravo) | Diego Sabajo | ZennoAI |  | Paramaribo, Suriname | 751 |
-| 12 | [nerkarso](https://github.com/nerkarso) | Ner Karso | @ngineerlab |  | Paramaribo, Suriname | 722 |
-| 13 | [SantoshDevX](https://github.com/SantoshDevX) | Vishant Ramratan |  |  | Suriname | 668 |
-| 14 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman |  | Giannisanii | Paramaribo, Suriname | 634 |
-| 15 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam |  |  | Suriname | 535 |
-| 16 | [saifbechan](https://github.com/saifbechan) | Saif Bechan | Typing Nomad | saifbechan | Paramaribo, Suriname | 478 |
-| 17 | [JamilKasan](https://github.com/JamilKasan) | Jamil Kasan | Cronus Global Tech |  | Suriname | 455 |
-| 18 | [DustinVII](https://github.com/DustinVII) |  |  |  | Suriname | 382 |
-| 19 | [girish-io](https://github.com/girish-io) | Girish Oemrawsingh |  | girishio | Paramaribo, Suriname | 380 |
-| 20 | [marvin-grunberg](https://github.com/marvin-grunberg) | Marvin Grunberg | The Southern Commercial Bank N.V. |  | Suriname, Paramaribo | 379 |
+| 11 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman |  | Giannisanii | Paramaribo, Suriname | 853 |
+| 12 | [devbravo](https://github.com/devbravo) | Diego Sabajo | ZennoAI |  | Paramaribo, Suriname | 751 |
+| 13 | [nerkarso](https://github.com/nerkarso) | Ner Karso | @ngineerlab |  | Paramaribo, Suriname | 722 |
+| 14 | [SantoshDevX](https://github.com/SantoshDevX) | Vishant Ramratan |  |  | Suriname | 668 |
+| 15 | [ShawnMeo](https://github.com/ShawnMeo) | Shawn | Distorted Studio |  | Suriname | 600 |
+| 16 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam |  |  | Suriname | 535 |
+| 17 | [JoshKarta](https://github.com/JoshKarta) | Josh K |  |  | Paramaribo, Suriname | 509 |
+| 18 | [saifbechan](https://github.com/saifbechan) | Saif Bechan | Typing Nomad | saifbechan | Paramaribo, Suriname | 478 |
+| 19 | [DustinVII](https://github.com/DustinVII) |  |  |  | Suriname | 382 |
+| 20 | [girish-io](https://github.com/girish-io) | Girish Oemrawsingh |  | girishio | Paramaribo, Suriname | 380 |

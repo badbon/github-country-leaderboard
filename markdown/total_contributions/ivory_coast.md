@@ -1,6 +1,6 @@
 # Total Contributions - Ivory Coast
 
-Generated: 2026-10-07T07:05:09.897Z
+Generated: 2026-10-07T07:56:47.364Z
 
 Users: 488
 
@@ -20,9 +20,9 @@ Users: 488
 | 12 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Djamo CI |  | Abidjan, Ivory Coast | 4264 |
 | 13 | [siguici](https://github.com/siguici) | SIGUI Kessé Emmanuel | @Sikessem | siguici | Abidjan, Ivory Coast | 4103 |
 | 14 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | @endeavourmining @artipie @cqfn | baudoliver7 | Abidjan, Côte d'Ivoire | 4056 |
-| 15 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé |  | _aziz_soule_ | Abidjan, Côte d'Ivoire | 3658 |
-| 16 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Everest Consulting | oumar_koo | Abidjan, Côte d'Ivoire | 3644 |
-| 17 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 3591 |
+| 15 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 3713 |
+| 16 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé |  | _aziz_soule_ | Abidjan, Côte d'Ivoire | 3658 |
+| 17 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Everest Consulting | oumar_koo | Abidjan, Côte d'Ivoire | 3644 |
 | 18 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Artefact |  | Cocody, Abidjan, Côte d'Ivoire | 3371 |
 | 19 | [sovmulax](https://github.com/sovmulax) | Geoffroy Evane |  |  | Abidjan, Côte d'Ivoire | 3156 |
 | 20 | [ulrichkouame](https://github.com/ulrichkouame) | KOUAME Ulrich Kouadio | ivoire.io | UlrichKOUAME11 | Ivory Coast | 2990 |

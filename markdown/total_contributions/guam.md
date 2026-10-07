@@ -1,19 +1,19 @@
 # Total Contributions - Guam
 
-Generated: 2026-10-07T07:02:33.307Z
+Generated: 2026-10-07T07:50:55.526Z
 
 Users: 48
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Lame Dimension | chairgtables | Guam | 1601 |
-| 2 | [dannikate](https://github.com/dannikate) | Dannika | WERI UOG |  | Guam | 1162 |
-| 3 | [xiaden](https://github.com/xiaden) | Lucian Hardy |  |  | Guam | 1056 |
+| 1 | [xiaden](https://github.com/xiaden) | Lucian Hardy |  |  | Guam | 1676 |
+| 2 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Lame Dimension | chairgtables | Guam | 1601 |
+| 3 | [dannikate](https://github.com/dannikate) | Dannika | WERI UOG |  | Guam | 1162 |
 | 4 | [ThaumX](https://github.com/ThaumX) | ThaumX |  |  | Guam | 474 |
 | 5 | [Chovin](https://github.com/Chovin) |  |  | Guamfella | Guam | 292 |
 | 6 | [nanodavinci](https://github.com/nanodavinci) | leo | Muy Dibujo LTD. |  | Hagåtña, Guam | 290 |
 | 7 | [jlongus](https://github.com/jlongus) | josiah |  |  | Guam | 65 |
-| 8 | [dagogue671](https://github.com/dagogue671) | David Gogue |  |  | Guam | 47 |
+| 8 | [dagogue671](https://github.com/dagogue671) | David Gogue |  |  | Guam | 56 |
 | 9 | [guamencja](https://github.com/guamencja) | guam |  |  | Guam | 36 |
 | 10 | [StoneyTi](https://github.com/StoneyTi) | Tim |  |  | Guam | 35 |
 | 11 | [romelanthonysb](https://github.com/romelanthonysb) |  |  |  | Guam | 18 |
@@ -23,6 +23,6 @@ Users: 48
 | 15 | [Ritan671](https://github.com/Ritan671) | Ritan M Borja | KurasonGuahan Wallet  |  | Guam  | 9 |
 | 16 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici |  |  | Guam | 5 |
 | 17 | [justjohnnyj](https://github.com/justjohnnyj) | Johnny T |  |  | Guam | 4 |
-| 18 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou |  |  | Guam | 2 |
-| 19 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan |  |  | Guam | 2 |
-| 20 | [Oddbrother](https://github.com/Oddbrother) |  |  | Oddbrother | Guam | 2 |
+| 18 | [Oddbrother](https://github.com/Oddbrother) |  |  | Oddbrother | Guam | 4 |
+| 19 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou |  |  | Guam | 2 |
+| 20 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan |  |  | Guam | 2 |

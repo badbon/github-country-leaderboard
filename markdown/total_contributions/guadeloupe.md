@@ -1,6 +1,6 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-10-07T07:02:06.258Z
+Generated: 2026-10-07T07:50:49.101Z
 
 Users: 85
 
@@ -17,12 +17,12 @@ Users: 85
 | 9 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 674 |
 | 10 | [nath971](https://github.com/nath971) | N |  |  | Guadeloupe | 656 |
 | 11 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU |  |  | Guadeloupe | 620 |
-| 12 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 554 |
-| 13 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 438 |
-| 14 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 429 |
-| 15 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 144 |
-| 16 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR |  |  | Basse-Terre, Guadeloupe | 135 |
-| 17 | [rgdgs](https://github.com/rgdgs) | Ruben G | @DG-Software-GP  |  | Guadeloupe | 112 |
-| 18 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Axial-Host |  | Guadeloupe | 91 |
-| 19 | [mperouma](https://github.com/mperouma) | Mathias P. | SCOP ARL SINOUVE |  | Guadeloupe | 80 |
-| 20 | [KaribbeanCreative](https://github.com/KaribbeanCreative) | Karibbean Creative |  |  | Guadeloupe | 74 |
+| 12 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin |  |  | Le Moule, GUADELOUPE | 567 |
+| 13 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 554 |
+| 14 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 451 |
+| 15 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 429 |
+| 16 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 144 |
+| 17 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR |  |  | Basse-Terre, Guadeloupe | 135 |
+| 18 | [rgdgs](https://github.com/rgdgs) | Ruben G | @DG-Software-GP  |  | Guadeloupe | 112 |
+| 19 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Axial-Host |  | Guadeloupe | 80 |
+| 20 | [mperouma](https://github.com/mperouma) | Mathias P. | SCOP ARL SINOUVE |  | Guadeloupe | 80 |

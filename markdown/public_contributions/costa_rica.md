@@ -1,8 +1,8 @@
 # Public Contributions - Costa Rica
 
-Generated: 2026-10-07T06:55:43.628Z
+Generated: 2026-10-07T07:50:51.898Z
 
-Users: 5637
+Users: 5646
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,7 +12,7 @@ Users: 5637
 | 4 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES |  | official_taches | Costa Rica | 5358 |
 | 5 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | SkyCortex |  | Costa Rica | 3704 |
 | 6 | [ronz204](https://github.com/ronz204) | ronz |  |  | San Carlos, Costa Rica | 3661 |
-| 7 | [Matt-Aurora-Ventures](https://github.com/Matt-Aurora-Ventures) | Matt Haynes | Aurora Ventures | aurora_ventures | Costa Rica | 3184 |
+| 7 | [Matt-Aurora-Ventures](https://github.com/Matt-Aurora-Ventures) | Matt Haynes | Aurora Ventures | aurora_ventures | Costa Rica | 3585 |
 | 8 | [aramirez087](https://github.com/aramirez087) | Alexander Ramirez Kiriushenko |  | aramirez087 | Costa Rica | 2870 |
 | 9 | [morozov](https://github.com/morozov) | Sergei Morozov | @redis  |  | San José, CA | 2590 |
 | 10 | [jonnabio](https://github.com/jonnabio) | Jonathan Herrera |  | jonnabio | Costa Rica | 2546 |

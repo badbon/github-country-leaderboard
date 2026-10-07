@@ -51,8 +51,8 @@ Indexed users: 1,197
 | 12 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 730 |
 | 13 | [klajdm](https://github.com/klajdm) | Klajdi Murataj | Tirana, Albania | 692 |
 | 14 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 662 |
-| 15 | [genciiv](https://github.com/genciiv) | G-code | Albania | 616 |
-| 16 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 609 |
+| 15 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 642 |
+| 16 | [genciiv](https://github.com/genciiv) | G-code | Albania | 616 |
 | 17 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari | Tirana, Albania | 565 |
 | 18 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu | Tirana, Albania | 549 |
 | 19 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 532 |
@@ -83,4 +83,4 @@ Indexed users: 1,197
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 80 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 72 |
 
-Generated: 2026-10-07T06:47:29.951Z
+Generated: 2026-10-07T07:34:44.275Z

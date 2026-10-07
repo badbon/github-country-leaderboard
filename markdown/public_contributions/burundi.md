@@ -1,20 +1,20 @@
 # Public Contributions - Burundi
 
-Generated: 2026-10-07T06:50:50.317Z
+Generated: 2026-10-07T07:40:25.548Z
 
 Users: 237
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1420 |
-| 2 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 891 |
+| 1 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1653 |
+| 2 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 680 |
 | 3 | [Welcomeardin](https://github.com/Welcomeardin) | Mr ardin | imuhiragraphicdesigns |  | Burundi,bujumbura | 624 |
 | 4 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana |  | AdnesNdiku10883 | Burundi | 520 |
 | 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | @UbuhingaVizion  | iMitwe | Burundi | 442 |
 | 6 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev |  |  | Burundi | 425 |
-| 7 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Free Tech Institute | AdvaxeIr | Gitega-Burundi | 327 |
-| 8 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 312 |
-| 9 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev |  |  | burundi | 304 |
+| 7 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | @uhuru-Market  |  | burundi | 356 |
+| 8 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Free Tech Institute | AdvaxeIr | Gitega-Burundi | 327 |
+| 9 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 312 |
 | 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 287 |
 | 11 | [butofleury](https://github.com/butofleury) | Fleury | @BLSQ |  | Burundi, Bujumbura | 269 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY |  |  | Burundi/Bujumbura | 220 |

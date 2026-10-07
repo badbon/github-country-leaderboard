@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,882
+Indexed users: 3,880
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,882
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-07T06:41:35.917Z
+Generated: 2026-10-07T07:30:19.254Z

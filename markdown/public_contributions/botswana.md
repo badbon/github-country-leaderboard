@@ -1,6 +1,6 @@
 # Public Contributions - Botswana
 
-Generated: 2026-10-07T07:12:54.663Z
+Generated: 2026-10-07T07:38:39.748Z
 
 Users: 535
 
@@ -21,8 +21,8 @@ Users: 535
 | 13 | [loag0](https://github.com/loag0) | Loago Moremi |  |  | Botswana | 482 |
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana International University of Science and Technology |  | Botswana | 433 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | University of Botswana | justindotdev | Gaborone, Botswana | 424 |
-| 16 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 395 |
-| 17 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 373 |
-| 18 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Student at University of Botswana  | boitsholo_r | Gaborone, Botswana | 372 |
-| 19 | [TheoMKgosi](https://github.com/TheoMKgosi) |  |  |  | Botswana | 368 |
+| 16 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Student at University of Botswana  | boitsholo_r | Gaborone, Botswana | 378 |
+| 17 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 372 |
+| 18 | [TheoMKgosi](https://github.com/TheoMKgosi) |  |  |  | Botswana | 368 |
+| 19 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 348 |
 | 20 | [tmotswagole](https://github.com/tmotswagole) | Thabiso Motswagole | Jurifica | thabiso_mots | Gaborone | 328 |

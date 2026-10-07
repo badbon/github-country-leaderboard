@@ -1,13 +1,13 @@
 # Followers - French Polynesia
 
-Generated: 2026-10-07T07:01:19.417Z
+Generated: 2026-10-07T07:49:09.208Z
 
 Users: 60
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 164 |
-| 2 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 115 |
+| 1 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 166 |
+| 2 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 114 |
 | 3 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot |  | adriencanterot | Tahiti, French Polynesia | 27 |
 | 4 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 27 |
 | 5 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 24 |
@@ -16,9 +16,9 @@ Users: 60
 | 8 | [jebouin](https://github.com/jebouin) | Jeremy Bouin |  |  | French Polynesia | 16 |
 | 9 | [vesath](https://github.com/vesath) | Gaetan Bisson |  |  | French Polynesia | 16 |
 | 10 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 15 |
-| 11 | [glaziou](https://github.com/glaziou) | Philippe Glaziou |  |  | Tahiti, French Polynesia | 11 |
-| 12 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou |  |  | French Polynesia | 11 |
-| 13 | [teuna](https://github.com/teuna) | Teuna Ferrand |  |  | Tahiti, French Polynesia | 11 |
+| 11 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou |  |  | French Polynesia | 12 |
+| 12 | [glaziou](https://github.com/glaziou) | Philippe Glaziou |  |  | Tahiti, French Polynesia | 11 |
+| 13 | [teuna](https://github.com/teuna) | Teuna Ferrand |  |  | Tahiti, French Polynesia | 9 |
 | 14 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard |  |  | Tahiti, French Polynesia | 7 |
 | 15 | [yannkb](https://github.com/yannkb) | Yann Bouchereau |  | yannkb_ | Papeete, French Polynesia | 7 |
 | 16 | [lauramikula](https://github.com/lauramikula) | Laura Mikula | York University | MikulaLaura | Tahiti, French Polynesia | 6 |

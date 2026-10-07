@@ -1,6 +1,6 @@
 # DR Congo
 
-Indexed users: 706
+Indexed users: 704
 
 | Leaderboard | Link |
 |---|---|
@@ -18,39 +18,39 @@ Indexed users: 706
 | 4 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 8,551 |
 | 5 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | Democratic Republic of the Congo, Goma | 8,172 |
 | 6 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 7,789 |
-| 7 | [ub-victor](https://github.com/ub-victor) | USHINDI BIHAME Victoire | Kigali, Rwanda, DR Congo  | 7,234 |
-| 8 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 7,186 |
-| 9 | [merdielongo](https://github.com/merdielongo) | merdielongo | Congo / Kinshasa | 5,709 |
-| 10 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,087 |
-| 11 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 4,690 |
-| 12 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,647 |
-| 13 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,563 |
-| 14 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,324 |
-| 15 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka | Kinshasa, Nairobi, Kigali | 4,320 |
-| 16 | [hervinhio](https://github.com/hervinhio) | Hervé Kyle MUTOMBO MATANDA | Kinshasa, Democratic Republic of Congo | 4,014 |
-| 17 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 3,998 |
-| 18 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 3,906 |
-| 19 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 3,873 |
-| 20 | [Holsonmp](https://github.com/Holsonmp) | Holson Mpangala | Kinshasa, Congo CD | 3,870 |
+| 7 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 7,186 |
+| 8 | [merdielongo](https://github.com/merdielongo) | merdielongo | Congo / Kinshasa | 5,709 |
+| 9 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,087 |
+| 10 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 4,690 |
+| 11 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,647 |
+| 12 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,563 |
+| 13 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,324 |
+| 14 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka | Kinshasa, Nairobi, Kigali | 4,320 |
+| 15 | [hervinhio](https://github.com/hervinhio) | Hervé Kyle MUTOMBO MATANDA | Kinshasa, Democratic Republic of Congo | 4,014 |
+| 16 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 3,998 |
+| 17 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 3,906 |
+| 18 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 3,873 |
+| 19 | [Holsonmp](https://github.com/Holsonmp) | Holson Mpangala | Kinshasa, Congo CD | 3,870 |
+| 20 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 3,837 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-vincent | Kinshasa, Kigali | 23,002 |
-| 2 | [ub-victor](https://github.com/ub-victor) | USHINDI BIHAME Victoire | Kigali, Rwanda, DR Congo  | 6,858 |
-| 3 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 3,735 |
-| 4 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 3,347 |
-| 5 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 2,922 |
-| 6 | [vickbk](https://github.com/vickbk) | Victoire Bake | Goma, DR Congo | 2,769 |
-| 7 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa | kinshasa DRC | 1,359 |
-| 8 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinshasa | 1,255 |
-| 9 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki | Kinshasa, Drc | 1,201 |
-| 10 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 1,172 |
-| 11 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI | Kinshasa, Democratic Republic of the Congo | 1,143 |
-| 12 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | Kinshasa, DR Congo | 1,015 |
-| 13 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | DRC, Kinshasa | 933 |
-| 14 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | Kinshasa | 904 |
+| 2 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 3,735 |
+| 3 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 3,347 |
+| 4 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 2,922 |
+| 5 | [vickbk](https://github.com/vickbk) | Victoire Bake | Goma, DR Congo | 2,769 |
+| 6 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa | kinshasa DRC | 1,359 |
+| 7 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinshasa | 1,255 |
+| 8 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki | Kinshasa, Drc | 1,201 |
+| 9 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 1,172 |
+| 10 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI | Kinshasa, Democratic Republic of the Congo | 1,082 |
+| 11 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | Kinshasa, DR Congo | 1,015 |
+| 12 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | DRC, Kinshasa | 933 |
+| 13 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | Kinshasa | 904 |
+| 14 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 839 |
 | 15 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | Democratic Republic of the Congo | 802 |
 | 16 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 800 |
 | 17 | [Holsonmp](https://github.com/Holsonmp) | Holson Mpangala | Kinshasa, Congo CD | 776 |
@@ -83,4 +83,4 @@ Indexed users: 706
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 68 |
 
-Generated: 2026-10-07T06:59:19.710Z
+Generated: 2026-10-07T07:47:29.071Z

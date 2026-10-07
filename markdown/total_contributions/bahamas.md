@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-07T06:48:58.112Z
+Generated: 2026-10-07T07:37:34.590Z
 
 Users: 240
 
@@ -13,11 +13,11 @@ Users: 240
 | 5 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 1958 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 1836 |
 | 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour |  |  | New Providence, Bahamas | 1632 |
-| 8 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 1328 |
-| 9 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 1110 |
-| 10 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 1005 |
-| 11 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 946 |
-| 12 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Agio Digital Ltd. |  | Nassau, The Bahamas | 843 |
+| 8 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Agio Digital Ltd. |  | Nassau, The Bahamas | 1392 |
+| 9 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 1328 |
+| 10 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 1110 |
+| 11 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 1005 |
+| 12 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 946 |
 | 13 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 802 |
 | 14 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 787 |
 | 15 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 786 |

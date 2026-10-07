@@ -1,6 +1,6 @@
 # Followers - Djibouti
 
-Generated: 2026-10-07T06:58:06.585Z
+Generated: 2026-10-07T07:46:09.025Z
 
 Users: 55
 
@@ -9,12 +9,12 @@ Users: 55
 | 1 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) |  |  | Djibouti | 27 |
 | 2 | [bassim18ramad](https://github.com/bassim18ramad) | BassimRH |  |  | Djibouti | 24 |
 | 3 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Manelix Technologies |  | Djibouti | 17 |
-| 4 | [abdibogor](https://github.com/abdibogor) |  |  |  | Djibouti | 14 |
+| 4 | [abdibogor](https://github.com/abdibogor) |  |  |  | Djibouti | 15 |
 | 5 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Teacher at MENFOP | YoungAssajog | Djibouti | 14 |
 | 6 | [Obelisk999](https://github.com/Obelisk999) | Abdoulrazak |  |  | Djibouti | 14 |
-| 7 | [nabolitains](https://github.com/nabolitains) | Charko M. |  | nabolitains | Djibouti | 12 |
-| 8 | [zeynabhabib](https://github.com/zeynabhabib) | Zeinab Habib Hassan | Université de Djibouti |  | Djibouti | 12 |
-| 9 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH |  |  | Djibouti Dj | 11 |
+| 7 | [zeynabhabib](https://github.com/zeynabhabib) | Zeinab Habib Hassan | Université de Djibouti |  | Djibouti | 12 |
+| 8 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH |  |  | Djibouti Dj | 11 |
+| 9 | [nabolitains](https://github.com/nabolitains) | Charko M. |  | nabolitains | Djibouti | 11 |
 | 10 | [Naeemalis](https://github.com/Naeemalis) | Naeemali | NAEEMSOFT |  | Djibouti  | 9 |
 | 11 | [inamkhosa](https://github.com/inamkhosa) | Inam | Safarifone Inc. |  | Dubai, Islamabad, Djibouti | 8 |
 | 12 | [benkhaireh](https://github.com/benkhaireh) | Mohamed Khaireh O. |  | benkhaireh | Djibouti | 7 |
@@ -22,7 +22,7 @@ Users: 55
 | 14 | [hmzeahmd](https://github.com/hmzeahmd) | hmze  | @codemakersteam |  | Djibouti | 7 |
 | 15 | [libane97](https://github.com/libane97) | Libane Gamal Hassan | MDENI | libane | Djibouti, Djibouti ville | 7 |
 | 16 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | @SPS-SIPS @AsalSolutions @somnog |  | Djibouti | 6 |
-| 17 | [DrPower01](https://github.com/DrPower01) | Wilsan yahya Mohamed |  |  | Djibouti | 5 |
-| 18 | [LuxusIX](https://github.com/LuxusIX) | Abdourahman A.Daher |  |  | Djibouti | 5 |
-| 19 | [amino0](https://github.com/amino0) | Amin Ibrahim Kayad | Dheeman Group | medamin893 | Djibouti | 4 |
-| 20 | [Ismael9-web](https://github.com/Ismael9-web) | Ismael Ladieh | @djib-dsi-budget  |  | Djibouti | 4 |
+| 17 | [amino0](https://github.com/amino0) | Amin Ibrahim Kayad | Dheeman Group | medamin893 | Djibouti | 5 |
+| 18 | [DrPower01](https://github.com/DrPower01) | Wilsan yahya Mohamed |  |  | Djibouti | 5 |
+| 19 | [jibo-zz](https://github.com/jibo-zz) | Mohamed Cheikh | GroWrk |  | Djibouti | 5 |
+| 20 | [LuxusIX](https://github.com/LuxusIX) | Abdourahman A.Daher |  |  | Djibouti | 5 |

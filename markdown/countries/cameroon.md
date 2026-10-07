@@ -50,13 +50,13 @@ Indexed users: 1,810
 | 11 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,717 |
 | 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | Yaoundé Cameroon | 1,685 |
 | 13 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,470 |
-| 14 | [Gesee-y](https://github.com/Gesee-y) | Talom Laël  | Yaoundé/Cameroon | 1,464 |
-| 15 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,452 |
-| 16 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 1,388 |
-| 17 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,373 |
-| 18 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,360 |
-| 19 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 1,299 |
-| 20 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Dschang, Cameroon | 1,261 |
+| 14 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,452 |
+| 15 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 1,388 |
+| 16 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,373 |
+| 17 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,360 |
+| 18 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 1,299 |
+| 19 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Dschang, Cameroon | 1,261 |
+| 20 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,260 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,810
 | 19 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | Cameroon | 173 |
 | 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
 
-Generated: 2026-10-07T06:50:57.057Z
+Generated: 2026-10-07T07:40:44.608Z

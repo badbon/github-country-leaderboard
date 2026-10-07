@@ -1,6 +1,6 @@
 # Followers - British Virgin Islands
 
-Generated: 2026-10-07T06:50:17.327Z
+Generated: 2026-10-07T07:39:44.506Z
 
 Users: 38
 
@@ -19,10 +19,10 @@ Users: 38
 | 11 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | Metaworld Fund |  | British Virgin Islands | 4 |
 | 12 | [SaudAlshamsi](https://github.com/SaudAlshamsi) | Saud |  |  | Virgin Islands | 4 |
 | 13 | [SCNPay](https://github.com/SCNPay) | Swis Coin | Swis Coin |  | 121-130, Ormond Building, Dublin, British Virgin Islands | 4 |
-| 14 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | Government of the Virgin Islands |  | British Virgin Islands | 3 |
-| 15 | [taginternet-opensource](https://github.com/taginternet-opensource) | TAGInternet Opensource | TAGInternet Limited | InternetTag | British Virgin Islands | 3 |
-| 16 | [temtum](https://github.com/temtum) | Temtum | Great Harbour |  | British Virgin Islands | 3 |
-| 17 | [BigThiccy2](https://github.com/BigThiccy2) | bigthiccy2 |  |  | Little Saint James, Virgin Islands | 2 |
-| 18 | [ilyBen](https://github.com/ilyBen) | Ben |  |  | Virgin Islands | 2 |
-| 19 | [PupaKevin](https://github.com/PupaKevin) |  | West Indies Technology Solutions, LLC | Kevin_theitguy | Virgin Islands  | 2 |
-| 20 | [Vitas1337](https://github.com/Vitas1337) |  |  |  | virgin islands | 2 |
+| 14 | [Fraodd](https://github.com/Fraodd) | Fraodd |  |  | Tortola, British Virgin Islands | 3 |
+| 15 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | Government of the Virgin Islands |  | British Virgin Islands | 3 |
+| 16 | [taginternet-opensource](https://github.com/taginternet-opensource) | TAGInternet Opensource | TAGInternet Limited | InternetTag | British Virgin Islands | 3 |
+| 17 | [temtum](https://github.com/temtum) | Temtum | Great Harbour |  | British Virgin Islands | 3 |
+| 18 | [BigThiccy2](https://github.com/BigThiccy2) | bigthiccy2 |  |  | Little Saint James, Virgin Islands | 2 |
+| 19 | [ilyBen](https://github.com/ilyBen) | Ben |  |  | Virgin Islands | 2 |
+| 20 | [PupaKevin](https://github.com/PupaKevin) |  | West Indies Technology Solutions, LLC | Kevin_theitguy | Virgin Islands  | 2 |

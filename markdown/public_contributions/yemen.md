@@ -1,25 +1,25 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-07T06:45:19.511Z
+Generated: 2026-10-07T07:32:15.670Z
 
-Users: 1217
+Users: 1216
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [thejulan](https://github.com/thejulan) | Julan | @green-goblins @DevITOps @looptron-team  |  | Yemen | 102452 |
 | 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني |  | Yunesdhanei | Yemen | 64567 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim |  | Ibrahem_Qasim | Sana'a  | 19837 |
-| 4 | [ken00H](https://github.com/ken00H) |  | NerdMagic Games |  | Yemen | 3606 |
-| 5 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 3489 |
-| 6 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati |  | alqubatihakim | Yemen | 3321 |
-| 7 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Freelance |  | Yemen | 1896 |
-| 8 | [Hamza-ye](https://github.com/Hamza-ye) | Hamza | NMCP |  | Yemen | 1856 |
-| 9 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 1338 |
-| 10 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 1287 |
-| 11 | [HusseinBaraja](https://github.com/HusseinBaraja) | Hussein Ba Ragaa |  |  | Yemen | 1236 |
-| 12 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 1140 |
-| 13 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi |  |  | Yemen | 1110 |
-| 14 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 1058 |
+| 4 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7036 |
+| 5 | [ken00H](https://github.com/ken00H) |  | NerdMagic Games |  | Yemen | 3606 |
+| 6 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 3489 |
+| 7 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati |  | alqubatihakim | Yemen | 3321 |
+| 8 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Freelance |  | Yemen | 1896 |
+| 9 | [Hamza-ye](https://github.com/Hamza-ye) | Hamza | NMCP |  | Yemen | 1856 |
+| 10 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 1338 |
+| 11 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 1287 |
+| 12 | [HusseinBaraja](https://github.com/HusseinBaraja) | Hussein Ba Ragaa |  |  | Yemen | 1236 |
+| 13 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 1140 |
+| 14 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi |  |  | Yemen | 1110 |
 | 15 | [716W](https://github.com/716W) | Ali Bin-Samida | Hadramout |  | Yemen | 973 |
 | 16 | [HassanY1010](https://github.com/HassanY1010) | Hassan |  |  | Yemen | 796 |
 | 17 | [AimanHaidar](https://github.com/AimanHaidar) | Aiman Taher Abdulmwala Haidar | Sana'a University |  | Sana'a, Yemen | 749 |

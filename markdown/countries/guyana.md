@@ -1,6 +1,6 @@
 # Guyana
 
-Indexed users: 187
+Indexed users: 186
 
 | Leaderboard | Link |
 |---|---|
@@ -21,8 +21,8 @@ Indexed users: 187
 | 7 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 3,021 |
 | 8 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 2,916 |
 | 9 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman | Georgetown, DE | 2,454 |
-| 10 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 2,050 |
-| 11 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee | Georgetown, TX | 1,864 |
+| 10 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee | Georgetown, TX | 2,209 |
+| 11 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 2,050 |
 | 12 | [Hinxman](https://github.com/Hinxman) | Ken Hinxman | Georgetown, TX | 1,726 |
 | 13 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 1,579 |
 | 14 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,511 |
@@ -83,4 +83,4 @@ Indexed users: 187
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 24 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 21 |
 
-Generated: 2026-10-07T07:02:49.256Z
+Generated: 2026-10-07T07:53:52.504Z

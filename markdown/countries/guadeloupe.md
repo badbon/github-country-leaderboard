@@ -23,15 +23,15 @@ Indexed users: 85
 | 9 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 674 |
 | 10 | [nath971](https://github.com/nath971) | N | Guadeloupe | 656 |
 | 11 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 620 |
-| 12 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 554 |
-| 13 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 438 |
-| 14 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 429 |
-| 15 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
-| 16 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR | Basse-Terre, Guadeloupe | 135 |
-| 17 | [rgdgs](https://github.com/rgdgs) | Ruben G | Guadeloupe | 112 |
-| 18 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Guadeloupe | 91 |
-| 19 | [mperouma](https://github.com/mperouma) | Mathias P. | Guadeloupe | 80 |
-| 20 | [KaribbeanCreative](https://github.com/KaribbeanCreative) | Karibbean Creative | Guadeloupe | 74 |
+| 12 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 567 |
+| 13 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 554 |
+| 14 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 451 |
+| 15 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 429 |
+| 16 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
+| 17 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR | Basse-Terre, Guadeloupe | 135 |
+| 18 | [rgdgs](https://github.com/rgdgs) | Ruben G | Guadeloupe | 112 |
+| 19 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Guadeloupe | 80 |
+| 20 | [mperouma](https://github.com/mperouma) | Mathias P. | Guadeloupe | 80 |
 
 ## Public Contributions
 
@@ -41,15 +41,15 @@ Indexed users: 85
 | 2 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 674 |
 | 3 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 664 |
 | 4 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 492 |
-| 5 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 438 |
+| 5 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 451 |
 | 6 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 237 |
 | 7 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
 | 8 | [KaribbeanCreative](https://github.com/KaribbeanCreative) | Karibbean Creative | Guadeloupe | 74 |
 | 9 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR | Basse-Terre, Guadeloupe | 72 |
-| 10 | [RomainLAU](https://github.com/RomainLAU) | Romain LAURENT | Baie-Mahault, Guadeloupe | 55 |
-| 11 | [ntxsay](https://github.com/ntxsay) | Loïc Bastaraud | Guadeloupe | 52 |
+| 10 | [ntxsay](https://github.com/ntxsay) | Loïc Bastaraud | Guadeloupe | 57 |
+| 11 | [RomainLAU](https://github.com/RomainLAU) | Romain LAURENT | Baie-Mahault, Guadeloupe | 55 |
 | 12 | [SioTyron](https://github.com/SioTyron) | Tyron | Guadeloupe | 46 |
-| 13 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Les Abymes, Guadeloupe | 38 |
+| 13 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Les Abymes, Guadeloupe | 45 |
 | 14 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 38 |
 | 15 | [leho971](https://github.com/leho971) | ZOZO Léo | Guadeloupe | 36 |
 | 16 | [fixups](https://github.com/fixups) | Christophe Théron | Guadeloupe | 30 |
@@ -68,7 +68,7 @@ Indexed users: 85
 | 4 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Guadeloupe | 37 |
 | 5 | [WebmonsterA](https://github.com/WebmonsterA) | Webmonster Antilles | Martinique, Guadeloupe | 25 |
 | 6 | [sarinkhan](https://github.com/sarinkhan) | Audrey Robinel | Guadeloupe | 18 |
-| 7 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 16 |
+| 7 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 17 |
 | 8 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 15 |
 | 9 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 14 |
 | 10 | [owatte](https://github.com/owatte) | Oliver Watte | Le Moule, Guadeloupe | 12 |
@@ -83,4 +83,4 @@ Indexed users: 85
 | 19 | [Clement97712](https://github.com/Clement97712) |  | Guadeloupe | 6 |
 | 20 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 
-Generated: 2026-10-07T07:02:06.258Z
+Generated: 2026-10-07T07:50:49.101Z

@@ -1,13 +1,13 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-07T06:46:14.918Z
+Generated: 2026-10-07T07:33:30.128Z
 
-Users: 1496
+Users: 1495
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [afgprogrammer](https://github.com/afgprogrammer) | Mohammad Rahmani | @openafg |  |  Kabul, Afghanistan | 3455 |
-| 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Hendra.com |  | Afghanistan | 647 |
+| 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Hendra.com |  | Afghanistan | 668 |
 | 3 | [SanaTameem](https://github.com/SanaTameem) | Sana Tameem | Afghan Relief | sanooo2001 | Kabul-Afghanistan | 439 |
 | 4 | [UstadYasin](https://github.com/UstadYasin) | Muhammad Yasin Jamal |  |  | Kabul | 408 |
 | 5 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi |  |  | Kabul province  | 271 |
@@ -15,7 +15,7 @@ Users: 1496
 | 7 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | SharifiNeya Travel Services |  | Kabul | 258 |
 | 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub |  |  | Afghanistan | 221 |
 | 9 | [MastooraTurkmen](https://github.com/MastooraTurkmen) | Mastoora Turkmen | Clearoute Inc | MastooraJ22 | Kabul, Afghanistan | 221 |
-| 10 | [SarwarEbrahimi01](https://github.com/SarwarEbrahimi01) | Sarwar Ebrahimi  | Kabul University  | sarwar_ebrahimi | Kabul , Afghanistan  | 180 |
+| 10 | [SarwarEbrahimi01](https://github.com/SarwarEbrahimi01) | Sarwar Ebrahimi  | Kabul University  | sarwar_ebrahimi | Kabul , Afghanistan  | 186 |
 | 11 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 166 |
 | 12 | [WajihaNiazi](https://github.com/WajihaNiazi) | Wajiha Niazi | CodeToInspire | Wajiha_Niazi | Herat,Afghanistan | 156 |
 | 13 | [ab-noori](https://github.com/ab-noori) | Abdulali Noori | AAK Tele Science |  | Afghanistan | 147 |

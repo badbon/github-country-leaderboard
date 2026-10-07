@@ -1,6 +1,6 @@
 # Total Contributions - South Sudan
 
-Generated: 2026-10-07T06:39:05.397Z
+Generated: 2026-10-07T07:27:29.694Z
 
 Users: 135
 
@@ -10,8 +10,8 @@ Users: 135
 | 2 | [davelee001](https://github.com/davelee001) | David Leek |  | barax_lee | South Sudan | 4757 |
 | 3 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Nilotik General Trading Co. Ltd | _Maiz27_ | Juba, South Sudan | 3704 |
 | 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat |  |  | Juba, South sudan | 3502 |
-| 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  |  | PuochMabor | South Sudan | 1012 |
-| 6 | [felixuxx](https://github.com/felixuxx) | ... |  |  | Juba, South Sudan | 799 |
+| 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  |  | PuochMabor | South Sudan | 1007 |
+| 6 | [felixuxx](https://github.com/felixuxx) | ... |  |  | Juba, South Sudan | 811 |
 | 7 | [wellawet](https://github.com/wellawet) | Wella Awet | Kudual Systems | wellawet | South Sudan | 705 |
 | 8 | [AchukCodeMaster](https://github.com/AchukCodeMaster) | Johnson Achuk | Pixel Pulse | johnsonachuk | Juba, South Sudan | 574 |
 | 9 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Belednai Technology |  | Juba-South Sudan | 545 |
@@ -19,9 +19,9 @@ Users: 135
 | 11 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | @DIGI-UW  @OPENMRS | djnuior256 | Juba  | 498 |
 | 12 | [WANI12](https://github.com/WANI12) | wani geoffrey | @open-southsudan  | GeoffreyWani | Juba, South Sudan | 463 |
 | 13 | [Dhie-boop](https://github.com/Dhie-boop) | Dhieu David |  |  | Juba South Sudan | 327 |
-| 14 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Lajik Tech | Dengtieljr15673 | Juba/Online | 323 |
-| 15 | [deng-joe](https://github.com/deng-joe) | Joe | MTN South Sudan | joedeng_ | Juba, CE, South Sudan | 320 |
-| 16 | [dutkulang](https://github.com/dutkulang) | Dut Kulang |  | DutKulang1 | Juba, South Sudan | 311 |
+| 14 | [deng-joe](https://github.com/deng-joe) | Joe | MTN South Sudan | joedeng_ | Juba, CE, South Sudan | 320 |
+| 15 | [dutkulang](https://github.com/dutkulang) | Dut Kulang |  | DutKulang1 | Juba, South Sudan | 311 |
+| 16 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Lajik Tech | Dengtieljr15673 | Juba/Online | 301 |
 | 17 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | SharpNet technologies  |  | Juba South Sudan | 287 |
 | 18 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | TechPro |  | South Sudan | 271 |
 | 19 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | climaware |  | South Sudan | 270 |

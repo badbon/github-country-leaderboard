@@ -1,8 +1,8 @@
 # Public Contributions - Fiji
 
-Generated: 2026-10-07T07:01:10.405Z
+Generated: 2026-10-07T07:48:32.531Z
 
-Users: 329
+Users: 328
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 329
 | 14 | [birdkyle7918](https://github.com/birdkyle7918) | Kyle |  | birdkyle7918 | Fiji | 145 |
 | 15 | [xue1213888](https://github.com/xue1213888) | XueSichen |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 144 |
 | 16 | [Neikumata](https://github.com/Neikumata) | yangyeqin | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 134 |
-| 17 | [mucsbr](https://github.com/mucsbr) | beingS | Zenaida |  | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 96 |
-| 18 | [NotPranshu](https://github.com/NotPranshu) | Pranshu Ayush | The University of Fiji |  | Fiji | 88 |
-| 19 | [phpoh](https://github.com/phpoh) | phpoh | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 86 |
-| 20 | [LearnerHong](https://github.com/LearnerHong) | NIAOJIANG | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 78 |
+| 17 | [Arishneel-Narayan](https://github.com/Arishneel-Narayan) | Arishneel Sagar Narayan | FMF Foods Ltd |  | Fiji  | 129 |
+| 18 | [mucsbr](https://github.com/mucsbr) | beingS | Zenaida |  | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 96 |
+| 19 | [NotPranshu](https://github.com/NotPranshu) | Pranshu Ayush | The University of Fiji |  | Fiji | 88 |
+| 20 | [phpoh](https://github.com/phpoh) | phpoh | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 86 |

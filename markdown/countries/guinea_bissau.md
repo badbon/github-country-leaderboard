@@ -14,7 +14,7 @@ Indexed users: 22
 |---:|---|---|---|---:|
 | 1 | [laurentino-dev](https://github.com/laurentino-dev) | Laurentino | Bissau | 2,657 |
 | 2 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Bissau, Guinea-Bissau | 433 |
-| 3 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | Bissau | 258 |
+| 3 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | Bissau | 260 |
 | 4 | [Samsilva64](https://github.com/Samsilva64) | Daltonsilva | Guiné-bissau/pluba | 64 |
 | 5 | [baribucirio-cmyk](https://github.com/baribucirio-cmyk) | Bucirio Bari | Guiné-Bissau | 57 |
 | 6 | [Eduildo](https://github.com/Eduildo) | eduildo | Bissau, Guiné-Bissau | 19 |
@@ -71,8 +71,8 @@ Indexed users: 22
 | 7 | [etiandroucha](https://github.com/etiandroucha) | Etiandro Ucha | Guiné-Bissau | 4 |
 | 8 | [mamadubillw](https://github.com/mamadubillw) | Mamadu Bilo Djalo | Bissau | 4 |
 | 9 | [ricardovazcorreia](https://github.com/ricardovazcorreia) | Ricardo Vaz Correia | Bissau | 4 |
-| 10 | [Samsilva64](https://github.com/Samsilva64) | Daltonsilva | Guiné-bissau/pluba | 4 |
-| 11 | [GiovanniGBF](https://github.com/GiovanniGBF) | Giovanni Gustavo Baticã Ferreira | Bissau | 3 |
+| 10 | [GiovanniGBF](https://github.com/GiovanniGBF) | Giovanni Gustavo Baticã Ferreira | Bissau | 3 |
+| 11 | [Samsilva64](https://github.com/Samsilva64) | Daltonsilva | Guiné-bissau/pluba | 3 |
 | 12 | [baribucirio-cmyk](https://github.com/baribucirio-cmyk) | Bucirio Bari | Guiné-Bissau | 2 |
 | 13 | [losbagos](https://github.com/losbagos) | los bagos | guinea bissau | 2 |
 | 14 | [ibanora](https://github.com/ibanora) | Idrissa Banora | Guiné Bissau | 1 |
@@ -83,4 +83,4 @@ Indexed users: 22
 | 19 | [NB-17-lab](https://github.com/NB-17-lab) | NB | Bissau/Guiné-Bissau | 1 |
 | 20 | [oritambade3](https://github.com/oritambade3) | Galileu José Oritambadé | Guiné-Bissau, Bissau | 1 |
 
-Generated: 2026-10-07T07:02:45.323Z
+Generated: 2026-10-07T07:53:46.587Z

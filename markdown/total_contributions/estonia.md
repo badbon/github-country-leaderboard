@@ -1,16 +1,16 @@
 # Total Contributions - Estonia
 
-Generated: 2026-10-07T07:00:36.423Z
+Generated: 2026-10-07T07:47:54.522Z
 
 Users: 4925
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ersinkoc](https://github.com/ersinkoc) | Ersin KOÇ | EcoStack Technology OÜ | ersinkoc | Tallinn | 23338 |
-| 2 | [kwunlokng](https://github.com/kwunlokng) | Kwun-Lok Ng | @kipwise  |  | Tallinn, Estonia | 22394 |
-| 3 | [trevorlasn](https://github.com/trevorlasn) | Trevor I. Lasn | @0xinsider  | trevorlasn | Tartu, Estonia | 20844 |
-| 4 | [oisincoveney](https://github.com/oisincoveney) | Oisin Coveney |  |  | Tallinn, Estonia | 15379 |
-| 5 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Ashforde OÜ |  | Estonia | 15221 |
+| 2 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Ashforde OÜ |  | Estonia | 22475 |
+| 3 | [kwunlokng](https://github.com/kwunlokng) | Kwun-Lok Ng | @kipwise  |  | Tallinn, Estonia | 22394 |
+| 4 | [trevorlasn](https://github.com/trevorlasn) | Trevor I. Lasn | @0xinsider  | trevorlasn | Tartu, Estonia | 20844 |
+| 5 | [oisincoveney](https://github.com/oisincoveney) | Oisin Coveney |  |  | Tallinn, Estonia | 15379 |
 | 6 | [battlesnake](https://github.com/battlesnake) | Mark Cowan | Potamus |  | Tallinn | 13447 |
 | 7 | [kempu](https://github.com/kempu) | Klemens Arro |  | KlemensArro | Estonia | 12958 |
 | 8 | [tooming](https://github.com/tooming) | Martin Tooming | LHV |  | Tallinn | 12354 |

@@ -1,6 +1,6 @@
 # Followers - Gibraltar
 
-Generated: 2026-10-07T07:01:53.567Z
+Generated: 2026-10-07T07:49:29.225Z
 
 Users: 94
 
@@ -19,7 +19,7 @@ Users: 94
 | 11 | [ileghlam](https://github.com/ileghlam) | Leghlam Ishak |  |  | Gibraltar | 26 |
 | 12 | [luciomafia](https://github.com/luciomafia) | ─ RUM / MAYHEM ! | 𓏲𝄢  OVERWATCH . . . |  | 𖠊  WATCHPOINT GIBRALTAR . . . | 25 |
 | 13 | [multicharts](https://github.com/multicharts) |  | MCT LTD. |  | Gibraltar | 24 |
-| 14 | [ElAndy94](https://github.com/ElAndy94) | Andrew | Apadmi |  | Gibraltar | 21 |
+| 14 | [ElAndy94](https://github.com/ElAndy94) | Andrew | RockLogic |  | Gibraltar | 22 |
 | 15 | [nats12](https://github.com/nats12) | Natalie Mclaren | @Doist |  | Gibraltar | 17 |
 | 16 | [SGarcia96](https://github.com/SGarcia96) | SGarcia |  |  | Spain/Gibraltar | 17 |
 | 17 | [baileys](https://github.com/baileys) | Stephen Bailey |  |  | Gibraltar | 15 |

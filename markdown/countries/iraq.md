@@ -1,6 +1,6 @@
 # Iraq
 
-Indexed users: 2,255
+Indexed users: 2,254
 
 | Leaderboard | Link |
 |---|---|
@@ -12,7 +12,7 @@ Indexed users: 2,255
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [gcp64](https://github.com/gcp64) | Mr.bob | Iraq | 2,270,902 |
+| 1 | [gcp64](https://github.com/gcp64) | Mr.bob | Iraq | 2,205,846 |
 | 2 | [hoshmandent](https://github.com/hoshmandent) | Hoshmand M. Qadir | Erbil, Iraq | 18,551 |
 | 3 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Iraq, Najaf | 9,376 |
 | 4 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Baghdad / Iraq | 8,747 |
@@ -37,7 +37,7 @@ Indexed users: 2,255
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [gcp64](https://github.com/gcp64) | Mr.bob | Iraq | 1,420,546 |
+| 1 | [gcp64](https://github.com/gcp64) | Mr.bob | Iraq | 1,415,564 |
 | 2 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Iraq | 5,000 |
 | 3 | [shaheenfarjo](https://github.com/shaheenfarjo) | Shaheen K. Farjo | Baghdad, Iraq | 4,990 |
 | 4 | [pageton](https://github.com/pageton) | Sadiq | Basra, Iraq | 2,662 |
@@ -48,9 +48,9 @@ Indexed users: 2,255
 | 9 | [AzaAsim](https://github.com/AzaAsim) |  | Iraq, KRG | 961 |
 | 10 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 888 |
 | 11 | [Diary4](https://github.com/Diary4) | Diary Salah | Erbil, Iraq | 861 |
-| 12 | [specOper99](https://github.com/specOper99) | Mohammed Nawfal | Mosul, Iraq | 778 |
-| 13 | [hamagold](https://github.com/hamagold) | HamaGold | iraq/kurdistan/Erbil | 725 |
-| 14 | [3h0ll7](https://github.com/3h0ll7) | Hassan Salman | Iraq | 720 |
+| 12 | [3h0ll7](https://github.com/3h0ll7) | Hassan Salman | Iraq | 811 |
+| 13 | [specOper99](https://github.com/specOper99) | Mohammed Nawfal | Mosul, Iraq | 778 |
+| 14 | [hamagold](https://github.com/hamagold) | HamaGold | iraq/kurdistan/Erbil | 725 |
 | 15 | [haideraljawasim](https://github.com/haideraljawasim) | Haider A. Hashim | Najaf, Iraq | 719 |
 | 16 | [ZainabAlnajjar](https://github.com/ZainabAlnajjar) | Zainab Alnajjar | Basra, Iraq | 709 |
 | 17 | [haydercyber](https://github.com/haydercyber) | Haider Raed | Iraq, Baghdad | 691 |
@@ -81,6 +81,6 @@ Indexed users: 2,255
 | 17 | [ShahramShakiba](https://github.com/ShahramShakiba) | Shahram Shakiba | Erbil, Erbil Governorate, Iraq  | 234 |
 | 18 | [HassanFulaih](https://github.com/HassanFulaih) | Hassan Fulaih | Baghdad, Iraq | 212 |
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 203 |
-| 20 | [kosratdev](https://github.com/kosratdev) | Kosrat Ahmed | Erbil, Iraq | 170 |
+| 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 178 |
 
-Generated: 2026-10-07T07:04:17.504Z
+Generated: 2026-10-07T07:55:44.310Z

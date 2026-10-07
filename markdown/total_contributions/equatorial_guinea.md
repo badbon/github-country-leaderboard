@@ -1,6 +1,6 @@
 # Total Contributions - Equatorial Guinea
 
-Generated: 2026-10-07T07:00:08.483Z
+Generated: 2026-10-07T07:47:45.107Z
 
 Users: 21
 
@@ -8,10 +8,10 @@ Users: 21
 |---:|---|---|---|---|---|---:|
 | 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Deftreach |  | Equatorial Guinea | 2913 |
 | 2 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Qirah | alexisNgoyi | Guinee Equatoriale, Malabo | 319 |
-| 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | @SEGESA | aronesono | Malabo | 238 |
+| 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | @SEGESA | aronesono | Malabo | 245 |
 | 4 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Rosa Money SL |  | Malabo, Equatorial guinea | 123 |
 | 5 | [barsie](https://github.com/barsie) | Sirineo Barila  |  |  | Equatorial Guinea  | 115 |
-| 6 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Xenon.py |  | Bata, Equatorial Guinea | 96 |
+| 6 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Xenon.py |  | Bata, Equatorial Guinea | 90 |
 | 7 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | ConocoPhillips |  | Equatorial Guinea  | 28 |
 | 8 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | CFAO MOBILITY |  | MALABO- EQUATORIAL GUINEA | 27 |
 | 9 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama |  | NazzaReg | Malabo-EQ | 11 |

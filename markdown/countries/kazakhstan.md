@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,682
+Indexed users: 5,681
 
 | Leaderboard | Link |
 |---|---|
@@ -26,12 +26,12 @@ Indexed users: 5,682
 | 12 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 9,875 |
 | 13 | [neokofg](https://github.com/neokofg) | neoko | Almaty, Kazakhstan | 9,093 |
 | 14 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Kazakhstan | 8,323 |
-| 15 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Kazakhstan, Astana | 8,236 |
-| 16 | [jmelnikov](https://github.com/jmelnikov) | Yuriy Melnikov | Almaty, Kazakhstan | 7,925 |
-| 17 | [LeventySeven](https://github.com/LeventySeven) | Slava | Almaty, Kazakhstan | 7,750 |
-| 18 | [abdymazhit](https://github.com/abdymazhit) | Islam Abdymazhit | Almaty, Kazakhstan | 7,687 |
-| 19 | [kuanysh-beisembayev](https://github.com/kuanysh-beisembayev) | Kuanysh Beisembayev | Almaty, Kazakhstan | 7,654 |
-| 20 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 7,613 |
+| 15 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | Astana | 8,307 |
+| 16 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Kazakhstan, Astana | 8,236 |
+| 17 | [jmelnikov](https://github.com/jmelnikov) | Yuriy Melnikov | Almaty, Kazakhstan | 7,925 |
+| 18 | [LeventySeven](https://github.com/LeventySeven) | Slava | Almaty, Kazakhstan | 7,750 |
+| 19 | [abdymazhit](https://github.com/abdymazhit) | Islam Abdymazhit | Almaty, Kazakhstan | 7,687 |
+| 20 | [kuanysh-beisembayev](https://github.com/kuanysh-beisembayev) | Kuanysh Beisembayev | Almaty, Kazakhstan | 7,654 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,682
 | 19 | [Alex009](https://github.com/Alex009) | Aleksey Mikhailov | Astana | 378 |
 | 20 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 
-Generated: 2026-10-07T07:14:53.199Z
+Generated: 2026-10-07T07:57:39.753Z
