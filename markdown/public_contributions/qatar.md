@@ -1,8 +1,8 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-07T12:33:58.773Z
+Generated: 2026-10-07T13:32:54.337Z
 
-Users: 1077
+Users: 1075
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,11 +17,11 @@ Users: 1077
 | 9 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Al Ansari |  | Qatar | 953 |
 | 10 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Romak |  | Qatar | 925 |
 | 11 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 919 |
-| 12 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 828 |
-| 13 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag |  |  | Doha / Qatar | 792 |
-| 14 | [prajwal918](https://github.com/prajwal918) | prajwaljogi_ | https://github.com/prajwal918/ |  | qatar doha | 761 |
-| 15 | [elorm116](https://github.com/elorm116) | Anthony |  | elorm116 | Doha, Qatar | 707 |
-| 16 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed |  |  | Doha | 702 |
+| 12 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed |  |  | Doha | 884 |
+| 13 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 828 |
+| 14 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag |  |  | Doha / Qatar | 792 |
+| 15 | [prajwal918](https://github.com/prajwal918) | prajwaljogi_ | https://github.com/prajwal918/ |  | qatar doha | 761 |
+| 16 | [elorm116](https://github.com/elorm116) | Anthony |  | elorm116 | Doha, Qatar | 707 |
 | 17 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | @mzieos |  | Doha, Qatar | 682 |
 | 18 | [Asemerald](https://github.com/Asemerald) | Asemerald |  |  | Doha, Qatar | 671 |
 | 19 | [Melikash98](https://github.com/Melikash98) | Melika Shooryabi |  |  | Qatar | 669 |

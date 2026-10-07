@@ -1,6 +1,6 @@
 # Followers - Uzbekistan
 
-Generated: 2026-10-07T12:43:22.990Z
+Generated: 2026-10-07T13:36:15.373Z
 
 Users: 9513
 
@@ -9,7 +9,7 @@ Users: 9513
 | 1 | [anvarnarz](https://github.com/anvarnarz) | Anvar Narzullaev | Mohirdev |  | Tashkent | 2572 |
 | 2 | [Iqbolshoh](https://github.com/Iqbolshoh) | Iqbolshoh Ilhomjonov | Freelancer \| Full-Stack Developer |  | Uzbekistan, Samarqand city | 2299 |
 | 3 | [romankh3](https://github.com/romankh3) | Roman Beskrovnyi | UzumTech |  | Tashkent | 1669 |
-| 4 | [Zuhriddin2010](https://github.com/Zuhriddin2010) | zuhriddin | IT park |  | uzbekistan | 934 |
+| 4 | [Zuhriddin2010](https://github.com/Zuhriddin2010) | zuhriddin | IT park |  | uzbekistan | 955 |
 | 5 | [NazarovAsadbek](https://github.com/NazarovAsadbek) |  | UZUM TECHNOLOGY |  | Uzbekistan, Tashkent | 903 |
 | 6 | [the-coder-o](https://github.com/the-coder-o) | The Coder 🧑🏼‍💻 | OpenShop | portfoliocworld | Uzbekistan | 842 |
 | 7 | [AbdullohRazzoqov](https://github.com/AbdullohRazzoqov) | Abdulloh (Shohjahon) |  |  | Samarqand, Uzbekistan | 782 |

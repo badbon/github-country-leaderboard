@@ -1,12 +1,12 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-07T12:47:24.752Z
+Generated: 2026-10-07T13:40:36.865Z
 
 Users: 237
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 12685 |
+| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 21261 |
 | 2 | [kiarashplusplus](https://github.com/kiarashplusplus) | Kiarash Adl | Undisk MCP |  | Nassau Bay, Texas | 5512 |
 | 3 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3222 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3166 |
@@ -19,9 +19,9 @@ Users: 237
 | 11 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 1215 |
 | 12 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 1110 |
 | 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 1005 |
-| 14 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 802 |
-| 15 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 787 |
-| 16 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 786 |
+| 14 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 787 |
+| 15 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 786 |
+| 16 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 750 |
 | 17 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 711 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 545 |
 | 19 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 534 |

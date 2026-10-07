@@ -12,7 +12,7 @@ Indexed users: 237
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 12,685 |
+| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 21,261 |
 | 2 | [kiarashplusplus](https://github.com/kiarashplusplus) | Kiarash Adl | Nassau Bay, Texas | 5,512 |
 | 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,222 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,166 |
@@ -25,9 +25,9 @@ Indexed users: 237
 | 11 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,215 |
 | 12 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
 | 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 1,005 |
-| 14 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 802 |
-| 15 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 787 |
-| 16 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 786 |
+| 14 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 787 |
+| 15 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 786 |
+| 16 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 750 |
 | 17 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 711 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 545 |
 | 19 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 534 |
@@ -65,7 +65,7 @@ Indexed users: 237
 | 1 | [PingPaid](https://github.com/PingPaid) | PingPaid  | Nassau, Bahamas | 104 |
 | 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 98 |
 | 3 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 88 |
-| 4 | [mikkqu](https://github.com/mikkqu) | Mikhail Kalashnikov | Nassau, Bahamas | 63 |
+| 4 | [mikkqu](https://github.com/mikkqu) | Mikhail Kalashnikov | Nassau, Bahamas | 61 |
 | 5 | [btcwoot](https://github.com/btcwoot) | btcwoot | bahamas | 56 |
 | 6 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 38 |
 | 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 37 |
@@ -83,4 +83,4 @@ Indexed users: 237
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-07T12:47:24.752Z
+Generated: 2026-10-07T13:40:36.865Z

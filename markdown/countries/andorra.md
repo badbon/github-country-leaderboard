@@ -12,24 +12,24 @@ Indexed users: 214
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | Andorra la Vella | 9,916 |
+| 1 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | Andorra la Vella | 12,361 |
 | 2 | [orimarti](https://github.com/orimarti) | Oriol Martí | Andorra | 9,892 |
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi | Andorra | 9,426 |
-| 4 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 8,881 |
-| 5 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,257 |
-| 6 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 5,777 |
-| 7 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,061 |
-| 8 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 4,978 |
-| 9 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,810 |
-| 10 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 4,623 |
+| 4 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 8,823 |
+| 5 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 6,774 |
+| 6 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,257 |
+| 7 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 5,777 |
+| 8 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,061 |
+| 9 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 4,978 |
+| 10 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,810 |
 | 11 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 4,473 |
 | 12 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 4,409 |
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 3,892 |
 | 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,676 |
-| 15 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,333 |
-| 16 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
-| 17 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,760 |
-| 18 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 2,706 |
+| 15 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,396 |
+| 16 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,333 |
+| 17 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
+| 18 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,760 |
 | 19 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 2,622 |
 | 20 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Andorra | 2,499 |
 
@@ -38,7 +38,7 @@ Indexed users: 214
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 4,409 |
-| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,641 |
+| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,948 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 1,033 |
 | 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 754 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 710 |
@@ -48,22 +48,22 @@ Indexed users: 214
 | 9 | [iuriaranda](https://github.com/iuriaranda) | iuri | Andorra | 600 |
 | 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 509 |
 | 11 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 449 |
-| 12 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 449 |
-| 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 406 |
+| 12 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 406 |
+| 13 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 398 |
 | 14 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 385 |
 | 15 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 371 |
 | 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | Andorra | 298 |
 | 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Andorra | 276 |
 | 18 | [davidbalivo](https://github.com/davidbalivo) |  | Andorra | 235 |
-| 19 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 221 |
-| 20 | [loixlab](https://github.com/loixlab) | Sébastien LVL | Andorra | 191 |
+| 19 | [loixlab](https://github.com/loixlab) | Sébastien LVL | Andorra | 224 |
+| 20 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 221 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AlexAltea](https://github.com/AlexAltea) | Alexandro Sanchez Bach | Les Escaldes, Andorra | 952 |
-| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 866 |
+| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 877 |
 | 3 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Andorra | 583 |
 | 4 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 253 |
 | 5 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 156 |
@@ -81,6 +81,6 @@ Indexed users: 214
 | 17 | [delgod](https://github.com/delgod) | Mykola Marzhan | Andorra | 81 |
 | 18 | [madmongo1](https://github.com/madmongo1) | Richard Hodges | Andorra | 79 |
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
-| 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 58 |
+| 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-07T12:45:20.342Z
+Generated: 2026-10-07T13:39:21.485Z

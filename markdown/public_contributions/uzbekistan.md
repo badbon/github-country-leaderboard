@@ -1,6 +1,6 @@
 # Public Contributions - Uzbekistan
 
-Generated: 2026-10-07T12:43:22.990Z
+Generated: 2026-10-07T13:36:15.373Z
 
 Users: 9513
 
@@ -8,7 +8,7 @@ Users: 9513
 |---:|---|---|---|---|---|---:|
 | 1 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | IT Park |  | Uzbekistan | 194722 |
 | 2 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Individual Developer |  | Uzbekistan | 144754 |
-| 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Umars_Dev |  | Uzbekistan | 80448 |
+| 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Umars_Dev |  | Uzbekistan | 74895 |
 | 4 | [xcrpty7](https://github.com/xcrpty7) |  |  |  | Tashkent, Uzbekistan | 29033 |
 | 5 | [dilshodeksattarov195-arch](https://github.com/dilshodeksattarov195-arch) | DILSHODBEK | IT-PARK |  | Xonqa, Uzbekistan, Xorazm | 12554 |
 | 6 | [WIKKIwk](https://github.com/WIKKIwk) | Abdulfattox | Accord, Accord print |  | in Tashkent | 11695 |
@@ -19,8 +19,8 @@ Users: 9513
 | 11 | [Secret-Uzbek](https://github.com/Secret-Uzbek) | Secret Uzbek | Fractal Metascience Foundation |  | Tashkent, Uzbekistan | 7017 |
 | 12 | [baxtiyorjongaziyev](https://github.com/baxtiyorjongaziyev) | Baxtiyorjon Gaziyev | Jon Branding |  | Uzbekistan | 5127 |
 | 13 | [Maqsud-Samatov](https://github.com/Maqsud-Samatov) | Maqsud Samatov |  |  | Uzbekistan, Termiz | 4599 |
-| 14 | [abbosch1k](https://github.com/abbosch1k) | tasher |  |  | Uzbekistan | 3669 |
-| 15 | [sirliboyev-uz](https://github.com/sirliboyev-uz) | Umurzak Sirliboyev |  |  | Tashkent, Uzbekistan | 3518 |
+| 14 | [sirliboyev-uz](https://github.com/sirliboyev-uz) | Umurzak Sirliboyev |  |  | Tashkent, Uzbekistan | 3518 |
+| 15 | [abbosch1k](https://github.com/abbosch1k) | tasher |  |  | Uzbekistan | 3495 |
 | 16 | [husanxonminavvarov717](https://github.com/husanxonminavvarov717) | HMance | PDP school |  | Uzbekistan  | 3182 |
 | 17 | [diyor28](https://github.com/diyor28) | Diyor Khaydarov | @iota-agency |  | Uzbekistan, Tashkent | 3130 |
 | 18 | [AkobirCoder](https://github.com/AkobirCoder) | Akobir Usmonov | Tashkent University of Information Technologies  |  | Uzbekistan, Tashkent | 2985 |

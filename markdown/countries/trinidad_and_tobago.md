@@ -16,8 +16,8 @@ Indexed users: 256
 | 2 | [DarionHernandez](https://github.com/DarionHernandez) | Darion Hernandez | Trinidad and Tobago | 4,997 |
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | Trinidad and Tobago | 3,733 |
 | 4 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 3,727 |
-| 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 2,947 |
-| 6 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson | Trinidad and Tobago | 2,825 |
+| 5 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson | Trinidad and Tobago | 2,978 |
+| 6 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 2,944 |
 | 7 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 2,531 |
 | 8 | [creativenull](https://github.com/creativenull) | Arnold Chand | Trinidad and Tobago | 2,263 |
 | 9 | [devxlag](https://github.com/devxlag) | Devon Murray | Trinidad and Tobago | 2,139 |
@@ -29,7 +29,7 @@ Indexed users: 256
 | 15 | [Yhonathon-Maharaj](https://github.com/Yhonathon-Maharaj) | Yhonathon Maharaj | Trinidad and Tobago | 1,363 |
 | 16 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | Trinidad and Tobago | 1,205 |
 | 17 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid | Trinidad and Tobago | 1,067 |
-| 18 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia | Trinidad and Tobago | 1,045 |
+| 18 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia | Trinidad and Tobago | 1,052 |
 | 19 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | Trinidad and Tobago | 1,016 |
 | 20 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Trinidad and Tobago | 996 |
 
@@ -44,7 +44,7 @@ Indexed users: 256
 | 5 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid | Trinidad and Tobago | 883 |
 | 6 | [creativenull](https://github.com/creativenull) | Arnold Chand | Trinidad and Tobago | 743 |
 | 7 | [Andrews3002](https://github.com/Andrews3002) | Alexangelo Andews | Trinidad and Tobago | 658 |
-| 8 | [mungruez](https://github.com/mungruez) | Zaakir Mungrue | Trinidad and Tobago | 509 |
+| 8 | [mungruez](https://github.com/mungruez) | Zaakir Mungrue | Trinidad and Tobago | 609 |
 | 9 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | Trinidad and Tobago | 442 |
 | 10 | [JadeOfMaar](https://github.com/JadeOfMaar) | JadeOfMaar | Trinidad and Tobago | 416 |
 | 11 | [Somi-Project](https://github.com/Somi-Project) | Somi | Trinidad And Tobago | 363 |
@@ -66,10 +66,10 @@ Indexed users: 256
 | 2 | [rajeevratan84](https://github.com/rajeevratan84) | Rajeev Ratan | UK, Trinidad and Tobago | 193 |
 | 3 | [InzamamRahaman](https://github.com/InzamamRahaman) | Inzamam Rahaman | Trinidad and Tobago | 118 |
 | 4 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | Trinidad and Tobago | 98 |
-| 5 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 70 |
-| 6 | [creativenull](https://github.com/creativenull) | Arnold Chand | Trinidad and Tobago | 69 |
-| 7 | [ArmstrongSubero](https://github.com/ArmstrongSubero) | Armstrong Subero | Moruga, Trinidad and Tobago | 65 |
-| 8 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 63 |
+| 5 | [ArmstrongSubero](https://github.com/ArmstrongSubero) | Armstrong Subero | Moruga, Trinidad and Tobago | 78 |
+| 6 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 70 |
+| 7 | [creativenull](https://github.com/creativenull) | Arnold Chand | Trinidad and Tobago | 69 |
+| 8 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 62 |
 | 9 | [foohyfooh](https://github.com/foohyfooh) | Jonathan Herbert | Trinidad and Tobago | 61 |
 | 10 | [premarafael108-jpg](https://github.com/premarafael108-jpg) | Anahata.Agent | Trinidad and tobago | 57 |
 | 11 | [Snickdx](https://github.com/Snickdx) | Nicholas Mendez | Trinidad and Tobago | 51 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-07T12:41:23.979Z
+Generated: 2026-10-07T13:33:54.176Z

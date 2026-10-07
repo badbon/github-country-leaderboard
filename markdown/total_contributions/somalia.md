@@ -1,6 +1,6 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-07T12:37:09.954Z
+Generated: 2026-10-07T13:31:21.119Z
 
 Users: 865
 
@@ -22,7 +22,7 @@ Users: 865
 | 14 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3367 |
 | 15 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Jamhuriya Technology Solutions | bashkahee | Mogadishu | 3296 |
 | 16 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | NextOne | mhbaando | Mogadishu Somalia | 3233 |
-| 17 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  |  |  | Mogadishu, Somalia | 3173 |
-| 18 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 2998 |
-| 19 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | @kaabeup @Waagefaal @bulsho-development-bank |  | Somalia | 2969 |
-| 20 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | pathway solutions  | abdinajibmo | Mogadishu, Somalia  | 2914 |
+| 17 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 2998 |
+| 18 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | @kaabeup @Waagefaal @bulsho-development-bank |  | Somalia | 2969 |
+| 19 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | pathway solutions  | abdinajibmo | Mogadishu, Somalia  | 2914 |
+| 20 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  |  |  | Mogadishu, Somalia | 2895 |

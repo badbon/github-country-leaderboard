@@ -1,8 +1,8 @@
 # Total Contributions - Finland
 
-Generated: 2026-10-07T12:58:25.631Z
+Generated: 2026-10-07T13:51:35.052Z
 
-Users: 18162
+Users: 18160
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

@@ -22,8 +22,8 @@ Indexed users: 299
 | 8 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,663 |
 | 9 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 2,610 |
 | 10 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 2,567 |
-| 11 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,546 |
-| 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,371 |
+| 11 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,371 |
+| 12 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,306 |
 | 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,084 |
 | 14 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
 | 15 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,680 |
@@ -48,15 +48,15 @@ Indexed users: 299
 | 9 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir LOEMBA | R.Congo, Brazzaville | 382 |
 | 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 370 |
 | 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 363 |
-| 12 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 318 |
-| 13 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 317 |
-| 14 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 301 |
+| 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 343 |
+| 13 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 318 |
+| 14 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 259 |
 | 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 243 |
 | 16 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 207 |
 | 17 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 200 |
 | 18 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  | Brazzaville, Congo | 195 |
-| 19 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 192 |
-| 20 | [MakVieSAinte](https://github.com/MakVieSAinte) | MakVieSAinte | Congo Brazzaville | 188 |
+| 19 | [DMiyalu](https://github.com/DMiyalu) | Dieudonné Miyalu | congo | 193 |
+| 20 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 192 |
 
 ## Followers
 
@@ -70,17 +70,17 @@ Indexed users: 299
 | 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua | Brazzaville | 95 |
 | 7 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 92 |
 | 8 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 71 |
-| 9 | [sumaili-shabani](https://github.com/sumaili-shabani) | sumaili shabani roger(patrona) | Congo | 69 |
+| 9 | [sumaili-shabani](https://github.com/sumaili-shabani) | sumaili shabani roger(patrona) | Congo | 68 |
 | 10 | [btr-ss](https://github.com/btr-ss) | Marcky BITORI | Congo Brazzaville | 67 |
 | 11 | [declaudefrancois](https://github.com/declaudefrancois) | NKOUKA Guy François de Claude | Brazzaville, Republic Of CONGO | 62 |
 | 12 | [herilion](https://github.com/herilion) | Heritier Lionge | Goma, Congo | 48 |
 | 13 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Brazzaville (CONGO) | 46 |
-| 14 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda | brazzaville \ Congo | 44 |
-| 15 | [lingabo](https://github.com/lingabo) | Lingabo Junior | Congo | 44 |
+| 14 | [lingabo](https://github.com/lingabo) | Lingabo Junior | Congo | 44 |
+| 15 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda | brazzaville \ Congo | 38 |
 | 16 | [bim-g](https://github.com/bim-g) | Boss | Congo, Democratic Republic of, Goma | 37 |
 | 17 | [Cooger17](https://github.com/Cooger17) |  | Congo Brazzaville  | 33 |
 | 18 | [seleshabani](https://github.com/seleshabani) |  | Congo | 33 |
 | 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 28 |
 | 20 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 
-Generated: 2026-10-07T12:34:02.563Z
+Generated: 2026-10-07T13:23:34.735Z

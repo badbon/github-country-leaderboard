@@ -1,8 +1,8 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-07T12:39:31.463Z
+Generated: 2026-10-07T13:32:54.337Z
 
-Users: 1473
+Users: 1471
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 1473
 | 17 | [assem2023-habib](https://github.com/assem2023-habib) | Assem |  |  | Latakia, Syria | 1763 |
 | 18 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan |  |  | Syria, Damascus | 1716 |
 | 19 | [abd-shan](https://github.com/abd-shan) | Abdulkader Shanbour | Cloudtech Sky |  | Damascus,Syria | 1505 |
-| 20 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 1444 |
+| 20 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  |  |  | syria | 1481 |

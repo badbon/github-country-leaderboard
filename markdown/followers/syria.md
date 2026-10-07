@@ -1,8 +1,8 @@
 # Followers - Syria
 
-Generated: 2026-10-07T12:39:31.463Z
+Generated: 2026-10-07T13:32:54.337Z
 
-Users: 1473
+Users: 1471
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

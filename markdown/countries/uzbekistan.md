@@ -14,7 +14,7 @@ Indexed users: 9,513
 |---:|---|---|---|---:|
 | 1 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | Uzbekistan | 194,722 |
 | 2 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Uzbekistan | 159,877 |
-| 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Uzbekistan | 80,448 |
+| 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Uzbekistan | 74,895 |
 | 4 | [xcrpty7](https://github.com/xcrpty7) |  | Tashkent, Uzbekistan | 29,033 |
 | 5 | [diyor28](https://github.com/diyor28) | Diyor Khaydarov | Uzbekistan, Tashkent | 20,528 |
 | 6 | [dilshodeksattarov195-arch](https://github.com/dilshodeksattarov195-arch) | DILSHODBEK | Xonqa, Uzbekistan, Xorazm | 12,554 |
@@ -39,7 +39,7 @@ Indexed users: 9,513
 |---:|---|---|---|---:|
 | 1 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | Uzbekistan | 194,722 |
 | 2 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Uzbekistan | 144,754 |
-| 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Uzbekistan | 80,448 |
+| 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Uzbekistan | 74,895 |
 | 4 | [xcrpty7](https://github.com/xcrpty7) |  | Tashkent, Uzbekistan | 29,033 |
 | 5 | [dilshodeksattarov195-arch](https://github.com/dilshodeksattarov195-arch) | DILSHODBEK | Xonqa, Uzbekistan, Xorazm | 12,554 |
 | 6 | [WIKKIwk](https://github.com/WIKKIwk) | Abdulfattox | in Tashkent | 11,695 |
@@ -50,8 +50,8 @@ Indexed users: 9,513
 | 11 | [Secret-Uzbek](https://github.com/Secret-Uzbek) | Secret Uzbek | Tashkent, Uzbekistan | 7,017 |
 | 12 | [baxtiyorjongaziyev](https://github.com/baxtiyorjongaziyev) | Baxtiyorjon Gaziyev | Uzbekistan | 5,127 |
 | 13 | [Maqsud-Samatov](https://github.com/Maqsud-Samatov) | Maqsud Samatov | Uzbekistan, Termiz | 4,599 |
-| 14 | [abbosch1k](https://github.com/abbosch1k) | tasher | Uzbekistan | 3,669 |
-| 15 | [sirliboyev-uz](https://github.com/sirliboyev-uz) | Umurzak Sirliboyev | Tashkent, Uzbekistan | 3,518 |
+| 14 | [sirliboyev-uz](https://github.com/sirliboyev-uz) | Umurzak Sirliboyev | Tashkent, Uzbekistan | 3,518 |
+| 15 | [abbosch1k](https://github.com/abbosch1k) | tasher | Uzbekistan | 3,495 |
 | 16 | [husanxonminavvarov717](https://github.com/husanxonminavvarov717) | HMance | Uzbekistan  | 3,182 |
 | 17 | [diyor28](https://github.com/diyor28) | Diyor Khaydarov | Uzbekistan, Tashkent | 3,130 |
 | 18 | [AkobirCoder](https://github.com/AkobirCoder) | Akobir Usmonov | Uzbekistan, Tashkent | 2,985 |
@@ -65,7 +65,7 @@ Indexed users: 9,513
 | 1 | [anvarnarz](https://github.com/anvarnarz) | Anvar Narzullaev | Tashkent | 2,572 |
 | 2 | [Iqbolshoh](https://github.com/Iqbolshoh) | Iqbolshoh Ilhomjonov | Uzbekistan, Samarqand city | 2,299 |
 | 3 | [romankh3](https://github.com/romankh3) | Roman Beskrovnyi | Tashkent | 1,669 |
-| 4 | [Zuhriddin2010](https://github.com/Zuhriddin2010) | zuhriddin | uzbekistan | 934 |
+| 4 | [Zuhriddin2010](https://github.com/Zuhriddin2010) | zuhriddin | uzbekistan | 955 |
 | 5 | [NazarovAsadbek](https://github.com/NazarovAsadbek) |  | Uzbekistan, Tashkent | 903 |
 | 6 | [the-coder-o](https://github.com/the-coder-o) | The Coder 🧑🏼‍💻 | Uzbekistan | 842 |
 | 7 | [AbdullohRazzoqov](https://github.com/AbdullohRazzoqov) | Abdulloh (Shohjahon) | Samarqand, Uzbekistan | 782 |
@@ -83,4 +83,4 @@ Indexed users: 9,513
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [goldendevuz](https://github.com/goldendevuz) | Abdulmajid Yunusov | Chilonzor, Tashkent, Uzbekistan | 301 |
 
-Generated: 2026-10-07T12:43:22.990Z
+Generated: 2026-10-07T13:36:15.373Z

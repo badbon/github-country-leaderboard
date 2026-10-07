@@ -28,10 +28,10 @@ Indexed users: 865
 | 14 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | Mogadisho, Somalia | 3,367 |
 | 15 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Mogadishu | 3,296 |
 | 16 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | Mogadishu Somalia | 3,233 |
-| 17 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  | Mogadishu, Somalia | 3,173 |
-| 18 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed | mogadishu-somalia | 2,998 |
-| 19 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | Somalia | 2,969 |
-| 20 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | Mogadishu, Somalia  | 2,914 |
+| 17 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed | mogadishu-somalia | 2,998 |
+| 18 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | Somalia | 2,969 |
+| 19 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | Mogadishu, Somalia  | 2,914 |
+| 20 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  | Mogadishu, Somalia | 2,895 |
 
 ## Public Contributions
 
@@ -48,7 +48,7 @@ Indexed users: 865
 | 9 | [ibrahimmoalim](https://github.com/ibrahimmoalim) | Ibrahim | Garowe, Somalia | 760 |
 | 10 | [Joseph-Abdullaah](https://github.com/Joseph-Abdullaah) | Joseph Abdullaahi | somalia | 735 |
 | 11 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | Mogadishu, Somalia | 682 |
-| 12 | [ali-hmed](https://github.com/ali-hmed) | Ali ahmed | Mogadishu, Somalia | 640 |
+| 12 | [ali-hmed](https://github.com/ali-hmed) | Ali ahmed | Mogadishu, Somalia | 647 |
 | 13 | [karimsaabir9](https://github.com/karimsaabir9) | Sabir Salad Hassan | Mogadishu-Somalia | 596 |
 | 14 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Mogadishu Somalia | 519 |
 | 15 | [IbnuAlii](https://github.com/IbnuAlii) | Mohamed Ali Nor | Somalia | 468 |
@@ -83,4 +83,4 @@ Indexed users: 865
 | 19 | [mohamedturaab](https://github.com/mohamedturaab) | Mohamed Turaab | Mogadishu, Somalia | 92 |
 | 20 | [abdorizak](https://github.com/abdorizak) | Abdirizak Abdalla  | Mogadisho,Somalia | 91 |
 
-Generated: 2026-10-07T12:37:09.954Z
+Generated: 2026-10-07T13:31:21.119Z

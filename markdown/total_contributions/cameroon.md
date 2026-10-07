@@ -1,6 +1,6 @@
 # Total Contributions - Cameroon
 
-Generated: 2026-10-07T12:52:24.937Z
+Generated: 2026-10-07T13:45:50.735Z
 
 Users: 1807
 
@@ -24,5 +24,5 @@ Users: 1807
 | 16 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | @DorsetCompany |  | District 7 Of Yaoundé, CM | 4974 |
 | 17 | [Notho-freedom](https://github.com/Notho-freedom) | Ravel Momo | genesis company |  | Yaoundé  | 4905 |
 | 18 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | @WeTell-Africa  @JEUNESMENTORS | OkonoWilfried | Douala,Cameroon | 4773 |
-| 19 | [Shermine237](https://github.com/Shermine237) | Charlie Rostant YOSSA | EasyLife Kit |  | Douala, Cameroon | 4419 |
-| 20 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Aubigo | iamzenderock | Cameroon | 4381 |
+| 19 | [onelrian](https://github.com/onelrian) | onelrian | SkyEngPro |  | Bamenda, Cameroon | 4446 |
+| 20 | [Shermine237](https://github.com/Shermine237) | Charlie Rostant YOSSA | EasyLife Kit |  | Douala, Cameroon | 4419 |

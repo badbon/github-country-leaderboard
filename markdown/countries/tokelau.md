@@ -1,6 +1,6 @@
 # Tokelau
 
-Indexed users: 3
+Indexed users: 4
 
 | Leaderboard | Link |
 |---|---|
@@ -12,24 +12,27 @@ Indexed users: 3
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [awise-dorensbach](https://github.com/awise-dorensbach) | awise-dorensbach | Tokelau | 2 |
-| 2 | [DaczoDenes](https://github.com/DaczoDenes) |  | Tokelau | 1 |
-| 3 | [duboviy](https://github.com/duboviy) | Eugene Duboviy | Tokelau | 0 |
+| 1 | [knukima](https://github.com/knukima) | z | Fale, Fakaofo Atoll, Tokelau | 89 |
+| 2 | [awise-dorensbach](https://github.com/awise-dorensbach) | awise-dorensbach | Tokelau | 2 |
+| 3 | [DaczoDenes](https://github.com/DaczoDenes) |  | Tokelau | 1 |
+| 4 | [duboviy](https://github.com/duboviy) | Eugene Duboviy | Tokelau | 0 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [awise-dorensbach](https://github.com/awise-dorensbach) | awise-dorensbach | Tokelau | 2 |
-| 2 | [DaczoDenes](https://github.com/DaczoDenes) |  | Tokelau | 1 |
-| 3 | [duboviy](https://github.com/duboviy) | Eugene Duboviy | Tokelau | 0 |
+| 1 | [knukima](https://github.com/knukima) | z | Fale, Fakaofo Atoll, Tokelau | 89 |
+| 2 | [awise-dorensbach](https://github.com/awise-dorensbach) | awise-dorensbach | Tokelau | 2 |
+| 3 | [DaczoDenes](https://github.com/DaczoDenes) |  | Tokelau | 1 |
+| 4 | [duboviy](https://github.com/duboviy) | Eugene Duboviy | Tokelau | 0 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [duboviy](https://github.com/duboviy) | Eugene Duboviy | Tokelau | 757 |
-| 2 | [DaczoDenes](https://github.com/DaczoDenes) |  | Tokelau | 2 |
-| 3 | [awise-dorensbach](https://github.com/awise-dorensbach) | awise-dorensbach | Tokelau | 1 |
+| 2 | [knukima](https://github.com/knukima) | z | Fale, Fakaofo Atoll, Tokelau | 3 |
+| 3 | [DaczoDenes](https://github.com/DaczoDenes) |  | Tokelau | 2 |
+| 4 | [awise-dorensbach](https://github.com/awise-dorensbach) | awise-dorensbach | Tokelau | 1 |
 
-Generated: 2026-10-07T12:41:17.562Z
+Generated: 2026-10-07T13:36:03.573Z

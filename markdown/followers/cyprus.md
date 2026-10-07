@@ -1,6 +1,6 @@
 # Followers - Cyprus
 
-Generated: 2026-10-07T12:54:40.266Z
+Generated: 2026-10-07T13:48:05.941Z
 
 Users: 2746
 
@@ -21,7 +21,7 @@ Users: 2746
 | 13 | [dgutov](https://github.com/dgutov) | Dmitry Gutov |  | dgutov | Limassol, Cyprus | 352 |
 | 14 | [fedosejev](https://github.com/fedosejev) | Artemij Fedosejev |  |  | Paphos, Cyprus | 352 |
 | 15 | [GrigoriiTarasov](https://github.com/GrigoriiTarasov) |  | Exness |  | Cyprus, Limassol | 342 |
-| 16 | [unsaldemircioglu](https://github.com/unsaldemircioglu) | Ünsal Demircioğlu |  |  | Cyprus | 309 |
+| 16 | [unsaldemircioglu](https://github.com/unsaldemircioglu) | Ünsal Demircioğlu |  |  | Cyprus | 332 |
 | 17 | [merikbest](https://github.com/merikbest) | Miroslav  Khotinskiy |  |  | Cyprus | 302 |
 | 18 | [paracycle](https://github.com/paracycle) | Ufuk Kayserilioglu | @Shopify | paracycle | Nicosia, Cyprus | 294 |
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | @semrush |  | Limassol, Cyprus | 250 |

@@ -1,13 +1,13 @@
 # Followers - Andorra
 
-Generated: 2026-10-07T12:45:20.342Z
+Generated: 2026-10-07T13:39:21.485Z
 
 Users: 214
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [AlexAltea](https://github.com/AlexAltea) | Alexandro Sanchez Bach | Astral Technologies | AlexAltea | Les Escaldes, Andorra | 952 |
-| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 866 |
+| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 877 |
 | 3 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Code is law |  | Andorra | 583 |
 | 4 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 253 |
 | 5 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 156 |
@@ -25,4 +25,4 @@ Users: 214
 | 17 | [delgod](https://github.com/delgod) | Mykola Marzhan | @Canonical |  | Andorra | 81 |
 | 18 | [madmongo1](https://github.com/madmongo1) | Richard Hodges | Sierra Global Experts |  | Andorra | 79 |
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé |  |  | Andorra | 63 |
-| 20 | [castrolem](https://github.com/castrolem) | Luis Castro |  |  | Andorra la Vella, Andorra | 58 |
+| 20 | [castrolem](https://github.com/castrolem) | Luis Castro |  |  | Andorra la Vella, Andorra | 59 |

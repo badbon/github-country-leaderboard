@@ -1,6 +1,6 @@
 # Tajikistan
 
-Indexed users: 710
+Indexed users: 709
 
 | Leaderboard | Link |
 |---|---|
@@ -14,9 +14,9 @@ Indexed users: 710
 |---:|---|---|---|---:|
 | 1 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 7,256 |
 | 2 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 7,140 |
-| 3 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov | Dushanbe, Tajikistan | 5,230 |
-| 4 | [ifteakhor](https://github.com/ifteakhor) |  | Tajikistan | 4,988 |
-| 5 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 4,656 |
+| 3 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 6,163 |
+| 4 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov | Dushanbe, Tajikistan | 5,230 |
+| 5 | [ifteakhor](https://github.com/ifteakhor) |  | Tajikistan | 4,988 |
 | 6 | [OdinManiac](https://github.com/OdinManiac) | George | Tajikistan | 4,557 |
 | 7 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | Tajikistan/Dushanbe | 4,345 |
 | 8 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Tajikistan, Dushanbe | 3,717 |
@@ -65,9 +65,9 @@ Indexed users: 710
 | 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | Khujand, Tajikistan | 428 |
 | 2 | [RahimovAbdurahmon](https://github.com/RahimovAbdurahmon) |  | Tajikistan, Dushanbe | 226 |
 | 3 | [AzamBayzaev](https://github.com/AzamBayzaev) | Azam | Khujand, Tajikistan | 174 |
-| 4 | [Thexasan](https://github.com/Thexasan) | Husenov Hasan  | Tajikistan, Dushanbe | 138 |
+| 4 | [Thexasan](https://github.com/Thexasan) | Husenov Hasan  | Tajikistan, Dushanbe | 140 |
 | 5 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 127 |
-| 6 | [faridun-dev](https://github.com/faridun-dev) | Faridun Fatkhullozoda | Dushanbe, Tajikistan | 105 |
+| 6 | [faridun-dev](https://github.com/faridun-dev) | Faridun Fatkhullozoda | Dushanbe, Tajikistan | 111 |
 | 7 | [Abubakr7](https://github.com/Abubakr7) | Abubakr Juraev | Dushanbe Tajikistan | 99 |
 | 8 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | Dushanbe, Tajikistan | 85 |
 | 9 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Tajikistan Dushanbe | 80 |
@@ -83,4 +83,4 @@ Indexed users: 710
 | 19 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 46 |
 
-Generated: 2026-10-07T12:39:37.593Z
+Generated: 2026-10-07T13:33:01.919Z

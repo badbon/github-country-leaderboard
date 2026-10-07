@@ -1,6 +1,6 @@
 # Public Contributions - Burkina Faso
 
-Generated: 2026-10-07T12:52:12.200Z
+Generated: 2026-10-07T13:44:38.605Z
 
 Users: 484
 
@@ -25,4 +25,4 @@ Users: 484
 | 17 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Alternatives -IT |  | Burkina Faso | 482 |
 | 18 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO |  |  | Burkina Faso | 482 |
 | 19 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE |  | zangafigue | Koudougou, Burkina Faso | 439 |
-| 20 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | ODG Enterprise |  | Ouagadougou, Burkina Faso | 395 |
+| 20 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  |  | NiceDEVbf | Burkina Faso | 368 |

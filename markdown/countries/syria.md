@@ -1,6 +1,6 @@
 # Syria
 
-Indexed users: 1,473
+Indexed users: 1,471
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 1,473
 | 17 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,763 |
 | 18 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,716 |
 | 19 | [abd-shan](https://github.com/abd-shan) | Abdulkader Shanbour | Damascus,Syria | 1,505 |
-| 20 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 1,444 |
+| 20 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,481 |
 
 ## Public Contributions
 
@@ -43,7 +43,7 @@ Indexed users: 1,473
 | 4 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 1,807 |
 | 5 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,763 |
 | 6 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,716 |
-| 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,361 |
+| 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,481 |
 | 8 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,246 |
 | 9 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,149 |
 | 10 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 1,046 |
@@ -83,4 +83,4 @@ Indexed users: 1,473
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 101 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-07T12:39:31.463Z
+Generated: 2026-10-07T13:32:54.337Z

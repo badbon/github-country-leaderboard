@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,509
+Indexed users: 2,508
 
 | Leaderboard | Link |
 |---|---|
@@ -40,8 +40,8 @@ Indexed users: 2,509
 | 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 31,686 |
 | 2 | [Kamuku](https://github.com/Kamuku) | Avelino Rufino | Luanda, Angola | 2,760 |
 | 3 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
-| 4 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  Luanda, Angola 🇦🇴 | 2,056 |
-| 5 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 1,978 |
+| 4 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,104 |
+| 5 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  Luanda, Angola 🇦🇴 | 2,056 |
 | 6 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,942 |
 | 7 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | Luanda | 1,899 |
 | 8 | [angelo-francisco](https://github.com/angelo-francisco) | Ângelo Francisco | Luanda, Angola | 1,627 |
@@ -83,4 +83,4 @@ Indexed users: 2,509
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-07T12:45:30.726Z
+Generated: 2026-10-07T13:39:47.480Z

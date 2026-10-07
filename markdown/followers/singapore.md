@@ -1,8 +1,8 @@
 # Followers - Singapore
 
-Generated: 2026-10-07T12:36:24.060Z
+Generated: 2026-10-07T13:31:01.697Z
 
-Users: 24666
+Users: 24663
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

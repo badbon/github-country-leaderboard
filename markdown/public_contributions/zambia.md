@@ -1,6 +1,6 @@
 # Public Contributions - Zambia
 
-Generated: 2026-10-07T12:44:07.252Z
+Generated: 2026-10-07T13:38:10.681Z
 
 Users: 1344
 
@@ -14,15 +14,15 @@ Users: 1344
 | 6 | [bsam2019](https://github.com/bsam2019) | Samson Banda | Creative Touch Graphics |  | Lusaka. Zambia | 1179 |
 | 7 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa |  |  | Zambia | 1148 |
 | 8 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Full Stack Developer  | MumbaSonick | Lusaka, Zambia | 1062 |
-| 9 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | SAT Limited |  | Zambia | 1010 |
-| 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Not Employed |  | Zambia | 951 |
-| 11 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu |  |  | Lusaka | 896 |
-| 12 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LISOTECH INNOVATIONS |  | LUSAKA ZAMBIA | 874 |
-| 13 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba |  |  | Kitwe, Zambia | 858 |
-| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 657 |
-| 15 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 649 |
-| 16 | [paritybits](https://github.com/paritybits) | Parity Chizela | @palnet-solutions  | mrbits64 | Zambia | 638 |
-| 17 | [chandachewe10](https://github.com/chandachewe10) | Chanda Chewe | BACK-END DEVELOPER | Chanda84245125 | Zambia | 628 |
-| 18 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 598 |
-| 19 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | OpenEarth Foundation |  | Zambia | 556 |
-| 20 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Covian hive technologies  |  | Zambia  | 555 |
+| 9 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LISOTECH INNOVATIONS |  | LUSAKA ZAMBIA | 1054 |
+| 10 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | SAT Limited |  | Zambia | 1010 |
+| 11 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Not Employed |  | Zambia | 951 |
+| 12 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu |  |  | Lusaka | 896 |
+| 13 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 657 |
+| 14 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 649 |
+| 15 | [paritybits](https://github.com/paritybits) | Parity Chizela | @palnet-solutions  | mrbits64 | Zambia | 638 |
+| 16 | [chandachewe10](https://github.com/chandachewe10) | Chanda Chewe | BACK-END DEVELOPER | Chanda84245125 | Zambia | 628 |
+| 17 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 598 |
+| 18 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | OpenEarth Foundation |  | Zambia | 556 |
+| 19 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Covian hive technologies  |  | Zambia  | 555 |
+| 20 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba |  |  | Kitwe, Zambia | 528 |

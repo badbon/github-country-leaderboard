@@ -29,9 +29,9 @@ Indexed users: 4,899
 | 15 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
 | 16 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
 | 17 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 5,412 |
-| 18 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete | Quito, Ecuador | 5,051 |
-| 19 | [chey3002](https://github.com/chey3002) | Carlos Valladarez | Ecuador | 5,036 |
-| 20 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 4,983 |
+| 18 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
+| 19 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete | Quito, Ecuador | 5,051 |
+| 20 | [chey3002](https://github.com/chey3002) | Carlos Valladarez | Ecuador | 5,036 |
 
 ## Public Contributions
 
@@ -42,9 +42,9 @@ Indexed users: 4,899
 | 3 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes | Guayaquil, Ecuador | 9,477 |
 | 4 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 6,973 |
 | 5 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 6,951 |
-| 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 4,462 |
-| 7 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | Quito, Ecuador | 3,730 |
-| 8 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 3,392 |
+| 6 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
+| 7 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 4,462 |
+| 8 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | Quito, Ecuador | 3,730 |
 | 9 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Quito, Ecuador | 3,341 |
 | 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | Quito, Ecuador | 2,443 |
 | 11 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia | Ecuador | 2,318 |
@@ -83,4 +83,4 @@ Indexed users: 4,899
 | 19 | [LChumi](https://github.com/LChumi) | LChumi | Ecuador | 116 |
 | 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-10-07T12:56:14.363Z
+Generated: 2026-10-07T13:49:08.288Z

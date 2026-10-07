@@ -22,13 +22,13 @@ Indexed users: 534
 | 8 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 1,999 |
 | 9 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 1,982 |
 | 10 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,798 |
-| 11 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,652 |
-| 12 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,630 |
-| 13 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 1,617 |
-| 14 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 1,541 |
-| 15 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,452 |
-| 16 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 1,430 |
-| 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,324 |
+| 11 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,718 |
+| 12 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,652 |
+| 13 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,630 |
+| 14 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 1,617 |
+| 15 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 1,541 |
+| 16 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,452 |
+| 17 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 1,430 |
 | 18 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,323 |
 | 19 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 1,298 |
 | 20 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 1,229 |
@@ -54,9 +54,9 @@ Indexed users: 534
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | Gaborone, Botswana | 430 |
 | 16 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 378 |
 | 17 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 372 |
-| 18 | [TheoMKgosi](https://github.com/TheoMKgosi) |  | Botswana | 368 |
-| 19 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 348 |
-| 20 | [tmotswagole](https://github.com/tmotswagole) | Thabiso Motswagole | Gaborone | 328 |
+| 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 348 |
+| 19 | [tmotswagole](https://github.com/tmotswagole) | Thabiso Motswagole | Gaborone | 328 |
+| 20 | [DippsDev](https://github.com/DippsDev) | DippsDev | Botswana | 327 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 534
 | 19 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 33 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 32 |
 
-Generated: 2026-10-07T12:51:09.133Z
+Generated: 2026-10-07T13:42:49.446Z

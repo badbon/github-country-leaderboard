@@ -1,6 +1,6 @@
 # Followers - Trinidad and Tobago
 
-Generated: 2026-10-07T12:41:23.979Z
+Generated: 2026-10-07T13:33:54.176Z
 
 Users: 256
 
@@ -10,10 +10,10 @@ Users: 256
 | 2 | [rajeevratan84](https://github.com/rajeevratan84) | Rajeev Ratan | Darvis Inc, TTLab, Udemy, Packt,  Manning Publications |  | UK, Trinidad and Tobago | 193 |
 | 3 | [InzamamRahaman](https://github.com/InzamamRahaman) | Inzamam Rahaman | The University of the West Indies / Trinidad and Tobago Network Information Centre |  | Trinidad and Tobago | 118 |
 | 4 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | @CoplayDev  | marcussanatan | Trinidad and Tobago | 98 |
-| 5 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 70 |
-| 6 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 69 |
-| 7 | [ArmstrongSubero](https://github.com/ArmstrongSubero) | Armstrong Subero | Trinirobotics |  | Moruga, Trinidad and Tobago | 65 |
-| 8 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 63 |
+| 5 | [ArmstrongSubero](https://github.com/ArmstrongSubero) | Armstrong Subero | Trinirobotics |  | Moruga, Trinidad and Tobago | 78 |
+| 6 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 70 |
+| 7 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 69 |
+| 8 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 62 |
 | 9 | [foohyfooh](https://github.com/foohyfooh) | Jonathan Herbert |  |  | Trinidad and Tobago | 61 |
 | 10 | [premarafael108-jpg](https://github.com/premarafael108-jpg) | Anahata.Agent | Anahata | AnahataASI | Trinidad and tobago | 57 |
 | 11 | [Snickdx](https://github.com/Snickdx) | Nicholas Mendez | @uwidcit @gdgpos | snickdx | Trinidad and Tobago | 51 |

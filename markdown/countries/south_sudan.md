@@ -53,7 +53,7 @@ Indexed users: 133
 | 14 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 | 15 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
 | 16 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 262 |
-| 17 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 260 |
+| 17 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 261 |
 | 18 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 217 |
 | 19 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 215 |
 | 20 | [Ibrahim-Lbib](https://github.com/Ibrahim-Lbib) | Ibrahim Labib | Juba, South - Sudan | 178 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-07T12:37:48.986Z
+Generated: 2026-10-07T13:31:58.940Z

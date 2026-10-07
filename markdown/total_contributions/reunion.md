@@ -1,16 +1,16 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-07T12:34:06.450Z
+Generated: 2026-10-07T13:23:39.664Z
 
-Users: 211
+Users: 210
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 6609 |
 | 2 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | DigiKaizen |  | Saint-Denis | 6462 |
 | 3 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet |  | fabricepayetfr | Reunion Island | 6382 |
-| 4 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3498 |
-| 5 | [saiht](https://github.com/saiht) | Saiht |  |  | Reunion Island | 3202 |
+| 4 | [saiht](https://github.com/saiht) | Saiht |  |  | Reunion Island | 3770 |
+| 5 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3498 |
 | 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2771 |
 | 7 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 2413 |
 | 8 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 2238 |
@@ -20,7 +20,7 @@ Users: 211
 | 12 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 1946 |
 | 13 | [John361](https://github.com/John361) | John |  |  | Réunion | 1860 |
 | 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1804 |
-| 15 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1514 |
+| 15 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1739 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1496 |
 | 17 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1384 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 1320 |

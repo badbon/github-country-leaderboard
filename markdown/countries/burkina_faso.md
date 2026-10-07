@@ -20,7 +20,7 @@ Indexed users: 484
 | 6 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 3,919 |
 | 7 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 3,686 |
 | 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,646 |
-| 9 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | Ouagadougou, Burkina Faso | 2,605 |
+| 9 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | Ouagadougou, Burkina Faso | 2,713 |
 | 10 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 2,506 |
 | 11 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 2,263 |
 | 12 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Burkina Faso | 1,684 |
@@ -56,7 +56,7 @@ Indexed users: 484
 | 17 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 482 |
 | 18 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO | Burkina Faso | 482 |
 | 19 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 439 |
-| 20 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | Ouagadougou, Burkina Faso | 395 |
+| 20 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 368 |
 
 ## Followers
 
@@ -64,7 +64,7 @@ Indexed users: 484
 |---:|---|---|---|---:|
 | 1 | [Yonaba](https://github.com/Yonaba) | Roland | Ouagadougou (Burkina Faso) | 377 |
 | 2 | [Will-create](https://github.com/Will-create) | Louis Bertson | Burkina Faso | 169 |
-| 3 | [Heathclifffs](https://github.com/Heathclifffs) | Yipene Harold  BASSOLE | BURKINA FASO | 165 |
+| 3 | [Heathclifffs](https://github.com/Heathclifffs) | Yipene Harold  BASSOLE | BURKINA FASO | 158 |
 | 4 | [codebadolo](https://github.com/codebadolo) | Badolo Geofroy | Burkina Faso | 122 |
 | 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 121 |
 | 6 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 112 |
@@ -83,4 +83,4 @@ Indexed users: 484
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN | BURKINAFASO/OUAGADOUGOU | 37 |
 
-Generated: 2026-10-07T12:52:12.200Z
+Generated: 2026-10-07T13:44:38.605Z

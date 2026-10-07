@@ -1,6 +1,6 @@
 # Total Contributions - Ecuador
 
-Generated: 2026-10-07T12:56:14.363Z
+Generated: 2026-10-07T13:49:08.288Z
 
 Users: 4899
 
@@ -23,6 +23,6 @@ Users: 4899
 | 15 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Jiban Advanced Systems |  | Ecuador | 6081 |
 | 16 | [astandre](https://github.com/astandre) | André Herrera | CondorSoft |  | Loja, Ecuador | 5601 |
 | 17 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza |  |  | Guayaquil, Ecuador | 5412 |
-| 18 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete |  |  | Quito, Ecuador | 5051 |
-| 19 | [chey3002](https://github.com/chey3002) | Carlos Valladarez |  | Sr_Chey | Ecuador | 5036 |
-| 20 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler |  |  | Guayaquil, Ecuador | 4983 |
+| 18 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Somatech  |  | Quito | 5138 |
+| 19 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete |  |  | Quito, Ecuador | 5051 |
+| 20 | [chey3002](https://github.com/chey3002) | Carlos Valladarez |  | Sr_Chey | Ecuador | 5036 |

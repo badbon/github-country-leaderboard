@@ -1,6 +1,6 @@
 # Jamaica
 
-Indexed users: 1,286
+Indexed users: 1,285
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,286
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 
-Generated: 2026-10-07T13:03:44.778Z
+Generated: 2026-10-07T13:32:13.676Z

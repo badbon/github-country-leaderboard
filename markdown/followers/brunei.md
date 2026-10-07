@@ -1,8 +1,8 @@
 # Followers - Brunei
 
-Generated: 2026-10-07T12:51:54.024Z
+Generated: 2026-10-07T13:43:40.363Z
 
-Users: 256
+Users: 255
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,11 +17,11 @@ Users: 256
 | 9 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman |  |  | Brunei Darussalam | 25 |
 | 10 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 23 |
 | 11 | [sk8teroy](https://github.com/sk8teroy) |  |  |  | Brunei | 22 |
-| 12 | [nz-is](https://github.com/nz-is) | Nazrul Ismail | Universiti Brunei Darussalam |  | Brunei Darussalam | 21 |
-| 13 | [BenitzCoding](https://github.com/BenitzCoding) | BenitzCoding | @Senarc-Studios | BenitzCoding | Brunei | 20 |
+| 12 | [BenitzCoding](https://github.com/BenitzCoding) | BenitzCoding | @Senarc-Studios | BenitzCoding | Brunei | 20 |
+| 13 | [nz-is](https://github.com/nz-is) | Nazrul Ismail | Universiti Brunei Darussalam |  | Brunei Darussalam | 20 |
 | 14 | [lordsayur](https://github.com/lordsayur) | Omar | Datastream Digital |  | Brunei | 18 |
 | 15 | [acyein](https://github.com/acyein) | Yein |  |  | Brunei | 17 |
-| 16 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 17 |
+| 16 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 16 |
 | 17 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 15 |
 | 18 | [snek5](https://github.com/snek5) | Azim Anuar |  |  | Brunei | 15 |
 | 19 | [bahit](https://github.com/bahit) | Bahit Hamid | Bahit Designs |  | Brunei | 14 |

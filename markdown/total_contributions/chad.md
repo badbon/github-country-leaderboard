@@ -1,6 +1,6 @@
 # Total Contributions - Chad
 
-Generated: 2026-10-07T12:53:06.130Z
+Generated: 2026-10-07T13:46:07.396Z
 
 Users: 200
 
@@ -8,8 +8,8 @@ Users: 200
 |---:|---|---|---|---|---|---:|
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Ashesi University | emmanueladoum | Chad | 3012 |
 | 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 2425 |
-| 3 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 644 |
-| 4 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | ACREMAC \| Informastre | baa_pel | TCHAD | 546 |
+| 3 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | ACREMAC \| Informastre | baa_pel | TCHAD | 678 |
+| 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 644 |
 | 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TchadiCash | MahamatCherifI4 | TCHAD | 506 |
 | 6 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tikego |  | Tchad | 243 |
 | 7 | [mittb1g](https://github.com/mittb1g) |  |  |  | Chad | 233 |
@@ -19,8 +19,8 @@ Users: 200
 | 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 162 |
 | 12 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 155 |
 | 13 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 135 |
-| 14 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | AbboTech |  | N'djamena | 126 |
-| 15 | [Mbaigo](https://github.com/Mbaigo) | Evrard | THTC |  | N'Djamena | 126 |
+| 14 | [Mbaigo](https://github.com/Mbaigo) | Evrard | THTC |  | N'Djamena | 127 |
+| 15 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | AbboTech |  | N'djamena | 126 |
 | 16 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC |  |  | Tchad | 103 |
 | 17 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | INSTA |  | Tchad | 95 |
 | 18 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 88 |

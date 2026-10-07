@@ -1,6 +1,6 @@
 # Public Contributions - DR Congo
 
-Generated: 2026-10-07T12:56:11.615Z
+Generated: 2026-10-07T13:49:04.665Z
 
 Users: 702
 
@@ -12,12 +12,12 @@ Users: 702
 | 4 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice |  |  | Kinshasa | 2922 |
 | 5 | [vickbk](https://github.com/vickbk) | Victoire Bake |  | Vick_bk8 | Goma, DR Congo | 2769 |
 | 6 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa |  |  | kinshasa DRC | 1359 |
-| 7 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinmarchae |  | Kinshasa | 1255 |
-| 8 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki |  | drewlionel | Kinshasa, Drc | 1201 |
-| 9 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Fordima Inc. | mlndafordi | Kinshasa, DRC | 1172 |
-| 10 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI |  |  | Kinshasa, Democratic Republic of the Congo | 1082 |
-| 11 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | GOBLAIRE LTD  |  | Kinshasa | 1057 |
-| 12 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | McBuleli | McBuleli | Kinshasa, DR Congo | 1015 |
+| 7 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | McBuleli | McBuleli | Kinshasa, DR Congo | 1347 |
+| 8 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinmarchae |  | Kinshasa | 1255 |
+| 9 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki |  | drewlionel | Kinshasa, Drc | 1201 |
+| 10 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Fordima Inc. | mlndafordi | Kinshasa, DRC | 1172 |
+| 11 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI |  |  | Kinshasa, Democratic Republic of the Congo | 1082 |
+| 12 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | GOBLAIRE LTD  |  | Kinshasa | 1057 |
 | 13 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | Kin Distribution |  | DRC, Kinshasa | 933 |
 | 14 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) |  |  | KINSHASA / RD CONGO | 839 |
 | 15 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | ISIG Goma / DRC | josamuna | Democratic Republic of the Congo | 802 |

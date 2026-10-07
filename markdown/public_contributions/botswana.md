@@ -1,6 +1,6 @@
 # Public Contributions - Botswana
 
-Generated: 2026-10-07T12:51:09.133Z
+Generated: 2026-10-07T13:42:49.446Z
 
 Users: 534
 
@@ -23,6 +23,6 @@ Users: 534
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | University of Botswana | justindotdev | Gaborone, Botswana | 430 |
 | 16 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Student at University of Botswana  | boitsholo_r | Gaborone, Botswana | 378 |
 | 17 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 372 |
-| 18 | [TheoMKgosi](https://github.com/TheoMKgosi) |  |  |  | Botswana | 368 |
-| 19 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 348 |
-| 20 | [tmotswagole](https://github.com/tmotswagole) | Thabiso Motswagole | Jurifica | thabiso_mots | Gaborone | 328 |
+| 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 348 |
+| 19 | [tmotswagole](https://github.com/tmotswagole) | Thabiso Motswagole | Jurifica | thabiso_mots | Gaborone | 328 |
+| 20 | [DippsDev](https://github.com/DippsDev) | DippsDev | SKYF |  | Botswana | 327 |

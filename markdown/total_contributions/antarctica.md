@@ -1,8 +1,8 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-07T12:45:41.594Z
+Generated: 2026-10-07T13:39:55.137Z
 
-Users: 468
+Users: 467
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,13 +10,13 @@ Users: 468
 | 2 | [adwait1290](https://github.com/adwait1290) | Adwait Athale |  |  | Antarctica | 6094 |
 | 3 | [phanijsp](https://github.com/phanijsp) |  |  |  | Antarctica | 6033 |
 | 4 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | FutureForte | shreeshivpatel | Antarctica | 4886 |
-| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park |  |  | Deception Island, Antarctica | 4699 |
-| 6 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4413 |
-| 7 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Weyland-Yutani Corp. |  | Antarctica | 4216 |
-| 8 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti |  |  | antarctica | 3940 |
-| 9 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 3853 |
-| 10 | [cutetux](https://github.com/cutetux) | CuteTux |  |  | Antarctica ;) | 3840 |
-| 11 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 3790 |
+| 5 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 4757 |
+| 6 | [jeongho](https://github.com/jeongho) | Jeongho Park |  |  | Deception Island, Antarctica | 4699 |
+| 7 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4413 |
+| 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Weyland-Yutani Corp. |  | Antarctica | 4216 |
+| 9 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti |  |  | antarctica | 3940 |
+| 10 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 3853 |
+| 11 | [cutetux](https://github.com/cutetux) | CuteTux |  |  | Antarctica ;) | 3840 |
 | 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | AsciiNomads |  | Antarctica | 3225 |
 | 13 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 2827 |
 | 14 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 2621 |

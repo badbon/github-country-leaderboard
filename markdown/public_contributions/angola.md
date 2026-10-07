@@ -1,16 +1,16 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-07T12:45:30.726Z
+Generated: 2026-10-07T13:39:47.480Z
 
-Users: 2509
+Users: 2508
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [runtechx](https://github.com/runtechx) | RunTech |  |  | Angola | 31686 |
 | 2 | [Kamuku](https://github.com/Kamuku) | Avelino Rufino |  |  | Luanda, Angola | 2760 |
 | 3 | [skillmio](https://github.com/skillmio) | Skillmio |  |  | Angola | 2160 |
-| 4 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  | alberto_rj_dev |  Luanda, Angola 🇦🇴 | 2056 |
-| 5 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | GASOtec Corporation  |  | Angola 🇦🇴 | 1978 |
+| 4 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | GASOtec Corporation  |  | Angola 🇦🇴 | 2104 |
+| 5 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  | alberto_rj_dev |  Luanda, Angola 🇦🇴 | 2056 |
 | 6 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 1942 |
 | 7 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | @42Luanda |  | Luanda | 1899 |
 | 8 | [angelo-francisco](https://github.com/angelo-francisco) | Ângelo Francisco |  |  | Luanda, Angola | 1627 |

@@ -1,6 +1,6 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-07T12:56:14.363Z
+Generated: 2026-10-07T13:49:08.288Z
 
 Users: 4899
 
@@ -11,9 +11,9 @@ Users: 4899
 | 3 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes |  | yeyodev | Guayaquil, Ecuador | 9477 |
 | 4 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela |  |  | Quito | 6973 |
 | 5 | [danny270793](https://github.com/danny270793) | Danny Vaca | Technisys | danny270793 | Ecuador | 6951 |
-| 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | ULEAM |  | Ecuador, Manabi, Manta | 4462 |
-| 7 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | @nyaruka |  | Quito, Ecuador | 3730 |
-| 8 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Somatech  |  | Quito | 3392 |
+| 6 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Somatech  |  | Quito | 5138 |
+| 7 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | ULEAM |  | Ecuador, Manabi, Manta | 4462 |
+| 8 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | @nyaruka |  | Quito, Ecuador | 3730 |
 | 9 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Universidad de las Fuerzas Armadas "ESPE" |  | Quito, Ecuador | 3341 |
 | 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | AlcbSystems | alcb1310 | Quito, Ecuador | 2443 |
 | 11 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia |  |  | Ecuador | 2318 |

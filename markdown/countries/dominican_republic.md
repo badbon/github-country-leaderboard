@@ -41,7 +41,7 @@ Indexed users: 3,306
 | 2 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,476 |
 | 3 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 5,369 |
 | 4 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 3,848 |
-| 5 | [Portegaperalta](https://github.com/Portegaperalta) | pablortega | Santo Domingo, Dominican Republic | 3,638 |
+| 5 | [Portegaperalta](https://github.com/Portegaperalta) | pablortega | Santo Domingo, Dominican Republic | 3,159 |
 | 6 | [ubercylon8](https://github.com/ubercylon8) | James Pichardo | Dominican Republic | 3,034 |
 | 7 | [FredPeal](https://github.com/FredPeal) | Frederick Peñalo | Dominican Republic | 2,053 |
 | 8 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera | Santiago, Dominican Republic | 1,786 |
@@ -83,4 +83,4 @@ Indexed users: 3,306
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-07T12:55:58.710Z
+Generated: 2026-10-07T13:49:00.642Z

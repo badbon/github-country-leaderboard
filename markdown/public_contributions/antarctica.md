@@ -1,13 +1,13 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-07T12:45:41.594Z
+Generated: 2026-10-07T13:39:55.137Z
 
-Users: 468
+Users: 467
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4010 |
-| 2 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 3014 |
+| 2 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 3489 |
 | 3 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 2790 |
 | 4 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 1953 |
 | 5 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 1786 |

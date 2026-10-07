@@ -1,18 +1,18 @@
 # Public Contributions - Réunion
 
-Generated: 2026-10-07T12:34:06.450Z
+Generated: 2026-10-07T13:23:39.664Z
 
-Users: 211
+Users: 210
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 1879 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1496 |
-| 3 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 1110 |
-| 4 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Red Hat, Inc. | elmarco | Réunion | 1015 |
+| 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Red Hat, Inc. | elmarco | Réunion | 1148 |
+| 4 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 1110 |
 | 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 865 |
-| 6 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 705 |
-| 7 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 515 |
+| 6 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 716 |
+| 7 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 705 |
 | 8 | [Karl97490](https://github.com/Karl97490) | Karl Pery-Potonie |  |  | Réunion | 486 |
 | 9 | [John361](https://github.com/John361) | John |  |  | Réunion | 342 |
 | 10 | [W-D0n](https://github.com/W-D0n) | D0n |  |  | Reunion Island | 335 |
@@ -22,7 +22,7 @@ Users: 211
 | 14 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault |  |  | Réunion island  | 280 |
 | 15 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  |  |  93210, Saint-Denis | 276 |
 | 16 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL |  |  | Reunion Island | 267 |
-| 17 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | EPITECH |  | Reunion Island | 185 |
-| 18 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 175 |
+| 17 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 239 |
+| 18 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | EPITECH |  | Reunion Island | 185 |
 | 19 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch |  |  | Reunion Island | 169 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 162 |

@@ -55,7 +55,7 @@ Indexed users: 564
 | 16 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 240 |
 | 17 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo | Praia Grande - SP | 240 |
 | 18 | [thisisleobro](https://github.com/thisisleobro) | Leo Carvalho | Cape Verde | 210 |
-| 19 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 185 |
+| 19 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 186 |
 | 20 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 182 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 564
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 53 |
 
-Generated: 2026-10-07T12:52:32.145Z
+Generated: 2026-10-07T13:45:55.588Z

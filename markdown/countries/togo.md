@@ -1,6 +1,6 @@
 # Togo
 
-Indexed users: 688
+Indexed users: 687
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 688
 | 19 | [Harlequelrah](https://github.com/Harlequelrah) | DEGBOVI Maxime Atsou | Lomé-TOGO | 68 |
 | 20 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 
-Generated: 2026-10-07T12:40:15.773Z
+Generated: 2026-10-07T13:33:44.951Z

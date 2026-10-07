@@ -18,12 +18,12 @@ Indexed users: 1,657
 | 4 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 7,290 |
 | 5 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo | Harare | 7,217 |
 | 6 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 7,148 |
-| 7 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 7,085 |
-| 8 | [Mutombe](https://github.com/Mutombe) | Mutombe | Waterfalls Harare | 6,959 |
-| 9 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 6,719 |
-| 10 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 6,553 |
-| 11 | [CyprianTinasheAarons](https://github.com/CyprianTinasheAarons) | Cyprian Tinashe Aarons | Zimbabwe | 6,525 |
-| 12 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 6,493 |
+| 7 | [Mutombe](https://github.com/Mutombe) | Mutombe | Waterfalls Harare | 6,959 |
+| 8 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 6,719 |
+| 9 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 6,553 |
+| 10 | [CyprianTinasheAarons](https://github.com/CyprianTinasheAarons) | Cyprian Tinashe Aarons | Zimbabwe | 6,525 |
+| 11 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 6,493 |
+| 12 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,468 |
 | 13 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | Zimbabwe | 6,092 |
 | 14 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,832 |
 | 15 | [phoscoder](https://github.com/phoscoder) | Victor Phos | Zimbabwe | 5,484 |
@@ -39,7 +39,7 @@ Indexed users: 1,657
 |---:|---|---|---|---:|
 | 1 | [mhodieknowledge](https://github.com/mhodieknowledge) | Knowledge Mhodi | Bulawayo, Zimbabwe | 14,818 |
 | 2 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 7,148 |
-| 3 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 7,085 |
+| 3 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,468 |
 | 4 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 4,230 |
 | 5 | [Mutombe](https://github.com/Mutombe) | Mutombe | Waterfalls Harare | 4,209 |
 | 6 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 3,589 |
@@ -83,4 +83,4 @@ Indexed users: 1,657
 | 19 | [kaysiz](https://github.com/kaysiz) | kudakwashe siziva | Zimbabwe | 122 |
 | 20 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 113 |
 
-Generated: 2026-10-07T12:44:12.018Z
+Generated: 2026-10-07T13:38:18.482Z
