@@ -295,7 +295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 27,
+    "privateContributions": 33,
     "publicContributions": 7,
     "createdAt": "2026-03-01T13:13:04Z"
   },
@@ -314,11 +314,11 @@
   {
     "login": "DidkoPraseto",
     "name": "DidkoPraseto",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278685216?s=72&u=d79eae558b9f71cbbf29beb22563b1b8489b62f0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278685216?s=72&u=0841995893ded60b28497edf1c360cf9f53b5488&v=4",
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-04-23T12:10:13Z"
@@ -390,7 +390,7 @@
     "location": "Veliko Tarnovo, Bulgaria",
     "company": "",
     "twitterUsername": "IvoUIflip",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2026-02-17T21:55:49Z"
@@ -428,20 +428,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2026-01-24T07:44:21Z"
-  },
-  {
-    "login": "t1ssec",
-    "name": "tissec",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257934535?s=72&u=37e93782f6dc529099cc9bc29282fbea368e632e&v=4",
-    "location": "Bulgaria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 23,
-    "createdAt": "2026-01-29T06:03:30Z"
   },
   {
     "login": "N0k1DV",

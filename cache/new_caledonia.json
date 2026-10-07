@@ -8,7 +8,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 108,
     "createdAt": "2026-03-10T05:16:04Z"
   },
   {
@@ -31,8 +31,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 50,
-    "publicContributions": 106,
+    "privateContributions": 41,
+    "publicContributions": 44,
     "createdAt": "2025-07-08T08:20:52Z"
   },
   {
@@ -44,7 +44,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 157,
     "createdAt": "2025-01-09T06:22:50Z"
   },
   {
@@ -66,9 +66,9 @@
     "location": "Nouméa - Nouvelle-Calédonie",
     "company": "HNC",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 13,
+    "followers": 6,
+    "privateContributions": 10,
+    "publicContributions": 16,
     "createdAt": "2025-02-07T06:24:51Z"
   },
   {
@@ -78,9 +78,9 @@
     "location": "New Caledonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 213,
     "createdAt": "2024-07-19T08:18:41Z"
   },
   {
@@ -90,9 +90,9 @@
     "location": "New Caledonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 88,
     "createdAt": "2024-09-13T04:10:07Z"
   },
   {
@@ -103,8 +103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 32,
-    "publicContributions": 20,
+    "privateContributions": 4,
+    "publicContributions": 15,
     "createdAt": "2024-11-18T00:18:35Z"
   },
   {
@@ -114,7 +114,7 @@
     "location": "Nouméa, New Caledonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-08-11T05:38:40Z"
@@ -128,20 +128,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 59,
     "createdAt": "2024-07-04T05:14:31Z"
-  },
-  {
-    "login": "torik988",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136936205?s=72&u=c980e80aea9213f390a181db01f6348fe1254c41&v=4",
-    "location": "New Caledonia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 190,
-    "publicContributions": 22,
-    "createdAt": "2023-06-17T22:38:30Z"
   },
   {
     "login": "TooFuW",
@@ -151,8 +139,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 618,
-    "publicContributions": 232,
+    "privateContributions": 1127,
+    "publicContributions": 215,
     "createdAt": "2023-06-26T21:29:11Z"
   },
   {
@@ -164,7 +152,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2023-10-24T22:37:44Z"
   },
   {
@@ -198,9 +186,9 @@
     "location": "Nouméa",
     "company": "Pacific Community | Communauté de Pacifique",
     "twitterUsername": "BenCochraneR",
-    "followers": 4,
-    "privateContributions": 479,
-    "publicContributions": 83,
+    "followers": 5,
+    "privateContributions": 445,
+    "publicContributions": 82,
     "createdAt": "2022-03-05T07:57:45Z"
   },
   {
@@ -212,7 +200,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2022-09-13T00:34:45Z"
   },
   {
@@ -234,9 +222,9 @@
     "location": "New-Caledonia",
     "company": "CAFAT",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2021-07-09T04:36:14Z"
   },
   {

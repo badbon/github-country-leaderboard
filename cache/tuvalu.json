@@ -60,18 +60,6 @@
     "createdAt": "2022-04-05T02:16:13Z"
   },
   {
-    "login": "sygau",
-    "name": "jtv",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75655210?s=72&v=4",
-    "location": "Tuvalu",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2020-12-08T03:40:57Z"
-  },
-  {
     "login": "yorkwang99",
     "name": "York Freiherr von Wangenheim",
     "avatarUrl": "https://avatars.githubusercontent.com/u/70343149?s=72&v=4",
@@ -82,18 +70,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-27T18:33:19Z"
-  },
-  {
-    "login": "Peachsr",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50031435?s=72&u=3f6a3eccd43ddb1c0bf8fe19ebdd134f35ce7574&v=4",
-    "location": "Tuvalu",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2019-04-26T20:16:01Z"
   },
   {
     "login": "pedromaestu",
@@ -127,8 +103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 849,
-    "publicContributions": 0,
+    "privateContributions": 624,
+    "publicContributions": 2,
     "createdAt": "2013-04-20T20:49:30Z"
   },
   {
@@ -139,8 +115,8 @@
     "company": "Moonsea Research Center of Chenhai University(辰海大学月海研究中心)",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 10,
-    "publicContributions": 88,
+    "privateContributions": 6,
+    "publicContributions": 81,
     "createdAt": "2013-05-19T07:10:19Z"
   },
   {
@@ -150,7 +126,7 @@
     "location": "Tuvalu",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-09-06T00:51:04Z"

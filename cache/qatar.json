@@ -1,17 +1,5 @@
 [
   {
-    "login": "Ziad-Asr",
-    "name": "Ziad Elsayed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123997217?s=72&u=3070d76f749632713771cfde8db3df74c6524144&v=4",
-    "location": "Doha, Qatar",
-    "company": "ShipBee",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1083,
-    "publicContributions": 8,
-    "createdAt": "2023-01-30T20:56:05Z"
-  },
-  {
     "login": "amrsaiddeyab",
     "name": "Amr Deyab",
     "avatarUrl": "https://avatars.githubusercontent.com/u/279244584?s=72&u=6052ce2dc0a1cfb324d97d47248006df46f9e007&v=4",
@@ -26,13 +14,13 @@
   {
     "login": "riyasalone411-hue",
     "name": "riyas.z2",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261513133?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261513133?s=72&u=7930359bfd6a02696364162ad11882a67d5893b4&v=4",
     "location": "Qatar ",
-    "company": "Perfume ",
+    "company": "Online",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2026-02-13T21:18:44Z"
   },
   {
@@ -72,18 +60,6 @@
     "createdAt": "2026-04-06T20:23:49Z"
   },
   {
-    "login": "Sprotun-logic",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/272444957?s=72&v=4",
-    "location": "Doha, Qatar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2026-03-31T07:16:49Z"
-  },
-  {
     "login": "uhudqa",
     "name": "Uhud Camping",
     "avatarUrl": "https://avatars.githubusercontent.com/u/273059595?s=72&u=b32143631e004d2ed37847ede510153a84d68d49&v=4",
@@ -116,13 +92,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 196,
     "createdAt": "2026-02-17T12:28:37Z"
   },
   {
     "login": "nagissoi81-stack",
     "name": "Nagi Alshaikh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254882998?s=72&u=330985f41162b770e0e2f620135166edba8d1925&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254882998?s=72&u=d904876548bbb86e96b431d814b0465c29bf5704&v=4",
     "location": "Qatar-Doha",
     "company": "",
     "twitterUsername": "",
@@ -134,7 +110,7 @@
   {
     "login": "phillipadam58",
     "name": "Phillip Adam ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270878462?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270878462?s=72&u=ef4d314cd0a902245a13e3747c9f750eedfa1da4&v=4",
     "location": "Qatar",
     "company": "Germany",
     "twitterUsername": "",
@@ -172,11 +148,11 @@
     "name": "Eleanor Tefera",
     "avatarUrl": "https://avatars.githubusercontent.com/u/262507842?s=72&v=4",
     "location": "Doha",
-    "company": "",
+    "company": "Dar Al Sharq Group",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 633,
-    "publicContributions": 30,
+    "followers": 35,
+    "privateContributions": 775,
+    "publicContributions": 43,
     "createdAt": "2026-02-19T05:55:46Z"
   },
   {
@@ -193,14 +169,14 @@
   },
   {
     "login": "altyebv",
-    "name": "",
+    "name": "Altayeb Abdeljalil ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193164502?s=72&u=fee1000faee629776be1deea9ec584889e3ae7a8&v=4",
-    "location": "Doha, Qatar ",
+    "location": "Doha, Qatar  Sudan ",
     "company": "",
     "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 1437,
-    "publicContributions": 712,
+    "followers": 763,
+    "privateContributions": 1874,
+    "publicContributions": 1519,
     "createdAt": "2024-12-29T18:27:28Z"
   },
   {
@@ -222,9 +198,9 @@
     "location": "Doha, Qatar",
     "company": "Livums Technologies",
     "twitterUsername": "GLivums",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 126,
     "createdAt": "2025-03-30T10:39:45Z"
   },
   {
@@ -234,9 +210,9 @@
     "location": "Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1695,
-    "publicContributions": 324,
+    "followers": 11,
+    "privateContributions": 1863,
+    "publicContributions": 321,
     "createdAt": "2025-01-07T10:19:50Z"
   },
   {

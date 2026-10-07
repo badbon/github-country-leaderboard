@@ -32,7 +32,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2026-01-25T04:20:57Z"
   },
   {
@@ -42,9 +42,9 @@
     "location": "North Korea",
     "company": "Kim Il Sung University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 221,
+    "publicContributions": 198,
     "createdAt": "2026-05-05T07:01:14Z"
   },
   {
@@ -54,9 +54,9 @@
     "location": "Pyongyang",
     "company": "@billnye",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2026-03-25T20:02:54Z"
   },
   {
@@ -66,7 +66,7 @@
     "location": "Pyongyang",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-20T10:40:28Z"
@@ -79,8 +79,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 77,
-    "publicContributions": 36,
+    "privateContributions": 144,
+    "publicContributions": 40,
     "createdAt": "2025-03-05T18:46:48Z"
   },
   {
@@ -90,9 +90,9 @@
     "location": "Pionyang, North Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 51,
     "createdAt": "2025-09-18T08:41:27Z"
   },
   {
@@ -134,13 +134,13 @@
   {
     "login": "qunalpha",
     "name": "Quna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194751071?s=72&u=47858fcdb93e09d6639edaed0d8ed4b83b849b87&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194751071?s=72&u=c99fb496058cc54d049a9433d0bfccd2905d4dc2&v=4",
     "location": "North Korea",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 46,
     "createdAt": "2025-01-13T05:15:01Z"
   },
   {
@@ -163,21 +163,9 @@
     "company": "pigat.inc",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 115,
-    "publicContributions": 228,
+    "privateContributions": 64,
+    "publicContributions": 200,
     "createdAt": "2025-03-05T12:17:50Z"
-  },
-  {
-    "login": "stefgogo",
-    "name": "attentkebab",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/227892799?s=72&u=c8359259239e1816330255c345e981e6ef4266d6&v=4",
-    "location": "Pyongyang, North Korea",
-    "company": "@slvusd",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 26,
-    "createdAt": "2025-08-21T20:10:30Z"
   },
   {
     "login": "Nyehcrozma807",
@@ -188,7 +176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2025-09-16T22:51:54Z"
   },
   {
@@ -212,7 +200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 0,
     "createdAt": "2025-08-27T21:07:21Z"
   },
   {
@@ -230,7 +218,7 @@
   {
     "login": "salntlaurent",
     "name": "salntlaurent",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/213545534?s=72&u=71a4b50882cea82cebf01749b4fa7c4c8f91eba6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213545534?s=72&v=4",
     "location": "North Korea",
     "company": "",
     "twitterUsername": "",

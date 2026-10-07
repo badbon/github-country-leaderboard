@@ -248,7 +248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 70,
     "createdAt": "2025-08-16T14:05:41Z"
   },
   {
@@ -294,9 +294,9 @@
     "location": "Antarctica",
     "company": "No clue",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 20,
+    "followers": 2,
+    "privateContributions": 485,
+    "publicContributions": 177,
     "createdAt": "2025-10-26T01:35:30Z"
   },
   {
@@ -320,7 +320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 69,
     "createdAt": "2025-11-20T21:39:00Z"
   },
   {
@@ -344,7 +344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-01T07:53:22Z"
   },
   {
@@ -352,11 +352,11 @@
     "name": "xilo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/232167622?s=72&u=485a293f0f9d020f777bc38524234259dffb70e1&v=4",
     "location": "Antarctica",
-    "company": "",
+    "company": "https://xilosarchive.justxilo.workers.dev",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 155,
+    "followers": 6,
+    "privateContributions": 64,
+    "publicContributions": 134,
     "createdAt": "2025-09-14T08:12:03Z"
   },
   {
@@ -380,7 +380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2025-09-24T16:51:54Z"
   },
   {
@@ -392,7 +392,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2025-10-04T14:46:39Z"
   },
   {
@@ -403,8 +403,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 29,
-    "publicContributions": 13,
+    "privateContributions": 23,
+    "publicContributions": 12,
     "createdAt": "2025-03-09T02:15:22Z"
   },
   {
@@ -428,7 +428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-06-15T21:38:16Z"
   },
   {
@@ -451,20 +451,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 954,
     "publicContributions": 0,
     "createdAt": "2025-02-02T16:22:11Z"
   },
   {
     "login": "krwg",
     "name": "アイダ ミール",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176070311?s=72&u=da078d90c2d6e7a22acd7b0e260d673d33c80a48&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176070311?s=72&u=b71e45d17c2915b549bbbb602228b64136d0da67&v=4",
     "location": "Antarctica",
     "company": "Google University",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 11,
-    "publicContributions": 1458,
+    "followers": 11,
+    "privateContributions": 14,
+    "publicContributions": 1465,
     "createdAt": "2024-07-19T19:03:19Z"
   },
   {
@@ -5614,5 +5614,29 @@
     "privateContributions": 92,
     "publicContributions": 222,
     "createdAt": "2008-08-07T08:00:16Z"
+  },
+  {
+    "login": "cutetux",
+    "name": "CuteTux",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287222201?s=72&u=d950b3ec47065c2eabced5d85b92b70484e3848f&v=4",
+    "location": "Antarctica ;)",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 3831,
+    "publicContributions": 9,
+    "createdAt": "2026-05-23T12:55:59Z"
+  },
+  {
+    "login": "tutucucucu",
+    "name": "JejelsDev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287873555?s=72&u=d63efaf9f1097ae86ae411cd36addfe8724c3375&v=4",
+    "location": "Antarctica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 160,
+    "createdAt": "2026-05-26T03:35:08Z"
   }
 ]

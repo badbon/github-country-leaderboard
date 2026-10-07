@@ -236,7 +236,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 248,
     "createdAt": "2026-03-14T11:02:46Z"
   },
   {
@@ -246,22 +246,10 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 37,
     "createdAt": "2026-05-02T18:54:38Z"
-  },
-  {
-    "login": "Gowtham-Shankar-m",
-    "name": "Gowtham Shankar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258803156?s=72&u=11c20769278428a90a56f30c946673315e908975&v=4",
-    "location": "Linz, Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-02-02T11:03:58Z"
   },
   {
     "login": "goliveira-dt",
@@ -307,7 +295,7 @@
     "company": "SWAN GmbH",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 172,
+    "privateContributions": 222,
     "publicContributions": 1,
     "createdAt": "2026-03-16T14:27:42Z"
   },
@@ -325,14 +313,14 @@
   },
   {
     "login": "sasha-belikova",
-    "name": "Aleksandra Belikova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/275775867?s=72&v=4",
+    "name": "Sasha Belikova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275775867?s=72&u=32b2d4edbfcd568a06236a71fc47b3c26cf771e1&v=4",
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 135,
     "createdAt": "2026-04-13T17:13:43Z"
   },
   {
@@ -356,20 +344,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2026-04-21T08:53:29Z"
-  },
-  {
-    "login": "magdalena-hiret",
-    "name": "Magdalena Gebhardt",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276052730?s=72&u=485781323a08c71abb0365dbee7010aedea49253&v=4",
-    "location": "Vienna, Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-14T15:54:31Z"
   },
   {
     "login": "exponent-at",
@@ -409,14 +385,14 @@
   },
   {
     "login": "0xadam-brown",
-    "name": "arb",
+    "name": "Adam Brown",
     "avatarUrl": "https://avatars.githubusercontent.com/u/281682121?s=72&v=4",
     "location": "Vienna, Austria",
     "company": "Sentry",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 184,
+    "publicContributions": 346,
     "createdAt": "2026-05-04T15:21:48Z"
   },
   {
@@ -428,7 +404,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2026-05-07T09:23:02Z"
   },
   {
@@ -440,7 +416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 258,
     "createdAt": "2026-02-03T15:23:45Z"
   },
   {

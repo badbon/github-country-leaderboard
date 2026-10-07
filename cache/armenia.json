@@ -247,8 +247,8 @@
     "company": "@Fivexl",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 70,
+    "privateContributions": 299,
+    "publicContributions": 163,
     "createdAt": "2026-02-26T09:10:28Z"
   },
   {
@@ -276,27 +276,15 @@
     "createdAt": "2026-01-29T18:28:14Z"
   },
   {
-    "login": "maendooh",
-    "name": "Ruben Tadevosian",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/247956544?s=72&u=155916dba785bdcc2af4299e94479419e2a5ae14&v=4",
-    "location": "Armenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 242,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2025-12-05T08:48:27Z"
-  },
-  {
     "login": "svahiddavoodi",
     "name": "Vahid Davoodi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/235908168?s=72&u=cb633d81c37708b7822d7078c09c2c1a3076347f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235908168?s=72&u=cd3e99ee81993412618325ac79a73ceef7729d5b&v=4",
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 36,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-03T14:39:00Z"
   },
   {
@@ -306,7 +294,7 @@
     "location": "Armenia",
     "company": "Armath Engineering Makerspaces",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-04T17:52:32Z"
@@ -318,9 +306,9 @@
     "location": "Armenia",
     "company": "42 shchool",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 60,
     "createdAt": "2025-03-11T10:09:47Z"
   },
   {
@@ -330,9 +318,9 @@
     "location": "Armenia",
     "company": "Morpho Academy",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 133,
+    "publicContributions": 120,
     "createdAt": "2025-07-24T12:37:18Z"
   },
   {
@@ -342,9 +330,9 @@
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 9,
     "privateContributions": 5,
-    "publicContributions": 109,
+    "publicContributions": 110,
     "createdAt": "2025-03-30T13:55:56Z"
   },
   {
@@ -354,9 +342,9 @@
     "location": "Armenia, Quindío, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 495,
-    "publicContributions": 423,
+    "followers": 18,
+    "privateContributions": 1763,
+    "publicContributions": 518,
     "createdAt": "2025-02-17T15:12:06Z"
   },
   {
@@ -366,9 +354,9 @@
     "location": "Armenia, Quindío. Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1462,
-    "publicContributions": 463,
+    "followers": 5,
+    "privateContributions": 2799,
+    "publicContributions": 457,
     "createdAt": "2025-09-08T12:46:26Z"
   },
   {
@@ -384,27 +372,15 @@
     "createdAt": "2025-02-06T12:22:05Z"
   },
   {
-    "login": "armanncho",
-    "name": "Arman Ayvazyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/235917795?s=72&u=1c2ff3e6097609043a16f089f8105e7102890da0&v=4",
-    "location": "Yerevan, Armenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 41,
-    "createdAt": "2025-10-03T15:30:29Z"
-  },
-  {
     "login": "artemfroloveng",
     "name": "Artem Frolov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/232047241?s=72&u=005bcbed2fe15a8ae7484f88223cbaeadb11a397&v=4",
     "location": "Armenia, Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 35,
     "createdAt": "2025-09-13T10:22:50Z"
   },
   {
@@ -414,9 +390,9 @@
     "location": "Yerevan, Armenia",
     "company": "@BlurredBox ",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1379,
-    "publicContributions": 71,
+    "followers": 9,
+    "privateContributions": 1916,
+    "publicContributions": 133,
     "createdAt": "2025-03-12T17:42:48Z"
   },
   {
@@ -426,7 +402,7 @@
     "location": "Armenia",
     "company": "@Eeive",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 31,
     "createdAt": "2025-12-09T17:26:38Z"
@@ -452,7 +428,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 16,
     "createdAt": "2025-09-25T10:55:59Z"
   },
   {
@@ -474,9 +450,9 @@
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 131,
-    "publicContributions": 212,
+    "followers": 1,
+    "privateContributions": 129,
+    "publicContributions": 357,
     "createdAt": "2025-05-19T22:26:39Z"
   },
   {

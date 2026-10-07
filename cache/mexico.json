@@ -6,9 +6,9 @@
     "location": "Mexico",
     "company": "Rust-ZK",
     "twitterUsername": "",
-    "followers": 122,
+    "followers": 126,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 6,
     "createdAt": "2026-01-05T20:22:16Z"
   },
   {
@@ -18,34 +18,10 @@
     "location": "Puebla; Puebla. Mexico",
     "company": "DOCUMATICS",
     "twitterUsername": "",
-    "followers": 102,
+    "followers": 92,
     "privateContributions": 6,
     "publicContributions": 92,
     "createdAt": "2026-02-21T15:55:59Z"
-  },
-  {
-    "login": "freenet-for-poor",
-    "name": "Max",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256210180?s=72&u=1bdedfadbc2cb753b4f1499a450764700360023f&v=4",
-    "location": "Mexico City",
-    "company": "dnstt.xyz",
-    "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 0,
-    "publicContributions": 40,
-    "createdAt": "2026-01-20T21:42:54Z"
-  },
-  {
-    "login": "Cryptopixell",
-    "name": "Peace   <3",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258088396?s=72&u=c1695a9855188dc4571d5b8e150df82f9b7cc53e&v=4",
-    "location": "mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-01-29T19:26:40Z"
   },
   {
     "login": "CosmikArt",
@@ -54,7 +30,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 5,
     "privateContributions": 184,
     "publicContributions": 38,
     "createdAt": "2026-04-20T02:06:12Z"
@@ -76,11 +52,11 @@
     "name": "rodolfo montano",
     "avatarUrl": "https://avatars.githubusercontent.com/u/277616857?s=72&u=1e91715f2e87ab5593c9ce3b19a16ad3fccf32fb&v=4",
     "location": "mexico",
-    "company": "empresa.com",
+    "company": "tuempresa.com",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 30,
+    "followers": 22,
+    "privateContributions": 15,
+    "publicContributions": 37,
     "createdAt": "2026-04-20T03:58:14Z"
   },
   {
@@ -90,7 +66,7 @@
     "location": "CDMX, Mexico",
     "company": "FES ACATLAN, UNAM",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 165,
     "createdAt": "2026-01-25T17:10:58Z"
@@ -102,9 +78,9 @@
     "location": "Mexico City",
     "company": "VenturEdge",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 313,
-    "publicContributions": 261,
+    "followers": 11,
+    "privateContributions": 7232,
+    "publicContributions": 385,
     "createdAt": "2026-04-21T07:52:40Z"
   },
   {
@@ -126,7 +102,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2025-12-31T05:07:03Z"
@@ -140,7 +116,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 281,
+    "publicContributions": 286,
     "createdAt": "2026-03-15T01:11:24Z"
   },
   {
@@ -150,9 +126,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 154,
     "createdAt": "2026-01-26T15:30:35Z"
   },
   {
@@ -182,13 +158,13 @@
   {
     "login": "carlosbasa20",
     "name": "Carlos Eduardo Barriga Salmerón",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/280791301?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280791301?s=72&u=6b1cb31081904d52f26e02a213952fbbd37b6972&v=4",
     "location": "Mexico City, Mexico",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 44,
     "createdAt": "2026-04-30T19:15:29Z"
   },
   {
@@ -200,7 +176,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 66,
     "createdAt": "2026-01-22T09:38:26Z"
   },
   {
@@ -212,7 +188,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 7,
     "createdAt": "2026-02-19T14:41:48Z"
   },
   {
@@ -234,9 +210,9 @@
     "location": "Mexico ",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2026-04-10T03:21:44Z"
   },
   {

@@ -6,7 +6,7 @@
     "location": "Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 93,
+    "followers": 82,
     "privateContributions": 0,
     "publicContributions": 127,
     "createdAt": "2026-01-29T20:08:49Z"
@@ -18,7 +18,7 @@
     "location": "Bosnia and Herzegovina",
     "company": "@BlackBlazent",
     "twitterUsername": "",
-    "followers": 46,
+    "followers": 47,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2026-02-06T07:35:56Z"
@@ -42,7 +42,7 @@
     "location": "Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-01T23:30:01Z"
@@ -66,9 +66,9 @@
     "location": "Sarajevo, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 227,
     "createdAt": "2026-05-05T06:15:50Z"
   },
   {
@@ -80,7 +80,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 55,
+    "publicContributions": 58,
     "createdAt": "2026-02-28T20:15:27Z"
   },
   {
@@ -138,7 +138,7 @@
     "location": "Sarajevo",
     "company": "Dispatch Integration",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 34,
     "privateContributions": 0,
     "publicContributions": 362,
     "createdAt": "2026-02-06T03:16:33Z"
@@ -151,8 +151,8 @@
     "company": "@SymphonyGroup (Symphony.is)",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 566,
-    "publicContributions": 93,
+    "privateContributions": 765,
+    "publicContributions": 4,
     "createdAt": "2026-03-16T12:03:55Z"
   },
   {
@@ -164,20 +164,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 150,
+    "publicContributions": 190,
     "createdAt": "2026-04-12T12:01:16Z"
-  },
-  {
-    "login": "Antares-rising-star",
-    "name": "Antares | Rising star",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283143709?s=72&u=9a76f2e8d3b260cbb220587caa576ffa8910f8ea&v=4",
-    "location": "Sarajevo",
-    "company": "Antares d.o.o.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 396,
-    "createdAt": "2026-05-09T11:12:53Z"
   },
   {
     "login": "CamdzicAlden",
@@ -187,8 +175,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 285,
-    "publicContributions": 419,
+    "privateContributions": 277,
+    "publicContributions": 387,
     "createdAt": "2025-05-28T10:23:18Z"
   },
   {
@@ -196,11 +184,11 @@
     "name": "Amina",
     "avatarUrl": "https://avatars.githubusercontent.com/u/239399063?s=72&u=f19f07f7918dd22e5f1123157dc52231a0508ef0&v=4",
     "location": "Bosnia and Herzegovina",
-    "company": "IPI Academy Tuzla",
+    "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 102,
-    "publicContributions": 96,
+    "privateContributions": 149,
+    "publicContributions": 83,
     "createdAt": "2025-10-21T16:08:57Z"
   },
   {
@@ -210,7 +198,7 @@
     "location": "Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "mateoprimorac",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2025-12-06T19:32:43Z"
@@ -224,7 +212,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 53,
     "createdAt": "2025-06-17T20:22:47Z"
   },
   {

@@ -8,7 +8,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 42,
     "createdAt": "2026-01-21T12:29:51Z"
   },
   {
@@ -20,7 +20,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2026-04-25T07:25:05Z"
   },
   {
@@ -66,9 +66,9 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 22,
     "createdAt": "2025-06-03T03:31:42Z"
   },
   {
@@ -78,21 +78,21 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 47,
-    "publicContributions": 499,
+    "followers": 8,
+    "privateContributions": 261,
+    "publicContributions": 178,
     "createdAt": "2025-03-21T06:51:09Z"
   },
   {
     "login": "ypa-me",
-    "name": "Yashvin Persand",
+    "name": "Yashvin Persand ✨",
     "avatarUrl": "https://avatars.githubusercontent.com/u/224218152?s=72&v=4",
     "location": "Mauritius",
     "company": "ypa.one",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 33,
-    "publicContributions": 85,
+    "twitterUsername": "ypa_me",
+    "followers": 4,
+    "privateContributions": 72,
+    "publicContributions": 100,
     "createdAt": "2025-08-02T06:51:42Z"
   },
   {
@@ -139,8 +139,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 69,
-    "publicContributions": 15,
+    "privateContributions": 11,
+    "publicContributions": 73,
     "createdAt": "2025-08-05T16:10:37Z"
   },
   {
@@ -168,18 +168,6 @@
     "createdAt": "2025-11-17T04:12:14Z"
   },
   {
-    "login": "yso81",
-    "name": "yso*",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/214620636?s=72&v=4",
-    "location": "Mauritius",
-    "company": "YSO*studio",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1139,
-    "createdAt": "2025-06-03T07:54:06Z"
-  },
-  {
     "login": "Tan2493",
     "name": "Tania Kwok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/218249447?s=72&u=f1c8f8f897890865a8b0212a74eaae8df9794163&v=4",
@@ -188,7 +176,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 179,
+    "publicContributions": 173,
     "createdAt": "2025-06-27T12:50:01Z"
   },
   {
@@ -200,7 +188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2025-09-30T06:49:05Z"
   },
   {
@@ -224,7 +212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 194,
+    "publicContributions": 147,
     "createdAt": "2025-01-08T14:30:43Z"
   },
   {

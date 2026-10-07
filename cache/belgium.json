@@ -260,7 +260,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 27,
     "createdAt": "2026-02-23T10:18:37Z"
   },
   {
@@ -294,7 +294,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2026-04-07T17:13:11Z"
@@ -308,7 +308,7 @@
     "twitterUsername": "DDGraphisme",
     "followers": 2,
     "privateContributions": 2,
-    "publicContributions": 3039,
+    "publicContributions": 3476,
     "createdAt": "2026-01-17T06:58:14Z"
   },
   {
@@ -318,9 +318,9 @@
     "location": "Belgium",
     "company": "Mainframe Monkey",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 103,
     "createdAt": "2026-02-01T12:40:00Z"
   },
   {
@@ -350,13 +350,13 @@
   {
     "login": "Gap-geometry",
     "name": "D. B.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257113205?s=72&u=332dd1c4704e2eaf3d1ce250bdb8849b33262a64&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257113205?s=72&u=2198d5f7e47bffd5fe6de10b818c7384c10bce03&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "Aud2Gap",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 521,
+    "publicContributions": 594,
     "createdAt": "2026-01-25T12:57:23Z"
   },
   {
@@ -368,7 +368,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 73,
     "createdAt": "2026-05-10T09:27:01Z"
   },
   {
@@ -380,7 +380,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 592,
+    "publicContributions": 1111,
     "createdAt": "2026-01-02T10:54:19Z"
   },
   {
@@ -432,18 +432,6 @@
     "createdAt": "2026-03-22T14:25:48Z"
   },
   {
-    "login": "thedragonheir",
-    "name": "꧁龙的传人꧂",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253982057?s=72&u=314d8a5a0db6d40bd0e58c95ce08a22f01295faa&v=4",
-    "location": "Flanders, Belgium",
-    "company": "Dr. Genius Lab Games",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 133,
-    "createdAt": "2026-01-09T17:30:56Z"
-  },
-  {
     "login": "itquadronics",
     "name": "itquadronics",
     "avatarUrl": "https://avatars.githubusercontent.com/u/275695111?s=72&v=4",
@@ -454,18 +442,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-04-13T11:42:23Z"
-  },
-  {
-    "login": "Nyllek-ai",
-    "name": "Silva Salles Kellyn",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276353313?s=72&v=4",
-    "location": "Namur,Belgium",
-    "company": "maison",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-15T16:20:08Z"
   },
   {
     "login": "bentevsvb",

@@ -248,7 +248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 96,
     "createdAt": "2026-03-06T06:33:41Z"
   },
   {
@@ -282,9 +282,9 @@
     "location": "city of Bamenda (Cameroon)",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 30,
     "createdAt": "2026-02-03T20:18:48Z"
   },
   {
@@ -324,27 +324,15 @@
     "createdAt": "2026-04-13T13:08:39Z"
   },
   {
-    "login": "BobMan07-cyber",
-    "name": "Marvin Ahanda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269598710?s=72&u=2cf66a06cca598b429a2152f4adfef3555e7037d&v=4",
-    "location": "Yaoundé",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2026-03-19T23:11:17Z"
-  },
-  {
     "login": "nHallecn",
     "name": "NJI HALLE CHO-NKWENTI",
     "avatarUrl": "https://avatars.githubusercontent.com/u/194891014?s=72&u=7d4554a154caca678afc01875eec33ffb58224de&v=4",
     "location": "Yaounde, Cameroon",
     "company": "",
     "twitterUsername": "ChoHalle",
-    "followers": 131,
-    "privateContributions": 171,
-    "publicContributions": 893,
+    "followers": 125,
+    "privateContributions": 176,
+    "publicContributions": 839,
     "createdAt": "2025-01-14T06:21:41Z"
   },
   {
@@ -354,9 +342,9 @@
     "location": "Bamenda, Cameroon",
     "company": "",
     "twitterUsername": "",
-    "followers": 81,
-    "privateContributions": 629,
-    "publicContributions": 8684,
+    "followers": 83,
+    "privateContributions": 674,
+    "publicContributions": 9082,
     "createdAt": "2025-01-05T08:38:46Z"
   },
   {
@@ -366,31 +354,31 @@
     "location": "Buea, Cameroon",
     "company": "",
     "twitterUsername": "",
-    "followers": 75,
-    "privateContributions": 225,
-    "publicContributions": 35,
+    "followers": 79,
+    "privateContributions": 181,
+    "publicContributions": 50,
     "createdAt": "2025-03-25T08:08:12Z"
   },
   {
     "login": "Chu29",
-    "name": "MUEGHE ABUEMKEZE CHU",
+    "name": "MALIK MUEGHE ABUEMKEZE CHU",
     "avatarUrl": "https://avatars.githubusercontent.com/u/218784251?s=72&u=26ce6ca1a81b82efc31d89b87758d317bd4d15fc&v=4",
     "location": "Yaounde, Cameroon",
     "company": "REBASE CODE CAMP",
     "twitterUsername": "unku_chu",
-    "followers": 52,
-    "privateContributions": 417,
-    "publicContributions": 2011,
+    "followers": 48,
+    "privateContributions": 616,
+    "publicContributions": 1901,
     "createdAt": "2025-07-01T13:21:57Z"
   },
   {
     "login": "massa-ngl",
     "name": "Blaise Massa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/199245532?s=72&u=eab35b28a8907233cb9a5c643ffc7c12c90ace26&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199245532?s=72&u=bdef9dc830ea831a3292fdf8e5f3166e06a67be9&v=4",
     "location": "Bamenda, Cameroon ",
     "company": "",
     "twitterUsername": "thalaivarmassa",
-    "followers": 46,
+    "followers": 45,
     "privateContributions": 0,
     "publicContributions": 52,
     "createdAt": "2025-02-14T13:06:27Z"
@@ -402,9 +390,9 @@
     "location": "Bamenda, Cameroon ",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 572,
-    "publicContributions": 396,
+    "followers": 34,
+    "privateContributions": 942,
+    "publicContributions": 475,
     "createdAt": "2025-01-12T20:38:21Z"
   },
   {
@@ -414,9 +402,9 @@
     "location": "Cameroon",
     "company": "XYBERCLAN",
     "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 109,
-    "publicContributions": 5416,
+    "followers": 41,
+    "privateContributions": 249,
+    "publicContributions": 6031,
     "createdAt": "2025-02-25T15:59:57Z"
   },
   {
@@ -426,7 +414,7 @@
     "location": "Bamenda, Cameroon",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 30,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2025-11-02T15:42:05Z"
@@ -438,7 +426,7 @@
     "location": "CAMEROON, NIGERIA, GLOBAL",
     "company": "RODDY TECHNOLOGIES LTD",
     "twitterUsername": "roddytech_222",
-    "followers": 22,
+    "followers": 25,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-06-30T11:58:02Z"
@@ -450,9 +438,9 @@
     "location": "Yaoundé, Cameroon",
     "company": "rebase",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 63,
-    "publicContributions": 367,
+    "followers": 23,
+    "privateContributions": 59,
+    "publicContributions": 353,
     "createdAt": "2025-08-25T12:50:07Z"
   },
   {
@@ -474,9 +462,9 @@
     "location": "Cameroon",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 389,
-    "publicContributions": 1009,
+    "followers": 15,
+    "privateContributions": 473,
+    "publicContributions": 1771,
     "createdAt": "2025-01-07T14:46:09Z"
   },
   {

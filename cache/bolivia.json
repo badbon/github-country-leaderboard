@@ -30,9 +30,9 @@
     "location": "Bolivia/Tarija",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 58,
     "createdAt": "2026-02-17T02:07:15Z"
   },
   {
@@ -116,7 +116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 89,
     "createdAt": "2026-01-29T03:04:25Z"
   },
   {
@@ -128,7 +128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 8,
     "createdAt": "2026-04-07T20:47:43Z"
   },
   {
@@ -138,9 +138,9 @@
     "location": "Bolivia",
     "company": "",
     "twitterUsername": "",
-    "followers": 78,
+    "followers": 72,
     "privateContributions": 0,
-    "publicContributions": 817,
+    "publicContributions": 815,
     "createdAt": "2025-02-05T18:02:00Z"
   },
   {
@@ -150,9 +150,9 @@
     "location": "Cochabamba, Bolivia",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 1111,
+    "publicContributions": 1042,
     "createdAt": "2025-04-12T15:48:06Z"
   },
   {
@@ -162,8 +162,8 @@
     "location": "Santa Cruz, Bolivia",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 2664,
+    "followers": 15,
+    "privateContributions": 4228,
     "publicContributions": 701,
     "createdAt": "2025-04-02T17:09:43Z"
   },
@@ -174,9 +174,9 @@
     "location": "Bolivia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 105,
-    "publicContributions": 85,
+    "followers": 13,
+    "privateContributions": 104,
+    "publicContributions": 130,
     "createdAt": "2025-03-03T15:39:07Z"
   },
   {
@@ -187,20 +187,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 95,
-    "publicContributions": 1003,
+    "privateContributions": 160,
+    "publicContributions": 1021,
     "createdAt": "2025-03-25T07:18:04Z"
   },
   {
     "login": "Mats2208",
     "name": "Mateo Andres Soto Gareca",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197782816?s=72&u=1679e7b22f450b4dc17fc6b6be20b50c453f7ca9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197782816?s=72&u=4f107aee5039633a98b6208c47805d9821769a9f&v=4",
     "location": "Santa Cruz, Bolivia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1259,
-    "publicContributions": 543,
+    "followers": 14,
+    "privateContributions": 3173,
+    "publicContributions": 578,
     "createdAt": "2025-02-04T15:15:25Z"
   },
   {
@@ -210,22 +210,10 @@
     "location": "Santa Cruz, Bolivia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 58,
     "createdAt": "2025-03-11T03:29:12Z"
-  },
-  {
-    "login": "adyonchain",
-    "name": "Ady",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201607144?s=72&u=5c2f70cadcc74c1915e4667b23f916f7d8d3860d&v=4",
-    "location": "Bolivia",
-    "company": "",
-    "twitterUsername": "adyonchain",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2025-03-03T14:37:00Z"
   },
   {
     "login": "n5i9c0l",

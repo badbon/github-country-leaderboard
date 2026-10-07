@@ -6,22 +6,10 @@
     "location": "panama",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 361,
     "createdAt": "2026-01-13T20:27:53Z"
-  },
-  {
-    "login": "mybabyangie",
-    "name": "Angeline",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262721891?s=72&u=6b02f320e2bd60bd61c08ce4545ca206283a4e1e&v=4",
-    "location": "Panama",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-02-20T04:06:06Z"
   },
   {
     "login": "HalocDev",
@@ -46,18 +34,6 @@
     "privateContributions": 3,
     "publicContributions": 5,
     "createdAt": "2026-02-02T13:43:06Z"
-  },
-  {
-    "login": "iamfaas",
-    "name": "Fernando",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/272873141?s=72&u=fb11af8dfb15a84c101957756d61b71ef80bcdbf&v=4",
-    "location": "Panama",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-04-01T15:56:51Z"
   },
   {
     "login": "jaimeoyarzun-tech",
@@ -138,7 +114,7 @@
     "location": "Panama",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2026-03-30T00:21:01Z"
@@ -162,9 +138,9 @@
     "location": "Panama",
     "company": "Universidad Tecnológica de Panamá",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 64,
     "createdAt": "2025-01-06T17:46:51Z"
   },
   {
@@ -187,8 +163,8 @@
     "company": "CoDe - Research & Technological Development",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 51,
-    "publicContributions": 100,
+    "privateContributions": 58,
+    "publicContributions": 104,
     "createdAt": "2025-08-10T14:43:29Z"
   },
   {
@@ -212,7 +188,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 2,
-    "publicContributions": 12,
+    "publicContributions": 1,
     "createdAt": "2025-08-28T00:11:46Z"
   },
   {
@@ -222,9 +198,9 @@
     "location": "Panama",
     "company": "Boton",
     "twitterUsername": "ricardostmalo",
-    "followers": 3,
-    "privateContributions": 13153,
-    "publicContributions": 21,
+    "followers": 6,
+    "privateContributions": 15636,
+    "publicContributions": 11,
     "createdAt": "2025-04-01T14:27:53Z"
   },
   {
@@ -234,9 +210,9 @@
     "location": "Panama",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 43,
+    "followers": 6,
+    "privateContributions": 519,
+    "publicContributions": 106,
     "createdAt": "2025-05-04T21:25:59Z"
   },
   {

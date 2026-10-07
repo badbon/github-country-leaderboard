@@ -1,36 +1,12 @@
 [
   {
-    "login": "timofeymelnik",
-    "name": "Tymofii",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4579453?s=72&v=4",
-    "location": "Odessa",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 110,
-    "publicContributions": 4,
-    "createdAt": "2013-05-31T11:45:23Z"
-  },
-  {
-    "login": "Steiz321",
-    "name": "Daniil Fundament",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62308422?s=72&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 27,
-    "createdAt": "2020-03-17T20:02:03Z"
-  },
-  {
     "login": "yablochki95",
     "name": "Kateryna Yablonska",
     "avatarUrl": "https://avatars.githubusercontent.com/u/262403822?s=72&u=adf3bcc10bdac5f8e9236e77c0de98c9a5d0f7b6&v=4",
     "location": "Ukraine",
     "company": "Upwork",
     "twitterUsername": "",
-    "followers": 109,
+    "followers": 106,
     "privateContributions": 0,
     "publicContributions": 68,
     "createdAt": "2026-02-18T17:21:24Z"
@@ -44,7 +20,7 @@
     "twitterUsername": "",
     "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 36,
     "createdAt": "2026-02-19T12:33:07Z"
   },
   {
@@ -54,22 +30,10 @@
     "location": "Ukraine",
     "company": "e-Doc Ltd",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 569,
+    "followers": 18,
+    "privateContributions": 1075,
     "publicContributions": 53,
     "createdAt": "2026-02-02T19:42:04Z"
-  },
-  {
-    "login": "Mykhailo-Berkuta",
-    "name": "Mykhailo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270282311?s=72&u=21f92621c07d863a34c895dc52364591f25e3a84&v=4",
-    "location": "Kharkiv, Ukraine",
-    "company": "Kharkiv National University of Radio Electronics",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 95,
-    "createdAt": "2026-03-23T07:09:22Z"
   },
   {
     "login": "UAantovakul",
@@ -78,7 +42,7 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 34,
     "createdAt": "2026-01-18T18:40:42Z"
@@ -90,7 +54,7 @@
     "location": "Ukraine ",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 142,
     "createdAt": "2026-01-20T02:06:13Z"
@@ -102,9 +66,9 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 124,
     "createdAt": "2026-03-14T12:00:21Z"
   },
   {
@@ -114,7 +78,7 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2026-01-15T14:49:58Z"
@@ -126,7 +90,7 @@
     "location": "Ukraine",
     "company": "Hodge1",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-12-27T22:31:52Z"
@@ -152,7 +116,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 7,
     "createdAt": "2026-04-27T08:58:08Z"
   },
   {
@@ -164,20 +128,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 51,
     "createdAt": "2026-01-19T14:19:29Z"
-  },
-  {
-    "login": "overthelex",
-    "name": "Lexai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255864701?s=72&u=c0d29a7b6d0d87016fd215bf6b7ea2c6de1b6e17&v=4",
-    "location": "Kyiv, Ukraine",
-    "company": "Lexai",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 6312,
-    "createdAt": "2026-01-19T11:24:45Z"
   },
   {
     "login": "enlightenedexcelproductionsdon-png",
@@ -186,7 +138,7 @@
     "location": "Ukraine",
     "company": "Kyiv",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 219,
     "createdAt": "2026-03-12T06:10:08Z"
@@ -200,7 +152,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 23,
-    "publicContributions": 183,
+    "publicContributions": 214,
     "createdAt": "2026-05-06T17:38:45Z"
   },
   {
@@ -217,14 +169,14 @@
   },
   {
     "login": "neofetch-tech",
-    "name": "Liquidarium",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266532340?s=72&u=faeb3725f5297627f0abf19c2705ac72ee559699&v=4",
+    "name": "yuuw",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266532340?s=72&u=a77e87e5ae9391e62750eb61bc13b822d0819dd7&v=4",
     "location": "Ukraine",
-    "company": "",
+    "company": "KacuMica",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 3,
-    "publicContributions": 105,
+    "followers": 6,
+    "privateContributions": 14,
+    "publicContributions": 165,
     "createdAt": "2026-03-08T16:36:55Z"
   },
   {

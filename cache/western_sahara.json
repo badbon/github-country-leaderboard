@@ -30,8 +30,8 @@
     "location": "Laayoune, Western Sahara",
     "company": "OpenDevEd",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 4292,
+    "followers": 28,
+    "privateContributions": 5048,
     "publicContributions": 26,
     "createdAt": "2020-02-08T13:58:49Z"
   },
@@ -42,9 +42,9 @@
     "location": "Western Sahara",
     "company": "Coroboros",
     "twitterUsername": "ob_aion",
-    "followers": 8,
-    "privateContributions": 410,
-    "publicContributions": 598,
+    "followers": 7,
+    "privateContributions": 468,
+    "publicContributions": 659,
     "createdAt": "2016-04-04T10:08:07Z"
   },
   {
@@ -58,17 +58,5 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2013-11-17T22:23:29Z"
-  },
-  {
-    "login": "fosterlee",
-    "name": "Foster Lee",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17183?s=72&u=3618f4af47367ee2431341e7526ac0eda285126f&v=4",
-    "location": " Sahrawi Arab Democratic Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2008-07-16T03:58:49Z"
   }
 ]

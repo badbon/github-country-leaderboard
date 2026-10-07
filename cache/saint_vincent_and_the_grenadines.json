@@ -1,17 +1,5 @@
 [
   {
-    "login": "GloriousTacoo",
-    "name": "GloriousTacoo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219691234?s=72&u=f45d30175405e57159864521ef3780c645c75b2a&v=4",
-    "location": "Saint Vincent and the Grenadines",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 1157,
-    "createdAt": "2025-07-07T14:12:07Z"
-  },
-  {
     "login": "2Remus",
     "name": "human#23416",
     "avatarUrl": "https://avatars.githubusercontent.com/u/180607482?s=72&u=c962fb5a3f1993a0daa6d6ca07b4058ba44f1426&v=4",
@@ -19,8 +7,8 @@
     "company": "Customs and Excise St Vincent and the Grenadines",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 37,
-    "publicContributions": 357,
+    "privateContributions": 29,
+    "publicContributions": 344,
     "createdAt": "2024-09-06T01:33:07Z"
   },
   {
@@ -78,7 +66,7 @@
     "location": "Saint Vincent and the Grenadines",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-11-18T21:30:52Z"
@@ -126,7 +114,7 @@
     "location": "North Kingstown",
     "company": "@EpicGames",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-06T23:31:28Z"
@@ -139,7 +127,7 @@
     "company": "DBV Technology, LLC",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 505,
+    "privateContributions": 537,
     "publicContributions": 9,
     "createdAt": "2019-03-19T13:28:36Z"
   },
@@ -163,7 +151,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 322,
+    "privateContributions": 332,
     "publicContributions": 0,
     "createdAt": "2018-08-18T07:12:08Z"
   },
@@ -186,7 +174,7 @@
     "location": "Saint Vincent and the Grenadines",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-05-13T20:39:41Z"
@@ -198,9 +186,9 @@
     "location": "North Kingstown, RI",
     "company": "New England FIRST",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 4,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2017-11-01T15:43:52Z"
   },
   {
@@ -211,8 +199,8 @@
     "company": "Eknotec Services Ltd",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 4,
-    "publicContributions": 2,
+    "privateContributions": 7,
+    "publicContributions": 1,
     "createdAt": "2016-12-11T02:46:57Z"
   },
   {
@@ -223,7 +211,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 29,
+    "privateContributions": 40,
     "publicContributions": 0,
     "createdAt": "2015-02-07T13:24:20Z"
   },
@@ -235,7 +223,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 123,
+    "privateContributions": 122,
     "publicContributions": 37,
     "createdAt": "2014-03-22T04:42:18Z"
   },

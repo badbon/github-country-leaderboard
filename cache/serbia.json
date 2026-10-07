@@ -6,7 +6,7 @@
     "location": "Serbia",
     "company": "@D4C1-Labs ",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2026-03-08T16:12:37Z"
@@ -18,8 +18,8 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 660,
+    "followers": 3,
+    "privateContributions": 677,
     "publicContributions": 78,
     "createdAt": "2026-01-05T15:54:58Z"
   },
@@ -66,9 +66,9 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 118,
     "createdAt": "2026-03-25T17:37:24Z"
   },
   {
@@ -78,9 +78,9 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 140,
     "createdAt": "2026-04-24T18:01:01Z"
   },
   {
@@ -91,7 +91,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 300,
+    "privateContributions": 301,
     "publicContributions": 58,
     "createdAt": "2026-04-10T14:58:33Z"
   },
@@ -102,9 +102,9 @@
     "location": "Belgrade, Serbia",
     "company": "Student at the School of Electrical Engineering, University of Belgrade",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 43,
     "createdAt": "2026-01-08T14:10:24Z"
   },
   {
@@ -138,9 +138,9 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 71,
+    "followers": 3,
+    "privateContributions": 54,
+    "publicContributions": 90,
     "createdAt": "2026-02-20T10:47:14Z"
   },
   {
@@ -164,13 +164,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 98,
     "createdAt": "2026-03-20T14:11:32Z"
   },
   {
     "login": "ilijasource",
     "name": "Ilija Savic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257030459?s=72&u=30b00b321a082ad75e339e1ce71903576dbfb37e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257030459?s=72&u=42ff91a45b83a0c543707d03e63fc33ca378e37f&v=4",
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
@@ -226,18 +226,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-12-31T10:40:40Z"
-  },
-  {
-    "login": "ggg-xt",
-    "name": "ђ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262726104?s=72&u=d97ebde7d9fe873364454e8c4a1eab4766231f4f&v=4",
-    "location": "Serbia, Belgrade",
-    "company": "xt team",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2026-02-20T04:40:55Z"
   },
   {
     "login": "kataidavid14-source",

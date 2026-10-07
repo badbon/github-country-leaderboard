@@ -18,7 +18,7 @@
     "location": "Slovakia, Košice {Ukraine, Kiyv}",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2026-03-08T15:50:42Z"
@@ -30,7 +30,7 @@
     "location": "Slovakia, Bratislava",
     "company": "VNET a.s",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 182,
     "createdAt": "2026-05-08T07:01:44Z"
@@ -42,9 +42,9 @@
     "location": "Slovakia",
     "company": "T.B.G",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 39,
     "createdAt": "2026-01-08T23:51:20Z"
   },
   {
@@ -66,7 +66,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2026-01-12T16:04:09Z"
@@ -80,7 +80,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 422,
+    "publicContributions": 430,
     "createdAt": "2026-01-28T17:18:53Z"
   },
   {
@@ -102,9 +102,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2026-04-29T20:14:34Z"
   },
   {
@@ -126,22 +126,10 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 223,
+    "publicContributions": 283,
     "createdAt": "2026-03-09T18:34:42Z"
-  },
-  {
-    "login": "hroomnik007",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/275708201?s=72&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2431,
-    "createdAt": "2026-04-13T12:39:37Z"
   },
   {
     "login": "myhalv",
@@ -152,7 +140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 95,
     "createdAt": "2026-02-17T17:35:48Z"
   },
   {

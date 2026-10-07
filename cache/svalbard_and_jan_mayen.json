@@ -6,9 +6,9 @@
     "location": "Longyearbyen",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 15,
     "createdAt": "2023-11-27T10:58:34Z"
   },
   {
@@ -18,9 +18,9 @@
     "location": "Svalbard og Jan Mayen",
     "company": "@huawei",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 233,
-    "publicContributions": 331,
+    "followers": 11,
+    "privateContributions": 114,
+    "publicContributions": 519,
     "createdAt": "2022-03-04T14:14:45Z"
   },
   {
@@ -31,7 +31,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 22,
+    "privateContributions": 32,
     "publicContributions": 13,
     "createdAt": "2022-06-06T07:50:34Z"
   },
@@ -42,8 +42,8 @@
     "location": "Longyearbyen, Svalbard & Jan Mayen",
     "company": "Stereo Bee",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 170,
+    "followers": 7,
+    "privateContributions": 162,
     "publicContributions": 0,
     "createdAt": "2019-07-08T19:39:33Z"
   },
@@ -55,8 +55,8 @@
     "company": "Svalbard Integrated Arctic Earth Observing System (SIOS)",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 45,
-    "publicContributions": 49,
+    "privateContributions": 46,
+    "publicContributions": 59,
     "createdAt": "2019-08-12T23:14:18Z"
   },
   {
@@ -66,9 +66,9 @@
     "location": "Haarlem, Netherlands & Longyearbyen, Svalbard",
     "company": "@franksgrandtour",
     "twitterUsername": "",
-    "followers": 106,
-    "privateContributions": 118,
-    "publicContributions": 883,
+    "followers": 108,
+    "privateContributions": 78,
+    "publicContributions": 1069,
     "createdAt": "2017-01-09T11:42:28Z"
   },
   {
@@ -102,9 +102,9 @@
     "location": "Svalbard and Jan Mayen",
     "company": "of giants",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 140,
-    "publicContributions": 3,
+    "followers": 2,
+    "privateContributions": 168,
+    "publicContributions": 10,
     "createdAt": "2012-10-10T18:32:19Z"
   },
   {
@@ -116,7 +116,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 8,
     "createdAt": "2012-07-27T08:19:08Z"
   }
 ]

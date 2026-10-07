@@ -1,26 +1,14 @@
 [
   {
-    "login": "allaninfo-tech",
-    "name": "Allan .N",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262063102?s=72&u=f0f06b6d39d2491c27a7d781cf0440be5afad898&v=4",
-    "location": "Uganda",
-    "company": "@langratia ",
-    "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 2643,
-    "publicContributions": 223,
-    "createdAt": "2026-02-17T06:33:58Z"
-  },
-  {
     "login": "ekabotdev",
     "name": "ekabotdev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/271934460?s=72&u=0da4ee650532886d7ac7fb9cfe501d4162c82007&v=4",
     "location": "Kampala Uganda",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 53,
     "createdAt": "2026-03-29T09:46:42Z"
   },
   {
@@ -30,21 +18,21 @@
     "location": "KAMPALA, UGANDA",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 131,
-    "publicContributions": 555,
+    "followers": 17,
+    "privateContributions": 188,
+    "publicContributions": 684,
     "createdAt": "2026-01-27T19:30:34Z"
   },
   {
     "login": "nastylex",
     "name": "IEXC",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267043957?s=72&u=6d19812d1ee146eb0c01dd7bb4dbaa335958e7c8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267043957?s=72&u=8f269e81dfdaedd45858515cc0b55eff19861e5b&v=4",
     "location": "Uganda",
-    "company": "AirSPACEx",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 5,
-    "publicContributions": 225,
+    "company": "AERION",
+    "twitterUsername": "lakerleslie3",
+    "followers": 16,
+    "privateContributions": 3775,
+    "publicContributions": 312,
     "createdAt": "2026-03-10T13:11:37Z"
   },
   {
@@ -54,7 +42,7 @@
     "location": "IGANGA, UGANDA ",
     "company": "FANGONE FOREST",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2026-04-15T08:42:54Z"
@@ -78,7 +66,7 @@
     "location": "Kampala Uganda",
     "company": "Nation Media Group",
     "twitterUsername": "Jeydannsr",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2026-04-23T10:04:35Z"
@@ -90,7 +78,7 @@
     "location": "Uganda ",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 47,
     "createdAt": "2026-04-22T02:14:59Z"
@@ -102,7 +90,7 @@
     "location": "Kampala, Uganda",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 88,
     "createdAt": "2026-02-16T07:53:44Z"
@@ -134,25 +122,25 @@
   {
     "login": "floydtech256",
     "name": "Deo Gracious ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/251722179?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/251722179?s=72&u=36229ce4aba8e9f1669c09d45499cf16cb48fd6c&v=4",
     "location": "Kampala, Uganda 🇺🇬 ",
     "company": "Cavendish University Uganda (Student) ",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2025-12-27T11:26:02Z"
   },
   {
     "login": "joyw1-code",
-    "name": "Wabule Joy",
+    "name": "etoile_joy",
     "avatarUrl": "https://avatars.githubusercontent.com/u/279873343?s=72&u=d7af550c9821be62e7fab6dd53a55441574826f2&v=4",
     "location": "Kampala,Uganda ",
-    "company": "Makerere University Business School ",
+    "company": "Uganda Revenue Authority",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 8,
     "createdAt": "2026-04-28T00:38:34Z"
   },
   {
@@ -174,7 +162,7 @@
     "location": "Kampala, Uganda",
     "company": "",
     "twitterUsername": "oronosamuel",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 45,
     "createdAt": "2026-04-20T08:53:06Z"
@@ -188,7 +176,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 141,
     "createdAt": "2026-04-12T00:30:33Z"
   },
   {
@@ -198,7 +186,7 @@
     "location": "Uganda",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 77,
     "createdAt": "2026-03-03T12:40:47Z"
@@ -212,7 +200,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 169,
     "createdAt": "2026-02-12T13:23:16Z"
   },
   {
@@ -222,9 +210,9 @@
     "location": "Entebbe, Uganda",
     "company": "Groundbreaker Talents",
     "twitterUsername": "Tisha_patience",
-    "followers": 2,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 128,
     "createdAt": "2026-02-28T10:44:17Z"
   },
   {
@@ -235,8 +223,8 @@
     "company": "@Wellapath-org ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 131,
-    "publicContributions": 1511,
+    "privateContributions": 1621,
+    "publicContributions": 868,
     "createdAt": "2026-03-02T12:21:31Z"
   },
   {

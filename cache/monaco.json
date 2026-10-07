@@ -8,7 +8,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2026-02-02T13:39:05Z"
   },
   {
@@ -30,7 +30,7 @@
     "location": "Monaco",
     "company": "by himself",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-03-29T15:45:56Z"
@@ -54,7 +54,7 @@
     "location": "Monaco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-08T13:26:16Z"
@@ -66,9 +66,9 @@
     "location": "Monaco",
     "company": "Scribelia",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 19,
+    "followers": 2,
+    "privateContributions": 294,
+    "publicContributions": 21,
     "createdAt": "2025-11-03T16:34:44Z"
   },
   {
@@ -104,7 +104,7 @@
     "twitterUsername": "_Louis_A_",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 617,
+    "publicContributions": 624,
     "createdAt": "2024-06-04T11:54:15Z"
   },
   {
@@ -116,19 +116,19 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 8,
     "createdAt": "2024-10-30T04:00:03Z"
   },
   {
     "login": "linux-ur",
     "name": "Linux.user",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189643558?s=72&u=66e1eb6938622c00ea41a53ce35d8750887e5ca2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189643558?s=72&u=d6eddae41a13924f51276e98a4843d5e78a516c7&v=4",
     "location": "Monaco",
     "company": "xmx",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 517,
-    "publicContributions": 120,
+    "followers": 7,
+    "privateContributions": 29,
+    "publicContributions": 12,
     "createdAt": "2024-11-25T16:05:17Z"
   },
   {
@@ -150,7 +150,7 @@
     "location": "Monaco",
     "company": "MONACO DIGITAL",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-07-01T14:24:04Z"
@@ -234,9 +234,9 @@
     "location": "monaco",
     "company": "\"YeaWorks!\"",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 74,
     "createdAt": "2024-04-10T10:57:28Z"
   },
   {

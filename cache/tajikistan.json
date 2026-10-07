@@ -1,24 +1,12 @@
 [
   {
-    "login": "karimzade4444",
-    "name": "Karimzoda Mustafo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259140122?s=72&u=a3dd960d7f16d21334616e3227042f29a388ce67&v=4",
-    "location": "st. Ayni 48, Dushanbe, Tajikistan",
-    "company": "OOO \"TAKOM\"",
-    "twitterUsername": "",
-    "followers": 75,
-    "privateContributions": 56,
-    "publicContributions": 1021,
-    "createdAt": "2026-02-03T16:13:34Z"
-  },
-  {
     "login": "mnozilshoev-rgb",
     "name": "Muhammadjon",
     "avatarUrl": "https://avatars.githubusercontent.com/u/281970454?s=72&u=febe916211ae1663cc3bb62f4d60b2d13b06bb5f&v=4",
     "location": "Tajikistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 361,
     "createdAt": "2026-05-05T14:36:57Z"
@@ -31,20 +19,20 @@
     "company": "SoftClub",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 79,
+    "privateContributions": 1,
+    "publicContributions": 93,
     "createdAt": "2026-01-13T15:46:12Z"
   },
   {
     "login": "Ismatjonov",
     "name": "Bakhtovar Ismatjonov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/272197493?s=72&u=2bccfb5a416daf0435daf36d61b02f236eecd3e3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272197493?s=72&u=382639b6bb9b237351e7a9cce97305a3962ef8dd&v=4",
     "location": "Tajikistan, Khujand",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 31,
-    "publicContributions": 413,
+    "followers": 3,
+    "privateContributions": 34,
+    "publicContributions": 416,
     "createdAt": "2026-03-30T11:29:34Z"
   },
   {
@@ -80,7 +68,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 208,
+    "publicContributions": 219,
     "createdAt": "2026-03-05T13:24:13Z"
   },
   {
@@ -92,7 +80,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 25,
     "createdAt": "2026-01-27T11:21:11Z"
   },
   {
@@ -106,18 +94,6 @@
     "privateContributions": 0,
     "publicContributions": 177,
     "createdAt": "2026-01-05T13:23:55Z"
-  },
-  {
-    "login": "bobokalonovamalika17-boop",
-    "name": "Malika Bobokalonova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257163258?s=72&v=4",
-    "location": "Dushanbe, Tajikistan",
-    "company": "Alif Bank",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2026-01-25T18:53:39Z"
   },
   {
     "login": "toirzodaidibou-cmyk",
@@ -138,9 +114,9 @@
     "location": "Tajikistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 443,
     "createdAt": "2026-03-31T20:34:53Z"
   },
   {
@@ -152,7 +128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 299,
+    "publicContributions": 301,
     "createdAt": "2026-05-05T09:49:45Z"
   },
   {
@@ -182,13 +158,13 @@
   {
     "login": "Osaf-Abdulloev",
     "name": "Abdulloev Osaf",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253054357?s=72&u=193ec23e20061acac4400f0ada3ac7845b90f54a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253054357?s=72&u=525bf7bbad7846aedf9f943f851f65d62da0c7ff&v=4",
     "location": "Dushanbe",
     "company": "",
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 656,
+    "publicContributions": 658,
     "createdAt": "2026-01-05T11:52:29Z"
   },
   {
@@ -200,7 +176,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 225,
     "createdAt": "2026-01-13T06:24:36Z"
   },
   {
@@ -212,7 +188,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 217,
+    "publicContributions": 227,
     "createdAt": "2026-02-05T14:19:37Z"
   },
   {
@@ -222,7 +198,7 @@
     "location": "Dushanbe",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-03-07T19:42:28Z"
@@ -236,7 +212,7 @@
     "twitterUsername": "",
     "followers": 174,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 5,
     "createdAt": "2025-03-04T07:37:18Z"
   },
   {

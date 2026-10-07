@@ -3,11 +3,11 @@
     "login": "kaiste99",
     "name": "Stefan Kaiser",
     "avatarUrl": "https://avatars.githubusercontent.com/u/237565944?s=72&v=4",
-    "location": "Switzerland, Lithuania and sometime sGermany and Austria",
-    "company": "",
+    "location": "Switzerland, Lithuania and sometimes Germany and Austria",
+    "company": "baltx.com",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
+    "followers": 4,
+    "privateContributions": 246,
     "publicContributions": 8,
     "createdAt": "2025-10-12T10:38:23Z"
   },
@@ -18,9 +18,9 @@
     "location": "Schweiz",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1153,
+    "publicContributions": 1226,
     "createdAt": "2026-05-03T10:55:47Z"
   },
   {
@@ -98,13 +98,13 @@
   {
     "login": "DigiEmu",
     "name": "Bruno Baumgartner",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276366188?s=72&u=64566eece2cf8be27bcb8d201a0d34683f9a03c8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276366188?s=72&u=2297aefe1ba0dee152647d17ac57256f5677125e&v=4",
     "location": "Switzerland",
     "company": "Baumgartner Digital Infrastructure",
     "twitterUsername": "",
-    "followers": 38,
+    "followers": 93,
     "privateContributions": 0,
-    "publicContributions": 351,
+    "publicContributions": 414,
     "createdAt": "2026-04-15T17:12:35Z"
   },
   {
@@ -114,7 +114,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-23T12:56:55Z"
@@ -126,7 +126,7 @@
     "location": "Switzerland",
     "company": "Bugbunny",
     "twitterUsername": "bugbunny_ai",
-    "followers": 21,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2026-02-20T15:40:22Z"
@@ -138,7 +138,7 @@
     "location": "Geneva, Switzerland",
     "company": "@ProtonVPN",
     "twitterUsername": "ProtonVPN",
-    "followers": 15,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2025-12-28T00:31:00Z"
@@ -150,9 +150,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 8,
-    "publicContributions": 147,
+    "followers": 14,
+    "privateContributions": 9,
+    "publicContributions": 141,
     "createdAt": "2026-02-22T17:18:30Z"
   },
   {
@@ -162,7 +162,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-02-25T08:08:25Z"
@@ -176,7 +176,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 1404,
+    "publicContributions": 1428,
     "createdAt": "2026-02-10T13:11:32Z"
   },
   {
@@ -186,9 +186,9 @@
     "location": "Switzerland",
     "company": "PromptPartner.AI",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 204,
+    "publicContributions": 639,
     "createdAt": "2026-02-01T10:30:05Z"
   },
   {
@@ -200,7 +200,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 37,
     "createdAt": "2026-02-05T14:56:12Z"
   },
   {
@@ -211,8 +211,8 @@
     "company": "",
     "twitterUsername": "PostbyLee",
     "followers": 8,
-    "privateContributions": 230,
-    "publicContributions": 208,
+    "privateContributions": 922,
+    "publicContributions": 22,
     "createdAt": "2025-12-29T18:53:12Z"
   },
   {
@@ -222,9 +222,9 @@
     "location": "Switzerland",
     "company": "CryptoKRI GmbH",
     "twitterUsername": "moltrust",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 875,
+    "publicContributions": 1812,
     "createdAt": "2026-02-18T12:53:54Z"
   },
   {
@@ -234,7 +234,7 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-01-14T16:28:38Z"
@@ -289126,5 +289126,17 @@
     "privateContributions": 83,
     "publicContributions": 28,
     "createdAt": "2008-04-25T12:05:39Z"
+  },
+  {
+    "login": "timsoleskos",
+    "name": "Tim Soles Kos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/242661698?s=72&u=8668143fa87516568ebdc23a544f57956066bce2&v=4",
+    "location": "Zurich, Switzerland",
+    "company": "Cosylab",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2025-11-07T16:24:58Z"
   }
 ]

@@ -248,7 +248,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 133,
     "createdAt": "2026-02-21T17:03:57Z"
   },
   {
@@ -258,22 +258,10 @@
     "location": "Azerbaijan, Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 145,
+    "followers": 2,
+    "privateContributions": 195,
     "publicContributions": 28,
     "createdAt": "2026-05-11T08:07:21Z"
-  },
-  {
-    "login": "nijatethical",
-    "name": "Nijat Hasanzade",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259195891?s=72&u=d23014864618f0d2fb9f334bf397f77bc072dac1&v=4",
-    "location": "Azerbaijan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2026-02-03T21:03:18Z"
   },
   {
     "login": "avazazizov",
@@ -282,21 +270,21 @@
     "location": "Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 62,
     "createdAt": "2026-02-10T09:45:26Z"
   },
   {
     "login": "Y4533nAliyev",
     "name": "Yaseen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261489225?s=72&u=c6d2a1ebfebeb9f30ac0362fa0750c9b61568c18&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261489225?s=72&u=7fbe6c3e16e6c87a9e17c7c25ae1f21b3c92c92d&v=4",
     "location": "Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 56,
     "createdAt": "2026-02-13T18:38:35Z"
   },
   {
@@ -306,9 +294,9 @@
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 179,
+    "publicContributions": 188,
     "createdAt": "2026-02-12T17:52:17Z"
   },
   {
@@ -320,7 +308,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 58,
     "createdAt": "2026-02-25T16:46:38Z"
   },
   {
@@ -354,9 +342,9 @@
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 54,
     "createdAt": "2026-03-13T11:23:48Z"
   },
   {
@@ -366,9 +354,9 @@
     "location": "Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 22,
     "createdAt": "2026-05-01T09:43:54Z"
   },
   {
@@ -416,7 +404,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 115,
     "createdAt": "2026-02-22T10:43:48Z"
   },
   {
@@ -428,7 +416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 78,
     "createdAt": "2026-02-28T12:01:04Z"
   },
   {
@@ -462,9 +450,9 @@
     "location": "Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 59,
     "createdAt": "2026-03-16T12:10:35Z"
   },
   {
@@ -61066,5 +61054,197 @@
     "privateContributions": 4062,
     "publicContributions": 188,
     "createdAt": "2010-08-04T06:30:51Z"
+  },
+  {
+    "login": "poladai",
+    "name": "Polad Umudov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292026968?s=72&u=68e68afc58f9fd246e9b546430829f47a26a429e&v=4",
+    "location": "Baku, Azerbaijan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-09T07:24:33Z"
+  },
+  {
+    "login": "arazomarofh",
+    "name": "Araz Omarov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294471317?s=72&u=76cde0875eb16303bf34f8ffef494bffa7a9a897&v=4",
+    "location": "Azerbaijan, Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2026-06-17T10:18:49Z"
+  },
+  {
+    "login": "Aysel-Bayramova",
+    "name": "Aysel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289003592?s=72&v=4",
+    "location": "Sumgait, Azerbaijan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 324,
+    "createdAt": "2026-05-29T16:48:33Z"
+  },
+  {
+    "login": "shoriufoundation",
+    "name": "Shoriu Foundation",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289049522?s=72&u=ff58e8e7229ab3dbdcf0896b40b0fada946501e8&v=4",
+    "location": "Azerbaijan, Baku",
+    "company": "Shoriu Foundation",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2026-05-29T20:28:33Z"
+  },
+  {
+    "login": "odxnoj-sh",
+    "name": "odxnoj.c",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296565848?s=72&u=a8669990ed1b820d404fb6338ec0d17ee468d507&v=4",
+    "location": "azerbaijan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-06-24T15:54:18Z"
+  },
+  {
+    "login": "zahraeldarovaa",
+    "name": "Zahra Eldarova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296299228?s=72&v=4",
+    "location": "Azerbaijan, Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2026-06-23T21:03:39Z"
+  },
+  {
+    "login": "nnorman95",
+    "name": "NORMAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292279233?s=72&u=b67a563d960c692307ccf23a901d3554915b171b&v=4",
+    "location": "Baku, Azerbaijan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 298,
+    "createdAt": "2026-06-10T00:54:17Z"
+  },
+  {
+    "login": "mahdifahimi069-droid",
+    "name": "Yashar+",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288300370?s=72&u=8d80ff5be9a7bdb07eb3a32226b1ae9a5bd0c937&v=4",
+    "location": "Azerbaijan ",
+    "company": "Yasham Plus ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-05-27T11:15:28Z"
+  },
+  {
+    "login": "nabivigunel",
+    "name": "Gunel Nabivi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296862791?s=72&u=46a04ce27964a5cd89a2d8a933206c9112664c6f&v=4",
+    "location": "Baku, Azerbaijan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-06-25T11:50:08Z"
+  },
+  {
+    "login": "younnes-py",
+    "name": "younnes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292689059?s=72&u=eaecdd5978af450795a8f75898d049c5ed40ead4&v=4",
+    "location": "Azerbaijan",
+    "company": "@NexusMind",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-06-11T06:45:00Z"
+  },
+  {
+    "login": "fatimaismayilova-121",
+    "name": "Fatima Ismayilova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296479902?s=72&v=4",
+    "location": "Baku, Azerbaijan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-24T11:36:55Z"
+  },
+  {
+    "login": "opensf90",
+    "name": "OpenSF90",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295858403?s=72&u=1d2c5641ed5460f87d73a342ef6a59ffaef96d3a&v=4",
+    "location": "Baku, Azerbaijan",
+    "company": "OpenSF90",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-22T13:10:23Z"
+  },
+  {
+    "login": "fatimatalibova0",
+    "name": "Fatima Talibova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296244947?s=72&u=0b3ef4b9db08037986e8fdcefb1b02a0532ff1ca&v=4",
+    "location": "Azerbaijan/Khirdalan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-23T17:31:39Z"
+  },
+  {
+    "login": "elvinasgar",
+    "name": "Elvin Asgar ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284774609?s=72&u=0a57d29a4fe4a8865cf3f4ae85e4ad01ac4bda93&v=4",
+    "location": "Baku, Azerbaijan ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 590,
+    "createdAt": "2026-05-14T20:27:08Z"
+  },
+  {
+    "login": "RetakJunior",
+    "name": "İbrahim Rehmanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286297808?s=72&u=569578ee4ae0daa598594d8383f77f40a0d10b5b&v=4",
+    "location": "Azerbaijan/Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 78,
+    "createdAt": "2026-05-20T10:03:32Z"
+  },
+  {
+    "login": "1zeynev",
+    "name": "zeyn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295428124?s=72&v=4",
+    "location": "Azerbaijan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-20T18:24:52Z"
   }
 ]

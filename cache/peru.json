@@ -6,7 +6,7 @@
     "location": "Lima, Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 123,
     "createdAt": "2026-02-02T15:41:43Z"
@@ -18,9 +18,9 @@
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 8,
+    "followers": 12,
+    "privateContributions": 69,
+    "publicContributions": 7,
     "createdAt": "2026-02-01T05:17:28Z"
   },
   {
@@ -30,7 +30,7 @@
     "location": "Ancash, Peru.",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2026-01-07T13:08:50Z"
@@ -42,9 +42,9 @@
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 153,
     "createdAt": "2026-02-16T06:17:37Z"
   },
   {
@@ -55,7 +55,7 @@
     "company": "Freelance",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 300,
+    "privateContributions": 403,
     "publicContributions": 7,
     "createdAt": "2026-04-04T21:44:03Z"
   },
@@ -114,9 +114,9 @@
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 49,
     "createdAt": "2026-03-03T01:00:24Z"
   },
   {
@@ -128,7 +128,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 41,
     "createdAt": "2026-05-04T03:43:24Z"
   },
   {
@@ -151,8 +151,8 @@
     "company": "FreeLancer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 133,
-    "publicContributions": 11,
+    "privateContributions": 122,
+    "publicContributions": 5,
     "createdAt": "2026-02-19T15:38:48Z"
   },
   {
@@ -168,18 +168,6 @@
     "createdAt": "2026-04-10T16:56:36Z"
   },
   {
-    "login": "AgenticEvolution",
-    "name": "Lucas Piety",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270236327?s=72&v=4",
-    "location": "Peru, Indiana",
-    "company": "Maestro University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-23T02:16:49Z"
-  },
-  {
     "login": "csh-utec",
     "name": "CSH",
     "avatarUrl": "https://avatars.githubusercontent.com/u/265676430?s=72&u=050b77b888e093a76cbcadd271e75bc01d6e0340&v=4",
@@ -188,7 +176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 2,
     "createdAt": "2026-03-05T00:55:14Z"
   },
   {
@@ -200,7 +188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 35,
     "createdAt": "2026-03-23T13:43:07Z"
   },
   {
@@ -236,7 +224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 55,
     "createdAt": "2026-04-03T23:00:56Z"
   },
   {

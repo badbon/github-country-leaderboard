@@ -4,11 +4,11 @@
     "name": "Linus C.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/99459701?s=72&u=2cba224a694fdc798a82ebd4559d28e26601f5bc&v=4",
     "location": "Singapore",
-    "company": "",
+    "company": "Nanyang Technological University",
     "twitterUsername": "linusc9516",
-    "followers": 23,
-    "privateContributions": 160,
-    "publicContributions": 25,
+    "followers": 24,
+    "privateContributions": 139,
+    "publicContributions": 108,
     "createdAt": "2022-02-11T03:21:15Z"
   },
   {
@@ -20,7 +20,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2026-02-27T09:36:09Z"
   },
   {
@@ -42,7 +42,7 @@
     "location": "Singapore",
     "company": "Candora",
     "twitterUsername": "",
-    "followers": 795,
+    "followers": 789,
     "privateContributions": 812,
     "publicContributions": 4,
     "createdAt": "2026-03-21T18:00:52Z"
@@ -54,22 +54,10 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2026-01-24T10:35:22Z"
-  },
-  {
-    "login": "evokoa-admin",
-    "name": "Evokoa Admin Account",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254627045?s=72&u=44ca147410f403777152f67939f3ba9cb5a92a68&v=4",
-    "location": "Singapore",
-    "company": "Evokoa",
-    "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 0,
-    "publicContributions": 522,
-    "createdAt": "2026-01-13T07:40:57Z"
   },
   {
     "login": "TickDB",
@@ -78,9 +66,9 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 83,
     "createdAt": "2025-12-31T05:43:02Z"
   },
   {
@@ -90,7 +78,7 @@
     "location": "10 KAKI BUKIT ROAD 2, #01-36, FIRST EAST CENTRE, SINGAPORE 417868",
     "company": "TOCOAI PTE. LTD.",
     "twitterUsername": "TocoAI",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 87,
     "createdAt": "2026-02-26T02:18:03Z"
@@ -102,9 +90,9 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "danieltrandev",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 47,
     "createdAt": "2026-05-07T13:49:41Z"
   },
   {
@@ -114,7 +102,7 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2026-03-29T10:34:47Z"
@@ -126,9 +114,9 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "Jesse_Sng",
-    "followers": 13,
-    "privateContributions": 1160,
-    "publicContributions": 150,
+    "followers": 10,
+    "privateContributions": 2068,
+    "publicContributions": 176,
     "createdAt": "2026-01-10T13:13:00Z"
   },
   {
@@ -150,7 +138,7 @@
     "location": "Singapore",
     "company": "@Tetrixx-SG",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-09T02:36:24Z"
@@ -174,7 +162,7 @@
     "location": "Singapore",
     "company": "@Tetrixx-SG",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-03-09T02:36:01Z"
@@ -210,34 +198,10 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 26,
+    "followers": 8,
+    "privateContributions": 30,
     "publicContributions": 12,
     "createdAt": "2026-03-03T09:37:46Z"
-  },
-  {
-    "login": "ma1zeryu",
-    "name": "玉米排骨汤",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/265548349?s=72&u=5d57e71edf2bdccbb9b9e62e10a95e16d1c8c1e9&v=4",
-    "location": "Singapore",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 200,
-    "createdAt": "2026-03-04T13:57:21Z"
-  },
-  {
-    "login": "AxonOS-BCI",
-    "name": "Denis Yermakou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255101647?s=72&u=34a85b812973fa0e6cd3bcb399fd34ad8915d973&v=4",
-    "location": "Singapore",
-    "company": "AxonOS",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 156,
-    "publicContributions": 1156,
-    "createdAt": "2026-01-15T10:43:12Z"
   },
   {
     "login": "Catsium",

@@ -1,7 +1,7 @@
 [
   {
     "login": "XICANO88",
-    "name": "",
+    "name": "XICANO",
     "avatarUrl": "https://avatars.githubusercontent.com/u/271151455?s=72&u=399c649019874877e59d380bde5c0745a4991247&v=4",
     "location": "Guarda-Iliheu, East Timor",
     "company": "",
@@ -44,19 +44,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 14,
     "createdAt": "2026-02-22T02:21:48Z"
   },
   {
     "login": "abindacarmo",
     "name": "Brigida de Carvalho Carmo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216846468?s=72&u=cf2e158357d2824a7809bed9351c6915f3e6db83&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216846468?s=72&u=023205570b82e6e0470a31e1a05d62faf6e685f8&v=4",
     "location": "Timor-Leste",
-    "company": "",
+    "company": "UNTL",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 685,
+    "publicContributions": 826,
     "createdAt": "2025-06-18T07:45:01Z"
   },
   {
@@ -67,21 +67,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 130,
-    "publicContributions": 169,
+    "privateContributions": 143,
+    "publicContributions": 184,
     "createdAt": "2025-05-11T12:38:04Z"
-  },
-  {
-    "login": "juliao-martins-dev",
-    "name": "Julião Martins",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/240831788?s=72&u=f93e08f30d29df776a227f5ff31f5bb4bde3af08&v=4",
-    "location": "Dili, Timor-Leste",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 874,
-    "createdAt": "2025-10-29T02:55:31Z"
   },
   {
     "login": "JtnewtrongRental",
@@ -102,7 +90,7 @@
     "location": "Dili, Timor-Leste",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2025-03-13T15:51:38Z"
@@ -116,7 +104,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 16,
     "createdAt": "2025-08-25T13:29:44Z"
   },
   {
@@ -150,9 +138,9 @@
     "location": "Timor Leste ",
     "company": "",
     "twitterUsername": "",
-    "followers": 39,
-    "privateContributions": 207,
-    "publicContributions": 1166,
+    "followers": 34,
+    "privateContributions": 404,
+    "publicContributions": 1195,
     "createdAt": "2024-03-06T12:23:20Z"
   },
   {
@@ -162,7 +150,7 @@
     "location": "Dili, Timor-Leste 🇹🇱",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 68,
     "createdAt": "2024-06-05T06:24:49Z"
@@ -174,9 +162,9 @@
     "location": "Dili",
     "company": "UNTL",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 26,
     "createdAt": "2024-01-04T11:43:15Z"
   },
   {
@@ -222,9 +210,9 @@
     "location": "Timor-Leste",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 110,
     "createdAt": "2023-08-25T14:00:43Z"
   },
   {

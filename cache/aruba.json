@@ -236,7 +236,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 28,
     "createdAt": "2017-02-07T18:23:23Z"
   },
   {
@@ -296,7 +296,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 487,
+    "publicContributions": 576,
     "createdAt": "2015-01-23T10:46:11Z"
   },
   {
@@ -320,7 +320,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 102,
     "createdAt": "2015-10-19T12:16:13Z"
   },
   {
@@ -342,9 +342,9 @@
     "location": "Aruba",
     "company": "wdms",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 48,
     "createdAt": "2014-01-04T12:05:07Z"
   },
   {
@@ -356,19 +356,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 268,
+    "publicContributions": 201,
     "createdAt": "2014-10-25T19:07:43Z"
   },
   {
     "login": "Vortex93",
     "name": "Derwin Tromp",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10325225?s=72&u=5012c62f7de37c5732ecbfbed03b67a7c9edbe01&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10325225?s=72&u=dfe1de56cfc0f4aa5ace2f3ba71f053a64a65729&v=4",
     "location": "Oranjestad, Aruba",
     "company": "AIB, UTwente",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 51,
     "createdAt": "2014-12-27T19:01:20Z"
   },
   {
@@ -403,8 +403,8 @@
     "company": "",
     "twitterUsername": "flacle",
     "followers": 7,
-    "privateContributions": 521,
-    "publicContributions": 29,
+    "privateContributions": 531,
+    "publicContributions": 30,
     "createdAt": "2013-04-19T21:17:18Z"
   },
   {
@@ -414,7 +414,7 @@
     "location": "Aruba",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-04-11T03:18:49Z"

@@ -19,8 +19,8 @@
     "company": "MM somtech",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 33,
-    "publicContributions": 149,
+    "privateContributions": 35,
+    "publicContributions": 231,
     "createdAt": "2026-01-19T16:44:52Z"
   },
   {
@@ -30,9 +30,9 @@
     "location": "Somalia, & UK. ",
     "company": "Pathway Solutions",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 64,
     "createdAt": "2026-03-31T16:34:37Z"
   },
   {
@@ -54,7 +54,7 @@
     "location": "Somalia ",
     "company": "Sahan Technology",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 44,
     "createdAt": "2026-04-06T09:26:20Z"
@@ -92,7 +92,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 23,
     "createdAt": "2026-02-05T20:12:59Z"
   },
   {
@@ -150,9 +150,9 @@
     "location": "Somalia",
     "company": "",
     "twitterUsername": "sakijamaa",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 169,
+    "followers": 4,
+    "privateContributions": 1,
+    "publicContributions": 188,
     "createdAt": "2026-04-13T07:17:59Z"
   },
   {
@@ -192,33 +192,21 @@
     "createdAt": "2025-12-29T06:34:01Z"
   },
   {
-    "login": "h-kahie",
-    "name": "Eng Hassan BIlle Hassan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259487163?s=72&u=13808792cd5249f0490b58274c55fefb97325381&v=4",
-    "location": "somalia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 64,
-    "createdAt": "2026-02-05T03:26:31Z"
-  },
-  {
     "login": "abdikani7",
     "name": "Abdikani Ahmed",
     "avatarUrl": "https://avatars.githubusercontent.com/u/266297475?s=72&u=216465cd05e804352ba8a5d0c5d30097b36f1ab6&v=4",
     "location": "Mogadishu, Somalia",
     "company": "UNISO (Student)",
     "twitterUsername": "abdikani_77",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 66,
     "createdAt": "2026-03-07T13:16:58Z"
   },
   {
     "login": "siiv-group",
     "name": "siiv group company",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270614480?s=72&u=7ddaf9a36860870a61d5fee6b42f6cdc72834340&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270614480?s=72&u=ef07fbc3d9d00376f1fe13086a700b2b0e603f61&v=4",
     "location": "mogadishu",
     "company": "technology company",
     "twitterUsername": "",

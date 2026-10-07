@@ -248,7 +248,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 10,
     "createdAt": "2026-04-19T04:35:53Z"
   },
   {
@@ -282,7 +282,7 @@
     "location": "Kabul, Afghanistan",
     "company": "Computer Science Student",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2026-04-04T09:10:27Z"
@@ -324,15 +324,15 @@
     "createdAt": "2026-04-15T05:32:47Z"
   },
   {
-    "login": "MeerHamzaHotak",
+    "login": "meerhamzahotak",
     "name": "Meer Hamza Hotak",
     "avatarUrl": "https://avatars.githubusercontent.com/u/276155166?s=72&u=b45977ef0ff86a6a24a20620e608f981f787a967&v=4",
     "location": "Kabul, Afghanistan",
-    "company": "AIVO",
-    "twitterUsername": "MeerhamzaHotak0",
+    "company": "",
+    "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2026-04-15T01:59:24Z"
   },
   {
@@ -356,7 +356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 153,
     "createdAt": "2026-03-09T09:08:06Z"
   },
   {
@@ -404,7 +404,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 137,
     "createdAt": "2026-01-28T05:47:10Z"
   },
   {
@@ -416,7 +416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 10,
     "createdAt": "2026-01-08T17:49:15Z"
   },
   {
@@ -462,9 +462,9 @@
     "location": "Kabul, Afghanistan 🇦🇫",
     "company": "",
     "twitterUsername": "Lima__Dev",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 84,
     "createdAt": "2026-02-09T06:26:52Z"
   },
   {
