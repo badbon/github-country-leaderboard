@@ -716,20 +716,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 43,
     "createdAt": "2025-09-02T15:36:23Z"
-  },
-  {
-    "login": "pingkscodelabs",
-    "name": "Kashif Shoukat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/235110340?s=72&v=4",
-    "location": "Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 42,
-    "createdAt": "2025-09-29T13:09:50Z"
   },
   {
     "login": "Pelmanis420",
@@ -738,7 +726,7 @@
     "location": "Latvia",
     "company": "Sheribu Studio",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2025-03-23T13:25:34Z"
@@ -764,7 +752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 22,
     "createdAt": "2025-07-16T12:31:42Z"
   },
   {
@@ -780,30 +768,6 @@
     "createdAt": "2025-04-02T07:31:46Z"
   },
   {
-    "login": "Tuncaylctr",
-    "name": "Tunjay Huseynov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198288844?s=72&u=75d4ef0a2b2e529669aa603e62c1dc2717abf836&v=4",
-    "location": "Riga,Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 94,
-    "publicContributions": 182,
-    "createdAt": "2025-02-08T01:22:46Z"
-  },
-  {
-    "login": "devodrag",
-    "name": "swift.lose",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/226704466?s=72&u=db9af829dd888ce60362fe7703213f9c65013a43&v=4",
-    "location": "Latvia",
-    "company": "devo.co",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 184,
-    "createdAt": "2025-08-15T12:14:16Z"
-  },
-  {
     "login": "MYoussef11",
     "name": "Marawan Youssef",
     "avatarUrl": "https://avatars.githubusercontent.com/u/203845868?s=72&u=5f62f9d34525620d5232e824ea8fb0e7489dbb3c&v=4",
@@ -812,19 +776,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 37,
     "createdAt": "2025-03-18T12:38:32Z"
   },
   {
     "login": "sandriskozubs",
     "name": "Sandris",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/241190685?s=72&u=be6545b080ea37d979e05a055abda39fb89216a8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/241190685?s=72&u=0b2708e2eb4a00e8dc53ec8ac44b78482a10e61f&v=4",
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 68,
     "createdAt": "2025-10-30T19:39:57Z"
   },
   {
@@ -834,9 +798,9 @@
     "location": "Latvia, Rīga. ",
     "company": "",
     "twitterUsername": "Shot_ctrl",
-    "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 1,
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2025-04-08T05:36:09Z"
   },
   {
@@ -847,8 +811,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 22,
+    "privateContributions": 6,
+    "publicContributions": 21,
     "createdAt": "2025-09-04T19:34:46Z"
   },
   {
@@ -860,7 +824,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 189,
+    "publicContributions": 147,
     "createdAt": "2025-03-16T16:51:22Z"
   },
   {
@@ -884,7 +848,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 63,
     "createdAt": "2025-09-12T05:08:13Z"
   },
   {
@@ -908,7 +872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-18T18:01:17Z"
   },
   {
@@ -918,9 +882,9 @@
     "location": "Riga, Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 6,
     "createdAt": "2025-09-24T11:31:34Z"
   },
   {
@@ -932,7 +896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 47,
     "createdAt": "2025-06-17T19:08:49Z"
   },
   {
@@ -39454,5 +39418,77 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2008-09-30T16:31:49Z"
+  },
+  {
+    "login": "kreelsky",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289245431?s=72&u=cb8e93b8fce064cc547c1d4deedcfb5452c59456&v=4",
+    "location": "Latvia",
+    "company": "Laff DM",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-05-30T16:55:41Z"
+  },
+  {
+    "login": "hasanhorecarentable",
+    "name": "Hasan Abdullazade",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288067737?s=72&u=475da3ad445bf3210e03fe963664cc78a9554f3c&v=4",
+    "location": "Riga, Latvia",
+    "company": "HoreCarentable",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 40,
+    "publicContributions": 7,
+    "createdAt": "2026-05-26T15:48:28Z"
+  },
+  {
+    "login": "awesometanukilover",
+    "name": "Linuks Darwin Kernel Larp",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295630489?s=72&u=e48b40acda9daaf17e6c78dfdf2f47df11bee20f&v=4",
+    "location": "Latvia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-06-21T16:30:30Z"
+  },
+  {
+    "login": "daviitisg",
+    "name": "daviitis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294747555?s=72&u=23751c9db6d8258a86136636537c911490d1c753&v=4",
+    "location": "Riga, Latvia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-18T08:04:38Z"
+  },
+  {
+    "login": "tomslazo",
+    "name": "Toms Lāzo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292732204?s=72&u=b0a1f9821af74aefb781979e2b489050905d1c22&v=4",
+    "location": "Riga, Latvia",
+    "company": "@request-lv",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 37,
+    "publicContributions": 3,
+    "createdAt": "2026-06-11T09:21:49Z"
+  },
+  {
+    "login": "cyberkristaps",
+    "name": "Kristaps Kozlovskis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294281149?s=72&u=5eff48b6bab8348d7da78541b83ebf9737ac7689&v=4",
+    "location": "Liepaja, Latvia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 451,
+    "publicContributions": 1,
+    "createdAt": "2026-06-16T18:31:34Z"
   }
 ]

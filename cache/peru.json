@@ -908,7 +908,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 90,
     "createdAt": "2025-08-26T23:38:35Z"
   },
   {
@@ -918,9 +918,9 @@
     "location": "Peru",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1595,
+    "publicContributions": 1496,
     "createdAt": "2025-07-21T05:09:01Z"
   },
   {
@@ -930,9 +930,9 @@
     "location": "Lima, Peru",
     "company": "",
     "twitterUsername": "sun_suntime",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 168,
     "createdAt": "2025-02-03T23:49:52Z"
   },
   {
@@ -943,20 +943,20 @@
     "company": "@utec",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 30,
-    "publicContributions": 478,
+    "privateContributions": 42,
+    "publicContributions": 463,
     "createdAt": "2025-06-27T15:42:24Z"
   },
   {
     "login": "anthony-yt",
     "name": "Anthony Yucra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/234955892?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234955892?s=72&u=afa0288a18be57cf1018fa6dfd2c132e1935b1ac&v=4",
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 70,
-    "publicContributions": 46,
+    "followers": 4,
+    "privateContributions": 134,
+    "publicContributions": 64,
     "createdAt": "2025-09-28T16:20:43Z"
   },
   {
@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 3,
     "createdAt": "2025-06-24T03:26:33Z"
   },
   {
@@ -978,7 +978,7 @@
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 70,
     "createdAt": "2025-02-18T03:40:27Z"
@@ -1002,9 +1002,9 @@
     "location": "Peru, Lima",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 63,
     "createdAt": "2025-07-04T13:38:58Z"
   },
   {
@@ -1016,7 +1016,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-08-19T14:48:08Z"
   },
   {
@@ -1028,20 +1028,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-03-21T03:40:13Z"
-  },
-  {
-    "login": "JDRV-space",
-    "name": "JDRV",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229216087?s=72&u=2c581159398f19334c37d41dc1a6247b71d07e62&v=4",
-    "location": "Peru",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1701,
-    "publicContributions": 158,
-    "createdAt": "2025-08-28T21:21:53Z"
   },
   {
     "login": "FaridChavez67",
@@ -1052,7 +1040,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-26T04:13:24Z"
   },
   {
@@ -1062,9 +1050,9 @@
     "location": "Lima. Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 39,
-    "publicContributions": 58,
+    "followers": 3,
+    "privateContributions": 46,
+    "publicContributions": 57,
     "createdAt": "2025-02-02T03:04:09Z"
   },
   {
@@ -1076,7 +1064,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 61,
     "createdAt": "2025-08-30T20:15:38Z"
   },
   {
@@ -1086,9 +1074,9 @@
     "location": "Lima, Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 9,
     "createdAt": "2025-01-01T12:15:20Z"
   },
   {
@@ -1098,9 +1086,9 @@
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 55,
     "createdAt": "2025-02-18T23:41:25Z"
   },
   {
@@ -1112,7 +1100,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 88,
     "createdAt": "2025-08-14T20:04:10Z"
   },
   {
@@ -1124,7 +1112,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 31,
     "createdAt": "2025-06-23T21:01:33Z"
   },
   {
@@ -1134,7 +1122,7 @@
     "location": "LIMA-PERU",
     "company": "UTP",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-04T22:26:06Z"

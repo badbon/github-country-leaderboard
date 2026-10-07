@@ -756,18 +756,6 @@
     "createdAt": "2017-12-02T11:02:49Z"
   },
   {
-    "login": "TheMightyDuckOfDoom",
-    "name": "Tobias Senti",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/28308035?s=72&u=980de8928c58c226089fa4e9aa0fd3af1dad73d3&v=4",
-    "location": "Schaanwald, Liechtenstein",
-    "company": "ETH Zürich",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 105,
-    "publicContributions": 137,
-    "createdAt": "2017-05-02T16:29:02Z"
-  },
-  {
     "login": "marxemat",
     "name": "Mathias M.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/34583234?s=72&u=fee944aae2cd133f5743509e3ece354ccb9e61f3&v=4",
@@ -828,18 +816,6 @@
     "createdAt": "2017-11-09T14:18:30Z"
   },
   {
-    "login": "QVllasa",
-    "name": "Qendrim Vllasa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33502051?s=72&u=bba9f9fbafc65d094b570b954532fa6111ad8b01&v=4",
-    "location": "Eschen, Liechtenstein",
-    "company": "Thyssenkrupp Presta AG",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 26,
-    "createdAt": "2017-11-09T00:07:06Z"
-  },
-  {
     "login": "sap4all-live",
     "name": "Dirk Marquardt",
     "avatarUrl": "https://avatars.githubusercontent.com/u/29507076?s=72&u=9b2264edeb46d0d0a30e30f4608cf1e72676071d&v=4",
@@ -872,7 +848,7 @@
     "twitterUsername": "rogerherger",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2017-04-30T09:38:28Z"
   },
   {
@@ -882,8 +858,8 @@
     "location": "Vaduz",
     "company": "BICon",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 979,
+    "followers": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-11-13T16:58:57Z"
   },
@@ -894,9 +870,9 @@
     "location": "Liechtenstein",
     "company": "@theplatformengineeringcompany",
     "twitterUsername": "FrickNiklas",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 1035,
+    "publicContributions": 1157,
     "createdAt": "2016-05-21T19:51:57Z"
   },
   {
@@ -906,8 +882,8 @@
     "location": "Liechtenstein",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 95,
+    "followers": 1,
+    "privateContributions": 150,
     "publicContributions": 179,
     "createdAt": "2016-11-07T16:06:31Z"
   },
@@ -919,8 +895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 11,
-    "publicContributions": 43,
+    "privateContributions": 0,
+    "publicContributions": 33,
     "createdAt": "2016-03-18T15:31:30Z"
   },
   {
@@ -942,9 +918,9 @@
     "location": "Liechtenstein",
     "company": "NTi Audio AG",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 99,
     "createdAt": "2016-01-10T17:27:55Z"
   },
   {

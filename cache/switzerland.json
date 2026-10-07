@@ -289150,5 +289150,29 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2025-08-27T16:24:09Z"
+  },
+  {
+    "login": "TheMightyDuckOfDoom",
+    "name": "Tobias Senti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28308035?s=72&u=980de8928c58c226089fa4e9aa0fd3af1dad73d3&v=4",
+    "location": "Zurich, Switzerland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 105,
+    "publicContributions": 107,
+    "createdAt": "2017-05-02T16:29:02Z"
+  },
+  {
+    "login": "QVllasa",
+    "name": "Qendrim Vllasa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33502051?s=72&u=bba9f9fbafc65d094b570b954532fa6111ad8b01&v=4",
+    "location": "Kreuzlingen, Switzerland",
+    "company": "ThyssenKrupp Presta · möbelguru",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 8009,
+    "publicContributions": 125,
+    "createdAt": "2017-11-09T00:07:06Z"
   }
 ]

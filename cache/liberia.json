@@ -920,7 +920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 4,
     "createdAt": "2022-11-06T12:36:00Z"
   },
   {
@@ -932,7 +932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 30,
     "createdAt": "2022-10-06T14:35:25Z"
   },
   {
@@ -966,7 +966,7 @@
     "location": "Sinkor Airfiel Monrovia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-01T13:33:28Z"
@@ -979,7 +979,7 @@
     "company": "",
     "twitterUsername": "decaliio",
     "followers": 5,
-    "privateContributions": 4,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2022-04-29T19:11:59Z"
   },
@@ -992,7 +992,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 4,
     "createdAt": "2022-01-19T08:51:53Z"
   },
   {
@@ -1004,7 +1004,7 @@
     "twitterUsername": "nexdata_ai",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 117,
     "createdAt": "2022-06-08T08:28:24Z"
   },
   {
@@ -1015,8 +1015,8 @@
     "company": "",
     "twitterUsername": "WilliamTJohns15",
     "followers": 1,
-    "privateContributions": 177,
-    "publicContributions": 138,
+    "privateContributions": 162,
+    "publicContributions": 93,
     "createdAt": "2022-09-15T21:52:58Z"
   },
   {
@@ -1026,9 +1026,9 @@
     "location": " Monrovia Liberia. West Africa",
     "company": "@SparkSolutionsLib | @JesTech-Liberia",
     "twitterUsername": "nimelythegreat",
-    "followers": 167,
-    "privateContributions": 332,
-    "publicContributions": 132,
+    "followers": 161,
+    "privateContributions": 343,
+    "publicContributions": 104,
     "createdAt": "2021-03-26T15:13:02Z"
   },
   {
@@ -1039,8 +1039,8 @@
     "company": "Student - Starz University Liberia ",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 104,
-    "publicContributions": 179,
+    "privateContributions": 94,
+    "publicContributions": 82,
     "createdAt": "2021-09-03T15:27:15Z"
   },
   {
@@ -1052,7 +1052,7 @@
     "twitterUsername": "0tarnue",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2021-06-04T14:18:29Z"
   },
   {
@@ -1076,7 +1076,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 19,
     "createdAt": "2021-02-25T19:33:55Z"
   },
   {
@@ -1088,7 +1088,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2021-09-24T16:54:49Z"
   },
   {
@@ -1099,7 +1099,7 @@
     "company": "Guaranty Trust Bank Liberia (Limited)",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 273,
+    "privateContributions": 269,
     "publicContributions": 12,
     "createdAt": "2021-04-13T14:14:03Z"
   },
@@ -1112,7 +1112,7 @@
     "twitterUsername": "JessesUkaegbu",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 85,
     "createdAt": "2021-06-09T15:22:34Z"
   },
   {
@@ -1124,7 +1124,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 199,
+    "publicContributions": 143,
     "createdAt": "2021-09-14T21:16:42Z"
   },
   {
@@ -1135,8 +1135,8 @@
     "company": "Exaly Interactive",
     "twitterUsername": "jameseholder",
     "followers": 2,
-    "privateContributions": 135,
-    "publicContributions": 7,
+    "privateContributions": 235,
+    "publicContributions": 8,
     "createdAt": "2021-05-11T07:56:32Z"
   },
   {
@@ -2494,5 +2494,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-03-25T23:50:16Z"
+  },
+  {
+    "login": "Edouble01",
+    "name": "Emmanuel Khalifa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289409814?s=72&u=d7d332a45bce3babd7ac13da78f9d7e794609707&v=4",
+    "location": "Liberia",
+    "company": "Pinnacle IT Consultancy",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 12,
+    "publicContributions": 51,
+    "createdAt": "2026-05-31T12:51:41Z"
+  },
+  {
+    "login": "Beyslow",
+    "name": "Eric A. Beyslow",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288168409?s=72&u=a7a6ffbaadfeb934ce560b881c6148f075aab48e&v=4",
+    "location": "Monrovia, Liberia",
+    "company": "Africode",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-05-27T00:22:25Z"
+  },
+  {
+    "login": "fmulbahzig-debug",
+    "name": "F. Mulbah Zig Forkpa, Jr.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284439002?s=72&v=4",
+    "location": "Monrovia, Liberia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2026-05-13T20:40:50Z"
+  },
+  {
+    "login": "FavorTour2-coder",
+    "name": "Favor Tour",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285740698?s=72&u=11646efebe6c1a545b1581b701adf64cfbd77749&v=4",
+    "location": "Monrovia Liberia ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-05-18T15:35:09Z"
   }
 ]

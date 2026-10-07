@@ -930,9 +930,9 @@
     "location": "Réunion Island",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 39,
     "createdAt": "2017-04-12T15:53:13Z"
   },
   {
@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2017-01-04T13:28:35Z"
   },
   {
@@ -956,7 +956,7 @@
     "twitterUsername": "_DuCRAFT_",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2017-03-30T14:42:55Z"
   },
   {
@@ -967,7 +967,7 @@
     "company": "wiboodigital",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
+    "privateContributions": 500,
     "publicContributions": 0,
     "createdAt": "2017-05-03T18:28:11Z"
   },
@@ -991,7 +991,7 @@
     "company": "ESIROI",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 20,
+    "privateContributions": 6,
     "publicContributions": 5,
     "createdAt": "2017-11-14T05:17:44Z"
   },
@@ -1000,11 +1000,11 @@
     "name": "Raphaël Auberlet",
     "avatarUrl": "https://avatars.githubusercontent.com/u/29256002?s=72&u=50940767e15a509ae168a0ceedb065cba1f87505&v=4",
     "location": "Réunion Island",
-    "company": "6kreation",
+    "company": "Nashi.cloud",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1212,
-    "publicContributions": 83,
+    "privateContributions": 1732,
+    "publicContributions": 308,
     "createdAt": "2017-06-07T14:23:57Z"
   },
   {
@@ -1026,9 +1026,9 @@
     "location": "Seine-Saint-Denis",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 47,
     "createdAt": "2017-10-25T11:14:32Z"
   },
   {
@@ -1039,7 +1039,7 @@
     "company": "@clauzier-dev ",
     "twitterUsername": "0x346e3730",
     "followers": 23,
-    "privateContributions": 276,
+    "privateContributions": 271,
     "publicContributions": 15,
     "createdAt": "2017-05-16T12:24:49Z"
   },
@@ -1052,7 +1052,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2017-02-13T09:03:23Z"
   },
   {
@@ -1074,9 +1074,9 @@
     "location": "Réunion",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1172,
-    "publicContributions": 28,
+    "followers": 5,
+    "privateContributions": 1518,
+    "publicContributions": 342,
     "createdAt": "2016-06-26T18:32:07Z"
   },
   {
@@ -1100,7 +1100,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 10,
     "createdAt": "2016-07-09T04:55:15Z"
   },
   {
@@ -1134,21 +1134,21 @@
     "location": "Reunion Island",
     "company": "@mascarinreunion",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 2842,
+    "followers": 12,
+    "privateContributions": 2766,
     "publicContributions": 5,
     "createdAt": "2020-12-29T18:04:15Z"
   },
   {
     "login": "RandomZeleff",
     "name": "Zeleff_",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92428362?s=72&u=74ca10b974cbaa82d59fef60eb057e2494df62e3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92428362?s=72&u=fb4a9504cfa62b917728396010b4b8c8b07b2f42&v=4",
     "location": "Reunion Island",
     "company": "Nartya",
     "twitterUsername": "zeleff_ii",
-    "followers": 6,
-    "privateContributions": 353,
-    "publicContributions": 8,
+    "followers": 7,
+    "privateContributions": 656,
+    "publicContributions": 36,
     "createdAt": "2021-10-13T07:57:31Z"
   },
   {
@@ -1158,9 +1158,9 @@
     "location": "Saint-Denis, Réunion",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 1904,
-    "publicContributions": 27,
+    "followers": 16,
+    "privateContributions": 2006,
+    "publicContributions": 30,
     "createdAt": "2015-11-11T18:22:28Z"
   },
   {

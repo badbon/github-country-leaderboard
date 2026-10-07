@@ -954,9 +954,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 286,
-    "publicContributions": 137,
+    "followers": 28,
+    "privateContributions": 311,
+    "publicContributions": 139,
     "createdAt": "2025-11-19T07:29:59Z"
   },
   {
@@ -966,22 +966,10 @@
     "location": "Timisoara, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2025-06-06T16:59:21Z"
-  },
-  {
-    "login": "dragosgatan",
-    "name": "dragos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/239200524?s=72&u=468fe7b547698a7af46d07465888c679b9caa6f2&v=4",
-    "location": "Maramures, Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 146,
-    "publicContributions": 160,
-    "createdAt": "2025-10-20T16:45:03Z"
   },
   {
     "login": "SimonSimonYat",
@@ -1002,9 +990,9 @@
     "location": "Romania",
     "company": "@suceavahacks",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 669,
+    "publicContributions": 693,
     "createdAt": "2025-01-03T21:19:38Z"
   },
   {
@@ -1015,8 +1003,8 @@
     "company": "Student @ UPB-ACS CTI",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 141,
-    "publicContributions": 227,
+    "privateContributions": 157,
+    "publicContributions": 217,
     "createdAt": "2025-06-15T11:29:23Z"
   },
   {
@@ -1026,9 +1014,9 @@
     "location": "Brasov, Romania",
     "company": "Transilvania University of Brașov",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 92,
-    "publicContributions": 120,
+    "publicContributions": 179,
     "createdAt": "2025-10-10T00:27:39Z"
   },
   {
@@ -1036,23 +1024,23 @@
     "name": "Mihnea-Teodor Stoica",
     "avatarUrl": "https://avatars.githubusercontent.com/u/218832608?s=72&u=6c8bcd74c4eff5d5ca5d5da15bad7b15228e25f1&v=4",
     "location": "Bucharest, Romania",
-    "company": "Independent",
+    "company": "International Computer High School of Bucharest",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 17,
-    "publicContributions": 301,
+    "followers": 49,
+    "privateContributions": 533,
+    "publicContributions": 314,
     "createdAt": "2025-07-01T19:23:36Z"
   },
   {
     "login": "retiantonio",
-    "name": "Spiriw",
+    "name": "Reti Antonio",
     "avatarUrl": "https://avatars.githubusercontent.com/u/200753885?s=72&u=4394f0554cdcd032e5c429c65e9391513c9f9699&v=4",
     "location": "Cluj-Napoca, Romania",
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 8,
-    "publicContributions": 84,
+    "privateContributions": 10,
+    "publicContributions": 82,
     "createdAt": "2025-02-25T10:12:21Z"
   },
   {
@@ -1063,8 +1051,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 2561,
-    "publicContributions": 1426,
+    "privateContributions": 5381,
+    "publicContributions": 1613,
     "createdAt": "2025-09-10T08:58:36Z"
   },
   {
@@ -1083,25 +1071,13 @@
     "login": "Vendetaaaa",
     "name": "Vendeta",
     "avatarUrl": "https://avatars.githubusercontent.com/u/230871006?s=72&u=2c69a8e47625120d4803bfe39ee0f413fc15dd20&v=4",
-    "location": "📍Romania",
+    "location": "Romania",
     "company": "Soon",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 270,
-    "publicContributions": 340,
+    "followers": 11,
+    "privateContributions": 313,
+    "publicContributions": 626,
     "createdAt": "2025-09-07T15:26:36Z"
-  },
-  {
-    "login": "NtProtectVirtualMemory",
-    "name": "crim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/215424989?s=72&u=a585b68e885f40a6a8dae0d9e3ef5c4df8eb9535&v=4",
-    "location": "Romania",
-    "company": "",
-    "twitterUsername": "crim_x64",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 189,
-    "createdAt": "2025-06-08T21:37:35Z"
   },
   {
     "login": "Raraselz",
@@ -1124,7 +1100,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 136,
     "createdAt": "2025-04-02T09:33:07Z"
   },
   {
@@ -1134,9 +1110,9 @@
     "location": "Romania, Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2024-12-28T18:53:49Z"
   },
   {
@@ -1148,7 +1124,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 20,
-    "publicContributions": 248,
+    "publicContributions": 245,
     "createdAt": "2025-01-11T21:47:39Z"
   },
   {
@@ -1158,9 +1134,9 @@
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 12,
+    "followers": 8,
+    "privateContributions": 8,
+    "publicContributions": 8,
     "createdAt": "2025-03-10T16:14:19Z"
   },
   {
@@ -1170,9 +1146,9 @@
     "location": "Cluj-Napoca, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 2255,
-    "publicContributions": 393,
+    "followers": 8,
+    "privateContributions": 2941,
+    "publicContributions": 435,
     "createdAt": "2025-02-02T21:17:28Z"
   },
   {
@@ -1182,7 +1158,7 @@
     "location": "Bucharest, Romania",
     "company": "University of Bucharest",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 63,
     "createdAt": "2025-03-13T19:30:19Z"

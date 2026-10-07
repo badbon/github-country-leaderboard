@@ -968,7 +968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 13,
     "createdAt": "2024-12-05T08:13:49Z"
   },
   {
@@ -980,7 +980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 5,
     "createdAt": "2024-05-09T09:17:42Z"
   },
   {
@@ -992,19 +992,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-01-10T05:19:04Z"
   },
   {
     "login": "Denisu-San",
     "name": "Denis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143231400?s=72&u=d6af850d08e7f6d80d21e6e05f44e701610a6af0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143231400?s=72&u=05df8e6e4b498ae7b7bd61d42fc0dc86b5ba746b&v=4",
     "location": "Seychelles",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 84,
-    "publicContributions": 22,
+    "followers": 6,
+    "privateContributions": 121,
+    "publicContributions": 0,
     "createdAt": "2023-08-25T23:28:01Z"
   },
   {
@@ -1014,9 +1014,9 @@
     "location": "Seychelles",
     "company": "IT Sol",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 61,
     "createdAt": "2023-03-22T10:11:25Z"
   },
   {
@@ -1039,8 +1039,8 @@
     "company": "Digicore",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 0,
-    "publicContributions": 329,
+    "privateContributions": 286,
+    "publicContributions": 327,
     "createdAt": "2023-07-21T13:48:47Z"
   },
   {
@@ -1062,9 +1062,9 @@
     "location": "Victoria, BC",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 253,
-    "publicContributions": 480,
+    "followers": 37,
+    "privateContributions": 360,
+    "publicContributions": 1581,
     "createdAt": "2023-11-15T21:51:29Z"
   },
   {
@@ -1076,7 +1076,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 4,
-    "publicContributions": 142,
+    "publicContributions": 66,
     "createdAt": "2023-05-30T16:33:50Z"
   },
   {
@@ -1123,8 +1123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 4,
-    "publicContributions": 2,
+    "privateContributions": 5,
+    "publicContributions": 13,
     "createdAt": "2023-12-02T05:53:25Z"
   },
   {
@@ -1146,9 +1146,9 @@
     "location": "Victoria, Tamaulipas, Mex",
     "company": "Universidad Autonoma de Tamaulipas",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 282,
-    "publicContributions": 100,
+    "followers": 8,
+    "privateContributions": 583,
+    "publicContributions": 77,
     "createdAt": "2023-08-24T16:48:39Z"
   },
   {
@@ -1159,8 +1159,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 42,
-    "publicContributions": 85,
+    "privateContributions": 1,
+    "publicContributions": 75,
     "createdAt": "2022-12-30T20:49:12Z"
   },
   {

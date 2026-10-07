@@ -936,25 +936,13 @@
     "createdAt": "2023-09-19T12:34:05Z"
   },
   {
-    "login": "LUCIANO-LI",
-    "name": "LUCIANO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143184684?s=72&u=3524f6a62f9bda2f35a1c41ed937f4bce71fb9d2&v=4",
-    "location": "Macau",
-    "company": "University of Macau",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 54,
-    "createdAt": "2023-08-25T11:25:53Z"
-  },
-  {
     "login": "Xu8727",
     "name": "Yihang Xu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/143057258?s=72&v=4",
     "location": "Macau",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-24T03:56:04Z"
@@ -968,7 +956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 12,
     "createdAt": "2023-11-01T01:11:39Z"
   },
   {
@@ -1002,9 +990,9 @@
     "location": "Macao",
     "company": "MUST",
     "twitterUsername": "PakHeiPoon",
-    "followers": 15,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 41,
     "createdAt": "2022-07-06T01:39:12Z"
   },
   {
@@ -1014,9 +1002,9 @@
     "location": "澳门 Macao",
     "company": "Peking University Shenzhen Graduate School",
     "twitterUsername": "codeofwhite",
-    "followers": 13,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 195,
+    "publicContributions": 179,
     "createdAt": "2022-06-10T09:11:39Z"
   },
   {
@@ -1064,7 +1052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 52,
     "createdAt": "2022-12-16T03:36:01Z"
   },
   {
@@ -1074,9 +1062,9 @@
     "location": "Macau",
     "company": "CAICT",
     "twitterUsername": "",
-    "followers": 400,
-    "privateContributions": 3927,
-    "publicContributions": 3637,
+    "followers": 404,
+    "privateContributions": 4513,
+    "publicContributions": 4767,
     "createdAt": "2022-04-11T00:22:27Z"
   },
   {
@@ -1086,7 +1074,7 @@
     "location": "Macau",
     "company": "University of Macau",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2022-06-07T06:12:24Z"
@@ -1097,10 +1085,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/108573093?s=72&u=db14ffb673ff4c5ea7cabac422167102714a00d1&v=4",
     "location": "Macau",
     "company": "",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 722,
-    "publicContributions": 76,
+    "twitterUsername": "Xiao06f",
+    "followers": 14,
+    "privateContributions": 1164,
+    "publicContributions": 36,
     "createdAt": "2022-07-02T10:01:15Z"
   },
   {
@@ -1122,9 +1110,9 @@
     "location": "Macau",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 169,
     "createdAt": "2022-11-02T20:48:34Z"
   },
   {
@@ -1134,9 +1122,9 @@
     "location": "Macau",
     "company": "Master of Planetary Science",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 53,
-    "publicContributions": 149,
+    "followers": 8,
+    "privateContributions": 105,
+    "publicContributions": 296,
     "createdAt": "2022-01-29T13:43:37Z"
   },
   {

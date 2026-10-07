@@ -978,7 +978,7 @@
     "location": "sudan",
     "company": "panda180",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-10-19T10:03:30Z"
@@ -992,7 +992,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2023-11-27T18:47:02Z"
   },
   {
@@ -1016,7 +1016,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 20,
     "createdAt": "2023-11-03T17:38:55Z"
   },
   {
@@ -1074,22 +1074,10 @@
     "location": "Sudan",
     "company": "Carslandsd.com",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 12,
     "createdAt": "2023-08-20T20:24:18Z"
-  },
-  {
-    "login": "ALZOOL",
-    "name": "Ayman Jammaa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122786367?s=72&u=d22ccb3d1c6ee1ac56d3b77a8f116bf35059b707&v=4",
-    "location": "Khartoum-Sudan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2023-01-16T10:09:14Z"
   },
   {
     "login": "Mapf8",
@@ -1098,7 +1086,7 @@
     "location": "Sudan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-02T08:51:34Z"
@@ -1136,7 +1124,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 110,
     "createdAt": "2023-01-19T09:05:23Z"
   },
   {
@@ -1148,7 +1136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 40,
     "createdAt": "2023-07-20T11:37:42Z"
   },
   {
@@ -1172,7 +1160,7 @@
     "twitterUsername": "k7alid_9",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 40,
     "createdAt": "2023-02-01T16:19:36Z"
   },
   {

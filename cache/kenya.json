@@ -680,20 +680,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 73,
     "createdAt": "2026-03-10T08:13:30Z"
-  },
-  {
-    "login": "go-mbwe",
-    "name": "Gombwe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270758486?s=72&v=4",
-    "location": "Kenya",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 52,
-    "createdAt": "2026-03-24T19:35:50Z"
   },
   {
     "login": "audiokello-hue",
@@ -704,7 +692,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 35,
     "createdAt": "2026-01-23T18:09:05Z"
   },
   {
@@ -716,7 +704,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 184,
     "createdAt": "2025-12-28T19:10:51Z"
   },
   {
@@ -726,7 +714,7 @@
     "location": "Nairobi, KENYA",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1006,
     "createdAt": "2025-12-30T17:31:06Z"
@@ -734,25 +722,25 @@
   {
     "login": "mohammedsamini2001-art",
     "name": "Mohammed Samini",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253124467?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253124467?s=72&u=350d390f81c9db1a3abe1c196dbd0bed11595352&v=4",
     "location": "Mombasa, Kenya ",
-    "company": "",
+    "company": "Hikmah Labs",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 9,
     "createdAt": "2026-01-05T18:17:18Z"
   },
   {
     "login": "ji12871829-svg",
     "name": "Juma Ibrahim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256470553?s=72&u=1fe8e32222f72cf0e8f3c9cb47cf4fa094762140&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256470553?s=72&v=4",
     "location": "Kenya",
     "company": "Student Developer",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 202,
     "createdAt": "2026-01-22T02:31:22Z"
   },
   {
@@ -762,9 +750,9 @@
     "location": "Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 79,
     "createdAt": "2026-01-26T09:43:11Z"
   },
   {
@@ -774,9 +762,9 @@
     "location": "kenya",
     "company": "cyberneurova",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 16,
     "createdAt": "2026-04-13T12:14:04Z"
   },
   {
@@ -787,7 +775,7 @@
     "company": "Coki Softwares",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 30,
+    "privateContributions": 33,
     "publicContributions": 54,
     "createdAt": "2026-01-17T07:42:30Z"
   },
@@ -810,9 +798,9 @@
     "location": "Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 297,
+    "publicContributions": 300,
     "createdAt": "2026-03-06T07:38:50Z"
   },
   {
@@ -822,21 +810,21 @@
     "location": "Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 106,
     "createdAt": "2026-03-11T17:04:22Z"
   },
   {
     "login": "momanyidora",
     "name": "Dorah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254898905?s=72&u=cc2b42b0edc039dfb2b5c56d052e0ef1655151f4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254898905?s=72&u=f9f8bd85dfb0b04a304812ec599e439e9a2c4dde&v=4",
     "location": "Kisii, Kenya",
     "company": "Reduzer",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 163,
-    "publicContributions": 177,
+    "publicContributions": 304,
     "createdAt": "2026-01-14T12:15:40Z"
   },
   {
@@ -848,7 +836,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 21,
     "createdAt": "2026-04-11T18:44:12Z"
   },
   {
@@ -870,9 +858,9 @@
     "location": "kenya",
     "company": "Casual Code Studios",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 425,
+    "publicContributions": 437,
     "createdAt": "2026-04-04T17:10:58Z"
   },
   {
@@ -884,7 +872,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 152,
     "createdAt": "2026-02-24T12:14:48Z"
   },
   {
@@ -908,7 +896,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 173,
     "createdAt": "2026-02-25T11:52:03Z"
   },
   {

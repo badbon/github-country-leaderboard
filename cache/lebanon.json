@@ -948,27 +948,15 @@
     "createdAt": "2025-03-04T10:48:22Z"
   },
   {
-    "login": "axiomtrade-eng",
-    "name": "Axiomtradeengine.org",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229651872?s=72&v=4",
-    "location": "300 Boulder Falls Dr., Lebanon, OR 97355",
-    "company": "Energy Mountain grid LLC",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2025-08-31T21:27:19Z"
-  },
-  {
     "login": "fatimahodrojj",
     "name": "Fatima Hodroj",
     "avatarUrl": "https://avatars.githubusercontent.com/u/242918323?s=72&u=3141af8eb2a40a521ad776aef834a6668ebab1d7&v=4",
     "location": "Lebanon",
     "company": "Future.Code",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 65,
     "createdAt": "2025-11-09T09:03:46Z"
   },
   {
@@ -980,7 +968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 125,
     "createdAt": "2024-12-28T13:25:21Z"
   },
   {
@@ -992,7 +980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 186,
     "createdAt": "2025-02-10T22:00:48Z"
   },
   {
@@ -1016,7 +1004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 325,
+    "publicContributions": 324,
     "createdAt": "2025-09-02T12:54:39Z"
   },
   {
@@ -1063,8 +1051,8 @@
     "company": "Innovum",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 471,
-    "publicContributions": 2,
+    "privateContributions": 399,
+    "publicContributions": 1,
     "createdAt": "2025-01-28T19:48:34Z"
   },
   {
@@ -1088,7 +1076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 125,
     "createdAt": "2025-11-15T09:59:06Z"
   },
   {
@@ -1100,20 +1088,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 141,
+    "publicContributions": 160,
     "createdAt": "2025-08-05T14:44:17Z"
-  },
-  {
-    "login": "Compiler-A",
-    "name": "Ali Mousa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/245643800?s=72&v=4",
-    "location": "lebanon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1238,
-    "createdAt": "2025-11-23T05:06:50Z"
   },
   {
     "login": "Omar-Al-Masri",
@@ -1160,7 +1136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 36,
     "createdAt": "2025-04-01T12:00:13Z"
   },
   {
@@ -1171,7 +1147,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 58,
+    "privateContributions": 100,
     "publicContributions": 1,
     "createdAt": "2025-06-18T10:36:11Z"
   },

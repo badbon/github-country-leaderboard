@@ -948,18 +948,6 @@
     "createdAt": "2025-05-13T15:21:15Z"
   },
   {
-    "login": "Laimonas-Mikalauskas",
-    "name": "Laimonas Mikalauskas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198271282?s=72&u=de08e6312349a00f9e5018c01bfa20b8e50fdf91&v=4",
-    "location": "Lithuania, Klaipeda City, Klaipeda County",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 575,
-    "createdAt": "2025-02-07T20:38:43Z"
-  },
-  {
     "login": "sstrazhnikov",
     "name": "Sergey Strazhnikov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/201582640?s=72&u=39ea3d5e8037a3e333a86e3ba6215d7cb6dcd2ec&v=4",
@@ -980,7 +968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 5,
     "createdAt": "2025-02-26T14:48:25Z"
   },
   {
@@ -992,7 +980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2025-03-25T16:48:30Z"
   },
   {
@@ -1028,20 +1016,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 103,
     "createdAt": "2025-02-02T13:34:37Z"
-  },
-  {
-    "login": "OmerWaseem-Alzaidi",
-    "name": "Omer Waseem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/233532801?s=72&u=461c5fb27c9cc738e45b75d592d6e619ba949e5d&v=4",
-    "location": "Vilnius",
-    "company": "Versity",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 657,
-    "publicContributions": 108,
-    "createdAt": "2025-09-21T05:54:08Z"
   },
   {
     "login": "helenzik24",
@@ -1062,9 +1038,9 @@
     "location": "Vilnius",
     "company": "Roqus",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 73,
     "createdAt": "2024-12-30T14:45:41Z"
   },
   {
@@ -1074,7 +1050,7 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 121,
     "createdAt": "2025-09-02T15:11:40Z"
@@ -1100,7 +1076,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 49,
     "createdAt": "2025-05-07T07:50:04Z"
   },
   {
@@ -1111,8 +1087,8 @@
     "company": "Bentley Systems",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 87,
-    "publicContributions": 3,
+    "privateContributions": 98,
+    "publicContributions": 5,
     "createdAt": "2025-02-11T15:19:59Z"
   },
   {
@@ -1160,7 +1136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 16,
     "createdAt": "2025-07-23T14:02:53Z"
   },
   {

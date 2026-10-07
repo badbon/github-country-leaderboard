@@ -884,7 +884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 17,
     "createdAt": "2026-04-10T17:19:28Z"
   },
   {
@@ -896,7 +896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1563,
+    "publicContributions": 2391,
     "createdAt": "2026-01-04T22:55:02Z"
   },
   {
@@ -907,8 +907,8 @@
     "company": "NUHS ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 27,
-    "publicContributions": 201,
+    "privateContributions": 42,
+    "publicContributions": 202,
     "createdAt": "2026-05-06T11:43:48Z"
   },
   {
@@ -920,20 +920,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 133,
     "createdAt": "2026-01-27T00:15:25Z"
-  },
-  {
-    "login": "xxiangyun",
-    "name": "Xiangyun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270677046?s=72&v=4",
-    "location": "Singapore",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2026-03-24T14:07:39Z"
   },
   {
     "login": "53NotFifty-three",
@@ -967,8 +955,8 @@
     "company": "",
     "twitterUsername": "esyion_",
     "followers": 1,
-    "privateContributions": 5005,
-    "publicContributions": 98,
+    "privateContributions": 4424,
+    "publicContributions": 230,
     "createdAt": "2025-12-31T19:26:53Z"
   },
   {
@@ -980,7 +968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 93,
     "createdAt": "2026-03-20T15:44:49Z"
   },
   {
@@ -1002,7 +990,7 @@
     "location": "Singapore",
     "company": "Nanyang Technological University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-03T06:47:05Z"
@@ -1028,20 +1016,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 90,
     "createdAt": "2026-01-13T10:27:15Z"
-  },
-  {
-    "login": "fisurk",
-    "name": "fisurk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282936022?s=72&u=04235984bff7d172baacfbe06caeb234aa5e92d4&v=4",
-    "location": "singapore",
-    "company": "PixelCraft Solutions Pte Ltd",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 35,
-    "createdAt": "2026-05-08T15:17:20Z"
   },
   {
     "login": "Aenz0r",
@@ -1076,7 +1052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 76,
     "createdAt": "2026-01-12T04:07:11Z"
   },
   {
@@ -1098,7 +1074,7 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "saveto_ai",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-03-24T08:23:45Z"
@@ -1112,7 +1088,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 77,
     "createdAt": "2026-04-26T10:13:16Z"
   },
   {

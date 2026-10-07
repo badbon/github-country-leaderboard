@@ -931,7 +931,7 @@
     "company": "Conexess",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 0,
+    "privateContributions": 78,
     "publicContributions": 0,
     "createdAt": "2020-02-12T01:23:46Z"
   },
@@ -942,9 +942,9 @@
     "location": "Plymouth, NH",
     "company": "Plymouth State University",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 57,
+    "followers": 6,
+    "privateContributions": 37,
+    "publicContributions": 271,
     "createdAt": "2020-12-04T10:35:03Z"
   },
   {
@@ -955,8 +955,8 @@
     "company": "",
     "twitterUsername": "mattbaileydev",
     "followers": 5,
-    "privateContributions": 6,
-    "publicContributions": 30,
+    "privateContributions": 15,
+    "publicContributions": 70,
     "createdAt": "2020-03-05T14:55:22Z"
   },
   {
@@ -967,7 +967,7 @@
     "company": "@8x8",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 392,
+    "privateContributions": 429,
     "publicContributions": 0,
     "createdAt": "2020-02-10T09:31:19Z"
   },
@@ -1111,7 +1111,7 @@
     "company": "",
     "twitterUsername": "BexMillard",
     "followers": 1,
-    "privateContributions": 54,
+    "privateContributions": 76,
     "publicContributions": 0,
     "createdAt": "2020-05-23T12:57:23Z"
   },

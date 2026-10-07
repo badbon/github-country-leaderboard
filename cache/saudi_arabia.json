@@ -955,8 +955,8 @@
     "company": "Wadi Makkah Technology",
     "twitterUsername": "Anas_Algamdi_CS",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 71,
+    "privateContributions": 4,
+    "publicContributions": 111,
     "createdAt": "2026-02-08T09:48:59Z"
   },
   {
@@ -978,7 +978,7 @@
     "location": "Riyadh, Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2026-04-18T13:54:29Z"
@@ -1004,7 +1004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2026-03-28T05:57:06Z"
   },
   {
@@ -1040,7 +1040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 77,
     "createdAt": "2026-04-15T09:22:23Z"
   },
   {
@@ -1086,8 +1086,8 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "waelasiriksa",
-    "followers": 1,
-    "privateContributions": 88,
+    "followers": 2,
+    "privateContributions": 118,
     "publicContributions": 1,
     "createdAt": "2026-04-06T09:25:43Z"
   },
@@ -1100,7 +1100,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2026-01-04T20:40:48Z"
   },
   {
@@ -1122,7 +1122,7 @@
     "location": "Riyadh, Saudi Arabia",
     "company": "",
     "twitterUsername": "EvardinStark",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-20T14:32:43Z"
@@ -1148,7 +1148,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 414,
+    "publicContributions": 415,
     "createdAt": "2026-03-02T10:25:42Z"
   },
   {
@@ -92410,5 +92410,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-11-07T10:06:10Z"
+  },
+  {
+    "login": "ALZOOL",
+    "name": "Ayman Jammaa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122786367?s=72&u=d22ccb3d1c6ee1ac56d3b77a8f116bf35059b707&v=4",
+    "location": "Saudi Arabia-Riyadh",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2023-01-16T10:09:14Z"
   }
 ]
