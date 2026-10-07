@@ -1,6 +1,6 @@
 # Cameroon
 
-Indexed users: 1,807
+Indexed users: 1,806
 
 | Leaderboard | Link |
 |---|---|
@@ -43,7 +43,7 @@ Indexed users: 1,807
 | 4 | [Christiantyemele](https://github.com/Christiantyemele) | Christian Yemele | Cameroon | 3,149 |
 | 5 | [bensah](https://github.com/bensah) | Ben Nsah | Cameroon | 2,966 |
 | 6 | [Chu29](https://github.com/Chu29) | MALIK MUEGHE ABUEMKEZE CHU | Yaounde, Cameroon | 1,901 |
-| 7 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall | Cameroon | 1,856 |
+| 7 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall | Cameroon | 1,824 |
 | 8 | [gekkin-programmer](https://github.com/gekkin-programmer) | brayan harry | Douala , Cameroon | 1,774 |
 | 9 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja | Cameroon | 1,771 |
 | 10 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | Yaoundé Cameroon | 1,685 |
@@ -83,4 +83,4 @@ Indexed users: 1,807
 | 19 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | Cameroon | 173 |
 | 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
 
-Generated: 2026-10-07T13:45:50.735Z
+Generated: 2026-10-07T14:38:51.134Z

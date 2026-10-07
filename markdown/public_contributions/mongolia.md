@@ -1,8 +1,8 @@
 # Public Contributions - Mongolia
 
-Generated: 2026-10-07T14:07:33.218Z
+Generated: 2026-10-07T14:57:56.471Z
 
-Users: 811
+Users: 809
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 811
 | 12 | [batdorj-s](https://github.com/batdorj-s) | batdorj |  |  | mongolia | 546 |
 | 13 | [TemuulenBM](https://github.com/TemuulenBM) | Temuulen | @Fleetbase |  | Mongolia | 541 |
 | 14 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Duke Kunshan University |  | Ulaanbaatar, Mongolia | 537 |
-| 15 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 503 |
-| 16 | [Zombie-01](https://github.com/Zombie-01) | adiyadorj badamsereejid |  |  | mongolia | 495 |
-| 17 | [Namuun0521](https://github.com/Namuun0521) | Namuun |  |  | Ulaanbaatar, Mongolia | 484 |
+| 15 | [Zombie-01](https://github.com/Zombie-01) | adiyadorj badamsereejid |  |  | mongolia | 495 |
+| 16 | [Namuun0521](https://github.com/Namuun0521) | Namuun |  |  | Ulaanbaatar, Mongolia | 484 |
+| 17 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 462 |
 | 18 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | @erxes  |  | mongolia | 453 |
 | 19 | [JinreP](https://github.com/JinreP) | Subeedei |  |  | Mongolia | 448 |
 | 20 | [dukunuu](https://github.com/dukunuu) | nt-dukk |  |  | Ulaanbaatar, Mongolia | 430 |

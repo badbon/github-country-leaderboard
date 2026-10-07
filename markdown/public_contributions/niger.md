@@ -1,6 +1,6 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-07T14:10:19.874Z
+Generated: 2026-10-07T15:01:01.839Z
 
 Users: 177
 
@@ -19,7 +19,7 @@ Users: 177
 | 11 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley |  |  | Niamey | 194 |
 | 12 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 171 |
 | 13 | [Life-Is-Nothing](https://github.com/Life-Is-Nothing) | Mohamed Adoungouss Ibrahim |  |  | Niamey, Niger | 159 |
-| 14 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | @vision_visuel |  | Niamey-Niger | 133 |
+| 14 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | @vision_visuel |  | Niamey-Niger | 135 |
 | 15 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | SETES SARL | hama_barhamou | Niger | 127 |
 | 16 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 103 |
 | 17 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 103 |

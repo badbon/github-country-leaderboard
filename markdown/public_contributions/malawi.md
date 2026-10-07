@@ -1,6 +1,6 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-07T14:05:10.610Z
+Generated: 2026-10-07T14:55:01.613Z
 
 Users: 902
 
@@ -10,19 +10,19 @@ Users: 902
 | 2 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | @Accurate-Cyber-Defense ☠️🏴‍☠️ | Iankulani | Mzimba, Malawi | 1725 |
 | 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 1523 |
 | 4 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje |  |  | Lilongwe, Malawi | 1392 |
-| 5 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 1095 |
-| 6 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Bata All Nutrition  |  | Malawi  | 1018 |
-| 7 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | techvac |  | Lilongwe, Malawi | 959 |
-| 8 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera |  |  | Blantyre, Malawi | 823 |
-| 9 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 |  |  | Malawi | 767 |
-| 10 | [lcfranklin](https://github.com/lcfranklin) | Franklin | f-algoverse |  | Rumphi, Malawi | 737 |
-| 11 | [innowowa](https://github.com/innowowa) | Innocent Wowa |  |  | Malawi, Lilongwe | 667 |
-| 12 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire |  |  | Malawi | 635 |
-| 13 | [Forgata](https://github.com/Forgata) | Forgata |  |  | Malawi | 615 |
-| 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Crosfade Technologies LLC  |  | Lilongwe  | 559 |
-| 15 | [V014](https://github.com/V014) | Wanga Kanjala | Status Premier | void265 | Blantyre, Malawi | 535 |
-| 16 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 528 |
-| 17 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 477 |
-| 18 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 456 |
-| 19 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | HavenPlus Technologies |  | Lilongwe | 453 |
-| 20 | [uniquedj95](https://github.com/uniquedj95) | Daniel Justin | World Bank Group | uniquedj95 | Lilongwe, Malawi | 440 |
+| 5 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti |  |  | malawi | 1112 |
+| 6 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 1095 |
+| 7 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Bata All Nutrition  |  | Malawi  | 1018 |
+| 8 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | techvac |  | Lilongwe, Malawi | 959 |
+| 9 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera |  |  | Blantyre, Malawi | 823 |
+| 10 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 |  |  | Malawi | 767 |
+| 11 | [lcfranklin](https://github.com/lcfranklin) | Franklin | f-algoverse |  | Rumphi, Malawi | 737 |
+| 12 | [innowowa](https://github.com/innowowa) | Innocent Wowa |  |  | Malawi, Lilongwe | 667 |
+| 13 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire |  |  | Malawi | 635 |
+| 14 | [Forgata](https://github.com/Forgata) | Forgata |  |  | Malawi | 615 |
+| 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Crosfade Technologies LLC  |  | Lilongwe  | 559 |
+| 16 | [V014](https://github.com/V014) | Wanga Kanjala | Status Premier | void265 | Blantyre, Malawi | 535 |
+| 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 528 |
+| 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 477 |
+| 19 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 471 |
+| 20 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | HavenPlus Technologies |  | Lilongwe | 453 |

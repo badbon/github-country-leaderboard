@@ -15,8 +15,8 @@ Indexed users: 1,768
 | 1 | [evisoft](https://github.com/evisoft) | Vitalie Esanu | Moldova | 13,677 |
 | 2 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 6,932 |
 | 3 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 6,534 |
-| 4 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru | Ungheni, Moldova / Iasi, Romania | 5,621 |
-| 5 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 5,329 |
+| 4 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,072 |
+| 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru | Ungheni, Moldova / Iasi, Romania | 5,621 |
 | 6 | [StefuSD](https://github.com/StefuSD) | Stepan Stefu | Moldova | 5,328 |
 | 7 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion | Moldova, Chisinau | 5,271 |
 | 8 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,154 |
@@ -83,4 +83,4 @@ Indexed users: 1,768
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 104 |
 
-Generated: 2026-10-07T14:07:24.708Z
+Generated: 2026-10-07T14:57:41.954Z

@@ -1,6 +1,6 @@
 # Public Contributions - Burundi
 
-Generated: 2026-10-07T13:44:45.099Z
+Generated: 2026-10-07T14:38:37.764Z
 
 Users: 236
 
@@ -18,11 +18,11 @@ Users: 236
 | 10 | [butofleury](https://github.com/butofleury) | Fleury | @BLSQ |  | Burundi, Bujumbura | 269 |
 | 11 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 269 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY |  |  | Burundi/Bujumbura | 220 |
-| 13 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Self-Employed | Mtl_Thierry_Jov | Bujumbura, Burundi | 216 |
-| 14 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | afritic-group |  | Burundi | 210 |
-| 15 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 159 |
-| 16 | [kaebalsaebal](https://github.com/kaebalsaebal) | kaebalsaebal | BSMC(Bujumbura Semiconductor Manufacturing Co.) |  | Burundi | 143 |
-| 17 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Amplitude Ventures |  | Burundi | 134 |
-| 18 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | XP TEAM |  | Burundi | 116 |
-| 19 | [Yanhozanam](https://github.com/Yanhozanam) | Yan Hozanam Mbonyumugisha |  |  | Burundi | 112 |
-| 20 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | The Creative House Inc. |  | Burundi | 110 |
+| 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | afritic-group |  | Burundi | 210 |
+| 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 159 |
+| 15 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Amplitude Ventures |  | Burundi | 134 |
+| 16 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | XP TEAM |  | Burundi | 116 |
+| 17 | [Yanhozanam](https://github.com/Yanhozanam) | Yan Hozanam Mbonyumugisha |  |  | Burundi | 112 |
+| 18 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | The Creative House Inc. |  | Burundi | 110 |
+| 19 | [JacobsNG19](https://github.com/JacobsNG19) | Jacob NGANDU Toussaint |  |  | Burundi, Bujumbura  | 108 |
+| 20 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Self-Employed | Mtl_Thierry_Jov | Bujumbura, Burundi | 107 |

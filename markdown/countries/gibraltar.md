@@ -26,7 +26,7 @@ Indexed users: 93
 | 12 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 621 |
 | 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 604 |
 | 14 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 523 |
-| 15 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 493 |
+| 15 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 494 |
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 457 |
 | 17 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 403 |
 | 18 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 362 |
@@ -40,11 +40,11 @@ Indexed users: 93
 | 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,678 |
 | 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,895 |
 | 3 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 586 |
-| 4 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 493 |
+| 4 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 494 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 476 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 252 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 245 |
-| 8 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 197 |
+| 8 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 198 |
 | 9 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 196 |
 | 10 | [ZedsArcade](https://github.com/ZedsArcade) | ZedsArcade | Gibraltar | 156 |
 | 11 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 121 |
@@ -65,7 +65,7 @@ Indexed users: 93
 | 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 580 |
 | 2 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 86 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 72 |
-| 4 | [sloancameron](https://github.com/sloancameron) | valley / bernadette | watchpoint gibraltar | 38 |
+| 4 | [sloancameron](https://github.com/sloancameron) | valley / bernadette | watchpoint gibraltar | 39 |
 | 5 | [docziegler](https://github.com/docziegler) | star | watchpoint gibraltar | 35 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 33 |
 | 7 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 31 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-07T13:53:10.198Z
+Generated: 2026-10-07T14:48:30.870Z

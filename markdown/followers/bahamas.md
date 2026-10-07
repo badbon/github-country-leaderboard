@@ -1,13 +1,13 @@
 # Followers - Bahamas
 
-Generated: 2026-10-07T13:40:36.865Z
+Generated: 2026-10-07T14:35:26.710Z
 
 Users: 237
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [PingPaid](https://github.com/PingPaid) | PingPaid  | PingPaid |  | Nassau, Bahamas | 104 |
-| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 98 |
+| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 100 |
 | 3 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 88 |
 | 4 | [mikkqu](https://github.com/mikkqu) | Mikhail Kalashnikov |  | mikkqu | Nassau, Bahamas | 61 |
 | 5 | [btcwoot](https://github.com/btcwoot) | btcwoot | @btcwoot | btcwootexchange | bahamas | 56 |

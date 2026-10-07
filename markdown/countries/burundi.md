@@ -26,7 +26,7 @@ Indexed users: 236
 | 12 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,200 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,108 |
 | 14 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 1,021 |
-| 15 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 1,005 |
+| 15 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 982 |
 | 16 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 971 |
 | 17 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 936 |
 | 18 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 895 |
@@ -49,20 +49,20 @@ Indexed users: 236
 | 10 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 269 |
 | 11 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 269 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY | Burundi/Bujumbura | 220 |
-| 13 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 216 |
-| 14 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | Burundi | 210 |
-| 15 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 159 |
-| 16 | [kaebalsaebal](https://github.com/kaebalsaebal) | kaebalsaebal | Burundi | 143 |
-| 17 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Burundi | 134 |
-| 18 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | Burundi | 116 |
-| 19 | [Yanhozanam](https://github.com/Yanhozanam) | Yan Hozanam Mbonyumugisha | Burundi | 112 |
-| 20 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | Burundi | 110 |
+| 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | Burundi | 210 |
+| 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 159 |
+| 15 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Burundi | 134 |
+| 16 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | Burundi | 116 |
+| 17 | [Yanhozanam](https://github.com/Yanhozanam) | Yan Hozanam Mbonyumugisha | Burundi | 112 |
+| 18 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | Burundi | 110 |
+| 19 | [JacobsNG19](https://github.com/JacobsNG19) | Jacob NGANDU Toussaint | Burundi, Bujumbura  | 108 |
+| 20 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 107 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 365 |
+| 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 358 |
 | 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 140 |
 | 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 136 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 102 |
@@ -79,8 +79,8 @@ Indexed users: 236
 | 15 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE | Bujumbura, Burundi | 43 |
 | 16 | [ntzwilly](https://github.com/ntzwilly) | Willy NTAZAMA | Burundi | 43 |
 | 17 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 41 |
-| 18 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 36 |
-| 19 | [mudjaycker](https://github.com/mudjaycker) | MARYIMANA BUTOYI | Bujumbura/BURUNDI | 36 |
-| 20 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
+| 18 | [mudjaycker](https://github.com/mudjaycker) | MARYIMANA BUTOYI | Bujumbura/BURUNDI | 36 |
+| 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
+| 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-07T13:44:45.099Z
+Generated: 2026-10-07T14:38:37.764Z

@@ -1,6 +1,6 @@
 # Mauritius
 
-Indexed users: 720
+Indexed users: 719
 
 | Leaderboard | Link |
 |---|---|
@@ -39,7 +39,7 @@ Indexed users: 720
 |---:|---|---|---|---:|
 | 1 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,077 |
 | 2 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 2,836 |
-| 3 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,970 |
+| 3 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,511 |
 | 4 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,409 |
 | 5 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,389 |
 | 6 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,378 |
@@ -64,10 +64,10 @@ Indexed users: 720
 |---:|---|---|---|---:|
 | 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 714 |
 | 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Mauritius | 625 |
-| 3 | [thatstraw](https://github.com/thatstraw) | Traw | Mauritius | 581 |
+| 3 | [thatstraw](https://github.com/thatstraw) | Traw | Mauritius | 584 |
 | 4 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 300 |
 | 5 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 151 |
-| 6 | [Nehal-Bhautoo](https://github.com/Nehal-Bhautoo) | Nehal Bhautoo | Mauritius | 124 |
+| 6 | [Nehal-Bhautoo](https://github.com/Nehal-Bhautoo) | Nehal Bhautoo | Mauritius | 121 |
 | 7 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 119 |
 | 8 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee | Mauritius | 115 |
 | 9 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam | Mauritius | 112 |
@@ -75,12 +75,12 @@ Indexed users: 720
 | 11 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Mauritius | 101 |
 | 12 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | Mauritius | 100 |
 | 13 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 97 |
-| 14 | [Adrilaw](https://github.com/Adrilaw) | Mel Adrien Lawrence Enzo Dodin | Mauritius 🇲🇺  | 94 |
-| 15 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | Mauritius | 87 |
+| 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | Mauritius | 87 |
+| 15 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner | Mauritius | 84 |
 | 16 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 82 |
-| 17 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner | Mauritius | 81 |
-| 18 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | Mauritius | 80 |
-| 19 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | Mauritius | 73 |
-| 20 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 73 |
+| 17 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | Mauritius | 80 |
+| 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | Mauritius | 73 |
+| 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 73 |
+| 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 65 |
 
-Generated: 2026-10-07T14:07:11.046Z
+Generated: 2026-10-07T14:55:56.799Z

@@ -1,6 +1,6 @@
 # Public Contributions - Laos
 
-Generated: 2026-10-07T14:03:49.660Z
+Generated: 2026-10-07T14:53:45.181Z
 
 Users: 359
 
@@ -21,8 +21,8 @@ Users: 359
 | 13 | [hiramoto](https://github.com/hiramoto) | 永田彰 (Akira NAGATA) | TOKYO | kazaimu_ | Vientiane, Lao P.D.R. | 157 |
 | 14 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin |  |  | Laos | 145 |
 | 15 | [aoypsk8](https://github.com/aoypsk8) | AOY PHONGSAKOUN MR | IndochinaBank |  | Vientiane, Laos | 133 |
-| 16 | [med1213](https://github.com/med1213) | Med | APB Bank |  | Laos, Vientaince | 122 |
+| 16 | [med1213](https://github.com/med1213) | Med | APB Bank |  | Laos, Vientaince | 123 |
 | 17 | [bytoum](https://github.com/bytoum) | Toum Nanthavath |  |  | Laos | 120 |
 | 18 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | http://tedory.me |  | Vientiane, Laos | 120 |
-| 19 | [singha55162326](https://github.com/singha55162326) |  |  |  | vientiane, Laos | 119 |
-| 20 | [Bird9249](https://github.com/Bird9249) | BirdKeonavong | hal tech |  | Laos, Vientiane | 115 |
+| 19 | [Bird9249](https://github.com/Bird9249) | BirdKeonavong | hal tech |  | Laos, Vientiane | 115 |
+| 20 | [Yingyony0097](https://github.com/Yingyony0097) | Saimond |  | yingyong0097 | Vientaine, Laos | 114 |

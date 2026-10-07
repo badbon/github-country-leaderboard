@@ -1,14 +1,14 @@
 # Public Contributions - Mauritius
 
-Generated: 2026-10-07T14:07:11.046Z
+Generated: 2026-10-07T14:55:56.799Z
 
-Users: 720
+Users: 719
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 4077 |
 | 2 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 2836 |
-| 3 | [xelab04](https://github.com/xelab04) | Alex Bissessur |  |  | Mauritius | 1970 |
+| 3 | [xelab04](https://github.com/xelab04) | Alex Bissessur |  |  | Mauritius | 1511 |
 | 4 | [asvinb](https://github.com/asvinb) | Asvin Balloo | @10up  |  | Mauritius | 1409 |
 | 5 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 1389 |
 | 6 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 1378 |

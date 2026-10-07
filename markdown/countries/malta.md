@@ -1,6 +1,6 @@
 # Malta
 
-Indexed users: 1,231
+Indexed users: 1,229
 
 | Leaderboard | Link |
 |---|---|
@@ -73,14 +73,14 @@ Indexed users: 1,231
 | 9 | [zeelog](https://github.com/zeelog) |  | Malta | 258 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | Luqa, Malta | 243 |
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | San Ġwann, Malta 🇲🇹 | 228 |
-| 12 | [LeticiaBibiano](https://github.com/LeticiaBibiano) | Letícia Bibiano | Malta, EU | 195 |
-| 13 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici | Malta | 170 |
-| 14 | [melihberberolu](https://github.com/melihberberolu) | Melih | Malta | 152 |
-| 15 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | Malta | 140 |
-| 16 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 136 |
-| 17 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 136 |
-| 18 | [dalerank](https://github.com/dalerank) | dalerank | Sliema, Malta | 128 |
-| 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
-| 20 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
+| 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici | Malta | 170 |
+| 13 | [melihberberolu](https://github.com/melihberberolu) | Melih | Malta | 152 |
+| 14 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | Malta | 140 |
+| 15 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 136 |
+| 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 136 |
+| 17 | [dalerank](https://github.com/dalerank) | dalerank | Sliema, Malta | 128 |
+| 18 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
+| 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
+| 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
 
-Generated: 2026-10-07T14:05:46.419Z
+Generated: 2026-10-07T14:55:34.792Z

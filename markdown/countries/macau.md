@@ -68,8 +68,8 @@ Indexed users: 447
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 200 |
 | 5 | [andyhamgit](https://github.com/andyhamgit) | Di Han | Macau | 187 |
 | 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 184 |
-| 7 | [IMRL](https://github.com/IMRL) |  | Taipa, Macau | 165 |
-| 8 | [clinplayer](https://github.com/clinplayer) | Cheng Lin | Macau | 160 |
+| 7 | [clinplayer](https://github.com/clinplayer) | Cheng Lin | Macau | 167 |
+| 8 | [IMRL](https://github.com/IMRL) |  | Taipa, Macau | 165 |
 | 9 | [manesec](https://github.com/manesec) | Mane | Macau | 128 |
 | 10 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | Macau | 124 |
 | 11 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Macau | 121 |
@@ -83,4 +83,4 @@ Indexed users: 447
 | 19 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 66 |
 
-Generated: 2026-10-07T14:04:57.601Z
+Generated: 2026-10-07T14:54:50.177Z

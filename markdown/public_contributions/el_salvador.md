@@ -1,6 +1,6 @@
 # Public Contributions - El Salvador
 
-Generated: 2026-10-07T13:49:45.203Z
+Generated: 2026-10-07T14:45:30.273Z
 
 Users: 2389
 
@@ -10,8 +10,8 @@ Users: 2389
 | 2 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4137 |
 | 3 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 4065 |
 | 4 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | Abaco Capital | sthbryan_ | El Salvador | 2658 |
-| 5 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  |  @HormigasAIS  |  | El Salvador  | 2115 |
-| 6 | [martirale](https://github.com/martirale) | Alejandro Mártir | @am25-labs  |  | El Salvador | 1986 |
+| 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | @am25-labs  |  | El Salvador | 1986 |
+| 6 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  |  @HormigasAIS  |  | El Salvador  | 1626 |
 | 7 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | @fundacion-poma @glimmer-labs |  | El Salvador | 1509 |
 | 8 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | Pokémon Company |  | El Salvador | 1305 |
 | 9 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 |  | Forte11Cuba | El Salvador | 1304 |

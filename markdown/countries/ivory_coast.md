@@ -31,7 +31,7 @@ Indexed users: 489
 | 17 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Abidjan, Côte d'Ivoire | 3,644 |
 | 18 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 3,371 |
 | 19 | [ZakariaDev000](https://github.com/ZakariaDev000) | Zakaria Dev | Côte d'ivoire, Abidjan | 3,232 |
-| 20 | [sovmulax](https://github.com/sovmulax) | Geoffroy Evane | Abidjan, Côte d'Ivoire | 3,156 |
+| 20 | [ulrichkouame](https://github.com/ulrichkouame) | KOUAME Ulrich Kouadio | Ivory Coast | 2,990 |
 
 ## Public Contributions
 
@@ -52,7 +52,7 @@ Indexed users: 489
 | 13 | [zampou-code](https://github.com/zampou-code) | Zi Code | Abidjan, Ivory Coast | 386 |
 | 14 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 367 |
 | 15 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 366 |
-| 16 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 323 |
+| 16 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 326 |
 | 17 | [Diby-dev](https://github.com/Diby-dev) | Dan | Côte d'Ivoire, Abidjan | 302 |
 | 18 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | Abidjan, Côte-d'Ivoire | 290 |
 | 19 | [Ye180](https://github.com/Ye180) | Youssouf Emmanuel | Abidjan, Côte d'Ivoire | 287 |
@@ -69,7 +69,7 @@ Indexed users: 489
 | 5 | [boyeClaude](https://github.com/boyeClaude) | Frederic Boye | Ivory Coast | 138 |
 | 6 | [moasko](https://github.com/moasko) | moasko.dev | Côte d'Ivoire | 114 |
 | 7 | [detygon](https://github.com/detygon) | Salomon Dion | Abidjan, Côte d'Ivoire | 91 |
-| 8 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 88 |
+| 8 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 90 |
 | 9 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 82 |
 | 10 | [karimalik](https://github.com/karimalik) | Karim Kompissi | Abidjan, Côte d'ivoire | 75 |
 | 11 | [philemongloblehi](https://github.com/philemongloblehi) | PHILEMON GLOBLEHI | Ivory Coast | 68 |
@@ -83,4 +83,4 @@ Indexed users: 489
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
 | 20 | [k111ra](https://github.com/k111ra) | sidik slims | Abidjan, Côte D'ivoire | 42 |
 
-Generated: 2026-10-07T13:59:45.890Z
+Generated: 2026-10-07T14:52:06.939Z

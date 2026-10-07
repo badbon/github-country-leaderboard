@@ -1,12 +1,12 @@
 # Followers - Burundi
 
-Generated: 2026-10-07T13:44:45.099Z
+Generated: 2026-10-07T14:38:37.764Z
 
 Users: 236
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Self-Employed | Mtl_Thierry_Jov | Bujumbura, Burundi | 365 |
+| 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Self-Employed | Mtl_Thierry_Jov | Bujumbura, Burundi | 358 |
 | 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | ACLIS | gatarelib | Burundi | 140 |
 | 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | PayVista |  | Burundi | 136 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 102 |
@@ -23,6 +23,6 @@ Users: 236
 | 15 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE |  | YvanAhishakiye | Bujumbura, Burundi | 43 |
 | 16 | [ntzwilly](https://github.com/ntzwilly) | Willy NTAZAMA | Freelance Full-Stack Developer | Wntazama | Burundi | 43 |
 | 17 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 41 |
-| 18 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 36 |
-| 19 | [mudjaycker](https://github.com/mudjaycker) | MARYIMANA BUTOYI | BIOS |  | Bujumbura/BURUNDI | 36 |
-| 20 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 35 |
+| 18 | [mudjaycker](https://github.com/mudjaycker) | MARYIMANA BUTOYI | BIOS |  | Bujumbura/BURUNDI | 36 |
+| 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 35 |
+| 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 34 |

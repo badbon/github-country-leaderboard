@@ -1,6 +1,6 @@
 # Mauritania
 
-Indexed users: 289
+Indexed users: 288
 
 | Leaderboard | Link |
 |---|---|
@@ -23,12 +23,12 @@ Indexed users: 289
 | 9 | [salembaira](https://github.com/salembaira) | Mohamed Salem BAIRA | Nouakchott, Mauritania | 2,263 |
 | 10 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 2,250 |
 | 11 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi | Mauritania | 1,824 |
-| 12 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Nouakchott, Mauritania | 1,608 |
-| 13 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 1,511 |
-| 14 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim | Nouakchott, Mauritania | 1,510 |
-| 15 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer | Mauritania | 1,309 |
-| 16 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 1,156 |
-| 17 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Mauritania | 1,126 |
+| 12 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Mauritania | 1,787 |
+| 13 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Nouakchott, Mauritania | 1,608 |
+| 14 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 1,511 |
+| 15 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim | Nouakchott, Mauritania | 1,510 |
+| 16 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer | Mauritania | 1,309 |
+| 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 1,156 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil | Mauritania | 1,049 |
 | 19 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Nouakchott | 988 |
 | 20 | [aadeina](https://github.com/aadeina) | Amar | Mauritania | 855 |
@@ -42,21 +42,21 @@ Indexed users: 289
 | 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 770 |
 | 4 | [sidihmety](https://github.com/sidihmety) | SIDI HMETY | Nouakchott | 673 |
 | 5 | [visola777](https://github.com/visola777) | visola777 | Mauritania | 670 |
-| 6 | [AbdellahiAhmed](https://github.com/AbdellahiAhmed) | Abdellahi Ahmed | Nouakchott | 518 |
-| 7 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 457 |
-| 8 | [12ahm-c](https://github.com/12ahm-c) | ahmed ismail | Mauritania  | 403 |
-| 9 | [sidi-maadh](https://github.com/sidi-maadh) |  Sidi Maadh | Nouakchott | 378 |
-| 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 357 |
-| 11 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati | Nouakchott | 299 |
-| 12 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS | Mauritania | 285 |
-| 13 | [alibyh](https://github.com/alibyh) | Alibyh | Nouakchott-Mauritania | 264 |
-| 14 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  | Nouakchott mauritanie  | 246 |
-| 15 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef | Mauritania | 218 |
-| 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 206 |
-| 17 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 187 |
-| 18 | [medmahmoudhdaya](https://github.com/medmahmoudhdaya) | med mahmoud hdaya | nouakchott mauritania | 176 |
-| 19 | [saeedbark](https://github.com/saeedbark) | saeedbark | mauritania | 174 |
-| 20 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 162 |
+| 6 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Nouakchott-Mauritanie | 592 |
+| 7 | [AbdellahiAhmed](https://github.com/AbdellahiAhmed) | Abdellahi Ahmed | Nouakchott | 518 |
+| 8 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 457 |
+| 9 | [12ahm-c](https://github.com/12ahm-c) | ahmed ismail | Mauritania  | 403 |
+| 10 | [sidi-maadh](https://github.com/sidi-maadh) |  Sidi Maadh | Nouakchott | 378 |
+| 11 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 357 |
+| 12 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati | Nouakchott | 299 |
+| 13 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS | Mauritania | 285 |
+| 14 | [alibyh](https://github.com/alibyh) | Alibyh | Nouakchott-Mauritania | 264 |
+| 15 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  | Nouakchott mauritanie  | 246 |
+| 16 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef | Mauritania | 218 |
+| 17 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 206 |
+| 18 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 187 |
+| 19 | [medmahmoudhdaya](https://github.com/medmahmoudhdaya) | med mahmoud hdaya | nouakchott mauritania | 176 |
+| 20 | [saeedbark](https://github.com/saeedbark) | saeedbark | mauritania | 174 |
 
 ## Followers
 
@@ -68,19 +68,19 @@ Indexed users: 289
 | 4 | [visola777](https://github.com/visola777) | visola777 | Mauritania | 49 |
 | 5 | [ErgeibiMed](https://github.com/ErgeibiMed) |  | Nouakchott - Mauritanie  | 48 |
 | 6 | [leloufadel](https://github.com/leloufadel) | Lala Aicha El Vadel | Mauritania | 48 |
-| 7 | [Layito96](https://github.com/Layito96) |  | Nouakchott, Mauritania | 41 |
-| 8 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 38 |
-| 9 | [lavantora](https://github.com/lavantora) | Aysha | Mauritania | 36 |
-| 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 33 |
-| 11 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 33 |
-| 12 | [Kader198](https://github.com/Kader198) | Abdel Kader Maguiraga | MAURITANIA  | 32 |
-| 13 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 30 |
-| 14 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said | Nouakchott,Mauriania | 30 |
-| 15 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 29 |
+| 7 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 38 |
+| 8 | [lavantora](https://github.com/lavantora) | Aysha | Mauritania | 36 |
+| 9 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 33 |
+| 10 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 33 |
+| 11 | [Kader198](https://github.com/Kader198) | Abdel Kader Maguiraga | MAURITANIA  | 32 |
+| 12 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 30 |
+| 13 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said | Nouakchott,Mauriania | 30 |
+| 14 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 29 |
+| 15 | [Layito96](https://github.com/Layito96) |  | Nouakchott, Mauritania | 29 |
 | 16 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou | Nouakchott, Mauritania | 29 |
 | 17 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh | nouakchott | 28 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil | Mauritania | 28 |
 | 19 | [bechir](https://github.com/bechir) | Bechir Ba | Mauritania | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-07T14:06:39.997Z
+Generated: 2026-10-07T14:55:49.710Z

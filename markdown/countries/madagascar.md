@@ -50,12 +50,12 @@ Indexed users: 1,916
 | 11 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 1,907 |
 | 12 | [RazanajoharyNyHasina](https://github.com/RazanajoharyNyHasina) | Ny Hasina | Antananarivo | 1,793 |
 | 13 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,771 |
-| 14 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,558 |
-| 15 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa | Antananarivo, Madagascar | 1,553 |
-| 16 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Antananarivo | 1,535 |
-| 17 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,465 |
-| 18 | [AmourRamanantsiresy](https://github.com/AmourRamanantsiresy) | RAMANANTSIRESY Amour Bien Aimé | Antananarivo | 1,460 |
-| 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina | Madagascar | 1,394 |
+| 14 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,623 |
+| 15 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,558 |
+| 16 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa | Antananarivo, Madagascar | 1,553 |
+| 17 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Antananarivo | 1,535 |
+| 18 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina | Madagascar | 1,486 |
+| 19 | [AmourRamanantsiresy](https://github.com/AmourRamanantsiresy) | RAMANANTSIRESY Amour Bien Aimé | Antananarivo | 1,460 |
 | 20 | [Noahmathieu](https://github.com/Noahmathieu) | Noah ANDRIANANTENAINA | Madagascar | 1,380 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,916
 | 19 | [LizkaRyan](https://github.com/LizkaRyan) | Ryan | Antananarivo, Madagascar | 145 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 142 |
 
-Generated: 2026-10-07T14:05:02.652Z
+Generated: 2026-10-07T14:54:54.673Z

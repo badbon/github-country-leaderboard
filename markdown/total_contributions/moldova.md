@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-07T14:07:24.708Z
+Generated: 2026-10-07T14:57:41.954Z
 
 Users: 1768
 
@@ -9,8 +9,8 @@ Users: 1768
 | 1 | [evisoft](https://github.com/evisoft) | Vitalie Esanu | Evisoft | evisoft | Moldova | 13677 |
 | 2 | [icaliman](https://github.com/icaliman) | Ion Căliman | XLITE DEV |  | Moldova | 6932 |
 | 3 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric |  |  | Moldova | 6534 |
-| 4 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru |  |  | Ungheni, Moldova / Iasi, Romania | 5621 |
-| 5 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | @primevision-com  |  | Chisinau, Moldova | 5329 |
+| 4 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | @primevision-com  |  | Chisinau, Moldova | 6072 |
+| 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru |  |  | Ungheni, Moldova / Iasi, Romania | 5621 |
 | 6 | [StefuSD](https://github.com/StefuSD) | Stepan Stefu |  |  | Moldova | 5328 |
 | 7 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion |  |  | Moldova, Chisinau | 5271 |
 | 8 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5154 |

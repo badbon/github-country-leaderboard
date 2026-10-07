@@ -45,9 +45,9 @@ Indexed users: 1,172
 | 6 | [zerosatus](https://github.com/zerosatus) | zerosatus | Mozambique | 1,003 |
 | 7 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 974 |
 | 8 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 936 |
-| 9 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 693 |
-| 10 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 690 |
-| 11 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | Mozambique | 685 |
+| 9 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | Mozambique | 721 |
+| 10 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 693 |
+| 11 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 690 |
 | 12 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 673 |
 | 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 670 |
 | 14 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 664 |
@@ -83,4 +83,4 @@ Indexed users: 1,172
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [EMEDE2014](https://github.com/EMEDE2014) | Emede Momade | Nampula/Mozambique | 96 |
 
-Generated: 2026-10-07T14:08:30.096Z
+Generated: 2026-10-07T14:59:18.049Z

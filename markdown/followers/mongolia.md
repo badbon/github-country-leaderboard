@@ -1,8 +1,8 @@
 # Followers - Mongolia
 
-Generated: 2026-10-07T14:07:33.218Z
+Generated: 2026-10-07T14:57:56.471Z
 
-Users: 811
+Users: 809
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

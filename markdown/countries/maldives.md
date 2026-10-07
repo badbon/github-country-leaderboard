@@ -14,24 +14,24 @@ Indexed users: 356
 |---:|---|---|---|---:|
 | 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 10,937 |
 | 2 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,490 |
-| 3 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,563 |
-| 4 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,307 |
-| 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 5,107 |
-| 6 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,776 |
-| 7 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 4,552 |
-| 8 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,513 |
-| 9 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,364 |
-| 10 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,261 |
-| 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,193 |
-| 12 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 3,925 |
-| 13 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 3,869 |
-| 14 | [aboobakurusuheyl](https://github.com/aboobakurusuheyl) | Aboobakuru Suhail | Maldives | 3,859 |
-| 15 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 3,803 |
-| 16 | [hussainabeer](https://github.com/hussainabeer) | Hussain Abeer | Maldives | 3,778 |
-| 17 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 3,542 |
-| 18 | [yaambe](https://github.com/yaambe) | Yaambe | Maldives | 3,524 |
-| 19 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 3,517 |
-| 20 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 3,231 |
+| 3 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 7,283 |
+| 4 | [lishaan](https://github.com/lishaan) | Lishan | Malé, Maldives | 5,716 |
+| 5 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,563 |
+| 6 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,307 |
+| 7 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 5,107 |
+| 8 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 4,961 |
+| 9 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,776 |
+| 10 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 4,552 |
+| 11 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,513 |
+| 12 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,364 |
+| 13 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,261 |
+| 14 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,193 |
+| 15 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 3,925 |
+| 16 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 3,869 |
+| 17 | [aboobakurusuheyl](https://github.com/aboobakurusuheyl) | Aboobakuru Suhail | Maldives | 3,859 |
+| 18 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 3,803 |
+| 19 | [hussainabeer](https://github.com/hussainabeer) | Hussain Abeer | Maldives | 3,778 |
+| 20 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 3,542 |
 
 ## Public Contributions
 
@@ -40,18 +40,18 @@ Indexed users: 356
 | 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Malé, Maldives | 1,566 |
 | 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Male', Maldives | 1,337 |
 | 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | malé, maldives  | 1,304 |
-| 4 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,016 |
-| 5 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin | Malé, Maldives | 966 |
-| 6 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 931 |
-| 7 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 694 |
-| 8 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 633 |
-| 9 | [crockalet](https://github.com/crockalet) |  | Maldives | 579 |
-| 10 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 498 |
-| 11 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 423 |
-| 12 | [xSil3nt](https://github.com/xSil3nt) | Shazin | Male', Maldives | 417 |
-| 13 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh | Male' , Maldives | 366 |
-| 14 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 354 |
-| 15 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 319 |
+| 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 1,215 |
+| 5 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,016 |
+| 6 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin | Malé, Maldives | 966 |
+| 7 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 931 |
+| 8 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 694 |
+| 9 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 633 |
+| 10 | [crockalet](https://github.com/crockalet) |  | Maldives | 579 |
+| 11 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 498 |
+| 12 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 423 |
+| 13 | [xSil3nt](https://github.com/xSil3nt) | Shazin | Male', Maldives | 417 |
+| 14 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh | Male' , Maldives | 366 |
+| 15 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 354 |
 | 16 | [aliaafee](https://github.com/aliaafee) | Ali Aafee | Maldives | 295 |
 | 17 | [WovenCoast](https://github.com/WovenCoast) | FlameXode | Maldives | 233 |
 | 18 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 232 |
@@ -77,10 +77,10 @@ Indexed users: 356
 | 13 | [nafeef123](https://github.com/nafeef123) | Mafeef123 | Maldives | 62 |
 | 14 | [xahy](https://github.com/xahy) | Ismail Zahee | Maldives | 62 |
 | 15 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 57 |
-| 16 | [mohamed-azhar](https://github.com/mohamed-azhar) | Mohamed Azhar | Maldives | 46 |
+| 16 | [mohamed-azhar](https://github.com/mohamed-azhar) | Mohamed Azhar | Maldives | 44 |
 | 17 | [Adamwaheed](https://github.com/Adamwaheed) | Adam | Maldives | 43 |
 | 18 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 42 |
 | 19 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood | Thulhaadhoo, Maldives | 41 |
 | 20 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 41 |
 
-Generated: 2026-10-07T14:05:39.508Z
+Generated: 2026-10-07T14:55:28.190Z

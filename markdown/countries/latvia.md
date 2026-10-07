@@ -1,6 +1,6 @@
 # Latvia
 
-Indexed users: 3,285
+Indexed users: 3,284
 
 | Leaderboard | Link |
 |---|---|
@@ -53,16 +53,16 @@ Indexed users: 3,285
 | 14 | [andis-sprinkis](https://github.com/andis-sprinkis) | Andis Spriņķis | Latvia | 1,497 |
 | 15 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,419 |
 | 16 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis | Riga, Latvia | 1,313 |
-| 17 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,262 |
-| 18 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,231 |
-| 19 | [Takosaga](https://github.com/Takosaga) | Gonzalo Gamez | Riga, Latvia | 1,203 |
-| 20 | [alanarzumanjan](https://github.com/alanarzumanjan) | Alan Arzumanjan | Latvia, Riga | 1,199 |
+| 17 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
+| 18 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,262 |
+| 19 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,231 |
+| 20 | [Takosaga](https://github.com/Takosaga) | Gonzalo Gamez | Riga, Latvia | 1,203 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [GrayMamoru](https://github.com/GrayMamoru) |  | Riga | 5,205 |
+| 1 | [GrayMamoru](https://github.com/GrayMamoru) |  | Riga | 5,201 |
 | 2 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 2,401 |
 | 3 | [Mistrust12](https://github.com/Mistrust12) | Stay forever | Riga | 1,124 |
 | 4 | [kj89](https://github.com/kj89) | kjnodes | Latvia | 605 |
@@ -83,4 +83,4 @@ Indexed users: 3,285
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-07T14:03:52.389Z
+Generated: 2026-10-07T14:53:48.417Z

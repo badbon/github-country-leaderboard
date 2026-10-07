@@ -1,8 +1,8 @@
 # Total Contributions - Mongolia
 
-Generated: 2026-10-07T14:07:33.218Z
+Generated: 2026-10-07T14:57:56.471Z
 
-Users: 811
+Users: 809
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,10 +10,10 @@ Users: 811
 | 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya |  | ByamB4 | Ulaanbaatar, Mongolia | 130747 |
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa |  |  | Mongolia | 14169 |
 | 4 | [baysaa006](https://github.com/baysaa006) |  |  |  | Mongolia. | 10944 |
-| 5 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs |  |  | Ulan Bator | 7774 |
-| 6 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav |  | Amaraa2404 | Ulaanbaatar, Mongolia | 7438 |
-| 7 | [ebattulga](https://github.com/ebattulga) | ebattulga | Andromeda |  | Mongolia, Ulaanbaatar | 5658 |
-| 8 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 5387 |
+| 5 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 8839 |
+| 6 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs |  |  | Ulan Bator | 7774 |
+| 7 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav |  | Amaraa2404 | Ulaanbaatar, Mongolia | 7438 |
+| 8 | [ebattulga](https://github.com/ebattulga) | ebattulga | Andromeda |  | Mongolia, Ulaanbaatar | 5658 |
 | 9 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg |  |  | Ulaanbaatar, Mongolia | 5065 |
 | 10 | [turbold24](https://github.com/turbold24) | Turbold | @shoppyMN @cody-mn  | turu_mn | Ulaanbaatar, Mongolia | 4989 |
 | 11 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | L'Atelier Gege |  | Ulaanbaatar, Mongolia | 4952 |

@@ -1,8 +1,8 @@
 # Followers - Cameroon
 
-Generated: 2026-10-07T13:45:50.735Z
+Generated: 2026-10-07T14:38:51.134Z
 
-Users: 1807
+Users: 1806
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

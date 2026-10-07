@@ -1,6 +1,6 @@
 # Public Contributions - Madagascar
 
-Generated: 2026-10-07T14:05:02.652Z
+Generated: 2026-10-07T14:54:54.673Z
 
 Users: 1916
 
@@ -19,10 +19,10 @@ Users: 1916
 | 11 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 1907 |
 | 12 | [RazanajoharyNyHasina](https://github.com/RazanajoharyNyHasina) | Ny Hasina |  |  | Antananarivo | 1793 |
 | 13 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio |  |  | Antananarivo, MADAGASCAR | 1771 |
-| 14 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA |  |  | madagascar | 1558 |
-| 15 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa |  |  | Antananarivo, Madagascar | 1553 |
-| 16 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Ismael_dev |  | Antananarivo | 1535 |
-| 17 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Haute Ecole d'Informatique (HEI) |  | Antananarivo Madagascar | 1465 |
-| 18 | [AmourRamanantsiresy](https://github.com/AmourRamanantsiresy) | RAMANANTSIRESY Amour Bien Aimé |  |  | Antananarivo | 1460 |
-| 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina |  |  | Madagascar | 1394 |
+| 14 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Haute Ecole d'Informatique (HEI) |  | Antananarivo Madagascar | 1623 |
+| 15 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA |  |  | madagascar | 1558 |
+| 16 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa |  |  | Antananarivo, Madagascar | 1553 |
+| 17 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Ismael_dev |  | Antananarivo | 1535 |
+| 18 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina |  |  | Madagascar | 1486 |
+| 19 | [AmourRamanantsiresy](https://github.com/AmourRamanantsiresy) | RAMANANTSIRESY Amour Bien Aimé |  |  | Antananarivo | 1460 |
 | 20 | [Noahmathieu](https://github.com/Noahmathieu) | Noah ANDRIANANTENAINA | IT University | NoahAndriana | Madagascar | 1380 |

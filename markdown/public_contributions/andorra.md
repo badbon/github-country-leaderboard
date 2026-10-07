@@ -1,6 +1,6 @@
 # Public Contributions - Andorra
 
-Generated: 2026-10-07T13:39:21.485Z
+Generated: 2026-10-07T14:33:31.475Z
 
 Users: 214
 
@@ -13,8 +13,8 @@ Users: 214
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Domaine de Casinus |  | Andorra | 710 |
 | 6 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 694 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 660 |
-| 8 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Quasar Store |  | Andorra, Principality of Andorra | 613 |
-| 9 | [iuriaranda](https://github.com/iuriaranda) | iuri | @giantswarm |  | Andorra | 600 |
+| 8 | [iuriaranda](https://github.com/iuriaranda) | iuri | @giantswarm |  | Andorra | 643 |
+| 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Quasar Store |  | Andorra, Principality of Andorra | 613 |
 | 10 | [martapanc](https://github.com/martapanc) |  |  |  | Italy / Andorra | 509 |
 | 11 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | @Peersyst |  | Andorra | 449 |
 | 12 | [trebormc](https://github.com/trebormc) | Robert Menetray | Menetray | RobertMenetray | Andorra | 406 |

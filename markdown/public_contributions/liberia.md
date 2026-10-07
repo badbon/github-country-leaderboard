@@ -1,12 +1,12 @@
 # Public Contributions - Liberia
 
-Generated: 2026-10-07T14:04:03.799Z
+Generated: 2026-10-07T14:54:10.362Z
 
 Users: 209
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 1310 |
+| 1 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 1510 |
 | 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera |  |  | Liberia | 1142 |
 | 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Vendorad |  | Liberia | 737 |
 | 4 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | FRONT-END DEVELOPER | efmomoh | Monrovia, Liberia | 715 |
@@ -21,7 +21,7 @@ Users: 209
 | 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | TBAY Tech Service | FitzgeraldChal | Ontario, Canada & Monrovia, Liberia | 188 |
 | 14 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo |  |  | Monrovia, Liberia | 186 |
 | 15 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 172 |
-| 16 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 167 |
+| 16 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 158 |
 | 17 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | NextGents Tech Inc. |  | Rwanda, Liberia. | 143 |
 | 18 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 143 |
 | 19 | [armandosolisvillegas-max](https://github.com/armandosolisvillegas-max) | Armando José Solís Villegas |  |  | Liberia | 137 |

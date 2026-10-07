@@ -1,6 +1,6 @@
 # Mongolia
 
-Indexed users: 811
+Indexed users: 809
 
 | Leaderboard | Link |
 |---|---|
@@ -16,10 +16,10 @@ Indexed users: 811
 | 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 130,747 |
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 14,169 |
 | 4 | [baysaa006](https://github.com/baysaa006) |  | Mongolia. | 10,944 |
-| 5 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs | Ulan Bator | 7,774 |
-| 6 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 7,438 |
-| 7 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 5,658 |
-| 8 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 5,387 |
+| 5 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 8,839 |
+| 6 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs | Ulan Bator | 7,774 |
+| 7 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 7,438 |
+| 8 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 5,658 |
 | 9 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,065 |
 | 10 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 4,989 |
 | 11 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 4,952 |
@@ -51,9 +51,9 @@ Indexed users: 811
 | 12 | [batdorj-s](https://github.com/batdorj-s) | batdorj | mongolia | 546 |
 | 13 | [TemuulenBM](https://github.com/TemuulenBM) | Temuulen | Mongolia | 541 |
 | 14 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Ulaanbaatar, Mongolia | 537 |
-| 15 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 503 |
-| 16 | [Zombie-01](https://github.com/Zombie-01) | adiyadorj badamsereejid | mongolia | 495 |
-| 17 | [Namuun0521](https://github.com/Namuun0521) | Namuun | Ulaanbaatar, Mongolia | 484 |
+| 15 | [Zombie-01](https://github.com/Zombie-01) | adiyadorj badamsereejid | mongolia | 495 |
+| 16 | [Namuun0521](https://github.com/Namuun0521) | Namuun | Ulaanbaatar, Mongolia | 484 |
+| 17 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 462 |
 | 18 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | mongolia | 453 |
 | 19 | [JinreP](https://github.com/JinreP) | Subeedei | Mongolia | 448 |
 | 20 | [dukunuu](https://github.com/dukunuu) | nt-dukk | Ulaanbaatar, Mongolia | 430 |
@@ -83,4 +83,4 @@ Indexed users: 811
 | 19 | [mchigm](https://github.com/mchigm) | MCHIGM | Mongolia | 65 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-07T14:07:33.218Z
+Generated: 2026-10-07T14:57:56.471Z

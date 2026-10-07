@@ -1,12 +1,12 @@
 # Followers - Latvia
 
-Generated: 2026-10-07T14:03:52.389Z
+Generated: 2026-10-07T14:53:48.417Z
 
-Users: 3285
+Users: 3284
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [GrayMamoru](https://github.com/GrayMamoru) |  |  |  | Riga | 5205 |
+| 1 | [GrayMamoru](https://github.com/GrayMamoru) |  |  |  | Riga | 5201 |
 | 2 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Divilab | AigarsSilkalns | Riga, Latvia | 2401 |
 | 3 | [Mistrust12](https://github.com/Mistrust12) | Stay forever | Emergn  | RepriseLoans | Riga | 1124 |
 | 4 | [kj89](https://github.com/kj89) | kjnodes | kjnodes | kjnodes | Latvia | 605 |

@@ -1,8 +1,8 @@
 # Public Contributions - Cameroon
 
-Generated: 2026-10-07T13:45:50.735Z
+Generated: 2026-10-07T14:38:51.134Z
 
-Users: 1807
+Users: 1806
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,7 +12,7 @@ Users: 1807
 | 4 | [Christiantyemele](https://github.com/Christiantyemele) | Christian Yemele | Adorsys |  | Cameroon | 3149 |
 | 5 | [bensah](https://github.com/bensah) | Ben Nsah | Taadom Digital Inc. | nsahbernard | Cameroon | 2966 |
 | 6 | [Chu29](https://github.com/Chu29) | MALIK MUEGHE ABUEMKEZE CHU | REBASE CODE CAMP | unku_chu | Yaounde, Cameroon | 1901 |
-| 7 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall |  | kynmmarshall | Cameroon | 1856 |
+| 7 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall |  | kynmmarshall | Cameroon | 1824 |
 | 8 | [gekkin-programmer](https://github.com/gekkin-programmer) | brayan harry | @Best-Corp  |  | Douala , Cameroon | 1774 |
 | 9 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja |  |  | Cameroon | 1771 |
 | 10 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | DigiMark Consulting & Revive | kanjo_elkamira | Yaoundé Cameroon | 1685 |

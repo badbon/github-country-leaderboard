@@ -53,8 +53,8 @@ Indexed users: 909
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 750 |
 | 15 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 743 |
 | 16 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 614 |
-| 17 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
-| 18 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 601 |
+| 17 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 609 |
+| 18 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
 | 19 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 494 |
 | 20 | [zallahve](https://github.com/zallahve) | Ziya Allahverdiyev | Hamilton, Ontario | 482 |
 
@@ -83,4 +83,4 @@ Indexed users: 909
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 86 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 75 |
 
-Generated: 2026-10-07T13:41:56.069Z
+Generated: 2026-10-07T14:36:35.973Z

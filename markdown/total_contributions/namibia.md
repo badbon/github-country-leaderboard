@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-07T14:08:42.123Z
+Generated: 2026-10-07T14:59:27.188Z
 
 Users: 478
 
@@ -18,11 +18,11 @@ Users: 478
 | 10 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | STITCH WORX |  | NAMIBIA | 2411 |
 | 11 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | University of Namibia | rtonata | Windhoek, Namibia | 2317 |
 | 12 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Holoog |  | Windhoek, Namibia | 2183 |
-| 13 | [mou-rush](https://github.com/mou-rush) | Moureen |  | resilient_mo_ | Swakopmund, Namibia | 1961 |
-| 14 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja |  |  | Windhoek | 1898 |
-| 15 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | martinmukoya.com |  | swakopmund, Namibia | 1857 |
+| 13 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja |  |  | Windhoek | 1898 |
+| 14 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | martinmukoya.com |  | swakopmund, Namibia | 1857 |
+| 15 | [mou-rush](https://github.com/mou-rush) | Moureen |  | resilient_mo_ | Swakopmund, Namibia | 1776 |
 | 16 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Kaizen Media | eckhardtdreyer | Namibia | 1746 |
 | 17 | [ThomasShikalepo](https://github.com/ThomasShikalepo) | Thomas shikalepo |  |  | Windhoek, Namibia | 1563 |
 | 18 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu |  |  | Windhoek, Namibia | 1557 |
-| 19 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Namibia University of Science and Technology |  | Windhoek, Namibia | 1503 |
-| 20 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 1400 |
+| 19 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | 127.0.0.1 |  | Namibia | 1520 |
+| 20 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Namibia University of Science and Technology |  | Windhoek, Namibia | 1503 |

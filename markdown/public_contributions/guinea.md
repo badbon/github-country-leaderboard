@@ -1,6 +1,6 @@
 # Public Contributions - Guinea
 
-Generated: 2026-10-07T13:56:39.523Z
+Generated: 2026-10-07T14:49:24.215Z
 
 Users: 265
 
@@ -24,5 +24,5 @@ Users: 265
 | 16 | [amadou11doumbouya10-lgtm](https://github.com/amadou11doumbouya10-lgtm) | Amah  | Vision-Amah |  | Guinée. Conakry | 164 |
 | 17 | [elhadjmamadou](https://github.com/elhadjmamadou) | Elhadj Mamadou Diallo | Etudiant |  | Guinee, conakry | 147 |
 | 18 | [Abel-sangare](https://github.com/Abel-sangare) |  |  |  | Conakry | 133 |
-| 19 | [lamarana55](https://github.com/lamarana55) | Mamadou Lamarana Diallo | Guinea National Agency of Digitalization  | lamarana55 | Guinea  | 131 |
-| 20 | [Keira224](https://github.com/Keira224) | Ousmane Keira  |  |  | Guinée, Conakry | 123 |
+| 19 | [Keira224](https://github.com/Keira224) | Ousmane Keira  |  |  | Guinée, Conakry | 123 |
+| 20 | [Skjnior](https://github.com/Skjnior) | Rj_45 | Your face | fourzero_four | Guinea | 118 |

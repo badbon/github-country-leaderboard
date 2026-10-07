@@ -1,23 +1,23 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-07T13:51:01.425Z
+Generated: 2026-10-07T14:47:24.042Z
 
 Users: 326
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 2970 |
-| 2 | [Shoneel](https://github.com/Shoneel) |  |  |  | Fiji, Suva  | 1379 |
-| 3 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji National University  |  | Fiji | 1285 |
-| 4 | [Amdeo](https://github.com/Amdeo) | Cooper |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1258 |
+| 2 | [Amdeo](https://github.com/Amdeo) | Cooper |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1438 |
+| 3 | [Shoneel](https://github.com/Shoneel) |  |  |  | Fiji, Suva  | 1379 |
+| 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji National University  |  | Fiji | 1285 |
 | 5 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 1136 |
-| 6 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish |  |  | Fiji | 1054 |
-| 7 | [crazybanboo](https://github.com/crazybanboo) | Ethan | sunmi |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 975 |
-| 8 | [ApophisX](https://github.com/ApophisX) | GienWang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 958 |
-| 9 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah |  |  | SUVA | 891 |
-| 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 887 |
-| 11 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 848 |
-| 12 | [jaclla](https://github.com/jaclla) | Logic | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 830 |
+| 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | sunmi |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1085 |
+| 7 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish |  |  | Fiji | 1054 |
+| 8 | [jaclla](https://github.com/jaclla) | Logic | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1014 |
+| 9 | [ApophisX](https://github.com/ApophisX) | GienWang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 958 |
+| 10 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah |  |  | SUVA | 891 |
+| 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 887 |
+| 12 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 848 |
 | 13 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 814 |
 | 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 639 |
 | 15 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt |  |  | Fiji | 624 |

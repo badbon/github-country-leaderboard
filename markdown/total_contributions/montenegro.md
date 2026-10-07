@@ -1,8 +1,8 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-07T14:07:40.102Z
+Generated: 2026-10-07T14:58:04.602Z
 
-Users: 904
+Users: 903
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,9 +16,9 @@ Users: 904
 | 8 | [jare25](https://github.com/jare25) | Miloš Jaredić |  |  | Podgorica, Montenegro | 5795 |
 | 9 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 5630 |
 | 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 5099 |
-| 11 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 4842 |
-| 12 | [dmitriikapustin](https://github.com/dmitriikapustin) | Dmitrii Kapustin | kapustin.team |  | Montenegro | 4638 |
-| 13 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 4268 |
+| 11 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 4940 |
+| 12 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 4842 |
+| 13 | [dmitriikapustin](https://github.com/dmitriikapustin) | Dmitrii Kapustin | kapustin.team |  | Montenegro | 4638 |
 | 14 | [frostmid](https://github.com/frostmid) | Igor Boldyrev |  |  | Budva, Montenegro | 4101 |
 | 15 | [zee229](https://github.com/zee229) | Nikita Yastreb |  |  | Montenegro, Bar | 4025 |
 | 16 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | AAA Consulting |  | Montenegro | 3765 |

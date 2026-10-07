@@ -12,7 +12,7 @@ Indexed users: 2,389
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 11,145 |
+| 1 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 10,365 |
 | 2 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | La Libertad, El Salvador | 9,290 |
 | 3 | [heycesar](https://github.com/heycesar) | César A. Ramírez | El Salvador | 7,926 |
 | 4 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | San Salvador, El Salvador | 7,576 |
@@ -41,8 +41,8 @@ Indexed users: 2,389
 | 2 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,137 |
 | 3 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 4,065 |
 | 4 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 2,658 |
-| 5 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 2,115 |
-| 6 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 1,986 |
+| 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 1,986 |
+| 6 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 1,626 |
 | 7 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | El Salvador | 1,509 |
 | 8 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 1,305 |
 | 9 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 | El Salvador | 1,304 |
@@ -83,4 +83,4 @@ Indexed users: 2,389
 | 19 | [hherzl](https://github.com/hherzl) | HH | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 96 |
 
-Generated: 2026-10-07T13:49:45.203Z
+Generated: 2026-10-07T14:45:30.273Z

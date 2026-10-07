@@ -19,17 +19,17 @@ Indexed users: 290
 | 5 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 3,793 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,778 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,290 |
-| 8 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,455 |
-| 9 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 2,426 |
+| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 2,426 |
+| 9 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,403 |
 | 10 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,030 |
-| 11 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 1,777 |
-| 12 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,484 |
-| 13 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,194 |
-| 14 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,148 |
-| 15 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,105 |
-| 16 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 997 |
-| 17 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 988 |
-| 18 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 967 |
+| 11 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 1,940 |
+| 12 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 1,777 |
+| 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,484 |
+| 14 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,417 |
+| 15 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,194 |
+| 16 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,148 |
+| 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,105 |
+| 18 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 997 |
 | 19 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 940 |
 | 20 | [JPDucky](https://github.com/JPDucky) | Palmer Duckworth | Plymouth Rock | 938 |
 
@@ -39,7 +39,7 @@ Indexed users: 290
 |---:|---|---|---|---:|
 | 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,327 |
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,778 |
-| 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 967 |
+| 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,417 |
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 940 |
 | 5 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 797 |
 | 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 674 |
@@ -83,4 +83,4 @@ Indexed users: 290
 | 19 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | Plymouth uk | 20 |
 | 20 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 19 |
 
-Generated: 2026-10-07T14:08:15.626Z
+Generated: 2026-10-07T14:58:40.785Z

@@ -1,8 +1,8 @@
 # Followers - Libya
 
-Generated: 2026-10-07T14:04:38.665Z
+Generated: 2026-10-07T14:54:34.399Z
 
-Users: 746
+Users: 745
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
