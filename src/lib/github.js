@@ -76,20 +76,30 @@ export class GitHubClient {
       })
     });
 
-    if (payload.body.errors?.length) {
+    const data = payload.body.data;
+    const aliases = logins.map((_, index) => `u${index}`);
+    const errors = (payload.body.errors ?? []).filter((error) => !(
+      error.type === "NOT_FOUND" &&
+      error.path?.length === 1 &&
+      aliases.includes(error.path[0]) &&
+      data?.[error.path[0]] === null
+    ));
+    if (errors.length) {
       const rateLimit = payload.body.data?.rateLimit;
-      const message = payload.body.errors.map((error) => error.message).join("; ");
+      const message = errors.map((error) => error.message).join("; ");
       throw Object.assign(new Error(message), {
         resourceLimit: message.toLowerCase().includes("resource limits"),
         rateLimit
       });
     }
 
+    if (!data || aliases.some((alias) => !Object.hasOwn(data, alias))) {
+      throw new Error("GitHub API returned an incomplete user batch");
+    }
+
     return {
-      users: Object.entries(payload.body.data)
-        .filter(([key, value]) => key.startsWith("u") && value)
-        .map(([, user]) => mapUser(user)),
-      rateLimit: payload.body.data.rateLimit
+      users: aliases.filter((alias) => data[alias] !== null).map((alias) => mapUser(data[alias])),
+      rateLimit: data.rateLimit
     };
   }
 

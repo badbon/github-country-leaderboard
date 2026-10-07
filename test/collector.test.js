@@ -7,6 +7,30 @@ import { collect, createInitialState, selectNextCountry } from "../src/lib/colle
 import { readJson, writeJson } from "../src/lib/storage.js";
 import { normalizeCountry } from "../src/lib/locations.js";
 
+test("fatal search failures preserve the unfinished discovery task", async () => {
+  const originalCwd = process.cwd();
+  const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-failed-search-"));
+  process.chdir(tempDir);
+  try {
+    const countries = testCountries(["testland"]);
+    const initial = createInitialState(countries, new Date("2026-08-13T00:00:00Z"));
+    await assert.rejects(() => collect({
+      countries,
+      client: { searchUsers: async () => { throw new Error("Invalid search"); } },
+      maxQueries: 1,
+      now: new Date("2026-08-13T00:00:00Z"),
+      sleep: async () => {}
+    }), /Invalid search/);
+    const saved = await readJson("data/state.json");
+    assert.equal(saved.countries.testland.status, "failed");
+    assert.equal(saved.countries.testland.queue.length, initial.countries.testland.queue.length);
+    assert.deepEqual(saved.countries.testland.queue[0], { ...initial.countries.testland.queue[0], page: 1 });
+  } finally {
+    process.chdir(originalCwd);
+    await rm(tempDir, { recursive: true, force: true });
+  }
+});
+
 test("schedules Georgia first from clean state", () => {
   const countries = testCountries(["united_states", "georgia", "france"]);
   const state = createInitialState(countries, new Date("2026-08-13T00:00:00Z"));
@@ -385,7 +409,7 @@ test("starts only one full rediscovery when all baselines are complete", async (
   }
 });
 
-test("refresh replaces lower counts and moves users between countries", async () => {
+test("refresh replaces lower counts, moves users, and removes missing accounts", async () => {
   const originalCwd = process.cwd();
   const tempDir = await mkdtemp(join(tmpdir(), "leaderboard-refresh-"));
   process.chdir(tempDir);
@@ -403,7 +427,8 @@ test("refresh replaces lower counts and moves users between countries", async ()
     });
     await writeJson("cache/georgia.json", [
       { login: "move", location: "Georgia", followers: 10, publicContributions: 100 },
-      { login: "stay", location: "Georgia", followers: 10, publicContributions: 100 }
+      { login: "stay", location: "Georgia", followers: 10, publicContributions: 100 },
+      { login: "deleted", location: "Georgia", followers: 10, publicContributions: 100 }
     ]);
     await writeJson("cache/italy.json", []);
 

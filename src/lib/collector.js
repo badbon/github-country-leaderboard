@@ -110,6 +110,7 @@ export async function collect({
         continue;
       }
       if (!isRetryableApiError(error)) {
+        countryState.queue.unshift({ ...task, page });
         markFailed(countryState, error);
         await persist(state, caches, dryRun);
         throw error;
@@ -579,10 +580,10 @@ function isRetryableApiError(error) {
 
 async function persist(state, caches, dryRun, changedCaches = []) {
   if (dryRun) return;
-  await writeJson(STATE_PATH, state);
   for (const slug of changedCaches) {
     await writeJson(`${CACHE_DIR}/${slug}.json`, caches[slug]);
   }
+  await writeJson(STATE_PATH, state);
 }
 
 function chunks(values, size) {
