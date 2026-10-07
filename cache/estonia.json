@@ -715,8 +715,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3508,
-    "publicContributions": 1201,
+    "privateContributions": 5686,
+    "publicContributions": 1100,
     "createdAt": "2025-04-01T13:58:24Z"
   },
   {
@@ -762,22 +762,10 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 50,
     "createdAt": "2025-02-20T12:04:53Z"
-  },
-  {
-    "login": "elchin198",
-    "name": "Elchin Asgarov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195508000?s=72&u=bcb56b42633e3a9a9fcaf05ea2ae9674beaaf4ef&v=4",
-    "location": "Tallinn, Estonia",
-    "company": "UltraTechAI OÜ",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-01-18T00:07:23Z"
   },
   {
     "login": "martinorav-png",
@@ -787,8 +775,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 150,
-    "publicContributions": 230,
+    "privateContributions": 345,
+    "publicContributions": 358,
     "createdAt": "2025-11-26T12:19:12Z"
   },
   {
@@ -800,7 +788,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 251,
     "createdAt": "2025-09-04T05:43:30Z"
   },
   {
@@ -812,7 +800,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2025-09-19T19:43:18Z"
   },
   {
@@ -841,14 +829,14 @@
   },
   {
     "login": "monamarii",
-    "name": "Mona-Marii Kokk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/237219502?s=72&u=f45f062a3416a2684049886c2c37a0e9499c53aa&v=4",
+    "name": "Mona Marii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/237219502?s=72&u=a9b02b559bb63770e607fdf52320fe85fc62d71e&v=4",
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 189,
+    "publicContributions": 188,
     "createdAt": "2025-10-10T09:55:40Z"
   },
   {
@@ -860,7 +848,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 197,
     "createdAt": "2025-09-22T07:26:05Z"
   },
   {
@@ -920,7 +908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 54,
     "createdAt": "2025-09-24T07:35:29Z"
   },
   {
@@ -932,7 +920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2025-09-29T13:49:18Z"
   },
   {
@@ -944,7 +932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 38,
     "createdAt": "2025-02-03T14:04:16Z"
   },
   {

@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 31,
     "createdAt": "2026-05-04T08:33:38Z"
   },
   {
@@ -750,21 +750,21 @@
     "location": "Hong Kong",
     "company": "QTPhone",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 163,
     "createdAt": "2026-03-06T03:17:12Z"
   },
   {
     "login": "ChTej00",
     "name": "Tejas Chowdhary",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270335310?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270335310?s=72&u=08d27f62c0e0f4a9d52cc237f29cf7f8b7f6d2ca&v=4",
     "location": "Hong Kong",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 35,
+    "followers": 3,
+    "privateContributions": 18,
+    "publicContributions": 100,
     "createdAt": "2026-03-23T11:12:21Z"
   },
   {
@@ -786,9 +786,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 72,
+    "followers": 3,
+    "privateContributions": 25,
+    "publicContributions": 113,
     "createdAt": "2026-03-09T08:26:31Z"
   },
   {
@@ -842,13 +842,13 @@
   {
     "login": "ljpyztd-cyber",
     "name": "Brant",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282479595?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282479595?s=72&u=ccde54e78733c82b87f1a429e2f9f92c46c69bb1&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 18,
     "createdAt": "2026-05-07T06:24:58Z"
   },
   {
@@ -872,7 +872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 3,
     "createdAt": "2026-01-09T13:38:10Z"
   },
   {
@@ -906,7 +906,7 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-14T00:50:30Z"
@@ -920,7 +920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 320,
+    "publicContributions": 332,
     "createdAt": "2026-01-28T00:54:47Z"
   },
   {

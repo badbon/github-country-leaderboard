@@ -726,9 +726,9 @@
     "location": "Swaziland (Eswatini)",
     "company": "Skyvision Group",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-03-20T08:03:06Z"
   },
   {
@@ -760,7 +760,7 @@
     "name": "Thabiso Njoko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/53946636?s=72&u=1054faee340fb89a39a45d566fac7f078566ee6f&v=4",
     "location": "Mankayane, Eswatini",
-    "company": "Riska_D_Rollaz Records",
+    "company": "",
     "twitterUsername": "thabisonjoko",
     "followers": 1,
     "privateContributions": 0,
@@ -787,8 +787,8 @@
     "company": "",
     "twitterUsername": "dlamin_sfiso",
     "followers": 1,
-    "privateContributions": 136,
-    "publicContributions": 17,
+    "privateContributions": 39,
+    "publicContributions": 8,
     "createdAt": "2019-02-22T21:36:21Z"
   },
   {
@@ -798,8 +798,8 @@
     "location": "Manzini, Eswatini",
     "company": "Intuition",
     "twitterUsername": "wandilemawelel",
-    "followers": 214,
-    "privateContributions": 184,
+    "followers": 202,
+    "privateContributions": 211,
     "publicContributions": 43,
     "createdAt": "2018-03-26T12:37:56Z"
   },
@@ -810,21 +810,21 @@
     "location": "Mbabane, Eswatini",
     "company": "Capita Invest",
     "twitterUsername": "realSimoNkosi",
-    "followers": 153,
+    "followers": 78,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-04T23:53:19Z"
   },
   {
     "login": "SakhileMamba",
-    "name": "Sakhile",
+    "name": "Sakhile Mamba",
     "avatarUrl": "https://avatars.githubusercontent.com/u/45123864?s=72&u=7f8bd3e14c763743879ad6dd33fd7dc2591146f4&v=4",
     "location": "Eswatini",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 40,
-    "publicContributions": 67,
+    "followers": 9,
+    "privateContributions": 265,
+    "publicContributions": 90,
     "createdAt": "2018-11-17T13:42:58Z"
   },
   {
@@ -931,7 +931,7 @@
     "company": "Bits & PCs",
     "twitterUsername": "Coordinator",
     "followers": 1,
-    "privateContributions": 417,
+    "privateContributions": 603,
     "publicContributions": 47,
     "createdAt": "2017-07-13T06:26:16Z"
   },

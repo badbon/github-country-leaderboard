@@ -524,7 +524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 584,
+    "publicContributions": 589,
     "createdAt": "2026-02-26T08:17:56Z"
   },
   {
@@ -536,7 +536,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 19,
     "createdAt": "2026-03-05T15:29:43Z"
   },
   {
@@ -583,7 +583,7 @@
     "company": "",
     "twitterUsername": "ansamko",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 112,
     "publicContributions": 25,
     "createdAt": "2026-02-25T13:26:14Z"
   },
@@ -613,7 +613,7 @@
   },
   {
     "login": "Erroorz",
-    "name": "High.on.syntax.errors",
+    "name": "Python_soldier",
     "avatarUrl": "https://avatars.githubusercontent.com/u/254775436?s=72&u=36d518f166eede222780069b6953d9ec70b059f0&v=4",
     "location": "Finland",
     "company": "Lockheed Martin",
@@ -662,13 +662,13 @@
   {
     "login": "nordscope-fi",
     "name": "Peter Sterkenburg",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253022911?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253022911?s=72&u=416babd758e3a08eb72d44a18c7d0d1eb02f9591&v=4",
     "location": "Vaasa, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 851,
+    "publicContributions": 1961,
     "createdAt": "2026-01-05T09:04:59Z"
   },
   {
@@ -682,18 +682,6 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2026-01-04T11:04:44Z"
-  },
-  {
-    "login": "max-matinpalo",
-    "name": "Max Matinpalo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255822076?s=72&u=34b2164c43bada45a32625f499cefd350540115f&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 530,
-    "publicContributions": 262,
-    "createdAt": "2026-01-19T07:36:22Z"
   },
   {
     "login": "mevlido-s",

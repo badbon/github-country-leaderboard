@@ -752,7 +752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 156,
     "createdAt": "2025-06-12T14:04:01Z"
   },
   {
@@ -776,7 +776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 34,
     "createdAt": "2025-10-15T21:24:50Z"
   },
   {
@@ -787,8 +787,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 130,
-    "publicContributions": 9,
+    "privateContributions": 260,
+    "publicContributions": 104,
     "createdAt": "2025-02-13T15:43:44Z"
   },
   {
@@ -798,9 +798,9 @@
     "location": "La Habana, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 397,
     "createdAt": "2025-11-07T02:28:20Z"
   },
   {
@@ -812,7 +812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-05-14T14:03:37Z"
   },
   {
@@ -852,18 +852,6 @@
     "createdAt": "2025-03-06T21:54:26Z"
   },
   {
-    "login": "yoeldyavila77-a11y",
-    "name": "Yoel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225651850?s=72&u=7b310a3e024bc58ea4fbdaa6e2e28da822b8d924&v=4",
-    "location": "CUBA",
-    "company": "PROGRA",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-08-10T05:50:32Z"
-  },
-  {
     "login": "JRosbel",
     "name": "Jorge Rosbel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/210090862?s=72&u=b713eab253113757a6fcf64819f1bc499ea0a716&v=4",
@@ -872,7 +860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2025-05-02T21:20:37Z"
   },
   {
@@ -896,7 +884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2025-09-04T19:04:49Z"
   },
   {
@@ -944,7 +932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3997,
+    "publicContributions": 4316,
     "createdAt": "2025-12-05T02:52:05Z"
   },
   {

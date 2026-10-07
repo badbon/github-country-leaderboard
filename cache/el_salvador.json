@@ -462,22 +462,10 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 115,
     "createdAt": "2025-06-11T04:03:34Z"
-  },
-  {
-    "login": "marcos-soft",
-    "name": "Marcos Francisco Chavarría Vásquez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/250379273?s=72&u=1d831a9ffbfba513feda32ed65150844aa720e94&v=4",
-    "location": "San Francisco Gotera, El Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2025-12-18T15:41:25Z"
   },
   {
     "login": "CristianParadaLopez",
@@ -488,7 +476,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 292,
+    "publicContributions": 246,
     "createdAt": "2025-01-09T03:31:46Z"
   },
   {
@@ -498,9 +486,9 @@
     "location": "El Salvador ",
     "company": "Freelancers",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 707,
+    "publicContributions": 1005,
     "createdAt": "2025-06-01T14:48:15Z"
   },
   {
@@ -509,10 +497,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/198856887?s=72&u=f94f99e071f97726f02d2558339dc4708e809548&v=4",
     "location": "El Salvador, San Salvador",
     "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 55,
-    "publicContributions": 895,
+    "twitterUsername": "FrnciscoHrnndez",
+    "followers": 3,
+    "privateContributions": 72,
+    "publicContributions": 925,
     "createdAt": "2025-02-12T04:16:11Z"
   },
   {
@@ -524,7 +512,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 42,
     "createdAt": "2025-05-05T17:19:48Z"
   },
   {
@@ -536,7 +524,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 37,
     "createdAt": "2025-08-31T20:33:17Z"
   },
   {
@@ -548,13 +536,13 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 23,
     "createdAt": "2025-08-16T21:50:13Z"
   },
   {
     "login": "OmenFounder",
     "name": "O.M.E.N Foundation",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206152038?s=72&u=ae2e1452643cbdac946d0032ba30140ac46fe3d4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206152038?s=72&u=2121ac19343fcad253d3563a105acd0403b2f51d&v=4",
     "location": "El Salvador",
     "company": "O.M.E.N FOUNDATION",
     "twitterUsername": "omen_foundation",
@@ -596,7 +584,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 66,
     "createdAt": "2025-01-23T15:03:11Z"
   },
   {
@@ -608,7 +596,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 5,
     "createdAt": "2025-09-17T03:48:53Z"
   },
   {
@@ -620,7 +608,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 3,
-    "publicContributions": 12,
+    "publicContributions": 8,
     "createdAt": "2025-09-29T16:51:08Z"
   },
   {
@@ -632,7 +620,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 52,
     "createdAt": "2025-08-24T20:39:16Z"
   },
   {
@@ -643,8 +631,8 @@
     "company": "TheAntsMind ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
-    "publicContributions": 31,
+    "privateContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2025-01-10T01:04:01Z"
   },
   {
@@ -654,9 +642,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 13,
-    "publicContributions": 20,
+    "followers": 3,
+    "privateContributions": 10,
+    "publicContributions": 29,
     "createdAt": "2025-03-25T16:55:27Z"
   },
   {
@@ -666,9 +654,9 @@
     "location": "El Salvador",
     "company": "Universidad de El Salvador",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 29,
     "createdAt": "2025-05-09T16:55:53Z"
   },
   {
@@ -680,7 +668,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 15,
     "createdAt": "2025-04-07T21:44:41Z"
   },
   {

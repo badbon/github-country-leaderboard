@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 42,
     "createdAt": "2025-09-11T16:34:23Z"
   },
   {
@@ -512,7 +512,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 261,
+    "publicContributions": 267,
     "createdAt": "2025-08-08T16:11:42Z"
   },
   {
@@ -524,7 +524,7 @@
     "twitterUsername": "ChillGuy577",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 166,
     "createdAt": "2025-04-12T14:59:19Z"
   },
   {
@@ -548,7 +548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 172,
     "createdAt": "2025-08-01T18:28:18Z"
   },
   {
@@ -583,21 +583,9 @@
     "company": "",
     "twitterUsername": "isachadev",
     "followers": 1,
-    "privateContributions": 1528,
-    "publicContributions": 14,
+    "privateContributions": 1664,
+    "publicContributions": 17,
     "createdAt": "2025-05-22T12:17:16Z"
-  },
-  {
-    "login": "pablocesargodoy",
-    "name": "Pablo Godoy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204236118?s=72&u=9c14cce79b9a51a49f48829a6dd8d581d1391ce0&v=4",
-    "location": "Bolivia",
-    "company": "CAMSA SA",
-    "twitterUsername": "pablocesargodoy",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-03-20T17:19:30Z"
   },
   {
     "login": "danidevdc",
@@ -608,7 +596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 335,
     "createdAt": "2025-06-24T13:26:09Z"
   },
   {
@@ -644,7 +632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 138,
     "createdAt": "2025-09-30T23:56:49Z"
   },
   {
@@ -656,20 +644,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 53,
     "createdAt": "2025-01-04T22:00:01Z"
-  },
-  {
-    "login": "RodrigoFicct",
-    "name": "Rodrigo Rivero Gonzales",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231710818?s=72&v=4",
-    "location": "Santa Cruz de la Sierra, Bolivia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-09-11T14:16:21Z"
   },
   {
     "login": "brunobulacia",
@@ -680,7 +656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 165,
     "createdAt": "2025-12-16T19:14:30Z"
   },
   {
@@ -692,7 +668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 590,
+    "publicContributions": 660,
     "createdAt": "2025-03-28T18:04:29Z"
   },
   {
@@ -704,7 +680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 66,
     "createdAt": "2025-03-22T18:42:05Z"
   },
   {

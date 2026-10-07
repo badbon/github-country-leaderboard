@@ -8,7 +8,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 689,
+    "publicContributions": 683,
     "createdAt": "2023-05-31T14:50:37Z"
   },
   {
@@ -18,7 +18,7 @@
     "location": "Guernsey, CI",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2023-02-25T17:32:40Z"
@@ -91,7 +91,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 909,
+    "privateContributions": 1307,
     "publicContributions": 1,
     "createdAt": "2020-11-09T23:32:11Z"
   },
@@ -103,7 +103,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 180,
+    "privateContributions": 222,
     "publicContributions": 2,
     "createdAt": "2020-01-06T21:42:09Z"
   },
@@ -151,8 +151,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2184,
-    "publicContributions": 22,
+    "privateContributions": 2338,
+    "publicContributions": 21,
     "createdAt": "2017-03-18T07:34:32Z"
   },
   {
@@ -187,21 +187,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 44,
-    "privateContributions": 806,
-    "publicContributions": 444,
+    "privateContributions": 837,
+    "publicContributions": 464,
     "createdAt": "2016-04-13T14:27:34Z"
-  },
-  {
-    "login": "patsytau",
-    "name": "Patrizia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17437133?s=72&u=fdaef2c7718865ca1626ad0efe6539eb240ce55d&v=4",
-    "location": "Guernsey",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 2,
-    "publicContributions": 1,
-    "createdAt": "2016-02-23T18:49:59Z"
   },
   {
     "login": "RicLeP",
@@ -211,8 +199,8 @@
     "company": "U&US",
     "twitterUsername": "riclep",
     "followers": 15,
-    "privateContributions": 1403,
-    "publicContributions": 81,
+    "privateContributions": 1405,
+    "publicContributions": 77,
     "createdAt": "2016-06-03T08:50:36Z"
   },
   {

@@ -762,7 +762,7 @@
     "location": "Cayman Islands",
     "company": "",
     "twitterUsername": "",
-    "followers": 62,
+    "followers": 66,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2017-04-22T22:09:49Z"
@@ -776,7 +776,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 174,
     "createdAt": "2016-12-30T13:14:13Z"
   },
   {
@@ -787,7 +787,7 @@
     "company": "",
     "twitterUsername": "ArosoBaltasar",
     "followers": 10,
-    "privateContributions": 1077,
+    "privateContributions": 1017,
     "publicContributions": 12,
     "createdAt": "2017-09-27T17:40:09Z"
   },
@@ -800,7 +800,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 192,
+    "publicContributions": 166,
     "createdAt": "2017-06-01T13:13:03Z"
   },
   {
@@ -840,27 +840,15 @@
     "createdAt": "2017-11-15T17:55:21Z"
   },
   {
-    "login": "Dr-Incognito",
-    "name": "Dr. Incognito",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17879520?s=72&u=7147b10e4f2766c676bef9960c6f30fc3ca67fc8&v=4",
-    "location": "Cayman Islands",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 61,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-03-16T12:54:15Z"
-  },
-  {
     "login": "guhhhhaa",
     "name": "Guhhhhaa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/24271918?s=72&u=f31c337335897db3b8cf7d6a487f93f30532e134&v=4",
     "location": "Cayman Islands",
     "company": "Cayman Islands",
     "twitterUsername": "",
-    "followers": 43,
+    "followers": 42,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2016-11-30T13:08:15Z"
   },
   {
@@ -882,7 +870,7 @@
     "location": "Grand Cayman, Cayman Islands",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2016-01-18T15:35:58Z"
@@ -896,7 +884,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 236,
+    "publicContributions": 237,
     "createdAt": "2016-02-15T00:31:59Z"
   },
   {
@@ -907,7 +895,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 490,
+    "privateContributions": 615,
     "publicContributions": 10,
     "createdAt": "2016-08-27T06:52:09Z"
   },

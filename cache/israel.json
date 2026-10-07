@@ -692,7 +692,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 48,
     "createdAt": "2025-01-21T20:49:01Z"
   },
   {
@@ -703,8 +703,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 34,
-    "publicContributions": 112,
+    "privateContributions": 72,
+    "publicContributions": 64,
     "createdAt": "2025-06-28T17:12:00Z"
   },
   {
@@ -714,9 +714,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 133,
+    "publicContributions": 414,
     "createdAt": "2025-10-22T15:43:53Z"
   },
   {
@@ -726,9 +726,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1226,
-    "publicContributions": 2,
+    "followers": 10,
+    "privateContributions": 1750,
+    "publicContributions": 0,
     "createdAt": "2025-07-17T20:11:20Z"
   },
   {
@@ -736,7 +736,7 @@
     "name": "Yoav Nesher",
     "avatarUrl": "https://avatars.githubusercontent.com/u/249346094?s=72&u=65b1d9432b1c3a5fdae989f0ecaa0eda4b6b2b4f&v=4",
     "location": "Israel",
-    "company": "",
+    "company": "Upwind Security",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
@@ -750,9 +750,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 671,
-    "publicContributions": 1518,
+    "followers": 5,
+    "privateContributions": 952,
+    "publicContributions": 1285,
     "createdAt": "2024-12-29T14:40:47Z"
   },
   {
@@ -762,7 +762,7 @@
     "location": "Israel",
     "company": "@theariannamethod ",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 189,
     "createdAt": "2025-10-19T13:13:10Z"
@@ -774,9 +774,9 @@
     "location": "Israel",
     "company": "Diagnostica",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 43,
     "createdAt": "2025-09-06T22:04:54Z"
   },
   {
@@ -787,8 +787,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 57,
-    "publicContributions": 23,
+    "privateContributions": 54,
+    "publicContributions": 13,
     "createdAt": "2025-05-25T11:32:57Z"
   },
   {
@@ -798,9 +798,9 @@
     "location": "Tel Aviv-Yafo, Israel",
     "company": "Bridge-iT",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 485,
-    "publicContributions": 145,
+    "followers": 5,
+    "privateContributions": 461,
+    "publicContributions": 262,
     "createdAt": "2025-03-26T22:11:57Z"
   },
   {
@@ -824,7 +824,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 93,
     "createdAt": "2025-08-19T20:02:56Z"
   },
   {
@@ -834,9 +834,9 @@
     "location": "Israel",
     "company": "Ben-Gurion University of the Negev",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 32,
-    "publicContributions": 67,
+    "followers": 6,
+    "privateContributions": 388,
+    "publicContributions": 158,
     "createdAt": "2025-03-22T10:13:55Z"
   },
   {
@@ -846,9 +846,9 @@
     "location": "Israel",
     "company": "Garmon-GCA",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 140,
     "createdAt": "2025-12-06T17:35:27Z"
   },
   {
@@ -858,22 +858,10 @@
     "location": "Israel ",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 13,
     "createdAt": "2025-08-04T10:34:19Z"
-  },
-  {
-    "login": "femrawr",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/212382825?s=72&u=1cd9bbbeb9d8d2f170df1ff76d47cb9be1b52471&v=4",
-    "location": "Tel Aviv, Israel",
-    "company": "Tel Aviv University",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 7,
-    "publicContributions": 160,
-    "createdAt": "2025-05-19T14:14:39Z"
   },
   {
     "login": "marom-david",
@@ -882,7 +870,7 @@
     "location": "Herzliya, Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 475,
     "createdAt": "2025-11-20T18:40:30Z"
@@ -894,9 +882,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 75,
     "createdAt": "2025-10-26T17:36:33Z"
   },
   {
@@ -908,7 +896,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 34,
     "createdAt": "2025-04-29T14:56:16Z"
   },
   {
@@ -920,7 +908,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 56,
     "createdAt": "2025-03-08T17:55:08Z"
   },
   {

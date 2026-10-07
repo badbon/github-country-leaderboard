@@ -487,8 +487,8 @@
     "company": "McMaster University",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 57,
-    "publicContributions": 70,
+    "privateContributions": 168,
+    "publicContributions": 12,
     "createdAt": "2024-09-16T16:48:01Z"
   },
   {
@@ -511,8 +511,8 @@
     "company": "McMaster University",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 60,
-    "publicContributions": 49,
+    "privateContributions": 118,
+    "publicContributions": 41,
     "createdAt": "2024-04-25T00:19:45Z"
   },
   {
@@ -522,22 +522,10 @@
     "location": "Hamilton",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 21,
     "createdAt": "2024-04-11T01:34:12Z"
-  },
-  {
-    "login": "K40SSS",
-    "name": "Oscar Zhao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167678378?s=72&u=86f7e28c2306f85115aace28a35dd093866d653d&v=4",
-    "location": "Toronto, ON | Hamilton, ON",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 87,
-    "publicContributions": 134,
-    "createdAt": "2024-04-21T09:16:09Z"
   },
   {
     "login": "mldf61414",
@@ -546,7 +534,7 @@
     "location": "Hamilton",
     "company": "AutoTrader (Cox Enterprises)",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-09T07:45:42Z"
@@ -572,7 +560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 117,
     "createdAt": "2024-11-01T23:37:16Z"
   },
   {
@@ -620,7 +608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 9,
     "createdAt": "2024-10-07T15:00:33Z"
   },
   {
@@ -656,20 +644,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 18,
     "createdAt": "2024-11-11T03:02:45Z"
-  },
-  {
-    "login": "waikatosci",
-    "name": "Adam Hartland",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/191532865?s=72&u=ec2432ad048baeec4fff93b51da37ddcafc766a8&v=4",
-    "location": "Hamilton, NZ",
-    "company": "Waikato Scientific Ltd",
-    "twitterUsername": "WaiScience",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 114,
-    "createdAt": "2024-12-12T22:45:02Z"
   },
   {
     "login": "oakflow",
@@ -679,7 +655,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 97,
+    "privateContributions": 121,
     "publicContributions": 37,
     "createdAt": "2024-09-10T19:14:05Z"
   },
@@ -692,7 +668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 11,
     "createdAt": "2023-12-28T14:01:40Z"
   },
   {

@@ -704,7 +704,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 27,
     "createdAt": "2024-08-29T22:02:57Z"
   },
   {
@@ -714,7 +714,7 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-08T01:50:16Z"
@@ -812,7 +812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 14,
     "createdAt": "2024-09-04T17:22:09Z"
   },
   {
@@ -859,8 +859,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 63,
-    "publicContributions": 69,
+    "privateContributions": 31,
+    "publicContributions": 83,
     "createdAt": "2024-08-14T03:32:13Z"
   },
   {
@@ -871,20 +871,20 @@
     "company": "@nvidia",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 868,
-    "publicContributions": 334,
+    "privateContributions": 1034,
+    "publicContributions": 561,
     "createdAt": "2024-04-05T14:13:35Z"
   },
   {
     "login": "esicoe",
-    "name": "Edward Sicoe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166658855?s=72&u=dd9a43adddede99b7465ea0650c5909d81fab8f6&v=4",
+    "name": "Edward",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166658855?s=72&u=f79c3da00eb82f6f7204ec5fecacf7d4b18d58ad&v=4",
     "location": "Kingston, Ontario",
     "company": "Queen's University",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 39,
     "createdAt": "2024-04-10T20:27:28Z"
   },
   {
@@ -896,7 +896,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 354,
+    "publicContributions": 654,
     "createdAt": "2024-05-29T09:51:10Z"
   },
   {
@@ -920,7 +920,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 29,
     "createdAt": "2024-02-05T02:37:21Z"
   },
   {
@@ -931,8 +931,8 @@
     "company": "Canadian Armed Forces",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 26,
-    "publicContributions": 46,
+    "privateContributions": 56,
+    "publicContributions": 52,
     "createdAt": "2024-01-23T18:39:18Z"
   },
   {

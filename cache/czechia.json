@@ -452,7 +452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 34,
     "createdAt": "2025-12-30T21:14:39Z"
   },
   {
@@ -512,28 +512,28 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 76,
     "createdAt": "2026-02-17T14:31:42Z"
   },
   {
     "login": "Athapa2026",
     "name": "Akanksha Thapa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254457370?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/254457370?s=72&u=738d5b1accff49069cbdc408352f75b0af48c42f&v=4",
     "location": "Prague, Czechia",
     "company": "Czech University of Life Sciences",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2026-01-12T12:50:16Z"
   },
   {
-    "login": "OscarActual",
+    "login": "oscaractual",
     "name": "František Břicháček",
     "avatarUrl": "https://avatars.githubusercontent.com/u/282379814?s=72&u=92c57a574550b15f00633ab3c93caf930f363146&v=4",
     "location": "Prague, Czechia",
     "company": "Alpha Solutions",
-    "twitterUsername": "OscarActual",
+    "twitterUsername": "oscaractual",
     "followers": 1,
     "privateContributions": 0,
     "publicContributions": 9,
@@ -558,7 +558,7 @@
     "location": "Prague",
     "company": "RemwareCo",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2026-03-20T07:47:25Z"
@@ -566,13 +566,13 @@
   {
     "login": "AlesProkop",
     "name": "Aleš Prokop",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276576870?s=72&u=fca931e4970263e7402b6f5939c1207cf79fd971&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276576870?s=72&u=dff7a76117c6324b8572ac608905e933d23b88c9&v=4",
     "location": "Prague",
     "company": "@microsoft",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 620,
-    "publicContributions": 369,
+    "followers": 11,
+    "privateContributions": 915,
+    "publicContributions": 504,
     "createdAt": "2026-04-16T10:49:50Z"
   },
   {
@@ -582,9 +582,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 208,
+    "followers": 8,
+    "privateContributions": 55,
+    "publicContributions": 134,
     "createdAt": "2026-04-07T22:12:50Z"
   },
   {
@@ -594,9 +594,9 @@
     "location": "Prague",
     "company": "Maxfusion AI",
     "twitterUsername": "OriSilver",
-    "followers": 7,
-    "privateContributions": 85,
-    "publicContributions": 14,
+    "followers": 32,
+    "privateContributions": 279,
+    "publicContributions": 21,
     "createdAt": "2026-04-25T13:37:49Z"
   },
   {
@@ -608,7 +608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1245,
+    "publicContributions": 1506,
     "createdAt": "2026-01-09T10:47:55Z"
   },
   {
@@ -644,7 +644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2026-03-05T16:00:45Z"
   },
   {

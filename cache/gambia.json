@@ -763,8 +763,8 @@
     "company": "African Commission on Human and Peoples' Rights",
     "twitterUsername": "MarieLoumar",
     "followers": 2,
-    "privateContributions": 633,
-    "publicContributions": 44,
+    "privateContributions": 635,
+    "publicContributions": 20,
     "createdAt": "2017-09-20T16:29:57Z"
   },
   {
@@ -798,9 +798,9 @@
     "location": "Gambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 131,
-    "publicContributions": 21,
+    "followers": 13,
+    "privateContributions": 183,
+    "publicContributions": 16,
     "createdAt": "2016-07-22T16:08:48Z"
   },
   {
@@ -810,9 +810,9 @@
     "location": "Banjul, Gambia",
     "company": "@LSHTM @MRCG",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 200,
+    "publicContributions": 186,
     "createdAt": "2016-06-14T12:15:19Z"
   },
   {
@@ -822,8 +822,8 @@
     "location": "Gambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 2399,
+    "followers": 6,
+    "privateContributions": 3298,
     "publicContributions": 33,
     "createdAt": "2016-11-07T17:03:37Z"
   },
@@ -876,18 +876,6 @@
     "createdAt": "2016-10-16T13:19:57Z"
   },
   {
-    "login": "Bjayteh",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/24341372?s=72&v=4",
-    "location": "Gambia",
-    "company": "Gisqo",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-12-03T04:29:05Z"
-  },
-  {
     "login": "demebrima",
     "name": "Ebrima S. Dem",
     "avatarUrl": "https://avatars.githubusercontent.com/u/13323115?s=72&u=48ceeb25fc849b5953994083966a3184a7c3565e&v=4",
@@ -907,8 +895,8 @@
     "company": "Gcubed",
     "twitterUsername": "ghostkanyi",
     "followers": 3,
-    "privateContributions": 439,
-    "publicContributions": 74,
+    "privateContributions": 472,
+    "publicContributions": 75,
     "createdAt": "2015-08-28T10:33:41Z"
   },
   {
@@ -920,7 +908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2015-11-10T22:59:49Z"
   },
   {
@@ -930,9 +918,9 @@
     "location": "The Gambia, Banjul",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 161,
-    "publicContributions": 2,
+    "followers": 10,
+    "privateContributions": 125,
+    "publicContributions": 6,
     "createdAt": "2014-02-06T00:34:55Z"
   },
   {

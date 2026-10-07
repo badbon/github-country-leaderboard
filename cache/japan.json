@@ -406942,5 +406942,29 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2011-10-23T10:45:08Z"
+  },
+  {
+    "login": "Kimtaro",
+    "name": "Kim Ahlström",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15438?s=72&v=4",
+    "location": "London, Tokyo, San Francisco, Stockholm",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 233,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2008-06-29T08:18:28Z"
+  },
+  {
+    "login": "ianregister",
+    "name": "Ian Register",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/922403?s=72&v=4",
+    "location": "Melbourne, Australia + Tokyo, Japan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2011-07-18T08:42:53Z"
   }
 ]

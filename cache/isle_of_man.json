@@ -739,7 +739,7 @@
     "company": "Fusion.co.im",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 19,
+    "privateContributions": 23,
     "publicContributions": 0,
     "createdAt": "2018-07-23T19:54:37Z"
   },
@@ -751,8 +751,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1320,
-    "publicContributions": 26,
+    "privateContributions": 1205,
+    "publicContributions": 27,
     "createdAt": "2018-07-23T10:49:09Z"
   },
   {
@@ -780,25 +780,13 @@
     "createdAt": "2018-09-09T18:34:46Z"
   },
   {
-    "login": "ephronx",
-    "name": "Shane Wilson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43435455?s=72&u=4dbd664a06828133d9eae1cb70678d2e729a3e02&v=4",
-    "location": "Isle of Man",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 778,
-    "publicContributions": 72,
-    "createdAt": "2018-09-20T08:09:12Z"
-  },
-  {
     "login": "DJanota",
     "name": "Dawid Janota",
     "avatarUrl": "https://avatars.githubusercontent.com/u/36347921?s=72&u=509880ad0230d0e77607973291e13bfc384b4890&v=4",
     "location": "Douglas / Isle of Man / United Kingdom",
     "company": "www.dawidjanota.com",
     "twitterUsername": "JanotaDawid",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-11T01:14:27Z"
@@ -846,9 +834,9 @@
     "location": "Isle of Man",
     "company": "Infinium",
     "twitterUsername": "thomas_iom",
-    "followers": 147,
-    "privateContributions": 1401,
-    "publicContributions": 17,
+    "followers": 148,
+    "privateContributions": 1586,
+    "publicContributions": 18,
     "createdAt": "2017-09-02T13:57:44Z"
   },
   {
@@ -858,9 +846,9 @@
     "location": "Douglas, Isle of Man",
     "company": "The Register",
     "twitterUsername": "lproven",
-    "followers": 34,
+    "followers": 35,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2017-05-02T12:44:55Z"
   },
   {
@@ -871,8 +859,8 @@
     "company": "PhiX Technologies",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 2,
-    "publicContributions": 5,
+    "privateContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2017-04-22T19:26:42Z"
   },
   {
@@ -919,8 +907,8 @@
     "company": "CabCard Services",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 657,
-    "publicContributions": 12,
+    "privateContributions": 865,
+    "publicContributions": 8,
     "createdAt": "2017-12-09T21:42:49Z"
   },
   {
@@ -930,9 +918,9 @@
     "location": "Isle of Man",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 1518,
-    "publicContributions": 146,
+    "followers": 38,
+    "privateContributions": 1435,
+    "publicContributions": 123,
     "createdAt": "2016-04-15T19:35:31Z"
   },
   {

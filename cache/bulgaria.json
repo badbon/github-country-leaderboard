@@ -768,18 +768,6 @@
     "createdAt": "2026-02-11T09:57:44Z"
   },
   {
-    "login": "KrasimirPetkovPetkovvv",
-    "name": "Krasimir Petkov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264233951?s=72&u=02bf8ff610df96eef9f8506162786d6ceebbf9a4&v=4",
-    "location": "Sofia",
-    "company": "A1",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 33,
-    "createdAt": "2026-02-26T18:13:11Z"
-  },
-  {
     "login": "Daniel-Gamov",
     "name": "Daniel Gamov ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/217921904?s=72&u=dd434dc6e7449f62a3f8ef0bcb2519847bdbc20c&v=4",
@@ -788,7 +776,7 @@
     "twitterUsername": "",
     "followers": 90,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2025-06-25T11:45:49Z"
   },
   {
@@ -798,9 +786,9 @@
     "location": "Sofia/Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 68,
+    "followers": 62,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2025-04-09T16:24:51Z"
   },
   {
@@ -810,7 +798,7 @@
     "location": "Pleven, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 30,
     "privateContributions": 0,
     "publicContributions": 298,
     "createdAt": "2025-12-26T08:01:15Z"
@@ -823,8 +811,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 265,
-    "publicContributions": 6,
+    "privateContributions": 387,
+    "publicContributions": 15,
     "createdAt": "2025-03-05T13:55:05Z"
   },
   {
@@ -847,8 +835,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 47,
-    "publicContributions": 297,
+    "privateContributions": 189,
+    "publicContributions": 392,
     "createdAt": "2025-05-15T12:25:45Z"
   },
   {
@@ -858,7 +846,7 @@
     "location": "Sofia, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 61,
     "publicContributions": 13,
     "createdAt": "2025-01-26T10:16:50Z"
@@ -870,7 +858,7 @@
     "location": "Sofia, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2024-12-27T10:08:50Z"
@@ -882,9 +870,9 @@
     "location": "Sofia, Bulgaria",
     "company": "Technical University Sofia - German Engineering and Industrial Management Faculty",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 537,
+    "publicContributions": 450,
     "createdAt": "2025-01-28T20:48:54Z"
   },
   {
@@ -895,8 +883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 584,
-    "publicContributions": 2280,
+    "privateContributions": 520,
+    "publicContributions": 1832,
     "createdAt": "2025-05-19T12:11:08Z"
   },
   {
@@ -907,8 +895,8 @@
     "company": "MOESIA VCC",
     "twitterUsername": "kodesenpai",
     "followers": 11,
-    "privateContributions": 9099,
-    "publicContributions": 189,
+    "privateContributions": 15966,
+    "publicContributions": 555,
     "createdAt": "2025-06-29T10:39:59Z"
   },
   {
@@ -918,9 +906,9 @@
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "vissmadr",
-    "followers": 10,
-    "privateContributions": 1935,
-    "publicContributions": 519,
+    "followers": 8,
+    "privateContributions": 2315,
+    "publicContributions": 626,
     "createdAt": "2025-10-14T12:50:21Z"
   },
   {
@@ -930,9 +918,9 @@
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 49,
     "createdAt": "2025-08-28T16:38:29Z"
   },
   {
@@ -944,7 +932,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 0,
     "createdAt": "2025-09-15T18:22:33Z"
   },
   {

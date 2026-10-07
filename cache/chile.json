@@ -750,7 +750,7 @@
     "location": "Chile",
     "company": "DosBarbas",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2026-01-30T12:34:07Z"
@@ -788,7 +788,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 20,
     "createdAt": "2026-04-21T20:30:54Z"
   },
   {
@@ -800,7 +800,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 17,
     "createdAt": "2026-04-23T21:27:57Z"
   },
   {
@@ -824,7 +824,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 40,
     "createdAt": "2026-01-19T22:21:16Z"
   },
   {
@@ -836,19 +836,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 234,
     "createdAt": "2026-05-02T20:06:07Z"
   },
   {
     "login": "NicolasPonceH",
-    "name": "Nicolás Benjamín Ponce Hernández",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283735219?s=72&u=bfac39aa95ebe81254d308f897384ff912d9762c&v=4",
+    "name": "Nicolás Ponce ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283735219?s=72&u=ff34cd41fdacc4fb59bcf3d08ebc4ea712776eec&v=4",
     "location": "Arica, Chile",
-    "company": "J2N Software",
+    "company": "JN Software",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 120,
     "createdAt": "2026-05-11T16:40:09Z"
   },
   {
@@ -859,7 +859,7 @@
     "company": "Prisma Systems",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 8,
+    "privateContributions": 10,
     "publicContributions": 13,
     "createdAt": "2026-03-08T22:54:25Z"
   },
@@ -871,7 +871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 427,
+    "privateContributions": 667,
     "publicContributions": 1,
     "createdAt": "2026-05-06T21:23:26Z"
   },
@@ -882,9 +882,9 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 33,
     "createdAt": "2026-02-23T17:44:00Z"
   },
   {
@@ -919,8 +919,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 5,
+    "privateContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2026-03-19T15:39:53Z"
   },
   {
@@ -944,7 +944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 14,
     "createdAt": "2026-01-30T01:08:20Z"
   },
   {

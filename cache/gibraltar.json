@@ -715,7 +715,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 594,
+    "privateContributions": 635,
     "publicContributions": 0,
     "createdAt": "2015-02-08T14:44:26Z"
   },
@@ -768,27 +768,15 @@
     "createdAt": "2015-02-18T08:16:16Z"
   },
   {
-    "login": "grantmk",
-    "name": "Grant Klimaytys",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10253502?s=72&u=03eddea5b0e5ca4de695fd76a2c41a4274162ce4&v=4",
-    "location": "Gibraltar",
-    "company": "iAmDev",
-    "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 2904,
-    "publicContributions": 9,
-    "createdAt": "2014-12-20T15:11:46Z"
-  },
-  {
     "login": "vizcosity",
     "name": "Aaron Baw",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8880289?s=72&u=57fd5b78198118863d9668401819cc09f86b56a5&v=4",
     "location": "Gibraltar",
     "company": "@bazel-uk ",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 139,
-    "publicContributions": 41,
+    "followers": 17,
+    "privateContributions": 133,
+    "publicContributions": 46,
     "createdAt": "2014-09-23T15:51:03Z"
   },
   {
@@ -810,8 +798,8 @@
     "location": "Gibraltar",
     "company": "Lottoland",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 112,
+    "followers": 5,
+    "privateContributions": 118,
     "publicContributions": 1,
     "createdAt": "2014-03-10T15:42:03Z"
   },
@@ -848,7 +836,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 33,
     "createdAt": "2014-10-16T21:00:04Z"
   },
   {
@@ -882,8 +870,8 @@
     "location": "Gibraltar",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 1482,
+    "followers": 33,
+    "privateContributions": 1330,
     "publicContributions": 46,
     "createdAt": "2013-01-22T20:07:00Z"
   },
@@ -894,9 +882,9 @@
     "location": "Berlin / Europe / Gibraltar",
     "company": "",
     "twitterUsername": "hellokozmo",
-    "followers": 30,
-    "privateContributions": 271,
-    "publicContributions": 2,
+    "followers": 31,
+    "privateContributions": 362,
+    "publicContributions": 0,
     "createdAt": "2013-03-11T10:03:28Z"
   },
   {
@@ -907,8 +895,8 @@
     "company": "",
     "twitterUsername": "lluismh",
     "followers": 4,
-    "privateContributions": 735,
-    "publicContributions": 118,
+    "privateContributions": 1052,
+    "publicContributions": 121,
     "createdAt": "2013-08-31T17:51:29Z"
   },
   {
