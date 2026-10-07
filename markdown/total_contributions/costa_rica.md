@@ -1,6 +1,6 @@
 # Total Contributions - Costa Rica
 
-Generated: 2026-10-07T10:17:19.029Z
+Generated: 2026-10-07T10:57:43.904Z
 
 Users: 5646
 
@@ -25,4 +25,4 @@ Users: 5646
 | 17 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | Universidad de Costa Rica |  | San Jose, Costa Rica | 5589 |
 | 18 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz |  |  | San Jose, Costa Rica | 5379 |
 | 19 | [xmorera](https://github.com/xmorera) | Xavier Morera | Lupo.ai \| Big Data Inc. |  | Costa Rica | 5248 |
-| 20 | [Fuabioo](https://github.com/Fuabioo) | Fabio Mora |  |  | Costa Rica 🇨🇷 | 5077 |
+| 20 | [pegasus231184](https://github.com/pegasus231184) | Allan Martinez Pegasus | Simplexity |  | Costa Rica | 5114 |

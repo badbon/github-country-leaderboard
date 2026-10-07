@@ -1,6 +1,6 @@
 # Public Contributions - Mauritania
 
-Generated: 2026-10-07T10:31:50.723Z
+Generated: 2026-10-07T11:13:21.510Z
 
 Users: 290
 
@@ -24,5 +24,5 @@ Users: 290
 | 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 206 |
 | 17 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 187 |
 | 18 | [medmahmoudhdaya](https://github.com/medmahmoudhdaya) | med mahmoud hdaya |  |  | nouakchott mauritania | 176 |
-| 19 | [saeedbark](https://github.com/saeedbark) | saeedbark |  |  | mauritania | 168 |
-| 20 | [aadeina](https://github.com/aadeina) | Amar |  |  | Mauritania | 161 |
+| 19 | [saeedbark](https://github.com/saeedbark) | saeedbark |  |  | mauritania | 174 |
+| 20 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  | iyehah |  Nouakchott | 162 |

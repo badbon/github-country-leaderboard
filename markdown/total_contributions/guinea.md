@@ -1,6 +1,6 @@
 # Total Contributions - Guinea
 
-Generated: 2026-10-07T10:23:29.722Z
+Generated: 2026-10-07T11:05:50.547Z
 
 Users: 265
 
@@ -24,5 +24,5 @@ Users: 265
 | 16 | [ISSIAGA-CONDE224](https://github.com/ISSIAGA-CONDE224) | ISSIAGA CONDE | ALYSITES |  | GUINEA CONAKRY | 814 |
 | 17 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara |  |  | Guinea, Conakry | 701 |
 | 18 | [Iboubai](https://github.com/Iboubai) | Ibrahima Doumbouya | Friasoft |  | Conakry | 670 |
-| 19 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo |  |  | Guinea | 590 |
-| 20 | [Adbrim](https://github.com/Adbrim) | Alhassane Bah | DIGIFORMAX | adbrim | CONAKRY | 563 |
+| 19 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo |  |  | Guinea | 605 |
+| 20 | [Salif50](https://github.com/Salif50) | Salif SUMA | Club des jeunes programmeurs |  | République de Guinée | 578 |

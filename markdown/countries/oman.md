@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 999
+Indexed users: 1,006
 
 | Leaderboard | Link |
 |---|---|
@@ -50,9 +50,9 @@ Indexed users: 999
 | 11 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 1,787 |
 | 12 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | Oman | 1,702 |
 | 13 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
-| 14 | [MohammedAlkindi](https://github.com/MohammedAlkindi) | Mohammed Alkindi | Muscat, Oman | 1,565 |
-| 15 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 1,354 |
-| 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
+| 14 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 1,354 |
+| 15 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
+| 16 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Muscat, Oman | 1,306 |
 | 17 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Oman | 1,251 |
 | 18 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Muscat, Oman | 1,173 |
 | 19 | [atakhadiviom](https://github.com/atakhadiviom) | ATA KHADIVI | Muscat | 1,171 |
@@ -83,4 +83,4 @@ Indexed users: 999
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 89 |
 
-Generated: 2026-10-07T10:36:46.695Z
+Generated: 2026-10-07T11:17:16.858Z

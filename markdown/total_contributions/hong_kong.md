@@ -1,8 +1,8 @@
 # Total Contributions - Hong Kong
 
-Generated: 2026-10-07T10:24:17.321Z
+Generated: 2026-10-07T11:06:41.710Z
 
-Users: 10323
+Users: 10321
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 10323
 | 12 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | PolyU; HKUST(GZ); |  | Hong Kong | 12151 |
 | 13 | [araa47](https://github.com/araa47) | Akshay  |  |  | Hong Kong  | 11917 |
 | 14 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Optima AI Limited |  | Hong Kong | 11308 |
-| 15 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | @reality-connect  |  | Hong Kong | 10343 |
-| 16 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 10175 |
-| 17 | [wonglok](https://github.com/wonglok) | Wong Lok |  | wonglok831 | Hong Kong | 10082 |
-| 18 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | the Hong Kong University of Science and Technology (HKUST) |  | Hong Kong | 9686 |
-| 19 | [warren618](https://github.com/warren618) | Haozhe Wu | The University Of Hong Kong |  | HONG KONG | 9350 |
-| 20 | [eliasadamshk](https://github.com/eliasadamshk) | Elias Adams | Barrows Connected Store |  | Hong Kong | 9294 |
+| 15 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 |  |  | Hong Kong | 10458 |
+| 16 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | @reality-connect  |  | Hong Kong | 10343 |
+| 17 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 10175 |
+| 18 | [wonglok](https://github.com/wonglok) | Wong Lok |  | wonglok831 | Hong Kong | 10082 |
+| 19 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | the Hong Kong University of Science and Technology (HKUST) |  | Hong Kong | 9686 |
+| 20 | [warren618](https://github.com/warren618) | Haozhe Wu | The University Of Hong Kong |  | HONG KONG | 9350 |

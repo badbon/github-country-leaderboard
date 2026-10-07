@@ -1,6 +1,6 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-07T10:36:14.162Z
+Generated: 2026-10-07T11:16:04.168Z
 
 Users: 186
 
@@ -17,12 +17,12 @@ Users: 186
 | 9 | [Aashaby](https://github.com/Aashaby) |  |  |  | North Korea | 668 |
 | 10 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 607 |
 | 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 565 |
-| 12 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 484 |
-| 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 473 |
-| 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 392 |
+| 12 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 490 |
+| 13 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 484 |
+| 14 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 473 |
 | 15 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana |  |  | Pyongyang, North Korea | 367 |
 | 16 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 351 |
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 344 |
 | 18 | [l1vstudios](https://github.com/l1vstudios) | L1V |  |  | North Korea | 295 |
 | 19 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 264 |
-| 20 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 206 |
+| 20 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | Samsung |  | North korea | 227 |

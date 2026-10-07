@@ -1,6 +1,6 @@
 # Followers - Mongolia
 
-Generated: 2026-10-07T10:33:24.174Z
+Generated: 2026-10-07T11:14:11.286Z
 
 Users: 813
 
@@ -25,4 +25,4 @@ Users: 813
 | 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 68 |
 | 18 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin |  |  | Ulaanbaatar, Mongolia | 66 |
 | 19 | [mchigm](https://github.com/mchigm) | MCHIGM | B&Bpython |  | Mongolia | 57 |
-| 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | @pinecone-studio  |  | Ulaanbaatar, Mongolia | 55 |
+| 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen |  |  | Ulaanbaatar, Mongolia | 55 |

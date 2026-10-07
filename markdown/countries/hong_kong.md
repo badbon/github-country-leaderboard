@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,323
+Indexed users: 10,321
 
 | Leaderboard | Link |
 |---|---|
@@ -26,12 +26,12 @@ Indexed users: 10,323
 | 12 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 12,151 |
 | 13 | [araa47](https://github.com/araa47) | Akshay  | Hong Kong  | 11,917 |
 | 14 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Hong Kong | 11,308 |
-| 15 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | Hong Kong | 10,343 |
-| 16 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 10,175 |
-| 17 | [wonglok](https://github.com/wonglok) | Wong Lok | Hong Kong | 10,082 |
-| 18 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | Hong Kong | 9,686 |
-| 19 | [warren618](https://github.com/warren618) | Haozhe Wu | HONG KONG | 9,350 |
-| 20 | [eliasadamshk](https://github.com/eliasadamshk) | Elias Adams | Hong Kong | 9,294 |
+| 15 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 | Hong Kong | 10,458 |
+| 16 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | Hong Kong | 10,343 |
+| 17 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 10,175 |
+| 18 | [wonglok](https://github.com/wonglok) | Wong Lok | Hong Kong | 10,082 |
+| 19 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | Hong Kong | 9,686 |
+| 20 | [warren618](https://github.com/warren618) | Haozhe Wu | HONG KONG | 9,350 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 10,323
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [heilcheng](https://github.com/heilcheng) | hailey | Hong Kong | 964 |
 
-Generated: 2026-10-07T10:24:17.321Z
+Generated: 2026-10-07T11:06:41.710Z

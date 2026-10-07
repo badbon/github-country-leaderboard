@@ -1,12 +1,12 @@
 # Followers - Fiji
 
-Generated: 2026-10-07T10:20:10.992Z
+Generated: 2026-10-07T11:03:51.500Z
 
 Users: 327
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 523 |
+| 1 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 524 |
 | 2 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 134 |
 | 3 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 81 |
 | 4 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 66 |

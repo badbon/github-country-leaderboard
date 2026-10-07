@@ -1,6 +1,6 @@
 # Iraq
 
-Indexed users: 2,252
+Indexed users: 2,251
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,252
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 203 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 178 |
 
-Generated: 2026-10-07T10:25:14.900Z
+Generated: 2026-10-07T11:07:18.049Z

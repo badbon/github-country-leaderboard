@@ -1,6 +1,6 @@
 # Followers - Guyana
 
-Generated: 2026-10-07T10:23:34.950Z
+Generated: 2026-10-07T11:06:01.313Z
 
 Users: 186
 
@@ -10,7 +10,7 @@ Users: 186
 | 2 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 250 |
 | 3 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 233 |
 | 4 | [skylerto](https://github.com/skylerto) | Skyler Layne | ShuttleOps |  | Georgetown, ON | 98 |
-| 5 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 58 |
+| 5 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 59 |
 | 6 | [tylerwhall](https://github.com/tylerwhall) | Tyler Hall | Lexmark |  | Georgetown, KY | 49 |
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 47 |
 | 8 | [anmolnar](https://github.com/anmolnar) | Andor Molnár | @cloudera |  | Georgetown, TX | 44 |
@@ -24,5 +24,5 @@ Users: 186
 | 16 | [ocrram](https://github.com/ocrram) | Marco |  |  | Georgetown, TX | 30 |
 | 17 | [ryanrotman](https://github.com/ryanrotman) | Ryan Rotman | YETI |  | Georgetown, TX | 29 |
 | 18 | [MichaelATang](https://github.com/MichaelATang) | Michael Tang |  |  | Guyana | 25 |
-| 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | @Cassini-Technologies  | NicholasSeetar2 | South America, Guyana, Georgetown | 24 |
+| 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | @Cassini-Technologies  | NicholasSeetar2 | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney |  |  | Georgetown, CO | 21 |

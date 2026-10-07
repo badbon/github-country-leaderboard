@@ -1,8 +1,8 @@
 # Total Contributions - Colombia
 
-Generated: 2026-10-07T10:16:32.602Z
+Generated: 2026-10-07T10:57:25.339Z
 
-Users: 29122
+Users: 29121
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

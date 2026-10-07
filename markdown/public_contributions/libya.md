@@ -1,6 +1,6 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-07T10:28:30.731Z
+Generated: 2026-10-07T11:10:51.794Z
 
 Users: 748
 
@@ -8,15 +8,15 @@ Users: 748
 |---:|---|---|---|---|---|---:|
 | 1 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libyan Spider |  | Libya | 2889 |
 | 2 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY |  |  | Libya | 1079 |
-| 3 | [safwan12salem](https://github.com/safwan12salem) | Safwan Salem  |  |  | libya | 1020 |
-| 4 | [azzubairx](https://github.com/azzubairx) | Azzubair |  |  | Libya | 683 |
-| 5 | [hazembook](https://github.com/hazembook) | Hazem Shaban | College of Engineering Technology - Janzour | hazembook | Libya | 669 |
-| 6 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih |  |  | Libya | 661 |
-| 7 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 639 |
-| 8 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 617 |
-| 9 | [AbdulrahmanAbusnena](https://github.com/AbdulrahmanAbusnena) | Abdulrahman Abusnena | Bentlos |  | Tripoli, Libya | 576 |
-| 10 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 547 |
-| 11 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 481 |
+| 3 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 1065 |
+| 4 | [safwan12salem](https://github.com/safwan12salem) | Safwan Salem  |  |  | libya | 1020 |
+| 5 | [azzubairx](https://github.com/azzubairx) | Azzubair |  |  | Libya | 683 |
+| 6 | [hazembook](https://github.com/hazembook) | Hazem Shaban | College of Engineering Technology - Janzour | hazembook | Libya | 669 |
+| 7 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih |  |  | Libya | 661 |
+| 8 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 639 |
+| 9 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 617 |
+| 10 | [AbdulrahmanAbusnena](https://github.com/AbdulrahmanAbusnena) | Abdulrahman Abusnena | Bentlos |  | Tripoli, Libya | 576 |
+| 11 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 547 |
 | 12 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi |  | mhmdnab004 | Tripoli - Lebanon | 427 |
 | 13 | [arousi](https://github.com/arousi) | Sanad AlArousi |  |  | Tripoly,Libya | 389 |
 | 14 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 368 |

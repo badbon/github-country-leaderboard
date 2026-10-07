@@ -31,7 +31,7 @@ Indexed users: 5,646
 | 17 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | San Jose, Costa Rica | 5,589 |
 | 18 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz | San Jose, Costa Rica | 5,379 |
 | 19 | [xmorera](https://github.com/xmorera) | Xavier Morera | Costa Rica | 5,248 |
-| 20 | [Fuabioo](https://github.com/Fuabioo) | Fabio Mora | Costa Rica 🇨🇷 | 5,077 |
+| 20 | [pegasus231184](https://github.com/pegasus231184) | Allan Martinez Pegasus | Costa Rica | 5,114 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,646
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-10-07T10:17:19.029Z
+Generated: 2026-10-07T10:57:43.904Z

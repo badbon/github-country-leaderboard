@@ -56,7 +56,7 @@ Indexed users: 1,550
 | 17 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,013 |
 | 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
 | 19 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos | Puerto Rico | 946 |
-| 20 | [dg203302](https://github.com/dg203302) | Diego García | San Juan Argentina | 937 |
+| 20 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | Puerto Rico | 858 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,550
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-07T10:37:46.132Z
+Generated: 2026-10-07T11:18:42.118Z

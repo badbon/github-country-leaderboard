@@ -31,7 +31,7 @@ Indexed users: 291
 | 17 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 988 |
 | 18 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 967 |
 | 19 | [JPDucky](https://github.com/JPDucky) | Palmer Duckworth | Plymouth Rock | 944 |
-| 20 | [mbruty](https://github.com/mbruty) | Michael Bruty | Plymouth | 838 |
+| 20 | [calfox](https://github.com/calfox) | Callum Fox | Plymouth | 846 |
 
 ## Public Contributions
 
@@ -80,7 +80,7 @@ Indexed users: 291
 | 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft | Plymouth UK | 21 |
 | 17 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 18 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 20 |
-| 19 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 19 |
-| 20 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | Plymouth uk | 19 |
+| 19 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | Plymouth uk | 20 |
+| 20 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 19 |
 
-Generated: 2026-10-07T10:33:41.896Z
+Generated: 2026-10-07T11:14:18.222Z

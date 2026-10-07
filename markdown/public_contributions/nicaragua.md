@@ -1,8 +1,8 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-07T10:35:59.416Z
+Generated: 2026-10-07T11:15:38.327Z
 
-Users: 1400
+Users: 1403
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

@@ -1,8 +1,8 @@
 # Total Contributions - Indonesia
 
-Generated: 2026-10-07T10:25:08.339Z
+Generated: 2026-10-07T11:07:11.929Z
 
-Users: 63155
+Users: 63153
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 63155
 | 6 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Van Astrea | Edge Computing |  | Indonesia  | 173861 |
 | 7 | [Setiawan007](https://github.com/Setiawan007) | Febrianto Bagus Setiawan | Kios Gameku | IdSetiawan007 | Indonesia | 155602 |
 | 8 | [dcodemaxz](https://github.com/dcodemaxz) | dcodemaxz | Not found! |  | Indonesia \| +62 | 143611 |
-| 9 | [zephyrinee](https://github.com/zephyrinee) | AHMAD AZIZIE ADNAN |  |  | Indonesia, Sumatera Utara, Medan, Kabupaten Simalungun | 99635 |
-| 10 | [DarkMephisto155115](https://github.com/DarkMephisto155115) | Andika Salsabilah | The Administrator |  | Malang, Jawa Timur, Indonesia | 96891 |
-| 11 | [putraxor](https://github.com/putraxor) | Ardiansyah Putra |  |  | Indonesia | 68202 |
-| 12 | [ceaton9](https://github.com/ceaton9) | Elang Indra |  |  | Indonesia | 61712 |
-| 13 | [rchxiy](https://github.com/rchxiy) | Itchy |  |  | Indonesia | 49502 |
-| 14 | [Nugraa21](https://github.com/Nugraa21) | Nugra21 | Universitas Teknologi Digital Indonesia ( UTDI ) |  | indonesia | 49436 |
-| 15 | [ZethDevs](https://github.com/ZethDevs) | Lutfi Farid |  |  | Indonesia | 48814 |
-| 16 | [aashari](https://github.com/aashari) | Andi Ashari | Ashari Tech |  | Indonesia | 42436 |
-| 17 | [iniadittt](https://github.com/iniadittt) | ADITYA BAYU AJI |  |  | Cirebon, Indonesia | 40218 |
-| 18 | [Xnuvers007](https://github.com/Xnuvers007) | XnuxersXploitXen |  |  | Indonesia | 39023 |
-| 19 | [ranggabiner](https://github.com/ranggabiner) | Rangga Hadi Putra | Apple Developer Academy |  | Jakarta, Indonesia | 37065 |
-| 20 | [jekhuz](https://github.com/jekhuz) | jekhuz |  |  | indonesia | 35484 |
+| 9 | [DarkMephisto155115](https://github.com/DarkMephisto155115) | Andika Salsabilah | The Administrator |  | Malang, Jawa Timur, Indonesia | 96891 |
+| 10 | [putraxor](https://github.com/putraxor) | Ardiansyah Putra |  |  | Indonesia | 68202 |
+| 11 | [ceaton9](https://github.com/ceaton9) | Elang Indra |  |  | Indonesia | 61712 |
+| 12 | [rchxiy](https://github.com/rchxiy) | Itchy |  |  | Indonesia | 49502 |
+| 13 | [Nugraa21](https://github.com/Nugraa21) | Nugra21 | Universitas Teknologi Digital Indonesia ( UTDI ) |  | indonesia | 49436 |
+| 14 | [ZethDevs](https://github.com/ZethDevs) | Lutfi Farid |  |  | Indonesia | 48814 |
+| 15 | [aashari](https://github.com/aashari) | Andi Ashari | Ashari Tech |  | Indonesia | 42436 |
+| 16 | [iniadittt](https://github.com/iniadittt) | ADITYA BAYU AJI |  |  | Cirebon, Indonesia | 40218 |
+| 17 | [Xnuvers007](https://github.com/Xnuvers007) | XnuxersXploitXen |  |  | Indonesia | 39023 |
+| 18 | [ranggabiner](https://github.com/ranggabiner) | Rangga Hadi Putra | Apple Developer Academy |  | Jakarta, Indonesia | 37065 |
+| 19 | [jekhuz](https://github.com/jekhuz) | jekhuz |  |  | indonesia | 35484 |
+| 20 | [hallucinogen](https://github.com/hallucinogen) | Listiarso Wastuargo | Metatech | lwastuargo | Jakarta | 30485 |

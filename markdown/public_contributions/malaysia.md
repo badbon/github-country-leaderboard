@@ -1,8 +1,8 @@
 # Public Contributions - Malaysia
 
-Generated: 2026-10-07T10:30:36.656Z
+Generated: 2026-10-07T11:12:07.121Z
 
-Users: 11796
+Users: 11795
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,16 +13,16 @@ Users: 11796
 | 5 | [melvinchia3636](https://github.com/melvinchia3636) | Melvin Chia |  |  | Johor, Malaysia | 9221 |
 | 6 | [farhan-syah](https://github.com/farhan-syah) | Farhan Syah |  | farhansyah90 | Malaysia | 8321 |
 | 7 | [AngJianming](https://github.com/AngJianming) | Ang Jianming (Jim) | Asia Pacific University | AngJianming | Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur | 8075 |
-| 8 | [ariffazil](https://github.com/ariffazil) | ariffazil |  | ArifFazil90 | Malaysia | 7382 |
-| 9 | [sureshapps](https://github.com/sureshapps) | Suresh Kaleyannan |  |  | Malaysia | 7344 |
-| 10 | [syarief02](https://github.com/syarief02) | Syarief Azman | National Pharmaceutical Regulatory Agency | syariefazman | Malaysia | 7057 |
-| 11 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my |  |  | Putrajaya, Malaysia | 6906 |
-| 12 | [red1oon](https://github.com/red1oon) | Redhuan D. Oon |  |  | Kuala Lumpur, Malaysia | 6390 |
-| 13 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi |  |  | Malaysia | 6304 |
-| 14 | [lifeofgurpreet](https://github.com/lifeofgurpreet) | Gurpreet | Biji-biji Initiative | lifeofgurpreet | Malaysia | 4956 |
-| 15 | [msmalley](https://github.com/msmalley) | msmalley | OpenSource Technology Evangelist and BlockChain Enthusiast |  | Kuala Lumpur, Malaysia | 4748 |
-| 16 | [season179](https://github.com/season179) | Season Saw |  | seasonsaw | Kuala Lumpur, Malaysia | 4711 |
-| 17 | [AqFad2811](https://github.com/AqFad2811) | AqFad |  | AqFad2811 | Malaysia | 4642 |
-| 18 | [mingng18](https://github.com/mingng18) | ConcurrentB | AILens Group |  | Kuala Lumpur, Malaysia | 4566 |
-| 19 | [siakhooi](https://github.com/siakhooi) | Siak Hooi |  |  | Malaysia | 4072 |
-| 20 | [hollowaykeanho](https://github.com/hollowaykeanho) | (Holloway) Chew, Kean Ho | Independent |  | Malaysia, South East Asia | 3857 |
+| 8 | [syarief02](https://github.com/syarief02) | Syarief Azman | National Pharmaceutical Regulatory Agency | syariefazman | Malaysia | 7057 |
+| 9 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my |  |  | Putrajaya, Malaysia | 6906 |
+| 10 | [ariffazil](https://github.com/ariffazil) | ariffazil |  | ArifFazil90 | Malaysia | 6700 |
+| 11 | [red1oon](https://github.com/red1oon) | Redhuan D. Oon |  |  | Kuala Lumpur, Malaysia | 6390 |
+| 12 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi |  |  | Malaysia | 6304 |
+| 13 | [lifeofgurpreet](https://github.com/lifeofgurpreet) | Gurpreet | Biji-biji Initiative | lifeofgurpreet | Malaysia | 4956 |
+| 14 | [msmalley](https://github.com/msmalley) | msmalley | OpenSource Technology Evangelist and BlockChain Enthusiast |  | Kuala Lumpur, Malaysia | 4748 |
+| 15 | [season179](https://github.com/season179) | Season Saw |  | seasonsaw | Kuala Lumpur, Malaysia | 4711 |
+| 16 | [AqFad2811](https://github.com/AqFad2811) | AqFad |  | AqFad2811 | Malaysia | 4642 |
+| 17 | [mingng18](https://github.com/mingng18) | ConcurrentB | AILens Group |  | Kuala Lumpur, Malaysia | 4566 |
+| 18 | [siakhooi](https://github.com/siakhooi) | Siak Hooi |  |  | Malaysia | 4072 |
+| 19 | [hollowaykeanho](https://github.com/hollowaykeanho) | (Holloway) Chew, Kean Ho | Independent |  | Malaysia, South East Asia | 3857 |
+| 20 | [sairiz](https://github.com/sairiz) | Saiffil Fariz |  |  | Malaysia | 3735 |

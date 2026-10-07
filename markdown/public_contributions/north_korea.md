@@ -1,6 +1,6 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-07T10:36:14.162Z
+Generated: 2026-10-07T11:16:04.168Z
 
 Users: 186
 
@@ -11,18 +11,18 @@ Users: 186
 | 3 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 607 |
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 473 |
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 343 |
-| 6 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 206 |
-| 7 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 200 |
-| 8 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | Kim Il Sung University |  | North Korea | 198 |
-| 9 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 196 |
-| 10 | [july0785](https://github.com/july0785) | JULY |  |  | Pyongyang, DPR of Korea | 186 |
-| 11 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 182 |
-| 12 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 175 |
-| 13 | [l1vstudios](https://github.com/l1vstudios) | L1V |  |  | North Korea | 167 |
-| 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 165 |
+| 6 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 206 |
+| 7 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 206 |
+| 8 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 200 |
+| 9 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | Kim Il Sung University |  | North Korea | 198 |
+| 10 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 196 |
+| 11 | [july0785](https://github.com/july0785) | JULY |  |  | Pyongyang, DPR of Korea | 186 |
+| 12 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 182 |
+| 13 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 175 |
+| 14 | [l1vstudios](https://github.com/l1vstudios) | L1V |  |  | North Korea | 167 |
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 165 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | CGIC | vega_holdings | Pyongyang | 140 |
-| 17 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 99 |
+| 17 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 95 |
 | 18 | [lavrentious](https://github.com/lavrentious) | lavrent | ITMO University |  | Democratic People's Republic of Korea | 91 |
 | 19 | [l0ji](https://github.com/l0ji) | penny |  |  | Pyongyang | 83 |
 | 20 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 81 |

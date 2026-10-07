@@ -1,6 +1,6 @@
 # Morocco
 
-Indexed users: 9,669
+Indexed users: 9,668
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 9,669
 | 17 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | Morocco | 2,276 |
 | 18 | [faiz-oussama](https://github.com/faiz-oussama) | Oussama Faiz | Casablanca, Morocco | 2,189 |
 | 19 | [abdarrhmanessetaoui](https://github.com/abdarrhmanessetaoui) | ABDERRAHMAN SETTAOUI | Marrakech, Morocco | 2,173 |
-| 20 | [aymanebouljam](https://github.com/aymanebouljam) | Aymane Bouljam | Morocco | 2,144 |
+| 20 | [alisqueandreliman](https://github.com/alisqueandreliman) | Walid BOUSSOU | Tetouan, Morocco. | 2,102 |
 
 ## Followers
 
@@ -66,21 +66,21 @@ Indexed users: 9,669
 | 2 | [ZeroMemoryEx](https://github.com/ZeroMemoryEx) | Anas  | Morocco | 2,133 |
 | 3 | [SaadAhla](https://github.com/SaadAhla) | SaadAhla | Morocco | 1,772 |
 | 4 | [AymaneMehdi](https://github.com/AymaneMehdi) | Aymane Mehdi | Casablanca, Morocco | 1,702 |
-| 5 | [zakarialaoui10](https://github.com/zakarialaoui10) | ZAKARIA ELALAOUI | Morocco | 1,409 |
-| 6 | [Abdellahsyani](https://github.com/Abdellahsyani) | Abdellah  | Morocco | 1,304 |
-| 7 | [El-Tousy](https://github.com/El-Tousy) | Leila | Morocco | 1,267 |
+| 5 | [El-Tousy](https://github.com/El-Tousy) | El Tousy | Morocco | 1,545 |
+| 6 | [zakarialaoui10](https://github.com/zakarialaoui10) | ZAKARIA ELALAOUI | Morocco | 1,409 |
+| 7 | [Abdellahsyani](https://github.com/Abdellahsyani) | Abdellah  | Morocco | 1,304 |
 | 8 | [ablaamim](https://github.com/ablaamim) | Abdessamad Laamimi | Morocco | 1,150 |
 | 9 | [yjose](https://github.com/yjose) | Youssouf EL AZIZI | Casablanca, Morocco | 1,134 |
-| 10 | [moorocco](https://github.com/moorocco) | Nav-isaad | Morocco  | 1,125 |
-| 11 | [yelouafi](https://github.com/yelouafi) | Yassine Elouafi | Morocco | 1,046 |
-| 12 | [nuuxcode](https://github.com/nuuxcode) | Mounssif BOUHLAOUI (nuuX) | Tangier, Morocco | 986 |
-| 13 | [Safae26](https://github.com/Safae26) | Safae | Meknes, Morocco | 981 |
+| 10 | [yelouafi](https://github.com/yelouafi) | Yassine Elouafi | Morocco | 1,046 |
+| 11 | [nuuxcode](https://github.com/nuuxcode) | Mounssif BOUHLAOUI (nuuX) | Tangier, Morocco | 986 |
+| 12 | [Safae26](https://github.com/Safae26) | Safae | Meknes, Morocco | 981 |
+| 13 | [NawfalMotii79](https://github.com/NawfalMotii79) |  | Casablanca, MOROCCO | 973 |
 | 14 | [yezz123](https://github.com/yezz123) | Yasser Tahiri | Morocco | 911 |
-| 15 | [NawfalMotii79](https://github.com/NawfalMotii79) |  | Casablanca, MOROCCO | 875 |
-| 16 | [benweet](https://github.com/benweet) | Benoit Schweblin | Marrakech, Morocco | 843 |
-| 17 | [MohammedHarmouche](https://github.com/MohammedHarmouche) | Mohammed Harmouche | Morocco | 830 |
-| 18 | [CandleLearner-M](https://github.com/CandleLearner-M) | Mostafa El Issati | Tangier, Morocco | 828 |
-| 19 | [DevOam](https://github.com/DevOam) | mohamed reda lakouas | Morocco | 823 |
-| 20 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
+| 15 | [benweet](https://github.com/benweet) | Benoit Schweblin | Marrakech, Morocco | 843 |
+| 16 | [MohammedHarmouche](https://github.com/MohammedHarmouche) | Mohammed Harmouche | Morocco | 830 |
+| 17 | [CandleLearner-M](https://github.com/CandleLearner-M) | Mostafa El Issati | Tangier, Morocco | 828 |
+| 18 | [DevOam](https://github.com/DevOam) | mohamed reda lakouas | Morocco | 823 |
+| 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
+| 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
 
-Generated: 2026-10-07T10:33:44.629Z
+Generated: 2026-10-07T11:14:22.263Z

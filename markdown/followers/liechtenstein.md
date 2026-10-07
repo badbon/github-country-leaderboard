@@ -1,6 +1,6 @@
 # Followers - Liechtenstein
 
-Generated: 2026-10-07T10:28:34.141Z
+Generated: 2026-10-07T11:10:55.448Z
 
 Users: 113
 
@@ -14,8 +14,8 @@ Users: 113
 | 6 | [danheron](https://github.com/danheron) | Dan Heron |  |  | Liechtenstein | 29 |
 | 7 | [Hujun](https://github.com/Hujun) | HJ |  |  | Vaduz | 29 |
 | 8 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 29 |
-| 9 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 21 |
-| 10 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 21 |
+| 9 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 22 |
+| 10 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 21 |
 | 11 | [TOLDOTECHNIK](https://github.com/TOLDOTECHNIK) |  | TOLDO TECHNIK |  | Vaduz | 21 |
 | 12 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 18 |
 | 13 | [InsurePal](https://github.com/InsurePal) | VouchForMe | VouchForMe  |  | Vaduz | 17 |

@@ -47,16 +47,16 @@ Indexed users: 1,585
 | 8 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 1,866 |
 | 9 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 1,774 |
 | 10 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 1,765 |
-| 11 | [gabriel-klettur](https://github.com/gabriel-klettur) | Gabriel Roca | Iceland, Reykjavík | 1,719 |
-| 12 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,496 |
-| 13 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,301 |
-| 14 | [arividar](https://github.com/arividar) | Ari Johannesson | Reykjavik | 1,294 |
-| 15 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,224 |
-| 16 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,166 |
-| 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,164 |
-| 18 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 1,125 |
-| 19 | [gunnartorfis](https://github.com/gunnartorfis) | Gunnar Torfi Steinarsson | Reykjavik, Iceland | 1,113 |
-| 20 | [adslbarxatov](https://github.com/adslbarxatov) | RD AAOW Free development lab | Reykjavík, Iceland | 1,112 |
+| 11 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,496 |
+| 12 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,301 |
+| 13 | [arividar](https://github.com/arividar) | Ari Johannesson | Reykjavik | 1,294 |
+| 14 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,224 |
+| 15 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,166 |
+| 16 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,164 |
+| 17 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 1,125 |
+| 18 | [gunnartorfis](https://github.com/gunnartorfis) | Gunnar Torfi Steinarsson | Reykjavik, Iceland | 1,113 |
+| 19 | [adslbarxatov](https://github.com/adslbarxatov) | RD AAOW Free development lab | Reykjavík, Iceland | 1,112 |
+| 20 | [jamestomasino](https://github.com/jamestomasino) | James Tomasino | Mosfellsbær, Iceland | 1,105 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,585
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 202 |
 
-Generated: 2026-10-07T10:25:04.978Z
+Generated: 2026-10-07T11:07:09.374Z

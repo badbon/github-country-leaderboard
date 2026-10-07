@@ -1,6 +1,6 @@
 # Public Contributions - Mali
 
-Generated: 2026-10-07T10:31:13.766Z
+Generated: 2026-10-07T11:12:56.260Z
 
 Users: 348
 
@@ -13,16 +13,16 @@ Users: 348
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 1117 |
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | HorizonFuture |  | Bamako, telecel GBS | 635 |
 | 7 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | @simplonsolutionssenegal | malladev223 | Bamako - MALI | 440 |
-| 8 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 423 |
-| 9 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 386 |
+| 8 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 386 |
+| 9 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 377 |
 | 10 | [LeoAz](https://github.com/LeoAz) | Lionel AZ |  |  | Bamako | 368 |
 | 11 | [skypper109](https://github.com/skypper109) | SKYPPER | AMD tech |  | Mali | 334 |
-| 12 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse |  |  | Mali(Bamako) | 302 |
-| 13 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama |  | Mandjou_JS | Bamako, Mali | 263 |
-| 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | @loga-engineering |  | Bamako, Mali | 250 |
-| 15 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 238 |
-| 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 185 |
-| 17 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou |  |  | bamako, Mali | 179 |
-| 18 | [Jbriguel](https://github.com/Jbriguel) |  |  |  | Mali | 157 |
-| 19 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba |  | d1array | Bamako, Mali | 155 |
+| 12 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama |  | Mandjou_JS | Bamako, Mali | 263 |
+| 13 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | @loga-engineering |  | Bamako, Mali | 250 |
+| 14 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 238 |
+| 15 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 185 |
+| 16 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou |  |  | bamako, Mali | 179 |
+| 17 | [Jbriguel](https://github.com/Jbriguel) |  |  |  | Mali | 157 |
+| 18 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba |  | d1array | Bamako, Mali | 155 |
+| 19 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse |  |  | Mali(Bamako) | 148 |
 | 20 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Ckan |  | Mali | 134 |

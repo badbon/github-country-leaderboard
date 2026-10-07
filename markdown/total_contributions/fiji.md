@@ -1,6 +1,6 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-07T10:20:10.992Z
+Generated: 2026-10-07T11:03:51.500Z
 
 Users: 327
 
@@ -23,6 +23,6 @@ Users: 327
 | 15 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 502 |
 | 16 | [Shoneel](https://github.com/Shoneel) |  |  |  | Fiji, Suva  | 481 |
 | 17 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 481 |
-| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 419 |
-| 19 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy |  |  | Fiji | 399 |
-| 20 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 276 |
+| 18 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 422 |
+| 19 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 419 |
+| 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy |  |  | Fiji | 399 |

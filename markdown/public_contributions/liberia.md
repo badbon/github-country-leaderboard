@@ -1,8 +1,8 @@
 # Public Contributions - Liberia
 
-Generated: 2026-10-07T10:28:26.405Z
+Generated: 2026-10-07T11:10:47.217Z
 
-Users: 212
+Users: 211
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 212
 | 10 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Tec Liberia |  | Liberia | 262 |
 | 11 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 225 |
 | 12 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr |  | simeonatarr862 | Buchanan City, Liberia | 210 |
-| 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | TBAY Tech Service | FitzgeraldChal | Ontario, Canada & Monrovia, Liberia | 208 |
+| 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | TBAY Tech Service | FitzgeraldChal | Ontario, Canada & Monrovia, Liberia | 188 |
 | 14 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo |  |  | Monrovia, Liberia | 186 |
 | 15 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 178 |
 | 16 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 167 |
-| 17 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 144 |
-| 18 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | NextGents Tech Inc. |  | Rwanda, Liberia. | 143 |
-| 19 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 143 |
-| 20 | [armandosolisvillegas-max](https://github.com/armandosolisvillegas-max) | Armando José Solís Villegas |  |  | Liberia | 137 |
+| 17 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | NextGents Tech Inc. |  | Rwanda, Liberia. | 143 |
+| 18 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 143 |
+| 19 | [armandosolisvillegas-max](https://github.com/armandosolisvillegas-max) | Armando José Solís Villegas |  |  | Liberia | 137 |
+| 20 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 134 |

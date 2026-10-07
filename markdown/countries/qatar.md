@@ -42,9 +42,9 @@ Indexed users: 1,077
 | 3 | [Tamoura](https://github.com/Tamoura) | Tamer | Qatar | 1,725 |
 | 4 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 1,519 |
 | 5 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,512 |
-| 6 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,082 |
-| 7 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,034 |
-| 8 | [kashkoool](https://github.com/kashkoool) | louay kashkool | qatar | 999 |
+| 6 | [kashkoool](https://github.com/kashkoool) | louay kashkool | qatar | 1,154 |
+| 7 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,082 |
+| 8 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,034 |
 | 9 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Qatar | 953 |
 | 10 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Qatar | 925 |
 | 11 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 919 |
@@ -83,4 +83,4 @@ Indexed users: 1,077
 | 19 | [Behram-Khattak](https://github.com/Behram-Khattak) | Behram Khattak | Doha, Qatar | 91 |
 | 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 91 |
 
-Generated: 2026-10-07T10:37:51.873Z
+Generated: 2026-10-07T11:18:46.073Z

@@ -65,9 +65,9 @@ Indexed users: 296
 | 1 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 239 |
 | 2 | [grecpt](https://github.com/grecpt) | Grecpt | Papua New Guinea | 74 |
 | 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 28 |
-| 4 | [nxnmsl0](https://github.com/nxnmsl0) | Nixon Misiel Agregum | PORT MORESBY | 28 |
-| 5 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 26 |
-| 6 | [JHEK675](https://github.com/JHEK675) | Hosea Wartabar Kolis | Lae, Papua New Guinea | 24 |
+| 4 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 26 |
+| 5 | [JHEK675](https://github.com/JHEK675) | Hosea Wartabar Kolis | Lae, Papua New Guinea | 24 |
+| 6 | [nxnmsl0](https://github.com/nxnmsl0) | Nixon Misiel Agregum | PORT MORESBY | 23 |
 | 7 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 22 |
 | 8 | [sutherlandnele](https://github.com/sutherlandnele) | Sutherland Nele | Port Moresby | 19 |
 | 9 | [161710125](https://github.com/161710125) | Muuu | Papua New Guinea | 16 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [rex-makusia](https://github.com/rex-makusia) | Rex Makusia | Papua New Guinea | 8 |
 | 20 | [AlexQCryptids](https://github.com/AlexQCryptids) | Alex Q | Papua New Guinea | 7 |
 
-Generated: 2026-10-07T10:37:10.512Z
+Generated: 2026-10-07T11:17:33.701Z

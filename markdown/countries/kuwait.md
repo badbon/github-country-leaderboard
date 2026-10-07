@@ -54,9 +54,9 @@ Indexed users: 800
 | 15 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 528 |
 | 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 527 |
 | 17 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 521 |
-| 18 | [jakariahossain12](https://github.com/jakariahossain12) | Md.Jakaria | kuwait | 447 |
-| 19 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 438 |
-| 20 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer | Kuwait | 431 |
+| 18 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 438 |
+| 19 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer | Kuwait | 431 |
+| 20 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | Kuwait | 422 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 800
 | 19 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 75 |
 | 20 | [Eazy2Code](https://github.com/Eazy2Code) | Eazy2Code | Kuwait | 74 |
 
-Generated: 2026-10-07T10:27:30.736Z
+Generated: 2026-10-07T11:09:15.233Z

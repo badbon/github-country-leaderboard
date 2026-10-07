@@ -1,6 +1,6 @@
 # Kyrgyzstan
 
-Indexed users: 2,464
+Indexed users: 2,463
 
 | Leaderboard | Link |
 |---|---|
@@ -24,10 +24,10 @@ Indexed users: 2,464
 | 10 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 5,086 |
 | 11 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,966 |
 | 12 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 4,762 |
-| 13 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 4,549 |
-| 14 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,386 |
-| 15 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
-| 16 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,232 |
+| 13 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,724 |
+| 14 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 4,549 |
+| 15 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,386 |
+| 16 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
 | 17 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,042 |
 | 18 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 3,873 |
 | 19 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 3,615 |
@@ -42,7 +42,7 @@ Indexed users: 2,464
 | 3 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | Bishkek | 2,600 |
 | 4 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 2,262 |
 | 5 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Bishkek, Kyrgyzstan  | 1,843 |
-| 6 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,718 |
+| 6 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,651 |
 | 7 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko | Bishkek, Kyrgyzstan (Relocated) | 1,626 |
 | 8 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 1,598 |
 | 9 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | Bishkek | 1,336 |
@@ -83,4 +83,4 @@ Indexed users: 2,464
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 101 |
 
-Generated: 2026-10-07T10:27:40.087Z
+Generated: 2026-10-07T11:09:19.823Z

@@ -1,8 +1,8 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-07T10:31:38.840Z
+Generated: 2026-10-07T11:13:12.397Z
 
-Users: 1232
+Users: 1231
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

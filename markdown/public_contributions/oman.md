@@ -1,8 +1,8 @@
 # Public Contributions - Oman
 
-Generated: 2026-10-07T10:36:46.695Z
+Generated: 2026-10-07T11:17:16.858Z
 
-Users: 999
+Users: 1006
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,9 +19,9 @@ Users: 999
 | 11 | [2-towns](https://github.com/2-towns) | Arnaud | @logos-storage |  | Oman | 1787 |
 | 12 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | CodeLine |  | Oman | 1702 |
 | 13 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Codeline |  | Oman | 1577 |
-| 14 | [MohammedAlkindi](https://github.com/MohammedAlkindi) | Mohammed Alkindi | ProofX |  | Muscat, Oman | 1565 |
-| 15 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Minoo Trading SPC |  | Muscat, Masqaţ, Oman | 1354 |
-| 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | CodeLine |  | Oman | 1333 |
+| 14 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Minoo Trading SPC |  | Muscat, Masqaţ, Oman | 1354 |
+| 15 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | CodeLine |  | Oman | 1333 |
+| 16 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Codeline |  | Muscat, Oman | 1306 |
 | 17 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Codeline  |  | Oman | 1251 |
 | 18 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Badal Technology |  | Muscat, Oman | 1173 |
 | 19 | [atakhadiviom](https://github.com/atakhadiviom) | ATA KHADIVI |  |  | Muscat | 1171 |

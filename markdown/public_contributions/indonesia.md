@@ -1,8 +1,8 @@
 # Public Contributions - Indonesia
 
-Generated: 2026-10-07T10:25:08.339Z
+Generated: 2026-10-07T11:07:11.929Z
 
-Users: 63155
+Users: 63153
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,17 +12,17 @@ Users: 63155
 | 4 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Van Astrea | Edge Computing |  | Indonesia  | 173861 |
 | 5 | [Setiawan007](https://github.com/Setiawan007) | Febrianto Bagus Setiawan | Kios Gameku | IdSetiawan007 | Indonesia | 155602 |
 | 6 | [xsrazy](https://github.com/xsrazy) | Rahmatul Usra | .. |  | Sumatera barat, Indonesia | 123244 |
-| 7 | [zephyrinee](https://github.com/zephyrinee) | AHMAD AZIZIE ADNAN |  |  | Indonesia, Sumatera Utara, Medan, Kabupaten Simalungun | 99479 |
-| 8 | [rchxiy](https://github.com/rchxiy) | Itchy |  |  | Indonesia | 49502 |
-| 9 | [ZethDevs](https://github.com/ZethDevs) | Lutfi Farid |  |  | Indonesia | 48784 |
-| 10 | [iniadittt](https://github.com/iniadittt) | ADITYA BAYU AJI |  |  | Cirebon, Indonesia | 40199 |
-| 11 | [Xnuvers007](https://github.com/Xnuvers007) | XnuxersXploitXen |  |  | Indonesia | 38774 |
-| 12 | [jekhuz](https://github.com/jekhuz) | jekhuz |  |  | indonesia | 35484 |
-| 13 | [Vinsmoke-Tech](https://github.com/Vinsmoke-Tech) | Daffa Ariftama Hanaris | Freelance |  | indonesia | 26699 |
-| 14 | [frhndevweb](https://github.com/frhndevweb) | Farhan Hanafi | Esperessos.id | hannaaffiii | Cilacap, Jawa Tengah, Indonesia | 26316 |
-| 15 | [nodeonline](https://github.com/nodeonline) | online |  | cuanbanyak2016 | indonesia | 24698 |
-| 16 | [rfkisctt](https://github.com/rfkisctt) | rfkisctt |  |  | Tangerang, Indonesia, 127.0.0.1 | 21815 |
-| 17 | [tomiprs0x](https://github.com/tomiprs0x) | Tomi Prasetio | Design Ace |  | Semarang, Indonesia | 19862 |
-| 18 | [nevzenly](https://github.com/nevzenly) | Nevzenly | Nevz |  | Indonesia | 18149 |
-| 19 | [cabrata](https://github.com/cabrata) | Caliph Atibrata |  | caliphdev | Sragen, Indonesia | 18090 |
-| 20 | [wahidyankf](https://github.com/wahidyankf) | Wahidyan Kresna Fridayoka | Hijra | wahidyankf | Jakarta, Indonesia | 17204 |
+| 7 | [rchxiy](https://github.com/rchxiy) | Itchy |  |  | Indonesia | 49502 |
+| 8 | [ZethDevs](https://github.com/ZethDevs) | Lutfi Farid |  |  | Indonesia | 48784 |
+| 9 | [iniadittt](https://github.com/iniadittt) | ADITYA BAYU AJI |  |  | Cirebon, Indonesia | 40199 |
+| 10 | [Xnuvers007](https://github.com/Xnuvers007) | XnuxersXploitXen |  |  | Indonesia | 38774 |
+| 11 | [jekhuz](https://github.com/jekhuz) | jekhuz |  |  | indonesia | 35484 |
+| 12 | [Vinsmoke-Tech](https://github.com/Vinsmoke-Tech) | Daffa Ariftama Hanaris | Freelance |  | indonesia | 26699 |
+| 13 | [frhndevweb](https://github.com/frhndevweb) | Farhan Hanafi | Esperessos.id | hannaaffiii | Cilacap, Jawa Tengah, Indonesia | 26316 |
+| 14 | [nodeonline](https://github.com/nodeonline) | online |  | cuanbanyak2016 | indonesia | 24698 |
+| 15 | [rfkisctt](https://github.com/rfkisctt) | rfkisctt |  |  | Tangerang, Indonesia, 127.0.0.1 | 21815 |
+| 16 | [tomiprs0x](https://github.com/tomiprs0x) | Tomi Prasetio | Design Ace |  | Semarang, Indonesia | 19862 |
+| 17 | [nevzenly](https://github.com/nevzenly) | Nevzenly | Nevz |  | Indonesia | 18149 |
+| 18 | [cabrata](https://github.com/cabrata) | Caliph Atibrata |  | caliphdev | Sragen, Indonesia | 18090 |
+| 19 | [wahidyankf](https://github.com/wahidyankf) | Wahidyan Kresna Fridayoka | Hijra | wahidyankf | Jakarta, Indonesia | 17204 |
+| 20 | [imransetiadi](https://github.com/imransetiadi) | Imran Setiadi | Stealth Mode |  | indonesia | 16946 |

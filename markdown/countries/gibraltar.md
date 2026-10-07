@@ -24,7 +24,7 @@ Indexed users: 93
 | 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 772 |
 | 11 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor | Gibraltar | 635 |
 | 12 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 621 |
-| 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 602 |
+| 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 604 |
 | 14 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 523 |
 | 15 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 493 |
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 456 |
@@ -43,7 +43,7 @@ Indexed users: 93
 | 4 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 493 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 476 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 252 |
-| 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 244 |
+| 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 245 |
 | 8 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 197 |
 | 9 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 196 |
 | 10 | [ZedsArcade](https://github.com/ZedsArcade) | ZedsArcade | Gibraltar | 156 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-07T10:21:42.190Z
+Generated: 2026-10-07T11:04:37.743Z

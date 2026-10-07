@@ -1,19 +1,19 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-07T10:38:18.309Z
+Generated: 2026-10-07T11:18:50.864Z
 
 Users: 299
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | @akieni-tech | bryan_6243 | Brazzaville - Congo | 7943 |
+| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | @akieni-tech | bryan_6243 | Brazzaville - Congo | 11243 |
 | 2 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda |  |  | Pointe-Noire, Congo | 3891 |
 | 3 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | @akieni-tech |  | Brazzaville - Congo | 3798 |
 | 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke |  |  | Congo | 3075 |
 | 5 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 3003 |
-| 6 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Akieni |  | Brazzaville - Congo | 2723 |
-| 7 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 2663 |
-| 8 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2649 |
+| 6 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2804 |
+| 7 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Akieni |  | Brazzaville - Congo | 2723 |
+| 8 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 2663 |
 | 9 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 2610 |
 | 10 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Nanocreatives |  | Congo Brazzaville | 2567 |
 | 11 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | cesoentreprise | CesarLouzala | Congo | 2546 |

@@ -1,21 +1,21 @@
 # Public Contributions - Réunion
 
-Generated: 2026-10-07T10:38:21.165Z
+Generated: 2026-10-07T11:19:22.125Z
 
 Users: 212
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 1879 |
-| 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1584 |
+| 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1496 |
 | 3 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 1110 |
 | 4 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Red Hat, Inc. | elmarco | Réunion | 1015 |
-| 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 749 |
+| 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 865 |
 | 6 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 705 |
 | 7 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 515 |
 | 8 | [Karl97490](https://github.com/Karl97490) | Karl Pery-Potonie |  |  | Réunion | 486 |
 | 9 | [John361](https://github.com/John361) | John |  |  | Réunion | 342 |
-| 10 | [W-D0n](https://github.com/W-D0n) | D0n |  |  | Reunion Island | 333 |
+| 10 | [W-D0n](https://github.com/W-D0n) | D0n |  |  | Reunion Island | 335 |
 | 11 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 308 |
 | 12 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | DeiTsuki corp |  | Reunion Island | 293 |
 | 13 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 288 |

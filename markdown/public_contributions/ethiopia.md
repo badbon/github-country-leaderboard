@@ -1,6 +1,6 @@
 # Public Contributions - Ethiopia
 
-Generated: 2026-10-07T10:20:01.021Z
+Generated: 2026-10-07T11:02:49.845Z
 
 Users: 6690
 
@@ -21,8 +21,8 @@ Users: 6690
 | 13 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar |  |  | Addis Ababa, Ethiopia | 2510 |
 | 14 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Orient PLC. |  | Addis Ababa , Ethiopia | 2407 |
 | 15 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa University |  | Addis Ababa | 2396 |
-| 16 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi |  |  | Addis Ababa, Ethiopia | 2312 |
-| 17 | [FiraBro](https://github.com/FiraBro) | Firagos Jemal |  |  | Ethiopia, Dire Dawa | 2200 |
-| 18 | [hirodinn](https://github.com/hirodinn) | Hire Bikila |  |  | Addis Ababa, Ethiopia | 2079 |
-| 19 | [kid-yP](https://github.com/kid-yP) | Kidus Yosef | Addis Ababa Science And Technology University |  | Addis Ababa, Ethiopia | 2070 |
-| 20 | [lemigobena](https://github.com/lemigobena) | Lemi Gobena Jaleta |  | LemiGobena | Addis Ababa, Ethiopia | 2029 |
+| 16 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye |  |  | Adaama, Ethiopia | 2378 |
+| 17 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi |  |  | Addis Ababa, Ethiopia | 2312 |
+| 18 | [FiraBro](https://github.com/FiraBro) | Firagos Jemal |  |  | Ethiopia, Dire Dawa | 2200 |
+| 19 | [hirodinn](https://github.com/hirodinn) | Hire Bikila |  |  | Addis Ababa, Ethiopia | 2079 |
+| 20 | [kid-yP](https://github.com/kid-yP) | Kidus Yosef | Addis Ababa Science And Technology University |  | Addis Ababa, Ethiopia | 2070 |

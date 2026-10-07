@@ -1,6 +1,6 @@
 # Malta
 
-Indexed users: 1,232
+Indexed users: 1,231
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,232
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 
-Generated: 2026-10-07T10:31:38.840Z
+Generated: 2026-10-07T11:13:12.397Z

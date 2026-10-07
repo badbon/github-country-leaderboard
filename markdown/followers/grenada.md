@@ -1,6 +1,6 @@
 # Followers - Grenada
 
-Generated: 2026-10-07T10:22:33.736Z
+Generated: 2026-10-07T11:05:03.485Z
 
 Users: 38
 
@@ -9,7 +9,7 @@ Users: 38
 | 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters |  |  | Grenada, West Indies | 33 |
 | 2 | [al-latte](https://github.com/al-latte) | Karlisha Roberts |  |  | Grenada | 27 |
 | 3 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | @kerrongordon | kerrongordon | Grenada | 18 |
-| 4 | [smcqueen-95](https://github.com/smcqueen-95) | Samira Mc Queen |  |  | Grenada | 13 |
+| 4 | [smcqueen-95](https://github.com/smcqueen-95) | Samira Mc Queen |  |  | Grenada | 14 |
 | 5 | [ufukdelrey](https://github.com/ufukdelrey) |  |  |  | Grenada | 9 |
 | 6 | [clevonnoel](https://github.com/clevonnoel) | Clevon Noel | Metarelic | clevonnoel | Grenada | 7 |
 | 7 | [davethedevofficial](https://github.com/davethedevofficial) | DaveTheDev | Pierre Solutions | Davethedev | Grenada | 7 |

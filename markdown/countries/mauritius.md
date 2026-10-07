@@ -1,6 +1,6 @@
 # Mauritius
 
-Indexed users: 722
+Indexed users: 721
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 722
 | 19 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | Mauritius | 73 |
 | 20 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 73 |
 
-Generated: 2026-10-07T10:31:55.229Z
+Generated: 2026-10-07T11:13:24.987Z

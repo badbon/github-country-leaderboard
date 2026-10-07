@@ -1,8 +1,8 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-10-07T10:27:40.087Z
+Generated: 2026-10-07T11:09:19.823Z
 
-Users: 2464
+Users: 2463
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,10 +18,10 @@ Users: 2464
 | 10 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | @aitsolutions |  | Kyrgyzstan | 5086 |
 | 11 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4966 |
 | 12 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov |  |  | Bishkek, Kyrgyzstan | 4762 |
-| 13 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 4549 |
-| 14 | [eeemmm29](https://github.com/eeemmm29) | EM | AIT Solutions |  | Kyrgyzstan | 4386 |
-| 15 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov |  |  | Kyrgyzstan | 4265 |
-| 16 | [nasipa1](https://github.com/nasipa1) | Nasipa | LLC Alpha-Net |  | Kyrgyzstan, Bishkek | 4232 |
+| 13 | [nasipa1](https://github.com/nasipa1) | Nasipa | LLC Alpha-Net |  | Kyrgyzstan, Bishkek | 4724 |
+| 14 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 4549 |
+| 15 | [eeemmm29](https://github.com/eeemmm29) | EM | AIT Solutions |  | Kyrgyzstan | 4386 |
+| 16 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov |  |  | Kyrgyzstan | 4265 |
 | 17 | [timplifier](https://github.com/timplifier) | timplifier雨 | @Timbermir |  | Bishkek | 4042 |
 | 18 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 3873 |
 | 19 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @fastronome |  | Bishkek, Kyrgyz Republic | 3615 |

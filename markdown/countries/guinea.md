@@ -30,8 +30,8 @@ Indexed users: 265
 | 16 | [ISSIAGA-CONDE224](https://github.com/ISSIAGA-CONDE224) | ISSIAGA CONDE | GUINEA CONAKRY | 814 |
 | 17 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 701 |
 | 18 | [Iboubai](https://github.com/Iboubai) | Ibrahima Doumbouya | Conakry | 670 |
-| 19 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 590 |
-| 20 | [Adbrim](https://github.com/Adbrim) | Alhassane Bah | CONAKRY | 563 |
+| 19 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 605 |
+| 20 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 578 |
 
 ## Public Contributions
 
@@ -41,7 +41,7 @@ Indexed users: 265
 | 2 | [sudomarc](https://github.com/sudomarc) | marco_ | Guinée Conakry  | 2,165 |
 | 3 | [GYOM15](https://github.com/GYOM15) | Guy Olivier Millimouno | Guinea/Conakry | 802 |
 | 4 | [Iboubai](https://github.com/Iboubai) | Ibrahima Doumbouya | Conakry | 670 |
-| 5 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 590 |
+| 5 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 605 |
 | 6 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 473 |
 | 7 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 282 |
 | 8 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 252 |
@@ -72,8 +72,8 @@ Indexed users: 265
 | 8 | [hams94](https://github.com/hams94) | Hamidou Bah | Guinée, Conakry, GN | 31 |
 | 9 | [moudjames23](https://github.com/moudjames23) | Mamoudou Diallo | Guinea | 28 |
 | 10 | [fiicode](https://github.com/fiicode) | fiicode | Guinea | 26 |
-| 11 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 25 |
-| 12 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 25 |
+| 11 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 26 |
+| 12 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 25 |
 | 13 | [nlbkc2025-cell](https://github.com/nlbkc2025-cell) | Nabybk | Conakry  | 24 |
 | 14 | [TheBlackDude](https://github.com/TheBlackDude) | Ousmane Seidy Diallo | Guinea, Conakry | 24 |
 | 15 | [mamadou6c](https://github.com/mamadou6c) | Mamadou | Guinea | 21 |
@@ -83,4 +83,4 @@ Indexed users: 265
 | 19 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Conakry, Guinée | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-07T10:23:29.722Z
+Generated: 2026-10-07T11:05:50.547Z

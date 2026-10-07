@@ -23,8 +23,8 @@ Indexed users: 123
 | 9 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 2,379 |
 | 10 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Cayman Islands | 2,374 |
 | 11 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper | Grand Cayman, Cayman Islands | 1,596 |
-| 12 | [RodneyAlison](https://github.com/RodneyAlison) | Rodney Alison | Cayman Islands | 1,276 |
-| 13 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 1,253 |
+| 12 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 1,477 |
+| 13 | [RodneyAlison](https://github.com/RodneyAlison) | Rodney Alison | Cayman Islands | 1,276 |
 | 14 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 1,099 |
 | 15 | [saviro-orin](https://github.com/saviro-orin) | Orin | Cayman Islands | 1,039 |
 | 16 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso | George Town, Cayman Islands | 1,029 |
@@ -54,7 +54,7 @@ Indexed users: 123
 | 15 | [HamoonSoleimani](https://github.com/HamoonSoleimani) | Hamoon Soleimani | Cayman Islands | 174 |
 | 16 | [NazgulT](https://github.com/NazgulT) | Nazgul Sagatova | Cayman Islands | 166 |
 | 17 | [RaisinBread42](https://github.com/RaisinBread42) | SkyyCipp | Cayman Islands | 154 |
-| 18 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 125 |
+| 18 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 128 |
 | 19 | [keVIMena98](https://github.com/keVIMena98) | Kevin Ramirez | Cayman Islands | 74 |
 | 20 | [SuperMohit](https://github.com/SuperMohit) | Mohit Talniya | Cayman Islands | 65 |
 
@@ -71,8 +71,8 @@ Indexed users: 123
 | 7 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 58 |
 | 8 | [guhhhhaa](https://github.com/guhhhhaa) | Guhhhhaa | Cayman Islands | 42 |
 | 9 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 38 |
-| 10 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan | Cayman Islands | 34 |
-| 11 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 32 |
+| 10 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 34 |
+| 11 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan | Cayman Islands | 34 |
 | 12 | [Galaxy-Crusader](https://github.com/Galaxy-Crusader) | JORDAN | Cayman Islands | 30 |
 | 13 | [garthhumphreys](https://github.com/garthhumphreys) | Garth Humphreys | Cayman Islands | 21 |
 | 14 | [andrewperry](https://github.com/andrewperry) | Andrew Perry | Cayman Islands | 20 |
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 16 |
 | 20 | [RJDevGroup](https://github.com/RJDevGroup) | RJ Dev Group | George Town | 16 |
 
-Generated: 2026-10-07T10:15:47.843Z
+Generated: 2026-10-07T10:56:38.338Z

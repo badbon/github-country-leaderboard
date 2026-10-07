@@ -1,6 +1,6 @@
 # Macau
 
-Indexed users: 451
+Indexed users: 450
 
 | Leaderboard | Link |
 |---|---|
@@ -12,8 +12,8 @@ Indexed users: 451
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,280 |
-| 2 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 7,150 |
+| 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 10,957 |
+| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,280 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 6,326 |
 | 4 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 4,528 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 3,792 |
@@ -51,12 +51,12 @@ Indexed users: 451
 | 12 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
 | 13 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 713 |
 | 14 | [ariel-lee-1023](https://github.com/ariel-lee-1023) | Ariel Lee | Macau | 678 |
-| 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
-| 16 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 575 |
+| 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 649 |
+| 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
 | 17 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 535 |
-| 18 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 464 |
-| 19 | [WindoC](https://github.com/WindoC) | Antonio Cheong | Macau | 425 |
-| 20 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao, China and Coimbra, Portugal | 417 |
+| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 521 |
+| 19 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 464 |
+| 20 | [WindoC](https://github.com/WindoC) | Antonio Cheong | Macau | 425 |
 
 ## Followers
 
@@ -67,7 +67,7 @@ Indexed users: 451
 | 3 | [yangfengzzz](https://github.com/yangfengzzz) | yangfengzzz | Macau | 207 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 200 |
 | 5 | [andyhamgit](https://github.com/andyhamgit) | Di Han | Macau | 187 |
-| 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 179 |
+| 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 184 |
 | 7 | [IMRL](https://github.com/IMRL) |  | Taipa, Macau | 162 |
 | 8 | [clinplayer](https://github.com/clinplayer) | Cheng Lin | Macau | 160 |
 | 9 | [manesec](https://github.com/manesec) | Mane | Macau | 128 |
@@ -80,7 +80,7 @@ Indexed users: 451
 | 16 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Macau | 88 |
 | 17 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong | Macau | 84 |
 | 18 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
-| 19 | [greatzh](https://github.com/greatzh) | Zihao Zhang | macao | 65 |
-| 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 61 |
+| 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 66 |
+| 20 | [greatzh](https://github.com/greatzh) | Zihao Zhang | macao | 65 |
 
-Generated: 2026-10-07T10:30:24.194Z
+Generated: 2026-10-07T11:11:48.091Z

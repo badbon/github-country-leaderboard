@@ -1,6 +1,6 @@
 # Cape Verde
 
-Indexed users: 565
+Indexed users: 564
 
 | Leaderboard | Link |
 |---|---|
@@ -14,8 +14,8 @@ Indexed users: 565
 |---:|---|---|---|---:|
 | 1 | [Kowts](https://github.com/Kowts) | Joselito Lima Coutinho | Praia, Cabo Verde | 2,908 |
 | 2 | [svcrashh](https://github.com/svcrashh) | crashh | Praia Grande | 2,729 |
-| 3 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | Praia Grande - SP | 1,940 |
-| 4 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula | Praia Grande, SP | 1,907 |
+| 3 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula | Praia Grande, SP | 2,598 |
+| 4 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | Praia Grande - SP | 1,940 |
 | 5 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | Praia Grande | 1,715 |
 | 6 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 1,379 |
 | 7 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,337 |
@@ -83,4 +83,4 @@ Indexed users: 565
 | 19 | [KaiqueLusvarghi](https://github.com/KaiqueLusvarghi) | Kaique Ortolani Lusvarghi | Praia Grande -SP | 58 |
 | 20 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 
-Generated: 2026-10-07T10:15:21.179Z
+Generated: 2026-10-07T10:56:01.885Z

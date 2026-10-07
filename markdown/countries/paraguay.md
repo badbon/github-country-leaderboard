@@ -27,11 +27,11 @@ Indexed users: 2,025
 | 13 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 4,318 |
 | 14 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 4,243 |
 | 15 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
-| 16 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,082 |
-| 17 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 4,017 |
-| 18 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla | Asuncion, Paraguay | 3,987 |
-| 19 | [diegobugs](https://github.com/diegobugs) | Diego | Hohenau, Paraguay | 3,868 |
-| 20 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza | Encarnacíon, Itapúa, Paraguay | 3,812 |
+| 16 | [neocuella](https://github.com/neocuella) | Rick Ovelar | Paraguay | 4,146 |
+| 17 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,082 |
+| 18 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 4,017 |
+| 19 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla | Asuncion, Paraguay | 3,987 |
+| 20 | [diegobugs](https://github.com/diegobugs) | Diego | Hohenau, Paraguay | 3,868 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,025
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-07T10:37:33.142Z
+Generated: 2026-10-07T11:17:58.618Z

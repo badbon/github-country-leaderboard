@@ -23,14 +23,14 @@ Indexed users: 139
 | 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 3,882 |
 | 10 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 3,424 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,360 |
-| 12 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,395 |
-| 13 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 1,666 |
-| 14 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | Jersey | 1,561 |
-| 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,471 |
-| 16 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 1,306 |
-| 17 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Jersey | 1,298 |
-| 18 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 1,270 |
-| 19 | [jaytees](https://github.com/jaytees) | Jordan Trickett | London / Jersey, UK | 1,046 |
+| 12 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 2,529 |
+| 13 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,395 |
+| 14 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,705 |
+| 15 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 1,666 |
+| 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | Jersey | 1,561 |
+| 17 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Jersey | 1,375 |
+| 18 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 1,306 |
+| 19 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 1,270 |
 | 20 | [cappadona](https://github.com/cappadona) | Nick Cappadona | Jersey | 907 |
 
 ## Public Contributions
@@ -54,9 +54,9 @@ Indexed users: 139
 | 15 | [Adrian609](https://github.com/Adrian609) | Adrian | Jersey | 131 |
 | 16 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 128 |
 | 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green | Jersey, Channel Islands | 115 |
-| 18 | [millerthegorilla](https://github.com/millerthegorilla) | James Stewart Miller | Jersey, Channel Islands | 111 |
-| 19 | [garyfeltham](https://github.com/garyfeltham) | Gary Feltham | Jersey | 96 |
-| 20 | [Eve-Carruthers](https://github.com/Eve-Carruthers) | Eve Carruthers | Jersey, Channel Islands | 90 |
+| 18 | [Eve-Carruthers](https://github.com/Eve-Carruthers) | Eve Carruthers | Jersey, Channel Islands | 90 |
+| 19 | [Induction1](https://github.com/Induction1) | Michael Gao | Jersey | 89 |
+| 20 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 86 |
 
 ## Followers
 
@@ -80,7 +80,7 @@ Indexed users: 139
 | 16 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 23 |
 | 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green | Jersey, Channel Islands | 22 |
 | 18 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 21 |
-| 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 20 |
-| 20 | [danhantao](https://github.com/danhantao) | Jacob | Jersey | 18 |
+| 19 | [danhantao](https://github.com/danhantao) | Jacob | Jersey | 20 |
+| 20 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-07T10:27:13.412Z
+Generated: 2026-10-07T11:08:53.086Z

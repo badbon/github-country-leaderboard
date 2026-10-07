@@ -1,6 +1,6 @@
 # Indonesia
 
-Indexed users: 63,155
+Indexed users: 63,153
 
 | Leaderboard | Link |
 |---|---|
@@ -20,18 +20,18 @@ Indexed users: 63,155
 | 6 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Van Astrea | Indonesia  | 173,861 |
 | 7 | [Setiawan007](https://github.com/Setiawan007) | Febrianto Bagus Setiawan | Indonesia | 155,602 |
 | 8 | [dcodemaxz](https://github.com/dcodemaxz) | dcodemaxz | Indonesia \| +62 | 143,611 |
-| 9 | [zephyrinee](https://github.com/zephyrinee) | AHMAD AZIZIE ADNAN | Indonesia, Sumatera Utara, Medan, Kabupaten Simalungun | 99,635 |
-| 10 | [DarkMephisto155115](https://github.com/DarkMephisto155115) | Andika Salsabilah | Malang, Jawa Timur, Indonesia | 96,891 |
-| 11 | [putraxor](https://github.com/putraxor) | Ardiansyah Putra | Indonesia | 68,202 |
-| 12 | [ceaton9](https://github.com/ceaton9) | Elang Indra | Indonesia | 61,712 |
-| 13 | [rchxiy](https://github.com/rchxiy) | Itchy | Indonesia | 49,502 |
-| 14 | [Nugraa21](https://github.com/Nugraa21) | Nugra21 | indonesia | 49,436 |
-| 15 | [ZethDevs](https://github.com/ZethDevs) | Lutfi Farid | Indonesia | 48,814 |
-| 16 | [aashari](https://github.com/aashari) | Andi Ashari | Indonesia | 42,436 |
-| 17 | [iniadittt](https://github.com/iniadittt) | ADITYA BAYU AJI | Cirebon, Indonesia | 40,218 |
-| 18 | [Xnuvers007](https://github.com/Xnuvers007) | XnuxersXploitXen | Indonesia | 39,023 |
-| 19 | [ranggabiner](https://github.com/ranggabiner) | Rangga Hadi Putra | Jakarta, Indonesia | 37,065 |
-| 20 | [jekhuz](https://github.com/jekhuz) | jekhuz | indonesia | 35,484 |
+| 9 | [DarkMephisto155115](https://github.com/DarkMephisto155115) | Andika Salsabilah | Malang, Jawa Timur, Indonesia | 96,891 |
+| 10 | [putraxor](https://github.com/putraxor) | Ardiansyah Putra | Indonesia | 68,202 |
+| 11 | [ceaton9](https://github.com/ceaton9) | Elang Indra | Indonesia | 61,712 |
+| 12 | [rchxiy](https://github.com/rchxiy) | Itchy | Indonesia | 49,502 |
+| 13 | [Nugraa21](https://github.com/Nugraa21) | Nugra21 | indonesia | 49,436 |
+| 14 | [ZethDevs](https://github.com/ZethDevs) | Lutfi Farid | Indonesia | 48,814 |
+| 15 | [aashari](https://github.com/aashari) | Andi Ashari | Indonesia | 42,436 |
+| 16 | [iniadittt](https://github.com/iniadittt) | ADITYA BAYU AJI | Cirebon, Indonesia | 40,218 |
+| 17 | [Xnuvers007](https://github.com/Xnuvers007) | XnuxersXploitXen | Indonesia | 39,023 |
+| 18 | [ranggabiner](https://github.com/ranggabiner) | Rangga Hadi Putra | Jakarta, Indonesia | 37,065 |
+| 19 | [jekhuz](https://github.com/jekhuz) | jekhuz | indonesia | 35,484 |
+| 20 | [hallucinogen](https://github.com/hallucinogen) | Listiarso Wastuargo | Jakarta | 30,485 |
 
 ## Public Contributions
 
@@ -43,20 +43,20 @@ Indexed users: 63,155
 | 4 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Van Astrea | Indonesia  | 173,861 |
 | 5 | [Setiawan007](https://github.com/Setiawan007) | Febrianto Bagus Setiawan | Indonesia | 155,602 |
 | 6 | [xsrazy](https://github.com/xsrazy) | Rahmatul Usra | Sumatera barat, Indonesia | 123,244 |
-| 7 | [zephyrinee](https://github.com/zephyrinee) | AHMAD AZIZIE ADNAN | Indonesia, Sumatera Utara, Medan, Kabupaten Simalungun | 99,479 |
-| 8 | [rchxiy](https://github.com/rchxiy) | Itchy | Indonesia | 49,502 |
-| 9 | [ZethDevs](https://github.com/ZethDevs) | Lutfi Farid | Indonesia | 48,784 |
-| 10 | [iniadittt](https://github.com/iniadittt) | ADITYA BAYU AJI | Cirebon, Indonesia | 40,199 |
-| 11 | [Xnuvers007](https://github.com/Xnuvers007) | XnuxersXploitXen | Indonesia | 38,774 |
-| 12 | [jekhuz](https://github.com/jekhuz) | jekhuz | indonesia | 35,484 |
-| 13 | [Vinsmoke-Tech](https://github.com/Vinsmoke-Tech) | Daffa Ariftama Hanaris | indonesia | 26,699 |
-| 14 | [frhndevweb](https://github.com/frhndevweb) | Farhan Hanafi | Cilacap, Jawa Tengah, Indonesia | 26,316 |
-| 15 | [nodeonline](https://github.com/nodeonline) | online | indonesia | 24,698 |
-| 16 | [rfkisctt](https://github.com/rfkisctt) | rfkisctt | Tangerang, Indonesia, 127.0.0.1 | 21,815 |
-| 17 | [tomiprs0x](https://github.com/tomiprs0x) | Tomi Prasetio | Semarang, Indonesia | 19,862 |
-| 18 | [nevzenly](https://github.com/nevzenly) | Nevzenly | Indonesia | 18,149 |
-| 19 | [cabrata](https://github.com/cabrata) | Caliph Atibrata | Sragen, Indonesia | 18,090 |
-| 20 | [wahidyankf](https://github.com/wahidyankf) | Wahidyan Kresna Fridayoka | Jakarta, Indonesia | 17,204 |
+| 7 | [rchxiy](https://github.com/rchxiy) | Itchy | Indonesia | 49,502 |
+| 8 | [ZethDevs](https://github.com/ZethDevs) | Lutfi Farid | Indonesia | 48,784 |
+| 9 | [iniadittt](https://github.com/iniadittt) | ADITYA BAYU AJI | Cirebon, Indonesia | 40,199 |
+| 10 | [Xnuvers007](https://github.com/Xnuvers007) | XnuxersXploitXen | Indonesia | 38,774 |
+| 11 | [jekhuz](https://github.com/jekhuz) | jekhuz | indonesia | 35,484 |
+| 12 | [Vinsmoke-Tech](https://github.com/Vinsmoke-Tech) | Daffa Ariftama Hanaris | indonesia | 26,699 |
+| 13 | [frhndevweb](https://github.com/frhndevweb) | Farhan Hanafi | Cilacap, Jawa Tengah, Indonesia | 26,316 |
+| 14 | [nodeonline](https://github.com/nodeonline) | online | indonesia | 24,698 |
+| 15 | [rfkisctt](https://github.com/rfkisctt) | rfkisctt | Tangerang, Indonesia, 127.0.0.1 | 21,815 |
+| 16 | [tomiprs0x](https://github.com/tomiprs0x) | Tomi Prasetio | Semarang, Indonesia | 19,862 |
+| 17 | [nevzenly](https://github.com/nevzenly) | Nevzenly | Indonesia | 18,149 |
+| 18 | [cabrata](https://github.com/cabrata) | Caliph Atibrata | Sragen, Indonesia | 18,090 |
+| 19 | [wahidyankf](https://github.com/wahidyankf) | Wahidyan Kresna Fridayoka | Jakarta, Indonesia | 17,204 |
+| 20 | [imransetiadi](https://github.com/imransetiadi) | Imran Setiadi | indonesia | 16,946 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 63,155
 | 19 | [theodorusclarence](https://github.com/theodorusclarence) | Theodorus Clarence | Indonesia | 1,488 |
 | 20 | [imrenagi](https://github.com/imrenagi) | Imre Nagi | Jakarta | 1,307 |
 
-Generated: 2026-10-07T10:25:08.339Z
+Generated: 2026-10-07T11:07:11.929Z

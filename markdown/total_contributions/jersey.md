@@ -1,6 +1,6 @@
 # Total Contributions - Jersey
 
-Generated: 2026-10-07T10:27:13.412Z
+Generated: 2026-10-07T11:08:53.086Z
 
 Users: 139
 
@@ -17,12 +17,12 @@ Users: 139
 | 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 3882 |
 | 10 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | @Circlr-io |  | Jersey / London | 3424 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 3360 |
-| 12 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Tiphar Solutions |  | Jersey | 2395 |
-| 13 | [r-moore](https://github.com/r-moore) | Richard Moore | @EWG-Group  |  | Jersey | 1666 |
-| 14 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | @vaiie  |  | Jersey | 1561 |
-| 15 | [samjamead](https://github.com/samjamead) | Sam Mead |  |  | Grouville, Jersey | 1471 |
-| 16 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 1306 |
-| 17 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 1298 |
-| 18 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 1270 |
-| 19 | [jaytees](https://github.com/jaytees) | Jordan Trickett |  |  | London / Jersey, UK | 1046 |
+| 12 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | @Twitter | FriendlyMikhail | The dirty (jersey) | 2529 |
+| 13 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Tiphar Solutions |  | Jersey | 2395 |
+| 14 | [samjamead](https://github.com/samjamead) | Sam Mead |  |  | Grouville, Jersey | 1705 |
+| 15 | [r-moore](https://github.com/r-moore) | Richard Moore | @EWG-Group  |  | Jersey | 1666 |
+| 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | @vaiie  |  | Jersey | 1561 |
+| 17 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 1375 |
+| 18 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 1306 |
+| 19 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 1270 |
 | 20 | [cappadona](https://github.com/cappadona) | Nick Cappadona | @anaconda |  | Jersey | 907 |

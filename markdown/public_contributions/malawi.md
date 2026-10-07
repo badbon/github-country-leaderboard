@@ -1,6 +1,6 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-07T10:30:32.564Z
+Generated: 2026-10-07T11:12:01.921Z
 
 Users: 902
 
@@ -23,6 +23,6 @@ Users: 902
 | 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Crosfade Technologies LLC  |  | Lilongwe  | 559 |
 | 16 | [V014](https://github.com/V014) | Wanga Kanjala | Status Premier | void265 | Blantyre, Malawi | 535 |
 | 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 528 |
-| 18 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 456 |
-| 19 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | HavenPlus Technologies |  | Lilongwe | 453 |
-| 20 | [uniquedj95](https://github.com/uniquedj95) | Daniel Justin | World Bank Group | uniquedj95 | Lilongwe, Malawi | 440 |
+| 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 477 |
+| 19 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 456 |
+| 20 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | HavenPlus Technologies |  | Lilongwe | 453 |

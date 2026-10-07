@@ -1,6 +1,6 @@
 # Madagascar
 
-Indexed users: 1,918
+Indexed users: 1,917
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,918
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 142 |
 | 20 | [Tombosoa](https://github.com/Tombosoa) | Nantenaina Ramanatombosoa | Madagascar | 139 |
 
-Generated: 2026-10-07T10:30:28.300Z
+Generated: 2026-10-07T11:11:51.582Z

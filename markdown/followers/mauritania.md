@@ -1,6 +1,6 @@
 # Followers - Mauritania
 
-Generated: 2026-10-07T10:31:50.723Z
+Generated: 2026-10-07T11:13:21.510Z
 
 Users: 290
 
@@ -13,7 +13,7 @@ Users: 290
 | 5 | [ErgeibiMed](https://github.com/ErgeibiMed) |  |  |  | Nouakchott - Mauritanie  | 48 |
 | 6 | [leloufadel](https://github.com/leloufadel) | Lala Aicha El Vadel | Focus.mr | leloufadel | Mauritania | 48 |
 | 7 | [Layito96](https://github.com/Layito96) |  | Interlink, Wimex |  | Nouakchott, Mauritania | 41 |
-| 8 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  | iyehah |  Nouakchott | 37 |
+| 8 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  | iyehah |  Nouakchott | 38 |
 | 9 | [lavantora](https://github.com/lavantora) | Aysha |  |  | Mauritania | 36 |
 | 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 33 |
 | 11 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | HrFlow.ai | BabeSalehDahi | Nouakchott, Mauritania | 32 |

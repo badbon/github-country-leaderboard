@@ -1,6 +1,6 @@
 # Niger
 
-Indexed users: 176
+Indexed users: 177
 
 | Leaderboard | Link |
 |---|---|
@@ -20,9 +20,9 @@ Indexed users: 176
 | 6 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Niamey/Niger | 1,139 |
 | 7 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,091 |
 | 8 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky | Niger | 1,076 |
-| 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 1,022 |
-| 10 | [5mamane](https://github.com/5mamane) | Mamane I. | Niamey | 883 |
-| 11 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 801 |
+| 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 970 |
+| 10 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 943 |
+| 11 | [5mamane](https://github.com/5mamane) | Mamane I. | Niamey | 883 |
 | 12 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 782 |
 | 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 744 |
 | 14 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 681 |
@@ -40,10 +40,10 @@ Indexed users: 176
 | 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine | Niamey, Niger | 2,849 |
 | 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger/Niamey | 1,761 |
 | 3 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,091 |
-| 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 1,022 |
+| 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 970 |
 | 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 600 |
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 454 |
-| 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 283 |
+| 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 373 |
 | 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Niger | 252 |
 | 9 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) | Niger | 233 |
 | 10 | [hmandela](https://github.com/hmandela) | Mandela HOUNGNIBO | Niamey, NIGER | 219 |
@@ -69,18 +69,18 @@ Indexed users: 176
 | 5 | [abass-dev](https://github.com/abass-dev) | Mr. Abass | Niamey, Niger | 67 |
 | 6 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Niamey/Niger | 67 |
 | 7 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | Niger | 48 |
-| 8 | [ab3masta](https://github.com/ab3masta) | Abdou Abarchi Aboubacar | Niamey-Niger | 37 |
-| 9 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 31 |
-| 10 | [malnuxstarck](https://github.com/malnuxstarck) | Abdoul Malik | Niamey , Niger | 30 |
+| 8 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 31 |
+| 9 | [malnuxstarck](https://github.com/malnuxstarck) | Abdoul Malik | Niamey , Niger | 30 |
+| 10 | [ab3masta](https://github.com/ab3masta) | Abdou Abarchi Aboubacar | Niamey-Niger | 29 |
 | 11 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 29 |
 | 12 | [TrakyRichard](https://github.com/TrakyRichard) | Traky Richard | Niger | 28 |
 | 13 | [Richouf95](https://github.com/Richouf95) | Abdoulaye Wouri Chouf | Niamey | 23 |
 | 14 | [sn115426](https://github.com/sn115426) | sn01 | niger | 23 |
 | 15 | [haouaenikoye](https://github.com/haouaenikoye) | QueenTech | Niamey-Niger | 21 |
-| 16 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Niger Niamey  | 20 |
+| 16 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Niger Niamey  | 19 |
 | 17 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 18 |
 | 18 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 17 |
 
-Generated: 2026-10-07T10:36:03.124Z
+Generated: 2026-10-07T11:15:41.958Z

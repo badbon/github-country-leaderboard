@@ -1,8 +1,8 @@
 # Followers - Liberia
 
-Generated: 2026-10-07T10:28:26.405Z
+Generated: 2026-10-07T11:10:47.217Z
 
-Users: 212
+Users: 211
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 212
 | 9 | [Ravenstine](https://github.com/Ravenstine) | Ten Bitcomb |  |  | Monrovia, CA | 39 |
 | 10 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad |  | xarrijorge | Monrovia, Liberia | 34 |
 | 11 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | ALX | arthur_solomon | Monrovia, Liberia | 33 |
-| 12 | [weahotis](https://github.com/weahotis) | Otis Weah |  | WeahOtisweah22 | Monrovia Liberia | 31 |
-| 13 | [maxwelldorliea](https://github.com/maxwelldorliea) | Maxwell D.  Dorliea | @ngoane  | maxwelldorliea | Monrovia, Montserrado County, Liberia | 29 |
+| 12 | [maxwelldorliea](https://github.com/maxwelldorliea) | Maxwell D.  Dorliea | @ngoane  | maxwelldorliea | Monrovia, Montserrado County, Liberia | 30 |
+| 13 | [weahotis](https://github.com/weahotis) | Otis Weah |  | WeahOtisweah22 | Monrovia Liberia | 29 |
 | 14 | [tksiakor](https://github.com/tksiakor) | Kpetermeni Siakor | Kwagei Group |  | Monrovia, Liberia | 27 |
-| 15 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 25 |
-| 16 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik |  |  | Monrovia, CA | 25 |
-| 17 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 25 |
+| 15 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik |  |  | Monrovia, CA | 25 |
+| 16 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 25 |
+| 17 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 24 |
 | 18 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 24 |
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Liberia Digital Insights | Morgan_5574 | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay |  | ejaygbay | Liberia | 20 |

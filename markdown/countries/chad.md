@@ -1,6 +1,6 @@
 # Chad
 
-Indexed users: 201
+Indexed users: 200
 
 | Leaderboard | Link |
 |---|---|
@@ -13,17 +13,17 @@ Indexed users: 201
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 3,012 |
-| 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,433 |
+| 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,425 |
 | 3 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 644 |
 | 4 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 546 |
 | 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TCHAD | 506 |
 | 6 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tchad | 243 |
-| 7 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait | Chad | 241 |
+| 7 | [mittb1g](https://github.com/mittb1g) |  | Chad | 233 |
 | 8 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | Ndjamena, Tchad | 233 |
 | 9 | [black-hatn](https://github.com/black-hatn) | Nourr | Tchad | 189 |
 | 10 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Ndjaména/Tchad | 179 |
-| 11 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Chad | 155 |
-| 12 | [mittb1g](https://github.com/mittb1g) |  | Chad | 148 |
+| 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait | Chad | 162 |
+| 12 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Chad | 155 |
 | 13 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 135 |
 | 14 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | N'djamena | 126 |
 | 15 | [Mbaigo](https://github.com/Mbaigo) | Evrard | N'Djamena | 126 |
@@ -39,12 +39,12 @@ Indexed users: 201
 |---:|---|---|---|---:|
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 971 |
 | 2 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 546 |
-| 3 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 525 |
+| 3 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 490 |
 | 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 263 |
-| 5 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait | Chad | 241 |
-| 6 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | Ndjamena, Tchad | 233 |
-| 7 | [black-hatn](https://github.com/black-hatn) | Nourr | Tchad | 189 |
-| 8 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Ndjaména/Tchad | 179 |
+| 5 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | Ndjamena, Tchad | 233 |
+| 6 | [black-hatn](https://github.com/black-hatn) | Nourr | Tchad | 189 |
+| 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Ndjaména/Tchad | 179 |
+| 8 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait | Chad | 162 |
 | 9 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Chad | 155 |
 | 10 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 135 |
 | 11 | [Mbaigo](https://github.com/Mbaigo) | Evrard | N'Djamena | 126 |
@@ -67,20 +67,20 @@ Indexed users: 201
 | 3 | [Kakaymi10](https://github.com/Kakaymi10) | Moussa | NDjamena, Chad | 61 |
 | 4 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 25 |
 | 5 | [malachieborohoul](https://github.com/malachieborohoul) | BOROHOUL Soguelni Malachie | Chad | 14 |
-| 6 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Ndjaména/Tchad | 13 |
-| 7 | [mittb1g](https://github.com/mittb1g) |  | Chad | 13 |
+| 6 | [mittb1g](https://github.com/mittb1g) |  | Chad | 14 |
+| 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Ndjaména/Tchad | 13 |
 | 8 | [balesco](https://github.com/balesco) | Bale Hormo | N'Djamena, Tchad | 11 |
 | 9 | [Yamingue](https://github.com/Yamingue) |  | Tchad | 11 |
 | 10 | [imontash](https://github.com/imontash) |  | Chad, N'Djamena | 10 |
 | 11 | [mahamat-ali](https://github.com/mahamat-ali) | Mahamat Ali Youssouf  | Ndjamena, Chad | 10 |
-| 12 | [harundjibrin](https://github.com/harundjibrin) | Haroun Djibrine | N'Djaména, Chad | 9 |
-| 13 | [zepekenhio](https://github.com/zepekenhio) | Moukhtar Ben Ali | N'Djamena Tchad | 9 |
-| 14 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM | N'djaména-Tchad | 8 |
-| 15 | [chupacker](https://github.com/chupacker) | chu pack | chad | 8 |
-| 16 | [fmarazi](https://github.com/fmarazi) | Florian Ndjerie Marazi | Chad | 8 |
-| 17 | [Nassir235](https://github.com/Nassir235) | Nassir baharadine abdelkrim | N'djamena | 8 |
-| 18 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait | Chad | 7 |
+| 12 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait | Chad | 9 |
+| 13 | [harundjibrin](https://github.com/harundjibrin) | Haroun Djibrine | N'Djaména, Chad | 9 |
+| 14 | [Nassir235](https://github.com/Nassir235) | Nassir baharadine abdelkrim | N'djamena | 9 |
+| 15 | [zepekenhio](https://github.com/zepekenhio) | Moukhtar Ben Ali | N'Djamena Tchad | 9 |
+| 16 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM | N'djaména-Tchad | 8 |
+| 17 | [chupacker](https://github.com/chupacker) | chu pack | chad | 8 |
+| 18 | [fmarazi](https://github.com/fmarazi) | Florian Ndjerie Marazi | Chad | 8 |
 | 19 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 | 20 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 7 |
 
-Generated: 2026-10-07T10:15:53.081Z
+Generated: 2026-10-07T10:56:44.913Z

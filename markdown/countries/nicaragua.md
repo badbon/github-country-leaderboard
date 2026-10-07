@@ -1,6 +1,6 @@
 # Nicaragua
 
-Indexed users: 1,400
+Indexed users: 1,403
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,400
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [l3onte](https://github.com/l3onte) | Leonte Canales | Nicaragua | 61 |
 
-Generated: 2026-10-07T10:35:59.416Z
+Generated: 2026-10-07T11:15:38.327Z

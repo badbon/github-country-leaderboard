@@ -1,6 +1,6 @@
 # Public Contributions - Kuwait
 
-Generated: 2026-10-07T10:27:30.736Z
+Generated: 2026-10-07T11:09:15.233Z
 
 Users: 800
 
@@ -23,6 +23,6 @@ Users: 800
 | 15 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 528 |
 | 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon |  |  | Kuwait | 527 |
 | 17 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 521 |
-| 18 | [jakariahossain12](https://github.com/jakariahossain12) | Md.Jakaria |  |  | kuwait | 447 |
-| 19 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | free lancer |  | kuwait | 438 |
-| 20 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer |  |  | Kuwait | 431 |
+| 18 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | free lancer |  | kuwait | 438 |
+| 19 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer |  |  | Kuwait | 431 |
+| 20 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | @nizek |  | Kuwait | 422 |

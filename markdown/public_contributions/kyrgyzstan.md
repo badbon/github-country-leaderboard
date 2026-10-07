@@ -1,8 +1,8 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-07T10:27:40.087Z
+Generated: 2026-10-07T11:09:19.823Z
 
-Users: 2464
+Users: 2463
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 2464
 | 3 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | SU Solutions |  | Bishkek | 2600 |
 | 4 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 2262 |
 | 5 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Tunduk |  | Bishkek, Kyrgyzstan  | 1843 |
-| 6 | [fi-res](https://github.com/fi-res) | fires |  |  | kyrgyzstan | 1718 |
+| 6 | [fi-res](https://github.com/fi-res) | fires |  |  | kyrgyzstan | 1651 |
 | 7 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko |  |  | Bishkek, Kyrgyzstan (Relocated) | 1626 |
 | 8 | [kymuco](https://github.com/kymuco) | Ikymuco | Independent |  | Bishkek, Kyrgyzstan | 1598 |
 | 9 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | PROlab |  | Bishkek | 1336 |

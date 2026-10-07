@@ -13,7 +13,7 @@ Indexed users: 87
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,152 |
-| 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 2,994 |
+| 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,002 |
 | 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,096 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 1,833 |
 | 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,620 |
@@ -83,4 +83,4 @@ Indexed users: 87
 | 19 | [Clement97712](https://github.com/Clement97712) |  | Guadeloupe | 6 |
 | 20 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 
-Generated: 2026-10-07T10:22:39.082Z
+Generated: 2026-10-07T11:05:06.644Z

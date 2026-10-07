@@ -1,6 +1,6 @@
 # Followers - North Korea
 
-Generated: 2026-10-07T10:36:14.162Z
+Generated: 2026-10-07T11:16:04.168Z
 
 Users: 186
 
@@ -18,7 +18,7 @@ Users: 186
 | 10 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 27 |
 | 11 | [T1med0ut](https://github.com/T1med0ut) | Timedout | Unemployed | Hashf0und | North Korea | 24 |
 | 12 | [danilima8](https://github.com/danilima8) | Daniele Lima |  |  | North Korea | 18 |
-| 13 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 17 |
+| 13 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 18 |
 | 14 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 17 |
 | 15 | [copilotuser713](https://github.com/copilotuser713) | Simon K. Penny | @billnye |  | Pyongyang | 16 |
 | 16 | [retributions](https://github.com/retributions) |  |  |  | North Korea | 16 |

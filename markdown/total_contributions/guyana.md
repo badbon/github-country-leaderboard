@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-07T10:23:34.950Z
+Generated: 2026-10-07T11:06:01.313Z
 
 Users: 186
 
@@ -12,17 +12,17 @@ Users: 186
 | 4 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 3911 |
 | 5 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | RASH |  | Georgetown Guyana | 3797 |
 | 6 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3738 |
-| 7 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 3289 |
-| 8 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 3021 |
-| 9 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Vorso Computing, Inc. | sandogee | Guyana, South America | 2916 |
-| 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 2454 |
-| 11 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee |  |  | Georgetown, TX | 2209 |
-| 12 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 2050 |
+| 7 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 3690 |
+| 8 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 3289 |
+| 9 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 3108 |
+| 10 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 3021 |
+| 11 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Vorso Computing, Inc. | sandogee | Guyana, South America | 2916 |
+| 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee |  |  | Georgetown, TX | 2209 |
 | 13 | [Hinxman](https://github.com/Hinxman) | Ken Hinxman |  |  | Georgetown, TX | 1726 |
 | 14 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1609 |
 | 15 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 1579 |
-| 16 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1511 |
-| 17 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1469 |
-| 18 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 1345 |
+| 16 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 1544 |
+| 17 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1511 |
+| 18 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1469 |
 | 19 | [owengrant](https://github.com/owengrant) | Owen Grant | Arawak Software Consultancy |  | Guyana | 1260 |
 | 20 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 1232 |

@@ -1,8 +1,8 @@
 # Followers - Macau
 
-Generated: 2026-10-07T10:30:24.194Z
+Generated: 2026-10-07T11:11:48.091Z
 
-Users: 451
+Users: 450
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 451
 | 3 | [yangfengzzz](https://github.com/yangfengzzz) | yangfengzzz |  |  | Macau | 207 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 200 |
 | 5 | [andyhamgit](https://github.com/andyhamgit) | Di Han |  |  | Macau | 187 |
-| 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 179 |
+| 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 184 |
 | 7 | [IMRL](https://github.com/IMRL) |  |  |  | Taipa, Macau | 162 |
 | 8 | [clinplayer](https://github.com/clinplayer) | Cheng Lin |  |  | Macau | 160 |
 | 9 | [manesec](https://github.com/manesec) | Mane |  |  | Macau | 128 |
@@ -24,5 +24,5 @@ Users: 451
 | 16 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Harvard University | laochonlam | Macau | 88 |
 | 17 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong |  |  | Macau | 84 |
 | 18 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 68 |
-| 19 | [greatzh](https://github.com/greatzh) | Zihao Zhang | University of Macao |  | macao | 65 |
-| 20 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 61 |
+| 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 66 |
+| 20 | [greatzh](https://github.com/greatzh) | Zihao Zhang | University of Macao |  | macao | 65 |

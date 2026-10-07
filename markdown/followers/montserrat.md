@@ -1,6 +1,6 @@
 # Followers - Montserrat
 
-Generated: 2026-10-07T10:33:41.896Z
+Generated: 2026-10-07T11:14:18.222Z
 
 Users: 291
 
@@ -24,5 +24,5 @@ Users: 291
 | 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft |  | ianckc | Plymouth UK | 21 |
 | 17 | [BeresIvan](https://github.com/BeresIvan) |  | June Co |  | Plymouth, MN | 20 |
 | 18 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Stardock | prestophobia | Plymouth, Michigan | 20 |
-| 19 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Uni of Plymouth |  | Plymouth | 19 |
-| 20 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | @Vualto  |  | Plymouth uk | 19 |
+| 19 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | @Vualto  |  | Plymouth uk | 20 |
+| 20 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Uni of Plymouth |  | Plymouth | 19 |

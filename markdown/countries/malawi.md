@@ -54,9 +54,9 @@ Indexed users: 902
 | 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 559 |
 | 16 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 535 |
 | 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 528 |
-| 18 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 456 |
-| 19 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | Lilongwe | 453 |
-| 20 | [uniquedj95](https://github.com/uniquedj95) | Daniel Justin | Lilongwe, Malawi | 440 |
+| 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
+| 19 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 456 |
+| 20 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | Lilongwe | 453 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 902
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 137 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 133 |
 
-Generated: 2026-10-07T10:30:32.564Z
+Generated: 2026-10-07T11:12:01.921Z

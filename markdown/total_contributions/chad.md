@@ -1,23 +1,23 @@
 # Total Contributions - Chad
 
-Generated: 2026-10-07T10:15:53.081Z
+Generated: 2026-10-07T10:56:44.913Z
 
-Users: 201
+Users: 200
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Ashesi University | emmanueladoum | Chad | 3012 |
-| 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 2433 |
+| 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 2425 |
 | 3 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 644 |
 | 4 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | ACREMAC \| Informastre | baa_pel | TCHAD | 546 |
 | 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TchadiCash | MahamatCherifI4 | TCHAD | 506 |
 | 6 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tikego |  | Tchad | 243 |
-| 7 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 241 |
+| 7 | [mittb1g](https://github.com/mittb1g) |  |  |  | Chad | 233 |
 | 8 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 233 |
 | 9 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
 | 10 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 179 |
-| 11 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 155 |
-| 12 | [mittb1g](https://github.com/mittb1g) |  |  |  | Chad | 148 |
+| 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 162 |
+| 12 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 155 |
 | 13 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 135 |
 | 14 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | AbboTech |  | N'djamena | 126 |
 | 15 | [Mbaigo](https://github.com/Mbaigo) | Evrard | THTC |  | N'Djamena | 126 |

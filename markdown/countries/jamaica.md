@@ -40,9 +40,9 @@ Indexed users: 1,286
 | 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 10,398 |
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,880 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,845 |
-| 4 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 2,185 |
-| 5 | [shamar-morrison](https://github.com/shamar-morrison) | Shamar Morrison | Jamaica | 1,972 |
-| 6 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 1,594 |
+| 4 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,236 |
+| 5 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 2,185 |
+| 6 | [shamar-morrison](https://github.com/shamar-morrison) | Shamar Morrison | Jamaica | 1,972 |
 | 7 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,206 |
 | 8 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,172 |
 | 9 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,077 |
@@ -83,4 +83,4 @@ Indexed users: 1,286
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 
-Generated: 2026-10-07T10:26:09.242Z
+Generated: 2026-10-07T11:08:48.809Z

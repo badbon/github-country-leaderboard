@@ -1,6 +1,6 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-07T10:14:31.944Z
+Generated: 2026-10-07T10:55:51.301Z
 
 Users: 236
 
@@ -19,10 +19,10 @@ Users: 236
 | 11 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Free Tech Institute | AdvaxeIr | Gitega-Burundi | 1200 |
 | 12 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 1177 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 1108 |
-| 14 | [NIMPAYE](https://github.com/NIMPAYE) | christian belly NIMPAYE | @UbuhingaVizion  |  | Burundi | 1029 |
-| 15 | [Evran0](https://github.com/Evran0) | Eddy Poli | RIHA TELECOM |  | Bujumbura,  Burundi | 1021 |
-| 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 1005 |
-| 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | United Nations Population Fund |  | Bujumbura, Burundi | 1002 |
+| 14 | [Evran0](https://github.com/Evran0) | Eddy Poli | RIHA TELECOM |  | Bujumbura,  Burundi | 1021 |
+| 15 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 1005 |
+| 16 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | United Nations Population Fund |  | Bujumbura, Burundi | 971 |
+| 17 | [NIMPAYE](https://github.com/NIMPAYE) | christian belly NIMPAYE | @UbuhingaVizion  |  | Burundi | 880 |
 | 18 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | daflx.com | b3rking | Burundi | 863 |
 | 19 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 818 |
 | 20 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | PayVista |  | Burundi | 753 |

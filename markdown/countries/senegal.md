@@ -44,7 +44,7 @@ Indexed users: 1,365
 | 5 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,903 |
 | 6 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 1,839 |
 | 7 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,661 |
-| 8 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,545 |
+| 8 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,655 |
 | 9 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,452 |
 | 10 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,253 |
 | 11 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,147 |
@@ -83,4 +83,4 @@ Indexed users: 1,365
 | 19 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 | 20 | [tonux](https://github.com/tonux) | Tonux SAMB | Dakar, Sénégal  | 124 |
 
-Generated: 2026-10-07T10:41:03.903Z
+Generated: 2026-10-07T11:21:25.300Z

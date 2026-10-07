@@ -72,15 +72,15 @@ Indexed users: 21
 | 8 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 3 |
 | 9 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama | Malabo-EQ | 2 |
 | 10 | [nazarioconten](https://github.com/nazarioconten) | Nehemias | Malabo | 2 |
-| 11 | [AkenatonBot](https://github.com/AkenatonBot) | AnjeseperuraAkenaton | Malabo, Guinea Ecuatorial | 1 |
-| 12 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 1 |
-| 13 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 1 |
-| 14 | [CaitlynBeryl](https://github.com/CaitlynBeryl) | Caitlyn Beryl  | Malabo, Equatorial Guinea | 1 |
-| 15 | [clinton341](https://github.com/clinton341) | Clinton Ezeronye | Malabo, Equatorial Guinea | 1 |
-| 16 | [I-Have-Nuclear-Bunker](https://github.com/I-Have-Nuclear-Bunker) | RandomLetters | Equatorial Guinea | 1 |
-| 17 | [luisichaicoto](https://github.com/luisichaicoto) | LUIS ICHAICOTO | Malabo, Equatorial Guinea | 1 |
-| 18 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 1 |
-| 19 | [petr2rzu](https://github.com/petr2rzu) | Javier |  Equatorial Guinea | 1 |
-| 20 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 1 |
+| 11 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 2 |
+| 12 | [AkenatonBot](https://github.com/AkenatonBot) | AnjeseperuraAkenaton | Malabo, Guinea Ecuatorial | 1 |
+| 13 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 1 |
+| 14 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 1 |
+| 15 | [CaitlynBeryl](https://github.com/CaitlynBeryl) | Caitlyn Beryl  | Malabo, Equatorial Guinea | 1 |
+| 16 | [clinton341](https://github.com/clinton341) | Clinton Ezeronye | Malabo, Equatorial Guinea | 1 |
+| 17 | [I-Have-Nuclear-Bunker](https://github.com/I-Have-Nuclear-Bunker) | RandomLetters | Equatorial Guinea | 1 |
+| 18 | [luisichaicoto](https://github.com/luisichaicoto) | LUIS ICHAICOTO | Malabo, Equatorial Guinea | 1 |
+| 19 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 1 |
+| 20 | [petr2rzu](https://github.com/petr2rzu) | Javier |  Equatorial Guinea | 1 |
 
-Generated: 2026-10-07T10:19:22.379Z
+Generated: 2026-10-07T11:01:12.992Z

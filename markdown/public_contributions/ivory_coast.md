@@ -1,6 +1,6 @@
 # Public Contributions - Ivory Coast
 
-Generated: 2026-10-07T10:26:02.194Z
+Generated: 2026-10-07T11:08:06.105Z
 
 Users: 489
 
@@ -9,13 +9,13 @@ Users: 489
 | 1 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Oricodes | adrielzimbril | Abidjan, Ivory Coast | 3702 |
 | 2 | [siguici](https://github.com/siguici) | SIGUI Kessé Emmanuel | @Sikessem | siguici | Abidjan, Ivory Coast | 901 |
 | 3 | [lambirou](https://github.com/lambirou) | Roland Edi | Codivoire SARL. | lambirou225 | Abidjan, Côte d'ivoire | 894 |
-| 4 | [MamadouKernel](https://github.com/MamadouKernel) | Konate Mamadou |  |  | Abidjan, Côte d'ivoire | 789 |
-| 5 | [codescooper](https://github.com/codescooper) | Code Scooper |  |  | Abidjan, Côte d'ivoire | 782 |
-| 6 | [moasko](https://github.com/moasko) | moasko.dev |  | mouhage5 | Côte d'Ivoire | 742 |
-| 7 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 708 |
-| 8 | [MALICK-GITH](https://github.com/MALICK-GITH) | SOLITAIRE HACK |  |  | Ivory coast 🇨🇮 | 632 |
-| 9 | [kjlinux](https://github.com/kjlinux) | Ghost | INPHB |  | Yamoussoukro, Côte d'Ivoire | 594 |
-| 10 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Djamo CI |  | Abidjan, Ivory Coast | 592 |
+| 4 | [codescooper](https://github.com/codescooper) | Code Scooper |  |  | Abidjan, Côte d'ivoire | 782 |
+| 5 | [moasko](https://github.com/moasko) | moasko.dev |  | mouhage5 | Côte d'Ivoire | 742 |
+| 6 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 708 |
+| 7 | [MALICK-GITH](https://github.com/MALICK-GITH) | SOLITAIRE HACK |  |  | Ivory coast 🇨🇮 | 632 |
+| 8 | [kjlinux](https://github.com/kjlinux) | Ghost | INPHB |  | Yamoussoukro, Côte d'Ivoire | 594 |
+| 9 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Djamo CI |  | Abidjan, Ivory Coast | 592 |
+| 10 | [MamadouKernel](https://github.com/MamadouKernel) | Konate Mamadou |  |  | Abidjan, Côte d'ivoire | 526 |
 | 11 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Innova7th |  | Côte d'Ivoire, Abidjan | 514 |
 | 12 | [DPYTHA](https://github.com/DPYTHA) | Agoua Moua |  |  | Ivory Coast | 440 |
 | 13 | [zampou-code](https://github.com/zampou-code) | Zi Code | Zi Code | Zi_Code | Abidjan, Ivory Coast | 386 |

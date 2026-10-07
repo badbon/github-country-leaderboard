@@ -1,8 +1,8 @@
 # Followers - Chad
 
-Generated: 2026-10-07T10:15:53.081Z
+Generated: 2026-10-07T10:56:44.913Z
 
-Users: 201
+Users: 200
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -11,18 +11,18 @@ Users: 201
 | 3 | [Kakaymi10](https://github.com/Kakaymi10) | Moussa |  |  | NDjamena, Chad | 61 |
 | 4 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Ashesi University | emmanueladoum | Chad | 25 |
 | 5 | [malachieborohoul](https://github.com/malachieborohoul) | BOROHOUL Soguelni Malachie |  | malachiborohoul | Chad | 14 |
-| 6 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 13 |
-| 7 | [mittb1g](https://github.com/mittb1g) |  |  |  | Chad | 13 |
+| 6 | [mittb1g](https://github.com/mittb1g) |  |  |  | Chad | 14 |
+| 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 13 |
 | 8 | [balesco](https://github.com/balesco) | Bale Hormo | Konguil | BaleHormo1 | N'Djamena, Tchad | 11 |
 | 9 | [Yamingue](https://github.com/Yamingue) |  |  |  | Tchad | 11 |
 | 10 | [imontash](https://github.com/imontash) |  |  |  | Chad, N'Djamena | 10 |
 | 11 | [mahamat-ali](https://github.com/mahamat-ali) | Mahamat Ali Youssouf  | Anavatech | terapfils30 | Ndjamena, Chad | 10 |
-| 12 | [harundjibrin](https://github.com/harundjibrin) | Haroun Djibrine | Wikimedia Tchad | harundjibrin | N'Djaména, Chad | 9 |
-| 13 | [zepekenhio](https://github.com/zepekenhio) | Moukhtar Ben Ali | INSEED |  | N'Djamena Tchad | 9 |
-| 14 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 8 |
-| 15 | [chupacker](https://github.com/chupacker) | chu pack | google |  | chad | 8 |
-| 16 | [fmarazi](https://github.com/fmarazi) | Florian Ndjerie Marazi | UNICEF  |  | Chad | 8 |
-| 17 | [Nassir235](https://github.com/Nassir235) | Nassir baharadine abdelkrim | Ansice | NassirBaharad10 | N'djamena | 8 |
-| 18 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 7 |
+| 12 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 9 |
+| 13 | [harundjibrin](https://github.com/harundjibrin) | Haroun Djibrine | Wikimedia Tchad | harundjibrin | N'Djaména, Chad | 9 |
+| 14 | [Nassir235](https://github.com/Nassir235) | Nassir baharadine abdelkrim | Ansice | NassirBaharad10 | N'djamena | 9 |
+| 15 | [zepekenhio](https://github.com/zepekenhio) | Moukhtar Ben Ali | INSEED |  | N'Djamena Tchad | 9 |
+| 16 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 8 |
+| 17 | [chupacker](https://github.com/chupacker) | chu pack | google |  | chad | 8 |
+| 18 | [fmarazi](https://github.com/fmarazi) | Florian Ndjerie Marazi | UNICEF  |  | Chad | 8 |
 | 19 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | @Negro Archives |  | chad | 7 |
 | 20 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 7 |

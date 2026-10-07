@@ -13,24 +13,24 @@ Indexed users: 113
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 5,251 |
-| 2 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 3,899 |
-| 3 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 3,129 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,265 |
+| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 3,899 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,869 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,556 |
-| 6 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,851 |
-| 7 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,412 |
-| 8 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 1,280 |
+| 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,063 |
+| 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,851 |
+| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,653 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,157 |
 | 10 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 732 |
-| 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 629 |
+| 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 713 |
 | 12 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 473 |
 | 13 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 463 |
-| 14 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 333 |
-| 15 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 332 |
-| 16 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 329 |
-| 17 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 307 |
-| 18 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 296 |
-| 19 | [ColinFL](https://github.com/ColinFL) |  | Liechtenstein | 265 |
+| 14 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 332 |
+| 15 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 329 |
+| 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 307 |
+| 17 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 296 |
+| 18 | [ColinFL](https://github.com/ColinFL) |  | Liechtenstein | 265 |
+| 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 211 |
 | 20 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 171 |
 
 ## Public Contributions
@@ -38,10 +38,10 @@ Indexed users: 113
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 1,932 |
-| 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,412 |
+| 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,653 |
 | 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,157 |
-| 4 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 649 |
-| 5 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 629 |
+| 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 713 |
+| 5 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 649 |
 | 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 613 |
 | 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 529 |
 | 8 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 459 |
@@ -56,7 +56,7 @@ Indexed users: 113
 | 17 | [ukhan717](https://github.com/ukhan717) | u.khan | Liechtenstein | 99 |
 | 18 | [danheron](https://github.com/danheron) | Dan Heron | Liechtenstein | 86 |
 | 19 | [xenok69](https://github.com/xenok69) | xenok1 | Liechtenstein | 65 |
-| 20 | [secures92](https://github.com/secures92) | Samuel Kranz | Liechtenstein | 47 |
+| 20 | [secures92](https://github.com/secures92) | Samuel Kranz | Liechtenstein | 44 |
 
 ## Followers
 
@@ -70,8 +70,8 @@ Indexed users: 113
 | 6 | [danheron](https://github.com/danheron) | Dan Heron | Liechtenstein | 29 |
 | 7 | [Hujun](https://github.com/Hujun) | HJ | Vaduz | 29 |
 | 8 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 29 |
-| 9 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 21 |
-| 10 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 21 |
+| 9 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 22 |
+| 10 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 21 |
 | 11 | [TOLDOTECHNIK](https://github.com/TOLDOTECHNIK) |  | Vaduz | 21 |
 | 12 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 18 |
 | 13 | [InsurePal](https://github.com/InsurePal) | VouchForMe | Vaduz | 17 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-07T10:28:34.141Z
+Generated: 2026-10-07T11:10:55.448Z

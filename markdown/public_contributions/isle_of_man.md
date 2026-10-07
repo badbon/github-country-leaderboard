@@ -1,6 +1,6 @@
 # Public Contributions - Isle of Man
 
-Generated: 2026-10-07T10:25:49.508Z
+Generated: 2026-10-07T11:07:31.615Z
 
 Users: 155
 
@@ -10,8 +10,8 @@ Users: 155
 | 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | @apptrackit  |  | Isle of Man | 917 |
 | 3 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 729 |
 | 4 | [torquuato](https://github.com/torquuato) |  |  |  | Isle of Man | 557 |
-| 5 | [dominichubble](https://github.com/dominichubble) | Dominic Hubble | MezzeData |  | Isle of Man | 359 |
-| 6 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin |  |  | Isle of Man | 350 |
+| 5 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin |  |  | Isle of Man | 431 |
+| 6 | [dominichubble](https://github.com/dominichubble) | Dominic Hubble | MezzeData |  | Isle of Man | 359 |
 | 7 | [jamesharrison2005](https://github.com/jamesharrison2005) | James Harrison |  |  | Isle of Man | 316 |
 | 8 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 296 |
 | 9 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 249 |

@@ -44,17 +44,17 @@ Indexed users: 340
 | 5 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 343 |
 | 6 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 274 |
 | 7 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 259 |
-| 8 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Port-au-prince/Petion-ville | 256 |
-| 9 | [haitibrand-co](https://github.com/haitibrand-co) | HaitiBrand  | Haiti | 241 |
-| 10 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 236 |
-| 11 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 235 |
-| 12 | [ventzDev509](https://github.com/ventzDev509) | Marceille Eventz | Haiti | 212 |
-| 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 201 |
-| 14 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Port-Au-Prince | 194 |
-| 15 | [eddo4life](https://github.com/eddo4life) | Boaz E.C Theodoris | Delmas, Haiti | 183 |
-| 16 | [tolly00](https://github.com/tolly00) | Alberto Sylveus | Haiti | 176 |
-| 17 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert | Haiti | 174 |
-| 18 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 169 |
+| 8 | [haitibrand-co](https://github.com/haitibrand-co) | HaitiBrand  | Haiti | 241 |
+| 9 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 236 |
+| 10 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 235 |
+| 11 | [ventzDev509](https://github.com/ventzDev509) | Marceille Eventz | Haiti | 212 |
+| 12 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 201 |
+| 13 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Port-Au-Prince | 194 |
+| 14 | [tolly00](https://github.com/tolly00) | Alberto Sylveus | Haiti | 176 |
+| 15 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert | Haiti | 174 |
+| 16 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 169 |
+| 17 | [eddo4life](https://github.com/eddo4life) | Boaz E.C Theodoris | Delmas, Haiti | 167 |
+| 18 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Port-au-prince/Petion-ville | 163 |
 | 19 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 157 |
 | 20 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | Haiti | 143 |
 
@@ -83,4 +83,4 @@ Indexed users: 340
 | 19 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | Haiti | 33 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 
-Generated: 2026-10-07T10:23:40.606Z
+Generated: 2026-10-07T11:06:04.195Z

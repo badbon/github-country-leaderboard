@@ -1,15 +1,15 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-07T10:15:21.179Z
+Generated: 2026-10-07T10:56:01.885Z
 
-Users: 565
+Users: 564
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Kowts](https://github.com/Kowts) | Joselito Lima Coutinho | CVTelecom |  | Praia, Cabo Verde | 2908 |
 | 2 | [svcrashh](https://github.com/svcrashh) | crashh | Wellhub |  | Praia Grande | 2729 |
-| 3 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | X.Lab (TV1) \| thiagoci.com |  | Praia Grande - SP | 1940 |
-| 4 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula |  |  | Praia Grande, SP | 1907 |
+| 3 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula |  |  | Praia Grande, SP | 2598 |
+| 4 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | X.Lab (TV1) \| thiagoci.com |  | Praia Grande - SP | 1940 |
 | 5 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | @nubank |  | Praia Grande | 1715 |
 | 6 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Bemol |  | Praia Grande - SC | 1379 |
 | 7 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1337 |

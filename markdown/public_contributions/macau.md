@@ -1,8 +1,8 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-07T10:30:24.194Z
+Generated: 2026-10-07T11:11:48.091Z
 
-Users: 451
+Users: 450
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 451
 | 12 | [comsaint](https://github.com/comsaint) | comsaint |  |  | Macau | 758 |
 | 13 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 713 |
 | 14 | [ariel-lee-1023](https://github.com/ariel-lee-1023) | Ariel Lee |  |  | Macau | 678 |
-| 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |
-| 16 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 575 |
+| 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 649 |
+| 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |
 | 17 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 535 |
-| 18 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 464 |
-| 19 | [WindoC](https://github.com/WindoC) | Antonio Cheong |  |  | Macau | 425 |
-| 20 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao Polytechnic University / Universidade de Coimbra  |  | Macao, China and Coimbra, Portugal | 417 |
+| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 521 |
+| 19 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 464 |
+| 20 | [WindoC](https://github.com/WindoC) | Antonio Cheong |  |  | Macau | 425 |

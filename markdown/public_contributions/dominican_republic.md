@@ -1,8 +1,8 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-07T10:19:02.451Z
+Generated: 2026-10-07T10:59:40.441Z
 
-Users: 3307
+Users: 3306
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 3307
 | 12 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata |  |  | Dominican Republic | 1517 |
 | 13 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 1473 |
 | 14 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | MoonCode |  | Dominican Republic | 1460 |
-| 15 | [cristiandlahoz](https://github.com/cristiandlahoz) | Cristian de la Hoz |  |  | Dominican Republic | 1439 |
-| 16 | [eburgos](https://github.com/eburgos) | Eduardo Burgos |  |  | Santo Domingo, DN, Dominican Republic | 1348 |
-| 17 | [AlejandroBeltre](https://github.com/AlejandroBeltre) | Alejandro Beltre | Thryv |  | Santo Domingo, Dominican Republic | 1336 |
-| 18 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1298 |
-| 19 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez |  |  | Dominican Republic | 1291 |
-| 20 | [rwhite27](https://github.com/rwhite27) | Rafael White | @mctekk  |  | Santo Domingo, Dominican Republic | 1277 |
+| 15 | [eburgos](https://github.com/eburgos) | Eduardo Burgos |  |  | Santo Domingo, DN, Dominican Republic | 1348 |
+| 16 | [AlejandroBeltre](https://github.com/AlejandroBeltre) | Alejandro Beltre | Thryv |  | Santo Domingo, Dominican Republic | 1336 |
+| 17 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1298 |
+| 18 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez |  |  | Dominican Republic | 1291 |
+| 19 | [rwhite27](https://github.com/rwhite27) | Rafael White | @mctekk  |  | Santo Domingo, Dominican Republic | 1277 |
+| 20 | [ctorressoftware](https://github.com/ctorressoftware) | Carlos Torres |  |  | Dominican Republic | 1258 |

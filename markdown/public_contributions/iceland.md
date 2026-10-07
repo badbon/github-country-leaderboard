@@ -1,6 +1,6 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-07T10:25:04.978Z
+Generated: 2026-10-07T11:07:09.374Z
 
 Users: 1585
 
@@ -16,13 +16,13 @@ Users: 1585
 | 8 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson |  |  | Reykjavík, Iceland | 1866 |
 | 9 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | @trip-to-japan  | jokull | Reykjavík, Iceland | 1774 |
 | 10 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson |  |  | Reykjavík, Iceland | 1765 |
-| 11 | [gabriel-klettur](https://github.com/gabriel-klettur) | Gabriel Roca | Selfemployer |  | Iceland, Reykjavík | 1719 |
-| 12 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 1496 |
-| 13 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | tunnels.is | keyb1nd | Iceland | 1301 |
-| 14 | [arividar](https://github.com/arividar) | Ari Johannesson | Andes ehf. | arividar | Reykjavik | 1294 |
-| 15 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad |  | vvzvlad | Iceland | 1224 |
-| 16 | [Max77788](https://github.com/Max77788) | Max Mat | MOM AI Technologies |  | Iceland | 1166 |
-| 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin |  |  | Iceland | 1164 |
-| 18 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Nova |  | Iceland | 1125 |
-| 19 | [gunnartorfis](https://github.com/gunnartorfis) | Gunnar Torfi Steinarsson | Noona Labs | gunnarthedev | Reykjavik, Iceland | 1113 |
-| 20 | [adslbarxatov](https://github.com/adslbarxatov) | RD AAOW Free development lab | RD AAOW Free development lab |  | Reykjavík, Iceland | 1112 |
+| 11 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 1496 |
+| 12 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | tunnels.is | keyb1nd | Iceland | 1301 |
+| 13 | [arividar](https://github.com/arividar) | Ari Johannesson | Andes ehf. | arividar | Reykjavik | 1294 |
+| 14 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad |  | vvzvlad | Iceland | 1224 |
+| 15 | [Max77788](https://github.com/Max77788) | Max Mat | MOM AI Technologies |  | Iceland | 1166 |
+| 16 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin |  |  | Iceland | 1164 |
+| 17 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Nova |  | Iceland | 1125 |
+| 18 | [gunnartorfis](https://github.com/gunnartorfis) | Gunnar Torfi Steinarsson | Noona Labs | gunnarthedev | Reykjavik, Iceland | 1113 |
+| 19 | [adslbarxatov](https://github.com/adslbarxatov) | RD AAOW Free development lab | RD AAOW Free development lab |  | Reykjavík, Iceland | 1112 |
+| 20 | [jamestomasino](https://github.com/jamestomasino) | James Tomasino |  |  | Mosfellsbær, Iceland | 1105 |

@@ -13,13 +13,13 @@ Indexed users: 484
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Burkina-Faso,Ouagadougou | 6,852 |
-| 2 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 4,097 |
-| 3 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 4,065 |
-| 4 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 3,963 |
-| 5 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 3,919 |
-| 6 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 3,686 |
-| 7 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,646 |
-| 8 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo | Burkina Faso, Kadiogo, Ouagadougou | 3,113 |
+| 2 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo | Burkina Faso, Kadiogo, Ouagadougou | 4,379 |
+| 3 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 4,097 |
+| 4 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 4,065 |
+| 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 3,963 |
+| 6 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 3,919 |
+| 7 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 3,686 |
+| 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,646 |
 | 9 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | Ouagadougou, Burkina Faso | 2,605 |
 | 10 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 2,506 |
 | 11 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 2,263 |
@@ -83,4 +83,4 @@ Indexed users: 484
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN | BURKINAFASO/OUAGADOUGOU | 37 |
 
-Generated: 2026-10-07T10:14:27.907Z
+Generated: 2026-10-07T10:55:48.803Z

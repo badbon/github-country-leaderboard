@@ -31,7 +31,7 @@ Indexed users: 290
 | 17 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 1,100 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil | Mauritania | 1,049 |
 | 19 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Nouakchott | 988 |
-| 20 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 904 |
+| 20 | [aadeina](https://github.com/aadeina) | Amar | Mauritania | 855 |
 
 ## Public Contributions
 
@@ -55,8 +55,8 @@ Indexed users: 290
 | 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 206 |
 | 17 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 187 |
 | 18 | [medmahmoudhdaya](https://github.com/medmahmoudhdaya) | med mahmoud hdaya | nouakchott mauritania | 176 |
-| 19 | [saeedbark](https://github.com/saeedbark) | saeedbark | mauritania | 168 |
-| 20 | [aadeina](https://github.com/aadeina) | Amar | Mauritania | 161 |
+| 19 | [saeedbark](https://github.com/saeedbark) | saeedbark | mauritania | 174 |
+| 20 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 162 |
 
 ## Followers
 
@@ -69,7 +69,7 @@ Indexed users: 290
 | 5 | [ErgeibiMed](https://github.com/ErgeibiMed) |  | Nouakchott - Mauritanie  | 48 |
 | 6 | [leloufadel](https://github.com/leloufadel) | Lala Aicha El Vadel | Mauritania | 48 |
 | 7 | [Layito96](https://github.com/Layito96) |  | Nouakchott, Mauritania | 41 |
-| 8 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 37 |
+| 8 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 38 |
 | 9 | [lavantora](https://github.com/lavantora) | Aysha | Mauritania | 36 |
 | 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 33 |
 | 11 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 32 |
@@ -83,4 +83,4 @@ Indexed users: 290
 | 19 | [bechir](https://github.com/bechir) | Bechir Ba | Mauritania | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-07T10:31:50.723Z
+Generated: 2026-10-07T11:13:21.510Z
