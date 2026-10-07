@@ -6,7 +6,7 @@
     "location": "Laos",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 9,
     "publicContributions": 9,
     "createdAt": "2026-01-01T05:28:39Z"
@@ -42,7 +42,7 @@
     "location": "District, P.O.Box 3147, Vientiane, Lao P.D.R",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2025-08-02T00:19:14Z"
@@ -66,7 +66,7 @@
     "location": "Laos",
     "company": "Cyto",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-01-23T21:26:09Z"
@@ -80,7 +80,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 21,
     "createdAt": "2025-12-21T16:19:22Z"
   },
   {
@@ -102,9 +102,9 @@
     "location": "Vientiane, Laos",
     "company": "Freelance",
     "twitterUsername": "MaxonTorres",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 310,
+    "publicContributions": 344,
     "createdAt": "2025-08-27T06:18:41Z"
   },
   {
@@ -128,7 +128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2025-09-13T23:06:45Z"
   },
   {
@@ -140,7 +140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 36,
     "createdAt": "2025-07-19T15:06:12Z"
   },
   {
@@ -164,7 +164,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 2,
     "createdAt": "2025-09-26T16:01:14Z"
   },
   {
@@ -204,18 +204,6 @@
     "createdAt": "2024-07-25T18:45:37Z"
   },
   {
-    "login": "caixian-prog",
-    "name": "Xian Cai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173693227?s=72&u=15c659f47bbb725569ea99051fb01e5f6582b1b2&v=4",
-    "location": "Vientiane, Laos",
-    "company": "self-employeed",
-    "twitterUsername": "",
-    "followers": 118,
-    "privateContributions": 28,
-    "publicContributions": 8,
-    "createdAt": "2024-06-24T12:37:00Z"
-  },
-  {
     "login": "Jonhny11",
     "name": "Jonhny",
     "avatarUrl": "https://avatars.githubusercontent.com/u/190958787?s=72&u=bf22cdf91c77a3e535989bccf16c486d77ac939c&v=4",
@@ -236,7 +224,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 382,
-    "publicContributions": 192,
+    "publicContributions": 95,
     "createdAt": "2024-10-12T10:18:28Z"
   },
   {

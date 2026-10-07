@@ -258,7 +258,7 @@
     "location": "Sorgenfrigata 36, 0365 Oslo, Norway",
     "company": "Oslo Takrenner",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-04-14T22:59:40Z"
@@ -320,7 +320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 126,
     "createdAt": "2026-03-09T10:18:18Z"
   },
   {
@@ -349,14 +349,14 @@
   },
   {
     "login": "andreashofsta20",
-    "name": "Andreashofsta20",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256307798?s=72&v=4",
+    "name": "zenaintvalid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256307798?s=72&u=b8030ae35b0c14c62b69aea752c2aa1c8fe059a9&v=4",
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 85,
     "createdAt": "2026-01-21T09:35:09Z"
   },
   {
@@ -366,9 +366,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 79,
-    "publicContributions": 20,
+    "followers": 2,
+    "privateContributions": 117,
+    "publicContributions": 23,
     "createdAt": "2026-01-02T23:23:17Z"
   },
   {
@@ -462,22 +462,10 @@
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-02-24T18:10:22Z"
-  },
-  {
-    "login": "christinespades",
-    "name": "ℭ𝔥𝔯𝔦𝔰𝔱𝔦𝔫𝔢 𝔖𝔭𝔞𝔡𝔢𝔰",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254322030?s=72&u=0dfc69678f20d55546292629e396ca2a8e87fcc2&v=4",
-    "location": "Norway",
-    "company": "Christine Spades",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 31,
-    "publicContributions": 268,
-    "createdAt": "2026-01-11T19:26:13Z"
   },
   {
     "login": "oskarjohanhov06",

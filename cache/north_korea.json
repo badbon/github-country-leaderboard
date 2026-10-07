@@ -254,13 +254,13 @@
   {
     "login": "f-f-0-1",
     "name": "ff01",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/218858659?s=72&u=71e0ec942bbe1efbe6edf597f25c25ef97420999&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/218858659?s=72&u=43f803c470eb386c057618d7e8f7f610d18c4dc6&v=4",
     "location": "Pyongyang, North Korea",
     "company": "Gabry Corp.",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 28,
     "createdAt": "2025-07-02T00:48:46Z"
   },
   {
@@ -270,9 +270,9 @@
     "location": "Pyongyang",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 20,
     "createdAt": "2025-05-06T23:13:59Z"
   },
   {
@@ -284,7 +284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 185,
+    "publicContributions": 186,
     "createdAt": "2025-11-15T06:37:40Z"
   },
   {
@@ -330,7 +330,7 @@
     "location": "Pyongyang, DPRK",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-11-14T20:27:39Z"
@@ -344,7 +344,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 943,
+    "publicContributions": 1261,
     "createdAt": "2024-11-27T15:34:02Z"
   },
   {
@@ -356,7 +356,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 8,
-    "publicContributions": 176,
+    "publicContributions": 39,
     "createdAt": "2024-10-03T19:31:07Z"
   },
   {
@@ -378,7 +378,7 @@
     "location": "North Korea",
     "company": "I don’t work",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-05-11T00:01:08Z"
@@ -394,18 +394,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-12-04T16:32:07Z"
-  },
-  {
-    "login": "KareulSuyen",
-    "name": "Kal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185032670?s=72&u=51993f709d189b63f9be846e7b5c5f9f6d50dfe7&v=4",
-    "location": "North Korea",
-    "company": "Cybernetics(사이버네틱스)",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 6970,
-    "publicContributions": 1239,
-    "createdAt": "2024-10-15T05:58:29Z"
   },
   {
     "login": "A3LifeFrance",
@@ -427,8 +415,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 154,
-    "publicContributions": 42,
+    "privateContributions": 128,
+    "publicContributions": 167,
     "createdAt": "2024-02-01T11:37:41Z"
   },
   {
@@ -454,18 +442,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-27T23:28:29Z"
-  },
-  {
-    "login": "JonasStoegermair",
-    "name": "Jonas Stögermair",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183076708?s=72&u=78d8d1f85771272df27076d6065af7e5533d556d&v=4",
-    "location": "Nordkorea, Pyongyang, 대성구역",
-    "company": "mimkosofd",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2024-09-27T10:03:49Z"
   },
   {
     "login": "RefrigerationUnit",

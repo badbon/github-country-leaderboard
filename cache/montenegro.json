@@ -228,18 +228,6 @@
     "createdAt": "2025-04-12T12:17:36Z"
   },
   {
-    "login": "dandysuper",
-    "name": "Dan Burykin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232385700?s=72&u=138d5f9fa14ee3e1ae6e65b5d4be0c32104595ec&v=4",
-    "location": "Podgorica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 14,
-    "publicContributions": 106,
-    "createdAt": "2025-09-15T13:45:37Z"
-  },
-  {
     "login": "veilaris",
     "name": "veilaris",
     "avatarUrl": "https://avatars.githubusercontent.com/u/249164270?s=72&u=f0f223a6380db9ab3c164819254477c3a87c83cb&v=4",
@@ -248,7 +236,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 23,
     "createdAt": "2025-12-11T19:35:30Z"
   },
   {
@@ -258,9 +246,9 @@
     "location": "Podgorica",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 58,
     "createdAt": "2025-03-25T13:43:14Z"
   },
   {
@@ -294,7 +282,7 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "MehmetSirinORAN",
-    "followers": 349,
+    "followers": 344,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-03T13:42:08Z"
@@ -306,8 +294,8 @@
     "location": "Podgorica, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 232,
-    "privateContributions": 2350,
+    "followers": 231,
+    "privateContributions": 2931,
     "publicContributions": 4,
     "createdAt": "2024-06-09T12:14:22Z"
   },
@@ -318,7 +306,7 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "emrahatalay79",
-    "followers": 130,
+    "followers": 128,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-04T14:06:36Z"
@@ -342,7 +330,7 @@
     "location": "Budva, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 52,
+    "followers": 51,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-04T18:33:28Z"
@@ -354,9 +342,9 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 184,
-    "publicContributions": 3,
+    "followers": 14,
+    "privateContributions": 1508,
+    "publicContributions": 5,
     "createdAt": "2024-03-13T03:59:24Z"
   },
   {
@@ -391,7 +379,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 407,
+    "privateContributions": 425,
     "publicContributions": 3,
     "createdAt": "2024-09-10T16:17:01Z"
   },
@@ -404,7 +392,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 539,
+    "publicContributions": 527,
     "createdAt": "2024-10-06T16:17:42Z"
   },
   {
@@ -414,21 +402,21 @@
     "location": "Montenegro",
     "company": "Hugo FM",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 96,
     "createdAt": "2024-07-04T13:40:55Z"
   },
   {
     "login": "AshasVokabyr",
     "name": "Alexander Fisher",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182260521?s=72&u=b74ba85debeeccb0301403b86516816e1dc4d612&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182260521?s=72&u=ee3514a196216ee619e3174428a90186213c7bf5&v=4",
     "location": "Bar, Montenegro",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 195,
-    "publicContributions": 163,
+    "privateContributions": 229,
+    "publicContributions": 164,
     "createdAt": "2024-09-20T17:17:39Z"
   },
   {
@@ -440,7 +428,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 354,
+    "publicContributions": 360,
     "createdAt": "2023-12-28T22:07:41Z"
   },
   {

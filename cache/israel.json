@@ -272,7 +272,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 7,
     "createdAt": "2026-03-15T08:39:42Z"
   },
   {
@@ -308,7 +308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 69,
-    "publicContributions": 906,
+    "publicContributions": 1011,
     "createdAt": "2026-01-15T11:24:47Z"
   },
   {
@@ -320,20 +320,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 45,
     "createdAt": "2026-02-15T10:14:07Z"
-  },
-  {
-    "login": "patrickcrusius",
-    "name": "Patrick Crusius",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270882357?s=72&u=8035c779070db290465157b741f6fc08f159bcbb&v=4",
-    "location": "Tel Aviv, Israel ",
-    "company": "Balkan Technologies Ltd",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-25T07:57:36Z"
   },
   {
     "login": "jeffstein-cyber",
@@ -350,13 +338,13 @@
   {
     "login": "somaos-nc",
     "name": "Noam Cohen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/280052242?s=72&u=d043025ac8c5414118439c81928bad459843277a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280052242?s=72&u=dbebb17098d558165538b924b659316ffe366a23&v=4",
     "location": "Israel",
     "company": "Thought",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 15,
     "createdAt": "2026-04-28T14:32:36Z"
   },
   {
@@ -390,9 +378,9 @@
     "location": "Tel-Aviv, Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
+    "followers": 3,
+    "privateContributions": 1496,
+    "publicContributions": 3,
     "createdAt": "2026-03-12T05:04:28Z"
   },
   {
@@ -415,32 +403,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 17,
+    "privateContributions": 77,
+    "publicContributions": 20,
     "createdAt": "2026-03-22T15:00:48Z"
-  },
-  {
-    "login": "Tehila55",
-    "name": "Tehila Cohen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279982646?s=72&v=4",
-    "location": "Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 22,
-    "createdAt": "2026-04-28T10:01:28Z"
   },
   {
     "login": "EyalBraun",
     "name": "Eyal Braun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255360394?s=72&u=1512c0df9b3d2d157bef582c150bd605b5d18b4e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255360394?s=72&v=4",
     "location": "Tel Aviv District, Israel",
     "company": "Independent Researcher",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 138,
     "createdAt": "2026-01-16T13:46:08Z"
   },
   {
@@ -451,7 +427,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2126,
+    "privateContributions": 2375,
     "publicContributions": 1,
     "createdAt": "2026-01-26T01:28:53Z"
   },
@@ -476,7 +452,7 @@
     "twitterUsername": "yoavmagorr",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 22,
     "createdAt": "2026-03-17T20:55:25Z"
   },
   {

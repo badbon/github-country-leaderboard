@@ -258,9 +258,9 @@
     "location": "Antananarivo",
     "company": "ISPM ( Institut Supérieur Polytechnique de Madagascar ) ",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 133,
     "createdAt": "2026-04-01T10:26:49Z"
   },
   {
@@ -270,9 +270,9 @@
     "location": "Antananarivo ",
     "company": "42 Antananarivo ",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 176,
-    "publicContributions": 84,
+    "followers": 5,
+    "privateContributions": 206,
+    "publicContributions": 154,
     "createdAt": "2026-01-05T08:49:37Z"
   },
   {
@@ -283,8 +283,8 @@
     "company": "S.M.S. Consulting",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 497,
-    "publicContributions": 496,
+    "privateContributions": 592,
+    "publicContributions": 504,
     "createdAt": "2026-02-06T12:52:50Z"
   },
   {
@@ -296,7 +296,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 44,
     "createdAt": "2026-02-24T05:52:39Z"
   },
   {
@@ -308,7 +308,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2026-02-17T06:57:03Z"
   },
   {
@@ -318,9 +318,9 @@
     "location": "Antananarivo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 30,
     "createdAt": "2026-05-04T10:20:43Z"
   },
   {
@@ -334,18 +334,6 @@
     "privateContributions": 0,
     "publicContributions": 39,
     "createdAt": "2026-02-22T11:39:25Z"
-  },
-  {
-    "login": "Mirindra-lan",
-    "name": "Mirindra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261170778?s=72&u=0dab6da487b04465fff266e9358d381958da0222&v=4",
-    "location": "Antananarivo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 31,
-    "createdAt": "2026-02-12T10:25:33Z"
   },
   {
     "login": "johary1-ux",
@@ -374,13 +362,13 @@
   {
     "login": "Mathieu-bot",
     "name": "Tafita Mathieu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/199898191?s=72&u=e71570b00dd4d5e790113e55945946197f2e95e5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199898191?s=72&u=3ba64f2371c277630cc78a7e30f7e2bd70ed2a05&v=4",
     "location": "Madagascar",
-    "company": "Open to opportunities",
+    "company": "",
     "twitterUsername": "",
-    "followers": 100,
-    "privateContributions": 980,
-    "publicContributions": 2189,
+    "followers": 106,
+    "privateContributions": 1181,
+    "publicContributions": 2222,
     "createdAt": "2025-02-19T08:32:44Z"
   },
   {
@@ -390,7 +378,7 @@
     "location": "Madagascar Antananarivo",
     "company": "",
     "twitterUsername": "",
-    "followers": 46,
+    "followers": 40,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-01-14T05:55:50Z"
@@ -402,21 +390,21 @@
     "location": "Antananarivo, Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 1883,
-    "publicContributions": 2778,
+    "followers": 40,
+    "privateContributions": 1843,
+    "publicContributions": 3215,
     "createdAt": "2025-11-20T16:31:24Z"
   },
   {
     "login": "Nandrianinaraobelina",
     "name": "RAOBELINA Ny Hery Nandrianina",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196411582?s=72&u=793d1e5cb3ccad95370713ee1418fa8222cb5661&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196411582?s=72&u=6acdfbfb68c8198f84eea7c446c11d3343f0a6a6&v=4",
     "location": "Fianarantsoa Andrainjato (Madagascar 🇲🇬) ",
     "company": "Emit fianarantsoa ",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 624,
-    "publicContributions": 193,
+    "followers": 30,
+    "privateContributions": 3928,
+    "publicContributions": 130,
     "createdAt": "2025-01-25T05:21:32Z"
   },
   {
@@ -427,8 +415,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 560,
-    "publicContributions": 1066,
+    "privateContributions": 570,
+    "publicContributions": 721,
     "createdAt": "2025-01-24T18:29:57Z"
   },
   {
@@ -438,21 +426,21 @@
     "location": "Antananarivo, Madagascar",
     "company": "Hopefully , it will make sense soon",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 173,
-    "publicContributions": 78,
+    "followers": 30,
+    "privateContributions": 155,
+    "publicContributions": 79,
     "createdAt": "2025-02-25T12:41:36Z"
   },
   {
     "login": "SoanavalonaD",
     "name": "Deborah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209120024?s=72&u=5044c773795822245a957c78867369a253e8099f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209120024?s=72&u=e618d936af623ac59ad8ac7d26df180f40f59e08&v=4",
     "location": "Antananarivo, Madagascar",
     "company": "",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 78,
-    "publicContributions": 78,
+    "privateContributions": 126,
+    "publicContributions": 83,
     "createdAt": "2025-04-25T12:52:59Z"
   },
   {
@@ -460,23 +448,23 @@
     "name": "Teddy Andrianina Rakotozafy",
     "avatarUrl": "https://avatars.githubusercontent.com/u/200059282?s=72&u=6fa122dddff2ed81df06025addd8a156ea4e9dc9&v=4",
     "location": "Madagascar",
-    "company": "",
+    "company": "42",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 326,
+    "publicContributions": 617,
     "createdAt": "2025-02-20T09:39:34Z"
   },
   {
     "login": "tojomayose-dot",
     "name": "Tojo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/241740576?s=72&u=07aff8b9601ad1c68b4935cada238b2834ab6aca&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/241740576?s=72&u=ffcc25d2871895a1f11cb8111712f9c7c7ffc32c&v=4",
     "location": "Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 60,
-    "publicContributions": 61,
+    "publicContributions": 72,
     "createdAt": "2025-11-03T11:10:14Z"
   },
   {

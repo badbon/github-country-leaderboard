@@ -235,8 +235,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 59,
+    "privateContributions": 35,
+    "publicContributions": 60,
     "createdAt": "2026-01-24T14:11:47Z"
   },
   {
@@ -247,8 +247,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 265,
-    "publicContributions": 227,
+    "privateContributions": 293,
+    "publicContributions": 235,
     "createdAt": "2026-04-28T02:19:29Z"
   },
   {
@@ -284,7 +284,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 441,
+    "publicContributions": 450,
     "createdAt": "2026-01-29T11:09:07Z"
   },
   {
@@ -294,9 +294,9 @@
     "location": "Nepal",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 49,
     "createdAt": "2026-02-25T04:34:50Z"
   },
   {
@@ -306,9 +306,9 @@
     "location": "Lalitpur District, Nepal",
     "company": "",
     "twitterUsername": "4w4647",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 27,
     "createdAt": "2026-03-22T13:50:33Z"
   },
   {
@@ -320,7 +320,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 293,
+    "publicContributions": 308,
     "createdAt": "2026-01-21T06:06:25Z"
   },
   {
@@ -332,7 +332,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 20,
     "createdAt": "2026-03-28T09:55:05Z"
   },
   {
@@ -342,9 +342,9 @@
     "location": "Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 9,
-    "publicContributions": 273,
+    "followers": 5,
+    "privateContributions": 13,
+    "publicContributions": 276,
     "createdAt": "2026-01-14T16:47:19Z"
   },
   {
@@ -355,21 +355,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 7,
-    "publicContributions": 23,
+    "privateContributions": 56,
+    "publicContributions": 30,
     "createdAt": "2026-03-28T11:06:53Z"
-  },
-  {
-    "login": "wickedangel13-og",
-    "name": "Wicked Angel OG",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270248997?s=72&v=4",
-    "location": "Katmandú,Nepal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-23T03:41:13Z"
   },
   {
     "login": "kdtechs1000-ctrl",
@@ -379,8 +367,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 42,
-    "publicContributions": 34,
+    "privateContributions": 13,
+    "publicContributions": 94,
     "createdAt": "2026-01-29T10:05:30Z"
   },
   {
@@ -402,9 +390,9 @@
     "location": "kathmandu,nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 13,
     "createdAt": "2026-02-17T01:48:16Z"
   },
   {
@@ -438,9 +426,9 @@
     "location": "Kathmandu,Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 182,
     "createdAt": "2026-02-01T10:39:06Z"
   },
   {
@@ -450,7 +438,7 @@
     "location": "Pokhara,Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2026-01-24T03:58:10Z"
@@ -464,7 +452,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 38,
     "createdAt": "2026-01-27T11:32:40Z"
   },
   {

@@ -210,9 +210,9 @@
     "location": "Hong Kong",
     "company": "Jianyuan Life",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 154,
     "createdAt": "2026-03-28T07:34:04Z"
   },
   {
@@ -222,9 +222,9 @@
     "location": "Hong Kong",
     "company": "UnderStudio",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2026-03-06T08:33:07Z"
   },
   {
@@ -236,7 +236,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 70,
     "createdAt": "2026-03-17T07:06:13Z"
   },
   {
@@ -259,20 +259,20 @@
     "company": "HKUST",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 15,
+    "privateContributions": 38,
+    "publicContributions": 13,
     "createdAt": "2026-02-10T22:48:31Z"
   },
   {
     "login": "evan0610",
     "name": "Tianchun Wu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253451506?s=72&u=75b58bf99dab8a37dec5e6cf31112760c784cc30&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253451506?s=72&u=08a59cedcf470c71272a6027e09b15626b769723&v=4",
     "location": "Hong Kong",
     "company": "@CUHK",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 3,
-    "publicContributions": 20,
+    "followers": 4,
+    "privateContributions": 28,
+    "publicContributions": 19,
     "createdAt": "2026-01-07T08:00:33Z"
   },
   {
@@ -282,9 +282,9 @@
     "location": "Hong Kong",
     "company": "@Uniterra-Solutions ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 77,
     "createdAt": "2026-03-26T04:04:10Z"
   },
   {
@@ -307,8 +307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 303,
-    "publicContributions": 177,
+    "privateContributions": 368,
+    "publicContributions": 246,
     "createdAt": "2026-03-15T06:06:59Z"
   },
   {
@@ -332,7 +332,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 80,
     "createdAt": "2026-01-07T03:15:56Z"
   },
   {
@@ -342,7 +342,7 @@
     "location": "Hong Kong",
     "company": "JOP Consulting",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2025-12-27T03:44:24Z"
@@ -356,7 +356,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 230,
+    "publicContributions": 248,
     "createdAt": "2026-03-07T03:50:41Z"
   },
   {
@@ -397,14 +397,14 @@
   },
   {
     "login": "Random-Walk2026",
-    "name": "Lamjinlab",
+    "name": "LamjinLab",
     "avatarUrl": "https://avatars.githubusercontent.com/u/258099051?s=72&u=c57fe035b91add6f91f3e26db2e05d705919c9a3&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "Lamjinlab",
     "followers": 2,
-    "privateContributions": 575,
-    "publicContributions": 49,
+    "privateContributions": 621,
+    "publicContributions": 50,
     "createdAt": "2026-01-29T20:40:11Z"
   },
   {
@@ -427,8 +427,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 210,
+    "privateContributions": 102,
+    "publicContributions": 287,
     "createdAt": "2025-12-31T12:02:00Z"
   },
   {
@@ -438,9 +438,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5375,
+    "publicContributions": 6337,
     "createdAt": "2026-02-19T07:58:27Z"
   },
   {
@@ -123862,5 +123862,17 @@
     "privateContributions": 431,
     "publicContributions": 61,
     "createdAt": "2019-07-16T01:04:20Z"
+  },
+  {
+    "login": "HOUZHENGYU0315",
+    "name": "HOU ZHENGYU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195319494?s=72&v=4",
+    "location": "Hong Kong",
+    "company": "The Chinese University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2025-01-16T14:52:20Z"
   }
 ]

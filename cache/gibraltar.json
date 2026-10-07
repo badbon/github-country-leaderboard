@@ -234,9 +234,9 @@
     "location": "Gibraltar",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 303,
-    "publicContributions": 0,
+    "followers": 10,
+    "privateContributions": 767,
+    "publicContributions": 5,
     "createdAt": "2020-10-25T17:57:33Z"
   },
   {
@@ -247,7 +247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 586,
+    "privateContributions": 602,
     "publicContributions": 0,
     "createdAt": "2019-08-11T14:16:48Z"
   },
@@ -283,7 +283,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 531,
+    "privateContributions": 503,
     "publicContributions": 20,
     "createdAt": "2019-05-06T09:15:20Z"
   },
@@ -319,7 +319,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2652,
+    "privateContributions": 3236,
     "publicContributions": 15,
     "createdAt": "2019-01-02T10:13:38Z"
   },
@@ -354,7 +354,7 @@
     "location": "Gibraltar",
     "company": "VPSServer.com",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-11-19T13:13:43Z"
@@ -380,7 +380,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 2,
     "createdAt": "2018-03-27T08:30:37Z"
   },
   {
@@ -396,18 +396,6 @@
     "createdAt": "2018-02-13T15:57:29Z"
   },
   {
-    "login": "mmahdal",
-    "name": "Marek Mahdal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/35741636?s=72&u=2aa5003d7ab4fcfda0a084583ba0d6a6b60db22d&v=4",
-    "location": "Gibraltar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-01-23T18:38:43Z"
-  },
-  {
     "login": "ArtemSoldatkin",
     "name": "Artem Soldatkin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/42126246?s=72&u=87876d169d6abea95ff489313468088630824b22&v=4",
@@ -416,7 +404,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 250,
-    "publicContributions": 645,
+    "publicContributions": 586,
     "createdAt": "2018-08-06T01:15:23Z"
   },
   {
@@ -428,7 +416,7 @@
     "twitterUsername": "UltTransformer",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2018-02-16T15:31:28Z"
   },
   {
@@ -452,7 +440,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 234,
+    "publicContributions": 244,
     "createdAt": "2018-03-13T17:26:10Z"
   },
   {
@@ -464,7 +452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 156,
     "createdAt": "2018-11-18T10:36:50Z"
   },
   {

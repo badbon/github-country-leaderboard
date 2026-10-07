@@ -8,7 +8,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 52,
     "createdAt": "2025-07-07T11:24:38Z"
   },
   {
@@ -18,9 +18,9 @@
     "location": "tripoli lebanon",
     "company": "CCS Technology ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 4,
     "createdAt": "2025-08-03T21:47:18Z"
   },
   {
@@ -30,9 +30,9 @@
     "location": "Tripoli/Libya",
     "company": "aldaleel",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 48,
     "createdAt": "2026-03-05T10:04:33Z"
   },
   {
@@ -43,7 +43,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 33,
+    "privateContributions": 32,
     "publicContributions": 30,
     "createdAt": "2026-01-01T10:32:25Z"
   },
@@ -56,7 +56,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1074,
+    "publicContributions": 1079,
     "createdAt": "2026-04-03T12:00:02Z"
   },
   {
@@ -124,24 +124,12 @@
     "name": "Sanad AlArousi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/261746831?s=72&u=20ebb4f02d41d80a0b13a6e23d66df092d90c731&v=4",
     "location": "Zawia, Libya",
-    "company": "@EXPORT119-Inc ",
+    "company": "Software Pioneers",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2237,
-    "publicContributions": 104,
+    "followers": 2,
+    "privateContributions": 5985,
+    "publicContributions": 151,
     "createdAt": "2026-02-15T12:03:19Z"
-  },
-  {
-    "login": "tahaelfit17",
-    "name": "Taha Elfitouri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232692906?s=72&u=40d2b81867f05e4b126197f8d5c70ce2048dcde9&v=4",
-    "location": "Tripoli, Libya",
-    "company": "",
-    "twitterUsername": "tahaelfit_",
-    "followers": 168,
-    "privateContributions": 102,
-    "publicContributions": 11,
-    "createdAt": "2025-09-16T22:49:57Z"
   },
   {
     "login": "yousef-obeida",
@@ -150,9 +138,9 @@
     "location": "Benghazi, Libya",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 25,
-    "publicContributions": 146,
+    "followers": 20,
+    "privateContributions": 384,
+    "publicContributions": 149,
     "createdAt": "2025-10-04T10:38:35Z"
   },
   {
@@ -162,9 +150,9 @@
     "location": "Libya, Benghazi",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 83,
+    "followers": 14,
+    "privateContributions": 28,
+    "publicContributions": 100,
     "createdAt": "2025-10-04T20:51:18Z"
   },
   {
@@ -174,9 +162,9 @@
     "location": "Benghazi, Libya",
     "company": "student",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 74,
     "createdAt": "2025-01-10T19:31:11Z"
   },
   {
@@ -186,7 +174,7 @@
     "location": "Libya",
     "company": "Silicon Valley ",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2025-03-17T19:23:22Z"
@@ -198,9 +186,9 @@
     "location": "Benghazi, Libya",
     "company": "GreenStar CO",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 97,
     "createdAt": "2024-12-27T16:38:50Z"
   },
   {
@@ -212,7 +200,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 93,
     "createdAt": "2025-04-18T14:27:18Z"
   },
   {
@@ -222,9 +210,9 @@
     "location": "Tripoli, Libya",
     "company": "",
     "twitterUsername": "moh_alfarjani",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 15,
     "createdAt": "2025-04-12T11:14:36Z"
   },
   {

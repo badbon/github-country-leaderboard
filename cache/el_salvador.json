@@ -8,7 +8,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 1,
     "createdAt": "2026-01-25T20:21:10Z"
   },
   {
@@ -19,8 +19,8 @@
     "company": "Universidad de El Salvador",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3,
-    "publicContributions": 131,
+    "privateContributions": 12,
+    "publicContributions": 225,
     "createdAt": "2026-03-05T21:37:35Z"
   },
   {
@@ -36,27 +36,15 @@
     "createdAt": "2026-04-14T01:25:49Z"
   },
   {
-    "login": "nickytq",
-    "name": "Elpiratilla",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266558424?s=72&v=4",
-    "location": "El Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 45,
-    "createdAt": "2026-03-08T19:35:21Z"
-  },
-  {
     "login": "IngWalterGuerrero",
     "name": "Walter Iván Guerrero",
     "avatarUrl": "https://avatars.githubusercontent.com/u/282039984?s=72&u=d34d7474ec64d87c7b27ab07a91d486f673e2c21&v=4",
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 17,
     "createdAt": "2026-05-05T19:14:01Z"
   },
   {
@@ -78,7 +66,7 @@
     "location": "el salvador ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-01-27T21:08:20Z"
@@ -104,7 +92,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 93,
     "createdAt": "2026-03-24T04:59:23Z"
   },
   {
@@ -116,7 +104,7 @@
     "twitterUsername": "danielospid",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2026-01-19T05:25:17Z"
   },
   {
@@ -128,7 +116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 74,
     "createdAt": "2026-04-15T18:45:37Z"
   },
   {
@@ -142,18 +130,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-29T20:38:51Z"
-  },
-  {
-    "login": "the-marquez",
-    "name": "Elmer Marquez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279293146?s=72&u=20fd788d2a3e56066f94cc7e2ea3cf7c8aee8de6&v=4",
-    "location": "El Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 43,
-    "createdAt": "2026-04-25T16:11:49Z"
   },
   {
     "login": "Pineda-Dev",
@@ -188,7 +164,7 @@
     "twitterUsername": "JoseOscarErnes2",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 32,
     "createdAt": "2026-02-11T16:10:52Z"
   },
   {

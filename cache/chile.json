@@ -248,7 +248,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 8,
     "createdAt": "2026-01-06T06:32:14Z"
   },
   {
@@ -272,7 +272,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 62,
     "createdAt": "2026-04-14T23:19:13Z"
   },
   {
@@ -296,31 +296,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 41,
     "createdAt": "2026-05-11T16:16:18Z"
   },
   {
-    "login": "csourcer",
-    "name": "Catalina León Trigari",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270654691?s=72&u=26bd1c852ba86de3b24e19e6f4479bc98a145772&v=4",
-    "location": "Chile",
-    "company": "Buk SpA.",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2026-03-24T12:43:31Z"
-  },
-  {
     "login": "mardelara",
-    "name": "",
+    "name": "☆*:.｡.o(≧▽≦)o.｡.:*☆",
     "avatarUrl": "https://avatars.githubusercontent.com/u/280835640?s=72&u=983b94b49c6ff3187f2e499ab9a8c45044fe1100&v=4",
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 20,
     "createdAt": "2026-05-01T00:06:53Z"
   },
   {
@@ -332,7 +320,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 88,
     "createdAt": "2026-04-12T03:25:29Z"
   },
   {
@@ -354,7 +342,7 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 60,
     "publicContributions": 172,
     "createdAt": "2026-02-24T00:15:29Z"
@@ -368,7 +356,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 241,
+    "publicContributions": 249,
     "createdAt": "2026-02-10T04:53:03Z"
   },
   {
@@ -378,9 +366,9 @@
     "location": "Santiago, Chile",
     "company": "Estudiante Duoc Uc - Mención Desarrolladora en Software",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 118,
     "createdAt": "2026-01-11T06:30:10Z"
   },
   {
@@ -402,31 +390,31 @@
     "location": "Chile",
     "company": "Duoc UC",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 80,
     "createdAt": "2026-03-16T08:04:13Z"
   },
   {
     "login": "Aloh-44",
     "name": "Alonso",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276639974?s=72&u=0761cc5c3f1659e315361ec9f26f3e92c44e3ef9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276639974?s=72&u=d2f01badb49d7abd1df3f5dcb4d30d93f5e0ada5&v=4",
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 16,
     "createdAt": "2026-04-16T14:44:33Z"
   },
   {
     "login": "Adriyache32",
     "name": "Adriyache32",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266348710?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266348710?s=72&u=a2055c9e1971a5b233c9c7dd86aa9094eb25a435&v=4",
     "location": "Chile",
     "company": "SmartOSdev's",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 168,
     "createdAt": "2026-03-07T18:18:09Z"
@@ -440,7 +428,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 100,
     "createdAt": "2026-03-11T13:23:57Z"
   },
   {
@@ -450,7 +438,7 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 99,
     "publicContributions": 40,
     "createdAt": "2026-04-08T05:15:29Z"

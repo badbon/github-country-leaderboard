@@ -8,7 +8,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 7,
     "createdAt": "2025-01-17T13:47:16Z"
   },
   {
@@ -18,9 +18,9 @@
     "location": "Liechtenstein",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 282,
+    "publicContributions": 296,
     "createdAt": "2025-12-16T17:59:36Z"
   },
   {
@@ -42,9 +42,9 @@
     "location": "Liechtenstein",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 3,
-    "publicContributions": 389,
+    "followers": 10,
+    "privateContributions": 4,
+    "publicContributions": 459,
     "createdAt": "2024-04-10T09:06:24Z"
   },
   {
@@ -56,7 +56,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2024-11-30T03:27:42Z"
   },
   {
@@ -68,7 +68,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2023-09-04T07:57:14Z"
   },
   {
@@ -80,7 +80,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 12,
     "createdAt": "2023-06-13T10:59:56Z"
   },
   {
@@ -175,21 +175,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 305,
-    "publicContributions": 52,
+    "privateContributions": 264,
+    "publicContributions": 43,
     "createdAt": "2022-02-09T04:44:11Z"
-  },
-  {
-    "login": "Ironwallet",
-    "name": "IronWallet",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111350030?s=72&u=f0776d7ce62e32ede251525e0ae46aaad9763056&v=4",
-    "location": "Liechtenstein",
-    "company": "INWAY AKTIENGESELLSCHAFT (INWAY AG)",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 61,
-    "createdAt": "2022-08-16T09:30:20Z"
   },
   {
     "login": "MrFMG",
@@ -210,9 +198,9 @@
     "location": "Liechtenstein",
     "company": "Liechtenstein University",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 4,
+    "followers": 5,
+    "privateContributions": 8,
+    "publicContributions": 116,
     "createdAt": "2022-09-18T18:55:04Z"
   },
   {
@@ -236,7 +224,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 65,
     "createdAt": "2022-01-04T17:19:40Z"
   },
   {

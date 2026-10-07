@@ -270,9 +270,9 @@
     "location": "Mexico, City",
     "company": "TripleTen Student",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 60,
     "createdAt": "2026-01-06T23:56:18Z"
   },
   {
@@ -296,7 +296,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 71,
     "createdAt": "2026-02-18T19:38:33Z"
   },
   {
@@ -314,13 +314,13 @@
   {
     "login": "AxelFerCa",
     "name": "AxelFerCa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/251946990?s=72&u=2a250c9fa90d14abe53399bed207d05844b600d3&v=4",
-    "location": "Mexico ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/251946990?s=72&u=e1737c7d7ceb771942742668677692c025a6330a&v=4",
+    "location": "CDMX, Mexico",
     "company": "under construction",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 22,
+    "twitterUsername": "Axel_FerCa",
+    "followers": 4,
+    "privateContributions": 15,
+    "publicContributions": 37,
     "createdAt": "2025-12-29T04:10:11Z"
   },
   {
@@ -340,11 +340,11 @@
     "name": "Kike Vazquez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/264293850?s=72&u=fd9f5a52257131a67a6e9c280fd91de41b5b8acb&v=4",
     "location": "Playa del Carmen, Mexico ",
-    "company": "",
+    "company": "Nümia Group",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 4,
+    "followers": 5,
+    "privateContributions": 1775,
+    "publicContributions": 8,
     "createdAt": "2026-02-27T00:54:42Z"
   },
   {
@@ -368,7 +368,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 87,
     "createdAt": "2026-03-01T00:00:42Z"
   },
   {
@@ -379,7 +379,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 159,
+    "privateContributions": 226,
     "publicContributions": 1,
     "createdAt": "2026-04-30T21:02:36Z"
   },
@@ -432,18 +432,6 @@
     "createdAt": "2026-05-02T10:39:25Z"
   },
   {
-    "login": "ivmtuno",
-    "name": "Ivan Moreno",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/274067280?s=72&u=fb4368cfc925310c10e47fadedbe0e4a5977a7e1&v=4",
-    "location": "Mexico",
-    "company": "Tunolabs",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 154,
-    "createdAt": "2026-04-06T17:09:06Z"
-  },
-  {
     "login": "SamuGodu",
     "name": "Samuel Zambrano",
     "avatarUrl": "https://avatars.githubusercontent.com/u/269842479?s=72&u=8a8fc9e2d2a554fb4e4174f0744de9d03773ab65&v=4",
@@ -452,7 +440,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 133,
     "createdAt": "2026-03-21T00:04:16Z"
   },
   {

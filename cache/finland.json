@@ -1,14 +1,14 @@
 [
   {
     "login": "amosblomqvist",
-    "name": "amos",
+    "name": "Eero Alvar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255718537?s=72&u=882e85275e3e401db8c3db83a48b1de204ea680c&v=4",
     "location": "Finland",
     "company": "",
-    "twitterUsername": "",
-    "followers": 39,
-    "privateContributions": 300,
-    "publicContributions": 22,
+    "twitterUsername": "amosblomqvist",
+    "followers": 415,
+    "privateContributions": 565,
+    "publicContributions": 61,
     "createdAt": "2026-01-18T16:48:10Z"
   },
   {
@@ -30,22 +30,10 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 47,
     "createdAt": "2026-01-07T22:17:12Z"
-  },
-  {
-    "login": "datisusreedshaw01",
-    "name": "Casey Brooks",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/273989194?s=72&v=4",
-    "location": "Helsinki, Finland",
-    "company": "Contract Developer",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-04-06T11:24:43Z"
   },
   {
     "login": "vaaraio",
@@ -53,10 +41,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/267591518?s=72&u=ba19d436dedc05a6a30fce69130e0f14b29f684c&v=4",
     "location": "Helsinki, Finland",
     "company": "Vaara",
-    "twitterUsername": "vaara_io",
-    "followers": 4,
+    "twitterUsername": "",
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1561,
+    "publicContributions": 2152,
     "createdAt": "2026-03-12T08:19:56Z"
   },
   {
@@ -66,22 +54,10 @@
     "location": "Helsinki, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2026-02-03T15:58:26Z"
-  },
-  {
-    "login": "kessuw2i",
-    "name": "kessu - 21, a guy - SIGN MY ATA IF U WANT",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259615297?s=72&u=2e7f17302e0bf85c59b9b8c62dd3dd841919dffa&v=4",
-    "location": "finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-02-05T15:22:46Z"
   },
   {
     "login": "deck-deeger",
@@ -91,7 +67,7 @@
     "company": "@deegerhq",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1746,
+    "privateContributions": 2408,
     "publicContributions": 26,
     "createdAt": "2026-03-08T13:46:59Z"
   },
@@ -103,7 +79,7 @@
     "company": "Rush+ Games",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 356,
+    "privateContributions": 390,
     "publicContributions": 1,
     "createdAt": "2026-04-02T15:14:00Z"
   },
@@ -116,7 +92,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 72,
     "createdAt": "2026-03-10T09:13:41Z"
   },
   {
@@ -128,7 +104,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 19,
     "createdAt": "2026-01-04T20:52:00Z"
   },
   {
@@ -139,7 +115,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 157,
     "publicContributions": 1,
     "createdAt": "2026-01-19T13:27:43Z"
   },
@@ -198,9 +174,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 178,
     "createdAt": "2026-02-20T15:54:06Z"
   },
   {
@@ -210,9 +186,9 @@
     "location": "Joensuu, Finland",
     "company": "University of Eastern Finland",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 22,
     "createdAt": "2026-03-12T18:58:50Z"
   },
   {
@@ -222,9 +198,9 @@
     "location": "Espoo, Finland",
     "company": "GoBirdie",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 2,
+    "followers": 4,
+    "privateContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2026-02-07T01:40:51Z"
   },
   {

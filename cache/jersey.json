@@ -295,7 +295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 13,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-09T07:54:25Z"
   },
@@ -308,7 +308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2021-01-20T10:13:31Z"
   },
   {
@@ -344,7 +344,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 89,
     "createdAt": "2020-05-11T18:11:47Z"
   },
   {
@@ -404,7 +404,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 41,
     "createdAt": "2019-10-02T18:29:42Z"
   },
   {
@@ -414,9 +414,9 @@
     "location": "Jersey",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 9,
     "createdAt": "2019-05-19T16:06:11Z"
   },
   {
@@ -474,9 +474,9 @@
     "location": "Jersey, Channel Islands",
     "company": "",
     "twitterUsername": "shiao_li",
-    "followers": 23,
-    "privateContributions": 305,
-    "publicContributions": 16,
+    "followers": 22,
+    "privateContributions": 194,
+    "publicContributions": 115,
     "createdAt": "2018-02-14T08:31:06Z"
   },
   {

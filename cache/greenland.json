@@ -246,7 +246,7 @@
     "location": "Greenland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1531,
+    "followers": 1517,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-15T01:47:33Z"
@@ -259,8 +259,8 @@
     "company": "Greenland Institute of Natural Resources",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 14,
-    "publicContributions": 18,
+    "privateContributions": 11,
+    "publicContributions": 20,
     "createdAt": "2020-10-23T11:36:56Z"
   },
   {
@@ -276,39 +276,15 @@
     "createdAt": "2020-02-21T03:33:40Z"
   },
   {
-    "login": "MyrandFox",
-    "name": "MyrandFox",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66683943?s=72&u=325c8d95c629605c03e07309937bb0effad715f6&v=4",
-    "location": "Greenland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 0,
-    "createdAt": "2020-06-09T14:06:34Z"
-  },
-  {
-    "login": "pow3rdown",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63931326?s=72&v=4",
-    "location": "@greenland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-04-18T21:10:08Z"
-  },
-  {
     "login": "Nelson-Cheung",
     "name": "Nelson Cheung",
     "avatarUrl": "https://avatars.githubusercontent.com/u/48144250?s=72&u=961cdeb55a471ffb8c762abc8e84f0deacac7336&v=4",
     "location": "Greenland",
     "company": "Sun Yat-sen University",
     "twitterUsername": "",
-    "followers": 87,
+    "followers": 88,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 13,
     "createdAt": "2019-03-02T03:29:47Z"
   },
   {
@@ -331,8 +307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2,
-    "publicContributions": 18,
+    "privateContributions": 1,
+    "publicContributions": 8,
     "createdAt": "2018-06-28T20:56:59Z"
   },
   {
@@ -366,8 +342,8 @@
     "location": "Greenland",
     "company": "AG",
     "twitterUsername": "",
-    "followers": 153,
-    "privateContributions": 1195,
+    "followers": 151,
+    "privateContributions": 1273,
     "publicContributions": 1,
     "createdAt": "2017-09-26T11:13:30Z"
   },
@@ -379,8 +355,8 @@
     "company": "GEUS",
     "twitterUsername": "",
     "followers": 56,
-    "privateContributions": 16,
-    "publicContributions": 150,
+    "privateContributions": 26,
+    "publicContributions": 102,
     "createdAt": "2017-05-16T12:58:08Z"
   },
   {
@@ -392,7 +368,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 646,
+    "publicContributions": 695,
     "createdAt": "2017-10-30T12:01:01Z"
   },
   {
@@ -426,7 +402,7 @@
     "location": "Greenland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2016-07-24T15:24:37Z"
@@ -438,9 +414,9 @@
     "location": "Greenland",
     "company": "project-atlantis.ai",
     "twitterUsername": "atlantis2point0",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1636,
+    "publicContributions": 1486,
     "createdAt": "2015-12-30T23:01:08Z"
   },
   {

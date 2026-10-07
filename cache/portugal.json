@@ -216,37 +216,13 @@
     "createdAt": "2026-01-14T13:30:33Z"
   },
   {
-    "login": "yodatoshicom",
-    "name": "Yodatoshi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261823894?s=72&u=c46512efb8e8b48e4a937e235de3c1c44651ef31&v=4",
-    "location": "Porto, Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1339,
-    "publicContributions": 193,
-    "createdAt": "2026-02-15T23:23:29Z"
-  },
-  {
-    "login": "goliveira32",
-    "name": "Gonçalo Oliveira",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269523772?s=72&v=4",
-    "location": "Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 110,
-    "createdAt": "2026-03-19T16:29:14Z"
-  },
-  {
     "login": "ninofernando",
     "name": "Nino Fernando",
     "avatarUrl": "https://avatars.githubusercontent.com/u/273643343?s=72&u=74dd12f71cf474771240e01a6df9c5230ee5ee40&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2026-04-04T21:41:46Z"
@@ -254,13 +230,13 @@
   {
     "login": "everm4iva",
     "name": "ZoeIsRad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258283133?s=72&u=e7df20b6a522148ee0d8eb24831def7420ecb4e9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258283133?s=72&u=5009bc213efb36b441de1d8ddc41e48e117ab9b3&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 56,
-    "publicContributions": 288,
+    "followers": 12,
+    "privateContributions": 60,
+    "publicContributions": 363,
     "createdAt": "2026-01-30T17:05:48Z"
   },
   {
@@ -272,7 +248,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3086,
     "createdAt": "2026-04-15T01:16:16Z"
   },
   {
@@ -282,7 +258,7 @@
     "location": "Portugal",
     "company": "RecT Solutions",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-09T14:29:22Z"
@@ -296,7 +272,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 142,
+    "publicContributions": 152,
     "createdAt": "2026-01-01T21:22:01Z"
   },
   {
@@ -308,7 +284,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 57,
     "createdAt": "2026-03-03T16:01:55Z"
   },
   {
@@ -318,7 +294,7 @@
     "location": "Portugal ",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-08T19:53:08Z"
@@ -332,7 +308,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 280,
+    "publicContributions": 292,
     "createdAt": "2026-01-21T09:51:51Z"
   },
   {
@@ -350,13 +326,13 @@
   {
     "login": "awtoprime25",
     "name": "Walter",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261427885?s=72&u=5b0e701e5cda9dd5b7256fb0e7758543d1aa834b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261427885?s=72&u=1b6aa38f0208e21deb8a2b92cf8cb340afd99899&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 54,
-    "publicContributions": 114,
+    "followers": 5,
+    "privateContributions": 321,
+    "publicContributions": 77,
     "createdAt": "2026-02-13T13:11:46Z"
   },
   {
@@ -366,9 +342,9 @@
     "location": "Peniche, Portugal",
     "company": "",
     "twitterUsername": "gcasqueirocom",
-    "followers": 4,
-    "privateContributions": 42,
-    "publicContributions": 8,
+    "followers": 7,
+    "privateContributions": 118,
+    "publicContributions": 10,
     "createdAt": "2026-02-27T18:30:29Z"
   },
   {
@@ -378,7 +354,7 @@
     "location": "Cascais, Portugal",
     "company": "Grupo Rão / CORTEX3",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 331,
     "createdAt": "2025-12-28T23:32:50Z"
@@ -402,9 +378,9 @@
     "location": "Porto, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 86,
     "createdAt": "2026-03-25T14:56:28Z"
   },
   {
@@ -414,9 +390,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1669,
+    "publicContributions": 3096,
     "createdAt": "2026-03-31T19:35:34Z"
   },
   {
@@ -438,7 +414,7 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2026-03-02T12:19:28Z"

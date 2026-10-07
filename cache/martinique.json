@@ -240,25 +240,13 @@
     "createdAt": "2022-08-19T14:03:24Z"
   },
   {
-    "login": "rimiol",
-    "name": "Rimio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96975756?s=72&u=89177c01a57f6bd1084bb130958db85d4f88e47e&v=4",
-    "location": "Martinique",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-01-02T09:40:41Z"
-  },
-  {
     "login": "jymaurice",
     "name": "jymaurice",
     "avatarUrl": "https://avatars.githubusercontent.com/u/117331320?s=72&u=b4be883ffea817f7a84432d33aae446f4223f5c8&v=4",
     "location": "Martinique",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-03T03:36:29Z"
@@ -270,9 +258,9 @@
     "location": "Schoelcher, Martinique",
     "company": "axialdata",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 346,
-    "publicContributions": 4614,
+    "followers": 2,
+    "privateContributions": 279,
+    "publicContributions": 5077,
     "createdAt": "2022-03-14T23:15:43Z"
   },
   {
@@ -319,8 +307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 173,
-    "publicContributions": 6,
+    "privateContributions": 104,
+    "publicContributions": 9,
     "createdAt": "2021-11-19T15:08:07Z"
   },
   {
@@ -330,7 +318,7 @@
     "location": "Martinique",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 11,
     "publicContributions": 1,
     "createdAt": "2021-10-22T20:02:38Z"
@@ -355,21 +343,9 @@
     "company": "pngrtz",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1201,
+    "privateContributions": 1220,
     "publicContributions": 318,
     "createdAt": "2021-03-26T10:08:43Z"
-  },
-  {
-    "login": "pqzrc",
-    "name": "Rénald",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84046981?s=72&u=1ac40b1ba80ece5ff33b6ed4b17225cfc21f7496&v=4",
-    "location": "Martinique",
-    "company": "Université des Antilles",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1455,
-    "publicContributions": 26,
-    "createdAt": "2021-05-11T21:37:37Z"
   },
   {
     "login": "mattari97",
@@ -392,7 +368,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 33,
     "createdAt": "2021-05-04T12:41:42Z"
   },
   {
@@ -414,7 +390,7 @@
     "location": "Martinique",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-29T20:05:28Z"
@@ -452,7 +428,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 16,
     "createdAt": "2020-06-26T17:58:32Z"
   },
   {
@@ -462,9 +438,9 @@
     "location": "martinique",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2019-04-23T14:11:19Z"
   },
   {
@@ -474,7 +450,7 @@
     "location": "Martinique",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-04T13:13:06Z"

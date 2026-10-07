@@ -8,7 +8,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 23,
-    "publicContributions": 7,
+    "publicContributions": 17,
     "createdAt": "2026-01-05T08:57:59Z"
   },
   {
@@ -20,7 +20,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 13,
-    "publicContributions": 22,
+    "publicContributions": 25,
     "createdAt": "2026-01-05T09:12:03Z"
   },
   {
@@ -38,13 +38,13 @@
   {
     "login": "eriksmalcansbodrovs-dot",
     "name": "Ēriks Malcāns-Bodrovs",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/260857814?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260857814?s=72&u=bc1bf62ea93a74ce7d8eb90760d93c5f03d21de9&v=4",
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 22,
     "createdAt": "2026-02-11T08:31:31Z"
   },
   {
@@ -66,7 +66,7 @@
     "location": "Latvia,Ventspils.",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 98,
     "createdAt": "2026-01-21T10:35:26Z"
@@ -80,7 +80,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 29,
     "createdAt": "2026-04-19T12:40:47Z"
   },
   {
@@ -104,7 +104,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 490,
+    "publicContributions": 599,
     "createdAt": "2026-04-07T01:34:58Z"
   },
   {
@@ -115,8 +115,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 70,
+    "privateContributions": 10,
+    "publicContributions": 73,
     "createdAt": "2026-04-06T09:37:45Z"
   },
   {
@@ -132,18 +132,6 @@
     "createdAt": "2026-02-05T22:23:59Z"
   },
   {
-    "login": "bohdanmarcus",
-    "name": "Bohdan D. Marcus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282344435?s=72&v=4",
-    "location": "Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 11,
-    "publicContributions": 9,
-    "createdAt": "2026-05-06T18:25:58Z"
-  },
-  {
     "login": "NISHII03-CYB",
     "name": "Nishitha Fernando",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255664084?s=72&u=98c92eaa3cbf8497158aec635f7008bcc2ee25b1&v=4",
@@ -152,7 +140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 30,
     "createdAt": "2026-01-18T10:13:52Z"
   },
   {
@@ -188,7 +176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 1,
     "createdAt": "2026-05-08T05:14:09Z"
   },
   {
@@ -210,9 +198,9 @@
     "location": "Latvia",
     "company": "U1C",
     "twitterUsername": "MBrezauckis",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 378,
+    "publicContributions": 693,
     "createdAt": "2026-01-15T19:50:52Z"
   },
   {
@@ -236,7 +224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 127,
     "createdAt": "2026-01-12T19:35:38Z"
   },
   {

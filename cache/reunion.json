@@ -252,18 +252,6 @@
     "createdAt": "2023-03-01T11:10:42Z"
   },
   {
-    "login": "WD3-Steven",
-    "name": "Steven ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147190886?s=72&v=4",
-    "location": "Réunion",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-10-06T17:30:35Z"
-  },
-  {
     "login": "ChaffyLace",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/132900529?s=72&u=94e05dde57763fa91ad84bce9792d8ec9270fc22&v=4",
@@ -272,7 +260,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1109,
+    "publicContributions": 1110,
     "createdAt": "2023-05-08T10:52:04Z"
   },
   {
@@ -300,18 +288,6 @@
     "createdAt": "2023-03-11T14:37:51Z"
   },
   {
-    "login": "Knickss",
-    "name": "PerfectMoon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133003858?s=72&u=38bd664b342f90b72656802572012bf68d6ecbfb&v=4",
-    "location": "saint denis",
-    "company": "Centro Escolar University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 193,
-    "publicContributions": 3,
-    "createdAt": "2023-05-09T10:28:54Z"
-  },
-  {
     "login": "krys410",
     "name": "Christophe Grondin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/110973411?s=72&u=d91597afc8377ad0f5defc72c4e4b41d370b26df&v=4",
@@ -331,8 +307,8 @@
     "company": "Coding974",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 543,
-    "publicContributions": 11,
+    "privateContributions": 255,
+    "publicContributions": 15,
     "createdAt": "2022-10-10T18:42:35Z"
   },
   {
@@ -342,8 +318,8 @@
     "location": "Réunion",
     "company": "",
     "twitterUsername": "joshhoa_io",
-    "followers": 4,
-    "privateContributions": 6,
+    "followers": 5,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2022-06-25T07:57:15Z"
   },
@@ -354,7 +330,7 @@
     "location": "Réunion ",
     "company": "EPITECH",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-26T12:10:39Z"
@@ -379,8 +355,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 60,
+    "privateContributions": 4,
+    "publicContributions": 57,
     "createdAt": "2022-11-02T04:53:41Z"
   },
   {
@@ -404,7 +380,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 185,
     "createdAt": "2024-09-25T11:39:46Z"
   },
   {
@@ -415,8 +391,8 @@
     "company": "Taaf",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 543,
-    "publicContributions": 7,
+    "privateContributions": 932,
+    "publicContributions": 3,
     "createdAt": "2024-07-10T13:05:32Z"
   },
   {
@@ -427,7 +403,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 43,
+    "privateContributions": 109,
     "publicContributions": 2,
     "createdAt": "2022-03-22T15:00:07Z"
   },
@@ -463,20 +439,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 226,
-    "publicContributions": 32,
+    "privateContributions": 536,
+    "publicContributions": 75,
     "createdAt": "2021-10-29T04:07:05Z"
   },
   {
     "login": "Yato97",
     "name": "Donovan R",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81426374?s=72&u=baa9fddd8777dba32d79eb3e119016501793481a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81426374?s=72&u=bf069816669da0eedb386c3f68148f94191808ba&v=4",
     "location": "Réunion",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 420,
-    "publicContributions": 0,
+    "privateContributions": 605,
+    "publicContributions": 1,
     "createdAt": "2021-03-26T13:58:07Z"
   },
   {

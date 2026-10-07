@@ -230,13 +230,13 @@
   {
     "login": "Akseleu-J",
     "name": "Omirbay Akseleu ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262319295?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262319295?s=72&u=d4c9290199a48cbda80effeeee3c8f17f33c4aaf&v=4",
     "location": "Shymkent, Kazakhstan",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 301,
+    "publicContributions": 980,
     "createdAt": "2026-02-18T10:26:38Z"
   },
   {
@@ -246,7 +246,7 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-27T10:18:44Z"
@@ -260,7 +260,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 432,
+    "publicContributions": 506,
     "createdAt": "2026-02-21T14:51:54Z"
   },
   {
@@ -284,7 +284,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 35,
     "createdAt": "2026-03-14T11:28:27Z"
   },
   {
@@ -296,7 +296,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 96,
     "createdAt": "2026-02-03T11:58:08Z"
   },
   {
@@ -344,7 +344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2026-04-17T06:29:23Z"
   },
   {
@@ -356,7 +356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 20,
     "createdAt": "2026-04-18T15:19:32Z"
   },
   {
@@ -388,11 +388,11 @@
     "name": "Gulzara",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255924793?s=72&u=954f8f4241836e6126848daa6509cdca3ae2396d&v=4",
     "location": "Almaty, Kazakhstan",
-    "company": "Narxoz college",
+    "company": "Satbayev University",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 39,
     "createdAt": "2026-01-19T16:26:54Z"
   },
   {
@@ -450,7 +450,7 @@
     "location": "Kazakhstan, Almaty",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 138,
     "createdAt": "2026-01-20T14:25:04Z"
@@ -68170,5 +68170,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-11-26T13:17:57Z"
+  },
+  {
+    "login": "KareulSuyen",
+    "name": "Carl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185032670?s=72&u=da15e080a5299f6291775f1a0e2f3f0a1429cf5f&v=4",
+    "location": "Kazakhstan",
+    "company": "Astana ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 6134,
+    "publicContributions": 170,
+    "createdAt": "2024-10-15T05:58:29Z"
   }
 ]

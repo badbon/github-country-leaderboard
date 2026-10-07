@@ -248,7 +248,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-04-06T12:10:59Z"
   },
   {
@@ -259,8 +259,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 43,
-    "publicContributions": 62,
+    "privateContributions": 39,
+    "publicContributions": 27,
     "createdAt": "2021-08-23T16:03:05Z"
   },
   {
@@ -271,8 +271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 524,
-    "publicContributions": 43,
+    "privateContributions": 600,
+    "publicContributions": 50,
     "createdAt": "2021-04-08T15:43:57Z"
   },
   {
@@ -344,7 +344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 70,
     "createdAt": "2021-03-09T14:34:16Z"
   },
   {
@@ -354,7 +354,7 @@
     "location": "76 Douglas street ",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-30T04:08:14Z"
@@ -390,9 +390,9 @@
     "location": "Isle of Man",
     "company": "",
     "twitterUsername": "",
-    "followers": 233,
-    "privateContributions": 2937,
-    "publicContributions": 1662,
+    "followers": 231,
+    "privateContributions": 2435,
+    "publicContributions": 2796,
     "createdAt": "2020-11-07T22:13:28Z"
   },
   {
@@ -402,9 +402,9 @@
     "location": "Isle of Man",
     "company": "Isle of Man Code Club",
     "twitterUsername": "",
-    "followers": 74,
-    "privateContributions": 9,
-    "publicContributions": 114,
+    "followers": 76,
+    "privateContributions": 8,
+    "publicContributions": 129,
     "createdAt": "2020-06-04T17:32:15Z"
   },
   {
@@ -415,8 +415,8 @@
     "company": "@apptrackit ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 151,
-    "publicContributions": 1088,
+    "privateContributions": 144,
+    "publicContributions": 917,
     "createdAt": "2020-02-13T12:38:51Z"
   },
   {
@@ -427,8 +427,8 @@
     "company": "Craft Applied",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 821,
-    "publicContributions": 28,
+    "privateContributions": 569,
+    "publicContributions": 27,
     "createdAt": "2020-09-03T18:18:09Z"
   },
   {
@@ -440,7 +440,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-10-12T13:27:33Z"
   },
   {
@@ -454,18 +454,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-07-06T14:35:29Z"
-  },
-  {
-    "login": "jameskinley",
-    "name": "James Kinley",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71322471?s=72&u=4881e85640d3bf77f67cb6abb49055413c088bc8&v=4",
-    "location": "Leeds / Isle of Man",
-    "company": "Cardigan Lane Solutions",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 253,
-    "publicContributions": 421,
-    "createdAt": "2020-09-15T10:20:58Z"
   },
   {
     "login": "dannystoyanovYB",

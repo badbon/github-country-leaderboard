@@ -258,9 +258,9 @@
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 1,
     "createdAt": "2026-02-01T10:16:38Z"
   },
   {
@@ -270,7 +270,7 @@
     "location": "Ethiopia ",
     "company": "mega tech",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-03-22T09:07:49Z"
@@ -284,19 +284,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 56,
     "createdAt": "2026-01-31T21:48:15Z"
   },
   {
     "login": "bes-g",
     "name": "Besufkad Tekalign",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259366916?s=72&u=69efa857b313106cf9f1d8b1b8e5f77acec82373&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259366916?s=72&u=1e74fe2c83f7a074d9ac45948ea8e674667febd4&v=4",
     "location": "Ethiopia, Addis Ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 29,
+    "followers": 6,
+    "privateContributions": 2,
+    "publicContributions": 1319,
     "createdAt": "2026-02-04T14:51:50Z"
   },
   {
@@ -319,8 +319,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 863,
-    "publicContributions": 69,
+    "privateContributions": 999,
+    "publicContributions": 72,
     "createdAt": "2025-12-30T12:41:12Z"
   },
   {
@@ -332,7 +332,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 449,
+    "publicContributions": 657,
     "createdAt": "2026-03-16T11:58:40Z"
   },
   {
@@ -346,18 +346,6 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2026-02-19T06:42:50Z"
-  },
-  {
-    "login": "asaabdu04-rgb",
-    "name": "Abdu Humed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/274338153?s=72&v=4",
-    "location": "Ethiopia ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-04-07T21:43:37Z"
   },
   {
     "login": "nahomteshome126-ui",
@@ -378,9 +366,9 @@
     "location": "Addis Ababa | Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 125,
     "createdAt": "2026-02-03T10:47:37Z"
   },
   {
@@ -422,13 +410,13 @@
   {
     "login": "mrmishaal",
     "name": "Mishaal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253092770?s=72&u=6024fdc3d81ef2b66bf2d1ed58069f64b7b490f4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253092770?s=72&u=63b2bb85bcf677564796fed8e207a98cc7ea5710&v=4",
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 101,
     "createdAt": "2026-01-05T15:19:15Z"
   },
   {
@@ -458,13 +446,13 @@
   {
     "login": "tsinattesfaye26-ai",
     "name": "Tsinat Tesfaye ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256117431?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256117431?s=72&u=577f5a8d22477cc85c23596c1a082675e7f6f0e4&v=4",
     "location": "Ethiopia ",
     "company": "Hatch Dot ",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 186,
     "createdAt": "2026-01-20T13:34:52Z"
   },
   {

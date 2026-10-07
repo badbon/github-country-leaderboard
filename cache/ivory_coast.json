@@ -18,9 +18,9 @@
     "location": "Grand-Bassam, Côte d'Ivoire",
     "company": "IIT",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 8,
     "privateContributions": 16,
-    "publicContributions": 128,
+    "publicContributions": 196,
     "createdAt": "2026-02-08T18:26:21Z"
   },
   {
@@ -42,9 +42,9 @@
     "location": "Abidjan, CÔTE D'IVOIRE",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 513,
-    "publicContributions": 1,
+    "followers": 2,
+    "privateContributions": 728,
+    "publicContributions": 2,
     "createdAt": "2026-01-27T14:05:03Z"
   },
   {
@@ -66,7 +66,7 @@
     "location": "Abidjan, Côte d'Ivoire 🇨🇮",
     "company": "We.Code Data & AI | UVCI",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2026-01-23T16:26:42Z"
@@ -90,7 +90,7 @@
     "location": "ivory coast",
     "company": "chemteq",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-01T04:31:27Z"
@@ -103,21 +103,9 @@
     "company": "Zakone",
     "twitterUsername": "zakariadev000",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 168,
+    "privateContributions": 325,
+    "publicContributions": 179,
     "createdAt": "2026-03-24T11:31:06Z"
-  },
-  {
-    "login": "richmndk",
-    "name": " Richmndk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/272902488?s=72&v=4",
-    "location": "Ivory coast",
-    "company": "",
-    "twitterUsername": "Richmndkn",
-    "followers": 2,
-    "privateContributions": 4,
-    "publicContributions": 38,
-    "createdAt": "2026-04-01T18:08:13Z"
   },
   {
     "login": "kalodu",
@@ -146,13 +134,13 @@
   {
     "login": "daboujohan-hub",
     "name": "Diomandé Abou johan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/243510535?s=72&u=2f352ac9f4e5d7dc8734d19afb14e861df917e73&v=4",
-    "location": "Abidjan, Côte d'Ivoire",
-    "company": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/243510535?s=72&u=89136deb5d4ea61d3cb600a088a50917f4696016&v=4",
+    "location": "San Pedro, Côte d'Ivoire",
+    "company": "Badoo",
     "twitterUsername": "",
-    "followers": 49,
+    "followers": 58,
     "privateContributions": 0,
-    "publicContributions": 179,
+    "publicContributions": 184,
     "createdAt": "2025-11-12T07:44:33Z"
   },
   {
@@ -162,9 +150,9 @@
     "location": "Côte d'Ivoire",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 577,
-    "publicContributions": 195,
+    "followers": 6,
+    "privateContributions": 705,
+    "publicContributions": 237,
     "createdAt": "2025-12-19T12:43:51Z"
   },
   {
@@ -174,9 +162,9 @@
     "location": "Côte d'Ivoire, Abidjan",
     "company": "Ya Consulting",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 302,
     "createdAt": "2025-09-07T15:53:52Z"
   },
   {
@@ -188,20 +176,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 172,
     "createdAt": "2025-12-23T09:01:34Z"
-  },
-  {
-    "login": "Mourtada-002",
-    "name": "Dicko Mouhamed Mourtada",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204372489?s=72&u=02283a26152b7c5be403352a96e81630c1bec66e&v=4",
-    "location": "Abidjan, Côte d'Ivoire",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 238,
-    "createdAt": "2025-03-21T15:39:52Z"
   },
   {
     "login": "florentjauresb",
@@ -223,20 +199,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 313,
-    "publicContributions": 27,
+    "privateContributions": 392,
+    "publicContributions": 10,
     "createdAt": "2025-02-05T12:09:24Z"
   },
   {
     "login": "stanjosue-dev",
     "name": "Stan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197881559?s=72&u=0982b3214022881c7bc7032b5b4e894eb3848b57&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197881559?s=72&u=bd02a870ab60de2c4f2a675b6842cebd44999ca7&v=4",
     "location": "Abidjan, Côte d'Ivoire",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 64,
     "createdAt": "2025-02-05T07:50:27Z"
   },
   {

@@ -224,7 +224,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 42,
     "createdAt": "2025-01-30T17:09:13Z"
   },
   {
@@ -234,9 +234,9 @@
     "location": "Panama",
     "company": "PGT Logistics",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2708,
-    "publicContributions": 1,
+    "followers": 3,
+    "privateContributions": 3138,
+    "publicContributions": 22,
     "createdAt": "2025-11-07T02:54:07Z"
   },
   {
@@ -246,9 +246,9 @@
     "location": "Panama City",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 248,
-    "publicContributions": 190,
+    "followers": 3,
+    "privateContributions": 387,
+    "publicContributions": 148,
     "createdAt": "2025-08-22T01:39:24Z"
   },
   {
@@ -272,7 +272,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 28,
     "createdAt": "2025-09-24T15:08:31Z"
   },
   {
@@ -296,7 +296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 21,
     "createdAt": "2025-08-29T20:14:42Z"
   },
   {
@@ -314,13 +314,13 @@
   {
     "login": "rosemanslo",
     "name": "Carlos Roseman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/214047449?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214047449?s=72&u=712a3d83fc4c86c64e045e308cab66b022013f10&v=4",
     "location": "Panama",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 41,
     "createdAt": "2025-05-30T00:03:48Z"
   },
   {
@@ -332,7 +332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 133,
     "createdAt": "2025-10-03T14:04:37Z"
   },
   {
@@ -344,32 +344,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 4,
     "createdAt": "2025-08-31T22:00:30Z"
-  },
-  {
-    "login": "BASSCIOP",
-    "name": "ROBERT C BASS®",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/228970230?s=72&u=0cba298552409134bce162c285961961263d92b0&v=4",
-    "location": "TOCUMEN, PANAMA",
-    "company": "BASS INTELLIGENCE WORKING GROUP®",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2025-08-27T16:24:09Z"
-  },
-  {
-    "login": "franciscosantolo",
-    "name": "Francisco Santolo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/233327838?s=72&u=017163072f424fed774f4a2e1a966378c7d72a40&v=4",
-    "location": "Panama",
-    "company": "Scalabl",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 79,
-    "createdAt": "2025-09-19T17:27:07Z"
   },
   {
     "login": "gama-sebas",
@@ -392,7 +368,7 @@
     "twitterUsername": "Luxx_Coin",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-04T12:11:31Z"
   },
   {
@@ -404,7 +380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 11,
     "createdAt": "2025-09-26T15:47:26Z"
   },
   {
@@ -428,7 +404,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2025-09-25T22:35:48Z"
   },
   {
@@ -439,8 +415,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 689,
-    "publicContributions": 115,
+    "privateContributions": 749,
+    "publicContributions": 101,
     "createdAt": "2025-08-29T04:15:04Z"
   },
   {
@@ -451,8 +427,8 @@
     "company": "None",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 34,
-    "publicContributions": 299,
+    "privateContributions": 6,
+    "publicContributions": 309,
     "createdAt": "2025-02-01T17:36:24Z"
   },
   {

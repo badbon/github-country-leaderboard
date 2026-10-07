@@ -248,7 +248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2026-03-06T12:46:56Z"
   },
   {
@@ -260,7 +260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 48,
     "createdAt": "2025-12-28T15:26:36Z"
   },
   {
@@ -276,18 +276,6 @@
     "createdAt": "2026-04-12T12:41:53Z"
   },
   {
-    "login": "mohdahaba231-arch",
-    "name": "Mohamad Shabakji",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281496509?s=72&v=4",
-    "location": "Lebanon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-05-04T00:43:54Z"
-  },
-  {
     "login": "Hadozer",
     "name": "Hadi Alameh",
     "avatarUrl": "https://avatars.githubusercontent.com/u/254872952?s=72&u=cc0903713cdf20dd0a6471bd1558008e5740fa99&v=4",
@@ -296,7 +284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 8,
     "createdAt": "2026-01-14T09:37:59Z"
   },
   {
@@ -336,18 +324,6 @@
     "createdAt": "2026-01-22T15:40:23Z"
   },
   {
-    "login": "TonyDoesLinux",
-    "name": "Tony",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276988250?s=72&u=9ce5466f358f7b1228de8f261c0955a5f661b0bf&v=4",
-    "location": "Beirut",
-    "company": "SMS NOC Engineer @ TXTBridge",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2026-04-17T12:46:04Z"
-  },
-  {
     "login": "ralfaouad-TL",
     "name": "Ralf Aouad",
     "avatarUrl": "https://avatars.githubusercontent.com/u/272892971?s=72&v=4",
@@ -356,7 +332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2026-04-01T17:24:09Z"
   },
   {
@@ -373,14 +349,14 @@
   },
   {
     "login": "dabbousbasta",
-    "name": "دبوس البسطة",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262970783?s=72&u=b314f0da3e64c015ac66e742624847ad5e91d0d4&v=4",
+    "name": "دبوس اونلاين",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262970783?s=72&u=19d96a6539938a41e27d82f2bdc4e3ac85a67467&v=4",
     "location": "Beirut",
     "company": "مؤسسة دبوس البسطة",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 704,
+    "publicContributions": 898,
     "createdAt": "2026-02-21T09:10:42Z"
   },
   {
@@ -390,9 +366,9 @@
     "location": "Beirut Lebanon",
     "company": "SecuryTik",
     "twitterUsername": "",
-    "followers": 197,
+    "followers": 280,
     "privateContributions": 0,
-    "publicContributions": 289,
+    "publicContributions": 359,
     "createdAt": "2025-03-21T01:47:29Z"
   },
   {
@@ -402,9 +378,9 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 40,
+    "followers": 42,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 27,
     "createdAt": "2025-08-03T18:24:42Z"
   },
   {
@@ -414,9 +390,9 @@
     "location": "Aley | Lebanon ",
     "company": "UOB | 42 | inmind",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 718,
+    "publicContributions": 774,
     "createdAt": "2025-06-02T10:49:48Z"
   },
   {
@@ -426,9 +402,9 @@
     "location": "lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 192,
+    "publicContributions": 155,
     "createdAt": "2025-04-12T00:05:18Z"
   },
   {
@@ -440,7 +416,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2025-01-14T18:45:21Z"
   },
   {
@@ -452,7 +428,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 905,
+    "publicContributions": 871,
     "createdAt": "2025-02-25T10:29:46Z"
   },
   {
@@ -464,7 +440,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 40,
     "createdAt": "2025-01-25T23:24:37Z"
   },
   {
@@ -476,7 +452,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 3,
-    "publicContributions": 97,
+    "publicContributions": 52,
     "createdAt": "2025-03-20T18:00:31Z"
   },
   {

@@ -260,7 +260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 0,
     "createdAt": "2025-08-19T08:20:31Z"
   },
   {
@@ -270,7 +270,7 @@
     "location": "Tchad ",
     "company": "Aucune ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-11-17T03:26:53Z"
@@ -308,19 +308,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 1,
     "createdAt": "2025-12-16T12:10:53Z"
   },
   {
     "login": "koubra-gaby",
-    "name": "koubra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/164637552?s=72&u=1d8f812b85e63bee9db648301ef200f195d3cf76&v=4",
+    "name": "Koubra Gaby",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/164637552?s=72&u=becd6bb37fb704b9397bcc56e2b77d9fc19f39c6&v=4",
     "location": "Chad",
     "company": "",
     "twitterUsername": "KoubraG63161",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 17,
+    "privateContributions": 3,
+    "publicContributions": 15,
     "createdAt": "2024-03-23T12:42:13Z"
   },
   {
@@ -380,7 +380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 3,
     "createdAt": "2024-11-29T09:53:27Z"
   },
   {
@@ -402,9 +402,9 @@
     "location": "Tchad",
     "company": "",
     "twitterUsername": "",
-    "followers": 192,
-    "privateContributions": 390,
-    "publicContributions": 269,
+    "followers": 196,
+    "privateContributions": 381,
+    "publicContributions": 263,
     "createdAt": "2024-02-29T23:50:57Z"
   },
   {
@@ -414,9 +414,9 @@
     "location": "N'djaména-Tchad",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 88,
     "createdAt": "2024-04-13T15:44:16Z"
   },
   {
@@ -428,19 +428,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 233,
     "createdAt": "2024-05-02T15:25:49Z"
   },
   {
     "login": "Ahlam-Brahim",
-    "name": "",
+    "name": "Ahlam Brahim",
     "avatarUrl": "https://avatars.githubusercontent.com/u/186453443?s=72&v=4",
     "location": "N'Djaména-Tchad",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 43,
     "createdAt": "2024-10-27T06:43:10Z"
   },
   {

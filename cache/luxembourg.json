@@ -1,37 +1,25 @@
 [
   {
-    "login": "AbilIT-Dawid",
-    "name": "Abil'I.T. - Dawid",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259446234?s=72&u=008d58b55067e4bc9254ee39846760db6a6869fc&v=4",
-    "location": "Grand Duchy of Luxembourg",
-    "company": "Abil’I.T.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-02-04T21:45:31Z"
-  },
-  {
     "login": "Joel-Claw",
     "name": "Joel Claw",
     "avatarUrl": "https://avatars.githubusercontent.com/u/274497724?s=72&u=6151ad7258bcab251fab72deac469697e0a0aa33&v=4",
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 265,
+    "publicContributions": 271,
     "createdAt": "2026-04-08T11:24:51Z"
   },
   {
     "login": "charneuxlouis",
     "name": "Charneux Louis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255820243?s=72&u=c70dfdbf2d73507643d6f446c188fcf62cb60dc4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255820243?s=72&u=4836d03b3432493b6eccb4423b60a250403d58ec&v=4",
     "location": "Luxembourg",
     "company": "Larcier Intersentia",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 341,
+    "privateContributions": 514,
     "publicContributions": 2,
     "createdAt": "2026-01-19T07:25:06Z"
   },
@@ -55,7 +43,7 @@
     "company": "GUEHI AND CO",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-06T15:07:18Z"
   },
@@ -67,14 +55,14 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 65,
-    "publicContributions": 1624,
+    "privateContributions": 595,
+    "publicContributions": 1901,
     "createdAt": "2026-01-17T17:30:57Z"
   },
   {
     "login": "ZakharShylov",
     "name": "Zakhar Shylov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262757435?s=72&u=8f4780b86c82b9c7da98841b7753fdda7aac21eb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262757435?s=72&u=4baf9a87a5803a8e6e12610a058953be659f9199&v=4",
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
@@ -91,7 +79,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 456,
+    "privateContributions": 729,
     "publicContributions": 1,
     "createdAt": "2026-04-07T09:42:35Z"
   },
@@ -126,7 +114,7 @@
     "location": "Luxembourg",
     "company": "Cisco",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-21T21:02:57Z"
@@ -138,9 +126,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 506,
+    "publicContributions": 719,
     "createdAt": "2025-05-05T17:30:11Z"
   },
   {
@@ -150,9 +138,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 91,
     "createdAt": "2025-04-16T14:39:36Z"
   },
   {
@@ -162,9 +150,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 26,
-    "publicContributions": 529,
+    "followers": 8,
+    "privateContributions": 43,
+    "publicContributions": 618,
     "createdAt": "2025-12-08T22:17:41Z"
   },
   {
@@ -174,9 +162,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 105,
-    "publicContributions": 444,
+    "followers": 5,
+    "privateContributions": 54,
+    "publicContributions": 489,
     "createdAt": "2025-12-15T10:09:51Z"
   },
   {
@@ -187,8 +175,8 @@
     "company": "@e-comas",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 774,
-    "publicContributions": 358,
+    "privateContributions": 624,
+    "publicContributions": 332,
     "createdAt": "2025-03-07T05:39:38Z"
   },
   {
@@ -200,20 +188,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 23,
     "createdAt": "2025-01-21T12:14:44Z"
-  },
-  {
-    "login": "Zizhao-HUANG",
-    "name": "Zizhao HUANG",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206924968?s=72&u=8128f95929f43dce79f03f3b901bae29c77a920c&v=4",
-    "location": "Luxembourg",
-    "company": "University of Luxembourg",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 390,
-    "publicContributions": 438,
-    "createdAt": "2025-04-09T17:47:43Z"
   },
   {
     "login": "aira-list",
@@ -224,7 +200,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 71,
     "createdAt": "2025-02-28T10:48:10Z"
   },
   {
@@ -236,7 +212,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 294,
+    "publicContributions": 308,
     "createdAt": "2025-09-21T01:05:24Z"
   },
   {
