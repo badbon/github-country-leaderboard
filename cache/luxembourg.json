@@ -235,8 +235,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 135,
-    "publicContributions": 3,
+    "privateContributions": 236,
+    "publicContributions": 2,
     "createdAt": "2025-09-23T15:08:06Z"
   },
   {
@@ -258,9 +258,9 @@
     "location": "Luxembourg",
     "company": "TTA ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 44,
     "createdAt": "2025-03-10T11:09:22Z"
   },
   {
@@ -271,7 +271,7 @@
     "company": "Mukuna tech (MT)",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1009,
+    "privateContributions": 986,
     "publicContributions": 4,
     "createdAt": "2025-08-01T19:25:31Z"
   },
@@ -284,7 +284,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2025-01-26T19:07:27Z"
   },
   {
@@ -295,7 +295,7 @@
     "company": "Nodz",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 15977,
+    "privateContributions": 16355,
     "publicContributions": 0,
     "createdAt": "2025-07-20T09:49:26Z"
   },
@@ -320,7 +320,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-04-02T20:36:11Z"
   },
   {
@@ -332,7 +332,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 10,
     "createdAt": "2025-07-03T06:44:22Z"
   },
   {
@@ -354,15 +354,15 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2025-03-11T15:08:55Z"
   },
   {
     "login": "Katukiii",
-    "name": "Ne0",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205024213?s=72&u=d696f63163df4c0defd0cd56f491457a84f2446c&v=4",
+    "name": "Danilo Gospic Schroeder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205024213?s=72&u=e1d906cf20ba4d68c121d25b360b77d2a5bb8657&v=4",
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
@@ -374,11 +374,11 @@
   {
     "login": "BacoLXB",
     "name": "Baco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219018726?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219018726?s=72&u=dfe70c5d4ac081eeb5328e118e1630d1db99e637&v=4",
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-07-02T17:32:21Z"
@@ -392,19 +392,19 @@
     "twitterUsername": "SwaggyChrisWTLO",
     "followers": 2,
     "privateContributions": 5,
-    "publicContributions": 80,
+    "publicContributions": 82,
     "createdAt": "2025-02-24T20:52:07Z"
   },
   {
     "login": "nojura1",
-    "name": "Dmytro N.",
+    "name": "Nojura",
     "avatarUrl": "https://avatars.githubusercontent.com/u/213464979?s=72&u=41936a34958c63ed2d2ab4c2eddad4e0e2b9bc34&v=4",
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2025-05-26T14:01:17Z"
   },
   {
@@ -416,20 +416,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 175,
+    "publicContributions": 179,
     "createdAt": "2025-09-18T07:50:46Z"
-  },
-  {
-    "login": "NikolayAir",
-    "name": "Nikolay Popov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197329768?s=72&u=0e400f63d3327ba5a3b7f7301b3231b2b29d8a39&v=4",
-    "location": "Luxembourg",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 178,
-    "publicContributions": 451,
-    "createdAt": "2025-01-31T22:47:54Z"
   },
   {
     "login": "daheck23",
@@ -440,7 +428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 0,
     "createdAt": "2025-05-14T09:27:05Z"
   },
   {

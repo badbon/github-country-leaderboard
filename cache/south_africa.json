@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 212,
+    "publicContributions": 216,
     "createdAt": "2026-01-24T19:25:04Z"
   },
   {
@@ -498,7 +498,7 @@
     "location": "South Africa ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-17T17:35:59Z"
@@ -524,7 +524,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 43,
     "createdAt": "2026-04-30T11:10:47Z"
   },
   {
@@ -560,7 +560,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 21,
     "createdAt": "2026-02-19T06:22:44Z"
   },
   {
@@ -572,7 +572,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 67,
     "createdAt": "2026-02-03T17:32:15Z"
   },
   {
@@ -594,9 +594,9 @@
     "location": "Cape Town, South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 217,
-    "publicContributions": 199,
+    "publicContributions": 245,
     "createdAt": "2026-01-02T07:40:31Z"
   },
   {
@@ -618,22 +618,10 @@
     "location": "Vryheid, South Africa ",
     "company": "Hormuz-Ai ",
     "twitterUsername": "MyWork7089",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 47,
     "createdAt": "2026-04-13T17:15:15Z"
-  },
-  {
-    "login": "xandercodes404",
-    "name": "Mpomelelo Hompa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/273319974?s=72&u=4ea91f38bcb1f811cf969caff2136674a62a9516&v=4",
-    "location": "PRETORIA, SOUTH AFRICA",
-    "company": "LangCortex (RAGaaS)",
-    "twitterUsername": "xander_codes",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2026-04-03T09:21:34Z"
   },
   {
     "login": "NaidAgency",
@@ -690,9 +678,9 @@
     "location": "south africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 33,
     "createdAt": "2026-03-04T23:14:31Z"
   },
   {

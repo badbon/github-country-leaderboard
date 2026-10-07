@@ -476,7 +476,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 317,
+    "publicContributions": 363,
     "createdAt": "2026-02-12T22:36:53Z"
   },
   {
@@ -514,18 +514,6 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-02-21T17:49:34Z"
-  },
-  {
-    "login": "MrGsus201",
-    "name": "MrGsus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256225574?s=72&u=45f9dc69ea3860aea000e9e65aefe944851d96b5&v=4",
-    "location": "Caracas, Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-01-21T00:04:00Z"
   },
   {
     "login": "raymarilis",
@@ -594,9 +582,9 @@
     "location": "Carcas, Venezuela",
     "company": "@ITSU ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 61,
     "createdAt": "2026-05-05T14:11:53Z"
   },
   {
@@ -666,7 +654,7 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "AleVillegasOca",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-11T01:18:23Z"
@@ -702,9 +690,9 @@
     "location": "Caracas",
     "company": "DTSR",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 46,
-    "publicContributions": 83,
+    "followers": 9,
+    "privateContributions": 292,
+    "publicContributions": 74,
     "createdAt": "2026-03-14T15:00:04Z"
   },
   {

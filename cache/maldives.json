@@ -504,18 +504,6 @@
     "createdAt": "2023-04-05T13:05:10Z"
   },
   {
-    "login": "bart1024",
-    "name": "bart simpson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152961343?s=72&u=b5e3a130a5432d415fee16853c84bcee9456d4b5&v=4",
-    "location": "Maldives",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-12-05T08:09:12Z"
-  },
-  {
     "login": "nosyntaxdev",
     "name": "no syntax dev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/151982534?s=72&u=b6df61bf852d516ae9470d97a71e7657c8dcc455&v=4",
@@ -534,9 +522,9 @@
     "location": "Male, Maldives",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 22,
     "createdAt": "2023-03-09T16:07:54Z"
   },
   {
@@ -547,7 +535,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 44,
+    "privateContributions": 14,
     "publicContributions": 2,
     "createdAt": "2023-02-13T18:44:29Z"
   },
@@ -560,7 +548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 8,
     "createdAt": "2023-10-09T19:49:01Z"
   },
   {
@@ -572,7 +560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 14,
     "createdAt": "2023-11-04T17:29:58Z"
   },
   {
@@ -594,8 +582,8 @@
     "location": "Maldives",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 202,
+    "followers": 3,
+    "privateContributions": 217,
     "publicContributions": 15,
     "createdAt": "2023-04-18T07:20:26Z"
   },
@@ -607,8 +595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 168,
-    "privateContributions": 607,
-    "publicContributions": 582,
+    "privateContributions": 872,
+    "publicContributions": 633,
     "createdAt": "2022-02-03T18:48:52Z"
   },
   {
@@ -618,8 +606,8 @@
     "location": "Maldives",
     "company": "",
     "twitterUsername": "Samooh9820060",
-    "followers": 133,
-    "privateContributions": 1495,
+    "followers": 131,
+    "privateContributions": 1641,
     "publicContributions": 0,
     "createdAt": "2022-09-25T17:17:00Z"
   },
@@ -630,9 +618,9 @@
     "location": "Maldives",
     "company": "Javaabu",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 2108,
-    "publicContributions": 18,
+    "followers": 28,
+    "privateContributions": 3484,
+    "publicContributions": 40,
     "createdAt": "2022-03-20T09:21:32Z"
   },
   {
@@ -642,7 +630,7 @@
     "location": "Maldives",
     "company": "",
     "twitterUsername": "massry_n71085",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-23T18:38:51Z"
@@ -655,8 +643,8 @@
     "company": "Djawara LLC",
     "twitterUsername": "siiihub",
     "followers": 9,
-    "privateContributions": 708,
-    "publicContributions": 167,
+    "privateContributions": 870,
+    "publicContributions": 163,
     "createdAt": "2022-03-28T04:12:08Z"
   },
   {
@@ -668,7 +656,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 141,
+    "publicContributions": 138,
     "createdAt": "2022-03-13T14:59:46Z"
   },
   {
@@ -714,7 +702,7 @@
     "location": "Male', Republic of Maldives",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-16T16:18:50Z"

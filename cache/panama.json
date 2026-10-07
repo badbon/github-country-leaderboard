@@ -464,7 +464,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-08-23T02:40:57Z"
   },
   {
@@ -478,18 +478,6 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2025-01-20T20:17:52Z"
-  },
-  {
-    "login": "idickert",
-    "name": "Dr.D",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195772290?s=72&u=ac133c4580d33132bac572fb490ed9b2f5321f64&v=4",
-    "location": "🌎📍Panama City, Panama",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-01-20T13:43:58Z"
   },
   {
     "login": "dexmarket-labs",
@@ -536,7 +524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 82,
     "createdAt": "2025-08-04T15:27:10Z"
   },
   {
@@ -546,9 +534,9 @@
     "location": "Panama City",
     "company": "Syndicate Laboratories",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 0,
-    "publicContributions": 1303,
+    "followers": 46,
+    "privateContributions": 781,
+    "publicContributions": 604,
     "createdAt": "2024-01-10T20:31:59Z"
   },
   {
@@ -558,7 +546,7 @@
     "location": "Panama",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 32,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-21T22:40:14Z"
@@ -570,7 +558,7 @@
     "location": "Panama",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-14T23:30:25Z"
@@ -583,8 +571,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 508,
-    "publicContributions": 828,
+    "privateContributions": 313,
+    "publicContributions": 942,
     "createdAt": "2024-07-26T17:32:34Z"
   },
   {
@@ -594,9 +582,9 @@
     "location": "Panama",
     "company": "blackswan.money",
     "twitterUsername": "ate_bites",
-    "followers": 11,
-    "privateContributions": 3020,
-    "publicContributions": 152,
+    "followers": 12,
+    "privateContributions": 5383,
+    "publicContributions": 766,
     "createdAt": "2024-08-06T00:22:55Z"
   },
   {
@@ -607,8 +595,8 @@
     "company": "RoboStem",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 481,
-    "publicContributions": 64,
+    "privateContributions": 539,
+    "publicContributions": 48,
     "createdAt": "2024-04-23T14:23:48Z"
   },
   {
@@ -618,9 +606,9 @@
     "location": "Panama",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 167,
     "createdAt": "2024-11-24T06:32:57Z"
   },
   {
@@ -632,7 +620,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 3,
     "createdAt": "2024-04-09T15:55:42Z"
   },
   {
@@ -644,7 +632,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 38,
-    "publicContributions": 317,
+    "publicContributions": 276,
     "createdAt": "2024-01-30T03:56:51Z"
   },
   {
@@ -655,8 +643,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 40,
-    "publicContributions": 23,
+    "privateContributions": 9,
+    "publicContributions": 18,
     "createdAt": "2024-03-15T15:09:31Z"
   },
   {
@@ -666,9 +654,9 @@
     "location": "Panama ",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 166,
+    "publicContributions": 190,
     "createdAt": "2024-05-30T19:21:50Z"
   },
   {

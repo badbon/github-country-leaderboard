@@ -698,13 +698,13 @@
   {
     "login": "vbuyel",
     "name": "Vlad Buyel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/199084997?s=72&u=ff803086cf10eeb1c5bc3208408cb163a00a586c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199084997?s=72&u=920817161dffa853c1f262ec4b8337bb54f576e7&v=4",
     "location": "Minsk, Belarus",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 418,
+    "publicContributions": 492,
     "createdAt": "2025-02-13T12:01:23Z"
   },
   {
@@ -716,7 +716,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 44,
     "createdAt": "2025-03-14T14:26:46Z"
   },
   {
@@ -726,9 +726,9 @@
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 89,
     "createdAt": "2025-01-21T11:48:53Z"
   },
   {
@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 92,
     "createdAt": "2025-12-18T12:15:20Z"
   },
   {
@@ -751,8 +751,8 @@
     "company": "BSUIR branch of the Minsk Radiotechnical College",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 779,
+    "privateContributions": 10,
+    "publicContributions": 137,
     "createdAt": "2025-04-22T10:24:17Z"
   },
   {
@@ -764,7 +764,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 29,
     "createdAt": "2025-06-30T13:15:39Z"
   },
   {
@@ -788,7 +788,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2025-09-20T17:07:57Z"
   },
   {
@@ -824,7 +824,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 147,
     "createdAt": "2025-07-02T14:17:18Z"
   },
   {
@@ -836,7 +836,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 51,
     "createdAt": "2025-06-30T13:03:01Z"
   },
   {
@@ -848,7 +848,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 764,
+    "publicContributions": 879,
     "createdAt": "2025-05-28T07:11:24Z"
   },
   {
@@ -860,7 +860,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 48,
     "createdAt": "2025-09-08T15:15:35Z"
   },
   {
@@ -883,8 +883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 204,
+    "privateContributions": 120,
+    "publicContributions": 201,
     "createdAt": "2025-01-31T21:11:06Z"
   },
   {
@@ -896,7 +896,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 50,
     "createdAt": "2025-04-25T07:00:44Z"
   },
   {
@@ -908,7 +908,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 230,
+    "publicContributions": 172,
     "createdAt": "2025-03-26T20:19:26Z"
   },
   {
@@ -920,7 +920,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 6,
-    "publicContributions": 85,
+    "publicContributions": 57,
     "createdAt": "2025-09-02T15:03:54Z"
   },
   {
@@ -932,7 +932,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 353,
+    "publicContributions": 360,
     "createdAt": "2025-11-22T17:51:46Z"
   },
   {
@@ -129958,18 +129958,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2010-11-05T20:37:32Z"
-  },
-  {
-    "login": "GulDmitry",
-    "name": "Dmitry",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/319897?s=72&v=4",
-    "location": "Minsk / Belarus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 263,
-    "createdAt": "2010-07-01T10:12:49Z"
   },
   {
     "login": "gennick",

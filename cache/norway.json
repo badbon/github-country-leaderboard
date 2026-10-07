@@ -474,7 +474,7 @@
     "location": "Asker, Norway",
     "company": "Clubify",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-04T16:21:19Z"
@@ -486,9 +486,9 @@
     "location": "Oslo, Norway",
     "company": "Høgskolen Kristianja",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 112,
     "createdAt": "2026-04-03T12:33:20Z"
   },
   {
@@ -524,7 +524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 277,
+    "publicContributions": 348,
     "createdAt": "2026-04-26T14:15:24Z"
   },
   {
@@ -546,9 +546,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 27,
     "createdAt": "2026-02-07T22:21:32Z"
   },
   {
@@ -560,19 +560,19 @@
     "twitterUsername": "StormberryAS",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 142,
+    "publicContributions": 147,
     "createdAt": "2026-03-05T12:50:40Z"
   },
   {
     "login": "hellosverre",
-    "name": "\tSverre",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278743868?s=72&u=b7c9ebab03787354715ad5b5a499aad9f45b4918&v=4",
-    "location": "Ski, Viken, Norway",
+    "name": "Sverre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278743868?s=72&u=ccb1c05ef4b8766e3a80d10be217ba20f2c8a535&v=4",
+    "location": "Ski, Akershus, Norway",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 727,
-    "publicContributions": 18,
+    "privateContributions": 1791,
+    "publicContributions": 73,
     "createdAt": "2026-04-23T15:50:49Z"
   },
   {
@@ -608,7 +608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 28,
     "createdAt": "2026-03-27T22:30:34Z"
   },
   {
@@ -620,7 +620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 15,
     "createdAt": "2026-01-02T09:21:23Z"
   },
   {
@@ -642,9 +642,9 @@
     "location": "Norway",
     "company": "GET Academy",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 627,
+    "publicContributions": 659,
     "createdAt": "2026-01-19T11:50:20Z"
   },
   {
@@ -660,27 +660,15 @@
     "createdAt": "2026-03-27T09:01:46Z"
   },
   {
-    "login": "JonathanKing953",
-    "name": "JonathanKing953",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278311496?s=72&v=4",
-    "location": "Oslo, Norway",
-    "company": "Side Project Inc",
-    "twitterUsername": "jonathanking953dev",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-04-22T06:59:24Z"
-  },
-  {
     "login": "andyarntsen-alt",
-    "name": "Andreas arntsen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253179283?s=72&u=bd3a777a82d3e2bf05c2519725ce00490fcad132&v=4",
-    "location": "Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1294,
-    "publicContributions": 52,
+    "name": "Andreas Arntsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253179283?s=72&u=50eec3cad5be1cb39068a7b4b798b9c54818572f&v=4",
+    "location": "Oslo, Norway",
+    "company": "Kviskr",
+    "twitterUsername": "Kviskr",
+    "followers": 3,
+    "privateContributions": 1686,
+    "publicContributions": 66,
     "createdAt": "2026-01-06T01:52:21Z"
   },
   {
@@ -690,9 +678,9 @@
     "location": "Oslo, Oslo",
     "company": "Norwegian – Ukrainian Chamber of Commerce (NUCC)",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2026-03-20T16:27:58Z"
   },
   {
@@ -702,7 +690,7 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-02T14:20:07Z"

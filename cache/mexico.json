@@ -450,9 +450,9 @@
     "location": "Mexico City",
     "company": "UNAM",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 88,
     "createdAt": "2026-02-21T14:16:30Z"
   },
   {
@@ -484,11 +484,11 @@
     "name": "Josue Gutierrez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/277556189?s=72&u=c27a209e751280dd1ddc10ed3bf4e1dc2f996eb8&v=4",
     "location": "mexico",
-    "company": "",
+    "company": "Frida Labs",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 334,
+    "publicContributions": 203,
     "createdAt": "2026-04-19T21:04:52Z"
   },
   {
@@ -522,9 +522,9 @@
     "location": "Mexico City",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 158,
-    "publicContributions": 285,
+    "followers": 2,
+    "privateContributions": 164,
+    "publicContributions": 283,
     "createdAt": "2026-03-31T18:19:29Z"
   },
   {
@@ -558,7 +558,7 @@
     "location": "Mexico (Available Worldwide)",
     "company": "Freelance / Remote",
     "twitterUsername": "estebanhighleve",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2026-02-10T04:31:21Z"
@@ -582,7 +582,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-03-01T00:06:18Z"
@@ -600,18 +600,6 @@
     "createdAt": "2026-04-23T22:40:52Z"
   },
   {
-    "login": "manuelcompatai",
-    "name": "Manuel Var Ale",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/280965541?s=72&u=0426e471acb76ff394759e3a2430811b98005b9c&v=4",
-    "location": "Mexico City",
-    "company": "compaTAI",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 58,
-    "createdAt": "2026-05-01T14:04:28Z"
-  },
-  {
     "login": "elizaldejorge",
     "name": "Jorge Elizalde",
     "avatarUrl": "https://avatars.githubusercontent.com/u/276480185?s=72&u=a97677e07dc5646c4e20349778a3c1a4750455e3&v=4",
@@ -620,7 +608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 238,
-    "publicContributions": 53,
+    "publicContributions": 54,
     "createdAt": "2026-04-16T04:16:09Z"
   },
   {
@@ -666,7 +654,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 215,
     "publicContributions": 10,
     "createdAt": "2026-05-05T12:43:59Z"
@@ -680,7 +668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 14,
     "createdAt": "2026-03-15T03:57:59Z"
   },
   {

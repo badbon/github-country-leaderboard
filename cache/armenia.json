@@ -716,7 +716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-02-08T08:20:09Z"
   },
   {
@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 173,
     "createdAt": "2025-07-12T06:24:30Z"
   },
   {
@@ -751,8 +751,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1340,
+    "privateContributions": 772,
+    "publicContributions": 1241,
     "createdAt": "2025-04-14T10:37:32Z"
   },
   {
@@ -799,8 +799,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
-    "publicContributions": 7,
+    "privateContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2025-06-04T11:18:09Z"
   },
   {
@@ -812,20 +812,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2025-01-07T09:51:42Z"
-  },
-  {
-    "login": "LeonidasMurphy",
-    "name": "Leonidas Magnus Murphy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/239626307?s=72&u=a403fe1b792a78eefbc7e13a248d30a447db0f1d&v=4",
-    "location": "Armenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2025-10-22T15:57:58Z"
   },
   {
     "login": "natdexterra",
@@ -834,9 +822,9 @@
     "location": "Armenia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 637,
     "createdAt": "2025-05-16T11:08:44Z"
   },
   {
@@ -858,7 +846,7 @@
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-07-15T12:22:19Z"
@@ -872,7 +860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 25,
     "createdAt": "2025-12-06T15:55:24Z"
   },
   {
@@ -884,19 +872,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 69,
     "createdAt": "2025-04-26T15:21:26Z"
   },
   {
     "login": "SantiagoLeyton",
-    "name": "Santiago Leyton Academic",
+    "name": "Santiago Leyton",
     "avatarUrl": "https://avatars.githubusercontent.com/u/197788836?s=72&u=60562aa7c4a5394f6f48a6012924fc5020b29dd7&v=4",
     "location": "Armenia, Quindío, Colombia",
     "company": "CUE Alexander von Humboldt",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 176,
     "createdAt": "2025-02-04T15:59:43Z"
   },
   {

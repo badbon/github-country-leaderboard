@@ -692,7 +692,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 64,
     "createdAt": "2026-04-14T17:33:57Z"
   },
   {
@@ -726,9 +726,9 @@
     "location": "Vienna",
     "company": "Phii Music",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2025-12-27T09:41:48Z"
   },
   {
@@ -775,7 +775,7 @@
     "company": "TU Wien",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 55,
+    "privateContributions": 116,
     "publicContributions": 1,
     "createdAt": "2026-04-19T15:45:15Z"
   },
@@ -824,7 +824,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2026-03-19T16:15:58Z"
   },
   {
@@ -910,18 +910,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-11T11:53:13Z"
-  },
-  {
-    "login": "Natasa03-viz",
-    "name": "Natasa Maksimovic, MSc",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253294710?s=72&u=a7ee7bec62ce917d1bcd0e0ade6784b19a23f431&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 55,
-    "createdAt": "2026-01-06T13:40:36Z"
   },
   {
     "login": "juanmanuelpch96",

@@ -524,7 +524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-09-13T13:19:58Z"
   },
   {
@@ -547,8 +547,8 @@
     "company": "no data",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 222,
-    "publicContributions": 57,
+    "privateContributions": 202,
+    "publicContributions": 55,
     "createdAt": "2025-01-14T17:35:57Z"
   },
   {
@@ -560,7 +560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-09-03T11:01:58Z"
   },
   {
@@ -572,7 +572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 75,
     "createdAt": "2025-11-22T00:30:39Z"
   },
   {
@@ -584,7 +584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 4,
     "createdAt": "2025-01-01T21:54:07Z"
   },
   {
@@ -608,7 +608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 18,
     "createdAt": "2025-03-10T08:09:30Z"
   },
   {
@@ -620,20 +620,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 56,
     "createdAt": "2025-12-26T12:40:16Z"
-  },
-  {
-    "login": "citrusmd",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216843659?s=72&v=4",
-    "location": "Moldova",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2025-06-18T07:26:35Z"
   },
   {
     "login": "MiskamDev",
@@ -644,7 +632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-02-25T20:07:05Z"
   },
   {
@@ -656,7 +644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 61,
     "createdAt": "2025-11-22T17:57:09Z"
   },
   {
@@ -668,7 +656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 238,
+    "publicContributions": 252,
     "createdAt": "2025-04-07T06:32:00Z"
   },
   {
@@ -692,7 +680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2025-04-15T07:47:05Z"
   },
   {
@@ -703,8 +691,8 @@
     "company": "",
     "twitterUsername": "Vlad1mir9",
     "followers": 1,
-    "privateContributions": 442,
-    "publicContributions": 97,
+    "privateContributions": 672,
+    "publicContributions": 107,
     "createdAt": "2025-07-13T17:46:45Z"
   },
   {
@@ -714,9 +702,9 @@
     "location": "Chișinău",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 84,
     "createdAt": "2025-10-01T07:10:42Z"
   },
   {

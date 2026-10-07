@@ -476,7 +476,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 23,
     "createdAt": "2024-05-29T12:52:15Z"
   },
   {
@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 48,
     "createdAt": "2024-12-23T10:41:25Z"
   },
   {
@@ -500,7 +500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2024-06-23T16:03:49Z"
   },
   {
@@ -512,7 +512,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 74,
     "createdAt": "2024-09-01T17:08:40Z"
   },
   {
@@ -524,20 +524,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 176,
     "createdAt": "2024-04-03T19:07:38Z"
-  },
-  {
-    "login": "klaschukk",
-    "name": "klaschuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178824815?s=72&u=de5e13c53ae0ce8e2a51fa52809e9a47e09a5ce2&v=4",
-    "location": "montenegro",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 111,
-    "publicContributions": 6,
-    "createdAt": "2024-08-19T17:14:23Z"
   },
   {
     "login": "IrinaOksenoid",
@@ -619,8 +607,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 64,
-    "publicContributions": 311,
+    "privateContributions": 65,
+    "publicContributions": 317,
     "createdAt": "2024-07-19T11:09:04Z"
   },
   {
@@ -644,7 +632,7 @@
     "twitterUsername": "",
     "followers": 60,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 7,
     "createdAt": "2023-08-22T11:14:20Z"
   },
   {
@@ -676,11 +664,11 @@
     "name": "Amer Hot",
     "avatarUrl": "https://avatars.githubusercontent.com/u/138532734?s=72&u=86f3ea0d293ef6d17fffa7878e954c9bfece97fc&v=4",
     "location": "Montenegro",
-    "company": "",
+    "company": "Infinum",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 173,
+    "publicContributions": 122,
     "createdAt": "2023-07-03T21:59:01Z"
   },
   {

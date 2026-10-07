@@ -523,21 +523,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 11,
-    "publicContributions": 21,
+    "privateContributions": 13,
+    "publicContributions": 19,
     "createdAt": "2026-03-08T17:18:50Z"
-  },
-  {
-    "login": "ManicShadow",
-    "name": "ManicShadow",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282544363?s=72&u=1ab9038af6c63a774873f71f6ffd63d0a1ac005e&v=4",
-    "location": "Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2026-05-07T10:13:54Z"
   },
   {
     "login": "ioanamarinelababa1",
@@ -547,7 +535,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1273,
+    "privateContributions": 1532,
     "publicContributions": 324,
     "createdAt": "2026-01-22T17:34:39Z"
   },
@@ -644,7 +632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 43,
     "createdAt": "2026-02-17T06:19:33Z"
   },
   {
@@ -667,7 +655,7 @@
     "company": "Freelancer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 97,
+    "privateContributions": 99,
     "publicContributions": 10,
     "createdAt": "2026-04-14T21:01:14Z"
   },
@@ -691,8 +679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 158,
-    "publicContributions": 584,
+    "privateContributions": 340,
+    "publicContributions": 513,
     "createdAt": "2026-02-12T08:28:06Z"
   },
   {
@@ -715,7 +703,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 16,
+    "privateContributions": 17,
     "publicContributions": 16,
     "createdAt": "2026-03-07T11:14:50Z"
   },

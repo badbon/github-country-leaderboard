@@ -260,7 +260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 12,
     "createdAt": "2026-02-03T20:23:47Z"
   },
   {
@@ -312,18 +312,6 @@
     "createdAt": "2026-02-10T22:44:32Z"
   },
   {
-    "login": "yuanjuque",
-    "name": "Wanderly ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279467636?s=72&u=98f838b4241e4ed14ed73af7a69a6fa9086ac49b&v=4",
-    "location": "Riga",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2026-04-26T13:31:27Z"
-  },
-  {
     "login": "aleks-at-levelpath",
     "name": "Aleks Grisins",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255837031?s=72&u=e33e73e93ccdf16cba5cf3b75b13d8137169815b&v=4",
@@ -331,7 +319,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1071,
+    "privateContributions": 1669,
     "publicContributions": 1,
     "createdAt": "2026-01-19T09:00:55Z"
   },
@@ -354,9 +342,9 @@
     "location": "Latvia",
     "company": "IO Technology",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 42,
     "createdAt": "2025-09-02T10:00:54Z"
   },
   {
@@ -366,7 +354,7 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 29,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-25T17:44:09Z"
@@ -378,7 +366,7 @@
     "location": "latvia ᯓ★",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 28,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-04T21:58:39Z"
@@ -390,9 +378,9 @@
     "location": "Riga, Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 0,
     "createdAt": "2025-02-24T19:00:04Z"
   },
   {
@@ -414,7 +402,7 @@
     "location": "Riga, Latvia",
     "company": "Freelance | ThreatOps Consultant",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-19T10:33:09Z"
@@ -426,9 +414,9 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 18,
     "createdAt": "2025-09-30T08:22:58Z"
   },
   {
@@ -438,9 +426,9 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 7,
+    "followers": 8,
+    "privateContributions": 7,
+    "publicContributions": 111,
     "createdAt": "2025-09-02T07:46:13Z"
   },
   {
@@ -457,14 +445,14 @@
   },
   {
     "login": "dizanskyy",
-    "name": "dizanskyy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229528978?s=72&u=cbadfc92a0032400f9e02baabe5b1666c23d1083&v=4",
+    "name": "dizansky",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229528978?s=72&u=e8434ef26bcb4a9c1e640d5dbf1e792d583cd6ea&v=4",
     "location": "latvia",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 70,
+    "privateContributions": 117,
+    "publicContributions": 85,
     "createdAt": "2025-08-30T21:54:07Z"
   },
   {

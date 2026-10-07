@@ -752,7 +752,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 41,
     "createdAt": "2021-05-10T18:42:03Z"
   },
   {
@@ -780,18 +780,6 @@
     "createdAt": "2021-12-07T23:17:46Z"
   },
   {
-    "login": "kanyemckinney",
-    "name": "Kanyé McKinney",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78094780?s=72&u=7f2b7c49ff4cd3447033b8299eed25c28518eb5d&v=4",
-    "location": "Nassau, Bahamas",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2021-01-27T15:21:53Z"
-  },
-  {
     "login": "nhayling",
     "name": "Noah Hayling",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96629617?s=72&v=4",
@@ -799,7 +787,7 @@
     "company": "@archipelagoapps",
     "twitterUsername": "nhayling_",
     "followers": 4,
-    "privateContributions": 360,
+    "privateContributions": 545,
     "publicContributions": 0,
     "createdAt": "2021-12-24T16:38:37Z"
   },
@@ -818,13 +806,13 @@
   {
     "login": "EnochThurston42",
     "name": "Enoch Thurston",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96479199?s=72&u=bcff1fb46cb84ccac875b8583e7995c9fdd1bcaf&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96479199?s=72&u=20e534cf90888f0580c3803c66fdebde874d3eee&v=4",
     "location": "Nassau, Bahamas",
     "company": "Talonverse",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 99,
-    "publicContributions": 59,
+    "privateContributions": 14,
+    "publicContributions": 29,
     "createdAt": "2021-12-21T12:45:08Z"
   },
   {
@@ -835,7 +823,7 @@
     "company": "Freelance",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 19,
+    "privateContributions": 9,
     "publicContributions": 1,
     "createdAt": "2021-11-01T04:19:23Z"
   },
@@ -876,18 +864,6 @@
     "createdAt": "2021-08-27T12:57:32Z"
   },
   {
-    "login": "MarknelJacques",
-    "name": "Marknel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81645471?s=72&u=5f6d8871e09f1b53523d2a9a769a757ffe50a735&v=4",
-    "location": "Bahamas",
-    "company": "",
-    "twitterUsername": "jacques_marknel",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-03-30T18:05:30Z"
-  },
-  {
     "login": "CoreyMckenzie",
     "name": "Corey Mckenzie",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84005339?s=72&u=fb8ccedb33005110ec281d58161a94ad5e28785a&v=4",
@@ -895,8 +871,8 @@
     "company": "@SoLucian-bs ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 87,
-    "publicContributions": 1,
+    "privateContributions": 71,
+    "publicContributions": 0,
     "createdAt": "2021-05-11T06:47:46Z"
   },
   {

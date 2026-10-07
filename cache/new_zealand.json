@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 75,
     "createdAt": "2026-05-04T22:29:51Z"
   },
   {
@@ -500,7 +500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 9,
     "createdAt": "2026-02-28T22:38:10Z"
   },
   {
@@ -524,7 +524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 94,
     "createdAt": "2026-03-01T04:27:39Z"
   },
   {
@@ -536,7 +536,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 109,
     "createdAt": "2026-01-28T04:06:26Z"
   },
   {
@@ -595,8 +595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 139,
+    "privateContributions": 419,
+    "publicContributions": 144,
     "createdAt": "2026-03-22T11:03:49Z"
   },
   {
@@ -606,7 +606,7 @@
     "location": "Wellington, New Zealand",
     "company": "@alpheroltd",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-11T04:33:56Z"
@@ -656,7 +656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 69,
     "createdAt": "2026-02-26T04:55:54Z"
   },
   {
@@ -672,18 +672,6 @@
     "createdAt": "2026-05-03T23:40:40Z"
   },
   {
-    "login": "rustidi98",
-    "name": "Rustem Idiiatullin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257923730?s=72&u=d7757e7c81125c62b0ec9e764a3cdc228522e49b&v=4",
-    "location": "Kazan, Russia · relocating to Auckland, New Zealand",
-    "company": "Signalo",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 7581,
-    "publicContributions": 46,
-    "createdAt": "2026-01-29T04:48:28Z"
-  },
-  {
     "login": "queerfilmreviews",
     "name": "Queer Film Reviews",
     "avatarUrl": "https://avatars.githubusercontent.com/u/273081851?s=72&v=4",
@@ -692,20 +680,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2026-04-02T11:01:17Z"
-  },
-  {
-    "login": "rachellangford1988-cmd",
-    "name": "Rachel3569",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256506206?s=72&v=4",
-    "location": "New zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-01-22T07:07:18Z"
   },
   {
     "login": "jaspertatex-ops",

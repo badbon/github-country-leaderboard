@@ -500,7 +500,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 89,
     "createdAt": "2025-01-11T12:30:10Z"
   },
   {
@@ -524,7 +524,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2025-05-17T09:31:34Z"
   },
   {
@@ -548,7 +548,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 447,
+    "publicContributions": 484,
     "createdAt": "2025-09-28T15:56:41Z"
   },
   {
@@ -560,7 +560,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 435,
+    "publicContributions": 436,
     "createdAt": "2025-08-14T18:40:15Z"
   },
   {
@@ -594,9 +594,9 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 32,
     "createdAt": "2025-09-07T13:58:25Z"
   },
   {
@@ -608,19 +608,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 347,
+    "publicContributions": 291,
     "createdAt": "2025-02-27T17:20:09Z"
   },
   {
     "login": "NuranKarimbayli",
-    "name": "Nuran",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/238876822?s=72&v=4",
+    "name": "Nuran63",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238876822?s=72&u=428d4eb9d2d71923a6bc72da4b748009e04e334d&v=4",
     "location": "Lithuania, Vilnius city",
-    "company": "",
+    "company": "@vgtu",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 2,
-    "publicContributions": 15,
+    "publicContributions": 33,
     "createdAt": "2025-10-18T16:04:07Z"
   },
   {
@@ -630,9 +630,9 @@
     "location": "Vilnius, Lithuania",
     "company": "EPAM Systems",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 119,
     "createdAt": "2025-04-28T19:41:34Z"
   },
   {
@@ -654,7 +654,7 @@
     "location": "Kaunas, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2025-11-29T10:57:34Z"
@@ -703,8 +703,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 29,
-    "publicContributions": 15,
+    "privateContributions": 30,
+    "publicContributions": 14,
     "createdAt": "2025-09-11T13:24:54Z"
   },
   {
@@ -715,8 +715,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 35,
-    "publicContributions": 4,
+    "privateContributions": 4,
+    "publicContributions": 17,
     "createdAt": "2025-02-05T07:36:01Z"
   },
   {

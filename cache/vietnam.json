@@ -462,7 +462,7 @@
     "location": "Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
+    "followers": 34,
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2026-01-26T05:04:49Z"
@@ -474,7 +474,7 @@
     "location": "Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 0,
     "publicContributions": 34,
     "createdAt": "2026-01-25T15:14:46Z"
@@ -486,7 +486,7 @@
     "location": "Ho Chi Minh City, Vietnam",
     "company": "DHQG TPHCM",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 28,
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2026-02-06T12:16:21Z"
@@ -498,7 +498,7 @@
     "location": "Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 28,
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2026-01-19T09:32:10Z"
@@ -510,22 +510,10 @@
     "location": "Vietnam",
     "company": "Da Nang University of Science and Technology",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 4310,
+    "publicContributions": 4207,
     "createdAt": "2026-03-31T02:44:22Z"
-  },
-  {
-    "login": "duy-phamduc68",
-    "name": "Yuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/251842523?s=72&u=1a62dbed09d5523062fe37a918511d605cc7b3ac&v=4",
-    "location": "Vietnam",
-    "company": "",
-    "twitterUsername": "yukyukano",
-    "followers": 21,
-    "privateContributions": 0,
-    "publicContributions": 120,
-    "createdAt": "2025-12-28T10:05:11Z"
   },
   {
     "login": "bongpink809-afk",
@@ -534,9 +522,9 @@
     "location": "VietNam",
     "company": "",
     "twitterUsername": "gbongpink",
-    "followers": 18,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 66,
     "createdAt": "2026-04-22T07:06:30Z"
   },
   {
@@ -678,7 +666,7 @@
     "location": "Vietnam",
     "company": "",
     "twitterUsername": "CcCZeuZCcC",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-21T16:16:58Z"

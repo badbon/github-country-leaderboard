@@ -690,22 +690,10 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 80,
     "createdAt": "2026-04-20T21:33:21Z"
-  },
-  {
-    "login": "lorenzoschoovaerts",
-    "name": "Lorenzo Schoovaerts",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/265785512?s=72&u=6819a0e24dd3744d931bb6b758037e4c93900d81&v=4",
-    "location": "Belgium",
-    "company": "Massive AI Dynamics",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-05T11:02:48Z"
   },
   {
     "login": "ArmandoDellaCorte",
@@ -806,13 +794,13 @@
   {
     "login": "Mish4ry",
     "name": "Mishary",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264540541?s=72&u=f07615f88fb5458394c50e90ab0fb5a4cd351114&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264540541?s=72&u=9a9089fe1296b3f3424fb52d56945b89e3a0dcf2&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 69,
-    "publicContributions": 117,
+    "privateContributions": 0,
+    "publicContributions": 164,
     "createdAt": "2026-02-28T02:08:03Z"
   },
   {
@@ -824,7 +812,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 23,
     "createdAt": "2025-01-24T14:38:27Z"
   },
   {
@@ -834,9 +822,9 @@
     "location": "Brussels",
     "company": "Tmonier",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 653,
-    "publicContributions": 712,
+    "followers": 14,
+    "privateContributions": 1341,
+    "publicContributions": 714,
     "createdAt": "2026-02-26T22:03:41Z"
   },
   {
@@ -846,9 +834,9 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 24,
+    "followers": 11,
+    "privateContributions": 27,
+    "publicContributions": 65,
     "createdAt": "2026-02-08T19:13:41Z"
   },
   {
@@ -872,7 +860,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 115,
     "createdAt": "2026-03-09T03:05:44Z"
   },
   {
@@ -884,7 +872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2026-02-06T22:34:03Z"
   },
   {
@@ -894,8 +882,8 @@
     "location": "Brussels ",
     "company": "@lilidi-ai",
     "twitterUsername": "tetiana_ai",
-    "followers": 1,
-    "privateContributions": 16432,
+    "followers": 2,
+    "privateContributions": 19422,
     "publicContributions": 6,
     "createdAt": "2026-01-26T11:36:33Z"
   },

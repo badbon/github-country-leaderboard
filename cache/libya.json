@@ -236,7 +236,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 21,
     "createdAt": "2025-03-01T10:28:02Z"
   },
   {
@@ -248,7 +248,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 59,
     "createdAt": "2025-12-19T18:57:10Z"
   },
   {
@@ -258,21 +258,21 @@
     "location": "libya",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 819,
+    "publicContributions": 1020,
     "createdAt": "2025-04-16T02:24:13Z"
   },
   {
     "login": "isitmaede",
     "name": "Maede",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/202567745?s=72&u=213fa6d4491cc64629686eb20f921d09563abd94&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202567745?s=72&u=5a29f7d0893dca7fa1fde78913ee2bfeea1a03b3&v=4",
     "location": "libya",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 135,
     "createdAt": "2025-03-10T01:07:04Z"
   },
   {
@@ -283,7 +283,7 @@
     "company": "N/A",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 352,
+    "privateContributions": 356,
     "publicContributions": 2,
     "createdAt": "2025-04-30T22:51:23Z"
   },
@@ -296,7 +296,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 0,
     "createdAt": "2025-08-12T18:41:28Z"
   },
   {
@@ -332,7 +332,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 186,
+    "publicContributions": 173,
     "createdAt": "2025-08-06T14:58:50Z"
   },
   {
@@ -344,7 +344,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 31,
     "createdAt": "2025-10-05T22:45:43Z"
   },
   {
@@ -368,7 +368,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 64,
     "createdAt": "2025-06-10T14:49:22Z"
   },
   {
@@ -378,9 +378,9 @@
     "location": "Libya",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 8,
     "createdAt": "2025-08-06T23:31:46Z"
   },
   {
@@ -450,22 +450,10 @@
     "location": "Libya - Tripoli",
     "company": "Computer Engineering Student at  Saraya Hamra University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-14T08:11:10Z"
-  },
-  {
-    "login": "0xmahmoudaldaly",
-    "name": "Mahmoud Aldali",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/210597073?s=72&u=b842cfc822cb24c02aec14ccc4696e16f2216878&v=4",
-    "location": "Tripoli, Libya",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2025-05-06T19:23:21Z"
   },
   {
     "login": "itzzaluneee",

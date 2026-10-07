@@ -716,7 +716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 78,
     "createdAt": "2025-03-27T11:01:04Z"
   },
   {
@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 0,
     "createdAt": "2025-04-14T16:46:38Z"
   },
   {
@@ -752,7 +752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 37,
     "createdAt": "2025-11-11T10:14:11Z"
   },
   {
@@ -774,22 +774,10 @@
     "location": "Kochi|Manama|Patna",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 2,
-    "publicContributions": 108,
+    "publicContributions": 114,
     "createdAt": "2025-02-22T14:17:27Z"
-  },
-  {
-    "login": "PowerEdgeR710",
-    "name": "wheatley",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175993908?s=72&u=460a094033b7339be41afaff4298c50f5accbaf6&v=4",
-    "location": "Bahrain",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 9,
-    "publicContributions": 79,
-    "createdAt": "2024-07-19T00:38:47Z"
   },
   {
     "login": "Mohamed-Alasfoor",
@@ -806,13 +794,13 @@
   {
     "login": "Msr7799",
     "name": "mohamed alromaihi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/172179837?s=72&u=ef14dd1b60217ae3a06444c0163f1e7113215a0a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172179837?s=72&u=f433af815a3c5f5f511b46cf8e56f3a9e0b8f06a&v=4",
     "location": "bahrain",
     "company": "msr",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 571,
+    "publicContributions": 576,
     "createdAt": "2024-06-09T10:05:00Z"
   },
   {
@@ -824,7 +812,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2024-08-15T15:54:51Z"
   },
   {
@@ -834,7 +822,7 @@
     "location": "Bahrain",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-30T06:12:22Z"
@@ -846,7 +834,7 @@
     "location": "Kingdom of Bahrain",
     "company": "PactaHealth",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 28,
     "createdAt": "2024-02-09T13:44:31Z"
@@ -858,9 +846,9 @@
     "location": "Bahrain",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 20,
     "createdAt": "2024-04-27T02:05:13Z"
   },
   {
@@ -868,11 +856,11 @@
     "name": "Ebrahim Tawfeeq Abdulla",
     "avatarUrl": "https://avatars.githubusercontent.com/u/157697547?s=72&u=c06079644de5d9b0076fb0f53d06f376594e00a3&v=4",
     "location": "Bahrain",
-    "company": "BIBF",
+    "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 198,
-    "publicContributions": 34,
+    "privateContributions": 205,
+    "publicContributions": 76,
     "createdAt": "2024-01-25T10:38:04Z"
   },
   {
@@ -883,7 +871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1179,
+    "privateContributions": 1691,
     "publicContributions": 18,
     "createdAt": "2024-03-20T17:40:49Z"
   },
@@ -894,21 +882,21 @@
     "location": "Bahrain",
     "company": "Euro University of Bahrain",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
+    "followers": 11,
+    "privateContributions": 49,
     "publicContributions": 0,
     "createdAt": "2024-03-17T06:33:09Z"
   },
   {
     "login": "9dmx",
     "name": "flash",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185071482?s=72&u=4edd0b0a7f43bc34d2fe02e15e5a6af240658ce3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185071482?s=72&u=56233fb324d6e640a8447fa8f3feb2bbbc1a7c3b&v=4",
     "location": "Bahrain",
     "company": "Bahrain Polytechnic",
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 19,
     "createdAt": "2024-10-15T11:54:33Z"
   },
   {
@@ -920,7 +908,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 165,
     "createdAt": "2024-09-09T12:56:13Z"
   },
   {
@@ -930,9 +918,9 @@
     "location": "Bahrain",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 95,
-    "publicContributions": 250,
+    "followers": 8,
+    "privateContributions": 33,
+    "publicContributions": 292,
     "createdAt": "2024-06-23T06:54:56Z"
   },
   {
@@ -942,9 +930,9 @@
     "location": "Bahrain",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 76,
     "createdAt": "2024-03-21T23:08:00Z"
   },
   {
