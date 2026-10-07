@@ -30,8 +30,8 @@ Indexed users: 4,926
 | 16 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla | Tallinn | 10,790 |
 | 17 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 10,475 |
 | 18 | [Kypsis](https://github.com/Kypsis) | Harry Sild | Estonia | 10,406 |
-| 19 | [krishaamer](https://github.com/krishaamer) | Kris Haamer | Estonia / Portugal / Sao Tomé / Taiwan | 10,174 |
-| 20 | [thomasklemm](https://github.com/thomasklemm) | Thomas Klemm | Tallinn, Estonia | 9,980 |
+| 19 | [Socialpranker](https://github.com/Socialpranker) | Ion | Tallinn, Estonia | 10,228 |
+| 20 | [krishaamer](https://github.com/krishaamer) | Kris Haamer | Estonia / Portugal / Sao Tomé / Taiwan | 10,174 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,926
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 391 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T05:54:13.811Z

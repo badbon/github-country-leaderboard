@@ -70,17 +70,17 @@ Indexed users: 19,359
 | 6 | [ColdGrub1384](https://github.com/ColdGrub1384) | Emma Cold | Chile | 624 |
 | 7 | [tyronejosee](https://github.com/tyronejosee) | Tyrone José | Chile | 565 |
 | 8 | [montoyamoraga](https://github.com/montoyamoraga) | aarón montoya-moraga | Chile | 564 |
-| 9 | [aledbf](https://github.com/aledbf) | Manuel Alejandro de Brito Fontes | Santiago, Chile | 523 |
-| 10 | [jbkunst](https://github.com/jbkunst) | Joshua Kunst | Chile | 517 |
-| 11 | [maaferna](https://github.com/maaferna) | MarcoAntonioParra | Chillan, Chile | 512 |
-| 12 | [breadsk](https://github.com/breadsk) | Nicolas | Chile | 504 |
-| 13 | [tomas](https://github.com/tomas) | Tomás Pollak | Valdivia, Chile | 497 |
-| 14 | [Blandskron](https://github.com/Blandskron) | Bastian Landskron | Santiago Chile | 476 |
-| 15 | [RRUZ](https://github.com/RRUZ) | Rodrigo Ruz | Valdivia, Chile. | 452 |
-| 16 | [tdewolff](https://github.com/tdewolff) | Taco de Wolff | Netherlands / Chile | 436 |
-| 17 | [korbek99](https://github.com/korbek99) | Jose Bustos  | Santiago , Chile | 434 |
-| 18 | [rivaquiroga](https://github.com/rivaquiroga) | Riva Quiroga | Valparaíso, Chile | 431 |
-| 19 | [clsource](https://github.com/clsource) | Camilo | BEAM, Chile | 421 |
-| 20 | [Dieg0Code](https://github.com/Dieg0Code) | Diego | Chile | 420 |
+| 9 | [maria-rcks](https://github.com/maria-rcks) | maria | Santiago, Chile | 554 |
+| 10 | [aledbf](https://github.com/aledbf) | Manuel Alejandro de Brito Fontes | Santiago, Chile | 523 |
+| 11 | [jbkunst](https://github.com/jbkunst) | Joshua Kunst | Chile | 517 |
+| 12 | [maaferna](https://github.com/maaferna) | MarcoAntonioParra | Chillan, Chile | 512 |
+| 13 | [breadsk](https://github.com/breadsk) | Nicolas | Chile | 504 |
+| 14 | [tomas](https://github.com/tomas) | Tomás Pollak | Valdivia, Chile | 497 |
+| 15 | [Blandskron](https://github.com/Blandskron) | Bastian Landskron | Santiago Chile | 476 |
+| 16 | [RRUZ](https://github.com/RRUZ) | Rodrigo Ruz | Valdivia, Chile. | 452 |
+| 17 | [tdewolff](https://github.com/tdewolff) | Taco de Wolff | Netherlands / Chile | 436 |
+| 18 | [korbek99](https://github.com/korbek99) | Jose Bustos  | Santiago , Chile | 434 |
+| 19 | [rivaquiroga](https://github.com/rivaquiroga) | Riva Quiroga | Valparaíso, Chile | 431 |
+| 20 | [clsource](https://github.com/clsource) | Camilo | BEAM, Chile | 421 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-30T22:33:31.962Z

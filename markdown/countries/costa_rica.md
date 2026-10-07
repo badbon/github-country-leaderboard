@@ -53,10 +53,10 @@ Indexed users: 5,637
 | 14 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar | Costa Rica | 2,301 |
 | 15 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Costa Rica | 2,263 |
 | 16 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | Costa Rica | 2,028 |
-| 17 | [esoto](https://github.com/esoto) | Esteban Soto | Costa Rica | 1,823 |
-| 18 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 1,803 |
-| 19 | [quesadx](https://github.com/quesadx) | Matteo Quesada | Costa Rica | 1,704 |
-| 20 | [Absulit](https://github.com/Absulit) | Sebastian Sanabria Diaz | Costa Rica | 1,678 |
+| 17 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Costa Rica | 1,860 |
+| 18 | [esoto](https://github.com/esoto) | Esteban Soto | Costa Rica | 1,823 |
+| 19 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 1,803 |
+| 20 | [quesadx](https://github.com/quesadx) | Matteo Quesada | Costa Rica | 1,704 |
 
 ## Followers
 
@@ -79,8 +79,8 @@ Indexed users: 5,637
 | 15 | [dryajov](https://github.com/dryajov) | Dmitriy Ryajov | San Jose, Costa Rica | 250 |
 | 16 | [brolag](https://github.com/brolag) | Alfredo Bonilla | Costa Rica | 203 |
 | 17 | [davedash](https://github.com/davedash) | Dave Dash | San José, CA | 203 |
-| 18 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
-| 19 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
-| 20 | [maaku](https://github.com/maaku) | Mark Friedenbach | San José, CA | 161 |
+| 18 | [Crisrod0912](https://github.com/Crisrod0912) | Cristopher Rodríguez | Alajuela, Costa Rica | 189 |
+| 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
+| 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-01T13:38:07.110Z

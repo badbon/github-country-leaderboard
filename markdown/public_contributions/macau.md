@@ -1,8 +1,8 @@
 # Public Contributions - Macau
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:01:06.619Z
 
-Users: 456
+Users: 455
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,7 +20,7 @@ Users: 456
 | 12 | [comsaint](https://github.com/comsaint) | comsaint |  |  | Macau | 758 |
 | 13 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 713 |
 | 14 | [ariel-lee-1023](https://github.com/ariel-lee-1023) | Ariel Lee |  |  | Macau | 678 |
-| 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 595 |
+| 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |
 | 16 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 575 |
 | 17 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 535 |
 | 18 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 464 |

@@ -1,6 +1,6 @@
 # Total Contributions - Estonia
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T05:54:13.811Z
 
 Users: 4926
 
@@ -24,5 +24,5 @@ Users: 4926
 | 16 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla |  |  | Tallinn | 10790 |
 | 17 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Enthusiastic Data Management |  | Tallinn, Estonia | 10475 |
 | 18 | [Kypsis](https://github.com/Kypsis) | Harry Sild |  |  | Estonia | 10406 |
-| 19 | [krishaamer](https://github.com/krishaamer) | Kris Haamer | Haamer Ventures OÜ | krishaamer | Estonia / Portugal / Sao Tomé / Taiwan | 10174 |
-| 20 | [thomasklemm](https://github.com/thomasklemm) | Thomas Klemm |  | thomasklemm | Tallinn, Estonia | 9980 |
+| 19 | [Socialpranker](https://github.com/Socialpranker) | Ion |  |  | Tallinn, Estonia | 10228 |
+| 20 | [krishaamer](https://github.com/krishaamer) | Kris Haamer | Haamer Ventures OÜ | krishaamer | Estonia / Portugal / Sao Tomé / Taiwan | 10174 |

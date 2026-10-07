@@ -31,7 +31,7 @@ Indexed users: 132
 | 17 | [intricate](https://github.com/intricate) | Luke | Barbados | 381 |
 | 18 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 352 |
 | 19 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 347 |
-| 20 | [jlayne246](https://github.com/jlayne246) | Joshua Layne | Bridgetown, Barbados | 333 |
+| 20 | [sheenaxiv](https://github.com/sheenaxiv) | Sheena W. | Barbados | 331 |
 
 ## Public Contributions
 
@@ -41,7 +41,7 @@ Indexed users: 132
 | 2 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 588 |
 | 3 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 403 |
 | 4 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 352 |
-| 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne | Bridgetown, Barbados | 333 |
+| 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne | Bridgetown, Barbados | 309 |
 | 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley | Barbados | 269 |
 | 7 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 250 |
 | 8 | [BlueRoyy](https://github.com/BlueRoyy) | Kenroy Ronnie Roach | Barbados | 226 |
@@ -50,13 +50,13 @@ Indexed users: 132
 | 11 | [kernrocke](https://github.com/kernrocke) | Kern Rocke | Bridgetown, Barbados | 180 |
 | 12 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 144 |
 | 13 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte | Barbados | 107 |
-| 14 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 100 |
-| 15 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 88 |
-| 16 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 86 |
-| 17 | [baebranch](https://github.com/baebranch) | Brian Branch | Barbados | 79 |
-| 18 | [starsden](https://github.com/starsden) | den | Barbados | 74 |
-| 19 | [VladoPlavsic](https://github.com/VladoPlavsic) | Vlado Plavsic | Barbados | 61 |
-| 20 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 57 |
+| 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 88 |
+| 15 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 86 |
+| 16 | [baebranch](https://github.com/baebranch) | Brian Branch | Barbados | 79 |
+| 17 | [starsden](https://github.com/starsden) | den | Barbados | 74 |
+| 18 | [VladoPlavsic](https://github.com/VladoPlavsic) | Vlado Plavsic | Barbados | 61 |
+| 19 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 57 |
+| 20 | [Rayh23](https://github.com/Rayh23) | Raynel | Barbados | 49 |
 
 ## Followers
 
@@ -66,7 +66,7 @@ Indexed users: 132
 | 2 | [kaku2015](https://github.com/kaku2015) | FishingNet | Barbados | 424 |
 | 3 | [iRoachie](https://github.com/iRoachie) | Kyle Roach | Barbados | 296 |
 | 4 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 273 |
-| 5 | [AnalystLiv](https://github.com/AnalystLiv) | Liv 📊 | Barbados 🇧🇧 | 164 |
+| 5 | [AnalystLiv](https://github.com/AnalystLiv) | Liv 📊 | Barbados 🇧🇧 | 162 |
 | 6 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 84 |
 | 7 | [adevbuildingstuff](https://github.com/adevbuildingstuff) | Owan Hunte | Barbados | 48 |
 | 8 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 31 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 | 20 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 10 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-29T13:10:57.798Z

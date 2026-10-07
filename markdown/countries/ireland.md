@@ -1,6 +1,6 @@
 # Ireland
 
-Indexed users: 19,531
+Indexed users: 19,530
 
 | Leaderboard | Link |
 |---|---|
@@ -48,12 +48,12 @@ Indexed users: 19,531
 | 9 | [morganmcg1](https://github.com/morganmcg1) | Morgan McGuire | Dublin, Ireland | 10,243 |
 | 10 | [trakhimenok](https://github.com/trakhimenok) | Alexander Trakhimenok | Limerick, Ireland | 9,051 |
 | 11 | [Nelson-Lamounier](https://github.com/Nelson-Lamounier) | Nelson Lamounier | Dublin | 7,971 |
-| 12 | [shivtcdfinance](https://github.com/shivtcdfinance) | Shiv Rao | Dublin, Ireland | 7,804 |
-| 13 | [bact](https://github.com/bact) | Arthit Suriyawongkul | Dublin and Bangkok | 7,039 |
-| 14 | [pjfanning](https://github.com/pjfanning) | PJ Fanning | Kilkenny, Ireland | 6,421 |
-| 15 | [pshirshov](https://github.com/pshirshov) | Paul S. | Dublin | 6,310 |
-| 16 | [FintanH](https://github.com/FintanH) | Fintan Halpenny | Dublin | 6,281 |
-| 17 | [matheuscscp](https://github.com/matheuscscp) | Matheus Pimenta | Dublin, Ireland | 6,177 |
+| 12 | [bact](https://github.com/bact) | Arthit Suriyawongkul | Dublin and Bangkok | 7,039 |
+| 13 | [pjfanning](https://github.com/pjfanning) | PJ Fanning | Kilkenny, Ireland | 6,421 |
+| 14 | [pshirshov](https://github.com/pshirshov) | Paul S. | Dublin | 6,310 |
+| 15 | [FintanH](https://github.com/FintanH) | Fintan Halpenny | Dublin | 6,281 |
+| 16 | [matheuscscp](https://github.com/matheuscscp) | Matheus Pimenta | Dublin, Ireland | 6,177 |
+| 17 | [shivtcdfinance](https://github.com/shivtcdfinance) | Shiv Rao | Dublin, Ireland | 5,605 |
 | 18 | [stack72](https://github.com/stack72) | Paul Stack | Derry, Ireland | 5,378 |
 | 19 | [dmzoneill](https://github.com/dmzoneill) | Dave | Ireland | 5,328 |
 | 20 | [jdrumgoole](https://github.com/jdrumgoole) | Joe Drumgoole | Dublin | 5,151 |
@@ -83,4 +83,4 @@ Indexed users: 19,531
 | 19 | [damienmaguire](https://github.com/damienmaguire) | Damien Maguire | Ireland | 1,045 |
 | 20 | [afshinm](https://github.com/afshinm) | Afshin Mehrabani | Dublin, Ireland | 1,037 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-03T21:35:55.078Z

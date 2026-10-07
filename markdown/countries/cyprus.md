@@ -44,8 +44,8 @@ Indexed users: 2,751
 | 5 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 3,829 |
 | 6 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 3,635 |
 | 7 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,618 |
-| 8 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,137 |
-| 9 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 2,842 |
+| 8 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,467 |
+| 9 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,137 |
 | 10 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 2,780 |
 | 11 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 2,706 |
 | 12 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
@@ -83,4 +83,4 @@ Indexed users: 2,751
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-01T14:39:15.519Z

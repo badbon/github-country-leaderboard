@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,682
+Indexed users: 5,681
 
 | Leaderboard | Link |
 |---|---|
@@ -18,16 +18,16 @@ Indexed users: 5,682
 | 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 34,165 |
 | 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 13,277 |
 | 6 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | Kazakhstan, Almaty | 12,873 |
-| 7 | [uzarsalan](https://github.com/uzarsalan) | Arsalan | Astana, Kazakhstan | 12,368 |
-| 8 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 10,853 |
-| 9 | [alexey-abblix](https://github.com/alexey-abblix) | Alexey Poltorak | Astana, Kazakhstan | 10,659 |
-| 10 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | Kazakhstan | 10,357 |
-| 11 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 9,875 |
-| 12 | [neokofg](https://github.com/neokofg) | neoko | Almaty, Kazakhstan | 9,093 |
-| 13 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Kazakhstan | 8,323 |
-| 14 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Kazakhstan, Astana | 8,236 |
-| 15 | [jmelnikov](https://github.com/jmelnikov) | Yuriy Melnikov | Almaty, Kazakhstan | 7,925 |
-| 16 | [enganese](https://github.com/enganese) | Ulan Aitbay | Aktau, Kazakhstan / Almaty, Kazakhstan | 7,835 |
+| 7 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 12,675 |
+| 8 | [uzarsalan](https://github.com/uzarsalan) | Arsalan | Astana, Kazakhstan | 12,368 |
+| 9 | [enganese](https://github.com/enganese) | Ulan Aitbay | Aktau, Kazakhstan / Almaty, Kazakhstan | 11,740 |
+| 10 | [alexey-abblix](https://github.com/alexey-abblix) | Alexey Poltorak | Astana, Kazakhstan | 10,659 |
+| 11 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | Kazakhstan | 10,357 |
+| 12 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 9,875 |
+| 13 | [neokofg](https://github.com/neokofg) | neoko | Almaty, Kazakhstan | 9,093 |
+| 14 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Kazakhstan | 8,323 |
+| 15 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Kazakhstan, Astana | 8,236 |
+| 16 | [jmelnikov](https://github.com/jmelnikov) | Yuriy Melnikov | Almaty, Kazakhstan | 7,925 |
 | 17 | [LeventySeven](https://github.com/LeventySeven) | Slava | Almaty, Kazakhstan | 7,750 |
 | 18 | [abdymazhit](https://github.com/abdymazhit) | Islam Abdymazhit | Almaty, Kazakhstan | 7,687 |
 | 19 | [kuanysh-beisembayev](https://github.com/kuanysh-beisembayev) | Kuanysh Beisembayev | Almaty, Kazakhstan | 7,654 |
@@ -38,12 +38,12 @@ Indexed users: 5,682
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 13,277 |
-| 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 10,764 |
-| 3 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 10,124 |
+| 2 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 11,946 |
+| 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 10,764 |
 | 4 | [yaskhan](https://github.com/yaskhan) | Yaskhan | Kazakhstan | 3,748 |
-| 5 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | Qazaqstan | 3,538 |
-| 6 | [dchernykh1984](https://github.com/dchernykh1984) | Denis | Kazakhstan, Almaty | 3,230 |
-| 7 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said | Kazakhstan | 3,071 |
+| 5 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said | Kazakhstan | 3,646 |
+| 6 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | Qazaqstan | 3,538 |
+| 7 | [dchernykh1984](https://github.com/dchernykh1984) | Denis | Kazakhstan, Almaty | 3,230 |
 | 8 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Astana | 3,047 |
 | 9 | [AnmiTaliDev](https://github.com/AnmiTaliDev) | AnmiTaliDev | Kazakhstan, Kostanay | 2,899 |
 | 10 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov | Kazakhstan | 2,861 |
@@ -83,4 +83,4 @@ Indexed users: 5,682
 | 19 | [Alex009](https://github.com/Alex009) | Aleksey Mikhailov | Astana | 378 |
 | 20 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-04T06:13:15.847Z

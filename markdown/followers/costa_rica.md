@@ -1,6 +1,6 @@
 # Followers - Costa Rica
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-01T13:38:07.110Z
 
 Users: 5637
 
@@ -23,6 +23,6 @@ Users: 5637
 | 15 | [dryajov](https://github.com/dryajov) | Dmitriy Ryajov |  | dryajov | San Jose, Costa Rica | 250 |
 | 16 | [brolag](https://github.com/brolag) | Alfredo Bonilla |  | brolag | Costa Rica | 203 |
 | 17 | [davedash](https://github.com/davedash) | Dave Dash | DadOps, LLC | davedash | San José, CA | 203 |
-| 18 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Microsoft | stvansolano | Costa Rica | 189 |
-| 19 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel |  |  | Costa Rica | 165 |
-| 20 | [maaku](https://github.com/maaku) | Mark Friedenbach |  |  | San José, CA | 161 |
+| 18 | [Crisrod0912](https://github.com/Crisrod0912) | Cristopher Rodríguez | Universidad Fidélitas |  | Alajuela, Costa Rica | 189 |
+| 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Microsoft | stvansolano | Costa Rica | 189 |
+| 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel |  |  | Costa Rica | 165 |

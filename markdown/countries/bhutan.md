@@ -40,23 +40,23 @@ Indexed users: 270
 | 1 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 2,304 |
 | 2 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 1,419 |
 | 3 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Bhutan | 1,108 |
-| 4 | [twangyel](https://github.com/twangyel) | Tandin Wangyel | Bhutan | 920 |
-| 5 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | Thimphu | 885 |
-| 6 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 440 |
-| 7 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 406 |
+| 4 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | Thimphu | 1,014 |
+| 5 | [twangyel](https://github.com/twangyel) | Tandin Wangyel | Bhutan | 920 |
+| 6 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 679 |
+| 7 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 440 |
 | 8 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 390 |
 | 9 | [nimaytenzin](https://github.com/nimaytenzin) |  | Bhutan | 358 |
-| 10 | [bishal-dd](https://github.com/bishal-dd) | Bishal | Bhutan | 318 |
-| 11 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 260 |
-| 12 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Bhutan | 259 |
-| 13 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 228 |
+| 10 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 327 |
+| 11 | [bishal-dd](https://github.com/bishal-dd) | Bishal | Bhutan | 318 |
+| 12 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 260 |
+| 13 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Bhutan | 259 |
 | 14 | [ugyenchoden](https://github.com/ugyenchoden) | ugyen choden | Thimphu, Bhutan | 186 |
-| 15 | [Art-sys-86](https://github.com/Art-sys-86) | Art | Bhutan | 152 |
-| 16 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | Thimphu, IT Park | 148 |
+| 15 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | Thimphu, IT Park | 148 |
+| 16 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo | Bhutan | 132 |
 | 17 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 125 |
 | 18 | [devdgna](https://github.com/devdgna) | Dev | Kingdom of Bhutan | 122 |
 | 19 | [b1swa25](https://github.com/b1swa25) | Sandip Biswa | Bhutan | 120 |
-| 20 | [AmitPokhrel05082002](https://github.com/AmitPokhrel05082002) | Amit Sharma | Babesa, Thimphu | 118 |
+| 20 | [Art-sys-86](https://github.com/Art-sys-86) | Art | Bhutan | 119 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 270
 | 19 | [EshanB101](https://github.com/EshanB101) | Eshan Basnet | Thimphu, Bhutan | 22 |
 | 20 | [cybertronbaka](https://github.com/cybertronbaka) | Dorji Gyeltshen | Thimphu, Bhutan | 21 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-29T22:32:30.130Z

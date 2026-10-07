@@ -1,6 +1,6 @@
 # Followers - Fiji
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T05:55:53.854Z
 
 Users: 329
 
@@ -23,6 +23,6 @@ Users: 329
 | 15 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 23 |
 | 16 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 23 |
 | 17 | [anuraag165](https://github.com/anuraag165) | Anuraag Raj | Mindpearl |  | Suva, Fiji | 22 |
-| 18 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 21 |
+| 18 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 22 |
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 20 |
-| 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | The University of the South Pacific |  | Fiji | 17 |
+| 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | The University of the South Pacific |  | Fiji | 18 |

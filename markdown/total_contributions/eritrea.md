@@ -1,15 +1,15 @@
 # Total Contributions - Eritrea
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T05:54:06.231Z
 
 Users: 17
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | GeezLab |  | Stockholm \|\| Daejeon \|\| Asmara | 2408 |
-| 2 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis |  |  | Asmara, Eritrea | 2130 |
-| 3 | [shaminzo](https://github.com/shaminzo) | Sham Mesfn |  |  | Asmara | 11 |
-| 4 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | @HotelAsmaraPalace | afatinong | Eritrea | 2 |
+| 1 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis |  |  | Asmara, Eritrea | 4440 |
+| 2 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | GeezLab |  | Stockholm \|\| Daejeon \|\| Asmara | 2375 |
+| 3 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | @HotelAsmaraPalace | afatinong | Eritrea | 18 |
+| 4 | [shaminzo](https://github.com/shaminzo) | Sham Mesfn |  |  | Asmara | 11 |
 | 5 | [aigemito](https://github.com/aigemito) | Amanuel Isack Gebreendrias | emito |  | Asmara,Eritrea | 0 |
 | 6 | [CycloneInitiatives](https://github.com/CycloneInitiatives) | Cyclone Intiatives | Cyclone Initiative Foundation |  | Asmara, Eritrea | 0 |
 | 7 | [EStudioApps](https://github.com/EStudioApps) |  | EriTel Telecommunication Company |  | Asmara, Eritrea | 0 |

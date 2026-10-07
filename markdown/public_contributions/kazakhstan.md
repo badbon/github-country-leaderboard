@@ -1,18 +1,18 @@
 # Public Contributions - Kazakhstan
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-04T06:13:15.847Z
 
-Users: 5682
+Users: 5681
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [yrn-dev](https://github.com/yrn-dev) | Yernur | AI institute |  | Kazakhstan, Kyzylorda | 13277 |
-| 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | @NDDev-it-com |  | Kazakhstan/World | 10764 |
-| 3 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger |  | Manss_dev | Almaty, Kazakhstan | 10124 |
+| 2 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger |  | Manss_dev | Almaty, Kazakhstan | 11946 |
+| 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | @NDDev-it-com |  | Kazakhstan/World | 10764 |
 | 4 | [yaskhan](https://github.com/yaskhan) | Yaskhan |  |  | Kazakhstan | 3748 |
-| 5 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | SJ |  | Qazaqstan | 3538 |
-| 6 | [dchernykh1984](https://github.com/dchernykh1984) | Denis |  |  | Kazakhstan, Almaty | 3230 |
-| 7 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said |  | said3223 | Kazakhstan | 3071 |
+| 5 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said |  | said3223 | Kazakhstan | 3646 |
+| 6 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | SJ |  | Qazaqstan | 3538 |
+| 7 | [dchernykh1984](https://github.com/dchernykh1984) | Denis |  |  | Kazakhstan, Almaty | 3230 |
 | 8 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Documentolog |  | Astana | 3047 |
 | 9 | [AnmiTaliDev](https://github.com/AnmiTaliDev) | AnmiTaliDev | @AnmiTaliDev (?) |  | Kazakhstan, Kostanay | 2899 |
 | 10 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov |  |  | Kazakhstan | 2861 |

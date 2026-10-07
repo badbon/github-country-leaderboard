@@ -1,13 +1,13 @@
 # Followers - Antigua and Barbuda
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-29T06:06:30.929Z
 
 Users: 12
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [MeshaMakes](https://github.com/MeshaMakes) | Mesha | Nimble | MeshaMakes | Antigua and Barbuda | 20 |
-| 2 | [Dark-St-r](https://github.com/Dark-St-r) | Shemar Aundrey Abel |  | Dark_St_r | Antigua and Barbuda | 14 |
+| 2 | [Dark-St-r](https://github.com/Dark-St-r) | Shemar Aundrey Abel |  | Dark_St_r | Antigua and Barbuda | 15 |
 | 3 | [lerontonge](https://github.com/lerontonge) | Leron T | \\ | UnderpaidDev | Antigua and Barbuda | 12 |
 | 4 | [dadlian](https://github.com/dadlian) | Sven James | TickeTing Inc. |  | Antigua and Barbuda | 7 |
 | 5 | [danausx](https://github.com/danausx) | Denis Sandalini | Monarch Technologies |  | Antigua and Barbuda | 6 |

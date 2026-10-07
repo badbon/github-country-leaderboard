@@ -1,6 +1,6 @@
 # Followers - Lithuania
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-06T18:40:11.737Z
 
 Users: 5413
 
@@ -11,7 +11,7 @@ Users: 5413
 | 3 | [PovilasKorop](https://github.com/PovilasKorop) |  | Laravel Course Creator | PovilasKorop | Vilnius, Lithuania | 2744 |
 | 4 | [aras-p](https://github.com/aras-p) | Aras Pranckevičius |  | aras_p | Kaunas, Lithuania | 2531 |
 | 5 | [irenemmassy](https://github.com/irenemmassy) | Irene Arvydas Ranonis | Codemarketi |  | Lithuania  | 680 |
-| 6 | [laimonas2g](https://github.com/laimonas2g) | Laimonas |  |  | Kaunas, Lithuania | 568 |
+| 6 | [laimonas2g](https://github.com/laimonas2g) | Laimonas |  |  | Kaunas, Lithuania | 539 |
 | 7 | [kibertoad](https://github.com/kibertoad) | Igor Savin | Lokalise | kibertoad | Vilnius | 395 |
 | 8 | [remrc](https://github.com/remrc) | Remigijus |  |  | Lithuania | 395 |
 | 9 | [l3pp4rd](https://github.com/l3pp4rd) | Gediminas Morkevicius | @Satalia  |  | Kaunas, Lithuania | 374 |

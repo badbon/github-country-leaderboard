@@ -1,6 +1,6 @@
 # Followers - Curaçao
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-01T14:38:42.546Z
 
 Users: 53
 
@@ -19,9 +19,9 @@ Users: 53
 | 11 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Cursoft Development & Consultancy NV | rascoop | Willemstad, Curaçao, Dutch Caribbean | 16 |
 | 12 | [ekid](https://github.com/ekid) | Ekid | Eflavour |  | Willemstad | 13 |
 | 13 | [r3c4ll](https://github.com/r3c4ll) | Ali Moreno | XenoTrue N.V. | r3c4ll | Willemstad, Curaçao. | 13 |
-| 14 | [evobersi](https://github.com/evobersi) | Erica |  |  | Willemstad | 7 |
-| 15 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | EcoLabs | LuukDAO | Curaçao | 7 |
-| 16 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas |  | bythealphabet1 | Willemstad, Curacao | 6 |
+| 14 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas |  | bythealphabet1 | Willemstad, Curacao | 7 |
+| 15 | [evobersi](https://github.com/evobersi) | Erica |  |  | Willemstad | 7 |
+| 16 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | EcoLabs | LuukDAO | Curaçao | 7 |
 | 17 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Ten-O-5 B.V |  | Curaçao | 6 |
 | 18 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 6 |
 | 19 | [michaelfinies](https://github.com/michaelfinies) | Michelangelo Finies | Student |  | Curaçao | 6 |

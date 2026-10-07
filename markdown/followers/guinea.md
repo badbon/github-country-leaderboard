@@ -1,6 +1,6 @@
 # Followers - Guinea
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T12:59:35.570Z
 
 Users: 265
 
@@ -18,11 +18,11 @@ Users: 265
 | 10 | [moudjames23](https://github.com/moudjames23) | Mamoudou Diallo |  |  | Guinea | 28 |
 | 11 | [fiicode](https://github.com/fiicode) | fiicode | fiicode |  | Guinea | 26 |
 | 12 | [Salif50](https://github.com/Salif50) | Salif SUMA | Club des jeunes programmeurs |  | République de Guinée | 25 |
-| 13 | [TheBlackDude](https://github.com/TheBlackDude) | Ousmane Seidy Diallo | Easy Solar |  | Guinea, Conakry | 24 |
-| 14 | [thebestofAKB](https://github.com/thebestofAKB) | Abdoul Karim Baldé | Freelance | abdoulkarimbal9 | Conakry, Guinea | 21 |
-| 15 | [massazoum](https://github.com/massazoum) | Massa Zoumanigui | Full-Stack Developer | zoumaniguimass1 | Guinea | 20 |
-| 16 | [mamadou6c](https://github.com/mamadou6c) | Mamadou | Haven |  | Guinea | 18 |
-| 17 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Nimba Solution | CisseCellou | Conakry, Guinée | 13 |
-| 18 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | KInnovate |  | Conakry | 13 |
-| 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | GUB GROUP |  | Guinée, conakry | 12 |
-| 20 | [ouryhub](https://github.com/ouryhub) | OURY BARRY  |  |  | Guinea | 12 |
+| 13 | [nlbkc2025-cell](https://github.com/nlbkc2025-cell) | Nabybk | Ycan Group |  | Conakry  | 24 |
+| 14 | [TheBlackDude](https://github.com/TheBlackDude) | Ousmane Seidy Diallo | Easy Solar |  | Guinea, Conakry | 24 |
+| 15 | [thebestofAKB](https://github.com/thebestofAKB) | Abdoul Karim Baldé | Freelance | abdoulkarimbal9 | Conakry, Guinea | 21 |
+| 16 | [massazoum](https://github.com/massazoum) | Massa Zoumanigui | Full-Stack Developer | zoumaniguimass1 | Guinea | 20 |
+| 17 | [mamadou6c](https://github.com/mamadou6c) | Mamadou | Haven |  | Guinea | 18 |
+| 18 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Nimba Solution | CisseCellou | Conakry, Guinée | 13 |
+| 19 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | KInnovate |  | Conakry | 13 |
+| 20 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | GUB GROUP |  | Guinée, conakry | 12 |

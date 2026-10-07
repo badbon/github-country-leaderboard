@@ -12,24 +12,24 @@ Indexed users: 3
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 770 |
-| 2 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 699 |
-| 3 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 88 |
+| 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 684 |
+| 2 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 553 |
+| 3 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 65 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 237 |
-| 2 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 87 |
+| 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 232 |
+| 2 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 64 |
 | 3 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 26 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 98 |
+| 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 91 |
 | 2 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 50 |
-| 3 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 9 |
+| 3 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 8 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-30T13:16:37.808Z

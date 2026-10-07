@@ -1,16 +1,16 @@
 # Followers - Eritrea
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T05:54:06.231Z
 
 Users: 17
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | GeezLab |  | Stockholm \|\| Daejeon \|\| Asmara | 62 |
+| 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | GeezLab |  | Stockholm \|\| Daejeon \|\| Asmara | 63 |
 | 2 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | @HotelAsmaraPalace | afatinong | Eritrea | 7 |
 | 3 | [aigemito](https://github.com/aigemito) | Amanuel Isack Gebreendrias | emito |  | Asmara,Eritrea | 5 |
-| 4 | [EStudioApps](https://github.com/EStudioApps) |  | EriTel Telecommunication Company |  | Asmara, Eritrea | 3 |
-| 5 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis |  |  | Asmara, Eritrea | 2 |
+| 4 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis |  |  | Asmara, Eritrea | 2 |
+| 5 | [EStudioApps](https://github.com/EStudioApps) |  | EriTel Telecommunication Company |  | Asmara, Eritrea | 2 |
 | 6 | [CycloneInitiatives](https://github.com/CycloneInitiatives) | Cyclone Intiatives | Cyclone Initiative Foundation |  | Asmara, Eritrea | 1 |
 | 7 | [hailefreecodecampcoder](https://github.com/hailefreecodecampcoder) |  | FreeCodeCamp |  | Eritrea | 1 |
 | 8 | [heno2021](https://github.com/heno2021) | Henok Okbay Yemesghen | Eritrean Electric Corporation |  | Asmara, Eritrea | 1 |

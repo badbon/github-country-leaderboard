@@ -1,6 +1,6 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-29T13:09:30.507Z
 
 Users: 736
 
@@ -22,7 +22,7 @@ Users: 736
 | 14 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN |  |  | Bahrain | 3138 |
 | 15 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 3108 |
 | 16 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 2781 |
-| 17 | [halalgami](https://github.com/halalgami) | Algam |  |  | Bahrain | 2395 |
-| 18 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 2319 |
-| 19 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 2299 |
-| 20 | [haroonabidawan](https://github.com/haroonabidawan) | Haroon Abid | Nordic Holdings |  | Manama | 2028 |
+| 17 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham |  |  | Bahrain | 2409 |
+| 18 | [halalgami](https://github.com/halalgami) | Algam |  |  | Bahrain | 2395 |
+| 19 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 2319 |
+| 20 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 2299 |

@@ -1,6 +1,6 @@
 # Public Contributions - Benin
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-29T13:12:39.285Z
 
 Users: 476
 
@@ -9,20 +9,20 @@ Users: 476
 | 1 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy |  |  | Cotonou, Benin | 7558 |
 | 2 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | @ProGestionSoft  | SteveAsterAfovo | Abomey-Calavi, Benin | 6861 |
 | 3 | [Crazyde](https://github.com/Crazyde) | ACHIDI Corneille |  |  | Cotonou, Benin | 2435 |
-| 4 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda |  |  | Benin | 1935 |
+| 4 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda |  |  | Benin | 1870 |
 | 5 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE |  |  | Benin | 1766 |
 | 6 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée |  |  | Abomey-Calavi, Atlantique, Benin | 1443 |
-| 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba |  | jprud667 | Benin, cotonou | 1229 |
-| 8 | [Hop-Syder](https://github.com/Hop-Syder) | ISMAEL CHRISTIAN DAOUDA ABASSI |  |  | Benin | 1125 |
-| 9 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou |  |  | Porto-Novo, Bénin | 1120 |
-| 10 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | AbDev - Freelance | abdev229 | Cotonou, Benin | 1071 |
-| 11 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | HERNOTIX Tech | F_hermas22 | Abomey-Calavi, Benin | 980 |
-| 12 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | BELLOX |  | Cotonou,Littoral, Benin | 970 |
-| 13 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE |  |  | Benin | 954 |
-| 14 | [Souraka229](https://github.com/Souraka229) | Souraka HAMIDA | Restafy |  | Cotonou, Benin | 906 |
-| 15 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | @ibleducation |  | Cotonou, Republic of Benin | 855 |
-| 16 | [silassare](https://github.com/silassare) | Emile Silas Sare | @oliup-io  | silassare | Porto-Novo, Benin | 830 |
-| 17 | [eldomagan](https://github.com/eldomagan) | Eldo Magan |  | EldoMagan | Cotonou, Benin | 816 |
-| 18 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 686 |
-| 19 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Leading Edge virtual Insight  | Nuelaagafie | Benin | 658 |
-| 20 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 620 |
+| 7 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE |  |  | Benin | 1345 |
+| 8 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba |  | jprud667 | Benin, cotonou | 1229 |
+| 9 | [Hop-Syder](https://github.com/Hop-Syder) | ISMAEL CHRISTIAN DAOUDA ABASSI |  |  | Benin | 1125 |
+| 10 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou |  |  | Porto-Novo, Bénin | 1120 |
+| 11 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | AbDev - Freelance | abdev229 | Cotonou, Benin | 1071 |
+| 12 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | HERNOTIX Tech | F_hermas22 | Abomey-Calavi, Benin | 980 |
+| 13 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | @ibleducation |  | Cotonou, Republic of Benin | 855 |
+| 14 | [silassare](https://github.com/silassare) | Emile Silas Sare | @oliup-io  | silassare | Porto-Novo, Benin | 830 |
+| 15 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | BELLOX |  | Cotonou,Littoral, Benin | 827 |
+| 16 | [eldomagan](https://github.com/eldomagan) | Eldo Magan |  | EldoMagan | Cotonou, Benin | 816 |
+| 17 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 686 |
+| 18 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Leading Edge virtual Insight  | Nuelaagafie | Benin | 658 |
+| 19 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 620 |
+| 20 | [nXhermane](https://github.com/nXhermane) | nXhermane |  |  | Benin | 612 |

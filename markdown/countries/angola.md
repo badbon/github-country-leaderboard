@@ -12,7 +12,7 @@ Indexed users: 2,510
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 25,545 |
+| 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 32,825 |
 | 2 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Angola, Luanda | 10,715 |
 | 3 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Angola | 10,064 |
 | 4 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | LUANDA | 9,293 |
@@ -37,7 +37,7 @@ Indexed users: 2,510
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 24,409 |
+| 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 31,686 |
 | 2 | [Kamuku](https://github.com/Kamuku) | Avelino Rufino | Luanda, Angola | 2,760 |
 | 3 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
 | 4 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  Luanda, Angola 🇦🇴 | 2,056 |
@@ -83,4 +83,4 @@ Indexed users: 2,510
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-28T23:41:24.282Z

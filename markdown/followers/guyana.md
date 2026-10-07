@@ -1,6 +1,6 @@
 # Followers - Guyana
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T12:59:48.783Z
 
 Users: 187
 
@@ -8,7 +8,7 @@ Users: 187
 |---:|---|---|---|---|---|---:|
 | 1 | [xwings](https://github.com/xwings) | xwings | Qiling Framework | onlyxwings | Georgetown, Penang | 331 |
 | 2 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 250 |
-| 3 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 236 |
+| 3 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 233 |
 | 4 | [skylerto](https://github.com/skylerto) | Skyler Layne | ShuttleOps |  | Georgetown, ON | 98 |
 | 5 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 58 |
 | 6 | [tylerwhall](https://github.com/tylerwhall) | Tyler Hall | Lexmark |  | Georgetown, KY | 49 |

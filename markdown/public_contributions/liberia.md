@@ -1,14 +1,14 @@
 # Public Contributions - Liberia
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-06T00:25:27.443Z
 
-Users: 212
+Users: 211
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 1310 |
-| 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera |  |  | Liberia | 1038 |
-| 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Vendorad |  | Liberia | 676 |
+| 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera |  |  | Liberia | 1142 |
+| 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Vendorad |  | Liberia | 737 |
 | 4 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | FRONT-END DEVELOPER | efmomoh | Monrovia, Liberia | 651 |
 | 5 | [timtjoe](https://github.com/timtjoe) | Timothy T. Joe |  | timothytjoe | Liberia, West Africa | 581 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 517 |
@@ -20,9 +20,9 @@ Users: 212
 | 12 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo |  |  | Monrovia, Liberia | 213 |
 | 13 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr |  | simeonatarr862 | Buchanan City, Liberia | 210 |
 | 14 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | TBAY Tech Service | FitzgeraldChal | Ontario, Canada & Monrovia, Liberia | 208 |
-| 15 | [Jerry2001397](https://github.com/Jerry2001397) | Emmanuel Jerry Jr  | Tech Bridge Liberia-TBL |  | Monrovia, Liberia  | 201 |
-| 16 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 199 |
-| 17 | [tommyiversonj](https://github.com/tommyiversonj) | Tommy Iverson Johnson | Partners In Health | tiversonj | Liberia | 192 |
-| 18 | [Sayon-okai](https://github.com/Sayon-okai) | Sayon T. Okai | Student - Starz University Liberia  |  | Liberia | 179 |
-| 19 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 178 |
-| 20 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 167 |
+| 15 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 199 |
+| 16 | [tommyiversonj](https://github.com/tommyiversonj) | Tommy Iverson Johnson | Partners In Health | tiversonj | Liberia | 192 |
+| 17 | [Sayon-okai](https://github.com/Sayon-okai) | Sayon T. Okai | Student - Starz University Liberia  |  | Liberia | 179 |
+| 18 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 178 |
+| 19 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 167 |
+| 20 | [Nexdata](https://github.com/Nexdata) | Nexdata | Nexdata Technology Inc. | nexdata_ai | Monrovia | 162 |

@@ -1,6 +1,6 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-01T14:39:15.519Z
 
 Users: 2751
 
@@ -13,8 +13,8 @@ Users: 2751
 | 5 | [servitola](https://github.com/servitola) | Adik Servitola |  |  | Cyprus | 3829 |
 | 6 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | @PostHog | richardsolomou | Cyprus | 3635 |
 | 7 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou |  | nicolaou_nicos | Nicosia, Cyprus | 3618 |
-| 8 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | KAINOTOMO PH LTD  |  | Cyprus  | 3137 |
-| 9 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Candaş Öz |  | Kıbrıs | 2842 |
+| 8 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Candaş Öz |  | Kıbrıs | 3467 |
+| 9 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | KAINOTOMO PH LTD  |  | Cyprus  | 3137 |
 | 10 | [VizzleTF](https://github.com/VizzleTF) | Ivan K |  |  | Cyprus | 2780 |
 | 11 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov |  |  | Cyprus, Limassol | 2706 |
 | 12 | [nekto007](https://github.com/nekto007) | Igor |  | Nekto_007 | Limassol, Cyprus | 2695 |

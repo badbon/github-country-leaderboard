@@ -1,6 +1,6 @@
 # Followers - Honduras
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T22:30:11.401Z
 
 Users: 1269
 
@@ -10,7 +10,7 @@ Users: 1269
 | 2 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | @AvantiPoint | DanJSiegel | Roatan, Honduras | 518 |
 | 3 | [BryanAnariba](https://github.com/BryanAnariba) | Bryan Anariba | UNAH |  | Honduras | 400 |
 | 4 | [Turupawn](https://github.com/Turupawn) | Ahmed Castro |  | FilosofiaCodigo | San Pedro Sula, Honduras | 322 |
-| 5 | [BANARIBA](https://github.com/BANARIBA) | ARIEL ANARIBA | Seguros Crefisa |  | Honduras | 313 |
+| 5 | [BANARIBA](https://github.com/BANARIBA) | ARIEL ANARIBA | Seguros Crefisa |  | Honduras | 307 |
 | 6 | [obetancourthunicah](https://github.com/obetancourthunicah) | Orlando J Betancourth Alvarenga | UNICAH |  | Tegucigalpa Honduras | 234 |
 | 7 | [salvatoretrimarchi](https://github.com/salvatoretrimarchi) | Salvatore Josue Trimarchi Pinto | Salvatore Trimarchi |  | Honduras | 182 |
 | 8 | [DavidBrionesFF](https://github.com/DavidBrionesFF) | Jose David Briones Rosa | NaT Technologies S. A | aprendefacil101 | Tegucigalpa, Honduras, C,A | 179 |

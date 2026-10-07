@@ -1,6 +1,6 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T12:57:45.873Z
 
 Users: 85
 
@@ -15,14 +15,14 @@ Users: 85
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1580 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 884 |
 | 9 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU |  |  | Guadeloupe | 702 |
-| 10 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 554 |
-| 11 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 530 |
-| 12 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 438 |
-| 13 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 429 |
-| 14 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR |  |  | Basse-Terre, Guadeloupe | 133 |
-| 15 | [rgdgs](https://github.com/rgdgs) | Ruben G | @DG-Software-GP  |  | Guadeloupe | 108 |
-| 16 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Axial-Host |  | Guadeloupe | 91 |
-| 17 | [mperouma](https://github.com/mperouma) | Mathias P. | SCOP ARL SINOUVE |  | Guadeloupe | 80 |
-| 18 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 78 |
-| 19 | [KaribbeanCreative](https://github.com/KaribbeanCreative) | Karibbean Creative |  |  | Guadeloupe | 74 |
-| 20 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Gwadaweb | rubatdub | Guadeloupe | 68 |
+| 10 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 674 |
+| 11 | [nath971](https://github.com/nath971) | N |  |  | Guadeloupe | 656 |
+| 12 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 554 |
+| 13 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 438 |
+| 14 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 429 |
+| 15 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 144 |
+| 16 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR |  |  | Basse-Terre, Guadeloupe | 133 |
+| 17 | [rgdgs](https://github.com/rgdgs) | Ruben G | @DG-Software-GP  |  | Guadeloupe | 108 |
+| 18 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Axial-Host |  | Guadeloupe | 91 |
+| 19 | [mperouma](https://github.com/mperouma) | Mathias P. | SCOP ARL SINOUVE |  | Guadeloupe | 80 |
+| 20 | [KaribbeanCreative](https://github.com/KaribbeanCreative) | Karibbean Creative |  |  | Guadeloupe | 74 |

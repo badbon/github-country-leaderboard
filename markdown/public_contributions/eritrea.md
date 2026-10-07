@@ -1,13 +1,13 @@
 # Public Contributions - Eritrea
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T05:54:06.231Z
 
 Users: 17
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | GeezLab |  | Stockholm \|\| Daejeon \|\| Asmara | 119 |
-| 2 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | @HotelAsmaraPalace | afatinong | Eritrea | 2 |
+| 2 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | @HotelAsmaraPalace | afatinong | Eritrea | 0 |
 | 3 | [aigemito](https://github.com/aigemito) | Amanuel Isack Gebreendrias | emito |  | Asmara,Eritrea | 0 |
 | 4 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis |  |  | Asmara, Eritrea | 0 |
 | 5 | [CycloneInitiatives](https://github.com/CycloneInitiatives) | Cyclone Intiatives | Cyclone Initiative Foundation |  | Asmara, Eritrea | 0 |

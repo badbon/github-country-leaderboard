@@ -67,7 +67,7 @@ Indexed users: 5,413
 | 3 | [PovilasKorop](https://github.com/PovilasKorop) |  | Vilnius, Lithuania | 2,744 |
 | 4 | [aras-p](https://github.com/aras-p) | Aras Pranckevičius | Kaunas, Lithuania | 2,531 |
 | 5 | [irenemmassy](https://github.com/irenemmassy) | Irene Arvydas Ranonis | Lithuania  | 680 |
-| 6 | [laimonas2g](https://github.com/laimonas2g) | Laimonas | Kaunas, Lithuania | 568 |
+| 6 | [laimonas2g](https://github.com/laimonas2g) | Laimonas | Kaunas, Lithuania | 539 |
 | 7 | [kibertoad](https://github.com/kibertoad) | Igor Savin | Vilnius | 395 |
 | 8 | [remrc](https://github.com/remrc) | Remigijus | Lithuania | 395 |
 | 9 | [l3pp4rd](https://github.com/l3pp4rd) | Gediminas Morkevicius | Kaunas, Lithuania | 374 |
@@ -83,4 +83,4 @@ Indexed users: 5,413
 | 19 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-06T18:40:11.737Z

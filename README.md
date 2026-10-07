@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Fiji](markdown/countries/fiji.md) | 329 | [Public](markdown/public_contributions/fiji.md) | [Total](markdown/total_contributions/fiji.md) | [Followers](markdown/followers/fiji.md) |
-| [Bahrain](markdown/countries/bahrain.md) | 736 | [Public](markdown/public_contributions/bahrain.md) | [Total](markdown/total_contributions/bahrain.md) | [Followers](markdown/followers/bahrain.md) |
-| [North Korea](markdown/countries/north_korea.md) | 194 | [Public](markdown/public_contributions/north_korea.md) | [Total](markdown/total_contributions/north_korea.md) | [Followers](markdown/followers/north_korea.md) |
-| [Republic of the Congo](markdown/countries/republic_of_the_congo.md) | 299 | [Public](markdown/public_contributions/republic_of_the_congo.md) | [Total](markdown/total_contributions/republic_of_the_congo.md) | [Followers](markdown/followers/republic_of_the_congo.md) |
-| [Macau](markdown/countries/macau.md) | 456 | [Public](markdown/public_contributions/macau.md) | [Total](markdown/total_contributions/macau.md) | [Followers](markdown/followers/macau.md) |
+| [Liechtenstein](markdown/countries/liechtenstein.md) | 116 | [Public](markdown/public_contributions/liechtenstein.md) | [Total](markdown/total_contributions/liechtenstein.md) | [Followers](markdown/followers/liechtenstein.md) |
+| [Nauru](markdown/countries/nauru.md) | 3 | [Public](markdown/public_contributions/nauru.md) | [Total](markdown/total_contributions/nauru.md) | [Followers](markdown/followers/nauru.md) |
+| [Macau](markdown/countries/macau.md) | 455 | [Public](markdown/public_contributions/macau.md) | [Total](markdown/total_contributions/macau.md) | [Followers](markdown/followers/macau.md) |
+| [Nepal](markdown/countries/nepal.md) | 14,081 | [Public](markdown/public_contributions/nepal.md) | [Total](markdown/total_contributions/nepal.md) | [Followers](markdown/followers/nepal.md) |
+| [South Africa](markdown/countries/south_africa.md) | 17,912 | [Public](markdown/public_contributions/south_africa.md) | [Total](markdown/total_contributions/south_africa.md) | [Followers](markdown/followers/south_africa.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-09-28T12:13:15.593Z
+Generated: 2026-10-07T06:01:47.756Z

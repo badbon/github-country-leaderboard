@@ -12,17 +12,17 @@ Indexed users: 18
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 444 |
-| 2 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 239 |
-| 3 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 92 |
-| 4 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 51 |
-| 5 | [crwne1](https://github.com/crwne1) | Kieron Clunes | Roseau, Dominica  | 50 |
+| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 528 |
+| 2 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 351 |
+| 3 | [crwne1](https://github.com/crwne1) | Kieron Clunes | Roseau, Dominica  | 103 |
+| 4 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 81 |
+| 5 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 51 |
 | 6 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 47 |
-| 7 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 24 |
-| 8 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 22 |
+| 7 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 26 |
+| 8 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 18 |
 | 9 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 9 |
 | 10 | [bowetech](https://github.com/bowetech) | Clive Stewart |  Dominica | 7 |
-| 11 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Dominica | 1 |
+| 11 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Dominica | 4 |
 | 12 | [pembertonc](https://github.com/pembertonc) | Cedric Pemberton | Commonwealth of Dominica Roseau Comm. of Dominica West Indies | 1 |
 | 13 | [daedwards767](https://github.com/daedwards767) | Davidson Edwards | Commonwealth of Dominica | 0 |
 | 14 | [Emmanuel767-byte](https://github.com/Emmanuel767-byte) | Emmanuel | Dominica, The Caribbean | 0 |
@@ -35,16 +35,16 @@ Indexed users: 18
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 159 |
-| 2 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 92 |
+| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 207 |
+| 2 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 51 |
 | 3 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 47 |
-| 4 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 22 |
-| 5 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 21 |
-| 6 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 12 |
+| 4 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 20 |
+| 5 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 18 |
+| 6 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 14 |
 | 7 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 9 |
 | 8 | [bowetech](https://github.com/bowetech) | Clive Stewart |  Dominica | 7 |
-| 9 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Dominica | 1 |
-| 10 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 1 |
+| 9 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Dominica | 4 |
+| 10 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 2 |
 | 11 | [pembertonc](https://github.com/pembertonc) | Cedric Pemberton | Commonwealth of Dominica Roseau Comm. of Dominica West Indies | 1 |
 | 12 | [crwne1](https://github.com/crwne1) | Kieron Clunes | Roseau, Dominica  | 0 |
 | 13 | [daedwards767](https://github.com/daedwards767) | Davidson Edwards | Commonwealth of Dominica | 0 |
@@ -59,14 +59,14 @@ Indexed users: 18
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 7 |
-| 2 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 6 |
-| 3 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 5 |
+| 2 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 6 |
+| 3 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 6 |
 | 4 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 4 |
-| 5 | [daedwards767](https://github.com/daedwards767) | Davidson Edwards | Commonwealth of Dominica | 3 |
-| 6 | [Emmanuel767-byte](https://github.com/Emmanuel767-byte) | Emmanuel | Dominica, The Caribbean | 3 |
-| 7 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 3 |
-| 8 | [pembertonc](https://github.com/pembertonc) | Cedric Pemberton | Commonwealth of Dominica Roseau Comm. of Dominica West Indies | 3 |
-| 9 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 3 |
+| 5 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 4 |
+| 6 | [daedwards767](https://github.com/daedwards767) | Davidson Edwards | Commonwealth of Dominica | 3 |
+| 7 | [Emmanuel767-byte](https://github.com/Emmanuel767-byte) | Emmanuel | Dominica, The Caribbean | 3 |
+| 8 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 3 |
+| 9 | [pembertonc](https://github.com/pembertonc) | Cedric Pemberton | Commonwealth of Dominica Roseau Comm. of Dominica West Indies | 3 |
 | 10 | [bowetech](https://github.com/bowetech) | Clive Stewart |  Dominica | 2 |
 | 11 | [crwne1](https://github.com/crwne1) | Kieron Clunes | Roseau, Dominica  | 1 |
 | 12 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Dominica | 1 |
@@ -77,4 +77,4 @@ Indexed users: 18
 | 17 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 1 |
 | 18 | [theode](https://github.com/theode) | Derrick Theophille | Dominica | 1 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-01T22:58:19.858Z

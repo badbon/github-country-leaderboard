@@ -1,6 +1,6 @@
 # Total Contributions - Jersey
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-04T06:13:08.407Z
 
 Users: 139
 
@@ -14,9 +14,9 @@ Users: 139
 | 6 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | inshore Ltd | danielmullin | Jersey | 4553 |
 | 7 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Pinpoint |  | Jersey | 4397 |
 | 8 | [timkrins](https://github.com/timkrins) | Tim Krins | @InfuseGroup  |  | Jersey, Channel Islands | 4301 |
-| 9 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | @Circlr-io |  | Jersey / London | 3424 |
-| 10 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 3107 |
-| 11 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 2963 |
+| 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 3882 |
+| 10 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | @Circlr-io |  | Jersey / London | 3424 |
+| 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 3107 |
 | 12 | [r-moore](https://github.com/r-moore) | Richard Moore | @EWG-Group  |  | Jersey | 1666 |
 | 13 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | @vaiie  |  | Jersey | 1561 |
 | 14 | [samjamead](https://github.com/samjamead) | Sam Mead |  |  | Grouville, Jersey | 1471 |

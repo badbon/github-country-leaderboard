@@ -1,17 +1,17 @@
 # Total Contributions - Albania
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-28T14:14:57.728Z
 
-Users: 1198
+Users: 1197
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | basecode LLC. | flakerimi | Tirane, Albania | 10302 |
 | 2 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8809 |
 | 3 | [okturan](https://github.com/okturan) | Okan Erturan |  |  | Tirana | 7657 |
-| 4 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 6145 |
-| 5 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 6077 |
-| 6 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | RokoHub |  | Tirane, Albania | 5935 |
+| 4 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 6077 |
+| 5 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | RokoHub |  | Tirane, Albania | 5935 |
+| 6 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5887 |
 | 7 | [orges](https://github.com/orges) | orges |  |  | Albania | 5549 |
 | 8 | [bledar](https://github.com/bledar) | Bledar Haxhia | MarineDataCloud |  | Albania | 5493 |
 | 9 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 5415 |

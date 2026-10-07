@@ -1,8 +1,8 @@
 # Public Contributions - Ireland
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-03T21:35:55.078Z
 
-Users: 19531
+Users: 19530
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 19531
 | 9 | [morganmcg1](https://github.com/morganmcg1) | Morgan McGuire |  |  | Dublin, Ireland | 10243 |
 | 10 | [trakhimenok](https://github.com/trakhimenok) | Alexander Trakhimenok |  |  | Limerick, Ireland | 9051 |
 | 11 | [Nelson-Lamounier](https://github.com/Nelson-Lamounier) | Nelson Lamounier |  |  | Dublin | 7971 |
-| 12 | [shivtcdfinance](https://github.com/shivtcdfinance) | Shiv Rao |  |  | Dublin, Ireland | 7804 |
-| 13 | [bact](https://github.com/bact) | Arthit Suriyawongkul | SPDX AI Working Group | bact | Dublin and Bangkok | 7039 |
-| 14 | [pjfanning](https://github.com/pjfanning) | PJ Fanning |  |  | Kilkenny, Ireland | 6421 |
-| 15 | [pshirshov](https://github.com/pshirshov) | Paul S. | @7mind  |  | Dublin | 6310 |
-| 16 | [FintanH](https://github.com/FintanH) | Fintan Halpenny |  |  | Dublin | 6281 |
-| 17 | [matheuscscp](https://github.com/matheuscscp) | Matheus Pimenta | @fluxcd @controlplaneio-fluxcd |  | Dublin, Ireland | 6177 |
+| 12 | [bact](https://github.com/bact) | Arthit Suriyawongkul | SPDX AI Working Group | bact | Dublin and Bangkok | 7039 |
+| 13 | [pjfanning](https://github.com/pjfanning) | PJ Fanning |  |  | Kilkenny, Ireland | 6421 |
+| 14 | [pshirshov](https://github.com/pshirshov) | Paul S. | @7mind  |  | Dublin | 6310 |
+| 15 | [FintanH](https://github.com/FintanH) | Fintan Halpenny |  |  | Dublin | 6281 |
+| 16 | [matheuscscp](https://github.com/matheuscscp) | Matheus Pimenta | @fluxcd @controlplaneio-fluxcd |  | Dublin, Ireland | 6177 |
+| 17 | [shivtcdfinance](https://github.com/shivtcdfinance) | Shiv Rao |  |  | Dublin, Ireland | 5605 |
 | 18 | [stack72](https://github.com/stack72) | Paul Stack | @systeminit   |  | Derry, Ireland | 5378 |
 | 19 | [dmzoneill](https://github.com/dmzoneill) | Dave | fio |  | Ireland | 5328 |
 | 20 | [jdrumgoole](https://github.com/jdrumgoole) | Joe Drumgoole | winebox.app |  | Dublin | 5151 |

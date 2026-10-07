@@ -12,10 +12,10 @@ Indexed users: 17
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | Stockholm \|\| Daejeon \|\| Asmara | 2,408 |
-| 2 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis | Asmara, Eritrea | 2,130 |
-| 3 | [shaminzo](https://github.com/shaminzo) | Sham Mesfn | Asmara | 11 |
-| 4 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | Eritrea | 2 |
+| 1 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis | Asmara, Eritrea | 4,440 |
+| 2 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | Stockholm \|\| Daejeon \|\| Asmara | 2,375 |
+| 3 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | Eritrea | 18 |
+| 4 | [shaminzo](https://github.com/shaminzo) | Sham Mesfn | Asmara | 11 |
 | 5 | [aigemito](https://github.com/aigemito) | Amanuel Isack Gebreendrias | Asmara,Eritrea | 0 |
 | 6 | [CycloneInitiatives](https://github.com/CycloneInitiatives) | Cyclone Intiatives | Asmara, Eritrea | 0 |
 | 7 | [EStudioApps](https://github.com/EStudioApps) |  | Asmara, Eritrea | 0 |
@@ -35,7 +35,7 @@ Indexed users: 17
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | Stockholm \|\| Daejeon \|\| Asmara | 119 |
-| 2 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | Eritrea | 2 |
+| 2 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | Eritrea | 0 |
 | 3 | [aigemito](https://github.com/aigemito) | Amanuel Isack Gebreendrias | Asmara,Eritrea | 0 |
 | 4 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis | Asmara, Eritrea | 0 |
 | 5 | [CycloneInitiatives](https://github.com/CycloneInitiatives) | Cyclone Intiatives | Asmara, Eritrea | 0 |
@@ -56,11 +56,11 @@ Indexed users: 17
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | Stockholm \|\| Daejeon \|\| Asmara | 62 |
+| 1 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | Stockholm \|\| Daejeon \|\| Asmara | 63 |
 | 2 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | Eritrea | 7 |
 | 3 | [aigemito](https://github.com/aigemito) | Amanuel Isack Gebreendrias | Asmara,Eritrea | 5 |
-| 4 | [EStudioApps](https://github.com/EStudioApps) |  | Asmara, Eritrea | 3 |
-| 5 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis | Asmara, Eritrea | 2 |
+| 4 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis | Asmara, Eritrea | 2 |
+| 5 | [EStudioApps](https://github.com/EStudioApps) |  | Asmara, Eritrea | 2 |
 | 6 | [CycloneInitiatives](https://github.com/CycloneInitiatives) | Cyclone Intiatives | Asmara, Eritrea | 1 |
 | 7 | [hailefreecodecampcoder](https://github.com/hailefreecodecampcoder) |  | Eritrea | 1 |
 | 8 | [heno2021](https://github.com/heno2021) | Henok Okbay Yemesghen | Asmara, Eritrea | 1 |
@@ -74,4 +74,4 @@ Indexed users: 17
 | 16 | [yonte73](https://github.com/yonte73) |  | Eritrea | 1 |
 | 17 | [ZaerIT](https://github.com/ZaerIT) | Zaer IT  | Asmara, Eritrea | 1 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T05:54:06.231Z

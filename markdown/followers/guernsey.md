@@ -1,14 +1,14 @@
 # Followers - Guernsey
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T12:59:30.440Z
 
 Users: 47
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 43 |
+| 1 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 44 |
 | 2 | [TheCodingCarlson](https://github.com/TheCodingCarlson) | Chris Carlson | Rothschild & Co |  | Guernsey | 25 |
-| 3 | [patsytau](https://github.com/patsytau) | Patrizia |  |  | Guernsey | 18 |
+| 3 | [patsytau](https://github.com/patsytau) | Patrizia |  |  | Guernsey | 19 |
 | 4 | [WillDereham](https://github.com/WillDereham) | Will Dereham | @JobLabUK | WillDereham | Guernsey/Oxford | 17 |
 | 5 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 15 |
 | 6 | [thebutler12](https://github.com/thebutler12) | Matt Ball | States of Guernsey |  | Guernsey | 14 |
@@ -22,7 +22,7 @@ Users: 47
 | 14 | [TobyDHKing](https://github.com/TobyDHKing) | Toby King |  |  | Guernsey, Channel Islands | 7 |
 | 15 | [atdeJimmyG](https://github.com/atdeJimmyG) |  |  |  | Falmouth/Guernsey | 4 |
 | 16 | [Matthew-Collins](https://github.com/Matthew-Collins) | Matthew Collins |  |  | Guernsey | 4 |
-| 17 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 3 |
-| 18 | [GlennToms](https://github.com/GlennToms) | Glenn Toms |  |  | Guernsey | 3 |
-| 19 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 3 |
-| 20 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Man The Programmer, LLC |  | Guernsey | 3 |
+| 17 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 4 |
+| 18 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 3 |
+| 19 | [GlennToms](https://github.com/GlennToms) | Glenn Toms |  |  | Guernsey | 3 |
+| 20 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 3 |

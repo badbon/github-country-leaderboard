@@ -1,6 +1,6 @@
 # Albania
 
-Indexed users: 1,198
+Indexed users: 1,197
 
 | Leaderboard | Link |
 |---|---|
@@ -15,9 +15,9 @@ Indexed users: 1,198
 | 1 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 10,302 |
 | 2 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,809 |
 | 3 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 7,657 |
-| 4 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 6,145 |
-| 5 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 6,077 |
-| 6 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | Tirane, Albania | 5,935 |
+| 4 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 6,077 |
+| 5 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | Tirane, Albania | 5,935 |
+| 6 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,887 |
 | 7 | [orges](https://github.com/orges) | orges | Albania | 5,549 |
 | 8 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 5,493 |
 | 9 | [geridev12](https://github.com/geridev12) | Gerald Nuraj | Tirana, Albania | 5,415 |
@@ -37,7 +37,7 @@ Indexed users: 1,198
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,004 |
+| 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 4,880 |
 | 2 | [selimaj-dev](https://github.com/selimaj-dev) | Klesti Selimaj | Albania | 3,727 |
 | 3 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 2,012 |
 | 4 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,576 |
@@ -83,4 +83,4 @@ Indexed users: 1,198
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 80 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 72 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-28T14:14:57.728Z

@@ -1,6 +1,6 @@
 # Total Contributions - Guam
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T12:58:27.472Z
 
 Users: 49
 
@@ -14,13 +14,13 @@ Users: 49
 | 6 | [nanodavinci](https://github.com/nanodavinci) | leo | Muy Dibujo LTD. |  | Hagåtña, Guam | 290 |
 | 7 | [jlongus](https://github.com/jlongus) | josiah |  |  | Guam | 65 |
 | 8 | [dagogue671](https://github.com/dagogue671) | David Gogue |  |  | Guam | 47 |
-| 9 | [guamencja](https://github.com/guamencja) | guam |  |  | Guam | 32 |
-| 10 | [alliahdavid](https://github.com/alliahdavid) | Alliah Czarielle | Guam Community College — Majoring in Information Technology  |  | Guam | 31 |
-| 11 | [nshoemake](https://github.com/nshoemake) | Nick Shoemake | 100Devs, NTT Docomo Pacific | nshoemake_ | Guam | 24 |
+| 9 | [StoneyTi](https://github.com/StoneyTi) | Tim |  |  | Guam | 35 |
+| 10 | [guamencja](https://github.com/guamencja) | guam |  |  | Guam | 32 |
+| 11 | [nshoemake](https://github.com/nshoemake) | Nick Shoemake | 100Devs, NTT Docomo Pacific | nshoemake_ | Guam | 17 |
 | 12 | [romelanthonysb](https://github.com/romelanthonysb) |  |  |  | Guam | 16 |
-| 13 | [Ritan671](https://github.com/Ritan671) | Ritan M Borja | KurasonGuahan Wallet  |  | Guam  | 9 |
-| 14 | [ReyBan82](https://github.com/ReyBan82) | Renante B Baniaga | AnT1nG Marketing Guam | TweetApp07 | Guam, United, States | 8 |
-| 15 | [StoneyTi](https://github.com/StoneyTi) | Tim |  |  | Guam | 6 |
+| 13 | [ReyBan82](https://github.com/ReyBan82) | Renante B Baniaga | AnT1nG Marketing Guam | TweetApp07 | Guam, United, States | 11 |
+| 14 | [alliahdavid](https://github.com/alliahdavid) | Alliah Czarielle | Guam Community College — Majoring in Information Technology  |  | Guam | 10 |
+| 15 | [Ritan671](https://github.com/Ritan671) | Ritan M Borja | KurasonGuahan Wallet  |  | Guam  | 9 |
 | 16 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici |  |  | Guam | 5 |
 | 17 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan |  |  | Guam | 5 |
 | 18 | [justjohnnyj](https://github.com/justjohnnyj) | Johnny T |  |  | Guam | 4 |

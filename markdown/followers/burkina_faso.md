@@ -1,6 +1,6 @@
 # Followers - Burkina Faso
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-30T13:16:55.817Z
 
 Users: 486
 
@@ -21,8 +21,8 @@ Users: 486
 | 13 | [wendtoinissaka](https://github.com/wendtoinissaka) |  |  |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 57 |
 | 14 | [leaston](https://github.com/leaston) | Nkuna Charles | Soft Consulting Services |  | Burkina Faso | 53 |
 | 15 | [haagrah](https://github.com/haagrah) | IsmaGUIRE |  | FaissalGuire | Burkina Faso (Ouagadougou) | 48 |
-| 16 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  |  |  | Ouagadougou | 41 |
-| 17 | [ArielShadrac](https://github.com/ArielShadrac) | IamShadrac | Xcept-Health |  | Burkina Faso | 38 |
-| 18 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN |  |  | BURKINAFASO/OUAGADOUGOU | 37 |
-| 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 35 |
-| 20 | [Tiama01](https://github.com/Tiama01) | Tiama Bernard |  | TiamaBernard | Ouagadougou, Burkina Faso | 31 |
+| 16 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE |  | zangafigue | Koudougou, Burkina Faso | 47 |
+| 17 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  |  |  | Ouagadougou | 41 |
+| 18 | [ArielShadrac](https://github.com/ArielShadrac) | IamShadrac | Xcept-Health |  | Burkina Faso | 38 |
+| 19 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN |  |  | BURKINAFASO/OUAGADOUGOU | 37 |
+| 20 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 35 |

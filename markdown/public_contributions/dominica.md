@@ -1,21 +1,21 @@
 # Public Contributions - Dominica
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-01T22:58:19.858Z
 
 Users: 18
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Xeno Solutions |  | Dominica | 159 |
-| 2 | [jozreel](https://github.com/jozreel) | Jozreel Laurent |  |  | Roseau, Dominica | 92 |
+| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Xeno Solutions |  | Dominica | 207 |
+| 2 | [jozreel](https://github.com/jozreel) | Jozreel Laurent |  |  | Roseau, Dominica | 51 |
 | 3 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Orlé Industries |  | Dominica | 47 |
-| 4 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Waituku Technology Solutions |  | Dominica | 22 |
-| 5 | [kingDebo](https://github.com/kingDebo) | Debo |  |  | Dominica, Caribbean | 21 |
-| 6 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Lazarus Ventures Co. | _ra_lazarus | Dominica | 12 |
+| 4 | [kingDebo](https://github.com/kingDebo) | Debo |  |  | Dominica, Caribbean | 20 |
+| 5 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Waituku Technology Solutions |  | Dominica | 18 |
+| 6 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Lazarus Ventures Co. | _ra_lazarus | Dominica | 14 |
 | 7 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Robinson & Associates |  | Dominica | 9 |
 | 8 | [bowetech](https://github.com/bowetech) | Clive Stewart | BoweTech |  |  Dominica | 7 |
-| 9 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Burnette Tech Solutions |  | Dominica | 1 |
-| 10 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost |  | JaheemPrevost | Dominica | 1 |
+| 9 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Burnette Tech Solutions |  | Dominica | 4 |
+| 10 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost |  | JaheemPrevost | Dominica | 2 |
 | 11 | [pembertonc](https://github.com/pembertonc) | Cedric Pemberton |  |  | Commonwealth of Dominica Roseau Comm. of Dominica West Indies | 1 |
 | 12 | [crwne1](https://github.com/crwne1) | Kieron Clunes | 767.dev |  | Roseau, Dominica  | 0 |
 | 13 | [daedwards767](https://github.com/daedwards767) | Davidson Edwards | Tropicode Software Solutions |  | Commonwealth of Dominica | 0 |

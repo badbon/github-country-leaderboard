@@ -1,12 +1,12 @@
 # Public Contributions - Albania
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-28T14:14:57.728Z
 
-Users: 1198
+Users: 1197
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5004 |
+| 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 4880 |
 | 2 | [selimaj-dev](https://github.com/selimaj-dev) | Klesti Selimaj | @orus-dev |  | Albania | 3727 |
 | 3 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | basecode LLC. | flakerimi | Tirane, Albania | 2012 |
 | 4 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 1576 |

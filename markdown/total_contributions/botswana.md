@@ -1,6 +1,6 @@
 # Total Contributions - Botswana
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-30T13:16:34.479Z
 
 Users: 535
 
@@ -24,5 +24,5 @@ Users: 535
 | 16 | [Batoli19](https://github.com/Batoli19) | future |  |  | Gaborone | 1349 |
 | 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | @Modisar |  | Botswana | 1324 |
 | 18 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga |  |  | Gaborone, Botswana | 1323 |
-| 19 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb |  |  | Botswana  | 1247 |
-| 20 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 1211 |
+| 19 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 1211 |
+| 20 | [madnyte](https://github.com/madnyte) | Motheo Keneilwe |  | mtkrated | Botswana | 1209 |

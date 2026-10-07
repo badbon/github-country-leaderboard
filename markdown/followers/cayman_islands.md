@@ -1,8 +1,8 @@
 # Followers - Cayman Islands
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-30T22:33:23.055Z
 
-Users: 126
+Users: 125
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -13,7 +13,7 @@ Users: 126
 | 5 | [andreogle](https://github.com/andreogle) | André Ogle |  |  | 🇰🇾 Cayman Islands | 75 |
 | 6 | [gregorydaval345](https://github.com/gregorydaval345) | Daval Gregory |  |  | Cayman Islands | 62 |
 | 7 | [Dr-Incognito](https://github.com/Dr-Incognito) | Dr. Incognito |  |  | Cayman Islands | 61 |
-| 8 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso |  | leohermoso | Cayman Islands | 57 |
+| 8 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Liquid Byte Labs | leohermoso | Cayman Islands | 58 |
 | 9 | [guhhhhaa](https://github.com/guhhhhaa) | Guhhhhaa | Cayman Islands |  | Cayman Islands | 43 |
 | 10 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 38 |
 | 11 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | jadehopper ltd. |  | Cayman Islands | 32 |

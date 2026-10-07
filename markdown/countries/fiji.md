@@ -12,13 +12,13 @@ Indexed users: 329
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 2,954 |
+| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 2,970 |
 | 2 | [xue1213888](https://github.com/xue1213888) | XueSichen | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 2,019 |
-| 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,258 |
-| 4 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 1,136 |
-| 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,054 |
-| 6 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 1,025 |
-| 7 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 993 |
+| 3 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,285 |
+| 4 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,258 |
+| 5 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 1,136 |
+| 6 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,054 |
+| 7 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 1,025 |
 | 8 | [crazybanboo](https://github.com/crazybanboo) | Ethan | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 975 |
 | 9 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 958 |
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 904 |
@@ -29,9 +29,9 @@ Indexed users: 329
 | 15 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 807 |
 | 16 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 624 |
 | 17 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 481 |
-| 18 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy | Fiji | 376 |
-| 19 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 302 |
-| 20 | [Counterpoint-Group](https://github.com/Counterpoint-Group) |  | Fiji | 267 |
+| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 419 |
+| 19 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy | Fiji | 376 |
+| 20 | [Counterpoint-Group](https://github.com/Counterpoint-Group) |  | Fiji | 275 |
 
 ## Public Contributions
 
@@ -41,22 +41,22 @@ Indexed users: 329
 | 2 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 807 |
 | 3 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 801 |
 | 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 513 |
-| 5 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 396 |
-| 6 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 311 |
+| 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 402 |
+| 6 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 396 |
 | 7 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 301 |
-| 8 | [grey0758](https://github.com/grey0758) | 徐业辉 | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 249 |
-| 9 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 240 |
-| 10 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 210 |
-| 11 | [codeshareman](https://github.com/codeshareman) | Z° North | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 163 |
-| 12 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo | Fiji | 162 |
+| 8 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 276 |
+| 9 | [grey0758](https://github.com/grey0758) | 徐业辉 | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 249 |
+| 10 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 240 |
+| 11 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo | Fiji | 185 |
+| 12 | [codeshareman](https://github.com/codeshareman) | Z° North | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 163 |
 | 13 | [birdkyle7918](https://github.com/birdkyle7918) | Kyle | Fiji | 145 |
 | 14 | [xue1213888](https://github.com/xue1213888) | XueSichen | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 144 |
 | 15 | [Neikumata](https://github.com/Neikumata) | yangyeqin | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 134 |
-| 16 | [v-i-s-h-a-n-t](https://github.com/v-i-s-h-a-n-t) | Vishant Kumar | Suva, Fiji | 108 |
-| 17 | [mucsbr](https://github.com/mucsbr) | beingS | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 96 |
-| 18 | [NotPranshu](https://github.com/NotPranshu) | Pranshu Ayush | Fiji | 88 |
-| 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 86 |
-| 20 | [LearnerHong](https://github.com/LearnerHong) | NIAOJIANG | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 78 |
+| 16 | [mucsbr](https://github.com/mucsbr) | beingS | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 96 |
+| 17 | [NotPranshu](https://github.com/NotPranshu) | Pranshu Ayush | Fiji | 88 |
+| 18 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 86 |
+| 19 | [LearnerHong](https://github.com/LearnerHong) | NIAOJIANG | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 78 |
+| 20 | [shaineshnand](https://github.com/shaineshnand) | Shainesh Nand | Suva,Fiji | 67 |
 
 ## Followers
 
@@ -79,8 +79,8 @@ Indexed users: 329
 | 15 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 23 |
 | 16 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 23 |
 | 17 | [anuraag165](https://github.com/anuraag165) | Anuraag Raj | Suva, Fiji | 22 |
-| 18 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
+| 18 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 22 |
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 20 |
-| 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 17 |
+| 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T05:55:53.854Z

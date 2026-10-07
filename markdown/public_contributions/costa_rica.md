@@ -1,6 +1,6 @@
 # Public Contributions - Costa Rica
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-01T13:38:07.110Z
 
 Users: 5637
 
@@ -22,7 +22,7 @@ Users: 5637
 | 14 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar |  | aguilar1x1 | Costa Rica | 2301 |
 | 15 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Universidad Nacional de Costa Rica |  | Costa Rica | 2263 |
 | 16 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | TEC |  | Costa Rica | 2028 |
-| 17 | [esoto](https://github.com/esoto) | Esteban Soto |  |  | Costa Rica | 1823 |
-| 18 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel |  |  | Costa Rica | 1803 |
-| 19 | [quesadx](https://github.com/quesadx) | Matteo Quesada |  |  | Costa Rica | 1704 |
-| 20 | [Absulit](https://github.com/Absulit) | Sebastian Sanabria Diaz |  | absulit | Costa Rica | 1678 |
+| 17 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Open To Work |  | Costa Rica | 1860 |
+| 18 | [esoto](https://github.com/esoto) | Esteban Soto |  |  | Costa Rica | 1823 |
+| 19 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel |  |  | Costa Rica | 1803 |
+| 20 | [quesadx](https://github.com/quesadx) | Matteo Quesada |  |  | Costa Rica | 1704 |

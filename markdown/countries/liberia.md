@@ -1,6 +1,6 @@
 # Liberia
 
-Indexed users: 212
+Indexed users: 211
 
 | Leaderboard | Link |
 |---|---|
@@ -19,12 +19,12 @@ Indexed users: 212
 | 5 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 1,388 |
 | 6 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,310 |
 | 7 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,193 |
-| 8 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,038 |
+| 8 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
 | 9 | [Professor231](https://github.com/Professor231) | Professor | Monrovia, Liberia  | 896 |
 | 10 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 877 |
 | 11 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 870 |
 | 12 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 803 |
-| 13 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 676 |
+| 13 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 737 |
 | 14 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa | Monrovia, Liberia | 675 |
 | 15 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad | Monrovia, Liberia | 674 |
 | 16 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 652 |
@@ -38,8 +38,8 @@ Indexed users: 212
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,310 |
-| 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,038 |
-| 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 676 |
+| 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
+| 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 737 |
 | 4 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 651 |
 | 5 | [timtjoe](https://github.com/timtjoe) | Timothy T. Joe | Liberia, West Africa | 581 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 517 |
@@ -51,12 +51,12 @@ Indexed users: 212
 | 12 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 213 |
 | 13 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr | Buchanan City, Liberia | 210 |
 | 14 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | Ontario, Canada & Monrovia, Liberia | 208 |
-| 15 | [Jerry2001397](https://github.com/Jerry2001397) | Emmanuel Jerry Jr  | Monrovia, Liberia  | 201 |
-| 16 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay | Paynesville City, Monrovia Liberia | 199 |
-| 17 | [tommyiversonj](https://github.com/tommyiversonj) | Tommy Iverson Johnson | Liberia | 192 |
-| 18 | [Sayon-okai](https://github.com/Sayon-okai) | Sayon T. Okai | Liberia | 179 |
-| 19 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 178 |
-| 20 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 167 |
+| 15 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay | Paynesville City, Monrovia Liberia | 199 |
+| 16 | [tommyiversonj](https://github.com/tommyiversonj) | Tommy Iverson Johnson | Liberia | 192 |
+| 17 | [Sayon-okai](https://github.com/Sayon-okai) | Sayon T. Okai | Liberia | 179 |
+| 18 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 178 |
+| 19 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 167 |
+| 20 | [Nexdata](https://github.com/Nexdata) | Nexdata | Monrovia | 162 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-06T00:25:27.443Z

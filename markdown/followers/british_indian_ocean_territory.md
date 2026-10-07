@@ -1,11 +1,11 @@
 # Followers - British Indian Ocean Territory
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-30T13:16:37.808Z
 
 Users: 3
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [LixvYang](https://github.com/LixvYang) | Larson | @yanglixin.com |  | British Indian Ocean Territory | 98 |
+| 1 | [LixvYang](https://github.com/LixvYang) | Larson | @yanglixin.com |  | British Indian Ocean Territory | 91 |
 | 2 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | @microverseinc | katarighe | Diego Garcia | 50 |
-| 3 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution |  |  | British Indian Ocean Territory | 9 |
+| 3 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution |  |  | British Indian Ocean Territory | 8 |

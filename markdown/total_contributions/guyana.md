@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-02T12:59:48.783Z
 
 Users: 187
 
@@ -19,10 +19,10 @@ Users: 187
 | 11 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee |  |  | Georgetown, TX | 1864 |
 | 12 | [Hinxman](https://github.com/Hinxman) | Ken Hinxman |  |  | Georgetown, TX | 1726 |
 | 13 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 1533 |
-| 14 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1352 |
-| 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 1345 |
-| 16 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 1267 |
-| 17 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1180 |
+| 14 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1511 |
+| 15 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1469 |
+| 16 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 1345 |
+| 17 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 1232 |
 | 18 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney |  |  | Georgetown, CO | 1042 |
 | 19 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 940 |
 | 20 | [codyregis6891](https://github.com/codyregis6891) | Cody Regis | Tyler Technologies |  | Georgetown, Kentucky | 930 |

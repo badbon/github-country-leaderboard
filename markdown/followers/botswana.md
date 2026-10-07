@@ -1,6 +1,6 @@
 # Followers - Botswana
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-30T13:16:34.479Z
 
 Users: 535
 
@@ -11,8 +11,8 @@ Users: 535
 | 3 | [PrimordialOrigin](https://github.com/PrimordialOrigin) | Primordial |  |  | Gaborone, Botswana | 126 |
 | 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana International University of Science and Technology | GoitseoneThemba | Botswana | 99 |
 | 5 | [VioletShards](https://github.com/VioletShards) | Leon N. |  |  | Botswana | 70 |
-| 6 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Ryom | Ryodevv | Botswana | 67 |
-| 7 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe |  |  | Botswana | 65 |
+| 6 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe |  |  | Botswana | 68 |
+| 7 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Ryom | Ryodevv | Botswana | 67 |
 | 8 | [Timbar09](https://github.com/Timbar09) | Miles Mosweu | Microverse | Milez09 | Palapye, Botswana | 64 |
 | 9 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 60 |
 | 10 | [impurefunctions](https://github.com/impurefunctions) | Kesego Tumisang | @Spectrum-Analytics @officialgdggaborone  | impurefunctions | Gaborone, Botswana | 58 |

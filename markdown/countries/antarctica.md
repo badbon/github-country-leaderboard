@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 469
+Indexed users: 468
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 469
 | 19 | [crse](https://github.com/crse) |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 77 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-29T06:06:28.710Z

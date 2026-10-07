@@ -1,17 +1,17 @@
 # Followers - Brunei
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-30T13:16:45.736Z
 
 Users: 256
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse |  |  | Brunei | 153 |
+| 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse |  |  | Brunei | 182 |
 | 2 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | Pittsburgh, PA \| Brunei | 111 |
 | 3 | [izdiwho](https://github.com/izdiwho) | Iz |  | izdiwho | Brunei | 62 |
 | 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 49 |
 | 5 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 48 |
-| 6 | [PandaWarrior63](https://github.com/PandaWarrior63) |  | Lectus |  | Brunei | 41 |
+| 6 | [PandaWarrior63](https://github.com/PandaWarrior63) |  | Lectus |  | Brunei | 40 |
 | 7 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 37 |
 | 8 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Datastream Digital (DST)  |  | Brunei Darussalam | 28 |
 | 9 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman |  |  | Brunei Darussalam | 25 |

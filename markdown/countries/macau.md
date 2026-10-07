@@ -1,6 +1,6 @@
 # Macau
 
-Indexed users: 456
+Indexed users: 455
 
 | Leaderboard | Link |
 |---|---|
@@ -51,7 +51,7 @@ Indexed users: 456
 | 12 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
 | 13 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 713 |
 | 14 | [ariel-lee-1023](https://github.com/ariel-lee-1023) | Ariel Lee | Macau | 678 |
-| 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 595 |
+| 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
 | 16 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 575 |
 | 17 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 535 |
 | 18 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 464 |
@@ -83,4 +83,4 @@ Indexed users: 456
 | 19 | [greatzh](https://github.com/greatzh) | Zihao Zhang | macao | 65 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 61 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:01:06.619Z

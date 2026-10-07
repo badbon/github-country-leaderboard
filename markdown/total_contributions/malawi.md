@@ -1,8 +1,8 @@
 # Total Contributions - Malawi
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:01:43.844Z
 
-Users: 904
+Users: 903
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 904
 | 16 | [byamasu-patrick](https://github.com/byamasu-patrick) | Byamasu Patrick Paul | @rexplore-ai | IrByamasu |  Malawi | 3435 |
 | 17 | [dnlmgwi](https://github.com/dnlmgwi) | Daniel P. Mgawi |  |  | Malawi | 3346 |
 | 18 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 3127 |
-| 19 | [caesar127](https://github.com/caesar127) | Caesar Ndawala |  |  | Malawi | 2996 |
-| 20 | [nedieyassin](https://github.com/nedieyassin) | NEDIE.YASSIN |  |  | lilongwe, malawi | 2850 |
+| 19 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Veigatec |  | Lilongwe, Malawi | 3041 |
+| 20 | [caesar127](https://github.com/caesar127) | Caesar Ndawala |  |  | Malawi | 2996 |

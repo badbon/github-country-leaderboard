@@ -17,10 +17,10 @@ Indexed users: 256
 | 3 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 1,977 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 1,542 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,413 |
-| 6 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,332 |
-| 7 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,168 |
-| 8 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 1,090 |
-| 9 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 837 |
+| 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,168 |
+| 7 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 1,090 |
+| 8 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,064 |
+| 9 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 864 |
 | 10 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | Pittsburgh, PA \| Brunei | 596 |
 | 11 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 590 |
 | 12 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi | Brunei Darussalam | 535 |
@@ -62,12 +62,12 @@ Indexed users: 256
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 153 |
+| 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 182 |
 | 2 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | Pittsburgh, PA \| Brunei | 111 |
 | 3 | [izdiwho](https://github.com/izdiwho) | Iz | Brunei | 62 |
 | 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 49 |
 | 5 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 48 |
-| 6 | [PandaWarrior63](https://github.com/PandaWarrior63) |  | Brunei | 41 |
+| 6 | [PandaWarrior63](https://github.com/PandaWarrior63) |  | Brunei | 40 |
 | 7 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 37 |
 | 8 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 28 |
 | 9 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman | Brunei Darussalam | 25 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [bahit](https://github.com/bahit) | Bahit Hamid | Brunei | 14 |
 | 20 | [snek5](https://github.com/snek5) | Azim Anuar | Brunei | 13 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-09-30T13:16:45.736Z

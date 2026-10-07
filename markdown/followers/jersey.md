@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-04T06:13:08.407Z
 
 Users: 139
 
@@ -14,9 +14,9 @@ Users: 139
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 47 |
 | 7 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 44 |
 | 8 | [cappadona](https://github.com/cappadona) | Nick Cappadona | @anaconda |  | Jersey | 41 |
-| 9 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns |  |  | Jersey, Channel Islands | 34 |
-| 10 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 33 |
-| 11 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 30 |
+| 9 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 34 |
+| 10 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns |  |  | Jersey, Channel Islands | 34 |
+| 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 33 |
 | 12 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 30 |
 | 13 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Tiphar Solutions |  | Jersey | 28 |
 | 14 | [timkrins](https://github.com/timkrins) | Tim Krins | @InfuseGroup  |  | Jersey, Channel Islands | 28 |
