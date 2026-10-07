@@ -1686,9 +1686,9 @@
     "location": "Dewangiri, Samdrup Jongkhar, Bhutan",
     "company": "Jigme Namgyel Engineering College",
     "twitterUsername": "",
-    "followers": 62,
-    "privateContributions": 2,
-    "publicContributions": 13,
+    "followers": 60,
+    "privateContributions": 0,
+    "publicContributions": 12,
     "createdAt": "2020-09-15T07:07:32Z"
   },
   {
@@ -1698,9 +1698,9 @@
     "location": "Thimphu, Bhutan",
     "company": "SELISE Group",
     "twitterUsername": "SangayT97",
-    "followers": 34,
-    "privateContributions": 914,
-    "publicContributions": 1419,
+    "followers": 33,
+    "privateContributions": 1378,
+    "publicContributions": 1005,
     "createdAt": "2020-01-17T06:14:20Z"
   },
   {
@@ -1710,8 +1710,8 @@
     "location": "Thimphu, Bhutan",
     "company": "Coala Pay(San Francisco, CA)",
     "twitterUsername": "Dojeee1",
-    "followers": 21,
-    "privateContributions": 1788,
+    "followers": 23,
+    "privateContributions": 1789,
     "publicContributions": 0,
     "createdAt": "2020-09-05T14:03:52Z"
   },
@@ -1722,8 +1722,8 @@
     "location": "Bhutan",
     "company": "@selisebt ",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 256,
+    "followers": 15,
+    "privateContributions": 261,
     "publicContributions": 5,
     "createdAt": "2020-04-01T14:50:01Z"
   },
@@ -1734,22 +1734,10 @@
     "location": "Thimphu,Bhutan",
     "company": "NoMind & Aplos Lab",
     "twitterUsername": "ugyentech",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 82,
     "createdAt": "2020-03-07T07:30:00Z"
-  },
-  {
-    "login": "bishal-dd",
-    "name": "Bishal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71917081?s=72&u=4265c6e294aa45db98ab00c382d896051560ceda&v=4",
-    "location": "Bhutan",
-    "company": "",
-    "twitterUsername": "bishaldhakal133",
-    "followers": 8,
-    "privateContributions": 241,
-    "publicContributions": 318,
-    "createdAt": "2020-09-26T05:26:07Z"
   },
   {
     "login": "nimaytenzin",
@@ -1760,7 +1748,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 358,
+    "publicContributions": 297,
     "createdAt": "2020-07-15T03:25:39Z"
   },
   {
@@ -1771,8 +1759,8 @@
     "company": "Selise ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 784,
-    "publicContributions": 101,
+    "privateContributions": 1023,
+    "publicContributions": 103,
     "createdAt": "2020-08-16T16:04:35Z"
   },
   {
@@ -1796,7 +1784,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 40,
     "createdAt": "2020-03-20T06:13:17Z"
   },
   {
@@ -1807,7 +1795,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1358,
+    "privateContributions": 1373,
     "publicContributions": 0,
     "createdAt": "2020-10-13T04:43:19Z"
   },
@@ -1831,7 +1819,7 @@
     "company": "Chainzeeper",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 506,
+    "privateContributions": 524,
     "publicContributions": 0,
     "createdAt": "2020-10-08T10:56:45Z"
   },
@@ -1844,7 +1832,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 0,
     "createdAt": "2020-09-16T05:28:11Z"
   },
   {
@@ -1867,8 +1855,8 @@
     "company": "e-Sherig Tech",
     "twitterUsername": "tashi_tams",
     "followers": 2,
-    "privateContributions": 30,
-    "publicContributions": 0,
+    "privateContributions": 14,
+    "publicContributions": 3,
     "createdAt": "2020-09-17T02:48:04Z"
   },
   {

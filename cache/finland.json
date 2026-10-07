@@ -1369,14 +1369,14 @@
   },
   {
     "login": "Elkkuboi",
-    "name": "Elias Wuolijoki",
+    "name": "E",
     "avatarUrl": "https://avatars.githubusercontent.com/u/200846308?s=72&u=f6d8f24c159e8b25c2de7898a69d1687062113ac&v=4",
     "location": "Helsinki, Finland",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 16,
     "createdAt": "2025-02-25T20:37:12Z"
   },
   {
@@ -1398,7 +1398,7 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "koob_foo",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2025-01-09T10:56:30Z"
@@ -1411,8 +1411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 406,
-    "publicContributions": 624,
+    "privateContributions": 736,
+    "publicContributions": 662,
     "createdAt": "2025-01-08T07:00:01Z"
   },
   {
@@ -1424,7 +1424,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2025-09-12T05:53:19Z"
   },
   {
@@ -1434,9 +1434,9 @@
     "location": "Helsinki, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 175,
-    "publicContributions": 319,
+    "followers": 11,
+    "privateContributions": 339,
+    "publicContributions": 490,
     "createdAt": "2025-09-04T09:55:12Z"
   },
   {
@@ -1472,7 +1472,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 39,
     "createdAt": "2025-09-03T11:12:31Z"
   },
   {
@@ -1482,9 +1482,9 @@
     "location": "Espoo, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 14,
     "createdAt": "2025-02-17T17:16:37Z"
   },
   {
@@ -1496,7 +1496,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2025-07-28T20:39:05Z"
   },
   {
@@ -1506,9 +1506,9 @@
     "location": "Finland",
     "company": "@MansikkaMC",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 15,
     "createdAt": "2025-03-01T19:43:26Z"
   },
   {
@@ -1518,7 +1518,7 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-07-20T15:41:15Z"
@@ -1544,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 5,
     "createdAt": "2025-08-14T10:57:21Z"
   },
   {
@@ -1556,7 +1556,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-10-01T16:30:13Z"
   },
   {
@@ -1566,9 +1566,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 106,
     "createdAt": "2025-06-09T06:20:02Z"
   },
   {
@@ -1579,8 +1579,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 170,
-    "publicContributions": 163,
+    "privateContributions": 177,
+    "publicContributions": 155,
     "createdAt": "2025-09-28T15:20:55Z"
   },
   {
@@ -1590,22 +1590,10 @@
     "location": "Vaasa, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 42,
-    "publicContributions": 418,
+    "followers": 5,
+    "privateContributions": 69,
+    "publicContributions": 421,
     "createdAt": "2025-09-20T15:39:07Z"
-  },
-  {
-    "login": "VisualPlate",
-    "name": "Jere Tolonen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194137927?s=72&u=13deb467a8fd2cb6f16f33da33496b0627fb464f&v=4",
-    "location": "Suomi, Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 236,
-    "publicContributions": 207,
-    "createdAt": "2025-01-07T17:51:25Z"
   },
   {
     "login": "akio-byte",

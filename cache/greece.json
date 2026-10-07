@@ -1652,7 +1652,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 30,
     "createdAt": "2025-03-30T12:18:02Z"
   },
   {
@@ -1662,9 +1662,9 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 2,
     "createdAt": "2025-06-27T22:06:26Z"
   },
   {
@@ -1676,7 +1676,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 2,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2025-09-07T11:54:37Z"
   },
   {
@@ -1686,9 +1686,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 412,
+    "publicContributions": 453,
     "createdAt": "2025-06-17T06:16:57Z"
   },
   {
@@ -1698,9 +1698,9 @@
     "location": "greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 43,
     "createdAt": "2025-07-10T12:28:04Z"
   },
   {
@@ -1718,13 +1718,13 @@
   {
     "login": "williamalexakis",
     "name": "William Alexakis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/222100474?s=72&u=efb816e49d27f19efc40bccdcae516b991b3eb8c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/222100474?s=72&u=8b399da90fed84f62a9bbab4b5df2e2c8901398a&v=4",
     "location": "Athens, Greece",
     "company": "St. Catherine's British School",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 99,
-    "publicContributions": 158,
+    "privateContributions": 109,
+    "publicContributions": 119,
     "createdAt": "2025-07-21T20:15:08Z"
   },
   {
@@ -1748,7 +1748,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 108,
     "createdAt": "2025-04-03T11:31:48Z"
   },
   {
@@ -1759,7 +1759,7 @@
     "company": "@CDXi-solutions ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 182,
+    "privateContributions": 163,
     "publicContributions": 0,
     "createdAt": "2025-01-29T14:09:24Z"
   },
@@ -1783,8 +1783,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 122,
-    "publicContributions": 733,
+    "privateContributions": 16,
+    "publicContributions": 978,
     "createdAt": "2025-02-14T17:55:46Z"
   },
   {
@@ -1798,18 +1798,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-01-17T12:48:10Z"
-  },
-  {
-    "login": "patramanis",
-    "name": "Thomas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/222647728?s=72&u=80cb7e14449bcdf2a77a38993a38996abe0547c6&v=4",
-    "location": "Greece",
-    "company": "",
-    "twitterUsername": "tpatramanis",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 105,
-    "createdAt": "2025-07-24T14:48:33Z"
   },
   {
     "login": "ek-mc",
@@ -1830,7 +1818,7 @@
     "location": "Thessaloniki, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-06-04T04:47:49Z"
@@ -1842,9 +1830,9 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 228,
+    "publicContributions": 285,
     "createdAt": "2025-11-04T11:13:17Z"
   },
   {
@@ -1856,7 +1844,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 43,
-    "publicContributions": 13,
+    "publicContributions": 15,
     "createdAt": "2025-06-24T11:16:08Z"
   },
   {
@@ -1866,9 +1854,9 @@
     "location": "Athens Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 190,
     "createdAt": "2025-10-21T18:27:15Z"
   },
   {
@@ -1878,7 +1866,7 @@
     "location": "Thessaloniki, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 63,
     "publicContributions": 0,
     "createdAt": "2025-06-28T17:26:57Z"

@@ -1422,9 +1422,9 @@
     "location": "Ashgabat",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 88,
-    "publicContributions": 28,
+    "followers": 8,
+    "privateContributions": 96,
+    "publicContributions": 29,
     "createdAt": "2024-02-24T09:44:31Z"
   },
   {
@@ -1434,9 +1434,9 @@
     "location": "Ashgabat ",
     "company": "TURKMEN LABS ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-04-07T11:39:44Z"
   },
   {
@@ -1460,7 +1460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 133,
+    "publicContributions": 58,
     "createdAt": "2024-10-17T11:16:30Z"
   },
   {
@@ -1470,7 +1470,7 @@
     "location": "Ashgabat",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-02T12:41:50Z"
@@ -1482,9 +1482,9 @@
     "location": "Ashgabat , Turkmenistan",
     "company": "Flipgoo , Hungary",
     "twitterUsername": "",
-    "followers": 44,
-    "privateContributions": 0,
-    "publicContributions": 245,
+    "followers": 45,
+    "privateContributions": 1165,
+    "publicContributions": 221,
     "createdAt": "2023-12-21T14:40:13Z"
   },
   {
@@ -1495,8 +1495,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 616,
-    "publicContributions": 94,
+    "privateContributions": 653,
+    "publicContributions": 79,
     "createdAt": "2023-10-15T07:08:16Z"
   },
   {
@@ -1506,9 +1506,9 @@
     "location": "Turkmenistan, Ashgabat",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2022-12-29T21:31:26Z"
   },
   {
@@ -1518,8 +1518,8 @@
     "location": "Ashgabat, Turkmenistan",
     "company": "KinesteX",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 887,
+    "followers": 23,
+    "privateContributions": 657,
     "publicContributions": 92,
     "createdAt": "2023-08-14T14:42:20Z"
   },
@@ -1530,9 +1530,9 @@
     "location": "Turkmenistan",
     "company": "@KIP-Engineering ",
     "twitterUsername": "BayramBabagulyy",
-    "followers": 22,
-    "privateContributions": 2439,
-    "publicContributions": 114,
+    "followers": 21,
+    "privateContributions": 3852,
+    "publicContributions": 72,
     "createdAt": "2023-05-27T04:23:37Z"
   },
   {
@@ -1542,9 +1542,9 @@
     "location": "Ashgabat, Turkmenistan",
     "company": "@GSR-Network",
     "twitterUsername": "noxur05",
-    "followers": 19,
-    "privateContributions": 3198,
-    "publicContributions": 41,
+    "followers": 22,
+    "privateContributions": 3694,
+    "publicContributions": 33,
     "createdAt": "2023-10-31T15:00:24Z"
   },
   {
@@ -1554,22 +1554,10 @@
     "location": "Turkmenistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 3169,
+    "followers": 16,
+    "privateContributions": 4504,
     "publicContributions": 10,
     "createdAt": "2023-11-20T16:16:16Z"
-  },
-  {
-    "login": "begleee",
-    "name": "Begli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152634323?s=72&u=e370ca1a1085aa9947fff2a0dfc47eda5c1de3d3&v=4",
-    "location": "Ashgabat, Turkmenistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2023-12-01T15:32:24Z"
   },
   {
     "login": "aj1603",
@@ -1578,8 +1566,8 @@
     "location": "Turkmenistan",
     "company": "Yedi Tilsim, Gerekli Onum",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 237,
+    "followers": 13,
+    "privateContributions": 56,
     "publicContributions": 1,
     "createdAt": "2023-03-03T05:36:11Z"
   },
@@ -1602,21 +1590,21 @@
     "location": "Turkmenistan, Ashgabat",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 185,
-    "publicContributions": 38,
+    "followers": 11,
+    "privateContributions": 153,
+    "publicContributions": 0,
     "createdAt": "2023-10-25T11:49:42Z"
   },
   {
     "login": "azathub",
     "name": "Azat Agamyradow",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132196163?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132196163?s=72&u=9bce815e8a3fc323aaef4b0a66b82fe21c4c52db&v=4",
     "location": "Ashgabat/Turkmenistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 310,
-    "publicContributions": 22,
+    "followers": 12,
+    "privateContributions": 455,
+    "publicContributions": 7,
     "createdAt": "2023-04-30T09:20:45Z"
   },
   {
@@ -1626,9 +1614,9 @@
     "location": "Turkmenistan, Ashgabat",
     "company": "IUHD",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 109,
-    "publicContributions": 13,
+    "followers": 10,
+    "privateContributions": 29,
+    "publicContributions": 56,
     "createdAt": "2023-07-04T15:43:46Z"
   },
   {
@@ -1650,9 +1638,9 @@
     "location": "Turkmenistan, Ashgabat",
     "company": "Saher Wagty",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 49,
     "createdAt": "2023-10-10T12:58:37Z"
   },
   {

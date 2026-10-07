@@ -1614,7 +1614,7 @@
     "location": "Belgium",
     "company": "Power for sales",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-29T20:21:49Z"
@@ -1626,9 +1626,9 @@
     "location": "Ghent, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 30,
-    "publicContributions": 102,
+    "followers": 8,
+    "privateContributions": 34,
+    "publicContributions": 133,
     "createdAt": "2025-10-09T09:47:20Z"
   },
   {
@@ -1640,7 +1640,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 11,
-    "publicContributions": 172,
+    "publicContributions": 163,
     "createdAt": "2025-03-04T18:06:23Z"
   },
   {
@@ -1652,7 +1652,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 16,
     "createdAt": "2025-09-24T11:29:10Z"
   },
   {
@@ -1674,9 +1674,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 103,
-    "publicContributions": 239,
+    "followers": 6,
+    "privateContributions": 233,
+    "publicContributions": 230,
     "createdAt": "2025-03-07T22:24:21Z"
   },
   {
@@ -1688,7 +1688,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 252,
+    "publicContributions": 194,
     "createdAt": "2025-04-10T12:00:19Z"
   },
   {
@@ -1698,9 +1698,9 @@
     "location": "Leuven, Belgium",
     "company": "KU Leuven",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 28,
     "createdAt": "2025-08-17T11:12:47Z"
   },
   {
@@ -1710,7 +1710,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-01T14:30:22Z"
@@ -1723,8 +1723,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 43,
-    "publicContributions": 77,
+    "privateContributions": 46,
+    "publicContributions": 74,
     "createdAt": "2025-08-16T17:24:18Z"
   },
   {
@@ -1736,7 +1736,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 85,
     "createdAt": "2025-04-21T12:20:52Z"
   },
   {
@@ -1746,21 +1746,21 @@
     "location": "Antwerp, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-05-26T15:00:19Z"
   },
   {
     "login": "jonasvo20-ux",
-    "name": "Jonas",
+    "name": "Jonas Van Onckelen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/236443183?s=72&u=818c278f29ba70389a23804214915ebf2e4f3ec3&v=4",
     "location": "Belgium",
-    "company": "@reniver",
+    "company": "@technoguide",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 14,
-    "publicContributions": 85,
+    "followers": 7,
+    "privateContributions": 27,
+    "publicContributions": 118,
     "createdAt": "2025-10-06T17:40:40Z"
   },
   {
@@ -1772,32 +1772,20 @@
     "twitterUsername": "manuumas",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-06-09T22:54:46Z"
   },
   {
     "login": "KaanGoker",
-    "name": "Nadir Kaan Göker",
+    "name": "Kaan Goker",
     "avatarUrl": "https://avatars.githubusercontent.com/u/222641776?s=72&u=43df03a571041bec466b17ed5c836e2f4470697e&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 92,
     "createdAt": "2025-07-24T14:15:16Z"
-  },
-  {
-    "login": "makkalay",
-    "name": "Michael Pasa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/248462860?s=72&v=4",
-    "location": "Belgium",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 40,
-    "createdAt": "2025-12-08T11:36:42Z"
   },
   {
     "login": "xShive",
@@ -1808,7 +1796,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 42,
-    "publicContributions": 193,
+    "publicContributions": 192,
     "createdAt": "2025-09-22T18:29:17Z"
   },
   {
@@ -1819,8 +1807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 897,
-    "publicContributions": 76,
+    "privateContributions": 893,
+    "publicContributions": 53,
     "createdAt": "2025-05-07T09:35:36Z"
   },
   {
@@ -1842,9 +1830,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-14T19:05:08Z"
   },
   {

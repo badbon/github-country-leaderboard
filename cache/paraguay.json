@@ -24298,5 +24298,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-09-30T14:05:24Z"
+  },
+  {
+    "login": "yaninaverab",
+    "name": "Yanina Vera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285090222?s=72&u=bb3dd38ce76b873cb2a69f2e96d78a3e72a0369a&v=4",
+    "location": "Paraguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-05-16T00:04:11Z"
+  },
+  {
+    "login": "caos1codex-hash",
+    "name": "Caos Codex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289072381?s=72&u=ecd63df73ae198aa9dce76b5afe53665eaa6b932&v=4",
+    "location": "Paraguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 226,
+    "createdAt": "2026-05-29T22:15:31Z"
+  },
+  {
+    "login": "marcelo-ag",
+    "name": "Marcelo A.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291641415?s=72&u=ac97bad5e076c766209e0ac02667c8ddb29e9d65&v=4",
+    "location": "Paraguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-08T01:19:16Z"
+  },
+  {
+    "login": "luz-anahi14",
+    "name": "Luz Gamarra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284696798?s=72&u=12640fbb328352b6654226b98b39356501bb42de&v=4",
+    "location": "Paraguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-05-14T15:08:37Z"
   }
 ]

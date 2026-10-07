@@ -1460,7 +1460,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 290,
+    "publicContributions": 301,
     "createdAt": "2023-07-03T00:59:41Z"
   },
   {
@@ -1472,7 +1472,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 54,
     "createdAt": "2023-02-01T13:49:21Z"
   },
   {
@@ -1483,8 +1483,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 76,
-    "publicContributions": 12,
+    "privateContributions": 94,
+    "publicContributions": 3,
     "createdAt": "2023-02-08T22:39:11Z"
   },
   {
@@ -1520,7 +1520,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 32,
     "createdAt": "2023-11-09T19:36:20Z"
   },
   {
@@ -1560,18 +1560,6 @@
     "createdAt": "2023-07-17T00:57:36Z"
   },
   {
-    "login": "Pure-coder007",
-    "name": "Dike Kingsley",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125186879?s=72&u=9039fa2181e269d49bde271c1f08e229d2456b48&v=4",
-    "location": "Victoria Island",
-    "company": "Speedpay Finance Limited",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 141,
-    "createdAt": "2023-02-12T10:08:10Z"
-  },
-  {
     "login": "soniarosenberger",
     "name": "Sonia Rosenberger",
     "avatarUrl": "https://avatars.githubusercontent.com/u/146119002?s=72&v=4",
@@ -1580,7 +1568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 90,
     "createdAt": "2023-09-26T16:46:09Z"
   },
   {
@@ -1591,7 +1579,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2225,
+    "privateContributions": 2274,
     "publicContributions": 0,
     "createdAt": "2023-08-28T15:26:40Z"
   },
@@ -1603,7 +1591,7 @@
     "company": "Go Power!",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 269,
+    "privateContributions": 256,
     "publicContributions": 0,
     "createdAt": "2023-05-15T18:49:00Z"
   },

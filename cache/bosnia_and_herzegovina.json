@@ -1436,7 +1436,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 94,
     "createdAt": "2024-03-01T15:02:20Z"
   },
   {
@@ -1447,7 +1447,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 125,
+    "privateContributions": 190,
     "publicContributions": 129,
     "createdAt": "2024-05-14T19:22:27Z"
   },
@@ -1458,9 +1458,9 @@
     "location": "Sarajevo, Bosnia and Hercegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 192,
+    "publicContributions": 139,
     "createdAt": "2024-10-20T18:48:52Z"
   },
   {
@@ -1472,19 +1472,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 38,
     "createdAt": "2024-10-14T08:21:45Z"
   },
   {
     "login": "davud-djerzic",
     "name": "Davud",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184019046?s=72&u=b82801a843e5dc4faeac5e2dac521b4c2d5016f4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184019046?s=72&u=1ae93abb54b5a45b026da16bad433692cde7c6d9&v=4",
     "location": "Sarajevo",
     "company": "Sarajevo School of Science and Technology",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 52,
     "createdAt": "2024-10-06T19:52:52Z"
   },
   {
@@ -1496,7 +1496,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 34,
     "createdAt": "2024-10-14T20:28:04Z"
   },
   {
@@ -1507,7 +1507,7 @@
     "company": "ShopCircle",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 45,
     "publicContributions": 0,
     "createdAt": "2024-04-17T07:55:23Z"
   },
@@ -1520,18 +1520,18 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 106,
     "createdAt": "2024-02-27T18:42:40Z"
   },
   {
     "login": "Anes-nysora",
     "name": "Anes Fazlibegovic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186285226?s=72&u=ee516b18188d0b50f593a03a506052479017cbe3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186285226?s=72&u=cae59a5b8aed46ad72d205e50be174f9f82ca92c&v=4",
     "location": "Sarajevo",
     "company": "NYSORA",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 133,
+    "privateContributions": 186,
     "publicContributions": 0,
     "createdAt": "2024-10-25T10:32:53Z"
   },
@@ -1650,9 +1650,9 @@
     "location": "Kakanj/Mostar, Bosnia and Herzegovina",
     "company": "Fakultet informacijskih tehnologija",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 314,
+    "publicContributions": 348,
     "createdAt": "2023-10-07T13:47:35Z"
   },
   {

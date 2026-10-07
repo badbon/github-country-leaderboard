@@ -1398,9 +1398,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2025-09-22T09:30:16Z"
   },
   {
@@ -1412,7 +1412,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 13,
     "createdAt": "2025-04-17T07:34:32Z"
   },
   {
@@ -1434,8 +1434,8 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 80,
+    "followers": 3,
+    "privateContributions": 169,
     "publicContributions": 0,
     "createdAt": "2025-03-31T18:57:36Z"
   },
@@ -1458,9 +1458,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "xlavreniuk",
-    "followers": 1,
-    "privateContributions": 265,
-    "publicContributions": 144,
+    "followers": 2,
+    "privateContributions": 425,
+    "publicContributions": 203,
     "createdAt": "2025-11-14T19:43:35Z"
   },
   {
@@ -1484,7 +1484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 20,
     "createdAt": "2025-08-29T19:47:29Z"
   },
   {
@@ -1508,7 +1508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-21T16:25:14Z"
   },
   {
@@ -1536,18 +1536,6 @@
     "createdAt": "2025-11-11T16:59:26Z"
   },
   {
-    "login": "Adam-Neurapod",
-    "name": "Adam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224860261?s=72&u=44bc4f4a58c698dddbba0c10fe69802ad1c20555&v=4",
-    "location": "Bratislava",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2025-08-05T19:02:50Z"
-  },
-  {
     "login": "loopfall",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/226865313?s=72&u=84ce4b443bf92e6e6ef9e4a02bcfa6308ae24328&v=4",
@@ -1556,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 0,
     "createdAt": "2025-08-16T12:49:45Z"
   },
   {
@@ -1566,9 +1554,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 83,
+    "followers": 76,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 46,
     "createdAt": "2024-04-10T19:41:53Z"
   },
   {
@@ -1578,9 +1566,9 @@
     "location": "Slovakia",
     "company": "@elevenlabs",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 6764,
-    "publicContributions": 13,
+    "followers": 20,
+    "privateContributions": 7031,
+    "publicContributions": 10,
     "createdAt": "2024-05-21T11:48:12Z"
   },
   {
@@ -1603,8 +1591,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 142,
-    "publicContributions": 4,
+    "privateContributions": 123,
+    "publicContributions": 6,
     "createdAt": "2024-05-08T17:14:26Z"
   },
   {
@@ -1616,7 +1604,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 52,
     "createdAt": "2024-03-01T20:46:40Z"
   },
   {
@@ -1626,9 +1614,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 9,
     "createdAt": "2024-02-16T11:51:47Z"
   },
   {

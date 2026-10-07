@@ -1388,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 124,
     "createdAt": "2025-05-17T11:44:05Z"
   },
   {
@@ -1400,7 +1400,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 650,
+    "publicContributions": 545,
     "createdAt": "2025-05-03T14:40:48Z"
   },
   {
@@ -1424,7 +1424,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 401,
+    "publicContributions": 400,
     "createdAt": "2025-08-24T19:43:01Z"
   },
   {
@@ -1434,9 +1434,9 @@
     "location": "Czech Republic",
     "company": "Hroší stavby Morava, a.s.",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 201,
-    "publicContributions": 318,
+    "followers": 2,
+    "privateContributions": 407,
+    "publicContributions": 377,
     "createdAt": "2025-02-11T10:59:45Z"
   },
   {
@@ -1460,7 +1460,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 76,
     "createdAt": "2025-02-02T10:56:27Z"
   },
   {
@@ -1472,7 +1472,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 43,
     "createdAt": "2025-04-08T00:24:21Z"
   },
   {
@@ -1508,32 +1508,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 63,
     "createdAt": "2025-09-17T12:10:01Z"
-  },
-  {
-    "login": "pineyaaard",
-    "name": "Pavel Dmitrevskij",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211235234?s=72&u=fab904027326edeec619c93af1c6626cc7273445&v=4",
-    "location": "Prague, Czech Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 90,
-    "createdAt": "2025-05-11T16:00:27Z"
-  },
-  {
-    "login": "janvalder-bw",
-    "name": "Honza Valder",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/242450249?s=72&u=30a26ea88176f3f7d055c80c5c08d7663f0c9d09&v=4",
-    "location": "Prague, Czech Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 451,
-    "publicContributions": 16,
-    "createdAt": "2025-11-06T15:39:13Z"
   },
   {
     "login": "cx-developer",
@@ -1555,7 +1531,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 457,
+    "privateContributions": 424,
     "publicContributions": 185,
     "createdAt": "2025-10-11T17:36:17Z"
   },
@@ -1567,8 +1543,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 156,
-    "publicContributions": 24,
+    "privateContributions": 159,
+    "publicContributions": 25,
     "createdAt": "2025-01-15T08:25:48Z"
   },
   {
@@ -1580,7 +1556,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 29,
     "createdAt": "2025-06-02T11:56:44Z"
   },
   {
@@ -1591,7 +1567,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 956,
+    "privateContributions": 939,
     "publicContributions": 83,
     "createdAt": "2024-12-30T15:10:31Z"
   },
@@ -1616,7 +1592,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2025-04-29T13:25:06Z"
   },
   {

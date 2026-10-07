@@ -1393,14 +1393,14 @@
   },
   {
     "login": "csakegyruszki",
-    "name": "csakegyruszki",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/201770847?s=72&v=4",
-    "location": "Hungary",
+    "location": "Budapest, Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 58,
     "createdAt": "2025-03-04T15:07:35Z"
   },
   {
@@ -1423,8 +1423,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 52,
-    "publicContributions": 1,
+    "privateContributions": 60,
+    "publicContributions": 0,
     "createdAt": "2025-07-09T17:49:41Z"
   },
   {
@@ -1435,8 +1435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 68,
-    "publicContributions": 9,
+    "privateContributions": 41,
+    "publicContributions": 8,
     "createdAt": "2025-09-09T09:33:05Z"
   },
   {
@@ -1460,7 +1460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 269,
+    "publicContributions": 271,
     "createdAt": "2025-03-12T16:21:01Z"
   },
   {
@@ -1484,7 +1484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 184,
+    "publicContributions": 177,
     "createdAt": "2025-02-28T07:33:29Z"
   },
   {
@@ -1508,7 +1508,7 @@
     "twitterUsername": "WolfWritings",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-10T09:07:33Z"
   },
   {
@@ -1520,7 +1520,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 88,
     "createdAt": "2025-07-26T15:40:32Z"
   },
   {
@@ -1531,8 +1531,8 @@
     "company": "Shade InterConnected",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2025-02-06T20:23:23Z"
   },
   {
@@ -1544,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-17T20:16:37Z"
   },
   {
@@ -1556,7 +1556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 3,
     "createdAt": "2025-09-01T07:54:35Z"
   },
   {
@@ -1568,20 +1568,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-10-03T19:16:56Z"
-  },
-  {
-    "login": "Robert-Marton34",
-    "name": "Robert Marton",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224889526?s=72&v=4",
-    "location": "Budapest Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 17,
-    "createdAt": "2025-08-05T23:20:41Z"
   },
   {
     "login": "fauszt-at-rts",
@@ -1604,7 +1592,7 @@
     "twitterUsername": "Rifvckzie",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 7,
     "createdAt": "2025-03-09T13:33:31Z"
   },
   {

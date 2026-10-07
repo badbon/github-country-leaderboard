@@ -1326,9 +1326,9 @@
     "location": "Singapore",
     "company": "Independent Builder",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 359,
+    "publicContributions": 358,
     "createdAt": "2026-02-22T16:20:42Z"
   },
   {
@@ -1398,9 +1398,9 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 119,
     "createdAt": "2026-04-29T04:59:56Z"
   },
   {
@@ -1472,7 +1472,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 61,
     "createdAt": "2026-01-20T06:44:56Z"
   },
   {
@@ -1518,9 +1518,9 @@
     "location": "National University of Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 9,
+    "followers": 2,
+    "privateContributions": 73,
+    "publicContributions": 48,
     "createdAt": "2026-05-10T13:45:07Z"
   },
   {
@@ -1532,7 +1532,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2026-03-17T12:35:21Z"
   },
   {
@@ -1550,12 +1550,12 @@
   {
     "login": "Positeas",
     "name": "Cher",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253879820?s=72&u=36a7d60fcab6eb54278c7cbaded9f7105588ff8a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253879820?s=72&u=b0c306614d5952933a322b1de39e1ea6578d6555&v=4",
     "location": "Singapore",
     "company": "ETA Games",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 59,
+    "privateContributions": 60,
     "publicContributions": 1,
     "createdAt": "2026-01-09T07:31:09Z"
   },

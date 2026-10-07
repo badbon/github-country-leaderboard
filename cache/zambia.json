@@ -1410,9 +1410,9 @@
     "location": "Lusaka/Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 68,
     "createdAt": "2024-10-19T02:24:01Z"
   },
   {
@@ -1422,9 +1422,9 @@
     "location": "Copperbelt  , Ndola, zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 22,
-    "publicContributions": 119,
+    "publicContributions": 131,
     "createdAt": "2024-08-13T22:25:59Z"
   },
   {
@@ -1434,7 +1434,7 @@
     "location": "Lusaka, Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2024-06-12T19:49:27Z"
@@ -1446,9 +1446,9 @@
     "location": "Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 133,
+    "publicContributions": 122,
     "createdAt": "2024-03-13T12:26:56Z"
   },
   {
@@ -1458,9 +1458,9 @@
     "location": "Lusaka,Zambia ",
     "company": "University of Zambia",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 115,
-    "publicContributions": 261,
+    "followers": 12,
+    "privateContributions": 124,
+    "publicContributions": 308,
     "createdAt": "2024-04-17T06:25:28Z"
   },
   {
@@ -1471,8 +1471,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 122,
-    "publicContributions": 86,
+    "privateContributions": 109,
+    "publicContributions": 92,
     "createdAt": "2024-07-09T14:32:42Z"
   },
   {
@@ -1484,7 +1484,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 35,
     "createdAt": "2024-05-21T16:41:54Z"
   },
   {
@@ -1494,7 +1494,7 @@
     "location": "Lusaka, Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2024-06-17T10:58:48Z"
@@ -1508,19 +1508,19 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 99,
     "createdAt": "2024-05-08T07:23:17Z"
   },
   {
     "login": "BlessingsM02",
-    "name": "Blessings Mwandira",
+    "name": "BlessingsM",
     "avatarUrl": "https://avatars.githubusercontent.com/u/170567354?s=72&u=c66cce8ec1d6dc9f5903f0f08c0dd836d87e2f0a&v=4",
     "location": "Zambia",
     "company": "",
     "twitterUsername": "ChileMwandira",
-    "followers": 8,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-05-22T19:07:03Z"
   },
   {
@@ -1531,8 +1531,8 @@
     "company": "Integral Systems Limited",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 34,
-    "publicContributions": 45,
+    "privateContributions": 44,
+    "publicContributions": 46,
     "createdAt": "2024-01-14T08:11:46Z"
   },
   {
@@ -1544,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 7,
     "createdAt": "2024-03-07T20:57:07Z"
   },
   {
@@ -1554,9 +1554,9 @@
     "location": "Zambia",
     "company": "Full Stack Software Engineer",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 71,
-    "publicContributions": 144,
+    "followers": 8,
+    "privateContributions": 69,
+    "publicContributions": 118,
     "createdAt": "2024-01-05T20:47:15Z"
   },
   {
@@ -1568,7 +1568,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 2,
     "createdAt": "2024-05-20T11:56:06Z"
   },
   {
@@ -1580,7 +1580,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 10,
     "createdAt": "2024-02-01T18:52:29Z"
   },
   {
@@ -1590,22 +1590,10 @@
     "location": "Lusaka,Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 87,
     "createdAt": "2024-10-21T19:27:45Z"
-  },
-  {
-    "login": "devmwamba",
-    "name": "Dev Emmanuel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187910147?s=72&u=ddea2575bdfdd2b786064a7c484fbbb6fef41cc2&v=4",
-    "location": "Zambia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 188,
-    "publicContributions": 104,
-    "createdAt": "2024-11-09T22:40:36Z"
   },
   {
     "login": "Catchgithu",
@@ -1626,7 +1614,7 @@
     "location": "zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2024-02-25T05:26:23Z"

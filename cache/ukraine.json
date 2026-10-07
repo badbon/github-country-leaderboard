@@ -1376,7 +1376,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 48,
     "createdAt": "2026-04-07T07:25:36Z"
   },
   {
@@ -1410,9 +1410,9 @@
     "location": "Kyiv",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 53,
+    "followers": 1,
+    "privateContributions": 40,
+    "publicContributions": 55,
     "createdAt": "2026-01-17T03:44:31Z"
   },
   {
@@ -1424,7 +1424,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 47,
     "createdAt": "2026-01-27T09:03:37Z"
   },
   {
@@ -1446,7 +1446,7 @@
     "location": "Kyiv",
     "company": "KPMG Ukraine",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-27T08:40:15Z"
@@ -1471,8 +1471,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 518,
-    "publicContributions": 358,
+    "privateContributions": 1732,
+    "publicContributions": 226,
     "createdAt": "2026-01-12T23:12:15Z"
   },
   {
@@ -1501,14 +1501,14 @@
   },
   {
     "login": "sonik-boom71",
-    "name": "maximko",
+    "name": "maksymko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/258184758?s=72&u=6c0ef74ff9cdc4ca4ee9e6e76a3471be2d9df3a4&v=4",
     "location": "Kyiv",
     "company": "IT-Friends",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 286,
+    "publicContributions": 323,
     "createdAt": "2026-01-30T08:16:33Z"
   },
   {
@@ -1554,7 +1554,7 @@
     "location": "Lviv",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-25T20:58:53Z"
@@ -1580,7 +1580,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 334,
+    "publicContributions": 400,
     "createdAt": "2026-02-27T11:03:42Z"
   },
   {
@@ -1590,9 +1590,9 @@
     "location": "Nova Odessa",
     "company": "SESI-436 | SENAI-Sumaré",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 165,
     "createdAt": "2026-02-10T15:48:51Z"
   },
   {
@@ -1602,7 +1602,7 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "filedonkeyapp",
-    "followers": 2416,
+    "followers": 2406,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-04-09T09:20:44Z"

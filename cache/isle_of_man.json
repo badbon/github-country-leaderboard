@@ -1674,7 +1674,7 @@
     "location": "Isle of Man",
     "company": "",
     "twitterUsername": "mikecromwell",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-10-24T19:38:34Z"
@@ -1687,14 +1687,14 @@
     "company": "Taxa Genomics Limited",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 874,
-    "publicContributions": 1,
+    "privateContributions": 908,
+    "publicContributions": 0,
     "createdAt": "2011-06-06T13:14:48Z"
   },
   {
     "login": "stevenmcintosh",
     "name": "Steven McIntosh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/611622?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/611622?s=72&u=cde380c563146a4151f2c15e6ebd6c440cd7e19d&v=4",
     "location": "Isle of Man",
     "company": "",
     "twitterUsername": "",
@@ -1735,7 +1735,7 @@
     "company": "Vannin Studio",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10701,
+    "privateContributions": 11219,
     "publicContributions": 5,
     "createdAt": "2011-10-27T20:13:30Z"
   },
@@ -1771,7 +1771,7 @@
     "company": "@AuBerryBerry",
     "twitterUsername": "auberryberry",
     "followers": 14,
-    "privateContributions": 7330,
+    "privateContributions": 9949,
     "publicContributions": 0,
     "createdAt": "2010-09-10T15:36:06Z"
   },
@@ -1782,9 +1782,9 @@
     "location": "Douglas, Isle of Man",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 23,
-    "publicContributions": 68,
+    "followers": 16,
+    "privateContributions": 793,
+    "publicContributions": 715,
     "createdAt": "2010-12-21T17:11:17Z"
   },
   {
@@ -1807,7 +1807,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 888,
+    "privateContributions": 1747,
     "publicContributions": 108,
     "createdAt": "2010-09-23T16:27:10Z"
   },
@@ -1831,8 +1831,8 @@
     "company": "Cloud Construct",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 7,
-    "publicContributions": 0,
+    "privateContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2010-04-05T18:14:55Z"
   },
   {
@@ -1843,8 +1843,8 @@
     "company": "",
     "twitterUsername": "justsitandgrin",
     "followers": 78,
-    "privateContributions": 1845,
-    "publicContributions": 296,
+    "privateContributions": 1854,
+    "publicContributions": 306,
     "createdAt": "2009-03-03T16:24:29Z"
   },
   {

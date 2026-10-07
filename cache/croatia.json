@@ -1663,20 +1663,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 199,
-    "publicContributions": 180,
+    "privateContributions": 1520,
+    "publicContributions": 45,
     "createdAt": "2024-10-30T19:39:16Z"
   },
   {
     "login": "Troyyboii",
-    "name": "Dario Juzbašić",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/191786056?s=72&u=15cf1d1db5cc5274bae417af753ef399accbeea0&v=4",
     "location": "Dubrovnik, Croatia",
     "company": "",
-    "twitterUsername": "Dario_Juzbasic",
-    "followers": 1,
+    "twitterUsername": "",
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 307,
     "createdAt": "2024-12-15T16:40:42Z"
   },
   {
@@ -1722,9 +1722,9 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 174,
-    "publicContributions": 277,
+    "followers": 2,
+    "privateContributions": 204,
+    "publicContributions": 326,
     "createdAt": "2024-11-27T18:32:11Z"
   },
   {
@@ -1748,7 +1748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2024-05-15T11:33:36Z"
   },
   {
@@ -1759,8 +1759,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3722,
-    "publicContributions": 10,
+    "privateContributions": 4672,
+    "publicContributions": 11,
     "createdAt": "2024-04-10T05:54:47Z"
   },
   {
@@ -1810,18 +1810,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-08-16T09:41:54Z"
-  },
-  {
-    "login": "ficojok",
-    "name": "Filip",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180118315?s=72&v=4",
-    "location": "Zagreb, Croatia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2024-09-01T19:55:44Z"
   },
   {
     "login": "JS-Mastery-support",

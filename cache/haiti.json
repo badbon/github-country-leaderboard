@@ -1424,7 +1424,7 @@
     "twitterUsername": "daknizan",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 24,
     "createdAt": "2021-11-30T21:46:39Z"
   },
   {
@@ -1470,7 +1470,7 @@
     "location": "Haiti",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-14T15:48:40Z"
@@ -1512,18 +1512,6 @@
     "createdAt": "2021-05-09T15:22:26Z"
   },
   {
-    "login": "jsjules81",
-    "name": "SE JSJULES",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90809158?s=72&u=9e8639def58ed5102df9ad68e3d5ffcb05088fa7&v=4",
-    "location": "HAITI/USA",
-    "company": "@ntpsams",
-    "twitterUsername": "jsjulessam",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-09-16T01:03:29Z"
-  },
-  {
     "login": "zoetified",
     "name": "ZOETIFIED",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84252960?s=72&u=4b18d421aabd8552e90ed07d78888bc028995cd2&v=4",
@@ -1544,7 +1532,7 @@
     "twitterUsername": "ritchart",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 235,
+    "publicContributions": 305,
     "createdAt": "2021-10-29T14:41:46Z"
   },
   {
@@ -1568,7 +1556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 209,
     "createdAt": "2021-04-06T15:05:34Z"
   },
   {
@@ -1610,13 +1598,13 @@
   {
     "login": "Nicaisse",
     "name": "Nicaisse Bryan ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95947844?s=72&u=25d3212263d3a5102f266049412e9647e4d732e1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95947844?s=72&u=35bd4163689158c9017ca8c0390aa1ef6aac6770&v=4",
     "location": "Port-au-Prince",
     "company": "D-EAT",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1765,
-    "publicContributions": 17,
+    "privateContributions": 1823,
+    "publicContributions": 1,
     "createdAt": "2021-12-11T01:41:58Z"
   },
   {
@@ -1626,9 +1614,9 @@
     "location": "Haiti",
     "company": "",
     "twitterUsername": "",
-    "followers": 38,
+    "followers": 39,
     "privateContributions": 0,
-    "publicContributions": 169,
+    "publicContributions": 435,
     "createdAt": "2020-04-06T00:52:17Z"
   },
   {
@@ -1638,9 +1626,9 @@
     "location": "Haiti",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 2316,
-    "publicContributions": 1,
+    "followers": 37,
+    "privateContributions": 2341,
+    "publicContributions": 2,
     "createdAt": "2020-03-05T02:58:36Z"
   },
   {

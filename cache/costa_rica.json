@@ -1688,7 +1688,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 43,
     "createdAt": "2025-05-14T23:45:43Z"
   },
   {
@@ -1700,7 +1700,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 2,
     "createdAt": "2025-06-22T20:25:59Z"
   },
   {
@@ -1712,7 +1712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 85,
     "createdAt": "2025-12-11T15:44:38Z"
   },
   {
@@ -1722,7 +1722,7 @@
     "location": "Heredia, Costa Rica",
     "company": "National University, Costa Rica",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-27T00:43:21Z"
@@ -1748,7 +1748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 73,
     "createdAt": "2025-07-09T15:21:13Z"
   },
   {
@@ -1772,7 +1772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 141,
     "createdAt": "2025-05-14T01:19:28Z"
   },
   {
@@ -1808,7 +1808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 78,
     "createdAt": "2025-06-28T20:43:41Z"
   },
   {
@@ -1832,20 +1832,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 29,
     "createdAt": "2025-08-01T18:36:03Z"
-  },
-  {
-    "login": "angeloortiz-creai",
-    "name": "Angelo Ortiz Vega",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/241807803?s=72&u=2fd78ce85cdcc35787e42d50cac9c00a5518f7e0&v=4",
-    "location": "Costa Rica",
-    "company": "@CreAI-mx",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1704,
-    "publicContributions": 30,
-    "createdAt": "2025-11-03T17:06:25Z"
   },
   {
     "login": "Luansu666",
@@ -1880,19 +1868,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 141,
+    "publicContributions": 201,
     "createdAt": "2025-05-26T04:07:31Z"
   },
   {
     "login": "joancubillo95",
     "name": "Joan Cubillo Arguedas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/241335603?s=72&u=9021b7d67ae90aaba59456aa3922d8a100f124e9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/241335603?s=72&u=ba9569651ad2daedc00b1ff2f85fbac4a80a63d1&v=4",
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 167,
     "createdAt": "2025-10-31T16:13:25Z"
   },
   {
@@ -1915,7 +1903,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 621,
+    "privateContributions": 344,
     "publicContributions": 360,
     "createdAt": "2025-06-02T20:47:25Z"
   },
