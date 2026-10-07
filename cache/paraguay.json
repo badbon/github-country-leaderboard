@@ -1400,7 +1400,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 42,
     "createdAt": "2024-03-27T22:47:11Z"
   },
   {
@@ -1412,7 +1412,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 86,
     "createdAt": "2024-02-20T13:14:46Z"
   },
   {
@@ -1423,8 +1423,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 20,
-    "publicContributions": 30,
+    "privateContributions": 24,
+    "publicContributions": 4,
     "createdAt": "2024-06-14T23:24:02Z"
   },
   {
@@ -1446,21 +1446,21 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 394,
+    "publicContributions": 404,
     "createdAt": "2024-11-12T17:47:34Z"
   },
   {
     "login": "camimarrt",
     "name": "cami",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170055422?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170055422?s=72&u=7f36771e7a34aae337316781f79f0dd3a890bda7&v=4",
     "location": "Asunción, Paraguay.",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 30,
     "createdAt": "2024-05-16T23:32:01Z"
   },
   {
@@ -1471,7 +1471,7 @@
     "company": "Agencia Web Porta",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 365,
+    "privateContributions": 239,
     "publicContributions": 0,
     "createdAt": "2024-06-18T14:11:39Z"
   },
@@ -1482,7 +1482,7 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2024-12-17T15:32:54Z"
@@ -1554,8 +1554,8 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "rickOvelar",
-    "followers": 2,
-    "privateContributions": 3153,
+    "followers": 3,
+    "privateContributions": 4144,
     "publicContributions": 2,
     "createdAt": "2024-12-02T12:23:17Z"
   },
@@ -1590,9 +1590,9 @@
     "location": "Asunción, Paraguay.",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 72,
-    "publicContributions": 83,
+    "followers": 1,
+    "privateContributions": 43,
+    "publicContributions": 184,
     "createdAt": "2024-12-10T02:52:19Z"
   },
   {

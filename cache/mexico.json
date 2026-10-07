@@ -1352,7 +1352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 68,
     "createdAt": "2026-01-27T16:30:18Z"
   },
   {
@@ -1376,7 +1376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 34,
     "createdAt": "2026-03-30T21:51:49Z"
   },
   {
@@ -1387,21 +1387,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1646,
+    "privateContributions": 4936,
     "publicContributions": 592,
     "createdAt": "2026-03-09T01:25:47Z"
-  },
-  {
-    "login": "Shadnull",
-    "name": "Fernando J. Arce",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261307750?s=72&u=0e3ba2b2d677ba11864f66fc54767f4f54fa7aa5&v=4",
-    "location": "mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2026-02-12T22:25:05Z"
   },
   {
     "login": "HolaSoyAmigable",
@@ -1412,7 +1400,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 12,
     "createdAt": "2026-04-18T22:48:25Z"
   },
   {
@@ -1454,13 +1442,13 @@
   {
     "login": "cindersocket",
     "name": "CinderSocket",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264911750?s=72&u=f025394ce593dfc88a1cfb6bc7eb19f8c042153f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264911750?s=72&v=4",
     "location": "🇲🇽 Guadalajara, MX",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 150,
+    "publicContributions": 265,
     "createdAt": "2026-03-02T03:33:56Z"
   },
   {
@@ -1482,9 +1470,9 @@
     "location": "Guadalajara, México",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 53,
     "createdAt": "2026-01-18T02:38:42Z"
   },
   {
@@ -1496,7 +1484,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 47,
     "createdAt": "2026-04-21T00:06:56Z"
   },
   {
@@ -1520,7 +1508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 26,
     "createdAt": "2026-01-29T15:24:24Z"
   },
   {
@@ -1543,7 +1531,7 @@
     "company": "",
     "twitterUsername": "BrettMammel",
     "followers": 1,
-    "privateContributions": 902,
+    "privateContributions": 1673,
     "publicContributions": 5,
     "createdAt": "2026-01-04T20:29:36Z"
   },
@@ -1556,20 +1544,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 38,
     "createdAt": "2026-01-14T14:43:37Z"
-  },
-  {
-    "login": "mathAntibes",
-    "name": "Raul Sanchez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/268278598?s=72&u=4d92bfc922f2cf4285be8df75698aa57df5fac0b&v=4",
-    "location": "Guadalajara, México.",
-    "company": "Freelance",
-    "twitterUsername": "RaulSan9102",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2026-03-15T01:39:48Z"
   },
   {
     "login": "ArciniegaNila",
@@ -1580,7 +1556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 28,
     "createdAt": "2026-03-18T21:18:41Z"
   },
   {

@@ -1368,18 +1368,6 @@
     "createdAt": "2026-05-12T10:32:57Z"
   },
   {
-    "login": "mahyap38-max",
-    "name": "Mahya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259374538?s=72&u=9fe9c9643e9add25b0bdf5e72f866228f2ec8e49&v=4",
-    "location": "Iran ,Tehran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 38,
-    "createdAt": "2026-02-04T15:24:04Z"
-  },
-  {
     "login": "pardis-nasimian",
     "name": "Pardis Nasimian",
     "avatarUrl": "https://avatars.githubusercontent.com/u/281057653?s=72&u=09e0694d28247edac6205a1b2c3d7bac7c717aad&v=4",
@@ -1398,9 +1386,9 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 111,
+    "followers": 119,
     "privateContributions": 0,
-    "publicContributions": 269,
+    "publicContributions": 275,
     "createdAt": "2026-01-29T18:50:59Z"
   },
   {
@@ -1410,9 +1398,9 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 76,
+    "followers": 102,
     "privateContributions": 0,
-    "publicContributions": 687,
+    "publicContributions": 801,
     "createdAt": "2026-01-29T12:59:05Z"
   },
   {
@@ -1424,7 +1412,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 94,
     "createdAt": "2026-02-12T13:45:06Z"
   },
   {
@@ -1434,7 +1422,7 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-04T19:34:30Z"
@@ -1447,7 +1435,7 @@
     "company": "@bonyadsite",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 183,
+    "privateContributions": 344,
     "publicContributions": 1,
     "createdAt": "2026-01-05T12:12:56Z"
   },
@@ -1458,9 +1446,9 @@
     "location": "tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 95,
     "createdAt": "2025-12-30T18:10:53Z"
   },
   {
@@ -1482,9 +1470,9 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 834,
+    "publicContributions": 1381,
     "createdAt": "2026-01-29T20:36:13Z"
   },
   {
@@ -1494,7 +1482,7 @@
     "location": "Pasdaran, Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-01-06T01:09:28Z"
@@ -1542,21 +1530,21 @@
     "location": "tehran",
     "company": "AA",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
+    "followers": 3,
+    "privateContributions": 7,
+    "publicContributions": 94,
     "createdAt": "2026-04-29T17:28:39Z"
   },
   {
     "login": "alireza-sharifat",
     "name": "alireza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263753832?s=72&u=0407968d715774cfff14c5f5643c6069125d7f94&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263753832?s=72&u=c286eb892bd72c784eeb203b2044568987efea6d&v=4",
     "location": "tehran",
     "company": "srtu-x",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 48,
     "createdAt": "2026-02-24T20:35:42Z"
   },
   {
@@ -1586,13 +1574,13 @@
   {
     "login": "ladanhl",
     "name": "Ladan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252137484?s=72&u=8bd516412023a0c942cc17dcb663e77c42d0dd5e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252137484?s=72&u=bfadccef949228808af0079499913c9ddf2b48d3&v=4",
     "location": "tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 13,
     "createdAt": "2025-12-30T07:33:33Z"
   },
   {
@@ -1603,7 +1591,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 45,
     "publicContributions": 1,
     "createdAt": "2026-05-12T18:46:05Z"
   },
@@ -320386,5 +320374,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-10-12T19:42:38Z"
+  },
+  {
+    "login": "iitzSeriZdev",
+    "name": "SeriZ '⌁' سِرِیز",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/242278677?s=72&u=1c4c8483641d8d658864f95f34a1f66cdd533e70&v=4",
+    "location": "iRan",
+    "company": "",
+    "twitterUsername": "iitzSeriZ",
+    "followers": 12,
+    "privateContributions": 74,
+    "publicContributions": 86,
+    "createdAt": "2025-11-05T19:52:50Z"
   }
 ]

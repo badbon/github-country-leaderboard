@@ -1434,9 +1434,9 @@
     "location": "Niamey Niger",
     "company": "@omdena",
     "twitterUsername": "asega_collins",
-    "followers": 12,
-    "privateContributions": 518,
-    "publicContributions": 283,
+    "followers": 15,
+    "privateContributions": 570,
+    "publicContributions": 373,
     "createdAt": "2020-06-02T19:00:28Z"
   },
   {
@@ -1471,7 +1471,7 @@
     "company": "@yayimake ",
     "twitterUsername": "ImmsIsmael",
     "followers": 9,
-    "privateContributions": 19,
+    "privateContributions": 1,
     "publicContributions": 1,
     "createdAt": "2020-04-26T16:48:30Z"
   },
@@ -1484,7 +1484,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-08-31T16:47:37Z"
   },
   {
@@ -1496,7 +1496,7 @@
     "twitterUsername": "jibzmx",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2020-07-20T11:48:51Z"
   },
   {
@@ -1566,8 +1566,8 @@
     "location": "Niamey-Niger",
     "company": "@Acacurs",
     "twitterUsername": "ab3masta",
-    "followers": 37,
-    "privateContributions": 185,
+    "followers": 29,
+    "privateContributions": 241,
     "publicContributions": 0,
     "createdAt": "2019-11-19T10:53:04Z"
   },
@@ -1590,7 +1590,7 @@
     "location": "Niger Niamey ",
     "company": "Globalelectronic ",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-12-05T18:30:24Z"
@@ -1604,7 +1604,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 1022,
+    "publicContributions": 970,
     "createdAt": "2019-07-06T13:48:35Z"
   },
   {
@@ -1614,7 +1614,7 @@
     "location": "Niger",
     "company": "codeloccol / Univ Maradi",
     "twitterUsername": "tchiffamahamad1",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2019-11-19T12:22:48Z"
@@ -1640,7 +1640,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2019-04-09T17:06:40Z"
   },
   {
@@ -2110,5 +2110,17 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2019-11-12T04:48:45Z"
+  },
+  {
+    "login": "VisoXDRetard",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285408830?s=72&v=4",
+    "location": "Niger",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-05-17T11:54:14Z"
   }
 ]

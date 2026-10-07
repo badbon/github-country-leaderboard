@@ -1448,7 +1448,7 @@
     "twitterUsername": "FitzgeraldChal",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 208,
+    "publicContributions": 188,
     "createdAt": "2020-06-19T19:49:13Z"
   },
   {
@@ -1471,7 +1471,7 @@
     "company": "CYGEC IT SOLUTIONS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3552,
+    "privateContributions": 3367,
     "publicContributions": 0,
     "createdAt": "2020-11-12T20:37:33Z"
   },
@@ -1488,27 +1488,15 @@
     "createdAt": "2020-05-12T15:25:57Z"
   },
   {
-    "login": "0xresonance",
-    "name": "isla",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69049805?s=72&u=fe65bd5c931b4a5a2fa119c897c8a9283d5daa17&v=4",
-    "location": "Liberia",
-    "company": "9334",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-07-31T15:59:38Z"
-  },
-  {
     "login": "Marvel-Technologies",
     "name": "Marvel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/72860736?s=72&v=4",
     "location": "Monrovia, Liberia",
     "company": "Marvel Technologies 231",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2020-10-14T09:28:51Z"
   },
   {
@@ -1532,7 +1520,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-05-12T10:54:56Z"
   },
   {
@@ -1542,9 +1530,9 @@
     "location": "Monrovia",
     "company": "LiNova Energy Inc.",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 46,
-    "publicContributions": 47,
+    "followers": 3,
+    "privateContributions": 13,
+    "publicContributions": 43,
     "createdAt": "2020-02-17T19:10:50Z"
   },
   {
@@ -1568,7 +1556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 8,
-    "publicContributions": 52,
+    "publicContributions": 51,
     "createdAt": "2020-08-24T22:38:44Z"
   },
   {
@@ -1590,7 +1578,7 @@
     "location": "Monrovia Liberia",
     "company": "",
     "twitterUsername": "WeahOtisweah22",
-    "followers": 31,
+    "followers": 29,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-31T00:54:19Z"
@@ -1602,8 +1590,8 @@
     "location": "Monrovia, Montserrado County, Liberia",
     "company": "@ngoane ",
     "twitterUsername": "maxwelldorliea",
-    "followers": 29,
-    "privateContributions": 440,
+    "followers": 30,
+    "privateContributions": 403,
     "publicContributions": 0,
     "createdAt": "2019-01-14T17:56:26Z"
   },
@@ -1614,9 +1602,9 @@
     "location": "West Africa, Liberia",
     "company": "Sogital Lab",
     "twitterUsername": "bdk_codes",
-    "followers": 25,
-    "privateContributions": 207,
-    "publicContributions": 144,
+    "followers": 24,
+    "privateContributions": 181,
+    "publicContributions": 134,
     "createdAt": "2019-07-03T18:51:29Z"
   },
   {
@@ -1626,8 +1614,8 @@
     "location": "Monrovia, Liberia",
     "company": "",
     "twitterUsername": "knasumo",
-    "followers": 7,
-    "privateContributions": 673,
+    "followers": 8,
+    "privateContributions": 631,
     "publicContributions": 2,
     "createdAt": "2019-12-26T09:26:00Z"
   },

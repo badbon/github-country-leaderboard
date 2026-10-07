@@ -1448,20 +1448,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 5,
     "createdAt": "2021-07-10T07:52:46Z"
-  },
-  {
-    "login": "tumar231",
-    "name": "Feyambai Toumar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79701230?s=72&u=8130f13d5d5fb7c5a60c488c441e203459c76374&v=4",
-    "location": "N'djamena/ Tchad",
-    "company": "",
-    "twitterUsername": "FeyambaiToumar",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-02-26T12:22:13Z"
   },
   {
     "login": "D4lkov",
@@ -1494,7 +1482,7 @@
     "location": "N'djamena",
     "company": "Ansice",
     "twitterUsername": "NassirBaharad10",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2021-03-09T23:54:33Z"
@@ -1502,13 +1490,13 @@
   {
     "login": "moustaphousman",
     "name": "Moustapha Ousman Moustapha",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81974619?s=72&u=b5a56b67f4fc68e725ce20f802eb52fff322db1e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81974619?s=72&u=99712c39dbbd1f9a9cff10654dbb790a4ab971f2&v=4",
     "location": "N'Djamena",
     "company": "",
     "twitterUsername": "moustaphousman",
     "followers": 4,
-    "privateContributions": 7,
-    "publicContributions": 8,
+    "privateContributions": 14,
+    "publicContributions": 9,
     "createdAt": "2021-04-05T14:25:17Z"
   },
   {
@@ -1542,9 +1530,9 @@
     "location": "Chad",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 147,
-    "publicContributions": 1,
+    "followers": 14,
+    "privateContributions": 214,
+    "publicContributions": 19,
     "createdAt": "2020-07-04T21:26:42Z"
   },
   {
@@ -1554,9 +1542,9 @@
     "location": "Chad",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 241,
+    "publicContributions": 162,
     "createdAt": "2020-08-26T07:54:35Z"
   },
   {
@@ -1603,8 +1591,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1908,
-    "publicContributions": 525,
+    "privateContributions": 1935,
+    "publicContributions": 490,
     "createdAt": "2020-02-09T21:31:46Z"
   },
   {
@@ -1663,7 +1651,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1,
+    "privateContributions": 2,
     "publicContributions": 30,
     "createdAt": "2020-10-01T00:15:12Z"
   },

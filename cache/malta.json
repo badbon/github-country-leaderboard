@@ -1452,18 +1452,6 @@
     "createdAt": "2023-07-20T13:54:36Z"
   },
   {
-    "login": "DaryaPrasniak",
-    "name": "Darya Prasniak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125681242?s=72&u=6e750ba8cee0a0e5d5259653635a57f1931aa890&v=4",
-    "location": "Malta",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-02-17T16:04:58Z"
-  },
-  {
     "login": "Driedbrocoli",
     "name": "Julian Bezzina",
     "avatarUrl": "https://avatars.githubusercontent.com/u/147546213?s=72&v=4",
@@ -1471,7 +1459,7 @@
     "company": "Go PLC",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 99,
+    "privateContributions": 1645,
     "publicContributions": 5,
     "createdAt": "2023-10-10T18:09:57Z"
   },
@@ -1508,7 +1496,7 @@
     "twitterUsername": "anna_s_gatt",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2023-06-15T15:18:51Z"
   },
   {
@@ -1543,8 +1531,8 @@
     "company": "BioGeMT@UM",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 110,
-    "publicContributions": 176,
+    "privateContributions": 131,
+    "publicContributions": 190,
     "createdAt": "2023-04-24T08:10:13Z"
   },
   {
@@ -1556,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 67,
     "createdAt": "2023-12-20T10:12:34Z"
   },
   {
@@ -1568,7 +1556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 13,
     "createdAt": "2023-03-17T11:35:05Z"
   },
   {
@@ -1604,7 +1592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 26,
     "createdAt": "2023-03-31T13:55:09Z"
   },
   {
@@ -1615,7 +1603,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 377,
+    "privateContributions": 409,
     "publicContributions": 0,
     "createdAt": "2023-05-11T19:38:03Z"
   },

@@ -1422,7 +1422,7 @@
     "location": "Stavanger, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 43,
     "createdAt": "2025-11-06T09:55:29Z"
@@ -1434,7 +1434,7 @@
     "location": "norway",
     "company": "LORD PREMO TECH ",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 812,
     "createdAt": "2025-12-12T14:18:31Z"
@@ -1448,7 +1448,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 10,
     "createdAt": "2025-08-25T17:23:36Z"
   },
   {
@@ -1459,8 +1459,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 4,
-    "publicContributions": 538,
+    "privateContributions": 0,
+    "publicContributions": 511,
     "createdAt": "2025-06-16T11:20:39Z"
   },
   {
@@ -1472,7 +1472,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 111,
-    "publicContributions": 154,
+    "publicContributions": 153,
     "createdAt": "2025-08-21T08:28:39Z"
   },
   {
@@ -1482,9 +1482,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 290,
+    "publicContributions": 396,
     "createdAt": "2025-08-14T14:43:42Z"
   },
   {
@@ -1494,9 +1494,9 @@
     "location": "norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 525,
+    "publicContributions": 556,
     "createdAt": "2025-01-15T12:42:13Z"
   },
   {
@@ -1506,9 +1506,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 106,
-    "publicContributions": 51,
+    "followers": 7,
+    "privateContributions": 96,
+    "publicContributions": 78,
     "createdAt": "2025-10-16T16:34:17Z"
   },
   {
@@ -1520,7 +1520,7 @@
     "twitterUsername": "F_Edits",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2025-09-27T10:20:51Z"
   },
   {
@@ -1530,9 +1530,9 @@
     "location": "Norway",
     "company": "@Safepath-AS",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 909,
-    "publicContributions": 580,
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 672,
     "createdAt": "2025-02-10T14:17:58Z"
   },
   {
@@ -1544,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 104,
     "createdAt": "2025-09-08T11:52:11Z"
   },
   {
@@ -1568,19 +1568,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 176,
+    "publicContributions": 169,
     "createdAt": "2025-09-11T09:16:05Z"
   },
   {
     "login": "vladjoh",
     "name": "Vlad Johansen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203810551?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203810551?s=72&u=6cf3dce5a5dd09b16a1277ed37f6afed0d7d6a5f&v=4",
     "location": "Bergen, Norway",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 186,
     "createdAt": "2025-03-18T08:35:05Z"
   },
   {
@@ -1592,19 +1592,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 1,
     "createdAt": "2025-06-10T00:25:53Z"
   },
   {
     "login": "1honoredcode1",
-    "name": "HonoredCode",
+    "name": "Klevis P",
     "avatarUrl": "https://avatars.githubusercontent.com/u/194793355?s=72&u=6d29d275411008a24424d357f4edc00d5193fb37&v=4",
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 49,
-    "publicContributions": 350,
+    "publicContributions": 363,
     "createdAt": "2025-01-13T12:24:33Z"
   },
   {
@@ -1615,8 +1615,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 514,
-    "publicContributions": 829,
+    "privateContributions": 520,
+    "publicContributions": 516,
     "createdAt": "2025-09-21T21:15:54Z"
   },
   {
@@ -1640,20 +1640,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 113,
     "createdAt": "2025-01-09T17:17:25Z"
-  },
-  {
-    "login": "mhadida",
-    "name": "Michael Hadida",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206142041?s=72&v=4",
-    "location": "Oslo, Norway",
-    "company": "@tejofjord",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 5942,
-    "publicContributions": 344,
-    "createdAt": "2025-04-03T21:55:01Z"
   },
   {
     "login": "hro1025",

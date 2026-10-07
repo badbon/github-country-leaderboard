@@ -1424,7 +1424,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 173,
     "createdAt": "2024-03-11T19:36:36Z"
   },
   {
@@ -1448,32 +1448,20 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2024-10-06T14:21:51Z"
   },
   {
-    "login": "StoicKnight",
+    "login": "stoicknight",
     "name": "Stoic Knight",
     "avatarUrl": "https://avatars.githubusercontent.com/u/168474241?s=72&u=6bd9211d2bc6f7025859e1c0a851ce779fd141e0&v=4",
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "stoik_knight",
     "followers": 3,
-    "privateContributions": 237,
-    "publicContributions": 16,
+    "privateContributions": 489,
+    "publicContributions": 10,
     "createdAt": "2024-04-29T18:38:14Z"
-  },
-  {
-    "login": "KalalEnterprise",
-    "name": "Naser Alkalali",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/165220464?s=72&u=7f420d3bf2390a304d06bb0f6a6efaa57659f6ea&v=4",
-    "location": "Nicosia, Cyprus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 3,
-    "publicContributions": 14,
-    "createdAt": "2024-03-27T22:35:20Z"
   },
   {
     "login": "Tokarevael",
@@ -1508,7 +1496,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 50,
     "createdAt": "2024-10-06T18:22:37Z"
   },
   {
@@ -1520,7 +1508,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 246,
+    "publicContributions": 232,
     "createdAt": "2024-09-04T18:59:16Z"
   },
   {
@@ -1530,9 +1518,9 @@
     "location": "Limassol, Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 550,
+    "publicContributions": 236,
     "createdAt": "2024-03-05T21:39:49Z"
   },
   {
@@ -1556,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2024-08-21T23:23:26Z"
   },
   {
@@ -1590,7 +1578,7 @@
     "location": "cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-08T17:23:07Z"
@@ -1604,7 +1592,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 1,
     "createdAt": "2024-12-22T21:43:07Z"
   },
   {
@@ -1612,11 +1600,11 @@
     "name": "Marinos Antoniou",
     "avatarUrl": "https://avatars.githubusercontent.com/u/166834188?s=72&u=860c15aa691682b20d1b503c8102895665cc7c1d&v=4",
     "location": "Limassol , Cyprus",
-    "company": "@NeuraEnergy ",
+    "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 236,
-    "publicContributions": 140,
+    "followers": 3,
+    "privateContributions": 426,
+    "publicContributions": 134,
     "createdAt": "2024-04-12T13:46:32Z"
   },
   {
@@ -1628,7 +1616,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 37,
     "createdAt": "2024-04-29T15:32:17Z"
   },
   {
@@ -1640,7 +1628,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 166,
+    "publicContributions": 169,
     "createdAt": "2024-06-12T07:08:16Z"
   },
   {

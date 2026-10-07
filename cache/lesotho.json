@@ -1424,7 +1424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 25,
     "createdAt": "2018-08-22T21:27:18Z"
   },
   {
@@ -1434,9 +1434,9 @@
     "location": "Maseru",
     "company": "Ducens PTY LTD",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 2020,
-    "publicContributions": 38,
+    "followers": 14,
+    "privateContributions": 2300,
+    "publicContributions": 29,
     "createdAt": "2018-06-05T12:53:52Z"
   },
   {
@@ -1458,22 +1458,10 @@
     "location": "Maseru, Lesotho",
     "company": "@Liparola ",
     "twitterUsername": "kjamaliehe",
-    "followers": 36,
-    "privateContributions": 202,
-    "publicContributions": 148,
+    "followers": 41,
+    "privateContributions": 221,
+    "publicContributions": 122,
     "createdAt": "2017-10-16T17:54:07Z"
-  },
-  {
-    "login": "Motseki",
-    "name": "Lebohang Bernard",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33450828?s=72&u=278bcb2a235e6bb694590baf92960a3d5087032b&v=4",
-    "location": "Lesotho",
-    "company": "",
-    "twitterUsername": "lbmotseki",
-    "followers": 29,
-    "privateContributions": 5,
-    "publicContributions": 13,
-    "createdAt": "2017-11-07T10:33:30Z"
   },
   {
     "login": "lotesm",
@@ -1482,7 +1470,7 @@
     "location": "Maseru, Lesotho",
     "company": "Bethord Solutions",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2017-12-17T08:47:38Z"
@@ -1530,9 +1518,9 @@
     "location": "Maseru, Lesotho",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 1669,
-    "publicContributions": 156,
+    "followers": 19,
+    "privateContributions": 2041,
+    "publicContributions": 150,
     "createdAt": "2016-11-18T12:08:05Z"
   },
   {
@@ -1543,8 +1531,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 9,
-    "publicContributions": 63,
+    "privateContributions": 10,
+    "publicContributions": 81,
     "createdAt": "2016-06-21T06:48:03Z"
   },
   {
@@ -1592,7 +1580,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 36,
     "createdAt": "2016-09-23T11:51:13Z"
   },
   {
@@ -1616,7 +1604,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 21,
-    "publicContributions": 6,
+    "publicContributions": 13,
     "createdAt": "2016-10-16T15:54:17Z"
   },
   {

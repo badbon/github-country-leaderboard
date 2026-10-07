@@ -1388,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 42,
     "createdAt": "2022-11-02T15:28:01Z"
   },
   {
@@ -1398,7 +1398,7 @@
     "location": "Macau",
     "company": "university of macau",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2022-01-16T03:00:31Z"
@@ -1428,27 +1428,15 @@
     "createdAt": "2022-09-21T15:15:54Z"
   },
   {
-    "login": "Hahazehua",
-    "name": "HarryChenlalala",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117631994?s=72&u=429ef01453c10754f0b277ac3a0b2e8e9b36ec4f&v=4",
-    "location": "Macau",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 17,
-    "createdAt": "2022-11-07T08:07:39Z"
-  },
-  {
     "login": "linfei-mise",
     "name": "Free Lam",
     "avatarUrl": "https://avatars.githubusercontent.com/u/91515869?s=72&u=4967d1380780c8bf9007d912916d7407c2e6489e&v=4",
     "location": "Macao",
     "company": "Macao Institute of System Engineering",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 56,
     "createdAt": "2021-09-28T03:46:35Z"
   },
   {
@@ -1458,9 +1446,9 @@
     "location": "Macao",
     "company": "个人",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 266,
     "createdAt": "2021-06-20T10:59:16Z"
   },
   {
@@ -1518,21 +1506,21 @@
     "location": "Taipa, Macau",
     "company": "",
     "twitterUsername": "Doong__Li",
-    "followers": 179,
-    "privateContributions": 14,
-    "publicContributions": 575,
+    "followers": 184,
+    "privateContributions": 15,
+    "publicContributions": 649,
     "createdAt": "2021-07-04T11:46:53Z"
   },
   {
     "login": "Boom5426",
-    "name": "Bo li",
+    "name": "Bo li (李波)",
     "avatarUrl": "https://avatars.githubusercontent.com/u/83391363?s=72&u=539cffe78a135cef254649e2c3463ff6d865fb50&v=4",
     "location": "Macau",
     "company": "University of Macau",
     "twitterUsername": "",
-    "followers": 59,
+    "followers": 66,
     "privateContributions": 0,
-    "publicContributions": 350,
+    "publicContributions": 521,
     "createdAt": "2021-04-29T06:33:00Z"
   },
   {
@@ -1544,7 +1532,7 @@
     "twitterUsername": "",
     "followers": 49,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-05-26T02:59:32Z"
   },
   {
@@ -1556,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 17,
     "createdAt": "2021-09-07T09:10:38Z"
   },
   {
@@ -1567,8 +1555,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 6972,
-    "publicContributions": 178,
+    "privateContributions": 10747,
+    "publicContributions": 210,
     "createdAt": "2021-04-12T06:55:25Z"
   },
   {
@@ -1578,7 +1566,7 @@
     "location": "Macau",
     "company": "Siat_UM",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-09-12T08:03:56Z"
@@ -1590,7 +1578,7 @@
     "location": "MACAU",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2021-07-21T10:13:53Z"
@@ -1602,9 +1590,9 @@
     "location": "Macau,  Guangzhou, and Shanghai",
     "company": "ISE, Macau",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2021-07-02T05:45:56Z"
   },
   {

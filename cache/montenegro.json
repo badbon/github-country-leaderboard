@@ -1382,13 +1382,13 @@
   {
     "login": "sarce22",
     "name": "Sebastian Arce",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113046295?s=72&u=786ab512da54bdaba99a2dfef74f19954fb84eeb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113046295?s=72&u=acc5d8b02a5b3e3e6fea8effb1047ea2187c37dd&v=4",
     "location": "Montenegro,Quindio.",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 41,
     "createdAt": "2022-09-07T15:43:21Z"
   },
   {
@@ -1408,11 +1408,11 @@
     "name": "Stefan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/98259661?s=72&u=d70f45e0522c96d00f9ff7c7dd85ac952e015db7&v=4",
     "location": "Montenegro, Podgorica",
-    "company": "SweetSoft INC.",
+    "company": "Eyden",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 26,
-    "publicContributions": 29,
+    "privateContributions": 99,
+    "publicContributions": 30,
     "createdAt": "2022-01-23T10:46:45Z"
   },
   {
@@ -1424,20 +1424,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 2,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2022-06-24T19:44:58Z"
-  },
-  {
-    "login": "weoses",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117029676?s=72&u=d4daa4a91e77cf8bb6966d710d3fca864dd9fb68&v=4",
-    "location": "Montenegro",
-    "company": "U better dont know",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 202,
-    "createdAt": "2022-10-30T15:52:43Z"
   },
   {
     "login": "iatopilskii",
@@ -1446,9 +1434,9 @@
     "location": "Montenegro, Podgorica",
     "company": "@pixel-point",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 823,
-    "publicContributions": 307,
+    "followers": 6,
+    "privateContributions": 963,
+    "publicContributions": 320,
     "createdAt": "2022-11-29T15:05:48Z"
   },
   {
@@ -1532,7 +1520,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 19,
     "createdAt": "2022-02-08T03:55:04Z"
   },
   {
@@ -1544,7 +1532,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 16,
     "createdAt": "2022-06-01T10:17:05Z"
   },
   {
@@ -1558,18 +1546,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-18T18:48:34Z"
-  },
-  {
-    "login": "Ertiops",
-    "name": "Elijah Tomin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104155685?s=72&u=ba727e0facceb26dfbbab0c210ad19a03f2d568d&v=4",
-    "location": "Montenegro",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 103,
-    "createdAt": "2022-04-21T15:33:03Z"
   },
   {
     "login": "Andjelko28",

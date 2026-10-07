@@ -1375,8 +1375,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 132,
+    "privateContributions": 255,
+    "publicContributions": 66,
     "createdAt": "2024-10-17T12:40:20Z"
   },
   {
@@ -1388,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 65,
     "createdAt": "2024-05-07T05:37:26Z"
   },
   {
@@ -1411,8 +1411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 281,
-    "publicContributions": 45,
+    "privateContributions": 371,
+    "publicContributions": 64,
     "createdAt": "2024-10-02T15:21:25Z"
   },
   {
@@ -1422,9 +1422,9 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1740,
-    "publicContributions": 85,
+    "followers": 5,
+    "privateContributions": 1982,
+    "publicContributions": 80,
     "createdAt": "2024-10-02T18:35:38Z"
   },
   {
@@ -1436,7 +1436,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 49,
     "createdAt": "2024-08-04T08:05:03Z"
   },
   {
@@ -1460,7 +1460,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 48,
     "createdAt": "2024-03-16T10:48:02Z"
   },
   {
@@ -1472,7 +1472,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 27,
-    "publicContributions": 102,
+    "publicContributions": 81,
     "createdAt": "2024-08-21T19:25:29Z"
   },
   {
@@ -1483,21 +1483,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 620,
-    "publicContributions": 1,
+    "privateContributions": 977,
+    "publicContributions": 50,
     "createdAt": "2024-03-02T18:21:51Z"
-  },
-  {
-    "login": "bulviakas",
-    "name": "Akvilė Mačiulytė",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168706028?s=72&u=8f841006d4684fba3a09056a018fec41f7409b31&v=4",
-    "location": "Vilnius, Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 13,
-    "publicContributions": 161,
-    "createdAt": "2024-05-02T05:21:22Z"
   },
   {
     "login": "VVK-BIM",
@@ -1508,20 +1496,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2024-09-18T10:21:05Z"
-  },
-  {
-    "login": "WhispererX",
-    "name": "Whisperer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156939128?s=72&u=ab54ec4b39226d15ea1a022570260ee58e80fad4&v=4",
-    "location": "Kaunas, Lithuania",
-    "company": "",
-    "twitterUsername": "WhispererMeta",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 325,
-    "createdAt": "2024-01-17T16:42:41Z"
   },
   {
     "login": "mindee-dev",
@@ -1531,8 +1507,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 859,
-    "publicContributions": 2,
+    "privateContributions": 665,
+    "publicContributions": 0,
     "createdAt": "2024-07-20T15:00:10Z"
   },
   {
@@ -1555,8 +1531,8 @@
     "company": "MarketPay",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 262,
-    "publicContributions": 32,
+    "privateContributions": 259,
+    "publicContributions": 155,
     "createdAt": "2024-03-15T00:53:55Z"
   },
   {
@@ -1568,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 341,
+    "publicContributions": 291,
     "createdAt": "2024-01-05T13:16:47Z"
   },
   {
@@ -1602,8 +1578,8 @@
     "location": "Kaunas, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1756,
+    "followers": 4,
+    "privateContributions": 2373,
     "publicContributions": 30,
     "createdAt": "2023-12-30T23:09:54Z"
   },

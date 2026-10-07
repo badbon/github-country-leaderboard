@@ -1196,7 +1196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 60,
     "createdAt": "2026-05-11T14:48:49Z"
   },
   {
@@ -1280,7 +1280,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 23,
     "createdAt": "2026-02-11T21:34:06Z"
   },
   {
@@ -1290,7 +1290,7 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 156,
     "createdAt": "2026-02-04T02:36:58Z"
@@ -1304,7 +1304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 41,
     "createdAt": "2026-04-19T21:49:02Z"
   },
   {
@@ -1340,7 +1340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 174,
+    "publicContributions": 90,
     "createdAt": "2026-03-13T01:50:46Z"
   },
   {
@@ -1380,18 +1380,6 @@
     "createdAt": "2026-01-14T13:47:53Z"
   },
   {
-    "login": "Schulz911",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276124489?s=72&v=4",
-    "location": "Colombia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2026-04-14T22:08:59Z"
-  },
-  {
     "login": "ferdcard-ux",
     "name": "FerDev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/260562102?s=72&u=a55ee04179793b8c2036e863a7232f4c90b8892f&v=4",
@@ -1400,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 69,
     "createdAt": "2026-02-10T02:37:09Z"
   },
   {
@@ -1412,7 +1400,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 12,
     "createdAt": "2026-04-13T01:32:06Z"
   },
   {

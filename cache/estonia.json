@@ -1394,13 +1394,13 @@
   {
     "login": "DmytroHilei",
     "name": "Dmytro Hilei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/213939914?s=72&u=9cf3c37c430bac1726d6858d47409a1ce3519b45&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213939914?s=72&u=bc48627586ec9fd9bd8cb20e34b7061ea9d18873&v=4",
     "location": "Tallinn",
     "company": "TaLTech",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 92,
-    "publicContributions": 81,
+    "privateContributions": 107,
+    "publicContributions": 380,
     "createdAt": "2025-05-29T09:09:02Z"
   },
   {
@@ -1412,7 +1412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 35,
     "createdAt": "2025-09-23T07:36:52Z"
   },
   {
@@ -1424,7 +1424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 0,
     "createdAt": "2025-06-25T14:17:48Z"
   },
   {
@@ -1436,7 +1436,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 104,
     "createdAt": "2025-09-24T07:36:24Z"
   },
   {
@@ -1460,7 +1460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 9,
     "createdAt": "2025-06-16T20:32:29Z"
   },
   {
@@ -1469,10 +1469,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/208344090?s=72&u=24c62ac5a5ea00ee56abfb7adea98ef4517af803&v=4",
     "location": "Tallinn",
     "company": "",
-    "twitterUsername": "cptx_13",
-    "followers": 1,
-    "privateContributions": 9,
-    "publicContributions": 6,
+    "twitterUsername": "cptxee",
+    "followers": 3,
+    "privateContributions": 11,
+    "publicContributions": 11,
     "createdAt": "2025-04-20T08:43:00Z"
   },
   {
@@ -1484,7 +1484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 264,
+    "publicContributions": 337,
     "createdAt": "2025-10-01T10:31:04Z"
   },
   {
@@ -1507,7 +1507,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 98,
+    "privateContributions": 12,
     "publicContributions": 15,
     "createdAt": "2025-04-01T06:23:42Z"
   },
@@ -1542,9 +1542,9 @@
     "location": "Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 142,
+    "publicContributions": 123,
     "createdAt": "2025-06-14T14:53:01Z"
   },
   {
@@ -1556,7 +1556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 29,
     "createdAt": "2025-09-23T07:39:58Z"
   },
   {
@@ -1567,7 +1567,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2025-08-05T18:35:37Z"
   },
@@ -1580,7 +1580,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 353,
+    "publicContributions": 352,
     "createdAt": "2025-03-10T14:30:57Z"
   },
   {
@@ -1628,7 +1628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 28,
-    "publicContributions": 22,
+    "publicContributions": 17,
     "createdAt": "2024-08-20T09:40:21Z"
   },
   {
@@ -59062,5 +59062,17 @@
     "privateContributions": 163,
     "publicContributions": 25,
     "createdAt": "2018-08-12T09:53:58Z"
+  },
+  {
+    "login": "KalalEnterprise",
+    "name": "Naser Alkalali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165220464?s=72&u=7f420d3bf2390a304d06bb0f6a6efaa57659f6ea&v=4",
+    "location": "Tallinn, Estonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1,
+    "publicContributions": 11,
+    "createdAt": "2024-03-27T22:35:20Z"
   }
 ]

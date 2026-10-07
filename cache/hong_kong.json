@@ -1398,22 +1398,10 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 1,
-    "publicContributions": 1045,
+    "followers": 13,
+    "privateContributions": 11,
+    "publicContributions": 1295,
     "createdAt": "2025-05-12T05:36:20Z"
-  },
-  {
-    "login": "akakarantzas",
-    "name": "Apostolos Kakarantzas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207741174?s=72&u=99cbf8b16bfb8a566790346928e4c9a1bde66683&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "AevaGnarly",
-    "followers": 12,
-    "privateContributions": 122,
-    "publicContributions": 278,
-    "createdAt": "2025-04-15T15:23:53Z"
   },
   {
     "login": "TANGYirui",
@@ -1422,9 +1410,9 @@
     "location": "Hong Kong",
     "company": "The Hong Kong University of Science and Technology",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 100,
-    "publicContributions": 22,
+    "followers": 11,
+    "privateContributions": 118,
+    "publicContributions": 20,
     "createdAt": "2025-02-09T06:24:12Z"
   },
   {
@@ -1441,14 +1429,14 @@
   },
   {
     "login": "PinsterpanKin",
-    "name": "FRANCISco Conceicao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225867330?s=72&u=7c8a642ccd92fad9f09fbe60866782706bb47928&v=4",
+    "name": "Pinsterpan Kam Shi-Poon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225867330?s=72&u=685cc3bf42b2b00ea2a3cbac1e58f56df4b02b67&v=4",
     "location": "Upper Pok Fu Lam, Hong Kong",
     "company": "National University of Singapore",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 48,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 261,
     "createdAt": "2025-08-11T11:52:55Z"
   },
   {
@@ -1458,9 +1446,9 @@
     "location": "Hong Kong",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 12,
     "privateContributions": 58,
-    "publicContributions": 230,
+    "publicContributions": 225,
     "createdAt": "2025-03-04T05:32:34Z"
   },
   {
@@ -1482,9 +1470,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 203,
-    "publicContributions": 134,
+    "followers": 9,
+    "privateContributions": 232,
+    "publicContributions": 135,
     "createdAt": "2025-10-08T03:59:44Z"
   },
   {
@@ -1496,7 +1484,7 @@
     "twitterUsername": "Web3Baron",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2025-02-25T06:48:06Z"
   },
   {
@@ -1506,9 +1494,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 153,
     "createdAt": "2025-04-26T01:56:19Z"
   },
   {
@@ -1518,21 +1506,21 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 102,
     "createdAt": "2025-01-20T13:39:55Z"
   },
   {
     "login": "zorocubing",
     "name": "Kanson Chu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197390433?s=72&u=75ddc225f4c867d9d0bbed963ed3d325a24a4a66&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197390433?s=72&u=dda449df550753793f45eed14d3e93ec24dcb915&v=4",
     "location": "Hong Kong",
     "company": "@St-Margarets-Coding-Club",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 59,
-    "publicContributions": 234,
+    "publicContributions": 192,
     "createdAt": "2025-02-01T13:37:30Z"
   },
   {
@@ -1542,8 +1530,8 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 160,
+    "followers": 9,
+    "privateContributions": 141,
     "publicContributions": 29,
     "createdAt": "2025-04-16T14:35:37Z"
   },
@@ -1554,9 +1542,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 3764,
-    "publicContributions": 185,
+    "followers": 8,
+    "privateContributions": 10260,
+    "publicContributions": 198,
     "createdAt": "2025-11-24T06:40:27Z"
   },
   {
@@ -1564,11 +1552,11 @@
     "name": "Yuan Zhiyi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193118080?s=72&u=b066db60005a26474a6d42a518737124f39bcd47&v=4",
     "location": "Hong Kong",
-    "company": "Grace Investment Machine(GIM)",
+    "company": "",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 55,
     "createdAt": "2024-12-29T06:18:45Z"
   },
   {
@@ -1578,9 +1566,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 39,
     "createdAt": "2025-09-19T15:18:25Z"
   },
   {
@@ -1590,9 +1578,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 216,
+    "publicContributions": 230,
     "createdAt": "2025-03-16T18:56:07Z"
   },
   {
@@ -1603,8 +1591,8 @@
     "company": "",
     "twitterUsername": "alexyunxiang",
     "followers": 6,
-    "privateContributions": 35,
-    "publicContributions": 31,
+    "privateContributions": 19,
+    "publicContributions": 19,
     "createdAt": "2025-07-14T09:02:19Z"
   },
   {
@@ -1616,20 +1604,8 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2025-06-24T14:24:59Z"
-  },
-  {
-    "login": "Miao-Zinan",
-    "name": "Miao Zinan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223595558?s=72&u=b5466330fbc5892ccc1dbf432daaca747c0360df&v=4",
-    "location": "Hong Kong",
-    "company": "The University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 36,
-    "createdAt": "2025-07-30T03:38:36Z"
   },
   {
     "login": "EVIGBYEN",

@@ -1148,20 +1148,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-08-20T13:00:22Z"
-  },
-  {
-    "login": "naouts",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/159945091?s=72&u=f1cb3620c0180797a289ebf9012dc8abe3ce9f19&v=4",
-    "location": "Luxembourg",
-    "company": "@altreonhost",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 833,
-    "publicContributions": 25,
-    "createdAt": "2024-02-13T18:11:31Z"
   },
   {
     "login": "gabrielle-pch",
@@ -1170,8 +1158,8 @@
     "location": "42 Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 106,
-    "privateContributions": 8,
+    "followers": 111,
+    "privateContributions": 14,
     "publicContributions": 2,
     "createdAt": "2023-08-06T13:47:36Z"
   },
@@ -1183,7 +1171,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 472,
+    "privateContributions": 435,
     "publicContributions": 7,
     "createdAt": "2023-06-30T07:44:53Z"
   },
@@ -1195,8 +1183,8 @@
     "company": "Stellar Nursery S.à r.l",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 574,
-    "publicContributions": 838,
+    "privateContributions": 633,
+    "publicContributions": 758,
     "createdAt": "2023-10-23T19:26:37Z"
   },
   {
@@ -1210,18 +1198,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-10T03:19:46Z"
-  },
-  {
-    "login": "Worlds-law",
-    "name": "worlds-law",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132667377?s=72&u=7d9064bcff8ed3c7488b9ac4454c451b59f87636&v=4",
-    "location": "Luxembourg",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2023-05-05T11:17:47Z"
   },
   {
     "login": "acuity-motel",
@@ -1243,8 +1219,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 177,
-    "publicContributions": 38,
+    "privateContributions": 178,
+    "publicContributions": 41,
     "createdAt": "2023-04-20T18:27:13Z"
   },
   {
@@ -1255,8 +1231,8 @@
     "company": "CIRCL",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 14,
-    "publicContributions": 492,
+    "privateContributions": 19,
+    "publicContributions": 1251,
     "createdAt": "2023-04-02T22:16:59Z"
   },
   {
@@ -1268,7 +1244,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 33,
     "createdAt": "2023-09-13T07:13:28Z"
   },
   {
@@ -1292,7 +1268,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 4,
-    "publicContributions": 21,
+    "publicContributions": 37,
     "createdAt": "2023-03-12T12:21:03Z"
   },
   {
@@ -1304,20 +1280,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 24,
     "createdAt": "2023-04-08T16:23:52Z"
-  },
-  {
-    "login": "BastienWinant",
-    "name": "Bastien Winant",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145713109?s=72&u=548d9e2f56ca138a08751459ab507afcc1080d8b&v=4",
-    "location": "Luxembourg",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 288,
-    "publicContributions": 483,
-    "createdAt": "2023-09-21T19:16:18Z"
   },
   {
     "login": "VincentLuders",
@@ -1328,7 +1292,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2023-02-03T10:51:06Z"
   },
   {
@@ -1339,8 +1303,8 @@
     "company": "University of Luxembourg",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 125,
-    "publicContributions": 27,
+    "privateContributions": 102,
+    "publicContributions": 44,
     "createdAt": "2023-03-24T20:29:41Z"
   },
   {
@@ -1352,7 +1316,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 45,
     "createdAt": "2023-05-25T10:57:38Z"
   },
   {
@@ -1364,7 +1328,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 25,
     "createdAt": "2023-12-01T10:09:49Z"
   },
   {
@@ -1376,7 +1340,7 @@
     "twitterUsername": "eGui_eCo",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 34,
     "createdAt": "2023-09-28T12:04:20Z"
   },
   {

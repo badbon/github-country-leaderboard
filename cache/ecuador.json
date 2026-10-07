@@ -1412,7 +1412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 98,
     "createdAt": "2025-01-15T00:24:32Z"
   },
   {
@@ -1424,19 +1424,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 29,
-    "publicContributions": 272,
+    "publicContributions": 274,
     "createdAt": "2025-01-16T00:57:53Z"
   },
   {
     "login": "racalleo",
-    "name": "Raúl Andrés Calle Onofre",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232992611?s=72&u=f4eda4c99bd326bf95e4be5745031cad8f55426e&v=4",
+    "name": "Andrés Calle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232992611?s=72&u=3210a5e199918b92c094213a2be34d1ce53a41b4&v=4",
     "location": "Quito, Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 21,
     "createdAt": "2025-09-18T03:42:01Z"
   },
   {
@@ -1448,7 +1448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 26,
     "createdAt": "2025-10-02T12:32:33Z"
   },
   {
@@ -1460,7 +1460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2025-06-03T12:55:08Z"
   },
   {
@@ -1472,7 +1472,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 385,
     "createdAt": "2025-03-26T07:50:41Z"
   },
   {
@@ -1484,7 +1484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 8,
     "createdAt": "2025-08-27T20:41:19Z"
   },
   {
@@ -1496,7 +1496,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 114,
     "createdAt": "2025-11-07T02:21:35Z"
   },
   {
@@ -1520,7 +1520,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 304,
+    "publicContributions": 296,
     "createdAt": "2025-01-06T23:29:18Z"
   },
   {
@@ -1532,7 +1532,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 62,
     "createdAt": "2025-11-09T03:02:34Z"
   },
   {
@@ -1544,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 59,
-    "publicContributions": 158,
+    "publicContributions": 126,
     "createdAt": "2025-06-03T01:34:13Z"
   },
   {
@@ -1568,20 +1568,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 32,
     "createdAt": "2025-03-16T15:49:48Z"
-  },
-  {
-    "login": "alexalcivarm7",
-    "name": "Alex Alcivar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/233324333?s=72&u=b63745f924a4e88d7a6ab853dc24a9e4f9f6f738&v=4",
-    "location": "Ecuador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2025-09-19T17:04:09Z"
   },
   {
     "login": "AnthonyBrito-dev",

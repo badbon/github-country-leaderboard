@@ -1410,9 +1410,9 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 166,
+    "publicContributions": 155,
     "createdAt": "2026-03-16T22:57:24Z"
   },
   {
@@ -1422,9 +1422,9 @@
     "location": "Viña del mar, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 154,
-    "publicContributions": 66,
+    "followers": 2,
+    "privateContributions": 436,
+    "publicContributions": 93,
     "createdAt": "2026-03-18T22:48:48Z"
   },
   {
@@ -1450,18 +1450,6 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2026-04-29T20:32:33Z"
-  },
-  {
-    "login": "jdelgado-udd",
-    "name": "Joaquín Delgado",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279153654?s=72&v=4",
-    "location": "Las Condes, Santiago, Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2026-04-25T00:38:07Z"
   },
   {
     "login": "javierbricenojimenez-lgtm",
@@ -1506,7 +1494,7 @@
     "location": "Chile",
     "company": "@TesmoTech",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-17T03:53:49Z"
@@ -1544,7 +1532,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 99,
     "createdAt": "2026-03-21T20:22:01Z"
   },
   {
@@ -1562,13 +1550,13 @@
   {
     "login": "santiagocifuvelez",
     "name": "Santiago Cifuentes Vélez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267060268?s=72&u=cc30d53b85b6ffe2827a993a29bdc225523510d5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267060268?s=72&u=53d364349cad7e9a75d4bffc6c1f1bc4c6dbb26a&v=4",
     "location": "Chile",
-    "company": "",
+    "company": "diseno uao/udp",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 547,
+    "publicContributions": 837,
     "createdAt": "2026-03-10T14:10:35Z"
   },
   {
@@ -1578,7 +1566,7 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 44,
     "createdAt": "2026-01-07T17:46:08Z"
@@ -1587,12 +1575,12 @@
     "login": "MartinLazoNeira",
     "name": "Neira",
     "avatarUrl": "https://avatars.githubusercontent.com/u/274674102?s=72&u=f58219e0255c1caff1b96e69f5713463005e752c&v=4",
-    "location": "viña del mar, chile",
+    "location": "viña del mar, Chile",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 57,
     "createdAt": "2026-04-09T02:15:22Z"
   },
   {
@@ -1616,7 +1604,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 51,
     "createdAt": "2026-01-09T17:11:26Z"
   },
   {
@@ -1630,18 +1618,6 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2026-04-19T19:34:05Z"
-  },
-  {
-    "login": "xavigiro5ta",
-    "name": "Xavier Gil de Castro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283020481?s=72&u=313b44838bdc8938fa078bdee6906d850041acca&v=4",
-    "location": "Los Andes, Chile",
-    "company": "5ta Cordillera",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 921,
-    "publicContributions": 5,
-    "createdAt": "2026-05-08T22:13:37Z"
   },
   {
     "login": "joarayaa",

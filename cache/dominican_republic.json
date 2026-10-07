@@ -1400,7 +1400,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 76,
     "createdAt": "2025-09-03T22:41:49Z"
   },
   {
@@ -1412,7 +1412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 18,
     "createdAt": "2025-09-20T16:59:05Z"
   },
   {
@@ -1436,7 +1436,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 32,
     "createdAt": "2025-01-09T22:27:56Z"
   },
   {
@@ -1448,7 +1448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 12,
     "createdAt": "2025-10-01T19:43:18Z"
   },
   {
@@ -1484,7 +1484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 34,
     "createdAt": "2025-07-09T16:57:38Z"
   },
   {
@@ -1508,7 +1508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-09-30T13:09:31Z"
   },
   {
@@ -1542,7 +1542,7 @@
     "location": "Dominican Republic",
     "company": "Dev Protocol",
     "twitterUsername": "",
-    "followers": 307,
+    "followers": 309,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-02T01:58:48Z"
@@ -1566,7 +1566,7 @@
     "location": "Santo Domingo, Dominican Republic 🇩🇴",
     "company": "",
     "twitterUsername": "",
-    "followers": 74,
+    "followers": 72,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2024-02-28T15:50:55Z"
@@ -1578,9 +1578,9 @@
     "location": "Dominican Republic ",
     "company": "",
     "twitterUsername": "",
-    "followers": 72,
+    "followers": 73,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 8,
     "createdAt": "2024-07-12T12:53:58Z"
   },
   {
@@ -1591,33 +1591,21 @@
     "company": "",
     "twitterUsername": "",
     "followers": 50,
-    "privateContributions": 9,
-    "publicContributions": 104,
+    "privateContributions": 10,
+    "publicContributions": 71,
     "createdAt": "2024-11-05T18:05:39Z"
   },
   {
     "login": "cristiandlahoz",
     "name": "Cristian de la Hoz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182702325?s=72&u=e4725da27fd2b71838d35ce56f41cc73638b993d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182702325?s=72&u=7e4b995a3631c31670b892caf7a553efd01d3955&v=4",
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 1131,
-    "publicContributions": 1439,
+    "followers": 29,
+    "privateContributions": 1289,
+    "publicContributions": 1068,
     "createdAt": "2024-09-24T22:13:01Z"
-  },
-  {
-    "login": "mata-codes",
-    "name": "Jorysniel Mata Núñez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173734827?s=72&v=4",
-    "location": "Dominican republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 0,
-    "publicContributions": 160,
-    "createdAt": "2024-06-24T21:08:12Z"
   },
   {
     "login": "jhosenthG",

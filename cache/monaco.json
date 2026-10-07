@@ -1448,7 +1448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 223,
+    "publicContributions": 65,
     "createdAt": "2015-07-31T08:28:53Z"
   },
   {
@@ -1458,9 +1458,9 @@
     "location": "Malta & Monaco",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 9,
     "createdAt": "2014-01-08T14:02:27Z"
   },
   {
@@ -1530,9 +1530,9 @@
     "location": "Monaco",
     "company": "Vilia",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 72,
-    "publicContributions": 201,
+    "followers": 13,
+    "privateContributions": 82,
+    "publicContributions": 173,
     "createdAt": "2013-02-15T15:54:15Z"
   },
   {
@@ -1555,8 +1555,8 @@
     "company": "Fabien CAMBI Informatique",
     "twitterUsername": "toddoli",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 9,
+    "privateContributions": 53,
+    "publicContributions": 14,
     "createdAt": "2013-07-19T17:00:12Z"
   },
   {
@@ -1566,9 +1566,9 @@
     "location": "Monaco",
     "company": "",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 944,
-    "publicContributions": 4071,
+    "followers": 39,
+    "privateContributions": 1267,
+    "publicContributions": 4063,
     "createdAt": "2012-12-28T11:55:23Z"
   },
   {
@@ -1578,9 +1578,9 @@
     "location": "Monaco",
     "company": "KeeSystem",
     "twitterUsername": "vjandrea",
-    "followers": 33,
-    "privateContributions": 0,
-    "publicContributions": 54,
+    "followers": 34,
+    "privateContributions": 398,
+    "publicContributions": 94,
     "createdAt": "2012-04-13T09:21:33Z"
   },
   {
@@ -1615,7 +1615,7 @@
     "company": "VisiCom",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 28,
+    "privateContributions": 22,
     "publicContributions": 9,
     "createdAt": "2012-09-28T09:01:38Z"
   },
@@ -1638,7 +1638,7 @@
     "location": "Monaco",
     "company": "in",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-06-03T14:24:01Z"
@@ -1650,9 +1650,9 @@
     "location": "Monaco",
     "company": "OSIRIS",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2011-09-16T15:27:48Z"
   },
   {
@@ -1663,7 +1663,7 @@
     "company": "Monte-Carlo Computing",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 471,
+    "privateContributions": 545,
     "publicContributions": 0,
     "createdAt": "2010-07-07T16:09:59Z"
   },

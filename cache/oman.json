@@ -1412,7 +1412,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 0,
     "createdAt": "2025-02-25T09:01:57Z"
   },
   {
@@ -1460,7 +1460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 86,
     "createdAt": "2025-09-02T06:50:51Z"
   },
   {
@@ -1471,8 +1471,8 @@
     "company": "University of Technology and Applied Sciences ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 49,
+    "privateContributions": 33,
+    "publicContributions": 58,
     "createdAt": "2025-12-06T20:00:07Z"
   },
   {
@@ -1483,7 +1483,7 @@
     "company": "OSOS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 1006,
     "publicContributions": 7,
     "createdAt": "2025-08-31T08:20:54Z"
   },
@@ -1496,7 +1496,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 6,
     "createdAt": "2025-07-14T11:18:17Z"
   },
   {
@@ -1518,9 +1518,9 @@
     "location": "Oman",
     "company": "Rayza",
     "twitterUsername": "",
-    "followers": 36,
+    "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 63,
     "createdAt": "2024-07-11T16:12:38Z"
   },
   {
@@ -1530,7 +1530,7 @@
     "location": "Oman,Muscat",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 26,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-02T21:55:02Z"
@@ -1542,9 +1542,9 @@
     "location": "Oman",
     "company": "@rihal-om",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 783,
-    "publicContributions": 838,
+    "followers": 19,
+    "privateContributions": 1112,
+    "publicContributions": 941,
     "createdAt": "2024-01-01T17:03:44Z"
   },
   {
@@ -1567,21 +1567,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 6,
-    "publicContributions": 28,
+    "privateContributions": 3,
+    "publicContributions": 19,
     "createdAt": "2024-01-13T18:01:35Z"
-  },
-  {
-    "login": "MohammedAlkindi",
-    "name": "Mohammed Alkindi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175210364?s=72&u=b058bf8a1b19825745180954042d7b8ca26cdce4&v=4",
-    "location": "Muscat, Oman",
-    "company": "ProofX",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 155,
-    "publicContributions": 1565,
-    "createdAt": "2024-07-10T10:35:51Z"
   },
   {
     "login": "Mohammed-Alhassni",
@@ -1591,8 +1579,8 @@
     "company": "Codeline",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 50,
-    "publicContributions": 945,
+    "privateContributions": 42,
+    "publicContributions": 981,
     "createdAt": "2024-08-05T11:21:35Z"
   },
   {
@@ -1604,7 +1592,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 13,
     "createdAt": "2024-10-07T02:57:37Z"
   },
   {
@@ -1614,9 +1602,9 @@
     "location": "Oman",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 433,
-    "publicContributions": 205,
+    "followers": 8,
+    "privateContributions": 788,
+    "publicContributions": 198,
     "createdAt": "2024-05-07T08:47:45Z"
   },
   {
@@ -1627,7 +1615,7 @@
     "company": "Make The Change",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1668,
+    "privateContributions": 1686,
     "publicContributions": 9,
     "createdAt": "2024-08-18T11:53:27Z"
   },
@@ -1640,7 +1628,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 379,
+    "publicContributions": 243,
     "createdAt": "2024-03-10T21:21:10Z"
   },
   {
@@ -11986,5 +11974,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-11-11T17:16:58Z"
+  },
+  {
+    "login": "zuhairSh",
+    "name": "Zuhair Al Shell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284302033?s=72&u=dccae7a753d67ff1e3f91695be5fb9554961b567&v=4",
+    "location": "Oman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 129,
+    "createdAt": "2026-05-13T11:45:24Z"
+  },
+  {
+    "login": "AnanyaIntech-source",
+    "name": "Ananya Siju",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287256525?s=72&u=167500306983cf5844ae49a6ee6ba0ca6dcc14c8&v=4",
+    "location": "Muscat, Oman",
+    "company": "B.Tech CSE @ MNIT Jaipur '29",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 321,
+    "createdAt": "2026-05-23T15:54:22Z"
+  },
+  {
+    "login": "todaychocolateom-dotcom",
+    "name": "SUGAR FREE CHOCO HUB ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288177777?s=72&v=4",
+    "location": "Oman muscat ",
+    "company": "Choco hub",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-05-27T01:26:39Z"
+  },
+  {
+    "login": "montherwaili",
+    "name": "Almonther Alwaili",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296135454?s=72&v=4",
+    "location": "Oman",
+    "company": "Codeline",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 598,
+    "createdAt": "2026-06-23T10:39:50Z"
+  },
+  {
+    "login": "Mo7ammed-ALhamrashdi",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291441690?s=72&v=4",
+    "location": "Oman",
+    "company": "Codeline",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 430,
+    "createdAt": "2026-06-07T05:11:14Z"
+  },
+  {
+    "login": "saniyaebin",
+    "name": "SANIYA EBIN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287388502?s=72&u=48039c98f2ef67cbf629f4b301809fced98f4b74&v=4",
+    "location": "Muscat,Oman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2026-05-24T07:41:05Z"
+  },
+  {
+    "login": "BasilHafedh",
+    "name": "Basil Al-Khanjari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289976332?s=72&u=8d0e7086b1c431e2e10ccb7353ff47ca7d85ca94&v=4",
+    "location": "oman",
+    "company": "sanad office",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2026-06-02T09:29:28Z"
+  },
+  {
+    "login": "engSulaimanMohammed",
+    "name": "Sulaiman Mohammed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296390965?s=72&u=d22ee4d424f10141edbf62d25896f60dc8afe783&v=4",
+    "location": "Muscat, Oman",
+    "company": "Codeline",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1306,
+    "createdAt": "2026-06-24T06:08:56Z"
   }
 ]

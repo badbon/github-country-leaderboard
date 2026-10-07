@@ -1447,7 +1447,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 20,
     "publicContributions": 1,
     "createdAt": "2026-02-19T16:04:44Z"
   },
@@ -1459,21 +1459,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1096,
+    "privateContributions": 97,
+    "publicContributions": 1220,
     "createdAt": "2026-04-02T11:27:04Z"
-  },
-  {
-    "login": "svglobalph-Va-expert",
-    "name": "Shaira Lachica | Founder, SV GLOBAL PH",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264854867?s=72&u=9d5ab5cde9e6565f3d75c386efafff0a88f8a284&v=4",
-    "location": "Cebu City, Philippines | Serving U.S. Healthcare",
-    "company": "SV GLOBAL PH ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-01T19:29:00Z"
   },
   {
     "login": "fatimahcariaga24",
@@ -1494,7 +1482,7 @@
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-03-19T11:45:08Z"
@@ -1520,7 +1508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 271,
     "createdAt": "2026-02-25T11:05:11Z"
   },
   {
@@ -1549,14 +1537,14 @@
   },
   {
     "login": "maryjeiel",
-    "name": "Mary Jeiel Arnaiz",
+    "name": "MJ Arnaiz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/273817984?s=72&u=390ce7636ca08e8ebadf92e3349894b92a6f0951&v=4",
     "location": "Philippines",
     "company": "Listahan",
     "twitterUsername": "MaryJeiel",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 542,
+    "publicContributions": 575,
     "createdAt": "2026-04-05T15:56:31Z"
   },
   {
@@ -1614,9 +1602,9 @@
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2567,
+    "publicContributions": 2589,
     "createdAt": "2026-01-30T06:14:27Z"
   },
   {
@@ -1638,7 +1626,7 @@
     "location": "Philippines",
     "company": "Accenture, Inc.",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-18T23:11:54Z"

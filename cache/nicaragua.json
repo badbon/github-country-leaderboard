@@ -1446,9 +1446,9 @@
     "location": "Nicaragua ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 68,
     "createdAt": "2024-06-29T20:59:33Z"
   },
   {
@@ -1460,7 +1460,7 @@
     "twitterUsername": "LesterART_",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 221,
+    "publicContributions": 217,
     "createdAt": "2024-02-21T20:46:28Z"
   },
   {
@@ -1472,7 +1472,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-08-08T19:23:57Z"
   },
   {
@@ -1496,7 +1496,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 63,
     "createdAt": "2024-02-11T23:44:18Z"
   },
   {
@@ -1508,7 +1508,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 40,
     "createdAt": "2024-08-31T05:32:53Z"
   },
   {
@@ -1519,7 +1519,7 @@
     "company": "Tizo",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 26,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-16T16:07:44Z"
   },
@@ -1532,7 +1532,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 31,
     "createdAt": "2024-10-10T01:09:22Z"
   },
   {
@@ -1544,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 6,
     "createdAt": "2024-02-15T13:34:04Z"
   },
   {
@@ -1578,9 +1578,9 @@
     "location": "Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 46,
     "createdAt": "2024-02-04T16:30:47Z"
   },
   {
@@ -1592,19 +1592,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2024-05-02T22:15:10Z"
   },
   {
     "login": "BryamContreras",
-    "name": "Bryam Contreras",
+    "name": "SoyBryam06c",
     "avatarUrl": "https://avatars.githubusercontent.com/u/188715633?s=72&u=f43278ddbaffa1c4588b08c0c4f4748cbcca8e7e&v=4",
     "location": "Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 187,
     "createdAt": "2024-11-16T21:06:59Z"
   },
   {
@@ -1616,7 +1616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 12,
     "createdAt": "2024-03-19T16:33:41Z"
   },
   {
@@ -1628,7 +1628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 26,
     "createdAt": "2024-09-10T04:16:52Z"
   },
   {
@@ -1657,7 +1657,7 @@
   },
   {
     "login": "orochit",
-    "name": "maso!",
+    "name": "! mauso",
     "avatarUrl": "https://avatars.githubusercontent.com/u/180238792?s=72&u=d2e6866bb9a3f453565de10cdd9ec6c14e018365&v=4",
     "location": "Nicaragua",
     "company": "",
@@ -1669,12 +1669,12 @@
   },
   {
     "login": "Engel-167",
-    "name": "Engel Giovany Mendoza Polanco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184320551?s=72&u=738c25210370d1dc3347e2aae38a9e3cb0a1719b&v=4",
-    "location": "Nicaragua, Nindiri",
+    "name": "Engel Mendoza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184320551?s=72&u=1f7d73fc37a600d3df49f05ca4f13b3f10eea93f&v=4",
+    "location": "Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2024-10-08T23:27:49Z"
@@ -16798,5 +16798,41 @@
     "privateContributions": 273,
     "publicContributions": 11,
     "createdAt": "2008-08-26T14:31:27Z"
+  },
+  {
+    "login": "ImEliasBtw",
+    "name": "Elias Castillo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287829093?s=72&u=2ef4ca539099e07d9beebdd02818a8ec61b0a480&v=4",
+    "location": "Nicaragua",
+    "company": "Masaya CO",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-05-25T22:56:17Z"
+  },
+  {
+    "login": "sayerdis",
+    "name": "Sergio Ayerdis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295195579?s=72&u=742f5c715f927274d2ad1a38ebd5b4e397ff0032&v=4",
+    "location": "Managua, Nicaragua",
+    "company": "Flor de Caña",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1072,
+    "publicContributions": 1,
+    "createdAt": "2026-06-19T17:56:59Z"
+  },
+  {
+    "login": "jbdavila-a11y",
+    "name": "Jarov Dávila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296675958?s=72&u=87e80f77a910a780b762ec55edb1439d62dfbb4e&v=4",
+    "location": "Managua, Nicaragua",
+    "company": "Grupo LAFISE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-24T22:05:27Z"
   }
 ]

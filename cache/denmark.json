@@ -1376,7 +1376,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 200,
+    "publicContributions": 212,
     "createdAt": "2025-09-03T10:01:36Z"
   },
   {
@@ -1388,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 11,
     "createdAt": "2025-09-03T09:15:28Z"
   },
   {
@@ -1398,9 +1398,9 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 293,
-    "publicContributions": 11,
+    "followers": 4,
+    "privateContributions": 337,
+    "publicContributions": 9,
     "createdAt": "2025-01-21T18:53:05Z"
   },
   {
@@ -1412,7 +1412,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 38,
     "createdAt": "2025-12-03T11:35:18Z"
   },
   {
@@ -1422,9 +1422,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 32,
     "createdAt": "2025-07-15T18:01:34Z"
   },
   {
@@ -1436,7 +1436,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 349,
+    "publicContributions": 424,
     "createdAt": "2025-04-06T13:03:48Z"
   },
   {
@@ -1446,9 +1446,9 @@
     "location": "Copenhagen, Denmark",
     "company": "Nordic Sustainability",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 427,
+    "publicContributions": 733,
     "createdAt": "2025-04-08T07:48:07Z"
   },
   {
@@ -1458,9 +1458,9 @@
     "location": "Copenhagen, Denmark",
     "company": "The Public Domain",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 199,
-    "publicContributions": 526,
+    "followers": 4,
+    "privateContributions": 232,
+    "publicContributions": 672,
     "createdAt": "2025-12-03T17:16:06Z"
   },
   {
@@ -1472,7 +1472,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 8,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2025-01-01T12:30:43Z"
   },
   {
@@ -1484,19 +1484,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 291,
+    "publicContributions": 150,
     "createdAt": "2025-01-29T23:07:07Z"
   },
   {
     "login": "lucanien01",
     "name": "Lucas Kristensen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224385316?s=72&u=0f5aecd4367cd5c3546fbf274341e15c32904a90&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224385316?s=72&u=eac68a336e63ef8702fe72dada07afc871359d4d&v=4",
     "location": "denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 16,
     "createdAt": "2025-08-03T09:37:40Z"
   },
   {
@@ -1506,9 +1506,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 17,
-    "publicContributions": 292,
+    "followers": 4,
+    "privateContributions": 27,
+    "publicContributions": 291,
     "createdAt": "2025-09-08T11:11:27Z"
   },
   {
@@ -1543,8 +1543,8 @@
     "company": "KMD A/S",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 207,
-    "publicContributions": 377,
+    "privateContributions": 253,
+    "publicContributions": 347,
     "createdAt": "2025-01-06T20:10:51Z"
   },
   {
@@ -1554,9 +1554,9 @@
     "location": "Aarhus, Denmark",
     "company": "Aarhus University",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 5,
-    "publicContributions": 72,
+    "publicContributions": 82,
     "createdAt": "2025-06-11T08:57:02Z"
   },
   {
@@ -1567,8 +1567,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 61,
-    "publicContributions": 169,
+    "privateContributions": 22,
+    "publicContributions": 174,
     "createdAt": "2025-02-19T07:43:23Z"
   },
   {
@@ -1578,7 +1578,7 @@
     "location": "Denmark",
     "company": "Nexo Team",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2025-06-19T21:28:50Z"
@@ -1591,8 +1591,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 32,
-    "publicContributions": 232,
+    "privateContributions": 35,
+    "publicContributions": 184,
     "createdAt": "2025-04-02T09:38:15Z"
   },
   {
@@ -1602,9 +1602,9 @@
     "location": "Denmark, South Carolina.",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 207,
     "createdAt": "2025-06-30T19:22:54Z"
   },
   {
@@ -231598,5 +231598,17 @@
     "privateContributions": 5,
     "publicContributions": 49,
     "createdAt": "2023-05-13T10:05:50Z"
+  },
+  {
+    "login": "jnggerg",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208731250?s=72&u=9ee9baabc4548085023f51994a1dba178b831b5b&v=4",
+    "location": "Copenhagen, Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 177,
+    "publicContributions": 94,
+    "createdAt": "2025-04-23T00:35:38Z"
   }
 ]

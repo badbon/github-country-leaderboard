@@ -1482,9 +1482,9 @@
     "location": "Praia Grande, SP",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1866,
-    "publicContributions": 41,
+    "followers": 3,
+    "privateContributions": 2547,
+    "publicContributions": 51,
     "createdAt": "2023-07-04T23:40:50Z"
   },
   {
@@ -1496,7 +1496,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 77,
     "createdAt": "2023-09-30T00:08:04Z"
   },
   {
@@ -1520,7 +1520,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 2,
     "createdAt": "2023-03-15T16:42:32Z"
   },
   {
@@ -1548,18 +1548,6 @@
     "createdAt": "2023-08-14T12:42:32Z"
   },
   {
-    "login": "ewertongomeslisboa",
-    "name": "Ewerton Gomes Lisboa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149094494?s=72&u=0d3c03a3514d9493c3243c6b6a60eb58e5d426c7&v=4",
-    "location": "Praia Grande - SP",
-    "company": "Envision Tecnologia",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 23,
-    "publicContributions": 45,
-    "createdAt": "2023-10-26T16:02:46Z"
-  },
-  {
     "login": "Gabrielneves05",
     "name": "Gabriel Neves",
     "avatarUrl": "https://avatars.githubusercontent.com/u/129914892?s=72&u=e734f165c4f9499f67cdb8f295217d9c713d2d19&v=4",
@@ -1567,8 +1555,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 356,
-    "publicContributions": 62,
+    "privateContributions": 331,
+    "publicContributions": 74,
     "createdAt": "2023-04-05T01:03:55Z"
   },
   {
@@ -1636,11 +1624,11 @@
     "name": "Carolini Paiva",
     "avatarUrl": "https://avatars.githubusercontent.com/u/142840023?s=72&u=f49ee1c99a96f9990cf735f3047685680a05886f&v=4",
     "location": "Praia Grande - SP",
-    "company": "@SumUp",
+    "company": "@FacioCode",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 44,
+    "privateContributions": 70,
+    "publicContributions": 45,
     "createdAt": "2023-08-21T19:44:16Z"
   },
   {

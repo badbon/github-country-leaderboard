@@ -1434,9 +1434,9 @@
     "location": "San Juan City",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 772,
-    "publicContributions": 28,
+    "followers": 23,
+    "privateContributions": 1160,
+    "publicContributions": 25,
     "createdAt": "2024-01-13T14:26:52Z"
   },
   {
@@ -1448,7 +1448,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 42,
     "createdAt": "2024-04-12T22:28:28Z"
   },
   {
@@ -1459,7 +1459,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 564,
+    "privateContributions": 589,
     "publicContributions": 5,
     "createdAt": "2024-05-07T00:11:04Z"
   },
@@ -1470,9 +1470,9 @@
     "location": "San Juan City",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 134,
     "createdAt": "2024-09-17T10:43:01Z"
   },
   {
@@ -1482,7 +1482,7 @@
     "location": "San Juan Baao Camarines Sur ",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-11-18T13:24:57Z"
@@ -1507,7 +1507,7 @@
     "company": "@deloitte",
     "twitterUsername": "kbpsystem",
     "followers": 2,
-    "privateContributions": 3,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2024-11-03T23:39:23Z"
   },
@@ -1518,9 +1518,9 @@
     "location": "Las Cabezas de San Juan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 171,
     "createdAt": "2024-04-30T12:41:43Z"
   },
   {
@@ -1628,19 +1628,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 62,
     "createdAt": "2024-12-11T02:43:49Z"
   },
   {
     "login": "dg203302",
     "name": "Diego García",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168243435?s=72&u=9e8eb7533944b63fbbd4f06ff001d220aee58d3d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168243435?s=72&u=bd824386764d5946f6431c0d088ec8000e357502&v=4",
     "location": "San Juan Argentina",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 73,
-    "publicContributions": 937,
+    "privateContributions": 185,
+    "publicContributions": 833,
     "createdAt": "2024-04-27T00:47:36Z"
   },
   {
@@ -1664,7 +1664,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 43,
     "createdAt": "2024-04-19T15:32:03Z"
   },
   {

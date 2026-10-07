@@ -1484,7 +1484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 13,
     "createdAt": "2024-01-29T15:50:03Z"
   },
   {
@@ -1506,7 +1506,7 @@
     "location": "Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 49,
+    "followers": 48,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-26T09:53:21Z"
@@ -1518,9 +1518,9 @@
     "location": "Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
-    "privateContributions": 833,
-    "publicContributions": 260,
+    "followers": 51,
+    "privateContributions": 938,
+    "publicContributions": 245,
     "createdAt": "2023-06-16T19:52:01Z"
   },
   {
@@ -1530,7 +1530,7 @@
     "location": "North Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
+    "followers": 36,
     "privateContributions": 0,
     "publicContributions": 72,
     "createdAt": "2023-03-05T17:39:35Z"
@@ -1556,7 +1556,7 @@
     "twitterUsername": "",
     "followers": 34,
     "privateContributions": 542,
-    "publicContributions": 68,
+    "publicContributions": 30,
     "createdAt": "2023-07-10T16:21:25Z"
   },
   {
@@ -1578,22 +1578,10 @@
     "location": "Ohrid, North Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 211,
+    "publicContributions": 186,
     "createdAt": "2023-04-17T14:55:05Z"
-  },
-  {
-    "login": "ronismaili",
-    "name": "Ron Ismaili",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125833337?s=72&u=524dee0aa9424cc7a58f432459ad4e63be5c4611&v=4",
-    "location": "North Macedonia",
-    "company": "AdaptiveScale",
-    "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 677,
-    "publicContributions": 0,
-    "createdAt": "2023-02-19T21:36:11Z"
   },
   {
     "login": "vladislavangelovski",
@@ -1604,7 +1592,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 211,
+    "publicContributions": 197,
     "createdAt": "2023-11-05T22:54:18Z"
   },
   {
@@ -1615,8 +1603,8 @@
     "company": "@intertecio",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 273,
-    "publicContributions": 152,
+    "privateContributions": 247,
+    "publicContributions": 132,
     "createdAt": "2023-02-22T00:00:38Z"
   },
   {
@@ -1626,7 +1614,7 @@
     "location": "Skopje,North Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-16T18:53:16Z"
@@ -1638,9 +1626,9 @@
     "location": "Skopje, North Macedonia",
     "company": "Intertec.io",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 887,
-    "publicContributions": 344,
+    "followers": 12,
+    "privateContributions": 3989,
+    "publicContributions": 284,
     "createdAt": "2023-07-01T11:35:37Z"
   },
   {
@@ -1651,8 +1639,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 553,
-    "publicContributions": 497,
+    "privateContributions": 557,
+    "publicContributions": 455,
     "createdAt": "2023-02-15T22:02:03Z"
   },
   {
@@ -1662,7 +1650,7 @@
     "location": "Skopje, Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 69,
     "createdAt": "2023-06-26T11:42:33Z"
@@ -1674,9 +1662,9 @@
     "location": "North Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 186,
-    "publicContributions": 100,
+    "followers": 10,
+    "privateContributions": 313,
+    "publicContributions": 84,
     "createdAt": "2023-04-19T21:02:24Z"
   },
   {
