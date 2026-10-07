@@ -1207,7 +1207,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-16T11:03:27Z"
   },
@@ -1255,7 +1255,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 16,
+    "privateContributions": 13,
     "publicContributions": 0,
     "createdAt": "2024-07-26T15:13:05Z"
   },
@@ -1290,9 +1290,9 @@
     "location": "Slovenia / Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 45,
-    "publicContributions": 116,
+    "followers": 5,
+    "privateContributions": 385,
+    "publicContributions": 102,
     "createdAt": "2023-10-25T21:54:08Z"
   },
   {
@@ -1302,9 +1302,9 @@
     "location": "Skopje",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 57,
     "createdAt": "2024-07-15T10:03:24Z"
   },
   {
@@ -1327,8 +1327,8 @@
     "company": "S.S.R",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 304,
-    "publicContributions": 394,
+    "privateContributions": 1082,
+    "publicContributions": 0,
     "createdAt": "2024-08-04T22:51:20Z"
   },
   {
@@ -1351,8 +1351,8 @@
     "company": "Finki-Student",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 35,
-    "publicContributions": 284,
+    "privateContributions": 38,
+    "publicContributions": 285,
     "createdAt": "2024-07-03T23:50:44Z"
   },
   {
@@ -1364,7 +1364,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2024-02-26T08:36:10Z"
   },
   {
@@ -1376,7 +1376,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 21,
     "createdAt": "2024-06-23T17:18:19Z"
   },
   {
@@ -1388,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 50,
     "createdAt": "2024-03-08T15:50:46Z"
   },
   {
@@ -1424,7 +1424,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 254,
     "createdAt": "2024-03-04T15:30:49Z"
   },
   {

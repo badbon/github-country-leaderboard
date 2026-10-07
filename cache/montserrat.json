@@ -1195,7 +1195,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 101,
+    "privateContributions": 117,
     "publicContributions": 4,
     "createdAt": "2019-08-22T17:04:25Z"
   },
@@ -1230,7 +1230,7 @@
     "location": "Plymouth",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 178,
     "publicContributions": 30,
     "createdAt": "2019-01-20T22:26:07Z"
@@ -1246,18 +1246,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-26T13:00:13Z"
-  },
-  {
-    "login": "Loganv308",
-    "name": "Logan Velier",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48226576?s=72&u=417fe697ec69ceab3e5c9e2d3e198204b65c84b6&v=4",
-    "location": "Plymouth, WI",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 70,
-    "publicContributions": 210,
-    "createdAt": "2019-03-04T22:35:31Z"
   },
   {
     "login": "Lolman000",
@@ -1278,7 +1266,7 @@
     "location": "Plymouth Minnesota",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-26T00:27:12Z"
@@ -1316,7 +1304,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3329,
+    "publicContributions": 3778,
     "createdAt": "2019-11-08T13:57:03Z"
   },
   {
@@ -1364,7 +1352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 6,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2019-07-21T17:28:57Z"
   },
   {

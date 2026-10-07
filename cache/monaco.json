@@ -1244,7 +1244,7 @@
     "twitterUsername": "CMindus",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 13,
     "createdAt": "2017-04-29T15:33:27Z"
   },
   {
@@ -1256,7 +1256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 17,
     "createdAt": "2017-10-02T13:37:08Z"
   },
   {
@@ -1278,8 +1278,8 @@
     "location": "Monaco",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 659,
+    "followers": 11,
+    "privateContributions": 783,
     "publicContributions": 0,
     "createdAt": "2016-10-10T10:02:50Z"
   },
@@ -1303,7 +1303,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3,
+    "privateContributions": 253,
     "publicContributions": 0,
     "createdAt": "2016-10-13T09:00:49Z"
   },
@@ -1375,7 +1375,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2016-01-08T09:32:24Z"
   },
@@ -1386,9 +1386,9 @@
     "location": "Monaco",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 120,
-    "publicContributions": 42,
+    "publicContributions": 40,
     "createdAt": "2015-11-05T16:27:36Z"
   },
   {
@@ -1400,7 +1400,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 18,
     "createdAt": "2015-05-19T14:12:50Z"
   },
   {
@@ -1411,7 +1411,7 @@
     "company": "Inforca",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 655,
+    "privateContributions": 784,
     "publicContributions": 168,
     "createdAt": "2015-05-19T12:46:25Z"
   },
@@ -1702,5 +1702,17 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2019-06-12T14:58:45Z"
+  },
+  {
+    "login": "py-taczynski-mtmc",
+    "name": "Pierre-Yves Taczynski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284327194?s=72&u=4f2444fbe248f80c24270d4b3e84b9e5a7cddec8&v=4",
+    "location": "Monaco",
+    "company": "Monaco Télécom",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-13T13:21:59Z"
   }
 ]

@@ -1196,7 +1196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 156,
+    "publicContributions": 134,
     "createdAt": "2025-02-07T16:44:19Z"
   },
   {
@@ -1220,20 +1220,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 23,
     "createdAt": "2025-11-28T00:28:07Z"
-  },
-  {
-    "login": "Quzr27",
-    "name": "quzr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/247012884?s=72&u=d833139c22dbd292d90ea129b51d08f82ac750dc&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "Quzr27",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 95,
-    "createdAt": "2025-11-30T16:21:33Z"
   },
   {
     "login": "kirwlx",
@@ -1256,7 +1244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-13T12:40:41Z"
   },
   {
@@ -1284,18 +1272,6 @@
     "createdAt": "2025-10-23T14:37:16Z"
   },
   {
-    "login": "Frantisek-Rados",
-    "name": "František Radoš",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/220493344?s=72&u=99256c08c0205a481600c673c148fc8dbbe27eb8&v=4",
-    "location": "slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 136,
-    "createdAt": "2025-07-12T13:36:52Z"
-  },
-  {
     "login": "youngboy21178",
     "name": "Maksym Melnyk",
     "avatarUrl": "https://avatars.githubusercontent.com/u/199815492?s=72&u=02aa11a4aca9aa44a67048a6abc5115b70741484&v=4",
@@ -1304,7 +1280,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 43,
     "createdAt": "2025-02-18T17:45:54Z"
   },
   {
@@ -1327,8 +1303,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 8538,
-    "publicContributions": 257,
+    "privateContributions": 9690,
+    "publicContributions": 266,
     "createdAt": "2025-02-19T21:23:35Z"
   },
   {
@@ -1339,7 +1315,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 549,
+    "privateContributions": 515,
     "publicContributions": 3,
     "createdAt": "2025-05-18T19:46:24Z"
   },
@@ -1351,20 +1327,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 267,
+    "privateContributions": 475,
     "publicContributions": 0,
     "createdAt": "2025-01-23T15:21:56Z"
   },
   {
     "login": "PavolUlicny",
     "name": "Pavol Ulicny",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200281279?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200281279?s=72&u=a82109cd1bbfeae1f5243a68e9308ad30f993e89&v=4",
     "location": "Bratislava ",
     "company": "High school",
-    "twitterUsername": "",
-    "followers": 115,
-    "privateContributions": 780,
-    "publicContributions": 1469,
+    "twitterUsername": "s0nda7",
+    "followers": 109,
+    "privateContributions": 785,
+    "publicContributions": 2289,
     "createdAt": "2025-02-21T20:08:48Z"
   },
   {
@@ -1386,7 +1362,7 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-24T08:30:35Z"
@@ -1398,9 +1374,9 @@
     "location": "Bratislava",
     "company": "Vovawe Project",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 150,
-    "publicContributions": 45,
+    "followers": 2,
+    "privateContributions": 173,
+    "publicContributions": 48,
     "createdAt": "2025-10-23T05:02:45Z"
   },
   {
@@ -1412,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-11-04T13:59:39Z"
   },
   {

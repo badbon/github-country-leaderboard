@@ -1164,18 +1164,6 @@
     "createdAt": "2026-04-29T12:43:14Z"
   },
   {
-    "login": "Eddamoun",
-    "name": "Eddamoun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281708349?s=72&u=3d7d1be2b14fbe6fcc7ca360ff6e21b9216464a0&v=4",
-    "location": "Tétouan, Morocco",
-    "company": "Eddamoun",
-    "twitterUsername": "EddamounTools",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2026-05-04T17:03:42Z"
-  },
-  {
     "login": "Zakiennair",
     "name": "ze-cago95",
     "avatarUrl": "https://avatars.githubusercontent.com/u/275806175?s=72&u=b5ab57d62683e5e2e5fb552b34093b3cbdd21a4b&v=4",
@@ -1230,21 +1218,21 @@
     "location": "Sale, Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 40,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 24,
     "createdAt": "2026-04-02T11:45:30Z"
   },
   {
     "login": "AdamElkhalfaouy",
-    "name": "Adam EL Khalfaouy ",
+    "name": "Adam ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/275340075?s=72&v=4",
     "location": "Casablanca, Morocco",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2026-04-11T17:40:27Z"
   },
   {
@@ -1254,7 +1242,7 @@
     "location": "Casablanca, Morocco 🇲🇦",
     "company": "Student (Full Stack Web Development)",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-05-06T17:32:27Z"
@@ -1278,22 +1266,10 @@
     "location": "Tangier, Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 35,
     "createdAt": "2026-04-15T20:29:40Z"
-  },
-  {
-    "login": "olidbk",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269260809?s=72&u=2e081784105629b48f7b529292d4504dde445053&v=4",
-    "location": "Morocco",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 129,
-    "createdAt": "2026-03-18T16:54:02Z"
   },
   {
     "login": "akashieve",
@@ -1306,18 +1282,6 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-01-22T13:05:23Z"
-  },
-  {
-    "login": "zkm44k2gzx-cell",
-    "name": "lilia rajji",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279807510?s=72&v=4",
-    "location": "Agadir, Morocco",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-04-27T18:21:37Z"
   },
   {
     "login": "fmcmakers",
@@ -1352,7 +1316,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 113,
     "createdAt": "2026-02-15T08:27:33Z"
   },
   {
@@ -1362,9 +1326,9 @@
     "location": "Rabat",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2026-04-08T13:06:15Z"
   },
   {

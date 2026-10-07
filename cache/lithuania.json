@@ -1176,18 +1176,6 @@
     "createdAt": "2025-03-05T09:03:12Z"
   },
   {
-    "login": "deimantae",
-    "name": "Deimantė Juknevičiūtė",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231850651?s=72&u=9f58d510b699422da6bbc64c45925f7d4fac9f37&v=4",
-    "location": "Vilnius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 41,
-    "createdAt": "2025-09-12T08:03:38Z"
-  },
-  {
     "login": "vke677",
     "name": "Jurgita Skucaite",
     "avatarUrl": "https://avatars.githubusercontent.com/u/227750287?s=72&u=91e3ef6f1fde7f0635cb112a8a4333d581005dda&v=4",
@@ -1196,19 +1184,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-21T06:26:22Z"
   },
   {
     "login": "TheNeovimmer",
     "name": "TheNeovimmer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/163532480?s=72&u=d9a6c58c4f4ac789081ccd8a3f8ea01240adab10&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163532480?s=72&u=cc2e05c571d961c5cb0eb07d8a6254637b0f00d2&v=4",
     "location": "Lithuania",
     "company": "CEO OF @99syntax",
     "twitterUsername": "TheNeovimmer",
-    "followers": 289,
-    "privateContributions": 1785,
-    "publicContributions": 529,
+    "followers": 286,
+    "privateContributions": 2166,
+    "publicContributions": 682,
     "createdAt": "2024-03-15T11:36:54Z"
   },
   {
@@ -1218,7 +1206,7 @@
     "location": "Lithuania",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-18T13:46:35Z"
@@ -1231,8 +1219,8 @@
     "company": "Vilnius",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 24,
-    "publicContributions": 151,
+    "privateContributions": 30,
+    "publicContributions": 126,
     "createdAt": "2024-10-22T14:12:15Z"
   },
   {
@@ -1244,7 +1232,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 26,
     "createdAt": "2024-05-05T07:30:40Z"
   },
   {
@@ -1254,9 +1242,9 @@
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 94,
-    "publicContributions": 19,
+    "followers": 15,
+    "privateContributions": 67,
+    "publicContributions": 40,
     "createdAt": "2024-03-10T17:36:57Z"
   },
   {
@@ -1266,9 +1254,9 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 169,
-    "publicContributions": 19,
+    "followers": 14,
+    "privateContributions": 194,
+    "publicContributions": 50,
     "createdAt": "2024-01-11T20:40:12Z"
   },
   {
@@ -1278,22 +1266,10 @@
     "location": "Vilnius, LIthuania",
     "company": "Reiz Tech ",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 39,
     "createdAt": "2024-08-14T05:35:03Z"
-  },
-  {
-    "login": "Snibesto20",
-    "name": "Snibesto",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/171263417?s=72&u=306daace1951ba72e7726ad7638581bc94518d92&v=4",
-    "location": "Lithuania",
-    "company": "Freelancer",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 62,
-    "createdAt": "2024-05-30T14:32:12Z"
   },
   {
     "login": "Hirthick21",
@@ -1302,7 +1278,7 @@
     "location": "kaunas, lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 66,
     "createdAt": "2024-03-11T09:33:44Z"
@@ -1315,8 +1291,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 405,
-    "publicContributions": 100,
+    "privateContributions": 407,
+    "publicContributions": 85,
     "createdAt": "2024-04-20T18:32:36Z"
   },
   {
@@ -1326,9 +1302,9 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2024-06-17T12:54:25Z"
   },
   {
@@ -1340,7 +1316,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 0,
     "createdAt": "2024-10-30T13:59:48Z"
   },
   {
@@ -1350,9 +1326,9 @@
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 126,
+    "followers": 4,
+    "privateContributions": 90,
+    "publicContributions": 37,
     "createdAt": "2024-04-04T04:17:49Z"
   },
   {
@@ -1363,8 +1339,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 9,
-    "publicContributions": 155,
+    "privateContributions": 0,
+    "publicContributions": 106,
     "createdAt": "2024-11-18T13:50:07Z"
   },
   {
@@ -1376,7 +1352,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 6,
-    "publicContributions": 15,
+    "publicContributions": 7,
     "createdAt": "2024-10-29T09:07:38Z"
   },
   {

@@ -1208,7 +1208,7 @@
     "twitterUsername": "codexflux",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2026-04-04T09:14:19Z"
   },
   {
@@ -1220,7 +1220,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 35,
     "createdAt": "2026-02-25T04:06:36Z"
   },
   {
@@ -1230,7 +1230,7 @@
     "location": "Kandy, Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 133,
     "createdAt": "2026-01-06T05:54:43Z"
@@ -1242,7 +1242,7 @@
     "location": "Colombo, Sri Lanka",
     "company": "University of Westminster",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-03-18T09:25:35Z"
@@ -1255,8 +1255,8 @@
     "company": "@frametoque ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 425,
-    "publicContributions": 473,
+    "privateContributions": 541,
+    "publicContributions": 653,
     "createdAt": "2026-01-30T13:12:35Z"
   },
   {
@@ -1280,7 +1280,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2026-04-27T07:29:01Z"
   },
   {
@@ -1290,9 +1290,9 @@
     "location": "Gampaha, Sri Lanka",
     "company": "",
     "twitterUsername": "gavindu2006",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 15,
     "createdAt": "2026-01-05T05:46:31Z"
   },
   {
@@ -1302,9 +1302,9 @@
     "location": "Kandy, Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 370,
     "createdAt": "2026-02-19T13:52:04Z"
   },
   {
@@ -1316,19 +1316,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 110,
     "createdAt": "2026-01-25T17:37:09Z"
   },
   {
     "login": "isiwaraMallawaarachchi",
     "name": "Isiwara",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263369657?s=72&u=bed7eee799e5ef325c9223a1ada4c20365ab008e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263369657?s=72&u=b4e5df1b2e2d046e3eaaa166ee96b1f9d8e170df&v=4",
     "location": "Sri Lanka",
     "company": "University of Moratuwa",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 89,
-    "publicContributions": 104,
+    "privateContributions": 63,
+    "publicContributions": 216,
     "createdAt": "2026-02-23T12:34:38Z"
   },
   {
@@ -1340,7 +1340,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 102,
     "createdAt": "2026-03-30T13:23:42Z"
   },
   {
@@ -1352,7 +1352,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 133,
     "createdAt": "2026-02-26T05:53:13Z"
   },
   {
@@ -1360,7 +1360,7 @@
     "name": "Mohomad Sajid",
     "avatarUrl": "https://avatars.githubusercontent.com/u/276634431?s=72&u=61169a240ca171aa13ead66206ba02f538cf9e3f&v=4",
     "location": "Anuradhapura, Sri Lanka",
-    "company": "Open University of Sri Lanka",
+    "company": "The Open University of Sri Lanka",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
@@ -1370,26 +1370,14 @@
   {
     "login": "anchuselva",
     "name": "Anchuga Selvaratnam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257494369?s=72&u=5170a0539600e27c060cf69d9ca1895ba70b5523&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/257494369?s=72&v=4",
     "location": "Vavuniya, Sri Lanka",
     "company": "Altitude1",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 195,
     "createdAt": "2026-01-27T09:27:46Z"
-  },
-  {
-    "login": "s4thira-dev",
-    "name": "Sathira Rathnayake",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/272772797?s=72&v=4",
-    "location": "Colombo, Sri Lanka.",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 30,
-    "publicContributions": 4,
-    "createdAt": "2026-04-01T09:28:54Z"
   },
   {
     "login": "ishfaqirsham",
@@ -1400,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 151,
     "createdAt": "2026-01-08T16:10:10Z"
   },
   {
@@ -1412,7 +1400,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 24,
     "createdAt": "2026-02-07T18:53:54Z"
   },
   {

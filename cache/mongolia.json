@@ -1183,8 +1183,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 32,
-    "publicContributions": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2023-03-02T11:00:34Z"
   },
   {
@@ -1244,7 +1244,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 9,
     "createdAt": "2023-08-22T09:09:43Z"
   },
   {
@@ -1256,7 +1256,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 34,
     "createdAt": "2023-01-13T03:13:45Z"
   },
   {
@@ -1280,7 +1280,7 @@
     "twitterUsername": "Batuka_404",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 476,
+    "publicContributions": 402,
     "createdAt": "2023-04-04T11:04:33Z"
   },
   {
@@ -1292,7 +1292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 13,
     "createdAt": "2023-01-17T08:19:00Z"
   },
   {
@@ -1314,9 +1314,9 @@
     "location": "Mongolia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 73,
+    "followers": 2,
+    "privateContributions": 5,
+    "publicContributions": 55,
     "createdAt": "2023-06-06T13:13:26Z"
   },
   {
@@ -1339,8 +1339,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 126,
+    "privateContributions": 443,
+    "publicContributions": 87,
     "createdAt": "2023-10-15T13:08:48Z"
   },
   {
@@ -1364,7 +1364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 76,
     "createdAt": "2023-11-06T03:46:08Z"
   },
   {
@@ -1376,7 +1376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 60,
     "createdAt": "2023-02-06T01:25:47Z"
   },
   {
@@ -1388,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-11-01T02:44:41Z"
   },
   {
@@ -1398,7 +1398,7 @@
     "location": "Mongolia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-03-04T13:48:38Z"
@@ -1410,9 +1410,9 @@
     "location": "Mongolia",
     "company": "School",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 55,
     "createdAt": "2023-03-31T03:39:24Z"
   },
   {

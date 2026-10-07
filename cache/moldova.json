@@ -1278,9 +1278,9 @@
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 7,
     "createdAt": "2024-03-14T19:42:07Z"
   },
   {
@@ -1326,20 +1326,20 @@
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 35,
     "createdAt": "2024-09-24T16:09:01Z"
   },
   {
     "login": "lDarnil",
     "name": "Darni",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166125738?s=72&u=0b79e52feaadd940342f10e7056b11cc51d6c95c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166125738?s=72&u=e4bb941eea8292ed0bb5b597a66eef73c8a469d3&v=4",
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2024-04-05T11:03:12Z"
   },
@@ -1374,9 +1374,9 @@
     "location": "Moldova",
     "company": "Tallinn University of Technology",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 247,
-    "publicContributions": 451,
+    "followers": 3,
+    "privateContributions": 212,
+    "publicContributions": 483,
     "createdAt": "2024-04-24T18:58:55Z"
   },
   {
@@ -1388,7 +1388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-04-15T09:17:46Z"
   },
   {
@@ -1396,23 +1396,23 @@
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/155335737?s=72&u=5fff1ac55cf5f717e4e114631c42f0e43ae1d56c&v=4",
     "location": "Moldova",
-    "company": "Lynestar",
-    "twitterUsername": "",
+    "company": "",
+    "twitterUsername": "LeonKindaTired",
     "followers": 1,
-    "privateContributions": 355,
-    "publicContributions": 45,
+    "privateContributions": 366,
+    "publicContributions": 82,
     "createdAt": "2024-01-01T00:36:16Z"
   },
   {
     "login": "deneyy",
     "name": "deney",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/159626089?s=72&u=825bb3f0d3a21191b1753a130c73cd640b0c6dcf&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159626089?s=72&u=d9914035315a062475f6e975d40ecf27f01ee4d9&v=4",
     "location": "moldova",
     "company": "myself",
-    "twitterUsername": "",
+    "twitterUsername": "deneycmd",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 75,
     "createdAt": "2024-02-10T12:32:51Z"
   },
   {
@@ -1422,7 +1422,7 @@
     "location": "Chisinau, Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-19T19:40:51Z"
@@ -21154,5 +21154,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-04-03T15:49:46Z"
+  },
+  {
+    "login": "jadenpeek",
+    "name": "jadenpeek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290446565?s=72&u=6641c62a5b13824ef031803b18ff7c1b7f7b0e01&v=4",
+    "location": "Moldova",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-03T16:20:45Z"
+  },
+  {
+    "login": "14vrm",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294917884?s=72&u=46dfc25f243221456589be1da579359e29a3bccb&v=4",
+    "location": "Chisinau, Republic of Moldova",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-06-18T19:09:04Z"
+  },
+  {
+    "login": "taylor-stokes",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294684548?s=72&u=0081e625f8d317babfa48749b5ca20a8f42bae00&v=4",
+    "location": "Moldova",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-06-18T03:02:48Z"
+  },
+  {
+    "login": "anatolie-ernu",
+    "name": "Anatolie Ernu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294217337?s=72&u=eeb9413bad5c03f88fd2acee0caaef1bd62816e6&v=4",
+    "location": "Republic of Moldova",
+    "company": "IT Consultant, Information Technology and Services",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 132,
+    "createdAt": "2026-06-16T14:34:36Z"
+  },
+  {
+    "login": "alex-scripa",
+    "name": "Alexandru Scripcenco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289277710?s=72&v=4",
+    "location": "Chișinău, Moldova",
+    "company": "ION Group | @SENATOROVAI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 490,
+    "publicContributions": 45,
+    "createdAt": "2026-05-30T20:30:54Z"
+  },
+  {
+    "login": "anatoliemadan374-jpg",
+    "name": "Anatol1 ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288397840?s=72&v=4",
+    "location": "Moldova ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-05-27T17:22:52Z"
+  },
+  {
+    "login": "sofiia-yatsenko",
+    "name": "Sofiia Yatsenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289423145?s=72&v=4",
+    "location": "Moldova, Chisinau",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-05-31T14:02:23Z"
   }
 ]

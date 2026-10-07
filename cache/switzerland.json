@@ -1208,7 +1208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 34,
     "createdAt": "2026-05-03T16:23:24Z"
   },
   {
@@ -1218,9 +1218,9 @@
     "location": "Zürich, Switzerland",
     "company": "@ProtonMail",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 1,
-    "publicContributions": 402,
+    "publicContributions": 427,
     "createdAt": "2026-04-01T22:58:37Z"
   },
   {
@@ -1232,32 +1232,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1322,
+    "publicContributions": 1680,
     "createdAt": "2026-01-14T16:04:18Z"
-  },
-  {
-    "login": "megga",
-    "name": "Julien",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252317324?s=72&u=32bc8bff8a298c1b6eb245e79198c532327a2e03&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2149,
-    "createdAt": "2025-12-31T10:06:28Z"
-  },
-  {
-    "login": "JJYoshi",
-    "name": "Yoshi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258458035?s=72&u=d97d5313d33227c38ab19683ca20077a41b922b3&v=4",
-    "location": "Switzerland (via the cloud)",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-01-31T15:47:50Z"
   },
   {
     "login": "demirbiz",
@@ -1316,7 +1292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 9,
     "createdAt": "2026-04-01T09:04:07Z"
   },
   {
@@ -1352,7 +1328,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 516,
+    "publicContributions": 643,
     "createdAt": "2026-01-06T08:33:01Z"
   },
   {
@@ -1364,7 +1340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 9,
     "createdAt": "2026-04-30T12:08:46Z"
   },
   {
@@ -1376,7 +1352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 46,
     "createdAt": "2026-01-08T13:36:40Z"
   },
   {
@@ -1386,7 +1362,7 @@
     "location": "Bern, Bern",
     "company": "Tech Company",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-03-24T03:15:28Z"
@@ -1398,9 +1374,9 @@
     "location": "Schweiz",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 299,
+    "publicContributions": 295,
     "createdAt": "2025-07-16T18:28:34Z"
   },
   {
@@ -1424,7 +1400,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 84,
     "createdAt": "2025-05-06T12:18:40Z"
   },
   {

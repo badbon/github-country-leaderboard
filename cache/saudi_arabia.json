@@ -1194,22 +1194,10 @@
     "location": "Jeddah, Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2026-03-07T17:32:08Z"
-  },
-  {
-    "login": "sahmk-sa",
-    "name": "SAHMK",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/260981848?s=72&u=a25901c477e1efdc71ebe022c0a37f3a4be2ce86&v=4",
-    "location": "Riyadh, KSA",
-    "company": "SAHMK for IT",
-    "twitterUsername": "sahmk_sa",
-    "followers": 57,
-    "privateContributions": 0,
-    "publicContributions": 148,
-    "createdAt": "2026-02-11T17:23:31Z"
   },
   {
     "login": "EslamElshikh-dev",
@@ -1218,9 +1206,9 @@
     "location": "Riyadh ",
     "company": "Google ",
     "twitterUsername": "remoesoo10",
-    "followers": 7,
-    "privateContributions": 10,
-    "publicContributions": 1308,
+    "followers": 6,
+    "privateContributions": 143,
+    "publicContributions": 3381,
     "createdAt": "2026-02-26T16:58:49Z"
   },
   {
@@ -1232,7 +1220,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 55,
     "createdAt": "2026-04-29T21:41:03Z"
   },
   {
@@ -1244,7 +1232,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 40,
     "createdAt": "2026-02-14T23:18:35Z"
   },
   {
@@ -1290,7 +1278,7 @@
     "location": "Riyadh",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2026-01-27T10:29:40Z"
@@ -1328,19 +1316,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 16,
     "createdAt": "2026-02-04T19:41:49Z"
   },
   {
     "login": "IT-Mutasim",
     "name": "Mutasim Hashim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253509171?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253509171?s=72&u=216ef84f534b84e3f40ca8eed61a3749264247c6&v=4",
     "location": "Riyadh ",
     "company": "SEU",
-    "twitterUsername": "",
-    "followers": 1,
+    "twitterUsername": "IT____24",
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 21,
     "createdAt": "2026-01-07T13:31:47Z"
   },
   {
@@ -1362,7 +1350,7 @@
     "location": "Kingdom of Saudi Arabia (KSA)",
     "company": "",
     "twitterUsername": "",
-    "followers": 82,
+    "followers": 79,
     "privateContributions": 0,
     "publicContributions": 156,
     "createdAt": "2025-10-19T22:47:50Z"
@@ -1374,7 +1362,7 @@
     "location": "Kingdom of Saudi Arabia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-02T20:51:44Z"
@@ -1398,7 +1386,7 @@
     "location": "Kingdom of Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2025-01-20T13:03:13Z"
@@ -1412,7 +1400,7 @@
     "twitterUsername": "thobityT",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 102,
     "createdAt": "2025-10-04T15:21:28Z"
   },
   {

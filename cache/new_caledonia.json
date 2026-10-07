@@ -1208,7 +1208,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 22,
     "createdAt": "2012-10-24T22:03:01Z"
   },
   {
@@ -1230,7 +1230,7 @@
     "location": "Nouméa",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-10-17T08:27:52Z"
@@ -1249,14 +1249,14 @@
   },
   {
     "login": "bpouzet",
-    "name": "Benoit Pouzet",
+    "name": "Benoît Pouzet",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1146675?s=72&v=4",
     "location": "Nouméa, New Caledonia",
-    "company": "@ooopener",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 797,
-    "publicContributions": 16,
+    "privateContributions": 837,
+    "publicContributions": 18,
     "createdAt": "2011-10-23T17:38:23Z"
   },
   {
@@ -1267,8 +1267,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 349,
-    "publicContributions": 330,
+    "privateContributions": 377,
+    "publicContributions": 332,
     "createdAt": "2011-11-30T11:45:23Z"
   },
   {
@@ -1278,9 +1278,9 @@
     "location": "New Caledonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 337,
-    "publicContributions": 5,
+    "followers": 43,
+    "privateContributions": 498,
+    "publicContributions": 0,
     "createdAt": "2010-06-30T15:47:19Z"
   },
   {
@@ -1288,11 +1288,11 @@
     "name": "Laurent Dinclaux",
     "avatarUrl": "https://avatars.githubusercontent.com/u/136687?s=72&u=47cbd7bbb1a431c77fff2d7f5432fea6576f78c4&v=4",
     "location": "New Caledonia",
-    "company": "Gecka Apps",
+    "company": "Gecka",
     "twitterUsername": "",
     "followers": 57,
     "privateContributions": 0,
-    "publicContributions": 213,
+    "publicContributions": 262,
     "createdAt": "2009-10-08T05:44:26Z"
   },
   {
@@ -1316,7 +1316,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1300,
+    "publicContributions": 1470,
     "createdAt": "2009-09-28T22:04:03Z"
   },
   {

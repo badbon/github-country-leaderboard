@@ -1196,7 +1196,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-01T12:15:43Z"
   },
   {
@@ -1208,7 +1208,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 107,
     "createdAt": "2025-05-03T10:57:58Z"
   },
   {
@@ -1220,7 +1220,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 28,
     "createdAt": "2025-07-19T08:50:44Z"
   },
   {
@@ -1244,7 +1244,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 14,
     "createdAt": "2025-06-01T23:59:33Z"
   },
   {
@@ -1268,7 +1268,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2025-09-29T07:29:19Z"
   },
   {
@@ -1280,7 +1280,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 8,
     "createdAt": "2025-01-16T17:25:09Z"
   },
   {
@@ -1340,7 +1340,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 9,
     "createdAt": "2025-09-02T17:17:54Z"
   },
   {
@@ -1352,7 +1352,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 93,
     "createdAt": "2025-11-15T14:56:42Z"
   },
   {
@@ -1364,31 +1364,31 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 4,
     "createdAt": "2025-05-23T17:51:50Z"
   },
   {
     "login": "MoSrouji",
     "name": "Mohammad Srouji",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/214272228?s=72&u=4e590444531304e41a81d9152b7027d80b69bfd8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214272228?s=72&u=e2296256ff43527de7eb2ccfe508f2ac5e8c9a33&v=4",
     "location": "Lattakia/Syria",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 98,
     "createdAt": "2025-05-31T16:12:24Z"
   },
   {
     "login": "ZaidAlKallas",
-    "name": "Zaid AlKallas",
+    "name": "Zaid Alkallas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/213179753?s=72&u=110df47762ee7c2ffa07c8caa88eb08131ff0f26&v=4",
     "location": "Damascus, Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 182,
-    "publicContributions": 126,
+    "followers": 4,
+    "privateContributions": 169,
+    "publicContributions": 218,
     "createdAt": "2025-05-24T10:27:16Z"
   },
   {
@@ -1422,7 +1422,7 @@
     "location": "Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-25T08:45:28Z"

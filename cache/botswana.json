@@ -1436,7 +1436,7 @@
     "twitterUsername": "mubureterrance",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-11-30T14:40:32Z"
   },
   {
@@ -1459,7 +1459,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 8,
     "publicContributions": 23,
     "createdAt": "2023-09-20T08:06:36Z"
   },
@@ -1483,8 +1483,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 427,
-    "publicContributions": 22,
+    "privateContributions": 546,
+    "publicContributions": 21,
     "createdAt": "2023-03-12T16:28:00Z"
   },
   {
@@ -1544,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 22,
     "createdAt": "2023-02-02T13:59:18Z"
   },
   {
@@ -1620,23 +1620,11 @@
     "createdAt": "2023-11-03T07:31:16Z"
   },
   {
-    "login": "michaelThaboMahumba",
-    "name": "MichaelThabo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/138258199?s=72&u=b7fd9d8fd20aa2b8e8e6cafdc1dc68e9440a3b91&v=4",
-    "location": "Botswana",
-    "company": "",
-    "twitterUsername": "MichaelMah94769",
-    "followers": 1,
-    "privateContributions": 368,
-    "publicContributions": 60,
-    "createdAt": "2023-06-30T21:39:04Z"
-  },
-  {
     "login": "setlhako",
     "name": "Robert Setlhako",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128294249?s=72&u=1a3d202fe59f80e5f6d61767af9518fbd3feb426&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128294249?s=72&u=574f3a4205aea7632a30ad63f1cb08d79a42bf90&v=4",
     "location": "Gaborone, Botswana",
-    "company": "Self Employeed",
+    "company": "Software Developer",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -1663,8 +1651,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 946,
-    "publicContributions": 1,
+    "privateContributions": 1652,
+    "publicContributions": 0,
     "createdAt": "2023-03-31T08:43:02Z"
   },
   {

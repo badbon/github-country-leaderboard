@@ -1195,8 +1195,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 896,
+    "privateContributions": 4,
+    "publicContributions": 912,
     "createdAt": "2026-04-22T07:40:34Z"
   },
   {
@@ -1206,9 +1206,9 @@
     "location": "Bangkok",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 58,
     "createdAt": "2026-02-11T04:40:54Z"
   },
   {
@@ -1220,7 +1220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 29,
     "createdAt": "2026-03-21T17:20:35Z"
   },
   {
@@ -1232,7 +1232,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 329,
+    "publicContributions": 366,
     "createdAt": "2026-02-02T23:50:53Z"
   },
   {
@@ -1254,9 +1254,9 @@
     "location": "thai",
     "company": "UnicornX OS",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 796,
-    "publicContributions": 1858,
+    "followers": 14,
+    "privateContributions": 667,
+    "publicContributions": 1784,
     "createdAt": "2025-04-17T19:31:57Z"
   },
   {
@@ -1266,9 +1266,9 @@
     "location": "thai",
     "company": "bl1nkOS",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 1142,
-    "publicContributions": 1286,
+    "followers": 13,
+    "privateContributions": 1455,
+    "publicContributions": 1743,
     "createdAt": "2025-06-16T20:00:17Z"
   },
   {
@@ -1286,21 +1286,21 @@
   {
     "login": "MyName-Chet",
     "name": "atsadawut__06",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/221856347?s=72&u=1a8956b9c1d7984466cf2077816df8cf1137f596&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/221856347?s=72&u=95428ab3bb0eb3d4850bee98a3bc0d96b105dd61&v=4",
     "location": "Thai",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 28,
-    "publicContributions": 79,
+    "publicContributions": 85,
     "createdAt": "2025-07-20T14:29:27Z"
   },
   {
     "login": "trytomeow",
     "name": "Thanatan Wanmee",
     "avatarUrl": "https://avatars.githubusercontent.com/u/243617091?s=72&u=ed9b462670b9b8a7559fe1bf720577a4449d1048&v=4",
-    "location": "Phaya Thai, Bangkok, Thailand",
-    "company": "Department of Biotechnology, Faculty of Science, Mahidol University",
+    "location": "Bangkok Noi, Bangkok, Thailand",
+    "company": "Division of Medical Bioinformatics, Faculty of Medicine Siriraj Hospital, Mahidol University",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 54,
@@ -1314,9 +1314,9 @@
     "location": "Bankkok,Thailand",
     "company": "Suan Dusit University",
     "twitterUsername": "",
-    "followers": 98,
+    "followers": 92,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 53,
     "createdAt": "2025-07-01T13:01:52Z"
   },
   {
@@ -1326,9 +1326,9 @@
     "location": "Thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 67,
+    "followers": 79,
     "privateContributions": 0,
-    "publicContributions": 3500,
+    "publicContributions": 5265,
     "createdAt": "2025-07-01T15:18:58Z"
   },
   {
@@ -1338,9 +1338,9 @@
     "location": "Bangkok,Thailand",
     "company": "Suandusit/university",
     "twitterUsername": "",
-    "followers": 47,
+    "followers": 45,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 27,
     "createdAt": "2025-11-03T06:18:53Z"
   },
   {
@@ -1350,7 +1350,7 @@
     "location": "Bangkok, Thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-05-11T05:22:01Z"
@@ -1362,9 +1362,9 @@
     "location": "Thailand",
     "company": "Claraverse Labs",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 444,
-    "publicContributions": 409,
+    "followers": 28,
+    "privateContributions": 687,
+    "publicContributions": 399,
     "createdAt": "2025-09-03T06:13:49Z"
   },
   {
@@ -1374,9 +1374,9 @@
     "location": "Thailand",
     "company": "family organizations",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 24,
     "createdAt": "2025-02-08T08:51:17Z"
   },
   {

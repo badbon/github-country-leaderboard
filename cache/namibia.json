@@ -1232,19 +1232,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2023-03-24T12:39:20Z"
   },
   {
     "login": "jeromenanuseb",
     "name": "Jerome !Nanuseb",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144292338?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144292338?s=72&u=d2cb035f6ce43c3efcd6bfd7409c340091f63b32&v=4",
     "location": "Windhoek, Namibia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2023-09-07T00:12:01Z"
   },
   {
@@ -1256,7 +1256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 41,
     "createdAt": "2023-07-22T08:41:52Z"
   },
   {
@@ -1280,19 +1280,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 822,
+    "publicContributions": 684,
     "createdAt": "2023-11-10T10:46:54Z"
   },
   {
     "login": "CarolineEilo",
     "name": "Caroline Eilo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129773196?s=72&u=b5d2d65e44e45a7bfd6cacce3dac7694487d49cd&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129773196?s=72&u=8a24e5ad490e2437550cedfaac8618bde81f0012&v=4",
     "location": "Namibia , Windhoek",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-04-03T15:27:18Z"
   },
   {
@@ -1302,7 +1302,7 @@
     "location": "Namibia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-16T19:17:03Z"
@@ -1316,7 +1316,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 250,
     "createdAt": "2023-02-23T08:28:03Z"
   },
   {
@@ -1327,7 +1327,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 139,
+    "privateContributions": 228,
     "publicContributions": 0,
     "createdAt": "2023-10-17T21:36:36Z"
   },
@@ -1363,8 +1363,8 @@
     "company": "Capricorn Group Limited",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 4,
-    "publicContributions": 19,
+    "privateContributions": 5,
+    "publicContributions": 15,
     "createdAt": "2023-03-12T14:32:08Z"
   },
   {
@@ -5698,5 +5698,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-12-01T11:09:13Z"
+  },
+  {
+    "login": "UnitBuilds",
+    "name": "UnitBuilds",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287294885?s=72&u=7f4bc94cdc90dd40b531ae75bd790d513539f6e5&v=4",
+    "location": "Namibia",
+    "company": "UnitBuilds CC",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 2923,
+    "publicContributions": 3135,
+    "createdAt": "2026-05-23T19:41:27Z"
+  },
+  {
+    "login": "velaragirlgroup",
+    "name": "VELARA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287329925?s=72&v=4",
+    "location": "Namibia, Africa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 171,
+    "createdAt": "2026-05-24T00:23:04Z"
+  },
+  {
+    "login": "umunaviumunavi-crypto",
+    "name": "MANDELA UMUNAVI KANUAMEVA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295347789?s=72&u=705b96a03bdbe9c3c42bd88d8a57348f6cd03588&v=4",
+    "location": "Namibia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-20T11:02:49Z"
+  },
+  {
+    "login": "nanobrandtechnologies-star",
+    "name": "Nanobrand_T",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292802095?s=72&v=4",
+    "location": "Namibia",
+    "company": "Nanobrand Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-11T13:39:13Z"
   }
 ]

@@ -1207,7 +1207,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1,
+    "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2023-05-01T09:21:53Z"
   },
@@ -1219,8 +1219,8 @@
     "company": "FunderPro",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1477,
-    "publicContributions": 44,
+    "privateContributions": 1448,
+    "publicContributions": 40,
     "createdAt": "2023-07-25T07:32:05Z"
   },
   {
@@ -1244,7 +1244,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 78,
     "createdAt": "2023-06-12T19:32:34Z"
   },
   {
@@ -1327,8 +1327,8 @@
     "company": "Soulaax Inc.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 151,
-    "publicContributions": 2,
+    "privateContributions": 134,
+    "publicContributions": 1,
     "createdAt": "2023-07-11T09:35:25Z"
   },
   {
@@ -1400,20 +1400,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 36,
     "createdAt": "2023-01-02T09:03:03Z"
-  },
-  {
-    "login": "AntheaBaldacchino",
-    "name": "Anthea Baldacchino",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133498086?s=72&u=cf684f799e42270b2a91bb63af12ab5981d8c137&v=4",
-    "location": "Malta, Birkirkara",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 49,
-    "createdAt": "2023-05-13T10:05:50Z"
   },
   {
     "login": "danieladesira",
@@ -1435,8 +1423,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 6,
+    "privateContributions": 10,
+    "publicContributions": 5,
     "createdAt": "2023-09-05T12:10:42Z"
   },
   {

@@ -1183,8 +1183,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 232,
-    "publicContributions": 479,
+    "privateContributions": 230,
+    "publicContributions": 569,
     "createdAt": "2024-05-31T23:58:40Z"
   },
   {
@@ -1231,7 +1231,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 350,
+    "privateContributions": 195,
     "publicContributions": 1,
     "createdAt": "2024-02-20T21:44:35Z"
   },
@@ -1254,7 +1254,7 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "CRojas__",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-24T17:04:40Z"
@@ -1266,9 +1266,9 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 96,
     "createdAt": "2024-07-30T15:06:19Z"
   },
   {
@@ -1290,9 +1290,9 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 109,
     "createdAt": "2024-10-07T11:37:17Z"
   },
   {
@@ -1302,9 +1302,9 @@
     "location": "Paraguay",
     "company": "Tecno Venta Digital",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2024-07-24T20:43:09Z"
   },
   {
@@ -1328,7 +1328,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2024-10-03T01:18:22Z"
   },
   {
@@ -1362,9 +1362,9 @@
     "location": "Encarnación, Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 125,
     "createdAt": "2024-02-20T14:56:28Z"
   },
   {
@@ -1376,20 +1376,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 467,
+    "publicContributions": 433,
     "createdAt": "2024-05-08T01:14:55Z"
-  },
-  {
-    "login": "ChistianAguilar",
-    "name": "Christian Abel Aguilar Almirón ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/188797972?s=72&u=2bbf2265aca33823c6054aadd9cfce4476577aee&v=4",
-    "location": "Paraguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 64,
-    "createdAt": "2024-11-17T21:05:12Z"
   },
   {
     "login": "cfg-codes",

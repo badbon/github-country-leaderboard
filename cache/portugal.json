@@ -1160,7 +1160,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 266,
+    "publicContributions": 243,
     "createdAt": "2026-01-29T17:27:55Z"
   },
   {
@@ -1244,7 +1244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 17,
     "createdAt": "2026-04-10T12:13:44Z"
   },
   {
@@ -1255,7 +1255,7 @@
     "company": "",
     "twitterUsername": "kirillchistov_",
     "followers": 1,
-    "privateContributions": 95,
+    "privateContributions": 96,
     "publicContributions": 71,
     "createdAt": "2026-03-08T20:53:24Z"
   },
@@ -1279,8 +1279,8 @@
     "company": "@interpretica-io",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 46,
-    "publicContributions": 4,
+    "privateContributions": 66,
+    "publicContributions": 5,
     "createdAt": "2026-01-27T13:09:14Z"
   },
   {
@@ -1338,9 +1338,9 @@
     "location": "PORTUGAL 🟩🟨🟥",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 221,
+    "followers": 2,
+    "privateContributions": 63,
+    "publicContributions": 451,
     "createdAt": "2026-03-19T13:21:57Z"
   },
   {
@@ -1370,13 +1370,13 @@
   {
     "login": "josemmiranda04",
     "name": "José Miguel Alvarez Marques De Miranda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267454468?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267454468?s=72&u=513ca4d2628efaf4e36c7567f464a7ea9c950fe9&v=4",
     "location": "Lisbon, Portugal",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 5,
-    "publicContributions": 58,
+    "publicContributions": 80,
     "createdAt": "2026-03-11T20:47:56Z"
   },
   {
