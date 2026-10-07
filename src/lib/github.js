@@ -89,6 +89,7 @@ export class GitHubClient {
       const message = errors.map((error) => error.message).join("; ");
       throw Object.assign(new Error(message), {
         resourceLimit: message.toLowerCase().includes("resource limits"),
+        status: errors.some((error) => error.type === "RATE_LIMITED") ? 429 : undefined,
         rateLimit
       });
     }

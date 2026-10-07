@@ -46,6 +46,15 @@ test("incomplete GraphQL batches cannot masquerade as removed accounts", async (
   }
 });
 
+test("GraphQL rate limits use the existing retry and reset path", async () => {
+  const rateLimit = { remaining: 0, resetAt: "2026-10-07T06:00:00Z" };
+  const client = responseClient({ data: { rateLimit }, errors: [
+    { type: "RATE_LIMITED", message: "API rate limit exceeded" }
+  ] });
+  await assert.rejects(() => client.enrichUsers({ logins: ["valid"], contributionWindow }),
+    (error) => error.status === 429 && error.rateLimit === rateLimit);
+});
+
 test("marks closed socket fetch failures as retryable network errors", async () => {
   const client = new GitHubClient({
     token: "test-token",
