@@ -1832,7 +1832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2017-10-30T14:41:47Z"
   },
   {
@@ -1866,7 +1866,7 @@
     "location": "north korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-06-05T15:18:14Z"
@@ -1891,8 +1891,8 @@
     "company": "@floating-point-games ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 93,
-    "publicContributions": 1,
+    "privateContributions": 28,
+    "publicContributions": 3,
     "createdAt": "2016-12-13T02:02:07Z"
   },
   {
@@ -1939,8 +1939,8 @@
     "company": "yo mama",
     "twitterUsername": "elonmusk",
     "followers": 8,
-    "privateContributions": 1306,
-    "publicContributions": 38,
+    "privateContributions": 3503,
+    "publicContributions": 58,
     "createdAt": "2016-03-09T16:31:13Z"
   },
   {
@@ -1962,7 +1962,7 @@
     "location": "Pyongyang, North Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 30,
     "privateContributions": 89,
     "publicContributions": 0,
     "createdAt": "2015-01-26T17:44:24Z"
@@ -1974,9 +1974,9 @@
     "location": "North Korea",
     "company": "Unemployed",
     "twitterUsername": "Hashf0und",
-    "followers": 24,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 6,
     "createdAt": "2015-04-16T14:22:40Z"
   },
   {
@@ -1986,7 +1986,7 @@
     "location": "North Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2015-01-25T21:26:36Z"
@@ -2036,7 +2036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2015-07-15T12:33:16Z"
   },
   {
@@ -2058,7 +2058,7 @@
     "location": "Bunker, DPRK",
     "company": "Kim Inc",
     "twitterUsername": "westealbitcoin",
-    "followers": 32,
+    "followers": 31,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-09-05T13:59:21Z"

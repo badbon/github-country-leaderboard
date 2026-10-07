@@ -1820,20 +1820,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 181,
+    "publicContributions": 187,
     "createdAt": "2025-12-29T20:45:45Z"
-  },
-  {
-    "login": "yael97302-afk",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259144618?s=72&v=4",
-    "location": "Puebla México ",
-    "company": "Mercado pago ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 29,
-    "createdAt": "2026-02-03T16:32:19Z"
   },
   {
     "login": "erika-amastal",
@@ -1843,8 +1831,8 @@
     "company": "Kigo",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 478,
-    "publicContributions": 9,
+    "privateContributions": 748,
+    "publicContributions": 10,
     "createdAt": "2026-02-06T17:38:27Z"
   },
   {
@@ -1867,8 +1855,8 @@
     "company": "Polytechnic University of Victoria",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 330,
-    "publicContributions": 142,
+    "privateContributions": 442,
+    "publicContributions": 148,
     "createdAt": "2025-01-21T21:12:43Z"
   },
   {
@@ -1879,7 +1867,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 171,
+    "privateContributions": 168,
     "publicContributions": 14,
     "createdAt": "2025-01-16T14:08:04Z"
   },
@@ -1892,7 +1880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 46,
     "createdAt": "2025-01-16T14:11:06Z"
   },
   {
@@ -1904,7 +1892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 82,
     "createdAt": "2025-01-14T19:28:43Z"
   },
   {
@@ -1916,7 +1904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 24,
     "createdAt": "2025-01-16T14:21:08Z"
   },
   {
@@ -1928,7 +1916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 850,
+    "publicContributions": 746,
     "createdAt": "2024-03-19T02:11:51Z"
   },
   {
@@ -1940,7 +1928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 12,
     "createdAt": "2024-04-19T16:23:57Z"
   },
   {
@@ -1950,9 +1938,9 @@
     "location": "Mexico ",
     "company": "",
     "twitterUsername": "",
-    "followers": 94,
+    "followers": 100,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 47,
     "createdAt": "2025-08-09T01:17:55Z"
   },
   {
@@ -1962,9 +1950,9 @@
     "location": "Mexico",
     "company": "Individual",
     "twitterUsername": "",
-    "followers": 81,
+    "followers": 80,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 20,
     "createdAt": "2025-02-27T05:03:53Z"
   },
   {
@@ -1974,7 +1962,7 @@
     "location": "Mexico City",
     "company": "Amalga Group",
     "twitterUsername": "",
-    "followers": 76,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2025-07-10T18:43:23Z"
@@ -1986,9 +1974,9 @@
     "location": "Sonora, Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 53,
+    "followers": 49,
     "privateContributions": 0,
-    "publicContributions": 230,
+    "publicContributions": 315,
     "createdAt": "2025-03-01T00:10:05Z"
   },
   {
@@ -1998,21 +1986,21 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "simihablo",
-    "followers": 43,
-    "privateContributions": 119,
-    "publicContributions": 732,
+    "followers": 41,
+    "privateContributions": 174,
+    "publicContributions": 686,
     "createdAt": "2025-06-26T22:40:22Z"
   },
   {
     "login": "luisortga",
     "name": "luisOrtga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/227945252?s=72&u=a31639c23abe1d812ef1b01328ab68561e920235&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227945252?s=72&u=dcfdba3fc64cc4448cad35f2eac652cf7cc16e84&v=4",
     "location": "mexico",
     "company": "",
     "twitterUsername": "luisOrtgadev",
-    "followers": 39,
+    "followers": 33,
     "privateContributions": 0,
-    "publicContributions": 673,
+    "publicContributions": 751,
     "createdAt": "2025-08-22T04:50:14Z"
   },
   {
@@ -2020,21 +2008,21 @@
     "name": "David Camacho",
     "avatarUrl": "https://avatars.githubusercontent.com/u/230016124?s=72&u=19aadd8a9d7a6479048d67c9f2c5a312e91a5ef6&v=4",
     "location": "Mexico City",
-    "company": "@Celestial-Dynamics-AI ",
+    "company": "Skandia Mexico",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 4334,
-    "publicContributions": 67,
+    "followers": 29,
+    "privateContributions": 1043,
+    "publicContributions": 33,
     "createdAt": "2025-09-02T18:17:47Z"
   },
   {
     "login": "motorwaygirl",
     "name": "@ . Rory ✦ .  ESP + EN",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195700636?s=72&u=a87789a6aac25971842e601ba61da5bb64a27a07&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195700636?s=72&u=aaea6986be1187a800daa7b894ec114d9030262f&v=4",
     "location": " mexico",
     "company": "<   @Mizziepoms , @garferss , @01-800-PAPU , @pixstrs , @cellbito  3",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 49,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2025-01-20T00:43:18Z"

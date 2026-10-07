@@ -1892,20 +1892,8 @@
     "twitterUsername": "PayBridge_NP",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 155,
     "createdAt": "2026-04-01T12:34:46Z"
-  },
-  {
-    "login": "vertextechgroup",
-    "name": "Vertex Tech",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263705901?s=72&u=a0bd0622fabb31d694c95617e418fc393bf79aad&v=4",
-    "location": "Kathmandu",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 113,
-    "createdAt": "2026-02-24T16:30:12Z"
   },
   {
     "login": "sumanace081bca028-oss",
@@ -1924,11 +1912,11 @@
     "name": "Aaditya Chhetri",
     "avatarUrl": "https://avatars.githubusercontent.com/u/277428503?s=72&u=fa4930becb7dea9c3461f3a3c4b53d2a8e812615&v=4",
     "location": "Kathmandu",
-    "company": "The Crux",
+    "company": "Zetroxy Labs",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 291,
-    "publicContributions": 238,
+    "privateContributions": 630,
+    "publicContributions": 218,
     "createdAt": "2026-04-19T09:01:31Z"
   },
   {
@@ -1952,7 +1940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 12,
-    "publicContributions": 98,
+    "publicContributions": 102,
     "createdAt": "2026-03-17T16:11:06Z"
   },
   {
@@ -1976,7 +1964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 43,
     "createdAt": "2026-03-14T04:00:28Z"
   },
   {
@@ -1998,21 +1986,21 @@
     "location": "Kathmandu",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 26,
     "createdAt": "2026-01-31T10:42:55Z"
   },
   {
     "login": "prashanthapa667",
     "name": "Prasanna Thapa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259091096?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259091096?s=72&u=df74d222bfa7964437f664bf1130b35834a2b7b3&v=4",
     "location": "Kathmandu",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 15,
     "createdAt": "2026-02-03T12:58:01Z"
   },
   {
@@ -2046,7 +2034,7 @@
     "location": "kathmandu",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-04-22T05:54:00Z"
@@ -2082,9 +2070,9 @@
     "location": "Birgunj,Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 622,
+    "followers": 637,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 27,
     "createdAt": "2025-01-16T12:47:23Z"
   },
   {
@@ -2094,21 +2082,21 @@
     "location": "Nepal ",
     "company": "",
     "twitterUsername": "",
-    "followers": 79,
-    "privateContributions": 71,
-    "publicContributions": 1293,
+    "followers": 104,
+    "privateContributions": 66,
+    "publicContributions": 1192,
     "createdAt": "2025-08-31T06:55:31Z"
   },
   {
     "login": "ChandCodeLab",
     "name": "Manoj Chand Thaquree",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/233125153?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233125153?s=72&u=ffc3ccb42d05fa8c0ebc1ebabcfa58c7cf250ed8&v=4",
     "location": "Kathmandu,Nepal",
     "company": "mindrisers pvt.ltd",
     "twitterUsername": "",
-    "followers": 72,
-    "privateContributions": 66,
-    "publicContributions": 63,
+    "followers": 74,
+    "privateContributions": 63,
+    "publicContributions": 30,
     "createdAt": "2025-09-18T16:37:49Z"
   },
   {
@@ -2118,9 +2106,9 @@
     "location": "Jhapa, Nepal ",
     "company": "",
     "twitterUsername": "",
-    "followers": 63,
+    "followers": 57,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 35,
     "createdAt": "2025-08-30T10:52:38Z"
   },
   {

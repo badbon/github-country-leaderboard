@@ -1939,8 +1939,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
-    "publicContributions": 23,
+    "privateContributions": 9,
+    "publicContributions": 19,
     "createdAt": "2023-07-01T15:59:28Z"
   },
   {
@@ -1951,8 +1951,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1334,
-    "publicContributions": 19,
+    "privateContributions": 1464,
+    "publicContributions": 17,
     "createdAt": "2023-03-24T04:07:36Z"
   },
   {
@@ -1964,7 +1964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2023-04-14T19:57:13Z"
   },
   {
@@ -2036,7 +2036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 108,
     "createdAt": "2023-07-31T04:09:15Z"
   },
   {
@@ -2060,7 +2060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-03-24T19:58:58Z"
   },
   {
@@ -2072,7 +2072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 116,
     "createdAt": "2023-12-19T07:17:31Z"
   },
   {
@@ -2082,9 +2082,9 @@
     "location": "Tegucigalpa",
     "company": "UNITEC",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 13,
     "createdAt": "2023-10-26T00:26:54Z"
   },
   {
@@ -2095,20 +2095,20 @@
     "company": "Unitec",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 20,
-    "publicContributions": 58,
+    "privateContributions": 0,
+    "publicContributions": 18,
     "createdAt": "2022-10-14T21:07:39Z"
   },
   {
     "login": "kosail",
     "name": "kosail",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96837404?s=72&u=4f05edf7e4e4663cd52d58517c42ec1407386e4e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96837404?s=72&u=f68bbe8fa416369af01e16e97b49f578782469d6&v=4",
     "location": "Honduras",
-    "company": "ZF Friedrichshafen",
+    "company": "We The Force",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 377,
-    "publicContributions": 392,
+    "followers": 34,
+    "privateContributions": 479,
+    "publicContributions": 437,
     "createdAt": "2021-12-29T16:53:16Z"
   },
   {
@@ -2119,7 +2119,7 @@
     "company": "Full Stack Developer",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 1122,
+    "privateContributions": 890,
     "publicContributions": 19,
     "createdAt": "2022-09-28T02:32:51Z"
   },
@@ -2130,9 +2130,9 @@
     "location": "Santa Bárbara, Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 65,
-    "publicContributions": 3,
+    "followers": 17,
+    "privateContributions": 119,
+    "publicContributions": 53,
     "createdAt": "2022-06-13T21:34:25Z"
   },
   {

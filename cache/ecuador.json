@@ -1868,7 +1868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-16T15:30:04Z"
   },
   {
@@ -1880,7 +1880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 68,
     "createdAt": "2025-09-02T17:16:38Z"
   },
   {
@@ -1915,8 +1915,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 1,
+    "publicContributions": 1,
     "createdAt": "2025-06-06T23:27:04Z"
   },
   {
@@ -1940,7 +1940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 4,
-    "publicContributions": 169,
+    "publicContributions": 168,
     "createdAt": "2025-10-06T22:03:54Z"
   },
   {
@@ -1970,7 +1970,7 @@
   {
     "login": "andresx1226",
     "name": "Andres Xavier Salazar Arias",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/248039005?s=72&u=bf35adc89fc65600237f72e6054cca3dd2605432&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/248039005?s=72&u=3f8ec57823cf8ebc673d821de2b19db11b05fab9&v=4",
     "location": "ecuador",
     "company": "",
     "twitterUsername": "",
@@ -1988,7 +1988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 24,
     "createdAt": "2025-07-29T16:15:00Z"
   },
   {
@@ -2036,7 +2036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 6,
     "createdAt": "2025-12-09T16:21:25Z"
   },
   {
@@ -2046,22 +2046,10 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 17,
     "createdAt": "2025-08-03T23:31:11Z"
-  },
-  {
-    "login": "Kikeszn",
-    "name": "Kike",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/215739563?s=72&u=fb1e55ad56987ecd7462c7836c46f34beb147171&v=4",
-    "location": "Quito, Ecuador",
-    "company": "BetaCorps",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 31,
-    "createdAt": "2025-06-10T19:18:48Z"
   },
   {
     "login": "cristina-villacis",
@@ -2072,7 +2060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 13,
     "createdAt": "2025-06-18T05:03:07Z"
   },
   {
@@ -2082,9 +2070,9 @@
     "location": "Ecuador/Guayaquil",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 12,
     "createdAt": "2025-05-13T17:54:40Z"
   },
   {
@@ -2094,7 +2082,7 @@
     "location": "Guayaquil, Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2025-02-02T03:59:34Z"

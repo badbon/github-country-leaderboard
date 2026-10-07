@@ -1626,7 +1626,7 @@
     "location": "kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-02-06T06:32:32Z"
@@ -1640,7 +1640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 33,
     "createdAt": "2026-02-06T16:22:38Z"
   },
   {
@@ -1654,18 +1654,6 @@
     "privateContributions": 0,
     "publicContributions": 69,
     "createdAt": "2026-01-29T07:36:50Z"
-  },
-  {
-    "login": "fishy243",
-    "name": "fishy_",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252315833?s=72&u=cecccfdff2c5ec7f37c4d112fdeb9274fc1dd9ae&v=4",
-    "location": "Nairobi, Kenya",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-12-31T09:53:42Z"
   },
   {
     "login": "mmwaijr",
@@ -1736,7 +1724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 14,
     "createdAt": "2026-01-13T06:40:16Z"
   },
   {
@@ -1748,20 +1736,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 58,
     "createdAt": "2026-02-25T10:19:29Z"
-  },
-  {
-    "login": "rngetich",
-    "name": "Rodgers Ngetich",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/272174473?s=72&u=f2ae3cfd2c3c80b28c223359106142538b292276&v=4",
-    "location": "Kenya",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 17,
-    "createdAt": "2026-03-30T09:48:42Z"
   },
   {
     "login": "alt-bwire",
@@ -1784,7 +1760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 67,
     "createdAt": "2026-04-08T09:26:23Z"
   },
   {

@@ -1640,7 +1640,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 19,
     "createdAt": "2024-04-10T09:01:46Z"
   },
   {
@@ -1676,7 +1676,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 61,
     "createdAt": "2024-06-02T10:47:44Z"
   },
   {
@@ -1687,7 +1687,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 252,
+    "privateContributions": 292,
     "publicContributions": 8,
     "createdAt": "2024-03-18T07:52:25Z"
   },
@@ -1700,7 +1700,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 375,
+    "publicContributions": 357,
     "createdAt": "2024-04-10T10:25:16Z"
   },
   {
@@ -1735,8 +1735,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 481,
-    "publicContributions": 72,
+    "privateContributions": 882,
+    "publicContributions": 59,
     "createdAt": "2024-03-01T08:42:38Z"
   },
   {
@@ -1747,8 +1747,8 @@
     "company": "Dasakami",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 362,
-    "publicContributions": 213,
+    "privateContributions": 283,
+    "publicContributions": 170,
     "createdAt": "2024-10-20T05:00:30Z"
   },
   {
@@ -1760,7 +1760,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 112,
     "createdAt": "2024-07-24T07:25:12Z"
   },
   {
@@ -1782,7 +1782,7 @@
     "location": "Kyrgyzstan, Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-26T07:39:15Z"
@@ -1794,9 +1794,9 @@
     "location": "Bishkek Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 4,
     "createdAt": "2024-05-07T13:29:55Z"
   },
   {
@@ -1820,7 +1820,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 26,
     "createdAt": "2024-11-10T15:41:31Z"
   },
   {
@@ -1831,7 +1831,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 714,
+    "privateContributions": 580,
     "publicContributions": 8,
     "createdAt": "2024-01-19T09:18:20Z"
   },
@@ -1844,19 +1844,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 12,
     "createdAt": "2024-04-12T12:29:08Z"
   },
   {
     "login": "kasym-r",
     "name": "Kasym",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/171468870?s=72&u=d0b4eac39fbc74c99e3ed6d79f0cfed2d80a0437&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171468870?s=72&v=4",
     "location": "Bishkek, Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 967,
-    "publicContributions": 63,
+    "privateContributions": 972,
+    "publicContributions": 64,
     "createdAt": "2024-06-02T05:06:01Z"
   },
   {

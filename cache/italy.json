@@ -581011,7 +581011,7 @@
     "company": "@cesarine-com",
     "twitterUsername": "ezu",
     "followers": 40,
-    "privateContributions": 6868,
+    "privateContributions": 6869,
     "publicContributions": 0,
     "createdAt": "2009-03-03T01:49:23Z"
   },
@@ -584890,5 +584890,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-08-20T08:13:59Z"
+  },
+  {
+    "login": "elpablo",
+    "name": "Paolo Quadrani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119689?s=72&u=d5d0eee7131b45ab6324f3b8ccbfaf49eee5984a&v=4",
+    "location": "Bologna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2009-08-26T11:45:40Z"
+  },
+  {
+    "login": "EsOsO",
+    "name": "Massimo Bonvicini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170860?s=72&v=4",
+    "location": "Bologna",
+    "company": "",
+    "twitterUsername": "esoso",
+    "followers": 16,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2009-12-22T08:23:28Z"
+  },
+  {
+    "login": "lukwe",
+    "name": "Luca Post.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56068?s=72&u=47890e65c2d4a19d95ba171da2b4023ae9ebad9b&v=4",
+    "location": "Bologna",
+    "company": "INGV",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2009-02-19T22:54:00Z"
+  },
+  {
+    "login": "gmalagutti",
+    "name": "Giorgio Malagutti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147850?s=72&u=1c8044b5631b1414d4466205872060ef03b8cf80&v=4",
+    "location": "Bologna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-11-02T16:58:13Z"
+  },
+  {
+    "login": "Stiva",
+    "name": "Stiva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166748?s=72&v=4",
+    "location": "Bologna",
+    "company": "Unibo Student",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 554,
+    "createdAt": "2009-12-12T21:27:21Z"
   }
 ]

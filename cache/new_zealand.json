@@ -1854,9 +1854,9 @@
     "location": "New Zealand ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2025-08-17T02:43:30Z"
   },
   {
@@ -1868,7 +1868,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 336,
+    "publicContributions": 312,
     "createdAt": "2025-01-07T07:19:33Z"
   },
   {
@@ -1878,9 +1878,9 @@
     "location": "New Zealand",
     "company": "Sitesorted",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 333,
+    "publicContributions": 336,
     "createdAt": "2025-05-09T00:09:50Z"
   },
   {
@@ -1892,7 +1892,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 11,
     "createdAt": "2025-04-22T02:41:33Z"
   },
   {
@@ -1904,7 +1904,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 36,
     "createdAt": "2025-03-10T04:29:08Z"
   },
   {
@@ -1914,21 +1914,21 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1943,
-    "publicContributions": 401,
+    "followers": 3,
+    "privateContributions": 2090,
+    "publicContributions": 372,
     "createdAt": "2025-03-11T08:51:08Z"
   },
   {
     "login": "ramisworld",
-    "name": "",
+    "name": "ramisworld",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193139178?s=72&v=4",
     "location": "New Zealand, Auckland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 53,
-    "publicContributions": 238,
+    "followers": 4,
+    "privateContributions": 58,
+    "publicContributions": 237,
     "createdAt": "2024-12-29T12:10:52Z"
   },
   {
@@ -1940,7 +1940,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1473,
+    "publicContributions": 1317,
     "createdAt": "2025-02-22T22:20:55Z"
   },
   {
@@ -1950,21 +1950,21 @@
     "location": "Dunedin, New Zealand ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 77,
-    "publicContributions": 115,
+    "followers": 4,
+    "privateContributions": 93,
+    "publicContributions": 117,
     "createdAt": "2025-08-26T02:08:06Z"
   },
   {
     "login": "Dylan-Watt",
     "name": "Dylan Watt",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219512058?s=72&u=e6af64d429e679d9b2c3d622061acb464c1233b3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219512058?s=72&u=f3b94f8e6377b56097ac5191903e9f316ee9d503&v=4",
     "location": "New Zealand ",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 37,
     "createdAt": "2025-07-06T09:39:11Z"
   },
   {
@@ -1976,7 +1976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 142,
     "createdAt": "2025-05-22T23:08:24Z"
   },
   {
@@ -2012,19 +2012,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 104,
     "createdAt": "2025-10-23T01:05:11Z"
   },
   {
     "login": "Gurbakshexe",
     "name": "Gurbaksh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231374802?s=72&u=53c7c5f16b8eb8d9efbe10a4457a0253026c03fe&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231374802?s=72&u=687ba3842e6a4d4a3d1477a5fdbfd3d712b9e013&v=4",
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 7,
     "createdAt": "2025-09-10T00:07:54Z"
   },
   {
@@ -2036,20 +2036,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 73,
     "createdAt": "2025-04-23T02:19:53Z"
-  },
-  {
-    "login": "TurboNZL",
-    "name": "TurboNZ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204825000?s=72&u=e889efba4ceb4b3b0cb2cad011c6eb4bf66c11fb&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2025-03-25T05:34:37Z"
   },
   {
     "login": "SoggySocks3",
@@ -2060,7 +2048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-01T23:18:52Z"
   },
   {
@@ -2071,8 +2059,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 26,
-    "publicContributions": 12,
+    "privateContributions": 112,
+    "publicContributions": 0,
     "createdAt": "2025-07-06T08:18:32Z"
   },
   {
@@ -2084,7 +2072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 22,
     "createdAt": "2025-07-14T02:44:22Z"
   },
   {

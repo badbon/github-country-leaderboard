@@ -1447,7 +1447,7 @@
     "company": "",
     "twitterUsername": "connorhaigh_je",
     "followers": 6,
-    "privateContributions": 110,
+    "privateContributions": 126,
     "publicContributions": 14,
     "createdAt": "2011-12-23T20:06:37Z"
   },
@@ -1460,7 +1460,7 @@
     "twitterUsername": "doobox",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 108,
     "createdAt": "2011-09-05T08:22:12Z"
   },
   {
@@ -1470,7 +1470,7 @@
     "location": "Jersey, UK",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2011-09-12T17:17:28Z"
@@ -1495,8 +1495,8 @@
     "company": "Blue Flame Digital Solutions Limited",
     "twitterUsername": "myPhilTaylor",
     "followers": 68,
-    "privateContributions": 19099,
-    "publicContributions": 712,
+    "privateContributions": 36752,
+    "publicContributions": 713,
     "createdAt": "2010-09-15T10:38:43Z"
   },
   {
@@ -1506,9 +1506,9 @@
     "location": "Jersey",
     "company": "@anaconda",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 906,
-    "publicContributions": 1,
+    "followers": 39,
+    "privateContributions": 936,
+    "publicContributions": 3,
     "createdAt": "2010-09-21T13:22:24Z"
   },
   {
@@ -1519,8 +1519,8 @@
     "company": "RollDeep",
     "twitterUsername": "daviderwin",
     "followers": 30,
-    "privateContributions": 5754,
-    "publicContributions": 86,
+    "privateContributions": 10899,
+    "publicContributions": 93,
     "createdAt": "2010-04-29T19:53:37Z"
   },
   {
@@ -1531,7 +1531,7 @@
     "company": "@InfuseGroup ",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 4294,
+    "privateContributions": 4549,
     "publicContributions": 7,
     "createdAt": "2010-12-21T11:31:46Z"
   },
@@ -1542,8 +1542,8 @@
     "location": "Jersey, Channel Islands",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 85,
+    "followers": 20,
+    "privateContributions": 107,
     "publicContributions": 0,
     "createdAt": "2010-04-28T10:20:15Z"
   },
@@ -1554,9 +1554,9 @@
     "location": "Jersey",
     "company": "@EWG-Group ",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 1661,
-    "publicContributions": 5,
+    "followers": 21,
+    "privateContributions": 2301,
+    "publicContributions": 2,
     "createdAt": "2010-08-16T18:40:22Z"
   },
   {
@@ -1567,8 +1567,8 @@
     "company": "ITC Bio",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1142,
-    "publicContributions": 128,
+    "privateContributions": 1240,
+    "publicContributions": 136,
     "createdAt": "2010-08-25T18:16:44Z"
   },
   {
@@ -1591,7 +1591,7 @@
     "company": "@vaiie ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1553,
+    "privateContributions": 1622,
     "publicContributions": 8,
     "createdAt": "2010-09-13T08:42:18Z"
   },
@@ -1614,9 +1614,9 @@
     "location": "Jersey",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 22,
     "createdAt": "2010-08-06T23:52:16Z"
   },
   {
@@ -1662,9 +1662,9 @@
     "location": "Jersey, Channel Islands",
     "company": "re.je",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 54,
     "createdAt": "2009-09-02T14:01:07Z"
   }
 ]

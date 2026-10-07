@@ -1866,9 +1866,9 @@
     "location": "Kinshasa",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 20,
     "createdAt": "2024-09-21T17:29:21Z"
   },
   {
@@ -1916,7 +1916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-12-06T01:47:32Z"
   },
   {
@@ -1928,7 +1928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 3,
     "createdAt": "2024-10-04T04:28:02Z"
   },
   {
@@ -1952,7 +1952,7 @@
     "twitterUsername": "Mat_MatondKus",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 2,
     "createdAt": "2024-05-05T09:34:18Z"
   },
   {
@@ -1964,7 +1964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 52,
     "createdAt": "2024-06-30T14:17:22Z"
   },
   {
@@ -1976,7 +1976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 7,
     "createdAt": "2024-01-10T13:03:34Z"
   },
   {
@@ -1999,7 +1999,7 @@
     "company": "Huawei technology",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 46,
+    "privateContributions": 94,
     "publicContributions": 20,
     "createdAt": "2024-06-26T11:44:27Z"
   },
@@ -2008,11 +2008,11 @@
     "name": "Dieudonné MUHEMEDI",
     "avatarUrl": "https://avatars.githubusercontent.com/u/164656467?s=72&u=44571cc416d97d0bce62d1cd30e3d9b544d104bf&v=4",
     "location": "Kinshasa",
-    "company": "Brain Corporation",
+    "company": "NUR SARL",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 211,
+    "publicContributions": 230,
     "createdAt": "2024-03-23T15:51:42Z"
   },
   {
@@ -2028,27 +2028,15 @@
     "createdAt": "2024-03-06T10:04:12Z"
   },
   {
-    "login": "Newtechrdc",
-    "name": "Newtechrdc",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179504703?s=72&u=a31834f1c24b85fc89e383289442ddb55906aee1&v=4",
-    "location": "Kinshasa",
-    "company": "Newtech",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-08-26T15:31:19Z"
-  },
-  {
     "login": "hlama",
     "name": "Horne Lama",
     "avatarUrl": "https://avatars.githubusercontent.com/u/191898846?s=72&u=9f4a10b8006294f1513a9f65cd4e7202412b7072&v=4",
     "location": "Kinshasa",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2024-12-16T17:16:06Z"
   },
   {
@@ -2083,8 +2071,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 946,
-    "publicContributions": 139,
+    "privateContributions": 1204,
+    "publicContributions": 136,
     "createdAt": "2024-10-15T16:53:37Z"
   },
   {

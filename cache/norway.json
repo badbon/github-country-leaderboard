@@ -1916,7 +1916,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-02T04:53:35Z"
   },
   {
@@ -1934,13 +1934,13 @@
   {
     "login": "noktohq",
     "name": "Edin Nokto",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196589298?s=72&u=463375213c25ebc1247b1ebfb799753f49ab1fce&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196589298?s=72&u=cee4b33282a9a93d3e6f54638de0b1298fa02de3&v=4",
     "location": "Skien, Norway",
     "company": "NOKTO",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 222,
-    "publicContributions": 89,
+    "followers": 6,
+    "privateContributions": 802,
+    "publicContributions": 151,
     "createdAt": "2025-01-27T02:47:04Z"
   },
   {
@@ -1951,7 +1951,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 85,
+    "privateContributions": 74,
     "publicContributions": 9,
     "createdAt": "2025-06-26T12:26:36Z"
   },
@@ -1974,9 +1974,9 @@
     "location": "Norway",
     "company": "@Snoro-IT ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-08-22T20:26:37Z"
   },
   {
@@ -2012,7 +2012,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 43,
     "createdAt": "2025-07-22T15:22:21Z"
   },
   {
@@ -2023,8 +2023,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2125,
-    "publicContributions": 39,
+    "privateContributions": 2572,
+    "publicContributions": 43,
     "createdAt": "2025-10-09T10:34:17Z"
   },
   {
@@ -2071,8 +2071,8 @@
     "company": "EcoDeco AS",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 709,
-    "publicContributions": 512,
+    "privateContributions": 825,
+    "publicContributions": 674,
     "createdAt": "2025-04-13T22:56:40Z"
   },
   {
@@ -2084,7 +2084,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 66,
     "createdAt": "2025-08-22T11:06:19Z"
   },
   {
@@ -2118,8 +2118,8 @@
     "location": "Norway",
     "company": "Jærradiogruppen AS",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2356,
+    "followers": 3,
+    "privateContributions": 5024,
     "publicContributions": 1,
     "createdAt": "2025-12-01T09:33:24Z"
   },

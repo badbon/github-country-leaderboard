@@ -1856,7 +1856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 9,
     "createdAt": "2026-01-09T15:28:40Z"
   },
   {
@@ -1868,7 +1868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 51,
     "createdAt": "2026-02-18T20:59:24Z"
   },
   {
@@ -1897,14 +1897,14 @@
   },
   {
     "login": "ricardoserodio",
-    "name": "Ricardo Serôdio",
+    "name": "Ricardo António Brandão Serôdio",
     "avatarUrl": "https://avatars.githubusercontent.com/u/281621776?s=72&u=6b60ee4bbfb5d9109dab8e4a63f3f6d08dff343a&v=4",
     "location": "Portugal",
     "company": "Wisestrike Finance Lab",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 374,
+    "publicContributions": 379,
     "createdAt": "2026-05-04T11:38:21Z"
   },
   {
@@ -1926,9 +1926,9 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 44,
-    "publicContributions": 72,
+    "followers": 37,
+    "privateContributions": 106,
+    "publicContributions": 1,
     "createdAt": "2026-02-24T12:37:54Z"
   },
   {
@@ -1939,21 +1939,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 278,
-    "publicContributions": 42,
+    "privateContributions": 356,
+    "publicContributions": 14,
     "createdAt": "2026-02-17T19:15:51Z"
-  },
-  {
-    "login": "jalves-de",
-    "name": "Jonathan Alves - ja.de",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257803828?s=72&u=17de7a58700d5d1880f444e73f9f5e21a8a5efd0&v=4",
-    "location": "Remote-first | Based in Lisbon",
-    "company": "42 Lisbon",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 121,
-    "publicContributions": 60,
-    "createdAt": "2026-01-28T14:56:13Z"
   },
   {
     "login": "ibeatrizsantanamail-oss",
@@ -1974,7 +1962,7 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2026-05-02T13:58:44Z"
@@ -1998,7 +1986,7 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-28T21:23:39Z"
@@ -2012,7 +2000,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 11,
     "createdAt": "2026-03-09T19:11:02Z"
   },
   {
@@ -2024,7 +2012,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 15,
     "createdAt": "2026-03-20T19:25:36Z"
   },
   {
@@ -2036,7 +2024,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 74,
     "createdAt": "2026-01-28T11:59:40Z"
   },
   {
@@ -341698,5 +341686,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-17T14:03:19Z"
+  },
+  {
+    "login": "Filipe-Vasconcelos-Batista",
+    "name": "Filipe Vasconcelos  Batista",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124799878?s=72&u=5dff3da642fdb300e59b012424fa961564bcdf60&v=4",
+    "location": "Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 12,
+    "publicContributions": 61,
+    "createdAt": "2023-02-08T14:40:10Z"
   }
 ]

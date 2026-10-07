@@ -1856,7 +1856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 15,
     "createdAt": "2025-10-15T15:35:42Z"
   },
   {
@@ -1868,19 +1868,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2025-10-02T14:42:11Z"
   },
   {
     "login": "SebastianLima-PE",
     "name": "Sebastian Pariachi Limahuaya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216464581?s=72&u=f8c83eda12383014d933b8e6f2893bf75595b53c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216464581?s=72&u=7314ac70d3c9f45ee14bcbb1de8e290888019e6f&v=4",
     "location": "Lima, Peru",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 259,
+    "publicContributions": 420,
     "createdAt": "2025-06-16T01:50:18Z"
   },
   {
@@ -1904,7 +1904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 94,
     "createdAt": "2025-07-03T03:21:27Z"
   },
   {
@@ -1915,20 +1915,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 892,
-    "publicContributions": 26,
+    "privateContributions": 938,
+    "publicContributions": 28,
     "createdAt": "2025-05-11T19:21:06Z"
   },
   {
     "login": "Dxexo10",
     "name": "Diego Silva",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/240843619?s=72&u=914e1173d9e8d7d3a6a0d8016c0184687c77be50&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/240843619?s=72&v=4",
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 4,
-    "publicContributions": 16,
+    "publicContributions": 70,
     "createdAt": "2025-10-29T04:45:44Z"
   },
   {
@@ -1964,7 +1964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 13,
     "createdAt": "2025-06-13T17:50:14Z"
   },
   {
@@ -1976,7 +1976,7 @@
     "twitterUsername": "asegundo442",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 207,
     "createdAt": "2025-05-25T08:11:39Z"
   },
   {
@@ -1986,7 +1986,7 @@
     "location": "Peru",
     "company": "",
     "twitterUsername": "FlickerDeerfox",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-08-01T07:43:07Z"
@@ -2000,7 +2000,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 15,
     "createdAt": "2025-03-26T23:46:58Z"
   },
   {
@@ -2036,7 +2036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-25T21:27:09Z"
   },
   {
@@ -2048,20 +2048,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 37,
     "createdAt": "2025-02-12T22:20:31Z"
-  },
-  {
-    "login": "Issirc20",
-    "name": "FRANK CRISMAR CAMPOS PORRAS",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206146243?s=72&u=08254c2514ff3d794b7883025df28c5ac926d145&v=4",
-    "location": "PERU",
-    "company": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DE HUAMANGA",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2025-04-03T22:58:07Z"
   },
   {
     "login": "araquije-stefanini",
@@ -2071,8 +2059,8 @@
     "company": "Stefanini",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 414,
-    "publicContributions": 1,
+    "privateContributions": 480,
+    "publicContributions": 0,
     "createdAt": "2025-09-12T18:05:30Z"
   },
   {

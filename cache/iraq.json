@@ -1602,7 +1602,7 @@
     "location": "Iraq",
     "company": "@Miswag ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-01-12T08:58:45Z"
@@ -1616,7 +1616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 65,
     "createdAt": "2025-04-28T11:01:30Z"
   },
   {
@@ -1628,7 +1628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2025-05-21T19:39:25Z"
   },
   {
@@ -1650,8 +1650,8 @@
     "location": "Iraq - Baghdad",
     "company": "imam ja'afar al-sadiq university",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 144,
+    "followers": 2,
+    "privateContributions": 276,
     "publicContributions": 0,
     "createdAt": "2025-04-09T18:27:48Z"
   },
@@ -1662,21 +1662,21 @@
     "location": "Iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 137,
     "createdAt": "2025-08-27T22:55:38Z"
   },
   {
     "login": "wsl-iq",
     "name": "Mohammed Al-Baqer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195442557?s=72&u=eabb994f8fdea0857c1079c5801de29af4e955fe&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195442557?s=72&u=bb5d716f9f01171b2007888bfca0c0d3acfb4952&v=4",
     "location": "IRAQ / Baghdad",
-    "company": "",
+    "company": "In the Home",
     "twitterUsername": "r94xs",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 307,
+    "publicContributions": 224,
     "createdAt": "2025-01-17T11:31:08Z"
   },
   {
@@ -1712,20 +1712,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-08-19T18:00:50Z"
-  },
-  {
-    "login": "avdo403",
-    "name": "Abdulrahman Faqe Salih",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216747412?s=72&u=1ce68bda5ff9c6e6c5fa44a531c5072db590d7a5&v=4",
-    "location": "Iraq/Erbil",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2025-06-17T16:00:30Z"
   },
   {
     "login": "mralehsas",
@@ -1736,7 +1724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 157,
+    "publicContributions": 48,
     "createdAt": "2025-10-12T11:48:45Z"
   },
   {
@@ -1748,7 +1736,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 183,
     "createdAt": "2025-02-14T08:46:56Z"
   },
   {
@@ -1760,7 +1748,7 @@
     "twitterUsername": "bxon11",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 5,
     "createdAt": "2025-03-07T08:27:35Z"
   },
   {
@@ -1772,7 +1760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 60,
     "createdAt": "2025-10-26T14:07:56Z"
   },
   {
@@ -1794,7 +1782,7 @@
     "location": "IRAQ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2025-12-02T13:24:44Z"
@@ -1806,9 +1794,9 @@
     "location": "Basra, Iraq",
     "company": "University of Basra — Computer Engineering",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 61,
     "createdAt": "2025-12-05T13:52:53Z"
   },
   {
@@ -1819,7 +1807,7 @@
     "company": "LineX",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 597,
+    "privateContributions": 748,
     "publicContributions": 71,
     "createdAt": "2025-06-23T17:08:54Z"
   },

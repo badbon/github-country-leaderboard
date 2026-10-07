@@ -1604,7 +1604,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 6,
-    "publicContributions": 28,
+    "publicContributions": 26,
     "createdAt": "2025-03-26T18:12:01Z"
   },
   {
@@ -1616,7 +1616,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 4,
-    "publicContributions": 46,
+    "publicContributions": 39,
     "createdAt": "2025-05-05T13:36:44Z"
   },
   {
@@ -1626,9 +1626,9 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 227,
+    "publicContributions": 240,
     "createdAt": "2025-05-25T14:52:11Z"
   },
   {
@@ -1638,9 +1638,9 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 16,
     "createdAt": "2025-11-29T18:16:35Z"
   },
   {
@@ -1650,22 +1650,10 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 29,
-    "publicContributions": 168,
+    "followers": 4,
+    "privateContributions": 30,
+    "publicContributions": 190,
     "createdAt": "2025-05-15T14:10:38Z"
-  },
-  {
-    "login": "param0985av",
-    "name": "Wojciech Murawa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194885445?s=72&u=66c21d070b66b5cc9d1962a92d06b00fdd3332a3&v=4",
-    "location": "Prague, Czech Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-01-14T05:35:13Z"
   },
   {
     "login": "AriCuteGirl",
@@ -1676,7 +1664,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 481,
+    "publicContributions": 436,
     "createdAt": "2025-02-12T22:59:43Z"
   },
   {
@@ -1688,7 +1676,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 25,
     "createdAt": "2025-03-20T10:10:58Z"
   },
   {
@@ -1712,7 +1700,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 81,
     "createdAt": "2025-01-19T10:29:54Z"
   },
   {
@@ -1741,14 +1729,14 @@
   },
   {
     "login": "akotouc",
-    "name": "a.kotouc",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231768509?s=72&v=4",
+    "name": "a.kotøuc",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231768509?s=72&u=0808b35c4404938d995a3ba4db87d246e349d8e6&v=4",
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2025-09-11T19:55:05Z"
   },
   {
@@ -1758,9 +1746,9 @@
     "location": "Brno, Czech Republic",
     "company": "Keysight Inc.",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 111,
     "createdAt": "2025-10-02T19:31:16Z"
   },
   {
@@ -1772,7 +1760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 55,
     "createdAt": "2025-05-19T11:47:44Z"
   },
   {
@@ -1786,18 +1774,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-14T07:19:32Z"
-  },
-  {
-    "login": "qodequinn",
-    "name": "Quinnᴬᴵ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194576171?s=72&u=7297d79858bb74daf392ee15f8295b6d9c7637c8&v=4",
-    "location": "Czech Republic",
-    "company": "Qode Industries",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-01-11T06:26:12Z"
   },
   {
     "login": "Devnix7",
@@ -1820,7 +1796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 24,
     "createdAt": "2025-08-01T00:35:48Z"
   },
   {
@@ -1832,7 +1808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-24T07:43:29Z"
   },
   {

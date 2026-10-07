@@ -1904,7 +1904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-09T16:27:32Z"
   },
   {
@@ -1928,7 +1928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2025-02-19T16:44:06Z"
   },
   {
@@ -1940,7 +1940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 67,
     "createdAt": "2025-03-05T17:04:48Z"
   },
   {
@@ -1952,7 +1952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 31,
     "createdAt": "2025-03-17T14:11:04Z"
   },
   {
@@ -2000,7 +2000,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-22T15:42:55Z"
   },
   {
@@ -2018,13 +2018,13 @@
   {
     "login": "FrameHolder-dev",
     "name": "FrameHolder / Artyom",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/220726407?s=72&u=60b340afadbe347071624a5c3461c9d47c10cc0f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/220726407?s=72&u=bb054369f17dbc379fc30d44c7fbe5cf01297368&v=4",
     "location": "Dubai / Belarus",
     "company": "FrameLabs",
     "twitterUsername": "xframelabs",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 286,
+    "publicContributions": 310,
     "createdAt": "2025-07-14T12:30:25Z"
   },
   {
@@ -2034,9 +2034,9 @@
     "location": "Minsk",
     "company": "",
     "twitterUsername": "",
-    "followers": 59,
-    "privateContributions": 258,
-    "publicContributions": 2884,
+    "followers": 78,
+    "privateContributions": 260,
+    "publicContributions": 2879,
     "createdAt": "2025-09-10T04:27:32Z"
   },
   {
@@ -2046,9 +2046,9 @@
     "location": "Minsk",
     "company": "BSU FAMCS",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 261,
     "createdAt": "2025-02-24T15:18:13Z"
   },
   {
@@ -2058,9 +2058,9 @@
     "location": "Minsk",
     "company": "bsuir",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 404,
+    "publicContributions": 427,
     "createdAt": "2025-03-15T12:02:53Z"
   },
   {
@@ -2072,7 +2072,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 29,
     "createdAt": "2025-03-02T15:56:47Z"
   },
   {
@@ -2084,7 +2084,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 128,
     "createdAt": "2025-05-06T21:39:50Z"
   },
   {
@@ -2096,19 +2096,19 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 320,
+    "publicContributions": 211,
     "createdAt": "2025-02-16T12:00:29Z"
   },
   {
     "login": "v-syman-dev",
-    "name": "",
+    "name": "Владислав Сыман",
     "avatarUrl": "https://avatars.githubusercontent.com/u/224125473?s=72&u=61baa748c71e9f03a23535cfaacf88f3d35b5bfc&v=4",
     "location": "Minsk",
     "company": "BSUIR",
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 330,
+    "publicContributions": 161,
     "createdAt": "2025-08-01T15:45:09Z"
   },
   {
@@ -2120,7 +2120,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 89,
     "createdAt": "2025-09-04T18:45:15Z"
   },
   {
@@ -2130,9 +2130,9 @@
     "location": "Minsk",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 75,
     "createdAt": "2024-12-29T15:57:51Z"
   },
   {

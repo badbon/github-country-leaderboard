@@ -1868,7 +1868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 98,
     "createdAt": "2026-01-22T03:56:08Z"
   },
   {
@@ -1880,13 +1880,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 25,
     "createdAt": "2026-01-08T00:06:47Z"
   },
   {
     "login": "Anguzmana",
     "name": "Andres Guzman Achocalla",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/260701725?s=72&u=19e9486f7a3fa5e41c66aa11426e91bf725c8cda&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260701725?s=72&u=c442f99d54f377f32812723dff0db1187c736396&v=4",
     "location": "Chile",
     "company": "Coca Cola",
     "twitterUsername": "",
@@ -1904,7 +1904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 53,
     "createdAt": "2026-03-29T02:40:59Z"
   },
   {
@@ -1914,9 +1914,9 @@
     "location": "Santiago de Compostela ",
     "company": "rebelytics.com",
     "twitterUsername": "rebelytics",
-    "followers": 52,
-    "privateContributions": 3,
-    "publicContributions": 75,
+    "followers": 86,
+    "privateContributions": 16,
+    "publicContributions": 324,
     "createdAt": "2026-02-14T19:44:45Z"
   },
   {
@@ -1951,8 +1951,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 113,
-    "publicContributions": 137,
+    "privateContributions": 133,
+    "publicContributions": 139,
     "createdAt": "2026-03-25T18:47:39Z"
   },
   {
@@ -1962,9 +1962,9 @@
     "location": "Santiago",
     "company": "@Bukhr",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 13,
-    "publicContributions": 9,
+    "followers": 7,
+    "privateContributions": 3,
+    "publicContributions": 41,
     "createdAt": "2026-03-24T12:43:36Z"
   },
   {
@@ -1974,21 +1974,21 @@
     "location": "Santiago",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 138,
     "createdAt": "2026-04-10T20:25:42Z"
   },
   {
     "login": "fmoyam",
-    "name": "Pi pe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278514145?s=72&v=4",
+    "name": "Felipe Moya Molina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278514145?s=72&u=0513a26cf2cd61fc7d42185031bd61d4b0085148&v=4",
     "location": "Santiago",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 61,
     "createdAt": "2026-04-22T20:38:30Z"
   },
   {
@@ -2000,7 +2000,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 75,
     "createdAt": "2026-01-05T19:41:12Z"
   },
   {
@@ -2086,18 +2086,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-03-05T00:56:01Z"
-  },
-  {
-    "login": "alejaranda",
-    "name": "Alejandro Arancibia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209288425?s=72&u=2efbb8a37479f4cb3a570696cf502e5447b36086&v=4",
-    "location": "Santiago, Chile",
-    "company": "@santana-build",
-    "twitterUsername": "",
-    "followers": 1053,
-    "privateContributions": 165,
-    "publicContributions": 252,
-    "createdAt": "2025-04-26T20:26:03Z"
   },
   {
     "login": "e6348",
