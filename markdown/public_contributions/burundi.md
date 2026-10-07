@@ -1,6 +1,6 @@
 # Public Contributions - Burundi
 
-Generated: 2026-10-07T10:55:51.301Z
+Generated: 2026-10-07T12:06:05.563Z
 
 Users: 236
 
@@ -14,15 +14,15 @@ Users: 236
 | 6 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | @uhuru-Market  |  | burundi | 356 |
 | 7 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev |  |  | Burundi | 337 |
 | 8 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 312 |
-| 9 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 287 |
-| 10 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel |  | AndyHabyarimana | Gitega, Burundi  | 284 |
-| 11 | [butofleury](https://github.com/butofleury) | Fleury | @BLSQ |  | Burundi, Bujumbura | 269 |
+| 9 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel |  | AndyHabyarimana | Gitega, Burundi  | 284 |
+| 10 | [butofleury](https://github.com/butofleury) | Fleury | @BLSQ |  | Burundi, Bujumbura | 269 |
+| 11 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 269 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY |  |  | Burundi/Bujumbura | 220 |
 | 13 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Self-Employed | Mtl_Thierry_Jov | Bujumbura, Burundi | 216 |
 | 14 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | afritic-group |  | Burundi | 210 |
-| 15 | [TonyBimenyi](https://github.com/TonyBimenyi) |  | @hogiBurundi | bimenyimana_b | Bujumbura, Burundi | 185 |
-| 16 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 159 |
-| 17 | [kaebalsaebal](https://github.com/kaebalsaebal) | kaebalsaebal | BSMC(Bujumbura Semiconductor Manufacturing Co.) |  | Burundi | 143 |
-| 18 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Amplitude Ventures |  | Burundi | 134 |
-| 19 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | XP TEAM |  | Burundi | 116 |
-| 20 | [Yanhozanam](https://github.com/Yanhozanam) | Yan Hozanam Mbonyumugisha |  |  | Burundi | 112 |
+| 15 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 159 |
+| 16 | [kaebalsaebal](https://github.com/kaebalsaebal) | kaebalsaebal | BSMC(Bujumbura Semiconductor Manufacturing Co.) |  | Burundi | 143 |
+| 17 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Amplitude Ventures |  | Burundi | 134 |
+| 18 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | XP TEAM |  | Burundi | 116 |
+| 19 | [Yanhozanam](https://github.com/Yanhozanam) | Yan Hozanam Mbonyumugisha |  |  | Burundi | 112 |
+| 20 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | The Creative House Inc. |  | Burundi | 110 |

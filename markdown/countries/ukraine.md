@@ -70,8 +70,8 @@ Indexed users: 47,768
 | 6 | [Tyrrrz](https://github.com/Tyrrrz) | Oleksii Holub | Kyiv, Ukraine | 2,934 |
 | 7 | [akella](https://github.com/akella) | Yuri Artiukh | Kyiv | 2,670 |
 | 8 | [blynkkk](https://github.com/blynkkk) | Blynk IoT platform | New York, US – Kyiv, Ukraine | 2,440 |
-| 9 | [filedonkey](https://github.com/filedonkey) | FileDonkey | Ukraine | 2,416 |
-| 10 | [bobuk](https://github.com/bobuk) | Grigory Bakunov | Kyiv, Ukraine | 2,414 |
+| 9 | [bobuk](https://github.com/bobuk) | Grigory Bakunov | Kyiv, Ukraine | 2,414 |
+| 10 | [filedonkey](https://github.com/filedonkey) | FileDonkey | Ukraine | 2,406 |
 | 11 | [xanf](https://github.com/xanf) | Illya Klymov | Ukraine, Kharkiv | 1,388 |
 | 12 | [LimerBoy](https://github.com/LimerBoy) | Imperator Vladimir | Ukraine | 1,355 |
 | 13 | [hebasto](https://github.com/hebasto) | Hennadii Stepanov | Ukraine | 1,295 |
@@ -83,4 +83,4 @@ Indexed users: 47,768
 | 19 | [TBlindaruk](https://github.com/TBlindaruk) | Tetiana Blindaruk | Ukraine | 1,192 |
 | 20 | [NJul](https://github.com/NJul) | Nina | Ukraine | 1,140 |
 
-Generated: 2026-10-07T10:46:40.566Z
+Generated: 2026-10-07T11:55:33.131Z

@@ -1,13 +1,13 @@
 # Total Contributions - Suriname
 
-Generated: 2026-10-07T10:44:10.192Z
+Generated: 2026-10-07T11:52:40.868Z
 
 Users: 123
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Divengine Software Solutions | rafageist | Paramaribo, Suriname | 46002 |
-| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández |  | RagnarokReinier | Suriname | 12729 |
+| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández |  | RagnarokReinier | Suriname | 13693 |
 | 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott |  |  | Suriname | 6107 |
 | 4 | [Karel95](https://github.com/Karel95) | Karel Hernández |  |  | Paramaribo, Suriname | 2767 |
 | 5 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | StayDirect |  | Paramaribo | 1692 |
@@ -15,9 +15,9 @@ Users: 123
 | 7 | [eSaniello](https://github.com/eSaniello) | Shaniel  | @Bits-Please-Technologies | shaniel292 | Suriname | 1599 |
 | 8 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | EndaCore Software | jhon_corella | Paramaribo | 1493 |
 | 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | @paisrtechnologies  | secondn_ | Suriname | 1141 |
-| 10 | [dmoed](https://github.com/dmoed) | <Don/> |  |  | Paramaribo, Suriname | 861 |
-| 11 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman |  | Giannisanii | Paramaribo, Suriname | 853 |
-| 12 | [nerkarso](https://github.com/nerkarso) | Ner Karso | @ngineerlab |  | Paramaribo, Suriname | 839 |
+| 10 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman |  | Giannisanii | Paramaribo, Suriname | 853 |
+| 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | @ngineerlab |  | Paramaribo, Suriname | 839 |
+| 12 | [dmoed](https://github.com/dmoed) | <Don/> |  |  | Paramaribo, Suriname | 738 |
 | 13 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam |  |  | Suriname | 720 |
 | 14 | [devbravo](https://github.com/devbravo) | Diego Sabajo | ZennoAI |  | Paramaribo, Suriname | 659 |
 | 15 | [SantoshDevX](https://github.com/SantoshDevX) | Vishant Ramratan |  |  | Suriname | 647 |

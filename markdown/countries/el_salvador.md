@@ -23,9 +23,9 @@ Indexed users: 2,390
 | 9 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 5,853 |
 | 10 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 5,699 |
 | 11 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 4,921 |
-| 12 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 4,614 |
-| 13 | [striker25](https://github.com/striker25) | Fernando Alvarado | El Salvador | 4,446 |
-| 14 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 4,299 |
+| 12 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 4,728 |
+| 13 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 4,614 |
+| 14 | [striker25](https://github.com/striker25) | Fernando Alvarado | El Salvador | 4,446 |
 | 15 | [agodin3z](https://github.com/agodin3z) | Andrés Godínez | El Salvador | 4,261 |
 | 16 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,138 |
 | 17 | [jorge-rivera91](https://github.com/jorge-rivera91) | Jorge Rivera | El Salvador | 4,081 |
@@ -54,9 +54,9 @@ Indexed users: 2,390
 | 15 | [beihaili](https://github.com/beihaili) | bhbtc1337 | El Salvador | 940 |
 | 16 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | El Salvador | 935 |
 | 17 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez | El Salvador, San Salvador | 925 |
-| 18 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 888 |
-| 19 | [castillorobin](https://github.com/castillorobin) | Robin Castillo | Santa Ana, El Salvador | 885 |
-| 20 | [kevocodes](https://github.com/kevocodes) | Kevin Escobar | El Salvador | 873 |
+| 18 | [DiazzzDev](https://github.com/DiazzzDev) | Edwin Díaz | El Salvador | 896 |
+| 19 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 888 |
+| 20 | [castillorobin](https://github.com/castillorobin) | Robin Castillo | Santa Ana, El Salvador | 885 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,390
 | 19 | [hherzl](https://github.com/hherzl) | HH | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 96 |
 
-Generated: 2026-10-07T11:00:47.734Z
+Generated: 2026-10-07T12:11:10.241Z

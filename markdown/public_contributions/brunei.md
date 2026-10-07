@@ -1,6 +1,6 @@
 # Public Contributions - Brunei
 
-Generated: 2026-10-07T10:54:02.587Z
+Generated: 2026-10-07T12:05:42.347Z
 
 Users: 256
 
@@ -22,7 +22,7 @@ Users: 256
 | 14 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin |  |  | Brunei | 53 |
 | 15 | [ZeeyKhm](https://github.com/ZeeyKhm) | Azizi Keffli | Zeey Developer |  | Brunei Darussalam | 53 |
 | 16 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM |  |  | Brunei Darussalam | 52 |
-| 17 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 49 |
-| 18 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 47 |
-| 19 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri |  |  | Brunei Darussalam | 44 |
+| 17 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri |  |  | Brunei Darussalam | 50 |
+| 18 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 49 |
+| 19 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 47 |
 | 20 | [scarliere](https://github.com/scarliere) | Scarliere |  |  | Brunei | 44 |

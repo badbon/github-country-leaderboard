@@ -1,8 +1,8 @@
 # Followers - Costa Rica
 
-Generated: 2026-10-07T10:57:43.904Z
+Generated: 2026-10-07T12:07:47.890Z
 
-Users: 5646
+Users: 5645
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

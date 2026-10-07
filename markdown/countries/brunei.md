@@ -17,7 +17,7 @@ Indexed users: 256
 | 3 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 1,977 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 1,542 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,202 |
-| 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,168 |
+| 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,067 |
 | 7 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,064 |
 | 8 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 864 |
 | 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 857 |
@@ -27,11 +27,11 @@ Indexed users: 256
 | 13 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 487 |
 | 14 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 456 |
 | 15 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 378 |
-| 16 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 327 |
-| 17 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 286 |
-| 18 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 233 |
-| 19 | [MirzaMuqri](https://github.com/MirzaMuqri) | Mirza Muk(q)ri | Brunei Darussalam | 230 |
-| 20 | [najib-r](https://github.com/najib-r) | najib-r | Brunei | 213 |
+| 16 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 356 |
+| 17 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 327 |
+| 18 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 286 |
+| 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 233 |
+| 20 | [MirzaMuqri](https://github.com/MirzaMuqri) | Mirza Muk(q)ri | Brunei Darussalam | 228 |
 
 ## Public Contributions
 
@@ -53,9 +53,9 @@ Indexed users: 256
 | 14 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 53 |
 | 15 | [ZeeyKhm](https://github.com/ZeeyKhm) | Azizi Keffli | Brunei Darussalam | 53 |
 | 16 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM | Brunei Darussalam | 52 |
-| 17 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 49 |
-| 18 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 47 |
-| 19 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 44 |
+| 17 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 50 |
+| 18 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 49 |
+| 19 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 47 |
 | 20 | [scarliere](https://github.com/scarliere) | Scarliere | Brunei | 44 |
 
 ## Followers
@@ -69,7 +69,7 @@ Indexed users: 256
 | 5 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 48 |
 | 6 | [PandaWarrior63](https://github.com/PandaWarrior63) |  | Brunei | 40 |
 | 7 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 37 |
-| 8 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 28 |
+| 8 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 29 |
 | 9 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman | Brunei Darussalam | 25 |
 | 10 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou | Brunei Darussalam | 23 |
 | 11 | [sk8teroy](https://github.com/sk8teroy) |  | Brunei | 22 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [bahit](https://github.com/bahit) | Bahit Hamid | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-07T10:54:02.587Z
+Generated: 2026-10-07T12:05:42.347Z

@@ -1,6 +1,6 @@
 # Estonia
 
-Indexed users: 4,923
+Indexed users: 4,921
 
 | Leaderboard | Link |
 |---|---|
@@ -40,9 +40,9 @@ Indexed users: 4,923
 | 1 | [ersinkoc](https://github.com/ersinkoc) | Ersin KOÇ | Tallinn | 22,359 |
 | 2 | [livenson](https://github.com/livenson) | Ilja Livenson | Estonia | 9,018 |
 | 3 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 8,508 |
-| 4 | [v3rm0n](https://github.com/v3rm0n) | Maido Käära | Tallinn | 7,088 |
-| 5 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Estonia | 6,088 |
-| 6 | [xsyetopz](https://github.com/xsyetopz) | iborrowcheckbtw | Tartu, Estonia | 6,081 |
+| 4 | [xsyetopz](https://github.com/xsyetopz) | iborrowcheckbtw | Tartu, Estonia | 7,191 |
+| 5 | [v3rm0n](https://github.com/v3rm0n) | Maido Käära | Tallinn | 7,088 |
+| 6 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Estonia | 6,088 |
 | 7 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 5,781 |
 | 8 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 4,882 |
 | 9 | [tot-ra](https://github.com/tot-ra) | Artjom Kurapov | Tallinn, Estonia | 4,407 |
@@ -83,4 +83,4 @@ Indexed users: 4,923
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 391 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-07T11:02:13.826Z
+Generated: 2026-10-07T12:11:57.547Z

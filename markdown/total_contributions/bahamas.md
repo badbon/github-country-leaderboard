@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-07T10:51:55.093Z
+Generated: 2026-10-07T12:01:12.474Z
 
 Users: 238
 
@@ -15,14 +15,14 @@ Users: 238
 | 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour |  |  | New Providence, Bahamas | 1637 |
 | 8 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Agio Digital Ltd. |  | Nassau, The Bahamas | 1392 |
 | 9 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 1328 |
-| 10 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 1110 |
-| 11 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 1005 |
-| 12 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 946 |
-| 13 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 802 |
-| 14 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 787 |
-| 15 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 786 |
-| 16 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 711 |
-| 17 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 545 |
-| 18 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 534 |
-| 19 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 500 |
+| 10 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 1306 |
+| 11 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 1215 |
+| 12 | [TRL242](https://github.com/TRL242) | Roy Lockhart |  |  | Victoria, BC and Freeport, Bahamas | 1110 |
+| 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 1005 |
+| 14 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 802 |
+| 15 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 787 |
+| 16 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 786 |
+| 17 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 711 |
+| 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 545 |
+| 19 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 534 |
 | 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 386 |

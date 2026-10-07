@@ -1,6 +1,6 @@
 # Followers - Brunei
 
-Generated: 2026-10-07T10:54:02.587Z
+Generated: 2026-10-07T12:05:42.347Z
 
 Users: 256
 
@@ -13,7 +13,7 @@ Users: 256
 | 5 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 48 |
 | 6 | [PandaWarrior63](https://github.com/PandaWarrior63) |  | Lectus |  | Brunei | 40 |
 | 7 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 37 |
-| 8 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Datastream Digital (DST)  |  | Brunei Darussalam | 28 |
+| 8 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Datastream Digital (DST)  |  | Brunei Darussalam | 29 |
 | 9 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman |  |  | Brunei Darussalam | 25 |
 | 10 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 23 |
 | 11 | [sk8teroy](https://github.com/sk8teroy) |  |  |  | Brunei | 22 |

@@ -1,8 +1,8 @@
 # Followers - Haiti
 
-Generated: 2026-10-07T11:06:04.195Z
+Generated: 2026-10-07T12:15:50.082Z
 
-Users: 340
+Users: 339
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 340
 | 11 | [jamslylm](https://github.com/jamslylm) | Jamsly MINÉ | Freelance | jamslylm | Port-au-prince, Ouest, Haiti | 43 |
 | 12 | [EdManDev](https://github.com/EdManDev) | EdManDev | EdManDev | EdmanManigat | Haiti | 42 |
 | 13 | [AD0791](https://github.com/AD0791) | Alexandro Disla |  |  | Haiti | 41 |
-| 14 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty |  |  | Haiti | 38 |
-| 15 | [djtrueway](https://github.com/djtrueway) | peterson saint-aime | SajesUnlock | djtrueway | Haiti | 36 |
-| 16 | [AlexisJW](https://github.com/AlexisJW) | Jean Walner Alexis |  Full-stack Developer |  | Port-au-prince, Haïti | 34 |
-| 17 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 34 |
+| 14 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty |  |  | Haiti | 39 |
+| 15 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 37 |
+| 16 | [djtrueway](https://github.com/djtrueway) | peterson saint-aime | SajesUnlock | djtrueway | Haiti | 36 |
+| 17 | [AlexisJW](https://github.com/AlexisJW) | Jean Walner Alexis |  Full-stack Developer |  | Port-au-prince, Haïti | 34 |
 | 18 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | @TransitDigitale @Megalobiz  |  | Delmas 41, Ouest, Haiti | 34 |
 | 19 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | none |  | Haiti | 33 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Skydev |  | Port-au-prince, Haïti | 32 |

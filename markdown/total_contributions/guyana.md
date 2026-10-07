@@ -1,22 +1,22 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-07T11:06:01.313Z
+Generated: 2026-10-07T12:15:46.429Z
 
 Users: 186
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 6107 |
+| 1 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Vorso Computing, Inc. | sandogee | Guyana, South America | 5503 |
 | 2 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder |  |  | Georgetown, KY | 5339 |
-| 3 | [barnwell](https://github.com/barnwell) | Jason Barnwell |  |  | Guyana | 3922 |
-| 4 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 3911 |
-| 5 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | RASH |  | Georgetown Guyana | 3797 |
-| 6 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3738 |
-| 7 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 3690 |
-| 8 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 3289 |
-| 9 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 3108 |
-| 10 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 3021 |
-| 11 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Vorso Computing, Inc. | sandogee | Guyana, South America | 2916 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 5330 |
+| 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | RASH |  | Georgetown Guyana | 4376 |
+| 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell |  |  | Guyana | 4285 |
+| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 3911 |
+| 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3738 |
+| 8 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 3690 |
+| 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 3289 |
+| 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 3108 |
+| 11 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 3021 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee |  |  | Georgetown, TX | 2209 |
 | 13 | [Hinxman](https://github.com/Hinxman) | Ken Hinxman |  |  | Georgetown, TX | 1726 |
 | 14 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1609 |

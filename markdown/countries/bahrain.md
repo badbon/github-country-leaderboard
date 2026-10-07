@@ -25,13 +25,13 @@ Indexed users: 733
 | 11 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,594 |
 | 12 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,560 |
 | 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 3,321 |
-| 14 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf | Bahrain | 3,168 |
-| 15 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,108 |
-| 16 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 2,781 |
-| 17 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,409 |
-| 18 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 2,395 |
-| 19 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 2,319 |
-| 20 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 2,299 |
+| 14 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,169 |
+| 15 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf | Bahrain | 3,168 |
+| 16 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,108 |
+| 17 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 2,781 |
+| 18 | [amali01](https://github.com/amali01) | Amjad Ali | Bahrain | 2,565 |
+| 19 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,409 |
+| 20 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 2,395 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 733
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 41 |
 | 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa | Bahrain | 37 |
 
-Generated: 2026-10-07T10:52:11.001Z
+Generated: 2026-10-07T12:02:41.026Z

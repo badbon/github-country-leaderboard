@@ -1,8 +1,8 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-07T11:06:04.195Z
+Generated: 2026-10-07T12:15:50.082Z
 
-Users: 340
+Users: 339
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,10 +12,10 @@ Users: 340
 | 4 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 4166 |
 | 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | @jecode93 | jecode93 | Haiti | 3398 |
 | 6 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Mackandal Technologies |  | Haiti | 2354 |
-| 7 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 2317 |
+| 7 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 2343 |
 | 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 2243 |
-| 9 | [platon777](https://github.com/platon777) | Wichley Valentin |  |  | Haiti | 1817 |
-| 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | D-EAT |  | Port-au-Prince | 1782 |
+| 9 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | D-EAT |  | Port-au-Prince | 1824 |
+| 10 | [platon777](https://github.com/platon777) | Wichley Valentin |  |  | Haiti | 1817 |
 | 11 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1756 |
 | 12 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 1601 |
 | 13 | [youko509](https://github.com/youko509) |  Erico Saint-Charles |  |  | Haiti | 1125 |

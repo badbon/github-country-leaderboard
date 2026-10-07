@@ -1,8 +1,8 @@
 # Public Contributions - Iraq
 
-Generated: 2026-10-07T11:07:18.049Z
+Generated: 2026-10-07T12:17:50.450Z
 
-Users: 2251
+Users: 2250
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 2251
 | 17 | [haydercyber](https://github.com/haydercyber) | Haider Raed | Qi card |  | Iraq, Baghdad | 691 |
 | 18 | [Riyam224](https://github.com/Riyam224) | Riyam Hazim |  | Rima40554058 | baghdad | 650 |
 | 19 | [AlameenAzad](https://github.com/AlameenAzad) | Ameen Azad | K&C |  | Iraq | 632 |
-| 20 | [amoree-code](https://github.com/amoree-code) | Ameer Abdulkareem Lami | Star Sphere |  | Iraq | 620 |
+| 20 | [abaadaliraq](https://github.com/abaadaliraq) | ابعاد العراق |  |  | iraq  | 627 |

@@ -42,7 +42,7 @@ Indexed users: 1,792
 | 3 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 2,621 |
 | 4 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 2,576 |
 | 5 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi | Bolivia | 2,280 |
-| 6 | [ldgd2](https://github.com/ldgd2) | Lider | Bolivia | 1,914 |
+| 6 | [ldgd2](https://github.com/ldgd2) | Lider | Bolivia | 2,241 |
 | 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 1,684 |
 | 8 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 1,627 |
 | 9 | [rafael1199v](https://github.com/rafael1199v) | Rafael Vargas | Bolivia | 1,586 |
@@ -83,4 +83,4 @@ Indexed users: 1,792
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 126 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 124 |
 
-Generated: 2026-10-07T10:53:20.386Z
+Generated: 2026-10-07T12:04:02.706Z

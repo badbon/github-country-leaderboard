@@ -19,10 +19,10 @@ Indexed users: 564
 | 5 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | Praia Grande | 1,715 |
 | 6 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 1,379 |
 | 7 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,337 |
-| 8 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Praia Grande/SP | 1,288 |
-| 9 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Itajai - Praia Brava | 1,253 |
-| 10 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 1,225 |
-| 11 | [Steravy](https://github.com/Steravy) | Stefan Victoria  | Praia, Cape Verde | 1,221 |
+| 8 | [Steravy](https://github.com/Steravy) | Stefan Victoria  | Praia, Cape Verde | 1,325 |
+| 9 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Praia Grande/SP | 1,288 |
+| 10 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Itajai - Praia Brava | 1,253 |
+| 11 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 1,225 |
 | 12 | [peeta98](https://github.com/peeta98) | Pedro Moreira | Terceira, Praia da Vitória | 1,185 |
 | 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 1,115 |
 | 14 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana | Praia do Sonho - Palhoça, SC - Brasil | 1,096 |
@@ -62,7 +62,7 @@ Indexed users: 564
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo | Cape Verde | 464 |
+| 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo | Cape Verde | 450 |
 | 2 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 448 |
 | 3 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 362 |
 | 4 | [Dnuns](https://github.com/Dnuns) | David Nunes | Cape Verde | 212 |
@@ -71,16 +71,16 @@ Indexed users: 564
 | 7 | [portellaa](https://github.com/portellaa) | Luís Portela Afonso | Vila Praia de Âncora | 123 |
 | 8 | [gabrielngomes](https://github.com/gabrielngomes) | Gabriel Gomes | Praia Grande, SP | 120 |
 | 9 | [eloisaoliveira](https://github.com/eloisaoliveira) | Eloisa de Oliveira | Praia Grande - SP | 116 |
-| 10 | [cdfortes](https://github.com/cdfortes) | Carlos Fortes | Praia - Cabo Verde | 92 |
-| 11 | [felipesurfe](https://github.com/felipesurfe) | FELIPE CAMARGO FERNANDES | Praia Grande - SP - Brazil | 89 |
-| 12 | [isabellacoliveira](https://github.com/isabellacoliveira) | Isabella Cruz de Oliveira | Praia Grande | 89 |
+| 10 | [isabellacoliveira](https://github.com/isabellacoliveira) | Isabella Cruz de Oliveira | Praia Grande | 93 |
+| 11 | [cdfortes](https://github.com/cdfortes) | Carlos Fortes | Praia - Cabo Verde | 92 |
+| 12 | [felipesurfe](https://github.com/felipesurfe) | FELIPE CAMARGO FERNANDES | Praia Grande - SP - Brazil | 89 |
 | 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 82 |
 | 14 | [JulianeMonteiro](https://github.com/JulianeMonteiro) | Juliane Aparecida Monteiro dos Santos | Praia Grande - SP | 75 |
 | 15 | [GabrielJalmeida](https://github.com/GabrielJalmeida) | Gabriel Almeida | Praia Grande | 74 |
 | 16 | [emimuniz](https://github.com/emimuniz) | Emillyn Muniz  | Praia Grande - SP  | 73 |
 | 17 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 59 |
 | 18 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros | Praia, Cabo Verde | 58 |
-| 19 | [KaiqueLusvarghi](https://github.com/KaiqueLusvarghi) | Kaique Ortolani Lusvarghi | Praia Grande -SP | 58 |
-| 20 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
+| 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
+| 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 53 |
 
-Generated: 2026-10-07T10:56:01.885Z
+Generated: 2026-10-07T12:06:15.892Z

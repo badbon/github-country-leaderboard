@@ -1,8 +1,8 @@
 # Total Contributions - Indonesia
 
-Generated: 2026-10-07T11:07:11.929Z
+Generated: 2026-10-07T12:17:41.729Z
 
-Users: 63153
+Users: 63151
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

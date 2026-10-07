@@ -1,6 +1,6 @@
 # Total Contributions - Gibraltar
 
-Generated: 2026-10-07T11:04:37.743Z
+Generated: 2026-10-07T12:13:22.082Z
 
 Users: 93
 
@@ -12,7 +12,7 @@ Users: 93
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz |  |  | Gibraltar | 3251 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi |  |  | Gibraltar | 2010 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C |  |  | Gibraltar | 1376 |
-| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas |  |  | Gibraltar, GI | 1289 |
+| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas |  |  | Gibraltar, GI | 1292 |
 | 8 | [llmora](https://github.com/llmora) | Lluis Mora |  | lluismh | Gibraltar | 1173 |
 | 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 836 |
 | 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato |  |  | Gibraltar | 772 |
@@ -21,7 +21,7 @@ Users: 93
 | 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia |  |  | Spain/Gibraltar | 604 |
 | 14 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek |  |  | Gibraltar | 523 |
 | 15 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | AJEDREZ PREMIUM |  | GIBRALTAR | 493 |
-| 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | @guestbell  |  | Gibraltar | 456 |
+| 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | @guestbell  |  | Gibraltar | 457 |
 | 17 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk |  |  | Gibraltar | 403 |
 | 18 | [cdharris](https://github.com/cdharris) | Chris Harris |  | hellokozmo | Berlin / Europe / Gibraltar | 362 |
 | 19 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu |  |  | Gibraltar | 256 |

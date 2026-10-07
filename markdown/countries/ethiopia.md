@@ -42,11 +42,11 @@ Indexed users: 6,690
 | 3 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) | Addis Ababa  | 3,881 |
 | 4 | [poricf](https://github.com/poricf) | Fahmi Dinsefa | Ethiopia | 3,646 |
 | 5 | [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh) | Hailemeskel Getaneh | Debre Birhan, Ethiopia | 3,582 |
-| 6 | [yab3ts](https://github.com/yab3ts) | Yabets Maregn  | Ethiopia | 3,230 |
-| 7 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | Addis Ababa, Ethiopia | 3,124 |
-| 8 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera | Ethiopia  | 3,106 |
-| 9 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | Addis Ababa | 3,073 |
-| 10 | [hiruy72](https://github.com/hiruy72) | Hiruy Legesse Adane | Addis Ababa, Ethiopia | 3,028 |
+| 6 | [hiruy72](https://github.com/hiruy72) | Hiruy Legesse Adane | Addis Ababa, Ethiopia | 3,390 |
+| 7 | [yab3ts](https://github.com/yab3ts) | Yabets Maregn  | Ethiopia | 3,230 |
+| 8 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | Addis Ababa, Ethiopia | 3,124 |
+| 9 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera | Ethiopia  | 3,106 |
+| 10 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | Addis Ababa | 3,073 |
 | 11 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Addis Ababa, Ethiopia | 2,667 |
 | 12 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 2,523 |
 | 13 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar | Addis Ababa, Ethiopia | 2,510 |
@@ -83,4 +83,4 @@ Indexed users: 6,690
 | 19 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 519 |
 | 20 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 515 |
 
-Generated: 2026-10-07T11:02:49.845Z
+Generated: 2026-10-07T12:12:04.941Z

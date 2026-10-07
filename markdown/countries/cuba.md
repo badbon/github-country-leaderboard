@@ -17,7 +17,7 @@ Indexed users: 1,294
 | 3 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 11,268 |
 | 4 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 7,235 |
 | 5 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 6,495 |
-| 6 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,848 |
+| 6 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,976 |
 | 7 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 5,782 |
 | 8 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 5,263 |
 | 9 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba | 5,115 |
@@ -83,4 +83,4 @@ Indexed users: 1,294
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 69 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 68 |
 
-Generated: 2026-10-07T10:58:10.260Z
+Generated: 2026-10-07T12:08:18.148Z

@@ -1,6 +1,6 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-07T10:56:01.885Z
+Generated: 2026-10-07T12:06:15.892Z
 
 Users: 564
 
@@ -13,10 +13,10 @@ Users: 564
 | 5 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | @nubank |  | Praia Grande | 1715 |
 | 6 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Bemol |  | Praia Grande - SC | 1379 |
 | 7 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1337 |
-| 8 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Inventta |  | Praia Grande/SP | 1288 |
-| 9 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Monkey Branch |  | Itajai - Praia Brava | 1253 |
-| 10 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 1225 |
-| 11 | [Steravy](https://github.com/Steravy) | Stefan Victoria  |  | Ste_ravy | Praia, Cape Verde | 1221 |
+| 8 | [Steravy](https://github.com/Steravy) | Stefan Victoria  |  | Ste_ravy | Praia, Cape Verde | 1325 |
+| 9 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Inventta |  | Praia Grande/SP | 1288 |
+| 10 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Monkey Branch |  | Itajai - Praia Brava | 1253 |
+| 11 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 1225 |
 | 12 | [peeta98](https://github.com/peeta98) | Pedro Moreira |  |  | Terceira, Praia da Vitória | 1185 |
 | 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 1115 |
 | 14 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana |  |  | Praia do Sonho - Palhoça, SC - Brasil | 1096 |

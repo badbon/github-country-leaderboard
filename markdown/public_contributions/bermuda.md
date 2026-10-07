@@ -1,6 +1,6 @@
 # Public Contributions - Bermuda
 
-Generated: 2026-10-07T10:53:09.581Z
+Generated: 2026-10-07T12:03:40.848Z
 
 Users: 909
 
@@ -24,5 +24,5 @@ Users: 909
 | 16 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Miami University | roseaw | Oxford, OH, Hamilton, OH | 614 |
 | 17 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | McMaster University |  | Hamilton, ON | 605 |
 | 18 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | McMaster University CS + Math |  | Hamilton, Ontario | 601 |
-| 19 | [littleblack111](https://github.com/littleblack111) | littleblack111 |  |  | Bermuda | 562 |
-| 20 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel |  | chu_rill | Hamilton | 494 |
+| 19 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel |  | chu_rill | Hamilton | 494 |
+| 20 | [zallahve](https://github.com/zallahve) | Ziya Allahverdiyev |  |  | Hamilton, Ontario | 482 |

@@ -16,13 +16,13 @@ Indexed users: 315
 | 2 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 1,993 |
 | 3 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,936 |
 | 4 | [therealwardell](https://github.com/therealwardell) | ElieJoel | Libreville,GABON | 1,874 |
-| 5 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 1,333 |
-| 6 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 1,280 |
+| 5 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 1,280 |
+| 6 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 1,227 |
 | 7 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,055 |
 | 8 | [Arthur241g](https://github.com/Arthur241g) | Arthur Crown | GABON | 966 |
-| 9 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 723 |
-| 10 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 680 |
-| 11 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 616 |
+| 9 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 843 |
+| 10 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 723 |
+| 11 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 680 |
 | 12 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui | Gabon | 574 |
 | 13 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 557 |
 | 14 | [DodgeElfry](https://github.com/DodgeElfry) | Dox | Gabon | 503 |
@@ -48,15 +48,15 @@ Indexed users: 315
 | 9 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 317 |
 | 10 | [nnangassejb10](https://github.com/nnangassejb10) | gloire jb nnang | Gabon  | 303 |
 | 11 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 233 |
-| 12 | [DodgeElfry](https://github.com/DodgeElfry) | Dox | Gabon | 229 |
-| 13 | [Lichtensteiner](https://github.com/Lichtensteiner) | Lichtensteiner Stawikowski | Libreville Gabon | 213 |
-| 14 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 206 |
-| 15 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 180 |
+| 12 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 233 |
+| 13 | [DodgeElfry](https://github.com/DodgeElfry) | Dox | Gabon | 229 |
+| 14 | [Lichtensteiner](https://github.com/Lichtensteiner) | Lichtensteiner Stawikowski | Libreville Gabon | 213 |
+| 15 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 206 |
 | 16 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | Libreville, Gabon | 171 |
 | 17 | [reasonknowledge](https://github.com/reasonknowledge) | NGOUBOUKOU Franck Hervé | Libreville-Gabon | 169 |
 | 18 | [jennigs241](https://github.com/jennigs241) |  | Gabon | 163 |
-| 19 | [waly2020](https://github.com/waly2020) | waly le dev | Gabon (Libreville) | 139 |
-| 20 | [NGOUBADJAMBO-Richard](https://github.com/NGOUBADJAMBO-Richard) | NGOUBADJAMBO Richard | Gabon - Libreville | 131 |
+| 19 | [waly2020](https://github.com/waly2020) | waly le dev | Gabon (Libreville) | 154 |
+| 20 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 148 |
 
 ## Followers
 
@@ -80,7 +80,7 @@ Indexed users: 315
 | 16 | [bangaromaric](https://github.com/bangaromaric) | BANGA | Libreville, Gabon | 27 |
 | 17 | [hamiltondarryl](https://github.com/hamiltondarryl) | MAHANGA BOULINGUI Hamilton Darryl | Libreville, Gabon | 27 |
 | 18 | [abdoulayedong](https://github.com/abdoulayedong) | Abdoulaye Dong | Libreville, Gabon | 26 |
-| 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 23 |
+| 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 22 |
 
-Generated: 2026-10-07T11:04:21.325Z
+Generated: 2026-10-07T12:12:50.198Z

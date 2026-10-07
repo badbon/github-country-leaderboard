@@ -1,6 +1,6 @@
 # Iraq
 
-Indexed users: 2,251
+Indexed users: 2,250
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 2,251
 | 17 | [haydercyber](https://github.com/haydercyber) | Haider Raed | Iraq, Baghdad | 691 |
 | 18 | [Riyam224](https://github.com/Riyam224) | Riyam Hazim | baghdad | 650 |
 | 19 | [AlameenAzad](https://github.com/AlameenAzad) | Ameen Azad | Iraq | 632 |
-| 20 | [amoree-code](https://github.com/amoree-code) | Ameer Abdulkareem Lami | Iraq | 620 |
+| 20 | [abaadaliraq](https://github.com/abaadaliraq) | ابعاد العراق | iraq  | 627 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,251
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 203 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 178 |
 
-Generated: 2026-10-07T11:07:18.049Z
+Generated: 2026-10-07T12:17:50.450Z

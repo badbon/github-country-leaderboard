@@ -1,6 +1,6 @@
 # Public Contributions - Togo
 
-Generated: 2026-10-07T10:45:53.787Z
+Generated: 2026-10-07T11:53:55.323Z
 
 Users: 689
 
@@ -8,9 +8,9 @@ Users: 689
 |---:|---|---|---|---|---|---:|
 | 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | ALL-CODERS |  | Lome,TOGO | 7363 |
 | 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | W3 Frame | hermanneho | Lomé TOGO | 4066 |
-| 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 2865 |
-| 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  |  |  | lomé-TOGO | 2370 |
-| 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | theconnectstudio |  | Lome -TOGO | 2338 |
+| 3 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Freelance |  | Lome -TOGO | 3136 |
+| 4 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 2865 |
+| 5 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  |  |  | lomé-TOGO | 2370 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | @GYFX35 |  | Togo | 2148 |
 | 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | AET Technology |  | Togo | 1847 |
 | 8 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | KORYXA |  | Lome, Togo | 1710 |

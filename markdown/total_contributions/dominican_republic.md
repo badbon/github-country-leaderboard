@@ -1,6 +1,6 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-07T10:59:40.441Z
+Generated: 2026-10-07T12:10:54.961Z
 
 Users: 3306
 

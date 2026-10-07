@@ -1,6 +1,6 @@
 # Public Contributions - South Sudan
 
-Generated: 2026-10-07T10:42:55.509Z
+Generated: 2026-10-07T11:52:03.227Z
 
 Users: 133
 
@@ -13,16 +13,16 @@ Users: 133
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  |  | PuochMabor | South Sudan | 583 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Belednai Technology |  | Juba-South Sudan | 540 |
 | 7 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | @DIGI-UW  @OPENMRS | djnuior256 | Juba  | 513 |
-| 8 | [WANI12](https://github.com/WANI12) | wani geoffrey | @open-southsudan  | GeoffreyWani | Juba, South Sudan | 335 |
-| 9 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | SharpNet technologies  |  | Juba South Sudan | 323 |
-| 10 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  |  |  | Juba, South Sudan | 321 |
-| 11 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Lajik Tech | Dengtieljr15673 | Juba/Online | 296 |
-| 12 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham |  | NhialCham | Juba, South Sudan | 292 |
-| 13 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | TechPro |  | South Sudan | 271 |
-| 14 | [felixuxx](https://github.com/felixuxx) | ... |  |  | Juba, South Sudan | 268 |
-| 15 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | climaware |  | South Sudan | 262 |
-| 16 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | University of Juba |  | Juba, South Sudan | 260 |
-| 17 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Turning Point Innovation Limited |  | Juba | 217 |
-| 18 | [Konson22](https://github.com/Konson22) | Kon Akech | Miles global Link | konsonak | South Sudan | 215 |
-| 19 | [Ibrahim-Lbib](https://github.com/Ibrahim-Lbib) | Ibrahim Labib | Ibrahim Labib Studio |  | Juba, South - Sudan | 178 |
-| 20 | [garango123](https://github.com/garango123) | Garang Makuach Deng | University of the People  |  | Juba South Sudan | 148 |
+| 8 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Freelancer | stephen_morlex | Juba, South Sudan | 501 |
+| 9 | [WANI12](https://github.com/WANI12) | wani geoffrey | @open-southsudan  | GeoffreyWani | Juba, South Sudan | 387 |
+| 10 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | SharpNet technologies  |  | Juba South Sudan | 323 |
+| 11 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  |  |  | Juba, South Sudan | 321 |
+| 12 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Lajik Tech | Dengtieljr15673 | Juba/Online | 296 |
+| 13 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham |  | NhialCham | Juba, South Sudan | 292 |
+| 14 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | TechPro |  | South Sudan | 271 |
+| 15 | [felixuxx](https://github.com/felixuxx) | ... |  |  | Juba, South Sudan | 268 |
+| 16 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | climaware |  | South Sudan | 262 |
+| 17 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | University of Juba |  | Juba, South Sudan | 260 |
+| 18 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Turning Point Innovation Limited |  | Juba | 217 |
+| 19 | [Konson22](https://github.com/Konson22) | Kon Akech | Miles global Link | konsonak | South Sudan | 215 |
+| 20 | [Ibrahim-Lbib](https://github.com/Ibrahim-Lbib) | Ibrahim Labib | Ibrahim Labib Studio |  | Juba, South - Sudan | 178 |

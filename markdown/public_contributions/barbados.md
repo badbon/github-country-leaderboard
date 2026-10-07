@@ -1,6 +1,6 @@
 # Public Contributions - Barbados
 
-Generated: 2026-10-07T10:52:18.892Z
+Generated: 2026-10-07T12:02:49.669Z
 
 Users: 133
 
@@ -10,7 +10,7 @@ Users: 133
 | 2 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 676 |
 | 3 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 410 |
 | 4 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 365 |
-| 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne |  |  | Bridgetown, Barbados | 309 |
+| 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne |  |  | Bridgetown, Barbados | 310 |
 | 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 252 |
 | 7 | [BlueRoyy](https://github.com/BlueRoyy) | Kenroy Ronnie Roach | Electoral and Boundaries Commission |  | Barbados | 226 |
 | 8 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 220 |
@@ -22,7 +22,7 @@ Users: 133
 | 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | M&E Partners Limited |  | St. Phillips, Barbados, W.I. | 105 |
 | 15 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 99 |
 | 16 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 85 |
-| 17 | [Rayh23](https://github.com/Rayh23) | Raynel |  |  | Barbados | 81 |
-| 18 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 74 |
+| 17 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 84 |
+| 18 | [Rayh23](https://github.com/Rayh23) | Raynel |  |  | Barbados | 81 |
 | 19 | [baebranch](https://github.com/baebranch) | Brian Branch |  | baebranch | Barbados | 67 |
 | 20 | [cgoodridge](https://github.com/cgoodridge) |  |  |  | Barbados | 61 |

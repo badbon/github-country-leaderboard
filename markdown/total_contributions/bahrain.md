@@ -1,6 +1,6 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-07T10:52:11.001Z
+Generated: 2026-10-07T12:02:41.026Z
 
 Users: 733
 
@@ -19,10 +19,10 @@ Users: 733
 | 11 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN |  |  | Bahrain | 3594 |
 | 12 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 3560 |
 | 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 3321 |
-| 14 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf |  | vi0at | Bahrain | 3168 |
-| 15 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 3108 |
-| 16 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 2781 |
-| 17 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham |  |  | Bahrain | 2409 |
-| 18 | [halalgami](https://github.com/halalgami) | Algam |  |  | Bahrain | 2395 |
-| 19 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 2319 |
-| 20 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 2299 |
+| 14 | [Kwaddo](https://github.com/Kwaddo) | Quad |  |  | Bahrain | 3169 |
+| 15 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf |  | vi0at | Bahrain | 3168 |
+| 16 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 3108 |
+| 17 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 2781 |
+| 18 | [amali01](https://github.com/amali01) | Amjad Ali |  |  | Bahrain | 2565 |
+| 19 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham |  |  | Bahrain | 2409 |
+| 20 | [halalgami](https://github.com/halalgami) | Algam |  |  | Bahrain | 2395 |

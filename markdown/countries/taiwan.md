@@ -1,6 +1,6 @@
 # Taiwan
 
-Indexed users: 22,025
+Indexed users: 22,024
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 22,025
 | 19 | [kaochenlong](https://github.com/kaochenlong) | Eddie Kao 高見龍 | Taiwan, Taipei | 1,655 |
 | 20 | [aaaddress1](https://github.com/aaaddress1) | Sheng-Hao Ma | Taiwan | 1,518 |
 
-Generated: 2026-10-07T10:45:10.233Z
+Generated: 2026-10-07T11:52:57.395Z

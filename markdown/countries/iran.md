@@ -80,7 +80,7 @@ Indexed users: 26,699
 | 16 | [nimakian](https://github.com/nimakian) | Nima Kian | Tabriz, Iran | 1,446 |
 | 17 | [irvaniamirali](https://github.com/irvaniamirali) | AmirAli Irvani | Iran | 1,425 |
 | 18 | [thisisnabi](https://github.com/thisisnabi) | Nabi Karampour | Tehran, Iran | 1,400 |
-| 19 | [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh) | Abolfazl Shadrouh | Guilan, Iran | 1,382 |
-| 20 | [armin-panahi](https://github.com/armin-panahi) | 𝗔𝗥𝗠𝗜𝗡 𝗣𝗔𝗡𝗔𝗛𝗜 | Iran | 1,373 |
+| 19 | [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh) | Abolfazl Shadrouh | Guilan, Iran | 1,388 |
+| 20 | [FarzaneF](https://github.com/FarzaneF) | Farzane Faizi | Shiraz,Iran | 1,352 |
 
-Generated: 2026-10-07T11:07:15.110Z
+Generated: 2026-10-07T12:17:46.052Z

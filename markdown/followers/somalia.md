@@ -1,6 +1,6 @@
 # Followers - Somalia
 
-Generated: 2026-10-07T10:42:44.363Z
+Generated: 2026-10-07T11:51:22.918Z
 
 Users: 866
 
@@ -12,8 +12,8 @@ Users: 866
 | 4 | [ahmed-moha](https://github.com/ahmed-moha) | Ahmed Mohamed Abdulkadir | Jamhuriya Technology Solutions | Ahmeddhaqan | Mogadishu, Somalia | 344 |
 | 5 | [MohamedAbdiaziz](https://github.com/MohamedAbdiaziz) | Mohamed Abdiaziz |  |  | Somalia  | 325 |
 | 6 | [Cabdulahi](https://github.com/Cabdulahi) | Cabdulahi Sharif | Hormuud | Cabdula18395654 | Mogadishu | 283 |
-| 7 | [munniomer](https://github.com/munniomer) | Munira Omar |  | munniomer | Mogadishu, Somalia | 242 |
-| 8 | [LibanMoo](https://github.com/LibanMoo) | Liban Hussein | Somali International University |  | Somalia | 223 |
+| 7 | [LibanMoo](https://github.com/LibanMoo) | Liban Hussein | Somali International University |  | Somalia | 251 |
+| 8 | [munniomer](https://github.com/munniomer) | Munira Omar |  | munniomer | Mogadishu, Somalia | 242 |
 | 9 | [ShurieJr](https://github.com/ShurieJr) | MOHAMED ABDULLAHI | Near East University In Nothern Cyprus | shuuriyejr | Somalia | 205 |
 | 10 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | @kaabeup @Waagefaal @bulsho-development-bank |  | Somalia | 201 |
 | 11 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 164 |

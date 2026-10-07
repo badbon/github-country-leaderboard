@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-07T10:44:24.006Z
+Generated: 2026-10-07T11:52:52.927Z
 
 Users: 1477
 
@@ -19,10 +19,10 @@ Users: 1477
 | 11 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1017 |
 | 12 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Freelancer | AbdoMaghrbi | Syria | 1010 |
 | 13 | [emad-alsmadi](https://github.com/emad-alsmadi) | emad alsmadi  |  |  | Syria | 873 |
-| 14 | [OlaMorad](https://github.com/OlaMorad) | Ola Morad |  |  | Damascus | 720 |
-| 15 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | mouayad.alhamwi.ma@gmail.com |  | Damascus, Syria | 653 |
-| 16 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki |  |  | Syria | 644 |
-| 17 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | L-One Systems |  | Damascus, Syria | 629 |
-| 18 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Code Machine |  | Syria | 582 |
+| 14 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Code Machine |  | Syria | 744 |
+| 15 | [OlaMorad](https://github.com/OlaMorad) | Ola Morad |  |  | Damascus | 720 |
+| 16 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | mouayad.alhamwi.ma@gmail.com |  | Damascus, Syria | 653 |
+| 17 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki |  |  | Syria | 644 |
+| 18 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | L-One Systems |  | Damascus, Syria | 629 |
 | 19 | [sam-a1a](https://github.com/sam-a1a) | Sam |  |  | Damascus, Syrian Arab Republic | 574 |
 | 20 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 557 |

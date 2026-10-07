@@ -1,6 +1,6 @@
 # Public Contributions - Ethiopia
 
-Generated: 2026-10-07T11:02:49.845Z
+Generated: 2026-10-07T12:12:04.941Z
 
 Users: 6690
 
@@ -11,11 +11,11 @@ Users: 6690
 | 3 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) |  |  | Addis Ababa  | 3881 |
 | 4 | [poricf](https://github.com/poricf) | Fahmi Dinsefa |  | Fahmi_khandro | Ethiopia | 3646 |
 | 5 | [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh) | Hailemeskel Getaneh |  |  | Debre Birhan, Ethiopia | 3582 |
-| 6 | [yab3ts](https://github.com/yab3ts) | Yabets Maregn  |  |  | Ethiopia | 3230 |
-| 7 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | IE Networks |  | Addis Ababa, Ethiopia | 3124 |
-| 8 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera |  |  | Ethiopia  | 3106 |
-| 9 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | @anchorpipe  | Rick_Riener | Addis Ababa | 3073 |
-| 10 | [hiruy72](https://github.com/hiruy72) | Hiruy Legesse Adane |  |  | Addis Ababa, Ethiopia | 3028 |
+| 6 | [hiruy72](https://github.com/hiruy72) | Hiruy Legesse Adane |  |  | Addis Ababa, Ethiopia | 3390 |
+| 7 | [yab3ts](https://github.com/yab3ts) | Yabets Maregn  |  |  | Ethiopia | 3230 |
+| 8 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | IE Networks |  | Addis Ababa, Ethiopia | 3124 |
+| 9 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera |  |  | Ethiopia  | 3106 |
+| 10 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | @anchorpipe  | Rick_Riener | Addis Ababa | 3073 |
 | 11 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Novek ICT Solutions |  | Addis Ababa, Ethiopia | 2667 |
 | 12 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Adama Science and Technology University | alemu_geme88545 | Ethiopia | 2523 |
 | 13 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar |  |  | Addis Ababa, Ethiopia | 2510 |

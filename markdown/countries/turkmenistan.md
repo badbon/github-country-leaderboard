@@ -1,6 +1,6 @@
 # Turkmenistan
 
-Indexed users: 501
+Indexed users: 500
 
 | Leaderboard | Link |
 |---|---|
@@ -15,16 +15,16 @@ Indexed users: 501
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 23,592 |
 | 2 | [resuls](https://github.com/resuls) | Resul | Turkmenistan | 8,377 |
 | 3 | [bruno-keiko](https://github.com/bruno-keiko) | Bruno | Turkmenistan | 4,768 |
-| 4 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 4,417 |
-| 5 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,454 |
-| 6 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,434 |
-| 7 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,239 |
-| 8 | [arslanAta](https://github.com/arslanAta) | Arslan | Turkmenistan | 3,179 |
-| 9 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Turkmenistan | 2,935 |
-| 10 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 2,913 |
-| 11 | [lightRain0629](https://github.com/lightRain0629) | Umyt | Ashgabat, Turkmenistan | 2,855 |
-| 12 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 2,641 |
-| 13 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | Turkmenistan | 2,553 |
+| 4 | [arslanAta](https://github.com/arslanAta) | Arslan | Turkmenistan | 4,514 |
+| 5 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 4,417 |
+| 6 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | Turkmenistan | 3,924 |
+| 7 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,727 |
+| 8 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,454 |
+| 9 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,434 |
+| 10 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Turkmenistan | 2,935 |
+| 11 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 2,913 |
+| 12 | [lightRain0629](https://github.com/lightRain0629) | Umyt | Ashgabat, Turkmenistan | 2,855 |
+| 13 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 2,641 |
 | 14 | [RovshenTagangylyjov](https://github.com/RovshenTagangylyjov) | Rovshen Tagangylyjov | Ashgabat, Turkmenistan | 2,499 |
 | 15 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ashgabat | 2,261 |
 | 16 | [AnonimTM1](https://github.com/AnonimTM1) | Merdan Caryyew | Turkmenistan  | 2,139 |
@@ -55,8 +55,8 @@ Indexed users: 501
 | 16 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow | Ashgabat | 330 |
 | 17 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid | Turkmenistan Ashgabat | 269 |
 | 18 | [Mekan-developer](https://github.com/Mekan-developer) | Mekan Agamyradov | Turkmenistan, Ashgabat | 254 |
-| 19 | [hudaynazarovbabageldi](https://github.com/hudaynazarovbabageldi) | Babageldi | Ashgabat , Turkmenistan | 245 |
-| 20 | [Jemsit0300](https://github.com/Jemsit0300) | Jemşit BAHADUROW | Turkmenistan | 236 |
+| 19 | [Jemsit0300](https://github.com/Jemsit0300) | Jemşit BAHADUROW | Turkmenistan | 236 |
+| 20 | [hudaynazarovbabageldi](https://github.com/hudaynazarovbabageldi) | Babageldi | Ashgabat , Turkmenistan | 221 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 501
 | 19 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 | 20 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 64 |
 
-Generated: 2026-10-07T10:46:30.371Z
+Generated: 2026-10-07T11:54:41.061Z

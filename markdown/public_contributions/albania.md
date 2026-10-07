@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-07T10:50:02.234Z
+Generated: 2026-10-07T11:59:32.540Z
 
 Users: 1196
 
@@ -16,13 +16,13 @@ Users: 1196
 | 8 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 1107 |
 | 9 | [Diti2604](https://github.com/Diti2604) | Diti |  |  | Albania | 1054 |
 | 10 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 845 |
-| 11 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 729 |
-| 12 | [klajdm](https://github.com/klajdm) | Klajdi Murataj |  |  | Tirana, Albania | 692 |
-| 13 | [virvihuta](https://github.com/virvihuta) | Virvi Huta |  |  | Tirana, Albania | 664 |
-| 14 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 662 |
-| 15 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha |  |  | Tirane, Albania | 642 |
-| 16 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 616 |
-| 17 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari |  |  | Tirana, Albania | 565 |
-| 18 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu |  |  | Tirana, Albania | 549 |
-| 19 | [kristiker](https://github.com/kristiker) | Kristi K |  |  | Albania | 532 |
-| 20 | [jxrgenn](https://github.com/jxrgenn) | Jurgen Halili | @jxsoft |  | Tirana, Albania | 495 |
+| 11 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 733 |
+| 12 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 729 |
+| 13 | [klajdm](https://github.com/klajdm) | Klajdi Murataj |  |  | Tirana, Albania | 692 |
+| 14 | [virvihuta](https://github.com/virvihuta) | Virvi Huta |  |  | Tirana, Albania | 664 |
+| 15 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 662 |
+| 16 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha |  |  | Tirane, Albania | 642 |
+| 17 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 616 |
+| 18 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari |  |  | Tirana, Albania | 565 |
+| 19 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu |  |  | Tirana, Albania | 549 |
+| 20 | [kristiker](https://github.com/kristiker) | Kristi K |  |  | Albania | 532 |

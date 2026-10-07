@@ -1,6 +1,6 @@
 # Followers - Iran
 
-Generated: 2026-10-07T11:07:15.110Z
+Generated: 2026-10-07T12:17:46.052Z
 
 Users: 26699
 
@@ -24,5 +24,5 @@ Users: 26699
 | 16 | [nimakian](https://github.com/nimakian) | Nima Kian |  |  | Tabriz, Iran | 1446 |
 | 17 | [irvaniamirali](https://github.com/irvaniamirali) | AmirAli Irvani |  |  | Iran | 1425 |
 | 18 | [thisisnabi](https://github.com/thisisnabi) | Nabi Karampour | Snapp! Food |  | Tehran, Iran | 1400 |
-| 19 | [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh) | Abolfazl Shadrouh | Bachelor of Computer Engineering | AbolfazlShadroh | Guilan, Iran | 1382 |
-| 20 | [armin-panahi](https://github.com/armin-panahi) | 𝗔𝗥𝗠𝗜𝗡 𝗣𝗔𝗡𝗔𝗛𝗜 | P10 |  | Iran | 1373 |
+| 19 | [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh) | Abolfazl Shadrouh | Bachelor of Computer Engineering | AbolfazlShadroh | Guilan, Iran | 1388 |
+| 20 | [FarzaneF](https://github.com/FarzaneF) | Farzane Faizi |  |  | Shiraz,Iran | 1352 |

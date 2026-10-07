@@ -1,6 +1,6 @@
 # Followers - Guinea
 
-Generated: 2026-10-07T11:05:50.547Z
+Generated: 2026-10-07T12:15:39.212Z
 
 Users: 265
 
@@ -11,7 +11,7 @@ Users: 265
 | 3 | [camara94](https://github.com/camara94) | Laby Damaro CAMARA | Star Dev Cloud Group | laby_damaro | Conakry, Guinée | 86 |
 | 4 | [hadpro24](https://github.com/hadpro24) | Harouna Diallo | Software Engineer |  | Guinée, Conakry, GN | 74 |
 | 5 | [aradradev](https://github.com/aradradev) | Abdourahmane Jalloh | Full-Stack Developer | Abdoul_2023 | Conakry | 65 |
-| 6 | [sitatec](https://github.com/sitatec) | Sita Bérété | Dwino AI |  | Conakry, Guinea | 43 |
+| 6 | [sitatec](https://github.com/sitatec) | Sita Bérété | Dwino AI |  | Conakry, Guinea | 42 |
 | 7 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Smart Sarl | mabkorbonya | Conakry | 34 |
 | 8 | [hams94](https://github.com/hams94) | Hamidou Bah | ALTGRAS | yalagueya | Guinée, Conakry, GN | 31 |
 | 9 | [moudjames23](https://github.com/moudjames23) | Mamoudou Diallo |  |  | Guinea | 28 |

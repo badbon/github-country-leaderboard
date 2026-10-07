@@ -55,8 +55,8 @@ Indexed users: 909
 | 16 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 614 |
 | 17 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
 | 18 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 601 |
-| 19 | [littleblack111](https://github.com/littleblack111) | littleblack111 | Bermuda | 562 |
-| 20 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 494 |
+| 19 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 494 |
+| 20 | [zallahve](https://github.com/zallahve) | Ziya Allahverdiyev | Hamilton, Ontario | 482 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 909
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 86 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 75 |
 
-Generated: 2026-10-07T10:53:09.581Z
+Generated: 2026-10-07T12:03:40.848Z
