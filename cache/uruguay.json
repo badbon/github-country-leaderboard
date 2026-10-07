@@ -2156,7 +2156,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 31,
     "createdAt": "2025-02-03T16:12:53Z"
   },
   {
@@ -2168,7 +2168,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 65,
     "createdAt": "2025-04-25T00:08:34Z"
   },
   {
@@ -2178,7 +2178,7 @@
     "location": "Montevideo ",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 34,
     "createdAt": "2025-06-16T15:04:38Z"
@@ -2204,7 +2204,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 206,
+    "publicContributions": 175,
     "createdAt": "2025-03-24T22:57:30Z"
   },
   {
@@ -2214,9 +2214,9 @@
     "location": "Montevideo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 359,
-    "publicContributions": 152,
+    "followers": 3,
+    "privateContributions": 419,
+    "publicContributions": 1249,
     "createdAt": "2025-02-02T04:13:49Z"
   },
   {
@@ -2226,9 +2226,9 @@
     "location": "Montevideo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 440,
-    "publicContributions": 1,
+    "followers": 4,
+    "privateContributions": 791,
+    "publicContributions": 22,
     "createdAt": "2025-10-03T14:02:43Z"
   },
   {
@@ -2240,20 +2240,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 14,
     "createdAt": "2025-06-14T01:07:54Z"
-  },
-  {
-    "login": "BeBarguil",
-    "name": "Beatriz Barguil",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232072235?s=72&u=e41f4cc211247523167512ac6f2b3f57ade90d07&v=4",
-    "location": "montevideo 🇺🇾",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 13,
-    "publicContributions": 266,
-    "createdAt": "2025-09-13T14:02:16Z"
   },
   {
     "login": "JRRGUILLE-bit",
@@ -2264,7 +2252,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1160,
+    "publicContributions": 1492,
     "createdAt": "2025-10-22T20:51:23Z"
   },
   {
@@ -2274,9 +2262,9 @@
     "location": "Montevideo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 26,
     "createdAt": "2025-03-17T20:10:13Z"
   },
   {
@@ -2316,18 +2304,6 @@
     "createdAt": "2025-07-24T04:57:16Z"
   },
   {
-    "login": "jemm1120",
-    "name": "Jesús",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216201240?s=72&u=b03a54734500c6da35beea5580103b2765b64e5e&v=4",
-    "location": "Montevideo ",
-    "company": "Independiente",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2025-06-13T16:00:11Z"
-  },
-  {
     "login": "facundograu",
     "name": "Facundo Grau",
     "avatarUrl": "https://avatars.githubusercontent.com/u/203580798?s=72&u=32b5ddfd2e293ac64a9f6ae6a18f5205574a2f56&v=4",
@@ -2346,9 +2322,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 105,
+    "followers": 101,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 149,
     "createdAt": "2024-11-14T15:17:46Z"
   },
   {
@@ -2358,7 +2334,7 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 43,
+    "followers": 41,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-09T23:35:19Z"
@@ -2366,25 +2342,25 @@
   {
     "login": "yusnelgg",
     "name": "Yusnel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179177436?s=72&u=18067ed463c4d5cc2853e9596d76c4dee7bfacea&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179177436?s=72&u=ddbac41e4480f048dbae20c1d65e0c7e63a01775&v=4",
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 187,
-    "publicContributions": 123,
+    "privateContributions": 353,
+    "publicContributions": 118,
     "createdAt": "2024-08-22T22:05:25Z"
   },
   {
     "login": "ximimoments",
-    "name": "",
+    "name": "ximimoments",
     "avatarUrl": "https://avatars.githubusercontent.com/u/161499192?s=72&u=f7205b4914ba05ec82321b5f6ae23eef3919bdbf&v=4",
     "location": "Uruguay, San José de mayo",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 38,
     "privateContributions": 0,
-    "publicContributions": 466,
+    "publicContributions": 485,
     "createdAt": "2024-02-27T16:49:19Z"
   },
   {

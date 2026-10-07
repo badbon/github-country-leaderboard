@@ -14338,5 +14338,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2008-01-15T08:12:51Z"
+  },
+  {
+    "login": "arben-fisnik",
+    "name": "Arben Fisnik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290828658?s=72&u=12d2619dc9e7dd79bbd6ced5225258ea3c10fc00&v=4",
+    "location": "Tirana, Albania",
+    "company": "Bizpages",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-04T18:54:26Z"
+  },
+  {
+    "login": "Laert-Android",
+    "name": "Laert-Android",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284737162?s=72&v=4",
+    "location": "Albania ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 405,
+    "createdAt": "2026-05-14T17:41:18Z"
   }
 ]

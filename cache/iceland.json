@@ -1855,7 +1855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 138,
+    "privateContributions": 93,
     "publicContributions": 11,
     "createdAt": "2022-07-29T17:49:35Z"
   },
@@ -1880,7 +1880,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 10,
     "createdAt": "2022-02-11T07:58:29Z"
   },
   {
@@ -1904,7 +1904,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2022-07-29T18:00:42Z"
   },
   {
@@ -1939,8 +1939,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 370,
-    "publicContributions": 3,
+    "privateContributions": 336,
+    "publicContributions": 2,
     "createdAt": "2022-11-16T15:50:52Z"
   },
   {
@@ -1952,20 +1952,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2022-11-07T09:30:38Z"
-  },
-  {
-    "login": "seraphofthewind",
-    "name": "Aria Kristjánsson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108117599?s=72&v=4",
-    "location": "Reykjavik, Iceland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-06-24T06:49:52Z"
   },
   {
     "login": "FizzyyV",
@@ -2048,19 +2036,19 @@
     "twitterUsername": "HalfhillCapital",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 273,
+    "publicContributions": 251,
     "createdAt": "2022-08-09T13:02:16Z"
   },
   {
     "login": "lunikos",
-    "name": "Lucas Joannikios",
+    "name": "Lucas Joannikiosson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/118185268?s=72&u=b452273a651275bf04dd1b0992a66fcef51b0e9f&v=4",
     "location": "Kopavogur, Iceland",
     "company": "Advania",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 8,
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 290,
     "createdAt": "2022-11-14T12:46:45Z"
   },
   {

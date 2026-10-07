@@ -1902,7 +1902,7 @@
     "location": "Port-au-Prince, haiti",
     "company": "",
     "twitterUsername": "thegaetanht",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-12-15T16:26:04Z"
@@ -1976,7 +1976,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2020-01-17T11:59:07Z"
   },
   {
@@ -2046,9 +2046,9 @@
     "location": "Port-au-Prince",
     "company": "",
     "twitterUsername": "antifugazis",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 26,
+    "followers": 6,
+    "privateContributions": 1118,
+    "publicContributions": 198,
     "createdAt": "2020-08-11T22:58:14Z"
   },
   {
@@ -2071,21 +2071,9 @@
     "company": "@AskDevs",
     "twitterUsername": "Schleidens_dev",
     "followers": 29,
-    "privateContributions": 377,
-    "publicContributions": 38,
+    "privateContributions": 439,
+    "publicContributions": 3,
     "createdAt": "2019-08-08T17:52:20Z"
-  },
-  {
-    "login": "elizabeth-dumervil",
-    "name": "Gloria Dumervil ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50581300?s=72&u=e94fb79436d53a7b2fb1a8ef358482f0bcf7a6f9&v=4",
-    "location": "Haiti",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-05-13T11:58:31Z"
   },
   {
     "login": "undisplay",
@@ -2095,7 +2083,7 @@
     "company": "@allyourdate-team ",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 128,
+    "privateContributions": 93,
     "publicContributions": 0,
     "createdAt": "2019-01-19T02:27:28Z"
   },
@@ -2106,9 +2094,9 @@
     "location": "Haiti",
     "company": "Business Owner",
     "twitterUsername": "kesnelsamuel",
-    "followers": 19,
-    "privateContributions": 1,
-    "publicContributions": 0,
+    "followers": 20,
+    "privateContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2019-09-18T20:09:47Z"
   },
   {

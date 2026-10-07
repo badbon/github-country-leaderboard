@@ -2096,7 +2096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 75,
     "createdAt": "2016-03-23T12:51:05Z"
   },
   {
@@ -2107,8 +2107,8 @@
     "company": "",
     "twitterUsername": "xarrijorge",
     "followers": 34,
-    "privateContributions": 646,
-    "publicContributions": 28,
+    "privateContributions": 587,
+    "publicContributions": 30,
     "createdAt": "2015-05-13T10:09:37Z"
   },
   {
@@ -2119,7 +2119,7 @@
     "company": "@Kwagei",
     "twitterUsername": "tangaye_siafa",
     "followers": 25,
-    "privateContributions": 644,
+    "privateContributions": 1132,
     "publicContributions": 0,
     "createdAt": "2015-12-19T13:34:35Z"
   },
@@ -2131,7 +2131,7 @@
     "company": "Orange",
     "twitterUsername": "z_kollie",
     "followers": 11,
-    "privateContributions": 172,
+    "privateContributions": 177,
     "publicContributions": 2,
     "createdAt": "2015-02-25T14:28:54Z"
   },
@@ -2172,18 +2172,6 @@
     "createdAt": "2015-01-19T19:43:46Z"
   },
   {
-    "login": "leomaxwell",
-    "name": "Leo Maxwell",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10176215?s=72&u=e78e4a8d7dc999a2757bf2b329386a7d09e4b0d9&v=4",
-    "location": "Liberia",
-    "company": "Comax ICT Limited",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-12-13T12:41:17Z"
-  },
-  {
     "login": "Abayoh",
     "name": "Alexander Bayoh",
     "avatarUrl": "https://avatars.githubusercontent.com/u/7985268?s=72&u=de5ecdd2170089b4c7ba1d472c2a7ceb539a7bb0&v=4",
@@ -2191,7 +2179,7 @@
     "company": "Cable Consortium of Liberia",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 216,
+    "privateContributions": 2861,
     "publicContributions": 2,
     "createdAt": "2014-06-25T12:02:35Z"
   },
@@ -2238,8 +2226,8 @@
     "location": "Monrovia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 274,
+    "followers": 6,
+    "privateContributions": 1380,
     "publicContributions": 0,
     "createdAt": "2014-08-16T20:08:08Z"
   },
@@ -2276,7 +2264,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 4,
     "createdAt": "2013-02-19T04:44:46Z"
   },
   {
@@ -2311,7 +2299,7 @@
     "company": "Kwagei Group",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 1,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2011-04-18T15:50:10Z"
   },
@@ -2323,8 +2311,8 @@
     "company": "Sabinovates LLC",
     "twitterUsername": "ccemenike",
     "followers": 7,
-    "privateContributions": 1,
-    "publicContributions": 3,
+    "privateContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2011-10-12T12:08:10Z"
   },
   {

@@ -1832,7 +1832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2024-05-27T16:33:11Z"
   },
   {
@@ -1844,7 +1844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 13,
     "createdAt": "2024-10-26T14:36:40Z"
   },
   {
@@ -1868,7 +1868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 96,
     "createdAt": "2024-11-07T19:45:03Z"
   },
   {
@@ -1891,8 +1891,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 0,
+    "privateContributions": 11,
+    "publicContributions": 298,
     "createdAt": "2024-04-05T09:30:57Z"
   },
   {
@@ -1992,18 +1992,6 @@
     "createdAt": "2024-10-26T16:14:38Z"
   },
   {
-    "login": "wdyhme",
-    "name": "wdyh_me",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161525666?s=72&u=fdba8ebdcaf713a034bbb1161235668350d33938&v=4",
-    "location": "Latvia, Liepaja",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2024-02-27T21:23:25Z"
-  },
-  {
     "login": "coderwho100",
     "name": "Coder Who",
     "avatarUrl": "https://avatars.githubusercontent.com/u/165379272?s=72&v=4",
@@ -2034,9 +2022,9 @@
     "location": "Riga, Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 114,
     "createdAt": "2024-09-10T09:51:22Z"
   },
   {

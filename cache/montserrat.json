@@ -2118,9 +2118,9 @@
     "location": "Plymouth, Michigan",
     "company": "Stardock",
     "twitterUsername": "prestophobia",
-    "followers": 20,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2015-11-22T07:15:36Z"
   },
   {
@@ -2144,7 +2144,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 217,
+    "publicContributions": 188,
     "createdAt": "2015-08-15T13:26:58Z"
   },
   {
@@ -2179,7 +2179,7 @@
     "company": "@ClockWork",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1890,
+    "privateContributions": 2030,
     "publicContributions": 0,
     "createdAt": "2015-05-08T15:19:39Z"
   },
@@ -2191,7 +2191,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 180,
+    "privateContributions": 220,
     "publicContributions": 4,
     "createdAt": "2015-10-02T21:55:16Z"
   },
@@ -2228,7 +2228,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 9,
     "createdAt": "2015-02-24T15:12:37Z"
   },
   {
@@ -2251,8 +2251,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 459,
-    "publicContributions": 25,
+    "privateContributions": 527,
+    "publicContributions": 27,
     "createdAt": "2015-07-29T16:09:50Z"
   },
   {
@@ -2290,18 +2290,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-05-18T13:10:46Z"
-  },
-  {
-    "login": "lwest2",
-    "name": "DevLiamW",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/14876480?s=72&u=2273fef9dc904a72594fb5e0650fa0055328d725&v=4",
-    "location": "Plymouth",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2015-09-28T16:52:59Z"
   },
   {
     "login": "GaryWMN",

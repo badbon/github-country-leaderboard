@@ -2094,9 +2094,9 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 52,
     "createdAt": "2024-02-14T18:46:25Z"
   },
   {
@@ -2120,7 +2120,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 4,
-    "publicContributions": 11,
+    "publicContributions": 7,
     "createdAt": "2024-04-12T22:47:12Z"
   },
   {
@@ -2136,27 +2136,15 @@
     "createdAt": "2024-01-11T10:39:01Z"
   },
   {
-    "login": "danilaprib",
-    "name": "Daniil Prybyshchuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166728293?s=72&u=7f341d2a69e7519447d75ecfc3f6c88f90e734f6&v=4",
-    "location": "Lithuania, Vilnius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 80,
-    "createdAt": "2024-04-11T14:13:06Z"
-  },
-  {
     "login": "MJasevicius",
     "name": "Matas Jasevičius",
     "avatarUrl": "https://avatars.githubusercontent.com/u/187755706?s=72&u=a772a0fcafcb45020ade358efdd0a207f366bd9e&v=4",
     "location": "Lithuania",
-    "company": "",
+    "company": "Vinted",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 57,
-    "publicContributions": 0,
+    "privateContributions": 84,
+    "publicContributions": 8,
     "createdAt": "2024-11-08T11:20:45Z"
   },
   {
@@ -2215,8 +2203,8 @@
     "company": "",
     "twitterUsername": "luckyanss",
     "followers": 1,
-    "privateContributions": 5,
-    "publicContributions": 194,
+    "privateContributions": 142,
+    "publicContributions": 379,
     "createdAt": "2024-03-16T01:50:33Z"
   },
   {
@@ -2287,21 +2275,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 182,
+    "privateContributions": 16,
+    "publicContributions": 217,
     "createdAt": "2024-01-13T13:26:35Z"
-  },
-  {
-    "login": "tautvydas7",
-    "name": "Tautvydas Danilevičius",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180765832?s=72&u=006ca40a326a2faf5dd16bdda393b2fa6bced656&v=4",
-    "location": "Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2024-09-07T14:45:08Z"
   },
   {
     "login": "Keshav02-rk",

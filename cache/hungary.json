@@ -1844,7 +1844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2025-07-17T13:48:32Z"
   },
   {
@@ -1866,8 +1866,8 @@
     "location": "Hungary",
     "company": "Control Pass Kft",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 725,
+    "followers": 2,
+    "privateContributions": 1028,
     "publicContributions": 0,
     "createdAt": "2025-05-03T19:36:00Z"
   },
@@ -1880,7 +1880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 97,
     "createdAt": "2025-05-22T12:52:13Z"
   },
   {
@@ -1890,7 +1890,7 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-26T15:03:06Z"
@@ -1904,7 +1904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 15,
     "createdAt": "2025-09-10T18:01:39Z"
   },
   {
@@ -1916,7 +1916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2025-09-08T06:00:23Z"
   },
   {
@@ -1928,7 +1928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-05T14:40:03Z"
   },
   {
@@ -1940,7 +1940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 21,
     "createdAt": "2025-02-26T16:43:15Z"
   },
   {
@@ -1963,7 +1963,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2810,
+    "privateContributions": 3148,
     "publicContributions": 0,
     "createdAt": "2025-07-18T18:39:17Z"
   },
@@ -1976,7 +1976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 25,
     "createdAt": "2025-05-04T17:35:56Z"
   },
   {
@@ -1999,20 +1999,20 @@
     "company": "Frumu LTD",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 3249,
-    "publicContributions": 4788,
+    "privateContributions": 4068,
+    "publicContributions": 5137,
     "createdAt": "2025-02-12T12:39:27Z"
   },
   {
     "login": "stargate91",
     "name": "Levente Gall",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216157974?s=72&u=a48604cc2e304a83d6c3209bcb7ffe7e59e67b52&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216157974?s=72&u=a6e850804cbc74ed1e2daa54a3bbd168635ad2f1&v=4",
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 2053,
+    "followers": 9,
+    "privateContributions": 1838,
+    "publicContributions": 1329,
     "createdAt": "2025-06-13T10:53:07Z"
   },
   {
@@ -2034,9 +2034,9 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 28,
     "createdAt": "2025-04-03T17:13:32Z"
   },
   {
@@ -2048,7 +2048,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 651,
+    "publicContributions": 959,
     "createdAt": "2025-03-12T21:39:28Z"
   },
   {
@@ -2058,7 +2058,7 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 78,
     "createdAt": "2025-11-11T10:53:52Z"
@@ -2070,8 +2070,8 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 35,
+    "followers": 7,
+    "privateContributions": 29,
     "publicContributions": 0,
     "createdAt": "2025-01-21T10:28:46Z"
   },

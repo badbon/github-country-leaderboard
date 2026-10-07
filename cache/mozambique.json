@@ -2120,7 +2120,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 30,
     "createdAt": "2024-09-06T16:24:18Z"
   },
   {
@@ -2130,7 +2130,7 @@
     "location": "Cidade de maputo, Moçambique",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 180,
     "createdAt": "2024-01-10T00:27:39Z"
@@ -2152,11 +2152,11 @@
     "name": "Zeid Mahmoud",
     "avatarUrl": "https://avatars.githubusercontent.com/u/170201149?s=72&u=afa7e7a8ffa3e4ffdbfc9738fabc722d47c21ff3&v=4",
     "location": "Cidade de Maputo",
-    "company": "",
+    "company": "VS Value Service",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-05-18T18:34:30Z"
   },
   {
@@ -2178,9 +2178,9 @@
     "location": "Mozambique, Maputo",
     "company": "",
     "twitterUsername": "",
-    "followers": 47,
+    "followers": 44,
     "privateContributions": 0,
-    "publicContributions": 430,
+    "publicContributions": 375,
     "createdAt": "2023-06-14T03:45:05Z"
   },
   {
@@ -2190,7 +2190,7 @@
     "location": "Mozambique, Maputo",
     "company": " Instituto Superior de Comunicação e Imagem de Moçambique",
     "twitterUsername": "",
-    "followers": 45,
+    "followers": 41,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2023-05-23T18:17:02Z"
@@ -2202,7 +2202,7 @@
     "location": "Maputo, Mozambique",
     "company": "",
     "twitterUsername": "",
-    "followers": 37,
+    "followers": 36,
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2023-02-10T10:45:48Z"
@@ -2210,13 +2210,13 @@
   {
     "login": "itsgaspr",
     "name": "Gaspar Mario Chichava",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145218296?s=72&u=36c0ec1cc19a54adab0e8134ef8be618e5d4e05e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145218296?s=72&u=1c04a07785fd00d39b630fc9ee9748c8df740060&v=4",
     "location": "Maputo, Mozambique",
     "company": "@Plyrius",
     "twitterUsername": "itsgaspr",
-    "followers": 24,
-    "privateContributions": 95,
-    "publicContributions": 418,
+    "followers": 29,
+    "privateContributions": 143,
+    "publicContributions": 473,
     "createdAt": "2023-09-16T16:22:04Z"
   },
   {
@@ -2226,9 +2226,9 @@
     "location": "Maputo, Mozambique",
     "company": "MKTECH",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 407,
-    "publicContributions": 115,
+    "followers": 23,
+    "privateContributions": 419,
+    "publicContributions": 120,
     "createdAt": "2023-09-14T14:57:40Z"
   },
   {
@@ -2239,8 +2239,8 @@
     "company": "",
     "twitterUsername": "bkp_da",
     "followers": 17,
-    "privateContributions": 515,
-    "publicContributions": 291,
+    "privateContributions": 611,
+    "publicContributions": 293,
     "createdAt": "2023-03-20T18:26:53Z"
   },
   {
@@ -2251,8 +2251,8 @@
     "company": "CEO @Kernup",
     "twitterUsername": "JoaquimMagode",
     "followers": 13,
-    "privateContributions": 1232,
-    "publicContributions": 414,
+    "privateContributions": 1427,
+    "publicContributions": 408,
     "createdAt": "2023-05-30T22:53:20Z"
   },
   {
@@ -2262,7 +2262,7 @@
     "location": "Maputo - Mozambique",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 23,
     "publicContributions": 60,
     "createdAt": "2023-10-09T19:35:14Z"
@@ -2270,13 +2270,13 @@
   {
     "login": "luissitoe",
     "name": "Luís Sitoe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/141431123?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141431123?s=72&u=2abf626cc0e6fa00ac00547b3c3593cd88fc23bd&v=4",
     "location": "Mozambique",
     "company": "Medihealth - Planos de Saúde",
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2023-08-04T14:31:39Z"
   },
   {
@@ -2287,8 +2287,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 420,
-    "publicContributions": 180,
+    "privateContributions": 415,
+    "publicContributions": 110,
     "createdAt": "2023-01-20T16:57:07Z"
   },
   {
@@ -2299,8 +2299,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1528,
-    "publicContributions": 67,
+    "privateContributions": 2080,
+    "publicContributions": 53,
     "createdAt": "2023-09-11T13:12:04Z"
   },
   {
@@ -2310,9 +2310,9 @@
     "location": "Maputo, Mozambique",
     "company": "Explicador Inc",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 284,
     "createdAt": "2023-06-21T06:17:40Z"
   },
   {
@@ -2322,9 +2322,9 @@
     "location": "Maputo, Mozambique",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 148,
+    "publicContributions": 138,
     "createdAt": "2023-03-20T17:51:24Z"
   },
   {
@@ -2334,9 +2334,9 @@
     "location": "Mozambique",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 678,
-    "publicContributions": 176,
+    "followers": 10,
+    "privateContributions": 1058,
+    "publicContributions": 14,
     "createdAt": "2023-10-02T18:57:20Z"
   },
   {

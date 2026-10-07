@@ -2168,7 +2168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 33,
     "createdAt": "2022-05-25T13:08:50Z"
   },
   {
@@ -2179,7 +2179,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-14T03:35:04Z"
   },
@@ -2192,7 +2192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2022-10-19T01:50:25Z"
   },
   {
@@ -2215,7 +2215,7 @@
     "company": "Mobicom Corporation LLC",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 64,
     "publicContributions": 1,
     "createdAt": "2022-07-22T10:04:40Z"
   },
@@ -2274,7 +2274,7 @@
     "location": "Mongolia",
     "company": "Faro Unlimited Group",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-04-06T01:11:32Z"
@@ -2287,8 +2287,8 @@
     "company": "GTN Mongolia",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 231,
-    "publicContributions": 3,
+    "privateContributions": 236,
+    "publicContributions": 4,
     "createdAt": "2022-06-29T06:48:13Z"
   },
   {
@@ -2312,7 +2312,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 43,
     "createdAt": "2022-03-29T03:26:16Z"
   },
   {
@@ -2324,7 +2324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 29,
     "createdAt": "2022-03-11T06:27:38Z"
   },
   {
@@ -2336,7 +2336,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 20,
     "createdAt": "2022-01-05T07:19:05Z"
   },
   {
@@ -2346,9 +2346,9 @@
     "location": "Mongolia",
     "company": "B&Bpython",
     "twitterUsername": "",
-    "followers": 57,
+    "followers": 65,
     "privateContributions": 33,
-    "publicContributions": 356,
+    "publicContributions": 342,
     "createdAt": "2021-09-22T09:24:03Z"
   },
   {

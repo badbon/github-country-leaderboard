@@ -2096,7 +2096,7 @@
     "twitterUsername": "vega_holdings",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 137,
     "createdAt": "2014-06-02T20:42:53Z"
   },
   {
@@ -2118,7 +2118,7 @@
     "location": "Pyongyang, North Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-11-16T17:07:22Z"
@@ -2130,7 +2130,7 @@
     "location": "North Korea",
     "company": "None.",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-14T02:43:51Z"
@@ -2168,7 +2168,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 3,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2012-09-16T08:52:40Z"
   },
   {
@@ -2184,18 +2184,6 @@
     "createdAt": "2012-12-26T10:48:21Z"
   },
   {
-    "login": "hihiduk119",
-    "name": "ChangKyun Ma",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1531423?s=72&v=4",
-    "location": "north korea",
-    "company": "woosan-studio",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2012-03-13T03:41:35Z"
-  },
-  {
     "login": "chihongze",
     "name": "chihongze",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1227874?s=72&u=99a1d9324cb3ba041405ce45dd60fabaca27b3c8&v=4",
@@ -2203,7 +2191,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 483,
+    "privateContributions": 530,
     "publicContributions": 1,
     "createdAt": "2011-11-29T11:33:40Z"
   },

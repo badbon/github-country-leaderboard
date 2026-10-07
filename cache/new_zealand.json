@@ -2078,12 +2078,12 @@
   {
     "login": "SNi-CodeBase",
     "name": "Sustainable Nutrition Initiative",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/245987365?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245987365?s=72&u=ec06e06c1d7629de206e4a943b82473256f29fc0&v=4",
     "location": "Palmerston North, New Zealand",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 144,
     "publicContributions": 1,
     "createdAt": "2025-11-25T02:02:28Z"
   },
@@ -2120,18 +2120,18 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 12,
     "createdAt": "2025-04-22T08:21:21Z"
   },
   {
     "login": "natezealand",
     "name": "Nate",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/222343329?s=72&u=94dc49a51a0f23cc08774ce4b2d5111e660bfdef&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/222343329?s=72&u=efa6cae55b69ff0fc2bbe6dc614676d1c73d6a4a&v=4",
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 54,
+    "privateContributions": 16,
     "publicContributions": 36,
     "createdAt": "2025-07-23T02:38:39Z"
   },
@@ -2143,8 +2143,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 66,
+    "privateContributions": 20,
+    "publicContributions": 142,
     "createdAt": "2025-06-04T20:15:27Z"
   },
   {
@@ -2161,27 +2161,27 @@
   },
   {
     "login": "AbyssRain75",
-    "name": "",
+    "name": "AbyssRain",
     "avatarUrl": "https://avatars.githubusercontent.com/u/237389454?s=72&u=1dd2b6d00845a9c817a6b31c43bd68194b8ff5d8&v=4",
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 47,
+    "privateContributions": 89,
     "publicContributions": 14,
     "createdAt": "2025-10-11T07:16:10Z"
   },
   {
     "login": "0xiviel",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/243847027?s=72&u=db7e9bd5c0447aefc1ea426ee52574c834a6016b&v=4",
+    "name": "Eva Crystal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/249636887?s=72&u=7d882f498623bc989a1605fa63d4af4a3a2a6bf7&v=4",
     "location": "New Zealand",
-    "company": "XSource Security",
+    "company": "@XSource-Sec",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2025-11-13T18:32:09Z"
+    "followers": 2,
+    "privateContributions": 3,
+    "publicContributions": 35,
+    "createdAt": "2025-12-14T21:15:00Z"
   },
   {
     "login": "DarrenSkyline",
@@ -2192,7 +2192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 45,
     "createdAt": "2025-01-13T22:11:11Z"
   },
   {
@@ -2206,18 +2206,6 @@
     "privateContributions": 114,
     "publicContributions": 25,
     "createdAt": "2025-10-12T23:02:27Z"
-  },
-  {
-    "login": "ominatsune",
-    "name": "オミナツネ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/241246555?s=72&u=0b32b336c7df8ea816c5db0ba405cda4978723cb&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "ominatsune",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 23,
-    "createdAt": "2025-10-31T05:19:34Z"
   },
   {
     "login": "Wisonytq",
@@ -2250,7 +2238,7 @@
     "location": "Wellington, New Zealand",
     "company": "ANZ Aoateroa NZ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-04T00:07:11Z"
@@ -2268,18 +2256,6 @@
     "createdAt": "2025-01-28T21:00:14Z"
   },
   {
-    "login": "iiviel",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/249636887?s=72&u=abca01509f7f17694a068fb9550ae89604a80be4&v=4",
-    "location": "New Zealand",
-    "company": "XSource Security",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2025-12-14T21:15:00Z"
-  },
-  {
     "login": "Lorena885",
     "name": "Lorena Carvajal Cardona",
     "avatarUrl": "https://avatars.githubusercontent.com/u/221445888?s=72&u=74687cce1ddc3732c7626734c539d8482c162e81&v=4",
@@ -2292,25 +2268,13 @@
     "createdAt": "2025-07-18T01:30:13Z"
   },
   {
-    "login": "swisscheese-stuff",
-    "name": "Swiss Cheese",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209861738?s=72&u=aec1b75b4da3c21a693e4078fab188464fb44ec6&v=4",
-    "location": "New Zealand",
-    "company": "Milorad Company",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 166,
-    "createdAt": "2025-05-01T02:04:50Z"
-  },
-  {
     "login": "cfrednz79",
     "name": "Chris Frederick",
     "avatarUrl": "https://avatars.githubusercontent.com/u/220667682?s=72&v=4",
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-07-14T04:59:36Z"

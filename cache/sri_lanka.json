@@ -2120,7 +2120,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 39,
     "createdAt": "2026-03-18T15:25:42Z"
   },
   {
@@ -2132,7 +2132,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 229,
+    "publicContributions": 240,
     "createdAt": "2025-12-29T11:19:16Z"
   },
   {
@@ -2156,7 +2156,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 76,
     "createdAt": "2026-01-10T12:51:02Z"
   },
   {
@@ -2178,9 +2178,9 @@
     "location": "Matara, Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 29,
-    "publicContributions": 4,
+    "followers": 9,
+    "privateContributions": 28,
+    "publicContributions": 32,
     "createdAt": "2026-02-22T08:43:20Z"
   },
   {
@@ -2204,7 +2204,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2026-04-02T14:41:25Z"
   },
   {
@@ -2250,7 +2250,7 @@
     "location": "Kandy,Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 48,
     "createdAt": "2026-03-18T04:38:53Z"
@@ -2310,22 +2310,10 @@
     "location": "Galle, Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 122,
     "createdAt": "2026-01-12T09:22:41Z"
-  },
-  {
-    "login": "thiwanka-mpj",
-    "name": "Janith Thiwanka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282212285?s=72&u=dd5076507a0e23e015eb4037e311fd163264a9ae&v=4",
-    "location": "Sri Lanka",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 39,
-    "createdAt": "2026-05-06T10:08:53Z"
   },
   {
     "login": "Menuka-Irindu",

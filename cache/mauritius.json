@@ -2120,7 +2120,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 24,
     "createdAt": "2021-11-26T16:35:41Z"
   },
   {
@@ -2132,7 +2132,7 @@
     "twitterUsername": "TejprakashVeer",
     "followers": 2,
     "privateContributions": 43,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-10-28T19:03:43Z"
   },
   {
@@ -2156,7 +2156,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 40,
     "createdAt": "2021-08-02T06:09:04Z"
   },
   {
@@ -2204,7 +2204,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 12,
     "createdAt": "2021-10-21T05:11:25Z"
   },
   {
@@ -2238,22 +2238,10 @@
     "location": "Mauritius",
     "company": "Parallels",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-04T18:54:46Z"
-  },
-  {
-    "login": "HenriMichael",
-    "name": "Henri Michael ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80882739?s=72&u=04fedf0cc0619d019459f974047f75f1b343930d&v=4",
-    "location": "Mauritius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-03-18T08:01:02Z"
   },
   {
     "login": "Miguel07004",
@@ -2264,7 +2252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 36,
     "createdAt": "2021-11-10T10:38:12Z"
   },
   {
@@ -2276,7 +2264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 69,
     "createdAt": "2021-10-15T17:49:39Z"
   },
   {
@@ -2323,8 +2311,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 186,
-    "publicContributions": 34,
+    "privateContributions": 191,
+    "publicContributions": 31,
     "createdAt": "2021-10-01T15:04:42Z"
   },
   {
@@ -2347,7 +2335,7 @@
     "company": "Micro AI Labs",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 255,
+    "privateContributions": 193,
     "publicContributions": 11,
     "createdAt": "2021-11-28T08:12:11Z"
   },

@@ -2010,22 +2010,10 @@
     "location": "Singapore",
     "company": "Agnes AI",
     "twitterUsername": "agnesai_sapiens",
-    "followers": 85,
+    "followers": 112,
     "privateContributions": 0,
-    "publicContributions": 166,
+    "publicContributions": 196,
     "createdAt": "2025-04-17T09:37:56Z"
-  },
-  {
-    "login": "lamjunkai",
-    "name": "LamJunKai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194735158?s=72&v=4",
-    "location": "Singapore",
-    "company": "Individual",
-    "twitterUsername": "",
-    "followers": 81,
-    "privateContributions": 130,
-    "publicContributions": 59,
-    "createdAt": "2025-01-13T00:45:06Z"
   },
   {
     "login": "qudeai",
@@ -2047,8 +2035,8 @@
     "company": "@google @nike",
     "twitterUsername": "",
     "followers": 56,
-    "privateContributions": 75,
-    "publicContributions": 54,
+    "privateContributions": 6,
+    "publicContributions": 20,
     "createdAt": "2025-07-12T20:19:26Z"
   },
   {
@@ -2058,7 +2046,7 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 53,
+    "followers": 54,
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2025-02-27T13:25:09Z"
@@ -2070,9 +2058,9 @@
     "location": "Singapore",
     "company": "Chu-zhu",
     "twitterUsername": "",
-    "followers": 41,
+    "followers": 39,
     "privateContributions": 0,
-    "publicContributions": 150,
+    "publicContributions": 112,
     "createdAt": "2025-04-03T14:54:32Z"
   },
   {
@@ -2082,9 +2070,9 @@
     "location": "Singapore",
     "company": "Coinbase",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 526,
-    "publicContributions": 1397,
+    "followers": 41,
+    "privateContributions": 459,
+    "publicContributions": 1173,
     "createdAt": "2025-11-01T05:50:26Z"
   },
   {
@@ -2094,9 +2082,9 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 698,
-    "publicContributions": 102,
+    "followers": 38,
+    "privateContributions": 1422,
+    "publicContributions": 101,
     "createdAt": "2025-09-28T11:53:15Z"
   },
   {
@@ -2106,22 +2094,10 @@
     "location": "Singapore & China",
     "company": "Qustar Technology PTE. LTD.",
     "twitterUsername": "tunee_ai",
-    "followers": 35,
+    "followers": 36,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2025-09-17T05:54:44Z"
-  },
-  {
-    "login": "code-orange-dev",
-    "name": "Code Orange Dev School",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196791904?s=72&u=9b943dc4e8921f470e07a4f89c0477b2c61cda87&v=4",
-    "location": "Singapore",
-    "company": "",
-    "twitterUsername": "codeorangedevs",
-    "followers": 29,
-    "privateContributions": 0,
-    "publicContributions": 231,
-    "createdAt": "2025-01-28T12:40:23Z"
   },
   {
     "login": "NeaByteLab",
@@ -2130,9 +2106,9 @@
     "location": "🇮🇩 Jakarta | 🇸🇬 Singapore",
     "company": "@NeaDigitra",
     "twitterUsername": "NeaByteLab",
-    "followers": 28,
-    "privateContributions": 6996,
-    "publicContributions": 1983,
+    "followers": 32,
+    "privateContributions": 7373,
+    "publicContributions": 1864,
     "createdAt": "2025-04-30T05:16:37Z"
   },
   {
@@ -2142,21 +2118,21 @@
     "location": "Singapore",
     "company": "Victor Enterprises Pte Ltd",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 22,
     "createdAt": "2025-10-28T05:24:35Z"
   },
   {
     "login": "wang-yuancheng",
     "name": "Shibe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193306718?s=72&u=f64d6a6178726877ca7284ac9a18c072f1d83df5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193306718?s=72&u=a3b934631173fedebfd3ef1f6e4e57132b16800a&v=4",
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 96,
-    "publicContributions": 459,
+    "followers": 22,
+    "privateContributions": 116,
+    "publicContributions": 443,
     "createdAt": "2024-12-31T06:35:46Z"
   },
   {
@@ -2166,9 +2142,9 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 30,
     "privateContributions": 2,
-    "publicContributions": 129,
+    "publicContributions": 183,
     "createdAt": "2025-04-19T14:05:36Z"
   },
   {
@@ -2180,7 +2156,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 15,
     "createdAt": "2025-08-17T13:54:48Z"
   },
   {
@@ -2190,7 +2166,7 @@
     "location": "Singapore (SG)",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 87,
     "publicContributions": 60,
     "createdAt": "2025-06-03T08:28:53Z"
@@ -2202,9 +2178,9 @@
     "location": "Singapore / Remote",
     "company": "ZenithFX Trading",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 2069,
-    "publicContributions": 3077,
+    "followers": 18,
+    "privateContributions": 4287,
+    "publicContributions": 2478,
     "createdAt": "2025-12-18T19:15:54Z"
   },
   {
@@ -2214,9 +2190,9 @@
     "location": "Singapore",
     "company": "@Tencent | NUS | vllm-omni｜unirl",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 144,
     "createdAt": "2025-08-17T13:52:49Z"
   },
   {
@@ -2226,9 +2202,9 @@
     "location": "Singapore",
     "company": "@circlefin ",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 278,
-    "publicContributions": 136,
+    "followers": 17,
+    "privateContributions": 229,
+    "publicContributions": 132,
     "createdAt": "2025-07-21T05:33:34Z"
   },
   {
@@ -2238,7 +2214,7 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 187,
     "createdAt": "2025-04-15T09:23:50Z"

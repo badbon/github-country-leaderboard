@@ -2034,9 +2034,9 @@
     "location": "Mexico",
     "company": "innovacapital@inversionand.com",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 2,
-    "publicContributions": 189,
+    "followers": 28,
+    "privateContributions": 4,
+    "publicContributions": 80,
     "createdAt": "2025-01-06T21:19:37Z"
   },
   {
@@ -2046,7 +2046,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 125,
     "createdAt": "2025-08-03T05:32:25Z"
@@ -2058,9 +2058,9 @@
     "location": "Mexico City",
     "company": "UNAM-MX",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 168,
     "createdAt": "2025-08-23T15:49:01Z"
   },
   {
@@ -2070,9 +2070,9 @@
     "location": "Mexico City, Mexico",
     "company": "Nike",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 332,
+    "publicContributions": 373,
     "createdAt": "2025-10-27T12:52:06Z"
   },
   {
@@ -2082,9 +2082,9 @@
     "location": "Mexico City",
     "company": "Stripe",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 110,
-    "publicContributions": 272,
+    "followers": 18,
+    "privateContributions": 67,
+    "publicContributions": 286,
     "createdAt": "2024-12-30T22:44:40Z"
   },
   {
@@ -2094,9 +2094,9 @@
     "location": "Cuernavaca, Mexico",
     "company": "Center for Genomic Sciences, UNAM",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 101,
     "createdAt": "2025-01-31T16:47:59Z"
   },
   {
@@ -2108,7 +2108,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 186,
+    "publicContributions": 169,
     "createdAt": "2025-01-31T16:26:11Z"
   },
   {
@@ -2118,7 +2118,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-11-16T18:08:48Z"
@@ -2142,9 +2142,9 @@
     "location": "Mexico City",
     "company": "Amazon",
     "twitterUsername": "chavezsutton",
-    "followers": 13,
-    "privateContributions": 0,
-    "publicContributions": 2202,
+    "followers": 14,
+    "privateContributions": 1778,
+    "publicContributions": 2078,
     "createdAt": "2025-09-26T16:14:34Z"
   },
   {
@@ -2154,7 +2154,7 @@
     "location": "Jalisco, Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-05-16T13:52:04Z"
@@ -2168,19 +2168,19 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 99,
     "createdAt": "2025-04-02T01:42:54Z"
   },
   {
     "login": "don-linux",
     "name": "Fernando Diaz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194445529?s=72&u=fde4a1bce299795c9b55d03c424d1156bef3e8b8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194445529?s=72&u=cdde0940060619267afd5a978dcc5f015c3169d4&v=4",
     "location": "Mexico",
     "company": "",
     "twitterUsername": "donlinuxdev",
     "followers": 12,
-    "privateContributions": 837,
-    "publicContributions": 784,
+    "privateContributions": 805,
+    "publicContributions": 1009,
     "createdAt": "2025-01-10T01:35:08Z"
   },
   {
@@ -2190,7 +2190,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 163,
     "createdAt": "2025-05-21T19:44:57Z"
@@ -2203,8 +2203,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 44,
-    "publicContributions": 85,
+    "privateContributions": 215,
+    "publicContributions": 88,
     "createdAt": "2025-03-25T03:18:36Z"
   },
   {
@@ -2214,9 +2214,9 @@
     "location": "Chihuahua, Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 612,
+    "publicContributions": 762,
     "createdAt": "2025-09-28T20:53:06Z"
   },
   {
@@ -2226,9 +2226,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1213,
+    "publicContributions": 1099,
     "createdAt": "2025-06-27T09:25:27Z"
   },
   {
@@ -2239,20 +2239,20 @@
     "company": "UNAM",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 220,
-    "publicContributions": 243,
+    "privateContributions": 218,
+    "publicContributions": 204,
     "createdAt": "2025-01-31T18:21:43Z"
   },
   {
     "login": "dr-schlange",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205105939?s=72&u=fe6c4e5d9d9455e94315ceacf70eaada8e0ae25b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205105939?s=72&u=70768679ee9c15e73d7f113956ad6106e12b7aed&v=4",
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 6683,
+    "publicContributions": 5445,
     "createdAt": "2025-03-27T01:11:35Z"
   },
   {
@@ -2264,7 +2264,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 15,
     "createdAt": "2025-08-18T02:30:18Z"
   },
   {

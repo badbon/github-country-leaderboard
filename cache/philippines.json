@@ -2132,7 +2132,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 56,
     "createdAt": "2026-04-27T14:11:28Z"
   },
   {
@@ -2144,7 +2144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 201,
     "createdAt": "2026-01-29T17:01:52Z"
   },
   {
@@ -2186,13 +2186,13 @@
   {
     "login": "harrylibrando06-byte",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279180646?s=72&u=f2a4b71196fafca8b0689ad549c149e6947e3e2e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279180646?s=72&u=3563d2d8b2e5155f0c9d2a6d452569aac33130d3&v=4",
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 114,
     "createdAt": "2026-04-25T04:24:18Z"
   },
   {
@@ -2215,21 +2215,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 113,
+    "privateContributions": 47,
+    "publicContributions": 131,
     "createdAt": "2026-03-23T17:00:44Z"
-  },
-  {
-    "login": "jujugamez",
-    "name": "Juju Gamez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259751113?s=72&u=78646dd6f1e1529b1f467cef1ef368aa83706d16&v=4",
-    "location": "Philippines",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 223,
-    "createdAt": "2026-02-06T01:21:47Z"
   },
   {
     "login": "inventivemediaph",
@@ -2254,18 +2242,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-02T06:56:19Z"
-  },
-  {
-    "login": "BBlastapk",
-    "name": "Block Blast Download",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283901956?s=72&u=efd9ec11cb176affb4d25e524fc45a0e832743af&v=4",
-    "location": "Philippines",
-    "company": "Independent Gaming Resource",
-    "twitterUsername": "blockblastmods",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 84,
-    "createdAt": "2026-05-12T06:57:26Z"
   },
   {
     "login": "kcodg",
@@ -2298,9 +2274,9 @@
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 178,
+    "publicContributions": 292,
     "createdAt": "2026-03-29T11:46:44Z"
   },
   {
@@ -2310,9 +2286,9 @@
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 202,
+    "publicContributions": 491,
     "createdAt": "2026-05-03T05:06:37Z"
   },
   {

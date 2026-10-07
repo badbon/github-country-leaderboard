@@ -2178,9 +2178,9 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2022-10-06T14:10:41Z"
   },
   {
@@ -2192,7 +2192,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 19,
     "createdAt": "2022-06-16T20:46:01Z"
   },
   {
@@ -2228,7 +2228,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 11,
     "createdAt": "2022-07-14T04:08:54Z"
   },
   {
@@ -2251,7 +2251,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 822,
+    "privateContributions": 1175,
     "publicContributions": 0,
     "createdAt": "2022-06-16T18:48:03Z"
   },
@@ -2270,13 +2270,13 @@
   {
     "login": "renzomartinezr",
     "name": "Renzo Martínez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106455112?s=72&u=b401163bae6a6a6be54f7c88b83bb707ee9fd15c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106455112?s=72&u=42575265ab49afdf0dca0995914d6f5d50b46c8d&v=4",
     "location": "Malta",
-    "company": "",
+    "company": "Bank of Valletta",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2022-05-28T23:51:50Z"
   },
   {
@@ -2300,7 +2300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 76,
     "createdAt": "2022-11-29T02:32:35Z"
   },
   {

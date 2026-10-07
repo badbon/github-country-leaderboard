@@ -1412,7 +1412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2026-01-22T13:11:02Z"
   },
   {
@@ -1424,20 +1424,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 53,
     "createdAt": "2026-02-23T12:16:54Z"
-  },
-  {
-    "login": "safenestdev",
-    "name": "Tuteliq",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259831648?s=72&u=8d9aa6317d975487a45c29063b157c69bf691b93&v=4",
-    "location": "Sweden",
-    "company": "Tuteliq",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 406,
-    "createdAt": "2026-02-06T09:44:03Z"
   },
   {
     "login": "IvanKropotkin",
@@ -1446,9 +1434,9 @@
     "location": "Stockholm, Sweden",
     "company": "Celestial Teapot",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 525,
+    "publicContributions": 405,
     "createdAt": "2026-01-30T12:46:51Z"
   },
   {
@@ -1458,7 +1446,7 @@
     "location": "Stockholm",
     "company": "Riverty",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 45,
     "createdAt": "2025-12-30T12:44:04Z"
@@ -1482,9 +1470,9 @@
     "location": "Stockholm",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 179,
+    "publicContributions": 230,
     "createdAt": "2026-01-25T14:34:15Z"
   },
   {
@@ -1514,13 +1502,13 @@
   {
     "login": "nolan-chapter-two",
     "name": "Nolan Gray",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/280326547?s=72&u=918a41527eb07d78965aa4af41af75c4888389f7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/280326547?s=72&u=08fdfeb9dc486d23aafb992ed979d8f02cdc248e&v=4",
     "location": "Stockholm",
     "company": "Florent Venture Partners",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 66,
     "createdAt": "2026-04-29T09:42:25Z"
   },
   {
@@ -1556,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 121,
     "createdAt": "2026-01-21T12:15:11Z"
   },
   {
@@ -1568,7 +1556,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 177,
     "createdAt": "2026-03-13T15:00:11Z"
   },
   {
@@ -1592,7 +1580,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 17,
     "createdAt": "2026-02-18T09:31:05Z"
   },
   {
@@ -1603,7 +1591,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 82,
+    "privateContributions": 106,
     "publicContributions": 1,
     "createdAt": "2026-03-25T13:51:47Z"
   },
@@ -1616,7 +1604,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 77,
     "createdAt": "2026-02-02T23:20:21Z"
   },
   {
@@ -1628,7 +1616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 60,
     "createdAt": "2026-01-15T10:04:25Z"
   },
   {
@@ -1638,7 +1626,7 @@
     "location": "Stockholm",
     "company": "Hermitage Recording",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-26T17:23:26Z"
@@ -468238,5 +468226,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-11-10T20:57:37Z"
+  },
+  {
+    "login": "leomaxwell",
+    "name": "Leo Maxwell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10176215?s=72&u=e78e4a8d7dc999a2757bf2b329386a7d09e4b0d9&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-12-13T12:41:17Z"
   }
 ]
