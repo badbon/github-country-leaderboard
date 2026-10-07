@@ -15,11 +15,11 @@ Indexed users: 5,405
 | 1 | [kiznis](https://github.com/kiznis) | Mindaugas Kiznis | Lithuania | 99,902 |
 | 2 | [vytautas-bunevicius](https://github.com/vytautas-bunevicius) | Vytautas | Vilnius | 19,608 |
 | 3 | [Dambre](https://github.com/Dambre) | Lukas | Lithuania | 14,784 |
-| 4 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau | Vilnius, Lithuania | 13,412 |
-| 5 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 13,010 |
-| 6 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | Vilnius, Lithuania | 12,403 |
-| 7 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 12,318 |
-| 8 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas | Lithuania | 11,791 |
+| 4 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas | Lithuania | 14,763 |
+| 5 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau | Vilnius, Lithuania | 13,412 |
+| 6 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 13,010 |
+| 7 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | Vilnius, Lithuania | 12,403 |
+| 8 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 12,318 |
 | 9 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas | Lithuania | 11,042 |
 | 10 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus | Vilnius, Lithuania | 10,402 |
 | 11 | [Algiras](https://github.com/Algiras) | Algimantas K. | Vilnius, Lithuania | 10,351 |
@@ -83,4 +83,4 @@ Indexed users: 5,405
 | 19 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-07T11:10:59.480Z
+Generated: 2026-10-07T12:24:29.140Z

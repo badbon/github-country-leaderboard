@@ -12,8 +12,8 @@ Indexed users: 710
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 7,140 |
-| 2 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 6,115 |
+| 1 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 7,256 |
+| 2 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 7,140 |
 | 3 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov | Dushanbe, Tajikistan | 5,230 |
 | 4 | [ifteakhor](https://github.com/ifteakhor) |  | Tajikistan | 4,988 |
 | 5 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 4,656 |
@@ -62,8 +62,8 @@ Indexed users: 710
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | Khujand, Tajikistan | 421 |
-| 2 | [RahimovAbdurahmon](https://github.com/RahimovAbdurahmon) |  | Tajikistan, Dushanbe | 225 |
+| 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | Khujand, Tajikistan | 428 |
+| 2 | [RahimovAbdurahmon](https://github.com/RahimovAbdurahmon) |  | Tajikistan, Dushanbe | 226 |
 | 3 | [AzamBayzaev](https://github.com/AzamBayzaev) | Azam | Khujand, Tajikistan | 174 |
 | 4 | [Thexasan](https://github.com/Thexasan) | Husenov Hasan  | Tajikistan, Dushanbe | 138 |
 | 5 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 127 |
@@ -83,4 +83,4 @@ Indexed users: 710
 | 19 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 46 |
 
-Generated: 2026-10-07T11:53:13.007Z
+Generated: 2026-10-07T12:39:37.593Z

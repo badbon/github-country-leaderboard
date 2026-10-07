@@ -1,6 +1,6 @@
 # Total Contributions - Lithuania
 
-Generated: 2026-10-07T11:10:59.480Z
+Generated: 2026-10-07T12:24:29.140Z
 
 Users: 5405
 
@@ -9,11 +9,11 @@ Users: 5405
 | 1 | [kiznis](https://github.com/kiznis) | Mindaugas Kiznis | Kiznis.com |  | Lithuania | 99902 |
 | 2 | [vytautas-bunevicius](https://github.com/vytautas-bunevicius) | Vytautas | Nord Security |  | Vilnius | 19608 |
 | 3 | [Dambre](https://github.com/Dambre) | Lukas |  |  | Lithuania | 14784 |
-| 4 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau |  |  | Vilnius, Lithuania | 13412 |
-| 5 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Paysera | YOzaz | Vilnius, Lithuania | 13010 |
-| 6 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | @quassum  | bringshrubberyy | Vilnius, Lithuania | 12403 |
-| 7 | [justrau](https://github.com/justrau) | Justas Raudonius |  |  | Lithuania | 12318 |
-| 8 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas |  |  | Lithuania | 11791 |
+| 4 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas |  |  | Lithuania | 14763 |
+| 5 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau |  |  | Vilnius, Lithuania | 13412 |
+| 6 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Paysera | YOzaz | Vilnius, Lithuania | 13010 |
+| 7 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | @quassum  | bringshrubberyy | Vilnius, Lithuania | 12403 |
+| 8 | [justrau](https://github.com/justrau) | Justas Raudonius |  |  | Lithuania | 12318 |
 | 9 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas |  |  | Lithuania | 11042 |
 | 10 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus |  | ZilvinasBartkus | Vilnius, Lithuania | 10402 |
 | 11 | [Algiras](https://github.com/Algiras) | Algimantas K. | @wix  |  | Vilnius, Lithuania | 10351 |

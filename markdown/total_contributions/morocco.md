@@ -1,6 +1,6 @@
 # Total Contributions - Morocco
 
-Generated: 2026-10-07T11:14:22.263Z
+Generated: 2026-10-07T12:27:36.096Z
 
 Users: 9668
 
@@ -17,8 +17,8 @@ Users: 9668
 | 9 | [moa-digitalagency](https://github.com/moa-digitalagency) | My One Art - Digital Agency |  |  | Marrakesh, Morocco | 7926 |
 | 10 | [AyourElwazani97](https://github.com/AyourElwazani97) | Ayoub Wazane | Global Tech Security |  | Morocco | 7883 |
 | 11 | [Oussail](https://github.com/Oussail) | Oussail |  |  | Morocco | 7473 |
-| 12 | [ANOUAR00-1](https://github.com/ANOUAR00-1) | ANOUAR BENTAHAR |  |  | Morocco | 7442 |
-| 13 | [yoeunes](https://github.com/yoeunes) | Younes ENNAJI | Tousfacteurs | yoeunes | Marrakech, Morocco | 7304 |
+| 12 | [yoeunes](https://github.com/yoeunes) | Younes ENNAJI | Tousfacteurs | yoeunes | Marrakech, Morocco | 7304 |
+| 13 | [ANOUAR00-1](https://github.com/ANOUAR00-1) | ANOUAR BENTAHAR |  |  | Morocco | 7095 |
 | 14 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Harch Corp |  | Casablanca, Morocco | 6916 |
 | 15 | [KhalilSelyan](https://github.com/KhalilSelyan) | Khalil Selyan | Teneo Protocol | KhalilSelyan | Marrakesh, Morocco | 6851 |
 | 16 | [HoceineEl](https://github.com/HoceineEl) | Hoceine EL IDRISSI | @NewTags @EisarApp |  | Morocco | 6527 |

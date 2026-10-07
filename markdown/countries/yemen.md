@@ -1,6 +1,6 @@
 # Yemen
 
-Indexed users: 1,215
+Indexed users: 1,214
 
 | Leaderboard | Link |
 |---|---|
@@ -53,10 +53,10 @@ Indexed users: 1,215
 | 14 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi | Yemen | 1,110 |
 | 15 | [716W](https://github.com/716W) | Ali Bin-Samida | Yemen | 973 |
 | 16 | [HassanY1010](https://github.com/HassanY1010) | Hassan | Yemen | 681 |
-| 17 | [en-massa](https://github.com/en-massa) | MOHAMMED AL-HADDAD | Yemen | 639 |
-| 18 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 609 |
-| 19 | [ENG-BXI](https://github.com/ENG-BXI) | Abdulrhman Muneer Khamees Mubarak Al-Jaeeidi | YEMEN | 580 |
-| 20 | [salem-baqatyan](https://github.com/salem-baqatyan) | Salem Baqatyan  | Yemen/Hadhramaut/Mukalla | 569 |
+| 17 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 609 |
+| 18 | [ENG-BXI](https://github.com/ENG-BXI) | Abdulrhman Muneer Khamees Mubarak Al-Jaeeidi | YEMEN | 580 |
+| 19 | [salem-baqatyan](https://github.com/salem-baqatyan) | Salem Baqatyan  | Yemen/Hadhramaut/Mukalla | 569 |
+| 20 | [akrmcodes](https://github.com/akrmcodes) | Akrm Qubati | Yemen | 549 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,215
 | 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 158 |
 | 20 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 157 |
 
-Generated: 2026-10-07T11:57:07.220Z
+Generated: 2026-10-07T12:44:04.308Z

@@ -56,7 +56,7 @@ Indexed users: 2,083
 | 17 | [yoloxsta](https://github.com/yoloxsta) | Soe Tint Aung | Yangon, Myanmar | 1,006 |
 | 18 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | Myanmar | 941 |
 | 19 | [TaoMonLae](https://github.com/TaoMonLae) |  | Myanmar | 920 |
-| 20 | [AungMyoAyeDev](https://github.com/AungMyoAyeDev) | Aung Myo Aye | Mandalay,Myanmar | 854 |
+| 20 | [ThantSinTun009](https://github.com/ThantSinTun009) | Thant Sin Tun | Mandalay, Myanmar | 905 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,083
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-07T11:14:50.259Z
+Generated: 2026-10-07T12:28:13.994Z

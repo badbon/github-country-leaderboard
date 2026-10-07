@@ -12,11 +12,11 @@ Indexed users: 211
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 6,374 |
+| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 7,597 |
 | 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,065 |
 | 3 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | Liberia | 3,367 |
-| 4 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,444 |
-| 5 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 1,388 |
+| 4 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,097 |
+| 5 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,444 |
 | 6 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,310 |
 | 7 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
 | 8 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,138 |
@@ -45,9 +45,9 @@ Indexed users: 211
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 517 |
 | 7 | [JohannFonseca](https://github.com/JohannFonseca) | Johann Curry  | Liberia | 349 |
 | 8 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | Monrovia, Liberia | 318 |
-| 9 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  | Liberia | 286 |
-| 10 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Liberia | 262 |
-| 11 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 225 |
+| 9 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 298 |
+| 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  | Liberia | 286 |
+| 11 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Liberia | 262 |
 | 12 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr | Buchanan City, Liberia | 210 |
 | 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | Ontario, Canada & Monrovia, Liberia | 188 |
 | 14 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 186 |
@@ -83,4 +83,4 @@ Indexed users: 211
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-10-07T11:10:47.217Z
+Generated: 2026-10-07T12:23:17.655Z

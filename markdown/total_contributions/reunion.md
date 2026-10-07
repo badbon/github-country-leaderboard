@@ -1,20 +1,20 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-07T11:19:22.125Z
+Generated: 2026-10-07T12:34:06.450Z
 
-Users: 212
+Users: 211
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 6609 |
 | 2 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | DigiKaizen |  | Saint-Denis | 6462 |
 | 3 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet |  | fabricepayetfr | Reunion Island | 6382 |
-| 4 | [saiht](https://github.com/saiht) | Saiht |  |  | Reunion Island | 3202 |
-| 5 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3199 |
+| 4 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3498 |
+| 5 | [saiht](https://github.com/saiht) | Saiht |  |  | Reunion Island | 3202 |
 | 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2771 |
-| 7 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 2238 |
-| 8 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 2187 |
-| 9 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 2167 |
+| 7 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 2413 |
+| 8 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 2238 |
+| 9 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 2187 |
 | 10 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2040 |
 | 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2036 |
 | 12 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 1946 |

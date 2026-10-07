@@ -1,6 +1,6 @@
 # Total Contributions - South Sudan
 
-Generated: 2026-10-07T11:52:03.227Z
+Generated: 2026-10-07T12:37:48.986Z
 
 Users: 133
 
@@ -8,7 +8,7 @@ Users: 133
 |---:|---|---|---|---|---|---:|
 | 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Nilotik General Trading Co. Ltd | _Maiz27_ | Juba, South Sudan | 8736 |
 | 2 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Creative Studios | wol_james | Juba, South Sudan | 5206 |
-| 3 | [davelee001](https://github.com/davelee001) | David Leek |  | barax_lee | South Sudan | 4757 |
+| 3 | [davelee001](https://github.com/davelee001) | David Leek |  | barax_lee | South Sudan | 4879 |
 | 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat |  |  | Juba, South sudan | 3502 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  |  | PuochMabor | South Sudan | 1007 |
 | 6 | [felixuxx](https://github.com/felixuxx) | ... |  |  | Juba, South Sudan | 811 |

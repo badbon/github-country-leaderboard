@@ -12,7 +12,7 @@ Indexed users: 159
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 6,329 |
+| 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 7,365 |
 | 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Maseru | 2,329 |
 | 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 2,191 |
 | 4 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 2,019 |
@@ -29,15 +29,15 @@ Indexed users: 159
 | 15 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 343 |
 | 16 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 287 |
 | 17 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 285 |
-| 18 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 255 |
-| 19 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 226 |
-| 20 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana | Upper Thamae Maseru | 214 |
+| 18 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 261 |
+| 19 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 255 |
+| 20 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 226 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 775 |
+| 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 459 |
 | 2 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 359 |
 | 3 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 309 |
 | 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 237 |
@@ -69,8 +69,8 @@ Indexed users: 159
 | 5 | [Tumisangkhabisi](https://github.com/Tumisangkhabisi) | Tumisang khabisi | Lesotho, maseru | 56 |
 | 6 | [Lemohang](https://github.com/Lemohang) | Lemohang57 | Maseru  | 44 |
 | 7 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 41 |
-| 8 | [khobatha](https://github.com/khobatha) | Khobatha Setetemela | Maseru, Roma, Lesotho | 30 |
-| 9 | [AtomLaw](https://github.com/AtomLaw) | Hlompho | Lesotho | 29 |
+| 8 | [khobatha](https://github.com/khobatha) | Khobatha Setetemela | Maseru, Roma, Lesotho | 36 |
+| 9 | [AtomLaw](https://github.com/AtomLaw) | Hlompho | Lesotho | 31 |
 | 10 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 29 |
 | 11 | [Ntlele](https://github.com/Ntlele) | David | Lesotho | 26 |
 | 12 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 19 |
@@ -83,4 +83,4 @@ Indexed users: 159
 | 19 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 | 20 | [lmphatsi](https://github.com/lmphatsi) | Lebajoa Mphatsi | Lesotho | 11 |
 
-Generated: 2026-10-07T11:10:43.258Z
+Generated: 2026-10-07T12:23:12.895Z

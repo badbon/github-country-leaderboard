@@ -1,6 +1,6 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-07T11:15:41.958Z
+Generated: 2026-10-07T12:29:54.855Z
 
 Users: 177
 
@@ -14,15 +14,15 @@ Users: 177
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | www.techpart. | netmorphus | Niamey | 454 |
 | 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 373 |
 | 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Federal University Of Technology, Minna |  | Niger | 252 |
-| 9 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 233 |
-| 10 | [hmandela](https://github.com/hmandela) | Mandela HOUNGNIBO | @AGRHYMET | hmandela | Niamey, NIGER | 219 |
-| 11 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | @qwiper  @Osirion-IA  |  | Niamey,Niger | 203 |
-| 12 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley |  |  | Niamey | 194 |
+| 9 | [hmandela](https://github.com/hmandela) | Mandela HOUNGNIBO | @AGRHYMET | hmandela | Niamey, NIGER | 223 |
+| 10 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | @qwiper  @Osirion-IA  |  | Niamey,Niger | 203 |
+| 11 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley |  |  | Niamey | 194 |
+| 12 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 171 |
 | 13 | [Life-Is-Nothing](https://github.com/Life-Is-Nothing) | Mohamed Adoungouss Ibrahim |  |  | Niamey, Niger | 159 |
 | 14 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | @vision_visuel |  | Niamey-Niger | 133 |
 | 15 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | SETES SARL | hama_barhamou | Niger | 127 |
-| 16 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Refactor Factory | elonmusk | Zinder, Niger | 104 |
-| 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 103 |
-| 18 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 103 |
-| 19 | [abbuss11](https://github.com/abbuss11) | ABBA | Mi+ | abbuss_227 | Niamey, Niger | 98 |
-| 20 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif |  |  | Niamey Niger | 95 |
+| 16 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 103 |
+| 17 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 103 |
+| 18 | [abbuss11](https://github.com/abbuss11) | ABBA | Mi+ | abbuss_227 | Niamey, Niger | 98 |
+| 19 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif |  |  | Niamey Niger | 95 |
+| 20 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn |  |  | Niger, Niamey | 89 |

@@ -77,10 +77,10 @@ Indexed users: 1,550
 | 13 | [victoroalvarez](https://github.com/victoroalvarez) | Victor O. Alvarez | Puerto Rico | 166 |
 | 14 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 164 |
 | 15 | [aryxns](https://github.com/aryxns) | Aryan Sharma | puerto rico | 160 |
-| 16 | [perazaharmonics](https://github.com/perazaharmonics) | J. Enrique Peraza, BScEE MEngEE | Hatillo, Puerto Rico | 158 |
+| 16 | [perazaharmonics](https://github.com/perazaharmonics) | J. Enrique Peraza, BScEE MEngEE | Hatillo, Puerto Rico | 150 |
 | 17 | [danysantiago](https://github.com/danysantiago) | Daniel Santiago | Puerto Rico | 148 |
 | 18 | [Xiomara7](https://github.com/Xiomara7) | Xiomara Figueroa  | San Juan, PR | 138 |
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-07T11:18:42.118Z
+Generated: 2026-10-07T12:33:54.716Z

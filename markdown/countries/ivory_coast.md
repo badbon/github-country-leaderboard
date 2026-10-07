@@ -12,8 +12,8 @@ Indexed users: 489
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 9,384 |
-| 2 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 8,855 |
+| 1 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 8,855 |
+| 2 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 8,634 |
 | 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,466 |
 | 4 | [daohassane](https://github.com/daohassane) | Hassane Dao | Côte d'ivoire, Abidjan | 5,802 |
 | 5 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 5,330 |
@@ -37,7 +37,7 @@ Indexed users: 489
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 3,702 |
+| 1 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 3,071 |
 | 2 | [siguici](https://github.com/siguici) | SIGUI Kessé Emmanuel | Abidjan, Ivory Coast | 901 |
 | 3 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 894 |
 | 4 | [codescooper](https://github.com/codescooper) | Code Scooper | Abidjan, Côte d'ivoire | 782 |
@@ -62,7 +62,7 @@ Indexed users: 489
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Bleu-Yves-Sopoude](https://github.com/Bleu-Yves-Sopoude) | Bleu Yves Sopoude | Ivory Coast | 363 |
+| 1 | [Bleu-Yves-Sopoude](https://github.com/Bleu-Yves-Sopoude) | Bleu Yves Sopoude | Ivory Coast | 289 |
 | 2 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 252 |
 | 3 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 150 |
 | 4 | [AngeTia](https://github.com/AngeTia) | M. Gompou Tia Ange | Ivory Coast, Abidjan | 148 |
@@ -83,4 +83,4 @@ Indexed users: 489
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
 | 20 | [k111ra](https://github.com/k111ra) | sidik slims | Abidjan, Côte D'ivoire | 42 |
 
-Generated: 2026-10-07T11:08:06.105Z
+Generated: 2026-10-07T12:20:57.407Z

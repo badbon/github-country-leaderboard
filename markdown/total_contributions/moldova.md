@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-07T11:13:46.889Z
+Generated: 2026-10-07T12:26:19.637Z
 
 Users: 1770
 
@@ -14,9 +14,9 @@ Users: 1770
 | 6 | [StefuSD](https://github.com/StefuSD) | Stepan Stefu |  |  | Moldova | 5328 |
 | 7 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion |  |  | Moldova, Chisinau | 5271 |
 | 8 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5154 |
-| 9 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 4546 |
-| 10 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 4454 |
-| 11 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4424 |
+| 9 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4782 |
+| 10 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 4546 |
+| 11 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 4454 |
 | 12 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 4415 |
 | 13 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Synkwise |  | Chisinau, Moldova | 4260 |
 | 14 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | @Curano-AI  |  | Chisinau, Moldova | 4091 |

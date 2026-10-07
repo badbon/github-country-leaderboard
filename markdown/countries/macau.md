@@ -1,6 +1,6 @@
 # Macau
 
-Indexed users: 450
+Indexed users: 448
 
 | Leaderboard | Link |
 |---|---|
@@ -50,13 +50,13 @@ Indexed users: 450
 | 11 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 798 |
 | 12 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
 | 13 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 713 |
-| 14 | [ariel-lee-1023](https://github.com/ariel-lee-1023) | Ariel Lee | Macau | 678 |
-| 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 649 |
-| 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
-| 17 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 535 |
-| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 521 |
-| 19 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 464 |
-| 20 | [WindoC](https://github.com/WindoC) | Antonio Cheong | Macau | 425 |
+| 14 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 649 |
+| 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
+| 16 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 535 |
+| 17 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 521 |
+| 18 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 464 |
+| 19 | [WindoC](https://github.com/WindoC) | Antonio Cheong | Macau | 425 |
+| 20 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao, China and Coimbra, Portugal | 417 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 450
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 66 |
 | 20 | [greatzh](https://github.com/greatzh) | Zihao Zhang | macao | 65 |
 
-Generated: 2026-10-07T11:11:48.091Z
+Generated: 2026-10-07T12:24:34.423Z

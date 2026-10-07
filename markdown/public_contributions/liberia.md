@@ -1,6 +1,6 @@
 # Public Contributions - Liberia
 
-Generated: 2026-10-07T11:10:47.217Z
+Generated: 2026-10-07T12:23:17.655Z
 
 Users: 211
 
@@ -14,9 +14,9 @@ Users: 211
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 517 |
 | 7 | [JohannFonseca](https://github.com/JohannFonseca) | Johann Curry  |  |  | Liberia | 349 |
 | 8 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | ALX | arthur_solomon | Monrovia, Liberia | 318 |
-| 9 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  |  |  | Liberia | 286 |
-| 10 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Tec Liberia |  | Liberia | 262 |
-| 11 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 225 |
+| 9 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 298 |
+| 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  |  |  | Liberia | 286 |
+| 11 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Tec Liberia |  | Liberia | 262 |
 | 12 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr |  | simeonatarr862 | Buchanan City, Liberia | 210 |
 | 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | TBAY Tech Service | FitzgeraldChal | Ontario, Canada & Monrovia, Liberia | 188 |
 | 14 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo |  |  | Monrovia, Liberia | 186 |

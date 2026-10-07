@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-07T12:00:13.011Z
+Generated: 2026-10-07T12:45:41.594Z
 
 Users: 468
 
@@ -10,19 +10,19 @@ Users: 468
 | 2 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 3014 |
 | 3 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 2790 |
 | 4 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 1953 |
-| 5 | [krwg](https://github.com/krwg) | アイダ ミール | Google University |  | Antarctica | 1465 |
-| 6 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1399 |
-| 7 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Gruppa chat & Co. |  | Antarctica | 1173 |
-| 8 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1137 |
-| 9 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube |  | icecubedotwtf | Antarctica | 996 |
-| 10 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 711 |
-| 11 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 675 |
-| 12 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 658 |
-| 13 | [DrBrad](https://github.com/DrBrad) | Brad | find9 LLC, LimeReel LLC |  | Antarctica | 634 |
-| 14 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
-| 15 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 469 |
-| 16 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | A store that pays $8 per hour / 6 days per week |  | Antarctica, Discord, VRChat | 469 |
-| 17 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas |  |  | Antarctica | 434 |
-| 18 | [nicccce](https://github.com/nicccce) | Nick | Shandong University |  | Antarctica | 410 |
-| 19 | [kyriosaa](https://github.com/kyriosaa) | Kin |  |  | Antarctica | 405 |
-| 20 | [FreshPenguin112](https://github.com/FreshPenguin112) | FreshPenguin112 |  |  | Antarctica | 390 |
+| 5 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 1786 |
+| 6 | [krwg](https://github.com/krwg) | アイダ ミール | Google University |  | Antarctica | 1465 |
+| 7 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1399 |
+| 8 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Gruppa chat & Co. |  | Antarctica | 1173 |
+| 9 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1137 |
+| 10 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube |  | icecubedotwtf | Antarctica | 996 |
+| 11 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 711 |
+| 12 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 675 |
+| 13 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 658 |
+| 14 | [DrBrad](https://github.com/DrBrad) | Brad | find9 LLC, LimeReel LLC |  | Antarctica | 634 |
+| 15 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
+| 16 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 469 |
+| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | A store that pays $8 per hour / 6 days per week |  | Antarctica, Discord, VRChat | 469 |
+| 18 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 436 |
+| 19 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas |  |  | Antarctica | 434 |
+| 20 | [nicccce](https://github.com/nicccce) | Nick | Shandong University |  | Antarctica | 410 |

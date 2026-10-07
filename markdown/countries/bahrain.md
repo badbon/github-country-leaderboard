@@ -48,7 +48,7 @@ Indexed users: 733
 | 9 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
 | 10 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | Bahrain | 843 |
 | 11 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 806 |
-| 12 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi | Bahrain | 728 |
+| 12 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi | Bahrain | 733 |
 | 13 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi | Bahrain | 726 |
 | 14 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 707 |
 | 15 | [sfoulad](https://github.com/sfoulad) | Foulad | Bahrain | 682 |
@@ -83,4 +83,4 @@ Indexed users: 733
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 41 |
 | 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa | Bahrain | 37 |
 
-Generated: 2026-10-07T12:02:41.026Z
+Generated: 2026-10-07T12:47:33.180Z

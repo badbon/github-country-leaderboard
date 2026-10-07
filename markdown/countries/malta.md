@@ -21,17 +21,17 @@ Indexed users: 1,231
 | 7 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 7,973 |
 | 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 7,672 |
 | 9 | [exori90](https://github.com/exori90) | exori | Malta | 7,623 |
-| 10 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
-| 11 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 6,792 |
-| 12 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 6,258 |
-| 13 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | Malta | 6,104 |
-| 14 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,842 |
-| 15 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 5,768 |
-| 16 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,272 |
-| 17 | [gregpavl](https://github.com/gregpavl) | Greg | Malta | 5,225 |
-| 18 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 4,993 |
-| 19 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 4,913 |
-| 20 | [camilolucena88](https://github.com/camilolucena88) | Camilo Lucena | Swieqi, Malta | 4,795 |
+| 10 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 7,574 |
+| 11 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
+| 12 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 6,792 |
+| 13 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 6,258 |
+| 14 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | Malta | 6,104 |
+| 15 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,842 |
+| 16 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 5,768 |
+| 17 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
+| 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,272 |
+| 19 | [gregpavl](https://github.com/gregpavl) | Greg | Malta | 5,225 |
+| 20 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 4,993 |
 
 ## Public Contributions
 
@@ -68,7 +68,7 @@ Indexed users: 1,231
 | 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | St. Julians, Malta | 525 |
 | 5 | [xiaocong](https://github.com/xiaocong) | xiaocong | Malta | 473 |
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 442 |
-| 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 331 |
+| 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 366 |
 | 8 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 291 |
 | 9 | [zeelog](https://github.com/zeelog) |  | Malta | 258 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | Luqa, Malta | 243 |
@@ -83,4 +83,4 @@ Indexed users: 1,231
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 
-Generated: 2026-10-07T11:13:12.397Z
+Generated: 2026-10-07T12:25:14.227Z

@@ -14,9 +14,9 @@ Indexed users: 356
 |---:|---|---|---|---:|
 | 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 10,937 |
 | 2 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,490 |
-| 3 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,307 |
-| 4 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 5,107 |
-| 5 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 4,993 |
+| 3 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,563 |
+| 4 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,307 |
+| 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 5,107 |
 | 6 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,776 |
 | 7 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,513 |
 | 8 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,364 |
@@ -31,21 +31,21 @@ Indexed users: 356
 | 17 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 3,517 |
 | 18 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 3,231 |
 | 19 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 3,140 |
-| 20 | [mismaah](https://github.com/mismaah) |  | Maldives | 2,907 |
+| 20 | [Syndrom7](https://github.com/Syndrom7) | Hussain Zayan | Maldives | 3,120 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Malé, Maldives | 1,653 |
-| 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Male', Maldives | 1,334 |
+| 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Male', Maldives | 1,337 |
 | 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | malé, maldives  | 1,304 |
 | 4 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,016 |
-| 5 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 931 |
-| 6 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 694 |
-| 7 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 633 |
-| 8 | [crockalet](https://github.com/crockalet) |  | Maldives | 579 |
-| 9 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin | Malé, Maldives | 551 |
+| 5 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin | Malé, Maldives | 966 |
+| 6 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 931 |
+| 7 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 694 |
+| 8 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 633 |
+| 9 | [crockalet](https://github.com/crockalet) |  | Maldives | 579 |
 | 10 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 498 |
 | 11 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 423 |
 | 12 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh | Male' , Maldives | 366 |
@@ -56,13 +56,13 @@ Indexed users: 356
 | 17 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 232 |
 | 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 225 |
 | 19 | [adhuhaam](https://github.com/adhuhaam) | Adhu Haam | Maldives | 224 |
-| 20 | [dash8x](https://github.com/dash8x) | Arushad Ahmed | Maldives | 198 |
+| 20 | [zxeenu](https://github.com/zxeenu) | Ziaan | Maldives | 220 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [CustomIcon](https://github.com/CustomIcon) | ポキ | Male, Maldives | 203 |
+| 1 | [CustomIcon](https://github.com/CustomIcon) | ポキ | Male, Maldives | 206 |
 | 2 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 168 |
 | 3 | [Samooh-9820060](https://github.com/Samooh-9820060) | Samooh Moosa | Maldives | 131 |
 | 4 | [boring-dragon](https://github.com/boring-dragon) | Boring Dragon | Maldives | 122 |
@@ -83,4 +83,4 @@ Indexed users: 356
 | 19 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood | Thulhaadhoo, Maldives | 41 |
 | 20 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 41 |
 
-Generated: 2026-10-07T11:12:14.609Z
+Generated: 2026-10-07T12:25:06.947Z

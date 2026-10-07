@@ -29,9 +29,9 @@ Indexed users: 468
 | 15 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,314 |
 | 16 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,309 |
 | 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,202 |
-| 18 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,613 |
-| 19 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 1,596 |
-| 20 | [whutddk](https://github.com/whutddk) | Ruige Lee | Antarctica | 1,580 |
+| 18 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,846 |
+| 19 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,613 |
+| 20 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 1,596 |
 
 ## Public Contributions
 
@@ -41,22 +41,22 @@ Indexed users: 468
 | 2 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,014 |
 | 3 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,790 |
 | 4 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 1,953 |
-| 5 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
-| 6 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,399 |
-| 7 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,173 |
-| 8 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,137 |
-| 9 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube | Antarctica | 996 |
-| 10 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 711 |
-| 11 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 675 |
-| 12 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 658 |
-| 13 | [DrBrad](https://github.com/DrBrad) | Brad | Antarctica | 634 |
-| 14 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 15 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 469 |
-| 16 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
-| 17 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 434 |
-| 18 | [nicccce](https://github.com/nicccce) | Nick | Antarctica | 410 |
-| 19 | [kyriosaa](https://github.com/kyriosaa) | Kin | Antarctica | 405 |
-| 20 | [FreshPenguin112](https://github.com/FreshPenguin112) | FreshPenguin112 | Antarctica | 390 |
+| 5 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,786 |
+| 6 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
+| 7 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,399 |
+| 8 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,173 |
+| 9 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,137 |
+| 10 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube | Antarctica | 996 |
+| 11 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 711 |
+| 12 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 675 |
+| 13 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 658 |
+| 14 | [DrBrad](https://github.com/DrBrad) | Brad | Antarctica | 634 |
+| 15 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
+| 16 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 469 |
+| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
+| 18 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 436 |
+| 19 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 434 |
+| 20 | [nicccce](https://github.com/nicccce) | Nick | Antarctica | 410 |
 
 ## Followers
 
@@ -76,11 +76,11 @@ Indexed users: 468
 | 12 | [emre1393](https://github.com/emre1393) | Emre | Antarctica | 114 |
 | 13 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 111 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 99 |
-| 15 | [piplup7575](https://github.com/piplup7575) | pipl | antarctica | 91 |
+| 15 | [piplup7575](https://github.com/piplup7575) | pipl | antarctica | 92 |
 | 16 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 89 |
 | 17 | [r4sas](https://github.com/r4sas) | R4SAS | Vostok Station, Antarctica | 89 |
 | 18 | [pkasila](https://github.com/pkasila) | Pavel Kasila | Antarctica | 88 |
 | 19 | [crse](https://github.com/crse) |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 77 |
 
-Generated: 2026-10-07T12:00:13.011Z
+Generated: 2026-10-07T12:45:41.594Z

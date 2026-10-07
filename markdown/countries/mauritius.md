@@ -22,16 +22,16 @@ Indexed users: 721
 | 8 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 4,265 |
 | 9 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,077 |
 | 10 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 4,076 |
-| 11 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,695 |
-| 12 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 3,083 |
-| 13 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 2,754 |
-| 14 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 2,644 |
-| 15 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 2,640 |
-| 16 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 2,558 |
-| 17 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 2,535 |
-| 18 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 2,496 |
-| 19 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 2,398 |
-| 20 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee | Mauritius | 2,323 |
+| 11 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 3,701 |
+| 12 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,695 |
+| 13 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 3,083 |
+| 14 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 2,754 |
+| 15 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 2,644 |
+| 16 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 2,640 |
+| 17 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 2,558 |
+| 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 2,535 |
+| 19 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 2,496 |
+| 20 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 2,398 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 721
 | 19 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | Mauritius | 73 |
 | 20 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 73 |
 
-Generated: 2026-10-07T11:13:24.987Z
+Generated: 2026-10-07T12:25:47.445Z

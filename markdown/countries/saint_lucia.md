@@ -1,6 +1,6 @@
 # Saint Lucia
 
-Indexed users: 34
+Indexed users: 35
 
 | Leaderboard | Link |
 |---|---|
@@ -12,26 +12,26 @@ Indexed users: 34
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 4,045 |
-| 2 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,557 |
-| 3 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 1,992 |
-| 4 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 1,049 |
-| 5 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 1,026 |
-| 6 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Saint Lucia | 953 |
-| 7 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 816 |
-| 8 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio | Saint Lucia | 281 |
-| 9 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | Saint Lucia | 93 |
-| 10 | [fontius](https://github.com/fontius) |  | Saint Lucia | 79 |
-| 11 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 42 |
-| 12 | [swelanauguste](https://github.com/swelanauguste) | Swelan R. Auguste | Saint Lucia | 18 |
-| 13 | [Azendae-Popo](https://github.com/Azendae-Popo) | Azendae Popo | Castries, Saint Lucia | 15 |
-| 14 | [Orbtronics-Admin](https://github.com/Orbtronics-Admin) | Orbtronics | Saint Lucia | 14 |
-| 15 | [granges0storage](https://github.com/granges0storage) | Lidia St | Saint Lucia | 13 |
-| 16 | [xavier-1-tech](https://github.com/xavier-1-tech) | Xavier Henry | Saint Lucia | 13 |
-| 17 | [CodeRed30](https://github.com/CodeRed30) | Katrina | Saint Lucia, WI | 10 |
-| 18 | [jeromejcwf-gif](https://github.com/jeromejcwf-gif) | JEROME WILNESS | Castries, Saint Lucia | 1 |
-| 19 | [JNB-Technology](https://github.com/JNB-Technology) | JNB Technology | La Clery, Castries, Saint Lucia  | 1 |
-| 20 | [amello69](https://github.com/amello69) | Alvinus Melius | Saint Lucia | 0 |
+| 1 | [jarnickae](https://github.com/jarnickae) |  | Castries, Saint Lucia | 6,826 |
+| 2 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 4,045 |
+| 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,557 |
+| 4 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 1,992 |
+| 5 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 1,049 |
+| 6 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 1,026 |
+| 7 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Saint Lucia | 954 |
+| 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 816 |
+| 9 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio | Saint Lucia | 281 |
+| 10 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | Saint Lucia | 93 |
+| 11 | [fontius](https://github.com/fontius) |  | Saint Lucia | 79 |
+| 12 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 42 |
+| 13 | [swelanauguste](https://github.com/swelanauguste) | Swelan R. Auguste | Saint Lucia | 18 |
+| 14 | [Azendae-Popo](https://github.com/Azendae-Popo) | Azendae Popo | Castries, Saint Lucia | 15 |
+| 15 | [Orbtronics-Admin](https://github.com/Orbtronics-Admin) | Orbtronics | Saint Lucia | 14 |
+| 16 | [granges0storage](https://github.com/granges0storage) | Lidia St | Saint Lucia | 13 |
+| 17 | [xavier-1-tech](https://github.com/xavier-1-tech) | Xavier Henry | Saint Lucia | 13 |
+| 18 | [CodeRed30](https://github.com/CodeRed30) | Katrina | Saint Lucia, WI | 10 |
+| 19 | [jeromejcwf-gif](https://github.com/jeromejcwf-gif) | JEROME WILNESS | Castries, Saint Lucia | 1 |
+| 20 | [JNB-Technology](https://github.com/JNB-Technology) | JNB Technology | La Clery, Castries, Saint Lucia  | 1 |
 
 ## Public Contributions
 
@@ -50,13 +50,13 @@ Indexed users: 34
 | 11 | [Orbtronics-Admin](https://github.com/Orbtronics-Admin) | Orbtronics | Saint Lucia | 14 |
 | 12 | [granges0storage](https://github.com/granges0storage) | Lidia St | Saint Lucia | 13 |
 | 13 | [xavier-1-tech](https://github.com/xavier-1-tech) | Xavier Henry | Saint Lucia | 13 |
-| 14 | [CodeRed30](https://github.com/CodeRed30) | Katrina | Saint Lucia, WI | 1 |
-| 15 | [jeromejcwf-gif](https://github.com/jeromejcwf-gif) | JEROME WILNESS | Castries, Saint Lucia | 1 |
-| 16 | [JNB-Technology](https://github.com/JNB-Technology) | JNB Technology | La Clery, Castries, Saint Lucia  | 1 |
-| 17 | [amello69](https://github.com/amello69) | Alvinus Melius | Saint Lucia | 0 |
-| 18 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio | Saint Lucia | 0 |
-| 19 | [BECollymore](https://github.com/BECollymore) | Burt Collymore | Pointe Seraphine, Castries, St.Lucia | 0 |
-| 20 | [denzel-gustave](https://github.com/denzel-gustave) | Denzel Gustave | Saint Lucia | 0 |
+| 14 | [jarnickae](https://github.com/jarnickae) |  | Castries, Saint Lucia | 7 |
+| 15 | [CodeRed30](https://github.com/CodeRed30) | Katrina | Saint Lucia, WI | 1 |
+| 16 | [jeromejcwf-gif](https://github.com/jeromejcwf-gif) | JEROME WILNESS | Castries, Saint Lucia | 1 |
+| 17 | [JNB-Technology](https://github.com/JNB-Technology) | JNB Technology | La Clery, Castries, Saint Lucia  | 1 |
+| 18 | [amello69](https://github.com/amello69) | Alvinus Melius | Saint Lucia | 0 |
+| 19 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio | Saint Lucia | 0 |
+| 20 | [BECollymore](https://github.com/BECollymore) | Burt Collymore | Pointe Seraphine, Castries, St.Lucia | 0 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 34
 | 19 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 3 |
 | 20 | [fontius](https://github.com/fontius) |  | Saint Lucia | 2 |
 
-Generated: 2026-10-07T11:20:29.032Z
+Generated: 2026-10-07T12:35:16.706Z

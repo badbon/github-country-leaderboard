@@ -1,6 +1,6 @@
 # Followers - North Korea
 
-Generated: 2026-10-07T11:16:04.168Z
+Generated: 2026-10-07T12:30:06.311Z
 
 Users: 186
 
@@ -9,11 +9,11 @@ Users: 186
 | 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Homelessness | X1HY999 | Pyongyang | 137 |
 | 2 | [jdzmfg](https://github.com/jdzmfg) | ! ★ | fux apple | jdzmfg | pyongyang | 69 |
 | 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | @Step-Security | o_0x4f | 🇰🇵 Pyongyang, North Korea | 66 |
-| 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 62 |
+| 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 63 |
 | 5 | [norksec](https://github.com/norksec) | NORKSEC |  |  | Pyongyang, North Korea | 32 |
 | 6 | [strangerting](https://github.com/strangerting) | Big Kim | Kim Inc | westealbitcoin | Bunker, DPRK | 32 |
 | 7 | [shiftre](https://github.com/shiftre) | Shift |  |  | Pyongyang | 31 |
-| 8 | [SleekZ](https://github.com/SleekZ) | SleekZ |  |  | Pyongyang | 30 |
+| 8 | [SleekZ](https://github.com/SleekZ) | SleekZ |  |  | Pyongyang | 31 |
 | 9 | [brendan-lee](https://github.com/brendan-lee) | Brendan Lee |  |  | Pyongyang, North Korea | 28 |
 | 10 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 27 |
 | 11 | [T1med0ut](https://github.com/T1med0ut) | Timedout | Unemployed | Hashf0und | North Korea | 24 |

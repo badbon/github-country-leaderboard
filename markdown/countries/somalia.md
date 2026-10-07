@@ -1,6 +1,6 @@
 # Somalia
 
-Indexed users: 866
+Indexed users: 865
 
 | Leaderboard | Link |
 |---|---|
@@ -15,7 +15,7 @@ Indexed users: 866
 | 1 | [abdirahman-sharmarke](https://github.com/abdirahman-sharmarke) | ᵃᵇᵈⁱ | Somalia/ Mogdisho | 8,466 |
 | 2 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman | Mogadishu, Banaadir, Somalia | 7,329 |
 | 3 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | Mogadishu, Somalia | 6,610 |
-| 4 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | somalia | 6,286 |
+| 4 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | somalia | 5,953 |
 | 5 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | Mogadishu, Somalia | 5,362 |
 | 6 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Mogadishu, Somalia | 5,231 |
 | 7 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Somalia  | 4,869 |
@@ -29,21 +29,21 @@ Indexed users: 866
 | 15 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Mogadishu | 3,296 |
 | 16 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | Mogadishu Somalia | 3,233 |
 | 17 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  | Mogadishu, Somalia | 3,173 |
-| 18 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | Somalia | 2,969 |
-| 19 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | Mogadishu, Somalia  | 2,914 |
-| 20 | [mesutmahad](https://github.com/mesutmahad) | ENG MESUT | Somalia | 2,730 |
+| 18 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed | mogadishu-somalia | 2,998 |
+| 19 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | Somalia | 2,969 |
+| 20 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | Mogadishu, Somalia  | 2,914 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | somalia | 5,460 |
+| 1 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | somalia | 5,013 |
 | 2 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | Mogadisho, Somalia | 3,367 |
 | 3 | [abdulsalamhassan](https://github.com/abdulsalamhassan) | Abdulsalam H. Shiikhow | Somalia, Mogadishu | 1,443 |
-| 4 | [Maxamed459](https://github.com/Maxamed459) | Maxamed Mahdi | Somalia | 1,202 |
-| 5 | [TheAnfac](https://github.com/TheAnfac) | Anfac Abdullahi | Somalia-Mogadishu | 1,074 |
-| 6 | [mohameddahir57](https://github.com/mohameddahir57) | Mohamed Dahir Osman | Somalia,Mogadishu | 929 |
-| 7 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed | mogadishu-somalia | 821 |
+| 4 | [TheAnfac](https://github.com/TheAnfac) | Anfac Abdullahi | Somalia-Mogadishu | 1,074 |
+| 5 | [mohameddahir57](https://github.com/mohameddahir57) | Mohamed Dahir Osman | Somalia,Mogadishu | 929 |
+| 6 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed | mogadishu-somalia | 924 |
+| 7 | [Maxamed459](https://github.com/Maxamed459) | Maxamed Mahdi | Somalia | 877 |
 | 8 | [omartood](https://github.com/omartood) | Omar Tood | Somalia | 765 |
 | 9 | [ibrahimmoalim](https://github.com/ibrahimmoalim) | Ibrahim | Garowe, Somalia | 760 |
 | 10 | [Joseph-Abdullaah](https://github.com/Joseph-Abdullaah) | Joseph Abdullaahi | somalia | 735 |
@@ -70,12 +70,12 @@ Indexed users: 866
 | 6 | [Cabdulahi](https://github.com/Cabdulahi) | Cabdulahi Sharif | Mogadishu | 283 |
 | 7 | [LibanMoo](https://github.com/LibanMoo) | Liban Hussein | Somalia | 251 |
 | 8 | [munniomer](https://github.com/munniomer) | Munira Omar | Mogadishu, Somalia | 242 |
-| 9 | [ShurieJr](https://github.com/ShurieJr) | MOHAMED ABDULLAHI | Somalia | 205 |
-| 10 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | Somalia | 201 |
-| 11 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed | mogadishu-somalia | 164 |
+| 9 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed | mogadishu-somalia | 217 |
+| 10 | [ShurieJr](https://github.com/ShurieJr) | MOHAMED ABDULLAHI | Somalia | 205 |
+| 11 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | Somalia | 201 |
 | 12 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Mogadishu, Somalia | 163 |
 | 13 | [abdinasir-Tman](https://github.com/abdinasir-Tman) | Abdinasir Mursal | Mogadishu, Somalia | 155 |
-| 14 | [engabdullah-2024](https://github.com/engabdullah-2024) | Abdullah Ali | Somalia | 133 |
+| 14 | [engabdullah-2024](https://github.com/engabdullah-2024) | Abdullah Ali | Somalia | 129 |
 | 15 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد | Somalia | 121 |
 | 16 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | Mogadishu \| Somalia | 118 |
 | 17 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | somalia | 117 |
@@ -83,4 +83,4 @@ Indexed users: 866
 | 19 | [mohamedturaab](https://github.com/mohamedturaab) | Mohamed Turaab | Mogadishu, Somalia | 92 |
 | 20 | [abdorizak](https://github.com/abdorizak) | Abdirizak Abdalla  | Mogadisho,Somalia | 91 |
 
-Generated: 2026-10-07T11:51:22.918Z
+Generated: 2026-10-07T12:37:09.954Z

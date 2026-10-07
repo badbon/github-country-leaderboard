@@ -1,6 +1,6 @@
 # Bahamas
 
-Indexed users: 238
+Indexed users: 237
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 238
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-07T12:01:12.474Z
+Generated: 2026-10-07T12:47:24.752Z

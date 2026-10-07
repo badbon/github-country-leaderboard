@@ -46,8 +46,8 @@ Indexed users: 9,513
 | 7 | [ulugbek0217](https://github.com/ulugbek0217) | Ulug'bek Raxmankulov | Samarkand, Uzbekistan | 10,731 |
 | 8 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | Xonqa, Xorazm, Uzbekistan | 10,002 |
 | 9 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  | Uzbekistan | 9,527 |
-| 10 | [Secret-Uzbek](https://github.com/Secret-Uzbek) | Secret Uzbek | Tashkent, Uzbekistan | 7,017 |
-| 11 | [Maxliyo0404](https://github.com/Maxliyo0404) | Maxliyo | Tashkent | 6,701 |
+| 10 | [Maxliyo0404](https://github.com/Maxliyo0404) | Maxliyo | Tashkent | 7,727 |
+| 11 | [Secret-Uzbek](https://github.com/Secret-Uzbek) | Secret Uzbek | Tashkent, Uzbekistan | 7,017 |
 | 12 | [baxtiyorjongaziyev](https://github.com/baxtiyorjongaziyev) | Baxtiyorjon Gaziyev | Uzbekistan | 5,127 |
 | 13 | [Maqsud-Samatov](https://github.com/Maqsud-Samatov) | Maqsud Samatov | Uzbekistan, Termiz | 4,599 |
 | 14 | [abbosch1k](https://github.com/abbosch1k) | tasher | Uzbekistan | 3,669 |
@@ -83,4 +83,4 @@ Indexed users: 9,513
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [goldendevuz](https://github.com/goldendevuz) | Abdulmajid Yunusov | Chilonzor, Tashkent, Uzbekistan | 301 |
 
-Generated: 2026-10-07T11:56:08.133Z
+Generated: 2026-10-07T12:43:22.990Z

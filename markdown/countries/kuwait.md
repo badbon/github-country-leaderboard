@@ -1,6 +1,6 @@
 # Kuwait
 
-Indexed users: 800
+Indexed users: 799
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 800
 | 19 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 75 |
 | 20 | [Eazy2Code](https://github.com/Eazy2Code) | Eazy2Code | Kuwait | 74 |
 
-Generated: 2026-10-07T11:09:15.233Z
+Generated: 2026-10-07T12:22:34.146Z

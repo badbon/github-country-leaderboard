@@ -1,13 +1,13 @@
 # Followers - Tajikistan
 
-Generated: 2026-10-07T11:53:13.007Z
+Generated: 2026-10-07T12:39:37.593Z
 
 Users: 710
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | CEO at @google & @microsoft | abdullokhonz | Khujand, Tajikistan | 421 |
-| 2 | [RahimovAbdurahmon](https://github.com/RahimovAbdurahmon) |  | Soft Club |  | Tajikistan, Dushanbe | 225 |
+| 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | CEO at @google & @microsoft | abdullokhonz | Khujand, Tajikistan | 428 |
+| 2 | [RahimovAbdurahmon](https://github.com/RahimovAbdurahmon) |  | Soft Club |  | Tajikistan, Dushanbe | 226 |
 | 3 | [AzamBayzaev](https://github.com/AzamBayzaev) | Azam |  |  | Khujand, Tajikistan | 174 |
 | 4 | [Thexasan](https://github.com/Thexasan) | Husenov Hasan  | @softclub-academy |  | Tajikistan, Dushanbe | 138 |
 | 5 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 127 |

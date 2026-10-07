@@ -1,6 +1,6 @@
 # Togo
 
-Indexed users: 689
+Indexed users: 688
 
 | Leaderboard | Link |
 |---|---|
@@ -49,9 +49,9 @@ Indexed users: 689
 | 10 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 1,308 |
 | 11 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,194 |
 | 12 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 802 |
-| 13 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 742 |
-| 14 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 718 |
-| 15 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 662 |
+| 13 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 748 |
+| 14 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 742 |
+| 15 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 718 |
 | 16 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | Lomé | 647 |
 | 17 | [SevTify404](https://github.com/SevTify404) | SevTify[404] | Lomé-Togo | 590 |
 | 18 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU | Lomé, Togo | 557 |
@@ -83,4 +83,4 @@ Indexed users: 689
 | 19 | [Harlequelrah](https://github.com/Harlequelrah) | DEGBOVI Maxime Atsou | Lomé-TOGO | 68 |
 | 20 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 
-Generated: 2026-10-07T11:53:55.323Z
+Generated: 2026-10-07T12:40:15.773Z

@@ -1,8 +1,8 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-07T11:21:25.300Z
+Generated: 2026-10-07T12:36:00.920Z
 
-Users: 1365
+Users: 1364
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 1365
 | 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 1067 |
 | 16 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1021 |
 | 17 | [bngesp](https://github.com/bngesp) | bassirou ngom | Phd Computer Science |  | Senegal | 998 |
-| 18 | [likemcode](https://github.com/likemcode) | josue Avuh |  |  | Dakar | 927 |
-| 19 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 900 |
-| 20 | [PapePathe](https://github.com/PapePathe) | Papa Pathé SENE | Anywhere Needed |  | Dakar Sénégal West Africa | 853 |
+| 18 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar |  | Dakar, Sn  | 927 |
+| 19 | [likemcode](https://github.com/likemcode) | josue Avuh |  |  | Dakar | 927 |
+| 20 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 900 |

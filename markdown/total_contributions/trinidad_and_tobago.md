@@ -1,6 +1,6 @@
 # Total Contributions - Trinidad and Tobago
 
-Generated: 2026-10-07T11:54:29.021Z
+Generated: 2026-10-07T12:41:23.979Z
 
 Users: 256
 
@@ -9,20 +9,20 @@ Users: 256
 | 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 6661 |
 | 2 | [DarionHernandez](https://github.com/DarionHernandez) | Darion Hernandez | @CariPay |  | Trinidad and Tobago | 4997 |
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | PGS |  | Trinidad and Tobago | 3733 |
-| 4 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 2947 |
-| 5 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson |  |  | Trinidad and Tobago | 2825 |
-| 6 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 2531 |
-| 7 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 2263 |
-| 8 | [devxlag](https://github.com/devxlag) | Devon Murray | UWI |  | Trinidad and Tobago | 2139 |
-| 9 | [marcstampfli](https://github.com/marcstampfli) | Marc Stämpfli |  |  | Trinidad and Tobago | 1961 |
-| 10 | [jaedanpersaud12](https://github.com/jaedanpersaud12) | Jaedan Persaud | zed-io | jaedanpersaudtt | Trinidad and Tobago | 1875 |
-| 11 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Medial Health |  | Trinidad and Tobago | 1743 |
-| 12 | [edgeboy47](https://github.com/edgeboy47) | Darrion Mills |  |  | Trinidad and Tobago | 1423 |
-| 13 | [snorkpete](https://github.com/snorkpete) | Kion Stephen |  |  | Trinidad and Tobago | 1420 |
-| 14 | [Yhonathon-Maharaj](https://github.com/Yhonathon-Maharaj) | Yhonathon Maharaj | Euthy Labs | Yhonathon | Trinidad and Tobago | 1363 |
-| 15 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | The Writer Company  |  | Trinidad and Tobago | 1205 |
-| 16 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid |  | mreid_tt | Trinidad and Tobago | 1067 |
-| 17 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia | GSPEN |  | Trinidad and Tobago | 1045 |
-| 18 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Wepala |  | Trinidad and Tobago | 996 |
-| 19 | [rishi-latchmepersad](https://github.com/rishi-latchmepersad) | Rishi Latchmepersad | Shell |  | Trinidad and Tobago | 988 |
-| 20 | [adrifranCode](https://github.com/adrifranCode) | Adrien Francois |  |  | Trinidad and Tobago | 965 |
+| 4 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 3727 |
+| 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 2947 |
+| 6 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson |  |  | Trinidad and Tobago | 2825 |
+| 7 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 2531 |
+| 8 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 2263 |
+| 9 | [devxlag](https://github.com/devxlag) | Devon Murray | UWI |  | Trinidad and Tobago | 2139 |
+| 10 | [marcstampfli](https://github.com/marcstampfli) | Marc Stämpfli |  |  | Trinidad and Tobago | 1961 |
+| 11 | [jaedanpersaud12](https://github.com/jaedanpersaud12) | Jaedan Persaud | zed-io | jaedanpersaudtt | Trinidad and Tobago | 1875 |
+| 12 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Medial Health |  | Trinidad and Tobago | 1743 |
+| 13 | [edgeboy47](https://github.com/edgeboy47) | Darrion Mills |  |  | Trinidad and Tobago | 1532 |
+| 14 | [snorkpete](https://github.com/snorkpete) | Kion Stephen |  |  | Trinidad and Tobago | 1420 |
+| 15 | [Yhonathon-Maharaj](https://github.com/Yhonathon-Maharaj) | Yhonathon Maharaj | Euthy Labs | Yhonathon | Trinidad and Tobago | 1363 |
+| 16 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | The Writer Company  |  | Trinidad and Tobago | 1205 |
+| 17 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid |  | mreid_tt | Trinidad and Tobago | 1067 |
+| 18 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia | GSPEN |  | Trinidad and Tobago | 1045 |
+| 19 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | @Heft-IQ |  | Trinidad and Tobago | 1016 |
+| 20 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Wepala |  | Trinidad and Tobago | 996 |

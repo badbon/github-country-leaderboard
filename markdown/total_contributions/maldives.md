@@ -1,6 +1,6 @@
 # Total Contributions - Maldives
 
-Generated: 2026-10-07T11:12:14.609Z
+Generated: 2026-10-07T12:25:06.947Z
 
 Users: 356
 
@@ -8,9 +8,9 @@ Users: 356
 |---:|---|---|---|---|---|---:|
 | 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Balloonshare |  | Maldives | 10937 |
 | 2 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim |  | fauzaanu | Maldives | 8490 |
-| 3 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 5307 |
-| 4 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman |  | mohamed_aiman | Maldives | 5107 |
-| 5 | [hashes02](https://github.com/hashes02) | HASHES |  |  | Maldives | 4993 |
+| 3 | [hashes02](https://github.com/hashes02) | HASHES |  |  | Maldives | 5563 |
+| 4 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 5307 |
+| 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman |  | mohamed_aiman | Maldives | 5107 |
 | 6 | [whosaynow](https://github.com/whosaynow) | whosaynow | LottieFiles | whosaynow | Maldives | 4776 |
 | 7 | [roris](https://github.com/roris) | Thoail Ahmed |  |  | Maldives | 4513 |
 | 8 | [muizzu](https://github.com/muizzu) | Muizzu Abbas |  |  | Maldives | 4364 |
@@ -25,4 +25,4 @@ Users: 356
 | 17 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | DNS PIPES Inc. |  | Maldives | 3517 |
 | 18 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | OXIQA |  | Maldives | 3231 |
 | 19 | [jaaahh](https://github.com/jaaahh) | Jaah | @urbanpiper  |  | Maldives | 3140 |
-| 20 | [mismaah](https://github.com/mismaah) |  |  |  | Maldives | 2907 |
+| 20 | [Syndrom7](https://github.com/Syndrom7) | Hussain Zayan |  |  | Maldives | 3120 |

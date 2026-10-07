@@ -24,8 +24,8 @@ Indexed users: 479
 | 10 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 2,411 |
 | 11 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,317 |
 | 12 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,183 |
-| 13 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 2,042 |
-| 14 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,961 |
+| 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,961 |
+| 14 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,898 |
 | 15 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 1,857 |
 | 16 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,746 |
 | 17 | [ThomasShikalepo](https://github.com/ThomasShikalepo) | Thomas shikalepo | Windhoek, Namibia | 1,563 |
@@ -83,4 +83,4 @@ Indexed users: 479
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [rigred](https://github.com/rigred) | Rigo Reddig | Namibia | 34 |
 
-Generated: 2026-10-07T11:14:53.535Z
+Generated: 2026-10-07T12:28:17.095Z

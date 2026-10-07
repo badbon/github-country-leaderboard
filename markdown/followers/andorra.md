@@ -1,6 +1,6 @@
 # Followers - Andorra
 
-Generated: 2026-10-07T12:00:02.775Z
+Generated: 2026-10-07T12:45:20.342Z
 
 Users: 214
 
@@ -15,7 +15,7 @@ Users: 214
 | 7 | [matchilling](https://github.com/matchilling) | Matías J. Schilling | @chucknorris-io @tronalddump-io @bojo-ai @dogfooding @klarna @EqualExperts @jugendstil-io @NewStore  | matchilling | Andorra | 129 |
 | 8 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 124 |
 | 9 | [JMariadlcs](https://github.com/JMariadlcs) | Jose María de la Cruz | Carlos III Madrid - RWTH Aachen University  | 0xjmaria | Andorra | 119 |
-| 10 | [damarnez](https://github.com/damarnez) | Dani Martin Jimenez | https://tanukilabs.xyz/ |  | Andorra | 103 |
+| 10 | [damarnez](https://github.com/damarnez) | Dani Martin Jimenez | https://tanukilabs.xyz/ |  | Andorra | 105 |
 | 11 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Quasar Store |  | Andorra, Principality of Andorra | 102 |
 | 12 | [facundomedica](https://github.com/facundomedica) | Facundo Medica |  | facundomedica | Andorra | 93 |
 | 13 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 92 |

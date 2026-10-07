@@ -1,12 +1,12 @@
 # Public Contributions - Lesotho
 
-Generated: 2026-10-07T11:10:43.258Z
+Generated: 2026-10-07T12:23:12.895Z
 
 Users: 159
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Limkokwing University | ntholi | Maseru | 775 |
+| 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Limkokwing University | ntholi | Maseru | 459 |
 | 2 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | BLACK DOX |  | MASERU,LESOTHO | 359 |
 | 3 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Phytely Pty Ltd |  | Maseru, Lesotho | 309 |
 | 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 237 |

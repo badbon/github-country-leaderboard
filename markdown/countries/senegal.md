@@ -1,6 +1,6 @@
 # Senegal
 
-Indexed users: 1,365
+Indexed users: 1,364
 
 | Leaderboard | Link |
 |---|---|
@@ -54,9 +54,9 @@ Indexed users: 1,365
 | 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 1,067 |
 | 16 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,021 |
 | 17 | [bngesp](https://github.com/bngesp) | bassirou ngom | Senegal | 998 |
-| 18 | [likemcode](https://github.com/likemcode) | josue Avuh | Dakar | 927 |
-| 19 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 900 |
-| 20 | [PapePathe](https://github.com/PapePathe) | Papa Pathé SENE | Dakar Sénégal West Africa | 853 |
+| 18 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 927 |
+| 19 | [likemcode](https://github.com/likemcode) | josue Avuh | Dakar | 927 |
+| 20 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 900 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,365
 | 19 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 | 20 | [tonux](https://github.com/tonux) | Tonux SAMB | Dakar, Sénégal  | 124 |
 
-Generated: 2026-10-07T11:21:25.300Z
+Generated: 2026-10-07T12:36:00.920Z

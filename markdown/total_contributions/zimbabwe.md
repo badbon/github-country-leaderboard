@@ -1,8 +1,8 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-07T11:58:55.374Z
+Generated: 2026-10-07T12:44:12.018Z
 
-Users: 1658
+Users: 1657
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 1658
 | 13 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | @codaptdev | tadiwrr | Zimbabwe | 6092 |
 | 14 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Vectra Dynamics, Optimeer Labs, Emzini weCode, ZimWorx | andilejaden | Zimbabwe | 5832 |
 | 15 | [phoscoder](https://github.com/phoscoder) | Victor Phos |  |  | Zimbabwe | 5484 |
-| 16 | [emarss](https://github.com/emarss) | Rufaro Sithole | Eyetro Digital | emarss04 | Harare, Zimbabwe | 5403 |
-| 17 | [XJ76](https://github.com/XJ76) | Joshua J Smith | @WYV-inc  |  | Harare | 5058 |
-| 18 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 5011 |
-| 19 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Campus Market @Campus-Marketzw @Climate-Space-hub  | praisetech_zw | Chinhoyi , Zimbabwe | 4904 |
+| 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Founder @ Campus Market | praisetech_zw | Chinhoyi, Zimbabwe | 5441 |
+| 17 | [emarss](https://github.com/emarss) | Rufaro Sithole | Eyetro Digital | emarss04 | Harare, Zimbabwe | 5403 |
+| 18 | [XJ76](https://github.com/XJ76) | Joshua J Smith | @WYV-inc  |  | Harare | 5058 |
+| 19 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 5011 |
 | 20 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | @hubflo | makosamunyaa | Harare | 4899 |

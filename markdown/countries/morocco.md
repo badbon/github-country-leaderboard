@@ -23,8 +23,8 @@ Indexed users: 9,668
 | 9 | [moa-digitalagency](https://github.com/moa-digitalagency) | My One Art - Digital Agency | Marrakesh, Morocco | 7,926 |
 | 10 | [AyourElwazani97](https://github.com/AyourElwazani97) | Ayoub Wazane | Morocco | 7,883 |
 | 11 | [Oussail](https://github.com/Oussail) | Oussail | Morocco | 7,473 |
-| 12 | [ANOUAR00-1](https://github.com/ANOUAR00-1) | ANOUAR BENTAHAR | Morocco | 7,442 |
-| 13 | [yoeunes](https://github.com/yoeunes) | Younes ENNAJI | Marrakech, Morocco | 7,304 |
+| 12 | [yoeunes](https://github.com/yoeunes) | Younes ENNAJI | Marrakech, Morocco | 7,304 |
+| 13 | [ANOUAR00-1](https://github.com/ANOUAR00-1) | ANOUAR BENTAHAR | Morocco | 7,095 |
 | 14 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Casablanca, Morocco | 6,916 |
 | 15 | [KhalilSelyan](https://github.com/KhalilSelyan) | Khalil Selyan | Marrakesh, Morocco | 6,851 |
 | 16 | [HoceineEl](https://github.com/HoceineEl) | Hoceine EL IDRISSI | Morocco | 6,527 |
@@ -83,4 +83,4 @@ Indexed users: 9,668
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
 
-Generated: 2026-10-07T11:14:22.263Z
+Generated: 2026-10-07T12:27:36.096Z

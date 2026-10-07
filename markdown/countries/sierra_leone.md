@@ -23,7 +23,7 @@ Indexed users: 442
 | 9 | [Mevizcode](https://github.com/Mevizcode) | David Cole | Freetown, Sierra Leone | 2,487 |
 | 10 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | Sierra Leone | 2,440 |
 | 11 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Sierra Leone | 2,391 |
-| 12 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Wilberforce, Freetown. | 2,134 |
+| 12 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Wilberforce, Freetown. | 2,231 |
 | 13 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 2,119 |
 | 14 | [ksawaneh](https://github.com/ksawaneh) | Karim Sawaneh | Freetown, Sierra Leone | 2,090 |
 | 15 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | Freetown, Sierra Leone | 2,037 |
@@ -69,7 +69,7 @@ Indexed users: 442
 | 5 | [aempirei](https://github.com/aempirei) | Christopher Abad | Freetown, Sierra Leone | 68 |
 | 6 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 65 |
 | 7 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | Sierra Leone | 65 |
-| 8 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Wilberforce, Freetown. | 50 |
+| 8 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Wilberforce, Freetown. | 53 |
 | 9 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Sierra Leone | 45 |
 | 10 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Sierra Leone | 42 |
 | 11 | [Johnblesson](https://github.com/Johnblesson) | John Blesson-Rowe | Sierra Leone | 41 |
@@ -83,4 +83,4 @@ Indexed users: 442
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 28 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-07T11:49:40.315Z
+Generated: 2026-10-07T12:36:10.821Z

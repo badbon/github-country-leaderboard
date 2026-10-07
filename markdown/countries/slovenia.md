@@ -21,16 +21,16 @@ Indexed users: 3,113
 | 7 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 9,942 |
 | 8 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,520 |
 | 9 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,945 |
-| 10 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 8,648 |
-| 11 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,431 |
-| 12 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 8,260 |
-| 13 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,682 |
-| 14 | [some1else](https://github.com/some1else) | Srđan Prodanović | Slovenia | 6,574 |
-| 15 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 6,568 |
-| 16 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev | Koper, Slovenia | 6,505 |
-| 17 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 6,261 |
-| 18 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 5,921 |
-| 19 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 5,820 |
+| 10 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
+| 11 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 8,648 |
+| 12 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,431 |
+| 13 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 8,260 |
+| 14 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,682 |
+| 15 | [some1else](https://github.com/some1else) | Srđan Prodanović | Slovenia | 6,574 |
+| 16 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 6,568 |
+| 17 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev | Koper, Slovenia | 6,505 |
+| 18 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 6,261 |
+| 19 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 5,921 |
 | 20 | [matijavizintin](https://github.com/matijavizintin) | Matija Vižintin | Ljubljana, Slovenia | 4,978 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 3,113
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-07T11:51:16.359Z
+Generated: 2026-10-07T12:36:35.010Z

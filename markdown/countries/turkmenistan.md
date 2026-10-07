@@ -18,12 +18,12 @@ Indexed users: 500
 | 4 | [arslanAta](https://github.com/arslanAta) | Arslan | Turkmenistan | 4,514 |
 | 5 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 4,417 |
 | 6 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | Turkmenistan | 3,924 |
-| 7 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,727 |
-| 8 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,454 |
-| 9 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,434 |
-| 10 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Turkmenistan | 2,935 |
-| 11 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 2,913 |
-| 12 | [lightRain0629](https://github.com/lightRain0629) | Umyt | Ashgabat, Turkmenistan | 2,855 |
+| 7 | [lightRain0629](https://github.com/lightRain0629) | Umyt | Ashgabat, Turkmenistan | 3,855 |
+| 8 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,727 |
+| 9 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,454 |
+| 10 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,434 |
+| 11 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Turkmenistan | 2,935 |
+| 12 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 2,913 |
 | 13 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 2,641 |
 | 14 | [RovshenTagangylyjov](https://github.com/RovshenTagangylyjov) | Rovshen Tagangylyjov | Ashgabat, Turkmenistan | 2,499 |
 | 15 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ashgabat | 2,261 |
@@ -83,4 +83,4 @@ Indexed users: 500
 | 19 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 | 20 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 64 |
 
-Generated: 2026-10-07T11:54:41.061Z
+Generated: 2026-10-07T12:41:33.975Z

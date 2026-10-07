@@ -1,8 +1,8 @@
 # Total Contributions - Mongolia
 
-Generated: 2026-10-07T11:14:11.286Z
+Generated: 2026-10-07T12:26:26.293Z
 
-Users: 813
+Users: 811
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

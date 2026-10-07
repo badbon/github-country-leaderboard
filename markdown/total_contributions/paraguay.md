@@ -1,8 +1,8 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-07T11:53:47.715Z
+Generated: 2026-10-07T12:32:46.241Z
 
-Users: 2029
+Users: 2028
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 2029
 | 11 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 4941 |
 | 12 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 4332 |
 | 13 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 4318 |
-| 14 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 4243 |
-| 15 | [eeeds](https://github.com/eeeds) | Esteban Encina |  |  | Paraguay | 4218 |
-| 16 | [neocuella](https://github.com/neocuella) | Rick Ovelar |  | rickOvelar | Paraguay | 4146 |
-| 17 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4082 |
-| 18 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 4017 |
-| 19 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla |  |  | Asuncion, Paraguay | 3987 |
-| 20 | [diegobugs](https://github.com/diegobugs) | Diego |  | diegobugs | Hohenau, Paraguay | 3868 |
+| 14 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza |  |  | Encarnacíon, Itapúa, Paraguay | 4280 |
+| 15 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 4243 |
+| 16 | [eeeds](https://github.com/eeeds) | Esteban Encina |  |  | Paraguay | 4218 |
+| 17 | [neocuella](https://github.com/neocuella) | Rick Ovelar |  | rickOvelar | Paraguay | 4146 |
+| 18 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4082 |
+| 19 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 4017 |
+| 20 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla |  |  | Asuncion, Paraguay | 3987 |

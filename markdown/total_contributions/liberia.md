@@ -1,16 +1,16 @@
 # Total Contributions - Liberia
 
-Generated: 2026-10-07T11:10:47.217Z
+Generated: 2026-10-07T12:23:17.655Z
 
 Users: 211
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 6374 |
+| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 7597 |
 | 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 5065 |
 | 3 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | CYGEC IT SOLUTIONS |  | Liberia | 3367 |
-| 4 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe |  |  | Liberia, West Africa | 1444 |
-| 5 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah |  |  | Liberia,Monrovia | 1388 |
+| 4 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah |  |  | Liberia,Monrovia | 2097 |
+| 5 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe |  |  | Liberia, West Africa | 1444 |
 | 6 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 1310 |
 | 7 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera |  |  | Liberia | 1142 |
 | 8 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. |  | mdsomah | Monrovia, Liberia | 1138 |

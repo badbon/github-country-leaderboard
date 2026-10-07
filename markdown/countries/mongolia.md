@@ -1,6 +1,6 @@
 # Mongolia
 
-Indexed users: 813
+Indexed users: 811
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 813
 | 19 | [mchigm](https://github.com/mchigm) | MCHIGM | Mongolia | 57 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-07T11:14:11.286Z
+Generated: 2026-10-07T12:26:26.293Z

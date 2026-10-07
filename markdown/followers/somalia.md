@@ -1,8 +1,8 @@
 # Followers - Somalia
 
-Generated: 2026-10-07T11:51:22.918Z
+Generated: 2026-10-07T12:37:09.954Z
 
-Users: 866
+Users: 865
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -14,12 +14,12 @@ Users: 866
 | 6 | [Cabdulahi](https://github.com/Cabdulahi) | Cabdulahi Sharif | Hormuud | Cabdula18395654 | Mogadishu | 283 |
 | 7 | [LibanMoo](https://github.com/LibanMoo) | Liban Hussein | Somali International University |  | Somalia | 251 |
 | 8 | [munniomer](https://github.com/munniomer) | Munira Omar |  | munniomer | Mogadishu, Somalia | 242 |
-| 9 | [ShurieJr](https://github.com/ShurieJr) | MOHAMED ABDULLAHI | Near East University In Nothern Cyprus | shuuriyejr | Somalia | 205 |
-| 10 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | @kaabeup @Waagefaal @bulsho-development-bank |  | Somalia | 201 |
-| 11 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 164 |
+| 9 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 217 |
+| 10 | [ShurieJr](https://github.com/ShurieJr) | MOHAMED ABDULLAHI | Near East University In Nothern Cyprus | shuuriyejr | Somalia | 205 |
+| 11 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | @kaabeup @Waagefaal @bulsho-development-bank |  | Somalia | 201 |
 | 12 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Bulsho Development Bank | baabale | Mogadishu, Somalia | 163 |
 | 13 | [abdinasir-Tman](https://github.com/abdinasir-Tman) | Abdinasir Mursal | @dugsiiye |  | Mogadishu, Somalia | 155 |
-| 14 | [engabdullah-2024](https://github.com/engabdullah-2024) | Abdullah Ali | Founder & Lead Dev Of Udub Solutions |  | Somalia | 133 |
+| 14 | [engabdullah-2024](https://github.com/engabdullah-2024) | Abdullah Ali | Co-Founder & Lead Dev Of TTMCHANGE  | enga95311 | Somalia | 129 |
 | 15 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد |  |  | Somalia | 121 |
 | 16 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 118 |
 | 17 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | Freelancer  | saiid20k | somalia | 117 |

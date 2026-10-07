@@ -1,8 +1,8 @@
 # Followers - South Korea
 
-Generated: 2026-10-07T12:17:31.062Z
+Generated: 2026-10-07T12:37:45.384Z
 
-Users: 56891
+Users: 56888
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

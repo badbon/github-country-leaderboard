@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-07T11:51:16.359Z
+Generated: 2026-10-07T12:36:35.010Z
 
 Users: 3113
 
@@ -15,14 +15,14 @@ Users: 3113
 | 7 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Ljubljana |  | Slovenia | 9942 |
 | 8 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 9520 |
 | 9 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8945 |
-| 10 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek |  | domengabrovsek | Ljubljana, Slovenia | 8648 |
-| 11 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8431 |
-| 12 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 8260 |
-| 13 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6682 |
-| 14 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |
-| 15 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 6568 |
-| 16 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev |  |  | Koper, Slovenia | 6505 |
-| 17 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 6261 |
-| 18 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 5921 |
-| 19 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 5820 |
+| 10 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 8682 |
+| 11 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek |  | domengabrovsek | Ljubljana, Slovenia | 8648 |
+| 12 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8431 |
+| 13 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 8260 |
+| 14 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6682 |
+| 15 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |
+| 16 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 6568 |
+| 17 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev |  |  | Koper, Slovenia | 6505 |
+| 18 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 6261 |
+| 19 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 5921 |
 | 20 | [matijavizintin](https://github.com/matijavizintin) | Matija Vižintin | Outbrain |  | Ljubljana, Slovenia | 4978 |

@@ -1,6 +1,6 @@
 # Followers - Papua New Guinea
 
-Generated: 2026-10-07T11:17:33.701Z
+Generated: 2026-10-07T12:32:42.601Z
 
 Users: 296
 
@@ -16,13 +16,13 @@ Users: 296
 | 8 | [sutherlandnele](https://github.com/sutherlandnele) | Sutherland Nele | Cloudcode PNG Limited | suthzy | Port Moresby | 19 |
 | 9 | [161710125](https://github.com/161710125) | Muuu | bram.ltd |  | Papua New Guinea | 16 |
 | 10 | [cravenhoff](https://github.com/cravenhoff) | Crystal Kewe | Crysan Technology Ltd |  | Port Moresby, Papua New Guinea | 14 |
-| 11 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 12 |
+| 11 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 13 |
 | 12 | [ephil2025](https://github.com/ephil2025) | EPHIL |  |  | Papua New Guinea | 12 |
 | 13 | [sylvery](https://github.com/sylvery) | Sylver Yagi | Sudo Tech |  | Papua New Guinea | 12 |
-| 14 | [loiwai](https://github.com/loiwai) | Loi Wai |  |  | Papua New Guinea | 10 |
+| 14 | [lordgabriel98](https://github.com/lordgabriel98) | Gabriel Baje |  |  | Port Moresby, Papua New Guinea | 10 |
 | 15 | [gwarvi](https://github.com/gwarvi) | Gordon Warvi | Kalia Media |  | Port Moresby, Papua New Guinea | 9 |
 | 16 | [jtuckayo](https://github.com/jtuckayo) | Julius Tuckayo | Nasfund | jtuckayo | Port Morseby, Papua New Guinea | 9 |
 | 17 | [wilfred-wulbou](https://github.com/wilfred-wulbou) | Wilfred Wulbou |  | wilfredwulbou | Papua New Guinea | 9 |
 | 18 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Skoonters |  | Papua New Guinea | 8 |
-| 19 | [rex-makusia](https://github.com/rex-makusia) | Rex Makusia | Bank of South Pacific |  | Papua New Guinea | 8 |
-| 20 | [AlexQCryptids](https://github.com/AlexQCryptids) | Alex Q | Georgia Tech |  | Papua New Guinea | 7 |
+| 19 | [loiwai](https://github.com/loiwai) | Loi Wai |  |  | Papua New Guinea | 8 |
+| 20 | [rex-makusia](https://github.com/rex-makusia) | Rex Makusia | Bank of South Pacific |  | Papua New Guinea | 8 |

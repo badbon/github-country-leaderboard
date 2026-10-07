@@ -1,6 +1,6 @@
 # Paraguay
 
-Indexed users: 2,029
+Indexed users: 2,028
 
 | Leaderboard | Link |
 |---|---|
@@ -25,13 +25,13 @@ Indexed users: 2,029
 | 11 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 4,941 |
 | 12 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 4,332 |
 | 13 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 4,318 |
-| 14 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 4,243 |
-| 15 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
-| 16 | [neocuella](https://github.com/neocuella) | Rick Ovelar | Paraguay | 4,146 |
-| 17 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,082 |
-| 18 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 4,017 |
-| 19 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla | Asuncion, Paraguay | 3,987 |
-| 20 | [diegobugs](https://github.com/diegobugs) | Diego | Hohenau, Paraguay | 3,868 |
+| 14 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza | Encarnacíon, Itapúa, Paraguay | 4,280 |
+| 15 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 4,243 |
+| 16 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
+| 17 | [neocuella](https://github.com/neocuella) | Rick Ovelar | Paraguay | 4,146 |
+| 18 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,082 |
+| 19 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 4,017 |
+| 20 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla | Asuncion, Paraguay | 3,987 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,029
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-07T11:53:47.715Z
+Generated: 2026-10-07T12:32:46.241Z

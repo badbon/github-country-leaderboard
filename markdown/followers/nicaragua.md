@@ -1,6 +1,6 @@
 # Followers - Nicaragua
 
-Generated: 2026-10-07T11:15:38.327Z
+Generated: 2026-10-07T12:29:51.433Z
 
 Users: 1403
 
@@ -18,11 +18,11 @@ Users: 1403
 | 10 | [Ualb](https://github.com/Ualb) | Ulises López |  | starts_off | Managua. Nic | 99 |
 | 11 | [manuelduarte077](https://github.com/manuelduarte077) | Manuel Duarte  | Momotombo Devs |  | Nicaragua | 93 |
 | 12 | [soyjimmysaenz](https://github.com/soyjimmysaenz) | Jimmy Sáenz Rizo | Sosafe | soyjimmysaenz | Managua, Nicaragua | 91 |
-| 13 | [alexxandraSalazar](https://github.com/alexxandraSalazar) | Alexandra Salazar |  |  | Nicaragua | 80 |
-| 14 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez |  |  | Managua, Nicaragua | 79 |
+| 13 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez |  |  | Managua, Nicaragua | 79 |
+| 14 | [alexxandraSalazar](https://github.com/alexxandraSalazar) | Alexandra Salazar |  |  | Nicaragua | 78 |
 | 15 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Freelance |  | Estelí, Nicaragua | 77 |
 | 16 | [JezerM](https://github.com/JezerM) | Jezer Mejía |  |  | Nicaragua | 77 |
 | 17 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza |  | 14BryanEspinoza | Nicaragua | 73 |
 | 18 | [neydroid](https://github.com/neydroid) | José Ney Guerrero |  |  | Managua, Nicaragua | 70 |
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia |  | luismejiadev | Managua, Nicaragua | 68 |
-| 20 | [l3onte](https://github.com/l3onte) | Leonte Canales |  |  | Nicaragua | 61 |
+| 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay |  | dannygaray60 | Nicaragua | 60 |

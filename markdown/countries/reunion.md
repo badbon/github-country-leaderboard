@@ -1,6 +1,6 @@
 # Réunion
 
-Indexed users: 212
+Indexed users: 211
 
 | Leaderboard | Link |
 |---|---|
@@ -15,12 +15,12 @@ Indexed users: 212
 | 1 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 6,609 |
 | 2 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,462 |
 | 3 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 6,382 |
-| 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,202 |
-| 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,199 |
+| 4 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,498 |
+| 5 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,202 |
 | 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | Reunion Island | 2,771 |
-| 7 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Saint-Denis | 2,238 |
-| 8 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv | Reunion Island | 2,187 |
-| 9 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 2,167 |
+| 7 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 2,413 |
+| 8 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Saint-Denis | 2,238 |
+| 9 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv | Reunion Island | 2,187 |
 | 10 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 2,040 |
 | 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman | Saint-Denis, Réunion | 2,036 |
 | 12 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,946 |
@@ -62,14 +62,14 @@ Indexed users: 212
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [fvsch](https://github.com/fvsch) | Florens Verschelde | Réunion | 154 |
+| 1 | [fvsch](https://github.com/fvsch) | Florens Verschelde | Réunion | 158 |
 | 2 | [Wes974](https://github.com/Wes974) | Ouwéis | Reunion Island | 152 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 93 |
 | 4 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 68 |
 | 5 | [GagnereGeorges](https://github.com/GagnereGeorges) | Georges Gagneré | Saint-Denis | 59 |
-| 6 | [oceatoon](https://github.com/oceatoon) | Tibor Katelbach | Reunion island | 47 |
-| 7 | [mekhalleh](https://github.com/mekhalleh) | RAMELLA Sébastien | Reunion island | 46 |
-| 8 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 45 |
+| 6 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 48 |
+| 7 | [oceatoon](https://github.com/oceatoon) | Tibor Katelbach | Reunion island | 47 |
+| 8 | [mekhalleh](https://github.com/mekhalleh) | RAMELLA Sébastien | Reunion island | 46 |
 | 9 | [theo-futol](https://github.com/theo-futol) | Théo Futol | Saint-Denis, Réunion | 33 |
 | 10 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 30 |
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 28 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-07T11:19:22.125Z
+Generated: 2026-10-07T12:34:06.450Z

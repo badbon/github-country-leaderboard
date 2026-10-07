@@ -1,8 +1,8 @@
 # Public Contributions - Saint Lucia
 
-Generated: 2026-10-07T11:20:29.032Z
+Generated: 2026-10-07T12:35:16.706Z
 
-Users: 34
+Users: 35
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 34
 | 11 | [Orbtronics-Admin](https://github.com/Orbtronics-Admin) | Orbtronics |  |  | Saint Lucia | 14 |
 | 12 | [granges0storage](https://github.com/granges0storage) | Lidia St |  |  | Saint Lucia | 13 |
 | 13 | [xavier-1-tech](https://github.com/xavier-1-tech) | Xavier Henry | eMagine Solutions Inc. |  | Saint Lucia | 13 |
-| 14 | [CodeRed30](https://github.com/CodeRed30) | Katrina | Close.com |  | Saint Lucia, WI | 1 |
-| 15 | [jeromejcwf-gif](https://github.com/jeromejcwf-gif) | JEROME WILNESS | @JC World Foundation (LCWF) Inc. |  | Castries, Saint Lucia | 1 |
-| 16 | [JNB-Technology](https://github.com/JNB-Technology) | JNB Technology | JNB Technology |  | La Clery, Castries, Saint Lucia  | 1 |
-| 17 | [amello69](https://github.com/amello69) | Alvinus Melius | PALs |  | Saint Lucia | 0 |
-| 18 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio |  | bxnes_97 | Saint Lucia | 0 |
-| 19 | [BECollymore](https://github.com/BECollymore) | Burt Collymore | Min. of Finance/EcoTaxi |  | Pointe Seraphine, Castries, St.Lucia | 0 |
-| 20 | [denzel-gustave](https://github.com/denzel-gustave) | Denzel Gustave | Organization of Eastern Caribbean States Commission |  | Saint Lucia | 0 |
+| 14 | [jarnickae](https://github.com/jarnickae) |  |  |  | Castries, Saint Lucia | 7 |
+| 15 | [CodeRed30](https://github.com/CodeRed30) | Katrina | Close.com |  | Saint Lucia, WI | 1 |
+| 16 | [jeromejcwf-gif](https://github.com/jeromejcwf-gif) | JEROME WILNESS | @JC World Foundation (LCWF) Inc. |  | Castries, Saint Lucia | 1 |
+| 17 | [JNB-Technology](https://github.com/JNB-Technology) | JNB Technology | JNB Technology |  | La Clery, Castries, Saint Lucia  | 1 |
+| 18 | [amello69](https://github.com/amello69) | Alvinus Melius | PALs |  | Saint Lucia | 0 |
+| 19 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio |  | bxnes_97 | Saint Lucia | 0 |
+| 20 | [BECollymore](https://github.com/BECollymore) | Burt Collymore | Min. of Finance/EcoTaxi |  | Pointe Seraphine, Castries, St.Lucia | 0 |

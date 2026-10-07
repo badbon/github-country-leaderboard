@@ -1,14 +1,14 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-07T11:17:33.701Z
+Generated: 2026-10-07T12:32:42.601Z
 
 Users: 296
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 8167 |
-| 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly |  | CieranKelly6 | Port Moresby | 5035 |
-| 3 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | NiuPay |  | Papua New Guinea | 4609 |
+| 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | NiuPay |  | Papua New Guinea | 13430 |
+| 2 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 10424 |
+| 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly |  | CieranKelly6 | Port Moresby | 5035 |
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 4363 |
 | 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | My IT Solutions |  | Port Moresby | 3034 |
 | 6 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Dzagoo Digital Technologies-https://dzagoo.com | GHayoge | Papua New Guinea | 2299 |
@@ -22,7 +22,7 @@ Users: 296
 | 14 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Yumi Code |  | Port Moresby, 5 Mile | 821 |
 | 15 | [Amesi](https://github.com/Amesi) | Victor Temokang |  |  | Papua New Guinea | 483 |
 | 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | https://jershmamet.com |  | Port Moresby | 447 |
-| 17 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan |  |  | Mt Hagen, Western Highlands Province, Papua New Guinea | 294 |
-| 18 | [Valdaz007](https://github.com/Valdaz007) | Victor Volsavai | Next Town Technology Ltd |  | Port Moresby, Papua New Guinea | 282 |
-| 19 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 276 |
-| 20 | [gbajesns](https://github.com/gbajesns) | Gabriel Baje | SNS Tech  |  | Papua New Guinea | 269 |
+| 17 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 330 |
+| 18 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan |  |  | Mt Hagen, Western Highlands Province, Papua New Guinea | 294 |
+| 19 | [gbajesns](https://github.com/gbajesns) | Gabriel Baje | SNS Tech  |  | Papua New Guinea | 269 |
+| 20 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Self-Employed |  | Port Moresby, Papua New Guinea | 245 |

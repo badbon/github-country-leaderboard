@@ -1,6 +1,6 @@
 # Mali
 
-Indexed users: 348
+Indexed users: 347
 
 | Leaderboard | Link |
 |---|---|
@@ -21,12 +21,12 @@ Indexed users: 348
 | 7 | [MrSakine](https://github.com/MrSakine) | MrSakine | Mali | 3,403 |
 | 8 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 2,712 |
 | 9 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Bamako-Mali | 2,603 |
-| 10 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,136 |
-| 11 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,047 |
+| 10 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,333 |
+| 11 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,136 |
 | 12 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,955 |
 | 13 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 1,941 |
-| 14 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 1,852 |
-| 15 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 1,792 |
+| 14 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 1,792 |
+| 15 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 1,752 |
 | 16 | [Bah-traore](https://github.com/Bah-traore) | Mr.tanjiro_bah | Mali/Bamako | 1,699 |
 | 17 | [Pelpav](https://github.com/Pelpav) | Christian Pavlov Elom Nouboukpo | Bamako | 1,563 |
 | 18 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 1,550 |
@@ -62,7 +62,7 @@ Indexed users: 348
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | Mali | 186 |
+| 1 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | Mali | 195 |
 | 2 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 129 |
 | 3 | [mkantem](https://github.com/mkantem) | Kante Mahamadou | Mali | 112 |
 | 4 | [IvinoDev](https://github.com/IvinoDev) | Mariam Kayantao | Mali, Bamako | 69 |
@@ -75,12 +75,12 @@ Indexed users: 348
 | 11 | [diarisdiakite](https://github.com/diarisdiakite) | Diariatou Diakite | Bamako - Mali | 35 |
 | 12 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 34 |
 | 13 | [Abdoulayadiallo](https://github.com/Abdoulayadiallo) | Abdoulaye Diallo | BAMAKO | 33 |
-| 14 | [mdodakitabs](https://github.com/mdodakitabs) | Mohamed Diakite | Mali | 33 |
-| 15 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 32 |
-| 16 | [touredri](https://github.com/touredri) | Drissa | Bamako, Mali | 31 |
-| 17 | [dsekou166](https://github.com/dsekou166) | Sékou DIAKITE | Bamako, Mali | 30 |
-| 18 | [geekdjenika](https://github.com/geekdjenika) | Aboubacar DJENIKA | Bamako | 30 |
-| 19 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 29 |
-| 20 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
+| 14 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 32 |
+| 15 | [touredri](https://github.com/touredri) | Drissa | Bamako, Mali | 31 |
+| 16 | [dsekou166](https://github.com/dsekou166) | Sékou DIAKITE | Bamako, Mali | 30 |
+| 17 | [geekdjenika](https://github.com/geekdjenika) | Aboubacar DJENIKA | Bamako | 30 |
+| 18 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 29 |
+| 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
+| 20 | [Sidaty](https://github.com/Sidaty) | Sidaty Moulaye KOUREICHY | Bamako, Mali | 27 |
 
-Generated: 2026-10-07T11:12:56.260Z
+Generated: 2026-10-07T12:25:10.372Z

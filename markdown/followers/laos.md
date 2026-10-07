@@ -1,6 +1,6 @@
 # Followers - Laos
 
-Generated: 2026-10-07T11:09:45.475Z
+Generated: 2026-10-07T12:23:01.336Z
 
 Users: 359
 
@@ -15,14 +15,14 @@ Users: 359
 | 7 | [vanglaz](https://github.com/vanglaz) | Somvang Laz |  | somvanglaz | Vientiane, Laos | 31 |
 | 8 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 27 |
 | 9 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 27 |
-| 10 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | MakerBox |  | Vientiane, Laos | 23 |
+| 10 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | MakerBox |  | Vientiane, Laos | 24 |
 | 11 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai |  |  | Vientiane, Laos | 23 |
 | 12 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 22 |
 | 13 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 22 |
 | 14 | [os555](https://github.com/os555) | Outhai SAIOUDOM | Lao IT Development Co.,Ltd |  | Laos | 22 |
 | 15 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | http://tedory.me |  | Vientiane, Laos | 22 |
-| 16 | [1x000](https://github.com/1x000) | LEl_FENG |  |  | Laos | 21 |
+| 16 | [1x000](https://github.com/1x000) | 平胖kiki |  |  | Laos | 21 |
 | 17 | [saypadith](https://github.com/saypadith) | Savath Saypadith | Wayha Sokxay Technology |  | Vientiane, Laos | 19 |
-| 18 | [Chanthale](https://github.com/Chanthale) | CHANTHALEE XAIYAKESONE | Quant HuB ReguTech | Chan5591 | Vientiane Capital, Lao PDR | 17 |
+| 18 | [Chanthale](https://github.com/Chanthale) | CHANTHALEE XAIYAKESONE | Quant HuB ReguTech | Chan5591 | Vientiane Capital, Lao PDR | 16 |
 | 19 | [xuemoua-dev](https://github.com/xuemoua-dev) | DAVID | Tech Sole |  | Vientiane, Laos PDR | 16 |
 | 20 | [Sengkue](https://github.com/Sengkue) | SengKueVang |  |  | Laos, Vientiane capital | 15 |

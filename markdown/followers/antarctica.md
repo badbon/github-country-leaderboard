@@ -1,6 +1,6 @@
 # Followers - Antarctica
 
-Generated: 2026-10-07T12:00:13.011Z
+Generated: 2026-10-07T12:45:41.594Z
 
 Users: 468
 
@@ -20,7 +20,7 @@ Users: 468
 | 12 | [emre1393](https://github.com/emre1393) | Emre |  |  | Antarctica | 114 |
 | 13 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 111 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 99 |
-| 15 | [piplup7575](https://github.com/piplup7575) | pipl | buape |  | antarctica | 91 |
+| 15 | [piplup7575](https://github.com/piplup7575) | pipl | buape |  | antarctica | 92 |
 | 16 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff |  |  | Antarctica | 89 |
 | 17 | [r4sas](https://github.com/r4sas) | R4SAS | @purple-tech |  | Vostok Station, Antarctica | 89 |
 | 18 | [pkasila](https://github.com/pkasila) | Pavel Kasila | Somewhere | pavelkasila | Antarctica | 88 |

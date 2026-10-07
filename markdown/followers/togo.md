@@ -1,8 +1,8 @@
 # Followers - Togo
 
-Generated: 2026-10-07T11:53:55.323Z
+Generated: 2026-10-07T12:40:15.773Z
 
-Users: 689
+Users: 688
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

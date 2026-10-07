@@ -1,15 +1,15 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-07T11:51:22.918Z
+Generated: 2026-10-07T12:37:09.954Z
 
-Users: 866
+Users: 865
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [abdirahman-sharmarke](https://github.com/abdirahman-sharmarke) | ᵃᵇᵈⁱ | Astaan  |  | Somalia/ Mogdisho | 8466 |
 | 2 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman | Zifala Technologies | moha_a_osman | Mogadishu, Banaadir, Somalia | 7329 |
 | 3 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 6610 |
-| 4 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 6286 |
+| 4 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 5953 |
 | 5 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | @kaabeup, @waagefaal | Mustafaa4A | Mogadishu, Somalia | 5362 |
 | 6 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Bulsho Development Bank | baabale | Mogadishu, Somalia | 5231 |
 | 7 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4869 |
@@ -23,6 +23,6 @@ Users: 866
 | 15 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Jamhuriya Technology Solutions | bashkahee | Mogadishu | 3296 |
 | 16 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | NextOne | mhbaando | Mogadishu Somalia | 3233 |
 | 17 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  |  |  | Mogadishu, Somalia | 3173 |
-| 18 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | @kaabeup @Waagefaal @bulsho-development-bank |  | Somalia | 2969 |
-| 19 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | pathway solutions  | abdinajibmo | Mogadishu, Somalia  | 2914 |
-| 20 | [mesutmahad](https://github.com/mesutmahad) | ENG MESUT | Same - Software |  | Somalia | 2730 |
+| 18 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 2998 |
+| 19 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | @kaabeup @Waagefaal @bulsho-development-bank |  | Somalia | 2969 |
+| 20 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | pathway solutions  | abdinajibmo | Mogadishu, Somalia  | 2914 |

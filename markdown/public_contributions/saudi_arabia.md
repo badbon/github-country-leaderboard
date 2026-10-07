@@ -1,8 +1,8 @@
 # Public Contributions - Saudi Arabia
 
-Generated: 2026-10-07T11:21:22.057Z
+Generated: 2026-10-07T12:37:56.410Z
 
-Users: 7701
+Users: 7702
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 7701
 | 15 | [Fadil369](https://github.com/Fadil369) | Mohamed El Fadil  MD | @BRAINSAIT | brainsait369 | Saudi Arabia, Riyadh | 2465 |
 | 16 | [nn6n](https://github.com/nn6n) |  |  |  | Saudi Arabia  | 2459 |
 | 17 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | KAUST |  | Thuwal, Saudi Arabia | 2413 |
-| 18 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler |  |  | Riyadh, Saudi Arabia | 2294 |
-| 19 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | MenteE | SyabSays | Al-Riyadh, Saudi Arabia | 2289 |
-| 20 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | @OSHCO  | IbrahimBAli2017 | Saudi Arabia | 2261 |
+| 18 | [Shoug-Alomran](https://github.com/Shoug-Alomran) | Shoug Alomran |  |  | Saudi Arabia | 2404 |
+| 19 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler |  |  | Riyadh, Saudi Arabia | 2294 |
+| 20 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | MenteE | SyabSays | Al-Riyadh, Saudi Arabia | 2289 |

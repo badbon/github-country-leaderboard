@@ -1,6 +1,6 @@
 # Kyrgyzstan
 
-Indexed users: 2,463
+Indexed users: 2,462
 
 | Leaderboard | Link |
 |---|---|
@@ -22,8 +22,8 @@ Indexed users: 2,463
 | 8 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik | Bishkek | 6,088 |
 | 9 | [qiniks](https://github.com/qiniks) | Talant Mataev | Kyrgyzstan | 5,566 |
 | 10 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 5,086 |
-| 11 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,966 |
-| 12 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 4,762 |
+| 11 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 5,027 |
+| 12 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,966 |
 | 13 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,724 |
 | 14 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 4,549 |
 | 15 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,386 |
@@ -83,4 +83,4 @@ Indexed users: 2,463
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 101 |
 
-Generated: 2026-10-07T11:09:19.823Z
+Generated: 2026-10-07T12:22:41.033Z
