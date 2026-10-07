@@ -12,12 +12,12 @@ Indexed users: 13
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [chris-yng](https://github.com/chris-yng) | Christopher Young | Sotobury, Northern Mariana Islands | 315 |
-| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 292 |
+| 1 | [chris-yng](https://github.com/chris-yng) | Christopher Young | Sotobury, Northern Mariana Islands | 304 |
+| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 294 |
 | 3 | [nihaolifei999](https://github.com/nihaolifei999) | nihaolifei999 | Saipan | 5 |
-| 4 | [BaiJaCheng](https://github.com/BaiJaCheng) | Shanti Walker | 715 ,Cristopher Forge ,Williehaven ,Virginia ,Northern Mariana Islands | 0 |
-| 5 | [dipsmhsacc](https://github.com/dipsmhsacc) | Dip Roy | Saipan, Northern Mariana Islands | 0 |
-| 6 | [donnaada](https://github.com/donnaada) | Donna Ada | Saipan, MP | 0 |
+| 4 | [donnaada](https://github.com/donnaada) | Donna Ada | Saipan, MP | 1 |
+| 5 | [BaiJaCheng](https://github.com/BaiJaCheng) | Shanti Walker | 715 ,Cristopher Forge ,Williehaven ,Virginia ,Northern Mariana Islands | 0 |
+| 6 | [dipsmhsacc](https://github.com/dipsmhsacc) | Dip Roy | Saipan, Northern Mariana Islands | 0 |
 | 7 | [ellieroark](https://github.com/ellieroark) | Ellie Roark | Saipan, MP | 0 |
 | 8 | [EveMHallock](https://github.com/EveMHallock) | Eve M. Hallock  | Saipan, MP | 0 |
 | 9 | [LENDFORME](https://github.com/LENDFORME) | Mikalik |  SAIPAN | 0 |
@@ -30,12 +30,12 @@ Indexed users: 13
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [chris-yng](https://github.com/chris-yng) | Christopher Young | Sotobury, Northern Mariana Islands | 315 |
-| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 44 |
+| 1 | [chris-yng](https://github.com/chris-yng) | Christopher Young | Sotobury, Northern Mariana Islands | 304 |
+| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 57 |
 | 3 | [nihaolifei999](https://github.com/nihaolifei999) | nihaolifei999 | Saipan | 5 |
-| 4 | [BaiJaCheng](https://github.com/BaiJaCheng) | Shanti Walker | 715 ,Cristopher Forge ,Williehaven ,Virginia ,Northern Mariana Islands | 0 |
-| 5 | [dipsmhsacc](https://github.com/dipsmhsacc) | Dip Roy | Saipan, Northern Mariana Islands | 0 |
-| 6 | [donnaada](https://github.com/donnaada) | Donna Ada | Saipan, MP | 0 |
+| 4 | [donnaada](https://github.com/donnaada) | Donna Ada | Saipan, MP | 1 |
+| 5 | [BaiJaCheng](https://github.com/BaiJaCheng) | Shanti Walker | 715 ,Cristopher Forge ,Williehaven ,Virginia ,Northern Mariana Islands | 0 |
+| 6 | [dipsmhsacc](https://github.com/dipsmhsacc) | Dip Roy | Saipan, Northern Mariana Islands | 0 |
 | 7 | [ellieroark](https://github.com/ellieroark) | Ellie Roark | Saipan, MP | 0 |
 | 8 | [EveMHallock](https://github.com/EveMHallock) | Eve M. Hallock  | Saipan, MP | 0 |
 | 9 | [LENDFORME](https://github.com/LENDFORME) | Mikalik |  SAIPAN | 0 |
@@ -49,7 +49,7 @@ Indexed users: 13
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [donnaada](https://github.com/donnaada) | Donna Ada | Saipan, MP | 27 |
-| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 25 |
+| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo | Saipan, MP | 14 |
 | 3 | [wgaul](https://github.com/wgaul) | Willson Gaul | Saipan, MP | 6 |
 | 4 | [chris-yng](https://github.com/chris-yng) | Christopher Young | Sotobury, Northern Mariana Islands | 5 |
 | 5 | [LENDFORME](https://github.com/LENDFORME) | Mikalik |  SAIPAN | 5 |
@@ -62,4 +62,4 @@ Indexed users: 13
 | 12 | [ellieroark](https://github.com/ellieroark) | Ellie Roark | Saipan, MP | 1 |
 | 13 | [michaelrodgers-marianas](https://github.com/michaelrodgers-marianas) | Michael Rodgers | Saipan, MP | 1 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:30:00.302Z

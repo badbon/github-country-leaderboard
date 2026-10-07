@@ -12,7 +12,7 @@ Indexed users: 8
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [achoisy](https://github.com/achoisy) | Alexandre Choisy | Saint-Martin | 224 |
+| 1 | [achoisy](https://github.com/achoisy) | Alexandre Choisy | Saint-Martin | 222 |
 | 2 | [bluepnwage](https://github.com/bluepnwage) | Agis Carty | Saint Martin | 10 |
 | 3 | [cadiou](https://github.com/cadiou) | Baptiste Cadiou | Saint-Martin | 0 |
 | 4 | [DiDzHey](https://github.com/DiDzHey) | Nadia | Saint-Martin | 0 |
@@ -42,9 +42,9 @@ Indexed users: 8
 | 2 | [lucilebgt](https://github.com/lucilebgt) | Lucile Bergeat | saint martin | 13 |
 | 3 | [cadiou](https://github.com/cadiou) | Baptiste Cadiou | Saint-Martin | 7 |
 | 4 | [achoisy](https://github.com/achoisy) | Alexandre Choisy | Saint-Martin | 5 |
-| 5 | [ziadrf](https://github.com/ziadrf) | Abdulla Al Mamun | Saint Martin, Bangladesh | 4 |
-| 6 | [bluepnwage](https://github.com/bluepnwage) | Agis Carty | Saint Martin | 3 |
+| 5 | [bluepnwage](https://github.com/bluepnwage) | Agis Carty | Saint Martin | 4 |
+| 6 | [ziadrf](https://github.com/ziadrf) | Abdulla Al Mamun | Saint Martin, Bangladesh | 4 |
 | 7 | [DiDzHey](https://github.com/DiDzHey) | Nadia | Saint-Martin | 3 |
 | 8 | [fbeiger](https://github.com/fbeiger) | François Beiger | Saint Martin | 3 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:36:30.501Z

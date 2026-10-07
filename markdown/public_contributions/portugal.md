@@ -1,8 +1,8 @@
 # Public Contributions - Portugal
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:32:45.875Z
 
-Users: 28443
+Users: 28441
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 28443
 | 13 | [DiogoRibeiro7](https://github.com/DiogoRibeiro7) | Diogo Ribeiro |  |  | Portugal  | 10898 |
 | 14 | [tsilva](https://github.com/tsilva) | Tiago Silva | VaultHaus | tiagosilva | Porto, Portugal | 9060 |
 | 15 | [FlavioCFOliveira](https://github.com/FlavioCFOliveira) | Flávio CF Oliveira | @sapo  |  | Lisbon, Portugal | 8710 |
-| 16 | [azevedodiogo](https://github.com/azevedodiogo) | Diogo Azevedo | Universidade do Minho |  | Braga, Portugal | 8507 |
-| 17 | [otaviojava](https://github.com/otaviojava) | Otávio Santana | @eclipse @soujava @apache | otaviojava | Portugal | 8427 |
-| 18 | [alexander-yevsyukov](https://github.com/alexander-yevsyukov) | Alexander Yevsyukov | @SpineEventEngine, @TeamDev-IP, @TeamDev-ltd |  | Lisbon, Portugal | 8332 |
-| 19 | [adolfousier](https://github.com/adolfousier) | Adolfo Usier  | opencrabs.com & truelens.tech | adolfousier | Coimbra, Portugal | 7765 |
-| 20 | [paruff](https://github.com/paruff) | Phil Ruff | Fawkes Platform Engineering | paruff | Obidos, Portugal | 6679 |
+| 16 | [infinityabundance](https://github.com/infinityabundance) | riaan de beer🦀 | Invariant Forge LLC |  | Porto, Portugal | 8510 |
+| 17 | [azevedodiogo](https://github.com/azevedodiogo) | Diogo Azevedo | Universidade do Minho |  | Braga, Portugal | 8507 |
+| 18 | [otaviojava](https://github.com/otaviojava) | Otávio Santana | @eclipse @soujava @apache | otaviojava | Portugal | 8427 |
+| 19 | [alexander-yevsyukov](https://github.com/alexander-yevsyukov) | Alexander Yevsyukov | @SpineEventEngine, @TeamDev-IP, @TeamDev-ltd |  | Lisbon, Portugal | 8332 |
+| 20 | [adolfousier](https://github.com/adolfousier) | Adolfo Usier  | opencrabs.com & truelens.tech | adolfousier | Coimbra, Portugal | 7765 |

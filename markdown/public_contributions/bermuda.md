@@ -1,8 +1,8 @@
 # Public Contributions - Bermuda
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:49:41.483Z
 
-Users: 917
+Users: 916
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,8 +17,8 @@ Users: 917
 | 9 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel |  |  | Hamilton - ON | 1007 |
 | 10 | [wesbos](https://github.com/wesbos) | Wes Bos | me | wesbos | Hamilton, Ontario | 921 |
 | 11 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 895 |
-| 12 | [nvelden](https://github.com/nvelden) |  |  |  | Hamilton, Bermuda | 839 |
-| 13 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam |  |  | Hamilton Ontario | 796 |
+| 12 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam |  |  | Hamilton Ontario | 881 |
+| 13 | [nvelden](https://github.com/nvelden) |  |  |  | Hamilton, Bermuda | 839 |
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 750 |
 | 15 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe |  |  | Hamilton, Ontario | 743 |
 | 16 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel |  | chu_rill | Hamilton | 627 |

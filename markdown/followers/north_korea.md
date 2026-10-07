@@ -1,8 +1,8 @@
 # Followers - North Korea
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:29:27.468Z
 
-Users: 194
+Users: 193
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 194
 | 11 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 27 |
 | 12 | [T1med0ut](https://github.com/T1med0ut) | Timedout | Unemployed | Hashf0und | North Korea | 24 |
 | 13 | [danilima8](https://github.com/danilima8) | Daniele Lima |  |  | North Korea | 18 |
-| 14 | [copilotuser713](https://github.com/copilotuser713) | Simon K. Penny | @billnye |  | Pyongyang | 17 |
-| 15 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 17 |
-| 16 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 17 |
-| 17 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 17 |
+| 14 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 17 |
+| 15 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 17 |
+| 16 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 17 |
+| 17 | [copilotuser713](https://github.com/copilotuser713) | Simon K. Penny | @billnye |  | Pyongyang | 16 |
 | 18 | [retributions](https://github.com/retributions) |  |  |  | North Korea | 16 |
 | 19 | [LessThread](https://github.com/LessThread) | LessThread |  |  | Pyeongyang, North Korea | 15 |
 | 20 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | Samsung |  | North korea | 15 |

@@ -1,18 +1,18 @@
 # Total Contributions - Sierra Leone
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:37:57.807Z
 
 Users: 442
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 7815 |
-| 2 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 4499 |
-| 3 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Byte Limited |  | Freetown. Sierra Leone | 4228 |
-| 4 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 3578 |
-| 5 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 3293 |
-| 6 | [ibrahimgeorgefoday](https://github.com/ibrahimgeorgefoday) | Ibrahim George Foday | TEKI-SL | Georges_mindset | Sierra Leone, West Africa | 3136 |
-| 7 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 2824 |
+| 2 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 4992 |
+| 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 4499 |
+| 4 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Byte Limited |  | Freetown. Sierra Leone | 4228 |
+| 5 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 3578 |
+| 6 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 3293 |
+| 7 | [ibrahimgeorgefoday](https://github.com/ibrahimgeorgefoday) | Ibrahim George Foday | TEKI-SL | Georges_mindset | Sierra Leone, West Africa | 3136 |
 | 8 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala |  |  | Freetown, Sierra Leone	 | 2648 |
 | 9 | [Mevizcode](https://github.com/Mevizcode) | David Cole |  |  | Freetown, Sierra Leone | 2487 |
 | 10 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Course Paddy | samuelmoiwa | Sierra Leone | 2391 |

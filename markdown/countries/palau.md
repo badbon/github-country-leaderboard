@@ -1,6 +1,6 @@
 # Palau
 
-Indexed users: 3
+Indexed users: 2
 
 | Leaderboard | Link |
 |---|---|
@@ -12,24 +12,21 @@ Indexed users: 3
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [JTeccomx](https://github.com/JTeccomx) | Jovan Ngirmekur | Palau | 6 |
-| 2 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Koror, Palau | 0 |
-| 3 | [nbaulesglobalsolutions](https://github.com/nbaulesglobalsolutions) | Ngirngerikl Baules | Koror, Palau | 0 |
+| 1 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Koror, Palau | 0 |
+| 2 | [nbaulesglobalsolutions](https://github.com/nbaulesglobalsolutions) | Ngirngerikl Baules | Koror, Palau | 0 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [JTeccomx](https://github.com/JTeccomx) | Jovan Ngirmekur | Palau | 6 |
-| 2 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Koror, Palau | 0 |
-| 3 | [nbaulesglobalsolutions](https://github.com/nbaulesglobalsolutions) | Ngirngerikl Baules | Koror, Palau | 0 |
+| 1 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Koror, Palau | 0 |
+| 2 | [nbaulesglobalsolutions](https://github.com/nbaulesglobalsolutions) | Ngirngerikl Baules | Koror, Palau | 0 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [nbaulesglobalsolutions](https://github.com/nbaulesglobalsolutions) | Ngirngerikl Baules | Koror, Palau | 24 |
-| 2 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Koror, Palau | 19 |
-| 3 | [JTeccomx](https://github.com/JTeccomx) | Jovan Ngirmekur | Palau | 1 |
+| 1 | [nbaulesglobalsolutions](https://github.com/nbaulesglobalsolutions) | Ngirngerikl Baules | Koror, Palau | 23 |
+| 2 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Koror, Palau | 16 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:30:24.486Z

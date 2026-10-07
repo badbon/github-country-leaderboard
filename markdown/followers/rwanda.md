@@ -1,8 +1,8 @@
 # Followers - Rwanda
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:35:10.104Z
 
-Users: 3536
+Users: 3535
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -19,7 +19,7 @@ Users: 3536
 | 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 509 |
 | 12 | [Pericles001](https://github.com/Pericles001) | Pericles Adjovi | Carnegie Mellon University |  | Kigali, Rwanda | 508 |
 | 13 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO |  | uwenayoallain | Kigali,Rwanda | 445 |
-| 14 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | NeoScratch |  | Kigali, Rwanda | 391 |
+| 14 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | NeoScratch |  | Kigali, Rwanda | 386 |
 | 15 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO |  |  | KIGALI-RWANDA | 363 |
 | 16 | [regis-mucyo](https://github.com/regis-mucyo) | Regis Mucyo |  |  | Kigali, Rwanda | 358 |
 | 17 | [descholar-ceo](https://github.com/descholar-ceo) | Mugirase Emmanuel |  | descholar3 | Kigali, Rwanda | 328 |

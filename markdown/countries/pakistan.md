@@ -62,10 +62,10 @@ Indexed users: 41,539
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [HereIsMuhammad](https://github.com/HereIsMuhammad) | Muhammad | Pakistan | 3,128 |
-| 2 | [FareedKhan-dev](https://github.com/FareedKhan-dev) | Fareed Khan | Karachi, Pakistan | 2,696 |
-| 3 | [axiftaj](https://github.com/axiftaj) | Asif Taj | Islamabad, Pakistan | 2,383 |
-| 4 | [EimanTahir027](https://github.com/EimanTahir027) | EIMAN TAHIR | Pakistan | 2,248 |
+| 1 | [EimanTahir027](https://github.com/EimanTahir027) | EIMAN TAHIR | Pakistan | 3,253 |
+| 2 | [HereIsMuhammad](https://github.com/HereIsMuhammad) | Muhammad | Pakistan | 3,128 |
+| 3 | [FareedKhan-dev](https://github.com/FareedKhan-dev) | Fareed Khan | Karachi, Pakistan | 2,696 |
+| 4 | [axiftaj](https://github.com/axiftaj) | Asif Taj | Islamabad, Pakistan | 2,383 |
 | 5 | [yasir-shahzad](https://github.com/yasir-shahzad) | Yasir Shahzad | Pakistan | 2,234 |
 | 6 | [farhanashrafdev](https://github.com/farhanashrafdev) | Farhan Ashraf | Lahore, Pakistan | 2,080 |
 | 7 | [Ameen-Alam](https://github.com/Ameen-Alam) | Ameen Alam | Karachi , pakistan | 1,947 |
@@ -83,4 +83,4 @@ Indexed users: 41,539
 | 19 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | Pakistan | 1,232 |
 | 20 | [genabdulrehman](https://github.com/genabdulrehman) | Abdul rehman | Gujranwala, Pakistan. | 1,148 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:30:23.680Z

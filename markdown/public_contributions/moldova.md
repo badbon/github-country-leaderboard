@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:27:29.199Z
 
 Users: 1764
 
@@ -25,4 +25,4 @@ Users: 1764
 | 17 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1195 |
 | 18 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1147 |
 | 19 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov |  |  | Chisinau, Moldova | 1113 |
-| 20 | [soringoredev](https://github.com/soringoredev) | Sorin Gore | Pixel Academy SRL |  | Moldova, Chisinau | 976 |
+| 20 | [MihaiCulbida](https://github.com/MihaiCulbida) | Michael |  |  | Moldova | 1046 |

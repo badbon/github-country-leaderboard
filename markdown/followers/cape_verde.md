@@ -1,8 +1,8 @@
 # Followers - Cape Verde
 
-Generated: 2026-09-30T22:33:12.664Z
+Generated: 2026-10-07T06:50:59.929Z
 
-Users: 567
+Users: 565
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 567
 | 12 | [isabellacoliveira](https://github.com/isabellacoliveira) | Isabella Cruz de Oliveira | Itaú Unibanco |  | Praia Grande | 89 |
 | 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 82 |
 | 14 | [JulianeMonteiro](https://github.com/JulianeMonteiro) | Juliane Aparecida Monteiro dos Santos |  |  | Praia Grande - SP | 75 |
-| 15 | [emimuniz](https://github.com/emimuniz) | Emillyn Muniz  |  |  | Praia Grande - SP  | 73 |
-| 16 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros |  |  | Praia, Cabo Verde | 58 |
-| 17 | [KaiqueLusvarghi](https://github.com/KaiqueLusvarghi) | Kaique Ortolani Lusvarghi | Fatec-PG |  | Praia Grande -SP | 58 |
-| 18 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo |  |  | Praia de Jatobá, SE - Brasil | 58 |
-| 19 | [FredSoares](https://github.com/FredSoares) | Frederico Soares |  |  | Cape Verde | 53 |
-| 20 | [vanessagomes-dev](https://github.com/vanessagomes-dev) | Vanessa Gomes |  |  | Praia Grande-SP | 53 |
+| 15 | [GabrielJalmeida](https://github.com/GabrielJalmeida) | Gabriel Almeida |  |  | Praia Grande | 74 |
+| 16 | [emimuniz](https://github.com/emimuniz) | Emillyn Muniz  |  |  | Praia Grande - SP  | 73 |
+| 17 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros |  |  | Praia, Cabo Verde | 58 |
+| 18 | [KaiqueLusvarghi](https://github.com/KaiqueLusvarghi) | Kaique Ortolani Lusvarghi | Fatec-PG |  | Praia Grande -SP | 58 |
+| 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo |  |  | Praia de Jatobá, SE - Brasil | 58 |
+| 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares |  |  | Cape Verde | 53 |

@@ -20,18 +20,18 @@ Indexed users: 475
 | 6 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 3,998 |
 | 7 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | Namibia | 3,679 |
 | 8 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Namibia, Windhoek | 2,498 |
-| 9 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,317 |
-| 10 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,183 |
-| 11 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 2,042 |
-| 12 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,961 |
-| 13 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 1,857 |
-| 14 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,746 |
-| 15 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Windhoek, Namibia | 1,503 |
-| 16 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 1,400 |
-| 17 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 1,305 |
-| 18 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 1,290 |
-| 19 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 1,289 |
-| 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 1,143 |
+| 9 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 2,411 |
+| 10 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,317 |
+| 11 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,183 |
+| 12 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 2,042 |
+| 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,961 |
+| 14 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 1,857 |
+| 15 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,746 |
+| 16 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Windhoek, Namibia | 1,503 |
+| 17 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 1,400 |
+| 18 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 1,305 |
+| 19 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 1,290 |
+| 20 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 1,289 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [rigred](https://github.com/rigred) | Rigo Reddig | Namibia | 34 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:37.349Z

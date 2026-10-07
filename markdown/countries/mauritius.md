@@ -1,6 +1,6 @@
 # Mauritius
 
-Indexed users: 724
+Indexed users: 723
 
 | Leaderboard | Link |
 |---|---|
@@ -46,17 +46,17 @@ Indexed users: 724
 | 7 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,330 |
 | 8 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,203 |
 | 9 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 1,196 |
-| 10 | [yso81](https://github.com/yso81) | yso* | Mauritius | 1,139 |
-| 11 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,018 |
-| 12 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 830 |
-| 13 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Quatre Bornes, Mauritius | 816 |
-| 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 709 |
-| 15 | [Masryeen](https://github.com/Masryeen) | Alexander Contreras | Port Jacob, Mauritius | 677 |
-| 16 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 655 |
-| 17 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 628 |
-| 18 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 604 |
-| 19 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 568 |
-| 20 | [iamevanss](https://github.com/iamevanss) | ㅤ༺ㅤꜱᴛᴀɪɴㅤ༻ㅤ | Port Louis Mauritius  | 549 |
+| 10 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,018 |
+| 11 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 830 |
+| 12 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Quatre Bornes, Mauritius | 816 |
+| 13 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 709 |
+| 14 | [Masryeen](https://github.com/Masryeen) | Alexander Contreras | Port Jacob, Mauritius | 677 |
+| 15 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 655 |
+| 16 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 628 |
+| 17 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 604 |
+| 18 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 568 |
+| 19 | [iamevanss](https://github.com/iamevanss) | ㅤ༺ㅤꜱᴛᴀɪɴㅤ༻ㅤ | Port Louis Mauritius  | 549 |
+| 20 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | Mauritius | 502 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 724
 | 19 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | Mauritius | 73 |
 | 20 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 73 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:27:16.848Z

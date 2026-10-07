@@ -1,6 +1,6 @@
 # Public Contributions - Antigua and Barbuda
 
-Generated: 2026-09-29T06:06:30.929Z
+Generated: 2026-10-07T06:48:14.971Z
 
 Users: 12
 
@@ -8,8 +8,8 @@ Users: 12
 |---:|---|---|---|---|---|---:|
 | 1 | [TZF-365](https://github.com/TZF-365) | Technologically Zealous Family | Technologically Zealous Family |  | Antigua and Barbuda | 22 |
 | 2 | [autumnToT](https://github.com/autumnToT) | Autumn M. Charles |  |  | Antigua and Barbuda | 17 |
-| 3 | [KrutkoVitaliy](https://github.com/KrutkoVitaliy) | Vitalii Krutko | @Lands-of-clans  |  | Antigua and Barbuda | 14 |
-| 4 | [Dark-St-r](https://github.com/Dark-St-r) | Shemar Aundrey Abel |  | Dark_St_r | Antigua and Barbuda | 13 |
+| 3 | [Dark-St-r](https://github.com/Dark-St-r) | Shemar Aundrey Abel |  | Dark_St_r | Antigua and Barbuda | 15 |
+| 4 | [KrutkoVitaliy](https://github.com/KrutkoVitaliy) | Vitalii Krutko | @Lands-of-clans  |  | Antigua and Barbuda | 14 |
 | 5 | [danausx](https://github.com/danausx) | Denis Sandalini | Monarch Technologies |  | Antigua and Barbuda | 2 |
 | 6 | [dadlian](https://github.com/dadlian) | Sven James | TickeTing Inc. |  | Antigua and Barbuda | 1 |
 | 7 | [lerontonge](https://github.com/lerontonge) | Leron T | \\ | UnderpaidDev | Antigua and Barbuda | 1 |

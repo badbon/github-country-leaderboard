@@ -1,6 +1,6 @@
 # Followers - Nicaragua
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:53.456Z
 
 Users: 1400
 
@@ -22,7 +22,7 @@ Users: 1400
 | 14 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez |  |  | Managua, Nicaragua | 79 |
 | 15 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Freelance |  | Estelí, Nicaragua | 77 |
 | 16 | [JezerM](https://github.com/JezerM) | Jezer Mejía |  |  | Nicaragua | 77 |
-| 17 | [neydroid](https://github.com/neydroid) | José Ney Guerrero |  |  | Managua, Nicaragua | 70 |
-| 18 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia |  | luismejiadev | Managua, Nicaragua | 68 |
-| 19 | [l3onte](https://github.com/l3onte) | Leonte Canales |  |  | Nicaragua | 61 |
-| 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay |  | dannygaray60 | Nicaragua | 60 |
+| 17 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza |  | 14BryanEspinoza | Nicaragua | 73 |
+| 18 | [neydroid](https://github.com/neydroid) | José Ney Guerrero |  |  | Managua, Nicaragua | 70 |
+| 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia |  | luismejiadev | Managua, Nicaragua | 68 |
+| 20 | [l3onte](https://github.com/l3onte) | Leonte Canales |  |  | Nicaragua | 61 |

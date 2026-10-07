@@ -1,6 +1,6 @@
 # Total Contributions - Monaco
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:27:56.304Z
 
 Users: 142
 
@@ -15,13 +15,13 @@ Users: 142
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx |  |  | Monaco | 895 |
 | 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 823 |
 | 9 | [tatianamc](https://github.com/tatianamc) | Tatiana |  |  | Monaco | 659 |
-| 10 | [linux-ur](https://github.com/linux-ur) | Linux.user | xmx |  | Monaco | 637 |
-| 11 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 617 |
-| 12 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 591 |
-| 13 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Forexizer | matteodevenuto | Monaco | 531 |
-| 14 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 491 |
-| 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 479 |
-| 16 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monte-Carlo Computing |  | Monaco | 471 |
+| 10 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 624 |
+| 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 591 |
+| 12 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Forexizer | matteodevenuto | Monaco | 531 |
+| 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 491 |
+| 14 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 479 |
+| 15 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monte-Carlo Computing |  | Monaco | 471 |
+| 16 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Scribelia |  | Monaco | 315 |
 | 17 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 273 |
 | 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Université Nice Côte D'Azur |  | Monaco  | 267 |
 | 19 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO |  |  | Monaco | 223 |

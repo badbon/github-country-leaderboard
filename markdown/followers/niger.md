@@ -1,6 +1,6 @@
 # Followers - Niger
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:29:20.021Z
 
 Users: 177
 
@@ -23,6 +23,6 @@ Users: 177
 | 15 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Globalelectronic  |  | Niger Niamey  | 20 |
 | 16 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 19 |
 | 17 | [Richouf95](https://github.com/Richouf95) | Abdoulaye Wouri Chouf | Sahel Coders | wourichouf | Niamey | 19 |
-| 18 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 18 |
+| 18 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 18 |
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Webb Fontaine |  | Niamey | 17 |
-| 20 | [mocy111](https://github.com/mocy111) | Moctar Yonli | @Kamamini  | moctar_yonli | Niamey | 17 |
+| 20 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 17 |

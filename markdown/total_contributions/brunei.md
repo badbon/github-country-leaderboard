@@ -1,6 +1,6 @@
 # Total Contributions - Brunei
 
-Generated: 2026-09-30T13:16:45.736Z
+Generated: 2026-10-07T06:50:23.361Z
 
 Users: 256
 
@@ -10,7 +10,7 @@ Users: 256
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Deltice Technology |  | Brunei | 2737 |
 | 3 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 1977 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan |  |  | Brunei | 1542 |
-| 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi |  |  | Brunei | 1413 |
+| 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi |  |  | Brunei | 1202 |
 | 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Datastream Digital (DST)  |  | Brunei Darussalam | 1168 |
 | 7 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning |  |  | Brunei Darussalam | 1090 |
 | 8 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | DST |  | Brunei | 1064 |

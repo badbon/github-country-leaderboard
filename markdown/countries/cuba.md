@@ -1,6 +1,6 @@
 # Cuba
 
-Indexed users: 1,297
+Indexed users: 1,298
 
 | Leaderboard | Link |
 |---|---|
@@ -46,17 +46,17 @@ Indexed users: 1,297
 | 7 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 1,727 |
 | 8 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Cuba | 1,612 |
 | 9 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 1,572 |
-| 10 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 1,418 |
-| 11 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez | Cuba | 1,412 |
-| 12 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | La Habana, Cuba | 992 |
-| 13 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 985 |
-| 14 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez | Cárdenas, Matanzas, Cuba | 965 |
-| 15 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | Cuba | 781 |
-| 16 | [teby00](https://github.com/teby00) | Esteban Daniel Rodríguez Martín  | Ciego de Ávila, Cuba | 720 |
-| 17 | [VictorHerdz10](https://github.com/VictorHerdz10) | Victor Hernández Salcedo | La Habana, Cuba. | 699 |
-| 18 | [kevsantamaria](https://github.com/kevsantamaria) | Kevin Santamaria  | Matanzas, Cuba | 656 |
-| 19 | [ypvaldivia88](https://github.com/ypvaldivia88) | Yasmani Palmero Valdivia | Sancti Spiritus, Cuba | 647 |
-| 20 | [yllada](https://github.com/yllada) | Yadian Llada Lopez | Ciego de Ávila, cuba | 620 |
+| 10 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,463 |
+| 11 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 1,418 |
+| 12 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez | Cuba | 1,412 |
+| 13 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | La Habana, Cuba | 992 |
+| 14 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 985 |
+| 15 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez | Cárdenas, Matanzas, Cuba | 965 |
+| 16 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | Cuba | 781 |
+| 17 | [teby00](https://github.com/teby00) | Esteban Daniel Rodríguez Martín  | Ciego de Ávila, Cuba | 720 |
+| 18 | [VictorHerdz10](https://github.com/VictorHerdz10) | Victor Hernández Salcedo | La Habana, Cuba. | 699 |
+| 19 | [kevsantamaria](https://github.com/kevsantamaria) | Kevin Santamaria  | Matanzas, Cuba | 656 |
+| 20 | [ypvaldivia88](https://github.com/ypvaldivia88) | Yasmani Palmero Valdivia | Sancti Spiritus, Cuba | 647 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,297
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 69 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 68 |
 
-Generated: 2026-10-01T14:38:34.675Z
+Generated: 2026-10-07T06:37:09.898Z

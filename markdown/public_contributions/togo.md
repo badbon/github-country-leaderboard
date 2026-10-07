@@ -1,6 +1,6 @@
 # Public Contributions - Togo
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:40:18.922Z
 
 Users: 693
 
@@ -12,8 +12,8 @@ Users: 693
 | 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  |  |  | lomé-TOGO | 2370 |
 | 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | theconnectstudio |  | Lome -TOGO | 2338 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | @GYFX35 |  | Togo | 2148 |
-| 7 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | KORYXA |  | Lome, Togo | 1572 |
-| 8 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | AET Technology |  | Togo | 1442 |
+| 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | AET Technology |  | Togo | 1847 |
+| 8 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | KORYXA |  | Lome, Togo | 1572 |
 | 9 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Digital-Keys |  | Lomé | 1382 |
 | 10 | [henocn](https://github.com/henocn) | Henoc N'GASAMA |  |  | Kara, Togo | 1308 |
 | 11 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve |  |  | Togo-Lomé  | 1194 |

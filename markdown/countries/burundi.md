@@ -1,6 +1,6 @@
 # Burundi
 
-Indexed users: 238
+Indexed users: 237
 
 | Leaderboard | Link |
 |---|---|
@@ -26,7 +26,7 @@ Indexed users: 238
 | 12 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,202 |
 | 13 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,201 |
 | 14 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,177 |
-| 15 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,102 |
+| 15 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,108 |
 | 16 | [NIMPAYE](https://github.com/NIMPAYE) | christian belly NIMPAYE | Burundi | 1,029 |
 | 17 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 1,005 |
 | 18 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 1,002 |
@@ -48,15 +48,15 @@ Indexed users: 238
 | 9 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | burundi | 304 |
 | 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 287 |
 | 11 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 269 |
-| 12 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 216 |
-| 13 | [TonyBimenyi](https://github.com/TonyBimenyi) |  | Bujumbura, Burundi | 185 |
-| 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 160 |
-| 15 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 154 |
-| 16 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY | Burundi/Bujumbura | 153 |
+| 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY | Burundi/Bujumbura | 220 |
+| 13 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 216 |
+| 14 | [TonyBimenyi](https://github.com/TonyBimenyi) |  | Bujumbura, Burundi | 185 |
+| 15 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 159 |
+| 16 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 154 |
 | 17 | [kaebalsaebal](https://github.com/kaebalsaebal) | kaebalsaebal | Burundi | 143 |
 | 18 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Burundi | 134 |
 | 19 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | Burundi | 118 |
-| 20 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | Burundi | 112 |
+| 20 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | Burundi | 116 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 238
 | 19 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 36 |
 | 20 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 36 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:50:50.317Z

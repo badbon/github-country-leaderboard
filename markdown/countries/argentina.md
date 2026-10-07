@@ -1,6 +1,6 @@
 # Argentina
 
-Indexed users: 50,694
+Indexed users: 50,758
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 50,694
 | 19 | [dacap](https://github.com/dacap) | David Capello | Argentina | 1,004 |
 | 20 | [andresriancho](https://github.com/andresriancho) | Andres Riancho | Buenos Aires, Argentina | 1,001 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:48:18.338Z

@@ -1,6 +1,6 @@
 # Followers - Andorra
 
-Generated: 2026-09-28T23:41:16.295Z
+Generated: 2026-10-07T06:48:01.978Z
 
 Users: 215
 
@@ -15,9 +15,9 @@ Users: 215
 | 7 | [matchilling](https://github.com/matchilling) | Matías J. Schilling | @chucknorris-io @tronalddump-io @bojo-ai @dogfooding @klarna @EqualExperts @jugendstil-io @NewStore  | matchilling | Andorra | 128 |
 | 8 | [JMariadlcs](https://github.com/JMariadlcs) | Jose María de la Cruz | Carlos III Madrid - RWTH Aachen University  | 0xjmaria | Andorra | 115 |
 | 9 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 108 |
-| 10 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Quasar Store |  | Andorra, Principality of Andorra | 104 |
-| 11 | [alexenc](https://github.com/alexenc) | Alex Encinas |  |  | Andorra | 103 |
-| 12 | [damarnez](https://github.com/damarnez) | Dani Martin Jimenez | https://tanukilabs.xyz/ |  | Andorra | 103 |
+| 10 | [alexenc](https://github.com/alexenc) | Alex Encinas |  |  | Andorra | 103 |
+| 11 | [damarnez](https://github.com/damarnez) | Dani Martin Jimenez | https://tanukilabs.xyz/ |  | Andorra | 103 |
+| 12 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Quasar Store |  | Andorra, Principality of Andorra | 102 |
 | 13 | [facundomedica](https://github.com/facundomedica) | Facundo Medica |  | facundomedica | Andorra | 93 |
 | 14 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 92 |
 | 15 | [XaviTorello](https://github.com/XaviTorello) | Xavi Torelló |  |  | Andorra | 92 |

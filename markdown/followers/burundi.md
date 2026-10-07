@@ -1,8 +1,8 @@
 # Followers - Burundi
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:50:50.317Z
 
-Users: 238
+Users: 237
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

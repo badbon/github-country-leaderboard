@@ -1,6 +1,6 @@
 # Montenegro
 
-Indexed users: 911
+Indexed users: 909
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 911
 | 19 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perišić | Podgorica, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 86 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:03.162Z

@@ -1,6 +1,6 @@
 # Followers - Barbados
 
-Generated: 2026-09-29T13:10:57.798Z
+Generated: 2026-10-07T06:49:07.691Z
 
 Users: 132
 
@@ -16,11 +16,11 @@ Users: 132
 | 8 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 31 |
 | 9 | [fibini](https://github.com/fibini) | Fabien Brathwaite |  | Onenewpage1 | Barbados | 24 |
 | 10 | [JL-ALPHA](https://github.com/JL-ALPHA) | Jermaine LUCΛS |  |  | Barbados | 21 |
-| 11 | [pauly277](https://github.com/pauly277) | Paul Doyle | Pride & Purity | PaulyD277 | Barbados | 21 |
-| 12 | [intricate](https://github.com/intricate) | Luke | @MercuryTechnologies |  | Barbados | 20 |
+| 11 | [intricate](https://github.com/intricate) | Luke | @MercuryTechnologies |  | Barbados | 20 |
+| 12 | [pauly277](https://github.com/pauly277) | Paul Doyle | Pride & Purity | PaulyD277 | Barbados | 20 |
 | 13 | [EnSabanNur](https://github.com/EnSabanNur) | Ben Clark | @smithai  |  | Christ Church, Barbados | 18 |
 | 14 | [jasonals](https://github.com/jasonals) | Jason Als | @mMoneyBB |  | Barbados | 18 |
-| 15 | [mr-emreerturk](https://github.com/mr-emreerturk) | Emre Ertürk | EMF | mr_emreerturk | Bridgetown, Barbados | 18 |
+| 15 | [mr-emreerturk](https://github.com/mr-emreerturk) | Emre Ertürk | EMF | mr_emreerturk | Bridgetown, Barbados | 17 |
 | 16 | [angustatchell](https://github.com/angustatchell) | Angus Tatchell | @halotrade @chattan-co @sportsfix-co |  | Christ Church, Barbados | 15 |
 | 17 | [stojan211287](https://github.com/stojan211287) | Stan Jardani |  |  | Barbados | 14 |
 | 18 | [cgoodridge](https://github.com/cgoodridge) |  |  |  | Barbados | 12 |

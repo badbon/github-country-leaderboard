@@ -1,6 +1,6 @@
 # Followers - Réunion
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:34:29.381Z
 
 Users: 215
 
@@ -16,13 +16,13 @@ Users: 215
 | 8 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 45 |
 | 9 | [theo-futol](https://github.com/theo-futol) | Théo Futol |  |  | Saint-Denis, Réunion | 33 |
 | 10 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet |  | fabricepayetfr | Reunion Island | 30 |
-| 11 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Ynov Paris Campus  |  | Seine-Saint-Denis | 28 |
-| 12 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | PistahX |  | reunion island (FR) | 28 |
-| 13 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel |  |  | Seine-Saint-Denis | 26 |
-| 14 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | @forkparty  | zourite | Reunion Island | 24 |
-| 15 | [0x346e3730](https://github.com/0x346e3730) | Antonin CLAUZIER | @clauzier-dev  | 0x346e3730 | Saint-Denis, Reunion Island | 23 |
-| 16 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Université de La Réunion |  | Saint Denis, La Réunion  | 23 |
-| 17 | [julien-lav](https://github.com/julien-lav) | julien-lav |  |  | Saint-Denis | 21 |
-| 18 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien |  |  | Réunion | 20 |
-| 19 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 20 |
-| 20 | [D3nX](https://github.com/D3nX) | Denis | DreamVeloper | d3nx_fr | Saint-Denis, Réunion | 19 |
+| 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 28 |
+| 12 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Ynov Paris Campus  |  | Seine-Saint-Denis | 28 |
+| 13 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | PistahX |  | reunion island (FR) | 28 |
+| 14 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel |  |  | Seine-Saint-Denis | 26 |
+| 15 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | @forkparty  | zourite | Reunion Island | 24 |
+| 16 | [0x346e3730](https://github.com/0x346e3730) | Antonin CLAUZIER | @clauzier-dev  | 0x346e3730 | Saint-Denis, Reunion Island | 23 |
+| 17 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Université de La Réunion |  | Saint Denis, La Réunion  | 23 |
+| 18 | [julien-lav](https://github.com/julien-lav) | julien-lav |  |  | Saint-Denis | 21 |
+| 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien |  |  | Réunion | 20 |
+| 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 20 |

@@ -1,8 +1,8 @@
 # Followers - Armenia
 
-Generated: 2026-09-29T13:07:26.970Z
+Generated: 2026-10-07T06:48:24.290Z
 
-Users: 4052
+Users: 4050
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 4052
 | 17 | [ivbeg](https://github.com/ivbeg) | Ivan Begtin | APICrafter, NGO "Informational Culture" @infoculture ,  Open Data Armenia, OKFN Russia | ibegtin | Armenia | 332 |
 | 18 | [igrishaev](https://github.com/igrishaev) | Ivan Grishaev | Vast fintech |  | Armenia | 254 |
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan |  |  | Yerevan, Armenia | 249 |
-| 20 | [maendooh](https://github.com/maendooh) | Ruben Tadevosian |  |  | Armenia | 242 |
+| 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan |  |  | Yerevan, Armenia | 236 |

@@ -1,6 +1,6 @@
 # South Sudan
 
-Indexed users: 137
+Indexed users: 135
 
 | Leaderboard | Link |
 |---|---|
@@ -12,10 +12,10 @@ Indexed users: 137
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,738 |
-| 2 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 3,704 |
-| 3 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 3,342 |
-| 4 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 2,956 |
+| 1 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
+| 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 4,757 |
+| 3 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 3,704 |
+| 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,502 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 1,012 |
 | 6 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 799 |
 | 7 | [wellawet](https://github.com/wellawet) | Wella Awet | South Sudan | 705 |
@@ -37,9 +37,9 @@ Indexed users: 137
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,738 |
-| 2 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 3,342 |
-| 3 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 2,263 |
+| 1 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
+| 2 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,502 |
+| 3 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 3,470 |
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 1,071 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 588 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 545 |
@@ -80,7 +80,7 @@ Indexed users: 137
 | 16 | [PiengBol](https://github.com/PiengBol) | Pieng Bol | Juba, South Sudan | 19 |
 | 17 | [Ariik20](https://github.com/Ariik20) | Reegan Arick | Juba | 18 |
 | 18 | [cholkany](https://github.com/cholkany) | Digital | South Sudan | 18 |
-| 19 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 17 |
-| 20 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
+| 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
+| 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:39:05.397Z

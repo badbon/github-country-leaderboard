@@ -1,6 +1,6 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:42:29.678Z
 
 Users: 5623
 
@@ -20,9 +20,9 @@ Users: 5623
 | 12 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Iora Labs |  | Uruguay | 8205 |
 | 13 | [Tombar](https://github.com/Tombar) | Martin Loy | Undermountain Coding Company | martinloy | Montevideo, Uruguay | 7600 |
 | 14 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | @NeoCoast  |  | Montevideo, Uruguay | 7198 |
-| 15 | [machester4](https://github.com/machester4) | Michael Pintos |  |  | Uruguay | 6870 |
-| 16 | [gfolga](https://github.com/gfolga) | Gustavo Folga | Sticky.io |  | Montevideo, Uruguay | 6632 |
-| 17 | [feconroses](https://github.com/feconroses) | Federico Pascual |  | federicopascual | Punta Ballena, Uruguay | 6547 |
-| 18 | [maxtechera](https://github.com/maxtechera) | Max Techera | AnswerAI |  | Montevideo, Uruguay | 6405 |
-| 19 | [renerpdev](https://github.com/renerpdev) | René Ricardo |  |  | Uruguay | 6240 |
-| 20 | [manufarfaro](https://github.com/manufarfaro) | Manu Farfaro |  | manufarfaro | Colonia del Sacramento, Uruguay | 6101 |
+| 15 | [damian-buho](https://github.com/damian-buho) | Damián Búho |  |  | Uruguay | 6976 |
+| 16 | [machester4](https://github.com/machester4) | Michael Pintos |  |  | Uruguay | 6870 |
+| 17 | [gfolga](https://github.com/gfolga) | Gustavo Folga | Sticky.io |  | Montevideo, Uruguay | 6632 |
+| 18 | [feconroses](https://github.com/feconroses) | Federico Pascual |  | federicopascual | Punta Ballena, Uruguay | 6547 |
+| 19 | [maxtechera](https://github.com/maxtechera) | Max Techera | AnswerAI |  | Montevideo, Uruguay | 6405 |
+| 20 | [renerpdev](https://github.com/renerpdev) | René Ricardo |  |  | Uruguay | 6240 |

@@ -1,12 +1,12 @@
 # Followers - Bhutan
 
-Generated: 2026-09-29T22:32:30.130Z
+Generated: 2026-10-07T06:49:45.884Z
 
-Users: 270
+Users: 269
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | @selisegroup | __kinleyrabgay | Thimphu, Bhutan | 146 |
+| 1 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | @selisegroup | __kinleyrabgay | Thimphu, Bhutan | 145 |
 | 2 | [tsheringdendup77](https://github.com/tsheringdendup77) | Tshering Dendup | Selise Bhutan | TsherinDendup77 | Thimphu, Bhutan | 101 |
 | 3 | [tashi-yangchen](https://github.com/tashi-yangchen) | Tashi Yangchen | Jigme Namgyel Engineering College |  | Dewangiri, Samdrup Jongkhar, Bhutan | 62 |
 | 4 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 45 |
@@ -25,4 +25,4 @@ Users: 270
 | 17 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Remo Digital |  | Thimphu | 23 |
 | 18 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi |  |  | Thimphu, Bhutan | 22 |
 | 19 | [EshanB101](https://github.com/EshanB101) | Eshan Basnet | Selise Bhutan |  | Thimphu, Bhutan | 22 |
-| 20 | [cybertronbaka](https://github.com/cybertronbaka) | Dorji Gyeltshen |  |  | Thimphu, Bhutan | 21 |
+| 20 | [yesheytenzin](https://github.com/yesheytenzin) | tenz |  | tenzyeshey | Thimphu, Bhutan | 22 |

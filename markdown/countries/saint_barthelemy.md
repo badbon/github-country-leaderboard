@@ -1,6 +1,6 @@
 # Saint Barthélemy
 
-Indexed users: 2
+Indexed users: 1
 
 | Leaderboard | Link |
 |---|---|
@@ -12,21 +12,18 @@ Indexed users: 2
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Moxxie-12](https://github.com/Moxxie-12) | Moxxie | Saint Barthélemy | 42 |
-| 2 | [paforson](https://github.com/paforson) | Andrew Forson | St. Barthelemy | 0 |
+| 1 | [paforson](https://github.com/paforson) | Andrew Forson | St. Barthelemy | 3 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Moxxie-12](https://github.com/Moxxie-12) | Moxxie | Saint Barthélemy | 0 |
-| 2 | [paforson](https://github.com/paforson) | Andrew Forson | St. Barthelemy | 0 |
+| 1 | [paforson](https://github.com/paforson) | Andrew Forson | St. Barthelemy | 0 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Moxxie-12](https://github.com/Moxxie-12) | Moxxie | Saint Barthélemy | 2 |
-| 2 | [paforson](https://github.com/paforson) | Andrew Forson | St. Barthelemy | 1 |
+| 1 | [paforson](https://github.com/paforson) | Andrew Forson | St. Barthelemy | 1 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:35:40.501Z

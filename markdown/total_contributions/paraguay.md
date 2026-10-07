@@ -1,8 +1,8 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:31:48.696Z
 
-Users: 2029
+Users: 2028
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 2029
 | 8 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 5424 |
 | 9 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 5261 |
 | 10 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 4941 |
-| 11 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 4318 |
-| 12 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 4243 |
-| 13 | [eeeds](https://github.com/eeeds) | Esteban Encina |  |  | Paraguay | 4218 |
-| 14 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4082 |
-| 15 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 4017 |
-| 16 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla |  |  | Asuncion, Paraguay | 3987 |
-| 17 | [diegobugs](https://github.com/diegobugs) | Diego |  | diegobugs | Hohenau, Paraguay | 3868 |
-| 18 | [devsart95](https://github.com/devsart95) | S4R |  |  | Paraguay | 3849 |
-| 19 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza |  |  | Encarnacíon, Itapúa, Paraguay | 3812 |
-| 20 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares |  |  | Paraguay | 3712 |
+| 11 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 4332 |
+| 12 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 4318 |
+| 13 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 4243 |
+| 14 | [eeeds](https://github.com/eeeds) | Esteban Encina |  |  | Paraguay | 4218 |
+| 15 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4082 |
+| 16 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 4017 |
+| 17 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla |  |  | Asuncion, Paraguay | 3987 |
+| 18 | [diegobugs](https://github.com/diegobugs) | Diego |  | diegobugs | Hohenau, Paraguay | 3868 |
+| 19 | [devsart95](https://github.com/devsart95) | S4R |  |  | Paraguay | 3849 |
+| 20 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza |  |  | Encarnacíon, Itapúa, Paraguay | 3812 |

@@ -1,13 +1,13 @@
 # Followers - Åland Islands
 
-Generated: 2026-09-28T14:14:53.878Z
+Generated: 2026-10-07T06:46:49.946Z
 
 Users: 61
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh |  |  | Mariehamn, Åland | 614 |
-| 2 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 522 |
+| 2 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 533 |
 | 3 | [Ramona-Ekanayake](https://github.com/Ramona-Ekanayake) | Ramona Ekanayake | grit:lab | Ramzy_dev | Åland Islands | 54 |
 | 4 | [jesjos](https://github.com/jesjos) | Jesper Josefsson |  |  | Mariehamn, Åland | 28 |
 | 5 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 25 |
@@ -15,10 +15,10 @@ Users: 61
 | 7 | [tvntvn13](https://github.com/tvntvn13) | Taneli Mäkihannu | @pafcloud |  | Mariehamn, Åland Islands | 21 |
 | 8 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh |  |  | Mariehamn, Åland islands | 19 |
 | 9 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland University of Applied Sciences |  | Åland Islands | 18 |
-| 10 | [cenk-idris](https://github.com/cenk-idris) | Cenk İdris İncirkuş | grit:lab |  | Åland Islands, Finland | 16 |
-| 11 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 16 |
+| 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 18 |
+| 11 | [cenk-idris](https://github.com/cenk-idris) | Cenk İdris İncirkuş | grit:lab |  | Åland Islands, Finland | 16 |
 | 12 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen |  |  | Aland Islands | 15 |
-| 13 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam |  |  | Mariehamn, Åland | 14 |
+| 13 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam |  |  | Mariehamn, Åland | 15 |
 | 14 | [sailordi](https://github.com/sailordi) | Sailordi |  |  | Mariehamn Finland | 14 |
 | 15 | [giAddams](https://github.com/giAddams) | Geraldine Addamo |  |  | Mariehamn | 13 |
 | 16 | [pophaax](https://github.com/pophaax) | Åland Sailing Robots | Åland University of Applied Sciences |  | Åland Islands (FIN) | 12 |

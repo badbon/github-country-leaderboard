@@ -1,6 +1,6 @@
 # Paraguay
 
-Indexed users: 2,029
+Indexed users: 2,028
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 2,029
 | 8 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 5,424 |
 | 9 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 5,261 |
 | 10 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 4,941 |
-| 11 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 4,318 |
-| 12 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 4,243 |
-| 13 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
-| 14 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,082 |
-| 15 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 4,017 |
-| 16 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla | Asuncion, Paraguay | 3,987 |
-| 17 | [diegobugs](https://github.com/diegobugs) | Diego | Hohenau, Paraguay | 3,868 |
-| 18 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 3,849 |
-| 19 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza | Encarnacíon, Itapúa, Paraguay | 3,812 |
-| 20 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 3,712 |
+| 11 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 4,332 |
+| 12 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 4,318 |
+| 13 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 4,243 |
+| 14 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
+| 15 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,082 |
+| 16 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 4,017 |
+| 17 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla | Asuncion, Paraguay | 3,987 |
+| 18 | [diegobugs](https://github.com/diegobugs) | Diego | Hohenau, Paraguay | 3,868 |
+| 19 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 3,849 |
+| 20 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza | Encarnacíon, Itapúa, Paraguay | 3,812 |
 
 ## Public Contributions
 
@@ -41,7 +41,7 @@ Indexed users: 2,029
 | 2 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
 | 3 | [IvanWeissVanDerPol](https://github.com/IvanWeissVanDerPol) | Ivan Weiss Van Der Pol | paraguay | 2,948 |
 | 4 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 2,806 |
-| 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 1,938 |
+| 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 2,181 |
 | 6 | [DaltonP93](https://github.com/DaltonP93) | Dalton Perez | Paraguay | 1,602 |
 | 7 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,512 |
 | 8 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,383 |
@@ -73,14 +73,14 @@ Indexed users: 2,029
 | 9 | [nemesiscodex](https://github.com/nemesiscodex) | Julio Daniel Reyes | Paraguay | 213 |
 | 10 | [prolic](https://github.com/prolic) | Sascha-Oliver Prolić | Paraguay | 197 |
 | 11 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | Asunción, Paraguay | 183 |
-| 12 | [garyservin](https://github.com/garyservin) | Gary Servin | Asunción - Paraguay | 154 |
-| 13 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Asunción, Paraguay | 148 |
-| 14 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 140 |
-| 15 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 139 |
+| 12 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 181 |
+| 13 | [garyservin](https://github.com/garyservin) | Gary Servin | Asunción - Paraguay | 154 |
+| 14 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Asunción, Paraguay | 148 |
+| 15 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 140 |
 | 16 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  | Paraguay | 134 |
 | 17 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | Fernando de la Mora, Central, Paraguay | 130 |
 | 18 | [leodufer](https://github.com/leodufer) | Oscar Duarte | Ciudad del Este,  Paraguay | 118 |
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:31:48.696Z

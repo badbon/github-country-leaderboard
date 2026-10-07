@@ -1,6 +1,6 @@
 # Bahamas
 
-Indexed users: 239
+Indexed users: 240
 
 | Leaderboard | Link |
 |---|---|
@@ -19,14 +19,14 @@ Indexed users: 239
 | 5 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 1,958 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 1,836 |
 | 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,632 |
-| 8 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 1,555 |
-| 9 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 1,328 |
-| 10 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
+| 8 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 1,328 |
+| 9 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
+| 10 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 1,005 |
 | 11 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 946 |
-| 12 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 918 |
-| 13 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 843 |
-| 14 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 802 |
-| 15 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 787 |
+| 12 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 843 |
+| 13 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 802 |
+| 14 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 787 |
+| 15 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 786 |
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 566 |
 | 17 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 500 |
 | 18 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 386 |
@@ -37,7 +37,7 @@ Indexed users: 239
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 1,351 |
+| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 1,005 |
 | 2 | [kiarashplusplus](https://github.com/kiarashplusplus) | Kiarash Adl | Nassau Bay, Texas | 792 |
 | 3 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 386 |
 | 4 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 272 |
@@ -52,10 +52,10 @@ Indexed users: 239
 | 13 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 87 |
 | 14 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 84 |
 | 15 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 84 |
-| 16 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 60 |
-| 17 | [EnochThurston42](https://github.com/EnochThurston42) | Enoch Thurston | Nassau, Bahamas | 59 |
-| 18 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 55 |
-| 19 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 55 |
+| 16 | [EnochThurston42](https://github.com/EnochThurston42) | Enoch Thurston | Nassau, Bahamas | 59 |
+| 17 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 59 |
+| 18 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 57 |
+| 19 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 55 |
 | 20 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 46 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 239
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 13 |
 
-Generated: 2026-09-29T13:08:20.890Z
+Generated: 2026-10-07T06:48:58.112Z

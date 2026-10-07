@@ -51,10 +51,10 @@ Indexed users: 257
 | 12 | [JadeOfMaar](https://github.com/JadeOfMaar) | JadeOfMaar | Trinidad and Tobago | 416 |
 | 13 | [Somi-Project](https://github.com/Somi-Project) | Somi | Trinidad And Tobago | 363 |
 | 14 | [IshikaGopie](https://github.com/IshikaGopie) | Ishika_Gopie | Trinidad and Tobago | 290 |
-| 15 | [Trasmonaut](https://github.com/Trasmonaut) | Trasmonaut | Trinidad and Tobago | 280 |
-| 16 | [rezziemaven](https://github.com/rezziemaven) | Sherezz Grant | Trinidad and Tobago | 262 |
-| 17 | [0xNick404](https://github.com/0xNick404) | Nicholas Grimes | Trinidad and Tobago | 253 |
-| 18 | [J4m331](https://github.com/J4m331) | Jameel Ali | Trinidad and Tobago | 233 |
+| 15 | [rezziemaven](https://github.com/rezziemaven) | Sherezz Grant | Trinidad and Tobago | 262 |
+| 16 | [0xNick404](https://github.com/0xNick404) | Nicholas Grimes | Trinidad and Tobago | 250 |
+| 17 | [J4m331](https://github.com/J4m331) | Jameel Ali | Trinidad and Tobago | 233 |
+| 18 | [Trasmonaut](https://github.com/Trasmonaut) | Trasmonaut | Trinidad and Tobago | 193 |
 | 19 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Trinidad and Tobago | 161 |
 | 20 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia | Trinidad and Tobago | 159 |
 
@@ -71,7 +71,7 @@ Indexed users: 257
 | 7 | [ArmstrongSubero](https://github.com/ArmstrongSubero) | Armstrong Subero | Moruga, Trinidad and Tobago | 65 |
 | 8 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 63 |
 | 9 | [foohyfooh](https://github.com/foohyfooh) | Jonathan Herbert | Trinidad and Tobago | 61 |
-| 10 | [premarafael108-jpg](https://github.com/premarafael108-jpg) | Anahata.Agent | Trinidad and tobago | 53 |
+| 10 | [premarafael108-jpg](https://github.com/premarafael108-jpg) | Anahata.Agent | Trinidad and tobago | 57 |
 | 11 | [Snickdx](https://github.com/Snickdx) | Nicholas Mendez | Trinidad and Tobago | 51 |
 | 12 | [Ispirett](https://github.com/Ispirett) | Ispirett | Trinidad and Tobago | 46 |
 | 13 | [kmn5409](https://github.com/kmn5409) | Keanu Nichols | Trinidad and Tobago | 43 |
@@ -83,4 +83,4 @@ Indexed users: 257
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 28 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:40:24.392Z

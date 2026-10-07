@@ -1,22 +1,22 @@
 # Public Contributions - Botswana
 
-Generated: 2026-09-30T13:16:34.479Z
+Generated: 2026-10-07T06:50:11.807Z
 
-Users: 535
+Users: 534
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 1603 |
-| 2 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Ras Ali Labs  |  | Botswana, Gaborone | 1577 |
+| 1 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Ras Ali Labs  |  | Botswana, Gaborone | 2353 |
+| 2 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 1603 |
 | 3 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi |  |  | Gaborone | 1193 |
-| 4 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb |  |  | Botswana  | 994 |
-| 5 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Scheke Innovationhub |  | Botswana | 881 |
-| 6 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana |  |  | Gaborone, Botswana | 866 |
-| 7 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 843 |
-| 8 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Fountspark pty ltd |  | Gaborone | 665 |
-| 9 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Self-Employed |  | Gaborone Botswana | 623 |
-| 10 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa |  |  | Gaborone, Botswana | 617 |
-| 11 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Bstm |  | Botswana 🇧🇼  | 608 |
+| 4 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Bstm |  | Botswana 🇧🇼  | 1038 |
+| 5 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb |  |  | Botswana  | 994 |
+| 6 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Scheke Innovationhub |  | Botswana | 881 |
+| 7 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana |  |  | Gaborone, Botswana | 866 |
+| 8 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Self-Employed |  | Gaborone Botswana | 855 |
+| 9 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 843 |
+| 10 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Fountspark pty ltd |  | Gaborone | 665 |
+| 11 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa |  |  | Gaborone, Botswana | 617 |
 | 12 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA |  |  | Botswana 🇧🇼  | 538 |
 | 13 | [loag0](https://github.com/loag0) | Loago Moremi |  |  | Botswana | 482 |
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana International University of Science and Technology |  | Botswana | 433 |

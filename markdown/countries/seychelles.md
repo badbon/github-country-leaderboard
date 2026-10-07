@@ -46,9 +46,9 @@ Indexed users: 1,788
 | 7 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | Victoria, BC | 2,173 |
 | 8 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 1,991 |
 | 9 | [Nospamas](https://github.com/Nospamas) |  | Victoria, BC | 1,851 |
-| 10 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 1,748 |
-| 11 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,523 |
-| 12 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | Victoria BC | 1,457 |
+| 10 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | Victoria BC | 1,779 |
+| 11 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 1,748 |
+| 12 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,523 |
 | 13 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom | Victoria, BC | 1,436 |
 | 14 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,426 |
 | 15 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
@@ -76,11 +76,11 @@ Indexed users: 1,788
 | 12 | [samsonjs](https://github.com/samsonjs) | Sami Samhuri | Victoria, BC | 176 |
 | 13 | [dmgerman](https://github.com/dmgerman) | Daniel German | Victoria | 164 |
 | 14 | [leanpub](https://github.com/leanpub) | Leanpub | Victoria | 156 |
-| 15 | [Integ](https://github.com/Integ) | 姜上 | Victoria, BC | 149 |
-| 16 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | Victoria | 136 |
-| 17 | [PandaVPN](https://github.com/PandaVPN) | PandaVPN® | Seychelles | 129 |
-| 18 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
-| 19 | [mkellerman](https://github.com/mkellerman) | Marc R Kellerman | Victoria, BC | 118 |
-| 20 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 117 |
+| 15 | [NormandoRamirezDelgado](https://github.com/NormandoRamirezDelgado) | Normando Alán Ramírez Delgado | Cd. Victoria, Tamaulipas | 154 |
+| 16 | [Integ](https://github.com/Integ) | 姜上 | Victoria, BC | 149 |
+| 17 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | Victoria | 136 |
+| 18 | [PandaVPN](https://github.com/PandaVPN) | PandaVPN® | Seychelles | 129 |
+| 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
+| 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:37:54.111Z

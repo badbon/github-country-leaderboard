@@ -1,8 +1,8 @@
 # Public Contributions - Ukraine
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:41:40.840Z
 
-Users: 47774
+Users: 47770
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 47774
 | 11 | [Nuke22](https://github.com/Nuke22) | Yurii Fedoniuk |  |  | Lutsk, Ukraine | 10531 |
 | 12 | [menvil](https://github.com/menvil) | Ivan Moroz |  |  | Kharkov, Ukraine | 7454 |
 | 13 | [hantYT](https://github.com/hantYT) | SERHII MOVCHAN | wishmc |  | ukraine | 6458 |
-| 14 | [overthelex](https://github.com/overthelex) | Lexai | Lexai |  | Kyiv, Ukraine | 6312 |
-| 15 | [5HT](https://github.com/5HT) | Magnus Ericsson | @groupoid | norbuketaka | Kyiv, Ukraine | 6125 |
-| 16 | [rssh](https://github.com/rssh) | Ruslan Shevchenko |  | rssh1 | Kiev, Ukraine | 5951 |
-| 17 | [Rinary1](https://github.com/Rinary1) | Rinary | @ss14Starlight  |  | Ukraine | 5907 |
-| 18 | [ivankovnatsky](https://github.com/ivankovnatsky) | Ivan Kovnatsky |  |  | Ukraine | 5560 |
-| 19 | [dz333n](https://github.com/dz333n) | Yaroslav Kibysh |  |  | Ukraine | 5164 |
-| 20 | [AvatarSD](https://github.com/AvatarSD) | avatarsd |  |  | Ukraine, Kyiv | 4965 |
+| 14 | [5HT](https://github.com/5HT) | Magnus Ericsson | @groupoid | norbuketaka | Kyiv, Ukraine | 6125 |
+| 15 | [rssh](https://github.com/rssh) | Ruslan Shevchenko |  | rssh1 | Kiev, Ukraine | 5951 |
+| 16 | [Rinary1](https://github.com/Rinary1) | Rinary | @ss14Starlight  |  | Ukraine | 5907 |
+| 17 | [ivankovnatsky](https://github.com/ivankovnatsky) | Ivan Kovnatsky |  |  | Ukraine | 5560 |
+| 18 | [dz333n](https://github.com/dz333n) | Yaroslav Kibysh |  |  | Ukraine | 5164 |
+| 19 | [AvatarSD](https://github.com/AvatarSD) | avatarsd |  |  | Ukraine, Kyiv | 4965 |
+| 20 | [MightComeback](https://github.com/MightComeback) | Ivan Kuznetsov |  |  | Ukraine | 4867 |

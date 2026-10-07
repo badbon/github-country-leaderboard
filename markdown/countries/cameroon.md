@@ -1,6 +1,6 @@
 # Cameroon
 
-Indexed users: 1,811
+Indexed users: 1,810
 
 | Leaderboard | Link |
 |---|---|
@@ -14,16 +14,16 @@ Indexed users: 1,811
 |---:|---|---|---|---:|
 | 1 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 13,081 |
 | 2 | [momo-87](https://github.com/momo-87) | Christian Romuald MOMO TONFACK | Cameroon - Yaounde | 9,961 |
-| 3 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,313 |
+| 3 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,756 |
 | 4 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | Yaoundé - Douala, Cameroon | 8,112 |
 | 5 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 7,204 |
 | 6 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | Cameroon | 6,705 |
 | 7 | [gwagsi](https://github.com/gwagsi) | Gwagsi | Yaounde, Cameroon | 6,660 |
-| 8 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | Buea, Cameroon | 6,120 |
-| 9 | [MartexCorp](https://github.com/MartexCorp) | David Acho | Yaounde, Cameroon | 5,800 |
-| 10 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 5,789 |
-| 11 | [jp-sft](https://github.com/jp-sft) | Jessy Pango | Cameroon | 5,558 |
-| 12 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 5,525 |
+| 8 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,280 |
+| 9 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | Buea, Cameroon | 6,120 |
+| 10 | [MartexCorp](https://github.com/MartexCorp) | David Acho | Yaounde, Cameroon | 5,800 |
+| 11 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 5,789 |
+| 12 | [jp-sft](https://github.com/jp-sft) | Jessy Pango | Cameroon | 5,558 |
 | 13 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Buea, Cameroon | 5,414 |
 | 14 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | Yaoundé, Cameroon | 5,345 |
 | 15 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 5,129 |
@@ -37,26 +37,26 @@ Indexed users: 1,811
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 8,684 |
-| 2 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 5,416 |
+| 1 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,082 |
+| 2 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,031 |
 | 3 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 3,802 |
 | 4 | [Christiantyemele](https://github.com/Christiantyemele) | Christian Yemele | Cameroon | 3,149 |
 | 5 | [bensah](https://github.com/bensah) | Ben Nsah | Cameroon | 2,966 |
-| 6 | [Chu29](https://github.com/Chu29) | MUEGHE ABUEMKEZE CHU | Yaounde, Cameroon | 2,011 |
+| 6 | [Chu29](https://github.com/Chu29) | MALIK MUEGHE ABUEMKEZE CHU | Yaounde, Cameroon | 1,901 |
 | 7 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,896 |
 | 8 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall | Cameroon | 1,856 |
 | 9 | [gekkin-programmer](https://github.com/gekkin-programmer) | brayan harry | Douala , Cameroon | 1,774 |
-| 10 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,717 |
-| 11 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | Yaoundé Cameroon | 1,685 |
-| 12 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,470 |
-| 13 | [Gesee-y](https://github.com/Gesee-y) | Talom Laël  | Yaoundé/Cameroon | 1,464 |
-| 14 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,452 |
-| 15 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 1,388 |
-| 16 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,373 |
-| 17 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,360 |
-| 18 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 1,299 |
-| 19 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Dschang, Cameroon | 1,261 |
-| 20 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,260 |
+| 10 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja | Cameroon | 1,771 |
+| 11 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,717 |
+| 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | Yaoundé Cameroon | 1,685 |
+| 13 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,470 |
+| 14 | [Gesee-y](https://github.com/Gesee-y) | Talom Laël  | Yaoundé/Cameroon | 1,464 |
+| 15 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,452 |
+| 16 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 1,388 |
+| 17 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,373 |
+| 18 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,360 |
+| 19 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 1,299 |
+| 20 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Dschang, Cameroon | 1,261 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,811
 | 19 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | Cameroon | 173 |
 | 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
 
-Generated: 2026-09-30T22:32:50.939Z
+Generated: 2026-10-07T06:50:57.057Z

@@ -42,7 +42,7 @@ Indexed users: 7,703
 | 3 | [mo9a7i](https://github.com/mo9a7i) | Mohannad Faihan Otaibi | Saudi Arabia | 28,833 |
 | 4 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad | Saudi Arabia | 11,447 |
 | 5 | [coldworld22](https://github.com/coldworld22) | Ayman Mohammed Osman Bashir | Abha, Saudi Arabia | 8,944 |
-| 6 | [alhanoofalabdullah-ai](https://github.com/alhanoofalabdullah-ai) | Alhanoof Alabdullah | Saudi Arabia, Riyadh city | 5,253 |
+| 6 | [alhanoofalabdullah-ai](https://github.com/alhanoofalabdullah-ai) | Alhanoof Alabdullah | Saudi Arabia, Riyadh city | 5,518 |
 | 7 | [justpainful](https://github.com/justpainful) | Faisal | Saudi Arabia | 4,181 |
 | 8 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi | Saudi Arabia | 4,084 |
 | 9 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb | Saudi Arabia | 3,756 |
@@ -74,8 +74,8 @@ Indexed users: 7,703
 | 10 | [MohamedMohamoud](https://github.com/MohamedMohamoud) | Mohamed Mahmoud  | Riyadh | 740 |
 | 11 | [pr-Mais](https://github.com/pr-Mais) | Mais Alheraki | Dammam, Saudi Arabia | 659 |
 | 12 | [aniskoubaa](https://github.com/aniskoubaa) | Anis Koubaa | Saudi Arabia | 647 |
-| 13 | [Sol0420](https://github.com/Sol0420) | Senior Backend & Distributed Systems Engineer \| Senior AI/ML Software Engineer | Riyadh, Saudi Arabia | 521 |
-| 14 | [Matrix07ksa](https://github.com/Matrix07ksa) | Matrix | Saudi arabia | 520 |
+| 13 | [Matrix07ksa](https://github.com/Matrix07ksa) | Matrix | Saudi arabia | 520 |
+| 14 | [Sol0420](https://github.com/Sol0420) | Senior Backend & Distributed Systems Engineer \| Senior AI/ML Software Engineer | Riyadh, Saudi Arabia | 496 |
 | 15 | [obahareth](https://github.com/obahareth) | Omar Bahareth | Riyadh, Saudi Arabia | 477 |
 | 16 | [alhazmy13](https://github.com/alhazmy13) | Abdullah Alhazmy | Riyadh, Saudi Arabia | 474 |
 | 17 | [YazeedAlKhalaf](https://github.com/YazeedAlKhalaf) | yazeed | Riyadh, Saudi Arabia | 460 |
@@ -83,4 +83,4 @@ Indexed users: 7,703
 | 19 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 | 20 | [mo9a7i](https://github.com/mo9a7i) | Mohannad Faihan Otaibi | Saudi Arabia | 439 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:37:23.834Z

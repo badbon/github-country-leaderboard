@@ -1,8 +1,8 @@
 # Total Contributions - Qatar
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:33:17.576Z
 
-Users: 1084
+Users: 1082
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 1084
 | 15 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 3817 |
 | 16 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | samstickkz |  | QATAR | 3588 |
 | 17 | [Snowy7](https://github.com/Snowy7) | Snowy |  |  | Qatar | 3566 |
-| 18 | [regizum](https://github.com/regizum) | Regina Nigmatullina |  |  | Doha | 3230 |
-| 19 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 3057 |
-| 20 | [meetnazreen](https://github.com/meetnazreen) | Naz | @inagen |  | Doha, Qatar | 3051 |
+| 18 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 3393 |
+| 19 | [regizum](https://github.com/regizum) | Regina Nigmatullina |  |  | Doha | 3230 |
+| 20 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 3057 |

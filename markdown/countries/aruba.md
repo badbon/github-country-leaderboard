@@ -14,17 +14,17 @@ Indexed users: 38
 |---:|---|---|---|---:|
 | 1 | [QVault](https://github.com/QVault) | Quincent | Aruba | 1,708 |
 | 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 795 |
-| 3 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 550 |
-| 4 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 495 |
-| 5 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 487 |
-| 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 268 |
+| 3 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 576 |
+| 4 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 561 |
+| 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 495 |
+| 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 201 |
 | 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 169 |
-| 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 84 |
+| 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 102 |
 | 9 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
-| 10 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee | Aruba | 46 |
-| 11 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 38 |
-| 12 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 36 |
-| 13 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 24 |
+| 10 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 51 |
+| 11 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 48 |
+| 12 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee | Aruba | 46 |
+| 13 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 28 |
 | 14 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
 | 15 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 11 |
 | 16 | [AyrtonAG](https://github.com/AyrtonAG) | Ayrton Geerman | Aruba | 8 |
@@ -37,16 +37,16 @@ Indexed users: 38
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 495 |
-| 2 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 487 |
-| 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 268 |
+| 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 576 |
+| 2 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 495 |
+| 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 201 |
 | 4 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 107 |
-| 5 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 84 |
+| 5 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 102 |
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
-| 7 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 38 |
-| 8 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 36 |
-| 9 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 29 |
-| 10 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 24 |
+| 7 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 51 |
+| 8 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 48 |
+| 9 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 30 |
+| 10 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 28 |
 | 11 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee | Aruba | 18 |
 | 12 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
 | 13 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 11 |
@@ -63,8 +63,8 @@ Indexed users: 38
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 68 |
-| 2 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
-| 3 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 16 |
+| 2 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 18 |
+| 3 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
 | 4 | [PICyber](https://github.com/PICyber) |  | ⭕️❌⭕️✯ARUBA✯⭕️❌⭕️ | 15 |
 | 5 | [JunTechPC](https://github.com/JunTechPC) | Juny Engelhart (JunTech) | Oranjestad, Aruba | 11 |
 | 6 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee | Aruba | 11 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [awsaruba](https://github.com/awsaruba) | ⟨Amazing Web Solutions Aruba⟩ | Oranjestad,Aruba | 4 |
 | 20 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 
-Generated: 2026-09-29T13:07:57.983Z
+Generated: 2026-10-07T06:48:28.060Z

@@ -1,6 +1,6 @@
 # Public Contributions - New Zealand
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:50.112Z
 
 Users: 12155
 
@@ -10,7 +10,7 @@ Users: 12155
 | 2 | [mitch-john](https://github.com/mitch-john) |  |  | MitchJohnNZ | New Zealand | 28645 |
 | 3 | [DTACat](https://github.com/DTACat) | Cat |  |  | New Zealand | 22026 |
 | 4 | [cgbarlow](https://github.com/cgbarlow) | Chris Barlow |  |  | Wellington, New Zealand | 10902 |
-| 5 | [thatskiff33](https://github.com/thatskiff33) | Jordan |  |  | Taranaki, New Zealand | 9825 |
+| 5 | [thatskiff33](https://github.com/thatskiff33) | Jordan |  |  | Taranaki, New Zealand | 10779 |
 | 6 | [passcod](https://github.com/passcod) | Félix Saparelli | @BeyondEssential |  | New Zealand | 9592 |
 | 7 | [lee101](https://github.com/lee101) | Lee Penkman | @netwrck | LeeLeePenkman | New Zealand | 7246 |
 | 8 | [rabble](https://github.com/rabble) | rabble | Hacker turned manager type | rabble | Pōneke, Aotearoa | 6604 |

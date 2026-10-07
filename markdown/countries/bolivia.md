@@ -1,6 +1,6 @@
 # Bolivia
 
-Indexed users: 1,796
+Indexed users: 1,795
 
 | Leaderboard | Link |
 |---|---|
@@ -19,19 +19,19 @@ Indexed users: 1,796
 | 5 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 5,801 |
 | 6 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca | Bolivia | 5,264 |
 | 7 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg | Santa Cruz, Bolivia | 5,000 |
-| 8 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 4,534 |
-| 9 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 4,251 |
-| 10 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | Santa Cruz de la Sierra, Bolivia | 3,968 |
-| 11 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari | Bolivia | 3,694 |
-| 12 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 3,553 |
-| 13 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 3,455 |
-| 14 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 3,406 |
-| 15 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 3,365 |
-| 16 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 3,096 |
-| 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 3,035 |
-| 18 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 3,027 |
-| 19 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez | La Paz, Bolivia | 2,706 |
-| 20 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 2,618 |
+| 8 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,929 |
+| 9 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 4,534 |
+| 10 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 4,251 |
+| 11 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | Santa Cruz de la Sierra, Bolivia | 3,968 |
+| 12 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca | Santa Cruz, Bolivia | 3,751 |
+| 13 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari | Bolivia | 3,694 |
+| 14 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 3,553 |
+| 15 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 3,455 |
+| 16 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 3,406 |
+| 17 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 3,096 |
+| 18 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 3,035 |
+| 19 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 3,027 |
+| 20 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez | La Paz, Bolivia | 2,706 |
 
 ## Public Contributions
 
@@ -51,12 +51,12 @@ Indexed users: 1,796
 | 12 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,327 |
 | 13 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez | La Paz, Bolivia | 1,307 |
 | 14 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,294 |
-| 15 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño | Cochabamba, Bolivia | 1,111 |
-| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,106 |
-| 17 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 1,081 |
+| 15 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,106 |
+| 16 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 1,081 |
+| 17 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño | Cochabamba, Bolivia | 1,042 |
 | 18 | [olivio-git](https://github.com/olivio-git) | olivio-git | Tarija/Bolivia | 1,039 |
-| 19 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 1,003 |
-| 20 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez | Bolivia | 1,003 |
+| 19 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez | Bolivia | 1,021 |
+| 20 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 1,003 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,796
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 126 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 124 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:50:05.910Z

@@ -1,6 +1,6 @@
 # Followers - Martinique
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:26:47.352Z
 
 Users: 77
 
@@ -13,11 +13,11 @@ Users: 77
 | 5 | [jsrdescamps](https://github.com/jsrdescamps) | Julien Descamps |  |  | Martinique | 14 |
 | 6 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 14 |
 | 7 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 10 |
-| 8 | [jucollet972](https://github.com/jucollet972) | Julien COLLET |  |  | Martinique | 9 |
-| 9 | [kylian97](https://github.com/kylian97) | kylian_b |  |  | Martinique | 9 |
-| 10 | [lalabarca](https://github.com/lalabarca) | Laura Hardy-Dessources |  |  | Martinique | 9 |
-| 11 | [nadlgit](https://github.com/nadlgit) | Nadine |  |  | Martinique | 9 |
-| 12 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 8 |
+| 8 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 9 |
+| 9 | [jucollet972](https://github.com/jucollet972) | Julien COLLET |  |  | Martinique | 9 |
+| 10 | [kylian97](https://github.com/kylian97) | kylian_b |  |  | Martinique | 9 |
+| 11 | [lalabarca](https://github.com/lalabarca) | Laura Hardy-Dessources |  |  | Martinique | 9 |
+| 12 | [nadlgit](https://github.com/nadlgit) | Nadine |  |  | Martinique | 9 |
 | 13 | [anthony-nosibor](https://github.com/anthony-nosibor) | Anthony nosibor |  |  | Martinique | 7 |
 | 14 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 7 |
 | 15 | [kdichon](https://github.com/kdichon) | Kdichon | Kdichon Dev |  | Martinique  | 7 |

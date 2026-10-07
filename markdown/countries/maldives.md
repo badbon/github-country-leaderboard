@@ -39,7 +39,7 @@ Indexed users: 357
 |---:|---|---|---|---:|
 | 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Malé, Maldives | 1,653 |
 | 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Male', Maldives | 1,334 |
-| 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | maldives | 1,188 |
+| 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | malé, maldives  | 1,304 |
 | 4 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,016 |
 | 5 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 694 |
 | 6 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 582 |
@@ -83,4 +83,4 @@ Indexed users: 357
 | 19 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood | Thulhaadhoo, Maldives | 41 |
 | 20 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 41 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:26:32.731Z

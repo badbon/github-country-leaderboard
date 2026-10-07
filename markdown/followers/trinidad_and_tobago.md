@@ -1,6 +1,6 @@
 # Followers - Trinidad and Tobago
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:40:24.392Z
 
 Users: 257
 
@@ -15,7 +15,7 @@ Users: 257
 | 7 | [ArmstrongSubero](https://github.com/ArmstrongSubero) | Armstrong Subero | Trinirobotics |  | Moruga, Trinidad and Tobago | 65 |
 | 8 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 63 |
 | 9 | [foohyfooh](https://github.com/foohyfooh) | Jonathan Herbert |  |  | Trinidad and Tobago | 61 |
-| 10 | [premarafael108-jpg](https://github.com/premarafael108-jpg) | Anahata.Agent | Anahata | AnahataASI | Trinidad and tobago | 53 |
+| 10 | [premarafael108-jpg](https://github.com/premarafael108-jpg) | Anahata.Agent | Anahata | AnahataASI | Trinidad and tobago | 57 |
 | 11 | [Snickdx](https://github.com/Snickdx) | Nicholas Mendez | @uwidcit @gdgpos | snickdx | Trinidad and Tobago | 51 |
 | 12 | [Ispirett](https://github.com/Ispirett) | Ispirett |  2020-stack Developer |  | Trinidad and Tobago | 46 |
 | 13 | [kmn5409](https://github.com/kmn5409) | Keanu Nichols |  | kmn5409 | Trinidad and Tobago | 43 |

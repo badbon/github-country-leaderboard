@@ -1,6 +1,6 @@
 # Public Contributions - Brunei
 
-Generated: 2026-09-30T13:16:45.736Z
+Generated: 2026-10-07T06:50:23.361Z
 
 Users: 256
 
@@ -11,7 +11,7 @@ Users: 256
 | 3 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 456 |
 | 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 450 |
 | 5 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 141 |
-| 6 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei University of Technology |  | Brunei | 104 |
+| 6 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei University of Technology |  | Brunei | 108 |
 | 7 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 103 |
 | 8 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | Pittsburgh, PA \| Brunei | 84 |
 | 9 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 71 |

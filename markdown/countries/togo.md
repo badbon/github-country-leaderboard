@@ -43,8 +43,8 @@ Indexed users: 693
 | 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 2,370 |
 | 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 2,338 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 2,148 |
-| 7 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,572 |
-| 8 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,442 |
+| 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,847 |
+| 8 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,572 |
 | 9 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,382 |
 | 10 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 1,308 |
 | 11 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,194 |
@@ -83,4 +83,4 @@ Indexed users: 693
 | 19 | [Harlequelrah](https://github.com/Harlequelrah) | DEGBOVI Maxime Atsou | Lomé-TOGO | 68 |
 | 20 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:40:18.922Z

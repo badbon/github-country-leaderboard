@@ -1,6 +1,6 @@
 # Public Contributions - Barbados
 
-Generated: 2026-09-29T13:10:57.798Z
+Generated: 2026-10-07T06:49:07.691Z
 
 Users: 132
 
@@ -21,8 +21,8 @@ Users: 132
 | 13 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte |  |  | Barbados | 107 |
 | 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | M&E Partners Limited |  | St. Phillips, Barbados, W.I. | 88 |
 | 15 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 86 |
-| 16 | [baebranch](https://github.com/baebranch) | Brian Branch |  | baebranch | Barbados | 79 |
-| 17 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 74 |
-| 18 | [VladoPlavsic](https://github.com/VladoPlavsic) | Vlado Plavsic | WELLNUTS |  | Barbados | 61 |
-| 19 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 57 |
-| 20 | [Rayh23](https://github.com/Rayh23) | Raynel |  |  | Barbados | 49 |
+| 16 | [Rayh23](https://github.com/Rayh23) | Raynel |  |  | Barbados | 81 |
+| 17 | [baebranch](https://github.com/baebranch) | Brian Branch |  | baebranch | Barbados | 79 |
+| 18 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 74 |
+| 19 | [VladoPlavsic](https://github.com/VladoPlavsic) | Vlado Plavsic | WELLNUTS |  | Barbados | 61 |
+| 20 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 57 |

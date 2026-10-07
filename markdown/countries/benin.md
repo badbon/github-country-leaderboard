@@ -1,6 +1,6 @@
 # Benin
 
-Indexed users: 476
+Indexed users: 475
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 476
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 74 |
 | 20 | [romeokakpo](https://github.com/romeokakpo) | Roméo KAKPO | Benin | 70 |
 
-Generated: 2026-09-29T13:12:39.285Z
+Generated: 2026-10-07T06:49:38.550Z

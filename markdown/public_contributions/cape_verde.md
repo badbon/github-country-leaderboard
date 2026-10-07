@@ -1,8 +1,8 @@
 # Public Contributions - Cape Verde
 
-Generated: 2026-09-30T22:33:12.664Z
+Generated: 2026-10-07T06:50:59.929Z
 
-Users: 567
+Users: 565
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 567
 | 11 | [GustavoLDO](https://github.com/GustavoLDO) | Gustavo Lemos  de Oliveira  | Fatec Praia Grande |  | Praia Grande -SP | 386 |
 | 12 | [Coyas](https://github.com/Coyas) | Ailton Duarte | TerraSystem | A_coyas | Praia, Cabo Verde | 364 |
 | 13 | [blzrosa](https://github.com/blzrosa) | Bruno Luís Zerbinatto Rosa |  |  | Praia Grande, SP | 340 |
-| 14 | [airesgabryel](https://github.com/airesgabryel) | Gabryel Aires | FATEC Praia Grande |  | Praia Grande/SP - Brazil | 323 |
-| 15 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Fatec Praia Grande |  | Praia Grande | 280 |
-| 16 | [rafarfelipe](https://github.com/rafarfelipe) | Rafael Felipe |  |  | Praia Grande - SP | 269 |
+| 14 | [rafarfelipe](https://github.com/rafarfelipe) | Rafael Felipe |  |  | Praia Grande - SP | 324 |
+| 15 | [airesgabryel](https://github.com/airesgabryel) | Gabryel Aires | FATEC Praia Grande |  | Praia Grande/SP - Brazil | 323 |
+| 16 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Fatec Praia Grande |  | Praia Grande | 280 |
 | 17 | [leviferre1ra](https://github.com/leviferre1ra) | Levi Ferreira Cunha |  |  | Praia Grande/SP | 261 |
-| 18 | [TheEndFn](https://github.com/TheEndFn) | Filipe Nóbrega |  |  | Praia Grande / SP | 251 |
-| 19 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira |  |  | Praia Grande-SP | 240 |
-| 20 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo |  |  | Praia Grande - SP | 240 |
+| 18 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira |  |  | Praia Grande-SP | 240 |
+| 19 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo |  |  | Praia Grande - SP | 240 |
+| 20 | [mgomesdev](https://github.com/mgomesdev) | Matheus Gomes | @pecege |  | Praia Grande - SP | 217 |

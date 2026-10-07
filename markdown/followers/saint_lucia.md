@@ -1,8 +1,8 @@
 # Followers - Saint Lucia
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:36:28.704Z
 
-Users: 35
+Users: 34
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -12,8 +12,8 @@ Users: 35
 | 4 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Quantum Garden Software |  | Saint Lucia | 21 |
 | 5 | [amello69](https://github.com/amello69) | Alvinus Melius | PALs |  | Saint Lucia | 11 |
 | 6 | [destinydriven](https://github.com/destinydriven) | destinydriven |  |  | Saint Lucia | 11 |
-| 7 | [NMonKLabs77](https://github.com/NMonKLabs77) | Nehemiah Monrose |  |  | Saint Lucia | 11 |
-| 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | @ec-intl @CliMA @utatulc  | combengue | Castries, Saint Lucia | 10 |
+| 7 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | @ec-intl @CliMA @utatulc  | combengue | Castries, Saint Lucia | 10 |
+| 8 | [NMonKLabs77](https://github.com/NMonKLabs77) | Nehemiah Monrose |  |  | Saint Lucia | 10 |
 | 9 | [swelanauguste](https://github.com/swelanauguste) | Swelan R. Auguste | kingship |  | Saint Lucia | 9 |
 | 10 | [granges0storage](https://github.com/granges0storage) | Lidia St |  |  | Saint Lucia | 6 |
 | 11 | [wilsonwolf](https://github.com/wilsonwolf) |  |  |  | Castries, Saint Lucia | 6 |

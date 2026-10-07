@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 1,002
+Indexed users: 1,001
 
 | Leaderboard | Link |
 |---|---|
@@ -12,7 +12,7 @@ Indexed users: 1,002
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 82,434 |
+| 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 89,684 |
 | 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Muscat, Oman | 31,097 |
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan | Muscat, Oman | 11,596 |
 | 4 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 11,052 |
@@ -37,18 +37,18 @@ Indexed users: 1,002
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 82,157 |
+| 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 89,277 |
 | 2 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 4,792 |
 | 3 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Oman | 3,477 |
-| 4 | [muneerasaifalnaabi-prog](https://github.com/muneerasaifalnaabi-prog) | Muneera Al Naabi | Oman | 2,923 |
+| 4 | [muneerasaifalnaabi-prog](https://github.com/muneerasaifalnaabi-prog) | Muneera Al Naabi | Oman | 2,977 |
 | 5 | [alanood94895-rgb](https://github.com/alanood94895-rgb) | Alanoud AlRuqaishi | Oman | 2,794 |
 | 6 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | Oman | 2,618 |
 | 7 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali |  Oman  | 2,454 |
 | 8 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Oman | 2,432 |
-| 9 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Oman | 2,294 |
+| 9 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Oman | 2,316 |
 | 10 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Oman  | 2,129 |
 | 11 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 1,787 |
-| 12 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | Oman | 1,699 |
+| 12 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | Oman | 1,702 |
 | 13 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
 | 14 | [MohammedAlkindi](https://github.com/MohammedAlkindi) | Mohammed Alkindi | Muscat, Oman | 1,565 |
 | 15 | [Riham2025](https://github.com/Riham2025) | Riham Abdullah Al-Siyabi | Muscat | 1,403 |
@@ -83,4 +83,4 @@ Indexed users: 1,002
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 89 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:30:12.244Z

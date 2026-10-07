@@ -1,11 +1,10 @@
 # Public Contributions - Palau
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:30:24.486Z
 
-Users: 3
+Users: 2
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [JTeccomx](https://github.com/JTeccomx) | Jovan Ngirmekur |  |  | Palau | 6 |
-| 2 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Surangel and Son, Co | jeffbalbalosa | Koror, Palau | 0 |
-| 3 | [nbaulesglobalsolutions](https://github.com/nbaulesglobalsolutions) | Ngirngerikl Baules | NB Global Solutions, EPS |  | Koror, Palau | 0 |
+| 1 | [jbalbalosa](https://github.com/jbalbalosa) | Jeffrey Balbalosa | Surangel and Son, Co | jeffbalbalosa | Koror, Palau | 0 |
+| 2 | [nbaulesglobalsolutions](https://github.com/nbaulesglobalsolutions) | Ngirngerikl Baules | NB Global Solutions, EPS |  | Koror, Palau | 0 |

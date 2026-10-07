@@ -52,11 +52,11 @@ Indexed users: 132
 | 13 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte | Barbados | 107 |
 | 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 88 |
 | 15 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 86 |
-| 16 | [baebranch](https://github.com/baebranch) | Brian Branch | Barbados | 79 |
-| 17 | [starsden](https://github.com/starsden) | den | Barbados | 74 |
-| 18 | [VladoPlavsic](https://github.com/VladoPlavsic) | Vlado Plavsic | Barbados | 61 |
-| 19 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 57 |
-| 20 | [Rayh23](https://github.com/Rayh23) | Raynel | Barbados | 49 |
+| 16 | [Rayh23](https://github.com/Rayh23) | Raynel | Barbados | 81 |
+| 17 | [baebranch](https://github.com/baebranch) | Brian Branch | Barbados | 79 |
+| 18 | [starsden](https://github.com/starsden) | den | Barbados | 74 |
+| 19 | [VladoPlavsic](https://github.com/VladoPlavsic) | Vlado Plavsic | Barbados | 61 |
+| 20 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 57 |
 
 ## Followers
 
@@ -72,15 +72,15 @@ Indexed users: 132
 | 8 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 31 |
 | 9 | [fibini](https://github.com/fibini) | Fabien Brathwaite | Barbados | 24 |
 | 10 | [JL-ALPHA](https://github.com/JL-ALPHA) | Jermaine LUCΛS | Barbados | 21 |
-| 11 | [pauly277](https://github.com/pauly277) | Paul Doyle | Barbados | 21 |
-| 12 | [intricate](https://github.com/intricate) | Luke | Barbados | 20 |
+| 11 | [intricate](https://github.com/intricate) | Luke | Barbados | 20 |
+| 12 | [pauly277](https://github.com/pauly277) | Paul Doyle | Barbados | 20 |
 | 13 | [EnSabanNur](https://github.com/EnSabanNur) | Ben Clark | Christ Church, Barbados | 18 |
 | 14 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 18 |
-| 15 | [mr-emreerturk](https://github.com/mr-emreerturk) | Emre Ertürk | Bridgetown, Barbados | 18 |
+| 15 | [mr-emreerturk](https://github.com/mr-emreerturk) | Emre Ertürk | Bridgetown, Barbados | 17 |
 | 16 | [angustatchell](https://github.com/angustatchell) | Angus Tatchell | Christ Church, Barbados | 15 |
 | 17 | [stojan211287](https://github.com/stojan211287) | Stan Jardani | Barbados | 14 |
 | 18 | [cgoodridge](https://github.com/cgoodridge) |  | Barbados | 12 |
 | 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 | 20 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 10 |
 
-Generated: 2026-09-29T13:10:57.798Z
+Generated: 2026-10-07T06:49:07.691Z

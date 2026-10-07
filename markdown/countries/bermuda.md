@@ -1,6 +1,6 @@
 # Bermuda
 
-Indexed users: 917
+Indexed users: 916
 
 | Leaderboard | Link |
 |---|---|
@@ -48,8 +48,8 @@ Indexed users: 917
 | 9 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel | Hamilton - ON | 1,007 |
 | 10 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 921 |
 | 11 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 895 |
-| 12 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 839 |
-| 13 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 796 |
+| 12 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 881 |
+| 13 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 839 |
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 750 |
 | 15 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 743 |
 | 16 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 627 |
@@ -83,4 +83,4 @@ Indexed users: 917
 | 19 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 87 |
 | 20 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | Hamilton | 86 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:49:41.483Z

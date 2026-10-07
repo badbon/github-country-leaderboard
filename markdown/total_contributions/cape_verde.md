@@ -1,8 +1,8 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-09-30T22:33:12.664Z
+Generated: 2026-10-07T06:50:59.929Z
 
-Users: 567
+Users: 565
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

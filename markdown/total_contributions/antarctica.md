@@ -1,8 +1,8 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-09-29T06:06:28.710Z
+Generated: 2026-10-07T06:48:12.232Z
 
-Users: 468
+Users: 470
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 468
 | 6 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Weyland-Yutani Corp. |  | Antarctica | 4216 |
 | 7 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti |  |  | antarctica | 3940 |
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 3853 |
-| 9 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 3790 |
-| 10 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 3249 |
-| 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | AsciiNomads |  | Antarctica | 3225 |
-| 12 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 2827 |
-| 13 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 2621 |
-| 14 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2314 |
-| 15 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2309 |
-| 16 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2202 |
-| 17 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 2025 |
-| 18 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Gruppa chat & Co. |  | Antarctica | 1613 |
-| 19 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A |  |  | Antarctica | 1596 |
-| 20 | [whutddk](https://github.com/whutddk) | Ruige Lee | Wuhan University of Technology |  | Antarctica | 1580 |
+| 9 | [cutetux](https://github.com/cutetux) | CuteTux |  |  | Antarctica ;) | 3840 |
+| 10 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 3790 |
+| 11 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 3249 |
+| 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | AsciiNomads |  | Antarctica | 3225 |
+| 13 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 2827 |
+| 14 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 2621 |
+| 15 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2314 |
+| 16 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2309 |
+| 17 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2202 |
+| 18 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 2025 |
+| 19 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Gruppa chat & Co. |  | Antarctica | 1613 |
+| 20 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A |  |  | Antarctica | 1596 |

@@ -1,8 +1,8 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:12.684Z
 
-Users: 1177
+Users: 1176
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

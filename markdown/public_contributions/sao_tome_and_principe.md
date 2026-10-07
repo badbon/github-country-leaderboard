@@ -1,19 +1,19 @@
 # Public Contributions - São Tomé and Príncipe
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:37:20.189Z
 
 Users: 20
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [manoxum](https://github.com/manoxum) | Daniel Costa | BRAINSOFTSTP |  | São Tomé e Pricipe | 499 |
-| 2 | [Andre-Dalva](https://github.com/Andre-Dalva) |  |  |  | São Tomé e Principe  | 65 |
-| 3 | [StephannyBorges](https://github.com/StephannyBorges) | Stephanny Borges |  |  | São Tomé RN | 38 |
-| 4 | [josias-gsd](https://github.com/josias-gsd) | Josias Gentil | ULSTP | jos19376 | São Tomé e Príncipe | 16 |
+| 1 | [manoxum](https://github.com/manoxum) | Daniel Costa | BRAINSOFTSTP |  | São Tomé e Pricipe | 265 |
+| 2 | [Andre-Dalva](https://github.com/Andre-Dalva) |  |  |  | São Tomé e Principe  | 77 |
+| 3 | [StephannyBorges](https://github.com/StephannyBorges) | Stephanny Borges |  |  | São Tomé RN | 36 |
+| 4 | [josias-gsd](https://github.com/josias-gsd) | Josias Gentil | ULSTP | jos19376 | São Tomé e Príncipe | 12 |
 | 5 | [benildebonfim](https://github.com/benildebonfim) | Benilde |  | BonfimBenilde | São Tomé e Príncipe | 3 |
-| 6 | [joaopontifice](https://github.com/joaopontifice) | John |  |  | Água Grande, São Tomé e Príncipe | 2 |
-| 7 | [LelecoNN](https://github.com/LelecoNN) |  |  | nelito_cruz | São Tomé  | 2 |
-| 8 | [habraino](https://github.com/habraino) | Habraino C. De Deus | Tecnisys |  | São-Tomé | 1 |
+| 6 | [habraino](https://github.com/habraino) | Habraino C. De Deus | SafuTech |  | São-Tomé | 3 |
+| 7 | [joaopontifice](https://github.com/joaopontifice) | John |  |  | Água Grande, São Tomé e Príncipe | 2 |
+| 8 | [LelecoNN](https://github.com/LelecoNN) |  |  | nelito_cruz | São Tomé  | 2 |
 | 9 | [Octaniel](https://github.com/Octaniel) | Octaniel José | b-software |  | São Tomé | 1 |
 | 10 | [abdulay-cusodio](https://github.com/abdulay-cusodio) | Abdulay custódio | MEES | abdulay_cunha | São Tomé and Príncipe | 0 |
 | 11 | [AlekssanderCosta](https://github.com/AlekssanderCosta) | Alekssander Costa |  |  | São Tomé | 0 |

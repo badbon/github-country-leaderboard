@@ -1,13 +1,13 @@
 # Followers - Marshall Islands
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:26:42.582Z
 
 Users: 11
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [P20-ORG](https://github.com/P20-ORG) | P20 |  | p20Chain | Marshall Islands  | 712 |
-| 2 | [Charles-Hello](https://github.com/Charles-Hello) | Charles | Lakin, Corkery and Hermiston |  | 10327 ,Reynolds Meadows ,West Ilana ,Wyoming ,Marshall Islands | 28 |
+| 2 | [Charles-Hello](https://github.com/Charles-Hello) | Charles | Lakin, Corkery and Hermiston |  | 10327 ,Reynolds Meadows ,West Ilana ,Wyoming ,Marshall Islands | 29 |
 | 3 | [jfhs](https://github.com/jfhs) | Andrey |  |  | Marshall Islands | 20 |
 | 4 | [jaSunny](https://github.com/jaSunny) |  |  |  | Marshall Islands | 13 |
 | 5 | [7d00med](https://github.com/7d00med) |  |  |  | Marshall Islands | 1 |

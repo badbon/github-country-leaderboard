@@ -1,22 +1,22 @@
 # Total Contributions - São Tomé and Príncipe
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:37:20.189Z
 
 Users: 20
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [manoxum](https://github.com/manoxum) | Daniel Costa | BRAINSOFTSTP |  | São Tomé e Pricipe | 499 |
-| 2 | [joaopontifice](https://github.com/joaopontifice) | John |  |  | Água Grande, São Tomé e Príncipe | 129 |
-| 3 | [henilcioterras](https://github.com/henilcioterras) | Henilcio Terras |  |  | São Tomé e Príncipe | 123 |
-| 4 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz |  |  | São Gabriel, São Tomé e Príncipe | 100 |
-| 5 | [Andre-Dalva](https://github.com/Andre-Dalva) |  |  |  | São Tomé e Principe  | 65 |
-| 6 | [josias-gsd](https://github.com/josias-gsd) | Josias Gentil | ULSTP | jos19376 | São Tomé e Príncipe | 62 |
-| 7 | [StephannyBorges](https://github.com/StephannyBorges) | Stephanny Borges |  |  | São Tomé RN | 38 |
-| 8 | [benildebonfim](https://github.com/benildebonfim) | Benilde |  | BonfimBenilde | São Tomé e Príncipe | 3 |
-| 9 | [LelecoNN](https://github.com/LelecoNN) |  |  | nelito_cruz | São Tomé  | 2 |
-| 10 | [nevesade](https://github.com/nevesade) |  NEVES ADENASIO |  |  | São Tomé e Príncipe | 2 |
-| 11 | [habraino](https://github.com/habraino) | Habraino C. De Deus | Tecnisys |  | São-Tomé | 1 |
+| 1 | [manoxum](https://github.com/manoxum) | Daniel Costa | BRAINSOFTSTP |  | São Tomé e Pricipe | 265 |
+| 2 | [joaopontifice](https://github.com/joaopontifice) | John |  |  | Água Grande, São Tomé e Príncipe | 156 |
+| 3 | [henilcioterras](https://github.com/henilcioterras) | Henilcio Terras |  |  | São Tomé e Príncipe | 127 |
+| 4 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz |  |  | São Gabriel, São Tomé e Príncipe | 109 |
+| 5 | [Andre-Dalva](https://github.com/Andre-Dalva) |  |  |  | São Tomé e Principe  | 77 |
+| 6 | [josias-gsd](https://github.com/josias-gsd) | Josias Gentil | ULSTP | jos19376 | São Tomé e Príncipe | 58 |
+| 7 | [StephannyBorges](https://github.com/StephannyBorges) | Stephanny Borges |  |  | São Tomé RN | 36 |
+| 8 | [nevesade](https://github.com/nevesade) |  NEVES ADENASIO |  |  | São Tomé e Príncipe | 15 |
+| 9 | [benildebonfim](https://github.com/benildebonfim) | Benilde |  | BonfimBenilde | São Tomé e Príncipe | 3 |
+| 10 | [habraino](https://github.com/habraino) | Habraino C. De Deus | SafuTech |  | São-Tomé | 3 |
+| 11 | [LelecoNN](https://github.com/LelecoNN) |  |  | nelito_cruz | São Tomé  | 2 |
 | 12 | [Octaniel](https://github.com/Octaniel) | Octaniel José | b-software |  | São Tomé | 1 |
 | 13 | [abdulay-cusodio](https://github.com/abdulay-cusodio) | Abdulay custódio | MEES | abdulay_cunha | São Tomé and Príncipe | 0 |
 | 14 | [AlekssanderCosta](https://github.com/AlekssanderCosta) | Alekssander Costa |  |  | São Tomé | 0 |

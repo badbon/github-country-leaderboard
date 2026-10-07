@@ -1,6 +1,6 @@
 # Peru
 
-Indexed users: 9,796
+Indexed users: 9,795
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 9,796
 | 19 | [BracoZS](https://github.com/BracoZS) | BracoZS | Peru | 472 |
 | 20 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:32:26.084Z

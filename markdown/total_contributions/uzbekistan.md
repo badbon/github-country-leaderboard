@@ -1,13 +1,13 @@
 # Total Contributions - Uzbekistan
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:42:34.772Z
 
 Users: 9517
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Individual Developer |  | Uzbekistan | 159877 |
-| 2 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | IT Park |  | Uzbekistan | 144722 |
+| 1 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | IT Park |  | Uzbekistan | 194722 |
+| 2 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Individual Developer |  | Uzbekistan | 159877 |
 | 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Umars_Dev |  | Uzbekistan | 80448 |
 | 4 | [xcrpty7](https://github.com/xcrpty7) |  |  |  | Tashkent, Uzbekistan | 29033 |
 | 5 | [diyor28](https://github.com/diyor28) | Diyor Khaydarov | @iota-agency |  | Uzbekistan, Tashkent | 20528 |

@@ -1,8 +1,8 @@
 # Followers - Paraguay
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:31:48.696Z
 
-Users: 2029
+Users: 2028
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,10 +17,10 @@ Users: 2029
 | 9 | [nemesiscodex](https://github.com/nemesiscodex) | Julio Daniel Reyes |  | nemesiscodex | Paraguay | 213 |
 | 10 | [prolic](https://github.com/prolic) | Sascha-Oliver Prolić |  |  | Paraguay | 197 |
 | 11 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | FullStack Labs | AbdelPerez11 | Asunción, Paraguay | 183 |
-| 12 | [garyservin](https://github.com/garyservin) | Gary Servin | @locusrobotics  | garyservin | Asunción - Paraguay | 154 |
-| 13 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Roshka | pablojavierpy | Asunción, Paraguay | 148 |
-| 14 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 140 |
-| 15 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 139 |
+| 12 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 181 |
+| 13 | [garyservin](https://github.com/garyservin) | Gary Servin | @locusrobotics  | garyservin | Asunción - Paraguay | 154 |
+| 14 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Roshka | pablojavierpy | Asunción, Paraguay | 148 |
+| 15 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 140 |
 | 16 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  |  |  | Paraguay | 134 |
 | 17 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | FortyAU | RamirezMatias03 | Fernando de la Mora, Central, Paraguay | 130 |
 | 18 | [leodufer](https://github.com/leodufer) | Oscar Duarte |  |  | Ciudad del Este,  Paraguay | 118 |

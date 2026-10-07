@@ -1,6 +1,6 @@
 # Followers - Suriname
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:39:14.990Z
 
 Users: 124
 
@@ -15,7 +15,7 @@ Users: 124
 | 7 | [Fuseteam](https://github.com/Fuseteam) | Rahammetoela Toekiman | Smart Secure Solutions N.V. | xiaofuse | Paramaribo, Suriname | 38 |
 | 8 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam |  |  | Suriname | 38 |
 | 9 | [eSaniello](https://github.com/eSaniello) | Shaniel  | @Bits-Please-Technologies | shaniel292 | Suriname | 36 |
-| 10 | [Karel95](https://github.com/Karel95) | Karel Hernández |  |  | Paramaribo, Suriname | 35 |
+| 10 | [Karel95](https://github.com/Karel95) | Karel Hernández |  |  | Paramaribo, Suriname | 36 |
 | 11 | [shayant98](https://github.com/shayant98) | Shayant |  |  | Suriname | 35 |
 | 12 | [kareldonk](https://github.com/kareldonk) | Karel Donk |  |  | Suriname | 28 |
 | 13 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | EndaCore Software | jhon_corella | Paramaribo | 27 |

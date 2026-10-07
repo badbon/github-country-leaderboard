@@ -1,6 +1,6 @@
 # Followers - Saint Pierre and Miquelon
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:37:07.262Z
 
 Users: 19
 
@@ -9,8 +9,8 @@ Users: 19
 | 1 | [aurelien-baudet](https://github.com/aurelien-baudet) | Aurélien Baudet |  |  | Saint Pierre, La Réunion | 8 |
 | 2 | [gitkyo](https://github.com/gitkyo) | Pier |  |  | Saint-Pierre, La Réunion | 8 |
 | 3 | [LiseRochat](https://github.com/LiseRochat) | Rochat Lise | ESIROI - Cycle ingénieur informatique |  | Saint-Pierre 97410 | 6 |
-| 4 | [greggstyle](https://github.com/greggstyle) | greggstyle | Digidatale & Capston.AI |  | Saint-Pierre, La Réunion | 4 |
-| 5 | [khanabeigi](https://github.com/khanabeigi) | Yasin-khanabeigi | Self-Employ | khanabeigi | Z.I. du, Le Vivier 22, 1690 Villaz-Saint-Pierre | 4 |
+| 4 | [khanabeigi](https://github.com/khanabeigi) | Yasin-khanabeigi | Self-Employ | khanabeigi | Z.I. du, Le Vivier 22, 1690 Villaz-Saint-Pierre | 5 |
+| 5 | [greggstyle](https://github.com/greggstyle) | greggstyle | Digidatale & Capston.AI |  | Saint-Pierre, La Réunion | 4 |
 | 6 | [Antonin-crypto](https://github.com/Antonin-crypto) | Antonin | Holberton School |  | Saint pierre des landes | 3 |
 | 7 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  |  |  | Saint-pierre La Réunion | 3 |
 | 8 | [IronFly7](https://github.com/IronFly7) | RoroLeRigolo |  |  | Lycée Saint Pierre Calais | 2 |

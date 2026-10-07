@@ -1,8 +1,8 @@
 # Total Contributions - Botswana
 
-Generated: 2026-09-30T13:16:34.479Z
+Generated: 2026-10-07T06:50:11.807Z
 
-Users: 535
+Users: 534
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,12 +11,12 @@ Users: 535
 | 3 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi |  |  | Gaborone | 2498 |
 | 4 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | @africacodeacademy @wholeapp  |  | Gaborone, Botswana | 2395 |
 | 5 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 2385 |
-| 6 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Botswana International University of Science and Technology  |  | Gaborone, Botswana | 2128 |
-| 7 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 1914 |
-| 8 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 1798 |
-| 9 | [geek911](https://github.com/geek911) | Moses Chawawa |  |  | Gaborone, Botswana | 1630 |
-| 10 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi |  |  | Gaborone, Botswana | 1617 |
-| 11 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Ras Ali Labs  |  | Botswana, Gaborone | 1577 |
+| 6 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Ras Ali Labs  |  | Botswana, Gaborone | 2353 |
+| 7 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Botswana International University of Science and Technology  |  | Gaborone, Botswana | 2128 |
+| 8 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 1914 |
+| 9 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 1798 |
+| 10 | [geek911](https://github.com/geek911) | Moses Chawawa |  |  | Gaborone, Botswana | 1630 |
+| 11 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi |  |  | Gaborone, Botswana | 1617 |
 | 12 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | @I-kenye  |  | Maun, Botswana | 1541 |
 | 13 | [Tebalo](https://github.com/Tebalo) | Bopaki | Digital FastForward |  | Botswana, Gaborone-Mokobaxane | 1452 |
 | 14 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Scheke Innovationhub |  | Botswana | 1438 |

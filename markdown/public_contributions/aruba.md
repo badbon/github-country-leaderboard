@@ -1,21 +1,21 @@
 # Public Contributions - Aruba
 
-Generated: 2026-09-29T13:07:57.983Z
+Generated: 2026-10-07T06:48:28.060Z
 
 Users: 38
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 495 |
-| 2 | [rendell](https://github.com/rendell) | Rendell de Kort | Cornerstone Economics / Lovely Data |  | Aruba | 487 |
-| 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | BlueKoala |  | Oranjestad, Aruba | 268 |
+| 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Cornerstone Economics / Lovely Data |  | Aruba | 576 |
+| 2 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 495 |
+| 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | BlueKoala |  | Oranjestad, Aruba | 201 |
 | 4 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Next Inn Games |  | Aruba | 107 |
-| 5 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | ZOS Consultancy |  | Aruba | 84 |
+| 5 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | ZOS Consultancy |  | Aruba | 102 |
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča |  |  | Oranjestad | 72 |
-| 7 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 38 |
-| 8 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | AIB, UTwente |  | Oranjestad, Aruba | 36 |
-| 9 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 29 |
-| 10 | [hfsyung](https://github.com/hfsyung) |  |  |  | Aruba | 24 |
+| 7 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | AIB, UTwente |  | Oranjestad, Aruba | 51 |
+| 8 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 48 |
+| 9 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 30 |
+| 10 | [hfsyung](https://github.com/hfsyung) |  |  |  | Aruba | 28 |
 | 11 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee |  |  | Aruba | 18 |
 | 12 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Lead Web Designer @AWSAruba | JWSARUBA | Oranjestad, Aruba | 17 |
 | 13 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Freelancer |  | Aruba | 11 |

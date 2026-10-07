@@ -1,8 +1,8 @@
 # Followers - Turkmenistan
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:41:04.985Z
 
-Users: 503
+Users: 502
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 503
 | 2 | [evgeniy-dammer](https://github.com/evgeniy-dammer) | Evgeniy Dammer |  |  | Ashgabad, Turkmenistan | 170 |
 | 3 | [MaysaShad](https://github.com/MaysaShad) |  |  |  | Ashgabat | 148 |
 | 4 | [saggeldi](https://github.com/saggeldi) | Shageldi Alyyew |  |  | Turkmenistan | 142 |
-| 5 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | BridgeCore SYSTEMS |  | Turkmenistan | 111 |
+| 5 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | BridgeCore SYSTEMS |  | Turkmenistan | 108 |
 | 6 | [octonet29](https://github.com/octonet29) | Gulbahar |  |  | Ashgabat, Turkmenistan | 105 |
 | 7 | [narlyyev](https://github.com/narlyyev) | Arslan Narlyyev |  |  | Turkmenistan, Ashgabat | 97 |
 | 8 | [resulshm](https://github.com/resulshm) | Resul Shamuhammedov |  |  | Ashgabat, Turkmenistan | 91 |

@@ -1,6 +1,6 @@
 # North Korea
 
-Indexed users: 194
+Indexed users: 193
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 194
 | 17 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 387 |
 | 18 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana | Pyongyang, North Korea | 381 |
 | 19 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 351 |
-| 20 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 343 |
+| 20 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 269 |
 
 ## Public Contributions
 
@@ -46,8 +46,8 @@ Indexed users: 194
 | 7 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 387 |
 | 8 | [MrRyanPerson](https://github.com/MrRyanPerson) | Ryan | North Korea | 375 |
 | 9 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 268 |
-| 10 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 228 |
-| 11 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | North Korea | 221 |
+| 10 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 200 |
+| 11 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | North Korea | 198 |
 | 12 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 196 |
 | 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 195 |
 | 14 | [july0785](https://github.com/july0785) | JULY | Pyongyang, DPR of Korea | 185 |
@@ -75,12 +75,12 @@ Indexed users: 194
 | 11 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 27 |
 | 12 | [T1med0ut](https://github.com/T1med0ut) | Timedout | North Korea | 24 |
 | 13 | [danilima8](https://github.com/danilima8) | Daniele Lima | North Korea | 18 |
-| 14 | [copilotuser713](https://github.com/copilotuser713) | Simon K. Penny | Pyongyang | 17 |
-| 15 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace | Pyongyang, Democrat People's Republic of Korea | 17 |
-| 16 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 17 |
-| 17 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 17 |
+| 14 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace | Pyongyang, Democrat People's Republic of Korea | 17 |
+| 15 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 17 |
+| 16 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 17 |
+| 17 | [copilotuser713](https://github.com/copilotuser713) | Simon K. Penny | Pyongyang | 16 |
 | 18 | [retributions](https://github.com/retributions) |  | North Korea | 16 |
 | 19 | [LessThread](https://github.com/LessThread) | LessThread | Pyeongyang, North Korea | 15 |
 | 20 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:29:27.468Z

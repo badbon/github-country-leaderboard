@@ -1,8 +1,8 @@
 # Followers - Burkina Faso
 
-Generated: 2026-09-30T13:16:55.817Z
+Generated: 2026-10-07T06:50:47.570Z
 
-Users: 486
+Users: 485
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

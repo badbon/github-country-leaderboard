@@ -1,8 +1,8 @@
 # Public Contributions - North Korea
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:29:27.468Z
 
-Users: 194
+Users: 193
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,8 +15,8 @@ Users: 194
 | 7 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 387 |
 | 8 | [MrRyanPerson](https://github.com/MrRyanPerson) | Ryan |  |  | North Korea | 375 |
 | 9 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 268 |
-| 10 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 228 |
-| 11 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | Kim Il Sung University |  | North Korea | 221 |
+| 10 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 200 |
+| 11 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | Kim Il Sung University |  | North Korea | 198 |
 | 12 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 196 |
 | 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 195 |
 | 14 | [july0785](https://github.com/july0785) | JULY |  |  | Pyongyang, DPR of Korea | 185 |

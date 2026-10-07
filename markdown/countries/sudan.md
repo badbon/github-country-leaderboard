@@ -1,6 +1,6 @@
 # Sudan
 
-Indexed users: 736
+Indexed users: 735
 
 | Leaderboard | Link |
 |---|---|
@@ -38,18 +38,18 @@ Indexed users: 736
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 1,291 |
-| 2 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 882 |
-| 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 788 |
+| 2 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,178 |
+| 3 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 882 |
 | 4 | [mohamedkam000](https://github.com/mohamedkam000) | Muhammad Kamal | Sudan | 764 |
 | 5 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 724 |
-| 6 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir |  Sudan | 690 |
+| 6 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir |  Sudan | 691 |
 | 7 | [sparkhere-sys](https://github.com/sparkhere-sys) | _Spark | Sudan | 556 |
 | 8 | [sherif414](https://github.com/sherif414) | shareef | Sudan | 469 |
 | 9 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 461 |
 | 10 | [breezyx28](https://github.com/breezyx28) | Mohamed Ahmed (Kat) | Omdurman, Khartoum, Sudan | 453 |
 | 11 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Sudan | 437 |
 | 12 | [AminElhag](https://github.com/AminElhag) | Amin Elhag | Khartoum,Sudan | 401 |
-| 13 | [Ah-m-ed-Dev](https://github.com/Ah-m-ed-Dev) | Ahmed_khalil | sudan | 385 |
+| 13 | [Ah-m-ed-Dev](https://github.com/Ah-m-ed-Dev) | Ahmed_khalil | sudan | 393 |
 | 14 | [Wadamzmail](https://github.com/Wadamzmail) | MutwakilX | El-Obeid/Sudan | 382 |
 | 15 | [ahmedelbilal](https://github.com/ahmedelbilal) | Ahmed Elbilal | Sudan, Khartoum | 378 |
 | 16 | [ali007-depug](https://github.com/ali007-depug) | Ali AbdElbagi | sudan | 360 |
@@ -78,9 +78,9 @@ Indexed users: 736
 | 14 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | Sudan | 58 |
 | 15 | [attaryz](https://github.com/attaryz) | Abdullah Ali | Khartoum, Sudan | 57 |
 | 16 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed | sudan | 56 |
-| 17 | [sam-x86](https://github.com/sam-x86) | SAM X86 | Sudan | 51 |
+| 17 | [sam-x86](https://github.com/sam-x86) | SAM X86 | Sudan | 55 |
 | 18 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 50 |
 | 19 | [osayami](https://github.com/osayami) | OSAYAMI | Sudan | 50 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 46 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:39:11.948Z

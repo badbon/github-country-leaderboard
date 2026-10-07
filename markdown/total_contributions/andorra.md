@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-09-28T23:41:16.295Z
+Generated: 2026-10-07T06:48:01.978Z
 
 Users: 215
 
@@ -19,10 +19,10 @@ Users: 215
 | 11 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 3699 |
 | 12 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 3385 |
 | 13 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 3169 |
-| 14 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 3014 |
-| 15 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 2706 |
-| 16 | [trebormc](https://github.com/trebormc) | Robert Menetray | Menetray | RobertMenetray | Andorra | 2436 |
-| 17 | [RemyMachado](https://github.com/RemyMachado) | Rémy Machado | Freelance |  | Andorra la Vella, Andorra | 2430 |
-| 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | IAND |  | Andorra | 2276 |
+| 14 | [GRKdev](https://github.com/GRKdev) | G.R.K. | IAND |  | Andorra | 3037 |
+| 15 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 3014 |
+| 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 2706 |
+| 17 | [trebormc](https://github.com/trebormc) | Robert Menetray | Menetray | RobertMenetray | Andorra | 2436 |
+| 18 | [RemyMachado](https://github.com/RemyMachado) | Rémy Machado | Freelance |  | Andorra la Vella, Andorra | 2430 |
 | 19 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | @surge-ai  |  | Andorra | 2263 |
 | 20 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Mountain Path Consulting |  | Ordino, Andorra | 2095 |

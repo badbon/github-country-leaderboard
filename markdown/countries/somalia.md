@@ -1,6 +1,6 @@
 # Somalia
 
-Indexed users: 867
+Indexed users: 866
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 867
 | 19 | [mohamedturaab](https://github.com/mohamedturaab) | Mohamed Turaab | Mogadishu, Somalia | 92 |
 | 20 | [abdorizak](https://github.com/abdorizak) | Abdirizak Abdalla  | Mogadisho,Somalia | 91 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:38:32.987Z

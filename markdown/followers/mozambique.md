@@ -1,8 +1,8 @@
 # Followers - Mozambique
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:12.684Z
 
-Users: 1177
+Users: 1176
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -15,8 +15,8 @@ Users: 1177
 | 7 | [eltonlaice](https://github.com/eltonlaice) | Elton |  |  | Mozambique | 198 |
 | 8 | [jose-bone](https://github.com/jose-bone) | José Boné |  | jose_bonejr | Quelimane, Mozambique | 192 |
 | 9 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino |  |  | Mozambique, Maputo | 186 |
-| 10 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | ESBM |  | Mozambique | 171 |
-| 11 | [kelven939](https://github.com/kelven939) | Kelven Bruno Carlos Lopes Bulha (KB) | @centauralfa34 (Centaur (Design & Code)) | KBulha | Beira, Sofala, Mozambique | 169 |
+| 10 | [kelven939](https://github.com/kelven939) | Kelven Bruno Carlos Lopes Bulha (KB) | @centauralfa34 (Centaur (Design & Code)) | KBulha | Beira, Sofala, Mozambique | 169 |
+| 11 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | ESBM |  | Mozambique | 168 |
 | 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | CEG Microsystems | albrtinoaugusto | Mozambique, Maputo | 162 |
 | 13 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 149 |
 | 14 | [ltsaiete](https://github.com/ltsaiete) | Luis Saiete |  | ltsaiete | Matola, Maputo, Mozambique | 139 |

@@ -22,10 +22,10 @@ Indexed users: 736
 | 8 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,124 |
 | 9 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 3,880 |
 | 10 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 3,772 |
-| 11 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,560 |
-| 12 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 3,321 |
-| 13 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf | Bahrain | 3,168 |
-| 14 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,138 |
+| 11 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,594 |
+| 12 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,560 |
+| 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 3,321 |
+| 14 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf | Bahrain | 3,168 |
 | 15 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,108 |
 | 16 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 2,781 |
 | 17 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,409 |
@@ -48,13 +48,13 @@ Indexed users: 736
 | 9 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
 | 10 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | Bahrain | 843 |
 | 11 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 806 |
-| 12 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain | 738 |
-| 13 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi | Bahrain | 728 |
-| 14 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi | Bahrain | 726 |
-| 15 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 707 |
-| 16 | [sfoulad](https://github.com/sfoulad) | Foulad | Bahrain | 682 |
-| 17 | [falansari](https://github.com/falansari) | Fatima Alansari | Bahrain | 677 |
-| 18 | [hussain-alsaibai](https://github.com/hussain-alsaibai) | Hussain Alsaibai | Bahrain | 666 |
+| 12 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi | Bahrain | 728 |
+| 13 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi | Bahrain | 726 |
+| 14 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 707 |
+| 15 | [sfoulad](https://github.com/sfoulad) | Foulad | Bahrain | 682 |
+| 16 | [falansari](https://github.com/falansari) | Fatima Alansari | Bahrain | 677 |
+| 17 | [hussain-alsaibai](https://github.com/hussain-alsaibai) | Hussain Alsaibai | Bahrain | 666 |
+| 18 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain | 657 |
 | 19 | [RaghadAlesakfi](https://github.com/RaghadAlesakfi) | Raghad | Bahrain | 637 |
 | 20 | [zahraa-hubail](https://github.com/zahraa-hubail) | Zahraa | Bahrain | 634 |
 
@@ -83,4 +83,4 @@ Indexed users: 736
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 41 |
 | 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa | Bahrain | 37 |
 
-Generated: 2026-09-29T13:09:30.507Z
+Generated: 2026-10-07T06:49:01.393Z

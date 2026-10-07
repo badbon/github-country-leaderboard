@@ -1,8 +1,8 @@
 # Followers - Tajikistan
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:39:45.541Z
 
-Users: 715
+Users: 713
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -15,14 +15,14 @@ Users: 715
 | 7 | [Abubakr7](https://github.com/Abubakr7) | Abubakr Juraev | Oriyonbonk |  | Dushanbe Tajikistan | 99 |
 | 8 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | @codex-team |  | Dushanbe, Tajikistan | 85 |
 | 9 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Home |  | Tajikistan Dushanbe | 80 |
-| 10 | [karimzade4444](https://github.com/karimzade4444) | Karimzoda Mustafo | OOO "TAKOM" |  | st. Ayni 48, Dushanbe, Tajikistan | 75 |
-| 11 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | @Rio-TJ  |  | Tajikistan | 75 |
-| 12 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Rio.tj |  | Tajikistan | 61 |
-| 13 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Hipasus  | awxitxble | Dushanbe, Tajikistan | 59 |
-| 14 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 56 |
-| 15 | [Jacobamv](https://github.com/Jacobamv) | Jacob Akhmedov | HumoLab |  | Dushanbe/Tajikistan | 55 |
-| 16 | [MuhammadiMirzo](https://github.com/MuhammadiMirzo) | Muhammadjon Mirzoev | SoftClub.tj |  | Dushanbe,Tajikistan | 54 |
-| 17 | [mehriddinsaidov](https://github.com/mehriddinsaidov) | Mehriddin Saidov | Saiph Group |  | Tajikistan | 52 |
-| 18 | [11bit](https://github.com/11bit) | Ivan Buryak | https://evilmartians.com | 11bit | Dushanbe | 50 |
-| 19 | [nazarovqurbonali](https://github.com/nazarovqurbonali) | Nazarov Qurbonali | Saiph Group |  | Dushanbe,Tajikistan | 50 |
-| 20 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | MegaFon  |  | Dushanbe | 48 |
+| 10 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | @Rio-TJ  |  | Tajikistan | 75 |
+| 11 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Rio.tj |  | Tajikistan | 61 |
+| 12 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Hipasus  | awxitxble | Dushanbe, Tajikistan | 59 |
+| 13 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 56 |
+| 14 | [Jacobamv](https://github.com/Jacobamv) | Jacob Akhmedov | HumoLab |  | Dushanbe/Tajikistan | 55 |
+| 15 | [MuhammadiMirzo](https://github.com/MuhammadiMirzo) | Muhammadjon Mirzoev | SoftClub.tj |  | Dushanbe,Tajikistan | 54 |
+| 16 | [mehriddinsaidov](https://github.com/mehriddinsaidov) | Mehriddin Saidov | Saiph Group |  | Tajikistan | 52 |
+| 17 | [11bit](https://github.com/11bit) | Ivan Buryak | https://evilmartians.com | 11bit | Dushanbe | 50 |
+| 18 | [nazarovqurbonali](https://github.com/nazarovqurbonali) | Nazarov Qurbonali | Saiph Group |  | Dushanbe,Tajikistan | 50 |
+| 19 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | MegaFon  |  | Dushanbe | 48 |
+| 20 | [GholibjonMadiyarov](https://github.com/GholibjonMadiyarov) | Gholibjon |  |  | Tajikistan | 46 |

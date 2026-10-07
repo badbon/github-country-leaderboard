@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 468
+Indexed users: 470
 
 | Leaderboard | Link |
 |---|---|
@@ -20,18 +20,18 @@ Indexed users: 468
 | 6 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,216 |
 | 7 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 3,940 |
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 3,853 |
-| 9 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,790 |
-| 10 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 3,249 |
-| 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,225 |
-| 12 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,827 |
-| 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 2,621 |
-| 14 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,314 |
-| 15 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,309 |
-| 16 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,202 |
-| 17 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 2,025 |
-| 18 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,613 |
-| 19 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 1,596 |
-| 20 | [whutddk](https://github.com/whutddk) | Ruige Lee | Antarctica | 1,580 |
+| 9 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,840 |
+| 10 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,790 |
+| 11 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 3,249 |
+| 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,225 |
+| 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,827 |
+| 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 2,621 |
+| 15 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,314 |
+| 16 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,309 |
+| 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,202 |
+| 18 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 2,025 |
+| 19 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,613 |
+| 20 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 1,596 |
 
 ## Public Contributions
 
@@ -41,7 +41,7 @@ Indexed users: 468
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 2,833 |
 | 3 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,790 |
 | 4 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 1,953 |
-| 5 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,458 |
+| 5 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
 | 6 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,399 |
 | 7 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,188 |
 | 8 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,173 |
@@ -83,4 +83,4 @@ Indexed users: 468
 | 19 | [crse](https://github.com/crse) |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 77 |
 
-Generated: 2026-09-29T06:06:28.710Z
+Generated: 2026-10-07T06:48:12.232Z

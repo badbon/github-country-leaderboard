@@ -1,8 +1,8 @@
 # Followers - New Caledonia
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:45.271Z
 
-Users: 112
+Users: 111
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -20,8 +20,8 @@ Users: 112
 | 12 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 12 |
 | 13 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 12 |
 | 14 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 11 |
-| 15 | [Alexandre-JAMROZ](https://github.com/Alexandre-JAMROZ) | Alexandre JAMROZ |  |  | New Caledonia | 10 |
-| 16 | [andymalo43](https://github.com/andymalo43) | Andy MALO | CAFAT |  | New-Caledonia | 10 |
+| 15 | [andymalo43](https://github.com/andymalo43) | Andy MALO | CAFAT |  | New-Caledonia | 11 |
+| 16 | [Alexandre-JAMROZ](https://github.com/Alexandre-JAMROZ) | Alexandre JAMROZ |  |  | New Caledonia | 10 |
 | 17 | [fabricedujardinportfolio](https://github.com/fabricedujardinportfolio) | Fabrice DUJARDIN |  |  | Nouméa | 10 |
 | 18 | [AviMcCartney](https://github.com/AviMcCartney) | CATALA Alexandre | @52-entertainment |  | New-Caledonia | 9 |
 | 19 | [gronono](https://github.com/gronono) | Arnaud | University of New Caledonia |  | New Caledonia | 9 |

@@ -1,8 +1,8 @@
 # Total Contributions - Burundi
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:50:50.317Z
 
-Users: 238
+Users: 237
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,7 +20,7 @@ Users: 238
 | 12 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | ACLIS | gatarelib | Burundi | 1202 |
 | 13 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 1201 |
 | 14 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 1177 |
-| 15 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 1102 |
+| 15 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 1108 |
 | 16 | [NIMPAYE](https://github.com/NIMPAYE) | christian belly NIMPAYE | @UbuhingaVizion  |  | Burundi | 1029 |
 | 17 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 1005 |
 | 18 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | United Nations Population Fund |  | Bujumbura, Burundi | 1002 |

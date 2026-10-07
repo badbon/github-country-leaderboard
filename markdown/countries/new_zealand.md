@@ -17,7 +17,7 @@ Indexed users: 12,155
 | 3 | [mitch-john](https://github.com/mitch-john) |  | New Zealand | 28,645 |
 | 4 | [DTACat](https://github.com/DTACat) | Cat | New Zealand | 23,496 |
 | 5 | [dreamineering](https://github.com/dreamineering) | howzus | New Zealand | 19,987 |
-| 6 | [thatskiff33](https://github.com/thatskiff33) | Jordan | Taranaki, New Zealand | 17,853 |
+| 6 | [thatskiff33](https://github.com/thatskiff33) | Jordan | Taranaki, New Zealand | 19,954 |
 | 7 | [joshuavial](https://github.com/joshuavial) | Joshua Vial | Wellington, New Zealand | 16,399 |
 | 8 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson | Cambridge, New Zealand | 16,321 |
 | 9 | [JavaGT](https://github.com/JavaGT) | JavaGT | New Zealand | 16,172 |
@@ -41,7 +41,7 @@ Indexed users: 12,155
 | 2 | [mitch-john](https://github.com/mitch-john) |  | New Zealand | 28,645 |
 | 3 | [DTACat](https://github.com/DTACat) | Cat | New Zealand | 22,026 |
 | 4 | [cgbarlow](https://github.com/cgbarlow) | Chris Barlow | Wellington, New Zealand | 10,902 |
-| 5 | [thatskiff33](https://github.com/thatskiff33) | Jordan | Taranaki, New Zealand | 9,825 |
+| 5 | [thatskiff33](https://github.com/thatskiff33) | Jordan | Taranaki, New Zealand | 10,779 |
 | 6 | [passcod](https://github.com/passcod) | Félix Saparelli | New Zealand | 9,592 |
 | 7 | [lee101](https://github.com/lee101) | Lee Penkman | New Zealand | 7,246 |
 | 8 | [rabble](https://github.com/rabble) | rabble | Pōneke, Aotearoa | 6,604 |
@@ -83,4 +83,4 @@ Indexed users: 12,155
 | 19 | [cortesi](https://github.com/cortesi) | Aldo Cortesi | Dunedin, New Zealand | 1,019 |
 | 20 | [patevs](https://github.com/patevs) | Pat | New Zealand | 917 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:50.112Z

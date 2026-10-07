@@ -1,6 +1,6 @@
 # Followers - Seychelles
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:37:54.111Z
 
 Users: 1788
 
@@ -20,9 +20,9 @@ Users: 1788
 | 12 | [samsonjs](https://github.com/samsonjs) | Sami Samhuri |  | _sjs | Victoria, BC | 176 |
 | 13 | [dmgerman](https://github.com/dmgerman) | Daniel German | University of Victoria |  | Victoria | 164 |
 | 14 | [leanpub](https://github.com/leanpub) | Leanpub | Leanpub |  | Victoria | 156 |
-| 15 | [Integ](https://github.com/Integ) | 姜上 | @ChillingEffect |  | Victoria, BC | 149 |
-| 16 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | GeoCat Canada |  | Victoria | 136 |
-| 17 | [PandaVPN](https://github.com/PandaVPN) | PandaVPN® | PandaVPN Official |  | Seychelles | 129 |
-| 18 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | @kohofinancial  |  | Victoria, BC | 119 |
-| 19 | [mkellerman](https://github.com/mkellerman) | Marc R Kellerman |  |  | Victoria, BC | 118 |
-| 20 | [cherishwins](https://github.com/cherishwins) | Jesse James | Cherish Community Living  |  | Victoria BC Canada | 117 |
+| 15 | [NormandoRamirezDelgado](https://github.com/NormandoRamirezDelgado) | Normando Alán Ramírez Delgado | CBTis 236 |  | Cd. Victoria, Tamaulipas | 154 |
+| 16 | [Integ](https://github.com/Integ) | 姜上 | @ChillingEffect |  | Victoria, BC | 149 |
+| 17 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | GeoCat Canada |  | Victoria | 136 |
+| 18 | [PandaVPN](https://github.com/PandaVPN) | PandaVPN® | PandaVPN Official |  | Seychelles | 129 |
+| 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Cherish Community Living  |  | Victoria BC Canada | 122 |
+| 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | @kohofinancial  |  | Victoria, BC | 119 |

@@ -1,12 +1,12 @@
 # Followers - Sint Maarten
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:38:03.573Z
 
 Users: 7
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [jamiesonbates](https://github.com/jamiesonbates) | Jamieson Bates |  |  | Philipsburg, MT | 13 |
+| 1 | [jamiesonbates](https://github.com/jamiesonbates) | Jamieson Bates |  |  | Philipsburg, MT | 15 |
 | 2 | [SxMAbel](https://github.com/SxMAbel) | SXM_ABEL |  | SXM_ABEL | Philipsburg, Sint Maarten | 9 |
 | 3 | [docboy52](https://github.com/docboy52) | John Hubler | Central PA Web Design |  | Philipsburg, PA 16866 | 3 |
 | 4 | [repro-code](https://github.com/repro-code) | Maarten Plonk |  |  | Sint Maarten | 3 |

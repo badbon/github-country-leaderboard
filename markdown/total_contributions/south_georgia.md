@@ -1,13 +1,13 @@
 # Total Contributions - South Georgia
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:38:57.174Z
 
 Users: 6
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [exp111](https://github.com/exp111) | Exp |  |  | South Georgia and the South Sandwich Islands | 674 |
-| 2 | [kisaragi1](https://github.com/kisaragi1) |  |  |  | South Georgia And The South Sandwich Islands | 26 |
+| 1 | [exp111](https://github.com/exp111) | Exp |  |  | South Georgia and the South Sandwich Islands | 720 |
+| 2 | [kisaragi1](https://github.com/kisaragi1) |  |  |  | South Georgia And The South Sandwich Islands | 28 |
 | 3 | [nullwing](https://github.com/nullwing) | Nullwing | Brainfart Solutions |  | South Georgia  | 5 |
 | 4 | [MrFreezeEugene](https://github.com/MrFreezeEugene) | MrFreezeEugene | Universal Steel Information Technology (I)  |  | South Georgia and the South Sandwich Islands | 0 |
 | 5 | [NofroX](https://github.com/NofroX) |  | Falkland Islands Defence Force |  | King Edward Point | 0 |

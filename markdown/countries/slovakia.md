@@ -1,6 +1,6 @@
 # Slovakia
 
-Indexed users: 4,706
+Indexed users: 4,705
 
 | Leaderboard | Link |
 |---|---|
@@ -51,12 +51,12 @@ Indexed users: 4,706
 | 12 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik | Slovakia | 3,113 |
 | 13 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor | Slovakia | 3,031 |
 | 14 | [NightMean](https://github.com/NightMean) |  | Slovakia | 3,023 |
-| 15 | [hroomnik007](https://github.com/hroomnik007) |  | Slovakia | 2,431 |
-| 16 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,395 |
-| 17 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 2,391 |
-| 18 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny | Slovakia | 2,282 |
-| 19 | [pilot2254](https://github.com/pilot2254) | mike | Slovakia | 2,172 |
-| 20 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi | Slovakia | 2,049 |
+| 15 | [WizzardSK](https://github.com/WizzardSK) |  | Bratislava, Slovakia | 2,395 |
+| 16 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 2,391 |
+| 17 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny | Slovakia | 2,282 |
+| 18 | [pilot2254](https://github.com/pilot2254) | mike | Slovakia | 2,172 |
+| 19 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi | Slovakia | 2,049 |
+| 20 | [zdila](https://github.com/zdila) | Martin Ždila | Košice, Slovakia | 1,977 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,706
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:38:22.833Z

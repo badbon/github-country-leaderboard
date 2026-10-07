@@ -49,14 +49,14 @@ Indexed users: 1,661
 | 10 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 1,714 |
 | 11 | [hvstechzw](https://github.com/hvstechzw) | Aetheris Innovative Enterprises | Zimbabwe | 1,670 |
 | 12 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Harare | 1,632 |
-| 13 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 1,424 |
-| 14 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine | Zimbabwe | 1,358 |
-| 15 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 1,295 |
-| 16 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,249 |
-| 17 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,199 |
-| 18 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,192 |
-| 19 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Bulawayo, Zimbabwe | 1,116 |
-| 20 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Zimbabwe, BYO | 1,099 |
+| 13 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Zimbabwe, BYO | 1,527 |
+| 14 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 1,424 |
+| 15 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine | Zimbabwe | 1,358 |
+| 16 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 1,295 |
+| 17 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,249 |
+| 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,199 |
+| 19 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,192 |
+| 20 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Bulawayo, Zimbabwe | 1,116 |
 
 ## Followers
 
@@ -65,7 +65,7 @@ Indexed users: 1,661
 | 1 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,306 |
 | 2 | [kenjiwizard](https://github.com/kenjiwizard) | Kenji | Harare | 1,201 |
 | 3 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 619 |
-| 4 | [nelsonnzou-crypt](https://github.com/nelsonnzou-crypt) | Tapiwanashe Nelson Nzou | Zimbabwe | 617 |
+| 4 | [nelsonnzou-crypt](https://github.com/nelsonnzou-crypt) | Tapiwanashe Nelson Nzou | Zimbabwe | 612 |
 | 5 | [KnowledgeSeeker101-bit](https://github.com/KnowledgeSeeker101-bit) | Nyashadzaishe Masvongo | harare  Zimbabwe | 451 |
 | 6 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 222 |
 | 7 | [skyridertk](https://github.com/skyridertk) | Tanaka I Kahwai | Harare, Zimbabwe | 205 |
@@ -83,4 +83,4 @@ Indexed users: 1,661
 | 19 | [kaysiz](https://github.com/kaysiz) | kudakwashe siziva | Zimbabwe | 122 |
 | 20 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 113 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:46:04.146Z

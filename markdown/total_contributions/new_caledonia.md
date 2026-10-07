@@ -1,8 +1,8 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:45.271Z
 
-Users: 112
+Users: 111
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,16 +13,16 @@ Users: 112
 | 5 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | @gouv-nc  |  | Nouméa, New Caledonia | 1415 |
 | 6 | [Dougniel](https://github.com/Dougniel) | Daniel Santos |  |  | New Caledonia | 1401 |
 | 7 | [6pheR](https://github.com/6pheR) | CipheR_ | Mineria |  | New Caledonia | 1386 |
-| 8 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1300 |
-| 9 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 1109 |
-| 10 | [120dev](https://github.com/120dev) | 120 | 120DEV |  | NEW CALEDONIA | 959 |
-| 11 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 850 |
+| 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 1342 |
+| 9 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1300 |
+| 10 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 1109 |
+| 11 | [120dev](https://github.com/120dev) | 120 | 120DEV |  | NEW CALEDONIA | 959 |
 | 12 | [bpouzet](https://github.com/bpouzet) | Benoit Pouzet | @ooopener |  | Nouméa, New Caledonia | 813 |
 | 13 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | Gouvernement de la Nouvelle-Calédonie |  | New-Caledonia | 801 |
 | 14 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 679 |
 | 15 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 658 |
 | 16 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 567 |
-| 17 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Pacific Community \| Communauté de Pacifique | BenCochraneR | Nouméa | 562 |
+| 17 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Pacific Community \| Communauté de Pacifique | BenCochraneR | Nouméa | 527 |
 | 18 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 484 |
 | 19 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 421 |
 | 20 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | none |  | New-Caledonia | 406 |

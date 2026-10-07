@@ -1,6 +1,6 @@
 # Western Sahara
 
-Indexed users: 6
+Indexed users: 5
 
 | Leaderboard | Link |
 |---|---|
@@ -12,33 +12,30 @@ Indexed users: 6
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [suzuya1331](https://github.com/suzuya1331) | Hassan mansour | Laayoune, Western Sahara | 4,318 |
-| 2 | [ob-aion](https://github.com/ob-aion) | OB | Western Sahara | 1,008 |
+| 1 | [suzuya1331](https://github.com/suzuya1331) | Hassan mansour | Laayoune, Western Sahara | 5,074 |
+| 2 | [ob-aion](https://github.com/ob-aion) | OB | Western Sahara | 1,127 |
 | 3 | [Omebran](https://github.com/Omebran) |  | East Annaton, Western Sahara | 15 |
 | 4 | [Agaoudi](https://github.com/Agaoudi) | Mohamed Elamine Gaoudi | Western Sahara | 0 |
-| 5 | [fosterlee](https://github.com/fosterlee) | Foster Lee |  Sahrawi Arab Democratic Republic | 0 |
-| 6 | [LevKotly](https://github.com/LevKotly) | Lev | Laayoune, Western Sahara | 0 |
+| 5 | [LevKotly](https://github.com/LevKotly) | Lev | Laayoune, Western Sahara | 0 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ob-aion](https://github.com/ob-aion) | OB | Western Sahara | 598 |
+| 1 | [ob-aion](https://github.com/ob-aion) | OB | Western Sahara | 659 |
 | 2 | [suzuya1331](https://github.com/suzuya1331) | Hassan mansour | Laayoune, Western Sahara | 26 |
 | 3 | [Omebran](https://github.com/Omebran) |  | East Annaton, Western Sahara | 15 |
 | 4 | [Agaoudi](https://github.com/Agaoudi) | Mohamed Elamine Gaoudi | Western Sahara | 0 |
-| 5 | [fosterlee](https://github.com/fosterlee) | Foster Lee |  Sahrawi Arab Democratic Republic | 0 |
-| 6 | [LevKotly](https://github.com/LevKotly) | Lev | Laayoune, Western Sahara | 0 |
+| 5 | [LevKotly](https://github.com/LevKotly) | Lev | Laayoune, Western Sahara | 0 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [suzuya1331](https://github.com/suzuya1331) | Hassan mansour | Laayoune, Western Sahara | 27 |
-| 2 | [fosterlee](https://github.com/fosterlee) | Foster Lee |  Sahrawi Arab Democratic Republic | 17 |
-| 3 | [ob-aion](https://github.com/ob-aion) | OB | Western Sahara | 8 |
-| 4 | [Agaoudi](https://github.com/Agaoudi) | Mohamed Elamine Gaoudi | Western Sahara | 5 |
-| 5 | [Omebran](https://github.com/Omebran) |  | East Annaton, Western Sahara | 5 |
-| 6 | [LevKotly](https://github.com/LevKotly) | Lev | Laayoune, Western Sahara | 1 |
+| 1 | [suzuya1331](https://github.com/suzuya1331) | Hassan mansour | Laayoune, Western Sahara | 28 |
+| 2 | [ob-aion](https://github.com/ob-aion) | OB | Western Sahara | 7 |
+| 3 | [Agaoudi](https://github.com/Agaoudi) | Mohamed Elamine Gaoudi | Western Sahara | 5 |
+| 4 | [Omebran](https://github.com/Omebran) |  | East Annaton, Western Sahara | 5 |
+| 5 | [LevKotly](https://github.com/LevKotly) | Lev | Laayoune, Western Sahara | 1 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:44:10.896Z

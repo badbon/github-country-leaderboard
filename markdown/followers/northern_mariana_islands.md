@@ -1,13 +1,13 @@
 # Followers - Northern Mariana Islands
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:30:00.302Z
 
 Users: 13
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [donnaada](https://github.com/donnaada) | Donna Ada |  |  | Saipan, MP | 27 |
-| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo |  |  | Saipan, MP | 25 |
+| 2 | [stephenalonzo](https://github.com/stephenalonzo) | Stephen Alonzo |  |  | Saipan, MP | 14 |
 | 3 | [wgaul](https://github.com/wgaul) | Willson Gaul |  |  | Saipan, MP | 6 |
 | 4 | [chris-yng](https://github.com/chris-yng) | Christopher Young |  |  | Sotobury, Northern Mariana Islands | 5 |
 | 5 | [LENDFORME](https://github.com/LENDFORME) | Mikalik |  |  |  SAIPAN | 5 |

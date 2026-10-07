@@ -1,6 +1,6 @@
 # Armenia
 
-Indexed users: 4,052
+Indexed users: 4,050
 
 | Leaderboard | Link |
 |---|---|
@@ -81,6 +81,6 @@ Indexed users: 4,052
 | 17 | [ivbeg](https://github.com/ivbeg) | Ivan Begtin | Armenia | 332 |
 | 18 | [igrishaev](https://github.com/igrishaev) | Ivan Grishaev | Armenia | 254 |
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
-| 20 | [maendooh](https://github.com/maendooh) | Ruben Tadevosian | Armenia | 242 |
+| 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-09-29T13:07:26.970Z
+Generated: 2026-10-07T06:48:24.290Z

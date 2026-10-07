@@ -1,8 +1,8 @@
 # Public Contributions - Bolivia
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:50:05.910Z
 
-Users: 1796
+Users: 1795
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 1796
 | 12 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1327 |
 | 13 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez |  |  | La Paz, Bolivia | 1307 |
 | 14 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1294 |
-| 15 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño |  |  | Cochabamba, Bolivia | 1111 |
-| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared SRL |  | Santa cruz de la sierra, Bolivia | 1106 |
-| 17 | [ospfranco](https://github.com/ospfranco) | Oscar Franco |  | ospfranco | Bolivia | 1081 |
+| 15 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared SRL |  | Santa cruz de la sierra, Bolivia | 1106 |
+| 16 | [ospfranco](https://github.com/ospfranco) | Oscar Franco |  | ospfranco | Bolivia | 1081 |
+| 17 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño |  |  | Cochabamba, Bolivia | 1042 |
 | 18 | [olivio-git](https://github.com/olivio-git) | olivio-git |  |  | Tarija/Bolivia | 1039 |
-| 19 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Higher University of San Simón |  | Bolivia | 1003 |
-| 20 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez |  |  | Bolivia | 1003 |
+| 19 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez |  |  | Bolivia | 1021 |
+| 20 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Higher University of San Simón |  | Bolivia | 1003 |

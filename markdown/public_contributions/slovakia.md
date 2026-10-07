@@ -1,8 +1,8 @@
 # Public Contributions - Slovakia
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:38:22.833Z
 
-Users: 4706
+Users: 4705
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 4706
 | 12 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik |  |  | Slovakia | 3113 |
 | 13 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor |  |  | Slovakia | 3031 |
 | 14 | [NightMean](https://github.com/NightMean) |  |  |  | Slovakia | 3023 |
-| 15 | [hroomnik007](https://github.com/hroomnik007) |  |  |  | Slovakia | 2431 |
-| 16 | [WizzardSK](https://github.com/WizzardSK) |  |  |  | Bratislava, Slovakia | 2395 |
-| 17 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar |  |  | Bratislava | 2391 |
-| 18 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny |  |  | Slovakia | 2282 |
-| 19 | [pilot2254](https://github.com/pilot2254) | mike | High School |  | Slovakia | 2172 |
-| 20 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi |  |  | Slovakia | 2049 |
+| 15 | [WizzardSK](https://github.com/WizzardSK) |  |  |  | Bratislava, Slovakia | 2395 |
+| 16 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar |  |  | Bratislava | 2391 |
+| 17 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny |  |  | Slovakia | 2282 |
+| 18 | [pilot2254](https://github.com/pilot2254) | mike | High School |  | Slovakia | 2172 |
+| 19 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi |  |  | Slovakia | 2049 |
+| 20 | [zdila](https://github.com/zdila) | Martin Ždila |  | martinzdila | Košice, Slovakia | 1977 |

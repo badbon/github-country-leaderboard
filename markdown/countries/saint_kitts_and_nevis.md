@@ -12,8 +12,8 @@ Indexed users: 5
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [RonaldCrb](https://github.com/RonaldCrb) | Ron Alonzo | St. Kitts and Nevis, Basseterre | 459 |
-| 2 | [Volene](https://github.com/Volene) |  | Saint Kitts and Nevis | 18 |
+| 1 | [RonaldCrb](https://github.com/RonaldCrb) | Ron Alonzo | St. Kitts and Nevis, Basseterre | 753 |
+| 2 | [Volene](https://github.com/Volene) |  | Saint Kitts and Nevis | 15 |
 | 3 | [tbxcorp](https://github.com/tbxcorp) | TBX_admin | Saint Kitts and Nevis | 1 |
 | 4 | [kielrajames](https://github.com/kielrajames) | Kiel R A James | Basseterre, St. Kitts | 0 |
 | 5 | [SimpledPro](https://github.com/SimpledPro) | Simpled | Saint Kitts and Nevis | 0 |
@@ -22,11 +22,11 @@ Indexed users: 5
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Volene](https://github.com/Volene) |  | Saint Kitts and Nevis | 3 |
+| 1 | [RonaldCrb](https://github.com/RonaldCrb) | Ron Alonzo | St. Kitts and Nevis, Basseterre | 67 |
 | 2 | [tbxcorp](https://github.com/tbxcorp) | TBX_admin | Saint Kitts and Nevis | 1 |
 | 3 | [kielrajames](https://github.com/kielrajames) | Kiel R A James | Basseterre, St. Kitts | 0 |
-| 4 | [RonaldCrb](https://github.com/RonaldCrb) | Ron Alonzo | St. Kitts and Nevis, Basseterre | 0 |
-| 5 | [SimpledPro](https://github.com/SimpledPro) | Simpled | Saint Kitts and Nevis | 0 |
+| 4 | [SimpledPro](https://github.com/SimpledPro) | Simpled | Saint Kitts and Nevis | 0 |
+| 5 | [Volene](https://github.com/Volene) |  | Saint Kitts and Nevis | 0 |
 
 ## Followers
 
@@ -38,4 +38,4 @@ Indexed users: 5
 | 4 | [SimpledPro](https://github.com/SimpledPro) | Simpled | Saint Kitts and Nevis | 1 |
 | 5 | [tbxcorp](https://github.com/tbxcorp) | TBX_admin | Saint Kitts and Nevis | 1 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:36:25.450Z

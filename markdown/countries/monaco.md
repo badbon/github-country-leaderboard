@@ -21,13 +21,13 @@ Indexed users: 142
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 895 |
 | 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 823 |
 | 9 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 659 |
-| 10 | [linux-ur](https://github.com/linux-ur) | Linux.user | Monaco | 637 |
-| 11 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 617 |
-| 12 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 591 |
-| 13 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 531 |
-| 14 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 491 |
-| 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 479 |
-| 16 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 471 |
+| 10 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 624 |
+| 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 591 |
+| 12 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 531 |
+| 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 491 |
+| 14 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 479 |
+| 15 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 471 |
+| 16 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 315 |
 | 17 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 273 |
 | 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 267 |
 | 19 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO | Monaco | 223 |
@@ -40,17 +40,17 @@ Indexed users: 142
 | 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 4,071 |
 | 2 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 2,181 |
 | 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 687 |
-| 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 617 |
+| 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 624 |
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 389 |
 | 6 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO | Monaco | 223 |
 | 7 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 212 |
 | 8 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 201 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 168 |
-| 10 | [linux-ur](https://github.com/linux-ur) | Linux.user | Monaco | 120 |
-| 11 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | Nice / Monaco / Sophia Antipolis | 111 |
-| 12 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering | Monaco | 106 |
-| 13 | [fedecarz](https://github.com/fedecarz) | fedecarz | Monaco | 99 |
-| 14 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 77 |
+| 10 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | Nice / Monaco / Sophia Antipolis | 111 |
+| 11 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering | Monaco | 106 |
+| 12 | [fedecarz](https://github.com/fedecarz) | fedecarz | Monaco | 99 |
+| 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 77 |
+| 14 | [yeainworks](https://github.com/yeainworks) | yea! | monaco | 74 |
 | 15 | [DemianOrt](https://github.com/DemianOrt) | Demian Ortega | Monaco | 60 |
 | 16 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 54 |
 | 17 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 52 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 12 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:27:56.304Z

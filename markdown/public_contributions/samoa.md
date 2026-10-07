@@ -1,21 +1,21 @@
 # Public Contributions - Samoa
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:37:13.480Z
 
 Users: 19
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Vodafone Samoa |  | Samoa | 298 |
-| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | madman.com | arctips | Apia, Samoa | 218 |
-| 3 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Hamotech Solutions |  | Apia Samoa | 93 |
-| 4 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | SPREP |  | Samoa | 78 |
-| 5 | [Radr443](https://github.com/Radr443) | Radr |  |  | Samoa  | 75 |
-| 6 | [iwtem](https://github.com/iwtem) | Iwtem | American |  | Samoa | 74 |
-| 7 | [samos667](https://github.com/samos667) |  |  |  | Apia | 58 |
+| 1 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Synergy Blockchain Pacific Limited | Hamobcdev | Samoa | 911 |
+| 2 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Vodafone Samoa |  | Samoa | 362 |
+| 3 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | madman.com | arctips | Apia, Samoa | 222 |
+| 4 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Hamotech Solutions |  | Apia Samoa | 93 |
+| 5 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | SPREP |  | Samoa | 90 |
+| 6 | [iwtem](https://github.com/iwtem) | Iwtem | American |  | Samoa | 75 |
+| 7 | [Radr443](https://github.com/Radr443) | Radr |  |  | Samoa  | 69 |
 | 8 | [tavitas](https://github.com/tavitas) | Tavita Su'a | SPREP |  | Samoa | 44 |
-| 9 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Synergy Blockchain Pacific Limited | siaosiw | Samoa | 7 |
-| 10 | [duchonic](https://github.com/duchonic) | duchonic |  |  | samoa | 6 |
+| 9 | [samos667](https://github.com/samos667) |  |  |  | Apia | 39 |
+| 10 | [duchonic](https://github.com/duchonic) | duchonic |  |  | samoa | 7 |
 | 11 | [Varmuz](https://github.com/Varmuz) | Varmuz |  |  | Samoa | 3 |
 | 12 | [5thAttemptCode](https://github.com/5thAttemptCode) | Henry  |  |  | Apia, Samoa | 2 |
 | 13 | [gusdafa](https://github.com/gusdafa) | Gus C |  |  | Apia, Samoa | 0 |

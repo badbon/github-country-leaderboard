@@ -1,6 +1,6 @@
 # Mozambique
 
-Indexed users: 1,177
+Indexed users: 1,176
 
 | Leaderboard | Link |
 |---|---|
@@ -42,9 +42,9 @@ Indexed users: 1,177
 | 3 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | Mozambique | 2,702 |
 | 4 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 1,150 |
 | 5 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | Maputo | 1,090 |
-| 6 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 974 |
-| 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 936 |
-| 8 | [zerosatus](https://github.com/zerosatus) | zerosatus | Mozambique | 884 |
+| 6 | [zerosatus](https://github.com/zerosatus) | zerosatus | Mozambique | 1,003 |
+| 7 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 974 |
+| 8 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 936 |
 | 9 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 693 |
 | 10 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 690 |
 | 11 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | Mozambique | 685 |
@@ -71,8 +71,8 @@ Indexed users: 1,177
 | 7 | [eltonlaice](https://github.com/eltonlaice) | Elton | Mozambique | 198 |
 | 8 | [jose-bone](https://github.com/jose-bone) | José Boné | Quelimane, Mozambique | 192 |
 | 9 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino | Mozambique, Maputo | 186 |
-| 10 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | Mozambique | 171 |
-| 11 | [kelven939](https://github.com/kelven939) | Kelven Bruno Carlos Lopes Bulha (KB) | Beira, Sofala, Mozambique | 169 |
+| 10 | [kelven939](https://github.com/kelven939) | Kelven Bruno Carlos Lopes Bulha (KB) | Beira, Sofala, Mozambique | 169 |
+| 11 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | Mozambique | 168 |
 | 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | Mozambique, Maputo | 162 |
 | 13 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 149 |
 | 14 | [ltsaiete](https://github.com/ltsaiete) | Luis Saiete | Matola, Maputo, Mozambique | 139 |
@@ -83,4 +83,4 @@ Indexed users: 1,177
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [EMEDE2014](https://github.com/EMEDE2014) | Emede Momade | Nampula/Mozambique | 96 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:12.684Z

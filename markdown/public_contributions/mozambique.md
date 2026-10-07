@@ -1,8 +1,8 @@
 # Public Contributions - Mozambique
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:12.684Z
 
-Users: 1177
+Users: 1176
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,9 +11,9 @@ Users: 1177
 | 3 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | fluxosoftwares |  | Mozambique | 2702 |
 | 4 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch |  | ubelloch | Mozambique, Maputo | 1150 |
 | 5 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | IPC Global Support Unit - FAO |  | Maputo | 1090 |
-| 6 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 974 |
-| 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 936 |
-| 8 | [zerosatus](https://github.com/zerosatus) | zerosatus | Zerosatus |  | Mozambique | 884 |
+| 6 | [zerosatus](https://github.com/zerosatus) | zerosatus | Zerosatus |  | Mozambique | 1003 |
+| 7 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 974 |
+| 8 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 936 |
 | 9 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao |  | Arcides_ | Mozambique | 693 |
 | 10 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | FDS | FilipeD30920066 | Mozambique | 690 |
 | 11 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | @pavulla-tech  |  | Mozambique | 685 |

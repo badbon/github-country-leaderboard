@@ -12,8 +12,8 @@ Indexed users: 9,517
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Uzbekistan | 159,877 |
-| 2 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | Uzbekistan | 144,722 |
+| 1 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | Uzbekistan | 194,722 |
+| 2 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Uzbekistan | 159,877 |
 | 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Uzbekistan | 80,448 |
 | 4 | [xcrpty7](https://github.com/xcrpty7) |  | Tashkent, Uzbekistan | 29,033 |
 | 5 | [diyor28](https://github.com/diyor28) | Diyor Khaydarov | Uzbekistan, Tashkent | 20,528 |
@@ -37,8 +37,8 @@ Indexed users: 9,517
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Uzbekistan | 144,754 |
-| 2 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | Uzbekistan | 144,722 |
+| 1 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | Uzbekistan | 194,722 |
+| 2 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Uzbekistan | 144,754 |
 | 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Uzbekistan | 80,448 |
 | 4 | [xcrpty7](https://github.com/xcrpty7) |  | Tashkent, Uzbekistan | 29,033 |
 | 5 | [dilshodeksattarov195-arch](https://github.com/dilshodeksattarov195-arch) | DILSHODBEK | Xonqa, Uzbekistan, Xorazm | 12,554 |
@@ -83,4 +83,4 @@ Indexed users: 9,517
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [goldendevuz](https://github.com/goldendevuz) | Abdulmajid Yunusov | Chilonzor, Tashkent, Uzbekistan | 301 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:42:34.772Z

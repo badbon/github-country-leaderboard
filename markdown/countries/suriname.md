@@ -15,7 +15,7 @@ Indexed users: 124
 | 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 50,342 |
 | 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 12,729 |
 | 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott | Suriname | 6,021 |
-| 4 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 2,532 |
+| 4 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 2,767 |
 | 5 | [Beefy-py](https://github.com/Beefy-py) | Kenny Hoft | Commwijne, Suriname | 1,664 |
 | 6 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 1,603 |
 | 7 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | Paramaribo | 1,387 |
@@ -42,21 +42,21 @@ Indexed users: 124
 | 3 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 484 |
 | 4 | [devbravo](https://github.com/devbravo) | Diego Sabajo | Paramaribo, Suriname | 373 |
 | 5 | [JustinDouglas16](https://github.com/JustinDouglas16) | Justin Douglas | Paramaribo | 251 |
-| 6 | [lordsmg21](https://github.com/lordsmg21) | LordSMG | Paramaribo | 234 |
-| 7 | [DeviousSiddy](https://github.com/DeviousSiddy) |  | Suriname | 209 |
-| 8 | [Fuseteam](https://github.com/Fuseteam) | Rahammetoela Toekiman | Paramaribo, Suriname | 148 |
-| 9 | [ShawnMeo](https://github.com/ShawnMeo) | Shawn | Suriname | 127 |
-| 10 | [Nikhcodes](https://github.com/Nikhcodes) | Nikhcodes | Paramaribo | 110 |
+| 6 | [DeviousSiddy](https://github.com/DeviousSiddy) |  | Suriname | 209 |
+| 7 | [Fuseteam](https://github.com/Fuseteam) | Rahammetoela Toekiman | Paramaribo, Suriname | 148 |
+| 8 | [ShawnMeo](https://github.com/ShawnMeo) | Shawn | Suriname | 127 |
+| 9 | [Nikhcodes](https://github.com/Nikhcodes) | Nikhcodes | Paramaribo | 118 |
+| 10 | [99syukhi](https://github.com/99syukhi) | Jo-Melly Amatbahrowi | Suriname | 101 |
 | 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 96 |
 | 12 | [Arnvvch](https://github.com/Arnvvch) | Arnvvch | Paramaribo, Suriname | 77 |
 | 13 | [DustinVII](https://github.com/DustinVII) |  | Suriname | 76 |
 | 14 | [FrostiSR](https://github.com/FrostiSR) | Daniel dos Ramos | Paramaribo, Suriname | 74 |
 | 15 | [shenayasitaldien-creator](https://github.com/shenayasitaldien-creator) | papaya | suriname | 74 |
-| 16 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 68 |
-| 17 | [99syukhi](https://github.com/99syukhi) | Jo-Melly Amatbahrowi | Suriname | 63 |
-| 18 | [muskaanm4](https://github.com/muskaanm4) | Muskaan Mahabier | Suriname, Paramaribo | 63 |
-| 19 | [nathaniel123x3rd](https://github.com/nathaniel123x3rd) | Nathanielx3rd | Paramaribo, Suriname | 60 |
-| 20 | [stefblokdijk](https://github.com/stefblokdijk) | Stef Blokdijk | Suriname | 55 |
+| 16 | [muskaanm4](https://github.com/muskaanm4) | Muskaan Mahabier | Suriname, Paramaribo | 63 |
+| 17 | [nathaniel123x3rd](https://github.com/nathaniel123x3rd) | Nathanielx3rd | Paramaribo, Suriname | 60 |
+| 18 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 56 |
+| 19 | [stefblokdijk](https://github.com/stefblokdijk) | Stef Blokdijk | Suriname | 55 |
+| 20 | [JoshKarta](https://github.com/JoshKarta) | Josh K | Paramaribo, Suriname | 54 |
 
 ## Followers
 
@@ -71,7 +71,7 @@ Indexed users: 124
 | 7 | [Fuseteam](https://github.com/Fuseteam) | Rahammetoela Toekiman | Paramaribo, Suriname | 38 |
 | 8 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam | Suriname | 38 |
 | 9 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 36 |
-| 10 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 35 |
+| 10 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 36 |
 | 11 | [shayant98](https://github.com/shayant98) | Shayant | Suriname | 35 |
 | 12 | [kareldonk](https://github.com/kareldonk) | Karel Donk | Suriname | 28 |
 | 13 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | Paramaribo | 27 |
@@ -83,4 +83,4 @@ Indexed users: 124
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
 | 20 | [DustinVII](https://github.com/DustinVII) |  | Suriname | 16 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:39:14.990Z

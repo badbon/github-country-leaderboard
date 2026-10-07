@@ -1,6 +1,6 @@
 # Public Contributions - Bahrain
 
-Generated: 2026-09-29T13:09:30.507Z
+Generated: 2026-10-07T06:49:01.393Z
 
 Users: 736
 
@@ -17,12 +17,12 @@ Users: 736
 | 9 | [read2see](https://github.com/read2see) | Husain Habib |  |  | Bahrain | 888 |
 | 10 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | American University of Bahrain |  | Bahrain | 843 |
 | 11 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 806 |
-| 12 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain Polytechnic |  | Bahrain | 738 |
-| 13 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi |  |  | Bahrain | 728 |
-| 14 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi |  |  | Bahrain | 726 |
-| 15 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 707 |
-| 16 | [sfoulad](https://github.com/sfoulad) | Foulad | Foulad | Fouladtm | Bahrain | 682 |
-| 17 | [falansari](https://github.com/falansari) | Fatima Alansari |  |  | Bahrain | 677 |
-| 18 | [hussain-alsaibai](https://github.com/hussain-alsaibai) | Hussain Alsaibai |  |  | Bahrain | 666 |
+| 12 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi |  |  | Bahrain | 728 |
+| 13 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi |  |  | Bahrain | 726 |
+| 14 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 707 |
+| 15 | [sfoulad](https://github.com/sfoulad) | Foulad | Foulad | Fouladtm | Bahrain | 682 |
+| 16 | [falansari](https://github.com/falansari) | Fatima Alansari |  |  | Bahrain | 677 |
+| 17 | [hussain-alsaibai](https://github.com/hussain-alsaibai) | Hussain Alsaibai |  |  | Bahrain | 666 |
+| 18 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain Polytechnic |  | Bahrain | 657 |
 | 19 | [RaghadAlesakfi](https://github.com/RaghadAlesakfi) | Raghad | Bahrain Polytechnic |  | Bahrain | 637 |
 | 20 | [zahraa-hubail](https://github.com/zahraa-hubail) | Zahraa | Bahrain Polytechnic |  | Bahrain | 634 |

@@ -1,6 +1,6 @@
 # Ukraine
 
-Indexed users: 47,774
+Indexed users: 47,770
 
 | Leaderboard | Link |
 |---|---|
@@ -50,13 +50,13 @@ Indexed users: 47,774
 | 11 | [Nuke22](https://github.com/Nuke22) | Yurii Fedoniuk | Lutsk, Ukraine | 10,531 |
 | 12 | [menvil](https://github.com/menvil) | Ivan Moroz | Kharkov, Ukraine | 7,454 |
 | 13 | [hantYT](https://github.com/hantYT) | SERHII MOVCHAN | ukraine | 6,458 |
-| 14 | [overthelex](https://github.com/overthelex) | Lexai | Kyiv, Ukraine | 6,312 |
-| 15 | [5HT](https://github.com/5HT) | Magnus Ericsson | Kyiv, Ukraine | 6,125 |
-| 16 | [rssh](https://github.com/rssh) | Ruslan Shevchenko | Kiev, Ukraine | 5,951 |
-| 17 | [Rinary1](https://github.com/Rinary1) | Rinary | Ukraine | 5,907 |
-| 18 | [ivankovnatsky](https://github.com/ivankovnatsky) | Ivan Kovnatsky | Ukraine | 5,560 |
-| 19 | [dz333n](https://github.com/dz333n) | Yaroslav Kibysh | Ukraine | 5,164 |
-| 20 | [AvatarSD](https://github.com/AvatarSD) | avatarsd | Ukraine, Kyiv | 4,965 |
+| 14 | [5HT](https://github.com/5HT) | Magnus Ericsson | Kyiv, Ukraine | 6,125 |
+| 15 | [rssh](https://github.com/rssh) | Ruslan Shevchenko | Kiev, Ukraine | 5,951 |
+| 16 | [Rinary1](https://github.com/Rinary1) | Rinary | Ukraine | 5,907 |
+| 17 | [ivankovnatsky](https://github.com/ivankovnatsky) | Ivan Kovnatsky | Ukraine | 5,560 |
+| 18 | [dz333n](https://github.com/dz333n) | Yaroslav Kibysh | Ukraine | 5,164 |
+| 19 | [AvatarSD](https://github.com/AvatarSD) | avatarsd | Ukraine, Kyiv | 4,965 |
+| 20 | [MightComeback](https://github.com/MightComeback) | Ivan Kuznetsov | Ukraine | 4,867 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 47,774
 | 19 | [TBlindaruk](https://github.com/TBlindaruk) | Tetiana Blindaruk | Ukraine | 1,192 |
 | 20 | [NJul](https://github.com/NJul) | Nina | Ukraine | 1,140 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:41:40.840Z

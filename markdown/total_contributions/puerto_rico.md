@@ -1,6 +1,6 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:33:11.193Z
 
 Users: 1551
 
@@ -18,11 +18,11 @@ Users: 1551
 | 10 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
 | 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 5992 |
 | 12 | [jv-pv](https://github.com/jv-pv) | John Pieri |  |  | Puerto Rico | 5473 |
-| 13 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5216 |
-| 14 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 4858 |
-| 15 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 4810 |
-| 16 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez |  |  | Puerto Rico | 4730 |
-| 17 | [n6617x](https://github.com/n6617x) | blk |  |  | Yabucoa, Puerto Rico, United States | 4720 |
-| 18 | [jdreben](https://github.com/jdreben) | James Dreben |  |  | San Juan, Puerto Rico | 4703 |
-| 19 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | @ProRanked  | devmoreno | Aguadilla, Puerto Rico | 4557 |
-| 20 | [jar2333](https://github.com/jar2333) | José A. Ramos | Akcelita Innovation Labs |  | San Juan, PR | 4546 |
+| 13 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5337 |
+| 14 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5216 |
+| 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 4858 |
+| 16 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 4810 |
+| 17 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez |  |  | Puerto Rico | 4730 |
+| 18 | [n6617x](https://github.com/n6617x) | blk |  |  | Yabucoa, Puerto Rico, United States | 4720 |
+| 19 | [jdreben](https://github.com/jdreben) | James Dreben |  |  | San Juan, Puerto Rico | 4703 |
+| 20 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | @ProRanked  | devmoreno | Aguadilla, Puerto Rico | 4557 |

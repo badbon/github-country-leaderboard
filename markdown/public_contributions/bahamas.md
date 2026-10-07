@@ -1,12 +1,12 @@
 # Public Contributions - Bahamas
 
-Generated: 2026-09-29T13:08:20.890Z
+Generated: 2026-10-07T06:48:58.112Z
 
-Users: 239
+Users: 240
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 1351 |
+| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 1005 |
 | 2 | [kiarashplusplus](https://github.com/kiarashplusplus) | Kiarash Adl | Undisk MCP |  | Nassau Bay, Texas | 792 |
 | 3 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 386 |
 | 4 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 272 |
@@ -21,8 +21,8 @@ Users: 239
 | 13 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 87 |
 | 14 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Cay Creative 242 |  | Bahamas  | 84 |
 | 15 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | Jacon11 co. |  | New Providence, Bahamas | 84 |
-| 16 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 60 |
-| 17 | [EnochThurston42](https://github.com/EnochThurston42) | Enoch Thurston | Talonverse |  | Nassau, Bahamas | 59 |
-| 18 | [bryanherger](https://github.com/bryanherger) | Bryan Herger |  |  | South Shore of Nassau County, NY | 55 |
-| 19 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Unemployed |  | Bahamas | 55 |
+| 16 | [EnochThurston42](https://github.com/EnochThurston42) | Enoch Thurston | Talonverse |  | Nassau, Bahamas | 59 |
+| 17 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 59 |
+| 18 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Unemployed |  | Bahamas | 57 |
+| 19 | [bryanherger](https://github.com/bryanherger) | Bryan Herger |  |  | South Shore of Nassau County, NY | 55 |
 | 20 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Department of Information Technology |  | Nassau, Bahamas | 46 |

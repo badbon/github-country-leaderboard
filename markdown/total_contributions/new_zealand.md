@@ -1,6 +1,6 @@
 # Total Contributions - New Zealand
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:50.112Z
 
 Users: 12155
 
@@ -11,7 +11,7 @@ Users: 12155
 | 3 | [mitch-john](https://github.com/mitch-john) |  |  | MitchJohnNZ | New Zealand | 28645 |
 | 4 | [DTACat](https://github.com/DTACat) | Cat |  |  | New Zealand | 23496 |
 | 5 | [dreamineering](https://github.com/dreamineering) | howzus | dreamineering | howzus | New Zealand | 19987 |
-| 6 | [thatskiff33](https://github.com/thatskiff33) | Jordan |  |  | Taranaki, New Zealand | 17853 |
+| 6 | [thatskiff33](https://github.com/thatskiff33) | Jordan |  |  | Taranaki, New Zealand | 19954 |
 | 7 | [joshuavial](https://github.com/joshuavial) | Joshua Vial | Enspiral | joshuavial | Wellington, New Zealand | 16399 |
 | 8 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson |  |  | Cambridge, New Zealand | 16321 |
 | 9 | [JavaGT](https://github.com/JavaGT) | JavaGT |  |  | New Zealand | 16172 |

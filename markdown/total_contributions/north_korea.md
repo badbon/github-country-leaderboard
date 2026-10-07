@@ -1,8 +1,8 @@
 # Total Contributions - North Korea
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:29:27.468Z
 
-Users: 194
+Users: 193
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 194
 | 17 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 387 |
 | 18 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana |  |  | Pyongyang, North Korea | 381 |
 | 19 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 351 |
-| 20 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 343 |
+| 20 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 269 |

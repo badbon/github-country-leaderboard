@@ -1,19 +1,19 @@
 # Total Contributions - Cayman Islands
 
-Generated: 2026-09-30T22:33:23.055Z
+Generated: 2026-10-07T06:51:40.394Z
 
 Users: 125
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Liquid Byte Labs | leohermoso | Cayman Islands | 21124 |
-| 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | @etherfi-protocol | evandro_saturn | Cayman Islands | 5294 |
+| 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | @etherfi-protocol | evandro_saturn | Cayman Islands | 7343 |
 | 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | IoFinnet |  | Cayman Islands | 3978 |
 | 4 | [andreogle](https://github.com/andreogle) | André Ogle |  |  | 🇰🇾 Cayman Islands | 3491 |
-| 5 | [pankajjagtapp](https://github.com/pankajjagtapp) | Pankaj Jagtap | @etherfi-protocol | pankajjagtapp | Cayman Islands | 2960 |
-| 6 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Ether.Fi | 0xpanicError | Cayman Islands | 2374 |
-| 7 | [shinchann221](https://github.com/shinchann221) | Paras Jain |  | PaarasJainn | Cayman Islands | 2214 |
-| 8 | [GadzeMike](https://github.com/GadzeMike) | Mike Silagadze | Gadze Finance SEZC | MikeSilagadze | Cayman Islands | 1712 |
+| 5 | [pankajjagtapp](https://github.com/pankajjagtapp) | Pankaj Jagtap | @etherfi-protocol | pankajjagtapp | Cayman Islands | 3279 |
+| 6 | [GadzeMike](https://github.com/GadzeMike) | Mike Silagadze | Gadze Finance SEZC | MikeSilagadze | Cayman Islands | 2658 |
+| 7 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Ether.Fi | 0xpanicError | Cayman Islands | 2374 |
+| 8 | [shinchann221](https://github.com/shinchann221) | Paras Jain |  | PaarasJainn | Cayman Islands | 2214 |
 | 9 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper |  |  | Grand Cayman, Cayman Islands | 1291 |
 | 10 | [RodneyAlison](https://github.com/RodneyAlison) | Rodney Alison |  |  | Cayman Islands | 1276 |
 | 11 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | jadehopper ltd. |  | Cayman Islands | 1253 |

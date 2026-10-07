@@ -1,6 +1,6 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:27:13.434Z
 
 Users: 290
 
@@ -8,10 +8,10 @@ Users: 290
 |---:|---|---|---|---|---|---:|
 | 1 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 11541 |
 | 2 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 9718 |
-| 3 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 7719 |
+| 3 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 8339 |
 | 4 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 6477 |
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 4169 |
-| 6 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | SUPNUM - Institut Supérieur du Numérique |  | Nouakchott, Mauritania | 4109 |
+| 6 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | SUPNUM - Institut Supérieur du Numérique |  | Nouakchott, Mauritania | 4095 |
 | 7 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib |  |  | Nouakchott, Mauritania | 3290 |
 | 8 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar |  | mohamed_hadramy | Nouakchott, Mauritania | 2298 |
 | 9 | [salembaira](https://github.com/salembaira) | Mohamed Salem BAIRA | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 2263 |

@@ -1,17 +1,17 @@
 # Followers - Vatican City
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:43:35.597Z
 
-Users: 31
+Users: 30
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [DMMCA](https://github.com/DMMCA) | Ninj4Pri3st |  |  | Vatican City | 23 |
 | 2 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | ISP Service |  | Vatican City State | 23 |
 | 3 | [NOPR9D](https://github.com/NOPR9D) | NOPR9D ☄️ | MyLabz | amine_boucham | Vatican City State (Holy See)  | 18 |
-| 4 | [kubonnt](https://github.com/kubonnt) |  |  |  | Vatican City | 15 |
+| 4 | [kubonnt](https://github.com/kubonnt) |  |  |  | Vatican City | 14 |
 | 5 | [reijop](https://github.com/reijop) | Reijo Pitkanen |  |  | Vatican City | 7 |
-| 6 | [dru91ce](https://github.com/dru91ce) | dru91ce |  |  | Vatican City (Holy See) | 5 |
+| 6 | [dru91ce](https://github.com/dru91ce) | dru91ce |  |  | Vatican City (Holy See) | 6 |
 | 7 | [gadhra](https://github.com/gadhra) | gadhra |  |  | Vatican City | 5 |
 | 8 | [JumperLiu](https://github.com/JumperLiu) | JumperLiu | CPLA |  | Vatican | 5 |
 | 9 | [0xSums](https://github.com/0xSums) | ﷽ |  |  | Vatican City, Vatican | 4 |

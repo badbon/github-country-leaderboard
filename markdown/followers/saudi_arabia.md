@@ -1,6 +1,6 @@
 # Followers - Saudi Arabia
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:37:23.834Z
 
 Users: 7703
 
@@ -18,8 +18,8 @@ Users: 7703
 | 10 | [MohamedMohamoud](https://github.com/MohamedMohamoud) | Mohamed Mahmoud  | Freelancer Front End Developer  |  | Riyadh | 740 |
 | 11 | [pr-Mais](https://github.com/pr-Mais) | Mais Alheraki | @Thmanyah-LLC | pr_Mais | Dammam, Saudi Arabia | 659 |
 | 12 | [aniskoubaa](https://github.com/aniskoubaa) | Anis Koubaa | Alfaisal University (Saudi Arabia) | aniskoubaa1977 | Saudi Arabia | 647 |
-| 13 | [Sol0420](https://github.com/Sol0420) | Senior Backend & Distributed Systems Engineer \| Senior AI/ML Software Engineer |  |  | Riyadh, Saudi Arabia | 521 |
-| 14 | [Matrix07ksa](https://github.com/Matrix07ksa) | Matrix | TVTC | Matrix0700 | Saudi arabia | 520 |
+| 13 | [Matrix07ksa](https://github.com/Matrix07ksa) | Matrix | TVTC | Matrix0700 | Saudi arabia | 520 |
+| 14 | [Sol0420](https://github.com/Sol0420) | Senior Backend & Distributed Systems Engineer \| Senior AI/ML Software Engineer |  |  | Riyadh, Saudi Arabia | 496 |
 | 15 | [obahareth](https://github.com/obahareth) | Omar Bahareth | Cofounder and CTO @theamazingteam | o_bahareth | Riyadh, Saudi Arabia | 477 |
 | 16 | [alhazmy13](https://github.com/alhazmy13) | Abdullah Alhazmy | Alhazmy13 | alhazmy13 | Riyadh, Saudi Arabia | 474 |
 | 17 | [YazeedAlKhalaf](https://github.com/YazeedAlKhalaf) | yazeed | @HudHud-Maps | YazeedAlKhalaf | Riyadh, Saudi Arabia | 460 |

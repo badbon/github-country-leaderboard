@@ -1,21 +1,21 @@
 # Public Contributions - Saint Pierre and Miquelon
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:37:07.262Z
 
 Users: 19
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN |  |  | Saint Pierre 97410 (La Réunion) | 259 |
-| 2 | [visualAngus](https://github.com/visualAngus) | Gael Pupin |  |  | Franqueville Saint Pierre | 172 |
-| 3 | [greggstyle](https://github.com/greggstyle) | greggstyle | Digidatale & Capston.AI |  | Saint-Pierre, La Réunion | 134 |
-| 4 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  |  |  | Saint-pierre La Réunion | 120 |
+| 1 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN |  |  | Saint Pierre 97410 (La Réunion) | 264 |
+| 2 | [visualAngus](https://github.com/visualAngus) | Gael Pupin |  |  | Franqueville Saint Pierre | 161 |
+| 3 | [greggstyle](https://github.com/greggstyle) | greggstyle | Digidatale & Capston.AI |  | Saint-Pierre, La Réunion | 146 |
+| 4 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  |  |  | Saint-pierre La Réunion | 144 |
 | 5 | [AntoinePetit95](https://github.com/AntoinePetit95) | Antoine PETIT | @Energie-Fonciere  |  | Saint-Pierre, la Réunion | 73 |
-| 6 | [Antonin-crypto](https://github.com/Antonin-crypto) | Antonin | Holberton School |  | Saint pierre des landes | 66 |
-| 7 | [gitkyo](https://github.com/gitkyo) | Pier |  |  | Saint-Pierre, La Réunion | 26 |
-| 8 | [rbouikila](https://github.com/rbouikila) | el pekenio |  |  | Saint Pierre du Perray | 1 |
-| 9 | [adriencastan](https://github.com/adriencastan) | Adrien Castan |  |  | Saint Pierre de Lages | 0 |
-| 10 | [affagard](https://github.com/affagard) | David Affagard |  |  | Saint Pierre Quiberon (56 - France) | 0 |
+| 6 | [gitkyo](https://github.com/gitkyo) | Pier |  |  | Saint-Pierre, La Réunion | 17 |
+| 7 | [rbouikila](https://github.com/rbouikila) | el pekenio |  |  | Saint Pierre du Perray | 2 |
+| 8 | [adriencastan](https://github.com/adriencastan) | Adrien Castan |  |  | Saint Pierre de Lages | 0 |
+| 9 | [affagard](https://github.com/affagard) | David Affagard |  |  | Saint Pierre Quiberon (56 - France) | 0 |
+| 10 | [Antonin-crypto](https://github.com/Antonin-crypto) | Antonin | Holberton School |  | Saint pierre des landes | 0 |
 | 11 | [aurelien-baudet](https://github.com/aurelien-baudet) | Aurélien Baudet |  |  | Saint Pierre, La Réunion | 0 |
 | 12 | [christophethibault](https://github.com/christophethibault) |  |  |  | Saint Pierre - La Réunion | 0 |
 | 13 | [IronFly7](https://github.com/IronFly7) | RoroLeRigolo |  |  | Lycée Saint Pierre Calais | 0 |

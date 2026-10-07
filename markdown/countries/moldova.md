@@ -56,7 +56,7 @@ Indexed users: 1,764
 | 17 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,195 |
 | 18 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov | Moldova | 1,147 |
 | 19 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov | Chisinau, Moldova | 1,113 |
-| 20 | [soringoredev](https://github.com/soringoredev) | Sorin Gore | Moldova, Chisinau | 976 |
+| 20 | [MihaiCulbida](https://github.com/MihaiCulbida) | Michael | Moldova | 1,046 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,764
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 104 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:27:29.199Z

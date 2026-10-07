@@ -1,6 +1,6 @@
 # Portugal
 
-Indexed users: 28,443
+Indexed users: 28,441
 
 | Leaderboard | Link |
 |---|---|
@@ -52,11 +52,11 @@ Indexed users: 28,443
 | 13 | [DiogoRibeiro7](https://github.com/DiogoRibeiro7) | Diogo Ribeiro | Portugal  | 10,898 |
 | 14 | [tsilva](https://github.com/tsilva) | Tiago Silva | Porto, Portugal | 9,060 |
 | 15 | [FlavioCFOliveira](https://github.com/FlavioCFOliveira) | Flávio CF Oliveira | Lisbon, Portugal | 8,710 |
-| 16 | [azevedodiogo](https://github.com/azevedodiogo) | Diogo Azevedo | Braga, Portugal | 8,507 |
-| 17 | [otaviojava](https://github.com/otaviojava) | Otávio Santana | Portugal | 8,427 |
-| 18 | [alexander-yevsyukov](https://github.com/alexander-yevsyukov) | Alexander Yevsyukov | Lisbon, Portugal | 8,332 |
-| 19 | [adolfousier](https://github.com/adolfousier) | Adolfo Usier  | Coimbra, Portugal | 7,765 |
-| 20 | [paruff](https://github.com/paruff) | Phil Ruff | Obidos, Portugal | 6,679 |
+| 16 | [infinityabundance](https://github.com/infinityabundance) | riaan de beer🦀 | Porto, Portugal | 8,510 |
+| 17 | [azevedodiogo](https://github.com/azevedodiogo) | Diogo Azevedo | Braga, Portugal | 8,507 |
+| 18 | [otaviojava](https://github.com/otaviojava) | Otávio Santana | Portugal | 8,427 |
+| 19 | [alexander-yevsyukov](https://github.com/alexander-yevsyukov) | Alexander Yevsyukov | Lisbon, Portugal | 8,332 |
+| 20 | [adolfousier](https://github.com/adolfousier) | Adolfo Usier  | Coimbra, Portugal | 7,765 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 28,443
 | 19 | [abo-abo](https://github.com/abo-abo) | Oleh Krehel | Matosinhos, Portugal | 1,857 |
 | 20 | [SimCoderYoutube](https://github.com/SimCoderYoutube) | SimCoder | Porto, Portugal | 1,831 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:32:45.875Z

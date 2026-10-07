@@ -1,8 +1,8 @@
 # Total Contributions - Montserrat
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:28:06.387Z
 
-Users: 295
+Users: 294
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 295
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | @thealanbennett |  | Plymouth, Devon | 1777 |
 | 12 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Hyundai MOBIS |  | Plymouth, MI | 1624 |
 | 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | @CACI-IIG |  | Plymouth, Devon | 1484 |
-| 14 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | LunaTech 3D |  | Plymouth, Wayne, MI | 1382 |
-| 15 | [418error](https://github.com/418error) | Andy 'Channie' Chan |  |  | Plymouth | 1194 |
-| 16 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Balena |  | Plymouth | 1134 |
-| 17 | [edgood1](https://github.com/edgood1) | Eddie Goodwin |  |  | Plymouth, MA | 1035 |
-| 18 | [gathercole3](https://github.com/gathercole3) | jacob gathercole |  |  | plymouth | 988 |
-| 19 | [gjbauer](https://github.com/gjbauer) |  |  |  | Plymouth, NH | 977 |
-| 20 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn |  |  | Plymouth | 967 |
+| 14 | [418error](https://github.com/418error) | Andy 'Channie' Chan |  |  | Plymouth | 1194 |
+| 15 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Balena |  | Plymouth | 1134 |
+| 16 | [edgood1](https://github.com/edgood1) | Eddie Goodwin |  |  | Plymouth, MA | 1035 |
+| 17 | [gathercole3](https://github.com/gathercole3) | jacob gathercole |  |  | plymouth | 988 |
+| 18 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn |  |  | Plymouth | 967 |
+| 19 | [JPDucky](https://github.com/JPDucky) | Palmer Duckworth | Site Reliability Engineer |  | Plymouth Rock | 944 |
+| 20 | [mbruty](https://github.com/mbruty) | Michael Bruty |  |  | Plymouth | 838 |

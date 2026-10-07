@@ -1,6 +1,6 @@
 # Panama
 
-Indexed users: 1,077
+Indexed users: 1,075
 
 | Leaderboard | Link |
 |---|---|
@@ -13,9 +13,9 @@ Indexed users: 1,077
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Panama | 18,668 |
-| 2 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
-| 3 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 14,821 |
-| 4 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 13,174 |
+| 2 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,647 |
+| 3 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
+| 4 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 14,821 |
 | 5 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 11,958 |
 | 6 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 11,927 |
 | 7 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 9,755 |
@@ -83,4 +83,4 @@ Indexed users: 1,077
 | 19 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 47 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:31:13.213Z

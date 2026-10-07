@@ -1,15 +1,15 @@
 # Followers - Pakistan
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:30:23.680Z
 
 Users: 41539
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [HereIsMuhammad](https://github.com/HereIsMuhammad) | Muhammad |  |  | Pakistan | 3128 |
-| 2 | [FareedKhan-dev](https://github.com/FareedKhan-dev) | Fareed Khan |  |  | Karachi, Pakistan | 2696 |
-| 3 | [axiftaj](https://github.com/axiftaj) | Asif Taj |  | axiftaj | Islamabad, Pakistan | 2383 |
-| 4 | [EimanTahir027](https://github.com/EimanTahir027) | EIMAN TAHIR | Comsats |  | Pakistan | 2248 |
+| 1 | [EimanTahir027](https://github.com/EimanTahir027) | EIMAN TAHIR |  |  | Pakistan | 3253 |
+| 2 | [HereIsMuhammad](https://github.com/HereIsMuhammad) | Muhammad |  |  | Pakistan | 3128 |
+| 3 | [FareedKhan-dev](https://github.com/FareedKhan-dev) | Fareed Khan |  |  | Karachi, Pakistan | 2696 |
+| 4 | [axiftaj](https://github.com/axiftaj) | Asif Taj |  | axiftaj | Islamabad, Pakistan | 2383 |
 | 5 | [yasir-shahzad](https://github.com/yasir-shahzad) | Yasir Shahzad | mastermind |  | Pakistan | 2234 |
 | 6 | [farhanashrafdev](https://github.com/farhanashrafdev) | Farhan Ashraf | SystemsLTD  | mriceflame | Lahore, Pakistan | 2080 |
 | 7 | [Ameen-Alam](https://github.com/Ameen-Alam) | Ameen Alam | panacloud | sheikhameenalam | Karachi , pakistan | 1947 |

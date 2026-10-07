@@ -1,6 +1,6 @@
 # Total Contributions - British Virgin Islands
 
-Generated: 2026-09-30T13:16:42.060Z
+Generated: 2026-10-07T06:50:17.327Z
 
 Users: 38
 
@@ -8,12 +8,12 @@ Users: 38
 |---:|---|---|---|---|---|---:|
 | 1 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited | BazaarsBzr | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 6232 |
 | 2 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | Metaworld Fund |  | British Virgin Islands | 3353 |
-| 3 | [Dener1111](https://github.com/Dener1111) | DK |  |  | Road Town, British Virgin Islands | 2096 |
-| 4 | [justmoon](https://github.com/justmoon) | Stefan Thomas | @coilhq | justmoon | British Virgin Islands | 1523 |
-| 5 | [divyansh2681](https://github.com/divyansh2681) | Divyansh Agrawal |  |  | Virgin Islands | 297 |
-| 6 | [Computerfile](https://github.com/Computerfile) | Stigma |  |  | Virgin Islands | 67 |
-| 7 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | Government of the Virgin Islands |  | British Virgin Islands | 67 |
-| 8 | [dlichota](https://github.com/dlichota) | Dietmar Lichota |  |  | British Virgin Islands  | 55 |
+| 3 | [justmoon](https://github.com/justmoon) | Stefan Thomas | @coilhq | justmoon | British Virgin Islands | 2165 |
+| 4 | [Dener1111](https://github.com/Dener1111) | DK |  |  | Road Town, British Virgin Islands | 2002 |
+| 5 | [divyansh2681](https://github.com/divyansh2681) | Divyansh Agrawal |  |  | Virgin Islands | 433 |
+| 6 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | Government of the Virgin Islands |  | British Virgin Islands | 67 |
+| 7 | [Computerfile](https://github.com/Computerfile) | Stigma |  |  | Virgin Islands | 62 |
+| 8 | [dlichota](https://github.com/dlichota) | Dietmar Lichota |  |  | British Virgin Islands  | 57 |
 | 9 | [Domi261](https://github.com/Domi261) | Dominick | VPB  | FlacoFumado | British Virgin Islands | 32 |
 | 10 | [Fraodd](https://github.com/Fraodd) | Fraodd |  |  | Tortola, British Virgin Islands | 16 |
 | 11 | [Chezo25](https://github.com/Chezo25) | Chezley Stoddard | Mongoose Academy | chezling | Virgin Islands | 8 |

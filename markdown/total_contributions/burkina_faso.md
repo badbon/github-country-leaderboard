@@ -1,8 +1,8 @@
 # Total Contributions - Burkina Faso
 
-Generated: 2026-09-30T13:16:55.817Z
+Generated: 2026-10-07T06:50:47.570Z
 
-Users: 486
+Users: 485
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 486
 | 16 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Independent Software Engineer |  | Burkina Faso | 1221 |
 | 17 | [Moussier24](https://github.com/Moussier24) | Moussier Cissé | Le Kimbi Créatif | leKimbiCreatif | Burkina Faso | 1191 |
 | 18 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 1184 |
-| 19 | [ofernand21](https://github.com/ofernand21) | Fernand Ouedraogo | Vision Innov | ofernand21 | Ouagadougou | 966 |
-| 20 | [FataoDev](https://github.com/FataoDev) | Fatao OUEDRAOGO | O VISION |  | Burkina Faso | 916 |
+| 19 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  |  | NiceDEVbf | Burkina Faso | 1036 |
+| 20 | [Zap-ai-make](https://github.com/Zap-ai-make) | Swabo Hamadou |  |  | Burkina-Faso | 989 |

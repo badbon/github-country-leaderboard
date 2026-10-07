@@ -12,10 +12,10 @@ Indexed users: 11
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [heyesr](https://github.com/heyesr) | Richard | Federated States of Micronesia | 55 |
-| 2 | [toshioue](https://github.com/toshioue) | Hitoshi Oue | Pohnpei, Micronesia | 9 |
-| 3 | [Retrakor](https://github.com/Retrakor) | Retrakor | Federated States of Micronesia | 4 |
-| 4 | [edper](https://github.com/edper) | Edper | Federated States of Micronesia | 3 |
+| 1 | [heyesr](https://github.com/heyesr) | Richard | Federated States of Micronesia | 83 |
+| 2 | [toshioue](https://github.com/toshioue) | Hitoshi Oue | Pohnpei, Micronesia | 12 |
+| 3 | [edper](https://github.com/edper) | Edper | Federated States of Micronesia | 2 |
+| 4 | [Retrakor](https://github.com/Retrakor) | Retrakor | Federated States of Micronesia | 2 |
 | 5 | [AndelinaEmelihter](https://github.com/AndelinaEmelihter) | Andelina Emelihter | Palikir, Micronesia | 0 |
 | 6 | [Digitaltransform](https://github.com/Digitaltransform) | Bobwinslow Withlefthand | MICRONESIA | 0 |
 | 7 | [einsroby](https://github.com/einsroby) | LuhkNansapwe | Micronesia | 0 |
@@ -28,8 +28,8 @@ Indexed users: 11
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [heyesr](https://github.com/heyesr) | Richard | Federated States of Micronesia | 55 |
-| 2 | [Retrakor](https://github.com/Retrakor) | Retrakor | Federated States of Micronesia | 4 |
+| 1 | [heyesr](https://github.com/heyesr) | Richard | Federated States of Micronesia | 83 |
+| 2 | [Retrakor](https://github.com/Retrakor) | Retrakor | Federated States of Micronesia | 2 |
 | 3 | [AndelinaEmelihter](https://github.com/AndelinaEmelihter) | Andelina Emelihter | Palikir, Micronesia | 0 |
 | 4 | [Digitaltransform](https://github.com/Digitaltransform) | Bobwinslow Withlefthand | MICRONESIA | 0 |
 | 5 | [edper](https://github.com/edper) | Edper | Federated States of Micronesia | 0 |
@@ -44,16 +44,16 @@ Indexed users: 11
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [ProfessorCoal](https://github.com/ProfessorCoal) | Professor Coal | Volcano Heart Island, Micronesia, the Pacific Ocean | 29 |
+| 1 | [ProfessorCoal](https://github.com/ProfessorCoal) | Professor Coal | Volcano Heart Island, Micronesia, the Pacific Ocean | 31 |
 | 2 | [toshioue](https://github.com/toshioue) | Hitoshi Oue | Pohnpei, Micronesia | 5 |
 | 3 | [edper](https://github.com/edper) | Edper | Federated States of Micronesia | 4 |
 | 4 | [heyesr](https://github.com/heyesr) | Richard | Federated States of Micronesia | 4 |
 | 5 | [R-e-t-r-o-C-l-o-u-d](https://github.com/R-e-t-r-o-C-l-o-u-d) | Retro Cloud | Federated states of micronesia | 4 |
 | 6 | [Digitaltransform](https://github.com/Digitaltransform) | Bobwinslow Withlefthand | MICRONESIA | 3 |
-| 7 | [einsroby](https://github.com/einsroby) | LuhkNansapwe | Micronesia | 2 |
-| 8 | [malehz](https://github.com/malehz) | George | Micronesia | 2 |
+| 7 | [malehz](https://github.com/malehz) | George | Micronesia | 3 |
+| 8 | [einsroby](https://github.com/einsroby) | LuhkNansapwe | Micronesia | 2 |
 | 9 | [AndelinaEmelihter](https://github.com/AndelinaEmelihter) | Andelina Emelihter | Palikir, Micronesia | 1 |
 | 10 | [iomfsmlabio](https://github.com/iomfsmlabio) | IOM MICRONESIA DATA CENTER | Micronesia | 1 |
 | 11 | [Retrakor](https://github.com/Retrakor) | Retrakor | Federated States of Micronesia | 1 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:27:25.810Z

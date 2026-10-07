@@ -1,15 +1,15 @@
 # Total Contributions - Panama
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T06:31:13.213Z
 
-Users: 1077
+Users: 1075
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms, Singularity Software | MattRiddell | Panama | 18668 |
-| 2 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 15096 |
-| 3 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada |  |  | Panama | 14821 |
-| 4 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 13174 |
+| 2 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15647 |
+| 3 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 15096 |
+| 4 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada |  |  | Panama | 14821 |
 | 5 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 11958 |
 | 6 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 11927 |
 | 7 | [SirRodney](https://github.com/SirRodney) | Rodney |  |  | Panama | 9755 |
