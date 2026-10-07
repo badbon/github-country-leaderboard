@@ -1,6 +1,6 @@
 # Total Contributions - Niger
 
-Generated: 2026-10-07T06:29:20.021Z
+Generated: 2026-10-07T07:13:04.114Z
 
 Users: 177
 
@@ -19,10 +19,10 @@ Users: 177
 | 11 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 801 |
 | 12 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 746 |
 | 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 744 |
-| 14 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 563 |
+| 14 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 600 |
 | 15 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 513 |
 | 16 | [mocy111](https://github.com/mocy111) | Moctar Yonli | @Kamamini  | moctar_yonli | Niamey | 464 |
-| 17 | [bkina1](https://github.com/bkina1) | Boubacar Kina |  | KinaBoubacar | Niger | 460 |
-| 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | www.techpart. | netmorphus | Niamey | 454 |
+| 17 | [netmophus](https://github.com/netmophus) | NETMORPHUS | www.techpart. | netmorphus | Niamey | 454 |
+| 18 | [bkina1](https://github.com/bkina1) | Boubacar Kina |  | KinaBoubacar | Niger | 436 |
 | 19 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | @qwiper  @Osirion-IA  |  | Niamey,Niger | 393 |
 | 20 | [Mahamadou-Nouridine](https://github.com/Mahamadou-Nouridine) | Mahamadou Nouridine | Microverse | Nouridine_Dino | Niger | 311 |

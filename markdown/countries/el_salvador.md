@@ -1,6 +1,6 @@
 # El Salvador
 
-Indexed users: 2,396
+Indexed users: 2,394
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,396
 | 19 | [hherzl](https://github.com/hherzl) | HH | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 96 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:00:07.886Z

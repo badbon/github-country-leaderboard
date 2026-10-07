@@ -1,8 +1,8 @@
 # Followers - Barbados
 
-Generated: 2026-10-07T06:49:07.691Z
+Generated: 2026-10-07T06:56:57.111Z
 
-Users: 132
+Users: 133
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

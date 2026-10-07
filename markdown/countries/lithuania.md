@@ -47,15 +47,15 @@ Indexed users: 5,413
 | 8 | [mjudeikis](https://github.com/mjudeikis) | Mangirdas Judeikis | Lithuania | 2,982 |
 | 9 | [blinkinglight](https://github.com/blinkinglight) | M | Lithuania | 2,663 |
 | 10 | [qweered](https://github.com/qweered) | Aliaksandr | Vilnius, Lithuania | 2,656 |
-| 11 | [neetfrog](https://github.com/neetfrog) | neetfrog | Lithuania | 2,457 |
-| 12 | [simison](https://github.com/simison) | Mikael Korpela | Lithuania | 2,457 |
-| 13 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 2,383 |
-| 14 | [staskus](https://github.com/staskus) | Povilas Staskus | Lithuania, Vilnius | 2,336 |
-| 15 | [MekDrop](https://github.com/MekDrop) | Raimondas Rimkevičius | Vilnius, Lithuania | 2,332 |
-| 16 | [bdiev](https://github.com/bdiev) | Bohdan | Kaunas, Lithuania | 2,246 |
-| 17 | [savonarola](https://github.com/savonarola) | Ilia Averianov | Vilnius | 2,228 |
-| 18 | [vladlevinas](https://github.com/vladlevinas) | Vlad Levinas | Lithuania | 2,164 |
-| 19 | [salisk](https://github.com/salisk) | Sarunas | Lithuania | 2,129 |
+| 11 | [simison](https://github.com/simison) | Mikael Korpela | Lithuania | 2,457 |
+| 12 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 2,383 |
+| 13 | [staskus](https://github.com/staskus) | Povilas Staskus | Lithuania, Vilnius | 2,336 |
+| 14 | [MekDrop](https://github.com/MekDrop) | Raimondas Rimkevičius | Vilnius, Lithuania | 2,332 |
+| 15 | [bdiev](https://github.com/bdiev) | Bohdan | Kaunas, Lithuania | 2,246 |
+| 16 | [savonarola](https://github.com/savonarola) | Ilia Averianov | Vilnius | 2,228 |
+| 17 | [vladlevinas](https://github.com/vladlevinas) | Vlad Levinas | Lithuania | 2,164 |
+| 18 | [salisk](https://github.com/salisk) | Sarunas | Lithuania | 2,129 |
+| 19 | [neetfrog](https://github.com/neetfrog) | neetfrog | Lithuania | 2,104 |
 | 20 | [liesislukas](https://github.com/liesislukas) | Lukas Liesis | Lithuania | 2,102 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 5,413
 | 19 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-06T18:40:11.737Z
+Generated: 2026-10-07T07:09:39.516Z

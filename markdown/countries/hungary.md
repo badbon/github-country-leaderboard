@@ -1,6 +1,6 @@
 # Hungary
 
-Indexed users: 11,203
+Indexed users: 11,202
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 11,203
 | 19 | [Aylur](https://github.com/Aylur) |  | Hungary | 573 |
 | 20 | [theevilbit](https://github.com/theevilbit) | Csaba Fitzl | Hungary | 502 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:03:44.838Z

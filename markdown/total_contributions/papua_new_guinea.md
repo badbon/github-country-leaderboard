@@ -1,6 +1,6 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-07T06:31:43.084Z
+Generated: 2026-10-07T07:17:53.769Z
 
 Users: 296
 
@@ -15,14 +15,14 @@ Users: 296
 | 7 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 1815 |
 | 8 | [jm0535](https://github.com/jm0535) | Jimmy Moses |  |  | Papua New Guinea | 1790 |
 | 9 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande |  |  | Port Moresby, Papua New Guinea | 1138 |
-| 10 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 874 |
-| 11 | [jebudo](https://github.com/jebudo) | Jesse Biribudo |  |  | Port Moresby, Papua New Guinea | 835 |
-| 12 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Yumi Code |  | Port Moresby, 5 Mile | 788 |
-| 13 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Alef Digital Solutions |  | Port Moresby | 721 |
+| 10 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Alef Digital Solutions |  | Port Moresby | 1079 |
+| 11 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 874 |
+| 12 | [jebudo](https://github.com/jebudo) | Jesse Biribudo |  |  | Port Moresby, Papua New Guinea | 835 |
+| 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Yumi Code |  | Port Moresby, 5 Mile | 821 |
 | 14 | [Amesi](https://github.com/Amesi) | Victor Temokang |  |  | Papua New Guinea | 483 |
 | 15 | [TMJ-24](https://github.com/TMJ-24) | tmj | https://jershmamet.com |  | Port Moresby | 447 |
 | 16 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan |  |  | Mt Hagen, Western Highlands Province, Papua New Guinea | 294 |
 | 17 | [Valdaz007](https://github.com/Valdaz007) | Victor Volsavai | Next Town Technology Ltd |  | Port Moresby, Papua New Guinea | 282 |
 | 18 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 276 |
 | 19 | [gbajesns](https://github.com/gbajesns) | Gabriel Baje | SNS Tech  |  | Papua New Guinea | 269 |
-| 20 | [zyakap](https://github.com/zyakap) | Zechariah YAKAP | WEBMASTA | iizacq | Port Moresby, Papua New Guinea | 245 |
+| 20 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Self-Employed |  | Port Moresby, Papua New Guinea | 245 |

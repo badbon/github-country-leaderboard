@@ -1,6 +1,6 @@
 # Public Contributions - Curaçao
 
-Generated: 2026-10-01T14:38:42.546Z
+Generated: 2026-10-07T06:56:56.003Z
 
 Users: 53
 
@@ -14,15 +14,15 @@ Users: 53
 | 6 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 132 |
 | 7 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 56 |
 | 8 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Artificial Intelligence Systems | angelrgonzalezg | Willemstad, Curacao | 45 |
-| 9 | [agenteardilla47](https://github.com/agenteardilla47) |  | Antheus |  | willemstad | 41 |
-| 10 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 40 |
-| 11 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 40 |
-| 12 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas |  | bythealphabet1 | Willemstad, Curacao | 38 |
-| 13 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | EcoLabs | LuukDAO | Curaçao | 33 |
+| 9 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 42 |
+| 10 | [agenteardilla47](https://github.com/agenteardilla47) |  | Antheus |  | willemstad | 41 |
+| 11 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas |  | bythealphabet1 | Willemstad, Curacao | 38 |
+| 12 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | EcoLabs | LuukDAO | Curaçao | 33 |
+| 13 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 31 |
 | 14 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | @business-one  |  | Curaçao | 23 |
 | 15 | [AngeloAAB](https://github.com/AngeloAAB) | Angelo Bartholomeus | None |  | Willemstad, Curaçao | 22 |
 | 16 | [emile2600](https://github.com/emile2600) | Emile |  |  | Willemstad, Curacao | 17 |
 | 17 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Cursoft Development & Consultancy NV | rascoop | Willemstad, Curaçao, Dutch Caribbean | 13 |
 | 18 | [rascoop](https://github.com/rascoop) | Richard Scoop |  |  | Curaçao, Dutch Caribbean | 8 |
-| 19 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar |  | iamjesco | Willemstad | 5 |
-| 20 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus |  | jentanbernardus | Curaçao | 4 |
+| 19 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Ten-O-5 B.V |  | Curaçao | 6 |
+| 20 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar |  | iamjesco | Willemstad | 5 |

@@ -23,15 +23,15 @@ Indexed users: 60
 | 9 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 300 |
 | 10 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 294 |
 | 11 | [paraita](https://github.com/paraita) | Paraita Wohler | Tahiti, French Polynesia | 266 |
-| 12 | [syllebra](https://github.com/syllebra) | BilboX | French Polynesia | 128 |
+| 12 | [syllebra](https://github.com/syllebra) | BilboX | French Polynesia | 96 |
 | 13 | [Apollo987](https://github.com/Apollo987) | Jerome B | French Polynesia | 64 |
-| 14 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | French Polynesia | 26 |
+| 14 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | French Polynesia | 49 |
 | 15 | [teuna](https://github.com/teuna) | Teuna Ferrand | Tahiti, French Polynesia | 21 |
 | 16 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI | Polynésie Française | 20 |
 | 17 | [AJamelot](https://github.com/AJamelot) | ajamelot | Polynésie Française | 11 |
 | 18 | [DLTBryan](https://github.com/DLTBryan) |  | French Polynesia | 11 |
-| 19 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Mo'orea, French Polynesia | 9 |
-| 20 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou | French Polynesia | 9 |
+| 19 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou | French Polynesia | 9 |
+| 20 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard | Tahiti, French Polynesia | 7 |
 
 ## Public Contributions
 
@@ -44,19 +44,19 @@ Indexed users: 60
 | 5 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 362 |
 | 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 294 |
 | 7 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 202 |
-| 8 | [syllebra](https://github.com/syllebra) | BilboX | French Polynesia | 128 |
+| 8 | [syllebra](https://github.com/syllebra) | BilboX | French Polynesia | 96 |
 | 9 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 82 |
-| 10 | [paraita](https://github.com/paraita) | Paraita Wohler | Tahiti, French Polynesia | 39 |
-| 11 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | French Polynesia | 26 |
+| 10 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | French Polynesia | 49 |
+| 11 | [paraita](https://github.com/paraita) | Paraita Wohler | Tahiti, French Polynesia | 39 |
 | 12 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI | Polynésie Française | 20 |
 | 13 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 15 |
 | 14 | [AJamelot](https://github.com/AJamelot) | ajamelot | Polynésie Française | 11 |
 | 15 | [DLTBryan](https://github.com/DLTBryan) |  | French Polynesia | 11 |
-| 16 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Mo'orea, French Polynesia | 9 |
-| 17 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou | French Polynesia | 9 |
-| 18 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard | Tahiti, French Polynesia | 7 |
-| 19 | [rputoa](https://github.com/rputoa) | Rowan PUTOA | Papeete, French Polynesia | 6 |
-| 20 | [Heinux](https://github.com/Heinux) | Heinux | French Polynesia | 5 |
+| 16 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou | French Polynesia | 9 |
+| 17 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard | Tahiti, French Polynesia | 7 |
+| 18 | [rputoa](https://github.com/rputoa) | Rowan PUTOA | Papeete, French Polynesia | 6 |
+| 19 | [Heinux](https://github.com/Heinux) | Heinux | French Polynesia | 5 |
+| 20 | [sysnux](https://github.com/sysnux) | Jean-Denis Girard | Tahiti, French Polynesia, Polynésie française | 5 |
 
 ## Followers
 
@@ -75,12 +75,12 @@ Indexed users: 60
 | 11 | [glaziou](https://github.com/glaziou) | Philippe Glaziou | Tahiti, French Polynesia | 11 |
 | 12 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou | French Polynesia | 11 |
 | 13 | [teuna](https://github.com/teuna) | Teuna Ferrand | Tahiti, French Polynesia | 11 |
-| 14 | [yannkb](https://github.com/yannkb) | Yann Bouchereau | Papeete, French Polynesia | 9 |
-| 15 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard | Tahiti, French Polynesia | 7 |
+| 14 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard | Tahiti, French Polynesia | 7 |
+| 15 | [yannkb](https://github.com/yannkb) | Yann Bouchereau | Papeete, French Polynesia | 7 |
 | 16 | [lauramikula](https://github.com/lauramikula) | Laura Mikula | Tahiti, French Polynesia | 6 |
 | 17 | [Heinux](https://github.com/Heinux) | Heinux | French Polynesia | 5 |
 | 18 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 19 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 | 20 | [jade-md](https://github.com/jade-md) | Jade MS Delevaux | French Polynesia | 4 |
 
-Generated: 2026-10-02T12:55:33.115Z
+Generated: 2026-10-07T07:01:19.417Z

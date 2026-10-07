@@ -1,6 +1,6 @@
 # Followers - San Marino
 
-Generated: 2026-10-07T06:37:17.373Z
+Generated: 2026-10-07T07:21:05.254Z
 
 Users: 61
 
@@ -19,10 +19,10 @@ Users: 61
 | 11 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 16 |
 | 12 | [giacomobartoli](https://github.com/giacomobartoli) | Giacomo Bartoli | @IBM |  | San Marino, SMR | 16 |
 | 13 | [nukedbit](https://github.com/nukedbit) | Sebastian Faltoni | Obsidian Game Studios s.r.l. | nukedbit | San Marino | 16 |
-| 14 | [v1rx](https://github.com/v1rx) | v1r |  |  | San Marino | 16 |
-| 15 | [NeedleCoin](https://github.com/NeedleCoin) | Needle Coin | NeedleCoin |  | San Marino | 14 |
-| 16 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 13 |
+| 14 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 16 |
+| 15 | [v1rx](https://github.com/v1rx) | v1r |  |  | San Marino | 16 |
+| 16 | [NeedleCoin](https://github.com/NeedleCoin) | Needle Coin | NeedleCoin |  | San Marino | 14 |
 | 17 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 12 |
-| 18 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 11 |
-| 19 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 11 |
-| 20 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | Buckridge, Kautzer and Flatley |  | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 11 |
+| 18 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | Buckridge, Kautzer and Flatley |  | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 12 |
+| 19 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 11 |
+| 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 11 |

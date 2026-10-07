@@ -1,8 +1,8 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:07:13.869Z
 
-Users: 2466
+Users: 2464
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,9 +11,9 @@ Users: 2466
 | 3 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Gologolol |  | Kyrgyzstan, Bishkek | 10596 |
 | 4 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | WeDevX && UniCorn |  | Karakol, Kyrgyzstan | 9034 |
 | 5 | [bekturmamytov](https://github.com/bekturmamytov) | bekturmamytov |  | bektur_mamytov | Bishkek | 9010 |
-| 6 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  |  |  | Kyrgyzstan | 6257 |
-| 7 | [qiniks](https://github.com/qiniks) | Talant Mataev |  |  | Kyrgyzstan | 5566 |
-| 8 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | AIT Solutions |  | Kyrgyzstan | 5540 |
+| 6 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | AIT Solutions |  | Kyrgyzstan | 6581 |
+| 7 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  |  |  | Kyrgyzstan | 6123 |
+| 8 | [qiniks](https://github.com/qiniks) | Talant Mataev |  |  | Kyrgyzstan | 5566 |
 | 9 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4966 |
 | 10 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov |  |  | Bishkek, Kyrgyzstan | 4762 |
 | 11 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | @aitsolutions |  | Kyrgyzstan | 4702 |

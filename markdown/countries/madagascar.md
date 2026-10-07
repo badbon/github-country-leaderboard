@@ -1,6 +1,6 @@
 # Madagascar
 
-Indexed users: 1,921
+Indexed users: 1,920
 
 | Leaderboard | Link |
 |---|---|
@@ -25,9 +25,9 @@ Indexed users: 1,921
 | 11 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 5,312 |
 | 12 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Madagascar | 5,308 |
 | 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 5,213 |
-| 14 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Madagascar | 4,972 |
-| 15 | [JohanaMisaela](https://github.com/JohanaMisaela) | Joanna Misaela | Antananarivo, Madagascar | 4,867 |
-| 16 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 4,661 |
+| 14 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 5,058 |
+| 15 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Madagascar | 4,972 |
+| 16 | [JohanaMisaela](https://github.com/JohanaMisaela) | Joanna Misaela | Antananarivo, Madagascar | 4,867 |
 | 17 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 4,568 |
 | 18 | [HarenaFiantso](https://github.com/HarenaFiantso) | Fiantso Harena | Antananarivo | 4,475 |
 | 19 | [rakotomandimby](https://github.com/rakotomandimby) | Mihamina Rakotomandimby | Antananarivo, Madagascar | 4,365 |
@@ -40,11 +40,11 @@ Indexed users: 1,921
 | 1 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | Antananarivo, Madagascar | 6,347 |
 | 2 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 5,293 |
 | 3 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala | Madagascar | 3,862 |
-| 4 | [DavFilsDev](https://github.com/DavFilsDev) | F Miharisoa David Fils RATIANDRAIBE | Antananarivo Madagascar | 2,891 |
-| 5 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 2,868 |
-| 6 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 2,778 |
+| 4 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 3,215 |
+| 5 | [DavFilsDev](https://github.com/DavFilsDev) | F Miharisoa David Fils RATIANDRAIBE | Antananarivo Madagascar | 2,891 |
+| 6 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 2,868 |
 | 7 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | Madagascar | 2,423 |
-| 8 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu | Madagascar | 2,189 |
+| 8 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu | Madagascar | 2,222 |
 | 9 | [colombefioren](https://github.com/colombefioren) | COCO | Madagascar, Antananarivo | 1,951 |
 | 10 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 1,907 |
 | 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | Madagascar | 1,872 |
@@ -83,4 +83,4 @@ Indexed users: 1,921
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 142 |
 | 20 | [Tombosoa](https://github.com/Tombosoa) | Nantenaina Ramanatombosoa | Madagascar | 139 |
 
-Generated: 2026-10-07T06:01:38.566Z
+Generated: 2026-10-07T07:10:01.574Z

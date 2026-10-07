@@ -1,6 +1,6 @@
 # Public Contributions - Republic of the Congo
 
-Generated: 2026-10-07T06:33:20.934Z
+Generated: 2026-10-07T07:19:32.935Z
 
 Users: 299
 
@@ -9,7 +9,7 @@ Users: 299
 | 1 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev |  |  | Brazzaville | 1571 |
 | 2 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Fite_Congo |  | Congo, brazzaville | 739 |
 | 3 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 689 |
-| 4 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Es.Dev |  | Congo/North-kivu/Butembo | 663 |
+| 4 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Es.Dev |  | Congo/North-kivu/Butembo | 538 |
 | 5 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Hello World | kaiserstyve | Brazzaville | 492 |
 | 6 | [Kingcedloga](https://github.com/Kingcedloga) | Meced Loga | Royal Software |  | Kinshasa, Congo | 439 |
 | 7 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir Loémba | 125878454587877D |  | R.Congo, Brazzaville | 387 |

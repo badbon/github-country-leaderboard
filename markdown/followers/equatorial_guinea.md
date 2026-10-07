@@ -1,6 +1,6 @@
 # Followers - Equatorial Guinea
 
-Generated: 2026-10-02T05:54:03.531Z
+Generated: 2026-10-07T07:00:08.483Z
 
 Users: 21
 
@@ -8,7 +8,7 @@ Users: 21
 |---:|---|---|---|---|---|---:|
 | 1 | [gracycode](https://github.com/gracycode) | Chidimma Grace |  | Gonwudo | Malabo, Equatorial Guinea | 55 |
 | 2 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Rosa Money SL |  | Malabo, Equatorial guinea | 14 |
-| 3 | [cornensue](https://github.com/cornensue) | Cornelio Nsue |  | cornensue | Malabo | 8 |
+| 3 | [cornensue](https://github.com/cornensue) | Cornelio Nsue |  | cornensue | Malabo | 9 |
 | 4 | [coolmechel](https://github.com/coolmechel) | Ugwu Chukwuemeka Emmanuel |  |  | Equatorial Guinea | 6 |
 | 5 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong |  | devtotech | Malabo, Guinea Ecuatorial | 5 |
 | 6 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Xenon.py |  | Bata, Equatorial Guinea | 5 |

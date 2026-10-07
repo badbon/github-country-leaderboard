@@ -1,6 +1,6 @@
 # Chile
 
-Indexed users: 19,359
+Indexed users: 19,358
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 19,359
 | 19 | [rivaquiroga](https://github.com/rivaquiroga) | Riva Quiroga | Valparaíso, Chile | 431 |
 | 20 | [clsource](https://github.com/clsource) | Camilo | BEAM, Chile | 421 |
 
-Generated: 2026-09-30T22:33:31.962Z
+Generated: 2026-10-07T06:54:15.606Z

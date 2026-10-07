@@ -39,7 +39,7 @@ Indexed users: 1,233
 |---:|---|---|---|---:|
 | 1 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 4,988 |
 | 2 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 4,912 |
-| 3 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,586 |
+| 3 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,561 |
 | 4 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,381 |
 | 5 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,341 |
 | 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,170 |
@@ -83,4 +83,4 @@ Indexed users: 1,233
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 
-Generated: 2026-10-07T06:26:40.640Z
+Generated: 2026-10-07T07:10:33.902Z

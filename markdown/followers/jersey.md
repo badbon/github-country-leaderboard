@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-10-04T06:13:08.407Z
+Generated: 2026-10-07T07:05:43.414Z
 
 Users: 139
 
@@ -22,7 +22,7 @@ Users: 139
 | 14 | [timkrins](https://github.com/timkrins) | Tim Krins | @InfuseGroup  |  | Jersey, Channel Islands | 28 |
 | 15 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 24 |
 | 16 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | @Circlr-io |  | Jersey / London | 23 |
-| 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 23 |
+| 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 22 |
 | 18 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale |  |  | Jersey, Channel Islands | 21 |
 | 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | re.je |  | Jersey, Channel Islands | 20 |
 | 20 | [danhantao](https://github.com/danhantao) | Jacob |  |  | Jersey | 18 |

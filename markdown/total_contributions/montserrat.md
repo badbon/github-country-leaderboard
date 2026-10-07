@@ -1,6 +1,6 @@
 # Total Contributions - Montserrat
 
-Generated: 2026-10-07T06:28:06.387Z
+Generated: 2026-10-07T07:11:40.994Z
 
 Users: 294
 
@@ -20,7 +20,7 @@ Users: 294
 | 12 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Hyundai MOBIS |  | Plymouth, MI | 1624 |
 | 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | @CACI-IIG |  | Plymouth, Devon | 1484 |
 | 14 | [418error](https://github.com/418error) | Andy 'Channie' Chan |  |  | Plymouth | 1194 |
-| 15 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Balena |  | Plymouth | 1134 |
+| 15 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Balena |  | Plymouth | 1105 |
 | 16 | [edgood1](https://github.com/edgood1) | Eddie Goodwin |  |  | Plymouth, MA | 1035 |
 | 17 | [gathercole3](https://github.com/gathercole3) | jacob gathercole |  |  | plymouth | 988 |
 | 18 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn |  |  | Plymouth | 967 |

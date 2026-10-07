@@ -1,6 +1,6 @@
 # Iraq
 
-Indexed users: 2,257
+Indexed users: 2,255
 
 | Leaderboard | Link |
 |---|---|
@@ -38,8 +38,8 @@ Indexed users: 2,257
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [gcp64](https://github.com/gcp64) | Mr.bob | Iraq | 1,420,546 |
-| 2 | [shaheenfarjo](https://github.com/shaheenfarjo) | Shaheen K. Farjo | Baghdad, Iraq | 4,990 |
-| 3 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Iraq | 4,682 |
+| 2 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Iraq | 5,000 |
+| 3 | [shaheenfarjo](https://github.com/shaheenfarjo) | Shaheen K. Farjo | Baghdad, Iraq | 4,990 |
 | 4 | [pageton](https://github.com/pageton) | Sadiq | Basra, Iraq | 2,662 |
 | 5 | [osama1998H](https://github.com/osama1998H) | Osama Muhammed | Baghdad - Iraq | 2,231 |
 | 6 | [PEWDS101](https://github.com/PEWDS101) | George Muneer George | Iraq | 2,031 |
@@ -73,7 +73,7 @@ Indexed users: 2,257
 | 9 | [PawanOsman](https://github.com/PawanOsman) | Pawan Osman | As Sulaymaniyah, Iraq | 515 |
 | 10 | [codenashwan](https://github.com/codenashwan) | Nashwan Abdullah | Iraq/Sulaymaniyah | 506 |
 | 11 | [yousifnimah](https://github.com/yousifnimah) | Yousif N. Abbas | Iraq | 466 |
-| 12 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Iraq | 408 |
+| 12 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Iraq | 423 |
 | 13 | [munafio](https://github.com/munafio) | Munaf A. Mahdi | Iraq | 408 |
 | 14 | [devmuaz](https://github.com/devmuaz) | AbdulMuaz Aqeel | Iraq, Baghdad | 316 |
 | 15 | [arikarim](https://github.com/arikarim) | Ari Karim | Kurdistan/Iraq | 301 |
@@ -83,4 +83,4 @@ Indexed users: 2,257
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 203 |
 | 20 | [kosratdev](https://github.com/kosratdev) | Kosrat Ahmed | Erbil, Iraq | 170 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:04:17.504Z

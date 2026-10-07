@@ -12,10 +12,10 @@ Indexed users: 20
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [BiteTheDDDDt](https://github.com/BiteTheDDDDt) | Pxl | Christmas Island | 766 |
+| 1 | [BiteTheDDDDt](https://github.com/BiteTheDDDDt) | Pxl | Christmas Island | 765 |
 | 2 | [ScriptKitKat](https://github.com/ScriptKitKat) | Priscilla Y | Christmas Island | 410 |
-| 3 | [dee-dee-catorce](https://github.com/dee-dee-catorce) |  | Chicago, Christmas Island | 171 |
-| 4 | [Altidias](https://github.com/Altidias) | Jakob | Christmas Island | 120 |
+| 3 | [Altidias](https://github.com/Altidias) | Jakob | Christmas Island | 178 |
+| 4 | [dee-dee-catorce](https://github.com/dee-dee-catorce) |  | Chicago, Christmas Island | 171 |
 | 5 | [DillonZChen](https://github.com/DillonZChen) | Dillon Chen | Christmas Island, Australia | 55 |
 | 6 | [free-music-by-eatme](https://github.com/free-music-by-eatme) | EatMe | The Hague, The Netherlands, Christmas Island. | 43 |
 | 7 | [notcross](https://github.com/notcross) | Cross | Christmas Island | 41 |
@@ -37,10 +37,10 @@ Indexed users: 20
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [BiteTheDDDDt](https://github.com/BiteTheDDDDt) | Pxl | Christmas Island | 663 |
+| 1 | [BiteTheDDDDt](https://github.com/BiteTheDDDDt) | Pxl | Christmas Island | 662 |
 | 2 | [ScriptKitKat](https://github.com/ScriptKitKat) | Priscilla Y | Christmas Island | 410 |
 | 3 | [dee-dee-catorce](https://github.com/dee-dee-catorce) |  | Chicago, Christmas Island | 171 |
-| 4 | [Altidias](https://github.com/Altidias) | Jakob | Christmas Island | 72 |
+| 4 | [Altidias](https://github.com/Altidias) | Jakob | Christmas Island | 166 |
 | 5 | [DillonZChen](https://github.com/DillonZChen) | Dillon Chen | Christmas Island, Australia | 55 |
 | 6 | [free-music-by-eatme](https://github.com/free-music-by-eatme) | EatMe | The Hague, The Netherlands, Christmas Island. | 43 |
 | 7 | [Asiando](https://github.com/Asiando) | Matthew Asiando | Christmas Island | 13 |
@@ -63,9 +63,9 @@ Indexed users: 20
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [BiteTheDDDDt](https://github.com/BiteTheDDDDt) | Pxl | Christmas Island | 68 |
-| 2 | [dee-dee-catorce](https://github.com/dee-dee-catorce) |  | Chicago, Christmas Island | 48 |
+| 2 | [dee-dee-catorce](https://github.com/dee-dee-catorce) |  | Chicago, Christmas Island | 51 |
 | 3 | [j0nk0](https://github.com/j0nk0) |  | Christmas Island | 34 |
-| 4 | [Keron-Dev](https://github.com/Keron-Dev) | Keron Lewis | Christmas Island | 26 |
+| 4 | [Keron-Dev](https://github.com/Keron-Dev) | Keron Lewis | Christmas Island | 25 |
 | 5 | [DillonZChen](https://github.com/DillonZChen) | Dillon Chen | Christmas Island, Australia | 21 |
 | 6 | [ScriptKitKat](https://github.com/ScriptKitKat) | Priscilla Y | Christmas Island | 16 |
 | 7 | [louis1204](https://github.com/louis1204) | louis1204 | Christmas Island | 11 |
@@ -83,4 +83,4 @@ Indexed users: 20
 | 19 | [Mr-Sk1ttle](https://github.com/Mr-Sk1ttle) |  | Christmas Island | 1 |
 | 20 | [Rinnnnnnn](https://github.com/Rinnnnnnn) | Rin | Christmas Island | 1 |
 
-Generated: 2026-09-30T22:34:16.018Z
+Generated: 2026-10-07T06:54:18.980Z

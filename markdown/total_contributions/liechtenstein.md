@@ -1,8 +1,8 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:09:32.260Z
 
-Users: 116
+Users: 115
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 116
 | 10 | [volkmarritter](https://github.com/volkmarritter) | Volkmar Ritter | BICon |  | Vaduz | 979 |
 | 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 629 |
 | 12 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 585 |
-| 13 | [d0dge-dev](https://github.com/d0dge-dev) | David |  |  | Liechtenstein | 463 |
-| 14 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 392 |
-| 15 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 357 |
-| 16 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 333 |
-| 17 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 282 |
+| 13 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 463 |
+| 14 | [d0dge-dev](https://github.com/d0dge-dev) | David |  |  | Liechtenstein | 463 |
+| 15 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 333 |
+| 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 307 |
+| 17 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 296 |
 | 18 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 275 |
 | 19 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 274 |
 | 20 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 264 |

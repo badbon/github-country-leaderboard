@@ -1,6 +1,6 @@
 # Senegal
 
-Indexed users: 1,367
+Indexed users: 1,366
 
 | Leaderboard | Link |
 |---|---|
@@ -43,20 +43,20 @@ Indexed users: 1,367
 | 4 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 2,158 |
 | 5 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,903 |
 | 6 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 1,839 |
-| 7 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,545 |
-| 8 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,452 |
-| 9 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,173 |
+| 7 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,661 |
+| 8 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,545 |
+| 9 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,452 |
 | 10 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,147 |
 | 11 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,131 |
 | 12 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 1,108 |
-| 13 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 1,067 |
-| 14 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,052 |
-| 15 | [bngesp](https://github.com/bngesp) | bassirou ngom | Senegal | 998 |
-| 16 | [likemcode](https://github.com/likemcode) | josue Avuh | Dakar | 927 |
-| 17 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 900 |
-| 18 | [PapePathe](https://github.com/PapePathe) | Papa Pathé SENE | Dakar Sénégal West Africa | 853 |
-| 19 | [lucien-loua](https://github.com/lucien-loua) | lU | Dakar, Senegal | 810 |
-| 20 | [seydinalimamoulayeyade](https://github.com/seydinalimamoulayeyade) | Seydina Limamou Laye Yade | Dakar, Senegal | 773 |
+| 13 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,067 |
+| 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 1,067 |
+| 15 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,052 |
+| 16 | [bngesp](https://github.com/bngesp) | bassirou ngom | Senegal | 998 |
+| 17 | [likemcode](https://github.com/likemcode) | josue Avuh | Dakar | 927 |
+| 18 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 900 |
+| 19 | [PapePathe](https://github.com/PapePathe) | Papa Pathé SENE | Dakar Sénégal West Africa | 853 |
+| 20 | [lucien-loua](https://github.com/lucien-loua) | lU | Dakar, Senegal | 810 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,367
 | 19 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 | 20 | [tonux](https://github.com/tonux) | Tonux SAMB | Dakar, Sénégal  | 124 |
 
-Generated: 2026-10-07T06:37:47.201Z
+Generated: 2026-10-07T07:21:55.305Z

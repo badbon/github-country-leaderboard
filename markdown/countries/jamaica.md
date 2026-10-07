@@ -44,7 +44,7 @@ Indexed users: 1,288
 | 5 | [shamar-morrison](https://github.com/shamar-morrison) | Shamar Morrison | Jamaica | 1,972 |
 | 6 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 1,594 |
 | 7 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,206 |
-| 8 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,188 |
+| 8 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,172 |
 | 9 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,077 |
 | 10 | [BayBreezy](https://github.com/BayBreezy) | Behon Baker | Jamaica | 1,069 |
 | 11 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 976 |
@@ -53,9 +53,9 @@ Indexed users: 1,288
 | 14 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 818 |
 | 15 | [ahamadey27](https://github.com/ahamadey27) | Alex Hamadey | Brooklyn/Kingston, NY | 799 |
 | 16 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 792 |
-| 17 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 748 |
-| 18 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 745 |
-| 19 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 721 |
+| 17 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 751 |
+| 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 748 |
+| 19 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 745 |
 | 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 617 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,288
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 
-Generated: 2026-10-04T06:13:04.616Z
+Generated: 2026-10-07T07:05:16.348Z

@@ -54,8 +54,8 @@ Indexed users: 347
 | 15 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 179 |
 | 16 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 175 |
 | 17 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 157 |
-| 18 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Mali | 155 |
-| 19 | [DOUKING-95](https://github.com/DOUKING-95) | DOUKING-95 | Bamako,Mali | 140 |
+| 18 | [DOUKING-95](https://github.com/DOUKING-95) | DOUKING-95 | Bamako,Mali | 140 |
+| 19 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Mali | 134 |
 | 20 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 127 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 29 |
 | 20 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 
-Generated: 2026-10-07T06:26:37.200Z
+Generated: 2026-10-07T07:10:30.294Z

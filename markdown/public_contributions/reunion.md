@@ -1,14 +1,14 @@
 # Public Contributions - Réunion
 
-Generated: 2026-10-07T06:34:29.381Z
+Generated: 2026-10-07T07:19:36.540Z
 
-Users: 215
+Users: 213
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 1879 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1584 |
-| 3 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 1109 |
+| 3 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 1110 |
 | 4 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Red Hat, Inc. | elmarco | Réunion | 1015 |
 | 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 749 |
 | 6 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 705 |
@@ -20,9 +20,9 @@ Users: 215
 | 12 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault |  |  | Réunion island  | 280 |
 | 13 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  |  |  93210, Saint-Denis | 276 |
 | 14 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL |  |  | Reunion Island | 267 |
-| 15 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 175 |
-| 16 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch |  |  | Reunion Island | 169 |
-| 17 | [Wes974](https://github.com/Wes974) | Ouwéis |  |  | Reunion Island | 160 |
-| 18 | [FredMesnard](https://github.com/FredMesnard) | Fred Mesnard |  |  | Reunion Island | 149 |
-| 19 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 144 |
-| 20 | [laurent974](https://github.com/laurent974) | Laurent |  |  | Réunion island | 143 |
+| 15 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | EPITECH |  | Reunion Island | 185 |
+| 16 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 175 |
+| 17 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch |  |  | Reunion Island | 169 |
+| 18 | [Wes974](https://github.com/Wes974) | Ouwéis |  |  | Reunion Island | 160 |
+| 19 | [FredMesnard](https://github.com/FredMesnard) | Fred Mesnard |  |  | Reunion Island | 149 |
+| 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 144 |

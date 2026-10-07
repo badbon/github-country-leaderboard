@@ -1,6 +1,6 @@
 # Followers - Gabon
 
-Generated: 2026-10-02T12:56:07.298Z
+Generated: 2026-10-07T07:01:23.167Z
 
 Users: 315
 
@@ -13,7 +13,7 @@ Users: 315
 | 5 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | ANINF | DimitriOngoua | Libreville, Gabon | 65 |
 | 6 | [audreymengue](https://github.com/audreymengue) | Audrey Mengue |  | la_mengs | Libreville, Gabon | 50 |
 | 7 | [Djomab](https://github.com/Djomab) | Djogona Mahamat |  | DjogonaR | Gabon | 49 |
-| 8 | [stone-hackingod](https://github.com/stone-hackingod) | Bayani Stone |  |  | Libreville, Gabon | 47 |
+| 8 | [stone-hackingod](https://github.com/stone-hackingod) | Bayani Stone |  |  | Libreville, Gabon | 41 |
 | 9 | [El-GeorgesW](https://github.com/El-GeorgesW) | El Georges William | @Fractal-Engines | El_GeorgesW | Libreville, Gabon | 36 |
 | 10 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | @Reachafrika-Technicals, Freelance |  | Libreville/Gabon | 35 |
 | 11 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT |  |  | Gabon | 34 |

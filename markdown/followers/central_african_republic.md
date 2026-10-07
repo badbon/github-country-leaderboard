@@ -1,14 +1,14 @@
 # Followers - Central African Republic
 
-Generated: 2026-09-30T22:33:25.460Z
+Generated: 2026-10-07T06:54:09.531Z
 
 Users: 11
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | @ikouelabs @sendou-startup  | ElielMengue | BANGUI | 23 |
-| 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou |  |  | Remote ,Bangui , Centrafrique 🇨🇫 ; | 16 |
-| 3 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Platine PHP | NGUEREZATony | Bangui | 8 |
+| 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou |  |  | Remote ,Bangui , Centrafrique 🇨🇫 ; | 17 |
+| 3 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Platine PHP | NGUEREZATony | Bangui | 9 |
 | 4 | [ikouecode](https://github.com/ikouecode) |  | IKOUĒ |  | Central African Republic | 6 |
 | 5 | [yadiOs-a-darel](https://github.com/yadiOs-a-darel) | Alphonso Darel |  |  | Bangui, Central African Republic | 6 |
 | 6 | [tacopola](https://github.com/tacopola) | polaDev | Google |  | Bangui | 4 |

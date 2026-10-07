@@ -1,6 +1,6 @@
 # Bhutan
 
-Indexed users: 269
+Indexed users: 270
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 269
 | 19 | [EshanB101](https://github.com/EshanB101) | Eshan Basnet | Thimphu, Bhutan | 22 |
 | 20 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-07T06:49:45.884Z
+Generated: 2026-10-07T07:08:48.945Z

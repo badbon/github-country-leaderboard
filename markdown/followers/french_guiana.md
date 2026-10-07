@@ -1,17 +1,17 @@
 # Followers - French Guiana
 
-Generated: 2026-10-02T12:55:30.751Z
+Generated: 2026-10-07T07:01:17.124Z
 
 Users: 36
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [roberthpereira](https://github.com/roberthpereira) | Roberth Pereira | Freelancer |  | French Guiana | 18 |
-| 2 | [emmanoe](https://github.com/emmanoe) | Emmanoe |  |  | Guyane, South - America | 14 |
+| 2 | [emmanoe](https://github.com/emmanoe) | Emmanoe |  |  | Guyane, South - America | 15 |
 | 3 | [MelPeslier](https://github.com/MelPeslier) | Mel |  |  | Guyane  | 11 |
-| 4 | [Saint-Paulin](https://github.com/Saint-Paulin) |  |  |  | Kourou, french guiana | 10 |
-| 5 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | IUT de Kourou |  | French Guiana | 9 |
-| 6 | [geommon](https://github.com/geommon) | Milo | Université de Guyane |  | Cayenne | 8 |
+| 4 | [geommon](https://github.com/geommon) | Milo | Université de Guyane |  | Cayenne | 10 |
+| 5 | [Saint-Paulin](https://github.com/Saint-Paulin) |  |  |  | Kourou, french guiana | 10 |
+| 6 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | IUT de Kourou |  | French Guiana | 9 |
 | 7 | [jjcabon](https://github.com/jjcabon) | JJCABON | EDUCATION NATIONALE |  | CAYENNE | 7 |
 | 8 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto |  | randyLunetto | French Amazonia (Guyane) | 7 |
 | 9 | [qlspanda17](https://github.com/qlspanda17) | SONY PAME | université de Guyane |  |  French Guiana | 6 |

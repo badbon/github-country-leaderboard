@@ -1,14 +1,14 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-03T21:35:59.652Z
+Generated: 2026-10-07T07:04:24.592Z
 
-Users: 157
+Users: 156
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Vannin Studio |  | Isle of Man | 10706 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | @AuBerryBerry | auberryberry | Isle of Man | 7330 |
-| 3 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 4599 |
+| 3 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 5231 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | @craftapplied | dazdotdev | Isle of Man | 4058 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min |  |  | Isle of Man | 2998 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 2141 |
@@ -19,10 +19,10 @@ Users: 157
 | 11 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim |  |  | Isle of Man | 1364 |
 | 12 | [Gwiilo](https://github.com/Gwiilo) | Gwilo |  |  | Isle of Man | 1346 |
 | 13 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1300 |
-| 14 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | @apptrackit  |  | Isle of Man | 1239 |
-| 15 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 1153 |
-| 16 | [likesalmon](https://github.com/likesalmon) | Ammon Morris | SaasFactory |  | Douglas, AK | 1088 |
-| 17 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 1062 |
+| 14 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 1153 |
+| 15 | [likesalmon](https://github.com/likesalmon) | Ammon Morris | SaasFactory |  | Douglas, AK | 1088 |
+| 16 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 1062 |
+| 17 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | @apptrackit  |  | Isle of Man | 1061 |
 | 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 1009 |
 | 19 | [AshLeece](https://github.com/AshLeece) | Ash Leece |  |  | Isle of Man | 997 |
 | 20 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 996 |

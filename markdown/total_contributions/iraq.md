@@ -1,8 +1,8 @@
 # Total Contributions - Iraq
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:04:17.504Z
 
-Users: 2257
+Users: 2255
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

@@ -1,8 +1,8 @@
 # Total Contributions - Singapore
 
-Generated: 2026-10-07T06:38:01.320Z
+Generated: 2026-10-07T07:23:37.473Z
 
-Users: 24672
+Users: 24671
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 24672
 | 17 | [coldfire913](https://github.com/coldfire913) | liyu |  | coolwater913 | Singapore | 26001 |
 | 18 | [jaryl](https://github.com/jaryl) | Jaryl Sim |  |  | Singapore | 25204 |
 | 19 | [Nasdin](https://github.com/Nasdin) | Nasrudin Bin Salim |  |  | Singapore | 24626 |
-| 20 | [lekt9](https://github.com/lekt9) | lekt8 | Unbrowse AI | unbrowse | Singapore | 22195 |
+| 20 | [black008q](https://github.com/black008q) |  |  |  | Singapore  | 23258 |

@@ -1,6 +1,6 @@
 # Followers - French Polynesia
 
-Generated: 2026-10-02T12:55:33.115Z
+Generated: 2026-10-07T07:01:19.417Z
 
 Users: 60
 
@@ -19,8 +19,8 @@ Users: 60
 | 11 | [glaziou](https://github.com/glaziou) | Philippe Glaziou |  |  | Tahiti, French Polynesia | 11 |
 | 12 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou |  |  | French Polynesia | 11 |
 | 13 | [teuna](https://github.com/teuna) | Teuna Ferrand |  |  | Tahiti, French Polynesia | 11 |
-| 14 | [yannkb](https://github.com/yannkb) | Yann Bouchereau |  | yannkb_ | Papeete, French Polynesia | 9 |
-| 15 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard |  |  | Tahiti, French Polynesia | 7 |
+| 14 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard |  |  | Tahiti, French Polynesia | 7 |
+| 15 | [yannkb](https://github.com/yannkb) | Yann Bouchereau |  | yannkb_ | Papeete, French Polynesia | 7 |
 | 16 | [lauramikula](https://github.com/lauramikula) | Laura Mikula | York University | MikulaLaura | Tahiti, French Polynesia | 6 |
 | 17 | [Heinux](https://github.com/Heinux) | Heinux |  |  | French Polynesia | 5 |
 | 18 | [TToarii](https://github.com/TToarii) | TAU Toarii |  |  | French Polynesia | 5 |

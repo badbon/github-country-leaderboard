@@ -1,6 +1,6 @@
 # Followers - Lesotho
 
-Generated: 2026-10-06T00:25:17.509Z
+Generated: 2026-10-07T07:08:53.929Z
 
 Users: 162
 
@@ -17,7 +17,7 @@ Users: 162
 | 9 | [AtomLaw](https://github.com/AtomLaw) | Hlompho | Private |  | Lesotho | 29 |
 | 10 | [Motseki](https://github.com/Motseki) | Lebohang Bernard |  | lbmotseki | Lesotho | 29 |
 | 11 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Limkokwing University | ntholi | Maseru | 29 |
-| 12 | [Ntlele](https://github.com/Ntlele) | David |  |  | Lesotho | 29 |
+| 12 | [Ntlele](https://github.com/Ntlele) | David |  |  | Lesotho | 26 |
 | 13 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 20 |
 | 14 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello |  |  | Maseru, Lesotho | 17 |
 | 15 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Bethord Solutions |  | Maseru, Lesotho | 16 |

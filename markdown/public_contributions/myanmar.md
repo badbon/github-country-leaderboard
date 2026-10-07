@@ -1,6 +1,6 @@
 # Public Contributions - Myanmar
 
-Generated: 2026-10-07T06:28:17.752Z
+Generated: 2026-10-07T07:12:37.617Z
 
 Users: 2085
 
@@ -25,4 +25,4 @@ Users: 2085
 | 17 | [yoloxsta](https://github.com/yoloxsta) | Soe Tint Aung | AIA |  | Yangon, Myanmar | 1006 |
 | 18 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | OTAS Tech Solutions |  | Myanmar | 941 |
 | 19 | [TaoMonLae](https://github.com/TaoMonLae) |  |  |  | Myanmar | 920 |
-| 20 | [Ashmoon32](https://github.com/Ashmoon32) | Ashmoon |  |  | Yangon, Myanmar | 866 |
+| 20 | [AungMyoAyeDev](https://github.com/AungMyoAyeDev) | Aung Myo Aye |  |  | Mandalay,Myanmar | 854 |

@@ -12,49 +12,49 @@ Indexed users: 265
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 8,351 |
-| 2 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 8,259 |
+| 1 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 8,259 |
+| 2 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 6,868 |
 | 3 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 5,341 |
 | 4 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Conakry | 5,228 |
 | 5 | [hadpro24](https://github.com/hadpro24) | Harouna Diallo | Guinée, Conakry, GN | 2,706 |
 | 6 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy | Guinée, Conakry | 2,250 |
 | 7 | [mohdiarra](https://github.com/mohdiarra) | Mohamed Diarra | Conakry, Guinea | 2,192 |
-| 8 | [TheRealBerete](https://github.com/TheRealBerete) | BERETE 🇬🇳❤️ | Conakry  | 1,733 |
-| 9 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 1,729 |
-| 10 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 1,701 |
-| 11 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Conakry, Guinée | 1,457 |
-| 12 | [DiabySoryIb](https://github.com/DiabySoryIb) | Ib Sory | Guinea | 1,143 |
-| 13 | [konatem-mk9](https://github.com/konatem-mk9) | KONATE Moussa | CONAKRY | 1,075 |
-| 14 | [ISSIAGA-CONDE224](https://github.com/ISSIAGA-CONDE224) | ISSIAGA CONDE | GUINEA CONAKRY | 814 |
-| 15 | [Iboubai](https://github.com/Iboubai) | Ibrahima Doumbouya | Conakry | 670 |
-| 16 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 590 |
-| 17 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 587 |
-| 18 | [Adbrim](https://github.com/Adbrim) | Alhassane Bah | CONAKRY | 563 |
-| 19 | [Zakui](https://github.com/Zakui) | Jules Thea | Guinea, Conakry | 557 |
-| 20 | [mamadou6c](https://github.com/mamadou6c) | Mamadou | Guinea | 480 |
+| 8 | [sudomarc](https://github.com/sudomarc) | marco_ | Guinée Conakry  | 2,165 |
+| 9 | [TheRealBerete](https://github.com/TheRealBerete) | BERETE 🇬🇳❤️ | Conakry  | 1,733 |
+| 10 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 1,729 |
+| 11 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 1,701 |
+| 12 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Conakry, Guinée | 1,457 |
+| 13 | [DiabySoryIb](https://github.com/DiabySoryIb) | Ib Sory | Guinea | 1,143 |
+| 14 | [konatem-mk9](https://github.com/konatem-mk9) | KONATE Moussa | CONAKRY | 1,075 |
+| 15 | [ISSIAGA-CONDE224](https://github.com/ISSIAGA-CONDE224) | ISSIAGA CONDE | GUINEA CONAKRY | 814 |
+| 16 | [Iboubai](https://github.com/Iboubai) | Ibrahima Doumbouya | Conakry | 670 |
+| 17 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 590 |
+| 18 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 587 |
+| 19 | [Adbrim](https://github.com/Adbrim) | Alhassane Bah | CONAKRY | 563 |
+| 20 | [Zakui](https://github.com/Zakui) | Jules Thea | Guinea, Conakry | 557 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy | Guinée, Conakry | 2,250 |
-| 2 | [Iboubai](https://github.com/Iboubai) | Ibrahima Doumbouya | Conakry | 670 |
-| 3 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 590 |
-| 4 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 473 |
-| 5 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 337 |
+| 2 | [sudomarc](https://github.com/sudomarc) | marco_ | Guinée Conakry  | 2,165 |
+| 3 | [Iboubai](https://github.com/Iboubai) | Ibrahima Doumbouya | Conakry | 670 |
+| 4 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 590 |
+| 5 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 473 |
 | 6 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 315 |
-| 7 | [sudomarc](https://github.com/sudomarc) | marco_ | Guinée Conakry  | 279 |
+| 7 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 245 |
 | 8 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 244 |
 | 9 | [Kourahoye](https://github.com/Kourahoye) | Amadou Kourahoye | Conakry | 222 |
 | 10 | [GYOM15](https://github.com/GYOM15) | Guy Olivier Millimouno | Guinea/Conakry | 209 |
 | 11 | [Le-web-developpeur1](https://github.com/Le-web-developpeur1) | Boubacar Bah | Conakry-Guinea | 204 |
-| 12 | [Jeanos2004](https://github.com/Jeanos2004) | Jeanos Ouamouno | Guinee-Conakry | 178 |
+| 12 | [Jeanos2004](https://github.com/Jeanos2004) | Jeanos Ouamouno | Guinee-Conakry | 173 |
 | 13 | [Delamou1234](https://github.com/Delamou1234) | Samaké DELAMOU | Conakry  | 168 |
 | 14 | [amadou11doumbouya10-lgtm](https://github.com/amadou11doumbouya10-lgtm) | Amah  | Guinée. Conakry | 164 |
 | 15 | [elhadjmamadou](https://github.com/elhadjmamadou) | Elhadj Mamadou Diallo | Guinee, conakry | 147 |
 | 16 | [Abel-sangare](https://github.com/Abel-sangare) |  | Conakry | 133 |
-| 17 | [Keira224](https://github.com/Keira224) | Ousmane Keira  | Guinée, Conakry | 131 |
-| 18 | [lamarana55](https://github.com/lamarana55) | Mamadou Lamarana Diallo | Guinea  | 131 |
+| 17 | [lamarana55](https://github.com/lamarana55) | Mamadou Lamarana Diallo | Guinea  | 131 |
+| 18 | [Keira224](https://github.com/Keira224) | Ousmane Keira  | Guinée, Conakry | 123 |
 | 19 | [Skjnior](https://github.com/Skjnior) | Rj_45 | Guinea | 118 |
 | 20 | [EORBAH](https://github.com/EORBAH) | EOR_BAH545 | Guinea Conakry | 109 |
 
@@ -83,4 +83,4 @@ Indexed users: 265
 | 19 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 | 20 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 12 |
 
-Generated: 2026-10-02T12:59:35.570Z
+Generated: 2026-10-07T07:02:44.398Z

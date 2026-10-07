@@ -1,6 +1,6 @@
 # Ivory Coast
 
-Indexed users: 490
+Indexed users: 488
 
 | Leaderboard | Link |
 |---|---|
@@ -53,10 +53,10 @@ Indexed users: 490
 | 14 | [zampou-code](https://github.com/zampou-code) | Zi Code | Abidjan, Ivory Coast | 386 |
 | 15 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 366 |
 | 16 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 323 |
-| 17 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | Abidjan, Côte-d'Ivoire | 290 |
-| 18 | [Ebedthan](https://github.com/Ebedthan) | Anicet Ebou | Yamoussoukro, Côte d'Ivoire | 260 |
-| 19 | [Oguidan](https://github.com/Oguidan) | Michael Oguidan | Abidjan, Côte d'Ivoire | 255 |
-| 20 | [alban-okoby](https://github.com/alban-okoby) | CerveauPlus | Abidjan, Côte d'Ivoire | 250 |
+| 17 | [Diby-dev](https://github.com/Diby-dev) | Dan | Côte d'Ivoire, Abidjan | 302 |
+| 18 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | Abidjan, Côte-d'Ivoire | 290 |
+| 19 | [Ebedthan](https://github.com/Ebedthan) | Anicet Ebou | Yamoussoukro, Côte d'Ivoire | 260 |
+| 20 | [Oguidan](https://github.com/Oguidan) | Michael Oguidan | Abidjan, Côte d'Ivoire | 255 |
 
 ## Followers
 
@@ -75,12 +75,12 @@ Indexed users: 490
 | 11 | [philemongloblehi](https://github.com/philemongloblehi) | PHILEMON GLOBLEHI | Ivory Coast | 68 |
 | 12 | [Shadracthechosenone](https://github.com/Shadracthechosenone) | Shadrac | Ivory Coast | 68 |
 | 13 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 60 |
-| 14 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 57 |
-| 15 | [agnamc9](https://github.com/agnamc9) | Agnaramon Boris-Carnot | Abidjan, Côte d'Ivoire | 55 |
-| 16 | [daohassane](https://github.com/daohassane) | Hassane Dao | Côte d'ivoire, Abidjan | 52 |
-| 17 | [daboujohan-hub](https://github.com/daboujohan-hub) | Diomandé Abou johan | Abidjan, Côte d'Ivoire | 49 |
+| 14 | [daboujohan-hub](https://github.com/daboujohan-hub) | Diomandé Abou johan | San Pedro, Côte d'Ivoire | 58 |
+| 15 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 57 |
+| 16 | [agnamc9](https://github.com/agnamc9) | Agnaramon Boris-Carnot | Abidjan, Côte d'Ivoire | 55 |
+| 17 | [daohassane](https://github.com/daohassane) | Hassane Dao | Côte d'ivoire, Abidjan | 52 |
 | 18 | [ourystd](https://github.com/ourystd) | Oury Diallo | Abidjan, Côte d'Ivoire | 48 |
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
 | 20 | [k111ra](https://github.com/k111ra) | sidik slims | Abidjan, Côte D'ivoire | 42 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:05:09.897Z

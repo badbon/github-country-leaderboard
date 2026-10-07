@@ -1,13 +1,13 @@
 # Public Contributions - Saint Vincent and the Grenadines
 
-Generated: 2026-10-07T06:37:09.898Z
+Generated: 2026-10-07T07:20:57.079Z
 
 Users: 26
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [2Remus](https://github.com/2Remus) | human#23416 | Customs and Excise St Vincent and the Grenadines |  | Kingstown, Saint George, Saint Vincent and the Grenadines | 344 |
-| 2 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | Axiom Data Science, LLC |  | South Kingstown, RI | 106 |
+| 2 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | Axiom Data Science, LLC |  | South Kingstown, RI | 98 |
 | 3 | [kazar4](https://github.com/kazar4) | Kazen Gallman |  |  | North Kingstown, Rhode Island | 37 |
 | 4 | [dellon28](https://github.com/dellon28) | Dellonte Boucher |  |  | Saint Vincent and the Grenadines | 25 |
 | 5 | [colin-dbv](https://github.com/colin-dbv) | Colin Vincent | DBV Technology, LLC |  | North Kingstown RI | 9 |

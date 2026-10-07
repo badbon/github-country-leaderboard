@@ -1,6 +1,6 @@
 # Followers - Mauritania
 
-Generated: 2026-10-07T06:27:13.434Z
+Generated: 2026-10-07T07:10:44.625Z
 
 Users: 290
 
@@ -18,10 +18,10 @@ Users: 290
 | 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 34 |
 | 11 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | HrFlow.ai | BabeSalehDahi | Nouakchott, Mauritania | 32 |
 | 12 | [Kader198](https://github.com/Kader198) | Abdel Kader Maguiraga | SMART MS | MaguisKader | MAURITANIA  | 31 |
-| 13 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou |  | MoustaphaTJ | Nouakchott, Mauritania | 31 |
-| 14 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 30 |
-| 15 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said |  |  | Nouakchott,Mauriania | 30 |
-| 16 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 29 |
+| 13 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 30 |
+| 14 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said |  |  | Nouakchott,Mauriania | 30 |
+| 15 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 29 |
+| 16 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou |  | MoustaphaTJ | Nouakchott, Mauritania | 29 |
 | 17 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh |  |  | nouakchott | 28 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil |  |  | Mauritania | 28 |
 | 19 | [sidimo-hamed](https://github.com/sidimo-hamed) | Sidi Mohamed |  |  | Mauritanie,Nouakchott | 28 |

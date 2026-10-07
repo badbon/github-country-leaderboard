@@ -1,6 +1,6 @@
 # Followers - Niger
 
-Generated: 2026-10-07T06:29:20.021Z
+Generated: 2026-10-07T07:13:04.114Z
 
 Users: 177
 
@@ -14,7 +14,7 @@ Users: 177
 | 6 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 64 |
 | 7 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | SETES SARL | hama_barhamou | Niger | 50 |
 | 8 | [ab3masta](https://github.com/ab3masta) | Abdou Abarchi Aboubacar | @Acacurs | ab3masta | Niamey-Niger | 37 |
-| 9 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 32 |
+| 9 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 31 |
 | 10 | [malnuxstarck](https://github.com/malnuxstarck) | Abdoul Malik | @Profiteroles |  | Niamey , Niger | 30 |
 | 11 | [bkina1](https://github.com/bkina1) | Boubacar Kina |  | KinaBoubacar | Niger | 29 |
 | 12 | [TrakyRichard](https://github.com/TrakyRichard) | Traky Richard | Codeloccol | TrakyRichard | Niger | 28 |

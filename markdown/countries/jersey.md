@@ -53,10 +53,10 @@ Indexed users: 139
 | 14 | [devdanio](https://github.com/devdanio) | Dan | Jersey | 139 |
 | 15 | [Adrian609](https://github.com/Adrian609) | Adrian | Jersey | 131 |
 | 16 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 128 |
-| 17 | [millerthegorilla](https://github.com/millerthegorilla) | James Stewart Miller | Jersey, Channel Islands | 111 |
-| 18 | [garyfeltham](https://github.com/garyfeltham) | Gary Feltham | Jersey | 96 |
-| 19 | [Eve-Carruthers](https://github.com/Eve-Carruthers) | Eve Carruthers | Jersey, Channel Islands | 90 |
-| 20 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 86 |
+| 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green | Jersey, Channel Islands | 115 |
+| 18 | [millerthegorilla](https://github.com/millerthegorilla) | James Stewart Miller | Jersey, Channel Islands | 111 |
+| 19 | [garyfeltham](https://github.com/garyfeltham) | Gary Feltham | Jersey | 96 |
+| 20 | [Eve-Carruthers](https://github.com/Eve-Carruthers) | Eve Carruthers | Jersey, Channel Islands | 90 |
 
 ## Followers
 
@@ -78,9 +78,9 @@ Indexed users: 139
 | 14 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 28 |
 | 15 | [adecler](https://github.com/adecler) | Arnaud Declercq | Jersey | 24 |
 | 16 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 23 |
-| 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green | Jersey, Channel Islands | 23 |
+| 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green | Jersey, Channel Islands | 22 |
 | 18 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 21 |
 | 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 20 |
 | 20 | [danhantao](https://github.com/danhantao) | Jacob | Jersey | 18 |
 
-Generated: 2026-10-04T06:13:08.407Z
+Generated: 2026-10-07T07:05:43.414Z

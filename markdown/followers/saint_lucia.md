@@ -1,16 +1,16 @@
 # Followers - Saint Lucia
 
-Generated: 2026-10-07T06:36:28.704Z
+Generated: 2026-10-07T07:20:27.067Z
 
 Users: 34
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | @peakshift  | johnsBeharry | Saint Lucia | 145 |
+| 1 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | @peakshift  | johnsBeharry | Saint Lucia | 144 |
 | 2 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor |  |  | Saint Lucia | 49 |
 | 3 | [CodeRed30](https://github.com/CodeRed30) | Katrina | Close.com |  | Saint Lucia, WI | 24 |
-| 4 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Quantum Garden Software |  | Saint Lucia | 21 |
-| 5 | [amello69](https://github.com/amello69) | Alvinus Melius | PALs |  | Saint Lucia | 11 |
+| 4 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Quantum Garden Software |  | Saint Lucia | 20 |
+| 5 | [amello69](https://github.com/amello69) | Alvinus Melius | PALs |  | Saint Lucia | 12 |
 | 6 | [destinydriven](https://github.com/destinydriven) | destinydriven |  |  | Saint Lucia | 11 |
 | 7 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | @ec-intl @CliMA @utatulc  | combengue | Castries, Saint Lucia | 10 |
 | 8 | [NMonKLabs77](https://github.com/NMonKLabs77) | Nehemiah Monrose |  |  | Saint Lucia | 10 |

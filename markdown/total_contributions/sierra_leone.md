@@ -1,14 +1,14 @@
 # Total Contributions - Sierra Leone
 
-Generated: 2026-10-07T06:37:57.807Z
+Generated: 2026-10-07T07:23:06.393Z
 
 Users: 442
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 7815 |
-| 2 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 4992 |
-| 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 4499 |
+| 2 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 5437 |
+| 3 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 4992 |
 | 4 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Byte Limited |  | Freetown. Sierra Leone | 4228 |
 | 5 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 3578 |
 | 6 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 3293 |
@@ -21,8 +21,8 @@ Users: 442
 | 13 | [ksawaneh](https://github.com/ksawaneh) | Karim Sawaneh |  |  | Freetown, Sierra Leone | 2090 |
 | 14 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | @monimesl , @monime-lab  | Abarrie_potter | Freetown, Sierra Leone | 2037 |
 | 15 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon |  |  | Sierra Leone | 1851 |
-| 16 | [abu-bakarr](https://github.com/abu-bakarr) |  | Limkokwing University Student | Boss_Lovel | Sierra Leone | 1625 |
-| 17 | [Emmanuel1255](https://github.com/Emmanuel1255) | Emmanuel Kamanda | Sierra Technologies |  | Freetown | 1566 |
-| 18 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | ATMR |  | TheLoneWulf_WA | Freetown, Sierra Leone | 1518 |
-| 19 | [Jahrulo](https://github.com/Jahrulo) | Jallohseray |  |  | Freetown, Sierra Leone | 1457 |
-| 20 | [Jnewton-lab](https://github.com/Jnewton-lab) | James M Bockarie  | Jassed Computing Solutions | JNewton | Freetown, Sierra Leone | 1436 |
+| 16 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Core Brim Tech |  | Freetown, Sierra Leone | 1716 |
+| 17 | [abu-bakarr](https://github.com/abu-bakarr) |  | Limkokwing University Student | Boss_Lovel | Sierra Leone | 1625 |
+| 18 | [Emmanuel1255](https://github.com/Emmanuel1255) | Emmanuel Kamanda | Sierra Technologies |  | Freetown | 1566 |
+| 19 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | ATMR |  | TheLoneWulf_WA | Freetown, Sierra Leone | 1518 |
+| 20 | [Jahrulo](https://github.com/Jahrulo) | Jallohseray |  |  | Freetown, Sierra Leone | 1457 |

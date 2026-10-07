@@ -1,6 +1,6 @@
 # Singapore
 
-Indexed users: 24,672
+Indexed users: 24,671
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 24,672
 | 17 | [coldfire913](https://github.com/coldfire913) | liyu | Singapore | 26,001 |
 | 18 | [jaryl](https://github.com/jaryl) | Jaryl Sim | Singapore | 25,204 |
 | 19 | [Nasdin](https://github.com/Nasdin) | Nasrudin Bin Salim | Singapore | 24,626 |
-| 20 | [lekt9](https://github.com/lekt9) | lekt8 | Singapore | 22,195 |
+| 20 | [black008q](https://github.com/black008q) |  | Singapore  | 23,258 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 24,672
 | 19 | [greyli](https://github.com/greyli) | Grey Li | Singapore | 2,594 |
 | 20 | [karlseguin](https://github.com/karlseguin) | Karl Seguin | Singapore | 2,571 |
 
-Generated: 2026-10-07T06:38:01.320Z
+Generated: 2026-10-07T07:23:37.473Z

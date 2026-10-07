@@ -1,8 +1,8 @@
 # Followers - Réunion
 
-Generated: 2026-10-07T06:34:29.381Z
+Generated: 2026-10-07T07:19:36.540Z
 
-Users: 215
+Users: 213
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

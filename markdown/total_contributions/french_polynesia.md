@@ -1,6 +1,6 @@
 # Total Contributions - French Polynesia
 
-Generated: 2026-10-02T12:55:33.115Z
+Generated: 2026-10-07T07:01:19.417Z
 
 Users: 60
 
@@ -17,12 +17,12 @@ Users: 60
 | 9 | [geoffguillain](https://github.com/geoffguillain) | Geoff | Automattic |  | French Polynesia | 300 |
 | 10 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 294 |
 | 11 | [paraita](https://github.com/paraita) | Paraita Wohler | @e-reo | paraita | Tahiti, French Polynesia | 266 |
-| 12 | [syllebra](https://github.com/syllebra) | BilboX |  |  | French Polynesia | 128 |
+| 12 | [syllebra](https://github.com/syllebra) | BilboX |  |  | French Polynesia | 96 |
 | 13 | [Apollo987](https://github.com/Apollo987) | Jerome B |  |  | French Polynesia | 64 |
-| 14 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | ispf.pf |  | French Polynesia | 26 |
+| 14 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | ispf.pf |  | French Polynesia | 49 |
 | 15 | [teuna](https://github.com/teuna) | Teuna Ferrand |  |  | Tahiti, French Polynesia | 21 |
 | 16 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI |  |  | Polynésie Française | 20 |
 | 17 | [AJamelot](https://github.com/AJamelot) | ajamelot | Laboratoire de Géophysique de Tahiti |  | Polynésie Française | 11 |
 | 18 | [DLTBryan](https://github.com/DLTBryan) |  |  |  | French Polynesia | 11 |
-| 19 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Huri Translations |  | Mo'orea, French Polynesia | 9 |
-| 20 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou |  |  | French Polynesia | 9 |
+| 19 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou |  |  | French Polynesia | 9 |
+| 20 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard |  |  | Tahiti, French Polynesia | 7 |

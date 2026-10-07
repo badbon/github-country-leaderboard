@@ -1,6 +1,6 @@
 # DR Congo
 
-Indexed users: 707
+Indexed users: 706
 
 | Leaderboard | Link |
 |---|---|
@@ -53,10 +53,10 @@ Indexed users: 707
 | 14 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | Kinshasa | 904 |
 | 15 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | Democratic Republic of the Congo | 802 |
 | 16 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 800 |
-| 17 | [GIT-VERBECK](https://github.com/GIT-VERBECK) | JEAN-MARC VERBECK | Democratic Republic of the Congo | 776 |
-| 18 | [Holsonmp](https://github.com/Holsonmp) | Holson Mpangala | Kinshasa, Congo CD | 776 |
-| 19 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 765 |
-| 20 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 677 |
+| 17 | [Holsonmp](https://github.com/Holsonmp) | Holson Mpangala | Kinshasa, Congo CD | 776 |
+| 18 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 765 |
+| 19 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 677 |
+| 20 | [AshDest](https://github.com/AshDest) | Destin ASHUZA | Democratic Republic of the Congo, Goma | 662 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 707
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 68 |
 
-Generated: 2026-10-01T22:58:28.377Z
+Generated: 2026-10-07T06:59:19.710Z

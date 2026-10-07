@@ -1,14 +1,14 @@
 # Total Contributions - Eritrea
 
-Generated: 2026-10-02T05:54:06.231Z
+Generated: 2026-10-07T07:00:32.854Z
 
 Users: 17
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis |  |  | Asmara, Eritrea | 4440 |
-| 2 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | GeezLab |  | Stockholm \|\| Daejeon \|\| Asmara | 2375 |
-| 3 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | @HotelAsmaraPalace | afatinong | Eritrea | 18 |
+| 1 | [Bereket-Desbele](https://github.com/Bereket-Desbele) | Bereket Desbele Ghebregiorgis |  |  | Asmara, Eritrea | 4558 |
+| 2 | [fgaim](https://github.com/fgaim) | Fitsum Gaim | GeezLab |  | Stockholm \|\| Daejeon \|\| Asmara | 2393 |
+| 3 | [afatinong](https://github.com/afatinong) | Afewerki Fkadu | @HotelAsmaraPalace | afatinong | Eritrea | 30 |
 | 4 | [shaminzo](https://github.com/shaminzo) | Sham Mesfn |  |  | Asmara | 11 |
 | 5 | [aigemito](https://github.com/aigemito) | Amanuel Isack Gebreendrias | emito |  | Asmara,Eritrea | 0 |
 | 6 | [CycloneInitiatives](https://github.com/CycloneInitiatives) | Cyclone Intiatives | Cyclone Initiative Foundation |  | Asmara, Eritrea | 0 |

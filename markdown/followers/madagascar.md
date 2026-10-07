@@ -1,8 +1,8 @@
 # Followers - Madagascar
 
-Generated: 2026-10-07T06:01:38.566Z
+Generated: 2026-10-07T07:10:01.574Z
 
-Users: 1921
+Users: 1920
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -12,12 +12,12 @@ Indexed users: 18
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 528 |
-| 2 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 351 |
+| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 533 |
+| 2 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost | Dominica | 348 |
 | 3 | [crwne1](https://github.com/crwne1) | Kieron Clunes | Roseau, Dominica  | 103 |
-| 4 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 81 |
-| 5 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 51 |
-| 6 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 47 |
+| 4 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 89 |
+| 5 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 47 |
+| 6 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 44 |
 | 7 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 26 |
 | 8 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 18 |
 | 9 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 9 |
@@ -35,9 +35,9 @@ Indexed users: 18
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 207 |
-| 2 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 51 |
-| 3 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 47 |
+| 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 212 |
+| 2 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 47 |
+| 3 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 44 |
 | 4 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 20 |
 | 5 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 18 |
 | 6 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 14 |
@@ -58,8 +58,8 @@ Indexed users: 18
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 7 |
-| 2 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 6 |
+| 1 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 7 |
+| 2 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 7 |
 | 3 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 6 |
 | 4 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 4 |
 | 5 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 4 |
@@ -77,4 +77,4 @@ Indexed users: 18
 | 17 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 1 |
 | 18 | [theode](https://github.com/theode) | Derrick Theophille | Dominica | 1 |
 
-Generated: 2026-10-01T22:58:19.858Z
+Generated: 2026-10-07T06:58:43.471Z

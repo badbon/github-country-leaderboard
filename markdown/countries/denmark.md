@@ -1,6 +1,6 @@
 # Denmark
 
-Indexed users: 19,304
+Indexed users: 19,302
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 19,304
 | 8 | [TanvirAlam](https://github.com/TanvirAlam) | Tanvir Alam | Denmark | 16,334 |
 | 9 | [trenskow](https://github.com/trenskow) | Kristian Trenskow | Aarhus, Denmark | 15,978 |
 | 10 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | Holstebro, Denmark | 15,540 |
-| 11 | [casinoaftaler](https://github.com/casinoaftaler) | Jonas – Founder of Casinoaftaler.dk | Copenhagen, Denmark | 15,215 |
-| 12 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | Denmark | 15,097 |
-| 13 | [EpochBoy](https://github.com/EpochBoy) | EpochBoy | Copenhagen | 14,885 |
-| 14 | [sylvesterdamgaard](https://github.com/sylvesterdamgaard) | Sylvester Damgaard | Denmark | 14,434 |
-| 15 | [kimdv](https://github.com/kimdv) | Kim de Vos | Aarhus, Denmark  | 13,968 |
-| 16 | [atiti](https://github.com/atiti) | Attila Sukosd | Copenhagen, Denmark | 13,262 |
-| 17 | [luxass](https://github.com/luxass) | Lucas Nørgård | Aarhus, Denmark | 12,712 |
-| 18 | [holgarsson](https://github.com/holgarsson) | Rói Holgarsson | Copenhagen, Denmark | 12,638 |
-| 19 | [Marti-S](https://github.com/Marti-S) | Marti | Denmark | 12,557 |
-| 20 | [JonasAbde](https://github.com/JonasAbde) | Jonas Abde | Denmark  | 12,441 |
+| 11 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | Denmark | 15,097 |
+| 12 | [EpochBoy](https://github.com/EpochBoy) | EpochBoy | Copenhagen | 14,885 |
+| 13 | [sylvesterdamgaard](https://github.com/sylvesterdamgaard) | Sylvester Damgaard | Denmark | 14,434 |
+| 14 | [kimdv](https://github.com/kimdv) | Kim de Vos | Aarhus, Denmark  | 13,968 |
+| 15 | [atiti](https://github.com/atiti) | Attila Sukosd | Copenhagen, Denmark | 13,262 |
+| 16 | [luxass](https://github.com/luxass) | Lucas Nørgård | Aarhus, Denmark | 12,712 |
+| 17 | [holgarsson](https://github.com/holgarsson) | Rói Holgarsson | Copenhagen, Denmark | 12,638 |
+| 18 | [Marti-S](https://github.com/Marti-S) | Marti | Denmark | 12,557 |
+| 19 | [JonasAbde](https://github.com/JonasAbde) | Jonas Abde | Denmark  | 12,441 |
+| 20 | [michaelthuren](https://github.com/michaelthuren) | Michael Thuren | Copenhagen | 12,088 |
 
 ## Public Contributions
 
@@ -40,23 +40,23 @@ Indexed users: 19,304
 | 1 | [fpihl](https://github.com/fpihl) | Felix | Denmark | 1,368,442 |
 | 2 | [kjuulh](https://github.com/kjuulh) | Kasper Juul Hermansen | Aarhus, Denmark | 108,572 |
 | 3 | [lassestilvang](https://github.com/lassestilvang) | Lasse Stilvang | Copenhagen, Denmark | 15,850 |
-| 4 | [casinoaftaler](https://github.com/casinoaftaler) | Jonas – Founder of Casinoaftaler.dk | Copenhagen, Denmark | 15,215 |
-| 5 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | Holstebro, Denmark | 13,102 |
-| 6 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | Denmark | 12,291 |
-| 7 | [jhnwllr](https://github.com/jhnwllr) | John Waller | Copenhagen | 9,491 |
-| 8 | [niksedk](https://github.com/niksedk) | Nikolaj Olsson | Denmark | 9,302 |
-| 9 | [floitsch](https://github.com/floitsch) | Florian Loitsch | Aarhus, Denmark | 9,212 |
-| 10 | [pmorch](https://github.com/pmorch) | Peter Valdemar Mørch | Copenhagen | 8,699 |
-| 11 | [luxass](https://github.com/luxass) | Lucas Nørgård | Aarhus, Denmark | 8,676 |
-| 12 | [christianhelle](https://github.com/christianhelle) | Christian Helle | Copenhagen, Denmark | 8,245 |
-| 13 | [SShadowS](https://github.com/SShadowS) | Torben Leth | Denmark | 8,242 |
-| 14 | [neoneye](https://github.com/neoneye) | Simon Strandgaard | Copenhagen - Denmark | 7,342 |
-| 15 | [lwjohnst86](https://github.com/lwjohnst86) | Luke W. Johnston | Copenhagen, Denmark | 7,062 |
-| 16 | [fbosch](https://github.com/fbosch) | Frederik Bosch | Copenhagen, Denmark | 7,002 |
-| 17 | [eea-jenkins](https://github.com/eea-jenkins) | EEA Jenkins | Kongens Nytorv 6, 1050, Copenhagen K, Denmark | 6,965 |
-| 18 | [kasperisager](https://github.com/kasperisager) | Kasper Isager Dalsgarð | Denmark | 6,503 |
-| 19 | [davsclaus](https://github.com/davsclaus) | Claus Ibsen | Denmark | 6,304 |
-| 20 | [saattrupdan](https://github.com/saattrupdan) | Dan Saattrup Smart | Copenhagen, Denmark | 6,137 |
+| 4 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | Holstebro, Denmark | 13,102 |
+| 5 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | Denmark | 12,291 |
+| 6 | [jhnwllr](https://github.com/jhnwllr) | John Waller | Copenhagen | 9,491 |
+| 7 | [niksedk](https://github.com/niksedk) | Nikolaj Olsson | Denmark | 9,302 |
+| 8 | [floitsch](https://github.com/floitsch) | Florian Loitsch | Aarhus, Denmark | 9,212 |
+| 9 | [pmorch](https://github.com/pmorch) | Peter Valdemar Mørch | Copenhagen | 8,699 |
+| 10 | [luxass](https://github.com/luxass) | Lucas Nørgård | Aarhus, Denmark | 8,676 |
+| 11 | [christianhelle](https://github.com/christianhelle) | Christian Helle | Copenhagen, Denmark | 8,245 |
+| 12 | [SShadowS](https://github.com/SShadowS) | Torben Leth | Denmark | 8,242 |
+| 13 | [neoneye](https://github.com/neoneye) | Simon Strandgaard | Copenhagen - Denmark | 7,342 |
+| 14 | [lwjohnst86](https://github.com/lwjohnst86) | Luke W. Johnston | Copenhagen, Denmark | 7,062 |
+| 15 | [fbosch](https://github.com/fbosch) | Frederik Bosch | Copenhagen, Denmark | 7,002 |
+| 16 | [eea-jenkins](https://github.com/eea-jenkins) | EEA Jenkins | Kongens Nytorv 6, 1050, Copenhagen K, Denmark | 6,965 |
+| 17 | [kasperisager](https://github.com/kasperisager) | Kasper Isager Dalsgarð | Denmark | 6,503 |
+| 18 | [davsclaus](https://github.com/davsclaus) | Claus Ibsen | Denmark | 6,304 |
+| 19 | [saattrupdan](https://github.com/saattrupdan) | Dan Saattrup Smart | Copenhagen, Denmark | 6,137 |
+| 20 | [cbroberg](https://github.com/cbroberg) | Christian Broberg | Blokhus, Denmark | 6,029 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 19,304
 | 19 | [ThomasVitale](https://github.com/ThomasVitale) | Thomas Vitale | Denmark | 1,273 |
 | 20 | [mit-mit](https://github.com/mit-mit) | Michael Thomsen | Aarhus, Denmark | 1,198 |
 
-Generated: 2026-10-01T22:58:13.743Z
+Generated: 2026-10-07T06:58:02.328Z

@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,322
+Indexed users: 10,323
 
 | Leaderboard | Link |
 |---|---|
@@ -48,9 +48,9 @@ Indexed users: 10,322
 | 9 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | Hong Kong | 7,683 |
 | 10 | [lcacchiani](https://github.com/lcacchiani) | Luca Cacchiani | Hong Kong | 7,358 |
 | 11 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk | Hong Kong | 6,407 |
-| 12 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Hong Kong | 6,035 |
-| 13 | [williamchong](https://github.com/williamchong) | William Chong | Hong Kong | 5,950 |
-| 14 | [auto-wood](https://github.com/auto-wood) | Auto.Wood | Hong Kong | 5,375 |
+| 12 | [auto-wood](https://github.com/auto-wood) | Auto.Wood | Hong Kong | 6,337 |
+| 13 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Hong Kong | 6,035 |
+| 14 | [williamchong](https://github.com/williamchong) | William Chong | Hong Kong | 5,950 |
 | 15 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Hong Kong | 4,735 |
 | 16 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | Eva Rei | Hong Kong | 4,280 |
 | 17 | [DarkLight1337](https://github.com/DarkLight1337) | Cyrus Leung | Hong Kong | 4,241 |
@@ -83,4 +83,4 @@ Indexed users: 10,322
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [heilcheng](https://github.com/heilcheng) | hailey | Hong Kong | 964 |
 
-Generated: 2026-10-07T06:39:28.639Z
+Generated: 2026-10-07T07:09:48.430Z

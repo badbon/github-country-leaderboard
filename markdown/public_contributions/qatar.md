@@ -1,8 +1,8 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-07T06:33:17.576Z
+Generated: 2026-10-07T07:19:29.874Z
 
-Users: 1082
+Users: 1081
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 1082
 | 3 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 2003 |
 | 4 | [Tamoura](https://github.com/Tamoura) | Tamer | QDB |  | Qatar | 1725 |
 | 5 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 1519 |
-| 6 | [BZO95](https://github.com/BZO95) | DeFi Junkie |  |  | Qatar | 1496 |
+| 6 | [BZO95](https://github.com/BZO95) | DeFi Junkie |  |  | Qatar | 1512 |
 | 7 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 1082 |
 | 8 | [aarntn](https://github.com/aarntn) | Aaron Tan | University of Malaya |  | Doha, Qatar | 1034 |
 | 9 | [kashkoool](https://github.com/kashkoool) | louay kashkool |  |  | qatar | 999 |

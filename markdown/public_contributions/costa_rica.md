@@ -1,6 +1,6 @@
 # Public Contributions - Costa Rica
 
-Generated: 2026-10-01T13:38:07.110Z
+Generated: 2026-10-07T06:55:43.628Z
 
 Users: 5637
 
@@ -10,8 +10,8 @@ Users: 5637
 | 2 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  |  |  | costa rica | 8257 |
 | 3 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín |  | josuearayamarin | Costa Rica | 6328 |
 | 4 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES |  | official_taches | Costa Rica | 5358 |
-| 5 | [ronz204](https://github.com/ronz204) | ronz |  |  | San Carlos, Costa Rica | 3661 |
-| 6 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | SkyCortex |  | Costa Rica | 3242 |
+| 5 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | SkyCortex |  | Costa Rica | 3704 |
+| 6 | [ronz204](https://github.com/ronz204) | ronz |  |  | San Carlos, Costa Rica | 3661 |
 | 7 | [Matt-Aurora-Ventures](https://github.com/Matt-Aurora-Ventures) | Matt Haynes | Aurora Ventures | aurora_ventures | Costa Rica | 3184 |
 | 8 | [aramirez087](https://github.com/aramirez087) | Alexander Ramirez Kiriushenko |  | aramirez087 | Costa Rica | 2870 |
 | 9 | [morozov](https://github.com/morozov) | Sergei Morozov | @redis  |  | San José, CA | 2590 |

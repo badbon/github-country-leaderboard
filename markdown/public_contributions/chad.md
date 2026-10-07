@@ -1,6 +1,6 @@
 # Public Contributions - Chad
 
-Generated: 2026-09-30T22:33:27.686Z
+Generated: 2026-10-07T06:54:12.675Z
 
 Users: 201
 
@@ -10,19 +10,19 @@ Users: 201
 | 2 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | ACREMAC \| Informastre | baa_pel | TCHAD | 546 |
 | 3 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 525 |
 | 4 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 345 |
-| 5 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 269 |
+| 5 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 263 |
 | 6 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 241 |
-| 7 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
-| 8 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 155 |
-| 9 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 155 |
+| 7 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 233 |
+| 8 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
+| 9 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 155 |
 | 10 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 135 |
 | 11 | [Mbaigo](https://github.com/Mbaigo) | Evrard | THTC |  | N'Djamena | 126 |
 | 12 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO |  |  | N'djamena | 112 |
 | 13 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC |  |  | Tchad | 103 |
-| 14 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 89 |
+| 14 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 88 |
 | 15 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | INSTA |  | Tchad | 87 |
 | 16 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO |  |  | N'djamena | 57 |
 | 17 | [Muffinlavania](https://github.com/Muffinlavania) | Cristian S | treeofcontent.com |  | chad | 52 |
 | 18 | [Yassine235](https://github.com/Yassine235) | Yassine |  |  | Tchad | 52 |
 | 19 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tikego |  | Tchad | 45 |
-| 20 | [Makoundji](https://github.com/Makoundji) | Makoundji Francis Diakoundila  |  |  | N’DJAMENA,TCHAD | 42 |
+| 20 | [Ahlam-Brahim](https://github.com/Ahlam-Brahim) | Ahlam Brahim |  |  | N'Djaména-Tchad | 43 |

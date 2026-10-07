@@ -1,23 +1,23 @@
 # Public Contributions - Guernsey
 
-Generated: 2026-10-02T12:59:30.440Z
+Generated: 2026-10-07T07:02:40.285Z
 
-Users: 47
+Users: 46
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [mh0lt](https://github.com/mh0lt) | Mark Holt |  |  | Guernsey | 689 |
 | 2 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 444 |
-| 3 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 94 |
-| 4 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 81 |
-| 5 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | BugBird Co. | YuriGuernsey | Guernsey | 45 |
-| 6 | [adrianritchie](https://github.com/adrianritchie) |  |  |  | Guernsey | 40 |
+| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 81 |
+| 4 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | BugBird Co. | YuriGuernsey | Guernsey | 45 |
+| 5 | [adrianritchie](https://github.com/adrianritchie) |  |  |  | Guernsey | 41 |
+| 6 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 22 |
 | 7 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 22 |
 | 8 | [tomupson](https://github.com/tomupson) | Tom Upson |  |  | Guernsey | 17 |
 | 9 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 12 |
-| 10 | [TheCodingCarlson](https://github.com/TheCodingCarlson) | Chris Carlson | Rothschild & Co |  | Guernsey | 9 |
-| 11 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 8 |
-| 12 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub |  |  | Guernsey, CI | 8 |
+| 10 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 11 |
+| 11 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub |  |  | Guernsey, CI | 8 |
+| 12 | [TheCodingCarlson](https://github.com/TheCodingCarlson) | Chris Carlson | Rothschild & Co |  | Guernsey | 4 |
 | 13 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Man The Programmer, LLC |  | Guernsey | 3 |
 | 14 | [TINZ](https://github.com/TINZ) | Paul Tinsley |  |  | Guernsey | 3 |
 | 15 | [JamesK2754](https://github.com/JamesK2754) | James King |  |  | Guernsey | 2 |

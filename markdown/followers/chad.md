@@ -1,12 +1,12 @@
 # Followers - Chad
 
-Generated: 2026-09-30T22:33:27.686Z
+Generated: 2026-10-07T06:54:12.675Z
 
 Users: 201
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 192 |
+| 1 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 196 |
 | 2 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO |  |  | N'djamena | 73 |
 | 3 | [Kakaymi10](https://github.com/Kakaymi10) | Moussa |  |  | NDjamena, Chad | 61 |
 | 4 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Ashesi University | emmanueladoum | Chad | 24 |
@@ -17,9 +17,9 @@ Users: 201
 | 9 | [Yamingue](https://github.com/Yamingue) |  |  |  | Tchad | 11 |
 | 10 | [imontash](https://github.com/imontash) |  |  |  | Chad, N'Djamena | 10 |
 | 11 | [mahamat-ali](https://github.com/mahamat-ali) | Mahamat Ali Youssouf  | Anavatech | terapfils30 | Ndjamena, Chad | 10 |
-| 12 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 9 |
-| 13 | [harundjibrin](https://github.com/harundjibrin) | Haroun Djibrine | Wikimedia Tchad | harundjibrin | N'Djaména, Chad | 9 |
-| 14 | [zepekenhio](https://github.com/zepekenhio) | Moukhtar Ben Ali | INSEED |  | N'Djamena Tchad | 9 |
+| 12 | [harundjibrin](https://github.com/harundjibrin) | Haroun Djibrine | Wikimedia Tchad | harundjibrin | N'Djaména, Chad | 9 |
+| 13 | [zepekenhio](https://github.com/zepekenhio) | Moukhtar Ben Ali | INSEED |  | N'Djamena Tchad | 9 |
+| 14 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 8 |
 | 15 | [chupacker](https://github.com/chupacker) | chu pack | google |  | chad | 8 |
 | 16 | [fmarazi](https://github.com/fmarazi) | Florian Ndjerie Marazi | UNICEF  |  | Chad | 8 |
 | 17 | [Nassir235](https://github.com/Nassir235) | Nassir baharadine abdelkrim | Ansice | NassirBaharad10 | N'djamena | 8 |

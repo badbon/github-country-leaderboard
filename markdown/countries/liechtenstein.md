@@ -1,6 +1,6 @@
 # Liechtenstein
 
-Indexed users: 116
+Indexed users: 115
 
 | Leaderboard | Link |
 |---|---|
@@ -24,11 +24,11 @@ Indexed users: 116
 | 10 | [volkmarritter](https://github.com/volkmarritter) | Volkmar Ritter | Vaduz | 979 |
 | 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 629 |
 | 12 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 585 |
-| 13 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 463 |
-| 14 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 392 |
-| 15 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 357 |
-| 16 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 333 |
-| 17 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 282 |
+| 13 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 463 |
+| 14 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 463 |
+| 15 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 333 |
+| 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 307 |
+| 17 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 296 |
 | 18 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 275 |
 | 19 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 274 |
 | 20 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 264 |
@@ -44,19 +44,19 @@ Indexed users: 116
 | 5 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 629 |
 | 6 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 580 |
 | 7 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 528 |
-| 8 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 389 |
-| 9 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 282 |
+| 8 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 459 |
+| 9 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 296 |
 | 10 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 263 |
 | 11 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 246 |
 | 12 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 220 |
 | 13 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 179 |
 | 14 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 140 |
 | 15 | [TheMightyDuckOfDoom](https://github.com/TheMightyDuckOfDoom) | Tobias Senti | Schaanwald, Liechtenstein | 137 |
-| 16 | [danheron](https://github.com/danheron) | Dan Heron | Liechtenstein | 95 |
-| 17 | [ukhan717](https://github.com/ukhan717) | u.khan | Liechtenstein | 93 |
-| 18 | [xenok69](https://github.com/xenok69) | xenok1 | Liechtenstein | 69 |
-| 19 | [Ironwallet](https://github.com/Ironwallet) | IronWallet | Liechtenstein | 61 |
-| 20 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 52 |
+| 16 | [MahsaChoop](https://github.com/MahsaChoop) | Mahsa Choopannezhad Najafabadi | Liechtenstein | 116 |
+| 17 | [danheron](https://github.com/danheron) | Dan Heron | Liechtenstein | 95 |
+| 18 | [ukhan717](https://github.com/ukhan717) | u.khan | Liechtenstein | 93 |
+| 19 | [xenok69](https://github.com/xenok69) | xenok1 | Liechtenstein | 65 |
+| 20 | [secures92](https://github.com/secures92) | Samuel Kranz | Liechtenstein | 47 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 116
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 13 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:09:32.260Z

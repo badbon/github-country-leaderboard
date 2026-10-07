@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-04T06:13:08.407Z
+Generated: 2026-10-07T07:05:43.414Z
 
 Users: 139
 
@@ -22,7 +22,7 @@ Users: 139
 | 14 | [devdanio](https://github.com/devdanio) | Dan | DevDan | DevDanIO | Jersey | 139 |
 | 15 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 131 |
 | 16 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 128 |
-| 17 | [millerthegorilla](https://github.com/millerthegorilla) | James Stewart Miller |  |  | Jersey, Channel Islands | 111 |
-| 18 | [garyfeltham](https://github.com/garyfeltham) | Gary Feltham | CityPay Limited |  | Jersey | 96 |
-| 19 | [Eve-Carruthers](https://github.com/Eve-Carruthers) | Eve Carruthers |  | EveCarruthers_ | Jersey, Channel Islands | 90 |
-| 20 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 86 |
+| 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 115 |
+| 18 | [millerthegorilla](https://github.com/millerthegorilla) | James Stewart Miller |  |  | Jersey, Channel Islands | 111 |
+| 19 | [garyfeltham](https://github.com/garyfeltham) | Gary Feltham | CityPay Limited |  | Jersey | 96 |
+| 20 | [Eve-Carruthers](https://github.com/Eve-Carruthers) | Eve Carruthers |  | EveCarruthers_ | Jersey, Channel Islands | 90 |

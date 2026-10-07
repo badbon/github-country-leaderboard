@@ -1,6 +1,6 @@
 # Followers - Falkland Islands
 
-Generated: 2026-10-02T05:54:21.826Z
+Generated: 2026-10-07T07:00:45.770Z
 
 Users: 13
 

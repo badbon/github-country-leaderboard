@@ -1,6 +1,6 @@
 # Public Contributions - French Polynesia
 
-Generated: 2026-10-02T12:55:33.115Z
+Generated: 2026-10-07T07:01:19.417Z
 
 Users: 60
 
@@ -13,16 +13,16 @@ Users: 60
 | 5 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 362 |
 | 6 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 294 |
 | 7 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 202 |
-| 8 | [syllebra](https://github.com/syllebra) | BilboX |  |  | French Polynesia | 128 |
+| 8 | [syllebra](https://github.com/syllebra) | BilboX |  |  | French Polynesia | 96 |
 | 9 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 82 |
-| 10 | [paraita](https://github.com/paraita) | Paraita Wohler | @e-reo | paraita | Tahiti, French Polynesia | 39 |
-| 11 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | ispf.pf |  | French Polynesia | 26 |
+| 10 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | ispf.pf |  | French Polynesia | 49 |
+| 11 | [paraita](https://github.com/paraita) | Paraita Wohler | @e-reo | paraita | Tahiti, French Polynesia | 39 |
 | 12 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI |  |  | Polynésie Française | 20 |
 | 13 | [geoffguillain](https://github.com/geoffguillain) | Geoff | Automattic |  | French Polynesia | 15 |
 | 14 | [AJamelot](https://github.com/AJamelot) | ajamelot | Laboratoire de Géophysique de Tahiti |  | Polynésie Française | 11 |
 | 15 | [DLTBryan](https://github.com/DLTBryan) |  |  |  | French Polynesia | 11 |
-| 16 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Huri Translations |  | Mo'orea, French Polynesia | 9 |
-| 17 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou |  |  | French Polynesia | 9 |
-| 18 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard |  |  | Tahiti, French Polynesia | 7 |
-| 19 | [rputoa](https://github.com/rputoa) | Rowan PUTOA |  |  | Papeete, French Polynesia | 6 |
-| 20 | [Heinux](https://github.com/Heinux) | Heinux |  |  | French Polynesia | 5 |
+| 16 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou |  |  | French Polynesia | 9 |
+| 17 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard |  |  | Tahiti, French Polynesia | 7 |
+| 18 | [rputoa](https://github.com/rputoa) | Rowan PUTOA |  |  | Papeete, French Polynesia | 6 |
+| 19 | [Heinux](https://github.com/Heinux) | Heinux |  |  | French Polynesia | 5 |
+| 20 | [sysnux](https://github.com/sysnux) | Jean-Denis Girard | SysNux |  | Tahiti, French Polynesia, Polynésie française | 5 |

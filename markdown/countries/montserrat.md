@@ -26,7 +26,7 @@ Indexed users: 294
 | 12 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,624 |
 | 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,484 |
 | 14 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,194 |
-| 15 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,134 |
+| 15 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,105 |
 | 16 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 1,035 |
 | 17 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 988 |
 | 18 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 967 |
@@ -49,8 +49,8 @@ Indexed users: 294
 | 10 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 355 |
 | 11 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto | Plymouth | 344 |
 | 12 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Plymouth, MA | 336 |
-| 13 | [gingeapple182](https://github.com/gingeapple182) | Oliver | Plymouth | 302 |
-| 14 | [vivekbiju](https://github.com/vivekbiju) | Vivek Biju | Plymouth | 228 |
+| 13 | [vivekbiju](https://github.com/vivekbiju) | Vivek Biju | Plymouth | 321 |
+| 14 | [gingeapple182](https://github.com/gingeapple182) | Oliver | Plymouth | 301 |
 | 15 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 227 |
 | 16 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann | Plymouth, MN USA | 217 |
 | 17 | [Loganv308](https://github.com/Loganv308) | Logan Velier | Plymouth, WI | 210 |
@@ -83,4 +83,4 @@ Indexed users: 294
 | 19 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 19 |
 | 20 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | Plymouth uk | 19 |
 
-Generated: 2026-10-07T06:28:06.387Z
+Generated: 2026-10-07T07:11:40.994Z

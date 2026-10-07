@@ -41,8 +41,8 @@ Indexed users: 5,637
 | 2 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 8,257 |
 | 3 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 6,328 |
 | 4 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 5,358 |
-| 5 | [ronz204](https://github.com/ronz204) | ronz | San Carlos, Costa Rica | 3,661 |
-| 6 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | Costa Rica | 3,242 |
+| 5 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | Costa Rica | 3,704 |
+| 6 | [ronz204](https://github.com/ronz204) | ronz | San Carlos, Costa Rica | 3,661 |
 | 7 | [Matt-Aurora-Ventures](https://github.com/Matt-Aurora-Ventures) | Matt Haynes | Costa Rica | 3,184 |
 | 8 | [aramirez087](https://github.com/aramirez087) | Alexander Ramirez Kiriushenko | Costa Rica | 2,870 |
 | 9 | [morozov](https://github.com/morozov) | Sergei Morozov | San José, CA | 2,590 |
@@ -83,4 +83,4 @@ Indexed users: 5,637
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-10-01T13:38:07.110Z
+Generated: 2026-10-07T06:55:43.628Z

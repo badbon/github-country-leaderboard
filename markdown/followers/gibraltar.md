@@ -1,8 +1,8 @@
 # Followers - Gibraltar
 
-Generated: 2026-10-02T12:57:31.345Z
+Generated: 2026-10-07T07:01:53.567Z
 
-Users: 95
+Users: 94
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Kuwait
 
-Indexed users: 802
+Indexed users: 800
 
 | Leaderboard | Link |
 |---|---|
@@ -54,8 +54,8 @@ Indexed users: 802
 | 15 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 527 |
 | 16 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 524 |
 | 17 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 521 |
-| 18 | [DataWithRUBEL](https://github.com/DataWithRUBEL) | MD RUBEL  | Kuwait CIty | 506 |
-| 19 | [jakariahossain12](https://github.com/jakariahossain12) | Md.Jakaria | kuwait | 447 |
+| 18 | [jakariahossain12](https://github.com/jakariahossain12) | Md.Jakaria | kuwait | 447 |
+| 19 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer | Kuwait | 431 |
 | 20 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | Kuwait | 422 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 802
 | 19 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 75 |
 | 20 | [Eazy2Code](https://github.com/Eazy2Code) | Eazy2Code | Kuwait | 74 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:06:49.307Z

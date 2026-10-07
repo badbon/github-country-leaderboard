@@ -1,6 +1,6 @@
 # Public Contributions - Lithuania
 
-Generated: 2026-10-06T18:40:11.737Z
+Generated: 2026-10-07T07:09:39.516Z
 
 Users: 5413
 
@@ -16,13 +16,13 @@ Users: 5413
 | 8 | [mjudeikis](https://github.com/mjudeikis) | Mangirdas Judeikis | @synpse-hq @kcp-dev @kube-bind @faroshq | mangirdas | Lithuania | 2982 |
 | 9 | [blinkinglight](https://github.com/blinkinglight) | M | @ituoga  |  | Lithuania | 2663 |
 | 10 | [qweered](https://github.com/qweered) | Aliaksandr |  |  | Vilnius, Lithuania | 2656 |
-| 11 | [neetfrog](https://github.com/neetfrog) | neetfrog |  |  | Lithuania | 2457 |
-| 12 | [simison](https://github.com/simison) | Mikael Korpela | @Automattic |  | Lithuania | 2457 |
-| 13 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Paysera | YOzaz | Vilnius, Lithuania | 2383 |
-| 14 | [staskus](https://github.com/staskus) | Povilas Staskus |  | PovilasStaskus | Lithuania, Vilnius | 2336 |
-| 15 | [MekDrop](https://github.com/MekDrop) | Raimondas Rimkevičius |  | MekDrop | Vilnius, Lithuania | 2332 |
-| 16 | [bdiev](https://github.com/bdiev) | Bohdan |  |  | Kaunas, Lithuania | 2246 |
-| 17 | [savonarola](https://github.com/savonarola) | Ilia Averianov | @emqx  | motonarola | Vilnius | 2228 |
-| 18 | [vladlevinas](https://github.com/vladlevinas) | Vlad Levinas | UAB DBITS LT | vladlevinas | Lithuania | 2164 |
-| 19 | [salisk](https://github.com/salisk) | Sarunas |  |  | Lithuania | 2129 |
+| 11 | [simison](https://github.com/simison) | Mikael Korpela | @Automattic |  | Lithuania | 2457 |
+| 12 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Paysera | YOzaz | Vilnius, Lithuania | 2383 |
+| 13 | [staskus](https://github.com/staskus) | Povilas Staskus |  | PovilasStaskus | Lithuania, Vilnius | 2336 |
+| 14 | [MekDrop](https://github.com/MekDrop) | Raimondas Rimkevičius |  | MekDrop | Vilnius, Lithuania | 2332 |
+| 15 | [bdiev](https://github.com/bdiev) | Bohdan |  |  | Kaunas, Lithuania | 2246 |
+| 16 | [savonarola](https://github.com/savonarola) | Ilia Averianov | @emqx  | motonarola | Vilnius | 2228 |
+| 17 | [vladlevinas](https://github.com/vladlevinas) | Vlad Levinas | UAB DBITS LT | vladlevinas | Lithuania | 2164 |
+| 18 | [salisk](https://github.com/salisk) | Sarunas |  |  | Lithuania | 2129 |
+| 19 | [neetfrog](https://github.com/neetfrog) | neetfrog |  |  | Lithuania | 2104 |
 | 20 | [liesislukas](https://github.com/liesislukas) | Lukas Liesis | LittleSaas |  | Lithuania | 2102 |

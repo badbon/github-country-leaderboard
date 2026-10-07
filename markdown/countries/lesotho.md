@@ -23,7 +23,7 @@ Indexed users: 162
 | 9 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 755 |
 | 10 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Maseru Qoaling | 734 |
 | 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Maseru, Lesotho | 554 |
-| 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 523 |
+| 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 509 |
 | 13 | [md5dalton](https://github.com/md5dalton) | Ntate Mpiti  | Lesotho | 399 |
 | 14 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 388 |
 | 15 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 367 |
@@ -40,12 +40,12 @@ Indexed users: 162
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 775 |
 | 2 | [md5dalton](https://github.com/md5dalton) | Ntate Mpiti  | Lesotho | 399 |
 | 3 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 388 |
-| 4 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 293 |
+| 4 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 309 |
 | 5 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 202 |
 | 6 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 190 |
 | 7 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 180 |
-| 8 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 156 |
-| 9 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 154 |
+| 8 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 168 |
+| 9 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 156 |
 | 10 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 148 |
 | 11 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana | Upper Thamae Maseru | 133 |
 | 12 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 131 |
@@ -55,8 +55,8 @@ Indexed users: 162
 | 16 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | Lesotho | 97 |
 | 17 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello | Maseru, Lesotho | 87 |
 | 18 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Lesotho, maseru | 85 |
-| 19 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg | Lesotho, Maseru | 70 |
-| 20 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | Lesotho | 69 |
+| 19 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | Lesotho | 73 |
+| 20 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg | Lesotho, Maseru | 70 |
 
 ## Followers
 
@@ -73,7 +73,7 @@ Indexed users: 162
 | 9 | [AtomLaw](https://github.com/AtomLaw) | Hlompho | Lesotho | 29 |
 | 10 | [Motseki](https://github.com/Motseki) | Lebohang Bernard | Lesotho | 29 |
 | 11 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 29 |
-| 12 | [Ntlele](https://github.com/Ntlele) | David | Lesotho | 29 |
+| 12 | [Ntlele](https://github.com/Ntlele) | David | Lesotho | 26 |
 | 13 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 20 |
 | 14 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello | Maseru, Lesotho | 17 |
 | 15 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 16 |
@@ -83,4 +83,4 @@ Indexed users: 162
 | 19 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Maseru Qoaling | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-06T00:25:17.509Z
+Generated: 2026-10-07T07:08:53.929Z

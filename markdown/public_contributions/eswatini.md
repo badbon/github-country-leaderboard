@@ -1,6 +1,6 @@
 # Public Contributions - Eswatini
 
-Generated: 2026-10-02T05:54:16.709Z
+Generated: 2026-10-07T07:00:40.354Z
 
 Users: 109
 
@@ -12,17 +12,17 @@ Users: 109
 | 4 | [siko13-bot](https://github.com/siko13-bot) | 202101251 |  |  | Mbabane,Eswatini | 94 |
 | 5 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson |  |  | Malkerns, Swaziland | 79 |
 | 6 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  |  |  Eswatini | 73 |
-| 7 | [phume03](https://github.com/phume03) | Phumelela Mdluli | New Breed Designs (Unregistered) |  | Eswatini | 70 |
-| 8 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 69 |
-| 9 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile |  |  | Eswatini | 67 |
-| 10 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini |  |  | Eswatini | 54 |
-| 11 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 50 |
-| 12 | [sicelo](https://github.com/sicelo) | Sicelo |  |  | Mbabane, ESWATINI | 49 |
-| 13 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Bits & PCs | Coordinator | Manzini, Eswatini | 47 |
-| 14 | [benele-m](https://github.com/benele-m) | Benele Mamba |  |  | Eswatini, | 44 |
-| 15 | [SAMGREENHEAD](https://github.com/SAMGREENHEAD) | Samkelo Msibi  |  |  | Eswatini | 43 |
-| 16 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Intuition | wandilemawelel | Manzini, Eswatini | 43 |
-| 17 | [CodehubNerd](https://github.com/CodehubNerd) | Culture | Nu Africa | Culture_Dlamini | Swaziland | 42 |
-| 18 | [samkelogwebu1569-hub](https://github.com/samkelogwebu1569-hub) | Gemini Mbhele |  |  | Eswatini, Mbabane | 42 |
-| 19 | [Sibakhe-Nyembe](https://github.com/Sibakhe-Nyembe) | SIBAKHE N. |  |  | Eswatini, Mbabane, Sidvwashini | 41 |
-| 20 | [Fanelemenzi](https://github.com/Fanelemenzi) | Fanelesiyibonge Mabuza |  | menzi_fanele | Manzini, Swaziland | 39 |
+| 7 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 69 |
+| 8 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile |  |  | Eswatini | 67 |
+| 9 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini |  |  | Eswatini | 54 |
+| 10 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 50 |
+| 11 | [sicelo](https://github.com/sicelo) | Sicelo |  |  | Mbabane, ESWATINI | 49 |
+| 12 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Bits & PCs | Coordinator | Manzini, Eswatini | 47 |
+| 13 | [benele-m](https://github.com/benele-m) | Benele Mamba |  |  | Eswatini, | 44 |
+| 14 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Intuition | wandilemawelel | Manzini, Eswatini | 43 |
+| 15 | [samkelogwebu1569-hub](https://github.com/samkelogwebu1569-hub) | Gemini Mbhele |  |  | Eswatini, Mbabane | 42 |
+| 16 | [CodehubNerd](https://github.com/CodehubNerd) | Culture | Nu Africa | Culture_Dlamini | Swaziland | 41 |
+| 17 | [Sibakhe-Nyembe](https://github.com/Sibakhe-Nyembe) | SIBAKHE N. |  |  | Eswatini, Mbabane, Sidvwashini | 41 |
+| 18 | [Fanelemenzi](https://github.com/Fanelemenzi) | Fanelesiyibonge Mabuza |  | menzi_fanele | Manzini, Swaziland | 39 |
+| 19 | [djacmarg](https://github.com/djacmarg) | Durotoye Oyerinde |  | djacmarg | Manzini, Swaziland | 32 |
+| 20 | [Sdingo](https://github.com/Sdingo) | Phiwokuhle Sdingo Kunene |  |  | Eswatini | 28 |

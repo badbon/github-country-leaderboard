@@ -1,8 +1,8 @@
 # Followers - Liberia
 
-Generated: 2026-10-06T00:25:27.443Z
+Generated: 2026-10-07T07:08:56.706Z
 
-Users: 211
+Users: 210
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -16,7 +16,7 @@ Users: 211
 | 8 | [benjaminangafua](https://github.com/benjaminangafua) | Benjamin A. Ngafua |  |  | Liberia | 50 |
 | 9 | [Ravenstine](https://github.com/Ravenstine) | Ten Bitcomb |  |  | Monrovia, CA | 39 |
 | 10 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad |  | xarrijorge | Monrovia, Liberia | 34 |
-| 11 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | ALX | arthur_solomon | Monrovia, Liberia | 32 |
+| 11 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | ALX | arthur_solomon | Monrovia, Liberia | 33 |
 | 12 | [weahotis](https://github.com/weahotis) | Otis Weah |  | WeahOtisweah22 | Monrovia Liberia | 31 |
 | 13 | [maxwelldorliea](https://github.com/maxwelldorliea) | Maxwell D.  Dorliea | @ngoane  | maxwelldorliea | Monrovia, Montserrado County, Liberia | 29 |
 | 14 | [tksiakor](https://github.com/tksiakor) | Kpetermeni Siakor | Kwagei Group |  | Monrovia, Liberia | 27 |

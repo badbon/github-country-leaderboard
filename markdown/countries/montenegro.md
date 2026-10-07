@@ -1,6 +1,6 @@
 # Montenegro
 
-Indexed users: 909
+Indexed users: 908
 
 | Leaderboard | Link |
 |---|---|
@@ -66,16 +66,16 @@ Indexed users: 909
 | 2 | [dchest](https://github.com/dchest) | Dmitry Chestnykh | Montenegro | 556 |
 | 3 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 476 |
 | 4 | [Const-me](https://github.com/Const-me) | Konstantin | Tivat, Montenegro | 359 |
-| 5 | [oranmehmetsirin](https://github.com/oranmehmetsirin) | Mehmet Şirin ORAN | Montenegro | 349 |
+| 5 | [oranmehmetsirin](https://github.com/oranmehmetsirin) | Mehmet Şirin ORAN | Montenegro | 344 |
 | 6 | [dockimbel](https://github.com/dockimbel) | Nenad Rakocevic | Montenegro | 334 |
-| 7 | [LukaDut7](https://github.com/LukaDut7) | Luka Dutina | Podgorica, Montenegro | 232 |
+| 7 | [LukaDut7](https://github.com/LukaDut7) | Luka Dutina | Podgorica, Montenegro | 231 |
 | 8 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 176 |
 | 9 | [cblp](https://github.com/cblp) | Yuriy Syrovetskiy | Montenegro | 142 |
 | 10 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 140 |
 | 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk | Montenegro, Podgorica | 138 |
 | 12 | [arikon](https://github.com/arikon) | Sergey Belov | Tivat, Montenegro | 132 |
-| 13 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay | Montenegro | 130 |
-| 14 | [mifth](https://github.com/mifth) | mifth | Montenegro | 129 |
+| 13 | [mifth](https://github.com/mifth) | mifth | Montenegro | 129 |
+| 14 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay | Montenegro | 128 |
 | 15 | [gh110919](https://github.com/gh110919) | ilia sergeev | Podgorica | 124 |
 | 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic | Montenegro, Podgorica | 105 |
 | 17 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić | Montenegro | 100 |
@@ -83,4 +83,4 @@ Indexed users: 909
 | 19 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perišić | Podgorica, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 86 |
 
-Generated: 2026-10-07T06:28:03.162Z
+Generated: 2026-10-07T07:11:35.404Z

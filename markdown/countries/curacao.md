@@ -16,19 +16,19 @@ Indexed users: 53
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,761 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,424 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,249 |
-| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,125 |
-| 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,086 |
+| 5 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,217 |
+| 6 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,125 |
 | 7 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 936 |
-| 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 813 |
+| 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 912 |
 | 9 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 423 |
 | 10 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 380 |
 | 11 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
 | 12 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 132 |
-| 13 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 106 |
+| 13 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 92 |
 | 14 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 55 |
 | 15 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Willemstad, Curacao | 45 |
-| 16 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 41 |
-| 17 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 40 |
+| 16 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 42 |
+| 17 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 41 |
 | 18 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
 | 19 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 33 |
 | 20 | [AngeloAAB](https://github.com/AngeloAAB) | Angelo Bartholomeus | Willemstad, Curaçao | 22 |
@@ -45,18 +45,18 @@ Indexed users: 53
 | 6 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 132 |
 | 7 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 56 |
 | 8 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Willemstad, Curacao | 45 |
-| 9 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 41 |
-| 10 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 40 |
-| 11 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 40 |
-| 12 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
-| 13 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 33 |
+| 9 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 42 |
+| 10 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 41 |
+| 11 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
+| 12 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 33 |
+| 13 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 31 |
 | 14 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 23 |
 | 15 | [AngeloAAB](https://github.com/AngeloAAB) | Angelo Bartholomeus | Willemstad, Curaçao | 22 |
 | 16 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 17 |
 | 17 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Willemstad, Curaçao, Dutch Caribbean | 13 |
 | 18 | [rascoop](https://github.com/rascoop) | Richard Scoop | Curaçao, Dutch Caribbean | 8 |
-| 19 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 5 |
-| 20 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus | Curaçao | 4 |
+| 19 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 6 |
+| 20 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 5 |
 
 ## Followers
 
@@ -71,7 +71,7 @@ Indexed users: 53
 | 7 | [rascoop](https://github.com/rascoop) | Richard Scoop | Curaçao, Dutch Caribbean | 33 |
 | 8 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus | Curaçao | 25 |
 | 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 22 |
-| 10 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 18 |
+| 10 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 19 |
 | 11 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Willemstad, Curaçao, Dutch Caribbean | 16 |
 | 12 | [ekid](https://github.com/ekid) | Ekid | Willemstad | 13 |
 | 13 | [r3c4ll](https://github.com/r3c4ll) | Ali Moreno | Willemstad, Curaçao. | 13 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [michaelfinies](https://github.com/michaelfinies) | Michelangelo Finies | Curaçao | 6 |
 | 20 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 
-Generated: 2026-10-01T14:38:42.546Z
+Generated: 2026-10-07T06:56:56.003Z

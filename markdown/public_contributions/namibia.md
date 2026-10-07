@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-07T06:28:37.349Z
+Generated: 2026-10-07T07:12:41.587Z
 
 Users: 475
 
@@ -9,9 +9,9 @@ Users: 475
 | 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | martinmukoya.com |  | swakopmund, Namibia | 1857 |
 | 2 | [evertvorster](https://github.com/evertvorster) | Evert Vorster |  |  | Walvis Bay, Namibia | 1051 |
 | 3 | [Leon2332](https://github.com/Leon2332) | Leon | Venture Media |  | Namibia | 822 |
-| 4 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 628 |
-| 5 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 575 |
-| 6 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu |  |  | Windhoek, Namibia | 478 |
+| 4 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu |  |  | Windhoek, Namibia | 651 |
+| 5 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 628 |
+| 6 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 575 |
 | 7 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden | 127.0.0.1 |  | Namibia | 416 |
 | 8 | [lamlg00](https://github.com/lamlg00) | Lam II | @cyberpolco | lamlg00 | Windhoek | 407 |
 | 9 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | IU International University of Applied Sciences | TusneldeE | Namibia | 384 |

@@ -1,6 +1,6 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-04T06:13:04.616Z
+Generated: 2026-10-07T07:05:16.348Z
 
 Users: 1288
 
@@ -13,7 +13,7 @@ Users: 1288
 | 5 | [shamar-morrison](https://github.com/shamar-morrison) | Shamar Morrison | @EduFocal  | TheAvgCoder | Jamaica | 1972 |
 | 6 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole |  |  | Jamaica | 1594 |
 | 7 | [yringler](https://github.com/yringler) | Yehuda Ringler | Chabad.Org |  | Kingston, PA | 1206 |
-| 8 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith |  |  | Jamaica | 1188 |
+| 8 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith |  |  | Jamaica | 1172 |
 | 9 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 1077 |
 | 10 | [BayBreezy](https://github.com/BayBreezy) | Behon Baker |  | iAm_BayBreezy | Jamaica | 1069 |
 | 11 | [BernardUK](https://github.com/BernardUK) | Bernard Boase |  |  | Kingston upon Thames | 976 |
@@ -22,7 +22,7 @@ Users: 1288
 | 14 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser |  |  | Kingston, Ontario | 818 |
 | 15 | [ahamadey27](https://github.com/ahamadey27) | Alex Hamadey | Self-Employed |  | Brooklyn/Kingston, NY | 799 |
 | 16 | [shkeating](https://github.com/shkeating) | Shauna Keating | @Travelers |  | Kingston, NY | 792 |
-| 17 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 748 |
-| 18 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket |  | AirpocketRobot | kingston jamaca | 745 |
-| 19 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi |  |  | Kingston Upon Thames | 721 |
+| 17 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi |  |  | Kingston Upon Thames | 751 |
+| 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 748 |
+| 19 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket |  | AirpocketRobot | kingston jamaca | 745 |
 | 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious |  | lord_dubious | Kingston, ON | 617 |

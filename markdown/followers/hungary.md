@@ -1,8 +1,8 @@
 # Followers - Hungary
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:03:44.838Z
 
-Users: 11203
+Users: 11202
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

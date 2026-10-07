@@ -1,18 +1,18 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-10-07T06:28:45.271Z
+Generated: 2026-10-07T07:12:49.395Z
 
 Users: 111
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | Stratégie Zen IT |  | New Caledonia | 8902 |
-| 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | SPC |  | Noumea, New Caledonia | 4658 |
+| 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | SPC |  | Noumea, New Caledonia | 6520 |
 | 3 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 4468 |
 | 4 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 2086 |
-| 5 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | @gouv-nc  |  | Nouméa, New Caledonia | 1415 |
-| 6 | [Dougniel](https://github.com/Dougniel) | Daniel Santos |  |  | New Caledonia | 1401 |
-| 7 | [6pheR](https://github.com/6pheR) | CipheR_ | Mineria |  | New Caledonia | 1386 |
+| 5 | [Dougniel](https://github.com/Dougniel) | Daniel Santos |  |  | New Caledonia | 1401 |
+| 6 | [6pheR](https://github.com/6pheR) | CipheR_ | Mineria |  | New Caledonia | 1386 |
+| 7 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | @gouv-nc  |  | Nouméa, New Caledonia | 1346 |
 | 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 1342 |
 | 9 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1300 |
 | 10 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 1109 |

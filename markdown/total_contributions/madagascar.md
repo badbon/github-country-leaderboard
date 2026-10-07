@@ -1,8 +1,8 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-07T06:01:38.566Z
+Generated: 2026-10-07T07:10:01.574Z
 
-Users: 1921
+Users: 1920
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,9 +19,9 @@ Users: 1921
 | 11 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 5312 |
 | 12 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Mazaoro SARLU |  | Madagascar | 5308 |
 | 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 5213 |
-| 14 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Kiama |  | Madagascar | 4972 |
-| 15 | [JohanaMisaela](https://github.com/JohanaMisaela) | Joanna Misaela |  |  | Antananarivo, Madagascar | 4867 |
-| 16 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 4661 |
+| 14 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 5058 |
+| 15 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Kiama |  | Madagascar | 4972 |
+| 16 | [JohanaMisaela](https://github.com/JohanaMisaela) | Joanna Misaela |  |  | Antananarivo, Madagascar | 4867 |
 | 17 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 4568 |
 | 18 | [HarenaFiantso](https://github.com/HarenaFiantso) | Fiantso Harena | Haute École d'Informatique - HEI | HarenaFiantso | Antananarivo | 4475 |
 | 19 | [rakotomandimby](https://github.com/rakotomandimby) | Mihamina Rakotomandimby | RKTMB | rktmb | Antananarivo, Madagascar | 4365 |

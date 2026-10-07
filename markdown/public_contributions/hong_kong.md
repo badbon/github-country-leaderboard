@@ -1,8 +1,8 @@
 # Public Contributions - Hong Kong
 
-Generated: 2026-10-07T06:39:28.639Z
+Generated: 2026-10-07T07:09:48.430Z
 
-Users: 10322
+Users: 10323
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,9 +17,9 @@ Users: 10322
 | 9 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | wonglaitung@gmail.com |  | Hong Kong | 7683 |
 | 10 | [lcacchiani](https://github.com/lcacchiani) | Luca Cacchiani |  |  | Hong Kong | 7358 |
 | 11 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk |  |  | Hong Kong | 6407 |
-| 12 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Freelance |  | Hong Kong | 6035 |
-| 13 | [williamchong](https://github.com/williamchong) | William Chong | @likecoin  |  | Hong Kong | 5950 |
-| 14 | [auto-wood](https://github.com/auto-wood) | Auto.Wood |  |  | Hong Kong | 5375 |
+| 12 | [auto-wood](https://github.com/auto-wood) | Auto.Wood |  |  | Hong Kong | 6337 |
+| 13 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Freelance |  | Hong Kong | 6035 |
+| 14 | [williamchong](https://github.com/williamchong) | William Chong | @likecoin  |  | Hong Kong | 5950 |
 | 15 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Droste |  | Hong Kong | 4735 |
 | 16 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | Eva Rei |  |  | Hong Kong | 4280 |
 | 17 | [DarkLight1337](https://github.com/DarkLight1337) | Cyrus Leung |  |  | Hong Kong | 4241 |

@@ -1,6 +1,6 @@
 # Luxembourg
 
-Indexed users: 2,217
+Indexed users: 2,215
 
 | Leaderboard | Link |
 |---|---|
@@ -46,14 +46,14 @@ Indexed users: 2,217
 | 7 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,639 |
 | 8 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 3,216 |
 | 9 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 1,936 |
-| 10 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 1,852 |
-| 11 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
-| 12 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,737 |
-| 13 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 1,666 |
-| 14 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Luxembourg | 1,659 |
-| 15 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,653 |
-| 16 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,636 |
-| 17 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,624 |
+| 10 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,901 |
+| 11 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 1,852 |
+| 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
+| 13 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,737 |
+| 14 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 1,666 |
+| 15 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Luxembourg | 1,659 |
+| 16 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,653 |
+| 17 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,636 |
 | 18 | [geri4](https://github.com/geri4) | Andrey Gerasimov | Luxembourg | 1,607 |
 | 19 | [MarkZither](https://github.com/MarkZither) | Mark Burton | Luxembourg | 1,592 |
 | 20 | [mvo5](https://github.com/mvo5) | Michael Vogt | Trier/Luxembourg area | 1,460 |
@@ -83,4 +83,4 @@ Indexed users: 2,217
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:09:42.910Z

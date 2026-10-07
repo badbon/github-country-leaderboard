@@ -1,18 +1,18 @@
 # Followers - Isle of Man
 
-Generated: 2026-10-03T21:35:59.652Z
+Generated: 2026-10-07T07:04:24.592Z
 
-Users: 157
+Users: 156
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [braydie](https://github.com/braydie) | Braydie Grove |  |  | Isle of Man | 368 |
-| 2 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 233 |
+| 2 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 231 |
 | 3 | [cydolo](https://github.com/cydolo) | Dolo |  |  | Isle of Man | 148 |
 | 4 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Infinium | thomas_iom | Isle of Man | 147 |
 | 5 | [CubLinux](https://github.com/CubLinux) | Cub Linux | Cub Linux |  | Isle of Man | 87 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 78 |
-| 7 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 74 |
+| 7 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 76 |
 | 8 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | IFGL |  | Douglas, Isle of Man | 38 |
 | 9 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 36 |
 | 10 | [lproven](https://github.com/lproven) | Liam Proven | The Register | lproven | Douglas, Isle of Man | 34 |

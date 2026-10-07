@@ -1,6 +1,6 @@
 # Qatar
 
-Indexed users: 1,082
+Indexed users: 1,081
 
 | Leaderboard | Link |
 |---|---|
@@ -42,7 +42,7 @@ Indexed users: 1,082
 | 3 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 2,003 |
 | 4 | [Tamoura](https://github.com/Tamoura) | Tamer | Qatar | 1,725 |
 | 5 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 1,519 |
-| 6 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,496 |
+| 6 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,512 |
 | 7 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,082 |
 | 8 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,034 |
 | 9 | [kashkoool](https://github.com/kashkoool) | louay kashkool | qatar | 999 |
@@ -83,4 +83,4 @@ Indexed users: 1,082
 | 19 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 92 |
 | 20 | [Behram-Khattak](https://github.com/Behram-Khattak) | Behram Khattak | Doha, Qatar | 91 |
 
-Generated: 2026-10-07T06:33:17.576Z
+Generated: 2026-10-07T07:19:29.874Z

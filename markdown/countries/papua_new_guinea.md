@@ -21,17 +21,17 @@ Indexed users: 296
 | 7 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 1,815 |
 | 8 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 1,790 |
 | 9 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande | Port Moresby, Papua New Guinea | 1,138 |
-| 10 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 874 |
-| 11 | [jebudo](https://github.com/jebudo) | Jesse Biribudo | Port Moresby, Papua New Guinea | 835 |
-| 12 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Port Moresby, 5 Mile | 788 |
-| 13 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 721 |
+| 10 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 1,079 |
+| 11 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 874 |
+| 12 | [jebudo](https://github.com/jebudo) | Jesse Biribudo | Port Moresby, Papua New Guinea | 835 |
+| 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Port Moresby, 5 Mile | 821 |
 | 14 | [Amesi](https://github.com/Amesi) | Victor Temokang | Papua New Guinea | 483 |
 | 15 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 447 |
 | 16 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan | Mt Hagen, Western Highlands Province, Papua New Guinea | 294 |
 | 17 | [Valdaz007](https://github.com/Valdaz007) | Victor Volsavai | Port Moresby, Papua New Guinea | 282 |
 | 18 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 276 |
 | 19 | [gbajesns](https://github.com/gbajesns) | Gabriel Baje | Papua New Guinea | 269 |
-| 20 | [zyakap](https://github.com/zyakap) | Zechariah YAKAP | Port Moresby, Papua New Guinea | 245 |
+| 20 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 245 |
 
 ## Public Contributions
 
@@ -43,20 +43,20 @@ Indexed users: 296
 | 4 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 718 |
 | 5 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 549 |
 | 6 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 447 |
-| 7 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 276 |
-| 8 | [zyakap](https://github.com/zyakap) | Zechariah YAKAP | Port Moresby, Papua New Guinea | 245 |
-| 9 | [digi4arch424](https://github.com/digi4arch424) | DigiArch 424 | Port Moresby | 242 |
-| 10 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 235 |
-| 11 | [DEVE123-dev](https://github.com/DEVE123-dev) | Benjamin deve Bino | Port Moresby, NCDC | 232 |
-| 12 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 204 |
-| 13 | [EzraMulaga](https://github.com/EzraMulaga) | Ezra Mulaga | Papua New Guinea | 203 |
-| 14 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 194 |
-| 15 | [Ray743](https://github.com/Ray743) | Raynold Bobola | Port Moresby, Papua New Guinea | 187 |
-| 16 | [Sethsam675](https://github.com/Sethsam675) | Seth Sam | Port Moresby, Papua New Guinea | 154 |
-| 17 | [Valdaz007](https://github.com/Valdaz007) | Victor Volsavai | Port Moresby, Papua New Guinea | 145 |
-| 18 | [kiufungeon](https://github.com/kiufungeon) | Jenny Carter | Walkerstad, Papua New Guinea | 132 |
-| 19 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 119 |
-| 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 119 |
+| 7 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 280 |
+| 8 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 276 |
+| 9 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 245 |
+| 10 | [zyakap](https://github.com/zyakap) | Zechariah YAKAP | Port Moresby, Papua New Guinea | 245 |
+| 11 | [digi4arch424](https://github.com/digi4arch424) | DigiArch 424 | Port Moresby | 242 |
+| 12 | [DEVE123-dev](https://github.com/DEVE123-dev) | Benjamin deve Bino | Port Moresby, NCDC | 232 |
+| 13 | [Thafundraiser007](https://github.com/Thafundraiser007) | Jamill Naipao  | Papua New Guinea, NCD, Port Moresby  | 222 |
+| 14 | [EzraMulaga](https://github.com/EzraMulaga) | Ezra Mulaga | Papua New Guinea | 203 |
+| 15 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 194 |
+| 16 | [Ray743](https://github.com/Ray743) | Raynold Bobola | Port Moresby, Papua New Guinea | 187 |
+| 17 | [Sethsam675](https://github.com/Sethsam675) | Seth Sam | Port Moresby, Papua New Guinea | 154 |
+| 18 | [Valdaz007](https://github.com/Valdaz007) | Victor Volsavai | Port Moresby, Papua New Guinea | 145 |
+| 19 | [kiufungeon](https://github.com/kiufungeon) | Jenny Carter | Walkerstad, Papua New Guinea | 132 |
+| 20 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 119 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [rex-makusia](https://github.com/rex-makusia) | Rex Makusia | Papua New Guinea | 8 |
 | 20 | [AlexQCryptids](https://github.com/AlexQCryptids) | Alex Q | Papua New Guinea | 7 |
 
-Generated: 2026-10-07T06:31:43.084Z
+Generated: 2026-10-07T07:17:53.769Z

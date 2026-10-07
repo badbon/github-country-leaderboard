@@ -12,7 +12,7 @@ Indexed users: 9
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto | Cocos (Keeling) Islands | 674 |
+| 1 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto | Cocos (Keeling) Islands | 661 |
 | 2 | [chullybun](https://github.com/chullybun) | Eric Sibly [chullybun] | West Island of New Zealand (aka Australia) | 151 |
 | 3 | [ivla-bit](https://github.com/ivla-bit) | Казаніков Ілля | Cocos Islands | 101 |
 | 4 | [Nepoymi](https://github.com/Nepoymi) | Abrakham Baderman | Cocos Islands | 11 |
@@ -40,9 +40,9 @@ Indexed users: 9
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto | Cocos (Keeling) Islands | 149 |
+| 1 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto | Cocos (Keeling) Islands | 150 |
 | 2 | [getsalmon](https://github.com/getsalmon) | nton | Cocos Islands | 9 |
-| 3 | [chullybun](https://github.com/chullybun) | Eric Sibly [chullybun] | West Island of New Zealand (aka Australia) | 8 |
+| 3 | [chullybun](https://github.com/chullybun) | Eric Sibly [chullybun] | West Island of New Zealand (aka Australia) | 7 |
 | 4 | [freakaton](https://github.com/freakaton) | Ivan Lavrenov | Cocos Islands | 6 |
 | 5 | [gonsergey](https://github.com/gonsergey) | Sergey | Cocos Islands | 4 |
 | 6 | [ivla-bit](https://github.com/ivla-bit) | Казаніков Ілля | Cocos Islands | 3 |
@@ -50,4 +50,4 @@ Indexed users: 9
 | 8 | [Nepoymi](https://github.com/Nepoymi) | Abrakham Baderman | Cocos Islands | 1 |
 | 9 | [NetworkWorm123](https://github.com/NetworkWorm123) | Timon | Cocos Islands | 1 |
 
-Generated: 2026-09-30T22:34:20.722Z
+Generated: 2026-10-07T06:54:20.734Z

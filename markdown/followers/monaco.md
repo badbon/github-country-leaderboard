@@ -1,6 +1,6 @@
 # Followers - Monaco
 
-Generated: 2026-10-07T06:27:56.304Z
+Generated: 2026-10-07T07:11:23.252Z
 
 Users: 142
 
@@ -13,7 +13,7 @@ Users: 142
 | 5 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | @MRX-Systems  |  | Monaco | 39 |
 | 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 33 |
 | 7 | [zertawz](https://github.com/zertawz) | Jean-Christophe BURNOT | CPE LYON | jeanchrisbrnt | MONACO / LYON / LAUSANNE | 30 |
-| 8 | [jmbertin](https://github.com/jmbertin) | Jean-Michel Bertin | MVE |  | Monaco | 25 |
+| 8 | [jmbertin](https://github.com/jmbertin) | Jean-Michel Bertin | MVE |  | Monaco | 24 |
 | 9 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 22 |
 | 10 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 |  | hedgequantx | Monte-Carlo, Monaco | 18 |
 | 11 | [bait-archived](https://github.com/bait-archived) | Beryllium (Privated...) | YTABYTE |  | Fontevielle, Monaco | 17 |

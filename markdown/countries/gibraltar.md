@@ -1,6 +1,6 @@
 # Gibraltar
 
-Indexed users: 95
+Indexed users: 94
 
 | Leaderboard | Link |
 |---|---|
@@ -15,21 +15,21 @@ Indexed users: 95
 | 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 8,334 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,126 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 3,824 |
-| 4 | [grantmk](https://github.com/grantmk) | Grant Klimaytys | Gibraltar | 2,913 |
-| 5 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 2,667 |
+| 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,251 |
+| 5 | [grantmk](https://github.com/grantmk) | Grant Klimaytys | Gibraltar | 2,913 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,528 |
 | 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,286 |
 | 8 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 1,111 |
 | 9 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 1,049 |
-| 10 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 895 |
-| 11 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 853 |
-| 12 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor | Gibraltar | 594 |
-| 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 586 |
-| 14 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 551 |
-| 15 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 508 |
-| 16 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 491 |
-| 17 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 453 |
-| 18 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 303 |
+| 10 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 853 |
+| 11 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 836 |
+| 12 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 772 |
+| 13 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 602 |
+| 14 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor | Gibraltar | 594 |
+| 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 523 |
+| 16 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 508 |
+| 17 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 491 |
+| 18 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 453 |
 | 19 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 273 |
 | 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 251 |
 
@@ -39,15 +39,15 @@ Indexed users: 95
 |---:|---|---|---|---:|
 | 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,126 |
 | 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,483 |
-| 3 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 645 |
+| 3 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 586 |
 | 4 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 491 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 486 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 251 |
-| 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 234 |
+| 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 244 |
 | 8 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 200 |
-| 9 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 118 |
-| 10 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 117 |
-| 11 | [ZedsArcade](https://github.com/ZedsArcade) | ZedsArcade | Gibraltar | 96 |
+| 9 | [ZedsArcade](https://github.com/ZedsArcade) | ZedsArcade | Gibraltar | 156 |
+| 10 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 118 |
+| 11 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 117 |
 | 12 | [pmozdzynski](https://github.com/pmozdzynski) | P.S. Mozdzynski | Gibraltar | 85 |
 | 13 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 83 |
 | 14 | [joakimgezelius](https://github.com/joakimgezelius) | Joakim Gezelius | Gibraltar | 48 |
@@ -83,4 +83,4 @@ Indexed users: 95
 | 19 | [BeyondZ](https://github.com/BeyondZ) | Beyond Zuo | Gibraltar | 13 |
 | 20 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 
-Generated: 2026-10-02T12:57:31.345Z
+Generated: 2026-10-07T07:01:53.567Z

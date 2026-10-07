@@ -1,6 +1,6 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-02T05:55:53.854Z
+Generated: 2026-10-07T07:01:10.405Z
 
 Users: 329
 
@@ -23,6 +23,6 @@ Users: 329
 | 15 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 807 |
 | 16 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt |  |  | Fiji | 624 |
 | 17 | [Shoneel](https://github.com/Shoneel) |  |  |  | Fiji, Suva  | 481 |
-| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 419 |
-| 19 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy |  |  | Fiji | 376 |
-| 20 | [Counterpoint-Group](https://github.com/Counterpoint-Group) |  | Counterpoint Group |  | Fiji | 275 |
+| 18 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 481 |
+| 19 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 419 |
+| 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy |  |  | Fiji | 376 |

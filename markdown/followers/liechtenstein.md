@@ -1,8 +1,8 @@
 # Followers - Liechtenstein
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:09:32.260Z
 
-Users: 116
+Users: 115
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

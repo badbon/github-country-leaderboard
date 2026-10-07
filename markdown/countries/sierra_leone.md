@@ -13,8 +13,8 @@ Indexed users: 442
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | Sierra Leone | 7,815 |
-| 2 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 4,992 |
-| 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 4,499 |
+| 2 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 5,437 |
+| 3 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 4,992 |
 | 4 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Freetown. Sierra Leone | 4,228 |
 | 5 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 3,578 |
 | 6 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova | Sierra Leone | 3,293 |
@@ -27,11 +27,11 @@ Indexed users: 442
 | 13 | [ksawaneh](https://github.com/ksawaneh) | Karim Sawaneh | Freetown, Sierra Leone | 2,090 |
 | 14 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | Freetown, Sierra Leone | 2,037 |
 | 15 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 1,851 |
-| 16 | [abu-bakarr](https://github.com/abu-bakarr) |  | Sierra Leone | 1,625 |
-| 17 | [Emmanuel1255](https://github.com/Emmanuel1255) | Emmanuel Kamanda | Freetown | 1,566 |
-| 18 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | ATMR | Freetown, Sierra Leone | 1,518 |
-| 19 | [Jahrulo](https://github.com/Jahrulo) | Jallohseray | Freetown, Sierra Leone | 1,457 |
-| 20 | [Jnewton-lab](https://github.com/Jnewton-lab) | James M Bockarie  | Freetown, Sierra Leone | 1,436 |
+| 16 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Freetown, Sierra Leone | 1,716 |
+| 17 | [abu-bakarr](https://github.com/abu-bakarr) |  | Sierra Leone | 1,625 |
+| 18 | [Emmanuel1255](https://github.com/Emmanuel1255) | Emmanuel Kamanda | Freetown | 1,566 |
+| 19 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | ATMR | Freetown, Sierra Leone | 1,518 |
+| 20 | [Jahrulo](https://github.com/Jahrulo) | Jallohseray | Freetown, Sierra Leone | 1,457 |
 
 ## Public Contributions
 
@@ -39,24 +39,24 @@ Indexed users: 442
 |---:|---|---|---|---:|
 | 1 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 1,975 |
 | 2 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 1,851 |
-| 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 1,494 |
-| 4 | [Jnewton-lab](https://github.com/Jnewton-lab) | James M Bockarie  | Freetown, Sierra Leone | 1,436 |
-| 5 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Freetown, Sierra Leone | 1,118 |
-| 6 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Sierra Leone | 1,063 |
-| 7 | [ElktrumElk](https://github.com/ElktrumElk) | Elktrum Elk | Regent, Freetown, Sierra Leone. | 951 |
-| 8 | [adewoleeugene](https://github.com/adewoleeugene) | Jinjon | Freetown,Sierra Leone | 850 |
+| 3 | [Jnewton-lab](https://github.com/Jnewton-lab) | James M Bockarie  | Freetown, Sierra Leone | 1,436 |
+| 4 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 1,316 |
+| 5 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Sierra Leone | 1,063 |
+| 6 | [ElktrumElk](https://github.com/ElktrumElk) | Elktrum Elk | Regent, Freetown, Sierra Leone. | 951 |
+| 7 | [adewoleeugene](https://github.com/adewoleeugene) | Jinjon | Freetown,Sierra Leone | 850 |
+| 8 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Freetown, Sierra Leone | 830 |
 | 9 | [fatormajohn64-bit](https://github.com/fatormajohn64-bit) | Johnny-Tech  | Freetown Sierra Leone  | 769 |
 | 10 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 766 |
-| 11 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala | Freetown, Sierra Leone	 | 420 |
-| 12 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 327 |
-| 13 | [devlinksl](https://github.com/devlinksl) | Dev-Link Sl  | Sierra Leone  | 316 |
-| 14 | [Malaikamadi](https://github.com/Malaikamadi) | Malaika~madi | Freetown, Sierra Leone | 310 |
-| 15 | [Dennis2340](https://github.com/Dennis2340) | Dennis Stephen Kamara  | Freetown Sierra Leone  | 302 |
-| 16 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Sierra Leone | 295 |
-| 17 | [SUBiango](https://github.com/SUBiango) | UMARU SAHR BIANGO | Sierra Leone | 293 |
-| 18 | [ssturay](https://github.com/ssturay) | Simeon Stevenson TURAY (PhD) | Freetown, Sierra Leone | 273 |
-| 19 | [Koigor97](https://github.com/Koigor97) | Koigor Fogbawa | Freetown, Sierra Leone | 269 |
-| 20 | [joemrnice](https://github.com/joemrnice) | Joseph Lahai Kanu | Freetown, Sierra Leone. | 262 |
+| 11 | [Malaikamadi](https://github.com/Malaikamadi) | Malaika~madi | Freetown, Sierra Leone | 520 |
+| 12 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala | Freetown, Sierra Leone	 | 420 |
+| 13 | [konneh-hub](https://github.com/konneh-hub) | Mohamed Kortu Konneh | Sierra Leone | 354 |
+| 14 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 327 |
+| 15 | [devlinksl](https://github.com/devlinksl) | Dev-Link Sl  | Sierra Leone  | 316 |
+| 16 | [Dennis2340](https://github.com/Dennis2340) | Dennis Stephen Kamara  | Freetown Sierra Leone  | 302 |
+| 17 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Sierra Leone | 295 |
+| 18 | [SUBiango](https://github.com/SUBiango) | UMARU SAHR BIANGO | Sierra Leone | 293 |
+| 19 | [ssturay](https://github.com/ssturay) | Simeon Stevenson TURAY (PhD) | Freetown, Sierra Leone | 273 |
+| 20 | [Koigor97](https://github.com/Koigor97) | Koigor Fogbawa | Freetown, Sierra Leone | 269 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 442
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 28 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 25 |
 
-Generated: 2026-10-07T06:37:57.807Z
+Generated: 2026-10-07T07:23:06.393Z

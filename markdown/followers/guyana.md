@@ -1,6 +1,6 @@
 # Followers - Guyana
 
-Generated: 2026-10-02T12:59:48.783Z
+Generated: 2026-10-07T07:02:49.256Z
 
 Users: 187
 
@@ -15,7 +15,7 @@ Users: 187
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 47 |
 | 8 | [anmolnar](https://github.com/anmolnar) | Andor Molnár | @cloudera |  | Georgetown, TX | 44 |
 | 9 | [JoshuaKissoon](https://github.com/JoshuaKissoon) | Joshua Kissoon | Techlify Inc. |  | Georgetown, Guyana | 41 |
-| 10 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 37 |
+| 10 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 39 |
 | 11 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | @equalizedigital  | heyamberhinds | Georgetown, TX | 34 |
 | 12 | [rlisle](https://github.com/rlisle) | Ron Lisle |  |  | Georgetown, TX | 34 |
 | 13 | [FusionOpz](https://github.com/FusionOpz) | Matthew Sporich | Renegade Studios |  | Georgetown, ON, CA | 33 |

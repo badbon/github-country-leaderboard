@@ -1,8 +1,8 @@
 # Public Contributions - Ivory Coast
 
-Generated: 2026-09-17T08:28:41.068Z
+Generated: 2026-10-07T07:05:09.897Z
 
-Users: 490
+Users: 488
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 490
 | 14 | [zampou-code](https://github.com/zampou-code) | Zi Code | Zi Code | Zi_Code | Abidjan, Ivory Coast | 386 |
 | 15 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Computec |  | Côte d'Ivoire | 366 |
 | 16 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | @SC-DIGITAL | yayadeveloppeur | Côte d'Ivoire, Abidjan | 323 |
-| 17 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | @cinetpay @CinetPaySas @DonypayLab @betflow @i-fidelios |  | Abidjan, Côte-d'Ivoire | 290 |
-| 18 | [Ebedthan](https://github.com/Ebedthan) | Anicet Ebou | Institut National Polytechnique Félix Houphouët-Boigny | anicetebou | Yamoussoukro, Côte d'Ivoire | 260 |
-| 19 | [Oguidan](https://github.com/Oguidan) | Michael Oguidan | AGL | Oguidan1 | Abidjan, Côte d'Ivoire | 255 |
-| 20 | [alban-okoby](https://github.com/alban-okoby) | CerveauPlus |  | AlbanOkoby | Abidjan, Côte d'Ivoire | 250 |
+| 17 | [Diby-dev](https://github.com/Diby-dev) | Dan | Ya Consulting |  | Côte d'Ivoire, Abidjan | 302 |
+| 18 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | @cinetpay @CinetPaySas @DonypayLab @betflow @i-fidelios |  | Abidjan, Côte-d'Ivoire | 290 |
+| 19 | [Ebedthan](https://github.com/Ebedthan) | Anicet Ebou | Institut National Polytechnique Félix Houphouët-Boigny | anicetebou | Yamoussoukro, Côte d'Ivoire | 260 |
+| 20 | [Oguidan](https://github.com/Oguidan) | Michael Oguidan | AGL | Oguidan1 | Abidjan, Côte d'Ivoire | 255 |
