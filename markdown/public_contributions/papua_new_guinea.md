@@ -1,6 +1,6 @@
 # Public Contributions - Papua New Guinea
 
-Generated: 2026-10-07T07:17:53.769Z
+Generated: 2026-10-07T08:10:08.064Z
 
 Users: 296
 
@@ -19,7 +19,7 @@ Users: 296
 | 11 | [digi4arch424](https://github.com/digi4arch424) | DigiArch 424 |  |  | Port Moresby | 242 |
 | 12 | [DEVE123-dev](https://github.com/DEVE123-dev) | Benjamin deve Bino |  |  | Port Moresby, NCDC | 232 |
 | 13 | [Thafundraiser007](https://github.com/Thafundraiser007) | Jamill Naipao  |  |  | Papua New Guinea, NCD, Port Moresby  | 222 |
-| 14 | [EzraMulaga](https://github.com/EzraMulaga) | Ezra Mulaga |  |  | Papua New Guinea | 203 |
+| 14 | [EzraMulaga](https://github.com/EzraMulaga) | Ezra Mulaga |  |  | Papua New Guinea | 216 |
 | 15 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 194 |
 | 16 | [Ray743](https://github.com/Ray743) | Raynold Bobola |  |  | Port Moresby, Papua New Guinea | 187 |
 | 17 | [Sethsam675](https://github.com/Sethsam675) | Seth Sam | Tech Revive Freelancer |  | Port Moresby, Papua New Guinea | 154 |

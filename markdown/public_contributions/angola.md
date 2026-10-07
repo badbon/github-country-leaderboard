@@ -1,6 +1,6 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-07T07:35:03.128Z
+Generated: 2026-10-07T08:26:13.790Z
 
 Users: 2510
 
@@ -14,9 +14,9 @@ Users: 2510
 | 6 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 1942 |
 | 7 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | @42Luanda |  | Luanda | 1899 |
 | 8 | [angelo-francisco](https://github.com/angelo-francisco) | Ângelo Francisco |  |  | Luanda, Angola | 1627 |
-| 9 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1343 |
-| 10 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | 42 Luanda |  | Luanda, Angola | 1273 |
-| 11 | [Emicy963](https://github.com/Emicy963) | Cafu Dev |  |  | Huambo, Angola | 1217 |
+| 9 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | 42 Luanda |  | Luanda, Angola | 1273 |
+| 10 | [Emicy963](https://github.com/Emicy963) | Cafu Dev |  |  | Huambo, Angola | 1217 |
+| 11 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1200 |
 | 12 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |
 | 13 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga |  |  | Angola | 1090 |
 | 14 | [tiagomatias930](https://github.com/tiagomatias930) | Tiago Matias  | 42Luanda |  | Luanda-Talatona | 980 |

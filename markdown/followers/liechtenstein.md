@@ -1,12 +1,12 @@
 # Followers - Liechtenstein
 
-Generated: 2026-10-07T07:09:32.260Z
+Generated: 2026-10-07T08:01:20.206Z
 
 Users: 115
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [mrmotchy](https://github.com/mrmotchy) | mr.motchy | district74 |  | Liechtenstein | 335 |
+| 1 | [mrmotchy](https://github.com/mrmotchy) | mr.motchy | district74 |  | Liechtenstein | 337 |
 | 2 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 293 |
 | 3 | [vad-babushkin](https://github.com/vad-babushkin) | vad babushkin |  |  | Liechtenstein | 53 |
 | 4 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 31 |
@@ -17,11 +17,11 @@ Users: 115
 | 9 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 21 |
 | 10 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 21 |
 | 11 | [TOLDOTECHNIK](https://github.com/TOLDOTECHNIK) |  | TOLDO TECHNIK |  | Vaduz | 20 |
-| 12 | [InsurePal](https://github.com/InsurePal) | VouchForMe | VouchForMe  |  | Vaduz | 17 |
-| 13 | [szero](https://github.com/szero) |  | @Volafile |  | Liechtenstein | 17 |
-| 14 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 16 |
-| 15 | [michi-dev](https://github.com/michi-dev) | Michael Schädler |  | schaedler_michi | Liechtenstein | 16 |
-| 16 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 16 |
+| 12 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 18 |
+| 13 | [InsurePal](https://github.com/InsurePal) | VouchForMe | VouchForMe  |  | Vaduz | 17 |
+| 14 | [szero](https://github.com/szero) |  | @Volafile |  | Liechtenstein | 17 |
+| 15 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 16 |
+| 16 | [michi-dev](https://github.com/michi-dev) | Michael Schädler |  | schaedler_michi | Liechtenstein | 16 |
 | 17 | [fabiankeller](https://github.com/fabiankeller) | Fabian Keller | @Netcetera |  | Liechtenstein | 15 |
 | 18 | [IncredibleAaron](https://github.com/IncredibleAaron) | Aaron |  |  | Vaduz | 14 |
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 14 |

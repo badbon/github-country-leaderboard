@@ -1,8 +1,8 @@
 # Total Contributions - Montserrat
 
-Generated: 2026-10-07T07:11:40.994Z
+Generated: 2026-10-07T08:06:57.015Z
 
-Users: 294
+Users: 293
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,9 +17,9 @@ Users: 294
 | 9 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Controlled Frenzy |  | Plymouth | 2426 |
 | 10 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | @ClockWork |  | Plymouth | 1890 |
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | @thealanbennett |  | Plymouth, Devon | 1777 |
-| 12 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Hyundai MOBIS |  | Plymouth, MI | 1624 |
-| 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | @CACI-IIG |  | Plymouth, Devon | 1484 |
-| 14 | [418error](https://github.com/418error) | Andy 'Channie' Chan |  |  | Plymouth | 1194 |
+| 12 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | @CACI-IIG |  | Plymouth, Devon | 1484 |
+| 13 | [418error](https://github.com/418error) | Andy 'Channie' Chan |  |  | Plymouth | 1194 |
+| 14 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Hyundai MOBIS |  | Plymouth, MI | 1148 |
 | 15 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Balena |  | Plymouth | 1105 |
 | 16 | [edgood1](https://github.com/edgood1) | Eddie Goodwin |  |  | Plymouth, MA | 1035 |
 | 17 | [gathercole3](https://github.com/gathercole3) | jacob gathercole |  |  | plymouth | 988 |

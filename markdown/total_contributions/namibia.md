@@ -1,15 +1,15 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-07T07:12:41.587Z
+Generated: 2026-10-07T08:07:40.474Z
 
 Users: 475
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Vast Development Method @vdm-io |  | Namibia | 13882 |
+| 1 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Vast Development Method @vdm-io |  | Namibia | 10153 |
 | 2 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 6457 |
-| 3 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele |  | asenmwa | Windhoek, Namibia | 5610 |
-| 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 4522 |
+| 3 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 6282 |
+| 4 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele |  | asenmwa | Windhoek, Namibia | 5610 |
 | 5 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | @Absynth-Tech  |  | namibia,Africa | 4066 |
 | 6 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach |  |  | Namibia | 3998 |
 | 7 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | @nzzdev @meyabase @silosset | axelmukwena | Namibia | 3679 |

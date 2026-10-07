@@ -21,25 +21,25 @@ Indexed users: 1,366
 | 7 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group \| Innolink | Dakar | 4,337 |
 | 8 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 4,025 |
 | 9 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 3,861 |
-| 10 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | Senegal | 3,776 |
-| 11 | [crossben](https://github.com/crossben) |  | Dakar | 3,576 |
-| 12 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly | Dakar, Senegal | 3,507 |
-| 13 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 3,307 |
-| 14 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 3,206 |
-| 15 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 3,178 |
-| 16 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 3,173 |
-| 17 | [BOUNADRAME](https://github.com/BOUNADRAME) | Bouna DRAMÉ | Dakar, Senegal | 3,047 |
-| 18 | [flrxnt](https://github.com/flrxnt) | Florent Azonnoudo | Dakar, Sénégal | 3,034 |
-| 19 | [ndiaye70](https://github.com/ndiaye70) | Pape Abdoulaye Ndiaye | Senegal,Dakar | 3,022 |
-| 20 | [tamsir](https://github.com/tamsir) | Tamsir SENE | Dakar (Sénégal) | 3,003 |
+| 10 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 3,828 |
+| 11 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | Senegal | 3,776 |
+| 12 | [crossben](https://github.com/crossben) |  | Dakar | 3,576 |
+| 13 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly | Dakar, Senegal | 3,507 |
+| 14 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 3,307 |
+| 15 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 3,206 |
+| 16 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 3,178 |
+| 17 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 3,173 |
+| 18 | [BOUNADRAME](https://github.com/BOUNADRAME) | Bouna DRAMÉ | Dakar, Senegal | 3,047 |
+| 19 | [flrxnt](https://github.com/flrxnt) | Florent Azonnoudo | Dakar, Sénégal | 3,034 |
+| 20 | [ndiaye70](https://github.com/ndiaye70) | Pape Abdoulaye Ndiaye | Senegal,Dakar | 3,022 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 3,173 |
-| 2 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,475 |
-| 3 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,190 |
+| 2 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,837 |
+| 3 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,475 |
 | 4 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 2,158 |
 | 5 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,903 |
 | 6 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 1,839 |
@@ -83,4 +83,4 @@ Indexed users: 1,366
 | 19 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 | 20 | [tonux](https://github.com/tonux) | Tonux SAMB | Dakar, Sénégal  | 124 |
 
-Generated: 2026-10-07T07:21:55.305Z
+Generated: 2026-10-07T08:15:11.677Z

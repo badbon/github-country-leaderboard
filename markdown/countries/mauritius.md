@@ -55,8 +55,8 @@ Indexed users: 722
 | 16 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 628 |
 | 17 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 604 |
 | 18 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 568 |
-| 19 | [iamevanss](https://github.com/iamevanss) | ㅤ༺ㅤꜱᴛᴀɪɴㅤ༻ㅤ | Port Louis Mauritius  | 549 |
-| 20 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | Mauritius | 502 |
+| 19 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | Mauritius | 502 |
+| 20 | [JoottunAtish](https://github.com/JoottunAtish) | Atish Joottun | Mauritius | 501 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 722
 | 19 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | Mauritius | 73 |
 | 20 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 73 |
 
-Generated: 2026-10-07T07:11:07.743Z
+Generated: 2026-10-07T08:05:47.198Z

@@ -1,6 +1,6 @@
 # Followers - Mali
 
-Generated: 2026-10-07T07:10:30.294Z
+Generated: 2026-10-07T08:04:45.198Z
 
 Users: 347
 
@@ -15,14 +15,14 @@ Users: 347
 | 7 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 47 |
 | 8 | [iamdanajr](https://github.com/iamdanajr) | Dana JR✨ |  |  | Mali | 46 |
 | 9 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 40 |
-| 10 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | MSNET | Dayifour | Bamako, Mali | 37 |
+| 10 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 37 |
 | 11 | [diarisdiakite](https://github.com/diarisdiakite) | Diariatou Diakite | Full-Stack Developer / Microverse student | diarisdiakite | Bamako - Mali | 35 |
-| 12 | [Abdoulayadiallo](https://github.com/Abdoulayadiallo) | Abdoulaye Diallo |  |  | BAMAKO | 33 |
-| 13 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara |  | karimdiawara96 | JX4X+QX9, Bamako | 33 |
-| 14 | [mdodakitabs](https://github.com/mdodakitabs) | Mohamed Diakite |  |  | Mali | 33 |
-| 15 | [dsekou166](https://github.com/dsekou166) | Sékou DIAKITE | Orange Digital Center | 92ikop | Bamako, Mali | 30 |
-| 16 | [geekdjenika](https://github.com/geekdjenika) | Aboubacar DJENIKA | @thltechnologies  | geekdjenika | Bamako | 30 |
-| 17 | [touredri](https://github.com/touredri) | Drissa | @microverseinc Microverse | touredri | Bamako, Mali | 30 |
-| 18 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou |  |  | bamako, Mali | 29 |
-| 19 | [koneke55](https://github.com/koneke55) | कोनेके |  | koneke55 | Bamako, Mali | 29 |
+| 12 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 34 |
+| 13 | [Abdoulayadiallo](https://github.com/Abdoulayadiallo) | Abdoulaye Diallo |  |  | BAMAKO | 33 |
+| 14 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara |  | karimdiawara96 | JX4X+QX9, Bamako | 33 |
+| 15 | [mdodakitabs](https://github.com/mdodakitabs) | Mohamed Diakite |  |  | Mali | 33 |
+| 16 | [dsekou166](https://github.com/dsekou166) | Sékou DIAKITE | Orange Digital Center | 92ikop | Bamako, Mali | 30 |
+| 17 | [geekdjenika](https://github.com/geekdjenika) | Aboubacar DJENIKA | @thltechnologies  | geekdjenika | Bamako | 30 |
+| 18 | [touredri](https://github.com/touredri) | Drissa | @microverseinc Microverse | touredri | Bamako, Mali | 30 |
+| 19 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou |  |  | bamako, Mali | 29 |
 | 20 | [AlyKonte](https://github.com/AlyKonte) |  |  |  | Mali/Bamako | 27 |

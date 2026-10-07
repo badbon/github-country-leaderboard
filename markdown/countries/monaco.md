@@ -29,9 +29,9 @@ Indexed users: 142
 | 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 409 |
 | 16 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 315 |
 | 17 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 273 |
-| 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 267 |
+| 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 265 |
 | 19 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO | Monaco | 223 |
-| 20 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 196 |
+| 20 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 198 |
 
 ## Public Contributions
 
@@ -51,8 +51,8 @@ Indexed users: 142
 | 12 | [fedecarz](https://github.com/fedecarz) | fedecarz | Monaco | 99 |
 | 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 77 |
 | 14 | [yeainworks](https://github.com/yeainworks) | yea! | monaco | 74 |
-| 15 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 54 |
-| 16 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 52 |
+| 15 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 58 |
+| 16 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 54 |
 | 17 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 52 |
 | 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 49 |
 | 19 | [Faooel](https://github.com/Faooel) | Benoit G | Monaco | 46 |
@@ -62,7 +62,7 @@ Indexed users: 142
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [aplatoff](https://github.com/aplatoff) | Andrey Platov | Monaco | 130 |
+| 1 | [aplatoff](https://github.com/aplatoff) | Andrey Platov | Monaco | 132 |
 | 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 94 |
 | 3 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 40 |
 | 4 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 40 |
@@ -70,8 +70,8 @@ Indexed users: 142
 | 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 33 |
 | 7 | [zertawz](https://github.com/zertawz) | Jean-Christophe BURNOT | MONACO / LYON / LAUSANNE | 30 |
 | 8 | [jmbertin](https://github.com/jmbertin) | Jean-Michel Bertin | Monaco | 24 |
-| 9 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 22 |
-| 10 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 | Monte-Carlo, Monaco | 18 |
+| 9 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 | Monte-Carlo, Monaco | 22 |
+| 10 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 22 |
 | 11 | [bait-archived](https://github.com/bait-archived) | Beryllium (Privated...) | Fontevielle, Monaco | 17 |
 | 12 | [SilencyDev](https://github.com/SilencyDev) | Kevin Macquet | Monaco | 17 |
 | 13 | [z2sx](https://github.com/z2sx) | Andrey Platov | Monaco | 17 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 12 |
 
-Generated: 2026-10-07T07:11:23.252Z
+Generated: 2026-10-07T08:06:47.156Z

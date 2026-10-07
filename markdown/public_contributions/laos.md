@@ -1,6 +1,6 @@
 # Public Contributions - Laos
 
-Generated: 2026-10-07T07:08:07.264Z
+Generated: 2026-10-07T07:59:56.701Z
 
 Users: 360
 
@@ -12,9 +12,9 @@ Users: 360
 | 4 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 696 |
 | 5 | [thongsao2020](https://github.com/thongsao2020) | thongsao-codecools |  |  | Vientiane, Laos | 519 |
 | 6 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack |  |  | Luangprabang, Laos | 480 |
-| 7 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly |  |  | Vientiane, Laos | 388 |
-| 8 | [maxontorres](https://github.com/maxontorres) | Maxon Torres | Freelance | MaxonTorres | Vientiane, Laos | 344 |
-| 9 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 322 |
+| 7 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 442 |
+| 8 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly |  |  | Vientiane, Laos | 388 |
+| 9 | [maxontorres](https://github.com/maxontorres) | Maxon Torres | Freelance | MaxonTorres | Vientiane, Laos | 344 |
 | 10 | [KT246](https://github.com/KT246) | khamtay kongmanh |  |  | Vientiane, Laos | 271 |
 | 11 | [Sengkue](https://github.com/Sengkue) | SengKueVang |  |  | Laos, Vientiane capital | 255 |
 | 12 | [ThaksinhCW3](https://github.com/ThaksinhCW3) | Thaksinh.785 |  |  | Laos | 200 |

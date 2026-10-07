@@ -1,12 +1,12 @@
 # Followers - Belize
 
-Generated: 2026-10-07T07:37:59.621Z
+Generated: 2026-10-07T08:28:17.149Z
 
 Users: 95
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | The University of Belize |  | Belmopan, BZ | 121 |
+| 1 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | The University of Belize |  | Belmopan, BZ | 112 |
 | 2 | [erichanson](https://github.com/erichanson) | Eric Hanson |  | erichanson | Belize | 37 |
 | 3 | [Maou-Shimazu](https://github.com/Maou-Shimazu) | Eldad Danladi |  |  | Belize | 31 |
 | 4 | [extjsdev](https://github.com/extjsdev) | EXT JS LIB | Evu |  | Belize | 24 |
@@ -22,7 +22,7 @@ Users: 95
 | 14 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers |  |  | Belize  | 9 |
 | 15 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Self-employed |  | Belize | 9 |
 | 16 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti |  |  | San Jose Succotz, Cayo District, Belize | 9 |
-| 17 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | CybCSec  |  | Belize | 7 |
-| 18 | [happyherp](https://github.com/happyherp) | Carlos Freund | Self Employed |  | Belize | 7 |
-| 19 | [raycadle](https://github.com/raycadle) | Ray Cadle |  |  | Belize, C.A. | 7 |
-| 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | University of Belize |  | Belmopan City | 6 |
+| 17 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 |  | AlexRiv007 | Belize City, Belize | 8 |
+| 18 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | CybCSec  |  | Belize | 7 |
+| 19 | [happyherp](https://github.com/happyherp) | Carlos Freund | Self Employed |  | Belize | 7 |
+| 20 | [raycadle](https://github.com/raycadle) | Ray Cadle |  |  | Belize, C.A. | 7 |

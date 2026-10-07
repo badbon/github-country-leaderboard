@@ -29,9 +29,9 @@ Indexed users: 470
 | 15 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,314 |
 | 16 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,309 |
 | 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,202 |
-| 18 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 2,025 |
-| 19 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,613 |
-| 20 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 1,596 |
+| 18 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,613 |
+| 19 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 1,596 |
+| 20 | [whutddk](https://github.com/whutddk) | Ruige Lee | Antarctica | 1,580 |
 
 ## Public Contributions
 
@@ -46,15 +46,15 @@ Indexed users: 470
 | 7 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,188 |
 | 8 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,173 |
 | 9 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube | Antarctica | 996 |
-| 10 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 791 |
-| 11 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 758 |
-| 12 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 675 |
+| 10 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 711 |
+| 11 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 675 |
+| 12 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 658 |
 | 13 | [DrBrad](https://github.com/DrBrad) | Brad | Antarctica | 634 |
 | 14 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 579 |
 | 15 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 16 | [nicccce](https://github.com/nicccce) | Nick | Antarctica | 471 |
-| 17 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 469 |
-| 18 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
+| 16 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 469 |
+| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
+| 18 | [nicccce](https://github.com/nicccce) | Nick | Antarctica | 410 |
 | 19 | [kyriosaa](https://github.com/kyriosaa) | Kin | Antarctica | 405 |
 | 20 | [FreshPenguin112](https://github.com/FreshPenguin112) | FreshPenguin112 | Antarctica | 390 |
 
@@ -83,4 +83,4 @@ Indexed users: 470
 | 19 | [crse](https://github.com/crse) |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 77 |
 
-Generated: 2026-10-07T07:35:51.379Z
+Generated: 2026-10-07T08:26:54.467Z

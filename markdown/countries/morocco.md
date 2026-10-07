@@ -1,6 +1,6 @@
 # Morocco
 
-Indexed users: 9,673
+Indexed users: 9,672
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 9,673
 | 19 | [DevOam](https://github.com/DevOam) | mohamed reda lakouas | Morocco | 823 |
 | 20 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
 
-Generated: 2026-10-07T07:12:12.423Z
+Generated: 2026-10-07T08:07:03.315Z

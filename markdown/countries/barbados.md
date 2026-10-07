@@ -12,10 +12,10 @@ Indexed users: 133
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 4,618 |
-| 2 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,595 |
+| 1 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,725 |
+| 2 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 4,618 |
 | 3 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 4,090 |
-| 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 2,718 |
+| 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,163 |
 | 5 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,236 |
 | 6 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 1,567 |
 | 7 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,510 |
@@ -42,27 +42,27 @@ Indexed users: 133
 | 3 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 365 |
 | 4 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 352 |
 | 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne | Bridgetown, Barbados | 309 |
-| 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley | Barbados | 269 |
+| 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley | Barbados | 252 |
 | 7 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 250 |
 | 8 | [BlueRoyy](https://github.com/BlueRoyy) | Kenroy Ronnie Roach | Barbados | 226 |
-| 9 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 205 |
-| 10 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 190 |
-| 11 | [kernrocke](https://github.com/kernrocke) | Kern Rocke | Bridgetown, Barbados | 180 |
-| 12 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 144 |
+| 9 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 190 |
+| 10 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 175 |
+| 11 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 144 |
+| 12 | [kernrocke](https://github.com/kernrocke) | Kern Rocke | Bridgetown, Barbados | 109 |
 | 13 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte | Barbados | 107 |
 | 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 105 |
 | 15 | [Rayh23](https://github.com/Rayh23) | Raynel | Barbados | 81 |
 | 16 | [starsden](https://github.com/starsden) | den | Barbados | 74 |
 | 17 | [baebranch](https://github.com/baebranch) | Brian Branch | Barbados | 67 |
 | 18 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 57 |
-| 19 | [angustatchell](https://github.com/angustatchell) | Angus Tatchell | Christ Church, Barbados | 48 |
-| 20 | [VladoPlavsic](https://github.com/VladoPlavsic) | Vlado Plavsic | Barbados | 48 |
+| 19 | [VladoPlavsic](https://github.com/VladoPlavsic) | Vlado Plavsic | Barbados | 48 |
+| 20 | [LiddieG](https://github.com/LiddieG) | Liddie Goodwoman | Barbados | 45 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley | Barbados | 553 |
+| 1 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley | Barbados | 549 |
 | 2 | [kaku2015](https://github.com/kaku2015) | FishingNet | Barbados | 424 |
 | 3 | [iRoachie](https://github.com/iRoachie) | Kyle Roach | Barbados | 296 |
 | 4 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 273 |
@@ -77,10 +77,10 @@ Indexed users: 133
 | 13 | [EnSabanNur](https://github.com/EnSabanNur) | Ben Clark | Christ Church, Barbados | 18 |
 | 14 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 18 |
 | 15 | [mr-emreerturk](https://github.com/mr-emreerturk) | Emre Ertürk | Bridgetown, Barbados | 17 |
-| 16 | [angustatchell](https://github.com/angustatchell) | Angus Tatchell | Christ Church, Barbados | 15 |
+| 16 | [angustatchell](https://github.com/angustatchell) | Angus Tatchell | Christ Church, Barbados | 16 |
 | 17 | [stojan211287](https://github.com/stojan211287) | Stan Jardani | Barbados | 14 |
 | 18 | [cgoodridge](https://github.com/cgoodridge) |  | Barbados | 12 |
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-07T07:37:46.043Z
+Generated: 2026-10-07T08:27:49.907Z

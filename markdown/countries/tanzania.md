@@ -21,8 +21,8 @@ Indexed users: 2,042
 | 7 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Mbeya,Tanzania | 15,281 |
 | 8 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 14,804 |
 | 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 14,358 |
-| 10 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 8,880 |
-| 11 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 8,097 |
+| 10 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 13,423 |
+| 11 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 8,880 |
 | 12 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | Arusha, Tanzania | 7,939 |
 | 13 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 7,498 |
 | 14 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania | 6,537 |
@@ -52,7 +52,7 @@ Indexed users: 2,042
 | 13 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,710 |
 | 14 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,606 |
 | 15 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
-| 16 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 1,538 |
+| 16 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 1,448 |
 | 17 | [cozej4](https://github.com/cozej4) | Ilakoze Jumanne | Tanzania | 1,248 |
 | 18 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 1,238 |
 | 19 | [dadyutenga](https://github.com/dadyutenga) | Dadi Nasser Utenga | Tanzania | 1,149 |
@@ -83,4 +83,4 @@ Indexed users: 2,042
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 175 |
 
-Generated: 2026-10-07T07:28:48.193Z
+Generated: 2026-10-07T08:18:57.153Z

@@ -1,6 +1,6 @@
 # Public Contributions - Afghanistan
 
-Generated: 2026-10-07T07:33:30.128Z
+Generated: 2026-10-07T08:24:51.565Z
 
 Users: 1495
 
@@ -23,6 +23,6 @@ Users: 1495
 | 15 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori |  |  | Afghanistan  | 1167 |
 | 16 | [fataneh-mow](https://github.com/fataneh-mow) | Fatana Mawlawizadeh |  | fataneh_mow | Herat, Afghanistan | 1115 |
 | 17 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi |  |  | Kabul, Afghanistan | 1044 |
-| 18 | [Mukhtarrahimi](https://github.com/Mukhtarrahimi) | Mukhtar Rahimi |  |  | Kabul - Afghanistan | 987 |
-| 19 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Tawana Technology |  | Kabul, Afghanistan | 980 |
-| 20 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Netlinks Inc |  | Kabul, Afghanistan | 933 |
+| 18 | [Satayesh-Esmaily](https://github.com/Satayesh-Esmaily) | Satayesh Esmaily |  | stysh_Esmaily | Herat,Afghanistan | 1014 |
+| 19 | [Mukhtarrahimi](https://github.com/Mukhtarrahimi) | Mukhtar Rahimi |  |  | Kabul - Afghanistan | 987 |
+| 20 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Tawana Technology |  | Kabul, Afghanistan | 980 |

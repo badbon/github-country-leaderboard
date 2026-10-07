@@ -1,6 +1,6 @@
 # Public Contributions - Serbia
 
-Generated: 2026-10-07T07:22:22.893Z
+Generated: 2026-10-07T08:16:03.042Z
 
 Users: 10675
 
@@ -20,9 +20,9 @@ Users: 10675
 | 12 | [svasenkov](https://github.com/svasenkov) | Vasenkov Stanislav | @qa-guru @autotests-ai |  | Serbia, Belgrade | 3936 |
 | 13 | [iscekic](https://github.com/iscekic) | Igor Šćekić | Kilo Code | sceka_ | Novi Sad, Serbia | 3636 |
 | 14 | [nklmilojevic](https://github.com/nklmilojevic) | Nikola Milojević | MailerLite Inc | nklmilojevic | Belgrade, Serbia | 3610 |
-| 15 | [dreikanter](https://github.com/dreikanter) | Alex Musayev | @retailzipline, @amplifr |  | Novi Sad, Serbia | 3565 |
-| 16 | [L4ki](https://github.com/L4ki) | L4ki |  |  | Serbia, Smederevska Palanka | 3563 |
-| 17 | [vladprrs](https://github.com/vladprrs) | Vlad Pr |  |  | Belgrade, Serbia | 3347 |
-| 18 | [egv](https://github.com/egv) | Gena | Cambrian |  | Belgrade - Tel Aviv - Dubai | 3094 |
-| 19 | [maratik123](https://github.com/maratik123) |  |  |  | Serbia, Belgrade | 2991 |
-| 20 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Quantum Quality Engineering DOO Petrovaradin |  | Novi Sad, Serbia | 2990 |
+| 15 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Cognitum One |  | Petrovaradin, Serbia | 3575 |
+| 16 | [dreikanter](https://github.com/dreikanter) | Alex Musayev | @retailzipline, @amplifr |  | Novi Sad, Serbia | 3565 |
+| 17 | [L4ki](https://github.com/L4ki) | L4ki |  |  | Serbia, Smederevska Palanka | 3563 |
+| 18 | [vladprrs](https://github.com/vladprrs) | Vlad Pr |  |  | Belgrade, Serbia | 3347 |
+| 19 | [egv](https://github.com/egv) | Gena | Cambrian |  | Belgrade - Tel Aviv - Dubai | 3094 |
+| 20 | [maratik123](https://github.com/maratik123) |  |  |  | Serbia, Belgrade | 2991 |

@@ -1,6 +1,6 @@
 # Public Contributions - Mauritius
 
-Generated: 2026-10-07T07:11:07.743Z
+Generated: 2026-10-07T08:05:47.198Z
 
 Users: 722
 
@@ -24,5 +24,5 @@ Users: 722
 | 16 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 628 |
 | 17 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 604 |
 | 18 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan |  |  | Mauritius | 568 |
-| 19 | [iamevanss](https://github.com/iamevanss) | ㅤ༺ㅤꜱᴛᴀɪɴㅤ༻ㅤ | Stain Projects  |  | Port Louis Mauritius  | 549 |
-| 20 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | @Solution-Inc  |  | Mauritius | 502 |
+| 19 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | @Solution-Inc  |  | Mauritius | 502 |
+| 20 | [JoottunAtish](https://github.com/JoottunAtish) | Atish Joottun |  |  | Mauritius | 501 |

@@ -1,15 +1,15 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-07T07:09:42.910Z
+Generated: 2026-10-07T08:02:59.925Z
 
-Users: 2215
+Users: 2214
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | @LuxApps  |  | Luxembourg | 36874 |
 | 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | Akira | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 19672 |
-| 3 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | TEGI | gillesheinesch | Luxembourg | 16011 |
-| 4 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Nodz |  | Luxembourg | 15977 |
+| 3 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Nodz |  | Luxembourg | 16355 |
+| 4 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | TEGI | gillesheinesch | Luxembourg | 16011 |
 | 5 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin |  |  | Luxembourg | 13577 |
 | 6 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | @Pure-Lambda  |  | Luxembourg | 10606 |
 | 7 | [assaad](https://github.com/assaad) | Assaad Moawad |  |  | Luxembourg | 9834 |

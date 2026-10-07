@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-07T07:34:58.172Z
+Generated: 2026-10-07T08:25:41.137Z
 
 Users: 214
 
@@ -18,11 +18,11 @@ Users: 214
 | 10 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 3714 |
 | 11 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 3699 |
 | 12 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 3385 |
-| 13 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 3169 |
-| 14 | [GRKdev](https://github.com/GRKdev) | G.R.K. | IAND |  | Andorra | 3037 |
-| 15 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 3014 |
-| 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 2706 |
-| 17 | [trebormc](https://github.com/trebormc) | Robert Menetray | Menetray | RobertMenetray | Andorra | 2436 |
-| 18 | [RemyMachado](https://github.com/RemyMachado) | Rémy Machado | Freelance |  | Andorra la Vella, Andorra | 2430 |
-| 19 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | @surge-ai  |  | Andorra | 2263 |
-| 20 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Mountain Path Consulting |  | Ordino, Andorra | 2095 |
+| 13 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | @surge-ai  |  | Andorra | 3333 |
+| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 3169 |
+| 15 | [GRKdev](https://github.com/GRKdev) | G.R.K. | IAND |  | Andorra | 3037 |
+| 16 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 3014 |
+| 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 2706 |
+| 18 | [trebormc](https://github.com/trebormc) | Robert Menetray | Menetray | RobertMenetray | Andorra | 2436 |
+| 19 | [RemyMachado](https://github.com/RemyMachado) | Rémy Machado | Freelance |  | Andorra la Vella, Andorra | 2430 |
+| 20 | [sjuanati](https://github.com/sjuanati) | Sergi Juanati | Steakhouse Financial | sjuanati | Andorra | 2109 |

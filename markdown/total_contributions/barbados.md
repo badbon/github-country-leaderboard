@@ -1,15 +1,15 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-07T07:37:46.043Z
+Generated: 2026-10-07T08:27:49.907Z
 
 Users: 133
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Dharach  | hammertoe | Barbados | 4618 |
-| 2 | [bajedev](https://github.com/bajedev) | Theo Taylor | @TAYLORDTech  |  | Barbados | 4595 |
+| 1 | [bajedev](https://github.com/bajedev) | Theo Taylor | @TAYLORDTech  |  | Barbados | 4725 |
+| 2 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Dharach  | hammertoe | Barbados | 4618 |
 | 3 | [jasonals](https://github.com/jasonals) | Jason Als | @mMoneyBB |  | Barbados | 4090 |
-| 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 2718 |
+| 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 3163 |
 | 5 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2236 |
 | 6 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn |  |  | Barbados | 1567 |
 | 7 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 1510 |

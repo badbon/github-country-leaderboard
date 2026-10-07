@@ -1,8 +1,8 @@
 # Total Contributions - Panama
 
-Generated: 2026-10-07T07:17:21.971Z
+Generated: 2026-10-07T08:09:40.247Z
 
-Users: 1073
+Users: 1072
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 1073
 | 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | rizoma | gonzalezulises | Panama | 7392 |
 | 10 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | AVSARA / IXTMO / FORGE LABS / SELVA HOLDINGS |  | Panama City | 6449 |
 | 11 | [cabe56](https://github.com/cabe56) | Jose Varela | Cuanto |  | Panama City, Panama | 6426 |
-| 12 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | @xtealer |  | Panama City, Panama | 5687 |
-| 13 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | The no name company |  | Panama | 5234 |
-| 14 | [berryhill](https://github.com/berryhill) | Matt Berryhill | enthusiast of sorts | berryhill_dev | Los Santos, Panama | 4773 |
-| 15 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock |  |  | Panama | 4681 |
-| 16 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | Goodfellas & CreditHub | lfamorim | San Blas, Panama | 4655 |
-| 17 | [dav3trad3r](https://github.com/dav3trad3r) | dave |  |  | Panama | 4385 |
-| 18 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | AIdeazz start-up | reviceva | Panama, Panama city | 4361 |
-| 19 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Vorluno |  | Panama | 4086 |
-| 20 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Master Services | FRobertsV | Panama | 4062 |
+| 12 | [atebites-hub](https://github.com/atebites-hub) | atebites | blackswan.money | ate_bites | Panama | 6149 |
+| 13 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | @xtealer |  | Panama City, Panama | 5687 |
+| 14 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | The no name company |  | Panama | 5234 |
+| 15 | [berryhill](https://github.com/berryhill) | Matt Berryhill | enthusiast of sorts | berryhill_dev | Los Santos, Panama | 4773 |
+| 16 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock |  |  | Panama | 4681 |
+| 17 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | Goodfellas & CreditHub | lfamorim | San Blas, Panama | 4655 |
+| 18 | [dav3trad3r](https://github.com/dav3trad3r) | dave |  |  | Panama | 4385 |
+| 19 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | AIdeazz start-up | reviceva | Panama, Panama city | 4361 |
+| 20 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Vorluno |  | Panama | 4086 |

@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-07T07:35:51.379Z
+Generated: 2026-10-07T08:26:54.467Z
 
 Users: 470
 
@@ -15,14 +15,14 @@ Users: 470
 | 7 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1188 |
 | 8 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Gruppa chat & Co. |  | Antarctica | 1173 |
 | 9 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube |  | icecubedotwtf | Antarctica | 996 |
-| 10 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 791 |
-| 11 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 758 |
-| 12 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 675 |
+| 10 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 711 |
+| 11 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 675 |
+| 12 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 658 |
 | 13 | [DrBrad](https://github.com/DrBrad) | Brad | find9 LLC, LimeReel LLC |  | Antarctica | 634 |
 | 14 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas |  |  | Antarctica | 579 |
 | 15 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
-| 16 | [nicccce](https://github.com/nicccce) | Nick | Shandong University |  | Antarctica | 471 |
-| 17 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 469 |
-| 18 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | A store that pays $8 per hour / 6 days per week |  | Antarctica, Discord, VRChat | 469 |
+| 16 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 469 |
+| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | A store that pays $8 per hour / 6 days per week |  | Antarctica, Discord, VRChat | 469 |
+| 18 | [nicccce](https://github.com/nicccce) | Nick | Shandong University |  | Antarctica | 410 |
 | 19 | [kyriosaa](https://github.com/kyriosaa) | Kin |  |  | Antarctica | 405 |
 | 20 | [FreshPenguin112](https://github.com/FreshPenguin112) | FreshPenguin112 |  |  | Antarctica | 390 |

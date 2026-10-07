@@ -1,6 +1,6 @@
 # Bahrain
 
-Indexed users: 735
+Indexed users: 734
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 735
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 41 |
 | 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa | Bahrain | 37 |
 
-Generated: 2026-10-07T07:37:37.468Z
+Generated: 2026-10-07T08:27:42.009Z

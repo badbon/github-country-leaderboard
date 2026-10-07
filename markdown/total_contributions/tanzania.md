@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-07T07:28:48.193Z
+Generated: 2026-10-07T08:18:57.153Z
 
 Users: 2042
 
@@ -15,8 +15,8 @@ Users: 2042
 | 7 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 15281 |
 | 8 | [cleven12](https://github.com/cleven12) | cleven |  | cleven02 | Tanzania | 14804 |
 | 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 14358 |
-| 10 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Fair Competition Commission | lurgic_me | Tanzania, Dar es salaam | 8880 |
-| 11 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Busara Digital  |  | Dar Es Salaam, Tanzania | 8097 |
+| 10 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Busara Digital  |  | Dar Es Salaam, Tanzania | 13423 |
+| 11 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Fair Competition Commission | lurgic_me | Tanzania, Dar es salaam | 8880 |
 | 12 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | SainCraft Technologies |  | Arusha, Tanzania | 7939 |
 | 13 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | Zepson Technologies |  | TANZANIA | 7498 |
 | 14 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania |  | Tanzania | 6537 |

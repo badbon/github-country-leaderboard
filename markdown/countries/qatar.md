@@ -1,6 +1,6 @@
 # Qatar
 
-Indexed users: 1,081
+Indexed users: 1,080
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,081
 | 19 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 92 |
 | 20 | [Behram-Khattak](https://github.com/Behram-Khattak) | Behram Khattak | Doha, Qatar | 91 |
 
-Generated: 2026-10-07T07:19:29.874Z
+Generated: 2026-10-07T08:12:21.400Z

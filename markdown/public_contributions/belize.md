@@ -1,15 +1,15 @@
 # Public Contributions - Belize
 
-Generated: 2026-10-07T07:37:59.621Z
+Generated: 2026-10-07T08:28:17.149Z
 
 Users: 95
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | University of Belize |  | Belmopan, Belize | 1327 |
-| 2 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | The University of Belize |  | Belmopan, BZ | 758 |
-| 3 | [happyherp](https://github.com/happyherp) | Carlos Freund | Self Employed |  | Belize | 758 |
-| 4 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Speednet Communications Limited | drianeperez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 723 |
+| 2 | [happyherp](https://github.com/happyherp) | Carlos Freund | Self Employed |  | Belize | 758 |
+| 3 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Speednet Communications Limited | drianeperez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 723 |
+| 4 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | The University of Belize |  | Belmopan, BZ | 664 |
 | 5 | [krispyre](https://github.com/krispyre) | kris |  |  | Belize | 358 |
 | 6 | [raycadle](https://github.com/raycadle) | Ray Cadle |  |  | Belize, C.A. | 326 |
 | 7 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | University of Belize |  | Belmopan, Belize | 318 |
@@ -24,5 +24,5 @@ Users: 95
 | 16 | [erichanson](https://github.com/erichanson) | Eric Hanson |  | erichanson | Belize | 55 |
 | 17 | [GirlWhoCodes14](https://github.com/GirlWhoCodes14) | Alexis Ayuso |  |  | Belize | 42 |
 | 18 | [FranceCawich](https://github.com/FranceCawich) | Francis Cawich | SpeedNet Telecommunication LTD Belize  | cawichFrance | Belize | 33 |
-| 19 | [donaldtmcknight](https://github.com/donaldtmcknight) | Donald T. McKnight | Savanna Field Station | donaldmcknight2 | Belize | 28 |
-| 20 | [amodevinc](https://github.com/amodevinc) | Alain Morris |  |  | Belize (UTC−6) · Remote | 26 |
+| 19 | [amodevinc](https://github.com/amodevinc) | Alain Morris |  |  | Belize (UTC−6) · Remote | 26 |
+| 20 | [donaldtmcknight](https://github.com/donaldtmcknight) | Donald T. McKnight | Savanna Field Station | donaldmcknight2 | Belize | 23 |

@@ -1,6 +1,6 @@
 # Togo
 
-Indexed users: 692
+Indexed users: 691
 
 | Leaderboard | Link |
 |---|---|
@@ -25,13 +25,13 @@ Indexed users: 692
 | 11 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,633 |
 | 12 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,480 |
 | 13 | [Michel-DJREKE](https://github.com/Michel-DJREKE) | Michel_DJREKE | Togo \| GMT+0 | 3,395 |
-| 14 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,168 |
-| 15 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 3,124 |
-| 16 | [lonie12](https://github.com/lonie12) | Yxie | Lomé, TOGO | 3,082 |
-| 17 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU | Lomé, Togo | 3,008 |
-| 18 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 2,874 |
-| 19 | [digino](https://github.com/digino) | Gino | Lomé, Togo | 2,766 |
-| 20 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 2,747 |
+| 14 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 3,195 |
+| 15 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,168 |
+| 16 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 3,124 |
+| 17 | [lonie12](https://github.com/lonie12) | Yxie | Lomé, TOGO | 3,082 |
+| 18 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU | Lomé, Togo | 3,008 |
+| 19 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 2,874 |
+| 20 | [digino](https://github.com/digino) | Gino | Lomé, Togo | 2,766 |
 
 ## Public Contributions
 
@@ -44,7 +44,7 @@ Indexed users: 692
 | 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 2,338 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 2,148 |
 | 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,847 |
-| 8 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,572 |
+| 8 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,710 |
 | 9 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,382 |
 | 10 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 1,308 |
 | 11 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,194 |
@@ -83,4 +83,4 @@ Indexed users: 692
 | 19 | [Harlequelrah](https://github.com/Harlequelrah) | DEGBOVI Maxime Atsou | Lomé-TOGO | 68 |
 | 20 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 
-Generated: 2026-10-07T07:29:13.254Z
+Generated: 2026-10-07T08:19:07.733Z

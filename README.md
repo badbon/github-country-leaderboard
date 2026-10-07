@@ -18,7 +18,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 | [Nauru](markdown/countries/nauru.md) | 3 | [Public](markdown/public_contributions/nauru.md) | [Total](markdown/total_contributions/nauru.md) | [Followers](markdown/followers/nauru.md) |
 | [Macau](markdown/countries/macau.md) | 453 | [Public](markdown/public_contributions/macau.md) | [Total](markdown/total_contributions/macau.md) | [Followers](markdown/followers/macau.md) |
 | [Nepal](markdown/countries/nepal.md) | 14,079 | [Public](markdown/public_contributions/nepal.md) | [Total](markdown/total_contributions/nepal.md) | [Followers](markdown/followers/nepal.md) |
-| [South Africa](markdown/countries/south_africa.md) | 17,911 | [Public](markdown/public_contributions/south_africa.md) | [Total](markdown/total_contributions/south_africa.md) | [Followers](markdown/followers/south_africa.md) |
+| [South Africa](markdown/countries/south_africa.md) | 17,910 | [Public](markdown/public_contributions/south_africa.md) | [Total](markdown/total_contributions/south_africa.md) | [Followers](markdown/followers/south_africa.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-07T07:59:00.978Z
+Generated: 2026-10-07T08:29:26.917Z

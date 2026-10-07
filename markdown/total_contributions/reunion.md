@@ -1,6 +1,6 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-07T07:19:36.540Z
+Generated: 2026-10-07T08:12:29.268Z
 
 Users: 213
 
@@ -24,5 +24,5 @@ Users: 213
 | 16 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | 6kreation |  | Réunion Island | 1295 |
 | 17 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 1202 |
 | 18 | [John361](https://github.com/John361) | John |  |  | Réunion | 1200 |
-| 19 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 1110 |
-| 20 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Red Hat, Inc. | elmarco | Réunion | 1015 |
+| 19 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 1152 |
+| 20 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 1110 |

@@ -1,12 +1,12 @@
 # Public Contributions - Timor-Leste
 
-Generated: 2026-10-07T07:29:09.763Z
+Generated: 2026-10-07T08:19:04.630Z
 
 Users: 77
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes |  | 0x_Akoko | Timor-Leste | 1830 |
+| 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes |  | 0x_Akoko | Timor-Leste | 2077 |
 | 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo |  |  | Timor Leste  | 1195 |
 | 3 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 826 |
 | 4 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | @catalpainternational  |  | Dili, Timor-Leste | 718 |
@@ -22,7 +22,7 @@ Users: 77
 | 14 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala |  |  | Dili, Timor Leste | 36 |
 | 15 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in GIS Spatial/Image Analyst, Interested in Photography, Audiovisual Archive and IT-Systems Architect |  | tonybehar | Dili, Timor-Leste | 35 |
 | 16 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA |  |  | Timor-leste | 34 |
-| 17 | [Teflontino](https://github.com/Teflontino) | Tino de Freitas |  |  | Dili, Timor Leste | 30 |
-| 18 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | UNTL |  | Dili | 26 |
-| 19 | [Dhax0311](https://github.com/Dhax0311) | Guevara Viana |  |  | Timor-Leste | 24 |
-| 20 | [XICANO88](https://github.com/XICANO88) | XICANO |  |  | Guarda-Iliheu, East Timor | 20 |
+| 17 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | UNTL |  | Dili | 26 |
+| 18 | [Dhax0311](https://github.com/Dhax0311) | Guevara Viana |  |  | Timor-Leste | 24 |
+| 19 | [XICANO88](https://github.com/XICANO88) | XICANO |  |  | Guarda-Iliheu, East Timor | 20 |
+| 20 | [revolta12](https://github.com/revolta12) | NizioDevT |  |  | Dili, Timor-Leste | 18 |

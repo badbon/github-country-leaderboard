@@ -1,6 +1,6 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-10-07T07:07:13.869Z
+Generated: 2026-10-07T07:59:46.778Z
 
 Users: 2464
 
@@ -19,10 +19,10 @@ Users: 2464
 | 11 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | @aitsolutions |  | Kyrgyzstan | 4702 |
 | 12 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 4549 |
 | 13 | [eeemmm29](https://github.com/eeemmm29) | EM | AIT Solutions |  | Kyrgyzstan | 4386 |
-| 14 | [nasipa1](https://github.com/nasipa1) | Nasipa | LLC Alpha-Net |  | Kyrgyzstan, Bishkek | 4232 |
-| 15 | [timplifier](https://github.com/timplifier) | timplifier雨 | @Timbermir |  | Bishkek | 4042 |
-| 16 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik |  |  | Bishkek | 4038 |
-| 17 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 3873 |
-| 18 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @fastronome |  | Bishkek, Kyrgyz Republic | 3615 |
-| 19 | [kymuco](https://github.com/kymuco) | Ikymuco | Independent |  | Bishkek, Kyrgyzstan | 3338 |
-| 20 | [Donkasta](https://github.com/Donkasta) | Aidin | Mervey |  | Bishkek | 3221 |
+| 14 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov |  |  | Kyrgyzstan | 4265 |
+| 15 | [nasipa1](https://github.com/nasipa1) | Nasipa | LLC Alpha-Net |  | Kyrgyzstan, Bishkek | 4232 |
+| 16 | [timplifier](https://github.com/timplifier) | timplifier雨 | @Timbermir |  | Bishkek | 4042 |
+| 17 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik |  |  | Bishkek | 4038 |
+| 18 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 3873 |
+| 19 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @fastronome |  | Bishkek, Kyrgyz Republic | 3615 |
+| 20 | [kymuco](https://github.com/kymuco) | Ikymuco | Independent |  | Bishkek, Kyrgyzstan | 3338 |

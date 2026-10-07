@@ -1,6 +1,6 @@
 # Public Contributions - Liechtenstein
 
-Generated: 2026-10-07T07:09:32.260Z
+Generated: 2026-10-07T08:01:20.206Z
 
 Users: 115
 
@@ -15,12 +15,12 @@ Users: 115
 | 7 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 528 |
 | 8 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 459 |
 | 9 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 296 |
-| 10 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 263 |
-| 11 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 246 |
-| 12 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 220 |
+| 10 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 288 |
+| 11 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 263 |
+| 12 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 228 |
 | 13 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 179 |
-| 14 | [d0dge-dev](https://github.com/d0dge-dev) | David |  |  | Liechtenstein | 140 |
-| 15 | [TheMightyDuckOfDoom](https://github.com/TheMightyDuckOfDoom) | Tobias Senti | ETH Zürich |  | Schaanwald, Liechtenstein | 137 |
+| 14 | [TheMightyDuckOfDoom](https://github.com/TheMightyDuckOfDoom) | Tobias Senti | ETH Zürich |  | Schaanwald, Liechtenstein | 137 |
+| 15 | [d0dge-dev](https://github.com/d0dge-dev) | David |  |  | Liechtenstein | 124 |
 | 16 | [MahsaChoop](https://github.com/MahsaChoop) | Mahsa Choopannezhad Najafabadi | Liechtenstein University |  | Liechtenstein | 116 |
 | 17 | [danheron](https://github.com/danheron) | Dan Heron |  |  | Liechtenstein | 95 |
 | 18 | [ukhan717](https://github.com/ukhan717) | u.khan | NTi Audio AG |  | Liechtenstein | 93 |

@@ -1,8 +1,8 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-07T07:37:37.468Z
+Generated: 2026-10-07T08:27:42.009Z
 
-Users: 735
+Users: 734
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

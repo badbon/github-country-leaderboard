@@ -1,12 +1,12 @@
 # Followers - Barbados
 
-Generated: 2026-10-07T07:37:46.043Z
+Generated: 2026-10-07T08:27:49.907Z
 
 Users: 133
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 553 |
+| 1 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 549 |
 | 2 | [kaku2015](https://github.com/kaku2015) | FishingNet | ｴﾇﾃｨﾃｨ ﾃﾞｰﾀ |  | Barbados | 424 |
 | 3 | [iRoachie](https://github.com/iRoachie) | Kyle Roach |  | roach_iam | Barbados | 296 |
 | 4 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 273 |
@@ -21,7 +21,7 @@ Users: 133
 | 13 | [EnSabanNur](https://github.com/EnSabanNur) | Ben Clark | @smithai  |  | Christ Church, Barbados | 18 |
 | 14 | [jasonals](https://github.com/jasonals) | Jason Als | @mMoneyBB |  | Barbados | 18 |
 | 15 | [mr-emreerturk](https://github.com/mr-emreerturk) | Emre Ertürk | EMF | mr_emreerturk | Bridgetown, Barbados | 17 |
-| 16 | [angustatchell](https://github.com/angustatchell) | Angus Tatchell | @halotrade @chattan-co @sportsfix-co |  | Christ Church, Barbados | 15 |
+| 16 | [angustatchell](https://github.com/angustatchell) | Angus Tatchell | @halotrade @chattan-co @sportsfix-co |  | Christ Church, Barbados | 16 |
 | 17 | [stojan211287](https://github.com/stojan211287) | Stan Jardani |  |  | Barbados | 14 |
 | 18 | [cgoodridge](https://github.com/cgoodridge) |  |  |  | Barbados | 12 |
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | M&E Partners Limited |  | St. Phillips, Barbados, W.I. | 12 |

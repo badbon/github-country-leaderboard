@@ -45,9 +45,9 @@ Indexed users: 2,510
 | 6 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,942 |
 | 7 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | Luanda | 1,899 |
 | 8 | [angelo-francisco](https://github.com/angelo-francisco) | Ângelo Francisco | Luanda, Angola | 1,627 |
-| 9 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,343 |
-| 10 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,273 |
-| 11 | [Emicy963](https://github.com/Emicy963) | Cafu Dev | Huambo, Angola | 1,217 |
+| 9 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,273 |
+| 10 | [Emicy963](https://github.com/Emicy963) | Cafu Dev | Huambo, Angola | 1,217 |
+| 11 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,200 |
 | 12 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
 | 13 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga | Angola | 1,090 |
 | 14 | [tiagomatias930](https://github.com/tiagomatias930) | Tiago Matias  | Luanda-Talatona | 980 |
@@ -68,7 +68,7 @@ Indexed users: 2,510
 | 4 | [JoseCage](https://github.com/JoseCage) | José Cage  | Luanda, Angola | 406 |
 | 5 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Angola, Luanda | 388 |
 | 6 | [westjoao12](https://github.com/westjoao12) | West João | Angola, Luanda | 349 |
-| 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | Luanda, Angola | 288 |
+| 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | Luanda, Angola | 294 |
 | 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule | Luanda, Angola | 272 |
 | 9 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | Angola/Luanda | 258 |
 | 10 | [gentildpinto](https://github.com/gentildpinto) | Gentil Pinto | Luanda, Angola | 257 |
@@ -83,4 +83,4 @@ Indexed users: 2,510
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-07T07:35:03.128Z
+Generated: 2026-10-07T08:26:13.790Z

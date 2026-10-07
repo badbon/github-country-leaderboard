@@ -19,9 +19,9 @@ Indexed users: 453
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 3,792 |
 | 6 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,084 |
 | 7 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,023 |
-| 8 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,316 |
-| 9 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 2,289 |
-| 10 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 1,944 |
+| 8 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,345 |
+| 9 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,316 |
+| 10 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 2,289 |
 | 11 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 1,878 |
 | 12 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 1,776 |
 | 13 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,668 |
@@ -83,4 +83,4 @@ Indexed users: 453
 | 19 | [greatzh](https://github.com/greatzh) | Zihao Zhang | macao | 65 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 61 |
 
-Generated: 2026-10-07T07:09:48.430Z
+Generated: 2026-10-07T08:04:27.434Z

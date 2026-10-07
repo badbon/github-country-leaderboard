@@ -1,6 +1,6 @@
 # Public Contributions - Madagascar
 
-Generated: 2026-10-07T07:10:01.574Z
+Generated: 2026-10-07T08:04:31.326Z
 
 Users: 1920
 
@@ -10,13 +10,13 @@ Users: 1920
 | 2 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 5293 |
 | 3 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 3862 |
 | 4 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 3215 |
-| 5 | [DavFilsDev](https://github.com/DavFilsDev) | F Miharisoa David Fils RATIANDRAIBE |  |  | Antananarivo Madagascar | 2891 |
-| 6 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 2868 |
-| 7 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | IT University |  | Madagascar | 2423 |
-| 8 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu |  |  | Madagascar | 2222 |
-| 9 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 1951 |
-| 10 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 1907 |
-| 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | IT University | loricktsarazaka | Madagascar | 1872 |
+| 5 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 2948 |
+| 6 | [DavFilsDev](https://github.com/DavFilsDev) | F Miharisoa David Fils RATIANDRAIBE |  |  | Antananarivo Madagascar | 2891 |
+| 7 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 2868 |
+| 8 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | IT University |  | Madagascar | 2423 |
+| 9 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu |  |  | Madagascar | 2222 |
+| 10 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | IT University | loricktsarazaka | Madagascar | 1932 |
+| 11 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 1907 |
 | 12 | [RazanajoharyNyHasina](https://github.com/RazanajoharyNyHasina) | Ny Hasina |  |  | Antananarivo | 1793 |
 | 13 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio |  |  | Antananarivo, MADAGASCAR | 1771 |
 | 14 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA |  |  | madagascar | 1558 |

@@ -1,6 +1,6 @@
 # Belgium
 
-Indexed users: 18,405
+Indexed users: 18,404
 
 | Leaderboard | Link |
 |---|---|
@@ -17,10 +17,10 @@ Indexed users: 18,405
 | 3 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet | Waregem, Belgium | 24,124 |
 | 4 | [phmatray](https://github.com/phmatray) | Philippe Matray | Belgium | 22,954 |
 | 5 | [huaxel](https://github.com/huaxel) | Juan Benjumea | Brussels | 19,875 |
-| 6 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,233 |
-| 7 | [Laurens-Nys](https://github.com/Laurens-Nys) | Laurens Nys | Belgium | 17,096 |
-| 8 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | Liège, Belgium | 17,056 |
-| 9 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | Brussels  | 16,438 |
+| 6 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | Brussels  | 19,428 |
+| 7 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,233 |
+| 8 | [Laurens-Nys](https://github.com/Laurens-Nys) | Laurens Nys | Belgium | 17,096 |
+| 9 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | Liège, Belgium | 17,056 |
 | 10 | [brtdv](https://github.com/brtdv) | Bert Devriese | Ghent x Bruges, Belgium | 15,360 |
 | 11 | [wouterds](https://github.com/wouterds) | Wouter | Ghent, Belgium | 14,883 |
 | 12 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Belgium | 14,464 |
@@ -83,4 +83,4 @@ Indexed users: 18,405
 | 19 | [erikdubois](https://github.com/erikdubois) | Erik Dubois | Belgium | 1,200 |
 | 20 | [hazexone](https://github.com/hazexone) | Haze | Brussels | 1,181 |
 
-Generated: 2026-10-07T07:37:53.271Z
+Generated: 2026-10-07T08:28:12.760Z

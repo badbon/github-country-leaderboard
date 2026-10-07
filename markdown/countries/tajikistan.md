@@ -1,6 +1,6 @@
 # Tajikistan
 
-Indexed users: 712
+Indexed users: 711
 
 | Leaderboard | Link |
 |---|---|
@@ -47,16 +47,16 @@ Indexed users: 712
 | 8 | [bezhan2009](https://github.com/bezhan2009) | Karimov Bezhan | Tajikistan | 788 |
 | 9 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 773 |
 | 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Dushanbe, Tajikistan | 760 |
-| 11 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 658 |
-| 12 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov | Dushanbe, Tajikistan | 518 |
+| 11 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov | Dushanbe, Tajikistan | 671 |
+| 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 658 |
 | 13 | [Roma-723](https://github.com/Roma-723) | Yusufjon | Dushanbe | 466 |
 | 14 | [llcsanjar](https://github.com/llcsanjar) | Sanjar | Tajikistan | 443 |
-| 15 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor | Tajikistan | 437 |
-| 16 | [rustamovy9](https://github.com/rustamovy9) |  | Dushanbe,Tajikistan | 428 |
+| 15 | [rustamovy9](https://github.com/rustamovy9) |  | Dushanbe,Tajikistan | 428 |
+| 16 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor | Tajikistan | 419 |
 | 17 | [Ismatjonov](https://github.com/Ismatjonov) | Bakhtovar Ismatjonov | Tajikistan, Khujand | 416 |
-| 18 | [Melikzoda-Muslihiddin](https://github.com/Melikzoda-Muslihiddin) | Muslim Melikzoda | Dushanbe | 382 |
-| 19 | [adilovcode](https://github.com/adilovcode) | Umar Adilov | Dushanbe | 371 |
-| 20 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | Dushanbe | 364 |
+| 18 | [podshoevbunyod16-sketch](https://github.com/podshoevbunyod16-sketch) | Bunyod | Tajikistan  | 394 |
+| 19 | [Melikzoda-Muslihiddin](https://github.com/Melikzoda-Muslihiddin) | Muslim Melikzoda | Dushanbe | 382 |
+| 20 | [shodruzhoshimzoda](https://github.com/shodruzhoshimzoda) | Shodruz Hoshimzoda  | Dushanbe, Tajikistan  | 374 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 712
 | 19 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 46 |
 
-Generated: 2026-10-07T07:28:41.892Z
+Generated: 2026-10-07T08:18:52.898Z

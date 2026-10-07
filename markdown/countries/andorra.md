@@ -24,14 +24,14 @@ Indexed users: 214
 | 10 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 3,714 |
 | 11 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 3,699 |
 | 12 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 3,385 |
-| 13 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,169 |
-| 14 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
-| 15 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 3,014 |
-| 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 2,706 |
-| 17 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 2,436 |
-| 18 | [RemyMachado](https://github.com/RemyMachado) | Rémy Machado | Andorra la Vella, Andorra | 2,430 |
-| 19 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 2,263 |
-| 20 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 2,095 |
+| 13 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,333 |
+| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,169 |
+| 15 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
+| 16 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 3,014 |
+| 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 2,706 |
+| 18 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 2,436 |
+| 19 | [RemyMachado](https://github.com/RemyMachado) | Rémy Machado | Andorra la Vella, Andorra | 2,430 |
+| 20 | [sjuanati](https://github.com/sjuanati) | Sergi Juanati | Andorra | 2,109 |
 
 ## Public Contributions
 
@@ -40,17 +40,17 @@ Indexed users: 214
 | 1 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,641 |
 | 2 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 1,513 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 907 |
-| 4 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 695 |
-| 5 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 661 |
-| 6 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 623 |
+| 4 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 710 |
+| 5 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 695 |
+| 6 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 661 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 622 |
 | 8 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 613 |
 | 9 | [iuriaranda](https://github.com/iuriaranda) | iuri | Andorra | 600 |
 | 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 512 |
 | 11 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 482 |
 | 12 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 449 |
-| 13 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 447 |
-| 14 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 398 |
+| 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 398 |
+| 14 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 371 |
 | 15 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Andorra | 315 |
 | 16 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 217 |
 | 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Andorra | 197 |
@@ -83,4 +83,4 @@ Indexed users: 214
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 58 |
 
-Generated: 2026-10-07T07:34:58.172Z
+Generated: 2026-10-07T08:25:41.137Z

@@ -1,8 +1,8 @@
 # Followers - Suriname
 
-Generated: 2026-10-07T07:27:38.321Z
+Generated: 2026-10-07T08:18:15.533Z
 
-Users: 124
+Users: 123
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

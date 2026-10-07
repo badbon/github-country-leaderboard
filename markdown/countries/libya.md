@@ -1,6 +1,6 @@
 # Libya
 
-Indexed users: 752
+Indexed users: 751
 
 | Leaderboard | Link |
 |---|---|
@@ -39,8 +39,8 @@ Indexed users: 752
 |---:|---|---|---|---:|
 | 1 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 2,889 |
 | 2 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY | Libya | 1,079 |
-| 3 | [BobbyJoeCool](https://github.com/BobbyJoeCool) | Robert Breutzmann | Tripoli, Iowa | 847 |
-| 4 | [safwan12salem](https://github.com/safwan12salem) | Safwan Salem  | libya | 819 |
+| 3 | [safwan12salem](https://github.com/safwan12salem) | Safwan Salem  | libya | 1,020 |
+| 4 | [BobbyJoeCool](https://github.com/BobbyJoeCool) | Robert Breutzmann | Tripoli, Iowa | 847 |
 | 5 | [azzubairx](https://github.com/azzubairx) | Azzubair | Libya | 704 |
 | 6 | [hazembook](https://github.com/hazembook) | Hazem Shaban | Libya | 669 |
 | 7 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih | Libya | 661 |
@@ -83,4 +83,4 @@ Indexed users: 752
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 50 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 46 |
 
-Generated: 2026-10-07T07:09:25.960Z
+Generated: 2026-10-07T08:01:17.305Z

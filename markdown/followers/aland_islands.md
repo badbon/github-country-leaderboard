@@ -1,6 +1,6 @@
 # Followers - Åland Islands
 
-Generated: 2026-10-07T07:33:54.912Z
+Generated: 2026-10-07T08:24:52.298Z
 
 Users: 61
 
@@ -11,7 +11,7 @@ Users: 61
 | 3 | [Ramona-Ekanayake](https://github.com/Ramona-Ekanayake) | Ramona Ekanayake | grit:lab | Ramzy_dev | Åland Islands | 54 |
 | 4 | [jesjos](https://github.com/jesjos) | Jesper Josefsson |  |  | Mariehamn, Åland | 30 |
 | 5 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 25 |
-| 6 | [johanwestling](https://github.com/johanwestling) | Johan Westling | @Aventyret |  | Åland, Finland | 24 |
+| 6 | [johanwestling](https://github.com/johanwestling) | Johan Westling | @Aventyret |  | Åland, Finland | 23 |
 | 7 | [tvntvn13](https://github.com/tvntvn13) | Taneli Mäkihannu | @pafcloud |  | Mariehamn, Åland Islands | 21 |
 | 8 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh |  |  | Mariehamn, Åland islands | 19 |
 | 9 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland University of Applied Sciences |  | Åland Islands | 18 |

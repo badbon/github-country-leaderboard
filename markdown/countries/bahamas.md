@@ -1,6 +1,6 @@
 # Bahamas
 
-Indexed users: 240
+Indexed users: 238
 
 | Leaderboard | Link |
 |---|---|
@@ -28,9 +28,9 @@ Indexed users: 240
 | 14 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 787 |
 | 15 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 786 |
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 566 |
-| 17 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 500 |
-| 18 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 386 |
-| 19 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 360 |
+| 17 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 545 |
+| 18 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 500 |
+| 19 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 386 |
 | 20 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 276 |
 
 ## Public Contributions
@@ -49,14 +49,14 @@ Indexed users: 240
 | 10 | [bmo242](https://github.com/bmo242) | Brandon Morrison | Nassau, Bahamas | 112 |
 | 11 | [CooperSandra](https://github.com/CooperSandra) | Sandra | Bahamas | 99 |
 | 12 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 99 |
-| 13 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 87 |
-| 14 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 84 |
-| 15 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 84 |
-| 16 | [EnochThurston42](https://github.com/EnochThurston42) | Enoch Thurston | Nassau, Bahamas | 59 |
-| 17 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 59 |
-| 18 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 57 |
-| 19 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 55 |
-| 20 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 46 |
+| 13 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 84 |
+| 14 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 84 |
+| 15 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 59 |
+| 16 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 57 |
+| 17 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 55 |
+| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 46 |
+| 19 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 42 |
+| 20 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 41 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 240
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 13 |
 
-Generated: 2026-10-07T07:37:34.590Z
+Generated: 2026-10-07T08:27:38.787Z

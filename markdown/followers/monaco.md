@@ -1,12 +1,12 @@
 # Followers - Monaco
 
-Generated: 2026-10-07T07:11:23.252Z
+Generated: 2026-10-07T08:06:47.156Z
 
 Users: 142
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [aplatoff](https://github.com/aplatoff) | Andrey Platov | Huly Labs | huly_architect | Monaco | 130 |
+| 1 | [aplatoff](https://github.com/aplatoff) | Andrey Platov | Huly Labs | huly_architect | Monaco | 132 |
 | 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 94 |
 | 3 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Université Nice Côte D'Azur |  | Monaco  | 40 |
 | 4 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 40 |
@@ -14,8 +14,8 @@ Users: 142
 | 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 33 |
 | 7 | [zertawz](https://github.com/zertawz) | Jean-Christophe BURNOT | CPE LYON | jeanchrisbrnt | MONACO / LYON / LAUSANNE | 30 |
 | 8 | [jmbertin](https://github.com/jmbertin) | Jean-Michel Bertin | MVE |  | Monaco | 24 |
-| 9 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 22 |
-| 10 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 |  | hedgequantx | Monte-Carlo, Monaco | 18 |
+| 9 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 |  | hedgequantx | Monte-Carlo, Monaco | 22 |
+| 10 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 22 |
 | 11 | [bait-archived](https://github.com/bait-archived) | Beryllium (Privated...) | YTABYTE |  | Fontevielle, Monaco | 17 |
 | 12 | [SilencyDev](https://github.com/SilencyDev) | Kevin Macquet | Modulus | KvnMacquet | Monaco | 17 |
 | 13 | [z2sx](https://github.com/z2sx) | Andrey Platov | @anticrm  |  | Monaco | 17 |

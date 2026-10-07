@@ -1,8 +1,8 @@
 # Followers - Luxembourg
 
-Generated: 2026-10-07T07:09:42.910Z
+Generated: 2026-10-07T08:02:59.925Z
 
-Users: 2215
+Users: 2214
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

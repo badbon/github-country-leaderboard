@@ -1,8 +1,8 @@
 # Followers - Bahamas
 
-Generated: 2026-10-07T07:37:34.590Z
+Generated: 2026-10-07T08:27:38.787Z
 
-Users: 240
+Users: 238
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,8 +1,8 @@
 # Followers - Niger
 
-Generated: 2026-10-07T07:13:04.114Z
+Generated: 2026-10-07T08:08:29.319Z
 
-Users: 177
+Users: 176
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

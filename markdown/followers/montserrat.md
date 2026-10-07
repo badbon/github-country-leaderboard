@@ -1,8 +1,8 @@
 # Followers - Montserrat
 
-Generated: 2026-10-07T07:11:40.994Z
+Generated: 2026-10-07T08:06:57.015Z
 
-Users: 294
+Users: 293
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

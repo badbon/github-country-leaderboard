@@ -1,6 +1,6 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-07T07:21:55.305Z
+Generated: 2026-10-07T08:15:11.677Z
 
 Users: 1366
 
@@ -15,14 +15,14 @@ Users: 1366
 | 7 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group \| Innolink | Moussa Ndour |  | Dakar | 4337 |
 | 8 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 4025 |
 | 9 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué |  |  | Dakar | 3861 |
-| 10 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | @efficity | eliusx | Senegal | 3776 |
-| 11 | [crossben](https://github.com/crossben) |  |  |  | Dakar | 3576 |
-| 12 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly |  | jac0164 | Dakar, Senegal | 3507 |
-| 13 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour |  |  | Rufisque, Dakar, Sénégal | 3307 |
-| 14 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Ridwan Technologie |  | Dakar | 3206 |
-| 15 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Dexchange | Denver_sn | Senegal,Dakar | 3178 |
-| 16 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | National Agency of Statistic and Demography | IbrahimaTall_SN | Dakar, Senegal | 3173 |
-| 17 | [BOUNADRAME](https://github.com/BOUNADRAME) | Bouna DRAMÉ | StatPro Consulting / DSTECHS | bouna_drame | Dakar, Senegal | 3047 |
-| 18 | [flrxnt](https://github.com/flrxnt) | Florent Azonnoudo | @ARCOPSN  |  | Dakar, Sénégal | 3034 |
-| 19 | [ndiaye70](https://github.com/ndiaye70) | Pape Abdoulaye Ndiaye |  |  | Senegal,Dakar | 3022 |
-| 20 | [tamsir](https://github.com/tamsir) | Tamsir SENE | FATH SERVICES |  | Dakar (Sénégal) | 3003 |
+| 10 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf |  |  | Dakar  | 3828 |
+| 11 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | @efficity | eliusx | Senegal | 3776 |
+| 12 | [crossben](https://github.com/crossben) |  |  |  | Dakar | 3576 |
+| 13 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly |  | jac0164 | Dakar, Senegal | 3507 |
+| 14 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour |  |  | Rufisque, Dakar, Sénégal | 3307 |
+| 15 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Ridwan Technologie |  | Dakar | 3206 |
+| 16 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Dexchange | Denver_sn | Senegal,Dakar | 3178 |
+| 17 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | National Agency of Statistic and Demography | IbrahimaTall_SN | Dakar, Senegal | 3173 |
+| 18 | [BOUNADRAME](https://github.com/BOUNADRAME) | Bouna DRAMÉ | StatPro Consulting / DSTECHS | bouna_drame | Dakar, Senegal | 3047 |
+| 19 | [flrxnt](https://github.com/flrxnt) | Florent Azonnoudo | @ARCOPSN  |  | Dakar, Sénégal | 3034 |
+| 20 | [ndiaye70](https://github.com/ndiaye70) | Pape Abdoulaye Ndiaye |  |  | Senegal,Dakar | 3022 |

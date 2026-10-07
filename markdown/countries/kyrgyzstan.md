@@ -25,13 +25,13 @@ Indexed users: 2,464
 | 11 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 4,702 |
 | 12 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 4,549 |
 | 13 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,386 |
-| 14 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,232 |
-| 15 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,042 |
-| 16 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik | Bishkek | 4,038 |
-| 17 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 3,873 |
-| 18 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 3,615 |
-| 19 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 3,338 |
-| 20 | [Donkasta](https://github.com/Donkasta) | Aidin | Bishkek | 3,221 |
+| 14 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
+| 15 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,232 |
+| 16 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,042 |
+| 17 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik | Bishkek | 4,038 |
+| 18 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 3,873 |
+| 19 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 3,615 |
+| 20 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 3,338 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,464
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 101 |
 
-Generated: 2026-10-07T07:07:13.869Z
+Generated: 2026-10-07T07:59:46.778Z

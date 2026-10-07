@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-07T07:09:48.430Z
+Generated: 2026-10-07T08:04:27.434Z
 
 Users: 453
 
@@ -13,9 +13,9 @@ Users: 453
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu |  |  | Macau | 3792 |
 | 6 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3084 |
 | 7 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3023 |
-| 8 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2316 |
-| 9 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 2289 |
-| 10 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 1944 |
+| 8 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 2345 |
+| 9 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2316 |
+| 10 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 2289 |
 | 11 | [Yh1sam](https://github.com/Yh1sam) |  | Pui Ching Middle School |  | Macau | 1878 |
 | 12 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 1776 |
 | 13 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo |  |  | Macau | 1668 |

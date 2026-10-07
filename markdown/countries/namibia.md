@@ -12,10 +12,10 @@ Indexed users: 475
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 13,882 |
+| 1 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 10,153 |
 | 2 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 6,457 |
-| 3 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 5,610 |
-| 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 4,522 |
+| 3 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 6,282 |
+| 4 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 5,610 |
 | 5 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | namibia,Africa | 4,066 |
 | 6 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 3,998 |
 | 7 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | Namibia | 3,679 |
@@ -37,20 +37,20 @@ Indexed users: 475
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 1,857 |
-| 2 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,051 |
-| 3 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 822 |
-| 4 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 651 |
-| 5 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 628 |
-| 6 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 575 |
-| 7 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden | Namibia | 416 |
-| 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 407 |
-| 9 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 384 |
-| 10 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 372 |
+| 1 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 2,203 |
+| 2 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 1,857 |
+| 3 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 1,808 |
+| 4 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,051 |
+| 5 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 822 |
+| 6 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 651 |
+| 7 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 628 |
+| 8 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden | Namibia | 416 |
+| 9 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 407 |
+| 10 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 384 |
 | 11 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 329 |
 | 12 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 321 |
-| 13 | [LukeCloete](https://github.com/LukeCloete) | Luke Cloete | Windhoek, Namibia | 266 |
-| 14 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 240 |
+| 13 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 271 |
+| 14 | [LukeCloete](https://github.com/LukeCloete) | Luke Cloete | Windhoek, Namibia | 266 |
 | 15 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung | Windhoek, Namibia | 237 |
 | 16 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 230 |
 | 17 | [sein-pr](https://github.com/sein-pr) | Sein Muwana | Namibia  | 229 |
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [rigred](https://github.com/rigred) | Rigo Reddig | Namibia | 34 |
 
-Generated: 2026-10-07T07:12:41.587Z
+Generated: 2026-10-07T08:07:40.474Z

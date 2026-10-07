@@ -1,12 +1,12 @@
 # Public Contributions - Aruba
 
-Generated: 2026-10-07T07:36:05.894Z
+Generated: 2026-10-07T08:27:08.042Z
 
 Users: 38
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Cornerstone Economics / Lovely Data |  | Aruba | 576 |
+| 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Cornerstone Economics / Lovely Data |  | Aruba | 584 |
 | 2 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 495 |
 | 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | BlueKoala |  | Oranjestad, Aruba | 201 |
 | 4 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Next Inn Games |  | Aruba | 113 |

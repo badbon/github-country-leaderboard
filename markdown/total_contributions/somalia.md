@@ -1,15 +1,15 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-07T07:26:23.607Z
+Generated: 2026-10-07T08:17:21.108Z
 
 Users: 866
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman | Zifala Technologies | moha_a_osman | Mogadishu, Banaadir, Somalia | 7329 |
-| 2 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 6610 |
-| 3 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 6286 |
-| 4 | [abdirahman-sharmarke](https://github.com/abdirahman-sharmarke) | ᵃᵇᵈⁱ | Astaan  |  | Somalia/ Mogdisho | 5794 |
+| 1 | [abdirahman-sharmarke](https://github.com/abdirahman-sharmarke) | ᵃᵇᵈⁱ | Astaan  |  | Somalia/ Mogdisho | 8466 |
+| 2 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman | Zifala Technologies | moha_a_osman | Mogadishu, Banaadir, Somalia | 7329 |
+| 3 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 6610 |
+| 4 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 6286 |
 | 5 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | @kaabeup, @waagefaal | Mustafaa4A | Mogadishu, Somalia | 5362 |
 | 6 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Bulsho Development Bank | baabale | Mogadishu, Somalia | 5231 |
 | 7 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4869 |

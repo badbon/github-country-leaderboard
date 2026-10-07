@@ -1,6 +1,6 @@
 # Belarus
 
-Indexed users: 10,956
+Indexed users: 10,955
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 10,956
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-10-07T07:37:50.348Z
+Generated: 2026-10-07T08:27:55.706Z

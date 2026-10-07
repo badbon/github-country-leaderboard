@@ -1,15 +1,15 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-07T07:09:25.960Z
+Generated: 2026-10-07T08:01:17.305Z
 
-Users: 752
+Users: 751
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libyan Spider |  | Libya | 2889 |
 | 2 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY |  |  | Libya | 1079 |
-| 3 | [BobbyJoeCool](https://github.com/BobbyJoeCool) | Robert Breutzmann |  |  | Tripoli, Iowa | 847 |
-| 4 | [safwan12salem](https://github.com/safwan12salem) | Safwan Salem  |  |  | libya | 819 |
+| 3 | [safwan12salem](https://github.com/safwan12salem) | Safwan Salem  |  |  | libya | 1020 |
+| 4 | [BobbyJoeCool](https://github.com/BobbyJoeCool) | Robert Breutzmann |  |  | Tripoli, Iowa | 847 |
 | 5 | [azzubairx](https://github.com/azzubairx) | Azzubair |  |  | Libya | 704 |
 | 6 | [hazembook](https://github.com/hazembook) | Hazem Shaban | College of Engineering Technology - Janzour | hazembook | Libya | 669 |
 | 7 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih |  |  | Libya | 661 |

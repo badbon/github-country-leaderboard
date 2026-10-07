@@ -1,6 +1,6 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-07T07:17:53.769Z
+Generated: 2026-10-07T08:10:08.064Z
 
 Users: 296
 
@@ -16,13 +16,13 @@ Users: 296
 | 8 | [jm0535](https://github.com/jm0535) | Jimmy Moses |  |  | Papua New Guinea | 1790 |
 | 9 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande |  |  | Port Moresby, Papua New Guinea | 1138 |
 | 10 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Alef Digital Solutions |  | Port Moresby | 1079 |
-| 11 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 874 |
-| 12 | [jebudo](https://github.com/jebudo) | Jesse Biribudo |  |  | Port Moresby, Papua New Guinea | 835 |
-| 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Yumi Code |  | Port Moresby, 5 Mile | 821 |
-| 14 | [Amesi](https://github.com/Amesi) | Victor Temokang |  |  | Papua New Guinea | 483 |
-| 15 | [TMJ-24](https://github.com/TMJ-24) | tmj | https://jershmamet.com |  | Port Moresby | 447 |
-| 16 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan |  |  | Mt Hagen, Western Highlands Province, Papua New Guinea | 294 |
-| 17 | [Valdaz007](https://github.com/Valdaz007) | Victor Volsavai | Next Town Technology Ltd |  | Port Moresby, Papua New Guinea | 282 |
-| 18 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 276 |
-| 19 | [gbajesns](https://github.com/gbajesns) | Gabriel Baje | SNS Tech  |  | Papua New Guinea | 269 |
-| 20 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Self-Employed |  | Port Moresby, Papua New Guinea | 245 |
+| 11 | [nessktn](https://github.com/nessktn) | Johannes Kutan |  |  | Papua New Guinea | 1048 |
+| 12 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 874 |
+| 13 | [jebudo](https://github.com/jebudo) | Jesse Biribudo |  |  | Port Moresby, Papua New Guinea | 835 |
+| 14 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Yumi Code |  | Port Moresby, 5 Mile | 821 |
+| 15 | [Amesi](https://github.com/Amesi) | Victor Temokang |  |  | Papua New Guinea | 483 |
+| 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | https://jershmamet.com |  | Port Moresby | 447 |
+| 17 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan |  |  | Mt Hagen, Western Highlands Province, Papua New Guinea | 294 |
+| 18 | [Valdaz007](https://github.com/Valdaz007) | Victor Volsavai | Next Town Technology Ltd |  | Port Moresby, Papua New Guinea | 282 |
+| 19 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 276 |
+| 20 | [gbajesns](https://github.com/gbajesns) | Gabriel Baje | SNS Tech  |  | Papua New Guinea | 269 |

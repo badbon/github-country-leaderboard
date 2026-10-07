@@ -1,8 +1,8 @@
 # Total Contributions - Maldives
 
-Generated: 2026-10-07T07:10:27.359Z
+Generated: 2026-10-07T08:04:41.079Z
 
-Users: 357
+Users: 356
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 357
 | 13 | [ayarse](https://github.com/ayarse) | ayaz |  |  | Maldives | 3803 |
 | 14 | [N4ZEN](https://github.com/N4ZEN) | Naza |  |  | Maldives | 3771 |
 | 15 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 3542 |
-| 16 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | DNS PIPES Inc. |  | Maldives | 3517 |
-| 17 | [jaaahh](https://github.com/jaaahh) | Jaah | @urbanpiper  |  | Maldives | 3140 |
-| 18 | [boring-dragon](https://github.com/boring-dragon) | Boring Dragon | @synetecs @oxiqa @mihaaru | boring_dragon | Maldives | 2875 |
-| 19 | [musaid](https://github.com/musaid) | musaid | @LottieFiles  | musaid | Maldives | 2858 |
-| 20 | [ibnnajjaar](https://github.com/ibnnajjaar) | Hussain Afeef | @iummv  | hucenafeef | Male', Maldives | 2783 |
+| 16 | [yaambe](https://github.com/yaambe) | Yaambe | Javaabu |  | Maldives | 3524 |
+| 17 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | DNS PIPES Inc. |  | Maldives | 3517 |
+| 18 | [jaaahh](https://github.com/jaaahh) | Jaah | @urbanpiper  |  | Maldives | 3140 |
+| 19 | [boring-dragon](https://github.com/boring-dragon) | Boring Dragon | @synetecs @oxiqa @mihaaru | boring_dragon | Maldives | 2875 |
+| 20 | [musaid](https://github.com/musaid) | musaid | @LottieFiles  | musaid | Maldives | 2858 |

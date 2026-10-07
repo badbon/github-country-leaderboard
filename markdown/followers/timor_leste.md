@@ -1,12 +1,12 @@
 # Followers - Timor-Leste
 
-Generated: 2026-10-07T07:29:09.763Z
+Generated: 2026-10-07T08:19:04.630Z
 
 Users: 77
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes |  | 0x_Akoko | Timor-Leste | 68 |
+| 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes |  | 0x_Akoko | Timor-Leste | 72 |
 | 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo |  |  | Timor Leste  | 34 |
 | 3 | [Evangelino](https://github.com/Evangelino) | Evangelino Ximenes | Internship Program in TIC TIMOR I.P. | ximenesevang | Hera, Dili, Timor Leste | 26 |
 | 4 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  |  |  | East-Timor | 17 |
@@ -22,7 +22,7 @@ Users: 77
 | 14 | [dupp21](https://github.com/dupp21) | Domingos Bento Pereira |  |  | Dili, Timor-Leste | 7 |
 | 15 | [FlavioCristinoBubu](https://github.com/FlavioCristinoBubu) | Flavio11 |  |  | Timor-Leste | 7 |
 | 16 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | UNTL |  | Dili | 7 |
-| 17 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala |  |  | Dili, Timor Leste | 6 |
-| 18 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Freelancer |  | Dili, Timor-Leste 🇹🇱 | 6 |
-| 19 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | @catalpainternational  |  | Dili, Timor-Leste | 5 |
-| 20 | [mariojdfxa0505](https://github.com/mariojdfxa0505) | Mario Joseferino de Fatima Ximenes Amaral | Tosc Academy |  | Dili Timor-Leste | 5 |
+| 17 | [BKHONEL](https://github.com/BKHONEL) | [ KHONEL ] | K-40 Service | My_Khonel | Timor Leste | 6 |
+| 18 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala |  |  | Dili, Timor Leste | 6 |
+| 19 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Freelancer |  | Dili, Timor-Leste 🇹🇱 | 6 |
+| 20 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | @catalpainternational  |  | Dili, Timor-Leste | 5 |

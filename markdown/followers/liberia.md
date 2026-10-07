@@ -1,18 +1,18 @@
 # Followers - Liberia
 
-Generated: 2026-10-07T07:08:56.706Z
+Generated: 2026-10-07T08:01:06.806Z
 
 Users: 210
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. |  | mdsomah | Monrovia, Liberia | 310 |
+| 1 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. |  | mdsomah | Monrovia, Liberia | 305 |
 | 2 | [BugHunter-SN](https://github.com/BugHunter-SN) | Samuel E. H. Nimely | @SparkSolutionsLib \| @JesTech-Liberia | nimelythegreat |  Monrovia Liberia. West Africa | 167 |
 | 3 | [Massaquoi716](https://github.com/Massaquoi716) | Massaquoi L Dehmie |  | developer_mass | Liberia | 148 |
 | 4 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 145 |
 | 5 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 129 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 101 |
-| 7 | [timtjoe](https://github.com/timtjoe) | Timothy T. Joe |  | timothytjoe | Liberia, West Africa | 58 |
+| 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe |  |  | Liberia, West Africa | 63 |
 | 8 | [benjaminangafua](https://github.com/benjaminangafua) | Benjamin A. Ngafua |  |  | Liberia | 50 |
 | 9 | [Ravenstine](https://github.com/Ravenstine) | Ten Bitcomb |  |  | Monrovia, CA | 39 |
 | 10 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad |  | xarrijorge | Monrovia, Liberia | 34 |

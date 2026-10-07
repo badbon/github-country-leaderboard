@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-07T07:28:29.027Z
+Generated: 2026-10-07T08:18:27.503Z
 
 Users: 1477
 
@@ -23,6 +23,6 @@ Users: 1477
 | 15 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki |  |  | Syria | 644 |
 | 16 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | L-One Systems |  | Damascus, Syria | 629 |
 | 17 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Code Machine |  | Syria | 582 |
-| 18 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 557 |
-| 19 | [Mounir-Almzayek](https://github.com/Mounir-Almzayek) | Mounir-Almzayek | Realistic solutions for IT  |  | Damascus Governorate, Syria  | 554 |
-| 20 | [LeadstarlingX](https://github.com/LeadstarlingX) | Saad Aswad | HIAST |  | Damascus | 550 |
+| 18 | [sam-a1a](https://github.com/sam-a1a) | Sam |  |  | Damascus, Syrian Arab Republic | 574 |
+| 19 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 557 |
+| 20 | [Mounir-Almzayek](https://github.com/Mounir-Almzayek) | Mounir-Almzayek | Realistic solutions for IT  |  | Damascus Governorate, Syria  | 554 |

@@ -45,9 +45,9 @@ Indexed users: 9
 | 3 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau | Tonga | 7 |
 | 4 | [taufa](https://github.com/taufa) | Semisi | Tongatapu, Tonga | 6 |
 | 5 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon | Rachelmouth, Tonga | 5 |
-| 6 | [styxl](https://github.com/styxl) | Joe M | Tonga | 2 |
-| 7 | [james151br](https://github.com/james151br) | James | Tonga | 1 |
+| 6 | [james151br](https://github.com/james151br) | James | Tonga | 2 |
+| 7 | [styxl](https://github.com/styxl) | Joe M | Tonga | 2 |
 | 8 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 1 |
 | 9 | [Pace417](https://github.com/Pace417) | AH | Tonga | 1 |
 
-Generated: 2026-10-07T07:29:15.779Z
+Generated: 2026-10-07T08:19:37.446Z

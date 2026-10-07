@@ -1,8 +1,8 @@
 # Total Contributions - Belgium
 
-Generated: 2026-10-07T07:37:53.271Z
+Generated: 2026-10-07T08:28:12.760Z
 
-Users: 18405
+Users: 18404
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,10 +11,10 @@ Users: 18405
 | 3 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet | Gold Code Group (1000376935) |  | Waregem, Belgium | 24124 |
 | 4 | [phmatray](https://github.com/phmatray) | Philippe Matray | @Atypical-Consulting  |  | Belgium | 22954 |
 | 5 | [huaxel](https://github.com/huaxel) | Juan Benjumea |  |  | Brussels | 19875 |
-| 6 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | @microsoft | SujithQ | Belgium | 19233 |
-| 7 | [Laurens-Nys](https://github.com/Laurens-Nys) | Laurens Nys | Ortelian | laurensnys | Belgium | 17096 |
-| 8 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | @opp-studio  | bmichotte | Liège, Belgium | 17056 |
-| 9 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | @lilidi-ai | tetiana_ai | Brussels  | 16438 |
+| 6 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | @lilidi-ai | tetiana_ai | Brussels  | 19428 |
+| 7 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | @microsoft | SujithQ | Belgium | 19233 |
+| 8 | [Laurens-Nys](https://github.com/Laurens-Nys) | Laurens Nys | Ortelian | laurensnys | Belgium | 17096 |
+| 9 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | @opp-studio  | bmichotte | Liège, Belgium | 17056 |
 | 10 | [brtdv](https://github.com/brtdv) | Bert Devriese |  |  | Ghent x Bruges, Belgium | 15360 |
 | 11 | [wouterds](https://github.com/wouterds) | Wouter | @tallyforms  |  | Ghent, Belgium | 14883 |
 | 12 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Sigma Delta Software Solutions |  | Belgium | 14464 |

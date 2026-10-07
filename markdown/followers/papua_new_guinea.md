@@ -1,13 +1,13 @@
 # Followers - Papua New Guinea
 
-Generated: 2026-10-07T07:17:53.769Z
+Generated: 2026-10-07T08:10:08.064Z
 
 Users: 296
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 239 |
-| 2 | [grecpt](https://github.com/grecpt) | Grecpt | Grecpt |  | Papua New Guinea | 69 |
+| 2 | [grecpt](https://github.com/grecpt) | Grecpt | Grecpt |  | Papua New Guinea | 74 |
 | 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly |  | CieranKelly6 | Port Moresby | 28 |
 | 4 | [nxnmsl0](https://github.com/nxnmsl0) | Nixon Misiel Agregum | Mad Travel |  | PORT MORESBY | 28 |
 | 5 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 26 |

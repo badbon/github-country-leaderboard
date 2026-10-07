@@ -13,7 +13,7 @@ Indexed users: 77
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 5,876 |
-| 2 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 1,960 |
+| 2 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,207 |
 | 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,599 |
 | 4 | [marobo](https://github.com/marobo) | Onorio de Jesus Afonso | Dili, East Timor | 1,236 |
 | 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 826 |
@@ -22,7 +22,7 @@ Indexed users: 77
 | 8 | [raul-amaral](https://github.com/raul-amaral) | Raul Amaral | Timor-Leste | 401 |
 | 9 | [JabesNelma](https://github.com/JabesNelma) | Jay | Dili, Timor-Leste | 327 |
 | 10 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Rua china Rate Lahane Oreintal Dili Timor Leste | 212 |
-| 11 | [adearanda](https://github.com/adearanda) | Aderito Aranda | Av. Vila Verde, Dili Timor Leste | 166 |
+| 11 | [adearanda](https://github.com/adearanda) | Aderito Aranda | Av. Vila Verde, Dili Timor Leste | 153 |
 | 12 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 151 |
 | 13 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Dili, Timor-Leste | 120 |
 | 14 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto | Timor-Leste | 110 |
@@ -30,14 +30,14 @@ Indexed users: 77
 | 16 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala | Dili, Timor Leste | 36 |
 | 17 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in GIS Spatial/Image Analyst, Interested in Photography, Audiovisual Archive and IT-Systems Architect | Dili, Timor-Leste | 35 |
 | 18 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA | Timor-leste | 34 |
-| 19 | [Teflontino](https://github.com/Teflontino) | Tino de Freitas | Dili, Timor Leste | 30 |
-| 20 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | Dili | 26 |
+| 19 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | Dili | 26 |
+| 20 | [Dhax0311](https://github.com/Dhax0311) | Guevara Viana | Timor-Leste | 24 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 1,830 |
+| 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,077 |
 | 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,195 |
 | 3 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 826 |
 | 4 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 718 |
@@ -53,16 +53,16 @@ Indexed users: 77
 | 14 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala | Dili, Timor Leste | 36 |
 | 15 | [timorleste](https://github.com/timorleste) | Degree Background: Information Management (Associate Degree), Information Systems (B.Comp.Sc), Information Technology (M.Eng). Certified Experience in GIS Spatial/Image Analyst, Interested in Photography, Audiovisual Archive and IT-Systems Architect | Dili, Timor-Leste | 35 |
 | 16 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA | Timor-leste | 34 |
-| 17 | [Teflontino](https://github.com/Teflontino) | Tino de Freitas | Dili, Timor Leste | 30 |
-| 18 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | Dili | 26 |
-| 19 | [Dhax0311](https://github.com/Dhax0311) | Guevara Viana | Timor-Leste | 24 |
-| 20 | [XICANO88](https://github.com/XICANO88) | XICANO | Guarda-Iliheu, East Timor | 20 |
+| 17 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | Dili | 26 |
+| 18 | [Dhax0311](https://github.com/Dhax0311) | Guevara Viana | Timor-Leste | 24 |
+| 19 | [XICANO88](https://github.com/XICANO88) | XICANO | Guarda-Iliheu, East Timor | 20 |
+| 20 | [revolta12](https://github.com/revolta12) | NizioDevT | Dili, Timor-Leste | 18 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 68 |
+| 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 72 |
 | 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 34 |
 | 3 | [Evangelino](https://github.com/Evangelino) | Evangelino Ximenes | Hera, Dili, Timor Leste | 26 |
 | 4 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 17 |
@@ -78,9 +78,9 @@ Indexed users: 77
 | 14 | [dupp21](https://github.com/dupp21) | Domingos Bento Pereira | Dili, Timor-Leste | 7 |
 | 15 | [FlavioCristinoBubu](https://github.com/FlavioCristinoBubu) | Flavio11 | Timor-Leste | 7 |
 | 16 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | Dili | 7 |
-| 17 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala | Dili, Timor Leste | 6 |
-| 18 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 6 |
-| 19 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 5 |
-| 20 | [mariojdfxa0505](https://github.com/mariojdfxa0505) | Mario Joseferino de Fatima Ximenes Amaral | Dili Timor-Leste | 5 |
+| 17 | [BKHONEL](https://github.com/BKHONEL) | [ KHONEL ] | Timor Leste | 6 |
+| 18 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala | Dili, Timor Leste | 6 |
+| 19 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 6 |
+| 20 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 5 |
 
-Generated: 2026-10-07T07:29:09.763Z
+Generated: 2026-10-07T08:19:04.630Z

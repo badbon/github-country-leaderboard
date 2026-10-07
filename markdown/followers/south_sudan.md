@@ -1,8 +1,8 @@
 # Followers - South Sudan
 
-Generated: 2026-10-07T07:27:29.694Z
+Generated: 2026-10-07T08:17:52.680Z
 
-Users: 135
+Users: 134
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,8 +1,8 @@
 # Total Contributions - Suriname
 
-Generated: 2026-10-07T07:27:38.321Z
+Generated: 2026-10-07T08:18:15.533Z
 
-Users: 124
+Users: 123
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,8 +13,8 @@ Users: 124
 | 5 | [Beefy-py](https://github.com/Beefy-py) | Kenny Hoft | The Key Initiative | beefykenny | Commwijne, Suriname | 1664 |
 | 6 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | StayDirect |  | Paramaribo | 1603 |
 | 7 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | EndaCore Software | jhon_corella | Paramaribo | 1387 |
-| 8 | [eSaniello](https://github.com/eSaniello) | Shaniel  | @Bits-Please-Technologies | shaniel292 | Suriname | 1080 |
-| 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | @paisrtechnologies  | secondn_ | Suriname | 1014 |
+| 8 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | @paisrtechnologies  | secondn_ | Suriname | 1141 |
+| 9 | [eSaniello](https://github.com/eSaniello) | Shaniel  | @Bits-Please-Technologies | shaniel292 | Suriname | 1080 |
 | 10 | [dmoed](https://github.com/dmoed) | <Don/> |  |  | Paramaribo, Suriname | 861 |
 | 11 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman |  | Giannisanii | Paramaribo, Suriname | 853 |
 | 12 | [devbravo](https://github.com/devbravo) | Diego Sabajo | ZennoAI |  | Paramaribo, Suriname | 751 |

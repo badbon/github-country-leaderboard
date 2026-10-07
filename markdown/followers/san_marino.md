@@ -1,6 +1,6 @@
 # Followers - San Marino
 
-Generated: 2026-10-07T07:21:05.254Z
+Generated: 2026-10-07T08:15:02.087Z
 
 Users: 61
 
@@ -10,15 +10,15 @@ Users: 61
 | 2 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 37 |
 | 3 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | @pop-sm | nicorsm | San Marino | 36 |
 | 4 | [AleRiccardi](https://github.com/AleRiccardi) | Alessandro Riccardi |  |  | San Marino | 32 |
-| 5 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 30 |
+| 5 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 32 |
 | 6 | [stfDeveloper](https://github.com/stfDeveloper) |  |  |  | San Marino | 29 |
 | 7 | [alexsteinerr](https://github.com/alexsteinerr) | Alex Steiner |  |  | San Marino | 18 |
 | 8 | [ellenico77](https://github.com/ellenico77) | Lorenzo Nicoletti | I.e.S. SpA |  | San Marino | 18 |
 | 9 | [gchen98](https://github.com/gchen98) | Gary K. Chen | Pioneer Metals |  | San Marino, CA | 17 |
 | 10 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 17 |
-| 11 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 16 |
-| 12 | [giacomobartoli](https://github.com/giacomobartoli) | Giacomo Bartoli | @IBM |  | San Marino, SMR | 16 |
-| 13 | [nukedbit](https://github.com/nukedbit) | Sebastian Faltoni | Obsidian Game Studios s.r.l. | nukedbit | San Marino | 16 |
+| 11 | [nukedbit](https://github.com/nukedbit) | Sebastian Faltoni | Obsidian Game Studios s.r.l. | nukedbit | San Marino | 17 |
+| 12 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 16 |
+| 13 | [giacomobartoli](https://github.com/giacomobartoli) | Giacomo Bartoli | @IBM |  | San Marino, SMR | 16 |
 | 14 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 16 |
 | 15 | [v1rx](https://github.com/v1rx) | v1r |  |  | San Marino | 16 |
 | 16 | [NeedleCoin](https://github.com/NeedleCoin) | Needle Coin | NeedleCoin |  | San Marino | 14 |

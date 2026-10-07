@@ -1,6 +1,6 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-07T07:08:47.513Z
+Generated: 2026-10-07T08:00:36.623Z
 
 Users: 2576
 
@@ -22,7 +22,7 @@ Users: 2576
 | 14 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 5864 |
 | 15 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 5727 |
 | 16 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | @Instadapp  | KABBOUCHI | Lebanon | 5390 |
-| 17 | [Salah1221](https://github.com/Salah1221) | Salah Najem | @nesco-lb  |  | Tripoli District, North Governorate, Lebanon | 5091 |
-| 18 | [elie-chaaban](https://github.com/elie-chaaban) | Elie Chaaban | ZainTECH at Zain Group |  | Beirut, Lebanon | 5035 |
-| 19 | [MhdTarhini](https://github.com/MhdTarhini) | Mohamad Tarhini |  |  | Beirut,Lebanon | 5029 |
-| 20 | [bwmhamad](https://github.com/bwmhamad) | Mhamad Saad |  |  | Beirut - Lebanon | 4978 |
+| 17 | [Tamer-Halabi](https://github.com/Tamer-Halabi) | tamerrr | anghami |  | Lebanon | 5181 |
+| 18 | [Salah1221](https://github.com/Salah1221) | Salah Najem | @nesco-lb  |  | Tripoli District, North Governorate, Lebanon | 5091 |
+| 19 | [elie-chaaban](https://github.com/elie-chaaban) | Elie Chaaban | ZainTECH at Zain Group |  | Beirut, Lebanon | 5035 |
+| 20 | [MhdTarhini](https://github.com/MhdTarhini) | Mohamad Tarhini |  |  | Beirut,Lebanon | 5029 |

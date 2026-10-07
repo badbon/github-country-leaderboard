@@ -43,8 +43,8 @@ Indexed users: 1,001
 | 4 | [muneerasaifalnaabi-prog](https://github.com/muneerasaifalnaabi-prog) | Muneera Al Naabi | Oman | 2,977 |
 | 5 | [alanood94895-rgb](https://github.com/alanood94895-rgb) | Alanoud AlRuqaishi | Oman | 2,794 |
 | 6 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | Oman | 2,618 |
-| 7 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali |  Oman  | 2,454 |
-| 8 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Oman | 2,432 |
+| 7 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Oman | 2,460 |
+| 8 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali |  Oman  | 2,454 |
 | 9 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Oman | 2,316 |
 | 10 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Oman  | 2,129 |
 | 11 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 1,787 |
@@ -83,4 +83,4 @@ Indexed users: 1,001
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 89 |
 
-Generated: 2026-10-07T07:15:39.955Z
+Generated: 2026-10-07T08:09:28.167Z

@@ -1,6 +1,6 @@
 # Public Contributions - Lesotho
 
-Generated: 2026-10-07T07:08:53.929Z
+Generated: 2026-10-07T08:00:57.437Z
 
 Users: 162
 
@@ -10,8 +10,8 @@ Users: 162
 | 2 | [md5dalton](https://github.com/md5dalton) | Ntate Mpiti  |  | md5dalton | Lesotho | 399 |
 | 3 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | BLACK DOX |  | MASERU,LESOTHO | 388 |
 | 4 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Phytely Pty Ltd |  | Maseru, Lesotho | 309 |
-| 5 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 202 |
-| 6 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 190 |
+| 5 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 237 |
+| 6 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 202 |
 | 7 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 180 |
 | 8 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela |  |  | Lesotho | 168 |
 | 9 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 156 |
@@ -24,5 +24,5 @@ Users: 162
 | 16 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | OCAES  | ocaes_lso | Lesotho | 97 |
 | 17 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello |  |  | Maseru, Lesotho | 87 |
 | 18 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Zeeecom Technologies  |  | Lesotho, maseru | 85 |
-| 19 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | National University of Lesotho, Hubsec Solutions |  | Lesotho | 73 |
-| 20 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg |  | ThisisNapoQheku | Lesotho, Maseru | 70 |
+| 19 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg |  | ThisisNapoQheku | Lesotho, Maseru | 74 |
+| 20 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | National University of Lesotho, Hubsec Solutions |  | Lesotho | 73 |

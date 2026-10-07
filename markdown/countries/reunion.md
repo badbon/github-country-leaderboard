@@ -30,8 +30,8 @@ Indexed users: 213
 | 16 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 1,295 |
 | 17 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,202 |
 | 18 | [John361](https://github.com/John361) | John | Réunion | 1,200 |
-| 19 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 1,110 |
-| 20 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,015 |
+| 19 | [Robin-Lune](https://github.com/Robin-Lune) |  | Réunion | 1,152 |
+| 20 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 1,110 |
 
 ## Public Contributions
 
@@ -54,9 +54,9 @@ Indexed users: 213
 | 15 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | Reunion Island | 185 |
 | 16 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE | Reunion island | 175 |
 | 17 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch | Reunion Island | 169 |
-| 18 | [Wes974](https://github.com/Wes974) | Ouwéis | Reunion Island | 160 |
-| 19 | [FredMesnard](https://github.com/FredMesnard) | Fred Mesnard | Reunion Island | 149 |
-| 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | Réunion | 144 |
+| 18 | [Robin-Lune](https://github.com/Robin-Lune) |  | Réunion | 162 |
+| 19 | [Wes974](https://github.com/Wes974) | Ouwéis | Reunion Island | 160 |
+| 20 | [FredMesnard](https://github.com/FredMesnard) | Fred Mesnard | Reunion Island | 149 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 213
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-07T07:19:36.540Z
+Generated: 2026-10-07T08:12:29.268Z

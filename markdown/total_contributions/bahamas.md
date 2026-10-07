@@ -1,8 +1,8 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-07T07:37:34.590Z
+Generated: 2026-10-07T08:27:38.787Z
 
-Users: 240
+Users: 238
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 240
 | 14 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 787 |
 | 15 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 786 |
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 566 |
-| 17 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 500 |
-| 18 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 386 |
-| 19 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 360 |
+| 17 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 545 |
+| 18 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 500 |
+| 19 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 386 |
 | 20 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 276 |

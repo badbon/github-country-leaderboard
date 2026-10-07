@@ -1,6 +1,6 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-07T07:10:01.574Z
+Generated: 2026-10-07T08:04:31.326Z
 
 Users: 1920
 
@@ -22,7 +22,7 @@ Users: 1920
 | 14 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 5058 |
 | 15 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Kiama |  | Madagascar | 4972 |
 | 16 | [JohanaMisaela](https://github.com/JohanaMisaela) | Joanna Misaela |  |  | Antananarivo, Madagascar | 4867 |
-| 17 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 4568 |
-| 18 | [HarenaFiantso](https://github.com/HarenaFiantso) | Fiantso Harena | Haute École d'Informatique - HEI | HarenaFiantso | Antananarivo | 4475 |
-| 19 | [rakotomandimby](https://github.com/rakotomandimby) | Mihamina Rakotomandimby | RKTMB | rktmb | Antananarivo, Madagascar | 4365 |
-| 20 | [Njakasoa](https://github.com/Njakasoa) | Njakasoa RASOLOHERY | @NoaServices  |  | Antananarivo, Madagascar | 4150 |
+| 17 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 4804 |
+| 18 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 4568 |
+| 19 | [HarenaFiantso](https://github.com/HarenaFiantso) | Fiantso Harena | Haute École d'Informatique - HEI | HarenaFiantso | Antananarivo | 4475 |
+| 20 | [rakotomandimby](https://github.com/rakotomandimby) | Mihamina Rakotomandimby | RKTMB | rktmb | Antananarivo, Madagascar | 4365 |

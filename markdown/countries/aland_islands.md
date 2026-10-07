@@ -27,7 +27,7 @@ Indexed users: 61
 | 13 | [karusmari](https://github.com/karusmari) | Maris Karu | Åland Islands | 470 |
 | 14 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 407 |
 | 15 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 392 |
-| 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 379 |
+| 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 247 |
 | 17 | [ejmilli](https://github.com/ejmilli) | eliza john |  Åland Islands, Finland | 202 |
 | 18 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 176 |
 | 19 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 135 |
@@ -54,7 +54,7 @@ Indexed users: 61
 | 15 | [mavka1207](https://github.com/mavka1207) | Kateryna Ovsiienko | Mariehamn | 78 |
 | 16 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 76 |
 | 17 | [ejmilli](https://github.com/ejmilli) | eliza john |  Åland Islands, Finland | 46 |
-| 18 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 45 |
+| 18 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 46 |
 | 19 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland Islands | 20 |
 | 20 | [borsokman](https://github.com/borsokman) | Sagyn | Mariehamn & Stockholm  | 15 |
 
@@ -67,7 +67,7 @@ Indexed users: 61
 | 3 | [Ramona-Ekanayake](https://github.com/Ramona-Ekanayake) | Ramona Ekanayake | Åland Islands | 54 |
 | 4 | [jesjos](https://github.com/jesjos) | Jesper Josefsson | Mariehamn, Åland | 30 |
 | 5 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 25 |
-| 6 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 24 |
+| 6 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 23 |
 | 7 | [tvntvn13](https://github.com/tvntvn13) | Taneli Mäkihannu | Mariehamn, Åland Islands | 21 |
 | 8 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 19 |
 | 9 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland Islands | 18 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-07T07:33:54.912Z
+Generated: 2026-10-07T08:24:52.298Z

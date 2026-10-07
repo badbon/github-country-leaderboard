@@ -1,6 +1,6 @@
 # Armenia
 
-Indexed users: 4,050
+Indexed users: 4,049
 
 | Leaderboard | Link |
 |---|---|
@@ -55,8 +55,8 @@ Indexed users: 4,050
 | 16 | [projkov](https://github.com/projkov) | Pavel Rozhkov | Yerevan, Armenia | 1,486 |
 | 17 | [artialex](https://github.com/artialex) | Alexey Selivanov | Yerevan, Armenia | 1,449 |
 | 18 | [armanist](https://github.com/armanist) | ArmaX | Armenia | 1,424 |
-| 19 | [arman-boyakhchyan](https://github.com/arman-boyakhchyan) | Arman Boyakhchyan | Yerevan, Armenia | 1,340 |
-| 20 | [Grantim](https://github.com/Grantim) | Grant Karapetyan | Yerevan | 1,327 |
+| 19 | [Grantim](https://github.com/Grantim) | Grant Karapetyan | Yerevan | 1,327 |
+| 20 | [Witali](https://github.com/Witali) | Vitaly Rudik | Yerevan | 1,299 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,050
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-07T07:36:00.273Z
+Generated: 2026-10-07T08:27:04.649Z

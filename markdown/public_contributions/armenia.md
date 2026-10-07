@@ -1,8 +1,8 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-07T07:36:00.273Z
+Generated: 2026-10-07T08:27:04.649Z
 
-Users: 4050
+Users: 4049
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 4050
 | 16 | [projkov](https://github.com/projkov) | Pavel Rozhkov | @beda-software |  | Yerevan, Armenia | 1486 |
 | 17 | [artialex](https://github.com/artialex) | Alexey Selivanov |  | alextheartisan | Yerevan, Armenia | 1449 |
 | 18 | [armanist](https://github.com/armanist) | ArmaX |  |  | Armenia | 1424 |
-| 19 | [arman-boyakhchyan](https://github.com/arman-boyakhchyan) | Arman Boyakhchyan |  |  | Yerevan, Armenia | 1340 |
-| 20 | [Grantim](https://github.com/Grantim) | Grant Karapetyan | MeshInspector |  | Yerevan | 1327 |
+| 19 | [Grantim](https://github.com/Grantim) | Grant Karapetyan | MeshInspector |  | Yerevan | 1327 |
+| 20 | [Witali](https://github.com/Witali) | Vitaly Rudik |  |  | Yerevan | 1299 |

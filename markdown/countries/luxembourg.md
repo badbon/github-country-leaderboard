@@ -1,6 +1,6 @@
 # Luxembourg
 
-Indexed users: 2,215
+Indexed users: 2,214
 
 | Leaderboard | Link |
 |---|---|
@@ -14,8 +14,8 @@ Indexed users: 2,215
 |---:|---|---|---|---:|
 | 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | Luxembourg | 36,874 |
 | 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 19,672 |
-| 3 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 16,011 |
-| 4 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 15,977 |
+| 3 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,355 |
+| 4 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 16,011 |
 | 5 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 13,577 |
 | 6 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 10,606 |
 | 7 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 9,834 |
@@ -83,4 +83,4 @@ Indexed users: 2,215
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-10-07T07:09:42.910Z
+Generated: 2026-10-07T08:02:59.925Z

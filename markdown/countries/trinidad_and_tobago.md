@@ -54,7 +54,7 @@ Indexed users: 257
 | 15 | [rezziemaven](https://github.com/rezziemaven) | Sherezz Grant | Trinidad and Tobago | 262 |
 | 16 | [devxlag](https://github.com/devxlag) | Devon Murray | Trinidad and Tobago | 256 |
 | 17 | [0xNick404](https://github.com/0xNick404) | Nicholas Grimes | Trinidad and Tobago | 250 |
-| 18 | [J4m331](https://github.com/J4m331) | Jameel Ali | Trinidad and Tobago | 233 |
+| 18 | [J4m331](https://github.com/J4m331) | Jameel Ali | Trinidad and Tobago | 229 |
 | 19 | [Trasmonaut](https://github.com/Trasmonaut) | Trasmonaut | Trinidad and Tobago | 193 |
 | 20 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Trinidad and Tobago | 161 |
 
@@ -83,4 +83,4 @@ Indexed users: 257
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 28 |
 
-Generated: 2026-10-07T07:29:18.878Z
+Generated: 2026-10-07T08:19:40.020Z

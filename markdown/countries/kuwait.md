@@ -27,20 +27,20 @@ Indexed users: 800
 | 13 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,067 |
 | 14 | [Mello21century](https://github.com/Mello21century) | Ahmed Safaa | Kuwait | 2,896 |
 | 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 2,851 |
-| 16 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 2,546 |
-| 17 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,543 |
-| 18 | [Fahad-Ha](https://github.com/Fahad-Ha) | Fahad Ahmad | Kuwait | 2,304 |
-| 19 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 2,291 |
-| 20 | [sabira-khan](https://github.com/sabira-khan) | Sabira Khan | Salmiya, Kuwait | 2,208 |
+| 16 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 2,755 |
+| 17 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 2,546 |
+| 18 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,543 |
+| 19 | [Fahad-Ha](https://github.com/Fahad-Ha) | Fahad Ahmad | Kuwait | 2,304 |
+| 20 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 2,291 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 4,685 |
-| 2 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,543 |
-| 3 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 1,941 |
-| 4 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 1,744 |
+| 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 2,755 |
+| 3 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,543 |
+| 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 1,941 |
 | 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 1,606 |
 | 6 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,332 |
 | 7 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,277 |
@@ -50,9 +50,9 @@ Indexed users: 800
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 907 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 824 |
 | 13 | [amaher-developer](https://github.com/amaher-developer) | amaher.developer | Kuwait | 811 |
-| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 528 |
-| 15 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 527 |
-| 16 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 524 |
+| 14 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
+| 15 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 528 |
+| 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 527 |
 | 17 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 521 |
 | 18 | [jakariahossain12](https://github.com/jakariahossain12) | Md.Jakaria | kuwait | 447 |
 | 19 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer | Kuwait | 431 |
@@ -83,4 +83,4 @@ Indexed users: 800
 | 19 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 75 |
 | 20 | [Eazy2Code](https://github.com/Eazy2Code) | Eazy2Code | Kuwait | 74 |
 
-Generated: 2026-10-07T07:06:49.307Z
+Generated: 2026-10-07T07:59:36.214Z
