@@ -28,9 +28,9 @@ Indexed users: 799
 | 14 | [Mello21century](https://github.com/Mello21century) | Ahmed Safaa | Kuwait | 2,896 |
 | 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 2,851 |
 | 16 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 2,755 |
-| 17 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 2,546 |
-| 18 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,543 |
-| 19 | [Fahad-Ha](https://github.com/Fahad-Ha) | Fahad Ahmad | Kuwait | 2,304 |
+| 17 | [sabira-khan](https://github.com/sabira-khan) | Sabira Khan | Salmiya, Kuwait | 2,585 |
+| 18 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 2,546 |
+| 19 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,543 |
 | 20 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 2,291 |
 
 ## Public Contributions
@@ -55,8 +55,8 @@ Indexed users: 799
 | 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 527 |
 | 17 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 521 |
 | 18 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 438 |
-| 19 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer | Kuwait | 431 |
-| 20 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | Kuwait | 422 |
+| 19 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. | Kuwait | 434 |
+| 20 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer | Kuwait | 431 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 799
 | 19 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 75 |
 | 20 | [Eazy2Code](https://github.com/Eazy2Code) | Eazy2Code | Kuwait | 74 |
 
-Generated: 2026-10-07T12:22:34.146Z
+Generated: 2026-10-07T13:06:32.933Z

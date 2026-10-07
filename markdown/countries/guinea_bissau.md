@@ -62,7 +62,7 @@ Indexed users: 22
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | Bissau | 21 |
+| 1 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | Bissau | 22 |
 | 2 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Bissau, Guinea-Bissau | 8 |
 | 3 | [DionisioSeuna](https://github.com/DionisioSeuna) | Dionisio Seuna | Bissau, Guiné-Bissau | 6 |
 | 4 | [Luiginia](https://github.com/Luiginia) | Luiginia Caetano Gomes | Guiné - Bissau | 5 |
@@ -83,4 +83,4 @@ Indexed users: 22
 | 19 | [NB-17-lab](https://github.com/NB-17-lab) | NB | Bissau/Guiné-Bissau | 1 |
 | 20 | [oritambade3](https://github.com/oritambade3) | Galileu José Oritambadé | Guiné-Bissau, Bissau | 1 |
 
-Generated: 2026-10-07T12:15:40.053Z
+Generated: 2026-10-07T13:01:14.297Z

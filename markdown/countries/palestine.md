@@ -1,6 +1,6 @@
 # Palestine
 
-Indexed users: 2,207
+Indexed users: 2,206
 
 | Leaderboard | Link |
 |---|---|
@@ -69,10 +69,10 @@ Indexed users: 2,207
 | 5 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat | Dura, Palestine  | 225 |
 | 6 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 216 |
 | 7 | [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh) | Sarah Abu Irmeileh | Palestine | 213 |
-| 8 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos | Gaza,Palestine | 212 |
+| 8 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos | Gaza,Palestine | 209 |
 | 9 | [mohammed-naji](https://github.com/mohammed-naji) | Mohammed Naji | Palestine / Gaza | 177 |
 | 10 | [Nedal-Esrar](https://github.com/Nedal-Esrar) | Nedal-Esrar Ahmad | Jenin, Palestine | 177 |
-| 11 | [hetslop](https://github.com/hetslop) | lance | https://arab.org/click-to-help/palestine/ | 170 |
+| 11 | [hetslop](https://github.com/hetslop) | lance | https://arab.org/click-to-help/palestine/ | 175 |
 | 12 | [Mohammad-Abohasan](https://github.com/Mohammad-Abohasan) | Mohammad Abohasan | Jenin, Palestine | 170 |
 | 13 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Al Quds, Palestine | 165 |
 | 14 | [MKhasib](https://github.com/MKhasib) | Majd Khasib | Ramallah,Palestine | 165 |
@@ -81,6 +81,6 @@ Indexed users: 2,207
 | 17 | [DiaeddinTahboub](https://github.com/DiaeddinTahboub) | Diaeddin Tahboub | Palestine - Ramallah | 151 |
 | 18 | [ShakerAlshurafa](https://github.com/ShakerAlshurafa) | Shaker Yousef | Palestine | 145 |
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 131 |
-| 20 | [layanbuirat](https://github.com/layanbuirat) | Leyan Buirat | Ramallah, Palestine | 124 |
+| 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-07T12:32:34.856Z
+Generated: 2026-10-07T13:20:16.071Z

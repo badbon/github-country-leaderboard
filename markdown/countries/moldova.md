@@ -1,6 +1,6 @@
 # Moldova
 
-Indexed users: 1,770
+Indexed users: 1,769
 
 | Leaderboard | Link |
 |---|---|
@@ -20,18 +20,18 @@ Indexed users: 1,770
 | 6 | [StefuSD](https://github.com/StefuSD) | Stepan Stefu | Moldova | 5,328 |
 | 7 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion | Moldova, Chisinau | 5,271 |
 | 8 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,154 |
-| 9 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,782 |
-| 10 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 4,546 |
-| 11 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 4,454 |
-| 12 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov | Chisinau, Moldova | 4,415 |
-| 13 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Chisinau, Moldova | 4,260 |
-| 14 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | Chisinau, Moldova | 4,091 |
-| 15 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | Chisinau, Moldova | 4,085 |
-| 16 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | Moldova | 3,899 |
-| 17 | [raidum](https://github.com/raidum) | Dumitru Railean | Moldova | 3,826 |
-| 18 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov | Moldova | 3,537 |
-| 19 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 3,531 |
-| 20 | [ion-golovco](https://github.com/ion-golovco) | Golovco Ion | Moldova | 3,471 |
+| 9 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 4,802 |
+| 10 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,782 |
+| 11 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 4,546 |
+| 12 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 4,454 |
+| 13 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov | Chisinau, Moldova | 4,415 |
+| 14 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Chisinau, Moldova | 4,260 |
+| 15 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | Chisinau, Moldova | 4,091 |
+| 16 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | Chisinau, Moldova | 4,085 |
+| 17 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | Moldova | 3,899 |
+| 18 | [raidum](https://github.com/raidum) | Dumitru Railean | Moldova | 3,826 |
+| 19 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov | Moldova | 3,537 |
+| 20 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 3,531 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,770
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 104 |
 
-Generated: 2026-10-07T12:26:19.637Z
+Generated: 2026-10-07T13:12:28.100Z

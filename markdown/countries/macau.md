@@ -62,25 +62,25 @@ Indexed users: 448
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [ken0225](https://github.com/ken0225) | Ke"Ken"WANG | Macau | 417 |
+| 1 | [ken0225](https://github.com/ken0225) | Ke"Ken"WANG | Macau | 419 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 404 |
 | 3 | [yangfengzzz](https://github.com/yangfengzzz) | yangfengzzz | Macau | 207 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 200 |
 | 5 | [andyhamgit](https://github.com/andyhamgit) | Di Han | Macau | 187 |
 | 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 184 |
-| 7 | [IMRL](https://github.com/IMRL) |  | Taipa, Macau | 162 |
+| 7 | [IMRL](https://github.com/IMRL) |  | Taipa, Macau | 165 |
 | 8 | [clinplayer](https://github.com/clinplayer) | Cheng Lin | Macau | 160 |
 | 9 | [manesec](https://github.com/manesec) | Mane | Macau | 128 |
 | 10 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | Macau | 124 |
 | 11 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Macau | 121 |
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak | Macao | 109 |
-| 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 | Macau | 102 |
+| 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 | Macau | 106 |
 | 14 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 100 |
 | 15 | [zhiyzuo](https://github.com/zhiyzuo) | Zhiya Zuo | Macau | 93 |
 | 16 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Macau | 88 |
 | 17 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong | Macau | 84 |
 | 18 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 66 |
-| 20 | [greatzh](https://github.com/greatzh) | Zihao Zhang | macao | 65 |
+| 20 | [greatzh](https://github.com/greatzh) | Zihao Zhang | macao | 66 |
 
-Generated: 2026-10-07T12:24:34.423Z
+Generated: 2026-10-07T13:09:25.088Z

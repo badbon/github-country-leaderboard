@@ -18,20 +18,20 @@ Indexed users: 356
 | 4 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,307 |
 | 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 5,107 |
 | 6 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,776 |
-| 7 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,513 |
-| 8 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,364 |
-| 9 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,261 |
-| 10 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 3,925 |
-| 11 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 3,869 |
-| 12 | [aboobakurusuheyl](https://github.com/aboobakurusuheyl) | Aboobakuru Suhail | Maldives | 3,808 |
-| 13 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 3,803 |
-| 14 | [hussainabeer](https://github.com/hussainabeer) | Hussain Abeer | Maldives | 3,778 |
-| 15 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 3,542 |
-| 16 | [yaambe](https://github.com/yaambe) | Yaambe | Maldives | 3,524 |
-| 17 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 3,517 |
-| 18 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 3,231 |
-| 19 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 3,140 |
-| 20 | [Syndrom7](https://github.com/Syndrom7) | Hussain Zayan | Maldives | 3,120 |
+| 7 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 4,552 |
+| 8 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,513 |
+| 9 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,364 |
+| 10 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,261 |
+| 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,193 |
+| 12 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 3,925 |
+| 13 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 3,869 |
+| 14 | [aboobakurusuheyl](https://github.com/aboobakurusuheyl) | Aboobakuru Suhail | Maldives | 3,808 |
+| 15 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 3,803 |
+| 16 | [hussainabeer](https://github.com/hussainabeer) | Hussain Abeer | Maldives | 3,778 |
+| 17 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 3,542 |
+| 18 | [yaambe](https://github.com/yaambe) | Yaambe | Maldives | 3,524 |
+| 19 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 3,517 |
+| 20 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 3,231 |
 
 ## Public Contributions
 
@@ -53,9 +53,9 @@ Indexed users: 356
 | 14 | [xSil3nt](https://github.com/xSil3nt) | Shazin | Male', Maldives | 343 |
 | 15 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 319 |
 | 16 | [aliaafee](https://github.com/aliaafee) | Ali Aafee | Maldives | 308 |
-| 17 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 232 |
-| 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 225 |
-| 19 | [adhuhaam](https://github.com/adhuhaam) | Adhu Haam | Maldives | 224 |
+| 17 | [WovenCoast](https://github.com/WovenCoast) | FlameXode | Maldives | 233 |
+| 18 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 232 |
+| 19 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 225 |
 | 20 | [zxeenu](https://github.com/zxeenu) | Ziaan | Maldives | 220 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 356
 | 19 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood | Thulhaadhoo, Maldives | 41 |
 | 20 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 41 |
 
-Generated: 2026-10-07T12:25:06.947Z
+Generated: 2026-10-07T13:11:01.866Z

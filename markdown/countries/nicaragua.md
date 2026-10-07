@@ -38,9 +38,9 @@ Indexed users: 1,403
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 6,430 |
-| 2 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina | Nicaragua | 2,021 |
-| 3 | [Void-CA](https://github.com/Void-CA) | Ari Castillo | Nicaragua | 1,788 |
-| 4 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  | Nicaragua | 1,451 |
+| 2 | [Void-CA](https://github.com/Void-CA) | Ari Castillo | Nicaragua | 2,021 |
+| 3 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  | Nicaragua | 1,451 |
+| 4 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina | Nicaragua | 1,371 |
 | 5 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 1,315 |
 | 6 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,217 |
 | 7 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 1,137 |
@@ -83,4 +83,4 @@ Indexed users: 1,403
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 60 |
 
-Generated: 2026-10-07T12:29:51.433Z
+Generated: 2026-10-07T13:16:02.258Z

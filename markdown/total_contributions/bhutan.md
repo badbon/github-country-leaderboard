@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-07T12:03:58.543Z
+Generated: 2026-10-07T12:50:39.036Z
 
 Users: 268
 
@@ -16,13 +16,13 @@ Users: 268
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | College of Science and Technology |  | Bhutan | 2620 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 2383 |
 | 10 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | @selisebt |  | Thimphu | 2050 |
-| 11 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1949 |
-| 12 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 1932 |
-| 13 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | @SELISEdigitalplatforms  |  | Thiimphu, Bhutan | 1924 |
-| 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1913 |
-| 15 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Selise Bhutan |  | Bhutan | 1825 |
+| 11 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 1932 |
+| 12 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | @SELISEdigitalplatforms  |  | Thiimphu, Bhutan | 1924 |
+| 13 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1913 |
+| 14 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Selise Bhutan |  | Bhutan | 1825 |
+| 15 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1792 |
 | 16 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 1789 |
 | 17 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1778 |
-| 18 | [karmatenzi](https://github.com/karmatenzi) | Karma Tenzin | Selise |  | thimphu | 1689 |
-| 19 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | @selisegroup | __kinleyrabgay | Thimphu, Bhutan | 1581 |
-| 20 | [KarmaTensel](https://github.com/KarmaTensel) | ice |  |  | Bhutan | 1562 |
+| 18 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | @selisegroup | __kinleyrabgay | Thimphu, Bhutan | 1581 |
+| 19 | [KarmaTensel](https://github.com/KarmaTensel) | ice |  |  | Bhutan | 1562 |
+| 20 | [sangay-yonten](https://github.com/sangay-yonten) | Sangay Yonten | @beyul & @mybhutan | _aka_cortez | Thimphu, Bhutan | 1554 |

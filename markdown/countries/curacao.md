@@ -15,11 +15,11 @@ Indexed users: 53
 | 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 5,839 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,758 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,461 |
-| 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,269 |
-| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,365 |
+| 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,270 |
+| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,374 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,217 |
 | 7 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 912 |
-| 8 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 910 |
+| 8 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 912 |
 | 9 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 426 |
 | 10 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 380 |
 | 11 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
@@ -37,7 +37,7 @@ Indexed users: 53
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,269 |
+| 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,270 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 470 |
 | 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 465 |
 | 4 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 426 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-07T12:09:02.557Z
+Generated: 2026-10-07T12:54:36.713Z

@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-07T12:28:17.095Z
+Generated: 2026-10-07T13:14:06.094Z
 
 Users: 479
 
@@ -11,7 +11,7 @@ Users: 479
 | 3 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 6282 |
 | 4 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 6058 |
 | 5 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele |  | asenmwa | Windhoek, Namibia | 5610 |
-| 6 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | @Absynth-Tech  |  | namibia,Africa | 4066 |
+| 6 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | @Absynth-Tech  |  | namibia,Africa | 4508 |
 | 7 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach |  |  | Namibia | 3998 |
 | 8 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | @nzzdev @meyabase @silosset | axelmukwena | Namibia | 3679 |
 | 9 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | LeoDynamics Group (PTY) LTD | SirLeon14 | Namibia, Windhoek | 2498 |

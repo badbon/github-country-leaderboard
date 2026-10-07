@@ -55,8 +55,8 @@ Indexed users: 10,319
 | 16 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | Eva Rei | Hong Kong | 4,280 |
 | 17 | [DarkLight1337](https://github.com/DarkLight1337) | Cyrus Leung | Hong Kong | 4,241 |
 | 18 | [atomyyyy](https://github.com/atomyyyy) | Alan | Hong Kong | 3,664 |
-| 19 | [gk0729](https://github.com/gk0729) | gk0729 | HONG KONG | 3,428 |
-| 20 | [zetta](https://github.com/zetta) | Carlos Clemente | Hong Kong | 3,376 |
+| 19 | [zetta](https://github.com/zetta) | Carlos Clemente | Hong Kong | 3,376 |
+| 20 | [ChaofanTao](https://github.com/ChaofanTao) | Chaofan Tao | Hong Kong | 3,371 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 10,319
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [heilcheng](https://github.com/heilcheng) | hailey | Hong Kong | 964 |
 
-Generated: 2026-10-07T12:17:31.062Z
+Generated: 2026-10-07T13:02:07.317Z

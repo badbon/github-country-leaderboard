@@ -1,6 +1,6 @@
 # Total Contributions - Maldives
 
-Generated: 2026-10-07T12:25:06.947Z
+Generated: 2026-10-07T13:11:01.866Z
 
 Users: 356
 
@@ -12,17 +12,17 @@ Users: 356
 | 4 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 5307 |
 | 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman |  | mohamed_aiman | Maldives | 5107 |
 | 6 | [whosaynow](https://github.com/whosaynow) | whosaynow | LottieFiles | whosaynow | Maldives | 4776 |
-| 7 | [roris](https://github.com/roris) | Thoail Ahmed |  |  | Maldives | 4513 |
-| 8 | [muizzu](https://github.com/muizzu) | Muizzu Abbas |  |  | Maldives | 4364 |
-| 9 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau |  | ismail_shuaau | Male', Maldives | 4261 |
-| 10 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq |  |  | Maldives | 3925 |
-| 11 | [N4ZEN](https://github.com/N4ZEN) | Naza |  |  | Maldives | 3869 |
-| 12 | [aboobakurusuheyl](https://github.com/aboobakurusuheyl) | Aboobakuru Suhail | @pension |  | Maldives | 3808 |
-| 13 | [ayarse](https://github.com/ayarse) | ayaz |  |  | Maldives | 3803 |
-| 14 | [hussainabeer](https://github.com/hussainabeer) | Hussain Abeer |  |  | Maldives | 3778 |
-| 15 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 3542 |
-| 16 | [yaambe](https://github.com/yaambe) | Yaambe | Javaabu |  | Maldives | 3524 |
-| 17 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | DNS PIPES Inc. |  | Maldives | 3517 |
-| 18 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | OXIQA |  | Maldives | 3231 |
-| 19 | [jaaahh](https://github.com/jaaahh) | Jaah | @urbanpiper  |  | Maldives | 3140 |
-| 20 | [Syndrom7](https://github.com/Syndrom7) | Hussain Zayan |  |  | Maldives | 3120 |
+| 7 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | @seastackmv  | nullptrz | Maldives | 4552 |
+| 8 | [roris](https://github.com/roris) | Thoail Ahmed |  |  | Maldives | 4513 |
+| 9 | [muizzu](https://github.com/muizzu) | Muizzu Abbas |  |  | Maldives | 4364 |
+| 10 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau |  | ismail_shuaau | Male', Maldives | 4261 |
+| 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef |  |  | Maldives | 4193 |
+| 12 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq |  |  | Maldives | 3925 |
+| 13 | [N4ZEN](https://github.com/N4ZEN) | Naza |  |  | Maldives | 3869 |
+| 14 | [aboobakurusuheyl](https://github.com/aboobakurusuheyl) | Aboobakuru Suhail | @pension |  | Maldives | 3808 |
+| 15 | [ayarse](https://github.com/ayarse) | ayaz |  |  | Maldives | 3803 |
+| 16 | [hussainabeer](https://github.com/hussainabeer) | Hussain Abeer |  |  | Maldives | 3778 |
+| 17 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 3542 |
+| 18 | [yaambe](https://github.com/yaambe) | Yaambe | Javaabu |  | Maldives | 3524 |
+| 19 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | DNS PIPES Inc. |  | Maldives | 3517 |
+| 20 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | OXIQA |  | Maldives | 3231 |

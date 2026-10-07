@@ -1,6 +1,6 @@
 # Public Contributions - Mali
 
-Generated: 2026-10-07T12:25:10.372Z
+Generated: 2026-10-07T13:11:05.178Z
 
 Users: 347
 
@@ -17,9 +17,9 @@ Users: 347
 | 9 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 377 |
 | 10 | [LeoAz](https://github.com/LeoAz) | Lionel AZ |  |  | Bamako | 368 |
 | 11 | [skypper109](https://github.com/skypper109) | SKYPPER | AMD tech |  | Mali | 334 |
-| 12 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama |  | Mandjou_JS | Bamako, Mali | 263 |
-| 13 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | @loga-engineering |  | Bamako, Mali | 250 |
-| 14 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 238 |
+| 12 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | @loga-engineering |  | Bamako, Mali | 250 |
+| 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 238 |
+| 14 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama |  | Mandjou_JS | Bamako, Mali | 199 |
 | 15 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 185 |
 | 16 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou |  |  | bamako, Mali | 179 |
 | 17 | [Jbriguel](https://github.com/Jbriguel) |  |  |  | Mali | 157 |

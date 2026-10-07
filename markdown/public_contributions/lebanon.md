@@ -1,6 +1,6 @@
 # Public Contributions - Lebanon
 
-Generated: 2026-10-07T12:23:09.096Z
+Generated: 2026-10-07T13:07:02.390Z
 
 Users: 2573
 
@@ -11,7 +11,7 @@ Users: 2573
 | 3 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 2706 |
 | 4 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji |  |  | Lebanon | 2220 |
 | 5 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Omar7tech |  | Beirut | 2087 |
-| 6 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun |  |  | Lebanon | 2079 |
+| 6 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun |  |  | Lebanon | 1998 |
 | 7 | [samerc](https://github.com/samerc) | Samer Cheaib | Fancyshark |  | Beirut | 1920 |
 | 8 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom |  |  | Beirut - Lebanon | 1819 |
 | 9 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo |  |  | Beirut, Lebanon | 1623 |

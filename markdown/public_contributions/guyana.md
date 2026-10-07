@@ -1,25 +1,25 @@
 # Public Contributions - Guyana
 
-Generated: 2026-10-07T12:15:46.429Z
+Generated: 2026-10-07T13:01:21.849Z
 
 Users: 186
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3736 |
-| 2 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 3498 |
-| 3 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder |  |  | Georgetown, KY | 2504 |
-| 4 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 1868 |
+| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder |  |  | Georgetown, KY | 4073 |
+| 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3902 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 3498 |
+| 4 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 1871 |
 | 5 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 1470 |
 | 6 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1460 |
 | 7 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Vorso Computing, Inc. | sandogee | Guyana, South America | 1332 |
 | 8 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 714 |
 | 9 | [blackMastery](https://github.com/blackMastery) | kevon Cadogan | v75inc |  | Guyana | 648 |
 | 10 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 562 |
-| 11 | [aG00Dtime](https://github.com/aG00Dtime) | David Henry |  |  | Guyana | 328 |
-| 12 | [ryanrhanson](https://github.com/ryanrhanson) | Ryan Hanson | Doppler |  | Georgetown, TX | 323 |
-| 13 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 315 |
-| 14 | [xwings](https://github.com/xwings) | xwings | Qiling Framework | onlyxwings | Georgetown, Penang | 303 |
+| 11 | [xwings](https://github.com/xwings) | xwings | Qiling Framework | onlyxwings | Georgetown, Penang | 481 |
+| 12 | [aG00Dtime](https://github.com/aG00Dtime) | David Henry |  |  | Guyana | 328 |
+| 13 | [ryanrhanson](https://github.com/ryanrhanson) | Ryan Hanson | Doppler |  | Georgetown, TX | 323 |
+| 14 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 315 |
 | 15 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 244 |
 | 16 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad |  |  | Guyana | 241 |
 | 17 | [rjvaleo](https://github.com/rjvaleo) | transelectronic |  |  | Georgetown, Colorado | 240 |

@@ -1,8 +1,8 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-10-07T12:25:44.308Z
+Generated: 2026-10-07T13:11:41.772Z
 
-Users: 290
+Users: 289
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-07T12:17:37.581Z
+Generated: 2026-10-07T13:02:19.960Z
 
 Users: 1585
 
@@ -19,8 +19,8 @@ Users: 1585
 | 11 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 1496 |
 | 12 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | tunnels.is | keyb1nd | Iceland | 1301 |
 | 13 | [arividar](https://github.com/arividar) | Ari Johannesson | Andes ehf. | arividar | Reykjavik | 1294 |
-| 14 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad |  | vvzvlad | Iceland | 1224 |
-| 15 | [Max77788](https://github.com/Max77788) | Max Mat | MOM AI Technologies |  | Iceland | 1166 |
+| 14 | [Max77788](https://github.com/Max77788) | Max Mat | MOM AI Technologies |  | Iceland | 1265 |
+| 15 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad |  | vvzvlad | Iceland | 1224 |
 | 16 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin |  |  | Iceland | 1164 |
 | 17 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Nova |  | Iceland | 1125 |
 | 18 | [gunnartorfis](https://github.com/gunnartorfis) | Gunnar Torfi Steinarsson | Noona Labs | gunnarthedev | Reykjavik, Iceland | 1113 |

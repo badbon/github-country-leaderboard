@@ -1,6 +1,6 @@
 # Mauritania
 
-Indexed users: 290
+Indexed users: 289
 
 | Leaderboard | Link |
 |---|---|
@@ -73,7 +73,7 @@ Indexed users: 290
 | 9 | [lavantora](https://github.com/lavantora) | Aysha | Mauritania | 36 |
 | 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 33 |
 | 11 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 33 |
-| 12 | [Kader198](https://github.com/Kader198) | Abdel Kader Maguiraga | MAURITANIA  | 31 |
+| 12 | [Kader198](https://github.com/Kader198) | Abdel Kader Maguiraga | MAURITANIA  | 32 |
 | 13 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 30 |
 | 14 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said | Nouakchott,Mauriania | 30 |
 | 15 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 29 |
@@ -83,4 +83,4 @@ Indexed users: 290
 | 19 | [bechir](https://github.com/bechir) | Bechir Ba | Mauritania | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-07T12:25:44.308Z
+Generated: 2026-10-07T13:11:41.772Z

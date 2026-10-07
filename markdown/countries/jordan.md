@@ -42,9 +42,9 @@ Indexed users: 4,030
 | 3 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Jordan | 6,092 |
 | 4 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 3,432 |
 | 5 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 3,065 |
-| 6 | [mercenary19961](https://github.com/mercenary19961) | Zaid | Amman / Jordan | 2,723 |
-| 7 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 2,587 |
-| 8 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,474 |
+| 6 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,784 |
+| 7 | [mercenary19961](https://github.com/mercenary19961) | Zaid | Amman / Jordan | 2,723 |
+| 8 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 2,587 |
 | 9 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | Jordan | 2,052 |
 | 10 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | Amman, Jordan | 1,938 |
 | 11 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 1,537 |
@@ -83,4 +83,4 @@ Indexed users: 4,030
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 195 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-07T12:21:55.388Z
+Generated: 2026-10-07T13:04:31.450Z

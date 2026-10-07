@@ -30,8 +30,8 @@ Indexed users: 291
 | 16 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 997 |
 | 17 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 988 |
 | 18 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 967 |
-| 19 | [JPDucky](https://github.com/JPDucky) | Palmer Duckworth | Plymouth Rock | 938 |
-| 20 | [calfox](https://github.com/calfox) | Callum Fox | Plymouth | 846 |
+| 19 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 940 |
+| 20 | [JPDucky](https://github.com/JPDucky) | Palmer Duckworth | Plymouth Rock | 938 |
 
 ## Public Contributions
 
@@ -40,13 +40,13 @@ Indexed users: 291
 | 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,327 |
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,778 |
 | 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 967 |
-| 4 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 797 |
-| 5 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 674 |
-| 6 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 616 |
+| 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 940 |
+| 5 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 797 |
+| 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 674 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 600 |
-| 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 439 |
-| 9 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 405 |
-| 10 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 401 |
+| 8 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 465 |
+| 9 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 439 |
+| 10 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 405 |
 | 11 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 355 |
 | 12 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto | Plymouth | 344 |
 | 13 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Plymouth, MA | 336 |
@@ -64,10 +64,10 @@ Indexed users: 291
 |---:|---|---|---|---:|
 | 1 | [wbond](https://github.com/wbond) | Will Bond | Plymouth, NH | 2,316 |
 | 2 | [aldeed](https://github.com/aldeed) | Eric Dobbertin | Plymouth, WI | 671 |
-| 3 | [carlism](https://github.com/carlism) | Carl Leiby | Plymouth Meeting, PA | 66 |
-| 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 63 |
-| 5 | [noutram-old-uopaccount](https://github.com/noutram-old-uopaccount) | Nicholas Outram | Plymouth UK | 56 |
-| 6 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 55 |
+| 3 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 68 |
+| 4 | [carlism](https://github.com/carlism) | Carl Leiby | Plymouth Meeting, PA | 66 |
+| 5 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 62 |
+| 6 | [noutram-old-uopaccount](https://github.com/noutram-old-uopaccount) | Nicholas Outram | Plymouth UK | 56 |
 | 7 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 44 |
 | 8 | [profversaggi](https://github.com/profversaggi) | Matthew R. Versaggi | Plymouth, Minnesota | 36 |
 | 9 | [spottedmahn](https://github.com/spottedmahn) | Michael DePouw | Plymouth Meeting, PA | 25 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | Plymouth uk | 20 |
 | 20 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 19 |
 
-Generated: 2026-10-07T12:27:32.571Z
+Generated: 2026-10-07T13:12:52.255Z

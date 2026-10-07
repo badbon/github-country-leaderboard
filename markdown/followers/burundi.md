@@ -1,6 +1,6 @@
 # Followers - Burundi
 
-Generated: 2026-10-07T12:06:05.563Z
+Generated: 2026-10-07T12:52:15.600Z
 
 Users: 236
 
@@ -19,10 +19,10 @@ Users: 236
 | 11 | [ArtcalO](https://github.com/ArtcalO) | The Lone Wolf | @ksquad | ArtcalO97 | Bujumbura, BURUNDI | 65 |
 | 12 | [WCanirinka](https://github.com/WCanirinka) | Wilfried Canirinka | @Asyst-Resources-LTD  | WCanirinka | Bujumbura, Burundi | 61 |
 | 13 | [hakichris](https://github.com/hakichris) | Christian Hakizimana | Tujenge Africa Foundation  | hakichris2 | Burundi  | 46 |
-| 14 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE |  | YvanAhishakiye | Bujumbura, Burundi | 45 |
-| 15 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 45 |
+| 14 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 45 |
+| 15 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE |  | YvanAhishakiye | Bujumbura, Burundi | 43 |
 | 16 | [ntzwilly](https://github.com/ntzwilly) | Willy NTAZAMA | Freelance Full-Stack Developer | Wntazama | Burundi | 43 |
-| 17 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 40 |
+| 17 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 41 |
 | 18 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 36 |
 | 19 | [mudjaycker](https://github.com/mudjaycker) | MARYIMANA BUTOYI | BIOS |  | Bujumbura/BURUNDI | 36 |
 | 20 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 35 |

@@ -1,8 +1,8 @@
 # Followers - Mauritania
 
-Generated: 2026-10-07T12:25:44.308Z
+Generated: 2026-10-07T13:11:41.772Z
 
-Users: 290
+Users: 289
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,7 +17,7 @@ Users: 290
 | 9 | [lavantora](https://github.com/lavantora) | Aysha |  |  | Mauritania | 36 |
 | 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 33 |
 | 11 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | HrFlow.ai | BabeSalehDahi | Nouakchott, Mauritania | 33 |
-| 12 | [Kader198](https://github.com/Kader198) | Abdel Kader Maguiraga | SMART MS | MaguisKader | MAURITANIA  | 31 |
+| 12 | [Kader198](https://github.com/Kader198) | Abdel Kader Maguiraga | SMART MS | MaguisKader | MAURITANIA  | 32 |
 | 13 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 30 |
 | 14 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said |  |  | Nouakchott,Mauriania | 30 |
 | 15 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 29 |

@@ -1,6 +1,6 @@
 # Benin
 
-Indexed users: 472
+Indexed users: 471
 
 | Leaderboard | Link |
 |---|---|
@@ -19,19 +19,19 @@ Indexed users: 472
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,252 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 5,825 |
 | 7 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,874 |
-| 8 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,924 |
-| 9 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 3,817 |
-| 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 3,724 |
-| 11 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,685 |
-| 12 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,665 |
-| 13 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 3,441 |
-| 14 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,331 |
-| 15 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,213 |
-| 16 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,172 |
-| 17 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,119 |
-| 18 | [Kinbor1994](https://github.com/Kinbor1994) | KINNOUME S. Borel | BENIN | 3,032 |
-| 19 | [Blooz231](https://github.com/Blooz231) | Blooz Angus | Benin | 2,993 |
-| 20 | [chaldrak](https://github.com/chaldrak) | Chaldrak DOKPA | Benin | 2,971 |
+| 8 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,141 |
+| 9 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,924 |
+| 10 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,830 |
+| 11 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 3,817 |
+| 12 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 3,724 |
+| 13 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,685 |
+| 14 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 3,441 |
+| 15 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,331 |
+| 16 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,213 |
+| 17 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,172 |
+| 18 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,119 |
+| 19 | [Kinbor1994](https://github.com/Kinbor1994) | KINNOUME S. Borel | BENIN | 3,032 |
+| 20 | [Blooz231](https://github.com/Blooz231) | Blooz Angus | Benin | 2,993 |
 
 ## Public Contributions
 
@@ -41,7 +41,7 @@ Indexed users: 472
 | 2 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | Abomey-Calavi, Benin | 6,861 |
 | 3 | [Crazyde](https://github.com/Crazyde) | ACHIDI Corneille | Cotonou, Benin | 2,435 |
 | 4 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,870 |
-| 5 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,766 |
+| 5 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,665 |
 | 6 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,424 |
 | 7 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,345 |
 | 8 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 1,229 |
@@ -83,4 +83,4 @@ Indexed users: 472
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 | 20 | [romeokakpo](https://github.com/romeokakpo) | Roméo KAKPO | Benin | 70 |
 
-Generated: 2026-10-07T12:03:37.062Z
+Generated: 2026-10-07T12:50:00.952Z

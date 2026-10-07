@@ -42,7 +42,7 @@ Indexed users: 2,573
 | 3 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,706 |
 | 4 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 2,220 |
 | 5 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Beirut | 2,087 |
-| 6 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 2,079 |
+| 6 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 1,998 |
 | 7 | [samerc](https://github.com/samerc) | Samer Cheaib | Beirut | 1,920 |
 | 8 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom | Beirut - Lebanon | 1,819 |
 | 9 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,623 |
@@ -73,7 +73,7 @@ Indexed users: 2,573
 | 9 | [V-i-x-x](https://github.com/V-i-x-x) | Vixx | Lebanon | 257 |
 | 10 | [samih93](https://github.com/samih93) | samih damaj | Lebanon | 198 |
 | 11 | [abbood](https://github.com/abbood) | Abdullah Bakhach | Tripoli, Lebanon | 182 |
-| 12 | [CharbelNohra](https://github.com/CharbelNohra) | Charbel Nohra | Beirut, Lebanon | 158 |
+| 12 | [CharbelNohra](https://github.com/CharbelNohra) | Charbel Nohra | Beirut, Lebanon | 157 |
 | 13 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 151 |
 | 14 | [kamicut](https://github.com/kamicut) | Marc Farra | Beirut | 138 |
 | 15 | [SarahMelki](https://github.com/SarahMelki) | Sarah Melki | Beirut, Lebanon | 138 |
@@ -83,4 +83,4 @@ Indexed users: 2,573
 | 19 | [GaroK01](https://github.com/GaroK01) | Garo Kalfayan | Lebanon | 104 |
 | 20 | [PeterHackz](https://github.com/PeterHackz) | Peterson | Beirut, Lebanon | 103 |
 
-Generated: 2026-10-07T12:23:09.096Z
+Generated: 2026-10-07T13:07:02.390Z

@@ -1,8 +1,8 @@
 # Followers - Kenya
 
-Generated: 2026-10-07T12:22:02.474Z
+Generated: 2026-10-07T13:05:54.643Z
 
-Users: 23986
+Users: 23984
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

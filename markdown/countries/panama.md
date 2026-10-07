@@ -12,33 +12,33 @@ Indexed users: 1,073
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Panama | 18,668 |
-| 2 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,647 |
-| 3 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
-| 4 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 14,821 |
-| 5 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 11,958 |
-| 6 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 11,927 |
-| 7 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 9,755 |
-| 8 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,083 |
-| 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 7,392 |
-| 10 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
-| 11 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 6,426 |
-| 12 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,149 |
-| 13 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 5,687 |
-| 14 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 5,234 |
-| 15 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,941 |
-| 16 | [berryhill](https://github.com/berryhill) | Matt Berryhill | Los Santos, Panama | 4,773 |
-| 17 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 4,706 |
-| 18 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 4,681 |
-| 19 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 4,655 |
-| 20 | [dav3trad3r](https://github.com/dav3trad3r) | dave | Panama | 4,385 |
+| 1 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 23,939 |
+| 2 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Panama | 18,668 |
+| 3 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,647 |
+| 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
+| 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 14,821 |
+| 6 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 11,958 |
+| 7 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 11,927 |
+| 8 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 9,755 |
+| 9 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,083 |
+| 10 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 7,392 |
+| 11 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
+| 12 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 6,426 |
+| 13 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,149 |
+| 14 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 5,687 |
+| 15 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 5,234 |
+| 16 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,941 |
+| 17 | [berryhill](https://github.com/berryhill) | Matt Berryhill | Los Santos, Panama | 4,773 |
+| 18 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 4,706 |
+| 19 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 4,681 |
+| 20 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 4,655 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
-| 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 4,210 |
+| 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 5,460 |
 | 3 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,389 |
 | 4 | [kingg22](https://github.com/kingg22) | Rey | Panama | 2,267 |
 | 5 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,791 |
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 47 |
 
-Generated: 2026-10-07T12:32:38.368Z
+Generated: 2026-10-07T13:20:19.830Z

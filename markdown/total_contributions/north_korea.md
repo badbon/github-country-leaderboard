@@ -1,6 +1,6 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-07T12:30:06.311Z
+Generated: 2026-10-07T13:19:28.268Z
 
 Users: 186
 
@@ -8,9 +8,9 @@ Users: 186
 |---:|---|---|---|---|---|---:|
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | @The-Korean-Fashion  |  | Pyongyang | 5740 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 4710 |
-| 3 | [sakweli](https://github.com/sakweli) | Josh Sakweli | Qbit Spark | JosureSimon | North Korea | 2494 |
-| 4 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1478 |
-| 5 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | yo mama | elonmusk | pyongyang | 1344 |
+| 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | yo mama | elonmusk | pyongyang | 3561 |
+| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | Qbit Spark | JosureSimon | North Korea | 2494 |
+| 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1478 |
 | 6 | [henxdl](https://github.com/henxdl) | henxdl | Unemployed :) |  | Pyongyang, North Korea | 1268 |
 | 7 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 1261 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 730 |

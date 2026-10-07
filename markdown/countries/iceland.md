@@ -50,8 +50,8 @@ Indexed users: 1,585
 | 11 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,496 |
 | 12 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,301 |
 | 13 | [arividar](https://github.com/arividar) | Ari Johannesson | Reykjavik | 1,294 |
-| 14 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,224 |
-| 15 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,166 |
+| 14 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,265 |
+| 15 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,224 |
 | 16 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,164 |
 | 17 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 1,125 |
 | 18 | [gunnartorfis](https://github.com/gunnartorfis) | Gunnar Torfi Steinarsson | Reykjavik, Iceland | 1,113 |
@@ -83,4 +83,4 @@ Indexed users: 1,585
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 202 |
 
-Generated: 2026-10-07T12:17:37.581Z
+Generated: 2026-10-07T13:02:19.960Z

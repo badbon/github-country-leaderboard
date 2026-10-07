@@ -47,16 +47,16 @@ Indexed users: 4,921
 | 8 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 4,882 |
 | 9 | [tot-ra](https://github.com/tot-ra) | Artjom Kurapov | Tallinn, Estonia | 4,407 |
 | 10 | [AmbientLighter](https://github.com/AmbientLighter) | Viktor Mirieiev | Tallinn | 3,899 |
-| 11 | [crc137](https://github.com/crc137) | Alberto Clemente | Ehitajate tee 153 13517 Tallinn Estonia | 3,745 |
-| 12 | [GelatoGenesis](https://github.com/GelatoGenesis) | GelatoGenesis | Estonia | 3,272 |
-| 13 | [cogni-ai-ee](https://github.com/cogni-ai-ee) | Cogni AI | Tallinn, Estonia | 3,232 |
-| 14 | [ddanila](https://github.com/ddanila) | Danila Sukharev | Tallinn, Estonia | 3,217 |
-| 15 | [Artexis10](https://github.com/Artexis10) | Hugo Ander Kivi | Tallinn | 3,157 |
-| 16 | [ddon](https://github.com/ddon) | Dmitri Don | Tallinn, Estonia | 3,112 |
-| 17 | [timujinne](https://github.com/timujinne) | Tymofii Shapovalov | Tallinn, Estonia | 3,049 |
-| 18 | [henrikaavik](https://github.com/henrikaavik) | Henrik Aavik | Tallinn, Estonia | 2,994 |
-| 19 | [kpavlov](https://github.com/kpavlov) | Konstantin Pavlov | Tallinn, Estonia | 2,988 |
-| 20 | [janklosowski](https://github.com/janklosowski) | klos | Estonia | 2,807 |
+| 11 | [GelatoGenesis](https://github.com/GelatoGenesis) | GelatoGenesis | Estonia | 3,272 |
+| 12 | [cogni-ai-ee](https://github.com/cogni-ai-ee) | Cogni AI | Tallinn, Estonia | 3,232 |
+| 13 | [ddanila](https://github.com/ddanila) | Danila Sukharev | Tallinn, Estonia | 3,217 |
+| 14 | [Artexis10](https://github.com/Artexis10) | Hugo Ander Kivi | Tallinn | 3,157 |
+| 15 | [ddon](https://github.com/ddon) | Dmitri Don | Tallinn, Estonia | 3,112 |
+| 16 | [timujinne](https://github.com/timujinne) | Tymofii Shapovalov | Tallinn, Estonia | 3,049 |
+| 17 | [henrikaavik](https://github.com/henrikaavik) | Henrik Aavik | Tallinn, Estonia | 2,994 |
+| 18 | [kpavlov](https://github.com/kpavlov) | Konstantin Pavlov | Tallinn, Estonia | 2,988 |
+| 19 | [janklosowski](https://github.com/janklosowski) | klos | Estonia | 2,807 |
+| 20 | [mdon](https://github.com/mdon) | Max Don | Tallinn, Estonia | 2,752 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,921
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 391 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-07T12:11:57.547Z
+Generated: 2026-10-07T12:57:12.703Z

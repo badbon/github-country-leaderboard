@@ -45,15 +45,15 @@ Indexed users: 1,006
 | 6 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | Oman | 2,618 |
 | 7 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Oman | 2,460 |
 | 8 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali |  Oman  | 2,454 |
-| 9 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Oman | 2,316 |
-| 10 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Oman  | 2,129 |
-| 11 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 1,787 |
-| 12 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | Oman | 1,702 |
-| 13 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
-| 14 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 1,354 |
-| 15 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
-| 16 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Muscat, Oman | 1,306 |
-| 17 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Oman | 1,251 |
+| 9 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Oman | 2,443 |
+| 10 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Oman | 2,316 |
+| 11 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Oman  | 2,129 |
+| 12 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 1,787 |
+| 13 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | Oman | 1,702 |
+| 14 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
+| 15 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 1,354 |
+| 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
+| 17 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Muscat, Oman | 1,306 |
 | 18 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Muscat, Oman | 1,173 |
 | 19 | [atakhadiviom](https://github.com/atakhadiviom) | ATA KHADIVI | Muscat | 1,171 |
 | 20 | [ilia144000](https://github.com/ilia144000) | Ilia GH | Sultanate of Oman | 1,097 |
@@ -83,4 +83,4 @@ Indexed users: 1,006
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 89 |
 
-Generated: 2026-10-07T12:31:26.740Z
+Generated: 2026-10-07T13:20:08.571Z

@@ -1,8 +1,8 @@
 # Followers - Benin
 
-Generated: 2026-10-07T12:03:37.062Z
+Generated: 2026-10-07T12:50:00.952Z
 
-Users: 472
+Users: 471
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

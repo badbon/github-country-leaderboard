@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-07T12:22:34.146Z
+Generated: 2026-10-07T13:06:32.933Z
 
 Users: 799
 
@@ -22,7 +22,7 @@ Users: 799
 | 14 | [Mello21century](https://github.com/Mello21century) | Ahmed Safaa | Space Zone | mello21century | Kuwait | 2896 |
 | 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 2851 |
 | 16 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call |  |  | Hawalli, Kuwait | 2755 |
-| 17 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 2546 |
-| 18 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen |  |  | Kuwait | 2543 |
-| 19 | [Fahad-Ha](https://github.com/Fahad-Ha) | Fahad Ahmad | @Rasameel |  | Kuwait | 2304 |
+| 17 | [sabira-khan](https://github.com/sabira-khan) | Sabira Khan | @Vendito-KW |  | Salmiya, Kuwait | 2585 |
+| 18 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 2546 |
+| 19 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen |  |  | Kuwait | 2543 |
 | 20 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 2291 |

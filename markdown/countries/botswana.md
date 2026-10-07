@@ -30,8 +30,8 @@ Indexed users: 534
 | 16 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 1,430 |
 | 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,324 |
 | 18 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,323 |
-| 19 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 1,229 |
-| 20 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 1,211 |
+| 19 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 1,298 |
+| 20 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 1,229 |
 
 ## Public Contributions
 
@@ -49,7 +49,7 @@ Indexed users: 534
 | 10 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 617 |
 | 11 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 601 |
 | 12 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 538 |
-| 13 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 482 |
+| 13 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 493 |
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 433 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | Gaborone, Botswana | 430 |
 | 16 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 378 |
@@ -65,10 +65,10 @@ Indexed users: 534
 | 1 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 239 |
 | 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 153 |
 | 3 | [PrimordialOrigin](https://github.com/PrimordialOrigin) | Primordial | Gaborone, Botswana | 126 |
-| 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 99 |
+| 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 103 |
 | 5 | [VioletShards](https://github.com/VioletShards) | Leon N. | Botswana | 70 |
 | 6 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe | Botswana | 68 |
-| 7 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Botswana | 67 |
+| 7 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Botswana | 68 |
 | 8 | [Timbar09](https://github.com/Timbar09) | Miles Mosweu | Palapye, Botswana | 64 |
 | 9 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 61 |
 | 10 | [impurefunctions](https://github.com/impurefunctions) | Kesego Tumisang | Gaborone, Botswana | 58 |
@@ -76,11 +76,11 @@ Indexed users: 534
 | 12 | [Hope-Nts](https://github.com/Hope-Nts) | Hope Ntshonono | Gaborone,Botswana | 47 |
 | 13 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 46 |
 | 14 | [mitp0sh](https://github.com/mitp0sh) | mitp0sh | Botswana | 45 |
-| 15 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 39 |
-| 16 | [WapaEdzani](https://github.com/WapaEdzani) | Mr Edzani Wapa Omogolo | Gaborone, Botswana | 38 |
-| 17 | [samKenpachi011](https://github.com/samKenpachi011) | Samuel Kabelo | Gaborone Botswana | 37 |
-| 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 35 |
-| 19 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Gaborone, Botswana | 34 |
+| 15 | [WapaEdzani](https://github.com/WapaEdzani) | Mr Edzani Wapa Omogolo | Gaborone, Botswana | 38 |
+| 16 | [samKenpachi011](https://github.com/samKenpachi011) | Samuel Kabelo | Gaborone Botswana | 37 |
+| 17 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 35 |
+| 18 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Gaborone, Botswana | 34 |
+| 19 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 33 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 32 |
 
-Generated: 2026-10-07T12:04:09.094Z
+Generated: 2026-10-07T12:51:09.133Z

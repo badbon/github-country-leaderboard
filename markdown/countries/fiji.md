@@ -24,8 +24,8 @@ Indexed users: 326
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 887 |
 | 11 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 848 |
 | 12 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 830 |
-| 13 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 830 |
-| 14 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 814 |
+| 13 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 814 |
+| 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 639 |
 | 15 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 624 |
 | 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 502 |
 | 17 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 481 |
@@ -39,8 +39,8 @@ Indexed users: 326
 |---:|---|---|---|---:|
 | 1 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,258 |
 | 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 590 |
-| 3 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 513 |
-| 4 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 502 |
+| 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 502 |
+| 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 466 |
 | 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 402 |
 | 6 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 301 |
 | 7 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 276 |
@@ -83,4 +83,4 @@ Indexed users: 326
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
 
-Generated: 2026-10-07T12:12:16.620Z
+Generated: 2026-10-07T12:58:21.491Z

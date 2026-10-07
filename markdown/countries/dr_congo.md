@@ -1,6 +1,6 @@
 # DR Congo
 
-Indexed users: 703
+Indexed users: 702
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 703
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 68 |
 
-Generated: 2026-10-07T12:10:57.864Z
+Generated: 2026-10-07T12:56:11.615Z

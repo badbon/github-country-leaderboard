@@ -1,6 +1,6 @@
 # Mozambique
 
-Indexed users: 1,173
+Indexed users: 1,172
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,173
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [EMEDE2014](https://github.com/EMEDE2014) | Emede Momade | Nampula/Mozambique | 96 |
 
-Generated: 2026-10-07T12:27:41.697Z
+Generated: 2026-10-07T13:13:24.198Z

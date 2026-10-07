@@ -13,9 +13,9 @@ Indexed users: 256
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,833 |
-| 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,737 |
-| 3 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 1,977 |
-| 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 1,542 |
+| 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,959 |
+| 3 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 2,248 |
+| 4 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 1,977 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,202 |
 | 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,067 |
 | 7 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,064 |
@@ -38,7 +38,7 @@ Indexed users: 256
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,833 |
-| 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 1,003 |
+| 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 617 |
 | 3 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 456 |
 | 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 450 |
 | 5 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 141 |
@@ -49,14 +49,14 @@ Indexed users: 256
 | 10 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman | Brunei Darussalam | 62 |
 | 11 | [Nekrozu](https://github.com/Nekrozu) | Luq | Brunei Darussalam | 62 |
 | 12 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 61 |
-| 13 | [Hifdzullah](https://github.com/Hifdzullah) | Zul | Brunei | 54 |
+| 13 | [ZeeyKhm](https://github.com/ZeeyKhm) | Azizi Keffli | Brunei Darussalam | 57 |
 | 14 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 53 |
-| 15 | [ZeeyKhm](https://github.com/ZeeyKhm) | Azizi Keffli | Brunei Darussalam | 53 |
+| 15 | [Hifdzullah](https://github.com/Hifdzullah) | Zul | Brunei | 52 |
 | 16 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM | Brunei Darussalam | 52 |
 | 17 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 50 |
 | 18 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 49 |
-| 19 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 47 |
-| 20 | [scarliere](https://github.com/scarliere) | Scarliere | Brunei | 44 |
+| 19 | [scarliere](https://github.com/scarliere) | Scarliere | Brunei | 49 |
+| 20 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 47 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [bahit](https://github.com/bahit) | Bahit Hamid | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-07T12:05:42.347Z
+Generated: 2026-10-07T12:51:54.024Z

@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-07T12:28:17.095Z
+Generated: 2026-10-07T13:14:06.094Z
 
 Users: 479
 
@@ -18,11 +18,11 @@ Users: 479
 | 10 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden | 127.0.0.1 |  | Namibia | 416 |
 | 11 | [lamlg00](https://github.com/lamlg00) | Lam II | @cyberpolco | lamlg00 | Windhoek | 407 |
 | 12 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 329 |
-| 13 | [euricodande](https://github.com/euricodande) | Eurico Dande |  | euricodande12 | Namibia-Windhoek | 321 |
-| 14 | [PascalMTK](https://github.com/PascalMTK) |  |  |  | Windhoek - Namibia | 271 |
-| 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Technology  |  | Namibia, Windhoek | 263 |
-| 16 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout |  |  | Windhoek, Namibia | 250 |
-| 17 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung |  |  | Windhoek, Namibia | 237 |
-| 18 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | @erongo  |  | Walvis Bay, Namibia | 230 |
-| 19 | [sein-pr](https://github.com/sein-pr) | Sein Muwana | Ascendes Superius |  | Namibia  | 229 |
-| 20 | [LukeCloete](https://github.com/LukeCloete) | Luke Cloete |  |  | Windhoek, Namibia | 223 |
+| 13 | [PascalMTK](https://github.com/PascalMTK) |  |  |  | Windhoek - Namibia | 271 |
+| 14 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Technology  |  | Namibia, Windhoek | 263 |
+| 15 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout |  |  | Windhoek, Namibia | 250 |
+| 16 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung |  |  | Windhoek, Namibia | 237 |
+| 17 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | @erongo  |  | Walvis Bay, Namibia | 230 |
+| 18 | [sein-pr](https://github.com/sein-pr) | Sein Muwana | Ascendes Superius |  | Namibia  | 229 |
+| 19 | [LukeCloete](https://github.com/LukeCloete) | Luke Cloete |  |  | Windhoek, Namibia | 223 |
+| 20 | [Jama-analyst](https://github.com/Jama-analyst) | Jama | Bank Windhoek |  | Windhoek. Namibia | 219 |

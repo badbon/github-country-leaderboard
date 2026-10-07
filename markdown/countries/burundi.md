@@ -19,11 +19,11 @@ Indexed users: 236
 | 5 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 1,766 |
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,653 |
 | 7 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Burundi/Bujumbura | 1,550 |
-| 8 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,315 |
-| 9 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,295 |
-| 10 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,202 |
-| 11 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,200 |
-| 12 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,177 |
+| 8 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,514 |
+| 9 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,315 |
+| 10 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,295 |
+| 11 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,202 |
+| 12 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,200 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,108 |
 | 14 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 1,021 |
 | 15 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 1,005 |
@@ -75,12 +75,12 @@ Indexed users: 236
 | 11 | [ArtcalO](https://github.com/ArtcalO) | The Lone Wolf | Bujumbura, BURUNDI | 65 |
 | 12 | [WCanirinka](https://github.com/WCanirinka) | Wilfried Canirinka | Bujumbura, Burundi | 61 |
 | 13 | [hakichris](https://github.com/hakichris) | Christian Hakizimana | Burundi  | 46 |
-| 14 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE | Bujumbura, Burundi | 45 |
-| 15 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 45 |
+| 14 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 45 |
+| 15 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE | Bujumbura, Burundi | 43 |
 | 16 | [ntzwilly](https://github.com/ntzwilly) | Willy NTAZAMA | Burundi | 43 |
-| 17 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 40 |
+| 17 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 41 |
 | 18 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 36 |
 | 19 | [mudjaycker](https://github.com/mudjaycker) | MARYIMANA BUTOYI | Bujumbura/BURUNDI | 36 |
 | 20 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 
-Generated: 2026-10-07T12:06:05.563Z
+Generated: 2026-10-07T12:52:15.600Z

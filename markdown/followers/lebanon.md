@@ -1,6 +1,6 @@
 # Followers - Lebanon
 
-Generated: 2026-10-07T12:23:09.096Z
+Generated: 2026-10-07T13:07:02.390Z
 
 Users: 2573
 
@@ -17,7 +17,7 @@ Users: 2573
 | 9 | [V-i-x-x](https://github.com/V-i-x-x) | Vixx | OffSec |  | Lebanon | 257 |
 | 10 | [samih93](https://github.com/samih93) | samih damaj |  | damajsam | Lebanon | 198 |
 | 11 | [abbood](https://github.com/abbood) | Abdullah Bakhach | Village.do |  | Tripoli, Lebanon | 182 |
-| 12 | [CharbelNohra](https://github.com/CharbelNohra) | Charbel Nohra |  |  | Beirut, Lebanon | 158 |
+| 12 | [CharbelNohra](https://github.com/CharbelNohra) | Charbel Nohra |  |  | Beirut, Lebanon | 157 |
 | 13 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | @Instadapp  | KABBOUCHI | Lebanon | 151 |
 | 14 | [kamicut](https://github.com/kamicut) | Marc Farra | @developmentseed  |  | Beirut | 138 |
 | 15 | [SarahMelki](https://github.com/SarahMelki) | Sarah Melki | 100Devs  | _SarahMelki | Beirut, Lebanon | 138 |

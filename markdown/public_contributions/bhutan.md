@@ -1,6 +1,6 @@
 # Public Contributions - Bhutan
 
-Generated: 2026-10-07T12:03:58.543Z
+Generated: 2026-10-07T12:50:39.036Z
 
 Users: 268
 
@@ -19,8 +19,8 @@ Users: 268
 | 11 | [yesheytenzin](https://github.com/yesheytenzin) | tenz |  | tenzyeshey | Thimphu, Bhutan | 296 |
 | 12 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 232 |
 | 13 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | SELISE |  | Thimphu, IT Park | 186 |
-| 14 | [ugyenchoden](https://github.com/ugyenchoden) | ugyen choden | SELISE |  | Thimphu, Bhutan | 186 |
-| 15 | [devdgna](https://github.com/devdgna) | Dev | Bhutan NDI, CoinOn, ScanPrice, Prescaner |  | Kingdom of Bhutan | 163 |
+| 14 | [devdgna](https://github.com/devdgna) | Dev | Bhutan NDI, CoinOn, ScanPrice, Prescaner |  | Kingdom of Bhutan | 163 |
+| 15 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Selise |  | Thimphu, Bhutan | 154 |
 | 16 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | None |  | Bhutan | 152 |
 | 17 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 142 |
 | 18 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo |  |  | Bhutan | 132 |

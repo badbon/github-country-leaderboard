@@ -16,8 +16,8 @@ Indexed users: 2,028
 | 2 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 14,120 |
 | 3 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 13,886 |
 | 4 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 12,823 |
-| 5 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 8,226 |
-| 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 7,713 |
+| 5 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,124 |
+| 6 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 8,226 |
 | 7 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 6,812 |
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 5,899 |
 | 9 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 5,424 |
@@ -83,4 +83,4 @@ Indexed users: 2,028
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-07T12:32:46.241Z
+Generated: 2026-10-07T13:20:56.326Z

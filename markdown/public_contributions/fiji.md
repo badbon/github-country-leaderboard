@@ -1,6 +1,6 @@
 # Public Contributions - Fiji
 
-Generated: 2026-10-07T12:12:16.620Z
+Generated: 2026-10-07T12:58:21.491Z
 
 Users: 326
 
@@ -8,8 +8,8 @@ Users: 326
 |---:|---|---|---|---|---|---:|
 | 1 | [Amdeo](https://github.com/Amdeo) | Cooper |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1258 |
 | 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 590 |
-| 3 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 513 |
-| 4 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 502 |
+| 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 502 |
+| 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 466 |
 | 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 402 |
 | 6 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 301 |
 | 7 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 276 |

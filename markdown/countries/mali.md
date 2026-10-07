@@ -23,15 +23,15 @@ Indexed users: 347
 | 9 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Bamako-Mali | 2,603 |
 | 10 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,333 |
 | 11 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,136 |
-| 12 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,955 |
-| 13 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 1,941 |
-| 14 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 1,792 |
-| 15 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 1,752 |
-| 16 | [Bah-traore](https://github.com/Bah-traore) | Mr.tanjiro_bah | Mali/Bamako | 1,699 |
-| 17 | [Pelpav](https://github.com/Pelpav) | Christian Pavlov Elom Nouboukpo | Bamako | 1,563 |
-| 18 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 1,550 |
-| 19 | [bahamasangare](https://github.com/bahamasangare) | Bahama Sangaré | MALI  | 1,483 |
-| 20 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 1,433 |
+| 12 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 1,966 |
+| 13 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,955 |
+| 14 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 1,941 |
+| 15 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 1,792 |
+| 16 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 1,752 |
+| 17 | [Bah-traore](https://github.com/Bah-traore) | Mr.tanjiro_bah | Mali/Bamako | 1,699 |
+| 18 | [Pelpav](https://github.com/Pelpav) | Christian Pavlov Elom Nouboukpo | Bamako | 1,563 |
+| 19 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 1,550 |
+| 20 | [bahamasangare](https://github.com/bahamasangare) | Bahama Sangaré | MALI  | 1,483 |
 
 ## Public Contributions
 
@@ -48,9 +48,9 @@ Indexed users: 347
 | 9 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 377 |
 | 10 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 368 |
 | 11 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 334 |
-| 12 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 263 |
-| 13 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
-| 14 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 238 |
+| 12 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
+| 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 238 |
+| 14 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 199 |
 | 15 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 185 |
 | 16 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 179 |
 | 17 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 157 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Sidaty](https://github.com/Sidaty) | Sidaty Moulaye KOUREICHY | Bamako, Mali | 27 |
 
-Generated: 2026-10-07T12:25:10.372Z
+Generated: 2026-10-07T13:11:05.178Z

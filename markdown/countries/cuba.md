@@ -13,14 +13,14 @@ Indexed users: 1,294
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 20,408 |
-| 2 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 13,269 |
-| 3 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 11,268 |
-| 4 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 7,235 |
-| 5 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 6,495 |
-| 6 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,976 |
-| 7 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 5,782 |
-| 8 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 5,263 |
-| 9 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba | 5,115 |
+| 2 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 13,456 |
+| 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 13,269 |
+| 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 11,268 |
+| 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 7,235 |
+| 6 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 6,495 |
+| 7 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,976 |
+| 8 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 5,782 |
+| 9 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 5,263 |
 | 10 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés | Santa Clara, Cuba. | 5,098 |
 | 11 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
 | 12 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 3,832 |
@@ -83,4 +83,4 @@ Indexed users: 1,294
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 69 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 68 |
 
-Generated: 2026-10-07T12:08:18.148Z
+Generated: 2026-10-07T12:54:32.499Z

@@ -12,12 +12,12 @@ Indexed users: 87
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,152 |
+| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,153 |
 | 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,002 |
-| 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,096 |
+| 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,123 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 1,833 |
-| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,620 |
-| 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,399 |
+| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,663 |
+| 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,402 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,387 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 935 |
 | 9 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 667 |
@@ -50,7 +50,7 @@ Indexed users: 87
 | 11 | [RomainLAU](https://github.com/RomainLAU) | Romain LAURENT | Baie-Mahault, Guadeloupe | 55 |
 | 12 | [SioTyron](https://github.com/SioTyron) | Tyron | Guadeloupe | 46 |
 | 13 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Les Abymes, Guadeloupe | 45 |
-| 14 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 40 |
+| 14 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 41 |
 | 15 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 39 |
 | 16 | [leho971](https://github.com/leho971) | ZOZO Léo | Guadeloupe | 36 |
 | 17 | [fixups](https://github.com/fixups) | Christophe Théron | Guadeloupe | 30 |
@@ -83,4 +83,4 @@ Indexed users: 87
 | 19 | [Clement97712](https://github.com/Clement97712) |  | Guadeloupe | 6 |
 | 20 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 
-Generated: 2026-10-07T12:13:35.561Z
+Generated: 2026-10-07T13:00:39.559Z

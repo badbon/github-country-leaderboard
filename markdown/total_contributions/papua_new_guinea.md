@@ -1,6 +1,6 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-07T12:32:42.601Z
+Generated: 2026-10-07T13:20:52.390Z
 
 Users: 296
 
@@ -18,8 +18,8 @@ Users: 296
 | 10 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Alef Digital Solutions |  | Port Moresby | 1079 |
 | 11 | [nessktn](https://github.com/nessktn) | Johannes Kutan |  |  | Papua New Guinea | 1048 |
 | 12 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 874 |
-| 13 | [jebudo](https://github.com/jebudo) | Jesse Biribudo |  |  | Port Moresby, Papua New Guinea | 835 |
-| 14 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Yumi Code |  | Port Moresby, 5 Mile | 821 |
+| 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Yumi Code |  | Port Moresby, 5 Mile | 821 |
+| 14 | [jebudo](https://github.com/jebudo) | Jesse Biribudo |  |  | Port Moresby, Papua New Guinea | 567 |
 | 15 | [Amesi](https://github.com/Amesi) | Victor Temokang |  |  | Papua New Guinea | 483 |
 | 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | https://jershmamet.com |  | Port Moresby | 447 |
 | 17 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 330 |

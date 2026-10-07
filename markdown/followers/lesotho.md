@@ -1,6 +1,6 @@
 # Followers - Lesotho
 
-Generated: 2026-10-07T12:23:12.895Z
+Generated: 2026-10-07T13:07:06.170Z
 
 Users: 159
 
@@ -24,5 +24,5 @@ Users: 159
 | 16 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Ducens PTY LTD |  | Maseru | 14 |
 | 17 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Bethord Solutions |  | Maseru, Lesotho | 14 |
 | 18 | [Thomello](https://github.com/Thomello) | Thomello |  |  | Maseru, Lesotho | 14 |
-| 19 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng |  |  | Lesotho | 12 |
-| 20 | [lmphatsi](https://github.com/lmphatsi) | Lebajoa Mphatsi |  |  | Lesotho | 11 |
+| 19 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Weblesotho Networks |  | Maseru | 13 |
+| 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng |  |  | Lesotho | 12 |

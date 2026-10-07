@@ -14,9 +14,9 @@ Indexed users: 186
 |---:|---|---|---|---:|
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,740 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 4,710 |
-| 3 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,494 |
-| 4 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,478 |
-| 5 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 1,344 |
+| 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 3,561 |
+| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,494 |
+| 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,478 |
 | 6 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,268 |
 | 7 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,261 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 730 |
@@ -67,12 +67,12 @@ Indexed users: 186
 | 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | 🇰🇵 Pyongyang, North Korea | 66 |
 | 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 63 |
 | 5 | [norksec](https://github.com/norksec) | NORKSEC | Pyongyang, North Korea | 32 |
-| 6 | [strangerting](https://github.com/strangerting) | Big Kim | Bunker, DPRK | 32 |
-| 7 | [shiftre](https://github.com/shiftre) | Shift | Pyongyang | 31 |
-| 8 | [SleekZ](https://github.com/SleekZ) | SleekZ | Pyongyang | 31 |
-| 9 | [brendan-lee](https://github.com/brendan-lee) | Brendan Lee | Pyongyang, North Korea | 28 |
-| 10 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 27 |
-| 11 | [T1med0ut](https://github.com/T1med0ut) | Timedout | North Korea | 24 |
+| 6 | [shiftre](https://github.com/shiftre) | Shift | Pyongyang | 31 |
+| 7 | [SleekZ](https://github.com/SleekZ) | SleekZ | Pyongyang | 31 |
+| 8 | [strangerting](https://github.com/strangerting) | Big Kim | Bunker, DPRK | 31 |
+| 9 | [brendan-lee](https://github.com/brendan-lee) | Brendan Lee | Pyongyang, North Korea | 30 |
+| 10 | [T1med0ut](https://github.com/T1med0ut) | Timedout | North Korea | 29 |
+| 11 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 27 |
 | 12 | [danilima8](https://github.com/danilima8) | Daniele Lima | North Korea | 18 |
 | 13 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace | Pyongyang, Democrat People's Republic of Korea | 18 |
 | 14 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 17 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-07T12:30:06.311Z
+Generated: 2026-10-07T13:19:28.268Z

@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-10-07T12:21:51.620Z
+Generated: 2026-10-07T13:04:25.581Z
 
 Users: 139
 
@@ -13,7 +13,7 @@ Users: 139
 | 5 | [techtribesje](https://github.com/techtribesje) | techtribes.je |  |  | Jersey, Channel Islands | 55 |
 | 6 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 45 |
 | 7 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 45 |
-| 8 | [cappadona](https://github.com/cappadona) | Nick Cappadona | @anaconda |  | Jersey | 41 |
+| 8 | [cappadona](https://github.com/cappadona) | Nick Cappadona | @anaconda |  | Jersey | 39 |
 | 9 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns |  |  | Jersey, Channel Islands | 37 |
 | 10 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 34 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 33 |
@@ -23,6 +23,6 @@ Users: 139
 | 15 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 24 |
 | 16 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | @Circlr-io |  | Jersey / London | 23 |
 | 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 22 |
-| 18 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale |  |  | Jersey, Channel Islands | 21 |
-| 19 | [danhantao](https://github.com/danhantao) | Jacob |  |  | Jersey | 20 |
-| 20 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | re.je |  | Jersey, Channel Islands | 20 |
+| 18 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | re.je |  | Jersey, Channel Islands | 21 |
+| 19 | [r-moore](https://github.com/r-moore) | Richard Moore | @EWG-Group  |  | Jersey | 21 |
+| 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale |  |  | Jersey, Channel Islands | 20 |

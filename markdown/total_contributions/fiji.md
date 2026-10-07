@@ -1,6 +1,6 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-07T12:12:16.620Z
+Generated: 2026-10-07T12:58:21.491Z
 
 Users: 326
 
@@ -18,8 +18,8 @@ Users: 326
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 887 |
 | 11 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 848 |
 | 12 | [jaclla](https://github.com/jaclla) | Logic | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 830 |
-| 13 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 830 |
-| 14 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 814 |
+| 13 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 814 |
+| 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 639 |
 | 15 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt |  |  | Fiji | 624 |
 | 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 502 |
 | 17 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 481 |

@@ -1,6 +1,6 @@
 # Followers - Jamaica
 
-Generated: 2026-10-07T12:21:46.044Z
+Generated: 2026-10-07T13:03:44.778Z
 
 Users: 1286
 
@@ -9,7 +9,7 @@ Users: 1286
 | 1 | [trevoirwilliams](https://github.com/trevoirwilliams) | Trevoir Williams |  | trevoirwilliams | Jamaica | 1458 |
 | 2 | [jed](https://github.com/jed) | Jed Schmidt |  |  | Kingston, NY | 1144 |
 | 3 | [quirkey](https://github.com/quirkey) | Aaron Quint | Heroku  |  | Kingston, NY | 543 |
-| 4 | [tiannaparris](https://github.com/tiannaparris) | Tianna Parris |  |  | Jamaica | 298 |
+| 4 | [tiannaparris](https://github.com/tiannaparris) | Tianna Parris |  |  | Jamaica | 300 |
 | 5 | [m-oniqu3](https://github.com/m-oniqu3) | monique |  |  | Jamaica | 224 |
 | 6 | [SIsilicon](https://github.com/SIsilicon) | Roujel Williams |  |  | St. Ann, Jamaica | 211 |
 | 7 | [BayBreezy](https://github.com/BayBreezy) | Behon Baker |  | iAm_BayBreezy | Jamaica | 164 |
