@@ -1,8 +1,8 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-07T13:09:25.088Z
+Generated: 2026-10-07T14:04:57.601Z
 
-Users: 448
+Users: 447
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 448
 | 9 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 2345 |
 | 10 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2316 |
 | 11 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 2289 |
-| 12 | [Yh1sam](https://github.com/Yh1sam) |  | Pui Ching Middle School |  | Macau | 1878 |
-| 13 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 1776 |
-| 14 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo |  |  | Macau | 1771 |
-| 15 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 1531 |
-| 16 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1467 |
-| 17 | [HansiChan](https://github.com/HansiChan) | Colin | Sands  | hansiCrypto | Macau | 1294 |
-| 18 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1226 |
-| 19 | [scooorpion](https://github.com/scooorpion) | Xiao |  | Xiao06f | Macau | 1200 |
-| 20 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1126 |
+| 12 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2257 |
+| 13 | [Yh1sam](https://github.com/Yh1sam) |  | Pui Ching Middle School |  | Macau | 2098 |
+| 14 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 1776 |
+| 15 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo |  |  | Macau | 1771 |
+| 16 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 1531 |
+| 17 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1467 |
+| 18 | [HansiChan](https://github.com/HansiChan) | Colin | Sands  | hansiCrypto | Macau | 1294 |
+| 19 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1226 |
+| 20 | [scooorpion](https://github.com/scooorpion) | Xiao |  | Xiao06f | Macau | 1200 |

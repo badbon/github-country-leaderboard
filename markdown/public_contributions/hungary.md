@@ -1,6 +1,6 @@
 # Public Contributions - Hungary
 
-Generated: 2026-10-07T13:02:12.161Z
+Generated: 2026-10-07T13:58:27.078Z
 
 Users: 11198
 
@@ -17,9 +17,9 @@ Users: 11198
 | 9 | [zkochan](https://github.com/zkochan) | Zoltan Kochan | @teambit | zkochan | Budapest 🇭🇺 | 5816 |
 | 10 | [uannoare](https://github.com/uannoare) | Kázmér Balog | Tanaks |  | Hungary | 5666 |
 | 11 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár |  | sagikazarmark | Budapest, Hungary | 5415 |
-| 12 | [sarahelsaig](https://github.com/sarahelsaig) | Sára El-Saig | @Lombiq  |  | Hungary | 5087 |
-| 13 | [farkasmark](https://github.com/farkasmark) | Mark Farkas | @theaifleet |  | Budapest, Hungary; Austin, Texas | 4998 |
-| 14 | [tacshade](https://github.com/tacshade) | TacShade | Frumu LTD |  | Budapest | 4788 |
+| 12 | [tacshade](https://github.com/tacshade) | TacShade | Frumu LTD |  | Budapest | 5137 |
+| 13 | [sarahelsaig](https://github.com/sarahelsaig) | Sára El-Saig | @Lombiq  |  | Hungary | 5087 |
+| 14 | [farkasmark](https://github.com/farkasmark) | Mark Farkas | @theaifleet |  | Budapest, Hungary; Austin, Texas | 4998 |
 | 15 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Golem Cloud / Ziverge Inc. | dvigovszky | Hungary | 4660 |
 | 16 | [laxika](https://github.com/laxika) | Gyula Lakatos | Anthropic |  | Hungary | 4481 |
 | 17 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | @pohi99999 | pohanka_peter | Hungary | 4153 |

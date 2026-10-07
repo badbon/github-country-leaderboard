@@ -53,10 +53,10 @@ Indexed users: 2,462
 | 14 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
 | 15 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | Bishkek, Kyrgyzstan | 1,000 |
 | 16 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 991 |
-| 17 | [SoftEngX](https://github.com/SoftEngX) | Bekbolsun Akimov | Bishkek, Kyrgyzstan | 984 |
-| 18 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 897 |
-| 19 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 822 |
-| 20 | [dimonss](https://github.com/dimonss) | Dmitrii | Bishkek,  Kyrgyzstan | 762 |
+| 17 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 897 |
+| 18 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 822 |
+| 19 | [dimonss](https://github.com/dimonss) | Dmitrii | Bishkek,  Kyrgyzstan | 762 |
+| 20 | [johnlepikhin](https://github.com/johnlepikhin) | Evgenii Lepikhin | Bishkek, Kyrgyzstan | 760 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,462
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 101 |
 
-Generated: 2026-10-07T13:06:45.946Z
+Generated: 2026-10-07T14:03:25.860Z

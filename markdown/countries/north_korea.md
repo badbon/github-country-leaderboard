@@ -1,6 +1,6 @@
 # North Korea
 
-Indexed users: 186
+Indexed users: 185
 
 | Leaderboard | Link |
 |---|---|
@@ -23,9 +23,9 @@ Indexed users: 186
 | 9 | [Aashaby](https://github.com/Aashaby) |  | North Korea | 668 |
 | 10 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
 | 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 565 |
-| 12 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
-| 13 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 490 |
-| 14 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 484 |
+| 12 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 531 |
+| 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
+| 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 490 |
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 376 |
 | 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana | Pyongyang, North Korea | 367 |
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 344 |
@@ -52,7 +52,7 @@ Indexed users: 186
 | 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 182 |
 | 14 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 175 |
 | 15 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 167 |
-| 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | Pyongyang | 140 |
+| 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | Pyongyang | 137 |
 | 17 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace | Pyongyang, Democrat People's Republic of Korea | 95 |
 | 18 | [lavrentious](https://github.com/lavrentious) | lavrent | Democratic People's Republic of Korea | 91 |
 | 19 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 83 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-07T13:19:28.268Z
+Generated: 2026-10-07T14:16:19.059Z

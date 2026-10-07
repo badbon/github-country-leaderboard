@@ -46,12 +46,12 @@ Indexed users: 2,206
 | 7 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh |  Palestine - Ramallah | 1,406 |
 | 8 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Palestine,Ramallah | 1,216 |
 | 9 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | Palestine | 1,193 |
-| 10 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 946 |
+| 10 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush | Nablus, Palestine | 1,014 |
 | 11 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | Palestine, Gaza | 944 |
 | 12 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Palestine  | 922 |
-| 13 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | Palestine/ Gaza | 818 |
-| 14 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab | Palestine, Gaza, Khan yunis | 816 |
-| 15 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush | Nablus, Palestine | 812 |
+| 13 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |
+| 14 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | Palestine/ Gaza | 818 |
+| 15 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab | Palestine, Gaza, Khan yunis | 816 |
 | 16 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa | Palestine | 759 |
 | 17 | [rashaNAlaswad](https://github.com/rashaNAlaswad) | Rasha N. Alaswad | Gaza, Palestine | 741 |
 | 18 | [IbrahimHYazouri](https://github.com/IbrahimHYazouri) | Ibrahim H. Al-Yazouri | Palestine, Gaza | 709 |
@@ -83,4 +83,4 @@ Indexed users: 2,206
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 131 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-07T13:20:16.071Z
+Generated: 2026-10-07T14:17:12.556Z

@@ -1,6 +1,6 @@
 # Public Contributions - Zambia
 
-Generated: 2026-10-07T13:38:10.681Z
+Generated: 2026-10-07T14:31:04.937Z
 
 Users: 1344
 
@@ -18,11 +18,11 @@ Users: 1344
 | 10 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | SAT Limited |  | Zambia | 1010 |
 | 11 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Not Employed |  | Zambia | 951 |
 | 12 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu |  |  | Lusaka | 896 |
-| 13 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 657 |
-| 14 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 649 |
-| 15 | [paritybits](https://github.com/paritybits) | Parity Chizela | @palnet-solutions  | mrbits64 | Zambia | 638 |
-| 16 | [chandachewe10](https://github.com/chandachewe10) | Chanda Chewe | BACK-END DEVELOPER | Chanda84245125 | Zambia | 628 |
-| 17 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 598 |
-| 18 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | OpenEarth Foundation |  | Zambia | 556 |
-| 19 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Covian hive technologies  |  | Zambia  | 555 |
-| 20 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba |  |  | Kitwe, Zambia | 528 |
+| 13 | [214Toto](https://github.com/214Toto) | ToToZ Collection |  |  | Ndola, Copperbelt, Zambia | 724 |
+| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 657 |
+| 15 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 649 |
+| 16 | [paritybits](https://github.com/paritybits) | Parity Chizela | @palnet-solutions  | mrbits64 | Zambia | 638 |
+| 17 | [chandachewe10](https://github.com/chandachewe10) | Chanda Chewe | BACK-END DEVELOPER | Chanda84245125 | Zambia | 628 |
+| 18 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 598 |
+| 19 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | OpenEarth Foundation |  | Zambia | 556 |
+| 20 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Covian hive technologies  |  | Zambia  | 555 |

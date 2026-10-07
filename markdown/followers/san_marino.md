@@ -1,6 +1,6 @@
 # Followers - San Marino
 
-Generated: 2026-10-07T13:27:06.119Z
+Generated: 2026-10-07T14:20:17.332Z
 
 Users: 61
 
@@ -17,9 +17,9 @@ Users: 61
 | 9 | [gchen98](https://github.com/gchen98) | Gary K. Chen | Pioneer Metals |  | San Marino, CA | 17 |
 | 10 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 17 |
 | 11 | [nukedbit](https://github.com/nukedbit) | Sebastian Faltoni | Obsidian Game Studios s.r.l. | nukedbit | San Marino | 17 |
-| 12 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 16 |
-| 13 | [giacomobartoli](https://github.com/giacomobartoli) | Giacomo Bartoli | @IBM |  | San Marino, SMR | 16 |
-| 14 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 16 |
+| 12 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 17 |
+| 13 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 16 |
+| 14 | [giacomobartoli](https://github.com/giacomobartoli) | Giacomo Bartoli | @IBM |  | San Marino, SMR | 16 |
 | 15 | [v1rx](https://github.com/v1rx) | v1r |  |  | San Marino | 16 |
 | 16 | [NeedleCoin](https://github.com/NeedleCoin) | Needle Coin | NeedleCoin |  | San Marino | 14 |
 | 17 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 12 |

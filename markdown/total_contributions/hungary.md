@@ -1,6 +1,6 @@
 # Total Contributions - Hungary
 
-Generated: 2026-10-07T13:02:12.161Z
+Generated: 2026-10-07T13:58:27.078Z
 
 Users: 11198
 
@@ -25,4 +25,4 @@ Users: 11198
 | 17 | [danko-david](https://github.com/danko-david) | David Danko |  |  | Hungary, Miskolc | 10779 |
 | 18 | [Bali0531-RC](https://github.com/Bali0531-RC) | Turi Balázs | @ChorusMcDev @plexinstaller  |  | Hungary | 10698 |
 | 19 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | @wraithlight |  | Budapest, HU | 10644 |
-| 20 | [RolandMarton](https://github.com/RolandMarton) | Márton Roland |  |  | Budapest | 9111 |
+| 20 | [tacshade](https://github.com/tacshade) | TacShade | Frumu LTD |  | Budapest | 9205 |

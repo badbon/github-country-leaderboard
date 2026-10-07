@@ -1,8 +1,8 @@
 # Public Contributions - Haiti
 
-Generated: 2026-10-07T13:01:25.811Z
+Generated: 2026-10-07T13:57:29.545Z
 
-Users: 339
+Users: 338
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 339
 | 12 | [ventzDev509](https://github.com/ventzDev509) | Marceille Eventz | ventzdev |  | Haiti | 212 |
 | 13 | [Joffra](https://github.com/Joffra) | Jonel Francois |  |  | Haiti | 209 |
 | 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 201 |
-| 15 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Reves & Voyages |  | Port-Au-Prince | 194 |
-| 16 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert |  |  | Haiti | 174 |
-| 17 | [eddo4life](https://github.com/eddo4life) | Boaz E.C Theodoris | EddoCommunity | eddo4life | Delmas, Haiti | 167 |
-| 18 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 166 |
-| 19 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Techy trans | clarensromeus | Port-au-prince/Petion-ville | 163 |
-| 20 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | BWT |  | Haiti | 143 |
+| 15 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 198 |
+| 16 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Reves & Voyages |  | Port-Au-Prince | 194 |
+| 17 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert |  |  | Haiti | 174 |
+| 18 | [eddo4life](https://github.com/eddo4life) | Boaz E.C Theodoris | EddoCommunity | eddo4life | Delmas, Haiti | 167 |
+| 19 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 166 |
+| 20 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Techy trans | clarensromeus | Port-au-prince/Petion-ville | 163 |

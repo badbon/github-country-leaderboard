@@ -1,20 +1,20 @@
 # Public Contributions - Myanmar
 
-Generated: 2026-10-07T13:13:59.132Z
+Generated: 2026-10-07T14:08:35.802Z
 
-Users: 2083
+Users: 2082
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | 4 0 4 \ 2.0 [🇲🇲] |  |  | Myanmar | 9661 |
 | 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3322 |
-| 3 | [Oungseik](https://github.com/Oungseik) |  | Crossworks Myanmar |  | Mawlamyine, Mon State, Myanmar | 1495 |
-| 4 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 1415 |
-| 5 | [y3l1n4ung](https://github.com/y3l1n4ung) | Ye Lin Aung | Witz-U |  | Yangon , Myanmar | 1399 |
-| 6 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin |  | Happer64Bit | Myanmar, Yangon, Shwe Pyi Thar | 1376 |
-| 7 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | @Efficient-Soft |  | Yangon, Myanmar | 1349 |
-| 8 | [yoonpyae](https://github.com/yoonpyae) | Yoon Pyae Eain  |  |  | Yangon, Myanmar | 1322 |
-| 9 | [thesithunyein](https://github.com/thesithunyein) | SITHU NYEIN |  | thesithunyein | Yangon, Myanmar | 1284 |
+| 3 | [thesithunyein](https://github.com/thesithunyein) | SITHU NYEIN |  | thesithunyein | Yangon, Myanmar | 2670 |
+| 4 | [Oungseik](https://github.com/Oungseik) |  | Crossworks Myanmar |  | Mawlamyine, Mon State, Myanmar | 1495 |
+| 5 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 1415 |
+| 6 | [y3l1n4ung](https://github.com/y3l1n4ung) | Ye Lin Aung | Witz-U |  | Yangon , Myanmar | 1399 |
+| 7 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin |  | Happer64Bit | Myanmar, Yangon, Shwe Pyi Thar | 1376 |
+| 8 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | @Efficient-Soft |  | Yangon, Myanmar | 1349 |
+| 9 | [yoonpyae](https://github.com/yoonpyae) | Yoon Pyae Eain  |  |  | Yangon, Myanmar | 1322 |
 | 10 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 1251 |
 | 11 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | The NINJA STRIKERS | Ninjastrikers | Myanmar | 1228 |
 | 12 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | @solidplm  |  | Yangon, Myanmar | 1153 |

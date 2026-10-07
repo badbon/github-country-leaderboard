@@ -1,6 +1,6 @@
 # Haiti
 
-Indexed users: 339
+Indexed users: 338
 
 | Leaderboard | Link |
 |---|---|
@@ -25,13 +25,13 @@ Indexed users: 339
 | 11 | [youko509](https://github.com/youko509) |  Erico Saint-Charles | Haiti | 1,795 |
 | 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,756 |
 | 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,601 |
-| 14 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,079 |
-| 15 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,043 |
-| 16 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 928 |
-| 17 | [deldesir](https://github.com/deldesir) | Blondel Mondesir | Haiti | 926 |
-| 18 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 901 |
-| 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 857 |
-| 20 | [desorgui](https://github.com/desorgui) | Guishny Desor | Haiti | 731 |
+| 14 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,316 |
+| 15 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,079 |
+| 16 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,043 |
+| 17 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 928 |
+| 18 | [deldesir](https://github.com/deldesir) | Blondel Mondesir | Haiti | 926 |
+| 19 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 901 |
+| 20 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 857 |
 
 ## Public Contributions
 
@@ -51,12 +51,12 @@ Indexed users: 339
 | 12 | [ventzDev509](https://github.com/ventzDev509) | Marceille Eventz | Haiti | 212 |
 | 13 | [Joffra](https://github.com/Joffra) | Jonel Francois | Haiti | 209 |
 | 14 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 201 |
-| 15 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Port-Au-Prince | 194 |
-| 16 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert | Haiti | 174 |
-| 17 | [eddo4life](https://github.com/eddo4life) | Boaz E.C Theodoris | Delmas, Haiti | 167 |
-| 18 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 166 |
-| 19 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Port-au-prince/Petion-ville | 163 |
-| 20 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | Haiti | 143 |
+| 15 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 198 |
+| 16 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Port-Au-Prince | 194 |
+| 17 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert | Haiti | 174 |
+| 18 | [eddo4life](https://github.com/eddo4life) | Boaz E.C Theodoris | Delmas, Haiti | 167 |
+| 19 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 166 |
+| 20 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Port-au-prince/Petion-ville | 163 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | Haiti | 33 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 
-Generated: 2026-10-07T13:01:25.811Z
+Generated: 2026-10-07T13:57:29.545Z

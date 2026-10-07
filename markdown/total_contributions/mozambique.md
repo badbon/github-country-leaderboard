@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-07T13:13:24.198Z
+Generated: 2026-10-07T14:08:30.096Z
 
 Users: 1172
 
@@ -25,4 +25,4 @@ Users: 1172
 | 17 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Hostmoz |  | Maputo | 2328 |
 | 18 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2265 |
 | 19 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | CarsaiMz |  | Mozambique | 2239 |
-| 20 | [Aderito-Muffins](https://github.com/Aderito-Muffins) | Adérito Muffins | Muffins Corp. |  | Mozambique, Maputo | 2088 |
+| 20 | [Blaze380](https://github.com/Blaze380) | Niuro Orlando Gabriel Langa |  |  | Mozambique | 2133 |

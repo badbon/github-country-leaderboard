@@ -14,10 +14,10 @@ Indexed users: 61
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 11,265 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 9,473 |
-| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,176 |
+| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,181 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,106 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | San Marino, California | 2,306 |
-| 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,262 |
+| 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,266 |
 | 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,169 |
 | 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 2,055 |
 | 9 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 898 |
@@ -73,9 +73,9 @@ Indexed users: 61
 | 9 | [gchen98](https://github.com/gchen98) | Gary K. Chen | San Marino, CA | 17 |
 | 10 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | San Marino | 17 |
 | 11 | [nukedbit](https://github.com/nukedbit) | Sebastian Faltoni | San Marino | 17 |
-| 12 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 16 |
-| 13 | [giacomobartoli](https://github.com/giacomobartoli) | Giacomo Bartoli | San Marino, SMR | 16 |
-| 14 | [simorina](https://github.com/simorina) | Simone Rinaldi | San Marino | 16 |
+| 12 | [simorina](https://github.com/simorina) | Simone Rinaldi | San Marino | 17 |
+| 13 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 16 |
+| 14 | [giacomobartoli](https://github.com/giacomobartoli) | Giacomo Bartoli | San Marino, SMR | 16 |
 | 15 | [v1rx](https://github.com/v1rx) | v1r | San Marino | 16 |
 | 16 | [NeedleCoin](https://github.com/NeedleCoin) | Needle Coin | San Marino | 14 |
 | 17 | [N1K0232](https://github.com/N1K0232) | Nico | Repubblica di San Marino | 12 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 
-Generated: 2026-10-07T13:27:06.119Z
+Generated: 2026-10-07T14:20:17.332Z

@@ -44,11 +44,11 @@ Indexed users: 23,477
 | 5 | [edgarrmondragon](https://github.com/edgarrmondragon) | Edgar Ramírez Mondragón | Mexico | 8,461 |
 | 6 | [Shooksie](https://github.com/Shooksie) | Sami Shukri | Mexico | 7,449 |
 | 7 | [AndrewDryga](https://github.com/AndrewDryga) | Andrew Dryga | Ukraine / Mexico / USA | 7,314 |
-| 8 | [dr-schlange](https://github.com/dr-schlange) |  | Mexico | 6,683 |
-| 9 | [vicrodh](https://github.com/vicrodh) | Victor RH | Mexico City, Mexico | 6,227 |
-| 10 | [MauricioPerera](https://github.com/MauricioPerera) | MauricioPerera | Queretaro, Mexico | 6,165 |
-| 11 | [enriquegomeztagle](https://github.com/enriquegomeztagle) | Enrique Ulises Báez Gómez Tagle | Mexico City | 5,947 |
-| 12 | [pakinja](https://github.com/pakinja) | Francisco Jaramillo Aguilar | Mexico | 5,885 |
+| 8 | [vicrodh](https://github.com/vicrodh) | Victor RH | Mexico City, Mexico | 6,227 |
+| 9 | [MauricioPerera](https://github.com/MauricioPerera) | MauricioPerera | Queretaro, Mexico | 6,165 |
+| 10 | [enriquegomeztagle](https://github.com/enriquegomeztagle) | Enrique Ulises Báez Gómez Tagle | Mexico City | 5,947 |
+| 11 | [pakinja](https://github.com/pakinja) | Francisco Jaramillo Aguilar | Mexico | 5,885 |
+| 12 | [dr-schlange](https://github.com/dr-schlange) |  | Mexico | 5,445 |
 | 13 | [pazbryant7](https://github.com/pazbryant7) | Bryant Paz | Mexico | 4,660 |
 | 14 | [zntznt](https://github.com/zntznt) | Zeo | Puebla, Mexico | 4,556 |
 | 15 | [dontloseyourheadsu](https://github.com/dontloseyourheadsu) | Jesus Alvarez Sombrerero | Mexico, Puebla | 4,254 |
@@ -83,4 +83,4 @@ Indexed users: 23,477
 | 19 | [FiliSantillan](https://github.com/FiliSantillan) | Fili Santillán | Mexico City | 661 |
 | 20 | [edglaz](https://github.com/edglaz) |  | Mexico City | 636 |
 
-Generated: 2026-10-07T13:11:54.532Z
+Generated: 2026-10-07T14:07:18.852Z

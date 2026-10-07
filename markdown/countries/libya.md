@@ -1,6 +1,6 @@
 # Libya
 
-Indexed users: 747
+Indexed users: 746
 
 | Leaderboard | Link |
 |---|---|
@@ -46,9 +46,9 @@ Indexed users: 747
 | 7 | [hazembook](https://github.com/hazembook) | Hazem Shaban | Libya | 669 |
 | 8 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih | Libya | 661 |
 | 9 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr | Libya | 639 |
-| 10 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 617 |
-| 11 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 547 |
-| 12 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi | Tripoli - Lebanon | 427 |
+| 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi | Tripoli - Lebanon | 639 |
+| 11 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 617 |
+| 12 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 547 |
 | 13 | [arousi](https://github.com/arousi) | Sanad AlArousi | Tripoly,Libya | 389 |
 | 14 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | Tripoli, Libya | 368 |
 | 15 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 362 |
@@ -83,4 +83,4 @@ Indexed users: 747
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 50 |
 | 20 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 47 |
 
-Generated: 2026-10-07T13:09:10.778Z
+Generated: 2026-10-07T14:04:38.665Z

@@ -1,8 +1,8 @@
 # Total Contributions - Morocco
 
-Generated: 2026-10-07T13:13:18.568Z
+Generated: 2026-10-07T14:08:20.216Z
 
-Users: 9667
+Users: 9666
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

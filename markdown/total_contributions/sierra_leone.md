@@ -1,6 +1,6 @@
 # Total Contributions - Sierra Leone
 
-Generated: 2026-10-07T13:30:55.517Z
+Generated: 2026-10-07T14:21:14.833Z
 
 Users: 442
 
@@ -23,6 +23,6 @@ Users: 442
 | 15 | [Mevizcode](https://github.com/Mevizcode) | David Cole |  |  | Freetown, Sierra Leone | 1924 |
 | 16 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Core Brim Tech |  | Freetown, Sierra Leone | 1716 |
 | 17 | [abu-bakarr](https://github.com/abu-bakarr) |  | Limkokwing University Student | Boss_Lovel | Sierra Leone | 1625 |
-| 18 | [Emmanuel1255](https://github.com/Emmanuel1255) | Emmanuel Kamanda | Sierra Technologies |  | Freetown | 1566 |
-| 19 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | ATMR |  | TheLoneWulf_WA | Freetown, Sierra Leone | 1518 |
-| 20 | [Jahrulo](https://github.com/Jahrulo) | Jallohseray |  |  | Freetown, Sierra Leone | 1457 |
+| 18 | [Swaray10](https://github.com/Swaray10) | Alusine Swaray |  |  | Sierra Leone | 1607 |
+| 19 | [Emmanuel1255](https://github.com/Emmanuel1255) | Emmanuel Kamanda | Sierra Technologies |  | Freetown | 1566 |
+| 20 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | ATMR |  | TheLoneWulf_WA | Freetown, Sierra Leone | 1518 |

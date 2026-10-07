@@ -78,9 +78,9 @@ Indexed users: 904
 | 14 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay | Montenegro | 128 |
 | 15 | [gh110919](https://github.com/gh110919) | ilia sergeev | Podgorica | 124 |
 | 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic | Montenegro, Podgorica | 105 |
-| 17 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić | Montenegro | 100 |
-| 18 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
-| 19 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perišić | Podgorica, Montenegro | 99 |
+| 17 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perišić | Podgorica, Montenegro | 100 |
+| 18 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić | Montenegro | 100 |
+| 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 86 |
 
-Generated: 2026-10-07T13:12:45.582Z
+Generated: 2026-10-07T14:07:40.102Z

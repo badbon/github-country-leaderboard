@@ -23,11 +23,11 @@ Indexed users: 296
 | 9 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande | Port Moresby, Papua New Guinea | 1,138 |
 | 10 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 1,079 |
 | 11 | [nessktn](https://github.com/nessktn) | Johannes Kutan | Papua New Guinea | 1,048 |
-| 12 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 874 |
-| 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Port Moresby, 5 Mile | 821 |
-| 14 | [jebudo](https://github.com/jebudo) | Jesse Biribudo | Port Moresby, Papua New Guinea | 567 |
-| 15 | [Amesi](https://github.com/Amesi) | Victor Temokang | Papua New Guinea | 483 |
-| 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 447 |
+| 12 | [Amesi](https://github.com/Amesi) | Victor Temokang | Papua New Guinea | 979 |
+| 13 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 874 |
+| 14 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Port Moresby, 5 Mile | 821 |
+| 15 | [jebudo](https://github.com/jebudo) | Jesse Biribudo | Port Moresby, Papua New Guinea | 567 |
+| 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 454 |
 | 17 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 330 |
 | 18 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan | Mt Hagen, Western Highlands Province, Papua New Guinea | 294 |
 | 19 | [gbajesns](https://github.com/gbajesns) | Gabriel Baje | Papua New Guinea | 269 |
@@ -42,7 +42,7 @@ Indexed users: 296
 | 3 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 851 |
 | 4 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 718 |
 | 5 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 549 |
-| 6 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 447 |
+| 6 | [TMJ-24](https://github.com/TMJ-24) | tmj | Port Moresby | 454 |
 | 7 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 330 |
 | 8 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 280 |
 | 9 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 245 |
@@ -71,7 +71,7 @@ Indexed users: 296
 | 7 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 22 |
 | 8 | [sutherlandnele](https://github.com/sutherlandnele) | Sutherland Nele | Port Moresby | 19 |
 | 9 | [161710125](https://github.com/161710125) | Muuu | Papua New Guinea | 16 |
-| 10 | [cravenhoff](https://github.com/cravenhoff) | Crystal Kewe | Port Moresby, Papua New Guinea | 14 |
+| 10 | [cravenhoff](https://github.com/cravenhoff) | Crystal Kewe | Port Moresby, Papua New Guinea | 16 |
 | 11 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 13 |
 | 12 | [ephil2025](https://github.com/ephil2025) | EPHIL | Papua New Guinea | 12 |
 | 13 | [sylvery](https://github.com/sylvery) | Sylver Yagi | Papua New Guinea | 12 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 | 20 | [rex-makusia](https://github.com/rex-makusia) | Rex Makusia | Papua New Guinea | 8 |
 
-Generated: 2026-10-07T13:20:52.390Z
+Generated: 2026-10-07T14:17:35.893Z

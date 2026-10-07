@@ -1,6 +1,6 @@
 # Total Contributions - Mali
 
-Generated: 2026-10-07T13:11:05.178Z
+Generated: 2026-10-07T14:05:42.845Z
 
 Users: 347
 
@@ -10,8 +10,8 @@ Users: 347
 | 2 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | NIANGALY | diblo_n | BAMAKO MALI | 6468 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Logic Fly |  | Bamako-Mali | 6256 |
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | HorizonFuture |  | Bamako, telecel GBS | 5524 |
-| 5 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA |  |  | Bamako,Mali | 4728 |
-| 6 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 4413 |
+| 5 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 5287 |
+| 6 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA |  |  | Bamako,Mali | 4728 |
 | 7 | [MrSakine](https://github.com/MrSakine) | MrSakine |  | mr_sakine | Mali | 3403 |
 | 8 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara |  | karimdiawara96 | JX4X+QX9, Bamako | 2712 |
 | 9 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Doninya Inc. |  | Bamako-Mali | 2603 |

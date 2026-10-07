@@ -1,8 +1,8 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-07T13:32:04.815Z
+Generated: 2026-10-07T14:25:46.119Z
 
-Users: 732
+Users: 731
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 732
 | 16 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | @obaaa  | obaaa8 | sudan | 2103 |
 | 17 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Tamkeen Technology | cre_al | Sudan | 1978 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudagoarth Co.Ltd - سوداغورث المحدودة  | asimsharf | Sudan | 1912 |
-| 19 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 1821 |
-| 20 | [Ahmed-Alkhatim](https://github.com/Ahmed-Alkhatim) | Ahmed alkhatim Awadeljeed | Inovar |  | Sudan | 1815 |
+| 19 | [3li-3bdullah](https://github.com/3li-3bdullah) | Ali Abdullah | Injaazy | AliAbdullah49 | Sudan / Khartoum   | 1831 |
+| 20 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 1821 |

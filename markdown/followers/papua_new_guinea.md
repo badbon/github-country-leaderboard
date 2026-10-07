@@ -1,6 +1,6 @@
 # Followers - Papua New Guinea
 
-Generated: 2026-10-07T13:20:52.390Z
+Generated: 2026-10-07T14:17:35.893Z
 
 Users: 296
 
@@ -15,7 +15,7 @@ Users: 296
 | 7 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 22 |
 | 8 | [sutherlandnele](https://github.com/sutherlandnele) | Sutherland Nele | Cloudcode PNG Limited | suthzy | Port Moresby | 19 |
 | 9 | [161710125](https://github.com/161710125) | Muuu | bram.ltd |  | Papua New Guinea | 16 |
-| 10 | [cravenhoff](https://github.com/cravenhoff) | Crystal Kewe | Crysan Technology Ltd |  | Port Moresby, Papua New Guinea | 14 |
+| 10 | [cravenhoff](https://github.com/cravenhoff) | Crystal Kewe | Crysan Technology Ltd |  | Port Moresby, Papua New Guinea | 16 |
 | 11 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 13 |
 | 12 | [ephil2025](https://github.com/ephil2025) | EPHIL |  |  | Papua New Guinea | 12 |
 | 13 | [sylvery](https://github.com/sylvery) | Sylver Yagi | Sudo Tech |  | Papua New Guinea | 12 |

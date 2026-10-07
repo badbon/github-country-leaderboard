@@ -1,6 +1,6 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-07T13:10:52.038Z
+Generated: 2026-10-07T14:05:10.610Z
 
 Users: 902
 
@@ -19,10 +19,10 @@ Users: 902
 | 11 | [innowowa](https://github.com/innowowa) | Innocent Wowa |  |  | Malawi, Lilongwe | 667 |
 | 12 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire |  |  | Malawi | 635 |
 | 13 | [Forgata](https://github.com/Forgata) | Forgata |  |  | Malawi | 615 |
-| 14 | [MichaelKazembe](https://github.com/MichaelKazembe) | Michael Tatani Kazembe | Mahara Tech | Michael_kazembe | Lilongwe, Malawi | 571 |
-| 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Crosfade Technologies LLC  |  | Lilongwe  | 559 |
-| 16 | [V014](https://github.com/V014) | Wanga Kanjala | Status Premier | void265 | Blantyre, Malawi | 535 |
-| 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 528 |
-| 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 477 |
-| 19 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 456 |
-| 20 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | HavenPlus Technologies |  | Lilongwe | 453 |
+| 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Crosfade Technologies LLC  |  | Lilongwe  | 559 |
+| 15 | [V014](https://github.com/V014) | Wanga Kanjala | Status Premier | void265 | Blantyre, Malawi | 535 |
+| 16 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 528 |
+| 17 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 477 |
+| 18 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 456 |
+| 19 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | HavenPlus Technologies |  | Lilongwe | 453 |
+| 20 | [uniquedj95](https://github.com/uniquedj95) | Daniel Justin | World Bank Group | uniquedj95 | Lilongwe, Malawi | 440 |

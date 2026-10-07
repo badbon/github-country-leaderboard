@@ -1,6 +1,6 @@
 # Public Contributions - Slovakia
 
-Generated: 2026-10-07T13:31:06.681Z
+Generated: 2026-10-07T14:23:33.744Z
 
 Users: 4699
 
@@ -16,7 +16,7 @@ Users: 4699
 | 8 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Kromberg & Schubert | NagyViktordp | Slovakia  | 3713 |
 | 9 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Quality Unit |  | Bratislava | 3667 |
 | 10 | [marianmeres](https://github.com/marianmeres) | Marian Meres |  |  | Bratislava, Slovakia | 3264 |
-| 11 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | @instarea-sk  | fpetko | Bratislava, Slovakia, EU | 3253 |
+| 11 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | @instarea-sk  | fpetko | Bratislava, Slovakia, EU | 3256 |
 | 12 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik |  |  | Slovakia | 3113 |
 | 13 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor |  |  | Slovakia | 3031 |
 | 14 | [NightMean](https://github.com/NightMean) |  |  |  | Slovakia | 3023 |

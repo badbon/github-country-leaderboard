@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-07T13:31:09.877Z
+Generated: 2026-10-07T14:23:40.562Z
 
 Users: 3113
 
@@ -22,7 +22,7 @@ Users: 3113
 | 14 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6682 |
 | 15 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |
 | 16 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 6568 |
-| 17 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev |  |  | Koper, Slovenia | 6505 |
-| 18 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 6261 |
-| 19 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 5921 |
-| 20 | [matijavizintin](https://github.com/matijavizintin) | Matija Vižintin | Outbrain |  | Ljubljana, Slovenia | 4978 |
+| 17 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | @Paxia-team  |  | Ljubljana | 6551 |
+| 18 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev |  |  | Koper, Slovenia | 6505 |
+| 19 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 6261 |
+| 20 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 5921 |

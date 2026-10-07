@@ -1,6 +1,6 @@
 # Followers - Maldives
 
-Generated: 2026-10-07T13:11:01.866Z
+Generated: 2026-10-07T14:05:39.508Z
 
 Users: 356
 
@@ -9,9 +9,9 @@ Users: 356
 | 1 | [CustomIcon](https://github.com/CustomIcon) | ポキ | OLink |  | Male, Maldives | 206 |
 | 2 | [fallenbagel](https://github.com/fallenbagel) |  |  |  | Maldives | 168 |
 | 3 | [Samooh-9820060](https://github.com/Samooh-9820060) | Samooh Moosa |  | Samooh9820060 | Maldives | 131 |
-| 4 | [boring-dragon](https://github.com/boring-dragon) | Boring Dragon | @synetecs @oxiqa @mihaaru | boring_dragon | Maldives | 122 |
+| 4 | [boring-dragon](https://github.com/boring-dragon) | Boring Dragon | @synetecs @oxiqa @mihaaru | boring_dragon | Maldives | 125 |
 | 5 | [reallynattu](https://github.com/reallynattu) | Nattu Adnan | @LottieFiles  | reallynattu | Maldives | 102 |
-| 6 | [eyaadh](https://github.com/eyaadh) | eyaadh | @baivaru | eyaadh | Maldives | 100 |
+| 6 | [eyaadh](https://github.com/eyaadh) | eyaadh | @baivaru | eyaadh | Maldives | 101 |
 | 7 | [raftalks](https://github.com/raftalks) | Raf |  |  | Maldives | 88 |
 | 8 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim |  | fauzaanu | Maldives | 86 |
 | 9 | [aharen](https://github.com/aharen) | Ahmed Khusaam |  | aharen | Malé, Maldives | 80 |

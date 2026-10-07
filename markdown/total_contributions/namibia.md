@@ -1,8 +1,8 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-07T13:14:06.094Z
+Generated: 2026-10-07T14:08:42.123Z
 
-Users: 479
+Users: 478
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

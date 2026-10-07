@@ -64,7 +64,7 @@ Indexed users: 2,028
 |---:|---|---|---|---:|
 | 1 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 2,012 |
 | 2 | [biagiola](https://github.com/biagiola) | David Biagiola | Asunción | 590 |
-| 3 | [lexzer42](https://github.com/lexzer42) | Oscar Rojas | Asunción, Paraguay | 504 |
+| 3 | [lexzer42](https://github.com/lexzer42) | Oscar Rojas | Asunción, Paraguay | 527 |
 | 4 | [crodas](https://github.com/crodas) | C | Asunción, Paraguay | 424 |
 | 5 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla | Paraguay | 408 |
 | 6 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | Paraguay | 383 |
@@ -83,4 +83,4 @@ Indexed users: 2,028
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-07T13:20:56.326Z
+Generated: 2026-10-07T14:17:38.918Z

@@ -1,20 +1,20 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-07T13:09:25.088Z
+Generated: 2026-10-07T14:04:57.601Z
 
-Users: 448
+Users: 447
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 4767 |
 | 2 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 4528 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2526 |
-| 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 1773 |
-| 5 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1226 |
-| 6 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1139 |
-| 7 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1126 |
-| 8 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1025 |
-| 9 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 960 |
+| 4 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2257 |
+| 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 1773 |
+| 6 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1226 |
+| 7 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1139 |
+| 8 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1126 |
+| 9 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1025 |
 | 10 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 885 |
 | 11 | [mrvictoru](https://github.com/mrvictoru) | Victor |  |  | Macau | 798 |
 | 12 | [comsaint](https://github.com/comsaint) | comsaint |  |  | Macau | 758 |

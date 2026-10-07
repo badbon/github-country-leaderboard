@@ -31,7 +31,7 @@ Indexed users: 11,198
 | 17 | [danko-david](https://github.com/danko-david) | David Danko | Hungary, Miskolc | 10,779 |
 | 18 | [Bali0531-RC](https://github.com/Bali0531-RC) | Turi Balázs | Hungary | 10,698 |
 | 19 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | Budapest, HU | 10,644 |
-| 20 | [RolandMarton](https://github.com/RolandMarton) | Márton Roland | Budapest | 9,111 |
+| 20 | [tacshade](https://github.com/tacshade) | TacShade | Budapest | 9,205 |
 
 ## Public Contributions
 
@@ -48,9 +48,9 @@ Indexed users: 11,198
 | 9 | [zkochan](https://github.com/zkochan) | Zoltan Kochan | Budapest 🇭🇺 | 5,816 |
 | 10 | [uannoare](https://github.com/uannoare) | Kázmér Balog | Hungary | 5,666 |
 | 11 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár | Budapest, Hungary | 5,415 |
-| 12 | [sarahelsaig](https://github.com/sarahelsaig) | Sára El-Saig | Hungary | 5,087 |
-| 13 | [farkasmark](https://github.com/farkasmark) | Mark Farkas | Budapest, Hungary; Austin, Texas | 4,998 |
-| 14 | [tacshade](https://github.com/tacshade) | TacShade | Budapest | 4,788 |
+| 12 | [tacshade](https://github.com/tacshade) | TacShade | Budapest | 5,137 |
+| 13 | [sarahelsaig](https://github.com/sarahelsaig) | Sára El-Saig | Hungary | 5,087 |
+| 14 | [farkasmark](https://github.com/farkasmark) | Mark Farkas | Budapest, Hungary; Austin, Texas | 4,998 |
 | 15 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Hungary | 4,660 |
 | 16 | [laxika](https://github.com/laxika) | Gyula Lakatos | Hungary | 4,481 |
 | 17 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | Hungary | 4,153 |
@@ -83,4 +83,4 @@ Indexed users: 11,198
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
 | 20 | [Aylur](https://github.com/Aylur) |  | Hungary | 573 |
 
-Generated: 2026-10-07T13:02:12.161Z
+Generated: 2026-10-07T13:58:27.078Z

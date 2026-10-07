@@ -1,8 +1,8 @@
 # Followers - Montserrat
 
-Generated: 2026-10-07T13:12:52.255Z
+Generated: 2026-10-07T14:08:15.626Z
 
-Users: 291
+Users: 290
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 291
 | 13 | [mbruty](https://github.com/mbruty) | Michael Bruty |  |  | Plymouth | 23 |
 | 14 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | University of Plymouth |  | Plymouth | 22 |
 | 15 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Oracle |  | Plymouth Meeting, PA | 22 |
-| 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft |  | ianckc | Plymouth UK | 21 |
-| 17 | [BeresIvan](https://github.com/BeresIvan) |  | June Co |  | Plymouth, MN | 20 |
-| 18 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Stardock | prestophobia | Plymouth, Michigan | 20 |
+| 16 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Stardock | prestophobia | Plymouth, Michigan | 22 |
+| 17 | [ianckc](https://github.com/ianckc) | Ian Luckraft |  | ianckc | Plymouth UK | 21 |
+| 18 | [BeresIvan](https://github.com/BeresIvan) |  | June Co |  | Plymouth, MN | 20 |
 | 19 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | @Vualto  |  | Plymouth uk | 20 |
 | 20 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Uni of Plymouth |  | Plymouth | 19 |

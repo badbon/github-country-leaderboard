@@ -1,6 +1,6 @@
 # Sudan
 
-Indexed users: 732
+Indexed users: 731
 
 | Leaderboard | Link |
 |---|---|
@@ -30,8 +30,8 @@ Indexed users: 732
 | 16 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 2,103 |
 | 17 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Sudan | 1,978 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 1,912 |
-| 19 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 1,821 |
-| 20 | [Ahmed-Alkhatim](https://github.com/Ahmed-Alkhatim) | Ahmed alkhatim Awadeljeed | Sudan | 1,815 |
+| 19 | [3li-3bdullah](https://github.com/3li-3bdullah) | Ali Abdullah | Sudan / Khartoum   | 1,831 |
+| 20 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 1,821 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 732
 | 19 | [osayami](https://github.com/osayami) | OSAYAMI | Sudan | 50 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 46 |
 
-Generated: 2026-10-07T13:32:04.815Z
+Generated: 2026-10-07T14:25:46.119Z

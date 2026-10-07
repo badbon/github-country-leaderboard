@@ -1,6 +1,6 @@
 # Montserrat
 
-Indexed users: 291
+Indexed users: 290
 
 | Leaderboard | Link |
 |---|---|
@@ -21,7 +21,7 @@ Indexed users: 291
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,290 |
 | 8 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,455 |
 | 9 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 2,426 |
-| 10 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 1,890 |
+| 10 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,030 |
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 1,777 |
 | 12 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,484 |
 | 13 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,194 |
@@ -54,9 +54,9 @@ Indexed users: 291
 | 15 | [gingeapple182](https://github.com/gingeapple182) | Oliver | Plymouth | 301 |
 | 16 | [scollinspt](https://github.com/scollinspt) | Sean Collins | Plymouth, NH | 271 |
 | 17 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 225 |
-| 18 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann | Plymouth, MN USA | 217 |
-| 19 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | Plymouth, Wayne, MI | 207 |
-| 20 | [rshields2004](https://github.com/rshields2004) | Rowan Shields | Plymouth | 193 |
+| 18 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | Plymouth, Wayne, MI | 207 |
+| 19 | [rshields2004](https://github.com/rshields2004) | Rowan Shields | Plymouth | 193 |
+| 20 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann | Plymouth, MN USA | 188 |
 
 ## Followers
 
@@ -77,10 +77,10 @@ Indexed users: 291
 | 13 | [mbruty](https://github.com/mbruty) | Michael Bruty | Plymouth | 23 |
 | 14 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | Plymouth | 22 |
 | 15 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Plymouth Meeting, PA | 22 |
-| 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft | Plymouth UK | 21 |
-| 17 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
-| 18 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 20 |
+| 16 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 22 |
+| 17 | [ianckc](https://github.com/ianckc) | Ian Luckraft | Plymouth UK | 21 |
+| 18 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 19 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | Plymouth uk | 20 |
 | 20 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 19 |
 
-Generated: 2026-10-07T13:12:52.255Z
+Generated: 2026-10-07T14:08:15.626Z

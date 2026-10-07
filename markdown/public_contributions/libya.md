@@ -1,8 +1,8 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-07T13:09:10.778Z
+Generated: 2026-10-07T14:04:38.665Z
 
-Users: 747
+Users: 746
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,9 +15,9 @@ Users: 747
 | 7 | [hazembook](https://github.com/hazembook) | Hazem Shaban | College of Engineering Technology - Janzour | hazembook | Libya | 669 |
 | 8 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih |  |  | Libya | 661 |
 | 9 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 639 |
-| 10 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 617 |
-| 11 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 547 |
-| 12 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi |  | mhmdnab004 | Tripoli - Lebanon | 427 |
+| 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi |  | mhmdnab004 | Tripoli - Lebanon | 639 |
+| 11 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 617 |
+| 12 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 547 |
 | 13 | [arousi](https://github.com/arousi) | Sanad AlArousi |  |  | Tripoly,Libya | 389 |
 | 14 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 368 |
 | 15 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 362 |

@@ -1,6 +1,6 @@
 # Namibia
 
-Indexed users: 479
+Indexed users: 478
 
 | Leaderboard | Link |
 |---|---|
@@ -48,15 +48,15 @@ Indexed users: 479
 | 9 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 432 |
 | 10 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden | Namibia | 416 |
 | 11 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 407 |
-| 12 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 329 |
-| 13 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 271 |
-| 14 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 263 |
-| 15 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout | Windhoek, Namibia | 250 |
-| 16 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung | Windhoek, Namibia | 237 |
-| 17 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 230 |
-| 18 | [sein-pr](https://github.com/sein-pr) | Sein Muwana | Namibia  | 229 |
-| 19 | [LukeCloete](https://github.com/LukeCloete) | Luke Cloete | Windhoek, Namibia | 223 |
-| 20 | [Jama-analyst](https://github.com/Jama-analyst) | Jama | Windhoek. Namibia | 219 |
+| 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 355 |
+| 13 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 329 |
+| 14 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 271 |
+| 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 263 |
+| 16 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout | Windhoek, Namibia | 250 |
+| 17 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung | Windhoek, Namibia | 237 |
+| 18 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 230 |
+| 19 | [sein-pr](https://github.com/sein-pr) | Sein Muwana | Namibia  | 229 |
+| 20 | [LukeCloete](https://github.com/LukeCloete) | Luke Cloete | Windhoek, Namibia | 223 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 479
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [rigred](https://github.com/rigred) | Rigo Reddig | Namibia | 34 |
 
-Generated: 2026-10-07T13:14:06.094Z
+Generated: 2026-10-07T14:08:42.123Z

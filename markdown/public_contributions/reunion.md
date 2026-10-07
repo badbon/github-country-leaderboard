@@ -1,6 +1,6 @@
 # Public Contributions - Réunion
 
-Generated: 2026-10-07T13:23:39.664Z
+Generated: 2026-10-07T14:18:48.689Z
 
 Users: 210
 
@@ -23,6 +23,6 @@ Users: 210
 | 15 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  |  |  93210, Saint-Denis | 276 |
 | 16 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL |  |  | Reunion Island | 267 |
 | 17 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 239 |
-| 18 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | EPITECH |  | Reunion Island | 185 |
-| 19 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch |  |  | Reunion Island | 169 |
+| 18 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch |  |  | Reunion Island | 220 |
+| 19 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | EPITECH |  | Reunion Island | 185 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 162 |

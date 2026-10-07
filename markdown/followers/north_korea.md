@@ -1,8 +1,8 @@
 # Followers - North Korea
 
-Generated: 2026-10-07T13:19:28.268Z
+Generated: 2026-10-07T14:16:19.059Z
 
-Users: 186
+Users: 185
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-07T13:06:45.946Z
+Generated: 2026-10-07T14:03:25.860Z
 
 Users: 2462
 
@@ -22,7 +22,7 @@ Users: 2462
 | 14 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Yldam market |  | Bishkek | 1025 |
 | 15 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | @ultralytics  |  | Bishkek, Kyrgyzstan | 1000 |
 | 16 | [asannov](https://github.com/asannov) | Damir |  |  | Bishkek, Kyrgyz Republic | 991 |
-| 17 | [SoftEngX](https://github.com/SoftEngX) | Bekbolsun Akimov |  |  | Bishkek, Kyrgyzstan | 984 |
-| 18 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 897 |
-| 19 | [er-Bilim](https://github.com/er-Bilim) | notesoat | international university  |  | Bishkek, Kyrgyzstan | 822 |
-| 20 | [dimonss](https://github.com/dimonss) | Dmitrii |  |  | Bishkek,  Kyrgyzstan | 762 |
+| 17 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 897 |
+| 18 | [er-Bilim](https://github.com/er-Bilim) | notesoat | international university  |  | Bishkek, Kyrgyzstan | 822 |
+| 19 | [dimonss](https://github.com/dimonss) | Dmitrii |  |  | Bishkek,  Kyrgyzstan | 762 |
+| 20 | [johnlepikhin](https://github.com/johnlepikhin) | Evgenii Lepikhin | PostgresPro |  | Bishkek, Kyrgyzstan | 760 |

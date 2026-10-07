@@ -53,10 +53,10 @@ Indexed users: 1,937
 | 14 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 921 |
 | 15 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 907 |
 | 16 | [stojce](https://github.com/stojce) | Stojce Slavkovski | Skopje, Macedonia | 861 |
-| 17 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) | Bitola/Macedonia | 828 |
-| 18 | [kapsarovL](https://github.com/kapsarovL) | Lazar Kapsarov | North Macedonia | 808 |
-| 19 | [antonio-ivanovski](https://github.com/antonio-ivanovski) | Antonio | North Macedonia | 768 |
-| 20 | [Facenam3](https://github.com/Facenam3) | Dalibor | Skopje,Macedonia | 765 |
+| 17 | [kapsarovL](https://github.com/kapsarovL) | Lazar Kapsarov | North Macedonia | 808 |
+| 18 | [antonio-ivanovski](https://github.com/antonio-ivanovski) | Antonio | North Macedonia | 768 |
+| 19 | [Facenam3](https://github.com/Facenam3) | Dalibor | Skopje,Macedonia | 765 |
+| 20 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) | Bitola/Macedonia | 761 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,937
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-07T13:19:31.684Z
+Generated: 2026-10-07T14:16:52.888Z

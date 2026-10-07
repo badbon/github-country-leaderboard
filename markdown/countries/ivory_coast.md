@@ -55,8 +55,8 @@ Indexed users: 489
 | 16 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 323 |
 | 17 | [Diby-dev](https://github.com/Diby-dev) | Dan | Côte d'Ivoire, Abidjan | 302 |
 | 18 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | Abidjan, Côte-d'Ivoire | 290 |
-| 19 | [Ebedthan](https://github.com/Ebedthan) | Anicet Ebou | Yamoussoukro, Côte d'Ivoire | 260 |
-| 20 | [Oguidan](https://github.com/Oguidan) | Michael Oguidan | Abidjan, Côte d'Ivoire | 255 |
+| 19 | [Ye180](https://github.com/Ye180) | Youssouf Emmanuel | Abidjan, Côte d'Ivoire | 287 |
+| 20 | [Ebedthan](https://github.com/Ebedthan) | Anicet Ebou | Yamoussoukro, Côte d'Ivoire | 260 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 489
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
 | 20 | [k111ra](https://github.com/k111ra) | sidik slims | Abidjan, Côte D'ivoire | 42 |
 
-Generated: 2026-10-07T13:03:38.358Z
+Generated: 2026-10-07T13:59:45.890Z

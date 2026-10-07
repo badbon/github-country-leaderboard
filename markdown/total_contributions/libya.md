@@ -1,8 +1,8 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-07T13:09:10.778Z
+Generated: 2026-10-07T14:04:38.665Z
 
-Users: 747
+Users: 746
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

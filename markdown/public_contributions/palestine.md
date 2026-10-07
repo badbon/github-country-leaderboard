@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-07T13:20:16.071Z
+Generated: 2026-10-07T14:17:12.556Z
 
 Users: 2206
 
@@ -15,12 +15,12 @@ Users: 2206
 | 7 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh | @Restaurant365 |  |  Palestine - Ramallah | 1406 |
 | 8 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Blue | OMARCODING_LEET | Palestine,Ramallah | 1216 |
 | 9 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | @TransformerLabs  |  | Palestine | 1193 |
-| 10 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine Technical University - Kadoorie |  | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 946 |
+| 10 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush |  |  | Nablus, Palestine | 1014 |
 | 11 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | ISmart Trading and Technology |  | Palestine, Gaza | 944 |
 | 12 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Freelancer  |  | Palestine  | 922 |
-| 13 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | wasla Compony |  | Palestine/ Gaza | 818 |
-| 14 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab |  |  | Palestine, Gaza, Khan yunis | 816 |
-| 15 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush |  |  | Nablus, Palestine | 812 |
+| 13 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine Technical University - Kadoorie |  | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |
+| 14 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | wasla Compony |  | Palestine/ Gaza | 818 |
+| 15 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab |  |  | Palestine, Gaza, Khan yunis | 816 |
 | 16 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa |  |  | Palestine | 759 |
 | 17 | [rashaNAlaswad](https://github.com/rashaNAlaswad) | Rasha N. Alaswad |  |  | Gaza, Palestine | 741 |
 | 18 | [IbrahimHYazouri](https://github.com/IbrahimHYazouri) | Ibrahim H. Al-Yazouri |  |  | Palestine, Gaza | 709 |

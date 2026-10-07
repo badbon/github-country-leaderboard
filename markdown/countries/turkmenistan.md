@@ -31,7 +31,7 @@ Indexed users: 500
 | 17 | [mrxacker](https://github.com/mrxacker) | Orazow Oraz | Turkmenistan, Ashgabat | 2,096 |
 | 18 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 2,086 |
 | 19 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | Mary city, Turkmenistan | 2,053 |
-| 20 | [Nurik9292](https://github.com/Nurik9292) | Timur | Turkmenistan | 1,804 |
+| 20 | [orazgulcayew](https://github.com/orazgulcayew) | Oraz Gulchayev | Turkmenistan | 1,944 |
 
 ## Public Contributions
 
@@ -71,16 +71,16 @@ Indexed users: 500
 | 7 | [narlyyev](https://github.com/narlyyev) | Arslan Narlyyev | Turkmenistan, Ashgabat | 97 |
 | 8 | [orazchollaev](https://github.com/orazchollaev) | Oraznyýaz Çollaýew | Turkmenistan, Ashgabat | 96 |
 | 9 | [resulshm](https://github.com/resulshm) | Resul Shamuhammedov | Ashgabat, Turkmenistan | 91 |
-| 10 | [romanamangeldiev](https://github.com/romanamangeldiev) | Roman Amangeldiev | Turkmenistan | 90 |
-| 11 | [Atamyrat2005](https://github.com/Atamyrat2005) | ᴀᴛᴀᴍʏʀᴀᴛ | Ashgabat/Turkmenistan | 88 |
+| 10 | [Atamyrat2005](https://github.com/Atamyrat2005) | ᴀᴛᴀᴍʏʀᴀᴛ | Ashgabat/Turkmenistan | 87 |
+| 11 | [romanamangeldiev](https://github.com/romanamangeldiev) | Roman Amangeldiev | Turkmenistan | 87 |
 | 12 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 84 |
 | 13 | [hypergadam](https://github.com/hypergadam) | Gadam Jumayev | Ashgabat, Turkmenistan | 81 |
 | 14 | [ArthurAtamuradov](https://github.com/ArthurAtamuradov) | Artur Atamuradov | Turkmenistan | 75 |
 | 15 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 75 |
-| 16 | [Kesha005](https://github.com/Kesha005) | Kerimberdi Saparow | Turkmenistan | 70 |
+| 16 | [Kesha005](https://github.com/Kesha005) | Kerimberdi Saparow | Turkmenistan | 72 |
 | 17 | [mergenchik](https://github.com/mergenchik) | Mergen AGAYEV | Ashgabat, Turkmenistan | 67 |
 | 18 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 67 |
 | 19 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 | 20 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 64 |
 
-Generated: 2026-10-07T13:34:30.680Z
+Generated: 2026-10-07T14:28:10.109Z

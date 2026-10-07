@@ -1,8 +1,8 @@
 # Followers - Tanzania
 
-Generated: 2026-10-07T13:33:05.060Z
+Generated: 2026-10-07T14:26:54.799Z
 
-Users: 2040
+Users: 2038
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -14,7 +14,7 @@ Users: 2040
 | 6 | [Kalebu](https://github.com/Kalebu) | Jordan Kalebu | @NeuroTech-HQ | j_kalebu | Dar es Salaam , Tanzania | 949 |
 | 7 | [isaka-james](https://github.com/isaka-james) | masterplan | @innotake |  | Dodoma, Tanzania | 555 |
 | 8 | [gernest](https://github.com/gernest) | Geofrey Ernest |  |  | Arusha, Tanzania | 412 |
-| 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 411 |
+| 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 409 |
 | 10 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | @KwaWingu | TheCollinsByte | Arusha, Tanzania | 391 |
 | 11 | [benny-png](https://github.com/benny-png) | Benjamin Maziku Mashimba | 3D & Robotics Lab UDSM |  | Dar Es Salaam, TANZANIA | 381 |
 | 12 | [TripleHat](https://github.com/TripleHat) |  |  | tripl3hat | Tanzania | 284 |

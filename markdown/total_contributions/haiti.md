@@ -1,8 +1,8 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-07T13:01:25.811Z
+Generated: 2026-10-07T13:57:29.545Z
 
-Users: 339
+Users: 338
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 339
 | 11 | [youko509](https://github.com/youko509) |  Erico Saint-Charles |  |  | Haiti | 1795 |
 | 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1756 |
 | 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 1601 |
-| 14 | [fater04](https://github.com/fater04) | fater_04 | freelance | fater_04 | Haiti | 1079 |
-| 15 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1043 |
-| 16 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 928 |
-| 17 | [deldesir](https://github.com/deldesir) | Blondel Mondesir |  |  | Haiti | 926 |
-| 18 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 901 |
-| 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | EdManDev | EdmanManigat | Haiti | 857 |
-| 20 | [desorgui](https://github.com/desorgui) | Guishny Desor | @microverseinc | DGuishny | Haiti | 731 |
+| 14 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 1316 |
+| 15 | [fater04](https://github.com/fater04) | fater_04 | freelance | fater_04 | Haiti | 1079 |
+| 16 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1043 |
+| 17 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 928 |
+| 18 | [deldesir](https://github.com/deldesir) | Blondel Mondesir |  |  | Haiti | 926 |
+| 19 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 901 |
+| 20 | [EdManDev](https://github.com/EdManDev) | EdManDev | EdManDev | EdmanManigat | Haiti | 857 |

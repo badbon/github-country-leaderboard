@@ -1,8 +1,8 @@
 # Followers - Qatar
 
-Generated: 2026-10-07T13:32:54.337Z
+Generated: 2026-10-07T14:18:38.542Z
 
-Users: 1075
+Users: 1074
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -31,7 +31,7 @@ Indexed users: 1,172
 | 17 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,328 |
 | 18 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,265 |
 | 19 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 2,239 |
-| 20 | [Aderito-Muffins](https://github.com/Aderito-Muffins) | Adérito Muffins | Mozambique, Maputo | 2,088 |
+| 20 | [Blaze380](https://github.com/Blaze380) | Niuro Orlando Gabriel Langa | Mozambique | 2,133 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,172
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [EMEDE2014](https://github.com/EMEDE2014) | Emede Momade | Nampula/Mozambique | 96 |
 
-Generated: 2026-10-07T13:13:24.198Z
+Generated: 2026-10-07T14:08:30.096Z

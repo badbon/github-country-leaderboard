@@ -1,8 +1,8 @@
 # Public Contributions - Togo
 
-Generated: 2026-10-07T13:33:44.951Z
+Generated: 2026-10-07T14:27:06.578Z
 
-Users: 687
+Users: 686
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 687
 | 9 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Digital-Keys |  | Lomé | 1382 |
 | 10 | [henocn](https://github.com/henocn) | Henoc N'GASAMA |  |  | Kara, Togo | 1308 |
 | 11 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve |  |  | Togo-Lomé  | 1194 |
-| 12 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio |  |  | Togo | 802 |
-| 13 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO |  |  | Lomé, Togo | 748 |
-| 14 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR |  |  | Lomé | 742 |
+| 12 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR |  |  | Lomé | 885 |
+| 13 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio |  |  | Togo | 802 |
+| 14 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO |  |  | Lomé, Togo | 748 |
 | 15 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz |  | AzizMetchonou | Togo | 718 |
 | 16 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | IJEAF |  | Lomé | 647 |
-| 17 | [SevTify404](https://github.com/SevTify404) | SevTify[404] | IAI-TOGO |  | Lomé-Togo | 590 |
-| 18 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU |  |  | Lomé, Togo | 557 |
+| 17 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU |  |  | Lomé, Togo | 605 |
+| 18 | [SevTify404](https://github.com/SevTify404) | SevTify[404] | IAI-TOGO |  | Lomé-Togo | 590 |
 | 19 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | @edo-group | jeandedieudev | Togo | 551 |
 | 20 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 534 |

@@ -1,6 +1,6 @@
 # Followers - Mali
 
-Generated: 2026-10-07T13:11:05.178Z
+Generated: 2026-10-07T14:05:42.845Z
 
 Users: 347
 
@@ -14,7 +14,7 @@ Users: 347
 | 6 | [Lex-corp-crypto](https://github.com/Lex-corp-crypto) | Amadou H TRAORE |  |  | Mali/Bamako | 50 |
 | 7 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 46 |
 | 8 | [iamdanajr](https://github.com/iamdanajr) | Dana JR✨ |  |  | Mali | 46 |
-| 9 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 40 |
+| 9 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 42 |
 | 10 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 37 |
 | 11 | [diarisdiakite](https://github.com/diarisdiakite) | Diariatou Diakite | Full-Stack Developer / Microverse student | diarisdiakite | Bamako - Mali | 35 |
 | 12 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 34 |

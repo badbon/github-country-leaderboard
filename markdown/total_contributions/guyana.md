@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-07T13:01:21.849Z
+Generated: 2026-10-07T13:57:24.106Z
 
 Users: 186
 
@@ -24,5 +24,5 @@ Users: 186
 | 16 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 1544 |
 | 17 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1511 |
 | 18 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1469 |
-| 19 | [owengrant](https://github.com/owengrant) | Owen Grant | Arawak Software Consultancy |  | Guyana | 1260 |
-| 20 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 1232 |
+| 19 | [rjvaleo](https://github.com/rjvaleo) | transelectronic |  |  | Georgetown, Colorado | 1455 |
+| 20 | [owengrant](https://github.com/owengrant) | Owen Grant | Arawak Software Consultancy |  | Guyana | 1260 |

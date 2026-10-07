@@ -47,7 +47,7 @@ Indexed users: 4,699
 | 8 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 3,713 |
 | 9 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 3,667 |
 | 10 | [marianmeres](https://github.com/marianmeres) | Marian Meres | Bratislava, Slovakia | 3,264 |
-| 11 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,253 |
+| 11 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,256 |
 | 12 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik | Slovakia | 3,113 |
 | 13 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor | Slovakia | 3,031 |
 | 14 | [NightMean](https://github.com/NightMean) |  | Slovakia | 3,023 |
@@ -83,4 +83,4 @@ Indexed users: 4,699
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-07T13:31:06.681Z
+Generated: 2026-10-07T14:23:33.744Z

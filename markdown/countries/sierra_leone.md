@@ -29,9 +29,9 @@ Indexed users: 442
 | 15 | [Mevizcode](https://github.com/Mevizcode) | David Cole | Freetown, Sierra Leone | 1,924 |
 | 16 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Freetown, Sierra Leone | 1,716 |
 | 17 | [abu-bakarr](https://github.com/abu-bakarr) |  | Sierra Leone | 1,625 |
-| 18 | [Emmanuel1255](https://github.com/Emmanuel1255) | Emmanuel Kamanda | Freetown | 1,566 |
-| 19 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | ATMR | Freetown, Sierra Leone | 1,518 |
-| 20 | [Jahrulo](https://github.com/Jahrulo) | Jallohseray | Freetown, Sierra Leone | 1,457 |
+| 18 | [Swaray10](https://github.com/Swaray10) | Alusine Swaray | Sierra Leone | 1,607 |
+| 19 | [Emmanuel1255](https://github.com/Emmanuel1255) | Emmanuel Kamanda | Freetown | 1,566 |
+| 20 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | ATMR | Freetown, Sierra Leone | 1,518 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 442
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 28 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-07T13:30:55.517Z
+Generated: 2026-10-07T14:21:14.833Z

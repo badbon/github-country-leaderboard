@@ -1,8 +1,8 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-07T13:07:02.390Z
+Generated: 2026-10-07T14:03:56.710Z
 
-Users: 2573
+Users: 2572
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 2573
 | 16 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | @Instadapp  | KABBOUCHI | Lebanon | 5390 |
 | 17 | [Tamer-Halabi](https://github.com/Tamer-Halabi) | tamerrr | anghami |  | Lebanon | 5181 |
 | 18 | [Salah1221](https://github.com/Salah1221) | Salah Najem | @nesco-lb  |  | Tripoli District, North Governorate, Lebanon | 5091 |
-| 19 | [elie-chaaban](https://github.com/elie-chaaban) | Elie Chaaban | ZainTECH at Zain Group |  | Beirut, Lebanon | 5035 |
-| 20 | [MhdTarhini](https://github.com/MhdTarhini) | Mohamad Tarhini |  |  | Beirut,Lebanon | 5029 |
+| 19 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji |  |  | Lebanon | 5050 |
+| 20 | [elie-chaaban](https://github.com/elie-chaaban) | Elie Chaaban | ZainTECH at Zain Group |  | Beirut, Lebanon | 5035 |

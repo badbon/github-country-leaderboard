@@ -16,8 +16,8 @@ Indexed users: 347
 | 2 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 6,468 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Bamako-Mali | 6,256 |
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 5,524 |
-| 5 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,728 |
-| 6 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 4,413 |
+| 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 5,287 |
+| 6 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,728 |
 | 7 | [MrSakine](https://github.com/MrSakine) | MrSakine | Mali | 3,403 |
 | 8 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 2,712 |
 | 9 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Bamako-Mali | 2,603 |
@@ -41,7 +41,7 @@ Indexed users: 347
 | 2 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,313 |
 | 3 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,414 |
 | 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,174 |
-| 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,117 |
+| 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,126 |
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 635 |
 | 7 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 440 |
 | 8 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 386 |
@@ -70,7 +70,7 @@ Indexed users: 347
 | 6 | [Lex-corp-crypto](https://github.com/Lex-corp-crypto) | Amadou H TRAORE | Mali/Bamako | 50 |
 | 7 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 46 |
 | 8 | [iamdanajr](https://github.com/iamdanajr) | Dana JR✨ | Mali | 46 |
-| 9 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 40 |
+| 9 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 42 |
 | 10 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 37 |
 | 11 | [diarisdiakite](https://github.com/diarisdiakite) | Diariatou Diakite | Bamako - Mali | 35 |
 | 12 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 34 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Sidaty](https://github.com/Sidaty) | Sidaty Moulaye KOUREICHY | Bamako, Mali | 27 |
 
-Generated: 2026-10-07T13:11:05.178Z
+Generated: 2026-10-07T14:05:42.845Z

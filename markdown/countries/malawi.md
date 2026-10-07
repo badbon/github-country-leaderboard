@@ -16,8 +16,8 @@ Indexed users: 902
 | 2 | [dthyolerak](https://github.com/dthyolerak) | Donnex Thyolera Kamsonga | Malawi | 10,378 |
 | 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija | Malawi, Lilongwe | 6,809 |
 | 4 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Lilongwe, Malawi | 6,336 |
-| 5 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Area 47, Lilongwe, Malawi | 5,262 |
-| 6 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 5,055 |
+| 5 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 5,960 |
+| 6 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Area 47, Lilongwe, Malawi | 5,262 |
 | 7 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | Malawi, Africa | 4,693 |
 | 8 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 4,126 |
 | 9 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,086 |
@@ -29,9 +29,9 @@ Indexed users: 902
 | 15 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,470 |
 | 16 | [byamasu-patrick](https://github.com/byamasu-patrick) | Byamasu Patrick Paul |  Malawi | 3,435 |
 | 17 | [dnlmgwi](https://github.com/dnlmgwi) | Daniel P. Mgawi | Malawi | 3,346 |
-| 18 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 3,127 |
-| 19 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Lilongwe, Malawi | 3,041 |
-| 20 | [caesar127](https://github.com/caesar127) | Caesar Ndawala | Malawi | 2,996 |
+| 18 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,129 |
+| 19 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 3,127 |
+| 20 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Lilongwe, Malawi | 3,041 |
 
 ## Public Contributions
 
@@ -50,13 +50,13 @@ Indexed users: 902
 | 11 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 667 |
 | 12 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
 | 13 | [Forgata](https://github.com/Forgata) | Forgata | Malawi | 615 |
-| 14 | [MichaelKazembe](https://github.com/MichaelKazembe) | Michael Tatani Kazembe | Lilongwe, Malawi | 571 |
-| 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 559 |
-| 16 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 535 |
-| 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 528 |
-| 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
-| 19 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 456 |
-| 20 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | Lilongwe | 453 |
+| 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 559 |
+| 15 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 535 |
+| 16 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 528 |
+| 17 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
+| 18 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 456 |
+| 19 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | Lilongwe | 453 |
+| 20 | [uniquedj95](https://github.com/uniquedj95) | Daniel Justin | Lilongwe, Malawi | 440 |
 
 ## Followers
 
@@ -64,11 +64,11 @@ Indexed users: 902
 |---:|---|---|---|---:|
 | 1 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 2,625 |
 | 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  Malawi | 1,424 |
-| 3 | [ACT91](https://github.com/ACT91) | Stanley Gersom | Blantyre , Malawi | 771 |
+| 3 | [ACT91](https://github.com/ACT91) | Stanley Gersom | Blantyre , Malawi | 769 |
 | 4 | [Marhardal](https://github.com/Marhardal) | Martin Harawa | Lilongwe Malaŵi  | 564 |
 | 5 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 479 |
-| 6 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 318 |
-| 7 | [Cardkess-SG](https://github.com/Cardkess-SG) | Blessings Chidambe | Blantyre, MALAWI | 317 |
+| 6 | [Cardkess-SG](https://github.com/Cardkess-SG) | Blessings Chidambe | Blantyre, MALAWI | 367 |
+| 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 303 |
 | 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe | Blantyre, MALAWI | 279 |
 | 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | Blantyre, Malawi | 267 |
 | 10 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | malawi | 249 |
@@ -83,4 +83,4 @@ Indexed users: 902
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 137 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 133 |
 
-Generated: 2026-10-07T13:10:52.038Z
+Generated: 2026-10-07T14:05:10.610Z

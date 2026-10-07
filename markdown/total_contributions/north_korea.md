@@ -1,8 +1,8 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-07T13:19:28.268Z
+Generated: 2026-10-07T14:16:19.059Z
 
-Users: 186
+Users: 185
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,9 +17,9 @@ Users: 186
 | 9 | [Aashaby](https://github.com/Aashaby) |  |  |  | North Korea | 668 |
 | 10 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 607 |
 | 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 565 |
-| 12 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 505 |
-| 13 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 490 |
-| 14 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 484 |
+| 12 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 531 |
+| 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 505 |
+| 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 490 |
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 376 |
 | 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana |  |  | Pyongyang, North Korea | 367 |
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 344 |

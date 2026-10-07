@@ -1,6 +1,6 @@
 # Followers - Guyana
 
-Generated: 2026-10-07T13:01:21.849Z
+Generated: 2026-10-07T13:57:24.106Z
 
 Users: 186
 
@@ -11,14 +11,14 @@ Users: 186
 | 3 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 233 |
 | 4 | [skylerto](https://github.com/skylerto) | Skyler Layne | ShuttleOps |  | Georgetown, ON | 100 |
 | 5 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 59 |
-| 6 | [tylerwhall](https://github.com/tylerwhall) | Tyler Hall | Lexmark |  | Georgetown, KY | 49 |
-| 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 49 |
+| 6 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 49 |
+| 7 | [tylerwhall](https://github.com/tylerwhall) | Tyler Hall | Lexmark |  | Georgetown, KY | 48 |
 | 8 | [anmolnar](https://github.com/anmolnar) | Andor Molnár | @cloudera |  | Georgetown, TX | 45 |
 | 9 | [JoshuaKissoon](https://github.com/JoshuaKissoon) | Joshua Kissoon | Techlify Inc. |  | Georgetown, Guyana | 41 |
 | 10 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 39 |
 | 11 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | @equalizedigital  | heyamberhinds | Georgetown, TX | 37 |
-| 12 | [rlisle](https://github.com/rlisle) | Ron Lisle |  |  | Georgetown, TX | 34 |
-| 13 | [FusionOpz](https://github.com/FusionOpz) | Matthew Sporich | Renegade Studios |  | Georgetown, ON, CA | 33 |
+| 12 | [FusionOpz](https://github.com/FusionOpz) | Matthew Sporich | Renegade Studios |  | Georgetown, ON, CA | 35 |
+| 13 | [rlisle](https://github.com/rlisle) | Ron Lisle |  |  | Georgetown, TX | 34 |
 | 14 | [NathanMLu](https://github.com/NathanMLu) | Nathan Lu |  |  | Georgetown, Texas | 30 |
 | 15 | [ocrram](https://github.com/ocrram) | Marco |  |  | Georgetown, TX | 30 |
 | 16 | [ryanrotman](https://github.com/ryanrotman) | Ryan Rotman | YETI |  | Georgetown, TX | 29 |
