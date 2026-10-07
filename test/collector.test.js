@@ -64,6 +64,12 @@ test("cleans ineligible cached users and preserves the refresh position", async 
     assert.equal(result.state.stats.usersKept, 1);
     assert.ok(result.state.countries.testland.lastCacheChangeAt);
     assert.equal((await readJson("data/state.json")).stats.usersKept, 1);
+    result.state.stats.usersKept = 999;
+    await writeJson("data/state.json", result.state);
+    const restarted = await collect({ countries, client: neverClient(), maxQueries: 0,
+      now: new Date("2026-08-13T00:00:00Z"), sleep: async () => {} });
+    assert.equal(restarted.state.stats.usersKept, 1);
+    assert.equal((await readJson("data/state.json")).stats.usersKept, 1);
   } finally {
     process.chdir(originalCwd);
     await rm(tempDir, { recursive: true, force: true });

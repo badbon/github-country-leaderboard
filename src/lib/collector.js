@@ -51,9 +51,9 @@ export async function collect({
   let refreshRequests = 0;
   let discoveryTurns = 0;
   state.lastRunStartedAt = now.toISOString();
+  state.stats.usersKept = Object.values(caches).reduce((total, users) => total + users.length, 0);
   if (cleanedCaches.length) {
     noteCacheChanges(state, cleanedCaches);
-    state.stats.usersKept = Object.values(caches).reduce((total, users) => total + users.length, 0);
     await persist(state, caches, dryRun, cleanedCaches);
   }
 
