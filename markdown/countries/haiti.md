@@ -1,6 +1,6 @@
 # Haiti
 
-Indexed users: 341
+Indexed users: 340
 
 | Leaderboard | Link |
 |---|---|
@@ -17,9 +17,9 @@ Indexed users: 341
 | 3 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 4,545 |
 | 4 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,166 |
 | 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,398 |
-| 6 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 2,425 |
-| 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,354 |
-| 8 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,317 |
+| 6 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,354 |
+| 7 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,317 |
+| 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 2,243 |
 | 9 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 1,817 |
 | 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,782 |
 | 11 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,756 |
@@ -41,10 +41,10 @@ Indexed users: 341
 | 2 | [deldesir](https://github.com/deldesir) | Blondel Mondesir | Haiti | 443 |
 | 3 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 387 |
 | 4 | [Tonton-ios](https://github.com/Tonton-ios) | Eernst_ | HAITI | 369 |
-| 5 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 328 |
-| 6 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 259 |
-| 7 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Port-au-prince/Petion-ville | 256 |
-| 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 254 |
+| 5 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 343 |
+| 6 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 274 |
+| 7 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 259 |
+| 8 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Port-au-prince/Petion-ville | 256 |
 | 9 | [haitibrand-co](https://github.com/haitibrand-co) | HaitiBrand  | Haiti | 241 |
 | 10 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 236 |
 | 11 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 235 |
@@ -67,8 +67,8 @@ Indexed users: 341
 | 3 | [certilremy](https://github.com/certilremy) | Certil Remy | Haiti | 74 |
 | 4 | [davidsonluma](https://github.com/davidsonluma) | Davidson | Haiti | 72 |
 | 5 | [cbaja](https://github.com/cbaja) | Carly BAJA | HAITI | 71 |
-| 6 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 66 |
-| 7 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 62 |
+| 6 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 62 |
+| 7 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 58 |
 | 8 | [Gardimy](https://github.com/Gardimy) | Gardimy Charles | Haiti | 56 |
 | 9 | [Lemayzeur](https://github.com/Lemayzeur) | Lub Lorry Lamysère | Port-au-Prince - Haiti | 55 |
 | 10 | [deldesir](https://github.com/deldesir) | Blondel Mondesir | Haiti | 52 |
@@ -83,4 +83,4 @@ Indexed users: 341
 | 19 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | Haiti | 33 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 
-Generated: 2026-10-07T09:37:06.940Z
+Generated: 2026-10-07T10:23:40.606Z

@@ -1,8 +1,8 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-07T09:37:06.940Z
+Generated: 2026-10-07T10:23:40.606Z
 
-Users: 341
+Users: 340
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,9 +11,9 @@ Users: 341
 | 3 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 4545 |
 | 4 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 4166 |
 | 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | @jecode93 | jecode93 | Haiti | 3398 |
-| 6 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 2425 |
-| 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Mackandal Technologies |  | Haiti | 2354 |
-| 8 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 2317 |
+| 6 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Mackandal Technologies |  | Haiti | 2354 |
+| 7 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 2317 |
+| 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 2243 |
 | 9 | [platon777](https://github.com/platon777) | Wichley Valentin |  |  | Haiti | 1817 |
 | 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | D-EAT |  | Port-au-Prince | 1782 |
 | 11 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1756 |

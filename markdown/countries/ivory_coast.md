@@ -1,6 +1,6 @@
 # Ivory Coast
 
-Indexed users: 490
+Indexed users: 489
 
 | Leaderboard | Link |
 |---|---|
@@ -73,7 +73,7 @@ Indexed users: 490
 | 9 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 82 |
 | 10 | [karimalik](https://github.com/karimalik) | Karim Kompissi | Abidjan, Côte d'ivoire | 75 |
 | 11 | [philemongloblehi](https://github.com/philemongloblehi) | PHILEMON GLOBLEHI | Ivory Coast | 68 |
-| 12 | [Shadracthechosenone](https://github.com/Shadracthechosenone) | Shadrac | Ivory Coast | 68 |
+| 12 | [Shadracthechosenone](https://github.com/Shadracthechosenone) | Shadrac | Ivory Coast | 61 |
 | 13 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 60 |
 | 14 | [daboujohan-hub](https://github.com/daboujohan-hub) | Diomandé Abou johan | San Pedro, Côte d'Ivoire | 58 |
 | 15 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 57 |
@@ -83,4 +83,4 @@ Indexed users: 490
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
 | 20 | [k111ra](https://github.com/k111ra) | sidik slims | Abidjan, Côte D'ivoire | 42 |
 
-Generated: 2026-10-07T09:38:37.541Z
+Generated: 2026-10-07T10:26:02.194Z

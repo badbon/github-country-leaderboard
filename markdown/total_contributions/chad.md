@@ -1,6 +1,6 @@
 # Total Contributions - Chad
 
-Generated: 2026-10-07T09:27:02.254Z
+Generated: 2026-10-07T10:15:53.081Z
 
 Users: 201
 
@@ -10,7 +10,7 @@ Users: 201
 | 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 2433 |
 | 3 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 644 |
 | 4 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | ACREMAC \| Informastre | baa_pel | TCHAD | 546 |
-| 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TchadiCash | MahamatCherifI4 | TCHAD | 451 |
+| 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TchadiCash | MahamatCherifI4 | TCHAD | 506 |
 | 6 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tikego |  | Tchad | 243 |
 | 7 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 241 |
 | 8 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 233 |
@@ -24,5 +24,5 @@ Users: 201
 | 16 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC |  |  | Tchad | 103 |
 | 17 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | INSTA |  | Tchad | 95 |
 | 18 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 88 |
-| 19 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO |  |  | N'djamena | 57 |
-| 20 | [Yassine235](https://github.com/Yassine235) | Yassine |  |  | Tchad | 55 |
+| 19 | [Muffinlavania](https://github.com/Muffinlavania) | Cristian S | treeofcontent.com |  | chad | 60 |
+| 20 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO |  |  | N'djamena | 57 |

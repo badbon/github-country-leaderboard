@@ -1,6 +1,6 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-07T09:44:24.360Z
+Generated: 2026-10-07T10:28:34.141Z
 
 Users: 113
 
@@ -10,13 +10,13 @@ Users: 113
 | 2 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 3899 |
 | 3 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 3129 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2869 |
-| 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2154 |
+| 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2556 |
 | 6 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 1851 |
 | 7 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1412 |
 | 8 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 1280 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1157 |
-| 10 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 629 |
-| 11 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 585 |
+| 10 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 732 |
+| 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 629 |
 | 12 | [d0dge-dev](https://github.com/d0dge-dev) | David |  |  | Liechtenstein | 473 |
 | 13 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 463 |
 | 14 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 333 |

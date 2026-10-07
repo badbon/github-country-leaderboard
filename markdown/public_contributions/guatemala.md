@@ -1,6 +1,6 @@
 # Public Contributions - Guatemala
 
-Generated: 2026-10-07T09:36:45.586Z
+Generated: 2026-10-07T10:23:25.407Z
 
 Users: 3233
 
@@ -12,7 +12,7 @@ Users: 3233
 | 4 | [acwilan](https://github.com/acwilan) | Andres Rovira | @telus | acwilan | Guatemala | 1666 |
 | 5 | [ivanglpz](https://github.com/ivanglpz) | Ivan Garcia |  | ivanglpz | Guatemala | 1622 |
 | 6 | [oschrenk](https://github.com/oschrenk) | Oliver Schrenk | oschrenk | oschrenk | Guatemala, Guatemala | 1404 |
-| 7 | [Ennero](https://github.com/Ennero) | Enner Mendizabal |  |  | Guatemala,Guatemala city | 1388 |
+| 7 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez |  |  | Guatemala | 1394 |
 | 8 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc |  |  | Guatemala | 1185 |
 | 9 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | HummingFlight |  | Guatemala | 1180 |
 | 10 | [ElrohirGT](https://github.com/ElrohirGT) |  | Tribal |  | Guatemala | 1151 |
@@ -22,7 +22,7 @@ Users: 3233
 | 14 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | @hashgraph @hiero-ledger @swirldslabs  |  | Guatemala | 1107 |
 | 15 | [eylles](https://github.com/eylles) |  |  |  | Guatemala | 1045 |
 | 16 | [marcosbondel](https://github.com/marcosbondel) | Marcos Bonifasi |  | marcosbondel | Guatemala | 988 |
-| 17 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez |  |  | Guatemala | 956 |
-| 18 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | RdGregorio CWS |  | Guatemala | 929 |
-| 19 | [anndreloopez012](https://github.com/anndreloopez012) | AndreTV | ALCORE |  | Guatemala | 917 |
+| 17 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | RdGregorio CWS |  | Guatemala | 929 |
+| 18 | [anndreloopez012](https://github.com/anndreloopez012) | AndreTV | ALCORE |  | Guatemala | 917 |
+| 19 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Universidad del Valle de Guatemala |  | Guatemala, Guatemala | 899 |
 | 20 | [jherreragt](https://github.com/jherreragt) | Julio Herrera |  |  | Guatemala | 885 |

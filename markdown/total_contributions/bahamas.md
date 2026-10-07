@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-07T09:20:35.434Z
+Generated: 2026-10-07T10:11:58.846Z
 
 Users: 238
 
@@ -8,8 +8,8 @@ Users: 238
 |---:|---|---|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 12685 |
 | 2 | [kiarashplusplus](https://github.com/kiarashplusplus) | Kiarash Adl | Undisk MCP |  | Nassau Bay, Texas | 5512 |
-| 3 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3166 |
-| 4 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3055 |
+| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3222 |
+| 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3166 |
 | 5 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 1958 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 1836 |
 | 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour |  |  | New Providence, Bahamas | 1632 |

@@ -1,13 +1,13 @@
 # Followers - Ireland
 
-Generated: 2026-10-07T09:38:23.982Z
+Generated: 2026-10-07T10:25:18.269Z
 
-Users: 19529
+Users: 19527
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [miguelgrinberg](https://github.com/miguelgrinberg) | Miguel Grinberg |  | miguelgrinberg | Ireland | 12946 |
-| 2 | [xcontcom](https://github.com/xcontcom) | Serhii Herasymov | Independent developer | xcontcom | Ireland | 9375 |
+| 2 | [xcontcom](https://github.com/xcontcom) | Serhii Herasymov | Independent developer | xcontcom | Ireland | 12770 |
 | 3 | [orta](https://github.com/orta) | Orta Therox |  |  | London / Huddersfield / NYC / Dublin / RDJ | 6275 |
 | 4 | [pbatard](https://github.com/pbatard) | Pete Batard | akeo.ie |  | Ireland | 3678 |
 | 5 | [purcell](https://github.com/purcell) | Steve Purcell |  |  | Ireland | 3267 |

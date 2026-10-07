@@ -24,12 +24,12 @@ Indexed users: 710
 | 10 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 3,496 |
 | 11 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Dushanbe, Tajikistan | 3,178 |
 | 12 | [D1lsh0d](https://github.com/D1lsh0d) | Dilshod Hojiboev | Khujand, Tajikistan | 3,061 |
-| 13 | [zafardeveloper](https://github.com/zafardeveloper) | Zafar Bobojonov | Tajikistan | 3,045 |
-| 14 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Tajikistan | 2,856 |
-| 15 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov | Tajikistan | 2,768 |
-| 16 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Tajikistan | 2,665 |
-| 17 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | Tajikistan, Dushanbe | 2,583 |
-| 18 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,566 |
+| 13 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Tajikistan | 2,856 |
+| 14 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov | Tajikistan | 2,768 |
+| 15 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Tajikistan | 2,665 |
+| 16 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | Tajikistan, Dushanbe | 2,583 |
+| 17 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,566 |
+| 18 | [zafardeveloper](https://github.com/zafardeveloper) | Zafar Bobojonov | Tajikistan | 2,503 |
 | 19 | [burhon97](https://github.com/burhon97) | Burhonkhon Idriskhonov | Dushanbe | 2,478 |
 | 20 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Dushanbe, Tajikistan | 2,344 |
 
@@ -39,7 +39,7 @@ Indexed users: 710
 |---:|---|---|---|---:|
 | 1 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 2,795 |
 | 2 | [meetmeonlinefree](https://github.com/meetmeonlinefree) | Nekruz | Tajikistan | 1,857 |
-| 3 | [MUHAMMADAMIN100](https://github.com/MUHAMMADAMIN100) | Muhammadamin | Tajikistan,Dushanbe | 1,421 |
+| 3 | [MUHAMMADAMIN100](https://github.com/MUHAMMADAMIN100) | Muhammadamin | Tajikistan,Dushanbe | 1,628 |
 | 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin | Dushanbe Tajikistan | 1,380 |
 | 5 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 996 |
 | 6 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | Dushanbe | 978 |
@@ -83,4 +83,4 @@ Indexed users: 710
 | 19 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 46 |
 
-Generated: 2026-10-07T09:09:56.628Z
+Generated: 2026-10-07T10:04:24.145Z

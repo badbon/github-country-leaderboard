@@ -24,14 +24,14 @@ Indexed users: 108
 | 10 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Manzini, Eswatini | 254 |
 | 11 | [temesgen-tana](https://github.com/temesgen-tana) | Temesgen Tana | Eswatini | 223 |
 | 12 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | Eswatini, Manzini | 187 |
-| 13 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson | Malkerns, Swaziland | 172 |
+| 13 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson | Malkerns, Swaziland | 174 |
 | 14 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Mbabane, Swaziland | 159 |
 | 15 | [Theo-Banx](https://github.com/Theo-Banx) | Banx | Manzini, Swaziland | 133 |
 | 16 | [siko13-bot](https://github.com/siko13-bot) | 202101251 | Mbabane,Eswatini | 94 |
 | 17 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  Eswatini | 73 |
 | 18 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze | Swaziland | 69 |
-| 19 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini | Eswatini | 54 |
-| 20 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | Ezulwini, Eswatini | 50 |
+| 19 | [sicelo](https://github.com/sicelo) | Sicelo | Mbabane, ESWATINI | 60 |
+| 20 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini | Eswatini | 54 |
 
 ## Public Contributions
 
@@ -42,12 +42,12 @@ Indexed users: 108
 | 3 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini | Eswatini | 487 |
 | 4 | [siko13-bot](https://github.com/siko13-bot) | 202101251 | Mbabane,Eswatini | 94 |
 | 5 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 90 |
-| 6 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson | Malkerns, Swaziland | 79 |
+| 6 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson | Malkerns, Swaziland | 81 |
 | 7 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  Eswatini | 73 |
 | 8 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze | Swaziland | 69 |
-| 9 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini | Eswatini | 54 |
-| 10 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | Ezulwini, Eswatini | 50 |
-| 11 | [sicelo](https://github.com/sicelo) | Sicelo | Mbabane, ESWATINI | 49 |
+| 9 | [sicelo](https://github.com/sicelo) | Sicelo | Mbabane, ESWATINI | 60 |
+| 10 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini | Eswatini | 54 |
+| 11 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | Ezulwini, Eswatini | 50 |
 | 12 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Manzini, Eswatini | 47 |
 | 13 | [benele-m](https://github.com/benele-m) | Benele Mamba | Eswatini, | 44 |
 | 14 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | Eswatini, Manzini | 44 |
@@ -69,7 +69,7 @@ Indexed users: 108
 | 5 | [brian25online](https://github.com/brian25online) | Brian Dlamini | Lozitha, Swaziland  | 25 |
 | 6 | [SiveMdluli](https://github.com/SiveMdluli) | Sive Mdluli | ESwatini, Mbabane | 24 |
 | 7 | [mkhulisi](https://github.com/mkhulisi) | mkhulisi | swaziland | 21 |
-| 8 | [sicelo](https://github.com/sicelo) | Sicelo | Mbabane, ESWATINI | 18 |
+| 8 | [sicelo](https://github.com/sicelo) | Sicelo | Mbabane, ESWATINI | 19 |
 | 9 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | Ezulwini, Eswatini | 17 |
 | 10 | [adekunleowolabi](https://github.com/adekunleowolabi) | Adekunle Owolabi | Mbabane, Eswatini | 14 |
 | 11 | [Milly801](https://github.com/Milly801) | Gcwalisile Matse | Mbabane, Eswatini | 13 |
@@ -83,4 +83,4 @@ Indexed users: 108
 | 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 9 |
 | 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Mbabane, Swaziland  | 8 |
 
-Generated: 2026-10-07T09:31:51.921Z
+Generated: 2026-10-07T10:19:57.634Z

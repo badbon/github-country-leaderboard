@@ -1,6 +1,6 @@
 # Followers - Libya
 
-Generated: 2026-10-07T09:44:16.459Z
+Generated: 2026-10-07T10:28:30.731Z
 
 Users: 748
 
@@ -8,9 +8,9 @@ Users: 748
 |---:|---|---|---|---|---|---:|
 | 1 | [absholi7ly](https://github.com/absholi7ly) | Abdualhadi khalifa |  | absholi7ly | Libya | 131 |
 | 2 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag |  |  | Benghazi, Libya | 123 |
-| 3 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 92 |
-| 4 | [mohamedjaouda](https://github.com/mohamedjaouda) | Mohamed Jaouda |  |  | Benghazi, Libya | 90 |
-| 5 | [zakariasassi](https://github.com/zakariasassi) | Zakaria Sassi |  | zakariasassi96 | Libya | 88 |
+| 3 | [mohamedjaouda](https://github.com/mohamedjaouda) | Mohamed Jaouda |  |  | Benghazi, Libya | 90 |
+| 4 | [zakariasassi](https://github.com/zakariasassi) | Zakaria Sassi |  | zakariasassi96 | Libya | 88 |
+| 5 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 86 |
 | 6 | [mohimenly1](https://github.com/mohimenly1) | Mohimen Tantoush |  |  | Tripoli | 82 |
 | 7 | [Altaeb](https://github.com/Altaeb) | Abdelfattah Altaeb |  Namma Technology |  | Libya | 81 |
 | 8 | [boomeradhd](https://github.com/boomeradhd) | Boomer | Freelancer |  | Tripoli, Libya | 77 |

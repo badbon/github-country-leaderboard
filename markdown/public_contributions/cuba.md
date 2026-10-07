@@ -1,6 +1,6 @@
 # Public Contributions - Cuba
 
-Generated: 2026-10-07T09:29:07.934Z
+Generated: 2026-10-07T10:18:08.418Z
 
 Users: 1294
 
@@ -10,7 +10,7 @@ Users: 1294
 | 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  |  |  | Ciego de Ávila, Cuba | 7193 |
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | University of Havana (@matcom) | alepiad | Cuba | 5610 |
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz |  |  | Cuba | 4316 |
-| 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3552 |
+| 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3277 |
 | 6 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | NTSprint |  | Havana, Cuba | 2555 |
 | 7 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez |  |  | Havana, Cuba | 1727 |
 | 8 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Universidad de Matanzas |  | Cuba | 1612 |
@@ -23,6 +23,6 @@ Users: 1294
 | 15 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 985 |
 | 16 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez |  |  | Cárdenas, Matanzas, Cuba | 965 |
 | 17 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | National Center of Clinical Trials | maicel1978 | Cuba | 781 |
-| 18 | [teby00](https://github.com/teby00) | Esteban Daniel Rodríguez Martín  |  |  | Ciego de Ávila, Cuba | 720 |
-| 19 | [VictorHerdz10](https://github.com/VictorHerdz10) | Victor Hernández Salcedo |  | Victor_hendz | La Habana, Cuba. | 699 |
+| 18 | [VictorHerdz10](https://github.com/VictorHerdz10) | Victor Hernández Salcedo |  | Victor_hendz | La Habana, Cuba. | 727 |
+| 19 | [teby00](https://github.com/teby00) | Esteban Daniel Rodríguez Martín  |  |  | Ciego de Ávila, Cuba | 720 |
 | 20 | [Bether12](https://github.com/Bether12) | Ernesto David Gomez Rodriguez |  |  | Villa Clara, Cuba  | 675 |

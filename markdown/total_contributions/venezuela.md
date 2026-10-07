@@ -1,8 +1,8 @@
 # Total Contributions - Venezuela
 
-Generated: 2026-10-07T09:14:59.812Z
+Generated: 2026-10-07T10:07:24.854Z
 
-Users: 6641
+Users: 6640
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,9 +18,9 @@ Users: 6641
 | 10 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Sistemas SCAEM - Dataemergencia |  | Venezuela | 7875 |
 | 11 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto |  |  | Caracas, Venezuela. | 7859 |
 | 12 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Rafael Urdaneta University |  | Venezuela | 7257 |
-| 13 | [botinfyllc](https://github.com/botinfyllc) | Botinfy LLC | Botinfy LLC |  | Venezuela | 7204 |
-| 14 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña |  |  | Venezuela | 6957 |
-| 15 | [rich-97](https://github.com/rich-97) | Ricardo Moreno |  | ricardojmb_ | Maracaibo, Venezuela | 6804 |
+| 13 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña |  |  | Venezuela | 6957 |
+| 14 | [rich-97](https://github.com/rich-97) | Ricardo Moreno |  | ricardojmb_ | Maracaibo, Venezuela | 6804 |
+| 15 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente |  |  | Venezuela | 6705 |
 | 16 | [juniorgerdet](https://github.com/juniorgerdet) | Junior |  |  | Caracas | 6629 |
 | 17 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | MDX | MarceloDesignX | Venezuela | 6287 |
 | 18 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander |  | apastena | Venezuela | 6192 |

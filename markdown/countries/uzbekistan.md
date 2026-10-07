@@ -1,6 +1,6 @@
 # Uzbekistan
 
-Indexed users: 9,515
+Indexed users: 9,513
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 9,515
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [goldendevuz](https://github.com/goldendevuz) | Abdulmajid Yunusov | Chilonzor, Tashkent, Uzbekistan | 301 |
 
-Generated: 2026-10-07T09:14:50.471Z
+Generated: 2026-10-07T10:06:43.376Z

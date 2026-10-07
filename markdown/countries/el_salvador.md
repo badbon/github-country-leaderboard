@@ -1,6 +1,6 @@
 # El Salvador
 
-Indexed users: 2,392
+Indexed users: 2,390
 
 | Leaderboard | Link |
 |---|---|
@@ -41,22 +41,22 @@ Indexed users: 2,392
 | 2 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,137 |
 | 3 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 4,065 |
 | 4 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 2,658 |
-| 5 | [robert-flo](https://github.com/robert-flo) | Roberto Flores | San Salvador, El Salvador | 2,504 |
-| 6 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 2,115 |
-| 7 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 1,986 |
-| 8 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | El Salvador | 1,509 |
-| 9 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 1,305 |
-| 10 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 | El Salvador | 1,304 |
-| 11 | [cornejobarraza](https://github.com/cornejobarraza) | David Cornejo | El Salvador | 1,069 |
-| 12 | [replaceafill](https://github.com/replaceafill) | Douglas Cerna | San Salvador, El Salvador | 1,037 |
-| 13 | [ronirgp](https://github.com/ronirgp) | RONALD PINEDA | El Salvador  | 1,005 |
-| 14 | [FredyRivera-dev](https://github.com/FredyRivera-dev) | Fredy Rivera | El Salvador, San Vicente | 991 |
-| 15 | [Alexisrx96](https://github.com/Alexisrx96) | Irvin Torres | El Salvador | 968 |
-| 16 | [beihaili](https://github.com/beihaili) | bhbtc1337 | El Salvador | 940 |
-| 17 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | El Salvador | 935 |
-| 18 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez | El Salvador, San Salvador | 925 |
-| 19 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 888 |
-| 20 | [castillorobin](https://github.com/castillorobin) | Robin Castillo | Santa Ana, El Salvador | 885 |
+| 5 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 2,115 |
+| 6 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 1,986 |
+| 7 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | El Salvador | 1,509 |
+| 8 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 1,305 |
+| 9 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 | El Salvador | 1,304 |
+| 10 | [cornejobarraza](https://github.com/cornejobarraza) | David Cornejo | El Salvador | 1,069 |
+| 11 | [replaceafill](https://github.com/replaceafill) | Douglas Cerna | San Salvador, El Salvador | 1,037 |
+| 12 | [ronirgp](https://github.com/ronirgp) | RONALD PINEDA | El Salvador  | 1,005 |
+| 13 | [FredyRivera-dev](https://github.com/FredyRivera-dev) | Fredy Rivera | El Salvador, San Vicente | 991 |
+| 14 | [Alexisrx96](https://github.com/Alexisrx96) | Irvin Torres | El Salvador | 968 |
+| 15 | [beihaili](https://github.com/beihaili) | bhbtc1337 | El Salvador | 940 |
+| 16 | [KevLehman](https://github.com/KevLehman) | Kevin Aleman | El Salvador | 935 |
+| 17 | [Francisco-Guillermo-Hernandez](https://github.com/Francisco-Guillermo-Hernandez) | Francisco Guillermo Hernandez | El Salvador, San Salvador | 925 |
+| 18 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 888 |
+| 19 | [castillorobin](https://github.com/castillorobin) | Robin Castillo | Santa Ana, El Salvador | 885 |
+| 20 | [kevocodes](https://github.com/kevocodes) | Kevin Escobar | El Salvador | 873 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,392
 | 19 | [hherzl](https://github.com/hherzl) | HH | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 96 |
 
-Generated: 2026-10-07T09:30:28.790Z
+Generated: 2026-10-07T10:19:19.242Z

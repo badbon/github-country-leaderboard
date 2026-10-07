@@ -1,6 +1,6 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-10-07T09:43:34.575Z
+Generated: 2026-10-07T10:27:40.087Z
 
 Users: 2464
 
@@ -15,9 +15,9 @@ Users: 2464
 | 7 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  |  |  | Kyrgyzstan | 6123 |
 | 8 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik |  |  | Bishkek | 6088 |
 | 9 | [qiniks](https://github.com/qiniks) | Talant Mataev |  |  | Kyrgyzstan | 5566 |
-| 10 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4966 |
-| 11 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov |  |  | Bishkek, Kyrgyzstan | 4762 |
-| 12 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | @aitsolutions |  | Kyrgyzstan | 4702 |
+| 10 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | @aitsolutions |  | Kyrgyzstan | 5086 |
+| 11 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4966 |
+| 12 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov |  |  | Bishkek, Kyrgyzstan | 4762 |
 | 13 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 4549 |
 | 14 | [eeemmm29](https://github.com/eeemmm29) | EM | AIT Solutions |  | Kyrgyzstan | 4386 |
 | 15 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov |  |  | Kyrgyzstan | 4265 |

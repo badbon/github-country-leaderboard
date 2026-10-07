@@ -1,6 +1,6 @@
 # Venezuela
 
-Indexed users: 6,641
+Indexed users: 6,640
 
 | Leaderboard | Link |
 |---|---|
@@ -24,9 +24,9 @@ Indexed users: 6,641
 | 10 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Venezuela | 7,875 |
 | 11 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto | Caracas, Venezuela. | 7,859 |
 | 12 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 7,257 |
-| 13 | [botinfyllc](https://github.com/botinfyllc) | Botinfy LLC | Venezuela | 7,204 |
-| 14 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña | Venezuela | 6,957 |
-| 15 | [rich-97](https://github.com/rich-97) | Ricardo Moreno | Maracaibo, Venezuela | 6,804 |
+| 13 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña | Venezuela | 6,957 |
+| 14 | [rich-97](https://github.com/rich-97) | Ricardo Moreno | Maracaibo, Venezuela | 6,804 |
+| 15 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente | Venezuela | 6,705 |
 | 16 | [juniorgerdet](https://github.com/juniorgerdet) | Junior | Caracas | 6,629 |
 | 17 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | Venezuela | 6,287 |
 | 18 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander | Venezuela | 6,192 |
@@ -83,4 +83,4 @@ Indexed users: 6,641
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-07T09:14:59.812Z
+Generated: 2026-10-07T10:07:24.854Z

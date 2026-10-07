@@ -20,7 +20,7 @@ Indexed users: 315
 | 6 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 1,280 |
 | 7 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,055 |
 | 8 | [Arthur241g](https://github.com/Arthur241g) | Arthur Crown | GABON | 966 |
-| 9 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 714 |
+| 9 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 680 |
 | 10 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 616 |
 | 11 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui | Gabon | 574 |
 | 12 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 557 |
@@ -83,4 +83,4 @@ Indexed users: 315
 | 19 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | Libreville, Gabon | 26 |
 | 20 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 23 |
 
-Generated: 2026-10-07T09:35:12.684Z
+Generated: 2026-10-07T10:21:02.339Z

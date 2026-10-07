@@ -1,8 +1,8 @@
 # Public Contributions - Honduras
 
-Generated: 2026-10-07T09:37:27.388Z
+Generated: 2026-10-07T10:23:52.418Z
 
-Users: 1268
+Users: 1267
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,12 +15,12 @@ Users: 1268
 | 7 | [MilanDroid](https://github.com/MilanDroid) | Antony Brenes | @Bedev |  | Honduras | 1479 |
 | 8 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Independent Developer |  | Honduras | 1466 |
 | 9 | [SevenDogsNTwoCats](https://github.com/SevenDogsNTwoCats) | AE9 |  |  | M.D.C, Honduras | 1155 |
-| 10 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | Universidad Tecnologica Centroamericana |  | Honduras, Cortes | 874 |
+| 10 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | Universidad Tecnologica Centroamericana |  | San Pedro Sula, Cortes, Honduras | 877 |
 | 11 | [HectorOC-e](https://github.com/HectorOC-e) | HectorOC-e |  |  | Marcala, Honduras | 828 |
 | 12 | [sjperalta](https://github.com/sjperalta) | Sergio J. Peralta | Frelancer |  | Honduras | 792 |
-| 13 | [ciriast](https://github.com/ciriast) | Carlos Irias | SODISA | cirias_ | Honduras | 785 |
-| 14 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez |  |  | Honduras | 770 |
-| 15 | [AnthonyAndino](https://github.com/AnthonyAndino) | Anthony Andino |  |  | Honduras | 766 |
+| 13 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez |  |  | Honduras | 770 |
+| 14 | [AnthonyAndino](https://github.com/AnthonyAndino) | Anthony Andino |  |  | Honduras | 766 |
+| 15 | [ciriast](https://github.com/ciriast) | Carlos Irias | SODISA | cirias_ | Honduras | 701 |
 | 16 | [antoniolocandro](https://github.com/antoniolocandro) | Antonio Locandro | Aviation Consultant | antoniolocandro | Honduras | 664 |
 | 17 | [dantonifa](https://github.com/dantonifa) | David Antonio Fajardo Ponce | SEFAPON |  | San Pedro Sula, Honduras | 627 |
 | 18 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | KSS | ajomuch92 | Comayagua, Honduras | 626 |

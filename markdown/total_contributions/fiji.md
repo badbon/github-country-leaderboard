@@ -1,28 +1,28 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-07T09:34:00.843Z
+Generated: 2026-10-07T10:20:10.992Z
 
-Users: 329
+Users: 327
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 2970 |
-| 2 | [xue1213888](https://github.com/xue1213888) | XueSichen |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 2019 |
-| 3 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji National University  |  | Fiji | 1285 |
-| 4 | [Amdeo](https://github.com/Amdeo) | Cooper |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1258 |
-| 5 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 1136 |
-| 6 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish |  |  | Fiji | 1054 |
-| 7 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 1025 |
-| 8 | [crazybanboo](https://github.com/crazybanboo) | Ethan | sunmi |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 975 |
-| 9 | [ApophisX](https://github.com/ApophisX) | GienWang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 958 |
-| 10 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah |  |  | SUVA | 891 |
-| 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 887 |
-| 12 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 848 |
-| 13 | [jaclla](https://github.com/jaclla) | Logic | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 830 |
-| 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 830 |
-| 15 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt |  |  | Fiji | 624 |
-| 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 502 |
-| 17 | [Shoneel](https://github.com/Shoneel) |  |  |  | Fiji, Suva  | 481 |
-| 18 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 481 |
-| 19 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 419 |
-| 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy |  |  | Fiji | 399 |
+| 2 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji National University  |  | Fiji | 1285 |
+| 3 | [Amdeo](https://github.com/Amdeo) | Cooper |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1258 |
+| 4 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 1136 |
+| 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish |  |  | Fiji | 1054 |
+| 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | sunmi |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 975 |
+| 7 | [ApophisX](https://github.com/ApophisX) | GienWang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 958 |
+| 8 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah |  |  | SUVA | 891 |
+| 9 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 887 |
+| 10 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 848 |
+| 11 | [jaclla](https://github.com/jaclla) | Logic | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 830 |
+| 12 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 830 |
+| 13 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 814 |
+| 14 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt |  |  | Fiji | 624 |
+| 15 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 502 |
+| 16 | [Shoneel](https://github.com/Shoneel) |  |  |  | Fiji, Suva  | 481 |
+| 17 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 481 |
+| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 419 |
+| 19 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy |  |  | Fiji | 399 |
+| 20 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 276 |

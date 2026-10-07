@@ -1,6 +1,6 @@
 # Followers - Brunei
 
-Generated: 2026-10-07T09:24:52.895Z
+Generated: 2026-10-07T10:14:20.465Z
 
 Users: 256
 
@@ -18,11 +18,11 @@ Users: 256
 | 10 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 23 |
 | 11 | [sk8teroy](https://github.com/sk8teroy) |  |  |  | Brunei | 22 |
 | 12 | [nz-is](https://github.com/nz-is) | Nazrul Ismail | Universiti Brunei Darussalam |  | Brunei Darussalam | 21 |
-| 13 | [BenitzCoding](https://github.com/BenitzCoding) | BenitzCoding | @Senarc-Studios | BenitzCoding | Brunei | 19 |
+| 13 | [BenitzCoding](https://github.com/BenitzCoding) | BenitzCoding | @Senarc-Studios | BenitzCoding | Brunei | 20 |
 | 14 | [lordsayur](https://github.com/lordsayur) | Omar | Datastream Digital |  | Brunei | 18 |
 | 15 | [acyein](https://github.com/acyein) | Yein |  |  | Brunei | 17 |
 | 16 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 17 |
 | 17 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 15 |
 | 18 | [snek5](https://github.com/snek5) | Azim Anuar |  |  | Brunei | 15 |
-| 19 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Firdautama | affenrahim245 | Brunei Darussalam | 14 |
-| 20 | [bahit](https://github.com/bahit) | Bahit Hamid | Bahit Designs |  | Brunei | 14 |
+| 19 | [bahit](https://github.com/bahit) | Bahit Hamid | Bahit Designs |  | Brunei | 14 |
+| 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Firdautama | affenrahim245 | Brunei Darussalam | 13 |

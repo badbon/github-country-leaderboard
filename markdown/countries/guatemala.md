@@ -43,7 +43,7 @@ Indexed users: 3,233
 | 4 | [acwilan](https://github.com/acwilan) | Andres Rovira | Guatemala | 1,666 |
 | 5 | [ivanglpz](https://github.com/ivanglpz) | Ivan Garcia | Guatemala | 1,622 |
 | 6 | [oschrenk](https://github.com/oschrenk) | Oliver Schrenk | Guatemala, Guatemala | 1,404 |
-| 7 | [Ennero](https://github.com/Ennero) | Enner Mendizabal | Guatemala,Guatemala city | 1,388 |
+| 7 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez | Guatemala | 1,394 |
 | 8 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 1,185 |
 | 9 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,180 |
 | 10 | [ElrohirGT](https://github.com/ElrohirGT) |  | Guatemala | 1,151 |
@@ -53,9 +53,9 @@ Indexed users: 3,233
 | 14 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,107 |
 | 15 | [eylles](https://github.com/eylles) |  | Guatemala | 1,045 |
 | 16 | [marcosbondel](https://github.com/marcosbondel) | Marcos Bonifasi | Guatemala | 988 |
-| 17 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez | Guatemala | 956 |
-| 18 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 929 |
-| 19 | [anndreloopez012](https://github.com/anndreloopez012) | AndreTV | Guatemala | 917 |
+| 17 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 929 |
+| 18 | [anndreloopez012](https://github.com/anndreloopez012) | AndreTV | Guatemala | 917 |
+| 19 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Guatemala, Guatemala | 899 |
 | 20 | [jherreragt](https://github.com/jherreragt) | Julio Herrera | Guatemala | 885 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 3,233
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-07T09:36:45.586Z
+Generated: 2026-10-07T10:23:25.407Z

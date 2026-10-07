@@ -1,17 +1,17 @@
 # Public Contributions - Guadeloupe
 
-Generated: 2026-10-07T09:36:39.680Z
+Generated: 2026-10-07T10:22:39.082Z
 
 Users: 87
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1387 |
-| 2 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 674 |
-| 3 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 664 |
-| 4 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU |  |  | Guadeloupe | 492 |
-| 5 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 451 |
-| 6 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 303 |
+| 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 664 |
+| 3 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU |  |  | Guadeloupe | 492 |
+| 4 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 451 |
+| 5 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 303 |
+| 6 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 228 |
 | 7 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 144 |
 | 8 | [KaribbeanCreative](https://github.com/KaribbeanCreative) | Karibbean Creative |  |  | Guadeloupe | 74 |
 | 9 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR |  |  | Basse-Terre, Guadeloupe | 72 |

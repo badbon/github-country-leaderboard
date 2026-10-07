@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 470
+Indexed users: 468
 
 | Leaderboard | Link |
 |---|---|
@@ -66,9 +66,9 @@ Indexed users: 470
 | 2 | [Washi1337](https://github.com/Washi1337) | Washi | McMurdo Station, Antarctica | 610 |
 | 3 | [r-lyeh](https://github.com/r-lyeh) |  | Vostok, Antarctica | 463 |
 | 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon | Antarctica | 342 |
-| 5 | [kura](https://github.com/kura) | Kura | Halley Research Station, Antarctica | 201 |
-| 6 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 192 |
-| 7 | [walterwhite-69](https://github.com/walterwhite-69) | Walter | Antarctica | 175 |
+| 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter | Antarctica | 216 |
+| 6 | [kura](https://github.com/kura) | Kura | Halley Research Station, Antarctica | 201 |
+| 7 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 192 |
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 133 |
 | 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 123 |
 | 10 | [examachine](https://github.com/examachine) | Eray Özkural | Dead City, Antarctica | 122 |
@@ -83,4 +83,4 @@ Indexed users: 470
 | 19 | [crse](https://github.com/crse) |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 77 |
 
-Generated: 2026-10-07T09:19:36.007Z
+Generated: 2026-10-07T10:10:51.680Z

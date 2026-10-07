@@ -1,13 +1,13 @@
 # Total Contributions - Ghana
 
-Generated: 2026-10-07T09:35:17.478Z
+Generated: 2026-10-07T10:21:11.859Z
 
 Users: 7096
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong |  |  | Accra, Ghana | 67756 |
-| 2 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Monarch Holdings |  | Ghana | 53357 |
+| 1 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Monarch Holdings |  | Ghana | 78019 |
+| 2 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong |  |  | Accra, Ghana | 67756 |
 | 3 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | @tech-plus-plus |  | Accra, Ghana | 33429 |
 | 4 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | @CodeCadence | heiskimathi | Ghana | 30619 |
 | 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | CEO at Toazeo, Fullstack Dev @wonchunii. |  | Takoradi, Western Region, Ghana. | 22798 |

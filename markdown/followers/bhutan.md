@@ -1,8 +1,8 @@
 # Followers - Bhutan
 
-Generated: 2026-10-07T09:22:57.366Z
+Generated: 2026-10-07T10:13:09.257Z
 
-Users: 270
+Users: 269
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -18,7 +18,7 @@ Users: 270
 | 10 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 31 |
 | 11 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 30 |
 | 12 | [ugyentring](https://github.com/ugyentring) | Ugyen Tshering |  |  | Bhutan | 30 |
-| 13 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 28 |
+| 13 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 29 |
 | 14 | [lit-poks](https://github.com/lit-poks) | Lalit Pokhrel | SELISE Bhutan |  | Thimphu, Bhutan | 28 |
 | 15 | [c19850727](https://github.com/c19850727) | Sakaguchi |  | nzm8qs | Thimphu & Hong Kong & Tokyo | 24 |
 | 16 | [devsangay](https://github.com/devsangay) | Sangay Wangdi |  SELISE Digital Platforms |  | Bhutan | 23 |

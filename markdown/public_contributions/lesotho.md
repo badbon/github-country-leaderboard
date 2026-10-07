@@ -1,8 +1,8 @@
 # Public Contributions - Lesotho
 
-Generated: 2026-10-07T09:43:48.742Z
+Generated: 2026-10-07T10:28:23.876Z
 
-Users: 161
+Users: 160
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,7 +21,7 @@ Users: 161
 | 13 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali |  |  | Lesotho | 101 |
 | 14 | [Relebo1](https://github.com/Relebo1) | Relebohile Sekutlu | Mindforge AI |  | Maseru | 101 |
 | 15 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana |  |  | Upper Thamae Maseru | 99 |
-| 16 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | OCAES  | ocaes_lso | Lesotho | 97 |
+| 16 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | OCAES  | ocaes_lso | Lesotho | 98 |
 | 17 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello |  |  | Maseru, Lesotho | 87 |
 | 18 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg |  | ThisisNapoQheku | Lesotho, Maseru | 74 |
 | 19 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | National University of Lesotho, Hubsec Solutions |  | Lesotho | 73 |

@@ -1,8 +1,8 @@
 # Followers - Armenia
 
-Generated: 2026-10-07T09:19:45.273Z
+Generated: 2026-10-07T10:11:44.556Z
 
-Users: 4048
+Users: 4047
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -12,8 +12,8 @@ Users: 4048
 | 4 | [Gor-Hoveyan](https://github.com/Gor-Hoveyan) | Gor Hoveyan |  |  | Armenia | 931 |
 | 5 | [AlekSi](https://github.com/AlekSi) | Alexey Palazhchenko |  | paaleksey | Armenia | 797 |
 | 6 | [MohammedRashad](https://github.com/MohammedRashad) | Rashad |  |  | Yerevan, Armenia | 624 |
-| 7 | [hasmiksarg](https://github.com/hasmiksarg) | Has |  |  | Yerevan, Armenia | 590 |
-| 8 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 586 |
+| 7 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 586 |
+| 8 | [hasmiksarg](https://github.com/hasmiksarg) | Has |  |  | Yerevan, Armenia | 578 |
 | 9 | [noptrix](https://github.com/noptrix) | noptrix | nullsecurity, nullsecurity labs, blackarch linux | noptrix | Armenia, Cyprus, Stack, Heap | 546 |
 | 10 | [vahan-sahakyan](https://github.com/vahan-sahakyan) | Vahan Sahakyan | Optimum Partners | _vahan_sahakyan | Yerevan, Armenia | 480 |
 | 11 | [AndreiMaz](https://github.com/AndreiMaz) | Andrei Mazulnitsyn | nopCommerce team |  | Armenia | 477 |

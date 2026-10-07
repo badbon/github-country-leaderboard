@@ -1,6 +1,6 @@
 # Public Contributions - Uganda
 
-Generated: 2026-10-07T09:13:05.958Z
+Generated: 2026-10-07T10:05:41.273Z
 
 Users: 3879
 
@@ -16,13 +16,13 @@ Users: 3879
 | 8 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick |  |  | kampala | 2859 |
 | 9 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi |  |  | Uganda | 2776 |
 | 10 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL |  | buteramarcel | Kampala,Uganda | 2624 |
-| 11 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Peter Bamuhigire | peterbamu | Kampala, Uganda | 2422 |
-| 12 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Concept Crashers @Concept-Crashers  | wambogohassan | Kampala Uganda | 2169 |
-| 13 | [kasasa22](https://github.com/kasasa22) | Kasasa Livingstone Trevor |  | Kasasatrevor | Uganda | 2056 |
-| 14 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark |  |  | Kampala,Uganda | 1970 |
-| 15 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Netbritz |  | Kampala | 1958 |
-| 16 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 1930 |
-| 17 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | Wota creators Technologies  | JoashKutee80790 | uganda  | 1917 |
-| 18 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | @ReadBuddy, @airqo-platform | belindamarionk | Kampala, Uganda | 1904 |
-| 19 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan |  | TibzDankan | Kampala/Uganda | 1891 |
-| 20 | [afuchat1](https://github.com/afuchat1) | afuchat | AfuChat |  | Uganda | 1830 |
+| 11 | [afuchat1](https://github.com/afuchat1) | afuchat | AfuChat |  | Uganda | 2539 |
+| 12 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Peter Bamuhigire | peterbamu | Kampala, Uganda | 2422 |
+| 13 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Concept Crashers @Concept-Crashers  | wambogohassan | Kampala Uganda | 2169 |
+| 14 | [kasasa22](https://github.com/kasasa22) | Kasasa Livingstone Trevor |  | Kasasatrevor | Uganda | 2056 |
+| 15 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark |  |  | Kampala,Uganda | 1970 |
+| 16 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Netbritz |  | Kampala | 1958 |
+| 17 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 1930 |
+| 18 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | Wota creators Technologies  | JoashKutee80790 | uganda  | 1917 |
+| 19 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | @ReadBuddy, @airqo-platform | belindamarionk | Kampala, Uganda | 1904 |
+| 20 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan |  | TibzDankan | Kampala/Uganda | 1891 |

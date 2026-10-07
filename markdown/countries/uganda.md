@@ -31,7 +31,7 @@ Indexed users: 3,879
 | 17 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Kampala, Uganda | 6,942 |
 | 18 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 6,926 |
 | 19 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
-| 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | Kampala, Uganda | 6,514 |
+| 20 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
 
 ## Public Contributions
 
@@ -47,16 +47,16 @@ Indexed users: 3,879
 | 8 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick | kampala | 2,859 |
 | 9 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi | Uganda | 2,776 |
 | 10 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL | Kampala,Uganda | 2,624 |
-| 11 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 2,422 |
-| 12 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,169 |
-| 13 | [kasasa22](https://github.com/kasasa22) | Kasasa Livingstone Trevor | Uganda | 2,056 |
-| 14 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,970 |
-| 15 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
-| 16 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 1,930 |
-| 17 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,917 |
-| 18 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
-| 19 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan | Kampala/Uganda | 1,891 |
-| 20 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 1,830 |
+| 11 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 2,539 |
+| 12 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 2,422 |
+| 13 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,169 |
+| 14 | [kasasa22](https://github.com/kasasa22) | Kasasa Livingstone Trevor | Uganda | 2,056 |
+| 15 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,970 |
+| 16 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
+| 17 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 1,930 |
+| 18 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,917 |
+| 19 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
+| 20 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan | Kampala/Uganda | 1,891 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,879
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-07T09:13:05.958Z
+Generated: 2026-10-07T10:05:41.273Z

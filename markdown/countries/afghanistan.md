@@ -50,13 +50,13 @@ Indexed users: 1,495
 | 11 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,448 |
 | 12 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Kabul | 1,322 |
 | 13 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh | Afghanistan,Herat | 1,315 |
-| 14 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin | Afghanistan | 1,217 |
-| 15 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori | Afghanistan  | 1,167 |
-| 16 | [fataneh-mow](https://github.com/fataneh-mow) | Fatana Mawlawizadeh | Herat, Afghanistan | 1,115 |
+| 14 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 1,230 |
+| 15 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin | Afghanistan | 1,217 |
+| 16 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori | Afghanistan  | 1,167 |
 | 17 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,044 |
 | 18 | [Satayesh-Esmaily](https://github.com/Satayesh-Esmaily) | Satayesh Esmaily | Herat,Afghanistan | 1,014 |
 | 19 | [Mukhtarrahimi](https://github.com/Mukhtarrahimi) | Mukhtar Rahimi | Kabul - Afghanistan | 987 |
-| 20 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 980 |
+| 20 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Kabul, Afghanistan | 933 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,495
 | 19 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 116 |
 
-Generated: 2026-10-07T09:18:06.546Z
+Generated: 2026-10-07T10:08:38.445Z

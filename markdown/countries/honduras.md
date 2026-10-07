@@ -1,6 +1,6 @@
 # Honduras
 
-Indexed users: 1,268
+Indexed users: 1,267
 
 | Leaderboard | Link |
 |---|---|
@@ -13,8 +13,8 @@ Indexed users: 1,268
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 13,781 |
-| 2 | [CMRicardo](https://github.com/CMRicardo) | Ricardo Corrales | Honduras | 9,817 |
-| 3 | [vfiii](https://github.com/vfiii) | Valentín Flores | Honduras | 7,114 |
+| 2 | [vfiii](https://github.com/vfiii) | Valentín Flores | Honduras | 11,748 |
+| 3 | [CMRicardo](https://github.com/CMRicardo) | Ricardo Corrales | Honduras | 9,817 |
 | 4 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 6,667 |
 | 5 | [ElyDeveloper](https://github.com/ElyDeveloper) | Eliezer Rivera | Honduras | 5,459 |
 | 6 | [AugustoMelara-Dev](https://github.com/AugustoMelara-Dev) | Augusto Jose Melara Milla | Honduras 🇭🇳 | 5,401 |
@@ -23,12 +23,12 @@ Indexed users: 1,268
 | 9 | [ahvega](https://github.com/ahvega) | Adalberto Hernandez Vega | Honduras | 5,054 |
 | 10 | [Emiliano-Agurcia](https://github.com/Emiliano-Agurcia) | Emiliano Agurcia | Honduras | 4,985 |
 | 11 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 4,670 |
-| 12 | [drshotyou](https://github.com/drshotyou) | Alden Rivera | San Pedro Sula, Honduras | 4,342 |
-| 13 | [mmelara](https://github.com/mmelara) | Marcelo Melara | Honduras | 4,297 |
-| 14 | [robertraf](https://github.com/robertraf) | Roberto Ramírez | Tegucigalpa, Honduras | 3,911 |
-| 15 | [BitterSweetBoy](https://github.com/BitterSweetBoy) | Denis Dueñas | Honduras | 3,798 |
-| 16 | [gaboelnuevo](https://github.com/gaboelnuevo) | Gabriel S. L | Honduras | 3,742 |
-| 17 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | Honduras, Cortes | 3,665 |
+| 12 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 4,414 |
+| 13 | [drshotyou](https://github.com/drshotyou) | Alden Rivera | San Pedro Sula, Honduras | 4,342 |
+| 14 | [mmelara](https://github.com/mmelara) | Marcelo Melara | Honduras | 4,297 |
+| 15 | [robertraf](https://github.com/robertraf) | Roberto Ramírez | Tegucigalpa, Honduras | 3,911 |
+| 16 | [BitterSweetBoy](https://github.com/BitterSweetBoy) | Denis Dueñas | Honduras | 3,798 |
+| 17 | [gaboelnuevo](https://github.com/gaboelnuevo) | Gabriel S. L | Honduras | 3,742 |
 | 18 | [renanz](https://github.com/renanz) | Renan Alberto Zelaya | Honduras | 3,540 |
 | 19 | [eliac-d](https://github.com/eliac-d) | Eliac | Honduras | 3,522 |
 | 20 | [andresumanzor](https://github.com/andresumanzor) | Andrés Umanzor | San Pedro Sula, Honduras | 3,520 |
@@ -46,12 +46,12 @@ Indexed users: 1,268
 | 7 | [MilanDroid](https://github.com/MilanDroid) | Antony Brenes | Honduras | 1,479 |
 | 8 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 1,466 |
 | 9 | [SevenDogsNTwoCats](https://github.com/SevenDogsNTwoCats) | AE9 | M.D.C, Honduras | 1,155 |
-| 10 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | Honduras, Cortes | 874 |
+| 10 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 877 |
 | 11 | [HectorOC-e](https://github.com/HectorOC-e) | HectorOC-e | Marcala, Honduras | 828 |
 | 12 | [sjperalta](https://github.com/sjperalta) | Sergio J. Peralta | Honduras | 792 |
-| 13 | [ciriast](https://github.com/ciriast) | Carlos Irias | Honduras | 785 |
-| 14 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 770 |
-| 15 | [AnthonyAndino](https://github.com/AnthonyAndino) | Anthony Andino | Honduras | 766 |
+| 13 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 770 |
+| 14 | [AnthonyAndino](https://github.com/AnthonyAndino) | Anthony Andino | Honduras | 766 |
+| 15 | [ciriast](https://github.com/ciriast) | Carlos Irias | Honduras | 701 |
 | 16 | [antoniolocandro](https://github.com/antoniolocandro) | Antonio Locandro | Honduras | 664 |
 | 17 | [dantonifa](https://github.com/dantonifa) | David Antonio Fajardo Ponce | San Pedro Sula, Honduras | 627 |
 | 18 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 626 |
@@ -83,4 +83,4 @@ Indexed users: 1,268
 | 19 | [Pcgell](https://github.com/Pcgell) | Kenneth Vittetoe | Tegucigalpa, HN | 62 |
 | 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 57 |
 
-Generated: 2026-10-07T09:37:27.388Z
+Generated: 2026-10-07T10:23:52.418Z

@@ -1,6 +1,6 @@
 # Followers - Iceland
 
-Generated: 2026-10-07T09:37:37.068Z
+Generated: 2026-10-07T10:25:04.978Z
 
 Users: 1585
 
@@ -11,7 +11,7 @@ Users: 1585
 | 3 | [SuprDewd](https://github.com/SuprDewd) | Bjarki Ágúst Guðmundsson | Reykjavík University |  | Iceland | 736 |
 | 4 | [sveinbjornt](https://github.com/sveinbjornt) | Sveinbjorn Thordarson |  |  | Reykjavík, Iceland | 600 |
 | 5 | [phunterlau](https://github.com/phunterlau) | Hongliang Liu |  |  | Iceland | 587 |
-| 6 | [starrylumi](https://github.com/starrylumi) | ࿔𝜗𝜚‧₊`Lumi‹𝟹༉‧₊˚. | goats/oomfies !! - { @tillth3end @iminyourwallz } < my gang !! ,, @Conchiglionl @hycinthia @trankyy @ShrimpyArtist @MANJlKAI @mavuikas @N1L0U @ikupod @Raymei-sama — ;; hm ; green names ^_^ , |  | mostly at gi area, sometimes at docks/island, usually FTS or a spec in fsr... \ sign strawpage & atabook pretty plz / whisp if u want to add me on any platforms<3 | 521 |
+| 6 | [starrylumi](https://github.com/starrylumi) | ࿔𝜗𝜚‧₊`Lumi‹𝟹༉‧₊˚. | goats/oomfies !! - { @tillth3end @iminyourwallz } < my gang !! ,, @Conchiglionl @hycinthia @trankyy @ShrimpyArtist @MANJlKAI @mavuikas @N1L0U @ikupod @Raymei-sama — ;; hm ; green names ^_^ , |  | mostly at gi area, sometimes at docks/island, usually FTS or a spec in fsr... \ sign strawpage & atabook pretty plz / whisp if u want to add me on any platforms<3 | 527 |
 | 7 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | @WorkBrew |  | Iceland | 488 |
 | 8 | [birkir](https://github.com/birkir) | Birkir Gudjonsson | @enumstudio  | birkirgudjonson | Reykjavík, Iceland | 450 |
 | 9 | [jeremybarbet](https://github.com/jeremybarbet) | Jérémy Barbet | @kodo-is | jeremybarbet | Reykjavík, Iceland | 366 |

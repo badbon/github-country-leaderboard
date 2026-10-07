@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-07T09:29:14.941Z
+Generated: 2026-10-07T10:18:16.155Z
 
 Users: 2748
 
@@ -16,13 +16,13 @@ Users: 2748
 | 8 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | @JetBrains |  | Cyprus, Paphos | 9137 |
 | 9 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Materiias d.o.o | TheAbdeen9 | Lefkosa, Cyprus | 9126 |
 | 10 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 9123 |
-| 11 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam |  | rsaryevdev | Cyprus | 8810 |
-| 12 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 8796 |
-| 13 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 8728 |
-| 14 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 8521 |
-| 15 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | CYENS SuPerWorld | aytacg26 | Nicosia, Cyprus | 7985 |
-| 16 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 7526 |
-| 17 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 7489 |
-| 18 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Retrocket | denizgolbas | Cyprus | 7428 |
-| 19 | [moisish](https://github.com/moisish) | Moisis Hadjiagathangelou | @digitalmarmalade  | moisis_h | Cyprus | 7342 |
-| 20 | [VizzleTF](https://github.com/VizzleTF) | Ivan K |  |  | Cyprus | 6824 |
+| 11 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 8881 |
+| 12 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam |  | rsaryevdev | Cyprus | 8810 |
+| 13 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 8796 |
+| 14 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 8728 |
+| 15 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 8521 |
+| 16 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | CYENS SuPerWorld | aytacg26 | Nicosia, Cyprus | 7985 |
+| 17 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 7526 |
+| 18 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 7489 |
+| 19 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Retrocket | denizgolbas | Cyprus | 7428 |
+| 20 | [moisish](https://github.com/moisish) | Moisis Hadjiagathangelou | @digitalmarmalade  | moisis_h | Cyprus | 7342 |

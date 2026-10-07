@@ -1,8 +1,8 @@
 # Followers - Antarctica
 
-Generated: 2026-10-07T09:19:36.007Z
+Generated: 2026-10-07T10:10:51.680Z
 
-Users: 470
+Users: 468
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,9 +10,9 @@ Users: 470
 | 2 | [Washi1337](https://github.com/Washi1337) | Washi |  | washi_dev | McMurdo Station, Antarctica | 610 |
 | 3 | [r-lyeh](https://github.com/r-lyeh) |  | C |  | Vostok, Antarctica | 463 |
 | 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon |  |  | Antarctica | 342 |
-| 5 | [kura](https://github.com/kura) | Kura | @bbc  |  | Halley Research Station, Antarctica | 201 |
-| 6 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 192 |
-| 7 | [walterwhite-69](https://github.com/walterwhite-69) | Walter |  |  | Antarctica | 175 |
+| 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter |  |  | Antarctica | 216 |
+| 6 | [kura](https://github.com/kura) | Kura | @bbc  |  | Halley Research Station, Antarctica | 201 |
+| 7 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 192 |
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 133 |
 | 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 123 |
 | 10 | [examachine](https://github.com/examachine) | Eray Özkural | @celestial-intellect  | examachine | Dead City, Antarctica | 122 |

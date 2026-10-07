@@ -12,8 +12,8 @@ Indexed users: 7,096
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong | Accra, Ghana | 67,756 |
-| 2 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 53,357 |
+| 1 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 78,019 |
+| 2 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong | Accra, Ghana | 67,756 |
 | 3 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | Accra, Ghana | 33,429 |
 | 4 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 30,619 |
 | 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 22,798 |
@@ -43,7 +43,7 @@ Indexed users: 7,096
 | 4 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 19,382 |
 | 5 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 14,900 |
 | 6 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 7,054 |
-| 7 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 6,888 |
+| 7 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 6,845 |
 | 8 | [ghwmelite-dotcom](https://github.com/ghwmelite-dotcom) | OsbornH | GHANA | 6,764 |
 | 9 | [AlatiphA](https://github.com/AlatiphA) | Abdul-Latif Ahmed  | Tamale, Ghana  | 4,590 |
 | 10 | [romeo-folie](https://github.com/romeo-folie) | Romeo Nutifafa Folie | Ghana | 3,201 |
@@ -55,8 +55,8 @@ Indexed users: 7,096
 | 16 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 2,295 |
 | 17 | [collinsasante](https://github.com/collinsasante) | Collins Asante | Accra, Ghana | 2,291 |
 | 18 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,281 |
-| 19 | [hayfordstanley](https://github.com/hayfordstanley) | Stanley Hayford | Accra, Ghana | 2,146 |
-| 20 | [lankyghana](https://github.com/lankyghana) | Daniel Kwadwo Takyi | Accra Ghana | 2,075 |
+| 19 | [lankyghana](https://github.com/lankyghana) | Daniel Kwadwo Takyi | Accra Ghana | 2,176 |
+| 20 | [hayfordstanley](https://github.com/hayfordstanley) | Stanley Hayford | Accra, Ghana | 2,146 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 7,096
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 321 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 315 |
 
-Generated: 2026-10-07T09:35:17.478Z
+Generated: 2026-10-07T10:21:11.859Z

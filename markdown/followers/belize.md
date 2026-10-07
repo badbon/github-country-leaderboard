@@ -1,6 +1,6 @@
 # Followers - Belize
 
-Generated: 2026-10-07T09:22:12.778Z
+Generated: 2026-10-07T10:12:56.082Z
 
 Users: 95
 
@@ -18,9 +18,9 @@ Users: 95
 | 10 | [Deaf-Web-Admin](https://github.com/Deaf-Web-Admin) | Deaf Developer |  |  | Belize | 12 |
 | 11 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | University of Belize |  | Belmopan, Belize | 12 |
 | 12 | [PLGuerraDesigns](https://github.com/PLGuerraDesigns) | Pablo L. Guerra |  |  | Belize | 12 |
-| 13 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol |  | joshuariverol | Belize, CA | 10 |
-| 14 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers |  |  | Belize  | 9 |
-| 15 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Self-employed |  | Belize | 9 |
+| 13 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Self-employed |  | Belize | 10 |
+| 14 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol |  | joshuariverol | Belize, CA | 10 |
+| 15 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers |  |  | Belize  | 9 |
 | 16 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti |  |  | San Jose Succotz, Cayo District, Belize | 9 |
 | 17 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 |  | AlexRiv007 | Belize City, Belize | 8 |
 | 18 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | CybCSec  |  | Belize | 7 |

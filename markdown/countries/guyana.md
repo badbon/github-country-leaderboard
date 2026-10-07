@@ -55,7 +55,7 @@ Indexed users: 186
 | 16 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 244 |
 | 17 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad | Guyana | 241 |
 | 18 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 240 |
-| 19 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | Georgetown, TX | 225 |
+| 19 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | Georgetown, TX | 226 |
 | 20 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 194 |
 
 ## Followers
@@ -72,7 +72,7 @@ Indexed users: 186
 | 8 | [anmolnar](https://github.com/anmolnar) | Andor Molnár | Georgetown, TX | 44 |
 | 9 | [JoshuaKissoon](https://github.com/JoshuaKissoon) | Joshua Kissoon | Georgetown, Guyana | 41 |
 | 10 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 39 |
-| 11 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | Georgetown, TX | 34 |
+| 11 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | Georgetown, TX | 37 |
 | 12 | [rlisle](https://github.com/rlisle) | Ron Lisle | Georgetown, TX | 34 |
 | 13 | [FusionOpz](https://github.com/FusionOpz) | Matthew Sporich | Georgetown, ON, CA | 33 |
 | 14 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 30 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 24 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 21 |
 
-Generated: 2026-10-07T09:37:03.755Z
+Generated: 2026-10-07T10:23:34.950Z

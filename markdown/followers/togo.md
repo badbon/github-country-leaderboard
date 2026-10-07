@@ -1,6 +1,6 @@
 # Followers - Togo
 
-Generated: 2026-10-07T09:10:22.947Z
+Generated: 2026-10-07T10:04:45.796Z
 
 Users: 689
 
@@ -14,13 +14,13 @@ Users: 689
 | 6 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Louis Technology (LT) | AgadaFrancisL | Togo | 147 |
 | 7 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | RodiumAi | docteur_parfait | Lomé, Togo | 124 |
 | 8 | [ibraum](https://github.com/ibraum) | KONDO Ibrahim | Freelance |  | Lomé, TOGO | 110 |
-| 9 | [itachixa](https://github.com/itachixa) | SALIFOU Aléhéri Christian |  |  | Togo | 109 |
-| 10 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 109 |
+| 9 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 109 |
+| 10 | [itachixa](https://github.com/itachixa) | SALIFOU Aléhéri Christian |  |  | Togo | 102 |
 | 11 | [gsmadjaa05](https://github.com/gsmadjaa05) | GSM ADJAA | @GSM_ADJAA_COMPANY |  | Togo | 100 |
 | 12 | [koffisani](https://github.com/koffisani) | Koffi SANI |  | koffisani | Lomé, TOGO | 80 |
 | 13 | [toutpuissantged](https://github.com/toutpuissantged) | Gedeon AMOUSSOU | @TPG | toutpuissantged | togo | 80 |
-| 14 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 74 |
-| 15 | [HordRic](https://github.com/HordRic) | ASSOUN Akomagni Kodjovi Rodrigue | Ecole Polytechnique de Lomé |  | Lomé-Togo | 74 |
+| 14 | [HordRic](https://github.com/HordRic) | ASSOUN Akomagni Kodjovi Rodrigue | Ecole Polytechnique de Lomé |  | Lomé-Togo | 75 |
+| 15 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 74 |
 | 16 | [Matthieu96Code](https://github.com/Matthieu96Code) | Kodjo Matthieu SENOU | Full-Stack Developer | MatthieuSenou | Togo, Lome | 72 |
 | 17 | [Koj-Kyo](https://github.com/Koj-Kyo) |  |  |  | Lomé , Togo | 71 |
 | 18 | [lecodeur228](https://github.com/lecodeur228) | irin |  |  | TOGO | 70 |

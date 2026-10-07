@@ -1,6 +1,6 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-10-07T09:36:39.680Z
+Generated: 2026-10-07T10:22:39.082Z
 
 Users: 87
 
@@ -14,13 +14,13 @@ Users: 87
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 1399 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1387 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 935 |
-| 9 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 674 |
-| 10 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 667 |
-| 11 | [nath971](https://github.com/nath971) | N |  |  | Guadeloupe | 656 |
-| 12 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU |  |  | Guadeloupe | 620 |
-| 13 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin |  |  | Le Moule, GUADELOUPE | 567 |
-| 14 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 566 |
-| 15 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 451 |
+| 9 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 667 |
+| 10 | [nath971](https://github.com/nath971) | N |  |  | Guadeloupe | 656 |
+| 11 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU |  |  | Guadeloupe | 620 |
+| 12 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin |  |  | Le Moule, GUADELOUPE | 567 |
+| 13 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 566 |
+| 14 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 451 |
+| 15 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 228 |
 | 16 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Gwadaweb | rubatdub | Guadeloupe | 179 |
 | 17 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 144 |
 | 18 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR |  |  | Basse-Terre, Guadeloupe | 135 |

@@ -1,6 +1,6 @@
 # Total Contributions - Greece
 
-Generated: 2026-10-07T09:35:25.921Z
+Generated: 2026-10-07T10:21:48.218Z
 
 Users: 15566
 
@@ -18,11 +18,11 @@ Users: 15566
 | 10 | [anavalo](https://github.com/anavalo) | Tasos Tsournos | @moveo-ai |  | Athens | 13731 |
 | 11 | [gakonst](https://github.com/gakonst) | Georgios Konstantopoulos | @paradigmxyz | gakonst | Thessaloniki, Greece | 12801 |
 | 12 | [georgiosd](https://github.com/georgiosd) | Georgios Diamantopoulos | Zero to MVP, Inc. |  | Athens, Greece | 12657 |
-| 13 | [ryanzidago](https://github.com/ryanzidago) | Ryan Zidago | @sona-is  |  | Athens, Greece | 11068 |
-| 14 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Emilia Capital | aristath | Corinth, Greece | 10846 |
-| 15 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Front End Developer | mariosknl | Patras, Greece | 10834 |
-| 16 | [GMetaxakis](https://github.com/GMetaxakis) | Georgios Metaxakis |  |  | Greece | 10248 |
-| 17 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Octopus Deploy (ex. Codefresh) | codepipes | Athens Greece | 9257 |
-| 18 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas |  |  | Greece | 9094 |
-| 19 | [cosmix](https://github.com/cosmix) | Dimosthenis Kaponis |  |  | Athens, Greece | 8320 |
-| 20 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | National Technical University of Athens - School of Mining and Metallurgical Engineering - Laboratory of Engineering Geology and Hydrogeology |  | Athens, Greece | 7992 |
+| 13 | [apmantza](https://github.com/apmantza) | Apostolos Mantzaris |  |  | Athens, Greece | 11367 |
+| 14 | [ryanzidago](https://github.com/ryanzidago) | Ryan Zidago | @sona-is  |  | Athens, Greece | 11068 |
+| 15 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Emilia Capital | aristath | Corinth, Greece | 10846 |
+| 16 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Front End Developer | mariosknl | Patras, Greece | 10834 |
+| 17 | [GMetaxakis](https://github.com/GMetaxakis) | Georgios Metaxakis |  |  | Greece | 10248 |
+| 18 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Octopus Deploy (ex. Codefresh) | codepipes | Athens Greece | 9257 |
+| 19 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas |  |  | Greece | 9094 |
+| 20 | [cosmix](https://github.com/cosmix) | Dimosthenis Kaponis |  |  | Athens, Greece | 8320 |

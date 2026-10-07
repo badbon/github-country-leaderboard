@@ -1,6 +1,6 @@
 # Algeria
 
-Indexed users: 5,820
+Indexed users: 5,819
 
 | Leaderboard | Link |
 |---|---|
@@ -52,7 +52,7 @@ Indexed users: 5,820
 | 13 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 1,751 |
 | 14 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 1,614 |
 | 15 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | Algeria | 1,551 |
-| 16 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Algiers, Algeria | 1,455 |
+| 16 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Algiers, Algeria | 1,530 |
 | 17 | [Nidhal-Khazene](https://github.com/Nidhal-Khazene) | Nidhal | Algeria | 1,390 |
 | 18 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 1,378 |
 | 19 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane | Algeria | 1,376 |
@@ -62,25 +62,25 @@ Indexed users: 5,820
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Jones-6199](https://github.com/Jones-6199) | Younes BENZIANE | Agiers, Algeria | 3,610 |
-| 2 | [ipenywis](https://github.com/ipenywis) | Islem Maboud | Setif, Algeria | 3,065 |
-| 3 | [bencheayoub](https://github.com/bencheayoub) | Ayoub BenChetioui | Algeria | 2,242 |
-| 4 | [hocinebouarara](https://github.com/hocinebouarara) | hocine bouarara | algeria | 1,518 |
-| 5 | [NOUHABL](https://github.com/NOUHABL) | NOUHA | Algeria  | 1,516 |
-| 6 | [Manisso](https://github.com/Manisso) | Manis DJEMMANE | Algiers, Algeria | 1,496 |
-| 7 | [linuxscout](https://github.com/linuxscout) | Taha Zerrouki (طه زروقي ) | Bouira, Algeria | 1,387 |
-| 8 | [pagimos](https://github.com/pagimos) | Bouacheri Mohamed Islam | Algeria | 1,295 |
-| 9 | [elhadjx](https://github.com/elhadjx) | Hadj H. | Algeria | 1,204 |
-| 10 | [yasserbdj96](https://github.com/yasserbdj96) | Boudjada Yasser | Jijel, Algeria | 1,176 |
-| 11 | [Younes-Charfaoui](https://github.com/Younes-Charfaoui) | Younes Charfaoui | Tiaret, Algeria | 1,031 |
-| 12 | [medzino2000](https://github.com/medzino2000) | med zino | algeria | 918 |
-| 13 | [kh-mahmoud](https://github.com/kh-mahmoud) | Khouchane Mahmoud | Algeria | 911 |
-| 14 | [x4nth055](https://github.com/x4nth055) | Rockikz | Algeria | 845 |
-| 15 | [h4x0r-dz](https://github.com/h4x0r-dz) | h4x0r_dz | Algeria | 832 |
-| 16 | [Saboo24](https://github.com/Saboo24) | Amine Hamzaoui | Algeria | 823 |
-| 17 | [Midou-Mni](https://github.com/Midou-Mni) | Midou | Algeria | 819 |
-| 18 | [mssm199996](https://github.com/mssm199996) | MOULEY SLIMANE Sidi Mohamed | Algeria, Tlemcen | 772 |
-| 19 | [Hmida71](https://github.com/Hmida71) | Hmida71 | Algeria,mostaganem | 752 |
-| 20 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
+| 1 | [ipenywis](https://github.com/ipenywis) | Islem Maboud | Setif, Algeria | 3,065 |
+| 2 | [bencheayoub](https://github.com/bencheayoub) | Ayoub BenChetioui | Algeria | 2,242 |
+| 3 | [hocinebouarara](https://github.com/hocinebouarara) | hocine bouarara | algeria | 1,518 |
+| 4 | [NOUHABL](https://github.com/NOUHABL) | NOUHA | Algeria  | 1,517 |
+| 5 | [Manisso](https://github.com/Manisso) | Manis DJEMMANE | Algiers, Algeria | 1,496 |
+| 6 | [linuxscout](https://github.com/linuxscout) | Taha Zerrouki (طه زروقي ) | Bouira, Algeria | 1,387 |
+| 7 | [pagimos](https://github.com/pagimos) | Bouacheri Mohamed Islam | Algeria | 1,295 |
+| 8 | [elhadjx](https://github.com/elhadjx) | Hadj H. | Algeria | 1,204 |
+| 9 | [yasserbdj96](https://github.com/yasserbdj96) | Boudjada Yasser | Jijel, Algeria | 1,176 |
+| 10 | [Younes-Charfaoui](https://github.com/Younes-Charfaoui) | Younes Charfaoui | Tiaret, Algeria | 1,031 |
+| 11 | [medzino2000](https://github.com/medzino2000) | med zino | algeria | 918 |
+| 12 | [kh-mahmoud](https://github.com/kh-mahmoud) | Khouchane Mahmoud | Algeria | 911 |
+| 13 | [x4nth055](https://github.com/x4nth055) | Rockikz | Algeria | 845 |
+| 14 | [h4x0r-dz](https://github.com/h4x0r-dz) | h4x0r_dz | Algeria | 832 |
+| 15 | [Saboo24](https://github.com/Saboo24) | Amine Hamzaoui | Algeria | 823 |
+| 16 | [Midou-Mni](https://github.com/Midou-Mni) | Midou | Algeria | 819 |
+| 17 | [mssm199996](https://github.com/mssm199996) | MOULEY SLIMANE Sidi Mohamed | Algeria, Tlemcen | 772 |
+| 18 | [Hmida71](https://github.com/Hmida71) | Hmida71 | Algeria,mostaganem | 752 |
+| 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
+| 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-07T09:18:17.091Z
+Generated: 2026-10-07T10:08:55.755Z

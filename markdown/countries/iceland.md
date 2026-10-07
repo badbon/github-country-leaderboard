@@ -14,7 +14,7 @@ Indexed users: 1,585
 |---:|---|---|---|---:|
 | 1 | [davideagle](https://github.com/davideagle) | davideagle | Iceland | 19,520 |
 | 2 | [benkauffman](https://github.com/benkauffman) | Ben Kauffman | Reykjavík, Iceland | 17,861 |
-| 3 | [Magnussmari](https://github.com/Magnussmari) | Magnús Smári Smárason | Akureyri, Iceland | 12,423 |
+| 3 | [Magnussmari](https://github.com/Magnussmari) | Magnús Smári Smárason | Akureyri, Iceland | 16,153 |
 | 4 | [padresmurfa](https://github.com/padresmurfa) | David Hermann Brandt | Reykjavík, Iceland | 10,894 |
 | 5 | [tylerelias](https://github.com/tylerelias) | Tyler | Iceland | 9,269 |
 | 6 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Reykjavík, Iceland | 8,780 |
@@ -67,7 +67,7 @@ Indexed users: 1,585
 | 3 | [SuprDewd](https://github.com/SuprDewd) | Bjarki Ágúst Guðmundsson | Iceland | 736 |
 | 4 | [sveinbjornt](https://github.com/sveinbjornt) | Sveinbjorn Thordarson | Reykjavík, Iceland | 600 |
 | 5 | [phunterlau](https://github.com/phunterlau) | Hongliang Liu | Iceland | 587 |
-| 6 | [starrylumi](https://github.com/starrylumi) | ࿔𝜗𝜚‧₊`Lumi‹𝟹༉‧₊˚. | mostly at gi area, sometimes at docks/island, usually FTS or a spec in fsr... \ sign strawpage & atabook pretty plz / whisp if u want to add me on any platforms<3 | 521 |
+| 6 | [starrylumi](https://github.com/starrylumi) | ࿔𝜗𝜚‧₊`Lumi‹𝟹༉‧₊˚. | mostly at gi area, sometimes at docks/island, usually FTS or a spec in fsr... \ sign strawpage & atabook pretty plz / whisp if u want to add me on any platforms<3 | 527 |
 | 7 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 488 |
 | 8 | [birkir](https://github.com/birkir) | Birkir Gudjonsson | Reykjavík, Iceland | 450 |
 | 9 | [jeremybarbet](https://github.com/jeremybarbet) | Jérémy Barbet | Reykjavík, Iceland | 366 |
@@ -83,4 +83,4 @@ Indexed users: 1,585
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 202 |
 
-Generated: 2026-10-07T09:37:37.068Z
+Generated: 2026-10-07T10:25:04.978Z

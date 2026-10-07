@@ -18,9 +18,9 @@ Indexed users: 256
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 1,542 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,202 |
 | 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,168 |
-| 7 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 1,090 |
-| 8 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,064 |
-| 9 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 864 |
+| 7 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,064 |
+| 8 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 864 |
+| 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 857 |
 | 10 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | Pittsburgh, PA \| Brunei | 596 |
 | 11 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 590 |
 | 12 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi | Brunei Darussalam | 535 |
@@ -28,10 +28,10 @@ Indexed users: 256
 | 14 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 456 |
 | 15 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 378 |
 | 16 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 327 |
-| 17 | [najib-r](https://github.com/najib-r) | najib-r | Brunei | 314 |
-| 18 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 286 |
-| 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 233 |
-| 20 | [MirzaMuqri](https://github.com/MirzaMuqri) | Mirza Muk(q)ri | Brunei Darussalam | 230 |
+| 17 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 286 |
+| 18 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 233 |
+| 19 | [MirzaMuqri](https://github.com/MirzaMuqri) | Mirza Muk(q)ri | Brunei Darussalam | 230 |
+| 20 | [najib-r](https://github.com/najib-r) | najib-r | Brunei | 213 |
 
 ## Public Contributions
 
@@ -74,13 +74,13 @@ Indexed users: 256
 | 10 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou | Brunei Darussalam | 23 |
 | 11 | [sk8teroy](https://github.com/sk8teroy) |  | Brunei | 22 |
 | 12 | [nz-is](https://github.com/nz-is) | Nazrul Ismail | Brunei Darussalam | 21 |
-| 13 | [BenitzCoding](https://github.com/BenitzCoding) | BenitzCoding | Brunei | 19 |
+| 13 | [BenitzCoding](https://github.com/BenitzCoding) | BenitzCoding | Brunei | 20 |
 | 14 | [lordsayur](https://github.com/lordsayur) | Omar | Brunei | 18 |
 | 15 | [acyein](https://github.com/acyein) | Yein | Brunei | 17 |
 | 16 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam | Brunei | 17 |
 | 17 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 15 |
 | 18 | [snek5](https://github.com/snek5) | Azim Anuar | Brunei | 15 |
-| 19 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 14 |
-| 20 | [bahit](https://github.com/bahit) | Bahit Hamid | Brunei | 14 |
+| 19 | [bahit](https://github.com/bahit) | Bahit Hamid | Brunei | 14 |
+| 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-07T09:24:52.895Z
+Generated: 2026-10-07T10:14:20.465Z

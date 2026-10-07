@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-10-07T07:56:56.962Z
+Generated: 2026-10-07T10:27:13.412Z
 
 Users: 139
 
@@ -8,11 +8,11 @@ Users: 139
 |---:|---|---|---|---|---|---:|
 | 1 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | @Twitter | FriendlyMikhail | The dirty (jersey) | 791 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | @structurizr  | simonbrown | Jersey, Channel Islands | 752 |
-| 3 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @evergreenjersey @awardsapp @wpallstars | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 209 |
+| 3 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @evergreenjersey @awardsapp @wpallstars | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 237 |
 | 4 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 68 |
 | 5 | [techtribesje](https://github.com/techtribesje) | techtribes.je |  |  | Jersey, Channel Islands | 55 |
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 47 |
-| 7 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 44 |
+| 7 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 45 |
 | 8 | [cappadona](https://github.com/cappadona) | Nick Cappadona | @anaconda |  | Jersey | 41 |
 | 9 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 34 |
 | 10 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns |  |  | Jersey, Channel Islands | 34 |

@@ -1,6 +1,6 @@
 # Total Contributions - Cuba
 
-Generated: 2026-10-07T09:29:07.934Z
+Generated: 2026-10-07T10:18:08.418Z
 
 Users: 1294
 
@@ -18,8 +18,8 @@ Users: 1294
 | 10 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés |  |  | Santa Clara, Cuba. | 5098 |
 | 11 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz |  |  | Cuba | 4316 |
 | 12 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez |  |  | Havana, Cuba | 3832 |
-| 13 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3600 |
-| 14 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Inperia | gustavoylc | Cuba | 3563 |
+| 13 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Inperia | gustavoylc | Cuba | 3563 |
+| 14 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3325 |
 | 15 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado |  |  | Cuba | 3177 |
 | 16 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida |  |  | Havana,Cuba | 3085 |
 | 17 | [frivasoto](https://github.com/frivasoto) | Fermin Rivas Sotomayor | @cujaeredsocial @medialityc  | frivasoto | Cuba | 3009 |

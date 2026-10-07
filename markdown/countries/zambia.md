@@ -1,6 +1,6 @@
 # Zambia
 
-Indexed users: 1,346
+Indexed users: 1,345
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,346
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 105 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 104 |
 
-Generated: 2026-10-07T09:17:10.483Z
+Generated: 2026-10-07T10:08:16.221Z

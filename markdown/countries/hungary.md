@@ -1,6 +1,6 @@
 # Hungary
 
-Indexed users: 11,199
+Indexed users: 11,200
 
 | Leaderboard | Link |
 |---|---|
@@ -62,25 +62,25 @@ Indexed users: 11,199
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [HelloZeroNet](https://github.com/HelloZeroNet) | ZeroNet | Budapest, Hungary | 2,280 |
-| 2 | [zkochan](https://github.com/zkochan) | Zoltan Kochan | Budapest 🇭🇺 | 2,219 |
-| 3 | [andrasbacsai](https://github.com/andrasbacsai) | Andras Bacsai | Székesfehérvár, Hungary | 1,823 |
-| 4 | [Zhuinden](https://github.com/Zhuinden) | Gabor Varadi | Hungary | 1,733 |
-| 5 | [asciimoo](https://github.com/asciimoo) | Adam Tauber | Budapest, Hungary | 1,395 |
-| 6 | [akarnokd](https://github.com/akarnokd) | David Karnok | Budapest, Hungary | 1,391 |
-| 7 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár | Budapest, Hungary | 1,389 |
-| 8 | [relatedcode](https://github.com/relatedcode) | Related Code | Budapest | 1,240 |
-| 9 | [zsmb13](https://github.com/zsmb13) | Márton Braun | Budapest, Hungary | 1,026 |
-| 10 | [0l1v3rr](https://github.com/0l1v3rr) | Olivér Mrakovics | Budapest, Hungary | 929 |
-| 11 | [icebob](https://github.com/icebob) | Icebob | Hungary | 832 |
-| 12 | [szepeviktor](https://github.com/szepeviktor) | Viktor Szépe | G2RM+5M Budapest | 767 |
-| 13 | [kisvegabor](https://github.com/kisvegabor) | Gabor Kiss-Vamosi | Hungary, Budapest | 727 |
-| 14 | [uigitdev](https://github.com/uigitdev) | David Toth | Hungary | 711 |
-| 15 | [Csaba79-coder](https://github.com/Csaba79-coder) | Csaba Vadász MSc | Budakalasz, Hungary | 686 |
-| 16 | [johntakesnote](https://github.com/johntakesnote) | John Astern | Budapest, Hungary | 670 |
-| 17 | [Kapitany777](https://github.com/Kapitany777) | Viktor Török | Hungary | 601 |
-| 18 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
-| 19 | [Aylur](https://github.com/Aylur) |  | Hungary | 573 |
-| 20 | [theevilbit](https://github.com/theevilbit) | Csaba Fitzl | Hungary | 502 |
+| 1 | [Jones-6199](https://github.com/Jones-6199) | 𝐘𝐨𝐮𝐧𝐞𝐬 𝐁𝐄𝐍𝐙𝐈𝐀𝐍𝐄 | Budapest, Hungary | 3,994 |
+| 2 | [HelloZeroNet](https://github.com/HelloZeroNet) | ZeroNet | Budapest, Hungary | 2,280 |
+| 3 | [zkochan](https://github.com/zkochan) | Zoltan Kochan | Budapest 🇭🇺 | 2,219 |
+| 4 | [andrasbacsai](https://github.com/andrasbacsai) | Andras Bacsai | Székesfehérvár, Hungary | 1,823 |
+| 5 | [Zhuinden](https://github.com/Zhuinden) | Gabor Varadi | Hungary | 1,733 |
+| 6 | [asciimoo](https://github.com/asciimoo) | Adam Tauber | Budapest, Hungary | 1,395 |
+| 7 | [akarnokd](https://github.com/akarnokd) | David Karnok | Budapest, Hungary | 1,391 |
+| 8 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár | Budapest, Hungary | 1,389 |
+| 9 | [relatedcode](https://github.com/relatedcode) | Related Code | Budapest | 1,240 |
+| 10 | [zsmb13](https://github.com/zsmb13) | Márton Braun | Budapest, Hungary | 1,026 |
+| 11 | [0l1v3rr](https://github.com/0l1v3rr) | Olivér Mrakovics | Budapest, Hungary | 929 |
+| 12 | [icebob](https://github.com/icebob) | Icebob | Hungary | 832 |
+| 13 | [szepeviktor](https://github.com/szepeviktor) | Viktor Szépe | G2RM+5M Budapest | 767 |
+| 14 | [kisvegabor](https://github.com/kisvegabor) | Gabor Kiss-Vamosi | Hungary, Budapest | 727 |
+| 15 | [uigitdev](https://github.com/uigitdev) | David Toth | Hungary | 711 |
+| 16 | [Csaba79-coder](https://github.com/Csaba79-coder) | Csaba Vadász MSc | Budakalasz, Hungary | 686 |
+| 17 | [johntakesnote](https://github.com/johntakesnote) | John Astern | Budapest, Hungary | 670 |
+| 18 | [Kapitany777](https://github.com/Kapitany777) | Viktor Török | Hungary | 601 |
+| 19 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
+| 20 | [Aylur](https://github.com/Aylur) |  | Hungary | 573 |
 
-Generated: 2026-10-07T09:37:33.804Z
+Generated: 2026-10-07T10:24:59.379Z

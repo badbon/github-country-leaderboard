@@ -1,6 +1,6 @@
 # Lebanon
 
-Indexed users: 2,574
+Indexed users: 2,573
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,574
 | 19 | [GaroK01](https://github.com/GaroK01) | Garo Kalfayan | Lebanon | 104 |
 | 20 | [PeterHackz](https://github.com/PeterHackz) | Peterson | Beirut, Lebanon | 103 |
 
-Generated: 2026-10-07T09:43:46.357Z
+Generated: 2026-10-07T10:28:02.709Z

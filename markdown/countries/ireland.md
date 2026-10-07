@@ -1,6 +1,6 @@
 # Ireland
 
-Indexed users: 19,529
+Indexed users: 19,527
 
 | Leaderboard | Link |
 |---|---|
@@ -63,7 +63,7 @@ Indexed users: 19,529
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [miguelgrinberg](https://github.com/miguelgrinberg) | Miguel Grinberg | Ireland | 12,946 |
-| 2 | [xcontcom](https://github.com/xcontcom) | Serhii Herasymov | Ireland | 9,375 |
+| 2 | [xcontcom](https://github.com/xcontcom) | Serhii Herasymov | Ireland | 12,770 |
 | 3 | [orta](https://github.com/orta) | Orta Therox | London / Huddersfield / NYC / Dublin / RDJ | 6,275 |
 | 4 | [pbatard](https://github.com/pbatard) | Pete Batard | Ireland | 3,678 |
 | 5 | [purcell](https://github.com/purcell) | Steve Purcell | Ireland | 3,267 |
@@ -83,4 +83,4 @@ Indexed users: 19,529
 | 19 | [damienmaguire](https://github.com/damienmaguire) | Damien Maguire | Ireland | 1,045 |
 | 20 | [afshinm](https://github.com/afshinm) | Afshin Mehrabani | Dublin, Ireland | 1,037 |
 
-Generated: 2026-10-07T09:38:23.982Z
+Generated: 2026-10-07T10:25:18.269Z

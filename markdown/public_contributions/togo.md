@@ -1,6 +1,6 @@
 # Public Contributions - Togo
 
-Generated: 2026-10-07T09:10:22.947Z
+Generated: 2026-10-07T10:04:45.796Z
 
 Users: 689
 
@@ -21,8 +21,8 @@ Users: 689
 | 13 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR |  |  | Lomé | 742 |
 | 14 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz |  | AzizMetchonou | Togo | 718 |
 | 15 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO |  |  | Lomé, Togo | 662 |
-| 16 | [SevTify404](https://github.com/SevTify404) | SevTify[404] | IAI-TOGO |  | Lomé-Togo | 590 |
-| 17 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU |  |  | Lomé, Togo | 557 |
-| 18 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | @edo-group | jeandedieudev | Togo | 551 |
-| 19 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 534 |
-| 20 | [Harlequelrah](https://github.com/Harlequelrah) | DEGBOVI Maxime Atsou |  |  | Lomé-TOGO | 533 |
+| 16 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | IJEAF |  | Lomé | 647 |
+| 17 | [SevTify404](https://github.com/SevTify404) | SevTify[404] | IAI-TOGO |  | Lomé-Togo | 590 |
+| 18 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU |  |  | Lomé, Togo | 557 |
+| 19 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | @edo-group | jeandedieudev | Togo | 551 |
+| 20 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 534 |

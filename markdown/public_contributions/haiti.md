@@ -1,8 +1,8 @@
 # Public Contributions - Haiti
 
-Generated: 2026-10-07T09:37:06.940Z
+Generated: 2026-10-07T10:23:40.606Z
 
-Users: 341
+Users: 340
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,10 +10,10 @@ Users: 341
 | 2 | [deldesir](https://github.com/deldesir) | Blondel Mondesir |  |  | Haiti | 443 |
 | 3 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | @jecode93 | jecode93 | Haiti | 387 |
 | 4 | [Tonton-ios](https://github.com/Tonton-ios) | Eernst_ | URBVEC GROUP |  | HAITI | 369 |
-| 5 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | @kolabotech | IngRodolph | Cap-Haïtien, Haiti | 328 |
-| 6 | [platon777](https://github.com/platon777) | Wichley Valentin |  |  | Haiti | 259 |
-| 7 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Techy trans | clarensromeus | Port-au-prince/Petion-ville | 256 |
-| 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 254 |
+| 5 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | @nekzoris | IngRodolph | Cap-Haïtien, Haiti | 343 |
+| 6 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 274 |
+| 7 | [platon777](https://github.com/platon777) | Wichley Valentin |  |  | Haiti | 259 |
+| 8 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Techy trans | clarensromeus | Port-au-prince/Petion-ville | 256 |
 | 9 | [haitibrand-co](https://github.com/haitibrand-co) | HaitiBrand  |  |  | Haiti | 241 |
 | 10 | [AD0791](https://github.com/AD0791) | Alexandro Disla |  |  | Haiti | 236 |
 | 11 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | Noukat_studios | ritchart | haiti | 235 |

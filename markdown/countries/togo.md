@@ -52,11 +52,11 @@ Indexed users: 689
 | 13 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 742 |
 | 14 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 718 |
 | 15 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 662 |
-| 16 | [SevTify404](https://github.com/SevTify404) | SevTify[404] | Lomé-Togo | 590 |
-| 17 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU | Lomé, Togo | 557 |
-| 18 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | Togo | 551 |
-| 19 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 534 |
-| 20 | [Harlequelrah](https://github.com/Harlequelrah) | DEGBOVI Maxime Atsou | Lomé-TOGO | 533 |
+| 16 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | Lomé | 647 |
+| 17 | [SevTify404](https://github.com/SevTify404) | SevTify[404] | Lomé-Togo | 590 |
+| 18 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU | Lomé, Togo | 557 |
+| 19 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | Togo | 551 |
+| 20 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 534 |
 
 ## Followers
 
@@ -70,17 +70,17 @@ Indexed users: 689
 | 6 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Togo | 147 |
 | 7 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 124 |
 | 8 | [ibraum](https://github.com/ibraum) | KONDO Ibrahim | Lomé, TOGO | 110 |
-| 9 | [itachixa](https://github.com/itachixa) | SALIFOU Aléhéri Christian | Togo | 109 |
-| 10 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 109 |
+| 9 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 109 |
+| 10 | [itachixa](https://github.com/itachixa) | SALIFOU Aléhéri Christian | Togo | 102 |
 | 11 | [gsmadjaa05](https://github.com/gsmadjaa05) | GSM ADJAA | Togo | 100 |
 | 12 | [koffisani](https://github.com/koffisani) | Koffi SANI | Lomé, TOGO | 80 |
 | 13 | [toutpuissantged](https://github.com/toutpuissantged) | Gedeon AMOUSSOU | togo | 80 |
-| 14 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 74 |
-| 15 | [HordRic](https://github.com/HordRic) | ASSOUN Akomagni Kodjovi Rodrigue | Lomé-Togo | 74 |
+| 14 | [HordRic](https://github.com/HordRic) | ASSOUN Akomagni Kodjovi Rodrigue | Lomé-Togo | 75 |
+| 15 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 74 |
 | 16 | [Matthieu96Code](https://github.com/Matthieu96Code) | Kodjo Matthieu SENOU | Togo, Lome | 72 |
 | 17 | [Koj-Kyo](https://github.com/Koj-Kyo) |  | Lomé , Togo | 71 |
 | 18 | [lecodeur228](https://github.com/lecodeur228) | irin | TOGO | 70 |
 | 19 | [Harlequelrah](https://github.com/Harlequelrah) | DEGBOVI Maxime Atsou | Lomé-TOGO | 68 |
 | 20 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 
-Generated: 2026-10-07T09:10:22.947Z
+Generated: 2026-10-07T10:04:45.796Z

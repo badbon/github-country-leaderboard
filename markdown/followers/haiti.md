@@ -1,8 +1,8 @@
 # Followers - Haiti
 
-Generated: 2026-10-07T09:37:06.940Z
+Generated: 2026-10-07T10:23:40.606Z
 
-Users: 341
+Users: 340
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -11,8 +11,8 @@ Users: 341
 | 3 | [certilremy](https://github.com/certilremy) | Certil Remy |  Full-stack Developer | certilremy | Haiti | 74 |
 | 4 | [davidsonluma](https://github.com/davidsonluma) | Davidson |  | Hope3Mahmoud | Haiti | 72 |
 | 5 | [cbaja](https://github.com/cbaja) | Carly BAJA | @codepath |  | HAITI | 71 |
-| 6 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 66 |
-| 7 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Jetlitransfer | dukenst | Port-au-Prince | 62 |
+| 6 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Jetlitransfer | dukenst | Port-au-Prince | 62 |
+| 7 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 58 |
 | 8 | [Gardimy](https://github.com/Gardimy) | Gardimy Charles |  | gardyelontiga45 | Haiti | 56 |
 | 9 | [Lemayzeur](https://github.com/Lemayzeur) | Lub Lorry Lamysère | Code9Dev | lemayzeur | Port-au-Prince - Haiti | 55 |
 | 10 | [deldesir](https://github.com/deldesir) | Blondel Mondesir |  |  | Haiti | 52 |

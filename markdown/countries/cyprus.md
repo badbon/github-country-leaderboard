@@ -22,16 +22,16 @@ Indexed users: 2,748
 | 8 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,137 |
 | 9 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Lefkosa, Cyprus | 9,126 |
 | 10 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 9,123 |
-| 11 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam | Cyprus | 8,810 |
-| 12 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 8,796 |
-| 13 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 8,728 |
-| 14 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 8,521 |
-| 15 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 7,985 |
-| 16 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 7,526 |
-| 17 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 7,489 |
-| 18 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Cyprus | 7,428 |
-| 19 | [moisish](https://github.com/moisish) | Moisis Hadjiagathangelou | Cyprus | 7,342 |
-| 20 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 6,824 |
+| 11 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
+| 12 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam | Cyprus | 8,810 |
+| 13 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 8,796 |
+| 14 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 8,728 |
+| 15 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 8,521 |
+| 16 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 7,985 |
+| 17 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 7,526 |
+| 18 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 7,489 |
+| 19 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Cyprus | 7,428 |
+| 20 | [moisish](https://github.com/moisish) | Moisis Hadjiagathangelou | Cyprus | 7,342 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,748
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-10-07T09:29:14.941Z
+Generated: 2026-10-07T10:18:16.155Z

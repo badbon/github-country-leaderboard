@@ -21,9 +21,9 @@ Indexed users: 2,464
 | 7 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  | Kyrgyzstan | 6,123 |
 | 8 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik | Bishkek | 6,088 |
 | 9 | [qiniks](https://github.com/qiniks) | Talant Mataev | Kyrgyzstan | 5,566 |
-| 10 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,966 |
-| 11 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 4,762 |
-| 12 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 4,702 |
+| 10 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 5,086 |
+| 11 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,966 |
+| 12 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 4,762 |
 | 13 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 4,549 |
 | 14 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,386 |
 | 15 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
@@ -76,11 +76,11 @@ Indexed users: 2,464
 | 12 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym | Kyrgyzstan | 120 |
 | 13 | [Turatkg](https://github.com/Turatkg) | Turat Alybaev | Kyrgyzstan | 113 |
 | 14 | [zhanybekovich](https://github.com/zhanybekovich) | Mirlan Urzhanov | Karakol, Kyrgyzstan | 112 |
-| 15 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Osh \| Kyrgyzstan | 111 |
-| 16 | [bmamatkadyr](https://github.com/bmamatkadyr) | Beksultan | Bishkek | 109 |
+| 15 | [bmamatkadyr](https://github.com/bmamatkadyr) | Beksultan | Bishkek | 109 |
+| 16 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Osh \| Kyrgyzstan | 106 |
 | 17 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel | Bishkek | 105 |
 | 18 | [bashu](https://github.com/bashu) | Basil Sh. | Bishkek, Kyrgyzstan | 104 |
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 101 |
 
-Generated: 2026-10-07T09:43:34.575Z
+Generated: 2026-10-07T10:27:40.087Z

@@ -1,12 +1,12 @@
 # Followers - Guinea
 
-Generated: 2026-10-07T09:36:53.317Z
+Generated: 2026-10-07T10:23:29.722Z
 
 Users: 265
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy |  | souleymanesy43 | Guinée, Conakry | 458 |
+| 1 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy |  | souleymanesy43 | Guinée, Conakry | 459 |
 | 2 | [evanxg852000](https://github.com/evanxg852000) | Evance Soumaoro | Evansofts | evanxg852000 | Conakry - Guinea | 89 |
 | 3 | [camara94](https://github.com/camara94) | Laby Damaro CAMARA | Star Dev Cloud Group | laby_damaro | Conakry, Guinée | 86 |
 | 4 | [hadpro24](https://github.com/hadpro24) | Harouna Diallo | Software Engineer |  | Guinée, Conakry, GN | 74 |

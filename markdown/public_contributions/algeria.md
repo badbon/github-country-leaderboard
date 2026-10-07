@@ -1,8 +1,8 @@
 # Public Contributions - Algeria
 
-Generated: 2026-10-07T09:18:17.091Z
+Generated: 2026-10-07T10:08:55.755Z
 
-Users: 5820
+Users: 5819
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,7 +21,7 @@ Users: 5820
 | 13 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 1751 |
 | 14 | [samir1498](https://github.com/samir1498) | Samir Bettahar | ObserveOne |  | Algeria | 1614 |
 | 15 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | CorpoSense |  | Algeria | 1551 |
-| 16 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Higher School of Computer Science and Digital Technologies ESTIN Béjaia | qamroBKC | Algiers, Algeria | 1455 |
+| 16 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Higher School of Computer Science and Digital Technologies ESTIN Béjaia |  | Algiers, Algeria | 1530 |
 | 17 | [Nidhal-Khazene](https://github.com/Nidhal-Khazene) | Nidhal |  |  | Algeria | 1390 |
 | 18 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 1378 |
 | 19 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane |  |  | Algeria | 1376 |

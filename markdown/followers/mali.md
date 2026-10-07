@@ -1,8 +1,8 @@
 # Followers - Mali
 
-Generated: 2026-10-07T09:47:18.056Z
+Generated: 2026-10-07T10:16:00.541Z
 
-Users: 347
+Users: 348
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

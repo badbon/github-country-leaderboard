@@ -24,31 +24,31 @@ Indexed users: 15,566
 | 10 | [anavalo](https://github.com/anavalo) | Tasos Tsournos | Athens | 13,731 |
 | 11 | [gakonst](https://github.com/gakonst) | Georgios Konstantopoulos | Thessaloniki, Greece | 12,801 |
 | 12 | [georgiosd](https://github.com/georgiosd) | Georgios Diamantopoulos | Athens, Greece | 12,657 |
-| 13 | [ryanzidago](https://github.com/ryanzidago) | Ryan Zidago | Athens, Greece | 11,068 |
-| 14 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Corinth, Greece | 10,846 |
-| 15 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Patras, Greece | 10,834 |
-| 16 | [GMetaxakis](https://github.com/GMetaxakis) | Georgios Metaxakis | Greece | 10,248 |
-| 17 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
-| 18 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas | Greece | 9,094 |
-| 19 | [cosmix](https://github.com/cosmix) | Dimosthenis Kaponis | Athens, Greece | 8,320 |
-| 20 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | Athens, Greece | 7,992 |
+| 13 | [apmantza](https://github.com/apmantza) | Apostolos Mantzaris | Athens, Greece | 11,367 |
+| 14 | [ryanzidago](https://github.com/ryanzidago) | Ryan Zidago | Athens, Greece | 11,068 |
+| 15 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Corinth, Greece | 10,846 |
+| 16 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Patras, Greece | 10,834 |
+| 17 | [GMetaxakis](https://github.com/GMetaxakis) | Georgios Metaxakis | Greece | 10,248 |
+| 18 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
+| 19 | [giannisp](https://github.com/giannisp) | Ioannis Poulakas | Greece | 9,094 |
+| 20 | [cosmix](https://github.com/cosmix) | Dimosthenis Kaponis | Athens, Greece | 8,320 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [pablof7z](https://github.com/pablof7z) | Pablo Fernandez | Kalymnos, Greece | 22,485 |
-| 2 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
-| 3 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Patras, Greece | 8,066 |
-| 4 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | Athens, Greece | 7,992 |
-| 5 | [itcmsgr](https://github.com/itcmsgr) |  | Athens | 6,893 |
-| 6 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Corinth, Greece | 6,827 |
-| 7 | [Cranot](https://github.com/Cranot) | Dimitris | Greece | 5,575 |
-| 8 | [Themis128](https://github.com/Themis128) | Baltzakis Themistoklis | Greece | 5,368 |
-| 9 | [turri21](https://github.com/turri21) | turri21 | Greece | 5,319 |
-| 10 | [PetrouilFan](https://github.com/PetrouilFan) | Petros Fanioudakis | Greece | 5,029 |
-| 11 | [Basilakis](https://github.com/Basilakis) | Basilis Kanonidis | Thessaloniki, Greece | 4,346 |
-| 12 | [apmantza](https://github.com/apmantza) | Apostolos Mantzaris | Athens, Greece | 4,275 |
+| 2 | [apmantza](https://github.com/apmantza) | Apostolos Mantzaris | Athens, Greece | 9,497 |
+| 3 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
+| 4 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Patras, Greece | 8,066 |
+| 5 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | Athens, Greece | 7,992 |
+| 6 | [itcmsgr](https://github.com/itcmsgr) |  | Athens | 6,893 |
+| 7 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Corinth, Greece | 6,827 |
+| 8 | [Cranot](https://github.com/Cranot) | Dimitris | Greece | 5,575 |
+| 9 | [Themis128](https://github.com/Themis128) | Baltzakis Themistoklis | Greece | 5,368 |
+| 10 | [turri21](https://github.com/turri21) | turri21 | Greece | 5,319 |
+| 11 | [PetrouilFan](https://github.com/PetrouilFan) | Petros Fanioudakis | Greece | 5,029 |
+| 12 | [Basilakis](https://github.com/Basilakis) | Basilis Kanonidis | Thessaloniki, Greece | 4,346 |
 | 13 | [waseigo](https://github.com/waseigo) | Isaak Tsalicoglou | Athens, Greece | 4,247 |
 | 14 | [stef-k](https://github.com/stef-k) | Stef Karyotidis | Greece | 4,084 |
 | 15 | [ktsaou](https://github.com/ktsaou) | Costa Tsaousis | Greece | 3,896 |
@@ -83,4 +83,4 @@ Indexed users: 15,566
 | 19 | [EleftheriaBatsou](https://github.com/EleftheriaBatsou) | Eleftheria Batsou | Thessaloniki, Greece | 808 |
 | 20 | [chsakell](https://github.com/chsakell) | Christos Sakellarios | Athens, Greece | 762 |
 
-Generated: 2026-10-07T09:35:25.921Z
+Generated: 2026-10-07T10:21:48.218Z

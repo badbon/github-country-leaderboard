@@ -1,6 +1,6 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-07T09:13:05.958Z
+Generated: 2026-10-07T10:05:41.273Z
 
 Users: 3879
 
@@ -25,4 +25,4 @@ Users: 3879
 | 17 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Mobiklinic |  | Kampala, Uganda | 6942 |
 | 18 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Klan Logistics Limited |  | Kampala, Uganda | 6926 |
 | 19 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 6709 |
-| 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | @opensource-now @open-nux @nuxjs @wearedelovery | kayondoedward | Kampala, Uganda | 6514 |
+| 20 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | BUGEMA UNIVERSITY |  | Bugema  Kampala-Uganda | 6657 |

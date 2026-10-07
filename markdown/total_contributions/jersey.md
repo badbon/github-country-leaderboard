@@ -1,12 +1,12 @@
 # Total Contributions - Jersey
 
-Generated: 2026-10-07T07:56:56.962Z
+Generated: 2026-10-07T10:27:13.412Z
 
 Users: 139
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @evergreenjersey @awardsapp @wpallstars | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 49547 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @evergreenjersey @awardsapp @wpallstars | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 53162 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 19811 |
 | 3 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 9048 |
 | 4 | [guessty](https://github.com/guessty) | Christian |  |  | Jersey, Channel Islands | 8085 |

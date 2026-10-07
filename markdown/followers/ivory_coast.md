@@ -1,8 +1,8 @@
 # Followers - Ivory Coast
 
-Generated: 2026-10-07T09:38:37.541Z
+Generated: 2026-10-07T10:26:02.194Z
 
-Users: 490
+Users: 489
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,7 +17,7 @@ Users: 490
 | 9 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | CEO @ Dukify Inc. | sidikfaha | Abidjan, Ivory Coast | 82 |
 | 10 | [karimalik](https://github.com/karimalik) | Karim Kompissi | @workify | KKompissi | Abidjan, Côte d'ivoire | 75 |
 | 11 | [philemongloblehi](https://github.com/philemongloblehi) | PHILEMON GLOBLEHI |  | globlehi225 | Ivory Coast | 68 |
-| 12 | [Shadracthechosenone](https://github.com/Shadracthechosenone) | Shadrac |  | ShadracBodjui | Ivory Coast | 68 |
+| 12 | [Shadracthechosenone](https://github.com/Shadracthechosenone) | Shadrac |  | ShadracBodjui | Ivory Coast | 61 |
 | 13 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | WAZMINE | azinakou | Abidjan, Côte d'ivoire | 60 |
 | 14 | [daboujohan-hub](https://github.com/daboujohan-hub) | Diomandé Abou johan | Badoo |  | San Pedro, Côte d'Ivoire | 58 |
 | 15 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé |  | _aziz_soule_ | Abidjan, Côte d'Ivoire | 57 |

@@ -1,6 +1,6 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-07T09:43:34.575Z
+Generated: 2026-10-07T10:27:40.087Z
 
 Users: 2464
 
@@ -20,8 +20,8 @@ Users: 2464
 | 12 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym |  |  | Kyrgyzstan | 120 |
 | 13 | [Turatkg](https://github.com/Turatkg) | Turat Alybaev | App IT Company |  | Kyrgyzstan | 113 |
 | 14 | [zhanybekovich](https://github.com/zhanybekovich) | Mirlan Urzhanov |  |  | Karakol, Kyrgyzstan | 112 |
-| 15 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Geeks  |  | Osh \| Kyrgyzstan | 111 |
-| 16 | [bmamatkadyr](https://github.com/bmamatkadyr) | Beksultan | Loadex |  | Bishkek | 109 |
+| 15 | [bmamatkadyr](https://github.com/bmamatkadyr) | Beksultan | Loadex |  | Bishkek | 109 |
+| 16 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Geeks  |  | Osh \| Kyrgyzstan | 106 |
 | 17 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel |  |  | Bishkek | 105 |
 | 18 | [bashu](https://github.com/bashu) | Basil Sh. |  |  | Bishkek, Kyrgyzstan | 104 |
 | 19 | [eszdman](https://github.com/eszdman) |  |  |  | Kyrgyzstan | 102 |

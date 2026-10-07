@@ -1,6 +1,6 @@
 # Total Contributions - Eswatini
 
-Generated: 2026-10-07T09:31:51.921Z
+Generated: 2026-10-07T10:19:57.634Z
 
 Users: 108
 
@@ -18,11 +18,11 @@ Users: 108
 | 10 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Intuition | wandilemawelel | Manzini, Eswatini | 254 |
 | 11 | [temesgen-tana](https://github.com/temesgen-tana) | Temesgen Tana | Innovation Forge |  | Eswatini | 223 |
 | 12 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | RFK Solutions |  | Eswatini, Manzini | 187 |
-| 13 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson |  |  | Malkerns, Swaziland | 172 |
+| 13 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson |  |  | Malkerns, Swaziland | 174 |
 | 14 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Onswaziline |  | Mbabane, Swaziland | 159 |
 | 15 | [Theo-Banx](https://github.com/Theo-Banx) | Banx |  |  | Manzini, Swaziland | 133 |
 | 16 | [siko13-bot](https://github.com/siko13-bot) | 202101251 |  |  | Mbabane,Eswatini | 94 |
 | 17 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  |  |  Eswatini | 73 |
 | 18 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 69 |
-| 19 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini |  |  | Eswatini | 54 |
-| 20 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 50 |
+| 19 | [sicelo](https://github.com/sicelo) | Sicelo |  |  | Mbabane, ESWATINI | 60 |
+| 20 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini |  |  | Eswatini | 54 |

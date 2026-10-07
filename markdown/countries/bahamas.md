@@ -14,8 +14,8 @@ Indexed users: 238
 |---:|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 12,685 |
 | 2 | [kiarashplusplus](https://github.com/kiarashplusplus) | Kiarash Adl | Nassau Bay, Texas | 5,512 |
-| 3 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,166 |
-| 4 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,055 |
+| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,222 |
+| 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,166 |
 | 5 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 1,958 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 1,836 |
 | 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,632 |
@@ -43,20 +43,20 @@ Indexed users: 238
 | 4 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 272 |
 | 5 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 271 |
 | 6 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 224 |
-| 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 211 |
-| 8 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 202 |
-| 9 | [scott-mackenzie](https://github.com/scott-mackenzie) | Scott E. MacKenzie | Nassau, Bahamas | 140 |
-| 10 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 131 |
-| 11 | [bmo242](https://github.com/bmo242) | Brandon Morrison | Nassau, Bahamas | 112 |
-| 12 | [CooperSandra](https://github.com/CooperSandra) | Sandra | Bahamas | 99 |
-| 13 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 99 |
-| 14 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 84 |
-| 15 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 84 |
-| 16 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 59 |
-| 17 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 57 |
-| 18 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 55 |
-| 19 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 46 |
-| 20 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 42 |
+| 7 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 202 |
+| 8 | [scott-mackenzie](https://github.com/scott-mackenzie) | Scott E. MacKenzie | Nassau, Bahamas | 140 |
+| 9 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 131 |
+| 10 | [bmo242](https://github.com/bmo242) | Brandon Morrison | Nassau, Bahamas | 112 |
+| 11 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 111 |
+| 12 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 99 |
+| 13 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 84 |
+| 14 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 84 |
+| 15 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 59 |
+| 16 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 57 |
+| 17 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 55 |
+| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 46 |
+| 19 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 42 |
+| 20 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 41 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 238
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 13 |
 
-Generated: 2026-10-07T09:20:35.434Z
+Generated: 2026-10-07T10:11:58.846Z

@@ -64,7 +64,7 @@ Indexed users: 3,291
 |---:|---|---|---|---:|
 | 1 | [GrayMamoru](https://github.com/GrayMamoru) |  | Riga | 5,205 |
 | 2 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 2,401 |
-| 3 | [Mistrust12](https://github.com/Mistrust12) | Stay forever | Riga | 1,102 |
+| 3 | [Mistrust12](https://github.com/Mistrust12) | Stay forever | Riga | 1,124 |
 | 4 | [kj89](https://github.com/kj89) | kjnodes | Latvia | 605 |
 | 5 | [therceman](https://github.com/therceman) | Anton | Latvia | 604 |
 | 6 | [bodrovis](https://github.com/bodrovis) | Elijah S. Krukowski | Riga | 532 |
@@ -83,4 +83,4 @@ Indexed users: 3,291
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-07T09:54:47.720Z
+Generated: 2026-10-07T10:27:58.602Z

@@ -1,6 +1,6 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-07T09:09:56.628Z
+Generated: 2026-10-07T10:04:24.145Z
 
 Users: 710
 
@@ -18,11 +18,11 @@ Users: 710
 | 10 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов |  |  | Tajikistan / Khujand / Dushanbe / Kulob | 3496 |
 | 11 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Ayan Capital |  | Dushanbe, Tajikistan | 3178 |
 | 12 | [D1lsh0d](https://github.com/D1lsh0d) | Dilshod Hojiboev | @Silk-Road-Professionals |  | Khujand, Tajikistan | 3061 |
-| 13 | [zafardeveloper](https://github.com/zafardeveloper) | Zafar Bobojonov |  |  | Tajikistan | 3045 |
-| 14 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Lookona Labs |  | Tajikistan | 2856 |
-| 15 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov |  |  | Tajikistan | 2768 |
-| 16 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Kavsar Academy |  | Tajikistan | 2665 |
-| 17 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | @Paydo-Team |  | Tajikistan, Dushanbe | 2583 |
-| 18 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2566 |
+| 13 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Lookona Labs |  | Tajikistan | 2856 |
+| 14 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov |  |  | Tajikistan | 2768 |
+| 15 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Kavsar Academy |  | Tajikistan | 2665 |
+| 16 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | @Paydo-Team |  | Tajikistan, Dushanbe | 2583 |
+| 17 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2566 |
+| 18 | [zafardeveloper](https://github.com/zafardeveloper) | Zafar Bobojonov |  |  | Tajikistan | 2503 |
 | 19 | [burhon97](https://github.com/burhon97) | Burhonkhon Idriskhonov |  |  | Dushanbe | 2478 |
 | 20 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Paydo-Team |  | Dushanbe, Tajikistan | 2344 |
