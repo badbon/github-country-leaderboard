@@ -692,7 +692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 166,
     "createdAt": "2026-02-18T16:49:14Z"
   },
   {
@@ -702,9 +702,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 29,
     "createdAt": "2026-02-11T15:53:26Z"
   },
   {
@@ -714,9 +714,9 @@
     "location": "Tainan, Taiwan",
     "company": "Bridge Lab Ltd",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 362,
     "createdAt": "2026-05-11T12:20:27Z"
   },
   {
@@ -740,18 +740,18 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 72,
     "createdAt": "2026-02-20T19:26:06Z"
   },
   {
     "login": "LIN-CHIN-CHIEH",
     "name": "林晉頡",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255343521?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255343521?s=72&u=82bb6c474992f4ab69dc906c11ce3027c3e8bb93&v=4",
     "location": "New Taipei City, Taiwan",
     "company": "@kahap-inc ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1274,
+    "privateContributions": 1749,
     "publicContributions": 1,
     "createdAt": "2026-01-16T12:04:53Z"
   },
@@ -764,7 +764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 60,
     "createdAt": "2026-05-05T15:50:18Z"
   },
   {
@@ -788,7 +788,7 @@
     "twitterUsername": "liyoclaw1242",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 853,
+    "publicContributions": 1129,
     "createdAt": "2026-03-14T16:34:02Z"
   },
   {
@@ -824,7 +824,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 15,
     "createdAt": "2026-03-04T00:54:46Z"
   },
   {
@@ -858,19 +858,19 @@
     "location": "Taipei",
     "company": "",
     "twitterUsername": "macdog",
-    "followers": 41,
-    "privateContributions": 129,
-    "publicContributions": 145,
+    "followers": 43,
+    "privateContributions": 130,
+    "publicContributions": 154,
     "createdAt": "2026-02-06T08:32:38Z"
   },
   {
     "login": "Asus-UGen-Series",
     "name": "ASUS UGen Series",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276211236?s=72&u=74d41740c15978ce51911a6b5a6d597baaa3424f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/276211236?s=72&u=d0e27291824e15aba935df245f57bbb6d2ee1139&v=4",
     "location": "Taipei",
     "company": "ASUSTek Computer Inc.",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2026-04-15T07:06:42Z"
@@ -884,7 +884,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 26,
     "createdAt": "2026-03-09T17:05:22Z"
   },
   {
@@ -906,8 +906,8 @@
     "location": "Taipei ",
     "company": "@HDRenewables ",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 691,
+    "followers": 1,
+    "privateContributions": 801,
     "publicContributions": 2,
     "createdAt": "2026-04-01T07:34:46Z"
   },
@@ -109351,7 +109351,7 @@
     "company": "UMT Technology Solutions Co., Ltd.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 41,
+    "privateContributions": 33,
     "publicContributions": 0,
     "createdAt": "2017-08-03T08:14:34Z"
   },

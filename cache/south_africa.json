@@ -714,7 +714,7 @@
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2026-04-21T06:24:28Z"
@@ -726,7 +726,7 @@
     "location": "Cape Town, South Africa",
     "company": "@twilio",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2026-03-03T12:34:49Z"
@@ -764,7 +764,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 196,
+    "publicContributions": 221,
     "createdAt": "2026-01-25T14:28:45Z"
   },
   {
@@ -836,20 +836,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7624,
+    "publicContributions": 7833,
     "createdAt": "2026-01-07T11:04:47Z"
-  },
-  {
-    "login": "christiaanhuisman-d2d",
-    "name": "Christiaan Huisman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270327089?s=72&u=c82b35c5595c53d743a2ea85b0e50b1d4dabae3c&v=4",
-    "location": "South Africa, Western Cape",
-    "company": "digital2DNA",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-23T10:35:25Z"
   },
   {
     "login": "rxs6wnfrrx-lgtm",

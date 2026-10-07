@@ -726,7 +726,7 @@
     "location": "Montevideo, Uruguay",
     "company": "Universidad ORT Uruguay",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-04-25T03:38:31Z"
@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 34,
     "createdAt": "2025-08-09T22:54:31Z"
   },
   {
@@ -752,7 +752,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-09-12T17:23:42Z"
   },
   {
@@ -764,7 +764,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 39,
     "createdAt": "2025-08-09T17:33:29Z"
   },
   {
@@ -775,8 +775,8 @@
     "company": "LIDECO - Liga de Defensa Comercial",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 226,
-    "publicContributions": 58,
+    "privateContributions": 1383,
+    "publicContributions": 75,
     "createdAt": "2025-03-31T22:26:59Z"
   },
   {
@@ -798,9 +798,9 @@
     "location": "Maldonado, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 22,
     "createdAt": "2025-08-02T23:01:26Z"
   },
   {
@@ -811,8 +811,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 23,
-    "publicContributions": 50,
+    "privateContributions": 45,
+    "publicContributions": 41,
     "createdAt": "2025-06-06T02:14:42Z"
   },
   {
@@ -836,19 +836,19 @@
     "twitterUsername": "DansPablo",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 291,
+    "publicContributions": 315,
     "createdAt": "2025-10-02T11:45:47Z"
   },
   {
     "login": "NexumAI-online",
     "name": "Nexum AI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211113737?s=72&u=a93355f8a0d4cf2cc3369c655626070d8a3c7086&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211113737?s=72&u=1b684a6ff0f9aaa75893de3b7c96cefab7c9020f&v=4",
     "location": "Montevideo, Uruguay",
     "company": "Nexum AI",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 142,
     "createdAt": "2025-05-10T10:51:06Z"
   },
   {
@@ -882,7 +882,7 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2025-04-02T15:20:27Z"
@@ -894,21 +894,21 @@
     "location": "Uruguay ",
     "company": "@BMCdecode ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3732,
+    "publicContributions": 3036,
     "createdAt": "2025-08-28T04:34:49Z"
   },
   {
     "login": "agustinmachadodev",
     "name": "Agustin Machado",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229842968?s=72&u=ada5528537e1492ff68e79d270e6a21e52071abe&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229842968?s=72&u=55db5771df467500bd7fac32ff0bac4f53d6057d&v=4",
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 26,
-    "publicContributions": 65,
+    "privateContributions": 7,
+    "publicContributions": 60,
     "createdAt": "2025-09-01T22:42:46Z"
   },
   {
@@ -918,22 +918,10 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2025-09-12T16:50:17Z"
-  },
-  {
-    "login": "abellasantiago",
-    "name": "Santiago Abella",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211837571?s=72&u=1448cc4953746b38c21c7b9ca4051c7abe62bbaa&v=4",
-    "location": "Montevideo, Uruguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 262,
-    "createdAt": "2025-05-15T13:38:56Z"
   },
   {
     "login": "osom-digital",
@@ -944,7 +932,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-03T13:47:56Z"
   },
   {
@@ -956,7 +944,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 146,
+    "publicContributions": 124,
     "createdAt": "2025-04-28T22:13:04Z"
   },
   {

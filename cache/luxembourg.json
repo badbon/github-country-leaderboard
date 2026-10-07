@@ -452,7 +452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 111,
     "createdAt": "2025-08-13T16:26:22Z"
   },
   {
@@ -464,7 +464,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2025-12-10T15:42:15Z"
   },
   {
@@ -475,8 +475,8 @@
     "company": "@MABU-Concepts-S-A ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 641,
-    "publicContributions": 1,
+    "privateContributions": 628,
+    "publicContributions": 0,
     "createdAt": "2025-08-21T10:46:51Z"
   },
   {
@@ -498,9 +498,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 713,
-    "publicContributions": 9,
+    "followers": 4,
+    "privateContributions": 1069,
+    "publicContributions": 5,
     "createdAt": "2025-09-22T14:55:20Z"
   },
   {
@@ -510,7 +510,7 @@
     "location": "Luxembourg",
     "company": "LUCIL INNOV",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-04-03T11:49:51Z"
@@ -524,7 +524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 213,
+    "publicContributions": 223,
     "createdAt": "2025-06-29T19:13:45Z"
   },
   {
@@ -564,25 +564,13 @@
     "createdAt": "2025-06-17T12:57:00Z"
   },
   {
-    "login": "Jagrat2027",
-    "name": "Dann Jean-François",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219144939?s=72&u=0fb87aa1d8f088641e735963ba6c3ca802596c82&v=4",
-    "location": "Luxembourg",
-    "company": "Citizen initiative",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 28,
-    "createdAt": "2025-07-03T13:30:06Z"
-  },
-  {
     "login": "zit0cod3z",
     "name": "Kizito Daka",
     "avatarUrl": "https://avatars.githubusercontent.com/u/169397314?s=72&u=d6cbd5e9f68aa67fb3e195fb631510892e3fd15d&v=4",
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "zitocod3z",
-    "followers": 341,
+    "followers": 366,
     "privateContributions": 0,
     "publicContributions": 50,
     "createdAt": "2024-05-09T19:31:38Z"
@@ -594,9 +582,9 @@
     "location": "luxembourg",
     "company": "ft_42_luxembourg.c 🇱🇺",
     "twitterUsername": "",
-    "followers": 109,
+    "followers": 107,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 72,
     "createdAt": "2024-03-05T16:10:30Z"
   },
   {
@@ -606,9 +594,9 @@
     "location": "Luxembourg",
     "company": "Neurofeedback Luxembourg",
     "twitterUsername": "francois352",
-    "followers": 51,
-    "privateContributions": 5722,
-    "publicContributions": 131,
+    "followers": 57,
+    "privateContributions": 6036,
+    "publicContributions": 161,
     "createdAt": "2024-04-01T17:39:27Z"
   },
   {
@@ -618,9 +606,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 359,
-    "publicContributions": 200,
+    "followers": 33,
+    "privateContributions": 419,
+    "publicContributions": 176,
     "createdAt": "2024-02-04T17:21:10Z"
   },
   {
@@ -630,9 +618,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 20,
-    "publicContributions": 810,
+    "followers": 15,
+    "privateContributions": 21,
+    "publicContributions": 960,
     "createdAt": "2024-05-18T20:55:59Z"
   },
   {
@@ -642,9 +630,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2024-04-04T23:39:07Z"
   },
   {
@@ -656,7 +644,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 20,
     "createdAt": "2024-10-24T21:34:33Z"
   },
   {
@@ -666,7 +654,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-07-11T14:22:54Z"

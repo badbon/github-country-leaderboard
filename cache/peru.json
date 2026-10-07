@@ -714,9 +714,9 @@
     "location": "Lima, Perú",
     "company": "Universidad Nacional de Ingeniería",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 26,
     "createdAt": "2026-03-27T02:11:00Z"
   },
   {
@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 168,
     "createdAt": "2026-02-23T14:19:55Z"
   },
   {
@@ -751,45 +751,33 @@
     "company": "coforge.com",
     "twitterUsername": "nicolasbncruz",
     "followers": 1,
-    "privateContributions": 893,
-    "publicContributions": 209,
+    "privateContributions": 708,
+    "publicContributions": 210,
     "createdAt": "2026-04-09T23:31:47Z"
   },
   {
     "login": "josepaucarh",
     "name": "José Ignacio Paucar Huanhuayo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253621175?s=72&u=94377be039ef5c2ef8479ce72b73b88738b9d51f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253621175?s=72&u=e36f922224ef3fec93059bf09436a6bd85a159af&v=4",
     "location": "Lima - Punta Hermosa",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 5,
     "createdAt": "2026-01-08T01:56:51Z"
   },
   {
     "login": "gerson-lozano-dev",
     "name": "Gerson Lozano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266814047?s=72&u=8634e6c0ac7c98b6e87fdebbed7b92ef980c71bf&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266814047?s=72&v=4",
     "location": "Lima, Perú",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 11,
     "createdAt": "2026-03-09T17:41:07Z"
-  },
-  {
-    "login": "Jhonmb-01",
-    "name": "Jhon Masias",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283225257?s=72&u=ec28b428e6d22160807bba54ce9d092ce1504a38&v=4",
-    "location": "Lima - Perú",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2026-05-09T17:53:26Z"
   },
   {
     "login": "thevictorcandido",
@@ -798,33 +786,21 @@
     "location": "Nova Lima/MG",
     "company": "Grupo GVS",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 26,
     "createdAt": "2026-03-05T15:51:40Z"
-  },
-  {
-    "login": "chrisipanaque",
-    "name": "Christiam Ipanaque | Software Engineer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/226408503?s=72&u=1ed07a904b8e5440bc531d07b7d4f8c8b4d88a20&v=4",
-    "location": "Lima, Peru",
-    "company": "christiamipanaque.com",
-    "twitterUsername": "chrisipanaque",
-    "followers": 6538,
-    "privateContributions": 6,
-    "publicContributions": 467,
-    "createdAt": "2025-08-13T22:28:54Z"
   },
   {
     "login": "legacyum",
     "name": "ALESSANDRO EDWARD ALTAMIRANO SALAZAR",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/215318767?s=72&u=491324a234d7d3e9eb70a21f8abfe3984a78fffd&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215318767?s=72&u=a9e476d6406f8dddc97b451e4780b8ae03234bc7&v=4",
     "location": "Lima,Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 62,
     "createdAt": "2025-06-07T21:16:12Z"
   },
   {
@@ -836,7 +812,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 31,
     "createdAt": "2025-12-13T16:17:17Z"
   },
   {
@@ -847,7 +823,7 @@
     "company": "Flyver",
     "twitterUsername": "FranzuaPlasenc1",
     "followers": 12,
-    "privateContributions": 2191,
+    "privateContributions": 1847,
     "publicContributions": 46,
     "createdAt": "2024-12-30T07:19:36Z"
   },
@@ -870,9 +846,9 @@
     "location": "Peru",
     "company": "Universidad Católica Santa María",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 222,
     "createdAt": "2025-01-24T05:47:17Z"
   },
   {
@@ -882,9 +858,9 @@
     "location": "Peru/South America",
     "company": "dunno",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 148,
+    "publicContributions": 22,
     "createdAt": "2025-06-26T20:51:11Z"
   },
   {
@@ -906,9 +882,9 @@
     "location": "Peru",
     "company": "UPC",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 225,
+    "publicContributions": 333,
     "createdAt": "2025-01-10T17:48:40Z"
   },
   {
@@ -919,8 +895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 316,
-    "publicContributions": 477,
+    "privateContributions": 547,
+    "publicContributions": 577,
     "createdAt": "2025-08-28T18:12:44Z"
   },
   {

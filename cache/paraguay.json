@@ -716,7 +716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-12T12:05:15Z"
   },
   {
@@ -728,7 +728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 277,
+    "publicContributions": 278,
     "createdAt": "2025-07-29T22:07:49Z"
   },
   {
@@ -738,9 +738,9 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 7,
     "createdAt": "2025-07-03T14:07:41Z"
   },
   {
@@ -775,7 +775,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 393,
+    "privateContributions": 484,
     "publicContributions": 29,
     "createdAt": "2025-02-19T19:16:53Z"
   },
@@ -800,7 +800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-20T20:01:25Z"
   },
   {
@@ -836,7 +836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-09-17T17:18:21Z"
   },
   {
@@ -846,22 +846,10 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 288,
     "createdAt": "2025-02-13T21:09:15Z"
-  },
-  {
-    "login": "Cheliotop",
-    "name": "Sergio Hoeckh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/213109898?s=72&v=4",
-    "location": "Filadelfia, Paraguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2025-05-23T18:20:41Z"
   },
   {
     "login": "VDP89",
@@ -872,7 +860,7 @@
     "twitterUsername": "vdp2007",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 383,
+    "publicContributions": 409,
     "createdAt": "2025-06-28T13:23:17Z"
   },
   {
@@ -884,20 +872,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 141,
     "createdAt": "2025-07-23T14:16:13Z"
-  },
-  {
-    "login": "FrancoSoilan-DEV",
-    "name": "Franco Soilan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217772637?s=72&u=faf2390626e0fc67021a12340de0bf7499a9bb03&v=4",
-    "location": "Asunción, Paraguay 🇵🇾",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 105,
-    "createdAt": "2025-06-24T13:54:06Z"
   },
   {
     "login": "Asael-Maciel-Dev",
@@ -906,9 +882,9 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 4,
     "createdAt": "2025-02-13T20:07:01Z"
   },
   {
@@ -918,9 +894,9 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 442,
+    "publicContributions": 699,
     "createdAt": "2025-07-12T19:40:13Z"
   },
   {
@@ -942,7 +918,7 @@
     "location": "Asunción",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 94,
     "createdAt": "2025-10-21T18:41:53Z"

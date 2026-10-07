@@ -716,7 +716,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 174,
     "createdAt": "2025-09-05T19:36:11Z"
   },
   {
@@ -726,9 +726,9 @@
     "location": "syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 540,
-    "publicContributions": 250,
+    "followers": 8,
+    "privateContributions": 2029,
+    "publicContributions": 1149,
     "createdAt": "2025-07-20T12:46:49Z"
   },
   {
@@ -736,9 +736,9 @@
     "name": "miar_dev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/236909932?s=72&v=4",
     "location": "Turkey / Syria",
-    "company": "",
+    "company": "ABA Company",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2025-10-08T20:57:20Z"
@@ -746,13 +746,13 @@
   {
     "login": "Muhammad-S-Gh",
     "name": "Muhammad Sayyah Ghunaim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193520428?s=72&u=67afc36710a9f3e09ea015f4137d07c83e0665a0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193520428?s=72&u=a0225529b59b4267c4877b85fb639a393b4b8005&v=4",
     "location": "Damascus, Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 50,
     "createdAt": "2025-01-02T17:03:05Z"
   },
   {
@@ -762,9 +762,9 @@
     "location": "Syria, Aleppo",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 118,
     "createdAt": "2025-09-26T11:49:19Z"
   },
   {
@@ -776,7 +776,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 38,
     "createdAt": "2025-10-04T04:47:10Z"
   },
   {
@@ -786,9 +786,9 @@
     "location": "Syria - Damascus",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 263,
     "createdAt": "2025-04-19T06:50:39Z"
   },
   {
@@ -798,7 +798,7 @@
     "location": "Syria|Aleepo",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2025-05-01T18:43:02Z"
@@ -810,19 +810,19 @@
     "location": "Syria",
     "company": "Not yet",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 73,
     "createdAt": "2025-08-06T17:17:56Z"
   },
   {
     "login": "AdnanAlnashef",
     "name": "Adnan_Alnashef",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/251592283?s=72&u=e6db277e7e0d637fec3772dba8b36472bad339dc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/251592283?s=72&u=7d76d66d1b5b1ffd77f00e4229b0ff12b68d263b&v=4",
     "location": "Damascus, Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 40,
     "createdAt": "2025-12-26T12:09:54Z"
@@ -830,13 +830,13 @@
   {
     "login": "ahmadyoussefabuhassan",
     "name": "Ahmad Youssef",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/213101158?s=72&u=e503ed5a2b26485eb252af2f332e77d89663af8f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213101158?s=72&u=87ec217cd5f6bbbd530377cdd5d6ab4b117abc4f&v=4",
     "location": "Al-Tal , Damascus , Syria",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 115,
     "createdAt": "2025-05-23T17:08:19Z"
   },
   {
@@ -847,20 +847,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 75,
-    "publicContributions": 58,
+    "privateContributions": 87,
+    "publicContributions": 54,
     "createdAt": "2025-01-04T15:33:57Z"
   },
   {
     "login": "abd-shan",
     "name": "Abdulkader Shanbour",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195738342?s=72&u=ac9be09e7edf3886a465a72993295c04d38e5274&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195738342?s=72&u=d2a32dc1f3a35b736987ee6e92ebcf803e9781c5&v=4",
     "location": "Damascus,Syria",
     "company": "Cloudtech Sky",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 950,
-    "publicContributions": 440,
+    "privateContributions": 1134,
+    "publicContributions": 371,
     "createdAt": "2025-01-20T08:40:58Z"
   },
   {
@@ -882,9 +882,9 @@
     "location": "Syria , Damascus",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 300,
-    "publicContributions": 87,
+    "followers": 6,
+    "privateContributions": 912,
+    "publicContributions": 77,
     "createdAt": "2025-08-08T10:19:52Z"
   },
   {
@@ -894,7 +894,7 @@
     "location": "Syria/Al-Hasakah",
     "company": "Quantix",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-05T08:12:46Z"
@@ -906,9 +906,9 @@
     "location": "Damascus, Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 209,
+    "publicContributions": 235,
     "createdAt": "2025-04-13T17:59:28Z"
   },
   {
@@ -918,9 +918,9 @@
     "location": "Damascus, Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 397,
     "createdAt": "2025-05-31T16:08:10Z"
   },
   {
@@ -930,9 +930,9 @@
     "location": "Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 55,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 108,
     "createdAt": "2025-06-07T13:45:41Z"
   },
   {

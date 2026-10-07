@@ -710,13 +710,13 @@
   {
     "login": "MAHAMANE24",
     "name": "Mahamane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154536307?s=72&u=7291fcde8909af4e2842d7f8867be89f21710ae2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154536307?s=72&v=4",
     "location": "Bamako, Mali",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 21,
     "createdAt": "2023-12-21T15:15:10Z"
   },
   {
@@ -752,7 +752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-10-12T10:10:27Z"
   },
   {
@@ -787,8 +787,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 165,
-    "publicContributions": 75,
+    "privateContributions": 104,
+    "publicContributions": 31,
     "createdAt": "2023-05-15T23:41:12Z"
   },
   {
@@ -822,9 +822,9 @@
     "location": "Bamako,Mali ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 43,
-    "publicContributions": 2,
+    "followers": 4,
+    "privateContributions": 39,
+    "publicContributions": 71,
     "createdAt": "2023-03-14T17:26:27Z"
   },
   {
@@ -860,7 +860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 94,
     "createdAt": "2023-09-26T23:02:33Z"
   },
   {
@@ -882,7 +882,7 @@
     "location": "Bamako, Mali",
     "company": "Doniblon",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-20T12:22:28Z"
@@ -920,7 +920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2023-07-12T21:59:25Z"
   },
   {
@@ -942,8 +942,8 @@
     "location": "Bamako, Mali",
     "company": "@microverseinc Microverse",
     "twitterUsername": "touredri",
-    "followers": 30,
-    "privateContributions": 545,
+    "followers": 31,
+    "privateContributions": 744,
     "publicContributions": 51,
     "createdAt": "2022-08-31T14:28:18Z"
   },

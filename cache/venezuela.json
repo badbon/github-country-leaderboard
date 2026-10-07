@@ -696,18 +696,6 @@
     "createdAt": "2026-03-14T15:00:04Z"
   },
   {
-    "login": "oscarverdu81-source",
-    "name": "Osca Rafael Verdu Marquez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/275543858?s=72&u=bda51fac10a6bb8922a524636d00ff625fe95114&v=4",
-    "location": "Caracas",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2026-04-12T20:10:33Z"
-  },
-  {
     "login": "alejandrosalas-SA",
     "name": "Alejandro Salas-Seguros Altamira",
     "avatarUrl": "https://avatars.githubusercontent.com/u/258868104?s=72&u=b8c22fa13b3314236b7a7ede963c065f87cb19ee&v=4",
@@ -728,7 +716,7 @@
     "twitterUsername": "JoseSojoJ",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 634,
+    "publicContributions": 43,
     "createdAt": "2025-04-28T00:18:18Z"
   },
   {
@@ -736,11 +724,11 @@
     "name": "Gabriel González",
     "avatarUrl": "https://avatars.githubusercontent.com/u/218426526?s=72&u=0f36c095e26a537b1bd07585d435a1e166df374e&v=4",
     "location": "Venezuela, Distrito Capital",
-    "company": "HarryPotterHead",
+    "company": "Obeltech C.A.",
     "twitterUsername": "",
-    "followers": 195,
-    "privateContributions": 23,
-    "publicContributions": 428,
+    "followers": 202,
+    "privateContributions": 286,
+    "publicContributions": 455,
     "createdAt": "2025-06-29T02:17:25Z"
   },
   {
@@ -750,9 +738,9 @@
     "location": "Venezuela ",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 74,
     "createdAt": "2025-02-18T14:31:20Z"
   },
   {
@@ -762,9 +750,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 232,
+    "publicContributions": 225,
     "createdAt": "2025-06-23T14:32:26Z"
   },
   {
@@ -787,8 +775,8 @@
     "company": "Tudashboard",
     "twitterUsername": "franklinserif",
     "followers": 16,
-    "privateContributions": 9969,
-    "publicContributions": 18,
+    "privateContributions": 10279,
+    "publicContributions": 16,
     "createdAt": "2025-05-06T04:27:55Z"
   },
   {
@@ -796,11 +784,11 @@
     "name": "Andrés Tortolero",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193743023?s=72&u=663130e9bdc415230cb25c4c2337461220fcfa3f&v=4",
     "location": "Venezuela",
-    "company": "Alfareria El Recreo",
+    "company": "Alfareria El Recreo C.A.",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 0,
-    "publicContributions": 289,
+    "followers": 19,
+    "privateContributions": 628,
+    "publicContributions": 232,
     "createdAt": "2025-01-04T20:07:16Z"
   },
   {
@@ -812,20 +800,8 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 79,
     "createdAt": "2025-02-15T20:00:09Z"
-  },
-  {
-    "login": "Theyobii",
-    "name": "Jonny Cabrera",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/202856387?s=72&u=0d847cf32349511257edf690258c85ceb690862d&v=4",
-    "location": "Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 64,
-    "createdAt": "2025-03-11T20:23:11Z"
   },
   {
     "login": "Jesus-martinez-dev",
@@ -834,9 +810,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 24,
-    "publicContributions": 126,
+    "followers": 3,
+    "privateContributions": 21,
+    "publicContributions": 111,
     "createdAt": "2025-07-13T16:38:51Z"
   },
   {
@@ -848,7 +824,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 60,
     "createdAt": "2025-01-29T01:03:36Z"
   },
   {
@@ -858,9 +834,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 240,
-    "publicContributions": 629,
+    "followers": 3,
+    "privateContributions": 243,
+    "publicContributions": 590,
     "createdAt": "2025-06-02T22:38:14Z"
   },
   {
@@ -872,7 +848,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 256,
+    "publicContributions": 235,
     "createdAt": "2025-02-02T01:40:16Z"
   },
   {
@@ -882,7 +858,7 @@
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-10-14T14:29:58Z"
@@ -890,13 +866,13 @@
   {
     "login": "SirCesarium",
     "name": "Cesarium",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/239650612?s=72&u=5b67e1838c39f571991d8e0de6eb34535ad2ac79&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/239650612?s=72&u=90994ef6da17cc7a1bf3360c6f615a4407ac3b94&v=4",
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1394,
-    "publicContributions": 426,
+    "privateContributions": 1151,
+    "publicContributions": 879,
     "createdAt": "2025-10-22T18:17:20Z"
   },
   {
@@ -908,13 +884,13 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 14,
     "createdAt": "2025-12-02T21:03:21Z"
   },
   {
     "login": "yem2403",
     "name": "Yeremi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194605928?s=72&u=31072e5dfe136bf87dcdface9b06176a3be3fb8a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194605928?s=72&u=e342fa954c1bf12b35ff73c51c19639cf6a484e7&v=4",
     "location": "Venezuela, Edo Carabobo, Valencia.",
     "company": "",
     "twitterUsername": "",
@@ -930,9 +906,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 195,
     "createdAt": "2025-06-07T20:14:28Z"
   },
   {

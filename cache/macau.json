@@ -691,8 +691,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 128,
-    "publicContributions": 36,
+    "privateContributions": 133,
+    "publicContributions": 37,
     "createdAt": "2023-04-24T06:47:09Z"
   },
   {
@@ -716,7 +716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 17,
     "createdAt": "2023-06-14T00:22:22Z"
   },
   {
@@ -750,7 +750,7 @@
     "location": "Macau",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2023-09-07T03:13:12Z"
@@ -762,9 +762,9 @@
     "location": "Macau",
     "company": "nop",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 103,
     "createdAt": "2023-09-06T01:42:31Z"
   },
   {
@@ -776,7 +776,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2023-07-20T05:54:35Z"
   },
   {
@@ -786,22 +786,10 @@
     "location": "Avenida Padre Tomás Pereira Taipa, Macau",
     "company": "City University of Macau",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 58,
     "createdAt": "2023-10-13T15:25:24Z"
-  },
-  {
-    "login": "ElephantLikeCode",
-    "name": "SUN SHENGHE",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145446369?s=72&v=4",
-    "location": "Macau",
-    "company": "Macau",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2023-09-19T09:53:30Z"
   },
   {
     "login": "mrcheong200",
@@ -834,7 +822,7 @@
     "location": "Macau",
     "company": "MicroHard",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-18T06:50:29Z"
@@ -872,7 +860,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2023-11-12T03:40:20Z"
   },
   {
@@ -896,7 +884,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2023-07-11T08:34:44Z"
   },
   {
@@ -906,7 +894,7 @@
     "location": "Macau",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-05T04:42:49Z"
@@ -920,7 +908,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 22,
     "createdAt": "2023-11-15T06:43:39Z"
   },
   {

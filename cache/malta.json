@@ -762,7 +762,7 @@
     "location": "Malta",
     "company": "StatsDrone",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-12T09:16:52Z"
@@ -775,7 +775,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2024-10-25T12:52:40Z"
   },
@@ -787,7 +787,7 @@
     "company": "Betsson Group",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 89,
+    "privateContributions": 80,
     "publicContributions": 0,
     "createdAt": "2024-02-23T15:35:26Z"
   },
@@ -872,7 +872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 54,
     "createdAt": "2024-08-05T23:35:15Z"
   },
   {
@@ -906,9 +906,9 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 50,
     "createdAt": "2024-07-29T21:23:37Z"
   },
   {
@@ -918,7 +918,7 @@
     "location": "Malta",
     "company": "Binaris Circuitry",
     "twitterUsername": "",
-    "followers": 45,
+    "followers": 47,
     "privateContributions": 1,
     "publicContributions": 3,
     "createdAt": "2023-03-17T09:29:19Z"
@@ -931,8 +931,8 @@
     "company": "Dawl Lab · Dept. of AI · University of Malta",
     "twitterUsername": "AFLucas26",
     "followers": 28,
-    "privateContributions": 392,
-    "publicContributions": 290,
+    "privateContributions": 311,
+    "publicContributions": 390,
     "createdAt": "2023-03-30T09:26:03Z"
   },
   {
@@ -942,9 +942,9 @@
     "location": "Malta",
     "company": "CrabNebula",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 431,
-    "publicContributions": 65,
+    "followers": 18,
+    "privateContributions": 510,
+    "publicContributions": 187,
     "createdAt": "2023-02-08T13:32:32Z"
   },
   {
@@ -954,9 +954,9 @@
     "location": "Malta",
     "company": "sel-employed",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 11,
     "createdAt": "2023-09-14T15:01:56Z"
   },
   {

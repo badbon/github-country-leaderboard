@@ -1018,5 +1018,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-11-12T21:20:56Z"
+  },
+  {
+    "login": "FudjiStudio",
+    "name": "FudjiStudio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293148813?s=72&u=2a4f414939ab6823aa1303bcd86f2056494941cb&v=4",
+    "location": "Guadeloupe",
+    "company": "SCS Fudji Studio",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-12T15:42:43Z"
+  },
+  {
+    "login": "GuadeloupeOfficielToken",
+    "name": "Guadeloupe officiel Token",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289120412?s=72&u=9731f6e8e68922894e5b41f16e9a60cbe7fa11f0&v=4",
+    "location": "Guadeloupe",
+    "company": " OfficialGwadaToken",
+    "twitterUsername": "GuadeloupeToken",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-05-30T04:44:38Z"
   }
 ]

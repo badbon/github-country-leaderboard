@@ -702,7 +702,7 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2026-03-02T12:53:45Z"
@@ -714,7 +714,7 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-02-12T18:02:13Z"
@@ -730,18 +730,6 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2026-01-22T18:36:34Z"
-  },
-  {
-    "login": "otsahbi-droid",
-    "name": "SAHBI TESNIM",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259440277?s=72&u=ff5fe383141645152216b32ed2e1138a2dcc6c83&v=4",
-    "location": "algeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 22,
-    "createdAt": "2026-02-04T21:03:07Z"
   },
   {
     "login": "maleknhx",
@@ -776,7 +764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 87,
     "createdAt": "2026-03-06T10:33:27Z"
   },
   {
@@ -817,7 +805,7 @@
   },
   {
     "login": "vrvsza",
-    "name": "VRVSZA",
+    "name": "khalil athmani",
     "avatarUrl": "https://avatars.githubusercontent.com/u/278630329?s=72&u=a6f9b22b705e2b1b19fde55c9765d170403357ec&v=4",
     "location": "Algeria, constantine.",
     "company": "",
@@ -846,7 +834,7 @@
     "location": "Algérie ",
     "company": "TechInnov Solutions",
     "twitterUsername": "Lisa87990",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2026-01-29T07:35:21Z"
@@ -858,7 +846,7 @@
     "location": "Algérie, Constantine ",
     "company": "Food global industrie ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-03-03T01:21:44Z"
@@ -882,9 +870,9 @@
     "location": "Algiers",
     "company": "National Higher School of Mathematics",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 60,
     "createdAt": "2026-01-23T12:03:37Z"
   },
   {
@@ -894,9 +882,9 @@
     "location": "Algiers ",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 150,
     "createdAt": "2026-03-23T07:38:46Z"
   },
   {
@@ -906,7 +894,7 @@
     "location": "ALGIERS",
     "company": "USTHB",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2026-03-07T14:31:43Z"

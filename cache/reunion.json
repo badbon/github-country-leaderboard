@@ -715,8 +715,8 @@
     "company": "DigiKaizen",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5881,
-    "publicContributions": 1,
+    "privateContributions": 6459,
+    "publicContributions": 3,
     "createdAt": "2020-03-11T09:24:05Z"
   },
   {
@@ -727,8 +727,8 @@
     "company": "Skydo Digital Studio",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1451,
-    "publicContributions": 17,
+    "privateContributions": 2218,
+    "publicContributions": 20,
     "createdAt": "2020-05-05T21:51:43Z"
   },
   {
@@ -787,7 +787,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 49,
+    "privateContributions": 50,
     "publicContributions": 3,
     "createdAt": "2019-09-12T11:24:01Z"
   },
@@ -799,7 +799,7 @@
     "company": "Ynov Paris Campus ",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 38,
+    "privateContributions": 17,
     "publicContributions": 0,
     "createdAt": "2019-10-10T10:35:16Z"
   },
@@ -847,8 +847,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 465,
-    "publicContributions": 11,
+    "privateContributions": 1351,
+    "publicContributions": 33,
     "createdAt": "2022-11-16T13:01:18Z"
   },
   {
@@ -858,7 +858,7 @@
     "location": "Reunion Island (Full Remote)",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-09T06:53:18Z"
@@ -870,7 +870,7 @@
     "location": "Reunion Island",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-05-16T09:27:48Z"
@@ -883,8 +883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 155,
-    "publicContributions": 53,
+    "privateContributions": 74,
+    "publicContributions": 128,
     "createdAt": "2022-04-26T06:34:38Z"
   },
   {
@@ -894,22 +894,10 @@
     "location": "Reunion Island",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "followers": 3,
+    "privateContributions": 196,
+    "publicContributions": 15,
     "createdAt": "2022-04-05T08:27:59Z"
-  },
-  {
-    "login": "loupirl",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/45992098?s=72&u=0690b7210b4d7870cc10fb9712a455eadc35fff6&v=4",
-    "location": "Saint-Ouen-sur-Seine, Saint-Denis",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-12-19T08:47:22Z"
   },
   {
     "login": "paris8-gsi",
@@ -931,7 +919,7 @@
     "company": "DreamVeloper",
     "twitterUsername": "d3nx_fr",
     "followers": 19,
-    "privateContributions": 437,
+    "privateContributions": 545,
     "publicContributions": 2,
     "createdAt": "2017-07-25T18:43:26Z"
   },

@@ -721,14 +721,14 @@
   },
   {
     "login": "Med34000",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256327301?s=72&u=60e5b977f317d6e0976c158a02c3264995fda69e&v=4",
+    "name": "Médéric",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256327301?s=72&u=0106617166681b64afdda3eac64b9f9541d4e4fd&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "Mederic_IA",
-    "followers": 1,
-    "privateContributions": 627,
-    "publicContributions": 21,
+    "followers": 4,
+    "privateContributions": 877,
+    "publicContributions": 47,
     "createdAt": "2026-01-21T11:21:04Z"
   },
   {
@@ -752,7 +752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 77,
     "createdAt": "2026-01-07T11:01:39Z"
   },
   {
@@ -764,7 +764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 13,
     "createdAt": "2026-02-04T22:12:31Z"
   },
   {
@@ -812,7 +812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2026-01-20T17:29:47Z"
   },
   {
@@ -836,7 +836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 84,
     "createdAt": "2026-05-05T18:57:33Z"
   },
   {
@@ -848,7 +848,7 @@
     "twitterUsername": "stevenexusz",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 531,
     "createdAt": "2026-03-29T12:55:57Z"
   },
   {
@@ -856,9 +856,9 @@
     "name": "Athanasios (Thanos) Ntoumos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/261515000?s=72&u=112d7354444dd4066b9db2dba6a158dcc04465b8&v=4",
     "location": "Switzerland",
-    "company": "EPFL - MeteoSwiss",
+    "company": "Riverkin",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2026-02-13T21:33:38Z"
@@ -884,7 +884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 29,
     "createdAt": "2026-02-13T14:49:49Z"
   },
   {
@@ -922,18 +922,6 @@
     "privateContributions": 0,
     "publicContributions": 78,
     "createdAt": "2026-02-19T15:17:01Z"
-  },
-  {
-    "login": "hedge3o",
-    "name": "hedge3o",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/274793882?s=72&u=936177b5b54af06d530a9dd778a639580dfcfc39&v=4",
-    "location": "Geneva, Switzerland",
-    "company": "",
-    "twitterUsername": "hedge3o",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-09T11:27:12Z"
   },
   {
     "login": "anakarilabs",

@@ -452,7 +452,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 140,
     "createdAt": "2026-03-25T09:30:55Z"
   },
   {
@@ -468,18 +468,6 @@
     "createdAt": "2026-02-11T08:08:41Z"
   },
   {
-    "login": "Kingman37-net",
-    "name": "KINGMAN KE",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270186131?s=72&u=62e3d3d2b9ffcdbe0c3034ce359655dabf54186c&v=4",
-    "location": "KENYA",
-    "company": "KINGMAN DIGITAL TECH",
-    "twitterUsername": "Kingman254k",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 75,
-    "createdAt": "2026-03-22T19:13:17Z"
-  },
-  {
     "login": "Call-me-Njenga",
     "name": "Lucy Njenga",
     "avatarUrl": "https://avatars.githubusercontent.com/u/263329580?s=72&u=24bf01a4f9b8b0e07843de7d72215c3c43ffe9fb&v=4",
@@ -487,18 +475,18 @@
     "company": "Meru University",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 96,
-    "publicContributions": 72,
+    "privateContributions": 107,
+    "publicContributions": 50,
     "createdAt": "2026-02-23T09:08:26Z"
   },
   {
     "login": "GADAFI-MERYL",
     "name": "Meryl Gadafi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266314119?s=72&u=5e586e5328038e153ca48b5a150f53629ddf0b27&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266314119?s=72&v=4",
     "location": "Eldoret, Kenya ",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-03-07T14:50:28Z"
@@ -506,11 +494,11 @@
   {
     "login": "D3nis18",
     "name": "Denis Mwangi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255715768?s=72&u=b93c5538453ae11e7e7b1c7eaf9bd3fb8b286a73&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255715768?s=72&u=81fd9e9e6fb2c28320c6beb5fdc5db47a1e91176&v=4",
     "location": "Kenya",
     "company": "Kenyatta University",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 63,
     "createdAt": "2026-01-18T16:29:25Z"
@@ -522,9 +510,9 @@
     "location": "Nairobi,Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 109,
-    "publicContributions": 96,
+    "publicContributions": 128,
     "createdAt": "2026-04-27T08:16:56Z"
   },
   {
@@ -534,21 +522,21 @@
     "location": "Nairobi, Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 68,
     "createdAt": "2026-01-08T17:48:46Z"
   },
   {
     "login": "timohspinkid-cyber",
     "name": "Timothy Mwendwa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258818702?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258818702?s=72&u=45cfed693ad7f0031d6a1de10f95db959ea6a127&v=4",
     "location": "Nairobi,Kenya",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 57,
     "createdAt": "2026-02-02T12:22:44Z"
   },
   {
@@ -560,7 +548,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 150,
     "createdAt": "2026-03-10T14:47:24Z"
   },
   {
@@ -584,7 +572,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 97,
     "createdAt": "2026-02-07T19:58:06Z"
   },
   {
@@ -606,9 +594,9 @@
     "location": "Kenya",
     "company": "BosonWare Enterprises",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 12,
-    "publicContributions": 4,
+    "followers": 5,
+    "privateContributions": 92,
+    "publicContributions": 19,
     "createdAt": "2026-01-03T12:44:01Z"
   },
   {
@@ -618,9 +606,9 @@
     "location": "Nairobi, Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 135,
-    "publicContributions": 241,
+    "followers": 10,
+    "privateContributions": 496,
+    "publicContributions": 467,
     "createdAt": "2026-02-24T12:38:04Z"
   },
   {
@@ -654,9 +642,9 @@
     "location": "Nairobi, Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 246,
+    "publicContributions": 236,
     "createdAt": "2026-02-28T18:04:25Z"
   },
   {
@@ -674,13 +662,13 @@
   {
     "login": "DataDonRowam23",
     "name": "Roniance Wanyonyi Mukhuchi (Don Rowam)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269032678?s=72&u=4bb0fd33d8792c91d697e2ad8631aea64704c908&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269032678?s=72&u=096ab5b7a077a1134e3fba5a1a85071b7f8e6692&v=4",
     "location": "Nairobi, Kenya.",
     "company": "DatAispecs",
     "twitterUsername": "home",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 79,
     "createdAt": "2026-03-17T21:26:36Z"
   },
   {

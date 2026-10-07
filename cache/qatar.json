@@ -672,18 +672,6 @@
     "createdAt": "2025-01-18T13:17:58Z"
   },
   {
-    "login": "Torment04",
-    "name": "Torment",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200949023?s=72&v=4",
-    "location": "Qatar",
-    "company": "UDST",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-02-26T13:22:39Z"
-  },
-  {
     "login": "mohammed-1410",
     "name": "mohammed-1410",
     "avatarUrl": "https://avatars.githubusercontent.com/u/206654881?s=72&v=4",
@@ -692,20 +680,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 38,
     "createdAt": "2025-04-08T05:10:24Z"
-  },
-  {
-    "login": "hoss3f",
-    "name": "Hossam Saafan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/208203205?s=72&v=4",
-    "location": "Doha, Qatar",
-    "company": "QU",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2025-04-18T20:15:53Z"
   },
   {
     "login": "Shivambhatia-debug",
@@ -715,8 +691,8 @@
     "company": "Golalita Trading And App Development",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 707,
-    "publicContributions": 431,
+    "privateContributions": 1035,
+    "publicContributions": 420,
     "createdAt": "2025-01-20T14:16:17Z"
   },
   {
@@ -728,7 +704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 24,
     "createdAt": "2025-07-14T13:34:06Z"
   },
   {
@@ -740,7 +716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 11,
     "createdAt": "2025-09-23T07:53:29Z"
   },
   {
@@ -764,7 +740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 14,
     "createdAt": "2025-09-18T05:00:46Z"
   },
   {
@@ -800,7 +776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-01-11T17:48:29Z"
   },
   {
@@ -824,7 +800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2025-06-12T12:54:55Z"
   },
   {
@@ -836,7 +812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 14,
     "createdAt": "2025-05-31T13:47:24Z"
   },
   {
@@ -848,7 +824,7 @@
     "twitterUsername": "allync_ai",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 872,
+    "publicContributions": 625,
     "createdAt": "2025-09-08T10:08:00Z"
   },
   {
@@ -858,8 +834,8 @@
     "location": "Doha, Qatar",
     "company": "Innovatix System Services",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 311,
+    "followers": 2,
+    "privateContributions": 769,
     "publicContributions": 9,
     "createdAt": "2025-10-20T04:22:37Z"
   },
@@ -872,7 +848,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 60,
     "createdAt": "2025-10-13T05:05:15Z"
   },
   {
@@ -882,7 +858,7 @@
     "location": "Doha",
     "company": "",
     "twitterUsername": "Linodefi1",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2025-03-29T11:06:44Z"
@@ -906,9 +882,9 @@
     "location": "Doha, Qatar",
     "company": "@mzieos",
     "twitterUsername": "",
-    "followers": 92,
-    "privateContributions": 2124,
-    "publicContributions": 751,
+    "followers": 89,
+    "privateContributions": 2408,
+    "publicContributions": 682,
     "createdAt": "2024-02-17T05:37:56Z"
   },
   {

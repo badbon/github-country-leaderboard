@@ -691,8 +691,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 5,
+    "privateContributions": 3,
+    "publicContributions": 8,
     "createdAt": "2026-04-20T03:46:29Z"
   },
   {
@@ -738,9 +738,9 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 52,
     "createdAt": "2026-03-23T10:30:35Z"
   },
   {
@@ -776,7 +776,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 397,
     "createdAt": "2026-05-04T11:35:38Z"
   },
   {
@@ -820,11 +820,11 @@
     "name": "Latif by MDIL",
     "avatarUrl": "https://avatars.githubusercontent.com/u/267440929?s=72&v=4",
     "location": "Singapore",
-    "company": "GoAiMEX.com",
+    "company": "vlobel.com",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 14,
     "createdAt": "2026-03-11T20:02:55Z"
   },
   {
@@ -836,20 +836,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 27,
     "createdAt": "2026-01-13T01:22:24Z"
-  },
-  {
-    "login": "reallysec",
-    "name": "reallysec",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/274261352?s=72&u=0bfe4f0a56665c03d9b7dc395e017aa8454cb6f3&v=4",
-    "location": "Singapore",
-    "company": "Reallysec Information Technology LTD.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2026-04-07T14:48:04Z"
   },
   {
     "login": "ActiveCircuitry",
@@ -883,33 +871,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 229,
+    "privateContributions": 1728,
+    "publicContributions": 1291,
     "createdAt": "2025-12-31T09:40:36Z"
-  },
-  {
-    "login": "cyayung804",
-    "name": "cyayung804",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/272410837?s=72&u=568923d1f7c94f0d7d5cc110ffd7d3a131fbe3f9&v=4",
-    "location": "Singapore",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 95,
-    "createdAt": "2026-03-31T04:05:39Z"
-  },
-  {
-    "login": "rafaelcabral-ai",
-    "name": "Rafael Cabral",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254837935?s=72&u=c06ec5a24939aec30662ed4f086b8646362beda8&v=4",
-    "location": "Singapore",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 45,
-    "createdAt": "2026-01-14T05:59:34Z"
   },
   {
     "login": "jasmineyao1112",
@@ -296050,5 +296014,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-11-09T11:26:08Z"
+  },
+  {
+    "login": "ElephantLikeCode",
+    "name": "SUN SHENGHE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145446369?s=72&v=4",
+    "location": "Singapore",
+    "company": "Singapore",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2023-09-19T09:53:30Z"
   }
 ]

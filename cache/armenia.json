@@ -931,8 +931,8 @@
     "company": "QafGo AI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1379,
-    "publicContributions": 225,
+    "privateContributions": 2,
+    "publicContributions": 200,
     "createdAt": "2025-06-09T11:51:11Z"
   },
   {
@@ -944,19 +944,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 65,
     "createdAt": "2025-11-28T12:33:23Z"
   },
   {
     "login": "Armencho2012",
     "name": "Armen Aslikyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201786062?s=72&u=6d870e25d80314a936b613bf0c5a51447e310f20&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201786062?s=72&u=8b77358bc59737307acb26824dded1176f049ef4&v=4",
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 273,
+    "publicContributions": 326,
     "createdAt": "2025-03-04T17:00:47Z"
   },
   {
@@ -980,20 +980,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2025-09-16T15:09:07Z"
-  },
-  {
-    "login": "MariamAvetisyan2003",
-    "name": "Mariam Avetisyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231299934?s=72&u=31faf15f821322fbbfd5b531b21b5163a5e534aa&v=4",
-    "location": "Yerevan, Armenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2025-09-09T17:30:07Z"
   },
   {
     "login": "SandrinhoJR",
@@ -1010,25 +998,25 @@
   {
     "login": "KiraFaust",
     "name": "IRQ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/220997586?s=72&u=316743e45ba545dfc4053f01ae5df55f1242eb3e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/220997586?s=72&u=194887c09105dd6c903cc25678c917e438d0f79d&v=4",
     "location": "Gay, Ararat, Armenia",
     "company": "Langstadt-Voight Heavy Industries",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 74,
     "createdAt": "2025-07-16T01:07:05Z"
   },
   {
     "login": "pyKi11er",
     "name": "Hayk Grigoryan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162843832?s=72&u=1006dac75769a1a70edc0e00b1ac1cd8582db8c7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162843832?s=72&u=902ea59138e20bb7d2cfdc9d0c00348511155d57&v=4",
     "location": "Budapest/Yerevan",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 73,
     "createdAt": "2024-03-09T22:39:30Z"
   },
   {
@@ -1038,9 +1026,9 @@
     "location": "Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 9,
-    "publicContributions": 136,
+    "followers": 8,
+    "privateContributions": 11,
+    "publicContributions": 105,
     "createdAt": "2025-01-17T18:22:46Z"
   },
   {
@@ -1052,7 +1040,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 18,
     "createdAt": "2025-09-30T19:19:53Z"
   },
   {
@@ -1064,7 +1052,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 40,
     "createdAt": "2024-12-30T11:20:52Z"
   },
   {
@@ -1106,13 +1094,13 @@
   {
     "login": "rastuhacode",
     "name": "Rasten Remizov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224317650?s=72&u=b263c754a1587db04fab6811703204687138af14&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224317650?s=72&u=8a9b05f6ef07073e06293890fd36011105286cb5&v=4",
     "location": "Yerevan",
-    "company": "ASTRA Group",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 5,
-    "publicContributions": 359,
+    "publicContributions": 480,
     "createdAt": "2025-08-02T19:40:38Z"
   },
   {
@@ -1124,7 +1112,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2025-07-08T08:29:28Z"
   },
   {
@@ -1136,7 +1124,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 62,
     "createdAt": "2025-04-29T09:41:02Z"
   },
   {
@@ -1160,7 +1148,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-02-11T17:09:07Z"
   },
   {

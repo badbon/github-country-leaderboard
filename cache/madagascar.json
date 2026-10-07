@@ -710,13 +710,13 @@
   {
     "login": "Toavina-Ambinintsoa",
     "name": "Toavina",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196011459?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196011459?s=72&u=94c8742faa870bb5beda9382c5f0012d5731807d&v=4",
     "location": "Antananarivo-Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 284,
+    "publicContributions": 274,
     "createdAt": "2025-01-22T06:23:35Z"
   },
   {
@@ -726,9 +726,9 @@
     "location": "Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 2,
-    "publicContributions": 87,
+    "followers": 8,
+    "privateContributions": 36,
+    "publicContributions": 112,
     "createdAt": "2025-06-15T13:23:43Z"
   },
   {
@@ -738,9 +738,9 @@
     "location": "Fianarantsoa, Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 56,
-    "publicContributions": 55,
+    "followers": 9,
+    "privateContributions": 57,
+    "publicContributions": 126,
     "createdAt": "2025-07-06T06:12:52Z"
   },
   {
@@ -751,8 +751,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 240,
-    "publicContributions": 0,
+    "privateContributions": 26,
+    "publicContributions": 30,
     "createdAt": "2025-02-09T06:10:14Z"
   },
   {
@@ -774,34 +774,22 @@
     "location": "Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1367,
-    "publicContributions": 540,
+    "followers": 5,
+    "privateContributions": 1669,
+    "publicContributions": 436,
     "createdAt": "2025-04-10T11:29:44Z"
   },
   {
     "login": "Salomon-0",
     "name": "Salomon-dev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198301065?s=72&u=2f58fc30808f72f4b9d370d34b75f050f21c8808&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198301065?s=72&u=73016be478208aea88791ede0e3c9985e4cf900d&v=4",
     "location": "Madagascar",
     "company": "@MalagasyDevHub ",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 311,
-    "publicContributions": 14,
+    "followers": 8,
+    "privateContributions": 308,
+    "publicContributions": 41,
     "createdAt": "2025-02-08T04:38:05Z"
-  },
-  {
-    "login": "MoonieJeon23",
-    "name": "MoonieJeon23",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216119808?s=72&u=de5bb9450105742d32715d2346df94517103a527&v=4",
-    "location": "Madagascar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 33,
-    "createdAt": "2025-06-13T05:32:11Z"
   },
   {
     "login": "Sandro006",
@@ -812,7 +800,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 245,
+    "publicContributions": 249,
     "createdAt": "2025-01-09T16:05:21Z"
   },
   {
@@ -824,7 +812,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 87,
     "createdAt": "2025-01-23T13:21:15Z"
   },
   {
@@ -836,7 +824,7 @@
     "twitterUsername": "NoahAndriana",
     "followers": 5,
     "privateContributions": 127,
-    "publicContributions": 1170,
+    "publicContributions": 1380,
     "createdAt": "2025-01-16T15:55:20Z"
   },
   {
@@ -858,7 +846,7 @@
     "location": "Fianarantsoa, Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-10-13T06:05:45Z"
@@ -866,13 +854,13 @@
   {
     "login": "Mendrika-Randriamora",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197227456?s=72&u=736639747d0973852d60dbb0dbcd0bf83213abc7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197227456?s=72&u=b42186b6c29690eff01b59e89b74f1c36a454621&v=4",
     "location": "Madagascar",
     "company": "Kajy University",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 207,
+    "publicContributions": 217,
     "createdAt": "2025-01-31T07:14:43Z"
   },
   {
@@ -896,7 +884,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 32,
     "createdAt": "2025-07-22T15:06:23Z"
   },
   {
@@ -906,7 +894,7 @@
     "location": "Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-15T13:18:08Z"
@@ -930,7 +918,7 @@
     "location": "Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2025-08-03T19:36:44Z"
@@ -943,8 +931,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 143,
+    "privateContributions": 88,
+    "publicContributions": 155,
     "createdAt": "2025-01-22T05:42:26Z"
   },
   {

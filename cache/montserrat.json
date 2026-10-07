@@ -704,7 +704,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 6,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2021-10-16T16:51:19Z"
   },
   {
@@ -822,9 +822,9 @@
     "location": "Plymouth",
     "company": "Ferreira-Michell",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2602,
-    "publicContributions": 149,
+    "followers": 2,
+    "privateContributions": 6178,
+    "publicContributions": 65,
     "createdAt": "2021-11-02T18:31:54Z"
   },
   {
@@ -844,11 +844,11 @@
     "name": "donghyun.kang",
     "avatarUrl": "https://avatars.githubusercontent.com/u/65111601?s=72&u=93add4b51f9257c340da709524263db27d2c933c&v=4",
     "location": "Plymouth, MI",
-    "company": "Mobis Technical Center America via BTI Solutions",
+    "company": "Hyundai MOBIS Technical Center America via BTI Solutions",
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 22,
-    "publicContributions": 46,
+    "publicContributions": 38,
     "createdAt": "2020-05-10T09:31:15Z"
   },
   {
@@ -876,18 +876,6 @@
     "createdAt": "2020-01-08T01:14:53Z"
   },
   {
-    "login": "kwakye02",
-    "name": "George  Kwakye",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63153141?s=72&u=e43f4a80dedcb88b7585a4b2cdff8565638a5369&v=4",
-    "location": "Plymouth",
-    "company": "University of Plymouth",
-    "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 68,
-    "publicContributions": 28,
-    "createdAt": "2020-04-04T13:12:49Z"
-  },
-  {
     "login": "Nasrah1",
     "name": "Nasra Hassan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/67023086?s=72&u=609ddfe2c41ebeba955bcfe349526a86cd96f96d&v=4",
@@ -907,8 +895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 2,
-    "publicContributions": 10,
+    "privateContributions": 3,
+    "publicContributions": 26,
     "createdAt": "2020-07-20T22:26:01Z"
   },
   {
@@ -920,7 +908,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-10-06T11:18:21Z"
   },
   {
@@ -932,7 +920,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2020-04-20T01:47:24Z"
   },
   {

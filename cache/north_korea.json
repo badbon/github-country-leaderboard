@@ -690,7 +690,7 @@
     "location": "Pyongyang General Hospital, 2QHC+FWF, Pyongyang, North Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-09T03:41:16Z"
@@ -715,8 +715,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 35,
-    "publicContributions": 79,
+    "privateContributions": 0,
+    "publicContributions": 83,
     "createdAt": "2023-10-22T21:11:19Z"
   },
   {
@@ -752,20 +752,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 30,
     "createdAt": "2022-05-12T12:11:08Z"
-  },
-  {
-    "login": "totallynotnochi",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/105096693?s=72&v=4",
-    "location": "Anju, South Pyongan, DPRK",
-    "company": "米哈游网络科技股份有限公司",
-    "twitterUsername": "Potus",
-    "followers": 3,
-    "privateContributions": 14,
-    "publicContributions": 9,
-    "createdAt": "2022-05-07T05:24:06Z"
   },
   {
     "login": "JeonJung-kook",
@@ -786,8 +774,8 @@
     "location": "North Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 48,
+    "followers": 12,
+    "privateContributions": 53,
     "publicContributions": 50,
     "createdAt": "2022-02-06T15:23:49Z"
   },
@@ -798,9 +786,9 @@
     "location": "Pyongyang, North Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2022-04-09T22:25:17Z"
   },
   {
@@ -811,7 +799,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 22,
+    "privateContributions": 18,
     "publicContributions": 0,
     "createdAt": "2022-03-07T10:23:43Z"
   },
@@ -824,7 +812,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 756,
+    "publicContributions": 607,
     "createdAt": "2022-08-01T15:35:31Z"
   },
   {
@@ -835,7 +823,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-06T08:20:41Z"
   },
@@ -846,9 +834,9 @@
     "location": "North Korea",
     "company": "",
     "twitterUsername": "vvverttt",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 11,
     "createdAt": "2022-06-15T09:18:41Z"
   },
   {

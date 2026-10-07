@@ -704,7 +704,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3113,
+    "publicContributions": 3322,
     "createdAt": "2025-08-15T07:00:55Z"
   },
   {
@@ -714,9 +714,9 @@
     "location": "Monywa, Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 54,
-    "publicContributions": 88,
+    "followers": 4,
+    "privateContributions": 61,
+    "publicContributions": 144,
     "createdAt": "2025-07-28T09:12:08Z"
   },
   {
@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 35,
     "createdAt": "2025-09-04T13:35:03Z"
   },
   {
@@ -750,7 +750,7 @@
     "location": "Mandalay/Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2025-02-17T14:15:51Z"
@@ -764,7 +764,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 27,
     "createdAt": "2025-06-21T05:11:29Z"
   },
   {
@@ -776,7 +776,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 49,
     "createdAt": "2025-05-23T09:15:11Z"
   },
   {
@@ -788,7 +788,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 73,
     "createdAt": "2025-05-30T12:15:28Z"
   },
   {
@@ -823,8 +823,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 51,
-    "publicContributions": 78,
+    "privateContributions": 75,
+    "publicContributions": 117,
     "createdAt": "2025-05-03T16:52:46Z"
   },
   {
@@ -834,22 +834,10 @@
     "location": "Myanmar ",
     "company": "Pyae Phyo Aung",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-15T03:03:53Z"
-  },
-  {
-    "login": "556bhonemyathein",
-    "name": "Bhone Myat Hein",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/218899566?s=72&u=34ce77eff6185a05b01d1d79ab62f88aa42c3949&v=4",
-    "location": "Yangon, Myanmar",
-    "company": "@556bhonemyathein",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 365,
-    "publicContributions": 403,
-    "createdAt": "2025-07-02T04:25:53Z"
   },
   {
     "login": "BhoneThitKha27",
@@ -894,21 +882,21 @@
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 35,
     "createdAt": "2025-08-27T15:00:13Z"
   },
   {
     "login": "kyawzinsoedev",
     "name": "Kyaw Zin Soe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219160668?s=72&u=2674bf351746939e234ef720b441f1374c22c726&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219160668?s=72&u=bbe1175d2d5b0368936bda9d2e4474f4acc2779a&v=4",
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 121,
+    "followers": 1,
+    "privateContributions": 88,
+    "publicContributions": 115,
     "createdAt": "2025-07-03T15:22:16Z"
   },
   {
@@ -920,7 +908,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2025-10-02T08:42:40Z"
   },
   {
@@ -930,7 +918,7 @@
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-09T06:19:34Z"

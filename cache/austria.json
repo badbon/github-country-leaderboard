@@ -912,26 +912,14 @@
     "createdAt": "2026-05-11T11:53:13Z"
   },
   {
-    "login": "juanmanuelpch96",
-    "name": "Juan Manuel Parra ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266905758?s=72&u=83b2bc9a1e8edd318e7ccd15babe4f12a8e143c0&v=4",
-    "location": "Vienna ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2026-03-10T02:44:54Z"
-  },
-  {
     "login": "buildwitholga",
     "name": "Olga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205763950?s=72&u=02484ccd37c3daa72d49151ada82d16103fa3557&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205763950?s=72&u=104b4984283f8743dcdb205f6d7d5d9744bb2a61&v=4",
     "location": "Austria",
     "company": "",
     "twitterUsername": "OlgaShips",
-    "followers": 520,
-    "privateContributions": 233,
+    "followers": 656,
+    "privateContributions": 240,
     "publicContributions": 4,
     "createdAt": "2025-04-01T10:28:52Z"
   },
@@ -942,9 +930,9 @@
     "location": "Austria ",
     "company": "",
     "twitterUsername": "CamiAi__",
-    "followers": 94,
-    "privateContributions": 1357,
-    "publicContributions": 3647,
+    "followers": 92,
+    "privateContributions": 3885,
+    "publicContributions": 3977,
     "createdAt": "2025-10-22T19:21:27Z"
   },
   {
@@ -954,7 +942,7 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 81,
+    "followers": 82,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-12T13:49:55Z"
@@ -966,9 +954,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "Omid2007hope",
-    "followers": 79,
-    "privateContributions": 409,
-    "publicContributions": 605,
+    "followers": 87,
+    "privateContributions": 621,
+    "publicContributions": 844,
     "createdAt": "2025-06-30T11:30:24Z"
   },
   {
@@ -978,9 +966,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 191,
+    "publicContributions": 232,
     "createdAt": "2025-12-02T20:41:58Z"
   },
   {
@@ -990,9 +978,9 @@
     "location": "Austria, Graz",
     "company": "FH Joanneum",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 142,
-    "publicContributions": 696,
+    "followers": 21,
+    "privateContributions": 155,
+    "publicContributions": 677,
     "createdAt": "2025-03-02T17:41:36Z"
   },
   {
@@ -1002,7 +990,7 @@
     "location": "Austria",
     "company": "@NimaLTD",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2025-12-08T15:42:46Z"
@@ -1016,7 +1004,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 879,
+    "publicContributions": 1106,
     "createdAt": "2025-12-08T09:50:43Z"
   },
   {
@@ -1026,9 +1014,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "AWagnerDev",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 3054,
+    "publicContributions": 3494,
     "createdAt": "2025-04-15T10:32:44Z"
   },
   {
@@ -1039,8 +1027,8 @@
     "company": "TU Vienna",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 18,
-    "publicContributions": 24,
+    "privateContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2025-01-27T12:43:02Z"
   },
   {
@@ -1051,20 +1039,20 @@
     "company": "RFI-IRFOS . (Research Focus Institute- Interdisciplinary Research Facility for Open Sciences)",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 5524,
-    "publicContributions": 8603,
+    "privateContributions": 6621,
+    "publicContributions": 8906,
     "createdAt": "2025-07-20T20:51:47Z"
   },
   {
     "login": "corniac",
-    "name": "Cornelius Jacob",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205153424?s=72&u=f7da192173139c9c2f477e6033afd5245fee1b10&v=4",
+    "name": "Corneliu Iacob",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205153424?s=72&u=f531c2c6bf3686964a0e568835d9fe325388da50&v=4",
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 38,
     "createdAt": "2025-03-27T09:01:30Z"
   },
   {
@@ -1074,9 +1062,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 104,
     "createdAt": "2025-02-03T12:53:19Z"
   },
   {
@@ -1088,7 +1076,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 14,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2025-09-30T09:12:53Z"
   },
   {
@@ -1110,7 +1098,7 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-11-18T16:49:04Z"
@@ -1122,9 +1110,9 @@
     "location": "Austria",
     "company": "Vienna University of Technology (TU Wien) ",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 108,
     "createdAt": "2025-09-02T16:28:43Z"
   },
   {
@@ -1134,8 +1122,8 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 270,
+    "followers": 9,
+    "privateContributions": 213,
     "publicContributions": 15,
     "createdAt": "2025-04-21T02:28:07Z"
   },
@@ -1145,10 +1133,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/224026126?s=72&u=4331f6b5cd0b0fce3aae56bab47cd050d790af93&v=4",
     "location": "Vienna, Austria",
     "company": "Sentry.io",
-    "twitterUsername": "",
+    "twitterUsername": "AmirMujacic",
     "followers": 7,
-    "privateContributions": 367,
-    "publicContributions": 944,
+    "privateContributions": 512,
+    "publicContributions": 1291,
     "createdAt": "2025-08-01T09:01:16Z"
   },
   {

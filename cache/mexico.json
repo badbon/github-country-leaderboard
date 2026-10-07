@@ -678,7 +678,7 @@
     "location": "Mexico City",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2026-04-15T23:31:12Z"
@@ -704,7 +704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1217,
+    "publicContributions": 1242,
     "createdAt": "2026-02-04T19:25:43Z"
   },
   {
@@ -721,8 +721,8 @@
   },
   {
     "login": "doorslocked",
-    "name": "rawry",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261087973?s=72&u=8532805295db38e53e73c2b453c41c8457b00425&v=4",
+    "name": "angel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/261087973?s=72&u=9c23f0c94c2079d8ec11a6ce21639a0e1026d05d&v=4",
     "location": "mexico",
     "company": "",
     "twitterUsername": "",
@@ -764,20 +764,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 120,
     "createdAt": "2026-02-15T00:46:27Z"
-  },
-  {
-    "login": "BAJATEX",
-    "name": "BAJATEX",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269571784?s=72&v=4",
-    "location": "Tijuana, Baja California, Mexico.",
-    "company": "Bajatex",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 118,
-    "createdAt": "2026-03-19T20:19:07Z"
   },
   {
     "login": "carlosmorales-dev-mx",
@@ -788,7 +776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 45,
     "createdAt": "2026-03-10T06:51:27Z"
   },
   {
@@ -874,18 +862,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-04-11T22:50:02Z"
-  },
-  {
-    "login": "marianahdez1820-bot",
-    "name": "Mariana Hernández",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257587389?s=72&u=b61258d9ca71058b1e469188148826be5d49b822&v=4",
-    "location": "Mexico City",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 181,
-    "createdAt": "2026-01-27T16:52:14Z"
   },
   {
     "login": "thavoo",

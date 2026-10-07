@@ -727,7 +727,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 213,
+    "privateContributions": 201,
     "publicContributions": 8,
     "createdAt": "2024-12-30T22:25:51Z"
   },
@@ -744,18 +744,6 @@
     "createdAt": "2025-04-11T10:09:11Z"
   },
   {
-    "login": "ladyddo",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/234730110?s=72&u=cecac4d6ad96a6a225dad27661e84802ef6c390f&v=4",
-    "location": "Lithuania",
-    "company": "Devbridge, a Cognizant Company",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 106,
-    "createdAt": "2025-09-27T05:08:01Z"
-  },
-  {
     "login": "ItanasMin",
     "name": "Itanas Minkevicius",
     "avatarUrl": "https://avatars.githubusercontent.com/u/248632662?s=72&v=4",
@@ -770,13 +758,13 @@
   {
     "login": "Ramuneid",
     "name": "Ramunė Idzelytė",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/248484107?s=72&u=6be569f70d4de1777d7da4d79c7c709a982bef18&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/248484107?s=72&u=8f3228327d7deb92bf2809ce5ec755596fd9a59a&v=4",
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 90,
     "createdAt": "2025-12-08T13:41:03Z"
   },
   {
@@ -787,7 +775,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 1,
     "publicContributions": 87,
     "createdAt": "2025-02-10T09:52:56Z"
   },
@@ -812,19 +800,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 91,
     "createdAt": "2025-02-24T15:19:40Z"
   },
   {
     "login": "Darius-Varnelis",
     "name": "Darius Varnelis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/243414464?s=72&u=dafcc5669c0089531b074fe9a2e10804d7952539&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/243414464?s=72&u=db0e3ed848c82d832c75ab01de7b062a600a7d17&v=4",
     "location": "Vilnius, Lithuania",
     "company": "Vilnius University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 111,
     "createdAt": "2025-11-11T18:46:25Z"
   },
   {
@@ -836,7 +824,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 30,
     "createdAt": "2025-01-10T10:03:34Z"
   },
   {
@@ -848,7 +836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 202,
-    "publicContributions": 157,
+    "publicContributions": 142,
     "createdAt": "2025-03-15T17:09:30Z"
   },
   {
@@ -858,7 +846,7 @@
     "location": "Lithuania",
     "company": "B.E in Computer Engineering",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-17T09:01:47Z"
@@ -870,9 +858,9 @@
     "location": "Lithuania ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2025-10-24T12:09:29Z"
   },
   {
@@ -884,20 +872,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 126,
     "createdAt": "2025-11-30T14:26:24Z"
-  },
-  {
-    "login": "donataskond",
-    "name": "Donatas Kondratas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/240160687?s=72&v=4",
-    "location": "Vilnius, Lithuania",
-    "company": "Quare Agency",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-10-25T11:28:28Z"
   },
   {
     "login": "ms-trix",
@@ -907,7 +883,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 365,
+    "privateContributions": 386,
     "publicContributions": 179,
     "createdAt": "2025-07-31T07:21:33Z"
   },
@@ -920,7 +896,7 @@
     "twitterUsername": "JohnBastille",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 57,
     "createdAt": "2025-07-28T08:27:02Z"
   },
   {
@@ -932,7 +908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 14,
     "createdAt": "2025-10-04T08:26:22Z"
   },
   {

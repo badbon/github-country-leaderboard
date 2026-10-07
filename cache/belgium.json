@@ -908,7 +908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 404,
+    "publicContributions": 558,
     "createdAt": "2026-01-14T08:49:50Z"
   },
   {
@@ -944,7 +944,7 @@
     "twitterUsername": "FirstDominoEU",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 26,
     "createdAt": "2026-04-02T16:05:23Z"
   },
   {
@@ -966,9 +966,9 @@
     "location": "Brussels",
     "company": "@Delplanche",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 1450,
     "createdAt": "2026-04-04T19:51:55Z"
   },
   {
@@ -982,18 +982,6 @@
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2026-02-22T15:56:33Z"
-  },
-  {
-    "login": "Morgan-Reichert",
-    "name": "Morgan Reichert Stariax",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270905230?s=72&u=c8023d746cdee68a014e05949d4d8ba8880fb073&v=4",
-    "location": "Brussels",
-    "company": "@stariaxtech",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 61,
-    "createdAt": "2026-03-25T09:35:47Z"
   },
   {
     "login": "dekiwis4",
@@ -1026,9 +1014,9 @@
     "location": "België",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 100,
     "createdAt": "2025-02-05T08:46:10Z"
   },
   {
@@ -1075,8 +1063,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 60,
-    "publicContributions": 132,
+    "privateContributions": 80,
+    "publicContributions": 113,
     "createdAt": "2025-07-29T08:02:04Z"
   },
   {
@@ -1088,7 +1076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 27,
     "createdAt": "2025-10-06T21:41:50Z"
   },
   {
@@ -1111,8 +1099,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 243,
-    "publicContributions": 683,
+    "privateContributions": 244,
+    "publicContributions": 654,
     "createdAt": "2025-08-12T18:01:04Z"
   },
   {
@@ -1134,9 +1122,9 @@
     "location": "France, Belgique",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 112,
     "createdAt": "2025-02-10T08:37:42Z"
   },
   {
@@ -41384,7 +41372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 36,
     "createdAt": "2016-09-22T09:16:20Z"
   },
   {

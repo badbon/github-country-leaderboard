@@ -672,18 +672,6 @@
     "createdAt": "2024-12-28T06:21:33Z"
   },
   {
-    "login": "idrissafarzoda",
-    "name": "Idris Safarzoda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200783661?s=72&u=9fa320ff65d599e40bff00839c2c571029eac384&v=4",
-    "location": "Dushanbe  Tajikistan",
-    "company": "@ZaZaTechnologies",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-02-25T13:51:27Z"
-  },
-  {
     "login": "dark-developer-lord",
     "name": "Sultonsho Nazarshoev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/202529042?s=72&u=8e0860861a236859e965d8b17f49e42520616393&v=4",
@@ -692,7 +680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 48,
     "createdAt": "2025-03-09T15:19:17Z"
   },
   {
@@ -702,7 +690,7 @@
     "location": "Dushanbe",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 309,
     "createdAt": "2025-10-15T13:25:34Z"
@@ -716,19 +704,19 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 382,
+    "publicContributions": 383,
     "createdAt": "2025-12-19T15:02:05Z"
   },
   {
     "login": "sultonzoda2011",
     "name": "Sultonzoda Abdulloh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217959061?s=72&u=d514bdadae8ad6bce1de8c8811aa0e1b76fc5434&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217959061?s=72&u=444b52c6856fd1bf4b2f85c11b0159d1b94949a8&v=4",
     "location": "Dushanbe",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 724,
-    "publicContributions": 2181,
+    "followers": 8,
+    "privateContributions": 722,
+    "publicContributions": 2795,
     "createdAt": "2025-06-25T15:58:00Z"
   },
   {
@@ -738,9 +726,9 @@
     "location": "Dushanbe",
     "company": "SoftClub - IT Academy",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 311,
-    "publicContributions": 364,
+    "publicContributions": 452,
     "createdAt": "2025-10-15T13:16:42Z"
   },
   {
@@ -752,7 +740,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 87,
     "createdAt": "2025-07-03T09:53:31Z"
   },
   {
@@ -800,7 +788,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 466,
+    "publicContributions": 476,
     "createdAt": "2025-10-30T08:34:07Z"
   },
   {
@@ -818,13 +806,13 @@
   {
     "login": "fkarimi2005",
     "name": "Firuz Karimi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207298281?s=72&u=c91d5e2b78422c2b329293e2fa9ce077f4713036&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207298281?s=72&u=3643cea47a6348ccd6a9cbd1d647a8c696b53c1e&v=4",
     "location": "Dushanbe city",
     "company": "msu.tj",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 12,
     "createdAt": "2025-04-12T04:28:52Z"
   },
   {
@@ -860,7 +848,7 @@
     "twitterUsername": "BezanKarim90911",
     "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 788,
+    "publicContributions": 953,
     "createdAt": "2024-01-25T10:23:27Z"
   },
   {
@@ -870,7 +858,7 @@
     "location": "Dushanbe,Tajikistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 23,
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2024-08-28T14:22:11Z"
@@ -882,9 +870,9 @@
     "location": "Tajikistan",
     "company": "Kavsar Academy",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 2290,
-    "publicContributions": 81,
+    "followers": 21,
+    "privateContributions": 2590,
+    "publicContributions": 75,
     "createdAt": "2024-11-26T13:48:20Z"
   },
   {
@@ -906,8 +894,8 @@
     "location": "Tajikistan, Dushanbe",
     "company": "Z/Y",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 18,
+    "followers": 14,
+    "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-08-25T22:57:09Z"
   },

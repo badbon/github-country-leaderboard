@@ -750,9 +750,9 @@
     "location": "Fort-de-France",
     "company": "BCSIRT",
     "twitterUsername": "bcsirt",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 24,
     "createdAt": "2013-05-18T17:33:47Z"
   },
   {
@@ -764,7 +764,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 164,
     "createdAt": "2012-06-10T15:52:12Z"
   },
   {
@@ -787,8 +787,8 @@
     "company": "@phasme",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 621,
-    "publicContributions": 201,
+    "privateContributions": 600,
+    "publicContributions": 232,
     "createdAt": "2012-02-12T07:13:15Z"
   },
   {
@@ -798,9 +798,9 @@
     "location": "Martinique",
     "company": "université des Antilles",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 18,
     "createdAt": "2012-09-03T20:56:43Z"
   },
   {
@@ -846,9 +846,9 @@
     "location": "Martinique",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 34,
+    "followers": 3,
+    "privateContributions": 36,
+    "publicContributions": 331,
     "createdAt": "2011-10-31T14:09:20Z"
   },
   {
@@ -883,8 +883,8 @@
     "company": "@scionx-io",
     "twitterUsername": "bolomichelin",
     "followers": 35,
-    "privateContributions": 1959,
-    "publicContributions": 553,
+    "privateContributions": 3063,
+    "publicContributions": 169,
     "createdAt": "2009-04-09T14:40:01Z"
   },
   {
@@ -894,9 +894,9 @@
     "location": "Martinique",
     "company": "http://aerisnova.com",
     "twitterUsername": "dias_jorge",
-    "followers": 88,
-    "privateContributions": 1612,
-    "publicContributions": 1520,
+    "followers": 89,
+    "privateContributions": 3290,
+    "publicContributions": 1524,
     "createdAt": "2008-03-10T16:56:39Z"
   }
 ]

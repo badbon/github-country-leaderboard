@@ -750,7 +750,7 @@
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2026-01-26T17:26:16Z"
@@ -824,7 +824,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2026-01-06T14:43:39Z"
   },
   {
@@ -840,18 +840,6 @@
     "createdAt": "2026-03-07T13:30:20Z"
   },
   {
-    "login": "puddalt",
-    "name": "Luna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256470033?s=72&u=6ea4891a296ab58aed5f9d50dafe872787a5f923&v=4",
-    "location": "Wellington, NZ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 44,
-    "createdAt": "2026-01-22T02:26:34Z"
-  },
-  {
     "login": "Janette0924",
     "name": "Juan LUO",
     "avatarUrl": "https://avatars.githubusercontent.com/u/273851813?s=72&v=4",
@@ -864,51 +852,27 @@
     "createdAt": "2026-04-05T19:48:30Z"
   },
   {
-    "login": "just-8080",
-    "name": "justin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196601852?s=72&u=05fb5866f6f66477ccda94546215be8db6672946&v=4",
-    "location": "Aotearoa",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2025-01-27T05:39:11Z"
-  },
-  {
     "login": "lllons",
     "name": "Liam",
     "avatarUrl": "https://avatars.githubusercontent.com/u/229015767?s=72&u=84f075ad55f1b9f003c85ddc03c646abd0303bed&v=4",
     "location": "Aotearoa ",
     "company": "LLLons",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 33,
-    "publicContributions": 157,
+    "followers": 7,
+    "privateContributions": 43,
+    "publicContributions": 344,
     "createdAt": "2025-08-27T21:18:45Z"
-  },
-  {
-    "login": "ihategazami",
-    "name": "Lucas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/221424398?s=72&u=5427a7dac3e88a736dea08da3a5214a806f691c3&v=4",
-    "location": "Waitaha, Aotearoa",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 472,
-    "publicContributions": 61,
-    "createdAt": "2025-07-17T21:07:00Z"
   },
   {
     "login": "Zaneham",
     "name": "Zane Hambly",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/222171382?s=72&u=09a440f52e197a8eecde47507703a267b25922b5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/222171382?s=72&u=40182dc9c562dad117ca92b19d6639462de19c21&v=4",
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "ZaneHambly",
-    "followers": 188,
-    "privateContributions": 1181,
-    "publicContributions": 1541,
+    "followers": 200,
+    "privateContributions": 0,
+    "publicContributions": 1693,
     "createdAt": "2025-07-22T07:05:54Z"
   },
   {
@@ -918,9 +882,9 @@
     "location": "New Zealand",
     "company": "KiwiHacks and Southbag",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 1033,
+    "publicContributions": 969,
     "createdAt": "2025-01-13T06:22:17Z"
   },
   {
@@ -930,9 +894,9 @@
     "location": "Ōtautahi, New Zealand",
     "company": "@shopify",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 1668,
+    "publicContributions": 2895,
     "createdAt": "2025-03-16T21:51:11Z"
   },
   {
