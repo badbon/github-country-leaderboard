@@ -500,7 +500,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 47,
     "createdAt": "2026-02-06T13:17:33Z"
   },
   {
@@ -511,7 +511,7 @@
     "company": "Iran University of Science and Technology",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 70,
+    "privateContributions": 120,
     "publicContributions": 1,
     "createdAt": "2026-04-25T15:06:12Z"
   },
@@ -560,20 +560,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 10,
     "createdAt": "2026-02-20T11:29:06Z"
-  },
-  {
-    "login": "mohammad-vtnkhah",
-    "name": "Mohammad Vatankhah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/284028522?s=72&u=16a1fba639ab5206e1e635c067c3ae73d00caecc&v=4",
-    "location": "Tabriz, Iran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 30,
-    "createdAt": "2026-05-12T14:38:20Z"
   },
   {
     "login": "TivorAmirreza",
@@ -594,9 +582,9 @@
     "location": "iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 18,
     "createdAt": "2026-02-08T06:36:55Z"
   },
   {
@@ -606,9 +594,9 @@
     "location": "Iran-Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 99,
     "createdAt": "2025-12-27T10:15:12Z"
   },
   {
@@ -629,7 +617,7 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/262865550?s=72&u=bbe98537ce3e6995cb67e3b23291587441263e93&v=4",
     "location": "Iran",
     "company": "Open-source",
-    "twitterUsername": "azarmi.officail",
+    "twitterUsername": "azarmi_dev",
     "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
@@ -642,9 +630,9 @@
     "location": "Iran/Karaj",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 115,
-    "publicContributions": 20,
+    "followers": 4,
+    "privateContributions": 247,
+    "publicContributions": 55,
     "createdAt": "2026-05-11T11:16:41Z"
   },
   {
@@ -656,7 +644,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 28,
     "createdAt": "2026-02-20T08:17:08Z"
   },
   {
@@ -666,7 +654,7 @@
     "location": "iran/isfahan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-02-10T19:06:12Z"
@@ -678,9 +666,9 @@
     "location": "Yazd | Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 195,
+    "publicContributions": 220,
     "createdAt": "2026-02-05T08:31:18Z"
   },
   {
@@ -694,18 +682,6 @@
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2026-01-07T12:40:51Z"
-  },
-  {
-    "login": "mr-saeid-rostami",
-    "name": "Saeid Rostami",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/251675661?s=72&u=3a2e3cfa2e6895a58f688eb03676935a0c205db8&v=4",
-    "location": "Tehran, Iran",
-    "company": "",
-    "twitterUsername": "mrsaeid_rostami",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 39,
-    "createdAt": "2025-12-27T02:58:26Z"
   },
   {
     "login": "pooya-pirani",

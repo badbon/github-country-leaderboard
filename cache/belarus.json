@@ -480,18 +480,6 @@
     "createdAt": "2025-01-07T16:26:37Z"
   },
   {
-    "login": "priusf0x",
-    "name": "Viachalau Kleukin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194424801?s=72&u=cdb9c91c7c38027e91c3b9e50ff4decb4700c26e&v=4",
-    "location": "Moscow, Russia. Grodno, Belarus.",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 39,
-    "publicContributions": 410,
-    "createdAt": "2025-01-09T19:46:26Z"
-  },
-  {
     "login": "kudryavcAS",
     "name": "Aleksey Kudryavtsev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/218607382?s=72&u=91bc599932048137dda4b20daeb4ba2d4c603134&v=4",
@@ -500,7 +488,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 417,
+    "publicContributions": 389,
     "createdAt": "2025-06-30T12:28:48Z"
   },
   {
@@ -512,7 +500,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 59,
     "createdAt": "2025-09-28T09:37:26Z"
   },
   {
@@ -521,23 +509,11 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/216062657?s=72&u=d1c8447fd3a52c08681d7f1bff2dc990be2622da&v=4",
     "location": "Minsk, Belarus",
     "company": "BesanetsCorporation ",
-    "twitterUsername": "",
+    "twitterUsername": "abesanets",
     "followers": 8,
-    "privateContributions": 205,
-    "publicContributions": 327,
+    "privateContributions": 499,
+    "publicContributions": 317,
     "createdAt": "2025-06-12T17:42:32Z"
-  },
-  {
-    "login": "quanted129",
-    "name": "Fyodor Lebedev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/218610254?s=72&u=35d896943ec68e36be1ab67bddbf85aef2bd427b&v=4",
-    "location": "Minsk, Belarus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 52,
-    "createdAt": "2025-06-30T12:49:50Z"
   },
   {
     "login": "alushderkov",
@@ -548,7 +524,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 39,
     "createdAt": "2025-01-26T13:28:14Z"
   },
   {
@@ -559,7 +535,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 72,
+    "privateContributions": 132,
     "publicContributions": 3,
     "createdAt": "2025-10-17T20:21:00Z"
   },
@@ -583,7 +559,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 150,
+    "privateContributions": 151,
     "publicContributions": 48,
     "createdAt": "2025-05-16T07:55:57Z"
   },
@@ -594,9 +570,9 @@
     "location": "Minsk, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 792,
-    "publicContributions": 70,
+    "followers": 8,
+    "privateContributions": 769,
+    "publicContributions": 63,
     "createdAt": "2025-01-03T22:11:56Z"
   },
   {
@@ -606,21 +582,21 @@
     "location": "Minsk, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 14,
-    "publicContributions": 27,
+    "followers": 11,
+    "privateContributions": 9,
+    "publicContributions": 28,
     "createdAt": "2025-07-31T19:42:48Z"
   },
   {
     "login": "danik-sh",
-    "name": "danchik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231269411?s=72&u=b437a329a134450599123e074de5b876f9191a42&v=4",
+    "name": "DaniilSHV",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231269411?s=72&v=4",
     "location": "country Belarus, city Minsk",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 129,
     "createdAt": "2025-09-09T14:49:14Z"
   },
   {
@@ -630,9 +606,9 @@
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 9998,
-    "publicContributions": 207,
+    "followers": 7,
+    "privateContributions": 11951,
+    "publicContributions": 273,
     "createdAt": "2025-06-08T20:57:08Z"
   },
   {
@@ -655,8 +631,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 6,
-    "publicContributions": 107,
+    "privateContributions": 58,
+    "publicContributions": 0,
     "createdAt": "2025-03-20T18:38:05Z"
   },
   {
@@ -666,9 +642,9 @@
     "location": "Belarus",
     "company": "ST",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 89,
     "createdAt": "2025-07-17T17:55:25Z"
   },
   {
@@ -680,7 +656,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 159,
     "createdAt": "2025-06-30T07:22:58Z"
   },
   {
@@ -691,8 +667,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 282,
-    "publicContributions": 171,
+    "privateContributions": 447,
+    "publicContributions": 601,
     "createdAt": "2025-02-18T07:10:39Z"
   },
   {
@@ -704,7 +680,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 193,
+    "publicContributions": 180,
     "createdAt": "2025-08-15T08:59:12Z"
   },
   {
@@ -716,7 +692,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 78,
     "createdAt": "2025-10-29T21:28:38Z"
   },
   {

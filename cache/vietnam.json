@@ -235,8 +235,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 98,
-    "publicContributions": 806,
+    "privateContributions": 112,
+    "publicContributions": 807,
     "createdAt": "2026-01-08T04:18:05Z"
   },
   {
@@ -248,7 +248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 164,
     "createdAt": "2026-02-02T00:55:24Z"
   },
   {
@@ -260,20 +260,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2026-03-30T09:26:27Z"
-  },
-  {
-    "login": "eae-22",
-    "name": "EAE",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281347246?s=72&u=d00f48f6fbd20af4bbe37bf940289d150b86ecbc&v=4",
-    "location": "Ha Noi capital , Viet Nam",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
     "publicContributions": 8,
-    "createdAt": "2026-05-03T09:23:02Z"
+    "createdAt": "2026-03-30T09:26:27Z"
   },
   {
     "login": "jackytech111",
@@ -284,7 +272,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 127,
     "createdAt": "2026-01-19T19:45:40Z"
   },
   {
@@ -294,7 +282,7 @@
     "location": "Viet Nam",
     "company": "ngy",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-01-01T18:41:21Z"
@@ -308,7 +296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 327,
     "createdAt": "2026-05-09T13:33:57Z"
   },
   {
@@ -332,7 +320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 356,
+    "publicContributions": 413,
     "createdAt": "2026-03-24T13:39:31Z"
   },
   {
@@ -392,7 +380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 1,
     "createdAt": "2026-03-04T09:21:55Z"
   },
   {
@@ -404,7 +392,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 14,
     "createdAt": "2026-03-08T06:07:01Z"
   },
   {
@@ -416,7 +404,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 154,
     "createdAt": "2026-03-02T01:26:35Z"
   },
   {
@@ -440,7 +428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 56,
     "createdAt": "2026-04-20T13:34:46Z"
   },
   {
@@ -464,7 +452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 51,
     "createdAt": "2026-04-10T05:34:52Z"
   },
   {

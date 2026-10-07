@@ -30,9 +30,9 @@
     "location": "Oranjestad,Aruba",
     "company": "AWS Aruba",
     "twitterUsername": "AWSAruba",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2023-10-04T14:12:11Z"
   },
   {
@@ -43,7 +43,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1708,
+    "privateContributions": 1707,
     "publicContributions": 0,
     "createdAt": "2022-12-12T16:45:30Z"
   },
@@ -115,8 +115,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 28,
-    "publicContributions": 18,
+    "privateContributions": 15,
+    "publicContributions": 19,
     "createdAt": "2020-06-16T08:25:18Z"
   },
   {
@@ -128,7 +128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 62,
-    "publicContributions": 107,
+    "publicContributions": 113,
     "createdAt": "2020-03-15T19:23:20Z"
   },
   {
@@ -138,7 +138,7 @@
     "location": "Aruba",
     "company": "",
     "twitterUsername": "",
-    "followers": 68,
+    "followers": 69,
     "privateContributions": 0,
     "publicContributions": 495,
     "createdAt": "2019-01-02T08:55:11Z"
@@ -223,7 +223,7 @@
     "company": "CR38TE",
     "twitterUsername": "azaandam",
     "followers": 9,
-    "privateContributions": 795,
+    "privateContributions": 798,
     "publicContributions": 0,
     "createdAt": "2017-02-28T14:41:45Z"
   },

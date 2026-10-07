@@ -444,18 +444,6 @@
     "createdAt": "2026-05-04T11:30:43Z"
   },
   {
-    "login": "phonggonzales",
-    "name": "Phong Gonzales",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278279091?s=72&u=3f5bc89d27f14e234bacb9ffbe89e36d7d37e9b0&v=4",
-    "location": "Copenhagen, Denmark",
-    "company": "McGraw-Hill",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-04-22T04:25:56Z"
-  },
-  {
     "login": "lctguy",
     "name": "lct_guy",
     "avatarUrl": "https://avatars.githubusercontent.com/u/273460677?s=72&u=b1391f288e8b092f332949504ed3b36c8270e30b&v=4",
@@ -498,9 +486,9 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 83,
-    "publicContributions": 4,
+    "followers": 2,
+    "privateContributions": 238,
+    "publicContributions": 7,
     "createdAt": "2026-03-16T13:11:56Z"
   },
   {
@@ -510,9 +498,9 @@
     "location": "Denmark",
     "company": "ThomasCilius",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 89,
     "createdAt": "2026-02-26T13:20:30Z"
   },
   {
@@ -558,7 +546,7 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 25,
     "publicContributions": 181,
     "createdAt": "2026-03-16T12:54:06Z"
@@ -620,19 +608,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 10,
     "createdAt": "2026-04-23T21:07:33Z"
   },
   {
     "login": "eddlev",
     "name": "EddLev | VM4AI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253896620?s=72&u=ae7f2b3bfc3def8a9e651dd63131970d55c0efc1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/253896620?s=72&u=264eb9bab119c85a2ff9a46dd1a2486672c821b8&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "edd_lev",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 302,
+    "publicContributions": 659,
     "createdAt": "2026-01-09T09:17:38Z"
   },
   {
@@ -644,7 +632,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 233,
+    "publicContributions": 471,
     "createdAt": "2026-04-28T16:21:15Z"
   },
   {

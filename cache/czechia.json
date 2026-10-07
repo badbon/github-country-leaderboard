@@ -252,21 +252,9 @@
     "createdAt": "2026-01-28T10:57:25Z"
   },
   {
-    "login": "aieonyx",
-    "name": "Edison Lepiten",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/271106214?s=72&u=9aec06c9f7db854fe79b0cd7a438d8ecb64ad9f0&v=4",
-    "location": "Czech Republic",
-    "company": "AIEONYX ",
-    "twitterUsername": "aieonyx",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 982,
-    "createdAt": "2026-03-26T00:49:02Z"
-  },
-  {
     "login": "petershehata10",
     "name": "Peter Shehata",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262120799?s=72&u=a5bb8c3482a60c517125bc742cb4347f01868ce1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/262120799?s=72&u=1f69de49e8dcc6918217e60ab377705b2a057f1a&v=4",
     "location": "Brno , Czech Republic",
     "company": "Brno University of Technology",
     "twitterUsername": "",
@@ -282,22 +270,10 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 249,
     "createdAt": "2026-02-16T10:25:02Z"
-  },
-  {
-    "login": "jiripribyl00-coder",
-    "name": "Jiří Přibyl",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278663321?s=72&v=4",
-    "location": "Czech Republic",
-    "company": "Coinee.io",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-04-23T10:36:17Z"
   },
   {
     "login": "aaronwolf774",
@@ -320,7 +296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 127,
     "createdAt": "2026-01-22T10:03:13Z"
   },
   {
@@ -356,19 +332,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 114,
     "createdAt": "2026-04-15T20:42:35Z"
   },
   {
     "login": "AramCZdev",
     "name": "AramCZ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/272744588?s=72&u=3f72099058e09803fd6a0eacbddfc1f2b935a86d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272744588?s=72&u=ab5f40d412478744b1a83920271a8a1c1b6e7759&v=4",
     "location": "Czech Republic",
-    "company": "",
+    "company": "@PurpleController ",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 114,
+    "followers": 2,
+    "privateContributions": 68,
+    "publicContributions": 298,
     "createdAt": "2026-04-01T07:31:36Z"
   },
   {
@@ -378,9 +354,9 @@
     "location": "Javorek 54, 592 03, Czechia",
     "company": "František Kalášek",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 237,
-    "publicContributions": 151,
+    "followers": 3,
+    "privateContributions": 1,
+    "publicContributions": 169,
     "createdAt": "2026-05-02T19:52:50Z"
   },
   {
@@ -390,9 +366,9 @@
     "location": "Prague, Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 221,
-    "publicContributions": 1474,
+    "followers": 2,
+    "privateContributions": 235,
+    "publicContributions": 2286,
     "createdAt": "2026-03-07T17:54:11Z"
   },
   {
@@ -415,7 +391,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 384,
+    "privateContributions": 858,
     "publicContributions": 1,
     "createdAt": "2026-04-22T21:15:31Z"
   },
@@ -426,7 +402,7 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2026-01-09T20:27:52Z"
@@ -439,8 +415,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 47,
-    "publicContributions": 113,
+    "privateContributions": 67,
+    "publicContributions": 119,
     "createdAt": "2026-03-04T10:29:48Z"
   },
   {

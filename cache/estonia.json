@@ -474,9 +474,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 15,
     "createdAt": "2025-05-03T21:22:47Z"
   },
   {
@@ -484,11 +484,11 @@
     "name": "Kristofer Jussmann",
     "avatarUrl": "https://avatars.githubusercontent.com/u/232833119?s=72&u=97220d1cafcd77bf1fea52ede9e7fe103fc0ed04&v=4",
     "location": "Tallinn, Estonia",
-    "company": "",
+    "company": "Kaelux Labs",
     "twitterUsername": "ker102dev",
     "followers": 11,
-    "privateContributions": 1249,
-    "publicContributions": 1195,
+    "privateContributions": 1246,
+    "publicContributions": 1244,
     "createdAt": "2025-09-17T13:58:58Z"
   },
   {
@@ -498,9 +498,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 56,
-    "publicContributions": 59,
+    "followers": 9,
+    "privateContributions": 47,
+    "publicContributions": 74,
     "createdAt": "2025-08-05T10:40:37Z"
   },
   {
@@ -510,9 +510,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 225,
-    "publicContributions": 293,
+    "followers": 5,
+    "privateContributions": 316,
+    "publicContributions": 257,
     "createdAt": "2025-12-13T09:25:39Z"
   },
   {
@@ -522,9 +522,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 99,
     "createdAt": "2025-01-05T16:04:57Z"
   },
   {
@@ -536,7 +536,7 @@
     "twitterUsername": "Cogni_AI_OU",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 3201,
+    "publicContributions": 3232,
     "createdAt": "2025-10-12T21:03:19Z"
   },
   {
@@ -548,7 +548,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 223,
     "createdAt": "2025-01-29T18:55:22Z"
   },
   {
@@ -558,21 +558,21 @@
     "location": "Tallinn, Harju, Estonia",
     "company": "MagiLabs ÖÜ",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 2289,
+    "followers": 6,
+    "privateContributions": 2697,
     "publicContributions": 124,
     "createdAt": "2025-02-10T08:49:09Z"
   },
   {
     "login": "ovicide",
-    "name": "cyber kitty",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/220982845?s=72&u=c2c40e28b6e70ace540e87931a627f69788dac45&v=4",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/220982845?s=72&v=4",
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 15,
-    "publicContributions": 1,
+    "followers": 7,
+    "privateContributions": 25,
+    "publicContributions": 0,
     "createdAt": "2025-07-15T22:21:42Z"
   },
   {
@@ -582,7 +582,7 @@
     "location": "Valukoja 8/2 C corpus, 2nd floor, 11415 Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-05T03:04:20Z"
@@ -590,13 +590,13 @@
   {
     "login": "BakaYaroslav",
     "name": "Yaroslav Baka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223434567?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/223434567?s=72&u=d9522d17403c754437c08b5965f5d2d18e0dcee9&v=4",
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 205,
     "createdAt": "2025-07-29T08:08:15Z"
   },
   {
@@ -608,7 +608,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 316,
+    "publicContributions": 277,
     "createdAt": "2025-01-16T11:08:42Z"
   },
   {
@@ -618,7 +618,7 @@
     "location": "Estonia",
     "company": "@Fidesmo / @JavaCardPro ",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 147,
     "createdAt": "2025-11-15T12:49:16Z"
@@ -654,7 +654,7 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 224,
     "createdAt": "2025-11-03T07:18:50Z"
@@ -690,9 +690,9 @@
     "location": "Estonia",
     "company": "Ashforde OÜ",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 12208,
-    "publicContributions": 3013,
+    "followers": 2,
+    "privateContributions": 16387,
+    "publicContributions": 6088,
     "createdAt": "2025-10-08T12:45:20Z"
   },
   {

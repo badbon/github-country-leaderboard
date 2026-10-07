@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 129,
     "createdAt": "2023-09-04T04:41:13Z"
   },
   {
@@ -510,7 +510,7 @@
     "location": "0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji",
     "company": "University of California",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-29T03:14:13Z"
@@ -552,18 +552,6 @@
     "createdAt": "2023-03-05T15:03:50Z"
   },
   {
-    "login": "Diablos679",
-    "name": "Inoke Tuco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134177575?s=72&u=2dd822545061dde80027a168921f09d3c1681107&v=4",
-    "location": "Laucala Bay, Suva City, Fiji Island",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2023-05-21T00:19:53Z"
-  },
-  {
     "login": "SaljaCosta",
     "name": "Salja Costa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/141431449?s=72&u=1520f278a149fddd91e046434eccd5b1e1d3cebd&v=4",
@@ -584,7 +572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 0,
     "createdAt": "2023-07-28T15:39:52Z"
   },
   {
@@ -632,7 +620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-03-28T09:58:59Z"
   },
   {
@@ -649,12 +637,12 @@
   },
   {
     "login": "m055996",
-    "name": "Raj",
+    "name": "araj55996",
     "avatarUrl": "https://avatars.githubusercontent.com/u/130617396?s=72&u=4d0f1842f7b2b13d2f98adea6d7ddeba2a6d08ad&v=4",
     "location": "Suva, Fiji",
     "company": "Mindpearl",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-13T00:13:55Z"
@@ -666,9 +654,9 @@
     "location": "Fiji",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
+    "followers": 34,
     "privateContributions": 32,
-    "publicContributions": 23,
+    "publicContributions": 4,
     "createdAt": "2022-09-01T08:40:50Z"
   },
   {
@@ -678,7 +666,7 @@
     "location": "Nadi, Fiji",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-29T10:54:01Z"
@@ -690,7 +678,7 @@
     "location": "FIJI",
     "company": "molombitoh1ck3r",
     "twitterUsername": "molombitoh1ck3r",
-    "followers": 11,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-26T00:48:30Z"

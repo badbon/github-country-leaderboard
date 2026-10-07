@@ -260,7 +260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 40,
     "createdAt": "2026-03-05T14:31:25Z"
   },
   {
@@ -272,7 +272,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2026-04-02T14:47:35Z"
   },
   {
@@ -296,7 +296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 59,
     "createdAt": "2026-01-08T18:06:46Z"
   },
   {
@@ -324,27 +324,15 @@
     "createdAt": "2026-05-02T22:55:43Z"
   },
   {
-    "login": "Alsalehi4422",
-    "name": "Mohammed Alsalehi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281748415?s=72&v=4",
-    "location": "Yemen",
-    "company": "Student",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2026-05-04T19:53:35Z"
-  },
-  {
     "login": "qazxswedc7144-boop",
     "name": "Life Partner",
     "avatarUrl": "https://avatars.githubusercontent.com/u/252188951?s=72&v=4",
     "location": "Yemen",
     "company": "لا يوجد ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 236,
     "createdAt": "2025-12-30T14:00:57Z"
   },
   {
@@ -380,7 +368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1058,
+    "publicContributions": 7036,
     "createdAt": "2026-04-14T21:34:23Z"
   },
   {
@@ -390,9 +378,9 @@
     "location": "Yemen",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 138,
     "createdAt": "2026-03-11T00:41:48Z"
   },
   {
@@ -402,9 +390,9 @@
     "location": "Sana'a",
     "company": "University of Science & Technology",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 27,
     "createdAt": "2026-04-26T17:44:47Z"
   },
   {
@@ -414,9 +402,9 @@
     "location": "Sana'a",
     "company": "Yemen",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 79,
     "createdAt": "2026-04-11T00:38:13Z"
   },
   {
@@ -440,7 +428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 7,
     "createdAt": "2025-09-21T14:55:03Z"
   },
   {
@@ -450,9 +438,9 @@
     "location": "Yemen,-Sanaa",
     "company": "",
     "twitterUsername": "",
-    "followers": 60,
+    "followers": 63,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 62,
     "createdAt": "2025-07-17T23:57:17Z"
   },
   {
@@ -462,9 +450,9 @@
     "location": "Yemen",
     "company": "",
     "twitterUsername": "ahmedsalah_tech",
-    "followers": 42,
-    "privateContributions": 31,
-    "publicContributions": 223,
+    "followers": 50,
+    "privateContributions": 124,
+    "publicContributions": 256,
     "createdAt": "2025-07-05T15:49:31Z"
   },
   {

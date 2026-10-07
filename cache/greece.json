@@ -476,7 +476,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 4,
     "createdAt": "2026-02-28T11:29:03Z"
   },
   {
@@ -486,7 +486,7 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 68,
     "createdAt": "2026-04-04T21:15:14Z"
@@ -499,7 +499,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 645,
+    "privateContributions": 238,
     "publicContributions": 3,
     "createdAt": "2026-02-03T07:42:38Z"
   },
@@ -526,18 +526,6 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2026-01-30T19:21:01Z"
-  },
-  {
-    "login": "flame-group",
-    "name": "FLAME Fire Meteorology Group",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269662849?s=72&u=1cd95915454668a185af4a817c85456576678c56&v=4",
-    "location": "Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-20T07:12:31Z"
   },
   {
     "login": "androniki900-dev",
@@ -595,7 +583,7 @@
     "company": "University of Thessaly",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 45,
+    "privateContributions": 53,
     "publicContributions": 186,
     "createdAt": "2025-12-28T15:11:54Z"
   },
@@ -644,7 +632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 100,
     "createdAt": "2026-04-09T15:46:29Z"
   },
   {
@@ -668,7 +656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 176,
     "createdAt": "2026-03-23T11:15:16Z"
   },
   {
@@ -691,8 +679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 21,
-    "publicContributions": 132,
+    "privateContributions": 12,
+    "publicContributions": 163,
     "createdAt": "2026-04-03T08:11:12Z"
   },
   {

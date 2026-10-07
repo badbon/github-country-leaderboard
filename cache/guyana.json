@@ -499,8 +499,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1817,
-    "publicContributions": 47,
+    "privateContributions": 2122,
+    "publicContributions": 87,
     "createdAt": "2020-12-19T13:47:05Z"
   },
   {
@@ -512,7 +512,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-02-23T05:37:23Z"
   },
   {
@@ -536,7 +536,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 62,
     "createdAt": "2020-02-05T03:07:28Z"
   },
   {
@@ -612,18 +612,6 @@
     "createdAt": "2019-06-15T22:51:31Z"
   },
   {
-    "login": "joelquintyn",
-    "name": "Joel Quintyn",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48963062?s=72&u=1da2876624347126d7b95ed5cb1ef41f1883d3d9&v=4",
-    "location": "Georgetown, Guyana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 567,
-    "publicContributions": 1,
-    "createdAt": "2019-03-26T18:14:51Z"
-  },
-  {
     "login": "Sapna9112",
     "name": "Sapna Sharma",
     "avatarUrl": "https://avatars.githubusercontent.com/u/48287363?s=72&u=1416f00fc465377d1db4d00d27fd12b228086f8b&v=4",
@@ -692,7 +680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 24,
     "createdAt": "2019-09-26T00:14:19Z"
   },
   {
@@ -703,7 +691,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 317,
+    "privateContributions": 181,
     "publicContributions": 2,
     "createdAt": "2019-01-14T18:38:06Z"
   },
@@ -714,7 +702,7 @@
     "location": "Georgetown, Penang",
     "company": "Skymind",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-12-06T04:05:32Z"

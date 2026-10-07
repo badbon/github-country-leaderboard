@@ -536,7 +536,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 66,
     "createdAt": "2026-01-14T15:33:14Z"
   },
   {
@@ -548,7 +548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 109,
     "createdAt": "2026-03-30T11:14:18Z"
   },
   {
@@ -558,7 +558,7 @@
     "location": "Ethiopia",
     "company": "https://github.com/nesrumichael-bit",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2026-02-28T22:50:56Z"
@@ -570,7 +570,7 @@
     "location": "Ethiopia ,ADDIS ABEBE",
     "company": "ShashogoSWIDS",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 47,
     "createdAt": "2026-04-17T20:30:59Z"
@@ -583,8 +583,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 46,
-    "publicContributions": 216,
+    "privateContributions": 373,
+    "publicContributions": 207,
     "createdAt": "2026-02-06T11:46:16Z"
   },
   {
@@ -601,27 +601,15 @@
   },
   {
     "login": "maru-gizatie",
-    "name": "maru Gizatie",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/260041000?s=72&u=017737b924a0562e6db65dbc7b3a5a4c4f59ddfc&v=4",
+    "name": "Maru Gizatie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/260041000?s=72&u=2b2e0c87ccfa8604e68c06d7f2abf2f48d1c6253&v=4",
     "location": "Bahirdar, Ethiopia ",
-    "company": "Bahirdar institute of technology (BIT)",
+    "company": "Bahir Dar University",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-02-07T10:05:50Z"
-  },
-  {
-    "login": "azariyadigital",
-    "name": "𝐀𝐳𝐚𝐫𝐢𝐲𝐚",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/260219088?s=72&u=e920b2dfd3ebd0012f4436590a0471e2a6eca635&v=4",
-    "location": "Ethiopia, AddisAbaba",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 123,
-    "createdAt": "2026-02-08T11:30:59Z"
   },
   {
     "login": "YohanaHiruy",
@@ -632,7 +620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 84,
     "createdAt": "2026-02-17T18:01:09Z"
   },
   {
@@ -656,7 +644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 189,
+    "publicContributions": 162,
     "createdAt": "2026-01-22T18:35:58Z"
   },
   {

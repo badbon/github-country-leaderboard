@@ -224,7 +224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 27,
     "createdAt": "2026-04-18T14:53:16Z"
   },
   {
@@ -248,7 +248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 11,
     "createdAt": "2026-05-12T15:11:54Z"
   },
   {
@@ -306,7 +306,7 @@
     "location": "Tanzania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 214,
     "createdAt": "2025-12-30T14:41:27Z"
@@ -314,13 +314,13 @@
   {
     "login": "laphilemon",
     "name": "Lazaro A. Philemon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255079611?s=72&u=9c3ea194749335d1c91e4d447de3141cbd35650d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/255079611?s=72&u=e391015ffca7b507e3af6d180d96e4fc46f78ac4&v=4",
     "location": "Dar es Salaam, Tanzania",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 34,
-    "publicContributions": 39,
+    "privateContributions": 401,
+    "publicContributions": 28,
     "createdAt": "2026-01-15T08:35:24Z"
   },
   {
@@ -342,7 +342,7 @@
     "location": "Dar es Salaam, Tanzania",
     "company": "phem.com",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 35,
     "createdAt": "2026-05-12T11:10:10Z"
@@ -391,8 +391,8 @@
     "company": "Vortan.io",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
-    "publicContributions": 262,
+    "privateContributions": 365,
+    "publicContributions": 870,
     "createdAt": "2026-02-10T05:27:41Z"
   },
   {
@@ -420,27 +420,15 @@
     "createdAt": "2026-03-31T16:18:54Z"
   },
   {
-    "login": "nassir1234nassir9-svg",
-    "name": "NASSIR NASSIR",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282831626?s=72&v=4",
-    "location": "DODOMA",
-    "company": "NASSIR",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-05-08T08:16:34Z"
-  },
-  {
     "login": "eDDie-05",
     "name": "eDDie",
     "avatarUrl": "https://avatars.githubusercontent.com/u/204170289?s=72&u=88f9bc4fee7f36a3648dbf0dff9d02804b91ff83&v=4",
     "location": "Tanzania ",
     "company": "",
     "twitterUsername": "am__eDDie",
-    "followers": 42,
+    "followers": 57,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 172,
     "createdAt": "2025-03-20T09:43:56Z"
   },
   {
@@ -450,9 +438,9 @@
     "location": "Tanzania",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 6159,
-    "publicContributions": 10650,
+    "followers": 28,
+    "privateContributions": 6582,
+    "publicContributions": 11083,
     "createdAt": "2025-02-24T13:51:22Z"
   },
   {

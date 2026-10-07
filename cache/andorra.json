@@ -486,9 +486,9 @@
     "location": "Andorra",
     "company": "",
     "twitterUsername": "",
-    "followers": 103,
-    "privateContributions": 482,
-    "publicContributions": 5,
+    "followers": 28,
+    "privateContributions": 536,
+    "publicContributions": 12,
     "createdAt": "2021-03-12T18:55:05Z"
   },
   {
@@ -498,9 +498,9 @@
     "location": "Barcelona (Spain) | Encamp (Andorra)",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 4232,
-    "publicContributions": 6,
+    "followers": 44,
+    "privateContributions": 5056,
+    "publicContributions": 5,
     "createdAt": "2021-01-17T18:17:57Z"
   },
   {
@@ -510,9 +510,9 @@
     "location": "Andorra",
     "company": "@darquantlabs ",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 27,
     "createdAt": "2021-11-30T21:44:12Z"
   },
   {
@@ -535,7 +535,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 120,
+    "privateContributions": 102,
     "publicContributions": 0,
     "createdAt": "2021-06-08T01:30:09Z"
   },
@@ -547,8 +547,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1389,
-    "publicContributions": 48,
+    "privateContributions": 1510,
+    "publicContributions": 39,
     "createdAt": "2021-04-14T13:34:44Z"
   },
   {
@@ -594,7 +594,7 @@
     "location": "Andorra",
     "company": "Freemindtronic SL",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-17T11:24:37Z"
@@ -606,8 +606,8 @@
     "location": "Andorra",
     "company": "Carlos III Madrid - RWTH Aachen University ",
     "twitterUsername": "0xjmaria",
-    "followers": 115,
-    "privateContributions": 142,
+    "followers": 119,
+    "privateContributions": 134,
     "publicContributions": 3,
     "createdAt": "2020-11-23T00:34:42Z"
   },
@@ -624,27 +624,15 @@
     "createdAt": "2020-02-17T15:34:01Z"
   },
   {
-    "login": "david-miralles",
-    "name": "David Miralles",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76420616?s=72&u=927595da1d2020bd3c2fe3bec42a03dcbcf3e078&v=4",
-    "location": "Andorra",
-    "company": "@dualimind ",
-    "twitterUsername": "davidmiralles",
-    "followers": 4,
-    "privateContributions": 67,
-    "publicContributions": 1,
-    "createdAt": "2020-12-21T05:37:57Z"
-  },
-  {
     "login": "Andormix",
     "name": "Eric Torrontera Ruiz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71731996?s=72&u=0656951a5d558cb0cb4fddd33833ecc9fb2b26bc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71731996?s=72&u=704fb752ae48fbf109cfcfd6cfb02d019976739b&v=4",
     "location": "Andorra",
-    "company": "",
+    "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 165,
-    "publicContributions": 0,
+    "followers": 28,
+    "privateContributions": 204,
+    "publicContributions": 132,
     "createdAt": "2020-09-22T20:31:28Z"
   },
   {
@@ -656,7 +644,7 @@
     "twitterUsername": "antonicarol1",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2020-06-07T22:02:02Z"
   },
   {

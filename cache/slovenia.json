@@ -236,7 +236,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 1,
     "createdAt": "2025-12-06T11:21:25Z"
   },
   {
@@ -248,7 +248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 9,
     "createdAt": "2025-07-28T16:46:07Z"
   },
   {
@@ -301,14 +301,14 @@
   },
   {
     "login": "patrik641",
-    "name": "",
+    "name": "Patrik Beltram",
     "avatarUrl": "https://avatars.githubusercontent.com/u/248135961?s=72&u=c2a4ce92dd5bc0310251d97bbece57d47a1fe560&v=4",
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 43,
     "createdAt": "2025-12-06T09:09:31Z"
   },
   {
@@ -332,7 +332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 253,
+    "publicContributions": 259,
     "createdAt": "2025-05-06T13:28:46Z"
   },
   {
@@ -343,8 +343,8 @@
     "company": "MatejGomboc",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 101,
-    "publicContributions": 962,
+    "privateContributions": 43,
+    "publicContributions": 959,
     "createdAt": "2025-02-27T17:51:01Z"
   },
   {
@@ -354,9 +354,9 @@
     "location": "Slovenia",
     "company": "lowmentaldamage",
     "twitterUsername": "lowmentaldamage",
-    "followers": 1,
-    "privateContributions": 661,
-    "publicContributions": 2,
+    "followers": 2,
+    "privateContributions": 798,
+    "publicContributions": 0,
     "createdAt": "2025-04-03T15:45:36Z"
   },
   {
@@ -420,18 +420,6 @@
     "createdAt": "2025-06-25T08:12:05Z"
   },
   {
-    "login": "EndaDwagon",
-    "name": "Enda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193793256?s=72&u=d3a9ec0be486de3b2f97496273d5df419630278e&v=4",
-    "location": "Ljubljana, Slovenija",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 0,
-    "publicContributions": 56,
-    "createdAt": "2025-01-05T12:06:27Z"
-  },
-  {
     "login": "hisoftjuniordev",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/194217370?s=72&u=8bd1fa5ae6349b066fe3873eaa4cc80cf9fb4478&v=4",
@@ -440,19 +428,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 13,
     "createdAt": "2025-01-08T09:09:00Z"
   },
   {
     "login": "sharky-3",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231536242?s=72&u=f6905f0fc380361f02ce84fba9b9985024f58e4f&v=4",
+    "name": "Kolarič Blaž",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231536242?s=72&u=1058c0bc64db3bce733f747e20810c785ef0ad5a&v=4",
     "location": "Slovenija / Ljubljana",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 641,
-    "publicContributions": 165,
+    "privateContributions": 371,
+    "publicContributions": 462,
     "createdAt": "2025-09-10T17:17:31Z"
   },
   {

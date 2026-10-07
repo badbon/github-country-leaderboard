@@ -462,7 +462,7 @@
     "location": "Greenland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-04-12T21:22:47Z"
@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 45,
     "createdAt": "2015-10-06T10:34:28Z"
   },
   {
@@ -500,7 +500,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2015-07-08T09:36:26Z"
   },
   {
@@ -511,8 +511,8 @@
     "company": "Ejstrud Consulting",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1765,
-    "publicContributions": 273,
+    "privateContributions": 1583,
+    "publicContributions": 270,
     "createdAt": "2015-04-17T10:02:50Z"
   },
   {
@@ -560,7 +560,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 22,
     "createdAt": "2014-12-02T01:46:50Z"
   },
   {
@@ -572,7 +572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 10,
     "createdAt": "2014-11-18T12:47:50Z"
   },
   {
@@ -594,9 +594,9 @@
     "location": "Greenland",
     "company": "Naxela.info",
     "twitterUsername": "",
-    "followers": 57,
+    "followers": 58,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 66,
     "createdAt": "2013-09-10T18:42:08Z"
   },
   {
@@ -607,8 +607,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 7,
-    "publicContributions": 7,
+    "privateContributions": 21,
+    "publicContributions": 14,
     "createdAt": "2013-02-21T13:34:10Z"
   },
   {
@@ -616,11 +616,11 @@
     "name": "Vittus Mikiassen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5124260?s=72&u=804acfddde1e89bc1d96fa17cc09eb428077b124&v=4",
     "location": "Greenland",
-    "company": "University of Greenland",
+    "company": "Greenland Business School",
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 228,
+    "publicContributions": 237,
     "createdAt": "2013-07-30T20:41:06Z"
   },
   {
@@ -642,9 +642,9 @@
     "location": "Greenland",
     "company": "Garbagecode Inc",
     "twitterUsername": "jiiksi",
-    "followers": 292,
+    "followers": 291,
     "privateContributions": 3,
-    "publicContributions": 28,
+    "publicContributions": 13,
     "createdAt": "2012-02-24T15:48:00Z"
   },
   {
@@ -654,7 +654,7 @@
     "location": "Kalaallit Nunaat (Greenland)",
     "company": "Code Bureau ApS",
     "twitterUsername": "pierreminik",
-    "followers": 19,
+    "followers": 23,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-02-12T16:58:04Z"
@@ -667,7 +667,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 14,
+    "privateContributions": 25,
     "publicContributions": 0,
     "createdAt": "2011-11-01T19:37:52Z"
   },
@@ -688,11 +688,11 @@
     "name": "Sean P. Goggins",
     "avatarUrl": "https://avatars.githubusercontent.com/u/379847?s=72&u=c10d7486b40ff6e09d5017e45532c290ee71d4dd&v=4",
     "location": "Greenland",
-    "company": "University of Missouri & Linux Foundation CHAOSS Project",
+    "company": "University of Missouri, Aveloxis Foundation",
     "twitterUsername": "sociallycompute",
-    "followers": 200,
-    "privateContributions": 1813,
-    "publicContributions": 1615,
+    "followers": 202,
+    "privateContributions": 1926,
+    "publicContributions": 1937,
     "createdAt": "2010-08-29T16:25:48Z"
   },
   {

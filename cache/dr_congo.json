@@ -468,18 +468,6 @@
     "createdAt": "2026-04-12T19:56:13Z"
   },
   {
-    "login": "jobiyax",
-    "name": "System32",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266572905?s=72&u=deca743217e12d3a316cfcf16aad8e8cf24ed83c&v=4",
-    "location": "RDC / Kinshasa",
-    "company": "Team MKDIR",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 158,
-    "publicContributions": 188,
-    "createdAt": "2026-03-08T21:26:16Z"
-  },
-  {
     "login": "emmanuelbagin-eng",
     "name": "Emmanuel BAGI",
     "avatarUrl": "https://avatars.githubusercontent.com/u/274473363?s=72&u=8d268748e894658d73409cc7e36436a2fd3352df&v=4",
@@ -504,27 +492,15 @@
     "createdAt": "2026-03-26T08:25:57Z"
   },
   {
-    "login": "ub-victor",
-    "name": "USHINDI BIHAME Victoire",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157381633?s=72&u=f07c468a3abcc4b0fa9b4dd9514debdb70ba4cd4&v=4",
-    "location": "Kigali, Rwanda, DR Congo ",
-    "company": "Freelance | Open Source Kigali",
-    "twitterUsername": "victoire371",
-    "followers": 31,
-    "privateContributions": 376,
-    "publicContributions": 6858,
-    "createdAt": "2024-01-22T13:41:16Z"
-  },
-  {
     "login": "crack17o",
     "name": "Joël Stone",
     "avatarUrl": "https://avatars.githubusercontent.com/u/191474062?s=72&u=8384a96240a533a0b9efece2a4666be4560a3a08&v=4",
     "location": "Kinshasa, Democratic Republic of Congo",
     "company": "@ATE-I-NE",
     "twitterUsername": "JoelLumpungu",
-    "followers": 18,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 112,
     "createdAt": "2024-12-12T12:23:39Z"
   },
   {
@@ -534,9 +510,9 @@
     "location": "DR Congo, Lubumbashi",
     "company": "",
     "twitterUsername": "andr6102",
-    "followers": 17,
-    "privateContributions": 1523,
-    "publicContributions": 241,
+    "followers": 20,
+    "privateContributions": 1655,
+    "publicContributions": 175,
     "createdAt": "2024-09-04T09:36:56Z"
   },
   {
@@ -547,8 +523,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 23,
-    "publicContributions": 1143,
+    "privateContributions": 3,
+    "publicContributions": 1082,
     "createdAt": "2024-06-20T13:13:06Z"
   },
   {
@@ -558,7 +534,7 @@
     "location": "Goma, Democratic Republic of Congo",
     "company": "EagleTraceLine",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2024-03-21T14:22:28Z"
@@ -583,8 +559,8 @@
     "company": "@Mkulima-chain ",
     "twitterUsername": "Kadidbofficiel",
     "followers": 4,
-    "privateContributions": 561,
-    "publicContributions": 125,
+    "privateContributions": 747,
+    "publicContributions": 126,
     "createdAt": "2024-11-18T10:42:21Z"
   },
   {
@@ -596,7 +572,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 433,
+    "publicContributions": 477,
     "createdAt": "2024-02-07T10:59:15Z"
   },
   {
@@ -608,7 +584,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 309,
+    "publicContributions": 297,
     "createdAt": "2024-12-19T19:04:17Z"
   },
   {
@@ -620,7 +596,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 136,
     "createdAt": "2024-05-16T03:11:59Z"
   },
   {
@@ -630,9 +606,9 @@
     "location": "Congo DR, Kinshasa",
     "company": "Mayisha Developement Community",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 49,
     "createdAt": "2024-09-02T08:40:36Z"
   },
   {
@@ -642,9 +618,9 @@
     "location": "KINSHASA / RD CONGO",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 373,
-    "publicContributions": 531,
+    "followers": 5,
+    "privateContributions": 407,
+    "publicContributions": 839,
     "createdAt": "2024-06-06T14:33:48Z"
   },
   {
@@ -655,8 +631,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 976,
-    "publicContributions": 162,
+    "privateContributions": 1660,
+    "publicContributions": 83,
     "createdAt": "2024-04-17T13:35:55Z"
   },
   {
@@ -668,7 +644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 245,
+    "publicContributions": 223,
     "createdAt": "2024-03-24T18:07:48Z"
   },
   {
@@ -680,19 +656,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 113,
     "createdAt": "2024-05-02T17:21:29Z"
   },
   {
     "login": "cerveau-bleu",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175652872?s=72&v=4",
+    "name": "Jason MUKOMBELA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175652872?s=72&u=e65dff7d29f1943554642ce72ec01c2314fa34ef&v=4",
     "location": "Democratic Republic of Congo ",
-    "company": "yekola skils",
+    "company": "BlueBrain Engineering",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 15,
     "createdAt": "2024-07-15T20:33:11Z"
   },
   {

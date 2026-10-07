@@ -486,9 +486,9 @@
     "location": "French Polynesia",
     "company": "natimai.solutions",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2384,
-    "publicContributions": 82,
+    "followers": 2,
+    "privateContributions": 2866,
+    "publicContributions": 246,
     "createdAt": "2015-04-02T09:05:01Z"
   },
   {
@@ -500,7 +500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 12,
     "createdAt": "2015-05-04T19:34:32Z"
   },
   {
@@ -522,7 +522,7 @@
     "location": "French Polynesia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-09-19T14:54:21Z"
@@ -536,7 +536,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2013-12-30T19:00:40Z"
   },
   {
@@ -558,9 +558,9 @@
     "location": "Papeete, French Polynesia",
     "company": "",
     "twitterUsername": "",
-    "followers": 115,
+    "followers": 114,
     "privateContributions": 0,
-    "publicContributions": 294,
+    "publicContributions": 362,
     "createdAt": "2013-10-23T08:17:36Z"
   },
   {
@@ -583,8 +583,8 @@
     "company": "Automattic",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 285,
-    "publicContributions": 15,
+    "privateContributions": 41,
+    "publicContributions": 2,
     "createdAt": "2013-06-11T07:44:29Z"
   },
   {
@@ -595,8 +595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 440,
-    "publicContributions": 363,
+    "privateContributions": 2787,
+    "publicContributions": 336,
     "createdAt": "2013-09-22T20:06:51Z"
   },
   {
@@ -608,7 +608,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 432,
+    "publicContributions": 427,
     "createdAt": "2013-05-31T16:33:23Z"
   },
   {
@@ -619,8 +619,8 @@
     "company": "SIGMA POLYNESIA",
     "twitterUsername": "jalik26",
     "followers": 27,
-    "privateContributions": 471,
-    "publicContributions": 202,
+    "privateContributions": 468,
+    "publicContributions": 231,
     "createdAt": "2012-07-10T08:40:06Z"
   },
   {
@@ -631,8 +631,8 @@
     "company": "@e-reo",
     "twitterUsername": "paraita",
     "followers": 23,
-    "privateContributions": 227,
-    "publicContributions": 39,
+    "privateContributions": 230,
+    "publicContributions": 40,
     "createdAt": "2012-02-06T20:01:29Z"
   },
   {
@@ -654,9 +654,9 @@
     "location": "French Polynesia",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 7,
     "createdAt": "2011-11-24T12:55:22Z"
   },
   {
@@ -667,8 +667,8 @@
     "company": "",
     "twitterUsername": "adriencanterot",
     "followers": 27,
-    "privateContributions": 301,
-    "publicContributions": 2,
+    "privateContributions": 300,
+    "publicContributions": 0,
     "createdAt": "2010-10-13T09:54:47Z"
   },
   {
@@ -679,8 +679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 2041,
-    "publicContributions": 626,
+    "privateContributions": 2390,
+    "publicContributions": 427,
     "createdAt": "2010-05-18T05:45:54Z"
   },
   {
@@ -702,8 +702,8 @@
     "location": "Tahiti, French Polynesia",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 18,
+    "followers": 9,
+    "privateContributions": 15,
     "publicContributions": 3,
     "createdAt": "2010-06-23T08:05:22Z"
   },
@@ -714,9 +714,9 @@
     "location": "Faa'a, Tahiti, French Polynesia",
     "company": "@FreeBSD @opus-codium @voxpupuli",
     "twitterUsername": "",
-    "followers": 164,
+    "followers": 166,
     "privateContributions": 0,
-    "publicContributions": 1320,
+    "publicContributions": 1055,
     "createdAt": "2009-11-04T10:49:06Z"
   }
 ]

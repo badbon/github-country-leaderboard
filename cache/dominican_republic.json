@@ -476,7 +476,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 78,
     "createdAt": "2025-06-25T18:56:13Z"
   },
   {
@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-09-05T21:26:34Z"
   },
   {
@@ -498,9 +498,9 @@
     "location": "Santo Domingo, Dominican Republic",
     "company": "Independent Developer",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 150,
+    "publicContributions": 158,
     "createdAt": "2025-02-21T15:49:30Z"
   },
   {
@@ -516,27 +516,15 @@
     "createdAt": "2025-07-17T17:59:09Z"
   },
   {
-    "login": "Frankelly-23",
-    "name": "Frankelly Cordero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231161752?s=72&u=fd05887d4f9b01a227edf4de53da92131e8199bd&v=4",
-    "location": "Dominican Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 61,
-    "createdAt": "2025-09-09T04:10:44Z"
-  },
-  {
     "login": "JMJ0331",
     "name": "Jose M. Jimenez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/230471864?s=72&u=d549ac16f54d7bb3b12f14add2812cc0563b7ff1&v=4",
     "location": "Santiago de los Caballeros, Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 178,
     "createdAt": "2025-09-05T00:53:04Z"
   },
   {
@@ -560,7 +548,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 192,
     "createdAt": "2025-04-29T17:38:12Z"
   },
   {
@@ -570,7 +558,7 @@
     "location": "Dominican Republic",
     "company": "Castle Trade LLC",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 21,
     "publicContributions": 72,
     "createdAt": "2025-01-16T21:59:39Z"
@@ -584,20 +572,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-19T19:11:43Z"
-  },
-  {
-    "login": "JacksonMateo4real",
-    "name": "Jackson Mateo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196944766?s=72&u=d729d0a12ad31187e2aec7641970413c56862e75&v=4",
-    "location": "Santo Domingo, Dominican Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2025-01-29T13:23:33Z"
   },
   {
     "login": "ebrahim-android",
@@ -608,7 +584,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 1,
-    "publicContributions": 283,
+    "publicContributions": 269,
     "createdAt": "2025-02-27T14:07:48Z"
   },
   {
@@ -620,19 +596,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 83,
     "createdAt": "2025-01-29T00:28:21Z"
   },
   {
     "login": "kefeliz",
     "name": "Kevin Feliz ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/227428866?s=72&u=979d8bdca28144e47b7ac3808955f3aae50d1b29&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227428866?s=72&u=58f35d86ea6993e59c11f9c78d727313efe411ca&v=4",
     "location": "Dominican Republic",
     "company": "Thryv",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 0,
     "createdAt": "2025-08-19T15:51:44Z"
   },
   {
@@ -644,7 +620,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 146,
     "createdAt": "2025-04-08T17:04:21Z"
   },
   {
@@ -666,9 +642,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 258,
+    "publicContributions": 286,
     "createdAt": "2025-01-17T18:05:43Z"
   },
   {
@@ -684,27 +660,15 @@
     "createdAt": "2025-07-03T16:47:42Z"
   },
   {
-    "login": "DarieC18",
-    "name": "Dariel Capellan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196266290?s=72&u=73cddb4f843c5613a55803beb7261a149a4f8258&v=4",
-    "location": "Dominican Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 6,
-    "publicContributions": 101,
-    "createdAt": "2025-01-24T01:13:39Z"
-  },
-  {
     "login": "soulcore-dev",
     "name": "Soul core dev team",
     "avatarUrl": "https://avatars.githubusercontent.com/u/213197003?s=72&v=4",
     "location": "Dominican Republic",
     "company": "SOUL CORE",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 44,
     "createdAt": "2025-05-24T13:35:08Z"
   },
   {

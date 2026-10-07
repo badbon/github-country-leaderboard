@@ -236,7 +236,7 @@
     "twitterUsername": "ky2renzzz",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 131,
     "createdAt": "2026-02-15T20:36:47Z"
   },
   {
@@ -282,9 +282,9 @@
     "location": "Finland ",
     "company": "Klar",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 137,
     "createdAt": "2026-01-24T12:27:23Z"
   },
   {
@@ -296,7 +296,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 12,
     "createdAt": "2026-01-09T10:08:17Z"
   },
   {
@@ -306,7 +306,7 @@
     "location": "Finland",
     "company": "Artzmen Creative",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-13T15:52:24Z"
@@ -320,7 +320,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 17,
     "createdAt": "2026-01-31T20:21:53Z"
   },
   {
@@ -350,7 +350,7 @@
   {
     "login": "Nolgra",
     "name": "Nolgra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266155439?s=72&u=3e38740cf048ea85142fb8713d4e9091f803c93d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266155439?s=72&u=8dba6834445cd71c41335eb0c2ce18ead03509f8&v=4",
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
@@ -367,20 +367,20 @@
     "company": "OrangIT",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 164,
+    "privateContributions": 413,
     "publicContributions": 10,
     "createdAt": "2026-04-27T12:55:32Z"
   },
   {
     "login": "petudesign",
     "name": "petu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281383731?s=72&u=0fc93cac7f4298801d59ff9871892e5000e56662&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281383731?s=72&u=af5ee1d05812f2c625603be116e80104ad816c54&v=4",
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 244,
     "createdAt": "2026-05-03T13:07:44Z"
   },
   {
@@ -433,14 +433,14 @@
   },
   {
     "login": "KoukkuAi",
-    "name": "JohnTammiKoukkuAi",
+    "name": "John Tammi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/278414361?s=72&u=aee95f50e38b4465daaf364ae7acab0d16ccd003&v=4",
-    "location": "FInland",
-    "company": "koukku.ai",
-    "twitterUsername": "JohnTammiAnalyz",
-    "followers": 1,
-    "privateContributions": 1694,
-    "publicContributions": 9,
+    "location": "Finland",
+    "company": "Koukku.ai",
+    "twitterUsername": "JohnTammiKoukku",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 16,
     "createdAt": "2026-04-22T13:45:03Z"
   },
   {

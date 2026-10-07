@@ -500,7 +500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-20T08:30:37Z"
   },
   {
@@ -514,18 +514,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-06-06T11:01:00Z"
-  },
-  {
-    "login": "wolfenazz",
-    "name": "Naseem ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/239366518?s=72&u=19e7a1c941664290485f5b7f871b6a7ac84901c3&v=4",
-    "location": "bahrain",
-    "company": "geodev",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 171,
-    "createdAt": "2025-10-21T13:41:54Z"
   },
   {
     "login": "Carlton-Real-Estate",
@@ -582,9 +570,9 @@
     "location": "Bahrain",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 19,
+    "followers": 2,
+    "privateContributions": 481,
+    "publicContributions": 30,
     "createdAt": "2025-04-26T05:28:42Z"
   },
   {
@@ -606,9 +594,9 @@
     "location": "Bahrain",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 22,
     "createdAt": "2025-04-14T16:47:43Z"
   },
   {
@@ -632,7 +620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 19,
     "createdAt": "2025-05-11T07:07:57Z"
   },
   {
@@ -644,7 +632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 141,
     "createdAt": "2025-09-30T16:03:58Z"
   },
   {
@@ -655,8 +643,8 @@
     "company": "University of Technology Bahrain ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 35,
-    "publicContributions": 136,
+    "privateContributions": 38,
+    "publicContributions": 137,
     "createdAt": "2025-10-05T13:59:09Z"
   },
   {
@@ -668,7 +656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 345,
     "createdAt": "2025-03-11T11:49:56Z"
   },
   {
@@ -680,7 +668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2025-07-30T09:43:49Z"
   },
   {
@@ -704,7 +692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 481,
+    "publicContributions": 258,
     "createdAt": "2025-01-14T16:21:45Z"
   },
   {
@@ -716,7 +704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 19,
     "createdAt": "2025-09-14T08:24:50Z"
   },
   {

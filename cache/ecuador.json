@@ -468,27 +468,15 @@
     "createdAt": "2025-01-05T05:05:36Z"
   },
   {
-    "login": "LeonardoLopez85",
-    "name": "Leonardo López Martínez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/235619766?s=72&u=2914d0f82eb3703c81fe1e0adb332f4e98beffb1&v=4",
-    "location": "Ecuador",
-    "company": "TERACOM",
-    "twitterUsername": "LeonardLopez85",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 74,
-    "createdAt": "2025-10-02T02:18:28Z"
-  },
-  {
     "login": "Chavsi",
     "name": "Mijael Mardonez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/194211148?s=72&u=bd22d4f6eac80fd1e9510c252f3fbadfa421c57f&v=4",
     "location": "Ecuador",
     "company": "CompuMas",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 38,
     "createdAt": "2025-01-08T08:12:37Z"
   },
   {
@@ -500,7 +488,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 208,
     "createdAt": "2025-08-23T04:44:01Z"
   },
   {
@@ -510,9 +498,9 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 21,
     "createdAt": "2025-06-13T03:57:55Z"
   },
   {
@@ -524,7 +512,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 116,
     "createdAt": "2025-03-13T22:20:56Z"
   },
   {
@@ -535,8 +523,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 330,
-    "publicContributions": 364,
+    "privateContributions": 360,
+    "publicContributions": 453,
     "createdAt": "2025-02-06T01:10:23Z"
   },
   {
@@ -548,7 +536,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 294,
+    "publicContributions": 295,
     "createdAt": "2025-08-19T00:09:12Z"
   },
   {
@@ -560,7 +548,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 211,
     "createdAt": "2025-07-22T02:50:26Z"
   },
   {
@@ -572,7 +560,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 62,
     "createdAt": "2025-09-28T01:06:41Z"
   },
   {
@@ -582,9 +570,9 @@
     "location": "Manta, Ecuador",
     "company": "Universidad Laica Eloy Alfaro de Manabí",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 340,
+    "publicContributions": 395,
     "createdAt": "2025-07-29T23:49:52Z"
   },
   {
@@ -594,9 +582,9 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 195,
+    "publicContributions": 208,
     "createdAt": "2025-06-24T15:13:46Z"
   },
   {
@@ -620,7 +608,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 21,
     "createdAt": "2025-04-15T18:37:36Z"
   },
   {
@@ -630,33 +618,21 @@
     "location": "Ecuador",
     "company": "Universidad Laica Eloy Alfaro de Manabi",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 144,
+    "followers": 2,
+    "privateContributions": 55,
+    "publicContributions": 135,
     "createdAt": "2025-05-07T10:00:21Z"
-  },
-  {
-    "login": "grisbope",
-    "name": "Grismaldo Bone",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/215130568?s=72&u=66f5f54805eb38fce102d5b4233367a709819506&v=4",
-    "location": "Ecuador",
-    "company": "",
-    "twitterUsername": "grisbope",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 65,
-    "createdAt": "2025-06-06T09:02:46Z"
   },
   {
     "login": "diegraldev",
     "name": "Diegral",
     "avatarUrl": "https://avatars.githubusercontent.com/u/205059328?s=72&v=4",
-    "location": "Ecuador",
+    "location": "Guayaquil, Ecuador",
     "company": "@gavanti ",
     "twitterUsername": "diegraldev",
     "followers": 4,
-    "privateContributions": 90,
-    "publicContributions": 1037,
+    "privateContributions": 141,
+    "publicContributions": 1041,
     "createdAt": "2025-03-26T16:47:45Z"
   },
   {
@@ -667,8 +643,8 @@
     "company": "",
     "twitterUsername": "Juanfra_3108",
     "followers": 3,
-    "privateContributions": 7,
-    "publicContributions": 319,
+    "privateContributions": 4,
+    "publicContributions": 310,
     "createdAt": "2025-05-29T03:33:09Z"
   },
   {
@@ -679,8 +655,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 70,
-    "publicContributions": 40,
+    "privateContributions": 119,
+    "publicContributions": 106,
     "createdAt": "2025-03-12T01:38:05Z"
   },
   {
@@ -704,7 +680,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 61,
     "createdAt": "2025-05-24T03:26:57Z"
   },
   {

@@ -512,7 +512,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 98,
     "createdAt": "2026-01-30T06:08:24Z"
   },
   {
@@ -524,7 +524,7 @@
     "twitterUsername": "",
     "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 48,
     "createdAt": "2026-05-02T18:59:36Z"
   },
   {
@@ -570,9 +570,9 @@
     "location": "GEORGIA",
     "company": "Sprut_AI",
     "twitterUsername": "",
-    "followers": 112,
-    "privateContributions": 0,
-    "publicContributions": 58,
+    "followers": 140,
+    "privateContributions": 27,
+    "publicContributions": 99,
     "createdAt": "2025-04-16T06:24:25Z"
   },
   {
@@ -594,9 +594,9 @@
     "location": "📍 Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 3214,
+    "publicContributions": 3054,
     "createdAt": "2025-05-12T15:51:43Z"
   },
   {
@@ -618,9 +618,9 @@
     "location": "Georgia, Tbilisi",
     "company": "Acoustic.ge",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 305,
+    "publicContributions": 293,
     "createdAt": "2025-01-23T23:32:32Z"
   },
   {
@@ -632,7 +632,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 19,
-    "publicContributions": 667,
+    "publicContributions": 669,
     "createdAt": "2025-11-29T14:26:15Z"
   },
   {
@@ -642,7 +642,7 @@
     "location": "Georgia",
     "company": "CipherWorks AI",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2025-06-26T03:25:52Z"
@@ -656,7 +656,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 37,
-    "publicContributions": 51,
+    "publicContributions": 69,
     "createdAt": "2025-04-29T10:44:24Z"
   },
   {
@@ -666,8 +666,8 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "BTwenty2nine",
-    "followers": 9,
-    "privateContributions": 206,
+    "followers": 8,
+    "privateContributions": 214,
     "publicContributions": 30,
     "createdAt": "2025-05-21T16:23:28Z"
   },
@@ -678,9 +678,9 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 262,
     "createdAt": "2025-01-09T10:01:06Z"
   },
   {
@@ -702,8 +702,8 @@
     "location": "Georgia",
     "company": "@TurboGem-AI ",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 582,
+    "followers": 8,
+    "privateContributions": 900,
     "publicContributions": 116,
     "createdAt": "2025-10-28T09:09:41Z"
   },
@@ -714,9 +714,9 @@
     "location": "Alpharetta, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 336,
+    "publicContributions": 226,
     "createdAt": "2025-02-28T20:00:33Z"
   },
   {
@@ -1798,18 +1798,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-28T14:13:58Z"
-  },
-  {
-    "login": "kanvastudio",
-    "name": "George Falcon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206031291?s=72&u=673ffd444e8c0b4c3bfbe8aaae7cadf0a3e069c0&v=4",
-    "location": "Georgia",
-    "company": "Kanva Productions",
-    "twitterUsername": "",
-    "followers": 0,
-    "privateContributions": 0,
-    "publicContributions": 69,
-    "createdAt": "2025-04-03T05:53:17Z"
   },
   {
     "login": "EleBele808",
@@ -5362,18 +5350,6 @@
     "privateContributions": 16,
     "publicContributions": 0,
     "createdAt": "2024-08-22T12:21:53Z"
-  },
-  {
-    "login": "GeosoftCo",
-    "name": "Andro Meskhoradze",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/188769620?s=72&u=b9cc2b73eb73120cf27569b0389cb348dff028a3&v=4",
-    "location": "Tbilisi, Georgia",
-    "company": "Geosoft Cloud",
-    "twitterUsername": "GeosoftCloud",
-    "followers": 0,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-11-17T14:04:17Z"
   },
   {
     "login": "EdvardFarrow",
@@ -11506,18 +11482,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-19T22:08:25Z"
-  },
-  {
-    "login": "mnichols-snyk",
-    "name": "Mark Nichols - Snyk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128402496?s=72&u=e21a01e7dc333a6b5812de778054c7649d086149&v=4",
-    "location": "Georgia",
-    "company": "Snyk",
-    "twitterUsername": "",
-    "followers": 0,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-03-20T15:42:32Z"
   },
   {
     "login": "g-dolidze",
@@ -18994,18 +18958,6 @@
     "privateContributions": 0,
     "publicContributions": 214,
     "createdAt": "2022-10-14T21:42:09Z"
-  },
-  {
-    "login": "TornikeKhutsishvili",
-    "name": "Tornike",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98366397?s=72&u=7cba8a02aaa5919a99b21e57fd25707a0776ba29&v=4",
-    "location": "Georgia, Tbilisi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 0,
-    "privateContributions": 0,
-    "publicContributions": 764,
-    "createdAt": "2022-01-25T00:59:15Z"
   },
   {
     "login": "Giviko28",
@@ -27828,18 +27780,6 @@
     "createdAt": "2021-12-07T11:24:15Z"
   },
   {
-    "login": "aleksander-saz",
-    "name": "Aleksandr Sazonov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93097056?s=72&u=f5b2f4cf0813758c35bafa509abec4c29a49c93e&v=4",
-    "location": "Tbilisi, Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 0,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-10-24T19:28:25Z"
-  },
-  {
     "login": "Iashvili27",
     "name": "Giorgi Iashvili",
     "avatarUrl": "https://avatars.githubusercontent.com/u/94455941?s=72&u=60b998706aeabf2f1631275db8801ba5fddce9c2&v=4",
@@ -28582,18 +28522,6 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2021-09-13T17:03:43Z"
-  },
-  {
-    "login": "GGrinch13",
-    "name": "Giorgi Minashvili",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93399947?s=72&u=beb3389ff3874880242c79466d9cf7e77731c30b&v=4",
-    "location": "Tbilisi, Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 0,
-    "privateContributions": 2,
-    "publicContributions": 42,
-    "createdAt": "2021-10-29T17:16:32Z"
   },
   {
     "login": "Sabajmukhadze1996",
@@ -35292,18 +35220,6 @@
     "createdAt": "2020-04-15T11:10:28Z"
   },
   {
-    "login": "lukagoderdzishvili",
-    "name": "Luka Goderdzishvili",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67374477?s=72&u=835e8cccd42e69a733cadc5b3711ff8d95cc9bd4&v=4",
-    "location": "Tbilisi, Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 0,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-06-24T12:38:40Z"
-  },
-  {
     "login": "vsergeev88",
     "name": "Valiko Sergeev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/74459564?s=72&u=b0c9bc34fe8e7bbe1f2f89c385a746d70164a8ba&v=4",
@@ -36202,18 +36118,6 @@
     "privateContributions": 0,
     "publicContributions": 207,
     "createdAt": "2020-04-25T14:16:19Z"
-  },
-  {
-    "login": "alekshel",
-    "name": "Aleksei S",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60395109?s=72&u=4a99787063f7c7bf6ef0f3e160b0c8bbce4ad2ba&v=4",
-    "location": "Georgia / Tbilisi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 0,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2020-01-28T14:43:21Z"
   },
   {
     "login": "Arslan-95",
@@ -37236,18 +37140,6 @@
     "createdAt": "2020-11-15T09:39:04Z"
   },
   {
-    "login": "JustinPerlman",
-    "name": "Justin Perlman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69224148?s=72&u=a356d60176f386d3ebf0b7f18dd201b8333287e7&v=4",
-    "location": "Georgia",
-    "company": "@coreweave",
-    "twitterUsername": "",
-    "followers": 0,
-    "privateContributions": 0,
-    "publicContributions": 188,
-    "createdAt": "2020-08-05T00:04:05Z"
-  },
-  {
     "login": "werendeng",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/67953608?s=72&u=91d9cfc10d6cefcd12883bc7293d9aecd9c62fae&v=4",
@@ -37294,18 +37186,6 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2020-11-03T12:58:17Z"
-  },
-  {
-    "login": "nxs234",
-    "name": "Nikhil Shingte",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71026561?s=72&u=ec7dc9cfb550c8bb906b38ad53c76d0bdafe7bde&v=4",
-    "location": "Alpharetta, Georgia",
-    "company": "Equifax",
-    "twitterUsername": "",
-    "followers": 0,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-09-09T15:09:51Z"
   },
   {
     "login": "aleksandr-kiliushin",
@@ -51252,18 +51132,6 @@
     "createdAt": "2018-01-10T12:46:52Z"
   },
   {
-    "login": "navidhaghighi",
-    "name": "Navid haghighi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42996975?s=72&u=6d806a97e09f19eb71f8d2a7b008cec251ffeb60&v=4",
-    "location": "Tbilisi",
-    "company": "NoaGames",
-    "twitterUsername": "",
-    "followers": 0,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-09-05T08:48:56Z"
-  },
-  {
     "login": "HolyJack",
     "name": "Artem Zaluzhnyi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/36549015?s=72&v=4",
@@ -60588,18 +60456,6 @@
     "createdAt": "2016-10-16T20:43:04Z"
   },
   {
-    "login": "edwilke86",
-    "name": "Neo Shain",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/23363671?s=72&u=8aa050de63b8f7ee2ac58bbb7044ff9a196f24f0&v=4",
-    "location": "Warner Robins, Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 0,
-    "privateContributions": 0,
-    "publicContributions": 168,
-    "createdAt": "2016-11-09T17:24:29Z"
-  },
-  {
     "login": "cbfsocial",
     "name": "Aleksander Kuznetsov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/19409332?s=72&u=f80892d00b6ca57c2fa49288b0be24eaafc8da80&v=4",
@@ -60670,18 +60526,6 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2016-11-25T17:15:40Z"
-  },
-  {
-    "login": "sertso",
-    "name": "TsoTne LomiDze",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17887444?s=72&u=2c4380125003ff1d525cb619cd3d5313d4f54495&v=4",
-    "location": "Tbilisi, Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 0,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2016-03-16T19:13:54Z"
   },
   {
     "login": "eteri-otarashvili",

@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 83,
     "createdAt": "2026-01-21T16:30:29Z"
   },
   {
@@ -500,7 +500,7 @@
     "twitterUsername": "ivapie",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2026-02-18T22:04:07Z"
   },
   {
@@ -560,7 +560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 13,
     "createdAt": "2026-03-15T23:34:22Z"
   },
   {
@@ -572,7 +572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 104,
     "createdAt": "2026-02-17T03:24:13Z"
   },
   {
@@ -584,7 +584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 77,
     "createdAt": "2026-01-20T22:36:09Z"
   },
   {
@@ -594,9 +594,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 927,
+    "followers": 1057,
     "privateContributions": 0,
-    "publicContributions": 267,
+    "publicContributions": 280,
     "createdAt": "2025-05-19T19:03:35Z"
   },
   {
@@ -608,7 +608,7 @@
     "twitterUsername": "",
     "followers": 53,
     "privateContributions": 0,
-    "publicContributions": 406,
+    "publicContributions": 442,
     "createdAt": "2025-10-22T22:49:58Z"
   },
   {
@@ -618,21 +618,21 @@
     "location": "Cartago,  Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 209,
+    "publicContributions": 196,
     "createdAt": "2025-05-03T18:26:45Z"
   },
   {
     "login": "fabwz",
     "name": "Fabián ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/221655301?s=72&u=fbef6085ece8e2c13cfefcf17467c2a5e98f353a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/221655301?s=72&u=dadd601150ecd4c3cb16366bc9c3994840a43934&v=4",
     "location": "Costa Rica",
     "company": "National Technical University",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 250,
+    "publicContributions": 161,
     "createdAt": "2025-07-19T04:20:09Z"
   },
   {
@@ -642,9 +642,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 330,
-    "publicContributions": 213,
+    "followers": 11,
+    "privateContributions": 47,
+    "publicContributions": 116,
     "createdAt": "2025-01-08T21:47:59Z"
   },
   {
@@ -666,21 +666,21 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 817,
+    "followers": 9,
+    "privateContributions": 919,
     "publicContributions": 12,
     "createdAt": "2025-02-28T15:08:41Z"
   },
   {
     "login": "sangredevampira",
     "name": "kris peraza ˚⊹",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/241579478?s=72&u=e72e855c8525eafaf11543ba91efd79815b19f34&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/241579478?s=72&u=3970e36c480cbd1c0f407c67499fa9972942a23d&v=4",
     "location": "Heredia, Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 20,
     "createdAt": "2025-11-02T11:46:53Z"
   },
   {
@@ -690,7 +690,7 @@
     "location": "Costa Rica",
     "company": "IBM",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 86,
     "createdAt": "2025-01-31T23:43:23Z"
@@ -704,7 +704,7 @@
     "twitterUsername": "aurora_ventures",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 3184,
+    "publicContributions": 3585,
     "createdAt": "2025-04-26T14:49:13Z"
   },
   {
@@ -714,9 +714,9 @@
     "location": "Costa Rica | Miami ",
     "company": "Student Ambassador @ Notion ",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 87,
-    "publicContributions": 57,
+    "followers": 9,
+    "privateContributions": 74,
+    "publicContributions": 99,
     "createdAt": "2025-06-18T03:26:31Z"
   },
   {
@@ -67642,5 +67642,113 @@
     "privateContributions": 21,
     "publicContributions": 71,
     "createdAt": "2019-03-25T09:02:56Z"
+  },
+  {
+    "login": "ignahd",
+    "name": "Nacho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284833120?s=72&u=08f4a5d4f85b5adff9fb18a76bfb12ed7d8faef4&v=4",
+    "location": "Costa Rica",
+    "company": "Fidélitas University",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 26,
+    "publicContributions": 3,
+    "createdAt": "2026-05-15T02:44:38Z"
+  },
+  {
+    "login": "proyectoayncostarica-ux",
+    "name": "Andrey Acuña Calderon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287762888?s=72&v=4",
+    "location": "San José Costa Rica",
+    "company": "AyN Costa Rica",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 106,
+    "createdAt": "2026-05-25T16:42:46Z"
+  },
+  {
+    "login": "PabloSCybersec",
+    "name": "Pablo Sancho",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295984750?s=72&u=7b05491bae235b601061b14df819db3701492a11&v=4",
+    "location": "Costa Rica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2026-06-22T21:50:52Z"
+  },
+  {
+    "login": "Kville-17",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290908851?s=72&u=6e7ae6fafd2193aa89013232c5f44be84eaf1b07&v=4",
+    "location": "Costa Rica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-06-05T02:54:57Z"
+  },
+  {
+    "login": "frojasvargas-uro",
+    "name": "Franklin Rojas Vargas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295446296?s=72&u=6eb9ce17adad359c3a0fb905113eecaca480d220&v=4",
+    "location": "Costa Rica",
+    "company": "Urobyte",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-20T20:29:47Z"
+  },
+  {
+    "login": "Stephenson19",
+    "name": "Ronald Stephenson A.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292859269?s=72&v=4",
+    "location": "Costa Rica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-11T16:54:33Z"
+  },
+  {
+    "login": "trabajaenwalmartcam",
+    "name": "TRABAJA EN WALMART CENTROAMÉRICA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293944182?s=72&u=0cd0ad81a7b4b37b1a35c9da23aa83cac3abe476&v=4",
+    "location": "Costa Rica",
+    "company": "",
+    "twitterUsername": "trabajaenwmcam",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 61,
+    "createdAt": "2026-06-15T17:50:12Z"
+  },
+  {
+    "login": "pnavarro0102-ai",
+    "name": "Pablo Navarro Robles",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296679718?s=72&u=6e947dc6be79a0333651d4628beda5e48092d034&v=4",
+    "location": "Costa Rica",
+    "company": "Instituto Tecnologico de Costa Rica",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 109,
+    "createdAt": "2026-06-24T22:20:58Z"
+  },
+  {
+    "login": "LedezmaSebas",
+    "name": "Ledezma Valverde Sebastián Gerardo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285867847?s=72&v=4",
+    "location": "Costa rica",
+    "company": "Castro Carazo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-19T02:34:40Z"
   }
 ]
