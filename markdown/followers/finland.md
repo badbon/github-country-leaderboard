@@ -1,8 +1,8 @@
 # Followers - Finland
 
-Generated: 2026-10-07T08:38:45.670Z
+Generated: 2026-10-07T09:34:04.121Z
 
-Users: 18166
+Users: 18164
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

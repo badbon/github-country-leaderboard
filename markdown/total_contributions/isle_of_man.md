@@ -1,6 +1,6 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-07T08:44:33.438Z
+Generated: 2026-10-07T09:38:28.285Z
 
 Users: 155
 
@@ -12,16 +12,16 @@ Users: 155
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | @craftapplied | dazdotdev | Isle of Man | 4058 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min |  |  | Isle of Man | 2998 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 2141 |
-| 7 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto |  |  | Isle of Man | 1768 |
-| 8 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 1751 |
-| 9 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Infinium | thomas_iom | Isle of Man | 1604 |
-| 10 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 1558 |
-| 11 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim |  |  | Isle of Man | 1364 |
-| 12 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1300 |
-| 13 | [Gwiilo](https://github.com/Gwiilo) | Gwilo |  |  | Isle of Man | 1232 |
-| 14 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 1153 |
-| 15 | [likesalmon](https://github.com/likesalmon) | Ammon Morris | SaasFactory |  | Douglas, AK | 1088 |
-| 16 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 1062 |
+| 7 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 1812 |
+| 8 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto |  |  | Isle of Man | 1768 |
+| 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 1751 |
+| 10 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Infinium | thomas_iom | Isle of Man | 1604 |
+| 11 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 1558 |
+| 12 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim |  |  | Isle of Man | 1364 |
+| 13 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1300 |
+| 14 | [Gwiilo](https://github.com/Gwiilo) | Gwilo |  |  | Isle of Man | 1232 |
+| 15 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 1153 |
+| 16 | [likesalmon](https://github.com/likesalmon) | Ammon Morris | SaasFactory |  | Douglas, AK | 1088 |
 | 17 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | @apptrackit  |  | Isle of Man | 1061 |
 | 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 1009 |
 | 19 | [AshLeece](https://github.com/AshLeece) | Ash Leece |  |  | Isle of Man | 997 |

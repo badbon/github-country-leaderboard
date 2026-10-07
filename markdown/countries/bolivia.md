@@ -48,9 +48,9 @@ Indexed users: 1,793
 | 9 | [rafael1199v](https://github.com/rafael1199v) | Rafael Vargas | Bolivia | 1,586 |
 | 10 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 1,527 |
 | 11 | [ovidiocbba](https://github.com/ovidiocbba) | Simon Ovidio Miranda Chiri | Bolivia | 1,448 |
-| 12 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,327 |
-| 13 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez | La Paz, Bolivia | 1,307 |
-| 14 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,294 |
+| 12 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez | La Paz, Bolivia | 1,307 |
+| 13 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,294 |
+| 14 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,219 |
 | 15 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,106 |
 | 16 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 1,081 |
 | 17 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño | Cochabamba, Bolivia | 1,042 |
@@ -74,7 +74,7 @@ Indexed users: 1,793
 | 10 | [Pericena](https://github.com/Pericena) | Luishiño | Bolivia, Santa Cruz | 193 |
 | 11 | [rivera-ernesto](https://github.com/rivera-ernesto) | Ernesto Rivera | La Paz, Bolivia | 187 |
 | 12 | [alvareztech](https://github.com/alvareztech) | Daniel Alvarez | Bolivia | 177 |
-| 13 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 172 |
+| 13 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 170 |
 | 14 | [mariocesar](https://github.com/mariocesar) | Mario-César | Santa Cruz de la Sierra, Bolivia | 170 |
 | 15 | [vitiko98](https://github.com/vitiko98) | Vitiko | Bolivia | 147 |
 | 16 | [luucamay](https://github.com/luucamay) | luucamay | La Paz, Bolivia | 143 |
@@ -83,4 +83,4 @@ Indexed users: 1,793
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 126 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 124 |
 
-Generated: 2026-10-07T08:30:23.802Z
+Generated: 2026-10-07T09:23:01.416Z

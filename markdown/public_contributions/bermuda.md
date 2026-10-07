@@ -1,8 +1,8 @@
 # Public Contributions - Bermuda
 
-Generated: 2026-10-07T08:30:14.181Z
+Generated: 2026-10-07T09:22:45.941Z
 
-Users: 914
+Users: 911
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 914
 | 13 | [nvelden](https://github.com/nvelden) |  |  |  | Hamilton, Bermuda | 839 |
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 750 |
 | 15 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe |  |  | Hamilton, Ontario | 743 |
-| 16 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel |  | chu_rill | Hamilton | 627 |
-| 17 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Miami University | roseaw | Oxford, OH, Hamilton, OH | 614 |
-| 18 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | McMaster University |  | Hamilton, ON | 605 |
-| 19 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | McMaster University CS + Math |  | Hamilton, Ontario | 601 |
-| 20 | [littleblack111](https://github.com/littleblack111) | littleblack111 |  |  | Bermuda | 562 |
+| 16 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Miami University | roseaw | Oxford, OH, Hamilton, OH | 614 |
+| 17 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | McMaster University |  | Hamilton, ON | 605 |
+| 18 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | McMaster University CS + Math |  | Hamilton, Ontario | 601 |
+| 19 | [littleblack111](https://github.com/littleblack111) | littleblack111 |  |  | Bermuda | 562 |
+| 20 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel |  | chu_rill | Hamilton | 494 |

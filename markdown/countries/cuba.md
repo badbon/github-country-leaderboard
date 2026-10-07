@@ -1,6 +1,6 @@
 # Cuba
 
-Indexed users: 1,296
+Indexed users: 1,294
 
 | Leaderboard | Link |
 |---|---|
@@ -46,17 +46,17 @@ Indexed users: 1,296
 | 7 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 1,727 |
 | 8 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Cuba | 1,612 |
 | 9 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 1,572 |
-| 10 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,463 |
-| 11 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 1,418 |
-| 12 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez | Cuba | 1,412 |
-| 13 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | La Habana, Cuba | 992 |
-| 14 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 985 |
-| 15 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez | Cárdenas, Matanzas, Cuba | 965 |
-| 16 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | Cuba | 781 |
-| 17 | [teby00](https://github.com/teby00) | Esteban Daniel Rodríguez Martín  | Ciego de Ávila, Cuba | 720 |
-| 18 | [VictorHerdz10](https://github.com/VictorHerdz10) | Victor Hernández Salcedo | La Habana, Cuba. | 699 |
-| 19 | [kevsantamaria](https://github.com/kevsantamaria) | Kevin Santamaria  | Matanzas, Cuba | 656 |
-| 20 | [ypvaldivia88](https://github.com/ypvaldivia88) | Yasmani Palmero Valdivia | Sancti Spiritus, Cuba | 647 |
+| 10 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert | Cuba | 1,474 |
+| 11 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,463 |
+| 12 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 1,418 |
+| 13 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez | Cuba | 1,412 |
+| 14 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | La Habana, Cuba | 992 |
+| 15 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 985 |
+| 16 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez | Cárdenas, Matanzas, Cuba | 965 |
+| 17 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | Cuba | 781 |
+| 18 | [teby00](https://github.com/teby00) | Esteban Daniel Rodríguez Martín  | Ciego de Ávila, Cuba | 720 |
+| 19 | [VictorHerdz10](https://github.com/VictorHerdz10) | Victor Hernández Salcedo | La Habana, Cuba. | 699 |
+| 20 | [Bether12](https://github.com/Bether12) | Ernesto David Gomez Rodriguez | Villa Clara, Cuba  | 675 |
 
 ## Followers
 
@@ -65,11 +65,11 @@ Indexed users: 1,296
 | 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 450 |
 | 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo | Cuba | 392 |
 | 3 | [GamerHack](https://github.com/GamerHack) |  | Cuba | 170 |
-| 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro | La Habana, Cuba | 146 |
+| 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro | La Habana, Cuba | 143 |
 | 5 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 142 |
 | 6 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 134 |
-| 7 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | La Habana, Cuba | 133 |
-| 8 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Havana, IL  | 127 |
+| 7 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Havana, IL  | 127 |
+| 8 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | La Habana, Cuba | 127 |
 | 9 | [yudivian](https://github.com/yudivian) | Yudivián Almeida Cruz | La Habana, Cuba | 115 |
 | 10 | [vircoding](https://github.com/vircoding) | Luis Miguel Navarro | La Habana, Cuba | 111 |
 | 11 | [CJPD00](https://github.com/CJPD00) | CJPD00 | Cuba | 109 |
@@ -83,4 +83,4 @@ Indexed users: 1,296
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 69 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 68 |
 
-Generated: 2026-10-07T08:36:18.670Z
+Generated: 2026-10-07T09:29:07.934Z

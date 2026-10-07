@@ -1,6 +1,6 @@
 # Followers - Bolivia
 
-Generated: 2026-10-07T08:30:23.802Z
+Generated: 2026-10-07T09:23:01.416Z
 
 Users: 1793
 
@@ -18,7 +18,7 @@ Users: 1793
 | 10 | [Pericena](https://github.com/Pericena) | Luishiño | UAGRM student | LPericena | Bolivia, Santa Cruz | 193 |
 | 11 | [rivera-ernesto](https://github.com/rivera-ernesto) | Ernesto Rivera | @PTEz  |  | La Paz, Bolivia | 187 |
 | 12 | [alvareztech](https://github.com/alvareztech) | Daniel Alvarez | ALVAREZ technologies | danielo_dev | Bolivia | 177 |
-| 13 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 172 |
+| 13 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 170 |
 | 14 | [mariocesar](https://github.com/mariocesar) | Mario-César | Humanzilla | mariocesar_bo | Santa Cruz de la Sierra, Bolivia | 170 |
 | 15 | [vitiko98](https://github.com/vitiko98) | Vitiko |  |  | Bolivia | 147 |
 | 16 | [luucamay](https://github.com/luucamay) | luucamay | independent | luucamay_ | La Paz, Bolivia | 143 |

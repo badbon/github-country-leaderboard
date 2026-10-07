@@ -1,6 +1,6 @@
 # Guatemala
 
-Indexed users: 3,234
+Indexed users: 3,233
 
 | Leaderboard | Link |
 |---|---|
@@ -48,10 +48,10 @@ Indexed users: 3,234
 | 9 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,180 |
 | 10 | [ElrohirGT](https://github.com/ElrohirGT) |  | Guatemala | 1,151 |
 | 11 | [Adriianh](https://github.com/Adriianh) | Adrián Fúnez | Guatemala | 1,114 |
-| 12 | [erwindank](https://github.com/erwindank) | Erwin Solorzano | Guatemala | 1,111 |
-| 13 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,107 |
-| 14 | [eylles](https://github.com/eylles) |  | Guatemala | 1,045 |
-| 15 | [pablo-mald03](https://github.com/pablo-mald03) | Pablo_Maldonado | Guatemala | 1,039 |
+| 12 | [pablo-mald03](https://github.com/pablo-mald03) | Pablo_Maldonado | Guatemala | 1,112 |
+| 13 | [erwindank](https://github.com/erwindank) | Erwin Solorzano | Guatemala | 1,111 |
+| 14 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,107 |
+| 15 | [eylles](https://github.com/eylles) |  | Guatemala | 1,045 |
 | 16 | [marcosbondel](https://github.com/marcosbondel) | Marcos Bonifasi | Guatemala | 988 |
 | 17 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez | Guatemala | 956 |
 | 18 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 929 |
@@ -83,4 +83,4 @@ Indexed users: 3,234
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-07T08:41:00.326Z
+Generated: 2026-10-07T09:36:45.586Z

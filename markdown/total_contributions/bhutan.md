@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-07T08:30:19.864Z
+Generated: 2026-10-07T09:22:57.366Z
 
 Users: 270
 
@@ -20,9 +20,9 @@ Users: 270
 | 12 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1949 |
 | 13 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | @SELISEdigitalplatforms  |  | Thiimphu, Bhutan | 1924 |
 | 14 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1826 |
-| 15 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1818 |
-| 16 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 1788 |
-| 17 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Selise Bhutan |  | Bhutan | 1771 |
+| 15 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Selise Bhutan |  | Bhutan | 1825 |
+| 16 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1818 |
+| 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 1788 |
 | 18 | [karmatenzi](https://github.com/karmatenzi) | Karma Tenzin | Selise |  | thimphu | 1689 |
 | 19 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | @selisegroup | __kinleyrabgay | Thimphu, Bhutan | 1581 |
 | 20 | [KarmaTensel](https://github.com/KarmaTensel) | ice |  |  | Bhutan | 1562 |

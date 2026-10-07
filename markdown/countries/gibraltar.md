@@ -13,13 +13,13 @@ Indexed users: 93
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 23,420 |
-| 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,126 |
-| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 3,824 |
+| 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,665 |
+| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 4,947 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,251 |
-| 5 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,376 |
-| 6 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,289 |
-| 7 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 1,173 |
-| 8 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 1,111 |
+| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,010 |
+| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,376 |
+| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,289 |
+| 8 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 1,173 |
 | 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 836 |
 | 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 772 |
 | 11 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor | Gibraltar | 635 |
@@ -37,11 +37,11 @@ Indexed users: 93
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,126 |
-| 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,483 |
+| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,665 |
+| 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,895 |
 | 3 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 586 |
 | 4 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 491 |
-| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 486 |
+| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 476 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 251 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 244 |
 | 8 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 200 |
@@ -62,14 +62,14 @@ Indexed users: 93
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 579 |
+| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 580 |
 | 2 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 86 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 72 |
 | 4 | [sloancameron](https://github.com/sloancameron) | valley / bernadette | watchpoint gibraltar | 38 |
 | 5 | [docziegler](https://github.com/docziegler) | star | watchpoint gibraltar | 35 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 33 |
 | 7 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 31 |
-| 8 | [carribus](https://github.com/carribus) | Peter Mares | Gibraltar | 29 |
+| 8 | [carribus](https://github.com/carribus) | Peter Mares | Gibraltar | 28 |
 | 9 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 28 |
 | 10 | [ileghlam](https://github.com/ileghlam) | Leghlam Ishak | Gibraltar | 26 |
 | 11 | [luciomafia](https://github.com/luciomafia) | ─ RUM / MAYHEM ! | 𖠊  WATCHPOINT GIBRALTAR . . . | 25 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-07T08:40:19.488Z
+Generated: 2026-10-07T09:35:21.568Z

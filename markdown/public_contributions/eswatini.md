@@ -1,6 +1,6 @@
 # Public Contributions - Eswatini
 
-Generated: 2026-10-07T08:38:27.824Z
+Generated: 2026-10-07T09:31:51.921Z
 
 Users: 108
 
@@ -25,4 +25,4 @@ Users: 108
 | 17 | [CodehubNerd](https://github.com/CodehubNerd) | Culture | Nu Africa | Culture_Dlamini | Swaziland | 41 |
 | 18 | [Sibakhe-Nyembe](https://github.com/Sibakhe-Nyembe) | SIBAKHE N. |  |  | Eswatini, Mbabane, Sidvwashini | 41 |
 | 19 | [Fanelemenzi](https://github.com/Fanelemenzi) | Fanelesiyibonge Mabuza |  | menzi_fanele | Manzini, Swaziland | 39 |
-| 20 | [djacmarg](https://github.com/djacmarg) | Durotoye Oyerinde |  | djacmarg | Manzini, Swaziland | 32 |
+| 20 | [Sdingo](https://github.com/Sdingo) | Phiwokuhle Sdingo Kunene |  |  | Eswatini | 28 |

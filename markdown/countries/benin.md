@@ -43,10 +43,10 @@ Indexed users: 474
 | 4 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,870 |
 | 5 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,766 |
 | 6 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée | Abomey-Calavi, Atlantique, Benin | 1,443 |
-| 7 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,345 |
-| 8 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 1,229 |
-| 9 | [Hop-Syder](https://github.com/Hop-Syder) | ISMAEL CHRISTIAN DAOUDA ABASSI | Benin | 1,125 |
-| 10 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,120 |
+| 7 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,424 |
+| 8 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,345 |
+| 9 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 1,229 |
+| 10 | [Hop-Syder](https://github.com/Hop-Syder) | ISMAEL CHRISTIAN DAOUDA ABASSI | Benin | 1,125 |
 | 11 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 1,071 |
 | 12 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | Abomey-Calavi, Benin | 980 |
 | 13 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | Cotonou, Republic of Benin | 855 |
@@ -63,24 +63,24 @@ Indexed users: 474
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [JideGuru](https://github.com/JideGuru) | Festus Olusegun | Cotonou, Benin. | 2,202 |
-| 2 | [AvineDev](https://github.com/AvineDev) | Avine Dev | Benin | 477 |
+| 2 | [AvineDev](https://github.com/AvineDev) | Avine Dev | Benin | 468 |
 | 3 | [Houessou1](https://github.com/Houessou1) | François-Xavier ALLA HOUESSOU  | Benin 🇧🇯 | 421 |
 | 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 233 |
 | 5 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | Cotonou, Benin | 228 |
 | 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Benin | 138 |
-| 7 | [florentak](https://github.com/florentak) | AYIDEDJI Kossi Florent | Cotonou, Littoral, Benin | 128 |
+| 7 | [florentak](https://github.com/florentak) | Florent Ayidedji | Cotonou, Littoral, Benin | 120 |
 | 8 | [VEGLOgabin](https://github.com/VEGLOgabin) | Gabin Houetchenou VEGLO | Benin | 115 |
 | 9 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 108 |
 | 10 | [Zchristian955](https://github.com/Zchristian955) | Kevin Christian ZANOU | Benin | 105 |
 | 11 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 92 |
 | 12 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM | Republic of Benin | 91 |
-| 13 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo | Benin, Nigeria | 86 |
+| 13 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo | Benin, Nigeria | 87 |
 | 14 | [jackjosias](https://github.com/jackjosias) | Jack-Josias | Cotonou, Benin | 84 |
-| 15 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  | Benin | 84 |
-| 16 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian | Benin, Cotonou | 84 |
-| 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Benin, Cotonou | 83 |
+| 15 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian | Benin, Cotonou | 84 |
+| 16 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  | Benin | 83 |
+| 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Benin, Cotonou | 79 |
 | 18 | [salimane](https://github.com/salimane) | Salimane Adjao Moustapha | Africa, Benin, Rwanda, Ghana, Kenya, China, Germany | 79 |
-| 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 74 |
+| 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 | 20 | [romeokakpo](https://github.com/romeokakpo) | Roméo KAKPO | Benin | 70 |
 
-Generated: 2026-10-07T08:28:20.857Z
+Generated: 2026-10-07T09:22:42.466Z

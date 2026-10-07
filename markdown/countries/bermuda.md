@@ -1,6 +1,6 @@
 # Bermuda
 
-Indexed users: 914
+Indexed users: 911
 
 | Leaderboard | Link |
 |---|---|
@@ -52,11 +52,11 @@ Indexed users: 914
 | 13 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 839 |
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 750 |
 | 15 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 743 |
-| 16 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 627 |
-| 17 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 614 |
-| 18 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
-| 19 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 601 |
-| 20 | [littleblack111](https://github.com/littleblack111) | littleblack111 | Bermuda | 562 |
+| 16 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 614 |
+| 17 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
+| 18 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 601 |
+| 19 | [littleblack111](https://github.com/littleblack111) | littleblack111 | Bermuda | 562 |
+| 20 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 494 |
 
 ## Followers
 
@@ -74,13 +74,13 @@ Indexed users: 914
 | 10 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 173 |
 | 11 | [jbfink](https://github.com/jbfink) | John Fink | Hamilton, Ontario | 173 |
 | 12 | [dktr0](https://github.com/dktr0) | David Ogborn | Hamilton, Ontario | 147 |
-| 13 | [chocotruffles](https://github.com/chocotruffles) | ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎ ‎♯ | ⋮ ⌗ ┆STH(STC) ‎ ‎ ‎ Ninjago ‎ ‎ ‎ Kirby ‎ ‎ ‎ Deltarune ‎ ‎ ‎ Hetalia(fdni) ‎ ‎ ‎ Hamilton ‎ ‎ ‎ DDLC ‎ ‎ ‎ CRK/CR ‎ ‎ ‎ EddsWorld ‎ ‎ ‎ FNAF ‎ ‎ ‎ BSD ‎ ‎ ‎  Basically anything you can think of ‎ ‎ ‎ -◝(ᵔᗜᵔ)◜‎ ‎ ‎  | 136 |
-| 14 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 133 |
-| 15 | [Pear1y](https://github.com/Pear1y) | Pear1y | Bermuda | 108 |
-| 16 | [ShawnShiSS](https://github.com/ShawnShiSS) | Shawn Shi | Hamilton, Ontario | 103 |
-| 17 | [nickelpilled](https://github.com/nickelpilled) | nikki | hamilton & something rotten | 95 |
-| 18 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour | Hamilton, Ontario | 91 |
-| 19 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 87 |
-| 20 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | Hamilton | 86 |
+| 13 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 133 |
+| 14 | [Pear1y](https://github.com/Pear1y) | Pear1y | Bermuda | 108 |
+| 15 | [ShawnShiSS](https://github.com/ShawnShiSS) | Shawn Shi | Hamilton, Ontario | 103 |
+| 16 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour | Hamilton, Ontario | 91 |
+| 17 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 87 |
+| 18 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | Hamilton | 86 |
+| 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 86 |
+| 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 75 |
 
-Generated: 2026-10-07T08:30:14.181Z
+Generated: 2026-10-07T09:22:45.941Z

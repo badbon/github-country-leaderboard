@@ -45,7 +45,7 @@ Indexed users: 484
 | 6 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 903 |
 | 7 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Burkina Faso | 776 |
 | 8 | [Gbangou](https://github.com/Gbangou) | Pascal GBANGOU | Ouagadougou, Burkina Faso | 754 |
-| 9 | [Solangeilinga](https://github.com/Solangeilinga) | ILINGA Solange | Casablanca - Ouagadougou | 715 |
+| 9 | [Solangeilinga](https://github.com/Solangeilinga) | ILINGA Solange | Casablanca - Ouagadougou | 634 |
 | 10 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 597 |
 | 11 | [kiswend](https://github.com/kiswend) | Nathan K. DELMA | Burkina Faso | 593 |
 | 12 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon | Ouagadougou | 538 |
@@ -83,4 +83,4 @@ Indexed users: 484
 | 19 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN | BURKINAFASO/OUAGADOUGOU | 37 |
 | 20 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 35 |
 
-Generated: 2026-10-07T08:32:03.857Z
+Generated: 2026-10-07T09:25:07.287Z

@@ -1,8 +1,8 @@
 # Total Contributions - Ivory Coast
 
-Generated: 2026-10-07T08:45:40.580Z
+Generated: 2026-10-07T09:38:37.541Z
 
-Users: 487
+Users: 490
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 487
 | 16 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé |  | _aziz_soule_ | Abidjan, Côte d'Ivoire | 3658 |
 | 17 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Everest Consulting | oumar_koo | Abidjan, Côte d'Ivoire | 3644 |
 | 18 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Artefact |  | Cocody, Abidjan, Côte d'Ivoire | 3371 |
-| 19 | [sovmulax](https://github.com/sovmulax) | Geoffroy Evane |  |  | Abidjan, Côte d'Ivoire | 3156 |
-| 20 | [ulrichkouame](https://github.com/ulrichkouame) | KOUAME Ulrich Kouadio | ivoire.io | UlrichKOUAME11 | Ivory Coast | 2990 |
+| 19 | [ZakariaDev000](https://github.com/ZakariaDev000) | Zakaria Dev |  |  | Côte d'ivoire, Abidjan | 3232 |
+| 20 | [sovmulax](https://github.com/sovmulax) | Geoffroy Evane |  |  | Abidjan, Côte d'Ivoire | 3156 |

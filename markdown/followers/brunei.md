@@ -1,6 +1,6 @@
 # Followers - Brunei
 
-Generated: 2026-10-07T08:31:12.742Z
+Generated: 2026-10-07T09:24:52.895Z
 
 Users: 256
 
@@ -23,6 +23,6 @@ Users: 256
 | 15 | [acyein](https://github.com/acyein) | Yein |  |  | Brunei | 17 |
 | 16 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 17 |
 | 17 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 15 |
-| 18 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Firdautama | affenrahim245 | Brunei Darussalam | 14 |
-| 19 | [bahit](https://github.com/bahit) | Bahit Hamid | Bahit Designs |  | Brunei | 14 |
-| 20 | [snek5](https://github.com/snek5) | Azim Anuar |  |  | Brunei | 13 |
+| 18 | [snek5](https://github.com/snek5) | Azim Anuar |  |  | Brunei | 15 |
+| 19 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Firdautama | affenrahim245 | Brunei Darussalam | 14 |
+| 20 | [bahit](https://github.com/bahit) | Bahit Hamid | Bahit Designs |  | Brunei | 14 |

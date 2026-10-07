@@ -1,16 +1,16 @@
 # Public Contributions - Gibraltar
 
-Generated: 2026-10-07T08:40:19.488Z
+Generated: 2026-10-07T09:35:21.568Z
 
 Users: 93
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 5126 |
-| 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 1483 |
+| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 5665 |
+| 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 1895 |
 | 3 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 586 |
 | 4 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | AJEDREZ PREMIUM |  | GIBRALTAR | 491 |
-| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi |  |  | Gibraltar | 486 |
+| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi |  |  | Gibraltar | 476 |
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco |  | cesarrpol | Gibraltar | 251 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Heaventree |  | Gibraltar | 244 |
 | 8 | [unigib](https://github.com/unigib) | University of Gibraltar | University of Gibraltar |  | Gibraltar | 200 |

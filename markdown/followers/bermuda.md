@@ -1,8 +1,8 @@
 # Followers - Bermuda
 
-Generated: 2026-10-07T08:30:14.181Z
+Generated: 2026-10-07T09:22:45.941Z
 
-Users: 914
+Users: 911
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 914
 | 10 | [bokmann](https://github.com/bokmann) | David Bock | @loudouncodes | bokmann | Hamilton, VA | 173 |
 | 11 | [jbfink](https://github.com/jbfink) | John Fink | McMaster University |  | Hamilton, Ontario | 173 |
 | 12 | [dktr0](https://github.com/dktr0) | David Ogborn |  |  | Hamilton, Ontario | 147 |
-| 13 | [chocotruffles](https://github.com/chocotruffles) | ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎ ‎♯ |  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔ ‎  ‎ ‎  ‎  ‎ ‎  ‎  ‎ ‎  ‎  ‎ ‎  ‎  ‎ ‎ @rodgerpilled ‎  ‎ ‎ @therealcastiel ‎  ‎ ‎ @berrybats ‎  ‎ ‎ @sanestpsychopathever ‎  ‎ ‎ @KnucklesIRL / @DWN-infinity |  | ⋮ ⌗ ┆STH(STC) ‎ ‎ ‎ Ninjago ‎ ‎ ‎ Kirby ‎ ‎ ‎ Deltarune ‎ ‎ ‎ Hetalia(fdni) ‎ ‎ ‎ Hamilton ‎ ‎ ‎ DDLC ‎ ‎ ‎ CRK/CR ‎ ‎ ‎ EddsWorld ‎ ‎ ‎ FNAF ‎ ‎ ‎ BSD ‎ ‎ ‎  Basically anything you can think of ‎ ‎ ‎ -◝(ᵔᗜᵔ)◜‎ ‎ ‎  | 136 |
-| 14 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 133 |
-| 15 | [Pear1y](https://github.com/Pear1y) | Pear1y | Cyber Security |  | Bermuda | 108 |
-| 16 | [ShawnShiSS](https://github.com/ShawnShiSS) | Shawn Shi |  |  | Hamilton, Ontario | 103 |
-| 17 | [nickelpilled](https://github.com/nickelpilled) | nikki | ygc ♡ |  | hamilton & something rotten | 95 |
-| 18 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour |  |  | Hamilton, Ontario | 91 |
-| 19 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 87 |
-| 20 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | McMaster University |  | Hamilton | 86 |
+| 13 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 133 |
+| 14 | [Pear1y](https://github.com/Pear1y) | Pear1y | Cyber Security |  | Bermuda | 108 |
+| 15 | [ShawnShiSS](https://github.com/ShawnShiSS) | Shawn Shi |  |  | Hamilton, Ontario | 103 |
+| 16 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour |  |  | Hamilton, Ontario | 91 |
+| 17 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 87 |
+| 18 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | McMaster University |  | Hamilton | 86 |
+| 19 | [feilongcheng](https://github.com/feilongcheng) | Felix |  |  | Hamilton, NZ | 86 |
+| 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Support Specialist at Harris Computer |  | Greater Hamilton(Burlington) Area | 75 |

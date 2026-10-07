@@ -1,6 +1,6 @@
 # Public Contributions - DR Congo
 
-Generated: 2026-10-07T08:37:47.562Z
+Generated: 2026-10-07T09:30:10.815Z
 
 Users: 704
 
@@ -16,9 +16,9 @@ Users: 704
 | 8 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki |  | drewlionel | Kinshasa, Drc | 1201 |
 | 9 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Fordima Inc. | mlndafordi | Kinshasa, DRC | 1172 |
 | 10 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI |  |  | Kinshasa, Democratic Republic of the Congo | 1082 |
-| 11 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | McBuleli | McBuleli | Kinshasa, DR Congo | 1015 |
-| 12 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | Kin Distribution |  | DRC, Kinshasa | 933 |
-| 13 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | GOBLAIRE LTD  |  | Kinshasa | 904 |
+| 11 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | GOBLAIRE LTD  |  | Kinshasa | 1057 |
+| 12 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | McBuleli | McBuleli | Kinshasa, DR Congo | 1015 |
+| 13 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | Kin Distribution |  | DRC, Kinshasa | 933 |
 | 14 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) |  |  | KINSHASA / RD CONGO | 839 |
 | 15 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | ISIG Goma / DRC | josamuna | Democratic Republic of the Congo | 802 |
 | 16 | [silasmas](https://github.com/silasmas) | silasmas | silasdev | silasmas | kinshasa | 800 |

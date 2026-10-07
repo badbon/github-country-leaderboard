@@ -1,8 +1,8 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-07T08:43:15.627Z
+Generated: 2026-10-07T09:37:37.068Z
 
-Users: 1582
+Users: 1585
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,12 +11,12 @@ Users: 1582
 | 3 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | almiworld.com |  | iceland | 2693 |
 | 4 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 2453 |
 | 5 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 2079 |
-| 6 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Góður kóði |  | Rekjavik, Iceland | 1970 |
-| 7 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson |  |  | Reykjavík, Iceland | 1866 |
-| 8 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | @trip-to-japan  | jokull | Reykjavík, Iceland | 1774 |
-| 9 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson |  |  | Reykjavík, Iceland | 1765 |
-| 10 | [gabriel-klettur](https://github.com/gabriel-klettur) | Gabriel Roca | Selfemployer |  | Iceland, Reykjavík | 1719 |
-| 11 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson |  | pzychozen | Iceland | 1534 |
+| 6 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson |  | pzychozen | Iceland | 2015 |
+| 7 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Góður kóði |  | Rekjavik, Iceland | 1970 |
+| 8 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson |  |  | Reykjavík, Iceland | 1866 |
+| 9 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | @trip-to-japan  | jokull | Reykjavík, Iceland | 1774 |
+| 10 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson |  |  | Reykjavík, Iceland | 1765 |
+| 11 | [gabriel-klettur](https://github.com/gabriel-klettur) | Gabriel Roca | Selfemployer |  | Iceland, Reykjavík | 1719 |
 | 12 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 1496 |
 | 13 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | tunnels.is | keyb1nd | Iceland | 1301 |
 | 14 | [arividar](https://github.com/arividar) | Ari Johannesson | Andes ehf. | arividar | Reykjavik | 1294 |

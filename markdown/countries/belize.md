@@ -16,18 +16,18 @@ Indexed users: 95
 | 2 | [roock3r](https://github.com/roock3r) | Cristian Silva | Belize | 1,881 |
 | 3 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 1,742 |
 | 4 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,653 |
-| 5 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 1,615 |
-| 6 | [Jaymar](https://github.com/Jaymar) | Jaymar Zane Noralez | Belize | 1,127 |
-| 7 | [blackmambo](https://github.com/blackmambo) | Winston Hope, Jr. | Belize | 958 |
-| 8 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 925 |
-| 9 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 923 |
+| 5 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 1,504 |
+| 6 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 1,413 |
+| 7 | [blackmambo](https://github.com/blackmambo) | Winston Hope, Jr. | Belize | 1,229 |
+| 8 | [Jaymar](https://github.com/Jaymar) | Jaymar Zane Noralez | Belize | 1,127 |
+| 9 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 925 |
 | 10 | [TadeoBennett](https://github.com/TadeoBennett) | TheTechieINTJ | Belize | 895 |
 | 11 | [amirihoare](https://github.com/amirihoare) | Amiri Hoare | Belize | 722 |
 | 12 | [MounsC](https://github.com/MounsC) | Mouns | Belize | 368 |
 | 13 | [krispyre](https://github.com/krispyre) | kris | Belize | 358 |
 | 14 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | Belmopan, Belize | 341 |
-| 15 | [raycadle](https://github.com/raycadle) | Ray Cadle | Belize, C.A. | 326 |
-| 16 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers | Belize  | 317 |
+| 15 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers | Belize  | 335 |
+| 16 | [raycadle](https://github.com/raycadle) | Ray Cadle | Belize, C.A. | 326 |
 | 17 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti | San Jose Succotz, Cayo District, Belize | 311 |
 | 18 | [william-e-rubio](https://github.com/william-e-rubio) | William Rubio | Belize | 284 |
 | 19 | [JerryHamm](https://github.com/JerryHamm) | Jeremiah Hammond | Ladyville, Belize | 242 |
@@ -38,7 +38,7 @@ Indexed users: 95
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,327 |
-| 2 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 758 |
+| 2 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 783 |
 | 3 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 723 |
 | 4 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 664 |
 | 5 | [krispyre](https://github.com/krispyre) | kris | Belize | 358 |
@@ -47,12 +47,12 @@ Indexed users: 95
 | 8 | [TheGhostly41](https://github.com/TheGhostly41) | Jose Urbina | Belize | 204 |
 | 9 | [ezlosswm](https://github.com/ezlosswm) | Carlos Gomez | Belize | 151 |
 | 10 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti | San Jose Succotz, Cayo District, Belize | 104 |
-| 11 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 84 |
-| 12 | [keenanbernard](https://github.com/keenanbernard) | Keenan Bernard | Belize City, Belize | 81 |
+| 11 | [keenanbernard](https://github.com/keenanbernard) | Keenan Bernard | Belize City, Belize | 81 |
+| 12 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 80 |
 | 13 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Belize | 77 |
 | 14 | [JerryHamm](https://github.com/JerryHamm) | Jeremiah Hammond | Ladyville, Belize | 77 |
 | 15 | [Rubi3r3](https://github.com/Rubi3r3) | Rubiere Ramirez | Belize | 71 |
-| 16 | [erichanson](https://github.com/erichanson) | Eric Hanson | Belize | 55 |
+| 16 | [erichanson](https://github.com/erichanson) | Eric Hanson | Belize | 45 |
 | 17 | [GirlWhoCodes14](https://github.com/GirlWhoCodes14) | Alexis Ayuso | Belize | 42 |
 | 18 | [FranceCawich](https://github.com/FranceCawich) | Francis Cawich | Belize | 33 |
 | 19 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 26 |
@@ -63,10 +63,10 @@ Indexed users: 95
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 112 |
-| 2 | [erichanson](https://github.com/erichanson) | Eric Hanson | Belize | 37 |
+| 2 | [erichanson](https://github.com/erichanson) | Eric Hanson | Belize | 38 |
 | 3 | [Maou-Shimazu](https://github.com/Maou-Shimazu) | Eldad Danladi | Belize | 31 |
-| 4 | [extjsdev](https://github.com/extjsdev) | EXT JS LIB | Belize | 24 |
-| 5 | [Prufio](https://github.com/Prufio) | prufio | Belize City, Belize | 24 |
+| 4 | [Prufio](https://github.com/Prufio) | prufio | Belize City, Belize | 24 |
+| 5 | [extjsdev](https://github.com/extjsdev) | EXT JS LIB | Belize | 23 |
 | 6 | [TadeoBennett](https://github.com/TadeoBennett) | TheTechieINTJ | Belize | 21 |
 | 7 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 20 |
 | 8 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 17 |
@@ -81,6 +81,6 @@ Indexed users: 95
 | 17 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 | Belize City, Belize | 8 |
 | 18 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | Belize | 7 |
 | 19 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 7 |
-| 20 | [raycadle](https://github.com/raycadle) | Ray Cadle | Belize, C.A. | 7 |
+| 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
 
-Generated: 2026-10-07T08:28:17.149Z
+Generated: 2026-10-07T09:22:12.778Z

@@ -20,16 +20,16 @@ Indexed users: 535
 | 6 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,353 |
 | 7 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,128 |
 | 8 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 1,999 |
-| 9 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,798 |
-| 10 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,630 |
-| 11 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 1,617 |
-| 12 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 1,541 |
-| 13 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,452 |
-| 14 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 1,438 |
+| 9 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 1,982 |
+| 10 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,798 |
+| 11 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,630 |
+| 12 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 1,617 |
+| 13 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 1,541 |
+| 14 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,452 |
 | 15 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 1,430 |
-| 16 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 1,349 |
-| 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,324 |
-| 18 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,323 |
+| 16 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,324 |
+| 17 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,323 |
+| 18 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 1,229 |
 | 19 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 1,211 |
 | 20 | [madnyte](https://github.com/madnyte) | Motheo Keneilwe | Botswana | 1,209 |
 
@@ -42,12 +42,12 @@ Indexed users: 535
 | 3 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 1,193 |
 | 4 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Botswana 🇧🇼  | 1,038 |
 | 5 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb | Botswana  | 994 |
-| 6 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 881 |
-| 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Gaborone Botswana | 855 |
-| 8 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 843 |
-| 9 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 840 |
-| 10 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 665 |
-| 11 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 617 |
+| 6 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Gaborone Botswana | 855 |
+| 7 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 843 |
+| 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 840 |
+| 9 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 665 |
+| 10 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 617 |
+| 11 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 601 |
 | 12 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 538 |
 | 13 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 482 |
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 433 |
@@ -83,4 +83,4 @@ Indexed users: 535
 | 19 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Gaborone, Botswana | 34 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 32 |
 
-Generated: 2026-10-07T08:30:30.447Z
+Generated: 2026-10-07T09:23:13.119Z

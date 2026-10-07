@@ -1,14 +1,14 @@
 # Public Contributions - Faroe Islands
 
-Generated: 2026-10-07T08:38:35.044Z
+Generated: 2026-10-07T09:33:06.881Z
 
 Users: 66
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 1418 |
-| 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 994 |
-| 3 | [Brian-ED](https://github.com/Brian-ED) | Brian E |  |  | Faroe Islands | 990 |
+| 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 999 |
+| 3 | [Brian-ED](https://github.com/Brian-ED) | Brian E |  |  | Faroe Islands | 984 |
 | 4 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Flowcore, Gaman Games |  | Faroe Islands | 517 |
 | 5 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø |  |  | Faroe Islands | 496 |
 | 6 | [krvi](https://github.com/krvi) |  |  |  | Faroe Islands | 345 |
@@ -25,4 +25,4 @@ Users: 66
 | 17 | [michaelgyp](https://github.com/michaelgyp) | Michael Gusti Yanu Putra | BitImpact | the_mgyp | Faroe Islands | 88 |
 | 18 | [argilzar](https://github.com/argilzar) | Brian Bischoff | @globe-tracker @flowcore-io  | argilzar | Faroe Islands | 41 |
 | 19 | [djupvikdigital](https://github.com/djupvikdigital) | Reidar Djupvik |  |  | Tórshavn | 40 |
-| 20 | [BgAndreasen](https://github.com/BgAndreasen) | Birgitta Andreasen | @Fiskaaling  |  | Faroe Islands | 29 |
+| 20 | [BgAndreasen](https://github.com/BgAndreasen) | Birgitta Andreasen | @Fiskaaling  |  | Faroe Islands | 27 |

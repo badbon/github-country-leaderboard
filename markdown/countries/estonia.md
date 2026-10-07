@@ -17,21 +17,21 @@ Indexed users: 4,924
 | 3 | [kwunlokng](https://github.com/kwunlokng) | Kwun-Lok Ng | Tallinn, Estonia | 22,394 |
 | 4 | [trevorlasn](https://github.com/trevorlasn) | Trevor I. Lasn | Tartu, Estonia | 20,844 |
 | 5 | [oisincoveney](https://github.com/oisincoveney) | Oisin Coveney | Tallinn, Estonia | 15,379 |
-| 6 | [battlesnake](https://github.com/battlesnake) | Mark Cowan | Tallinn | 13,447 |
-| 7 | [kempu](https://github.com/kempu) | Klemens Arro | Estonia | 12,958 |
-| 8 | [tooming](https://github.com/tooming) | Martin Tooming | Tallinn | 12,354 |
-| 9 | [enkronos](https://github.com/enkronos) | Enkronos OÜ | Estonia | 12,330 |
-| 10 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe | Estonia | 12,300 |
-| 11 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | Estonia | 12,258 |
-| 12 | [paat](https://github.com/paat) | Andre Tšernikov | Tallinn, Estonia | 11,779 |
-| 13 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 11,549 |
-| 14 | [igorboss](https://github.com/igorboss) | Igor Bossenko | Estonia | 11,161 |
-| 15 | [lukacsaron](https://github.com/lukacsaron) | Aron Lukacs | Tallinn | 11,074 |
-| 16 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla | Tallinn | 10,790 |
-| 17 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 10,475 |
-| 18 | [Kypsis](https://github.com/Kypsis) | Harry Sild | Estonia | 10,406 |
-| 19 | [Socialpranker](https://github.com/Socialpranker) | Ion | Tallinn, Estonia | 10,228 |
-| 20 | [krishaamer](https://github.com/krishaamer) | Kris Haamer | Estonia / Portugal / Sao Tomé / Taiwan | 10,174 |
+| 6 | [LEISSON-DARKSSON](https://github.com/LEISSON-DARKSSON) | Gert Leisson | Tallinn, ESTONIA | 14,008 |
+| 7 | [battlesnake](https://github.com/battlesnake) | Mark Cowan | Tallinn | 13,447 |
+| 8 | [kempu](https://github.com/kempu) | Klemens Arro | Estonia | 12,958 |
+| 9 | [tooming](https://github.com/tooming) | Martin Tooming | Tallinn | 12,354 |
+| 10 | [enkronos](https://github.com/enkronos) | Enkronos OÜ | Estonia | 12,330 |
+| 11 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe | Estonia | 12,300 |
+| 12 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | Estonia | 12,258 |
+| 13 | [paat](https://github.com/paat) | Andre Tšernikov | Tallinn, Estonia | 11,779 |
+| 14 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 11,549 |
+| 15 | [igorboss](https://github.com/igorboss) | Igor Bossenko | Estonia | 11,161 |
+| 16 | [lukacsaron](https://github.com/lukacsaron) | Aron Lukacs | Tallinn | 11,074 |
+| 17 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla | Tallinn | 10,790 |
+| 18 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 10,475 |
+| 19 | [Kypsis](https://github.com/Kypsis) | Harry Sild | Estonia | 10,406 |
+| 20 | [Socialpranker](https://github.com/Socialpranker) | Ion | Tallinn, Estonia | 10,228 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,924
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 391 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-07T08:38:25.198Z
+Generated: 2026-10-07T09:31:45.825Z

@@ -18,7 +18,7 @@ Indexed users: 80
 | 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,437 |
 | 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,335 |
 | 6 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,292 |
-| 7 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 1,192 |
+| 7 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 1,268 |
 | 8 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 857 |
 | 9 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 740 |
 | 10 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | Banjul, The Gambia | 655 |
@@ -62,8 +62,8 @@ Indexed users: 80
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Sannabs](https://github.com/Sannabs) | Sanna BS Jammeh | Gambia banjul | 35 |
-| 2 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 34 |
+| 1 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 37 |
+| 2 | [Sannabs](https://github.com/Sannabs) | Sanna BS Jammeh | Gambia banjul | 35 |
 | 3 | [deedevs](https://github.com/deedevs) | David Ladipo | Banjul, The Gambia | 26 |
 | 4 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 26 |
 | 5 | [kamariana](https://github.com/kamariana) | A Kamariana | Brikama, Gambia | 24 |
@@ -83,4 +83,4 @@ Indexed users: 80
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-07T08:40:13.657Z
+Generated: 2026-10-07T09:35:13.606Z

@@ -1,8 +1,8 @@
 # Total Contributions - Cayman Islands
 
-Generated: 2026-10-07T08:33:50.951Z
+Generated: 2026-10-07T09:26:26.269Z
 
-Users: 124
+Users: 123
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 124
 | 15 | [dcimring](https://github.com/dcimring) | Daniel | BlackHatMedia |  | Cayman Islands | 1004 |
 | 16 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 947 |
 | 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | https://invovibetech.com/ |  | Cayman Islands | 904 |
-| 18 | [oliviathet](https://github.com/oliviathet) | Olivia Thet | lombard.finance |  | Cayman Islands | 796 |
-| 19 | [sharkzp](https://github.com/sharkzp) | Alex Topalov | @Slice |  | Cayman Islands | 771 |
-| 20 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan |  | zkhan1093 | Cayman Islands | 762 |
+| 18 | [sharkzp](https://github.com/sharkzp) | Alex Topalov | @Slice |  | Cayman Islands | 771 |
+| 19 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan |  | zkhan1093 | Cayman Islands | 716 |
+| 20 | [theblakeyg](https://github.com/theblakeyg) | theblakeyg |  |  | Cayman Islands / United Kingdom | 625 |

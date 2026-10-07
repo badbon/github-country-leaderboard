@@ -1,6 +1,6 @@
 # Iceland
 
-Indexed users: 1,582
+Indexed users: 1,585
 
 | Leaderboard | Link |
 |---|---|
@@ -42,12 +42,12 @@ Indexed users: 1,582
 | 3 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | iceland | 2,693 |
 | 4 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,453 |
 | 5 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 2,079 |
-| 6 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Rekjavik, Iceland | 1,970 |
-| 7 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 1,866 |
-| 8 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 1,774 |
-| 9 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 1,765 |
-| 10 | [gabriel-klettur](https://github.com/gabriel-klettur) | Gabriel Roca | Iceland, Reykjavík | 1,719 |
-| 11 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson | Iceland | 1,534 |
+| 6 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson | Iceland | 2,015 |
+| 7 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Rekjavik, Iceland | 1,970 |
+| 8 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 1,866 |
+| 9 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 1,774 |
+| 10 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 1,765 |
+| 11 | [gabriel-klettur](https://github.com/gabriel-klettur) | Gabriel Roca | Iceland, Reykjavík | 1,719 |
 | 12 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,496 |
 | 13 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,301 |
 | 14 | [arividar](https://github.com/arividar) | Ari Johannesson | Reykjavik | 1,294 |
@@ -83,4 +83,4 @@ Indexed users: 1,582
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 202 |
 
-Generated: 2026-10-07T08:43:15.627Z
+Generated: 2026-10-07T09:37:37.068Z

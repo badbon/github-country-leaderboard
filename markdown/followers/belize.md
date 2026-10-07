@@ -1,16 +1,16 @@
 # Followers - Belize
 
-Generated: 2026-10-07T08:28:17.149Z
+Generated: 2026-10-07T09:22:12.778Z
 
 Users: 95
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | The University of Belize |  | Belmopan, BZ | 112 |
-| 2 | [erichanson](https://github.com/erichanson) | Eric Hanson |  | erichanson | Belize | 37 |
+| 2 | [erichanson](https://github.com/erichanson) | Eric Hanson |  | erichanson | Belize | 38 |
 | 3 | [Maou-Shimazu](https://github.com/Maou-Shimazu) | Eldad Danladi |  |  | Belize | 31 |
-| 4 | [extjsdev](https://github.com/extjsdev) | EXT JS LIB | Evu |  | Belize | 24 |
-| 5 | [Prufio](https://github.com/Prufio) | prufio | pruf.io | prufteam | Belize City, Belize | 24 |
+| 4 | [Prufio](https://github.com/Prufio) | prufio | pruf.io | prufteam | Belize City, Belize | 24 |
+| 5 | [extjsdev](https://github.com/extjsdev) | EXT JS LIB | Evu |  | Belize | 23 |
 | 6 | [TadeoBennett](https://github.com/TadeoBennett) | TheTechieINTJ | Statistical Institute of Belize |  | Belize | 21 |
 | 7 | [jimidle](https://github.com/jimidle) | Jim Idle | @databrickslabs  |  | Hopkins, Belize | 20 |
 | 8 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | University of Belize |  | Belmopan, Belize | 17 |
@@ -25,4 +25,4 @@ Users: 95
 | 17 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 |  | AlexRiv007 | Belize City, Belize | 8 |
 | 18 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | CybCSec  |  | Belize | 7 |
 | 19 | [happyherp](https://github.com/happyherp) | Carlos Freund | Self Employed |  | Belize | 7 |
-| 20 | [raycadle](https://github.com/raycadle) | Ray Cadle |  |  | Belize, C.A. | 7 |
+| 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | University of Belize |  | Belmopan City | 7 |

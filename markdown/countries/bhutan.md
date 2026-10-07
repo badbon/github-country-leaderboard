@@ -26,9 +26,9 @@ Indexed users: 270
 | 12 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 1,949 |
 | 13 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 1,924 |
 | 14 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk | Thimphu, Bhutan | 1,826 |
-| 15 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,818 |
-| 16 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 1,788 |
-| 17 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Bhutan | 1,771 |
+| 15 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Bhutan | 1,825 |
+| 16 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,818 |
+| 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 1,788 |
 | 18 | [karmatenzi](https://github.com/karmatenzi) | Karma Tenzin | thimphu | 1,689 |
 | 19 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | Thimphu, Bhutan | 1,581 |
 | 20 | [KarmaTensel](https://github.com/KarmaTensel) | ice | Bhutan | 1,562 |
@@ -83,4 +83,4 @@ Indexed users: 270
 | 19 | [EshanB101](https://github.com/EshanB101) | Eshan Basnet | Thimphu, Bhutan | 22 |
 | 20 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-07T08:30:19.864Z
+Generated: 2026-10-07T09:22:57.366Z

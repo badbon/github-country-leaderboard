@@ -31,7 +31,7 @@ Indexed users: 329
 | 17 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 481 |
 | 18 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 481 |
 | 19 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 419 |
-| 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy | Fiji | 376 |
+| 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy | Fiji | 399 |
 
 ## Public Contributions
 
@@ -54,9 +54,9 @@ Indexed users: 329
 | 15 | [xue1213888](https://github.com/xue1213888) | XueSichen | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 144 |
 | 16 | [Neikumata](https://github.com/Neikumata) | yangyeqin | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 134 |
 | 17 | [Arishneel-Narayan](https://github.com/Arishneel-Narayan) | Arishneel Sagar Narayan | Fiji  | 129 |
-| 18 | [mucsbr](https://github.com/mucsbr) | beingS | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 96 |
-| 19 | [NotPranshu](https://github.com/NotPranshu) | Pranshu Ayush | Fiji | 88 |
-| 20 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 86 |
+| 18 | [LangfordKuo](https://github.com/LangfordKuo) | Langford | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 111 |
+| 19 | [NotPranshu](https://github.com/NotPranshu) | Pranshu Ayush | Fiji | 108 |
+| 20 | [mucsbr](https://github.com/mucsbr) | beingS | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 96 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 329
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 20 |
 | 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
 
-Generated: 2026-10-07T08:38:37.915Z
+Generated: 2026-10-07T09:34:00.843Z

@@ -44,8 +44,8 @@ Indexed users: 565
 | 5 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho | Cape Verde | 551 |
 | 6 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  | Praia grande - sp | 542 |
 | 7 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 522 |
-| 8 | [IgorBern02](https://github.com/IgorBern02) | Igor Bernardes | Praia Grande - SP | 521 |
-| 9 | [Mateuus](https://github.com/Mateuus) | Mateuus | Praia Grande - SP | 482 |
+| 8 | [Mateuus](https://github.com/Mateuus) | Mateuus | Praia Grande - SP | 482 |
+| 9 | [IgorBern02](https://github.com/IgorBern02) | Igor Bernardes | Praia Grande - SP | 414 |
 | 10 | [anaximeno](https://github.com/anaximeno) | Anaxímeno Brito | Cape Verde | 405 |
 | 11 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Praia Grande | 401 |
 | 12 | [Coyas](https://github.com/Coyas) | Ailton Duarte | Praia, Cabo Verde | 364 |
@@ -55,8 +55,8 @@ Indexed users: 565
 | 16 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 240 |
 | 17 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo | Praia Grande - SP | 240 |
 | 18 | [thisisleobro](https://github.com/thisisleobro) | Leo Carvalho | Cape Verde | 210 |
-| 19 | [Laysabernardes](https://github.com/Laysabernardes) | Laysa Bernardes | Praia Grande -SP | 201 |
-| 20 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 185 |
+| 19 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 185 |
+| 20 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 182 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 565
 | 19 | [KaiqueLusvarghi](https://github.com/KaiqueLusvarghi) | Kaique Ortolani Lusvarghi | Praia Grande -SP | 58 |
 | 20 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 
-Generated: 2026-10-07T08:33:21.612Z
+Generated: 2026-10-07T09:26:16.146Z

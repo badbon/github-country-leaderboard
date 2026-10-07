@@ -13,8 +13,8 @@ Indexed users: 2,139
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kemo](https://github.com/kemo) |  | Sarajevo, Bosnia and Herzegovina | 9,780 |
-| 2 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 6,567 |
-| 3 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić | Sarajevo | 6,184 |
+| 2 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić | Sarajevo | 6,184 |
+| 3 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,896 |
 | 4 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic | Banjaluka, Bosnia and Herzegovina | 5,803 |
 | 5 | [newPrimitives](https://github.com/newPrimitives) | Nermin Šehić | Bosnia and Herzegovina | 5,790 |
 | 6 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 5,749 |
@@ -37,7 +37,7 @@ Indexed users: 2,139
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 6,456 |
+| 1 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,766 |
 | 2 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 2,950 |
 | 3 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 2,647 |
 | 4 | [goran1010](https://github.com/goran1010) | Goran Jović | Banja Luka, Bosnia and Herzegovina | 2,306 |
@@ -83,4 +83,4 @@ Indexed users: 2,139
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-07T08:30:26.901Z
+Generated: 2026-10-07T09:23:10.203Z

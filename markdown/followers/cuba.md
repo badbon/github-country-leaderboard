@@ -1,19 +1,19 @@
 # Followers - Cuba
 
-Generated: 2026-10-07T08:36:18.670Z
+Generated: 2026-10-07T09:29:07.934Z
 
-Users: 1296
+Users: 1294
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [apiad](https://github.com/apiad) | Alejandro Piad | University of Havana (@matcom) | alepiad | Cuba | 450 |
 | 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo |  |  | Cuba | 392 |
 | 3 | [GamerHack](https://github.com/GamerHack) |  |  | GamerHack93 | Cuba | 170 |
-| 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro | Avangenio |  | La Habana, Cuba | 146 |
+| 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro |  |  | La Habana, Cuba | 143 |
 | 5 | [rodnye](https://github.com/rodnye) | Rodny Estrada | @cujaeredsocial | rodnyecode | La Habana, Cuba | 142 |
 | 6 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 134 |
-| 7 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | CUJAE  |  | La Habana, Cuba | 133 |
-| 8 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Illinois Natural History Survey |  | Havana, IL  | 127 |
+| 7 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Illinois Natural History Survey |  | Havana, IL  | 127 |
+| 8 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | CUJAE  |  | La Habana, Cuba | 127 |
 | 9 | [yudivian](https://github.com/yudivian) | Yudivián Almeida Cruz | Universidad de La Habana |  | La Habana, Cuba | 115 |
 | 10 | [vircoding](https://github.com/vircoding) | Luis Miguel Navarro |  | vircoding | La Habana, Cuba | 111 |
 | 11 | [CJPD00](https://github.com/CJPD00) | CJPD00 |  |  | Cuba | 109 |

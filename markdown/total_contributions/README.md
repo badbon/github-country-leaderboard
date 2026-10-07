@@ -27,7 +27,7 @@ Published countries: 234
 | Belgium | 18,403 | [View](./belgium.md) |
 | Belize | 95 | [View](./belize.md) |
 | Benin | 474 | [View](./benin.md) |
-| Bermuda | 914 | [View](./bermuda.md) |
+| Bermuda | 911 | [View](./bermuda.md) |
 | Bhutan | 270 | [View](./bhutan.md) |
 | Bolivia | 1,793 | [View](./bolivia.md) |
 | Bosnia and Herzegovina | 2,139 | [View](./bosnia_and_herzegovina.md) |
@@ -36,14 +36,14 @@ Published countries: 234
 | British Indian Ocean Territory | 3 | [View](./british_indian_ocean_territory.md) |
 | British Virgin Islands | 38 | [View](./british_virgin_islands.md) |
 | Brunei | 256 | [View](./brunei.md) |
-| Bulgaria | 14,090 | [View](./bulgaria.md) |
+| Bulgaria | 14,089 | [View](./bulgaria.md) |
 | Burkina Faso | 484 | [View](./burkina_faso.md) |
-| Burundi | 237 | [View](./burundi.md) |
+| Burundi | 236 | [View](./burundi.md) |
 | Cambodia | 2,884 | [View](./cambodia.md) |
 | Cameroon | 1,809 | [View](./cameroon.md) |
 | Cape Verde | 565 | [View](./cape_verde.md) |
 | Caribbean Netherlands | 14 | [View](./caribbean_netherlands.md) |
-| Cayman Islands | 124 | [View](./cayman_islands.md) |
+| Cayman Islands | 123 | [View](./cayman_islands.md) |
 | Central African Republic | 11 | [View](./central_african_republic.md) |
 | Chad | 201 | [View](./chad.md) |
 | Chile | 19,408 | [View](./chile.md) |
@@ -53,42 +53,42 @@ Published countries: 234
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 7 | [View](./cook_islands.md) |
 | Costa Rica | 5,646 | [View](./costa_rica.md) |
-| Croatia | 5,448 | [View](./croatia.md) |
-| Cuba | 1,296 | [View](./cuba.md) |
+| Croatia | 5,447 | [View](./croatia.md) |
+| Cuba | 1,294 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
-| Cyprus | 2,749 | [View](./cyprus.md) |
-| Czechia | 16,204 | [View](./czechia.md) |
+| Cyprus | 2,748 | [View](./cyprus.md) |
+| Czechia | 16,203 | [View](./czechia.md) |
 | Denmark | 19,300 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
-| Dominican Republic | 3,308 | [View](./dominican_republic.md) |
+| Dominican Republic | 3,307 | [View](./dominican_republic.md) |
 | DR Congo | 704 | [View](./dr_congo.md) |
-| Ecuador | 4,902 | [View](./ecuador.md) |
-| Egypt | 33,947 | [View](./egypt.md) |
-| El Salvador | 2,393 | [View](./el_salvador.md) |
+| Ecuador | 4,901 | [View](./ecuador.md) |
+| Egypt | 33,946 | [View](./egypt.md) |
+| El Salvador | 2,392 | [View](./el_salvador.md) |
 | Equatorial Guinea | 21 | [View](./equatorial_guinea.md) |
 | Eritrea | 17 | [View](./eritrea.md) |
 | Estonia | 4,924 | [View](./estonia.md) |
 | Eswatini | 108 | [View](./eswatini.md) |
-| Ethiopia | 6,691 | [View](./ethiopia.md) |
+| Ethiopia | 6,690 | [View](./ethiopia.md) |
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
 | Faroe Islands | 66 | [View](./faroe_islands.md) |
 | Fiji | 329 | [View](./fiji.md) |
-| Finland | 18,166 | [View](./finland.md) |
+| Finland | 18,164 | [View](./finland.md) |
 | French Guiana | 36 | [View](./french_guiana.md) |
 | French Polynesia | 60 | [View](./french_polynesia.md) |
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
 | Gabon | 315 | [View](./gabon.md) |
 | Gambia | 80 | [View](./gambia.md) |
 | Georgia | 6,886 | [View](./georgia.md) |
-| Ghana | 7,097 | [View](./ghana.md) |
+| Ghana | 7,096 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
-| Greece | 15,567 | [View](./greece.md) |
+| Greece | 15,566 | [View](./greece.md) |
 | Greenland | 59 | [View](./greenland.md) |
 | Grenada | 38 | [View](./grenada.md) |
 | Guadeloupe | 87 | [View](./guadeloupe.md) |
 | Guam | 48 | [View](./guam.md) |
-| Guatemala | 3,234 | [View](./guatemala.md) |
+| Guatemala | 3,233 | [View](./guatemala.md) |
 | Guernsey | 45 | [View](./guernsey.md) |
 | Guinea | 265 | [View](./guinea.md) |
 | Guinea-Bissau | 22 | [View](./guinea_bissau.md) |
@@ -97,16 +97,16 @@ Published countries: 234
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,268 | [View](./honduras.md) |
 | Hong Kong | 10,323 | [View](./hong_kong.md) |
-| Hungary | 11,200 | [View](./hungary.md) |
-| Iceland | 1,582 | [View](./iceland.md) |
-| Indonesia | 63,157 | [View](./indonesia.md) |
-| Iran | 26,702 | [View](./iran.md) |
-| Iraq | 2,254 | [View](./iraq.md) |
-| Ireland | 19,531 | [View](./ireland.md) |
+| Hungary | 11,199 | [View](./hungary.md) |
+| Iceland | 1,585 | [View](./iceland.md) |
+| Indonesia | 63,156 | [View](./indonesia.md) |
+| Iran | 26,700 | [View](./iran.md) |
+| Iraq | 2,253 | [View](./iraq.md) |
+| Ireland | 19,529 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,437 | [View](./israel.md) |
-| Ivory Coast | 487 | [View](./ivory_coast.md) |
-| Jamaica | 1,287 | [View](./jamaica.md) |
+| Ivory Coast | 490 | [View](./ivory_coast.md) |
+| Jamaica | 1,286 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 4,032 | [View](./jordan.md) |
 | Kazakhstan | 5,680 | [View](./kazakhstan.md) |
@@ -169,7 +169,7 @@ Published countries: 234
 | Peru | 9,792 | [View](./peru.md) |
 | Philippines | 19,762 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Portugal | 28,438 | [View](./portugal.md) |
+| Portugal | 28,437 | [View](./portugal.md) |
 | Puerto Rico | 1,550 | [View](./puerto_rico.md) |
 | Qatar | 1,078 | [View](./qatar.md) |
 | Republic of the Congo | 299 | [View](./republic_of_the_congo.md) |
@@ -218,7 +218,7 @@ Published countries: 234
 | Tonga | 9 | [View](./tonga.md) |
 | Trinidad and Tobago | 257 | [View](./trinidad_and_tobago.md) |
 | Tunisia | 7,204 | [View](./tunisia.md) |
-| Turkey | 79,058 | [View](./turkey.md) |
+| Turkey | 79,059 | [View](./turkey.md) |
 | Turkmenistan | 501 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,346 | [View](./zambia.md) |
 | Zimbabwe | 1,658 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-07T09:21:46.316Z
+Generated: 2026-10-07T09:40:39.445Z

@@ -1,6 +1,6 @@
 # Total Contributions - Chad
 
-Generated: 2026-10-07T08:33:56.225Z
+Generated: 2026-10-07T09:27:02.254Z
 
 Users: 201
 
@@ -11,11 +11,11 @@ Users: 201
 | 3 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 644 |
 | 4 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | ACREMAC \| Informastre | baa_pel | TCHAD | 546 |
 | 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TchadiCash | MahamatCherifI4 | TCHAD | 451 |
-| 6 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 345 |
-| 7 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tikego |  | Tchad | 243 |
-| 8 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 241 |
-| 9 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 233 |
-| 10 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
+| 6 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tikego |  | Tchad | 243 |
+| 7 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 241 |
+| 8 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 233 |
+| 9 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
+| 10 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 179 |
 | 11 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 155 |
 | 12 | [mittb1g](https://github.com/mittb1g) |  |  |  | Chad | 148 |
 | 13 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 135 |

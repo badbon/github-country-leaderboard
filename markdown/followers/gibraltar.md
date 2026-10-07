@@ -1,19 +1,19 @@
 # Followers - Gibraltar
 
-Generated: 2026-10-07T08:40:19.488Z
+Generated: 2026-10-07T09:35:21.568Z
 
 Users: 93
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 579 |
+| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 580 |
 | 2 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | @guestbell  |  | Gibraltar | 86 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 72 |
 | 4 | [sloancameron](https://github.com/sloancameron) | valley / bernadette | @eijiromantic <- also me! |  | watchpoint gibraltar | 38 |
 | 5 | [docziegler](https://github.com/docziegler) | star | overwatch |  | watchpoint gibraltar | 35 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C |  |  | Gibraltar | 33 |
 | 7 | [cdharris](https://github.com/cdharris) | Chris Harris |  | hellokozmo | Berlin / Europe / Gibraltar | 31 |
-| 8 | [carribus](https://github.com/carribus) | Peter Mares |  |  | Gibraltar | 29 |
+| 8 | [carribus](https://github.com/carribus) | Peter Mares |  |  | Gibraltar | 28 |
 | 9 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk |  |  | Gibraltar | 28 |
 | 10 | [ileghlam](https://github.com/ileghlam) | Leghlam Ishak |  |  | Gibraltar | 26 |
 | 11 | [luciomafia](https://github.com/luciomafia) | ─ RUM / MAYHEM ! | 𓏲𝄢  OVERWATCH . . . |  | 𖠊  WATCHPOINT GIBRALTAR . . . | 25 |
