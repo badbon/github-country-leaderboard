@@ -4,7 +4,7 @@ export async function waitForRateLimit(error, sleep = defaultSleep) {
     return true;
   }
 
-  if (error.reset) {
+  if (error.reset && (error.status === 403 || error.status === 429)) {
     const resetMs = Number(error.reset) * 1000;
     const delay = Math.max(0, resetMs - Date.now()) + 1000;
     await sleep(delay);
