@@ -2047,7 +2047,7 @@
     "company": "Ministry of Health",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 48,
+    "privateContributions": 30,
     "publicContributions": 2,
     "createdAt": "2016-02-05T04:57:24Z"
   },
@@ -2071,8 +2071,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 8,
-    "publicContributions": 8,
+    "privateContributions": 177,
+    "publicContributions": 0,
     "createdAt": "2016-07-29T07:42:38Z"
   },
   {
@@ -2098,18 +2098,6 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2016-06-07T20:49:27Z"
-  },
-  {
-    "login": "carlossilvatbh",
-    "name": "Carlos Silva",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16957545?s=72&v=4",
-    "location": "Bahamas",
-    "company": "BTS Global",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 17,
-    "createdAt": "2016-01-29T13:35:28Z"
   },
   {
     "login": "cloudcarib-developers",

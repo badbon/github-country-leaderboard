@@ -1645,14 +1645,14 @@
   },
   {
     "login": "LoopedAgent",
-    "name": "Looped Agent",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269673000?s=72&u=b30f1edd050e384b3c66d4b9bd18e46b6df67d55&v=4",
+    "name": "Loopy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/269673000?s=72&u=69e250e81e0b9fdc7bc8108e1a259e137bc7cc54&v=4",
     "location": "Cape Town, South Africa",
     "company": "@loopedautomation",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 53,
     "createdAt": "2026-03-20T08:11:16Z"
   },
   {
@@ -1686,9 +1686,9 @@
     "location": "Johannesburg, South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 205,
     "createdAt": "2026-03-21T18:20:30Z"
   },
   {
@@ -1700,7 +1700,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 8,
     "createdAt": "2026-03-10T19:11:57Z"
   },
   {
@@ -1724,7 +1724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 17,
     "createdAt": "2026-01-19T14:27:38Z"
   },
   {
@@ -1758,7 +1758,7 @@
     "location": "Africa, global, South Africa,Centurion, Online",
     "company": "Ionity (Pty) Ltd",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2026-04-21T21:46:00Z"
@@ -1771,8 +1771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 122,
-    "publicContributions": 52,
+    "privateContributions": 179,
+    "publicContributions": 54,
     "createdAt": "2026-03-09T15:38:53Z"
   },
   {
@@ -1784,7 +1784,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 269,
+    "publicContributions": 307,
     "createdAt": "2026-01-13T16:38:10Z"
   },
   {
@@ -1794,9 +1794,9 @@
     "location": "Cape Town, South Africa",
     "company": "@Microsoft @xamarin @mono @monogame",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 44,
     "createdAt": "2026-01-21T13:25:49Z"
   },
   {
@@ -1820,20 +1820,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 102,
     "createdAt": "2026-03-04T17:39:21Z"
-  },
-  {
-    "login": "tphorosi99",
-    "name": "Tphorosi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/268557406?s=72&u=f1c80cb9fa51088b49f42b5f646fb352085633d9&v=4",
-    "location": "south Africa ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2026-03-16T08:39:17Z"
   },
   {
     "login": "aprealmadiseng-gif",

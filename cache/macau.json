@@ -1608,18 +1608,6 @@
     "createdAt": "2021-11-20T13:57:51Z"
   },
   {
-    "login": "LeeJMJM",
-    "name": "LeeJMJM",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93640564?s=72&u=8efd8c742cdbbdd83693efe13ee3a6dd1aba285f&v=4",
-    "location": "Macau",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2021-11-03T07:02:02Z"
-  },
-  {
     "login": "fcbfcb1998",
     "name": "FENG Chenbin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84262919?s=72&u=e43c2ff094f91c87d577340d0d2025e40b4a8d13&v=4",
@@ -1628,7 +1616,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 29,
     "createdAt": "2021-05-16T06:34:25Z"
   },
   {
@@ -1638,9 +1626,9 @@
     "location": "Macau",
     "company": "University of Macau",
     "twitterUsername": "CureallL",
-    "followers": 4,
-    "privateContributions": 139,
-    "publicContributions": 14,
+    "followers": 5,
+    "privateContributions": 163,
+    "publicContributions": 47,
     "createdAt": "2021-05-27T03:46:34Z"
   },
   {
@@ -1675,7 +1663,7 @@
     "company": "University of Macau",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 120,
+    "privateContributions": 184,
     "publicContributions": 54,
     "createdAt": "2021-11-26T17:43:28Z"
   },
@@ -1686,9 +1674,9 @@
     "location": "Macau",
     "company": "University of Macau",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 16,
     "createdAt": "2021-04-25T09:52:21Z"
   },
   {
@@ -1700,7 +1688,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2021-07-15T03:03:13Z"
   },
   {
@@ -1724,7 +1712,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 44,
     "createdAt": "2021-09-05T15:17:02Z"
   },
   {
@@ -1752,18 +1740,6 @@
     "createdAt": "2021-01-23T06:41:49Z"
   },
   {
-    "login": "ariel-lee-1023",
-    "name": "Ariel Lee",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92831348?s=72&u=acfcf889e01de2666d1b0a211d2e414d9f3aff8d&v=4",
-    "location": "Macau",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 678,
-    "createdAt": "2021-10-19T23:38:13Z"
-  },
-  {
     "login": "YKunlee",
     "name": "Leo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93961653?s=72&u=7f9b963a564876a81c328c56c8af293d39c42808&v=4",
@@ -1771,8 +1747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 464,
-    "publicContributions": 44,
+    "privateContributions": 453,
+    "publicContributions": 45,
     "createdAt": "2021-11-09T03:16:00Z"
   },
   {

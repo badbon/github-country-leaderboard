@@ -1608,18 +1608,6 @@
     "createdAt": "2025-11-28T16:42:55Z"
   },
   {
-    "login": "nyzbk",
-    "name": "nyzbkw",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/202585921?s=72&v=4",
-    "location": "Kazakhstan",
-    "company": "Ultimatum agency",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 24,
-    "createdAt": "2025-03-10T04:41:31Z"
-  },
-  {
     "login": "Muff1nNotFound",
     "name": "silent screams",
     "avatarUrl": "https://avatars.githubusercontent.com/u/209272316?s=72&u=ebe764e2f4c5d0ade8dd198399a1eb8d68057ad4&v=4",
@@ -1628,7 +1616,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2025-04-26T17:18:38Z"
   },
   {
@@ -1640,7 +1628,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 141,
     "createdAt": "2025-10-08T14:45:42Z"
   },
   {
@@ -1662,15 +1650,15 @@
     "location": "Kazakhstan , Astana ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 37,
     "createdAt": "2025-12-09T15:52:52Z"
   },
   {
     "login": "Nurbolovna",
     "name": "Nuray",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197662569?s=72&u=84c590d22374bc18806075c27ec75075882c31b7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197662569?s=72&v=4",
     "location": "Astana, Kazakhstan",
     "company": "",
     "twitterUsername": "",
@@ -1688,7 +1676,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2025-09-03T15:00:55Z"
   },
   {
@@ -1699,7 +1687,7 @@
     "company": "inDrive",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 249,
+    "privateContributions": 265,
     "publicContributions": 0,
     "createdAt": "2025-06-05T05:37:55Z"
   },
@@ -1710,9 +1698,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 45,
     "createdAt": "2025-06-30T16:40:47Z"
   },
   {
@@ -1724,7 +1712,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 336,
+    "publicContributions": 337,
     "createdAt": "2025-03-07T16:16:33Z"
   },
   {
@@ -1734,9 +1722,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 86,
     "createdAt": "2025-01-26T22:23:25Z"
   },
   {
@@ -1748,7 +1736,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2025-09-22T06:54:00Z"
   },
   {
@@ -1784,7 +1772,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 77,
     "createdAt": "2025-09-17T14:07:03Z"
   },
   {
@@ -1796,29 +1784,17 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 20,
     "createdAt": "2025-01-13T10:35:07Z"
-  },
-  {
-    "login": "unpostal",
-    "name": "unpostal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195820483?s=72&u=9a978fb4e0338733464b1aa20bb107e5d215e13b&v=4",
-    "location": "Astana, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 31,
-    "createdAt": "2025-01-20T20:45:33Z"
   },
   {
     "login": "akhmk",
     "name": "erenygr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195854453?s=72&u=452540a46cfad3ba3ac5f1673e0d8673c6ea4dfa&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195854453?s=72&u=b3473e9529f331aa69f84fce39bea036d0f3c8f8&v=4",
     "location": "Astana, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2025-01-21T05:13:47Z"

@@ -1700,7 +1700,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 101,
     "createdAt": "2022-02-26T00:24:55Z"
   },
   {
@@ -1722,7 +1722,7 @@
     "location": "Bamako",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-09T08:46:31Z"
@@ -1772,7 +1772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2022-02-10T20:30:05Z"
   },
   {
@@ -1806,22 +1806,10 @@
     "location": "Mali",
     "company": "THL Technologies",
     "twitterUsername": "ibrahimkelly99",
-    "followers": 186,
-    "privateContributions": 1148,
-    "publicContributions": 9,
+    "followers": 195,
+    "privateContributions": 726,
+    "publicContributions": 10,
     "createdAt": "2021-11-10T18:06:38Z"
-  },
-  {
-    "login": "mdodakitabs",
-    "name": "Mohamed Diakite",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81302077?s=72&u=aabde00a9b92ae6a6ae51799de0a09416fcf66a2&v=4",
-    "location": "Mali",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 0,
-    "publicContributions": 115,
-    "createdAt": "2021-03-24T10:54:00Z"
   },
   {
     "login": "AlyKonte",
@@ -1842,9 +1830,9 @@
     "location": "Mali",
     "company": "Thl Technologies",
     "twitterUsername": "riyuk_1",
-    "followers": 22,
-    "privateContributions": 2012,
-    "publicContributions": 35,
+    "followers": 23,
+    "privateContributions": 2297,
+    "publicContributions": 36,
     "createdAt": "2021-01-25T14:46:56Z"
   },
   {
@@ -1854,7 +1842,7 @@
     "location": "Bamako, Mali",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2021-03-27T09:02:11Z"
@@ -1866,7 +1854,7 @@
     "location": "Mali",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-10T15:40:58Z"
@@ -1903,7 +1891,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1780,
+    "privateContributions": 1680,
     "publicContributions": 72,
     "createdAt": "2021-12-02T15:24:22Z"
   },

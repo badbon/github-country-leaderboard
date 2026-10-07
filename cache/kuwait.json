@@ -1436,7 +1436,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-03-28T07:30:12Z"
   },
   {
@@ -1460,7 +1460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2023-04-01T02:23:58Z"
   },
   {
@@ -1494,9 +1494,9 @@
     "location": "Kuwait",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 75,
-    "publicContributions": 164,
+    "publicContributions": 181,
     "createdAt": "2023-05-13T23:01:07Z"
   },
   {
@@ -1518,9 +1518,9 @@
     "location": "Kuwait",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 297,
+    "publicContributions": 332,
     "createdAt": "2023-08-07T08:13:41Z"
   },
   {
@@ -1580,7 +1580,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2023-11-10T09:58:40Z"
   },
   {
@@ -1614,7 +1614,7 @@
     "location": "Kuwait",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2023-12-23T13:25:26Z"
@@ -1626,34 +1626,22 @@
     "location": "kuwait",
     "company": "company cpmk",
     "twitterUsername": "mohmedmohsenel",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2022-05-20T09:55:48Z"
   },
   {
     "login": "mbn0",
-    "name": "Mohamad Noureddine",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99621096?s=72&u=6e5938330929021f65e0234531d379da042dfd91&v=4",
+    "name": "mbn0",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99621096?s=72&u=8185ed3760d8e22ad52319cafd70ad9081ab38cb&v=4",
     "location": "Kuwait",
     "company": "Diyar United Company",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 28,
-    "publicContributions": 17,
+    "followers": 17,
+    "privateContributions": 46,
+    "publicContributions": 8,
     "createdAt": "2022-02-13T22:46:00Z"
-  },
-  {
-    "login": "AhmadAlidlbi",
-    "name": "Ahmad Alidlbi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113710525?s=72&u=e6d3f60657e6daeefc248bf9c0edb1bc839f196a&v=4",
-    "location": "Kuwait",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 232,
-    "publicContributions": 172,
-    "createdAt": "2022-09-16T16:04:28Z"
   },
   {
     "login": "muhammedh-shadir",

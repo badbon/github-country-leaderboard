@@ -1675,8 +1675,8 @@
     "company": "My Planet Technology Limited",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2151,
-    "publicContributions": 20,
+    "privateContributions": 1980,
+    "publicContributions": 12,
     "createdAt": "2023-01-14T19:58:13Z"
   },
   {
@@ -1686,21 +1686,21 @@
     "location": "Valletta",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 220,
+    "followers": 3,
+    "privateContributions": 601,
     "publicContributions": 56,
     "createdAt": "2023-10-10T08:28:39Z"
   },
   {
     "login": "mandyfarrugia",
     "name": "Mandy Farrugia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107984232?s=72&u=ee18d599efca1277dede0deecb96badeb1257ebb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107984232?s=72&u=79e0a551eb1d5dd6ce37681e878c69f314ff135e&v=4",
     "location": "Malta",
     "company": "MCAST IICT, Paola",
     "twitterUsername": "",
-    "followers": 331,
+    "followers": 366,
     "privateContributions": 123,
-    "publicContributions": 476,
+    "publicContributions": 458,
     "createdAt": "2022-06-22T07:08:00Z"
   },
   {
@@ -1710,7 +1710,7 @@
     "location": "Malta",
     "company": "Live Casino Gaming",
     "twitterUsername": "",
-    "followers": 59,
+    "followers": 57,
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2022-11-01T18:23:20Z"
@@ -1722,7 +1722,7 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 44,
+    "followers": 43,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-08T21:33:26Z"
@@ -1734,9 +1734,9 @@
     "location": "Malta",
     "company": "University of Malta",
     "twitterUsername": "MatthiasBar6",
-    "followers": 42,
+    "followers": 41,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 17,
     "createdAt": "2022-04-08T09:19:00Z"
   },
   {
@@ -1746,21 +1746,21 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 52,
     "createdAt": "2022-01-10T18:53:49Z"
   },
   {
     "login": "angusgee",
-    "name": "shark3y",
+    "name": "Angus Girvan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108215590?s=72&u=3c5ce526102d3758306ba6c6cfb41541d1b74b6b&v=4",
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 3258,
-    "publicContributions": 63,
+    "followers": 27,
+    "privateContributions": 7464,
+    "publicContributions": 110,
     "createdAt": "2022-06-26T08:39:37Z"
   },
   {
@@ -1794,14 +1794,14 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 3842,
-    "publicContributions": 578,
+    "followers": 20,
+    "privateContributions": 5001,
+    "publicContributions": 639,
     "createdAt": "2022-03-27T13:45:10Z"
   },
   {
     "login": "Berkay-Aykose",
-    "name": "Berkay Veysel Ayköse",
+    "name": "Berkay Mattéo Aykose",
     "avatarUrl": "https://avatars.githubusercontent.com/u/98065247?s=72&u=bafff0b795803bfa4d02264813c5345c59c334a2&v=4",
     "location": "Malta",
     "company": "Pamukkale University",
@@ -1818,9 +1818,9 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 871,
-    "publicContributions": 163,
+    "followers": 13,
+    "privateContributions": 3256,
+    "publicContributions": 748,
     "createdAt": "2022-07-18T18:58:39Z"
   },
   {
@@ -1830,8 +1830,8 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 480,
+    "followers": 13,
+    "privateContributions": 504,
     "publicContributions": 0,
     "createdAt": "2022-01-28T17:13:30Z"
   },
@@ -1844,7 +1844,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 50,
     "createdAt": "2022-10-21T18:57:47Z"
   },
   {
@@ -1854,9 +1854,9 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 268,
+    "publicContributions": 452,
     "createdAt": "2022-03-28T20:53:32Z"
   },
   {
@@ -1890,9 +1890,9 @@
     "location": "Malta",
     "company": "University of Malta",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 34,
-    "publicContributions": 417,
+    "followers": 10,
+    "privateContributions": 17,
+    "publicContributions": 414,
     "createdAt": "2022-11-25T09:01:33Z"
   },
   {

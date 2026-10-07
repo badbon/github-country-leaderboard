@@ -1903,21 +1903,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 39,
-    "publicContributions": 1,
+    "privateContributions": 41,
+    "publicContributions": 3,
     "createdAt": "2023-09-26T15:15:20Z"
-  },
-  {
-    "login": "J73809",
-    "name": "j7",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143880965?s=72&u=a2c43c6b2455d049d313c8c1229c365fe9e66c98&v=4",
-    "location": "Albania",
-    "company": "none",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 13,
-    "publicContributions": 73,
-    "createdAt": "2023-09-02T11:41:31Z"
   },
   {
     "login": "FabjanMalo",
@@ -1969,14 +1957,14 @@
   },
   {
     "login": "mirkosio",
-    "name": "Mirko",
+    "name": "Mirko Gagu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/141582169?s=72&u=dd778901c3bde7659afa3c16c1241cb5910dabbf&v=4",
     "location": "Italy/Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 43,
     "createdAt": "2023-08-06T18:42:07Z"
   },
   {
@@ -2011,19 +1999,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 29,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2023-11-17T12:05:02Z"
   },
   {
     "login": "xhenicoding",
     "name": "Xheni Rapushaj",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121816324?s=72&u=b2e7ae9115e05bb808e78a5a0ddf366cd026cb5f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121816324?s=72&u=3c0745a0c90111317ae77f5da2238d18666c903e&v=4",
     "location": "Albania",
     "company": "Assist Digital",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 186,
+    "privateContributions": 166,
     "publicContributions": 17,
     "createdAt": "2023-01-02T16:01:21Z"
   },
@@ -2036,7 +2024,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-06-06T23:37:22Z"
   },
   {
@@ -2047,8 +2035,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 36,
+    "publicContributions": 1,
     "createdAt": "2023-05-10T14:31:13Z"
   },
   {
@@ -2058,7 +2046,7 @@
     "location": "Albania",
     "company": "Tyros Digital Agency",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-24T21:14:14Z"
@@ -2082,9 +2070,9 @@
     "location": "Tirana, Albania",
     "company": "Radant Ai",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 889,
-    "publicContributions": 30,
+    "followers": 3,
+    "privateContributions": 1235,
+    "publicContributions": 36,
     "createdAt": "2023-12-21T14:52:43Z"
   },
   {
@@ -2096,7 +2084,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-10-19T07:41:51Z"
   },
   {
@@ -2108,7 +2096,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2023-05-08T17:42:54Z"
   },
   {
@@ -2120,7 +2108,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 1,
     "createdAt": "2023-08-28T21:37:59Z"
   },
   {

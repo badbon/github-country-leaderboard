@@ -1664,7 +1664,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 97,
     "createdAt": "2022-07-20T14:04:57Z"
   },
   {
@@ -1711,7 +1711,7 @@
     "company": "Go Digital Services",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 8,
+    "privateContributions": 10,
     "publicContributions": 1,
     "createdAt": "2022-10-20T09:10:02Z"
   },
@@ -1723,8 +1723,8 @@
     "company": "@Right-For-Advanced-Businesses ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 259,
-    "publicContributions": 0,
+    "privateContributions": 267,
+    "publicContributions": 2,
     "createdAt": "2022-07-18T12:46:03Z"
   },
   {
@@ -1746,7 +1746,7 @@
     "location": "Sudan ",
     "company": "‏B Osman Ismail customs clearance",
     "twitterUsername": "mbkabros",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-17T19:18:16Z"
@@ -1770,7 +1770,7 @@
     "location": "Sudan ",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-19T01:02:42Z"
@@ -1820,7 +1820,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 75,
     "createdAt": "2022-04-25T05:43:06Z"
   },
   {
@@ -1844,7 +1844,7 @@
     "twitterUsername": "Mohanwer4",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 42,
     "createdAt": "2022-01-26T10:39:20Z"
   },
   {
@@ -1868,7 +1868,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 9,
     "createdAt": "2022-07-02T04:48:02Z"
   },
   {
@@ -1882,18 +1882,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-05-20T10:34:47Z"
-  },
-  {
-    "login": "sparkhere-sys",
-    "name": "_Spark",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116731471?s=72&u=562a457faa82a270f8246b5ab24d5e47de2a95e0&v=4",
-    "location": "Sudan",
-    "company": "unemployed",
-    "twitterUsername": "_SparkHere",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 556,
-    "createdAt": "2022-10-26T12:52:38Z"
   },
   {
     "login": "NaderNageeb",

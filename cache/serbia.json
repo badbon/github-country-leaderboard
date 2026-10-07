@@ -1687,8 +1687,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 205,
-    "publicContributions": 1,
+    "privateContributions": 96,
+    "publicContributions": 0,
     "createdAt": "2025-07-02T17:00:14Z"
   },
   {
@@ -1707,12 +1707,12 @@
     "login": "coderonov",
     "name": "coderonov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/202002641?s=72&u=35c1e58a0a8ec7510db0bc841ab3801eda087d9b&v=4",
-    "location": "Serbia, Belgrade",
+    "location": "Serbia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 44,
     "createdAt": "2025-03-05T18:48:11Z"
   },
   {
@@ -1722,9 +1722,9 @@
     "location": "Belgrade, Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 71,
     "createdAt": "2025-03-04T15:46:42Z"
   },
   {
@@ -1771,8 +1771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 1,
+    "privateContributions": 2,
+    "publicContributions": 2,
     "createdAt": "2025-09-19T22:14:59Z"
   },
   {
@@ -1796,7 +1796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 246,
     "createdAt": "2025-02-09T02:59:11Z"
   },
   {
@@ -1820,7 +1820,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 64,
     "createdAt": "2025-06-11T16:23:36Z"
   },
   {
@@ -1868,7 +1868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 72,
     "createdAt": "2025-09-20T18:06:46Z"
   },
   {
@@ -1880,7 +1880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 57,
     "createdAt": "2025-11-27T18:02:17Z"
   },
   {
@@ -1898,7 +1898,7 @@
   {
     "login": "ondache",
     "name": "ondache",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211723208?s=72&u=f69da14125b199baa9e749226a0e1905525e9a5d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211723208?s=72&u=8d6fd6dfb6f0478af55cc399f8b624d0a47abf76&v=4",
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",

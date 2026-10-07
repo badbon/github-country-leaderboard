@@ -1206,8 +1206,8 @@
     "location": "Jersey",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 18,
+    "followers": 1,
+    "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2013-10-12T10:55:35Z"
   },
@@ -1256,7 +1256,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 181,
+    "publicContributions": 210,
     "createdAt": "2012-07-31T10:46:00Z"
   },
   {
@@ -1278,9 +1278,9 @@
     "location": "Jersey",
     "company": "Government",
     "twitterUsername": "cyberkryption",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 253,
+    "publicContributions": 10,
     "createdAt": "2012-12-06T21:37:10Z"
   },
   {
@@ -1291,19 +1291,19 @@
     "company": "@InfuseGroup ",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 44,
+    "privateContributions": 27,
     "publicContributions": 0,
     "createdAt": "2012-04-30T02:28:15Z"
   },
   {
     "login": "Hacquoil",
     "name": "Tom Hacquoil",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2084200?s=72&u=37c4c30f46add1e6b3f20101529ee07104fc8d73&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2084200?s=72&u=a71d402e2ede0e4d6c649e80b0aa8a898ce78734&v=4",
     "location": "Jersey, Channel Islands",
     "company": "Pinpoint",
     "twitterUsername": "TomHacquoil",
     "followers": 3,
-    "privateContributions": 117,
+    "privateContributions": 247,
     "publicContributions": 0,
     "createdAt": "2012-08-02T14:48:06Z"
   },
@@ -1375,7 +1375,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 666,
+    "privateContributions": 939,
     "publicContributions": 0,
     "createdAt": "2012-09-10T10:09:32Z"
   },
@@ -1386,9 +1386,9 @@
     "location": "Jersey, Channel Islands",
     "company": "@structurizr ",
     "twitterUsername": "simonbrown",
-    "followers": 752,
+    "followers": 760,
     "privateContributions": 0,
-    "publicContributions": 870,
+    "publicContributions": 745,
     "createdAt": "2011-08-28T12:09:44Z"
   },
   {
@@ -1398,9 +1398,9 @@
     "location": "St. Clement, Jersey",
     "company": "Sephora UK",
     "twitterUsername": "MrCJJackson",
-    "followers": 47,
-    "privateContributions": 477,
-    "publicContributions": 829,
+    "followers": 45,
+    "privateContributions": 611,
+    "publicContributions": 579,
     "createdAt": "2011-02-25T17:57:02Z"
   },
   {
@@ -1410,9 +1410,9 @@
     "location": "Jersey, Channel Islands",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 545,
-    "publicContributions": 63,
+    "followers": 37,
+    "privateContributions": 556,
+    "publicContributions": 64,
     "createdAt": "2011-05-01T22:44:42Z"
   },
   {
@@ -1423,7 +1423,7 @@
     "company": "@Circlr-io",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 3424,
+    "privateContributions": 2945,
     "publicContributions": 0,
     "createdAt": "2011-04-19T16:20:25Z"
   },
@@ -1435,7 +1435,7 @@
     "company": "inshore Ltd",
     "twitterUsername": "danielmullin",
     "followers": 14,
-    "privateContributions": 4552,
+    "privateContributions": 4715,
     "publicContributions": 1,
     "createdAt": "2011-10-10T16:16:31Z"
   },

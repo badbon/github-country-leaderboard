@@ -1662,7 +1662,7 @@
     "location": "Saint Denis - France",
     "company": "University Paris 8",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-01-20T12:56:25Z"
@@ -1688,7 +1688,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 13,
     "createdAt": "2011-07-09T04:13:16Z"
   },
   {
@@ -1702,18 +1702,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-21T18:48:38Z"
-  },
-  {
-    "login": "buje",
-    "name": "Thomas Lemaitre",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/798529?s=72&u=2e6a20f00195778a4213cc1ddd3a1d014b2ede79&v=4",
-    "location": "Réunion",
-    "company": "@squirrelmobile",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2011-05-19T16:06:14Z"
   },
   {
     "login": "chris-murat",
@@ -1734,8 +1722,8 @@
     "location": "Reunion Island, France",
     "company": "100Devs",
     "twitterUsername": "mrnemesys",
-    "followers": 45,
-    "privateContributions": 2163,
+    "followers": 48,
+    "privateContributions": 2409,
     "publicContributions": 4,
     "createdAt": "2019-03-21T19:44:05Z"
   },
@@ -1759,7 +1747,7 @@
     "company": "Brocorp",
     "twitterUsername": "brocorp_dev",
     "followers": 5,
-    "privateContributions": 187,
+    "privateContributions": 143,
     "publicContributions": 0,
     "createdAt": "2019-01-08T05:41:15Z"
   },
@@ -1770,8 +1758,8 @@
     "location": "Saint Denis, Reunion Island, France.",
     "company": "marketingstrategy.dev, rajavanya.com",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 17,
+    "followers": 13,
+    "privateContributions": 12,
     "publicContributions": 63,
     "createdAt": "2011-01-22T08:44:52Z"
   },
@@ -1783,7 +1771,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3131,
+    "privateContributions": 3430,
     "publicContributions": 68,
     "createdAt": "2019-09-30T04:17:53Z"
   },
@@ -1795,7 +1783,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
+    "privateContributions": 37,
     "publicContributions": 0,
     "createdAt": "2019-01-29T10:17:01Z"
   },
@@ -1830,9 +1818,9 @@
     "location": "Réunion",
     "company": "",
     "twitterUsername": "",
-    "followers": 154,
+    "followers": 158,
     "privateContributions": 33,
-    "publicContributions": 43,
+    "publicContributions": 77,
     "createdAt": "2010-04-14T07:58:01Z"
   },
   {
@@ -1868,7 +1856,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2010-08-19T17:31:29Z"
   },
   {

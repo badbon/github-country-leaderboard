@@ -1664,7 +1664,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 31,
     "createdAt": "2026-02-11T14:29:55Z"
   },
   {
@@ -1706,13 +1706,13 @@
   {
     "login": "kmltronix",
     "name": "KML Tronix",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279458105?s=72&u=a1ee7d4a5982857dac8bb72d3ac84ad273bc4d6f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279458105?s=72&u=192b6829d3fd2df395b6514161f6da81a56ba716&v=4",
     "location": "Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 45,
     "createdAt": "2026-04-26T12:37:33Z"
   },
   {
@@ -1766,13 +1766,13 @@
   {
     "login": "SuhanyaBinali",
     "name": "Suhanya Binali Wanniarachchi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278742162?s=72&u=2f070f621b797bb689194a2935e4be40c7a0f7d0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278742162?s=72&u=fc0412e0485e7305fe9b95d7fd6f74aff75a250d&v=4",
     "location": "Colombo , Sri Lanka . ",
     "company": "SLTC Research University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
+    "privateContributions": 2,
+    "publicContributions": 26,
     "createdAt": "2026-04-23T15:44:18Z"
   },
   {
@@ -1784,7 +1784,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 157,
     "createdAt": "2026-01-13T04:47:35Z"
   },
   {
@@ -1795,8 +1795,8 @@
     "company": "University of Westminster (IIT)",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 266,
-    "publicContributions": 563,
+    "privateContributions": 745,
+    "publicContributions": 628,
     "createdAt": "2026-03-14T17:27:09Z"
   },
   {
@@ -1808,7 +1808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 22,
     "createdAt": "2026-04-08T01:27:17Z"
   },
   {
@@ -1818,7 +1818,7 @@
     "location": "Sri Lanka",
     "company": "Quintra Labs",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-31T01:07:59Z"
@@ -1830,9 +1830,9 @@
     "location": "Maharagama,Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 116,
     "createdAt": "2026-02-19T16:18:17Z"
   },
   {
@@ -1856,7 +1856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1060,
+    "publicContributions": 1155,
     "createdAt": "2026-01-15T07:07:50Z"
   },
   {
@@ -1866,9 +1866,9 @@
     "location": "Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 9,
-    "publicContributions": 82,
+    "publicContributions": 83,
     "createdAt": "2026-04-14T18:59:07Z"
   },
   {
@@ -1880,19 +1880,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 71,
     "createdAt": "2026-04-06T10:17:58Z"
   },
   {
     "login": "kaveeshanirmal141",
     "name": "Kaveesha Nirmal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279604443?s=72&u=f056f2e6b0b5bd56f457bc8ae7b77a4270cbb2c7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279604443?s=72&u=489e26c2d255bf34688e49f8989c8ce0169e8350&v=4",
     "location": "Sri Lanka",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 199,
+    "publicContributions": 169,
     "createdAt": "2026-04-27T04:33:39Z"
   },
   {
@@ -219082,5 +219082,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-10-18T03:55:23Z"
+  },
+  {
+    "login": "Aviya29",
+    "name": "Avishka Peiris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177779717?s=72&u=91382c46f043d3d567997e93340324c2ccbfbd68&v=4",
+    "location": "Colombo, Sri Lanka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2024-08-07T18:33:03Z"
   }
 ]

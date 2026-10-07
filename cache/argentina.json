@@ -1640,7 +1640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 8,
     "createdAt": "2026-03-19T21:35:05Z"
   },
   {
@@ -1652,7 +1652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 33,
     "createdAt": "2026-03-20T17:11:21Z"
   },
   {
@@ -1676,7 +1676,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2026-03-10T00:33:32Z"
   },
   {
@@ -1710,7 +1710,7 @@
     "location": "Sauce Montrull, Entre Ríos, Argentina",
     "company": "@miacodeweb",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 37,
     "createdAt": "2026-03-09T23:33:04Z"
@@ -1759,7 +1759,7 @@
     "company": "Teleperformance",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 74,
+    "privateContributions": 88,
     "publicContributions": 115,
     "createdAt": "2026-05-08T12:41:31Z"
   },
@@ -1772,7 +1772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 411,
     "createdAt": "2026-03-30T23:04:40Z"
   },
   {
@@ -1789,14 +1789,14 @@
   },
   {
     "login": "vanoltech",
-    "name": "Vanesa",
+    "name": "Vanesa Oliva",
     "avatarUrl": "https://avatars.githubusercontent.com/u/276139949?s=72&u=37251ea9bdf25e0b64f02bf0ddcc6d0d16126c8d&v=4",
     "location": "Mendoza, Argentina",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2026-04-15T00:18:24Z"
   },
   {
@@ -1832,7 +1832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 106,
     "createdAt": "2026-03-27T00:44:08Z"
   },
   {
@@ -1844,7 +1844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 85,
     "createdAt": "2026-03-31T13:50:36Z"
   },
   {
@@ -1856,7 +1856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 36,
     "createdAt": "2025-12-29T21:16:18Z"
   },
   {
@@ -588295,7 +588295,7 @@
     "company": "Abbott Laboratories S.A",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 2643,
+    "privateContributions": 2628,
     "publicContributions": 25,
     "createdAt": "2011-06-15T15:36:52Z"
   },

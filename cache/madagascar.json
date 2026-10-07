@@ -1640,7 +1640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-03T17:47:02Z"
   },
   {
@@ -1676,32 +1676,20 @@
     "twitterUsername": "IdrisseMoundhir",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 29,
     "createdAt": "2025-01-14T08:00:04Z"
   },
   {
     "login": "niaro-fandresena",
     "name": "Niaro Fandresena",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196221284?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196221284?s=72&u=095f86027daa7d2d4d6ec515cc6eecd3adad47f2&v=4",
     "location": "Madagascar, Antananarivo",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 7,
     "createdAt": "2025-01-23T16:27:27Z"
-  },
-  {
-    "login": "Kevin-RAMAROZATOVO",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/220150555?s=72&u=4d850dac08cf09b83ab8fde5531c7fe9d78bbd57&v=4",
-    "location": "Antananarivo, Madagascar",
-    "company": "@spoonconsulting",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 66,
-    "publicContributions": 0,
-    "createdAt": "2025-07-10T07:16:54Z"
   },
   {
     "login": "Housseni05",
@@ -1710,9 +1698,9 @@
     "location": "Antananarivo,Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 13,
     "createdAt": "2025-01-04T14:43:36Z"
   },
   {
@@ -1748,7 +1736,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 21,
     "createdAt": "2025-03-04T19:19:30Z"
   },
   {
@@ -1760,7 +1748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2025-03-15T14:16:13Z"
   },
   {
@@ -1770,9 +1758,9 @@
     "location": "Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 22,
     "createdAt": "2025-01-23T10:11:49Z"
   },
   {
@@ -1820,19 +1808,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 177,
+    "publicContributions": 166,
     "createdAt": "2025-09-18T09:01:41Z"
   },
   {
     "login": "nomenjanaharymamitiana",
-    "name": "Mamitiana Daniel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196922980?s=72&v=4",
+    "name": "Mamitiana2006",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196922980?s=72&u=61bebf14b95da231eea871e7d31c1f68090de91a&v=4",
     "location": "Madagascar",
     "company": "qt",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 166,
     "createdAt": "2025-01-29T10:11:04Z"
   },
   {
@@ -1843,8 +1831,8 @@
     "company": "INSI",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 454,
-    "publicContributions": 113,
+    "privateContributions": 547,
+    "publicContributions": 83,
     "createdAt": "2025-09-12T22:57:28Z"
   },
   {
@@ -1856,19 +1844,19 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 387,
+    "publicContributions": 394,
     "createdAt": "2025-06-17T18:22:10Z"
   },
   {
     "login": "ImBasilio60",
     "name": "Basilio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198073242?s=72&u=72a7c842fa5192e3f84063b2204edb2a334b425c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198073242?s=72&u=bc5b5e6f12f874b2a92bfb950cd3c9755bc4124e&v=4",
     "location": "Antananarivo",
     "company": "lamarti.com",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 84,
     "createdAt": "2025-02-06T13:26:18Z"
   },
   {

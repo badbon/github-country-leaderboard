@@ -1662,7 +1662,7 @@
     "location": "Ulaanbaatar, Mongolia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2022-04-05T02:02:43Z"
@@ -1670,13 +1670,13 @@
   {
     "login": "theTulgaa",
     "name": "etuka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111167867?s=72&u=f66a855758f8e0b25e9f93e68ab2dd6e6e165f10&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111167867?s=72&u=4c5dada050dae08833d3b0edf6c277a6dda42ce4&v=4",
     "location": "mongolia",
     "company": "Boring company",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 43,
-    "publicContributions": 16,
+    "followers": 7,
+    "privateContributions": 47,
+    "publicContributions": 31,
     "createdAt": "2022-08-13T04:44:12Z"
   },
   {
@@ -1711,7 +1711,7 @@
     "company": "Oyu Intelligence LLC",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1461,
+    "privateContributions": 2103,
     "publicContributions": 33,
     "createdAt": "2022-01-04T11:23:17Z"
   },
@@ -1724,7 +1724,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 25,
     "createdAt": "2022-11-29T11:47:18Z"
   },
   {
@@ -1736,7 +1736,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 58,
     "createdAt": "2022-02-05T06:15:38Z"
   },
   {
@@ -1759,8 +1759,8 @@
     "company": "Cody",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2397,
-    "publicContributions": 14,
+    "privateContributions": 2441,
+    "publicContributions": 38,
     "createdAt": "2022-06-05T05:54:58Z"
   },
   {
@@ -1771,21 +1771,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 177,
+    "privateContributions": 131,
     "publicContributions": 298,
     "createdAt": "2022-08-22T14:28:54Z"
-  },
-  {
-    "login": "zavetsec",
-    "name": "Tema",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118215242?s=72&u=357003ba62b552b8686a23461d5c9a081d307c7a&v=4",
-    "location": "Mongolia",
-    "company": "",
-    "twitterUsername": "zavetsec",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 312,
-    "createdAt": "2022-11-14T19:06:56Z"
   },
   {
     "login": "EmujinSugar",
@@ -1807,8 +1795,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 317,
-    "publicContributions": 132,
+    "privateContributions": 1636,
+    "publicContributions": 26,
     "createdAt": "2022-04-13T11:47:12Z"
   },
   {
@@ -1830,8 +1818,8 @@
     "location": "Mongolia/Ulaanbaatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 584,
+    "followers": 4,
+    "privateContributions": 581,
     "publicContributions": 5,
     "createdAt": "2022-11-06T06:36:33Z"
   },
@@ -1846,18 +1834,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-10T06:26:37Z"
-  },
-  {
-    "login": "baldanuba",
-    "name": "Buyankhishig Chuluunbaatar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114455198?s=72&v=4",
-    "location": "Mongolia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2022-09-27T01:51:19Z"
   },
   {
     "login": "Megg01",
@@ -1880,7 +1856,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 26,
     "createdAt": "2022-05-27T05:57:57Z"
   },
   {
@@ -1891,8 +1867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 26,
-    "publicContributions": 72,
+    "privateContributions": 0,
+    "publicContributions": 41,
     "createdAt": "2022-10-14T01:18:39Z"
   },
   {

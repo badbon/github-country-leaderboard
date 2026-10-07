@@ -1406,13 +1406,13 @@
   {
     "login": "Nukesul",
     "name": "It developer 😎",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/159410366?s=72&u=a72b58bc84a9486c92ead93da5e069b735a7a1eb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159410366?s=72&u=c6cac898b3abece15b1f0064f692562ff4e4442f&v=4",
     "location": "Kyrgyzstan, Osh",
     "company": "IT specialists ",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 157,
+    "publicContributions": 152,
     "createdAt": "2024-02-08T05:41:00Z"
   },
   {
@@ -1423,8 +1423,8 @@
     "company": "Sammi Experience",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 110,
+    "privateContributions": 4,
+    "publicContributions": 115,
     "createdAt": "2024-09-27T10:54:03Z"
   },
   {
@@ -1436,7 +1436,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 27,
     "createdAt": "2024-11-15T19:45:55Z"
   },
   {
@@ -1447,8 +1447,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 64,
-    "publicContributions": 18,
+    "privateContributions": 47,
+    "publicContributions": 9,
     "createdAt": "2024-04-13T19:11:00Z"
   },
   {
@@ -1460,17 +1460,17 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 18,
-    "publicContributions": 174,
+    "publicContributions": 207,
     "createdAt": "2024-11-14T04:26:31Z"
   },
   {
     "login": "nursultan02",
-    "name": "Nurs🫰",
+    "name": "Nursultan Amanturov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/171709648?s=72&v=4",
     "location": "kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-04T15:17:42Z"
@@ -1483,8 +1483,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 4744,
-    "publicContributions": 18,
+    "privateContributions": 5014,
+    "publicContributions": 13,
     "createdAt": "2024-10-01T15:46:30Z"
   },
   {
@@ -1495,8 +1495,8 @@
     "company": "University of Central Asia",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 41,
+    "privateContributions": 3,
+    "publicContributions": 38,
     "createdAt": "2024-11-11T11:50:03Z"
   },
   {
@@ -1506,9 +1506,9 @@
     "location": "Bishkek, Kyrgyzstan",
     "company": "Ala-Too International University",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 921,
-    "publicContributions": 0,
+    "followers": 9,
+    "privateContributions": 1288,
+    "publicContributions": 19,
     "createdAt": "2024-11-26T06:19:12Z"
   },
   {
@@ -1519,8 +1519,8 @@
     "company": "Freelance Developer",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 14,
-    "publicContributions": 28,
+    "privateContributions": 15,
+    "publicContributions": 24,
     "createdAt": "2024-10-14T09:33:56Z"
   },
   {
@@ -1532,7 +1532,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 29,
     "createdAt": "2024-03-12T08:44:11Z"
   },
   {
@@ -1544,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 19,
     "createdAt": "2024-10-27T05:12:29Z"
   },
   {
@@ -1568,19 +1568,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2024-02-06T09:20:57Z"
   },
   {
     "login": "zik30",
     "name": "Ainazik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186686688?s=72&u=04f3a28f8c5f4030591833d2f0920b8bbc30bba2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186686688?s=72&u=1115ebd9d82a1ed1127a4f257d187f1c751f94c2&v=4",
     "location": "Bishkek, Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 96,
     "createdAt": "2024-10-29T09:35:18Z"
   },
   {
@@ -1602,22 +1602,10 @@
     "location": "Kyrgyzstan",
     "company": "KRSU",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 300,
-    "publicContributions": 69,
+    "followers": 6,
+    "privateContributions": 244,
+    "publicContributions": 78,
     "createdAt": "2024-02-06T11:07:41Z"
-  },
-  {
-    "login": "adilhanDevs",
-    "name": "adilhan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180376972?s=72&u=0dcdf7bf120a5ececb74c3e6ffef748cd96d969f&v=4",
-    "location": "bishkek, kyrgyzstan",
-    "company": "SU Solutions",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 510,
-    "createdAt": "2024-09-04T05:34:08Z"
   },
   {
     "login": "Mambetkulov",
@@ -1628,7 +1616,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 64,
     "createdAt": "2024-10-24T07:14:20Z"
   },
   {
@@ -1640,7 +1628,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 59,
     "createdAt": "2024-09-20T19:12:37Z"
   },
   {

@@ -1650,9 +1650,9 @@
     "location": "Suisse",
     "company": "Etml",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 128,
-    "publicContributions": 532,
+    "followers": 5,
+    "privateContributions": 233,
+    "publicContributions": 562,
     "createdAt": "2025-01-27T11:47:26Z"
   },
   {
@@ -1662,8 +1662,8 @@
     "location": "Suisse",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 170,
+    "followers": 3,
+    "privateContributions": 212,
     "publicContributions": 6,
     "createdAt": "2025-10-09T09:40:34Z"
   },
@@ -1676,7 +1676,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-23T12:56:29Z"
   },
   {
@@ -1688,7 +1688,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 38,
     "createdAt": "2025-05-13T12:27:51Z"
   },
   {
@@ -1724,7 +1724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-20T06:12:36Z"
   },
   {
@@ -1736,7 +1736,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2025-08-18T07:31:43Z"
   },
   {
@@ -1746,9 +1746,9 @@
     "location": "Ginevra, Svizzera",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-08-01T06:43:42Z"
   },
   {
@@ -1758,9 +1758,9 @@
     "location": "🇨🇭 Svizzera",
     "company": "HacKNOW",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 1,
     "createdAt": "2025-05-30T19:05:05Z"
   },
   {
@@ -1770,9 +1770,9 @@
     "location": "Lausanne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 274,
+    "followers": 263,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2025-09-08T07:56:35Z"
   },
   {
@@ -1783,8 +1783,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 166,
-    "privateContributions": 187,
-    "publicContributions": 954,
+    "privateContributions": 172,
+    "publicContributions": 980,
     "createdAt": "2025-08-24T15:22:21Z"
   },
   {
@@ -1794,7 +1794,7 @@
     "location": "Switzerland ",
     "company": "",
     "twitterUsername": "",
-    "followers": 108,
+    "followers": 176,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-07-24T12:34:13Z"
@@ -1802,26 +1802,14 @@
   {
     "login": "douxxtech",
     "name": "Douxx",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200964063?s=72&u=25bb5bb06d4857caf7bce0756e9727fbf1b42371&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200964063?s=72&u=149b681c1f336f601976b5d9e5cd0c66c1966e7b&v=4",
     "location": "Switzerland ",
     "company": "Neuchâtel Vocational Training Center",
-    "twitterUsername": "",
-    "followers": 87,
-    "privateContributions": 178,
-    "publicContributions": 1918,
+    "twitterUsername": "douxxtech",
+    "followers": 88,
+    "privateContributions": 213,
+    "publicContributions": 2042,
     "createdAt": "2025-02-26T15:06:37Z"
-  },
-  {
-    "login": "Mipan-Zuzu",
-    "name": "MIPAN",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194325824?s=72&u=99a6c99066bb36f361f00f216039e4fe349a0dba&v=4",
-    "location": "switzerland",
-    "company": "Founder @And-Soical-Media-learning",
-    "twitterUsername": "",
-    "followers": 71,
-    "privateContributions": 232,
-    "publicContributions": 692,
-    "createdAt": "2025-01-09T02:39:17Z"
   },
   {
     "login": "Zitatori",
@@ -1830,9 +1818,9 @@
     "location": "Martigny, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
+    "followers": 47,
     "privateContributions": 0,
-    "publicContributions": 557,
+    "publicContributions": 500,
     "createdAt": "2025-06-08T13:09:29Z"
   },
   {
@@ -1842,21 +1830,21 @@
     "location": "Switzerland",
     "company": "@NollarsNetwork",
     "twitterUsername": "RichartDedekind",
-    "followers": 38,
+    "followers": 37,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-04T03:40:10Z"
   },
   {
     "login": "gresium",
-    "name": "Gres",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/235589621?s=72&u=c7169c268904e66a2238de34486efb213db4f58b&v=4",
+    "name": "Gresa Hisa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235589621?s=72&u=6c73d87adb395f7949a49b8e2a27caa4e76d629b&v=4",
     "location": "Switzerland ",
     "company": "gresium ",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 339,
+    "publicContributions": 343,
     "createdAt": "2025-10-01T21:01:09Z"
   },
   {
@@ -1866,9 +1854,9 @@
     "location": "Switzerland ",
     "company": "Panza Labs",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 98,
     "createdAt": "2025-09-23T08:42:33Z"
   },
   {
@@ -1878,9 +1866,9 @@
     "location": "Zürich (Switzerland)",
     "company": "Robotics and AI Institute",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 840,
-    "publicContributions": 118,
+    "followers": 18,
+    "privateContributions": 1072,
+    "publicContributions": 154,
     "createdAt": "2025-02-14T10:33:40Z"
   },
   {

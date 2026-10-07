@@ -1644,18 +1644,6 @@
     "createdAt": "2024-09-24T16:11:09Z"
   },
   {
-    "login": "SauceGA",
-    "name": "Guille Aquino",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157994581?s=72&v=4",
-    "location": "Paraguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1053,
-    "publicContributions": 0,
-    "createdAt": "2024-01-28T21:05:42Z"
-  },
-  {
     "login": "Angel-fabri",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/175520498?s=72&v=4",
@@ -1676,7 +1664,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 66,
     "createdAt": "2024-04-25T14:06:56Z"
   },
   {
@@ -1688,7 +1676,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 54,
     "createdAt": "2024-07-29T21:09:09Z"
   },
   {
@@ -1698,9 +1686,9 @@
     "location": "Encarnacíon, Itapúa, Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3730,
-    "publicContributions": 82,
+    "followers": 4,
+    "privateContributions": 4196,
+    "publicContributions": 84,
     "createdAt": "2024-08-13T18:02:51Z"
   },
   {
@@ -1712,7 +1700,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2024-07-08T02:08:47Z"
   },
   {
@@ -1723,8 +1711,8 @@
     "company": "Cooperativa Loma Plata",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1191,
-    "publicContributions": 29,
+    "privateContributions": 1288,
+    "publicContributions": 13,
     "createdAt": "2024-03-05T10:01:03Z"
   },
   {
@@ -1736,7 +1724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2024-05-23T17:38:25Z"
   },
   {
@@ -1771,8 +1759,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 196,
-    "publicContributions": 37,
+    "privateContributions": 208,
+    "publicContributions": 31,
     "createdAt": "2024-12-26T13:15:03Z"
   },
   {
@@ -1784,13 +1772,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 9,
     "createdAt": "2024-07-23T15:32:37Z"
   },
   {
     "login": "Cristhian1803",
     "name": "Cristhian Díaz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173580034?s=72&u=efd6a86bea4ad5894655f577bfdb854ca423bc73&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173580034?s=72&u=99d29f560a49609c4595ccc0b51ee8fc83a1b0a9&v=4",
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
@@ -1819,7 +1807,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 168,
+    "privateContributions": 125,
     "publicContributions": 47,
     "createdAt": "2024-03-29T20:55:36Z"
   },
@@ -1843,7 +1831,7 @@
     "company": "@ittidigital",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 366,
+    "privateContributions": 312,
     "publicContributions": 0,
     "createdAt": "2024-06-05T13:32:28Z"
   },

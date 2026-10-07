@@ -1688,7 +1688,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 11,
     "createdAt": "2025-09-22T13:20:31Z"
   },
   {
@@ -1710,22 +1710,10 @@
     "location": "JORDAN",
     "company": "BYTEMASTERS SOFTWARE",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 23,
     "createdAt": "2025-05-24T23:47:42Z"
-  },
-  {
-    "login": "F5ri",
-    "name": "Fakhri Hirbawi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/199366313?s=72&u=be681b2bdd1098a6fc74692651c29da41dcfc69d&v=4",
-    "location": "Jordan, Palestine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 66,
-    "publicContributions": 59,
-    "createdAt": "2025-02-15T13:22:05Z"
   },
   {
     "login": "Sereen-M",
@@ -1736,7 +1724,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 137,
     "createdAt": "2025-03-12T12:06:54Z"
   },
   {
@@ -1760,7 +1748,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 40,
     "createdAt": "2025-08-12T17:26:30Z"
   },
   {
@@ -1768,11 +1756,11 @@
     "name": "omar alrayyan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/194833449?s=72&u=2ca5e1c7f2a3c9d13bb51f3cb8914b1517b19b9b&v=4",
     "location": "amman,jordan",
-    "company": "",
+    "company": "@null-solutions-co ",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 495,
+    "followers": 2,
+    "privateContributions": 88,
+    "publicContributions": 497,
     "createdAt": "2025-01-13T18:07:36Z"
   },
   {
@@ -1796,7 +1784,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 24,
     "createdAt": "2025-07-05T13:40:40Z"
   },
   {
@@ -1806,7 +1794,7 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-19T18:10:44Z"
@@ -1820,7 +1808,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 30,
     "createdAt": "2025-04-26T19:00:35Z"
   },
   {
@@ -1832,7 +1820,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 9,
     "createdAt": "2025-04-12T11:51:57Z"
   },
   {
@@ -1844,20 +1832,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 150,
+    "publicContributions": 55,
     "createdAt": "2025-04-11T14:18:33Z"
-  },
-  {
-    "login": "joghamdi",
-    "name": "Jood",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224645885?s=72&u=b72b215ccab5eac4b04b84e8ec107a62d49ca248&v=4",
-    "location": "Jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-08-04T18:31:33Z"
   },
   {
     "login": "mqtamimi",
@@ -1880,19 +1856,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 64,
     "createdAt": "2025-09-24T18:55:33Z"
   },
   {
     "login": "GStudioG",
     "name": "osama dabash",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223021235?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/223021235?s=72&u=8fb63cd831673378842f1d35ad962d5ca7877cbf&v=4",
     "location": "amman / jordan ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 28,
     "createdAt": "2025-07-26T19:30:13Z"
   },
   {
@@ -1902,7 +1878,7 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2025-05-16T17:02:11Z"
@@ -1915,7 +1891,7 @@
     "company": "@majidalfuttaim",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2561,
+    "privateContributions": 2898,
     "publicContributions": 4,
     "createdAt": "2025-08-04T13:08:47Z"
   },

@@ -1651,7 +1651,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 12,
+    "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2023-05-14T22:27:54Z"
   },
@@ -1674,9 +1674,9 @@
     "location": "Kingston, ON",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 19,
     "createdAt": "2023-03-24T14:39:56Z"
   },
   {
@@ -1760,7 +1760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 195,
+    "publicContributions": 101,
     "createdAt": "2023-10-29T21:15:44Z"
   },
   {
@@ -1771,7 +1771,7 @@
     "company": "Palo Alto Networks",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 11,
     "publicContributions": 0,
     "createdAt": "2023-01-31T20:09:56Z"
   },
@@ -1796,7 +1796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 217,
     "createdAt": "2023-04-21T18:39:05Z"
   },
   {
@@ -1807,8 +1807,8 @@
     "company": "Self-Employed",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 186,
-    "publicContributions": 799,
+    "privateContributions": 176,
+    "publicContributions": 542,
     "createdAt": "2023-03-19T20:31:04Z"
   },
   {
@@ -1844,7 +1844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 340,
+    "publicContributions": 313,
     "createdAt": "2023-01-24T09:09:32Z"
   },
   {
@@ -1880,7 +1880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 62,
     "createdAt": "2023-12-08T22:27:15Z"
   },
   {

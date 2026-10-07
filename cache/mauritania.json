@@ -1700,7 +1700,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 76,
     "createdAt": "2022-02-22T02:04:34Z"
   },
   {
@@ -1772,7 +1772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2022-03-04T17:47:26Z"
   },
   {
@@ -1782,9 +1782,9 @@
     "location": "Nouakchott, Mauritania",
     "company": "HrFlow.ai",
     "twitterUsername": "BabeSalehDahi",
-    "followers": 32,
-    "privateContributions": 1596,
-    "publicContributions": 116,
+    "followers": 33,
+    "privateContributions": 2130,
+    "publicContributions": 120,
     "createdAt": "2021-01-20T02:38:08Z"
   },
   {
@@ -1795,7 +1795,7 @@
     "company": "Student at iscae",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 1082,
+    "privateContributions": 1493,
     "publicContributions": 18,
     "createdAt": "2021-01-21T19:38:16Z"
   },
@@ -1807,8 +1807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 78,
-    "publicContributions": 147,
+    "privateContributions": 200,
+    "publicContributions": 14,
     "createdAt": "2021-12-13T17:27:25Z"
   },
   {
@@ -1819,7 +1819,7 @@
     "company": "BPM",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 162,
+    "privateContributions": 158,
     "publicContributions": 12,
     "createdAt": "2021-09-21T23:39:55Z"
   },
@@ -1830,21 +1830,21 @@
     "location": "Mauritania",
     "company": "",
     "twitterUsername": "SheikhElMoctar",
-    "followers": 13,
-    "privateContributions": 248,
+    "followers": 16,
+    "privateContributions": 506,
     "publicContributions": 0,
     "createdAt": "2021-03-15T22:17:07Z"
   },
   {
     "login": "7assen-coder",
     "name": "Mohammed Hassen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86810094?s=72&u=58a4d120bd69edb33dfda03cbe21c5bc934e96fa&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86810094?s=72&u=d21ced47b58c89f16fe0b8012356370382b18e7b&v=4",
     "location": "Nouakchott, Mauritania",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 19,
+    "followers": 7,
+    "privateContributions": 461,
+    "publicContributions": 45,
     "createdAt": "2021-07-02T00:12:40Z"
   },
   {
@@ -1866,9 +1866,9 @@
     "location": "Africa/Mauritania",
     "company": "",
     "twitterUsername": "YUSI_WR",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 11,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2021-10-17T20:44:54Z"
   },
   {
