@@ -1,8 +1,8 @@
 # Public Contributions - Oman
 
-Generated: 2026-10-07T08:59:14.243Z
+Generated: 2026-10-07T09:52:25.864Z
 
-Users: 1000
+Users: 999
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 1000
 | 16 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Minoo Trading SPC |  | Muscat, Masqaţ, Oman | 1354 |
 | 17 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | CodeLine |  | Oman | 1333 |
 | 18 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Codeline  |  | Oman | 1251 |
-| 19 | [ilia144000](https://github.com/ilia144000) | Ilia GH. (Symbolic Architect – RANNTA) | @rannta | ranntacoin | Sultanate of Oman | 1223 |
-| 20 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Badal Technology |  | Muscat, Oman | 1173 |
+| 19 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Badal Technology |  | Muscat, Oman | 1173 |
+| 20 | [atakhadiviom](https://github.com/atakhadiviom) | ATA KHADIVI |  |  | Muscat | 1171 |

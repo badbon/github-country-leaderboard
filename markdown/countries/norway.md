@@ -1,6 +1,6 @@
 # Norway
 
-Indexed users: 19,631
+Indexed users: 19,630
 
 | Leaderboard | Link |
 |---|---|
@@ -40,12 +40,12 @@ Indexed users: 19,631
 | 1 | [marcusramberg](https://github.com/marcusramberg) | Marcus Ramberg | Oslo, Norway | 59,258 |
 | 2 | [caengen](https://github.com/caengen) | Christian Engen | Lørenskog, Norway | 18,071 |
 | 3 | [filipvanlaenen](https://github.com/filipvanlaenen) | Filip van Laenen | Oslo | 14,105 |
-| 4 | [eonist](https://github.com/eonist) | André J | Norway, Oslo | 13,078 |
-| 5 | [einari](https://github.com/einari) | Einar Ingebrigtsen | Sandefjord, Norway | 12,368 |
-| 6 | [khaliqgant](https://github.com/khaliqgant) | Khaliq | Oslo, Norway | 11,837 |
-| 7 | [HelgeSverre](https://github.com/HelgeSverre) | Helge Sverre | Bergen, Norway | 11,728 |
-| 8 | [FRIKKern](https://github.com/FRIKKern) | Frikk Jarl | Oslo, Norway | 11,697 |
-| 9 | [Reketino](https://github.com/Reketino) | Bear Even Lyngstad | Norway | 11,213 |
+| 4 | [Reketino](https://github.com/Reketino) | Bear Even Lyngstad | Norway | 13,524 |
+| 5 | [eonist](https://github.com/eonist) | André J | Norway, Oslo | 13,078 |
+| 6 | [einari](https://github.com/einari) | Einar Ingebrigtsen | Sandefjord, Norway | 12,368 |
+| 7 | [khaliqgant](https://github.com/khaliqgant) | Khaliq | Oslo, Norway | 11,837 |
+| 8 | [HelgeSverre](https://github.com/HelgeSverre) | Helge Sverre | Bergen, Norway | 11,728 |
+| 9 | [FRIKKern](https://github.com/FRIKKern) | Frikk Jarl | Oslo, Norway | 11,697 |
 | 10 | [eirikhanasand](https://github.com/eirikhanasand) | Eirik Hanasand | Norway | 9,360 |
 | 11 | [hausnes](https://github.com/hausnes) | Jo Bjørnar Hausnes | Bergen, Norway | 9,125 |
 | 12 | [asgeirf](https://github.com/asgeirf) | Asgeir Frimannsson | Oslo, Norway | 9,064 |
@@ -83,4 +83,4 @@ Indexed users: 19,631
 | 19 | [SimenB](https://github.com/SimenB) | Simen Bekkhus | Oslo, Norway | 1,277 |
 | 20 | [aurorascharff](https://github.com/aurorascharff) | Aurora Scharff | Oslo, Norway | 1,275 |
 
-Generated: 2026-10-07T08:59:07.696Z
+Generated: 2026-10-07T09:52:21.836Z

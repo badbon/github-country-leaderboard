@@ -1,21 +1,21 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-07T08:58:15.902Z
+Generated: 2026-10-07T09:51:46.021Z
 
-Users: 188
+Users: 186
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | @The-Korean-Fashion  |  | Pyongyang | 5740 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 3492 |
-| 3 | [sakweli](https://github.com/sakweli) | Josh Sakweli | Qbit Spark | JosureSimon | North Korea | 2411 |
+| 3 | [sakweli](https://github.com/sakweli) | Josh Sakweli | Qbit Spark | JosureSimon | North Korea | 2494 |
 | 4 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | yo mama | elonmusk | pyongyang | 1344 |
 | 5 | [henxdl](https://github.com/henxdl) | henxdl | Unemployed :) |  | Pyongyang, North Korea | 1268 |
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 1261 |
 | 7 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1256 |
-| 8 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 607 |
-| 9 | [1zumiSagiri](https://github.com/1zumiSagiri) |  |  |  | Pyongyang | 585 |
-| 10 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 501 |
+| 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 730 |
+| 9 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 607 |
+| 10 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 565 |
 | 11 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 484 |
 | 12 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 473 |
 | 13 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 392 |

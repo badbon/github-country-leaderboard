@@ -12,7 +12,7 @@ Indexed users: 61
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 11,217 |
+| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 11,265 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 9,473 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,170 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,103 |
@@ -20,14 +20,14 @@ Indexed users: 61
 | 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,248 |
 | 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,167 |
 | 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 2,055 |
-| 9 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 897 |
+| 9 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 898 |
 | 10 | [thu105](https://github.com/thu105) | Hein Moe Thu | San Marino, CA | 756 |
 | 11 | [gennaris](https://github.com/gennaris) | Simone Gennari | San Marino | 753 |
 | 12 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 736 |
 | 13 | [lmacchiavelli](https://github.com/lmacchiavelli) | Lorenzo Macchiavelli | San Marino | 456 |
 | 14 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | San Marino | 344 |
 | 15 | [simorina](https://github.com/simorina) | Simone Rinaldi | San Marino | 228 |
-| 16 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti | San Marino | 196 |
+| 16 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti | San Marino | 197 |
 | 17 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | San Marino | 163 |
 | 18 | [alexsteinerr](https://github.com/alexsteinerr) | Alex Steiner | San Marino | 104 |
 | 19 | [N1K0232](https://github.com/N1K0232) | Nico | Repubblica di San Marino | 101 |
@@ -38,12 +38,12 @@ Indexed users: 61
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 4,214 |
-| 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 897 |
+| 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 898 |
 | 3 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 489 |
 | 4 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 311 |
 | 5 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 284 |
 | 6 | [simorina](https://github.com/simorina) | Simone Rinaldi | San Marino | 228 |
-| 7 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti | San Marino | 196 |
+| 7 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti | San Marino | 197 |
 | 8 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | San Marino | 102 |
 | 9 | [N1K0232](https://github.com/N1K0232) | Nico | Repubblica di San Marino | 97 |
 | 10 | [lucabio](https://github.com/lucabio) | Luca | San Marino | 75 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 
-Generated: 2026-10-07T09:05:00.716Z
+Generated: 2026-10-07T09:56:57.073Z

@@ -56,7 +56,7 @@ Indexed users: 748
 | 17 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 337 |
 | 18 | [KingKnull](https://github.com/KingKnull) | Sanad | Tripoli, Libya | 335 |
 | 19 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh | Libya | 328 |
-| 20 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | libya | 301 |
+| 20 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat | Libya-Tripoli-Gorji | 325 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 748
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 50 |
 | 20 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 47 |
 
-Generated: 2026-10-07T08:50:49.074Z
+Generated: 2026-10-07T09:44:16.459Z

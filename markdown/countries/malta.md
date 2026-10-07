@@ -19,9 +19,9 @@ Indexed users: 1,233
 | 5 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
 | 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 8,363 |
 | 7 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 7,973 |
-| 8 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,748 |
-| 9 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 7,672 |
-| 10 | [exori90](https://github.com/exori90) | exori | Malta | 7,623 |
+| 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 7,672 |
+| 9 | [exori90](https://github.com/exori90) | exori | Malta | 7,623 |
+| 10 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
 | 11 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 6,792 |
 | 12 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 6,258 |
 | 13 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | Malta | 6,104 |
@@ -83,4 +83,4 @@ Indexed users: 1,233
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 
-Generated: 2026-10-07T08:52:11.892Z
+Generated: 2026-10-07T09:47:22.125Z

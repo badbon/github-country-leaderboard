@@ -41,7 +41,7 @@ Indexed users: 1,400
 | 2 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 2,414 |
 | 3 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina | Nicaragua | 2,021 |
 | 4 | [Void-CA](https://github.com/Void-CA) | Ari Castillo | Nicaragua | 1,788 |
-| 5 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  | Nicaragua | 1,278 |
+| 5 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  | Nicaragua | 1,451 |
 | 6 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,217 |
 | 7 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 1,137 |
 | 8 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone | Nicaragua | 1,124 |
@@ -52,11 +52,11 @@ Indexed users: 1,400
 | 13 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Nicaragua | 878 |
 | 14 | [DlopezS98](https://github.com/DlopezS98) | Danny López | Nicaragua | 767 |
 | 15 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 757 |
-| 16 | [Jonafvip](https://github.com/Jonafvip) | Jona | Nicaragua | 744 |
-| 17 | [simonegli8](https://github.com/simonegli8) | Simon Jakob Egli | Granada, Nicaragua | 731 |
-| 18 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 730 |
-| 19 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 673 |
-| 20 | [robertofabiot](https://github.com/robertofabiot) | Roberto F. Tercero | Managua, Managua, Nicaragua | 664 |
+| 16 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Managua, Nicaragua | 754 |
+| 17 | [c04o](https://github.com/c04o) | Connie Caldera | Masaya, Nicaragua | 746 |
+| 18 | [Jonafvip](https://github.com/Jonafvip) | Jona | Nicaragua | 744 |
+| 19 | [simonegli8](https://github.com/simonegli8) | Simon Jakob Egli | Granada, Nicaragua | 731 |
+| 20 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 730 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,400
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [l3onte](https://github.com/l3onte) | Leonte Canales | Nicaragua | 61 |
 
-Generated: 2026-10-07T08:57:20.169Z
+Generated: 2026-10-07T09:49:52.643Z

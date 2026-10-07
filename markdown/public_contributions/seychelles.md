@@ -1,6 +1,6 @@
 # Public Contributions - Seychelles
 
-Generated: 2026-10-07T09:05:59.567Z
+Generated: 2026-10-07T09:57:38.257Z
 
 Users: 1787
 
@@ -17,12 +17,12 @@ Users: 1787
 | 9 | [Nospamas](https://github.com/Nospamas) |  |  |  | Victoria, BC | 1851 |
 | 10 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | University of Victoria |  | Victoria BC | 1779 |
 | 11 | [shinybrar](https://github.com/shinybrar) | shiny. | Canadian Astronomy Data Centre |  | Victoria, BC | 1748 |
-| 12 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 1523 |
-| 13 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom |  |  | Victoria, BC | 1436 |
-| 14 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi |  |  | Victoria | 1426 |
-| 15 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt |  |  | Victoria, BC | 1419 |
-| 16 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Digitalspace Consulting Inc. |  | Victoria, BC | 1389 |
-| 17 | [johncbowman](https://github.com/johncbowman) | John Bowman | bowman@ualberta.ca |  | Victoria, BC Canada | 1389 |
-| 18 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | GeoCat Canada |  | Victoria | 1166 |
-| 19 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | AppVeyor Systems Inc. |  | Victoria, BC | 1098 |
-| 20 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Well Health Technologies |  | Victoria BC | 1092 |
+| 12 | [jamubc](https://github.com/jamubc) |  |  |  | Victoria, BC | 1581 |
+| 13 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 1523 |
+| 14 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom |  |  | Victoria, BC | 1436 |
+| 15 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi |  |  | Victoria | 1426 |
+| 16 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt |  |  | Victoria, BC | 1419 |
+| 17 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Digitalspace Consulting Inc. |  | Victoria, BC | 1389 |
+| 18 | [johncbowman](https://github.com/johncbowman) | John Bowman | bowman@ualberta.ca |  | Victoria, BC Canada | 1389 |
+| 19 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | GeoCat Canada |  | Victoria | 1166 |
+| 20 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | AppVeyor Systems Inc. |  | Victoria, BC | 1098 |

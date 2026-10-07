@@ -29,9 +29,9 @@ Indexed users: 1,365
 | 15 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 3,206 |
 | 16 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 3,178 |
 | 17 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 3,173 |
-| 18 | [BOUNADRAME](https://github.com/BOUNADRAME) | Bouna DRAMÉ | Dakar, Senegal | 3,047 |
-| 19 | [flrxnt](https://github.com/flrxnt) | Florent Azonnoudo | Dakar, Sénégal | 3,034 |
-| 20 | [ndiaye70](https://github.com/ndiaye70) | Pape Abdoulaye Ndiaye | Senegal,Dakar | 3,022 |
+| 18 | [maimounadiallo4](https://github.com/maimounadiallo4) | Maïmouna DIALLO | Dakar, Senegal | 3,156 |
+| 19 | [BOUNADRAME](https://github.com/BOUNADRAME) | Bouna DRAMÉ | Dakar, Senegal | 3,047 |
+| 20 | [flrxnt](https://github.com/flrxnt) | Florent Azonnoudo | Dakar, Sénégal | 3,034 |
 
 ## Public Contributions
 
@@ -46,12 +46,12 @@ Indexed users: 1,365
 | 7 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,661 |
 | 8 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,545 |
 | 9 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,452 |
-| 10 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,147 |
-| 11 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,131 |
-| 12 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 1,108 |
-| 13 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,067 |
-| 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 1,067 |
-| 15 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,052 |
+| 10 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,253 |
+| 11 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,147 |
+| 12 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,131 |
+| 13 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 1,108 |
+| 14 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,067 |
+| 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 1,067 |
 | 16 | [bngesp](https://github.com/bngesp) | bassirou ngom | Senegal | 998 |
 | 17 | [likemcode](https://github.com/likemcode) | josue Avuh | Dakar | 927 |
 | 18 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 900 |
@@ -83,4 +83,4 @@ Indexed users: 1,365
 | 19 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 | 20 | [tonux](https://github.com/tonux) | Tonux SAMB | Dakar, Sénégal  | 124 |
 
-Generated: 2026-10-07T09:05:53.148Z
+Generated: 2026-10-07T09:57:30.879Z

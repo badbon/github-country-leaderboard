@@ -1,6 +1,6 @@
 # Rwanda
 
-Indexed users: 3,534
+Indexed users: 3,533
 
 | Leaderboard | Link |
 |---|---|
@@ -12,26 +12,26 @@ Indexed users: 3,534
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 59,921 |
-| 2 | [gentil-lenoir](https://github.com/gentil-lenoir) | Gentil M. | Kigali, Rwanda | 34,814 |
-| 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 29,162 |
-| 4 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke | Kigali, Rwanda | 17,863 |
-| 5 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | Kigali , Rwanda | 13,969 |
-| 6 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA | Rwanda | 11,697 |
-| 7 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 10,130 |
-| 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | Kigali, Rwanda | 9,290 |
-| 9 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 8,814 |
-| 10 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | Kigali/Rwanda | 8,467 |
-| 11 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  | Rwanda | 8,233 |
-| 12 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 7,511 |
-| 13 | [Aurumdev952](https://github.com/Aurumdev952) | Benjamin | Rwanda | 7,438 |
-| 14 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 7,389 |
-| 15 | [princechrix](https://github.com/princechrix) | Prince Chrix | Kigali, Rwanda | 7,377 |
-| 16 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | Rwanda | 6,886 |
-| 17 | [leocode09](https://github.com/leocode09) | KWIZERA Emmanuel Leonidas | Rwanda, Kigali | 6,555 |
-| 18 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 6,491 |
-| 19 | [TresorRw](https://github.com/TresorRw) | CYUSA Alain Tresor | Kigali, Rwanda | 6,320 |
-| 20 | [Elissa100](https://github.com/Elissa100) |  | Kigali, Rwanda | 6,181 |
+| 1 | [iamyoramu](https://github.com/iamyoramu) | IRUTABYOSE Yoramu | Kigali, Rwanda | 3,312,996 |
+| 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 59,921 |
+| 3 | [gentil-lenoir](https://github.com/gentil-lenoir) | Gentil M. | Kigali, Rwanda | 34,814 |
+| 4 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 29,162 |
+| 5 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke | Kigali, Rwanda | 17,863 |
+| 6 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | Kigali , Rwanda | 13,969 |
+| 7 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA | Rwanda | 11,697 |
+| 8 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 10,130 |
+| 9 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | Kigali, Rwanda | 9,290 |
+| 10 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 8,814 |
+| 11 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | Kigali/Rwanda | 8,467 |
+| 12 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  | Rwanda | 8,233 |
+| 13 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 7,511 |
+| 14 | [Aurumdev952](https://github.com/Aurumdev952) | Benjamin | Rwanda | 7,438 |
+| 15 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 7,389 |
+| 16 | [princechrix](https://github.com/princechrix) | Prince Chrix | Kigali, Rwanda | 7,377 |
+| 17 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | Rwanda | 6,886 |
+| 18 | [leocode09](https://github.com/leocode09) | KWIZERA Emmanuel Leonidas | Rwanda, Kigali | 6,555 |
+| 19 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 6,491 |
+| 20 | [TresorRw](https://github.com/TresorRw) | CYUSA Alain Tresor | Kigali, Rwanda | 6,320 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,534
 | 19 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 314 |
 | 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | Rwanda | 306 |
 
-Generated: 2026-10-07T09:00:56.448Z
+Generated: 2026-10-07T09:56:10.492Z

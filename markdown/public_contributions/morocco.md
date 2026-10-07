@@ -1,6 +1,6 @@
 # Public Contributions - Morocco
 
-Generated: 2026-10-07T08:54:50.674Z
+Generated: 2026-10-07T09:48:54.659Z
 
 Users: 9672
 
@@ -18,11 +18,11 @@ Users: 9672
 | 10 | [ielbadisy](https://github.com/ielbadisy) | Imad EL BADISY  | CM6RI |  | Rabat (Morocco) | 2574 |
 | 11 | [ImadSaddik](https://github.com/ImadSaddik) | Imad Saddik |  |  | Morocco | 2543 |
 | 12 | [Hi1talib1World](https://github.com/Hi1talib1World) | hicham outaleb | Denzo |  | Essaouira, Morocco | 2431 |
-| 13 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | @theodo-group |  | Morocco | 2338 |
-| 14 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | YOUCODE - SAFI |  | Taroudant, Morocco | 2293 |
-| 15 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | @MyLhassane |  | Morocco | 2283 |
-| 16 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | @Automattic |  | Morocco | 2276 |
-| 17 | [faiz-oussama](https://github.com/faiz-oussama) | Oussama Faiz | Oracle |  | Casablanca, Morocco | 2189 |
-| 18 | [abdarrhmanessetaoui](https://github.com/abdarrhmanessetaoui) | ABDERRAHMAN SETTAOUI |  |  | Marrakech, Morocco | 2173 |
-| 19 | [aymanebouljam](https://github.com/aymanebouljam) | Aymane Bouljam |  |  | Morocco | 2144 |
-| 20 | [alisqueandreliman](https://github.com/alisqueandreliman) | Walid BOUSSOU |  |  | Tetouan, Morocco. | 2102 |
+| 13 | [tornidomaroc-web](https://github.com/tornidomaroc-web) | Abdelfettah Amellah |  | AboJadMar | Morocco | 2395 |
+| 14 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | @theodo-group |  | Morocco | 2338 |
+| 15 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | YOUCODE - SAFI |  | Taroudant, Morocco | 2293 |
+| 16 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | @MyLhassane |  | Morocco | 2283 |
+| 17 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | @Automattic |  | Morocco | 2276 |
+| 18 | [faiz-oussama](https://github.com/faiz-oussama) | Oussama Faiz | Oracle |  | Casablanca, Morocco | 2189 |
+| 19 | [abdarrhmanessetaoui](https://github.com/abdarrhmanessetaoui) | ABDERRAHMAN SETTAOUI |  |  | Marrakech, Morocco | 2173 |
+| 20 | [aymanebouljam](https://github.com/aymanebouljam) | Aymane Bouljam |  |  | Morocco | 2144 |

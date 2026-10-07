@@ -1,6 +1,6 @@
 # Followers - Saint Pierre and Miquelon
 
-Generated: 2026-10-07T09:03:54.726Z
+Generated: 2026-10-07T09:56:38.738Z
 
 Users: 19
 
@@ -13,9 +13,9 @@ Users: 19
 | 5 | [greggstyle](https://github.com/greggstyle) | greggstyle | Digidatale & Capston.AI |  | Saint-Pierre, La Réunion | 4 |
 | 6 | [Antonin-crypto](https://github.com/Antonin-crypto) | Antonin | Holberton School |  | Saint pierre des landes | 3 |
 | 7 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  |  |  | Saint-pierre La Réunion | 3 |
-| 8 | [IronFly7](https://github.com/IronFly7) | RoroLeRigolo |  |  | Lycée Saint Pierre Calais | 2 |
-| 9 | [Mickael1987](https://github.com/Mickael1987) | Mickael |  |  | Saint Pierre en Faucigny | 2 |
-| 10 | [visualAngus](https://github.com/visualAngus) | Gael Pupin |  |  | Franqueville Saint Pierre | 2 |
+| 8 | [visualAngus](https://github.com/visualAngus) | Gael Pupin |  |  | Franqueville Saint Pierre | 3 |
+| 9 | [IronFly7](https://github.com/IronFly7) | RoroLeRigolo |  |  | Lycée Saint Pierre Calais | 2 |
+| 10 | [Mickael1987](https://github.com/Mickael1987) | Mickael |  |  | Saint Pierre en Faucigny | 2 |
 | 11 | [Wimimaro](https://github.com/Wimimaro) | Wayl Zender | Harmonie Mutuelle | Wimimaro | Saint Pierre des corps | 2 |
 | 12 | [adriencastan](https://github.com/adriencastan) | Adrien Castan |  |  | Saint Pierre de Lages | 1 |
 | 13 | [affagard](https://github.com/affagard) | David Affagard |  |  | Saint Pierre Quiberon (56 - France) | 1 |

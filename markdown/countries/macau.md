@@ -1,6 +1,6 @@
 # Macau
 
-Indexed users: 452
+Indexed users: 451
 
 | Leaderboard | Link |
 |---|---|
@@ -12,7 +12,7 @@ Indexed users: 452
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 7,564 |
+| 1 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,280 |
 | 2 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 7,150 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 6,326 |
 | 4 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 4,528 |
@@ -30,15 +30,15 @@ Indexed users: 452
 | 16 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,294 |
 | 17 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 1,245 |
 | 18 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
-| 19 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,126 |
-| 20 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,025 |
+| 19 | [scooorpion](https://github.com/scooorpion) | Xiao | Macau | 1,200 |
+| 20 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,126 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 4,528 |
-| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 3,637 |
+| 1 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 4,767 |
+| 2 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 4,528 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,526 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 1,773 |
 | 5 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
@@ -63,7 +63,7 @@ Indexed users: 452
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ken0225](https://github.com/ken0225) | Ke"Ken"WANG | Macau | 417 |
-| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 400 |
+| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 404 |
 | 3 | [yangfengzzz](https://github.com/yangfengzzz) | yangfengzzz | Macau | 207 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 200 |
 | 5 | [andyhamgit](https://github.com/andyhamgit) | Di Han | Macau | 187 |
@@ -83,4 +83,4 @@ Indexed users: 452
 | 19 | [greatzh](https://github.com/greatzh) | Zihao Zhang | macao | 65 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 61 |
 
-Generated: 2026-10-07T08:51:07.180Z
+Generated: 2026-10-07T09:45:52.167Z

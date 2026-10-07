@@ -1,8 +1,8 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-07T08:55:32.266Z
+Generated: 2026-10-07T09:49:01.799Z
 
-Users: 2084
+Users: 2083
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 2084
 | 8 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung |  |  | Yangon, Myanmar | 3886 |
 | 9 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 3774 |
 | 10 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 3610 |
-| 11 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3322 |
-| 12 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3158 |
-| 13 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | IdeaCode Academy |  | Myanmar | 3018 |
-| 14 | [y3l1n4ung](https://github.com/y3l1n4ung) | Ye Lin Aung | Witz-U |  | Yangon , Myanmar | 2988 |
-| 15 | [HtetOoWaiYan](https://github.com/HtetOoWaiYan) | Htet Oo Wai Yan |  |  | Myanmar (Burma) | 2953 |
-| 16 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 2778 |
-| 17 | [kokim2022](https://github.com/kokim2022) | hwaung | Klink Myanmar, Oakhouse Technology |  | Yangon, Myanmar | 2775 |
-| 18 | [kyawkoko232](https://github.com/kyawkoko232) | Kyaw Ko Ko | - | kyawkoko232 | Yangon, Myanmar(Burma) | 2773 |
-| 19 | [myat-kyaw-thu](https://github.com/myat-kyaw-thu) | Myat Kyaw Thu |  |  | Yangon, Myanmar | 2764 |
-| 20 | [htooaungphyolwin](https://github.com/htooaungphyolwin) | Htoo Aung Phyo Lwin |  |  | Mandalay, Myanmar  | 2745 |
+| 11 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet |  |  | Myanmar | 3492 |
+| 12 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3322 |
+| 13 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3158 |
+| 14 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | IdeaCode Academy |  | Myanmar | 3018 |
+| 15 | [y3l1n4ung](https://github.com/y3l1n4ung) | Ye Lin Aung | Witz-U |  | Yangon , Myanmar | 2988 |
+| 16 | [HtetOoWaiYan](https://github.com/HtetOoWaiYan) | Htet Oo Wai Yan |  |  | Myanmar (Burma) | 2953 |
+| 17 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 2778 |
+| 18 | [kokim2022](https://github.com/kokim2022) | hwaung | Klink Myanmar, Oakhouse Technology |  | Yangon, Myanmar | 2775 |
+| 19 | [kyawkoko232](https://github.com/kyawkoko232) | Kyaw Ko Ko | - | kyawkoko232 | Yangon, Myanmar(Burma) | 2773 |
+| 20 | [myat-kyaw-thu](https://github.com/myat-kyaw-thu) | Myat Kyaw Thu |  |  | Yangon, Myanmar | 2764 |

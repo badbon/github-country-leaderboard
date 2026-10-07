@@ -48,15 +48,15 @@ Indexed users: 1,787
 | 9 | [Nospamas](https://github.com/Nospamas) |  | Victoria, BC | 1,851 |
 | 10 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | Victoria BC | 1,779 |
 | 11 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 1,748 |
-| 12 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,523 |
-| 13 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom | Victoria, BC | 1,436 |
-| 14 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,426 |
-| 15 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
-| 16 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 1,389 |
-| 17 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,389 |
-| 18 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | Victoria | 1,166 |
-| 19 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | Victoria, BC | 1,098 |
-| 20 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Victoria BC | 1,092 |
+| 12 | [jamubc](https://github.com/jamubc) |  | Victoria, BC | 1,581 |
+| 13 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,523 |
+| 14 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom | Victoria, BC | 1,436 |
+| 15 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,426 |
+| 16 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
+| 17 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 1,389 |
+| 18 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,389 |
+| 19 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | Victoria | 1,166 |
+| 20 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | Victoria, BC | 1,098 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,787
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
 
-Generated: 2026-10-07T09:05:59.567Z
+Generated: 2026-10-07T09:57:38.257Z

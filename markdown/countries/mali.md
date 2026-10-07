@@ -18,8 +18,8 @@ Indexed users: 347
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 5,524 |
 | 5 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,728 |
 | 6 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 4,413 |
-| 7 | [MrSakine](https://github.com/MrSakine) | MrSakine | Mali | 2,853 |
-| 8 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Bamako-Mali | 2,403 |
+| 7 | [MrSakine](https://github.com/MrSakine) | MrSakine | Mali | 3,403 |
+| 8 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Bamako-Mali | 2,603 |
 | 9 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 2,336 |
 | 10 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,136 |
 | 11 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,047 |
@@ -55,8 +55,8 @@ Indexed users: 347
 | 16 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 179 |
 | 17 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 175 |
 | 18 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 157 |
-| 19 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Mali | 134 |
-| 20 | [ibrahim10sy](https://github.com/ibrahim10sy) | Ibrahim sy | Bamako, Mali | 118 |
+| 19 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
+| 20 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Mali | 134 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 29 |
 | 20 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 
-Generated: 2026-10-07T08:52:07.698Z
+Generated: 2026-10-07T09:47:18.056Z

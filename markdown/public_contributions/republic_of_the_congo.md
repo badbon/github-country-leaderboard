@@ -1,6 +1,6 @@
 # Public Contributions - Republic of the Congo
 
-Generated: 2026-10-07T09:00:44.487Z
+Generated: 2026-10-07T09:55:37.576Z
 
 Users: 299
 
@@ -24,5 +24,5 @@ Users: 299
 | 16 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | AKIENI ACADEMY |  | Congo-Brazzaville | 243 |
 | 17 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | @akieni-tech | bryan_6243 | Brazzaville - Congo | 210 |
 | 18 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 207 |
-| 19 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  |  | AkianaArsene | Brazzaville, Congo | 195 |
-| 20 | [chronoss09](https://github.com/chronoss09) | Chronoss | CHRONOSS GAMES | chronoss09 | Congo | 192 |
+| 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi |  | NandiSne | Republic of the Congo | 200 |
+| 20 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  |  | AkianaArsene | Brazzaville, Congo | 195 |

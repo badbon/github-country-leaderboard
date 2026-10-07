@@ -1,8 +1,8 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-07T08:52:49.389Z
+Generated: 2026-10-07T09:47:39.492Z
 
-Users: 722
+Users: 721
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 722
 | 8 | [512banque](https://github.com/512banque) | Kevin Richard | SEObserver | 512banque | Mauritius | 4265 |
 | 9 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 4077 |
 | 10 | [oliverox](https://github.com/oliverox) | Oliver Oxenham |  | oliveroxenham | Mauritius | 4076 |
-| 11 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 3083 |
-| 12 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 2754 |
-| 13 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 2644 |
-| 14 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | @RingierIMU  |  | Mauritius | 2640 |
-| 15 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 2558 |
-| 16 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 2535 |
-| 17 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  |  | iwugodjoshua | Republic of Mauritius  | 2496 |
-| 18 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 2398 |
-| 19 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee |  | wkhayrattee | Mauritius | 2323 |
-| 20 | [thhsie](https://github.com/thhsie) | hitesh |  |  | Mauritius | 2289 |
+| 11 | [thhsie](https://github.com/thhsie) | hitesh |  |  | Mauritius | 3695 |
+| 12 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 3083 |
+| 13 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 2754 |
+| 14 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 2644 |
+| 15 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | @RingierIMU  |  | Mauritius | 2640 |
+| 16 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 2558 |
+| 17 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 2535 |
+| 18 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  |  | iwugodjoshua | Republic of Mauritius  | 2496 |
+| 19 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 2398 |
+| 20 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee |  | wkhayrattee | Mauritius | 2323 |

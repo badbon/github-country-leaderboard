@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-07T08:55:38.522Z
+Generated: 2026-10-07T09:49:04.930Z
 
 Users: 475
 
@@ -20,9 +20,9 @@ Users: 475
 | 12 | [euricodande](https://github.com/euricodande) | Eurico Dande |  | euricodande12 | Namibia-Windhoek | 321 |
 | 13 | [PascalMTK](https://github.com/PascalMTK) |  |  |  | Windhoek - Namibia | 271 |
 | 14 | [LukeCloete](https://github.com/LukeCloete) | Luke Cloete |  |  | Windhoek, Namibia | 266 |
-| 15 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung |  |  | Windhoek, Namibia | 237 |
-| 16 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | @erongo  |  | Walvis Bay, Namibia | 230 |
-| 17 | [sein-pr](https://github.com/sein-pr) | Sein Muwana | Ascendes Superius |  | Namibia  | 229 |
-| 18 | [Jama-analyst](https://github.com/Jama-analyst) | Jama | Bank Windhoek |  | Windhoek. Namibia | 219 |
-| 19 | [wiesnerbernard](https://github.com/wiesnerbernard) | Bernard Wiesner | @nzzdev @DAAily  |  | Namibia | 219 |
-| 20 | [ThomasShikalepo](https://github.com/ThomasShikalepo) | Thomas shikalepo |  |  | Windhoek, Namibia | 215 |
+| 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Technology  |  | Namibia, Windhoek | 263 |
+| 16 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung |  |  | Windhoek, Namibia | 237 |
+| 17 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | @erongo  |  | Walvis Bay, Namibia | 230 |
+| 18 | [sein-pr](https://github.com/sein-pr) | Sein Muwana | Ascendes Superius |  | Namibia  | 229 |
+| 19 | [Jama-analyst](https://github.com/Jama-analyst) | Jama | Bank Windhoek |  | Windhoek. Namibia | 219 |
+| 20 | [wiesnerbernard](https://github.com/wiesnerbernard) | Bernard Wiesner | @nzzdev @DAAily  |  | Namibia | 219 |

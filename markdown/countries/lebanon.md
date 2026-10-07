@@ -1,6 +1,6 @@
 # Lebanon
 
-Indexed users: 2,576
+Indexed users: 2,574
 
 | Leaderboard | Link |
 |---|---|
@@ -48,15 +48,15 @@ Indexed users: 2,576
 | 9 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,623 |
 | 10 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,561 |
 | 11 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 1,333 |
-| 12 | [Compiler-A](https://github.com/Compiler-A) | Ali Mousa | lebanon | 1,238 |
-| 13 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,082 |
-| 14 | [jat10](https://github.com/jat10) | Jad Tarabay | Lebanon | 1,073 |
-| 15 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 1,024 |
-| 16 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah | Beirut, Lebanon | 1,018 |
-| 17 | [hassanaboukhalil](https://github.com/hassanaboukhalil) | hassan abou khalil | Lebanon | 975 |
-| 18 | [slimism](https://github.com/slimism) | Mohammad Slim | Lebanon | 975 |
-| 19 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 944 |
-| 20 | [LebToki](https://github.com/LebToki) | Tarek Tarabichi | Beirut | 936 |
+| 12 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,082 |
+| 13 | [jat10](https://github.com/jat10) | Jad Tarabay | Lebanon | 1,073 |
+| 14 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 1,024 |
+| 15 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah | Beirut, Lebanon | 1,018 |
+| 16 | [hassanaboukhalil](https://github.com/hassanaboukhalil) | hassan abou khalil | Lebanon | 975 |
+| 17 | [slimism](https://github.com/slimism) | Mohammad Slim | Lebanon | 975 |
+| 18 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 944 |
+| 19 | [LebToki](https://github.com/LebToki) | Tarek Tarabichi | Beirut | 936 |
+| 20 | [moustafak8](https://github.com/moustafak8) | Mustafa Alkamel | Beirut , Lebanon | 930 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,576
 | 19 | [GaroK01](https://github.com/GaroK01) | Garo Kalfayan | Lebanon | 104 |
 | 20 | [PeterHackz](https://github.com/PeterHackz) | Peterson | Beirut, Lebanon | 103 |
 
-Generated: 2026-10-07T08:49:23.373Z
+Generated: 2026-10-07T09:43:46.357Z

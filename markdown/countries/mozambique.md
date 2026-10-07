@@ -1,6 +1,6 @@
 # Mozambique
 
-Indexed users: 1,174
+Indexed users: 1,173
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 1,174
 | 17 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,328 |
 | 18 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,265 |
 | 19 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 2,239 |
-| 20 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 2,086 |
+| 20 | [Aderito-Muffins](https://github.com/Aderito-Muffins) | Adérito Muffins | Mozambique, Maputo | 2,088 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,174
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [EMEDE2014](https://github.com/EMEDE2014) | Emede Momade | Nampula/Mozambique | 96 |
 
-Generated: 2026-10-07T08:54:57.027Z
+Generated: 2026-10-07T09:48:58.497Z

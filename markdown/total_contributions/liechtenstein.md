@@ -1,8 +1,8 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-07T08:50:53.324Z
+Generated: 2026-10-07T09:44:24.360Z
 
-Users: 115
+Users: 113
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 115
 | 6 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 1851 |
 | 7 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1412 |
 | 8 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 1280 |
-| 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1035 |
-| 10 | [volkmarritter](https://github.com/volkmarritter) | Volkmar Ritter | BICon |  | Vaduz | 979 |
-| 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 629 |
-| 12 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 585 |
-| 13 | [d0dge-dev](https://github.com/d0dge-dev) | David |  |  | Liechtenstein | 473 |
-| 14 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 463 |
-| 15 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 333 |
-| 16 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 332 |
+| 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1157 |
+| 10 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 629 |
+| 11 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 585 |
+| 12 | [d0dge-dev](https://github.com/d0dge-dev) | David |  |  | Liechtenstein | 473 |
+| 13 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 463 |
+| 14 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 333 |
+| 15 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 332 |
+| 16 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 329 |
 | 17 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 307 |
 | 18 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 296 |
-| 19 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 274 |
-| 20 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 265 |
+| 19 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 265 |
+| 20 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 171 |

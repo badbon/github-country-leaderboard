@@ -1,6 +1,6 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-07T09:05:53.148Z
+Generated: 2026-10-07T09:57:30.879Z
 
 Users: 1365
 
@@ -15,12 +15,12 @@ Users: 1365
 | 7 | [crybaby050](https://github.com/crybaby050) | Seydina |  |  | Senegal | 1661 |
 | 8 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | Freelancing |  | SENEGAL | 1545 |
 | 9 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Teyliom |  | Dakar,Senegal | 1452 |
-| 10 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | OptimaIA |  | Dakar,Senegal | 1147 |
-| 11 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Digital Project Manager at Laiterie Du Berger | supermalang_ | Dakar | 1131 |
-| 12 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 1108 |
-| 13 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1067 |
-| 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 1067 |
-| 15 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma |  |  | Senegal | 1052 |
+| 10 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma |  |  | Senegal | 1253 |
+| 11 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | OptimaIA |  | Dakar,Senegal | 1147 |
+| 12 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Digital Project Manager at Laiterie Du Berger | supermalang_ | Dakar | 1131 |
+| 13 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 1108 |
+| 14 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1067 |
+| 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 1067 |
 | 16 | [bngesp](https://github.com/bngesp) | bassirou ngom | Phd Computer Science |  | Senegal | 998 |
 | 17 | [likemcode](https://github.com/likemcode) | josue Avuh |  |  | Dakar | 927 |
 | 18 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 900 |

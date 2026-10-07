@@ -1,6 +1,6 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-07T09:00:37.423Z
+Generated: 2026-10-07T09:54:53.407Z
 
 Users: 1550
 
@@ -18,11 +18,11 @@ Users: 1550
 | 10 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | @PostHog |  | Bayamón, Puerto Rico | 2094 |
 | 11 | [jgravois](https://github.com/jgravois) | john gravois | @compilerla |  | san juan capo, ca | 1685 |
 | 12 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson |  |  | Puerto Rico | 1337 |
-| 13 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Nova Labs Research |  | Puerto Rico | 1140 |
-| 14 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Holberton Coding School |  | Puerto Rico | 1089 |
-| 15 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez |  |  | Puerto Rico | 1058 |
-| 16 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | @Microsoft | jaxelr | San Juan, Puerto Rico | 1013 |
-| 17 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago |  | Marc0sSantiago | Puerto Rico | 988 |
-| 18 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos |  |  | Puerto Rico | 946 |
-| 19 | [dg203302](https://github.com/dg203302) | Diego García |  |  | San Juan Argentina | 937 |
-| 20 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | San Juan |  | Puerto Rico | 858 |
+| 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús |  |  | San Juan, Puerto Rico | 1331 |
+| 14 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Nova Labs Research |  | Puerto Rico | 1140 |
+| 15 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Holberton Coding School |  | Puerto Rico | 1089 |
+| 16 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez |  |  | Puerto Rico | 1058 |
+| 17 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | @Microsoft | jaxelr | San Juan, Puerto Rico | 1013 |
+| 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago |  | Marc0sSantiago | Puerto Rico | 988 |
+| 19 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos |  |  | Puerto Rico | 946 |
+| 20 | [dg203302](https://github.com/dg203302) | Diego García |  |  | San Juan Argentina | 937 |

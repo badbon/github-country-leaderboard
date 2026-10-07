@@ -1,8 +1,8 @@
 # Public Contributions - Lebanon
 
-Generated: 2026-10-07T08:49:23.373Z
+Generated: 2026-10-07T09:43:46.357Z
 
-Users: 2576
+Users: 2574
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 2576
 | 9 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo |  |  | Beirut, Lebanon | 1623 |
 | 10 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 1561 |
 | 11 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 1333 |
-| 12 | [Compiler-A](https://github.com/Compiler-A) | Ali Mousa |  |  | lebanon | 1238 |
-| 13 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Greateck |  | Lebanon | 1082 |
-| 14 | [jat10](https://github.com/jat10) | Jad Tarabay | ZAQ |  | Lebanon | 1073 |
-| 15 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | @openfga  |  | Beirut, Lebanon | 1024 |
-| 16 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah |  | MABDdev | Beirut, Lebanon | 1018 |
-| 17 | [hassanaboukhalil](https://github.com/hassanaboukhalil) | hassan abou khalil |  | CodingHassan | Lebanon | 975 |
-| 18 | [slimism](https://github.com/slimism) | Mohammad Slim |  |  | Lebanon | 975 |
-| 19 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | @Oreyeon |  | Beirut, LB | 944 |
-| 20 | [LebToki](https://github.com/LebToki) | Tarek Tarabichi | 2TInteractive |  | Beirut | 936 |
+| 12 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Greateck |  | Lebanon | 1082 |
+| 13 | [jat10](https://github.com/jat10) | Jad Tarabay | ZAQ |  | Lebanon | 1073 |
+| 14 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | @openfga  |  | Beirut, Lebanon | 1024 |
+| 15 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah |  | MABDdev | Beirut, Lebanon | 1018 |
+| 16 | [hassanaboukhalil](https://github.com/hassanaboukhalil) | hassan abou khalil |  | CodingHassan | Lebanon | 975 |
+| 17 | [slimism](https://github.com/slimism) | Mohammad Slim |  |  | Lebanon | 975 |
+| 18 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | @Oreyeon |  | Beirut, LB | 944 |
+| 19 | [LebToki](https://github.com/LebToki) | Tarek Tarabichi | 2TInteractive |  | Beirut | 936 |
+| 20 | [moustafak8](https://github.com/moustafak8) | Mustafa Alkamel |  |  | Beirut , Lebanon | 930 |

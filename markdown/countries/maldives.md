@@ -71,7 +71,7 @@ Indexed users: 356
 | 7 | [raftalks](https://github.com/raftalks) | Raf | Maldives | 88 |
 | 8 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 86 |
 | 9 | [aharen](https://github.com/aharen) | Ahmed Khusaam | Malé, Maldives | 80 |
-| 10 | [Z3d0X](https://github.com/Z3d0X) | ZedoX | Maldives | 80 |
+| 10 | [Z3d0X](https://github.com/Z3d0X) | ZedoX | Maldives | 79 |
 | 11 | [Glaisher](https://github.com/Glaisher) | Mohamed Yooshau | Maldives | 70 |
 | 12 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 68 |
 | 13 | [nafeef123](https://github.com/nafeef123) | Mafeef123 | Maldives | 62 |
@@ -83,4 +83,4 @@ Indexed users: 356
 | 19 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood | Thulhaadhoo, Maldives | 41 |
 | 20 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 41 |
 
-Generated: 2026-10-07T08:52:04.933Z
+Generated: 2026-10-07T09:47:12.907Z

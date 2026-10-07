@@ -1,13 +1,13 @@
 # Followers - Macau
 
-Generated: 2026-10-07T08:51:07.180Z
+Generated: 2026-10-07T09:45:52.167Z
 
-Users: 452
+Users: 451
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [ken0225](https://github.com/ken0225) | Ke"Ken"WANG | Universidade Politécnica de Macau |  | Macau | 417 |
-| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 400 |
+| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 404 |
 | 3 | [yangfengzzz](https://github.com/yangfengzzz) | yangfengzzz |  |  | Macau | 207 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 200 |
 | 5 | [andyhamgit](https://github.com/andyhamgit) | Di Han |  |  | Macau | 187 |

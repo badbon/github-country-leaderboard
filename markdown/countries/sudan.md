@@ -1,6 +1,6 @@
 # Sudan
 
-Indexed users: 735
+Indexed users: 734
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 735
 | 19 | [osayami](https://github.com/osayami) | OSAYAMI | Sudan | 50 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 46 |
 
-Generated: 2026-10-07T09:09:25.862Z
+Generated: 2026-10-07T10:00:28.482Z

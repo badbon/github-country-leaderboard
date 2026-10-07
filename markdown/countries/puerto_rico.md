@@ -49,14 +49,14 @@ Indexed users: 1,550
 | 10 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 2,094 |
 | 11 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 1,685 |
 | 12 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 1,337 |
-| 13 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Puerto Rico | 1,140 |
-| 14 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Puerto Rico | 1,089 |
-| 15 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez | Puerto Rico | 1,058 |
-| 16 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,013 |
-| 17 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
-| 18 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos | Puerto Rico | 946 |
-| 19 | [dg203302](https://github.com/dg203302) | Diego García | San Juan Argentina | 937 |
-| 20 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | Puerto Rico | 858 |
+| 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús | San Juan, Puerto Rico | 1,331 |
+| 14 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Puerto Rico | 1,140 |
+| 15 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Puerto Rico | 1,089 |
+| 16 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez | Puerto Rico | 1,058 |
+| 17 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,013 |
+| 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
+| 19 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos | Puerto Rico | 946 |
+| 20 | [dg203302](https://github.com/dg203302) | Diego García | San Juan Argentina | 937 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,550
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-07T09:00:37.423Z
+Generated: 2026-10-07T09:54:53.407Z

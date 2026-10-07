@@ -1,20 +1,20 @@
 # Public Contributions - Norway
 
-Generated: 2026-10-07T08:59:07.696Z
+Generated: 2026-10-07T09:52:21.836Z
 
-Users: 19631
+Users: 19630
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [marcusramberg](https://github.com/marcusramberg) | Marcus Ramberg | reMarkable |  | Oslo, Norway | 59258 |
 | 2 | [caengen](https://github.com/caengen) | Christian Engen | @DIBkunnskap |  | Lørenskog, Norway | 18071 |
 | 3 | [filipvanlaenen](https://github.com/filipvanlaenen) | Filip van Laenen | Computas |  | Oslo | 14105 |
-| 4 | [eonist](https://github.com/eonist) | André J |  |  | Norway, Oslo | 13078 |
-| 5 | [einari](https://github.com/einari) | Einar Ingebrigtsen | @Novanet | einari | Sandefjord, Norway | 12368 |
-| 6 | [khaliqgant](https://github.com/khaliqgant) | Khaliq | @AgentWorkforce | khaliqgant | Oslo, Norway | 11837 |
-| 7 | [HelgeSverre](https://github.com/HelgeSverre) | Helge Sverre | Crescat AS | helgesverre | Bergen, Norway | 11728 |
-| 8 | [FRIKKern](https://github.com/FRIKKern) | Frikk Jarl | Guerrilla |  | Oslo, Norway | 11697 |
-| 9 | [Reketino](https://github.com/Reketino) | Bear Even Lyngstad |  |  | Norway | 11213 |
+| 4 | [Reketino](https://github.com/Reketino) | Bear Even Lyngstad |  |  | Norway | 13524 |
+| 5 | [eonist](https://github.com/eonist) | André J |  |  | Norway, Oslo | 13078 |
+| 6 | [einari](https://github.com/einari) | Einar Ingebrigtsen | @Novanet | einari | Sandefjord, Norway | 12368 |
+| 7 | [khaliqgant](https://github.com/khaliqgant) | Khaliq | @AgentWorkforce | khaliqgant | Oslo, Norway | 11837 |
+| 8 | [HelgeSverre](https://github.com/HelgeSverre) | Helge Sverre | Crescat AS | helgesverre | Bergen, Norway | 11728 |
+| 9 | [FRIKKern](https://github.com/FRIKKern) | Frikk Jarl | Guerrilla |  | Oslo, Norway | 11697 |
 | 10 | [eirikhanasand](https://github.com/eirikhanasand) | Eirik Hanasand |  | eirikhanasand | Norway | 9360 |
 | 11 | [hausnes](https://github.com/hausnes) | Jo Bjørnar Hausnes | Amalie Skram vgs |  | Bergen, Norway | 9125 |
 | 12 | [asgeirf](https://github.com/asgeirf) | Asgeir Frimannsson |  |  | Oslo, Norway | 9064 |

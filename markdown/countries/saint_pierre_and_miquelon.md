@@ -37,7 +37,7 @@ Indexed users: 19
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [pjsebastien](https://github.com/pjsebastien) | sebastien PIERREJEAN | Saint Pierre 97410 (La Réunion) | 264 |
-| 2 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 161 |
+| 2 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 163 |
 | 3 | [greggstyle](https://github.com/greggstyle) | greggstyle | Saint-Pierre, La Réunion | 146 |
 | 4 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  | Saint-pierre La Réunion | 144 |
 | 5 | [AntoinePetit95](https://github.com/AntoinePetit95) | Antoine PETIT | Saint-Pierre, la Réunion | 73 |
@@ -67,9 +67,9 @@ Indexed users: 19
 | 5 | [greggstyle](https://github.com/greggstyle) | greggstyle | Saint-Pierre, La Réunion | 4 |
 | 6 | [Antonin-crypto](https://github.com/Antonin-crypto) | Antonin | Saint pierre des landes | 3 |
 | 7 | [matthieu-viel-fr](https://github.com/matthieu-viel-fr) |  | Saint-pierre La Réunion | 3 |
-| 8 | [IronFly7](https://github.com/IronFly7) | RoroLeRigolo | Lycée Saint Pierre Calais | 2 |
-| 9 | [Mickael1987](https://github.com/Mickael1987) | Mickael | Saint Pierre en Faucigny | 2 |
-| 10 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 2 |
+| 8 | [visualAngus](https://github.com/visualAngus) | Gael Pupin | Franqueville Saint Pierre | 3 |
+| 9 | [IronFly7](https://github.com/IronFly7) | RoroLeRigolo | Lycée Saint Pierre Calais | 2 |
+| 10 | [Mickael1987](https://github.com/Mickael1987) | Mickael | Saint Pierre en Faucigny | 2 |
 | 11 | [Wimimaro](https://github.com/Wimimaro) | Wayl Zender | Saint Pierre des corps | 2 |
 | 12 | [adriencastan](https://github.com/adriencastan) | Adrien Castan | Saint Pierre de Lages | 1 |
 | 13 | [affagard](https://github.com/affagard) | David Affagard | Saint Pierre Quiberon (56 - France) | 1 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [rbouikila](https://github.com/rbouikila) | el pekenio | Saint Pierre du Perray | 1 |
 | 19 | [saudic](https://github.com/saudic) |  | Saint-Pierre-Quiberon | 1 |
 
-Generated: 2026-10-07T09:03:54.726Z
+Generated: 2026-10-07T09:56:38.738Z

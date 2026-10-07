@@ -1,21 +1,21 @@
 # Followers - New Caledonia
 
-Generated: 2026-10-07T08:57:10.833Z
+Generated: 2026-10-07T09:49:42.647Z
 
 Users: 111
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [AkiraLaine](https://github.com/AkiraLaine) | Akira Laine |  |  | Noumea, New Caledonia | 261 |
-| 2 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 234 |
-| 3 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 75 |
+| 2 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 235 |
+| 3 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 77 |
 | 4 | [loxK](https://github.com/loxK) | Laurent Dinclaux | Gecka Apps |  | New Caledonia | 57 |
-| 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 55 |
+| 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 56 |
 | 6 | [darwiin](https://github.com/darwiin) | Christophe ROGER |  |  | New Caledonia | 42 |
 | 7 | [alexistoulotte](https://github.com/alexistoulotte) | Alexis Toulotte |  |  | Nouméa | 28 |
 | 8 | [jonathandelefortrie](https://github.com/jonathandelefortrie) | Jonathan Delefortrie |  |  | Nouméa | 23 |
-| 9 | [pmietlicki](https://github.com/pmietlicki) | Pascal MIETLICKI |  |  | New Caledonia | 17 |
-| 10 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 14 |
+| 9 | [pmietlicki](https://github.com/pmietlicki) | Pascal MIETLICKI |  |  | New Caledonia | 19 |
+| 10 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 15 |
 | 11 | [stoyann-open-classrooms](https://github.com/stoyann-open-classrooms) | Stoyann Velten | @KRYSTO-NC  | DevStoyann | Nouméa (New Caledonia) | 14 |
 | 12 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 13 |
 | 13 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 12 |

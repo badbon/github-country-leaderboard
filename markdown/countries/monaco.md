@@ -12,18 +12,18 @@ Indexed users: 142
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,360 |
-| 2 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 5,752 |
+| 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 6,718 |
+| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,360 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,015 |
-| 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,386 |
+| 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,430 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,852 |
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,623 |
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,132 |
 | 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,040 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 823 |
-| 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 659 |
-| 11 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 624 |
-| 12 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 591 |
+| 10 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 713 |
+| 11 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 659 |
+| 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 624 |
 | 13 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 471 |
 | 14 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 418 |
 | 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 409 |
@@ -38,7 +38,7 @@ Indexed users: 142
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 4,071 |
-| 2 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 2,181 |
+| 2 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 2,146 |
 | 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,611 |
 | 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 624 |
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 245 |
@@ -47,7 +47,7 @@ Indexed users: 142
 | 8 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 201 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 168 |
 | 10 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | Nice / Monaco / Sophia Antipolis | 114 |
-| 11 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering | Monaco | 106 |
+| 11 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering | Monaco | 109 |
 | 12 | [fedecarz](https://github.com/fedecarz) | fedecarz | Monaco | 99 |
 | 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 80 |
 | 14 | [yeainworks](https://github.com/yeainworks) | yea! | monaco | 74 |
@@ -63,24 +63,24 @@ Indexed users: 142
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [aplatoff](https://github.com/aplatoff) | Andrey Platov | Monaco | 132 |
-| 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 94 |
+| 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 97 |
 | 3 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 40 |
 | 4 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 40 |
 | 5 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 36 |
 | 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 33 |
 | 7 | [zertawz](https://github.com/zertawz) | Jean-Christophe BURNOT | MONACO / LYON / LAUSANNE | 30 |
 | 8 | [jmbertin](https://github.com/jmbertin) | Jean-Michel Bertin | Monaco | 24 |
-| 9 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 | Monte-Carlo, Monaco | 22 |
-| 10 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 22 |
+| 9 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 23 |
+| 10 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 | Monte-Carlo, Monaco | 22 |
 | 11 | [bait-archived](https://github.com/bait-archived) | Beryllium (Privated...) | Fontevielle, Monaco | 17 |
 | 12 | [SilencyDev](https://github.com/SilencyDev) | Kevin Macquet | Monaco | 17 |
 | 13 | [z2sx](https://github.com/z2sx) | Andrey Platov | Monaco | 17 |
 | 14 | [FSOL-XDAG](https://github.com/FSOL-XDAG) | FSOL-XDAG | Monaco / MC | 16 |
-| 15 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 15 |
-| 16 | [AAVVIronAlex](https://github.com/AAVVIronAlex) | Alex | Monaco | 14 |
-| 17 | [boolaz](https://github.com/boolaz) | Bruno Valentin  | Monaco | 14 |
-| 18 | [CERT-MC](https://github.com/CERT-MC) | CERT-MC | Monaco | 14 |
+| 15 | [CERT-MC](https://github.com/CERT-MC) | CERT-MC | Monaco | 15 |
+| 16 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 15 |
+| 17 | [AAVVIronAlex](https://github.com/AAVVIronAlex) | Alex | Monaco | 14 |
+| 18 | [boolaz](https://github.com/boolaz) | Bruno Valentin  | Monaco | 14 |
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 12 |
 
-Generated: 2026-10-07T08:53:34.287Z
+Generated: 2026-10-07T09:48:12.899Z

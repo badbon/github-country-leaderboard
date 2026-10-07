@@ -1,8 +1,8 @@
 # Public Contributions - Mozambique
 
-Generated: 2026-10-07T08:54:57.027Z
+Generated: 2026-10-07T09:48:58.497Z
 
-Users: 1174
+Users: 1173
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

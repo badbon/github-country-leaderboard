@@ -13,8 +13,8 @@ Indexed users: 299
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 7,943 |
-| 2 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,798 |
-| 3 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,280 |
+| 2 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,891 |
+| 3 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,798 |
 | 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,075 |
 | 5 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 3,003 |
 | 6 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,723 |
@@ -55,8 +55,8 @@ Indexed users: 299
 | 16 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 243 |
 | 17 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 210 |
 | 18 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 207 |
-| 19 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  | Brazzaville, Congo | 195 |
-| 20 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 192 |
+| 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 200 |
+| 20 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  | Brazzaville, Congo | 195 |
 
 ## Followers
 
@@ -73,14 +73,14 @@ Indexed users: 299
 | 9 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 71 |
 | 10 | [sumaili-shabani](https://github.com/sumaili-shabani) | sumaili shabani roger(patrona) | Congo | 69 |
 | 11 | [btr-ss](https://github.com/btr-ss) | Marcky BITORI | Congo Brazzaville | 67 |
-| 12 | [herilion](https://github.com/herilion) | Heritier Lionge | Goma, Congo | 50 |
-| 13 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Brazzaville (CONGO) | 48 |
+| 12 | [herilion](https://github.com/herilion) | Heritier Lionge | Goma, Congo | 48 |
+| 13 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Brazzaville (CONGO) | 46 |
 | 14 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda | brazzaville \ Congo | 44 |
 | 15 | [lingabo](https://github.com/lingabo) | Lingabo Junior | Congo | 44 |
 | 16 | [bim-g](https://github.com/bim-g) | Boss | Congo, Democratic Republic of, Goma | 37 |
 | 17 | [Cooger17](https://github.com/Cooger17) |  | Congo Brazzaville  | 34 |
 | 18 | [seleshabani](https://github.com/seleshabani) |  | Congo | 33 |
-| 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 28 |
-| 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 28 |
+| 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 28 |
+| 20 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 
-Generated: 2026-10-07T09:00:44.487Z
+Generated: 2026-10-07T09:55:37.576Z

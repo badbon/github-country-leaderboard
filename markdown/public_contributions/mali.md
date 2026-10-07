@@ -1,6 +1,6 @@
 # Public Contributions - Mali
 
-Generated: 2026-10-07T08:52:07.698Z
+Generated: 2026-10-07T09:47:18.056Z
 
 Users: 347
 
@@ -24,5 +24,5 @@ Users: 347
 | 16 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou |  |  | bamako, Mali | 179 |
 | 17 | [skypper109](https://github.com/skypper109) | SKYPPER | AMD tech |  | Mali | 175 |
 | 18 | [Jbriguel](https://github.com/Jbriguel) |  |  |  | Mali | 157 |
-| 19 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Ckan |  | Mali | 134 |
-| 20 | [ibrahim10sy](https://github.com/ibrahim10sy) | Ibrahim sy | Mali |  | Bamako, Mali | 118 |
+| 19 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba |  | d1array | Bamako, Mali | 155 |
+| 20 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Ckan |  | Mali | 134 |

@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-07T08:52:11.892Z
+Generated: 2026-10-07T09:47:22.125Z
 
 Users: 1233
 
@@ -13,9 +13,9 @@ Users: 1233
 | 5 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 8493 |
 | 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 8363 |
 | 7 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 7973 |
-| 8 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7748 |
-| 9 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 7672 |
-| 10 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 7623 |
+| 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 7672 |
+| 9 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 7623 |
+| 10 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7226 |
 | 11 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 6792 |
 | 12 | [SijanC147](https://github.com/SijanC147) | Sean |  |  | Malta | 6258 |
 | 13 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | @BetssonGroup  |  | Malta | 6104 |

@@ -1,6 +1,6 @@
 # Public Contributions - South Sudan
 
-Generated: 2026-10-07T09:08:16.754Z
+Generated: 2026-10-07T09:59:55.765Z
 
 Users: 133
 
@@ -12,7 +12,7 @@ Users: 133
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Nilotik General Trading Co. Ltd | _Maiz27_ | Juba, South Sudan | 1047 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  |  | PuochMabor | South Sudan | 583 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Belednai Technology |  | Juba-South Sudan | 540 |
-| 7 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | @DIGI-UW  @OPENMRS | djnuior256 | Juba  | 489 |
+| 7 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | @DIGI-UW  @OPENMRS | djnuior256 | Juba  | 513 |
 | 8 | [WANI12](https://github.com/WANI12) | wani geoffrey | @open-southsudan  | GeoffreyWani | Juba, South Sudan | 335 |
 | 9 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | SharpNet technologies  |  | Juba South Sudan | 323 |
 | 10 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  |  |  | Juba, South Sudan | 321 |
@@ -23,6 +23,6 @@ Users: 133
 | 15 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | climaware |  | South Sudan | 262 |
 | 16 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | University of Juba |  | Juba, South Sudan | 260 |
 | 17 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Turning Point Innovation Limited |  | Juba | 217 |
-| 18 | [Ibrahim-Lbib](https://github.com/Ibrahim-Lbib) | Ibrahim Labib | Ibrahim Labib Studio |  | Juba, South - Sudan | 178 |
-| 19 | [Konson22](https://github.com/Konson22) | Kon Akech |  | konsonak | Juba South Sudan | 165 |
-| 20 | [dutkulang](https://github.com/dutkulang) | Dut Kulang |  | DutKulang1 | Juba, South Sudan | 163 |
+| 18 | [Konson22](https://github.com/Konson22) | Kon Akech | Miles global Link | konsonak | South Sudan | 215 |
+| 19 | [Ibrahim-Lbib](https://github.com/Ibrahim-Lbib) | Ibrahim Labib | Ibrahim Labib Studio |  | Juba, South - Sudan | 178 |
+| 20 | [garango123](https://github.com/garango123) | Garang Makuach Deng | University of the People  |  | Juba South Sudan | 148 |

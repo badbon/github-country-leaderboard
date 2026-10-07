@@ -1,8 +1,8 @@
 # Public Contributions - Liberia
 
-Generated: 2026-10-07T08:50:43.575Z
+Generated: 2026-10-07T09:59:46.736Z
 
-Users: 208
+Users: 212
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 208
 | 11 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 225 |
 | 12 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr |  | simeonatarr862 | Buchanan City, Liberia | 210 |
 | 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | TBAY Tech Service | FitzgeraldChal | Ontario, Canada & Monrovia, Liberia | 208 |
-| 14 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 199 |
-| 15 | [tommyiversonj](https://github.com/tommyiversonj) | Tommy Iverson Johnson | Partners In Health | tiversonj | Liberia | 192 |
-| 16 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo |  |  | Monrovia, Liberia | 186 |
-| 17 | [Sayon-okai](https://github.com/Sayon-okai) | Sayon T. Okai | Student - Starz University Liberia  |  | Liberia | 179 |
-| 18 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 178 |
-| 19 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 167 |
-| 20 | [Nexdata](https://github.com/Nexdata) | Nexdata | Nexdata Technology Inc. | nexdata_ai | Monrovia | 162 |
+| 14 | [tommyiversonj](https://github.com/tommyiversonj) | Tommy Iverson Johnson | Partners In Health | tiversonj | Liberia | 192 |
+| 15 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo |  |  | Monrovia, Liberia | 186 |
+| 16 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 178 |
+| 17 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 167 |
+| 18 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 144 |
+| 19 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | NextGents Tech Inc. |  | Rwanda, Liberia. | 143 |
+| 20 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 143 |

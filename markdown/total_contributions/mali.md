@@ -1,6 +1,6 @@
 # Total Contributions - Mali
 
-Generated: 2026-10-07T08:52:07.698Z
+Generated: 2026-10-07T09:47:18.056Z
 
 Users: 347
 
@@ -12,8 +12,8 @@ Users: 347
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | HorizonFuture |  | Bamako, telecel GBS | 5524 |
 | 5 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA |  |  | Bamako,Mali | 4728 |
 | 6 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 4413 |
-| 7 | [MrSakine](https://github.com/MrSakine) | MrSakine |  | mr_sakine | Mali | 2853 |
-| 8 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Doninya Inc. |  | Bamako-Mali | 2403 |
+| 7 | [MrSakine](https://github.com/MrSakine) | MrSakine |  | mr_sakine | Mali | 3403 |
+| 8 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Doninya Inc. |  | Bamako-Mali | 2603 |
 | 9 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara |  | karimdiawara96 | JX4X+QX9, Bamako | 2336 |
 | 10 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | @Doninya | AbduRahmanSb | Bamako | 2136 |
 | 11 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Thl Technologies | riyuk_1 | Mali | 2047 |

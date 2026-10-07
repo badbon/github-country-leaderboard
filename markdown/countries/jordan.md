@@ -52,11 +52,11 @@ Indexed users: 4,032
 | 13 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh | Amman/Jordan | 1,352 |
 | 14 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi | Jordan | 1,340 |
 | 15 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | Amman, Jordan | 1,130 |
-| 16 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan | Amman, Jordan | 1,109 |
-| 17 | [OdaiAyyad](https://github.com/OdaiAyyad) | Odai Ayyad | Amman, Jordan | 1,071 |
-| 18 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Amman, Jordan | 1,050 |
-| 19 | [rknastenka](https://github.com/rknastenka) | Bana Tawalbeh | Amman, Jordan | 1,018 |
-| 20 | [hawawsha](https://github.com/hawawsha) | AHMAD SULEIMAN MUSALLAM AlHawawsheh | Jordan  | 1,015 |
+| 16 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo | Jordan | 1,129 |
+| 17 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan | Amman, Jordan | 1,109 |
+| 18 | [OdaiAyyad](https://github.com/OdaiAyyad) | Odai Ayyad | Amman, Jordan | 1,071 |
+| 19 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Amman, Jordan | 1,050 |
+| 20 | [rknastenka](https://github.com/rknastenka) | Bana Tawalbeh | Amman, Jordan | 1,018 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,032
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 195 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-07T08:48:00.297Z
+Generated: 2026-10-07T09:41:05.824Z

@@ -1,6 +1,6 @@
 # Followers - Mauritania
 
-Generated: 2026-10-07T08:52:46.140Z
+Generated: 2026-10-07T09:47:32.527Z
 
 Users: 290
 
@@ -10,8 +10,8 @@ Users: 290
 | 2 | [Ziyadsk](https://github.com/Ziyadsk) | Ziyad |  |  | Nouakchott, Mauritania | 66 |
 | 3 | [aziz0x00](https://github.com/aziz0x00) | Aziz |  |  | Mauritania | 61 |
 | 4 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 49 |
-| 5 | [leloufadel](https://github.com/leloufadel) | Lala Aicha El Vadel | Focus.mr | leloufadel | Mauritania | 48 |
-| 6 | [ErgeibiMed](https://github.com/ErgeibiMed) |  |  |  | Nouakchott - Mauritanie  | 47 |
+| 5 | [ErgeibiMed](https://github.com/ErgeibiMed) |  |  |  | Nouakchott - Mauritanie  | 48 |
+| 6 | [leloufadel](https://github.com/leloufadel) | Lala Aicha El Vadel | Focus.mr | leloufadel | Mauritania | 48 |
 | 7 | [Layito96](https://github.com/Layito96) |  | Interlink, Wimex |  | Nouakchott, Mauritania | 41 |
 | 8 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  | iyehah |  Nouakchott | 37 |
 | 9 | [lavantora](https://github.com/lavantora) | Aysha |  |  | Mauritania | 36 |
@@ -24,5 +24,5 @@ Users: 290
 | 16 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou |  | MoustaphaTJ | Nouakchott, Mauritania | 29 |
 | 17 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh |  |  | nouakchott | 28 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil |  |  | Mauritania | 28 |
-| 19 | [sidimo-hamed](https://github.com/sidimo-hamed) | Sidi Mohamed |  |  | Mauritanie,Nouakchott | 28 |
-| 20 | [bechir](https://github.com/bechir) | Bechir Ba | @Kalbe-io |  | Mauritania | 25 |
+| 19 | [bechir](https://github.com/bechir) | Bechir Ba | @Kalbe-io |  | Mauritania | 25 |
+| 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | 0xmr |  | mauritania | 24 |

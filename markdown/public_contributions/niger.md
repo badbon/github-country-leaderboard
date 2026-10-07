@@ -1,6 +1,6 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-07T08:57:53.127Z
+Generated: 2026-10-07T09:49:58.654Z
 
 Users: 176
 
@@ -24,5 +24,5 @@ Users: 176
 | 16 | [Phnix01](https://github.com/Phnix01) | Omar Farouk |  |  | Niger | 108 |
 | 17 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Refactor Factory | elonmusk | Zinder, Niger | 104 |
 | 18 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 103 |
-| 19 | [aboubacar-sadik](https://github.com/aboubacar-sadik) | Aboubacar Sadik |  | boube_tomess | Niger | 102 |
-| 20 | [abbuss11](https://github.com/abbuss11) | ABBA | Mi+ | abbuss_227 | Niamey, Niger | 98 |
+| 19 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 103 |
+| 20 | [aboubacar-sadik](https://github.com/aboubacar-sadik) | Aboubacar Sadik |  | boube_tomess | Niger | 102 |

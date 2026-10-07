@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 1,000
+Indexed users: 999
 
 | Leaderboard | Link |
 |---|---|
@@ -55,8 +55,8 @@ Indexed users: 1,000
 | 16 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 1,354 |
 | 17 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
 | 18 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Oman | 1,251 |
-| 19 | [ilia144000](https://github.com/ilia144000) | Ilia GH. (Symbolic Architect – RANNTA) | Sultanate of Oman | 1,223 |
-| 20 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Muscat, Oman | 1,173 |
+| 19 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Muscat, Oman | 1,173 |
+| 20 | [atakhadiviom](https://github.com/atakhadiviom) | ATA KHADIVI | Muscat | 1,171 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,000
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 89 |
 
-Generated: 2026-10-07T08:59:14.243Z
+Generated: 2026-10-07T09:52:25.864Z

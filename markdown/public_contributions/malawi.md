@@ -1,13 +1,13 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-07T08:51:56.620Z
+Generated: 2026-10-07T09:46:07.584Z
 
 Users: 903
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp |  |  | Mzuzu, Malawi | 4086 |
-| 2 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | @Accurate-Cyber-Defense ☠️🏴‍☠️ | Iankulani | Mzimba, Malawi | 1555 |
+| 2 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | @Accurate-Cyber-Defense ☠️🏴‍☠️ | Iankulani | Mzimba, Malawi | 1725 |
 | 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 1523 |
 | 4 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje |  |  | Lilongwe, Malawi | 1392 |
 | 5 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 1095 |

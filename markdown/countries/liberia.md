@@ -1,6 +1,6 @@
 # Liberia
 
-Indexed users: 208
+Indexed users: 212
 
 | Leaderboard | Link |
 |---|---|
@@ -50,20 +50,20 @@ Indexed users: 208
 | 11 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 225 |
 | 12 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr | Buchanan City, Liberia | 210 |
 | 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | Ontario, Canada & Monrovia, Liberia | 208 |
-| 14 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay | Paynesville City, Monrovia Liberia | 199 |
-| 15 | [tommyiversonj](https://github.com/tommyiversonj) | Tommy Iverson Johnson | Liberia | 192 |
-| 16 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 186 |
-| 17 | [Sayon-okai](https://github.com/Sayon-okai) | Sayon T. Okai | Liberia | 179 |
-| 18 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 178 |
-| 19 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 167 |
-| 20 | [Nexdata](https://github.com/Nexdata) | Nexdata | Monrovia | 162 |
+| 14 | [tommyiversonj](https://github.com/tommyiversonj) | Tommy Iverson Johnson | Liberia | 192 |
+| 15 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 186 |
+| 16 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 178 |
+| 17 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 167 |
+| 18 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | West Africa, Liberia | 144 |
+| 19 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | Rwanda, Liberia. | 143 |
+| 20 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay | Paynesville City, Monrovia Liberia | 143 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 305 |
-| 2 | [BugHunter-SN](https://github.com/BugHunter-SN) | Samuel E. H. Nimely |  Monrovia Liberia. West Africa | 167 |
+| 2 | [BugHunter-SN](https://github.com/BugHunter-SN) | Samuel E. H. Nimely |  Monrovia Liberia. West Africa | 161 |
 | 3 | [Massaquoi716](https://github.com/Massaquoi716) | Massaquoi L Dehmie | Liberia | 148 |
 | 4 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 145 |
 | 5 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 129 |
@@ -83,4 +83,4 @@ Indexed users: 208
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-10-07T08:50:43.575Z
+Generated: 2026-10-07T09:59:46.736Z

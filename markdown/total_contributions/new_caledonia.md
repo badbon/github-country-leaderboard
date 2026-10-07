@@ -1,28 +1,28 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-10-07T08:57:10.833Z
+Generated: 2026-10-07T09:49:42.647Z
 
 Users: 111
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | Stratégie Zen IT |  | New Caledonia | 8902 |
+| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | Stratégie Zen IT |  | New Caledonia | 12876 |
 | 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | SPC |  | Noumea, New Caledonia | 6520 |
-| 3 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 4468 |
-| 4 | [6pheR](https://github.com/6pheR) | CipheR_ | Mineria |  | New Caledonia | 2312 |
-| 5 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 2086 |
-| 6 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | @gouv-nc  |  | Nouméa, New Caledonia | 1346 |
-| 7 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 1342 |
-| 8 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1300 |
-| 9 | [Dougniel](https://github.com/Dougniel) | Daniel Santos |  |  | New Caledonia | 1220 |
-| 10 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 1184 |
-| 11 | [120dev](https://github.com/120dev) | 120 | 120DEV |  | NEW CALEDONIA | 959 |
+| 3 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 5468 |
+| 4 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 4003 |
+| 5 | [6pheR](https://github.com/6pheR) | CipheR_ | Mineria |  | New Caledonia | 2312 |
+| 6 | [120dev](https://github.com/120dev) | 120 | 120DEV |  | NEW CALEDONIA | 1405 |
+| 7 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | @gouv-nc  |  | Nouméa, New Caledonia | 1346 |
+| 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 1342 |
+| 9 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1300 |
+| 10 | [Dougniel](https://github.com/Dougniel) | Daniel Santos |  |  | New Caledonia | 1220 |
+| 11 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 1184 |
 | 12 | [bpouzet](https://github.com/bpouzet) | Benoit Pouzet | @ooopener |  | Nouméa, New Caledonia | 813 |
 | 13 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | Gouvernement de la Nouvelle-Calédonie |  | New-Caledonia | 742 |
-| 14 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 679 |
-| 15 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 658 |
-| 16 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 602 |
-| 17 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 567 |
+| 14 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 706 |
+| 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 679 |
+| 16 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 640 |
+| 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 602 |
 | 18 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Pacific Community \| Communauté de Pacifique | BenCochraneR | Nouméa | 527 |
 | 19 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 470 |
-| 20 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | none |  | New-Caledonia | 406 |
+| 20 | [bductane](https://github.com/bductane) | Benoit | INVT |  | Noumea, New Caledonia | 402 |

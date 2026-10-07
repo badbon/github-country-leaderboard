@@ -1,6 +1,6 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-07T08:50:49.074Z
+Generated: 2026-10-07T09:44:16.459Z
 
 Users: 748
 
@@ -25,4 +25,4 @@ Users: 748
 | 17 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 337 |
 | 18 | [KingKnull](https://github.com/KingKnull) | Sanad | Tech enthusiast \| IT Consultant@LCO \| Cybersecurity\| \| Polyglot  | OblivraLabs | Tripoli, Libya | 335 |
 | 19 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh |  |  | Libya | 328 |
-| 20 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | @Sahably | torgodly | libya | 301 |
+| 20 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat |  |  | Libya-Tripoli-Gorji | 325 |

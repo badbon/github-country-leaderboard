@@ -1,6 +1,6 @@
 # Followers - Republic of the Congo
 
-Generated: 2026-10-07T09:00:44.487Z
+Generated: 2026-10-07T09:55:37.576Z
 
 Users: 299
 
@@ -17,12 +17,12 @@ Users: 299
 | 9 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 71 |
 | 10 | [sumaili-shabani](https://github.com/sumaili-shabani) | sumaili shabani roger(patrona) | Dream of drc | RogerPatrona | Congo | 69 |
 | 11 | [btr-ss](https://github.com/btr-ss) | Marcky BITORI | Triinfinity |  | Congo Brazzaville | 67 |
-| 12 | [herilion](https://github.com/herilion) | Heritier Lionge | SMICO SA | HeritierLionge | Goma, Congo | 50 |
-| 13 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Fnstack |  | Brazzaville (CONGO) | 48 |
+| 12 | [herilion](https://github.com/herilion) | Heritier Lionge | SMICO SA | HeritierLionge | Goma, Congo | 48 |
+| 13 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Fnstack |  | Brazzaville (CONGO) | 46 |
 | 14 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda |  |  | brazzaville \ Congo | 44 |
 | 15 | [lingabo](https://github.com/lingabo) | Lingabo Junior |  | juniorlingabo1 | Congo | 44 |
 | 16 | [bim-g](https://github.com/bim-g) | Boss | @evoludata | ibmussa | Congo, Democratic Republic of, Goma | 37 |
 | 17 | [Cooger17](https://github.com/Cooger17) |  |  |  | Congo Brazzaville  | 34 |
 | 18 | [seleshabani](https://github.com/seleshabani) |  | kollectif numérique \| nurse maïsha | seleshabani1 | Congo | 33 |
-| 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi |  | NandiSne | Republic of the Congo | 28 |
-| 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame |  | WinnersProx | Kigali,Rwanda,Congo | 28 |
+| 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame |  | WinnersProx | Kigali,Rwanda,Congo | 28 |
+| 20 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi |  | NandiSne | Republic of the Congo | 26 |

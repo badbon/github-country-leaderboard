@@ -1,6 +1,6 @@
 # Public Contributions - Laos
 
-Generated: 2026-10-07T08:48:53.250Z
+Generated: 2026-10-07T09:43:37.736Z
 
 Users: 359
 
@@ -24,5 +24,5 @@ Users: 359
 | 16 | [hiramoto](https://github.com/hiramoto) | 永田彰 (Akira NAGATA) | TOKYO | kazaimu_ | Vientiane, Lao P.D.R. | 157 |
 | 17 | [aoypsk8](https://github.com/aoypsk8) | AOY PHONGSAKOUN MR | IndochinaBank |  | Vientiane, Laos | 147 |
 | 18 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin |  |  | Laos | 145 |
-| 19 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | BCEL Bank |  | Savannakhet, Laos | 142 |
-| 20 | [med1213](https://github.com/med1213) | Med | APB Bank |  | Laos, Vientaince | 122 |
+| 19 | [med1213](https://github.com/med1213) | Med | APB Bank |  | Laos, Vientaince | 122 |
+| 20 | [bytoum](https://github.com/bytoum) | Toum Nanthavath |  |  | Laos | 120 |

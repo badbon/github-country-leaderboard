@@ -1,6 +1,6 @@
 # North Korea
 
-Indexed users: 188
+Indexed users: 186
 
 | Leaderboard | Link |
 |---|---|
@@ -14,14 +14,14 @@ Indexed users: 188
 |---:|---|---|---|---:|
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,740 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 3,492 |
-| 3 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,411 |
+| 3 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,494 |
 | 4 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 1,344 |
 | 5 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,268 |
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,261 |
 | 7 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,256 |
-| 8 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
-| 9 | [1zumiSagiri](https://github.com/1zumiSagiri) |  | Pyongyang | 585 |
-| 10 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 501 |
+| 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 730 |
+| 9 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
+| 10 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 565 |
 | 11 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 484 |
 | 12 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 473 |
 | 13 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 392 |
@@ -38,8 +38,8 @@ Indexed users: 188
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,261 |
-| 2 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
-| 3 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 501 |
+| 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 730 |
+| 3 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 473 |
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 343 |
 | 6 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 206 |
@@ -54,9 +54,9 @@ Indexed users: 188
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 165 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | Pyongyang | 140 |
 | 17 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace | Pyongyang, Democrat People's Republic of Korea | 99 |
-| 18 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 83 |
-| 19 | [1zumiSagiri](https://github.com/1zumiSagiri) |  | Pyongyang | 82 |
-| 20 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana | Pyongyang, North Korea | 72 |
+| 18 | [lavrentious](https://github.com/lavrentious) | lavrent | Democratic People's Republic of Korea | 91 |
+| 19 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 83 |
+| 20 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 81 |
 
 ## Followers
 
@@ -78,9 +78,9 @@ Indexed users: 188
 | 14 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 17 |
 | 15 | [copilotuser713](https://github.com/copilotuser713) | Simon K. Penny | Pyongyang | 16 |
 | 16 | [retributions](https://github.com/retributions) |  | North Korea | 16 |
-| 17 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 16 |
-| 18 | [LessThread](https://github.com/LessThread) | LessThread | Pyeongyang, North Korea | 15 |
-| 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
-| 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
+| 17 | [satt-hri](https://github.com/satt-hri) | 稻草人(scarecrow) | North Korea | 16 |
+| 18 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 16 |
+| 19 | [LessThread](https://github.com/LessThread) | LessThread | Pyeongyang, North Korea | 15 |
+| 20 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
 
-Generated: 2026-10-07T08:58:15.902Z
+Generated: 2026-10-07T09:51:46.021Z

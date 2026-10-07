@@ -19,16 +19,16 @@ Indexed users: 2,464
 | 5 | [bekturmamytov](https://github.com/bekturmamytov) | bekturmamytov | Bishkek | 9,010 |
 | 6 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | Kyrgyzstan | 6,581 |
 | 7 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  | Kyrgyzstan | 6,123 |
-| 8 | [qiniks](https://github.com/qiniks) | Talant Mataev | Kyrgyzstan | 5,566 |
-| 9 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,966 |
-| 10 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 4,762 |
-| 11 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 4,702 |
-| 12 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 4,549 |
-| 13 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,386 |
-| 14 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
-| 15 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,232 |
-| 16 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,042 |
-| 17 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik | Bishkek | 4,038 |
+| 8 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik | Bishkek | 6,088 |
+| 9 | [qiniks](https://github.com/qiniks) | Talant Mataev | Kyrgyzstan | 5,566 |
+| 10 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,966 |
+| 11 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 4,762 |
+| 12 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 4,702 |
+| 13 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 4,549 |
+| 14 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,386 |
+| 15 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
+| 16 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,232 |
+| 17 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,042 |
 | 18 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 3,873 |
 | 19 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 3,615 |
 | 20 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 3,338 |
@@ -45,18 +45,18 @@ Indexed users: 2,464
 | 6 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,718 |
 | 7 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko | Bishkek, Kyrgyzstan (Relocated) | 1,626 |
 | 8 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 1,598 |
-| 9 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | Bishkek, Kyrgyzstan | 1,247 |
-| 10 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | Bishkek | 1,203 |
-| 11 | [enoobis](https://github.com/enoobis) | Daniel Becerra | Bishkek / Kyrgyzstan | 1,184 |
-| 12 | [dioritdev](https://github.com/dioritdev) | DIOR | Kyrgyzstan/Osh | 1,130 |
-| 13 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,002 |
-| 14 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | Bishkek, Kyrgyzstan | 1,000 |
-| 15 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 991 |
-| 16 | [SoftEngX](https://github.com/SoftEngX) | Bekbolsun Akimov | Bishkek, Kyrgyzstan | 984 |
-| 17 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 897 |
-| 18 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 822 |
-| 19 | [dimonss](https://github.com/dimonss) | Dmitrii | Bishkek,  Kyrgyzstan | 762 |
-| 20 | [johnlepikhin](https://github.com/johnlepikhin) | Evgenii Lepikhin | Bishkek, Kyrgyzstan | 760 |
+| 9 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | Bishkek | 1,336 |
+| 10 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | Bishkek, Kyrgyzstan | 1,247 |
+| 11 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | Bishkek | 1,203 |
+| 12 | [enoobis](https://github.com/enoobis) | Daniel Becerra | Bishkek / Kyrgyzstan | 1,184 |
+| 13 | [dioritdev](https://github.com/dioritdev) | DIOR | Kyrgyzstan/Osh | 1,130 |
+| 14 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
+| 15 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | Bishkek, Kyrgyzstan | 1,000 |
+| 16 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 991 |
+| 17 | [SoftEngX](https://github.com/SoftEngX) | Bekbolsun Akimov | Bishkek, Kyrgyzstan | 984 |
+| 18 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 897 |
+| 19 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 822 |
+| 20 | [dimonss](https://github.com/dimonss) | Dmitrii | Bishkek,  Kyrgyzstan | 762 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,464
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 101 |
 
-Generated: 2026-10-07T08:48:47.407Z
+Generated: 2026-10-07T09:43:34.575Z

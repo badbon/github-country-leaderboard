@@ -1,6 +1,6 @@
 # Public Contributions - Jordan
 
-Generated: 2026-10-07T08:48:00.297Z
+Generated: 2026-10-07T09:41:05.824Z
 
 Users: 4032
 
@@ -21,8 +21,8 @@ Users: 4032
 | 13 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh |  |  | Amman/Jordan | 1352 |
 | 14 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi |  | MohQaddoumi | Jordan | 1340 |
 | 15 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | 42 School |  | Amman, Jordan | 1130 |
-| 16 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan |  | AlMothafar | Amman, Jordan | 1109 |
-| 17 | [OdaiAyyad](https://github.com/OdaiAyyad) | Odai Ayyad |  |  | Amman, Jordan | 1071 |
-| 18 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Several Brands |  | Amman, Jordan | 1050 |
-| 19 | [rknastenka](https://github.com/rknastenka) | Bana Tawalbeh |  |  | Amman, Jordan | 1018 |
-| 20 | [hawawsha](https://github.com/hawawsha) | AHMAD SULEIMAN MUSALLAM AlHawawsheh |  |  | Jordan  | 1015 |
+| 16 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo |  | zaid_ejjo | Jordan | 1129 |
+| 17 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan |  | AlMothafar | Amman, Jordan | 1109 |
+| 18 | [OdaiAyyad](https://github.com/OdaiAyyad) | Odai Ayyad |  |  | Amman, Jordan | 1071 |
+| 19 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Several Brands |  | Amman, Jordan | 1050 |
+| 20 | [rknastenka](https://github.com/rknastenka) | Bana Tawalbeh |  |  | Amman, Jordan | 1018 |

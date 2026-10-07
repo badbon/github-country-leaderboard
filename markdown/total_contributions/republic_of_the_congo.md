@@ -1,14 +1,14 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-07T09:00:44.487Z
+Generated: 2026-10-07T09:55:37.576Z
 
 Users: 299
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | @akieni-tech | bryan_6243 | Brazzaville - Congo | 7943 |
-| 2 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | @akieni-tech |  | Brazzaville - Congo | 3798 |
-| 3 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda |  |  | Pointe-Noire, Congo | 3280 |
+| 2 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda |  |  | Pointe-Noire, Congo | 3891 |
+| 3 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | @akieni-tech |  | Brazzaville - Congo | 3798 |
 | 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke |  |  | Congo | 3075 |
 | 5 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 3003 |
 | 6 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Akieni |  | Brazzaville - Congo | 2723 |

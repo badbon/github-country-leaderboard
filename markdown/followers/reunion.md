@@ -1,6 +1,6 @@
 # Followers - Réunion
 
-Generated: 2026-10-07T09:00:49.156Z
+Generated: 2026-10-07T09:56:03.151Z
 
 Users: 212
 
@@ -19,7 +19,7 @@ Users: 212
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 28 |
 | 12 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Ynov Paris Campus  |  | Seine-Saint-Denis | 28 |
 | 13 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | PistahX |  | reunion island (FR) | 28 |
-| 14 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel |  |  | Seine-Saint-Denis | 26 |
+| 14 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel |  |  | Seine-Saint-Denis | 27 |
 | 15 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | @forkparty  | zourite | Reunion Island | 24 |
 | 16 | [0x346e3730](https://github.com/0x346e3730) | Antonin CLAUZIER | @clauzier-dev  | 0x346e3730 | Saint-Denis, Reunion Island | 23 |
 | 17 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Université de La Réunion |  | Saint Denis, La Réunion  | 23 |
