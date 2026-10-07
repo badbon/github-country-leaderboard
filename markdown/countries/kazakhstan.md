@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,681
+Indexed users: 5,680
 
 | Leaderboard | Link |
 |---|---|
@@ -16,7 +16,7 @@ Indexed users: 5,681
 | 2 | [nstwfdev](https://github.com/nstwfdev) | Timur | Kazakhstan | 40,433 |
 | 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 37,462 |
 | 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 34,165 |
-| 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 13,277 |
+| 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 24,758 |
 | 6 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | Kazakhstan, Almaty | 12,873 |
 | 7 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 12,675 |
 | 8 | [uzarsalan](https://github.com/uzarsalan) | Arsalan | Astana, Kazakhstan | 12,368 |
@@ -37,7 +37,7 @@ Indexed users: 5,681
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 13,277 |
+| 1 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 24,758 |
 | 2 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 11,946 |
 | 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 10,764 |
 | 4 | [yaskhan](https://github.com/yaskhan) | Yaskhan | Kazakhstan | 3,748 |
@@ -66,7 +66,7 @@ Indexed users: 5,681
 | 2 | [0xAX](https://github.com/0xAX) | Alex Kuleshov | Kazakhstan, Astana | 3,657 |
 | 3 | [Kairatzh](https://github.com/Kairatzh) | kirtzh | Aktobe, Kazakhstan | 2,025 |
 | 4 | [henrypp](https://github.com/henrypp) | henrypp | Almaty, Kazakhstan | 1,920 |
-| 5 | [mikonyaa](https://github.com/mikonyaa) | miko | Astana, Kazakhstan | 1,303 |
+| 5 | [mikonyaa](https://github.com/mikonyaa) | miko | Astana, Kazakhstan | 1,459 |
 | 6 | [finik404](https://github.com/finik404) | Dmitriy Bozhko | Kazakhstan, Kostanay | 1,057 |
 | 7 | [yerdaulet-damir](https://github.com/yerdaulet-damir) | Damir Yerdaulet | Astana, Kazakhstan | 631 |
 | 8 | [artemnovichkov](https://github.com/artemnovichkov) | Artem Novichkov | Almaty, Kazakhstan | 579 |
@@ -83,4 +83,4 @@ Indexed users: 5,681
 | 19 | [Alex009](https://github.com/Alex009) | Aleksey Mikhailov | Astana | 378 |
 | 20 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 
-Generated: 2026-10-07T07:57:39.753Z
+Generated: 2026-10-07T08:48:06.064Z

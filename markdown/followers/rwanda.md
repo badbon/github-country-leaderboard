@@ -1,6 +1,6 @@
 # Followers - Rwanda
 
-Generated: 2026-10-07T08:12:35.102Z
+Generated: 2026-10-07T09:00:56.448Z
 
 Users: 3534
 
@@ -16,7 +16,7 @@ Users: 3534
 | 8 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 895 |
 | 9 | [umutambyi-gad](https://github.com/umutambyi-gad) | Gad |  | umutambyi_gad | Kigali, Rwanda | 652 |
 | 10 | [samuelumutiti](https://github.com/samuelumutiti) | Umutiti Samuel | Freelancer | UsamuelC2287 | Rwanda / Kigali City | 621 |
-| 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 509 |
+| 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 511 |
 | 12 | [Pericles001](https://github.com/Pericles001) | Pericles Adjovi | Carnegie Mellon University |  | Kigali, Rwanda | 508 |
 | 13 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO |  | uwenayoallain | Kigali,Rwanda | 445 |
 | 14 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | NeoScratch |  | Kigali, Rwanda | 386 |

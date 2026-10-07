@@ -1,17 +1,17 @@
 # Followers - Martinique
 
-Generated: 2026-10-07T08:05:27.288Z
+Generated: 2026-10-07T08:52:42.404Z
 
 Users: 75
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 88 |
+| 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 89 |
 | 2 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 35 |
 | 3 | [giovanny972](https://github.com/giovanny972) | giovanny adelaide |  |  | martinique | 17 |
-| 4 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 15 |
-| 5 | [jsrdescamps](https://github.com/jsrdescamps) | Julien Descamps |  |  | Martinique | 15 |
-| 6 | [bcsirt](https://github.com/bcsirt) | Laurent LOUIS-THERESE | BCSIRT | bcsirt | Fort-de-France | 14 |
+| 4 | [bcsirt](https://github.com/bcsirt) | Laurent LOUIS-THERESE | BCSIRT | bcsirt | Fort-de-France | 15 |
+| 5 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 15 |
+| 6 | [jsrdescamps](https://github.com/jsrdescamps) | Julien Descamps |  |  | Martinique | 15 |
 | 7 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 14 |
 | 8 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 10 |
 | 9 | [jucollet972](https://github.com/jucollet972) | Julien COLLET |  |  | Martinique | 10 |

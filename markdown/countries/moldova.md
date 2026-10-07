@@ -24,11 +24,11 @@ Indexed users: 1,763
 | 10 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,424 |
 | 11 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov | Chisinau, Moldova | 4,415 |
 | 12 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Chisinau, Moldova | 4,260 |
-| 13 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | Chisinau, Moldova | 4,085 |
-| 14 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | Moldova | 3,899 |
-| 15 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 3,852 |
-| 16 | [raidum](https://github.com/raidum) | Dumitru Railean | Moldova | 3,826 |
-| 17 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | Chisinau, Moldova | 3,557 |
+| 13 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | Chisinau, Moldova | 4,091 |
+| 14 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | Chisinau, Moldova | 4,085 |
+| 15 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | Moldova | 3,899 |
+| 16 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 3,852 |
+| 17 | [raidum](https://github.com/raidum) | Dumitru Railean | Moldova | 3,826 |
 | 18 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov | Moldova | 3,537 |
 | 19 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 3,531 |
 | 20 | [ion-golovco](https://github.com/ion-golovco) | Golovco Ion | Moldova | 3,471 |
@@ -45,18 +45,18 @@ Indexed users: 1,763
 | 6 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | Chisinau, Moldova | 1,808 |
 | 7 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | Moldova | 1,764 |
 | 8 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu | Moldova | 1,761 |
-| 9 | [teratron](https://github.com/teratron) | Oleg Alexandrov | Moldova | 1,665 |
-| 10 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 1,498 |
-| 11 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh | Moldova | 1,453 |
-| 12 | [Mazzay123](https://github.com/Mazzay123) | Mazzay123 | Moldova | 1,431 |
-| 13 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 1,421 |
-| 14 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,273 |
-| 15 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,268 |
-| 16 | [GuidixX](https://github.com/GuidixX) | GuidixX | Moldova | 1,252 |
-| 17 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,195 |
-| 18 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov | Moldova | 1,147 |
-| 19 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov | Chisinau, Moldova | 1,113 |
-| 20 | [MihaiCulbida](https://github.com/MihaiCulbida) | Michael | Moldova | 1,046 |
+| 9 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr | Moldova | 1,708 |
+| 10 | [teratron](https://github.com/teratron) | Oleg Alexandrov | Moldova | 1,665 |
+| 11 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 1,498 |
+| 12 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh | Moldova | 1,453 |
+| 13 | [Mazzay123](https://github.com/Mazzay123) | Mazzay123 | Moldova | 1,431 |
+| 14 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 1,421 |
+| 15 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,273 |
+| 16 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,268 |
+| 17 | [GuidixX](https://github.com/GuidixX) | GuidixX | Moldova | 1,252 |
+| 18 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,195 |
+| 19 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov | Moldova | 1,147 |
+| 20 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov | Chisinau, Moldova | 1,113 |
 
 ## Followers
 
@@ -65,7 +65,7 @@ Indexed users: 1,763
 | 1 | [face-hh](https://github.com/face-hh) | Face | Moldova | 2,247 |
 | 2 | [vmihailenco](https://github.com/vmihailenco) | Vladimir Mihailenco | Moldova | 1,381 |
 | 3 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 516 |
-| 4 | [messsimo](https://github.com/messsimo) | Daniel Mihai | Republic of Moldova | 360 |
+| 4 | [messsimo](https://github.com/messsimo) | Daniel Mihai | Republic of Moldova | 356 |
 | 5 | [nickmessing](https://github.com/nickmessing) | Nick Messing | Chisinau, Moldova | 349 |
 | 6 | [mgutu](https://github.com/mgutu) | Maria Gutu | Republica Moldova | 292 |
 | 7 | [nicubarbaros](https://github.com/nicubarbaros) | Nicu Barbaros | Moldova | 281 |
@@ -83,4 +83,4 @@ Indexed users: 1,763
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 104 |
 
-Generated: 2026-10-07T08:06:44.009Z
+Generated: 2026-10-07T08:53:31.019Z

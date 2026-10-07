@@ -1,8 +1,8 @@
 # Followers - Liberia
 
-Generated: 2026-10-07T08:01:06.806Z
+Generated: 2026-10-07T08:50:43.575Z
 
-Users: 210
+Users: 208
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

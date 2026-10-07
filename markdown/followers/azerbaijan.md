@@ -1,8 +1,8 @@
 # Followers - Azerbaijan
 
-Generated: 2026-10-07T08:27:35.566Z
+Generated: 2026-10-07T09:20:11.007Z
 
-Users: 5103
+Users: 5101
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 5103
 | 3 | [qafaraz](https://github.com/qafaraz) | Qafar Qəmbərzadə |  |  | Azerbaijan baku | 642 |
 | 4 | [EminHaziyev](https://github.com/EminHaziyev) | emin |  |  | Baku | 626 |
 | 5 | [orkhan-muradov-dev](https://github.com/orkhan-muradov-dev) | Orkhan |  |  | Baku, Azerbaijan | 532 |
-| 6 | [MuradIsazade777](https://github.com/MuradIsazade777) | Murad  | FULL-STACK DEVELOPER  | Isazde_Murad | Baku, Azerbaijan | 530 |
+| 6 | [MuradIsazade777](https://github.com/MuradIsazade777) | Murad  | FULL-STACK DEVELOPER  | Isazde_Murad | Baku, Azerbaijan | 527 |
 | 7 | [TuralSuleymani](https://github.com/TuralSuleymani) | Tural Suleymani | ITF Group |  | Baku | 471 |
 | 8 | [khanjanov](https://github.com/khanjanov) | Karim |  |  | Azerbaijan, Baku | 444 |
 | 9 | [hasanbakhtiar](https://github.com/hasanbakhtiar) | Hasan  | Webluna Software |  | Azerbaijan, Baku | 436 |

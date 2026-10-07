@@ -1,8 +1,8 @@
 # Total Contributions - Austria
 
-Generated: 2026-10-07T08:27:32.933Z
+Generated: 2026-10-07T09:19:59.659Z
 
-Users: 18255
+Users: 18254
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 18255
 | 16 | [ddedic](https://github.com/ddedic) | Danijel Dedic | MediaMarktSaturn Technology | dannyded83 | Kufstein, Austria | 15858 |
 | 17 | [michaelbromley](https://github.com/michaelbromley) | Michael Bromley | @vendurehq | michlbrmly | Vienna, Austria | 15690 |
 | 18 | [DrBaher](https://github.com/DrBaher) | DrBaher | Medicus AI |  | Austria | 15529 |
-| 19 | [TueJon](https://github.com/TueJon) | Jonas Tüchler | @TWB-Digital |  | Austria | 15413 |
-| 20 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker |  |  | Linz, Austria | 14978 |
+| 19 | [simeon-kepp](https://github.com/simeon-kepp) | rfi-irfos | RFI-IRFOS . (Research Focus Institute- Interdisciplinary Research Facility for Open Sciences) |  | Elisabetinergasse 25/Top 10/DG/ Graz, Austria, Skybase | 15527 |
+| 20 | [TueJon](https://github.com/TueJon) | Jonas Tüchler | @TWB-Digital |  | Austria | 15413 |

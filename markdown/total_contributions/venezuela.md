@@ -1,15 +1,15 @@
 # Total Contributions - Venezuela
 
-Generated: 2026-10-07T08:23:02.127Z
+Generated: 2026-10-07T09:14:59.812Z
 
-Users: 6643
+Users: 6641
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 |  |  | Venezuela | 32559 |
 | 2 | [diegoesolorzano](https://github.com/diegoesolorzano) | Diego E. Solórzano Z. |  |  | Venezuela | 13732 |
 | 3 | [aiuoe](https://github.com/aiuoe) | rub3n | @Datapicker |  | Venezuela | 11493 |
-| 4 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Tudashboard | franklinserif | Venezuela | 9987 |
+| 4 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Tudashboard | franklinserif | Venezuela | 10295 |
 | 5 | [andresparilli](https://github.com/andresparilli) | Andres E. Parilli | Grupo Plus Tech, C.A. | andresparilli | Venezuela | 9434 |
 | 6 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Ztudio |  | Caracas, Venezuela | 9330 |
 | 7 | [darthony](https://github.com/darthony) | Antonio Figueroa | Simgulary, LLC | darthony | Venezuela | 9260 |

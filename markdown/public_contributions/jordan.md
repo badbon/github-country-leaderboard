@@ -1,6 +1,6 @@
 # Public Contributions - Jordan
 
-Generated: 2026-10-07T07:57:00.496Z
+Generated: 2026-10-07T08:48:00.297Z
 
 Users: 4032
 
@@ -20,8 +20,8 @@ Users: 4032
 | 12 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 1409 |
 | 13 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh |  |  | Amman/Jordan | 1352 |
 | 14 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi |  | MohQaddoumi | Jordan | 1340 |
-| 15 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan |  | AlMothafar | Amman, Jordan | 1109 |
-| 16 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | 42 School |  | Amman, Jordan | 1080 |
+| 15 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | 42 School |  | Amman, Jordan | 1130 |
+| 16 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan |  | AlMothafar | Amman, Jordan | 1109 |
 | 17 | [OdaiAyyad](https://github.com/OdaiAyyad) | Odai Ayyad |  |  | Amman, Jordan | 1071 |
 | 18 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Several Brands |  | Amman, Jordan | 1050 |
 | 19 | [rknastenka](https://github.com/rknastenka) | Bana Tawalbeh |  |  | Amman, Jordan | 1018 |

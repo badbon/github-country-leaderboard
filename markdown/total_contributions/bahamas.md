@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-07T08:27:38.787Z
+Generated: 2026-10-07T09:20:35.434Z
 
 Users: 238
 
@@ -21,7 +21,7 @@ Users: 238
 | 13 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 802 |
 | 14 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 787 |
 | 15 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 786 |
-| 16 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 566 |
+| 16 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 711 |
 | 17 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 545 |
 | 18 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 500 |
 | 19 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 386 |

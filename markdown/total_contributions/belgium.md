@@ -1,8 +1,8 @@
 # Total Contributions - Belgium
 
-Generated: 2026-10-07T08:28:12.760Z
+Generated: 2026-10-07T09:20:53.356Z
 
-Users: 18404
+Users: 18403
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

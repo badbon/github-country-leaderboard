@@ -1,6 +1,6 @@
 # Public Contributions - Kuwait
 
-Generated: 2026-10-07T07:59:36.214Z
+Generated: 2026-10-07T08:48:40.404Z
 
 Users: 800
 
@@ -11,7 +11,7 @@ Users: 800
 | 3 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen |  |  | Kuwait | 2543 |
 | 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | The Tech Idea |  | Kuwait | 1941 |
 | 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 1606 |
-| 6 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Nova |  | Kuwait | 1332 |
+| 6 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Nova |  | Kuwait | 1576 |
 | 7 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 1277 |
 | 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 1259 |
 | 9 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 1192 |
@@ -24,5 +24,5 @@ Users: 800
 | 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon |  |  | Kuwait | 527 |
 | 17 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 521 |
 | 18 | [jakariahossain12](https://github.com/jakariahossain12) | Md.Jakaria |  |  | kuwait | 447 |
-| 19 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer |  |  | Kuwait | 431 |
-| 20 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | @nizek |  | Kuwait | 422 |
+| 19 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | free lancer |  | kuwait | 438 |
+| 20 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer |  |  | Kuwait | 431 |

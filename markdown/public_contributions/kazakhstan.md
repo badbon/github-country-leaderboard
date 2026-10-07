@@ -1,12 +1,12 @@
 # Public Contributions - Kazakhstan
 
-Generated: 2026-10-07T07:57:39.753Z
+Generated: 2026-10-07T08:48:06.064Z
 
-Users: 5681
+Users: 5680
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [yrn-dev](https://github.com/yrn-dev) | Yernur | AI institute |  | Kazakhstan, Kyzylorda | 13277 |
+| 1 | [yrn-dev](https://github.com/yrn-dev) | Yernur | AI institute |  | Kazakhstan, Kyzylorda | 24758 |
 | 2 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger |  | Manss_dev | Almaty, Kazakhstan | 11946 |
 | 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | @NDDev-it-com |  | Kazakhstan/World | 10764 |
 | 4 | [yaskhan](https://github.com/yaskhan) | Yaskhan |  |  | Kazakhstan | 3748 |

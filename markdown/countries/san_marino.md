@@ -55,14 +55,14 @@ Indexed users: 61
 | 16 | [pigorg](https://github.com/pigorg) | alessandro gnola | san marino | 43 |
 | 17 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 37 |
 | 18 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | San Marino | 31 |
-| 19 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 27 |
+| 19 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 30 |
 | 20 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 23 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 215 |
+| 1 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 216 |
 | 2 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 37 |
 | 3 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | San Marino | 36 |
 | 4 | [AleRiccardi](https://github.com/AleRiccardi) | Alessandro Riccardi | San Marino | 32 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 
-Generated: 2026-10-07T08:15:02.087Z
+Generated: 2026-10-07T09:05:00.716Z

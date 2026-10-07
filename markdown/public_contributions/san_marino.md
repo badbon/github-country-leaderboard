@@ -1,6 +1,6 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-07T08:15:02.087Z
+Generated: 2026-10-07T09:05:00.716Z
 
 Users: 61
 
@@ -24,5 +24,5 @@ Users: 61
 | 16 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 43 |
 | 17 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 37 |
 | 18 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | Mr. APPs s.r.l. |  | San Marino | 31 |
-| 19 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | @coinspect | agustingianni | San Marino | 27 |
+| 19 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | @coinspect | agustingianni | San Marino | 30 |
 | 20 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 23 |

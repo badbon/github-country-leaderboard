@@ -1,8 +1,8 @@
 # Public Contributions - Bahrain
 
-Generated: 2026-10-07T08:27:42.009Z
+Generated: 2026-10-07T09:20:38.888Z
 
-Users: 734
+Users: 733
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 734
 | 15 | [sfoulad](https://github.com/sfoulad) | Foulad | Foulad | Fouladtm | Bahrain | 682 |
 | 16 | [falansari](https://github.com/falansari) | Fatima Alansari |  |  | Bahrain | 677 |
 | 17 | [hussain-alsaibai](https://github.com/hussain-alsaibai) | Hussain Alsaibai |  |  | Bahrain | 666 |
-| 18 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain Polytechnic |  | Bahrain | 657 |
-| 19 | [RaghadAlesakfi](https://github.com/RaghadAlesakfi) | Raghad | Bahrain Polytechnic |  | Bahrain | 637 |
-| 20 | [zahraa-hubail](https://github.com/zahraa-hubail) | Zahraa | Bahrain Polytechnic |  | Bahrain | 634 |
+| 18 | [sahmedhusain](https://github.com/sahmedhusain) | Sayed Ahmed Husain |  | _97ahm | Bahrain | 659 |
+| 19 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain Polytechnic |  | Bahrain | 657 |
+| 20 | [RaghadAlesakfi](https://github.com/RaghadAlesakfi) | Raghad | Bahrain Polytechnic |  | Bahrain | 637 |

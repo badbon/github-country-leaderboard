@@ -14,7 +14,7 @@ Indexed users: 3,534
 |---:|---|---|---|---:|
 | 1 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 59,921 |
 | 2 | [gentil-lenoir](https://github.com/gentil-lenoir) | Gentil M. | Kigali, Rwanda | 34,814 |
-| 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 25,043 |
+| 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 29,162 |
 | 4 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke | Kigali, Rwanda | 17,863 |
 | 5 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | Kigali , Rwanda | 13,969 |
 | 6 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA | Rwanda | 11,697 |
@@ -38,7 +38,7 @@ Indexed users: 3,534
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [gentil-lenoir](https://github.com/gentil-lenoir) | Gentil M. | Kigali, Rwanda | 34,814 |
-| 2 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 20,208 |
+| 2 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 23,998 |
 | 3 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 13,683 |
 | 4 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 6,855 |
 | 5 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | Rwanda | 5,827 |
@@ -72,7 +72,7 @@ Indexed users: 3,534
 | 8 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | Kigali Rwanda | 895 |
 | 9 | [umutambyi-gad](https://github.com/umutambyi-gad) | Gad | Kigali, Rwanda | 652 |
 | 10 | [samuelumutiti](https://github.com/samuelumutiti) | Umutiti Samuel | Rwanda / Kigali City | 621 |
-| 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 509 |
+| 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 511 |
 | 12 | [Pericles001](https://github.com/Pericles001) | Pericles Adjovi | Kigali, Rwanda | 508 |
 | 13 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO | Kigali,Rwanda | 445 |
 | 14 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | Kigali, Rwanda | 386 |
@@ -83,4 +83,4 @@ Indexed users: 3,534
 | 19 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 314 |
 | 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | Rwanda | 306 |
 
-Generated: 2026-10-07T08:12:35.102Z
+Generated: 2026-10-07T09:00:56.448Z

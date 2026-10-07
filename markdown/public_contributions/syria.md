@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-07T08:18:27.503Z
+Generated: 2026-10-07T09:09:42.404Z
 
 Users: 1477
 
@@ -14,15 +14,15 @@ Users: 1477
 | 6 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan |  |  | Syria, Damascus | 1716 |
 | 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  |  |  | syria | 1361 |
 | 8 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1246 |
-| 9 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad |  |  | Syria | 1046 |
-| 10 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1017 |
-| 11 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Freelancer | AbdoMaghrbi | Syria | 1010 |
-| 12 | [emad-alsmadi](https://github.com/emad-alsmadi) | emad alsmadi  |  |  | Syria | 873 |
-| 13 | [OlaMorad](https://github.com/OlaMorad) | Ola Morad |  |  | Damascus | 720 |
-| 14 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | mouayad.alhamwi.ma@gmail.com |  | Damascus, Syria | 653 |
-| 15 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki |  |  | Syria | 644 |
-| 16 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | L-One Systems |  | Damascus, Syria | 629 |
-| 17 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Code Machine |  | Syria | 582 |
-| 18 | [sam-a1a](https://github.com/sam-a1a) | Sam |  |  | Damascus, Syrian Arab Republic | 574 |
-| 19 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 557 |
-| 20 | [Mounir-Almzayek](https://github.com/Mounir-Almzayek) | Mounir-Almzayek | Realistic solutions for IT  |  | Damascus Governorate, Syria  | 554 |
+| 9 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 1149 |
+| 10 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad |  |  | Syria | 1046 |
+| 11 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1017 |
+| 12 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Freelancer | AbdoMaghrbi | Syria | 1010 |
+| 13 | [emad-alsmadi](https://github.com/emad-alsmadi) | emad alsmadi  |  |  | Syria | 873 |
+| 14 | [OlaMorad](https://github.com/OlaMorad) | Ola Morad |  |  | Damascus | 720 |
+| 15 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | mouayad.alhamwi.ma@gmail.com |  | Damascus, Syria | 653 |
+| 16 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki |  |  | Syria | 644 |
+| 17 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | L-One Systems |  | Damascus, Syria | 629 |
+| 18 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Code Machine |  | Syria | 582 |
+| 19 | [sam-a1a](https://github.com/sam-a1a) | Sam |  |  | Damascus, Syrian Arab Republic | 574 |
+| 20 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 557 |

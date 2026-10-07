@@ -1,6 +1,6 @@
 # Venezuela
 
-Indexed users: 6,643
+Indexed users: 6,641
 
 | Leaderboard | Link |
 |---|---|
@@ -15,7 +15,7 @@ Indexed users: 6,643
 | 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 32,559 |
 | 2 | [diegoesolorzano](https://github.com/diegoesolorzano) | Diego E. Solórzano Z. | Venezuela | 13,732 |
 | 3 | [aiuoe](https://github.com/aiuoe) | rub3n | Venezuela | 11,493 |
-| 4 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Venezuela | 9,987 |
+| 4 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Venezuela | 10,295 |
 | 5 | [andresparilli](https://github.com/andresparilli) | Andres E. Parilli | Venezuela | 9,434 |
 | 6 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Caracas, Venezuela | 9,330 |
 | 7 | [darthony](https://github.com/darthony) | Antonio Figueroa | Venezuela | 9,260 |
@@ -77,10 +77,10 @@ Indexed users: 6,643
 | 13 | [VonHeikemen](https://github.com/VonHeikemen) | Heiker | Venezuela | 215 |
 | 14 | [jaimeirazabal1](https://github.com/jaimeirazabal1) | Jaime Irazabal | Venezuela | 211 |
 | 15 | [Astharmin](https://github.com/Astharmin) | Aaron Barcenas | Venezuela | 207 |
-| 16 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 198 |
-| 17 | [GaboInsane6489](https://github.com/GaboInsane6489) | Gabriel González | Venezuela, Distrito Capital | 195 |
+| 16 | [GaboInsane6489](https://github.com/GaboInsane6489) | Gabriel González | Venezuela, Distrito Capital | 202 |
+| 17 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 198 |
 | 18 | [gutoccs](https://github.com/gutoccs) | Gustavo Escobar Cobos | Caracas, Venezuela | 185 |
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-07T08:23:02.127Z
+Generated: 2026-10-07T09:14:59.812Z

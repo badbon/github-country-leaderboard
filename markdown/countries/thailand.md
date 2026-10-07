@@ -1,6 +1,6 @@
 # Thailand
 
-Indexed users: 15,003
+Indexed users: 15,002
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 15,003
 | 19 | [nuuneoi](https://github.com/nuuneoi) | Sittiphol Phanvilai | Bangkok, Thailand | 693 |
 | 20 | [PrithivirajDamodaran](https://github.com/PrithivirajDamodaran) | Prithivida | Bangkok | 669 |
 
-Generated: 2026-10-07T08:19:01.523Z
+Generated: 2026-10-07T09:10:15.572Z

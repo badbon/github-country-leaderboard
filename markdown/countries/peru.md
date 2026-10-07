@@ -1,6 +1,6 @@
 # Peru
 
-Indexed users: 9,794
+Indexed users: 9,792
 
 | Leaderboard | Link |
 |---|---|
@@ -62,25 +62,25 @@ Indexed users: 9,794
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [chrisipanaque](https://github.com/chrisipanaque) | Christiam Ipanaque \| Software Engineer | Lima, Peru | 6,538 |
-| 2 | [sergiodxa](https://github.com/sergiodxa) | Sergio Xalambrí | Lima, Perú | 2,205 |
-| 3 | [mabelolivera10](https://github.com/mabelolivera10) | MABEL QUISPE OLIVERA | LIMA, PERU | 1,199 |
-| 4 | [devaige](https://github.com/devaige) | Aige | Pampa de Vaca, Torata, Mariscal Nieto  Moquegua 18100, Peru | 1,179 |
-| 5 | [mriscoc](https://github.com/mriscoc) | Miguel Risco-Castillo | Lima, Peru | 1,169 |
-| 6 | [jaderytm](https://github.com/jaderytm) | Jade | Lima | 1,156 |
-| 7 | [escueladigital](https://github.com/escueladigital) | EDteam | Lima, Perú | 1,009 |
-| 8 | [hexed-AAL1X](https://github.com/hexed-AAL1X) | AAL1X | Perú/Lima | 731 |
-| 9 | [apholdings](https://github.com/apholdings) | SoloPython | Lima, Peru | 694 |
-| 10 | [OmarUTEC](https://github.com/OmarUTEC) | Om@r | Lima, Perú | 683 |
-| 11 | [joelibaceta](https://github.com/joelibaceta) | Joel Ibaceta | Lima, Peru | 668 |
-| 12 | [CodigoEstudiante](https://github.com/CodigoEstudiante) | Codigo Estudiante | Peru | 636 |
-| 13 | [joedayz](https://github.com/joedayz) | José Díaz | Lima - Perú | 614 |
-| 14 | [csaybar](https://github.com/csaybar) | Cesar Aybar | Lima, Peru | 567 |
-| 15 | [goandreus](https://github.com/goandreus) | Andres Chavez | Lima - Peru | 558 |
-| 16 | [dcajasn](https://github.com/dcajasn) | Riskfolio | Lima, Peru | 545 |
-| 17 | [jorgemunozl](https://github.com/jorgemunozl) | jorge-munoz-lar | Lima, Peru | 515 |
-| 18 | [emedinaa](https://github.com/emedinaa) | Eduardo José Medina Alfaro | Lima, Peru | 506 |
-| 19 | [BracoZS](https://github.com/BracoZS) | BracoZS | Peru | 472 |
-| 20 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
+| 1 | [sergiodxa](https://github.com/sergiodxa) | Sergio Xalambrí | Lima, Perú | 2,205 |
+| 2 | [mabelolivera10](https://github.com/mabelolivera10) | MABEL QUISPE OLIVERA | LIMA, PERU | 1,199 |
+| 3 | [devaige](https://github.com/devaige) | Aige | Pampa de Vaca, Torata, Mariscal Nieto  Moquegua 18100, Peru | 1,179 |
+| 4 | [mriscoc](https://github.com/mriscoc) | Miguel Risco-Castillo | Lima, Peru | 1,169 |
+| 5 | [jaderytm](https://github.com/jaderytm) | Jade | Lima | 1,156 |
+| 6 | [escueladigital](https://github.com/escueladigital) | EDteam | Lima, Perú | 1,009 |
+| 7 | [hexed-AAL1X](https://github.com/hexed-AAL1X) | AAL1X | Perú/Lima | 731 |
+| 8 | [apholdings](https://github.com/apholdings) | SoloPython | Lima, Peru | 694 |
+| 9 | [OmarUTEC](https://github.com/OmarUTEC) | Om@r | Lima, Perú | 683 |
+| 10 | [joelibaceta](https://github.com/joelibaceta) | Joel Ibaceta | Lima, Peru | 668 |
+| 11 | [CodigoEstudiante](https://github.com/CodigoEstudiante) | Codigo Estudiante | Peru | 636 |
+| 12 | [joedayz](https://github.com/joedayz) | José Díaz | Lima - Perú | 614 |
+| 13 | [csaybar](https://github.com/csaybar) | Cesar Aybar | Lima, Peru | 567 |
+| 14 | [goandreus](https://github.com/goandreus) | Andres Chavez | Lima - Peru | 558 |
+| 15 | [dcajasn](https://github.com/dcajasn) | Riskfolio | Lima, Peru | 545 |
+| 16 | [jorgemunozl](https://github.com/jorgemunozl) | jorge-munoz-lar | Lima, Peru | 515 |
+| 17 | [emedinaa](https://github.com/emedinaa) | Eduardo José Medina Alfaro | Lima, Peru | 506 |
+| 18 | [BracoZS](https://github.com/BracoZS) | BracoZS | Peru | 472 |
+| 19 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
+| 20 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 
-Generated: 2026-10-07T08:10:19.985Z
+Generated: 2026-10-07T09:00:03.435Z

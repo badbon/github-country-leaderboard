@@ -1,6 +1,6 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-07T08:26:13.790Z
+Generated: 2026-10-07T09:19:28.681Z
 
 Users: 2510
 
@@ -14,15 +14,15 @@ Users: 2510
 | 6 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 1942 |
 | 7 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | @42Luanda |  | Luanda | 1899 |
 | 8 | [angelo-francisco](https://github.com/angelo-francisco) | Ângelo Francisco |  |  | Luanda, Angola | 1627 |
-| 9 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | 42 Luanda |  | Luanda, Angola | 1273 |
-| 10 | [Emicy963](https://github.com/Emicy963) | Cafu Dev |  |  | Huambo, Angola | 1217 |
-| 11 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1200 |
-| 12 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |
-| 13 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga |  |  | Angola | 1090 |
-| 14 | [tiagomatias930](https://github.com/tiagomatias930) | Tiago Matias  | 42Luanda |  | Luanda-Talatona | 980 |
-| 15 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | EMJ CONSULTORIA LDA |  | Angola, Luanda, Viana | 945 |
-| 16 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 943 |
-| 17 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala |  |  | Angola, Luanda | 940 |
-| 18 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 932 |
-| 19 | [3dsonnn](https://github.com/3dsonnn) | efinda |  |  | Luanda, Angola | 923 |
-| 20 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 921 |
+| 9 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | @underdev-official  |  | Moçâmedes, Namibe, Angola | 1400 |
+| 10 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | 42 Luanda |  | Luanda, Angola | 1273 |
+| 11 | [Emicy963](https://github.com/Emicy963) | Cafu Dev |  |  | Huambo, Angola | 1217 |
+| 12 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1200 |
+| 13 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |
+| 14 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga |  |  | Angola | 1090 |
+| 15 | [tiagomatias930](https://github.com/tiagomatias930) | Tiago Matias  | 42Luanda |  | Luanda-Talatona | 980 |
+| 16 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | EMJ CONSULTORIA LDA |  | Angola, Luanda, Viana | 945 |
+| 17 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 943 |
+| 18 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala |  |  | Angola, Luanda | 940 |
+| 19 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 932 |
+| 20 | [3dsonnn](https://github.com/3dsonnn) | efinda |  |  | Luanda, Angola | 923 |

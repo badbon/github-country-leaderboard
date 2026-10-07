@@ -1,6 +1,6 @@
 # Uruguay
 
-Indexed users: 5,623
+Indexed users: 5,622
 
 | Leaderboard | Link |
 |---|---|
@@ -42,8 +42,8 @@ Indexed users: 5,623
 | 3 | [Gabr1el20](https://github.com/Gabr1el20) | Gabriel Delgado | Uruguay | 5,696 |
 | 4 | [daedalus](https://github.com/daedalus) | Darío Clavijo | Montevideo, Uruguay | 4,810 |
 | 5 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 3,937 |
-| 6 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | Uruguay  | 3,732 |
-| 7 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 3,658 |
+| 6 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 3,658 |
+| 7 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | Uruguay  | 3,036 |
 | 8 | [davidmonterocrespo24](https://github.com/davidmonterocrespo24) | David Montero Crespo | Uruguay | 2,866 |
 | 9 | [damiansire](https://github.com/damiansire) | Damian Sire | Uruguay | 2,721 |
 | 10 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Montevideo, Uruguay | 2,539 |
@@ -83,4 +83,4 @@ Indexed users: 5,623
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-07T08:21:46.823Z
+Generated: 2026-10-07T09:14:47.865Z

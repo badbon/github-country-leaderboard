@@ -1,6 +1,6 @@
 # Madagascar
 
-Indexed users: 1,920
+Indexed users: 1,919
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 1,920
 | 17 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,465 |
 | 18 | [AmourRamanantsiresy](https://github.com/AmourRamanantsiresy) | RAMANANTSIRESY Amour Bien Aimé | Antananarivo | 1,460 |
 | 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina | Madagascar | 1,394 |
-| 20 | [tokimanana](https://github.com/tokimanana) | ANDRIAMBOLOLONA Tokimanana Samuel Sarobidy | Fianarantsoa, Madagascar | 1,236 |
+| 20 | [Noahmathieu](https://github.com/Noahmathieu) | Noah ANDRIANANTENAINA | Madagascar | 1,380 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,920
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 142 |
 | 20 | [Tombosoa](https://github.com/Tombosoa) | Nantenaina Ramanatombosoa | Madagascar | 139 |
 
-Generated: 2026-10-07T08:04:31.326Z
+Generated: 2026-10-07T08:51:35.484Z

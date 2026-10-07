@@ -1,13 +1,13 @@
 # Followers - Liechtenstein
 
-Generated: 2026-10-07T08:01:20.206Z
+Generated: 2026-10-07T08:50:53.324Z
 
 Users: 115
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [mrmotchy](https://github.com/mrmotchy) | mr.motchy | district74 |  | Liechtenstein | 337 |
-| 2 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 293 |
+| 2 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 290 |
 | 3 | [vad-babushkin](https://github.com/vad-babushkin) | vad babushkin |  |  | Liechtenstein | 53 |
 | 4 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 31 |
 | 5 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 30 |
@@ -21,8 +21,8 @@ Users: 115
 | 13 | [InsurePal](https://github.com/InsurePal) | VouchForMe | VouchForMe  |  | Vaduz | 17 |
 | 14 | [szero](https://github.com/szero) |  | @Volafile |  | Liechtenstein | 17 |
 | 15 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 16 |
-| 16 | [michi-dev](https://github.com/michi-dev) | Michael Schädler |  | schaedler_michi | Liechtenstein | 16 |
-| 17 | [fabiankeller](https://github.com/fabiankeller) | Fabian Keller | @Netcetera |  | Liechtenstein | 15 |
+| 16 | [fabiankeller](https://github.com/fabiankeller) | Fabian Keller | @Netcetera |  | Liechtenstein | 15 |
+| 17 | [michi-dev](https://github.com/michi-dev) | Michael Schädler |  | schaedler_michi | Liechtenstein | 15 |
 | 18 | [IncredibleAaron](https://github.com/IncredibleAaron) | Aaron |  |  | Vaduz | 14 |
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 13 |

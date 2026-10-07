@@ -26,12 +26,12 @@ Indexed users: 1,072
 | 12 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,149 |
 | 13 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 5,687 |
 | 14 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 5,234 |
-| 15 | [berryhill](https://github.com/berryhill) | Matt Berryhill | Los Santos, Panama | 4,773 |
-| 16 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 4,681 |
-| 17 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 4,655 |
-| 18 | [dav3trad3r](https://github.com/dav3trad3r) | dave | Panama | 4,385 |
-| 19 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 4,361 |
-| 20 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,086 |
+| 15 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,941 |
+| 16 | [berryhill](https://github.com/berryhill) | Matt Berryhill | Los Santos, Panama | 4,773 |
+| 17 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 4,681 |
+| 18 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 4,655 |
+| 19 | [dav3trad3r](https://github.com/dav3trad3r) | dave | Panama | 4,385 |
+| 20 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 4,361 |
 
 ## Public Contributions
 
@@ -51,12 +51,12 @@ Indexed users: 1,072
 | 12 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,117 |
 | 13 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 1,096 |
 | 14 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 942 |
-| 15 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 844 |
-| 16 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Santiago, Veraguas, Panamá | 793 |
-| 17 | [notSoEliel](https://github.com/notSoEliel) | Eliel García | Panama City, Panama, Panama | 793 |
-| 18 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 766 |
-| 19 | [levieraf](https://github.com/levieraf) | Luis Viera | Panama | 766 |
-| 20 | [jjzcru](https://github.com/jjzcru) | Jose J. Cruz | Panama, Panama | 762 |
+| 15 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 886 |
+| 16 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 844 |
+| 17 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Santiago, Veraguas, Panamá | 793 |
+| 18 | [notSoEliel](https://github.com/notSoEliel) | Eliel García | Panama City, Panama, Panama | 793 |
+| 19 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 766 |
+| 20 | [levieraf](https://github.com/levieraf) | Luis Viera | Panama | 766 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 47 |
 
-Generated: 2026-10-07T08:09:40.247Z
+Generated: 2026-10-07T08:59:38.454Z

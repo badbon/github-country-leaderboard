@@ -1,6 +1,6 @@
 # Saudi Arabia
 
-Indexed users: 7,702
+Indexed users: 7,701
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 7,702
 | 19 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 | 20 | [mo9a7i](https://github.com/mo9a7i) | Mohannad Faihan Otaibi | Saudi Arabia | 439 |
 
-Generated: 2026-10-07T08:15:08.546Z
+Generated: 2026-10-07T09:05:49.796Z

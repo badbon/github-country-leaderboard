@@ -1,8 +1,8 @@
 # Public Contributions - Zimbabwe
 
-Generated: 2026-10-07T08:23:42.986Z
+Generated: 2026-10-07T09:17:41.646Z
 
-Users: 1659
+Users: 1658
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 1659
 | 15 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 1424 |
 | 16 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine |  | king_tine11 | Zimbabwe | 1358 |
 | 17 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Classgap |  | Harare Zimbabwe | 1249 |
-| 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Marwadi Education Foundation Group of Institutions, Rajkot Subdistrict |  | Harare Zimbabwe | 1199 |
+| 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Marwadi Education Foundation Group of Institutions, Rajkot Subdistrict |  | Harare Zimbabwe | 1197 |
 | 19 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura |  |  | Harare, Zimbabwe | 1192 |
 | 20 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Kawerify Tech |  | Bulawayo, Zimbabwe | 1116 |

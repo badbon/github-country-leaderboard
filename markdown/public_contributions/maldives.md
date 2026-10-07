@@ -1,6 +1,6 @@
 # Public Contributions - Maldives
 
-Generated: 2026-10-07T08:04:41.079Z
+Generated: 2026-10-07T08:52:04.933Z
 
 Users: 356
 
@@ -15,14 +15,14 @@ Users: 356
 | 7 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin |  | mktgeducator | Malé, Maldives | 551 |
 | 8 | [Usagi5677](https://github.com/Usagi5677) | Naish | @MTCC-Plc |  | Maldives | 528 |
 | 9 | [N4ZEN](https://github.com/N4ZEN) | Naza |  |  | Maldives | 499 |
-| 10 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh |  |  | Male' , Maldives | 366 |
-| 11 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 354 |
-| 12 | [xSil3nt](https://github.com/xSil3nt) | Shazin |  |  | Male', Maldives | 343 |
-| 13 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | OXIQA |  | Maldives | 322 |
+| 10 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | OXIQA |  | Maldives | 423 |
+| 11 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh |  |  | Male' , Maldives | 366 |
+| 12 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 354 |
+| 13 | [xSil3nt](https://github.com/xSil3nt) | Shazin |  |  | Male', Maldives | 343 |
 | 14 | [mnazaal](https://github.com/mnazaal) | Nazaal | Aalto University | mnazaaI | Maldives | 319 |
 | 15 | [aliaafee](https://github.com/aliaafee) | Ali Aafee |  |  | Maldives | 308 |
-| 16 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE |  | WhoIsFishie | Maldives | 262 |
-| 17 | [crockalet](https://github.com/crockalet) |  |  | crockalet | Maldives | 232 |
+| 16 | [crockalet](https://github.com/crockalet) |  |  | crockalet | Maldives | 232 |
+| 17 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE |  | WhoIsFishie | Maldives | 232 |
 | 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | @Javaabu / @Baivaru |  | Maldives | 225 |
 | 19 | [adhuhaam](https://github.com/adhuhaam) | Adhu Haam | PowerShell Pvt Ltd |  | Maldives | 224 |
 | 20 | [dash8x](https://github.com/dash8x) | Arushad Ahmed | Javaabu | dash8x | Maldives | 198 |

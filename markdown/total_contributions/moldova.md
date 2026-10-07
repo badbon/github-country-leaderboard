@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-07T08:06:44.009Z
+Generated: 2026-10-07T08:53:31.019Z
 
 Users: 1763
 
@@ -18,11 +18,11 @@ Users: 1763
 | 10 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4424 |
 | 11 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 4415 |
 | 12 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Synkwise |  | Chisinau, Moldova | 4260 |
-| 13 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | ARTDOCK COMPANY SRL |  | Chisinau, Moldova | 4085 |
-| 14 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | AgendaMed RO |  | Moldova | 3899 |
-| 15 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric |  |  | Moldova | 3852 |
-| 16 | [raidum](https://github.com/raidum) | Dumitru Railean | @tractiontechpartners  |  | Moldova | 3826 |
-| 17 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | @Curano-AI  |  | Chisinau, Moldova | 3557 |
+| 13 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | @Curano-AI  |  | Chisinau, Moldova | 4091 |
+| 14 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | ARTDOCK COMPANY SRL |  | Chisinau, Moldova | 4085 |
+| 15 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | AgendaMed RO |  | Moldova | 3899 |
+| 16 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric |  |  | Moldova | 3852 |
+| 17 | [raidum](https://github.com/raidum) | Dumitru Railean | @tractiontechpartners  |  | Moldova | 3826 |
 | 18 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov |  |  | Moldova | 3537 |
 | 19 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 3531 |
 | 20 | [ion-golovco](https://github.com/ion-golovco) | Golovco Ion |  |  | Moldova | 3471 |

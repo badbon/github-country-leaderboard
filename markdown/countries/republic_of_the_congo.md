@@ -13,7 +13,7 @@ Indexed users: 299
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 7,943 |
-| 2 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,392 |
+| 2 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,798 |
 | 3 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,280 |
 | 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,075 |
 | 5 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 3,003 |
@@ -28,10 +28,10 @@ Indexed users: 299
 | 14 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,680 |
 | 15 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 1,535 |
 | 16 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,408 |
-| 17 | [LeBigLester](https://github.com/LeBigLester) | IBALA Emmanuel Amour-Bonté | Brazzaville | 1,305 |
-| 18 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | Brazzaville | 1,300 |
+| 17 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | Brazzaville | 1,300 |
+| 18 | [LeBigLester](https://github.com/LeBigLester) | IBALA Emmanuel Amour-Bonté | Brazzaville | 1,181 |
 | 19 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 1,150 |
-| 20 | [MakVieSAinte](https://github.com/MakVieSAinte) | MakVieSAinte | Congo Brazzaville | 1,078 |
+| 20 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 1,037 |
 
 ## Public Contributions
 
@@ -56,7 +56,7 @@ Indexed users: 299
 | 17 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 210 |
 | 18 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 207 |
 | 19 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  | Brazzaville, Congo | 195 |
-| 20 | [MakVieSAinte](https://github.com/MakVieSAinte) | MakVieSAinte | Congo Brazzaville | 195 |
+| 20 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 192 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 28 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 28 |
 
-Generated: 2026-10-07T08:12:26.074Z
+Generated: 2026-10-07T09:00:44.487Z

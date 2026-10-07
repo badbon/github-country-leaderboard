@@ -1,6 +1,6 @@
 # Montserrat
 
-Indexed users: 293
+Indexed users: 292
 
 | Leaderboard | Link |
 |---|---|
@@ -13,12 +13,12 @@ Indexed users: 293
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson | Plymouth, MI | 11,845 |
-| 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 6,189 |
-| 3 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,327 |
-| 4 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 3,793 |
-| 5 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,329 |
-| 6 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,290 |
-| 7 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 2,751 |
+| 2 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 6,243 |
+| 3 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 6,189 |
+| 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,327 |
+| 5 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 3,793 |
+| 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,329 |
+| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,290 |
 | 8 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,455 |
 | 9 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 2,426 |
 | 10 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 1,890 |
@@ -83,4 +83,4 @@ Indexed users: 293
 | 19 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 19 |
 | 20 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | Plymouth uk | 19 |
 
-Generated: 2026-10-07T08:06:57.015Z
+Generated: 2026-10-07T08:54:25.129Z

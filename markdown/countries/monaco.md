@@ -12,20 +12,20 @@ Indexed users: 142
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,417 |
+| 1 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,360 |
 | 2 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 5,752 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,015 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,386 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,852 |
-| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,435 |
-| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 895 |
-| 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 823 |
-| 9 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 659 |
-| 10 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 624 |
-| 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 591 |
-| 12 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 531 |
-| 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 491 |
-| 14 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 471 |
+| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,623 |
+| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,132 |
+| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,040 |
+| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 823 |
+| 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 659 |
+| 11 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 624 |
+| 12 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 591 |
+| 13 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 471 |
+| 14 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 418 |
 | 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 409 |
 | 16 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 315 |
 | 17 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 273 |
@@ -46,16 +46,16 @@ Indexed users: 142
 | 7 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 212 |
 | 8 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 201 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 168 |
-| 10 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | Nice / Monaco / Sophia Antipolis | 111 |
+| 10 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | Nice / Monaco / Sophia Antipolis | 114 |
 | 11 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering | Monaco | 106 |
 | 12 | [fedecarz](https://github.com/fedecarz) | fedecarz | Monaco | 99 |
-| 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 77 |
+| 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 80 |
 | 14 | [yeainworks](https://github.com/yeainworks) | yea! | monaco | 74 |
 | 15 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 58 |
 | 16 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 54 |
 | 17 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 52 |
 | 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 49 |
-| 19 | [Faooel](https://github.com/Faooel) | Benoit G | Monaco | 46 |
+| 19 | [Faooel](https://github.com/Faooel) | Benoit G | Monaco | 49 |
 | 20 | [mortii](https://github.com/mortii) |  | Monaco | 42 |
 
 ## Followers
@@ -66,7 +66,7 @@ Indexed users: 142
 | 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 94 |
 | 3 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 40 |
 | 4 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 40 |
-| 5 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 39 |
+| 5 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 36 |
 | 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 33 |
 | 7 | [zertawz](https://github.com/zertawz) | Jean-Christophe BURNOT | MONACO / LYON / LAUSANNE | 30 |
 | 8 | [jmbertin](https://github.com/jmbertin) | Jean-Michel Bertin | Monaco | 24 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 12 |
 
-Generated: 2026-10-07T08:06:47.156Z
+Generated: 2026-10-07T08:53:34.287Z

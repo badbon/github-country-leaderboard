@@ -1,6 +1,6 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-07T08:17:21.108Z
+Generated: 2026-10-07T09:07:49.834Z
 
 Users: 866
 
@@ -11,7 +11,7 @@ Users: 866
 | 3 | [abdulsalamhassan](https://github.com/abdulsalamhassan) | Abdulsalam H. Shiikhow | SIMAD University |  | Somalia, Mogadishu | 1443 |
 | 4 | [Maxamed459](https://github.com/Maxamed459) | Maxamed Mahdi |  |  | Somalia | 1202 |
 | 5 | [TheAnfac](https://github.com/TheAnfac) | Anfac Abdullahi |  |  | Somalia-Mogadishu | 1074 |
-| 6 | [mohameddahir57](https://github.com/mohameddahir57) | Mohamed Dahir Osman |  |  | Somalia,Mogadishu | 845 |
+| 6 | [mohameddahir57](https://github.com/mohameddahir57) | Mohamed Dahir Osman |  |  | Somalia,Mogadishu | 929 |
 | 7 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 821 |
 | 8 | [omartood](https://github.com/omartood) | Omar Tood | Instructor & Researcher At @goobolabs | OMARJIBRII | Somalia | 765 |
 | 9 | [ibrahimmoalim](https://github.com/ibrahimmoalim) | Ibrahim |  |  | Garowe, Somalia | 760 |

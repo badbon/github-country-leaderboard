@@ -1,13 +1,13 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-07T08:12:26.074Z
+Generated: 2026-10-07T09:00:44.487Z
 
 Users: 299
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | @akieni-tech | bryan_6243 | Brazzaville - Congo | 7943 |
-| 2 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | @akieni-tech |  | Brazzaville - Congo | 3392 |
+| 2 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | @akieni-tech |  | Brazzaville - Congo | 3798 |
 | 3 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda |  |  | Pointe-Noire, Congo | 3280 |
 | 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke |  |  | Congo | 3075 |
 | 5 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 3003 |
@@ -22,7 +22,7 @@ Users: 299
 | 14 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga |  |  | Brazzaville, Congo | 1680 |
 | 15 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah |  |  | Congo Brazzaville  | 1535 |
 | 16 | [DevProsper](https://github.com/DevProsper) |  | ASNEC-IT |  | Brazzaville, Congo | 1408 |
-| 17 | [LeBigLester](https://github.com/LeBigLester) | IBALA Emmanuel Amour-Bonté | webtinix |  | Brazzaville | 1305 |
-| 18 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | NOVATECH |  | Brazzaville | 1300 |
+| 17 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | NOVATECH |  | Brazzaville | 1300 |
+| 18 | [LeBigLester](https://github.com/LeBigLester) | IBALA Emmanuel Amour-Bonté | webtinix |  | Brazzaville | 1181 |
 | 19 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 1150 |
-| 20 | [MakVieSAinte](https://github.com/MakVieSAinte) | MakVieSAinte |  |  | Congo Brazzaville | 1078 |
+| 20 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | liechticonsulting.com | liechticonsult | Congo | 1037 |

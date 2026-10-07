@@ -1,8 +1,8 @@
 # Followers - Kazakhstan
 
-Generated: 2026-10-07T07:57:39.753Z
+Generated: 2026-10-07T08:48:06.064Z
 
-Users: 5681
+Users: 5680
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 5681
 | 2 | [0xAX](https://github.com/0xAX) | Alex Kuleshov | @travelping  | 0xAX | Kazakhstan, Astana | 3657 |
 | 3 | [Kairatzh](https://github.com/Kairatzh) | kirtzh | K.Zhubanov university |  | Aktobe, Kazakhstan | 2025 |
 | 4 | [henrypp](https://github.com/henrypp) | henrypp | henrypp | s7ev1n_kelevra | Almaty, Kazakhstan | 1920 |
-| 5 | [mikonyaa](https://github.com/mikonyaa) | miko |  |  | Astana, Kazakhstan | 1303 |
+| 5 | [mikonyaa](https://github.com/mikonyaa) | miko |  |  | Astana, Kazakhstan | 1459 |
 | 6 | [finik404](https://github.com/finik404) | Dmitriy Bozhko |  |  | Kazakhstan, Kostanay | 1057 |
 | 7 | [yerdaulet-damir](https://github.com/yerdaulet-damir) | Damir Yerdaulet |  | aimyerdaulet | Astana, Kazakhstan | 631 |
 | 8 | [artemnovichkov](https://github.com/artemnovichkov) | Artem Novichkov | Salmon Group Ltd | iosartem | Almaty, Kazakhstan | 579 |

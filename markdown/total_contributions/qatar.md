@@ -1,8 +1,8 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-07T08:12:21.400Z
+Generated: 2026-10-07T09:00:41.265Z
 
-Users: 1080
+Users: 1078
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 1080
 | 17 | [Snowy7](https://github.com/Snowy7) | Snowy |  |  | Qatar | 3566 |
 | 18 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 3393 |
 | 19 | [regizum](https://github.com/regizum) | Regina Nigmatullina |  |  | Doha | 3230 |
-| 20 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 3057 |
+| 20 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | @mzieos |  | Doha, Qatar | 3090 |

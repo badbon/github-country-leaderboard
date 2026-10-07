@@ -1,6 +1,6 @@
 # Followers - Mali
 
-Generated: 2026-10-07T08:04:45.198Z
+Generated: 2026-10-07T08:52:07.698Z
 
 Users: 347
 
@@ -21,8 +21,8 @@ Users: 347
 | 13 | [Abdoulayadiallo](https://github.com/Abdoulayadiallo) | Abdoulaye Diallo |  |  | BAMAKO | 33 |
 | 14 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara |  | karimdiawara96 | JX4X+QX9, Bamako | 33 |
 | 15 | [mdodakitabs](https://github.com/mdodakitabs) | Mohamed Diakite |  |  | Mali | 33 |
-| 16 | [dsekou166](https://github.com/dsekou166) | Sékou DIAKITE | Orange Digital Center | 92ikop | Bamako, Mali | 30 |
-| 17 | [geekdjenika](https://github.com/geekdjenika) | Aboubacar DJENIKA | @thltechnologies  | geekdjenika | Bamako | 30 |
-| 18 | [touredri](https://github.com/touredri) | Drissa | @microverseinc Microverse | touredri | Bamako, Mali | 30 |
+| 16 | [touredri](https://github.com/touredri) | Drissa | @microverseinc Microverse | touredri | Bamako, Mali | 31 |
+| 17 | [dsekou166](https://github.com/dsekou166) | Sékou DIAKITE | Orange Digital Center | 92ikop | Bamako, Mali | 30 |
+| 18 | [geekdjenika](https://github.com/geekdjenika) | Aboubacar DJENIKA | @thltechnologies  | geekdjenika | Bamako | 30 |
 | 19 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou |  |  | bamako, Mali | 29 |
 | 20 | [AlyKonte](https://github.com/AlyKonte) |  |  |  | Mali/Bamako | 27 |

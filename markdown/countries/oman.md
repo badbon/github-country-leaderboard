@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 1,001
+Indexed users: 1,000
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,001
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 89 |
 
-Generated: 2026-10-07T08:09:28.167Z
+Generated: 2026-10-07T08:59:14.243Z

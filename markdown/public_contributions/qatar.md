@@ -1,8 +1,8 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-07T08:12:21.400Z
+Generated: 2026-10-07T09:00:41.265Z
 
-Users: 1080
+Users: 1078
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 1080
 | 10 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Al Ansari |  | Qatar | 953 |
 | 11 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Romak |  | Qatar | 925 |
 | 12 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 919 |
-| 13 | [mehmetakif-git](https://github.com/mehmetakif-git) |  | Allync | allync_ai | Qatar | 872 |
-| 14 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 828 |
-| 15 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag |  |  | Doha / Qatar | 792 |
-| 16 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | @mzieos |  | Doha, Qatar | 751 |
-| 17 | [prajwal918](https://github.com/prajwal918) | It's okayyy  | https://github.com/prajwal918/ |  | qatar doha | 721 |
-| 18 | [elorm116](https://github.com/elorm116) | Anthony |  | elorm116 | Doha, Qatar | 707 |
-| 19 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed |  |  | Doha | 702 |
-| 20 | [Achyut2009](https://github.com/Achyut2009) | Achyut Paliwal | SkyDark | APaliwal63574 | al wakrah, qatar | 688 |
+| 13 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 828 |
+| 14 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag |  |  | Doha / Qatar | 792 |
+| 15 | [prajwal918](https://github.com/prajwal918) | It's okayyy  | https://github.com/prajwal918/ |  | qatar doha | 721 |
+| 16 | [elorm116](https://github.com/elorm116) | Anthony |  | elorm116 | Doha, Qatar | 707 |
+| 17 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed |  |  | Doha | 702 |
+| 18 | [Achyut2009](https://github.com/Achyut2009) | Achyut Paliwal | SkyDark | APaliwal63574 | al wakrah, qatar | 688 |
+| 19 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | @mzieos |  | Doha, Qatar | 682 |
+| 20 | [Asemerald](https://github.com/Asemerald) | Asemerald |  |  | Doha, Qatar | 671 |

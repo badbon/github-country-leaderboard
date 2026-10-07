@@ -1,6 +1,6 @@
 # South Africa
 
-Indexed users: 17,910
+Indexed users: 17,909
 
 | Leaderboard | Link |
 |---|---|
@@ -43,7 +43,7 @@ Indexed users: 17,910
 | 4 | [KyleDev008](https://github.com/KyleDev008) | KyleDev | South Africa | 11,978 |
 | 5 | [JustAGhosT](https://github.com/JustAGhosT) | Jurie Smit | Gauteng, South Africa | 9,314 |
 | 6 | [snopoke](https://github.com/snopoke) | Simon Kelly | Cape Town | 8,924 |
-| 7 | [APGI-cmy](https://github.com/APGI-cmy) | Johan Ras | South Africa | 7,624 |
+| 7 | [APGI-cmy](https://github.com/APGI-cmy) | Johan Ras | South Africa | 7,833 |
 | 8 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Johannesburg, South Africa | 7,556 |
 | 9 | [govert](https://github.com/govert) | Govert van Drimmelen | Johannesburg, South Africa | 5,771 |
 | 10 | [nyashahama](https://github.com/nyashahama) | Nyasha Hama | South Africa | 5,446 |
@@ -83,4 +83,4 @@ Indexed users: 17,910
 | 19 | [peterp](https://github.com/peterp) | Peter Pistorius | South Africa | 639 |
 | 20 | [mortolian](https://github.com/mortolian) | Gideon Schoonbee | Western Cape, South Africa | 632 |
 
-Generated: 2026-10-07T08:17:44.650Z
+Generated: 2026-10-07T09:08:06.271Z

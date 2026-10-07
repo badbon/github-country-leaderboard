@@ -1,8 +1,8 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-07T08:08:40.331Z
+Generated: 2026-10-07T08:58:15.902Z
 
-Users: 189
+Users: 188
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,7 +13,7 @@ Users: 189
 | 5 | [henxdl](https://github.com/henxdl) | henxdl | Unemployed :) |  | Pyongyang, North Korea | 1268 |
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 1261 |
 | 7 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1256 |
-| 8 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 756 |
+| 8 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 607 |
 | 9 | [1zumiSagiri](https://github.com/1zumiSagiri) |  |  |  | Pyongyang | 585 |
 | 10 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 501 |
 | 11 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 484 |

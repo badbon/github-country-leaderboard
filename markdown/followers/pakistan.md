@@ -1,6 +1,6 @@
 # Followers - Pakistan
 
-Generated: 2026-10-07T08:09:31.458Z
+Generated: 2026-10-07T08:59:25.486Z
 
 Users: 41537
 
@@ -18,11 +18,11 @@ Users: 41537
 | 10 | [ghousahmed](https://github.com/ghousahmed) | Ghous Ahmed | Stellic |  | Karachi,Pakistan | 1726 |
 | 11 | [wecoded-dev](https://github.com/wecoded-dev) | Hanzla Baig | TheBitForge |  | Chichawatni,  Pakistan  | 1610 |
 | 12 | [shanraisshan](https://github.com/shanraisshan) | Shayan Rais | disrupt.com | shanraisshan | Karachi, Pakistan | 1439 |
-| 13 | [AsharibAli](https://github.com/AsharibAli) | Asharib Ali |  | 0xAsharib | Pakistan | 1411 |
-| 14 | [dev-sire](https://github.com/dev-sire) | Aman Shahid | Corning Incorporated |  | Pakistan | 1320 |
-| 15 | [evildevill](https://github.com/evildevill) | Waseem Akram | Researcher, Pentest, Dev |  | Pakistan | 1309 |
-| 16 | [hamzaali81](https://github.com/hamzaali81) | Hamza Ali |  Liquidity | hamzaali81 |  Pakistan | 1272 |
-| 17 | [Shahzaib-D-Memon](https://github.com/Shahzaib-D-Memon) | Shahzaib Memon | The City School |  | Hyderabad, Sindh, Pakistan | 1264 |
-| 18 | [mInzamamMalik](https://github.com/mInzamamMalik) | Inzamam Malik | sysBorg |  | karachi, pakistan | 1250 |
-| 19 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | @threatify |  | Pakistan | 1232 |
-| 20 | [genabdulrehman](https://github.com/genabdulrehman) | Abdul rehman | Freelancer |  | Gujranwala, Pakistan. | 1148 |
+| 13 | [salikhussain71-code](https://github.com/salikhussain71-code) | Salik Hussain | IQRA University Islamabad | salikhussain71 | Rawalpindi , punjab, Pakistan  | 1435 |
+| 14 | [AsharibAli](https://github.com/AsharibAli) | Asharib Ali |  | 0xAsharib | Pakistan | 1411 |
+| 15 | [dev-sire](https://github.com/dev-sire) | Aman Shahid | Corning Incorporated |  | Pakistan | 1320 |
+| 16 | [evildevill](https://github.com/evildevill) | Waseem Akram | Researcher, Pentest, Dev |  | Pakistan | 1309 |
+| 17 | [hamzaali81](https://github.com/hamzaali81) | Hamza Ali |  Liquidity | hamzaali81 |  Pakistan | 1272 |
+| 18 | [Shahzaib-D-Memon](https://github.com/Shahzaib-D-Memon) | Shahzaib Memon | The City School |  | Hyderabad, Sindh, Pakistan | 1264 |
+| 19 | [mInzamamMalik](https://github.com/mInzamamMalik) | Inzamam Malik | sysBorg |  | karachi, pakistan | 1250 |
+| 20 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | @threatify |  | Pakistan | 1232 |

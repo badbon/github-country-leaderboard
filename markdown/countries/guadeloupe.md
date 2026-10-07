@@ -1,6 +1,6 @@
 # Guadeloupe
 
-Indexed users: 85
+Indexed users: 87
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 85
 | 19 | [Clement97712](https://github.com/Clement97712) |  | Guadeloupe | 6 |
 | 20 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 
-Generated: 2026-10-07T08:40:54.133Z
+Generated: 2026-10-07T08:58:17.526Z

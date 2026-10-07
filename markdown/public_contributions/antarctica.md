@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-07T08:26:54.467Z
+Generated: 2026-10-07T09:19:36.007Z
 
 Users: 470
 
@@ -12,8 +12,8 @@ Users: 470
 | 4 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 1953 |
 | 5 | [krwg](https://github.com/krwg) | アイダ ミール | Google University |  | Antarctica | 1465 |
 | 6 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1399 |
-| 7 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1188 |
-| 8 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Gruppa chat & Co. |  | Antarctica | 1173 |
+| 7 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Gruppa chat & Co. |  | Antarctica | 1173 |
+| 8 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1137 |
 | 9 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube |  | icecubedotwtf | Antarctica | 996 |
 | 10 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 711 |
 | 11 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 675 |

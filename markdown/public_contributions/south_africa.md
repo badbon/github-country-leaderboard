@@ -1,8 +1,8 @@
 # Public Contributions - South Africa
 
-Generated: 2026-10-07T08:17:44.650Z
+Generated: 2026-10-07T09:08:06.271Z
 
-Users: 17910
+Users: 17909
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,7 +12,7 @@ Users: 17910
 | 4 | [KyleDev008](https://github.com/KyleDev008) | KyleDev |  |  | South Africa | 11978 |
 | 5 | [JustAGhosT](https://github.com/JustAGhosT) | Jurie Smit |  |  | Gauteng, South Africa | 9314 |
 | 6 | [snopoke](https://github.com/snopoke) | Simon Kelly | @dimagi | snopoke | Cape Town | 8924 |
-| 7 | [APGI-cmy](https://github.com/APGI-cmy) | Johan Ras |  |  | South Africa | 7624 |
+| 7 | [APGI-cmy](https://github.com/APGI-cmy) | Johan Ras |  |  | South Africa | 7833 |
 | 8 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Kirov Dynamics Technology |  | Johannesburg, South Africa | 7556 |
 | 9 | [govert](https://github.com/govert) | Govert van Drimmelen | Excel-DNA |  | Johannesburg, South Africa | 5771 |
 | 10 | [nyashahama](https://github.com/nyashahama) | Nyasha Hama |  |  | South Africa | 5446 |

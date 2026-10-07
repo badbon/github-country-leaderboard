@@ -1,6 +1,6 @@
 # Bahrain
 
-Indexed users: 734
+Indexed users: 733
 
 | Leaderboard | Link |
 |---|---|
@@ -54,9 +54,9 @@ Indexed users: 734
 | 15 | [sfoulad](https://github.com/sfoulad) | Foulad | Bahrain | 682 |
 | 16 | [falansari](https://github.com/falansari) | Fatima Alansari | Bahrain | 677 |
 | 17 | [hussain-alsaibai](https://github.com/hussain-alsaibai) | Hussain Alsaibai | Bahrain | 666 |
-| 18 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain | 657 |
-| 19 | [RaghadAlesakfi](https://github.com/RaghadAlesakfi) | Raghad | Bahrain | 637 |
-| 20 | [zahraa-hubail](https://github.com/zahraa-hubail) | Zahraa | Bahrain | 634 |
+| 18 | [sahmedhusain](https://github.com/sahmedhusain) | Sayed Ahmed Husain | Bahrain | 659 |
+| 19 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain | 657 |
+| 20 | [RaghadAlesakfi](https://github.com/RaghadAlesakfi) | Raghad | Bahrain | 637 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 734
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 41 |
 | 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa | Bahrain | 37 |
 
-Generated: 2026-10-07T08:27:42.009Z
+Generated: 2026-10-07T09:20:38.888Z

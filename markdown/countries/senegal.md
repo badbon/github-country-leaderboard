@@ -1,6 +1,6 @@
 # Senegal
 
-Indexed users: 1,366
+Indexed users: 1,365
 
 | Leaderboard | Link |
 |---|---|
@@ -39,7 +39,7 @@ Indexed users: 1,366
 |---:|---|---|---|---:|
 | 1 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 3,173 |
 | 2 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,837 |
-| 3 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,475 |
+| 3 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,534 |
 | 4 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 2,158 |
 | 5 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,903 |
 | 6 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 1,839 |
@@ -83,4 +83,4 @@ Indexed users: 1,366
 | 19 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 | 20 | [tonux](https://github.com/tonux) | Tonux SAMB | Dakar, Sénégal  | 124 |
 
-Generated: 2026-10-07T08:15:11.677Z
+Generated: 2026-10-07T09:05:53.148Z

@@ -1,6 +1,6 @@
 # Macau
 
-Indexed users: 453
+Indexed users: 452
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 453
 | 19 | [greatzh](https://github.com/greatzh) | Zihao Zhang | macao | 65 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 61 |
 
-Generated: 2026-10-07T08:04:27.434Z
+Generated: 2026-10-07T08:51:07.180Z

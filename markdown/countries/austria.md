@@ -1,6 +1,6 @@
 # Austria
 
-Indexed users: 18,255
+Indexed users: 18,254
 
 | Leaderboard | Link |
 |---|---|
@@ -30,8 +30,8 @@ Indexed users: 18,255
 | 16 | [ddedic](https://github.com/ddedic) | Danijel Dedic | Kufstein, Austria | 15,858 |
 | 17 | [michaelbromley](https://github.com/michaelbromley) | Michael Bromley | Vienna, Austria | 15,690 |
 | 18 | [DrBaher](https://github.com/DrBaher) | DrBaher | Austria | 15,529 |
-| 19 | [TueJon](https://github.com/TueJon) | Jonas Tüchler | Austria | 15,413 |
-| 20 | [JKamsker](https://github.com/JKamsker) | Jonas Kamsker | Linz, Austria | 14,978 |
+| 19 | [simeon-kepp](https://github.com/simeon-kepp) | rfi-irfos | Elisabetinergasse 25/Top 10/DG/ Graz, Austria, Skybase | 15,527 |
+| 20 | [TueJon](https://github.com/TueJon) | Jonas Tüchler | Austria | 15,413 |
 
 ## Public Contributions
 
@@ -45,7 +45,7 @@ Indexed users: 18,255
 | 6 | [nerolation](https://github.com/nerolation) | Toni Wahrstätter | Austria | 10,313 |
 | 7 | [mcm1957](https://github.com/mcm1957) | Martin M. | Vienna, Austria | 10,062 |
 | 8 | [rmayr](https://github.com/rmayr) | René Mayrhofer | Austria | 10,006 |
-| 9 | [simeon-kepp](https://github.com/simeon-kepp) | rfi-irfos | Elisabetinergasse 25/Top 10/DG/ Graz, Austria, Skybase | 8,603 |
+| 9 | [simeon-kepp](https://github.com/simeon-kepp) | rfi-irfos | Elisabetinergasse 25/Top 10/DG/ Graz, Austria, Skybase | 8,906 |
 | 10 | [phax](https://github.com/phax) | Philip Helger | Vienna, Austria | 8,386 |
 | 11 | [ANcpLua](https://github.com/ANcpLua) | Alexander Nachtmann | Vienna  | 8,316 |
 | 12 | [thisbavoreva](https://github.com/thisbavoreva) | Laurenz Stampfl | Vienna, Austria | 7,903 |
@@ -83,4 +83,4 @@ Indexed users: 18,255
 | 19 | [timolins](https://github.com/timolins) | Timo Lins | Vienna, Austria | 1,173 |
 | 20 | [cliffordwolf](https://github.com/cliffordwolf) | Claire Wolf | Vienna | 1,143 |
 
-Generated: 2026-10-07T08:27:32.933Z
+Generated: 2026-10-07T09:19:59.659Z

@@ -1,8 +1,8 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-07T08:10:14.623Z
+Generated: 2026-10-07T08:59:59.671Z
 
-Users: 2028
+Users: 2026
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

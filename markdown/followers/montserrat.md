@@ -1,8 +1,8 @@
 # Followers - Montserrat
 
-Generated: 2026-10-07T08:06:57.015Z
+Generated: 2026-10-07T08:54:25.129Z
 
-Users: 293
+Users: 292
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,7 +17,7 @@ Users: 293
 | 9 | [spottedmahn](https://github.com/spottedmahn) | Michael DePouw | CEI | spottedmahn | Plymouth Meeting, PA | 25 |
 | 10 | [EricJamesOsowski](https://github.com/EricJamesOsowski) | Eric Osowski |  |  | Plymouth, Minnesota | 24 |
 | 11 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin |  |  | Plymouth, MN | 24 |
-| 12 | [donghyunkang-digipen](https://github.com/donghyunkang-digipen) | donghyun.kang | Mobis Technical Center America via BTI Solutions |  | Plymouth, MI | 23 |
+| 12 | [donghyunkang-digipen](https://github.com/donghyunkang-digipen) | donghyun.kang | Hyundai MOBIS Technical Center America via BTI Solutions |  | Plymouth, MI | 23 |
 | 13 | [mbruty](https://github.com/mbruty) | Michael Bruty |  |  | Plymouth | 23 |
 | 14 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | University of Plymouth |  | Plymouth | 22 |
 | 15 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Oracle |  | Plymouth Meeting, PA | 22 |

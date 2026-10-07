@@ -1,6 +1,6 @@
 # North Korea
 
-Indexed users: 189
+Indexed users: 188
 
 | Leaderboard | Link |
 |---|---|
@@ -19,7 +19,7 @@ Indexed users: 189
 | 5 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,268 |
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,261 |
 | 7 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,256 |
-| 8 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 756 |
+| 8 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
 | 9 | [1zumiSagiri](https://github.com/1zumiSagiri) |  | Pyongyang | 585 |
 | 10 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 501 |
 | 11 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 484 |
@@ -38,7 +38,7 @@ Indexed users: 189
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,261 |
-| 2 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 756 |
+| 2 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
 | 3 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 501 |
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 473 |
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 343 |
@@ -54,8 +54,8 @@ Indexed users: 189
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 165 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | Pyongyang | 140 |
 | 17 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace | Pyongyang, Democrat People's Republic of Korea | 99 |
-| 18 | [1zumiSagiri](https://github.com/1zumiSagiri) |  | Pyongyang | 82 |
-| 19 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 79 |
+| 18 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 83 |
+| 19 | [1zumiSagiri](https://github.com/1zumiSagiri) |  | Pyongyang | 82 |
 | 20 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana | Pyongyang, North Korea | 72 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 189
 | 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-07T08:08:40.331Z
+Generated: 2026-10-07T08:58:15.902Z

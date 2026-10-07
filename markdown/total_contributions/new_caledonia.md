@@ -1,6 +1,6 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-10-07T08:07:49.066Z
+Generated: 2026-10-07T08:57:10.833Z
 
 Users: 111
 
@@ -15,7 +15,7 @@ Users: 111
 | 7 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 1342 |
 | 8 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1300 |
 | 9 | [Dougniel](https://github.com/Dougniel) | Daniel Santos |  |  | New Caledonia | 1220 |
-| 10 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 1109 |
+| 10 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 1184 |
 | 11 | [120dev](https://github.com/120dev) | 120 | 120DEV |  | NEW CALEDONIA | 959 |
 | 12 | [bpouzet](https://github.com/bpouzet) | Benoit Pouzet | @ooopener |  | Nouméa, New Caledonia | 813 |
 | 13 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | Gouvernement de la Nouvelle-Calédonie |  | New-Caledonia | 742 |
@@ -24,5 +24,5 @@ Users: 111
 | 16 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 602 |
 | 17 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 567 |
 | 18 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Pacific Community \| Communauté de Pacifique | BenCochraneR | Nouméa | 527 |
-| 19 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 484 |
+| 19 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 470 |
 | 20 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | none |  | New-Caledonia | 406 |

@@ -1,8 +1,8 @@
 # Followers - Libya
 
-Generated: 2026-10-07T08:01:17.305Z
+Generated: 2026-10-07T08:50:49.074Z
 
-Users: 751
+Users: 748
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 751
 | 13 | [KhawlahElshah](https://github.com/KhawlahElshah) | Khawlah Elshah |  |  | Tripoli, Libya | 60 |
 | 14 | [tahaak67](https://github.com/tahaak67) | Taha Ben Ashur |  |  | Libya | 60 |
 | 15 | [asonni](https://github.com/asonni) | Aladdin Sonni | Almadar Aljadid | aladdin_sonni | Tripoli - Libya | 58 |
-| 16 | [ridalabbar](https://github.com/ridalabbar) | Rida Labbar |  | ridalabbar | Benghazi, Libya | 57 |
-| 17 | [SL0wZEr](https://github.com/SL0wZEr) | Ahmad Aljazzar |  | SL0wZEr | Tripoli, Libya | 57 |
-| 18 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 56 |
+| 16 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 57 |
+| 17 | [ridalabbar](https://github.com/ridalabbar) | Rida Labbar |  | ridalabbar | Benghazi, Libya | 57 |
+| 18 | [SL0wZEr](https://github.com/SL0wZEr) | Ahmad Aljazzar |  | SL0wZEr | Tripoli, Libya | 57 |
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi |  | zizouhuweidi | Benghazi, Libya | 50 |
-| 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | @ProcessorLY |  | Benghazi, Libya | 46 |
+| 20 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | @Artisans-Digital-Agency , @ditsly |  | Libya  | 47 |

@@ -1,6 +1,6 @@
 # Followers - Timor-Leste
 
-Generated: 2026-10-07T08:19:04.630Z
+Generated: 2026-10-07T09:10:19.994Z
 
 Users: 77
 
@@ -24,5 +24,5 @@ Users: 77
 | 16 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | UNTL |  | Dili | 7 |
 | 17 | [BKHONEL](https://github.com/BKHONEL) | [ KHONEL ] | K-40 Service | My_Khonel | Timor Leste | 6 |
 | 18 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala |  |  | Dili, Timor Leste | 6 |
-| 19 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Freelancer |  | Dili, Timor-Leste 🇹🇱 | 6 |
-| 20 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | @catalpainternational  |  | Dili, Timor-Leste | 5 |
+| 19 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | @catalpainternational  |  | Dili, Timor-Leste | 6 |
+| 20 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Freelancer |  | Dili, Timor-Leste 🇹🇱 | 6 |

@@ -74,13 +74,13 @@ Indexed users: 41,537
 | 10 | [ghousahmed](https://github.com/ghousahmed) | Ghous Ahmed | Karachi,Pakistan | 1,726 |
 | 11 | [wecoded-dev](https://github.com/wecoded-dev) | Hanzla Baig | Chichawatni,  Pakistan  | 1,610 |
 | 12 | [shanraisshan](https://github.com/shanraisshan) | Shayan Rais | Karachi, Pakistan | 1,439 |
-| 13 | [AsharibAli](https://github.com/AsharibAli) | Asharib Ali | Pakistan | 1,411 |
-| 14 | [dev-sire](https://github.com/dev-sire) | Aman Shahid | Pakistan | 1,320 |
-| 15 | [evildevill](https://github.com/evildevill) | Waseem Akram | Pakistan | 1,309 |
-| 16 | [hamzaali81](https://github.com/hamzaali81) | Hamza Ali |  Pakistan | 1,272 |
-| 17 | [Shahzaib-D-Memon](https://github.com/Shahzaib-D-Memon) | Shahzaib Memon | Hyderabad, Sindh, Pakistan | 1,264 |
-| 18 | [mInzamamMalik](https://github.com/mInzamamMalik) | Inzamam Malik | karachi, pakistan | 1,250 |
-| 19 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | Pakistan | 1,232 |
-| 20 | [genabdulrehman](https://github.com/genabdulrehman) | Abdul rehman | Gujranwala, Pakistan. | 1,148 |
+| 13 | [salikhussain71-code](https://github.com/salikhussain71-code) | Salik Hussain | Rawalpindi , punjab, Pakistan  | 1,435 |
+| 14 | [AsharibAli](https://github.com/AsharibAli) | Asharib Ali | Pakistan | 1,411 |
+| 15 | [dev-sire](https://github.com/dev-sire) | Aman Shahid | Pakistan | 1,320 |
+| 16 | [evildevill](https://github.com/evildevill) | Waseem Akram | Pakistan | 1,309 |
+| 17 | [hamzaali81](https://github.com/hamzaali81) | Hamza Ali |  Pakistan | 1,272 |
+| 18 | [Shahzaib-D-Memon](https://github.com/Shahzaib-D-Memon) | Shahzaib Memon | Hyderabad, Sindh, Pakistan | 1,264 |
+| 19 | [mInzamamMalik](https://github.com/mInzamamMalik) | Inzamam Malik | karachi, pakistan | 1,250 |
+| 20 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | Pakistan | 1,232 |
 
-Generated: 2026-10-07T08:09:31.458Z
+Generated: 2026-10-07T08:59:25.486Z

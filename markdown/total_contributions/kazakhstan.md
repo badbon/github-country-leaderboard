@@ -1,8 +1,8 @@
 # Total Contributions - Kazakhstan
 
-Generated: 2026-10-07T07:57:39.753Z
+Generated: 2026-10-07T08:48:06.064Z
 
-Users: 5681
+Users: 5680
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 5681
 | 2 | [nstwfdev](https://github.com/nstwfdev) | Timur |  |  | Kazakhstan | 40433 |
 | 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | @NDDev-it-com |  | Kazakhstan/World | 37462 |
 | 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman |  |  | Kazakhstan | 34165 |
-| 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | AI institute |  | Kazakhstan, Kyzylorda | 13277 |
+| 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | AI institute |  | Kazakhstan, Kyzylorda | 24758 |
 | 6 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | @Maxinum |  | Kazakhstan, Almaty | 12873 |
 | 7 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger |  | Manss_dev | Almaty, Kazakhstan | 12675 |
 | 8 | [uzarsalan](https://github.com/uzarsalan) | Arsalan |  |  | Astana, Kazakhstan | 12368 |

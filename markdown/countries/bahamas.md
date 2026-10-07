@@ -27,7 +27,7 @@ Indexed users: 238
 | 13 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 802 |
 | 14 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 787 |
 | 15 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 786 |
-| 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 566 |
+| 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 711 |
 | 17 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 545 |
 | 18 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 500 |
 | 19 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 386 |
@@ -46,17 +46,17 @@ Indexed users: 238
 | 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 211 |
 | 8 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 202 |
 | 9 | [scott-mackenzie](https://github.com/scott-mackenzie) | Scott E. MacKenzie | Nassau, Bahamas | 140 |
-| 10 | [bmo242](https://github.com/bmo242) | Brandon Morrison | Nassau, Bahamas | 112 |
-| 11 | [CooperSandra](https://github.com/CooperSandra) | Sandra | Bahamas | 99 |
-| 12 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 99 |
-| 13 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 84 |
-| 14 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 84 |
-| 15 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 59 |
-| 16 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 57 |
-| 17 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 55 |
-| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 46 |
-| 19 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 42 |
-| 20 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 41 |
+| 10 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 131 |
+| 11 | [bmo242](https://github.com/bmo242) | Brandon Morrison | Nassau, Bahamas | 112 |
+| 12 | [CooperSandra](https://github.com/CooperSandra) | Sandra | Bahamas | 99 |
+| 13 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 99 |
+| 14 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 84 |
+| 15 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 84 |
+| 16 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 59 |
+| 17 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 57 |
+| 18 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 55 |
+| 19 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 46 |
+| 20 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 42 |
 
 ## Followers
 
@@ -74,13 +74,13 @@ Indexed users: 238
 | 10 | [travismillerweb](https://github.com/travismillerweb) | Travis Miller | Bahamas | 26 |
 | 11 | [Azure2020](https://github.com/Azure2020) |  | Bahamas  | 22 |
 | 12 | [M3gaPixel](https://github.com/M3gaPixel) | Pixelated | Bahamas  | 21 |
-| 13 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 19 |
-| 14 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 18 |
-| 15 | [mroker242](https://github.com/mroker242) | Michael Roker | Nassau, Bahamas | 18 |
+| 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 18 |
+| 14 | [mroker242](https://github.com/mroker242) | Michael Roker | Nassau, Bahamas | 18 |
+| 15 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 18 |
 | 16 | [aulbytj](https://github.com/aulbytj) | Aulbourn Knowles | Bahamas | 17 |
 | 17 | [BeachMannix](https://github.com/BeachMannix) | Mannix Lee | Bahamas | 17 |
 | 18 | [emajeru](https://github.com/emajeru) | Edison Hanchell | Nassau, Bahamas | 16 |
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 13 |
 
-Generated: 2026-10-07T08:27:38.787Z
+Generated: 2026-10-07T09:20:35.434Z

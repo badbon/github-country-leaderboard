@@ -42,7 +42,7 @@ Indexed users: 800
 | 3 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,543 |
 | 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 1,941 |
 | 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 1,606 |
-| 6 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,332 |
+| 6 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,576 |
 | 7 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,277 |
 | 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,259 |
 | 9 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,192 |
@@ -55,8 +55,8 @@ Indexed users: 800
 | 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 527 |
 | 17 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 521 |
 | 18 | [jakariahossain12](https://github.com/jakariahossain12) | Md.Jakaria | kuwait | 447 |
-| 19 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer | Kuwait | 431 |
-| 20 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | Kuwait | 422 |
+| 19 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 438 |
+| 20 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer | Kuwait | 431 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 800
 | 19 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 75 |
 | 20 | [Eazy2Code](https://github.com/Eazy2Code) | Eazy2Code | Kuwait | 74 |
 
-Generated: 2026-10-07T07:59:36.214Z
+Generated: 2026-10-07T08:48:40.404Z

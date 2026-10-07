@@ -1,6 +1,6 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-07T08:12:35.102Z
+Generated: 2026-10-07T09:00:56.448Z
 
 Users: 3534
 
@@ -8,7 +8,7 @@ Users: 3534
 |---:|---|---|---|---|---|---:|
 | 1 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | NEXCODE Africa |  | Kigali Rwanda | 59921 |
 | 2 | [gentil-lenoir](https://github.com/gentil-lenoir) | Gentil M. | Quevvy Platform | Gentil_Mal | Kigali, Rwanda | 34814 |
-| 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 25043 |
+| 3 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 29162 |
 | 4 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke |  |  | Kigali, Rwanda | 17863 |
 | 5 | [jazzybruno](https://github.com/jazzybruno) | Jazzy Bruno | @Rwanda_Coding_Academy |  | Kigali , Rwanda | 13969 |
 | 6 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA |  |  | Rwanda | 11697 |

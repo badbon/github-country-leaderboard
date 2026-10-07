@@ -1,6 +1,6 @@
 # Followers - Sierra Leone
 
-Generated: 2026-10-07T08:16:16.846Z
+Generated: 2026-10-07T09:06:02.966Z
 
 Users: 442
 
@@ -25,4 +25,4 @@ Users: 442
 | 17 | [francisguchie](https://github.com/francisguchie) | Guchie | https://guchietech.com | FrancisGuchie | Freetown | 32 |
 | 18 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 28 |
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 28 |
-| 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma |  |  | Freetown, Sierra Leone, West Africa | 25 |
+| 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma |  |  | Freetown, Sierra Leone, West Africa | 26 |

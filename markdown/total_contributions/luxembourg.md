@@ -1,8 +1,8 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-07T08:02:59.925Z
+Generated: 2026-10-07T08:51:01.344Z
 
-Users: 2214
+Users: 2213
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,8 +20,8 @@ Users: 2214
 | 12 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 7571 |
 | 13 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 6723 |
 | 14 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6477 |
-| 15 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 5976 |
-| 16 | [francois352](https://github.com/francois352) | Francois Altwies | Neurofeedback Luxembourg | francois352 | Luxembourg | 5853 |
+| 15 | [francois352](https://github.com/francois352) | Francois Altwies | Neurofeedback Luxembourg | francois352 | Luxembourg | 6197 |
+| 16 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 5976 |
 | 17 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura |  |  | Luxembourg | 5409 |
 | 18 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | @AlterDomus |  | Luxembourg | 5348 |
 | 19 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | InnoSens | PhilippeChepy | Luxembourg | 4946 |

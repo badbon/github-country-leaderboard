@@ -1,6 +1,6 @@
 # Public Contributions - Panama
 
-Generated: 2026-10-07T08:09:40.247Z
+Generated: 2026-10-07T08:59:38.454Z
 
 Users: 1072
 
@@ -20,9 +20,9 @@ Users: 1072
 | 12 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Toyota \| Ricardo Perez S.A. |  | Panama | 1117 |
 | 13 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Runlevel Systems |  | Panama City Beach FL | 1096 |
 | 14 | [angelnereira](https://github.com/angelnereira) | Angel Nereira |  |  | Panama | 942 |
-| 15 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Jaimelías | jaimepanama | Panama City, Panama | 844 |
-| 16 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Universidad de Panamá | devdDavid507 | Santiago, Veraguas, Panamá | 793 |
-| 17 | [notSoEliel](https://github.com/notSoEliel) | Eliel García |  | soloeliel | Panama City, Panama, Panama | 793 |
-| 18 | [atebites-hub](https://github.com/atebites-hub) | atebites | blackswan.money | ate_bites | Panama | 766 |
-| 19 | [levieraf](https://github.com/levieraf) | Luis Viera |  |  | Panama | 766 |
-| 20 | [jjzcru](https://github.com/jjzcru) | Jose J. Cruz | @Canvasflow | jjzcru | Panama, Panama | 762 |
+| 15 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Vorluno |  | Panama | 886 |
+| 16 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Jaimelías | jaimepanama | Panama City, Panama | 844 |
+| 17 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Universidad de Panamá | devdDavid507 | Santiago, Veraguas, Panamá | 793 |
+| 18 | [notSoEliel](https://github.com/notSoEliel) | Eliel García |  | soloeliel | Panama City, Panama, Panama | 793 |
+| 19 | [atebites-hub](https://github.com/atebites-hub) | atebites | blackswan.money | ate_bites | Panama | 766 |
+| 20 | [levieraf](https://github.com/levieraf) | Luis Viera |  |  | Panama | 766 |

@@ -1,8 +1,8 @@
 # Followers - Luxembourg
 
-Generated: 2026-10-07T08:02:59.925Z
+Generated: 2026-10-07T08:51:01.344Z
 
-Users: 2214
+Users: 2213
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -12,7 +12,7 @@ Users: 2214
 | 4 | [themarcba](https://github.com/themarcba) | Marc Backes | @directus | marcba | Luxembourg | 391 |
 | 5 | [255kb](https://github.com/255kb) | Guillaume | @mockoon |  | Luxembourg | 384 |
 | 6 | [Vedenin](https://github.com/Vedenin) | Slava Vedenin |  |  | Luxembourg | 375 |
-| 7 | [zit0cod3z](https://github.com/zit0cod3z) | Kizito Daka |  | zitocod3z | Luxembourg | 341 |
+| 7 | [zit0cod3z](https://github.com/zit0cod3z) | Kizito Daka |  | zitocod3z | Luxembourg | 366 |
 | 8 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Fmind.dev | fmind_dev | Luxembourg | 303 |
 | 9 | [morteza](https://github.com/morteza) | Morteza Ansarinia |  |  | Luxembourg | 302 |
 | 10 | [andreafabrizi](https://github.com/andreafabrizi) | Andrea Fabrizi |  |  | Luxembourg | 289 |

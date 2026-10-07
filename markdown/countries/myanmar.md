@@ -1,6 +1,6 @@
 # Myanmar
 
-Indexed users: 2,085
+Indexed users: 2,084
 
 | Leaderboard | Link |
 |---|---|
@@ -22,8 +22,8 @@ Indexed users: 2,085
 | 8 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung | Yangon, Myanmar | 3,886 |
 | 9 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 3,774 |
 | 10 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Myanmar, Yangon | 3,610 |
-| 11 | [KHUN-NOON](https://github.com/KHUN-NOON) |  | Taunggyi, Myanmar | 3,158 |
-| 12 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,113 |
+| 11 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
+| 12 | [KHUN-NOON](https://github.com/KHUN-NOON) |  | Taunggyi, Myanmar | 3,158 |
 | 13 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | Myanmar | 3,018 |
 | 14 | [y3l1n4ung](https://github.com/y3l1n4ung) | Ye Lin Aung | Yangon , Myanmar | 2,988 |
 | 15 | [HtetOoWaiYan](https://github.com/HtetOoWaiYan) | Htet Oo Wai Yan | Myanmar (Burma) | 2,953 |
@@ -38,7 +38,7 @@ Indexed users: 2,085
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | 4 0 4 \ 2.0 [🇲🇲] | Myanmar | 9,661 |
-| 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,113 |
+| 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
 | 3 | [Oungseik](https://github.com/Oungseik) |  | Mawlamyine, Mon State, Myanmar | 1,495 |
 | 4 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine | Yangon,Myanmar | 1,415 |
 | 5 | [y3l1n4ung](https://github.com/y3l1n4ung) | Ye Lin Aung | Yangon , Myanmar | 1,399 |
@@ -83,4 +83,4 @@ Indexed users: 2,085
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-07T08:07:36.936Z
+Generated: 2026-10-07T08:55:32.266Z

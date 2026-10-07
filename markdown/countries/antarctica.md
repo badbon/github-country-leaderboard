@@ -43,8 +43,8 @@ Indexed users: 470
 | 4 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 1,953 |
 | 5 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
 | 6 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,399 |
-| 7 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,188 |
-| 8 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,173 |
+| 7 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,173 |
+| 8 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,137 |
 | 9 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube | Antarctica | 996 |
 | 10 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 711 |
 | 11 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 675 |
@@ -83,4 +83,4 @@ Indexed users: 470
 | 19 | [crse](https://github.com/crse) |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 77 |
 
-Generated: 2026-10-07T08:26:54.467Z
+Generated: 2026-10-07T09:19:36.007Z

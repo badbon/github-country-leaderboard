@@ -1,6 +1,6 @@
 # Algeria
 
-Indexed users: 5,821
+Indexed users: 5,820
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,821
 | 19 | [Hmida71](https://github.com/Hmida71) | Hmida71 | Algeria,mostaganem | 752 |
 | 20 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 
-Generated: 2026-10-07T08:25:01.269Z
+Generated: 2026-10-07T09:18:17.091Z

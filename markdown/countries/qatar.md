@@ -1,6 +1,6 @@
 # Qatar
 
-Indexed users: 1,080
+Indexed users: 1,078
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 1,080
 | 17 | [Snowy7](https://github.com/Snowy7) | Snowy | Qatar | 3,566 |
 | 18 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 3,393 |
 | 19 | [regizum](https://github.com/regizum) | Regina Nigmatullina | Doha | 3,230 |
-| 20 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 3,057 |
+| 20 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 3,090 |
 
 ## Public Contributions
 
@@ -49,14 +49,14 @@ Indexed users: 1,080
 | 10 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Qatar | 953 |
 | 11 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Qatar | 925 |
 | 12 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 919 |
-| 13 | [mehmetakif-git](https://github.com/mehmetakif-git) |  | Qatar | 872 |
-| 14 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 828 |
-| 15 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag | Doha / Qatar | 792 |
-| 16 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 751 |
-| 17 | [prajwal918](https://github.com/prajwal918) | It's okayyy  | qatar doha | 721 |
-| 18 | [elorm116](https://github.com/elorm116) | Anthony | Doha, Qatar | 707 |
-| 19 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed | Doha | 702 |
-| 20 | [Achyut2009](https://github.com/Achyut2009) | Achyut Paliwal | al wakrah, qatar | 688 |
+| 13 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 828 |
+| 14 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag | Doha / Qatar | 792 |
+| 15 | [prajwal918](https://github.com/prajwal918) | It's okayyy  | qatar doha | 721 |
+| 16 | [elorm116](https://github.com/elorm116) | Anthony | Doha, Qatar | 707 |
+| 17 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed | Doha | 702 |
+| 18 | [Achyut2009](https://github.com/Achyut2009) | Achyut Paliwal | al wakrah, qatar | 688 |
+| 19 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 682 |
+| 20 | [Asemerald](https://github.com/Asemerald) | Asemerald | Doha, Qatar | 671 |
 
 ## Followers
 
@@ -80,7 +80,7 @@ Indexed users: 1,080
 | 16 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 106 |
 | 17 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 99 |
 | 18 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 98 |
-| 19 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 92 |
-| 20 | [Behram-Khattak](https://github.com/Behram-Khattak) | Behram Khattak | Doha, Qatar | 91 |
+| 19 | [Behram-Khattak](https://github.com/Behram-Khattak) | Behram Khattak | Doha, Qatar | 91 |
+| 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 91 |
 
-Generated: 2026-10-07T08:12:21.400Z
+Generated: 2026-10-07T09:00:41.265Z
