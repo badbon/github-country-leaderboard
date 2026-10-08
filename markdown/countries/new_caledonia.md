@@ -25,7 +25,7 @@ Indexed users: 111
 | 11 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 1,184 |
 | 12 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet | Nouméa, New Caledonia | 855 |
 | 13 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | New-Caledonia | 742 |
-| 14 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 709 |
+| 14 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 710 |
 | 15 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 707 |
 | 16 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 640 |
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 602 |
@@ -44,7 +44,7 @@ Indexed users: 111
 | 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 707 |
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 471 |
 | 7 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | New-Caledonia | 351 |
-| 8 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 332 |
+| 8 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 333 |
 | 9 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 305 |
 | 10 | [loxK](https://github.com/loxK) | Laurent Dinclaux | New Caledonia | 262 |
 | 11 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 218 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-07T14:59:43.947Z
+Generated: 2026-10-08T00:26:42.675Z

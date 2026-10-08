@@ -1,8 +1,8 @@
 # Followers - Angola
 
-Generated: 2026-10-07T23:44:19.551Z
+Generated: 2026-10-08T00:25:32.404Z
 
-Users: 2507
+Users: 2508
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

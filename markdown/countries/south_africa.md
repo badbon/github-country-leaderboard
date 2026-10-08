@@ -1,6 +1,6 @@
 # South Africa
 
-Indexed users: 17,909
+Indexed users: 17,908
 
 | Leaderboard | Link |
 |---|---|
@@ -44,17 +44,17 @@ Indexed users: 17,909
 | 5 | [JustAGhosT](https://github.com/JustAGhosT) | Jurie Smit | Gauteng, South Africa | 9,314 |
 | 6 | [snopoke](https://github.com/snopoke) | Simon Kelly | Cape Town | 8,924 |
 | 7 | [APGI-cmy](https://github.com/APGI-cmy) | Johan Ras | South Africa | 7,833 |
-| 8 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Johannesburg, South Africa | 7,556 |
-| 9 | [govert](https://github.com/govert) | Govert van Drimmelen | Johannesburg, South Africa | 5,771 |
-| 10 | [nyashahama](https://github.com/nyashahama) | Nyasha Hama | South Africa | 5,446 |
-| 11 | [MiguelRodo](https://github.com/MiguelRodo) | Miguel Rodo | Cape Town, South Africa | 5,173 |
-| 12 | [datashaman](https://github.com/datashaman) | datashaman | Cape Town, South Africa | 5,144 |
-| 13 | [rakheen-dama](https://github.com/rakheen-dama) | Rakheen Dama | Cape Town, South Africa | 5,110 |
-| 14 | [johanpiet2](https://github.com/johanpiet2) | Johan Pieterse | Pretoria South Africa | 4,779 |
-| 15 | [indium114](https://github.com/indium114) |  | South Africa | 4,590 |
-| 16 | [peterp](https://github.com/peterp) | Peter Pistorius | South Africa | 4,520 |
-| 17 | [wkirschbaum](https://github.com/wkirschbaum) | Wilhelm Kirschbaum | Cape Town, South Africa | 4,494 |
-| 18 | [ashleyshaw](https://github.com/ashleyshaw) | Ash Shaw | Cape Town, South Africa | 4,333 |
+| 8 | [govert](https://github.com/govert) | Govert van Drimmelen | Johannesburg, South Africa | 5,771 |
+| 9 | [nyashahama](https://github.com/nyashahama) | Nyasha Hama | South Africa | 5,446 |
+| 10 | [MiguelRodo](https://github.com/MiguelRodo) | Miguel Rodo | Cape Town, South Africa | 5,173 |
+| 11 | [datashaman](https://github.com/datashaman) | datashaman | Cape Town, South Africa | 5,144 |
+| 12 | [rakheen-dama](https://github.com/rakheen-dama) | Rakheen Dama | Cape Town, South Africa | 5,110 |
+| 13 | [johanpiet2](https://github.com/johanpiet2) | Johan Pieterse | Pretoria South Africa | 4,779 |
+| 14 | [indium114](https://github.com/indium114) |  | South Africa | 4,590 |
+| 15 | [peterp](https://github.com/peterp) | Peter Pistorius | South Africa | 4,520 |
+| 16 | [wkirschbaum](https://github.com/wkirschbaum) | Wilhelm Kirschbaum | Cape Town, South Africa | 4,494 |
+| 17 | [ashleyshaw](https://github.com/ashleyshaw) | Ash Shaw | Cape Town, South Africa | 4,333 |
+| 18 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Johannesburg, South Africa | 4,247 |
 | 19 | [GedMarc](https://github.com/GedMarc) | Marc Magon | Johannesburg, South Africa | 4,187 |
 | 20 | [schalkneethling](https://github.com/schalkneethling) | Schalk Neethling | Pretoria, South Africa | 4,126 |
 
@@ -64,14 +64,14 @@ Indexed users: 17,909
 |---:|---|---|---|---:|
 | 1 | [Carrington-dev](https://github.com/Carrington-dev) | Carrington Muleya | South Africa | 3,642 |
 | 2 | [limbopro](https://github.com/limbopro) | 毒奶博主 | South Africa | 2,592 |
-| 3 | [KabeloM13](https://github.com/KabeloM13) | Kabelo M. | Johannesburg, South Africa | 2,538 |
+| 3 | [KabeloM13](https://github.com/KabeloM13) | Kabelo M. | Johannesburg, South Africa | 2,534 |
 | 4 | [FilledStacks](https://github.com/FilledStacks) | Dane Mackier | South Africa | 2,117 |
 | 5 | [fluffypony](https://github.com/fluffypony) | Riccardo Spagni | South Africa | 1,547 |
 | 6 | [cazzwastaken](https://github.com/cazzwastaken) | cazz | South Africa | 1,497 |
 | 7 | [mikechiloane](https://github.com/mikechiloane) | Mike Nhlanhla Chiloane | Pretoria, South Africa | 1,181 |
 | 8 | [schalkventer](https://github.com/schalkventer) | Schalk Venter | Cape Town, South Africa | 1,172 |
 | 9 | [mattleibow](https://github.com/mattleibow) | Matthew Leibowitz | Cape Town, South Africa | 1,109 |
-| 10 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Johannesburg, South Africa | 1,026 |
+| 10 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Johannesburg, South Africa | 1,022 |
 | 11 | [mitchellkrogza](https://github.com/mitchellkrogza) | Mitchell Krog | South Africa | 973 |
 | 12 | [alexmojaki](https://github.com/alexmojaki) | Alex Hall | South Africa | 929 |
 | 13 | [rebelchris](https://github.com/rebelchris) | Chris Bongers | Cape Town | 887 |
@@ -83,4 +83,4 @@ Indexed users: 17,909
 | 19 | [peterp](https://github.com/peterp) | Peter Pistorius | South Africa | 639 |
 | 20 | [mortolian](https://github.com/mortolian) | Gideon Schoonbee | Western Cape, South Africa | 632 |
 
-Generated: 2026-10-07T23:32:13.291Z
+Generated: 2026-10-08T00:41:44.066Z

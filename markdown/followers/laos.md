@@ -1,21 +1,21 @@
 # Followers - Laos
 
-Generated: 2026-10-07T14:53:45.181Z
+Generated: 2026-10-08T00:16:21.544Z
 
 Users: 359
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [TheBrown](https://github.com/TheBrown) | Saleumsack Keoboualay | BCEL Bank |  | Vientiane,Laos | 47 |
-| 2 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin |  |  | Laos | 46 |
-| 3 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 42 |
-| 4 | [topser9](https://github.com/topser9) | Top |  |  | Lao People's Democratic Republic | 38 |
-| 5 | [SourceDev-Lab](https://github.com/SourceDev-Lab) | SourceDev-Lab |  | XianExsensai | Vientiane, Lao | 37 |
+| 2 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 42 |
+| 3 | [topser9](https://github.com/topser9) | Top |  |  | Lao People's Democratic Republic | 38 |
+| 4 | [SourceDev-Lab](https://github.com/SourceDev-Lab) | SourceDev-Lab |  | XianExsensai | Vientiane, Lao | 37 |
+| 5 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin |  |  | Laos | 36 |
 | 6 | [barluscuda](https://github.com/barluscuda) | BarlusCuda |  |  | Laos | 31 |
 | 7 | [vanglaz](https://github.com/vanglaz) | Somvang Laz |  | somvanglaz | Vientiane, Laos | 31 |
-| 8 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 27 |
-| 9 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 27 |
-| 10 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | MakerBox |  | Vientiane, Laos | 24 |
+| 8 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 27 |
+| 9 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | MakerBox |  | Vientiane, Laos | 24 |
+| 10 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 24 |
 | 11 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai |  |  | Vientiane, Laos | 23 |
 | 12 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 22 |
 | 13 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 22 |

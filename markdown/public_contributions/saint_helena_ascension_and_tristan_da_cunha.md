@@ -1,6 +1,6 @@
 # Public Contributions - Saint Helena, Ascension and Tristan da Cunha
 
-Generated: 2026-10-07T23:25:37.014Z
+Generated: 2026-10-08T00:37:29.986Z
 
 Users: 25
 
@@ -8,7 +8,7 @@ Users: 25
 |---:|---|---|---|---|---|---:|
 | 1 | [robfiasco](https://github.com/robfiasco) | Rob Fiasco | Chadakoin Digital |  | Jamestown, NY | 1069 |
 | 2 | [radshiny1992](https://github.com/radshiny1992) | Ashley Moreno |  |  | New Emilychester, Saint Helena | 135 |
-| 3 | [carehart](https://github.com/carehart) | Charlie Arehart | CArehart.org | carehart | Jamestown, KY | 108 |
+| 3 | [carehart](https://github.com/carehart) | Charlie Arehart | CArehart.org | carehart | Jamestown, KY | 107 |
 | 4 | [scottley](https://github.com/scottley) | Scott Simon | Garcilote LLC |  | Jamestown, MO | 41 |
 | 5 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz |  |  | Jamestown, North Dakota | 33 |
 | 6 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | 3am Dead Coder |  | Jamestown | 12 |

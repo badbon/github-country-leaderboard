@@ -46,17 +46,17 @@ Indexed users: 1,172
 | 7 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 974 |
 | 8 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 936 |
 | 9 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | Mozambique | 721 |
-| 10 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 693 |
-| 11 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 690 |
-| 12 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 673 |
-| 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 670 |
-| 14 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 664 |
+| 10 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 690 |
+| 11 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 673 |
+| 12 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 670 |
+| 13 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 664 |
+| 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 630 |
 | 15 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 610 |
 | 16 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 564 |
 | 17 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 563 |
 | 18 | [iamzjohn](https://github.com/iamzjohn) | zJohn | Maputo, Mozambique | 556 |
-| 19 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul | Mozambique | 504 |
-| 20 | [nishank23](https://github.com/nishank23) | Nishank Bansal | Maputo | 477 |
+| 19 | [EstandarMustaq](https://github.com/EstandarMustaq) | Estandar | Maputo, Mozambique | 523 |
+| 20 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul | Mozambique | 504 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,172
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [EMEDE2014](https://github.com/EMEDE2014) | Emede Momade | Nampula/Mozambique | 96 |
 
-Generated: 2026-10-07T14:59:18.049Z
+Generated: 2026-10-08T00:25:25.272Z

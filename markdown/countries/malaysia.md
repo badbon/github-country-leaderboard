@@ -31,7 +31,7 @@ Indexed users: 11,793
 | 17 | [aabeds](https://github.com/aabeds) | Syed Safwan | Malaysia | 12,115 |
 | 18 | [0xYudhishthra](https://github.com/0xYudhishthra) | Yudhishthra Sugumaran | Malaysia | 10,928 |
 | 19 | [wantanwonderland](https://github.com/wantanwonderland) | Wantan | Malaysia | 10,910 |
-| 20 | [chengkangzai](https://github.com/chengkangzai) | Ching Cheng Kang | Damansara Perdana, Kuala Lumpur | 10,682 |
+| 20 | [michaelhauge](https://github.com/michaelhauge) | Michael Lansdowne Hauge | Kuala Lumpur, Malaysia | 10,803 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 11,793
 | 19 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 458 |
 | 20 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 
-Generated: 2026-10-07T14:55:22.974Z
+Generated: 2026-10-08T00:21:07.180Z

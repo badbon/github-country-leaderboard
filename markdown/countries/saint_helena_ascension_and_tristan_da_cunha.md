@@ -16,7 +16,7 @@ Indexed users: 25
 | 2 | [robfiasco](https://github.com/robfiasco) | Rob Fiasco | Jamestown, NY | 1,069 |
 | 3 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler | Jamestown, New York | 181 |
 | 4 | [radshiny1992](https://github.com/radshiny1992) | Ashley Moreno | New Emilychester, Saint Helena | 135 |
-| 5 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 129 |
+| 5 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 128 |
 | 6 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 66 |
 | 7 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 62 |
 | 8 | [scottley](https://github.com/scottley) | Scott Simon | Jamestown, MO | 41 |
@@ -39,7 +39,7 @@ Indexed users: 25
 |---:|---|---|---|---:|
 | 1 | [robfiasco](https://github.com/robfiasco) | Rob Fiasco | Jamestown, NY | 1,069 |
 | 2 | [radshiny1992](https://github.com/radshiny1992) | Ashley Moreno | New Emilychester, Saint Helena | 135 |
-| 3 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 108 |
+| 3 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 107 |
 | 4 | [scottley](https://github.com/scottley) | Scott Simon | Jamestown, MO | 41 |
 | 5 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 33 |
 | 6 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | Jamestown | 12 |
@@ -83,4 +83,4 @@ Indexed users: 25
 | 19 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Jamestown, NC | 1 |
 | 20 | [john-moore-levesque](https://github.com/john-moore-levesque) | John Moore-Levesque | Jamestown, RI | 1 |
 
-Generated: 2026-10-07T23:25:37.014Z
+Generated: 2026-10-08T00:37:29.986Z

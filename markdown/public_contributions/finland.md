@@ -1,8 +1,8 @@
 # Public Contributions - Finland
 
-Generated: 2026-10-07T14:47:27.875Z
+Generated: 2026-10-08T00:06:47.803Z
 
-Users: 18159
+Users: 18157
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 18159
 | 6 | [xet7](https://github.com/xet7) | Lauri Ojansivu | WeKan |  | Finland | 9784 |
 | 7 | [tphakala](https://github.com/tphakala) | Tomi P. Hakala |  |  | Muurame, Finland | 9342 |
 | 8 | [marat-rkh](https://github.com/marat-rkh) | Marat Khabibullin | JetBrains |  | Finland | 8017 |
-| 9 | [miikkij](https://github.com/miikkij) | Jouni Miikki |  |  | Finland | 7726 |
-| 10 | [NigelBreslaw](https://github.com/NigelBreslaw) | Nigel Breslaw |  |  | Oulu, Finland | 7652 |
-| 11 | [raine](https://github.com/raine) | Raine Virta |  | rane | Helsinki, Finland | 7369 |
-| 12 | [tkgstrator](https://github.com/tkgstrator) | tkgstrator | Magi Corpopration | tkgling | Finland | 7285 |
-| 13 | [penberg](https://github.com/penberg) | Pekka Enberg |  | penberg | Finland | 7022 |
-| 14 | [JAORMX](https://github.com/JAORMX) | Juan Antonio Osorio | Stacklok | jaosorior | Finland | 6168 |
-| 15 | [ivuorinen](https://github.com/ivuorinen) | Ismo Vuorinen |  | ivuorinen | Tampere, Finland | 6130 |
-| 16 | [nikovirtala](https://github.com/nikovirtala) | Niko Virtala | @s-group-dev |  | Finland | 6093 |
-| 17 | [mirvasaarijarvi-lab](https://github.com/mirvasaarijarvi-lab) | Mimmi | C-Mimmi-O |  | Turku, Finland | 5802 |
+| 9 | [mirvasaarijarvi-lab](https://github.com/mirvasaarijarvi-lab) | Mimmi | C-Mimmi-O |  | Turku, Finland | 7974 |
+| 10 | [miikkij](https://github.com/miikkij) | Jouni Miikki |  |  | Finland | 7726 |
+| 11 | [NigelBreslaw](https://github.com/NigelBreslaw) | Nigel Breslaw |  |  | Oulu, Finland | 7652 |
+| 12 | [raine](https://github.com/raine) | Raine Virta |  | rane | Helsinki, Finland | 7369 |
+| 13 | [tkgstrator](https://github.com/tkgstrator) | tkgstrator | Magi Corpopration | tkgling | Finland | 7285 |
+| 14 | [penberg](https://github.com/penberg) | Pekka Enberg |  | penberg | Finland | 7022 |
+| 15 | [JAORMX](https://github.com/JAORMX) | Juan Antonio Osorio | Stacklok | jaosorior | Finland | 6168 |
+| 16 | [ivuorinen](https://github.com/ivuorinen) | Ismo Vuorinen |  | ivuorinen | Tampere, Finland | 6130 |
+| 17 | [nikovirtala](https://github.com/nikovirtala) | Niko Virtala | @s-group-dev |  | Finland | 6093 |
 | 18 | [PetriLahdelma](https://github.com/PetriLahdelma) | Petri Lahdelma | digitaltableteur |  | Helsinki, Finland | 5550 |
 | 19 | [bebraw](https://github.com/bebraw) | Juho Vepsäläinen | @SurviveJS | bebraw | Rautalampi, Finland | 5496 |
 | 20 | [eliask](https://github.com/eliask) | Elias Kunnas |  |  | Finland | 5268 |

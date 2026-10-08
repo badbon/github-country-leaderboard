@@ -38,25 +38,25 @@ Indexed users: 9,664
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [lfarssi](https://github.com/lfarssi) | MOHAMED EL FARSSI  | Morocco | 12,216 |
-| 2 | [mohamedsaidyekhlef-png](https://github.com/mohamedsaidyekhlef-png) | Mohamed Said Yekhlef | Morocco | 5,493 |
-| 3 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Casablanca, Morocco | 3,669 |
-| 4 | [Ismail-elkorchi](https://github.com/Ismail-elkorchi) | Ismail El Korchi | Morocco | 3,218 |
-| 5 | [yoeunes](https://github.com/yoeunes) | Younes ENNAJI | Marrakech, Morocco | 3,212 |
-| 6 | [mks-zakaria](https://github.com/mks-zakaria) | MKS~ZAK | Morocco | 2,968 |
-| 7 | [seuros](https://github.com/seuros) | Abdelkader Boudih | Tangier, Morocco | 2,917 |
-| 8 | [atam84](https://github.com/atam84) | Amine | Casablanca, Morocco | 2,819 |
-| 9 | [depsagency](https://github.com/depsagency) | DEPS | Morocco, Casablanca | 2,658 |
-| 10 | [ielbadisy](https://github.com/ielbadisy) | Imad EL BADISY  | Rabat (Morocco) | 2,574 |
-| 11 | [ImadSaddik](https://github.com/ImadSaddik) | Imad Saddik | Morocco | 2,543 |
-| 12 | [Hi1talib1World](https://github.com/Hi1talib1World) | hicham outaleb | Essaouira, Morocco | 2,431 |
-| 13 | [tornidomaroc-web](https://github.com/tornidomaroc-web) | Abdelfettah Amellah | Morocco | 2,395 |
-| 14 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | Morocco | 2,338 |
-| 15 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | Taroudant, Morocco | 2,293 |
-| 16 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | Morocco | 2,283 |
-| 17 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | Morocco | 2,276 |
-| 18 | [faiz-oussama](https://github.com/faiz-oussama) | Oussama Faiz | Casablanca, Morocco | 2,189 |
-| 19 | [abdarrhmanessetaoui](https://github.com/abdarrhmanessetaoui) | ABDERRAHMAN SETTAOUI | Marrakech, Morocco | 2,173 |
-| 20 | [alisqueandreliman](https://github.com/alisqueandreliman) | Walid BOUSSOU | Tetouan, Morocco. | 2,102 |
+| 2 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Casablanca, Morocco | 3,669 |
+| 3 | [Ismail-elkorchi](https://github.com/Ismail-elkorchi) | Ismail El Korchi | Morocco | 3,218 |
+| 4 | [yoeunes](https://github.com/yoeunes) | Younes ENNAJI | Marrakech, Morocco | 3,212 |
+| 5 | [mks-zakaria](https://github.com/mks-zakaria) | MKS~ZAK | Morocco | 2,968 |
+| 6 | [seuros](https://github.com/seuros) | Abdelkader Boudih | Tangier, Morocco | 2,917 |
+| 7 | [atam84](https://github.com/atam84) | Amine | Casablanca, Morocco | 2,819 |
+| 8 | [depsagency](https://github.com/depsagency) | DEPS | Morocco, Casablanca | 2,658 |
+| 9 | [ielbadisy](https://github.com/ielbadisy) | Imad EL BADISY  | Rabat (Morocco) | 2,574 |
+| 10 | [ImadSaddik](https://github.com/ImadSaddik) | Imad Saddik | Morocco | 2,543 |
+| 11 | [Hi1talib1World](https://github.com/Hi1talib1World) | hicham outaleb | Essaouira, Morocco | 2,431 |
+| 12 | [tornidomaroc-web](https://github.com/tornidomaroc-web) | Abdelfettah Amellah | Morocco | 2,395 |
+| 13 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | Morocco | 2,338 |
+| 14 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | Taroudant, Morocco | 2,293 |
+| 15 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | Morocco | 2,283 |
+| 16 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | Morocco | 2,276 |
+| 17 | [faiz-oussama](https://github.com/faiz-oussama) | Oussama Faiz | Casablanca, Morocco | 2,189 |
+| 18 | [abdarrhmanessetaoui](https://github.com/abdarrhmanessetaoui) | ABDERRAHMAN SETTAOUI | Marrakech, Morocco | 2,173 |
+| 19 | [alisqueandreliman](https://github.com/alisqueandreliman) | Walid BOUSSOU | Tetouan, Morocco. | 2,102 |
+| 20 | [paacyanyan](https://github.com/paacyanyan) | Walid BOUSSOU | Tetouan, Morocco. | 2,096 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 9,664
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
 
-Generated: 2026-10-07T14:59:13.574Z
+Generated: 2026-10-08T00:25:22.058Z

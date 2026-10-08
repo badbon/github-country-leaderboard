@@ -14,15 +14,15 @@ Indexed users: 80
 |---:|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,332 |
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,024 |
-| 3 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 2,558 |
-| 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,437 |
-| 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,335 |
+| 3 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 2,580 |
+| 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,440 |
+| 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,337 |
 | 6 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,296 |
 | 7 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 1,271 |
-| 8 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 857 |
+| 8 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 855 |
 | 9 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 734 |
 | 10 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | Banjul, The Gambia | 655 |
-| 11 | [deedevs](https://github.com/deedevs) | David Ladipo | Banjul, The Gambia | 618 |
+| 11 | [deedevs](https://github.com/deedevs) | David Ladipo | Banjul, The Gambia | 615 |
 | 12 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 547 |
 | 13 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 407 |
 | 14 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 391 |
@@ -37,11 +37,11 @@ Indexed users: 80
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 1,016 |
+| 1 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 1,025 |
 | 2 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 407 |
 | 3 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 391 |
 | 4 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 384 |
-| 5 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 332 |
+| 5 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 335 |
 | 6 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 317 |
 | 7 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 234 |
 | 8 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 209 |
@@ -77,10 +77,10 @@ Indexed users: 80
 | 13 | [Sirhino](https://github.com/Sirhino) | Imwealthman | United State,Gambia | 12 |
 | 14 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | Banjul, Gambia | 10 |
 | 15 | [Massay](https://github.com/Massay) | Massay Bah | The Gambia, Banjul | 10 |
-| 16 | [Bairoking](https://github.com/Bairoking) | Sanna Bah | Banjul International Airport | 9 |
-| 17 | [Amadou-Jallow](https://github.com/Amadou-Jallow) | Amadou S Jallow | Gambia | 8 |
+| 16 | [Amadou-Jallow](https://github.com/Amadou-Jallow) | Amadou S Jallow | Gambia | 9 |
+| 17 | [Bairoking](https://github.com/Bairoking) | Sanna Bah | Banjul International Airport | 9 |
 | 18 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 8 |
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-07T14:48:03.255Z
+Generated: 2026-10-08T00:07:24.177Z

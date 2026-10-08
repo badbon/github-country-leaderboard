@@ -1,6 +1,6 @@
 # Followers - Gambia
 
-Generated: 2026-10-07T14:48:03.255Z
+Generated: 2026-10-08T00:07:24.177Z
 
 Users: 80
 
@@ -21,8 +21,8 @@ Users: 80
 | 13 | [Sirhino](https://github.com/Sirhino) | Imwealthman | IT SPECIALIST  |  | United State,Gambia | 12 |
 | 14 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | @LSHTM @MRCG |  | Banjul, Gambia | 10 |
 | 15 | [Massay](https://github.com/Massay) | Massay Bah |  |  | The Gambia, Banjul | 10 |
-| 16 | [Bairoking](https://github.com/Bairoking) | Sanna Bah | GCAA | bairoking | Banjul International Airport | 9 |
-| 17 | [Amadou-Jallow](https://github.com/Amadou-Jallow) | Amadou S Jallow |  |  | Gambia | 8 |
+| 16 | [Amadou-Jallow](https://github.com/Amadou-Jallow) | Amadou S Jallow |  |  | Gambia | 9 |
+| 17 | [Bairoking](https://github.com/Bairoking) | Sanna Bah | GCAA | bairoking | Banjul International Airport | 9 |
 | 18 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Nafa Financial | fula_programmer | Gambia | 8 |
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI |  |  | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Dcyberlab |  | Gambia | 7 |

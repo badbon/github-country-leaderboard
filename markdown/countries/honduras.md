@@ -21,7 +21,7 @@ Indexed users: 1,267
 | 7 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 5,310 |
 | 8 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 5,093 |
 | 9 | [ahvega](https://github.com/ahvega) | Adalberto Hernandez Vega | Honduras | 5,054 |
-| 10 | [Emiliano-Agurcia](https://github.com/Emiliano-Agurcia) | Emiliano Agurcia | Honduras | 4,985 |
+| 10 | [Emiliano-Agurcia](https://github.com/Emiliano-Agurcia) | Emiliano Agurcia | Honduras | 4,988 |
 | 11 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 4,670 |
 | 12 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 4,414 |
 | 13 | [drshotyou](https://github.com/drshotyou) | Alden Rivera | San Pedro Sula, Honduras | 4,342 |
@@ -53,10 +53,10 @@ Indexed users: 1,267
 | 14 | [ciriast](https://github.com/ciriast) | Carlos Irias | Honduras | 701 |
 | 15 | [sjperalta](https://github.com/sjperalta) | Sergio J. Peralta | Honduras | 698 |
 | 16 | [antoniolocandro](https://github.com/antoniolocandro) | Antonio Locandro | Honduras | 664 |
-| 17 | [dantonifa](https://github.com/dantonifa) | David Antonio Fajardo Ponce | San Pedro Sula, Honduras | 627 |
-| 18 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 626 |
-| 19 | [xEdwardP](https://github.com/xEdwardP) | Edward J. Pineda | Honduras | 622 |
-| 20 | [Kometha](https://github.com/Kometha) | Keneth Cubas | Honduras | 605 |
+| 17 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 626 |
+| 18 | [dantonifa](https://github.com/dantonifa) | David Antonio Fajardo Ponce | San Pedro Sula, Honduras | 624 |
+| 19 | [Kometha](https://github.com/Kometha) | Keneth Cubas | Honduras | 605 |
+| 20 | [Mar10HT](https://github.com/Mar10HT) | Mario Herrera | Honduras | 591 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,267
 | 19 | [Pcgell](https://github.com/Pcgell) | Kenneth Vittetoe | Tegucigalpa, HN | 62 |
 | 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 57 |
 
-Generated: 2026-10-07T14:50:07.047Z
+Generated: 2026-10-08T00:10:59.680Z

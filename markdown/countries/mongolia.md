@@ -24,7 +24,7 @@ Indexed users: 809
 | 10 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 4,989 |
 | 11 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 4,952 |
 | 12 | [ganbold](https://github.com/ganbold) | Ganbold | Ulaanbaatar, Mongolia | 4,613 |
-| 13 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | Ulaanbaatar, Mongolia | 4,180 |
+| 13 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | Ulaanbaatar, Mongolia | 4,165 |
 | 14 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 3,653 |
 | 15 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 3,546 |
 | 16 | [blgn94](https://github.com/blgn94) | Bilguun | Erdenet, Mongolia | 3,513 |
@@ -51,8 +51,8 @@ Indexed users: 809
 | 12 | [batdorj-s](https://github.com/batdorj-s) | batdorj | mongolia | 546 |
 | 13 | [TemuulenBM](https://github.com/TemuulenBM) | Temuulen | Mongolia | 541 |
 | 14 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Ulaanbaatar, Mongolia | 537 |
-| 15 | [Zombie-01](https://github.com/Zombie-01) | adiyadorj badamsereejid | mongolia | 495 |
-| 16 | [Namuun0521](https://github.com/Namuun0521) | Namuun | Ulaanbaatar, Mongolia | 484 |
+| 15 | [Namuun0521](https://github.com/Namuun0521) | Namuun | Ulaanbaatar, Mongolia | 484 |
+| 16 | [Zombie-01](https://github.com/Zombie-01) | adiyadorj badamsereejid | mongolia | 482 |
 | 17 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 462 |
 | 18 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | mongolia | 453 |
 | 19 | [JinreP](https://github.com/JinreP) | Subeedei | Mongolia | 448 |
@@ -83,4 +83,4 @@ Indexed users: 809
 | 19 | [mchigm](https://github.com/mchigm) | MCHIGM | Mongolia | 65 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-07T14:57:56.471Z
+Generated: 2026-10-08T00:23:31.699Z

@@ -1,8 +1,8 @@
 # Followers - Peru
 
-Generated: 2026-10-07T23:23:23.709Z
+Generated: 2026-10-08T00:30:48.633Z
 
-Users: 9785
+Users: 9784
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -12,7 +12,7 @@ Users: 9785
 | 4 | [mriscoc](https://github.com/mriscoc) | Miguel Risco-Castillo | PULSAR |  | Lima, Peru | 1169 |
 | 5 | [jaderytm](https://github.com/jaderytm) | Jade | 10Pearls |  | Lima | 1156 |
 | 6 | [escueladigital](https://github.com/escueladigital) | EDteam | EDteam |  | Lima, Perú | 1009 |
-| 7 | [hexed-AAL1X](https://github.com/hexed-AAL1X) | AAL1X |  | hexed_aal1x | Perú/Lima | 731 |
+| 7 | [hexed-AAL1X](https://github.com/hexed-AAL1X) | AAL1X |  | hexed_aal1x | Perú/Lima | 790 |
 | 8 | [apholdings](https://github.com/apholdings) | SoloPython | SoloPython |  | Lima, Peru | 694 |
 | 9 | [OmarUTEC](https://github.com/OmarUTEC) | Om@r | University of Engineering and Technology | CHjavieromar | Lima, Perú | 683 |
 | 10 | [joelibaceta](https://github.com/joelibaceta) | Joel Ibaceta |  | joelibaceta | Lima, Peru | 668 |

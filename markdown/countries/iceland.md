@@ -1,6 +1,6 @@
 # Iceland
 
-Indexed users: 1,584
+Indexed users: 1,583
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,584
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 202 |
 
-Generated: 2026-10-07T14:50:30.706Z
+Generated: 2026-10-08T00:11:09.024Z

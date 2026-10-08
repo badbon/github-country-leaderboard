@@ -1,8 +1,8 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-07T14:54:50.177Z
+Generated: 2026-10-08T00:20:52.363Z
 
-Users: 447
+Users: 445
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,8 +11,8 @@ Users: 447
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2526 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2257 |
 | 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 1773 |
-| 6 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1226 |
-| 7 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1139 |
+| 6 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1285 |
+| 7 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1226 |
 | 8 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1126 |
 | 9 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1025 |
 | 10 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 885 |

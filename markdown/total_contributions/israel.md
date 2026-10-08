@@ -1,6 +1,6 @@
 # Total Contributions - Israel
 
-Generated: 2026-10-07T14:52:02.766Z
+Generated: 2026-10-08T00:12:48.244Z
 
 Users: 12436
 
@@ -19,10 +19,10 @@ Users: 12436
 | 11 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Sip Your Drink |  | Tel Aviv, Israel | 17284 |
 | 12 | [thefourcraft](https://github.com/thefourcraft) | David | @arcusis |  | Israel | 16247 |
 | 13 | [asaphe](https://github.com/asaphe) | Asaph |  |  | Israel | 15903 |
-| 14 | [YoraiLevi](https://github.com/YoraiLevi) | Yorai Levi |  |  | Israel | 13247 |
-| 15 | [Novodes](https://github.com/Novodes) | Eyal Gerber | Novodes Ltd. |  | Israel | 13235 |
-| 16 | [benjamingr](https://github.com/benjamingr) | Benjamin Gruenbaum | @eon-io  |  | Israel  | 13160 |
-| 17 | [EtanHey](https://github.com/EtanHey) | Etan Heyman |  |  | Rehovot, Israel | 13024 |
-| 18 | [slep2-0](https://github.com/slep2-0) | slep |  |  | Israel | 12822 |
+| 14 | [slep2-0](https://github.com/slep2-0) | slep |  |  | Israel | 13689 |
+| 15 | [YoraiLevi](https://github.com/YoraiLevi) | Yorai Levi |  |  | Israel | 13247 |
+| 16 | [Novodes](https://github.com/Novodes) | Eyal Gerber | Novodes Ltd. |  | Israel | 13235 |
+| 17 | [benjamingr](https://github.com/benjamingr) | Benjamin Gruenbaum | @eon-io  |  | Israel  | 13160 |
+| 18 | [EtanHey](https://github.com/EtanHey) | Etan Heyman |  |  | Rehovot, Israel | 13024 |
 | 19 | [mariiio](https://github.com/mariiio) | Mario |  | mario_saul | Israel | 12230 |
 | 20 | [Dave-London](https://github.com/Dave-London) | Dave London |  |  | Israel | 12024 |

@@ -1,6 +1,6 @@
 # Peru
 
-Indexed users: 9,785
+Indexed users: 9,784
 
 | Leaderboard | Link |
 |---|---|
@@ -68,7 +68,7 @@ Indexed users: 9,785
 | 4 | [mriscoc](https://github.com/mriscoc) | Miguel Risco-Castillo | Lima, Peru | 1,169 |
 | 5 | [jaderytm](https://github.com/jaderytm) | Jade | Lima | 1,156 |
 | 6 | [escueladigital](https://github.com/escueladigital) | EDteam | Lima, Perú | 1,009 |
-| 7 | [hexed-AAL1X](https://github.com/hexed-AAL1X) | AAL1X | Perú/Lima | 731 |
+| 7 | [hexed-AAL1X](https://github.com/hexed-AAL1X) | AAL1X | Perú/Lima | 790 |
 | 8 | [apholdings](https://github.com/apholdings) | SoloPython | Lima, Peru | 694 |
 | 9 | [OmarUTEC](https://github.com/OmarUTEC) | Om@r | Lima, Perú | 683 |
 | 10 | [joelibaceta](https://github.com/joelibaceta) | Joel Ibaceta | Lima, Peru | 668 |
@@ -83,4 +83,4 @@ Indexed users: 9,785
 | 19 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
 | 20 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 
-Generated: 2026-10-07T23:23:23.709Z
+Generated: 2026-10-08T00:30:48.633Z

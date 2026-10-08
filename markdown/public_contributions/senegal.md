@@ -1,6 +1,6 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-07T23:28:51.369Z
+Generated: 2026-10-08T00:38:12.790Z
 
 Users: 1364
 
@@ -8,9 +8,9 @@ Users: 1364
 |---:|---|---|---|---|---|---:|
 | 1 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 3262 |
 | 2 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | National Agency of Statistic and Demography | IbrahimaTall_SN | Dakar, Senegal | 3173 |
-| 3 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf |  |  | Dakar  | 2837 |
-| 4 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | 21STUDIO |  | Dakar, Sénégal | 2534 |
-| 5 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | JAWJI |  | Senegal | 2158 |
+| 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 3059 |
+| 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf |  |  | Dakar  | 2837 |
+| 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | 21STUDIO |  | Dakar, Sénégal | 2534 |
 | 6 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour |  |  | Rufisque, Dakar, Sénégal | 1902 |
 | 7 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | @Teksi-inc @404-NotFound-Org @TyvaaServices  | HanoWhisper | dakar, senegal | 1839 |
 | 8 | [crybaby050](https://github.com/crybaby050) | Seydina |  |  | Senegal | 1661 |

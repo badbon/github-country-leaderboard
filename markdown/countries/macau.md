@@ -1,6 +1,6 @@
 # Macau
 
-Indexed users: 447
+Indexed users: 445
 
 | Leaderboard | Link |
 |---|---|
@@ -27,11 +27,11 @@ Indexed users: 447
 | 13 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,098 |
 | 14 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 1,776 |
 | 15 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,771 |
-| 16 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 1,531 |
-| 17 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,467 |
-| 18 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,294 |
-| 19 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
-| 20 | [scooorpion](https://github.com/scooorpion) | Xiao | Macau | 1,200 |
+| 16 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,642 |
+| 17 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 1,531 |
+| 18 | [Nick-LCY](https://github.com/Nick-LCY) | Nick Lin | Macau | 1,524 |
+| 19 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,294 |
+| 20 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
 
 ## Public Contributions
 
@@ -42,8 +42,8 @@ Indexed users: 447
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,526 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,257 |
 | 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 1,773 |
-| 6 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
-| 7 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,139 |
+| 6 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,285 |
+| 7 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
 | 8 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,126 |
 | 9 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,025 |
 | 10 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 885 |
@@ -83,4 +83,4 @@ Indexed users: 447
 | 19 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 66 |
 
-Generated: 2026-10-07T14:54:50.177Z
+Generated: 2026-10-08T00:20:52.363Z

@@ -1,6 +1,6 @@
 # Public Contributions - Guernsey
 
-Generated: 2026-10-07T14:49:19.778Z
+Generated: 2026-10-08T00:09:15.916Z
 
 Users: 45
 
@@ -21,8 +21,8 @@ Users: 45
 | 13 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Man The Programmer, LLC |  | Guernsey | 3 |
 | 14 | [TINZ](https://github.com/TINZ) | Paul Tinsley |  |  | Guernsey | 3 |
 | 15 | [JamesK2754](https://github.com/JamesK2754) | James King |  |  | Guernsey | 2 |
-| 16 | [thebutler12](https://github.com/thebutler12) | Matt Ball | States of Guernsey |  | Guernsey | 2 |
-| 17 | [theModrzew](https://github.com/theModrzew) | Patryk |  |  | Guernsey | 2 |
-| 18 | [GlennToms](https://github.com/GlennToms) | Glenn Toms |  |  | Guernsey | 1 |
-| 19 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 1 |
+| 16 | [theModrzew](https://github.com/theModrzew) | Patryk |  |  | Guernsey | 2 |
+| 17 | [GlennToms](https://github.com/GlennToms) | Glenn Toms |  |  | Guernsey | 1 |
+| 18 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 1 |
+| 19 | [thebutler12](https://github.com/thebutler12) | Matt Ball | States of Guernsey |  | Guernsey | 1 |
 | 20 | [acatcalledanarchy](https://github.com/acatcalledanarchy) | A Cat Called Anarchy |  |  | Guernsey, Channel Islands | 0 |

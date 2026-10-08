@@ -1,6 +1,6 @@
 # Finland
 
-Indexed users: 18,159
+Indexed users: 18,157
 
 | Leaderboard | Link |
 |---|---|
@@ -45,15 +45,15 @@ Indexed users: 18,159
 | 6 | [xet7](https://github.com/xet7) | Lauri Ojansivu | Finland | 9,784 |
 | 7 | [tphakala](https://github.com/tphakala) | Tomi P. Hakala | Muurame, Finland | 9,342 |
 | 8 | [marat-rkh](https://github.com/marat-rkh) | Marat Khabibullin | Finland | 8,017 |
-| 9 | [miikkij](https://github.com/miikkij) | Jouni Miikki | Finland | 7,726 |
-| 10 | [NigelBreslaw](https://github.com/NigelBreslaw) | Nigel Breslaw | Oulu, Finland | 7,652 |
-| 11 | [raine](https://github.com/raine) | Raine Virta | Helsinki, Finland | 7,369 |
-| 12 | [tkgstrator](https://github.com/tkgstrator) | tkgstrator | Finland | 7,285 |
-| 13 | [penberg](https://github.com/penberg) | Pekka Enberg | Finland | 7,022 |
-| 14 | [JAORMX](https://github.com/JAORMX) | Juan Antonio Osorio | Finland | 6,168 |
-| 15 | [ivuorinen](https://github.com/ivuorinen) | Ismo Vuorinen | Tampere, Finland | 6,130 |
-| 16 | [nikovirtala](https://github.com/nikovirtala) | Niko Virtala | Finland | 6,093 |
-| 17 | [mirvasaarijarvi-lab](https://github.com/mirvasaarijarvi-lab) | Mimmi | Turku, Finland | 5,802 |
+| 9 | [mirvasaarijarvi-lab](https://github.com/mirvasaarijarvi-lab) | Mimmi | Turku, Finland | 7,974 |
+| 10 | [miikkij](https://github.com/miikkij) | Jouni Miikki | Finland | 7,726 |
+| 11 | [NigelBreslaw](https://github.com/NigelBreslaw) | Nigel Breslaw | Oulu, Finland | 7,652 |
+| 12 | [raine](https://github.com/raine) | Raine Virta | Helsinki, Finland | 7,369 |
+| 13 | [tkgstrator](https://github.com/tkgstrator) | tkgstrator | Finland | 7,285 |
+| 14 | [penberg](https://github.com/penberg) | Pekka Enberg | Finland | 7,022 |
+| 15 | [JAORMX](https://github.com/JAORMX) | Juan Antonio Osorio | Finland | 6,168 |
+| 16 | [ivuorinen](https://github.com/ivuorinen) | Ismo Vuorinen | Tampere, Finland | 6,130 |
+| 17 | [nikovirtala](https://github.com/nikovirtala) | Niko Virtala | Finland | 6,093 |
 | 18 | [PetriLahdelma](https://github.com/PetriLahdelma) | Petri Lahdelma | Helsinki, Finland | 5,550 |
 | 19 | [bebraw](https://github.com/bebraw) | Juho Vepsäläinen | Rautalampi, Finland | 5,496 |
 | 20 | [eliask](https://github.com/eliask) | Elias Kunnas | Finland | 5,268 |
@@ -83,4 +83,4 @@ Indexed users: 18,159
 | 19 | [teropa](https://github.com/teropa) | Tero Parviainen | Helsinki, Finland | 1,359 |
 | 20 | [petkaantonov](https://github.com/petkaantonov) | Petka Antonov | Helsinki, Finland | 1,188 |
 
-Generated: 2026-10-07T14:47:27.875Z
+Generated: 2026-10-08T00:06:47.803Z

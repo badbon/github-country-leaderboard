@@ -1,8 +1,8 @@
 # Followers - Fiji
 
-Generated: 2026-10-07T14:47:24.042Z
+Generated: 2026-10-08T00:06:12.181Z
 
-Users: 326
+Users: 325
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -19,8 +19,8 @@ Users: 326
 | 11 | [mucsbr](https://github.com/mucsbr) | beingS | Zenaida |  | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 28 |
 | 12 | [Colorlaris](https://github.com/Colorlaris) |  |  |  | Fiji | 27 |
 | 13 | [evesgf](https://github.com/evesgf) | dingpeng yang | evesgf Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 27 |
-| 14 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 23 |
-| 15 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 23 |
+| 14 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 24 |
+| 15 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 23 |
 | 16 | [anuraag165](https://github.com/anuraag165) | Anuraag Raj | Mindpearl |  | Suva, Fiji | 22 |
 | 17 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 22 |
 | 18 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 22 |

@@ -1,6 +1,6 @@
 # Public Contributions - Tanzania
 
-Generated: 2026-10-07T23:35:34.992Z
+Generated: 2026-10-08T00:45:20.953Z
 
 Users: 2038
 
@@ -12,10 +12,10 @@ Users: 2038
 | 4 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | kagaconnect |  | Tanzania | 6132 |
 | 5 | [alobit21](https://github.com/alobit21) | mac | Tarxemo Software Company  |  | Dodoma-Tanzania | 4806 |
 | 6 | [Lazackdevs](https://github.com/Lazackdevs) | Lazack_28 | lazack organization |  | dodoma | 4316 |
-| 7 | [APKnation](https://github.com/APKnation) | apk |  |  | DODOMA -TANZANIA | 2966 |
-| 8 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 |  |  | Dodoma - Tanzania | 2851 |
-| 9 | [zuck30](https://github.com/zuck30) | Shadrackovsky | AGS |  | Tanzania | 2543 |
-| 10 | [Barakael](https://github.com/Barakael) | barakael | Tera Technologies and Engineering LTD |  | Dar-es-salaam, Tanzania | 2202 |
+| 7 | [Barakael](https://github.com/Barakael) | barakael | Tera Technologies and Engineering LTD |  | Dar-es-salaam, Tanzania | 3011 |
+| 8 | [APKnation](https://github.com/APKnation) | apk |  |  | DODOMA -TANZANIA | 2966 |
+| 9 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 |  |  | Dodoma - Tanzania | 2851 |
+| 10 | [zuck30](https://github.com/zuck30) | Shadrackovsky | AGS |  | Tanzania | 2543 |
 | 11 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Camel Creatives |  | Dar es Salaam ,Tanzania | 2003 |
 | 12 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | wizystudio |  | tanzania | 1710 |
 | 13 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. |  |  | Tanzania | 1606 |

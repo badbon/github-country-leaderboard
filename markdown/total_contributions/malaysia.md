@@ -1,6 +1,6 @@
 # Total Contributions - Malaysia
 
-Generated: 2026-10-07T14:55:22.974Z
+Generated: 2026-10-08T00:21:07.180Z
 
 Users: 11793
 
@@ -25,4 +25,4 @@ Users: 11793
 | 17 | [aabeds](https://github.com/aabeds) | Syed Safwan | Deine Tür Gmbh |  | Malaysia | 12115 |
 | 18 | [0xYudhishthra](https://github.com/0xYudhishthra) | Yudhishthra Sugumaran | Lucathree Labs | 0xYudhishthra | Malaysia | 10928 |
 | 19 | [wantanwonderland](https://github.com/wantanwonderland) | Wantan | Matrix Connexion |  | Malaysia | 10910 |
-| 20 | [chengkangzai](https://github.com/chengkangzai) | Ching Cheng Kang | Pixalink | chengkangzai | Damansara Perdana, Kuala Lumpur | 10682 |
+| 20 | [michaelhauge](https://github.com/michaelhauge) | Michael Lansdowne Hauge | @pertama-partners |  | Kuala Lumpur, Malaysia | 10803 |

@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-07T23:21:12.032Z
+Generated: 2026-10-08T00:29:06.816Z
 
 Users: 1006
 
@@ -23,6 +23,6 @@ Users: 1006
 | 15 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 4372 |
 | 16 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4191 |
 | 17 | [m7medVision](https://github.com/m7medVision) | Mohammed | @mymanara  | m7medVision | Oman | 4175 |
-| 18 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Codeline |  | Oman | 3542 |
-| 19 | [zado-os](https://github.com/zado-os) | Hussain Al-zadjali | Ministry of Transport, Communications, and Information Technology (MTCIT) |  | Sultanate of Oman, al khuwair muscat | 3507 |
-| 20 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Rihal | WKHarthi | Oman | 3218 |
+| 18 | [SulaimanAlfarsi](https://github.com/SulaimanAlfarsi) | Sulaiman Al-Farsi | Codeline |  | Oman | 3716 |
+| 19 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Codeline |  | Oman | 3542 |
+| 20 | [zado-os](https://github.com/zado-os) | Hussain Al-zadjali | Ministry of Transport, Communications, and Information Technology (MTCIT) |  | Sultanate of Oman, al khuwair muscat | 3507 |

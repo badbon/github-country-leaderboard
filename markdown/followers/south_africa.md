@@ -1,21 +1,21 @@
 # Followers - South Africa
 
-Generated: 2026-10-07T23:32:13.291Z
+Generated: 2026-10-08T00:41:44.066Z
 
-Users: 17909
+Users: 17908
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Carrington-dev](https://github.com/Carrington-dev) | Carrington Muleya | Khano |  | South Africa | 3642 |
 | 2 | [limbopro](https://github.com/limbopro) | 毒奶博主 | limbopro.inc | limboprossr | South Africa | 2592 |
-| 3 | [KabeloM13](https://github.com/KabeloM13) | Kabelo M. | Freelance UX/UI & Front-End Developer |  | Johannesburg, South Africa | 2538 |
+| 3 | [KabeloM13](https://github.com/KabeloM13) | Kabelo M. | Freelance UX/UI & Front-End Developer |  | Johannesburg, South Africa | 2534 |
 | 4 | [FilledStacks](https://github.com/FilledStacks) | Dane Mackier | FilledStacks |  | South Africa | 2117 |
 | 5 | [fluffypony](https://github.com/fluffypony) | Riccardo Spagni |  | fluffypony | South Africa | 1547 |
 | 6 | [cazzwastaken](https://github.com/cazzwastaken) | cazz |  | cazzwastaken | South Africa | 1497 |
 | 7 | [mikechiloane](https://github.com/mikechiloane) | Mike Nhlanhla Chiloane |  |  | Pretoria, South Africa | 1181 |
 | 8 | [schalkventer](https://github.com/schalkventer) | Schalk Venter | Co-founder at @fedsa |  | Cape Town, South Africa | 1172 |
 | 9 | [mattleibow](https://github.com/mattleibow) | Matthew Leibowitz | @Microsoft @xamarin @mono @monogame | mattleibow | Cape Town, South Africa | 1109 |
-| 10 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Kirov Dynamics Technology |  | Johannesburg, South Africa | 1026 |
+| 10 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Kirov Dynamics Technology |  | Johannesburg, South Africa | 1022 |
 | 11 | [mitchellkrogza](https://github.com/mitchellkrogza) | Mitchell Krog |  | ArchIsTheBest | South Africa | 973 |
 | 12 | [alexmojaki](https://github.com/alexmojaki) | Alex Hall | @pydantic |  | South Africa | 929 |
 | 13 | [rebelchris](https://github.com/rebelchris) | Chris Bongers | daily.dev | DailyDevTips1 | Cape Town | 887 |

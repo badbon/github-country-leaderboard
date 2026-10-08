@@ -25,11 +25,11 @@ Indexed users: 12,436
 | 11 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Tel Aviv, Israel | 17,284 |
 | 12 | [thefourcraft](https://github.com/thefourcraft) | David | Israel | 16,247 |
 | 13 | [asaphe](https://github.com/asaphe) | Asaph | Israel | 15,903 |
-| 14 | [YoraiLevi](https://github.com/YoraiLevi) | Yorai Levi | Israel | 13,247 |
-| 15 | [Novodes](https://github.com/Novodes) | Eyal Gerber | Israel | 13,235 |
-| 16 | [benjamingr](https://github.com/benjamingr) | Benjamin Gruenbaum | Israel  | 13,160 |
-| 17 | [EtanHey](https://github.com/EtanHey) | Etan Heyman | Rehovot, Israel | 13,024 |
-| 18 | [slep2-0](https://github.com/slep2-0) | slep | Israel | 12,822 |
+| 14 | [slep2-0](https://github.com/slep2-0) | slep | Israel | 13,689 |
+| 15 | [YoraiLevi](https://github.com/YoraiLevi) | Yorai Levi | Israel | 13,247 |
+| 16 | [Novodes](https://github.com/Novodes) | Eyal Gerber | Israel | 13,235 |
+| 17 | [benjamingr](https://github.com/benjamingr) | Benjamin Gruenbaum | Israel  | 13,160 |
+| 18 | [EtanHey](https://github.com/EtanHey) | Etan Heyman | Rehovot, Israel | 13,024 |
 | 19 | [mariiio](https://github.com/mariiio) | Mario | Israel | 12,230 |
 | 20 | [Dave-London](https://github.com/Dave-London) | Dave London | Israel | 12,024 |
 
@@ -83,4 +83,4 @@ Indexed users: 12,436
 | 19 | [kuchin](https://github.com/kuchin) | Dima Kuchin | Israel | 665 |
 | 20 | [YuvalNirkin](https://github.com/YuvalNirkin) | Yuval Nirkin | Tel Aviv, Israel | 641 |
 
-Generated: 2026-10-07T14:52:02.766Z
+Generated: 2026-10-08T00:12:48.244Z

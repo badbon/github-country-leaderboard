@@ -12,14 +12,14 @@ Indexed users: 36
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto | French Amazonia (Guyane) | 2,622 |
+| 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto | French Amazonia (Guyane) | 2,636 |
 | 2 | [MelPeslier](https://github.com/MelPeslier) | Mel | Guyane  | 1,239 |
 | 3 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | French Guiana | 281 |
 | 4 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS | Amandafurt, French Guiana | 135 |
 | 5 | [jjcabon](https://github.com/jjcabon) | JJCABON | CAYENNE | 116 |
 | 6 | [drainerw](https://github.com/drainerw) |  | French Guiana | 82 |
 | 7 | [ginimod](https://github.com/ginimod) | GIni | Cayenne | 76 |
-| 8 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 62 |
+| 8 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 65 |
 | 9 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | French Guiana | 35 |
 | 10 | [badette-robert](https://github.com/badette-robert) | Robert BADETTE | Guyane (Saint-laurent-du-maroni) | 25 |
 | 11 | [qlspanda17](https://github.com/qlspanda17) | SONY PAME |  French Guiana | 21 |
@@ -40,7 +40,7 @@ Indexed users: 36
 | 1 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS | Amandafurt, French Guiana | 135 |
 | 2 | [jjcabon](https://github.com/jjcabon) | JJCABON | CAYENNE | 88 |
 | 3 | [ginimod](https://github.com/ginimod) | GIni | Cayenne | 76 |
-| 4 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 62 |
+| 4 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 65 |
 | 5 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | French Guiana | 35 |
 | 6 | [badette-robert](https://github.com/badette-robert) | Robert BADETTE | Guyane (Saint-laurent-du-maroni) | 25 |
 | 7 | [qlspanda17](https://github.com/qlspanda17) | SONY PAME |  French Guiana | 21 |
@@ -83,4 +83,4 @@ Indexed users: 36
 | 19 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 3 |
 | 20 | [StephaneKourou](https://github.com/StephaneKourou) | StephaneKourou | Kourou, French Guiana | 3 |
 
-Generated: 2026-10-07T14:47:50.680Z
+Generated: 2026-10-08T00:06:52.215Z

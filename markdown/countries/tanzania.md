@@ -43,10 +43,10 @@ Indexed users: 2,038
 | 4 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 6,132 |
 | 5 | [alobit21](https://github.com/alobit21) | mac | Dodoma-Tanzania | 4,806 |
 | 6 | [Lazackdevs](https://github.com/Lazackdevs) | Lazack_28 | dodoma | 4,316 |
-| 7 | [APKnation](https://github.com/APKnation) | apk | DODOMA -TANZANIA | 2,966 |
-| 8 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 | Dodoma - Tanzania | 2,851 |
-| 9 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 2,543 |
-| 10 | [Barakael](https://github.com/Barakael) | barakael | Dar-es-salaam, Tanzania | 2,202 |
+| 7 | [Barakael](https://github.com/Barakael) | barakael | Dar-es-salaam, Tanzania | 3,011 |
+| 8 | [APKnation](https://github.com/APKnation) | apk | DODOMA -TANZANIA | 2,966 |
+| 9 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 | Dodoma - Tanzania | 2,851 |
+| 10 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 2,543 |
 | 11 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 2,003 |
 | 12 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,710 |
 | 13 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,606 |
@@ -83,4 +83,4 @@ Indexed users: 2,038
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 175 |
 
-Generated: 2026-10-07T23:35:34.992Z
+Generated: 2026-10-08T00:45:20.953Z

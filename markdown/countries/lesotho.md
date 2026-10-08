@@ -27,7 +27,7 @@ Indexed users: 159
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 430 |
 | 14 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 359 |
 | 15 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 343 |
-| 16 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 287 |
+| 16 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 288 |
 | 17 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 285 |
 | 18 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 261 |
 | 19 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 255 |
@@ -83,4 +83,4 @@ Indexed users: 159
 | 19 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Maseru | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-07T14:54:03.809Z
+Generated: 2026-10-08T00:18:11.900Z

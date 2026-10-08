@@ -17,19 +17,19 @@ Indexed users: 123
 | 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott | Suriname | 6,107 |
 | 4 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 2,767 |
 | 5 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 1,694 |
-| 6 | [Beefy-py](https://github.com/Beefy-py) | Kenny Hoft | Commwijne, Suriname | 1,604 |
-| 7 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 1,599 |
-| 8 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | Paramaribo | 1,493 |
+| 6 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 1,658 |
+| 7 | [Beefy-py](https://github.com/Beefy-py) | Kenny Hoft | Commwijne, Suriname | 1,603 |
+| 8 | [JhonatanJavierDev](https://github.com/JhonatanJavierDev) | Jhonatan Javier Corella Pérez | Paramaribo | 1,503 |
 | 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | Suriname | 1,141 |
 | 10 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 853 |
 | 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 839 |
 | 12 | [dmoed](https://github.com/dmoed) | <Don/> | Paramaribo, Suriname | 738 |
-| 13 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam | Suriname | 720 |
-| 14 | [devbravo](https://github.com/devbravo) | Diego Sabajo | Paramaribo, Suriname | 659 |
-| 15 | [SantoshDevX](https://github.com/SantoshDevX) | Vishant Ramratan | Suriname | 647 |
+| 13 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam | Suriname | 719 |
+| 14 | [devbravo](https://github.com/devbravo) | Diego Sabajo | Paramaribo, Suriname | 655 |
+| 15 | [SantoshDevX](https://github.com/SantoshDevX) | Vishant Ramratan | Suriname | 651 |
 | 16 | [ShawnMeo](https://github.com/ShawnMeo) | Shawn | Suriname | 600 |
 | 17 | [saifbechan](https://github.com/saifbechan) | Saif Bechan | Paramaribo, Suriname | 558 |
-| 18 | [girish-io](https://github.com/girish-io) | Girish Oemrawsingh | Paramaribo, Suriname | 520 |
+| 18 | [girish-io](https://github.com/girish-io) | Girish Oemrawsingh | Paramaribo, Suriname | 523 |
 | 19 | [JoshKarta](https://github.com/JoshKarta) | Josh K | Paramaribo, Suriname | 509 |
 | 20 | [DustinVII](https://github.com/DustinVII) |  | Suriname | 442 |
 
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
 | 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 18 |
 
-Generated: 2026-10-07T23:33:37.115Z
+Generated: 2026-10-08T00:43:29.567Z

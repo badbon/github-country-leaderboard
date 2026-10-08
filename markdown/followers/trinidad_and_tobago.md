@@ -1,6 +1,6 @@
 # Followers - Trinidad and Tobago
 
-Generated: 2026-10-07T23:37:08.179Z
+Generated: 2026-10-08T00:48:07.300Z
 
 Users: 256
 
@@ -9,7 +9,7 @@ Users: 256
 | 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 1600 |
 | 2 | [rajeevratan84](https://github.com/rajeevratan84) | Rajeev Ratan | Darvis Inc, TTLab, Udemy, Packt,  Manning Publications |  | UK, Trinidad and Tobago | 193 |
 | 3 | [InzamamRahaman](https://github.com/InzamamRahaman) | Inzamam Rahaman | The University of the West Indies / Trinidad and Tobago Network Information Centre |  | Trinidad and Tobago | 118 |
-| 4 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | @CoplayDev  | marcussanatan | Trinidad and Tobago | 98 |
+| 4 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | @CoplayDev  | marcussanatan | Trinidad and Tobago | 102 |
 | 5 | [ArmstrongSubero](https://github.com/ArmstrongSubero) | Armstrong Subero | Trinirobotics |  | Moruga, Trinidad and Tobago | 78 |
 | 6 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 70 |
 | 7 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 68 |

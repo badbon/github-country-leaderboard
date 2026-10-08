@@ -1,8 +1,8 @@
 # Followers - Montenegro
 
-Generated: 2026-10-07T14:58:04.602Z
+Generated: 2026-10-08T00:23:36.696Z
 
-Users: 903
+Users: 902
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

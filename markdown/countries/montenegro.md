@@ -1,6 +1,6 @@
 # Montenegro
 
-Indexed users: 903
+Indexed users: 902
 
 | Leaderboard | Link |
 |---|---|
@@ -12,8 +12,8 @@ Indexed users: 903
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 10,405 |
-| 2 | [Hatshepsuth](https://github.com/Hatshepsuth) | Katja | Montenegro | 7,830 |
+| 1 | [Hatshepsuth](https://github.com/Hatshepsuth) | Katja | Montenegro | 13,532 |
+| 2 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 10,405 |
 | 3 | [zenalex](https://github.com/zenalex) | Aleksei | Budva, Montenegro | 7,598 |
 | 4 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,230 |
 | 5 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 6,339 |
@@ -83,4 +83,4 @@ Indexed users: 903
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 86 |
 
-Generated: 2026-10-07T14:58:04.602Z
+Generated: 2026-10-08T00:23:36.696Z

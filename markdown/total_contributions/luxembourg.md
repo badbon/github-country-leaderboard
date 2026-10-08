@@ -1,8 +1,8 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-07T14:54:46.408Z
+Generated: 2026-10-08T00:20:49.766Z
 
-Users: 2208
+Users: 2207
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

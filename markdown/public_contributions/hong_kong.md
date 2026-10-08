@@ -1,6 +1,6 @@
 # Public Contributions - Hong Kong
 
-Generated: 2026-10-07T14:50:22.291Z
+Generated: 2026-10-08T00:43:22.355Z
 
 Users: 10317
 
@@ -16,13 +16,13 @@ Users: 10317
 | 8 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | PolyU; HKUST(GZ); |  | Hong Kong | 7960 |
 | 9 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | wonglaitung@gmail.com |  | Hong Kong | 7683 |
 | 10 | [lcacchiani](https://github.com/lcacchiani) | Luca Cacchiani |  |  | Hong Kong | 7358 |
-| 11 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk |  |  | Hong Kong | 6407 |
-| 12 | [auto-wood](https://github.com/auto-wood) | Auto.Wood |  |  | Hong Kong | 6337 |
-| 13 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Freelance |  | Hong Kong | 6035 |
-| 14 | [williamchong](https://github.com/williamchong) | William Chong | @likecoin  |  | Hong Kong | 5950 |
-| 15 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Droste |  | Hong Kong | 4735 |
-| 16 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | Eva Rei |  |  | Hong Kong | 4280 |
-| 17 | [DarkLight1337](https://github.com/DarkLight1337) | Cyrus Leung |  |  | Hong Kong | 4241 |
-| 18 | [atomyyyy](https://github.com/atomyyyy) | Alan |  |  | Hong Kong | 3664 |
-| 19 | [zetta](https://github.com/zetta) | Carlos Clemente |  |  | Hong Kong | 3376 |
-| 20 | [ChaofanTao](https://github.com/ChaofanTao) | Chaofan Tao |  |  | Hong Kong | 3371 |
+| 11 | [JakkuSakura](https://github.com/JakkuSakura) | Jakku Sakura | Auros |  | Hong Kong, China | 6455 |
+| 12 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk |  |  | Hong Kong | 6407 |
+| 13 | [auto-wood](https://github.com/auto-wood) | Auto.Wood |  |  | Hong Kong | 6337 |
+| 14 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Freelance |  | Hong Kong | 6035 |
+| 15 | [williamchong](https://github.com/williamchong) | William Chong | @likecoin  |  | Hong Kong | 5950 |
+| 16 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Droste |  | Hong Kong | 4735 |
+| 17 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | Eva Rei |  |  | Hong Kong | 4280 |
+| 18 | [DarkLight1337](https://github.com/DarkLight1337) | Cyrus Leung |  |  | Hong Kong | 4241 |
+| 19 | [atomyyyy](https://github.com/atomyyyy) | Alan |  |  | Hong Kong | 3664 |
+| 20 | [zetta](https://github.com/zetta) | Carlos Clemente |  |  | Hong Kong | 3376 |
