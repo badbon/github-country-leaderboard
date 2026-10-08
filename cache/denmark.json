@@ -5108,7 +5108,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 44,
     "createdAt": "2024-12-13T09:05:47Z"
   },
   {
@@ -5120,24 +5120,24 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 150,
     "createdAt": "2024-09-03T06:34:25Z"
   },
   {
     "login": "carlvillads",
     "name": "Carl Villads Priisholm",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157688211?s=72&u=01e724cc640d7d2687de86bc56382c33bd449145&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157688211?s=72&u=70d3bf19605c81d321dd995c7cd5c81c85894409&v=4",
     "location": "Denmark",
     "company": "Technical University of Denmark / Copenhagen University Hospital (Rigshospitalet)",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 393,
-    "publicContributions": 166,
+    "followers": 6,
+    "privateContributions": 533,
+    "publicContributions": 169,
     "createdAt": "2024-01-25T08:44:38Z"
   },
   {
     "login": "Tail99",
-    "name": "Tail",
+    "name": "𝕋𝕒𝕚𝕝 💜 ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/157402769?s=72&u=c5e3e5e5ba2974452d5b07b75e8380c62af7850a&v=4",
     "location": "Denmark",
     "company": "",
@@ -5154,9 +5154,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 218,
-    "publicContributions": 79,
+    "followers": 7,
+    "privateContributions": 225,
+    "publicContributions": 78,
     "createdAt": "2024-03-01T09:44:38Z"
   },
   {
@@ -5168,7 +5168,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 32,
     "createdAt": "2024-11-13T15:58:24Z"
   },
   {
@@ -5178,7 +5178,7 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 35,
     "createdAt": "2024-09-16T16:07:45Z"
@@ -5191,8 +5191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 393,
-    "publicContributions": 511,
+    "privateContributions": 905,
+    "publicContributions": 394,
     "createdAt": "2024-04-10T04:31:13Z"
   },
   {
@@ -5216,19 +5216,19 @@
     "twitterUsername": "arman_priyo",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 357,
+    "publicContributions": 486,
     "createdAt": "2024-03-24T09:29:26Z"
   },
   {
     "login": "LunaDamm",
     "name": "Luna",
     "avatarUrl": "https://avatars.githubusercontent.com/u/181938004?s=72&u=6ed531d460744a667a2d30537df0871883e8ffa4&v=4",
-    "location": "Esbjerg, Denmark",
+    "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 132,
+    "followers": 7,
+    "privateContributions": 25,
+    "publicContributions": 64,
     "createdAt": "2024-09-18T07:08:20Z"
   },
   {
@@ -5238,9 +5238,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 27,
     "createdAt": "2024-09-02T07:22:34Z"
   },
   {
@@ -5250,7 +5250,7 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-01T10:55:10Z"
@@ -5274,9 +5274,9 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 56,
     "createdAt": "2024-08-23T14:08:01Z"
   },
   {
@@ -5287,8 +5287,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 67,
-    "publicContributions": 5,
+    "privateContributions": 39,
+    "publicContributions": 2,
     "createdAt": "2024-03-13T08:16:19Z"
   },
   {
@@ -5299,8 +5299,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 196,
-    "publicContributions": 88,
+    "privateContributions": 209,
+    "publicContributions": 215,
     "createdAt": "2024-02-04T08:02:18Z"
   },
   {
@@ -5312,7 +5312,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 112,
     "createdAt": "2024-09-02T15:13:32Z"
   },
   {
@@ -5322,7 +5322,7 @@
     "location": "Denmark",
     "company": "Carslberg Group",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-23T09:46:44Z"
@@ -5336,7 +5336,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 53,
     "createdAt": "2024-10-25T21:45:46Z"
   },
   {

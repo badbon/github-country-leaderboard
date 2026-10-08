@@ -5184,18 +5184,6 @@
     "createdAt": "2025-12-16T11:56:49Z"
   },
   {
-    "login": "KrousaniotakiDespina",
-    "name": "Despoina Krousaniotaki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/246733817?s=72&u=9ebc95d1d188a1a27897265fa074576b89dc74b7&v=4",
-    "location": "Athens, ATH | Heraklion, HER",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 51,
-    "createdAt": "2025-11-28T17:07:31Z"
-  },
-  {
     "login": "kostasskor",
     "name": "Konstantinos Skordilis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/212612543?s=72&v=4",
@@ -5204,19 +5192,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2025-05-20T19:50:37Z"
   },
   {
     "login": "itcmsgr",
-    "name": "",
+    "name": "Antonios Voulvoulis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/229829049?s=72&u=b870e12786e0bab89660e7caba8cb76f5aee78bc&v=4",
     "location": "Athens",
-    "company": "ITCMS ",
+    "company": "ITCMS.GR ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 6893,
+    "privateContributions": 650,
+    "publicContributions": 7305,
     "createdAt": "2025-09-01T20:00:41Z"
   },
   {
@@ -5296,11 +5284,11 @@
     "name": "Christos Leonidas Kokotos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/212036267?s=72&u=1225cd6a232f0b60be31104b8c1ad3a4a588c3aa&v=4",
     "location": "Athens ",
-    "company": "SO HOMELY",
+    "company": "SO HOMELY, KTIMATIC",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 32,
     "createdAt": "2025-05-16T18:38:20Z"
   },
   {
@@ -5310,9 +5298,9 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 674,
-    "publicContributions": 163,
+    "followers": 3,
+    "privateContributions": 672,
+    "publicContributions": 165,
     "createdAt": "2025-09-07T11:15:20Z"
   },
   {
@@ -5322,9 +5310,9 @@
     "location": "Athens",
     "company": "Infili Technologies S.A.",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 89,
-    "publicContributions": 662,
+    "followers": 3,
+    "privateContributions": 102,
+    "publicContributions": 698,
     "createdAt": "2025-03-11T10:55:37Z"
   },
   {
@@ -5336,7 +5324,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 73,
-    "publicContributions": 208,
+    "publicContributions": 214,
     "createdAt": "2025-07-09T20:53:12Z"
   },
   {
@@ -5346,7 +5334,7 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-12-22T15:26:42Z"
@@ -5359,8 +5347,8 @@
     "company": "@POSE-Lab @TURING-PROJECT-HEU ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 64,
+    "privateContributions": 105,
+    "publicContributions": 60,
     "createdAt": "2025-03-13T08:39:51Z"
   },
   {
@@ -5396,7 +5384,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 36,
     "createdAt": "2025-09-12T20:13:34Z"
   },
   {

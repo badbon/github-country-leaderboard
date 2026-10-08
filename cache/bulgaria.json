@@ -5227,8 +5227,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 222,
-    "publicContributions": 62,
+    "privateContributions": 226,
+    "publicContributions": 80,
     "createdAt": "2024-05-31T09:54:21Z"
   },
   {
@@ -5238,7 +5238,7 @@
     "location": "Sofia, Bulgaria",
     "company": "VEO International",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-01-29T10:23:09Z"
@@ -5252,7 +5252,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 10,
     "createdAt": "2024-06-22T09:52:19Z"
   },
   {
@@ -5274,9 +5274,9 @@
     "location": "Sofia, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 313,
-    "publicContributions": 980,
+    "followers": 2,
+    "privateContributions": 186,
+    "publicContributions": 605,
     "createdAt": "2024-10-18T06:56:11Z"
   },
   {
@@ -5288,7 +5288,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 587,
+    "publicContributions": 450,
     "createdAt": "2024-05-22T18:39:43Z"
   },
   {
@@ -5324,7 +5324,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 12,
     "createdAt": "2024-02-07T18:39:50Z"
   },
   {
@@ -5335,8 +5335,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 45,
-    "publicContributions": 840,
+    "privateContributions": 750,
+    "publicContributions": 823,
     "createdAt": "2024-07-15T17:40:08Z"
   },
   {
@@ -5371,8 +5371,8 @@
     "company": "Progress",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 470,
-    "publicContributions": 17,
+    "privateContributions": 507,
+    "publicContributions": 14,
     "createdAt": "2024-12-13T07:24:49Z"
   },
   {
@@ -5418,9 +5418,9 @@
     "location": "Sofia/Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 719,
+    "publicContributions": 737,
     "createdAt": "2024-06-17T16:01:30Z"
   },
   {
@@ -5456,7 +5456,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 92,
     "createdAt": "2024-11-25T10:01:38Z"
   },
   {
@@ -169090,5 +169090,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-27T13:21:35Z"
+  },
+  {
+    "login": "nalbantin",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292172415?s=72&v=4",
+    "location": "Bulgaria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-09T16:00:41Z"
   }
 ]

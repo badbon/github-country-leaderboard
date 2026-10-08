@@ -5260,11 +5260,11 @@
     "name": "Zurab",
     "avatarUrl": "https://avatars.githubusercontent.com/u/162127275?s=72&u=59e6d8e97d79cbfc4a0011b8b0b2216d68cbd48a&v=4",
     "location": "Georgia, Tbilisi",
-    "company": "Re:Education",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2024-03-04T11:56:05Z"
   },
   {
@@ -5300,7 +5300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-07-10T11:16:57Z"
   },
   {
@@ -5322,8 +5322,8 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 16,
+    "followers": 5,
+    "privateContributions": 89,
     "publicContributions": 0,
     "createdAt": "2024-08-22T12:21:53Z"
   },
@@ -5371,7 +5371,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 3,
     "publicContributions": 18,
     "createdAt": "2024-09-20T15:19:45Z"
   },
@@ -5383,8 +5383,8 @@
     "company": "Digital Settings",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2509,
-    "publicContributions": 181,
+    "privateContributions": 3388,
+    "publicContributions": 3,
     "createdAt": "2024-02-21T15:43:11Z"
   },
   {
@@ -5396,20 +5396,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2024-01-11T13:20:36Z"
-  },
-  {
-    "login": "RhysDeLoach",
-    "name": "Rhys DeLoach",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157667200?s=72&u=3a0048c23a2d5d7b2d3dccffa4ad2d4c1bd3fd11&v=4",
-    "location": "Tifton, Georgia",
-    "company": "University of Georgia",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 27,
-    "createdAt": "2024-01-25T03:14:13Z"
   },
   {
     "login": "Lana-a-a",
@@ -5456,7 +5444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 57,
     "createdAt": "2024-01-24T18:26:15Z"
   },
   {
@@ -5492,7 +5480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 57,
     "createdAt": "2024-09-09T09:03:10Z"
   },
   {

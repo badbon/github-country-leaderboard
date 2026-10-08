@@ -4916,7 +4916,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2025-05-27T17:35:05Z"
   },
   {
@@ -4927,8 +4927,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 432,
-    "publicContributions": 348,
+    "privateContributions": 402,
+    "publicContributions": 305,
     "createdAt": "2025-06-17T12:58:43Z"
   },
   {
@@ -4939,20 +4939,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3,
-    "publicContributions": 137,
+    "privateContributions": 2,
+    "publicContributions": 109,
     "createdAt": "2025-03-21T02:15:35Z"
   },
   {
     "login": "araverso",
-    "name": "Araceli Maldonado Clar",
+    "name": "ara",
     "avatarUrl": "https://avatars.githubusercontent.com/u/195822955?s=72&u=270b4cef9262757aa0d8aca3bf7c66b09d63b276&v=4",
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 18,
     "createdAt": "2025-01-20T21:20:02Z"
   },
   {
@@ -4964,7 +4964,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 105,
     "createdAt": "2025-05-11T18:48:47Z"
   },
   {
@@ -4976,7 +4976,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 36,
     "createdAt": "2025-04-08T19:23:40Z"
   },
   {
@@ -4988,7 +4988,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 36,
     "createdAt": "2025-03-27T13:46:37Z"
   },
   {
@@ -5006,13 +5006,13 @@
   {
     "login": "mazzoniagustin",
     "name": "Agustín",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203021301?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203021301?s=72&u=fc5fdbdf99159c80f8e7d3cc661497c3a3d70ca6&v=4",
     "location": "La Plata, Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 117,
     "createdAt": "2025-03-12T20:53:11Z"
   },
   {
@@ -5024,7 +5024,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 23,
     "createdAt": "2025-04-26T21:16:13Z"
   },
   {
@@ -5036,20 +5036,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2025-04-18T03:48:03Z"
-  },
-  {
-    "login": "Lucasz-py",
-    "name": "Lucas Escobar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207480862?s=72&u=cc8fc38b02c3ffdd2a38ddfdce95f516799688be&v=4",
-    "location": "Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 238,
-    "createdAt": "2025-04-13T23:16:04Z"
   },
   {
     "login": "MauroLozano",
@@ -5059,8 +5047,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 157,
-    "publicContributions": 138,
+    "privateContributions": 229,
+    "publicContributions": 136,
     "createdAt": "2025-03-22T16:29:33Z"
   },
   {
@@ -5070,9 +5058,9 @@
     "location": "Mendoza, Argentina",
     "company": "Universidad Nacional de Cuyo - ITU",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 36,
-    "publicContributions": 107,
+    "followers": 6,
+    "privateContributions": 39,
+    "publicContributions": 185,
     "createdAt": "2025-06-13T15:53:05Z"
   },
   {
@@ -5082,9 +5070,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 1,
-    "publicContributions": 170,
+    "publicContributions": 189,
     "createdAt": "2025-05-06T01:39:28Z"
   },
   {
@@ -5094,9 +5082,9 @@
     "location": "Córdoba, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 108,
     "createdAt": "2025-03-20T15:44:21Z"
   },
   {
@@ -5108,17 +5096,17 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 32,
     "createdAt": "2025-04-21T10:55:39Z"
   },
   {
     "login": "stemRAT",
-    "name": "maxi",
+    "name": "Maximo Basílico Sosa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/216467533?s=72&u=c813820cafde2e2ccdaf7d4157269b5cf5a3c2db&v=4",
     "location": "Buenos Aires, Argentina.",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-16T02:28:20Z"
@@ -5130,9 +5118,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 414,
+    "publicContributions": 438,
     "createdAt": "2025-03-11T02:36:54Z"
   },
   {

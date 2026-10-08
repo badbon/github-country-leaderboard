@@ -4988,7 +4988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 0,
     "createdAt": "2022-08-11T15:10:58Z"
   },
   {
@@ -4998,9 +4998,9 @@
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "",
-    "followers": 67,
-    "privateContributions": 1117,
-    "publicContributions": 118,
+    "followers": 66,
+    "privateContributions": 1852,
+    "publicContributions": 74,
     "createdAt": "2022-04-10T19:25:31Z"
   },
   {
@@ -5010,7 +5010,7 @@
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "",
-    "followers": 55,
+    "followers": 56,
     "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2022-05-09T12:33:24Z"
@@ -5023,7 +5023,7 @@
     "company": "@Datamolino ",
     "twitterUsername": "",
     "followers": 37,
-    "privateContributions": 336,
+    "privateContributions": 422,
     "publicContributions": 2,
     "createdAt": "2022-11-12T14:34:05Z"
   },
@@ -5034,8 +5034,8 @@
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 90,
+    "followers": 24,
+    "privateContributions": 112,
     "publicContributions": 0,
     "createdAt": "2022-02-23T08:48:38Z"
   },
@@ -5082,9 +5082,9 @@
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 2044,
-    "publicContributions": 33,
+    "followers": 17,
+    "privateContributions": 1593,
+    "publicContributions": 315,
     "createdAt": "2022-09-21T16:34:28Z"
   },
   {
@@ -5108,7 +5108,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 216,
-    "publicContributions": 926,
+    "publicContributions": 923,
     "createdAt": "2022-11-04T14:31:44Z"
   },
   {
@@ -5118,8 +5118,8 @@
     "location": "Sarajevo",
     "company": "Faculty of Electrical Engineering Sarajevo, Computer Science and Informatics",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 1,
+    "followers": 16,
+    "privateContributions": 2,
     "publicContributions": 41,
     "createdAt": "2022-10-20T12:59:10Z"
   },
@@ -5167,7 +5167,7 @@
     "company": "FabLab",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1230,
+    "privateContributions": 1444,
     "publicContributions": 7,
     "createdAt": "2022-02-25T09:36:27Z"
   },

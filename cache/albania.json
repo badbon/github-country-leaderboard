@@ -5179,7 +5179,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-29T13:18:49Z"
   },
@@ -5204,7 +5204,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2021-09-16T21:24:36Z"
   },
   {
@@ -5250,9 +5250,9 @@
     "location": "Albania, Tirana",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 222,
+    "publicContributions": 614,
     "createdAt": "2021-02-17T11:07:08Z"
   },
   {
@@ -5287,7 +5287,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 702,
+    "privateContributions": 617,
     "publicContributions": 0,
     "createdAt": "2021-05-05T21:49:33Z"
   },
@@ -5300,7 +5300,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 0,
     "createdAt": "2021-08-23T21:03:09Z"
   },
   {
@@ -5311,8 +5311,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 138,
-    "publicContributions": 95,
+    "privateContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2021-11-24T07:48:34Z"
   },
   {
@@ -5322,9 +5322,9 @@
     "location": "Fier, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 16,
     "createdAt": "2021-10-13T15:52:21Z"
   },
   {
@@ -5332,11 +5332,11 @@
     "name": "Ina Kapaj",
     "avatarUrl": "https://avatars.githubusercontent.com/u/95679944?s=72&v=4",
     "location": "Tirana, Albania",
-    "company": "",
+    "company": "STAR7",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
-    "publicContributions": 35,
+    "privateContributions": 12,
+    "publicContributions": 36,
     "createdAt": "2021-12-07T08:24:35Z"
   },
   {
@@ -5408,7 +5408,7 @@
     "twitterUsername": "shuli_alkid",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2021-06-19T19:49:07Z"
   },
   {

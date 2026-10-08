@@ -5346,7 +5346,7 @@
     "location": "Ouagadougou,Burkina Faso",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-12-23T17:48:09Z"
@@ -5358,9 +5358,9 @@
     "location": "Burkina Faso",
     "company": "",
     "twitterUsername": "adejunjii",
-    "followers": 14,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 2,
     "createdAt": "2015-12-19T19:13:00Z"
   },
   {
@@ -5370,7 +5370,7 @@
     "location": "Griffinville, Burkina Faso",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 135,
     "createdAt": "2015-02-07T08:29:29Z"
@@ -5390,13 +5390,13 @@
   {
     "login": "XindongG",
     "name": "Xin Dong",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15084657?s=72&u=f63a0dd33cfcf4318238ce9f81bb3cbc0d378802&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15084657?s=72&u=a55d8d024243916b5b101da2974eabe6a7b3ba0e&v=4",
     "location": "72368 ,Schowalter Loaf ,New Preston ,Utah ,Burkina Faso",
     "company": "Pollich-Bruen",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 8,
     "createdAt": "2015-10-12T07:15:26Z"
   },
   {
@@ -5430,9 +5430,9 @@
     "location": "Ouagadougou",
     "company": "",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 3903,
-    "publicContributions": 194,
+    "followers": 37,
+    "privateContributions": 4214,
+    "publicContributions": 186,
     "createdAt": "2015-04-08T09:30:26Z"
   },
   {
@@ -5456,7 +5456,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2015-04-08T13:44:03Z"
   },
   {
@@ -5479,8 +5479,8 @@
     "company": "",
     "twitterUsername": "amonmoce",
     "followers": 26,
-    "privateContributions": 142,
-    "publicContributions": 11,
+    "privateContributions": 195,
+    "publicContributions": 8,
     "createdAt": "2014-04-08T09:51:06Z"
   },
   {
@@ -5794,5 +5794,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-06T21:03:11Z"
+  },
+  {
+    "login": "gtlCode",
+    "name": "gtlCode.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286904092?s=72&u=edabfe6103e51c3f74c755c2af8cb64775d7bb18&v=4",
+    "location": "Burkina Faso, Ouagadougou",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-22T08:10:35Z"
   }
 ]

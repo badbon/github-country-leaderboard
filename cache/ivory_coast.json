@@ -4963,8 +4963,8 @@
     "company": "IDSI",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2492,
-    "publicContributions": 212,
+    "privateContributions": 2180,
+    "publicContributions": 268,
     "createdAt": "2016-02-03T15:05:11Z"
   },
   {
@@ -4984,11 +4984,11 @@
     "name": "Houssene Dao",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16049399?s=72&u=41901036ab01bf681b1ded8bc09e715171b3f445&v=4",
     "location": "Côte d'ivoire, Abidjan",
-    "company": "@payzoo @sinuoslabs",
+    "company": "@nascent-tech ",
     "twitterUsername": "houssenedao",
-    "followers": 252,
-    "privateContributions": 8851,
-    "publicContributions": 4,
+    "followers": 248,
+    "privateContributions": 8691,
+    "publicContributions": 155,
     "createdAt": "2015-11-27T16:18:19Z"
   },
   {
@@ -4999,8 +4999,8 @@
     "company": "AFRICAN PERMANENT INNOVATIONS",
     "twitterUsername": "lordkkjmix",
     "followers": 37,
-    "privateContributions": 4471,
-    "publicContributions": 8,
+    "privateContributions": 5601,
+    "publicContributions": 7,
     "createdAt": "2015-06-29T23:51:56Z"
   },
   {
@@ -5022,9 +5022,9 @@
     "location": "Abidjan, Côte d'Ivoire",
     "company": "@djamoapp",
     "twitterUsername": "imolushola",
-    "followers": 25,
-    "privateContributions": 2053,
-    "publicContributions": 17,
+    "followers": 26,
+    "privateContributions": 1982,
+    "publicContributions": 25,
     "createdAt": "2015-02-27T09:30:56Z"
   },
   {
@@ -5034,9 +5034,9 @@
     "location": "Côte d'Ivoire",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 4,
     "createdAt": "2015-12-16T18:59:06Z"
   },
   {
@@ -5046,8 +5046,8 @@
     "location": "Côte d'Ivoire",
     "company": "CODERLIFE LLC",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 1155,
+    "followers": 15,
+    "privateContributions": 1418,
     "publicContributions": 4,
     "createdAt": "2015-08-02T22:21:18Z"
   },
@@ -5058,7 +5058,7 @@
     "location": "Côte d'Ivoire",
     "company": "4-4°2°pŗθđųc†įÖή®",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-02-25T18:54:13Z"
@@ -5070,9 +5070,9 @@
     "location": "Abidjan, Côte d'Ivoire",
     "company": "",
     "twitterUsername": "vnkomv",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 12,
     "createdAt": "2015-05-09T00:56:41Z"
   },
   {
@@ -5130,7 +5130,7 @@
     "location": "Côte D'ivoire (Grand-Bassam)",
     "company": "@home",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-09-21T10:36:50Z"
@@ -5830,5 +5830,17 @@
     "privateContributions": 0,
     "publicContributions": 128,
     "createdAt": "2026-06-04T11:29:16Z"
+  },
+  {
+    "login": "Dsaifon",
+    "name": "Saifoulaye Barry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64630569?s=72&u=ef0fc5f36d485976d35997660796664a325e8f54&v=4",
+    "location": "Côte d'Ivoire",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-05-01T06:30:10Z"
   }
 ]

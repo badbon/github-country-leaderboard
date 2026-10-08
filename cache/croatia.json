@@ -5191,21 +5191,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1245,
-    "publicContributions": 91,
+    "privateContributions": 1149,
+    "publicContributions": 47,
     "createdAt": "2022-03-14T09:57:05Z"
-  },
-  {
-    "login": "EmilPopovic",
-    "name": "Emil Popović",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104315710?s=72&u=ff01d897ae8ed2a603c95730834d307b237de9e9&v=4",
-    "location": "Zagreb, Croatia",
-    "company": "KU Leuven x FER@UNIZG",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 593,
-    "publicContributions": 855,
-    "createdAt": "2022-04-24T15:57:29Z"
   },
   {
     "login": "ivano-uglik",
@@ -5239,8 +5227,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 129,
-    "publicContributions": 119,
+    "privateContributions": 85,
+    "publicContributions": 314,
     "createdAt": "2022-12-02T10:18:49Z"
   },
   {
@@ -5252,7 +5240,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 173,
     "createdAt": "2022-01-03T09:43:30Z"
   },
   {
@@ -5262,9 +5250,9 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 6,
-    "publicContributions": 41,
+    "publicContributions": 47,
     "createdAt": "2022-01-25T10:54:21Z"
   },
   {
@@ -5287,8 +5275,8 @@
     "company": "https://productive.io/",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1582,
-    "publicContributions": 40,
+    "privateContributions": 1722,
+    "publicContributions": 48,
     "createdAt": "2022-06-01T09:53:06Z"
   },
   {
@@ -5300,7 +5288,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 22,
     "createdAt": "2022-05-19T20:36:41Z"
   },
   {
@@ -5310,7 +5298,7 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-28T05:45:00Z"
@@ -5322,7 +5310,7 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2022-03-31T08:33:04Z"
@@ -5334,9 +5322,9 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1097,
-    "publicContributions": 11,
+    "followers": 5,
+    "privateContributions": 1113,
+    "publicContributions": 8,
     "createdAt": "2022-05-24T11:21:49Z"
   },
   {
@@ -5346,9 +5334,9 @@
     "location": "Split, Croatia",
     "company": "DUMP",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 618,
+    "publicContributions": 566,
     "createdAt": "2022-08-31T10:27:14Z"
   },
   {
@@ -5359,8 +5347,8 @@
     "company": "",
     "twitterUsername": "Gabrielk2812",
     "followers": 7,
-    "privateContributions": 16,
-    "publicContributions": 27,
+    "privateContributions": 13,
+    "publicContributions": 28,
     "createdAt": "2022-01-01T22:51:12Z"
   },
   {
@@ -5371,8 +5359,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 9,
-    "publicContributions": 51,
+    "privateContributions": 10,
+    "publicContributions": 75,
     "createdAt": "2022-02-20T11:16:39Z"
   },
   {
@@ -5395,7 +5383,7 @@
     "company": "",
     "twitterUsername": "doricLuks",
     "followers": 7,
-    "privateContributions": 329,
+    "privateContributions": 248,
     "publicContributions": 73,
     "createdAt": "2022-05-31T19:57:45Z"
   },
@@ -5407,8 +5395,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 9,
-    "publicContributions": 13,
+    "privateContributions": 14,
+    "publicContributions": 49,
     "createdAt": "2022-05-27T16:28:14Z"
   },
   {

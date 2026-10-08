@@ -4928,7 +4928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 14,
     "createdAt": "2024-05-26T10:04:07Z"
   },
   {
@@ -4952,7 +4952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-12-18T23:10:52Z"
   },
   {
@@ -4980,18 +4980,6 @@
     "createdAt": "2024-02-28T14:56:19Z"
   },
   {
-    "login": "LiliiaNel",
-    "name": "Liliia Szivak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184929622?s=72&u=491ffcf8f3b2aa5e8228a00d68a169b9b8659d00&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 107,
-    "createdAt": "2024-10-14T10:02:51Z"
-  },
-  {
     "login": "MCAFBEDOC",
     "name": "Mihály Benedek-Sároncsi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/171537038?s=72&u=3917033b7d4eb1fbf5559943ee550ce5a20151fd&v=4",
@@ -5012,7 +5000,7 @@
     "twitterUsername": "croatsdev",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 11,
     "createdAt": "2024-01-14T14:49:37Z"
   },
   {
@@ -5024,7 +5012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 397,
+    "publicContributions": 364,
     "createdAt": "2024-05-23T11:13:47Z"
   },
   {
@@ -5040,18 +5028,6 @@
     "createdAt": "2024-12-01T15:58:59Z"
   },
   {
-    "login": "zolk3ri",
-    "name": "Zoltán Kéri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/192146317?s=72&u=20cd2cbcefea904e5edf4482d5448c2391e99b58&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 13,
-    "createdAt": "2024-12-18T20:27:54Z"
-  },
-  {
     "login": "Arcanum703",
     "name": "Syrgak",
     "avatarUrl": "https://avatars.githubusercontent.com/u/180034813?s=72&u=cd06736fa91da4cf24fd8ea0e0b0928dca4f0226&v=4",
@@ -5060,7 +5036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 73,
     "createdAt": "2024-08-31T15:30:04Z"
   },
   {
@@ -5096,7 +5072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 25,
     "createdAt": "2024-09-25T11:08:26Z"
   },
   {
@@ -5107,8 +5083,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 264,
-    "publicContributions": 5,
+    "privateContributions": 204,
+    "publicContributions": 31,
     "createdAt": "2024-04-10T14:13:51Z"
   },
   {
@@ -5132,7 +5108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 40,
     "createdAt": "2024-02-14T16:09:39Z"
   },
   {
@@ -5143,8 +5119,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 286,
+    "privateContributions": 7,
+    "publicContributions": 28,
     "createdAt": "2024-02-18T17:51:49Z"
   },
   {

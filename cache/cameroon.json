@@ -5202,9 +5202,9 @@
     "location": "Cameroon",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 36,
     "createdAt": "2023-01-14T03:39:10Z"
   },
   {
@@ -5216,7 +5216,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2023-05-13T03:02:01Z"
   },
   {
@@ -5240,7 +5240,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 13,
     "createdAt": "2023-12-17T09:59:44Z"
   },
   {
@@ -5252,7 +5252,7 @@
     "twitterUsername": "avombrice",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1157,
+    "publicContributions": 956,
     "createdAt": "2023-03-06T07:13:14Z"
   },
   {
@@ -5263,8 +5263,8 @@
     "company": "@TraitzTech ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 71,
-    "publicContributions": 95,
+    "privateContributions": 506,
+    "publicContributions": 86,
     "createdAt": "2023-03-31T01:55:58Z"
   },
   {
@@ -5274,9 +5274,9 @@
     "location": "Cameroon",
     "company": "",
     "twitterUsername": "shl_om",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 34,
     "createdAt": "2022-12-31T11:39:28Z"
   },
   {
@@ -5288,7 +5288,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 54,
     "createdAt": "2023-08-19T11:25:51Z"
   },
   {
@@ -5312,7 +5312,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 39,
     "createdAt": "2023-05-06T16:36:18Z"
   },
   {
@@ -5335,8 +5335,8 @@
     "company": "The ICT university",
     "twitterUsername": "pemmenyi",
     "followers": 3,
-    "privateContributions": 115,
-    "publicContributions": 29,
+    "privateContributions": 114,
+    "publicContributions": 65,
     "createdAt": "2023-08-02T09:27:23Z"
   },
   {
@@ -5347,8 +5347,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 457,
-    "publicContributions": 205,
+    "privateContributions": 853,
+    "publicContributions": 199,
     "createdAt": "2023-05-06T14:47:42Z"
   },
   {
@@ -5371,8 +5371,8 @@
     "company": "Mysoleas",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 68,
-    "publicContributions": 5,
+    "privateContributions": 60,
+    "publicContributions": 6,
     "createdAt": "2023-05-23T12:28:21Z"
   },
   {
@@ -5407,7 +5407,7 @@
     "company": "",
     "twitterUsername": "OthnielNeba",
     "followers": 3,
-    "privateContributions": 386,
+    "privateContributions": 351,
     "publicContributions": 39,
     "createdAt": "2023-03-02T22:53:58Z"
   },
@@ -5418,9 +5418,9 @@
     "location": "Cameroon",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 45,
     "createdAt": "2023-11-21T09:40:38Z"
   },
   {
@@ -21634,5 +21634,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-05-27T18:20:14Z"
+  },
+  {
+    "login": "ermongabriel",
+    "name": "Ermon Gabriel Elate Ekoa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291586558?s=72&u=7f5ee78f76fc7382d834fde5fa8aec4697ef17e1&v=4",
+    "location": "Yaoundé - Cameroon",
+    "company": "",
+    "twitterUsername": "ermongabriel_",
+    "followers": 6,
+    "privateContributions": 136,
+    "publicContributions": 31,
+    "createdAt": "2026-06-07T18:36:08Z"
+  },
+  {
+    "login": "mbah85077-cyber",
+    "name": "Mbah Joel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292151836?s=72&u=d9f869386d35c4e9c6f53837349cab1b89c30015&v=4",
+    "location": "Yaounde, Cameroon ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-09T14:49:48Z"
+  },
+  {
+    "login": "cyriqvfx",
+    "name": "Kuyam Cliff Samsimbom",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293296986?s=72&v=4",
+    "location": "Cameroon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-13T06:15:06Z"
+  },
+  {
+    "login": "dousbelmbah",
+    "name": "Dousbel Mbah ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296613965?s=72&u=1d3ca282137744ae61296d68e6f90e9f16cd2487&v=4",
+    "location": "Cameroon ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2026-06-24T18:24:27Z"
   }
 ]

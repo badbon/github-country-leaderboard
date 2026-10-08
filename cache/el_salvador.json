@@ -4914,9 +4914,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 469,
+    "publicContributions": 503,
     "createdAt": "2023-03-27T04:04:41Z"
   },
   {
@@ -4940,7 +4940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2023-10-29T04:37:11Z"
   },
   {
@@ -5012,7 +5012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 95,
     "createdAt": "2023-10-18T22:12:47Z"
   },
   {
@@ -5024,7 +5024,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 54,
     "createdAt": "2023-08-22T17:44:22Z"
   },
   {
@@ -5034,9 +5034,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 28,
     "createdAt": "2023-10-24T15:42:12Z"
   },
   {
@@ -5071,8 +5071,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 20,
+    "privateContributions": 0,
+    "publicContributions": 16,
     "createdAt": "2023-07-04T19:31:33Z"
   },
   {
@@ -5084,7 +5084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 0,
     "createdAt": "2023-10-05T14:12:15Z"
   },
   {
@@ -5122,18 +5122,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-11T21:27:31Z"
-  },
-  {
-    "login": "augustolueSV",
-    "name": " Augusto Lúe Morales",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139081869?s=72&u=225145db228dd333505a42a8a494418a5feaf42e&v=4",
-    "location": "San Salvador, SV",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 162,
-    "createdAt": "2023-07-09T22:40:14Z"
   },
   {
     "login": "AmaruSegovia",

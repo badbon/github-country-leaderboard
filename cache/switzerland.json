@@ -4903,8 +4903,8 @@
     "company": "Piero Fracasso Perfumes",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 585,
-    "publicContributions": 1,
+    "privateContributions": 604,
+    "publicContributions": 2,
     "createdAt": "2025-01-23T17:42:15Z"
   },
   {
@@ -4916,7 +4916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2025-08-03T16:01:16Z"
   },
   {
@@ -4927,7 +4927,7 @@
     "company": "LYO-X",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 135,
+    "privateContributions": 129,
     "publicContributions": 1,
     "createdAt": "2025-04-08T13:41:22Z"
   },
@@ -4940,7 +4940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2025-02-10T20:43:31Z"
   },
   {
@@ -4962,7 +4962,7 @@
     "location": "Zürich | Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2025-10-24T13:07:02Z"
@@ -4987,8 +4987,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 182,
-    "publicContributions": 56,
+    "privateContributions": 552,
+    "publicContributions": 52,
     "createdAt": "2025-01-15T08:59:13Z"
   },
   {
@@ -5000,7 +5000,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 90,
     "createdAt": "2025-04-03T08:01:27Z"
   },
   {
@@ -5012,27 +5012,15 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-03-10T18:17:28Z"
-  },
-  {
-    "login": "GreenBlueberryKate",
-    "name": "GreenBlueberryKate",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/241087198?s=72&u=d8aa01dd0e85fea52c9d091040e88fde5a2f987d&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 117,
-    "createdAt": "2025-10-30T09:13:49Z"
   },
   {
     "login": "Schertler",
     "name": "Nico Schertler",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/246443010?s=72&u=ad42ca700c706acb3d1c72d18732f4f0bce28418&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246443010?s=72&u=fd1a5759d2ce5c85e0966a0d72447c71d695aede&v=4",
     "location": "Switzerland",
-    "company": "",
+    "company": "Schertler AI",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -5058,9 +5046,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 27,
-    "publicContributions": 117,
+    "followers": 2,
+    "privateContributions": 38,
+    "publicContributions": 142,
     "createdAt": "2025-10-24T08:24:48Z"
   },
   {
@@ -5108,7 +5096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2025-09-19T00:58:51Z"
   },
   {
@@ -5130,9 +5118,9 @@
     "location": "Zurich, Switzerland",
     "company": "@adobe",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 7,
     "createdAt": "2025-03-27T13:04:13Z"
   },
   {

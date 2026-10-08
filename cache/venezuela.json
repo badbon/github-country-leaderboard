@@ -4867,8 +4867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 70,
-    "publicContributions": 4,
+    "privateContributions": 101,
+    "publicContributions": 1,
     "createdAt": "2024-04-07T20:29:41Z"
   },
   {
@@ -4880,7 +4880,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 28,
     "createdAt": "2024-10-06T19:19:19Z"
   },
   {
@@ -4891,8 +4891,8 @@
     "company": "Binaural",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 4784,
-    "publicContributions": 82,
+    "privateContributions": 11696,
+    "publicContributions": 264,
     "createdAt": "2024-05-13T17:36:44Z"
   },
   {
@@ -4916,7 +4916,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 186,
     "createdAt": "2024-11-06T07:43:29Z"
   },
   {
@@ -4963,8 +4963,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 203,
-    "publicContributions": 217,
+    "privateContributions": 312,
+    "publicContributions": 202,
     "createdAt": "2024-11-12T01:39:09Z"
   },
   {
@@ -4988,7 +4988,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 188,
+    "publicContributions": 345,
     "createdAt": "2024-05-29T18:04:21Z"
   },
   {
@@ -5024,7 +5024,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 313,
+    "publicContributions": 390,
     "createdAt": "2024-12-10T16:42:19Z"
   },
   {
@@ -5040,30 +5040,6 @@
     "createdAt": "2024-05-02T17:10:25Z"
   },
   {
-    "login": "HectorGonzalezAC",
-    "name": "HÉCTOR GONZÁLEZ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189167214?s=72&v=4",
-    "location": "Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2024-11-20T20:40:57Z"
-  },
-  {
-    "login": "A2PC-2002",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178431866?s=72&v=4",
-    "location": "Caracas - Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 2254,
-    "createdAt": "2024-08-14T20:46:46Z"
-  },
-  {
     "login": "Antonio-Naoki",
     "name": "Antonio Morales",
     "avatarUrl": "https://avatars.githubusercontent.com/u/156971884?s=72&u=61348758120df1008d31c796bc7b998328aa14fe&v=4",
@@ -5071,8 +5047,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1829,
-    "publicContributions": 13,
+    "privateContributions": 1953,
+    "publicContributions": 7,
     "createdAt": "2024-01-18T00:11:45Z"
   },
   {
@@ -5084,7 +5060,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 55,
     "createdAt": "2024-10-29T15:41:24Z"
   },
   {

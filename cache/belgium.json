@@ -5167,8 +5167,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 267,
-    "privateContributions": 23,
-    "publicContributions": 88,
+    "privateContributions": 0,
+    "publicContributions": 28,
     "createdAt": "2024-10-11T13:44:58Z"
   },
   {
@@ -5178,9 +5178,9 @@
     "location": "Belgium",
     "company": "KU Leuven",
     "twitterUsername": "CTDefence",
-    "followers": 162,
-    "privateContributions": 161,
-    "publicContributions": 2752,
+    "followers": 176,
+    "privateContributions": 208,
+    "publicContributions": 2677,
     "createdAt": "2024-07-07T17:17:34Z"
   },
   {
@@ -5190,9 +5190,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 111,
-    "privateContributions": 143,
-    "publicContributions": 71,
+    "followers": 107,
+    "privateContributions": 104,
+    "publicContributions": 31,
     "createdAt": "2024-06-05T12:34:49Z"
   },
   {
@@ -5202,9 +5202,9 @@
     "location": "Brussels, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 58,
+    "followers": 49,
     "privateContributions": 0,
-    "publicContributions": 260,
+    "publicContributions": 231,
     "createdAt": "2024-05-24T08:13:58Z"
   },
   {
@@ -5214,7 +5214,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 45,
+    "followers": 37,
     "privateContributions": 0,
     "publicContributions": 47,
     "createdAt": "2024-12-06T12:01:02Z"
@@ -5226,9 +5226,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 247,
-    "publicContributions": 1513,
+    "followers": 46,
+    "privateContributions": 297,
+    "publicContributions": 1344,
     "createdAt": "2024-02-20T15:13:35Z"
   },
   {
@@ -5238,7 +5238,7 @@
     "location": "BELGIUM",
     "company": "",
     "twitterUsername": "",
-    "followers": 38,
+    "followers": 35,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-11T18:08:41Z"
@@ -5250,7 +5250,7 @@
     "location": "Belgium",
     "company": "rhytmsparkstudio Inc",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 33,
     "privateContributions": 0,
     "publicContributions": 28,
     "createdAt": "2024-01-10T15:49:08Z"
@@ -5262,8 +5262,8 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 60,
+    "followers": 29,
+    "privateContributions": 58,
     "publicContributions": 68,
     "createdAt": "2024-08-20T00:05:26Z"
   },
@@ -5274,9 +5274,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 1,
-    "publicContributions": 65,
+    "followers": 32,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-10-28T23:27:37Z"
   },
   {
@@ -5286,9 +5286,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 37,
-    "publicContributions": 147,
+    "followers": 29,
+    "privateContributions": 87,
+    "publicContributions": 101,
     "createdAt": "2024-09-24T07:54:45Z"
   },
   {
@@ -5299,8 +5299,8 @@
     "company": "LD Studios",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 91,
-    "publicContributions": 1012,
+    "privateContributions": 176,
+    "publicContributions": 724,
     "createdAt": "2024-10-20T16:47:09Z"
   },
   {
@@ -5311,21 +5311,9 @@
     "company": "Bane's Lab | BE0770.876.816",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 2083,
-    "publicContributions": 246,
+    "privateContributions": 1479,
+    "publicContributions": 77,
     "createdAt": "2024-04-07T12:24:42Z"
-  },
-  {
-    "login": "thblonde",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167370762?s=72&v=4",
-    "location": "Brussels, Belgium",
-    "company": "@42school",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 73,
-    "publicContributions": 118,
-    "createdAt": "2024-04-17T22:12:44Z"
   },
   {
     "login": "FrancisSailor",
@@ -5334,9 +5322,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 36,
     "createdAt": "2024-11-09T12:09:10Z"
   },
   {
@@ -5358,7 +5346,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2024-03-29T15:34:48Z"
@@ -5370,9 +5358,9 @@
     "location": "Brussels, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 1922,
-    "publicContributions": 81,
+    "followers": 34,
+    "privateContributions": 2510,
+    "publicContributions": 114,
     "createdAt": "2024-01-13T10:18:50Z"
   },
   {
@@ -5382,7 +5370,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-09-15T01:49:12Z"
@@ -5394,9 +5382,9 @@
     "location": "Leuven, Belgium",
     "company": "@Panenco",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 311,
-    "publicContributions": 65,
+    "followers": 14,
+    "privateContributions": 543,
+    "publicContributions": 100,
     "createdAt": "2024-03-22T15:41:22Z"
   },
   {
@@ -220798,5 +220786,17 @@
     "privateContributions": 0,
     "publicContributions": 142,
     "createdAt": "2023-07-18T20:53:41Z"
+  },
+  {
+    "login": "EmilPopovic",
+    "name": "Emil Popović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104315710?s=72&u=ff01d897ae8ed2a603c95730834d307b237de9e9&v=4",
+    "location": "Leuven, Belgium",
+    "company": "KU Leuven x FER@UNIZG",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 786,
+    "publicContributions": 928,
+    "createdAt": "2022-04-24T15:57:29Z"
   }
 ]

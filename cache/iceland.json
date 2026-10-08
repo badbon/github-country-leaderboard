@@ -4916,7 +4916,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 8,
     "createdAt": "2018-04-27T01:02:46Z"
   },
   {
@@ -4926,7 +4926,7 @@
     "location": "Akureyri, Iceland",
     "company": "Slippurinn",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2018-12-03T23:14:26Z"
@@ -4940,7 +4940,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 23,
     "createdAt": "2018-08-02T18:59:43Z"
   },
   {
@@ -4972,11 +4972,11 @@
     "name": "Sverrir Sigurdsson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/43657200?s=72&u=e061be3d6bd8ce676e44d45ea27878561c26c51a&v=4",
     "location": "Iceland",
-    "company": "Noona",
+    "company": "@upwindsecurity",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1766,
-    "publicContributions": 132,
+    "privateContributions": 1790,
+    "publicContributions": 157,
     "createdAt": "2018-09-27T22:20:55Z"
   },
   {
@@ -4986,7 +4986,7 @@
     "location": "Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 63,
     "createdAt": "2018-02-24T22:12:55Z"
@@ -5011,7 +5011,7 @@
     "company": "@CCPGames",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 243,
+    "privateContributions": 172,
     "publicContributions": 0,
     "createdAt": "2018-03-05T00:21:14Z"
   },
@@ -5048,7 +5048,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2018-05-23T15:20:44Z"
   },
   {
@@ -5072,7 +5072,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2018-09-03T15:05:08Z"
   },
   {
@@ -5083,7 +5083,7 @@
     "company": "Tegra ehf.",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 9,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2018-10-02T13:17:56Z"
   },
@@ -5096,7 +5096,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2018-04-23T17:43:11Z"
   },
   {
@@ -5119,7 +5119,7 @@
     "company": "@nova-hf ",
     "twitterUsername": "bensijons",
     "followers": 3,
-    "privateContributions": 1289,
+    "privateContributions": 1309,
     "publicContributions": 0,
     "createdAt": "2018-01-22T20:57:30Z"
   },

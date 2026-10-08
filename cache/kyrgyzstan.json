@@ -4952,7 +4952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 222,
+    "publicContributions": 31,
     "createdAt": "2023-05-26T16:40:26Z"
   },
   {
@@ -4964,7 +4964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 91,
     "createdAt": "2023-05-26T10:24:21Z"
   },
   {
@@ -4988,7 +4988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 52,
     "createdAt": "2022-12-30T14:11:37Z"
   },
   {
@@ -5036,19 +5036,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 17,
     "createdAt": "2023-09-14T10:23:33Z"
   },
   {
     "login": "kymuco",
     "name": "Ikymuco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137753702?s=72&u=549f517223e0221735117ed9ee48464ec298a064&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137753702?s=72&u=4289e543c88d85d9a5bec441a31a570baa8e7ae5&v=4",
     "location": "Bishkek, Kyrgyzstan",
-    "company": "Independent",
+    "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1740,
-    "publicContributions": 1598,
+    "followers": 6,
+    "privateContributions": 7608,
+    "publicContributions": 3599,
     "createdAt": "2023-06-26T05:34:42Z"
   },
   {
@@ -5144,20 +5144,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 98,
     "createdAt": "2023-12-23T19:43:10Z"
-  },
-  {
-    "login": "Dudlllyy",
-    "name": "Dudlllyy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/153528076?s=72&u=2d8a1b299d75fd32d8a02ab0a8ad5ca71523b1c5&v=4",
-    "location": "Kyrgyzstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 151,
-    "createdAt": "2023-12-11T14:44:09Z"
   },
   {
     "login": "YaiLung",

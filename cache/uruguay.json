@@ -5084,7 +5084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 65,
     "createdAt": "2024-04-11T21:46:40Z"
   },
   {
@@ -5120,7 +5120,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-05-14T14:12:55Z"
   },
   {
@@ -5168,7 +5168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 27,
     "createdAt": "2024-03-14T18:09:56Z"
   },
   {
@@ -5190,9 +5190,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 671,
-    "publicContributions": 190,
+    "followers": 2,
+    "privateContributions": 732,
+    "publicContributions": 258,
     "createdAt": "2024-05-15T15:24:25Z"
   },
   {
@@ -5204,12 +5204,12 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 815,
+    "publicContributions": 1591,
     "createdAt": "2024-11-04T23:30:05Z"
   },
   {
     "login": "LuisDentoneOrt",
-    "name": "Luis Andres Dentone Michelena",
+    "name": "Luis Andrés Dentone Michelena",
     "avatarUrl": "https://avatars.githubusercontent.com/u/160262937?s=72&u=145f1046b00139dcb57c3b706546f3c5c64aaae2&v=4",
     "location": "Luis de la Peña 404 Montevideo",
     "company": "ORT Uruguay",
@@ -5239,8 +5239,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 277,
-    "publicContributions": 159,
+    "privateContributions": 155,
+    "publicContributions": 141,
     "createdAt": "2024-09-19T19:29:54Z"
   },
   {

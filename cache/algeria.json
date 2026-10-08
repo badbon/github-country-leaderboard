@@ -4928,7 +4928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 12,
     "createdAt": "2025-05-01T07:00:11Z"
   },
   {
@@ -4976,7 +4976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-08-05T15:20:42Z"
   },
   {
@@ -4988,7 +4988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 492,
+    "publicContributions": 499,
     "createdAt": "2025-07-19T22:22:48Z"
   },
   {
@@ -5011,8 +5011,8 @@
     "company": "DEF-MED HYDRA FARM",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 134,
+    "privateContributions": 1,
+    "publicContributions": 119,
     "createdAt": "2025-05-01T16:05:20Z"
   },
   {
@@ -5022,7 +5022,7 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-01-08T13:25:28Z"
@@ -5036,20 +5036,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 228,
+    "publicContributions": 162,
     "createdAt": "2025-03-10T14:09:29Z"
-  },
-  {
-    "login": "decim91s",
-    "name": "decim91s",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/244783707?s=72&v=4",
-    "location": "algeria",
-    "company": "cosider",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2025-11-18T17:01:32Z"
   },
   {
     "login": "alaa-yml",
@@ -5060,7 +5048,7 @@
     "twitterUsername": "AlaaMiles",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-09-17T19:20:18Z"
   },
   {
@@ -5082,9 +5070,9 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 80,
     "createdAt": "2025-03-16T23:57:03Z"
   },
   {

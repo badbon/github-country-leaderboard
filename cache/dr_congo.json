@@ -5144,7 +5144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 80,
     "createdAt": "2021-12-27T10:47:27Z"
   },
   {
@@ -5192,7 +5192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2021-06-21T17:09:42Z"
   },
   {
@@ -5202,7 +5202,7 @@
     "location": "Kinshasa",
     "company": "",
     "twitterUsername": "calvin_ngao",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-13T10:00:10Z"
@@ -5222,13 +5222,13 @@
   {
     "login": "bernard-ng",
     "name": "Bernard Ngandu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/31113941?s=72&u=0b86a599df339cf5fc3206c42f1fa0a5cfc7dd3b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31113941?s=72&u=8936db78e9426b051af0e27c5391d6dcb0961e5f&v=4",
     "location": "DR Congo, Lubumbashi",
-    "company": "@devscast",
+    "company": "@ngandu-dev",
     "twitterUsername": "BernardNgandu",
-    "followers": 234,
-    "privateContributions": 532,
-    "publicContributions": 470,
+    "followers": 237,
+    "privateContributions": 631,
+    "publicContributions": 655,
     "createdAt": "2017-08-17T22:08:04Z"
   },
   {
@@ -5238,9 +5238,9 @@
     "location": "Congo Kinshasa",
     "company": "Akieni",
     "twitterUsername": "",
-    "followers": 110,
-    "privateContributions": 4995,
-    "publicContributions": 92,
+    "followers": 99,
+    "privateContributions": 4921,
+    "publicContributions": 75,
     "createdAt": "2017-03-19T00:13:05Z"
   },
   {
@@ -5250,8 +5250,8 @@
     "location": "Democratic Republic Of Congo",
     "company": "@eteyelo ",
     "twitterUsername": "Dan_Kyungu",
-    "followers": 42,
-    "privateContributions": 2235,
+    "followers": 43,
+    "privateContributions": 2611,
     "publicContributions": 17,
     "createdAt": "2017-11-15T08:46:43Z"
   },
@@ -5262,9 +5262,9 @@
     "location": "D.R congo, kinshasa",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 57,
     "createdAt": "2017-09-27T11:55:39Z"
   },
   {
@@ -5275,8 +5275,8 @@
     "company": "LUCID GROUP SOLUTION",
     "twitterUsername": "Steven24340",
     "followers": 16,
-    "privateContributions": 825,
-    "publicContributions": 292,
+    "privateContributions": 1703,
+    "publicContributions": 190,
     "createdAt": "2017-05-09T13:25:25Z"
   },
   {
@@ -5311,8 +5311,8 @@
     "company": "Equity Banque Commerciale du Congo - Equity BCDC",
     "twitterUsername": "didiamuri",
     "followers": 9,
-    "privateContributions": 832,
-    "publicContributions": 23,
+    "privateContributions": 1950,
+    "publicContributions": 10,
     "createdAt": "2017-09-09T01:08:54Z"
   },
   {
@@ -5322,9 +5322,9 @@
     "location": "Beni, Democratic Republic Of Congo",
     "company": "ISSONET Inc.",
     "twitterUsername": "IssoFimbo",
-    "followers": 9,
-    "privateContributions": 3154,
-    "publicContributions": 47,
+    "followers": 10,
+    "privateContributions": 2839,
+    "publicContributions": 3,
     "createdAt": "2017-05-01T00:52:15Z"
   },
   {
@@ -5334,9 +5334,9 @@
     "location": "Kinshasa, Congo CD",
     "company": "@Holduix ",
     "twitterUsername": "Holsonmp",
-    "followers": 8,
-    "privateContributions": 3094,
-    "publicContributions": 776,
+    "followers": 9,
+    "privateContributions": 3300,
+    "publicContributions": 529,
     "createdAt": "2017-03-16T19:21:24Z"
   },
   {
