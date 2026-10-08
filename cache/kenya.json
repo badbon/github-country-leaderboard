@@ -3462,9 +3462,9 @@
     "location": "Nairobi",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 67,
     "createdAt": "2026-04-23T06:11:41Z"
   },
   {
@@ -3476,7 +3476,7 @@
     "twitterUsername": "its_nick_son",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2026-03-15T19:56:29Z"
   },
   {
@@ -3492,18 +3492,6 @@
     "createdAt": "2026-01-09T15:41:42Z"
   },
   {
-    "login": "vincentwere",
-    "name": "Vincent  W.O",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/277529759?s=72&u=10f695534ff78d333c162036320c38890822269f&v=4",
-    "location": "Nairobi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2026-04-19T18:26:58Z"
-  },
-  {
     "login": "ongiriharkiel-star",
     "name": "Harkiel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/256781985?s=72&u=841782e31c27f6dc5a10fc6258c9b85935dc2859&v=4",
@@ -3512,7 +3500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 29,
     "createdAt": "2026-01-23T12:15:13Z"
   },
   {
@@ -3523,8 +3511,8 @@
     "company": "Universal Events Ltd",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 1414,
-    "publicContributions": 517,
+    "privateContributions": 2248,
+    "publicContributions": 481,
     "createdAt": "2025-08-19T06:53:21Z"
   },
   {
@@ -3534,21 +3522,21 @@
     "location": "Nakuru, Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 1145,
-    "privateContributions": 545,
-    "publicContributions": 521,
+    "followers": 1171,
+    "privateContributions": 16,
+    "publicContributions": 518,
     "createdAt": "2025-04-08T14:12:13Z"
   },
   {
     "login": "Obraims",
     "name": "Stephen Baraka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194851135?s=72&u=2605facf08207632b13f344f4eadcae1a8512702&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194851135?s=72&u=3303cfaed43245a4875f6f9aa0158d68a9c343bf&v=4",
     "location": "kenya",
-    "company": " Open University of Kenya (OUK)",
+    "company": "Maseno University (MU)",
     "twitterUsername": "",
-    "followers": 961,
-    "privateContributions": 2981,
-    "publicContributions": 75,
+    "followers": 1090,
+    "privateContributions": 7482,
+    "publicContributions": 287,
     "createdAt": "2025-01-13T21:11:00Z"
   },
   {
@@ -3558,9 +3546,9 @@
     "location": "Nairobi,Kenya.",
     "company": "Safaricom PLC",
     "twitterUsername": "Wuod_Nyasaye",
-    "followers": 845,
-    "privateContributions": 1752,
-    "publicContributions": 1278,
+    "followers": 823,
+    "privateContributions": 1144,
+    "publicContributions": 1267,
     "createdAt": "2025-02-20T07:32:53Z"
   },
   {
@@ -3568,11 +3556,11 @@
     "name": "Maurice Gift",
     "avatarUrl": "https://avatars.githubusercontent.com/u/200888291?s=72&u=c79e1e8dae546e3d9f92b3613d7e8aa4f3764080&v=4",
     "location": "Eldoret, Kenya",
-    "company": "@GiftedTech-Nexus",
+    "company": "@gifted-solstice ",
     "twitterUsername": "",
-    "followers": 412,
+    "followers": 421,
     "privateContributions": 0,
-    "publicContributions": 118789,
+    "publicContributions": 158347,
     "createdAt": "2025-02-26T05:06:32Z"
   },
   {
@@ -3582,34 +3570,22 @@
     "location": "Nairobi, Kenya",
     "company": "",
     "twitterUsername": "OkelloElly018",
-    "followers": 306,
+    "followers": 379,
     "privateContributions": 0,
-    "publicContributions": 431,
+    "publicContributions": 581,
     "createdAt": "2025-01-15T09:07:31Z"
   },
   {
     "login": "vertigo0628",
-    "name": "vertiGO",
+    "name": "vertiGO.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/212186644?s=72&u=8e94178eb3ffc3aa48f02f110a54d701b72173d9&v=4",
     "location": "kenya",
-    "company": "VERTIGO",
+    "company": "ConnectInc-Official",
     "twitterUsername": "Vertigo0628",
-    "followers": 199,
-    "privateContributions": 662,
-    "publicContributions": 381,
+    "followers": 208,
+    "privateContributions": 1451,
+    "publicContributions": 435,
     "createdAt": "2025-05-18T02:43:23Z"
-  },
-  {
-    "login": "K1nkyio",
-    "name": "Nicholas Maina Mureithi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216002388?s=72&u=823ef171e13715f38dd68841aa0048e701d5174f&v=4",
-    "location": "Kenya",
-    "company": "KinkyIT",
-    "twitterUsername": "",
-    "followers": 115,
-    "privateContributions": 0,
-    "publicContributions": 13,
-    "createdAt": "2025-06-12T11:11:51Z"
   },
   {
     "login": "Anambomax",
@@ -3618,7 +3594,7 @@
     "location": "kenya",
     "company": "cloudsoft kenya",
     "twitterUsername": "",
-    "followers": 85,
+    "followers": 78,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-01T18:28:11Z"
@@ -3630,9 +3606,9 @@
     "location": "Nairobi, Kenya, Africa, Earth, Milky Way Galaxy.",
     "company": "",
     "twitterUsername": "shad0wlord56",
-    "followers": 84,
-    "privateContributions": 714,
-    "publicContributions": 224,
+    "followers": 88,
+    "privateContributions": 463,
+    "publicContributions": 239,
     "createdAt": "2025-03-04T17:59:02Z"
   },
   {
@@ -3644,7 +3620,7 @@
     "twitterUsername": "",
     "followers": 77,
     "privateContributions": 0,
-    "publicContributions": 354,
+    "publicContributions": 335,
     "createdAt": "2025-02-08T08:02:10Z"
   },
   {
@@ -3654,9 +3630,9 @@
     "location": "Nairobi,Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 75,
-    "privateContributions": 38,
-    "publicContributions": 534,
+    "followers": 68,
+    "privateContributions": 23,
+    "publicContributions": 529,
     "createdAt": "2025-05-19T08:04:30Z"
   },
   {
@@ -3666,9 +3642,9 @@
     "location": "Nairobi, Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 73,
+    "followers": 70,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 48,
     "createdAt": "2025-02-01T11:08:03Z"
   },
   {

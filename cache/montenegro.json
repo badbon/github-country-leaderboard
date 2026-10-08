@@ -3752,7 +3752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 9,
     "createdAt": "2020-04-29T08:33:53Z"
   },
   {
@@ -3763,8 +3763,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 0,
+    "privateContributions": 109,
+    "publicContributions": 2,
     "createdAt": "2020-11-05T20:11:29Z"
   },
   {
@@ -3824,7 +3824,7 @@
     "twitterUsername": "element_1965",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2020-03-25T23:42:48Z"
   },
   {
@@ -3835,7 +3835,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
+    "privateContributions": 25,
     "publicContributions": 0,
     "createdAt": "2020-06-05T16:15:29Z"
   },
@@ -3884,7 +3884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2020-08-18T13:49:11Z"
   },
   {
@@ -3930,7 +3930,7 @@
     "location": "Budva, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-28T07:32:37Z"
@@ -3955,7 +3955,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 528,
+    "privateContributions": 638,
     "publicContributions": 0,
     "createdAt": "2020-02-01T14:06:58Z"
   },
@@ -10822,5 +10822,29 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2009-11-21T04:30:12Z"
+  },
+  {
+    "login": "beautyofhelin",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290999324?s=72&u=a04f2abda3b5569ae204dc98576601b508241371&v=4",
+    "location": "Montenegro",
+    "company": "",
+    "twitterUsername": "beautyofhelin",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-06-05T09:58:54Z"
+  },
+  {
+    "login": "atssk",
+    "name": "Artem Titov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285358262?s=72&v=4",
+    "location": "Budva, Montenegro",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-17T06:43:57Z"
   }
 ]

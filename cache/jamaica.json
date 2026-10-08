@@ -3788,7 +3788,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 2,
     "createdAt": "2021-10-31T17:24:05Z"
   },
   {
@@ -3850,18 +3850,6 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2021-02-05T02:21:33Z"
-  },
-  {
-    "login": "williamlittle423",
-    "name": "William Little",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77585587?s=72&v=4",
-    "location": "Kingston, ON",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 36,
-    "createdAt": "2021-01-17T18:17:27Z"
   },
   {
     "login": "i-lehmann",
@@ -3930,7 +3918,7 @@
     "location": "Kingston, NS",
     "company": "Watts Up Solar LTD",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-20T17:24:59Z"
@@ -3956,7 +3944,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 47,
     "createdAt": "2021-04-15T16:20:46Z"
   },
   {
@@ -3992,7 +3980,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 56,
     "createdAt": "2021-06-29T17:46:32Z"
   },
   {
@@ -4003,7 +3991,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 250,
+    "privateContributions": 256,
     "publicContributions": 0,
     "createdAt": "2020-12-31T00:51:57Z"
   },

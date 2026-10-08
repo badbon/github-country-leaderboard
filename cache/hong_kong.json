@@ -3656,7 +3656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 0,
     "createdAt": "2025-01-01T10:51:53Z"
   },
   {
@@ -3679,21 +3679,9 @@
     "company": "The Chinese University of Hong Kong",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 110,
+    "privateContributions": 25,
+    "publicContributions": 141,
     "createdAt": "2025-11-10T03:51:25Z"
-  },
-  {
-    "login": "YirenG-282",
-    "name": "CHEN Yireng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/250121801?s=72&u=da692ce56ae9a1ea01a086b14932a8f599085d52&v=4",
-    "location": "Hong Kong",
-    "company": "City University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-12-17T10:10:52Z"
   },
   {
     "login": "jeffreyip2020",
@@ -3704,7 +3692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-07T08:00:11Z"
   },
   {
@@ -3728,7 +3716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 3,
     "createdAt": "2025-07-27T14:40:24Z"
   },
   {
@@ -3786,9 +3774,9 @@
     "location": "Hong Kong",
     "company": "DDDD Community",
     "twitterUsername": "DDDD_PUMP_GO",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2025-04-01T04:32:48Z"
   },
   {
@@ -3799,8 +3787,8 @@
     "company": "HongKong Baptist University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 17,
+    "privateContributions": 111,
+    "publicContributions": 15,
     "createdAt": "2025-08-27T04:18:20Z"
   },
   {
@@ -3812,7 +3800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 173,
+    "publicContributions": 183,
     "createdAt": "2025-01-14T04:30:16Z"
   },
   {
@@ -3822,22 +3810,10 @@
     "location": "Hong Kong",
     "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 98,
-    "publicContributions": 118,
+    "followers": 3,
+    "privateContributions": 142,
+    "publicContributions": 101,
     "createdAt": "2025-09-14T19:51:23Z"
-  },
-  {
-    "login": "qihuaericlee-sys",
-    "name": "Qihua Eric Lee",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229865450?s=72&u=809b2f67d754ab7205af4ac63af325efcf68506c&v=4",
-    "location": "Hong Kong",
-    "company": "HKBU",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 29,
-    "createdAt": "2025-09-02T02:58:12Z"
   },
   {
     "login": "stefvphen",
@@ -3846,9 +3822,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 146,
+    "publicContributions": 189,
     "createdAt": "2025-09-03T07:55:17Z"
   },
   {
@@ -3860,7 +3836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2025-02-15T18:03:47Z"
   },
   {
@@ -62412,18 +62388,6 @@
     "createdAt": "2018-03-23T00:44:42Z"
   },
   {
-    "login": "JamesLiu12",
-    "name": "Liu Sizhe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/39219648?s=72&u=c9534657ff09a7ce3ce42ab1b33f68d0c43a2385&v=4",
-    "location": "Hong Kong",
-    "company": "The University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 924,
-    "createdAt": "2018-05-12T14:55:34Z"
-  },
-  {
     "login": "kaylaradf",
     "name": "K.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/43864875?s=72&u=4f9c5e226eaf22f78468f192b4e8c818f61c9f88&v=4",
@@ -71010,9 +70974,9 @@
     "location": "Hong Kong, China",
     "company": "HKUST",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 367,
-    "publicContributions": 109,
+    "followers": 17,
+    "privateContributions": 390,
+    "publicContributions": 140,
     "createdAt": "2017-12-17T08:42:08Z"
   },
   {
@@ -71192,7 +71156,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2017-12-17T10:19:26Z"
   },
   {
@@ -71574,8 +71538,8 @@
     "location": "Hong Kong, China",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 1619,
+    "followers": 12,
+    "privateContributions": 1105,
     "publicContributions": 1042,
     "createdAt": "2017-12-27T16:30:10Z"
   },
@@ -71982,7 +71946,7 @@
     "location": "Hong Kong, China",
     "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2017-12-19T16:27:05Z"
@@ -72416,7 +72380,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 94,
     "createdAt": "2017-12-18T07:52:53Z"
   },
   {

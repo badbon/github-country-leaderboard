@@ -3776,7 +3776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 48,
-    "publicContributions": 255,
+    "publicContributions": 267,
     "createdAt": "2023-10-02T13:28:09Z"
   },
   {
@@ -3800,7 +3800,7 @@
     "twitterUsername": "2b3dev",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 103,
     "createdAt": "2023-07-03T02:42:24Z"
   },
   {
@@ -3808,11 +3808,11 @@
     "name": "Ivo Vallejos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/143960247?s=72&u=f39231c7bedd6961e2556dfb387bde2dffea675a&v=4",
     "location": "Paraguay",
-    "company": "@5dias",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 59,
-    "publicContributions": 76,
+    "privateContributions": 67,
+    "publicContributions": 50,
     "createdAt": "2023-09-03T17:58:53Z"
   },
   {
@@ -3870,7 +3870,7 @@
     "location": "Asunción, Paraguay",
     "company": "",
     "twitterUsername": "Marcegonz19",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 60,
     "createdAt": "2023-08-02T23:09:09Z"
@@ -3884,7 +3884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 17,
     "createdAt": "2023-03-03T13:42:25Z"
   },
   {
@@ -3960,18 +3960,6 @@
     "createdAt": "2023-08-17T15:31:55Z"
   },
   {
-    "login": "EmanuelSchaefer",
-    "name": "Emanuel Schäfer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127512367?s=72&u=302f2d7b5778f3a3f2f0dce8fcc0c3794c8da42d&v=4",
-    "location": "Hohenau, Paraguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-03-10T13:58:28Z"
-  },
-  {
     "login": "fedef3de",
     "name": "Federico",
     "avatarUrl": "https://avatars.githubusercontent.com/u/129570166?s=72&v=4",
@@ -3991,7 +3979,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 571,
     "publicContributions": 0,
     "createdAt": "2023-10-05T16:50:20Z"
   },
@@ -4003,8 +3991,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 110,
+    "privateContributions": 431,
+    "publicContributions": 70,
     "createdAt": "2023-01-29T13:53:51Z"
   },
   {

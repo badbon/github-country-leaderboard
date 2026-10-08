@@ -3596,7 +3596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 5,
     "createdAt": "2024-11-20T17:33:52Z"
   },
   {
@@ -3606,7 +3606,7 @@
     "location": "Iraq ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2024-05-03T07:56:18Z"
@@ -3619,8 +3619,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 71,
+    "privateContributions": 5289,
+    "publicContributions": 73,
     "createdAt": "2024-05-31T14:32:39Z"
   },
   {
@@ -3631,7 +3631,7 @@
     "company": "@SwibitAI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 164,
+    "privateContributions": 81,
     "publicContributions": 2,
     "createdAt": "2024-12-24T19:37:10Z"
   },
@@ -3648,27 +3648,15 @@
     "createdAt": "2024-05-27T18:07:09Z"
   },
   {
-    "login": "x7do0",
-    "name": "Haidara Muhanned",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183466943?s=72&u=d8cff16640be21af8278a18584c17d16eb0e7c75&v=4",
-    "location": "Najaf, Iraq",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 312,
-    "createdAt": "2024-10-01T06:33:52Z"
-  },
-  {
     "login": "F66t",
     "name": "Fast",
     "avatarUrl": "https://avatars.githubusercontent.com/u/187456162?s=72&u=30ec583a4065aa4fec3277f9255a63b8e51ea8a9&v=4",
     "location": "Iraq",
     "company": "",
     "twitterUsername": "A11K99",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2024-11-05T21:56:06Z"
   },
   {
@@ -3692,7 +3680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 12,
     "createdAt": "2024-06-02T13:54:16Z"
   },
   {

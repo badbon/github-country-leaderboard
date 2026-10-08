@@ -3564,25 +3564,13 @@
     "createdAt": "2022-03-17T18:38:34Z"
   },
   {
-    "login": "demirhalilbasic",
-    "name": "Demir Halilbašić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117943668?s=72&u=16752d55898d80502a179500e546d8788d5272cb&v=4",
-    "location": "Živinice, Bosnia and Herzegovina",
-    "company": "IPI Academy Tuzla",
-    "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 5,
-    "publicContributions": 57,
-    "createdAt": "2022-11-10T19:32:52Z"
-  },
-  {
     "login": "NermanLegacy",
     "name": "Nerman",
     "avatarUrl": "https://avatars.githubusercontent.com/u/112647019?s=72&v=4",
     "location": "Bosnia and Herzegovina",
     "company": "@openmultiplayer",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-01T16:06:47Z"
@@ -3594,7 +3582,7 @@
     "location": "Mostar, Bosnia and Herzegovina",
     "company": "@nsftx ",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-04T08:03:39Z"
@@ -3608,7 +3596,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 78,
     "createdAt": "2022-05-08T20:38:54Z"
   },
   {
@@ -3620,7 +3608,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 3,
-    "publicContributions": 12,
+    "publicContributions": 1,
     "createdAt": "2022-01-25T09:16:30Z"
   },
   {
@@ -3632,7 +3620,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 643,
-    "publicContributions": 115,
+    "publicContributions": 58,
     "createdAt": "2022-08-18T23:40:23Z"
   },
   {
@@ -3656,7 +3644,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 17,
     "createdAt": "2022-10-28T15:50:42Z"
   },
   {
@@ -3680,7 +3668,7 @@
     "twitterUsername": "SaidRasinlic",
     "followers": 11,
     "privateContributions": 60,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2022-11-23T14:37:30Z"
   },
   {
@@ -3688,24 +3676,12 @@
     "name": "Tarik Ćosović",
     "avatarUrl": "https://avatars.githubusercontent.com/u/97788432?s=72&u=8f09bf1ec4e8eadbcee12695ded3985464221515&v=4",
     "location": "Sarajevo, Bosnia and Herzegovina",
-    "company": "SAAISolutions",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 57,
-    "publicContributions": 0,
-    "createdAt": "2022-01-15T11:32:02Z"
-  },
-  {
-    "login": "tarikcacak",
-    "name": "Tarik Čačković",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113112797?s=72&u=11441a79b57ed7fc4c9027e8d692e1882f63ed54&v=4",
-    "location": "Tuzla, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 27,
-    "createdAt": "2022-09-08T12:37:50Z"
+    "privateContributions": 48,
+    "publicContributions": 18,
+    "createdAt": "2022-01-15T11:32:02Z"
   },
   {
     "login": "amujkic1",
@@ -3716,7 +3692,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 215,
+    "publicContributions": 174,
     "createdAt": "2022-10-16T20:09:20Z"
   },
   {
@@ -3750,7 +3726,7 @@
     "location": "Sarajevo, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 9,
     "publicContributions": 118,
     "createdAt": "2022-10-25T20:34:51Z"
@@ -3774,8 +3750,8 @@
     "location": "Sarajevo, Bosnia and Herzegovina",
     "company": "Engineering Insights",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 440,
+    "followers": 9,
+    "privateContributions": 450,
     "publicContributions": 12,
     "createdAt": "2022-08-14T09:51:09Z"
   },
@@ -3786,9 +3762,9 @@
     "location": "Sanski Most, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 30,
     "createdAt": "2022-06-07T18:19:55Z"
   },
   {

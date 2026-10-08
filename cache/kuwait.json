@@ -3656,7 +3656,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 2,
-    "publicContributions": 1,
+    "publicContributions": 12,
     "createdAt": "2020-10-22T15:09:28Z"
   },
   {
@@ -3704,7 +3704,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 39,
-    "publicContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2020-10-18T19:46:19Z"
   },
   {
@@ -3764,19 +3764,19 @@
     "twitterUsername": "osamaarshad1",
     "followers": 2,
     "privateContributions": 1,
-    "publicContributions": 41,
+    "publicContributions": 42,
     "createdAt": "2020-02-14T15:43:37Z"
   },
   {
     "login": "erfanveisi2",
-    "name": "Erfan",
+    "name": "Erfan Veisi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/74925303?s=72&u=baa00a5b26f370c9bc0fa0a7d2da91c73be533fe&v=4",
     "location": "Kuwait",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 180,
-    "publicContributions": 7,
+    "privateContributions": 274,
+    "publicContributions": 20,
     "createdAt": "2020-11-23T17:15:32Z"
   },
   {

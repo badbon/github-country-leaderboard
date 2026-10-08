@@ -3792,18 +3792,6 @@
     "createdAt": "2020-05-08T18:41:43Z"
   },
   {
-    "login": "nunomelo98",
-    "name": "Nuno Melo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67382746?s=72&u=795045cc26e7d8f6a268da4c432ce331c4ebbc16&v=4",
-    "location": "Cape Verde, Mindelo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 32,
-    "publicContributions": 0,
-    "createdAt": "2020-06-24T15:50:05Z"
-  },
-  {
     "login": "lukas8219",
     "name": "Lucas Weis Polesello",
     "avatarUrl": "https://avatars.githubusercontent.com/u/75316334?s=72&u=5d3fed304d1c08d9e44423578652e1ce3fc93dce&v=4",
@@ -3811,7 +3799,7 @@
     "company": "@cloudamqp @84codes ",
     "twitterUsername": "luucaspole",
     "followers": 138,
-    "privateContributions": 688,
+    "privateContributions": 681,
     "publicContributions": 175,
     "createdAt": "2020-12-01T13:10:03Z"
   },
@@ -3822,7 +3810,7 @@
     "location": "Praia Grande - SP - Brazil",
     "company": "",
     "twitterUsername": "",
-    "followers": 89,
+    "followers": 88,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-13T17:53:19Z"
@@ -3834,9 +3822,9 @@
     "location": "Praia Grande - SP",
     "company": "Usiminas",
     "twitterUsername": "",
-    "followers": 47,
-    "privateContributions": 761,
-    "publicContributions": 70,
+    "followers": 45,
+    "privateContributions": 1001,
+    "publicContributions": 71,
     "createdAt": "2020-05-26T02:46:08Z"
   },
   {
@@ -3846,9 +3834,9 @@
     "location": "Praia Grande, SP",
     "company": "IBM",
     "twitterUsername": "",
-    "followers": 38,
+    "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 29,
     "createdAt": "2020-06-03T00:17:11Z"
   },
   {
@@ -3860,7 +3848,7 @@
     "twitterUsername": "",
     "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 164,
     "createdAt": "2020-01-03T07:28:39Z"
   },
   {
@@ -3870,9 +3858,9 @@
     "location": "Praia Grande - SP",
     "company": "",
     "twitterUsername": "devjusan",
-    "followers": 29,
+    "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 38,
     "createdAt": "2020-06-11T21:12:49Z"
   },
   {
@@ -3882,9 +3870,9 @@
     "location": "Praia Grande - SP",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 0,
-    "publicContributions": 48,
+    "followers": 27,
+    "privateContributions": 3,
+    "publicContributions": 50,
     "createdAt": "2020-04-07T22:13:25Z"
   },
   {
@@ -3895,7 +3883,7 @@
     "company": "Becotec, lda",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 5,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2020-01-21T11:52:05Z"
   },
@@ -3906,7 +3894,7 @@
     "location": "Praia Grande - SP",
     "company": "Everymind",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-27T14:27:21Z"
@@ -3918,9 +3906,9 @@
     "location": "Praia, Cabo Verde",
     "company": "",
     "twitterUsername": "Xibinhoo",
-    "followers": 22,
-    "privateContributions": 226,
-    "publicContributions": 10,
+    "followers": 26,
+    "privateContributions": 243,
+    "publicContributions": 12,
     "createdAt": "2020-05-25T17:53:14Z"
   },
   {
@@ -3932,7 +3920,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 23,
     "createdAt": "2020-12-13T17:18:03Z"
   },
   {
@@ -3942,9 +3930,9 @@
     "location": "Praia, Cabo Verde",
     "company": "Universidade de Cabo Verde FCT",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 674,
-    "publicContributions": 14,
+    "followers": 20,
+    "privateContributions": 656,
+    "publicContributions": 12,
     "createdAt": "2020-09-18T18:59:17Z"
   },
   {
@@ -3954,7 +3942,7 @@
     "location": "Praia Grande",
     "company": "Dshow",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2020-04-06T01:34:31Z"
@@ -3980,7 +3968,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 240,
+    "publicContributions": 197,
     "createdAt": "2020-06-26T17:01:10Z"
   },
   {
@@ -4002,9 +3990,9 @@
     "location": "Praia Grande -SP",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2020-11-16T00:20:52Z"
   },
   {
@@ -4016,7 +4004,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 0,
     "createdAt": "2020-05-10T06:43:06Z"
   },
   {
@@ -4026,9 +4014,9 @@
     "location": "Praia, Cabo Verde",
     "company": "Cabo Verde Broadcast",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 91,
-    "publicContributions": 22,
+    "followers": 13,
+    "privateContributions": 68,
+    "publicContributions": 29,
     "createdAt": "2020-05-25T02:26:20Z"
   },
   {

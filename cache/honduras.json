@@ -3799,8 +3799,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2,
-    "publicContributions": 82,
+    "privateContributions": 0,
+    "publicContributions": 20,
     "createdAt": "2021-06-11T01:08:25Z"
   },
   {
@@ -3824,7 +3824,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2021-06-30T03:36:30Z"
   },
   {
@@ -3835,8 +3835,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 169,
-    "publicContributions": 47,
+    "privateContributions": 147,
+    "publicContributions": 21,
     "createdAt": "2021-07-26T21:31:48Z"
   },
   {
@@ -3906,9 +3906,9 @@
     "location": "Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 637,
-    "publicContributions": 1,
+    "followers": 4,
+    "privateContributions": 703,
+    "publicContributions": 2,
     "createdAt": "2021-04-06T17:02:44Z"
   },
   {
@@ -3942,9 +3942,9 @@
     "location": "Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 3776,
-    "publicContributions": 22,
+    "followers": 3,
+    "privateContributions": 8095,
+    "publicContributions": 21,
     "createdAt": "2021-03-06T08:21:38Z"
   },
   {
@@ -3992,19 +3992,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2021-04-21T16:42:23Z"
   },
   {
     "login": "Margissx",
     "name": "Mary Gissel Alvarado Raudales",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85258608?s=72&u=e7ee87914bc3c44df0f9405df97cc86876b3f762&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85258608?s=72&u=702fcccde955df700d87f8a0f16b5714b326630f&v=4",
     "location": "Honduras",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "giagssl",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 352,
     "createdAt": "2021-06-02T21:08:42Z"
   },
   {
@@ -4012,11 +4012,11 @@
     "name": "Edgardo Zúniga Rosales",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80351632?s=72&u=c35dc2a742b51194d80626a0c4af0be798eca3ed&v=4",
     "location": "Honduras",
-    "company": "UP Studio",
+    "company": "Tally Latam & Grupo Aduo",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1931,
-    "publicContributions": 1,
+    "privateContributions": 2899,
+    "publicContributions": 2,
     "createdAt": "2021-03-09T17:28:27Z"
   },
   {

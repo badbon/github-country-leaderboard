@@ -3552,18 +3552,6 @@
     "createdAt": "2016-04-02T02:29:41Z"
   },
   {
-    "login": "Plaisir93",
-    "name": "Pierre Charles",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18504912?s=72&u=05b16f37cc52190137c007305a9c53971c681ce2&v=4",
-    "location": "Port-au-Prince, Haiti.",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-04-16T18:52:23Z"
-  },
-  {
     "login": "rodneyp079",
     "name": "PETIT-FRERE Rodney",
     "avatarUrl": "https://avatars.githubusercontent.com/u/17628867?s=72&u=8e7e442d465f6131db2afb22b86c91436f1cbefd&v=4",
@@ -3606,7 +3594,7 @@
     "location": "Port-au-Prince",
     "company": "Code Handler",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-03-29T19:58:17Z"
@@ -3620,7 +3608,7 @@
     "twitterUsername": "",
     "followers": 71,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 1,
     "createdAt": "2015-03-01T12:40:48Z"
   },
   {
@@ -3630,9 +3618,9 @@
     "location": "Delmas 41, Ouest, Haiti",
     "company": "@TransitDigitale @Megalobiz ",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 531,
-    "publicContributions": 3,
+    "followers": 32,
+    "privateContributions": 466,
+    "publicContributions": 37,
     "createdAt": "2015-08-30T15:35:54Z"
   },
   {
@@ -3655,8 +3643,8 @@
     "company": "@CarisFoundation @YoopleCorp @MLHaiti @FDS",
     "twitterUsername": "thecassion",
     "followers": 31,
-    "privateContributions": 802,
-    "publicContributions": 99,
+    "privateContributions": 1348,
+    "publicContributions": 103,
     "createdAt": "2015-06-03T12:20:55Z"
   },
   {
@@ -3679,8 +3667,8 @@
     "company": "NouKod",
     "twitterUsername": "gilbert_4_real",
     "followers": 17,
-    "privateContributions": 156,
-    "publicContributions": 116,
+    "privateContributions": 113,
+    "publicContributions": 124,
     "createdAt": "2015-05-25T18:29:01Z"
   },
   {
@@ -3691,7 +3679,7 @@
     "company": "Université Quisqueya",
     "twitterUsername": "CadetRaulin",
     "followers": 11,
-    "privateContributions": 169,
+    "privateContributions": 204,
     "publicContributions": 0,
     "createdAt": "2015-03-05T08:58:54Z"
   },

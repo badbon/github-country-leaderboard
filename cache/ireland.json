@@ -3716,7 +3716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 39,
     "createdAt": "2025-10-22T14:53:58Z"
   },
   {
@@ -3764,19 +3764,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 46,
     "createdAt": "2025-04-01T16:22:38Z"
   },
   {
     "login": "Feargal-Browne",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223126930?s=72&v=4",
+    "name": "Feargal Browne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/223126930?s=72&u=b728745f9fba15b05c277184c6eb640bfd840368&v=4",
     "location": "Dublin, Ireland",
-    "company": "Cantivia Ltd",
+    "company": "@cantivia ",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1235,
-    "publicContributions": 117,
+    "followers": 6,
+    "privateContributions": 1912,
+    "publicContributions": 108,
     "createdAt": "2025-07-27T14:53:34Z"
   },
   {
@@ -3788,20 +3788,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 10,
     "createdAt": "2025-08-14T15:54:53Z"
-  },
-  {
-    "login": "Anicodes18",
-    "name": "AniketRane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196198100?s=72&v=4",
-    "location": "Dublin, Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 115,
-    "createdAt": "2025-01-23T13:36:53Z"
   },
   {
     "login": "laddtnov",
@@ -3810,9 +3798,9 @@
     "location": "Drogheda,Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1692,
-    "publicContributions": 655,
+    "followers": 2,
+    "privateContributions": 1053,
+    "publicContributions": 2166,
     "createdAt": "2025-12-08T15:50:21Z"
   },
   {
@@ -3822,7 +3810,7 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 343,
     "createdAt": "2025-12-01T18:42:58Z"
@@ -3834,9 +3822,9 @@
     "location": "Ireland",
     "company": "Z-TEAM",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 346,
+    "publicContributions": 394,
     "createdAt": "2025-11-15T21:32:38Z"
   },
   {
@@ -3848,7 +3836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 53,
     "createdAt": "2025-09-14T16:58:02Z"
   },
   {
@@ -3860,7 +3848,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 41,
     "createdAt": "2025-05-07T14:36:28Z"
   },
   {
@@ -3895,8 +3883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 302,
-    "publicContributions": 33,
+    "privateContributions": 299,
+    "publicContributions": 26,
     "createdAt": "2025-03-30T11:02:49Z"
   },
   {
@@ -3912,25 +3900,13 @@
     "createdAt": "2025-08-05T15:11:57Z"
   },
   {
-    "login": "viraj-pwr",
-    "name": "Viraj Pawar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201005300?s=72&u=c48cadb23eea976382f64d3c751166ce57466058&v=4",
-    "location": "Ireland",
-    "company": "Freelancer",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2025-02-26T20:41:53Z"
-  },
-  {
     "login": "VelenTikhonov",
     "name": "velentikhonov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/206700941?s=72&u=807054ae32c3e07f989c56b651040ee0f7febd11&v=4",
     "location": "Ireland, Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 186,
     "createdAt": "2025-04-08T11:23:06Z"

@@ -3528,18 +3528,6 @@
     "createdAt": "2023-04-11T05:44:13Z"
   },
   {
-    "login": "Janybek2007",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142876226?s=72&v=4",
-    "location": "Kyrgyzstan , Bishkek",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-08-22T07:03:53Z"
-  },
-  {
     "login": "manziro785",
     "name": "Tilekmat Azhygulov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/144218096?s=72&u=aa8ab481dbc56c34987a0b859a1df3ab13b46a4b&v=4",
@@ -3548,7 +3536,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 139,
     "createdAt": "2023-09-06T08:18:54Z"
   },
   {
@@ -3558,9 +3546,9 @@
     "location": "Bishkek, Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 7,
-    "publicContributions": 0,
+    "followers": 5,
+    "privateContributions": 9,
+    "publicContributions": 17,
     "createdAt": "2023-01-25T13:50:07Z"
   },
   {
@@ -3582,9 +3570,9 @@
     "location": "Kyrgyzstan",
     "company": "Nevo DEVS",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 25,
     "createdAt": "2023-01-16T09:59:11Z"
   },
   {
@@ -3608,7 +3596,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 10,
-    "publicContributions": 24,
+    "publicContributions": 26,
     "createdAt": "2023-10-02T11:26:20Z"
   },
   {
@@ -3655,8 +3643,8 @@
     "company": "ACScorp",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 34,
-    "publicContributions": 0,
+    "privateContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2023-09-14T08:11:13Z"
   },
   {
@@ -3666,9 +3654,9 @@
     "location": "Kyrgyzstan",
     "company": "KTU Manas",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 3,
-    "publicContributions": 77,
+    "publicContributions": 73,
     "createdAt": "2023-12-19T13:34:37Z"
   },
   {
@@ -3686,13 +3674,13 @@
   {
     "login": "Rinat2023",
     "name": "Rinat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139107607?s=72&u=7dcecc5f4f9e2b1130c87a24d512017e03b7278f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139107607?s=72&v=4",
     "location": "Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2023-07-10T07:01:25Z"
   },
   {
@@ -3709,14 +3697,14 @@
   },
   {
     "login": "Taskov1ch",
-    "name": "Tynaev Askhat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154591704?s=72&v=4",
+    "name": "Askhat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154591704?s=72&u=26ce23932754fde9f0b0e416a93244277b1ed265&v=4",
     "location": "Kyrgyzstan",
     "company": "@task-v1 @BANedetta @Taskov1ch-Repos",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 208,
+    "publicContributions": 480,
     "createdAt": "2023-12-22T09:22:19Z"
   },
   {
@@ -3727,7 +3715,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 484,
+    "privateContributions": 206,
     "publicContributions": 0,
     "createdAt": "2023-06-26T13:07:12Z"
   },
