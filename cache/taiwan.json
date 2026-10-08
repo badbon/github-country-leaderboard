@@ -2972,7 +2972,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 40,
     "createdAt": "2025-09-19T16:06:57Z"
   },
   {
@@ -2984,7 +2984,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2025-07-30T02:25:59Z"
   },
   {
@@ -2996,7 +2996,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 12,
     "createdAt": "2025-11-27T09:22:16Z"
   },
   {
@@ -3008,7 +3008,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 88,
     "createdAt": "2025-08-08T10:36:04Z"
   },
   {
@@ -3020,7 +3020,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 4,
-    "publicContributions": 22,
+    "publicContributions": 24,
     "createdAt": "2025-10-12T14:54:25Z"
   },
   {
@@ -3032,31 +3032,31 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 219,
+    "publicContributions": 258,
     "createdAt": "2025-10-15T03:45:42Z"
   },
   {
     "login": "Br1anYu",
     "name": "Br1anYu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/233902384?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233902384?s=72&u=e57a713cf757d3e4b64840bfd26cd76c2dac9d66&v=4",
     "location": "Taiwan/New Taipei City",
     "company": "THU",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 2,
     "createdAt": "2025-09-23T05:30:22Z"
   },
   {
     "login": "ytcheng-lab",
-    "name": "Yutung",
+    "name": "Yu-Tung Cheng",
     "avatarUrl": "https://avatars.githubusercontent.com/u/219398764?s=72&u=6ed3a3301564819588c9384816f8f545775ef381&v=4",
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 17,
     "createdAt": "2025-07-05T08:31:38Z"
   },
   {
@@ -3068,7 +3068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 0,
     "createdAt": "2025-07-20T14:42:12Z"
   },
   {
@@ -3080,7 +3080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 7,
     "createdAt": "2025-09-14T09:22:58Z"
   },
   {
@@ -3090,9 +3090,9 @@
     "location": "Taipei Taiwan",
     "company": "Team.U＆I",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-09-25T18:31:50Z"
   },
   {
@@ -3104,7 +3104,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-08-11T09:55:35Z"
   },
   {
@@ -3116,7 +3116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 74,
     "createdAt": "2025-08-11T01:28:40Z"
   },
   {
@@ -3128,7 +3128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 156,
+    "publicContributions": 107,
     "createdAt": "2025-09-04T15:07:38Z"
   },
   {
@@ -3140,7 +3140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 86,
     "createdAt": "2025-09-09T07:51:17Z"
   },
   {
@@ -3164,7 +3164,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 630,
+    "publicContributions": 589,
     "createdAt": "2025-08-09T02:28:49Z"
   },
   {
@@ -3176,7 +3176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-09-11T10:56:51Z"
   },
   {
@@ -3200,7 +3200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1175,
+    "publicContributions": 1162,
     "createdAt": "2025-06-29T14:58:07Z"
   },
   {
@@ -109182,9 +109182,9 @@
     "location": "Republic of China, Taiwan",
     "company": "",
     "twitterUsername": "Kimi898_TW",
-    "followers": 34,
-    "privateContributions": 9,
-    "publicContributions": 204,
+    "followers": 35,
+    "privateContributions": 10,
+    "publicContributions": 459,
     "createdAt": "2017-12-02T06:03:40Z"
   },
   {

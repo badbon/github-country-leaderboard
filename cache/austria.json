@@ -3272,7 +3272,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 60,
     "createdAt": "2025-09-17T10:49:10Z"
   },
   {
@@ -3284,7 +3284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 78,
     "createdAt": "2025-09-17T14:30:50Z"
   },
   {
@@ -3296,7 +3296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 46,
     "createdAt": "2025-11-01T18:42:10Z"
   },
   {
@@ -3306,9 +3306,9 @@
     "location": "Graz, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 64,
-    "publicContributions": 59,
+    "followers": 2,
+    "privateContributions": 210,
+    "publicContributions": 50,
     "createdAt": "2025-04-24T22:19:53Z"
   },
   {
@@ -3320,7 +3320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-06-14T17:51:01Z"
   },
   {
@@ -3331,8 +3331,8 @@
     "company": "HTL Grieskirchen",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 104,
-    "publicContributions": 14,
+    "privateContributions": 113,
+    "publicContributions": 13,
     "createdAt": "2025-09-11T07:05:15Z"
   },
   {
@@ -3368,7 +3368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2025-10-03T10:19:55Z"
   },
   {
@@ -3380,7 +3380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-01T13:10:03Z"
   },
   {
@@ -3414,9 +3414,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 89,
     "createdAt": "2025-01-31T17:46:28Z"
   },
   {
@@ -3427,8 +3427,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 52,
-    "publicContributions": 93,
+    "privateContributions": 36,
+    "publicContributions": 10,
     "createdAt": "2025-02-07T13:41:10Z"
   },
   {
@@ -3452,7 +3452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2025-10-08T16:55:09Z"
   },
   {
@@ -3464,7 +3464,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 101,
     "createdAt": "2025-11-21T21:12:21Z"
   },
   {
@@ -219010,5 +219010,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-10-17T08:39:11Z"
+  },
+  {
+    "login": "pavstev",
+    "name": "Stevan Pavlović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170956027?s=72&u=e1b4605d0ea5df4167b3d13f12063a971970d77e&v=4",
+    "location": "Vienna, Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 1919,
+    "publicContributions": 83,
+    "createdAt": "2024-05-27T14:20:46Z"
   }
 ]

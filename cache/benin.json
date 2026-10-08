@@ -3296,7 +3296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2021-09-19T16:30:10Z"
   },
   {
@@ -3306,7 +3306,7 @@
     "location": "Benin, Nigeria",
     "company": "Multi-Choice Global Info Tech ",
     "twitterUsername": "proncoDoe",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-05T14:17:35Z"
@@ -3332,7 +3332,7 @@
     "twitterUsername": "DFouakeu",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 11,
     "createdAt": "2021-11-14T07:06:15Z"
   },
   {
@@ -3368,7 +3368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 4,
     "createdAt": "2021-01-13T20:59:20Z"
   },
   {
@@ -3378,9 +3378,9 @@
     "location": "Pehunco, Atacora, Benin",
     "company": "@SILIDDOR ",
     "twitterUsername": "RLaborantin",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 1,
     "createdAt": "2021-03-21T21:07:58Z"
   },
   {
@@ -3439,8 +3439,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 93,
+    "privateContributions": 135,
+    "publicContributions": 70,
     "createdAt": "2021-06-16T14:31:50Z"
   },
   {
@@ -3452,7 +3452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 1,
     "createdAt": "2021-11-05T18:50:21Z"
   },
   {
@@ -3464,20 +3464,8 @@
     "twitterUsername": "KiansiJustin",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-06-13T21:54:44Z"
-  },
-  {
-    "login": "Corneille9",
-    "name": "Corneille",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85963064?s=72&u=9d1d4369862aaf929575aa4c94e3cea9e1fd724a&v=4",
-    "location": "Porto-Novo",
-    "company": "@Digit Consult",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 1880,
-    "publicContributions": 55,
-    "createdAt": "2021-06-15T19:08:49Z"
   },
   {
     "login": "Zchristian955",
@@ -3486,7 +3474,7 @@
     "location": "Benin",
     "company": "LABEF (University of Abomey Calavi)",
     "twitterUsername": "ChrisCK23683119",
-    "followers": 105,
+    "followers": 98,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-09T15:03:45Z"
@@ -3499,8 +3487,8 @@
     "company": "",
     "twitterUsername": "dev_alade",
     "followers": 92,
-    "privateContributions": 5139,
-    "publicContributions": 686,
+    "privateContributions": 5679,
+    "publicContributions": 793,
     "createdAt": "2020-11-13T22:54:46Z"
   },
   {
@@ -3512,7 +3500,7 @@
     "twitterUsername": "romskakpo",
     "followers": 70,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2020-10-01T09:36:47Z"
   },
   {
@@ -3522,9 +3510,9 @@
     "location": "Benin, Edo State, Nigeria",
     "company": "",
     "twitterUsername": "DevMenor",
-    "followers": 66,
+    "followers": 67,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 113,
     "createdAt": "2020-05-31T21:30:45Z"
   },
   {

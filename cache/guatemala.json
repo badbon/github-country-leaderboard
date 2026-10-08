@@ -38758,5 +38758,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-11-18T18:18:09Z"
+  },
+  {
+    "login": "AdmosaCOO",
+    "name": "Stephan Tinschert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288348082?s=72&u=8ab15aec71904d51de9ff81e7ec4f12723c457b3&v=4",
+    "location": "Guatemala City",
+    "company": "Admosa",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-27T14:18:27Z"
+  },
+  {
+    "login": "jose-giron-27",
+    "name": "José Daniel Girón Cabrera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290068628?s=72&u=a008fba364f65775dae19ab776742ba9c7cfe85d&v=4",
+    "location": "Guatemala City, Guatemala",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2026-06-02T14:50:11Z"
   }
 ]

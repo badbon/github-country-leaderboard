@@ -3080,7 +3080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 84,
     "createdAt": "2023-10-02T21:17:00Z"
   },
   {
@@ -3104,7 +3104,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-11-02T13:32:28Z"
   },
   {
@@ -3127,8 +3127,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 459,
-    "publicContributions": 341,
+    "privateContributions": 412,
+    "publicContributions": 194,
     "createdAt": "2023-03-31T07:51:20Z"
   },
   {
@@ -3150,9 +3150,9 @@
     "location": "Cidade de nampula/maputo/lichinga",
     "company": "",
     "twitterUsername": "ssiixx_666",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 62,
     "createdAt": "2023-07-06T23:15:45Z"
   },
   {
@@ -3162,9 +3162,9 @@
     "location": "Maputo",
     "company": "IPC Global Support Unit - FAO",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 1090,
+    "publicContributions": 1273,
     "createdAt": "2023-12-15T14:29:17Z"
   },
   {
@@ -3176,7 +3176,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2023-01-04T19:53:05Z"
   },
   {
@@ -3186,9 +3186,9 @@
     "location": "Maputo",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2023-06-10T11:00:51Z"
   },
   {
@@ -3200,7 +3200,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 29,
     "createdAt": "2023-11-06T10:51:00Z"
   },
   {
@@ -3211,8 +3211,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 9,
-    "publicContributions": 12,
+    "privateContributions": 96,
+    "publicContributions": 13,
     "createdAt": "2023-06-07T18:41:20Z"
   },
   {
@@ -3223,8 +3223,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 652,
-    "publicContributions": 252,
+    "privateContributions": 723,
+    "publicContributions": 232,
     "createdAt": "2023-08-08T07:24:01Z"
   },
   {
@@ -3234,7 +3234,7 @@
     "location": "Maputo",
     "company": "Papelaria 1997",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-31T02:13:16Z"
@@ -3246,8 +3246,8 @@
     "location": "Cidade de Maputo, Moçambique.",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 33,
+    "followers": 8,
+    "privateContributions": 35,
     "publicContributions": 48,
     "createdAt": "2023-05-01T20:04:52Z"
   },
@@ -3266,13 +3266,13 @@
   {
     "login": "sheltonmacave",
     "name": "Shelton Macave",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/126360377?s=72&u=f7c29d6985e09824a3406885eebcd213160b051d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126360377?s=72&u=77ae2023862d1ef7a9a675e3624c914ad0e2b143&v=4",
     "location": "Maputo",
     "company": "Shelton Macave",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2023-02-25T22:00:07Z"
   },
   {
@@ -3282,9 +3282,9 @@
     "location": "Maputo, Khongolote",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 1,
-    "publicContributions": 21,
+    "publicContributions": 19,
     "createdAt": "2023-06-01T22:46:49Z"
   },
   {
@@ -3294,8 +3294,8 @@
     "location": "Maputo",
     "company": "BivDev, Lda",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 65,
+    "followers": 7,
+    "privateContributions": 74,
     "publicContributions": 130,
     "createdAt": "2023-09-02T06:00:43Z"
   },

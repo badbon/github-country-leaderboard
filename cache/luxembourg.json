@@ -2803,21 +2803,9 @@
     "company": "LNS",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
-    "publicContributions": 1,
-    "createdAt": "2022-12-07T09:31:49Z"
-  },
-  {
-    "login": "ahmed-bhd",
-    "name": "Ahmed BAAHMED",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108900383?s=72&v=4",
-    "location": "Luxembourg",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 75,
-    "createdAt": "2022-07-07T20:24:21Z"
+    "publicContributions": 0,
+    "createdAt": "2022-12-07T09:31:49Z"
   },
   {
     "login": "Fariba-Emami",
@@ -2826,7 +2814,7 @@
     "location": "Luxembourg",
     "company": "university of luxembourg",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-24T18:12:23Z"
@@ -2852,7 +2840,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 485,
+    "publicContributions": 394,
     "createdAt": "2022-09-27T18:03:15Z"
   },
   {
@@ -2864,7 +2852,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 4,
     "createdAt": "2022-04-17T19:33:47Z"
   },
   {
@@ -2960,7 +2948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 22,
     "createdAt": "2022-09-19T12:54:09Z"
   },
   {

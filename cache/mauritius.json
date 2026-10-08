@@ -3068,7 +3068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-07-15T02:40:20Z"
   },
   {
@@ -3103,7 +3103,7 @@
     "company": "",
     "twitterUsername": "Zanbalak",
     "followers": 1,
-    "privateContributions": 8,
+    "privateContributions": 51,
     "publicContributions": 0,
     "createdAt": "2020-11-10T22:52:21Z"
   },
@@ -3128,7 +3128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2020-09-28T06:20:53Z"
   },
   {
@@ -3174,9 +3174,9 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 56,
-    "privateContributions": 1980,
-    "publicContributions": 68,
+    "followers": 60,
+    "privateContributions": 1578,
+    "publicContributions": 74,
     "createdAt": "2019-01-29T17:41:20Z"
   },
   {
@@ -3186,9 +3186,9 @@
     "location": "Mauritius",
     "company": "@RingierIMU ",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 2613,
-    "publicContributions": 27,
+    "followers": 41,
+    "privateContributions": 3355,
+    "publicContributions": 341,
     "createdAt": "2019-03-03T09:38:48Z"
   },
   {
@@ -3210,8 +3210,8 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 1619,
+    "followers": 15,
+    "privateContributions": 1683,
     "publicContributions": 3,
     "createdAt": "2019-09-19T13:27:09Z"
   },
@@ -3223,8 +3223,8 @@
     "company": "XEFI Centre Mauritius",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 927,
-    "publicContributions": 84,
+    "privateContributions": 1404,
+    "publicContributions": 65,
     "createdAt": "2019-01-28T11:12:05Z"
   },
   {
@@ -3234,7 +3234,7 @@
     "location": "Grand Bois, Savanne, Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2019-01-28T14:05:31Z"
@@ -3247,8 +3247,8 @@
     "company": "University of Mauritius",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 179,
-    "publicContributions": 4,
+    "privateContributions": 131,
+    "publicContributions": 6,
     "createdAt": "2019-10-15T07:41:37Z"
   },
   {
@@ -3258,9 +3258,9 @@
     "location": "Mauritius ",
     "company": "OSGuild-HQ",
     "twitterUsername": "rsadiqra",
-    "followers": 7,
-    "privateContributions": 170,
-    "publicContributions": 283,
+    "followers": 9,
+    "privateContributions": 239,
+    "publicContributions": 314,
     "createdAt": "2019-08-08T09:27:04Z"
   },
   {
@@ -3284,7 +3284,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 344,
+    "publicContributions": 404,
     "createdAt": "2019-01-21T15:53:37Z"
   },
   {

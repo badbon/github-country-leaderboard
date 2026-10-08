@@ -69942,9 +69942,9 @@
     "location": "Hong Kong, China",
     "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 35,
+    "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 98,
     "createdAt": "2017-11-21T11:52:31Z"
   },
   {
@@ -123766,5 +123766,89 @@
     "privateContributions": 1017,
     "publicContributions": 21,
     "createdAt": "2017-09-04T13:04:43Z"
+  },
+  {
+    "login": "moozechen",
+    "name": "Mooze",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286855232?s=72&u=b326c26cc71889bcd99bfd1849996e7ee1c9228a&v=4",
+    "location": "Hong Kong",
+    "company": "FlintAPI",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2026-05-22T04:13:46Z"
+  },
+  {
+    "login": "Chloe-MIAOmiao",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285863819?s=72&u=754488416604ff54687f6bc25f9a64956a21ea0c&v=4",
+    "location": "Hong Kong",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-05-19T02:12:51Z"
+  },
+  {
+    "login": "klmiing1229-a11y",
+    "name": "MM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287260099?s=72&u=1139acb2eb713c04cdb1076e7672cffb53de5011&v=4",
+    "location": "Hong Kong",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 56,
+    "createdAt": "2026-05-23T16:13:40Z"
+  },
+  {
+    "login": "wang97870-creator",
+    "name": "Joy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285253989?s=72&u=e14fe4d98648f695c4c13b486318f2d598e37e74&v=4",
+    "location": "Hong Kong",
+    "company": "The University of Hong Kong",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2026-05-16T17:02:37Z"
+  },
+  {
+    "login": "dingyuekan-create",
+    "name": "Dingyue Kan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285689455?s=72&v=4",
+    "location": "Hong Kong",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-18T12:44:36Z"
+  },
+  {
+    "login": "augustliuze",
+    "name": "August Zexuan LIU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290004476?s=72&u=dea33d6d4e2480523d24a61ce9c1916019ec8c42&v=4",
+    "location": "Hong Kong",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-06-02T11:12:34Z"
+  },
+  {
+    "login": "aemeath-ink",
+    "name": "Aemilia M. Shen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287820263?s=72&v=4",
+    "location": "Hong Kong",
+    "company": "@meath-atelier",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-05-25T21:52:31Z"
   }
 ]

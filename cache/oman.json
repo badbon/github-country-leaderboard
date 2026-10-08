@@ -3078,9 +3078,9 @@
     "location": "Muscat, Oman",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2023-08-07T12:55:26Z"
   },
   {
@@ -3090,9 +3090,9 @@
     "location": "Oman",
     "company": "Rihal",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 5,
-    "publicContributions": 113,
+    "followers": 8,
+    "privateContributions": 51,
+    "publicContributions": 141,
     "createdAt": "2023-09-21T17:47:48Z"
   },
   {
@@ -3114,9 +3114,9 @@
     "location": "Oman",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 131,
     "createdAt": "2023-02-01T09:14:25Z"
   },
   {
@@ -3152,7 +3152,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2023-12-27T16:06:23Z"
   },
   {
@@ -3164,7 +3164,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 47,
     "createdAt": "2023-03-01T11:13:56Z"
   },
   {
@@ -3188,7 +3188,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 18,
     "createdAt": "2023-04-04T04:42:05Z"
   },
   {
@@ -3222,7 +3222,7 @@
     "location": "Oman",
     "company": "UTAS",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-04-23T10:05:57Z"
@@ -3235,7 +3235,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 80,
+    "privateContributions": 122,
     "publicContributions": 339,
     "createdAt": "2023-12-02T10:54:49Z"
   },
@@ -3246,8 +3246,8 @@
     "location": "Oman",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 135,
+    "followers": 4,
+    "privateContributions": 196,
     "publicContributions": 113,
     "createdAt": "2023-02-12T05:50:04Z"
   },
@@ -3260,20 +3260,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 15,
     "createdAt": "2023-10-31T04:45:17Z"
-  },
-  {
-    "login": "1evity",
-    "name": "Mohammed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124527764?s=72&u=7bdbb750040e03e3ff351900c69180cc583399f1&v=4",
-    "location": "Muscat, Oman",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 118,
-    "publicContributions": 58,
-    "createdAt": "2023-02-05T19:25:46Z"
   },
   {
     "login": "Aadhikesavan09",
@@ -3284,7 +3272,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 3,
     "createdAt": "2023-10-04T09:55:41Z"
   },
   {
@@ -3295,8 +3283,8 @@
     "company": "Rihal",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 372,
-    "publicContributions": 27,
+    "privateContributions": 537,
+    "publicContributions": 46,
     "createdAt": "2023-08-26T07:50:56Z"
   },
   {

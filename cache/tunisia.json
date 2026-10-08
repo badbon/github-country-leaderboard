@@ -3092,7 +3092,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2025-07-01T12:03:33Z"
   },
   {
@@ -3103,7 +3103,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 9,
     "publicContributions": 20,
     "createdAt": "2025-11-04T19:26:54Z"
   },
@@ -3116,7 +3116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 15,
     "createdAt": "2025-06-25T08:47:57Z"
   },
   {
@@ -3128,7 +3128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 26,
     "createdAt": "2025-09-10T09:52:07Z"
   },
   {
@@ -3158,26 +3158,14 @@
   {
     "login": "Mahmoud-Benahmed",
     "name": "Mahmoud ben ahmed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194905811?s=72&u=148f25ffa29697c1edc8d4c4835aadecfd4d6f62&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194905811?s=72&u=31d93dfd89040ce045f2b6c6616e05972c34503d&v=4",
     "location": "Tunisia",
     "company": "Institut superieur des etudes technologiques djerba",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 61,
     "createdAt": "2025-01-14T09:04:23Z"
-  },
-  {
-    "login": "ONS-AHMADI-06",
-    "name": " Ons Ahmadi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197774214?s=72&u=3d8becb478fc53a01825f28a539c76232bff2524&v=4",
-    "location": "Tunisia",
-    "company": "University of Kairouan",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 81,
-    "createdAt": "2025-02-04T14:16:54Z"
   },
   {
     "login": "yassine-mili",
@@ -3187,20 +3175,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 180,
-    "publicContributions": 36,
+    "privateContributions": 109,
+    "publicContributions": 40,
     "createdAt": "2025-06-20T10:37:53Z"
   },
   {
     "login": "baroudioussama",
     "name": "Oussama Baroudi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/235719123?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235719123?s=72&u=42143f804acc17148d273221b0b05054fe18ae6a&v=4",
     "location": "tunis tunisia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 73,
-    "publicContributions": 76,
+    "privateContributions": 77,
+    "publicContributions": 97,
     "createdAt": "2025-10-02T14:29:33Z"
   },
   {
@@ -3224,7 +3212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 49,
     "createdAt": "2025-08-21T17:44:30Z"
   },
   {
@@ -3248,7 +3236,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 43,
     "createdAt": "2025-10-30T23:11:10Z"
   },
   {
@@ -3258,9 +3246,9 @@
     "location": "Tunis, Tunisia",
     "company": "EID",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 261,
+    "publicContributions": 180,
     "createdAt": "2025-05-25T13:15:40Z"
   },
   {
@@ -3271,8 +3259,8 @@
     "company": "badil",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 219,
-    "publicContributions": 1,
+    "privateContributions": 242,
+    "publicContributions": 12,
     "createdAt": "2025-09-03T23:28:36Z"
   },
   {
@@ -3284,7 +3272,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2025-03-11T08:49:45Z"
   },
   {
@@ -3308,7 +3296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 27,
     "createdAt": "2025-09-22T20:38:00Z"
   },
   {

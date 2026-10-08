@@ -134350,5 +134350,89 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-02-09T09:03:25Z"
+  },
+  {
+    "login": "MSFMetterPeter",
+    "name": "Peti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285402066?s=72&u=1ffbfdbf7a7160a955b0a65154c323e2cbcfefe9&v=4",
+    "location": "Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 36,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-05-17T11:14:25Z"
+  },
+  {
+    "login": "gyalogtamas",
+    "name": "Tamás GYALOG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287213246?s=72&u=e7fb6275cddd266bb9a22fbe2f2526588da0af34&v=4",
+    "location": "Budapest, Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 236,
+    "publicContributions": 1,
+    "createdAt": "2026-05-23T12:04:32Z"
+  },
+  {
+    "login": "krsnczky",
+    "name": "Richard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285402219?s=72&u=0394e83517185f4a8c4fea82e5982be16635f65d&v=4",
+    "location": "Hungary",
+    "company": "Axon Digital",
+    "twitterUsername": "crushniczky",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 82,
+    "createdAt": "2026-05-17T11:15:15Z"
+  },
+  {
+    "login": "FelixGit123",
+    "name": "Fehér Félix",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287006835?s=72&v=4",
+    "location": "Budapest, Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-05-22T15:07:24Z"
+  },
+  {
+    "login": "Tigrincs01",
+    "name": "Tigrincs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289281867?s=72&u=e865100db293da405d1421ee6ef3208068f2df63&v=4",
+    "location": "Hungary",
+    "company": "Remain / ShelfSift Tester",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-30T21:03:25Z"
+  },
+  {
+    "login": "m3dv3b45z00",
+    "name": "AD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290525344?s=72&u=81766741ccff17504496addbf06f87eb68b0b35e&v=4",
+    "location": "Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-03T21:12:10Z"
+  },
+  {
+    "login": "A4R0N-L",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289683760?s=72&u=862a7c79bdc2984eb8deef9331669cbcbfb553dd&v=4",
+    "location": "Budapest, Hungary",
+    "company": "Jonas Lünendonk AI Strategies ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-06-01T12:29:54Z"
   }
 ]

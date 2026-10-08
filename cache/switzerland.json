@@ -3055,8 +3055,8 @@
     "company": "University of St. Gallen",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 50,
-    "publicContributions": 73,
+    "privateContributions": 54,
+    "publicContributions": 74,
     "createdAt": "2025-03-25T21:36:06Z"
   },
   {
@@ -3078,9 +3078,9 @@
     "location": "Switzerland",
     "company": "novoSYS.ch",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 311,
-    "publicContributions": 3225,
+    "followers": 4,
+    "privateContributions": 347,
+    "publicContributions": 3535,
     "createdAt": "2025-10-20T12:03:57Z"
   },
   {
@@ -3091,7 +3091,7 @@
     "company": "@SchweizerischeBundesbahnen",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 9,
+    "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2025-06-19T10:13:48Z"
   },
@@ -3102,22 +3102,10 @@
     "location": "Lausanne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 3,
-    "publicContributions": 990,
+    "publicContributions": 652,
     "createdAt": "2025-05-14T14:55:14Z"
-  },
-  {
-    "login": "denikatsman",
-    "name": "Deni Katsman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195755073?s=72&u=9e7aa98d1aa9a17dea688192bf0997f63c6928cb&v=4",
-    "location": "Geneva, Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-01-20T11:11:02Z"
   },
   {
     "login": "alixia-tek",
@@ -3128,7 +3116,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-20T00:30:13Z"
   },
   {
@@ -3146,13 +3134,13 @@
   {
     "login": "LioHeimberg",
     "name": "Lio Heimberg",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/234761389?s=72&u=28781c5f934a50fcc8f50b09a35242212fa9e4e6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234761389?s=72&u=d6e60c5f9c8652b688d51c8d69348131b462d6b0&v=4",
     "location": "Wünnewil FR, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 135,
     "createdAt": "2025-09-27T10:03:57Z"
   },
   {
@@ -3163,7 +3151,7 @@
     "company": "@getyourguide",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1264,
+    "privateContributions": 1540,
     "publicContributions": 1,
     "createdAt": "2025-11-03T10:28:08Z"
   },
@@ -3176,7 +3164,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2025-07-02T13:34:48Z"
   },
   {
@@ -3188,7 +3176,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 42,
     "createdAt": "2025-03-14T19:32:42Z"
   },
   {
@@ -3210,9 +3198,9 @@
     "location": "Basel, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-26T10:02:14Z"
   },
   {
@@ -3224,20 +3212,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 20,
     "createdAt": "2025-10-05T14:59:29Z"
-  },
-  {
-    "login": "sen-do",
-    "name": "Sendogan Kulakci",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207167796?s=72&u=d09735af7040979947582369da609f0b40b7f42e&v=4",
-    "location": "Zurich, Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2025-04-11T09:14:13Z"
   },
   {
     "login": "Mrck-Kvs",
@@ -3248,7 +3224,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2025-10-04T16:08:19Z"
   },
   {
@@ -3284,7 +3260,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 123,
     "createdAt": "2025-09-15T07:16:44Z"
   },
   {

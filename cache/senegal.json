@@ -3092,7 +3092,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 214,
+    "publicContributions": 206,
     "createdAt": "2023-12-02T16:52:05Z"
   },
   {
@@ -3102,9 +3102,9 @@
     "location": "senegal",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 422,
-    "publicContributions": 19,
+    "followers": 7,
+    "privateContributions": 269,
+    "publicContributions": 465,
     "createdAt": "2023-11-23T14:44:38Z"
   },
   {
@@ -3138,9 +3138,9 @@
     "location": "Dakar, Senegal",
     "company": "Institut Pasteur de Dakar ",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 15,
     "createdAt": "2023-07-06T13:29:55Z"
   },
   {
@@ -3150,9 +3150,9 @@
     "location": "Senegal, Dakar",
     "company": "Ecole Superieur Polytechnique de Dakar",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 182,
-    "publicContributions": 87,
+    "followers": 3,
+    "privateContributions": 270,
+    "publicContributions": 106,
     "createdAt": "2023-08-17T17:28:32Z"
   },
   {
@@ -3163,8 +3163,8 @@
     "company": "sendev",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 672,
-    "publicContributions": 155,
+    "privateContributions": 643,
+    "publicContributions": 168,
     "createdAt": "2023-01-26T20:53:50Z"
   },
   {
@@ -3174,9 +3174,9 @@
     "location": "senegal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 292,
+    "publicContributions": 291,
     "createdAt": "2023-09-14T21:18:09Z"
   },
   {
@@ -3186,9 +3186,9 @@
     "location": "Dakar, Senegal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 36,
+    "followers": 3,
+    "privateContributions": 99,
+    "publicContributions": 41,
     "createdAt": "2023-06-02T16:41:43Z"
   },
   {
@@ -3224,7 +3224,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-05-24T16:25:01Z"
   },
   {
@@ -3260,20 +3260,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2023-11-08T16:29:19Z"
-  },
-  {
-    "login": "Bassongo",
-    "name": "Marc Mare",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148342295?s=72&u=93c9da4acff1c03b09eefb6f536a8d1086fce647&v=4",
-    "location": "Dakar, Senegal",
-    "company": "ENSAE Dakar",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 156,
-    "createdAt": "2023-10-18T11:28:51Z"
   },
   {
     "login": "AdjaThiouna",
@@ -3296,7 +3284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 214,
+    "publicContributions": 160,
     "createdAt": "2023-11-19T20:39:44Z"
   },
   {

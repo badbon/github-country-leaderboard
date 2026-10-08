@@ -3020,7 +3020,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-20T18:51:17Z"
   },
   {
@@ -3030,9 +3030,9 @@
     "location": "Portugal",
     "company": "Alex Myers Consulting LLC",
     "twitterUsername": "alexmyers83",
-    "followers": 7,
-    "privateContributions": 419,
-    "publicContributions": 123,
+    "followers": 6,
+    "privateContributions": 432,
+    "publicContributions": 169,
     "createdAt": "2025-12-16T10:18:02Z"
   },
   {
@@ -3044,7 +3044,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-06-02T14:50:55Z"
   },
   {
@@ -3054,9 +3054,9 @@
     "location": "Portugal",
     "company": "CEiiA / CTI Aeroespacial",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 48,
     "createdAt": "2025-04-19T17:48:03Z"
   },
   {
@@ -3068,7 +3068,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 457,
+    "publicContributions": 467,
     "createdAt": "2025-02-25T14:41:01Z"
   },
   {
@@ -3079,8 +3079,8 @@
     "company": "Universidade de Aveiro",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 366,
-    "publicContributions": 130,
+    "privateContributions": 352,
+    "publicContributions": 129,
     "createdAt": "2025-09-07T15:40:06Z"
   },
   {
@@ -3090,9 +3090,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 317,
-    "publicContributions": 804,
+    "followers": 8,
+    "privateContributions": 576,
+    "publicContributions": 809,
     "createdAt": "2025-09-14T15:47:05Z"
   },
   {
@@ -3102,9 +3102,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 48,
     "createdAt": "2025-07-09T12:52:24Z"
   },
   {
@@ -3114,7 +3114,7 @@
     "location": "Braga, Portugal",
     "company": "Universidade do Minho",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 60,
     "createdAt": "2025-09-24T15:23:48Z"
@@ -3150,21 +3150,21 @@
     "location": "Portugal",
     "company": "💼 Available for Interesting Projects & Consulting",
     "twitterUsername": "AlexandreCrowAI",
-    "followers": 6,
-    "privateContributions": 10,
-    "publicContributions": 118,
+    "followers": 7,
+    "privateContributions": 8,
+    "publicContributions": 212,
     "createdAt": "2025-08-27T22:24:10Z"
   },
   {
     "login": "Tanwii",
     "name": "Thaina lima",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/215736929?s=72&u=87f51edf3625a39713d7a341b29a6b0d47f73924&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/215736929?s=72&u=d96b24c557bb7465123fb06d89b46031ded2ca4d&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 39,
     "createdAt": "2025-06-10T18:56:40Z"
   },
   {
@@ -3186,9 +3186,9 @@
     "location": "Lisbon, Portugal",
     "company": "CSE Student @ IST Lisbon",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 18,
     "createdAt": "2025-10-29T11:52:41Z"
   },
   {
@@ -3198,9 +3198,9 @@
     "location": "Lisbon, Portugal",
     "company": "CSE Student @ Instituto Superior Técnico",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 13,
-    "publicContributions": 38,
+    "followers": 10,
+    "privateContributions": 21,
+    "publicContributions": 56,
     "createdAt": "2025-09-25T10:46:52Z"
   },
   {
@@ -3212,7 +3212,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 61,
     "createdAt": "2025-08-14T11:54:27Z"
   },
   {
@@ -3224,7 +3224,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 14,
     "createdAt": "2025-08-20T22:11:02Z"
   },
   {
@@ -3234,7 +3234,7 @@
     "location": "Vila das Aves, Porto, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 6,
     "publicContributions": 349,
     "createdAt": "2025-02-18T02:35:23Z"
@@ -209035,7 +209035,7 @@
     "company": "Teya",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 2271,
+    "privateContributions": 2550,
     "publicContributions": 6,
     "createdAt": "2017-11-28T18:40:02Z"
   },

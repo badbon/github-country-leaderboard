@@ -3020,7 +3020,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 26,
     "createdAt": "2026-05-05T22:25:58Z"
   },
   {
@@ -3031,8 +3031,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 25,
+    "privateContributions": 0,
+    "publicContributions": 42,
     "createdAt": "2026-02-25T00:20:38Z"
   },
   {
@@ -3044,7 +3044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 5,
     "createdAt": "2026-03-21T04:13:34Z"
   },
   {
@@ -3067,21 +3067,9 @@
     "company": "Meser Technologies LLC",
     "twitterUsername": "cosrodi",
     "followers": 1,
-    "privateContributions": 1934,
+    "privateContributions": 2110,
     "publicContributions": 45,
     "createdAt": "2026-02-26T16:51:10Z"
-  },
-  {
-    "login": "SrGonzakDevT3",
-    "name": "SrGonzakDevT3",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281067798?s=72&u=9adf0186567c7c26f68f5b45986d27900885eb94&v=4",
-    "location": "Buenos aires",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 23,
-    "createdAt": "2026-05-01T23:49:11Z"
   },
   {
     "login": "santyg258",
@@ -3102,9 +3090,9 @@
     "location": "Buenos Aires",
     "company": "Velizor.ai",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 13,
     "createdAt": "2026-03-06T16:48:53Z"
   },
   {
@@ -3126,9 +3114,9 @@
     "location": "Buenos Aires",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 48,
+    "followers": 2,
+    "privateContributions": 82,
+    "publicContributions": 68,
     "createdAt": "2026-01-18T13:40:07Z"
   },
   {
@@ -3138,9 +3126,9 @@
     "location": "Rua Jujui, 311 - Vila Buenos Aires",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 74,
     "createdAt": "2026-04-22T21:49:02Z"
   },
   {
@@ -3162,9 +3150,9 @@
     "location": "Rosario, Santa Fe, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 473,
+    "followers": 470,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 189,
     "createdAt": "2025-02-25T15:45:54Z"
   },
   {
@@ -3174,7 +3162,7 @@
     "location": "Argentina",
     "company": "Individual",
     "twitterUsername": "",
-    "followers": 158,
+    "followers": 153,
     "privateContributions": 18,
     "publicContributions": 5,
     "createdAt": "2025-03-27T20:28:19Z"
@@ -3188,7 +3176,7 @@
     "twitterUsername": "",
     "followers": 106,
     "privateContributions": 4,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-03-23T23:37:53Z"
   },
   {
@@ -3198,9 +3186,9 @@
     "location": "Buenos Aires, Argentina.",
     "company": "",
     "twitterUsername": "",
-    "followers": 53,
+    "followers": 52,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 28,
     "createdAt": "2025-01-20T17:26:31Z"
   },
   {
@@ -3210,9 +3198,9 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 44,
-    "privateContributions": 87,
-    "publicContributions": 41,
+    "followers": 43,
+    "privateContributions": 94,
+    "publicContributions": 57,
     "createdAt": "2025-03-16T17:30:21Z"
   },
   {
@@ -3220,11 +3208,11 @@
     "name": "Mustiyeey",
     "avatarUrl": "https://avatars.githubusercontent.com/u/208807425?s=72&u=b0e5cca706df942fdbea14118cc6baf30489d67e&v=4",
     "location": "Argentina",
-    "company": "",
+    "company": "Cortexia System",
     "twitterUsername": "",
-    "followers": 42,
+    "followers": 46,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 202,
     "createdAt": "2025-04-23T12:17:32Z"
   },
   {
@@ -3235,8 +3223,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 40,
-    "privateContributions": 176,
-    "publicContributions": 235,
+    "privateContributions": 171,
+    "publicContributions": 228,
     "createdAt": "2025-01-07T03:04:00Z"
   },
   {
@@ -3247,8 +3235,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 86,
-    "publicContributions": 719,
+    "privateContributions": 204,
+    "publicContributions": 715,
     "createdAt": "2025-06-11T21:18:57Z"
   },
   {

@@ -3018,7 +3018,7 @@
     "location": "Hamilton",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-07T09:25:49Z"
@@ -3030,7 +3030,7 @@
     "location": "Bermuda, Under The Sea",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 35,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2020-08-26T02:56:29Z"
@@ -3056,7 +3056,7 @@
     "twitterUsername": "ludicoloxbt",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2020-03-31T01:37:20Z"
   },
   {
@@ -3066,9 +3066,9 @@
     "location": "Bermuda",
     "company": "Atsign",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 83,
-    "publicContributions": 25,
+    "followers": 5,
+    "privateContributions": 143,
+    "publicContributions": 19,
     "createdAt": "2020-08-05T21:24:23Z"
   },
   {
@@ -3139,7 +3139,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 103,
-    "privateContributions": 28,
+    "privateContributions": 27,
     "publicContributions": 0,
     "createdAt": "2020-09-11T03:39:34Z"
   },
@@ -3150,9 +3150,9 @@
     "location": "Hamilton, Ontario",
     "company": "",
     "twitterUsername": "",
-    "followers": 91,
+    "followers": 90,
     "privateContributions": 17,
-    "publicContributions": 96,
+    "publicContributions": 77,
     "createdAt": "2020-10-11T19:47:09Z"
   },
   {
@@ -3162,9 +3162,9 @@
     "location": "Greater Hamilton(Burlington) Area",
     "company": "Support Specialist at Harris Computer",
     "twitterUsername": "",
-    "followers": 75,
+    "followers": 66,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 77,
     "createdAt": "2020-09-13T16:14:02Z"
   },
   {
@@ -3174,9 +3174,9 @@
     "location": "Hamilton, ON, CA",
     "company": "IMC Trading",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 122,
-    "publicContributions": 59,
+    "followers": 42,
+    "privateContributions": 105,
+    "publicContributions": 56,
     "createdAt": "2020-08-07T20:19:30Z"
   },
   {
@@ -3187,8 +3187,8 @@
     "company": "@CacheerPHP @OdraciR-Code ",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 2749,
-    "publicContributions": 233,
+    "privateContributions": 2560,
+    "publicContributions": 146,
     "createdAt": "2020-05-30T00:18:20Z"
   },
   {
@@ -3204,18 +3204,6 @@
     "createdAt": "2020-05-04T22:39:49Z"
   },
   {
-    "login": "v-nafiseh",
-    "name": "Nafiseh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71584345?s=72&u=a7259bb02354f26d740dea61a6b09d3f09ea5f98&v=4",
-    "location": "Hamilton",
-    "company": "Ericsson",
-    "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-09-20T07:26:10Z"
-  },
-  {
     "login": "YashJM",
     "name": "Yash M",
     "avatarUrl": "https://avatars.githubusercontent.com/u/63824041?s=72&u=1d271c85093c53cc6747aaa257e6fa4adce8fdb9&v=4",
@@ -3224,7 +3212,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 11,
     "createdAt": "2020-04-16T23:35:30Z"
   },
   {
@@ -3234,7 +3222,7 @@
     "location": "Hamilton, NZ",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-12-01T02:17:56Z"
