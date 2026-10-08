@@ -2827,7 +2827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 29,
+    "privateContributions": 31,
     "publicContributions": 1,
     "createdAt": "2021-03-11T21:56:31Z"
   },
@@ -2839,8 +2839,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 61,
-    "publicContributions": 0,
+    "privateContributions": 55,
+    "publicContributions": 20,
     "createdAt": "2021-11-18T17:10:39Z"
   },
   {
@@ -2851,7 +2851,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 482,
+    "privateContributions": 470,
     "publicContributions": 0,
     "createdAt": "2021-03-15T18:03:19Z"
   },
@@ -2887,7 +2887,7 @@
     "company": "First Line Software",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 976,
+    "privateContributions": 942,
     "publicContributions": 80,
     "createdAt": "2021-02-15T11:18:57Z"
   },
@@ -2922,9 +2922,9 @@
     "location": "Podgorica",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 485,
-    "publicContributions": 4,
+    "followers": 12,
+    "privateContributions": 472,
+    "publicContributions": 3,
     "createdAt": "2021-10-04T11:05:37Z"
   },
   {
@@ -2935,7 +2935,7 @@
     "company": "Codeus",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1268,
+    "privateContributions": 1151,
     "publicContributions": 1,
     "createdAt": "2021-10-21T12:24:59Z"
   },
@@ -2946,7 +2946,7 @@
     "location": "Podgorica",
     "company": "Vega It Omega",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-24T17:21:31Z"
@@ -2970,9 +2970,9 @@
     "location": "Podgorica",
     "company": "Univerzitet Crne Gore",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 10,
     "createdAt": "2021-06-22T21:04:05Z"
   },
   {
@@ -2995,8 +2995,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 324,
-    "publicContributions": 14,
+    "privateContributions": 422,
+    "publicContributions": 13,
     "createdAt": "2021-05-24T15:48:54Z"
   },
   {

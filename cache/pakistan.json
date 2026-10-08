@@ -2840,7 +2840,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 28,
     "createdAt": "2026-03-27T12:16:39Z"
   },
   {
@@ -2850,7 +2850,7 @@
     "location": "pakistan",
     "company": "ASC MARKHOR",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2025-12-31T10:56:46Z"
@@ -2874,7 +2874,7 @@
     "location": "pakistan",
     "company": "marketing agency Raheela",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2026-05-06T12:47:18Z"
@@ -2888,19 +2888,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 36,
     "createdAt": "2026-01-29T17:09:19Z"
   },
   {
     "login": "Eman-fatima-web",
     "name": "Eman Fatima",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278378158?s=72&u=f6e97e7bb15299dd9f656238c9f02e930c429bf0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/278378158?s=72&u=71eddee102ca744283bbd51d73f389dc25f04728&v=4",
     "location": "pakistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
+    "company": "Geo Teck",
+    "twitterUsername": "EmanFatiamweb",
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 105,
     "createdAt": "2026-04-22T11:24:32Z"
   },
   {
@@ -2924,7 +2924,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 40,
     "createdAt": "2026-02-23T18:45:34Z"
   },
   {
@@ -2938,18 +2938,6 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2026-05-12T10:47:22Z"
-  },
-  {
-    "login": "abdullahnyle",
-    "name": "Abdullah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261305748?s=72&u=4aa9a8ee895037e24ff34859f8abc2f2c3b62190&v=4",
-    "location": "Pakistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 96,
-    "createdAt": "2026-02-12T22:08:56Z"
   },
   {
     "login": "zainabro641-wq",
@@ -2971,21 +2959,9 @@
     "company": "University of Gujrat",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 50,
-    "publicContributions": 22,
+    "privateContributions": 92,
+    "publicContributions": 26,
     "createdAt": "2026-02-06T13:54:22Z"
-  },
-  {
-    "login": "Zia17241",
-    "name": "Muhammad Zia Ul Haq ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/273352224?s=72&u=3c5997b21c63df98d32eb337bc28b36bce1ec1ca&v=4",
-    "location": "Pakistan",
-    "company": "Zia.Dev",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-04-03T12:21:49Z"
   },
   {
     "login": "toobanaeem313-dev",
@@ -3030,7 +3006,7 @@
     "location": "Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 41,
     "createdAt": "2026-01-24T10:41:20Z"
@@ -3038,13 +3014,13 @@
   {
     "login": "DrAmaraTariq",
     "name": "AMMARA TARIQ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263188332?s=72&u=b37e22d5502a7995c6da132fb16880e16044d04c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/263188332?s=72&u=a9db940b0ab48dce282d93cd81a6b2666adec139&v=4",
     "location": "Pakistan",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 85,
     "createdAt": "2026-02-22T15:34:34Z"
   },
   {
@@ -3056,7 +3032,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 49,
     "createdAt": "2026-03-27T06:46:40Z"
   },
   {
@@ -3068,7 +3044,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 91,
     "createdAt": "2026-03-27T09:09:49Z"
   },
   {

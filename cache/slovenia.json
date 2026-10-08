@@ -2828,7 +2828,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 48,
     "createdAt": "2022-01-19T20:45:45Z"
   },
   {
@@ -2852,7 +2852,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 1,
     "createdAt": "2022-03-01T15:08:11Z"
   },
   {
@@ -2862,9 +2862,9 @@
     "location": "Slovenia",
     "company": "University of Ljubljana",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 41,
     "createdAt": "2022-12-17T19:50:46Z"
   },
   {
@@ -2875,8 +2875,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 125,
-    "publicContributions": 167,
+    "privateContributions": 174,
+    "publicContributions": 174,
     "createdAt": "2022-07-26T07:39:07Z"
   },
   {
@@ -2888,7 +2888,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 30,
     "createdAt": "2022-12-02T07:29:20Z"
   },
   {
@@ -2899,8 +2899,8 @@
     "company": "",
     "twitterUsername": "BetonZM",
     "followers": 5,
-    "privateContributions": 481,
-    "publicContributions": 32,
+    "privateContributions": 489,
+    "publicContributions": 37,
     "createdAt": "2022-05-05T06:22:59Z"
   },
   {
@@ -2910,9 +2910,9 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2022-03-15T21:28:39Z"
   },
   {
@@ -2922,7 +2922,7 @@
     "location": "Maribor, Slovenia",
     "company": "Biocoded",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 172,
     "publicContributions": 6,
     "createdAt": "2022-03-16T15:52:27Z"
@@ -2960,19 +2960,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 21,
     "createdAt": "2022-06-04T12:25:30Z"
   },
   {
     "login": "Lovro298",
     "name": "Lovro Peitl",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108140835?s=72&u=51a66d71e8dc615e66f20a57afd03fd6e110ceb5&v=4",
-    "location": "Trbovlje, Slovenia",
-    "company": "Joyride",
+    "location": "Ljubljana, Slovenia",
+    "company": "Celtra",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 288,
-    "publicContributions": 8,
+    "privateContributions": 816,
+    "publicContributions": 0,
     "createdAt": "2022-06-24T14:53:31Z"
   },
   {
@@ -2984,7 +2984,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 97,
     "createdAt": "2022-10-27T21:17:07Z"
   },
   {
@@ -3032,7 +3032,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 699,
+    "publicContributions": 700,
     "createdAt": "2022-10-19T21:09:26Z"
   },
   {
@@ -3055,8 +3055,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 112,
-    "publicContributions": 0,
+    "privateContributions": 103,
+    "publicContributions": 1,
     "createdAt": "2022-06-16T17:49:47Z"
   },
   {

@@ -2827,8 +2827,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 234,
-    "publicContributions": 83,
+    "privateContributions": 251,
+    "publicContributions": 80,
     "createdAt": "2021-08-13T13:00:32Z"
   },
   {
@@ -2923,8 +2923,8 @@
     "company": "NUM, Mongolia",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 16,
+    "publicContributions": 1,
     "createdAt": "2021-07-02T12:47:33Z"
   },
   {
@@ -2964,18 +2964,6 @@
     "createdAt": "2021-06-03T12:41:36Z"
   },
   {
-    "login": "balguti",
-    "name": "Bilguutei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85947974?s=72&u=bb2e7cd01c6336ef8808b3bdfa3451e1ba6a152c&v=4",
-    "location": "Ulaanbaatar, Mongolia",
-    "company": "IO Tech",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 766,
-    "publicContributions": 0,
-    "createdAt": "2021-06-15T14:20:28Z"
-  },
-  {
     "login": "enkhbold-cody",
     "name": "Enkhbold",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84890238?s=72&u=ca42818eb2e05dab62221abb4593120fb1d42c2e&v=4",
@@ -2996,7 +2984,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 38,
     "createdAt": "2021-10-18T04:52:48Z"
   },
   {
@@ -3008,7 +2996,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 82,
     "createdAt": "2021-05-08T17:16:03Z"
   },
   {
@@ -3042,7 +3030,7 @@
     "location": "Ulaanbataar, Mongolia",
     "company": "Khan Bank",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2021-06-21T07:53:07Z"

@@ -2816,7 +2816,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 1,
-    "publicContributions": 94,
+    "publicContributions": 96,
     "createdAt": "2026-02-26T05:54:46Z"
   },
   {
@@ -2828,7 +2828,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 11,
-    "publicContributions": 156,
+    "publicContributions": 189,
     "createdAt": "2026-02-20T02:15:30Z"
   },
   {
@@ -2886,9 +2886,9 @@
     "location": "Colombo",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 463,
+    "publicContributions": 700,
     "createdAt": "2026-01-26T08:53:53Z"
   },
   {
@@ -2900,7 +2900,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 53,
     "createdAt": "2026-03-13T18:55:30Z"
   },
   {
@@ -2912,7 +2912,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2026-04-23T10:42:10Z"
   },
   {
@@ -2924,20 +2924,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 45,
     "createdAt": "2026-04-11T16:38:18Z"
-  },
-  {
-    "login": "mohammedharsan20050101-del",
-    "name": "Mohammed  Harsan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263829391?s=72&v=4",
-    "location": "Colombo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-02-25T05:42:41Z"
   },
   {
     "login": "Rookshi725",
@@ -2948,7 +2936,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 142,
     "createdAt": "2026-02-28T05:32:33Z"
   },
   {
@@ -2956,10 +2944,10 @@
     "name": "Gokula Nandhan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/266928406?s=72&u=657b87c4a897bc60ccc4ffa0334c93a4a1d3ac18&v=4",
     "location": "Colombo-06, Srilanka",
-    "company": "",
+    "company": "AIntegrator Engineering",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 29,
+    "privateContributions": 80,
     "publicContributions": 39,
     "createdAt": "2026-03-10T05:00:11Z"
   },
@@ -2971,7 +2959,7 @@
     "company": "Sherwood Technologies (Pvt) Ltd",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
+    "privateContributions": 10,
     "publicContributions": 2,
     "createdAt": "2026-04-16T09:34:27Z"
   },
@@ -3008,7 +2996,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 23,
     "createdAt": "2026-05-07T03:32:37Z"
   },
   {
@@ -3019,7 +3007,7 @@
     "company": "NCINGA",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 82,
+    "privateContributions": 191,
     "publicContributions": 1,
     "createdAt": "2026-01-06T07:59:36Z"
   },

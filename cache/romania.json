@@ -2838,9 +2838,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 53,
     "createdAt": "2025-08-23T21:55:38Z"
   },
   {
@@ -2851,8 +2851,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1965,
-    "publicContributions": 81,
+    "privateContributions": 1740,
+    "publicContributions": 80,
     "createdAt": "2025-02-27T14:22:03Z"
   },
   {
@@ -2864,7 +2864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 240,
+    "publicContributions": 229,
     "createdAt": "2025-01-15T19:19:06Z"
   },
   {
@@ -2874,7 +2874,7 @@
     "location": "Romania",
     "company": "Hitachi Rail",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-15T07:15:49Z"
@@ -2948,7 +2948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 11,
     "createdAt": "2025-10-27T14:09:28Z"
   },
   {
@@ -2972,7 +2972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 24,
     "createdAt": "2025-01-19T10:33:15Z"
   },
   {
@@ -2988,18 +2988,6 @@
     "createdAt": "2025-02-26T09:43:33Z"
   },
   {
-    "login": "mara-1104",
-    "name": "Mara Georgescu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196060074?s=72&v=4",
-    "location": "Bucharest, Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 34,
-    "createdAt": "2025-01-22T13:34:04Z"
-  },
-  {
     "login": "AugustSud",
     "name": "-Stafy-",
     "avatarUrl": "https://avatars.githubusercontent.com/u/242799981?s=72&u=16ec005cf188c989dc348f8e845a0babc325563b&v=4",
@@ -3008,7 +2996,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 27,
     "createdAt": "2025-11-08T13:24:44Z"
   },
   {
@@ -3031,20 +3019,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 34,
-    "publicContributions": 14,
+    "privateContributions": 31,
+    "publicContributions": 22,
     "createdAt": "2025-09-25T16:15:05Z"
   },
   {
     "login": "bogdanc99",
     "name": "Bogdan ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204175014?s=72&u=8c9d0d5afa6733400ad2ba77c2a4b705ca7cd01c&v=4",
-    "location": "Romania, Oradea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204175014?s=72&v=4",
+    "location": "Romania, Timisoara - Oradea",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2025-03-20T10:19:32Z"
   },
   {
@@ -3058,18 +3046,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-12-30T09:11:13Z"
-  },
-  {
-    "login": "mrmcb92",
-    "name": "MrMcb",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/228712959?s=72&u=368b7c8deb8bdbd843d6fc2e0279af881d439120&v=4",
-    "location": "Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 271,
-    "createdAt": "2025-08-26T11:25:36Z"
   },
   {
     "login": "PopazuAlexandru",
@@ -179830,5 +179806,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-12-12T16:02:54Z"
+  },
+  {
+    "login": "Gheruha",
+    "name": "Gheruha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119610789?s=72&u=e798643bb7a24ff398a1a06b63ae3f2f3e7d3ef4&v=4",
+    "location": "Cluj-Napoca, Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 225,
+    "createdAt": "2022-12-01T15:22:03Z"
   }
 ]

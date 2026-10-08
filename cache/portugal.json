@@ -2780,7 +2780,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 108,
     "createdAt": "2025-02-26T08:04:02Z"
   },
   {
@@ -2792,7 +2792,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 28,
     "createdAt": "2025-02-28T14:43:40Z"
   },
   {
@@ -2804,7 +2804,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 2,
     "createdAt": "2025-05-07T04:23:17Z"
   },
   {
@@ -2820,27 +2820,15 @@
     "createdAt": "2025-05-06T09:37:16Z"
   },
   {
-    "login": "MegaMan-Ofc",
-    "name": "Tiago Ribeiro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/210146159?s=72&v=4",
-    "location": "Porto, Portugal",
-    "company": "FEUP",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 367,
-    "createdAt": "2025-05-03T12:10:11Z"
-  },
-  {
     "login": "davidmimoso",
     "name": "David Mimoso",
     "avatarUrl": "https://avatars.githubusercontent.com/u/243175082?s=72&v=4",
     "location": "Viana do Castelo / Braga , Portugal",
     "company": "Universidade do Minho | Computer Science",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 66,
     "createdAt": "2025-11-10T16:32:37Z"
   },
   {
@@ -2850,7 +2838,7 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 45,
     "createdAt": "2025-12-09T13:10:49Z"
@@ -2862,9 +2850,9 @@
     "location": "Lisbon, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 245,
+    "publicContributions": 313,
     "createdAt": "2025-07-13T15:36:58Z"
   },
   {
@@ -2874,7 +2862,7 @@
     "location": "Porto, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 30,
     "createdAt": "2025-01-15T17:35:41Z"
@@ -2886,9 +2874,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 362,
-    "publicContributions": 34,
+    "followers": 10,
+    "privateContributions": 427,
+    "publicContributions": 23,
     "createdAt": "2025-04-24T08:29:12Z"
   },
   {
@@ -2912,7 +2900,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 65,
     "createdAt": "2025-05-06T10:19:50Z"
   },
   {
@@ -2924,7 +2912,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 63,
     "createdAt": "2025-08-12T11:09:13Z"
   },
   {
@@ -2934,7 +2922,7 @@
     "location": "Porto, Portugal",
     "company": "FCUP - Faculdade de Ciências da Universidade do Porto",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2025-05-25T13:41:25Z"
@@ -2972,7 +2960,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 309,
+    "publicContributions": 310,
     "createdAt": "2025-09-11T08:25:47Z"
   },
   {
@@ -2983,8 +2971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 180,
-    "publicContributions": 373,
+    "privateContributions": 243,
+    "publicContributions": 737,
     "createdAt": "2025-03-06T15:49:46Z"
   },
   {
@@ -2994,9 +2982,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 546,
+    "publicContributions": 864,
     "createdAt": "2025-06-10T15:46:47Z"
   },
   {
@@ -3007,8 +2995,8 @@
     "company": "NOVA IMS",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 549,
-    "publicContributions": 264,
+    "privateContributions": 0,
+    "publicContributions": 309,
     "createdAt": "2025-02-07T19:04:04Z"
   },
   {

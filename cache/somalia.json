@@ -2852,7 +2852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-02-19T18:10:04Z"
   },
   {
@@ -2888,7 +2888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 73,
     "createdAt": "2024-10-23T14:23:04Z"
   },
   {
@@ -2936,7 +2936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2024-08-13T12:31:54Z"
   },
   {
@@ -2948,19 +2948,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-10-22T07:39:53Z"
   },
   {
     "login": "abdullahi-dev-so",
-    "name": "Abdullahi  ibraahim omar",
+    "name": "Abdullahi  ibrahim",
     "avatarUrl": "https://avatars.githubusercontent.com/u/165807663?s=72&u=e4f38868487c201710916ffa1b53991d7e280045&v=4",
     "location": "somalia,mugdisho",
     "company": "student @Eelo universty",
-    "twitterUsername": "",
+    "twitterUsername": "abdullahidevs",
     "followers": 1,
-    "privateContributions": 26,
-    "publicContributions": 173,
+    "privateContributions": 60,
+    "publicContributions": 208,
     "createdAt": "2024-04-02T14:20:56Z"
   },
   {
@@ -2972,7 +2972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 76,
     "createdAt": "2024-10-22T02:48:30Z"
   },
   {
@@ -2994,9 +2994,9 @@
     "location": "Mogadishu, Somalia",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 150,
+    "publicContributions": 167,
     "createdAt": "2024-09-09T09:33:09Z"
   },
   {
@@ -3020,7 +3020,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-07-11T11:13:51Z"
   },
   {
@@ -3032,7 +3032,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2024-10-03T13:34:38Z"
   },
   {
@@ -3042,7 +3042,7 @@
     "location": "Mogadishu ",
     "company": "IRISE",
     "twitterUsername": "",
-    "followers": 794,
+    "followers": 784,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-12-02T11:20:32Z"
@@ -3052,11 +3052,11 @@
     "name": "Qali Cabdi Cali ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/169103801?s=72&u=4d86c71f86c4ef7e1711e0348cc08956a1287f47&v=4",
     "location": "mogadishu",
-    "company": "student",
+    "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 24,
     "createdAt": "2024-05-06T22:23:02Z"
   },
   {

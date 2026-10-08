@@ -2838,7 +2838,7 @@
     "location": "Victoria, BC",
     "company": "University of Victoria",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2022-11-08T16:33:05Z"
@@ -2864,7 +2864,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 92,
     "createdAt": "2022-04-03T19:25:45Z"
   },
   {
@@ -2875,7 +2875,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 121,
+    "privateContributions": 129,
     "publicContributions": 5,
     "createdAt": "2022-07-01T20:44:22Z"
   },
@@ -2886,8 +2886,8 @@
     "location": "6th Floor Victoria House, Regency Estate Bagamoyo Road Dar Es Salaam",
     "company": "Workers Compensation Fund (WCF)",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2,
+    "followers": 3,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2022-01-28T16:01:27Z"
   },
@@ -2965,13 +2965,13 @@
   },
   {
     "login": "NEAL3K",
-    "name": "Runnan Lin",
+    "name": "R Lin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/115937885?s=72&u=bbc07dee004e9a149691aab2b972641c9ecf04e7&v=4",
     "location": "Grattan Street, Parkville, Victoria, 3010",
     "company": "The University of Melbourne",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 601,
+    "privateContributions": 667,
     "publicContributions": 1,
     "createdAt": "2022-10-16T14:43:58Z"
   },
@@ -2995,8 +2995,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 21,
+    "privateContributions": 47,
+    "publicContributions": 19,
     "createdAt": "2022-12-06T17:20:30Z"
   },
   {
@@ -3006,9 +3006,9 @@
     "location": "Victoria, BC",
     "company": "Elastic Energy",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 150,
     "createdAt": "2022-01-16T04:01:28Z"
   },
   {
@@ -3020,7 +3020,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 86,
     "createdAt": "2022-02-22T05:34:59Z"
   },
   {
@@ -3032,7 +3032,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 27,
     "createdAt": "2022-08-18T05:56:58Z"
   },
   {
@@ -3044,7 +3044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 270,
     "createdAt": "2022-06-15T17:36:07Z"
   },
   {
@@ -3067,7 +3067,7 @@
     "company": "UAT",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 43,
+    "privateContributions": 90,
     "publicContributions": 0,
     "createdAt": "2022-08-27T22:38:30Z"
   },

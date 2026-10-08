@@ -126882,9 +126882,9 @@
     "location": "London, UK; Milan, Italia; Carabobo, Venezuela",
     "company": "Comply Advantage",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 82,
     "createdAt": "2008-12-05T20:51:52Z"
   },
   {
@@ -339366,8 +339366,8 @@
     "location": "Naples Florida  The States of America",
     "company": "Nerdwerx",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 57,
+    "followers": 5,
+    "privateContributions": 70,
     "publicContributions": 5,
     "createdAt": "2018-06-26T13:43:18Z"
   },
@@ -585718,5 +585718,65 @@
     "privateContributions": 13,
     "publicContributions": 60,
     "createdAt": "2009-07-17T15:29:47Z"
+  },
+  {
+    "login": "ruphy",
+    "name": "Riccardo Iaconelli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2030?s=72&u=3fc0e6ce878f632f3b7e060e4cd73fdecc93bd88&v=4",
+    "location": "Milano, Italia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 233,
+    "privateContributions": 2740,
+    "publicContributions": 47,
+    "createdAt": "2008-03-03T16:49:29Z"
+  },
+  {
+    "login": "marzapower",
+    "name": "Daniele Di Bernardo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11535?s=72&u=b7939389fde193ea1fd25f2d95afefec60929c02&v=4",
+    "location": "Pavia, Italia",
+    "company": "marzapower",
+    "twitterUsername": "",
+    "followers": 44,
+    "privateContributions": 2544,
+    "publicContributions": 94,
+    "createdAt": "2008-05-26T14:56:55Z"
+  },
+  {
+    "login": "marcenuc",
+    "name": "Marcello Nuccio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5284?s=72&v=4",
+    "location": "Italia",
+    "company": "Tailor Diffusion s.r.l.",
+    "twitterUsername": "",
+    "followers": 31,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2008-04-05T13:25:45Z"
+  },
+  {
+    "login": "Tigre",
+    "name": "Tigre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36111?s=72&v=4",
+    "location": "Italia",
+    "company": "TigerWoW Developer",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-11-23T05:05:23Z"
+  },
+  {
+    "login": "lucasweb",
+    "name": "Luca Di Matteo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23959?s=72&u=90743eb3e3b13fb346f4eca252574ee31a71a7b5&v=4",
+    "location": "Italia",
+    "company": "Lucasweb | Web Company",
+    "twitterUsername": "lucaswebagency",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2008-09-10T13:05:10Z"
   }
 ]

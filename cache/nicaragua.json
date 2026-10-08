@@ -2888,7 +2888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 85,
     "createdAt": "2023-06-09T20:33:56Z"
   },
   {
@@ -2898,9 +2898,9 @@
     "location": "Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 7,
-    "publicContributions": 102,
+    "publicContributions": 166,
     "createdAt": "2023-11-14T04:49:08Z"
   },
   {
@@ -2922,9 +2922,9 @@
     "location": "Managua, Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 37,
     "createdAt": "2023-02-26T03:03:17Z"
   },
   {
@@ -2958,7 +2958,7 @@
     "location": "Managua, Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-27T16:55:08Z"
@@ -2996,7 +2996,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 18,
     "createdAt": "2023-12-10T05:11:48Z"
   },
   {
@@ -3006,9 +3006,9 @@
     "location": "Nicaragua",
     "company": "INATEC",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 226,
+    "publicContributions": 261,
     "createdAt": "2023-05-28T23:32:12Z"
   },
   {
@@ -3032,7 +3032,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2023-05-17T13:22:51Z"
   },
   {
@@ -3046,18 +3046,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-27T16:10:15Z"
-  },
-  {
-    "login": "devjoselrg",
-    "name": "José Rodríguez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137643349?s=72&u=9aef205a23ac91c329ecd291f3eada6aa323cffe&v=4",
-    "location": "Nicaragua",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 35,
-    "createdAt": "2023-06-24T17:03:03Z"
   },
   {
     "login": "marvalladares",
@@ -3080,7 +3068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 21,
     "createdAt": "2023-06-05T01:17:32Z"
   },
   {
@@ -3092,19 +3080,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 188,
+    "publicContributions": 227,
     "createdAt": "2023-02-11T02:15:43Z"
   },
   {
     "login": "Imandro",
     "name": "Mario A. Ruiz Alvarez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148641475?s=72&u=170724efbe6bdb298b8c4f19b87a40701bdfd352&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148641475?s=72&u=44643c45389fc65407864bf404882e478778eafd&v=4",
     "location": "Nicaragua",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 58,
+    "privateContributions": 8,
+    "publicContributions": 172,
     "createdAt": "2023-10-21T15:36:45Z"
   },
   {
@@ -3116,7 +3104,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 141,
     "createdAt": "2023-01-25T23:00:35Z"
   },
   {
