@@ -1,6 +1,6 @@
 # Followers - Maldives
 
-Generated: 2026-10-08T04:13:21.140Z
+Generated: 2026-10-08T07:04:28.381Z
 
 Users: 355
 
@@ -10,7 +10,7 @@ Users: 355
 | 2 | [fallenbagel](https://github.com/fallenbagel) |  |  |  | Maldives | 168 |
 | 3 | [Samooh-9820060](https://github.com/Samooh-9820060) | Samooh Moosa |  | Samooh9820060 | Maldives | 131 |
 | 4 | [boring-dragon](https://github.com/boring-dragon) | Boring Dragon | @synetecs @oxiqa @mihaaru | boring_dragon | Maldives | 125 |
-| 5 | [reallynattu](https://github.com/reallynattu) | Nattu Adnan | @LottieFiles  | reallynattu | Maldives | 102 |
+| 5 | [reallynattu](https://github.com/reallynattu) | Nattu Adnan | @LottieFiles  | reallynattu | Maldives | 114 |
 | 6 | [eyaadh](https://github.com/eyaadh) | eyaadh | @baivaru | eyaadh | Maldives | 101 |
 | 7 | [raftalks](https://github.com/raftalks) | Raf |  |  | Maldives | 88 |
 | 8 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim |  | fauzaanu | Maldives | 86 |
@@ -19,10 +19,10 @@ Users: 355
 | 11 | [Glaisher](https://github.com/Glaisher) | Mohamed Yooshau |  |  | Maldives | 71 |
 | 12 | [athphane](https://github.com/athphane) | Athfan Khaleel | @Javaabu / @Baivaru |  | Maldives | 67 |
 | 13 | [nafeef123](https://github.com/nafeef123) | Mafeef123 |  |  | Maldives | 62 |
-| 14 | [xahy](https://github.com/xahy) | Ismail Zahee |  | xahyx | Maldives | 62 |
+| 14 | [xahy](https://github.com/xahy) | Ismail Zahee |  | xahyx | Maldives | 61 |
 | 15 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 57 |
 | 16 | [mohamed-azhar](https://github.com/mohamed-azhar) | Mohamed Azhar | State Trading Organization Plc | _moaz__ | Maldives | 44 |
 | 17 | [Adamwaheed](https://github.com/Adamwaheed) | Adam | @HelloWoldMV @pension  |  | Maldives | 43 |
 | 18 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Balloonshare |  | Maldives | 42 |
 | 19 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood |  |  | Thulhaadhoo, Maldives | 41 |
-| 20 | [ayarse](https://github.com/ayarse) | ayaz |  |  | Maldives | 41 |
+| 20 | [Dharisd](https://github.com/Dharisd) |  | synetecs |  | maldives | 41 |

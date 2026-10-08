@@ -1,6 +1,6 @@
 # Tanzania
 
-Indexed users: 2,037
+Indexed users: 2,036
 
 | Leaderboard | Link |
 |---|---|
@@ -51,12 +51,12 @@ Indexed users: 2,037
 | 12 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,710 |
 | 13 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,606 |
 | 14 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
-| 15 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 1,448 |
-| 16 | [cephasgm](https://github.com/cephasgm) | CephasGM | Dar Es Salaam, Tanzania | 1,389 |
-| 17 | [cozej4](https://github.com/cozej4) | Ilakoze Jumanne | Tanzania | 1,248 |
-| 18 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 1,238 |
-| 19 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Mbeya,Tanzania | 1,193 |
-| 20 | [dadyutenga](https://github.com/dadyutenga) | Dadi Nasser Utenga | Tanzania | 1,149 |
+| 15 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,516 |
+| 16 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 1,448 |
+| 17 | [cephasgm](https://github.com/cephasgm) | CephasGM | Dar Es Salaam, Tanzania | 1,389 |
+| 18 | [cozej4](https://github.com/cozej4) | Ilakoze Jumanne | Tanzania | 1,248 |
+| 19 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 1,238 |
+| 20 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Mbeya,Tanzania | 1,193 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,037
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 175 |
 
-Generated: 2026-10-08T06:33:19.782Z
+Generated: 2026-10-08T07:18:50.931Z

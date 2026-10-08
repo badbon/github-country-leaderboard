@@ -1,15 +1,15 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-08T04:15:15.592Z
+Generated: 2026-10-08T06:59:48.035Z
 
 Users: 1284
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | EduFocal Limited |  | Kingston, Jamaica  | 43079 |
-| 2 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 11040 |
-| 3 | [slocker3](https://github.com/slocker3) | Stephen Locker |  |  | Kingston, WA | 10199 |
-| 4 | [eforth](https://github.com/eforth) | Ervin Forth | Healthcare EQ | ErvinForth | Jamaica | 9359 |
+| 2 | [slocker3](https://github.com/slocker3) | Stephen Locker |  |  | Kingston, WA | 10199 |
+| 3 | [eforth](https://github.com/eforth) | Ervin Forth | Healthcare EQ | ErvinForth | Jamaica | 9359 |
+| 4 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 9101 |
 | 5 | [kenoButler](https://github.com/kenoButler) | KenoB | @Appigo  |  | Kingston, Jamaica | 6980 |
 | 6 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 6626 |
 | 7 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 5685 |

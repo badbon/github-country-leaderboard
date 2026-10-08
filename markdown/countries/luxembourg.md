@@ -31,7 +31,7 @@ Indexed users: 2,206
 | 17 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 5,409 |
 | 18 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | Luxembourg | 5,348 |
 | 19 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 4,946 |
-| 20 | [lukasjhan](https://github.com/lukasjhan) | Lukas.J.Han | Luxembourg / Luxembourg | 4,861 |
+| 20 | [lukasjhan](https://github.com/lukasjhan) | Lukas.J.Han | Luxembourg / Luxembourg | 4,765 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,206
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-10-08T04:11:41.173Z
+Generated: 2026-10-08T07:02:46.176Z

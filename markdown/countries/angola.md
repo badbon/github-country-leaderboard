@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,506
+Indexed users: 2,504
 
 | Leaderboard | Link |
 |---|---|
@@ -44,18 +44,18 @@ Indexed users: 2,506
 | 5 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,104 |
 | 6 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,942 |
 | 7 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | Luanda | 1,899 |
-| 8 | [angelo-francisco](https://github.com/angelo-francisco) | Ângelo Francisco | Luanda, Angola | 1,627 |
-| 9 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | Moçâmedes, Namibe, Angola | 1,400 |
-| 10 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,273 |
-| 11 | [Emicy963](https://github.com/Emicy963) | Cafu Dev | Huambo, Angola | 1,217 |
-| 12 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,200 |
-| 13 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
-| 14 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga | Angola | 1,090 |
-| 15 | [tiagomatias930](https://github.com/tiagomatias930) | Tiago Matias  | Luanda-Talatona | 980 |
-| 16 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | Angola, Luanda, Viana | 945 |
-| 17 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 943 |
-| 18 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 940 |
-| 19 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 932 |
+| 8 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | Moçâmedes, Namibe, Angola | 1,400 |
+| 9 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,273 |
+| 10 | [Emicy963](https://github.com/Emicy963) | Cafu Dev | Huambo, Angola | 1,217 |
+| 11 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,200 |
+| 12 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
+| 13 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga | Angola | 1,090 |
+| 14 | [tiagomatias930](https://github.com/tiagomatias930) | Tiago Matias  | Luanda-Talatona | 980 |
+| 15 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | Angola, Luanda, Viana | 945 |
+| 16 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 943 |
+| 17 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 940 |
+| 18 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 932 |
+| 19 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 930 |
 | 20 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 921 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 2,506
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-08T06:41:01.783Z
+Generated: 2026-10-08T07:25:34.311Z

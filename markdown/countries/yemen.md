@@ -53,10 +53,10 @@ Indexed users: 1,211
 | 14 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | sana'a  | 1,140 |
 | 15 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi | Yemen | 1,110 |
 | 16 | [716W](https://github.com/716W) | Ali Bin-Samida | Yemen | 973 |
-| 17 | [HassanY1010](https://github.com/HassanY1010) | Hassan | Yemen | 681 |
-| 18 | [Alhareith](https://github.com/Alhareith) | Eng.Alhareth Al-Dahya | Yemen , Ibb | 611 |
-| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 609 |
-| 20 | [salem-baqatyan](https://github.com/salem-baqatyan) | Salem Baqatyan  | Yemen/Hadhramaut/Mukalla | 607 |
+| 17 | [yswef](https://github.com/yswef) | yswef alhmzy | yemen | 759 |
+| 18 | [HassanY1010](https://github.com/HassanY1010) | Hassan | Yemen | 681 |
+| 19 | [Alhareith](https://github.com/Alhareith) | Eng.Alhareth Al-Dahya | Yemen , Ibb | 611 |
+| 20 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 609 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,211
 | 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 158 |
 | 20 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 157 |
 
-Generated: 2026-10-08T06:39:13.401Z
+Generated: 2026-10-08T07:23:41.833Z

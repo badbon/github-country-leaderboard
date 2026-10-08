@@ -15,7 +15,7 @@ Indexed users: 442
 | 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 10,957 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,280 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 6,326 |
-| 4 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 4,528 |
+| 4 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,325 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 3,792 |
 | 6 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,272 |
 | 7 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,023 |
@@ -37,8 +37,8 @@ Indexed users: 442
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 4,767 |
-| 2 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 4,528 |
+| 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,325 |
+| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 4,767 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,526 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,257 |
 | 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 1,773 |
@@ -46,9 +46,9 @@ Indexed users: 442
 | 7 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
 | 8 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,126 |
 | 9 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,025 |
-| 10 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 885 |
-| 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
-| 12 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 798 |
+| 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 919 |
+| 11 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 885 |
+| 12 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
 | 14 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 649 |
 | 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
@@ -83,4 +83,4 @@ Indexed users: 442
 | 19 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 66 |
 
-Generated: 2026-10-08T04:12:05.346Z
+Generated: 2026-10-08T07:03:39.511Z

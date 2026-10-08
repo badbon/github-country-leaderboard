@@ -26,12 +26,12 @@ Indexed users: 719
 | 12 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,696 |
 | 13 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,695 |
 | 14 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 3,083 |
-| 15 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 2,754 |
-| 16 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 2,644 |
-| 17 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 2,558 |
-| 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 2,535 |
-| 19 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 2,496 |
-| 20 | [hirvesh](https://github.com/hirvesh) | Hirvesh | Mauritius | 2,491 |
+| 15 | [asitrakah](https://github.com/asitrakah) | Sitraka Andrianarisoa | Grand Baie, Mauritius | 2,965 |
+| 16 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 2,754 |
+| 17 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 2,644 |
+| 18 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 2,558 |
+| 19 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 2,535 |
+| 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 2,496 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 719
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 73 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 65 |
 
-Generated: 2026-10-08T04:15:47.176Z
+Generated: 2026-10-08T07:05:15.279Z

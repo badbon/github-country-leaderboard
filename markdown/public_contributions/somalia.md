@@ -1,8 +1,8 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-08T06:31:37.767Z
+Generated: 2026-10-08T07:15:30.472Z
 
-Users: 861
+Users: 860
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 861
 | 12 | [ali-hmed](https://github.com/ali-hmed) | Ali ahmed |  |  | Mogadishu, Somalia | 647 |
 | 13 | [karimsaabir9](https://github.com/karimsaabir9) | Sabir Salad Hassan |  | karimsaabir9 | Mogadishu-Somalia | 596 |
 | 14 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 570 |
-| 15 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 519 |
-| 16 | [IshakAbdiazizHussen](https://github.com/IshakAbdiazizHussen) | Ishak Abdiaziz Hussein | Independent Software Engineer \| AI Engineer  |  | Mogadisho, Somalia | 511 |
-| 17 | [mohamudabdikarin](https://github.com/mohamudabdikarin) | Mohamud Abdikarim |  |  | Somalia | 498 |
-| 18 | [IbnuAlii](https://github.com/IbnuAlii) | Mohamed Ali Nor |  | IbnuAli | Somalia | 468 |
-| 19 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir |  | khaledyusuf44 | Mogadishu | 467 |
-| 20 | [marshaale](https://github.com/marshaale) |  |  |  | Somalia | 467 |
+| 15 | [hafsahassan23](https://github.com/hafsahassan23) | Hafsa Hassan Ahmed | Zamzam University of Science and Technology | HafsaHaajji | Mogadishu-Somalia | 529 |
+| 16 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 519 |
+| 17 | [IshakAbdiazizHussen](https://github.com/IshakAbdiazizHussen) | Ishak Abdiaziz Hussein | Independent Software Engineer \| AI Engineer  |  | Mogadisho, Somalia | 511 |
+| 18 | [mohamudabdikarin](https://github.com/mohamudabdikarin) | Mohamud Abdikarim |  |  | Somalia | 498 |
+| 19 | [IbnuAlii](https://github.com/IbnuAlii) | Mohamed Ali Nor |  | IbnuAli | Somalia | 468 |
+| 20 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir |  | khaledyusuf44 | Mogadishu | 467 |

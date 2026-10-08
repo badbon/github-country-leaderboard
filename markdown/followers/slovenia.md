@@ -1,8 +1,8 @@
 # Followers - Slovenia
 
-Generated: 2026-10-08T06:31:29.424Z
+Generated: 2026-10-08T07:15:21.833Z
 
-Users: 3112
+Users: 3111
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

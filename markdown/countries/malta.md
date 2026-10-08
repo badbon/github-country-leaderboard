@@ -1,6 +1,6 @@
 # Malta
 
-Indexed users: 1,228
+Indexed users: 1,230
 
 | Leaderboard | Link |
 |---|---|
@@ -31,14 +31,14 @@ Indexed users: 1,228
 | 17 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
 | 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,272 |
 | 19 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 4,993 |
-| 20 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 4,913 |
+| 20 | [ozgeahras](https://github.com/ozgeahras) | Özge Ahras | Malta | 4,920 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 4,988 |
-| 2 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 4,912 |
+| 2 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,588 |
 | 3 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,561 |
 | 4 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,381 |
 | 5 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,341 |
@@ -83,4 +83,4 @@ Indexed users: 1,228
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
 
-Generated: 2026-10-08T04:15:12.488Z
+Generated: 2026-10-08T07:11:16.118Z

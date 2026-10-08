@@ -1,6 +1,6 @@
 # Total Contributions - Laos
 
-Generated: 2026-10-08T04:09:19.464Z
+Generated: 2026-10-08T07:01:57.419Z
 
 Users: 359
 
@@ -8,13 +8,13 @@ Users: 359
 |---:|---|---|---|---|---|---:|
 | 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 30941 |
 | 2 | [Sengkue](https://github.com/Sengkue) | SengKueVang |  |  | Laos, Vientiane capital | 19296 |
-| 3 | [TKXDev](https://github.com/TKXDev) | TKXDev |  |  | Vientiane,Laos | 4965 |
-| 4 | [Black13313](https://github.com/Black13313) | Phonepaseuth Keodouangchit | Wenova Co., LTD ( CTO ) |  | Laos | 4494 |
-| 5 | [Bee777](https://github.com/Bee777) | Bee |  |  | Vientiane | 3773 |
+| 3 | [Bee777](https://github.com/Bee777) | Bee |  |  | Vientiane | 5116 |
+| 4 | [TKXDev](https://github.com/TKXDev) | TKXDev |  |  | Vientiane,Laos | 4965 |
+| 5 | [Black13313](https://github.com/Black13313) | Phonepaseuth Keodouangchit | Wenova Co., LTD ( CTO ) |  | Laos | 4494 |
 | 6 | [tibeemts](https://github.com/tibeemts) | Tibee Bouasavanh | Multimedia & Technology Solutions | mtslao | Vientiane, Laos | 3616 |
 | 7 | [Pitpy](https://github.com/Pitpy) | Pitpy BPSS | BCEL | Pitpy | Vientiane, Laos | 3259 |
 | 8 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG |  |  | Vientiane Capital, Laos | 2969 |
-| 9 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 2073 |
+| 9 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 2552 |
 | 10 | [vilasone455](https://github.com/vilasone455) |  |  |  | Laos | 1882 |
 | 11 | [Thanakone123](https://github.com/Thanakone123) | Un |  |  | Laos | 1780 |
 | 12 | [Anousack789](https://github.com/Anousack789) | Anousack |  |  | Vientiane | 1714 |

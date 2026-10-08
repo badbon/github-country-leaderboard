@@ -1,13 +1,13 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-08T04:12:05.346Z
+Generated: 2026-10-08T07:03:39.511Z
 
 Users: 442
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 4767 |
-| 2 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 4528 |
+| 1 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5325 |
+| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 4767 |
 | 3 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2526 |
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2257 |
 | 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 1773 |
@@ -15,9 +15,9 @@ Users: 442
 | 7 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1226 |
 | 8 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1126 |
 | 9 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1025 |
-| 10 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 885 |
-| 11 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 842 |
-| 12 | [mrvictoru](https://github.com/mrvictoru) | Victor |  |  | Macau | 798 |
+| 10 | [mrvictoru](https://github.com/mrvictoru) | Victor |  |  | Macau | 919 |
+| 11 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 885 |
+| 12 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 842 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint |  |  | Macau | 758 |
 | 14 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 649 |
 | 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |

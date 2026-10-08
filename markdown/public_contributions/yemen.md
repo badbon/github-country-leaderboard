@@ -1,6 +1,6 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-08T06:39:13.401Z
+Generated: 2026-10-08T07:23:41.833Z
 
 Users: 1211
 
@@ -22,7 +22,7 @@ Users: 1211
 | 14 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 1140 |
 | 15 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi |  |  | Yemen | 1110 |
 | 16 | [716W](https://github.com/716W) | Ali Bin-Samida | Hadramout |  | Yemen | 973 |
-| 17 | [HassanY1010](https://github.com/HassanY1010) | Hassan |  |  | Yemen | 681 |
-| 18 | [Alhareith](https://github.com/Alhareith) | Eng.Alhareth Al-Dahya |  |  | Yemen , Ibb | 611 |
-| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 609 |
-| 20 | [salem-baqatyan](https://github.com/salem-baqatyan) | Salem Baqatyan  |  |  | Yemen/Hadhramaut/Mukalla | 607 |
+| 17 | [yswef](https://github.com/yswef) | yswef alhmzy | @alphacode-ye  |  | yemen | 759 |
+| 18 | [HassanY1010](https://github.com/HassanY1010) | Hassan |  |  | Yemen | 681 |
+| 19 | [Alhareith](https://github.com/Alhareith) | Eng.Alhareth Al-Dahya |  |  | Yemen , Ibb | 611 |
+| 20 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 609 |

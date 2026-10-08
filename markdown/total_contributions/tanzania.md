@@ -1,8 +1,8 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-08T06:33:19.782Z
+Generated: 2026-10-08T07:18:50.931Z
 
-Users: 2037
+Users: 2036
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

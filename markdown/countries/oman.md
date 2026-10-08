@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 1,005
+Indexed users: 1,004
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,005
 | 19 | [123usef](https://github.com/123usef) | Yousif Mohamed | Muscat , Oman | 91 |
 | 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 
-Generated: 2026-10-08T04:23:02.035Z
+Generated: 2026-10-08T07:09:04.564Z

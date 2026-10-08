@@ -1,6 +1,6 @@
 # Public Contributions - Laos
 
-Generated: 2026-10-08T04:09:19.464Z
+Generated: 2026-10-08T07:01:57.419Z
 
 Users: 359
 
@@ -8,8 +8,8 @@ Users: 359
 |---:|---|---|---|---|---|---:|
 | 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 4132 |
 | 2 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG |  |  | Vientiane Capital, Laos | 1417 |
-| 3 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 1054 |
-| 4 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 696 |
+| 3 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 1220 |
+| 4 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 1054 |
 | 5 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 442 |
 | 6 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly |  |  | Vientiane, Laos | 387 |
 | 7 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 385 |

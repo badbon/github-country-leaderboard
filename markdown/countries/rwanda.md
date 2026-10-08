@@ -1,6 +1,6 @@
 # Rwanda
 
-Indexed users: 3,529
+Indexed users: 3,527
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,529
 | 19 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 314 |
 | 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | Rwanda | 306 |
 
-Generated: 2026-10-08T04:29:18.484Z
+Generated: 2026-10-08T07:12:42.560Z

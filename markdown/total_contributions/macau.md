@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-08T04:12:05.346Z
+Generated: 2026-10-08T07:03:39.511Z
 
 Users: 442
 
@@ -9,7 +9,7 @@ Users: 442
 | 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam |  |  | Macau | 10957 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 9280 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  |  |  | Macau | 6326 |
-| 4 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 4528 |
+| 4 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5325 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu |  |  | Macau | 3792 |
 | 6 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3272 |
 | 7 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3023 |

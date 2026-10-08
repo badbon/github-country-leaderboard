@@ -1,13 +1,13 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-08T04:15:12.488Z
+Generated: 2026-10-08T07:11:16.118Z
 
-Users: 1228
+Users: 1230
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 4988 |
-| 2 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 4912 |
+| 2 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 3588 |
 | 3 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi |  |  | Malta | 3561 |
 | 4 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 3381 |
 | 5 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3341 |

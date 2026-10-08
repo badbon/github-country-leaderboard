@@ -19,11 +19,11 @@ Indexed users: 215
 | 5 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 6,774 |
 | 6 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,257 |
 | 7 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 5,777 |
-| 8 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,174 |
-| 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,103 |
-| 10 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,810 |
-| 11 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 4,473 |
-| 12 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 4,409 |
+| 8 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 5,678 |
+| 9 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,174 |
+| 10 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,103 |
+| 11 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,810 |
+| 12 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 4,473 |
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 3,892 |
 | 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,702 |
 | 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 3,443 |
@@ -37,7 +37,7 @@ Indexed users: 215
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 4,409 |
+| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 5,678 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,948 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 1,033 |
 | 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 754 |
@@ -69,7 +69,7 @@ Indexed users: 215
 | 5 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 156 |
 | 6 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 139 |
 | 7 | [matchilling](https://github.com/matchilling) | Matías J. Schilling | Andorra | 129 |
-| 8 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 124 |
+| 8 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 126 |
 | 9 | [JMariadlcs](https://github.com/JMariadlcs) | Jose María de la Cruz | Andorra | 119 |
 | 10 | [damarnez](https://github.com/damarnez) | Dani Martin Jimenez | Andorra | 105 |
 | 11 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 102 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-08T06:40:07.244Z
+Generated: 2026-10-08T07:25:26.493Z

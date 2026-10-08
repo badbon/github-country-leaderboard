@@ -31,7 +31,7 @@ Indexed users: 2,459
 | 17 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,042 |
 | 18 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 3,873 |
 | 19 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 3,615 |
-| 20 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 3,338 |
+| 20 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyzstan | 3,390 |
 
 ## Public Contributions
 
@@ -39,24 +39,24 @@ Indexed users: 2,459
 |---:|---|---|---|---:|
 | 1 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 11,809 |
 | 2 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 3,485 |
-| 3 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | Bishkek | 2,600 |
-| 4 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 2,262 |
-| 5 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Bishkek, Kyrgyzstan  | 1,843 |
-| 6 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,651 |
-| 7 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko | Bishkek, Kyrgyzstan (Relocated) | 1,626 |
-| 8 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 1,598 |
-| 9 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | Bishkek | 1,336 |
-| 10 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | Bishkek, Kyrgyzstan | 1,261 |
-| 11 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | Bishkek, Kyrgyzstan | 1,247 |
-| 12 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | Bishkek | 1,203 |
-| 13 | [enoobis](https://github.com/enoobis) | Daniel Becerra | Bishkek / Kyrgyzstan | 1,184 |
-| 14 | [dioritdev](https://github.com/dioritdev) | DIOR | Kyrgyzstan/Osh | 1,130 |
-| 15 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
-| 16 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 991 |
-| 17 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 897 |
-| 18 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 822 |
-| 19 | [dimonss](https://github.com/dimonss) | Dmitrii | Bishkek,  Kyrgyzstan | 762 |
-| 20 | [johnlepikhin](https://github.com/johnlepikhin) | Evgenii Lepikhin | Bishkek, Kyrgyzstan | 760 |
+| 3 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyzstan | 3,248 |
+| 4 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | Bishkek | 2,600 |
+| 5 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 2,262 |
+| 6 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Bishkek, Kyrgyzstan  | 1,843 |
+| 7 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,651 |
+| 8 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko | Bishkek, Kyrgyzstan (Relocated) | 1,626 |
+| 9 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 1,598 |
+| 10 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | Bishkek | 1,336 |
+| 11 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | Bishkek, Kyrgyzstan | 1,261 |
+| 12 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | Bishkek, Kyrgyzstan | 1,247 |
+| 13 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | Bishkek | 1,203 |
+| 14 | [enoobis](https://github.com/enoobis) | Daniel Becerra | Bishkek / Kyrgyzstan | 1,184 |
+| 15 | [dioritdev](https://github.com/dioritdev) | DIOR | Kyrgyzstan/Osh | 1,130 |
+| 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
+| 17 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 991 |
+| 18 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 897 |
+| 19 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 822 |
+| 20 | [dimonss](https://github.com/dimonss) | Dmitrii | Bishkek,  Kyrgyzstan | 762 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,459
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 101 |
 
-Generated: 2026-10-08T04:08:54.092Z
+Generated: 2026-10-08T07:01:54.154Z

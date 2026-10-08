@@ -1,6 +1,6 @@
 # Puerto Rico
 
-Indexed users: 1,548
+Indexed users: 1,546
 
 | Leaderboard | Link |
 |---|---|
@@ -23,9 +23,9 @@ Indexed users: 1,548
 | 9 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
 | 10 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
 | 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 5,992 |
-| 12 | [jv-pv](https://github.com/jv-pv) | John Pieri | Puerto Rico | 5,473 |
-| 13 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,337 |
-| 14 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,216 |
+| 12 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,337 |
+| 13 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,216 |
+| 14 | [jv-pv](https://github.com/jv-pv) | John Pieri | Puerto Rico | 5,125 |
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,858 |
 | 16 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 4,810 |
 | 17 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez | Puerto Rico | 4,730 |
@@ -83,4 +83,4 @@ Indexed users: 1,548
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-08T04:26:28.027Z
+Generated: 2026-10-08T07:12:09.474Z

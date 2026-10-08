@@ -17,14 +17,14 @@ Indexed users: 211
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,461 |
 | 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,770 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,498 |
-| 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | Reunion Island | 2,771 |
+| 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | Reunion Island | 2,772 |
 | 7 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 2,413 |
 | 8 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Saint-Denis | 2,238 |
 | 9 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv | Reunion Island | 2,187 |
-| 10 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 2,040 |
-| 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman | Saint-Denis, Réunion | 2,036 |
+| 10 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 2,043 |
+| 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman | Saint-Denis, Réunion | 2,030 |
 | 12 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,951 |
-| 13 | [John361](https://github.com/John361) | John | Réunion | 1,860 |
+| 13 | [John361](https://github.com/John361) | John | Réunion | 1,861 |
 | 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,804 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,739 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,496 |
@@ -45,7 +45,7 @@ Indexed users: 211
 | 6 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 716 |
 | 7 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 705 |
 | 8 | [Karl97490](https://github.com/Karl97490) | Karl Pery-Potonie | Réunion | 486 |
-| 9 | [John361](https://github.com/John361) | John | Réunion | 342 |
+| 9 | [John361](https://github.com/John361) | John | Réunion | 343 |
 | 10 | [W-D0n](https://github.com/W-D0n) | D0n | Reunion Island | 335 |
 | 11 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 308 |
 | 12 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | Reunion Island | 293 |
@@ -83,4 +83,4 @@ Indexed users: 211
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-08T04:28:28.828Z
+Generated: 2026-10-08T07:12:34.876Z

@@ -1,8 +1,8 @@
 # Public Contributions - Tanzania
 
-Generated: 2026-10-08T06:33:19.782Z
+Generated: 2026-10-08T07:18:50.931Z
 
-Users: 2037
+Users: 2036
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 2037
 | 12 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | wizystudio |  | tanzania | 1710 |
 | 13 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. |  |  | Tanzania | 1606 |
 | 14 | [Maquiz1](https://github.com/Maquiz1) | Maquiz |  | maquiz_ | Tanzania | 1560 |
-| 15 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Busara Digital  |  | Dar Es Salaam, Tanzania | 1448 |
-| 16 | [cephasgm](https://github.com/cephasgm) | CephasGM |  |  | Dar Es Salaam, Tanzania | 1389 |
-| 17 | [cozej4](https://github.com/cozej4) | Ilakoze Jumanne |  |  | Tanzania | 1248 |
-| 18 | [cygon23](https://github.com/cygon23) | cygon |  |  | Tanzania | 1238 |
-| 19 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 1193 |
-| 20 | [dadyutenga](https://github.com/dadyutenga) | Dadi Nasser Utenga | BIG LITE CODE | DadyUtenga | Tanzania | 1149 |
+| 15 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi |  |  | Tanzania | 1516 |
+| 16 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Busara Digital  |  | Dar Es Salaam, Tanzania | 1448 |
+| 17 | [cephasgm](https://github.com/cephasgm) | CephasGM |  |  | Dar Es Salaam, Tanzania | 1389 |
+| 18 | [cozej4](https://github.com/cozej4) | Ilakoze Jumanne |  |  | Tanzania | 1248 |
+| 19 | [cygon23](https://github.com/cygon23) | cygon |  |  | Tanzania | 1238 |
+| 20 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 1193 |

@@ -49,7 +49,7 @@ Indexed users: 299
 | 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 370 |
 | 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 363 |
 | 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 343 |
-| 13 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 318 |
+| 13 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 317 |
 | 14 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 259 |
 | 15 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 258 |
 | 16 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 243 |
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-08T04:27:06.561Z
+Generated: 2026-10-08T07:12:15.407Z

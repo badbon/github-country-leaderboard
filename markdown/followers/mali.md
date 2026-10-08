@@ -1,6 +1,6 @@
 # Followers - Mali
 
-Generated: 2026-10-08T04:13:24.023Z
+Generated: 2026-10-08T07:04:31.011Z
 
 Users: 347
 
@@ -8,7 +8,7 @@ Users: 347
 |---:|---|---|---|---|---|---:|
 | 1 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | THL Technologies | ibrahimkelly99 | Mali | 195 |
 | 2 | [rgaudin](https://github.com/rgaudin) | rgaudin | yɛlɛman |  | Bamako, Mali | 129 |
-| 3 | [mkantem](https://github.com/mkantem) | Kante Mahamadou |  | mkantem | Mali | 112 |
+| 3 | [mkantem](https://github.com/mkantem) | Kante Mahamadou |  | mkantem | Mali | 120 |
 | 4 | [IvinoDev](https://github.com/IvinoDev) | Mariam Kayantao |  |  | Mali, Bamako | 69 |
 | 5 | [GUIND0](https://github.com/GUIND0) | Souleymane Guindo |  |  | Mali | 61 |
 | 6 | [Lex-corp-crypto](https://github.com/Lex-corp-crypto) | Amadou H TRAORE |  |  | Mali/Bamako | 50 |
@@ -25,4 +25,4 @@ Users: 347
 | 17 | [geekdjenika](https://github.com/geekdjenika) | Aboubacar DJENIKA | @thltechnologies  | geekdjenika | Bamako | 30 |
 | 18 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou |  |  | bamako, Mali | 29 |
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  |  |  | Mali/Bamako | 27 |
-| 20 | [Sidaty](https://github.com/Sidaty) | Sidaty Moulaye KOUREICHY | Log@ Engineering | ksidatym | Bamako, Mali | 27 |
+| 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | @axiora-dev | DiomanKeita | Bamako/Mali | 25 |

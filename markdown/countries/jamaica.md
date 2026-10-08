@@ -13,9 +13,9 @@ Indexed users: 1,284
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | Kingston, Jamaica  | 43,079 |
-| 2 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 11,040 |
-| 3 | [slocker3](https://github.com/slocker3) | Stephen Locker | Kingston, WA | 10,199 |
-| 4 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,359 |
+| 2 | [slocker3](https://github.com/slocker3) | Stephen Locker | Kingston, WA | 10,199 |
+| 3 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,359 |
+| 4 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 9,101 |
 | 5 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 6,980 |
 | 6 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 6,626 |
 | 7 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 5,685 |
@@ -37,7 +37,7 @@ Indexed users: 1,284
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 10,398 |
+| 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,578 |
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,880 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,845 |
 | 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,300 |
@@ -76,11 +76,11 @@ Indexed users: 1,284
 | 12 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | Kingston | 118 |
 | 13 | [justmat](https://github.com/justmat) | mat | Kingston, NY | 109 |
 | 14 | [juliemturner](https://github.com/juliemturner) | Julie Turner | East Kingston, NH | 108 |
-| 15 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 107 |
+| 15 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 106 |
 | 16 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Kingston, ON | 104 |
 | 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN | Kingston, Ontario | 102 |
 | 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 
-Generated: 2026-10-08T04:15:15.592Z
+Generated: 2026-10-08T06:59:48.035Z

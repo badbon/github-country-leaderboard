@@ -1,6 +1,6 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-08T04:15:47.176Z
+Generated: 2026-10-08T07:05:15.279Z
 
 Users: 719
 
@@ -20,9 +20,9 @@ Users: 719
 | 12 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | @RingierIMU  |  | Mauritius | 3696 |
 | 13 | [thhsie](https://github.com/thhsie) | hitesh |  |  | Mauritius | 3695 |
 | 14 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 3083 |
-| 15 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 2754 |
-| 16 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 2644 |
-| 17 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 2558 |
-| 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 2535 |
-| 19 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  |  | iwugodjoshua | Republic of Mauritius  | 2496 |
-| 20 | [hirvesh](https://github.com/hirvesh) | Hirvesh | Sand Technologies | Hirvesh | Mauritius | 2491 |
+| 15 | [asitrakah](https://github.com/asitrakah) | Sitraka Andrianarisoa |  |  | Grand Baie, Mauritius | 2965 |
+| 16 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 2754 |
+| 17 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 2644 |
+| 18 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 2558 |
+| 19 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 2535 |
+| 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  |  | iwugodjoshua | Republic of Mauritius  | 2496 |
