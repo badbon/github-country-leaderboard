@@ -1,6 +1,6 @@
 # Total Contributions - Armenia
 
-Generated: 2026-10-08T03:34:37.440Z
+Generated: 2026-10-08T06:41:34.925Z
 
 Users: 4046
 
@@ -22,7 +22,7 @@ Users: 4046
 | 14 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | BotScale |  | Armenia, Yerevan | 6763 |
 | 15 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 6618 |
 | 16 | [igoralentyev](https://github.com/igoralentyev) | Igor Alentyev |  |  | Armenia | 6525 |
-| 17 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | @FoilHats |  | Yerevan | 6361 |
-| 18 | [lanycrost](https://github.com/lanycrost) | Khachatur Ashotyan | Krisp | lanycrost | Yerevan | 6187 |
-| 19 | [hovakimyanarayik](https://github.com/hovakimyanarayik) | Arayik Hovakimyan |  |  | Yerevan, Armenia | 6181 |
-| 20 | [khabaroff](https://github.com/khabaroff) | Sergey Khabaroff |  |  | Yerevan | 5670 |
+| 17 | [namebogsecret](https://github.com/namebogsecret) | Vladimir Podlevskikh |  |  | Armenia Yerevan | 6418 |
+| 18 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | @FoilHats |  | Yerevan | 6361 |
+| 19 | [lanycrost](https://github.com/lanycrost) | Khachatur Ashotyan | Krisp | lanycrost | Yerevan | 6187 |
+| 20 | [hovakimyanarayik](https://github.com/hovakimyanarayik) | Arayik Hovakimyan |  |  | Yerevan, Armenia | 6181 |

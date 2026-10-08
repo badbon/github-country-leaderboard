@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,320
+Indexed users: 10,318
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 10,320
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [heilcheng](https://github.com/heilcheng) | hailey | Hong Kong | 964 |
 
-Generated: 2026-10-08T04:02:03.597Z
+Generated: 2026-10-08T06:55:20.073Z

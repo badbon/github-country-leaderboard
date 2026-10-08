@@ -1,6 +1,6 @@
 # Total Contributions - Sierra Leone
 
-Generated: 2026-10-08T03:14:06.740Z
+Generated: 2026-10-08T06:30:47.362Z
 
 Users: 442
 
@@ -12,8 +12,8 @@ Users: 442
 | 4 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 4992 |
 | 5 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Byte Limited |  | Freetown. Sierra Leone | 4228 |
 | 6 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 3718 |
-| 7 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 3293 |
-| 8 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala |  |  | Freetown, Sierra Leone	 | 2648 |
+| 7 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala |  |  | Freetown, Sierra Leone	 | 3364 |
+| 8 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 3293 |
 | 9 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | @DORB-AI |  | Sierra Leone | 2440 |
 | 10 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Course Paddy | samuelmoiwa | Sierra Leone | 2391 |
 | 11 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Korlie Limited | zombo_mah | Wilberforce, Freetown. | 2231 |

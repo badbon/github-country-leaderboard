@@ -1,8 +1,8 @@
 # Followers - Tajikistan
 
-Generated: 2026-10-08T03:20:06.007Z
+Generated: 2026-10-08T06:33:16.601Z
 
-Users: 707
+Users: 706
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

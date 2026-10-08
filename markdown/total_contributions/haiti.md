@@ -1,8 +1,8 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-08T04:01:53.893Z
+Generated: 2026-10-08T06:54:42.039Z
 
-Users: 340
+Users: 339
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 340
 | 16 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1043 |
 | 17 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 977 |
 | 18 | [EdManDev](https://github.com/EdManDev) | EdManDev | EdManDev | EdmanManigat | Haiti | 947 |
-| 19 | [deldesir](https://github.com/deldesir) | Blondel Mondesir |  |  | Haiti | 926 |
-| 20 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 901 |
+| 19 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 901 |
+| 20 | [AD0791](https://github.com/AD0791) | Alexandro Disla |  |  | Haiti | 731 |

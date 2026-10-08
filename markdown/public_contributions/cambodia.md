@@ -1,6 +1,6 @@
 # Public Contributions - Cambodia
 
-Generated: 2026-10-08T03:44:48.359Z
+Generated: 2026-10-08T06:44:44.795Z
 
 Users: 2883
 
@@ -24,5 +24,5 @@ Users: 2883
 | 16 | [thornrithy](https://github.com/thornrithy) | Thy |  |  | Phnom Penh | 1318 |
 | 17 | [limkhysok](https://github.com/limkhysok) | Limkhy Sok |  |  | Cambodia | 1285 |
 | 18 | [monmatprogramer](https://github.com/monmatprogramer) | Mon  Mat | Employee |  | Cambodia | 1211 |
-| 19 | [tola-san](https://github.com/tola-san) |  |  |  | Cambodia | 1151 |
-| 20 | [PisethChuon](https://github.com/PisethChuon) | Piseth Chuon |  | Chuon1_Piseth | Phnom Penh | 1125 |
+| 19 | [PisethChuon](https://github.com/PisethChuon) | Piseth Chuon |  | Chuon1_Piseth | Phnom Penh | 1125 |
+| 20 | [tola-san](https://github.com/tola-san) |  |  |  | Cambodia | 1110 |

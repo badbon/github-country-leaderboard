@@ -1,8 +1,8 @@
 # Followers - Senegal
 
-Generated: 2026-10-08T03:13:55.001Z
+Generated: 2026-10-08T06:30:35.309Z
 
-Users: 1363
+Users: 1362
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,10 +17,10 @@ Users: 1363
 | 9 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye |  | the_it_dev | Dakar, Senegal | 193 |
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Eyone | Medoune_SGB | Dakar | 192 |
 | 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | 01SERVICES | dofbi | Senegal | 180 |
-| 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | École Supérieure Polytechnique |  | Dakar | 177 |
+| 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | École Supérieure Polytechnique |  | Dakar | 180 |
 | 13 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko |  |  | Dakar, Senegal | 172 |
 | 14 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | None |  | Dakar | 168 |
-| 15 | [yayediop2](https://github.com/yayediop2) | Yaye Fatou | Zone 01 Dakar |  | Dakar, Sn | 167 |
+| 15 | [yayediop2](https://github.com/yayediop2) | Yaye Fatou | Zone 01 Dakar |  | Dakar, Sn | 165 |
 | 16 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo |  | RidwaneD | Dakar - Senegal | 159 |
 | 17 | [kasali](https://github.com/kasali) | kasali | Freelancer | kadev4solutions | Dakar Sénégal | 153 |
 | 18 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Samane Corporation | NgorSeck | Dakar - Sénégal | 139 |

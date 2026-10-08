@@ -1,6 +1,6 @@
 # Tajikistan
 
-Indexed users: 707
+Indexed users: 706
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 707
 | 19 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 46 |
 
-Generated: 2026-10-08T03:20:06.007Z
+Generated: 2026-10-08T06:33:16.601Z

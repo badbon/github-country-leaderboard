@@ -1,6 +1,6 @@
 # Total Contributions - Aruba
 
-Generated: 2026-10-08T03:34:41.138Z
+Generated: 2026-10-08T06:41:37.575Z
 
 Users: 38
 
@@ -13,7 +13,7 @@ Users: 38
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 495 |
 | 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | BlueKoala |  | Oranjestad, Aruba | 201 |
 | 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Next Inn Games |  | Aruba | 174 |
-| 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | ZOS Consultancy |  | Aruba | 108 |
+| 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | ZOS Consultancy |  | Aruba | 116 |
 | 9 | [Veknica](https://github.com/Veknica) | Pola Sendviča |  |  | Oranjestad | 72 |
 | 10 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | AIB, UTwente |  | Oranjestad, Aruba | 51 |
 | 11 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 48 |

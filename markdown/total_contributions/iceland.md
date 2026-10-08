@@ -1,8 +1,8 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-08T04:02:10.899Z
+Generated: 2026-10-08T06:55:48.937Z
 
-Users: 1584
+Users: 1583
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 1584
 | 17 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 5501 |
 | 18 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 5396 |
 | 19 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | ƒ → sys → cell → db.team  |  | island( waiheke( nz )) | 5113 |
-| 20 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Nova |  | Iceland | 5037 |
+| 20 | [elfaralfreds](https://github.com/elfaralfreds) | Elfar Alfreðsson | Troll Expeditions |  | Akureyri, Iceland | 5042 |

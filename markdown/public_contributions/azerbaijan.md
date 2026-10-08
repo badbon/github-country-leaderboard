@@ -1,6 +1,6 @@
 # Public Contributions - Azerbaijan
 
-Generated: 2026-10-08T03:34:47.099Z
+Generated: 2026-10-08T06:42:08.887Z
 
 Users: 5097
 
@@ -16,7 +16,7 @@ Users: 5097
 | 8 | [tagizadeorxan](https://github.com/tagizadeorxan) | Orkhan Taghizade |  |  | Baku, Azerbaijan | 3668 |
 | 9 | [BilgeGates](https://github.com/BilgeGates) | Khatai Huseynzada |  |  | Azerbaijan | 3339 |
 | 10 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | ADA & George Washington University | sadigaxund | Baku, Azerbaijan | 2988 |
-| 11 | [Ramazan-ryu](https://github.com/Ramazan-ryu) | ramazan_mustafayev |  |  | Baku | 2843 |
+| 11 | [Ramazan-ryu](https://github.com/Ramazan-ryu) | ramazan_mustafayev |  |  | Baku | 2729 |
 | 12 | [agasefmemmedli](https://github.com/agasefmemmedli) | Agasef Memmedli | XalqBank |  | Azerbaijan , Baku . | 2508 |
 | 13 | [Firdovsirz](https://github.com/Firdovsirz) | Firdovsi Rzaev |  |  | Baku | 2290 |
 | 14 | [Aytac21](https://github.com/Aytac21) | Aytac Mehdizadə |  |  | Baku | 2082 |

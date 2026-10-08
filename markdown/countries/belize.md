@@ -12,7 +12,7 @@ Indexed users: 95
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 2,275 |
+| 1 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 2,447 |
 | 2 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 2,045 |
 | 3 | [roock3r](https://github.com/roock3r) | Cristian Silva | Belize | 1,865 |
 | 4 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,650 |
@@ -22,7 +22,7 @@ Indexed users: 95
 | 8 | [Jaymar](https://github.com/Jaymar) | Jaymar Zane Noralez | Belize | 1,127 |
 | 9 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 925 |
 | 10 | [TadeoBennett](https://github.com/TadeoBennett) | TheTechieINTJ | Belize | 915 |
-| 11 | [amirihoare](https://github.com/amirihoare) | Amiri Hoare | Belize | 690 |
+| 11 | [amirihoare](https://github.com/amirihoare) | Amiri Hoare | Belize | 689 |
 | 12 | [krispyre](https://github.com/krispyre) | kris | Belize | 392 |
 | 13 | [MounsC](https://github.com/MounsC) | Mouns | Belize | 368 |
 | 14 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers | Belize  | 341 |
@@ -51,7 +51,7 @@ Indexed users: 95
 | 12 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 80 |
 | 13 | [JerryHamm](https://github.com/JerryHamm) | Jeremiah Hammond | Ladyville, Belize | 77 |
 | 14 | [Rubi3r3](https://github.com/Rubi3r3) | Rubiere Ramirez | Belize | 71 |
-| 15 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Belize | 59 |
+| 15 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Belize | 58 |
 | 16 | [erichanson](https://github.com/erichanson) | Eric Hanson | Belize | 45 |
 | 17 | [GirlWhoCodes14](https://github.com/GirlWhoCodes14) | Alexis Ayuso | Belize | 42 |
 | 18 | [FranceCawich](https://github.com/FranceCawich) | Francis Cawich | Belize | 33 |
@@ -83,4 +83,4 @@ Indexed users: 95
 | 19 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 7 |
 | 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
 
-Generated: 2026-10-08T03:36:28.688Z
+Generated: 2026-10-08T06:42:52.261Z

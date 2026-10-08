@@ -25,12 +25,12 @@ Indexed users: 215
 | 11 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 4,473 |
 | 12 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 4,409 |
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 3,892 |
-| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,676 |
+| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,702 |
 | 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 3,443 |
 | 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,396 |
 | 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,355 |
 | 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
-| 19 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,760 |
+| 19 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,778 |
 | 20 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 2,622 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-08T03:32:38.686Z
+Generated: 2026-10-08T06:40:07.244Z

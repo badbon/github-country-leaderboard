@@ -1,6 +1,6 @@
 # Lesotho
 
-Indexed users: 159
+Indexed users: 160
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 159
 | 19 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Maseru | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-08T04:10:24.282Z
+Generated: 2026-10-08T06:44:37.855Z

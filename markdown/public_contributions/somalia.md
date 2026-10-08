@@ -1,8 +1,8 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-08T03:15:58.785Z
+Generated: 2026-10-08T06:31:37.767Z
 
-Users: 863
+Users: 861
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 863
 | 11 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 682 |
 | 12 | [ali-hmed](https://github.com/ali-hmed) | Ali ahmed |  |  | Mogadishu, Somalia | 647 |
 | 13 | [karimsaabir9](https://github.com/karimsaabir9) | Sabir Salad Hassan |  | karimsaabir9 | Mogadishu-Somalia | 596 |
-| 14 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 519 |
-| 15 | [IshakAbdiazizHussen](https://github.com/IshakAbdiazizHussen) | Ishak Abdiaziz Hussein | Independent Software Engineer \| AI Engineer  |  | Mogadisho, Somalia | 511 |
-| 16 | [IbnuAlii](https://github.com/IbnuAlii) | Mohamed Ali Nor |  | IbnuAli | Somalia | 468 |
-| 17 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir |  | khaledyusuf44 | Mogadishu | 467 |
-| 18 | [marshaale](https://github.com/marshaale) |  |  |  | Somalia | 467 |
-| 19 | [hafsahassan23](https://github.com/hafsahassan23) | Hafsa Hassan Ahmed | Zamzam University of Science and Technology | HafsaHaajji | Mogadishu-Somalia | 465 |
-| 20 | [mohamudabdikarin](https://github.com/mohamudabdikarin) | Mohamud Abdikarim |  |  | Somalia | 451 |
+| 14 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 570 |
+| 15 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 519 |
+| 16 | [IshakAbdiazizHussen](https://github.com/IshakAbdiazizHussen) | Ishak Abdiaziz Hussein | Independent Software Engineer \| AI Engineer  |  | Mogadisho, Somalia | 511 |
+| 17 | [mohamudabdikarin](https://github.com/mohamudabdikarin) | Mohamud Abdikarim |  |  | Somalia | 498 |
+| 18 | [IbnuAlii](https://github.com/IbnuAlii) | Mohamed Ali Nor |  | IbnuAli | Somalia | 468 |
+| 19 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir |  | khaledyusuf44 | Mogadishu | 467 |
+| 20 | [marshaale](https://github.com/marshaale) |  |  |  | Somalia | 467 |

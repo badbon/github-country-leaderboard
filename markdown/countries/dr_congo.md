@@ -19,11 +19,11 @@ Indexed users: 699
 | 5 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 7,789 |
 | 6 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,855 |
 | 7 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | Democratic Republic of the Congo, Goma | 6,294 |
-| 8 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 5,904 |
-| 9 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 5,891 |
-| 10 | [merdielongo](https://github.com/merdielongo) | merdielongo | Congo / Kinshasa | 5,709 |
-| 11 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,087 |
-| 12 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 4,690 |
+| 8 | [merdielongo](https://github.com/merdielongo) | merdielongo | Congo / Kinshasa | 6,162 |
+| 9 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 5,904 |
+| 10 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 5,891 |
+| 11 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 5,508 |
+| 12 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,087 |
 | 13 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,647 |
 | 14 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,563 |
 | 15 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,531 |
@@ -41,22 +41,22 @@ Indexed users: 699
 | 2 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 5,904 |
 | 3 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 3,150 |
 | 4 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 2,922 |
-| 5 | [vickbk](https://github.com/vickbk) | Victoire Bake | Goma, DR Congo | 2,769 |
-| 6 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa | kinshasa DRC | 1,359 |
-| 7 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | Kinshasa, DR Congo | 1,347 |
-| 8 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 1,293 |
-| 9 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinshasa | 1,255 |
-| 10 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki | Kinshasa, Drc | 1,201 |
-| 11 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI | Kinshasa, Democratic Republic of the Congo | 1,082 |
-| 12 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | Kinshasa | 1,057 |
-| 13 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | DRC, Kinshasa | 897 |
-| 14 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 839 |
-| 15 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | Democratic Republic of the Congo | 802 |
-| 16 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 800 |
-| 17 | [Holsonmp](https://github.com/Holsonmp) | Holson Mpangala | Kinshasa, Congo CD | 776 |
-| 18 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 765 |
-| 19 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  | Kinshasa  | 732 |
-| 20 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 677 |
+| 5 | [vickbk](https://github.com/vickbk) | Victoire Bake | Goma, DR Congo | 2,686 |
+| 6 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 1,694 |
+| 7 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa | kinshasa DRC | 1,359 |
+| 8 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | Kinshasa, DR Congo | 1,347 |
+| 9 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 1,293 |
+| 10 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinshasa | 1,255 |
+| 11 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki | Kinshasa, Drc | 1,201 |
+| 12 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI | Kinshasa, Democratic Republic of the Congo | 1,082 |
+| 13 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | Kinshasa | 1,057 |
+| 14 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | DRC, Kinshasa | 897 |
+| 15 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 839 |
+| 16 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | Democratic Republic of the Congo | 802 |
+| 17 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 800 |
+| 18 | [Holsonmp](https://github.com/Holsonmp) | Holson Mpangala | Kinshasa, Congo CD | 776 |
+| 19 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 765 |
+| 20 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  | Kinshasa  | 732 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 699
 | 19 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 71 |
 | 20 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 
-Generated: 2026-10-08T03:53:57.344Z
+Generated: 2026-10-08T06:50:28.551Z

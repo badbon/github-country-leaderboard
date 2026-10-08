@@ -1,6 +1,6 @@
 # Followers - Antarctica
 
-Generated: 2026-10-08T03:32:48.552Z
+Generated: 2026-10-08T06:41:25.878Z
 
 Users: 465
 
@@ -8,7 +8,7 @@ Users: 465
 |---:|---|---|---|---|---|---:|
 | 1 | [adam-maj](https://github.com/adam-maj) | Adam Majmudar | thirdweb | MajmudarAdam | South Pole, Antarctica | 1914 |
 | 2 | [Washi1337](https://github.com/Washi1337) | Washi |  | washi_dev | McMurdo Station, Antarctica | 610 |
-| 3 | [r-lyeh](https://github.com/r-lyeh) |  | C |  | Vostok, Antarctica | 463 |
+| 3 | [r-lyeh](https://github.com/r-lyeh) |  | C |  | Vostok, Antarctica | 465 |
 | 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon |  |  | Antarctica | 342 |
 | 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter |  |  | Antarctica | 216 |
 | 6 | [kura](https://github.com/kura) | Kura | @bbc  |  | Halley Research Station, Antarctica | 201 |

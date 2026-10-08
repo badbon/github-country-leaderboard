@@ -1,6 +1,6 @@
 # Public Contributions - Zimbabwe
 
-Generated: 2026-10-08T03:29:11.704Z
+Generated: 2026-10-08T06:39:20.522Z
 
 Users: 1654
 
@@ -23,6 +23,6 @@ Users: 1654
 | 15 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine |  | king_tine11 | Zimbabwe | 1426 |
 | 16 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 1424 |
 | 17 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Classgap |  | Harare Zimbabwe | 1249 |
-| 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Marwadi Education Foundation Group of Institutions, Rajkot Subdistrict |  | Harare Zimbabwe | 1197 |
-| 19 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura |  |  | Harare, Zimbabwe | 1092 |
-| 20 | [ohnonashe](https://github.com/ohnonashe) | Nashe Dan | @urafro  | dan_nashe | Harare, Zimbabwe | 1020 |
+| 18 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | eisax software services |  | Zimbabwe | 1220 |
+| 19 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Marwadi Education Foundation Group of Institutions, Rajkot Subdistrict |  | Harare Zimbabwe | 1197 |
+| 20 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura |  |  | Harare, Zimbabwe | 1092 |

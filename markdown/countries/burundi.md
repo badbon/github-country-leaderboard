@@ -25,8 +25,8 @@ Indexed users: 235
 | 11 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,295 |
 | 12 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,200 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,108 |
-| 14 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 1,021 |
-| 15 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,011 |
+| 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,011 |
+| 15 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 1,008 |
 | 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 982 |
 | 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 971 |
 | 18 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 936 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-08T03:43:23.228Z
+Generated: 2026-10-08T06:44:36.595Z

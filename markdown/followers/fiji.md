@@ -1,6 +1,6 @@
 # Followers - Fiji
 
-Generated: 2026-10-08T03:56:43.249Z
+Generated: 2026-10-08T06:52:37.365Z
 
 Users: 325
 
@@ -8,8 +8,8 @@ Users: 325
 |---:|---|---|---|---|---|---:|
 | 1 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 524 |
 | 2 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 134 |
-| 3 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 66 |
-| 4 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Forward company (FIJI) |  | Nadi ,Fiji | 66 |
+| 3 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Forward company (FIJI) |  | Nadi ,Fiji | 69 |
+| 4 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 66 |
 | 5 | [GeekTR](https://github.com/GeekTR) | Rui Tang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 65 |
 | 6 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 65 |
 | 7 | [Iapa](https://github.com/Iapa) | Ava Niu |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 39 |

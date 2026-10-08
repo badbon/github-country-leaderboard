@@ -20,12 +20,12 @@ Indexed users: 1,782
 | 6 | [ascott](https://github.com/ascott) | Alanna Scott | Victoria, BC | 7,211 |
 | 7 | [brandonellis](https://github.com/brandonellis) | Brandon Ellis | Victoria, BC | 6,893 |
 | 8 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 6,744 |
-| 9 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 6,537 |
-| 10 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
-| 11 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler | Victoria BC | 5,401 |
-| 12 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 5,331 |
-| 13 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 5,248 |
-| 14 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Seychelles | 5,239 |
+| 9 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Seychelles | 6,686 |
+| 10 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 6,537 |
+| 11 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
+| 12 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler | Victoria BC | 5,401 |
+| 13 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 5,331 |
+| 14 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 5,248 |
 | 15 | [matchdav](https://github.com/matchdav) | Matthew Davidson | Victoria | 5,223 |
 | 16 | [dewolfe001](https://github.com/dewolfe001) | Shawn DeWolfe | Saanichton BC (aka part of Victoria BC) | 5,132 |
 | 17 | [bradens](https://github.com/bradens) | Braden Simpson | Victoria | 4,912 |
@@ -83,4 +83,4 @@ Indexed users: 1,782
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
 
-Generated: 2026-10-08T03:14:03.093Z
+Generated: 2026-10-08T06:30:44.292Z

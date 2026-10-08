@@ -1,6 +1,6 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-08T03:52:53.340Z
+Generated: 2026-10-08T06:50:22.394Z
 
 Users: 3313
 
@@ -21,8 +21,8 @@ Users: 3313
 | 13 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 1473 |
 | 14 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | MoonCode |  | Dominican Republic | 1460 |
 | 15 | [eburgos](https://github.com/eburgos) | Eduardo Burgos |  |  | Santo Domingo, DN, Dominican Republic | 1348 |
-| 16 | [AlejandroBeltre](https://github.com/AlejandroBeltre) | Alejandro Beltre | Thryv |  | Santo Domingo, Dominican Republic | 1336 |
-| 17 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1298 |
-| 18 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez |  |  | Dominican Republic | 1291 |
-| 19 | [rwhite27](https://github.com/rwhite27) | Rafael White | @mctekk  |  | Santo Domingo, Dominican Republic | 1277 |
-| 20 | [ctorressoftware](https://github.com/ctorressoftware) | Carlos Torres |  |  | Dominican Republic | 1258 |
+| 16 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1298 |
+| 17 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez |  |  | Dominican Republic | 1291 |
+| 18 | [rwhite27](https://github.com/rwhite27) | Rafael White | @mctekk  |  | Santo Domingo, Dominican Republic | 1277 |
+| 19 | [ctorressoftware](https://github.com/ctorressoftware) | Carlos Torres |  |  | Dominican Republic | 1258 |
+| 20 | [DiogenesPolanco](https://github.com/DiogenesPolanco) | Diógenes Polanco | APAP | diogenespolanco | Dominican Republic | 1219 |

@@ -1,8 +1,8 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-08T03:24:03.174Z
+Generated: 2026-10-08T06:35:29.421Z
 
-Users: 3873
+Users: 3872
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

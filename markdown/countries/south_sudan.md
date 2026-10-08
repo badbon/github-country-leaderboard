@@ -14,8 +14,8 @@ Indexed users: 133
 |---:|---|---|---|---:|
 | 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 8,877 |
 | 2 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
-| 3 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 4,879 |
-| 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,502 |
+| 3 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 5,109 |
+| 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,461 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 1,007 |
 | 6 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 811 |
 | 7 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 736 |
@@ -38,8 +38,8 @@ Indexed users: 133
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
-| 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 4,101 |
-| 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,502 |
+| 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 4,331 |
+| 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,461 |
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 1,047 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 583 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 542 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-08T03:16:12.362Z
+Generated: 2026-10-08T06:32:09.999Z

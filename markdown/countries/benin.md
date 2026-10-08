@@ -1,6 +1,6 @@
 # Benin
 
-Indexed users: 471
+Indexed users: 470
 
 | Leaderboard | Link |
 |---|---|
@@ -20,18 +20,18 @@ Indexed users: 471
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 6,472 |
 | 7 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,874 |
 | 8 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,141 |
-| 9 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,924 |
-| 10 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,830 |
-| 11 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 3,817 |
-| 12 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 3,724 |
-| 13 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,685 |
+| 9 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,986 |
+| 10 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,924 |
+| 11 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,830 |
+| 12 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 3,817 |
+| 13 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 3,724 |
 | 14 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 3,630 |
 | 15 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 3,441 |
 | 16 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,331 |
 | 17 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,298 |
 | 18 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,213 |
 | 19 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,172 |
-| 20 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,119 |
+| 20 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,116 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 | 20 | [romeokakpo](https://github.com/romeokakpo) | Roméo KAKPO | Benin | 70 |
 
-Generated: 2026-10-08T03:36:32.729Z
+Generated: 2026-10-08T06:42:59.257Z

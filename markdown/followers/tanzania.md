@@ -1,8 +1,8 @@
 # Followers - Tanzania
 
-Generated: 2026-10-08T03:20:08.790Z
+Generated: 2026-10-08T06:33:19.782Z
 
-Users: 2038
+Users: 2037
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

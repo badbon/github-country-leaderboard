@@ -1,12 +1,12 @@
 # Followers - Anguilla
 
-Generated: 2026-10-08T03:32:45.224Z
+Generated: 2026-10-08T06:41:05.225Z
 
 Users: 15
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [rockerBOO](https://github.com/rockerBOO) | Dave Lage | @EcogardenDesign  |  | In the Valley | 249 |
+| 1 | [rockerBOO](https://github.com/rockerBOO) | Dave Lage | @EcogardenDesign  |  | In the Valley | 248 |
 | 2 | [jstncno](https://github.com/jstncno) | Justin Cano |  |  | somewhere in the valley | 49 |
 | 3 | [tjhanley](https://github.com/tjhanley) | Thomas Hanley |  |  | the valley | 47 |
 | 4 | [repsac](https://github.com/repsac) | Ed Caspersen |  |  | The Valley | 36 |

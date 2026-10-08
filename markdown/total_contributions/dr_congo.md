@@ -1,6 +1,6 @@
 # Total Contributions - DR Congo
 
-Generated: 2026-10-08T03:53:57.344Z
+Generated: 2026-10-08T06:50:28.551Z
 
 Users: 699
 
@@ -13,11 +13,11 @@ Users: 699
 | 5 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | @nevolut  | abarchibody | Kinshasa, DRC | 7789 |
 | 6 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA |  |  | kinshasa | 6855 |
 | 7 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | ULB COOPERATION | KalemaDaniel2 | Democratic Republic of the Congo, Goma | 6294 |
-| 8 | [andydefer](https://github.com/andydefer) | Andy Kani | AndyKani DevServices |  | Democratic Republic of Congo | 5904 |
-| 9 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Forge Digitale | esaiemuhasa | Butembo, Congo Kinshasa | 5891 |
-| 10 | [merdielongo](https://github.com/merdielongo) | merdielongo | ELONGO CREA | MerdiElongo | Congo / Kinshasa | 5709 |
-| 11 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 5087 |
-| 12 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Uganda Christian Unversity |  | Kampala, Kinshasa | 4690 |
+| 8 | [merdielongo](https://github.com/merdielongo) | merdielongo | ELONGO CREA | MerdiElongo | Congo / Kinshasa | 6162 |
+| 9 | [andydefer](https://github.com/andydefer) | Andy Kani | AndyKani DevServices |  | Democratic Republic of Congo | 5904 |
+| 10 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Forge Digitale | esaiemuhasa | Butembo, Congo Kinshasa | 5891 |
+| 11 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Uganda Christian Unversity |  | Kampala, Kinshasa | 5508 |
+| 12 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 5087 |
 | 13 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Freelancer |  | Democratic Republic of Congo | 4647 |
 | 14 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Freelance | GuerthManzala | Kinshasa/RDC | 4563 |
 | 15 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Faharix |  | Kinshasa | 4531 |

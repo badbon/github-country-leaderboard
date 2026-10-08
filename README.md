@@ -18,7 +18,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 | [Vatican City](markdown/countries/vatican_city.md) | 30 | [Public](markdown/public_contributions/vatican_city.md) | [Total](markdown/total_contributions/vatican_city.md) | [Followers](markdown/followers/vatican_city.md) |
 | [Saint Barthélemy](markdown/countries/saint_barthelemy.md) | 1 | [Public](markdown/public_contributions/saint_barthelemy.md) | [Total](markdown/total_contributions/saint_barthelemy.md) | [Followers](markdown/followers/saint_barthelemy.md) |
 | [Samoa](markdown/countries/samoa.md) | 19 | [Public](markdown/public_contributions/samoa.md) | [Total](markdown/total_contributions/samoa.md) | [Followers](markdown/followers/samoa.md) |
-| [Haiti](markdown/countries/haiti.md) | 340 | [Public](markdown/public_contributions/haiti.md) | [Total](markdown/total_contributions/haiti.md) | [Followers](markdown/followers/haiti.md) |
+| [Haiti](markdown/countries/haiti.md) | 339 | [Public](markdown/public_contributions/haiti.md) | [Total](markdown/total_contributions/haiti.md) | [Followers](markdown/followers/haiti.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-08T04:33:15.625Z
+Generated: 2026-10-08T06:56:57.910Z

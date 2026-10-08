@@ -12,7 +12,7 @@ Indexed users: 1,654
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 30,020 |
+| 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 30,600 |
 | 2 | [mhodieknowledge](https://github.com/mhodieknowledge) | Knowledge Mhodi | Bulawayo, Zimbabwe | 14,818 |
 | 3 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 9,326 |
 | 4 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Zimbabwe | 7,682 |
@@ -54,9 +54,9 @@ Indexed users: 1,654
 | 15 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine | Zimbabwe | 1,426 |
 | 16 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 1,424 |
 | 17 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,249 |
-| 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,197 |
-| 19 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,092 |
-| 20 | [ohnonashe](https://github.com/ohnonashe) | Nashe Dan | Harare, Zimbabwe | 1,020 |
+| 18 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 1,220 |
+| 19 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,197 |
+| 20 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,092 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,654
 | 19 | [kaysiz](https://github.com/kaysiz) | kudakwashe siziva | Zimbabwe | 122 |
 | 20 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 113 |
 
-Generated: 2026-10-08T03:29:11.704Z
+Generated: 2026-10-08T06:39:20.522Z

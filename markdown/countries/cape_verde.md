@@ -1,6 +1,6 @@
 # Cape Verde
 
-Indexed users: 564
+Indexed users: 563
 
 | Leaderboard | Link |
 |---|---|
@@ -40,23 +40,23 @@ Indexed users: 564
 | 1 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,337 |
 | 2 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 1,060 |
 | 3 | [klcombr](https://github.com/klcombr) | KL Com | Praia Grande, SP | 1,003 |
-| 4 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido | praia grande-sp | 691 |
-| 5 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho | Cape Verde | 551 |
+| 4 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho | Cape Verde | 706 |
+| 5 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido | praia grande-sp | 691 |
 | 6 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  | Praia grande - sp | 542 |
 | 7 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 522 |
 | 8 | [Mateuus](https://github.com/Mateuus) | Mateuus | Praia Grande - SP | 482 |
 | 9 | [IgorBern02](https://github.com/IgorBern02) | Igor Bernardes | Praia Grande - SP | 414 |
-| 10 | [anaximeno](https://github.com/anaximeno) | Anaxímeno Brito | Cape Verde | 405 |
-| 11 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Praia Grande | 401 |
-| 12 | [Coyas](https://github.com/Coyas) | Ailton Duarte | Praia, Cabo Verde | 364 |
-| 13 | [rafarfelipe](https://github.com/rafarfelipe) | Rafael Felipe | Praia Grande - SP | 324 |
-| 14 | [GustavoLDO](https://github.com/GustavoLDO) | Gustavo Lemos  de Oliveira  | Praia Grande -SP | 302 |
-| 15 | [blzrosa](https://github.com/blzrosa) | Bruno Luís Zerbinatto Rosa | Praia Grande, SP | 301 |
-| 16 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo | Praia Grande - SP | 251 |
-| 17 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 240 |
-| 18 | [thisisleobro](https://github.com/thisisleobro) | Leo Carvalho | Cape Verde | 210 |
-| 19 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 186 |
-| 20 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 182 |
+| 10 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Praia Grande | 401 |
+| 11 | [Coyas](https://github.com/Coyas) | Ailton Duarte | Praia, Cabo Verde | 364 |
+| 12 | [rafarfelipe](https://github.com/rafarfelipe) | Rafael Felipe | Praia Grande - SP | 324 |
+| 13 | [GustavoLDO](https://github.com/GustavoLDO) | Gustavo Lemos  de Oliveira  | Praia Grande -SP | 302 |
+| 14 | [blzrosa](https://github.com/blzrosa) | Bruno Luís Zerbinatto Rosa | Praia Grande, SP | 301 |
+| 15 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo | Praia Grande - SP | 251 |
+| 16 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 240 |
+| 17 | [thisisleobro](https://github.com/thisisleobro) | Leo Carvalho | Cape Verde | 210 |
+| 18 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 186 |
+| 19 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 182 |
+| 20 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 180 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 564
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 53 |
 
-Generated: 2026-10-08T03:46:11.188Z
+Generated: 2026-10-08T06:45:08.566Z

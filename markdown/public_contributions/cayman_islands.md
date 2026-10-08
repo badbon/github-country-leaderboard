@@ -1,16 +1,16 @@
 # Public Contributions - Cayman Islands
 
-Generated: 2026-10-08T03:46:20.559Z
+Generated: 2026-10-08T06:45:16.377Z
 
 Users: 123
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 1754 |
+| 1 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 1760 |
 | 2 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | IoFinnet |  | Cayman Islands | 1577 |
 | 3 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 1100 |
 | 4 | [dcimring](https://github.com/dcimring) | Daniel |  |  | Cayman Islands | 1050 |
-| 5 | [pankajjagtapp](https://github.com/pankajjagtapp) | Pankaj Jagtap | @etherfi-protocol | pankajjagtapp | Cayman Islands | 801 |
+| 5 | [pankajjagtapp](https://github.com/pankajjagtapp) | Pankaj Jagtap | @etherfi-protocol | pankajjagtapp | Cayman Islands | 798 |
 | 6 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Ether.Fi | 0xpanicError | Cayman Islands | 779 |
 | 7 | [krciga22](https://github.com/krciga22) | Andrew Forster |  |  | Cayman Islands | 462 |
 | 8 | [renannery](https://github.com/renannery) | Nery | GoDaddy |  | Cayman Islands | 355 |

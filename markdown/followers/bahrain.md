@@ -1,6 +1,6 @@
 # Followers - Bahrain
 
-Generated: 2026-10-08T03:34:52.401Z
+Generated: 2026-10-08T06:42:16.950Z
 
 Users: 732
 
@@ -12,7 +12,7 @@ Users: 732
 | 4 | [0xRar](https://github.com/0xRar) |  |  | fcv9_q | Bahrain | 115 |
 | 5 | [burhan](https://github.com/burhan) | Burhan Khalid |  | burhan | Bahrain/Kuwait | 110 |
 | 6 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 107 |
-| 7 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 104 |
+| 7 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 106 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 98 |
 | 9 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 94 |
 | 10 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 91 |

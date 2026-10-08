@@ -12,12 +12,12 @@ Indexed users: 4,697
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [nkovalcin](https://github.com/nkovalcin) | Norbert Kovalčín | Prešov, Slovakia | 15,052 |
-| 2 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | Slovak Republic | 12,108 |
-| 3 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | Bratislava, Slovakia | 12,043 |
-| 4 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Košice, Slovakia | 11,966 |
-| 5 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 11,799 |
-| 6 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 11,009 |
+| 1 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 16,177 |
+| 2 | [nkovalcin](https://github.com/nkovalcin) | Norbert Kovalčín | Prešov, Slovakia | 15,052 |
+| 3 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | Slovak Republic | 12,108 |
+| 4 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | Bratislava, Slovakia | 12,043 |
+| 5 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Košice, Slovakia | 11,966 |
+| 6 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 11,799 |
 | 7 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Bratislava, Slovakia | 10,414 |
 | 8 | [thecubbe](https://github.com/thecubbe) | TheCubbe | Slovakia | 9,956 |
 | 9 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 9,652 |
@@ -40,11 +40,11 @@ Indexed users: 4,697
 | 1 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Bratislava | 7,850 |
 | 2 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 7,535 |
 | 3 | [tomasol](https://github.com/tomasol) | Tomáš Olvecký | Bratislava, Slovakia | 5,880 |
-| 4 | [rischo32](https://github.com/rischo32) | Richard Fonfára | Slovakia | 3,943 |
-| 5 | [lalinsky](https://github.com/lalinsky) | Lukáš Lalinský | Trenčín, Slovakia | 3,812 |
-| 6 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 3,788 |
-| 7 | [imincik](https://github.com/imincik) | Ivan Mincik | Slovakia | 3,740 |
-| 8 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 3,713 |
+| 4 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 4,193 |
+| 5 | [rischo32](https://github.com/rischo32) | Richard Fonfára | Slovakia | 3,943 |
+| 6 | [lalinsky](https://github.com/lalinsky) | Lukáš Lalinský | Trenčín, Slovakia | 3,812 |
+| 7 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 3,788 |
+| 8 | [imincik](https://github.com/imincik) | Ivan Mincik | Slovakia | 3,740 |
 | 9 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 3,667 |
 | 10 | [marianmeres](https://github.com/marianmeres) | Marian Meres | Bratislava, Slovakia | 3,264 |
 | 11 | [peter-fusek](https://github.com/peter-fusek) | Peter Fusek \| instarea | Bratislava, Slovakia, EU | 3,256 |
@@ -83,4 +83,4 @@ Indexed users: 4,697
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-08T03:14:45.400Z
+Generated: 2026-10-08T06:31:25.392Z

@@ -62,9 +62,9 @@ Indexed users: 681
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | Togo | 387 |
+| 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | Togo | 386 |
 | 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | Lomé, Togo | 209 |
-| 3 | [IrouKaizen](https://github.com/IrouKaizen) | irouKaizen | Lomé | 194 |
+| 3 | [IrouKaizen](https://github.com/IrouKaizen) | irouKaizen | Lomé | 197 |
 | 4 | [GhostEsso](https://github.com/GhostEsso) | Essohanam TAMBANA | Lomé, Togo | 165 |
 | 5 | [kpidiba](https://github.com/kpidiba) | KaizenCoder | Lomé-Togo | 149 |
 | 6 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Togo | 147 |
@@ -83,4 +83,4 @@ Indexed users: 681
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 65 |
 
-Generated: 2026-10-08T03:21:17.713Z
+Generated: 2026-10-08T06:34:00.751Z

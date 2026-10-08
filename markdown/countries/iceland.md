@@ -1,6 +1,6 @@
 # Iceland
 
-Indexed users: 1,584
+Indexed users: 1,583
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 1,584
 | 17 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 5,501 |
 | 18 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 5,396 |
 | 19 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 5,113 |
-| 20 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 5,037 |
+| 20 | [elfaralfreds](https://github.com/elfaralfreds) | Elfar Alfreðsson | Akureyri, Iceland | 5,042 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,584
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 202 |
 
-Generated: 2026-10-08T04:02:10.899Z
+Generated: 2026-10-08T06:55:48.937Z

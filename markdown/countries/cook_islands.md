@@ -37,11 +37,11 @@ Indexed users: 7
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [cacamelio](https://github.com/cacamelio) |  | Aitutaki, Cook Islands | 15 |
-| 2 | [FriedKhan](https://github.com/FriedKhan) | Fried | Cook Islands | 7 |
+| 2 | [FriedKhan](https://github.com/FriedKhan) | Fried | Cook Islands | 8 |
 | 3 | [batmansmaster](https://github.com/batmansmaster) |  | Cook Islands | 5 |
 | 4 | [kortizol2](https://github.com/kortizol2) | Joshua Harris | North Megantown, Cook Islands | 5 |
 | 5 | [AvariceGelpat](https://github.com/AvariceGelpat) | Avarice D. Gelpat | Avarua, Cook Island | 3 |
 | 6 | [alchemada](https://github.com/alchemada) | N bishop | cook islands | 2 |
 | 7 | [SchanielDiffmann](https://github.com/SchanielDiffmann) | Benlf | Avarua,Cookinseln,Ozeanien | 2 |
 
-Generated: 2026-10-08T03:49:22.635Z
+Generated: 2026-10-08T06:48:03.562Z

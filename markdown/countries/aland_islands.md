@@ -27,7 +27,7 @@ Indexed users: 61
 | 13 | [karusmari](https://github.com/karusmari) | Maris Karu | Åland Islands | 469 |
 | 14 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 407 |
 | 15 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 391 |
-| 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 247 |
+| 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 238 |
 | 17 | [ejmilli](https://github.com/ejmilli) | eliza john |  Åland Islands, Finland | 185 |
 | 18 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 176 |
 | 19 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 134 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-08T03:30:57.478Z
+Generated: 2026-10-08T06:39:51.116Z

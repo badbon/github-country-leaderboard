@@ -1,6 +1,6 @@
 # Public Contributions - Bahrain
 
-Generated: 2026-10-08T03:34:52.401Z
+Generated: 2026-10-08T06:42:16.950Z
 
 Users: 732
 
@@ -15,10 +15,10 @@ Users: 732
 | 7 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 1259 |
 | 8 | [masterde](https://github.com/masterde) | Baker | XYZ |  | Bahrain, Muharraq | 966 |
 | 9 | [read2see](https://github.com/read2see) | Husain Habib |  |  | Bahrain | 888 |
-| 10 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | American University of Bahrain |  | Bahrain | 843 |
-| 11 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 806 |
-| 12 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi |  |  | Bahrain | 733 |
-| 13 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi |  |  | Bahrain | 726 |
+| 10 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 806 |
+| 11 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | American University of Bahrain |  | Bahrain | 769 |
+| 12 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi |  |  | Bahrain | 733 |
+| 13 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi |  |  | Bahrain | 733 |
 | 14 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 707 |
 | 15 | [sfoulad](https://github.com/sfoulad) | Foulad | Foulad | Fouladtm | Bahrain | 682 |
 | 16 | [falansari](https://github.com/falansari) | Fatima Alansari |  |  | Bahrain | 677 |
