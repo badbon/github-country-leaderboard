@@ -3271,8 +3271,8 @@
     "company": "oss",
     "twitterUsername": "assu_2000",
     "followers": 11,
-    "privateContributions": 1145,
-    "publicContributions": 22,
+    "privateContributions": 858,
+    "publicContributions": 29,
     "createdAt": "2020-09-15T11:05:20Z"
   },
   {
@@ -3283,7 +3283,7 @@
     "company": "EvoluData",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 201,
+    "privateContributions": 282,
     "publicContributions": 0,
     "createdAt": "2020-03-13T10:24:15Z"
   },
@@ -3295,8 +3295,8 @@
     "company": "LogiqSoft",
     "twitterUsername": "ken_mwepu",
     "followers": 8,
-    "privateContributions": 685,
-    "publicContributions": 14,
+    "privateContributions": 946,
+    "publicContributions": 10,
     "createdAt": "2020-02-23T08:31:09Z"
   },
   {
@@ -3307,8 +3307,8 @@
     "company": "IMA-WorldHealth  ",
     "twitterUsername": "Meleck_mak",
     "followers": 8,
-    "privateContributions": 439,
-    "publicContributions": 49,
+    "privateContributions": 552,
+    "publicContributions": 69,
     "createdAt": "2020-04-18T07:39:58Z"
   },
   {
@@ -3331,21 +3331,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 142,
+    "privateContributions": 141,
     "publicContributions": 22,
     "createdAt": "2020-02-03T04:23:39Z"
-  },
-  {
-    "login": "CarinSiwa",
-    "name": "Carin Siwa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74180924?s=72&u=15f7e520027ac8710c202a4e9ead40016dc2b8d9&v=4",
-    "location": "Democratic Republic of Congo",
-    "company": "Carin Siwa",
-    "twitterUsername": "siwacarin_cd",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 236,
-    "createdAt": "2020-11-09T09:46:46Z"
   },
   {
     "login": "Triplebourgeois",
@@ -3379,8 +3367,8 @@
     "company": "",
     "twitterUsername": "RuhamyaElie",
     "followers": 3,
-    "privateContributions": 113,
-    "publicContributions": 19,
+    "privateContributions": 132,
+    "publicContributions": 75,
     "createdAt": "2020-12-06T00:12:06Z"
   },
   {
@@ -3392,7 +3380,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2020-07-11T09:55:39Z"
   },
   {
@@ -3416,13 +3404,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2020-04-18T22:37:16Z"
   },
   {
     "login": "franck5555",
-    "name": "Franckmuciga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69079885?s=72&v=4",
+    "name": "francois muciga",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69079885?s=72&u=5de94da08c193d59400469f418aed26982bdd01c&v=4",
     "location": "Democratic Republic of Congo",
     "company": "CDA AFRICA",
     "twitterUsername": "",
@@ -3439,7 +3427,7 @@
     "company": "ULB COOPERATION",
     "twitterUsername": "KalemaDaniel2",
     "followers": 28,
-    "privateContributions": 8150,
+    "privateContributions": 6272,
     "publicContributions": 22,
     "createdAt": "2019-05-25T05:08:29Z"
   },
@@ -3450,9 +3438,9 @@
     "location": "Democratic Republic of the Congo, Goma",
     "company": "@oliversoftsarl, @congoclub, @amdhub, @FreeDev-Group",
     "twitterUsername": "ashuza_destin",
-    "followers": 24,
-    "privateContributions": 652,
-    "publicContributions": 662,
+    "followers": 25,
+    "privateContributions": 829,
+    "publicContributions": 615,
     "createdAt": "2019-05-29T13:57:12Z"
   },
   {
@@ -3464,7 +3452,7 @@
     "twitterUsername": "Gedeon57843481",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 11,
     "createdAt": "2019-02-01T03:17:44Z"
   },
   {
@@ -3498,7 +3486,7 @@
     "location": "Democratic Republic of Congo-Kinshasa",
     "company": "Huawei technology",
     "twitterUsername": "KumbuEzechias1",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-08-15T13:08:46Z"

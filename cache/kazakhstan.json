@@ -3224,7 +3224,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 6,
     "createdAt": "2025-01-21T19:52:02Z"
   },
   {
@@ -3236,20 +3236,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-07T13:47:44Z"
-  },
-  {
-    "login": "daryamedushenko",
-    "name": "Darius",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229990909?s=72&u=c18eb52cf559f1e9adc2917bd493f0417a100439&v=4",
-    "location": "Astana",
-    "company": "Otbasy Bank",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2025-09-02T15:50:00Z"
   },
   {
     "login": "dkalidolda-create",
@@ -3272,7 +3260,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 149,
+    "publicContributions": 125,
     "createdAt": "2025-02-25T15:14:50Z"
   },
   {
@@ -3284,7 +3272,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 66,
     "createdAt": "2025-04-14T17:47:44Z"
   },
   {
@@ -3294,9 +3282,9 @@
     "location": "Astana",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 58,
-    "publicContributions": 1161,
+    "followers": 5,
+    "privateContributions": 9,
+    "publicContributions": 1695,
     "createdAt": "2025-07-09T05:16:44Z"
   },
   {
@@ -3319,8 +3307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 44,
-    "publicContributions": 3,
+    "privateContributions": 157,
+    "publicContributions": 9,
     "createdAt": "2025-08-01T17:38:09Z"
   },
   {
@@ -3332,7 +3320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 150,
     "createdAt": "2025-09-25T13:56:47Z"
   },
   {
@@ -3344,7 +3332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 123,
     "createdAt": "2025-12-17T13:29:08Z"
   },
   {
@@ -3356,7 +3344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3047,
+    "publicContributions": 5166,
     "createdAt": "2025-05-02T15:46:10Z"
   },
   {
@@ -3368,7 +3356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 64,
     "createdAt": "2025-05-23T18:35:32Z"
   },
   {
@@ -3379,8 +3367,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 81,
+    "privateContributions": 0,
+    "publicContributions": 50,
     "createdAt": "2025-04-26T22:06:37Z"
   },
   {
@@ -3392,7 +3380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 30,
     "createdAt": "2025-11-02T09:58:59Z"
   },
   {
@@ -3412,11 +3400,11 @@
     "name": "Tarlan Baimyrza",
     "avatarUrl": "https://avatars.githubusercontent.com/u/207415265?s=72&u=85b3d1147d086979efaabf1c80707a981f049dc0&v=4",
     "location": "Astana",
-    "company": "Yandex",
+    "company": "NEXCEL Solutions ",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 72,
     "createdAt": "2025-04-13T08:38:51Z"
   },
   {
@@ -3428,7 +3416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 53,
     "createdAt": "2025-04-20T18:31:53Z"
   },
   {
@@ -3440,20 +3428,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 58,
     "createdAt": "2025-01-22T06:13:29Z"
-  },
-  {
-    "login": "Myltrix",
-    "name": "Miras Tuleshev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217813827?s=72&u=25fbd39d525caf0733d49ab812bd36fc3d6d4099&v=4",
-    "location": "Astana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2025-06-24T18:55:55Z"
   },
   {
     "login": "AlibekBabassov",
@@ -68062,5 +68038,137 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2021-09-01T12:49:03Z"
+  },
+  {
+    "login": "typelop",
+    "name": "typelop",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285195789?s=72&u=cff0218ae67d6d429236a65f5305fe728ae72071&v=4",
+    "location": "Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-16T12:00:35Z"
+  },
+  {
+    "login": "bekmuhanbetov24-dotcom",
+    "name": "Artur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286859860?s=72&u=20ae3f8bf8992570623404acfe86af5d9525c961&v=4",
+    "location": "Kazakhstan, Astana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-05-22T04:43:10Z"
+  },
+  {
+    "login": "baur-jh",
+    "name": "Bauyrznan Jali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290714295?s=72&u=a6208788eb63c2c36e7b7b7f088b66f7a7f425c2&v=4",
+    "location": "Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-04T11:57:25Z"
+  },
+  {
+    "login": "atzcode",
+    "name": "atzcode",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285292215?s=72&u=c653a27d32b14e0edd446ff01ad7788ec03be40c&v=4",
+    "location": "Astana Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-16T21:15:36Z"
+  },
+  {
+    "login": "sabyrux",
+    "name": "Sabyrzhan Zhaslanuly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290828751?s=72&u=e291039dca64e935c671e58bd9381ab34b4aced1&v=4",
+    "location": "Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 21,
+    "publicContributions": 82,
+    "createdAt": "2026-06-04T18:54:55Z"
+  },
+  {
+    "login": "gulnazzbatyr-glitch",
+    "name": "Gulnaz Batyr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285443209?s=72&v=4",
+    "location": "Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-05-17T14:55:49Z"
+  },
+  {
+    "login": "leonkrm",
+    "name": "Leon Krmv",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289772090?s=72&u=daff2d9d83c0dc838789b86330662a6b951632d2&v=4",
+    "location": "Almaty, Kazakhstan",
+    "company": "Al-Farabi Kazakh National University (KazNU)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 23,
+    "publicContributions": 35,
+    "createdAt": "2026-06-01T17:21:02Z"
+  },
+  {
+    "login": "romanvcodes",
+    "name": "Roman Vassin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289342783?s=72&u=e2a50e1c0e5960a3cca3a3d0f2c847a32380a80a&v=4",
+    "location": "Kazakhstan/Almaty",
+    "company": "Hero's Journey",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-31T05:54:08Z"
+  },
+  {
+    "login": "Trend0v",
+    "name": "Trendov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289615367?s=72&u=82c5b456ad146e54f9d404e74e9db90c4b754e0e&v=4",
+    "location": "Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-06-01T08:14:25Z"
+  },
+  {
+    "login": "dinmukhamednurkaliyev",
+    "name": "Dinmukhamed Nurkaliyev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285761938?s=72&u=24313d95426235c05b3b22fb278f62aad02de631&v=4",
+    "location": "Almaty, Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2026-05-18T16:56:13Z"
+  },
+  {
+    "login": "asetshmanov-ops",
+    "name": "Aset Shamanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285457496?s=72&u=921a3d26d1188af4c33596b7631a71b0de0b3a5c&v=4",
+    "location": "Kazakhstan ",
+    "company": "Master link ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-05-17T16:06:18Z"
   }
 ]

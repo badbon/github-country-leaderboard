@@ -3283,8 +3283,8 @@
     "company": "None",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 308,
-    "publicContributions": 131,
+    "privateContributions": 325,
+    "publicContributions": 183,
     "createdAt": "2020-05-24T16:03:43Z"
   },
   {
@@ -3294,9 +3294,9 @@
     "location": "Mongolia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 749,
-    "publicContributions": 46,
+    "followers": 13,
+    "privateContributions": 703,
+    "publicContributions": 37,
     "createdAt": "2020-07-19T08:08:17Z"
   },
   {
@@ -3307,7 +3307,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 6,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2020-05-02T06:55:05Z"
   },
@@ -3318,9 +3318,9 @@
     "location": "Mongolia",
     "company": "хувиараа",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 17,
-    "publicContributions": 12,
+    "followers": 12,
+    "privateContributions": 19,
+    "publicContributions": 11,
     "createdAt": "2020-07-30T04:11:51Z"
   },
   {
@@ -3332,7 +3332,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 41,
     "createdAt": "2020-03-31T06:43:41Z"
   },
   {
@@ -3343,21 +3343,9 @@
     "company": "Erdenet Institute of Mongolia",
     "twitterUsername": "ganbaadesu",
     "followers": 10,
-    "privateContributions": 150,
+    "privateContributions": 165,
     "publicContributions": 3,
     "createdAt": "2020-10-12T07:03:31Z"
-  },
-  {
-    "login": "nicky-ru",
-    "name": "Nikita Ruban",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64008830?s=72&u=fdc7876e3e654db6b76eb7ba162c70534ea6f6da&v=4",
-    "location": "Ulaanbaatar, Mongolia",
-    "company": "",
-    "twitterUsername": "sea_of_zhou",
-    "followers": 10,
-    "privateContributions": 3101,
-    "publicContributions": 72,
-    "createdAt": "2020-04-20T09:53:31Z"
   },
   {
     "login": "Erdenejargal-dev",
@@ -3366,7 +3354,7 @@
     "location": "Ulaanbaatar, Mongolia",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2020-12-24T09:22:37Z"
@@ -3379,8 +3367,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 875,
-    "publicContributions": 376,
+    "privateContributions": 1013,
+    "publicContributions": 426,
     "createdAt": "2020-07-23T20:14:32Z"
   },
   {
@@ -3390,7 +3378,7 @@
     "location": "Ulaanbaatar, Mongolia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-06T06:47:06Z"
@@ -3412,11 +3400,11 @@
     "name": "Dashnyam Batbayar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/62279827?s=72&u=197f5062b403edab39d584c187f7b650b26eaf60&v=4",
     "location": "Ulaanbaatar, Mongolia",
-    "company": "Able Soft LLC",
+    "company": "Ablesoft LLC",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 380,
-    "publicContributions": 149,
+    "followers": 13,
+    "privateContributions": 298,
+    "publicContributions": 310,
     "createdAt": "2020-03-17T07:24:58Z"
   },
   {
@@ -3424,11 +3412,11 @@
     "name": "Amartuvshin Surenjav",
     "avatarUrl": "https://avatars.githubusercontent.com/u/65982680?s=72&u=01a70f052dd29e7e12211e04cd83ef316b424f49&v=4",
     "location": "Ulaanbaatar, Mongolia",
-    "company": "",
+    "company": "erxes",
     "twitterUsername": "Amaraa2404",
     "followers": 7,
-    "privateContributions": 7024,
-    "publicContributions": 414,
+    "privateContributions": 9567,
+    "publicContributions": 526,
     "createdAt": "2020-05-26T21:44:17Z"
   },
   {
@@ -3439,8 +3427,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 4894,
-    "publicContributions": 171,
+    "privateContributions": 5019,
+    "publicContributions": 228,
     "createdAt": "2020-03-12T16:33:40Z"
   },
   {
@@ -3475,7 +3463,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3618,
+    "privateContributions": 5541,
     "publicContributions": 35,
     "createdAt": "2020-03-08T14:45:59Z"
   },
@@ -3487,8 +3475,8 @@
     "company": "Unitel Group",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1181,
-    "publicContributions": 57,
+    "privateContributions": 1685,
+    "publicContributions": 15,
     "createdAt": "2020-12-03T12:05:56Z"
   },
   {
@@ -3499,20 +3487,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 212,
+    "privateContributions": 159,
     "publicContributions": 0,
     "createdAt": "2020-11-19T10:44:12Z"
   },
   {
     "login": "Ariubilig",
     "name": "RARI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65898240?s=72&u=2af9d0990537323a73593dd9ddfea4c561777d6e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65898240?s=72&u=383d7d84962e1b0eb27d4a526283096b02629e82&v=4",
     "location": "Ulaanbaatar, Mongolia",
     "company": "Student",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 287,
+    "privateContributions": 102,
+    "publicContributions": 313,
     "createdAt": "2020-05-25T10:35:27Z"
   },
   {

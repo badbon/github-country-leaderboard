@@ -3296,7 +3296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2995,
+    "publicContributions": 210,
     "createdAt": "2025-01-10T20:32:39Z"
   },
   {
@@ -3307,7 +3307,7 @@
     "company": "Scylla Studio",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 144,
+    "privateContributions": 127,
     "publicContributions": 0,
     "createdAt": "2025-01-14T10:49:29Z"
   },
@@ -3330,7 +3330,7 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2025-12-18T20:11:37Z"
@@ -3344,7 +3344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 11,
     "createdAt": "2025-06-18T11:32:36Z"
   },
   {
@@ -3356,7 +3356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-11T18:12:13Z"
   },
   {
@@ -3403,7 +3403,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 70,
+    "privateContributions": 78,
     "publicContributions": 0,
     "createdAt": "2025-03-20T19:30:20Z"
   },
@@ -3428,7 +3428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2025-10-03T12:14:48Z"
   },
   {
@@ -3438,9 +3438,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 14,
-    "publicContributions": 144,
+    "publicContributions": 215,
     "createdAt": "2025-06-12T14:41:14Z"
   },
   {
@@ -3459,7 +3459,7 @@
     "login": "kounakis",
     "name": "Antonis Kounakis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/212614881?s=72&v=4",
-    "location": "Chania , Crete , Greece",
+    "location": "Chania, Greece",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
@@ -3476,7 +3476,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 40,
     "createdAt": "2025-05-19T00:13:17Z"
   },
   {
@@ -3499,7 +3499,7 @@
     "company": "",
     "twitterUsername": "skyatday",
     "followers": 1,
-    "privateContributions": 471,
+    "privateContributions": 482,
     "publicContributions": 2,
     "createdAt": "2025-07-02T21:43:05Z"
   },

@@ -3210,9 +3210,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 333,
-    "publicContributions": 90,
+    "followers": 2,
+    "privateContributions": 446,
+    "publicContributions": 834,
     "createdAt": "2025-07-16T04:44:37Z"
   },
   {
@@ -3224,7 +3224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2025-09-09T06:34:48Z"
   },
   {
@@ -3234,9 +3234,9 @@
     "location": "Hong Kong",
     "company": "HKUST",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 52,
     "createdAt": "2025-11-11T12:23:52Z"
   },
   {
@@ -3247,8 +3247,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3826,
-    "publicContributions": 1546,
+    "privateContributions": 6059,
+    "publicContributions": 2105,
     "createdAt": "2025-07-17T16:27:20Z"
   },
   {
@@ -3284,20 +3284,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 49,
     "createdAt": "2025-11-18T09:40:35Z"
-  },
-  {
-    "login": "Xan-HHP",
-    "name": "Xan Lau",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205860665?s=72&u=185b53832772dfd241637c47e219c6aa0d32483b&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-04-02T01:53:23Z"
   },
   {
     "login": "scmlewis",
@@ -3306,9 +3294,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1574,
+    "publicContributions": 1797,
     "createdAt": "2025-03-17T06:28:39Z"
   },
   {
@@ -3332,7 +3320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 96,
     "createdAt": "2025-09-23T09:22:42Z"
   },
   {
@@ -3344,7 +3332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 46,
     "createdAt": "2025-06-15T04:55:03Z"
   },
   {
@@ -3356,7 +3344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 6,
     "createdAt": "2025-10-04T16:39:00Z"
   },
   {
@@ -3392,7 +3380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 92,
     "createdAt": "2025-09-07T17:53:04Z"
   },
   {
@@ -3409,14 +3397,14 @@
   },
   {
     "login": "ChanHei419",
-    "name": "Helon Chan",
+    "name": "HeiChan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/218920481?s=72&v=4",
     "location": "Hong Kong",
     "company": "@RAPO",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 41,
     "createdAt": "2025-07-02T06:14:36Z"
   },
   {
@@ -3427,8 +3415,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 35,
+    "privateContributions": 3,
+    "publicContributions": 38,
     "createdAt": "2025-09-09T08:03:24Z"
   },
   {
@@ -3439,8 +3427,8 @@
     "company": "HKU",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 58,
-    "publicContributions": 2,
+    "privateContributions": 59,
+    "publicContributions": 1,
     "createdAt": "2025-08-15T03:38:23Z"
   },
   {

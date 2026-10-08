@@ -3210,7 +3210,7 @@
     "location": "Macau",
     "company": "University of Macau",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-05-23T00:35:10Z"
@@ -3222,7 +3222,7 @@
     "location": "Macau",
     "company": "Macau University of Science and Technology",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-05-24T14:32:39Z"
@@ -3260,7 +3260,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2018-08-23T06:23:14Z"
   },
   {
@@ -3270,7 +3270,7 @@
     "location": "MACAU",
     "company": "South China University Of Technology",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-09-03T09:52:28Z"
@@ -3282,8 +3282,8 @@
     "location": "Macau",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 67,
+    "followers": 3,
+    "privateContributions": 91,
     "publicContributions": 0,
     "createdAt": "2018-10-08T09:15:48Z"
   },
@@ -3296,20 +3296,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 166,
     "createdAt": "2018-08-31T00:26:18Z"
-  },
-  {
-    "login": "kaiun1221",
-    "name": "Coldstar_QAQ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44801327?s=72&u=561dab3bb83b395f7d67cdfa2c67792eb13dbbb4&v=4",
-    "location": "Macau",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-11-06T09:15:10Z"
   },
   {
     "login": "uchqur",
@@ -3342,7 +3330,7 @@
     "location": "Macau",
     "company": "Macau University of Science and Technology",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2018-02-01T14:52:34Z"
@@ -3380,7 +3368,7 @@
     "twitterUsername": "chonloklei",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2017-03-27T21:30:19Z"
   },
   {
@@ -3390,8 +3378,8 @@
     "location": "Macao",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 207,
+    "followers": 5,
+    "privateContributions": 235,
     "publicContributions": 18,
     "createdAt": "2017-08-04T22:49:32Z"
   },
@@ -3402,9 +3390,9 @@
     "location": "Macao",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 258,
-    "publicContributions": 18,
+    "followers": 9,
+    "privateContributions": 535,
+    "publicContributions": 23,
     "createdAt": "2017-03-25T11:07:18Z"
   },
   {
@@ -3415,8 +3403,8 @@
     "company": "Macao Polytechnic University",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 130,
-    "publicContributions": 18,
+    "privateContributions": 158,
+    "publicContributions": 4,
     "createdAt": "2017-08-16T01:33:44Z"
   },
   {
@@ -3439,7 +3427,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 93,
+    "privateContributions": 623,
     "publicContributions": 0,
     "createdAt": "2017-03-06T14:20:57Z"
   },

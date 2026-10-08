@@ -3246,9 +3246,9 @@
     "location": "Dublin, Ireland",
     "company": "Red Hat",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 17,
-    "publicContributions": 128,
+    "followers": 3,
+    "privateContributions": 40,
+    "publicContributions": 142,
     "createdAt": "2025-12-15T15:37:45Z"
   },
   {
@@ -3260,7 +3260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 407,
+    "publicContributions": 680,
     "createdAt": "2025-09-18T16:29:38Z"
   },
   {
@@ -3288,18 +3288,6 @@
     "createdAt": "2025-03-11T14:26:38Z"
   },
   {
-    "login": "B14ncx",
-    "name": "Bianca de Lima Batista",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/208134088?s=72&u=89226b967c26890ead6c5fc45250e0b7c3999b6e&v=4",
-    "location": "Ireland ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-04-18T08:23:27Z"
-  },
-  {
     "login": "igorknoppj-max",
     "name": "Igor Knopp Jr",
     "avatarUrl": "https://avatars.githubusercontent.com/u/249458454?s=72&u=8007596ff23f9e3a919540dcf774dc27776dc90a&v=4",
@@ -3320,7 +3308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 37,
     "createdAt": "2025-11-14T20:12:20Z"
   },
   {
@@ -3332,7 +3320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 39,
     "createdAt": "2025-04-23T20:11:33Z"
   },
   {
@@ -3343,7 +3331,7 @@
     "company": "@Fusion-Three-Ireland-Org ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 39,
+    "privateContributions": 37,
     "publicContributions": 1,
     "createdAt": "2025-07-15T14:15:55Z"
   },
@@ -3354,7 +3342,7 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-12-12T16:12:56Z"
@@ -3380,7 +3368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 24,
     "createdAt": "2025-01-20T12:24:07Z"
   },
   {
@@ -3392,7 +3380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 9,
     "createdAt": "2025-02-01T22:53:05Z"
   },
   {
@@ -3404,7 +3392,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 22,
+    "publicContributions": 32,
     "createdAt": "2025-10-25T21:20:39Z"
   },
   {
@@ -3415,8 +3403,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
-    "publicContributions": 107,
+    "privateContributions": 127,
+    "publicContributions": 124,
     "createdAt": "2025-07-08T19:13:52Z"
   },
   {
@@ -3428,7 +3416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 358,
+    "publicContributions": 368,
     "createdAt": "2025-01-31T06:28:58Z"
   },
   {
@@ -3439,8 +3427,8 @@
     "company": "Red Hat",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 49,
+    "privateContributions": 17,
+    "publicContributions": 52,
     "createdAt": "2025-05-06T16:45:53Z"
   },
   {
@@ -3476,7 +3464,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 44,
     "createdAt": "2025-09-23T14:06:10Z"
   },
   {
@@ -234274,5 +234262,245 @@
     "privateContributions": 332,
     "publicContributions": 761,
     "createdAt": "2025-10-03T13:18:46Z"
+  },
+  {
+    "login": "Borealiscodes",
+    "name": "Borealis S Hedling",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295925312?s=72&u=64005ae9da8916c441700c602ff3f0ccd1e0a582&v=4",
+    "location": "Dublin Ireland ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 0,
+    "publicContributions": 13324,
+    "createdAt": "2026-06-22T17:03:23Z"
+  },
+  {
+    "login": "Rich-Hacks",
+    "name": "Rich",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284984318?s=72&u=3d79ad32365101c5a3db4b0b14a1355c426bd8da&v=4",
+    "location": "Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 64,
+    "createdAt": "2026-05-15T14:46:52Z"
+  },
+  {
+    "login": "Havel-The-Rock",
+    "name": "Gabor Kiss",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292533811?s=72&u=0d74b4091ae12dccff167c0af841a1ddccd47ad9&v=4",
+    "location": "Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-10T17:23:13Z"
+  },
+  {
+    "login": "StepR8",
+    "name": "Stephen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287012707?s=72&v=4",
+    "location": "Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-22T15:31:33Z"
+  },
+  {
+    "login": "yvonnedevlinrh",
+    "name": "Yvonne Devlin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290286207?s=72&v=4",
+    "location": "Ireland",
+    "company": "Red Hat",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 89,
+    "publicContributions": 1250,
+    "createdAt": "2026-06-03T07:36:32Z"
+  },
+  {
+    "login": "NaevoLab",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291050508?s=72&u=210a07dfaf11edb8ce96b089b4aa185d23ff50b4&v=4",
+    "location": "Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 278,
+    "publicContributions": 2,
+    "createdAt": "2026-06-05T13:36:14Z"
+  },
+  {
+    "login": "XikimaSoz49",
+    "name": "Brittany Lin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288864785?s=72&v=4",
+    "location": "New Brandon, Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-29T07:35:43Z"
+  },
+  {
+    "login": "ShaanGarg13",
+    "name": "Shaan Garg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288009387?s=72&u=c0a891de8043246ecc44c32147ffae2889c4b02f&v=4",
+    "location": "Maynooth, Ireland",
+    "company": "MEngSc Integrated Circuit Design @ Maynnooth University | Btech. Electronics and Instrumentation with minor in VLSI Design from Nirma University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2026-05-26T12:32:35Z"
+  },
+  {
+    "login": "MekimeNo42",
+    "name": "Wendy Palmer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289134526?s=72&v=4",
+    "location": "Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-30T06:18:34Z"
+  },
+  {
+    "login": "Cameron-Mck",
+    "name": "Cameron McKenna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292150603?s=72&v=4",
+    "location": "Dublin, Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-09T14:45:33Z"
+  },
+  {
+    "login": "lucyancoffey",
+    "name": "Lucy An Coffey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288697834?s=72&u=fe91c792197d343673f489411d147f432cc50f01&v=4",
+    "location": "Galway, Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-05-28T16:18:32Z"
+  },
+  {
+    "login": "XuhicuKaci77",
+    "name": "Donald Wise",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289131223?s=72&v=4",
+    "location": "Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-05-30T05:58:40Z"
+  },
+  {
+    "login": "Max-Engineer",
+    "name": "Maksym Zhelezniakov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286151268?s=72&u=529b642630eb668d58c9461973e304cff2cc510b&v=4",
+    "location": "Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2026-05-19T21:55:41Z"
+  },
+  {
+    "login": "chisom-nci",
+    "name": "Chisom Praise Ejim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288050456?s=72&v=4",
+    "location": "Dublin, Ireland",
+    "company": "National College of Ireland",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2026-05-26T14:48:46Z"
+  },
+  {
+    "login": "rafaelgwit-dev",
+    "name": "Rafael Barcelos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284685181?s=72&v=4",
+    "location": "Dublin, Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-05-14T14:28:14Z"
+  },
+  {
+    "login": "tetianakushniruk-lilly",
+    "name": "Tetiana Kushniruk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284683929?s=72&v=4",
+    "location": "Cork, Ireland",
+    "company": "Eli Lilly",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-14T14:24:08Z"
+  },
+  {
+    "login": "Rahul-S98",
+    "name": "Rahul",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285211294?s=72&v=4",
+    "location": "Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-05-16T13:23:27Z"
+  },
+  {
+    "login": "SymaroTeam",
+    "name": "Symaro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291398041?s=72&u=ef437b0e9bd65d527fb5d04fb35a1c2345cb653b&v=4",
+    "location": "Ireland",
+    "company": "Symaro Software Limited",
+    "twitterUsername": "SymaroTeam",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-06-06T22:37:13Z"
+  },
+  {
+    "login": "BSidesDublin",
+    "name": "Security BSides Dublin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290133977?s=72&u=51d3d2ebfce9154352651921f8d99683baf2a456&v=4",
+    "location": "Dublin, Ireland",
+    "company": "",
+    "twitterUsername": "BSidesDublin",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-02T18:42:21Z"
+  },
+  {
+    "login": "DavidConnoll",
+    "name": "David Connolly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292748492?s=72&u=15c2fdfc8a46e6e9c981c05ec06c641cea877ff4&v=4",
+    "location": "Dublin, Ireland 🇮🇪",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-11T10:20:53Z"
   }
 ]

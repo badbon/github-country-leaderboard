@@ -2996,7 +2996,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-08-19T11:50:53Z"
   },
   {
@@ -3020,7 +3020,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 8,
     "createdAt": "2022-06-03T08:57:09Z"
   },
   {
@@ -3054,9 +3054,9 @@
     "location": "Luxembourg",
     "company": "Sproochtech",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 12,
     "createdAt": "2022-11-29T17:40:50Z"
   },
   {
@@ -3092,7 +3092,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 162,
     "createdAt": "2022-10-05T08:41:11Z"
   },
   {
@@ -3162,21 +3162,21 @@
     "location": "Luxembourg | Mauritius",
     "company": "IMFE Studio | University of Luxembourg (LCSB)",
     "twitterUsername": "IMFEmambocus",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 181,
+    "publicContributions": 390,
     "createdAt": "2017-12-01T14:58:36Z"
   },
   {
     "login": "kissalexandra",
     "name": "Alexandra Kiss",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83172201?s=72&u=a1b92990c1393144ff54a6d3cea1cc9f30b1402d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83172201?s=72&u=fce0636c10830325c6a5dae65871a6be112cd39f&v=4",
     "location": "Ville de Luxembourg",
     "company": "",
-    "twitterUsername": "",
-    "followers": 616,
-    "privateContributions": 10,
-    "publicContributions": 82,
+    "twitterUsername": "xkissalexandra",
+    "followers": 613,
+    "privateContributions": 69,
+    "publicContributions": 190,
     "createdAt": "2021-04-25T14:00:35Z"
   },
   {
@@ -3187,7 +3187,7 @@
     "company": "Ascender Fund Partners",
     "twitterUsername": "",
     "followers": 86,
-    "privateContributions": 75,
+    "privateContributions": 73,
     "publicContributions": 17,
     "createdAt": "2020-12-29T08:03:24Z"
   },
@@ -3198,9 +3198,9 @@
     "location": "Luxembourg",
     "company": "University of Luxembourg",
     "twitterUsername": "",
-    "followers": 68,
-    "privateContributions": 1,
-    "publicContributions": 100,
+    "followers": 67,
+    "privateContributions": 15,
+    "publicContributions": 126,
     "createdAt": "2021-03-25T07:27:50Z"
   },
   {
@@ -3210,7 +3210,7 @@
     "location": "Luxembourg",
     "company": "42lux",
     "twitterUsername": "",
-    "followers": 67,
+    "followers": 68,
     "privateContributions": 193,
     "publicContributions": 0,
     "createdAt": "2021-08-01T12:49:33Z"
@@ -3222,7 +3222,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 52,
+    "followers": 55,
     "privateContributions": 0,
     "publicContributions": 54,
     "createdAt": "2021-06-04T12:02:25Z"

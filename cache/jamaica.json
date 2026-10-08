@@ -3319,7 +3319,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 69,
+    "privateContributions": 118,
     "publicContributions": 2,
     "createdAt": "2021-05-13T23:20:34Z"
   },
@@ -3331,7 +3331,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 361,
+    "privateContributions": 340,
     "publicContributions": 63,
     "createdAt": "2021-07-13T19:24:40Z"
   },
@@ -3378,9 +3378,9 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "_gevaun",
-    "followers": 1,
-    "privateContributions": 759,
-    "publicContributions": 94,
+    "followers": 2,
+    "privateContributions": 758,
+    "publicContributions": 92,
     "createdAt": "2021-01-04T21:00:40Z"
   },
   {
@@ -3392,7 +3392,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 37,
     "createdAt": "2021-02-06T16:17:36Z"
   },
   {
@@ -3487,7 +3487,7 @@
     "company": "Digicel Group (Jamaica) ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 846,
+    "privateContributions": 793,
     "publicContributions": 69,
     "createdAt": "2021-09-17T04:25:29Z"
   },
@@ -3510,9 +3510,9 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-09-06T19:00:52Z"
   },
   {
@@ -15382,5 +15382,29 @@
     "privateContributions": 650,
     "publicContributions": 0,
     "createdAt": "2008-04-27T23:46:40Z"
+  },
+  {
+    "login": "brandondibug",
+    "name": "brandon-debug",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285538338?s=72&u=66ac5c10eb6a5c7b4d4b3bdf6453d2d74670ef48&v=4",
+    "location": "Jamaica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-18T01:27:21Z"
+  },
+  {
+    "login": "VertexLabHQ",
+    "name": "Vertex Lab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288461132?s=72&u=3d2faf9e8e67336199f182a7cc8ef8f783dd5781&v=4",
+    "location": "Jamaica",
+    "company": "",
+    "twitterUsername": "TheVertexLab",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-05-27T22:10:21Z"
   }
 ]

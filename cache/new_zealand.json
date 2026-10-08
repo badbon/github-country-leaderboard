@@ -3192,18 +3192,6 @@
     "createdAt": "2025-01-29T00:26:34Z"
   },
   {
-    "login": "Ncam00",
-    "name": "Nixon Cam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/214925225?s=72&u=b82ce4b0286acdcf33cd448173795e9626d114a5&v=4",
-    "location": "Wellington, NZ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 90,
-    "publicContributions": 374,
-    "createdAt": "2025-06-05T02:00:25Z"
-  },
-  {
     "login": "joshuapinpin",
     "name": "Joshua Pinpin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/199528750?s=72&u=51d15d3db1c18ff7db253e03f96bd1298b6b9630&v=4",
@@ -3211,8 +3199,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 46,
-    "publicContributions": 560,
+    "privateContributions": 179,
+    "publicContributions": 343,
     "createdAt": "2025-02-16T22:26:52Z"
   },
   {
@@ -3234,9 +3222,9 @@
     "location": "Wellington",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 30,
+    "followers": 6,
+    "privateContributions": 12,
+    "publicContributions": 50,
     "createdAt": "2025-03-06T21:08:02Z"
   },
   {
@@ -3246,9 +3234,9 @@
     "location": "Wellington",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 88,
     "createdAt": "2025-10-06T02:34:02Z"
   },
   {
@@ -3259,7 +3247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 35,
+    "privateContributions": 44,
     "publicContributions": 23,
     "createdAt": "2025-05-04T23:16:38Z"
   },
@@ -3272,7 +3260,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 329,
     "createdAt": "2025-11-18T21:08:38Z"
   },
   {
@@ -3282,7 +3270,7 @@
     "location": "Wellington",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-24T02:42:21Z"
@@ -3290,13 +3278,13 @@
   {
     "login": "rebecca-ingulkar",
     "name": "Rebecca Ingulkar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197346276?s=72&u=912219f6596287f2dcfdc697675160a54d39fdfa&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197346276?s=72&v=4",
     "location": "Wellington",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 72,
-    "publicContributions": 144,
+    "followers": 1,
+    "privateContributions": 69,
+    "publicContributions": 173,
     "createdAt": "2025-02-01T04:02:37Z"
   },
   {
@@ -3320,7 +3308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 42,
     "createdAt": "2025-11-10T03:05:14Z"
   },
   {
@@ -3344,7 +3332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 58,
     "createdAt": "2025-02-02T20:05:25Z"
   },
   {
@@ -3366,9 +3354,9 @@
     "location": "Wellington",
     "company": "@nz-gpts",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 496,
-    "publicContributions": 13,
+    "followers": 2,
+    "privateContributions": 926,
+    "publicContributions": 27,
     "createdAt": "2025-06-07T01:12:00Z"
   },
   {
@@ -3380,7 +3368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2025-02-14T01:44:04Z"
   },
   {
@@ -3391,7 +3379,7 @@
     "company": "Monash University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 61,
+    "privateContributions": 51,
     "publicContributions": 0,
     "createdAt": "2025-05-11T09:03:42Z"
   },
@@ -3403,8 +3391,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 498,
-    "publicContributions": 1170,
+    "privateContributions": 2001,
+    "publicContributions": 945,
     "createdAt": "2024-03-13T05:13:59Z"
   },
   {
@@ -3415,7 +3403,7 @@
     "company": "",
     "twitterUsername": "GrubbyPigeon",
     "followers": 1,
-    "privateContributions": 75,
+    "privateContributions": 69,
     "publicContributions": 8,
     "createdAt": "2024-06-30T13:08:16Z"
   },
